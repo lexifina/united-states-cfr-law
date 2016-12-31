@@ -1,0 +1,195 @@
+# Supplement No. 6 to Part 774—Sensitive List
+Note to Supplement No. 6: While the items on this list are identified by ECCN rather than by Wassenaar Arrangement numbering, the item descriptions are drawn directly from the Wassenaar Arrangement's Sensitive List. If text accompanies an ECCN below, then the Sensitive List is limited to a subset of items classified under the specific ECCN or has differing parameters.
+(1) Category 1
+(i) 1A002.
+(ii) 1C001.
+(iii) 1C007.c and.d.
+(iv) 1C010.c and.d.
+(v) 1C012.
+(vi) 1D002—"Software" for the "development" of organic "matrix", metal "matrix", or carbon "matrix" laminates or composites controlled under 1A002, 1C007.c, 1C007.d, 1C010.c or 1C010.d.
+(vii) 1E001—"Technology" according to the General Technology Note for the "development" or "production" of equipment and materials controlled under 1A002, 1C001, 1C007.c, 1C007.d, 1C010.c, 1C010.d, or 1C012.
+(viii) 1E002.e and.f.
+(2) Category 2
+(i) 2D001—"Software," other than that controlled by 2D002, specially designed for the "development" or "production" of equipment as follows:
+(A) Machine tools for turning (ECCN 2B001.a) having two or more axes which can be coordinated simultaneously for "contouring control" having any of the following:
+(1) "Unidirectional positioning repeatability" equal to or less (better) than 0.9 µm along one or more linear axis with a travel length less than 1.0 m; or
+(2) "Unidirectional positioning repeatability" equal to or less (better) than 1.1 µm along one or more linear axis with a travel length equal to or greater than 1.0 m;
+(B) Machine tools for milling (ECCN 2B001.b) having any of the following:
+(1) Three linear axes plus one rotary axis which can be coordinated simultaneously for "contouring control" having any of the following:
+(a) "Unidirectional positioning repeatability" equal to or less (better) than 0.9 µm along one or more linear axis with a travel length less than 1.0 m; or
+(b) "Unidirectional positioning repeatability" equal to or less (better) than 1.1 µm along one or more linear axis with a travel length equal to or greater than 1.0 m;
+(2) Specified by 2B001.b.2.a, 2B001.b.2.b or 2B001.b.2.c and having a "unidirectional positioning repeatability" equal to or less (better) than 1.1 µm along one or more linear axis; or
+(3) A "unidirectional positioning repeatability" for jig boring machines equal to or less (better) than 1.1 µm along one or more linear axis;
+(C) Electrical discharge machines (EDM) controlled under 2B001.d;
+(D) Deep-hole-drilling machines controlled under 2B001.f;
+(E) "Numerically controlled" or manual machine tools controlled under 2B003.
+(ii) 2E001—"Technology" according to the General Technology Note for the "development" of "software" specified by 2D001 described in this Supplement or for the "development" of equipment as follows:
+(A) Machine tools for turning (ECCN 2B001.a) having two or more axes which can be coordinated simultaneously for "contouring control" having any of the following:
+(1) "Unidirectional positioning repeatability" equal to or less (better) than 0.9 µm along one or more linear axis with a travel length less than 1.0 m; or
+(2) "Unidirectional positioning repeatability" equal to or less (better) than 1.1 µm along one or more linear axis with a travel length equal to or greater than 1.0 m
+(B) Machine tools for milling (ECCN 2B001.b) having any of the following:
+(1) Three linear axes plus one rotary axis which can be coordinated simultaneously for "contouring control" having any of the following:
+(a) "Unidirectional positioning repeatability" equal to or less (better) than 0.9 µm along one or more linear axis with a travel length less than 1.0 m; or
+(b) "Unidirectional positioning repeatability" equal to or less (better) than 1.1 µm along one or more linear axis with a travel length equal to or greater than 1.0 m;
+(2) Specified by 2B001.b.2.a, 2B001.b.2.b or 2B001.b.2.c and having a "unidirectional positioning repeatability" equal to or less (better) than 1.1 µm along one or more linear axis; or
+(3) A "unidirectional positioning repeatability" for jig boring machines equal to or less (better) than 1.1 µm along one or more linear axis;
+(C) Electrical discharge machines (EDM) controlled under 2B001.d;
+(D) Deep-hole-drilling machines controlled under 2B001.f;
+(E) "Numerically controlled" or manual machine tools controlled under 2B003.
+(iii) 2E002—"Technology" according to the General Technology Note for the "production" of equipment as follows:
+(A) Machine tools for turning (ECCN 2B001.a) having two or more axes which can be coordinated simultaneously for "contouring control" having any of the following:
+(1) "Unidirectional positioning repeatability" equal to or less (better) than 0.9 µm along one or more linear axis with a travel length less than 1.0 m; or
+(2) "Unidirectional positioning repeatability" equal to or less (better) than 1.1 µm along one or more linear axis with a travel length equal to or greater than 1.0 m;
+(B) Machine tools for milling (ECCN 2B001.b) having any of the following:
+(1) Three linear axes plus one rotary axis which can be coordinated simultaneously for "contouring control" having any of the following:
+(a) "Unidirectional positioning repeatability" equal to or less (better) than 0.9 µm along one or more linear axis with a travel length less than 1.0 m; or
+(b) "Unidirectional positioning repeatability" equal to or less (better) than 1.1 µm along one or more linear axis with a travel length equal to or greater than 1.0 m;
+(2) Specified by 2B001.b.2.a, 2B001.b.2.b or 2B001.b.2.c and having a "unidirectional positioning repeatability" equal to or less (better) than 1.1 µm along one or more linear axis; or
+(3) A "unidirectional positioning repeatability" for jig boring machines equal to or less (better) than 1.1 µm along one or more linear axis;
+(C) Electrical discharge machines (EDM) controlled under 2B001.d;
+(D) Deep-hole-drilling machines controlled under 2B001.f;
+(E) "Numerically controlled" or manual machine tools controlled under 2B003.
+(3) Category 3
+(i) 3A002.g.1.
+(ii) 3D001—"Software" "specially designed" for the "development" or "production" of equipment controlled under 3A002.g.1.
+(iii) 3E001—"Technology" according to the General Technology Note for the "development" or "production" of equipment controlled under 3A002.g.1.
+(4) Category 4
+(i) 4A001.a.2.
+(ii) 4D001—"Software" "specially designed" for the "development" or "production" of equipment controlled under ECCN 4A001.a.2 or for the "development" or "production" of
+"digital computers" having an 'Adjusted Peak Performance' ('APP') exceeding 12.5 Weighted TeraFLOPS (WT).
+(iii) 4E001—"Technology" according to the General Technology Note for the "development" or "production" of any of the following equipment or "software": equipment controlled under ECCN 4A001.a.2, "digital computers" having an 'Adjusted Peak Performance' ('APP') exceeding 12.5 Weighted TeraFLOPS (WT), or "software" controlled under the specific provisions of 4D001 described in this Supplement.
+(5) Category 5—Part 1
+(i) 5A001.b.3,.b.5, and.h.
+(ii) 5B001.a—Equipment and "specially designed" components or "accessories" therefor, "specially designed" for the "development" or "production" of equipment, functions or features controlled under 5A001.b.3, b.5, or.h.
+(iii) 5D001.a—"Software" "specially designed" for the "development" or "production" of equipment, functions or features controlled under 5A001.b.3, b.5, or.h.
+(iv) [Reserved]
+(v) 5E001.a—"Technology" according to the General Technology Note for the "development" or "production" of equipment, functions or features controlled under 5A001.b.3, b.5, or.h or "software" described in this Supplement's description of 5D001.a.
+(6) Category 6
+(i) 6A001.a.1.b—Systems or transmitting and receiving arrays, designed for object detection or location, having any of the following:
+(A) A transmitting frequency below 5 kHz or a sound pressure level exceeding 224 dB (reference 1 µPa at 1 m) for equipment with an operating frequency in the band from 5 kHz to 10 kHz inclusive;
+(B) Sound pressure level exceeding 224 dB (reference 1 µPa at 1 m) for equipment with an operating frequency in the band from 10 kHz to 24 kHz inclusive;
+(C) Sound pressure level exceeding 235 dB (reference 1 µPa at 1 m) for equipment with an operating frequency in the band between 24 kHz and 30 kHz;
+(D) Forming beams of less than 1° on any axis and having an operating frequency of less than 100 kHz;
+(E) Designed to operate with an unambiguous display range exceeding 5,120 m; or
+(F) Designed to withstand pressure during normal operation at depths exceeding 1,000 m and having transducers with any of the following:
+(1) Dynamic compensation for pressure; or
+(2) Incorporating other than lead zirconate titanate as the transduction element;
+(ii) 6A001.a.1.e.
+(iii) 6A001.a.2.a.1, a.2.a.2, a.2.a.3, a.2.a.5, and a.2.a.6.
+(iv) 6A001.a.2.b.
+(v) 6A001.a.2.c—Processing equipment, "specially designed" for real time application with towed acoustic hydrophone arrays, having "user accessible programmability" and time or frequency domain processing and correlation, including spectral analysis, digital filtering and beamforming using Fast Fourier or other transforms or processes.
+(vi) 6A001.a.2.d.
+(vii) 6A001.a.2.e.
+(viii) 6A001.a.2.f—Processing equipment, "specially designed" for real time application with bottom or bay cable systems, having "user accessible programmability" and time or frequency domain processing and correlation, including spectral analysis, digital filtering and beamforming using Fast Fourier or other transforms or processes.
+(ix) 6A002.a.1.a, a.1.b, and a.1.c.
+(x) 6A002.a.1.d.
+(xi) 6A002.a.2.a—Image intensifier tubes having all of the following:
+(A) A peak response in the wavelength range exceeding 400 nm but not exceeding 1,050 nm;
+(B) Electron image amplification using any of the following:
+(1) A microchannel plate for electron image amplification with a hole pitch (center-to-center spacing) of 12 µm or less; or
+(2) An electron sensing device with a non-binned pixel pitch of 500 µm or less, "specially designed" or modified to achieve 'charge multiplication' other than by a microchannel plate; and
+(C) Any of the following photocathodes:
+(1) Multialkali photocathodes (e.g., S-20 and S-25) having a luminous sensitivity exceeding 700 µA/lm;
+(2) GaAs or GaInAs photocathodes; or
+(3) Other "III-V compound" semiconductor photocathodes having a maximum "radiant sensitivity" exceeding 10 mA/W.
+(xii) 6A002.a.2.b.
+(xiii) 6A002.a.3—Subject to the following additional notes:
+Note 1: 6A002.a.3 does not apply to the following "focal plane arrays" in this Supplement: a. Platinum Silicide (PtSi) "focal plane arrays" having less than 10,000 elements; b. Iridium Silicide (IrSi) "focal plane arrays."
+Note 2: 6A002.a.3 does not apply to the following "focal plane arrays" in this Supplement: a. Indium Antimonide (InSb) or Lead Selenide (PbSe) "focal plane arrays" having less than 256 elements; b. Indium Arsenide (InAs) "focal plane arrays"; c. Lead Sulphide (PbS) "focal plane arrays"; d. Indium Gallium Arsenide (InGaAs) "focal plane arrays."
+Note 3: 6A002.a.3 does not apply to Mercury Cadmium Telluride (HgCdTe) "focal plane arrays" as follows in this Supplement: a. 'Scanning Arrays' having any of the following: 1. 30 elements or less; or 2. Incorporating time delay-and-integration within the element and having 2 elements or less; b. 'Staring Arrays' having less than 256 elements.
+Technical Notes: a. 'Scanning Arrays' are defined as "focal plane arrays" designed for use with a scanning optical system that images a scene in a sequential manner to produce an image; b. 'Staring Arrays' are defined as "focal plane arrays" designed for use with a non-scanning optical system that images a scene.
+Note 6: 6A002.a.3 does not apply to the following "focal plane arrays" in this List: a. Gallium Arsenide (GaAs) or Gallium Aluminum Arsenide (GaAlAs) quantum well "focal plane arrays" having less than 256 elements; b. Microbolometer "focal plane arrays" having less than 8,000 elements.
+Note 7: 6A002.a.3.g does not apply to the linear (1-dimensional) "focal plane arrays" "specially designed" or modified to achieve 'charge multiplication' having 4,096 elements or less.
+Note 8: 6A002.a.3.g. does not apply to the non-linear (2-dimensional) "focal plane arrays" "specially designed" or modified to achieve 'charge multiplication' having a maximum linear dimension of 4,096 elements and a total of 250,000 elements or less.
+(xiv) 6A002.b.
+(xv) 6A002.c—'Direct view' imaging equipment incorporating any of the following:
+(A) Image intensifier tubes having the characteristics listed in this Supplement's description of 6A002.a.2.a or 6A002.a.2.b;
+(B) "Focal plane arrays" having the characteristics listed in this Supplement's description of 6A002.a.3; or
+(C) Solid-state detectors having the characteristics listed in 6A002.a.1.
+(xvi) 6A003.b.3—Imaging cameras incorporating image intensifier tubes having the characteristics listed in this Supplement's description of 6A002.a.2.a or 6A002.a.2.b
+Note: 6A003.b.3 does not apply to imaging cameras "specially designed" or modified for underwater use.
+(xvii) 6A003.b.4—Imaging cameras incorporating "focal plane arrays" having any of the following:
+(A) Incorporating "focal plane arrays" specified by this Supplement's description of 6A002.a.3.a to 6A002.a.3.e;
+(B) Incorporating "focal plane arrays" specified by this Supplement's description of 6A002.a.3.f; or
+(C) Incorporating "focal plane arrays" specified by this Supplement's description of 6A002.a.3.g.
+Note 1: 'Imaging cameras' described in 6A003.b.4 include "focal plane arrays" combined with sufficient "signal processing" electronics, beyond the read out integrated circuit, to enable as a minimum the output of an analog or digital signal once power is supplied.
+Note 2: 6A003.b.4.a does not control imaging cameras incorporating linear "focal plane arrays" with twelve 12 elements or fewer, not employing time-delay-and-integration within the element, and designed for any of the following: a. Industrial or civilian intrusion alarm, traffic or industrial movement control or counting systems; b. Industrial equipment used for inspection or monitoring of heat flows in buildings, equipment or industrial processes; c. Industrial equipment used for inspection, sorting or analysis of the properties of materials; d. Equipment "specially designed" for laboratory use; or e. Medical equipment.
+Note 3: 6A003.b.4.b does not control imaging cameras having any of the following characteristics: a. A maximum frame rate equal to or less than 9 Hz; b. Having all of the following: 1. Having a minimum horizontal or vertical 'Instantaneous-Field-of-View (IFOV)' of at least 10 mrad/pixel (milliradians/pixel); 2. Incorporating a fixed focal-length lens that is not designed to be removed; 3. Not incorporating a 'direct view' display; and
+Technical Note: 'Direct view' refers to an imaging camera operating in the infrared spectrum that presents a visual image to a human observer using a near-to-eye micro display incorporating any light-security mechanism. 4. Having any of the following: a. No facility to obtain a viewable image of the detected field-of-view; or b. The camera is designed for a single kind of application and designed not to be user modified; or
+Technical Note: 'Instantaneous Field of View (IFOV)' specified in Note 3.b is the lesser figure of the 'Horizontal FOV' or the 'Vertical FOV'. 'Horizontal IFOV' = horizontal Field of View (FOV)/number of horizontal detector elements 'Vertical IFOV'= vertical Field of View (FOV)/number of vertical detector elements. c. Where the camera is "specially designed" for installation into a civilian passenger land vehicle of less than 3 tonnes three tons (gross vehicle weight) and having all of the following: 1. Is operable only when installed in any of the following: a. The civilian passenger land vehicle for which it was intended; or b. A "specially designed", authorized maintenance test facility; and 2. Incorporates an active mechanism that forces the camera not to function when it is removed from the vehicle for which it was intended.
+Note: When necessary, details of the items will be provided, upon request, to the Bureau of Industry and Security in order to ascertain compliance with the conditions described in Note 3.b.4 and Note 3.c in this Note to 6A003.b.4.b.
+Note 4: 6A003.b.4.c does not apply to 'imaging cameras' having any of the following characteristics:
+a. Having all of the following:
+1. Where the camera is "specially designed" for installation as an integrated component into indoor and wall-plug-operated systems or equipment, limited by design for a single kind of application, as follows:
+a. Industrial process monitoring, quality control, or analysis of the properties of materials;
+b. Laboratory equipment "specially designed" for scientific research;
+c. Medical equipment;
+d. Financial fraud detection equipment; and
+2. Is only operable when installed in any of the following:
+a. The system(s) or equipment for which it was intended; or
+b. A "specially designed", authorized maintenance facility; and
+3. Incorporates an active mechanism that forces the camera not to function when it is removed from the system(s) or equipment for which it was intended;
+b. Where the camera is "specially designed" for installation into a civilian passenger land vehicle of less than 3 tonnes (gross vehicle weight), or passenger and vehicle ferries having a length overall (LOA) 65 m or greater, and having all of the following:
+1. Is only operable when installed in any of the following:
+a. The civilian passenger land vehicle or passenger and vehicle ferry for which it was intended; or
+b. A "specially designed", authorized maintenance test facility; and
+2. Incorporates an active mechanism that forces the camera not to function when it is removed from the vehicle for which it was intended;
+c. Limited by design to have a maximum "radiant sensitivity" of 10 mA/W or less for wavelengths exceeding 760 nm, having all of the following:
+1. Incorporating a response limiting mechanism designed not to be removed or modified; and
+2. Incorporates an active mechanism that forces the camera not to function when the response limiting mechanism is removed; and
+3. Not "specially designed" or modified for underwater use; or
+d. Having all of the following:
+1. Not incorporating a 'direct view' or electronic image display;
+2. Has no facility to output a viewable image of the detected field of view;
+3. The "focal plane array" is only operable when installed in the camera for which it was intended; and
+4. The "focal plane array" incorporates an active mechanism that forces it to be permanently inoperable when removed from the camera for which it was intended.
+Note: When necessary, details of the item will be provided, upon request, to the Bureau of Industry and Security in order to ascertain compliance with the conditions described in Note 4 above.
+Note 5: 6A003.b.4.c does not apply to imaging cameras "specially designed" or modified for underwater use.
+(xviii) 6A003.b.5.
+(xix) 6A004.c.
+(xx) 6A004.d.
+(xxi) 6A006.a.1.
+(xxii) 6A006.a.2—"Magnetometers" using optically pumped or nuclear precession (proton/Overhauser) "technology" having a 'sensitivity' lower (better) than 2 pT (rms) per square root Hz.
+(xxiii) 6A006.c.1—"Magnetic gradiometers" using multiple "magnetometers" specified by 6A006.a.1 or this Supplement's description of 6A006.a.2.
+(xxiv) 6A006.d—"Compensation systems" for the following:
+(A) Magnetic sensors specified by 6A006.a.2 and using optically pumped or nuclear precession (proton/Overhauser) "technology" that will permit these sensors to realize a 'sensitivity' lower (better) than 2 pT rms per square root Hz.
+(B) Underwater electric field sensors specified by 6A006.b.
+(C) Magnetic gradiometers specified by 6A006.c. that will permit these sensors to realize a 'sensitivity' lower (better) than 3 pT/m rms per square root Hz.
+(xxv) 6A006.e—Underwater electromagnetic receivers incorporating magnetometers specified by 6A006.a.1 or this Supplement's description of 6A006.a.2.
+(xxvi) 6A008.d,.h, and.k.
+(xxvii) 6B008.
+(xxviii) 6D001—"Software" "specially designed" for the "development" or "production" of equipment specified by 6A004.c, 6A004.d, 6A008.d, 6A008.h, 6A008.k, or 6B008.
+(xxix) 6D003.a.
+(xxx) 6E001.
+(xxxi) 6E002—"Technology" according to the General Technology Note for the "production" of equipment specified by the 6A or 6B provisions described in this Supplement.
+(7) Category 7
+(i) 7D002.
+(ii) 7D003.a.
+(iii) 7D003.b.
+(iv) [Reserved]
+(v) 7D004.a to.d and.g.
+(vi) 7E001.
+(vii) 7E002.
+(8) Category 8
+(i) 8A001.b to.d.
+(ii) 8A002.b—Systems "specially designed" or modified for the automated control of the motion of submersible vehicles specified by 8A001.b through.d using navigation data having closed loop servo-controls and having any of the following:
+(A) Enabling a vehicle to move within 10 m of a predetermined point in the water column;
+(B) Maintaining the position of the vehicle within 10 m of a predetermined point in the water column; or
+(C) Maintaining the position of the vehicle within 10 m while following a cable on or under the seabed.
+(iii) 8A002.h and.j.
+(iv) 8A002.o.3.
+(v) 8A002.p.
+(vi) 8D001—"Software" "specially designed" for the "development" or "production" of equipment in 8A001.b to.d, 8A002.b (as described in this Supplement), 8A002.h, 8A002.j, 8A002.o.3, or 8A002.p.
+(vii) 8D002.
+(viii) 8E001—"Technology" according to the General Technology Note for the "development" or "production" of equipment specified by 8A001.b to.d, 8A002.b (as described in this Supplement), 8A002.h, 8A002.j, 8A002.o.3, or 8A002.p.
+(ix) 8E002.a.
+(9) Category 9
+(i) 9A011.
+(ii) 9B001.
+(iii) 9D001—"Software" "specially designed" or modified for the "development" of equipment or "technology," specified by 9A011, 9B001.b. 9E003.a.1, 9E003.a.2 to a.5 or 9E003.a.8 or 9E003.h.
+(iv) 9D002—"Software" "specially designed" or modified for the "production" of equipment specified by 9A011 or 9B001.b.
+(v) 9D004.a and.c.
+(vi) 9E001.
+(vii) 9E002.
+(viii) 9E003.a.1.
+(ix) 9E003.a.2 to a.5, a.8,.h.
