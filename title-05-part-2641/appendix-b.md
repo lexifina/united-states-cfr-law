@@ -1,0 +1,113 @@
+# Appendix B to Part 2641—Agency Components for Purposes of 18 U.S.C. 207(c)
+Pursuant to the provisions of 18 U.S.C. 207(h), each of the following agencies is determined, for purposes of 18 U.S.C. 207(c), and 5 CFR 2641.204, to have within it distinct and separate components as set forth below. Except as otherwise indicated, all designations are effective as of January 1, 1991.
+Parent: Department of Commerce
+Components:
+Bureau of the Census.
+Bureau of Industry and Security (formerly Bureau of Export Administration) (effective January 28, 1992).
+Economic Development Administration.
+International Trade Administration.
+Minority Business Development Agency (formerly listed as Minority Business Development Administration).
+National Institute of Standards and Technology (effective March 6, 2008).
+National Oceanic and Atmospheric Administration.
+National Technical Information Service (effective March 6, 2008).
+National Telecommunications and Information Administration.
+United States Patent and Trademark Office (formerly Patent and Trademark Office).
+Parent: Department of Defense
+Components:
+Department of the Air Force.
+Department of the Army.
+Department of the Navy.
+Defense Information Systems Agency.
+Defense Intelligence Agency.
+Defense Logistics Agency.
+Defense Threat Reduction Agency (effective February 5, 1999).
+National Geospatial-Intelligence Agency (formerly National Imagery and Mapping Agency) (effective May 16, 1997).
+National Reconnaissance Office (effective January 30, 2003).
+National Security Agency.
+Parent: Department of Energy
+Component:
+Federal Energy Regulatory Commission.
+Parent: Department of Health and Human Services
+Components:
+Administration for Children and Families (effective January 28, 1992).
+Administration for Community Living (effective December 4, 2014).
+Agency for Healthcare Research and Quality (formerly Agency for Health Care Policy and Research) (effective May 16, 1997).
+Agency for Toxic Substances and Disease Registry (effective May 16, 1997).
+Centers for Disease Control and Prevention (effective May 16, 1997).
+Centers for Medicare and Medicaid Services (formerly Health Care Financing Administration).
+Food and Drug Administration.
+Health Resources and Services Administration (effective May 16, 1997).
+Indian Health Service (effective May 16, 1997).
+National Institutes of Health (effective May 16, 1997).
+Substance Abuse and Mental Health Services Administration (effective May 16, 1997).
+Parent: Department of the Interior
+Components: 1
+Bureau of Indian Affairs (effective January 28, 1992).
+Bureau of Land Management (effective January 28, 1992).
+Bureau of Reclamation (effective January 28, 1992).
+National Park Service (effective January 28, 1992).
+Office of Surface Mining Reclamation and Enforcement (effective January 28, 1992).
+U.S. Fish and Wildlife Service (effective January 28, 1992).
+U.S. Geological Survey (effective January 28, 1992).
+Parent: Department of Justice
+Components:
+Antitrust Division.
+Bureau of Alcohol, Tobacco, Firearms and Explosives (effective November 23, 2004).
+Bureau of Prisons (including Federal Prison Industries, Inc.).
+Civil Division.
+Civil Rights Division.
+Community Relations Service.
+Criminal Division.
+Drug Enforcement Administration.
+Environment and Natural Resources Division.
+Executive Office for United States Attorneys 2 (effective January 28, 1992).
+Executive Office for United States Trustees 3 (effective January 28, 1992).
+Federal Bureau of Investigation.
+Foreign Claims Settlement Commission.
+Independent Counsel appointed by the Attorney General.
+Office of Justice Programs.
+Office of the Pardon Attorney (effective January 28, 1992).
+Offices of the United States Attorney (each of 94 offices).
+Offices of the United States Trustee (each of 21 offices).
+Office on Violence Against Women 4 (effective March 8, 2007).
+Tax Division.
+United States Marshals Service (effective May 16, 1997).
+United States Parole Commission.
+Parent: Department of Labor
+Components:
+Bureau of Labor Statistics.
+Employee Benefits Security Administration (formerly Pension and Welfare Benefits Administration) (effective May 16, 1997).
+Employment and Training Administration.
+Employment Standards Administration.
+Mine Safety and Health Administration.
+Occupational Safety and Health Administration.
+Office of Disability Employment Policy (effective January 30, 2003).
+Office of Federal Contract Compliance Programs (effective December 29, 2016).
+Office of Labor Management Standards (effective December 29, 2016).
+Office of Workers' Compensation Programs (effective December 29, 2016).
+Pension Benefit Guaranty Corporation (effective May 25, 2011).
+Wage and Hour Division (effective December 29, 2016).
+Parent: Department of State
+Component:
+Foreign Service Grievance Board.
+Parent: Department of Transportation
+Components:
+Federal Aviation Administration.
+Federal Highway Administration.
+Federal Motor Carrier Safety Administration (effective January 30, 2003).
+Federal Railroad Administration.
+Federal Transit Administration.
+Maritime Administration.
+National Highway Traffic Safety Administration.
+Pipeline and Hazardous Materials Safety Administration (effctive December 29, 2016).
+Saint Lawrence Seaway Development Corporation.
+Surface Transportation Board (effective May 16, 1997).
+Parent: Department of the Treasury
+Components:
+Alcohol and Tobacco Tax and Trade Bureau (effective November 23, 2004).
+Bureau of Engraving and Printing.
+Bureau of the Fiscal Service (effective December 4, 2014).
+Comptroller of the Currency.
+Financial Crimes Enforcement Center (FinCEN) (effective January 30, 2003).
+Internal Revenue Service.
+United States Mint (formerly listed as Bureau of the Mint).
