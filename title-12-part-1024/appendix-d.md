@@ -1,0 +1,17 @@
+# Appendix D to Part 1024—Affiliated Business Arrangement Disclosure Statement Format Notice
+To:
+From:
+(Entity Making Statement)
+Property:
+Date:
+This is to give you notice that [referring party] has a business relationship with [settlement services provider(s)]. [Describe the nature of the relationship between the referring party and the provider(s), including percentage of ownership interest, if applicable.] Because of this relationship, this referral may provide [referring party] a financial or other benefit.
+[A.] Set forth below is the estimated charge or range of charges for the settlement services listed. You are NOT required to use the listed provider(s) as a condition for [settlement of your loan on] [or] [purchase, sale, or refinance of] the subject property. THERE ARE FREQUENTLY OTHER SETTLEMENT SERVICE PROVIDERS AVAILABLE WITH SIMILAR SERVICES. YOU ARE FREE TO SHOP AROUND TO DETERMINE THAT YOU ARE RECEIVING THE BEST SERVICES AND THE BEST RATE FOR THESE SERVICES.
+[provider and settlement service]
+[charge or range of charges]
+[B.] Set forth below is the estimated charge or range of charges for the settlement services of an attorney, credit reporting agency, or real estate appraiser that we, as your lender, will require you to use, as a condition of your loan on this property, to represent our interests in the transaction.
+[provider and settlement service]
+[charge or range of charges]
+ACKNOWLEDGMENT
+I/we have read this disclosure form, and understand that referring party is referring me/us to purchase the above-described settlement service(s) and may receive a financial or other benefit as the result of this referral.
+Signature
+[INSTRUCTIONS TO PREPARER:] [Use paragraph A for referrals other than those by a lender to an attorney, a credit reporting agency, or a real estate appraiser that a lender is requiring a borrower to use to represent the lender's interests in the transaction. Use paragraph B for those referrals to an attorney, credit reporting agency, or real estate appraiser that a lender is requiring a borrower to use to represent the lender's interests in the transaction. When applicable, use both paragraphs. Specific timing rules for delivery of the affiliated business disclosure statement are set forth in 12 CFR 1024.15(b)(1) of Regulation X). These INSTRUCTIONS TO PREPARER should not appear on the statement.]
