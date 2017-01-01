@@ -1,0 +1,2 @@
+# Appendix A to Part 536—Consumer Grievance Process
+Any consumer who believes that any savings association or any other person selling, soliciting, advertising, or offering insurance products or annuities to the consumer at an office of the savings association or on behalf of the savings association has violated the requirements of this part should contact the Director, Consumer Programs, Office of Thrift Supervision, at the following address: 1700 G Street, NW., Washington, DC 20552, or telephone 202-906-6237 or 800-842-6929, or e-mail consumer.complaint@ots.treas.gov.
