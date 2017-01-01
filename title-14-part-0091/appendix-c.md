@@ -1,0 +1,10 @@
+# Appendix C to Part 91—Operations in the North Atlantic (NAT) Minimum Navigation Performance Specifications (MNPS) Airspace
+Section 1
+NAT MNPS airspace is that volume of airspace between FL 285 and FL 420 extending between latitude 27 degrees north and the North Pole, bounded in the east by the eastern boundaries of control areas Santa Maria Oceanic, Shanwick Oceanic, and Reykjavik Oceanic and in the west by the western boundary of Reykjavik Oceanic Control Area, the western boundary of Gander Oceanic Control Area, and the western boundary of New York Oceanic Control Area, excluding the areas west of 60 degrees west and south of 38 degrees 30 minutes north.
+Section 2
+The navigation performance capability required for aircraft to be operated in the airspace defined in section 1 of this appendix is as follows:
+(a) The standard deviation of lateral track errors shall be less than 6.3 NM (11.7 Km). Standard deviation is a statistical measure of data about a mean value. The mean is zero nautical miles. The overall form of data is such that the plus and minus 1 standard deviation about the mean encompasses approximately 68 percent of the data and plus or minus 2 deviations encompasses approximately 95 percent.
+(b) The proportion of the total flight time spent by aircraft 30 NM (55.6 Km) or more off the cleared track shall be less than 5.3 × 10−4 (less than 1 hour in 1,887 flight hours).
+(c) The proportion of the total flight time spent by aircraft between 50 NM and 70 NM (92.6 Km and 129.6 Km) off the cleared track shall be less than 13 × 10−5 (less than 1 hour in 7,693 flight hours.)
+Section 3
+Air traffic control (ATC) may authorize an aircraft operator to deviate from the requirements of § 91.705 for a specific flight if, at the time of flight plan filing for that flight, ATC determines that the aircraft may be provided appropriate separation and that the flight will not interfere with, or impose a burden upon, the operations of other aircraft which meet the requirements of § 91.705.
