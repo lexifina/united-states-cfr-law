@@ -1,0 +1,2 @@
+# Appendix A to Part 343—Consumer Grievance Process
+Any consumer who believes that any bank or any other person selling, soliciting, advertising, or offering insurance products or annuities to the consumer at an office of the bank or on behalf of the bank has violated the requirements of this part should contact the Division of Supervision and Consumer Protection (DSC), Federal Deposit Insurance Corporation, at the following address: 550 17th Street, NW., Washington, DC 20429, or telephone 202-942-3100 or 800-934-3342, or e-mail dcainternet@fdic.gov.
