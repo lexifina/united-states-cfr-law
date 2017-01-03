@@ -22,14 +22,8 @@ Collection number | Title | Reference in the EAR
 0694-0122 | Licensing Responsibilities and Enforcement | §§ 744.15(b) and 748.4 and Part 758.
 0694-0125 | BIS Seminar Evaluation | N/A
 0694-0126 | Export License Services—Transfer of License Ownership, Requests for a Duplicate License | § 750.9.
-0694-0129 | Export and Reexport Controls For Iraq | §§ 732.3, 738, 744.18, 746.3(b)(1), 747, 750, 758, 762, 772, 774.
+0694-0129 | Export and Reexport Controls For Iraq | §§ 732.3, 738, 744.18, 746.3(b)(1), 750, 758, 762, 772, 774.
 0694-0132 | Voluntary Self-Disclosure of Antiboycott Violations | § 764.8.
 0694-0134 | Procedure for parties on the Entity List or the Unverified List to Request Removal or Modification of their Listing | §§ 744.15 and 744.16
 0694-0137 | License Exceptions and Exclusions | § 734.4, Supplement No. 2 to part 734, §§ 740.3(d), 740.4(c), 740.9(a)(2)(viii)(B), 740.9(c), 740.12(b)(7), 740.17, 740.18, Supp. No. 2 to part 740, §§ 742.15, 743.1, 743.3, 754.4, 762.2(b) and Supplement No. 1 to part 774.
 0607-0152 | Automated Export System (AES) Program | §§ 740.1(d), 740.3(a)(3), 754.4(c), 758.1, 758.2, and 758.3 of the EAR.
-At 81 FR 87425, Dec. 5, 2016, supplement no. 1 to part 730 was amended by revising the entry for Collection number "0694-0129", effective Jan. 4, 2017. For the convenience of the user, the revised text is set forth as follows:
-Supplement No. 1 to Part 730—Information Collection Requirements Under the Paperwork Reduction Act: OMB Control Numbers
-Collection No. | Title | Reference in the EAR
-* * * * * * *
-0694-0129 | Export and Reexport Controls For Iraq | §§ 732.3, 738, 744.18, 746.3(b)(1), 750, 758, 762, 772, 774.
-* * * * * * *
