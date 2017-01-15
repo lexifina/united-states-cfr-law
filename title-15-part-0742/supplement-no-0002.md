@@ -32,7 +32,7 @@ Note: Exports and reexports of items in performance of contracts entered into be
 (B) Contract sanctity date for helicopters with 10,000 lbs. empty weight or less: April 28, 1986.
 (C) Contract sanctity date for other aircraft and gas turbine engines therefor: December 16, 1986.
 (D) Contract sanctity date for helicopter or aircraft parts and components controlled by ECCN 9A991.d: August 28, 1991.
-(iii) Sudan. Applications for all end-users in Sudan will generally be denied. Contract sanctity date: January 19, 1996.
+(iii) [Reserved]
 (iv) North Korea. Applications for all end-users in North Korea will generally be denied.
 (7) Heavy duty, on-highway tractors
 (i) [Reserved]
@@ -51,7 +51,7 @@ Note: Exports and reexports of items in performance of contracts entered into be
 (10) Cryptographic, cryptoanalytic, and cryptologic equipment.
 (i) [Reserved]
 (ii) Syria. A license is required for all national security-controlled cryptographic, cryptoanalytic, and cryptologic equipment to all end-users. Applications for all end-users in Syria will generally be denied. Contract sanctity date for cryptographic, cryptoanalytic, and cryptologic equipment that was subject to national security controls on August 28, 1991: see paragraph (c)(1)(ii) of this Supplement.
-(iii) Sudan. Applications for all end-users in Sudan of any such equipment will generally be denied. Contract sanctity date for Sudan: January 19, 1996, unless a prior contract sanctity date applies (e.g., items first controlled to Sudan for foreign policy reasons under EAA section 6(j) have a contract sanctity date of December 28, 1993).
+(iii) [Reserved]
 (iv) North Korea. Applications for all end-users in North Korea of any such equipment will generally be denied.
 (11) Navigation, direction finding, and radar equipment.
 (i) [Reserved]
