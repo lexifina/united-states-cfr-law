@@ -12,7 +12,7 @@ Level B
 Training and Checking Permitted
 1. Recency of experience (§ 121.439).
 2. Night takeoffs and landings (Part 121, Appendix E).
-3. Landings in a proficiency check without the landing on the line requirements (§ 121.441).
+3. Except for EFVS operations, landings in a proficiency check without the landing on the line requirements (§ 121.441).
 Level C
 Training and Checking Permitted
 1. For all pilots, transition training between airplanes in the same group, and for a pilot in command the certification check required by § 61.153 of this chapter.
