@@ -1,0 +1,37 @@
+# Appendix to Subpart F of Part 140—Reimbursable Schedule for Converted "E" (Bond Issue) Projects (other than Interstate Projects)
+Time in months following conversion from "E" (bond issue) project to regular project | Cumulative amount reimbursable (percent of Federal funds obligated)
+1 | 1
+2 | 2
+3 | 5
+4 | 9
+5 | 13
+6 | 18
+7 | 23
+8 | 29
+9 | 34
+10 | 39
+11 | 44
+12 | 49
+13 | 54
+14 | 58
+15 | 61
+16 | 64
+17 | 67
+18 | 70
+19 | 73
+20 | 75
+21 | 77
+22 | 79
+23 | 81
+24 | 83
+25 | 85
+26 | 87
+27 | 89
+28 | 91
+29 | 93
+30 | 94
+31 | 95
+32 | 96
+34 | 97
+35 | 99
+36 | 100
