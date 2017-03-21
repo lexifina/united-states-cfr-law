@@ -49,6 +49,7 @@ Either area arrival or area departure, but not both, may be waived under § 121.
 (3) At least one nonprecision approach procedure that is representative of the nonprecision approach procedures that the certificate holder is likely to use | B | | B | | |
 (4) Demonstration of at least one nonprecision approach procedure on a letdown aid other than the approach procedure performed under subparagraph (3) of this paragraph that the certificate holder is approved to use. | B | | | | B |
 Each instrument approach must be performed according to any procedures and limitations approved for the approach facility used. The instrument approach begins when the airplane is over the initial approach fix for the approach procedure being used (or turned over to the final approach controller in the case of GCA approach) and ends when the airplane touches down on the runway or when transition to a missed approach configuration is completed. Instrument conditions need not be simulated below 100′ above touchdown zone elevation
+(5) For each type of EFVS operation the certificate holder is authorized to conduct, at least one instrument approach must be made using an EFVS. | B | * B | |
 (d) Circling approaches. If the certificate holder is approved for circling minimums below 1000-3, at least one circling approach must be made under the following conditions— | | | B* | | | B*
 (1) The portion of the approach to the authorized minimum circling approach altitude must be made under simulated instrument conditions | B | | | | |
 (2) The approach must be made to the authorized minimum circling approach altitude followed by a change in heading and the necessary maneuvering (by visual reference) to maintain a flight path that permits a normal landing on a runway at least 90° from the final approach course of the simulated instrument portion of the approach | | | | | |
@@ -81,6 +82,8 @@ Landings and approaches to landings must include the types listed below, but mor
 Notwithstanding the requirements of subparagraphs (d) (1) and (2) of this paragraph, in a proficiency check for other than a pilot-in-command, the simulated loss of power may be only the most critical powerplant. However, if a pilot satisfies the requirements of subparagraphs (d) (1) or (2) of this paragraph in a visual simulator, he also must maneuver in flight to a landing with a simulated failure of the most critical powerplant. In addition, a pilot-in-command may omit the maneuver required by subparagraph (d)(1) or (d)(2) of this paragraph during a required proficiency check or simulator course of training if he satisfactorily performed that maneuver during the preceding proficiency check, or during the preceding approved simulator course of training under the observation of a check airman, whichever was completed later
 (e) Except as provided in paragraph (f) of this section, if the certificate holder is approved for circling minimums below 1000-3, a landing under simulated circling approach conditions. However, when performed in an airplane, if circumstances beyond the control of the pilot prevent a landing, the person conducting the check may accept an approach to a point where, in his judgment, a landing to a full stop could have been made | | | B* | | |
 #(f) A rejected landing, including a normal missed approach procedure, that is rejected approximately 50′ over the runway and approximately over the runway threshold. This maneuver may be combined with instrument, circling, or missed approach procedures, but instrument conditions need not be simulated below 100 feet above the runway | | | B | | |
+(g) If the certificate holder is authorized to conduct EFVS operations to touchdown and rollout, at least one instrument approach to a landing must be made using an EFVS, including the use of enhanced flight vision from 100 feet above the touchdown zone elevation to touchdown and rollout | B | * B
+(h) If the certificate holder is authorized to conduct EFVS operations to 100 feet above the touchdown zone elevation, at least one instrument approach to a landing must be made using an EFVS, including the transition from enhanced flight vision to natural vision at 100 feet above the touchdown zone elevation | B | * B
 VI. Normal and Abnormal Procedures:
 Each applicant must demonstrate the proper use of as many of the systems and devices listed below as the person conducting the check finds are necessary to determine that the person being checked has a practical knowledge of the use of the systems and devices appropriate to the airplane type:
 (a) Anti-icing and de-icing systems | | | | B | |
@@ -99,18 +102,3 @@ Each applicant must demonstrate the proper emergency procedures for as many of t
 (c) Rapid decompression | | | | B | |
 (d) Emergency descent | | | | B | |
 (e) Any other emergency procedures outlined in the appropriate approved Airplane Flight Manual | | | | B | |
-By Docket FAA-2013-0485, Amdt. 121-376, 81 FR 90175, Dec. 13, 2016, appendix F to part 121 was amended by adding new entries III(c)(5), V(g), and V(h), effective Mar. 13, 2017. For the convenience of the user, the added text is set forth as follows:
-Appendix F to Part 121—Proficiency Check Requirements
-Maneuvers/procedures | Required | Simulatedinstrument conditions | Inflight | Permitted | Visualsimulator | Nonvisualsimulator | Trainingdevice | Waiverprovisions of § 121.441(d)
-* * * * * * *
-III. Instrument procedures:
-| * * * * * * *
-(c) ILS and other instrument approaches. There must be the following:
-| * * * * * * *
-(5) For each type of EFVS operation the certificate holder is authorized to conduct, at least one instrument approach must be made using an EFVS. | B | * B | |
-* * * * * * *
-V. Landings and Approaches to Landings—
-| * * * * * * *
-(g) If the certificate holder is authorized to conduct EFVS operations to touchdown and rollout, at least one instrument approach to a landing must be made using an EFVS, including the use of enhanced flight vision from 100 feet above the touchdown zone elevation to touchdown and rollout | B | * B
-(h) If the certificate holder is authorized to conduct EFVS operations to 100 feet above the touchdown zone elevation, at least one instrument approach to a landing must be made using an EFVS, including the transition from enhanced flight vision to natural vision at 100 feet above the touchdown zone elevation | B | * B
-* * * * * * *
