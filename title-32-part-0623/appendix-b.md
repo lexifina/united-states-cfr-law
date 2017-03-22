@@ -1,0 +1,30 @@
+# Appendix B to Part 623—Approving Authority Addresses/Telephone Numbers *
+B-1. HQDA (DACA-BUS), WASH DC 20310, Telephone: AUTOVON 225-6336, WATS 202-695-6336;
+B-2. HQDA (DALO-SMD), WASH DC 20310, Telephone: AUTOVON 227-5960, WATS 202-697-5960;
+B-3. HQDA (DALO-SMW), WASH DC 20310, Telephone: AUTOVON 227-3159, WATS 202-697-3159;
+B-4. HQDA (DAMO-ODS), WASH DC 20310, Telephone: AUTOVON 225-2003, WATS 202-695-2003;
+B-5. HQDA (NGB-ZA), WASH DC 20310, Telephone: AUTOVON 227-2430, WATS 202-697-2430;
+B-6. HQDA (DASG-HCL), WASH DC 20310, Telephone: AUTOVON 227-8286, WATS 202-697-8286;
+B-7. Director, Civilian Marksmanship (SFNB) Room 1E-OM3, West Forrestal Building, 1000 Independence Avenue, SW., Telephone: AUTOVON 223-6460, WATS 202-693-6460;
+B-8. Commander in Chief, US Army, Europe and Seventh Army, APO New York 09403;
+B-9. Commander, First US Army, Fort George G. Meade, MD 20755, Telephone: AUTOVON 923-7500, WATS 301-677-7500;
+B-10. Commander, Fifth US Army, Fort Sam Houston, TX 78234, Telephone: AUTOVON 471-4707, WATS 512-221-4707;
+B-11. Commander, Sixth US Army, Presidio of San Francisco, CA 94129, Telephone: AUTOVON 486-4110, WATS 415-561-4110;
+B-12. Commander, US Army Armament Materiel Readiness Command, ATTN: DRSAR-MMS, Rock Island, IL 61229;
+B-13. Commander, US Army Armament Research and Development Command, Dover, NJ 07801;
+B-14. Commander, US Army Aviation Research and Development Command, PO Box 209, St. Louis, MO 63177;
+B-15. Commander, US Army Communications and Electronics Materiel Readiness Command, Fort Monmouth, NJ 07703;
+B-16. Commander, US Army Communications Research and Development Command, Fort Monmouth, NJ 07703;
+B-17. Commander, US Army Communications Security, Logistics Agency, ATTN: SELCL-NICP-IM, Fort Huachuca, AZ 86513;
+B-18. Commander, US Army Forces Command, Fort McPherson, GA 30330, Telephone: AUTOVON 588-2694, WATS 404-752-2694;
+B-19. Commander, US Army Health Services Command, Fort Sam Houston, TX 78234;
+B-20. HQDA (DAMH-HS), WASH DC 20314;
+B-21. Commander, US Army Military District of Washington, Fort Leslie J. McNair, Washington, DC 20319;
+B-22. Commander, US Army Missile Materiel Readiness Command, Redstone Arsenal, AL 35809;
+B-23. Commander, US Army Missile Research and Development Command, Redstone Arsenal, AL 35809;
+B-24. Commander, US Army Security Assistance Center, ATTN: DRSAC, 5001 Eisenhower Avenue, Alexandria, VA 22333, Telephone: AUTOVON 284-9638, WATS 202-274-9638;
+B-25. Commander, US Army Tank-Automotive Materiel Readiness Command, Warren, MI 48090;
+B-26. Commander, US Army Tank-Automotive Research and Development Command, Warren, MI 48090;
+B-27. Commander, US Army Test and Evaluation Command, Aberdeen Proving Ground, MD 21005;
+B-28. Commander, US Army Training and Doctrine Command, Fort Monroe, VA 23651, Telephone: AUTOVON 680-3112, WATS 804-727-3112;
+B-29. Commander, US Army Troop Support and Aviation, Materiel Readiness Command, 4300 Goodfellow Boulevard, St. Louis, MO 63120.
