@@ -1,0 +1,75 @@
+# Appendix A to Part 518—References
+(a) References. (1) AR 1-20 Legislative Liaison;
+(2) AR 20-1 Inspector General Activities and Procedures;
+(3) AR 25-1 The Army Information Management;
+(4) AR 25-11 Record Communications and the Privacy Communications System;
+(5) AR 25-400-2 The Army Records Information Management System (ARIMS);
+(6) AR 27-20 Claims;
+(7) AR 36-2 Audit Reports and Follow-up;
+(8) AR 40-66 Medical Record Administration and Health Care Documentation;
+(9) AR 40-68 Quality Assurance Administration;
+(10) AR 40-400 Patient Administration;
+(11) AR 195-2 Criminal Investigation Activities;
+(12) AR 25-71 The Army Privacy Program;
+(13) AR 360-1 The Army Public Affairs Program;
+(14) AR 380-5 Department of the Army Information Security Program;
+(15) AR 381-10 U.S. Army Intelligence Activities;
+(16) AR 381-12 Subversion and Espionage Directed Against The U.S. Army (SAEDA);
+(17) AR 381-20 The Army Counterintelligence Program;
+(18) AR 530-1 Operations Security (OPSEC);
+(19) AR 600-85 Army Substance Abuse Program; and
+(20) AR 608-18 The Army Family Advocacy Program.
+(b) Related publications. A related publication is merely a source of additional information. The user does not have to read it to understand this part.
+(1) AR 10-5 Headquarters, Department of the Army;
+(2) AR 27-10 Military Justice;
+(3) AR 27-40 Litigation;
+(4) AR 27-60 Intellectual Property;
+(5) AR 60-20 Army and Air Force Exchange Service Operating Policies AFR 147-14;
+(6) AR 70-31 Standards for Technical Reporting;
+(7) AR 190-45 Law Enforcement Reporting;
+(8) AR 380-10 Foreign Disclosure and Contacts with Foreign Representatives;
+(9) AR 381-45 Investigative Records Repository;
+(10) AR 385-40 Accident Reporting and Records;
+(11) DA Pam 25-30 Consolidated Army Publications and Index Forms;
+(12) DA Pam 25-51 The Army Privacy Program—System of Records Notices and Exemption Rules;
+(13) DoD Directive 5100.3 Support of the Headquarters of Combatant and Subordinate Joint Commands, November 15, 1999;
+(14) DoD Directive 5230.24 Distribution Statements on Technical Documents, March 18, 1987;
+(15) DoD Directive 5230.25 Withholding of Unclassified Technical Data From Public Disclosure, November 6, 1984;
+(16) DoD Directive 5230.9 Clearance of DoD Information for Public Release, April 9, 1996;
+(17) DoD Directive 5400.4 Provision of Information to Congress, January 30, 1978;
+(18) DoD Directive 5400.7 DoD Freedom of Information Act (FOIA) Program, September 29, 1997;
+(19) DoD Directive 5400.11 DOD Privacy Program, December 13, 1999;
+(20) DoD Directive 7650.1 Government Accountability Office (GAO) and Comptroller General Access to Records, September 11, 1997;
+(21) DoD Directive 7650.2 Government Accountability Office Reviews and Reports, July 13, 2000;
+(22) DoD Directive 8910.1 Management and Control of Information Requirements, June 11, 1993;
+(23) DoD Federal Acquisition Regulation Supplement (DFARS), Part 227 Patents, Data, and Copyrights. See also 48 CFR part 227;
+(24) Department of Defense Financial Management Regulation (Reimbursable Operations, Policy and Procedures) Volume 11A, April 2003 authorized by DoD Instruction 7000.14, DoD Financial Management Policy and Procedures, November 15, 1992;
+(25) DoD Instruction 5400.10 OSD Implementation of DoD Freedom of Information Act Program, January 24, 1991;
+(26) DoD 5200.1-R Information Security Program, January 1997, authorized by DoD Directive 5200.1, December 13, 1996, DoD Information Security Program;
+(27) DoD 5400.7-R DoD Freedom of Information Act Program, September 4, 1998;
+(28) DoD 5400.11-R Department of Defense Privacy Program, August 1983, authorized by DoD Directive 5400.11, December 13, 1999, DoD Privacy Program;
+(29) Executive Order 12600 Predisclosure Notification Procedures for Confidential Commercial Information, June 23, 1987, 52 FR 23781;
+(30) Public Law 86-36 National Security Information Exemption, Codified at 50 U.S.C. 402, as amended;
+(31) Public Law 104-191 Health Insurance Portability and Accountability Act of 1996, Codified at 42 U.S.C. 1171-1179, as amended;
+(32) Section 822 of the National Defense Authorization Act for FY 90 and 91 (Pub. L. 101-189, November 29, 1989: 103 Stat. 1382, 1503);
+(33) 5 U.S.C. 551-559, Administrative Procedures Act;
+(34) 5 U.S.C. 552, as amended: public information; agency rules, opinions, orders, records, and proceedings. (FOIA);
+(35) 5 U.S.C. 552a, as amended: records about individuals, (PA of 1974);
+(36) 10 U.S.C. 128, Physical Protection of Special Nuclear Material: Limitation on Dissemination of Unclassified Information;
+(37) 10 U.S.C. 130, Authority to Withhold from Public Disclosure Certain Technical Data;
+(38) 10 U.S.C. 130(b), Personnel in Overseas, Sensitive, or Routinely Deployable Units: nondisclosure of personally identifying information;
+(39) 10 U.S.C. 1102(f), Confidentiality of Medical Quality Assurance Records: Qualified Immunity for Participants;
+(40) 10 U.S.C. 2305(g) Prohibition on Release of Contractor Proposals;
+(41) 10 U.S.C. 2320-2321, Rights in Technical Data;
+(42) 10 U.S.C. 2328, Release of Technical Data under Freedom of Information Act: Recovery of Costs;
+(43) 17 U.S.C. 106, Exclusive Rights in Copyrighted Works;
+(44) 18 U.S.C. 798, Disclosure of Classified Information;
+(45) 18 U.S.C. 3500, The Demands for Production of Statements and Reports of Witnesses (The Jencks Act);
+(46) 31 U.S.C. 3717, Interest and Penalty on Claims;
+(47) 32 CFR part 518, The Army FOIA Program;
+(48) 35 U.S.C. 181-188, Secrecy of Certain Inventions and Filing of Application in Foreign Country;
+(49) 41 U.S.C. 423, Restrictions on Disclosing and Obtaining Contractor Bid or Proposal Information or Source Selection Information;
+(50) 42 U.S.C. 2162, Classification and Declassification of Restricted Data;
+(51) 44 U.S.C. 3301-3324, Disposal of Records;
+(52) 45 CFR part 164, Security and Privacy of Individually Identifiable Health Information; and
+(53) 50 U.S.C. 403-3, War and National Defense, Protection of Intelligence Sources and Methods.
