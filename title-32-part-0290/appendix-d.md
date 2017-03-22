@@ -1,0 +1,17 @@
+# Appendix D to Part 290—Audit Working Papers
+(a) Definition (1) Audit working papers contain information from accounting and statistical records, personal observations, the results of interviews and inquiries, and other available sources. Audit working papers may also include contract briefs, copies of correspondence, excerpts from corporate minutes, organization charts, copies of written policies and procedures, and other substantiating documentation. The extent and arrangement of working paper files will depend to a large measure on the nature of the audit assignment.
+(2) Working papers are generally classified in two categories: the permanent file and the current file.
+(i) Permanent file.
+(A) The permanent file on each contractor is a central repository of information gathered during the course of an audit which has continuing value and use to subsequent audits expected to be performed at the same contractor. Permanent files are useful in preparing the audit program and in determining the appropriate scope of subsequent audits. They also provide ready means for auditors to become familiar with the contractor's operations and any existing audit problems or contractor system weaknesses. While summary information on the contractor's organization, financial structure and policies may sometimes be included in permanent files for smaller contractors, such information on large contractors with continuing audit activity is generally maintained in the field audit office at the central reference library.
+(B) Items which would logically be included in the permanent file as having continuing value in future audit assignments include:
+(1) Internal control questionnaire.
+(2) Internal control review update control log.
+(3) Vulnerability assessment.
+(4) MAARs control log.
+(5) Disclosure statement and revisions in accordance with CAS rules and regulations, and
+(6) CAS compliance control schedules and a noncompliance summary schedule.
+(ii) Current File. The current file usually consists of working papers which have limited use on future assignments. DCAA Forms 7640-19 a, b, and c are the Agencywide Working Paper Indexes and provide a concise summary of items generally found in audit working papers.
+(b) Explanation. (1) The preparation of working papers assists the auditor in accomplishing the objectives of an audit assignment. Working papers serve as the basis for the conclusions in the audit report; provide a record of the work done for use as substantiating data in negotiations, appeals, and litigation; provide guidance for subsequent examinations; and serve as a basis for the review and evaluation of the work performed.
+(2) Audit working papers are generally prepared at the time audit work is performed and are maintained on a current basis. Working papers normally reflect the progress of the audit and are designed to ensure continuity of the audit effort.
+(3) Working papers should be relevant to the audit assignment and not include extraneous pages. Superseded working papers should be clearly marked as such and retained as part of the working paper package.
+(4) The nature of audit working papers requires that proper control and adequate safeguards be maintained at all times. Working papers frequently reflect information considered confidential by the contractor and are marked "For Official Use Only" or are classified for government security purposes.
