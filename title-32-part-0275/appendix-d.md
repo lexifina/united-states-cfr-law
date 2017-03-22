@@ -1,0 +1,5 @@
+# Appendix D to Part 275—Obtaining Access By Search Warrant
+A. A Government authority may obtain financial records by using a search warrant obtained under Rule 41 of the Federal Rules of Criminal Procedure.
+B. Unless a delay of notice has been obtained under provisions of Appendix H to this part, the law enforcement office shall, no later than 90 days after serving the search warrant, mail to the customer's last known address a copy of the search warrant together with the following notice:
+"Records or information concerning your transactions held by the financial institution named in the attached search warrant were obtained by this [DoD office or activity] on [date] for the following purpose: [state purpose]. You may have rights under the Right to Financial Privacy Act of 1978."
+C. In any state or territory of the United States, or in the District of Columbia, Puerto Rico, Guam, American Samoa, or the Virgin Islands, search authorizations signed by installation commanders, military judges, or magistrates shall not be used to gain access to financial records.
