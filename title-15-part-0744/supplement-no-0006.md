@@ -1,15 +1,19 @@
 # Supplement No. 6 to Part 744—Unverified List
 Exports, reexports, and transfers (in-country) involving parties to the transaction who are listed in this supplement are subject to the restrictions and requirements outlined in § 744.15 of the EAR.
 Country | Listed person and address | Federal Register citation and date of publication
+AZERBAIJAN | Caspian Oil Montaj, Office 39, Block B, 30 Kaverochkin Street, Baku, Azerbaijan | 82 FR 16732, April 6, 2017.
 CANADA | Rizma, Inc., 1403-8 McKee Avenue, Toronto, Ontario M2N 7E5, Canada | 80 FR 60532, October 7, 2015.
-CHINA | China National Plant Import/Export Co., Room 2135, Jingxin Building A, No Dong San Huan North Road, Beijing, China | 79 FR 34220, June 16, 2014.
+CHINA | ARI International, Ltd., Room 1208, Block B, Jiangsu Building, No. 6013 Yitian Road, Futian District, Shenzhen, China | 82 FR 16732, April 6, 2017.
+| China National Plant Import/Export Co., Room 2135, Jingxin Building A, No Dong San Huan North Road, Beijing, China | 79 FR 34220, June 16, 2014.
+| Jiangsu HNHB Equipment Co., Ltd., No. 9, Xiangtou West Road, Yixing City, Jiangsu Province, China | 82 FR 16732, April 6, 2017.
+| Shenzhen Winthought Tech, Room 223, Zhong Xing Industrial City, Chuangye Road, Nanshan District, Shenzhen, China | 82 FR 16732, April 6, 2017.
 CZECH REPUBLIC | Bonitopto S.R.O., Vancurova 1084/10, Ostrov 363 01, Czech Republic; and, Jachymovska 178, Ostrov 363 01, Czech Republic | 80 FR 60532, October 7, 2015.
 FINLAND | Sav-Inter OY Ltd., Nuolitie 20, Vantaa, Finland; and Manttaalitie 5, Vantaa, Finland; and Virkatie 1, Vantaa, Finland | 81 FR 40171, June 21, 2016.
 GEORGIA | Spars Ltd., a.k.a. Spars Trading Ltd., Room 1, House 11, Nutsubdize 111 marker, Tbilisi, Georgia, 0183 | 80 FR 60532, October 7, 2015.
 HONG KONG | Advent International Limited, Room 1303 Goldfield Tower, 53-59 Wuhu Street, Kung Hom, Kowloon, Hong Kong; and Flat F, 13/F, Block 1, Hong Sing Garden, Tsueng Kwan O, New Territories, Hong Kong | 81 FR 40171, June 21, 2016.
 | AST Technology Group (HK) Ltd., Flat 6, 20/F, Mega Trade Centre, 1-9 Mei Wan Street, Tsuen Wan, Hong Kong; and Unit 2209, 22/F, Wu Chung House, 213 Queen's Road East, Wan Chai, Hong Kong; and Unit 2103, 21/F, Sino Centre, 582-592 Nathan Road, Mong Kok, Kowloon, Hong Kong | 80 FR 4779 January 29, 2015; 80 FR 60532, October 7, 2015.
 | Boqur International Ltd., Room 1203, 12/F, International Trade Centre, 11-19 Sha Tsui Road, Tsuen Wan, New Territories, Hong Kong; and Room 19C, Lockhart Centre, 301-307 Lockhart Road, Wan Chai, Hong Kong | 81 FR 40171, June 21, 2016.
-| Brilliance Technology Ltd, Flat A, 11/F, Adolfo Mansion, 114-116 Austin Road, Tsim Sha Tsui, Kowloon, Hong Kong; and Rm 1203, 12/F, Hip Kwan Commercial Bldg., 38 Pitt Street, Yau Ma Tei, Hong Kong | 79 FR 34220, June 16, 2014.
+| Brilliance Technology Ltd, a.k.a., Brilliance Technology Group, Flat A, 11/F, Adolfo Mansion, 114-116 Austin Road, Tsim Sha Tsui, Yau Tsim Mong, Hong Kong; and Rm. 1203, 12/F, Hip Kwan Commercial Bldg., 38 Pitt Street, Yau Ma Tei, Yau Tsim Mong, Hong Kong | 79 FR 34220, June 16, 2014. 82 FR 16732, April 6, 2017.
 | Carry Goldstar Ltd., 15A, 15/F, Cheuk Nang Plaza, 250 Hennessy Road, Wan Chai, Hong Kong | 81 FR 40171, June 21, 2016.
 | Central Right Investments Ltd., Room 1019, 10/F, 1 Hung To Road, Kwun Tong, Hong Kong | 81 FR 40171, June 21, 2016.
 | CITI Hong Kong Ltd., Unit F, 7/F, Haribest Industry Building, 45-47 Au Pui Wan Street, Fo Tan, New Territories, Hong Kong | 81 FR 40171, June 21, 2016.
@@ -33,7 +37,7 @@ HONG KONG | Advent International Limited, Room 1303 Goldfield Tower, 53-59 Wuhu 
 | Jin Yan Technology & Development Co., Ltd., Workshop 11, 8/F, Block A, Delya Industrial Centre, 7 Shek Pai Tau Road, Tuen Mun, New Territories, Hong Kong; and Room 1, Fook Cheung Building, 42 Ka Shin Street, Tai Kok Tsui, Kowloon, Hong Kong | 81 FR 40171, June 21, 2016.
 | KingV Ltd., a.k.a. Jinnway Data Ltd., Room 31, 9/F, Shing Yip Industrial Building, 19-21 Shing Yip Street, Kwun Tong, Kowloon, Hong Kong; and 11/F, Front Block, Hang Lok Building, 130 Wing Lok Street, Sheung Wan, Hong Kong | 81 FR 40171, June 21, 2016.
 | Lianqi (HK) Electronics Co Ltd, Unit N, 3/F, Hopewell House, 175 Hip Wo Street, KwunTong, Kowloon, Hong Kong | 79 FR 34220, June 16, 2014.
-| Ling Ao Electronic Technology Co. Ltd., a.k.a. Voyage Technology (HK) Co. Ltd., Room 17, 7/F, Metro Centre Phase 1, No. 32 Lamhing St., Kowloon Bay, Hong Kong; and 15B, 15/F, Cheuk Nang Plaza, 250 Hennessy Road, Hong Kong; and Flat C, 11/F, Block No. 2, 62 Hoi Yu Street, Kowloon, Hong Kong; and Room C1-D, 6/F, Wing Hing Industrial Building, 14 Hing Yip Street, Kwun Tong, Kowloon, Hong Kong | 80 FR 4779 January 29, 2015; 80 FR 60532, October 7, 2015.
+| Ling Ao Electronic Technology Co. Ltd., a.k.a. Voyage Technology (HK) Co. Ltd., a.k.a. Xuan Qi Technology Co., Ltd. Room 17, 7/F, Metro Centre Phase 1, No. 32 Lam Hing St., Kowloon Bay, Kwun Tong, Hong Kong; and 15B, 15/F, Cheuk Nang Plaza, 250 Hennessy Road, Wanchai, Hong Kong; and Flat C, 11/F, Block No. 2, Camelpaint Bldg. 62 Hoi Yuen Street, Kwun Tong, Kowloon, Hong Kong; and Room C1-D, 6/F, Wing Hing Industrial Building 14 Hing Yip Street, Kwun Tong, Kowloon, Hong Kong; and Flat/Rm. A30, 9/F Silvercorp International Tower, 707-713 Nathan Road, Mongkok, Kowloon, Hong Kong; and Room, 912A, 9/F. Witty Commercial Building, 1A-1L Tung Choi Street, Mongkok, Kowloon, Hong Kong; and Unit A, 7/F, King Yip Factory Bldg., 59 King Yip Street, Kwun Tong, Kowloon, Hong Kong | 80 FR 4779, January 29, 2015.80 FR 60529, October 7, 2015. 82 FR 16732, April 6, 2017.
 | Lion Chip Electronics Ltd, Unit N, 3/F, Hopewell House, 175 Hip Wo Street, KwunTong, Kowloon, Hong Kong | 79 FR 34220, June 16, 2014.
 | Maipu Communication Technology Co Ltd, 7/F Kerry Warehouse, 36-42 Shan Mei St, Shatin, Hong Kong | 79 FR 34220, June 16, 2014.
 | Master-Uni Industry Co., Ltd., Room 602, 6/F, 168 Queens Road, Central, Hong Kong | 81 FR 40171, June 21, 2016.
@@ -66,6 +70,7 @@ HONG KONG | Advent International Limited, Room 1303 Goldfield Tower, 53-59 Wuhu 
 | ZhongJie Electronics, G/F, 26 Pau Chung Street, Tokwawan, Kowloon, Hong Kong; and Rm 2309, 23/F, Ho King Comm Ctr, 2-16 Fayuen St., Mongkok, Kowloon, Hong Kong | 79 FR 34220, June 16, 2014.
 INDIA | Conduit Technologies Pvt., Ltd., Office 201, 2/F, Lunkad Sky Station, Konark Naga, Mhada Colony, Viman Nagar, Pune, India; and Office UG21, East Court, Phoenix Market City, Viman Nagar, Pune, India | 81 FR 40171, June 21, 2016.
 LATVIA | Alfa Photonics, 21 Krisjana Valdemara Iela, Riga, Latvia; and 151-11 Krisjana Valdemara Iela, Riga, Latvia; and 52-66 Darza Iela, Riga, Latvia; and Nordic Technology Park, 15/25 Jurkalnes Iela, Riga, Latvia | 81 FR 40171, June 21, 2016.
+LEBANON | Al Ghayth Trade and Transport, 1st Floor, Bohsali Bldg., Beirut Port Street, Beirut, Lebanon | 82 FR 16732, April 6, 2017.
 PAKISTAN | T.M.A. International, a.k.a. TMA International, a.k.a. Tahir Asad Industries Pvt. Ltd., a.k.a. T.A. Industries Pvt. Ltd., 45-B, Ahmed Block, New Garden Town, Lahore, Pakistan; and 417 Gulshan Block, Iqbal Town, Lahore, Pakistan | 80 FR 4781, January 29, 2015.
 RUSSIA | JSC Voentelecom, Bolshaya Olenya Str. 15A, Moscow, Russia | 79 FR 34220, June 16, 2014.
 | Nasosy Ampika, 3-ya Institutskaya St. Bld. 15, Moscow, Russia | 79 FR 34220, June 16, 2014.
@@ -76,6 +81,7 @@ SINGAPORE | Dorado Network Pte., Ltd., 128 Joo Seng Road, DP Computers Building 
 SWITZERLAND | Light Range AG, Stutzstrasse 13C, Schindellegi, Switzerland; and Lowenstrasse 20, Zurich, Switzerland; and Via Delle Scuole 34E, Figino, Switzerland | 81 FR 40171, June 21, 2016.
 UNITED ARAB EMIRATES | Abu Trade LLC, Lot Number 155, Al Zaroni Yard, Al Wasl Road, Dubai, UAE | 81 FR 40171, June 21, 2016.
 | Alsima Middle East General Trading, 802 Whiteswan Building, near Fairmont Hotel, Sheikh Zayed Road, Dubai, UAE | 81 FR 40171, June 21, 2016.
+| Blue Wing General Trading, Damas Tower #506, Al Maktoum Road, Dubai, UAE | 82 FR 16732, April 6, 2017.
 | Doubair General Trading Co. LLC, P.O. Box 30239, Dubai, UAE | 79 FR 34220, June 16, 2014.
 | Establishment Standard Lab FZE, a.k.a. Standard Lab FZE, Ras Al Khaimah Free Trade Zone Business Park, Ras Al Khaimah, UAE; and P.O. Box 17049, Ras Al Khaimah, UAE | 81 FR 40171, June 21, 2016.
 | Golden Business FZE, Warehouse #FZS1 AN08, Jebel Ali Free Zone, Dubai, UAE; and P.O. Box 263128, Dubai, UAE | 79 FR 34220, June 16, 2014.
