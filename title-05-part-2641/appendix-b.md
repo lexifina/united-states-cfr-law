@@ -78,7 +78,6 @@ Components:
 Bureau of Labor Statistics.
 Employee Benefits Security Administration (formerly Pension and Welfare Benefits Administration) (effective May 16, 1997).
 Employment and Training Administration.
-Employment Standards Administration.
 Mine Safety and Health Administration.
 Occupational Safety and Health Administration.
 Office of Disability Employment Policy (effective January 30, 2003).
@@ -101,7 +100,6 @@ Maritime Administration.
 National Highway Traffic Safety Administration.
 Pipeline and Hazardous Materials Safety Administration (effctive December 29, 2016).
 Saint Lawrence Seaway Development Corporation.
-Surface Transportation Board (effective May 16, 1997).
 Parent: Department of the Treasury
 Components:
 Alcohol and Tobacco Tax and Trade Bureau (effective November 23, 2004).
