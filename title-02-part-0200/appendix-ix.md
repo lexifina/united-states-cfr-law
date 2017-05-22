@@ -1,0 +1,2 @@
+# Appendix IX to Part 200—Hospital Cost Principles
+Based on initial feedback, OMB proposes to establish a review process to consider existing hospital cost determine how best to update and align them with this Part. Until such time as revised guidance is proposed and implemented for hospitals, the existing principles located at 45 CFR Part 75 Appendix E, entitled "Principles for Determining Cost Applicable to Research and Development Under Grants and Contracts with Hospitals," remain in effect.
