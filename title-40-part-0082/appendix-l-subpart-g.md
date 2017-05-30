@@ -1,0 +1,19 @@
+# Appendix L to Subpart G of Part 82—Substitutes Listed in the January 27, 2003, Final Rule, Effective March 28, 2003
+Fire Suppression and Explosion Protection Sector—Total Flooding Substitutes—Acceptable Subject to Use Conditions
+End-use | Substitute | Decision | Conditions | Comments
+Total flooding | HFC227-BC | Acceptable subject to use conditions | Sodium bicarbonate release in all settings should be targeted so that increased pH level would not adversely affect exposed individuals. Users should provide special training to individuals required to be in environments protected by HFC227-BC extinguishing systemsEach HFC227-BC extinguisher should be clearly labelled with the potential hazards from use and safe handling procedures. | Use of the agent, HFC-227ea, should be in accordance with the safety guidelines in the latest edition of the NFPA 2001 Standard for Clean Agent Fire Extinguishing Systems. See additional comments 1, 2, 3, 4, 5.
+Additional comments.
+1—Should conform with relevant OSHA requirements, including 29 CFR part 1910, subpart L, sections 1910.160 and 1910.162.
+2—Per OSHA requirements, protective gear (SCBA) should be available in the event personnel should reenter the area.
+3—Discharge testing should be strictly limited to that which is essential to meet safety or performance requirements.
+4—The agent should be recovered from the fire protection system in conjunction with testing or servicing, and recycled for later use or destroyed.
+5—EPA has no intention of duplicating or displacing OSHA coverage related to the use of personal protective equipment (e.g., respiratory protection), fire protection, hazard communication, worker training or any other occupational safety and health standard with respect to halon substitutes.
+Fire Suppression and Explosion Protection Sector—Streaming Agents—Acceptable Subject to Narrowed Use Limits
+End-use | Substitute | Decision | Conditions | Comments
+Streaming | C6-perfluoroketone (FK-5-1-12MYY2) | Acceptable subject to narrowed use limits | For use only in nonresidential areas | For operations that fill canisters to be used in streaming applications, EPA recommends the following:—Adequate ventilation should be in place; —All spills should be cleaned up immediately in accordance with good industrial hygiene practices; and —Training for safe handling procedures should be provided to all employees that would be likely to handle containers of the agent or extinguishing units filled with the agent. See additional comments 1, 2, 3, 4.
+Streaming | H Galden HFPEs | Acceptable subject to narrowed use limits | For use only in nonresidential areas | For operations that fill canisters to be used in streaming applications, EPA recommends the following:—Adequate ventialtion should be in place; —All spills should be cleaned up immediately in accordance with good industrial hygiene practices; and —Training for safe handling procedures should be provided to all employees that would be likely to handle containers of the agent or extinguishing units filled with the agent. See additional comments 1, 2, 3, 4.
+Additional comments.
+1—Discharge testing should be strictly limited to that which is essential to meet safety or performance requirements.
+2—The agent should be recovered from the fire protection system in conjunction with testing or servicing, and recycled for later use or destroyed.
+3—EPA has no intention of duplicating or displacing OSHA coverage related to the use of personal protective equipment (e.g., respiratory protection), fire protection, hazard communication, worker training or any other occupational safety and health standard with respect to halon substitutes.
+4—As with other streaming agents, EPA recommends that potential risks of combustion by-products be labelled on the extinguisher (see UL 2129)
