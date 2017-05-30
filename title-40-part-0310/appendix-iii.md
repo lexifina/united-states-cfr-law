@@ -1,0 +1,14 @@
+# Appendix III to Part 310—Form: Application for Reimbursement to Local Governments for Emergency Response to Hazardous Substance Release Under CERCLA Sec. 123
+ER18FE98.000
+ER18FE98.001
+Attachment 1 to Form 9310-1 Cost Element Codes and Comments
+[Cost Element Codes for use in Table 1]
+Code | Cost category | Cost element | Comments
+PC | Personnel Compensation | PC1: Overtime—for services excess of the local agency's standard work day or work weekPC2: Experts and consultants—for services rendered on a per diem or fee basis or for services of an intermittent, advisory nature | Compensation of overtime costs incurred specifically for a response will be considered only if overtime is not otherwise provided for in the applicant's operating budget.
+TR | Transportation | TR1: Passenger vehicle rental—for transportation of persons during evacuationTR2: Nonpassenger vehicle rental—for transportation of equipment or supplies | Passenger and nonpassenger vehicle rental costs will be considered for private vehicles not owned or operated by the applicant or other unit of local government.
+RC | Utilities | RC1: Utilities—for power, water, electricity and other services exclusive of transportation and communications | Utility costs will be considered for private utilities not owned or operated by the applicant or other unit of local government.
+OS | Other Contractual Services | OS1: Contracts for technical or scientific analysis—for tasks requiring specialized hazardous sustance response expertiseOS2: Decontamination services—for specialized cleaning or decontamination procedures and supplies to restore clothing, equipment or other serviceable gear to normal functioning | May include such items as specialized laboratory analyses and sampling.
+SM | Supplies and Materials | SM1: Commodities—for protective gear and clothing, cleanup tools and supplies and similar materials purchased specifically for, and expended during, the response | May include such items as chemical foam to suppress a fire; food purchased specifically for an evacuation; air purifying canisters for breathing apparatus; disposable, protective suits and gloves; and sampling supplies.
+EQ | Equipment | EQ1: Replacement—for durable equipment declared a total loss as a result of contamination during the responseEQ2: Rents—for use of equipment owned by others | Equipment replacement costs will be considered if applicant can demonstrate total loss and proper disposal of contaminated equipment.Equipment rental costs will be considered for privately owned equipment not owned or operated by the applicant or other unit of local government.
+ER18FE98.002
+ER18FE98.003
