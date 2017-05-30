@@ -1,0 +1,8 @@
+# Table 11 to Subpart EEEE of Part 63—Requirements for Reports
+As stated in § 63.2386(a), (b), and (f), you must submit compliance reports and startup, shutdown, and malfunction reports according to the following table:
+You must submit a(n)... | The report must contain... | You must submit the report...
+1. Compliance report or Periodic Report | a. The information specified in § 63.2386(c), (d), (e). If you had a SSM during the reporting period and you took actions consistent with your SSM plan, the report must also include the information in § 63.10(d)(5)(i); AND | Semiannually, and it must be postmarked by January 31 or July 31, in accordance with § 63.2386(b).
+| b. The information required by 40 CFR part 63, subpart TT, UU, or H, as applicable, for pumps, valves, and sampling connections; AND | See the submission requirement in item 1.a of this table.
+| c. The information required by § 63.999(c); AND | See the submission requirement in item 1.a of this table.
+| d. The information specified in § 63.1066(b) including: Notification of inspection, inspection results, requests for alternate devices, and requests for extensions, as applicable. | See the submission requirement in item 1.a. of this table.
+2. Immediate SSM report if you had a SSM that resulted in an applicable emission standard in the relevant standard being exceeded, and you took an action that was not consistent with your SSM plan | a. The information required in § 63.10(d)(5)(ii) | i. By letter within 7 working days after the end of the event unless you have made alternative arrangements with the permitting authority (§ 63.10(d)(5)(ii)).

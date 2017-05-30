@@ -1,0 +1,4 @@
+# Table 1 to Subpart CCCC of Part 63—Emission Limitations
+As stated in § 63.2140, you must comply with the emission limitations in the following table:
+For each fed-batch fermenter producing yeast in the following fermentation stage... | You must meet the following emission limitation...
+Last stage (Trade); or Second-to-last stage (First Generation); or Third-to-last stage (Stock) | a. For at least 98 percent of all batches (sum of batches from last, second-to-last, and third-to-last stages) in each 12-month calculation period described in § 63.2171(b), the VOC concentration in the fermenter exhaust does not exceed the applicable maximum concentration (100 ppmv for last stage, 200 ppmv for second-to-last stage, or 300 ppmv for third-to-last stage), measured as propane, and averaged over the duration of a batch.b. The emission limitation does not apply during the production of specialty yeast.

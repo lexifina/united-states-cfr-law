@@ -1,0 +1,14 @@
+# Table 9 to Subpart SSSSS of Part 63—Continuous Compliance With Work Practice Standards
+As stated in § 63.9810, you must show continuous compliance with the work practice standards for affected sources according to the following table:
+For... | For the following work practice standard... | You must demonstrate continuous compliance by...
+1. Each affected source listed in Table 3 to this subpart | Each applicable work practice requirement listed in Table 3 to this subpart | i. Performing each applicable work practice standard listed in Table 3 to this subpart; and
+| | ii. Maintaining records that document the method and frequency for complying with each applicable work practice standard listed in Table 3 to this subpart, as required by §§ 63.10(b) and 63.9816(c)(2).
+2. Each basket or container that is used for holding fired refractory shapes in an existing shape preheater and autoclave during the pitch impregnation process | Control POM emissions from any affected shape preheater | i. Controlling emissions from the volatilization of residual pitch by implementing one of the work practice standards listed in item 1 of Table 3 to this subpart; and
+| | ii. Recording the date and cleaning method each time you clean an affected basket or container.
+3. Each new or existing pitch working tank | Control POM emissions | Capturing and venting emissions from the affected pitch working tank to the control device that is used to control emissions from an affected defumer or coking oven, or to a thermal or catalytic oxidizer that is comparable to the control device used on an affected defumer or coking oven.
+4. Each new or existing chromium refractory products kiln | Minimize fuel-based HAP emissions | i. Using natural gas, or equivalent, as the kiln fuel at all times except during periods of natural gas curtailment or supply interruption; and
+| | ii. If you intend to use an alternative fuel, submitting a notification of alternative fuel use within 48 hours of the declaration of a per-iod of natural gas curtailment or supply interruption, as defined in § 63.9824; and
+| | iii. Submitting a report of alternative fuel use within 10 working days after terminating the use of the alternative fuel, as specified in § 63.9814(g).
+5. Each existing clay refractory products kiln | Minimize fuel-based HAP emissions | i. Using natural gas, or equivalent, as the kiln fuel at all times except during periods of natural gas curtailment or supply interruption; and
+| | ii. If you intend to use an alternative fuel, submitting a notification of alternative fuel use within 48 hours of the declaration of a per-iod of natural gas curtailment or supply interruption, as defined in § 63.9824; and
+| | iii. Submitting a report of alternative fuel use within 10 working days after terminating the use of the alternative fuel, as specified in § 63.9814(g).

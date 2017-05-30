@@ -1,0 +1,20 @@
+# Table 1 to Subpart SSSSS of Part 63—Emission Limits
+As stated in § 63.9788, you must comply with the emission limits for affected sources in the following table:
+For... | You must meet the following emission limits...
+1. Each new or existing curing oven, shape dryer, and kiln that is used to process refractory products that use organic HAP; each new or existing coking oven and defumer that is used to produce pitch-impregnated refractory products; each new shape preheater that is used to produce pitch-impregnated refractory products; AND each new or existing process unit that is exhausted to a thermal or catalytic oxidizer that also controls emissions from an affected shape preheater or pitch working tank | As specified in items 2 through 9 of this table.
+2. Continuous process units that are controlled with a thermal or catalytic oxidizer | a. The 3-hour block average THC concentration must not exceed 20 parts per million by volume, dry basis (ppmvd), corrected to 18 percent oxygen, at the outlet of the control device; or
+| b. The 3-hour block average THC mass emissions rate must be reduced by at least 95 percent.
+3. Continuous process units that are equipped with a control device other than a thermal or catalytic oxidizer | a. The 3-hour block average THC concentration must not exceed 20 ppmvd, corrected to 18 percent oxygen, at the outlet of the control device; or
+| b. The 3-hour block average THC mass emissions rate must be reduced by at least 95 percent.
+4. Continuous process units that use process changes to reduce organic HAP emissions | The 3-hour block average THC concentration must not exceed 20 ppmvd, corrected to 18 percent oxygen, at the outlet of the process gas stream.
+5. Continuous kilns that are not equipped with a control device | The 3-hour block average THC concentration must not exceed 20 ppmvd, corrected to 18 percent oxygen, at the outlet of the process gas stream.
+6. Batch process units that are controlled with a thermal or catalytic oxidizer | a. The 2-run block average THC concentration for the 3-hour peak emissions period must not exceed 20 ppmvd, corrected to 18 percent oxygen, at the outlet of the control device; or
+| b. The 2-run block average THC mass emissions rate for the 3-hour peak emissions period must be reduced by at least 95 percent.
+7. Batch process units that are equipped with a control device other than a thermal or catalytic oxidizer | a. The 2-run block average THC concentration for the 3-hour peak emissions period must not exceed 20 ppmvd, corrected to 18 percent oxygen, at the outlet of the control device; or
+| b. The 2-run block average THC mass emissions rate for the 3-hour peak emissions period must be reduced by at least 95 percent.
+8. Batch process units that use process changes to reduce organic HAP emissions | The 2-run block average THC concentration for the 3-hour peak emissions period must not exceed 20 ppmvd, corrected to 18 percent oxygen, at the outlet of the process gas stream.
+9. Batch process kilns that are not equipped with a control device | The 2-run block average THC concentration for the 3-hour peak emissions period must not exceed 20 ppmvd, corrected to 18 percent oxygen, at the outlet of the process gas stream.
+10. Each new continuous kiln that is used to produce clay refractory products | a. The 3-hour block average HF emissions must not exceed 0.019 kilograms per megagram (kg/Mg) (0.038 pounds per ton (lb/ton)) of uncalcined clay processed, OR the 3-hour block average HF mass emissions rate must be reduced by at least 90 percent; and
+| b. The 3-hour block average HCl emissions must not exceed 0.091 kg/Mg (0.18 lb/ton) of uncalcined clay processed, OR the 3-hour block average HCl mass emissions rate must be reduced by at least 30 percent.
+11. Each new batch process kiln that is used to produce clay refractory products | a. The 2-run block average HF mass emissions rate for the 3-hour peak emissions period must be reduced by at least 90 percent; and
+| b. The 2-run block average HCl mass emissions rate for the 3-hour peak emissions period must be reduced by at least 30 percent.
