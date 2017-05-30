@@ -1,0 +1,15 @@
+# Table 8 to Subpart CCCC of Part 60—Emission Limitations for Small, Remote Incinerators That Commenced Construction After June 4, 2010, Or That Commenced Reconstruction or Modification After August 7, 2013
+For the airpollutant | You must meet thisemission limitation 1 | Using this averaging time | And determining complianceusing this method
+Cadmium | 0.67 milligrams per dry standard cubic meter | 3-run average (collect a minimum volume of 1 dry standard cubic meters per run) | Performance test (Method 29 at 40 CFR part 60, appendix A-8).
+Carbon monoxide | 13 parts per million dry volume | 3-run average (1 hour minimum sample time per run) | Performance test (Method 10 at 40 CFR part 60, appendix A-4).
+Dioxins/furans (total mass basis) | 1,800 nanograms per dry standard cubic meter. | 3-run average (collect a minimum volume of 1 dry standard cubic meters per run) | Performance test (Method 23 at 40 CFR part 60, appendix A-7).
+Dioxins/furans (toxic equivalency basis) | 31 nanograms per dry standard cubic meter | 3-run average (collect a minimum volume of 1 dry standard cubic meters) | Performance test (Method 23 at 40 CFR part 60, appendix A-7).
+Fugitive ash | Visible emissions for no more than 5 percent of the hourly observation period | Three 1-hour observation periods | Visible emissions test (Method 22 at 40 CFR part 60, appendix A-7).
+Hydrogen chloride | 200 parts per million by dry volume | 3-run average (For Method 26, collect a minimum volume of 60 liters per run. For Method 26A, collect a minimum volume of 1 dry standard cubic meter per run) | Performance test (Method 26 or 26A at 40 CFR part 60, appendix A-8).
+Lead | 2.0 milligrams per dry standard cubic meter | 3-run average (collect a minimum volume of 1 dry standard cubic meters) | Performance test (Method 29 at 40 CFR part 60, appendix A-8). Use ICPMS for the analytical finish.
+Mercury | 0.0035 milligrams per dry standard cubic meter | 3-run average (For Method 29 and ASTM D6784-02 (Reapproved 2008),2 collect a minimum volume of 2 dry standard cubic meters per run. For Method 30B, collect a minimum volume as specified in Method 30B at 40 CFR part 60, appendix A) | Performance test (Method 29 or 30B at 40 CFR part 60, appendix A-8) or ASTM D6784-02 (Reapproved 2008).2
+Oxides of nitrogen | 170 parts per million dry volume | 3-run average (for Method 7E, 1 hour minimum sample time per run) | Performance test (Method 7 or 7E at 40 CFR part 60, appendix A-4).
+Particulate matter (filterable) | 270 milligrams per dry standard cubic meter | 3-run average (collect a minimum volume of 1 dry standard cubic meters) | Performance test (Method 5 or 29 at 40 CFR part 60, appendix A-3 or appendix A-8).
+Sulfur dioxide | 1.2 parts per million dry volume | 3-run average (1 hour minimum sample time per run) | Performance test (Method 6 or 6c at 40 CFR part 60, appendix A-4).
+1 All emission limitations are measured at 7 percent oxygen, dry basis at standard conditions. For dioxins/furans, you must meet either the Total Mass Basis limit or the toxic equivalency basis limit.
+2 Incorporated by reference, see § 60.17.
