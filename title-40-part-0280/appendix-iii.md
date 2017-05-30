@@ -1,0 +1,2 @@
+# Appendix III to Part 280—Statement for Shipping Tickets and Invoices
+Note. A federal law (the Solid Waste Disposal Act, as amended), requires owners of certain underground storage tanks to notify implementing agencies of the existence of their tanks. Notifications must be made within 30 days of bringing the tank into use. Consult EPA's regulation at 40 CFR 280.22 to determine if you are affected by this law.
