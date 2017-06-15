@@ -24,3 +24,4 @@
 (iii) The reconverting bank shall place on the front of the check, outside the image of the original check, its nine-digit routing number (without arrows) and an asterisk at each end of the number, in accordance with ANS X9.100-140.
 (iv) The reconverting bank shall place on the front of the check, outside the image of the original check, the truncating bank's nine-digit routing number (without arrows) and a bracket at each end of the number, in accordance with ANS X9.100-140.
 (4) Any indorsement, reconverting bank identification, or truncating bank identification placed on an original check or substitute check shall be printed in black ink.
+Effective Date Note: At 82 FR 27585, June 15, 2017, appendix D to part 229 was removed and reserved, effective July 1, 2018.
