@@ -5,19 +5,19 @@ This appendix covers the test requirements used to measure the energy consumptio
 The definitions contained in § 431.302 are applicable to this appendix.
 3.0 Additional Definitions
 3.1 Automatic door opener/closer means a device or control system that "automatically" opens and closes doors without direct user contact, such as a motion sensor that senses when a forklift is approaching the entrance to a door and opens it, and then closes the door after the forklift has passed.
-3.2 Core region means the part of the panel that is not the edge region.
-3.3 Edge region means a region of the panel that is wide enough to encompass any framing members and edge effects. If the panel contains framing members (e.g. a wood frame) then the width of the edge region must be as wide as any framing member plus 2 in. ±0.25 in. If the panel does not contain framing members then the width of the edge region must be 4 in ±0.25 in. For walk-in panels that utilize vacuum insulated panels (VIP) for insulation, the width of the edge region must be the lesser of 4.5 in. ±1 in. or the maximum width that does not cause the VIP to be pierced by the cutting device when the edge region is cut.
-3.4 Surface area means the area of the surface of the walk-in component that would be external to the walk-in. For example, for panel, the surface area would be the area of the side of the panel that faces the outside of the walk-in. It would not include edges of the panel that are not exposed to the outside of the walk-in.
-3.5 Rating conditions means, unless explicitly stated otherwise, all conditions shown in Table A.1. For installations where two or more walk-in envelope components share any surface(s), the "external conditions" of the shared surface(s) must reflect the internal conditions of the adjacent walk-in. For example, if a walk-in component divides a walk-in freezer from a walk-in cooler, then the internal conditions are the freezer rating conditions and the external conditions are the cooler rating conditions.
-3.6 Percent time off (PTO) means the percent of time that an electrical device is assumed to be off.
+3.2 [Reserved]
+3.3 [Reserved]
+3.4 Surface area means the area of the surface of the walk-in component that would be external to the walk-in cooler or walk-in freezer as appropriate.
+3.5 Rated power means the electricity consuming device's power as specified on the device's nameplate. If the device does not have a nameplate or such nameplate does not list the device's power, then the rated power must be read from the device's product data sheet.
+3.6 Rating conditions means, unless explicitly stated otherwise, all conditions shown in Table A.1 of this section.
+3.7 Percent time off (PTO) means the percent of time that an electrical device is assumed to be off.
 Table A.1—Temperature Conditions
+|
 Internal Temperatures (cooled space within the envelope)
-Cooler Dry Bulb Temperature | 35 °F.
-Freezer Dry Bulb Temperature | −10 °F.
+Cooler Dry Bulb Temperature | 35 °F
+Freezer Dry Bulb Temperature | −10 °F
 External Temperatures (space external to the envelope)
 Freezer and Cooler Dry Bulb Temperatures | 75 °F.
-Subfloor Temperatures
-Freezer and Cooler Dry Bulb Temperatures | 55 °F.
 4.0 Calculation Instructions
 4.1 Display Panels
 (a) Calculate the U-factor of the display panel in accordance with section 5.3 of this appendix, Btu/h-ft2- °F.
@@ -186,17 +186,3 @@ Cnd-load = additional refrigeration load due to thermal output from electrical c
 1. Thermal Transmittance: Udd
 (ii) Non-Display Door
 1. Thermal Transmittance: Und
-At 81 FR 95803, Dec. 28, 2016, Appendix A to Subpart R of Part 431 was amended by removing and reserving sections 3.2 and 3.3; revising section 3.4; redesignating sections 3.5 and 3.6 as sections 3.6 and 3.7; adding section 3.5; revising newly redesignated section 3.6; and revising Table A.1, effective Jan. 27, 2017. For the convenience of the user, the added and revised text is set forth as follows:
-Appendix A to Subpart R of Part 431—Uniform Test Method for the Measurement of Energy Consumption of the Components of Envelopes of Walk-In Coolers and Walk-In Freezers
-3.2 [Reserved]
-3.3 [Reserved]
-3.4 Surface area means the area of the surface of the walk-in component that would be external to the walk-in cooler or walk-in freezer as appropriate.
-3.5 Rated power means the electricity consuming device's power as specified on the device's nameplate. If the device does not have a nameplate or such nameplate does not list the device's power, then the rated power must be read from the device's product data sheet.
-3.6 Rating conditions means, unless explicitly stated otherwise, all conditions shown in Table A.1 of this section.
-Table A.1—Temperature Conditions
-|
-Internal Temperatures (cooled space within the envelope)
-Cooler Dry Bulb Temperature | 35 °F
-Freezer Dry Bulb Temperature | −10 °F
-External Temperatures (space external to the envelope)
-Freezer and Cooler Dry Bulb Temperatures | 75 °F.
