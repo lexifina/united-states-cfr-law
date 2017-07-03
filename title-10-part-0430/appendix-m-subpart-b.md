@@ -1,7 +1,7 @@
 # Appendix M to Subpart B of Part 430—Uniform Test Method for Measuring the Energy Consumption of Central Air Conditioners and Heat Pumps
-Note: Prior to December 5, 2016, any representations, including compliance certifications, made with respect to the energy use, power, or efficiency of central air conditioners and central air conditioning heat pumps must be based on the results of testing pursuant to either this appendix or the procedures in Appendix M as it appeared at 10 CFR part 430, subpart B, Appendix M, in the 10 CFR parts 200 to 499 edition revised as of January 1, 2015. Any representations made with respect to the energy use or efficiency of such central air conditioners and central air conditioning heat pumps must be in accordance with whichever version is selected.
-On or after December 5, 2016 and prior to the compliance date for any amended energy conservation standards, any representations, including compliance certifications, made with respect to the energy use, power, or efficiency of central air conditioners and central air conditioning heat pumps must be based on the results of testing pursuant to this appendix.
-On or after the compliance date for any amended energy conservation standards, any representations, including compliance certifications, made with respect to the energy use, power, or efficiency of central air conditioners and central air conditioning heat pumps must be based on the results of testing pursuant to appendix M1 of this subpart.
+Note: Prior to July 5, 2017, any representations, including compliance certifications, made with respect to the energy use, power, or efficiency of central air conditioners and central air conditioning heat pumps must be based on the results of testing pursuant to either this appendix or the procedures in Appendix M as it appeared at 10 CFR part 430, subpart B, Appendix M, in the 10 CFR parts 200 to 499 edition revised as of January 1, 2017. Any representations made with respect to the energy use or efficiency of such central air conditioners and central air conditioning heat pumps must be in accordance with whichever version is selected.
+On or after July 5, 2017 and prior to January 1, 2023, any representations, including compliance certifications, made with respect to the energy use, power, or efficiency of central air conditioners and central air conditioning heat pumps must be based on the results of testing pursuant to this appendix.
+On or after January 1, 2023, any representations, including compliance certifications, made with respect to the energy use, power, or efficiency of central air conditioners and central air conditioning heat pumps must be based on the results of testing pursuant to appendix M1 of this subpart.
 1. Scope and Definitions
 1.1 Scope
 This test procedure provides a method of determining SEER, EER, HSPF and PW,OFF for central air conditioners and central air conditioning heat pumps including the following categories:
@@ -16,13 +16,13 @@ For purposes of this appendix, the Department of Energy incorporates by referenc
 All section references refer to sections within this appendix unless otherwise stated.
 1.2 Definitions
 Airflow-control settings are programmed or wired control system configurations that control a fan to achieve discrete, differing ranges of airflow—often designated for performing a specific function (e.g., cooling, heating, or constant circulation)—without manual adjustment other than interaction with a user-operable control (i.e., a thermostat) that meets the manufacturer specifications for installed-use. For the purposes of this appendix, manufacturer specifications for installed-use are those found in the product literature shipped with the unit.
-Air sampling device is an assembly consisting of a manifold with several branch tubes with multiple sampling holes that draws an air sample from a critical location from the unit under test (e.g., indoor air inlet, indoor air outlet, outdoor air inlet, etc.).
+Air sampling device is an assembly consisting of a manifold with several branch tubes with multiple sampling holes that draws an air sample from a critical location from the unit under test (e.g. indoor air inlet, indoor air outlet, outdoor air inlet, etc.).
 Airflow prevention device denotes a device that prevents airflow via natural convection by mechanical means, such as an air damper box, or by means of changes in duct height, such as an upturned duct.
 Aspirating psychrometer is a piece of equipment with a monitored airflow section that draws uniform airflow through the measurement section and has probes for measurement of air temperature and humidity.
 Blower coil indoor unit means an indoor unit either with an indoor blower housed with the coil or with a separate designated air mover such as a furnace or a modular blower (as defined in appendix AA to the subpart).
 Blower coil system refers to a split system that includes one or more blower coil indoor units.
 Cased coil means a coil-only indoor unit with external cabinetry.
-Coefficient of Performance (COP) means the ratio of the average rate of space heating delivered to the average rate of electrical energy consumed by the heat pump. These rate quantities must be determined from a single test or, if derived via interpolation, must be determined at a single set of operating conditions. COP is a dimensionless quantity. When determined for a ducted coil-only system, COP must include the sections 3.7 and 3.9.1 of this appendix: default values for the heat output and power input of a fan motor.
+Coefficient of Performance (COP) means the ratio of the average rate of space heating delivered to the average rate of electrical energy consumed by the heat pump. These rate quantities must be determined from a single test or, if derived via interpolation, must be determined at a single set of operating conditions. COP is a dimensionless quantity. When determined for a ducted coil-only system, COP must include the sections 3.7 and 3.9.1 of this appendix: Default values for the heat output and power input of a fan motor.
 Coil-only indoor unit means an indoor unit that is distributed in commerce without an indoor blower or separate designated air mover. A coil-only indoor unit installed in the field relies on a separately-installed furnace or a modular blower for indoor air movement. Coil-only system refers to a system that includes only (one or more) coil-only indoor units.
 Condensing unit removes the heat absorbed by the refrigerant to transfer it to the outside environment and consists of an outdoor coil, compressor(s), and air moving device.
 Constant-air-volume-rate indoor blower means a fan that varies its operating speed to provide a fixed air-volume-rate from a ducted system.
@@ -31,20 +31,22 @@ Cooling load factor (CLF) means the ratio having as its numerator the total cool
 Crankcase heater means any electrically powered device or mechanism for intentionally generating heat within and/or around the compressor sump volume. Crankcase heater control may be achieved using a timer or may be based on a change in temperature or some other measurable parameter, such that the crankcase heater is not required to operate continuously. A crankcase heater without controls operates continuously when the compressor is not operating.
 Cyclic Test means a test where the unit's compressor is cycled on and off for specific time intervals. A cyclic test provides half the information needed to calculate a degradation coefficient.
 Damper box means a short section of duct having an air damper that meets the performance requirements of section 2.5.7 of this appendix.
-Degradation coefficient (CD) means a parameter used in calculating the part load factor. The degradation coefficient for cooling is denoted by CD c. The degradation coefficient for heating is denoted by CD h.
+Degradation coefficient (C D) means a parameter used in calculating the part load factor. The degradation coefficient for cooling is denoted by CD c. The degradation coefficient for heating is denoted by CD h.
 Demand-defrost control system means a system that defrosts the heat pump outdoor coil-only when measuring a predetermined degradation of performance. The heat pump's controls either:
 (1) Monitor one or more parameters that always vary with the amount of frost accumulated on the outdoor coil (e.g., coil to air differential temperature, coil differential air pressure, outdoor fan power or current, optical sensors) at least once for every ten minutes of compressor ON-time when space heating or
-(2) Operate as a feedback system that measures the length of the defrost period and adjusts defrost frequency accordingly. In all cases, when the frost parameter(s) reaches a predetermined value, the system initiates a defrost. In a demand-defrost control system, defrosts are terminated based on monitoring a parameter(s) that indicates that frost has been eliminated from the coil. (Note: Systems that vary defrost intervals according to outdoor dry-bulb temperature are not demand-defrost systems.) A demand-defrost control system, which otherwise meets the above requirements, may allow time-initiated defrosts if, and only if, such defrosts occur after 6 hours of compressor operating time.
+(2) operate as a feedback system that measures the length of the defrost period and adjusts defrost frequency accordingly. In all cases, when the frost parameter(s) reaches a predetermined value, the system initiates a defrost. In a demand-defrost control system, defrosts are terminated based on monitoring a parameter(s) that indicates that frost has been eliminated from the coil. (Note: Systems that vary defrost intervals according to outdoor dry-bulb temperature are not demand-defrost systems.) A demand-defrost control system, which otherwise meets the above requirements, may allow time-initiated defrosts if, and only if, such defrosts occur after 6 hours of compressor operating time.
 Design heating requirement (DHR) predicts the space heating load of a residence when subjected to outdoor design conditions. Estimates for the minimum and maximum DHR are provided for six generalized U.S. climatic regions in section 4.2 of this appendix.
 Dry-coil tests are cooling mode tests where the wet-bulb temperature of the air supplied to the indoor unit is maintained low enough that no condensate forms on the evaporator coil.
 Ducted system means an air conditioner or heat pump that is designed to be permanently installed equipment and delivers conditioned air to the indoor space through a duct(s). The air conditioner or heat pump may be either a split-system or a single-package unit.
-Energy efficiency ratio (EER) means the ratio of the average rate of space cooling delivered to the average rate of electrical energy consumed by the air conditioner or heat pump. These rate quantities must be determined from a single test or, if derived via interpolation, must be determined at a single set of operating conditions. EER is expressed in units of Btu/h. When determined for a ducted coil-only system, EER must include, from this appendix, the section 3.3 and 3.5.1 default values for the heat output and power input of a fan motor.
+Energy efficiency ratio (EER) means the ratio of the average rate of space cooling delivered to the average rate of electrical energy consumed by the air conditioner or heat pump. Determine these rate quantities from a single test or, if derived via interpolation, determine at a single set of operating conditions. EER is expressed in units of
+ER05JA17.305
+When determined for a ducted coil-only system, EER must include, from this appendix, the section 3.3 and 3.5.1 default values for the heat output and power input of a fan motor.
 Evaporator coil means an assembly that absorbs heat from an enclosed space and transfers the heat to a refrigerant.
 Heat pump means a kind of central air conditioner that utilizes an indoor conditioning coil, compressor, and refrigerant-to-outdoor air heat exchanger to provide air heating, and may also provide air cooling, air dehumidifying, air humidifying, air circulating, and air cleaning.
 Heat pump having a heat comfort controller means a heat pump with controls that can regulate the operation of the electric resistance elements to assure that the air temperature leaving the indoor section does not fall below a specified temperature. Heat pumps that actively regulate the rate of electric resistance heating when operating below the balance point (as the result of a second stage call from the thermostat) but do not operate to maintain a minimum delivery temperature are not considered as having a heat comfort controller.
 Heating load factor (HLF) means the ratio having as its numerator the total heating delivered during a cyclic operating interval consisting of one ON period and one OFF period, and its denominator the heating capacity measured at the same test conditions used for the cyclic test, multiplied by the total time interval (ON plus OFF) of the cyclic-test.
 Heating season means the months of the year that require heating, e.g., typically, and roughly, October through April.
-Heating seasonal performance factor (HSPF) means the total space heating required during the heating season, expressed in Btu's, divided by the total electrical energy consumed by the heat pump system during the same season, expressed in watt-hours. The HSPF used to evaluate compliance with 10 CFR 430.32(c) is based on Region IV, the minimum standardized design heating requirement, and the sampling plan stated in 10 CFR 429.16(a).
+Heating seasonal performance factor (HSPF) means the total space heating required during the heating season, expressed in Btu, divided by the total electrical energy consumed by the heat pump system during the same season, expressed in watt-hours. The HSPF used to evaluate compliance with 10 CFR 430.32(c) is based on Region IV and the sampling plan stated in 10 CFR 429.16(a). HSPF is determined in accordance with appendix M.
 Independent coil manufacturer (ICM) means a manufacturer that manufactures indoor units but does not manufacture single-package units or outdoor units.
 Indoor unit means a separate assembly of a split system that includes—
 (1) An arrangement of refrigerant-to-air heat transfer coil(s) for transfer of heat between the refrigerant and the indoor air,
@@ -64,8 +66,8 @@ Off-mode season means, for central air conditioners other than heat pumps, the s
 Outdoor unit means a separate assembly of a split system that transfers heat between the refrigerant and the outdoor air, and consists of an outdoor coil, compressor(s), an air moving device, and in addition for heat pumps, may include a heating mode expansion device, reversing valve, and/or defrost controls.
 Outdoor unit manufacturer (OUM) means a manufacturer of single-package units, outdoor units, and/or both indoor units and outdoor units.
 Part-load factor (PLF) means the ratio of the cyclic EER (or COP for heating) to the steady-state EER (or COP), where both EERs (or COPs) are determined based on operation at the same ambient conditions.
-Seasonal energy efficiency ratio (SEER) means the total heat removed from the conditioned space during the annual cooling season, expressed in Btu's, divided by the total electrical energy consumed by the central air conditioner or heat pump during the same season, expressed in watt-hours.
-Service coil means an arrangement of refrigerant-to-air heat transfer coil(s), condensate drain pan, sheet metal or plastic parts to direct/route airflow over the coil(s), which may or may not include external cabinetry and/or a cooling mode expansion device, distributed in commerce solely for the intent of replacing an uncased coil or cased coil that has already been placed into service, and that has been labeled accordingly by the manufacturer.
+Seasonal energy efficiency ratio (SEER) means the total heat removed from the conditioned space during the annual cooling season, expressed in Btu's, divided by the total electrical energy consumed by the central air conditioner or heat pump during the same season, expressed in watt-hours. SEER is determined in accordance with appendix M.
+Service coil means an arrangement of refrigerant-to-air heat transfer coil(s), condensate drain pan, sheet metal or plastic parts to direct/route airflow over the coil(s), which may or may not include external cabinetry and/or a cooling mode expansion device, distributed in commerce solely for replacing an uncased coil or cased coil that has already been placed into service, and that has been labeled "for indoor coil replacement only" on the nameplate and in manufacturer technical and product literature. The model number for any service coil must include some mechanism (e.g., an additional letter or number) for differentiating a service coil from a coil intended for an indoor unit.
 Shoulder season means the months of the year in between those months that require cooling and those months that require heating, e.g., typically, and roughly, April through May, and September through October.
 Single-package unit means any central air conditioner or heat pump that has all major assemblies enclosed in one cabinet.
 Single-split system means a split system that has one outdoor unit and one indoor unit connected with a single refrigeration circuit. Small-duct, high-velocity system means a split system for which all indoor units are blower coil indoor units that produce at least 1.2 inches (of water column) of external static pressure when operated at the full-load air volume rate certified by the manufacturer of at least 220 scfm per rated ton of cooling.
@@ -99,23 +101,22 @@ Wet-coil test means a test conducted at test conditions that typically cause wat
 (A) Test VRF systems using AHRI 1230-2010 (incorporated by reference, see § 430.3) and appendix M. Where AHRI 1230-2010 refers to the appendix C therein substitute the provisions of this appendix. In cases where there is a conflict, the language of the test procedure in this appendix takes precedence over AHRI 1230-2010.
 For definitions use section 1 of appendix M and section 3 of AHRI 1230-2010 (incorporated by reference, see § 430.3). For rounding requirements, refer to § 430.23(m). For determination of certified ratings, refer to § 429.16 of this chapter.
 For test room requirements, refer to section 2.1 of this appendix. For test unit installation requirements refer to sections 2.2.a, 2.2.b, 2.2.c, 2.2.1, 2.2.2, 2.2.3(a), 2.2.3(c), 2.2.4, 2.2.5, and 2.4 to 2.12 of this appendix, and sections 5.1.3 and 5.1.4 of AHRI 1230-2010. The "manufacturer's published instructions," as stated in section 8.2 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3) and "manufacturer's installation instructions" discussed in this appendix mean the manufacturer's installation instructions that come packaged with or appear in the labels applied to the unit. This does not include online manuals. Installation instructions that appear in the labels applied to the unit take precedence over installation instructions that are shipped with the unit.
-For general requirements for the test procedure, refer to section 3.1 of this appendix, except for sections 3.1.3 and 3.1.4, which are requirements for indoor air volume and outdoor air volume. For indoor air volume and outdoor air volume requirements, refer instead to section 6.1.5 (except where section 6.1.5 refers to Table 8, refer instead to Table 3 of this appendix) and 6.1.6 of AHRI 1230-2010.
+For general requirements for the test procedure, refer to section 3.1 of this appendix, except for sections 3.1.3 and 3.1.4, which are requirements for indoor air volume and outdoor air volume. For indoor air volume and outdoor air volume requirements, refer instead to section 6.1.5 (except where section 6.1.5 refers to Table 8, refer instead to Table 4 of this appendix) and 6.1.6 of AHRI 1230-2010.
 For the test method, refer to sections 3.3 to 3.5 and 3.7 to 3.13 of this appendix. For cooling mode and heating mode test conditions, refer to section 6.2 of AHRI 1230-2010. For calculations of seasonal performance descriptors, refer to section 4 of this appendix.
 (B) For systems other than VRF, only a subset of the sections listed in this test procedure apply when testing and determining represented values for a particular unit. Table 1 shows the sections of the test procedure that apply to each system. This table is meant to assist manufacturers in finding the appropriate sections of the test procedure; the appendix sections rather than the table provide the specific requirements for testing, and given the varied nature of available units, manufacturers are responsible for determining which sections apply to each unit tested based on the unit's characteristics. To use this table, first refer to the sections listed under "all units". Then refer to additional requirements based on:
 (1) System configuration(s),
 (2) The compressor staging or modulation capability, and
 (3) Any special features.
 Testing requirements for space-constrained products do not differ from similar equipment that is not space-constrained and thus are not listed separately in this table. Air conditioners and heat pumps are not listed separately in this table, but heating procedures and calculations apply only to heat pumps.
-Table 1—Informative Guidance for Using Appendix M
-ER08JN16.004
-ER08JN16.005
-ER08JN16.006
+ER05JA17.004
+ER05JA17.005
+ER05JA17.006
 2.1 Test Room Requirements
 a. Test using two side-by-side rooms: An indoor test room and an outdoor test room. For multiple-split, single-zone-multi-coil or multi-circuit air conditioners and heat pumps, however, use as many indoor test rooms as needed to accommodate the total number of indoor units. These rooms must comply with the requirements specified in sections 8.1.2 and 8.1.3 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3).
 b. Inside these test rooms, use artificial loads during cyclic tests and frost accumulation tests, if needed, to produce stabilized room air temperatures. For one room, select an electric resistance heater(s) having a heating capacity that is approximately equal to the heating capacity of the test unit's condenser. For the second room, select a heater(s) having a capacity that is close to the sensible cooling capacity of the test unit's evaporator. Cycle the heater located in the same room as the test unit evaporator coil ON and OFF when the test unit cycles ON and OFF. Cycle the heater located in the same room as the test unit condensing coil ON and OFF when the test unit cycles OFF and ON.
 2.2 Test Unit Installation Requirements
 a. Install the unit according to section 8.2 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3), subject to the following additional requirements:
-(1) When testing split systems, follow the requirements given in section 6.1.3.5 of AHRI 210/240-2008 (incorporated by reference, see § 430.3). For the vapor refrigerant line(s), use the insulation included with the unit; if no insulation is provided, use insulation meeting the specifications for the insulation in the installation instructions included with the unit by the manufacturer; if no insulation is included with the unit and the installation instructions do not contain provisions for insulating the line(s), fully insulate the vapor refrigerant line(s) with vapor proof insulation having an inside diameter that matches the refrigerant tubing and a nominal thickness of at least 0.5 inches. For the liquid refrigerant line(s), use the insulation included with the unit; if no insulation is provided, use insulation meeting the specifications for the insulation in the installation instructions included with the unit by the manufacturer; if no insulation is included with the unit and the installation instructions do not contain provisions for insulating the line(s), leave the liquid refrigerant line(s) exposed to the air for air conditioners and heat pumps that heat and cool; or, for heating-only heat pumps, insulate the liquid refrigerant line(s) with insulation having an inside diameter that matches the refrigerant tubing and a nominal thickness of at least 0.5 inches. Insulation must be the same for the cooling and heating tests.
+(1) When testing split systems, follow the requirements given in section 6.1.3.5 of AHRI 210/240-2008 (incorporated by reference, see § 430.3). For the vapor refrigerant line(s), use the insulation included with the unit; if no insulation is provided, use insulation meeting the specifications for the insulation in the installation instructions included with the unit by the manufacturer; if no insulation is included with the unit and the installation instructions do not contain provisions for insulating the line(s), fully insulate the vapor refrigerant line(s) with vapor proof insulation having an inside diameter that matches the refrigerant tubing and a nominal thickness of at least 0.5 inches. For the liquid refrigerant line(s), use the insulation included with the unit; if no insulation is provided, use insulation meeting the specifications for the insulation in the installation instructions included with the unit by the manufacturer; if no insulation is included with the unit and the installation instructions do not contain provisions for insulating the line(s), leave the liquid refrigerant line(s) exposed to the air for air conditioners and heat pumps that heat and cool; or, for heating-only heat pumps, insulate the liquid refrigerant line(s) with insulation having an inside diameter that matches the refrigerant tubing and a nominal thickness of at least 0.5 inches. However, these requirements do not take priority over instructions for application of insulation for the purpose of improving refrigerant temperature measurement accuracy as required by sections 2.10.2 and 2.10.3 of this appendix. Insulation must be the same for the cooling and heating tests.
 (2) When testing split systems, if the indoor unit does not ship with a cooling mode expansion device, test the system using the device as specified in the installation instructions provided with the indoor unit. If none is specified, test the system using a fixed orifice or piston type expansion device that is sized appropriately for the system.
 (3) When testing triple-split systems (see section 1.2 of this appendix, Definitions), use the tubing length specified in section 6.1.3.5 of AHRI 210/240-2008 (incorporated by reference, see § 430.3) to connect the outdoor coil, indoor compressor section, and indoor coil while still meeting the requirement of exposing 10 feet of the tubing to outside conditions;
 (4) When testing split systems having multiple indoor coils, connect each indoor blower coil unit to the outdoor unit using:
@@ -126,7 +127,7 @@ b. For units designed for both horizontal and vertical installation or for both 
 (1) The most restrictive filter(s);
 (2) Supplementary heating coils; and
 (3) Other equipment specified as part of the unit, including all hardware used by a heat comfort controller if so equipped (see section 1 of this appendix, Definitions). For small-duct, high-velocity systems, configure all balance dampers or restrictor devices on or inside the unit to fully open or lowest restriction.
-c. Testing a ducted unit without having an indoor air filter installed is permissible as long as the minimum external static pressure requirement is adjusted as stated in Table 3, note 3 (see section 3.1.4 of this appendix). Except as noted in section 3.1.10 of this appendix, prevent the indoor air supplementary heating coils from operating during all tests. For uncased coils, create an enclosure using 1 inch fiberglass foil-faced ductboard having a nominal density of 6 pounds per cubic foot. Or alternatively, construct an enclosure using sheet metal or a similar material and insulating material having a thermal resistance ("R" value) between 4 and 6 hr·ft2· °F/Btu. Size the enclosure and seal between the coil and/or drainage pan and the interior of the enclosure as specified in installation instructions shipped with the unit. Also seal between the plenum and inlet and outlet ducts. For cased coils, no extra insulating or sealing is allowed.
+c. Testing a ducted unit without having an indoor air filter installed is permissible as long as the minimum external static pressure requirement is adjusted as stated in Table 4, note 3 (see section 3.1.4 of this appendix). Except as noted in section 3.1.10 of this appendix, prevent the indoor air supplementary heating coils from operating during all tests. For uncased coils, create an enclosure using 1 inch fiberglass foil-faced ductboard having a nominal density of 6 pounds per cubic foot. Or alternatively, construct an enclosure using sheet metal or a similar material and insulating material having a thermal resistance ("R" value) between 4 and 6 hr·ft2· °F/Btu. Size the enclosure and seal between the coil and/or drainage pan and the interior of the enclosure as specified in installation instructions shipped with the unit. Also seal between the plenum and inlet and outlet ducts.
 d. When testing a coil-only system, install a toroidal-type transformer to power the system's low-voltage components, complying with any additional requirements for the transformer mentioned in the installation manuals included with the unit by the system manufacturer. If the installation manuals do not provide specifications for the transformer, use a transformer having the following features:
 (1) A nominal volt-amp rating such that the transformer is loaded between 25 and 90 percent of this rating for the highest level of power measured during the off mode test (section 3.13 of this appendix);
 (2) Designed to operate with a primary input of 230 V, single phase, 60 Hz; and
@@ -134,29 +135,47 @@ d. When testing a coil-only system, install a toroidal-type transformer to power
 e. Test an outdoor unit with no match (i.e., that is not distributed in commerce with any indoor units) using a coil-only indoor unit with a single cooling air volume rate whose coil has:
 (1) Round tubes of outer diameter no less than 0.375 inches, and
 (2) a normalized gross indoor fin surface (NGIFS) no greater than 1.0 square inches per British thermal unit per hour (sq. in./Btu/hr). NGIFS is calculated as follows:
-NGIFS = 2 × L f × W f × N f ÷ Q c (95)
-Where:
+NGIFS = 2 × L f × W f × N f ÷ Q c(95)
+where:
 Lf = Indoor coil fin length in inches, also height of the coil transverse to the tubes.
 Wf = Indoor coil fin width in inches, also depth of the coil.
 Nf = Number of fins.
 Q c(95) = the measured space cooling capacity of the tested outdoor unit/indoor unit combination as determined from the A2 or A Test whichever applies, Btu/h.
-f If the outdoor unit or the outdoor portion of a single-package unit has a drain pan heater to prevent freezing of defrost water, the heater shall be energized, subject to control to de-energize it when not needed by the heater's thermostat or the unit's control system, for all tests.
+ƒ. If the outdoor unit or the outdoor portion of a single-package unit has a drain pan heater to prevent freezing of defrost water, the heater shall be energized, subject to control to de-energize it when not needed by the heater's thermostat or the unit's control system, for all tests.
+g. If pressure measurement devices are connected to a cooling/heating heat pump refrigerant circuit, the refrigerant charge Mt that could potentially transfer out of the connected pressure measurement systems (transducers, gauges, connections, and lines) between operating modes must be less than 2 percent of the factory refrigerant charge listed on the nameplate of the outdoor unit. If the outdoor unit nameplate has no listed refrigerant charge, or the heat pump is shipped without a refrigerant charge, use a factory refrigerant charge equal to 30 ounces per ton of certified cooling capacity. Use Equation 2.2-1 to calculate Mt for heat pumps that have a single expansion device located in the outdoor unit to serve each indoor unit, and use Equation 2.2-2 to calculate Mt for heat pumps that have two expansion devices per indoor unit.
+ER05JA17.007
+ER05JA17.027
+where:
+Vi (i=2,3,4...) = the internal volume of the pressure measurement system (pressure lines, fittings, and gauge and/or transducer) at the location i (as indicated in Table 2), (cubic inches)
+fi (i=5,6) = 0 if the pressure measurement system is pitched upwards from the pressure tap location to the gauge or transducer, 1 if it is not.
+r = the density associated with liquid refrigerant at 100 °F bubble point conditions (ounces per cubic inch)
+Table 2—Pressure Measurement Locations
+Location |
+Compressor Discharge | 1
+Between Outdoor Coil and Outdoor Expansion Valve(s) | 2
+Liquid Service Valve | 3
+Indoor Coil Inlet | 4
+Indoor Coil Outlet | 5
+Common Suction Port (i.e. vapor service valve) | 6
+Compressor Suction | 7
+Calculate the internal volume of each pressure measurement system using internal volume reported for pressure transducers and gauges in product literature, if available. If such information is not available, use the value of 0.1 cubic inches internal volume for each pressure transducer, and 0.2 cubic inches for each pressure gauge.
+In addition, for heat pumps that have a single expansion device located in the outdoor unit to serve each indoor unit, the internal volume of the pressure system at location 2 (as indicated in Table 2) must be no more than 1 cubic inch. Once the pressure measurement lines are set up, no change should be made until all tests are finished.
 2.2.1 Defrost Control Settings
-Set heat pump defrost controls at the normal settings which most typify those encountered in generalized climatic region IV. (Refer to Figure 1 and Table 19 of section 4.2 of this appendix for information on region IV.) For heat pumps that use a time-adaptive defrost control system (see section 1.2 of this appendix, Definitions), the manufacturer must specify in the certification report the frosting interval to be used during frost accumulation tests and provide the procedure for manually initiating the defrost at the specified time.
+Set heat pump defrost controls at the normal settings which most typify those encountered in generalized climatic region IV. (Refer to Figure 1 and Table 20 of section 4.2 of this appendix for information on region IV.) For heat pumps that use a time-adaptive defrost control system (see section 1.2 of this appendix, Definitions), the manufacturer must specify in the certification report the frosting interval to be used during frost accumulation tests and provide the procedure for manually initiating the defrost at the specified time.
 2.2.2 Special Requirements for Units Having a Multiple-Speed Outdoor Fan
 Configure the multiple-speed outdoor fan according to the installation manual included with the unit by the manufacturer, and thereafter, leave it unchanged for all tests. The controls of the unit must regulate the operation of the outdoor fan during all lab tests except dry coil cooling mode tests. For dry coil cooling mode tests, the outdoor fan must operate at the same speed used during the required wet coil test conducted at the same outdoor test conditions.
 2.2.3 Special Requirements for Multi-Split Air Conditioners and Heat Pumps and Ducted Systems Using a Single Indoor Section Containing Multiple Indoor Blowers That Would Normally Operate Using Two or More Indoor Thermostats
 Because these systems will have more than one indoor blower and possibly multiple outdoor fans and compressor systems, references in this test procedure to a singular indoor blower, outdoor fan, and/or compressor means all indoor blowers, all outdoor fans, and all compressor systems that are energized during the test.
-a. Additional requirements for multi-split air conditioners and heat pumps. For any test where the system is operated at part load (i.e., one or more compressors "off", operating at the intermediate or minimum compressor speed, or at low compressor capacity), the manufacturer must designate in the certification report the indoor coil(s) that are not providing heating or cooling during the test such that the sum of the nominal heating or cooling capacity of the operational indoor units is within 5 percent of the intended part load heating or cooling capacity. For variable-speed systems, the manufacturer must designate in the certification report at least one indoor unit that is not providing heating or cooling for all tests conducted at minimum compressor speed. For all other part-load tests, the manufacturer must choose to turn off zero, one, two, or more indoor units. The chosen configuration must remain unchanged for all tests conducted at the same compressor speed/capacity. For any indoor coil that is not providing heating or cooling during a test, cease forced airflow through this indoor coil and block its outlet duct.
+a. Additional requirements for multi-split air conditioners and heat pumps. For any test where the system is operated at part load (i.e., one or more compressors "off", operating at the intermediate or minimum compressor speed, or at low compressor capacity), record the indoor coil(s) that are not providing heating or cooling during the test. For variable-speed systems, the manufacturer must designate in the certification report at least one indoor unit that is not providing heating or cooling for all tests conducted at minimum compressor speed.
 b. Additional requirements for ducted split systems with a single indoor unit containing multiple indoor blowers (or for single-package units with an indoor section containing multiple indoor blowers) where the indoor blowers are designed to cycle on and off independently of one another and are not controlled such that all indoor blowers are modulated to always operate at the same air volume rate or speed. For any test where the system is operated at its lowest capacity—i.e., the lowest total air volume rate allowed when operating the single-speed compressor or when operating at low compressor capacity—indoor blowers accounting for at least one-third of the full-load air volume rate must be turned off unless prevented by the controls of the unit. In such cases, turn off as many indoor blowers as permitted by the unit's controls. Where more than one option exists for meeting this "off" requirement, the manufacturer shall indicate in its certification report which indoor blower(s) are turned off. The chosen configuration shall remain unchanged for all tests conducted at the same lowest capacity configuration. For any indoor coil turned off during a test, cease forced airflow through any outlet duct connected to a switched-off indoor blower.
 c. For test setups where the laboratory's physical limitations requires use of more than the required line length of 25 feet as listed in section 2.2.a(4) of this appendix, then the actual refrigerant line length used by the laboratory may exceed the required length and the refrigerant line length correction factors in Table 4 of AHRI 1230-2010 are applied to the cooling capacity measured for each cooling mode test.
 2.2.4 Wet-Bulb Temperature Requirements for the Air Entering the Indoor and Outdoor Coils
 2.2.4.1 Cooling Mode Tests
-For wet-coil cooling mode tests, regulate the water vapor content of the air entering the indoor unit so that the wet-bulb temperature is as listed in Tables 4 to 7. As noted in these same tables, achieve a wet-bulb temperature during dry-coil cooling mode tests that results in no condensate forming on the indoor coil. Controlling the water vapor content of the air entering the outdoor side of the unit is not required for cooling mode tests except when testing:
-(1) Units that reject condensate to the outdoor coil during wet coil tests. Tables 4-7 list the applicable wet-bulb temperatures.
+For wet-coil cooling mode tests, regulate the water vapor content of the air entering the indoor unit so that the wet-bulb temperature is as listed in Tables 5 to 8. As noted in these same tables, achieve a wet-bulb temperature during dry-coil cooling mode tests that results in no condensate forming on the indoor coil. Controlling the water vapor content of the air entering the outdoor side of the unit is not required for cooling mode tests except when testing:
+(1) Units that reject condensate to the outdoor coil during wet coil tests. Tables 5-8 list the applicable wet-bulb temperatures.
 (2) Single-package units where all or part of the indoor section is located in the outdoor test room. The average dew point temperature of the air entering the outdoor coil during wet coil tests must be within ±3.0 °F of the average dew point temperature of the air entering the indoor coil over the 30-minute data collection interval described in section 3.3 of this appendix. For dry coil tests on such units, it may be necessary to limit the moisture content of the air entering the outdoor coil of the unit to meet the requirements of section 3.4 of this appendix.
 2.2.4.2 Heating Mode Tests
-For heating mode tests, regulate the water vapor content of the air entering the outdoor unit to the applicable wet-bulb temperature listed in Tables 11 to 14. The wet-bulb temperature entering the indoor side of the heat pump must not exceed 60 °F. Additionally, if the Outdoor Air Enthalpy test method (section 2.10.1 of this appendix) is used while testing a single-package heat pump where all or part of the outdoor section is located in the indoor test room, adjust the wet-bulb temperature for the air entering the indoor side to yield an indoor-side dew point temperature that is as close as reasonably possible to the dew point temperature of the outdoor-side entering air.
+For heating mode tests, regulate the water vapor content of the air entering the outdoor unit to the applicable wet-bulb temperature listed in Tables 12 to 15. The wet-bulb temperature entering the indoor side of the heat pump must not exceed 60 °F. Additionally, if the Outdoor Air Enthalpy test method (section 2.10.1 of this appendix) is used while testing a single-package heat pump where all or part of the outdoor section is located in the indoor test room, adjust the wet-bulb temperature for the air entering the indoor side to yield an indoor-side dew point temperature that is as close as reasonably possible to the dew point temperature of the outdoor-side entering air.
 2.2.5 Additional Refrigerant Charging Requirements
 2.2.5.1 Instructions To Use for Charging
 a. Where the manufacturer's installation instructions contain two sets of refrigerant charging criteria, one for field installations and one for lab testing, use the field installation criteria.
@@ -166,7 +185,7 @@ c. For systems consisting of an outdoor unit manufacturer's outdoor unit and an 
 a. Use the tests or operating conditions specified in the manufacturer's installation instructions for charging. The manufacturer's installation instructions may specify use of tests other than the A or A2 test for charging, but, unless the unit is a heating-only heat pump, the air volume rate must be determined by the A or A2 test as specified in section 3.1 of this appendix.
 b. If the manufacturer's installation instructions do not specify a test or operating conditions for charging or there are no manufacturer's instructions, use the following test(s):
 (1) For air conditioners or cooling and heating heat pumps, use the A or A2 test.
-(2) For cooling and heating heat pumps that do not operate in the H1 or H12 test (e.g., due to shut down by the unit limiting devices) when tested using the charge determined at the A or A2 test, and for heating-only heat pumps, use the H1 or H12 test.
+(2) For cooling and heating heat pumps that do not operate in the H1 or H12 test (e.g. due to shut down by the unit limiting devices) when tested using the charge determined at the A or A2 test, and for heating-only heat pumps, use the H1 or H12 test.
 2.2.5.3 Parameters To Set and Their Target Values
 a. Consult the manufacturer's installation instructions regarding which parameters (e.g., superheat) to set and their target values. If the instructions provide ranges of values, select target values equal to the midpoints of the provided ranges.
 b. In the event of conflicting information between charging instructions (i.e., multiple conditions given for charge adjustment where all conditions specified cannot be met), follow the following hierarchy.
@@ -187,14 +206,14 @@ c. If there are no installation instructions and/or they do not provide paramete
 2.2.5.4 Charging Tolerances
 a. If the manufacturer's installation instructions specify tolerances on target values for the charging parameters, set the values within these tolerances.
 b. Otherwise, set parameter values within the following test condition tolerances for the different charging parameters:
-(1) Superheat: ± 2.0 °F
-(2) Subcooling: ± 2.0 °F
-(3) High side pressure or corresponding saturation or dew point temperature: ± 4.0 psi or ± 1.0 °F
-(4) Low side pressure or corresponding saturation or dew point temperature: ± 2.0 psi or ± 0.8 °F
-(5) High side temperature: ± 2.0 °F
-(6) Low side temperature: ± 2.0 °F
-(7) Approach temperature: ± 1.0 °F
-(8) Charge weight: ± 2.0 ounce
+1. Superheat: ± 2.0 °F
+2. Subcooling: ± 2.0 °F
+3. High side pressure or corresponding saturation or dew point temperature: ± 4.0 psi or ± 1.0 °F
+4. Low side pressure or corresponding saturation or dew point temperature: ± 2.0 psi or ± 0.8 °F
+5. High side temperature: ±2.0 °F
+6. Low side temperature: ±2.0 °F
+7. Approach temperature: ± 1.0 °F
+8. Charge weight: ± 2.0 ounce
 2.2.5.5 Special Charging Instructions
 a. Cooling and Heating Heat Pumps
 If, using the initial charge set in the A or A2 test, the conditions are not within the range specified in manufacturer's installation instructions for the H1 or H12 test, make as small as possible an adjustment to obtain conditions for this test in the specified range. After this adjustment, recheck conditions in the A or A2 test to confirm that they are still within the specified range for the A or A2 test.
@@ -203,11 +222,11 @@ Unless otherwise directed by the manufacturer's installation instructions, insta
 (1) Install a pressure gauge at the location of the service valve on the liquid line if charging is on the basis of subcooling, or high side pressure or corresponding saturation or dew point temperature;
 (2) Install a pressure gauge at the location of the service valve on the suction line if charging is on the basis of superheat, or low side pressure or corresponding saturation or dew point temperature.
 Use methods for installing pressure gauge(s) at the required location(s) as indicated in manufacturer's instructions if specified.
-2.2.5.6 Near-Azeotropic and Zeotropic Refrigerants
+2.2.5.6 Near-Azeotropic and Zeotropic Refrigerants.
 Perform charging of near-azeotropic and zeotropic refrigerants only with refrigerant in the liquid state.
-2.2.5.7 Adjustment of Charge Between Tests
+2.2.5.7 Adjustment of Charge Between Tests.
 After charging the system as described in this test procedure, use the set refrigerant charge for all tests used to determine performance. Do not adjust the refrigerant charge at any point during testing. If measurements indicate that refrigerant charge has leaked during the test, repair the refrigerant leak, repeat any necessary set-up steps, and repeat all tests.
-2.3 Indoor Air Volume Rates
+2.3 Indoor Air Volume Rates.
 If a unit's controls allow for overspeeding the indoor blower (usually on a temporary basis), take the necessary steps to prevent overspeeding during all tests.
 2.3.1 Cooling Tests
 a. Set indoor blower airflow-control settings (e.g., fan motor pin settings, fan motor speed) according to the requirements that are specified in section 3.1.4 of this appendix.
@@ -216,14 +235,14 @@ b. Express the Cooling full-load air volume rate, the Cooling Minimum Air Volume
 a. Set indoor blower airflow-control settings (e.g., fan motor pin settings, fan motor speed) according to the requirements that are specified in section 3.1.4 of this appendix.
 b. Express the heating full-load air volume rate, the heating minimum air volume rate, the heating intermediate air volume rate, and the heating nominal air volume rate in terms of standard air.
 2.4 Indoor Coil Inlet and Outlet Duct Connections
-Insulate and/or construct the outlet plenum as described in section 2.4.1 of this appendix and, if installed, the inlet plenum described in section 2.4.2 of this appendix with thermal insulation having a nominal overall resistance (R-value) of at least 19 hr • ft2 • °F/Btu.
+Insulate and/or construct the outlet plenum as described in section 2.4.1 of this appendix and, if installed, the inlet plenum described in section 2.4.2 of this appendix with thermal insulation having a nominal overall resistance (R-value) of at least 19 hr·ft2· °F/Btu.
 2.4.1 Outlet Plenum for the Indoor Unit
 a. Attach a plenum to the outlet of the indoor coil. (Note: For some packaged systems, the indoor coil may be located in the outdoor test room.)
 b. For systems having multiple indoor coils, or multiple indoor blowers within a single indoor section, attach a plenum to each indoor coil or indoor blower outlet. In order to reduce the number of required airflow measurement apparati (section 2.6 of this appendix), each such apparatus may serve multiple outlet plenums connected to a single common duct leading to the apparatus. More than one indoor test room may be used, which may use one or more common ducts leading to one or more airflow measurement apparati within each test room that contains multiple indoor coils. At the plane where each plenum enters a common duct, install an adjustable airflow damper and use it to equalize the static pressure in each plenum. Each outlet air temperature grid (section 2.5.4 of this appendix) and airflow measuring apparatus are located downstream of the inlet(s) to the common duct. For multiple-circuit (or multi-circuit) systems for which each indoor coil outlet is measured separately and its outlet plenum is not connected to a common duct connecting multiple outlet plenums, the outlet air temperature grid and airflow measuring apparatus must be installed at each outlet plenum.
-c. For small-duct, high-velocity systems, install an outlet plenum that has a diameter that is equal to or less than the value listed in Table 2. The limit depends only on the Cooling full-load air volume rate (see section 3.1.4.1.1 of this appendix) and is effective regardless of the flange dimensions on the outlet of the unit (or an air supply plenum adapter accessory, if installed in accordance with the manufacturer's installation instructions).
+c. For small-duct, high-velocity systems, install an outlet plenum that has a diameter that is equal to or less than the value listed in Table 3. The limit depends only on the Cooling full-load air volume rate (see section 3.1.4.1.1 of this appendix) and is effective regardless of the flange dimensions on the outlet of the unit (or an air supply plenum adapter accessory, if installed in accordance with the manufacturer's installation instructions).
 d. Add a static pressure tap to each face of the (each) outlet plenum, if rectangular, or at four evenly distributed locations along the circumference of an oval or round plenum. Create a manifold that connects the four static pressure taps. Figure 9 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3) shows allowed options for the manifold configuration. The cross-sectional dimensions of plenum shall be equal to the dimensions of the indoor unit outlet. See Figures 7a, 7b, and 7c of ANSI/ASHRAE 37-2009 for the minimum length of the (each) outlet plenum and the locations for adding the static pressure taps for ducted blower coil indoor units and single-package systems. See Figure 8 of ANSI/ASHRAE 37-2009 for coil-only indoor units.
-Table 2—Size of Outlet Plenum for Small-Duct High-Velocity Indoor Units
-Cooling full-load air volume rate(scfm) | Maximum diameter* of outlet plenum(inches)
+Table 3—Size of Outlet Plenum for Small-Duct High-Velocity Indoor Units
+Cooling full-loadair volume rate (scfm) | Maximumdiameter * of outlet plenum (inches)
 ≤500 | 6
 501 to 700 | 7
 701 to 900 | 8
@@ -244,15 +263,15 @@ c. Use of airflow prevention devices. Use an inlet and outlet air damper box, or
 a. Install an airflow prevention device as specified in section 2.5.1.1 or 2.5.1.2 of this appendix, whichever applies.
 b. For an inlet damper box, locate the grid of entering air dry-bulb temperature sensors, if used, and the air sampling device, or the sensor used to measure the water vapor content of the inlet air, at a location immediately upstream of the damper box inlet. For an inlet upturned duct, locate the grid of entering air dry-bulb temperature sensors, if used, and the air sampling device, or the sensor used to measure the water vapor content of the inlet air, at a location at least one foot downstream from the beginning of the insulated portion of the duct but before the static pressure measurement.
 2.5.1.1 If the Section 2.4.2 Inlet Plenum Is Installed
-Construct the airflow prevention device having a cross-sectional flow area equal to or greater than the flow area of the inlet plenum. Install the airflow prevention device upstream of the inlet plenum and construct ductwork connecting it to the inlet plenum. If needed, use an adaptor plate or a transition duct section to connect the airflow prevention device with the inlet plenum. Insulate the ductwork and inlet plenum with thermal insulation that has a nominal overall resistance (R-value) of at least 19 hr • ft2 • °F/Btu.
+Construct the airflow prevention device having a cross-sectional flow area equal to or greater than the flow area of the inlet plenum. Install the airflow prevention device upstream of the inlet plenum and construct ductwork connecting it to the inlet plenum. If needed, use an adaptor plate or a transition duct section to connect the airflow prevention device with the inlet plenum. Insulate the ductwork and inlet plenum with thermal insulation that has a nominal overall resistance (R-value) of at least 19 hr · ft2 · °F/Btu.
 2.5.1.2 If the Section 2.4.2 Inlet Plenum Is Not Installed
-Construct the airflow prevention device having a cross-sectional flow area equal to or greater than the flow area of the air inlet of the indoor unit. Install the airflow prevention device immediately upstream of the inlet of the indoor unit. If needed, use an adaptor plate or a short transition duct section to connect the airflow prevention device with the unit's air inlet. Add static pressure taps at the center of each face of a rectangular airflow prevention device, or at four evenly distributed locations along the circumference of an oval or round airflow prevention device. Locate the pressure taps at a distance from the indoor unit inlet equal to 0.5 times the square root of the cross sectional area of the indoor unit inlet. This location must be between the damper and the inlet of the indoor unit, if a damper is used. Make a manifold that connects the four static pressure taps using one of the configurations shown in Figure 9 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3). Insulate the ductwork with thermal insulation that has a nominal overall resistance (R-value) of at least 19 hr • ft2 • °F/Btu.
-2.5.2 Test Set-Up on the Inlet Side of the Indoor Unit: For Cases Where No Airflow Prevention Device Is Installed
+Construct the airflow prevention device having a cross-sectional flow area equal to or greater than the flow area of the air inlet of the indoor unit. Install the airflow prevention device immediately upstream of the inlet of the indoor unit. If needed, use an adaptor plate or a short transition duct section to connect the airflow prevention device with the unit's air inlet. Add static pressure taps at the center of each face of a rectangular airflow prevention device, or at four evenly distributed locations along the circumference of an oval or round airflow prevention device. Locate the pressure taps at a distance from the indoor unit inlet equal to 0.5 times the square root of the cross sectional area of the indoor unit inlet. This location must be between the damper and the inlet of the indoor unit, if a damper is used. Make a manifold that connects the four static pressure taps using one of the configurations shown in Figure 9 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3). Insulate the ductwork with thermal insulation that has a nominal overall resistance (R-value) of at least 19 hr · ft2 · °F/Btu.
+2.5.2 Test Set-Up on the Inlet Side of the Indoor Unit: for Cases Where No Airflow Prevention Device is Installed
 If using the section 2.4.2 inlet plenum and a grid of dry bulb temperature sensors, mount the grid at a location upstream of the static pressure taps described in section 2.4.2 of this appendix, preferably at the entrance plane of the inlet plenum. If the section 2.4.2 inlet plenum is not used (i.e. for non-ducted units) locate a grid approximately 6 inches upstream of the indoor unit inlet. In the case of a system having multiple non-ducted indoor units, do this for each indoor unit. Position an air sampling device, or the sensor used to measure the water vapor content of the inlet air, immediately upstream of the (each) entering air dry-bulb temperature sensor grid. If a grid of sensors is not used, position the entering air sampling device (or the sensor used to measure the water vapor content of the inlet air) as if the grid were present.
 2.5.3 Indoor Coil Static Pressure Difference Measurement
 Fabricate pressure taps meeting all requirements described in section 6.5.2 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3) and illustrated in Figure 2A of AMCA 210-2007 (incorporated by reference, see § 430.3), however, if adhering strictly to the description in section 6.5.2 of ANSI/ASHRAE 37-2009, the minimum pressure tap length of 2.5 times the inner diameter of Figure 2A of AMCA 210-2007 is waived. Use a differential pressure measuring instrument that is accurate to within ±0.01 inches of water and has a resolution of at least 0.01 inches of water to measure the static pressure difference between the indoor coil air inlet and outlet. Connect one side of the differential pressure instrument to the manifolded pressure taps installed in the outlet plenum. Connect the other side of the instrument to the manifolded pressure taps located in either the inlet plenum or incorporated within the airflow prevention device. For non-ducted indoor units that are tested with multiple outlet plenums, measure the static pressure within each outlet plenum relative to the surrounding atmosphere.
 2.5.4 Test Set-Up on the Outlet Side of the Indoor Coil
-a. Install an interconnecting duct between the outlet plenum described in section 2.4.1 of this appendix and the airflow measuring apparatus described below in section 2.6 of this appendix. The cross-sectional flow area of the interconnecting duct must be equal to or greater than the flow area of the outlet plenum or the common duct used when testing non-ducted units having multiple indoor coils. If needed, use adaptor plates or transition duct sections to allow the connections. To minimize leakage, tape joints within the interconnecting duct (and the outlet plenum). Construct or insulate the entire flow section with thermal insulation having a nominal overall resistance (R-value) of at least 19 hr • ft2 • °F/Btu.
+a. Install an interconnecting duct between the outlet plenum described in section 2.4.1 of this appendix and the airflow measuring apparatus described below in section 2.6 of this appendix. The cross-sectional flow area of the interconnecting duct must be equal to or greater than the flow area of the outlet plenum or the common duct used when testing non-ducted units having multiple indoor coils. If needed, use adaptor plates or transition duct sections to allow the connections. To minimize leakage, tape joints within the interconnecting duct (and the outlet plenum). Construct or insulate the entire flow section with thermal insulation having a nominal overall resistance (R-value) of at least 19 hr·ft2· °F/Btu.
 b. Install a grid(s) of dry-bulb temperature sensors inside the interconnecting duct. Also, install an air sampling device, or the sensor(s) used to measure the water vapor content of the outlet air, inside the interconnecting duct. Locate the dry-bulb temperature grid(s) upstream of the air sampling device (or the in-duct sensor(s) used to measure the water vapor content of the outlet air). Turn off the sampler fan motor during the cyclic tests. Air leaving an indoor unit that is sampled by an air sampling device for remote water-vapor-content measurement must be returned to the interconnecting duct at a location:
 (1) Downstream of the air sampling device;
 (2) On the same side of the outlet air damper as the air sampling device; and
@@ -292,7 +311,7 @@ b. The test apparatus required for the outdoor air enthalpy method is a subset o
 (2) An airflow measuring apparatus (section 2.6 of this appendix),
 (3) A duct section that connects these two components and itself contains the instrumentation for measuring the dry-bulb temperature and water vapor content of the air leaving the outdoor coil (sections 2.5.4, 2.5.5, and 2.5.6 of this appendix), and
 (4) On the inlet side, a sampling device and temperature grid (section 2.11.b of this appendix).
-c. During the preliminary tests described in sections 3.11.1 and 3.11.1.1 of this appendix, measure the evaporator and condenser temperatures or pressures. On both the outdoor coil and the indoor coil, solder a thermocouple onto a return bend located at or near the midpoint of each coil or at points not affected by vapor superheat or liquid subcooling. Alternatively, if the test unit is not sensitive to the refrigerant charge, install pressure gages to the access valves or to ports created from tapping into the suction and discharge lines according to sections 7.4.2 and 8.2.5 of ASHRAE 37-2009. Use this alternative approach when testing a unit charged with a zeotropic refrigerant having a temperature glide in excess of 1 °F at the specified test conditions.
+c. During the free outdoor air tests described in sections 3.11.1 and 3.11.1.1 of this appendix, measure the evaporator and condenser temperatures or pressures. On both the outdoor coil and the indoor coil, solder a thermocouple onto a return bend located at or near the midpoint of each coil or at points not affected by vapor superheat or liquid subcooling. Alternatively, if the test unit is not sensitive to the refrigerant charge, install pressure gages to the access valves or to ports created from tapping into the suction and discharge lines according to sections 7.4.2 and 8.2.5 of ANSI/ASHRAE 37-2009. Use this alternative approach when testing a unit charged with a zeotropic refrigerant having a temperature glide in excess of 1 °F at the specified test conditions.
 2.10.2 Compressor Calibration Method
 Measure refrigerant pressures and temperatures to determine the evaporator superheat and the enthalpy of the refrigerant that enters and exits the indoor coil. Determine refrigerant flow rate or, when the superheat of the refrigerant leaving the evaporator is less than 5 °F, total capacity from separate calibration tests conducted under identical operating conditions. When using this method, install instrumentation and measure refrigerant properties according to section 7.4.2 and 8.2.5 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3). If removing the refrigerant before applying refrigerant lines and subsequently recharging, use the steps in 7.4.2 of ANSI/ASHRAE 37-2009 in addition to the methods of section 2.2.5 of this appendix to confirm the refrigerant charge. Use refrigerant temperature and pressure measuring instruments that meet the specifications given in sections 5.1.1 and 5.2 of ANSI/ASHRAE 37-2009.
 2.10.3 Refrigerant Enthalpy Method
@@ -312,7 +331,7 @@ Pairs of measurements (e.g., dry bulb temperature and wet bulb temperature) used
 When required, measure fan speed using a revolution counter, tachometer, or stroboscope that gives readings accurate to within ±1.0 percent.
 2.13 Measurement of Barometric Pressure
 Determine the average barometric pressure during each test. Use an instrument that meets the requirements specified in section 5.2 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3).
-2.14 Air Sampling Device and Aspirating Psychrometer Requirements
+2.14 Air Sampling Device and Aspirating Psycrhometer Requirements
 Air temperature measurements shall be made in accordance with ANSI/ASHRAE 41.1-2013, unless otherwise instructed in this section.
 2.14.1 Air Sampling Device Requirements
 The air sampling device is intended to draw in a sample of the air at the critical locations of a unit under test. It shall be constructed of stainless steel, plastic or other suitable, durable materials. It shall have a main flow trunk tube with a series of branch tubes connected to the trunk tube. Holes shall be on the side of the sampler facing the upstream direction of the air source. Other sizes and rectangular shapes can be used, and shall be scaled accordingly with the following guidelines:
@@ -328,12 +347,12 @@ The psychrometer shall be made from suitable material which may be plastic (such
 3. Testing Procedures
 3.1 General Requirements
 If, during the testing process, an equipment set-up adjustment is made that would have altered the performance of the unit during any already completed test, then repeat all tests affected by the adjustment. For cyclic tests, instead of maintaining an air volume rate, for each airflow nozzle, maintain the static pressure difference or velocity pressure during an ON period at the same pressure difference or velocity pressure as measured during the steady-state test conducted at the same test conditions.
-Use the testing procedures in this section to collect the data used for calculating:
+Use the testing procedures in this section to collect the data used for calculating
 (1) Performance metrics for central air conditioners and heat pumps during the cooling season;
 (2) Performance metrics for heat pumps during the heating season; and
 (3) Power consumption metric(s) for central air conditioners and heat pumps during the off mode season(s).
 3.1.1 Primary and Secondary Test Methods
-For all tests, use the indoor air enthalpy method test apparatus to determine the unit's space conditioning capacity. The procedure and data collected, however, differ slightly depending upon whether the test is a steady-state test, a cyclic test, or a frost accumulation test. The following sections described these differences. For all steady-state tests (i.e., the A, A2, A1, B, B2, B1, C, C1, EV, F1, G1, H01, H1, H12, H11, HIN, H3, H32, and H31 Tests), in addition, use one of the acceptable secondary methods specified in section 2.10 of this appendix to determine indoor space conditioning capacity. Calculate this secondary check of capacity according to section 3.11 of this appendix. The two capacity measurements must agree to within 6 percent to constitute a valid test. For this capacity comparison, use the indoor air enthalpy method capacity that is calculated in section 7.3 of ANSI/ASHRAE 37-2009 (and, if testing a coil-only system, compare capacities before before making the after-test fan heat adjustments described in section 3.3, 3.4, 3.7, and 3.10 of this appendix). However, include the appropriate section 3.3 to 3.5 and 3.7 to 3.10 fan heat adjustments within the indoor air enthalpy method capacities used for the section 4 seasonal calculations of this appendix.
+For all tests, use the indoor air enthalpy method test apparatus to determine the unit's space conditioning capacity. The procedure and data collected, however, differ slightly depending upon whether the test is a steady-state test, a cyclic test, or a frost accumulation test. The following sections described these differences. For the full-capacity cooling-mode test and (for a heat pump) the full-capacity heating-mode test, use one of the acceptable secondary methods specified in section 2.10 of this appendix to determine indoor space conditioning capacity. Calculate this secondary check of capacity according to section 3.11 of this appendix. The two capacity measurements must agree to within 6 percent to constitute a valid test. For this capacity comparison, use the Indoor Air Enthalpy Method capacity that is calculated in section 7.3 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3) (and, if testing a coil-only system, compare capacities before making the after-test fan heat adjustments described in section 3.3, 3.4, 3.7, and 3.10 of this appendix). However, include the appropriate section 3.3 to 3.5 and 3.7 to 3.10 fan heat adjustments within the indoor air enthalpy method capacities used for the section 4 seasonal calculations of this appendix.
 3.1.2 Manufacturer-Provided Equipment Overrides
 Where needed, the manufacturer must provide a means for overriding the controls of the test unit so that the compressor(s) operates at the specified speed or capacity and the indoor blower operates at the specified speed or delivers the specified air volume rate.
 3.1.3 Airflow Through the Outdoor Coil
@@ -348,23 +367,23 @@ Identify the certified cooling full-load air volume rate and certified instructi
 a. For all ducted blower coil systems, except those having a constant-air-volume-rate indoor blower:
 Step (1) Operate the unit under conditions specified for the A (for single-stage units) or A2 test using the certified fan speed or controls settings, and adjust the exhaust fan of the airflow measuring apparatus to achieve the certified Cooling full-load air volume rate;
 Step (2) Measure the external static pressure;
-Step (3) If this external static pressure is equal to or greater than the applicable minimum external static pressure cited in Table 3, the pressure requirement is satisfied; proceed to step 7 of this section. If this external static pressure is not equal to or greater than the applicable minimum external static pressure cited in Table 3, proceed to step 4 of this section;
+Step (3) If this external static pressure is equal to or greater than the applicable minimum external static pressure cited in Table 4, the pressure requirement is satisfied; proceed to step 7 of this section. If this external static pressure is not equal to or greater than the applicable minimum external static pressure cited in Table 4, proceed to step 4 of this section;
 Step (4) Increase the external static pressure by adjusting the exhaust fan of the airflow measuring apparatus until either
-(i) The applicable Table 3 minimum is equaled or
+(i) The applicable Table 4 minimum is equaled or
 (ii) The measured air volume rate equals 90 percent or less of the Cooling full-load air volume rate, whichever occurs first;
 Step (5) If the conditions of step 4 (i) of this section occur first, the pressure requirement is satisfied; proceed to step 7 of this section. If the conditions of step 4 (ii) of this section occur first, proceed to step 6 of this section;
-Step (6) Make an incremental change to the setup of the indoor blower (e.g., next highest fan motor pin setting, next highest fan motor speed) and repeat the evaluation process beginning above, at step 1 of this section. If the indoor blower setup cannot be further changed, increase the external static pressure by adjusting the exhaust fan of the airflow measuring apparatus until the applicable Table 3 minimum is equaled; proceed to step 7 of this section;
+Step (6) Make an incremental change to the setup of the indoor blower (e.g., next highest fan motor pin setting, next highest fan motor speed) and repeat the evaluation process beginning above, at step 1 of this section. If the indoor blower setup cannot be further changed, increase the external static pressure by adjusting the exhaust fan of the airflow measuring apparatus until the applicable Table 4 minimum is equaled; proceed to step 7 of this section;
 Step (7) The airflow constraints have been satisfied. Use the measured air volume rate as the Cooling full-load air volume rate. Use the final fan speed or control settings for all tests that use the Cooling full-load air volume rate.
-b. For ducted blower coil systems with a constant-air-volume-rate indoor blower. For all tests that specify the Cooling full-load air volume rate, obtain an external static pressure as close to (but not less than) the applicable Table 3 value that does not cause automatic shutdown of the indoor blower or air volume rate variation QVar, defined as follows, greater than 10 percent.
-ER08JN16.007
+b. For ducted blower coil systems with a constant-air-volume-rate indoor blower. For all tests that specify the Cooling full-load air volume rate, obtain an external static pressure as close to (but not less than) the applicable Table 4 value that does not cause automatic shutdown of the indoor blower or air volume rate variation QVar, defined as follows, greater than 10 percent.
+ER05JA17.008
 where:
 Qmax = maximum measured airflow value
 Qmin = minimum measured airflow value
 QVar = airflow variance, percent
 Additional test steps as described in section 3.3.(e) of this appendix are required if the measured external static pressure exceeds the target value by more than 0.03 inches of water.
 c. For coil-only indoor units. For the A or A2 Test, (exclusively), the pressure drop across the indoor coil assembly must not exceed 0.30 inches of water. If this pressure drop is exceeded, reduce the air volume rate until the measured pressure drop equals the specified maximum. Use this reduced air volume rate for all tests that require the Cooling full-load air volume rate.
-Table 3—Minimum External Static Pressure for Ducted Blower Coil Systems
-Rated cooling 1or heating 2 capacity(Btu/h) | Minimum external resistance 3 (inches of water) | Small-duct, high-velocity systems 4 5 | All othersystems
+Table 4—Minimum External Static Pressure for Ducted Blower Coil Systems
+Rated Cooling 1 or Heating 2 Capacity (Btu/h) | Minimum external resistance 3 (Inches of water) | Small-duct,high-velocity systems 4 5 | All othersystems
 Up Thru 28,800 | 1.10 | 0.10
 29,000 to 42,500 | 1.15 | 0.15
 43,000 and Above | 1.20 | 0.20
@@ -374,14 +393,14 @@ Up Thru 28,800 | 1.10 | 0.10
 4 See section 1.2 of this appendix, Definitions, to determine if the equipment qualifies as a small-duct, high-velocity system.
 5 If a closed-loop, air-enthalpy test apparatus is used on the indoor side, limit the resistance to airflow on the inlet side of the blower coil indoor unit to a maximum value of 0.1 inch of water. Impose the balance of the airflow resistance on the outlet side of the indoor blower.
 d. For ducted systems having multiple indoor blowers within a single indoor section, obtain the full-load air volume rate with all indoor blowers operating unless prevented by the controls of the unit. In such cases, turn on the maximum number of indoor blowers permitted by the unit's controls. Where more than one option exists for meeting this "on" indoor blower requirement, which indoor blower(s) are turned on must match that specified in the certification report. Conduct section 3.1.4.1.1 setup steps for each indoor blower separately. If two or more indoor blowers are connected to a common duct as per section 2.4.1 of this appendix, temporarily divert their air volume to the test room when confirming or adjusting the setup configuration of individual indoor blowers. The allocation of the system's full-load air volume rate assigned to each "on" indoor blower must match that specified by the manufacturer in the certification report.
-3.1.4.1.2. Cooling Full-Load Air Volume Rate for Non-ducted Units
+3.1.4.1.2. Cooling Full-Load Air Volume Rate for Non-Ducted Units
 For non-ducted units, the Cooling full-load air volume rate is the air volume rate that results during each test when the unit is operated at an external static pressure of zero inches of water.
 3.1.4.2 Cooling Minimum Air Volume Rate
 Identify the certified cooling minimum air volume rate and certified instructions for setting fan speed or controls. If there is no certified cooling minimum air volume rate, use the final indoor blower control settings as determined when setting the cooling full-load air volume rate, and readjust the exhaust fan of the airflow measuring apparatus if necessary to reset to the cooling full load air volume obtained in section 3.1.4.1 of this appendix. Otherwise, calculate the target external static pressure and follow instructions a, b, c, d, or e below. The target external static pressure, ΔPst_i, for any test "i" with a specified air volume rate not equal to the Cooling full-load air volume rate is determined as follows:
-ER08JN16.008
+ER05JA17.009
 where:
 ΔPst_i = target minimum external static pressure for test i;
-ΔPst_full = minimum external static pressure for test A or A2 (Table 3);
+ΔPst_full = minimum external static pressure for test A or A2 (Table 4);
 Qi = air volume rate for test i; and
 Qfull = Cooling full-load air volume rate as measured after setting and/or adjustment as described in section 3.1.4.1.1 of this appendix.
 a. For a ducted blower coil system without a constant-air-volume indoor blower, adjust for external static pressure as follows:
@@ -404,40 +423,40 @@ a. For a ducted blower coil system without a constant-air-volume indoor blower, 
 b. For a ducted blower coil system with a constant-air-volume indoor blower, conduct the EV Test at an external static pressure that does not cause an automatic shutdown of the indoor blower or air volume rate variation QVar, defined in section 3.1.4.1.1.b of this appendix, greater than 10 percent, while being as close to, but not less than the target minimum external static pressure. Additional test steps as described in section 3.3(e) of this appendix are required if the measured external static pressure exceeds the target value by more than 0.03 inches of water.
 c. For non-ducted units, the cooling intermediate air volume rate is the air volume rate that results when the unit operates at an external static pressure of zero inches of water and at the fan speed selected by the controls of the unit for the EV Test conditions.
 3.1.4.4 Heating Full-Load Air Volume Rate
-3.1.4.4.1 Ducted Heat Pumps Where the Heating and Cooling Full-Load Air Volume Rates Are the Same
+3.1.4.4.1. Ducted Heat Pumps Where the Heating and Cooling Full-Load Air Volume Rates Are the Same
 a. Use the Cooling full-load air volume rate as the heating full-load air volume rate for:
 (1) Ducted blower coil system heat pumps that do not have a constant-air-volume indoor blower, and that operate at the same airflow-control setting during both the A (or A2) and the H1 (or H12) Tests;
 (2) Ducted blower coil system heat pumps with constant-air-flow indoor blowers that provide the same air flow for the A (or A2) and the H1 (or H12) Tests; and
 (3) Ducted heat pumps that are tested with a coil-only indoor unit (except two-capacity northern heat pumps that are tested only at low capacity cooling—see section 3.1.4.4.2 of this appendix).
-b. For heat pumps that meet the above criteria "1" and "3," no minimum requirements apply to the measured external or internal, respectively, static pressure. Use the final indoor blower control settings as determined when setting the Cooling full-load air volume rate, and readjust the exhaust fan of the airflow measuring apparatus if necessary to reset to the cooling full-load air volume obtained in section 3.1.4.1 of this appendix. For heat pumps that meet the above criterion "2," test at an external static pressure that does not cause an automatic shutdown of the indoor blower or air volume rate variation QVar, defined in section 3.1.4.1.1.b of this appendix, greater than 10 percent, while being as close to, but not less than, the same Table 3 minimum external static pressure as was specified for the A (or A2) cooling mode test. Additional test steps as described in section 3.9.1(c) of this appendix are required if the measured external static pressure exceeds the target value by more than 0.03 inches of water.
-3.1.4.4.2 Ducted Heat Pumps Where the Heating and Cooling Full-Load Air Volume Rates Are Different Due to Changes in Indoor Blower Operation, i.e. Speed Adjustment by the System Controls
+b. For heat pumps that meet the above criteria "1" and "3," no minimum requirements apply to the measured external or internal, respectively, static pressure. Use the final indoor blower control settings as determined when setting the Cooling full-load air volume rate, and readjust the exhaust fan of the airflow measuring apparatus if necessary to reset to the cooling full-load air volume obtained in section 3.1.4.1 of this appendix. For heat pumps that meet the above criterion "2," test at an external static pressure that does not cause an automatic shutdown of the indoor blower or air volume rate variation QVar, defined in section 3.1.4.1.1.b of this appendix, greater than 10 percent, while being as close to, but not less than, the same Table 4 minimum external static pressure as was specified for the A (or A2) cooling mode test. Additional test steps as described in section 3.9.1(c) of this appendix are required if the measured external static pressure exceeds the target value by more than 0.03 inches of water.
+3.1.4.4.2. Ducted Heat Pumps Where the Heating and Cooling Full-Load Air Volume Rates Are Different Due to Changes in Indoor Blower Operation, i.e. Speed Adjustment by the System Controls
 Identify the certified heating full-load air volume rate and certified instructions for setting fan speed or controls. If there is no certified heating full-load air volume rate, use the final indoor blower control settings as determined when setting the cooling full-load air volume rate, and readjust the exhaust fan of the airflow measuring apparatus if necessary to reset to the cooling full load air volume obtained in section 3.1.4.1 of this appendix. Otherwise, calculate target minimum external static pressure as described in section 3.1.4.2 of this appendix and set the air volume rate as follows.
 a. For ducted blower coil system heat pumps that do not have a constant-air-volume indoor blower, adjust for external static pressure as described in section 3.1.4.2.a of this appendix for cooling minimum air volume rate.
 b. For ducted heat pumps tested with constant-air-volume indoor blowers installed, conduct all tests that specify the heating full-load air volume rate at an external static pressure that does not cause an automatic shutdown of the indoor blower or air volume rate variation QVar, defined in section 3.1.4.1.1.b of this appendix, greater than 10 percent, while being as close to, but not less than the target minimum external static pressure. Additional test steps as described in section 3.9.1(c) of this appendix are required if the measured external static pressure exceeds the target value by more than 0.03 inches of water.
 c. When testing ducted, two-capacity blower coil system northern heat pumps (see section 1.2 of this appendix, Definitions), use the appropriate approach of the above two cases. For coil-only system northern heat pumps, the heating full-load air volume rate is the lesser of the rate specified by the manufacturer in the installation instructions included with the unit or 133 percent of the cooling full-load air volume rate. For this latter case, obtain the heating full-load air volume rate regardless of the pressure drop across the indoor coil assembly.
 d. For ducted systems having multiple indoor blowers within a single indoor section, obtain the heating full-load air volume rate using the same "on" indoor blowers as used for the Cooling full-load air volume rate. Using the target external static pressure and the certified air volume rates, follow the procedures as described in section 3.1.4.4.2.a of this appendix if the indoor blowers are not constant-air-volume indoor blowers or as described in section 3.1.4.4.2.b of this appendix if the indoor blowers are constant-air-volume indoor blowers. The sum of the individual "on" indoor blowers' air volume rates is the heating full load air volume rate for the system.
-3.1.4.4.3 Ducted Heating-Only Heat Pumps
+3.1.4.4.3. Ducted Heating-Only Heat Pumps
 Identify the certified heating full-load air volume rate and certified instructions for setting fan speed or controls. If there is no certified heating full-load air volume rate, use a value equal to the certified heating capacity of the unit times 400 scfm per 12,000 Btu/h. If there are no instructions for setting fan speed or controls, use the as-shipped settings.
-a. For all ducted heating-only blower coil system heat pumps, except those having a constant-air-volume-rate indoor blower. Conduct the following steps only during the first test, the H1 or H12 est:
+a. For all ducted heating-only blower coil system heat pumps, except those having a constant-air-volume-rate indoor blower. Conduct the following steps only during the first test, the H1 or H12 Test:
 Step (1) Adjust the exhaust fan of the airflow measuring apparatus to achieve the certified heating full-load air volume rate.
 Step (2) Measure the external static pressure.
-Step (3) If this pressure is equal to or greater than the Table 3 minimum external static pressure that applies given the heating-only heat pump's rated heating capacity, the pressure requirement is satisfied; proceed to step 7 of this section. If this pressure is not equal to or greater than the applicable Table 3 minimum external static pressure, proceed to step 4 of this section;
-Step (4) Increase the external static pressure by adjusting the exhaust fan of the airflow measuring apparatus until either (i) the pressure is equal to the applicable Table 3 minimum external static pressure or (ii) the measured air volume rate equals 90 percent or less of the heating full-load air volume rate, whichever occurs first;
-Step (5) If the conditions of step 4 (i) of this section occur first, the pressure requirement is satisfied; proceed to step 7 of this section. If the conditions of step 4 (ii) of this section occur first, proceed to step 6 of this section;
-Step (6) Make an incremental change to the setup of the indoor blower (e.g., next highest fan motor pin setting, next highest fan motor speed) and repeat the evaluation process beginning above, at step 1 of this section. If the indoor blower setup cannot be further changed, increase the external static pressure by adjusting the exhaust fan of the airflow measuring apparatus until it equals the applicable Table 3 minimum external static pressure; proceed to step 7 of this section;
+Step (3) If this pressure is equal to or greater than the Table 4 minimum external static pressure that applies given the heating-only heat pump's rated heating capacity, the pressure requirement is satisfied; proceed to step 7 of this section. If this pressure is not equal to or greater than the applicable Table 4 minimum external static pressure, proceed to step 4 of this section;
+Step (4) Increase the external static pressure by adjusting the exhaust fan of the airflow measuring apparatus until either (i) the pressure is equal to the applicable Table 4 minimum external static pressure or (ii) the measured air volume rate equals 90 percent or less of the heating full-load air volume rate, whichever occurs first;
+Step (5) If the conditions of step 4(i) of this section occur first, the pressure requirement is satisfied; proceed to step 7 of this section. If the conditions of step 4(ii) of this section occur first, proceed to step 6 of this section;
+Step (6) Make an incremental change to the setup of the indoor blower (e.g., next highest fan motor pin setting, next highest fan motor speed) and repeat the evaluation process beginning above, at step 1 of this section. If the indoor blower setup cannot be further changed, increase the external static pressure by adjusting the exhaust fan of the airflow measuring apparatus until it equals the applicable Table 4 minimum external static pressure; proceed to step 7 of this section;
 Step (7) The airflow constraints have been satisfied. Use the measured air volume rate as the heating full-load air volume rate. Use the final fan speed or control settings for all tests that use the heating full-load air volume rate.
-b. For ducted heating-only blower coil system heat pumps having a constant-air-volume-rate indoor blower. For all tests that specify the heating full-load air volume rate, obtain an external static pressure that does not cause an automatic shutdown of the indoor blower or air volume rate variation QVar, defined in section 3.1.4.1.1.b of this appendix, greater than 10 percent, while being as close to, but not less than, the applicable Table 3 minimum. Additional test steps as described in section 3.9.1(c) of this appendix are required if the measured external static pressure exceeds the target value by more than 0.03 inches of water.
+b. For ducted heating-only blower coil system heat pumps having a constant-air-volume-rate indoor blower. For all tests that specify the heating full-load air volume rate, obtain an external static pressure that does not cause an automatic shutdown of the indoor blower or air volume rate variation QVar, defined in section 3.1.4.1.1.b of this appendix, greater than 10 percent, while being as close to, but not less than, the applicable Table 4 minimum. Additional test steps as described in section 3.9.1(c) of this appendix are required if the measured external static pressure exceeds the target value by more than 0.03 inches of water.
 c. For ducted heating-only coil-only system heat pumps in the H1 or H12 Test, (exclusively), the pressure drop across the indoor coil assembly must not exceed 0.30 inches of water. If this pressure drop is exceeded, reduce the air volume rate until the measured pressure drop equals the specified maximum. Use this reduced air volume rate for all tests that require the heating full-load air volume rate.
-3.1.4.4.4 Non-Ducted Heat Pumps, Including Non-Ducted Heating-Only Heat Pumps
+3.1.4.4.4. Non-Ducted Heat Pumps, Including Non-Ducted Heating-Only Heat Pumps
 For non-ducted heat pumps, the heating full-load air volume rate is the air volume rate that results during each test when the unit operates at an external static pressure of zero inches of water.
 3.1.4.5 Heating Minimum Air Volume Rate
 3.1.4.5.1. Ducted Heat Pumps Where the Heating and Cooling Minimum Air Volume Rates Are the Same
 a. Use the cooling minimum air volume rate as the heating minimum air volume rate for:
-(1) Ducted blower coil system heat pumps that do not have a constant-air-volume indoor blower, and that operates at the same airflow-control setting during both the A1 and the H11 tests;
+(1) Ducted blower coil system heat pumps that do not have a constant-air-volume indoor blower, and that operate at the same airflow-control setting during both the A1 and the H11 tests;
 (2) Ducted blower coil system heat pumps with constant-air-flow indoor blowers installed that provide the same air flow for the A1 and the H11 Tests; and
 (3) Ducted coil-only system heat pumps.
 b. For heat pumps that meet the above criteria "1" and "3," no minimum requirements apply to the measured external or internal, respectively, static pressure. Use the final indoor blower control settings as determined when setting the cooling minimum air volume rate, and readjust the exhaust fan of the airflow measuring apparatus if necessary to reset to the cooling minimum air volume rate obtained in section 3.1.4.2 of this appendix. For heat pumps that meet the above criterion "2," test at an external static pressure that does not cause an automatic shutdown of the indoor blower or air volume rate variation QVar, defined in section 3.1.4.1.1.b of this appendix, greater than 10 percent, while being as close to, but not less than, the same target minimum external static pressure as was specified for the A1 cooling mode test. Additional test steps as described in section 3.9.1(c) of this appendix are required if the measured external static pressure exceeds the target value by more than 0.03 inches of water.
-3.1.4.5.2. Ducted Heat Pumps Where the Heating and Cooling Minimum Air Volume Rates Are Different Due to Changes in Indoor Blower Operation, i.e., Speed Adjustment by the System Controls
+3.1.4.5.2. Ducted Heat Pumps Where the Heating and Cooling Minimum Air Volume Rates Are Different Due to Changes in Indoor Blower Operation, i.e. Speed Adjustment by the System Controls
 Identify the certified heating minimum air volume rate and certified instructions for setting fan speed or controls. If there is no certified heating minimum air volume rate, use the final indoor blower control settings as determined when setting the cooling minimum air volume rate, and readjust the exhaust fan of the airflow measuring apparatus if necessary to reset to the cooling minimum air volume obtained in section 3.1.4.2 of this appendix. Otherwise, calculate the target minimum external static pressure as described in section 3.1.4.2 of this appendix.
 a. For ducted blower coil system heat pumps that do not have a constant-air-volume indoor blower, adjust for external static pressure as described in section 3.1.4.2.a of this appendix for cooling minimum air volume rate.
 b. For ducted heat pumps tested with constant-air-volume indoor blowers installed, conduct all tests that specify the heating minimum air volume rate—(i.e., the H01, H11, H21, and H31 Tests)—at an external static pressure that does not cause an automatic shutdown of the indoor blower while being as close to, but not less than the air volume rate variation QVar, defined in section 3.1.4.1.1.b of this appendix, greater than 10 percent, while being as close to, but not less than the target minimum external static pressure. Additional test steps as described in section 3.9.1.c of this appendix are required if the measured external static pressure exceeds the target value by more than 0.03 inches of water.
@@ -456,18 +475,18 @@ The manufacturer must specify the heating nominal air volume rate and the instru
 If using a test set-up where air is ducted directly from the air reconditioning apparatus to the indoor coil inlet (see Figure 2, Loop Air-Enthalpy Test Method Arrangement, of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3)), maintain the dry bulb temperature within the test room within ±5.0 °F of the applicable sections 3.2 and 3.6 dry bulb temperature test condition for the air entering the indoor unit. Dew point shall be within 2 °F of the required inlet conditions.
 3.1.6 Air Volume Rate Calculations
 For all steady-state tests and for frost accumulation (H2, H21, H22, H2V) tests, calculate the air volume rate through the indoor coil as specified in sections 7.7.2.1 and 7.7.2.2 of ANSI/ASHRAE 37-2009. When using the outdoor air enthalpy method, follow sections 7.7.2.1 and 7.7.2.2 of ANSI/ASHRAE 37-2009 to calculate the air volume rate through the outdoor coil. To express air volume rates in terms of standard air, use:
-ER08JN16.009
+ER05JA17.010
 Where:
 V s = air volume rate of standard (dry) air, (ft3/min)da
 V mx = air volume rate of the air-water vapor mixture, (ft3/min)mx
-v′n = specific volume of air-water vapor mixture at the nozzle, ft3 per lbm of the air-water vapor mixture
+vn′ = specific volume of air-water vapor mixture at the nozzle, ft3 per lbm of the air-water vapor mixture
 Wn = humidity ratio at the nozzle, lbm of water vapor per lbm of dry air
 0.075 = the density associated with standard (dry) air, (lbm/ft3)
 vn = specific volume of the dry air portion of the mixture evaluated at the dry-bulb temperature, vapor content, and barometric pressure existing at the nozzle, ft3 per lbm of dry air.
-Note: In the first printing of ANSI/ASHRAE 37-2009, the second IP equation for
-ER08JN16.010
+Note: In the first printing of ANSI/ASHRAE 37-2009, the second IP equation for Qmi should read
+ER05JA17.011
 3.1.7 Test Sequence
-Manufacturers may optionally operate the equipment under test for a "break-in" period, not to exceed 20 hours, prior to conducting the test method specified in this section. A manufacturer who elects to use this optional compressor break-in period in its certification testing should record this information (including the duration) in the test data underlying the certified ratings that are required to be maintained under 10 CFR 429.71. When testing a ducted unit (except if a heating-only heat pump), conduct the A or A2 Test first to establish the cooling full-load air volume rate. For ducted heat pumps where the heating and cooling full-load air volume rates are different, make the first heating mode test one that requires the heating full-load air volume rate. For ducted heating-only heat pumps, conduct the H1 or H12 Test first to establish the heating full-load air volume rate. When conducting a cyclic test, always conduct it immediately after the steady-state test that requires the same test conditions. For variable-speed systems, the first test using the cooling minimum air volume rate should precede the EV Test, and the first test using the heating minimum air volume rate must precede the H2V Test. The test laboratory makes all other decisions on the test sequence.
+Before making test measurements used to calculate performance, operate the equipment for the "break-in" period specified in the certification report, which may not exceed 20 hours. Each compressor of the unit must undergo this "break-in" period. When testing a ducted unit (except if a heating-only heat pump), conduct the A or A2 Test first to establish the cooling full-load air volume rate. For ducted heat pumps where the heating and cooling full-load air volume rates are different, make the first heating mode test one that requires the heating full-load air volume rate. For ducted heating-only heat pumps, conduct the H1 or H12 Test first to establish the heating full-load air volume rate. When conducting a cyclic test, always conduct it immediately after the steady-state test that requires the same test conditions. For variable-speed systems, the first test using the cooling minimum air volume rate should precede the EV Test, and the first test using the heating minimum air volume rate must precede the H2V Test. The test laboratory makes all other decisions on the test sequence.
 3.1.8 Requirement for the Air Temperature Distribution Leaving the Indoor Coil
 For at least the first cooling mode test and the first heating mode test, monitor the temperature distribution of the air leaving the indoor coil using the grid of individual sensors described in sections 2.5 and 2.5.4 of this appendix. For the 30-minute data collection interval used to determine capacity, the maximum spread among the outlet dry bulb temperatures from any data sampling must not exceed 1.5 °F. Install the mixing devices described in section 2.5.4.2 of this appendix to minimize the temperature spread.
 3.1.9 Requirement for the Air Temperature Distribution Entering the Outdoor Coil
@@ -476,49 +495,49 @@ Monitor the temperatures of the air entering the outdoor coil using air sampling
 Except as noted, disable heat pump resistance elements used for heating indoor air at all times, including during defrost cycles and if they are normally regulated by a heat comfort controller. For heat pumps equipped with a heat comfort controller, enable the heat pump resistance elements only during the below-described, short test. For single-speed heat pumps covered under section 3.6.1 of this appendix, the short test follows the H1 or, if conducted, the H1C Test. For two-capacity heat pumps and heat pumps covered under section 3.6.2 of this appendix, the short test follows the H12 Test. Set the heat comfort controller to provide the maximum supply air temperature. With the heat pump operating and while maintaining the heating full-load air volume rate, measure the temperature of the air leaving the indoor-side beginning 5 minutes after activating the heat comfort controller. Sample the outlet dry-bulb temperature at regular intervals that span 5 minutes or less. Collect data for 10 minutes, obtaining at least 3 samples. Calculate the average outlet temperature over the 10-minute interval, TCC.
 3.2 Cooling Mode Tests for Different Types of Air Conditioners and Heat Pumps
 3.2.1 Tests for a System Having a Single-Speed Compressor and Fixed Cooling Air Volume Rate
-This set of tests is for single-speed-compressor units that do not have a cooling minimum air volume rate or a cooling intermediate air volume rate that is different than the cooling full load air volume rate. Conduct two steady-state wet coil tests, the A and B Tests. Use the two optional dry-coil tests, the steady-state C Test and the cyclic D Test, to determine the cooling mode cyclic degradation coefficient, CD c. If the two optional tests are conducted but yield a tested CD c that exceeds the default CD c or if the two optional tests are not conducted, assign CD c the default value of 0.25 (for outdoor units with no match) or 0.20 (for all other systems). Table 4 specifies test conditions for these four tests.
-Table 4—Cooling Mode Test Conditions for Units Having a Single-Speed Compressor and a Fixed Cooling Air Volume Rate
+This set of tests is for single-speed-compressor units that do not have a cooling minimum air volume rate or a cooling intermediate air volume rate that is different than the cooling full load air volume rate. Conduct two steady-state wet coil tests, the A and B Tests. Use the two optional dry-coil tests, the steady-state C Test and the cyclic D Test, to determine the cooling mode cyclic degradation coefficient, CD c. If the two optional tests are conducted but yield a tested CD c that exceeds the default CD c or if the two optional tests are not conducted, assign CD c the default value of 0.25 (for outdoor units with no match) or 0.20 (for all other systems). Table 5 specifies test conditions for these four tests.
+Table 5—Cooling Mode Test Conditions for Units Having a Single-Speed Compressor and a Fixed Cooling Air Volume Rate
 Test description | Air entering indoor unittemperature (°F) | Dry bulb | Wet bulb | Air entering outdoor unittemperature (°F) | Dry bulb | Wet bulb | Cooling air volume rate
 A Test—required (steady, wet coil) | 80 | 67 | 95 | 1 75 | Cooling full-load.2
 B Test—required (steady, wet coil) | 80 | 67 | 82 | 1 65 | Cooling full-load.2
 C Test—optional (steady, dry coil) | 80 | (3) | 82 | | Cooling full-load.2
-D Test—optional (cyclic, dry coil) | 80 | (3) | 82 | | (4)
+D Test—optional (cyclic, dry coil) | 80 | (3) | 82 | | (4).
 1 The specified test condition only applies if the unit rejects condensate to the outdoor coil.
 2 Defined in section 3.1.4.1 of this appendix.
 3 The entering air must have a low enough moisture content so no condensate forms on the indoor coil. (It is recommended that an indoor wet-bulb temperature of 57 °F or less be used.)
 4 Maintain the airflow nozzles static pressure difference or velocity pressure during the ON period at the same pressure difference or velocity pressure as measured during the C Test.
-3.2.2 Tests for a Unit Having a Single-Speed Compressor Where the Indoor Section Uses a Single Variable-Speed Variable-Air-Volume Rate Indoor Blower or mUltiple Indoor Blowers
-3.2.2.1 Indoor Blower Capacity Modulation That Correlates With the Outdoor Dry Bulb Temperature or Systems With a Single Indoor cOil but Multiple Indoor Blowers
-Conduct four steady-state wet coil tests: The A2, A1, B2, and B1 tests. Use the two optional dry-coil tests, the steady-state C1 test and the cyclic D1 test, to determine the cooling mode cyclic degradation coefficient, CD c. If the two optional tests are conducted but yield a tested CD c that exceeds the default CD c or if the two optional tests are not conducted, assign CD c the default value of 0.20.
+3.2.2 Tests for a Unit Having a Single-Speed Compressor Where the Indoor Section Uses a Single Variable-Speed Variable-Air-Volume Rate Indoor Blower or Multiple Indoor Blowers
+3.2.2.1 Indoor Blower Capacity Modulation That Correlates With the Outdoor Dry Bulb Temperature or Systems With a Single Indoor Coil but Multiple Indoor Blowers
+Conduct four steady-state wet coil tests: The A2, A1, B2, and B1 tests. Use the two optional dry-coil tests, the steady-state C1 test and the cyclic D1 test, to determine the cooling mode cyclic degradation coefficient, CD c. If the two optional tests are conducted but yield a tested CDc that exceeds the default CDc or if the two optional tests are not conducted, assign CDc the default value of 0.20.
 3.2.2.2 Indoor Blower Capacity Modulation Based on Adjusting the Sensible to Total (S/T) Cooling Capacity Ratio
-The testing requirements are the same as specified in section 3.2.1 of this appendix and Table 4. Use a cooling full-load air volume rate that represents a normal installation. If performed, conduct the steady-state C Test and the cyclic D Test with the unit operating in the same S/T capacity control mode as used for the B Test.
-Table 5—Cooling Mode Test Conditions for Units With a Single-Speed Compressor That Meet the Section 3.2.2.1 Indoor Unit Requirements
+The testing requirements are the same as specified in section 3.2.1 of this appendix and Table 5. Use a cooling full-load air volume rate that represents a normal installation. If performed, conduct the steady-state C Test and the cyclic D Test with the unit operating in the same S/T capacity control mode as used for the B Test.
+Table 6—Cooling Mode Test Conditions for Units With a Single-Speed Compressor That Meet the Section 3.2.2.1 Indoor Unit Requirements
 Test description | Air entering indoor unittemperature (°F) | Dry bulb | Wet bulb | Air entering outdoor unittemperature (°F) | Dry bulb | Wet bulb | Cooling air volume rate
 A2 Test—required (steady, wet coil) | 80 | 67 | 95 | 1 75 | Cooling full-load.2
 A1 Test—required (steady, wet coil) | 80 | 67 | 95 | 1 75 | Cooling minimum.3
 B2 Test—required (steady, wet coil) | 80 | 67 | 82 | 1 65 | Cooling full-load.2
 B1 Test—required (steady, wet coil) | 80 | 67 | 82 | 1 65 | Cooling minimum.3
-C1 Test4—optional (steady, dry coil) | 80 | (4) | 82 | | Cooling minimum.3
-D1 Test4—optional (cyclic, dry coil) | 80 | (4) | 82 | | (5)
+C1 Test 4—optional (steady, dry coil) | 80 | (4) | 82 | | Cooling minimum.3
+D1 Test 4—optional (cyclic, dry coil) | 80 | (4) | 82 | | (5).
 1 The specified test condition only applies if the unit rejects condensate to the outdoor coil.
 2 Defined in section 3.1.4.1 of this appendix.
 3 Defined in section 3.1.4.2 of this appendix.
-4 The entering air must have a low enough moisture content so no condensate forms on the indoor coil. (It is recommended that an indoor wet-bulb temperature of 57 °F or less be used.)
+4 The entering air must have a low enough moisture content so no condensate forms on the indoor coil. (It is recommended that an indoor wet-bulb temperature of 5 °F or less be used.)
 5 Maintain the airflow nozzles static pressure difference or velocity pressure during the ON period at the same pressure difference or velocity pressure as measured during the C1 Test.
 3.2.3 Tests for a Unit Having a Two-Capacity Compressor (See Section 1.2 of This Appendix, Definitions)
-a. Conduct four steady-state wet coil tests: the A2, B2, B1, and F1 Tests. Use the two optional dry-coil tests, the steady-state C1 Test and the cyclic D1 Test, to determine the cooling-mode cyclic-degradation coefficient, CD c. If the two optional tests are conducted but yield a tested CD c that exceeds the default CD c or if the two optional tests are not conducted, assign CD c the default value of 0.20. Table 6 specifies test conditions for these six tests.
+a. Conduct four steady-state wet coil tests: the A2, B2, B1, and F1 Tests. Use the two optional dry-coil tests, the steady-state C1 Test and the cyclic D1 Test, to determine the cooling-mode cyclic-degradation coefficient, CD c. If the two optional tests are conducted but yield a tested CDc that exceeds the default CDc or if the two optional tests are not conducted, assign CDc the default value of 0.20. Table 6 specifies test conditions for these six tests.
 b. For units having a variable speed indoor blower that is modulated to adjust the sensible to total (S/T) cooling capacity ratio, use cooling full-load and cooling minimum air volume rates that represent a normal installation. Additionally, if conducting the dry-coil tests, operate the unit in the same S/T capacity control mode as used for the B1 Test.
-c. Test two-capacity, northern heat pumps (see section 1.2 of this appendix, Definitions) in the same way as a single speed heat pump with the unit operating exclusively at low compressor capacity (see section 3.2.1 of this appendix and Table 4).
-d. If a two-capacity air conditioner or heat pump locks out low-capacity operation at higher outdoor temperatures, then use the two dry-coil tests, the steady-state C2 Test and the cyclic D2 Test, to determine the cooling-mode cyclic-degradation coefficient that only applies to on/off cycling from high capacity, CD c(k = 2). If the two optional tests are conducted but yield a tested CD c (k = 2) that exceeds the default CD c (k = 2) or if the two optional tests are not conducted, assign CD c (k = 2) the default value. The default CD c(k = 2) is the same value as determined or assigned for the low-capacity cyclic-degradation coefficient, CD c [or equivalently, CD c(k = 1)].
-Table 6—Cooling Mode Test Conditions for Units Having a Two-Capacity Compressor
-Test description | Air entering indoorunit temperature (°F) | Dry bulb | Wet bulb | Air entering outdoorunit temperature (°F) | Dry bulb | Wet bulb | Compressor capacity | Cooling airvolume rate
+c. Test two-capacity, northern heat pumps (see section 1.2 of this appendix, Definitions) in the same way as a single speed heat pump with the unit operating exclusively at low compressor capacity (see section 3.2.1 of this appendix and Table 5).
+d. If a two-capacity air conditioner or heat pump locks out low-capacity operation at higher outdoor temperatures, then use the two dry-coil tests, the steady-state C2 Test and the cyclic D2 Test, to determine the cooling-mode cyclic-degradation coefficient that only applies to on/off cycling from high capacity, CD c(k=2). If the two optional tests are conducted but yield a tested CDc (k = 2) that exceeds the default CDc (k = 2) or if the two optional tests are not conducted, assign CDc (k = 2) the default value. The default CD c(k=2) is the same value as determined or assigned for the low-capacity cyclic-degradation coefficient, CD c [or equivalently, CD c(k=1)].
+Table 7—Cooling Mode Test Conditions for Units Having a Two-Capacity Compressor
+Test description | Air entering indoor unit temperature (°F) | Dry bulb | Wet bulb | Air entering outdoor unit temperature (°F) | Dry bulb | Wet bulb | Compressorcapacity | Cooling air volume rate
 A2 Test—required (steady, wet coil) | 80 | 67 | 95 | 1 75 | High | Cooling Full-Load.2
 B2 Test—required (steady, wet coil) | 80 | 67 | 82 | 1 65 | High | Cooling Full-Load.2
 B1 Test—required (steady, wet coil) | 80 | 67 | 82 | 1 65 | Low | Cooling Minimum.3
 C2 Test—optional (steady, dry-coil) | 80 | (4) | 82 | | High | Cooling Full-Load.2
-D2 Test—optional (cyclic, dry-coil) | 80 | (4) | 82 | | High | (5)
+D2 Test—optional (cyclic, dry-coil) | 80 | (4) | 82 | | High | (5).
 C1 Test—optional (steady, dry-coil) | 80 | (4) | 82 | | Low | Cooling Minimum.3
-D1 Test—optional (cyclic, dry-coil) | 80 | (4) | 82 | | Low | (6)
+D1 Test—optional (cyclic, dry-coil) | 80 | (4) | 82 | | Low | (6).
 F1 Test—required (steady, wet coil) | 80 | 67 | 67 | 1 53.5 | Low | Cooling Minimum.3
 1 The specified test condition only applies if the unit rejects condensate to the outdoor coil.
 2 Defined in section 3.1.4.1 of this appendix.
@@ -527,20 +546,20 @@ F1 Test—required (steady, wet coil) | 80 | 67 | 67 | 1 53.5 | Low | Cooling Mi
 5 Maintain the airflow nozzle(s) static pressure difference or velocity pressure during the ON period at the same pressure or velocity as measured during the C2 Test.
 6 Maintain the airflow nozzle(s) static pressure difference or velocity pressure during the ON period at the same pressure or velocity as measured during the C1 Test.
 3.2.4 Tests for a Unit Having a Variable-Speed Compressor
-a. Conduct five steady-state wet coil tests: The A2, EV, B2, B1, and F1 Tests. Use the two optional dry-coil tests, the steady-state G1 Test and the cyclic I1 Test, to determine the cooling mode cyclic degradation coefficient, CD c. If the two optional tests are conducted but yield a tested CD c that exceeds the default CD c or if the two optional tests are not conducted, assign CD c the default value of 0.25. Table 7 specifies test conditions for these seven tests. The compressor shall operate at the same cooling full speed, measured by RPM or power input frequency (Hz), for both the A2 and B2 tests. The compressor shall operate at the same cooling minimum speed, measured by RPM or power input frequency (Hz), for the B1, F1, G1, and I1 tests. Determine the cooling intermediate compressor speed cited in Table 7 using:
-ER08JN16.011
+a. Conduct five steady-state wet coil tests: The A2, EV, B2, B1, and F1 Tests. Use the two optional dry-coil tests, the steady-state G1 Test and the cyclic I1 Test, to determine the cooling mode cyclic degradation coefficient, CD c. If the two optional tests are conducted but yield a tested CDc that exceeds the default CDc or if the two optional tests are not conducted, assign CDc the default value of 0.25. Table 8 specifies test conditions for these seven tests. The compressor shall operate at the same cooling full speed, measured by RPM or power input frequency (Hz), for both the A2 and B2 tests. The compressor shall operate at the same cooling minimum speed, measured by RPM or power input frequency (Hz), for the B1, F1, G1, and I1 tests. Determine the cooling intermediate compressor speed cited in Table 8 using:
+ER05JA17.012
 where a tolerance of plus 5 percent or the next higher inverter frequency step from that calculated is allowed.
 b. For units that modulate the indoor blower speed to adjust the sensible to total (S/T) cooling capacity ratio, use cooling full-load, cooling intermediate, and cooling minimum air volume rates that represent a normal installation. Additionally, if conducting the dry-coil tests, operate the unit in the same S/T capacity control mode as used for the F1 Test.
-c. For multiple-split air conditioners and heat pumps (except where noted), the following procedures supersede the above requirements: For all Table 7 tests specified for a minimum compressor speed, at least one indoor unit must be turned off. The manufacturer shall designate the particular indoor unit(s) that is turned off. The manufacturer must also specify the compressor speed used for the Table 7 EV Test, a cooling-mode intermediate compressor speed that falls within 1/4 and 3/4 of the difference between the full and minimum cooling-mode speeds. The manufacturer should prescribe an intermediate speed that is expected to yield the highest EER for the given EV Test conditions and bracketed compressor speed range. The manufacturer can designate that one or more indoor units are turned off for the EV Test.
-Table 7—Cooling Mode Test Condition for Units Having a Variable-Speed Compressor
-Test description | Air entering indoorunit temperature (°F) | Dry bulb | Wet bulb | Air entering outdoorunit temperature (°F) | Dry bulb | Wet bulb | Compressorspeed | Cooling airvolume rate
+c. For multiple-split air conditioners and heat pumps (except where noted), the following procedures supersede the above requirements: For all Table 8 tests specified for a minimum compressor speed, at least one indoor unit must be turned off. The manufacturer shall designate the particular indoor unit(s) that is turned off. The manufacturer must also specify the compressor speed used for the Table 8 EV Test, a cooling-mode intermediate compressor speed that falls within 1/4 and 3/4 of the difference between the full and minimum cooling-mode speeds. The manufacturer should prescribe an intermediate speed that is expected to yield the highest EER for the given EV Test conditions and bracketed compressor speed range. The manufacturer can designate that one or more indoor units are turned off for the EV Test.
+Table 8—Cooling Mode Test Condition for Units Having a Variable-Speed Compressor
+Test description | Air entering indoor unit temperature(°F) | Dry bulb | Wet bulb | Air entering outdoor unit temperature(°F) | Dry bulb | Wet bulb | Compressor speed | Cooling airvolume rate
 A2 Test—required (steady, wet coil) | 80 | 67 | 95 | 1 75 | Cooling Full | Cooling Full-Load.2
 B2 Test—required (steady, wet coil) | 80 | 67 | 82 | 1 65 | Cooling Full | Cooling Full-Load.2
 EV Test—required (steady, wet coil) | 80 | 67 | 87 | 1 69 | Cooling Intermediate | Cooling Intermediate.3
 B1 Test—required (steady, wet coil) | 80 | 67 | 82 | 1 65 | Cooling Minimum | Cooling Minimum.4
 F1 Test—required (steady, wet coil) | 80 | 67 | 67 | 1 53.5 | Cooling Minimum | Cooling Minimum.4
 G1 Test 5—optional (steady, dry-coil) | 80 | (6) | 67 | | Cooling Minimum | Cooling Minimum.4
-I1 Test 5—optional (cyclic, dry-coil) | 80 | (6) | 67 | | Cooling Minimum | (6)
+I1 Test 5—optional (cyclic, dry-coil) | 80 | (6) | 67 | | Cooling Minimum | (6).
 1 The specified test condition only applies if the unit rejects condensate to the outdoor coil.
 2 Defined in section 3.1.4.1 of this appendix.
 3 Defined in section 3.1.4.3 of this appendix.
@@ -558,23 +577,26 @@ a. For the pretest interval, operate the test room reconditioning apparatus and 
 (3) The dry-bulb temperature of the air entering the outdoor coil, and
 (4) For the section 2.2.4 of this appendix cases where its control is required, the water vapor content of the air entering the outdoor coil.
 Refer to section 3.11 of this appendix for additional requirements that depend on the selected secondary test method.
-b. After satisfying the pretest equilibrium requirements, make the measurements specified in Table 3 of ANSI/ASHRAE 37-2009 for the indoor air enthalpy method and the user-selected secondary method. Make said Table 3 measurements at equal intervals that span 5 minutes or less. Continue data sampling until reaching a 30-minute period (e.g., seven consecutive 5-minute samples) where the test tolerances specified in Table 8 are satisfied. For those continuously recorded parameters, use the entire data set from the 30-minute interval to evaluate Table 8 compliance. Determine the average electrical power consumption of the air conditioner or heat pump over the same 30-minute interval.
-c. Calculate indoor-side total cooling capacity and sensible cooling capacity as specified in sections 7.3.3.1 and 7.3.3.3 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3). To calculate capacity, use the averages of the measurements (e.g. inlet and outlet dry bulb and wet bulb temperatures measured at the psychrometers) that are continuously recorded for the same 30-minute interval used as described above to evaluate compliance with test tolerances. Do not adjust the parameters used in calculating capacity for the permitted variations in test conditions. Evaluate air enthalpies based on the measured barometric pressure. Use the values of the specific heat of air given in section 7.3.3.1 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3) for calculation of the sensible cooling capacities. Assign the average total space cooling capacity, average sensible cooling capacity, and electrical power consumption over the 30-minute data collection interval to the variables Q c k(T), Q sc k(T) and E c k(T), respectively. For these three variables, replace the "T" with the nominal outdoor temperature at which the test was conducted. The superscript k is used only when testing multi-capacity units. Use the superscript k = 2 to denote a test with the unit operating at high capacity or full speed, k = 1 to denote low capacity or minimum speed, and k = v to denote the intermediate speed.
+b. After satisfying the pretest equilibrium requirements, make the measurements specified in Table 3 of ANSI/ASHRAE 37-2009 for the indoor air enthalpy method and the user-selected secondary method. Make said Table 3 measurements at equal intervals that span 5 minutes or less. Continue data sampling until reaching a 30-minute period (e.g., seven consecutive 5-minute samples) where the test tolerances specified in Table 9 are satisfied. For those continuously recorded parameters, use the entire data set from the 30-minute interval to evaluate Table 9 compliance. Determine the average electrical power consumption of the air conditioner or heat pump over the same 30-minute interval.
+c. Calculate indoor-side total cooling capacity and sensible cooling capacity as specified in sections 7.3.3.1 and 7.3.3.3 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3). To calculate capacity, use the averages of the measurements (e.g. inlet and outlet dry bulb and wet bulb temperatures measured at the psychrometers) that are continuously recorded for the same 30-minute interval used as described above to evaluate compliance with test tolerances. Do not adjust the parameters used in calculating capacity for the permitted variations in test conditions. Evaluate air enthalpies based on the measured barometric pressure. Use the values of the specific heat of air given in section 7.3.3.1 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3) for calculation of the sensible cooling capacities. Assign the average total space cooling capacity, average sensible cooling capacity, and electrical power consumption over the 30-minute data collection interval to the variables Q c k(T), Q sc k(T) and E c k(T), respectively. For these three variables, replace the "T" with the nominal outdoor temperature at which the test was conducted. The superscript k is used only when testing multi-capacity units.
+Use the superscript k=2 to denote a test with the unit operating at high capacity or full speed, k=1 to denote low capacity or minimum speed, and k=v to denote the intermediate speed.
 d. For coil-only system tests, decrease Q c k(T) by
-ER08JN16.012
+ER05JA17.013
+and increase E c k(T) by,
+ER05JA17.014
 where V s is the average measured indoor air volume rate expressed in units of cubic feet per minute of standard air (scfm).
-Table 8—Test Operating and Test Condition Tolerances for Section 3.3 Steady-State Wet Coil Cooling Mode Tests and Section 3.4 Dry Coil Cooling Mode Tests
+Table 9—Test Operating and Test Condition Tolerances for Section 3.3 Steady-State Wet Coil Cooling Mode Tests and Section 3.4 Dry Coil Cooling Mode Tests
 | Test operatingtolerance 1 | Test conditiontolerance 1
-Indoor dry-bulb, °F:
+Indoor dry-bulb, °F
 Entering temperature | 2.0 | 0.5
 Leaving temperature | 2.0
-Indoor wet-bulb, °F:
+Indoor wet-bulb, °F
 Entering temperature | 1.0 | 2 0.3
 Leaving temperature | 2 1.0
-Outdoor dry-bulb, °F:
+Outdoor dry-bulb, °F
 Entering temperature | 2.0 | 0.5
 Leaving temperature | 3 2.0
-Outdoor wet-bulb, °F:
+Outdoor wet-bulb, °F
 Entering temperature | 1.0 | 4 0.3
 Leaving temperature | 3 1.0
 External resistance to airflow, inches of water | 0.05 | 5 0.02
@@ -587,17 +609,17 @@ Nozzle pressure drop, % of rdg. | 2.0
 5 Only applies when testing non-ducted units.
 e. For air conditioners and heat pumps having a constant-air-volume-rate indoor blower, the five additional steps listed below are required if the average of the measured external static pressures exceeds the applicable sections 3.1.4 minimum (or target) external static pressure (ΔPmin) by 0.03 inches of water or more.
 (1) Measure the average power consumption of the indoor blower motor (E fan,1) and record the corresponding external static pressure (ΔP1) during or immediately following the 30-minute interval used for determining capacity.
-(2) After completing the 30-minute interval and while maintaining the same test conditions, adjust the exhaust fan of the airflow measuring apparatus until the external static pressure increases to approximately ΔP1 + (ΔP1 − ΔPmin).
+(2) After completing the 30-minute interval and while maintaining the same test conditions, adjust the exhaust fan of the airflow measuring apparatus until the external static pressure increases to approximately ΔP1 + (ΔP1−ΔPmin).
 (3) After re-establishing steady readings of the fan motor power and external static pressure, determine average values for the indoor blower power (E fan,2) and the external static pressure (ΔP2) by making measurements over a 5-minute interval.
 (4) Approximate the average power consumption of the indoor blower motor at ΔPmin using linear extrapolation:
-ER08JN16.013
-(5) Increase the total space cooling capacity, Q c k(T), by the quantity (E fan,1 − E fan,min), when expressed on a Btu/h basis. Decrease the total electrical power, E c k(T), by the same fan power difference, now expressed in watts.
+ER05JA17.015
+(5) Increase the total space cooling capacity, Q c k(T), by the quantity (E fan,1−E fan,min), when expressed on a Btu/h basis. Decrease the total electrical power, E c k(T), by the same fan power difference, now expressed in watts.
 3.4 Test Procedures for the Steady-State Dry-Coil Cooling-Mode Tests (the C, C1, C2, and G1 Tests)
 a. Except for the modifications noted in this section, conduct the steady-state dry coil cooling mode tests as specified in section 3.3 of this appendix for wet coil tests. Prior to recording data during the steady-state dry coil test, operate the unit at least one hour after achieving dry coil conditions. Drain the drain pan and plug the drain opening. Thereafter, the drain pan should remain completely dry.
 b. Denote the resulting total space cooling capacity and electrical power derived from the test as Q ss,dry and E ss,dry. With regard to a section 3.3 deviation, do not adjust Q ss,dry for duct losses (i.e., do not apply section 7.3.3.3 of ANSI/ASHRAE 37-2009). In preparing for the section 3.5 cyclic tests of this appendix, record the average indoor-side air volume rate, V, specific heat of the air, Cp,a (expressed on dry air basis), specific volume of the air at the nozzles, v′n, humidity ratio at the nozzles, Wn, and either pressure difference or velocity pressure for the flow nozzles. For units having a variable-speed indoor blower (that provides either a constant or variable air volume rate) that will or may be tested during the cyclic dry coil cooling mode test with the indoor blower turned off (see section 3.5 of this appendix), include the electrical power used by the indoor blower motor among the recorded parameters from the 30-minute test.
-c. If the temperature sensors used to provide the primary measurement of the indoor-side dry bulb temperature difference during the steady-state dry-coil test and the subsequent cyclic dry- coil test are different, include measurements of the latter sensors among the regularly sampled data. Beginning at the start of the 30-minute data collection period, measure and compute the indoor-side air dry-bulb temperature difference using both sets of instrumentation, ΔT (Set SS) and ΔT (Set CYC), for each equally spaced data sample. If using a consistent data sampling rate that is less than 1 minute, calculate and record minutely averages for the two temperature differences. If using a consistent sampling rate of one minute or more, calculate and record the two temperature differences from each data sample. After having recorded the seventh (i = 7) set of temperature differences, calculate the following ratio using the first seven sets of values:
-ER08JN16.014
-Each time a subsequent set of temperature differences is recorded (if sampling more frequently than every 5 minutes), calculate FCD using the most recent seven sets of values. Continue these calculations until the 30-minute period is completed or until a value for FCD is calculated that falls outside the allowable range of 0.94-1.06. If the latter occurs, immediately suspend the test and identify the cause for the disparity in the two temperature difference measurements. Recalibration of one or both sets of instrumentation may be required. If all the values for FCD are within the allowable range, save the final value of the ratio from the 30-minute test as FCD*. If the temperature sensors used to provide the primary measurement of the indoor-side dry bulb temperature difference during the steady-state dry-coil test and the subsequent cyclic dry-coil test are the same, set FCD* = 1.
+c. If the temperature sensors used to provide the primary measurement of the indoor-side dry bulb temperature difference during the steady-state dry-coil test and the subsequent cyclic dry-coil test are different, include measurements of the latter sensors among the regularly sampled data. Beginning at the start of the 30-minute data collection period, measure and compute the indoor-side air dry-bulb temperature difference using both sets of instrumentation, ΔT (Set SS) and ΔT (Set CYC), for each equally spaced data sample. If using a consistent data sampling rate that is less than 1 minute, calculate and record minutely averages for the two temperature differences. If using a consistent sampling rate of one minute or more, calculate and record the two temperature differences from each data sample. After having recorded the seventh (i=7) set of temperature differences, calculate the following ratio using the first seven sets of values:
+ER05JA17.016
+Each time a subsequent set of temperature differences is recorded (if sampling more frequently than every 5 minutes), calculate FCD using the most recent seven sets of values. Continue these calculations until the 30-minute period is completed or until a value for FCD is calculated that falls outside the allowable range of 0.94-1.06. If the latter occurs, immediately suspend the test and identify the cause for the disparity in the two temperature difference measurements. Recalibration of one or both sets of instrumentation may be required. If all the values for FCD are within the allowable range, save the final value of the ratio from the 30-minute test as FCD*. If the temperature sensors used to provide the primary measurement of the indoor-side dry bulb temperature difference during the steady-state dry-coil test and the subsequent cyclic dry-coil test are the same, set FCD*= 1.
 3.5 Test Procedures for the Cyclic Dry-Coil Cooling-Mode Tests (the D, D1, D2, and I1 Tests)
 After completing the steady-state dry-coil test, remove the outdoor air enthalpy method test apparatus, if connected, and begin manual OFF/ON cycling of the unit's compressor. The test set-up should otherwise be identical to the set-up used during the steady-state dry coil test. When testing heat pumps, leave the reversing valve during the compressor OFF cycles in the same position as used for the compressor ON cycles, unless automatically changed by the controls of the unit. For units having a variable-speed indoor blower, the manufacturer has the option of electing at the outset whether to conduct the cyclic test with the indoor blower enabled or disabled. Always revert to testing with the indoor blower disabled if cyclic testing with the fan enabled is unsuccessful.
 a. For all cyclic tests, the measured capacity must be adjusted for the thermal mass stored in devices and connections located between measured points. Follow the procedure outlined in section 7.4.3.4.5 of ASHRAE 116-2010 (incorporated by reference, see § 430.3) to ensure any required measurements are taken.
@@ -608,37 +630,39 @@ d. For units having a variable-speed indoor blower, conduct the cyclic dry coil 
 (2) Its blower motor reverses; or
 (3) The unit operates for more than 30 seconds at an external static pressure that is 0.1 inches of water or more higher than the value measured during the prior steady-state test.
 For the pull-thru approach, disable the indoor blower and use the exhaust fan of the airflow measuring apparatus to generate the specified flow nozzles static pressure difference or velocity pressure. If the exhaust fan cannot deliver the required pressure difference because of resistance created by the unpowered indoor blower, temporarily remove the indoor blower.
-e. Conduct three complete compressor OFF/ON cycles with the test tolerances given in Table 9 satisfied. Calculate the degradation coefficient CD for each complete cycle. If all three CD values are within 0.02 of the average CD then stability has been achieved, and the highest CD value of these three shall be used. If stability has not been achieved, conduct additional cycles, up to a maximum of eight cycles total, until stability has been achieved between three consecutive cycles. Once stability has been achieved, use the highest CD value of the three consecutive cycles that establish stability. If stability has not been achieved after eight cycles, use the highest CD from cycle one through cycle eight, or the default CD, whichever is lower.
-f. With regard to the Table 9 parameters, continuously record the dry-bulb temperature of the air entering the indoor and outdoor coils during periods when air flows through the respective coils. Sample the water vapor content of the indoor coil inlet air at least every 2 minutes during periods when air flows through the coil. Record external static pressure and the air volume rate indicator (either nozzle pressure difference or velocity pressure) at least every minute during the interval that air flows through the indoor coil. (These regular measurements of the airflow rate indicator are in addition to the required measurement at 15 seconds after flow initiation.) Sample the electrical voltage at least every 2 minutes beginning 30 seconds after compressor start-up. Continue until the compressor, the outdoor fan, and the indoor blower (if it is installed and operating) cycle off.
+e. Conduct three complete compressor OFF/ON cycles with the test tolerances given in Table 10 satisfied. Calculate the degradation coefficient CD for each complete cycle. If all three CD values are within 0.02 of the average CD then stability has been achieved, and the highest CD value of these three shall be used. If stability has not been achieved, conduct additional cycles, up to a maximum of eight cycles total, until stability has been achieved between three consecutive cycles. Once stability has been achieved, use the highest CD value of the three consecutive cycles that establish stability. If stability has not been achieved after eight cycles, use the highest CD from cycle one through cycle eight, or the default CD, whichever is lower.
+f. With regard to the Table 10 parameters, continuously record the dry-bulb temperature of the air entering the indoor and outdoor coils during periods when air flows through the respective coils. Sample the water vapor content of the indoor coil inlet air at least every 2 minutes during periods when air flows through the coil. Record external static pressure and the air volume rate indicator (either nozzle pressure difference or velocity pressure) at least every minute during the interval that air flows through the indoor coil. (These regular measurements of the airflow rate indicator are in addition to the required measurement at 15 seconds after flow initiation.) Sample the electrical voltage at least every 2 minutes beginning 30 seconds after compressor start-up. Continue until the compressor, the outdoor fan, and the indoor blower (if it is installed and operating) cycle off.
 g. For ducted units, continuously record the dry-bulb temperature of the air entering (as noted above) and leaving the indoor coil. Or if using a thermopile, continuously record the difference between these two temperatures during the interval that air flows through the indoor coil. For non-ducted units, make the same dry-bulb temperature measurements beginning when the compressor cycles on and ending when indoor coil airflow ceases.
 h. Integrate the electrical power over complete cycles of length Δτcyc,dry. For ducted blower coil systems tested with the unit's indoor blower operating for the cycling test, integrate electrical power from indoor blower OFF to indoor blower OFF. For all other ducted units and for non-ducted units, integrate electrical power from compressor OFF to compressor OFF. (Some cyclic tests will use the same data collection intervals to determine the electrical energy and the total space cooling. For other units, terminate data collection used to determine the electrical energy before terminating data collection used to determine total space cooling.)
-Table 9—Test Operating and Test Condition Tolerances for Cyclic Dry Coil Cooling Mode Tests
-| Test operatingtolerance 1 | Test conditiontolerance 1
-Indoor entering dry-bulb temperature 2, °F | 2.0 | 0.5
+Table 10—Test Operating and Test Condition Tolerances for Cyclic Dry Coil Cooling Mode Tests
+| Test operating tolerance 1 | Test condition tolerance 1
+Indoor entering dry-bulb temperature,2 °F | 2.0 | 0.5
 Indoor entering wet-bulb temperature, °F | | (3)
-Outdoor entering dry-bulb temperature 2, °F | 2.0 | 0.5
-External resistance to airflow 2, inches of water | 0.05
-Airflow nozzle pressure difference or velocity pressure 2, % of reading | 2.0 | 4 2.0
-Electrical voltage 5, % of rdg. | 2.0 | 1.5
+Outdoor entering dry-bulb temperature,2 °F | 2.0 | 0.5
+External resistance to airflow,2 inches of water | 0.05 |
+Airflow nozzle pressure difference or velocity pressure,2 % of reading | 2.0 | 4 2.0
+Electrical voltage,5 % of rdg | 2.0 | 1.5
 1 See section 1.2 of this appendix, Definitions.
 2 Applies during the interval that air flows through the indoor (outdoor) coil except for the first 30 seconds after flow initiation. For units having a variable-speed indoor blower that ramps, the tolerances listed for the external resistance to airflow apply from 30 seconds after achieving full speed until ramp down begins.
 3 Shall at no time exceed a wet-bulb temperature that results in condensate forming on the indoor coil.
 4 The test condition shall be the average nozzle pressure difference or velocity pressure measured during the steady-state dry coil test.
 5 Applies during the interval when at least one of the following—the compressor, the outdoor fan, or, if applicable, the indoor blower—are operating except for the first 30 seconds after compressor start-up.
-If the Table 9 tolerances are satisfied over the complete cycle, record the measured electrical energy consumption as ecyc,dry and express it in units of watt-hours. Calculate the total space cooling delivered, qcyc,dry, in units of Btu using,
-ER08JN16.015
+If the Table 10 tolerances are satisfied over the complete cycle, record the measured electrical energy consumption as ecyc,dry and express it in units of watt-hours. Calculate the total space cooling delivered, qcyc,dry, in units of Btu using,
+ER05JA17.017
 Where,
-V, Cp,a, v′n (or vn), Wn, and FCD* are the values recorded during the section 3.4 dry coil steady-state test and
+V, Cp,a, vn′ (or vn), Wn, and FCD* are the values recorded during the section 3.4 dry coil steady-state test and
 Tal(τ) = dry bulb temperature of the air entering the indoor coil at time τ, °F.
 Ta2(τ) = dry bulb temperature of the air leaving the indoor coil at time τ, °F.
 τ1 = for ducted units, the elapsed time when airflow is initiated through the indoor coil; for non-ducted units, the elapsed time when the compressor is cycled on, hr.
 τ2 = the elapsed time when indoor coil airflow ceases, hr.
 Adjust the total space cooling delivered, qcyc,dry, according to calculation method outlined in section 7.4.3.4.5 of ASHRAE 116-2010 (incorporated by reference, see § 430.3).
 3.5.1 Procedures When Testing Ducted Systems
-The automatic controls that are normally installed with the test unit must govern the OFF/ON cycling of the air moving equipment on the indoor side (exhaust fan of the airflow measuring apparatus and, if installed, the indoor blower of the test unit). For example, for ducted coil-only systems rated based on using a fan time delay relay, control the indoor coil airflow according to the rated ON and/or OFF delays provided by the relay. For ducted units having a variable-speed indoor blower that has been disabled (and possibly removed), start and stop the indoor airflow at the same instances as if the fan were enabled. For all other ducted coil-only systems, cycle the indoor coil airflow in unison with the cycling of the compressor. If air damper boxes are used, close them on the inlet and outlet side during the OFF period. Airflow through the indoor coil should stop within 3 seconds after the automatic controls of the test unit (act to) de-energize the indoor blower. For ducted coil-only systems (excluding the special case where a variable-speed fan is temporarily removed), increase ecyc,dry by the quantity,
-ER08JN16.016
+The automatic controls that are installed in the test unit must govern the OFF/ON cycling of the air moving equipment on the indoor side (exhaust fan of the airflow measuring apparatus and the indoor blower of the test unit). For ducted coil-only systems rated based on using a fan time-delay relay, control the indoor coil airflow according to the OFF delay listed by the manufacturer in the certification report. For ducted units having a variable-speed indoor blower that has been disabled (and possibly removed), start and stop the indoor airflow at the same instances as if the fan were enabled. For all other ducted coil-only systems, cycle the indoor coil airflow in unison with the cycling of the compressor. If air damper boxes are used, close them on the inlet and outlet side during the OFF period. Airflow through the indoor coil should stop within 3 seconds after the automatic controls of the test unit (act to) de-energize the indoor blower. For ducted coil-only systems (excluding the special case where a variable-speed fan is temporarily removed), increase ecyc,dry by the quantity,
+ER05JA17.018
+and decrease qcyc,dry by,
+ER05JA17.019
 where V s is the average indoor air volume rate from the section 3.4 dry coil steady-state test and is expressed in units of cubic feet per minute of standard air (scfm). For units having a variable-speed indoor blower that is disabled during the cyclic test, increase ecyc,dry and decrease qcyc,dry based on:
-a. The product of [τ2 − τ1] and the indoor blower power measured during or following the dry coil steady-state test; or,
+a. The product of [τ2 - τ1] and the indoor blower power measured during or following the dry coil steady-state test; or,
 b. The following algorithm if the indoor blower ramps its speed when cycling.
 (1) Measure the electrical power consumed by the variable-speed indoor blower at a minimum of three operating conditions: At the speed/air volume rate/external static pressure that was measured during the steady-state test, at operating conditions associated with the midpoint of the ramp-up interval, and at conditions associated with the midpoint of the ramp-down interval. For these measurements, the tolerances on the airflow volume or the external static pressure are the same as required for the section 3.4 steady-state test.
 (2) For each case, determine the fan power from measurements made over a minimum of 5 minutes.
@@ -646,34 +670,33 @@ b. The following algorithm if the indoor blower ramps its speed when cycling.
 3.5.2 Procedures When Testing Non-Ducted Indoor Units
 Do not use airflow prevention devices when conducting cyclic tests on non-ducted indoor units. Until the last OFF/ON compressor cycle, airflow through the indoor coil must cycle off and on in unison with the compressor. For the last OFF/ON compressor cycle—the one used to determine ecyc,dry and qcyc,dry—use the exhaust fan of the airflow measuring apparatus and the indoor blower of the test unit to have indoor airflow start 3 minutes prior to compressor cut-on and end three minutes after compressor cutoff. Subtract the electrical energy used by the indoor blower during the 3 minutes prior to compressor cut-on from the integrated electrical energy, ecyc,dry. Add the electrical energy used by the indoor blower during the 3 minutes after compressor cutoff to the integrated cooling capacity, qcyc,dry. For the case where the non-ducted indoor unit uses a variable-speed indoor blower which is disabled during the cyclic test, correct ecyc,dry and qcyc,dry using the same approach as prescribed in section 3.5.1 of this appendix for ducted units having a disabled variable-speed indoor blower.
 3.5.3 Cooling-Mode Cyclic-Degradation Coefficient Calculation
-Use the two dry-coil tests to determine the cooling-mode cyclic-degradation coefficient, CD c. Append "(k = 2)" to the coefficient if it corresponds to a two-capacity unit cycling at high capacity. The default value for two-capacity units cycling at high capacity, however, is the low-capacity coefficient, i.e., CD c(k = 2) = CD c. If the two optional tests are conducted but yield a tested CD c that exceeds the default CD c or if the two optional tests are not conducted, assign CD c the default value of 0.25 for variable-speed compressor systems and outdoor units with no match, and 0.20 for all other systems. Evaluate CD c using the above results and those from the section 3.4 dry-coil steady-state test.
-ER08JN16.017
+Use the two dry-coil tests to determine the cooling-mode cyclic-degradation coefficient, CD c. Append "(k=2)" to the coefficient if it corresponds to a two-capacity unit cycling at high capacity. If the two optional tests are conducted but yield a tested CDc that exceeds the default CDc or if the two optional tests are not conducted, assign CDc the default value of 0.25 for variable-speed compressor systems and outdoor units with no match, and 0.20 for all other systems. The default value for two-capacity units cycling at high capacity, however, is the low-capacity coefficient, i.e., CD c(k=2) = CD c. Evaluate CD c using the above results and those from the section 3.4 dry-coil steady-state test.
+ER05JA17.020
 where:
-ER08JN16.018
+ER05JA17.021
 the average energy efficiency ratio during the cyclic dry coil cooling mode test, Btu/W·h
-ER08JN16.019
+ER05JA17.022
 the average energy efficiency ratio during the steady-state dry coil cooling mode test, Btu/W·h
-ER08JN16.020
+ER05JA17.023
 the cooling load factor dimensionless
 Round the calculated value for CD c to the nearest 0.01. If CD c is negative, then set it equal to zero.
 3.6 Heating Mode Tests for Different Types of Heat Pumps, Including Heating-Only Heat Pumps
 3.6.1 Tests for a Heat Pump Having a Single-Speed Compressor and Fixed Heating Air Volume Rate
 This set of tests is for single-speed-compressor heat pumps that do not have a heating minimum air volume rate or a heating intermediate air volume rate that is different than the heating full load air volume rate. Conduct the optional high temperature cyclic (H1C) test to determine the heating mode cyclic-degradation coefficient, CD h. If this optional test is conducted but yields a tested CD h that exceeds the default CD h or if the optional test is not conducted, assign CD h the default value of 0.25. Test conditions for the four tests are specified in Table 10.
-Table 10—Heating Mode Test Conditions for Units Having a Single-Speed Compressor and a Fixed-Speed Indoor Blower, a Constant Air Volume Rate Indoor Blower, or No Indoor Blower
-Test description | Air entering indoor unittemperature (°F) | Dry bulb | Wet bulb | Air entering outdoor unittemperature (°F) | Dry bulb | Wet bulb | Heating air volumerate
+Table 11—Heating Mode Test Conditions for Units Having a Single-Speed Compressor and a Fixed-Speed Indoor Blower, a Constant Air Volume Rate Indoor Blower, or No Indoor Blower
+Test description | Air entering indoor unittemperature (°F) | Dry bulb | Wet bulb | Air entering outdoor unittemperature (°F) | Dry bulb | Wet bulb | Heating air volume rate
 H1 Test (required, steady) | 70 | 60 (max) | 47 | 43 | Heating Full-load.1
-H1C Test (optional, cyclic) | 70 | 60 (max) | 47 | 43 | (2).
+H1C Test (optional, cyclic) | 70 | 60 (max) | 47 | 43 | (2)
 H2 Test (required) | 70 | 60 (max) | 35 | 33 | Heating Full-load.1
 H3 Test (required, steady) | 70 | 60 (max) | 17 | 15 | Heating Full-load.1
 1 Defined in section 3.1.4.4 of this appendix.
 2 Maintain the airflow nozzles static pressure difference or velocity pressure during the ON period at the same pressure difference or velocity pressure as measured during the H1 Test.
-3.6.2 Tests for a heat pump having a single-speed compressor and a single indoor unit having either (1) a variable speed, variable-air-rate indoor blower whose capacity modulation correlates with outdoor dry bulb temperature or (2) multiple indoor blowers. Conduct five tests: Two high temperature tests (H12 and H11), one frost accumulation test (H22), and two low temperature tests (H32 and H31). Conducting an additional frost accumulation test (H21) is optional. Conduct the optional high temperature cyclic (H1C1) test to determine the heating mode cyclic-degradation coefficient, CD h. If this optional test is conducted but yields a tested CD h that exceeds the default CD h or if the optional test is not conducted, assign CD h the default value of 0.25. Test conditions for the seven tests are specified in Table 11. If the optional H21 test is not performed, use the following equations to approximate the capacity and electrical power of the heat pump at the H21 test conditions:
-ER08JN16.021
-where:
-ER08JN16.022
+3.6.2 Tests for a Heat Pump Having a Single-Speed Compressor and a Single Indoor Unit Having Either (1) a Variable Speed, Variable-Air-Rate Indoor Blower Whose Capacity Modulation Correlates With Outdoor Dry Bulb Temperature or (2) Multiple Indoor Blowers
+Conduct five tests: Two high temperature tests (H12 and H11), one frost accumulation test (H22), and two low temperature tests (H32 and H31). Conducting an additional frost accumulation test (H21) is optional. Conduct the optional high temperature cyclic (H1C1) test to determine the heating mode cyclic-degradation coefficient, CD h. If this optional test is conducted but yields a tested CD h that exceeds the default CD h or if the optional test is not conducted, assign CD h the default value of 0.25. Test conditions for the seven tests are specified in Table 12. If the optional H21 test is not performed, use the following equations to approximate the capacity and electrical power of the heat pump at the H21 test conditions:
+ER05JA17.024
 The quantities Q h k=2(47), E h k=2(47), Q h k=1(47), and E h k=1(47) are determined from the H12 and H11 tests and evaluated as specified in section 3.7 of this appendix; the quantities Q h k=2(35) and E h k=2(35) are determined from the H22 test and evaluated as specified in section 3.9 of this appendix; and the quantities Q h k=2(17), E h k=2(17), Q h k=1(17), and E h k=1(17), are determined from the H32 and H31 tests and evaluated as specified in section 3.10 of this appendix.
-Table 11—Heating Mode Test Conditions for Units With a Single-Speed Compressor That Meet the Section 3.6.2 Indoor Unit Requirements
-Test description | Air entering indoor unittemperature (°F) | Dry bulb | Wet bulb | Air entering outdoor unittemperature (°F) | Dry bulb | Wet bulb | Heating air volumerate
+Table 12—Table Heating Mode Test Conditions for Units With a Single-Speed Compressor That Meet the Section 3.6.2 Indoor Unit Requirements
+Test description | Air entering indoor unittemperature (°F) | Dry bulb | Wet bulb | Air entering outdoor unittemperature (°F) | Dry bulb | Wet bulb | Heating air volume rate
 H12 Test (required, steady) | 70 | 60 (max) | 47 | 43 | Heating Full-load.1
 H11 Test (required, steady) | 70 | 60 (max) | 47 | 43 | Heating Minimum.2
 H1C1 Test (optional, cyclic) | 70 | 60 (max) | 47 | 43 | (3)
@@ -684,118 +707,143 @@ H31 Test (required, steady) | 70 | 60 (max) | 17 | 15 | Heating Minimum.2
 1 Defined in section 3.1.4.4 of this appendix.
 2 Defined in section 3.1.4.5 of this appendix.
 3 Maintain the airflow nozzles static pressure difference or velocity pressure during the ON period at the same pressure difference or velocity pressure as measured during the H11 test.
-3.6.3 Tests for a Heat Pump Having a Two-Capacity Compressor (see Section 1.2 of This Appendix, Definitions), Including Two-Capacity, Northern Heat Pumps (see Section 1.2 of This Appendix, Definitions)
-a. Conduct one maximum temperature test (H01), two high temperature tests (H12 and H11), one frost accumulation test (H22), and one low temperature test (H32). Conduct an additional frost accumulation test (H21) and low temperature test (H31) if both of the following conditions exist:
+3.6.3 Tests for a Heat Pump Having a Two-Capacity Compressor (see section 1.2 of this appendix, Definitions), Including Two-Capacity, Northern Heat Pumps (see section 1.2 of this appendix, Definitions)
+a. Conduct one maximum temperature test (H01), two high temperature tests (H12and H11), one frost accumulation test (H22), and one low temperature test (H32). Conduct an additional frost accumulation test (H21) and low temperature test (H31) if both of the following conditions exist:
 (1) Knowledge of the heat pump's capacity and electrical power at low compressor capacity for outdoor temperatures of 37 °F and less is needed to complete the section 4.2.3 of this appendix seasonal performance calculations; and
 (2) The heat pump's controls allow low-capacity operation at outdoor temperatures of 37 °F and less.
 If the above two conditions are met, an alternative to conducting the H21 frost accumulation is to use the following equations to approximate the capacity and electrical power:
-ER08JN16.023
+ER05JA17.306
 Determine the quantities Q h k=1 (47) and E h k=1 (47) from the H11 test and evaluate them according to section 3.7 of this appendix. Determine the quantities Q h k=1 (17) and E h k=1 (17) from the H31 test and evaluate them according to section 3.10 of this appendix.
-b. Conduct the optional high temperature cyclic test (H1C1) to determine the heating mode cyclic-degradation coefficient, CD h. If this optional test is conducted but yields a tested CD h that exceeds the default CD h or if the optional test is not conducted, assign CD h the default value of 0.25. If a two-capacity heat pump locks out low capacity operation at lower outdoor temperatures, conduct the high temperature cyclic test (H1C2) to determine the high-capacity heating mode cyclic-degradation coefficient, CD h (k=2). If this optional test at high capacity is conducted but yields a tested CD h (k = 2) that exceeds the default CD h (k = 2) or if the optional test is not conducted, assign CD h the default value. The default CD h (k=2) is the same value as determined or assigned for the low-capacity cyclic-degradation coefficient, CD h [or equivalently, CD h (k=1)]. Table 12 specifies test conditions for these nine tests.
-Table 12—Heating Mode Test Conditions for Units Having a Two-Capacity Compressor
-Test description | Air entering indoor unittemperature (°F) | Dry bulb | Wet bulb | Air entering outdoor unittemperature (°F) | Dry bulb | Wet bulb | Compressor capacity | Heating air volume rate
-H01 Test (required, steady) | 70 | 60(max) | 62 | 56.5 | Low | Heating Minimum.1
-H12 Test (required, steady) | 70 | 60(max) | 47 | 43 | High | Heating Full-Load.2
-H1C2 Test (optional,7 cyclic) | 70 | 60(max) | 47 | 43 | High | (3)
-H11 Test (required) | 70 | 60(max) | 47 | 43 | Low | Heating Minimum.1
-H1C1 Test (optional, cyclic) | 70 | 60(max) | 47 | 43 | Low | (4)
-H22 Test (required) | 70 | 60(max) | 35 | 33 | High | Heating Full-Load.2
-H21 Test 5 6 (required) | 70 | 60(max) | 35 | 33 | Low | Heating Minimum.1
-H32 Test (required, steady) | 70 | 60(max) | 17 | 15 | High | Heating Full-Load.2
-H31 Test 5 (required, steady) | 70 | 60(max) | 17 | 15 | Low | Heating Minimum.1
+b. Conduct the optional high temperature cyclic test (H1C1) to determine the heating mode cyclic-degradation coefficient, CD h. If this optional test is conducted but yields a tested CD h that exceeds the default CD h or if the optional test is not conducted, assign CD h the default value of 0.25. If a two-capacity heat pump locks out low capacity operation at lower outdoor temperatures, conduct the high temperature cyclic test (H1C 2) to determine the high-capacity heating mode cyclic-degradation coefficient, CD h (k=2). If this optional test at high capacity is conducted but yields a tested CD h (k = 2) that exceeds the default CD h (k = 2) or if the optional test is not conducted, assign CD h the default value. The default CD h (k=2) is the same value as determined or assigned for the low-capacity cyclic-degradation coefficient, CD h [or equivalently, CD h (k=1)]. Table 13 specifies test conditions for these nine tests.
+Table 13—Heating Mode Test Conditions for Units Having a Two-Capacity Compressor
+Test description | Air entering indoor unit temperature (°F) | Dry bulb | Wet bulb | Air entering outdoor unit temperature (°F) | Dry bulb | Wet bulb | Compressor capacity | Heating air volume rate
+H01 Test (required, steady) | 70 | 60 (max) | 62 | 56.5 | Low | Heating Minimum.1
+H12 Test (required, steady) | 70 | 60 (max) | 47 | 43 | High | Heating Full-Load.2
+H1C2 Test (optional 7, cyclic) | 70 | 60 (max) | 47 | 43 | High | (3)
+H11 Test (required) | 70 | 60 (max) | 47 | 43 | Low | Heating Minimum.1
+H1C1 Test (optional, cyclic) | 70 | 60 (max) | 47 | 43 | Low | (4)
+H22 Test (required) | 70 | 60 (max) | 35 | 33 | High | Heating Full-Load.2
+H21 Test 5 6 (required) | 70 | 60 (max) | 35 | 33 | Low | Heating Minimum.1
+H32 Test (required, steady) | 70 | 60 (max) | 17 | 15 | High | Heating Full-Load.2
+H31 Test 5 (required, steady) | 70 | 60 (max) | 17 | 15 | Low | Heating Minimum.1
 1 Defined in section 3.1.4.5 of this appendix.
 2 Defined in section 3.1.4.4 of this appendix.
-3 Maintain the airflow nozzle(s) static pressure difference or velocity pressure during the ON period at the same pressure or velocity as measured during the H12 test.
-4 Maintain the airflow nozzle(s) static pressure difference or velocity pressure during the ON period at the same pressure or velocity as measured during the H11 test.
+3 Maintain the airflow nozzle(s) static pressure difference or velocity pressure during the ON period at the same pressure or velocity as measured during the H1 2 test.
+4 Maintain the airflow nozzle(s) static pressure difference or velocity pressure during the ON period at the same pressure or velocity as measured during the H1 1 test.
 5 Required only if the heat pump's performance when operating at low compressor capacity and outdoor temperatures less than 37 °F is needed to complete the section 4.2.3 HSPF calculations.
 6 If table note #5 applies, the section 3.6.3 equations for Q h k=1 (35) and E h k=1 (17) may be used in lieu of conducting the H21 test.
 7 Required only if the heat pump locks out low capacity operation at lower outdoor temperatures.
 3.6.4 Tests for a Heat Pump Having a Variable-Speed Compressor
-a. Conduct one maximum temperature test (H01), two high temperature tests (H12 and H11), one frost accumulation test (H2V), and one low temperature test (H32). Conducting one or both of the following tests is optional: An additional high temperature test (H1N) and an additional frost accumulation test (H22). Conduct the optional maximum temperature cyclic (H0C1) test to determine the heating mode cyclic-degradation coefficient, CD h. If this optional test is conducted but yields a tested CD h that exceeds the default CD h or if the optional test is not conducted, assign CD h the default value of 0.25. Test conditions for the eight tests are specified in Table 13. The compressor shall operate at the same heating full speed, measured by RPM or power input frequency (Hz), for the H12, H22, and H32 tests. The compressor shall operate at the same heating minimum speed, measured by RPM or power input frequency (Hz), for the H01, H0C1, and H11 tests. Determine the heating intermediate compressor speed cited in Table 13 using the heating mode full and minimum compressors speeds and:
-Heating intermediate speed
-ER08JN16.024
-Where a tolerance of plus 5 percent or the next higher inverter frequency step from that calculated is allowed.
-If the H22 test is not done, use the following equations to approximate the capacity and electrical power at the H22 test conditions:
-ER08JN16.025
-b. Determine the quantities Q h k=2(47) and from E h k=2(47) from the H12 test and evaluate them according to section 3.7 of this appendix. Determine the quantities Q h k=2(17) and E h k=2(17) from the H32 test and evaluate them according to section 3.10 of this appendix. For heat pumps where the heating mode full compressor speed exceeds its cooling mode full compressor speed, conduct the H1N test if the manufacturer requests it. If the H1N test is done, operate the heat pump's compressor at the same speed as the speed used for the cooling mode A2 test. Refer to the last sentence of section 4.2 of this appendix to see how the results of the H1N test may be used in calculating the heating seasonal performance factor.
-Table 13—Heating Mode Test Conditions for Units Having a Variable-Speed Compressor
+a. Conduct one maximum temperature test (H01), two high temperature tests (H1N and H11), one frost accumulation test (H2V), and one low temperature test (H32). Conducting one or both of the following tests is optional: An additional high temperature test (H12) and an additional frost accumulation test (H22). If desired, conduct the optional maximum temperature cyclic (H0C1) test to determine the heating mode cyclic-degradation coefficient, CD h. If this optional test is conducted but yields a tested CD h that exceeds the default CD h or if the optional test is not conducted, assign CD h the default value of 0.25. Test conditions for the eight tests are specified in Table 14. The compressor shall operate at the same heating full speed, measured by RPM or power input frequency (Hz), for the H12, H22 and H32 tests. For a cooling/heating heat pump, the compressor shall operate for the H1N test at a speed, measured by RPM or power input frequency (Hz), no lower than the speed used in the A2 test if the tested H12 heating capacity is less than the tested cooling capacity in A2 test. The compressor shall operate at the same heating minimum speed, measured by RPM or power input frequency (Hz), for the H01, H1C1, and H11 tests. Determine the heating intermediate compressor speed cited in Table 14 using the heating mode full and minimum compressors speeds and:
+ER05JA17.025
+Where a tolerance on speed of plus 5 percent or the next higher inverter frequency step from the calculated value is allowed.
+b. If the H12 test is conducted, set the 47 °F capacity and power input values used for calculation of HSPF equal to the measured values for that test:
+ER05JA17.313
+Where:
+Q hcalc k=2(47) and E hcalc k=2(47) are the capacity and power input representing full-speed operation at 47 °F for the HSPF calculations,
+Q h k=2(47) is the capacity measured in the H12 test, and
+E h k=2(47) is the power input measured in the H12 test.
+Evaluate the quantities Q h k=2(47) and from E h k=2(47) according to section 3.7.
+Otherwise, if the H1N test is conducted using the same compressor speed (RPM or power input frequency) as the H32 test, set the 47 °F capacity and power input values used for calculation of HSPF equal to the measured values for that test:
+ER05JA17.307
+Where:
+Q hcalc k=2(47) and E hcalc k=2(47) are the capacity and power input representing full-speed operation at 47 °F for the HSPF calculations,
+Q h k=N(47) is the capacity measured in the H1N test, and
+E h k=N(47) is the power input measured in the H1N test.
+Evaluate the quantities Q h k=N(47) and from E h k=N(47) according to section 3.7.
+Otherwise (if no high temperature test is conducted using the same speed (RPM or power input frequency) as the H32 test), calculate the 47 °F capacity and power input values used for calculation of HSPF as follows:
+ER05JA17.308
+Where:
+Q hcalc k=2(47) and E hcalc k=2(47) are the capacity and power input representing full-speed operation at 47 °F for the HSPF calculations,
+Q h k =2(17) is the capacity measured in the H32 test,
+E h k =2(17) is the power input measured in the H32 test,
+CSF is the capacity slope factor, equal to 0.0204/°F for split systems and 0.0262/°F for single-package systems, and
+PSF is the Power Slope Factor, equal to 0.00455/°F.
+c. If the H22 test is not done, use the following equations to approximate the capacity and electrical power at the H22 test conditions:
+ER05JA17.309
+Where:
+Q hcalc k =2(47) and E hcalc k =2(47) are the capacity and power input representing full-speed operation at 47 °F for the HSPF calculations,calculated as described in section b above.
+Q h k =2(17) and E h k =2(17) are the capacity and power input measured in the H32 test.
+d. Determine the quantities Q h k=2(17) and E h k=2(17) from the H32 test, determine the quantities Q h k=2(5) and E h k=2(5) from the H42 test, and evaluate all four according to section 3.10.
+Table 14—Heating Mode Test Conditions for Units Having a Variable-Speed Compressor
 Test description | Air entering indoor unittemperature (°F) | Dry bulb | Wet bulb | Air entering outdoor unittemperature (°F) | Dry bulb | Wet bulb | Compressor speed | Heating air volume rate
-H01 test (required, steady) | 70 | 60(max) | 62 | 56.5 | Heating Minimum | Heating Minimum.1
-H0C1 test (optional, cyclic) | 70 | 60(max) | 62 | 56.5 | Heating Minimum | (2)
-H12 test (required, steady) | 70 | 60(max) | 47 | 43 | Heating Full | Heating Full-Load.3
-H11 test (required, steady) | 70 | 60(max) | 47 | 43 | Heating Minimum | Heating Minimum.1
-H1N test (optional, steady) | 70 | 60(max) | 47 | 43 | Cooling Full | Heating Nominal.4
-H22 test (optional) | 70 | 60(max) | 35 | 33 | Heating Full | Heating Full-Load.3
-H2V test (required) | 70 | 60(max) | 35 | 33 | Heating Intermediate | Heating Intermediate.5
-H32 test (required, steady) | 70 | 60(max) | 17 | 15 | Heating Full | Heating Full-Load.3
+H01 test (required, steady) | 70 | 60(max) | 62 | 56.5 | Heating minimum | Heating minimum.1
+H12 test (optional, steady) | 70 | 60(max) | 47 | 43 | Heating full 4 | Heating full-load.3
+H11 test (required, steady) | 70 | 60(max) | 47 | 43 | Heating minimum | Heating minimum.1
+H1N test (required, steady) | 70 | 60(max) | 47 | 43 | Heating full | Heating full-load.3
+H1C1 test (optional, cyclic) | 70 | 60(max) | 47 | 43 | Heating minimum | (2)
+H22 test (optional) | 70 | 60(max) | 35 | 33 | Heating full 4 | Heating full-load.3
+H2V test (required) | 70 | 60(max) | 35 | 33 | Heating intermediate | Heating intermediate.5
+H32 test (required, steady) | 70 | 60(max) | 17 | 15 | Heating full | Heating full-load.3
 1 Defined in section 3.1.4.5 of this appendix.
-2 Maintain the airflow nozzle(s) static pressure difference or velocity pressure during an ON period at the same pressure or velocity as measured during the H01 test.
+2 Maintain the airflow nozzle(s) static pressure difference or velocity pressure during an ON period at the same pressure or velocity as measured during the H11 test.
 3 Defined in section 3.1.4.4 of this appendix.
-4 Defined in section 3.1.4.7 of this appendix.
+4 The same compressor speed used in the H32 test. The H12 test is not needed if the H1N test uses this same compressor speed.
 5 Defined in section 3.1.4.6 of this appendix.
-c. For multiple-split heat pumps (only), the following procedures supersede the above requirements. For all Table 13 tests specified for a minimum compressor speed, at least one indoor unit must be turned off. The manufacturer shall designate the particular indoor unit(s) that is turned off. The manufacturer must also specify the compressor speed used for the Table 13 H2V test, a heating mode intermediate compressor speed that falls within 1/4 and 3/4 of the difference between the full and minimum heating mode speeds. The manufacturer should prescribe an intermediate speed that is expected to yield the highest COP for the given H2V test conditions and bracketed compressor speed range. The manufacturer can designate that one or more specific indoor units are turned off for the H2V test.
 3.6.5 Additional Test for a Heat Pump Having a Heat Comfort Controller
 Test any heat pump that has a heat comfort controller (see section 1.2 of this appendix, Definitions) according to section 3.6.1, 3.6.2, or 3.6.3, whichever applies, with the heat comfort controller disabled. Additionally, conduct the abbreviated test described in section 3.1.10 of this appendix with the heat comfort controller active to determine the system's maximum supply air temperature. (Note: Heat pumps having a variable speed compressor and a heat comfort controller are not covered in the test procedure at this time.)
-3.6.6 Heating Mode Tests for Northern Heat Pumps With Triple-Capacity Compressors
+3.6.6 Heating Mode Tests for Northern Heat Pumps With Triple-Capacity Compressors.
 Test triple-capacity, northern heat pumps for the heating mode as follows:
-a. Conduct one maximum-temperature test (H01), two high-temperature tests (H12 and H11), one frost accumulation test (H22), two low-temperature tests (H32, H33), and one minimum-temperature test (H43). Conduct an additional frost accumulation test (H21) and low- temperature test (H31) if both of the following conditions exist: (1) Knowledge of the heat pump's capacity and electrical power at low compressor capacity for outdoor temperatures of 37 °F and less is needed to complete the section 4.2.6 seasonal performance calculations; and (2) the heat pump's controls allow low-capacity operation at outdoor temperatures of 37 °F and less. If the above two conditions are met, an alternative to conducting the H21 frost accumulation test to determine Q h k=1(35) and E h k=1(35) is to use the following equations to approximate this capacity and electrical power:
-ER08JN16.026
+a. Conduct one maximum-temperature test (H01), two high-temperature tests (H12 and H11), one frost accumulation test (H22), two low-temperature tests (H32, H33), and one minimum-temperature test (H43). Conduct an additional frost accumulation test (H21) and low-temperature test (H31) if both of the following conditions exist: (1) Knowledge of the heat pump's capacity and electrical power at low compressor capacity for outdoor temperatures of 37 °F and less is needed to complete the section 4.2.6 seasonal performance calculations; and (2) the heat pump's controls allow low-capacity operation at outdoor temperatures of 37 °F and less. If the above two conditions are met, an alternative to conducting the H21 frost accumulation test to determine Q h k=1(35) and E h k=1(35) is to use the following equations to approximate this capacity and electrical power:
+ER05JA17.310
 In evaluating the above equations, determine the quantities Q h k=1(47) from the H11 test and evaluate them according to section 3.7 of this appendix. Determine the quantities Q h k=1(17) and E h k=1(17) from the H31 test and evaluate them according to section 3.10 of this appendix. Use the paired values of Q h k=1(35) and E h k=1(35) derived from conducting the H21 frost accumulation test and evaluated as specified in section 3.9.1 of this appendix or use the paired values calculated using the above default equations, whichever contribute to a higher Region IV HSPF based on the DHRmin.
 b. Conducting a frost accumulation test (H23) with the heat pump operating at its booster capacity is optional. If this optional test is not conducted, determine Q h k=3(35) and E h k=3(35) using the following equations to approximate this capacity and electrical power:
-ER08JN16.027
-Determine the quantities Q h k=2(47) and E h k=2(47) from the H12 test and evaluate them according to section 3.7 of this appendix. Determine the quantities Q h k=2(35) and E h k=2(35) from the H22 test and evaluate them according to section 3.9.1 of this appendix. Determine the quantities Q h k=2(17) and E h k=2(17) from the H32 test, determine the quantities Q h k=3(17) and E h k=3(17) from the H33 test, and determine the quantities Q h k=3(2) and E h k=3(2) from the H43 test. Evaluate all six quantities according to section 3.10 of this appendix. Use the paired values of Q h k=3(35) and E h k=3(35) derived from conducting the H23 frost accumulation test and calculated as specified in section 3.9.1 of this appendix or use the paired values calculated using the above default equations, whichever contribute to a higher Region IV HSPF based on the DHRmin.
-c. Conduct the optional high-temperature cyclic test (H1C1) to determine the heating mode cyclic-degradation coefficient, CD h. A default value for CD h may be used in lieu of conducting the cyclic. The default value of CD h is 0.25. If a triple-capacity heat pump locks out low capacity operation at lower outdoor temperatures, conduct the high-temperature cyclic test (H1C2) to determine the high-capacity heating mode cyclic-degradation coefficient, CD h (k = 2). The default CD h (k = 2) is the same value as determined or assigned for the low-capacity cyclic-degradation coefficient, CD h [or equivalently, CD h (k = 1)]. Finally, if a triple-capacity heat pump locks out both low and high capacity operation at the lowest outdoor temperatures, conduct the low-temperature cyclic test (H3C3) to determine the booster-capacity heating mode cyclic-degradation coefficient, CD h (k = 3). The default CD h (k = 3) is the same value as determined or assigned for the high-capacity cyclic-degradation coefficient, CD h [or equivalently, CD h (k = 2)]. Table 14 specifies test conditions for all 13 tests.
-Table 14—Heating Mode Test Conditions for Units With a Triple-Capacity Compressor
-Test description | Air entering indoor unittemperature (°F) | Dry bulb | Wet bulb | Air entering outdoor unittemperature (°F) | Dry bulb | Wet bulb | Compressor capacity | Heating air volume rate
+ER05JA17.311
+Where:
+ER05JA17.026
+Determine the quantities Q h k=2(47) and E h k=2(47) from the H12 test and evaluate them according to section 3.7 of this appendix. Determine the quantities Q h k=2(35) and E h k=2(35) from the H22 test and evaluate them according to section 3.9.1 of this appendix. Determine the quantities Q h k=2(17) and E h k=2(17) from the H32 test, determine the quantities Q h k=3(17) and E h k=3(17) from the H33 test, and determine the quantities Q h k=3(5) and E h k=3(5) from the H43 test. Evaluate all six quantities according to section 3.10 of this appendix. Use the paired values of Q h k=3(35) and E h k=3(35) derived from conducting the H23 frost accumulation test and calculated as specified in section 3.9.1 of this appendix or use the paired values calculated using the above default equations, whichever contribute to a higher Region IV HSPF2 based on the DHRmin.
+c. Conduct the optional high-temperature cyclic test (H1C1) to determine the heating mode cyclic-degradation coefficient, CD h. A default value for CD h may be used in lieu of conducting the cyclic. The default value of CD h is 0.25. If a triple-capacity heat pump locks out low capacity operation at lower outdoor temperatures, conduct the high-temperature cyclic test (H1C2) to determine the high-capacity heating mode cyclic-degradation coefficient, CD h (k=2). The default CD h (k=2) is the same value as determined or assigned for the low-capacity cyclic-degradation coefficient, CD h [or equivalently, CD h (k=1)]. Finally, if a triple-capacity heat pump locks out both low and high capacity operation at the lowest outdoor temperatures, conduct the low-temperature cyclic test (H3C3) to determine the booster-capacity heating mode cyclic-degradation coefficient, CD h (k=3). The default CD h (k=3) is the same value as determined or assigned for the high-capacity cyclic-degradation coefficient, CD h [or equivalently, CD h (k=2)]. Table 15 specifies test conditions for all 13 tests.
+Table 15—Heating Mode Test Conditions for Units With a Triple-Capacity Compressor
+Test description | Air entering indoor unittemperature °F | Dry bulb | Wet bulb | Air entering outdoor unittemperature °F | Dry bulb | Wet bulb | Compressor capacity | Heating air volume rate
 H01 Test (required, steady) | 70 | 60(max) | 62 | 56.5 | Low | Heating Minimum.1
 H12 Test (required, steady) | 70 | 60(max) | 47 | 43 | High | Heating Full-Load.2
-H1C2 Test (optional 8, cyclic) | 70 | 60(max) | 47 | 43 | High | (3)
+H1C2 Test (optional,8 cyclic) | 70 | 60(max) | 47 | 43 | High | (3).
 H11 Test (required) | 70 | 60(max) | 47 | 43 | Low | Heating Minimum.1
-H1C1 Test (optional, cyclic) | 70 | 60(max) | 47 | 43 | Low | (4)
+H1C1 Test (optional, cyclic) | 70 | 60(max) | 47 | 43 | Low | (4).
 H23 Test (optional, steady) | 70 | 60(max) | 35 | 33 | Booster | Heating Full-Load.2
 H22 Test (required) | 70 | 60(max) | 35 | 33 | High | Heating Full-Load.2
 H21 Test (required) | 70 | 60(max) | 35 | 33 | Low | Heating Minimum.1
 H33 Test (required, steady) | 70 | 60(max) | 17 | 15 | Booster | Heating Full-Load.2
-H3C3 Test 5 6 (optional, cyclic) | 70 | 60(max) | 17 | 15 | Booster | (7)
+H3C3 Test5 6 (optional, cyclic) | 70 | 60(max) | 17 | 15 | Booster | (7).
 H32 Test (required, steady) | 70 | 60(max) | 17 | 15 | High | Heating Full-Load.2
-H31 Test 5 (required, steady) | 70 | 60(max) | 17 | 15 | Low | Heating Minimum.1
-H43 Test (required, steady) | 70 | 60(max) | 2 | 1 | Booster | Heating Full-Load.2
+H31 Test5 (required, steady) | 70 | 60(max) | 17 | 15 | Low | Heating Minimum.1
+H43 Test (required, steady) | 70 | 60(max) | 5 | 3(max) | Booster | Heating Full-Load.2
 1 Defined in section 3.1.4.5 of this appendix.
 2 Defined in section 3.1.4.4 of this appendix.
 3 Maintain the airflow nozzle(s) static pressure difference or velocity pressure during the ON period at the same pressure or velocity as measured during the H12 test.
 4 Maintain the airflow nozzle(s) static pressure difference or velocity pressure during the ON period at the same pressure or velocity as measured during the H11 test.
-5 Required only if the heat pump's performance when operating at low compressor capacity and outdoor temperatures less than 37 °F is needed to complete the section 4.2.6 HSPF calculations.
+5 Required only if the heat pump's performance when operating at low compressor capacity and outdoor temperatures less than 37 °F is needed to complete the section 4.2.6 HSPF2 calculations.
 6 If table note 5 applies, the section 3.6.6 equations for Q h k=1(35) and E h k=1(17) may be used in lieu of conducting the H21 test.
 7 Maintain the airflow nozzle(s) static pressure difference or velocity pressure during the ON period at the same pressure or velocity as measured during the H33 test.
 8 Required only if the heat pump locks out low capacity operation at lower outdoor temperatures.
 3.6.7 Tests for a Heat Pump Having a Single Indoor Unit Having Multiple Indoor Blowers and Offering Two Stages of Compressor Modulation
 Conduct the heating mode tests specified in section 3.6.3 of this appendix.
 3.7 Test Procedures for Steady-State Maximum Temperature and High Temperature Heating Mode Tests (the H01, H1, H12, H11, and H1N Tests)
-a. For the pretest interval, operate the test room reconditioning apparatus and the heat pump until equilibrium conditions are maintained for at least 30 minutes at the specified section 3.6 test conditions. Use the exhaust fan of the airflow measuring apparatus and, if installed, the indoor blower of the heat pump to obtain and then maintain the indoor air volume rate and/or the external static pressure specified for the particular test. Continuously record the dry-bulb temperature of the air entering the indoor coil, and the dry-bulb temperature and water vapor content of the air entering the outdoor coil. Refer to section 3.11 of this appendix for additional requirements that depend on the selected secondary test method. After satisfying the pretest equilibrium requirements, make the measurements specified in Table 3 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3) for the indoor air enthalpy method and the user-selected secondary method. Make said Table 3 measurements at equal intervals that span 5 minutes or less. Continue data sampling until a 30-minute period (e.g., seven consecutive 5-minute samples) is reached where the test tolerances specified in Table 15 are satisfied. For those continuously recorded parameters, use the entire data set for the 30-minute interval when evaluating Table 15 compliance. Determine the average electrical power consumption of the heat pump over the same 30-minute interval.
-Table 15—Test Operating and Test Condition Tolerances for Section 3.7 and Section 3.10 Steady-State Heating Mode Tests
+a. For the pretest interval, operate the test room reconditioning apparatus and the heat pump until equilibrium conditions are maintained for at least 30 minutes at the specified section 3.6 test conditions. Use the exhaust fan of the airflow measuring apparatus and, if installed, the indoor blower of the heat pump to obtain and then maintain the indoor air volume rate and/or the external static pressure specified for the particular test. Continuously record the dry-bulb temperature of the air entering the indoor coil, and the dry-bulb temperature and water vapor content of the air entering the outdoor coil. Refer to section 3.11 of this appendix for additional requirements that depend on the selected secondary test method. After satisfying the pretest equilibrium requirements, make the measurements specified in Table 3 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3) for the indoor air enthalpy method and the user-selected secondary method. Make said Table 3 measurements at equal intervals that span 5 minutes or less. Continue data sampling until a 30-minute period (e.g., seven consecutive 5-minute samples) is reached where the test tolerances specified in Table 16 are satisfied. For those continuously recorded parameters, use the entire data set for the 30-minute interval when evaluating Table 16 compliance. Determine the average electrical power consumption of the heat pump over the same 30-minute interval.
+Table 16—Test Operating and Test Condition Tolerances for Section 3.7 and Section 3.10 Steady-State Heating Mode Tests
 | Test operatingtolerance 1 | Test conditiontolerance 1
 Indoor dry-bulb, °F:
 Entering temperature | 2.0 | 0.5
-Leaving temperature | 2.0
+Leaving temperature | 2.0 |
 Indoor wet-bulb, °F:
-Entering temperature | 1.0
-Leaving temperature | 1.0
+Entering temperature | 1.0 |
+Leaving temperature | 1.0 |
 Outdoor dry-bulb, °F:
 Entering temperature | 2.0 | 0.5
-Leaving temperature | 2 2.0
+Leaving temperature | 2 2.0 |
 Outdoor wet-bulb, °F:
 Entering temperature | 1.0 | 0.3
-Leaving temperature | 2 1.0
+Leaving temperature | 2 1.0 |
 External resistance to airflow, inches of water | 0.05 | 3 0.02
 Electrical voltage, % of rdg | 2.0 | 1.5
-Nozzle pressure drop, % of rdg | 2.0
+Nozzle pressure drop, % of rdg | 2.0 |
 1 See section 1.2 of this appendix, Definitions.
 2 Only applies when the Outdoor Air Enthalpy Method is used.
 3 Only applies when testing non-ducted units.
 b. Calculate indoor-side total heating capacity as specified in sections 7.3.4.1 and 7.3.4.3 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3). To calculate capacity, use the averages of the measurements (e.g. inlet and outlet dry bulb temperatures measured at the psychrometers) that are continuously recorded for the same 30-minute interval used as described above to evaluate compliance with test tolerances. Do not adjust the parameters used in calculating capacity for the permitted variations in test conditions. Assign the average space heating capacity and electrical power over the 30-minute data collection interval to the variables Q h k and E h k(T) respectively. The "T" and superscripted "k" are the same as described in section 3.3 of this appendix. Additionally, for the heating mode, use the superscript to denote results from the optional H1N test, if conducted.
 c. For coil-only system heat pumps, increase Q h k(T) by
-ER08JN16.028
-where V s is the average measured indoor air volume rate expressed in units of cubic feet per minute of standard air (scfm). During the 30-minute data collection interval of a high temperature test, pay attention to preventing a defrost cycle. Prior to this time, allow the heat pump to perform a defrost cycle if automatically initiated by its own controls. As in all cases, wait for the heat pump's defrost controls to automatically terminate the defrost cycle. Heat pumps that undergo a defrost should operate in the heating mode for at least 10 minutes after defrost termination prior to beginning the 30-minute data collection interval. For some heat pumps, frost may accumulate on the outdoor coil during a high temperature test. If the indoor coil leaving air temperature or the difference between the leaving and entering air temperatures decreases by more than 1.5 °F over the 30-minute data collection interval, then do not use the collected data to determine capacity. Instead, initiate a defrost cycle. Begin collecting data no sooner than 10 minutes after defrost termination. Collect 30 minutes of new data during which the Table 15 test tolerances are satisfied. In this case, use only the results from the second 30-minute data collection interval to evaluate Q h k(47) and E h k(47).
+ER05JA17.028
+where V s is the average measured indoor air volume rate expressed in units of cubic feet per minute of standard air (scfm). During the 30-minute data collection interval of a high temperature test, pay attention to preventing a defrost cycle. Prior to this time, allow the heat pump to perform a defrost cycle if automatically initiated by its own controls. As in all cases, wait for the heat pump's defrost controls to automatically terminate the defrost cycle. Heat pumps that undergo a defrost should operate in the heating mode for at least 10 minutes after defrost termination prior to beginning the 30-minute data collection interval. For some heat pumps, frost may accumulate on the outdoor coil during a high temperature test. If the indoor coil leaving air temperature or the difference between the leaving and entering air temperatures decreases by more than 1.5 °F over the 30-minute data collection interval, then do not use the collected data to determine capacity. Instead, initiate a defrost cycle. Begin collecting data no sooner than 10 minutes after defrost termination. Collect 30 minutes of new data during which the Table 16 test tolerances are satisfied. In this case, use only the results from the second 30-minute data collection interval to evaluate Q h k(47) and E h k(47).
 d. If conducting the cyclic heating mode test, which is described in section 3.8 of this appendix, record the average indoor-side air volume rate, V, specific heat of the air, Cp,a (expressed on dry air basis), specific volume of the air at the nozzles, vn′ (or vn), humidity ratio at the nozzles, Wn, and either pressure difference or velocity pressure for the flow nozzles. If either or both of the below criteria apply, determine the average, steady-state, electrical power consumption of the indoor blower motor (E fan,1):
 (1) The section 3.8 cyclic test will be conducted and the heat pump has a variable-speed indoor blower that is expected to be disabled during the cyclic test; or
 (2) The heat pump has a (variable-speed) constant-air volume-rate indoor blower and during the steady-state test the average external static pressure (ΔP1) exceeds the applicable section 3.1.4.4 minimum (or targeted) external static pressure (ΔPmin) by 0.03 inches of water or more.
@@ -803,55 +851,60 @@ Determine E fan,1 by making measurements during the 30-minute data collection in
 (i) While maintaining the same test conditions, adjust the exhaust fan of the airflow measuring apparatus until the external static pressure increases to approximately ΔP1 + (ΔP1 − ΔPmin).
 (ii) After re-establishing steady readings for fan motor power and external static pressure, determine average values for the indoor blower power (E fan,2) and the external static pressure (ΔP2) by making measurements over a 5-minute interval.
 (iii) Approximate the average power consumption of the indoor blower motor if the 30-minute test had been conducted at ΔPmin using linear extrapolation:
-ER08JN16.029
+ER05JA17.029
 (iv) Decrease the total space heating capacity, Q h k(T), by the quantity (E fan,1 − E fan,min), when expressed on a Btu/h basis. Decrease the total electrical power, E h k(T) by the same fan power difference, now expressed in watts.
-e. If the temperature sensors used to provide the primary measurement of the indoor-side dry bulb temperature difference during the steady-state dry-coil test and the subsequent cyclic dry-coil test are different, include measurements of the latter sensors among the regularly sampled data. Beginning at the start of the 30-minute data collection period, measure and compute the indoor-side air dry-bulb temperature difference using both sets of instrumentation, ΔT (Set SS) and ΔT (Set CYC), for each equally spaced data sample. If using a consistent data sampling rate that is less than 1 minute, calculate and record minutely averages for the two temperature differences. If using a consistent sampling rate of one minute or more, calculate and record the two temperature differences from each data sample. After having recorded the seventh (i = 7) set of temperature differences, calculate the following ratio using the first seven sets of values:
-ER08JN16.030
-Each time a subsequent set of temperature differences is recorded (if sampling more frequently than every 5 minutes), calculate FCD using the most recent seven sets of values. Continue these calculations until the 30-minute period is completed or until a value for FCD is calculated that falls outside the allowable range of 0.94-1.06. If the latter occurs, immediately suspend the test and identify the cause for the disparity in the two temperature difference measurements. Recalibration of one or both sets of instrumentation may be required. If all the values for FCD are within the allowable range, save the final value of the ratio from the 30-minute test as FCD*. If the temperature sensors used to provide the primary measurement of the indoor-side dry bulb temperature difference during the steady-state dry-coil test and the subsequent cyclic dry-coil test are the same, set FCD* = 1.
+e. If the temperature sensors used to provide the primary measurement of the indoor-side dry bulb temperature difference during the steady-state dry-coil test and the subsequent cyclic dry-coil test are different, include measurements of the latter sensors among the regularly sampled data. Beginning at the start of the 30-minute data collection period, measure and compute the indoor-side air dry-bulb temperature difference using both sets of instrumentation, ΔT (Set SS) and ΔT (Set CYC), for each equally spaced data sample. If using a consistent data sampling rate that is less than 1 minute, calculate and record minutely averages for the two temperature differences. If using a consistent sampling rate of one minute or more, calculate and record the two temperature differences from each data sample. After having recorded the seventh (i=7) set of temperature differences, calculate the following ratio using the first seven sets of values:
+ER05JA17.030
+Each time a subsequent set of temperature differences is recorded (if sampling more frequently than every 5 minutes), calculate F CD using the most recent seven sets of values. Continue these calculations until the 30-minute period is completed or until a value for F CD is calculated that falls outside the allowable range of 0.94-1.06. If the latter occurs, immediately suspend the test and identify the cause for the disparity in the two temperature difference measurements. Recalibration of one or both sets of instrumentation may be required. If all the values for F CD are within the allowable range, save the final value of the ratio from the 30-minute test as F CD*. If the temperature sensors used to provide the primary measurement of the indoor-side dry bulb temperature difference during the steady-state dry-coil test and the subsequent cyclic dry-coil test are the same, set F CD*= 1.
 3.8 Test Procedures for the Cyclic Heating Mode Tests (the H0C1, H1C, H1C1 and H1C2 Tests)
-a. Except as noted below, conduct the cyclic heating mode test as specified in section 3.5 of this appendix. As adapted to the heating mode, replace section 3.5 references to "the steady-state dry coil test" with "the heating mode steady-state test conducted at the same test conditions as the cyclic heating mode test." Use the test tolerances in Table 16 rather than Table 9. Record the outdoor coil entering wet-bulb temperature according to the requirements given in section 3.5 of this appendix for the outdoor coil entering dry-bulb temperature. Drop the subscript "dry" used in variables cited in section 3.5 of this appendix when referring to quantities from the cyclic heating mode test. Determine the total space heating delivered during the cyclic heating test, qcyc, as specified in section 3.5 of this appendix except for making the following changes:
+a. Except as noted below, conduct the cyclic heating mode test as specified in section 3.5 of this appendix. As adapted to the heating mode, replace section 3.5 references to "the steady-state dry coil test" with "the heating mode steady-state test conducted at the same test conditions as the cyclic heating mode test." Use the test tolerances in Table 17 rather than Table 10. Record the outdoor coil entering wet-bulb temperature according to the requirements given in section 3.5 of this appendix for the outdoor coil entering dry-bulb temperature. Drop the subscript "dry" used in variables cited in section 3.5 of this appendix when referring to quantities from the cyclic heating mode test. Determine the total space heating delivered during the cyclic heating test, qcyc, as specified in section 3.5 of this appendix except for making the following changes:
 (1) When evaluating Equation 3.5-1, use the values of V, Cp,a,vn′, (or vn), and Wn that were recorded during the section 3.7 steady-state test conducted at the same test conditions.
-ER08JN16.031
-where FCD* is the value recorded during the section 3.7 steady-state test conducted at the same test condition.
+(2) Calculate Γ using
+ER05JA17.031
+where F CD* is the value recorded during the section 3.7 steady-state test conducted at the same test condition.
 b. For ducted coil-only system heat pumps (excluding the special case where a variable-speed fan is temporarily removed), increase qcyc by the amount calculated using Equation 3.5-3. Additionally, increase ecyc by the amount calculated using Equation 3.5-2. In making these calculations, use the average indoor air volume rate (V s) determined from the section 3.7 steady-state heating mode test conducted at the same test conditions.
 c. For non-ducted heat pumps, subtract the electrical energy used by the indoor blower during the 3 minutes after compressor cutoff from the non-ducted heat pump's integrated heating capacity, qcyc.
 d. If a heat pump defrost cycle is manually or automatically initiated immediately prior to or during the OFF/ON cycling, operate the heat pump continuously until 10 minutes after defrost termination. After that, begin cycling the heat pump immediately or delay until the specified test conditions have been re-established. Pay attention to preventing defrosts after beginning the cycling process. For heat pumps that cycle off the indoor blower during a defrost cycle, make no effort here to restrict the air movement through the indoor coil while the fan is off. Resume the OFF/ON cycling while conducting a minimum of two complete compressor OFF/ON cycles before determining qcyc and ecyc.
 3.8.1 Heating Mode Cyclic-Degradation Coefficient Calculation
-Use the results from the required cyclic test and the required steady-state test that were conducted at the same test conditions to determine the heating mode cyclic-degradation coefficient CD h. Add "(k = 2)" to the coefficient if it corresponds to a two-capacity unit cycling at high capacity. For the below calculation of the heating mode cyclic degradation coefficient, do not include the duct loss correction from section 7.3.3.3 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3) in determining Q h k(Tcyc) (or qcyc). If the optional cyclic test is conducted but yields a tested CD h that exceeds the default CD h or if the optional test is not conducted, assign CD h the default value of 0.25. The default value for two-capacity units cycling at high capacity, however, is the low-capacity coefficient, i.e., CD h (k = 2) = CD h. The tested CD h is calculated as follows:
-ER08JN16.032
+Use the results from the required cyclic test and the required steady-state test that were conducted at the same test conditions to determine the heating mode cyclic-degradation coefficient CD h. Add "(k=2)" to the coefficient if it corresponds to a two-capacity unit cycling at high capacity. For the below calculation of the heating mode cyclic degradation coefficient, do not include the duct loss correction from section 7.3.3.3 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3) in determining Q h k(Tcyc) (or qcyc). If the optional cyclic test is conducted but yields a tested CD h that exceeds the default CD h or if the optional test is not conducted, assign CD h the default value of 0.25. The default value for two-capacity units cycling at high capacity, however, is the low-capacity coefficient, i.e., CD h (k=2) = CD h. The tested CD h is calculated as follows:
+ER05JA17.032
+where:
+ER05JA17.033
 the average coefficient of performance during the cyclic heating mode test, dimensionless.
-ER08JN16.033
+ER05JA17.034
 the average coefficient of performance during the steady-state heating mode test conducted at the same test conditions—i.e., same outdoor dry bulb temperature, Tcyc, and speed/capacity, k, if applicable—as specified for the cyclic heating mode test, dimensionless.
-ER08JN16.034
+ER05JA17.035
 the heating load factor, dimensionless.
 Tcyc = the nominal outdoor temperature at which the cyclic heating mode test is conducted, 62 or 47 °F.
 Δτcyc = the duration of the OFF/ON intervals; 0.5 hours when testing a heat pump having a single-speed or two-capacity compressor and 1.0 hour when testing a heat pump having a variable-speed compressor.
 Round the calculated value for CD h to the nearest 0.01. If CD h is negative, then set it equal to zero.
-Table 16—Test Operating and Test Condition Tolerances for Cyclic Heating Mode Tests
+Table 17—Test Operating and Test Condition Tolerances for Cyclic Heating Mode Tests
 | Test operatingtolerance 1 | Test conditiontolerance 1
 Indoor entering dry-bulb temperature,2 °F | 2.0 | 0.5
-Indoor entering wet-bulb temperature,2 °F | 1.0
+Indoor entering wet-bulb temperature,2 °F | 1.0 |
 Outdoor entering dry-bulb temperature,2 °F | 2.0 | 0.5
 Outdoor entering wet-bulb temperature,2 °F | 2.0 | 1.0
-External resistance to air-flow,2 inches of water | 0.05
-Airflow nozzle pressure difference or velocity pressure,2 % of reading | 2.0 | 3 2.0
+External resistance to air-flow,2 inches of water | 0.05 |
+Airflow nozzle pressure difference or velocity pressure,2% of reading | 2.0 | 3 2.0
 Electrical voltage,4 % of rdg | 2.0 | 1.5
 1 See section 1.2 of this appendix, Definitions.
 2 Applies during the interval that air flows through the indoor (outdoor) coil except for the first 30 seconds after flow initiation. For units having a variable-speed indoor blower that ramps, the tolerances listed for the external resistance to airflow shall apply from 30 seconds after achieving full speed until ramp down begins.
 3 The test condition shall be the average nozzle pressure difference or velocity pressure measured during the steady-state test conducted at the same test conditions.
 4 Applies during the interval that at least one of the following—the compressor, the outdoor fan, or, if applicable, the indoor blower—are operating, except for the first 30 seconds after compressor start-up.
-3.9 Test Procedures for Frost Accumulation Heating Mode Tests (the H2, H22, H2V, and H21 Tests)
+3.9 Test Procedures for Frost Accumulation Heating Mode Tests (the H2, H22, H2V, and H21 tests)
 a. Confirm that the defrost controls of the heat pump are set as specified in section 2.2.1 of this appendix. Operate the test room reconditioning apparatus and the heat pump for at least 30 minutes at the specified section 3.6 test conditions before starting the "preliminary" test period. The preliminary test period must immediately precede the "official" test period, which is the heating and defrost interval over which data are collected for evaluating average space heating capacity and average electrical power consumption.
 b. For heat pumps containing defrost controls which are likely to cause defrosts at intervals less than one hour, the preliminary test period starts at the termination of an automatic defrost cycle and ends at the termination of the next occurring automatic defrost cycle. For heat pumps containing defrost controls which are likely to cause defrosts at intervals exceeding one hour, the preliminary test period must consist of a heating interval lasting at least one hour followed by a defrost cycle that is either manually or automatically initiated. In all cases, the heat pump's own controls must govern when a defrost cycle terminates.
 c. The official test period begins when the preliminary test period ends, at defrost termination. The official test period ends at the termination of the next occurring automatic defrost cycle. When testing a heat pump that uses a time-adaptive defrost control system (see section 1.2 of this appendix, Definitions), however, manually initiate the defrost cycle that ends the official test period at the instant indicated by instructions provided by the manufacturer. If the heat pump has not undergone a defrost after 6 hours, immediately conclude the test and use the results from the full 6-hour period to calculate the average space heating capacity and average electrical power consumption.
 For heat pumps that turn the indoor blower off during the defrost cycle, take steps to cease forced airflow through the indoor coil and block the outlet duct whenever the heat pump's controls cycle off the indoor blower. If it is installed, use the outlet damper box described in section 2.5.4.1 of this appendix to affect the blocked outlet duct.
 d. Defrost termination occurs when the controls of the heat pump actuate the first change in converting from defrost operation to normal heating operation. Defrost initiation occurs when the controls of the heat pump first alter its normal heating operation in order to eliminate possible accumulations of frost on the outdoor coil.
-e. To constitute a valid frost accumulation test, satisfy the test tolerances specified in Table 17 during both the preliminary and official test periods. As noted in Table 17, test operating tolerances are specified for two sub-intervals: (1) When heating, except for the first 10 minutes after the termination of a defrost cycle (sub-interval H, as described in Table 17) and (2) when defrosting, plus these same first 10 minutes after defrost termination (sub-interval D, as described in Table 17). Evaluate compliance with Table 17 test condition tolerances and the majority of the test operating tolerances using the averages from measurements recorded only during sub-interval H. Continuously record the dry bulb temperature of the air entering the indoor coil, and the dry bulb temperature and water vapor content of the air entering the outdoor coil. Sample the remaining parameters listed in Table 17 at equal intervals that span 5 minutes or less.
+e. To constitute a valid frost accumulation test, satisfy the test tolerances specified in Table 18 during both the preliminary and official test periods. As noted in Table 18, test operating tolerances are specified for two sub-intervals:
+(1) When heating, except for the first 10 minutes after the termination of a defrost cycle (sub-interval H, as described in Table 18) and
+(2) When defrosting, plus these same first 10 minutes after defrost termination (sub-interval D, as described in Table 18). Evaluate compliance with Table 18 test condition tolerances and the majority of the test operating tolerances using the averages from measurements recorded only during sub-interval H. Continuously record the dry bulb temperature of the air entering the indoor coil, and the dry bulb temperature and water vapor content of the air entering the outdoor coil. Sample the remaining parameters listed in Table 18 at equal intervals that span 5 minutes or less.
 f. For the official test period, collect and use the following data to calculate average space heating capacity and electrical power. During heating and defrosting intervals when the controls of the heat pump have the indoor blower on, continuously record the dry-bulb temperature of the air entering (as noted above) and leaving the indoor coil. If using a thermopile, continuously record the difference between the leaving and entering dry-bulb temperatures during the interval(s) that air flows through the indoor coil. For coil-only system heat pumps, determine the corresponding cumulative time (in hours) of indoor coil airflow, Δτa. Sample measurements used in calculating the air volume rate (refer to sections 7.7.2.1 and 7.7.2.2 of ANSI/ASHRAE 37-2009) at equal intervals that span 10 minutes or less. (Note: In the first printing of ANSI/ASHRAE 37-2009, the second IP equation for Qmi should read:) Record the electrical energy consumed, expressed in watt-hours, from defrost termination to defrost termination, eDEF k(35), as well as the corresponding elapsed time in hours, ΔτFR.
-Table 17—Test Operating and Test Condition Tolerances for Frost Accumulation Heating Mode Tests
-| Test operating tolerance 1 | Sub-interval H 2 | Sub-interval D 3 | Test conditiontolerance 1 | Sub-interval H 2
+Table 18—Test Operating and Test Condition Tolerances for Frost Accumulation Heating Mode Tests
+| Test operating tolerance 1 | Sub-interval H 2 | Sub-interval D 3 | Test conditiontolerance 1 Sub-interval H 2
 Indoor entering dry-bulb temperature, °F | 2.0 | 4 4.0 | 0.5
-Indoor entering wet-bulb temperature, °F | 1.0
+Indoor entering wet-bulb temperature, °F | 1.0 | |
 Outdoor entering dry-bulb temperature, °F | 2.0 | 10.0 | 1.0
 Outdoor entering wet-bulb temperature, °F | 1.5 | | 0.5
 External resistance to airflow, inches of water | 0.05 | | 5 0.02
@@ -863,14 +916,14 @@ Electrical voltage, % of rdg | 2.0 | | 1.5
 5 Only applies when testing non-ducted heat pumps.
 3.9.1 Average Space Heating Capacity and Electrical Power Calculations
 a. Evaluate average space heating capacity, Q h k(35), when expressed in units of Btu per hour, using:
-ER08JN16.035
+ER05JA17.036
 Where,
 V = the average indoor air volume rate measured during sub-interval H, cfm.
 Cp,a = 0.24 + 0.444 · Wn, the constant pressure specific heat of the air-water vapor mixture that flows through the indoor coil and is expressed on a dry air basis, Btu/lbmda · °F.
 vn′ = specific volume of the air-water vapor mixture at the nozzle, ft3/lbmmx.
 Wn = humidity ratio of the air-water vapor mixture at the nozzle, lbm of water vapor per lbm of dry air.
 ΔτFR = τ2 − τ1, the elapsed time from defrost termination to defrost termination, hr.
-ER08JN16.036
+ER05JA17.312
 Tal(τ) = dry bulb temperature of the air entering the indoor coil at elapsed time τ, °F; only recorded when indoor coil airflow occurs; assigned the value of zero during periods (if any) where the indoor blower cycles off.
 Ta2(τ) = dry bulb temperature of the air leaving the indoor coil at elapsed time τ, °F; only recorded when indoor coil airflow occurs; assigned the value of zero during periods (if any) where the indoor blower cycles off.
 τ1 = the elapsed time when the defrost termination occurs that begins the official test period, hr.
@@ -878,136 +931,157 @@ Ta2(τ) = dry bulb temperature of the air leaving the indoor coil at elapsed tim
 vn = specific volume of the dry air portion of the mixture evaluated at the dry-bulb temperature, vapor content, and barometric pressure existing at the nozzle, ft3 per lbm of dry air.
 To account for the effect of duct losses between the outlet of the indoor unit and the section 2.5.4 dry-bulb temperature grid, adjust Q h k(35) in accordance with section 7.3.4.3 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3).
 b. Evaluate average electrical power, E h k(35), when expressed in units of watts, using:
-ER08JN16.037
+ER05JA17.037
 For coil-only system heat pumps, increase Q h k(35) by,
-ER08JN16.038
+ER05JA17.038
+and increase E h k(35) by,
+ER05JA17.039
 where V s is the average indoor air volume rate measured during the frost accumulation heating mode test and is expressed in units of cubic feet per minute of standard air (scfm).
 c. For heat pumps having a constant-air-volume-rate indoor blower, the five additional steps listed below are required if the average of the external static pressures measured during sub-interval H exceeds the applicable section 3.1.4.4, 3.1.4.5, or 3.1.4.6 minimum (or targeted) external static pressure (ΔPmin) by 0.03 inches of water or more:
 (1) Measure the average power consumption of the indoor blower motor (E fan,1) and record the corresponding external static pressure (ΔP1) during or immediately following the frost accumulation heating mode test. Make the measurement at a time when the heat pump is heating, except for the first 10 minutes after the termination of a defrost cycle.
 (2) After the frost accumulation heating mode test is completed and while maintaining the same test conditions, adjust the exhaust fan of the airflow measuring apparatus until the external static pressure increases to approximately ΔP1 + (ΔP1 − ΔPmin).
 (3) After re-establishing steady readings for the fan motor power and external static pressure, determine average values for the indoor blower power (E fan,2) and the external static pressure (ΔP2) by making measurements over a 5-minute interval.
 (4) Approximate the average power consumption of the indoor blower motor had the frost accumulation heating mode test been conducted at ΔPmin using linear extrapolation:
-ER08JN16.039
-(5) Decrease the total heating capacity, Q h k(35), by the quantity [(E fan,1 − E fan,min)· (Δτa/ΔτFR], when expressed on a Btu/h basis. Decrease the total electrical power, Eh k(35), by the same quantity, now expressed in watts.
+ER05JA17.040
+(5) Decrease the total heating capacity, Q h k(35), by the quantity [(E fan,1−E fan,min) · (Δτ a/Δτ FR], when expressed on a Btu/h basis. Decrease the total electrical power, Eh k(35), by the same quantity, now expressed in watts.
 3.9.2 Demand Defrost Credit
 a. Assign the demand defrost credit, Fdef, that is used in section 4.2 of this appendix to the value of 1 in all cases except for heat pumps having a demand-defrost control system (see section 1.2 of this appendix, Definitions). For such qualifying heat pumps, evaluate Fdef using,
-ER08JN16.040
+ER05JA17.041
 where:
 Δτdef = the time between defrost terminations (in hours) or 1.5, whichever is greater. A value of 6 must be assigned to Δτdef if this limit is reached during a frost accumulation test and the heat pump has not completed a defrost cycle.
 Δτmax = maximum time between defrosts as allowed by the controls (in hours) or 12, whichever is less, as provided in the certification report.
 b. For two-capacity heat pumps and for section 3.6.2 units, evaluate the above equation using the Δτdef that applies based on the frost accumulation test conducted at high capacity and/or at the heating full-load air volume rate. For variable-speed heat pumps, evaluate Δτdef based on the required frost accumulation test conducted at the intermediate compressor speed.
-3.10 Test Procedures for Steady-State Low Temperature Heating Mode Tests (the H3, H32, and H31 tests).
-Except for the modifications noted in this section, conduct the low temperature heating mode test using the same approach as specified in section 3.7 of this appendix for the maximum and high temperature tests. After satisfying the section 3.7 requirements for the pretest interval but before beginning to collect data to determine Qh k(17) and Eh k(17), conduct a defrost cycle. This defrost cycle may be manually or automatically initiated. The defrost sequence must be terminated by the action of the heat pump's defrost controls. Begin the 30-minute data collection interval described in section 3.7 of this appendix, from which Qh k(17) and Eh k(17) are determined, no sooner than 10 minutes after defrost termination. Defrosts should be prevented over the 30-minute data collection interval.
-3.11 Additional Requirements for the Secondary Test Methods
+3.10 Test Procedures for Steady-State Low Temperature Heating Mode Tests (the H3, H32, and H31 Tests)
+Except for the modifications noted in this section, conduct the low temperature heating mode test using the same approach as specified in section 3.7 of this appendix for the maximum and high temperature tests. After satisfying the section 3.7 requirements for the pretest interval but before beginning to collect data to determine Q h k(17) and E h k(17), conduct a defrost cycle. This defrost cycle may be manually or automatically initiated. The defrost sequence must be terminated by the action of the heat pump's defrost controls. Begin the 30-minute data collection interval described in section 3.7 of this appendix, from which Q h k(17) and E h k(17) are determined, no sooner than 10 minutes after defrost termination. Defrosts should be prevented over the 30-minute data collection interval.
+3.11 Additional Requirements for the Secondary Test Methodst
 3.11.1 If Using the Outdoor Air Enthalpy Method as the Secondary Test Method
-During the "official" test, the outdoor air-side test apparatus described in section 2.10.1 of this appendix is connected to the outdoor unit. To help compensate for any effect that the addition of this test apparatus may have on the unit's performance, conduct a "preliminary" test where the outdoor air-side test apparatus is disconnected. Conduct a preliminary test prior to the first section 3.2 of this appendix steady-state cooling mode test and prior to the first section 3.6 of this appendix steady-state heating mode test. No other preliminary tests are required so long as the unit operates the outdoor fan during all cooling mode steady-state tests at the same speed and all heating mode steady-state tests at the same speed. If using more than one outdoor fan speed for the cooling mode steady-state tests, however, conduct a preliminary test prior to each cooling mode test where a different fan speed is first used. This same requirement applies for the heating mode tests.
-3.11.1.1 Preliminary Test
-3.11.1.1.1 If a Preliminary Test Precedes the Official Test
-a. The test conditions for the preliminary test are the same as specified for the official test. Connect the indoor air-side test apparatus to the indoor coil; disconnect the outdoor air-side test apparatus. Allow the test room reconditioning apparatus and the unit being tested to operate for at least one hour. After attaining equilibrium conditions, measure the following quantities at equal intervals that span 5 minutes or less:
-(1) The section 2.10.1 of this appendix evaporator and condenser temperatures or pressures;
+a. For all cooling mode and heating mode tests, first conduct a test without the outdoor air-side test apparatus described in section 2.10.1 of this appendix connected to the outdoor unit ("free outdoor air" test).
+b. For the first section 3.2 steady-state cooling mode test and the first section 3.6 steady-state heating mode test, conduct a second test in which the outdoor-side apparatus is connected ("ducted outdoor air" test). No other cooling mode or heating mode tests require the ducted outdoor air test so long as the unit operates the outdoor fan during all cooling mode steady-state tests at the same speed and all heating mode steady-state tests at the same speed. If using more than one outdoor fan speed for the cooling mode steady-state tests, however, conduct the ducted outdoor air test for each cooling mode test where a different fan speed is first used. This same requirement applies for the heating mode tests.
+3.11.1.1 Free Outdoor Air Test
+a. For the free outdoor air test, connect the indoor air-side test apparatus to the indoor coil; do not connect the outdoor air-side test apparatus. Allow the test room reconditioning apparatus and the unit being tested to operate for at least one hour. After attaining equilibrium conditions, measure the following quantities at equal intervals that span 5 minutes or less:
+(1) The section 2.10.1 evaporator and condenser temperatures or pressures;
 (2) Parameters required according to the indoor air enthalpy method.
-Continue these measurements until a 30-minute period (e.g., seven consecutive 5-minute samples) is obtained where the Table 8 or Table 15, whichever applies, test tolerances are satisfied.
-b. After collecting 30 minutes of steady-state data, reconnect the outdoor air-side test apparatus to the unit. Adjust the exhaust fan of the outdoor airflow measuring apparatus until averages for the evaporator and condenser temperatures, or the saturated temperatures corresponding to the measured pressures, agree within ±0.5 °F of the averages achieved when the outdoor air-side test apparatus was disconnected. Calculate the averages for the reconnected case using five or more consecutive readings taken at one minute intervals. Make these consecutive readings after re-establishing equilibrium conditions and before initiating the official test.
-3.11.1.1.2 If a Preliminary Test Does Not Precede the Official Test
-Connect the outdoor-side test apparatus to the unit. Adjust the exhaust fan of the outdoor airflow measuring apparatus to achieve the same external static pressure as measured during the prior preliminary test conducted with the unit operating in the same cooling or heating mode at the same outdoor fan speed.
-3.11.1.2 Official Test
-a. Continue (preliminary test was conducted) or begin (no preliminary test) the official test by making measurements for both the indoor and outdoor air enthalpy methods at equal intervals that span 5 minutes or less. Discontinue these measurements only after obtaining a 30-minute period where the specified test condition and test operating tolerances are satisfied. To constitute a valid official test:
-(1) Achieve the energy balance specified in section 3.1.1 of this appendix; and,
-(2) For cases where a preliminary test is conducted, the capacities determined using the indoor air enthalpy method from the official and preliminary test periods must agree within 2.0 percent.
-b. For space cooling tests, calculate capacity from the outdoor air-enthalpy measurements as specified in sections 7.3.3.2 and 7.3.3.3 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3). Calculate heating capacity based on outdoor air-enthalpy measurements as specified in sections 7.3.4.2 and 7.3.3.4.3 of the same ASHRAE Standard. Adjust the outdoor-side capacity according to section 7.3.3.4 of ANSI/ASHRAE 37-2009 to account for line losses when testing split systems. Use the outdoor unit fan power as measured during the official test and not the value measured during the preliminary test, as described in section 8.6.2 of ANSI/ASHRAE 37-2009, when calculating the capacity.
+Continue these measurements until a 30-minute period (e.g., seven consecutive 5-minute samples) is obtained where the Table 9 or Table 16, whichever applies, test tolerances are satisfied.
+b. For cases where a ducted outdoor air test is not required per section 3.11.1.b of this appendix, the free outdoor air test constitutes the "official" test for which validity is not based on comparison with a secondary test.
+c. For cases where a ducted outdoor air test is required per section 3.11.1.b of this appendix, the following conditions must be met for the free outdoor air test to constitute a valid "official" test:
+(1) Achieve the energy balance specified in section 3.1.1 of this appendix for the ducted outdoor air test (i.e., compare the capacities determined using the indoor air enthalpy method and the outdoor air enthalpy method).
+(2) The capacities determined using the indoor air enthalpy method from the ducted outdoor air and free outdoor tests must agree within 2 percent.
+3.11.1.2 Ducted Outdoor Air Test
+a. The test conditions and tolerances for the ducted outdoor air test are the same as specified for the free outdoor air test described in Section 3.11.1.1 of this appendix.
+b. After collecting 30 minutes of steady-state data during the free outdoor air test, connect the outdoor air-side test apparatus to the unit for the ducted outdoor air test. Adjust the exhaust fan of the outdoor airflow measuring apparatus until averages for the evaporator and condenser temperatures, or the saturated temperatures corresponding to the measured pressures, agree within ±0.5 °F of the averages achieved during the free outdoor air test. Collect 30 minutes of steady-state data after re-establishing equilibrium conditions.
+c. During the ducted outdoor air test, at intervals of 5 minutes or less, measure the parameters required according to the indoor air enthalpy method and the outdoor air enthalpy method for the prescribed 30 minutes.
+d. For cooling mode ducted outdoor air tests, calculate capacity based on outdoor air-enthalpy measurements as specified in sections 7.3.3.2 and 7.3.3.3 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3). For heating mode ducted tests, calculate heating capacity based on outdoor air-enthalpy measurements as specified in sections 7.3.4.2 and 7.3.3.4.3 of the same ANSI/ASHRAE Standard. Adjust the outdoor-side capacity according to section 7.3.3.4 of ANSI/ASHRAE 37-2009 to account for line losses when testing split systems. As described in section 8.6.2 of ANSI/ASHRAE 37-2009, use the outdoor air volume rate as measured during the ducted outdoor air tests to calculate capacity for checking the agreement with the capacity calculated using the indoor air enthalpy method.
 3.11.2 If Using the Compressor Calibration Method as the Secondary Test Method
-a. Conduct separate calibration tests using a calorimeter to determine the refrigerant flow rate. Or for cases where the superheat of the refrigerant leaving the evaporator is less than 5 °F, use the calorimeter to measure total capacity rather than refrigerant flow rate. Conduct these calibration tests at the same test conditions as specified for the tests in this appendix. Operate the unit for at least one hour or until obtaining equilibrium conditions before collecting data that will be used in determining the average refrigerant flow rate or total capacity. Sample the data at equal intervals that span 5 minutes or less. Determine average flow rate or average capacity from data sampled over a 30-minute period where the Table 8 (cooling) or the Table 15 (heating) tolerances are satisfied. Otherwise, conduct the calibration tests according to sections 5, 6, 7, and 8 of ASHRAE 23.1-2010 (incorporated by reference, see § 430.3); sections 5, 6, 7, 8, 9, and 11 of ASHRAE 41.9-2011 (incorporated by reference, see § 430.3); and section 7.4 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3).
+a. Conduct separate calibration tests using a calorimeter to determine the refrigerant flow rate. Or for cases where the superheat of the refrigerant leaving the evaporator is less than 5 °F, use the calorimeter to measure total capacity rather than refrigerant flow rate. Conduct these calibration tests at the same test conditions as specified for the tests in this appendix. Operate the unit for at least one hour or until obtaining equilibrium conditions before collecting data that will be used in determining the average refrigerant flow rate or total capacity. Sample the data at equal intervals that span 5 minutes or less. Determine average flow rate or average capacity from data sampled over a 30-minute period where the Table 9 (cooling) or the Table 16 (heating) tolerances are satisfied. Otherwise, conduct the calibration tests according to sections 5, 6, 7, and 8 of ASHRAE 23.1-2010 (incorporated by reference, see § 430.3); sections 5, 6, 7, 8, 9, and 11 of ASHRAE 41.9-2011 (incorporated by reference, see § 430.3); and section 7.4 of ANSI/ASHRAE 37-2009 (incorporated by reference, see § 430.3).
 b. Calculate space cooling and space heating capacities using the compressor calibration method measurements as specified in section 7.4.5 and 7.4.6 respectively, of ANSI/ASHRAE 37-2009.
 3.11.3 If Using the Refrigerant-Enthalpy Method as the Secondary Test Method
 Conduct this secondary method according to section 7.5 of ANSI/ASHRAE 37-2009. Calculate space cooling and heating capacities using the refrigerant-enthalpy method measurements as specified in sections 7.5.4 and 7.5.5, respectively, of the same ASHRAE Standard.
 3.12 Rounding of Space Conditioning Capacities for Reporting Purposes
 a. When reporting rated capacities, round them off as specified in § 430.23 (for a single unit) and in 10 CFR 429.16 (for a sample).
 b. For the capacities used to perform the calculations in section 4 of this appendix, however, round only to the nearest integer.
-3.13 Laboratory Testing To Determine Off Mode Average Power Ratings
+3.13 Laboratory Testing to Determine Off Mode Average Power Ratings
 Voltage tolerances: As a percentage of reading, test operating tolerance shall be 2.0 percent and test condition tolerance shall be 1.5 percent (see section 1.2 of this appendix for definitions of these tolerances).
 Conduct one of the following tests: If the central air conditioner or heat pump lacks a compressor crankcase heater, perform the test in section 3.13.1 of this appendix; if the central air conditioner or heat pump has a compressor crankcase heater that lacks controls and is not self-regulating, perform the test in section 3.13.1 of this appendix; if the central air conditioner or heat pump has a crankcase heater with a fixed power input controlled with a thermostat that measures ambient temperature and whose sensing element temperature is not affected by the heater, perform the test in section 3.13.1 of this appendix; if the central air conditioner or heat pump has a compressor crankcase heater equipped with self-regulating control or with controls for which the sensing element temperature is affected by the heater, perform the test in section 3.13.2 of this appendix.
-3.13.1 This Test Determines the off Mode Average Power Rating for Central Air Conditioners and Heat Pumps That Lack a Compressor Crankcase Heater, or Have a Compressor Crankcase Heating System That Can Be Tested Without Control of Ambient Temperature During the Test. This Test Has No Ambient Condition Requirements
+3.13.1 This Test Determines the Off Mode Average Power Rating for Central Air Conditioners and Heat Pumps That Lack a Compressor Crankcase Heater, or Have a Compressor Crankcase Heating System That Can Be Tested Without Control of Ambient Temperature During the Test. This Test Has No Ambient Condition Requirements
 a. Test Sample Set-up and Power Measurement: For coil-only systems, provide a furnace or modular blower that is compatible with the system to serve as an interface with the thermostat (if used for the test) and to provide low-voltage control circuit power. Make all control circuit connections between the furnace (or modular blower) and the outdoor unit as specified by the manufacturer's installation instructions. Measure power supplied to both the furnace or modular blower and power supplied to the outdoor unit. Alternatively, provide a compatible transformer to supply low-voltage control circuit power, as described in section 2.2.d of this appendix. Measure transformer power, either supplied to the primary winding or supplied by the secondary winding of the transformer, and power supplied to the outdoor unit. For blower coil and single-package systems, make all control circuit connections between components as specified by the manufacturer's installation instructions, and provide power and measure power supplied to all system components.
 b. Configure Controls: Configure the controls of the central air conditioner or heat pump so that it operates as if connected to a building thermostat that is set to the OFF position. Use a compatible building thermostat if necessary to achieve this configuration. For a thermostat-controlled crankcase heater with a fixed power input, bypass the crankcase heater thermostat if necessary to energize the heater.
-c. Measure P2 X: If the unit has a crankcase heater time delay, make sure that time delay function is disabled or wait until delay time has passed. Determine the average power from non-zero value data measured over a 5-minute interval of the non-operating central air conditioner or heat pump and designate the average power as P2 X, the heating season total off mode power.
-d. Measure P X for coil-only split systems and for blower coil split systems for which a furnace or a modular blower is the designated air mover: Disconnect all low-voltage wiring for the outdoor components and outdoor controls from the low-voltage transformer. Determine the average power from non-zero value data measured over a 5-minute interval of the power supplied to the (remaining) low-voltage components of the central air conditioner or heat pump, or low-voltage power, P X. This power measurement does not include line power supplied to the outdoor unit. It is the line power supplied to the air mover, or, if a compatible transformer is used instead of an air mover, it is the line power supplied to the transformer primary coil. If a compatible transformer is used instead of an air mover and power output of the low-voltage secondary circuit is measured, P X is zero.
+c. Measure P2 x: If the unit has a crankcase heater time delay, make sure that time delay function is disabled or wait until delay time has passed. Determine the average power from non-zero value data measured over a 5-minute interval of the non-operating central air conditioner or heat pump and designate the average power as P2 x, the heating season total off mode power.
+d. Measure P x for coil-only split systems and for blower coil split systems for which a furnace or a modular blower is the designated air mover: Disconnect all low-voltage wiring for the outdoor components and outdoor controls from the low-voltage transformer. Determine the average power from non-zero value data measured over a 5-minute interval of the power supplied to the (remaining) low-voltage components of the central air conditioner or heat pump, or low-voltage power, P x. This power measurement does not include line power supplied to the outdoor unit. It is the line power supplied to the air mover, or, if a compatible transformer is used instead of an air mover, it is the line power supplied to the transformer primary coil. If a compatible transformer is used instead of an air mover and power output of the low-voltage secondary circuit is measured, P x is zero.
 e. Calculate P2: Set the number of compressors equal to the unit's number of single-stage compressors plus 1.75 times the unit's number of compressors that are not single-stage.
-For single-package systems and blower coil split systems for which the designated air mover is not a furnace or modular blower, divide the heating season total off mode power (P2 X) by the number of compressors to calculate P2, the heating season per-compressor off mode power. Round P2 to the nearest watt. The expression for calculating P2 is as follows:
-ER08JN16.041
-For coil-only split systems and blower coil split systems for which a furnace or a modular blower is the designated air mover, subtract the low-voltage power (P X) from the heating season total off mode power (P2 X) and divide by the number of compressors to calculate P2, the heating season per-compressor off mode power. Round P2 to the nearest watt. The expression for calculating P2 is as follows:
-ER08JN16.042
+For single-package systems and blower coil split systems for which the designated air mover is not a furnace or modular blower, divide the heating season total off mode power (P2 x) by the number of compressors to calculate P2, the heating season per-compressor off mode power. Round P2 to the nearest watt. The expression for calculating P2 is as follows:
+ER05JA17.042
+For coil-only split systems and blower coil split systems for which a furnace or a modular blower is the designated air mover, subtract the low-voltage power (P x) from the heating season total off mode power (P2 x) and divide by the number of compressors to calculate P2, the heating season per-compressor off mode power. Round P2 to the nearest watt. The expression for calculating P2 is as follows:
+ER05JA17.043
 f. Shoulder-season per-compressor off mode power, P1: If the system does not have a crankcase heater, has a crankcase heater without controls that is not self-regulating, or has a value for the crankcase heater turn-on temperature (as certified in the DOE Compliance Certification Database) that is higher than 71 °F, P1 is equal to P2.
-Otherwise, de-energize the crankcase heater (by removing the thermostat bypass or otherwise disconnecting only the power supply to the crankcase heater) and repeat the measurement as described in section 3.13.1.c of this appendix. Designate the measured average power as P1X, the shoulder season total off mode power.
+Otherwise, de-energize the crankcase heater (by removing the thermostat bypass or otherwise disconnecting only the power supply to the crankcase heater) and repeat the measurement as described in section 3.13.1.c of this appendix. Designate the measured average power as P1x, the shoulder season total off mode power.
 Determine the number of compressors as described in section 3.13.1.e of this appendix.
-For single-package systems and blower coil systems for which the designated air mover is not a furnace or modular blower, divide the shoulder season total off mode power (P1X) by the number of compressors to calculate P1, the shoulder season per-compressor off mode power. Round P1 to the nearest watt. The expression for calculating P1 is as follows:
-ER08JN16.043
-For coil-only split systems and blower coil split systems for which a furnace or a modular blower is the designated air mover, subtract the low-voltage power (P X) from the shoulder season total off mode power (P1 X) and divide by the number of compressors to calculate P1, the shoulder season per-compressor off mode power. Round P1 to the nearest watt. The expression for calculating P1 is as follows:
-ER08JN16.044
-3.13.2 This test determines the off mode average power rating for central air conditioners and heat pumps for which ambient temperature can affect the measurement of crankcase heater power.
+For single-package systems and blower coil systems for which the designated air mover is not a furnace or modular blower, divide the shoulder season total off mode power (P1x) by the number of compressors to calculate P1, the shoulder season per-compressor off mode power. Round P1 to the nearest watt. The expression for calculating P1 is as follows:
+ER05JA17.044
+For coil-only split systems and blower coil split systems for which a furnace or a modular blower is the designated air mover, subtract the low-voltage power (P x) from the shoulder season total off mode power (P1x) and divide by the number of compressors to calculate P1, the shoulder season per-compressor off mode power. Round P1 to the nearest watt. The expression for calculating P1 is as follows:
+ER05JA17.045
+3.13.2 This Test Determines the Off Mode Average Power Rating for Central Air Conditioners and Heat Pumps for Which Ambient Temperature Can Affect the Measurement of Crankcase Heater Power
 a. Test Sample Set-up and Power Measurement: Set up the test and measurement as described in section 3.13.1.a of this appendix.
 b. Configure Controls: Position a temperature sensor to measure the outdoor dry-bulb temperature in the air between 2 and 6 inches from the crankcase heater control temperature sensor or, if no such temperature sensor exists, position it in the air between 2 and 6 inches from the crankcase heater. Utilize the temperature measurements from this sensor for this portion of the test procedure. Configure the controls of the central air conditioner or heat pump so that it operates as if connected to a building thermostat that is set to the OFF position. Use a compatible building thermostat if necessary to achieve this configuration.
 Conduct the test after completion of the B, B1, or B2 test. Alternatively, start the test when the outdoor dry-bulb temperature is at 82 °F and the temperature of the compressor shell (or temperature of each compressor's shell if there is more than one compressor) is at least 81 °F. Then adjust the outdoor temperature at a rate of change of no more than 20 °F per hour and achieve an outdoor dry-bulb temperature of 72 °F. Maintain this temperature within ±2 °F while making the power measurement, as described in section 3.13.2.c of this appendix.
-c. Measure P1X: If the unit has a crankcase heater time delay, make sure that time delay function is disabled or wait until delay time has passed. Determine the average power from non-zero value data measured over a 5-minute interval of the non-operating central air conditioner or heat pump and designate the average power as P1X, the shoulder season total off mode power. For units with crankcase heaters which operate during this part of the test and whose controls cycle or vary crankcase heater power over time, the test period shall consist of three complete crankcase heater cycles or 18 hours, whichever comes first. Designate the average power over the test period as P1X, the shoulder season total off mode power.
+c. Measure P1x: If the unit has a crankcase heater time delay, make sure that time delay function is disabled or wait until delay time has passed. Determine the average power from non-zero value data measured over a 5-minute interval of the non-operating central air conditioner or heat pump and designate the average power as P1x, the shoulder season total off mode power. For units with crankcase heaters which operate during this part of the test and whose controls cycle or vary crankcase heater power over time, the test period shall consist of three complete crankcase heater cycles or 18 hours, whichever comes first. Designate the average power over the test period as P1x, the shoulder season total off mode power.
 d. Reduce outdoor temperature: Approach the target outdoor dry-bulb temperature by adjusting the outdoor temperature at a rate of change of no more than 20 °F per hour. This target temperature is five degrees Fahrenheit less than the temperature specified by the manufacturer in the DOE Compliance Certification Database at which the crankcase heater turns on. Maintain the target temperature within ±2 °F while making the power measurement, as described in section 3.13.2.e of this appendix.
-e. Measure P2X: If the unit has a crankcase heater time delay, make sure that time delay function is disabled or wait until delay time has passed. Determine the average non-zero power of the non-operating central air conditioner or heat pump over a 5-minute interval and designate it as P2X, the heating season total off mode power. For units with crankcase heaters whose controls cycle or vary crankcase heater power over time, the test period shall consist of three complete crankcase heater cycles or 18 hours, whichever comes first. Designate the average power over the test period as P2X, the heating season total off mode power.
-f. Measure P X for coil-only split systems and for blower coil split systems for which a furnace or modular blower is the designated air mover: Disconnect all low-voltage wiring for the outdoor components and outdoor controls from the low-voltage transformer. Determine the average power from non-zero value data measured over a 5-minute interval of the power supplied to the (remaining) low-voltage components of the central air conditioner or heat pump, or low-voltage power, P X. This power measurement does not include line power supplied to the outdoor unit. It is the line power supplied to the air mover, or, if a compatible transformer is used instead of an air mover, it is the line power supplied to the transformer primary coil. If a compatible transformer is used instead of an air mover and power output of the low-voltage secondary circuit is measured, P X is zero.
+e. Measure P2 x: If the unit has a crankcase heater time delay, make sure that time delay function is disabled or wait until delay time has passed. Determine the average non-zero power of the non-operating central air conditioner or heat pump over a 5-minute interval and designate it as P2 x, the heating season total off mode power. For units with crankcase heaters whose controls cycle or vary crankcase heater power over time, the test period shall consist of three complete crankcase heater cycles or 18 hours, whichever comes first. Designate the average power over the test period as P2 x, the heating season total off mode power.
+f. Measure P x for coil-only split systems and for blower coil split systems for which a furnace or modular blower is the designated air mover: Disconnect all low-voltage wiring for the outdoor components and outdoor controls from the low-voltage transformer. Determine the average power from non-zero value data measured over a 5-minute interval of the power supplied to the (remaining) low-voltage components of the central air conditioner or heat pump, or low-voltage power, P x.. This power measurement does not include line power supplied to the outdoor unit. It is the line power supplied to the air mover, or, if a compatible transformer is used instead of an air mover, it is the line power supplied to the transformer primary coil. If a compatible transformer is used instead of an air mover and power output of the low-voltage secondary circuit is measured, P x is zero.
 g. Calculate P1:
 Set the number of compressors equal to the unit's number of single-stage compressors plus 1.75 times the unit's number of compressors that are not single-stage.
 For single-package systems and blower coil split systems for which the air mover is not a furnace or modular blower, divide the shoulder season total off mode power (P1x) by the number of compressors to calculate P1, the shoulder season per-compressor off mode power. Round to the nearest watt. The expression for calculating P1 is as follows:
-ER08JN16.045
+ER05JA17.046
 For coil-only split systems and blower coil split systems for which a furnace or a modular blower is the designated air mover, subtract the low-voltage power (P x) from the shoulder season total off mode power (P1x) and divide by the number of compressors to calculate P1, the shoulder season per-compressor off mode power. Round to the nearest watt. The expression for calculating P1 is as follows:
-ER08JN16.046
+ER05JA17.047
 h. Calculate P2:
 Determine the number of compressors as described in section 3.13.2.g of this appendix.
-For single-package systems and blower coil split systems for which the air mover is not a furnace, divide the heating season total off mode power (P1x) by the number of compressors to calculate P2, the heating season per-compressor off mode power. Round to the nearest watt. The expression for calculating P2 is as follows:
-ER08JN16.047
-For coil-only split systems and blower coil split systems for which a furnace or a modular blower is the designated air mover, subtract the low-voltage power (P x) from the heating season total off mode power (P2x) and divide by the number of compressors to calculate P2, the heating season per-compressor off mode power. Round to the nearest watt. The expression for calculating P2 is as follows:
-ER08JN16.048
+For single-package systems and blower coil split systems for which the air mover is not a furnace, divide the heating season total off mode power (P2 x) by the number of compressors to calculate P2, the heating season per-compressor off mode power. Round to the nearest watt. The expression for calculating P2 is as follows:
+ER05JA17.048
+For coil-only split systems and blower coil split systems for which a furnace or a modular blower is the designated air mover, subtract the low-voltage power (P x) from the heating season total off mode power (P2 x) and divide by the number of compressors to calculate P2, the heating season per-compressor off mode power. Round to the nearest watt. The expression for calculating P2 is as follows:
+ER05JA17.049
 4. Calculations of Seasonal Performance Descriptors
-4.1 Seasonal Energy Efficiency Ratio (SEER) Calculations. SEER must be calculated as follows:
-For equipment covered under sections 4.1.2, 4.1.3, and 4.1.4 of this appendix, evaluate the seasonal energy efficiency ratio,
-ER08JN16.049
+4.1 Seasonal Energy Efficiency Ratio (SEER) Calculations. SEER must be calculated as follows: For equipment covered under sections 4.1.2, 4.1.3, and 4.1.4 of this appendix, evaluate the seasonal energy efficiency ratio,
+ER05JA17.050
+where:
+ER05JA17.051
+Tj = the outdoor bin temperature, °F. Outdoor temperatures are grouped or "binned." Use bins of 5 °F with the 8 cooling season bin temperatures being 67, 72, 77, 82, 87, 92, 97, and 102 °F.
+j = the bin number. For cooling season calculations, j ranges from 1 to 8.
 Additionally, for sections 4.1.2, 4.1.3, and 4.1.4 of this appendix, use a building cooling load, BL(Tj). When referenced, evaluate BL(Tj) for cooling using,
-ER08JN16.050
-Where:
+ER05JA17.052
+where:
 Q c k=2(95) = the space cooling capacity determined from the A2 test and calculated as specified in section 3.3 of this appendix, Btu/h.
 1.1 = sizing factor, dimensionless.
 The temperatures 95 °F and 65 °F in the building load equation represent the selected outdoor design temperature and the zero-load base temperature, respectively.
 4.1.1 SEER Calculations for a Blower Coil System Having a Single-Speed Compressor and Either a Fixed-Speed Indoor Blower or a Constant-Air-Volume-Rate Indoor Blower, or a Coil-Only System Air Conditioner or Heat Pump
 a. Evaluate the seasonal energy efficiency ratio, expressed in units of Btu/watt-hour, using:
 SEER = PLF(0.5) * EER B
-Where:
-ER08JN16.051
+where:
+ER05JA17.053
 PLF(0.5) = 1 − 0.5 · CD c, the part-load performance factor evaluated at a cooling load factor of 0.5, dimensionless.
 b. Refer to section 3.3 of this appendix regarding the definition and calculation of Q c(82) and E c(82). Evaluate the cooling mode cyclic degradation factor CD c as specified in section 3.5.3 of this appendix.
 4.1.2 SEER Calculations for an Air Conditioner or Heat Pump Having a Single-Speed Compressor and a Variable-Speed Variable-Air-Volume-Rate Indoor Blower
-4.1.2.1 Units covered by section 3.2.2.1 of this appendix where indoor blower capacity modulation correlates with the outdoor dry bulb temperature. The manufacturer must provide information on how the indoor air volume rate or the indoor blower speed varies over the outdoor temperature range of 67 °F to 102 °F. Calculate SEER using Equation 4.1-1. Evaluate the quantity qc(Tj)/N in Equation 4.1-1 using,
-ER08JN16.052
-a. For the space cooling season, assign nj/N as specified in Table 18. Use Equation 4.1-2 to calculate the building load, BL(Tj). Evaluate Q c(Tj) using,
-ER08JN16.053
+4.1.2.1 Units Covered by Section 3.2.2.1 of This Appendix Where Indoor Blower Capacity Modulation Correlates With the Outdoor Dry Bulb Temperature
+The manufacturer must provide information on how the indoor air volume rate or the indoor blower speed varies over the outdoor temperature range of 67 °F to 102 °F. Calculate SEER using Equation 4.1-1. Evaluate the quantity qc(Tj)/N in Equation 4.1-1 using,
+ER05JA17.054
+where:
+ER05JA17.055
+Q c(Tj) = the space cooling capacity of the test unit when operating at outdoor temperature, Tj, Btu/h.
+nj/N = fractional bin hours for the cooling season; the ratio of the number of hours during the cooling season when the outdoor temperature fell within the range represented by bin temperature Tj to the total number of hours in the cooling season, dimensionless.
+a. For the space cooling season, assign nj/N as specified in Table 19. Use Equation 4.1-2 to calculate the building load, BL(Tj). Evaluate Q c(Tj) using,
+ER05JA17.056
+where:
+ER05JA17.057
+the space cooling capacity of the test unit at outdoor temperature Tj if operated at the cooling minimum air volume rate, Btu/h.
+ER05JA17.058
+the space cooling capacity of the test unit at outdoor temperature Tj if operated at the Cooling full-load air volume rate, Btu/h.
 b. For units where indoor blower speed is the primary control variable, FPc k=1 denotes the fan speed used during the required A1 and B1 tests (see section 3.2.2.1 of this appendix), FPc k=2 denotes the fan speed used during the required A2 and B2 tests, and FPc(Tj) denotes the fan speed used by the unit when the outdoor temperature equals Tj. For units where indoor air volume rate is the primary control variable, the three FPc's are similarly defined only now being expressed in terms of air volume rates rather than fan speeds. Refer to sections 3.2.2.1, 3.1.4 to 3.1.4.2, and 3.3 of this appendix regarding the definitions and calculations of Q c k=1(82), Q c k=1(95), Q c k=2(82), and Q c k=2(95).
-ER08JN16.054
-Where:
+ER05JA17.059
+where:
 PLFj = 1 − CD c · [1 − X(Tj)], the part load factor, dimensionless.
 E c(Tj) = the electrical power consumption of the test unit when operating at outdoor temperature Tj, W.
 c. The quantities X(Tj) and nj/N are the same quantities as used in Equation 4.1.2-1. Evaluate the cooling mode cyclic degradation factor CD c as specified in section 3.5.3 of this appendix.
 d. Evaluate E c(Tj) using,
-ER08JN16.055
+ER05JA17.060
 e. The parameters FPc k=1, and FPc k=2, and FPc(Tj) are the same quantities that are used when evaluating Equation 4.1.2-2. Refer to sections 3.2.2.1, 3.1.4 to 3.1.4.2, and 3.3 of this appendix regarding the definitions and calculations of E c k=1(82), E c k=1(95), E c k=2(82), and E c k=2(95).
-4.1.2.2 Units Covered by Section 3.2.2.2 of This Appendix Where Indoor Blower Capacity Modulation Is Used To Adjust the Sensible to Total Cooling Capacity Ratio
-Calculate SEER as specified in section 4.1.1 of this appendix.
+4.1.2.2 Units Covered by Section 3.2.2.2 of This Appendix Where Indoor Blower Capacity Modulation Is Used To Adjust the Sensible to Total Cooling Capacity Ratio. Calculate SEER as specified in section 4.1.1 of this appendix.
 4.1.3 SEER Calculations for an Air Conditioner or Heat Pump Having a Two-Capacity Compressor
 Calculate SEER using Equation 4.1-1. Evaluate the space cooling capacity, Q c k=1 (Tj), and electrical power consumption, E c k=1 (Tj), of the test unit when operating at low compressor capacity and outdoor temperature Tj using,
-ER08JN16.056
+ER05JA17.061
+ER05JA17.062
 where Q c k=1 (82) and E c k=1 (82) are determined from the B1 test, Q c k=1 (67) and E c k=1 (67) are determined from the F1 test, and all four quantities are calculated as specified in section 3.3 of this appendix. Evaluate the space cooling capacity, Q c k=2 (Tj), and electrical power consumption, E c k=2 (Tj), of the test unit when operating at high compressor capacity and outdoor temperature Tj using,
-ER08JN16.057
+ER05JA17.063
+ER05JA17.064
 where Q c k=2(95) and E c k=2(95) are determined from the A2 test, Q c k=2(82), and E c k=2(82), are determined from the B2test, and all are calculated as specified in section 3.3 of this appendix.
-The calculation of Equation 4.1-1 quantities qc(Tj)/N and ec(Tj)/N differs depending on whether the test unit would operate at low capacity (section 4.1.3.1 of this appendix), cycle between low and high capacity (section 4.1.3.2 of this appendix), or operate at high capacity (sections 4.1.3.3 and 4.1.3.4 of this appendix) in responding to the building load. For units that lock out low capacity operation at higher outdoor temperatures, the manufacturer must supply information regarding this temperature so that the appropriate equations are used. Use Equation 4.1-2 to calculate the building load, BL(Tj), for each temperature bin.
-4.1.3.1 Steady-state space cooling capacity at low compressor capacity is greater than or equal to the building cooling load at temperature Tj, Q c k=1(Tj) ≥BL(Tj).
-nj/N = fractional bin hours for the cooling season; the ratio of the number of hours during the cooling season when the outdoor temperature fell within the range represented by bin temperature Tj to the total number of hours in the cooling season, dimensionless.
-Obtain the fractional bin hours for the cooling season, nj/N, from Table 18. Use Equations 4.1.3-1 and 4.1.3-2, respectively, to evaluate Q c k=1(Tj) and Ėc k=1(Tj). Evaluate the cooling mode cyclic degradation factor CD c as specified in section 3.5.3 of this appendix.
-Table 18—Distribution of Fractional Hours Within Cooling Season Temperature Bins
-Bin number, j | Bintemperature range, °F | Representativetemperature for bin, °F | Fractionof total temperature bin hours, nj/N
+The calculation of Equation 4.1-1 quantities qc(Tj)/N and ec(Tj)/N differs depending on whether the test unit would operate at low capacity (section 4.1.3.1 of this appendix), cycle between low and high capacity (section 4.1.3.2 of this appendix), or operate at high capacity (sections 4.1.3.3 and 4.1.3.4 of this appendix) in responding to the building load. For units that lock out low capacity operation at higher outdoor temperatures, the outdoor temperature at which the unit locks out must be that specified by the manufacturer in the certification report so that the appropriate equations are used. Use Equation 4.1-2 to calculate the building load, BL(Tj), for each temperature bin.
+4.1.3.1 Steady-State Space Cooling Capacity at Low Compressor Capacity Is Greater Than or Equal to the Building Cooling Load at Temperature Tj, Q c k=1(Tj) ≥BL(Tj)
+ER05JA17.065
+where:
+Xk=1(Tj) = BL(Tj)/Q c k=1(Tj), the cooling mode low capacity load factor for temperature bin j, dimensionless.
+PLFj = 1 − CD c · [1 − Xk=1(Tj)], the part load factor, dimensionless.
+ER05JA17.066
+Obtain the fractional bin hours for the cooling season, nj/N, from Table 19. Use Equations 4.1.3-1 and 4.1.3-2, respectively, to evaluate Q c k=1(Tj) and E c k=1(Tj). Evaluate the cooling mode cyclic degradation factor CD c as specified in section 3.5.3 of this appendix.
+Table 19—Distribution of Fractional Hours Within Cooling Season Temperature Bins
+Bin number,j | Bintemperature range °F | Representative temperature for bin°F | Fraction of of totaltemperature bin hours, nj/N
 1 | 65-69 | 67 | 0.214
 2 | 70-74 | 72 | 0.231
 3 | 75-79 | 77 | 0.216
@@ -1016,75 +1090,93 @@ Bin number, j | Bintemperature range, °F | Representativetemperature for bin, �
 6 | 90-94 | 92 | 0.052
 7 | 95-99 | 97 | 0.018
 8 | 100-104 | 102 | 0.004
-4.1.3.2 Unit alternates between high (k=2) and low (k=1) compressor capacity to satisfy the building cooling load at temperature Tj, Q c k=1(Tj) <BL(Tj) <Q c k=2(Tj).
-ER08JN16.061
+4.1.3.2 Unit Alternates Between High (k=2) and Low (k=1) Compressor Capacity To Satisfy the Building Cooling Load at Temperature Tj, Q c k=1(Tj) BL(Tj) Q c k=2(Tj)
+ER05JA17.067
+ER05JA17.068
 Xk=2(Tj) = 1 − Xk=1(Tj), the cooling mode, high capacity load factor for temperature bin j, dimensionless.
-Obtain the fractional bin hours for the cooling season, nj/N, from Table 18. Use Equations 4.1.3-1 and 4.1.3-2, respectively, to evaluate Q c k=1(Tj) and E c k=1(Tj). Use Equations 4.1.3-3 and 4.1.3-4, respectively, to evaluate Q c k=2(Tj) and E c k=2(Tj).
-4.1.3.3 Unit only operates at high (k = 2) compressor capacity at temperature Tj and its capacity is greater than the building cooling load, BL(Tj) <Q c k=2(Tj). This section applies to units that lock out low compressor capacity operation at higher outdoor temperatures.
-ER08JN16.062
-Where:
+Obtain the fractional bin hours for the cooling season, nj/N, from Table 19. Use Equations 4.1.3-1 and 4.1.3-2, respectively, to evaluate Q c k=1(Tj) and E c k=1(Tj). Use Equations 4.1.3-3 and 4.1.3-4, respectively, to evaluate Q c k=2(Tj) and E c k=2(Tj).
+4.1.3.3 Unit Only Operates at High (k=2) Compressor Capacity at Temperature Tj and Its Capacity Is Greater Than the Building Cooling Load, BL(Tj) Q c k=2(Tj). This section applies to units that lock out low compressor capacity operation at higher outdoor temperatures.
+ER05JA17.069
+where:
 Xk=2(Tj) = BL(Tj)/Q c k=2(Tj), the cooling mode high capacity load factor for temperature bin j, dimensionless.
-PLF j = 1 − C D c(k = 2) * [1 − X k=2(T j) the part load factor, dimensionless.
-ER08JN16.063
-4.1.3.4 Unit must operate continuously at high (k = 2) compressor capacity at temperature Tj, BL(Tj) ≥Q c k=2(Tj).
-ER08JN16.064
-Obtain the fractional bin hours for the cooling season, nj/N, from Table 18. Use Equations 4.1.3-3 and 4.1.3-4, respectively, to evaluate Q c k=2(Tj) and E c k=2(Tj).
+PLF j = 1 − C D c(k = 2) * [1 − X k=2(Tj) the part load factor, dimensionless.
+ER05JA17.070
+4.1.3.4 Unit Must Operate Continuously at High (k=2) Compressor Capacity at Temperature Tj, BL(Tj) ≥Q c k=2(Tj)
+ER05JA17.071
+Obtain the fractional bin hours for the cooling season, nj/N, from Table 19. Use Equations 4.1.3-3 and 4.1.3-4, respectively, to evaluate Q c k=2(Tj) and E c k=2(Tj).
 4.1.4 SEER Calculations for an Air Conditioner or Heat Pump Having a Variable-Speed Compressor
 Calculate SEER using Equation 4.1-1. Evaluate the space cooling capacity, Q c k=1(Tj), and electrical power consumption, E c k=1(Tj), of the test unit when operating at minimum compressor speed and outdoor temperature Tj. Use,
-ER08JN16.065
-where Q c k=1(82) and E c k=1(82) are determined from the B1 test, Q c k=1(67) and E c k=1(67) are determined from the F1 test, and all four quantities are calculated as specified in section 3.3 of this appendix. Evaluate the space cooling capacity, Q c k=2(Tj), and electrical power consumption, E c k=2(Tj), of the test unit when operating at full compressor speed and outdoor temperature Tj. Use Equations 4.1.3-3 and 4.1.3-4, respectively, where Q c k=2(95) and E c k=2(95) are determined from the A2 test, Q c k=2(82) and E c k=2(82) are determined from the B2 test, and all four quantities are calculated as specified in section 3.3 of this appendix. Calculate the space cooling capacity, Q c k=v(Tj), and electrical power consumption, E c k=v(Tj), of the test unit when operating at outdoor temperature Tj and the intermediate compressor speed used during the section 3.2.4 (and Table 7) EV test of this appendix using,
-Equation 4.1.4-3 Q c k=v(T j) = Q c k=v(87) + M Q * (T j − 87)
-Equation 4.1.4-4 E c k=v(T j) = E h k=v(87) + M E * (T j − 87)
+ER05JA17.072
+ER05JA17.073
+where Q c k=1(82) and E c k=1(82) are determined from the B1 test, Q c k=1(67) and E c k=1(67) are determined from the F1 test, and all four quantities are calculated as specified in section 3.3 of this appendix.
+Evaluate the space cooling capacity, Q c k=2(Tj), and electrical power consumption, E c k=2(Tj), of the test unit when operating at full compressor speed and outdoor temperature Tj. Use Equations 4.1.3-3 and 4.1.3-4, respectively, where Q c k=2(95) and E c k=2(95) are determined from the A2 test, Q c k=2(82) and E c k=2(82) are determined from the B2 test, and all four quantities are calculated as specified in section 3.3 of this appendix. Calculate the space cooling capacity, Q c k=v(Tj), and electrical power consumption, E c k=v(Tj), of the test unit when operating at outdoor temperature Tj and the intermediate compressor speed used during the section 3.2.4 (and Table 8) EV test of this appendix using,
+ER05JA17.074
+ER05JA17.075
 where Q c k=v(87) and E c k=v(87) are determined from the EV test and calculated as specified in section 3.3 of this appendix. Approximate the slopes of the k=v intermediate speed cooling capacity and electrical power input curves, MQ and ME, as follows:
-ER08JN16.066
+ER05JA17.076
 Use Equations 4.1.4-1 and 4.1.4-2, respectively, to calculate Q c k=1(87) and E c k=1(87).
-4.1.4.1 Steady-state space cooling capacity when operating at minimum compressor speed is greater than or equal to the building cooling load at temperature Tj, Q c k=1(Tj) ≥BL(Tj).
-ER08JN16.067
-Where:
+4.1.4.1 Steady-State Space Cooling Capacity When Operating at Minimum Compressor Speed Is Greater Than or Equal to the Building Cooling Load at Temperature Tj, Q c k=1(Tj) ≥BL(Tj)
+ER05JA17.077
+where:
 Xk=1(Tj) = BL(Tj)/Q c k=1(Tj), the cooling mode minimum speed load factor for temperature bin j, dimensionless.
 PLFj = 1 − CD c · [1 − Xk=1(Tj)], the part load factor, dimensionless.
 nj/N = fractional bin hours for the cooling season; the ratio of the number of hours during the cooling season when the outdoor temperature fell within the range represented by bin temperature Tj to the total number of hours in the cooling season, dimensionless.
-Obtain the fractional bin hours for the cooling season, nj/N, from Table 18. Use Equations 4.1.3-1 and 4.1.3-2, respectively, to evaluate Q c k=l (Tj) and E c k=l (Tj). Evaluate the cooling mode cyclic degradation factor CD c as specified in section 3.5.3 of this appendix.
-4.1.4.2 Unit operates at an intermediate compressor speed (k=i) in order to match the building cooling load at temperature Tj,Q c k=1(Tj) <BL(Tj) <Q c k=2(Tj).
-ER08JN16.068
-Where:
+Obtain the fractional bin hours for the cooling season, nj/N, from Table 19. Use Equations 4.1.3-1 and 4.1.3-2, respectively, to evaluate Q c k=l (Tj) and E c k=l (Tj). Evaluate the cooling mode cyclic degradation factor CD c as specified in section 3.5.3 of this appendix.
+4.1.4.2 Unit Operates at an Intermediate Compressor Speed (k=i) In Order To Match the Building Cooling Load at Temperature Tj,Q c k=1(Tj) BL(Tj) Q c k=2(Tj)
+ER05JA17.078
+where:
 Q c k=i(Tj) = BL(Tj), the space cooling capacity delivered by the unit in matching the building load at temperature Tj, Btu/h. The matching occurs with the unit operating at compressor speed k = i.
-ER08JN16.069
+ER05JA17.079
 EERk=i(Tj) = the steady-state energy efficiency ratio of the test unit when operating at a compressor speed of k = i and temperature Tj, Btu/h per W.
-Obtain the fractional bin hours for the cooling season, nj/N, from Table 18. For each temperature bin where the unit operates at an intermediate compressor speed, determine the energy efficiency ratio EERk=i(Tj) using,
+Obtain the fractional bin hours for the cooling season, nj/N, from Table 19. For each temperature bin where the unit operates at an intermediate compressor speed, determine the energy efficiency ratio EERk=i(Tj) using,
 EERk=i(Tj) = A + B · Tj + C · Tj 2.
 For each unit, determine the coefficients A, B, and C by conducting the following calculations once:
-ER08JN16.070
-Where:
-T1 = the outdoor temperature at which the unit, when operating at minimum compressor speed, provides a space cooling capacity that is equal to the building load (Q c k=l (Tl) = BL(T1)), °F. Determine T1 by equating Equations 4.1.3-1 and 4.1-2 and solving for outdoor temperature.
-Tv = the outdoor temperature at which the unit, when operating at the intermediate compressor speed used during the section 3.2.4 EV test of this appendix, provides a space cooling capacity that is equal to the building load (Q c k=v (Tv) = BL(Tv)), °F. Determine Tv by equating Equations 4.1.4-3 and 4.1-2 and solving for outdoor temperature.
-T2 = the outdoor temperature at which the unit, when operating at full compressor speed, provides a space cooling capacity that is equal to the building load (Q c k=2 (T2) = BL(T2)), °F. Determine T2 by equating Equations 4.1.3-3 and 4.1-2 and solving for outdoor temperature.
-ER08JN16.071
-4.1.4.3 Unit must operate continuously at full (k = 2) compressor speed at temperature Tj, BL(Tj) ≥Q c k=2(Tj). Evaluate the Equation 4.1-1 quantities
-ER08JN16.072
+ER05JA17.080
+where:
+T1 = the outdoor temperature at which the unit, when operating at minimum compressor speed, provides a space cooling capacity that is equal to the building load (Q c k=l(Tl) = BL(T1)), °F. Determine T1 by equating Equations 4.1.3-1 and 4.1-2 and solving for outdoor temperature.
+Tv = the outdoor temperature at which the unit, when operating at the intermediate compressor speed used during the section 3.2.4 EV test of this appendix, provides a space cooling capacity that is equal to the building load (Q c k=v(Tv) = BL(Tv)), °F. Determine Tv by equating Equations 4.1.4-3 and 4.1-2 and solving for outdoor temperature.
+T2 = the outdoor temperature at which the unit, when operating at full compressor speed, provides a space cooling capacity that is equal to the building load (Q c k=2(T2) = BL(T2)), °F. Determine T2 by equating Equations 4.1.3-3 and 4.1-2 and solving for outdoor temperature.
+ER05JA17.081
+4.1.4.3 Unit Must Operate Continuously at Full (k=2) Compressor Speed at Temperature Tj, BL(Tj)≥Q c k=2(Tj). Evaluate the Equation 4.1-1 Quantities
+ER05JA17.082
 as specified in section 4.1.3.4 of this appendix with the understanding that Q c k=2(Tj) and E c k=2(Tj) correspond to full compressor speed operation and are derived from the results of the tests specified in section 3.2.4 of this appendix.
 4.1.5 SEER Calculations for an Air Conditioner or Heat Pump Having a Single Indoor Unit With Multiple Indoor Blowers
 Calculate SEER using Eq. 4.1-1, where qc(Tj)/N and ec(Tj)/N are evaluated as specified in the applicable subsection.
 4.1.5.1 For Multiple Indoor Blower Systems That Are Connected to a Single, Single-Speed Outdoor Unit
-a. Calculate the space cooling capacity, Q c k =1(T j), and electrical power consumption, E c k =1(T j), of the test unit when operating at the cooling minimum air volume rate and outdoor temperature Tj using the equations given in section 4.1.2.1 of this appendix. Calculate the space cooling capacity, Q c k =2(T j), and electrical power consumption, E c k =2(T j), of the test unit when operating at the cooling full-load air volume rate and outdoor temperature Tj using the equations given in section 4.1.2.1 of this appendix. In evaluating the section 4.1.2.1 equations, determine the quantities Q c k =1(82) and E c k =1(82) from the B1 test, Q c k =1(95) and E c k =1(95) from the Al test, Q c k =2(82) and E c k =2(82) from the B2 test, and Q c k =2(95) and E c k =2(95) from the A2 test. Evaluate all eight quantities as specified in section 3.3 of this appendix. Refer to section 3.2.2.1 and Table 5 of this appendix for additional information on the four referenced laboratory tests.
+a. Calculate the space cooling capacity, Q c k =1(T j), and electrical power consumption, E c k =1(T j), of the test unit when operating at the cooling minimum air volume rate and outdoor temperature Tj using the equations given in section 4.1.2.1 of this appendix. Calculate the space cooling capacity, Q c k =2(T j), and electrical power consumption, E c k =2(T j), of the test unit when operating at the cooling full-load air volume rate and outdoor temperature Tj using the equations given in section 4.1.2.1 of this appendix. In evaluating the section 4.1.2.1 equations, determine the quantities Q c k =1(82) and E c k =1(82) from the B1 test, Q c k =1(95) and E c k =1(95) from the Al test, Q c k =2(82) and E c k =2(82) from the B2 test, andQ c k =2(95) and E c k =2(95) from the A2 test. Evaluate all eight quantities as specified in section 3.3 of this appendix. Refer to section 3.2.2.1 and Table 6 of this appendix for additional information on the four referenced laboratory tests.
 b. Determine the cooling mode cyclic degradation coefficient, CDc, as per sections 3.2.2.1 and 3.5 to 3.5.3 of this appendix. Assign this same value to CDc(K=2).
-c. Except for using the above values of Q c k =1(T j), E c k =1(T j), E c k =2(T j), Q c k =2(T j), CDc, and CDc (K=2), calculate the quantities qc(Tj)/N and ec(Tj)/N as specified in section 4.1.3.1 of this appendix for cases where Q c k =1(T j) ≥ BL(Tj). For all other outdoor bin temperatures, Tj, calculate qc(Tj)/N and ec(Tj)/N as specified in section 4.1.3.3 of this appendix if Q c k =2(T j) > BL(Tj) or as specified in section 4.1.3.4 of this appendix if Q c k =2(T j) ≤ BL(Tj).
-4.1.5.2 For multiple indoor blower systems that are connected to either a lone outdoor unit having a two-capacity compressor or to two separate single-speed outdoor units of identical model, calculate the quantities qc(Tj)/N and ec(Tj)/N as specified in section 4.1.3 of this appendix.
-4.2 Heating Seasonal Performance Factor (HSPF) Calculations
-Unless an approved alternative efficiency determination method is used, as set forth in 10 CFR 429.70(e), HSPF must be calculated as follows: Six generalized climatic regions are depicted in Figure 1 and otherwise defined in Table 19. For each of these regions and for each applicable standardized design heating requirement, evaluate the heating seasonal performance factor using,
-ER08JN16.073
+c. Except for using the above values of Q c k =1(T j), E c k =1(T j), E c k =2(T j), Q c k =2(T j), CDc, and CDc (K=2), calculate the quantities qc(Tj)/N and ec(Tj)/N as specified in section 4.1.3.1 of this appendix for cases where Q c k =1(T j) ≥BL(Tj). For all other outdoor bin temperatures, Tj, calculate qc(Tj)/N and ec(Tj)/N as specified in section 4.1.3.3 of this appendix if Q c k =2(T j) >BL (Tj) or as specified in section 4.1.3.4 of this appendix if Q c k =2(T j) ≤BL(Tj).
+4.1.5.2 Unit Operates at an Intermediate Compressor Speed (k=i) In Order To Match the Building Cooling Load at Temperature Tj,Q c k=1(Tj) <BL(Tj) <Q c k=2(Tj)
+ER05JA17.083
+where,
+Q c k=i(Tj) = BL(Tj), the space cooling capacity delivered by the unit in matching the building load at temperature Tj, Btu/h. The matching occurs with the unit operating at compressor speed k = i.
+ER05JA17.084
+EERk=i(Tj), the steady-state energy efficiency ratio of the test unit when operating at a compressor speed of k = i and temperature Tj, Btu/h per W.
+Obtain the fractional bin hours for the cooling season, nj/N, from Table 19. For each temperature bin where the unit operates at an intermediate compressor speed, determine the energy efficiency ratio EERk=i(Tj) using the following equations,
+For each temperature bin where Q c k=1(Tj) <BL(Tj) <Q c k=v(Tj),
+ER05JA17.085
+For each temperature bin where Q c k=v(Tj) ≤BL(Tj) <Q c k=2(Tj),
+ER05JA17.086
 Where:
-eh(Tj)/N = The ratio of the electrical energy consumed by the heat pump during periods of the space heating season when the outdoor temperature fell within the range represented by bin temperature Tj to the total number of hours in the heating season (N), W. For heat pumps having a heat comfort controller, this ratio may also include electrical energy used by resistive elements to maintain a minimum air delivery temperature (see 4.2.5).
+EERk=1(Tj) is the steady-state energy efficiency ratio of the test unit when operating at minimum compressor speed and temperature Tj, Btu/h per W, calculated using capacity Q c k=1(Tj) calculated using Equation 4.1.4-1 and electrical power consumption E c k=1(Tj) calculated using Equation 4.1.4-2;
+EERk =v(Tj) is the steady-state energy efficiency ratio of the test unit when operating at intermediate compressor speed and temperature Tj, Btu/h per W, calculated using capacity Q c k=v(Tj) calculated using Equation 4.1.4-3 and electrical power consumption E c k=v(Tj) calculated using Equation 4.1.4-4;
+EERk=2(Tj) is the steady-state energy efficiency ratio of the test unit when operating at full compressor speed and temperature Tj, Btu/h per W, calculated using capacity Q c k=2(Tj) and electrical power consumption E c k=2(Tj), both calculated as described in section 4.1.4; and
+BL(Tj) is the building cooling load at temperature Tj, Btu/h.
+4.2 Heating Seasonal Performance Factor (HSPF) Calculations
+Unless an approved alternative efficiency determination method is used, as set forth in 10 CFR 429.70(e), HSPF must be calculated as follows: Six generalized climatic regions are depicted in Figure 1 and otherwise defined in Table 20. For each of these regions and for each applicable standardized design heating requirement, evaluate the heating seasonal performance factor using,
+ER05JA17.087
+where:
+e2(Tj)/N = The ratio of the electrical energy consumed by the heat pump during periods of the space heating season when the outdoor temperature fell within the range represented by bin temperature Tj to the total number of hours in the heating season (N), W. For heat pumps having a heat comfort controller, this ratio may also include electrical energy used by resistive elements to maintain a minimum air delivery temperature (see 4.2.5).
 RH(Tj)/N = The ratio of the electrical energy used for resistive space heating during periods when the outdoor temperature fell within the range represented by bin temperature Tj to the total number of hours in the heating season (N), W. Except as noted in section 4.2.5 of this appendix, resistive space heating is modeled as being used to meet that portion of the building load that the heat pump does not meet because of insufficient capacity or because the heat pump automatically turns off at the lowest outdoor temperatures. For heat pumps having a heat comfort controller, all or part of the electrical energy used by resistive heaters at a particular bin temperature may be reflected in eh(Tj)/N (see section 4.2.5 of this appendix).
 Tj = the outdoor bin temperature, °F. Outdoor temperatures are "binned" such that calculations are only performed based one temperature within the bin. Bins of 5 °F are used.
-nj/N = Fractional bin hours for the heating season; the ratio of the number of hours during the heating season when the outdoor temperature fell within the range represented by bin temperature Tj to the total number of hours in the heating season, dimensionless. Obtain nj/N values from Table 19.
+nj/N= Fractional bin hours for the heating season; the ratio of the number of hours during the heating season when the outdoor temperature fell within the range represented by bin temperature Tj to the total number of hours in the heating season, dimensionless. Obtain nj/N values from Table 20.
 j = the bin number, dimensionless.
-J = for each generalized climatic region, the total number of temperature bins, dimensionless. Referring to Table 19, J is the highest bin number (j) having a nonzero entry for the fractional bin hours for the generalized climatic region of interest.
+J = for each generalized climatic region, the total number of temperature bins, dimensionless. Referring to Table 20, J is the highest bin number (j) having a nonzero entry for the fractional bin hours for the generalized climatic region of interest.
 Fdef = the demand defrost credit described in section 3.9.2 of this appendix, dimensionless.
 BL(Tj) = the building space conditioning load corresponding to an outdoor temperature of Tj; the heating season building load also depends on the generalized climatic region's outdoor design temperature and the design heating requirement, Btu/h.
-Table 19—Generalized Climatic Region Information
-Region No. | I | II | III | IV | V | VI
-Heating Load Hours, HLH | 750 | 1,250 | 1,750 | 2,250 | 2,750 | * 2,750
+Table 20—Generalized Climatic Region Information
+| Region No. | I | II | III | IV | V | VI
+Heating Load Hours, HLH | 750 | 1,250 | 1,750 | 2,250 | 2,750 | *2,750
 Outdoor Design Temperature, TOD | 37 | 27 | 17 | 5 | −10 | 30
 j Tj (°F) | Fractional Bin Hours, nj/N
 1 62 | .291 | .215 | .153 | .132 | .106 | .113
@@ -1107,213 +1199,233 @@ j Tj (°F) | Fractional Bin Hours, nj/N
 18 −23 | 0 | 0 | 0 | 0 | .001 | 0
 * Pacific Coast Region.
 Evaluate the building heating load using
-ER08JN16.074
+ER05JA17.088
 Where:
-TOD = the outdoor design temperature, °F. An outdoor design temperature is specified for each generalized climatic region in Table 19.
+TOD = the outdoor design temperature, °F. An outdoor design temperature is specified for each generalized climatic region in Table 20.
 C = 0.77, a correction factor which tends to improve the agreement between calculated and measured building loads, dimensionless.
 DHR = the design heating requirement (see section 1.2 of this appendix, Definitions), Btu/h.
 Calculate the minimum and maximum design heating requirements for each generalized climatic region as follows:
-ER08JN16.075
+ER05JA17.089
 where Q h k(47) is expressed in units of Btu/h and otherwise defined as follows:
 a. For a single-speed heat pump tested as per section 3.6.1 of this appendix, Q h k(47) = Q h(47), the space heating capacity determined from the H1 test.
-b. For a variable-speed heat pump, a section 3.6.2 single-speed heat pump, or a two-capacity heat pump not covered by item 3, Q n k(47) = Q n k=2(47), the space heating capacity determined from the H12 test.
-c. For two-capacity, northern heat pumps (see section 1.2 of this appendix, Definitions), Q k h(47) = Q k=1 h(47), the space heating capacity determined from the H11 test.
-If the optional H1N test is conducted on a variable-speed heat pump, the manufacturer has the option of defining Q k h(47) as specified above in item 2 or as Q k h(47) = Q k = N h(47), the space heating capacity determined from the H1N test.
+b. For a section 3.6.2 single-speed heat pump or a two-capacity heat pump not covered by item d, Q h k(47)=Q h k=2(47), the space heating capacity determined from the H1 or H12 test.
+c. For a variable-speed heat pump, Q h k(47)=Q h k=N(47), the space heating capacity determined from the H1N test.
+d. For two-capacity, northern heat pumps (see section 1.2 of this appendix, Definitions), Q k h(47)=Q k=1 h(47), the space heating capacity determined from the H11 test.
 For all heat pumps, HSPF accounts for the heating delivered and the energy consumed by auxiliary resistive elements when operating below the balance point. This condition occurs when the building load exceeds the space heating capacity of the heat pump condenser. For HSPF calculations for all heat pumps, see either section 4.2.1, 4.2.2, 4.2.3, or 4.2.4 of this appendix, whichever applies.
 For heat pumps with heat comfort controllers (see section 1.2 of this appendix, Definitions), HSPF also accounts for resistive heating contributed when operating above the heat-pump-plus-comfort-controller balance point as a result of maintaining a minimum supply temperature. For heat pumps having a heat comfort controller, see section 4.2.5 of this appendix for the additional steps required for calculating the HSPF.
-Table 20—Standardized Design Heating Requirements
+Table 21—Standardized Design Heating Requirements
 [Btu/h]
-|
-5,000 | 50,000
-10,000 | 60,000
-15,000 | 70,000
-20,000 | 80,000
-25,000 | 90,000
-30,000 | 100,000
-35,000 | 110,000
-40,000 | 130,000
-4.2.1 Additional steps for calculating the HSPF of a blower coil system heat pump having a single-speed compressor and either a fixed-speed indoor blower or a constant-air-volume-rate indoor blower installed, or a coil-only system heat pump.
-ER08JN16.076
-ER08JN16.077
+5,000
+10,000
+15,000
+20,000
+25,000
+30,000
+35,000
+40,000
+50,000
+60,000
+70,000
+80,000
+90,000
+100,000
+110,000
+130,000
+4.2.1 Additional Steps for Calculating the HSPF of a Blower Coil System Heat Pump Having a Single-Speed Compressor and Either a Fixed-Speed Indoor Blower or a Constant-Air-Volume-Rate Indoor Blower Installed, or a Coil-Only System Heat Pump
+ER05JA17.090
+ER05JA17.091
+Where:
+ER05JA17.092
 whichever is less; the heating mode load factor for temperature bin j, dimensionless.
 Q h(Tj) = the space heating capacity of the heat pump when operating at outdoor temperature Tj, Btu/h.
 E h(Tj) = the electrical power consumption of the heat pump when operating at outdoor temperature Tj, W.
 δ(Tj) = the heat pump low temperature cut-out factor, dimensionless.
 PLFj = 1 − C D h · [1 −X(Tj)] the part load factor, dimensionless.
-Use Equation 4.2-2 to determine BL(Tj). Obtain fractional bin hours for the heating season, nj/N, from Table 19. Evaluate the heating mode cyclic degradation factor ĊD h as specified in section 3.8.1 of this appendix.
+Use Equation 4.2-2 to determine BL(Tj). Obtain fractional bin hours for the heating season, nj/N, from Table 20. Evaluate the heating mode cyclic degradation factor C D h as specified in section 3.8.1 of this appendix.
 Determine the low temperature cut-out factor using
-ER08JN16.078
+ER05JA17.093
 Where:
 Toff = the outdoor temperature when the compressor is automatically shut off, °F. (If no such temperature exists, Tj is always greater than Toff and Ton).
 Ton = the outdoor temperature when the compressor is automatically turned back on, if applicable, following an automatic shut-off, °F.
 Calculate Q h(Tj) and E h(Tj) using,
-ER08JN16.079
+ER05JA17.094
+ER05JA17.095
 where Q h(47) and E h(47) are determined from the H1 test and calculated as specified in section 3.7 of this appendix; Q h(35) and E h(35) are determined from the H2 test and calculated as specified in section 3.9.1 of this appendix; and Q h(17) and E h(17) are determined from the H3 test and calculated as specified in section 3.10 of this appendix.
-4.2.2 Additional steps for calculating the HSPF of a heat pump having a single-speed compressor and a variable-speed, variable-air-volume-rate indoor blower.
+4.2.2 Additional Steps for Calculating the HSPF of a Heat Pump Having a Single-Speed Compressor and a Variable-Speed, Variable-Air-Volume-Rate Indoor Blower
 The manufacturer must provide information about how the indoor air volume rate or the indoor blower speed varies over the outdoor temperature range of 65 °F to −23 °F. Calculate the quantities
-ER08JN16.080
+ER05JA17.096
 in Equation 4.2-1 as specified in section 4.2.1 of this appendix with the exception of replacing references to the H1C test and section 3.6.1 of this appendix with the H1C1 test and section 3.6.2 of this appendix. In addition, evaluate the space heating capacity and electrical power consumption of the heat pump Q h(Tj) and E h(Tj) using
-ER08JN16.081
-For units where indoor blower speed is the primary control variable, FPh k=1 denotes the fan speed used during the required H11 and H31 tests (see Table 11), FPh k=2 denotes the fan speed used during the required H12, H22, and H32 tests, and FPh(Tj) denotes the fan speed used by the unit when the outdoor temperature equals Tj. For units where indoor air volume rate is the primary control variable, the three FPh's are similarly defined only now being expressed in terms of air volume rates rather than fan speeds. Determine Q h k=1(47) and E h k=1(47) from the H11 test, and Q h k=2(47) and E h k=2(47) from the H12 test. Calculate all four quantities as specified in section 3.7 of this appendix. Determine Q h k=1(35) and E h k=1(35) as specified in section 3.6.2 of this appendix; determine Q h k=2(35) and E h k=2(35) and from the H22 test and the calculation specified in section 3.9 of this appendix. Determine Q h k=1(17) and E h k=1(17 from the H31 test, and Q h k=2(17) and E h k=2(17) from the H32 test. Calculate all four quantities as specified in section 3.10 of this appendix.
+ER05JA17.097
+ER05JA17.098
+where the space heating capacity and electrical power consumption at both low capacity (k=1) and high capacity (k=2) at outdoor temperature Tj are determined using
+ER05JA17.099
+ER05JA17.100
+For units where indoor blower speed is the primary control variable, FPh k=1 denotes the fan speed used during the required H11 and H31 tests (see Table 12), FPh k=2 denotes the fan speed used during the required H12, H22, and H32 tests, and FPh(Tj) denotes the fan speed used by the unit when the outdoor temperature equals Tj. For units where indoor air volume rate is the primary control variable, the three FPh's are similarly defined only now being expressed in terms of air volume rates rather than fan speeds. Determine Q h k=1(47) and E h k=1(47) from the H11 test, and Q h k=2(47) and E h k=2(47) from the H12 test. Calculate all four quantities as specified in section 3.7 of this appendix. Determine Q h k=1(35) and E h k=1(35) as specified in section 3.6.2 of this appendix; determine Q h k=2(35) and E h k=2(35) and from the H22 test and the calculation specified in section 3.9 of this appendix. Determine Q h k=1(17) and E h k=1(17) from the H31 test, and Q h k=2(17) and E h k=2(17) from the H32 test. Calculate all four quantities as specified in section 3.10 of this appendix.
 4.2.3 Additional Steps for Calculating the HSPF of a Heat Pump Having a Two-Capacity Compressor
-The calculation of the Equation 4.2-1 quantities differ depending upon whether the heat pump would operate at low capacity (section 4.2.3.1 of this appendix), cycle between low and high capacity (section 4.2.3.2 of this appendix), or operate at high capacity (sections 4.2.3.3 and 4.2.3.4 of this appendix) in responding to the building load. For heat pumps that lock out low capacity operation at low outdoor temperatures, the manufacturer must supply information regarding the cutoff temperature(s) so that the appropriate equations can be selected.
-ER08JN16.082
+The calculation of the Equation 4.2-1 quantities differ depending upon whether the heat pump would operate at low capacity (section 4.2.3.1 of this appendix), cycle between low and high capacity (section 4.2.3.2 of this appendix), or operate at high capacity (sections 4.2.3.3 and 4.2.3.4 of this appendix) in responding to the building load. For heat pumps that lock out low capacity operation at low outdoor temperatures, the outdoor temperature at which the unit locks out must be that specified by the manufacturer in the certification report so that the appropriate equations can be selected.
+ER05JA17.101
 a. Evaluate the space heating capacity and electrical power consumption of the heat pump when operating at low compressor capacity and outdoor temperature Tj using
-ER08JN16.083
+ER05JA17.102
 b. Evaluate the space heating capacity and electrical power consumption (Q h k=2(Tj) and E h k=2 (Tj)) of the heat pump when operating at high compressor capacity and outdoor temperature Tj by solving Equations 4.2.2-3 and 4.2.2-4, respectively, for k=2. Determine Q h k=1(62) and E h k=1(62) from the H01 test, Q h k=1(47) and E h k=1(47) from the H11 test, and Q h k=2(47) and E h k=2(47) from the H12 test. Calculate all six quantities as specified in section 3.7 of this appendix. Determine Q h k=2(35) and E h k=2(35) from the H22 test and, if required as described in section 3.6.3 of this appendix, determine Q h k=1(35) and E h k=1(35) from the H21 test. Calculate the required 35 °F quantities as specified in section 3.9 of this appendix. Determine Q h k=2(17) and E h k=2(17) from the H32 test and, if required as described in section 3.6.3 of this appendix, determine Q h k=1(17) and E h k=1(17) from the H31 test. Calculate the required 17 °F quantities as specified in section 3.10 of this appendix.
-4.2.3.1 Steady-state space heating capacity when operating at low compressor capacity is greater than or equal to the building heating load at temperature Tj, Q h k=1(Tj) ≥BL(Tj).
-ER08JN16.084
+4.2.3.1 Steady-State Space Heating Capacity When Operating at Low Compressor Capacity is Greater Than or Equal to the Building Heating Load at Temperature Tj, Q h k=1(Tj) ≥BL(Tj)
+ER05JA17.103
+ER05JA17.104
 Where:
 Xk=1(Tj) = BL(Tj)/Q h k=1(Tj), the heating mode low capacity load factor for temperature bin j, dimensionless.
 PLFj = 1 − CD h · [1 − Xk=1(Tj)], the part load factor, dimensionless.
-δ′(Tj) = the low temperature cutoff factor, dimensionless. Evaluate the heating mode cyclic degradation factor CD h as specified in section 3.8.1 of this appendix.
+δ′(Tj) = the low temperature cutoff factor, dimensionless.
+Evaluate the heating mode cyclic degradation factor CD h as specified in section 3.8.1 of this appendix.
 Determine the low temperature cut-out factor using
-ER08JN16.085
+ER05JA17.105
 where Toff and Ton are defined in section 4.2.1 of this appendix. Use the calculations given in section 4.2.3.3 of this appendix, and not the above, if:
 a. The heat pump locks out low capacity operation at low outdoor temperatures and
 b. Tj is below this lockout threshold temperature.
-4.2.3.2 Heat pump alternates between high (k=2) and low (k=1) compressor capacity to satisfy the building heating load at a temperature Tj, Q h k=1(Tj) <BL(Tj) <Q h k=2(Tj).
-ER08JN16.086
+4.2.3.2 Heat Pump Alternates Between High (k=2) and Low (k=1) Compressor Capacity To Satisfy the Building Heating Load at a Temperature Tj, Q h k=1(Tj) <BL(Tj) <Q h k=2(Tj)
+ER05JA17.106
+Xk=2(Tj) = 1 − Xk=1(Tj) the heating mode, high capacity load factor for temperaturebin j, dimensionless.
 Determine the low temperature cut-out factor, δ′(Tj), using Equation 4.2.3-3.
-4.2.3.3 Heat pump only operates at high (k=2) compressor capacity at temperature Tj and its capacity is greater than the building heating load, BL(Tj) <Q h k=2(Tj). This section applies to units that lock out low compressor capacity operation at low outdoor temperatures.
-ER08JN16.087
-If the H1C2 test described in section 3.6.3 and Table 12 of this appendix is not conducted, set CD h (k=2) equal to the default value specified in section 3.8.1 of this appendix.
+4.2.3.3 Heat Pump Only Operates at High (k=2) Compressor Capacity at Temperature Tj and its Capacity Is Greater Than the Building Heating Load, BL(Tj) <Q h k=2(Tj)
+This section applies to units that lock out low compressor capacity operation at low outdoor temperatures.
+ER05JA17.107
+Where:
+Xk=2(Tj)= BL(Tj)/Q h k=2(Tj). PLF j = 1 − C D h(k = 2) * [1 − Xk =1(Tj)
+If the H1C2 test described in section 3.6.3 and Table 13 of this appendix is not conducted, set CD h (k=2) equal to the default value specified in section 3.8.1 of this appendix.
 Determine the low temperature cut-out factor, δ(Tj), using Equation 4.2.3-3.
-4.2.3.4 Heat pump must operate continuously at high (k=2) compressor capacity at temperature Tj, BL(Tj) ≥Q h k=2(Tj).
-ER08JN16.088
+4.2.3.4 Heat Pump Must Operate Continuously at High (k=2) Compressor Capacity at Temperature Tj, BL(Tj) ≥Q h k=2(Tj)
+ER05JA17.108
 4.2.4 Additional Steps for Calculating the HSPF of a Heat Pump Having a Variable-Speed Compressor
 Calculate HSPF using Equation 4.2-1. Evaluate the space heating capacity, Q h k=1(Tj), and electrical power consumption, E h k=1(Tj), of the heat pump when operating at minimum compressor speed and outdoor temperature Tj using
-ER08JN16.089
+ER05JA17.109
+ER05JA17.110
 where Q h k=1(62) and E h k=1(62) are determined from the H01 test, Q h k=1(47) and E h k=1(47) are determined from the H11 test, and all four quantities are calculated as specified in section 3.7 of this appendix.
-Evaluate the space heating capacity, Q h k=2(Tj), and electrical power consumption, E h k=2(Tj), of the heat pump when operating at full compressor speed and outdoor temperature Tj by solving Equations 4.2.2-3 and 4.2.2-4, respectively, for k=2. Determine the Equation 4.2.2-3 and 4.2.2-4 quantities Q h k=2(47) and E h k=2(47) from the H12 test and the calculations specified in section 3.7 of this appendix. Determine Q h k=2(35) and E h k=2(35) from the H22 test and the calculations specified in section 3.9 of this appendix or, if the H22 test is not conducted, by conducting the calculations specified in section 3.6.4 of this appendix. Determine Q h k=2(17) and E h k=2(17) from the H32 test and the calculations specified in section 3.10 of this appendix. Calculate the space heating capacity, Q h k=v(Tj), and electrical power consumption, E h k=v(Tj), of the heat pump when operating at outdoor temperature Tj and the intermediate compressor speed used during the section 3.6.4 H2V test of this appendix using
-Equation 4.2.4-3 Q h k=v(Tj = Q h k=v (35) + MQ*(Tj − 35)
-Equation 4.2.4-4 E h k=v(Tj = E h k=v (35) + ME * (Tj − 35)
+Evaluate the space heating capacity, Q h k=2(Tj), and electrical power consumption, E h k=2(Tj), of the heat pump when operating at full compressor speed and outdoor temperature Tj by solving Equations 4.2.2-3 and 4.2.2-4, respectively, for k=2. For Equation 4.2.2-3, use Q hcalc k=2(47) to represent Q h k=2(47), and for Equation 4.2.2-4, use E hcalc k=2(47) to represent E hcalc k=2(47)—evaluate Q hcalc k=2(47) and E hcalc k=2(47) as specified in section 3.6.4b of this appendix.
+ER05JA17.111
+ER05JA17.112
 where Q h k=v(35) and E h k=v(35) are determined from the H2V test and calculated as specified in section 3.9 of this appendix. Approximate the slopes of the k=v intermediate speed heating capacity and electrical power input curves, MQ and ME, as follows:
-ER08JN16.090
-4.2.4.1 Steady-state space heating capacity when operating at minimum compressor speed is greater than or equal to the building heating load at temperature Tj, Q h k=1(Tj ≥BL(Tj).
+ER05JA17.113
+4.2.4.1 Steady-State Space Heating Capacity When Operating at Minimum Compressor Speed Is Greater Than or Equal to the Building Heating Load at Temperature Tj, Q h k=1(Tj ≥BL(Tj)
 Evaluate the Equation 4.2-1 quantities
-ER08JN16.091
+ER05JA17.114
 as specified in section 4.2.3.1 of this appendix. Except now use Equations 4.2.4-1 and 4.2.4-2 to evaluate Q h k=1(Tj) and E h k=1(Tj), respectively, and replace section 4.2.3.1 references to "low capacity" and section 3.6.3 of this appendix with "minimum speed" and section 3.6.4 of this appendix. Also, the last sentence of section 4.2.3.1 of this appendix does not apply.
-4.2.4.2 Heat pump operates at an intermediate compressor speed (k=i) in order to match the building heating load at a temperature Tj, Q h k=1(Tj) <BL(Tj) <Q h k=2(Tj).
-ER08JN16.092
+4.2.4.2 Heat Pump Operates at an Intermediate Compressor Speed (k=i) in Order To Match the Building Heating Load at a Temperature Tj, Q h k=1(Tj) <BL(Tj) <Q h k=2(Tj)
+ER05JA17.115
 and δ(Tj) is evaluated using Equation 4.2.3-3 while,
 Q h k=i(Tj) = BL(Tj), the space heating capacity delivered by the unit in matching the building load at temperature (Tj), Btu/h. The matching occurs with the heat pump operating at compressor speed k=i.
 COPk=i(Tj) = the steady-state coefficient of performance of the heat pump when operating at compressor speed k=i and temperature Tj, dimensionless.
-For each temperature bin where the heat pump operates at an intermediate compressor speed, determine COPk=i(Tj) using,
-COPk=i(Tj) = A + B · Tj + C · Tj.
-For each heat pump, determine the coefficients A, B, and C by conducting the following calculations once:
-ER08JN16.093
+For each temperature bin where the heat pump operates at an intermediate compressor speed, determine COPk=i(Tj) using the following equations,
+For each temperature bin where Q h k=1(Tj) <BL(Tj) <Q h k=v(Tj),
+ER05JA17.116
+For each temperature bin where Q h k=v(Tj) ≤BL(Tj) <Q h k=2(Tj),
+ER05JA17.117
 Where:
-T3 = the outdoor temperature at which the heat pump, when operating at minimum compressor speed, provides a space heating capacity that is equal to the building load (Q h k=1(T3) = BL(T3)), °F. Determine T3 by equating Equations 4.2.4-1 and 4.2-2 and solving for outdoor temperature.
-Tvh = the outdoor temperature at which the heat pump, when operating at the intermediate compressor speed used during the section 3.6.4 H2V test of this appendix, provides a space heating capacity that is equal to the building load (Q h k=v(Tvh) = BL(Tvh)), °F. Determine Tvh by equating Equations 4.2.4-3 and 4.2-2 and solving for outdoor temperature.
-T4 = the outdoor temperature at which the heat pump, when operating at full compressor speed, provides a space heating capacity that is equal to the building load (Q h k=2(T4) = BL(T4)), °F. Determine T4 by equating Equations 4.2.2-3 (k=2) and 4.2-2 and solving for outdoor temperature.
-ER08JN16.094
-For multiple-split heat pumps (only), the following procedures supersede the above requirements for calculating COPh k=i(Tj). For each temperature bin where T3 >Tj >Tvh,
-ER08JN16.095
-4.2.4.3 Heat pump must operate continuously at full (k=2) compressor speed at temperature Tj, BL(Tj) ≥Q h k=2(Tj). Evaluate the Equation 4.2-1 quantities
-ER08JN16.096
+COPh k=1(Tj) is the steady-state coefficient of performance of the heat pump when operating at minimum compressor speed and temperature Tj, dimensionless, calculated using capacity Q h k=1(Tj) calculated using Equation 4.2.4-1 and electrical power consumption E h k=1(Tj) calculated using Equation 4.2.4-2;
+COPh k=v(Tj) is the steady-state coefficient of performance of the heat pump when operating at intermediate compressor speed and temperature Tj, dimensionless, calculated using capacity Q h k=v(Tj) calculated using Equation 4.2.4-3 and electrical power consumption E h k=v(Tj) calculated using Equation 4.2.4-4;
+COPh k=2(Tj) is the steady-state coefficient of performance of the heat pump when operating at full compressor speed and temperature Tj, dimensionless, calculated using capacity Q h k=2(Tj) and electrical power consumption E h k=2(Tj), both calculated as described in section 4.2.4; and
+BL(Tj) is the building heating load at temperature Tj, Btu/h.
+4.2.4.3 Heat Pump Must Operate Continuously at Full (k=2) Compressor Speed at Temperature Tj, BL(Tj) ≥Q h k=2(Tj)
+Evaluate the Equation 4.2-1 Quantities
+ER05JA17.118
 as specified in section 4.2.3.4 of this appendix with the understanding that Q h k=2(Tj) and E h k=2(Tj) correspond to full compressor speed operation and are derived from the results of the specified section 3.6.4 tests of this appendix.
 4.2.5 Heat Pumps Having a Heat Comfort Controller
 Heat pumps having heat comfort controllers, when set to maintain a typical minimum air delivery temperature, will cause the heat pump condenser to operate less because of a greater contribution from the resistive elements. With a conventional heat pump, resistive heating is only initiated if the heat pump condenser cannot meet the building load (i.e., is delayed until a second stage call from the indoor thermostat). With a heat comfort controller, resistive heating can occur even though the heat pump condenser has adequate capacity to meet the building load (i.e., both on during a first stage call from the indoor thermostat). As a result, the outdoor temperature where the heat pump compressor no longer cycles (i.e., starts to run continuously), will be lower than if the heat pump did not have the heat comfort controller.
-4.2.5.1 Blower coil system heat pump having a heat comfort controller: Additional steps for calculating the HSPF of a heat pump having a single-speed compressor and either a fixed-speed indoor blower or a constant-air-volume-rate indoor blower installed, or a coil-only system heat pump.
-Calculate the space heating capacity and electrical power of the heat pump without the heat comfort controller being active as specified in section 4.2.1 of this appendix (Equations 4.2.1-4 and 4.2.1-5) for each outdoor bin temperature, Tj, that is listed in Table 19. Denote these capacities and electrical powers by using the subscript "hp" instead of "h." Calculate the mass flow rate (expressed in pounds-mass of dry air per hour) and the specific heat of the indoor air (expressed in Btu/lbmda · °F) from the results of the H1 test using:
-ER08JN16.097
-where V s, V mx, v′n (or vn), and Wn are defined following Equation 3-1. For each outdoor bin temperature listed in Table 19, calculate the nominal temperature of the air leaving the heat pump condenser coil using,
-ER08JN16.098
+4.2.5.1 Blower Coil System Heat Pump Having a Heat Comfort Controller: Additional Steps for Calculating the HSPF of a Heat Pump Having a Single-Speed Compressor and Either a Fixed-Speed Indoor Blower or a Constant-Air-Volume-Rate Indoor Blower Installed, or a Coil-Only System Heat Pump
+Calculate the space heating capacity and electrical power of the heat pump without the heat comfort controller being active as specified in section 4.2.1 of this appendix (Equations 4.2.1-4 and 4.2.1-5) for each outdoor bin temperature, Tj, that is listed in Table 20. Denote these capacities and electrical powers by using the subscript "hp" instead of "h." Calculate the mass flow rate (expressed in pounds-mass of dry air per hour) and the specific heat of the indoor air (expressed in Btu/lbmda · °F) from the results of the H1 test using:
+ER05JA17.119
+where V s, V mx, v′n (or vn), and Wn are defined following Equation 3-1. For each outdoor bin temperature listed in Table 20, calculate the nominal temperature of the air leaving the heat pump condenser coil using,
+ER05JA17.120
 Evaluate eh(Tj/N), RH(Tj)/N, X(Tj), PLFj, and δ(Tj) as specified in section 4.2.1 of this appendix. For each bin calculation, use the space heating capacity and electrical power from Case 1 or Case 2, whichever applies.
-Case 1. For outdoor bin temperatures where To(Tj) is equal to or greater than TCC (the maximum supply temperature determined according to section 3.1.9 of this appendix), determine Q h(Tj) and E h(Tj) as specified in section 4.2.1 of this appendix (i.e., Q h(Tj) = Q hp(Tj) and E hp(Tj) = E hp(Tj)).
-Note: Even though To(Tj) ≥Tcc, resistive heating may be required; evaluate Equation 4.2.1-2 for all bins.
-Case 2. For outdoor bin temperatures where To(Tj) > Tcc, determine Q h(Tj) and E h(Tj) using Q h(Tj) = Q hp(Tj) + Q CC(Tj) E h(Tj) = E hp(Tj) + E CC(Tj)
-where:
-ER08JN16.099
-Note: Even though To(Tj) <Tcc, additional resistive heating may be required; evaluate Equation 4.2.1-2 for all bins.
-4.2.5.2 Heat pump having a heat comfort controller: Additional steps for calculating the HSPF of a heat pump having a single-speed compressor and a variable-speed, variable-air-volume-rate indoor blower.
-Calculate the space heating capacity and electrical power of the heat pump without the heat comfort controller being active as specified in section 4.2.2 of this appendix (Equations 4.2.2-1 and 4.2.2-2) for each outdoor bin temperature, Tj, that is listed in Table 19. Denote these capacities and electrical powers by using the subscript "hp" instead of "h." Calculate the mass flow rate (expressed in pounds-mass of dry air per hour) and the specific heat of the indoor air (expressed in Btu/lbmda · °F) from the results of the H12 test using:
-ER08JN16.100
-where V S, V mx, v′n (or vn), and Wn are defined following Equation 3-1. For each outdoor bin temperature listed in Table 19, calculate the nominal temperature of the air leaving the heat pump condenser coil using,
-ER08JN16.101
+Case 1. For outdoor bin temperatures where To(Tj) is equal to or greater than TCC (the maximum supply temperature determined according to section 3.1.9 of this appendix), determine Q h(Tj) and E h(Tj) as specified in section 4.2.1 of this appendix (i.e., Q h(Tj) = Q hp(Tj) and E hp(Tj) = E hp(Tj)). Note: Even though To(Tj) ≥Tcc, resistive heating may be required; evaluate Equation 4.2.1-2 for all bins.
+Case 2. For outdoor bin temperatures where To(Tj) >Tcc, determine Q h(Tj) and E h(Tj) using,
+ER05JA17.121
+Note: Even though To(Tj) Tcc, additional resistive heating may be required; evaluate Equation 4.2.1-2 for all bins.
+4.2.5.2 Heat Pump Having a Heat Comfort Controller: Additional Steps for Calculating the HSPF of a Heat Pump Having a Single-Speed Compressor and a Variable-Speed, Variable-Air-Volume-Rate Indoor Blower
+Calculate the space heating capacity and electrical power of the heat pump without the heat comfort controller being active as specified in section 4.2.2 of this appendix (Equations 4.2.2-1 and 4.2.2-2) for each outdoor bin temperature, Tj, that is listed in Table 20. Denote these capacities and electrical powers by using the subscript "hp" instead of "h." Calculate the mass flow rate (expressed in pounds-mass of dry air per hour) and the specific heat of the indoor air (expressed in Btu/lbmda · °F) from the results of the H12 test using:
+ER05JA17.122
+where V S, V mx, v′n (or vn), and Wn are defined following Equation 3-1. For each outdoor bin temperature listed in Table 20, calculate the nominal temperature of the air leaving the heat pump condenser coil using,
+ER05JA17.123
 Evaluate eh(Tj)/N, RH(Tj)/N, X(Tj), PLFj, and δ(Tj) as specified in section 4.2.1 of this appendix with the exception of replacing references to the H1C test and section 3.6.1 of this appendix with the H1C1 test and section 3.6.2 of this appendix. For each bin calculation, use the space heating capacity and electrical power from Case 1 or Case 2, whichever applies.
-Case 1. For outdoor bin temperatures where To(Tj) is equal to or greater than TCC (the maximum supply temperature determined according to section 3.1.9 of this appendix), determine Q h(Tj) and E h(Tj) as specified in section 4.2.2 of this appendix (i.e. Q h(Tj) = Q hp(Tj) and E h(Tj) = E hp(Tj)).
-Note: Even though To(Tj) ≥ TCC, resistive heating may be required; evaluate Equation 4.2.1-2 for all bins.
-Case 2. For outdoor bin temperatures where To(Tj) <TCC, determine Q h(Tj) and E h(Tj) using Q h(Tj) = Q hp(Tj) + Q CC(Tj) E h(Tj) = E hp(Tj) + E CC(Tj)
-ER08JN16.102
-Note: Even though To(Tj) <Tcc, additional resistive heating may be required; evaluate Equation 4.2.1-2 for all bins.
-4.2.5.3 Heat pumps having a heat comfort controller: Additional steps for calculating the HSPF of a heat pump having a two-capacity compressor.
-Calculate the space heating capacity and electrical power of the heat pump without the heat comfort controller being active as specified in section 4.2.3 of this appendix for both high and low capacity and at each outdoor bin temperature, Tj, that is listed in Table 19. Denote these capacities and electrical powers by using the subscript "hp" instead of "h." For the low capacity case, calculate the mass flow rate (expressed in pounds-mass of dry air per hour) and the specific heat of the indoor air (expressed in Btu/lbmda · °F) from the results of the H11 test using:
-ER08JN16.103
-where V s, V mx, v′n (or vn), and Wn are defined following Equation 3-1. For each outdoor bin temperature listed in Table 19, calculate the nominal temperature of the air leaving the heat pump condenser coil when operating at low capacity using,
-ER08JN16.104
-Repeat the above calculations to determine the mass flow rate (m da k=2) and the specific heat of the indoor air (Cp,da k=2) when operating at high capacity by using the results of the H12 test. For each outdoor bin temperature listed in Table 19, calculate the nominal temperature of the air leaving the heat pump condenser coil when operating at high capacity using,
-ER08JN16.105
+Case 1. For outdoor bin temperatures where To(Tj) is equal to or greater than TCC (the maximum supply temperature determined according to section 3.1.9 of this appendix), determine Q h(Tj) and E h(Tj) as specified in section 4.2.2 of this appendix (i.e. Q h(Tj) = Q hp(Tj) and E h(Tj) = E hp(Tj)). Note: Even though To(Tj) ≥TCC, resistive heating may be required; evaluate Equation 4.2.1-2 for all bins.
+Case 2. For outdoor bin temperatures where To(Tj) TCC, determine Q h(Tj) and E h(Tj) using,
+ER05JA17.124
+Note: Even though To(Tj) Tcc, additional resistive heating may be required; evaluate Equation 4.2.1-2 for all bins.
+4.2.5.3 Heat Pumps Having a Heat Comfort Controller: Additional Steps for Calculating the HSPF of a Heat Pump Having a Two-Capacity Compressor
+Calculate the space heating capacity and electrical power of the heat pump without the heat comfort controller being active as specified in section 4.2.3 of this appendix for both high and low capacity and at each outdoor bin temperature, Tj, that is listed in Table 20. Denote these capacities and electrical powers by using the subscript "hp" instead of "h." For the low capacity case, calculate the mass flow rate (expressed in pounds-mass of dry air per hour) and the specific heat of the indoor air (expressed in Btu/lbmda · °F) from the results of the H11 test using:
+ER05JA17.125
+where V s, V mx, v′n (or vn), and Wn are defined following Equation 3-1. For each outdoor bin temperature listed in Table 20, calculate the nominal temperature of the air leaving the heat pump condenser coil when operating at low capacity using,
+ER05JA17.126
+Repeat the above calculations to determine the mass flow rate (m da k=2) and the specific heat of the indoor air (Cp,da k=2) when operating at high capacity by using the results of the H12 test. For each outdoor bin temperature listed in Table 20, calculate the nominal temperature of the air leaving the heat pump condenser coil when operating at high capacity using,
+ER05JA17.127
 Evaluate eh(Tj)/N, RH(Tj)/N, Xk=1(Tj), and/or Xk=2(Tj), PLFj, and δ′(Tj) or δ″(Tj) as specified in section 4.2.3.1. 4.2.3.2, 4.2.3.3, or 4.2.3.4 of this appendix, whichever applies, for each temperature bin. To evaluate these quantities, use the low-capacity space heating capacity and the low-capacity electrical power from Case 1 or Case 2, whichever applies; use the high-capacity space heating capacity and the high-capacity electrical power from Case 3 or Case 4, whichever applies.
 Case 1. For outdoor bin temperatures where To k=1(Tj) is equal to or greater than TCC (the maximum supply temperature determined according to section 3.1.9 of this appendix), determine Q h k=1(Tj) and E h k=1(Tj) as specified in section 4.2.3 of this appendix (i.e., Q h k=1(Tj) = Q hp k=1(Tj) and E h k=1(Tj) = E hp k=1(Tj).
 Note: Even though To k=1(Tj) ≥TCC, resistive heating may be required; evaluate RH(Tj)/N for all bins.
-Case 2. For outdoor bin temperatures where To k=1(Tj) <TCC, determine Q h k=1(Tj) and E h k=1(Tj) using Q h k=1(Tj) = Q hp k=1(Tj) + Q CC k=1(Tj) E h k=1(Tj) = E hp k=1(Tj) + E CC k=1(Tj)
-where,
-ER08JN16.106
+Case 2. For outdoor bin temperatures where To k=1(Tj) TCC, determine Q h k=1(Tj) and E h k=1(Tj) using,
+ER05JA17.128
 Note: Even though To k=1(Tj) ≥Tcc, additional resistive heating may be required; evaluate RH(Tj)/N for all bins.
 Case 3. For outdoor bin temperatures where To k=2(Tj) is equal to or greater than TCC, determine Q h k=2(Tj) and E h k=2(Tj) as specified in section 4.2.3 of this appendix (i.e., Q h k=2(Tj) = Q hp k=2(Tj) and E h k=2(Tj) = E hp k=2(Tj)).
 Note: Even though To k=2(Tj) <TCC, resistive heating may be required; evaluate RH(Tj)/N for all bins.
-Case 4. For outdoor bin temperatures where To k=2(Tj) <TCC, determine Q h k=2(Tj) and E h k=2(Tj) using Q h k=2(Tj) = Q hp k=2(Tj) + Q CC k=2(Tj) E h k=2(Tj) = E hp k=2(Tj) + E CC k=2(Tj)
-where,
-ER08JN16.107
+Case 4. For outdoor bin temperatures where To k=2(Tj) <TCC, determine Q h k=2(Tj) and E h k=2(Tj) using,
+ER05JA17.129
 Note: Even though To k=2(Tj) <Tcc, additional resistive heating may be required; evaluate RH(Tj)/N for all bins.
-4.2.5.4 Heat pumps having a heat comfort controller: Additional steps for calculating the HSPF of a heat pump having a variable-speed compressor. [Reserved]
-4.2.6 Additional steps for calculating the HSPF of a heat pump having a triple-capacity compressor.
+4.2.5.4 Heat Pumps Having a Heat Comfort Controller: Additional Steps for Calculating the HSPF of a Heat Pump Having a Variable-Speed Compressor. [Reserved]
+4.2.6 Additional Steps for Calculating the HSPF of a Heat Pump Having a Triple-Capacity Compressor
 The only triple-capacity heat pumps covered are triple-capacity, northern heat pumps. For such heat pumps, the calculation of the Eq. 4.2-1 quantities
-ER08JN16.108
-differ depending on whether the heat pump would cycle on and off at low capacity (section 4.2.6.1 of this appendix), cycle on and off at high capacity (section 4.2.6.2 of this appendix), cycle on and off at booster capacity (section 4.2.6.3 of this appendix), cycle between low and high capacity (section 4.2.6.4 of this appendix), cycle between high and booster capacity (section 4.2.6.5 of this appendix), operate continuously at low capacity (4.2.6.6 of this appendix), operate continuously at high capacity (section 4.2.6.7 of this appendix), operate continuously at booster capacity (section 4.2.6.8 of this appendix), or heat solely using resistive heating (also section 4.2.6.8 of this appendix) in responding to the building load. As applicable, the manufacturer must supply information regarding the outdoor temperature range at which each stage of compressor capacity is active. As an informative example, data may be submitted in this manner: At the low (k = 1) compressor capacity, the outdoor temperature range of operation is 40 °F ≤ T ≤ 65 °F; At the high (k = 2) compressor capacity, the outdoor temperature range of operation is 20 °F ≤ T ≤ 50 °F; At the booster (k = 3) compressor capacity, the outdoor temperature range of operation is −20 °F ≤ T ≤ 30 °F.
-a. Evaluate the space heating capacity and electrical power consumption of the heat pump when operating at low compressor capacity and outdoor temperature Tj using the equations given in section 4.2.3 of this appendix for Q h k=1(Tj) and E h k=1(Tj)) In evaluating the section 4.2.3 equations, Determine Q h k=1(62) and E h k=1(62) from the H01 test, Q h k=1(47) and E h k=1(47) from the H11 test, and Q h k=2(47) and E h k=2(47) from the H12 test. Calculate all four quantities as specified in section 3.7 of this appendix. If, in accordance with section 3.6.6 of this appendix, the H31 test is conducted, calculate Q h k=1(17) and E h k=1(17) as specified in section 3.10 of this appendix and determine Q h k=1(35) and E h k=1(35) as specified in section 3.6.6 of this appendix.
-b. Evaluate the space heating capacity and electrical power consumption (Q h k=2(Tj) and E h k=2(Tj)) of the heat pump when operating at high compressor capacity and outdoor temperature Tj by solving Equations 4.2.2-3 and 4.2.2-4, respectively, for k = 2. Determine Q h k=1(62) and E h k=1(62) from the H01 test, Q h k=1(47) and E h k=1(47) from the H11 test, and Q h k=2(47) and E h k=2(47) from the H12 test, evaluated as specified in section 3.7 of this appendix. Determine the equation input for Q h k=2(35) and E h k=2(35) from the H22, evaluated as specified in section 3.9.1 of this appendix. Also, determine Q h k=2(17) and E h k=2(17) from the H32 test, evaluated as specified in section 3.10 of this appendix.
+ER05JA17.130
+differ depending on whether the heat pump would cycle on and off at low capacity (section 4.2.6.1 of this appendix), cycle on and off at high capacity (section 4.2.6.2 of this appendix), cycle on and off at booster capacity (section 4.2.6.3 of this appendix), cycle between low and high capacity (section 4.2.6.4 of this appendix), cycle between high and booster capacity (section 4.2.6.5 of this appendix), operate continuously at low capacity (4.2.6.6 of this appendix), operate continuously at high capacity (section 4.2.6.7 of this appendix), operate continuously at booster capacity (section 4.2.6.8 of this appendix), or heat solely using resistive heating (also section 4.2.6.8 of this appendix) in responding to the building load. As applicable, the manufacturer must supply information regarding the outdoor temperature range at which each stage of compressor capacity is active. As an informative example, data may be submitted in this manner: At the low (k=1) compressor capacity, the outdoor temperature range of operation is 40 °F ≤ T ≤ 65 °F; At the high (k=2) compressor capacity, the outdoor temperature range of operation is 20 °F ≤ T ≤ 50 °F; At the booster (k=3) compressor capacity, the outdoor temperature range of operation is −20 °F ≤ T ≤ 30 °F.
+a. Evaluate the space heating capacity and electrical power consumption of the heat pump when operating at low compressor capacity and outdoor temperature Tj using the equations given in section 4.2.3 of this appendix for Q h k=1(Tj) and E h k=1 (Tj)) In evaluating the section 4.2.3 equations, Determine Q h k=1(62) and E h k=1(62) from the H01 test, Q h k=1(47) and E h k=1(47) from the H11 test, and Q h k=2(47) and E h k=2(47) from the H12 test. Calculate all four quantities as specified in section 3.7 of this appendix. If, in accordance with section 3.6.6 of this appendix, the H31 test is conducted, calculate Q h k=1(17) and E h k=1(17) as specified in section 3.10 of this appendix and determine Q h k=1(35) and E h k=1(35) as specified in section 3.6.6 of this appendix.
+b. Evaluate the space heating capacity and electrical power consumption (Q h k=2(Tj) and E h k=2 (Tj)) of the heat pump when operating at high compressor capacity and outdoor temperature Tj by solving Equations 4.2.2-3 and 4.2.2-4, respectively, for k=2. Determine Q h k=1(62) and E h k=1(62) from the H01 test, Q h k=1(47) and E h k=1(47) from the H11 test, and Q h k=2(47) and E h k=2(47) from the H12 test, evaluated as specified in section 3.7 of this appendix. Determine the equation input for Q h k=2(35) and E h k=2(35) from the H22, evaluated as specified in section 3.9.1 of this appendix. Also, determine Q h k=2(17) and E h k=2(17) from the H32 test, evaluated as specified in section 3.10 of this appendix.
 c. Evaluate the space heating capacity and electrical power consumption of the heat pump when operating at booster compressor capacity and outdoor temperature Tj using
-ER08JN16.109
-Determine Q h k=3(17) and E h k=3(17) from the H33 test and determine Q h k=2(2) and E h k=3(2) from the H43 test. Calculate all four quantities as specified in section 3.10 of this appendix. Determine the equation input for Q h k=3(35) and E h k=3(35) as specified in section 3.6.6 of this appendix.
-4.2.6.1 Steady-state space heating capacity when operating at low compressor capacity is greater than or equal to the building heating load at temperature Tj, Q h k=1(Tj) ≥ BL(Tj)., and the heat pump permits low compressor capacity at Tj.
+ER05JA17.131
+Determine Q h k=3(17) and E h k=3(17) from the H33 test and determine Q h k=2(5) and E h k=3(5) from the H43 test. Calculate all four quantities as specified in section 3.10 of this appendix. Determine the equation input for Q h k=3(35) and E h k=3(35) as specified in section 3.6.6 of this appendix.4.2.6.1 Steady-State Space Heating Capacity when Operating at Low Compressor Capacity is Greater than or Equal to the Building Heating Load at Temperature Tj, Q h k=1(Tj) ≥BL(Tj)., and the heat pump permits low compressor capacity at Tj.
 Evaluate the quantities
-ER08JN16.110
-using Eqs. 4.2.3-1 and 4.2.3-2, respectively. Determine the equation inputs Xk=1(Tj), PLFj, and δ′(Tj) as specified in section 4.2.3.1 of this appendix. In calculating the part load factor, PLFj, use the low-capacity cyclic-degradation coefficient CD h, [or equivalently, CD h(k = 1)] determined in accordance with section 3.6.6 of this appendix.
-4.2.6.2 Heat pump only operates at high (k = 2) compressor capacity at temperature Tj and its capacity is greater than or equal to the building heating load, BL(Tj) < Q h k=2(Tj).
+ER05JA17.132
+using Eqs. 4.2.3-1 and 4.2.3-2, respectively. Determine the equation inputs Xk=1(Tj), PLFj, and δ′(Tj) as specified in section 4.2.3.1 of this appendix. In calculating the part load factor, PLFj, use the low-capacity cyclic-degradation coefficient CD h, [or equivalently, CD h(k=1)] determined in accordance with section 3.6.6 of this appendix.
+4.2.6.2 Heat Pump Only Operates at High (k=2) Compressor Capacity at Temperature Tj and Its Capacity Is Greater Than or Equal to the Building Heating Load, BL(Tj) <Q h k=2(Tj)
 Evaluate the quantities
-ER08JN16.111
-as specified in section 4.2.3.3 of this appendix. Determine the equation inputs Xk=2(Tj), PLFj, and δ′(Tj) as specified in section 4.2.3.3 of this appendix. In calculating the part load factor, PLFj, use the high-capacity cyclic-degradation coefficient, CD h(k = 2) determined in accordance with section 3.6.6 of this appendix.
-4.2.6.3 Heat pump only operates at high (k = 3) compressor capacity at temperature Tj and its capacity is greater than or equal to the building heating load, BL(Tj) ≤ Q h k=3(Tj).
-ER08JN16.112
-where
-X k=3(Tj) = BL(Tj)/Q h k=3(Tj) and PLF j = 1 − C D h(k = 3) * [1 − X k=3(Tj)
-Determine the low temperature cut-out factor, δ′(Tj), using Eq. 4.2.3-3. Use the booster-capacity cyclic-degradation coefficient, CD h(k = 3) determined in accordance with section 3.6.6 of this appendix.
-4.2.6.4 Heat pump alternates between high (k = 2) and low (k = 1) compressor capacity to satisfy the building heating load at a temperature Tj, Q h k=1(Tj) < BL(Tj) < Q h k=2(Tj).
-Evaluate the quantities
-ER08JN16.113
-as specified in section 4.2.3.2 of this appendix. Determine the equation inputs Xk=1(Tj), Xk=2(Tj), and δ′(Tj) as specified in section 4.2.3.2 of this appendix.
-4.2.6.5 Heat pump alternates between high (k = 2) and booster (k = 3) compressor capacity to satisfy the building heating load at a temperature Tj, Q h k=2(Tj) < BL (Tj) < Q h k=3(Tj).
-ER08JN16.114
+ER05JA17.133
+as specified in section 4.2.3.3 of this appendix. Determine the equation inputs Xk=2(Tj), PLFj, and δ′(Tj) as specified in section 4.2.3.3 of this appendix. In calculating the part load factor, PLFj, use the high-capacity cyclic-degradation coefficient, CD h(k=2) determined in accordance with section 3.6.6 of this appendix.
+4.2.6.3 Heat Pump Only Operates at High (k=3) Compressor Capacity at Temperature Tj and Its Capacity Is Greater Than or Equal to the Building Heating Load, BL(Tj) ≤Q h k=3(Tj)
+ER05JA17.134
 where:
-ER08JN16.115
-and Xk=3(Tj) = Xk=2(Tj) = the heating mode, booster capacity load factor for temperature bin j, dimensionless. Determine the low temperature cut-out factor, δ′(Tj), using Eq. 4.2.3-3.
-4.2.6.6 Heat pump only operates at low (k = 1) capacity at temperature Tj and its capacity is less than the building heating load, BL(Tj) > Q h k=1(Tj).
-ER08JN16.116
-where the low temperature cut-out factor, δ′(Tj), is calculated using Eq. 4.2.3-3.
-4.2.6.7 Heat pump only operates at high (k = 2) capacity at temperature Tj and its capacity is less than the building heating load, BL(Tj) > Q h k=2(Tj).
+X k=3(T j) = BL(T j)/Q h k=3 (T j) and PLF j = 1−C D h (k = 3) * [1−X k=3 (T j)
+Determine the low temperature cut-out factor, δ′(Tj), using Eq. 4.2.3-3. Use the booster-capacity cyclic-degradation coefficient, CD h(k=3) determined in accordance with section 3.6.6 of this appendix.
+4.2.6.4 Heat Pump Alternates Between High (k=2) and Low (k=1) Compressor Capacity to Satisfy the Building Heating Load at a Temperature Tj, Q h k=1(Tj) <BL(Tj) <Q h k=2(Tj)
 Evaluate the quantities
-ER08JN16.117
+ER05JA17.135
+as specified in section 4.2.3.2 of this appendix. Determine the equation inputs Xk=1(Tj), Xk=2(Tj), and δ′(Tj) as specified in section 4.2.3.2 of this appendix.
+4.2.6.5 Heat Pump Alternates Between High (k=2) and Booster (k=3) Compressor Capacity To Satisfy the Building Heating Load at a Temperature Tj, Q h k=2(Tj) <BL(Tj) <Q h k=3(Tj)
+ER05JA17.136
+and Xk=3(Tj) = Xk=2(Tj) = the heating mode, booster capacity load factor for temperature bin j, dimensionless. Determine the low temperature cut-out factor, δ′(Tj), using Eq. 4.2.3-3.
+4.2.6.6 Heat Pump Only Operates at Low (k=1) Capacity at Temperature Tj and Its Capacity Is Less Than the Building Heating Load, BL(Tj) > Q h k=1(Tj)
+ER05JA17.137
+where the low temperature cut-out factor, δ′(Tj), is calculated using Eq. 4.2.3-3.
+4.2.6.7 Heat Pump Only Operates at High (k=2) Capacity at Temperature Tj and Its Capacity Is Less Than the Building Heating Load, BL(Tj) > Q h k=2(Tj)
+Evaluate the quantities
+ER05JA17.138
 as specified in section 4.2.3.4 of this appendix. Calculate δ″(Tj) using the equation given in section 4.2.3.4 of this appendix.
-4.2.6.8 Heat pump only operates at booster (k = 3) capacity at temperature Tj and its capacity is less than the building heating load, BL(Tj) > Q h k=3(Tj) or the system converts to using only resistive heating.
-ER08JN16.116
+4.2.6.8 Heat Pump Only Operates at Booster (k=3) Capacity at Temperature Tj and Its Capacity Is Less Than the Building Heating Load, BL(Tj) > Q h k=3(Tj) or the System Converts to Using Only Resistive Heating
+ER05JA17.139
 where δ″(Tj) is calculated as specified in section 4.2.3.4 of this appendix if the heat pump is operating at its booster compressor capacity. If the heat pump system converts to using only resistive heating at outdoor temperature Tj, set δ′(Tj) equal to zero.
-4.2.7 Additional steps for calculating the HSPF of a heat pump having a single indoor unit with multiple indoor blowers. The calculation of the Eq. 4.2-1 quantities eh(Tj)/N and RH(Tj)/N are evaluated as specified in the applicable subsection.
-4.2.7.1 For multiple indoor blower heat pumps that are connected to a singular, single-speed outdoor unit:
-a. Calculate the space heating capacity, Q h k=1(Tj), and electrical power consumption, E h k=1(Tj), of the heat pump when operating at the heating minimum air volume rate and outdoor temperature Tj using Eqs. 4.2.2-3 and 4.2.2-4, respectively. Use these same equations to calculate the space heating capacity, Q h k=2(Tj) and electrical power consumption, E h k=2(Tj), of the test unit when operating at the heating full-load air volume rate and outdoor temperature Tj. In evaluating Eqs. 4.2.2-3 and 4.2.2- 4, determine the quantities Q h k=1(47) and E h k=1(47) from the H11 test; determine Q h k=2(47) and E h k=2(47) from the H12 test. Evaluate all four quantities according to section 3.7 of this appendix. Determine the quantities Q h k=1(35) and E h k=1(35) as specified in section 3.6.2 of this appendix. Determine Q h k=2(35) and E h k=2(35) from the H22 frost accumulation test as calculated according to section 3.9.1 of this appendix. Determine the quantities Q h k=1(17) and E h k=1(17) from the H31 test, and Q h k=2(17) and E h k=2(17) from the H32 test. Evaluate all four quantities according to section 3.10 of this appendix. Refer to section 3.6.2 and Table 11 of this appendix for additional information on the referenced laboratory tests.
+4.2.7 Additional Steps for Calculating the HSPF of a Heat Pump Having a Single Indoor Unit With Multiple Indoor Blowers
+The calculation of the Eq. 4.2-1 quantities eh(Tj)/N and RH(Tj)/N are evaluated as specified in the applicable subsection.
+4.2.7.1 For Multiple Indoor Blower Heat Pumps That Are Connected to a Singular, Single-Speed Outdoor Unit
+a. Calculate the space heating capacity, Q h k =1(Tj), and electrical power consumption, E h k =1(Tj), of the heat pump when operating at the heating minimum air volume rate and outdoor temperature Tj using Eqs. 4.2.2-3 and 4.2.2-4, respectively. Use these same equations to calculate the space heating capacity, Q h k =2(Tj) and electrical power consumption, E h k =2(Tj), of the test unit when operating at the heating full-load air volume rate and outdoor temperature Tj. In evaluating Eqs. 4.2.2-3 and 4.2.2-4, determine the quantities Q h k =1(47) and E h k =1(47) from the H11 test; determine Q h k =2 (47) and E h k =2(47) from the H12 test. Evaluate all four quantities according to section 3.7 of this appendix. Determine the quantities Q h k =1(35) and E h k =1(35) as specified in section 3.6.2 of this appendix. Determine Q h k =2(35) and E h k =2(35) from the H22 frost accumulation test as calculated according to section 3.9.1 of this appendix. Determine the quantities Q h k =1(17) and E h k =1(17) from the H31 test, and Q h k =2(17) and E h k =2(17) from the H32 test. Evaluate all four quantities according to section 3.10 of this appendix. Refer to section 3.6.2 and Table 12 of this appendix for additional information on the referenced laboratory tests.
 b. Determine the heating mode cyclic degradation coefficient, CDh, as per sections 3.6.2 and 3.8 to 3.8.1 of this appendix. Assign this same value to CDh(k = 2).
-c. Except for using the above values of Q h k=1(Tj), E h k=1(Tj), Q h k=2(Tj), E h k=2(Tj), CDh, and CDh(k = 2), calculate the quantities eh(Tj)/N as specified in section 4.2.3.1 of this appendix for cases where Q h k=1(Tj) ≥ BL(Tj). For all other outdoor bin temperatures, Tj, calculate eh(Tj)/N and RHh(Tj)/N as specified in section 4.2.3.3 of this appendix if Q h k=2(Tj) > BL(Tj) or as specified in section 4.2.3.4 of this appendix if Q h k=2(Tj) ≤ BL(Tj)
-4.2.7.2 For multiple indoor blower heat pumps connected to either a single outdoor unit with a two-capacity compressor or to two separate single-speed outdoor units of identical model, calculate the quantities eh(Tj)/N and RH(Tj)/N as specified in section 4.2.3 of this appendix.
-4.3 Calculations of Off-Mode Power Consumption
-For central air conditioners and heat pumps with a cooling capacity of: Less than 36,000 Btu/h, determine the off mode represented value, PW,OFF, with the following equation:
-ER08JN16.119
+c. Except for using the above values of Q h k =1(Tj), E h k =1(Tj), Q h k =2(Tj), E h k =2(Tj), CDh, and CDh(k = 2), calculate the quantities eh(Tj)/N as specified in section 4.2.3.1 of this appendix for cases where Q h k =1(Tj) ≥ BL(Tj). For all other outdoor bin temperatures, Tj, calculate eh(Tj)/N and RHh(Tj)/N as specified in section 4.2.3.3 of this appendix if Q h k =2(Tj) > BL(Tj) or as specified in section 4.2.3.4 of this appendix if Q h k =2(Tj) ≤ BL(Tj).
+4.2.7.2 For Multiple Indoor Blower Heat Pumps Connected to Either a Single Outdoor Unit With a Two-capacity Compressor or to Two Separate Single-Speed Outdoor Units of Identical Model, calculate the quantities eh(Tj)/N and RH(Tj)/N as specified in section 4.2.3 of this appendix.
+4.3 Calculations of Off-mode Power Consumption
+For central air conditioners and heat pumps with a cooling capacity of:
+Less than 36,000 Btu/h, determine the off mode represented value, P W,OFF, with the following equation:
+ER05JA17.140
+greater than or equal to 36,000 Btu/h, calculate the capacity scaling factor according to:
+ER05JA17.141
+where Q C(95) is the total cooling capacity at the A or A2 test condition, and determine the off mode represented value, P W,OFF, with the following equation:
+ER05JA17.142
 4.4 Rounding of SEER and HSPF for Reporting Purposes
 After calculating SEER according to section 4.1 of this appendix and HSPF according to section 4.2 of this appendix round the values off as specified per § 430.23(m) of title 10 of the Code of Federal Regulations.
-ER08JN16.120
-Table 21—Representative Cooling and Heating Load Hours for Each Generalized Climatic Region
-Climatic region | Coolingload hours CLHR | Heatingload hours HLHR
+ER05JA17.143
+ER05JA17.144
+Table 22—Representative Cooling and Heating Load Hours for Each Generalized Climatic Region
+Climatic region | Cooling load hoursCLHR | Heating load hoursHLHR
 I | 2,400 | 750
 II | 1,800 | 1,250
 III | 1,200 | 1,750
@@ -1321,16 +1433,17 @@ IV | 800 | 2,250
 Rating Values | 1,000 | 2,080
 V | 400 | 2,750
 VI | 200 | 2,750
-4.5 Calculations of the SHR, which should be computed for different equipment configurations and test conditions specified in Table 22.
-Table 22—Applicable Test Conditions for Calculation of the Sensible Heat Ratio
-Equipment configuration | Referencetable No. of Appendix M | SHR computationwith results from | Computed values
-Units Having a Single-Speed Compressor and a Fixed-Speed Indoor blower, a Constant Air Volume Rate Indoor blower, or No Indoor blower | 4 | B Test | SHR(B)
-Units Having a Single-Speed Compressor That Meet the section 3.2.2.1 Indoor Unit Requirements | 5 | B2 and B1 Tests | SHR(B1), SHR(B2)
-Units Having a Two-Capacity Compressor | 6 | B2 and B1 Tests | SHR(B1), SHR(B2)
-Units Having a Variable-Speed Compressor | 7 | B2 and B1 Tests | SHR(B1), SHR(B2)
+4.5 Calculations of the SHR, Which Should Be Computed for Different Equipment Configurations and Test Conditions Specified in Table 23
+Table 23—Applicable Test Conditions For Calculation of the Sensible Heat Ratio
+Equipment configuration | Referencetable Number of appendix M | SHR computation with resultsfrom | Computed values
+Units Having a Single-Speed Compressor and a Fixed-Speed Indoor blower, a Constant Air Volume Rate Indoor blower, or No Indoor blower | 4 | B Test | SHR(B).
+Units Having a Single-Speed Compressor That Meet the section 3.2.2.1 Indoor Unit Requirements | 5 | B2 and B1 Tests | SHR(B1), SHR(B2).
+Units Having a Two-Capacity Compressor | 6 | B2 and B1 Tests | SHR(B1), SHR(B2).
+Units Having a Variable-Speed Compressor | 7 | B2 and B1 Tests | SHR(B1), SHR(B2).
 The SHR is defined and calculated as follows:
-ER08JN16.121
+ER05JA17.145
 Where both the total and sensible cooling capacities are determined from the same cooling mode test and calculated from data collected over the same 30-minute data collection interval.
-4.6 Calculations of the Energy Efficiency Ratio (EER). Calculate the energy efficiency ratio using,
-ER08JN16.122
-where Q c k(T) and E c k(T) are the space cooling capacity and electrical power consumption determined from the 30-minute data collection interval of the same steady-state wet coil cooling mode test and calculated as specified in section 3.3 of this appendix. Add the letter identification for each steady-state test as a subscript (e.g., EER A2) to differentiate among the resulting EER values.
+4.6 Calculations of the Energy Efficiency Ratio (EER).
+Calculate the energy efficiency ratio using.
+ER05JA17.146
+where Q c k(T) and E c k(T) are the space cooling capacity and electrical power consumption determined from the 30-minute data collection interval of the same steady-state wet coil cooling mode test and calculated as specified in section 3.3 of this appendix. Add the letter identification for each steady-state test as a subscript (e.g., EER A 2) to differentiate among the resulting EER values.
