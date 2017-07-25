@@ -63,7 +63,7 @@ Parameters | Range | Accuracy (sensor input) | Seconds per sampling interval | R
 57. Thrust comand 17 | Full Range | ±2% | 2 | 2% of full range
 58. Thrust target | Full Range | ±2% | 4 | 2% of full range.
 59. Fuel quantity in CG trim tank | Full Range | ±5% | (1 per 64 sec.) | 1% of full range.
-60. Primary Navigation System Reference | Discrete GPS, INS, VOR/DME, MLS, Loran C, Omega, Localizer Glidescope | | 4 | | A suitable combination of discretes to determine the Primary Navigation System reference.
+60. Primary Navigation System Reference | Discrete GPS, INS, VOR/DME, MLS, Localizer Glideslope | | 4 | | A suitable combination of discretes to determine the Primary Navigation System reference.
 61. Ice Detection | Discrete "ice" or "no ice" | | 4.
 62. Engine warning each engine vibration | Discrete | | 1.
 63. Engine warning each engine over temp. | Discrete | | 1.

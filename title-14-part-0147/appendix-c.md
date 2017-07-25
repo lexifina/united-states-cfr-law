@@ -55,7 +55,7 @@ d. aircraft instrument systems
 (2) | 37. Install instruments and perform a static pressure system leak test.
 e. communication and navigation systems
 (1) | 38. Inspect, check, and troubleshoot autopilot, servos and approach coupling systems.
-(1) | 39. Inspect, check, and service aircraft electronic communication and navigation systems, including VHF passenger address interphones and static discharge devices, aircraft VOR, ILS, LORAN, Radar beacon transponders, flight management computers, and GPWS.
+(1) | 39. Inspect, check, and service aircraft electronic communication and navigation systems, including VHF passenger address interphones and static discharge devices, aircraft VOR, ILS, Radar beacon transponders, flight management computers, and GPWS.
 (2) | 40. Inspect and repair antenna and electronic equipment installations.
 f. aircraft fuel systems
 (1) | 41. Check and service fuel dump systems.
