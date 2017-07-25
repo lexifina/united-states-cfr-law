@@ -30,7 +30,7 @@
 (2) Single heading source information to all installations may be utilized, provided a compass comparator system is installed and operational procedures call for frequent cross-checks of all compass heading indicators by crewmembers.
 The dual system may consist of either two Doppler Radar units or one Doppler Radar unit and one INS unit.
 (b) At least two systems must be operational at takeoff.
-(c) As determined by the Administrator and specified in the certificate holder's operations specifications, other navigational aids may be required to update the Doppler Radar for a particular operation. These may include Loran, Consol, DME, VOR, ADF, ground-based radar, and airborne weather radar. When these aids are required, the cockpit arrangement must be such that all controls are accessible to each pilot seated at his duty station.
+(c) As determined by the Administrator and specified in the certificate holder's operations specifications, other navigational aids may be required to update the Doppler Radar for a particular operation. These may include DME, VOR, ADF, ground-based radar, and airborne weather radar. When these aids are required, the cockpit arrangement must be such that all controls are accessible to each pilot seated at his duty station.
 5. Training programs. The initial training program for Doppler Radar and Inertial Navigation Systems must include the following:
 (a) Duties and responsibilities of flight crewmembers, dispatchers, and maintenance personnel.
 (b) For pilots, instruction in the following:

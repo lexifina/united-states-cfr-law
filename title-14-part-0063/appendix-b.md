@@ -57,16 +57,14 @@ Use of Bellamy's formula.
 Flight planning with single drift correction.
 Radio and long-range navigational aids | 35
 To include:
-Principles of radio transmission and reception.
-Radio aids to navigation.
-Government publications.
-Airborne D/F equipment.
-Errors of radio bearings.
-Quadrantal correction.
-Plotting radio bearings.
-ICAO Q code for direction finding.
-Loran.
-Consol.
+Principles of radio transmission and reception
+Radio aids to navigation
+Government publications
+Airborne D/F equipment
+Errors of radio bearings
+Quadrantal correction
+Plotting radio bearings
+ICAO Q code for direction finding
 Celestial navigation | 150
 To include:
 The solar system.

@@ -38,9 +38,7 @@
 (23) Show the use of good judgment in evaluating radio bearings, and explain why certain bearings may be of doubtful value.
 (24) Determine and apply correctly the correction required to be made to radio bearings before plotting them on a Mercator chart, and demonstrate the ability to plot bearings accurately on charts of the Mercator and Lambert conformal projections.
 (25) Compute the compass heading, ETA, and fuel remaining if it is assumed that the flight would be diverted to an alternate airport at a time specified by the agent or examiner.
-(26) Check the counter scales of a Loran receiver for accuracy, and explain the basic (face) adjustments which affect tuning and counter alignment. A guide sheet may be used for this test.
-(27) Demonstrate a knowledge of the basic principle of Loran and the ability to tune a Loran receiver, to match signals, to read time differences, to plot Loran LOP's, and to identify and use sky waves.
-(28) Take and plot bearings from a consol station and explain the precautions which must be taken when tuning a radio receiver for consol signals. Also, discuss those conditions which affect the reliability of consol bearings.
+(26)-(28) [Reserved]
 (29) Demonstrate the ability to properly operate and read an absolute altimeter.
 (30) Determine the "D" factors for a series of compared readings of an absolute altimeter and a pressure altimeter.
 (31) Determine drift angle or lateral displacement from the true headingline by application of Bellamy's formula or a variation thereof.
@@ -49,14 +47,14 @@
 (34) Select one of the celestial LOP's used during the flight and explain how to make a single line of position approach to a point selected by the agent or examiner, giving headings, times, and ETA's.
 (35) Demonstrate the proper use of an astro-compass or periscopic sextant for taking bearings.
 (36) Determine compass deviation as soon as possible after reaching cruising altitude and whenever there is a change of compass heading of 15° or more.
-(37) Take celestial fixes at hourly intervals when conditions permit. The accuracy of these fixes shall be checked by means of a Loran, radio, or visual fix whenever practicable. After allowing for the probable error of a Loran, radio, or visual fix, a celestial fix under favorable conditions should plot within 10 miles of the actual position.
+(37) Take celestial fixes at hourly intervals when conditions permit. The accuracy of these fixes shall be checked by means of a radio or visual fix whenever practicable. After allowing for the probable error of a radio or visual fix, a celestial fix under favorable conditions should plot within 10 miles of the actual position.
 (38) Select celestial bodies for observation, when possible, whose azimuths will differ by approximately 120° for a 3-body fix and will differ by approximately 90° for a 2-body fix. The altitudes of the selected bodies should be between 25° and 75° whenever practicable.
 (39) Have POMAR and any other required reports ready for transmission at time of schedule, and be able to inform the pilot in command promptly with regard to the aircraft's position and progress in comparison with the flight plan.
 (40) Keep a log with sufficient legible entries to provide a record from which the flight could be retraced.
 (41) Note significant weather changes which might influence the drift or ground speed of the aircraft, such as, temperature, "D" factors, frontal conditions, turbulence, etc.
 (42) Determine the wind between fixes as a regular practice.
 (43) Estimate the time required and average ground speed during a letdown, under conditions specified by the pilot in command.
-(44) Work with sufficient speed to determine the aircraft's position hourly by celestial means and also make all other observations and records pertinent to the navigation. The applicant should be able to take the observation, compute, and plot a celestial LOP within a time limit of 8 minutes; take and plot a Loran LOP within a time limit of 3 minutes for ground waves and 4 minutes for sky waves; observe the absolute and pressure altimeters and compute the drift or lateral displacement within a time limit of 3 minutes.
+(44) Work with sufficient speed to determine the aircraft's position hourly by celestial means and also make all other observations and records pertinent to the navigation. The applicant should be able to take the observation, compute, and plot a celestial LOP within a time limit of 8 minutes; observe the absolute and pressure altimeters and compute the drift or lateral displacement within a time limit of 3 minutes.
 (45) Be accurate in reading instruments and making computations. Errors which are made and corrected without affecting the navigation will be disregarded unless they cause considerable loss of time.
 An uncorrected error in computation (including reading instruments and books) which will affect the reported position more than 25 miles, the heading more than 3°, or any ETA more than 15 minutes will cause this item to be graded unsatisfactory.
 (46) Be alert to changing weather or other conditions during flight which might affect the navigation. An applicant should not fail to take celestial observations just prior to encountering a broken or overcast sky condition; and he should not fail to take a bearing on a radio station, which operates at scheduled intervals and which would be a valuable aid to the navigation.
