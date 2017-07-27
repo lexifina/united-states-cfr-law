@@ -22,16 +22,16 @@ Alkalinity | Titrimetric | | 2320 B | 2320 B | | D1067-06 B, 11 B
 Antimony | Hydride—Atomic Absorption | | | | | D 3697-07, -12
 | Atomic Absorption; Furnace | | 3113 B | 3113 B | 3113 B-04, B-10
 | Axially viewed inductively coupled plasma-atomic emission spectrometry (AVICP-AES) | 200.5, Revision 4.2.2 | | |
-Arsenic | Atomic Absorption; Furnace | | 3113 B | 3113 B | 3113 B-04, B-10 | D 2972-08 C
-| Hydride Atomic Absorption | | 3114 B | 3114 B | 3114 B-09 | D 2972-08 B
-| Axially viewed inductively coupled plasma-atomic emission spectrometry (AVICP-AES) | 200.5, Revision 4.2 2
+Arsenic | Atomic Absorption; Furnace | | 3113 B | 3113 B | 3113 B-04, B-10 | D 2972-08 C, -15 C
+| Hydride Atomic Absorption | | 3114 B | 3114 B | 3114 B-09 | D 2972-08 B, -15 B
+| Axially viewed inductively coupled plasma-atomic emission spectrometry (AVICP-AES) | 200.5, Revision 4.2.2
 Barium | Inductively Coupled Plasma | | 3120 B | 3120 B
 | Atomic Absorption; Direct | | 3111 D | 3111 D
 | Atomic Absorption; Furnace | | 3113 B | 3113 B | 3113 B-04, B-10
 | Axially viewed inductively coupled plasma-atomic emission spectrometry (AVICP-AES) | 200.5, Revision 4.2 2
 Beryllium | Inductively Coupled Plasma | | 3120 B | 3120 B
-| Atomic Absorption; Furnace | | 3113 B | 3113 B | 3113 B-04, B-10 | D 3645-08 B
-| Axially viewed inductively coupled plasma-atomic emission spectrometry (AVICP-AES) | 200.5, Revision 4.2 2
+| Atomic Absorption; Furnace | | 3113 B | 3113 B | 3113 B-04, B-10 | D 3645-08 B, -15 B
+| Axially viewed inductively coupled plasma-atomic emission spectrometry (AVICP-AES) | 200.5, Revision 4.2.2
 Cadmium | Atomic Absorption; Furnace | | 3113 B | 3113 B | 3113 B-04, B-10
 | Axially viewed inductively coupled plasma-atomic emission spectrometry (AVICP-AES) | 200.5, Revision 4.2 2
 Calcium | EDTA Titrimetric | | 3500-Ca B | 3500-Ca B | | D 511-09, -14 A
@@ -58,8 +58,8 @@ Fluoride | Ion Chromatography | | 4110 B | 4110 B | | D 4327-11
 | Manual Electrode | | 4500-F− C | 4500-F− C | | D 1179-04, 10 B
 | Automated Alizarin | | 4500-F− E | 4500-F− E
 | Arsenite-Free Colorimetric SPADNS | | | | | | Hach SPADNS 2 Method 10225 22
-Lead | Atomic Absorption; Furnace | | 3113 B | 3113 B | 3113 B-04, B-10 | D 3559-08 D
-| Axially viewed inductively coupled plasma-atomic emission spectrometry (AVICP-AES) | 200.5, Revision 4.2 2
+Lead | Atomic Absorption; Furnace | | 3113 B | 3113 B | 3113 B-04, B-10 | D 3559-08 D, -15 D
+| Axially viewed inductively coupled plasma-atomic emission spectrometry (AVICP-AES) | 200.5, Revision 4.2.2
 Magnesium | Atomic Absorption | | 3111 B | 3111 B | | D 511-09, −14 B
 | Inductively Coupled Plasma | | 3120 B | 3120 B |
 | Complexation Titrimetric Methods | | 3500-Mg B | 3500-Mg B | | D 511-09, -14 A
@@ -71,23 +71,26 @@ Nickel | Inductively Coupled Plasma | | 3120 B | 3120 B
 | Atomic Absorption; Furnace | | 3113 B | 3113 B | 3113 B-04, B-10
 | Axially viewed inductively coupled plasma-atomic emission spectrometry (AVICP-AES) | 200.5, Revision 4.2 2
 Nitrate | Ion Chromatography | | 4110 B | 4110 B | | D 4327-11
-| Automated Cadmium Reduction | | 4500-NO3 - F | 4500-NO3 - F |
-| Manual Cadmium Reduction | | 4500-NO3 - E | 4500-NO3 - E |
-| Ion Selective Electrode | | 4500-NO3 - D | 4500-NO3 - D |
+| Automated Cadmium Reduction | | 4500-NO3- F | 4500-NO3- F
+| Manual Cadmium Reduction | | 4500-NO3- E | 4500-NO3- E
+| Ion Selective Electrode | | 4500-NO3- D | 4500-NO3- D
 | Reduction/Colorimetric | | | | | | Systea Easy (1-Reagent) 8 NECi Nitrate-Reductase.40
-| Colorimetric; Direct | | | | | | Hach TNTplus TM 835/836 Method 10206.23
+| Colorimetric; Direct | | | | | | Hach TNTplusTM 835/836 Method 10206.23
+| Capillary Ion Electrophoresis | | | | | D 6508-15
 Nitrite | Ion Chromatography | | 4110 B | 4110 B | | D 4327-11
-| Automated Cadmium Reduction | | 4500-NO3 - F | 4500-NO3 - F |
-| Manual Cadmium Reduction | | 4500-NO3 - E | 4500-NO3 - E |
-| Spectrophotometric | | 4500-NO2 - B | 4500-NO2 - B |
+| Automated Cadmium Reduction | | 4500-NO3- F | 4500-NO3- F
+| Manual Cadmium Reduction | | 4500-NO3- E | 4500-NO3- E
+| Spectrophotometric | | 4500-NO2- B | 4500-NO2- B
 | Reduction/Colorimetric | | | | | | Systea Easy (1-Reagent) 8 NECi Nitrate-Reductase.40
+| Capillary Ion Electrophoresis | | | | | D 6508-15
 Orthophosphate | Ion Chromatography | | 4110 B | 4110 B | | D 4327-11
 | Colorimetric, ascorbic acid, single reagent | | 4500-P E | 4500-P E | 4500-P E-99
-| Colorimetric, Automated, Ascorbic Acid | | 4500-P F | 4500-P F | 4500-P F-99 | | Thermo-Fisher Discrete Analyzer.41
-pH | Electrometric | | 4500-H + B | 4500-H + B | | D 1293-12
-Selenium | Hydride-Atomic Absorption | | 3114 B | 3114 B | 3114 B-09 | D 3859-08 A
-| Atomic Absorption; Furnace | | 3113 B | 3113 B | 3113 B-04, B-10 | D 3859-08 B
-| Axially viewed inductively coupled plasma-atomic emission spectrometry (AVICP-AES) | 200.5, Revision 4.2 2
+| Colorimetric, Automated, Ascorbic Acid | | 4500-P F | 4500-P F | 4500-P F-99 | | Thermo Fisher Discrete Analyzer.41
+| Capillary Ion Electrophoresis | | | | | D 6508-15
+pH | Electrometric | 150.3 48 | 4500-H+ B | 4500-H+ B | | D 1293-12
+Selenium | Hydride-Atomic Absorption | | 3114 B | 3114 B | 3114 B-09 | D 3859-08 A, --15 A
+| Atomic Absorption; Furnace | | 3113 B | 3113 B | 3113 B-04, B-10 | D 3859-08 B, -15 B
+| Axially viewed inductively coupled plasma-atomic emission spectrometry (AVICP-AES) | 200.5, Revision 4.2. 2
 Silica | Colorimetric | | | | | D859-05, 10
 | Molybdosilicate | | 4500-SiO2 C | 4500-SiO2 C.
 | Heteropoly blue | | 4500-SiO2 D | 4500-SiO2 D.
@@ -154,30 +157,29 @@ Simazine | Liquid Chromatography Electrospray Ionization Tandem Mass Spectrometr
 Toxaphene | Solid Phase Extraction/Gas Chromatography/Mass Spectrometry (GC/MS) | 525.3 24 | | |
 Total Trihalomethanes | Purge & trap/Gas Chromatography/Mass Spectrometry | 524.3,9 524.4 29 | | |
 Alternative Testing Methods for Contaminants Listed at 40 CFR 141.25(a)
-Contaminant | Methodology | SM 21st Edition 1 | SM 22ndEdition 28 | ASTM 4
+Contaminant | Methodology | SM 21st edition 1 | SM 22nd edition 28 | ASTM 4 | SM online 3
 Naturally Occurring:
 Gross alpha and beta | Evaporation | 7110 B | 7110 B
+| Liquid Scintillation | | | D 7283-17 | 7110 D-17
 Gross alpha | Coprecipitation | 7110 C | 7110 C
-Radium 226 | Radon emanation | 7500-Ra C | 7500-Ra C | D3454-05
-| Radiochemical | 7500-Ra B | 7500-Ra B | D2460-07
+Radium 226 | Radon emanation | 7500-Ra C | 7500-Ra C | D 3454-05
+| Radiochemical | 7500-Ra B | 7500-Ra B | D 2460-07
+| Gamma Spectrometry | | 7500-Ra E | | 7500-Ra E-07
 Radium 228 | Radiochemical | 7500-Ra D | 7500-Ra D
+| Gamma Spectrometry | | 7500-Ra E | | 7500-Ra E-07
 Uranium | Radiochemical | 7500-U B | 7500-U B
-| ICP-MS | 3125 | | D5673-05, 10
-| Alpha spectrometry | 7500-U C | 7500-U C | D3972-09
-| Laser Phosphorimetry | | | D5174-07
-| Alpha Liquid Scintillation Spectrometry | | | D6239-09
+| ICP-MS | 3125 | | D 5673-05, 10
+| Alpha spectrometry | 7500-U C | 7500-U C | D 3972-09
+| Laser Phosphorimetry | | | D 5174-07
+| Alpha Liquid Scintillation Spectrometry | | D 6239-09
 Man-Made:
 Radioactive Cesium | Radiochemical | 7500-Cs B | 7500-Cs B
-| Gamma Ray Spectrometry | 7120 | 7120 | D3649-06
-Radioactive Iodine | Radiochemical | 7500-I B | 7500-I B | D3649-06
-| | 7500-I C | 7500-I C
-| | 7500-I D | 7500-I D
-| Gamma Ray Spectrometry | 7120 | 7120 | D4785-08
+| Gamma Ray Spectrometry | 7120 | 7120 | D 3649-06
+Radioactive Iodine | Radiochemical | 7500-I B7500-I C 7500-I D | 7500-I B7500-I C, 7500-I D. | D 3649-06.
+| Gamma Ray Spectrometry | 7120 | 7120 | D 4785-08
 Radioactive Strontium 89, 90 | Radiochemical | 7500-Sr B | 7500-Sr B
-Tritium | Liquid Scintillation | 7500-3H B | 7500-3H B | D4107-08
-Gamma Emitters | Gamma Ray Spectrometry | 7120 | 7120 | D3649-06
-| | 7500-Cs B | 7500-Cs B | D4785-08
-| | 7500-I B | 7500-I B |
+Tritium | Liquid Scintillation | 7500-3"H B | 7500-3 H B | D 4107-08
+Gamma Emitters | Gamma Ray Spectrometry | 71207500-Cs B 7500-I B | 71207500-Cs B 7500-I B. | D 3649-06.D 4785-08.
 Alternative Testing Methods for Contaminants Listed at 40 CFR 141.74(a)(1)
 Organism | Methodology | SM 21st Edition 1 | SM 22nd Edition 28 | SM Online 3 | Other
 Total Coliform | Total Coliform Fermentation Technique | 9221 A, B, C | 9221 A, B, C | 9221 A,B,C-06
@@ -186,10 +188,10 @@ Total Coliform | Total Coliform Fermentation Technique | 9221 A, B, C | 9221 A, 
 Fecal Coliforms | Fecal Coliform Procedure | 9221 E | 9221 E | 9221 E-06
 | Fecal Coliform Filter Procedure | 9222 D | 9222 D | 9222 D-06
 Heterotrophic bacteria | Pour Plate Method | 9215 B | 9215 B | 9215 B-04
-Turbidity | Nephelometric Method | 2130 B | 2130 B | |
-| Laser Nephelometry (on-line) | | | | Mitchell M5271,10 Mitchell M5331, Rev. 1.2.42
-| LED Nephelometry (on-line) | | | | Mitchell M5331,11 Mitchell M5331, Rev. 1.2.42
-| LED Nephelometry (on-line) | | | | AMI Turbiwell.15
+Turbidity | Nephelometric Method | 2130 B | 2130 B
+| Laser Nephelometry (online) | | | | Mitchell M5271.10 Mitchell M5331, Rev. 1.2.42 Lovibond PTV 6000.46
+| LED Nephelometry (online) | | | | Mitchell M5331 11 Mitchell M5331, Rev. 1.2.42 Lovibond PTV 2000.45
+| LED Nephelometry (online) | | | | AMI Turbiwell.15 Lovibond PTV 1000.44
 | LED Nephelometry (portable) | | | | Orion AQ4500.12
 | 360° Nephelometry | | | | Hach Method 10258.39
 Alternative Testing Methods for Disinfectant Residuals Listed at 40 CFR 141.74(a)(2)
@@ -216,7 +218,8 @@ Alternative Testing Methods for Contaminants Listed at 40 CFR 141.131(b)(1)
 Contaminant | Methodology | EPA Method | ASTM 4 | SM Online 3 | SM 21stEdition 1 | SM 22ndEdition 28 | Other
 TTHM | P&T/GC/MS | 524.3 9, 524.4 29
 HAA5 | LLE (diazomethane)/GC/ECD | | | 6251 B-07 | 6251 B | 6251 B
-| Ion Chromatography Electrospray Ionization Tandem Mass Spectrometry (IC-ESI-MS/MS) | 557 14
+| Ion Chromatography Electrospray Ionization Tandem Mass Spectrometry (IC-ESI-MS/MS) | 557. 14
+| Two-Dimensional Ion Chromatography (IC) with Suppressed Conductivity Detection | | | | | | Thermo Fisher 557.1.47
 Bromate | Two-Dimensional Ion Chromatography (IC) | 302.0 18
 | Ion Chromatography Electrospray Ionization Tandem Mass Spectrometry (IC-ESI-MS/MS) | 557 14
 | Chemically Suppressed Ion Chromatography | | D 6581-08 A
@@ -269,11 +272,11 @@ Organism | Methodology | SM 20thEdition 6 | SM 21stEdition 1 | SM 22ndEdition 28
 E. coli | Colilert® | | 9223 B | 9223 B | 9223 B-97, B-04
 | Colisure® | | 9223 B | 9223 B | 9223 B-97, B-04
 | Colilert-18 | 9223 B | 9223 B | 9223 B | 9223 B-97, B-04
-| Readycult® | | | | | Readycult® 20.
-| Colitag | | | | | Modified Colitag TM 13.
-| Chromocult® | | | | | Chromocult® 21.
+| Readycult® | | | | | Readycult.® 20
+| Colitag | | | | | Modified Colitag.TM 13
+| Chromocult® | | | | | Chromocult.® 21
 | EC-MUG | | | 9221 F | 9221 F-06
-| Tecta EC/TC 33
+| Tecta EC/TC. 33 43
 Enterococci | Multiple-Tube Technique | | | | 9230 B-04
 Coliphage | Two-Step Enrichment Presence-Absence Procedure | | | | | Fast Phage 30
 Alternative Testing Methods for Contaminants Listed at 40 CFR 141.704(a)
@@ -287,13 +290,13 @@ Organism | Methodology category | Method | SM 20th, 21st editions 1 6 | SM 22nd 
 Total Coliforms | Lactose Fermentation Methods | Standard Total Coliform Fermentation Technique | | 9221 B.1, B.2 | 9221 B.1, B.2-06.
 | Enzyme Substrate Methods | Colilert® | | 9223 B | 9223 B-04.
 | | Colisure® | | 9223 B | 9223 B-04.
-| | Colilert-18® | 9223 B | 9223 B | 9223 B-04.
-| | Tecta EC/TC.33
+| | Colilert-18 | 9223 B | 9223 B | 9223 B-04.
+| | Tecta EC/TC. 33 43
 Escherichia coli | Escherichia coli Procedure (following Lactose Fermentation Methods) | EC-MUG medium | | 9221 F.1 | 9221 F.1-06.
 | Enzyme Substrate Methods | Colilert® | | 9223 B | 9223 B-04.
 | | Colisure® | | 9223 B | 9223 B-04.
-| | Colilert-18® | 9223 B | 9223 B | 9223 B-04.
-| | Tecta EC/TC.33
+| | Colilert-18 | 9223 B | 9223 B | 9223 B-04.
+| | Tecta EC/TC. 33 43
 Alternative Testing Methods for Contaminants Listed at 40 CFR 143.4(b)
 Contaminant | Methodology | EPA method | ASTM 4 | SM 21stEdition 1 | SM 22ndEdition 28 | SM online 3
 Aluminum | Axially viewed inductively coupled plasma-atomic emission spectrometry (AVICP-AES) | 200.5, Revision 4.2 2
@@ -359,7 +362,7 @@ Zinc | Axially viewed inductively coupled plasma-atomic emission spectrometry (A
 30 Charm Sciences Inc. "Fast Phage Test Procedure. Presence/Absence for Coliphage in Ground Water with Same Day Positive Prediction". Version 009. November 2012. 659 Andover Street, Lawrence, MA 01843. Available at www.charmsciences.com.
 31 Hach Company. "Hach Method 10260—Determination of Chlorinated Oxidants (Free and Total) in Water Using Disposable Planar Reagent-filled Cuvettes and Mesofluidic Channel Colorimetry," April 2013. 5600 Lindbergh Drive, P.O. Box 389, Loveland, CO 80539. (Available at http://www.hach.com.)
 32 ChlordioX Plus. "Chlorine Dioxide and Chlorite in Drinking Water by Amperometry using Disposable Sensors," November 2013. Available from Palintest Ltd, Jamike Avenue (Suite 100), Erlanger, KY 41018.
-33 Tecta EC/TC. "TechtaTM EC/TC Medium and TechtaTM Instrument: A Presence/Absence Method for the Simultaneous Detection of Total Coliforms and Escherichia coli (E. coli) in Drinking Water," version 1.0, May 2014. Available from Veolia Water Solutions and Technologies, Suite 4697, Biosciences Complex, 116 Barrie Street, Kingston, Ontario, Canada, K7L 3N6.
+33 Tecta EC/TC. "TechtaTM EC/TC Medium and TechtaTM Instrument: A Presence/Absence Method for the Simultaneous Detection of Total Coliforms and Escherichia coli (E. coli) in Drinking Water," version 1.0, May 2014. Available from Pathogen Detection Systems, Inc., 382 King Street East, Kingston, Ontario, Canada, K7K 2Y2.
 34 Hach Company. "Hach Method 10241—Spectrophotometric Measurement of Free Chlorine (Cl2) in Finished Drinking Water," November 2015. Revision 1.2. 5600 Lindbergh Drive, P.O. Box 389, Loveland, CO 80539. (Available at http://www.hach.com.)
 35 Hach Company. "Hach Method 8026—Spectrophotometric Measurement of Copper in Finished Drinking Water," December 2015. Revision 1.2. 5600 Lindbergh Drive, P.O. Box 389, Loveland, CO 80539. (Available at http://www.hach.com.)
 36 Hach Company. "Hach Method 10272—Spectrophotometric Measurement of Copper in Finished Drinking Water," December 2015. Revision 1.2. 5600 Lindbergh Drive, P.O. Box 389, Loveland, CO 80539. (Available at http://www.hach.com.)
@@ -369,3 +372,9 @@ Zinc | Axially viewed inductively coupled plasma-atomic emission spectrometry (A
 40 Nitrate Elimination Company, Inc. (NECi). "Method for Nitrate Reductase Nitrate-Nitrogen Analysis of Drinking Water," February 2016. Superior Enzymes, Inc., 334 Hecla Street, Lake Linden, Michigan 49945.
 41 Thermo Fisher. "Thermo Fisher Scientific Drinking Water Orthophosphate Method for Thermo Scientific Gallery Discrete Analyzer," February 2016. Revision 5. Thermo Fisher Scientific, Ratastie 2, 01620 Vantaa, Finland.
 42 Mitchell Method M5331, Revision 1.2. "Determination of Turbidity by LED or Laser Nephelometry," February 2016. Available from Leck Mitchell, Ph.D., PE, 656 Independence Valley Dr., Grand Junction, CO 81507.
+43 Tecta EC/TC. "TectaTM EC/TC Medium and the TectaTM Instrument: A Presence/Absence Method for the Simultaneous Detection of Total Coliforms and Escherichia coli (E. coli) in Drinking Water," version 2.0, February 2017. Available from Pathogen Detection Systems, Inc., 382 King Street East, Kingston, Ontario, Canada, K7K 2Y2.
+44 Lovibond PTV 1000. "Continuous Measurement of Drinking Water Turbidity Using a Lovibond PTV 1000 White Light LED Turbidimeter," December 2016. Revision 1.0. Available from Tintometer, Inc., 6456 Parkland Drive, Sarasota, FL 34243.
+45 Lovibond PTV 2000. "Continuous Measurement of Drinking Water Turbidity Using a Lovibond PTV 2000 660-nm LED Turbidimeter," December 2016. Revision 1.0. Available from Tintometer, Inc., 6456 Parkland Drive, Sarasota, FL 34243.
+46 Lovibond PTV 6000. "Continuous Measurement of Drinking Water Turbidity Using a Lovibond PTV 6000 Laser Turbidimeter," December 2016. Revision 1.0. Available from Tintometer, Inc., 6456 Parkland Drive, Sarasota, FL 34243.
+47 Thermo Fisher. "Thermo Fisher Method 557.1: Determination of Haloacetic Acids in Drinking Water using Two-Dimensional Ion Chromatography with Suppressed Conductivity Detection," January 2017. Version 1.0. Available from Thermo Fisher Scientific, 490 Lakeside Dr., Sunnyvale, CA 94085 (Richard.jack@thermofisher.com).
+48 EPA Method 150.3. "Determination of pH in Drinking Water," February 2017. EPA 815-B-17-001. Available at the National Service Center for Environmental Publications (www.epa.gov/nscep).
