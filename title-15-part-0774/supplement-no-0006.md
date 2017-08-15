@@ -3,11 +3,11 @@ Note to Supplement No. 6: While the items on this list are identified by ECCN ra
 (1) Category 1
 (i) 1A002.
 (ii) 1C001.
-(iii) 1C007.c and.d.
+(iii) 1C007.c.
 (iv) 1C010.c and.d.
 (v) 1C012.
-(vi) 1D002—"Software" for the "development" of organic "matrix", metal "matrix", or carbon "matrix" laminates or composites controlled under 1A002, 1C007.c, 1C007.d, 1C010.c or 1C010.d.
-(vii) 1E001—"Technology" according to the General Technology Note for the "development" or "production" of equipment and materials controlled under 1A002, 1C001, 1C007.c, 1C007.d, 1C010.c, 1C010.d, or 1C012.
+(vi) 1D002—"Software" for the "development" of organic "matrix", metal "matrix", or carbon "matrix" laminates or composites controlled under 1A002, 1C007.c, 1C010.c or 1C010.d.
+(vii) 1E001—"Technology" according to the General Technology Note for the "development" or "production" of equipment and materials controlled under 1A002, 1C001, 1C007.c, 1C010.c, 1C010.d, or 1C012.
 (viii) 1E002.e and.f.
 (2) Category 2
 (i) 2D001—"Software," other than that controlled by 2D002, specially designed for the "development" or "production" of equipment as follows:
@@ -56,8 +56,8 @@ Note to Supplement No. 6: While the items on this list are identified by ECCN ra
 (4) Category 4
 (i) 4A001.a.2.
 (ii) 4D001—"Software" "specially designed" for the "development" or "production" of equipment controlled under ECCN 4A001.a.2 or for the "development" or "production" of
-"digital computers" having an 'Adjusted Peak Performance' ('APP') exceeding 12.5 Weighted TeraFLOPS (WT).
-(iii) 4E001—"Technology" according to the General Technology Note for the "development" or "production" of any of the following equipment or "software": equipment controlled under ECCN 4A001.a.2, "digital computers" having an 'Adjusted Peak Performance' ('APP') exceeding 12.5 Weighted TeraFLOPS (WT), or "software" controlled under the specific provisions of 4D001 described in this Supplement.
+"digital computers" having an 'Adjusted Peak Performance' ('APP') exceeding 16 Weighted TeraFLOPS (WT).
+(iii) 4E001—"Technology" according to the General Technology Note for the "development" or "production" of any of the following equipment or "software": equipment controlled under ECCN 4A001.a.2, "digital computers" having an 'Adjusted Peak Performance' ('APP') exceeding 16 Weighted TeraFLOPS (WT), or "software" controlled under the specific provisions of 4D001 described in this Supplement.
 (5) Category 5—Part 1
 (i) 5A001.b.3,.b.5, and.h.
 (ii) 5B001.a—Equipment and "specially designed" components or "accessories" therefor, "specially designed" for the "development" or "production" of equipment, functions or features controlled under 5A001.b.3, b.5, or.h.
@@ -77,10 +77,10 @@ Note to Supplement No. 6: While the items on this list are identified by ECCN ra
 (ii) 6A001.a.1.e.
 (iii) 6A001.a.2.a.1, a.2.a.2, a.2.a.3, a.2.a.5, and a.2.a.6.
 (iv) 6A001.a.2.b.
-(v) 6A001.a.2.c—Processing equipment, "specially designed" for real time application with towed acoustic hydrophone arrays, having "user accessible programmability" and time or frequency domain processing and correlation, including spectral analysis, digital filtering and beamforming using Fast Fourier or other transforms or processes.
+(v) 6A001.a.2.c—Processing equipment, "specially designed" for real time application with towed acoustic hydrophone arrays, having "user-accessible programmability" and time or frequency domain processing and correlation, including spectral analysis, digital filtering and beamforming using Fast Fourier or other transforms or processes.
 (vi) 6A001.a.2.d.
 (vii) 6A001.a.2.e.
-(viii) 6A001.a.2.f—Processing equipment, "specially designed" for real time application with bottom or bay cable systems, having "user accessible programmability" and time or frequency domain processing and correlation, including spectral analysis, digital filtering and beamforming using Fast Fourier or other transforms or processes.
+(viii) 6A001.a.2.f—Processing equipment, "specially designed" for real time application with bottom or bay cable systems, having "user-accessible programmability" and time or frequency domain processing and correlation, including spectral analysis, digital filtering and beamforming using Fast Fourier or other transforms or processes.
 (ix) 6A002.a.1.a, a.1.b, and a.1.c.
 (x) 6A002.a.1.d.
 (xi) 6A002.a.2.a—Image intensifier tubes having all of the following:
@@ -154,8 +154,8 @@ Note 5: 6A003.b.4.c does not apply to imaging cameras "specially designed" or mo
 (xxiv) 6A006.d—"Compensation systems" for the following:
 (A) Magnetic sensors specified by 6A006.a.2 and using optically pumped or nuclear precession (proton/Overhauser) "technology" that will permit these sensors to realize a 'sensitivity' lower (better) than 2 pT rms per square root Hz.
 (B) Underwater electric field sensors specified by 6A006.b.
-(C) Magnetic gradiometers specified by 6A006.c. that will permit these sensors to realize a 'sensitivity' lower (better) than 3 pT/m rms per square root Hz.
-(xxv) 6A006.e—Underwater electromagnetic receivers incorporating magnetometers specified by 6A006.a.1 or this Supplement's description of 6A006.a.2.
+(C) "Magnetic gradiometers" specified by 6A006.c. that will permit these sensors to realize a 'sensitivity' lower (better) than 3 pT/m rms per square root Hz.
+(xxv) 6A006.e—Underwater electromagnetic receivers incorporating "magnetometers" specified by 6A006.a.1 or this Supplement's description of 6A006.a.2.
 (xxvi) 6A008.d,.h, and.k.
 (xxvii) 6B008.
 (xxviii) 6D001—"Software" "specially designed" for the "development" or "production" of equipment specified by 6A004.c, 6A004.d, 6A008.d, 6A008.h, 6A008.k, or 6B008.
@@ -191,5 +191,6 @@ Note 5: 6A003.b.4.c does not apply to imaging cameras "specially designed" or mo
 (v) 9D004.a and.c.
 (vi) 9E001.
 (vii) 9E002.
-(viii) 9E003.a.1.
-(ix) 9E003.a.2 to a.5, a.8,.h.
+(viii) [Reserved]
+(ix) 9E003.a.1 to a.5, a.8.
+(x) 9E003.h.
