@@ -1,8 +1,8 @@
 # Appendix E to Part 43—Altimeter System Test and Inspection
-Each person performing the altimeter system tests and inspections required by § 91.411 shall comply with the following:
+Each person performing the altimeter system tests and inspections required by § 91.411 of this chapter must comply with the following:
 (a) Static pressure system:
 (1) Ensure freedom from entrapped moisture and restrictions.
-(2) Determine that leakage is within the tolerances established in § 23.1325 or § 25.1325, whichever is applicable.
+(2) Perform a proof test to demonstrate the integrity of the static pressure system in a manner acceptable to the Administrator. For airplanes certificated under part 25 of this chapter, determine that leakage is within the tolerances established by § 25.1325.
 (3) Determine that the static port heater, if installed, is operative.
 (4) Ensure that no alterations or deformations of the airframe surface have been made that would affect the relationship between air pressure in the static pressure system and true ambient static air pressure for any flight condition.
 (b) Altimeter:
