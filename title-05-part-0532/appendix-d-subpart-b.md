@@ -237,6 +237,7 @@ Florida:
 Hillsborough
 Area of Application. Survey area plus:
 Florida:
+Lee
 Pinellas
 Polk
 Miami-Dade
@@ -283,6 +284,7 @@ Area of Application. Survey area plus:
 Georgia:
 Bartow
 De Kalb
+Fulton
 Columbus
 Survey Area
 Georgia:
@@ -306,7 +308,9 @@ Lowndes
 Survey Area
 Georgia:
 Lowndes
-Area of Application. Survey area.
+Area of Application. Survey area plus.
+Florida:
+Leon
 Richmond
 Survey Area
 Georgia:
@@ -356,6 +360,7 @@ Michigan:
 Dickinson
 Marquette
 Wisconsin:
+Brown
 Dane
 Milwaukee
 St. Clair
@@ -528,6 +533,7 @@ Crawford
 Grand Traverse
 Huron
 Iosco
+Kent
 Leelanau
 Ottawa
 Saginaw
@@ -740,6 +746,7 @@ Cumberland
 Area of Application. Survey area plus:
 North Carolina:
 Durham
+Forsyth
 Rowan
 Onslow
 Survey Area
@@ -889,6 +896,7 @@ Richland
 Area of Application. Survey area plus:
 North Carolina:
 Buncombe
+Mecklenburg
 South Carolina:
 Sumpter
 Tennessee:
@@ -912,8 +920,6 @@ Survey Area
 Tennessee:
 Shelby
 Area of Application. Survey area plus:
-Arkansas:
-Mississippi
 Missouri:
 Butler
 TEXAS
@@ -964,6 +970,7 @@ Area of Application. Survey area plus:
 Texas:
 Bee
 Calhoun
+Cameron
 Kleberg
 San Patricio
 Webb
@@ -1080,6 +1087,7 @@ Oregon:
 Clatsop
 Coos
 Douglas
+Lane
 Multnomah
 Tillamook
 Washington:
