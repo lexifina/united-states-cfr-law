@@ -30,4 +30,4 @@ Xe-133m | 2.19 d | 1E-04 | 5E + 06
 Xe-135 | 9.11 h | 1E-05 | 6E + 05
 Xe-135m | 15.36 min | 1E-05 | 3E + 05
 Xe-138 | 14.13 min | 3E-06 | 1E + 05
-For any single radionuclide not listed above with decay mode other than alpha emission or spontaneous fission and with radioactive half-life less than two hours, the DAC value shall be 6 E-06 µCi/mL (2 E + 04 Bq/m3).
+For any single radionuclide not listed above with decay mode other than alpha emission or spontaneous fission and with radioactive half-life less than two hours, the DAC value shall be 1 E-06 µCi/mL (7 E+04 Bq/m3).
