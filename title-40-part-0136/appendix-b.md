@@ -1,56 +1,70 @@
-# Appendix B to Part 136—Definition and Procedure for the Determination of the Method Detection Limit—Revision 1.11
+# Appendix B to Part 136—Definition and Procedure for the Determination of the Method Detection Limit—Revision 2
 Definition
-The method detection limit (MDL) is defined as the minimum concentration of a substance that can be measured and reported with 99% confidence that the analyte concentration is greater than zero and is determined from analysis of a sample in a given matrix containing the analyte.
-Scope and Application
-This procedure is designed for applicability to a wide variety of sample types ranging from reagent (blank) water containing analyte to wastewater containing analyte. The MDL for an analytical procedure may vary as a function of sample type. The procedure requires a complete, specific, and well defined analytical method. It is essential that all sample processing steps of the analytical method be included in the determination of the method detection limit.
-The MDL obtained by this procedure is used to judge the significance of a single measurement of a future sample.
-The MDL procedure was designed for applicability to a broad variety of physical and chemical methods. To accomplish this, the procedure was made device- or instrument-independent.
-Procedure
-1. Make an estimate of the detection limit using one of the following:
-(a) The concentration value that corresponds to an instrument signal/noise in the range of 2.5 to 5.
-(b) The concentration equivalent of three times the standard deviation of replicate instrumental measurements of the analyte in reagent water.
-(c) That region of the standard curve where there is a significant change in sensitivity, i.e., a break in the slope of the standard curve.
-(d) Instrumental limitations.
-It is recognized that the experience of the analyst is important to this process. However, the analyst must include the above considerations in the initial estimate of the detection limit.
-2. Prepare reagent (blank) water that is as free of analyte as possible. Reagent or interference free water is defined as a water sample in which analyte and interferent concentrations are not detected at the method detection limit of each analyte of interest. Interferences are defined as systematic errors in the measured analytical signal of an established procedure caused by the presence of interfering species (interferent). The interferent concentration is presupposed to be normally distributed in representative samples of a given matrix.
-3. (a) If the MDL is to be determined in reagent (blank) water, prepare a laboratory standard (analyte in reagent water) at a concentration which is at least equal to or in the same concentration range as the estimated method detection limit. (Recommend between 1 and 5 times the estimated method detection limit.) Proceed to Step 4.
-(b) If the MDL is to be determined in another sample matrix, analyze the sample. If the measured level of the analyte is in the recommended range of one to five times the estimated detection limit, proceed to Step 4.
-If the measured level of analyte is less than the estimated detection limit, add a known amount of analyte to bring the level of analyte between one and five times the estimated detection limit.
-If the measured level of analyte is greater than five times the estimated detection limit, there are two options.
-(1) Obtain another sample with a lower level of analyte in the same matrix if possible.
-(2) The sample may be used as is for determining the method detection limit if the analyte level does not exceed 10 times the MDL of the analyte in reagent water. The variance of the analytical method changes as the analyte concentration increases from the MDL, hence the MDL determined under these circumstances may not truly reflect method variance at lower analyte concentrations.
-4. (a) Take a minimum of seven aliquots of the sample to be used to calculate the method detection limit and process each through the entire analytical method. Make all computations according to the defined method with final results in the method reporting units. If a blank measurement is required to calculate the measured level of analyte, obtain a separate blank measurement for each sample aliquot analyzed. The average blank measurement is subtracted from the respective sample measurements.
-(b) It may be economically and technically desirable to evaluate the estimated method detection limit before proceeding with 4a. This will: (1) Prevent repeating this entire procedure when the costs of analyses are high and (2) insure that the procedure is being conducted at the correct concentration. It is quite possible that an inflated MDL will be calculated from data obtained at many times the real MDL even though the level of analyte is less than five times the calculated method detection limit. To insure that the estimate of the method detection limit is a good estimate, it is necessary to determine that a lower concentration of analyte will not result in a significantly lower method detection limit. Take two aliquots of the sample to be used to calculate the method detection limit and process each through the entire method, including blank measurements as described above in 4a. Evaluate these data:
-(1) If these measurements indicate the sample is in desirable range for determination of the MDL, take five additional aliquots and proceed. Use all seven measurements for calculation of the MDL.
-(2) If these measurements indicate the sample is not in correct range, reestimate the MDL, obtain new sample as in 3 and repeat either 4a or 4b.
-5. Calculate the variance (S2) and standard deviation (S) of the replicate measurements, as follows:
-EC15NO91.208
-where:
-Xι; i = 1 to n, are the analytical results in the final method reporting units obtained from the n sample aliquots and Σ refers to the sum of the X values from i = l to n.
-6. (a) Compute the MDL as follows:
-MDL = t(n-1,1- α = 0.99) (S)
-where:
-MDL = the method detection limit
-t(n-1,1- α =.99) = the students' t value appropriate for a 99% confidence level and a standard deviation estimate with n-1 degrees of freedom. See Table.
-S = standard deviation of the replicate analyses.
-(b) The 95% confidence interval estimates for the MDL derived in 6a are computed according to the following equations derived from percentiles of the chi square over degrees of freedom distribution (χ2/df).
-LCL = 0.64 MDL
-UCL = 2.20 MDL
-where: LCL and UCL are the lower and upper 95% confidence limits respectively based on seven aliquots.
-7. Optional iterative procedure to verify the reasonableness of the estimate of the MDL and subsequent MDL determinations.
-(a) If this is the initial attempt to compute MDL based on the estimate of MDL formulated in Step 1, take the MDL as calculated in Step 6, spike the matrix at this calculated MDL and proceed through the procedure starting with Step 4.
-(b) If this is the second or later iteration of the MDL calculation, use S2 from the current MDL calculation and S2 from the previous MDL calculation to compute the F-ratio. The F-ratio is calculated by substituting the larger S2 into the numerator S2 A and the other into the denominator S2 B. The computed F-ratio is then compared with the F-ratio found in the table which is 3.05 as follows: if S2 A/S2 B<3.05, then compute the pooled standard deviation by the following equation:
-EC15NO91.209
-if S2 A/S2 B>3.05, respike at the most recent calculated MDL and process the samples through the procedure starting with Step 4. If the most recent calculated MDL does not permit qualitative identification when samples are spiked at that level, report the MDL as a concentration between the current and previous MDL which permits qualitative identification.
-(c) Use the Spooled as calculated in 7b to compute The final MDL according to the following equation:
-MDL = 2.681 (Spooled)
-where 2.681 is equal to t(12,1− α=.99).
-(d) The 95% confidence limits for MDL derived in 7c are computed according to the following equations derived from precentiles of the chi squared over degrees of freedom distribution.
-LCL = 0.72 MDL
-UCL = 1.65 MDL
-where LCL and UCL are the lower and upper 95% confidence limits respectively based on 14 aliquots.
-Tables of Students' t Values at the 99 Percent Confidence Level
-Number of replicates | Degrees of freedom (n-1) | tcn-1,.99)
+The method detection limit (MDL) is defined as the minimum measured concentration of a substance that can be reported with 99% confidence that the measured concentration is distinguishable from method blank results.
+I. Scope and Application
+(1) The MDL procedure is designed to be a straightforward technique for estimation of the detection limit for a broad variety of physical and chemical methods. The procedure requires a complete, specific, and well-defined analytical method. It is essential that all sample processing steps used by the laboratory be included in the determination of the method detection limit.
+(2) The MDL procedure is not applicable to methods that do not produce results with a continuous distribution, such as, but not limited to, methods for whole effluent toxicity, presence/absence methods, and microbiological methods that involve counting colonies. The MDL procedure also is not applicable to measurements such as, but not limited to, biochemical oxygen demand, color, pH, specific conductance, many titration methods, and any method where low-level spiked samples cannot be prepared. Except as described in the addendum, for the purposes of this procedure, "spiked samples" are prepared from a clean reference matrix, such as reagent water, spiked with a known and consistent quantity of the analyte. MDL determinations using spiked samples may not be appropriate for all gravimetric methods (e.g., residue or total suspended solids), but an MDL based on method blanks can be determined in such instances.
+II. Procedure
+(1) Estimate the initial MDL using one or more of the following:
+(a) The mean determined concentration plus three times the standard deviation of a set of method blanks.
+(b) The concentration value that corresponds to an instrument signal-to-noise ratio in the range of 3 to 5.
+(c) The concentration equivalent to three times the standard deviation of replicate instrumental measurements of spiked blanks.
+(d) That region of the calibration where there is a significant change in sensitivity, i.e., a break in the slope of the calibration.
+(e) Instrumental limitations.
+(f) Previously determined MDL.
+Note: It is recognized that the experience of the analyst is important to this process. However, the analyst should include some or all of the above considerations in the initial estimate of the MDL.
+(2) Determine the initial MDL.
+Note: The Initial MDL is used when the laboratory does not have adequate data to perform the Ongoing Annual Verification specified in Section (4), typically when a new method is implemented or if a method was rarely used in the last 24 months.
+(a) Select a spiking level, typically 2—10 times the estimated MDL in Section 1. Spiking levels in excess of 10 times the estimated detection limit may be required for analytes with very poor recovery (e.g., for an analyte with 10% recovery, spiked at 100 micrograms/L, with mean recovery of 10 micrograms/L; the calculated MDL may be around 3 micrograms/L. Therefore, in this example, the spiking level would be 33 times the MDL, but spiking lower may result in no recovery at all).
+(b) Process a minimum of seven spiked samples and seven method blank samples through all steps of the method. The samples used for the MDL must be prepared in at least three batches on three separate calendar dates and analyzed on three separate calendar dates. (Preparation and analysis may be on the same day.) Existing data may be used, if compliant with the requirements for at least three batches, and generated within the last twenty four months. The most recent available data for method blanks and spiked samples must be used. Statistical outlier removal procedures should not be used to remove data for the initial MDL determination, since the total number of observations is small and the purpose of the MDL procedure is to capture routine method variability. However, documented instances of gross failures (e.g., instrument malfunctions, mislabeled samples, cracked vials) may be excluded from the calculations, provided that at least seven spiked samples and seven method blanks are available. (The rationale for removal of specific outliers must be documented and maintained on file with the results of the MDL determination.)
+(i) If there are multiple instruments that will be assigned the same MDL, then the sample analyses must be distributed across all of the instruments.
+(ii) A minimum of two spiked samples and two method blank samples prepared and analyzed on different calendar dates is required for each instrument. Each analytical batch may contain one spiked sample and one method blank sample run together. A spiked sample and a method blank sample may be analyzed in the same batch, but are not required to be.
+(iii) The same prepared extract may be analyzed on multiple instruments so long as the minimum requirement of seven preparations in at least three separate batches is maintained.
+(c) Evaluate the spiking level: If any result for any individual analyte from the spiked samples does not meet the method qualitative identification criteria or does not provide a numerical result greater than zero, then repeat the spiked samples at a higher concentration. (Qualitative identification criteria are a set of rules or guidelines for establishing the identification or presence of an analyte using a measurement system. Qualitative identification does not ensure that quantitative results for the analyte can be obtained.)
+(d) Make all computations as specified in the analytical method and express the final results in the method-specified reporting units.
+(i) Calculate the sample standard deviation (S) of the replicate spiked sample measurements and the sample standard deviation of the replicate method blank measurements from all instruments to which the MDL will be applied.
+(ii) Compute the MDLs (the MDL based on spiked samples) as follows:
+MDL S = t (n −1, 1− α = 0.99) S s
+Where:
+MDLs = the method detection limit based on spiked samples
+t (n-1, 1− α = 0.99) = the Student's t-value appropriate for a single-tailed 99th percentile t statistic and a standard deviation estimate with n-1 degrees of freedom. See Addendum Table 1.
+Ss = sample standard deviation of the replicate spiked sample analyses.
+(iii) Compute the MDLb (the MDL based on method blanks) as follows:
+(A) If none of the method blanks give numerical results for an individual analyte, the MDLb does not apply. A numerical result includes both positive and negative results, including results below the current MDL, but not results of "ND" (not detected) commonly observed when a peak is not present in chromatographic analysis.
+(B) If some (but not all) of the method blanks for an individual analyte give numerical results, set the MDLb equal to the highest method blank result. If more than 100 method blanks are available, set MDLb to the level that is no less than the 99th percentile of the method blank results. For "n" method blanks where n ≥ 100, sort the method blanks in rank order. The (n * 0.99) ranked method blank result (round to the nearest whole number) is the MDLb. For example, to find MDLb from a set of 164 method blanks where the highest ranked method blank results are... 1.5, 1.7, 1.9, 5.0, and 10, then 164 × 0.99 = 162.36 which rounds to the 162nd method blank result. Therefore, MDLb is 1.9 for n = 164 (10 is the 164th result, 5.0 is the 163rd result, and 1.9 is the 162nd result). Alternatively, you may use spreadsheet algorithms to calculate the 99th percentile to interpolate between the ranks more precisely.
+(C) If all of the method blanks for an individual analyte give numerical results, then calculate the MDLb as:
+MDL b = X + t n −1,1− α = (0.99) S b
+Where:
+MDLb = the MDL based on method blanks
+X = mean of the method blank results (use zero in place of the mean if the mean is negative)
+t (n−1, 1 α = 0.99) = the Student's t-value appropriate for the single-tailed 99th percentile t statistic and a standard deviation estimate with n−1 degrees of freedom. See Addendum Table 1.
+Sb = sample standard deviation of the replicate method blank sample analyses.
+Note: If 100 or more method blanks are available, as an option, MDLb may be set to the concentration that is greater than or equal to the 99th percentile of the method blank results, as described in Section (2)(d)(iii)(B).
+(e) Select the greater of MDLs or MDLb as the initial MDL.
+(3) Ongoing Data Collection.
+(a) During any quarter in which samples are being analyzed, prepare and analyze a minimum of two spiked samples on each instrument, in separate batches, using the same spiking concentration used in Section 2. If any analytes are repeatedly not detected in the quarterly spiked sample analyses, or do not meet the qualitative identification criteria of the method (see section 2(c) of this procedure), then this is an indication that the spiking level is not high enough and should be adjusted upward. Note that it is not necessary to analyze additional method blanks together with the spiked samples, the method blank population should include all of the routine method blanks analyzed with each batch during the course of sample analysis.
+(b) Ensure that at least seven spiked samples and seven method blanks are completed for the annual verification. If only one instrument is in use, a minimum of seven spikes are still required, but they may be drawn from the last two years of data collection.
+(c) At least once per year, re-evaluate the spiking level.
+(i) If more than 5% of the spiked samples do not return positive numerical results that meet all method qualitative identification criteria, then the spiking level must be increased and the initial MDL re-determined following the procedure in section 2.
+(ii) [Reserved]
+(d) If the method is altered in a way that can be reasonably expected to change its sensitivity, then re-determine the initial MDL according to section 2, and the restart the ongoing data collection.
+(e) If a new instrument is added to a group of instruments whose data are being pooled to create a single MDL, analyze a minimum of two spiked replicates and two method blank replicates on the new instrument. If both method blank results are below the existing MDL, then the existing MDLb is validated. Combine the new spiked sample results to the existing spiked sample results and recalculate the MDLs as in Section 4. If the recalculated MDLs does not vary by more than the factor specified in section 4(f) of this procedure, then the existing MDLs is validated. If either of these two conditions is not met, then calculate a new MDL following the instructions in section 2.
+(4) Ongoing Annual Verification.
+(a) At least once every thirteen months, re-calculate MDLs and MDLb from the collected spiked samples and method blank results using the equations in section 2.
+(b) Include data generated within the last twenty four months, but only data with the same spiking level. Only documented instances of gross failures (e.g., instrument malfunctions, mislabeled samples, cracked vials) may be excluded from the calculations. (The rationale for removal of specific outliers must be documented and maintained on file with the results of the MDL determination.) If the laboratory believes the sensitivity of the method has changed significantly, then the most recent data available may be used, maintaining compliance with the requirement for at least seven replicates in three separate batches on three separate days (see section 2b).
+(c) Include the initial MDL spiked samples, if the data were generated within twenty four months.
+(d) Only use data associated with acceptable calibrations and batch QC. Include all routine data, with the exception of batches that are rejected and the associated samples reanalyzed. If the method has been altered in a way that can be reasonably expected to change its sensitivity, then use only data collected after the change.
+(e) Ideally, use all method blank results from the last 24 months for the MDLb calculation. The laboratory has the option to use only the last six months of method blank data or the fifty most recent method blanks, whichever criteria yields the greater number of method blanks.
+(f) The verified MDL is the greater of the MDLs or MDLb. If the verified MDL is within 0.5 to 2.0 times the existing MDL, and fewer than 3% of the method blank results (for the individual analyte) have numerical results above the existing MDL, then the existing MDL may optionally be left unchanged. Otherwise, adjust the MDL to the new verification MDL. (The range of 0.5 to 2.0 approximates the 95th percentile confidence interval for the initial MDL determination with six degrees of freedom.)
+Addendum to Section II: Determination of the MDL for a Specific Matrix
+The MDL may be determined in a specific sample matrix as well as in reagent water.
+(1) Analyze the sample matrix to determine the native (background) concentration of the analyte(s) of interest.
+(2) If the response for the native concentration is at a signal-to-noise ratio of approximately 5-20, determine the matrix-specific MDL according to Section 2 but without spiking additional analyte.
+(3) Calculate MDLb using the method blanks, not the sample matrix.
+(4) If the signal-to-noise ratio is less than 5, then the analyte(s) should be spiked into the sample matrix to obtain a concentration that will give results with a signal-to-noise ratio of approximately 10-20.
+(5) If the analytes(s) of interest have signal-to-noise ratio(s) greater than approximately 20, then the resulting MDL is likely to be biased high.
+Table 1—Single-Tailed 99th Percentile t Statistic
+Number of replicates | Degrees of freedom(n−1) | t (n−1, 0.99)
 7 | 6 | 3.143
 8 | 7 | 2.998
 9 | 8 | 2.896
@@ -60,8 +74,13 @@ Number of replicates | Degrees of freedom (n-1) | tcn-1,.99)
 21 | 20 | 2.528
 26 | 25 | 2.485
 31 | 30 | 2.457
+32 | 31 | 2.453
+48 | 47 | 2.408
+50 | 49 | 2.405
 61 | 60 | 2.390
-00 | 00 | 2.326
-Reporting
-The analytical method used must be specifically identified by number or title ald the MDL for each analyte expressed in the appropriate method reporting units. If the analytical method permits options which affect the method detection limit, these conditions must be specified with the MDL value. The sample matrix used to determine the MDL must also be identified with MDL value. Report the mean analyte level with the MDL and indicate if the MDL procedure was iterated. If a laboratory standard or a sample that contained a known amount analyte was used for this determination, also report the mean recovery.
-If the level of analyte in the sample was below the determined MDL or exceeds 10 times the MDL of the analyte in reagent water, do not report a value for the MDL.
+64 | 63 | 2.387
+80 | 79 | 2.374
+96 | 95 | 2.366
+100 | 99 | 2.365
+III. Documentation
+The analytical method used must be specifically identified by number or title and the MDL for each analyte expressed in the appropriate method reporting units. Data and calculations used to establish the MDL must be able to be reconstructed upon request. The sample matrix used to determine the MDL must also be identified with MDL value. Document the mean spiked and recovered analyte levels with the MDL. The rationale for removal of outlier results, if any, must be documented and maintained on file with the results of the MDL determination.
