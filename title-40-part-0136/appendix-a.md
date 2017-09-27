@@ -386,7 +386,7 @@ If the RF value over the working range is a constant (<10% RSD), the RF can be a
 7.5.2 Analyze the QC check sample according to Section 10.
 7.5.3 For each parameter, compare the response (Q) with the corresponding calibration acceptance criteria found in Table 2. If the responses for all parameters of interest fall within the designated ranges, analysis of actual samples can begin. If any individual Q falls outside the range, a new calibration curve, calibration factor, or RF must be prepared for that parameter according to Section 7.3 or 7.4.
 8. Quality Control
-8.1 Each laboratory that uses this method is required to operate a formal quality control program. The mimimum requirements of this program consist of an initial demonstration of laboratory capability and an ongoing analysis of spiked samples to evaluate and document data quality. The laboratory must maintain records to document the quality of data that is generated. Ongoing data quality checks are compared with established performance criteria to determine if the results of analyses meet the performance characteristics of the method. When results of sample spikes indicate atypical method performance, a quality control check standard must be analyzed to confirm that the measurements were performed in an in-control mode of operation.
+8.1 Each laboratory that uses this method is required to operate a formal quality control program. The minimum requirements of this program consist of an initial demonstration of laboratory capability and an ongoing analysis of spiked samples to evaluate and document data quality. The laboratory must maintain records to document the quality of data that is generated. Ongoing data quality checks are compared with established performance criteria to determine if the results of analyses meet the performance characteristics of the method. When results of sample spikes indicate atypical method performance, a quality control check standard must be analyzed to confirm that the measurements were performed in an in-control mode of operation.
 8.1.1 The analyst must make an initial, one-time, demonstration of the ability to generate acceptable accuracy and precision with this method. This ability is established as described in Section 8.2.
 8.1.2 In recognition of advances that are occurring in chromatography, the analyst is permitted certain options (detailed in Section 10.1) to improve the separations or lower the cost of measurements. Each time such a modification is made to the method, the analyst is required to repeat the procedure in Section 8.2.
 8.1.3 Each day, the analyst must analyze a reagent water blank to demonstrate that interferences from the analytical system are under control.
@@ -1607,258 +1607,753 @@ C = True value for the concentration, in µg/L.
 X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
 EC02JY92.017
 EC02JY92.018
-Method 608—Organochlorine Pesticides and PCBs
+Method 608.3—Organochlorine Pesticides And PCBs By GC/HSD
 1. Scope and Application
-1.1 This method covers the determination of certain organochlorine pesticides and PCBs. The following parameters can be determined by this method:
-Parameter | STORET No. | CAS No.
-Aldrin | 39330 | 309-00-2
-α-BHC | 39337 | 319-84-6
-β-BHC | 39338 | 319-85-7
-δ-BHC | 34259 | 319-86-8
-γ-BHC | 39340 | 58-89-9
-Chlordane | 39350 | 57-74-9
-4,4′-DDD | 39310 | 72-54-8
-4,4′-DDE | 39320 | 72-55-9
-4,4′-DDT | 39300 | 50-29-3
-Dieldrin | 39380 | 60-57-1
-Endosulfan I | 34361 | 959-98-8
-Endosulfan II | 34356 | 33212-65-9
-Endosulfan sulfate | 34351 | 1031-07-8
-Eldrin | 39390 | 72-20-8
-Endrin aldehyde | 34366 | 7421-93-4
-Heptachlor | 39410 | 76-44-8
-Heptachlor epoxide | 39420 | 1024-57-3
-Toxaphene | 39400 | 8001-35-2
-PCB-1016 | 34671 | 12674-11-2
-PCB-1221 | 39488 | 1104-28-2
-PCB-1232 | 39492 | 11141-16-5
-PCB-1242 | 39496 | 53469-21-9
-PCB-1248 | 39500 | 12672-29-6
-PCB-1254 | 39504 | 11097-69-1
-PCB-1260 | 39508 | 11096-82-5
-1.2 This is a gas chromatographic (GC) method applicable to the determination of the compounds listed above in municipal and industrial discharges as provided under 40 CFR 136.1. When this method is used to analyze unfamiliar samples for any or all of the compounds above, compound identifications should be supported by at least one additional qualitative technique. This method describes analytical conditions for a second gas chromatographic column that can be used to confirm measurements made with the primary column. Method 625 provides gas chromatograph/mass spectrometer (GC/MS) conditions appropriate for the qualitative and quantitative confirmation of results for all of the parameters listed above, using the extract produced by this method.
-1.3 The method detection limit (MDL, defined in Section 14.1) 1 for each parameter is listed in Table 1. The MDL for a specific wastewater may differ from those listed, depending upon the nature of interferences in the sample matrix.
-1.4 The sample extraction and concentration steps in this method are essentially the same as in Methods 606, 609, 611, and 612. Thus, a single sample may be extracted to measure the parameters included in the scope of each of these methods. When cleanup is required, the concentration levels must be high enough to permit selecting aliquots, as necessary, to apply appropriate cleanup procedures. The analyst is allowed the latitude, under Section 12, to select chromatographic conditions appropriate for the simultaneous measurement of combinations of these parameters.
-1.5 Any modification of this method, beyond those expressly permitted, shall be considered as a major modification subject to application and approval of alternate test procedures under 40 CFR 136.4 and 136.5.
-1.6 This method is restricted to use by or under the supervision of analysts experienced in the use of a gas chromatograph and in the interpretation of gas chromatograms. Each analyst must demonstrate the ability to generate acceptable results with this method using the procedure described in Section 8.2.
+1.1 This method is for determination of organochlorine pesticides and polychlorinated biphenyls (PCBs) in industrial discharges and other environmental samples by gas chromatography (GC) combined with a halogen-specific detector (HSD; e.g., electron capture, electrolytic conductivity), as provided under 40 CFR 136.1. This revision is based on a previous protocol (Reference 1), on the revision promulgated October 26, 1984, on an inter-laboratory method validation study (Reference 2), and on EPA Method 1656 (Reference 16). The analytes that may be qualitatively and quantitatively determined using this method and their CAS Registry numbers are listed in Table 1.
+1.2 This method may be extended to determine the analytes listed in Table 2. However, extraction or gas chromatography challenges for some of these analytes may make quantitative determination difficult.
+1.3 When this method is used to analyze unfamiliar samples for an analyte listed in Table 1 or Table 2, analyte identification must be supported by at least one additional qualitative technique. This method gives analytical conditions for a second GC column that can be used to confirm and quantify measurements. Additionally, Method 625.1 provides gas chromatograph/mass spectrometer (GC/MS) conditions appropriate for the qualitative confirmation of results for the analytes listed in Tables 1 and 2 using the extract produced by this method, and Method 1699 (Reference 18) provides high resolution GC/MS conditions for qualitative confirmation of results using the original sample. When such methods are used to confirm the identifications of the target analytes, the quantitative results should be derived from the procedure with the calibration range and sensitivity that are most appropriate for the intended application.
+1.4 The large number of analytes in Tables 1 and 2 makes testing difficult if all analytes are determined simultaneously. Therefore, it is necessary to determine and perform quality control (QC) tests for the "analytes of interest" only. The analytes of interest are those required to be determined by a regulatory/control authority or in a permit, or by a client. If a list of analytes is not specified, the analytes in Table 1 must be determined, at a minimum, and QC testing must be performed for these analytes. The analytes in Table 1 and some of the analytes in Table 2 have been identified as Toxic Pollutants (40 CFR 401.15), expanded to a list of Priority Pollutants (40 CFR part 423, appendix A).
+1.5 In this revision to Method 608, Chlordane has been listed as the alpha- and gamma- isomers in Table 1. Reporting may be by the individual isomers, or as the sum of the concentrations of these isomers, as requested or required by a regulatory/control authority or in a permit. Technical Chlordane is listed in Table 2 and may be used in cases where historical reporting has only been the Technical Chlordane. Toxaphene and the PCBs have been moved from Table 1 to Table 2 (Additional Analytes) to distinguish these analytes from the analytes required in quality control tests (Table 1). QC acceptance criteria for Toxaphene and the PCBs have been retained in Table 4 and may continue to be applied if desired, or if these analytes are requested or required by a regulatory/control authority or in a permit. Method 1668C (Reference 17) may be useful for determination of PCBs as individual chlorinated biphenyl congeners, and Method 1699 (Reference 18) may be useful for determination of the pesticides listed in this method. However, at the time of writing of this revision, Methods 1668C and 1699 had not been approved for use at 40 CFR part 136.
+1.6 Method detection limits (MDLs; Reference 3) for the analytes in Tables 1 and some of the analytes in Table 2 are listed in those tables. These MDLs were determined in reagent water (Reference 3). Advances in analytical technology, particularly the use of capillary (open-tubular) columns, allowed laboratories to routinely achieve MDLs for the analytes in this method that are 2-10 times lower than those in the version promulgated in 1984. The MDL for an analyte in a specific wastewater may differ from those listed, depending upon the nature of interferences in the sample matrix.
+1.6.1 EPA has promulgated this method at 40 CFR part 136 for use in wastewater compliance monitoring under the National Pollutant Discharge Elimination System (NPDES). The data reporting practices described in section 15.6 are focused on such monitoring needs and may not be relevant to other uses of the method.
+1.6.2 This method includes "reporting limits" based on EPA's "minimum level" (ML) concept (see the glossary in section 23). Tables 1 and 2 contain MDL values and ML values for many of the analytes.
+1.7 The separatory funnel and continuous liquid-liquid sample extraction and concentration steps in this method are essentially the same as those steps in Methods 606, 609, 611, and 612. Thus, a single sample may be extracted to measure the analytes included in the scope of each of these methods. Samples may also be extracted using a disk-based solid-phase extraction (SPE) procedure developed by the 3M Corporation and approved by EPA as an Alternate Test Procedure (ATP) for wastewater analyses in 1995 (Reference 20).
+1.8 This method is performance-based. It may be modified to improve performance (e.g., to overcome interferences or improve the accuracy of results) provided all performance requirements are met.
+1.8.1 Examples of allowed method modifications are described at 40 CFR 136.6. Other examples of allowed modifications specific to this method are described in section 8.1.2.
+1.8.2 Any modification beyond those expressly permitted at 40 CFR 136.6 or in section 8.1.2 of this method shall be considered a major modification subject to application and approval of an alternate test procedure under 40 CFR 136.4 and 136.5.
+1.8.3 For regulatory compliance, any modification must be demonstrated to produce results equivalent or superior to results produced by this method when applied to relevant wastewaters (section 8.1.2).
+1.9 This method is restricted to use by or under the supervision of analysts experienced in the use of GC/HSD. The laboratory must demonstrate the ability to generate acceptable results with this method using the procedure in section 8.2.
+1.10 Terms and units of measure used in this method are given in the glossary at the end of the method.
 2. Summary of Method
-2.1 A measured volume of sample, approximately 1-L, is extracted with methylene chloride using a separatory funnel. The methylene chloride extract is dried and exchanged to hexane during concentration to a volume of 10 mL or less. The extract is separated by gas chromatography and the parameters are then measured with an electron capture detector. 2
-2.2 The method provides a Florisil column cleanup procedure and an elemental sulfur removal procedure to aid in the elimination of interferences that may be encountered.
-3. Interferences
-3.1 Method interferences may be caused by contaminants in solvents, reagents, glassware, and other sample processing hardware that lead to discrete artifacts and/or elevated baselines in gas chromatograms. All of these materials must be routinely demonstrated to be free from interferences under the conditions of the analysis by running laboratory reagent blanks as described in Section 8.1.3.
-3.1.1 Glassware must be scrupulously cleaned. 3 Clean all glassware as soon as possible after use by rinsing with the last solvent used in it. Solvent rinsing should be followed by detergent washing with hot water, and rinses with tap water and distilled water. The glassware should then be drained dry, and heated in a muffle furnace at 400 °C for 15 to 30 min. Some thermally stable materials, such as PCBs, may not be eliminated by this treatment. Solvent rinses with acetone and pesticide quality hexane may be substituted for the muffle furnace heating. Thorough rinsing with such solvents usually eliminates PCB interference. Volumetric ware should not be heated in a muffle furnace. After drying and cooling, glassware should be sealed and stored in a clean environment to prevent any accumulation of dust or other contaminants. Store inverted or capped with aluminum foil.
-3.1.2 The use of high purity reagents and solvents helps to minimize interference problems. Purification of solvents by distillation in all-glass systems may be required.
-3.2 Interferences by phthalate esters can pose a major problem in pesticide analysis when using the electron capture detector. These compounds generally appear in the chromatogram as large late eluting peaks, especially in the 15 and 50% fractions from Florisil. Common flexible plastics contain varying amounts of phthalates. These phthalates are easily extracted or leached from such materials during laboratory operations. Cross contamination of clean glassware routinely occurs when plastics are handled during extraction steps, especially when solvent-wetted surfaces are handled. Interferences from phthalates can best be minimized by avoiding the use of plastics in the laboratory. Exhaustive cleanup of reagents and glassware may be required to eliminate background phthalate contamination. 4 5 The interferences from phthalate esters can be avoided by using a microcoulometric or electrolytic conductivity detector.
-3.3 Matrix interferences may be caused by contaminants that are co-extracted from the sample. The extent of matrix interferences will vary considerably from source to source, depending upon the nature and diversity of the industrial complex or municipality being sampled. The cleanup procedures in Section 11 can be used to overcome many of these interferences, but unique samples may require additional cleanup approaches to achieve the MDL listed in Table 1.
+2.1 A measured volume of sample, the amount required to meet an MDL or reporting limit (nominally 1-L), is extracted with methylene chloride using a separatory funnel, a continuous liquid/liquid extractor, or disk-based solid-phase extraction equipment. The extract is dried and concentrated for cleanup, if required. After cleanup, or if cleanup is not required, the extract is exchanged into an appropriate solvent and concentrated to the volume necessary to meet the required compliance or detection limit, and analyzed by GC/HSD.
+2.2 Qualitative identification of an analyte in the extract is performed using the retention times on dissimilar GC columns. Quantitative analysis is performed using the peak areas or peak heights for the analyte on the dissimilar columns with either the external or internal standard technique.
+2.3 Florisil®, alumina, a C18 solid-phase cleanup, and an elemental sulfur cleanup procedure are provided to aid in elimination of interferences that may be encountered. Other cleanup procedures may be used if demonstrated to be effective for the analytes in a wastewater matrix.
+3. Contamination and Interferences
+3.1 Solvents, reagents, glassware, and other sample processing lab ware may yield artifacts, elevated baselines, or matrix interferences causing misinterpretation of chromatograms. All materials used in the analysis must be demonstrated free from contamination and interferences by running blanks initially and with each extraction batch (samples started through the extraction process in a given 24-hour period, to a maximum of 20 samples—see Glossary for detailed definition), as described in section 8.5. Specific selection of reagents and purification of solvents by distillation in all-glass systems may be required. Where possible, labware is cleaned by extraction or solvent rinse, or baking in a kiln or oven.
+3.2 Glassware must be scrupulously cleaned (Reference 4). Clean all glassware as soon as possible after use by rinsing with the last solvent used in it. Solvent rinsing should be followed by detergent washing with hot water, and rinses with tap water and reagent water. The glassware should then be drained dry, and heated at 400 °C for 15-30 minutes. Some thermally stable materials, such as PCBs, may require higher temperatures and longer baking times for removal. Solvent rinses with pesticide quality acetone, hexane, or other solvents may be substituted for heating. Do not heat volumetric labware above 90 °C. After drying and cooling, store inverted or capped with solvent-rinsed or baked aluminum foil in a clean environment to prevent accumulation of dust or other contaminants.
+3.3 Interferences by phthalate esters can pose a major problem in pesticide analysis when using the electron capture detector. The phthalate esters generally appear in the chromatogram as large late eluting peaks, especially in the 15 and 50% fractions from Florisil®. Common flexible plastics contain varying amounts of phthalates that may be extracted or leached from such materials during laboratory operations. Cross contamination of clean glassware routinely occurs when plastics are handled during extraction steps, especially when solvent-wetted surfaces are handled. Interferences from phthalates can best be minimized by avoiding use of non-fluoropolymer plastics in the laboratory. Exhaustive cleanup of reagents and glassware may be required to eliminate background phthalate contamination (References 5 and 6). Interferences from phthalate esters can be avoided by using a microcoulometric or electrolytic conductivity detector.
+3.4 Matrix interferences may be caused by contaminants co-extracted from the sample. The extent of matrix interferences will vary considerably from source to source, depending upon the nature and diversity of the industrial complex or municipality being sampled. Interferences extracted from samples high in total organic carbon (TOC) may result in elevated baselines, or by enhancing or suppressing a signal at or near the retention time of an analyte of interest. Analyses of the matrix spike and matrix spike duplicate (Section 8.3) may be useful in identifying matrix interferences, and the cleanup procedures in Section 11 may aid in eliminating these interferences. EPA has provided guidance that may aid in overcoming matrix interferences (Reference 7); however, unique samples may require additional cleanup approaches to achieve the MDLs listed in Tables 1 and 2.
 4. Safety
-4.1 The toxicity or carcinogenicity of each reagent used in this method has not been precisely defined; however, each chemical compound should be treated as a potential health hazard. From this viewpoint, exposure to these chemicals must be reduced to the lowest possible level by whatever means available. The laboratory is responsible for maintaining a current awareness file of OSHA regulations regarding the safe handling of the chemicals specified in this method. A reference file of material data handling sheets should also be made available to all personnel involved in the chemical analysis. Additional references to laboratory safety are available and have been identified 6-8 for the information of the analyst.
-4.2 The following parameters covered by this method have been tentatively classified as known or suspected, human or mammalian carcinogens: 4,4′-DDT, 4,4′-DDD, the BHCs, and the PCBs. Primary standards of these toxic compounds should be prepared in a hood. A NIOSH/MESA approved toxic gas respirator should be worn when the analyst handles high concentrations of these toxic compounds.
+4.1 Hazards associated with each reagent used in this method have not been precisely defined; however, each chemical compound should be treated as a potential health hazard. From this viewpoint, exposure to these chemicals must be reduced to the lowest possible level by whatever means available. The laboratory is responsible for maintaining a current awareness file of OSHA regulations regarding the safe handling of the chemicals specified in this method. A reference file of safety data sheets (SDSs, OSHA, 29 CFR 1910.12009(g)) should also be made available to all personnel involved in sample handling and chemical analysis. Additional references to laboratory safety are available and have been identified (References 8 and 9) for the information of the analyst.
+4.2 The following analytes covered by this method have been tentatively classified as known or suspected human or mammalian carcinogens: 4,4′-DDT, 4,4′-DDD, the BHCs, and the PCBs. Primary standards of these toxic analytes should be prepared in a chemical fume hood, and a NIOSH/MESA approved toxic gas respirator should be worn when high concentrations are handled.
+4.3 This method allows the use of hydrogen as a carrier gas in place of helium (section 5.8.2). The laboratory should take the necessary precautions in dealing with hydrogen, and should limit hydrogen flow at the source to prevent buildup of an explosive mixture of hydrogen in air.
 5. Apparatus and Materials
+Note: Brand names and suppliers are for illustration purposes only. No endorsement is implied. Equivalent performance may be achieved using equipment and materials other than those specified here. Demonstrating that the equipment and supplies used in the laboratory achieve the required performance is the responsibility of the laboratory. Suppliers for equipment and materials in this method may be found through an on-line search. Please do not contact EPA for supplier information.
 5.1 Sampling equipment, for discrete or composite sampling.
-5.1.1 Grab sample bottle—1-L or 1-qt, amber glass, fitted with a screw cap lined with Teflon. Foil may be substituted for Teflon if the sample is not corrosive. If amber bottles are not available, protect samples from light. The bottle and cap liner must be washed, rinsed with acetone or methylene chloride, and dried before use to minimize contamination.
-5.1.2 Automatic sampler (optional)—The sampler must incorporate glass sample containers for the collection of a minimum of 250 mL of sample. Sample containers must be kept refrigerated at 4 °C and protected from light during composting. If the sampler uses a peristaltic pump, a minimum length of compressible silicone rubber tubing may be used. Before use, however, the compressible tubing should be thoroughly rinsed with methanol, followed by repeated rinsings with distilled water to minimize the potential for contamination of the sample. An integrating flow meter is required to collect flow proportional composites.
-5.2. Glassware (All specifications are suggested. Catalog numbers are included for illustration only.):
-5.2.1 Separatory funnel—2-L, with Teflon stopcock.
-5.2.2 Drying column—Chromatographic column, approximately 400 mm long × 19 mm ID, with coarse frit filter disc.
-5.2.3 Chromatographic column—400 mm long × 22 mm ID, with Teflon stopcock and coarse frit filter disc (Kontes K-42054 or equivalent).
-5.2.4 Concentrator tube, Kuderna-Danish—10-mL, graduated (Kontes K-570050-1025 or equivalent). Calibration must be checked at the volumes employed in the test. Ground glass stopper is used to prevent evaporation of extracts.
-5.2.5 Evaporative flask, Kuderna-Danish—500-mL (Kontes K-570001-0500 or equivalent). Attach to concentrator tube with springs.
-5.2.6 Snyder column, Kuderna/Danish—Three-ball macro (Kontes K-503000-0121 or equivalent).
-5.2.7 Vials—10 to 15-mL, amber glass, with Teflon-lined screw cap.
-5.3 Boiling chips—Approximately 10/40 mesh. Heat to 400 °C for 30 min or Soxhlet extract with methylene chloride.
-5.4 Water bath—Heated, with concentric ring cover, capable of temperature control (±2 °C). The bath should be used in a hood.
-5.5 Balance—Analytical, capable of accurately weighing 0.0001 g.
-5.6 Gas chromatograph—An analytical system complete with gas chromatograph suitable for on-column injection and all required accessories including syringes, analytical columns, gases, detector, and strip-
-chart recorder. A data system is recommended for measuring peak areas.
-5.6.1 Column 1—1.8 m long × 4 mm ID glass, packed with 1.5% SP-2250/1.95% SP-2401 on Supelcoport (100/120 mesh) or equivalent. This column was used to develop the method performance statements in Section 14. Guidelines for the use of alternate column packings are provided in Section 12.1.
-5.6.2 Column 2—1.8 m long × 4 mm ID glass, packed with 3% OV-1 on Supelcoport (100/120 mesh) or equivalent.
-5.6.3 Detector—Electron capture detector. This detector has proven effective in the analysis of wastewaters for the parameters listed in the scope (Section 1.1), and was used to develop the method performance statements in Section 14. Guidelines for the use of alternate detectors are provided in Section 12.1.
-6. Reagents
-6.1 Reagent water—Reagent water is defined as a water in which an interferent is not observed at the MDL of the parameters of interest.
-6.2 Sodium hydroxide solution (10 N)—Dissolve 40 g of NaOH (ACS) in reagent water and dilute to 100 mL.
-6.3 Sodium thiosulfate—(ACS) Granular.
-6.4 Sulfuric acid (1 + 1)—Slowly, add 50 mL to H2SO4 (ACS, sp. gr. 1.84) to 50 mL of reagent water.
-6.5 Acetone, hexane, isooctane, methylene chloride—Pesticide quality or equivalent.
-6.6 Ethyl ether—Nanograde, redistilled in glass if necessary.
-6.6.1 Ethyl ether must be shown to be free of peroxides before it is used as indicated by EM Laboratories Quant test strips. (Available from Scientific Products Co., Cat. No. P1126-8, and other suppliers.)
-6.6.2 Procedures recommended for removal of peroxides are provided with the test strips. After cleanup, 20 mL of ethyl alcohol preservative must be added to each liter of ether.
-6.7 Sodium sulfate—(ACS) Granular, anhydrous. Purify by heating at 400 °C for 4 h in a shallow tray.
-6.8 Florisil—PR grade (60/100 mesh). Purchase activated at 1250 °F and store in the dark in glass containers with ground glass stoppers or foil-lined screw caps. Before use, activate each batch at least 16 h at 130 °C in a foil-covered glass container and allow to cool.
-6.9 Mercury—Triple distilled.
-6.10 Copper powder—Activated.
-6.11 Stock standard solutions (1.00 µg/µL)—Stock standard solutions can be prepared from pure standard materials or purchased as certified solutions.
-6.11.1 Prepare stock standard solutions by accurately weighing about 0.0100 g of pure material. Dissolve the material in isooctane and dilute to volume in a 10-mL volumetric flask. Larger volumes can be used at the convenience of the analyst. When compound purity is assayed to be 96% or greater, the weight can be used without correction to calculate the concentration of the stock standard. Commercially prepared stock standards can be used at any concentration if they are certified by the manufacturer or by an independent source.
-6.11.2 Transfer the stock standard solutions into Teflon-sealed screw-cap bottles. Store at 4 °C and protect from light. Stock standard solutions should be checked frequently for signs of degradation or evaporation, especially just prior to preparing calibration standards from them.
-6.11.3 Stock standard solutions must be replaced after six months, or sooner if comparison with check standards indicates a problem.
-6.12 Quality control check sample concentrate—See Section 8.2.1.
+5.1.1 Grab sample bottle—Amber glass bottle large enough to contain the necessary sample volume (nominally 1 L), fitted with a fluoropolymer-lined screw cap. Foil may be substituted for fluoropolymer if the sample is not corrosive. If amber bottles are not available, protect samples from light. Unless pre-cleaned, the bottle and cap liner must be washed, rinsed with acetone or methylene chloride, and dried before use to minimize contamination.
+5.1.2 Automatic sampler (optional)—The sampler must use a glass or fluoropolymer container and tubing for sample collection. If the sampler uses a peristaltic pump, a minimum length of compressible silicone rubber tubing may be used. Before use, rinse the compressible tubing thoroughly with methanol, followed by repeated rinsing with reagent water to minimize the potential for sample contamination. An integrating flow meter is required to collect flow proportional composites. The sample container must be kept refrigerated at ≤6 °C and protected from light during compositing.
+5.2. Lab ware.
+5.2.1 Extraction.
+5.2.1.1 pH measurement.
+5.2.1.1.1 pH meter, with combination glass electrode.
+5.2.1.1.2 pH paper, wide range (Hydrion Papers, or equivalent).
+5.2.1.2 Separatory funnel—Size appropriate to hold the sample and extraction solvent volumes, equipped with fluoropolymer stopcock.
+5.2.1.3 Continuous liquid-liquid extractor—Equipped with fluoropolymer or glass connecting joints and stopcocks requiring no lubrication. (Hershberg-Wolf Extractor, Ace Glass Company, Vineland, NJ, or equivalent.)
+5.2.1.3.1 Round-bottom flask, 500-mL, with heating mantle.
+5.2.1.3.2 Condenser, Graham, to fit extractor.
+5.2.1.4 Solid-phase extractor—90-mm filter apparatus (Figure 2) or multi-position manifold.
+Note: The approved ATP for solid-phase extraction is limited to disk-based extraction media and associated peripheral equipment.
+5.2.1.4.1 Vacuum system—Capable of achieving 0.1 bar (25 inch) Hg (house vacuum, vacuum pump, or water aspirator), equipped with shutoff valve and vacuum gauge.
+5.2.1.4.2 Vacuum trap—Made from 500-mL sidearm flask fitted with single-hole rubber stopper and glass tubing.
+5.2.2 Filtration.
+5.2.2.1 Glass powder funnel, 125- to 250-mL.
+5.2.2.2 Filter paper for above, Whatman 41, or equivalent.
+5.2.2.3 Prefiltering aids—90-mm 1-µm glass fiber filter or Empore® Filter Aid 400.
+5.2.3 Drying column.
+5.2.3.1 Chromatographic column—Approximately 400 mm long x 15 mm ID, with fluoropolymer stopcock and coarse frit filter disc (Kontes or equivalent).
+5.2.3.2 Glass wool—Pyrex, extracted with methylene chloride or baked at 450 °C for 1 hour minimum.
+5.2.4 Column for Florisil® or alumina cleanup—Approximately 300 mm long x 10 mm ID, with fluoropolymer stopcock. (This column is not required if cartridges containing Florisil® are used.)
+5.2.5 Concentration/evaporation.
+Note: Use of a solvent recovery system with the K-D or other solvent evaporation apparatus is strongly recommended.
+5.2.5.1 Kuderna-Danish concentrator.
+5.2.5.1.1 Concentrator tube, Kuderna-Danish—10-mL, graduated (Kontes or equivalent). Calibration must be checked at the volumes employed for extract volume measurement. A ground-glass stopper is used to prevent evaporation of extracts.
+5.2.5.1.2 Evaporative flask, Kuderna-Danish—500-mL (Kontes or equivalent). Attach to concentrator tube with connectors.
+5.2.5.1.3 Snyder column, Kuderna/Danish—Three-ball macro (Kontes or equivalent).
+5.2.5.1.4 Snyder column—Two-ball micro (Kontes or equivalent).
+5.2.5.1.5 Water bath—Heated, with concentric ring cover, capable of temperature control (±2 °C), installed in a hood using appropriate engineering controls to limit exposure to solvent vapors.
+5.2.5.2 Nitrogen evaporation device—Equipped with heated bath that can be maintained at an appropriate temperature for the solvent and analytes. (N-Evap, Organomation Associates, Inc., or equivalent).
+5.2.5.3 Rotary evaporator—Buchi/Brinkman-American Scientific or equivalent, equipped with a variable temperature water bath, vacuum source with shutoff valve at the evaporator, and vacuum gauge.
+5.2.5.3.1 A recirculating water pump and chiller are recommended, as use of tap water for cooling the evaporator wastes large volumes of water and can lead to inconsistent performance as water temperatures and pressures vary.
+5.2.5.3.2 Round-bottom flask—100-mL and 500-mL or larger, with ground-glass fitting compatible with the rotary evaporator
+Note: This equipment is used to prepare copper foil or copper powder for removing sulfur from sample extracts (see Section 6.7.4).
+5.2.5.4 Automated concentrator—Equipped with glassware sufficient to concentrate 3-400 mL extract to a final volume of 1-10 mL under controlled conditions of temperature and nitrogen flow (Turbovap, or equivalent). Follow manufacturer's directions and requirements.
+5.2.5.5 Boiling chips—Glass, silicon carbide, or equivalent, approximately 10/40 mesh. Heat at 400 °C for 30 minutes, or solvent rinse or Soxhlet extract with methylene chloride.
+5.2.6 Solid-phase extraction disks—90-mm extraction disks containing 2 g of 8-µm octadecyl (C18) bonded silica uniformly enmeshed in a matrix of inert PTFE fibrils (3M Empore® or equivalent). The disks should not contain any organic compounds, either from the PTFE or the bonded silica, which will leach into the methylene chloride eluant. One liter of reagent water should pass through the disks in 2-5 minutes, using a vacuum of at least 25 inches of mercury.
+Note: Extraction disks from other manufacturers may be used in this procedure, provided that they use the same solid-phase materials (i.e., octadecyl bonded silica). Disks of other diameters also may be used, but may adversely affect the flow rate of the sample through the disk.
+5.3 Vials.
+5.3.1 Extract storage—10- to 15-mL, amber glass, with fluoropolymer-lined screw cap.
+5.3.2 GC autosampler—1- to 5-mL, amber glass, with fluoropolymer-lined screw- or crimp-cap, to fit GC autosampler.
+5.4 Balances.
+5.4.1 Analytical—Capable of accurately weighing 0.1 mg.
+5.4.2 Top loading—Capable of weighing 10 mg.
+5.5 Sample cleanup.
+5.5.1 Oven—For baking and storage of adsorbents, capable of maintaining a constant temperature (±5 °C) in the range of 105-250 °C.
+5.5.2 Muffle furnace—Capable of cleaning glassware or baking sodium sulfate in the range of 400-450 °C.
+5.5.3 Vacuum system and cartridges for solid-phase cleanup (see Section 11.2).
+5.5.3.1 Vacuum system—Capable of achieving 0.1 bar (25 in.) Hg (house vacuum, vacuum pump, or water aspirator), equipped with shutoff valve and vacuum gauge.
+5.5.3.2 VacElute Manifold (Analytichem International, or equivalent).
+5.5.3.3 Vacuum trap—Made from 500-mL sidearm flask fitted with single-hole rubber stopper and glass tubing.
+5.5.3.4 Rack for holding 50-mL volumetric flasks in the manifold.
+5.5.3.5 Cartridge—Mega Bond Elute, Non-polar, C18 Octadecyl, 10 g/60 mL (Analytichem International or equivalent), used for solid-phase cleanup of sample extracts (see Section 11.2).
+5.5.4 Sulfur removal tube—40- to 50-mL bottle, test tube, or Erlenmeyer flask with fluoropolymer-lined screw cap.
+5.6 Centrifuge apparatus.
+5.6.1 Centrifuge—Capable of rotating 500-mL centrifuge bottles or 15-mL centrifuge tubes at 5,000 rpm minimum.
+5.6.2 Centrifuge bottle—500-mL, with screw cap, to fit centrifuge.
+5.6.3 Centrifuge tube—15-mL, with screw cap, to fit centrifuge.
+5.7 Miscellaneous lab ware—Graduated cylinders, pipettes, beakers, volumetric flasks, vials, syringes, and other lab ware necessary to support the operations in this method.
+5.8 Gas chromatograph—Dual-column with simultaneous split/splitless, temperature programmable split/splitless (PTV), or on-column injection; temperature program with isothermal holds, and all required accessories including syringes, analytical columns, gases, and detectors. An autosampler is highly recommended because it injects volumes more reproducibly than manual injection techniques. Alternatively, two separate single-column gas chromatographic systems may be employed.
+5.8.1 Example columns and operating conditions.
+5.8.1.1 DB-608 (or equivalent), 30-m long x 0.53-mm ID fused-silica capillary, 0.83-µm film thickness.
+5.8.1.2 DB-1701 (or equivalent), 30-m long x 0.53-mm ID fused-silica capillary, 1.0-µm film thickness.
+5.8.1.3 Suggested operating conditions used to meet the retention times shown in Table 3 are:
+(a) Carrier gas flow rate: Approximately 7 mL/min,
+(b) Initial temperature: 150 °C for 0.5 minute,
+(c) Temperature program: 150-270 °C at 5 °C/min, and
+(d) Final temperature: 270 °C, until trans-Permethrin elutes.
+Note: Other columns, internal diameters, film thicknesses, and operating conditions may be used, provided that the performance requirements in this method are met. However, the column pair chosen must have dissimilar phases/chemical properties in order to separate the compounds of interest in different retention time order. Columns that only differ in the length, ID, or film thickness, but use the same stationary phase do not qualify as "dissimilar."
+5.8.2 Carrier gas—Helium or hydrogen. Data in the tables in this method were obtained using helium carrier gas. If hydrogen is used, analytical conditions may need to be adjusted for optimum performance, and calibration and all QC tests must be performed with hydrogen carrier gas. See Section 4.3 for precautions regarding the use of hydrogen as a carrier gas.
+5.8.3 Detector—Halogen-specific detector (electron capture detector [ECD], electrolytic conductivity detector [ELCD], or equivalent). The ECD has proven effective in the analysis of wastewaters for the analytes listed in Tables 1 and 2, and was used to develop the method performance data in Section 17 and Tables 4 and 5.
+5.8.4 Data system—A computer system must be interfaced to the GC that allows continuous acquisition and storage of data from the detectors throughout the chromatographic program. The computer must have software that allows searching GC data for specific analytes, and for plotting responses versus time. Software must also be available that allows integrating peak areas or peak heights in selected retention time windows and calculating concentrations of the analytes.
+6. Reagents and Standards
+6.1 pH adjustment.
+6.1.1 Sodium hydroxide solutions.
+6.1.1.1 Concentrated (10 M)—Dissolve 40 g of NaOH (ACS) in reagent water and dilute to 100 mL.
+6.1.1.2 Dilute (1 M)—Dissolve 40 g NaOH in 1 L of reagent water.
+6.1.2 Sulfuric acid (1+1)—Slowly add 50 mL of H2SO4 (ACS, sp. gr. 1.84) to 50 mL of reagent water.
+6.1.3 Hydrochloric acid—Reagent grade, 6 N.
+6.2 Sodium thiosulfate—(ACS) granular.
+6.3 Sodium sulfate—Sodium sulfate, reagent grade, granular anhydrous (Baker or equivalent), rinsed with methylene chloride, baked in a shallow tray at 450 °C for 1 hour minimum, cooled in a desiccator, and stored in a pre-cleaned glass bottle with screw cap which prevents moisture from entering. If, after heating, the sodium sulfate develops a noticeable grayish cast (due to the presence of carbon in the crystal matrix), that batch of reagent is not suitable for use and should be discarded. Extraction with methylene chloride (as opposed to simple rinsing) and baking at a lower temperature may produce sodium sulfate suitable for use.
+6.4 Reagent water—Reagent water is defined as water in which the analytes of interest and interfering compounds are not observed at the MDLs of the analytes in this method.
+6.5 Solvents—Methylene chloride, acetone, methanol, hexane, acetonitrile, and isooctane, high purity pesticide quality, or equivalent, demonstrated to be free of the analytes and interferences (section 3). Purification of solvents by distillation in all-glass systems may be required.
+Note: The standards and final sample extracts must be prepared in the same final solvent.
+6.6 Ethyl ether—Nanograde, redistilled in glass if necessary. Ethyl ether must be shown to be free of peroxides before use, as indicated by EM Laboratories Quant test strips (available from Scientific Products Co. and other suppliers). Procedures recommended for removal of peroxides are provided with the test strips. After removal of peroxides, add 20 mL of ethyl alcohol preservative to each liter of ether.
+6.7 Materials for sample cleanup.
+6.7.1 Florisil®—PR grade (60/100 mesh), activated at 650-700 °C, stored in the dark in a glass container with fluoropolymer-lined screw cap. Activate each batch immediately prior to use for 16 hours minimum at 130 °C in a foil-covered glass container and allow to cool. Alternatively, 500 mg cartridges (J.T. Baker, or equivalent) may be used.
+6.7.1.1 Cartridge certification—Each cartridge lot must be certified to ensure recovery of the analytes of interest and removal of 2,4,6-trichlorophenol. To make the test mixture, add the trichlorophenol solution (section 6.7.1.3) to the same standard used to prepare the Quality Control Check Sample (section 6.8.3). Transfer the mixture to the column and dry the column. Pre-elute with three 10-mL portions of elution solvent, drying the column between elutions. Elute the cartridge with 10 mL each of methanol and water, as in section 11.2.3.3.
+6.7.1.2 Concentrate the eluant to per section 10.3.3, exchange to isooctane or hexane per section 10.3.3, and inject 1.0 µL of the concentrated eluant into the GC using the procedure in section 12. The recovery of all analytes (including the unresolved GC peaks) shall be within the ranges for calibration verification (section 13.6 and Table 4), the recovery of trichlorophenol shall be less than 5%, and no peaks interfering with the target analytes shall be detected. Otherwise the Florisil cartridge is not performing properly and the cartridge lot shall be rejected.
+6.7.1.3 Florisil cartridge calibration solution—2,4,6-Trichlorophenol, 0.1 µg/mL in acetone.
+6.7.2 SPE elution solvent—Methylene chloride:acetonitrile:hexane (50:3:47).
+6.7.3 Alumina, neutral, Brockman Activity I, 80-200 mesh (Fisher Scientific certified, or equivalent). Heat in a glass bottle for 16 hours at 400 to 450 °C. Seal and cool to room temperature. Add 7% (w/w) reagent water and mix for 10 to 12 hours. Keep bottle tightly sealed.
+6.7.4 Sulfur removal.
+6.7.4.1 Copper foil or powder—Fisher, Alfa Aesar, or equivalent. Cut copper foil into approximately 1-cm squares. Copper must be activated before it may be used, as described below.
+6.7.4.1.1 Place the quantity of copper needed for sulfur removal (section 11.5.1.3) in a ground-glass-stoppered Erlenmeyer flask or bottle. Cover the foil or powder with methanol.
+6.7.4.1.2 Add HCl dropwise (0.5-1.0 mL) while swirling, until the copper brightens.
+6.7.4.1.3 Pour off the methanol/HCl and rinse 3 times with reagent water to remove all traces of acid, then 3 times with acetone, then 3 times with hexane.
+6.7.4.1.4 For copper foil, cover with hexane after the final rinse. Store in a stoppered flask under nitrogen until used. For the powder, dry on a rotary evaporator. Store in a stoppered flask under nitrogen until used. Inspect the copper foil or powder before each use. It must have a bright, non-oxidized appearance to be effective. Copper foil or powder that has oxidized may be reactivated using the procedure described above.
+6.7.4.2 Tetrabutylammonium sulfite (TBA sulfite)—Prepare as described below.
+6.7.4.2.1 Tetrabutylammonium hydrogen sulfate, [CH3(CH2)3]4NHSO4.
+6.7.4.2.2 Sodium sulfite, Na2SO3.
+6.7.4.2.3 Dissolve approximately 3 g tetrabutylammonium hydrogen sulfate in 100 mL of reagent water in an amber bottle with fluoropolymer-lined screw cap. Extract with three 20-mL portions of hexane and discard the hexane extracts.
+6.7.4.2.4 Add 25 g sodium sulfite to produce a saturated solution. Store at room temperature. Replace after 1 month.
+6.7.5 Sodium chloride—Reagent grade, prepare at 5% (w/v) solution in reagent water.
+6.8 Stock standard solutions—Stock standard solutions may be prepared from pure materials, or purchased as certified solutions. Traceability must be to the National Institute of Standards and Technology (NIST) or other national or international standard, when available. Stock solution concentrations alternative to those below may be used. Because of the toxicity of some of the compounds, primary dilutions should be prepared in a hood, and a NIOSH/MESA approved toxic gas respirator should be worn when high concentrations of neat materials are handled. The following procedure may be used to prepare standards from neat materials.
+6.8.1 Accurately weigh about 0.0100 g of pure material in a 10-mL volumetric flask. Dilute to volume in pesticide quality hexane, isooctane, or other suitable solvent. Larger volumes may be used at the convenience of the laboratory. When compound purity is assayed to be 96% or greater, the weight may be used without correction to calculate the concentration of the stock standard. Commercially prepared stock standards may be used at any concentration if they are certified by the manufacturer or by an independent source.
+6.8.1.1 Unless stated otherwise in this method, store non-aqueous standards in fluoropolymer-lined screw-cap, or heat-sealed, glass containers, in the dark at −20 to −10 °C. Store aqueous standards; e.g., the aqueous LCS (section 8.4), in the dark at ≤6 °C, but do not freeze.
+6.8.1.2 Standards prepared by the laboratory may be stored for up to one year, except when comparison with QC check standards indicates that a standard has degraded or become more concentrated due to evaporation, or unless the laboratory has data on file to prove stability for a longer period. Commercially prepared standards may be stored until the expiration date provided by the vendor, except when comparison with QC check standards indicates that a standard has degraded or become more concentrated due to evaporation, or unless the laboratory has data from the vendor on file to prove stability for a longer period.
+6.8.2 Calibration solutions—It is necessary to prepare calibration solutions for the analytes of interest (section 1.4) only using an appropriate solvent (isooctane or hexane may be used). Whatever solvent is used, both the calibration standards and the final sample extracts must use the same solvent. Other analytes may be included as desired.
+6.8.2.1 Prepare calibration standards for the single-component analytes of interest and surrogates at a minimum of three concentration levels (five are suggested) by adding appropriate volumes of one or more stock standards to volumetric flasks. One of the calibration standards should be at a concentration at or below the ML specified in Table 1, or 2, or as specified by a regulatory/control authority or in a permit. The ML value may be rounded to a whole number that is more convenient for preparing the standard, but must not exceed the ML value listed in Tables 1 or 2 for those analytes which list ML values. Alternatively, the laboratory may establish an ML for each analyte based on the concentration of the lowest calibration standard in a series of standards produced by the laboratory or obtained from a commercial vendor, again, provided that the ML does not exceed the ML in Table 1 and 2, and provided that the resulting calibration meets the acceptance criteria in section 7.5.2 based on the RSD, RSE, or R2.
+(a) The other concentrations should correspond to the expected range of concentrations found in real samples or should define the working range of the GC system. A minimum of six concentration levels is required for a second order, non-linear (e.g., quadratic; ax2 + bx + c = 0) calibration (section 7.5.2 or 7.6.2). Calibrations higher than second order are not allowed. A separate standard near the MDL may be analyzed as a check on sensitivity, but should not be included in the linearity assessment. The solvent for the standards must match the final solvent for the sample extracts (e.g., isooctane or hexane).
+Note: The option for non-linear calibration may be necessary to address specific instrumental techniques. However, it is not EPA's intent to allow non-linear calibration to be used to compensate for detector saturation or to avoid proper instrument maintenance.
+(b) Given the number of analytes included in this method, it is highly likely that some will coelute on one or both of the GC columns used for the analysis. Divide the analytes into two or more groups and prepare separate calibration standards for each group, at multiple concentrations (e.g., a five-point calibration will require ten solutions to cover two groups of analytes). Table 7 provides information on dividing the target analytes into separate calibration mixtures that should minimize or eliminate co-elutions. This table is provided solely as guidance, based on the GC columns suggested in this method. If an analyte listed in Table 7 is not an analyte of interest in a given laboratory setting, then it need not be included in a calibration mixture.
+Note: Many commercially available standards are divided into separate mixtures to address this issue.
+(c) If co-elutions occur in analysis of a sample, a co-elution on one column is acceptable so long as effective separation of the co-eluting compounds can be achieved on the second column.
+6.8.2.2 Multi-component analytes (e.g., PCBs as Aroclors, and Toxaphene).
+6.8.2.2.1 A standard containing a mixture of Aroclor 1016 and Aroclor 1260 will include many of the peaks represented in the other Aroclor mixtures. As a result, a multi-point initial calibration employing a mixture of Aroclors 1016 and 1260 at three to five concentrations should be sufficient to demonstrate the linearity of the detector response without the necessity of performing multi-point initial calibrations for each of the seven Aroclors. In addition, such a mixture can be used as a standard to demonstrate that a sample does not contain peaks that represent any one of the Aroclors. This standard can also be used to determine the concentrations of either Aroclor 1016 or Aroclor 1260, should they be present in a sample. Therefore, prepare a minimum of three calibration standards containing equal concentrations of both Aroclor 1016 and Aroclor 1260 by dilution of the stock standard with isooctane or hexane. The concentrations should correspond to the expected range of concentrations found in real samples and should bracket the linear range of the detector.
+6.8.2.2.2 Single standards of each of the other five Aroclors are required to aid the analyst in pattern recognition. Assuming that the Aroclor 1016/1260 standards described in Section 6.8.2.2.1 have been used to demonstrate the linearity of the detector, these single standards of the remaining five Aroclors also may be used to determine the calibration factor for each Aroclor. Prepare a standard for each of the other Aroclors. The concentrations should generally correspond to the mid-point of the linear range of the detector, but lower concentrations may be employed at the discretion of the analyst based on project requirements.
+6.8.2.2.3 For Toxaphene, prepare a minimum of three calibration standards containing Toxaphene by dilution of the stock standard with isooctane or hexane. The concentrations should correspond to the expected range of concentrations found in real samples and should bracket the linear range of the detector.
+6.8.3 Quality Control (QC) Check Sample Concentrate—Prepare one or more mid-level standard mixtures (concentrates) in acetone (or other water miscible solvent). The concentrate is used as the spiking solution with which to prepare the Demonstration of Capabilities (DOC) samples, the Laboratory Control Sample (LCS), and Matrix Spike (MS) and Matrix Spike Duplicate (MSD) samples described in section 8. If prepared by the laboratory (as opposed the purchasing it from a commercial supplier), the concentrate must be prepared independently from the standards used for calibration, but may be prepared from the same source as the second-source standard used for calibration verification (section 7.7). Regardless of the source, the concentrate must be in a water-miscible solvent, as noted above. The concentrate is used to prepare the DOC and LCS (sections 8.2.1 and 8.4) and MS/MSD samples (section 8.3). Depending on the analytes of interest for a given sample (see Section 1.4), multiple solutions and multiple LCS or MS/MSD samples may be required to account for co-eluting analytes. However, a co-elution on one column is acceptable so long as effective separation of the co-eluting compounds can be achieved on the second column. In addition, the concentrations of the MS/MSD samples should reflect any relevant compliance limits for the analytes of interest, as described in section 8.3.1. If a custom spiking solution is required for a specific discharge (section 8.3.1), prepare it separately from the DOC and LCS solution.
+Note: Some commercially available standards are divided into separate mixtures to address the co-elution issue.
+6.8.4 Calibration Verification Standards—In order to verify the results of the initial calibration standards, prepare one or more mid-level standard mixtures in isooctane or hexane, using standards obtained from a second source (different manufacturer or different certified lot from the calibration standards). These standards will be analyzed to verify the accuracy of the calibration (sections 7.7 and 13.6.2). As with the QC sample concentrate in section 6.8.3, multiple solutions may be required to address co-elutions among all of the analytes.
+6.8.5 Internal standard solution—If the internal standard calibration technique is to be used, prepare pentachloronitrobenzene (PCNB) at a concentration of 10 µg/mL in ethyl acetate. Alternative and multiple internal standards; e.g., tetrachloro-m-xylene, 4,4′-dibromobiphenyl, and/or decachlorobiphenyl may be used provided that the laboratory performs all QC tests and meets all QC acceptance criteria with the alternative or additional internal standard(s) as an integral part of this method.
+6.8.6 Surrogate solution—Prepare a solution containing one or more surrogates at a concentration of 2 µg/mL in acetone. Potential surrogates include: dibutyl chlorendate (DBC), tetrachloro-m-xylene (TCMX), 4,4′-dibromobiphenyl, or decachlorobiphenyl. Alternative surrogates and concentrations may be used, provided the laboratory performs all QC tests and meets all QC acceptance criteria with the alternative surrogate(s) as an integral part of this method. If the internal standard calibration technique is used, do not use the internal standard as a surrogate.
+6.8.7 DDT and endrin decomposition (breakdown) solution—Prepare a solution containing endrin at a concentration of 50 ng/mL and 4,4'-DDT at a concentration of 100 ng/mL, in isooctane or hexane. A 1-µL injection of this standard will contain 50 picograms (pg) of endrin and 100 pg of DDT. The concentration of the solution may be adjusted by the laboratory to accommodate other injection volumes such that the same masses of the two analytes are introduced into the instrument.
 7. Calibration
-7.1 Establish gas chromatographic operating conditions equivalent to those given in Table 1. The gas chromatographic system can be calibrated using the external standard technique (Section 7.2) or the internal standard technique (Section 7.3).
-7.2 External standard calibration procedure:
-7.2.1 Prepare calibration standards at a minimum of three concentration levels for each parameter of interest by adding volumes of one or more stock standards to a volumetric flask and diluting to volume with isooctane. One of the external standards should be at a concentration near, but above, the MDL (Table 1) and the other concentrations should correspond to the expected range of concentrations found in real samples or should define the working range of the detector.
-7.2.2 Using injections of 2 to 5 µL, analyze each calibration standard according to Section 12 and tabulate peak height or area responses against the mass injected. The results can be used to prepare a calibration curve for each compound. Alternatively, if the ratio of response to amount injected (calibration factor) is a constant over the working range (<10% relative standard deviation, RSD), linearity through the origin can be assumed and the average ratio or calibration factor can be used in place of a calibration curve.
-7.3 Internal standard calibration procedure—To use this approach, the analyst must select one or more internal standards that are similar in analytical behavior to the compounds of interest. The analyst must further demonstrate that the measurement of the internal standard is not affected by method or matrix interferences. Because of these limitations, no internal standard can be suggested that is applicable to all samples.
-7.3.1 Prepare calibration standards at a minimum of three concentration levels for each parameter of interest by adding volumes of one or more stock standards to a volumetric flask. To each calibration standard, add a known constant amount of one or more internal standards, and dilute to volume with isooctane. One of the standards should be at a concentration near, but above, the MDL and the other concentrations should correspond to the expected range of concentrations found in real samples or should define the working range of the detector.
-7.3.2 Using injections of 2 to 5 µL, analyze each calibration standard according to Section 12 and tabulate peak height or area responses against concentration for each compound and internal standard. Calculate response factors (RF) for each compound using Equation 1.
-EC15NO91.107
-Equation 1
-where:
-As = Response for the parameter to be measured.
+7.1 Establish gas chromatographic operating conditions equivalent to those in Section 5.8.1 and Footnote 2 to Table 3. Alternative temperature program and flow rate conditions may be used. The system may be calibrated using the external standard technique (section 7.5) or the internal standard technique (section 7.6). It is necessary to calibrate the system for the analytes of interest (section 1.4) only.
+7.2 Separately inject the mid-level calibration standard for each calibration mixture. Store the retention time on each GC column.
+7.3 Injection of calibration solutions—Inject a constant volume in the range of 0.5 to 2.0 µL of each calibration solution into the GC column/detector pairs. An alternative volume (see Section 12.3) may be used provided all requirements in this method are met. Beginning with the lowest level mixture and proceeding to the highest level mixture may limit the risk of carryover from one standard to the next, but other sequences may be used. An instrument blank should be analyzed after the highest standard to demonstrate that there is no carry-over within the system for this calibration range.
+7.4 For each analyte, compute, record, and store, as a function of the concentration injected, the retention time and peak area on each column/detector system. If multi-component analytes are to be analyzed, store the retention time and peak area for the three to five exclusive (unique large) peaks for each PCB or technical chlordane. Use four to six peaks for toxaphene.
+7.5 External standard calibration.
+7.5.1 From the calibration data (Section 7.4), calculate the calibration factor (CF) for each analyte at each concentration according to the following equation:
+ER28AU17.000
+Where:
+Cs = Concentration of the analyte in the standard (ng/mL)
+As = Peak height or area
+For multi-component analytes, choose a series of characteristic peaks for each analyte (3 to 5 for each Aroclor, 4 to 6 for toxaphene) and calculate individual calibration factors for each peak. Alternatively, for toxaphene, sum the areas of all of the peaks in the standard chromatogram and use the summed area to determine the calibration factor. (If this alternative is used, the same approach must be used to quantitate the analyte in the samples.)
+7.5.2 Calculate the mean (average) and relative standard deviation (RSD) of the calibration factors. If the RSD is less than 20%, linearity through the origin can be assumed and the average CF can be used for calculations. Alternatively, the results can be used to fit a linear or quadratic regression of response, As, vs. concentration Cs. If used, the regression must be weighted inversely proportional to concentration. The coefficient of determination (R2) of the weighted regression must be greater than 0.920. Alternatively, the relative standard error (Reference 10) may be used as an acceptance criterion. As with the RSD, the RSE must be less than 20%. If an RSE less than 20% cannot be achieved for a quadratic regression, system performance is unacceptable and the system must be adjusted and re-calibrated.
+Note: Regression calculations are not included in this method because the calculations are cumbersome and because many GC/ECD data systems allow selection of weighted regression for calibration and calculation of analyte concentrations.
+7.6 Internal standard calibration.
+7.6.1 From the calibration data (Section 7.4), calculate the response factor (RF) for each analyte at each concentration according to the following equation:
+ER28AU17.001
+Where:
+As = Response for the analyte to be measured.
 Ais = Response for the internal standard.
-Cis = Concentration of the internal standard (µg/L).
-Cs = Concentration of the parameter to be measured (µg/L).
-If the RF value over the working range is a constant (<10% RSD), the RF can be assumed to be invariant and the average RF can be used for calculations. Alternatively, the results can be used to plot a calibration curve of response ratios, As/Ais, vs. RF.
-7.4 The working calibration curve, calibration factor, or RF must be verified on each working day by the measurement of one or more calibration standards. If the response for any parameter varies from the predicted response by more than ±15%, the test must be repeated using a fresh calibration standard. Alternatively, a new calibration curve must be prepared for that compound.
-7.5 The cleanup procedure in Section 11 utilizes Florisil column chromatography. Florisil from different batches or sources may vary in adsorptive capacity. To standardize the amount of Florisil which is used, the use of lauric acid value 9 is suggested. The referenced procedure determines the adsorption from hexane solution of lauric acid (mg) per g of Florisil. The amount of Florisil to be used for each column is calculated by dividing 110 by this ratio and multiplying by 20 g.
-7.6 Before using any cleanup procedure, the analyst must process a series of calibration standards through the procedure to validate elution patterns and the absence of interferences from the reagents.
+Cis = Concentration of the internal standard (ng/mL)
+Cs = Concentration of the analyte to be measured (ng/mL).
+7.6.2 Calculate the mean (average) and relative standard deviation (RSD) of the response factors. If the RSD is less than 15%, linearity through the origin can be assumed and the average RF can be used for calculations. Alternatively, the results can be used to prepare a calibration curve of response ratios, As/Ais, vs. concentration ratios, Cs/Cis, for the analyte. A minimum of six concentration levels is required for a non-linear (e.g., quadratic) regression. If used, the regression must be weighted inversely proportional to concentration, and the coefficient of determination of the weighted regression must be greater than 0.920. Alternatively, the relative standard error (Reference 10) may be used as an acceptance criterion. As with the RSD, the RSE must be less than 15%. If an RSE less than 15% cannot be achieved for a quadratic regression, system performance is unacceptable and the system must be adjusted and re-calibrated.
+7.7 The working calibration curve, CF, or RF must be verified immediately after calibration and at the beginning and end of each 24-hour shift by the analysis of a mid-level calibration standard. The calibration verification standard(s) must be obtained from a second manufacturer or a manufacturer's batch prepared independently from the batch used for calibration (Section 6.8.4). Requirements for calibration verification are given in Section 13.6 and Table 4. Alternatively, calibration verification may be performed after a set number of injections (e.g., every 20 injections), to include injection of extracts of field samples, QC samples, instrument blanks, etc. (i.e., it is based on the number of injections performed, not sample extracts). The time for the injections may not exceed 24 hours.
+Note: The 24-hour shift begins after analysis of the combined QC standard (calibration verification) and ends 24 hours later. The ending calibration verification standard is run immediately after the last sample run during the 24-hour shift, so the beginning and ending calibration verifications are outside of the 24-hour shift. If calibration verification is based on the number of injections instead of time, then the ending verification standard for one group of injections may be used as the beginning verification for the next group of injections.
+7.8 Florisil® calibration—The column cleanup procedure in Section 11.3 utilizes Florisil column chromatography. Florisil® from different batches or sources may vary in adsorptive capacity. To standardize the amount of Florisil® which is used, use of the lauric acid value (Reference 11) is suggested. The referenced procedure determines the adsorption from a hexane solution of lauric acid (mg) per g of Florisil®. The amount of Florisil® to be used for each column is calculated by dividing 110 by this ratio and multiplying by 20 g. If cartridges containing Florisil® are used, then this step is not necessary.
 8. Quality Control
-8.1 Each laboratory that uses this method is required to operate a formal quality control program. The minimum requirements of this program consist of an initial demonstration of laboratory capability and an ongoing analysis of spiked samples to evaluate and document data quality. The laboratory must maintain records to document the quality of data that is generated. Ongoing data quality checks are compared with established performance criteria to determine if the results of analyses meet the performance characteristics of the method. When results of sample spikes indicate atypical method performance, a quality control check standard must be analyzed to confirm that the measurements were performed in an in-control mode of operation.
-8.1.1 The analyst must make an initial, one-time, demonstration of the ability to generate acceptable accuracy and precision with this method. This ability is established as described in Section 8.2.
-8.1.2 In recognition of advances that are occurring in chromatography, the analyst is permitted certain options (detailed in Sections 10.4, 11.1, and 12.1) to improve the separations or lower the cost of measurements. Each time such a modification is made to the method, the analyst is required to repeat the procedure in Section 8.2.
-8.1.3 Before processing any samples, the analyst must analyze a reagent water blank to demonstrate that interferences from the analytical system and glassware are under control. Each time a set of samples is extracted or reagents are changed, a reagent water blank must be processed as a safeguard against laboratory contamination.
-8.1.4 The laboratory must, on an ongoing basis, spike and analyze a minimum of 10% of all samples to monitor and evaluate laboratory data quality. This procedure is described in Section 8.3.
-8.1.5 The laboratory must, on an ongoing basis, demonstrate through the analyses of quality control check standards that the operation of the measurement system is in control. This procedure is described in Section 8.4. The frequency of the check standard analyses is equivalent to 10% of all samples analyzed but may be reduced if spike recoveries from samples (Section 8.3) meet all specified quality control criteria.
-8.1.6 The laboratory must maintain performance records to document the quality of data that is generated. This procedure is described in Section 8.5.
-8.2 To establish the ability to generate acceptable accuracy and precision, the analyst must perform the following operations.
-8.2.1 A quality control (QC) check sample concentrate is required containing each single-component parameter of interest at the following concentrations in acetone: 4,4′-DDD, 10 µg/mL; 4,4′-DDT, 10 µg/mL; endosulfan II, 10 µg/mL; endosulfan sulfate, 10 µg/mL; endrin, 10 µg/mL; any other single-component pesticide, 2 µg/mL. If this method is only to be used to analyze for PCBs, chlordane, or toxaphene, the QC check sample concentrate should contain the most representative multicomponent parameter at a concentration of 50 µg/mL in acetone. The QC check sample concentrate must be obtained from the U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory in Cincinnati, Ohio, if available. If not available from that source, the QC check sample concentrate must be obtained from another external source. If not available from either source above, the QC check sample concentrate must be prepared by the laboratory using stock standards prepared independently from those used for calibration.
-8.2.2 Using a pipet, prepare QC check samples at the test concentrations shown in Table 3 by adding 1.00 mL of QC check sample concentrate to each of four 1-L aliquots of reagent water.
-8.2.3 Analyze the well-mixed QC check samples according to the method beginning in Section 10.
-8.2.4 Calculate the average recovery (X) in µg/mL; and the standard deviation of the recovery (s) in µg/mL, for each parameter using the four results.
-8.2.5 For each parameter compare s and X with the corresponding acceptance criteria for precision and accuracy, respectively, found in Table 3. If s and X for all parameters of interest meet the acceptance criteria, the system performance is acceptable and analysis of actual samples can begin. If any individual s exceeds the precision limit or any individual X falls outside the range for accuracy, the system performance is unacceptable for that parameter.
-Note: The large number of parameters in Table 3 present a substantial probability that one or more will fail at least one of the acceptance criteria when all parameters are analyzed.
-8.2.6 When one or more of the parameters tested fail at least one of the acceptance criteria, the analyst must proceed according to Section 8.2.6.1 or 8.2.6.2.
-8.2.6.1 Locate and correct the source of the problem and repeat the test for all parameters of interest beginning with Section 8.2.2.
-8.2.6.2 Beginning with Section 8.2.2, repeat the test only for those parameters that failed to meet criteria. Repeated failure, however, will confirm a general problem with the measurement system. If this occurs, locate and correct the source of the problem and repeat the test for all compmunds of interest beginning with Section 8.2.2.
-8.3 The laboratory must, on an ongoing basis, spike at least 10% of the samples from each sample site being monitored to assess accuracy. For laboratories analyzing one to ten samples per month, at least one spiked sample per month is required.
-8.3.1 The concentration of the spike in the sample should be determined as follows:
-8.3.1.1 If, as in compliance monitoring, the concentration of a specific parameter in the sample is being checked against a regulatory concentration limit, the spike should be at that limit or 1 to 5 times higher than the background concentration determined in Section 8.3.2, whichever concentration would be larger.
-8.3.1.2 If the concentration of a specific parameter in the sample is not being checked against a limit specific to that parameter, the spike should be at the test concentration in Section 8.2.2 or 1 to 5 times higher than the background concentration determined in Section 8.3.2, whichever concentration would be larger.
-8.3.1.3 If it is impractical to determine background levels before spiking (e.g., maximum holding times will be exceeded), the spike concentration should be (1) the regulatory concentration limit, if any; or, if none (2) the larger of either 5 times higher than the expected background concentration or the test concentration in Section 8.2.2.
-8.3.2 Analyze one sample aliquot to determine the background concentration (B) of each parameter. If necessary, prepare a new QC check sample concentrate (Section 8.2.1) appropriate for the background concentrations in the sample. Spike a second sample aliquot with 1.0 mL of the QC check sample concentrate and analyze it to determine the concentration after spiking (A) of each parameter. Calculate each percent recovery (P) as 100(A−B)%/T, where T is the known true value of the spike.
-8.3.3 Compare the percent recovery (P) for each parameter with the corresponding QC acceptance criteria found in Table 3. These acceptance criteria were calculated to include an allowance for error in measurement of both the background and spike concentrations, assuming a spike to background ratio of 5:1. This error will be accounted for to the extent that the analyst's spike to background ratio approaches 5:1. 10 If spiking was performed at a concentration lower than the test concentration in Section 8.2.2, the analyst must use either the QC acceptance criteria in Table 3, or optional QC acceptance criteria calculated for the specific spike concentration. To calculate optional acceptance criteria for the recovery of a parameter: (1) Calculate accuracy (X′) using the equation in Table 4, substituting the spike concentration (T) for C; (2) calculate overall precision (S′) using the equation in Table 4, substituting X′ for X; (3) calculate the range for recovery at the spike concentration as (100 X′/T)±2.44(100 S′/T)%. 10
-8.3.4 If any individual P falls outside the designated range for recovery, that parameter has failed the acceptance criteria. A check standard containing each parameter that failed the criteria must be analyzed as described in Section 8.4.
-8.4 If any parameter fails the acceptance criteria for recovery in Section 8.3, a QC check standard containing each parameter that failed must be prepared and analyzed.
-Note: The frequency for the required analysis of a QC check standard will depend upon the number of parameters being simultaneously tested, the complexity of the sample matrix, and the performance of the laboratory. If the entire list of parameters in Table 3 must be measured in the sample in Section 8.3, the probability that the analysis of a QC check standard will be required is high. In this case the QC check standard should be routinely analyzed with the spike sample.
-8.4.1 Prepare the QC check standard by adding 1.0 mL of QC check sample concentrate (Section 8.2.1 or 8.3.2) to 1 L of reagent water. The QC check standard needs only to contain the parameters that failed criteria in the test in Section 8.3.
-8.4.2 Analyze the QC check standards to determine the concentration measured (A) of each parameter. Calculate each percent recovery (Ps) as 100 (A/T)%, where T is the true value of the standard concentration.
-8.4.3 Compare the percent recovery (Ps) for each parameter with the corresponding QC acceptance criteria found in Table 3. Only parameters that failed the test in Section 8.3 need to be compared with these criteria. If the recovery of any such parameter falls outside the designated range, the laboratory performance for that parameter is judged to be out of control, and the problem must be immediately identified and corrected. The analytical result for that parameter in the unspiked sample is suspect and may not be reported for regulatory compliance purposes.
-8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P−2 sp to P + 2 sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
-8.6 It is recommended that the laboratory adopt additional quality assurance practices for use with this method. The specific practices that are most productive depend upon the needs of the laboratory and the nature of the samples. Field duplicates may be analyzed to assess the precision of the environmental measurements. When doubt exists over the identification of a peak on the chromatogram, confirmatory techniques such as gas chromatography with a dissimilar column, specific element detector, or mass spectrometer must be used. Whenever possible, the laboratory should analyze standard reference materials and participate in relevant performance evaluation studies.
+8.1 Each laboratory that uses this method is required to operate a formal quality assurance program. The minimum requirements of this program consist of an initial demonstration of laboratory capability and ongoing analysis of spiked samples and blanks to evaluate and document data quality. The laboratory must maintain records to document the quality of data generated. Ongoing data quality checks are compared with established performance criteria to determine if the results of analyses meet performance requirements of this method. A quality control check standard (LCS, section 8.4) must be prepared and analyzed with each batch of samples to confirm that the measurements were performed in an in-control mode of operation. A laboratory may develop its own performance criteria (as QC acceptance criteria), provided such criteria are as or more restrictive than the criteria in this method.
+8.1.1 The laboratory must make an initial demonstration of the capability (IDC) to generate acceptable precision and recovery with this method. This demonstration is detailed in Section 8.2. On a continuing basis, the laboratory must repeat demonstration of capability (DOC) at least annually.
+8.1.2 In recognition of advances that are occurring in analytical technology, and to overcome matrix interferences, the laboratory is permitted certain options (section 1.8 and 40 CFR 136.6(b) [Reference 12]) to improve separations or lower the costs of measurements. These options may include alternative extraction (e.g., other solid-phase extraction materials and formats), concentration, and cleanup procedures, and changes in GC columns (Reference 12). Alternative determinative techniques, such as the substitution of spectroscopic or immunoassay techniques, and changes that degrade method performance, are not allowed. If an analytical technique other than the techniques specified in this method is used, that technique must have a specificity equal to or greater than the specificity of the techniques in this method for the analytes of interest. The laboratory is also encouraged to participate in performance evaluation studies (see section 8.8).
+8.1.2.1 Each time a modification listed above is made to this method, the laboratory is required to repeat the procedure in section 8.2. If the detection limit of the method will be affected by the change, the laboratory is required to demonstrate that the MDLs (40 CFR part 136, appendix B) are lower than one-third the regulatory compliance limit or as low as the MDLs in this method, whichever are greater. If calibration will be affected by the change, the instrument must be recalibrated per section 7. Once the modification is demonstrated to produce results equivalent or superior to results produced by this method as written, that modification may be used routinely thereafter, so long as the other requirements in this method are met (e.g., matrix spike/matrix spike duplicate recovery and relative percent difference).
+8.1.2.1.1 If an allowed method modification, is to be applied to a specific discharge, the laboratory must prepare and analyze matrix spike/matrix spike duplicate (MS/MSD) samples (section 8.3) and LCS samples (section 8.4). The laboratory must include surrogates (Section 8.7) in each of the samples. The MS/MSD and LCS samples must be fortified with the analytes of interest (section 1.4). If the modification is for nationwide use, MS/MSD samples must be prepared from a minimum of nine different discharges (See section 8.1.2.1.2), and all QC acceptance criteria in this method must be met. This evaluation only needs to be performed once other than for the routine QC required by this method (for example it could be performed by the vendor of an alternative material) but any laboratory using that specific material must have the results of the study available. This includes a full data package with the raw data that will allow an independent reviewer to verify each determination and calculation performed by the laboratory (see section 8.1.2.2.5, items (a)-(q)).
+8.1.2.1.2 Sample matrices on which MS/MSD tests must be performed for nationwide use of an allowed modification:
+(a) Effluent from a publicly owned treatment works (POTW).
+(b) ASTM D5905 Standard Specification for Substitute Wastewater.
+(c) Sewage sludge, if sewage sludge will be in the permit.
+(d) ASTM D1141 Standard Specification for Substitute Ocean Water, if ocean water will be in the permit.
+(e) Untreated and treated wastewaters up to a total of nine matrix types (see https://www.epa.gov/eg/industrial-effluent-guidelines for a list of industrial categories with existing effluent guidelines).
+(i) At least one of the above wastewater matrix types must have at least one of the following characteristics:
+(A) Total suspended solids greater than 40 mg/L.
+(B) Total dissolved solids greater than 100 mg/L.
+(C) Oil and grease greater than 20 mg/L.
+(D) NaCl greater than 120 mg/L.
+(E) CaCO3 greater than 140 mg/L.
+(ii) The interim acceptance criteria for MS, MSD recoveries that do not have recovery limits in Table 4 or developed in section 8.3.3, and for surrogates that do not have recovery limits developed in section 8.6, must be no wider than 60-140%, and the relative percent difference (RPD) of the concentrations in the MS and MSD that do not have RPD limits in Table 4 or developed in section 8.3.3, must be less than 30%. Alternatively, the laboratory may use the laboratory's in-house limits if they are tighter.
+(f) A proficiency testing (PT) sample from a recognized provider, in addition to tests of the nine matrices (section 8.1.2.1.1).
+8.1.2.2 The laboratory must maintain records of modifications made to this method. These records include the following, at a minimum:
+8.1.2.2.1 The names, titles, and business street addresses, telephone numbers, and email addresses, of the analyst(s) that performed the analyses and modification, and of the quality control officer that witnessed and will verify the analyses and modifications.
+8.1.2.2.2 A list of analytes, by name and CAS Registry number.
+8.1.2.2.3 A narrative stating reason(s) for the modifications.
+8.1.2.2.4 Results from all quality control (QC) tests comparing the modified method to this method, including:
+(a) Calibration (section 7).
+(b) Calibration verification (section 13.6).
+(c) Initial demonstration of capability (section 8.2).
+(d) Analysis of blanks (section 8.5).
+(e) Matrix spike/matrix spike duplicate analysis (section 8.3).
+(f) Laboratory control sample analysis (section 8.4).
+8.1.2.2.5 Data that will allow an independent reviewer to validate each determination by tracing the instrument output (peak height, area, or other signal) to the final result. These data are to include:
+(a) Sample numbers and other identifiers.
+(b) Extraction dates.
+(c) Analysis dates and times.
+(d) Analysis sequence/run chronology.
+(e) Sample weight or volume (section 10).
+(f) Extract volume prior to each cleanup step (sections 10 and 11).
+(g) Extract volume after each cleanup step (section 11).
+(h) Final extract volume prior to injection (sections 10 and 12).
+(i) Injection volume (sections 12.3 and 13.2).
+(j) Sample or extract dilution (section 15.4).
+(k) Instrument and operating conditions.
+(l) Column (dimensions, material, etc.).
+(m) Operating conditions (temperatures, flow rates, etc.).
+(n) Detector (type, operating conditions, etc.).
+(o) Chromatograms and other recordings of raw data.
+(p) Quantitation reports, data system outputs, and other data to link the raw data to the results reported.
+(q) A written Standard Operating Procedure (SOP).
+8.1.2.2.6 Each individual laboratory wishing to use a given modification must perform the start-up tests in section 8.1.2 (e.g., DOC, MDL), with the modification as an integral part of this method prior to applying the modification to specific discharges. Results of the DOC must meet the QC acceptance criteria in Table 5 for the analytes of interest (section 1.4), and the MDLs must be equal to or lower than the MDLs in Tables 1 and 2 for the analytes of interest.
+8.1.3 Before analyzing samples, the laboratory must analyze a blank to demonstrate that interferences from the analytical system, lab ware, and reagents, are under control. Each time a batch of samples is extracted or reagents are changed, a blank must be extracted and analyzed as a safeguard against laboratory contamination. Requirements for the blank are given in section 8.5.
+8.1.4 The laboratory must, on an ongoing basis, spike and analyze samples to monitor and evaluate method and laboratory performance on the sample matrix. The procedure for spiking and analysis is given in section 8.3.
+8.1.5 The laboratory must, on an ongoing basis, demonstrate through analysis of a quality control check sample (laboratory control sample, LCS; on-going precision and recovery sample, OPR) that the measurement system is in control. This procedure is described in Section 8.4.
+8.1.6 The laboratory should maintain performance records to document the quality of data that is generated. This procedure is given in section 8.7.
+8.1.7 The large number of analytes tested in performance tests in this method present a substantial probability that one or more will fail acceptance criteria when all analytes are tested simultaneously, and a re-test (reanalysis) is allowed if this situation should occur. If, however, continued re-testing results in further repeated failures, the laboratory should document the failures and either avoid reporting results for the analytes that failed or report the problem and failures with the data. A QC failure does not relieve a discharger or permittee of reporting timely results.
+8.2 Demonstration of capability (DOC)—To establish the ability to generate acceptable recovery and precision, the laboratory must perform the DOC in sections 8.2.1 through 8.2.6 for the analytes of interest initially and in an on-going manner at least annually. The laboratory must also establish MDLs for the analytes of interest using the MDL procedure at 40 CFR part 136, appendix B. The laboratory's MDLs must be equal to or lower than those listed in Tables 1 or 2, or lower than one-third the regulatory compliance limit, whichever is greater. For MDLs not listed in Tables 1 or 2, the laboratory must determine the MDLs using the MDL procedure at 40 CFR part 136, appendix B under the same conditions used to determine the MDLs for the analytes listed in Tables 1 and 2. When analyzing the PCBs as Aroclors, it is only necessary to establish an MDL for one of the multi-component analytes (e.g., PCB 1254), or the mixture of Aroclors 1016 and 1260 may be used to establish MDLs for all of the Aroclors. Similarly, MDLs for other multi-component analytes (e.g., Chlordanes) may be determined using only one of the major components. All procedures used in the analysis, including cleanup procedures, must be included in the DOC.
+8.2.1 For the DOC, a QC check sample concentrate containing each analyte of interest (section 1.4) is prepared in a water-miscible solvent using the solution in section 6.8.3.
+Note: QC check sample concentrates are no longer available from EPA.
+8.2.2 Using a pipet or syringe, prepare four QC check samples by adding an appropriate volume of the concentrate and of the surrogate(s) to each of four 1-L aliquots of reagent water. Swirl or stir to mix.
+8.2.3 Extract and analyze the well-mixed QC check samples according to the method beginning in section 10.
+8.2.4 Calculate the average percent recovery (X) and the standard deviation (s) of the percent recovery for each analyte using the four results.
+8.2.5 For each analyte, compare s and X with the corresponding acceptance criteria for precision and recovery in Table 4. For analytes in Table 2 that are not listed in Table 4, QC acceptance criteria must be developed by the laboratory. EPA has provided guidance for development of QC acceptance criteria (References 12 and 13). If s and X for all analytes of interest meet the acceptance criteria, system performance is acceptable and analysis of blanks and samples can begin. If any individual s exceeds the precision limit or any individual X falls outside the range for recovery, system performance is unacceptable for that analyte.
+Note: The large number of analytes in Tables 1 and 2 present a substantial probability that one or more will fail at least one of the acceptance criteria when many or all analytes are determined simultaneously.
+8.2.6 When one or more of the analytes tested fail at least one of the acceptance criteria, repeat the test for only the analytes that failed. If results for these analytes pass, system performance is acceptable and analysis of samples and blanks may proceed. If one or more of the analytes again fail, system performance is unacceptable for the analytes that failed the acceptance criteria. Correct the problem and repeat the test (section 8.2). See section 8.1.7 for disposition of repeated failures.
+Note: To maintain the validity of the test and re-test, system maintenance and/or adjustment is not permitted between this pair of tests.
+8.3 Matrix spike and matrix spike duplicate (MS/MSD)—The purpose of the MS/MSD requirement is to provide data that demonstrate the effectiveness of the method as applied to the samples in question by a given laboratory, and both the data user (discharger, permittee, regulated entity, regulatory/control authority, customer, other) and the laboratory share responsibility for provision of such data. The data user should identify the sample and the analytes of interest (section 1.4) to be spiked and provide sufficient sample volume to perform MS/MSD analyses. The laboratory must, on an ongoing basis, spike at least 5% of the samples in duplicate from each discharge being monitored to assess accuracy (recovery and precision). If direction cannot be obtained from the data user, the laboratory must spike at least one sample in duplicate per extraction batch of up to 20 samples with the analytes in Table 1. Spiked sample results should be reported only to the data user whose sample was spiked, or as requested or required by a regulatory/control authority, or in a permit.
+8.3.1. If, as in compliance monitoring, the concentration of a specific analyte will be checked against a regulatory concentration limit, the concentration of the spike should be at that limit; otherwise, the concentration of the spike should be one to five times higher than the background concentration determined in section 8.3.2, at or near the midpoint of the calibration range, or at the concentration in the LCS (section 8.4) whichever concentration would be larger. When no information is available, the mid-point of the calibration may be used.
+8.3.2 Analyze one sample aliquot to determine the background concentration (B) of the each analyte of interest. If necessary to meet the requirement in section 8.3.1, prepare a new check sample concentrate (section 8.2.1) appropriate for the background concentration. Spike and analyze two additional sample aliquots of the same volume as the original sample, and determine the concentrations after spiking (A1 and A2) of each analyte. Calculate the percent recoveries (P1 and P2) as:
+ER28AU17.002
+where T is the known true value of the spike.
+Also calculate the relative percent difference (RPD) between the concentrations (A1 and A2):
+ER28AU17.003
+8.3.3 Compare the percent recoveries (P1 and P2) and the RPD for each analyte in the MS/MSD aliquots with the corresponding QC acceptance criteria for recovery (P) and RPD in Table 4.
+(a) If any individual P falls outside the designated range for recovery in either aliquot, or the RPD limit is exceeded, the result for the analyte in the unspiked sample is suspect and may not be reported or used for permitting or regulatory compliance. See section 8.1.7 for disposition of failures.
+(b) For analytes in Table 2 not listed in Table 4, QC acceptance criteria must be developed by the laboratory. EPA has provided guidance for development of QC acceptance criteria (References 12 and 13).
+8.3.4 After analysis of a minimum of 20 MS/MSD samples for each target analyte and surrogate, and if the laboratory chooses to develop and apply optional in-house QC limits, the laboratory should calculate and apply the optional in-house QC limits for recovery and RPD of future MS/MSD samples (Section 8.3). The optional in-house QC limits for recovery are calculated as the mean observed recovery ±3 standard deviations, and the upper QC limit for RPD is calculated as the mean RPD plus 3 standard deviations of the RPDs. The in-house QC limits must be updated at least every two years and re-established after any major change in the analytical instrumentation or process. At least 80% of the analytes tested in the MS/MSD must have in-house QC acceptance criteria that are tighter than those in Table 4 and the remaining analytes (those not included in the 80%) must meet the acceptance criteria in Table 4. If an in-house QC limit for the RPD is greater than the limit in Table 4, then the limit in Table 4 must be used. Similarly, if an in-house lower limit for recovery is below the lower limit in Table 4, then the lower limit in Table 4 must be used, and if an in-house upper limit for recovery is above the upper limit in Table 4, then the upper limit in Table 4 must be used. The laboratory must evaluate surrogate recovery data in each sample against its in-house surrogate recovery limits. The laboratory may use 60 -140% as interim acceptance criteria for surrogate recoveries until in-house limits are developed. Alternatively, surrogate recovery limits may be developed from laboratory control charts. In-house QC acceptance criteria must be updated at least every two years.
+8.4 Laboratory control sample (LCS)—A QC check sample (laboratory control sample, LCS; on-going precision and recovery sample, OPR) containing each single-component analyte of interest (section 1.4) must be extracted, concentrated, and analyzed with each extraction batch of up to 20 samples (section 3.1) to demonstrate acceptable recovery of the analytes of interest from a clean sample matrix. If multi-peak analytes are required, extract and prepare at least one as an LCS for each batch. Alternatively, the laboratory may set up a program where multi-peak LCS is rotated with a single-peak LCS.
+8.4.1 Prepare the LCS by adding QC check sample concentrate (sections 6.8.3 and 8.2.1) to reagent water. Include all analytes of interest (section 1.4) in the LCS. The volume of reagent water must be the same as the nominal volume used for the sample, the DOC (Section 8.2), the blank (section 8.5), and the MS/MSD (section 8.3). Also add a volume of the surrogate solution (section 6.8.6).
+8.4.2 Analyze the LCS prior to analysis of samples in the extraction batch (Section 3.1). Determine the concentration (A) of each analyte. Calculate the percent recovery as:
+ER28AU17.004
+where T is the true value of the concentration in the LCS.
+8.4.3 For each analyte, compare the percent recovery (P) with its corresponding QC acceptance criterion in Table 4. For analytes of interest in Table 2 not listed in Table 4, use the QC acceptance criteria developed for the MS/MSD (section 8.3.3.2), or limits based on laboratory control charts. If the recoveries for all analytes of interest fall within the designated ranges, analysis of blanks and field samples may proceed. If any individual recovery falls outside the range, proceed according to section 8.4.4.
+Note: The large number of analytes in Tables 1 and 2 present a substantial probability that one or more will fail the acceptance criteria when all analytes are tested simultaneously. Because a re-test is allowed in event of failure (sections 8.1.7 and 8.4.4), it may be prudent to extract and analyze two LCSs together and evaluate results of the second analysis against the QC acceptance criteria only if an analyte fails the first test.
+8.4.4 Repeat the test only for those analytes that failed to meet the acceptance criteria (P). If these analytes now pass, system performance is acceptable and analysis of blanks and samples may proceed. Repeated failure, however, will confirm a general problem with the measurement system. If this occurs, repeat the test using a fresh LCS (section 8.2.1) or an LCS prepared with a fresh QC check sample concentrate (section 8.2.1), or perform and document system repair. Subsequent to analysis of the LCS prepared with a fresh sample concentrate, or to system repair, repeat the LCS test (Section 8.4). If failure of the LCS indicates a systemic problem with samples in the batch, re-extract and re-analyze the samples in the batch. See Section 8.1.7 for disposition of repeated failures.
+8.4.5 After analysis of 20 LCS samples, and if the laboratory chooses to develop and apply optional in-house QC limits, the laboratory should calculate and apply the optional in-house QC limits for recovery of future LCS samples (section 8.4). Limits for recovery in the LCS should be calculated as the mean recovery ±3 standard deviations. A minimum of 80% of the analytes tested for in the LCS must have QC acceptance criteria tighter than those in Table 4, and the remaining analytes (those not included in the 80%) must meet the acceptance criteria in Table 4. If an in-house lower limit for recovery is lower than the lower limit in Table 4, the lower limit in Table 4 must be used, and if an in-house upper limit for recovery is higher than the upper limit in Table 4, the upper limit in Table 4 must be used. Many of the analytes and surrogates do not contain acceptance criteria. The laboratory should use 60-140% as interim acceptance criteria for recoveries of spiked analytes and surrogates that do not have recovery limits specified in Table 4, and at least 80% of the surrogates must meet the 60-140% interim criteria until in-house LCS and surrogate limits are developed. Alternatively, acceptance criteria for analytes that do not have recovery limits in Table 4 may be based on laboratory control charts. In-house QC acceptance criteria must be updated at least every two years.
+8.5 Blank—Extract and analyze a blank with each extraction batch (section 3.1) to demonstrate that the reagents and equipment used for preparation and analysis are free from contamination.
+8.5.1 Prepare the blank from reagent water and spike it with the surrogates. The volume of reagent water must be the same as the volume used for samples, the DOC (section 8.2), the LCS (section 8.4), and the MS/MSD (section 8.3). Extract, concentrate, and analyze the blank using the same procedures and reagents used for the samples, LCS, and MS/MSD in the batch. Analyze the blank immediately after analysis of the LCS (section 8.4) and prior to analysis of the MS/MSD and samples to demonstrate freedom from contamination.
+8.5.2 If any analyte of interest is found in the blank at a concentration greater than the MDL for the analyte, at a concentration greater than one-third the regulatory compliance limit, or at a concentration greater than one-tenth the concentration in a sample in the batch (section 3.1), whichever is greatest, analysis of samples must be halted and samples in the batch must be re-extracted and the extracts reanalyzed. Samples in a batch must be associated with an uncontaminated blank before the results for those samples may be reported or used for permitting or regulatory compliance purposes. If re-testing of blanks results in repeated failures, the laboratory should document the failures and report the problem and failures with the data.
+8.6 Surrogate recovery—The laboratory must spike all samples with the surrogate standard spiking solution (section 6.8.6) per section 10.2.2 or 10.4.2, analyze the samples, and calculate the percent recovery of each surrogate. QC acceptance criteria for surrogates must be developed by the laboratory (section 8.4). If any recovery fails its criterion, attempt to find and correct the cause of the failure, and if sufficient volume is available, re-extract another aliquot of the affected sample; otherwise, see section 8.1.7 for disposition of repeated failures.
+8.7 As part of the QC program for the laboratory, it is suggested but not required that method accuracy for wastewater samples be assessed and records maintained. After analysis of five or more spiked wastewater samples as in Section 8.3, calculate the average percent recovery (X) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent interval from X−2sp to X+2sp. For example, if X = 90% and sp = 10%, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each analyte on a regular basis to ensure process control (e.g., after each 5-10 new accuracy measurements). If desired, statements of accuracy for laboratory performance, independent of performance on samples, may be developed using LCSs.
+8.8 It is recommended that the laboratory adopt additional quality assurance practices for use with this method. The specific practices that are most productive depend upon the needs of the laboratory and the nature of the samples. Field duplicates may be analyzed to assess the precision of environmental measurements. When doubt exists over the identification of a peak on the chromatogram, confirmatory techniques such as gas chromatography with another dissimilar column, specific element detector, or mass spectrometer must be used. Whenever possible, the laboratory should analyze standard reference materials and participate in relevant performance evaluation studies.
 9. Sample Collection, Preservation, and Handling
-9.1 Grab samples must be collected in glass containers. Conventional sampling practices 11 should be followed, except that the bottle must not be prerinsed with sample before collection. Composite samples should be collected in refrigerated glass containers in accordance with the requirements of the program. Automatic sampling equipment must be as free as possible of Tygon tubing and other potential sources of contamination.
-9.2 All samples must be iced or refrigerated at 4 °C from the time of collection until extraction. If the samples will not be extracted within 72 h of collection, the sample should be adjusted to a pH range of 5.0 to 9.0 with sodium hydroxide solution or sulfuric acid. Record the volume of acid or base used. If aldrin is to be determined, add sodium thiosulfate when residual chlorine is present. EPA Methods 330.4 and 330.5 may be used for measurement of residual chlorine. 12 Field test kits are available for this purpose.
-9.3 All samples must be extracted within 7 days of collection and completely analyzed within 40 days of extraction. 2
+9.1 Collect samples as grab samples in glass bottles, or in refrigerated bottles using automatic sampling equipment. Collect 1-L of ambient waters, effluents, and other aqueous samples. If high concentrations of the analytes of interest are expected (e.g., for untreated effluents or in-process waters), collect a smaller volume (e.g., 250 mL), but not less than 100 mL, in addition to the 1-L sample. Follow conventional sampling practices, except do not pre-rinse the bottle with sample before collection. Automatic sampling equipment must be as free as possible of polyvinyl chloride or other tubing or other potential sources of contamination. If needed, collect additional sample(s) for the MS/MSD (section 8.3).
+9.2 Ice or refrigerate the sample at ≤6 °C from the time of collection until extraction, but do not freeze. If aldrin is to be determined and residual chlorine is present, add 80 mg/L of sodium thiosulfate but do not add excess. Any method suitable for field use may be employed to test for residual chlorine (Reference 14). If sodium thiosulfate interferes in the determination of the analytes, an alternative preservative (e.g., ascorbic acid or sodium sulfite) may be used.
+9.3 Extract all samples within seven days of collection and completely analyze within 40 days of extraction (Reference 1). If the sample will not be extracted within 72 hours of collection, adjust the sample pH to a range of 5.0-9.0 with sodium hydroxide solution or sulfuric acid. Record the volume of acid or base used.
 10. Sample Extraction
-10.1 Mark the water meniscus on the side of the sample bottle for later determination of sample volume. Pour the entire sample into a 2-L separatory funnel.
-10.2 Add 60 mL of methylene chloride to the sample bottle, seal, and shake 30 s to rinse the inner surface. Transfer the solvent to the separatory funnel and extract the sample by shaking the funnel for 2 min. with periodic venting to release excess pressure. Allow the organic layer to separate from the water phase for a minimum of 10 min. If the emulsion interface between layers is more than one-third the volume of the solvent layer, the analyst must employ mechanical techniques to complete the phase separation. The optium technique depends upon the sample, but may include stirring, filtration of the emulsion through glass wool, centrifugation, or other physical methods. Collect the methylene chloride extract in a 250-mL Erlenmeyer flask.
-10.3 Add a second 60-mL volume of methylene chloride to the sample bottle and repeat the extraction procedure a second time, combining the extracts in the Erlenmeyer flask. Perform a third extraction in the same manner.
-10.4 Assemble a Kuderna-Danish (K-D) concentrator by attaching a 10-mL concentrator tube to a 500-mL evaporative flask. Other concentration devices or techniques may be used in place of the K-D concentrator if the requirements of Section 8.2 are met.
-10.5 Pour the combined extract through a solvent-rinsed drying column containing about 10 cm of anhydrous sodium sulfate, and collect the extract in the K-D concentrator. Rinse the Erlenmeyer flask and column with 20 to 30 mL of methylene chloride to complete the quantitative transfer.
-10.6 Add one or two clean boiling chips to the evaporative flask and attach a three-ball Snyder column. Prewet the Snyder column by adding about 1 mL of methylene chloride to the top. Place the K-D apparatus on a hot water bath (60 to 65 °C) so that the concentrator tube is partially immersed in the hot water, and the entire lower rounded surface of the flask is bathed with hot vapor. Adjust the vertical position of the apparatus and the water temperature as required to complete the concentration in 15 to 20 min. At the proper rate of distillation the balls of the column will actively chatter but the chambers will not flood with condensed solvent. When the apparent volume of liquid reaches 1 mL, remove the K-D apparatus and allow it to drain and cool for at least 10 min.
-10.7 Increase the temperature of the hot water bath to about 80 °C. Momeltarily remove the Snyder column, add 50 mL of hexane and a new boiling chip, and reattach the Snyder column. Concentrate the extract as in Section 10.6, except use hexane to prewet the column. The elapsed time of concentration should be 5 to 10 min.
-10.8 Remove the Snyder column and rinse the flask and its lower joint into the concentrator tube with 1 to 2 mL of hexane. A 5-mL syringe is recommended for this operation. Stopper the concentrator tube and store refrigerated if further processing will not be performed immediately. If the extract will be stored longer than two days, it should be transferred to a Teflon-sealed screw-cap vial. If the sample extract requires no further cleanup, proceed with gas chromatographic analysis (Section 12). If the sample requires further cleanup, proceed to Section 11.
-10.9 Determine the original sample volume by refilling the sample bottle to the mark and transferring the liquid to a 1000-mL graduated cylinder. Record the sample volume to the nearest 5 mL.
-11. Cleanup and Separation
-11.1 Cleanup procedures may not be necessary for a relatively clean sample matrix. If particular circumstances demand the use of a cleanup procedure, the analyst may use either procedure below or any other appropriate procedure. However, the analyst first must demonstrate that the requirements of Section 8.2 can be met using the method as revised to incorporate the cleanup procedure. The Florisil column allows for a select fractionation of the compounds and will eliminate polar interferences. Elemental sulfur, which interferes with the electron capture gas chromatography of certain pesticides, can be removed by the technique described in Section 11.3.
-11.2 Florisil column cleanup:
-11.2.1 Place a weight of Florisil (nominally 20 g) predetermined by calibration (Section 7.5), into a chromatographic column. Tap the column to settle the Florisil and add 1 to 2 cm of anhydrous sodium sulfate to the top.
-11.2.2 Add 60 mL of hexane to wet and rinse the sodium sulfate and Florisil. Just prior to exposure of the sodium sulfate layer to the air, stop the elution of the hexane by closing the stopcock on the chromatographic column. Discard the eluate.
-11.2.3 Adjust the sample extract volume to 10 mL with hexane and transfer it from the K-D concentrator tube onto the column. Rinse the tube twice with 1 to 2 mL of hexane, adding each rinse to the column.
-11.2.4 Place a 500-mL K-D flask and clean concentrator tube under the chromatographic column. Drain the column into the flask until the sodium sulfate layer is nearly exposed. Elute the column with 200 mL of 6% ethyl ether in hexane (V/V) (Fraction 1) at a rate of about 5 mL/min. Remove the K-D flask and set it aside for later concentration. Elute the column again, using 200 mL of 15% ethyl ether in hexane (V/V) (Fraction 2), into a second K-D flask. Perform the third elution using 200 mL of 50% ethyl ether in hexane (V/V) (Fraction 3). The elution patterns for the pesticides and PCBs are shown in Table 2.
-11.2.5 Concentrate the fractions as in Section 10.6, except use hexane to prewet the column and set the water bath at about 85 °C. When the apparatus is cool, remove the Snyder column and rinse the flask and its lower joint into the concentrator tube with hexane. Adjust the volume of each fraction to 10 mL with hexane and analyze by gas chromatography (Section 12).
-11.3 Elemental sulfur will usually elute entirely in Fraction 1 of the Florisil column cleanup. To remove sulfur interference from this fraction or the original extract, pipet 1.00 mL of the concentrated extract into a clean concentrator tube or Teflon-sealed vial. Add one to three drops of mercury and seal. 13 Agitate the contents of the vial for 15 to 30 s. Prolonged shaking (2 h) may be required. If so, this may be accomplished with a reciprocal shaker. Alternatively, activated copper powder may be used for sulfur removal. 14 Analyze by gas chromatography.
+10.1 This section contains procedures for separatory funnel liquid-liquid extraction (SFLLE, section 10.2), continuous liquid-liquid extraction (CLLE, section 10.4), and disk-based solid-phase extraction (SPE, section 10.5). SFLLE is faster, but may not be as effective as CLLE for extracting polar analytes. SFLLE is labor intensive and may result in formation of emulsions that are difficult to break. CLLE is less labor intensive, avoids emulsion formation, but requires more time (18-24 hours), more hood space, and may require more solvent. SPE can be faster, unless the particulate load in an aqueous sample is so high that it slows the filtration process. If an alternative extraction scheme to those detailed in this method is used, all QC tests must be performed and all QC acceptance criteria must be met with that extraction scheme as an integral part of this method.
+10.2 Separatory funnel liquid-liquid extraction (SFLLE).
+10.2.1 The SFLLE procedure below assumes a sample volume of 1 L. When a different sample volume is extracted, adjust the volume of methylene chloride accordingly.
+10.2.2 Mark the water meniscus on the side of the sample bottle for later determination of sample volume. Pour the entire sample into the separatory funnel. Pipet the surrogate standard spiking solution (section 6.8.6) into the separatory funnel. If the sample will be used for the LCS or MS or MSD, pipet the appropriate QC check sample concentrate (section 8.3 or 8.4) into the separatory funnel. Mix well. If the sample arrives in a larger sample bottle, 1 L may be measured in a graduated cylinder, then added to the separatory funnel.
+Note: Instances in which the sample is collected in an oversized bottle should be reported by the laboratory to the data user. Of particular concern is that fact that this practice precludes rinsing the empty bottle with solvent as described below, which could leave hydrophobic pesticides on the wall of the bottle, and underestimate the actual sample concentrations.
+10.2.3 Add 60 mL of methylene chloride to the sample bottle, seal, and shake for 30 seconds to rinse the inner surface. Transfer the solvent to the separatory funnel and extract the sample by shaking the funnel for two minutes with periodic venting to release excess pressure. Allow the organic layer to separate from the water phase for a minimum of 10 minutes. If an emulsion forms and the emulsion interface between the layers is more than one-third the volume of the solvent layer, employ mechanical techniques to complete the phase separation. The optimum technique depends upon the sample, but may include stirring, filtration of the emulsion through glass wool, use of phase-separation paper, centrifugation, salting, freezing, or other physical methods. Collect the methylene chloride extract in a flask. If the emulsion cannot be broken (recovery of less than 80% of the methylene chloride, corrected for the water solubility of methylene chloride), transfer the sample, solvent, and emulsion into the extraction chamber of a continuous extractor and proceed as described in section 10.4.
+10.2.4 Add a second 60-mL volume of methylene chloride to the sample bottle and repeat the extraction procedure a second time, combining the extracts in the flask. Perform a third extraction in the same manner. Proceed to macro-concentration (section 10.3.1).
+10.2.5 Determine the original sample volume by refilling the sample bottle to the mark and transferring the liquid to an appropriately sized graduated cylinder. Record the sample volume to the nearest 5 mL. Sample volumes may also be determined by weighing the container before and after extraction or filling to the mark with water.
+10.3 Concentration.
+10.3.1 Macro concentration.
+10.3.1.1 Assemble a Kuderna-Danish (K-D) concentrator by attaching a 10-mL concentrator tube to a 500-mL evaporative flask. Other concentration devices or techniques may be used in place of the K-D concentrator so long as the requirements of section 8.2 are met.
+10.3.1.2 Pour the extract through a solvent-rinsed drying column containing about 10 cm of anhydrous sodium sulfate, and collect the extract in the K-D concentrator. Rinse the flask and column with 20-30 mL of methylene chloride to complete the quantitative transfer.
+10.3.1.3 If no cleanup is to be performed on the sample, add 500 µL (0.5 mL) of isooctane to the extract to act as a keeper during concentration.
+10.3.1.4 Add one or two clean boiling chips and attach a three-ball Snyder column to the K-D evaporative flask. Pre-wet the Snyder column by adding about 1 mL of methylene chloride to the top. Place the K-D apparatus on a hot water bath (60-65 °C) so that the concentrator tube is partially immersed in the hot water, and the entire lower rounded surface of the flask is bathed with hot vapor. Adjust the vertical position of the apparatus and the water temperature as required to complete the concentration in 15-20 minutes. At the proper rate of evaporation the balls of the column will actively chatter but the chambers will not flood with condensed solvent. When the apparent volume of liquid reaches 1 mL or other determined amount, remove the K-D apparatus from the water bath and allow it to drain and cool for at least 10 minutes.
+10.3.1.5 If the extract is to be cleaned up by sulfur removal or acid back extraction, remove the Snyder column and rinse the flask and its lower joint into the concentrator tube with 1 to 2 mL of methylene chloride. A 5-mL syringe is recommended for this operation. Adjust the final volume to 10 mL in methylene chloride and proceed to sulfur removal (section 11.5) or acid back extraction (section 11.6). If the extract is to cleaned up using one of the other cleanup procedures or is to be injected into the GC, proceed to Kuderna-Danish micro-concentration (section 10.3.2) or nitrogen evaporation and solvent exchange (section 10.3.3).
+10.3.2 Kuderna-Danish micro concentration—Add another one or two clean boiling chips to the concentrator tube and attach a two-ball micro-Snyder column. Pre-wet the Snyder column by adding about 0.5 mL of methylene chloride to the top. Place the K-D apparatus on a hot water bath (60-65 °C) so that the concentrator tube is partially immersed in hot water. Adjust the vertical position of the apparatus and the water temperature as required to complete the concentration in 5-10 minutes. At the proper rate of distillation the balls of the column will actively chatter but the chambers will not flood with condensed solvent. When the apparent volume of liquid reaches approximately 1 mL or other required amount, remove the K-D apparatus from the water bath and allow it to drain and cool for at least 10 minutes. Remove the Snyder column and rinse the flask and its lower joint into the concentrator tube with approximately 0.2 mL of methylene chloride, and proceed to section 10.3.3 for nitrogen evaporation and solvent exchange.
+10.3.3 Nitrogen evaporation and solvent exchange—Extracts to be subjected to solid-phase cleanup (SPE) are exchanged into 1.0 mL of the SPE elution solvent (section 6.7.2.2). Extracts to be subjected to Florisil® or alumina cleanups are exchanged into hexane. Extracts that have been cleaned up and are ready for analysis are exchanged into isooctane or hexane, to match the solvent used for the calibration standards.
+10.3.3.1 Transfer the vial containing the sample extract to the nitrogen evaporation (blowdown) device (section 5.2.5.2). Lower the vial into a 50-55 °C water bath and begin concentrating. During the solvent evaporation process, do not allow the extract to become dry. Adjust the flow of nitrogen so that the surface of the solvent is just visibly disturbed. A large vortex in the solvent may cause analyte loss.
+10.3.3.2 Solvent exchange.
+10.3.3.2.1 When the volume of the liquid is approximately 500 µL, add 2 to 3 mL of the desired solvent (SPE elution solvent for SPE cleanup, hexane for Florisil or alumina, or isooctane for final injection into the GC) and continue concentrating to approximately 500 µL. Repeat the addition of solvent and concentrate once more.
+10.3.3.3.2 Adjust the volume of an extract to be cleaned up by SPE, Florisil®, or alumina to 1.0 mL. Proceed to extract cleanup (section 11).
+10.3.3.3 Extracts that have been cleaned up and are ready for analysis—Adjust the final extract volume to be consistent with the volume extracted and the sensitivity desired. The goal is for a full-volume sample (e.g., 1-L) to have a final extract volume of 10 mL, but other volumes may be used.
+10.3.4 Transfer the concentrated extract to a vial with fluoropolymer-lined cap. Seal the vial and label with the sample number. Store in the dark at room temperature until ready for GC analysis. If GC analysis will not be performed on the same day, store the vial in the dark at ≤6 °C. Analyze the extract by GC per the procedure in section 12.
+10.4 Continuous liquid/liquid extraction (CLLE).
+10.4.1 Use CLLE when experience with a sample from a given source indicates an emulsion problem, or when an emulsion is encountered using SFLLE. CLLE may be used for all samples, if desired.
+10.4.2 Mark the water meniscus on the side of the sample bottle for later determination of sample volume. Transfer the sample to the continuous extractor and, using a pipet, add surrogate standard spiking solution. If the sample will be used for the LCS, MS, or MSD, pipet the appropriate check sample concentrate (section 8.2.1 or 8.3.2) into the separatory funnel. Mix well. Add 60 mL of methylene chloride to the sample bottle, seal, and shake for 30 seconds to rinse the inner surface. Transfer the solvent to the extractor.
+10.4.3 Repeat the sample bottle rinse with two additional 50-100 mL portions of methylene chloride and add the rinses to the extractor.
+10.4.4 Add a suitable volume of methylene chloride to the distilling flask (generally 200-500 mL) and sufficient reagent water to ensure proper operation of the extractor, and extract the sample for 18-24 hours. A shorter or longer extraction time may be used if all QC acceptance criteria are met. Test and, if necessary, adjust the pH of the water to a range of 5.0-9.0 during the second or third hour of the extraction. After extraction, allow the apparatus to cool, then detach the distilling flask. Dry, concentrate, solvent exchange, and transfer the extract to a vial with fluoropolymer-lined cap, per Section 10.3.
+10.4.5 Determine the original sample volume by refilling the sample bottle to the mark and transferring the liquid to an appropriately sized graduated cylinder. Record the sample volume to the nearest 5 mL. Sample volumes may also be determined by weighing the container before and after extraction or filling to the mark with water.
+10.5 Solid-phase extraction of aqueous samples. The steps in this section address the extraction of aqueous field samples using disk-based solid-phase extraction (SPE) media, based on an ATP approved by EPA in 1995 (Reference 20). This application of SPE is distinct from that used in this method for the cleanup of sample extracts in section 11.2. Analysts must be careful not to confuse the equipment, supplies, or the procedural steps from these two different uses of SPE.
+Note: Changes to the extraction conditions described below may be made by the laboratory under the allowance for method flexibility described in section 8.1, provided that the performance requirements in section 8.2 are met. However, changes in SPE materials, formats, and solvents must meet the requirements in section 8.1.2 and its subsections.
+10.5.1 Mark the water meniscus on the side of the sample bottle for later determination of sample volume. If the sample contains particulates, let stand to settle out the particulates before extraction.
+10.5.2 Extract the sample as follows:
+10.5.2.1 Place a 90-mm standard filter apparatus on a vacuum filtration flask or manifold and attach to a vacuum source. The vacuum gauge must read at least 25 in. of mercury when all valves are closed. Position a 90-mm C18 extraction disk onto the filter screen. Wet the entire disk with methanol. To aid in filtering samples with particulates, a 1-µm glass fiber filter or Empore® Filter Aid 400 can be placed on the top of the disk and wetted with methanol. Install the reservoir and clamp. Resume vacuum to dry the disk. Interrupt the vacuum. Wash the disk and reservoir with 20 mL of methylene chloride. Resume the vacuum briefly to pull methylene chloride through the disk. Interrupt the vacuum and allow the disk to soak for about a minute. Resume vacuum and completely dry the disk.
+10.5.2.2 Condition the disk with 20 mL of methanol. Apply vacuum until nearly all the solvent has passed through the disk, interrupting it while solvent remains on the disk. Allow the disk to soak for about a minute. Resume vacuum to pull most of the methanol through, but interrupting it to leave a layer of methanol on the surface of the disk. Do not allow disk to dry. For uniform flow and good recovery, it is critical the disk not be allowed to dry from now until the end of the extraction. Discard waste solvent. Rinse the disk with 20 mL of deionized water. Resume vacuum to pull most of the water through, but interrupt it to leave a layer of water on the surface of the disk. Do not allow the disk to dry. If disk does dry, recondition with methanol as above.
+10.5.2.3 Add the water sample to the reservoir and immediately apply the vacuum. If particulates have settled in the sample, gently decant the clear layer into the apparatus until most of the sample has been processed. Then pour the remainder including the particulates into the reservoir. Empty the sample bottle completely. When the filtration is complete, dry the disk for three minutes. Turn off the vacuum.
+10.5.3 Discard sample filtrate. Insert tube to collect the eluant. The tube should fit around the drip tip of the base. Reassemble the apparatus. Add 5.0 mL of acetone to the center of the disk, allowing it to spread evenly over the disk. Turn the vacuum on and quickly off when the filter surface nears dryness but still remains wet. Allow to soak for 15 seconds. Add 20 mL of methylene chloride to the sample bottle, seal and shake to rinse the inside of the bottle. Transfer the methylene chloride from the bottle to the filter. Resume the vacuum slowly so as to avoid splashing.
+Interrupt the vacuum when the filter surface nears dryness but still remains wet. Allow disk to soak in solvent for 20 seconds. Rinse the reservoir glass and disk with 10 mL of methylene chloride. Resume vacuum slowly. Interrupt vacuum when disk is covered with solvent. Allow to soak for 20 seconds. Resume vacuum to dry the disk. Remove the sample tube.
+10.5.4 Dry, concentrate, solvent exchange, and transfer the extract to a vial with fluoropolymer-lined cap, per section 10.3.
+10.5.5 Determine the original sample volume by refilling the sample bottle to the mark and transferring the liquid to an appropriately sized graduated cylinder. Record the sample volume to the nearest 5 mL. Sample volumes may also be determined by weighing the container before and after extraction or filling to the mark with water.
+11. Extract Cleanup
+11.1 Cleanup may not be necessary for relatively clean samples (e.g., treated effluents, groundwater, drinking water). If particular circumstances require the use of a cleanup procedure, the laboratory may use any or all of the procedures below or any other appropriate procedure (e.g., gel permeation chromatography). However, the laboratory must first repeat the tests in sections 8.2, 8.3, and 8.4 to demonstrate that the requirements of those sections can be met using the cleanup procedure(s) as an integral part of this method. This is particularly important when the target analytes for the analysis include any of the single component pesticides in Table 2, because some cleanups have not been optimized for all of those analytes.
+11.1.1 The solid-phase cartridge (section 11.2) removes polar organic compounds such as phenols.
+11.1.2 The Florisil® column (section 11.3) allows for selected fractionation of the organochlorine analytes and will also eliminate polar interferences.
+11.1.3 Alumina column cleanup (section 11.4) also removes polar materials.
+11.1.4 Elemental sulfur, which interferes with the electron capture gas chromatography of some of the pesticides, may be removed using activated copper, or TBA sulfite. Sulfur removal (section 11.5) is required when sulfur is known or suspected to be present. Some chlorinated pesticides which also contain sulfur may be removed by this cleanup.
+11.1.5 Acid back extraction (section 11.6) may be useful for cleanup of PCBs and other compounds not adversely affected by sulfuric acid.
+11.2 Solid-phase extraction (SPE) as a cleanup. In order to use the C18 SPE cartridge in section 5.5.3.5 as a cleanup procedure, the sample extract must be exchanged from methylene chloride to methylene chloride:acetonitrile:hexane (50:3:47). Follow the solvent exchange steps in section 10.3.3.2 prior to attempting solid-phase cleanup.
+Note: This application of SPE is distinct from that used in this method for the extraction of aqueous samples in section 10.5. Analysts must be careful not to confuse the equipment, supplies, or procedural steps from these two different uses of SPE.
+11.2.1 Setup.
+11.2.1.1 Attach the VacElute Manifold (section 5.5.3.2) to a water aspirator or vacuum pump with the trap and gauge installed between the manifold and vacuum source.
+11.2.1.2 Place the SPE cartridges in the manifold, turn on the vacuum source, and adjust the vacuum to 5 to 10 psi.
+11.2.2 Cartridge washing—Pre-elute each cartridge prior to use sequentially with 10-mL portions each of hexane, methanol, and water using vacuum for 30 seconds after each eluting solvent. Follow this pre-elution with 1 mL methylene chloride and three 10-mL portions of the elution solvent (section 6.7.2.2) using vacuum for 5 minutes after each eluting solvent. Tap the cartridge lightly while under vacuum to dry between solvent rinses. The three portions of elution solvent may be collected and used as a cartridge blank, if desired. Finally, elute the cartridge with 10 mL each of methanol and water, using the vacuum for 30 seconds after each eluant.
+11.2.3 Extract cleanup.
+11.2.3.1 After cartridge washing (section 11.2.2), release the vacuum and place the rack containing the 50-mL volumetric flasks (section 5.5.3.4) in the vacuum manifold. Re-establish the vacuum at 5 to 10 psi.
+11.2.3.2 Using a pipette or a 1-mL syringe, transfer 1.0 mL of extract to the SPE cartridge. Apply vacuum for five minutes to dry the cartridge. Tap gently to aid in drying.
+11.2.3.3 Elute each cartridge into its volumetric flask sequentially with three 10-mL portions of the methylene chloride:acetonitrile:hexane (50:3:47) elution solvent (section 6.7.2.2), using vacuum for five minutes after each portion. Collect the eluants in the 50-mL volumetric flasks.
+11.2.3.4 Release the vacuum and remove the 50-mL volumetric flasks.
+11.2.3.5 Concentrate the eluted extracts per Section 10.3.
+11.3 Florisil®. In order to use Florisil cleanup, the sample extract must be exchanged from methylene chloride to hexane. Follow the solvent exchange steps in section 10.3.3.2 prior to attempting Florisil® cleanup.
+Note: Alternative formats for this cleanup may be used by the laboratory, including cartridges containing Florisil®. If an alternative format is used, consult the manufacturer's instructions and develop a formal documented procedure to replace the steps in section 11.3 of this method and demonstrate that the alternative meets the relevant quality control requirements of this method.
+11.3.1 If the chromatographic column does not contain a frit at the bottom, place a small plug of pre-cleaned glass wool in the column (section 5.2.4) to retain the Florisil®. Place the mass of Florisil® (nominally 20 g) predetermined by calibration (section 7.8 and Table 6) in a chromatographic column. Tap the column to settle the Florisil® and add 1 to 2 cm of granular anhydrous sodium sulfate to the top.
+11.3.2 Add 60 mL of hexane to wet and rinse the sodium sulfate and Florisil®. Just prior to exposure of the sodium sulfate layer to the air, stop the elution of the hexane by closing the stopcock on the chromatographic column. Discard the eluant.
+11.3.3 Transfer the concentrated extract (section 10.3.3) onto the column. Complete the transfer with two 1-mL hexane rinses, drawing the extract and rinses down to the level of the sodium sulfate.
+11.3.4 Place a clean 500-mL K-D flask and concentrator tube under the column. Elute Fraction 1 with 200 mL of 6% (v/v) ethyl ether in hexane at a rate of approximately 5 mL/min. Remove the K-D flask and set it aside for later concentration. Elute Fraction 2 with 200 mL of 15% (v/v) ethyl ether in hexane into a second K-D flask. Elute Fraction 3 with 200 mL of 50% (v/v) ethyl ether in hexane into a third K-D flask. The elution patterns for the pesticides and PCBs are shown in Table 6.
+11.3.5 Concentrate the fractions as in Section 10.3, except use hexane to prewet the column and set the water bath at about 85 °C. When the apparatus is cool, remove the Snyder column and rinse the flask and its lower joint into the concentrator tube with hexane. Adjust the volume of Fraction 1 to approximately 10 mL for sulfur removal (Section 11.5), if required; otherwise, adjust the volume of the fractions to 10 mL, 1.0 mL, or other volume needed for the sensitivity desired. Analyze the concentrated extract by gas chromatography (Section 12).
+11.4 Alumina. The sample extract must be exchanged from methylene chloride to hexane. Follow the solvent exchange steps in section 10.3.3.2 prior to attempting alumina cleanup.
+11.4.1 If the chromatographic column does not contain a frit at the bottom, place a small plug of pre-cleaned glass wool in the chromatographic column (section 5.2.4) to retain the alumina. Add 10 g of alumina (section 6.7.3) on top of the plug. Tap the column to settle the alumina. Place 1-2 g of anhydrous sodium sulfate on top of the alumina.
+11.4.2 Close the stopcock and fill the column to just above the sodium sulfate with hexane. Add 25 mL of hexane. Open the stopcock and adjust the flow rate of hexane to approximately 2 mL/min. Do not allow the column to go dry throughout the elutions.
+11.4.3 When the level of the hexane is at the top of the column, quantitatively transfer the extract to the column. When the level of the extract is at the top of the column, slowly add 25 mL of hexane and elute the column to the level of the sodium sulfate. Discard the hexane.
+11.4.4 Place a K-D flask (section 5.2.5.1.2) under the column and elute the pesticides with approximately 150 mL of hexane:ethyl ether (80:20 v/v). It may be necessary to adjust the volume of elution solvent for slightly different alumina activities.
+11.4.5 Concentrate the extract per section 10.3.
+11.5 Sulfur removal—Elemental sulfur will usually elute in Fraction 1 of the Florisil® column cleanup. If Florisil® cleanup is not used, or to remove sulfur from any of the Florisil® fractions, use one of the sulfur removal procedures below. These procedures may be applied to extracts in hexane, ethyl ether, or methylene chloride.
+Note: Separate procedures using copper or TBA sulfite are provided in this section for sulfur removal. They may be used separately or in combination, if desired.
+11.5.1 Removal with copper (Reference 15).
+Note: Some of the analytes in Table 2 are not amenable to sulfur removal with copper (e.g., atrazine and diazinon). Therefore, before using copper to remove sulfur from an extract that will be analyzed for any of the non-PCB analytes in Table 2, the laboratory must demonstrate that the analytes can be extracted from an aqueous sample matrix that contains sulfur and recovered from an extract treated with copper. Acceptable performance can be demonstrated through the preparation and analysis of a matrix spike sample that meets the QC requirements for recovery.
+11.5.1.1 Quantitatively transfer the extract to a 40- to 50-mL flask or bottle. If there is evidence of water in the K-D or round-bottom flask after the transfer, rinse the flask with small portions of hexane:acetone (40:60) and add to the flask or bottle. Mark and set aside the concentration flask for future use.
+11.5.1.2 Add 10-20 g of granular anhydrous sodium sulfate to the flask. Swirl to dry the extract.
+11.5.1.3 Add activated copper (section 6.7.4.1.4) and allow to stand for 30-60 minutes, swirling occasionally. If the copper does not remain bright, add more and swirl occasionally for another 30-60 minutes.
+11.5.1.4 After drying and sulfur removal, quantitatively transfer the extract to a nitrogen-evaporation vial or tube and proceed to section 10.3.3 for nitrogen evaporation and solvent exchange, taking care to leave the sodium sulfate and copper foil in the flask.
+11.5.2 Removal with TBA sulfite.
+11.5.2.1 Using small volumes of hexane, quantitatively transfer the extract to a 40- to 50-mL centrifuge tube with fluoropolymer-lined screw cap.
+11.5.2.2 Add 1-2 mL of TBA sulfite reagent (section 6.7.4.2.4), 2-3 mL of 2-propanol, and approximately 0.7 g of sodium sulfite (section 6.7.4.2.2) crystals to the tube. Cap and shake for 1-2 minutes. If the sample is colorless or if the initial color is unchanged, and if clear crystals (precipitated sodium sulfite) are observed, sufficient sodium sulfite is present. If the precipitated sodium sulfite disappears, add more crystalline sodium sulfite in approximately 0.5-g portions until a solid residue remains after repeated shaking.
+11.5.2.3 Add 5-10 mL of reagent water and shake for 1-2 minutes. Centrifuge to settle the solids.
+11.5.2.4 Quantitatively transfer the hexane (top) layer through a small funnel containing a few grams of granular anhydrous sodium sulfate to a nitrogen-evaporation vial or tube and proceed to section 10.3.3 for micro-concentration and solvent exchange.
+11.6 Acid back extraction (section 6.1.2).
+11.6.1 Quantitatively transfer the extract (section 10.3.1.5) to a 250-mL separatory funnel.
+11.6.2 Partition the extract against 50 mL of sulfuric acid solution (section 6.1.2). Discard the aqueous layer. Repeat the acid washing until no color is visible in the aqueous layer, to a maximum of four washings.
+11.6.3 Partition the extract against 50 mL of sodium chloride solution (section 6.7.5). Discard the aqueous layer.
+11.6.4 Proceed to section 10.3.3 for micro-concentration and solvent exchange.
 12. Gas Chromatography
-12.1 Table 1 summarizes the recommended operating conditions for the gas chromatograph. Included in this table are retention times and MDL that can be achieved under these conditions. Examples of the separations achieved by Column 1 are shown in Figures 1 to 10. Other packed or capillary (open-tubular) columns, chromatographic conditions, or detectors may be used if the requirements of Section 8.2 are met.
-12.2 Calibrate the system daily as described in Section 7.
-12.3 If the internal standard calibration procedure is being used, the internal standard must be added to the sample extract and mixed thoroughly immediately before injection into the gas chromatograph.
-12.4 Inject 2 to 5 µL of the sample extract or standard into the gas chromatograph using the solvent-flush technique. 15 Smaller (1.0 uL) volumes may be injected if automatic devices are employed. Record the volume injected to the nearest 0.05 µL, the total extract volume, and the resulting peak size in area or peak height units.
-12.5 Identify the parameters in the sample by comparing the retention times of the peaks in the sample chromatogram with those of the peaks in standard chromatograms. The width of the retention time window used to make identifications should be based upon measurements of actual retention time variations of standards over the course of a day. Three times the standard deviation of a retention time for a compound can be used to calculate a suggested window size; however, the experience of the analyst should weigh heavily in the interpretation of chromatograms.
-12.6 If the response for a peak exceeds the working range of the system, dilute the extract and reanalyze.
-12.7 If the measurement of the peak response is prevented by the presence of interferences, further cleanup is required.
-13. Calculations
-13.1 Determine the concentration of individual compounds in the sample.
-13.1.1 If the external standard calibration procedure is used, calculate the amount of material injected from the peak response using the calibration curve or calibration factor determined in Section 7.2.2. The concentration in the sample can be calculated from Equation 2.
-EC15NO91.108
-Equation 2
+12.1 Establish the same operating conditions used in section 7.1 for instrument calibration.
+12.2 If the internal standard calibration procedure is used, add the internal standard solution (section 6.9.3) to the extract as close as possible to the time of injection to minimize the possibility of loss by evaporation, adsorption, or reaction. For example, add 1 µL of 10 µg/mL internal standard solution into the extract, assuming no dilutions. Mix thoroughly.
+12.3 Simultaneously inject an appropriate volume of the sample extract or standard solution onto both columns, using split, splitless, solvent purge, large-volume, or on-column injection. Alternatively, if using a single-column GC configuration, inject an appropriate volume of the sample extract or standard solution onto each GC column independently. If the sample is injected manually, the solvent-flush technique should be used. The injection volume depends upon the technique used and the sensitivity needed to meet MDLs or reporting limits for regulatory compliance. Injection volumes must be the same for all extracts. Record the volume injected to the nearest 0.05 µL.
+12.4 Set the data system or GC control to start the temperature program upon sample injection, and begin data collection after the solvent peak elutes. Set the data system to stop data collection after the last analyte is expected to elute and to return the column to the initial temperature.
+12.5 Perform all qualitative and quantitative measurements as described in Sections 14 and 15. When standards and extracts are not being used for analyses, store them refrigerated at <6 °C, protected from light, in screw-cap vials equipped with un-pierced fluoropolymer-lined septa.
+13. System and Laboratory Performance
+13.1 At the beginning of each shift during which standards or extracts are analyzed, GC system performance and calibration must be verified for all analytes and surrogates on both column/detector systems. Adjustment and/or recalibration (per section 7) are performed until all performance criteria are met. Only after all performance criteria are met may samples, blanks and other QC samples, and standards be analyzed.
+13.2 Inject an aliquot of the calibration verification standard (section 6.8.4) on both columns. Inject an aliquot of each of the multi-component standards.
+13.3 Retention times—The absolute retention times of the peak maxima shall be within ±2 seconds of the retention times in the calibration verification (section 7.8).
+13.4 GC resolution—Resolution is acceptable if the valley height between two peaks (as measured from the baseline) is less than 40% of the shorter of the two peaks.
+13.4.1 DB-608 column—DDT and endrin aldehyde
+13.4.2 DB-1701 column—alpha and gamma chlordane
+Note: If using other GC columns or stationary phases, these resolution criteria apply to these four target analytes and any other closely eluting analytes on those other GC columns.
+13.5 Decomposition of DDT and endrin—If DDT, endrin, or their breakdown products are to be determined, this test must be performed prior to calibration verification (section 13.6). DDT decomposes to DDE and DDD. Endrin decomposes to endrin aldehyde and endrin ketone.
+13.5.1 Inject 1 µL of the DDT and endrin decomposition solution (section 6.8.7). As noted in section 6.8.7, other injection volumes may be used as long as the concentrations of DDT and endrin in the solution are adjusted to introduce the masses of the two analytes into the instrument that are listed in section 6.8.7.
+13.5.2 Measure the areas of the peaks for DDT, DDE, DDD, endrin, endrin aldehyde, and endrin ketone in the chromatogram and calculate the percent breakdown as shown in the equations below:
+ER28AU17.005
+13.5.3 Both the % breakdown of DDT and of endrin must be less than 20%, otherwise the system is not performing acceptably for DDT and endrin. In this case, repair the GC column system that failed and repeat the performance tests (sections 13.2 to 13.6) until the specification is met.
+Note: DDT and endrin decomposition are usually caused by accumulations of particulates in the injector and in the front end of the column. Cleaning and silanizing the injection port liner, and breaking off a short section of the front end of the column will usually eliminate the decomposition problem. Either of these corrective actions may affect retention times, GC resolution, and calibration linearity.
+13.6 Calibration verification.
+13.6.1 Compute the percent recovery of each analyte and of the coeluting analytes, based on the initial calibration data (section 7.5 or 7.6).
+13.6.2 For each analyte or for coeluting analytes, compare the concentration with the limits for calibration verification in Table 4. For coeluting analytes, use the coeluting analyte with the least restrictive specification (the widest range). For analytes in Table 2 not listed in Table 4, QC acceptance criteria must be developed by the laboratory. EPA has provided guidance for development of QC acceptance criteria (References 13 and 14). If the recoveries for all analytes meet the acceptance criteria, system performance is acceptable and analysis of blanks and samples may continue. If, however, any recovery falls outside the calibration verification range, system performance is unacceptable for that analyte. If this occurs, repair the system and repeat the test (section 13.6), or prepare a fresh calibration standard and repeat the test, or recalibrate (section 7). See Section 8.1.7 for information on repeated test failures.
+13.7 Laboratory control sample.
+13.7.1 Analyze the extract of the LCS (section 6.8.3) extracted with each sample batch (Section 8.4). See Section 8.4 for criteria acceptance of the LCS.
+13.7.2 It is suggested, but not required, that the laboratory update statements of data quality. Add results that pass the specifications in section 13.7.3 to initial (section 8.7) and previous ongoing data. Update QC charts to form a graphic representation of continued laboratory performance. Develop a statement of laboratory data quality for each analyte by calculating the average percent recovery (R) and the standard deviation of percent recovery, sr. Express the accuracy as a recovery interval from R − 2sr to R + 2sr. For example, if R = 95% and sr = 5%, the accuracy is 85 to 105%.
+13.8 Internal standard response—If internal standard calibration is used, verify that detector sensitivity has not changed by comparing the response (area or height) of each internal standard in the sample, blank, LCS, MS, and MSD to the response in calibration verification (section 6.8.3). The peak area or height of the internal standard should be within 50% to 200% (1/2 to 2x) of its respective peak area or height in the verification standard. If the area or height is not within this range, compute the concentration of the analytes using the external standard method (section 7.5). If the analytes are affected, re-prepare and reanalyze the sample, blank, LCS, MS, or MSD, and repeat the pertinent test.
+14. Qualitative Identification
+14.1 Identification is accomplished by comparison of data from analysis of a sample, blank, or other QC sample with data from calibration verification (section 7.7.1 or 13.5), and with data stored in the retention-time and calibration libraries (section 7.7). The retention time window is determined as described in section 14.2. Identification is confirmed when retention time agrees on both GC columns, as described below. Alternatively, GC/MS identification may be used to provide another means of identification.
+14.2 Establishing retention time windows.
+14.2.1 Using the data from the multi-point initial calibration (section 7.4), determine the retention time in decimal minutes (not minutes:seconds) of each peak representing a single-component target analyte on each column/detector system. For the multi-component analytes, use the retention times of the five largest peaks in the chromatograms on each column/detector system.
+14.2.2 Calculate the standard deviation of the retention times for each single-component analyte on each column/detector system and for the three to five exclusive (unique large) peaks for each multi-component analyte.
+14.2.3 Define the width of the retention time window as three times that standard deviation. Establish the center of the retention time window for each analyte by using the absolute retention time for each analyte from the calibration verification standard at the beginning of the analytical shift. For samples run during the same shift as an initial calibration, use the retention time of the mid-point standard of the initial calibration. If the calculated RT window is less than 0.02 minutes, then use 0.02 minutes as the window.
+Note: Procedures for establishing retention time windows from other sources may be employed provided that they are clearly documented and provide acceptable performance. Such performance may be evaluated using the results for the spiked QC samples described in this method, such as laboratory control samples and matrix spike samples.
+14.2.4 The retention time windows must be recentered when a new GC column is installed or if a GC column has been shortened during maintenance to a degree that the retention times of analytes in the calibration verification standard have shifted close to the lower limits of the established retention time windows.
+14.2.5 RT windows should be checked periodically by examining the peaks in spiked samples such as the LCS or MS/MSD to confirm that peaks for known analytes are properly identified.
+14.2.6 If the retention time of an analyte in the calibration (Section 7.4) varies by more than 5 seconds across the calibration range as a function of the concentration of the standard, using the standard deviation of the retention times (section 14.2.3) to set the width of the retention time window may not adequately serve to identify the analyte in question under routine conditions. In such cases, data from additional analyses of standards may be required to adequately model the chromatographic behavior of the analyte.
+14.3 Identifying the analyte in a sample.
+14.3.1 In order to identify a single-component analyte from analysis of a sample, blank, or other QC sample, the peak representing the analyte must fall within its respective retention time windows on both column/detector systems (as defined in section 14.2). That identification is further supported by the comparison of the numerical results on both columns, as described in section 15.7.
+14.3.2 In order to identify a multi-component analyte, pattern matching (fingerprinting) may be used, or the three to five exclusive (unique and largest) peaks for that analyte must fall within their respective retention time windows on both column/detector systems (as defined in section 14.2). That identification is further supported by the comparison of the numerical results on both columns, as described in section 15.7. Alternatively, GC/MS identification may be used. Differentiation among some of the Aroclors may require evaluation of more than five peaks to ensure correct identification.
+14.4 GC/MS confirmation. When the concentration of an analyte is sufficient and the presence or identity is suspect, its presence should be confirmed by GC/MS. In order to match the sensitivity of the GC/ECD, confirmation would need to be by GC/MS-SIM, or the estimated concentration would need to be 100 times higher than the GC/ECD calibration range. The extract may be concentrated by an additional amount to allow a further attempt at GC/MS confirmation.
+14.5 Additional information that may aid the laboratory in the identification of an analyte. The occurrence of peaks eluting near the retention time of an analyte of interest increases the probability of a false positive for the analyte. If the concentration is insufficient for confirmation by GC/MS, the laboratory may use the cleanup procedures in this method (section 11) on a new sample aliquot to attempt to remove the interferent. After attempts at cleanup are exhausted, the following steps may be helpful to assure that the substance that appears in the RT windows on both columns is the analyte of interest.
+14.5.1 Determine the consistency of the RT data for the analyte on each column. For example, if the RT is very stable (i.e., varies by no more than a few seconds) for the calibration, calibration verification, blank, LCS, and MS/MSD, the RT for the analyte of interest in the sample should be within this variation regardless of the window established in Section 14.2. If the analyte is not within this variation on both columns, it is likely not present.
+14.5.2 The possibility exists that the RT for the analyte in a sample could shift if extraneous materials are present. This possibility may be able to be confirmed or refuted by the behavior of the surrogates in the sample. If multiple surrogates are used that span the length of the chromatographic run, the RTs for the surrogates on both columns are consistent with their RTs in calibration, calibration verification, blank, LCS, and MS/MSD, it is unlikely that the RT for the analyte of interest has shifted.
+14.5.3 If the RT for the analyte is shifted slightly later on one column and earlier on the other, and the surrogates have not shifted, it is highly unlikely that the analyte is present, because shifts nearly always occur in the same direction on both columns.
+15. Quantitative Determination
+15.1 External standard quantitation—Calculate the concentration of the analyte in the extract using the calibration curve or average calibration factor determined in calibration (section 7.5.2) and the following equation:
+ER28AU17.006
 where:
-A = Amount of material injected (ng).
-Vi = Volume of extract injected (µL).
-Vt = Volume of total extract (µL).
-Vs = Volume of water extracted (mL).
-13.1.2 If the internal standard calibration procedure is used, calculate the concentration in the sample using the response factor (RF) determined in Section 7.3.2 and Equation 3.
-EC15NO91.109
-Equation 3
+Cex = Concentration of the analyte in the extract (ng/mL)
+As = Peak height or area for the analyte in the standard or sample
+CF = Calibration factor, as defined in Section 7.5.1
+15.2 Internal standard quantitation—Calculate the concentration of the analyte in the extract using the calibration curve or average response factor determined in calibration (section 7.6.2) and the following equation:
+ER28AU17.007
 where:
-As = Response for the parameter to be measured.
-Ais = Response for the internal standard.
-Is = Amount of internal standard added to each extract (µg).
-Vo = Volume of water extracted (L).
-13.2 When it is apparent that two or more PCB (Aroclor) mixtures are present, the Webb and McCall procedure 16 may be used to identify and quantify the Aroclors.
-13.3 For multicomponent mixtures (chlordane, toxaphene, and PCBs) match retention times of peaks in the standards with peaks in the sample. Quantitate every identifiable peak unless interference with individual peaks persist after cleanup. Add peak height or peak area of each identified peak in the chromatogram. Calculate as total response in the sample versus total response in the standard.
-13.4 Report results in µg/L without correction for recovery data. All QC data obtained should be reported with the sample results.
-14. Method Performance
-14.1 The method detection limit (MDL) is defined as the minimum concentration of a substance that can be measured and reported with 99% confidence that the value is above zero. 1 The MDL concentrations listed in Table 1 were obtained using reagent water. 17 Similar results were achieved using representative wastewaters. The MDL actually achieved in a given analysis will vary depending on instrument sensitivity and matrix effects.
-14.2 This method has been tested for linearity of spike recovery from reagent water and has been demonstrated to be applicable over the concentration range from 4 × MDL to 1000 × MDL with the following exceptions: Chlordane recovery at 4 × MDL was low (60%); Toxaphene recovery was demonstrated linear over the range of 10 × MDL to 1000 × MDL. 17
-14.3 This method was tested by 20 laboratories using reagent water, drinking water, surface water, and three industrial wastewaters spiked at six concentrations. 18 Concentrations used in the study ranged from 0.5 to 30 µg/L for single-component pesticides and from 8.5 to 400 µg/L for multicomponent parameters. Single operator precision, overall precision, and method accuracy were found to be directly related to the concentration of the parameter and essentially independent of the sample matrix. Linear equations to describe these relationships are presented in Table 4.
-References
-1. 40 CFR part 136, appendix B.
-2. "Determination of Pesticides and PCBs in Industrial and Municipal Wastewaters," EPA 600/4-82-023, National Technical Information Service, PB82-214222, Springfield, Virginia 22161, April 1982.
-3. ASTM Annual Book of Standards, Part 31, D3694-78. "Standard Practices for Preparation of Sample Containers and for Preservation of Organic Constituents," American Society for Testing and Materials, Philadelphia.
-4. Giam, C.S., Chan, H.S., and Nef, G.S., "Sensitive Method for Determination of Phthalate Ester Plasticizers in Open-Ocean Biota Samples," Analytical Chemistry, 47, 2225 (1975).
-5. Giam, C.S., Chan, H.S. "Control of Blanks in the Analysis of Phthalates in Air and Ocean Biota Samples," U.S. National Bureau of Standards, Special Publication 442, pp. 701-708, 1976.
-6. "Carcinogens—Working With Carcinogens," Department of Health, Education, and Welfare, Public Health Service, Center for Disease Control, National Institute for Occupational Safety and Health, Publication No. 77-206, August 1977.
-7. "OSHA Safety and Health Standards, General Industry," (29 CFR part 1910), Occupational Safety and Health Administration, OSHA 2206 (Revised, January 1976).
-8. "Safety in Academic Chemistry Laboratories," American Chemical Society Publication, Committee on Chemical Safety, 3rd Edition, 1979.
-9. Mills, P.A. "Variation of Florisil Activity: Simple Method for Measuring Absorbent Capacity and Its Use in Standardizing Florisil Columns," Journal of the Association of Official Analytical Chemists, 51, 29, (1968).
-10. Provost, L.P., and Elder, R.S. "Interpretation of Percent Recovery Data," American Laboratory, 15, 58-63 (1983). (The value 2.44 used in the equation in Section 8.3.3 is two times the value 1.22 derived in this report.)
-11. ASTM Annual Book of Standards, Part 31, D3370-76. "Standard Practices for Sampling Water," American Society for Testing and Materials, Philadelphia.
-12. "Methods 330.4 (Titrimetric, DPD-FAS) and 330.5 (Spectrophotometric, DPD) for Chlorine, Total Residual," Methods for Chemical Analysis of Water and Wastes, EPA-600/4-79-020, U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268, March 1979.
-13. Goerlitz, D.F., and Law, L.M. Bulletin for Environmental Contamination and Toxicology, 6, 9 (1971).
-14. "Manual of Analytical Methods for the Analysis of Pesticides in Human and Environmental Samples," EPA-600/8-80-038, U.S. Environmental Protection Agency, Health Effects Research Laboratory, Research Triangle Park, North Carolina.
-15. Burke, J.A. "Gas Chromatography for Pesticide Residue Analysis; Some Practical Aspects," Journal of the Association of Official Analytical Chemists, 48, 1037 (1965).
-16. Webb, R.G., and McCall, A.C. "Quantitative PCB Standards for Election Capture Gas Chromatography," Journal of Chromatographic Science, 11, 366 (1973).
-17. "Method Detection Limit and Analytical Curve Studies, EPA Methods 606, 607, and 608," Special letter report for EPA Contract 68-03-2606, U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268, June 1980.
-18. "EPA Method Study 18 Method 608—Organochlorine Pesticides and PCBs," EPA 600/4-84-061, National Technical Information Service, PB84-211358, Springfield, Virginia 22161, June 1984.
-Table 1—Chromatographic Conditions and Method Detection Limits
-Parameter | Retention time (min) | Col. 1 | Col. 2 | Method detection limit(µg/L)
-α-BHC | 1.35 | 1.82 | 0.003
-γ-BHC | 1.70 | 2.13 | 0.004
-β-BHC | 1.90 | 1.97 | 0.006
-Heptachlor | 2.00 | 3.35 | 0.003
-δ-BHC | 2.15 | 2.20 | 0.009
-Aldrin | 2.40 | 4.10 | 0.004
-Heptachlor epoxide | 3.50 | 5.00 | 0.083
-Endosulfan I | 4.50 | 6.20 | 0.014
-4,4′-DDE | 5.13 | 7.15 | 0.004
-Dieldrin | 5.45 | 7.23 | 0.002
-Endrin | 6.55 | 8.10 | 0.006
-4,4′-DDD | 7.83 | 9.08 | 0.011
-Endosulfan II | 8.00 | 8.28 | 0.004
-4,4′-DDT | 9.40 | 11.75 | 0.012
-Endrin aldehyde | 11.82 | 9.30 | 0.023
-Endosulfan sulfate | 14.22 | 10.70 | 0.066
-Chlordane | mr | mr | 0.014
-Toxaphene | mr | mr | 0.24
-PCB-1016 | mr | mr | nd
-PCB-1221 | mr | mr | nd
-PCB-1232 | mt | mr | nd
-PCB-1242 | mr | mr | 0.065
-PCB-1248 | mr | mr | nd
-PCB-1254 | mr | mr | nd
-PCB-1260 | mr | mr | nd
-Column 1 conditions: Supelcoport (100/120 mesh) coated with 1.5% SP-2250/1.95% SP-2401 packed in a 1.8 m long × 4 mm ID glass column with 5% methane/95% argon carrier gas at 60 mL/min flow rate. Column temperature held isothermal at 200 °C, except for PCB-1016 through PCB-1248, should be measured at 160 °C.
-Column 2 conditions: Supelcoport (100/120 mesh) coated with 3% OV-1 packed in a 1.8 m long × 4 mm ID glass column with 5% methane/95% argon carrier gas at 60 mL/min flow rate. Column temperature held isothermal at 200 °C for the pesticides; at 140 °C for PCB-1221 and 1232; and at 170 °C for PCB-1016 and 1242 to 1268.
-mr = Multiple peak response. See Figures 2 thru 10.
-nd = Not determined.
-Table 2—Distribution of Chlorinated Pesticides and PCBs into Florisil Column Fractions 2
-Parameter | Percent recovery by fraction a | 1 | 2 | 3
+Cex = Concentration of the analyte in the extract (ng/mL)
+As = Peak height or area for the analyte in the standard or sample
+Cis = Concentration of the internal standard (ng/mL)
+Ais = Area of the internal standard
+RF = Response factor, as defined in section 7.6.1
+15.3 Calculate the concentration of the analyte in the sample using the concentration in the extract, the extract volume, the sample volume, and the dilution factor, per the following equation:
+ER28AU17.008
+where:
+Cs = Concentration of the analyte in the sample (µg/L)
+Vex = Final extract volume (mL)
+Cex = Concentration in the extract (ng/mL)
+Vs = Volume of sample (L)
+DF = Dilution factor
+and the factor of 1,000 in the denominator converts the final units from ng/L to µg/L
+15.4 If the concentration of any target analyte exceeds the calibration range, either extract and analyze a smaller sample volume, or dilute and analyze the diluted extract.
+15.5 Quantitation of multi-component analytes.
+15.5.1 PCBs as Aroclors. Quantify an Aroclor by comparing the sample chromatogram to that of the most similar Aroclor standard as indicated in section 14.3.2. Compare the responses of 3 to 5 major peaks in the calibration standard for that Aroclor with the peaks observed in the sample extract. The amount of Aroclor is calculated using the individual calibration factor for each of the 3 to 5 characteristic peaks chosen in section 7.5.1. Determine the concentration of each of the characteristic peaks, using the average calibration factor calculated for that peak in section 7.5.2, and then those 3 to 5 concentrations are averaged to determine the concentration of that Aroclor.
+15.5.2 Other multi-component analytes. Quantify any other multi-component analytes (technical chlordane or toxaphene) using the same peaks used to develop the average calibration factors in section 7.5.2. Determine the concentration of each of the characteristic peaks, and then the concentrations represented by those characteristic peaks are averaged to determine the concentration of the analyte. Alternatively, for toxaphene, the analyst may determine the calibration factor in section 7.5.2 by summing the areas of all of the peaks for the analyte and using the summed of the peak areas in the sample chromatogram to determine the concentration. However, the approach used for toxaphene must be the same for the calibration and the sample analyses.
+15.6 Reporting of results. As noted in section 1.6.1, EPA has promulgated this method at 40 CFR part 136 for use in wastewater compliance monitoring under the National Pollutant Discharge Elimination System (NPDES). The data reporting practices described here are focused on such monitoring needs and may not be relevant to other uses of the method.
+15.6.1 Report results for wastewater samples in µg/L without correction for recovery. (Other units may be used if required by in a permit.) Report all QC data with the sample results.
+15.6.2 Reporting level. Unless specified otherwise by a regulatory authority or in a discharge permit, results for analytes that meet the identification criteria are reported down to the concentration of the ML established by the laboratory through calibration of the instrument (see section 7.5 or 7.6 and the glossary for the derivation of the ML). EPA considers the terms "reporting limit," "quantitation limit," and "minimum level" to be synonymous.
+15.6.2.1 Report the lower result from the two columns (see section 15.7 below) for each analyte in each sample or QC standard at or above the ML to 3 significant figures. Report a result for each analyte in each sample or QC standard below the ML as "<ML," where "ML" is the concentration of the analyte at the ML (e.g., if the ML is 10 µg/L, then report the result as <10 µg/L), or as required by the regulatory authority or permit. Report a result for each analyte in a blank at or above the MDL to 2 significant figures. Report a result for each analyte found in a blank below the MDL as "<MDL," where MDL is the concentration of the analyte at the MDL, or as required by the regulatory/control authority or permit.
+15.6.2.2 In addition to reporting results for samples and blank(s) separately, the concentration of each analyte in a blank or field blank associated with that sample may be subtracted from the result for that sample, but only if requested or required by a regulatory authority or in a permit. In this case, both the sample result and the blank results must be reported together.
+15.6.2.3 Report the result for an analyte in a sample or extract that has been diluted at the least dilute level at which the peak area is within the calibration range (i.e., above the ML for the analyte) and the MS/MSD recovery and RPD are within their respective QC acceptance criteria (Table 4). This may require reporting results for some analytes from different analyses. Results for each analyte in MS/MSD samples should be reported from the same GC column as used to report the results for that analyte in the unspiked sample. If the MS/MSD recoveries and RPDs calculated in this manner do not meet the acceptance criteria in Table 4, the analyst may use the results from the other GC column to determine if the MS/MSD results meet the acceptance criteria. If such a situation occurs, the results for the sample should be recalculated using the same GC column data as used for the MS/MSD samples, and reported with appropriate annotations that alert the data user of the issue.
+15.6.2.4 Results from tests performed with an analytical system that is not in control (i.e., that does not meet acceptance criteria for all of QC tests in this method) must not be reported or otherwise used for permitting or regulatory compliance purposes, but do not relieve a discharger or permittee of reporting timely results. See section 8.1.7 for dispositions of failures. If the holding time would be exceeded for a re-analysis of the sample, the regulatory/control authority should be consulted for disposition.
+15.6.3 Analyze the sample by GC/MS or on a third column when analytes have co-eluted or interfere with determination on both columns.
+Note: Dichlone and kepone do not elute from the DB-1701 column and must be confirmed on a DB-5 column, or by GC/MS.
+15.7 Quantitative information that may aid in the confirmation of the presence of an analyte.
+15.7.1 As noted in Section 14.3, the relative agreement between the numerical results from the two GC columns may be used to support the identification of the target analyte by providing evidence that co-eluting interferences are not present at the retention time of the target analyte. Calculate the percent difference (%D) between the results for the analyte from both columns, as follows:
+ER28AU17.009
+In general, if the %D of the two results is less than 50% (e.g., a factor of 2), then the pesticide is present. This %D is generous and allows for the pesticide that has the largest measurement error.
+Note: Laboratories may employ metrics less than 50% for this comparison, including those specified in other analytical methods for these pesticides (e.g., CLP or SW-846).
+15.7.2 If the amounts do not agree, and the RT data indicate the presence of the analyte (per Section 14), it is likely that a positive interference is present on the column that yielded the higher result. That interferent may be represented by a separate peak on the other column that does not coincide with the retention time of any of the target analytes. If the interfering peak is evident on the other column, report the result from that column and advise the data user that the interference resulted in a %D value greater than 50%. If an interferent is not identifiable on the second column, then the results must be reported as "not detected" at the lower concentration. In this event, the pesticide is not confirmed and the reporting limit is elevated. See section 8.1.7 for disposition of problem results.
+Note: The resulting elevation of the reporting limit may not meet the requirements for compliance monitoring and the use of additional cleanup procedures may be required.
+16. Analysis of Complex Samples
+16.1 Some samples may contain high levels (greater than 1 µg/L) of the analytes of interest, interfering analytes, and/or polymeric materials. Some samples may not concentrate to 1.0 mL (section 10.3.3.3.2); others may overload the GC column and/or detector.
+16.2 When an interference is known or suspected to be present, the laboratory should attempt to clean up the sample extract using the SPE cartridge (section 11.2), by Florisil® (Section 11.3), Alumina (Section 11.4), sulfur removal (section 11.5), or another clean up procedure appropriate to the analytes of interest. If these techniques do not remove the interference, the extract is diluted by a known factor and reanalyzed (section 12). Dilution until the extract is lightly colored is preferable. Typical dilution factors are 2, 5, and 10.
+16.3 Recovery of surrogate(s)—In most samples, surrogate recoveries will be similar to those from reagent water. If surrogate recovery is outside the limits developed in Section 8.6, re-extract and reanalyze the sample if there is sufficient sample and if it is within the 7-day extraction holding time. If surrogate recovery is still outside this range, extract and analyze one-tenth the volume of sample to overcome any matrix interference problems. If a sample is highly colored or suspected to be high in concentration, a 1-L sample aliquot and a 100-mL sample aliquot could be extracted simultaneously and still meet the holding time criteria, while providing information about a complex matrix.
+16.4 Recovery of the matrix spike and matrix spike duplicate (MS/MSD)—In most samples, MS/MSD recoveries will be similar to those from reagent water. If either the MS or MSD recovery is outside the range specified in Section 8.3.3, one-tenth the volume of sample is spiked and analyzed. If the matrix spike recovery is still outside the range, the result for the unspiked sample may not be reported or used for permitting or regulatory compliance purposes. See Section 8.1.7 for dispositions of failures. Poor matrix spike recovery does not relieve a discharger or permittee of reporting timely results.
+17. Method Performance
+17.1 This method was tested for linearity of spike recovery from reagent water and has been demonstrated to be applicable over the concentration range from 4x MDL to 1000x MDL with the following exceptions: Chlordane recovery at 4x MDL was low (60%); Toxaphene recovery was demonstrated linear over the range of 10x MDL to 1000x MDL (Reference 3).
+17.2 The 1984 version of this method was tested by 20 laboratories using reagent water, drinking water, surface water, and three industrial wastewaters spiked at six concentrations (Reference 2). Concentrations used in the study ranged from 0.5 to 30 µg/L for single-component pesticides and from 8.5 to 400 µg/L for multi-component analytes. These data are for a subset of analytes described in the current version of the method.
+17.3 During the development of Method 1656, a similar EPA procedure for the organochlorine pesticides, single-operator precision, overall precision, and method accuracy were found to be directly related to the concentration of the analyte and essentially independent of the sample matrix. Linear equations to describe these relationships are presented in Table 5.
+18. Pollution Prevention
+18.1 Pollution prevention encompasses any technique that reduces or eliminates the quantity or toxicity of waste at the point of generation. Many opportunities for pollution prevention exist in laboratory operations. EPA has established a preferred hierarchy of environmental management techniques that places pollution prevention as the management option of first choice. Whenever feasible, the laboratory should use pollution prevention techniques to address waste generation. When wastes cannot be reduced at the source, the Agency recommends recycling as the next best option.
+18.2 The analytes in this method are used in extremely small amounts and pose little threat to the environment when managed properly. Standards should be prepared in volumes consistent with laboratory use to minimize the disposal of excess volumes of expired standards. This method utilizes significant quantities of methylene chloride. Laboratories are encouraged to recover and recycle this and other solvents during extract concentration.
+18.3 For information about pollution prevention that may be applied to laboratories and research institutions, consult "Less is Better: Laboratory Chemical Management for Waste Reduction" (Reference 19), available from the American Chemical Society's Department of Governmental Relations and Science Policy, 1155 16th Street NW., Washington DC 20036, 202-872-4477.
+19. Waste Management
+19.1 The laboratory is responsible for complying with all Federal, State, and local regulations governing waste management, particularly the hazardous waste identification rules and land disposal restrictions, and to protect the air, water, and land by minimizing and controlling all releases from fume hoods and bench operations. Compliance is also required with any sewage discharge permits and regulations. An overview of requirements can be found in Environmental Management Guide for Small Laboratories (EPA 233-B-98-001).
+19.2 Samples at pH <2, or pH >12, are hazardous and must be handled and disposed of as hazardous waste, or neutralized and disposed of in accordance with all federal, state, and local regulations. It is the laboratory's responsibility to comply with all federal, state, and local regulations governing waste management, particularly the hazardous waste identification rules and land disposal restrictions. The laboratory using this method has the responsibility to protect the air, water, and land by minimizing and controlling all releases from fume hoods and bench operations. Compliance is also required with any sewage discharge permits and regulations. For further information on waste management, see "The Waste Management Manual for Laboratory Personnel," also available from the American Chemical Society at the address in section 18.3.
+19.3 Many analytes in this method decompose above 500 °C. Low-level waste such as absorbent paper, tissues, animal remains, and plastic gloves may be burned in an appropriate incinerator. Gross quantities of neat or highly concentrated solutions of toxic or hazardous chemicals should be packaged securely and disposed of through commercial or governmental channels that are capable of handling toxic wastes.
+19.4 For further information on waste management, consult The Waste Management Manual for Laboratory Personnel and Less is Better-Laboratory Chemical Management for Waste Reduction, available from the American Chemical Society's Department of Government Relations and Science Policy, 1155 16th Street NW., Washington, DC 20036, 202-872-4477.
+20. References
+1. "Determination of Pesticides and PCBs in Industrial and Municipal Wastewaters," EPA 600/4-82-023, National Technical Information Service, PB82-214222, Springfield, Virginia 22161, April 1982.
+2. "EPA Method Study 18 Method 608-Organochlorine Pesticides and PCBs," EPA 600/4-84-061, National Technical Information Service, PB84-211358, Springfield, Virginia 22161, June 1984.
+3. "Method Detection Limit and Analytical Curve Studies, EPA Methods 606, 607, and 608," Special letter report for EPA Contract 68-03-2606, U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268, June 1980.
+4. ASTM Annual Book of Standards, Part 31, D3694-78. "Standard Practice for Preparation of Sample Containers and for Preservation of Organic Constituents," American Society for Testing and Materials, Philadelphia.
+5. Giam, C.S., Chan, H.S., and Nef, G.S. "Sensitive Method for Determination of Phthalate Ester Plasticizers in Open-Ocean Biota Samples," Analytical Chemistry, 47:2225 (1975).
+6. Giam, C.S. and Chan, H.S. "Control of Blanks in the Analysis of Phthalates in Air and Ocean Biota Samples," U.S. National Bureau of Standards, Special Publication 442, pp. 701-708, 1976.
+7. Solutions to Analytical Chemistry Problems with Clean Water Act Methods, EPA 821-R-07-002, March 2007.
+8. "Carcinogens-Working With Carcinogens," Department of Health, Education, and Welfare, Public Health Service, Center for Disease Control, National Institute for Occupational Safety and Health, Publication No. 77-206, August 1977.
+9. "Occupational Exposure to Hazardous Chemicals in Laboratories," (29 CFR 1910.1450), Occupational Safety and Health Administration, OSHA.
+10. 40 CFR 136.6(b)(4)(j).
+11. Mills, P.A. "Variation of Florisil Activity: Simple Method for Measuring Absorbent Capacity and Its Use in Standardizing Florisil Columns," Journal of the Association of Official Analytical Chemists, 51:29, (1968).
+12. 40 CFR 136.6(b)(2)(i).
+13. Protocol for EPA Approval of New Methods for Organic and Inorganic Analytes in Wastewater and Drinking Water (EPA-821-B-98-003) March 1999.
+14. Methods 4500 Cl F and 4500 Cl G, Standard Methods for the Examination of Water and Wastewater, published jointly by the American Public Health Association, American Water Works Association, and Water Environment Federation, 1015 Fifteenth St., Washington, DC 20005, 20th Edition, 2000.
+15. "Manual of Analytical Methods for the Analysis of Pesticides in Human and Environmental Samples," EPA-600/8-80-038, U.S. Environmental Protection Agency, Health Effects Research Laboratory, Research Triangle Park, North Carolina.
+16. USEPA, 2000, Method 1656 Organo-Halide Pesticides In Wastewater, Soil, Sludge, Sediment, and Tissue by GC/HSD, EPA-821-R-00-017, September 2000.
+17. USEPA, 2010, Method 1668C Chlorinated Biphenyl Congeners in Water, Soil, Sediment, Biosolids, and Tissue by HRGC/HRMS, EPA-820-R-10-005, April 2010.
+18. USEPA, 2007, Method 1699: Pesticides in Water, Soil, Sediment, Biosolids, and Tissue by HRGC/HRMS, EPA-821-R-08-001, December 2007.
+19. "Less is Better," American Chemical Society on-line publication, http://www.acs.org/content/dam/acsorg/about/governance/committees/chemicalsafety/publications/less-is-better.pdf.
+20. EPA Method 608 ATP 3M0222, An alternative test procedure for the measurement of organochlorine pesticides and polychlorinated biphenyls in waste water. Federal Register, Vol. 60, No. 148 August 2, 1995.
+21. Tables
+Table 1—Pesticides 1
+Analyte | CAS No. | MDL 2 (ng/L) | ML 3 (ng/L)
+Aldrin | 309-00-2 | 4 | 12
+alpha-BHC | 319-84-6 | 3 | 9
+beta-BHC | 319-85-7 | 6 | 18
+delta-BHC | 319-86-8 | 9 | 27
+gamma-BHC (Lindane) | 58-89-9 | 4 | 12
+alpha-Chlordane 4 | 5103-71-9 | 14 | 42
+gamma-Chlordane 4 | 5103-74-2 | 14 | 42
+4,4′-DDD | 72-54-8 | 11 | 33
+4,4′-DDE | 72-55-9 | 4 | 12
+4,4′-DDT | 50-29-3 | 12 | 36
+Dieldrin | 60-57-1 | 2 | 6
+Endosulfan I | 959-98-8 | 14 | 42
+Endosulfan II | 33213-65-9 | 4 | 12
+Endosulfan sulfate | 1031-07-8 | 66 | 198
+Endrin | 72-20-8 | 6 | 18
+Endrin aldehyde | 7421-93-4 | 23 | 70
+Heptachlor | 76-44-8 | 3 | 9
+Heptachlor epoxide | 1024-57-3 | 83 | 249
+1 All analytes in this table are Priority Pollutants (40 CFR part 423, appendix A).
+2 40 CFR part 136, appendix B, June 30, 1986.
+3 ML = Minimum Level—see Glossary for definition and derivation, calculated as 3 times the MDL.
+4 MDL based on the MDL for Chlordane.
+Table 2—Additional Analytes
+Analyte | CAS No. | MDL 3 (ng/L) | ML 4 (ng/L)
+Acephate | 30560-19-1
+Alachlor | 15972-60-8
+Atrazine | 1912-24-9
+Benfluralin (Benefin) | 1861-40-1
+Bromacil | 314-40-9
+Bromoxynil octanoate | 1689-99-2
+Butachlor | 23184-66-9
+Captafol | 2425-06-1
+Captan | 133-06-2
+Carbophenothion (Trithion) | 786-19-6
+Chlorobenzilate | 510-15-6
+Chloroneb (Terraneb) | 2675-77-6
+Chloropropylate (Acaralate) | 5836-10-2
+Chlorothalonil | 1897-45-6
+Cyanazine | 21725-46-2
+DCPA (Dacthal) | 1861-32-1
+2,4′-DDD | 53-19-0
+2,4′-DDE | 3424-82-6
+2,4′-DDT | 789-02-6
+Diallate (Avadex) | 2303-16-4
+1,2-Dibromo-3-chloropropane (DBCP) | 96-12-8
+Dichlone | 117-80-6
+Dichloran | 99-30-9
+Dicofol | 115-32-2
+Endrin ketone | 53494-70-5
+Ethalfluralin (Sonalan) | 55283-68-6
+Etridiazole | 2593-15-9
+Fenarimol (Rubigan) | 60168-88-9
+Hexachlorobenzene 1 | 118-74-1
+Hexachlorocyclopentadiene 1 | 77-47-4
+Isodrin | 465-73-6
+Isopropalin (Paarlan) | 33820-53-0
+Kepone | 143-50-0
+Methoxychlor | 72-43-5
+Metolachlor | 51218-45-2
+Metribuzin | 21087-64-9
+Mirex | 2385-85-5
+Nitrofen (TOK) | 1836-75-5
+cis-Nonachlor | 5103-73-1
+trans-Nonachlor | 39765-80-5
+Norfluorazon | 27314-13-2
+Octachlorostyrene | 29082-74-4
+Oxychlordane | 27304-13-8
+PCNB (Pentachloronitrobenzene) | 82-68-8
+Pendamethalin (Prowl) | 40487-42-1
+cis-Permethrin | 61949-76-6
+trans-Permethrin | 61949-77-7
+Perthane (Ethylan) | 72-56-0
+Propachlor | 1918-16-7
+Propanil | 709-98-8
+Propazine | 139-40-2
+Quintozene | 82-68-8
+Simazine | 122-34-9
+Strobane | 8001-50-1
+Technazene | 117-18-0
+Technical Chlordane 2 |
+Terbacil | 5902-51-2
+Terbuthylazine | 5915-41-3
+Toxaphene 1 | 8001-35-2 | 240 | 720
+Trifluralin | 1582-09-8
+PCB-1016 1 | 12674-11-2
+PCB-1221 1 | 11104-28-2
+PCB-1232 1 | 11141-16-5
+PCB-1242 1 | 53469-21-9 | 65 | 95
+PCB-1248 1 | 12672-29-6
+PCB-1254 1 | 11097-69-1
+PCB-1260 1 | 11096-82-5
+PCB-1268 | 11100-14-4 |
+1 Priority Pollutants (40 CFR part 423, appendix A).
+2 Technical Chlordane may be used in cases where historical reporting has only been for this form of Chlordane.
+3 40 CFR part 136, appendix B, June 30, 1986.
+4 ML = Minimum Level—see Glossary for definition and derivation, calculated as 3 times the MDL.
+Table 3—Example Retention Times 1
+Analyte | Retention time(min) 2 | DB-608 | DB-1701
+Acephate | 5.03 | (3)
+Trifluralin | 5.16 | 6.79
+Ethalfluralin | 5.28 | 6.49
+Benfluralin | 5.53 | 6.87
+Diallate-A | 7.15 | 6.23
+Diallate-B | 7.42 | 6.77
+alpha-BHC | 8.14 | 7.44
+PCNB | 9.03 | 7.58
+Simazine | 9.06 | 9.29
+Atrazine | 9.12 | 9.12
+Terbuthylazine | 9.17 | 9.46
+gamma-BHC (Lindane) | 9.52 | 9.91
+beta-BHC | 9.86 | 11.90
+Heptachlor | 10.66 | 10.55
+Chlorothalonil | 10.66 | 10.96
+Dichlone | 10.80 | (4)
+Terbacil | 11.11 | 12.63
+delta-BHC | 11.20 | 12.98
+Alachlor | 11.57 | 11.06
+Propanil | 11.60 | 14.10
+Aldrin | 11.84 | 11.46
+DCPA | 12.18 | 12.09
+Metribuzin | 12.80 | 11.68
+Triadimefon | 12.99 | 13.57
+Isopropalin | 13.06 | 13.37
+Isodrin | 13.47 | 11.12
+Heptachlor epoxide | 13.97 | 12.56
+Pendamethalin | 14.21 | 13.46
+Bromacil | 14.39 | (3)
+alpha-Chlordane | 14.63 | 14.20
+Butachlor | 15.03 | 15.69
+gamma-Chlordane | 15.24 | 14.36
+Endosulfan I | 15.25 | 13.87
+4,4′-DDE | 16.34 | 14.84
+Dieldrin | 16.41 | 15.25
+Captan | 16.83 | 15.43
+Chlorobenzilate | 17.58 | 17.28
+Endrin | 17.80 | 15.86
+Nitrofen (TOK) | 17.86 | 17.47
+Kepone | 17.92 | (3 5)
+4,4′-DDD | 18.43 | 17.77
+Endosulfan II | 18.45 | 18.57
+Bromoxynil octanoate | 18.85 | 18.57
+4,4′-DDT | 19.48 | 18.32
+Carbophenothion | 19.65 | 18.21
+Endrin aldehyde | 19.72 | 19.18
+Endosulfan sulfate | 20.21 | 20.37
+Captafol | 22.51 | 21.22
+Norfluorazon | 20.68 | 22.01
+Mirex | 22.75 | 19.79
+Methoxychlor | 22.80 | 20.68
+Endrin ketone | 23.00 | 21.79
+Fenarimol | 24.53 | 23.79
+cis-Permethrin | 25.00 | 23.59
+trans-Permethrin | 25.62 | 23.92
+PCB-1016
+PCB-1221
+PCB-1232
+PCB-1242
+PCB-1248
+PCB-1254
+PCB-1260 (5 peaks) | 15.44 | 14.64
+| 15.73 | 15.36
+| 16.94 | 16.53
+| 17.28 | 18.70
+| 19.17 | 19.92
+Toxaphene (5 peaks) | 16.60 | 16.60
+| 17.37 | 17.52
+| 18.11 | 17.92
+| 19.46 | 18.73
+| 19.69 | 19.00
+1 Data from EPA Method 1656 (Reference 16).
+2 Columns: 30-m long x 0.53-mm ID fused-silica capillary; DB-608, 0.83 µm; and DB-1701, 1.0 µm.
+Conditions suggested to meet retention times shown: 150 °C for 0.5 minute, 150-270 °C at 5 °C/min, and 270 °C until trans-Permethrin elutes.
+Carrier gas flow rates approximately 7 mL/min.
+3 Does not elute from DB-1701 column at level tested.
+4 Not recovered from water at the levels tested.
+5 Dichlone and Kepone do not elute from the DB-1701 column and should be confirmed on DB-5.
+Table 4—QC Acceptance Criteria
+Analyte | Calibration verification(%) | Testconcentration (µg/L) | Limit for s(% SD) | Range for X (%) | Range for P(%) | MaximumMS/MSD RPD (%)
+Aldrin | 75-125 | 2.0 | 25 | 54-130 | 42-140 | 35
+alpha-BHC | 69-125 | 2.0 | 28 | 49-130 | 37-140 | 36
+beta-BHC | 75-125 | 2.0 | 38 | 39-130 | 17-147 | 44
+delta-BHC | 75-125 | 2.0 | 43 | 51-130 | 19-140 | 52
+gamma-BHC | 75-125 | 2.0 | 29 | 43-130 | 32-140 | 39
+alpha-Chlordane | 73-125 | 50.0 | 24 | 55-130 | 45-140 | 35
+gamma-Chlordane | 75-125 | 50.0 | 24 | 55-130 | 45-140 | 35
+4,4′-DDD | 75-125 | 10.0 | 32 | 48-130 | 31-141 | 39
+4,4′-DDE | 75-125 | 2.0 | 30 | 54-130 | 30-145 | 35
+4,4′-DDT | 75-125 | 10.0 | 39 | 46-137 | 25-160 | 42
+Dieldrin | 48-125 | 2.0 | 42 | 58-130 | 36-146 | 49
+Endosulfan I | 75-125 | 2.0 | 25 | 57-141 | 45-153 | 28
+Endosulfan II | 75-125 | 10.0 | 63 | 22-171 | D-202 | 53
+Endosulfan sulfate | 70-125 | 10.0 | 32 | 38-132 | 26-144 | 38
+Endrin | 5-125 | 10.0 | 42 | 51-130 | 30-147 | 48
+Heptachlor | 75-125 | 2.0 | 28 | 43-130 | 34-140 | 43
+Heptachlor epoxide | 75-125 | 2.0 | 22 | 57-132 | 37-142 | 26
+Toxaphene | 68-134 | 50.0 | 30 | 56-130 | 41-140 | 41
+PCB-1016 | 75-125 | 50.0 | 24 | 61-103 | 50-140 | 36
+PCB-1221 | 75-125 | 50.0 | 50 | 44-150 | 15-178 | 48
+PCB-1232 | 75-125 | 50.0 | 32 | 28-197 | 10-215 | 25
+PCB-1242 | 75-125 | 50.0 | 26 | 50-139 | 39-150 | 29
+PCB-1248 | 75-125 | 50.0 | 32 | 58-140 | 38-158 | 35
+PCB-1254 | 75-125 | 50.0 | 34 | 44-130 | 29-140 | 45
+PCB-1260 | 75-125 | 50.0 | 28 | 37-130 | 8-140 | 38
+S = Standard deviation of four recovery measurements for the DOC (section 8.2.4).
+X = Average of four recovery measurements for the DOC (section 8.2.4).
+P = Recovery for the LCS (section 8.4.3).
+Note: These criteria were developed from data in Table 5 (Reference 2). Where necessary, limits for recovery have been broadened to assure applicability to concentrations below those in Table 5.
+Table 5—Precision and Recovery as Functions of Concentration
+Analyte | Recovery, X′(µg/L) | Single analystprecision, sr′ (µg/L) | Overallprecision, S′ (µg/L)
+Aldrin | 0.81C + 0.04 | 0.16(X) − 0.04 | 0.20(X) − 0.01
+alpha-BHC | 0.84C + 0.03 | 0.13(X) + 0.04 | 0.23(X) − 0.00
+beta-BHC | 0.81C + 0.07 | 0.22(X) − 0.02 | 0.33(X) − 0.05
+delta-BHC | 0.81C + 0.07 | 0.18(X) + 0.09 | 0.25(X) + 0.03
+gamma-BHC (Lindane) | 0.82C − 0.05 | 0.12(X) + 0.06 | 0.22(X) + 0.04
+Chlordane | 0.82C − 0.04 | 0.13(X) + 0.13 | 0.18(X) + 0.18
+4,4′-DDD | 0.84C + 0.30 | 0.20(X) − 0.18 | 0.27(X) − 0.14
+4,4′-DDE | 0.85C + 0.14 | 0.13(X) + 0.06 | 0.28(X) − 0.09
+4,4′-DDT | 0.93C − 0.13 | 0.17(X) + 0.39 | 0.31(X) − 0.21
+Dieldrin | 0.90C + 0.02 | 0.12(X) + 0.19 | 0.16(X) + 0.16
+Endosulfan I | 0.97C + 0.04 | 0.10(X) + 0.07 | 0.18(X) + 0.08
+Endosulfan II | 0.93C + 0.34 | 0.41(X) − 0.65 | 0.47(X) − 0.20
+Endosulfan sulfate | 0.89C − 0.37 | 0.13(X) + 0.33 | 0.24(X) + 0.35
+Endrin | 0.89C − 0.04 | 0.20(X) + 0.25 | 0.24(X) + 0.25
+Heptachlor | 0.69C + 0.04 | 0.06(X) + 0.13 | 0.16(X) + 0.08
+Heptachlor epoxide | 0.89C + 0.10 | 0.18(X) − 0.11 | 0.25(X) − 0.08
+Toxaphene | 0.80C + 1.74 | 0.09(X) + 3.20 | 0.20(X) + 0.22
+PCB-1016 | 0.81C + 0.50 | 0.13(X) + 0.15 | 0.15(X) + 0.45
+PCB-1221 | 0.96C + 0.65 | 0.29(X) − 0.76 | 0.35(X) − 0.62
+PCB-1232 | 0.91C + 10.8 | 0.21(X) − 1.93 | 0.31(X) + 3.50
+PCB-1242 | 0.93C + 0.70 | 0.11(X) + 1.40 | 0.21(X) + 1.52
+PCB-1248 | 0.97C + 1.06 | 0.17(X) + 0.41 | 0.25(X) − 0.37
+PCB-1254 | 0.76C + 2.07 | 0.15(X) + 1.66 | 0.17(X) + 3.62
+PCB-1260 | 0.66C + 3.76 | 0.22(X) − 2.37 | 0.39(X) − 4.86
+X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L.
+Table 6—Distribution of Chlorinated Pesticides and PCBs Into Florisil® Column Fractions
+Analyte | Percent Recovery by Fraction 1 | 1 | 2 | 3
 Aldrin | 100
-α-BHC | 100
-β-BHC | 97
-δ-BHC | 98
-γ-BHC | 100
+alpha-BHC | 100
+beta-BHC | 97
+delta-BHC | 98
+gamma-BHC (Lindane) | 100
 Chlordane | 100
 4,4′-DDD | 99
-4,4′-DDE | 98
+4,4′-DDE | | 98
 4,4′-DDT | 100
 Dieldrin | 0 | 100
 Endosulfan I | 37 | 64
@@ -1875,83 +2370,153 @@ PCB-1232 | 95 | 4
 PCB-1242 | 97
 PCB-1248 | 103
 PCB-1254 | 90
-PCB-1260 | 95
-a Eluant composition:
-Fraction 1-6% ethyl ether in hexane.
-Fraction 2-15% ethyl ether in hexane.
-Fraction 3-50% ethyl ether in hexane.
-Table 3—QC Acceptance Criteria—Method 608
-Parameter | Test conc. (µg/L) | Limit for s (µg/L) | Range for X (µg/L) | Range for P, Ps(%)
-Aldrin | 2.0 | 0.42 | 1.08-2.24 | 42-122
-α-BHC | 2.0 | 0.48 | 0.98-2.44 | 37-134
-β-BHC | 2.0 | 0.64 | 0.78-2.60 | 17-147
-δ-BHC | 2.0 | 0.72 | 1.01-2.37 | 19-140
-γ-BHC | 2.0 | 0.46 | 0.86-2.32 | 32-127
-Chlordane | 50 | 10.0 | 27.6-54.3 | 45-119
-4,4″-DDD | 10 | 2.8 | 4.8-12.6 | 31-141
-4,4″-DDE | 2.0 | 0.55 | 1.08-2.60 | 30-145
-4,4′-DDT | 10 | 3.6 | 4.6-13.7 | 25-160
-Dieldrin | 2.0 | 0.76 | 1.15-2.49 | 36-146
-Endosulfan I | 2.0 | 0.49 | 1.14-2.82 | 45-153
-Endosulfan II | 10 | 6.1 | 2.2-17.1 | D-202
-Endosulfan Sulfate | 10 | 2.7 | 3.8-13.2 | 26-144
-Endrin | 10 | 3.7 | 5.1-12.6 | 30-147
-Heptachlor | 2.0 | 0.40 | 0.86-2.00 | 34-111
-Heptachlor epoxide | 2.0 | 0.41 | 1.13-2.63 | 37-142
-Toxaphene | 50.0 | 12.7 | 27.8-55.6 | 41-126
-PCB-1016 | 50 | 10.0 | 30.5-51.5 | 50-114
-PCB-1221 | 50 | 24.4 | 22.1-75.2 | 15-178
-PCB-1232 | 50 | 17.9 | 14.0-98.5 | 10-215
-PCB-1242 | 50 | 12.2 | 24.8-69.6 | 39-150
-PCB-1248 | 50 | 15.9 | 29.0-70.2 | 38-158
-PCB-1254 | 50 | 13.8 | 22.2-57.9 | 29-131
-PCB-1260 | 50 | 10.4 | 18.7-54.9 | 8-127
-s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4).
-X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4).
-P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2).
-D = Detected; result must be greater than zero.
-Note: These criteria are based directly upon the method performance data in Table 4. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 4.
-Table 4—Method Accuracy and Precision as Functions of Concentration—Method 608
-Parameter | Accuracy, as recovery, X′ (µg/L) | Single analyst precision, sr′ (µg/L) | Overall precision, S′ (µg/L)
-Aldrin | 0.81C + 0.04 | 0.16X−0.04 | 0.20X−0.01
-α-BHC | 0.84C + 0.03 | 0.13X + 0.04 | 0.23X−0.00
-β-BHC | 0.81C + 0.07 | 0.22X−0.02 | 0.33X−0.05
-δ-BHC | 0.81C + 0.07 | 0.18X + 0.09 | 0.25X + 0.03
-γ-BHC | 0.82C−0.05 | 0.12X + 0.06 | 0.22X + 0.04
-Chlordane | 0.82C−0.04 | 0.13X + 0.13 | 0.18X + 0.18
-4,4′-DDD | 0.84C + 0.30 | 0.20X−0.18 | 0.27X−0.14
-4,4′-DDE | 0.85C + 0.14 | 0.13X + 0.06 | 0.28X−0.09
-4,4′-DDT | 0.93C−0.13 | 0.17X + 0.39 | 0.31X−0.21
-Dieldrin | 0.90C + 0.02 | 0.12X + 0.19 | 0.16X + 0.16
-Endosulfan I | 0.97C + 0.04 | 0.10X + 0.07 | 0.18X + 0.08
-Endosulfan II | 0.93C + 0.34 | 0.41X—0.65 | 0.47X−0.20
-Endosulfan Sulfate | 0.89C−0.37 | 0.13X + 0.33 | 0.24X + 0.35
-Endrin | 0.89C−0.04 | 0.20X + 0.25 | 0.24X + 0.25
-Heptachlor | 0.69C + 0.04 | 0.06X + 0.13 | 0.16X + 0.08
-Heptachlor epoxide | 0.89C + 0.10 | 0.18X−0.11 | 0.25X−0.08
-Toxaphene | 0.80C + 1.74 | 0.09X + 3.20 | 0.20X + 0.22
-PCB-1016 | 0.81C + 0.50 | 0.13X + 0.15 | 0.15X + 0.45
-PCB-1221 | 0.96C + 0.65 | 0.29X−0.76 | 0.35X−0.62
-PCB-1232 | 0.91C + 10.79 | 0.21X−1.93 | 0.31X + 3.50
-PCB-1242 | 0.93C + 0.70 | 0.11X + 1.40 | 0.21X + 1.52
-PCB-1248 | 0.97C + 1.06 | 0.17X + 0.41 | 0.25X−0.37
-PCB-1254 | 0.76C + 2.07 | 0.15X + 1.66 | 0.17X + 3.62
-PCB-1260 | 0.66C + 3.76 | 0.22X−2.37 | 0.39X−4.86
-X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L.
-sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L.
-S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L.
-C = True value for the concentration, in µg/L.
-X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
-EC02JY92.019
-EC02JY92.020
-EC02JY92.021
-EC02JY92.022
-EC02JY92.023
-EC02JY92.024
-EC02JY92.025
-EC02JY92.026
-EC02JY92.027
-EC02JY92.028
+PCB-1260 | |
+1 Eluant composition:
+Fraction 1—6% ethyl ether in hexane.
+Fraction 2—15% ethyl ether in hexane.
+Fraction 3—50% ethyl ether in hexane.
+Table 7—Suggested Calibration Groups 1
+Analyte
+Calibration Group 1:
+Acephate
+Alachlor
+Atrazine
+beta-BHC
+Bromoxynil octanoate
+Captafol
+Diallate
+Endosulfan sulfate
+Endrin
+Isodrin
+Pendimethalin (Prowl)
+trans-Permethrin
+Calibration Group 2:
+alpha-BHC
+DCPA
+4,4′-DDE
+4,4′-DDT
+Dichlone
+Ethalfluralin
+Fenarimol
+Methoxychlor
+Metribuzin
+Calibration Group 3:
+gamma-BHC (Lindane)
+gamma-Chlordane
+Endrin ketone
+Heptachlor epoxide
+Isopropalin
+Nitrofen (TOK)
+PCNB
+cis-Permethrin
+Trifluralin
+Callibration Group 4:
+Benfluralin
+Chlorobenzilate
+Dieldrin
+Endosulfan I
+Mirex
+Terbacil
+Terbuthylazine
+Triadimefon
+Calibration Group 5:
+alpha-Chlordane
+Captan
+Chlorothalonil
+4,4′-DDD
+Norfluorazon
+Simazine
+Calibration Group 6:
+Aldrin
+delta-BHC
+Bromacil
+Butachlor
+Endosulfan II
+Heptachlor
+Kepone
+Calibration Group 7:
+Carbophenothion
+Chloroneb
+Chloropropylate
+DBCP
+Dicofol
+Endrin aldehyde
+Etridiazone
+Perthane
+Propachlor
+Propanil
+Propazine
+1 The analytes may be organized in other calibration groups, provided that there are no coelution problems and that all QC requirements are met.
+22. Figures
+ER28AU17.010
+ER28AU17.011
+23. Glossary
+These definitions and purposes are specific to this method but have been conformed to common usage to the extent possible.
+23.1 Units of weight and measure and their abbreviations.
+23.1.1 Symbols.
+°C degrees Celsius
+µg microgram
+µL microliter
+< less than
+≤ less than or equal to
+> greater than
+% percent
+23.1.2 Abbreviations (in alphabetical order).
+cm centimeter
+g gram
+hr hour
+ID inside diameter
+in. inch
+L liter
+M molar solution—one mole or gram molecular weight of solute in one liter of solution
+mg milligram
+min minute
+mL milliliter
+mm millimeter
+N Normality—one equivalent of solute in one liter of solution
+ng nanogram
+psia pounds-per-square inch absolute
+psig pounds-per-square inch gauge
+v/v volume per unit volume
+w/v weight per unit volume
+23.2 Definitions and acronyms (in alphabetical order)
+Analyte—A compound or mixture of compounds (e.g., PCBs) tested for by this method. The analytes are listed in Tables 1 and 2.
+Analytical batch—The set of samples analyzed on a given instrument during a 24-hour period that begins and ends with calibration verification (sections 7.8 and 13). See also "Extraction batch."
+Blank (method blank; laboratory blank)—An aliquot of reagent water that is treated exactly as a sample including exposure to all glassware, equipment, solvents, reagents, internal standards, and surrogates that are used with samples. The blank is used to determine if analytes or interferences are present in the laboratory environment, the reagents, or the apparatus.
+Calibration factor (CF)—See section 7.5.1.
+Calibration standard—A solution prepared from stock solutions and/or a secondary standards and containing the analytes of interest, surrogates, and internal standards. This standard is used to model the response of the GC instrument against analyte concentration.
+Calibration verification—The process of confirming that the response of the analytical system remains within specified limits of the calibration.
+Calibration verification standard—The standard (section 6.8.4) used to verify calibration (sections 7.8 and 13.6).
+Extraction Batch—A set of up to 20 field samples (not including QC samples) started through the extraction process in a given 24-hour shift. Each extraction batch of 20 or fewer samples must be accompanied by a blank (section 8.5), a laboratory control sample (LCS, section 8.4), a matrix spike and duplicate (MS/MSD; section 8.3), resulting in a minimum of five samples (1 field sample, 1 blank, 1 LCS, 1 MS, and 1 MSD) and a maximum of 24 samples (20 field samples, 1 blank, 1 LCS, 1 MS, and 1 MSD) for the batch. If greater than 20 samples are to be extracted in a 24-hour shift, the samples must be separated into extraction batches of 20 or fewer samples.
+Field Duplicates—Two samples collected at the same time and place under identical conditions, and treated identically throughout field and laboratory procedures. Results of analyses the field duplicates provide an estimate of the precision associated with sample collection, preservation, and storage, as well as with laboratory procedures.
+Field blank—An aliquot of reagent water or other reference matrix that is placed in a sample container in the field, and treated as a sample in all respects, including exposure to sampling site conditions, storage, preservation, and all analytical procedures. The purpose of the field blank is to determine if the field or sample transporting procedures and environments have contaminated the sample. See also "Blank."
+GC—Gas chromatograph or gas chromatography.
+Gel-permeation chromatography (GPC)—A form of liquid chromatography in which the analytes are separated based on exclusion from the solid phase by size.
+Internal standard—A compound added to an extract or standard solution in a known amount and used as a reference for quantitation of the analytes of interest and surrogates. Also see Internal standard quantitation.
+Internal standard quantitation—A means of determining the concentration of an analyte of interest (Tables 1 and 2) by reference to a compound not expected to be found in a sample.
+IDC—Initial Demonstration of Capability (section 8.2); four aliquots of a reference matrix spiked with the analytes of interest and analyzed to establish the ability of the laboratory to generate acceptable precision and recovery. An IDC is performed prior to the first time this method is used and any time the method or instrumentation is modified.
+Laboratory Control Sample (LCS; laboratory fortified blank; section 8.4)—An aliquot of reagent water spiked with known quantities of the analytes of interest and surrogates. The LCS is analyzed exactly like a sample. Its purpose is to assure that the results produced by the laboratory remain within the limits specified in this method for precision and recovery.
+Laboratory Fortified Sample Matrix—See Matrix spike.
+Laboratory reagent blank—See blank.
+Matrix spike (MS) and matrix spike duplicate (MSD) (laboratory fortified sample matrix and duplicate)—Two aliquots of an environmental sample to which known quantities of the analytes of interest and surrogates are added in the laboratory. The MS/MSD are prepared and analyzed exactly like a field sample. Their purpose is to quantify any additional bias and imprecision caused by the sample matrix. The background concentrations of the analytes in the sample matrix must be determined in a separate aliquot and the measured values in the MS/MSD corrected for background concentrations.
+May—This action, activity, or procedural step is neither required nor prohibited.
+May not—This action, activity, or procedural step is prohibited.
+Method detection limit (MDL)—A detection limit determined by the procedure at 40 CFR part 136, appendix B. The MDLs determined by EPA are listed in Tables 1 and 2. As noted in section 1.6, use the MDLs in Tables 1 and 2 in conjunction with current MDL data from the laboratory actually analyzing samples to assess the sensitivity of this procedure relative to project objectives and regulatory requirements (where applicable).
+Minimum level (ML)—The term "minimum level" refers to either the sample concentration equivalent to the lowest calibration point in a method or a multiple of the method detection limit (MDL), whichever is higher. Minimum levels may be obtained in several ways: They may be published in a method; they may be based on the lowest acceptable calibration point used by a laboratory; or they may be calculated by multiplying the MDL in a method, or the MDL determined by a laboratory, by a factor of 3. For the purposes of NPDES compliance monitoring, EPA considers the following terms to be synonymous: "quantitation limit," "reporting limit," and "minimum level."
+MS—Mass spectrometer or mass spectrometry.
+Must—This action, activity, or procedural step is required.
+Preparation blank—See blank.
+Reagent water—Water demonstrated to be free from the analytes of interest and potentially interfering substances at the MDLs for the analytes in this method.
+Regulatory compliance limit—A limit on the concentration or amount of a pollutant or contaminant specified in a nationwide standard, in a permit, or otherwise established by a regulatory/control authority.
+Relative standard deviation (RSD)—The standard deviation times 100 divided by the mean. Also termed "coefficient of variation."
+RF—Response factor. See section 7.6.2.
+RPD—Relative percent difference.
+RSD—See relative standard deviation.
+Safety Data Sheet (SDS)—Written information on a chemical's toxicity, health hazards, physical properties, fire, and reactivity, including storage, spill, and handling precautions that meet the requirements of OSHA, 29 CFR 1910.1200(g) and appendix D to § 1910.1200. United Nations Globally Harmonized System of Classification and Labelling of Chemicals (GHS), third revised edition, United Nations, 2009.
+Should—This action, activity, or procedural step is suggested but not required.
+SPE—Solid-phase extraction; a sample extraction or extract cleanup technique in which an analyte is selectively removed from a sample or extract by passage over or through a material capable of reversibly adsorbing the analyte.
+Stock solution—A solution containing an analyte that is prepared using a reference material traceable to EPA, the National Institute of Science and Technology (NIST), or a source that will attest to the purity and authenticity of the reference material.
+Surrogate—A compound unlikely to be found in a sample, which is spiked into the sample in a known amount before extraction, and which is quantified with the same procedures used to quantify other sample components. The purpose of the surrogate is to monitor method performance with each sample.
 Method 609—Nitroaromatics and Isophorone
 1. Scope and Application
 1.1 This method covers the determination of certain nitroaromatics and isophorone. The following parameters may be determined by this method:
@@ -2445,9 +3010,9 @@ Method 611—Haloethers
 Parameter | STORET No. | CAS No.
 Bis(2-chloroethyl) ether | 34273 | 111-44-4
 Bis(2-chloroethoxy) methane | 34278 | 111-91-1
-Bis(2-chloroisopropyl) ether | 34283 | 108-60-1
+2, 2′-oxybis (1-chloropropane) | 34283 | 108-60-1
 4-Bromophenyl phenyl ether | 34636 | 101-55-3
-4-Chlorophenyl phenyl either | 34641 | 7005-72-3
+4-Chlorophenyl phenyl ether | 34641 | 7005-72-3
 1.2 This is a gas chromatographic (GC) method applicable to the determination of the compounds listed above in municipal and industrial discharges as provided under 40 CFR 136.1. When this method is used to analyze unfamiliar samples for any or all of the compounds above, compound identifications should be supported by at least one additional qualitative technique. This method describes analytical conditions for a second gas chromatographic column that can be used to confirm measurements made with the primary column. Method 625 provides gas chromatograph/mass spectrometer (GC/MS) conditions appropriate for the qualitative and quantitative confirmation of results for all of the parameters listed above, using the extract produced by this method.
 1.3 The method detection limit (MDL, defined in Section 14.1) 1 for each parameter is listed in Table 1. The MDL for a specific wastewater may differ from those listed, depending upon the nature of interferences in the sample matrix.
 1.4 The sample extraction and concentration steps in this method are essentially the same as in Methods 606, 608, 609, and 612. Thus, a single sample may be extracted to measure the parameters included in the scope of each of these methods. When cleanup is required, the concentration levels must be high enough to permit selecting aliquots, as necessary, to apply appropriate cleanup procedures. The analyst is allowed the latitude, under Section 12, to select chromatographic conditions appropriate for the simultaneous measurement of combinations of these parameters.
@@ -3092,272 +3657,518 @@ sr′ = Expected single analyst standard deviation of measurements at an average
 S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L.
 C = True value for the concentration, in µg/L.
 X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
-Method 624—Purgeables
+Method 624.1—Purgeables by GC/MS
 1. Scope and Application
-1.1 This method covers the determination of a number of purgeable organics. The following parameters may be determined by this method:
-Parameter | STORET No. | CAS No.
-Benzene | 34030 | 71-43-2
-Bromodichloromethane | 32101 | 75-27-4
-Bromoform | 32104 | 75-25-2
-Bromomethane | 34413 | 74-83-9
-Carbon tetrachloride | 32102 | 56-23-5
-Chlorobenzene | 34301 | 108-90-7
-Chloroethane | 34311 | 75-00-3
-2-Chloroethylvinyl ether | 34576 | 110-75-8
-Chloroform | 32106 | 67-66-3
-Chloromethane | 34418 | 74-87-3
-Dibromochloromethane | 32105 | 124-48-1
-1,2-Dichlorobenzene | 34536 | 95-50-1
-1,3-Dichlorobenzene | 34566 | 541-73-1
-1,4-Dichlorobenzene | 34571 | 106-46-7
-1,1-Dichloroethane | 34496 | 75-34-3
-1,2-Dichloroethane | 34531 | 107-06-2
-1,1-Dichloroethane | 34501 | 75-35-4
-trans-1,2-Dichloroethene | 34546 | 156-60-5
-1,2-Dichloropropane | 34541 | 78-87-5
-cis-1,3-Dichloropropene | 34704 | 10061-01-5
-trans-1,3-Dichloropropene | 34699 | 10061-02-6
-Ethyl benzene | 34371 | 100-41-4
-Methylene chloride | 34423 | 75-09-2
-1,1,2,2-Tetrachloroethane | 34516 | 79-34-5
-Tetrachloroethene | 34475 | 127-18-4
-Toluene | 34010 | 108-88-3
-1,1,1-Trichloroethene | 34506 | 71-55-6
-1,1,2-Trichloroethene | 34511 | 79-00-5
-Trichloroethane | 39180 | 79-01-6
-Trichlorofluoromethane | 34488 | 75-69-4
-Vinyl chloride | 39175 | 75-01-4
-1.2 The method may be extended to screen samples for acrolein (STORET No. 34210, CAS No. 107-02-8) and acrylonitrile (STORET No. 34215, CAS No. 107-13-1), however, the preferred method for these two compounds in Method 603.
-1.3 This is a purge and trap gas chromatographic/mass spectrometer (GC/MS) method applicable to the determination of the compounds listed above in municipal and industrial discharges as provided under 40 CFR 136.1.
-1.4 The method detection limit (MDL, defined in Section 14.1) 1 for each parameter is listed in Table 1. The MDL for a specific wastewater may differ from those listed, depending upon the nature of interferences in the sample matrix.
-1.5 Any modification to this method, beyond those expressly permitted, shall be considered as a major modification subject to application and approval of alternate test procedures under 40 CFR 136.4 and 136.5. Depending upon the nature of the modification and the extent of intended use, the applicant may be required to demonstrate that the modifications will produce equivalent results when applied to relevant wastewaters.
-1.6 This method is restricted to use by or under the supervision of analysts experienced in the operation of a purge and trap system and a gas chromatograph/mass spectrometer and in the interpretation of mass spectra. Each analyst must demonstrate the ability to generate acceptable results with this method using the procedure described in Section 8.2.
+1.1 This method is for determination of purgeable organic pollutants in industrial discharges and other environmental samples by gas chromatography combined with mass spectrometry (GC/MS), as provided under 40 CFR 136.1. This revision is based on previous protocols (References 1—3), on the revision promulgated October 26, 1984, and on an interlaboratory method validation study (Reference 4). Although this method was validated through an interlaboratory study conducted in the early 1980s, the fundamental chemistry principles used in this method remain sound and continue to apply.
+1.2 The analytes that may be qualitatively and quantitatively determined using this method and their CAS Registry numbers are listed in Table 1. The method may be extended to determine the analytes listed in Table 2; however, poor purging efficiency or gas chromatography of some of these analytes may make quantitative determination difficult. For example, an elevated temperature may be required to purge some analytes from water. If an elevated temperature is used, calibration and all quality control (QC) tests must be performed at the elevated temperature. EPA encourages the use of this method to determine additional compounds amenable to purge-and-trap GC/MS.
+1.3 The large number of analytes in Tables 1 and 2 of this method makes testing difficult if all analytes are determined simultaneously. Therefore, it is necessary to determine and perform QC tests for "analytes of interest" only. Analytes of interest are those required to be determined by a regulatory/control authority or in a permit, or by a client. If a list of analytes is not specified, the analytes in Table 1 must be determined, at a minimum, and QC testing must be performed for these analytes. The analytes in Table 1 and some of the analytes in Table 2 have been identified as Toxic Pollutants (40 CFR 401.15), expanded to a list of Priority Pollutants (40 CFR part 423, appendix A).
+1.4 Method detection limits (MDLs; Reference 5) for the analytes in Table 1 are listed in that table. These MDLs were determined in reagent water (Reference 6). Advances in analytical technology, particularly the use of capillary (open-tubular) columns, allowed laboratories to routinely achieve MDLs for the analytes in this method that are 2-10 times lower than those in the version promulgated in 1984. The MDL for a specific wastewater may differ from those listed, depending on the nature of interferences in the sample matrix.
+1.4.1 EPA has promulgated this method at 40 CFR part 136 for use in wastewater compliance monitoring under the National Pollutant Discharge Elimination System (NPDES). The data reporting practices described in section 13.2 are focused on such monitoring needs and may not be relevant to other uses of the method.
+1.4.2 This method includes "reporting limits" based on EPA's "minimum level" (ML) concept (see the glossary in section 20). Table 1 contains MDL values and ML values for many of the analytes. The MDL for an analyte in a specific wastewater may differ from that listed in Table 1, depending upon the nature of interferences in the sample matrix.
+1.5 This method is performance-based. It may be modified to improve performance (e.g., to overcome interferences or improve the accuracy of results) provided all performance requirements are met.
+1.5.1 Examples of allowed method modifications are described at 40 CFR 136.6. Other examples of allowed modifications specific to this method are described in section 8.1.2.
+1.5.2 Any modification beyond those expressly allowed at 40 CFR 136.6 or in section 8.1.2 of this method shall be considered a major modification that is subject to application and approval of an alternate test procedure under 40 CFR 136.4 and 136.5.
+1.5.3 For regulatory compliance, any modification must be demonstrated to produce results equivalent or superior to results produced by this method when applied to relevant wastewaters (section 8.3).
+1.6 This method is restricted to use by or under the supervision of analysts experienced in the operation of a purge-and-trap system and a gas chromatograph/mass spectrometer and in the interpretation of mass spectra. Each analyst must demonstrate the ability to generate acceptable results with this method using the procedure in section 8.2.
+1.7 Terms and units of measure used in this method are given in the glossary at the end of the method.
 2. Summary of Method
-2.1 An inert gas is bubbled through a 5-mL water sample contained in a specially-designed purging chamber at ambient temperature. The purgeables are efficiently transferred from the aqueous phase to the vapor phase. The vapor is swept through a sorbent trap where the purgeables are trapped. After purging is completed, the trap is heated and backflushed with the inert gas to desorb the purgeables onto a gas chromatographic column. The gas chromatograph is temperature programmed to separate the purgeables which are then detected with a mass spectrometer. 2 3
+2.1 A gas is bubbled through a measured volume of water in a specially-designed purging chamber. The purgeables are efficiently transferred from the aqueous phase to the vapor phase. The vapor is swept through a sorbent trap where the purgeables are trapped. After purging is completed, the trap is heated and backflushed with the gas to desorb the purgeables onto a gas chromatographic column. The column is temperature programmed to separate the purgeables which are then detected with a mass spectrometer.
+2.2 Different sample sizes in the range of 5-25 mL are allowed in order to meet differing sensitivity requirements. Calibration and QC samples must have the same volume as field samples.
 3. Interferences
-3.1 Impurities in the purge gas, organic compounds outgassing from the plumbing ahead of the trap, and solvent vapors in the laboratory account for the majority of contamination problems. The analytical system must be demonstated to be free from contamination under the conditions of the analysis by running laboratory reagent blanks as described in Section 8.1.3. The use of non-Teflon plastic tubing, non-Teflon thread sealants, or flow controllers with rubber components in the purge and trap system should be avoided.
-3.2 Samples can be contaminated by diffusion of volatile organics (particularly fluorocarbons and methylene chloride) through the septum seal into the sample during shipment and storage. A field reagent blank prepared from reagent water and carried through the sampling and handling protocol can serve as a check on such contamination.
-3.3 Contamination by carry-over can occur whenever high level and low level samples are sequentially analyzed. To reduce carry-over, the purging device and sample syringe must be rinsed with reagent water between sample analyses. Whenever an unusually concentrated sample is encountered, it should be followed by an analysis of reagent water to check for cross contamination. For samples containing large amounts of water-soluble materials, suspended solids, high boiling compounds or high pureeable levels, it may be necessary to wash the purging device with a detergent solution, rinse it with distilled water, and then dry it in a 105 °C oven between analyses. The trap and other parts of the system are also subject to contamination; therefore, frequent bakeout and purging of the entire system may be required.
+3.1 Impurities in the purge gas, organic compounds outgassing from the plumbing ahead of the trap, and solvent vapors in the laboratory account for the majority of contamination problems. The analytical system must be demonstrated to be free from contamination under the conditions of the analysis by analyzing blanks initially and with each analytical batch (samples analyzed on a given 12-hour shift, to a maximum of 20 samples), as described in Section 8.5. Fluoropolymer tubing, fittings, and thread sealant should be used to avoid contamination.
+3.2 Samples can be contaminated by diffusion of volatile organics (particularly fluorocarbons and methylene chloride) through the septum seal into the sample during shipment and storage. Protect samples from sources of volatiles during collection, shipment, and storage. A reagent water field blank carried through sampling and analysis can serve as a check on such contamination.
+3.3 Contamination by carry-over can occur whenever high level and low level samples are analyzed sequentially. To reduce the potential for carry-over, the purging device and sample syringe must be rinsed with reagent water between sample analyses. Whenever an unusually concentrated sample is encountered, it should be followed by an analysis of a blank to check for cross contamination. For samples containing large amounts of water-soluble materials, suspended solids, high boiling compounds or high purgeable levels, it may be necessary to wash the purging device with a detergent solution, rinse it with distilled water, and then dry it in a 105 °C oven between analyses. The trap and other parts of the system are also subject to contamination; therefore, frequent bakeout and purging of the entire system may be required. Screening samples at high dilution may prevent introduction of contaminants into the system.
 4. Safety
-4.1 The toxicity or carcinogenicity of each reagent used in this method has not been precisely defined; however, each chemical compound should be treated as a potential health hazard. From this viewpoint, exposure to these chemicals must be reduced to the lowest possible level by whatever means available. The laboratory is responsible for maintaining a current awareness file of OSHA regulations regarding the safe handling of the chemicals specified in this methmd. A reference file of material data handling sheets should also be made available to all personnel involved in the chemical analysis. Additional references to laboratory safety are available and have been identified 4-6 for the information of the analyst.
-4.2. The following parameters covered by this method have been tentatively classified as known or suspected, human or mammalian carcinogens: benzene, carbon tetrachloride, chloroform, 1,4-dichlorobenzene, and vinyl chloride. Primary standards of these toxic compounds should be prepared in a hood. A NIOSH/MESA approved toxic gas respirator should be worn when the analyst handles high concentrations of these toxic compounds.
+4.1 The toxicity or carcinogenicity of each reagent used in this method has not been precisely defined; however, each chemical compound should be treated as a potential health hazard. From this viewpoint, exposure to these chemicals must be reduced to the lowest possible level. The laboratory is responsible for maintaining a current awareness file of OSHA regulations regarding the safe handling of the chemicals specified in this method. A reference file of safety data sheets (SDSs, OSHA, 29 CFR 1910.1200(g)) should also be made available to all personnel involved in sample handling and chemical analysis. Additional references to laboratory safety are available and have been identified (References 7-9) for the information of the analyst.
+4.2. The following analytes covered by this method have been tentatively classified as known or suspected human or mammalian carcinogens: Benzene; carbon tetrachloride; chloroform; 1,4-dichlorobenzene; 1,2-dichloroethane; 1,2-dichloropropane; methylene chloride; tetrachloroethylene; trichloroethylene; and vinyl chloride. Primary standards of these toxic compounds should be prepared in a chemical fume hood, and a NIOSH/MESA approved toxic gas respirator should be worn when handling high concentrations of these compounds.
+4.3 This method allows the use of hydrogen as a carrier gas in place of helium (Section 5.3.1.2). The laboratory should take the necessary precautions in dealing with hydrogen, and should limit hydrogen flow at the source to prevent buildup of an explosive mixture of hydrogen in air.
 5. Apparatus and Materials
-5.1 Sampling equipment, for discrete sampling.
-5.1.1 Vial—25-mL capacity or larger, equipped with a screw cap with a hole in the center (Pierce #13075 or equivalent). Detergent wash, rinse with tap and distilled water, and dry at 105 °C before use.
-5.1.2 Septum—Teflon-faced silicane (Pierce #12722 or equivalent). Detergent wash, rinse with tap and distilled water, and dry at 105 °C for 1 h before use.
-5.2 Purge and trap system—The purge and trap system consists of three separate pieces of equipment: A purging device, trap, and desorber. Several complete systems are now commercially available.
-5.2.1 The purging device must be designed to accept 5-mL samples with a water column at least 3 cm deep. The gaseous head space between the water column and the trap must have a total volume of less than 15 mL. The purge gas must pass though the water column as finely divided bubbles with a diameter of less than 3 mm at the origin. The purge gas must be introduced no more than 5 mm from the base of the water column. The purging device illustrated in Figure 1 meets these design criteria.
-5.2.2 The trap must be at least 25 cm long and have an inside diameter of at least 0.105 in. The trap must be packed to contain the following minimum lengths of adsorbents: 1.0 cm of methyl silicone coated packing (Section 6.3.2), 15 cm of 2,6-dyphenylene oxide polymer (Section 6.3.1), and 8 cm of silica gel (Section 6.3.3). The minimum specifications for the trap are illustrated in Figure 2.
-5.2.3 The desorber should be capable of rapidly heating the trap to 180 °C. The polymer section of the trap should not be heated higher than 180 °C and the remaining sections should not exceed 200 °C. The desorber illustrated in Figure 2 meets these design criteria.
-5.2.4 The purge and trap system may be assembled as a separate unit or be coupled to a gas chromatograph as illustrated in Figures 3 and 4.
-5.3 GC/MS system:
-5.3.1 Gas chromatograph—An analytical system complete with a temperature programmable gas chromatograph suitable for on-column injection and all required accessories including syringes, analytical columns, and gases.
-5.3.2 Column—6 ft long × 0.1 in ID stainless steel or glass, packed with 1% SP-1000 on Carbopack B (60/80 mesh) or equivalent. This column was used to develop the method performance statements in Section 14. Guidelines for the use of alternate column packings are provided in Section 11.1.
-5.3.3 Mass spectrometer—Capable of scanning from 20 to 260 amu every 7 s or less, utilizing 70 V (nominal) electron energy in the electron impact ionization mode, and producing a mass spectrum which meets all the criteria in Table 2 when 50 ng of 4-bromofluorobenzene (BFB) is injected through the GC inlet.
-5.3.4 GC/MS interface—Any GC to MS interface that gives acceptable calibration points at 50 ng or less per injection for each of the parameters of interest and achieves all acceptable performance criteria (Section 10) may be used. GC to MS interfaces constructed of all glass or glass-lined materials are recommended. Glass can be deactivated by silanizing with dichlorodimethylsilane.
-5.3.5 Data system—A computer system must be interfaced to the mass spectrometer that allows the continuous acquisition and storage on machine-readable media of all mass spectra obtained throughout the duration of the chromatographic program. The computer must have software that allows searching any GC/MS data file for specific m/z (masses) and plotting such m/z abundances versus time or scan number. This type of plot is defined as an Extracted Ion Current Profile (EICP). Software must also be available that allows integrating the abundance in any EICP between specified time or scan number limits.
-5.4 Syringes—5-mL, glass hypodermic with Luerlok tip (two each), if applicable to the purging device.
-5.5 Micro syringes—25-µL, 0.006 in. ID needle.
-5.6 Syringe valve—2-way, with Luer ends (three each).
-5.7 Syringe—5-mL, gas-tight with shut-off valve.
-5.8 Bottle—15-mL, screw-cap, with Teflon cap liner.
+Note: Brand names, suppliers, and part numbers are cited for illustration purposes only. No endorsement is implied. Equivalent performance may be achieved using equipment and materials other than those specified here. Demonstration of equivalent performance that meets the requirements of this method is the responsibility of the laboratory. Suppliers for equipment and materials in this method may be found through an on-line search.
+5.1 Sampling equipment for discrete sampling.
+5.1.1 Vial—25- or 40-mL capacity, or larger, with screw cap with a hole in the center (Fisher #13075 or equivalent). Unless pre-cleaned, detergent wash, rinse with tap and reagent water, and dry at 105 ± 5 °C before use.
+5.1.2 Septum—Fluoropolymer-faced silicone (Fisher #12722 or equivalent). Unless pre-cleaned, detergent wash, rinse with tap and reagent water, and dry at 105 ± 5 °C for one hour before use.
+5.2 Purge-and-trap system—The purge-and-trap system consists of three separate pieces of equipment: A purging device, trap, and desorber. Several complete systems are commercially available with autosamplers. Any system that meets the performance requirements in this method may be used.
+5.2.1 The purging device should accept 5- to 25-mL samples with a water column at least 3 cm deep. The purge gas must pass though the water column as finely divided bubbles. The purge gas must be introduced no more than 5 mm from the base of the water column. Purge devices of a different volume may be used so long as the performance requirements in this method are met.
+5.2.2 The trap should be at least 25 cm long and have an inside diameter of at least 0.105 in. The trap should be packed to contain the following minimum lengths of adsorbents: 1.0 cm of methyl silicone coated packing (section 6.3.2), 15 cm of 2,6-diphenylene oxide polymer (section 6.3.1), and 8 cm of silica gel (section 6.3.3). A trap with different dimensions and packing materials is acceptable so long as the performance requirements in this method are met.
+5.2.3 The desorber should be capable of rapidly heating the trap to the temperature necessary to desorb the analytes of interest, and of maintaining this temperature during desorption. The trap should not be heated higher than the maximum temperature recommended by the manufacturer.
+5.2.4 The purge-and-trap system may be assembled as a separate unit or coupled to a gas chromatograph.
+5.3 GC/MS system.
+5.3.1 Gas chromatograph (GC)—An analytical system complete with a temperature programmable gas chromatograph and all required accessories, including syringes and analytical columns. Autosamplers designed for purge-and-trap analysis of volatiles also may be used.
+5.3.1.1 Injection port—Volatiles interface, split, splitless, temperature programmable split/splitless (PTV), large volume, on-column, backflushed, or other.
+5.3.1.2 Carrier gas—Data in the tables in this method were obtained using helium carrier gas. If another carrier gas is used, analytical conditions may need to be adjusted for optimum performance, and calibration and all QC tests must be performed with the alternative carrier gas. See Section 4.3 for precautions regarding the use of hydrogen as a carrier gas.
+5.3.2 GC column—See the footnote to Table 3. Other columns or column systems may be used provided all requirements in this method are met.
+5.3.3 Mass spectrometer—Capable of repetitively scanning from 35-260 Daltons (amu) every 2 seconds or less, utilizing a 70 eV (nominal) electron energy in the electron impact ionization mode, and producing a mass spectrum which meets all criteria in Table 4 when 50 ng or less of 4-bromofluorobenzene (BFB) is injected through the GC inlet. If acrolein, acrylonitrile, chloromethane, and vinyl chloride are to be determined, it may be necessary to scan from below 25 Daltons to measure the peaks in the 26-35 Dalton range for reliable identification.
+5.3.4 GC/MS interface—Any GC to MS interface that meets all performance requirements in this method may be used.
+5.3.5 Data system—A computer system must be interfaced to the mass spectrometer that allows continuous acquisition and storage of mass spectra throughout the chromatographic program. The computer must have software that allows searching any GC/MS data file for specific m/z's (masses) and plotting m/z abundances versus time or scan number. This type of plot is defined as an extracted ion current profile (EICP). Software must also be available that allows integrating the abundance at any EICP between specified time or scan number limits.
+5.4 Syringes—Graduated, 5-25 mL, glass hypodermic with Luerlok tip, compatible with the purging device.
+5.5 Micro syringes—Graduated, 25-1000 µL, with 0.006 in. ID needle.
+5.6 Syringe valve—Two-way, with Luer ends.
+5.7 Syringe—5 mL, gas-tight with shut-off valve.
+5.8 Bottle—15 mL, screw-cap, with Teflon cap liner.
 5.9 Balance—Analytical, capable of accurately weighing 0.0001 g.
 6. Reagents
-6.1 Reagent water—Reagent water is defined as a water in which an interferent is not observed at the MDL of the parameters of interest.
-6.1.1 Reagent water can be generated by passing tap water through a carbon filter bed containing about 1 lb of activated carbon (Filtrasorb-300, Calgon Corp., or equivalent).
-6.1.2 A water purification system (Millipore Super-Q or equivalent) may be used to generate reagent water.
-6.1.3 Reagent water may also be prepared by boiling water for 15 min. Subsequently, while maintaining the temperature at 90 °C, bubble a contaminant-free inert gas through the water for 1 h. While still hot, transfer the water to a narrow mouth screw-cap bottle and seal with a Teflon-lined septum and cap.
+6.1 Reagent water—Reagent water is defined as water in which the analytes of interest and interfering compounds are not detected at the MDLs of the analytes of interest. It may be generated by passing deionized water, distilled water, or tap water through a carbon bed, passing the water through a water purifier, or heating the water to between 90 and 100 °C while bubbling contaminant-free gas through it for approximately 1 hour. While still hot, transfer the water to screw-cap bottles and seal with a fluoropolymer-lined cap.
 6.2 Sodium thiosulfate—(ACS) Granular.
-6.3 Trap materials:
-6.3.1 2,6-Diphenylene oxide polymer—Tenax, (60/80 mesh), chromatographic grade or equivalent.
-6.3.2 Methyl silicone packing—3% OV-1 on Chromosorb-W (60/80 mesh) or equivalent.
-6.3.3 Silica gel—35/60 mesh, Davison, grade-15 or equivalent.
-6.4 Methanol—Pesticide quality or equivalent.
-6.5 Stock standard solutions—Stock standard solutions may be prepared from pure standard materials or purchased as certified solutions. Prepare stock standard solutions in methanol using assayed liquids or gases as appropriate. Because of the toxicity of some of the compounds, primary dilutions of these materials should be prepared in a hood. A NIOSH/MESA approved toxic gas respirator should be used when the analyst handles high concentrations of such materials.
-6.5.1 Place about 9.8 mL of methanol into a 10-mL ground glass stoppered volumetric flask. Allow the flask to stand, unstoppered, for about 10 min or until all alcohol wetted surfaces have dried. Weigh the flask to the nearest 0.1 mg.
-6.5.2 Add the assayed reference material:
-6.5.2.1 Liquids—Using a 100-µL syringe, immediately add two or more drops of assayed reference material to the flask, then reweigh. Be sure that the drops fall directly into the alcohol without contacting the neck of the flask.
-6.5.2.2 Gases—To prepare standards for any of the four halocarbons that boil below 30 °C (bromomethane, chloroethane, chloromethane, and vinyl chloride), fill a 5-mL valved gas-tight syringe with the reference standard to the 5.0-mL mark. Lower the needle to 5 mm above the methanol meniscus. Slowly introduce the reference standard above the surface of the liquid (the heavy gas will rapidly dissolve in the methanol).
-6.5.3 Reweigh, dilute to volume, stopper, then mix by inverting the flask several times. Calculate the concentration in µg/µL from the net gain in weight. When compound purity is assayed to be 96% or greater, the weight may be used without correction to calculate the concentration of the stock standard. Commercially prepared stock standards may be used at any concentration if they are certified by the manufacturer or by an independent source.
-6.5.4 Transfer the stock standard solution into a Teflon-sealed screw-cap bottle. Store, with minimal headspace, at −10 to −20 °C and protect from light.
-6.5.5 Prepare fresh standards weekly for the four gases and 2-chloroethylvinyl ether. All other standards must be replaced after one month, or sooner if comparison with check standards indicates a problem.
-6.6 Secondary dilution standards—Using stock solutions, prepare secondary dilution standards in methanol that contain the compounds of interest, either singly or mixed together. The secondary dilution standards should be prepared at concentrations such that the aqueous calibration standards prepared in Section 7.3 will bracket the working range of the analytical system. Secondary dilution standards should be stored with minimal headspace and should be checked frequently for signs of degradation or evaporation, especially just prior to preparing calibration standards from them.
-6.7 Surrogate standard spiking solution—Select a minimum of three surrogate compounds from Table 3. Prepare stock standard solutions for each surrogate standard in methanol as described in Section 6.5. Prepare a surrogate standard spiking solution from these stock standards at a concentration of 15 µg/mL in water. Store the solutions at 4 °C in Teflon-sealed glass containers with a minimum of headspace. The solutions should be checked frequently for stability. The addition of 10 µL of this solution of 5 mL of sample or standard is equivalent to a concentration of 30 µg/L of each surrogate standard.
-6.8 BFB Standard—Prepare a 25 µg/mL solution of BFB in methanol.
+6.3 Trap materials.
+6.3.1 2,6-Diphenylene oxide polymer—Tenax, 60/80 mesh, chromatographic grade, or equivalent.
+6.3.2 Methyl silicone packing—3% OV-1 on Chromosorb-W, 60/80 mesh, or equivalent.
+6.3.3 Silica gel—35/60 mesh, Davison, Grade-15 or equivalent.
+6.3.4 Other trap materials are acceptable if performance requirements in this method are met.
+6.4 Methanol—Demonstrated to be free from the target analytes and potentially interfering compounds.
+6.5 Stock standard solutions—Stock standard solutions may be prepared from pure materials, or purchased as certified solutions. Traceability must be to the National Institute of Standards and Technology (NIST) or other national or international standard, when available. Stock solution concentrations alternative to those below may be used. Prepare stock standard solutions in methanol using assayed liquids or gases as appropriate. Because some of the compounds in this method are known to be toxic, primary dilutions should be prepared in a hood, and a NIOSH/MESA approved toxic gas respirator should be worn when high concentrations of neat materials are handled. The following procedure may be used to prepare standards from neat materials:
+6.5.1 Place about 9.8 mL of methanol in a 10-mL ground-glass-stoppered volumetric flask. Allow the flask to stand, unstoppered, for about 10 minutes or until all alcohol wetted surfaces have dried. Weigh the flask to the nearest 0.1 mg.
+6.5.2 Add the assayed reference material.
+6.5.2.1 Liquids—Using a 100 µL syringe, immediately add two or more drops of assayed reference material to the flask. Be sure that the drops fall directly into the alcohol without contacting the neck of the flask. Reweigh, dilute to volume, stopper, then mix by inverting the flask several times. Calculate the concentration in µg/µL from the net gain in weight.
+6.5.2.2 Gases—To prepare standards for any of compounds that boil below 30 °C, fill a 5-mL valved gas-tight syringe with reference standard vapor to the 5.0 mL mark. Lower the needle to 5 mm above the methanol meniscus. Slowly introduce the vapor above the surface of the liquid (the vapor will rapidly dissolve in the methanol). Reweigh, dilute to volume, stopper, then mix by inverting the flask several times. Calculate the concentration in µg/µL from the net gain in weight.
+6.5.3 When compound purity is assayed to be 96% or greater, the weight may be used without correction to calculate the concentration of the stock standard. Commercially prepared stock standards may be used at any concentration if they are certified by the manufacturer or by an independent source.
+6.5.4 Prepare fresh standards weekly for the gases and 2-chloroethylvinyl ether. Unless stated otherwise in this method, store non-aqueous standards in fluoropolymer-lined screw-cap, or heat-sealed, glass containers, in the dark at −20 to −10 °C. Store aqueous standards; e.g., the aqueous LCS (section 8.4.1) in the dark at ≤6 °C (but do not freeze) with zero headspace; e.g., in VOA vials (section 5.1.1). Standards prepared by the laboratory may be stored for up to one month, except when comparison with QC check standards indicates that a standard has degraded or become more concentrated due to evaporation, or unless the laboratory has data on file to prove stability for a longer period. Commercially prepared standards may be stored until the expiration date provided by the vendor, except when comparison with QC check standards indicates that a standard has degraded or become more concentrated due to evaporation, or unless the laboratory has data from the vendor on file to prove stability for a longer period.
+Note: 2-Chloroethylvinyl ether has been shown to be stable for as long as one month if prepared as a separate standard, and the other analytes have been shown to be stable for as long as 2 months if stored at less than −10 °C with minimal headspace in sealed, miniature inert-valved vials.
+6.6 Secondary dilution standards—Using stock solutions, prepare secondary dilution standards in methanol that contain the compounds of interest, either singly or mixed. Secondary dilution standards should be prepared at concentrations such that the aqueous calibration standards prepared in section 7.3.2 will bracket the working range of the analytical system.
+6.7 Surrogate standard spiking solution—Select a minimum of three surrogate compounds from Table 5. The surrogates selected should match the purging characteristics of the analytes of interest as closely as possible. Prepare a stock standard solution for each surrogate in methanol as described in section 6.5, and prepare a solution for spiking the surrogates into all blanks, LCSs, and MS/MSDs. Prepare the spiking solution such that spiking a small volume will result in a constant concentration of the surrogates. For example, add 10 µL of a spiking solution containing the surrogates at a concentration of 15 µg/mL in methanol to a 5-mL aliquot of water to produce a concentration of 30 µg/L for each surrogate. Other surrogate concentrations may be used. Store per section 6.5.4.
+6.8 BFB standard—Prepare a solution of BFB in methanol as described in Sections 6.5 and 6.6. The solution should be prepared such that an injection or purging from water will result in introduction of ≤ 50 ng into the GC. BFB may be included in a mixture with the internal standards and/or surrogates.
 6.9 Quality control check sample concentrate—See Section 8.2.1.
 7. Calibration
-7.1 Assemble a purge and trap system that meets the specifications in Section 5.2. Condition the trap overnight at 180 °C by backflushing with an inert gas flow of at least 20 mL/min. Condition the trap for 10 min once daily prior to use.
-7.2 Connect the purge and trap system to a gas chromatograph. The gas chromatograph must be operated using temperature and flow rate conditions equivalent to those given in Table 1.
-7.3 Internal standard calibration procedure—To use this approach, the analyst must select three or more internal standards that are similar in analytical behavior to the compounds of interest. The analyst must further demonstrate that the measurement of the internal standard is not affected by method or matrix interferences. Some recommended internal standards are listed in Table 3.
-7.3.1 Prepare calibration standards at a minimum of three concentration levels for each parameter by carefully adding 20.0 µL of one or more secondary dilution standards to 50, 250, or 500 mL of reagent water. A 25-µL syringe with a 0.006 in. ID needle should be used for this operation. One of the calibration standards should be at a concentration near, but above, the MDL (Table 1) and the other concentrations should correspond to the expected range of concentrations found in real samples or should define the working range of the GC/MS system. These aqueous standards can be stored up to 24 h, if held in sealed vials with zero headspace as described in Section 9.2. If not so stored, they must be discarded after 1 h.
-7.3.2 Prepare a spiking solution containing each of the internal standards using the procedures described in Sections 6.5 and 6.6. It is recommended that the secondary dilution standard be prepared at a concentration of 15 µg/mL of each internal standard compound. The addition of 10 µL of this standard to 5.0 mL of sample or calibration standard would be equivalent to 30 µg/L.
-7.3.3 Analyze each calibration standard according to Section 11, adding 10 µL of internal standard spiking solution directly to the syringe (Section 11.4). Tabulate the area response of the characteristic m/z against concentration for each compound and internal standard, and calculate response factors (RF) for each compound using Equation 1.
-EC15NO91.124
-Equation 1
-where:
-As = Area of the characteristic m/z for the parameter to be measured.
-Ais = Area of the characteristic m/z for the inernal standard.
-Cis = Concentration of the internal standard.
-Cs = Concentration of the parameter to be measured.
-If the RF value over the working range is a constant (<35% RSD), the RF can be assumed to be invariant and the average RF can be used for calculations. Alternatively, the results can be used to plot a calibration curve of response ratios, As/Ais, vs. RF.
-7.4 The working calibration curve or RF must be verified on each working day by the measurement of a QC check sample.
-7.4.1 Prepare the QC check sample as described in Section 8.2.2.
-7.4.2 Analyze the QC check sample according to the method beginning in Section 10.
-7.4.3 For each parameter, compare the response (Q) with the corresponding calibration acceptance criteria found in Table 5. If the responses for all parameters of interest fall within the designated ranges, analysis of actual samples can begin. If any individual Q falls outside the range, proceed according to Section 7.4.4.
-Note: The large number of parameters in Table 5 present a substantial probability that one or more will not meet the calibration acceptance criteria when all parameters are analyzed.
-7.4.4 Repeat the test only for those parameters that failed to meet the calibration acceptance criteria. If the response for a parameter does not fall within the range in this second test, a new calibration curve or RF must be prepared for that parameter according to Section 7.3.
-8. Quality Control
-8.1 Each laboratory that uses this method is required to operate a formal quality control program. The minimum requirements of this program consist of an initial demonstration of laboratory capability and an ongoing analysis of spiked samples to evaluate and document data quality. The laboratory must maintain records to document the quality of data that is generated. Ongoing data quality checks are compared with established performance criteria to determine if the results of analyses meet the performance characteristics of the method. When results of sample spikes indicate atypical method performance, a quality control check standard must be analyzed to confirm that the measurements were performed in an in-control mode of operation.
-8.1.1 The analyst must make an initial, one-time, demonstration of the ability to generate acceptable accuracy and precision with this method. This ability is established as described in Section 8.2.
-8.1.2 In recognition of advances that are occurring in chromatography, the analyst is permitted certain options (detailed in Section 11.1) to improve the separations or lower the cost of measurements. Each time such a modification is made to the method, the analyst is required to repeat the procedure in Section 8.2.
-8.1.3 Each day, the analyst must analyze a reagent water blank to demonstrate that interferences from the analytical system are under control.
-8.1.4 The laboratory must, on an ongoing basis, spike and analyze a minimum of 5% of all samples to monitor and evaluate laboratory data quality. This procedure is described in Section 8.3.
-8.1.5 The laboratory must, on an ongoing basis, demonstrate through the analyses of quality control check standards that the operation of the measurement system is in control. This procedure is described in Section 8.4. The frequency of the check standard analyses is equivalent to 5% of all samples analyzed but may be reduced if spike recoveries from samples (Section 8.3) meet all specified quality control criteria.
-8.1.6 The laboratory must spike all samples with surrogate standards to monitor continuing laboratory performance. This procedure is described in Section 8.5.
-8.1.7 The laboratory must maintain performance records to document the quality of data that is generated. This procedure is described in Section 8.6.
-8.2 To establish the ability to generate acceptable accuracy and precision, the analyst must perform the following operations.
-8.2.1 A quality control (QC) check sample concentrate is required containing each parameter of interest at a concentration of 10 µg/mL in methanol. The QC check sample concentrate must be obtained from the U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory in Cincinnati, Ohio, if available. If not available from that source, the QC check sample concentrate must be obtained from another external source. If not available from either source above, the QC check sample concentrate must be prepared by the laboratory using stock standards prepared independently from those used for calibration.
-8.2.2 Prepare a QC check sample to contain 20 µg/L of each parameter by adding 200 µL of QC check sample concentrate to 100 mL of reagent water.
-8.2.3 Analyze four 5-mL aliquots of the well-mixed QC check sample according to the method beginning in Section 10.
-8.2.4 Calculate the average recovery (X) in µg/L, and the standard deviation of the recovery (s) in µg/L, for each parameter of interest using the four results.
-8.2.5 For each parameter compare s and X with the corresponding acceptance criteria for precision and accuracy, respectively, found in Table 5. If s and X for all parameters of interest meet the acceptance criteria, the system performance is acceptable and analysis of actual samples can begin. If any individual s exceeds the precision limit or any individual X falls outside the range for accuracy, the system performance is unacceptable for that parameter.
-Note: The large number of parameters in Table 5 present a substantial probability that one or more will fail at least one of the acceptance criteria when all parameters are analyzed.
-8.2.6 When one or more of the parameters tested fail at least one of the acceptance criteria, the analyst must proceed according to Section 8.2.6.1 or 8.2.6.2.
-8.2.6.1 Locate and correct the source of the problem and repeat the test for all parameters of interest beginning with Section 8.2.3.
-8.2.6.2 Beginning with Section 8.2.3, repeat the test only for those parameters that failed to meet criteria. Repeated failure, however, will confirm a general problem with the measurement system. If this occurs, locate and correct the source of the problem and repeat the test for all compounds of interest beginning with Section 8.2.3.
-8.3 The laboratory must, on an ongoing basis, spike at least 5% of the samples from each sample site being monitored to assess accuracy. For laboratories analyzing 1 to 20 samples per month, at least one spiked sample per month is required.
-8.3.1 The concentration of the spike in the sample should be determined as follows:
-8.3.1.1 If, as in compliance monitoring, the concentration of a specific parameter in the sample is being checked against a regulatory concentration limit, the spike should be at that limit or 1 to 5 times higher than the background concentration determined in Section 8.3.2, whichever concentration would be larger.
-8.3.1.2 If the concentration of a specific parameter in the sample is not being checked against a limit specific to that parameter, the spike should be at 20 µg/L or 1 to 5 times higher than the background concentration determined in Section 8.3.2, whichever concentration would be larger.
-8.3.2 Analyze one 5-mL sample aliquot to determine the background concentration (B) of each parameter. If necessary, prepare a new QC check sample concentrate (Section 8.2.1) appropriate for the background concentrations in the sample. Spike a second 5-mL sample aliquot with 10 µL of the QC check sample concentrate and analyze it to determine the concentration after spiking (A) of each parameter. Calculate each percent recovery (P) as 100(A−B)%/T, where T is the known true value of the spike.
-8.3.3 Compare the percent recovery (P) for each parameter with the corresponding QC acceptance criteria found in Table 5. These acceptance criteria wer calculated to include an allowance for error in measurement of both the background and spike concentrations, assuming a spike to background ratio of 5:1. This error will be accounted for to the extent that the analyst's spike to background ratio approaches 5:1. 7 If spiking was performed at a concentration lower than 20 µg/L, the analyst must use either the QC acceptance criteria in Table 5, or optional QC acceptance criteria calculated for the specific spike concentration. To calculate optional acceptance criteria for the recoveryof a parameter: (1) Calculate accuracy (X′) using the equation in Table 6, substituting the spike concentration (T) for C; (2) calculate overall precision (S′) using the equation in Table 6, substituting X′ for X; (3) calculate the range for recovery at the spike concentration as (100 X′/T) (±2.44(100 S′/T)%. 7
-8.3.4 If any individual P falls outside the designated range for recovery, that parameter has failed the acceptance criteria. A check standard containing each parameter that failed the criteria must be analyzed as described in Section 8.4.
-8.4 If any parameter fails the acceptance criteria for recovery in Section 8.3, a QC check standard containing each parameter that failed must be prepared and analyzed.
-Note: The frequency for the required anlaysis of a QC check standard will depend upon the number of parameters being simultaneously tested, the complexity of the sample matrix, and the performance of the laboratory. If the entire list of parameters in Table 5 must be measured in the sample in Section 8.3, the probability that the analysis of a QC check standard will be required is high. In this case the QC check standard should be routinely analyzed with the spiked sample.
-8.4.1 Prepare the QC check standard by adding 10 µL of QC check sample concentrate (Section 8.2.1 or 8.3.2) to 5 mL of reagent water. The QC check standard needs only to contain the parameters that failed criteria in the test in Section 8.3.
-8.4.2 Analyze the QC check standard to determine the concentration measured (A) of each parameter. Calculate each percent recovery (PS) as 100 (A/T)%, where T is the true value of the standard concentration.
-8.4.3 Compare the percent recovery (PS) for each parameter with the corresponding QC acceptance criteria found in Table 5. Only parameters that failed the test in Section 8.3 need to be compared with these criteria. If the recovery of any such parameter falls outside the designated range, the laboratory performance for that parameter is judged to be out of control, and the problem must be immediately identified and corrected. The analytical result for that parameter in the unspiked sample is suspect and may not be reported for regulatory compliance purposes.
-8.5 As a quality control check, the laboratory must spike all samples with the surrogate standard spiking solutions as described in Section 11.4, and calculate the percent recovery of each surrogate compound.
-8.6 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P—2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter a regular basis (e.g. after each five to ten new accuracy measurements).
-8.7 It is recommended that the laboratory adopt additional quality assurance practices for use with this method. The specific practices that are most productive depend upon the needs of the laboratory and the nature of the samples. Field duplicates may be analyzed to assess the precision of the environmental measurements. Whenever possible, the laboratory should analyze standard reference materials and participate in relevant performance evaluation studies.
-9. Sample Collection, Preservation, and Handling
-9.1 All samples must be iced or refrigerated from the time of collection until analysis. If the sample contains residual chlorine, add sodium thiosulfate preservative (10 mg/40 mL is sufficient for up to 5 ppm Cl2) to the empty sample bottle just prior to shipping to the sampling site. EPA Methods 330.4 and 330.5 may be used for measurement of residual chlorine. 8 Field test kits are available for this purpose.
-9.2 Grab samples must be collected in glass containers having a total volume of at least 25 mL. Fill the sample bottle just to overflowing in such a manner that no air bubbles pass through the sample as the bottle is being filled. Seal the bottle so that no air bubbles are entrapped in it. If preservative has been added, shake vigorously for 1 min. Maintain the hermetic seal on the sample bottle until time of analysis.
-9.3 Experimental evidence indicates that some aromatic compounds, notably benzene, toluene, and ethyl benzene are susceptible to rapid biological degradation under certain environmental conditions. 3 Refrigeration alone may not be adequate to preserve these compounds in wastewaters for more than seven days. For this reason, a separate sample should be collected, acidified, and analyzed when these aromatics are to be determined. Collect about 500 mL of sample in a clean container. Adjust the pH of the sample to about 2 by adding 1 + 1 HCl while stirring vigorously, Check pH with narrow range (1.4 to 2.8) pH paper. Fill a sample container as described in Section 9.2.
-9.4 All samples must be analyzed within 14 days of collection. 3
-10. Daily GC/MS Performance Tests
-10.1 At the beginning of each day that analyses are to be performed, the GC/MS system must be checked to see if acceptable performance criteria are achieved for BFB. 9 The performance test must be passed before any samples, blanks, or standards are analyzed, unless the instrument has met the DFTPP test described in Method 625 earlier in the day. 10
-10.2 These performance tests require the following instrumental parameters:
-Electron Energy: 70 V (nominal)
-Mass Range: 20 to 260 amu
-Scan Time: To give at least 5 scans per peak but not to exceed 7 s per scan.
-10.3 At the beginning of each day, inject 2 µL of BFB solution directly on the column. Alternatively, add 2 µL of BFB solution to 5.0 mL of reagent water or standard solution and analyze the solution according to section 11. Obtain a background-corrected mass spectrum of BFB and confirm that all the key m/z criteria in Table 2 are achieved. If all the criteria are not achieved, the analyst must retune the mass spectrometer and repeat the test until all criteria are achieved.
-11. Sample Purging and Gas Chromatography
-11.1 Table 1 summarizes the recommended operating conditions for the gas chromatograph. Included in this table are retention times and MDL that can be achieved under these conditions. An example of the separations achieved by this column is shown in Figure 5. Other packed columns or chromatographic conditions may be used if the requirements of Section 8.2 are met.
-11.2 After achieving the key m/z abundance criteria in Section 10, calibrate the system daiy as described in Section 7.
-11.3 Adjust the purge gas (helium) flow rate to 40 mL/min. Attach the trap inlet to the purging device, and set the purge and trap system to purge (Figure 3). Open the syringe valve located on the purging device sample introduction needle.
-11.4 Allow the sample to come to ambient temperature prior to introducing it into the syringe. Remove the plunger from a 5-mL syringe and attach a closed syringe valve. Open the sample bottle (or standard) and carefully pour the sample into the syringe barrel to just short of overflowing. Replace the syringe plunger and compress the sample. Open the syringe valve and vent any residual air while adjusting the sample volume to 5.0 mL. Since this process of taking an aliquot destroys the validity of the sample for future analysis, the analyst should fill a second syringe at this time to protect against possible loss of data. Add 10.0 µL of the surrogate spiking solution (Section 6.7) and 10.0 µL of the internal standard spiking solution (Section 7.3.2) through the valve bore, then close the valve. The surrogate and internal standards may be mixed and added as a single spiking solution.
-11.5 Attach the syringe-syringe valve assembly to the syringe valve on the purging device. Open the syringe valves and inject the sample into the purging chamber.
-11.6 Close both valves and purge the sample for 11.0 ±0.1 min at ambient temperature.
-11.7 After the 11-min purge time, attach the trap to the chromatograph, adjust the purge and trap system to the desorb mode (Figure 4), and begin to temperature program the gas chromatograph. Introduce the trapped materials to the GC column by rapidly heating the trap to 180 °C while backflushing the trap with an inert gas between 20 and 60 mL/min for 4 min. If rapid heating of the trap cannot be achieved, the GC cloumn must be used as a secondary trap by cooling it to 30 °C (subambient temperature, if problems persist) instead of the initial program temperature of 45 °C.
-11.8 While the trap is being desorbed into the gas chromatograph, empty the purging chamber using the sample introduction syringe. Wash the chamber with two 5-mL flushes of reagent water.
-11.9 After desorbing the sample for 4 min, recondition the trap by returning the purge and trap system to the purge mode. Wait 15 s then close the syringe valve on the purging device to begin gas flow through the trap. The trap temperature should be maintained at 180 °C. After approximately 7 min, turn off the trap heater and open the syringe valve to stop the gas flow through the trap. When the trap is cool, the next sample can be analyzed.
-11.10 If the response for any m/z exceeds the working range of the system, prepare a dilution of the sample with reagent water from the aliquot in the second syringe and reanalyze.
-12. Qualitative Identification
-12.1 Obtain EICPs for the primary m/z (Table 4) and at least two secondary masses for each parameter of interest. The following criteria must be met to make a qualitative identification:
-12.1.1 The characteristic masses of each parameter of interest must maximize in the same or within one scan of each other.
-12.1.2 The retention time must fall within ±30 s of the retention time of the authentic compound.
-12.1.3 The relative peak heights of the three characteristic masses in the EICPs must fall within ±20% of the relative intensities of these masses in a reference mass spectrum. The reference mass spectrum can be obtained from a standard analyzed in the GC/MS system or from a reference library.
-12.2 Structural isomers that have very similar mass spectra and less than 30 s difference in retention time, can be explicitly identified only if the resolution between authentic isomers in a standard mix is acceptable. Acceptable resolution is achieved if the baseline to valley height between the isomers is less than 25% of the sum of the two peak heights. Otherwise, structural isomers are identified as isomeric pairs.
-13. Calculations
-13.1 When a parameter has been identified, the quantitation of that parameter should be based on the integrated abundance from the EICP of the primary characteristic m/z given in Table 4. If the sample produces an interference for the primary m/z, use a secondary characteristic m/z to quantitate.
-Calculate the concentration in the sample using the response factor (RF) determined in Section 7.3.3 and Equation 2.
-EC15NO91.125
-Equation 2
-where:
-AS = Area of the characteristic m/z for the parameter or surrogate standard to be measured.
+7.1 Assemble a purge-and-trap system that meets the specifications in Section 5.2. Prior to first use, condition the trap overnight at 180 °C by backflushing with gas at a flow rate of at least 20 mL/min. Condition the trap after each analysis at a temperature and time sufficient to prevent detectable concentrations of the analytes or contaminants in successive analyses.
+7.2 Connect the purge-and-trap system to the gas chromatograph. The gas chromatograph should be operated using temperature and flow rate conditions equivalent to those given in the footnotes to Table 3. Alternative temperature and flow rate conditions may be used provided that performance requirements in this method are met.
+7.3 Internal standard calibration.
+7.3.1 Internal standards.
+7.3.1.1 Select three or more internal standards similar in chromatographic behavior to the compounds of interest. Suggested internal standards are listed in Table 5. Use the base peak m/z as the primary m/z for quantification of the standards. If interferences are found at the base peak, use one of the next two most intense m/z's for quantitation. Demonstrate that measurements of the internal standards are not affected by method or matrix interferences.
+7.3.1.2 To assure accurate analyte identification, particularly when selected ion monitoring (SIM) is used, it may be advantageous to include more internal standards than those suggested in Section 7.3.1.1. An analyte will be located most accurately if its retention time relative to an internal standard is in the range of 0.8 to 1.2.
+7.3.1.3 Prepare a stock standard solution for each internal standard in methanol as described in Section 6.5, and prepare a solution for spiking the internal standards into all blanks, LCSs, and MS/MSDs. Prepare the spiking solution such that spiking a small volume will result in a constant concentration of the internal standards. For example, add 10 µL of a spiking solution containing the internal standards at a concentration of 15 µg/mL in methanol to a 5-mL aliquot of water to produce a concentration of 30 µg/L for each internal standard. Other concentrations may be used. The internal standard solution and the surrogate standard spiking solution (Section 6.7) may be combined, if desired. Store per section 6.5.4.
+7.3.2 Calibration.
+7.3.2.1 Calibration standards.
+7.3.2.1.1 Prepare calibration standards at a minimum of five concentration levels for each analyte of interest by adding appropriate volumes of one or more stock standards to a fixed volume (e.g., 40 mL) of reagent water in volumetric glassware. Fewer levels may be necessary for some analytes based on the sensitivity of the MS, but no fewer than 3 levels may be used, and only the highest or lowest point(s) may be dropped from the calibration. One of the calibration standards should be at a concentration at or below the ML or as specified by a regulatory/control authority or in a permit. The ML value may be rounded to a whole number that is more convenient for preparing the standard, but must not exceed the ML values listed in Table 1 for those analytes which list ML values. Alternatively, the laboratory may establish the ML for each analyte based on the concentration of the lowest calibration standard in a series of standards produced in the laboratory or obtained from a commercial vendor, again, provided that the ML value does not exceed the MLs in Table 1, and provided that the resulting calibration meets the acceptance criteria in Section 7.3.4, based on the RSD, RSE, or R2. The concentrations of the higher standards should correspond to the expected range of concentrations found in real samples, or should define the working range of the GC/MS system for full-scan and/or SIM operation, as appropriate. A minimum of six concentration levels is required for a second order, non-linear (e.g., quadratic; ax2 + bx + c = 0) calibration. Calibrations higher than second order are not allowed.
+7.3.2.1.2 To each calibration standard or standard mixture, add a known constant volume of the internal standard spiking solution (section 7.3.1.3) and surrogate standard spiking solution (section 6.7) or the combined internal standard solution and surrogate spiking solution (section 7.3.1.3). Aqueous standards may be stored up to 24 hours, if held in sealed vials with zero headspace. If not so stored, they must be discarded after one hour.
+7.3.2.2 Prior to analysis of the calibration standards, analyze the BFB standard (section 6.8) and adjust the scan rate of the MS to produce a minimum of 5 mass spectra across the BFB GC peak, but do not exceed 2 seconds per scan. Adjust instrument conditions until the BFB criteria in Table 4 are met. Once the scan conditions are established, they must be used for analyses of all standards, blanks, and samples.
+Note: The BFB spectrum may be evaluated by summing the intensities of the m/z's across the GC peak, subtracting the background at each m/z in a region of the chromatogram within 20 scans of but not including any part of the BFB peak. The BFB spectrum may also be evaluated by fitting a Gaussian to each m/z and using the intensity at the maximum for each Gaussian, or by integrating the area at each m/z and using the integrated areas. Other means may be used for evaluation of the BFB spectrum so long as the spectrum is not distorted to meet the criteria in Table 4.
+7.3.2.3 Analyze the mid-point standard and enter or review the retention time, relative retention time, mass spectrum, and quantitation m/z in the data system for each analyte of interest, surrogate, and internal standard. If additional analytes (Table 2) are to be quantified, include these analytes in the standard. The mass spectrum for each analyte must be comprised of a minimum of 2 m/z's; 3 to 5 m/z's assure more reliable analyte identification. Suggested quantitation m/z's are shown in Table 6 as the primary m/z. For analytes in Table 6 that do not have a secondary m/z, acquire a mass spectrum and enter one or more secondary m/z's for more reliable identification. If an interference occurs at the primary m/z, use one of the secondary m/z's or an alternative m/z. A single m/z only is required for quantitation.
+7.3.2.4 For SIM operation, determine the analytes in each descriptor, the quantitation m/z for each analyte (the quantitation m/z can be the same as for full-scan operation; Section 7.3.2.3), the dwell time on each m/z for each analyte, and the beginning and ending retention time for each descriptor. Analyze the verification standard in scan mode to verify m/z's and establish retention times for the analytes. There must be a minimum of two m/z's for each analyte to assure analyte identification. To maintain sensitivity, the number of m/z's in a descriptor should be limited. For example, for a descriptor with 10 m/z's and a chromatographic peak width of 5 sec, a dwell time of 100 ms at each m/z would result in a scan time of 1 second and provide 5 scans across the GC peak. The quantitation m/z will usually be the most intense peak in the mass spectrum. The quantitation m/z and dwell time may be optimized for each analyte. The acquisition table used for SIM must take into account the mass defect (usually less than 0.2 Dalton) that can occur at each m/z monitored. Refer to the footnotes to Table 3 for establishing operating conditions and to section 7.3.2.2 for establishing scan conditions.
+7.3.2.5 For combined scan and SIM operation, set up the scan segments and descriptors to meet requirements in sections 7.3.2.2-7.3.2.4. Analyze unfamiliar samples in the scan mode to assure that the analytes of interest are determined.
+7.3.3 Analyze each calibration standard according to Section 10 and tabulate the area at the quantitation m/z against concentration for each analyte of interest, surrogate, and internal standard. Calculate the response factor (RF) for each compound at each concentration using Equation 1.
+ER28AU17.012
+Where:
+As = Area of the characteristic m/z for the analyte to be measured.
 Ais = Area of the characteristic m/z for the internal standard.
-Cis = Concentration of the internal standard.
-13.2 Report results in µg/L without correction for recovery data. All QC data obtained should be reported with the sample results.
+Cis = Concentration of the internal standard (µg/L).
+Cs = Concentration of the analyte to be measured (µg/L).
+7.3.4 Calculate the mean (average) and relative standard deviation (RSD) of the response factors. If the RSD is less than 35%, the RF can be assumed to be invariant and the average RF can be used for calculations. Alternatively, the results can be used to fit a linear or quadratic regression of response ratios, As/Ais, vs. concentration ratios Cs/Cis. If used, the regression must be weighted inversely proportional to concentration (1/C). The coefficient of determination (R2) of the weighted regression must be greater than 0.920 (this value roughly corresponds to the RSD limit of 35%). Alternatively, the relative standard error (Reference 10) may be used as an acceptance criterion. As with the RSD, the RSE must be less than 35%. If an RSE less than 35% cannot be achieved for a quadratic regression, system performance is unacceptable, and the system must be adjusted and re-calibrated.
+Note: Using capillary columns and current instrumentation, it is quite likely that a laboratory can calibrate the target analytes in this method and achieve a linearity metric (either RSD or RSE) well below 35%. Therefore, laboratories are permitted to use more stringent acceptance criteria for calibration than described here, for example, to harmonize their application of this method with those from other sources.
+7.4 Calibration verification—Because the analytical system is calibrated by purge of the analytes from water, calibration verification is performed using the laboratory control sample (LCS). See section 8.4 for requirements for calibration verification using the LCS, and the Glossary for further definition.
+8. Quality Control
+8.1 Each laboratory that uses this method is required to operate a formal quality assurance program. The minimum requirements of this program consist of an initial demonstration of laboratory capability and ongoing analysis of spiked samples and blanks to evaluate and document data quality (40 CFR 136.7). The laboratory must maintain records to document the quality of data generated. Results of ongoing performance tests are compared with established QC acceptance criteria to determine if the results of analyses meet performance requirements of this method. When results of spiked samples do not meet the QC acceptance criteria in this method, a quality control check sample (laboratory control sample; LCS) must be analyzed to confirm that the measurements were performed in an in-control mode of operation. A laboratory may develop its own performance criteria (as QC acceptance criteria), provided such criteria are as or more restrictive than the criteria in this method.
+8.1.1 The laboratory must make an initial demonstration of capability (DOC) to generate acceptable precision and recovery with this method. This demonstration is detailed in Section 8.2. On a continuing basis, the laboratory must repeat demonstration of capability (DOC) at least annually.
+8.1.2 In recognition of advances that are occurring in analytical technology, and to overcome matrix interferences, the laboratory is permitted certain options (section 1.5 and 40 CFR 136.6(b)) to improve separations or lower the costs of measurements. These options may include an alternative purge-and-trap device, and changes in both column and type of mass spectrometer (see 40 CFR 136.6(b)(4)(xvi)). Alternative determinative techniques, such as substitution of spectroscopic or immunoassay techniques, and changes that degrade method performance, are not allowed. If an analytical technique other than GC/MS is used, that technique must have a specificity equal to or greater than the specificity of GC/MS for the analytes of interest. The laboratory is also encouraged to participate in inter-comparison and performance evaluation studies (see section 8.8).
+8.1.2.1 Each time a modification is made to this method, the laboratory is required to repeat the procedure in section 8.2. If the detection limit of the method will be affected by the change, the laboratory must demonstrate that the MDLs (40 CFR part 136, appendix B) are lower than one-third the regulatory compliance limit or the MDLs in this method, whichever are greater. If calibration will be affected by the change, the instrument must be recalibrated per section 7. Once the modification is demonstrated to produce results equivalent or superior to results produced by this method, that modification may be used routinely thereafter, so long as the other requirements in this method are met (e.g., matrix spike/matrix spike duplicate recovery and relative percent difference).
+8.1.2.1.1 If a modification is to be applied to a specific discharge, the laboratory must prepare and analyze matrix spike/matrix spike duplicate (MS/MSD) samples (Section 8.3) and LCS samples (section 8.4). The laboratory must include internal standards and surrogates (section 8.7) in each of the samples. The MS/MSD and LCS samples must be fortified with the analytes of interest (section 1.3.). If the modification is for nationwide use, MS/MSD samples must be prepared from a minimum of nine different discharges (See section 8.1.2.1.2), and all QC acceptance criteria in this method must be met. This evaluation only needs to be performed once, other than for the routine QC required by this method (for example it could be performed by the vendor of the alternative materials) but any laboratory using that specific material must have the results of the study available. This includes a full data package with the raw data that will allow an independent reviewer to verify each determination and calculation performed by the laboratory (see section 8.1.2.2.5, items (a)-(l)).
+8.1.2.1.2 Sample matrices on which MS/MSD tests must be performed for nationwide use of an allowed modification:
+(a) Effluent from a publicly owned treatment works (POTW).
+(b) ASTM D5905 Standard Specification for Substitute Wastewater.
+(c) Sewage sludge, if sewage sludge will be in the permit.
+(d) ASTM D1141 Standard Specification for Substitute Ocean Water, if ocean water will be in the permit.
+(e) Untreated and treated wastewaters up to a total of nine matrix types (see https://www.epa.gov/eg/industrial-effluent-guidelines for a list of industrial categories with existing effluent guidelines).
+(i) At least one of the above wastewater matrix types must have at least one of the following characteristics:
+(A) Total suspended solids greater than 40 mg/L.
+(B) Total dissolved solids greater than 100 mg/L.
+(C) Oil and grease greater than 20 mg/L.
+(D) NaCl greater than 120 mg/L.
+(E) CaCO3 greater than 140 mg/L.
+(ii) Results of MS/MSD tests must meet QC acceptance criteria in section 8.3.
+(f) A proficiency testing (PT) sample from a recognized provider, in addition to tests of the nine matrices (section 8.1.2.1.1).
+8.1.2.2 The laboratory is required to maintain records of modifications made to this method. These records include the following, at a minimum:
+8.1.2.2.1 The names, titles, and business street addresses, telephone numbers, and email addresses of the analyst(s) that performed the analyses and modification, and of the quality control officer that witnessed and will verify the analyses and modifications.
+8.1.2.2.2 A list of analytes, by name and CAS Registry Number.
+8.1.2.2.3 A narrative stating reason(s) for the modifications.
+8.1.2.2.4 Results from all quality control (QC) tests comparing the modified method to this method, including:
+(a) Calibration (section 7).
+(b) Calibration verification/LCS (section 8.4).
+(c) Initial demonstration of capability (section 8.2).
+(d) Analysis of blanks (section 8.5).
+(e) Matrix spike/matrix spike duplicate analysis (section 8.3).
+(f) Laboratory control sample analysis (section 8.4).
+8.1.2.2.5 Data that will allow an independent reviewer to validate each determination by tracing the instrument output (peak height, area, or other signal) to the final result. These data are to include:
+(a) Sample numbers and other identifiers.
+(b) Analysis dates and times.
+(c) Analysis sequence/run chronology.
+(d) Sample volume (Section 10).
+(e) Sample dilution (Section 13.2).
+(f) Instrument and operating conditions.
+(g) Column (dimensions, material, etc).
+(h) Operating conditions (temperature program, flow rate, etc).
+(i) Detector (type, operating conditions, etc).
+(j) Chromatograms, mass spectra, and other recordings of raw data.
+(k) Quantitation reports, data system outputs, and other data to link the raw data to the results reported.
+(l) A written Standard Operating Procedure (SOP).
+8.1.2.2.6 Each individual laboratory wishing to use a given modification must perform the start-up tests in section 8.1.2 (e.g., DOC, MDL), with the modification as an integral part of this method prior to applying the modification to specific discharges. Results of the DOC must meet the QC acceptance criteria in Table 7 for the analytes of interest (section 1.3), and the MDLs must be equal to or lower than the MDLs in Table3 for the analytes of interest
+8.1.3 Before analyzing samples, the laboratory must analyze a blank to demonstrate that interferences from the analytical system, labware, and reagents are under control. Each time a batch of samples is analyzed or reagents are changed, a blank must be analyzed as a safeguard against laboratory contamination. Requirements for the blank are given in section 8.5.
+8.1.4 The laboratory must, on an ongoing basis, spike and analyze samples to monitor and evaluate method and laboratory performance on the sample matrix. The procedure for spiking and analysis is given in section 8.3.
+8.1.5 The laboratory must, on an ongoing basis, demonstrate through analysis of a quality control check sample (laboratory control sample, LCS; on-going precision and recovery sample, OPR) that the measurement system is in control. This procedure is given in section 8.4.
+8.1.6 The laboratory must maintain performance records to document the quality of data that is generated. This procedure is given in section 8.8.
+8.1.7 The large number of analytes tested in performance tests in this method present a substantial probability that one or more will fail acceptance criteria when many analytes are tested simultaneously, and a re-test is allowed if this situation should occur. If, however, continued re-testing results in further repeated failures, the laboratory must document and report the failures (e.g., as qualifiers on results), unless the failures are not required to be reported as determined by the regulatory/control authority. Results associated with a QC failure for an analyte regulated in a discharge cannot be used to demonstrate regulatory compliance. QC failures do not relieve a discharger or permittee of reporting timely results.
+8.2 Initial demonstration of capability (DOC)—To establish the ability to generate acceptable recovery and precision, the laboratory must perform the DOC in sections 8.2.1 through 8.2.6 for the analytes of interest. The laboratory must also establish MDLs for the analytes of interest using the MDL procedure at 40 CFR part 136, appendix B. The laboratory's MDLs must be equal to or lower than those listed in Table 1 for those analytes which list MDL values, or lower than one-third the regulatory compliance limit, whichever is greater. For MDLs not listed in Table 1, the laboratory must determine the MDLs using the MDL procedure at 40 CFR part 136, appendix B under the same conditions used to determine the MDLs for the analytes listed in Table 1. All procedures used in the analysis must be included in the DOC.
+8.2.1 For the DOC, a QC check sample concentrate (LCS concentrate) containing each analyte of interest (section 1.3) is prepared in methanol. The QC check sample concentrate must be prepared independently from those used for calibration, but may be from the same source as the second-source standard used for calibration verification/LCS (sections 7.4 and 8.4). The concentrate should produce concentrations of the analytes of interest in water at the mid-point of the calibration range, and may be at the same concentration as the LCS (section 8.4).
+Note: QC check sample concentrates are no longer available from EPA.
+8.2.2 Using a pipet or micro-syringe, prepare four LCSs by adding an appropriate volume of the concentrate to each of four aliquots of reagent water. The volume of reagent water must be the same as the volume that will be used for the sample, blank (section 8.5), and MS/MSD (section 8.3). A volume of 5 mL and a concentration of 20 µg/L were used to develop the QC acceptance criteria in Table 7. An alternative volume and sample concentration may be used, provided that all QC tests are performed and all QC acceptance criteria in this method are met. Also add an aliquot of the surrogate spiking solution (section 6.7) and internal standard spiking solution (section 7.3.1.3) to the reagent-water aliquots.
+8.2.3 Analyze the four LCSs according to the method beginning in section 10.
+8.2.4 Calculate the average percent recovery (X) and the standard deviation of the percent recovery (s) for each analyte using the four results.
+8.2.5 For each analyte, compare s and X with the corresponding acceptance criteria for precision and recovery in Table 7. For analytes in Tables 1 and 2 not listed in Table 7, DOC QC acceptance criteria must be developed by the laboratory. EPA has provided guidance for development of QC acceptance criteria (References 11 and 12). Alternatively, acceptance criteria for analytes not listed in Table 7 may be based on laboratory control charts. If s and X for all analytes of interest meet the acceptance criteria, system performance is acceptable and analysis of blanks and samples may begin. If any individual s exceeds the precision limit or any individual X falls outside the range for recovery, system performance is unacceptable for that analyte.
+Note: The large number of analytes in Tables 1 and 2 present a substantial probability that one or more will fail at least one of the acceptance criteria when many or all analytes are determined simultaneously. Therefore, the analyst is permitted to conduct a "re-test" as described in section 8.2.6.
+8.2.6 When one or more of the analytes tested fail at least one of the acceptance criteria, repeat the test for only the analytes that failed. If results for these analytes pass, system performance is acceptable and analysis of samples and blanks may proceed. If one or more of the analytes again fail, system performance is unacceptable for the analytes that failed the acceptance criteria. Correct the problem and repeat the test (section 8.2). See section 8.1.7 for disposition of repeated failures.
+Note: To maintain the validity of the test and re-test, system maintenance and/or adjustment is not permitted between this pair of tests.
+8.3 Matrix spike and matrix spike duplicate (MS/MSD)—The purpose of the MS/MSD requirement is to provide data that demonstrate the effectiveness of the method as applied to the samples in question by a given laboratory, and both the data user (discharger, permittee, regulated entity, regulatory/control authority, customer, other) and the laboratory share responsibility for provision of such data. The data user should identify the sample and the analytes of interest (section 1.3) to be spiked and provide sufficient sample volume to perform MS/MSD analyses. The laboratory must, on an ongoing basis, spike at least 5% of the samples in duplicate from each discharge being monitored to assess accuracy (recovery and precision). If direction cannot be obtained from the data user, the laboratory must spike at least one sample in duplicate per extraction batch of up to 20 samples with the analytes in Table 1. Spiked sample results should be reported only to the data user whose sample was spiked, or as requested or required by a regulatory/control authority, or in a permit.
+8.3.1 If, as in compliance monitoring, the concentration of a specific analyte will be checked against a regulatory concentration limit, the concentration of the spike should be at that limit; otherwise, the concentration of the spike should be one to five times higher than the background concentration determined in section 8.3.2, at or near the mid-point of the calibration range, or at the concentration in the LCS (section 8.4) whichever concentration would be larger.
+8.3.2 Analyze one sample aliquot to determine the background concentration (B) of the each analyte of interest. If necessary, prepare a new check sample concentrate (section 8.2.1) appropriate for the background concentration. Spike and analyze two additional sample aliquots, and determine the concentration after spiking (A1 and A2) of each analyte. Calculate the percent recoveries (P1 and P2) as 100 (A1−B)/T and 100 (A2−B)/T, where T is the known true value of the spike. Also calculate the relative percent difference (RPD) between the concentrations (A1 and A2) as 200 |A1−A2|/(A1 + A2). If necessary, adjust the concentrations used to calculate the RPD to account for differences in the volumes of the spiked aliquots.
+8.3.3 Compare the percent recoveries (P1 and P2) and the RPD for each analyte in the MS/MSD aliquots with the corresponding QC acceptance criteria in Table 7. A laboratory may develop and apply QC acceptance criteria more restrictive than the criteria in Table 7, if desired.
+8.3.3.1 If any individual P falls outside the designated range for recovery in either aliquot, or the RPD limit is exceeded, the result for the analyte in the unspiked sample is suspect. See Section 8.1.7 for disposition of failures.
+8.3.3.2 The acceptance criteria in Table 7 were calculated to include an allowance for error in measurement of both the background and spike concentrations, assuming a spike to background ratio of 5:1. This error will be accounted for to the extent that the spike to background ratio approaches 5:1 (Reference 13) and is applied to spike concentrations of 20 µg/L and higher. If spiking is performed at a concentration lower than 20 µg/L, the laboratory must use the QC acceptance criteria in Table 7, the optional QC acceptance criteria calculated for the specific spike concentration in Table 8, or optional in-house criteria (Section 8.3.4). To use the acceptance criteria in Table 8: (1) Calculate recovery (X') using the equation in Table 8, substituting the spike concentration (T) for C; (2) Calculate overall precision (S') using the equation in Table 8, substituting X' for X; (3) Calculate the range for recovery at the spike concentration as (100 X'/T) ± 2.44(100 S'/T)% (Reference 4). For analytes of interest in Tables 1 and 2 not listed in Table 7, QC acceptance criteria must be developed by the laboratory. EPA has provided guidance for development of QC acceptance criteria (References 11 and 12). Alternatively, acceptance criteria may be based on laboratory control charts. In-house LCS QC acceptance criteria must be updated at least every two years.
+8.3.4 After analysis of a minimum of 20 MS/MSD samples for each target analyte and surrogate, and if the laboratory chooses to develop and apply in-house QC limits, the laboratory should calculate and apply in-house QC limits for recovery and RPD of future MS/MSD samples (section 8.3). The QC limits for recovery are calculated as the mean observed recovery ± 3 standard deviations, and the upper QC limit for RPD is calculated as the mean RPD plus 3 standard deviations of the RPDs. The in-house QC limits must be updated at least every two years and re-established after any major change in the analytical instrumentation or process. If in-house QC limits are developed, at least 80% of the analytes tested in the MS/MSD must have in-house QC acceptance criteria that are tighter than those in Table 7 and the remaining analytes (those other than the analytes included in the 80%) must meet the acceptance criteria in Table 7. If an in-house QC limit for the RPD is greater than the limit in Table 7, then the limit in Table 7 must be used. Similarly, if an in-house lower limit for recovery is below the lower limit in Table 7, then the lower limit in Table 7 must be used, and if an in-house upper limit for recovery is above the upper limit in Table 7, then the upper limit in Table 7 must be used.
+8.4 Calibration verification/laboratory control sample (LCS)—The working calibration curve or RF must be verified immediately after calibration and at the beginning of each 12-hour shift by the measurement of an LCS. The LCS must be from a source different from the source used for calibration (section 7.3.2.1), but may be the same as the sample prepared for the DOC (section 8.2.1).
+Note: The 12-hour shift begins after analysis of BFB, the LCS, and the blank, and ends 12 hours later. BFB, the LCS, and blank are outside of the 12-hour shift (Section 11.4). The MS and MSD are treated as samples and are analyzed within the 12-hour shift.
+8.4.1 Prepare the LCS by adding QC check sample concentrate (section 8.2.1) to reagent water. Include all analytes of interest (Section 1.3) in the LCS. The volume of reagent water must be the same as the volume used for the sample, blank (Section 8.5), and MS/MSD (section 8.3). Also add an aliquot of the surrogate solution (Section 6.7) and internal standard solution (section 7.3.1.3). The concentration of the analytes in reagent water should be the same as the concentration in the DOC (section 8.2.2).
+8.4.2 Analyze the LCS prior to analysis of field samples in the batch of samples analyzed during the 12-hour shift (see the Note at section 8.4). Determine the concentration (A) of each analyte. Calculate the percent recovery (Q) as 100 (A/T) %, where T is the true value of the concentration in the LCS.
+8.4.3 Compare the percent recovery (Q) for each analyte with its corresponding QC acceptance criterion in Table 7. For analytes of interest in Tables 1 and 2 not listed in Table 7, use the QC acceptance criteria developed for the LCS (section 8.4.5). If the recoveries for all analytes of interest fall within their respective QC acceptance criteria, analysis of blanks and field samples may proceed. If any individual Q falls outside the range, proceed according to section 8.4.4.
+Note: The large number of analytes in Tables 1—2 present a substantial probability that one or more will fail the acceptance criteria when all analytes are tested simultaneously. Because a re-test is allowed in event of failure (sections 8.1.7 and 8.4.3), it may be prudent to analyze two LCSs together and evaluate results of the second analysis against the QC acceptance criteria only if an analyte fails the first test.
+8.4.4 Repeat the test only for those analytes that failed to meet the acceptance criteria (Q). If these analytes now pass, system performance is acceptable and analysis of blanks and samples may proceed. Repeated failure, however, will confirm a general problem with the measurement system. If this occurs, repeat the test (section 8.4.2). using a fresh LCS (section 8.2.2) or an LCS prepared with a fresh QC check sample concentrate (section 8.2.1), or perform and document system repair. Subsequent to repair, repeat the calibration verification/LCS test (section 8.4). If the acceptance criteria for Q cannot be met, re-calibrate the instrument (section 7). See section 8.1.7 for disposition of repeated failures.
+Note: To maintain the validity of the test and re-test, system maintenance and/or adjustment is not permitted between the pair of tests.
+8.4.5 After analysis of 20 LCS samples, and if the laboratory chooses to develop and apply in-house QC limits, the laboratory should calculate and apply in-house QC limits for recovery to future LCS samples (section 8.4). Limits for recovery in the LCS calculated as the mean recovery ±3 standard deviations. A minimum of 80% of the analytes tested for in the LCS must have QC acceptance criteria tighter than those in Table 7, and the remaining analytes (those other than the analytes included in the 80%) must meet the acceptance criteria in Table 7. If an in-house lower limit for recovery is lower than the lower limit in Table 7, the lower limit in Table 7 must be used, and if an in-house upper limit for recovery is higher than the upper limit in Table 7, the upper limit in Table 7 must be used. Many of the analytes and surrogates do not have acceptance criteria. The laboratory should use 60-140% as interim acceptance criteria for recoveries of spiked analytes that do not have recovery limits specified in Table 7, and least 80% of the analytes should meet the 60-140% interim criteria until in-house LCS limits are developed. Alternatively, acceptance criteria for analytes that do not have recovery limits in Table 7 may be based on laboratory control charts. In-house QC acceptance criteria must be updated at least every two years.
+8.5 Blank—A blank must be analyzed prior to each 12-hour shift to demonstrate freedom from contamination. A blank must also be analyzed after a sample containing a high concentration of an analyte or potentially interfering compound to demonstrate freedom from carry-over.
+8.5.1 Spike the internal standards and surrogates into the blank. Analyze the blank immediately after analysis of the LCS (Section 8.4) and prior to analysis of the MS/MSD and samples to demonstrate freedom from contamination.
+8.5.2 If any analyte of interest is found in the blank: At a concentration greater than the MDL for the analyte, at a concentration greater than one-third the regulatory compliance limit, or at a concentration greater than one-tenth the concentration in a sample analyzed during the 12-hour shift (section 8.4), whichever is greater; analysis of samples must be halted and samples affected by the blank must be re-analyzed. If, however, continued re-testing results in repeated blank contamination, the laboratory must document and report the failures (e.g., as qualifiers on results), unless the failures are not required to be reported as determined by the regulatory/control authority. Results associated with blank contamination for an analyte regulated in a discharge cannot be used to demonstrate regulatory compliance. QC failures do not relieve a discharger or permittee of reporting timely results.
+8.6 Surrogate recoveries—The laboratory must evaluate surrogate recovery data in each sample against its in-house surrogate recovery limits for surrogates that do not have acceptance criteria in Table 7. The laboratory may use 60-140% as interim acceptance criteria for recoveries for surrogates not listed in Table 5. At least 80% of the surrogates must meet the 60-140% interim criteria until in-house limits are developed. Alternatively, surrogate recovery limits may be developed from laboratory control charts.
+8.6.1 Spike the surrogates into all samples, blanks, LCSs, and MS/MSDs. Compare surrogate recoveries against the QC acceptance criteria in Table 7. For surrogates in Table 5 without QC acceptance criteria in Table 7, and for other surrogates that may be used by the laboratory, limits must be developed by the laboratory. EPA has provided guidance for development of QC acceptance criteria (References 11 and 12). Alternatively, surrogate recovery limits may be developed from laboratory control charts. In-house QC acceptance criteria must be updated at least every two years.
+8.6.2 If any recovery fails its criteria, attempt to find and correct the cause of the failure. See section 8.1.7 for disposition of failures.
+8.7 Internal standard responses.
+8.7.1 Calibration verification/LCS—The responses (GC peak heights or areas) of the internal standards in the calibration verification/LCS must be within 50% to 200% (1/2 to 2×) of their respective responses in the mid-point calibration standard. If they are not, repeat the LCS test using a fresh QC check sample (section 8.4.1) or perform and document system repair. Subsequent to repair, repeat the calibration verification/LCS test (section 8.4). If the responses are still not within 50% to 200%, re-calibrate the instrument (section 7) and repeat the calibration verification/LCS test.
+8.7.2 Samples, blanks, and MS/MSDs—The responses (GC peak heights or areas) of each internal standard in each sample, blank, and MS/MSD must be within 50% to 200% (1/2 to 2×) of its respective response in the mid-point calibration standard. If, as a group, all internal standards are not within this range, perform and document system repair, repeat the calibration verification/LCS test (section 8.4), and re-analyze the affected samples. If a single internal standard is not within the 50% to 200% range, use an alternative internal standard for quantitation of the analyte referenced to the affected internal standard. It may be necessary to use the data system to calculate a new response factor from calibration data for the alternative internal standard/analyte pair. If an internal standard fails the 50-200% criteria and no analytes are detected in the sample, ignore the failure or report it if required by the regulatory/control authority.
+8.8 As part of the QC program for the laboratory, control charts or statements of accuracy for wastewater samples must be assessed and records maintained periodically (see 40 CFR 136.7(c)(1)(viii)). After analysis of five or more spiked wastewater samples as in section 8.3, calculate the average percent recovery (PX) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent interval from PX−2sp to PX + 2sp. For example, if PX = 90% and sp = 10%, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each analyte on a regular basis (e.g., after each 5-10 new accuracy measurements). If desired, statements of accuracy for laboratory performance, independent of performance on samples, may be developed using LCSs.
+8.9 It is recommended that the laboratory adopt additional quality assurance practices for use with this method. The specific practices that are most productive depend upon the needs of the laboratory and the nature of the samples. Field duplicates may be analyzed to assess the precision of environmental measurements. Whenever possible, the laboratory should analyze standard reference materials and participate in relevant performance evaluation studies.
+9. Sample Collection, Preservation, and Handling
+9.1 Collect the sample as a grab sample in a glass container having a total volume of at least 25 mL. Fill the sample bottle just to overflowing in such a manner that no air bubbles pass through the sample as the bottle is being filled. Seal the bottle so that no air bubbles are entrapped in it. If needed, collect additional sample(s) for the MS/MSD (section 8.3).
+9.2 Ice or refrigerate samples at ≤6 °C from the time of collection until analysis, but do not freeze. If residual chlorine is present, add sodium thiosulfate preservative (10 mg/40 mL is sufficient for up to 5 ppm Cl2) to the empty sample bottle just prior to shipping to the sampling site. Any method suitable for field use may be employed to test for residual chlorine (Reference 14). Field test kits are also available for this purpose. If sodium thiosulfate interferes in the determination of the analytes, an alternative preservative (e.g., ascorbic acid or sodium sulfite) may be used. If preservative has been added, shake the sample vigorously for one minute. Maintain the hermetic seal on the sample bottle until time of analysis.
+9.3 If acrolein is to be determined, analyze the sample within 3 days. To extend the holding time to 14 days, acidify a separate sample to pH 4-5 with HCl using the procedure in section 9.7.
+9.4 Experimental evidence indicates that some aromatic compounds, notably benzene, toluene, and ethyl benzene are susceptible to rapid biological degradation under certain environmental conditions (Reference 3). Refrigeration alone may not be adequate to preserve these compounds in wastewaters for more than seven days. To extend the holding time for aromatic compounds to 14 days, acidify the sample to approximately pH 2 using the procedure in section 9.7.
+9.5 If halocarbons are to be determined, either use the acidified aromatics sample in section 9.4 or acidify a separate sample to a pH of about 2 using the procedure in section 9.7.
+9.6 The ethers listed in Table 2 are prone to hydrolysis at pH 2 when a heated purge is used. Aqueous samples should not be acid preserved if these ethers are of interest, or if the alcohols they would form upon hydrolysis are of interest and the ethers are anticipated to present.
+9.7 Sample acidification—Collect about 500 mL of sample in a clean container and adjust the pH of the sample to 4-5 for acrolein (section 9.3), or to about 2 for the aromatic compounds (section 9.4) by adding 1+1 HCl while swirling or stirring. Check the pH with narrow range pH paper. Fill a sample container as described in section 9.1. Alternatively, fill a precleaned vial (section 5.1.1) that contains approximately 0.25 mL of 1+1 HCl with sample as in section 9.1. If preserved using this alternative procedure, the pH of the sample can be verified to be <2 after some of the sample is removed for analysis. Acidification will destroy 2-chloroethylvinyl ether; therefore, determine 2-chloroethylvinyl ether from the unacidified sample.
+9.8 All samples must be analyzed within 14 days of collection (Reference 3), unless specified otherwise in sections 9.3-9.7.
+10. Sample Purging and Gas Chromatography
+10.1 The footnote to Table 3 gives the suggested GC column and operating conditions MDLs and MLs for many of the analytes are given in Table 1. Retention times for many of the analytes are given in Table 3. Sections 10.2 through 10.7 suggest procedures that may be used with a manual purge-and-trap system. Auto-samplers and other columns or chromatographic conditions may be used if requirements in this method are met. Prior to performing analyses, and between analyses, it may be necessary to bake the purge-and-trap and GC systems (section 3.3).
+10.2 Attach the trap inlet to the purging device, and set the purge-and-trap system to purge. Open the syringe valve located on the purging device sample introduction needle.
+10.3 Allow the sample to come to ambient temperature prior to pouring an aliquot into the syringe. Remove the plunger from a syringe and attach a closed syringe valve. Open the sample bottle (or standard) and carefully pour the sample into the syringe barrel to just short of overflowing. Replace the syringe plunger and compress the sample. Open the syringe valve and vent any residual air while adjusting the sample volume. Since this process of taking an aliquot destroys the validity of the sample for future analysis, the analyst should fill a second syringe at this time to protect against possible loss of data. Add the surrogate spiking solution (section 6.7) and internal standard spiking solution (section 7.3.1.3) through the valve bore, then close the valve. The surrogate and internal standards may be mixed and added as a single spiking solution. Autosamplers designed for purge-and-trap analysis of volatiles also may be used.
+10.4 Attach the syringe valve assembly to the syringe valve on the purging device. Open the syringe valve and inject the sample into the purging chamber.
+10.5 Close both valves and purge the sample at a temperature, flow rate, and duration sufficient to purge the less-volatile analytes onto the trap, yet short enough to prevent blowing the more-volatile analytes through the trap. The temperature, flow rate, and time should be determined by test. The same purge temperature, flow rate, and purge time must be used for all calibration, QC, and field samples.
+10.6 After the purge, set the purge-and-trap system to the desorb mode, and begin the temperature program of the gas chromatograph. Introduce the trapped materials to the GC column by rapidly heating the trap to the desorb temperature while backflushing the trap with carrier gas at the flow rate and for the time necessary to desorb the analytes of interest. The optimum temperature, flow rate, and time should be determined by test. The same temperature, desorb time, and flow rate must be used for all calibration, QC, and field samples. If heating of the trap does not result in sharp peaks for the early eluting analytes, the GC column may be used as a secondary trap by cooling to an ambient or subambient temperature. To avoid carry-over and interferences, maintain the trap at the desorb temperature and flow rate until the analytes, interfering compounds, and excess water are desorbed. The optimum conditions should be determined by test.
+10.7 Start MS data acquisition at the start of the desorb cycle and stop data collection when the analytes of interest, potentially interfering compounds, and water have eluted (see the footnote to Table 3 for conditions).
+10.8 Cool the trap to the purge temperature and return the trap to the purge mode. When the trap is cool, the next sample can be analyzed.
+11. Performance Tests
+11.1 At the beginning of each 12-hour shift during which standards or samples will be analyzed, perform the tests in sections 11.2-11.3 to verify system performance. Use the instrument operating conditions in the footnotes to Table 3 for these performance tests. Alternative conditions may be used so as long as all QC requirements are met.
+11.2 BFB—Inject 50 ng of BFB solution directly on the column. Alternatively, add BFB to reagent water or an aqueous standard such that 50 ng or less of BFB will be introduced into the GC. Analyze according to section 10. Confirm that all criteria in section 7.3.2.2 and Table 4 are met. If all criteria are not met, perform system repair, retune the mass spectrometer, and repeat the test until all criteria are met.
+11.3 Verify calibration with the LCS (section 8.4) after the criteria for BFB are met (Reference 15) and prior to analysis of a blank or sample. After verification, analyze a blank (section 8.5) to demonstrate freedom from contamination and carry-over at the MDL. Tests for BFB, the LCS, and the blank are outside of the 12-hour shift, and the 12-hour shift includes samples and matrix spikes and matrix spike duplicates (section 8.4). The total time for analysis of BFB, the LCS, the blank, and the 12-hour shift must not exceed 14 hours.
+12. Qualitative Identification
+12.1 Identification is accomplished by comparison of results from analysis of a sample or blank with data stored in the GC/MS data system (section 7.3.2.3). Identification of an analyte is confirmed per sections 12.1.1 through 12.1.4.
+12.1.1 The signals for the quantitation and secondary m/z's stored in the data system (section 7.3.2.3) for each analyte of interest must be present and must maximize within the same two consecutive scans.
+12.1.2 The retention time for the analyte should be within ± 10 seconds of the analyte in the LCS run at the beginning of the shift (section 8.4).
+Note: Retention time windows other than ± 10 seconds may be appropriate depending on the performance of the gas chromatograph or observed retention time drifts due to certain types of matrix effects. Relative retention time (RRT) may be used as an alternative to absolute retention times if retention time drift is a concern. RRT is a unitless quantity (see section 20.2), although some procedures refer to "RRT units" in providing the specification for the agreement between the RRT values in the sample and the LCS or other standard. When significant retention time drifts are observed, dilutions or spiked samples may help the analyst determine the effects of the matrix on elution of the target analytes and to assist in qualitative identification.
+12.1.3 Either the background corrected EICP areas, or the corrected relative intensities of the mass spectral peaks at the GC peak maximum, must agree within 50% to 200% (1/2 to 2 times) for the quantitation and secondary m/z's in the reference mass spectrum stored in the data system (section 7.3.2.3), or from a reference library. For example, if a peak has an intensity of 20% relative to the base peak, the analyte is identified if the intensity of the peak in the sample is in the range of 10% to 40% of the base peak.
+12.1.4 If the acquired mass spectrum is contaminated, or if identification is ambiguous, an experienced spectrometrist (section 1.6) must determine the presence or absence of the compound.
+12.2 Structural isomers that produce very similar mass spectra should be identified as individual isomers if they have sufficiently different gas chromatographic retention times. Sufficient gas chromatographic resolution is achieved if the height of the valley between two isomer peaks is less than 50% of the average of the two peak heights. Otherwise, structural isomers are identified as isomeric pairs. The resolution should be verified on the mid-point concentration of the initial calibration as well as the laboratory designated continuing calibration verification level if closely eluting isomers are to be reported.
+13. Calculations
+13.1 When an analyte has been identified, quantitation of that analyte is based on the integrated abundance from the EICP of the primary characteristic m/z in Table 5 or 6. Calculate the concentration using the response factor (RF) determined in section 7.3.3 and Equation 2. If a calibration curve was used, calculate the concentration using the regression equation for the curve. If the concentration of an analyte exceeds the calibration range, dilute the sample by the minimum amount to bring the concentration into the calibration range, and re-analyze. Determine a dilution factor (DF) from the amount of the dilution. For example, if the extract is diluted by a factor of 2, DF = 2.
+ER28AU17.013
+Where:
+Cs = Concentration of the analyte in the sample, and the other terms are as defined in Section 7.3.3.
+13.2 Reporting of results
+As noted in section 1.4.1, EPA has promulgated this method at 40 CFR part 136 for use in wastewater compliance monitoring under the National Pollutant Discharge Elimination System (NPDES). The data reporting practices described here are focused on such monitoring needs and may not be relevant to other uses of this method.
+13.2.1 Report results for wastewater samples in µg/L without correction for recovery. (Other units may be used if required by a permit.) Report all QC data with the sample results.
+13.2.2 Reporting level. Unless otherwise specified in by a regulatory authority or in a discharge permit, results for analytes that meet the identification criteria are reported down to the concentration of the ML established by the laboratory through calibration of the instrument (see section 7.3.2 and the glossary for the derivation of the ML). EPA considers the terms "reporting limit," "limit of quantitation," "quantitation limit," and "minimum level" to be synonymous.
+13.2.2.1 Report a result for each analyte in each field sample or QC standard at or above the ML to 3 significant figures. Report a result for each analyte found in each field sample or QC standard below the ML as "<ML," where ML is the concentration of the analyte at the ML, or as required by the regulatory/control authority or permit. Report a result for each analyte in a blank at or above the MDL to 2 significant figures. Report a result for each analyte found in a blank below the MDL as "<MDL," where MDL is the concentration of the analyte at the MDL, or as required by the regulatory/control authority or permit.
+13.2.2.2 In addition to reporting results for samples and blanks separately, the concentration of each analyte in a blank associated with the sample may be subtracted from the result for that sample, but only if requested or required by a regulatory authority or in a permit. In this case, both the sample result and the blank result must be reported together.
+13.2.2.3 Report a result for an analyte found in a sample that has been diluted at the least dilute level at which the area at the quantitation m/z is within the calibration range (i.e., above the ML for the analyte) and the MS/MSD recovery and RPD are within their respective QC acceptance criteria (Table 7). This may require reporting results for some analytes from different analyses.
+13.2.3 Results from tests performed with an analytical system that is not in control (i.e., that does not meet acceptance criteria for any of the QC test in this method) must be documented and reported (e.g., as a qualifier on results), unless the failure is not required to be reported as determined by the regulatory/control authority. Results associated with a QC failure cannot be used to demonstrate regulatory compliance. QC failures do not relieve a discharger or permittee of reporting timely results. If the holding time would be exceeded for a re-analysis of the sample, the regulatory/control authority should be consulted for disposition.
 14. Method Performance
-14.1 The method detection limit (MDL) is defined as the minimum concentration of a substance that can be measured and reported with 99% confidence that the value is above zero. 1 The MDL concentrations listed in Table 1 were obtained using reagent water. 11 Similar results were achieved using representative wastewaters. The MDL actually achieved in a given analysis will vary depending on instrument sensitivity and matrix effects.
-14.2 This method was tested by 15 laboratories using reagent water, drinking water, surface water, and industrial wastewaters spiked at six concentrations over the range 5-600 µg/L. 12 Single operator precision, overall precision, and method accuracy were found to be directly related to the concentration of the parameter and essentially independent of the sample matrix. Linear equations to describe these relationships are presented in Table 5.
-References
-1. 40 CFR part 136, appendix B.
-2. Bellar, T.A., and Lichtenberg, J.J. "Determining Volatile Organics at Microgram-per-Litre Levels by Gas Chromatography," Journal American Water Works Association, 66, 739 (1974).
-3. Bellar, T.A., and Lichtenberg, J.J. "Semi-Automated Headspace Analysis of Drinking Waters and Industrial Waters for Purgeable Volatile Organic Compounds," Measurement of Organic Pollutants in Water and Wastewater, C.E. Van Hall, editor, American Society for Testing and Materials, Philadelphia, PA. Special Technical Publication 686, 1978.
-4. "Carcinogens—Working With Carcinogens," Department of Health, Education, and Welfare, Public Health Service, Center for Disease Control, National Institute for Occupational Safety and Health, Publication No. 77-206, August 1977.
-5. "OSHA Safety and Health Standards, General Industry," (29 CFR part 1910), Occupational Safety and Health Administration, OSHA 2206 (Revised, January 1976).
-6. "Safety in Academic Chemistry Laboratories," American Chemical Society Publication, Committee on Chemical Safety, 3rd Edition, 1979.
-7. Provost, L.P., and Elder, R.S. "Interpretation of Percent Recovery Data," American Laboratory, 15, 58-63 (1983). (The value 2.44 used in the equation in Section 8.2.3 is two times the value 1.22 derived in this report.)
-8. "Methods 330.4 (Titrimetric, DPD-FAS) and 330.5 (Spectrophotometric, DPD) for Chlorine, Total Residual," Methods for Chemical Analysis of Water and Wastes, EPA-600/4-79-020, U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268, March 1979.
-9. Budde, W.L., and Eichelberger, J.W. "Performance Tests for the Evaluation of Computerized Eas Chromatography/Mass Spectrometry Equipment and Laboratories," EPA-600/4-80-025, U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268, April 1980.
-10. Eichelberger, J.W., Harris, L.E., and Budde, W.L. "Reference Compound to Calibrate Ion Abundance Measurement in Gas Chromatography—Mass Spectrometry Systems," Analytical Chemistry, 47, 995-1000 (1975).
-11. "Method Detection Limit for Methods 624 and 625," Olynyk, P., Budde, W.L., and Eichelberger, J.W. Unpublished report, May 14, 1980.
-12. "EPA Method Study 29 EPA Method 624—Purgeables," EPA 600/4-84-054, National Technical Information Service, PB84-209915, Springfield, Virginia 22161, June 1984.
-13."Method Performance Data for Method 624," Memorandum from R. Slater and T. Pressley, U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268, January 17, 1984.
-Table 1—Chromatographic Conditions and Method Detection Limits
-Parameter | Retention time (min) | Method detection limit (µg/L)
-Chloromethane | 2.3 | nd
-Bromomethane | 3.1 | nd
-Vinyl chloride | 3.8 | nd
-Chloroethane | 4.6 | nd
-Methylene chloride | 6.4 | 2.8
-Trichlorofluoromethane | 8.3 | nd
-1,1-Dichloroethene | 9.0 | 2.8
-1,1-Dichloroethane | 10.1 | 4.7
-trans-1,2-Dichloroethene | 10.8 | 1.6
-Chloroform | 11.4 | 1.6
-1,2-Dichloroethane | 12.1 | 2.8
-1,1,1-Trichloroethane | 13.4 | 3.8
-Carbon tetrachloride | 13.7 | 2.8
-Bromodichloromethane | 14.3 | 2.2
-1,2-Dichloroproane | 15.7 | 6.0
-cis-1,3-Dichloropropene | 15.9 | 5.0
-Trichloroethene | 16.5 | 1.9
-Benzene | 17.0 | 4.4
-Dibromochloromethane | 17.1 | 3.1
-1,1,2-Trichloroethane | 17.2 | 5.0
-trans-1,3-Dichloropropene | 17.2 | nd
-2-Chloroethylvinlyl ether | 18.6 | nd
-Bromoform | 19.8 | 4.7
-1,1,2,2-Tetrachloroethane | 22.1 | 6.9
-Tetrachloroethene | 22.2 | 4.1
-Toluene | 23.5 | 6.0
-Chlorobenzene | 24.6 | 6.0
-Ethyl benzene | 26.4 | 7.2
-1,3-Dichlorobenzene | 33.9 | nd
-1,2-Dichlorobenzene | 35.0 | nd
-1,4-Dichlorobenzene | 35.4 | nd
-Column conditions: Carbopak B (60/80 mesh) coated with 1% SP-1000 packed in a 6 ft by 0.1 in. ID glass column with helium carrier gas at 30 mL/min. flow rate. Column temperature held at 45 °C for 3 min., then programmed at 8 °C/min. to 220 °C and held for 15 min.
-nd = not determined.
-Table 2—BFB Key m/z Abundance Criteria
-Mass | m/z Abundance criteria
-50 | 15 to 40% of mass 95.
-75 | 30 to 60% of mass 95.
+14.1 This method was tested by 15 laboratories using reagent water, drinking water, surface water, and industrial wastewaters spiked at six concentrations over the range 5-600 µg/L (References 4 and 16). Single-operator precision, overall precision, and method accuracy were found to be directly related to the concentration of the analyte and essentially independent of the sample matrix. Linear equations to describe these relationships are presented in Table 8.
+14.2 As noted in section 1.1, this method was validated through an interlaboratory study conducted in the early 1980s. However, the fundamental chemistry principles used in this method remain sound and continue to apply.
+15. Pollution Prevention
+15.1 Pollution prevention encompasses any technique that reduces or eliminates the quantity or toxicity of waste at the point of generation. Many opportunities for pollution prevention exist in laboratory operations. EPA has established a preferred hierarchy of environmental management techniques that places pollution prevention as the management option of first choice. Whenever feasible, the laboratory should use pollution prevention techniques to address waste generation. When wastes cannot be reduced at the source, the Agency recommends recycling as the next best option.
+15.2 The analytes in this method are used in extremely small amounts and pose little threat to the environment when managed properly. Standards should be prepared in volumes consistent with laboratory use to minimize the disposal of excess volumes of expired standards.
+15.3 For information about pollution prevention that may be applied to laboratories and research institutions, consult "Less is Better: Laboratory Chemical Management for Waste Reduction," available from the American Chemical Society's Department of Governmental Relations and Science Policy, 1155 16th Street NW., Washington, DC 20036, 202-872-4477.
+16. Waste Management
+16.1 The laboratory is responsible for complying with all Federal, State, and local regulations governing waste management, particularly the hazardous waste identification rules and land disposal restrictions, and to protect the air, water, and land by minimizing and controlling all releases from fume hoods and bench operations. Compliance is also required with any sewage discharge permits and regulations. An overview of requirements can be found in Environmental Management Guide for Small Laboratories (EPA 233-B-98-001).
+16.2 Samples at pH <2, or pH >12, are hazardous and must be handled and disposed of as hazardous waste, or neutralized and disposed of in accordance with all federal, state, and local regulations. It is the laboratory's responsibility to comply with all federal, state, and local regulations governing waste management, particularly the hazardous waste identification rules and land disposal restrictions. The laboratory using this method has the responsibility to protect the air, water, and land by minimizing and controlling all releases from fume hoods and bench operations. Compliance is also required with any sewage discharge permits and regulations. For further information on waste management, see "The Waste Management Manual for Laboratory Personnel," also available from the American Chemical Society at the address in Section 15.3.
+16.3 Many analytes in this method decompose above 500 °C. Low-level waste such as absorbent paper, tissues, and plastic gloves may be burned in an appropriate incinerator. Gross quantities of neat or highly concentrated solutions of toxic or hazardous chemicals should be packaged securely and disposed of through commercial or governmental channels that are capable of handling these types of wastes.
+16.4 For further information on waste management, consult "Waste Management Manual for Laboratory Personnel and Less is Better-Laboratory Chemical Management for Waste Reduction," available from the American Chemical Society's Department of Government Relations and Science Policy, 1155 16th Street NW., Washington, DC 20036, 202-872-4477.
+17. References
+1. Bellar, T.A. and Lichtenberg, J.J. "Determining Volatile Organics at Microgram-per-Litre Levels by Gas Chromatography," Journal American Water Works Association, 66: 739 (1974).
+2. "Sampling and Analysis Procedures for Screening of Industrial Effluents for Priority Pollutants," U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268, March 1977, Revised April 1977.
+3. Bellar, T.A. and Lichtenberg, J.J. "Semi-Automated Headspace Analysis of Drinking Waters and Industrial Waters for Purgeable Volatile Organic Compounds," Measurement of Organic Pollutants in Water and Wastewater, C.E. Van Hall, editor, American Society for Testing and Materials, Philadelphia, PA. Special Technical Publication 686, 1978.
+4. "EPA Method Study 29 EPA Method 624-Purgeables," EPA 600/4-84-054, National Technical Information Service, PB84-209915, Springfield, Virginia 22161, June 1984.
+5. 40 CFR part 136, appendix B.
+6. "Method Detection Limit for Methods 624 and 625," Olynyk, P., Budde, W.L., and Eichelberger, J.W. Unpublished report, May 14, 1980.
+7. "Carcinogens-Working With Carcinogens," Department of Health, Education, and Welfare, Public Health Service, Center for Disease Control, National Institute for Occupational Safety and Health, Publication No. 77-206, August 1977.
+8. "OSHA Safety and Health Standards, General Industry," (29 CFR part 1910), Occupational Safety and Health Administration, OSHA 2206 (Revised, January 1976).
+9. "Safety in Academic Chemistry Laboratories," American Chemical Society Publication, Committee on Chemical Safety, 7th Edition, 2003.
+10. 40 CFR 136.6(b)(5)(x).
+11. 40 CFR 136.6(b)(2)(i).
+12. Protocol for EPA Approval of New Methods for Organic and Inorganic Analytes in Wastewater and Drinking Water (EPA-821-B-98-003) March 1999.
+13. Provost, L.P. and Elder, R.S. "Interpretation of Percent Recovery Data," American Laboratory, 15, 58-63 (1983).
+14. 40 CFR 136.3(a), Table IB, Chlorine—Total residual.
+15. Budde, W.L. and Eichelberger, J.W. "Performance Tests for the Evaluation of Computerized Gas Chromatography/Mass Spectrometry Equipment and Laboratories," EPA-600/4-80-025, U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268, April 1980.
+16. "Method Performance Data for Method 624," Memorandum from R. Slater and T. Pressley, U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268, January 17, 1984.
+18. Tables
+Table 1—Purgeables 1
+Analyte | CAS Registry No. | MDL (µg/L) 2 | ML (µg/L) 3
+Acrolein | 107-02-8
+Acrylonitrile | 107-13-1
+Benzene | 71-43-2 | 4.4 | 13.2
+Bromodichloromethane | 75-27-4 | 2.2 | 6.6
+Bromoform | 75-25-2 | 4.7 | 14.1
+Bromomethane | 74-83-9
+Carbon tetrachloride | 56-23-5 | 2.8 | 8.4
+Chlorobenzene | 108-90-7 | 6.0 | 18.0
+Chloroethane | 75-00-3
+2-Chloroethylvinyl ether | 110-75-8
+Chloroform | 67-66-3 | 1.6 | 4.8
+Chloromethane | 74-87-3
+Dibromochloromethane | 124-48-1 | 3.1 | 9.3
+1,2-Dichlorobenzene | 95-50-1
+1,3-Dichlorobenzene | 541-73-1
+1,4-Dichlorobenzene | 106-46-7
+1,1-Dichloroethane | 75-34-3 | 4.7 | 14.1
+1,2-Dichloroethane | 107-06-2 | 2.8 | 8.4
+1,1-Dichloroethene | 75-35-4 | 2.8 | 8.4
+trans-1,2-Dichloroethene | 156-60-5 | 1.6 | 4.8
+1,2-Dichloropropane | 78-87-5 | 6.0 | 18.0
+cis-1,3-Dichloropropene | 10061-01-5 | 5.0 | 15.0
+trans-1,3-Dichloropropene | 10061-02-6
+Ethyl benzene | 100-41-4 | 7.2 | 21.6
+Methylene chloride | 75-09-2 | 2.8 | 8.4
+1,1,2,2-Tetrachloroethane | 79-34-5 | 6.9 | 20.7
+Tetrachloroethene | 127-18-4 | 4.1 | 12.3
+Toluene | 108-88-3 | 6.0 | 18.0
+1,1,1-Trichloroethane | 71-55-6 | 3.8 | 11.4
+1,1,2-Trichloroethane | 79-00-5 | 5.0 | 15.0
+Trichloroethene | 79-01-6 | 1.9 | 5.7
+Vinyl chloride | 75-01-4 |
+1 All the analytes in this table are Priority Pollutants (40 CFR part 423, appendix A).
+2 MDL values from the 1984 promulgated version of Method 624.
+3 ML = Minimum Level—see Glossary for definition and derivation.
+Table 2—Additional Purgeables
+Analyte | CAS Registry
+Acetone 1 | 67-64-1
+Acetonitrile 2 | 75-05-8
+Acrolein | 107-02-8
+Acrylonitrile | 107-13-1
+Allyl alcohol 1 | 107-18-6
+Allyl chloride | 107-05-1
+t-Amyl ethyl ether (TAEE) | 919-94-8
+t-Amyl methyl ether (TAME) | 994-058
+Benzyl chloride | 100-44-7
+Bromoacetone 2 | 598-31-2
+Bromobenzene | 108-86-1
+Bromochloromethane | 74-97-5
+1,3-Butadiene | 106-99-0
+n-Butanol 1 | 71-36-3
+2-Butanone (MEK) 1 2 | 78-93-3
+t-Butyl alcohol (TBA) | 75-65-0
+n-Butylbenzene | 104-51-8
+sec-Butylbenzene | 135-98-8
+t-Butylbenzene | 98-06-6
+t-Butyl ethyl ether (ETBE) | 637-92-3
+Carbon disulfide | 75-15-0
+Chloral hydrate 2 | 302-17-0
+Chloroacetonitrile 1 | 107-14-2
+1-Chlorobutane | 109-69-3
+Chlorodifluoromethane | 75-45-6
+2-Chloroethanol 2 | 107-07-3
+bis (2-Chloroethyl) sulfide 2 | 505-60-2
+1-Chlorohexanone | 20261-68-1
+Chloroprene (2-chloro-1,3-butadiene) | 126-99-8
+3-Chloropropene | 107-05-1
+3-Chloropropionitrile | 542-76-7
+2-Chlorotoluene | 95-49-8
+4-Chlorotoluene | 106-43-4
+Crotonaldehyde 1 2 | 123-73-9
+Cyclohexanone | 108-94-1
+1,2-Dibromo-3-chloropropane | 96-12-8
+1,2-Dibromoethane | 106-93-4
+Dibromomethane | 74-95-3
+cis-1,4-Dichloro-2-butene | 1476-11-5
+trans-1,4-Dichloro-2-butene | 110-57-6
+cis-1,2-Dichloroethene | 156-59-2
+Dichlorodifluoromethane | 75-71-8
+1,3-Dichloropropane | 142-28-9
+2,2-Dichloropropane | 590-20-7
+1,3-Dichloro-2-propanol 2 | 96-23-1
+1,1-Dichloropropene | 563-58-6
+cis-1,3-Dichloropropene | 10061-01-5
+1:2,3:4-Diepoxybutane | 1464-53-5
+Diethyl ether | 60-29-7
+Diisopropyl ether (DIPE) | 108-20-3
+1,4-Dioxane 2 | 123-91-1
+Epichlorohydrin 2 | 106-89-8
+Ethanol 2 | 64-17-5
+Ethyl acetate 2 | 141-78-6
+Ethyl methacrylate | 97-63-2
+Ethylene oxide 2 | 75-21-8
+Hexachlorobutadiene | 87-63-3
+Hexachloroethane | 67-72-1
+2-Hexanone 2 | 591-78-6
+Iodomethane | 74-88-4
+Isobutyl alcohol 1 | 78-83-1
+Isopropylbenzene | 98-82-8
+p-Isopropyltoluene | 99-87-6
+Methacrylonitrile 2 | 126-98-7
+Methanol 2 | 67-56-1
+Malonitrile 2 | 109-77-3
+Methyl acetate | 79-20-9
+Methyl acrylate | 96-33-3
+Methyl cyclohexane | 108-87-2
+Methyl iodide | 74-88-4
+Methyl methacrylate | 78-83-1
+4-Methyl-2-pentanone (MIBK) 2 | 108-10-1
+Methyl-t-butyl ether (MTBE) | 1634-04-4
+Naphthalene | 91-20-3
+Nitrobenzene | 98-95-3
+N-Nitroso-di-n-butylamine 2 | 924-16-3
+2-Nitropropane | 79-46-9
+Paraldehyde 2 | 123-63-7
+Pentachloroethane 2 | 76-01-7
+Pentafluorobenzene | 363-72-4
+2-Pentanone 2 | 107-19-7
+2-Picoline 2 | 109-06-8
+1-Propanol 1 | 71-23-8
+2-Propanol 1 | 67-63-0
+Propargyl alcohol 2 | 107-19-7
+beta-Propiolactone 2 | 57-58-8
+Propionitrile (ethyl cyanide) 1 | 107-12-0
+n-Propylamine | 107-10-8
+n-Propylbenzene | 103-65-1
+Pyridine 2 | 110-86-1
+Styrene | 100-42-5
+1,1,1,2-Tetrachloroethane | 630-20-6
+Tetrahydrofuran | 109-99-9
+o-Toluidine 2 | 95-53-4
+1,2,3-Trichlorobenzene | 87-61-6
+Trichlorofluoromethane | 75-69-4
+1,2,3-Trichloropropane | 96-18-4
+1,2,3-Trimethylbenzene | 526-73-8
+1,2,4-Trimethylbenzene | 95-63-6
+1,3,5-Trimethylbenzene | 108-67-8
+Vinyl acetate | 108-05-4
+m-Xylene 3 | 108-38-3
+o-Xylene 3 | 95-47-6
+p-Xylene 3 | 106-42-3
+m+o-Xylene 3 | 179601-22-0
+m+p-Xylene 3 | 179601-23-1
+o+p-Xylene 3 | 136777-61-2
+1 Determined at a purge temperature of 80 °C.
+2 May be detectable at a purge temperature of 80 °C.
+3 Determined in combination separated by GC column. Most GC columns will resolve o-xylene from m+p-xylene. Report using the CAS number for the individual xylene or the combination, as determined.
+Table 3—Example Retention Times
+Analyte | Retention time(min)
+Chloromethane | 3.68
+Vinyl chloride | 3.92
+Bromomethane | 4.50
+Chloroethane | 4.65
+Trichlorofluoromethane | 5.25
+Diethyl ether | 5.88
+Acrolein | 6.12
+1,1-Dichloroethene | 6.30
+Acetone | 6.40
+Iodomethane | 6.58
+Carbon disulfide | 6.72
+3-Chloropropene | 6.98
+Methylene chloride | 7.22
+Acrylonitrile | 7.63
+trans-1,2-Dichloroethene | 7.73
+1,1-Dichloroethane | 8.45
+Vinyl acetate | 8.55
+Allyl alcohol | 8.58
+2-Chloro-1,3-butadiene | 8.65
+Methyl ethyl ketone | 9.50
+cis-1,2-Dichloroethene | 9.50
+Ethyl cyanide | 9.57
+Methacrylonitrile | 9.83
+Chloroform | 10.05
+1,1,1-Trichloroethane | 10.37
+Carbon tetrachloride | 10.70
+Isobutanol | 10.77
+Benzene | 10.98
+1,2-Dichloroethane | 11.00
+Crotonaldehyde | 11.45
+Trichloroethene | 12.08
+1,2-Dichloropropane | 12.37
+Methyl methacrylate | 12.55
+p-Dioxane | 12.63
+Dibromomethane | 12.65
+Bromodichloromethane | 12.95
+Chloroacetonitrile | 13.27
+2-Chloroethylvinyl ether | 13.45
+cis-1,3-Dichloropropene | 13.65
+4-Methyl-2-pentanone | 13.83
+Toluene | 14.18
+trans-1,3-Dichloropropene | 14.57
+Ethyl methacrylate | 14.70
+1,1,2-Trichloroethane | 14.93
+1,3-Dichloropropane | 15.18
+Tetrachloroethene | 15.22
+2-Hexanone | 15.30
+Dibromochloromethane | 15.68
+1,2-Dibromoethane | 15.90
+Chlorobenzene | 16.78
+Ethylbenzene | 16.82
+1,1,1,2-Tetrachloroethane | 16.87
+m+p-Xylene | 17.08
+o-Xylene | 17.82
+Bromoform | 18.27
+Bromofluorobenzene | 18.80
+1,1,2,2-Tetrachloroethane | 18.98
+1,2,3-Trichloropropane | 19.08
+trans-1,4-Dichloro-2-butene | 19.12
+Column: 75 m x 0.53 mm ID x 3.0 µm wide-bore DB-624
+Conditions: 40 °C for 4 min, 9 °C/min to 200 °C, 20 °C/min (or higher) to 250 °C, hold for 20 min at 250 °C to remove water.
+Carrier gas flow rate: 6-7 mL/min at 40 °C.
+Inlet split ratio: 3:1.
+Interface split ratio: 7:2.
+Table 4—BFB Key m/z Abundance Criteria 1
+m/z | Abundance criteria
+50 | 15-40% of m/z 95.
+75 | 30-60% of m/z 95.
 95 | Base Peak, 100% Relative Abundance.
-96 | 5 to 9% of mass 95.
-173 | <2% of mass 174.
-174 | >50% of mass 95.
-175 | 5 to 9% of mass 174.
-176 | >95% but <101% of mass 174.
-177 | 5 to 9% of mass 176.
-Table 3—Suggested Surrogate and Internal Standards
-Compound | Retention time (min) a | Primary m/z | Secondary masses
-Benzene d-6 | 17.0 | 84
-4-Bromofluorobenzene | 28.3 | 95 | 174, 176
-1,2-Dichloroethane d-4 | 12.1 | 102
-1,4-Difluorobenzene | 19.6 | 114 | 63, 88
-Ethylbenzene d-5 | 26.4 | 111
-Ethylbenzene d-10 | 26.4 | 98
-Fluorobenzene | 18.4 | 96 | 70
-Pentafluorobenzene | 23.5 | 168
-Bromochloromethane | 9.3 | 128 | 49, 130, 51
-2-Bromo-1-chloropropane | 19.2 | 77 | 79, 156
-1, 4-Dichlorobutane | 25.8 | 55 | 90, 92
-a For chromatographic conditions, see Table 1.
-Table 4—Characteristic Masses for Purgeable Organics
-Parameter | Primary | Secondary
+96 | 5-9% of m/z 95.
+173 | <2% of m/z 174.
+174 | >50% of m/z 95.
+175 | 5-9% of m/z 174.
+176 | >95% but <101% of m/z 174.
+177 | 5-9% of m/z 176.
+1 Abundance criteria are for a quadrupole mass spectrometer. Alternative tuning criteria from other published EPA reference methods may be used, provided method performance is not adversely affected. Alternative tuning criteria specified by an instrument manufacturer may also be used for another type of mass spectrometer, or for an alternative carrier gas, provided method performance is not adversely affected.
+Table 5—Suggested Surrogate and Internal Standards
+Analyte | Retention time (min) 1 | Primary m/z | Secondarym/z's
+Benzene-d6 | 10.95 | 84
+4-Bromofluorobenzene | 18.80 | 95 | 174, 176
+Bromochloromethane | 9.88 | 128 | 49, 130, 51
+2-Bromo-1-chloropropane | 14.80 | 77 | 79, 156
+2-Butanone-d5 | 9.33 | 77
+Chloroethane-d5 | 4.63 | 71
+Chloroform-13C | 10.00 | 86
+1,2-Dichlorobenzene-d4 | | 152
+1,4-Dichlorobutane | 18.57 | 55 | 90, 92
+1,2-Dichloroethane-d4 | 10.88 | 102
+1,1-Dichloroethene-d2 | 6.30 | 65
+1,2-Dichloropropane-d6 | 12.27 | 67
+trans-1,3-Dichloropropene-d4 | 14.50 | 79
+1,4-Difluorobenzene | | 114 | 63, 88
+Ethylbenzene-d10 | 16.77 | 98
+Fluorobenzene | | 96 | 70
+2-Hexanone-d5 | 15.30 | 63
+Pentafluorobenzene | | 168
+1,1,2,2-Tetrachloroethane-d2 | 18.93 | 84
+Toluene-d8 | 14.13 | 100
+Vinyl chloride-d3 | 3.87 | 65
+1 For chromatographic conditions, see the footnote to Table 3.
+Table 6—Characteristic m/z's for Purgeable Organics
+Analyte | Primary m/z | Secondary m/z's
+Acrolein | 56 | 55 and 58.
+Acrylonitrile | 53 | 52 and 51.
 Chloromethane | 50 | 52.
 Bromomethane | 94 | 96.
 Vinyl chloride | 62 | 64.
@@ -3371,8 +4182,8 @@ Chloroform | 83 | 85.
 1,2-Dichloroethane | 98 | 62, 64, and 100.
 1,1,1-Trichloroethane | 97 | 99, 117, and 119.
 Carbon tetrachloride | 117 | 119 and 121.
-Bromodichloromethane | 127 | 83, 85, and 129.
-1,2-Dichloropropane | 112 | 63, 65, and 114.
+Bromodichloromethane | 83 | 127, 85, and 129.
+1,2-Dichloropropane | 63 | 112, 65, and 114.
 trans-1,3-Dichloropropene | 75 | 77.
 Trichloroethene | 130 | 95, 97, and 132.
 Benzene | 78
@@ -3386,782 +4197,1309 @@ Tetrachloroethene | 164 | 129, 131, and 166.
 Toluene | 92 | 91.
 Chlorobenzene | 112 | 114.
 Ethyl benzene | 106 | 91.
-1,3-Dichlorobenzene | 146 | 148 and 113.
-1,2-Dichlorobenzene | 146 | 148 and 113.
-1,4-Dichlorobenzene | 146 | 148 and 113.
-Table 5—Calibration and QC Acceptance Criteria—Method 624 a
-Parameter | Range for Q (µ/g/L) | Limit for s (µ/g/L) | Range for X (µ/g/L) | Range for P, Ps (%)
-Benzene | 12.8−27.2 | 6.9 | 15.2−26.0 | 37−151
-Bromodichloromethane | 13.1−26.9 | 6.4 | 10.1−28.0 | 35−155
-Bromoform | 14.2−25.8 | 5.4 | 11.4−31.1 | 45−169
-Bromomethane | 2.8−37.2 | 17.9 | D−41.2 | D−242
-Carbon tetrachloride | 14.6−25.4 | 5.2 | 17.2−23.5 | 70−140
-Chlorobenzene | 13.2−26.8 | 6.3 | 16.4−27.4 | 37−160
-Chloroethane | 7.6−32.4 | 11.4 | 8.4−40.4 | 14−230
-2-Chloroethylvinyl ether | D−44.8 | 25.9 | D−50.4 | D−305
-Chloroform | 13.5−26.5 | 6.1 | 13.7−24.2 | 51−138
-Chloromethane | D−40.8 | 19.8 | D−45.9 | D−273
-Dibromochloromethane | 13.5−26.5 | 6.1 | 13.8−26.6 | 53−149
-1,2-Dichlorobenzene | 12.6−27.4 | 7.1 | 11.8−34.7 | 18−190
-1,3-Dichlorobenzene | 14.6−25.4 | 5.5 | 17.0−28.8 | 59−156
-1,4-Dichlorobenzene | 12.6−27.4 | 7.1 | 11.8−34.7 | 18−190
-1,1-Dichloroethane | 14.5−25.5 | 5.1 | 14.2−28.5 | 59−155
-1,2-Dichloroethane | 13.6−26.4 | 6.0 | 14.3−27.4 | 49−155
-1,1-Dichlorothene | 10.1−29.9 | 9.1 | 3.7−42.3 | D−234
-trans-1,2-Dichloroethene | 13.9−26.1 | 5.7 | 13.6−28.5 | 54−156
-1,2-Dichloropropane | 6.8−33.2 | 13.8 | 3.8−36.2 | D−210
-cis-1,3-Dichloropropene | 4.8−35.2 | 15.8 | 1.0−39.0 | D−227
-trans-1,3-Dichloropropene | 10.0−30.0 | 10.4 | 7.6−32.4 | 17−183
-Ethyl benzene | 11.8−28.2 | 7.5 | 17.4−26.7 | 37−162
-Methylene chloride | 12.1−27.9 | 7.4 | D−41.0 | D−221
-1,1,2,2-Tetrachloroethane | 12.1−27.9 | 7.4 | 13.5−27.2 | 46−157
-Tetrachloroethene | 14.7−25.3 | 5.0 | 17.0−26.6 | 64−148
-Toluene | 14.9−25.1 | 4.8 | 16.6−26.7 | 47−150
-1,1,1-Trichloroethane | 15.0−25.0 | 4.6 | 13.7−30.1 | 52−162
-1,1,2-Trichloroethane | 14.2−25.8 | 5.5 | 14.3−27.1 | 52−150
-Trichloroethene | 13.3−26.7 | 6.6 | 18.6−27.6 | 71−157
-Trichlorofluoromethane | 9.6−30.4 | 10.0 | 8.9−31.5 | 17−181
-Vinyl chloride | 0.8−39.2 | 20.0 | D−43.5 | D−251
-Q= Concentration measured in QC check sample, in µg/L (Section 7.5.3).
-s= Standard deviation of four recovery measurements, in µg/L (Section 8.2.4).
-X= Average recovery of four recovery measurements, in µg/L (Section 8.2.4).
-P, Ps= Percent recovery measured, (Section 8.3.2, Section 8.4.2).
-D= Detected; result must be greater than zero.
-a Criteria were calculated assuming a QC check sample concentration of 20 µg/L.
-Note: These criteria are based directly upon the method performance data in Table 6. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 6.
-Table 6—Method Accuracy and Precision as Functions of Concentration—Method 624
-Parameter | Accuracy, as recovery, X′ (µg/L) | Single analyst precision, sr′ (µg/L) | Overall precision, S′ (µg/L)
-Benzene | 0.93C + 2.00 | 0.26X−1.74 | 0.25X−1.33
-Bromodichloromethane | 1.03C−1.58 | 0.15X + 0.59 | 0.20X + 1.13
-Bromoform | 1.18C−2.35 | 0.12X + 0.36 | 0.17X + 1.38
-Bromomethane a | 1.00C | 0.43X | 0.58X
-Carbon tetrachloride | 1.10C−1.68 | 0.12X + 0.25 | 0.11X + 0.37
-Chlorobenzene | 0.98C + 2.28 | 0.16X−0.09 | 0.26X−1.92
-Chloroethane | 1.18C + 0.81 | 0.14X + 2.78 | 0.29X + 1.75
-2-Chloroethylvinyl ether a | 1.00C | 0.62X | 0.84X
-Chloroform | 0.93C + 0.33 | 0.16X + 0.22 | 0.18X + 0.16
-Chloromethane | 1.03C + 0.81 | 0.37X + 2.14 | 0.58X + 0.43
-Dibromochloromethane | 1.01C−0.03 | 0.17X−0.18 | 0.17X + 0.49
-1,2-Dichlorobenzene b | 0.94C + 4.47 | 0.22X−1.45 | 0.30X−1.20
-1,3-Dichlorobenzene | 1.06C + 1.68 | 0.14X−0.48 | 0.18X−0.82
-1,4-Dichlorobenzene b | 0.94C + 4.47 | 0.22X−1.45 | 0.30X−1.20
-1,1-Dichloroethane | 1.05C + 0.36 | 0.13X−0.05 | 0.16X + 0.47
-1,2-Dichloroethane | 1.02C + 0.45 | 0.17X−0.32 | 0.21X−0.38
-1,1-Dichloroethene | 1.12C + 0.61 | 0.17X + 1.06 | 0.43X−0.22
-trans-1,2,-Dichloroethene | 1.05C + 0.03 | 0.14X + 0.09 | 0.19X + 0.17
-1,2-Dichloropropane a | 1.00C | 0.33X | 0.45X
-cis-1,3-Dichloropropene a | 1.00C | 0.38X | 0.52X
-trans-1,3-Dichloropropene a | 1.00C | 0.25X | 0.34X
-Ethyl benzene | 0.98C + 2.48 | 0.14X + 1.00 | 0.26X−1.72
-Methylene chloride | 0.87C + 1.88 | 0.15X + 1.07 | 0.32X + 4.00
-1,1,2,2-Tetrachloroethane | 0.93C + 1.76 | 0.16X + 0.69 | 0.20X + 0.41
-Tetrachloroethene | 1.06C + 0.60 | 0.13X−0.18 | 0.16X−0.45
-Toluene | 0.98C + 2.03 | 0.15X−0.71 | 0.22X−1.71
-1,1,1-Trichloroethane | 1.06C + 0.73 | 0.12X−0.15 | 0.21X−0.39
-1,1,2-Trichloroethane | 0.95C + 1.71 | 0.14X + 0.02 | 0.18X + 0.00
-Trichloroethene | 1.04C + 2.27 | 0.13X + 0.36 | 0.12X + 0.59
-Trichloroflouromethane | 0.99C + 0.39 | 0.33X−1.48 | 0.34X−0.39
-Vinyl chloride | 1.00C | 0.48X | 0.65X
+1,3-Dichlorobenzene | 146 | 148 and 111.
+1,2-Dichlorobenzene | 146 | 148 and 111.
+1,4-Dichlorobenzene | 146 | 148 and 111.
+Table 7—LCS (Q), DOC (s and X), and MS/MSD (P and RPD) Acceptance Criteria 1
+Analyte | Range for Q(%) | Limit for s(%) | Range for X (%) | Range for P1, P2 (%) | Limit for RPD
+Acrolein | 60-140 | 30 | 50-150 | 40-160 | 60
+Acrylonitrile | 60-140 | 30 | 50-150 | 40-160 | 60
+Benzene | 65-135 | 33 | 75-125 | 37-151 | 61
+Benzene-d6 | | |
+Bromodichloromethane | 65-135 | 34 | 50-140 | 35-155 | 56
+Bromoform | 70-130 | 25 | 57-156 | 45-169 | 42
+Bromomethane | 15-185 | 90 | D-206 | D-242 | 61
+2-Butanone-d5 | | |
+Carbon tetrachloride | 70-130 | 26 | 65-125 | 70-140 | 41
+Chlorobenzene | 65-135 | 29 | 82-137 | 37-160 | 53
+Chloroethane | 40-160 | 47 | 42-202 | 14-230 | 78
+Chloroethane-d5 | | |
+2-Chloroethylvinyl ether | D-225 | 130 | D-252 | D-305 | 71
+Chloroform | 70-135 | 32 | 68-121 | 51-138 | 54
+Chloroform-13C | | |
+Chloromethane | D-205 | 472 | D-230 | D-273 | 60
+Dibromochloromethane | 70-135 | 30 | 69-133 | 53-149 | 50
+1,2-Dichlorobenzene | 65-135 | 31 | 59-174 | 18-190 | 57
+1,2-Dichlorobenzene-d4 | | |
+1,3-Dichlorobenzene | 70-130 | 24 | 75-144 | 59-156 | 43
+1,4-Dichlorobenzene | 65-135 | 31 | 59-174 | 18-190 | 57
+1,1-Dichloroethane | 70-130 | 24 | 71-143 | 59-155 | 40
+1,2-Dichloroethane | 70-130 | 29 | 72-137 | 49-155 | 49
+1,2-Dichloroethane-d4 | | |
+1,1-Dichloroethene | 50-150 | 40 | 19-212 | D-234 | 32
+1,1-Dichloroethene-d2 | | |
+trans-1,2-Dichloroethene | 70-130 | 27 | 68-143 | 54-156 | 45
+1,2-Dichloropropane | 35-165 | 69 | 19-181 | D-210 | 55
+1,2-Dichloropropane-d6 | | |
+cis-1,3-Dichloropropene | 25-175 | 79 | 5-195 | D-227 | 58
+trans-1,3-Dichloropropene | 50-150 | 52 | 38-162 | 17-183 | 86
+trans-1,3-Dichloropropene-d4 | | |
+Ethyl benzene | 60-140 | 34 | 75-134 | 37-162 | 63
+2-Hexanone-d5 | | |
+Methylene chloride | 60-140 | 192 | D-205 | D-221 | 28
+1,1,2,2-Tetrachloroethane | 60-140 | 36 | 68-136 | 46-157 | 61
+1,1,2,2-Tetrachloroethane-d2 | | |
+Tetrachloroethene | 70-130 | 23 | 65-133 | 64-148 | 39
+Toluene | 70-130 | 22 | 75-134 | 47-150 | 41
+Toluene-d8 | | |
+1,1,1-Trichloroethane | 70-130 | 21 | 69-151 | 52-162 | 36
+1,1,2-Trichloroethane | 70-130 | 27 | 75-136 | 52-150 | 45
+Trichloroethene | 65-135 | 29 | 75-138 | 70-157 | 48
+Trichlorofluoromethane | 50-150 | 50 | 45-158 | 17-181 | 84
+Vinyl chloride | 5-195 | 100 | D-218 | D-251 | 66
+Vinyl chloride-d3 | | | |
+1 Criteria were calculated using an LCS concentration of 20 µg/L.
+Q = Percent recovery in calibration verification/LCS (section 8.4).
+s = Standard deviation of percent recovery for four recovery measurements (section 8.2.4).
+X = Average percent recovery for four recovery measurements (section 8.2.4).
+P = Percent recovery for the MS or MSD (section 8.3.3).
+D = Detected; result must be greater than zero.
+Notes:
+1. Criteria for pollutants are based upon the method performance data in Reference 4. Where necessary, limits have been broadened to assure applicability to concentrations below those used to develop Table 7.
+2. Criteria for surrogates are from EPA CLP SOM01.2D.
+Table 8—Recovery and Precision as Functions of Concentration
+Analyte | Recovery, X′(µg/L) | Single analyst precision, sr′(µg/L) | Overallprecision, S′ (µg/L)
+Benzene | 0.93C+2.00 | 20.26 X−1.74 | 0.25 X−1.33
+Bromodichloromethane | 1.03C−1.58 | 0.15 X+0.59 | 0.20 X+1.13
+Bromoform | 1.18C−2.35 | 0.12 X+0.36 | 0.17 X+1.38
+Bromomethane a | 1.00C | 0.43 X | 0.58 X
+Carbon tetrachloride | 1.10C−1.68 | 0.12 X+0.25 | 0.11 X+0.37
+Chlorobenzene | 0.98C+2.28 | 0.16 X−0.09 | 0.26 X−1.92
+Chloroethane | 1.18C+0.81 | 0.14 X+2.78 | 0.29 X+1.75
+2-Chloroethylvinyl ether a | 1.00C | 0.62 X | 0.84 X
+Chloroform | 0.93C+0.33 | 0.16 X+0.22 | 0.18 X+0.16
+Chloromethane | 1.03C+0.81 | 0.37 X+2.14 | 0.58 X+0.43
+Dibromochloromethane | 1.01C−0.03 | 0.17 X−0.18 | 0.17 X+0.49
+1,2-Dichlorobenzene b | 0.94C+4.47 | 0.22 X−1.45 | 0.30 X−1.20
+1,3-Dichlorobenzene | 1.06C+1.68 | 0.14 X−0.48 | 0.18 X−0.82
+1,4-Dichlorobenzene b | 0.94C+4.47 | 0.22 X−1.45 | 0.30 X−1.20
+1,1-Dichloroethane | 1.05C+0.36 | 0.13 X−0.05 | 0.16 X+0.47
+1,2-Dichloroethane | 1.02C+0.45 | 0.17 X−0.32 | 0.21 X−0.38
+1,1-Dichloroethene | 1.12C+0.61 | 0.17 X+1.06 | 0.43 X−0.22
+trans-1,2,-Dichloroethene | 1.05C+0.03 | 0.14 X−+0.09 | 0.19 X−+0.17
+1,2-Dichloropropane a | 1.00C | 0.33 X | 0.45 X
+cis-1,3-Dichloropropene a | 1.00C | 0.38 X | 0.52 X
+trans-1,3-Dichloropropene a | 1.00C | 0.25 X | 0.34 X
+Ethyl benzene | 0.98C+2.48 | 0.14 X+1.00 | 0.26 X−1.72
+Methylene chloride | 0.87C+1.88 | 0.15 X+1.07 | 0.32 X+4.00
+1,1,2,2-Tetrachloroethane | 0.93C+1.76 | 0.16 X+0.69 | 0.20 X+0.41
+Tetrachloroethene | 1.06C+0.60 | 0.13 X−0.18 | 0.16 X−0.45
+Toluene | 0.98C+2.03 | 0.15 X−0.71 | 0.22 X−1.71
+1,1,1-Trichloroethane | 1.06C+0.73 | 0.12 X−0.15 | 0.21 X−0.39
+1,1,2-Trichloroethane | 0.95C+1.71 | 0.14 X+0.02 | 0.18 X+0.00
+Trichloroethene | 1.04C+2.27 | 0.13 X+0.36 | 0.12 X+0.59
+Trichlorofluoromethane | 0.99C+0.39 | 0.33 X−1.48 | 0.34 X−0.39
+Vinyl chloride | 1.00C | 0.48 X | 0.65 X
 X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L.
-Sr = Expected single analyst standard deviation of measurements at an average concentration found ofX, in µg/L.
-S′ = Expected interlaboratory standard deviation of measurements at an average concentration found ofX, in µg/L.
+Sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L.
+S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L.
 C = True value for the concentration, in µg/L.
 X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
-a Estimates based upon the performance in a single laboratory. 13
-b Due to chromatographic resolution problems, performance statements for these isomers are based upon the sums of their concentrations.
-EC02JY92.038
-EC02JY92.039
-EC02JY92.040
-EC02JY92.041
-Method 625—Base/Neutrals and Acids
+a Estimates based upon the performance in a single laboratory (References 4 and 16).
+b Due to coelutions, performance statements for these isomers are based upon the sums of their concentrations.
+19. Glossary
+These definitions and purposes are specific to this method, but have been conformed to common usage to the extent possible.
+19.1 Units of weight and measure and their abbreviations.
+19.1.1 Symbols.
+°C degrees Celsius
+µg microgram
+µL microliter
+< less than
+> greater than
+% percent
+19.1.2 Abbreviations (in alphabetical order).
+cm centimeter
+g gram
+h hour
+ID inside diameter
+in. inch
+L liter
+m mass
+mg milligram
+min minute
+mL milliliter
+mm millimeter
+ms millisecond
+m/z mass-to-charge ratio
+N normal; gram molecular weight of solute divided by hydrogen equivalent of solute, per liter of solution
+ng nanogram
+pg picogram
+ppb part-per-billion
+ppm part-per-million
+ppt part-per-trillion
+psig pounds-per-square inch gauge
+v/v volume per unit volume
+w/v weight per unit volume
+19.2 Definitions and acronyms (in alphabetical order).
+Analyte—A compound tested for by this method. The analytes are listed in Tables 1 and 2.
+Analyte of interest—An analyte of interest is an analyte required to be determined by a regulatory/control authority or in a permit, or by a client.
+Analytical batch—The set of samples analyzed on a given instrument during a 12-hour period that begins with analysis of a calibration verification/LCS. See section 8.4.
+Blank—An aliquot of reagent water that is treated exactly as a sample including exposure to all glassware, equipment, solvents, reagents, internal standards, and surrogates that are used with samples. The blank is used to determine if analytes or interferences are present in the laboratory environment, the reagents, or the apparatus. See section 8.5.
+Calibration—The process of determining the relationship between the output or response of a measuring instrument and the value of an input standard. Historically, EPA has referred to a multi-point calibration as the "initial calibration," to differentiate it from a single-point calibration verification.
+Calibration standard—A solution prepared from stock solutions and/or a secondary standards and containing the analytes of interest, surrogates, and internal standards. The calibration standard is used to calibrate the response of the GC/MS instrument against analyte concentration.
+Calibration verification standard—The laboratory control sample (LCS) used to verify calibration. See Section 8.4.
+Descriptor—In SIM, the beginning and ending retention times for the RT window, the m/z's sampled in the RT window, and the dwell time at each m/z.
+Extracted ion current profile (EICP)—The line described by the signal at a given m/z.
+Field duplicates—Two samples collected at the same time and place under identical conditions, and treated identically throughout field and laboratory procedures. Results of analyses of field duplicates provide an estimate of the precision associated with sample collection, preservation, and storage, as well as with laboratory procedures.
+Field blank—An aliquot of reagent water or other reference matrix that is placed in a sample container in the field, and treated as a sample in all respects, including exposure to sampling site conditions, storage, preservation, and all analytical procedures. The purpose of the field blank is to determine if the field or sample transporting procedures and environments have contaminated the sample.
+GC—Gas chromatograph or gas chromatography.
+Internal standard—A compound added to a sample in a known amount and used as a reference for quantitation of the analytes of interest and surrogates. Internal standards are listed in Table 5. Also see Internal standard quantitation.
+Internal standard quantitation—A means of determining the concentration of an analyte of interest (Tables 1 and 2) by reference to a compound added to a sample and not expected to be found in the sample.
+DOC—Initial demonstration of capability (DOC; section 8.2); four aliquots of reagent water spiked with the analytes of interest and analyzed to establish the ability of the laboratory to generate acceptable precision and recovery. A DOC is performed prior to the first time this method is used and any time the method or instrumentation is modified.
+Laboratory control sample (LCS; laboratory fortified blank (LFB); on-going precision and recovery sample; OPR)—An aliquot of reagent water spiked with known quantities of the analytes of interest and surrogates. The LCS is analyzed exactly like a sample. Its purpose is to assure that the results produced by the laboratory remain within the limits specified in this method for precision and recovery. In this method, the LCS is synonymous with a calibration verification sample (See sections 7.4 and 8.4).
+Laboratory fortified sample matrix—See Matrix spike.
+Laboratory reagent blank—See Blank.
+Matrix spike (MS) and matrix spike duplicate (MSD) (laboratory fortified sample matrix and duplicate)—Two aliquots of an environmental sample to which known quantities of the analytes of interest and surrogates are added in the laboratory. The MS/MSD are prepared and analyzed exactly like a field sample. Their purpose is to quantify any additional bias and imprecision caused by the sample matrix. The background concentrations of the analytes in the sample matrix must be determined in a separate aliquot and the measured values in the MS/MSD corrected for background concentrations.
+May—This action, activity, or procedural step is neither required nor prohibited.
+May not—This action, activity, or procedural step is prohibited.
+Method blank (laboratory reagent blank)—See Blank.
+Method detection limit (MDL)—A detection limit determined by the procedure at 40 CFR part 136, appendix B. The MDLs determined by EPA in the original version of the method are listed in Table 1. As noted in Sec. 1.4, use the MDLs in Table 1 in conjunction with current MDL data from the laboratory actually analyzing samples to assess the sensitivity of this procedure relative to project objectives and regulatory requirements (where applicable).
+Minimum level (ML)—The term "minimum level" refers to either the sample concentration equivalent to the lowest calibration point in a method or a multiple of the method detection limit (MDL), whichever is higher. Minimum levels may be obtained in several ways: They may be published in a method; they may be based on the lowest acceptable calibration point used by a laboratory; or they may be calculated by multiplying the MDL in a method, or the MDL determined by a laboratory, by a factor of 3. For the purposes of NPDES compliance monitoring, EPA considers the following terms to be synonymous: "quantitation limit," "reporting limit," and "minimum level."
+MS—Mass spectrometer or mass spectrometry.
+Must—This action, activity, or procedural step is required.
+m/z—The ratio of the mass of an ion (m) detected in the mass spectrometer to the charge (z) of that ion.
+Quality control sample (QCS)—A sample containing analytes of interest at known concentrations. The QCS is obtained from a source external to the laboratory or is prepared from standards obtained from a different source than the calibration standards.
+The purpose is to check laboratory performance using test materials that have been prepared independent of the normal preparation process.
+Reagent water—Water demonstrated to be free from the analytes of interest and potentially interfering substances at the MDLs for the analytes in this method.
+Regulatory compliance limit (or regulatory concentration limit)—A limit on the concentration or amount of a pollutant or contaminant specified in a nationwide standard, in a permit, or otherwise established by a regulatory/control authority.
+Relative retention time (RRT)—The ratio of the retention time of an analyte to the retention time of its associated internal standard. RRT compensates for small changes in the GC temperature program that can affect the absolute retention times of the analyte and internal standard. RRT is a unitless quantity.
+Relative standard deviation (RSD)—The standard deviation times 100 divided by the mean. Also termed "coefficient of variation."
+RF—Response factor. See section 7.3.3.
+RSD—See relative standard deviation.
+Safety Data Sheet (SDS)—Written information on a chemical's toxicity, health hazards, physical properties, fire, and reactivity, including storage, spill, and handling precautions that meet the requirements of OSHA, 29 CFR 1910.1200(g) and appendix D to § 1910.1200. United Nations Globally Harmonized System of Classification and Labelling of Chemicals (GHS), third revised edition, United Nations, 2009.
+Selected Ion Monitoring (SIM)—An MS technique in which a few m/z's are monitored. When used with gas chromatography, the m/z's monitored are usually changed periodically throughout the chromatographic run to correlate with the characteristic m/z's for the analytes, surrogates, and internal standards as they elute from the chromatographic column. The technique is often used to increase sensitivity and minimize interferences.
+Signal-to-noise ratio (S/N)—The height of the signal as measured from the mean (average) of the noise to the peak maximum divided by the width of the noise.
+SIM—See Selection Ion Monitoring.
+Should—This action, activity, or procedural step is suggested but not required.
+Stock solution—A solution containing an analyte that is prepared using a reference material traceable to EPA, the National Institute of Science and Technology (NIST), or a source that will attest to the purity and authenticity of the reference material.
+Surrogate—A compound unlikely to be found in a sample, and which is spiked into sample in a known amount before purge-and-trap. The surrogate is quantitated with the same procedures used to quantitate the analytes of interest. The purpose of the surrogate is to monitor method performance with each sample.
+VOA—Volatile organic analysis: e.g., the analysis performed by this method.
+Method 625.1—Base/Neutrals and Acids by GC/MS
 1. Scope and Application
-1.1 This method covers the determination of a number of organic compounds that are partitioned into an organic solvent and are amenable to gas chromatography. The parameters listed in Tables 1 and 2 may be qualitatively and quantitatively determined using this method.
-1.2 The method may be extended to include the parameters listed in Table 3. Benzidine can be subject to oxidative losses during solvent concentration. Under the alkaline conditions of the extraction step, α-BHC, γ-BHC, endosulfan I and II, and endrin are subject to decomposition. Hexachlorocyclopentadiene is subject to thermal decomposition in the inlet of the gas chromatograph, chemical reaction in acetone solution, and photochemical decomposition. N-nitrosodimethylamine is difficult to separate from the solvent under the chromatographic conditions described. N-nitrosodiphenylamine decomposes in the gas chromatographic inlet and cannot be separated from diphenylamine. The preferred method for each of these parameters is listed in Table 3.
-1.3 This is a gas chromatographic/mass spectrometry (GC/MS) method 2 14 applicable to the determination of the compounds listed in Tables 1, 2, and 3 in municipal and industrial discharges as provided under 40 CFR 136.1.
-1.4 The method detection limit (MDL, defined in Section 16.1) 1 for each parameter is listed in Tables 4 and 5. The MDL for a specific wastewater may differ from those listed, depending upon the nature of interferences in the sample matrix.
-1.5 Any modification to this method, beyond those expressly permitted, shall be considered as a major modification subject to application and approval of alternate test procedures under 40 CFR 136.4 and 136.5. Depending upon the nature of the modification and the extent of intended use, the applicant may be required to demonstrate that the modifications will produce equivalent results when applied to relevant wastewaters.
-1.6 This method is restricted to use by or under the supervision of analysts experienced in the use of a gas chromatograph/mass spectrometer and in the interpretation of mass spectra. Each analyst must demonstrate the ability to generate acceptable results with this method using the procedure described in Section 8.2.
+1.1 This method is for determination of semivolatile organic pollutants in industrial discharges and other environmental samples by gas chromatography combined with mass spectrometry (GC/MS), as provided under 40 CFR 136.1. This revision is based on a previous protocol (Reference 1), on the basic revision promulgated October 26, 1984, and on an interlaboratory method validation study (Reference 2). Although this method was validated through an interlaboratory study conducted in the early 1980s, the fundamental chemistry principles used in this method remain sound and continue to apply.
+1.2 The analytes that may be qualitatively and quantitatively determined using this method and their CAS Registry numbers are listed in Tables 1 and 2. The method may be extended to determine the analytes listed in Table 3; however, extraction or gas chromatography of some of these analytes may make quantitative determination difficult. For example, benzidine is subject to oxidative losses during extraction and/or solvent concentration. Under the alkaline conditions of the extraction, alpha-BHC, gamma-BHC, endosulfan I and II, and endrin are subject to decomposition. Hexachlorocyclopentadiene is subject to thermal decomposition in the inlet of the gas chromatograph, chemical reaction in acetone solution, and photochemical decomposition. N-nitrosodiphenylamine and other nitrosoamines may decompose in the gas chromatographic inlet. The sample may be extracted at neutral pH if necessary to overcome these or other decomposition problems that could occur at alkaline or acidic pH. EPA also has provided other methods (e.g., Method 607—Nitrosamines) that may be used for determination of some of these analytes. EPA encourages use of Method 625.1 to determine additional compounds amenable to extraction and GC/MS.
+1.3 The large number of analytes in Tables 1-3 of this method makes testing difficult if all analytes are determined simultaneously. Therefore, it is necessary to determine and perform quality control (QC) tests for the "analytes of interest" only. Analytes of interest are those required to be determined by a regulatory/control authority or in a permit, or by a client. If a list of analytes is not specified, the analytes in Tables 1 and 2 must be determined, at a minimum, and QC testing must be performed for these analytes. The analytes in Tables 1 and 2, and some of the analytes in Table 3 have been identified as Toxic Pollutants (40 CFR 401.15), expanded to a list of Priority Pollutants (40 CFR part 423, appendix A).
+1.4 In this revision to Method 625, the pesticides and polychlorinated biphenyls (PCBs) have been moved from Table 1 to Table 3 (Additional Analytes) to distinguish these analytes from the analytes required in quality control tests (Tables 1 and 2). QC acceptance criteria for pesticides and PCBs have been retained in Table 6 and may continue to be applied if desired, or if requested or required by a regulatory/control authority or in a permit. Method 608.3 should be used for determination of pesticides and PCBs. However, if pesticides and/or PCBs are to be determined, an additional sample must be collected and extracted using the pH adjustment and extraction procedures specified in Method 608.3. Method 1668C may be useful for determination of PCBs as individual chlorinated biphenyl congeners, and Method 1699 may be useful for determination of pesticides. At the time of writing of this revision, Methods 1668C and 1699 had not been approved for use at 40 CFR part 136. The screening procedure for 2,3,7,8-tetrachlorodibenzo-p-dioxin (2,3,7,8-TCDD) contained in the version of Method 625 promulgated October 26, 1984 has been replaced with procedures for selected ion monitoring (SIM), and 2,3,7,8-TCDD may be determined using the SIM procedures. However, EPA Method 613 or 1613B should be used for analyte-specific determination of 2,3,7,8-TCDD because of the focus of these methods on this compound. Methods 613 and 1613B are approved for use at 40 CFR part 136.
+1.5 Method detection limits (MDLs; Reference 3) for the analytes in Tables 1, 2, and 3 are listed in those tables. These MDLs were determined in reagent water (Reference 4). Advances in analytical technology, particularly the use of capillary (open-tubular) columns, allowed laboratories to routinely achieve MDLs for the analytes in this method that are 2-10 times lower than those in the version promulgated in 1984. The MDL for an analyte in a specific wastewater may differ from those listed, depending upon the nature of interferences in the sample matrix.
+1.5.1 EPA has promulgated this method at 40 CFR part 136 for use in wastewater compliance monitoring under the National Pollutant Discharge Elimination System (NPDES). The data reporting practices described in section 15.2 are focused on such monitoring needs and may not be relevant to other uses of the method.
+1.5.2 This method includes "reporting limits" based on EPA's "minimum level" (ML) concept (see the glossary in section 22). Tables 1, 2, and 3 contain MDL values and ML values for many of the analytes.
+1.6 This method is performance-based. It may be modified to improve performance (e.g., to overcome interferences or improve the accuracy of results) provided all performance requirements are met.
+1.6.1 Examples of allowed method modifications are described at 40 CFR 136.6. Other examples of allowed modifications specific to this method, including solid-phase extraction (SPE) are described in section 8.1.2.
+1.6.2 Any modification beyond those expressly permitted at 40 CFR 136.6 or in section 8.1.2 of this method shall be considered a major modification subject to application and approval of an alternate test procedure under 40 CFR 136.4 and 136.5.
+1.6.3 For regulatory compliance, any modification must be demonstrated to produce results equivalent or superior to results produced by this method when applied to relevant wastewaters (section 8.3).
+1.7 This method is restricted to use by or under the supervision of analysts experienced in the use of a gas chromatograph/mass spectrometer and in the interpretation of mass spectra. Each laboratory that uses this method must demonstrate the ability to generate acceptable results using the procedure in Section 8.2.
+1.8 Terms and units of measure used in this method are given in the glossary at the end of the method.
 2. Summary of Method
-2.1 A measured volume of sample, approximately 1-L, is serially extracted with methylene chloride at a pH greater than 11 and again at a pH less than 2 using a separatory funnel or a continuous extractor. 2 The methylene chloride extract is dried, concentrated to a volume of 1 mL, and analyzed by GC/MS. Qualitative identification of the parameters in the extract is performed using the retention time and the relative abundance of three characteristic masses (m/z). Quantitative analysis is performed using internal standard techniques with a single characteristic m/z.
-3. Interferences
-3.1 Method interferences may be caused by contaminants in solvents, reagents, glassware, and other sample processing hardware that lead to discrete artifacts and/or elevated baselines in the total ion current profiles. All of these materials must be routinely demonstrated to be free from interferences under the conditions of the analysis by running laboratory reagent blanks as described in Section 8.1.3.
-3.1.1 Glassware must be scrupulously cleaned. 3 Clean all glassware as soon as possible after use by rinsing with the last solvent used in it. Solvent rinsing should be followed by detergent washing with hot water, and rinses with tap water and distilled water. The glassware should then be drained dry, and heated in a muffle furnace at 400 °C for 15 to 30 min. Some thermally stable materials, such as PCBs, may not be eliminated by this treatment. Solvent rinses with acetone and pesticide quality hexane may be substituted for the muffle furnace heating. Thmrough rinsing with such solvents usually eliminates PCB interference. Volumetric ware should not be heated in a muffle furnace. After drying and cooling, glassware should be sealed and stored in a clean environment to prevent any accumulation of dust or other contaminants. Store inverted or capped with aluminum foil.
-3.1.2 The use of high purity reagents and solvents helps to minimize interference problems. Purification of solvents by distillation in all-glass systems may be required.
-3.2 Matrix interferences may be caused by contaminants that are co-extracted from the sample. The extent of matrix interferences will vary considerably from source to source, depending upon the nature and diversity of the industrial complex or municipality being sampled.
-3.3 The base-neutral extraction may cause significantly reduced recovery of phenol, 2-methylphenol, and 2,4-dimethylphenol. The analyst must recognize that results obtained under these conditions are minimum concentrations.
-3.4 The packed gas chromatographic columns recommended for the basic fraction may not exhibit sufficient resolution for certain isomeric pairs including the following: anthracene and phenanthrene; chrysene and benzo(a)anthracene; and benzo(b)fluoranthene and benzo(k)fluoranthene. The gas chromatographic retention time and mass spectra for these pairs of compounds are not sufficiently different to make an unambiguous identification. Alternative techniques should be used to identify and quantify these specific compounds, such as Method 610.
-3.5 In samples that contain an inordinate number of interferences, the use of chemical ionization (CI) mass spectrometry may make identification easier. Tables 6 and 7 give characteristic CI ions for most of the compounds covered by this method. The use of CI mass spectrometry to support electron ionization (EI) mass spectrometry is encouraged but not required.
+2.1 A measured volume of sample, sufficient to meet an MDL or reporting limit, is serially extracted with methylene chloride at pH 11-13 and again at a pH less than 2 using a separatory funnel or continuous liquid/liquid extractor.
+2.2 The extract is concentrated to a volume necessary to meet the required compliance or detection limit, and analyzed by GC/MS. Qualitative identification of an analyte in the extract is performed using the retention time and the relative abundance of two or more characteristic masses (m/z's). Quantitative analysis is performed using the internal standard technique with a single characteristic m/z.
+3. Contamination and Interferences
+3.1 Solvents, reagents, glassware, and other sample processing labware may yield artifacts, elevated baselines, or matrix interferences causing misinterpretation of chromatograms and mass spectra. All materials used in the analysis must be demonstrated to be free from contamination and interferences by analyzing blanks initially and with each extraction batch (samples started through the extraction process in a given 24-hour period, to a maximum of 20 samples—see Glossary for detailed definition), as described in Section 8.5. Specific selection of reagents and purification of solvents by distillation in all-glass systems may be required. Where possible, labware is cleaned by extraction or solvent rinse, or baking in a kiln or oven.
+3.2 Glassware must be scrupulously cleaned (Reference 5). Clean all glassware as soon as possible after use by rinsing with the last solvent used in it. Solvent rinsing should be followed by detergent washing with hot water, and rinses with tap water and reagent water. The glassware should then be drained dry, and heated at 400 °C for 15-30 minutes. Some thermally stable materials, such as PCBs, may require higher temperatures and longer baking times for removal. Solvent rinses with pesticide quality acetone, hexane, or other solvents may be substituted for heating. Do not heat volumetric labware above 90 °C. After drying and cooling, store inverted or capped with solvent-rinsed or baked aluminum foil in a clean environment to prevent accumulation of dust or other contaminants.
+3.3 Matrix interferences may be caused by contaminants co-extracted from the sample. The extent of matrix interferences will vary considerably from source to source, depending upon the nature and diversity of the industrial complex or municipality being sampled. Interferences extracted from samples high in total organic carbon (TOC) may result in elevated baselines, or by enhancing or suppressing a signal at or near the retention time of an analyte of interest. Analyses of the matrix spike and duplicate (section 8.3) may be useful in identifying matrix interferences, and gel permeation chromatography (GPC; Section 11.1) and sulfur removal (section 11.2) may aid in eliminating these interferences. EPA has provided guidance that may aid in overcoming matrix interferences (Reference 6).
+3.4 In samples that contain an inordinate number of interferences, the use of chemical ionization (CI) or triple quadrupole (MRM) mass spectrometry may make identification easier. Tables 4 and 5 give characteristic CI and MRM m/z's for many of the analytes covered by this method. The use of CI or MRM mass spectrometry may be utilized to support electron ionization (EI) mass spectrometry or as a primary method for identification and quantification. While the use of these enhanced techniques is encouraged, it is not required.
 4. Safety
-4.1 The toxicity or carcinogenicity of each reagent used in this method have not been precisely defined; however, each chemical compound should be treated as a potential health hazard. From this viewpoint, exposure to these chemicals must be reduced to the lowest possible level by whatever means available. The laboratory is responsible for maintaining a current awareness file of OSHA regulations regarding the safe handling of the chemicals specified in this method. A reference file of material data handling sheets should also be made available to all personnel involved in the chemical analysis. Additional references to laboratory safety are available and have been identified 4-6 for the information of the analyst.
-4.2 The following parameters covered by this method have been tentatively classified as known or suspected, human or mammalian carcinogens: benzo(a)anthracene, benzidine, 3,3′-dichlorobenzidine, benzo(a)pyrene, α-BHC, β-BHC, δ-BHC, γ-BHC, dibenzo(a,h)anthracene, N-nitrosodimethylamine, 4,4′-DDT, and polychlorinated biphenyls (PCBs). Primary standards of these toxic compounds should be prepared in a hood. A NIOSH/MESA approved toxic gas respirator should be worn when the analyst handles high concentrations of these toxic compounds.
+4.1 Hazards associated with each reagent used in this method have not been precisely defined; however, each chemical compound should be treated as a potential health hazard. From this viewpoint, exposure to these chemicals must be reduced to the lowest possible level by whatever means available. The laboratory is responsible for maintaining a current awareness file of OSHA regulations regarding the safe handling of the chemicals specified in this method. A reference file of safety data sheets (SDSs, OSHA, 29 CFR 1910.1200(g)) should also be made available to all personnel involved in sample handling and chemical analysis. Additional references to laboratory safety are available and have been identified (References 7-9) for the information of the analyst.
+4.2 The following analytes covered by this method have been tentatively classified as known or suspected human or mammalian carcinogens: Benzo(a)anthracene, benzidine, 3,3′-dichlorobenzidine, benzo(a)pyrene, alpha-BHC, beta-BHC, delta-BHC, gamma-BHC, Dibenz(a,h)-anthracene, N-nitrosodimethylamine, 4,4′-DDT, and PCBs. Other compounds in Table 3 may also be toxic. Primary standards of toxic compounds should be prepared in a chemical fume hood, and a NIOSH/MESA approved toxic gas respirator should be worn when handling high concentrations of these compounds.
+4.3 This method allows the use of hydrogen as a carrier gas in place of helium (section 5.6.1.2). The laboratory should take the necessary precautions in dealing with hydrogen, and should limit hydrogen flow at the source to prevent buildup of an explosive mixture of hydrogen in air.
 5. Apparatus and Materials
-5.1 Sampling equipment, for discrete or composit sampling.
-5.1.1 Grab sample bottle—1-L or 1-gt, amber glass, fitted with a screw cap lined with Teflon. Foil may be substituted for Teflon if the sample is not corrosive. If amber bottles are not available, protect samples from light. The bottle and cap liner must be washed, rinsed with acetone or methylene chloride, and dried before use to minimize contamination.
-5.1.2 Automatic sampler (optional)—The sampler must incorporate glass sample containers for the collection of a minimum of 250 mL of sample. Sample containers must be kept refrigerated at 4 °C and protected from light during compositing. If the sampler uses a peristaltic pump, a minimum length of compressible silicone rubber tubing may be used. before use, however, the compressible tubing should be throughly rinsed with methanol, followed by repeated rinsings with distilled water to minimize the potential for contamination of the sample. An integrating flow meter is required to collect flow proportional composites.
-5.2 Glassware (All specifications are suggested. Catalog numbers are included for illustration only.):
-5.2.1 Separatory funnel—2-L, with Teflon stopcock.
-5.2.2 Drying column—Chromatographic column, 19 mm ID, with coarse frit
-5.2.3 Concentrator tube, Kuderna-Danish—10-mL, graduated (Kontes K-570050-1025 or equivalent). Calibration must be checked at the volumes employed in the test. Ground glass stopper is used to prevent evaporation of extracts.
-5.2.4 Evaporative flask, Kuderna-Danish—500-mL (Kontes K-57001-0500 or equivalent). Attach to concentrator tube with springs.
-5.2.5 Snyder column, Kuderna-Danish—Three all macro (Kontes K-503000-0121 or equivalent).
-5.2.6 Snyder column, Kuderna-Danish—Two-ball macro (Kontes K-569001-0219 or equivalent).
-5.2.7 Vials—10 to 15-mL, amber glass, with Teflon-lined screw cap.
-5.2.8 Continuous liquid—liquid extractor—Equipped with Teflon or glass connecting joints and stopcocks requiring no lubrication. (Hershberg-Wolf Extractor, Ace Glass Company, Vineland, N.J., P/N 6841-10 or equivalent.)
-5.3 Boiling chips—Approximately 10/40 mesh. Heat to 400 °C for 30 min of Soxhlet extract with methylene chloride.
+Note: Brand names, suppliers, and part numbers are for illustration purposes only. No endorsement is implied. Equivalent performance may be achieved using equipment and materials other than those specified here. Demonstrating that the equipment and supplies used in the laboratory achieves the required performance is the responsibility of the laboratory. Suppliers for equipment and materials in this method may be found through an on-line search. Please do not contact EPA for supplier information.
+5.1 Sampling equipment, for discrete or composite sampling.
+5.1.1 Grab sample bottle—amber glass bottle large enough to contain the necessary sample volume, fitted with a fluoropolymer-lined screw cap. Foil may be substituted for fluoropolymer if the sample is not corrosive. If amber bottles are not available, protect samples from light. Unless pre-cleaned, the bottle and cap liner must be washed, rinsed with acetone or methylene chloride, and dried before use to minimize contamination.
+5.1.2 Automatic sampler (optional)—the sampler must incorporate a pre-cleaned glass sample container. Samples must be kept refrigerated at ≤6 °C and protected from light during compositing. If the sampler uses a peristaltic pump, a minimum length of compressible silicone rubber tubing may be used. Before use, however, rinse the compressible tubing with methanol, followed by repeated rinsing with reagent water, to minimize the potential for sample contamination. An integrating flow meter is required to collect flow-proportioned composites.
+5.2 Glassware.
+5.2.1 Separatory funnel—Size appropriate to hold sample volume and extraction solvent volume, and equipped with fluoropolymer stopcock.
+5.2.2 Drying column—Chromatographic column, approximately 400 mm long by 19 mm ID, with coarse frit, or equivalent, sufficient to hold 15 g of anhydrous sodium sulfate.
+5.2.3 Concentrator tube, Kuderna-Danish—10 mL, graduated (Kontes 570050-1025 or equivalent). Calibration must be checked at the volumes employed in the test. A ground glass stopper is used to prevent evaporation of extracts.
+5.2.4 Evaporative flask, Kuderna-Danish—500 mL (Kontes 57001-0500 or equivalent). Attach to concentrator tube with springs.
+Note: Use of a solvent recovery system with the K-D or other solvent evaporation apparatus is strongly recommended.
+5.2.5 Snyder column, Kuderna-Danish—Three-ball macro (Kontes 503000-0121 or equivalent).
+5.2.6 Snyder column, Kuderna-Danish—Two-ball micro (Kontes 569001-0219 or equivalent).
+5.2.7 Vials—10-15 mL, amber glass, with Teflon-lined screw cap.
+5.2.8 Continuous liquid-liquid extractor—Equipped with fluoropolymer or glass connecting joints and stopcocks requiring no lubrication. (Hershberg-Wolf Extractor, Ace Glass Company, Vineland, NJ, P/N 6848-20, or equivalent.)
+5.2.9 In addition to the glassware listed above, the laboratory should be equipped with all necessary pipets, volumetric flasks, beakers, and other glassware listed in this method and necessary to perform analyses successfully.
+5.3 Boiling chips—Approximately 10/40 mesh, glass, silicon carbide, or equivalent. Heat to 400 °C for 30 minutes, or solvent rinse or Soxhlet extract with methylene chloride.
 5.4 Water bath—Heated, with concentric ring cover, capable of temperature control (±2 °C). The bath should be used in a hood.
-5.5 Balance—Analytical, capable of accurately weighing 0.0001 g.
-5.6 GC/MS system:
-5.6.1 Gas Chromatograph—An analytical system complete with a temperature programmable gas chromatograph and all required accessores including syringes, analytical columns, and gases. The injection port must be designed for on-column injection when using packed columns and for splitless injection when using capillary columns.
-5.6.2 Column for base/neutrals—1.8 m long × 2 mm ID glass, packed with 3% SP-2250 on Supelcoport (100/120 mesh) or equivalent. This column was used to develop the method performance statements in Section 16. Guidelines for the use of alternate column packings are provided in Section 13.1.
-5.6.3 Column for acids—1.8 m long × 2 mm ID glass, packed with 1% SP-1240DA on Supelcoport (100/120 mesh) or equivalent. This column was used to develop the method performance statements in Section 16. Guidelines for the use of alternate column packings are given in Section 13.1.
-5.6.4 Mass spectrometer—Capable of scanning from 35 to 450 amu every 7 s or less, utilizing a 70 V (nominal) electron energy in the electron impact ionization mode, and producing a mass spectrum which meets all the criteria in Table 9 when 50 ng of decafluorotriphenyl phosphine (DFTPP; bis(perfluorophenyl) phenyl phosphine) is injected through the GC inlet.
-5.6.5 GC/MS interface—Any GC to MS interface that gives acceptable calibration points at 50 ng per injection for each of the parameters of interest and achieves all acceptable performance criteria (Section 12) may be used. GC to MS interfaces constructed of all glass or glass-lined materials are recommended. Glass can be deactivated by silanizing with dichlorodimethylsilane.
-5.6.6 Data system—A computer system must be interfaced to the mass spectrometer that allows the contiluous acquisition and storage on machine-readable media of all mass spectra obtained throughout the duration of the chromatographic program. The computer must have software that allows searching any GC/MS data file for specific m/z and plotting such m/z abundances versus time or scan number. This type of plot is defined as an Extracted Ion Current Profile (EICP). Software must also be available that allows integrating the abundance in any EICP between specified time or scan number limits.
+5.5 Balances.
+5.5.1 Analytical, capable of accurately weighing 0.1 mg.
+5.5.2 Top loading, capable of accurately weighing 10 mg.
+5.6 GC/MS system.
+5.6.1 Gas chromatograph (GC)—An analytical system complete with a temperature programmable gas chromatograph and all required accessories, including syringes and analytical columns.
+5.6.1.1 Injection port—Can be split, splitless, temperature programmable vaporization split/splitless (PTV), solvent-purge, large-volume, on-column, backflushed, or other. An autosampler is highly recommended because it injects volumes more precisely than volumes injected manually.
+5.6.1.2 Carrier gas—Helium or hydrogen. Data in the tables in this method were obtained using helium carrier gas. If hydrogen is used, analytical conditions may need to be adjusted for optimum performance, and calibration and all QC tests must be performed with hydrogen carrier gas. See Section 4.3 for precautions regarding the use of hydrogen as a carrier gas.
+5.6.2 GC column—See the footnotes to Tables 4 and 5. Other columns or column systems may be used provided all requirements in this method are met.
+5.6.3 Mass spectrometer—Capable of repetitively scanning from 35-450 Daltons (amu) every two seconds or less, utilizing a 70 eV (nominal) electron energy in the electron impact ionization mode, and producing a mass spectrum which meets all the criteria in Table 9A or 9B when 50 ng or less of decafluorotriphenyl phosphine (DFTPP; CAS 5074-71-5; bis(pentafluorophenyl) phenyl phosphine) is injected into the GC.
+5.6.4 GC/MS interface—Any GC to MS interface that meets all performance requirements in this method may be used.
+5.6.5 Data system—A computer system must be interfaced to the mass spectrometer that allows the continuous acquisition and storage of mass spectra acquired throughout the chromatographic program. The computer must have software that allows searching any GC/MS data file for specific m/z's (masses) and plotting m/z abundances versus time or scan number. This type of plot is defined as an extracted ion current profile (EICP). Software must also be available that allows integrating the abundance at any EICP between specified time or scan number limits.
+5.7 Automated gel permeation chromatograph (GPC).
+5.7.1 GPC column—150-700 mm long × 21-25 mm ID, packed with 70 g of SX-3 Biobeads; Bio-Rad Labs, or equivalent.
+5.7.2 Pump, injection valve, UV detector, and other apparatus necessary to meet the requirements in this method.
+5.8 Nitrogen evaporation device—Equipped with a water bath than can be maintained at 30-45 °C; N-Evap, Organomation Associates, or equivalent.
+5.9 Muffle furnace or kiln—Capable of baking glassware or sodium sulfate in the range of 400-450 °C.
 6. Reagents
-6.1 Reagent water—Reagent water is defined as a water in which an interferent is not observed at the MDL of the parameters of interest.
+6.1 Reagent water—Reagent water is defined as water in which the analytes of interest and interfering compounds are not detected at the MDLs of the analytes of interest.
 6.2 Sodium hydroxide solution (10 N)—Dissolve 40 g of NaOH (ACS) in reagent water and dilute to 100 mL.
-6.3 Sodium thiosulfate—(ACS) Granular.
-6.4 Sulfuric acid (1 + 1)—Slowly, add 50 mL of H2SO4 (ACS, sp. gr. 1.84) to 50 mL of reagent water.
-6.5 Acetone, methanol, methlylene chloride—Pesticide quality or equivalent.
-6.6 Sodium sulfate—(ACS) Granular, anhydrous. Purify by heating at 400 °C for 4 h in a shallow tray.
-6.7 Stock standard solutions (1.00 µg/µL)—standard solutions can be prepared from pure standard materials or purchased as certified solutions.
-6.7.1 Prepare stock standard solutions by accurately weighing about 0.0100 g of pure material. Dissolve the material in pesticide quality acetone or other suitable solvent and dilute to volume in a 10-mL volumetric flask. Larger volumes can be used at the convenience of the analyst. When compound purity is assayed to be 96% or greater, the weight may be used without correction to calculate the concentration of the stock standard. Commercially prepared stock standards may be used at any concentration if they are certified by the manufacturer or by an independent source.
-6.7.2 Transfer the stock standard solutions into Teflon-sealed screw-cap bottles. Store at 4 °C and protect from light. Stock standard solutions should be checked frequently for signs of degradation or evaporation, especially just prior to preparing calibration standards from them.
-6.7.3 Stock standard solutions must be replaced after six months, or sooner if comparison with quality control check samples indicate a problem.
-6.8 Surrogate standard spiking solution—Select a minimum of three surrogate compounds from Table 8. Prepare a surrogate standard spiking solution containing each selected surrogate compound at a concentration of 100 µg/mL in acetone. Addition of 1.00 mL of this solution to 1000 mL of sample is equivalent to a concentration of 100 µg/L of each surrogate standard. Store the spiking solution at 4 °C in Teflon-sealed glass container. The solution should be checked frequently for stability. The solution must be replaced after six months, or sooner if comparison with quality control check standards indicates a problem.
-6.9 DFTPP standard—Prepare a 25 µg/mL solution of DFTPP in acetone.
-6.10 Quality control check sample concentrate—See Section 8.2.1.
+6.3 Sodium thiosulfate—(ACS) granular.
+6.4 Sulfuric acid (1+1)—Slowly add 50 mL of H2SO4 (ACS, sp. gr. 1.84) to 50 mL of reagent water.
+6.5 Acetone, methanol, methylene chloride, 2-propanol—High purity pesticide quality, or equivalent, demonstrated to be free of the analytes of interest and interferences (Section 3). Purification of solvents by distillation in all-glass systems may be required.
+6.6 Sodium sulfate—(ACS) granular, anhydrous, rinsed or Soxhlet extracted with methylene chloride (20 mL/g), baked in a shallow tray at 450 °C for one hour minimum, cooled in a desiccator, and stored in a pre-cleaned glass bottle with screw cap that prevents moisture from entering.
+6.7 Stock standard solutions (1.00 µg/µL)—Stock standard solutions may be prepared from pure materials, or purchased as certified solutions. Traceability must be to the National Institute of Standards and Technology (NIST) or other national or international standard, when available. Stock solution concentrations alternate to those below may be used. Because of the toxicity of some of the compounds, primary dilutions should be prepared in a hood, and a NIOSH/MESA approved toxic gas respirator should be worn when high concentrations of neat materials are handled. The following procedure may be used to prepare standards from neat materials.
+6.7.1 Prepare stock standard solutions by accurately weighing about 0.0100 g of pure material. Dissolve the material in pesticide quality methanol or other suitable solvent and dilute to volume in a 10-mL volumetric flask. Larger volumes may be used at the convenience of the laboratory. When compound purity is assayed to be 96% or greater, the weight may be used without correction to calculate the concentration of the stock standard. Commercially prepared stock standards may be used at any concentration if they are certified by the manufacturer or by an independent source.
+6.7.2 Unless stated otherwise in this method, store non-aqueous standards in fluoropolymer-lined screw-cap, or heat-sealed, glass containers, in the dark at −20 to −10 °C. Store aqueous standards; e.g., the aqueous LCS (section 8.4.1), in the dark at ≤ 6 °C, but do not freeze. Standards prepared by the laboratory may be stored for up to one year, except when comparison with QC check standards indicates that a standard has degraded or become more concentrated due to evaporation, or unless the laboratory has data on file to prove stability for a longer period. Commercially prepared standards may be stored until the expiration date provided by the vendor, except when comparison with QC check standards indicates that a standard has degraded or become more concentrated due to evaporation, or unless the laboratory has data from the vendor on file to prove stability for a longer period.
+6.8 Surrogate standard spiking solution.
+6.8.1 Select a minimum of three surrogate compounds from Table 8 that most closely match the recovery of the analytes of interest. For example, if all analytes tested are considered acids, use surrogates that have similar chemical attributes. Other compounds may be used as surrogates so long as they do not interfere in the analysis. If only one or two analytes are determined, one or two surrogates may be used.
+6.8.2 Prepare a solution containing each selected surrogate such that the concentration in the sample would match the concentration in the mid-point calibration standard. For example, if the midpoint of the calibration is 100 µg/L, prepare the spiking solution at a concentration of 100 µg/mL in methanol. Addition of 1.00 mL of this solution to 1000 mL of sample will produce a concentration of 100 µg/L of the surrogate. Alternate volumes and concentrations appropriate to the response of the GC/MS instrument or for selective ion monitoring (SIM) may be used, if desired. Store per section 6.7.2.
+6.9 Internal standard spiking solution.
+6.9.1 Select three or more internal standards similar in chromatographic behavior to the analytes of interest. Internal standards are listed in Table 8. Suggested internal standards are: 1,4-dichlorobenzene-d4; naphthalene-d8; acenaphthene-d10; phenanthrene-d10; chrysene-d12; and perylene-d12. The laboratory must demonstrate that measurement of the internal standards is not affected by method or matrix interferences (see also section 7.3.4).
+6.9.2 Prepare the internal standards at a concentration of 10 mg/mL in methylene chloride or other suitable solvent. When 10 µL of this solution is spiked into a 1-mL extract, the concentration of the internal standards will be 100 µg/mL. A lower concentration appropriate to the response of the GC/MS instrument or for SIM may be used, if desired. Store per section 6.7.3.
+6.9.3 To assure accurate analyte identification, particularly when SIM is used, it may be advantageous to include more internal standards than those suggested in section 6.9.1. An analyte will be located most accurately if its retention time relative to an internal standard is in the range of 0.8 to 1.2.
+6.10 DFTPP standard—Prepare a solution of DFTPP in methanol or other suitable solvent such that 50 ng or less will be injected (see section 13.2). An alternative concentration may be used to compensate for specific injection volumes or to assure that the operating range of the instrument is not exceeded, so long as the total injected is 50 ng or less. Include benzidine and pentachlorophenol in this solution such that ≤100 ng of benzidine and ≤50 ng of pentachlorophenol will be injected.
+6.11 Quality control check sample concentrate—See section 8.2.1.
+6.12 GPC calibration solution.
+6.12.1 Prepare a methylene chloride solution to contain corn oil, bis(2-ethylhexyl) phthalate (BEHP), perylene, and sulfur at the concentrations in section 6.12.2, or at concentrations appropriate to the response of the detector.
+Note: Sulfur does not readily dissolve in methylene chloride, but is soluble in warm corn oil. The following procedure is suggested for preparation of the solution.
+6.12.2 Weigh 8 mg sulfur and 2.5 g corn oil into a 100-mL volumetric flask and warm to dissolve the sulfur. Separately weigh 100 mg BEHP, 20 mg pentachlorophenol, and 2 mg perylene and add to flask. Bring to volume with methylene chloride and mix thoroughly.
+6.12.3 Store the solution in an amber glass bottle with a fluoropolymer-lined screw cap at 0-6 °C. Protect from light. Refrigeration may cause the corn oil to precipitate. Before use, allow the solution to stand at room temperature until the corn oil dissolves, or warm slightly to aid in dissolution. Replace the solution every year, or more frequently if the response of a component changes.
+6.13 Sulfur removal—Copper foil or powder (bright, non-oxidized), or tetrabutylammonium sulfite (TBA sulfite).
+6.13.1 Copper foil, or powder—Fisher, Alfa Aesar 42455-18, 625 mesh, or equivalent. Cut copper foil into approximately 1-cm squares. Copper must be activated before it may be used, as described below:
+6.13.1.1 Place the quantity of copper needed for sulfur removal (section 11.2.1.3) in a ground-glass-stoppered Erlenmeyer flask or bottle. Cover the foil or powder with methanol.
+6.13.1.2 Add HCl dropwise (0.5-1.0 mL) while swirling, until the copper brightens.
+6.13.1.3 Pour off the methanol/HCl and rinse 3 times with reagent water to remove all traces of acid, then 3 times with acetone, then 3 times with hexane.
+6.13.1.4 For copper foil, cover with hexane after the final rinse. Store in a stoppered flask under nitrogen until used. For the powder, dry on a rotary evaporator or under a stream of nitrogen. Store in a stoppered flask under nitrogen until used. Inspect the copper foil or powder before each use. It must have a bright, non-oxidized appearance to be effective. Copper foil or powder that has oxidized may be reactivated using the procedure described above.
+6.13.2 Tetrabutylammonium sodium sulfite (TBA sodium sulfite).
+6.13.2.1 Tetrabutylammonium hydrogen sulfate, [CH3(CH2)3]4NHSO4.
+6.13.2.2 Sodium sulfite, Na2SO3.
+6.13.2.3 Dissolve approximately 3 g tetrabutylammonium hydrogen sulfate in 100 mL of reagent water in an amber bottle with fluoropolymer-lined screw cap. Extract with three 20-mL portions of hexane and discard the hexane extracts.
+6.13.2.4 Add 25 g sodium sulfite to produce a saturated solution. Store at room temperature. Replace after 1 month.
+6.14 DDT and endrin decomposition (breakdown) solution—Prepare a solution containing endrin at a concentration of 1 µg/mL and 4,4′-DDT at a concentration of 2 µg/mL, in isooctane or hexane. A 1-µL injection of this standard will contain 1 nanogram (ng) of endrin and 2 ng of DDT. The concentration of the solution may be adjusted by the laboratory to accommodate other injection volumes such that the same masses of the two analytes are introduced into the instrument.
 7. Calibration
-7.1 Establish gas chromatographic operating parameters equivalent to those indicated in Table 4 or 5.
-7.2 Internal standard calibration procedure—To use this approach, the analyst must select three or more internal standards that are similar in analytical behavior to the compounds of interest. The analyst must further demonstrate that the measurement of the internal standards is not affected by method or matrix interferences. Some recommended internal standards are listed in Table 8. Use the base peak m/z as the primary m/z for quantification of the standards. If interferences are noted, use one of the next two most intense m/z quantities for quantification.
-7.2.1 Prepare calibration standards at a minimum of three concentration levels for each parameter of interest by adding appropriate volumes of one or more stock standards to a volumetric flask. To each calibration standard or standard mixture, add a known constant amount of one or more internal standards, and dilute to volume with acetone. One of the calibration standards should be at a concentration near, but above, the MDL and the other concentrations should correspond to the expected range of concentrations found in real samples or should define the working range of the GC/MS system.
-7.2.2 Using injections of 2 to 5 µL, analyze each calibration standard according to Section 13 and tabulate the area of the primary characteristic m/z (Tables 4 and 5) against concentration for each compound and internal standard. Calculate response factors (RF) for each compound using Equation 1.
-EC15NO91.126
-Equation 1
+7.1 Establish operating conditions equivalent to those in the footnote to Table 4 or 5 for the base/neutral or acid fraction, respectively. If a combined base/neutral/acid fraction will be analyzed, use the conditions in the footnote to Table 4. Alternative temperature program and flow rate conditions may be used. It is necessary to calibrate the GC/MS for the analytes of interest (Section 1.3) only.
+7.2 Internal standard calibration.
+7.2.1 Prepare calibration standards for the analytes of interest and surrogates at a minimum of five concentration levels by adding appropriate volumes of one or more stock standards to volumetric flasks. One of the calibration standards should be at a concentration at or below the ML specified in Table 1, 2, or 3, or as specified by a regulatory/control authority or in a permit. The ML value may be rounded to a whole number that is more convenient for preparing the standard, but must not exceed the ML in Table 1, 2, or 3 for those analytes which list ML values. Alternatively, the laboratory may establish a laboratory ML for each analyte based on the concentration in a nominal whole-volume sample that is equivalent to the concentration of the lowest calibration standard in a series of standards produced in the laboratory or obtained from a commercial vendor. The laboratory's ML must not exceed the ML in Table 1, 2, or 3, and the resulting calibration must meet the acceptance criteria in Section 7.2.3, based on the RSD, RSE, or R2. The concentrations of the other calibration standards should correspond to the expected range of concentrations found in real samples or should define the working range of the GC/MS system for full-scan and/or SIM operation, as appropriate. A minimum of six concentration levels is required for a second order, non-linear (e.g., quadratic; ax2 + bx + c = 0) calibration (section 7.2.3). Calibrations higher than second order are not allowed. To each calibration standard or standard mixture, add a known constant volume of the internal standard solution (section 6.9), and dilute to volume with methylene chloride.
+Note: The large number of analytes in Tables 1 through 3 may not be soluble or stable in a single solution; multiple solutions may be required if a large number of analytes are to be determined simultaneously.
+7.2.1.1 Prior to analysis of the calibration standards, inject the DFTPP standard (Section 6.10) and adjust the scan rate of the mass spectrometer to produce a minimum of 5 mass spectra across the DFTPP GC peak. Adjust instrument conditions until the DFTPP criteria in Table 9A or 9B are met. Calculate peak tailing factors for benzidine and pentachlorophenol. Calculation of the tailing factor is illustrated in Figure 1. The tailing factor for benzidine and pentachlorophenol must be <2; otherwise, adjust instrument conditions and either replace the column or break off a short section of the front end of the column, and repeat the test. Once the scan conditions are established, they must be used for analyses of all standards, blanks, and samples.
+Note: The DFTPP spectrum may be evaluated by summing the intensities of the m/z's across the GC peak, subtracting the background at each m/z in a region of the chromatogram within 20 scans of but not including any part of, the DFTPP peak. The DFTPP spectrum may also be evaluated by fitting a Gaussian to each m/z and using the intensity at the maximum for each Gaussian or by integrating the area at each m/z and using the integrated areas. Other means may be used for evaluation of the DFTPP spectrum so long as the spectrum is not distorted to meet the criteria in Table 9A or 9B.
+7.2.1.2 Analyze the mid-point combined base/neutral and acid calibration standard and enter or review the retention time, relative retention time, mass spectrum, and quantitation m/z in the data system for each analyte of interest, surrogate, and internal standard. If additional analytes (Table 3) are to be quantified, include these analytes in the standard. The mass spectrum for each analyte must be comprised of a minimum of 2 m/z's (Tables 4 and 5); 3 to 5 m/z's assure more reliable analyte identification. Suggested quantitation m/z's are shown in Tables 4 and 5 as the primary m/z. If an interference occurs at the primary m/z, use one of the secondary m/z's or an alternate m/z. A single m/z only is required for quantitation.
+7.2.1.3 For SIM operation, determine the analytes in each descriptor, the quantitation m/z for each analyte (the quantitation m/z can be the same as for full-scan operation; section 7.2.1.2), the dwell time on each m/z for each analyte, and the beginning and ending retention time for each descriptor. Analyze the verification standard in scan mode to verify m/z's and establish retention times for the analytes. There must be a minimum of two m/z's for each analyte to assure analyte identification. To maintain sensitivity, the number of m/z's in a descriptor should be limited. For example, for a descriptor with 10 m/z's and a chromatographic peak width of 5 sec, a dwell time of 100 ms at each m/z would result in a scan time of 1 second and provide 5 scans across the GC peak. The quantitation m/z will usually be the most intense peak in the mass spectrum. The quantitation m/z and dwell time may be optimized for each analyte. The acquisition table used for SIM must take into account the mass defect (usually less than 0.2 Dalton) that can occur at each m/z monitored. Refer to the footnotes to Table 4 or 5 for establishing operating conditions and to section 7.2.1.1 for establishing scan conditions.
+7.2.1.4 For combined scan and SIM operation, set up the scan segments and descriptors to meet requirements in sections 7.2.1.1-7.2.1.3. Analyze unfamiliar samples in the scan mode to assure that the analytes of interest are determined.
+7.2.2 Analyze each calibration standard according to section 12 and tabulate the area at the quantitation m/z against concentration for each analyte of interest, surrogate, and internal standard. If an interference is encountered, use a secondary m/z (Table 4 or 5) for quantitation. Calculate a response factor (RF) for each analyte of interest at each concentration using Equation 1.
+ER28AU17.014
 where:
-As = Area of the characteristic m/z for the parameter to be measured.
+As = Area of the characteristic m/z for the analyte of interest or surrogate.
 Ais = Area of the characteristic m/z for the internal standard.
-Cis = Concentration of the internal standard (µg/L).
-Cs = Concentration of the parameter to be measured (µg/L).
-If the RF value over the working range is a constant (<35% RSD), the RF can be assumed to be invariant and the average RF can be used for calculations. Alternatively, the results can be used to plot a calibration curve of response ratios, As/Ais, vs. RF.
-7.3 The working calibration curve or RF must be verified on each working day by the measurement of one or more calibration standards. If the response for any parameter varies from the predicted response by more than ±20%, the test must be repeated uning a fresh calibration standard. Alternatively, a new calibration curve must be prepared for that compound.
+Cis = Concentration of the internal standard (µg/mL).
+Cs = Concentration of the analyte of interest or surrogate (µg/mL).
+7.2. Calculate the mean (average) and relative standard deviation (RSD) of the responses factors. If the RSD is less than 35%, the RF can be assumed to be invariant and the average RF can be used for calculations. Alternatively, the results can be used to fit a linear or quadratic regression of response ratios, As/Ais, vs. concentration ratios Cs/Cis. If used, the regression must be weighted inversely proportional to concentration. The coefficient of determination (R2; Reference 10) of the weighted regression must be greater than 0.920 (this value roughly corresponds to the RSD limit of 35%). Alternatively, the relative standard error (Reference 11) may be used as an acceptance criterion. As with the RSD, the RSE must be less than 35%. If an RSE less than 35% cannot be achieved for a quadratic regression, system performance is unacceptable and the system must be adjusted and re-calibrated.
+Note: Using capillary columns and current instrumentation, it is quite likely that a laboratory can calibrate the target analytes in this method and achieve a linearity metric (either RSD or RSE) well below 35%. Therefore, laboratories are permitted to use more stringent acceptance criteria for calibration than described here, for example, to harmonize their application of this method with those from other sources.
+7.3 Calibration verification—The RF or calibration curve must be verified immediately after calibration and at the beginning of each 12-hour shift, by analysis of a standard at or near the concentration of the mid-point calibration standard (section 7.2.1). The standard(s) must be obtained from a second manufacturer or a manufacturer's batch prepared independently from the batch used for calibration. Traceability must be to a national standard, when available. Include the surrogates (section 6.8) in this solution. It is necessary to verify calibration for the analytes of interest (section 1.3) only.
+Note: The 12-hour shift begins after the DFTPP (section 13.1) and DDT/endrin tests (if DDT and endrin are to be determined), and after analysis of the calibration verification standard. The 12-hour shift ends 12 hours later. The DFTPP, DDT/endrin, and calibration verification tests are outside of the 12-hour shift.
+7.3.1 Analyze the calibration verification standard(s) beginning in section 12. Calculate the percent recovery of each analyte. Compare the recoveries for the analytes of interest against the acceptance criteria for recovery (Q) in Table 6, and the recoveries for the surrogates against the acceptance criteria in Table 8. If recovery of the analytes of interest and surrogates meet acceptance criteria, system performance is acceptable and analysis of samples may continue. If any individual recovery is outside its limit, system performance is unacceptable for that analyte.
+Note: The large number of analytes in Tables 6 and 8 present a substantial probability that one or more will fail acceptance criteria when all analytes are tested simultaneously.
+7.3.2 When one or more analytes fail acceptance criteria, analyze a second aliquot of the calibration verification standard and compare ONLY those analytes that failed the first test (section 7.3.1) with their respective acceptance criteria. If these analytes now pass, system performance is acceptable and analysis of samples may continue. A repeat failure of any analyte that failed the first test, however, will confirm a general problem with the measurement system. If this occurs, repair the system (section 7.2.1.1) and repeat the test (section 7.3.1), or prepare a fresh calibration standard and repeat the test. If calibration cannot be verified after maintenance or injection of the fresh calibration standard, re-calibrate the instrument.
+Note: If it is necessary to perform a repeat verification test frequently; i.e., perform two tests in order to pass, it may be prudent to perform two injections in succession and review the results, rather than perform one injection, review the results, then perform the second injection if results from the first injection fail. To maintain the validity of the test and re-test, system maintenance and/or adjustment is not permitted between the injections.
+7.3.3 Many of the analytes in Table 3 do not have QC acceptance criteria in Table 6, and some of the surrogates in Table 8 do not have acceptance criteria. If calibration is to be verified and other QC tests are to be performed for these analytes, acceptance criteria must be developed and applied. EPA has provided guidance for development of QC acceptance criteria (References 12 and 13). Alternatively, analytes that do not have acceptance criteria in Table 6 or Table 8 may be based on laboratory control charts, or 60 to 140% may be used.
+7.3.4 Internal standard responses—Verify that detector sensitivity has not changed by comparing the response of each internal standard in the calibration verification standard (section 7.3) to the response of the respective internal standard in the midpoint calibration standard (section 7.2.1). The peak areas or heights of the internal standards in the calibration verification standard must be within 50% to 200% (1/2 to 2x) of their respective peak areas or heights in the mid-point calibration standard. If not, repeat the calibration verification test using a fresh calibration verification standard (7.3), or perform and document system repair. Subsequent to repair, repeat the calibration verification test (section 7.3.1). If the responses are still not within 50% to 200%, re-calibrate the instrument (section 7.2.2) and repeat the calibration verification test.
 8. Quality Control
-8.1 Each laboratory that uses this method is required to operate a formal quality control program. The minimum requirements of this program consist of an initial demonstration of laboratory capability and an ongoing analysis of spiked samples to evaluate and document data quality. The laboratory must maintain records to document the quality of data that is generated. Ongoing data quality checks are compared with established performance criteria to determine if the results of analyses meet the performance characteristics of the method. When results of sample spikes indicate atypical method performance, a quality control check standard must be analyzed to confirm that the measurements were performed in an in-control mode of operation.
-8.1.1 The analyst must make an initial, one-time, demonstration of the ability to generate acceptable accuracy and precision with this method. This ability is established as described in Section 8.2.
-8.1.2 In recognition of advances that are occuring in chromatography, the analyst is permitted certain options (detailed in Sections 10.6 and 13.1) to improve the separations or lower the cost of measurements. Each time such a modification is made to the method, the analyst is required to repeat the procedure in Section 8.2.
-8.1.3 Before processing any samples, the analyst must analyze a reagent water blank to demonstrate that interferences from the analytical system and glassware are under control. Each time a set of samples is extracted or reagents are changed, a reagent water blank must be processed as a safeguard against laboratory contamination.
-8.1.4 The laboratory must, on an ongoing basis, spike and analyze a minimum of 5% of all samples to monitor and evaluate laboratory data quality. This procedure is described in Section 8.3.
-8.1.5 The laboratory must, on an ongoing basis, demonstrate through the analyses of quality control check standards that the operation of the measurement system is in control. This procedure is described in Section 8.4. The frequency of the check standard analyses is equivalent to 5% of all samples analyzed but may be reduced if spike recoveries from samples (Section 8.3) meet all specified quality control criteria.
-8.1.6 The laboratory must maintain performance records to document the quality of data that is generated. This procedure is described in Section 8.5.
-8.2 To establish the ability to generate acceptable accuracy and precision, the analyst must perform the following operations.
-8.2.1 A quality control (QC) check sample concentrate is required containing each parameter of interest at a concentration of 100 µg/mL in acetone. Multiple solutions may be required. PCBs and multicomponent pesticides may be omitted from this test. The QC check sample concentrate must be obtained from the U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory in Cincinnati, Ohio, if available. If not available from that source, the QC check sample concentrate must be obtained from another external source. If not available from either source above, the QC check sample concentrate must be prepared by the laboratory using stock standards prepared independently from those used for calibration.
-8.2.2 Using a pipet, prepare QC check samples at a concentration of 100 µg/L by adding 1.00 mL of QC check sample concentrate to each of four 1-L aliquots of reagent water.
-8.2.3 Analyze the well-mixed QC check samples according to the method beginning in Section 10 or 11.
-8.2.4 Calculate the average recovery (X) in µg/L, and the standard deviation of the recovery (s) in µg/L, for each parameter using the four results.
-8.2.5 For each parameter compare s and X with the corresponding acceptance criteria for precision and accuracy, respectively, found in Table 6. If s and X for all parameters of interest meet the acceptance criteria, the system performance is acceptable and analysis of actual samples can begin. If any individual s exceeds the precision limit or any individual X falls outside the range for accuracy, the system performance is unacceptable for that parameter.
-Note: The large number of parameters in Table 6 present a substantial probability that one or more will fail at least one of the acceptance criteria when all parameters are analyzed.
-8.2.6 When one or more of the parameters tested fail at least one of the acceptance criteria, the analyst must proceed according to Section 8.2.6.1 or 8.2.6.2.
-8.2.6.1 Locate and correct the source of the problem and repeat the test for all parameters of interest beginning with Section 8.2.2.
-8.2.6.2 Beginning with Section 8.2.2, repeat the test only for those parameters that failed to meet criteria. Repeated failure, however, will confirm a general problem with the measurement system. If this occurs, locate and correct the source of the problem and repeat the test for all compounds of interest beginning with Section 8.2.2.
-8.3 The laboratory must, on an ongoing basis, spike at least 5% of the samples from each sample site being monitored to assess accuracy. For laboratories analyzing 1 to 20 samples per month, at least one spiked sample per month is required.
-8.3.1. The concentration of the spike in the sample should be determined as follows:
-8.3.1 If, as in compliance monitoring, the concentration of a specific parameter in the sample is being checked against a regulatory concentration limit, the spike should be at that limit or 1 to 5 times higher than the background concentration determined in Section 8.3.2, whichever concentration would be larger.
-8.3.1.2 If the concentration of a specific parameter in the sample is not being checked against a limit specific to that parameter, the spike should be at 100 µg/L or 1 to 5 times higher than the background concentration determined in Section 8.3.2, whichever concentration would be larger.
-8.3.1.3 If it is impractical to determine background levels before spiking (e.g., maximum holding times will be exceeded), the spike concentration should be (1) the regulatory concentration limit, if any; or, if none (2) the larger of either 5 times higher than the expected background concentration or 100 µg/L.
-8.3.2 Analyze one sample aliquot to determine the background concentration (B) of each parameter. If necessary, prepare a new QC check sample concentrate (Section 8.2.1) appropriate for the background concentrations in the sample. Spike a second sample aliquot with 1.0 mL of the QC check sample concentrate and analyze it to determine the concentration after spiking (A) of each parameter. Calculate each percent recovery (P) as 100(A−B)%/T, where T is the known true value of the spike.
-8.3.3 Compare the percent recovery (P) for each parameter with the corresponding QC acceptance criteria found in Table 6. These acceptance criteria were calculated to include an allowance for error in measurement of both the background and spike concentrations, assuming a spike to background ratio of 5:1. This error will be accounted for to the extent that the analyst's spike to background ratio approaches 5:1. 7 If spiking was performed at a concentration lower than 100 µg/L, the analyst must use either the QC acceptance criteria in Table 6, or optional QC acceptance criteria calculated for the specific spike concentration. To calculate optional acceptance criteria for the recovery of a parameter: (1) Calculate accuracy (X′) using the equation in Table 7, substituting the spike concentration (T) for C; (2) calculate overall precision (S′) using the equation in Table 7, substituting X′ for X; (3) calculate the range for recovery at the spike concentration as (100 X′/T)±2.44(100 S′/T)% 7
-8.3.4 If any individual P falls outside the designated range for recovery, that parameter has failed the acceptance criteria. A check standard containing each parameter that failed the criteria must be analyzed as described in Section 8.4.
-8.4 If any parameter fails the acceptance criteria for recovery in Section 8.3, a QC check standard containing each parameter that failed must be prepared and analyzed.
-Note: The frequency for the required analysis of a QC check standard will depend upon the number of parameters being simultaneously tested, the complexity of the sample matrix, and the performance of the laboratory. If the entire list of single-component parameters in Table 6 must be measured in the sample in Section 8.3, the probability that the analysis of a QC check standard will be required is high. In this case the QC check standard should be routinely analyzed with the spike sample.
-8.4.1 Prepare the QC check standard by adding 1.0 mL of QC check sample concentrate (Section 8.2.1 or 8.3.2) to 1 L of reagent water. The QC check standard needs only to contain the parameters that failed criteria in the test in Section 8.3.
-8.4.2 Analyze the QC check standard to determine the concentration measured (A) of each parameter. Calculate each percent recovery (PS) as 100 (A/T)%, where T is the true value of the standard concentration.
-8.4.3 Compare the percent recovery (Ps) for each parameter with the corresponding QC acceptance criteria found in Table 6. Only parameters that failed the test in Section 8.3 need to be compared with these criteria. If the recovery of any such parameter falls outside the designated range, the laboratory performance for that parameter is judged to be out of control, and the problem must be immediately identified and corrected. The analytical result for that parameter in the unspiked sample is suspect and may not be reported for regulatory compliance purposes.
-8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent interval from P−2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70−110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
-8.6 As a quality control check, the laboratory must spike all samples with the surrogate standard spiking solution as described in Section 10.2, and calculate the percent recovery of each surrogate compound.
-8.7 It is recommended that the laboratory adopt additional quality assurance practices for use with this method. The specific practices that are most productive depend upon the needs of the laboratory and the nature of the samples. Field duplicates may be analyzed to assess the precision of the environmental measurements. Whenever possible, the laboratory should analyze standard reference materials and participate in relevant performance evaluation studies.
+8.1 Each laboratory that uses this method is required to operate a formal quality assurance program. The minimum requirements of this program consist of an initial demonstration of laboratory capability and ongoing analysis of spiked samples and blanks to evaluate and document data quality (40 CFR 136.7). The laboratory must maintain records to document the quality of data generated. Results of ongoing performance tests are compared with established QC acceptance criteria to determine if the results of analyses meet performance requirements of this method. When results of spiked samples do not meet the QC acceptance criteria in this method, a quality control check sample (laboratory control sample; LCS) must be analyzed to confirm that the measurements were performed in an in-control mode of operation. A laboratory may develop its own performance criteria (as QC acceptance criteria), provided such criteria are as or more restrictive than the criteria in this method.
+8.1.1 The laboratory must make an initial demonstration of capability (DOC) to generate acceptable precision and recovery with this method. This demonstration is detailed in Section 8.2.
+8.1.2 In recognition of advances that are occurring in analytical technology, and to overcome matrix interferences, the laboratory is permitted certain options (section 1.6 and 40 CFR 136.6(b)) to improve separations or lower the costs of measurements. These options may include alternate extraction, concentration, and cleanup procedures (e.g., solid-phase extraction; rotary-evaporator concentration; column chromatography cleanup), changes in column and type of mass spectrometer (40 CFR 136.6(b)(4)(xvi)). Alternate determinative techniques, such as substitution of spectroscopic or immunoassay techniques, and changes that degrade method performance, are not allowed. If an analytical technique other than GC/MS is used, that technique must have a specificity equal to or greater than the specificity of GC/MS for the analytes of interest. The laboratory is also encouraged to participate in inter-comparison and performance evaluation studies (see section 8.10).
+8.1.2.1 Each time a modification is made to this method, the laboratory is required to repeat the procedure in section 8.2. If the detection limit of the method will be affected by the change, the laboratory must demonstrate that the MDLs (40 CFR part 136, appendix B) are lower than one-third the regulatory compliance limit or the MDLs in this method, whichever are greater. If calibration will be affected by the change, the instrument must be recalibrated per section 7. Once the modification is demonstrated to produce results equivalent or superior to results produced by this method, that modification may be used routinely thereafter, so long as the other requirements in this method are met (e.g., matrix spike/matrix spike duplicate recovery and relative percent difference).
+8.1.2.1.1 If SPE, or another allowed method modification, is to be applied to a specific discharge, the laboratory must prepare and analyze matrix spike/matrix spike duplicate (MS/MSD) samples (section 8.3) and LCS samples (section 8.4). The laboratory must include surrogates (section 8.7) in each of the samples. The MS/MSD and LCS samples must be fortified with the analytes of interest (Section 1.3). If the modification is for nationwide use, MS/MSD samples must be prepared from a minimum of nine different discharges (See section 8.1.2.1.2), and all QC acceptance criteria in this method must be met. This evaluation only needs to be performed once other than for the routine QC required by this method (for example it could be performed by the vendor of the SPE materials) but any laboratory using that specific material must have the results of the study available. This includes a full data package with the raw data that will allow an independent reviewer to verify each determination and calculation performed by the laboratory (see section 8.1.2.2.5, items (a)-(q)).
+8.1.2.1.2 Sample matrices on which MS/MSD tests must be performed for nationwide use of an allowed modification:
+(a) Effluent from a POTW.
+(b) ASTM D5905 Standard Specification for Substitute Wastewater.
+(c) Sewage sludge, if sewage sludge will be in the permit.
+(d) ASTM D1141 Standard Specification for Substitute Ocean Water, if ocean water will be in the permit.
+(e) Untreated and treated wastewaters up to a total of nine matrix types (see https://www.epa.gov/eg/industrial-effluent-guidelines for a list of industrial categories with existing effluent guidelines).
+(i) At least one of the above wastewater matrix types must have at least one of the following characteristics:
+(A) Total suspended solids greater than 40 mg/L.
+(B) Total dissolved solids greater than 100 mg/L.
+(C) Oil and grease greater than 20 mg/L.
+(D) NaCl greater than 120 mg/L.
+(E) CaCO3 greater than 140 mg/L.
+(ii) Results of MS/MSD tests must meet QC acceptance criteria in Section 8.3.
+(f) A proficiency testing (PT) sample from a recognized provider, in addition to tests of the nine matrices (section 8.1.2.1.1).
+8.1.2.2 The laboratory is required to maintain records of modifications made to this method. These records include the following, at a minimum:
+8.1.2.2.1 The names, titles, and business street addresses, telephone numbers, and email addresses, of the analyst(s) that performed the analyses and modification, and of the quality control officer that witnessed and will verify the analyses and modifications.
+8.1.2.2.2 A list of analytes, by name and CAS Registry Number.
+8.1.2.2.3 A narrative stating reason(s) for the modifications.
+8.1.2.2.4 Results from all quality control (QC) tests comparing the modified method to this method, including:
+(a) Calibration (section 7).
+(b) Calibration verification (section 7).
+(c) Initial demonstration of capability (section 8.2).
+(d) Analysis of blanks (section 8.5).
+(e) Matrix spike/matrix spike duplicate analysis (section 8.3).
+(f) Laboratory control sample analysis (section 8.4).
+8.1.2.2.5 Data that will allow an independent reviewer to validate each determination by tracing the instrument output (peak height, area, or other signal) to the final result. These data are to include:
+(a) Sample numbers and other identifiers.
+(b) Extraction dates.
+(c) Analysis dates and times.
+(d) Analysis sequence/run chronology.
+(e) Sample weight or volume (ssection 10).
+(f) Extract volume prior to each cleanup step (sections 10 and 11).
+(g) Extract volume after each cleanup step (section 11).
+(h) Final extract volume prior to injection (sections 10 and 12).
+(i) Injection volume (section 12.2.3).
+(j) Sample or extract dilution (section 12.2.3.2).
+(k) Instrument and operating conditions.
+(l) Column (dimensions, material, etc).
+(m) Operating conditions (temperature program, flow rate, etc).
+(n) Detector (type, operating conditions, etc).
+(o) Chromatograms, mass spectra, and other recordings of raw data.
+(p) Quantitation reports, data system outputs, and other data to link the raw data to the results reported.
+(q) A written Standard Operating Procedure (SOP).
+8.1.2.2.6 Each individual laboratory wishing to use a given modification must perform the start-up tests in section 8.1.2 (e.g., DOC, MDL), with the modification as an integral part of this method prior to applying the modification to specific discharges. Results of the DOC must meet the QC acceptance criteria in Table 6 for the analytes of interest (section 1.3), and the MDLs must be equal to or lower than the MDLs in Tables 1, 2, or 3 for the analytes of interest.
+8.1.3 Before analyzing samples, the laboratory must analyze a blank to demonstrate that interferences from the analytical system, labware, and reagents, are under control. Each time a batch of samples is extracted or reagents are changed, a blank must be extracted and analyzed as a safeguard against laboratory contamination. Requirements for the blank are given in section 8.5.
+8.1.4 The laboratory must, on an ongoing basis, spike and analyze to monitor and evaluate method and laboratory performance on the sample matrix. The procedure for spiking and analysis is given in section 8.3.
+8.1.5 The laboratory must, on an ongoing basis, demonstrate through analysis of a quality control check sample (laboratory control sample, LCS; on-going precision and recovery sample, OPR) that the measurement system is in control. This procedure is given in section 8.4.
+8.1.6 The laboratory must maintain performance records to document the quality of data that is generated. This procedure is given in section 8.9.
+8.1.7 The large number of analytes tested in performance tests in this method present a substantial probability that one or more will fail acceptance criteria when many analytes are tested simultaneously, and a re-test is allowed if this situation should occur. If, however, continued re-testing results in further repeated failures, the laboratory must document and report the failures (e.g., as qualifiers on results), unless the failures are not required to be reported as determined by the regulatory/control authority. Results associated with a QC failure for an analyte regulated in a discharge cannot be used to demonstrate regulatory compliance. QC failures do not relieve a discharger or permittee of reporting timely results.
+8.2 Initial demonstration of capability (DOC)—To establish the ability to generate acceptable recovery and precision, the laboratory must perform the DOC in sections 8.2.1 through 8.2.6 for the analytes of interest. The laboratory must also establish MDLs for the analytes of interest using the MDL procedure at 40 CFR part 136, appendix B. The laboratory's MDLs must be equal to or lower than those listed in Tables 1, 2, or 3 or lower than one third the regulatory compliance limit, whichever is greater. For MDLs not listed in Tables 4 and 5, the laboratory must determine the MDLs using the MDL procedure at 40 CFR part 136, appendix B under the same conditions used to determine the MDLs for the analytes listed in Tables 1, 2, and 3. All procedures used in the analysis, including cleanup procedures, must be included in the DOC.
+8.2.1 For the DOC, a QC check sample concentrate (LCS concentrate) containing each analyte of interest (section 1.3) is prepared in a water-miscible solvent. The QC check sample concentrate must be prepared independently from those used for calibration, but may be from the same source as the second-source standard used for calibration verification (Section 7.3). The concentrate should produce concentrations of the analytes of interest in water at the mid-point of the calibration range, and may be at the same concentration as the LCS (section 8.4). Multiple solutions may be required.
+Note: QC check sample concentrates are no longer available from EPA.
+8.2.2 Using a pipet or micro-syringe, prepare four LCSs by adding an appropriate volume of the concentrate to each of four aliquots of reagent water, and mix well. The volume of reagent water must be the same as the volume that will be used for the sample, blank (section 8.5), and MS/MSD (section 8.3). A volume of 1-L and a concentration of 100 µg/L were used to develop the QC acceptance criteria in Table 6. Also add an aliquot of the surrogate spiking solution (section 6.8) to the reagent-water aliquots.
+8.2.3 Extract and analyze the four LCSs according to the method beginning in Section 10.
+8.2.4 Calculate the average percent recovery (X) and the standard deviation of the percent recovery (s) for each analyte using the four results.
+8.2.5 For each analyte, compare s and (X) with the corresponding acceptance criteria for precision and recovery in Table 6. For analytes in Table 3 not listed in Table 6, DOC QC acceptance criteria must be developed by the laboratory. EPA has provided guidance for development of QC acceptance criteria (References 12 and 13). Alternatively, acceptance criteria for analytes not listed in Table 6 may be based on laboratory control charts. If s and (X) for all analytes of interest meet the acceptance criteria, system performance is acceptable and analysis of blanks and samples may begin. If any individual s exceeds the precision limit or any individual (X) falls outside the range for recovery, system performance is unacceptable for that analyte.
+Note: The large number of analytes in Tables 1-3 present a substantial probability that one or more will fail at least one of the acceptance criteria when many or all analytes are determined simultaneously. Therefore, the analyst is permitted to conduct a "re-test" as described in section 8.2.6.
+8.2.6 When one or more of the analytes tested fail at least one of the acceptance criteria, repeat the test for only the analytes that failed. If results for these analytes pass, system performance is acceptable and analysis of samples and blanks may proceed. If one or more of the analytes again fail, system performance is unacceptable for the analytes that failed the acceptance criteria. Correct the problem and repeat the test (section 8.2). See section 8.1.7 for disposition of repeated failures.
+Note: To maintain the validity of the test and re-test, system maintenance and/or adjustment is not permitted between this pair of tests.
+8.3 Matrix spike and matrix spike duplicate (MS/MSD)—The purpose of the MS/MSD requirement is to provide data that demonstrate the effectiveness of the method as applied to the samples in question by a given laboratory, and both the data user (discharger, permittee, regulated entity, regulatory/control authority, customer, other) and the laboratory share responsibility for provision of such data. The data user should identify the sample and the analytes of interest (section 1.3) to be spiked and provide sufficient sample volume to perform MS/MSD analyses. The laboratory must, on an ongoing basis, spike at least 5% of the samples in duplicate from each discharge being monitored to assess accuracy (recovery and precision). If direction cannot be obtained from the data user, the laboratory must spike at least one sample in duplicate per extraction batch of up to 20 samples with the analytes in Table 1. Spiked sample results should be reported only to the data user whose sample was spiked, or as requested or required by a regulatory/control authority, or in a permit.
+8.3.1 If, as in compliance monitoring, the concentration of a specific analyte will be checked against a regulatory concentration limit, the concentration of the spike should be at that limit; otherwise, the concentration of the spike should be one to five times higher than the background concentration determined in section 8.3.2, at or near the midpoint of the calibration range, or at the concentration in the LCS (section 8.4) whichever concentration would be larger.
+8.3.2 Analyze one sample aliquot to determine the background concentration (B) of the each analyte of interest. If necessary, prepare a new check sample concentrate (section 8.2.1) appropriate for the background concentration. Spike and analyze two additional sample aliquots, and determine the concentration after spiking (A1 and A2) of each analyte. Calculate the percent recoveries (P1 and P2) as 100 (A1 − B)/T and 100 (A2 − B)/T, where T is the known true value of the spike. Also calculate the relative percent difference (RPD) between the concentrations (A1 and A2) as 200 |A1 − A2|/(A1 + A2). If necessary, adjust the concentrations used to calculate the RPD to account for differences in the volumes of the spiked aliquots.
+8.3.3 Compare the percent recoveries (P1 and P2) and the RPD for each analyte in the MS/MSD aliquots with the corresponding QC acceptance criteria in Table 6. A laboratory may develop and apply QC acceptance criteria more restrictive than the criteria in Table 6, if desired.
+8.3.3.1 If any individual P falls outside the designated range for recovery in either aliquot, or the RPD limit is exceeded, the result for the analyte in the unspiked sample is suspect. See Section 8.1.7 for disposition of failures.
+8.3.3.2 The acceptance criteria in Table 6 were calculated to include an allowance for error in measurement of both the background and spike concentrations, assuming a spike to background ratio of 5:1. This error will be accounted for to the extent that the spike to background ratio approaches 5:1 (Reference 14) and is applied to spike concentrations of 100 µg/L and higher. If spiking is performed at a concentration lower than 100 µg/L, the laboratory must use the QC acceptance criteria in Table 6, the optional QC acceptance criteria calculated for the specific spike concentration in Table 7, or optional in-house criteria (section 8.3.4). To use the acceptance criteria in Table 7: (1) Calculate recovery (X′) using the equation in Table 7, substituting the spike concentration (T) for C; (2) Calculate overall precision (S′) using the equation in Table 7, substituting X′ for X; (3) Calculate the range for recovery at the spike concentration as (100 X′/T) ± 2.44(100 S′/T)% (Reference 14). For analytes in Table 3 not listed in Table 6, QC acceptance criteria must be developed by the laboratory. EPA has provided guidance for development of QC acceptance criteria (References 12 and 13). Alternatively, acceptance criteria may be based on laboratory control charts.
+8.3.4 After analysis of a minimum of 20 MS/MSD samples for each target analyte and surrogate, and if the laboratory chooses to develop and apply the optional in-house QC limits (Section 8.3.3), the laboratory should calculate and apply the optional in-house QC limits for recovery and RPD of future MS/MSD samples (Section 8.3). The QC limits for recovery are calculated as the mean observed recovery ±3 standard deviations, and the upper QC limit for RPD is calculated as the mean RPD plus 3 standard deviations of the RPDs. The in-house QC limits must be updated at least every two years and re-established after any major change in the analytical instrumentation or process. If in-house QC limits are developed, at least 80% of the analytes tested in the MS/MSD must have in-house QC acceptance criteria that are tighter than those in Table 6, and the remaining analytes (those other than the analytes included in the 80%) must meet the acceptance criteria in Table 6. If an in-house QC limit for the RPD is greater than the limit in Table 6, then the limit in Table 6 must be used. Similarly, if an in-house lower limit for recovery is below the lower limit in Table 6, then the lower limit in Table 6 must be used, and if an in-house upper limit for recovery is above the upper limit in Table 6, then the upper limit in Table 6 must be used.
+8.4 Laboratory control sample (LCS)—A QC check sample (laboratory control sample, LCS; on-going precision and recovery sample, OPR) containing each analyte of interest (Section 1.3) and surrogate must be prepared and analyzed with each extraction batch of up to 20 samples to demonstrate acceptable recovery of the analytes of interest from a clean sample matrix.
+8.4.1 Prepare the LCS by adding QC check sample concentrate (section 8.2.1) to reagent water. Include all analytes of interest (section 1.3) in the LCS. The LCS may be the same sample prepared for the DOC (section 8.2.1). The volume of reagent water must be the same as the volume used for the sample, blank (section 8.5), and MS/MSD (Section 8.3). Also add an aliquot of the surrogate spiking solution (section 6.8). The concentration of the analytes in reagent water should be the same as the concentration in the DOC (section 8.2.2).
+8.4.2 Analyze the LCS prior to analysis of field samples in the extraction batch. Determine the concentration (A) of each analyte. Calculate the percent recovery (PS) as 100 (A/T)%, where T is the true value of the concentration in the LCS.
+8.4.3 Compare the percent recovery (PS) for each analyte with its corresponding QC acceptance criterion in Table 6. For analytes of interest in Table 3 not listed in Table 6, use the QC acceptance criteria developed for the LCS (section 8.4.5), or limits based on laboratory control charts. If the recoveries for all analytes of interest fall within their respective QC acceptance criteria, analysis of blanks and field samples may proceed. If any individual PS falls outside the range, proceed according to section 8.4.4.
+Note: The large number of analytes in Tables 1-3 present a substantial probability that one or more will fail the acceptance criteria when all analytes are tested simultaneously. Because a re-test is allowed in event of failure (sections 8.1.7 and 8.4.3), it may be prudent to extract and analyze two LCSs together and evaluate results of the second analysis against the QC acceptance criteria only if an analyte fails the first test.
+8.4.4 Repeat the test only for those analytes that failed to meet the acceptance criteria (PS). If these analytes now pass, system performance is acceptable and analysis of blanks and samples may proceed. Repeated failure, however, will confirm a general problem with the measurement system. If this occurs, repeat the test using a fresh LCS (section 8.2.2) or an LCS prepared with a fresh QC check sample concentrate (section 8.2.1), or perform and document system repair. Subsequent to analysis of the LCS prepared with a fresh sample concentrate, or to system repair, repeat the LCS test (section 8.4). If failure of the LCS indicates a systemic problem with samples in the batch, re-extract and re-analyze the samples in the batch. See section 8.1.7 for disposition of repeated failures.
+Note: To maintain the validity of the test and re-test, system maintenance and/or adjustment is not permitted between the pair of tests.
+8.4.5 After analysis of 20 LCS samples, and if the laboratory chooses to develop and apply in-house QC limits, the laboratory should calculate and apply in-house QC limits for recovery to future LCS samples (section 8.4). Limits for recovery in the LCS should be calculated as the mean recovery ±3 standard deviations. A minimum of 80% of the analytes tested for in the LCS must have QC acceptance criteria tighter than those in Table 6, and the remaining analytes (those other than the analytes included in the 80%) must meet the acceptance criteria in Table 6. If an in-house lower limit for recovery is lower than the lower limit in Table 6, the lower limit in Table 6 must be used, and if an in-house upper limit for recovery is higher than the upper limit in Table 6, the upper limit in Table 6 must be used. Many of the analytes and surrogates do not contain acceptance criteria. The laboratory should use 60-140% as interim acceptance criteria for recoveries of spiked analytes and surrogates that do not have recovery limits specified in Table 8, and at least 80% of the surrogates must meet the 60-140% interim criteria until in-house LCS and surrogate limits are developed. Alternatively, acceptance criteria for analytes that do not have recovery limits in Table 6 may be based on laboratory control charts. In-house QC acceptance criteria must be updated at least every two years.
+8.5 Blank—A blank must be extracted and analyzed with each extraction batch to demonstrate that the reagents and equipment used for preparation and analysis are free from contamination.
+8.5.1 Spike the surrogates into the blank. Extract and concentrate the blank using the same procedures and reagents used for the samples, LCS, and MS/MSD in the batch. Analyze the blank immediately after analysis of the LCS (section 8.4) and prior to analysis of the MS/MSD and samples to demonstrate freedom from contamination.
+8.5.2 If an analyte of interest is found in the blank: At a concentration greater than the MDL for the analyte, at a concentration greater than one-third the regulatory compliance limit, or at a concentration greater than one-tenth the concentration in a sample in the extraction batch, whichever is greater, analysis of samples must be halted, and the problem corrected. If the contamination is traceable to the extraction batch, samples affected by the blank must be re-extracted and the extracts re-analyzed. If, however, continued re-testing results in repeated blank contamination, the laboratory must document and report the failures (e.g., as qualifiers on results), unless the failures are not required to be reported as determined by the regulatory/control authority. Results associated with blank contamination for an analyte regulated in a discharge cannot be used to demonstrate regulatory compliance. QC failures do not relieve a discharger or permittee of reporting timely results.
+8.6 Internal standards responses.
+8.6.1 Calibration verification—The responses (GC peak heights or areas) of the internal standards in the calibration verification must be within 50% to 200% (1/2 to 2x) of their respective responses in the mid-point calibration standard. If they are not, repeat the calibration verification (Section 7.4) test or perform and document system repair. Subsequent to repair, repeat the calibration verification. If the responses are still not within 50% to 200%, re-calibrate the instrument (Section 7) and repeat the calibration verification test.
+8.6.2 Samples, blanks, LCSs, and MS/MSDs—The responses (GC peak heights or areas) of each internal standard in each sample, blank, and MS/MSD must be within 50% to 200% (1/2 to 2x) of its respective response in the LCS for the extraction batch. If, as a group, all internal standards are not within this range, perform and document system repair, repeat the calibration verification (section 8.4), and re-analyze the affected samples. If a single internal standard is not within the 50% to 200% range, use an alternate internal standard for quantitation of the analyte referenced to the affected internal standard. It may be necessary to use the data system to calculate a new response factor from calibration data for the alternate internal standard/analyte pair. If an internal standard fails the 50-200% criteria and no analytes are detected in the sample, ignore the failure or report it if required by the regulatory/control authority.
+8.7 Surrogate recoveries—The laboratory must evaluate surrogate recovery data in each sample against its in-house surrogate recovery limits. The laboratory may use 60-140% as interim acceptance criteria for recoveries for surrogates not listed in Table 8. At least 80% of the surrogates must meet the 60-140% interim criteria until in-house limits are developed. Alternatively, surrogate recovery limits may be developed from laboratory control charts, but such limits must be at least as restrictive as those in Table 8. Spike the surrogates into all samples, blanks, LCSs, and MS/MSDs. Compare surrogate recoveries against the QC acceptance criteria in Table 8 and/or those developed in section 7.3.3 or 8.4.5. If any recovery fails its criteria, attempt to find and correct the cause of the failure. See section 8.1.7 for disposition of failures.
+8.8 DDT and endrin decomposition (breakdown)—If DDT and/or endrin are to be analyzed using this method, the DDT/endrin decomposition test in section 13.8 must be performed to reliably quantify these two pesticides.
+8.9 As part of the QC program for the laboratory, control charts or statements of accuracy for wastewater samples must be assessed and records maintained (40 CFR 136.7(c)(1)(viii)). After analysis of five or more spiked wastewater samples as in section 8.3, calculate the average percent recovery (PX) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent interval from PX −2sp to PX +2sp. For example, if PX = 90% and sp = 10%, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each analyte on a regular basis (e.g., after each 5-10 new accuracy measurements). If desired, statements of accuracy for laboratory performance, independent of performance on samples, may be developed using LCSs.
+8.10 It is recommended that the laboratory adopt additional quality assurance practices for use with this method. The specific practices that are most productive depend upon the needs of the laboratory and the nature of the samples. Field duplicates may be analyzed to assess the precision of environmental measurements. Whenever possible, the laboratory should analyze standard reference materials and participate in relevant performance evaluation studies.
 9. Sample Collection, Preservation, and Handling
-9.1 Grab samples must be collected in glass containers. Conventional sampling practices 8 should be followed, except that the bottle must not be prerinsed with sample before collection. Composite samples should be collected in refrigerated glass containers in accordance with the requirements of the program. Automatic sampling equipment must be as free as possible of Tygon tubing and other potential sources of contamination.
-9.2 All sampling must be iced or refrigerated at 4 °C from the time of collection until extraction. Fill the sample bottles and, if residual chlorine is present, add 80 mg of sodium thiosulfate per liter of sample and mix well. EPA Methods 330.4 and 330.5 may be used for measurement of residual chlorine. 9 Field test kits are available for this purpose.
-9.3 All samples must be extracted within 7 days of collection and completely analyzed within 40 days of extraction.
-10. Separatory Funnel Extraction
-10.1 Samples are usually extracted using separatory funnel techniques. If emulsions will prevent achieving acceptable solvent recovery with separatory funnel extractions, continuous extraction (Section 11) may be used. The separatory funnel extraction scheme described below assumes a sample volume of 1 L. When sample volumes of 2 L are to be extracted, use 250, 100, and 100-mL volumes of methylene chloride for the serial extraction of the base/neutrals and 200, 100, and 100-mL volumes of methylene chloride for the acids.
-10.2 Mark the water meniscus on the side of the sample bottle for later determination of sample volume. Pour the entire sample into a 2-L separatory funnel. Pipet 1.00 mL of the surrogate standard spiking solution into the separatory funnel and mix well. Check the pH of the sample with wide-range pH paper and adjust to pH>11 with sodium hydroxide solution.
-10.3 Add 60 mL of methylene chloride to the sample bottle, seal, and shake for 30 s to rinse the inner surface. Transfer the solvent to the separatory funnel and extract the sample by shaking the funnel for 2 min. with periodic venting to release excess pressure. Allow the organic layer to separate from the water phase for a minimum of 10 min. If the emulsion interface between layers is more than one-third the volume of the solvent layer, the analyst must employ mechanical techniques to complete the phase separation. The optimum technique depends upon the sample, but may include stirring, filtration of the emulsion through glass wool, centrifugation, or other physical methods. Collect the methylene chloride extract in a 250-mL Erlenmeyer flask. If the emulsion cannot be broken (recovery of less than 80% of the methylene chloride, corrected for the water solubility of methylene chloride), transfer the sample, solvent, and emulsion into the extraction chamber of a continuous extractor and proceed as described in Section 11.3.
-10.4 Add a second 60-mL volume of methylene chloride to the sample bottle and repeat the extraction procedure a second time, combining the extracts in the Erlenmeyer flask. Perform a third extraction in the same manner. Label the combined extract as the base/neutral fraction.
-10.5 Adjust the pH of the aqueous phase to less than 2 using sulfuric acid. Serially extract the acidified aqueous phase three times with 60-mL aliquots of methylene chloride. Collect and combine the extracts in a 250-mL Erlenmeyer flask and label the combined extracts as the acid fraction.
-10.6 For each fraction, assemble a Kuderna-Danish (K-D) concentrator by attaching a 10-mL concentrator tube to a 500-mL evaporative flask. Other concentration devices or techniques may be used in place of the K-D concentrator if the requirements of Section 8.2 are met.
-10.7 For each fraction, pour the combined extract through a solvent-rinsed drying column containing about 10 cm of anhydrous sodium sulfate, and collect the extract in the K-D concentrator. Rinse the Erlenmeyer flask and column with 20 to 30 mL of methylene chloride to complete the quantitative transfer.
-10.8 Add one or two clean boiling chips and attach a three-ball Snyder column to the evaporative flask for each fraction. Prewet each Snyder column by adding about 1 mL of methylene chloride to the top. Place the K-D apparatus on a hot water bath (60 to 65 °C) so that the concentrator tube is partially immersed in the hot water, and the entire lower rounded surface of the flask is bathed with hot vapor. Adjust the vertical position of the apparatus and the water temperature as required to complete the concentration in 15 to 20 min. At the proper rate of distillation the balls of the column will actively chatter but the chambers will not flood with condensed solvent. When the apparent volume of liquid reaches 1 mL, remove the K-D apparatus from the water bath and allow it to drain and cool for at least 10 min. Remove the Snyder column and rinse the flask and its lower joint into the concentrator tube with 1 to 2 mL of methylene chloride. A 5-mL syringe is recommended for this operation.
-10.9 Add another one or two clean boiling chips to the concentrator tube for each fraction and attach a two-ball micro-Snyder column. Prewet the Snyder column by adding about 0.5 mL of methylene chloride to the top. Place the K-D apparatus on a hot water bath (60 to 65 °C) so that the concentrator tube is partially immersed in hot water. Adjust the vertical position of the apparatus and the water temperature as required to complete the concentration in 5 to 10 min. At the proper rate of distillation the balls of the column will actively chatter but the chambers will not flood with condensed solvent. When the apparent volume of liquid reaches about 0.5 mL, remove the K-D apparatus from the water bath and allow it to drain and cool for at least 10 min. Remove the Snyder column and rinse the flask and its lower joint into the concentrator tube with approximately 0.2 mL of acetone or methylene chloride. Adjust the final volume to 1.0 mL with the solvent. Stopper the concentrator tube and store refrigerated if further processing will not be performed immediately. If the extracts will be stored longer than two days, they should be transferred to Teflon-sealed screw-cap vials and labeled base/neutral or acid fraction as appropriate.
-10.10 Determine the original sample volume by refilling the sample bottle to the mark and transferring the liquid to a 1000-mL graduated cylinder. Record the sample volume to the nearest 5 mL.
-11. Continuous Extraction
-11.1 When experience with a sample from a given source indicates that a serious emulsion problem will result or an emulsion is encountered using a separatory funnel in Section 10.3, a continuous extractor should be used.
-11.2 Mark the water meniscus on the side of the sample bottle for later determination of sample volume. Check the pH of the sample with wide-range pH paper and adjust to pH >11 with sodium hydroxide solution. Transfer the sample to the continuous extractor and using a pipet, add 1.00 mL of surrogate standard spiking solution and mix well. Add 60 mL of methylene chloride to the sample bottle, seal, and shake for 30 s to rinse the inner surface. Transfer the solvent to the extractor.
-11.3 Repeat the sample bottle rinse with an additional 50 to 100-mL portion of methylene chloride and add the rinse to the extractor.
-11.4 Add 200 to 500 mL of methylene chloride to the distilling flask, add sufficient reagent water to ensure proper operation, and extract for 24 h. Allow to cool, then detach the distilling flask. Dry, concentrate, and seal the extract as in Sections 10.6 through 10.9.
-11.5 Charge a clean distilling flask with 500 mL of methylene chloride and attach it to the continuous extractor. Carefully, while stirring, adjust the pH of the aqueous phase to less than 2 using sulfuric acid. Extract for 24 h. Dry, concentrate, and seal the extract as in Sections 10.6 through 10.9.
-12. Daily GC/MS Performance Tests
-12.1 At the beginning of each day that analyses are to be performed, the GC/MS system must be checked to see if acceptable performance criteria are achieved for DFTPP. 10 Each day that benzidine is to be determined, the tailing factor criterion described in Section 12.4 must be achieved. Each day that the acids are to be determined, the tailing factor criterion in Section 12.5 must be achieved.
-12.2 These performance tests require the following instrumental parameters:
-Electron Energy: 70 V (nominal)
-Mass Range: 35 to 450 amu
-Scan Time: To give at least 5 scans per peak but not to exceed 7 s per scan.
-12.3 DFTPP performance test—At the beginning of each day, inject 2 µL (50 ng) of DFTPP standard solution. Obtain a background-corrected mass spectra of DFTPP and confirm that all the key m/z criteria in Table 9 are achieved. If all the criteria are not achieved, the analyst must retune the mass spectrometer and repeat the test until all criteria are achieved. The performance criteria must be achieved before any samples, blanks, or standards are analyzed. The taililg factor tests in Sections 12.4 and 12.5 may be performed simultaneously with the DFTPP test.
-12.4 Column performance test for base/neutrals—At the beginning of each day that the base/neutral fraction is to be analyzed for benzidine, the benzidine tailing factor must be calculated. Inject 100 ng of benzidine either separately or as a part of a standard mixture that may contain DFTPP and calculate the tailing factor. The benzidine tailing factor must be less than 3.0. Calculation of the tailing factor is illustrated in Figure 13. 11 Replace the column packing if the tailing factor criterion cannot be achieved.
-12.5 Column performance test for acids—At the beginning of each day that the acids are to be determined, inject 50 ng of pentachlorophenol either separately or as a part of a standard mix that may contain DFTPP. The tailing factor for pentachlorophenol must be less than 5. Calculation of the tailing factor is illustrated in Figure 13. 11 Replace the column packing if the tailing factor criterion cannot be achieved.
-13. Gas Chromatography/Mass Spectrometry
-13.1 Table 4 summarizes the recommended gas chromatographic operating conditions for the base/neutral fraction. Table 5 summarizes the recommended gas chromatographic operating conditions for the acid fraction. Included in these tables are retention times and MDL that can be achieved under these conditions. Examples of the separations achieved by these columns are shown in Figures 1 through 12. Other packed or capillary (open-tubular) columns or chromatographic conditions may be used if the requirements of Section 8.2 are met.
-13.2 After conducting the GC/MS performance tests in Section 12, calibrate the system daily as described in Section 7.
-13.3 The internal standard must be added to sample extract and mixed thoroughly immediately before it is injected into the instrument. This procedure minimizes losses due to adsorption, chemical reaction or evaporation.
-13.4 Inject 2 to 5 µL of the sample extract or standard into the GC/MS system using the solvent-flush technique. 12 Smaller (1.0 µL) volumes may be injected if automatic devices are employed. Record the volume injected to the nearest 0.05 µL.
-13.5 If the response for any m/z exceeds the working range of the GC/MS system, dilute the extract and reanalyze.
-13.6 Perform all qualitative and quantitative measurements as described in Sections 14 and 15. When the extracts are not being used for analyses, store them refrigerated at 4 °C, protected from light in screw-cap vials equipped with unpierced Teflon-lined septa.
+9.1 Collect samples as grab samples in amber or clear glass bottles, or in refrigerated bottles using automatic sampling equipment. If clear glass is used, protect samples from light. Collect 1-L of ambient waters, effluents, and other aqueous samples. If the sensitivity of the analytical system is sufficient, a smaller volume (e.g., 250 mL), but no less than 100 mL, may be used. Conventional sampling practices (Reference 15) should be followed, except that the bottle must not be pre-rinsed with sample before collection. Automatic sampling equipment must be as free as possible of polyvinyl chloride or other tubing or other potential sources of contamination. If needed, collect additional sample(s) for the MS/MSD (section 8.3).
+9.2 Ice or refrigerate samples at ≤6 °C from the time of collection until extraction, but do not freeze. If residual chlorine is present, add 80 mg of sodium thiosulfate per liter of sample and mix well. Any method suitable for field use may be employed to test for residual chlorine (Reference 16). Add more sodium sulfate if 80 mg/L is insufficient but do not add excess sodium thiosulfate. If sodium thiosulfate interferes in the determination of the analytes, an alternate preservative (e.g., ascorbic acid or sodium sulfite) may be used. If preservative has been added, shake the sample vigorously for one minute. Maintain the hermetic seal on the sample bottle until time of analysis.
+9.3 All samples must be extracted within 7 days of collection and sample extracts must be analyzed within 40 days of extraction.
+10. Extraction
+10.1 This section contains procedures for separatory funnel liquid-liquid extraction (SFLLE) and continuous liquid-liquid extraction (CLLE). SFLLE is faster, but may not be as effective as CLLE for recovery of polar analytes such as phenol. SFLLE is labor intensive and may result in formation of emulsions that are difficult to break. CLLE is less labor intensive, avoids emulsion formation, but requires more time (18-24 hours) and more hood space, and may require more solvent. The procedures assume base-neutral extraction followed by acid extraction. For some matrices and analytes of interest, improved results may be obtained by acid-neutral extraction followed by base extraction. A single acid or base extraction may also be performed. If an extraction scheme alternate to base-neutral followed by acid extraction is used, all QC tests must be performed and all QC acceptance criteria must be met with that extraction scheme as an integral part of this method. Solid-phase extraction (SPE) may be used provided requirements in section 8.1.2 are met.
+10.2 Separatory funnel liquid-liquid extraction (SFLLE) and extract concentration.
+10.2.1 The SFLLE procedure below assumes a sample volume of 1 L. When a different sample volume is extracted, adjust the volume of methylene chloride accordingly.
+10.2.2 Mark the water meniscus on the side of the sample bottle for later determination of sample volume. Pour the entire sample into the separatory funnel. Pipet the surrogate standard spiking solution (section 6.8) into the separatory funnel. If the sample will be used for the LCS or MS or MSD, pipet the appropriate check sample concentrate (section 8.2.1 or 8.3.2) into the separatory funnel. Mix well. Check the pH of the sample with wide-range pH paper and adjust to pH 11-13 with sodium hydroxide solution.
+10.2.3 Add 60 mL of methylene chloride to the sample bottle, seal, and shake for approximately 30 seconds to rinse the inner surface. Transfer the solvent to the separatory funnel and extract the sample by shaking the funnel for two minutes with periodic venting to release excess pressure. Allow the organic layer to separate from the water phase for a minimum of 10 minutes. If the emulsion interface between layers is more than one-third the volume of the solvent layer, the analyst must employ mechanical techniques to complete the phase separation. The optimum technique depends upon the sample, but may include stirring, filtration of the emulsion through glass wool or phase-separation paper, salting, centrifugation, or other physical methods. Collect the methylene chloride extract in a flask. If the emulsion cannot be broken (recovery of <80% of the methylene chloride), transfer the sample, solvent, and emulsion into a continuous extractor and proceed as described in section 10.3.
+10.2.4 Add a second 60-mL volume of methylene chloride to the sample bottle and repeat the extraction procedure a second time, combining the extracts in the Erlenmeyer flask. Perform a third extraction in the same manner.
+10.2.5 Adjust the pH of the aqueous phase to less than 2 using sulfuric acid. Serially extract the acidified aqueous phase three times with 60 mL aliquots of methylene chloride. Collect and combine the extracts in a flask in the same manner as the base/neutral extracts.
+Note: Base/neutral and acid extracts may be combined for concentration and analysis provided all QC tests are performed and all QC acceptance criteria met for the analytes of interest with the combined extract as an integral part of this method, and provided that the analytes of interest are as reliably identified and quantified as when the extracts are analyzed separately. If doubt exists as to whether identification and quantitation will be affected by use of a combined extract, the fractions must be analyzed separately.
+10.2.6 For each fraction or the combined fractions, assemble a Kuderna-Danish (K-D) concentrator by attaching a 10-mL concentrator tube to a 500-mL evaporative flask. Other concentration devices or techniques may be used in place of the K-D concentrator so long as the requirements in section 8.2 are met.
+10.2.7 For each fraction or the combined fractions, pour the extract through a solvent-rinsed drying column containing about 10 cm of anhydrous sodium sulfate, and collect the extract in the K-D concentrator. Rinse the Erlenmeyer flask and column with 20-30 mL of methylene chloride to complete the quantitative transfer.
+10.2.8 Add one or two clean boiling chips and attach a three-ball Snyder column to the evaporative flask for each fraction (section 10.2.7). Pre-wet the Snyder column by adding about 1 mL of methylene chloride to the top. Place the K-D apparatus on a hot water bath (60-65 °C) so that the concentrator tube is partially immersed in the hot water, and the entire lower rounded surface of the flask is bathed with hot vapor. Adjust the vertical position of the apparatus and the water temperature as required to complete the concentration in 15-20 minutes. At the proper rate of distillation, the balls of the column will actively chatter but the chambers will not flood with condensed solvent. When the apparent volume of liquid reaches 1 mL or other determined amount, remove the K-D apparatus from the water bath and allow to drain and cool for at least 10 minutes. Remove the Snyder column and rinse the flask and its lower joint into the concentrator tube with 1-2 mL of methylene chloride. A 5-mL syringe is recommended for this operation. If the sample will be cleaned up, reserve the K-D apparatus for concentration of the cleaned up extract. Adjust the volume to 5 mL with methylene chloride and proceed to section 11 for cleanup; otherwise, further concentrate the extract for GC/MS analysis per section 10.2.9 or 10.2.10.
+10.2.9 Micro Kuderna-Danish concentration—Add another one or two clean boiling chips to the concentrator tube for each fraction and attach a two-ball micro-Snyder column. Pre-wet the Snyder column by adding about 0.5 mL of methylene chloride to the top. Place the K-D apparatus on a hot water bath (60-65 °C) so that the concentrator tube is partially immersed in hot water. Adjust the vertical position of the apparatus and the water temperature as required to complete the concentration in 5-10 minutes. At the proper rate of distillation the balls of the column will actively chatter but the chambers will not flood with condensed solvent. When the apparent volume of liquid reaches about 1 mL or other determined amount, remove the K-D apparatus from the water bath and allow it to drain and cool for at least 10 minutes. Remove the Snyder column and rinse the flask and its lower joint into the concentrator tube with approximately 0.2 mL of or methylene chloride. Adjust the final volume to 1.0 mL or a volume appropriate to the sensitivity desired (e.g., to meet lower MDLs or for selected ion monitoring). Record the volume, stopper the concentrator tube and store refrigerated if further processing will not be performed immediately. If the extracts will be stored longer than two days, they should be transferred to fluoropolymer-lined screw-cap vials and labeled base/neutral or acid fraction as appropriate. Mark the level of the extract on the vial so that solvent loss can be detected.
+10.2.10 Nitrogen evaporation and solvent exchange—Extracts may be concentrated for analysis using nitrogen evaporation in place of micro K-D concentration (section 10.2.9). Extracts that have been cleaned up using sulfur removal (section 11.2) and are ready for analysis are exchanged into methylene chloride.
+10.2.10.1 Transfer the vial containing the sample extract to the nitrogen evaporation (blowdown) device (section 5.8). Lower the vial into the water bath and begin concentrating. If the more volatile analytes (section 1.2) are to be concentrated, use room temperature for concentration; otherwise, a slightly elevated (e.g., 30-45 °C) may be used. During the solvent evaporation process, keep the solvent level below the water level of the bath and do not allow the extract to become dry. Adjust the flow of nitrogen so that the surface of the solvent is just visibly disturbed. A large vortex in the solvent may cause analyte loss.
+10.2.10.2 Extracts to be solvent exchanged—When the volume of the liquid is approximately 200 µL, add 2 to 3 mL of methylene chloride and continue concentrating to approximately 100 µL. Repeat the addition of solvent and concentrate once more. Adjust the final extract volume to be consistent with the volume extracted and the sensitivity desired.
+10.2.10.3 For extracts that have been cleaned up by GPC and that are to be concentrated to a nominal volume of 1 mL, adjust the final volume to compensate the GPC loss. For a 50% GPC loss, concentrate the extract to 1/2000 of the volume extracted. For example, if the volume extracted is 950 mL, adjust the final volume to 0.48 mL. For extracts that have not been cleaned up by GPC and are to be concentrated to a nominal volume of 1.0 mL, adjust the final extract volume to 1/1000 of the volume extracted. For example, if the volume extracted is 950 mL, adjust the final extract volume to 0.95 mL. Alternative means of compensating the loss during GPC are acceptable so long as they produce results as accurate as results produced using the procedure detailed in this Section. An alternative final volume may be used, if desired, and the calculations adjusted accordingly.
+Note: The difference in the volume fraction for an extract cleaned up by GPC accounts for the loss in GPC cleanup. Also, by preserving the ratio between the volume extracted and the final extract volume, the concentrations and detection limits do not need to be adjusted for differences in the volume extracted and the extract volume.
+10.2.11 Transfer the concentrated extract to a vial with fluoropolymer-lined cap. Seal the vial and label with the sample number. Store in the dark at room temperature until ready for GC analysis. If GC analysis will not be performed on the same day, store the vial in the dark at ≤6 °C. Analyze the extract by GC/MS per the procedure in section 12.
+10.2.12 Determine the original sample volume by refilling the sample bottle to the mark and transferring the liquid to an appropriately sized graduated cylinder. For sample volumes on the order of 1000 mL, record the sample volume to the nearest 10 mL; for sample volumes on the order of 100 mL, record the volume to the nearest 1 mL. Sample volumes may also be determined by weighing the container before and after filling to the mark with water.
+10.3 Continuous liquid/liquid extraction (CLLE).
+Note: With CLLE, phenol, 2,4-dimethyl phenol, and some other analytes may be preferentially extracted into the base-neutral fraction. Determine an analyte in the fraction in which it is identified and quantified most reliably. Also, the short-chain phthalate esters (e.g., dimethyl phthalate, diethyl phthalate) and some other compounds may hydrolyze during prolonged exposure to basic conditions required for continuous extraction, resulting in low recovery of these analytes. When these analytes are of interest, their recovery may be improved by performing the acid extraction first.
+10.3.1 Use CLLE when experience with a sample from a given source indicates an emulsion problem, or when an emulsion is encountered during SFLLE. CLLE may be used for all samples, if desired.
+10.3.2 Mark the water meniscus on the side of the sample bottle for later determination of sample volume. Check the pH of the sample with wide-range pH paper and adjust to pH 11-13 with sodium hydroxide solution. Transfer the sample to the continuous extractor. Pipet surrogate standard spiking solution (section 6.8) into the sample. If the sample will be used for the LCS or MS or MSD, pipet the appropriate check sample concentrate (section 8.2.1 or 8.3.2) into the extractor. Mix well. Add 60 mL of methylene chloride to the sample bottle, seal, and shake for 30 seconds to rinse the inner surface. Transfer the solvent to the extractor.
+10.3.3 Repeat the sample bottle rinse with an additional 50-100 mL portion of methylene chloride and add the rinse to the extractor.
+10.3.4 Add a suitable volume of methylene chloride to the distilling flask (generally 200-500 mL), add sufficient reagent water to ensure proper operation, and extract for 18-24 hours. A shorter or longer extraction time may be used if all QC acceptance criteria are met. Test and, if necessary, adjust the pH of the water during the second or third hour of the extraction. After extraction, allow the apparatus to cool, then detach the distilling flask. Dry, concentrate, and seal the extract per sections 10.2.6 through 10.2.11. See the note at section 10.2.5 regarding combining extracts of the base/neutral and acid fractions.
+10.3.5 Charge the distilling flask with methylene chloride and attach it to the continuous extractor. Carefully, while stirring, adjust the pH of the aqueous phase to less than 2 using sulfuric acid. Extract for 18-24 hours. A shorter or longer extraction time may be used if all QC acceptance criteria are met. Test and, if necessary, adjust the pH of the water during the second or third hour of the extraction. After extraction, allow the apparatus to cool, then detach the distilling flask. Dry, concentrate, and seal the extract per sections 10.2.6 through 10.2.11. Determine the sample volume per section 10.2.12.
+11. Extract Cleanup
+Note: Cleanup may not be necessary for relatively clean samples (e.g., treated effluents, groundwater, drinking water). If particular circumstances require the use of a cleanup procedure, the laboratory may use any or all of the procedures below or any other appropriate procedure. Before using a cleanup procedure, the laboratory must demonstrate that the requirements of section 8.1.2 can be met using the cleanup procedure as an integral part of this method.
+11.1 Gel permeation chromatography (GPC).
+11.1.1 Calibration.
+11.1.1.1 Load the calibration solution (section 6.12) into the sample loop.
+11.1.1.2 Inject the calibration solution and record the signal from the detector. The elution pattern will be corn oil, bis(2-ethylhexyl) phthalate, pentachlorophenol, perylene, and sulfur.
+11.1.1.3 Set the "dump time" to allow >85% removal of the corn oil and >85% collection of the phthalate.
+11.1.1.4 Set the "collect time" to the peak minimum between perylene and sulfur.
+11.1.1.5 Verify calibration with the calibration solution after every 20 or fewer extracts. Calibration is verified if the recovery of the pentachlorophenol is greater than 85%. If calibration is not verified, recalibrate using the calibration solution, and re-extract and clean up the preceding extracts using the calibrated GPC system.
+11.1.2 Extract cleanup—GPC requires that the column not be overloaded. The column specified in this method is designed to handle a maximum of 0.5 g of high molecular weight material in a 5-mL extract. If the extract is known or expected to contain more than 0.5 g, the extract is split into fractions for GPC and the fractions are combined after elution from the column. The solids content of the extract may be obtained gravimetrically by evaporating the solvent from a 50-µL aliquot.
+11.1.2.1 Filter the extract or load through the filter holder to remove particulates. Load the extract into the sample loop. The maximum capacity of the column is 0.5-1.0 g. If necessary, split the extract into multiple aliquots to prevent column overload.
+11.1.2.2 Elute the extract using the calibration data determined in Section 11.1.1. Collect the eluate in the K-D apparatus reserved in section 10.2.8.
+11.1.3 Concentrate the cleaned up extract per sections 10.2.8 and 10.2.9 or 10.2.10.
+11.1.4 Rinse the sample loading tube thoroughly with methylene chloride between extracts to prepare for the next sample.
+11.1.5 If a particularly dirty extract is encountered, run a methylene chloride blank through the system to check for carry-over.
+11.2 Sulfur removal.
+Note: Separate procedures using copper or TBA sulfite are provided in this section for sulfur removal. They may be used separately or in combination, if desired.
+11.2.1 Removal with copper (Reference 17).
+Note: If an additional compound (Table 3) is to be determined; sulfur is to be removed; copper will be used for sulfur removal; and a sulfur matrix is known or suspected to be present, the laboratory must demonstrate that the additional compound can be successfully extracted and treated with copper in the sulfur matrix. Some of the additional compounds (Table 3) are known not to be amenable to sulfur removal with copper (e.g., Atrazine and Diazinon).
+11.2.1.1 Quantitatively transfer the extract from section 10.2.8 to a 40- to 50-mL flask or bottle. If there is evidence of water in the concentrator tube after the transfer, rinse the tube with small portions of hexane:acetone (40:60) and add to the flask or bottle. Mark and set aside the concentrator tube for use in re-concentrating the extract.
+11.2.1.2 Add 10-20 g of granular anhydrous sodium sulfate to the flask. Swirl to dry the extract.
+11.2.1.3 Add activated copper (section 6.13.1.4) and allow to stand for 30—60 minutes, swirling occasionally. If the copper does not remain bright, add more and swirl occasionally for another 30-60 minutes.
+11.2.1.4 After drying and sulfur removal, quantitatively transfer the extract to a nitrogen-evaporation vial or tube and proceed to section 10.2.10 for nitrogen evaporation and solvent exchange, taking care to leave the sodium sulfate and copper in the flask.
+11.2.2 Removal with TBA sulfite.
+11.2.2.1 Using small volumes of hexane, quantitatively transfer the extract to a 40- to 50-mL centrifuge tube with fluoropolymer-lined screw cap.
+11.2.2.2 Add 1-2 mL of TBA sulfite reagent (section 6.13.2.4), 2-3 mL of 2-propanol, and approximately 0.7 g of sodium sulfite (section 6.13.2.2) crystals to the tube. Cap and shake for 1-2 minutes. If the sample is colorless or if the initial color is unchanged, and if clear crystals (precipitated sodium sulfite) are observed, sufficient sodium sulfite is present. If the precipitated sodium sulfite disappears, add more crystalline sodium sulfite in approximately 0.5 g portions until a solid residue remains after repeated shaking.
+11.2.2.3 Add 5-10 mL of reagent water and shake for 1-2 minutes. Centrifuge to settle the solids.
+11.2.2.4 Quantitatively transfer the hexane (top) layer through a small funnel containing a few grams of granular anhydrous sodium sulfate to a nitrogen-evaporation vial or tube and proceed to section 10.2.10 for nitrogen evaporation and solvent exchange.
+12. Gas Chromatography/Mass Spectrometry
+12.1 Establish the operating conditions in Table 4 or 5 for analysis of a base/neutral or acid extract, respectively. For analysis of a combined extract (section 10.2.5, note), use the operating conditions in Table 4 MDLs and MLs for the analytes are given in Tables 1, 2, and 3. Retention times for many of the analytes are given in Tables 4 and 5. Examples of the separations achieved are shown in Figure 2 for the combined extract. Alternative columns or chromatographic conditions may be used if the requirements of section 8.2 are met. Verify system performance per section 13.
+12.2 Analysis of a standard or extract.
+12.2.1 Bring the standard or concentrated extract (section 10.2.9 or 10.2.11) to room temperature and verify that any precipitate has redissolved. Verify the level on the extract and bring to the mark with solvent if required.
+12.2.2 Add the internal standard solution (section 6.9) to the extract. Mix thoroughly.
+12.2.3 Inject an appropriate volume of the sample extract or standard solution using split, splitless, solvent purge, large-volume, or on-column injection. If the sample is injected manually the solvent-flush technique should be used. The injection volume depends upon the technique used and the ability to meet MDLs or reporting limits for regulatory compliance. Injected volumes must be the same for standards and sample extracts. Record the volume injected to two significant figures.
+12.2.3.1 Start the GC column oven program upon injection. Start MS data collection after the solvent peak elutes. Stop data collection after benzo(ghi)perylene elutes for the base/neutral or combined fractions, or after pentachlorophenol elutes for the acid fraction. Return the column to the initial temperature for analysis of the next standard solution or extract.
+12.2.3.2 If the concentration of any analyte of interest exceeds the calibration range, either extract and analyze a smaller sample volume, or dilute and analyze the diluted extract after bringing the concentrations of the internal standards to the levels in the undiluted extract.
+12.2.4 Perform all qualitative and quantitative measurements as described in Sections 14 and 15. When standards and extracts are not being used for analyses, store them refrigerated at ≤6 °C protected from light in screw-cap vials equipped with un-pierced fluoropolymer-lined septa.
+13. Performance Tests
+13.1 At the beginning of each 12-hour shift during which standards or extracts will be analyzed, perform the tests in sections 13.2-13.4 to verify system performance. If an extract is concentrated for greater sensitivity (e.g., by SIM), all tests must be performed at levels consistent with the reduced extract volume.
+13.2 DFTPP—Inject the DFTPP standard (section 6.10) and verify that the criteria for DFTPP in section 7.2.1.1 and Table 9A (Reference 18) for a quadrupole MS, or Table 9B (Reference 19) for a time-of-flight MS, are met.
+13.3 GC resolution—The resolution should be verified on the mid-point concentration of the initial calibration as well as the laboratory designated continuing calibration verification level if closely eluting isomers are to be reported (e.g., benzo(b)fluoranthene and benzo(k)fluoranthene). Sufficient gas chromatographic resolution is achieved if the height of the valley between two isomer peaks is less than 50% of the average of the two peak heights.
+13.4 Calibration verification—Verify calibration per sections 7.3 and Table 6.
+13.5 Peak tailing—Verify the tailing factor specifications are met per Section 7.2.1.1.
+13.6 Laboratory control sample and blank—Analyze the extracts of the LCS and blank at the beginning of analyses of samples in the extraction batch (section 3.1). The LCS must meet the requirements in section 8.4, and the blank must meet the requirements in section 8.5 before sample extracts may be analyzed.
+13.7 Analysis of DFTPP, the DDT/Endrin decomposition test (if used), the LCS, and the blank are outside of the 12-hour analysis shift (section 3.1). The total time for DFTPP, DDT/Endrin, the LCS, the blank, and the 12-hour shift must not exceed 15 hours.
+13.8 Decomposition of DDT and endrin—If DDT and/or endrin are to be determined, this test must be performed prior to calibration verification (section 13.4). The QC acceptance criteria (section 13.8.3) must be met before analyzing samples for DDE and/or Endrin. DDT decomposes to DDE and DDD. Endrin decomposes to endrin aldehyde and endrin ketone.
+13.8.1 Inject 1 µL of the DDT and endrin decomposition solution (section 6.14). As noted in section 6.14, other injection volumes may be used as long as the concentrations of DDT and endrin in the solution are adjusted to introduce the masses of the two analytes into the instrument that are listed in section 6.14.
+13.8.2 Measure the areas of the peaks for DDT, DDE, DDD, Endrin, Endrin aldehyde, and Endrin ketone. Calculate the percent breakdown as shown in the equations below:
+ER28AU17.015
+13.8.3 Both the % breakdown of DDT and of Endrin must be less than 20%, otherwise the system is not performing acceptably for DDT and endrin. In this case, repair the GC column system that failed and repeat the performance tests (sections 13.2 to 13.6) until the specification is met.
+Note: DDT and endrin decomposition are usually caused by accumulation of particulates in the injector and in the front end of the column. Cleaning and silanizing the injection port liner, and breaking off a short section of the front end of the column will usually eliminate the decomposition problem. Either of these corrective actions may affect retention times, GC resolution, and calibration linearity.
 14. Qualitative Identification
-14.1 Obtain EICPs for the primary m/z and the two other masses listed in Tables 4 and 5. See Section 7.3 for masses to be used with internal and surrogate standards. The following criteria must be met to make a qualitative identification:
-14.1.1 The characteristic masses of each parameter of interest must maximize in the same or within one scan of each other.
-14.1.2 The retention time must fall within ±30 s of the retention time of the authentic compound.
-14.1.3 The relative peak heights of the three characteristic masses in the EICPs must fall within ±20% of the relative intensities of these masses in a reference mass spectrum. The reference mass spectrum can be obtained from a standard analyzed in the GC/MS system or from a reference library.
-14.2 Structural isomers that have very similar mass spectra and less than 30 s difference in retention time, can be explicitly identified only if the resolution between authentic isomers in a standard mix is acceptable. Acceptable resolution is achieved if the baseline to valley height between the isomers is less than 25% of the sum of the two peak heights. Otherwise, structural isomers are identified as isomeric pairs.
+14.1 Identification is accomplished by comparison of data from analysis of a sample or blank with data stored in the GC/MS data system (sections 5.6.5 and 7.2.1.2). Identification of an analyte is confirmed per sections 14.1.1 through 14.1.4.
+14.1.1 The signals for the quantitation and secondary m/z's stored in the data system for each analyte of interest must be present and must maximize within the same two consecutive scans.
+14.1.2 The retention time for the analyte should be within ± 10 seconds of the analyte in the calibration verification run at the beginning of the shift (section 7.3 or 13.4).
+Note: Retention time windows other than ± 10 seconds may be appropriate depending on the performance of the gas chromatograph or observed retention time drifts due to certain types of matrix effects. Relative retention time (RRT) may be used as an alternative to absolute retention times if retention time drift is a concern. RRT is a unitless quantity (see Sec. 22.2), although some procedures refer to "RRT units" in providing the specification for the agreement between the RRT values in the sample and the calibration verification or other standard. When significant retention time drifts are observed, dilutions or spiked samples may help the analyst determine the effects of the matrix on elution of the target analytes and to assist in qualitative identification.
+14.1.3 Either the background corrected EICP areas, or the corrected relative intensities of the mass spectral peaks at the GC peak maximum, must agree within 50% to 200% (1/2 to 2 times) for the quantitation and secondary m/z's in the reference mass spectrum stored in the data system (section 7.2.1.2), or from a reference library. For example, if a peak has an intensity of 20% relative to the base peak, the analyte is identified if the intensity of the peak in the sample is in the range of 10% to 40% of the base peak. If identification is ambiguous, an experienced spectrometrist (section 1.7) must determine the presence or absence of the compound.
+14.2 Structural isomers that produce very similar mass spectra should be identified as individual isomers if they have sufficiently different gas chromatographic retention times. Sufficient gas chromatographic resolution is achieved if the height of the valley between two isomer peaks is less than 50% of the average of the two peak heights. Otherwise, structural isomers are identified as isomeric pairs.
 15. Calculations
-15.1 When a parameter has been identified, the quantitation of that parameter will be based on the integrated abundance from the EICP of the primary characteristic m/z in Tables 4 and 5. Use the base peak m/z for internal and surrogate standards. If the sample produces an interference for the primary m/z, use a secondary characteristic m/z to quantitate.
-Calculate the concentration in the sample using the response factor (RF) determined in Section 7.2.2 and Equation 3.
-EC15NO91.127
-Equation 3
+15.1 When an analyte has been identified, quantitation of that analyte is based on the integrated abundance from the EICP of the primary characteristic m/z in Table 4 or 5. Calculate the concentration in the extract using the response factor (RF) determined in Section 7.2.2 and Equation 2. If the concentration of an analyte exceeds the calibration range, dilute the extract by the minimum amount to bring the concentration into the calibration range, and re-analyze the extract. Determine a dilution factor (DF) from the amount of the dilution. For example, if the extract is diluted by a factor of 2, DF = 2.
+ER28AU17.016
 where:
-As = Area of the characteristic m/z for the parameter or surrogate standard to be measured.
-Ais = Area of the characteristic m/z for the internal standard.
-Is = Amount of internal standard added to each extract (µg).
-Vo = Volume of water extracted (L).
-15.2 Report results in µg/L without correction for recovery data. All QC data obtained should be reported with the sample results.
+Cex = Concentration of the analyte in the extract, in µg/mL, and the other terms are as defined in section 7.2.2.
+Calculate the concentration of the analyte in the sample using the concentration in the extract, the extract volume, the sample volume, and the dilution factor, per Equation 3:
+ER28AU17.017
+where:
+Csamp = Concentration of the analyte in the sample
+Cex = Concentration of the analyte in the extract, in µg/mL
+Vex = Volume of extract (mL)
+Vs = Volume of sample (L)
+DF = Dilution factor
+15.2 Reporting of results. As noted in section 1.4.1, EPA has promulgated this method at 40 CFR part 136 for use in wastewater compliance monitoring under the National Pollutant Discharge Elimination System (NPDES). The data reporting practices described here are focused on such monitoring needs and may not be relevant to other uses of the method.
+15.2.1 Report results for wastewater samples in µg/L without correction for recovery. (Other units may be used if required by in a permit.) Report all QC data with the sample results.
+15.2.2 Reporting level. Unless specified otherwise by a regulatory authority or in a discharge permit, results for analytes that meet the identification criteria are reported down to the concentration of the ML established by the laboratory through calibration of the instrument (see section 7.3.2 and the glossary for the derivation of the ML). EPA considers the terms "reporting limit," "quantitation limit," "limit of quantitation," and "minimum level" to be synonymous.
+15.2.2.1 Report a result for each analyte in each field sample or QC standard at or above the ML to 3 significant figures. Report a result for each analyte found in each field sample or QC standard below the ML as "ML" where ML is the concentration of the analyte at the ML, or as required by the regulatory/control authority or permit. Report a result for each analyte in a blank at or above the MDL to 2 significant figures. Report a result for each analyte found in a blank below the MDL as "MDL," where MDL is the concentration of the analyte at the MDL, or as required by the regulatory/control authority or permit.
+15.2.2.2 In addition to reporting results for samples and blanks separately, the concentration of each analyte in a blank associated with the sample may be subtracted from the result for that sample, but only if requested or required by a regulatory authority or in a permit. In this case, both the sample result and the blank results must be reported together.
+15.2.2.3 Report a result for an analyte found in a sample or extract that has been diluted at the least dilute level at which the area at the quantitation m/z is within the calibration range (i.e., above the ML for the analyte) and the MS/MSD recovery and RPD are within their respective QC acceptance criteria (Table 6). This may require reporting results for some analytes from different analyses.
+15.2.3 Results from tests performed with an analytical system that is not in control (i.e., that does not meet acceptance criteria for any QC test in this method) must be documented and reported (e.g., as a qualifier on results), unless the failure is not required to be reported as determined by the regulatory/control authority. Results associated with a QC failure cannot be used to demonstrate regulatory compliance. QC failures do not relieve a discharger or permittee of reporting timely results. If the holding time would be exceeded for a re-analysis of the sample, the regulatory/control authority should be consulted for disposition.
 16. Method Performance
-16.1 The method detection limit (MDL) is defined as the minimum concentration of a substance that can be measured and reported with 99% confidence that the value is above zero. 1 The MDL concentrations listed in Tables 4 and 5 were obtained using reagent water. 13 The MDL actually achieved in a given analysis will vary depending on instrument sensitivity and matrix effects.
-16.2 This method was tested by 15 laboratories using reagent water, drinking water, surface water, and industrial wastewaters spiked at six concentrations over the range 5 to 1300 µg/L. 14 Single operator precision, overall precision, and method accuracy were found to be directly related to the concentration of the parameter and essentially independent of the sample matrix. Linear equations to describe these relationships are presented in Table 7.
-17. Screening Procedure for 2,3,7,8-Tetrachlorodibenzo-p-dioxin (2,3,7,8-TCDD)
-17.1 If the sample must be screened for the presence of 2,3,7,8-TCDD, it is recommended that the reference material not be handled in the laboratory unless extensive safety precautions are employed. It is sufficient to analyze the base/neutral extract by selected ion monitoring (SIM) GC/MS techniques, as follows:
-17.1.1 Concentrate the base/neutral extract to a final volume of 0.2 ml.
-17.1.2 Adjust the temperature of the base/neutral column (Section 5.6.2) to 220 °C.
-17.1.3 Operate the mass spectrometer to acquire data in the SIM mode using the ions at m/z 257, 320 and 322 and a dwell time no greater than 333 milliseconds per mass.
-17.1.4 Inject 5 to 7 µL of the base/neutral extract. Collect SIM data for a total of 10 min.
-17.1.5 The possible presence of 2,3,7,8-TCDD is indicated if all three masses exhibit simultaneous peaks at any point in the selected ion current profiles.
-17.1.6 For each occurrence where the possible presence of 2,3,7,8-TCDD is indicated, calculate and retain the relative abundances of each of the three masses.
-17.2 False positives to this test may be caused by the presence of single or coeluting combinations of compounds whose mass spectra contain all of these masses.
-17.3 Conclusive results of the presence and concentration level of 2,3,7,8-TCDD can be obtained only from a properly equipped laboratory through the use of EPA Method 613 or other approved alternate test procedures.
-References
-1. 40 CFR part 136, appendix B.
-2. "Sampling and Analysis Procedures for Screening of Industrial Effluents for Priority Pollutants," U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268, March 1977, Revised April 1977. Available from Effluent Guidelines Division, Washington, DC 20460.
-3. ASTM Annual Book of Standards, Part 31, D3694-78. "Standard Practices for Preparation of Sample Containers and for Preservation of Organic Constituents," American Society for Testing and Materials, Philadelphia.
-4. "Carcinogens—Working With Carcinogens," Department of Health, Education, and Welfare, Public Health Service, Center for Disease Control, National Institute for Occupational Safety and Health, Publication No. 77-206, August 1977.
-5. "OSHA Safety and Health Standards, General Industry," (29 CFR part 1910), Occupational Safety and Health Administration, OSHA 2206 (Revised, January 1976).
-6. "Safety in Academic Chemistry Laboratories,"American Chemical Society Publication, Committee on Chemical Safety, 3rd Edition, 1979.
-7. Provost, L.P., and Elder, R.S. "Interpretation of Percent Recovery Data," American Laboratory, 15, 58-63 (1983). (The value 2.44 used in the equation in Section 8.3.3 is two times the value 1.22 derived in this report.)
-8. ASTM Annual Book of Standards, Part 31, D3370-76. "Standard Practices for Sampling Water," American Society for Testing and Materials, Philadelphia.
-9. "Methods 330.4 (Titrimetric, DPD-FAS) and 330.5 (Spectrophotometric, DPD) for Chlorine, Total Residual," Methods for Chemical Analysis of Water and Wastes, EPA-600/4-79-020, U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268, March 1979.
-10. Eichelberger, J.W., Harris, L.E., and Budde, W.L. "Reference Compound to Calibrate Ion Abundance Measurement in Gas Chromatography-Mass Spectometry," Analytical Chemistry, 47, 995 (1975).
-11. McNair, N.M. and Bonelli, E.J. "Basic Chromatography," Consolidated Printing, Berkeley, California, p. 52, 1969.
-12. Burke, J.A. "Gas Chromatography for Pesticide Residue Analysis; Some Practical Aspects," Journal of the Association of Official Analytical Chemists, 48, 1037 (1965).
-13. Olynyk, P., Budde, W.L., and Eichelberger, J.W. "Method Detection Limit for Methods 624 and 625," Unpublished report, May 14, 1980.
-14. "EPA Method Study 30, Method 625, Base/Neutrals, Acids, and Pesticides," EPA 600/4-84-053, National Technical Information Service, PB84-206572, Springfield, Virginia 22161, June 1984.
-Table 1—Base/Neutral Extractables
-Parameter | STORET No. | CAS No.
-Acenaphthene | 34205 | 83-32-9
-Acenaphthylene | 34200 | 208-96-8
-Anthracene | 34220 | 120-12-7
-Aldrin | 39330 | 309-00-2
-Benzo(a)anthracene | 34526 | 56-55-3
-Benzo(b)fluoranthene | 34230 | 205-99-2
-Benzo(k)fluoranthene | 34242 | 207-08-9
-Benzo(a)pyrene | 34247 | 50-32-8
-Benzo(ghi)perylene | 34521 | 191-24-2
-Benzyl butyl phthalate | 34292 | 85-68-7
-β-BHC | 39338 | 319-85-7
-δ-BHC | 34259 | 319-86-8
-Bis(2-chloroethyl) ether | 34273 | 111-44-4
-Bis(2-chloroethoxy)methane | 34278 | 111-91-1
-Bis(2-ethylhexyl) phthalate | 39100 | 117-81-7
-Bis(2-chloroisopropyl) ether a | 34283 | 108-60-1
-4-Bromophenyl phenyl ether a | 34636 | 101-55-3
-Chlordane | 39350 | 57-74-9
-2-Chloronaphthalele | 34581 | 91-58-7
-4-Chlorophenyl phenyl ether | 34641 | 7005-72-3
-Chrysene | 34320 | 218-01-9
-4,4′-DDD | 39310 | 72-54-8
-4,4′-DDE | 39320 | 72-55-9
-4,4′-DDT | 39300 | 50-29-3
-Dibenzo(a,h)anthracene | 34556 | 53-70-3
-Di-n-butylphthalate | 39110 | 84-74-2
-1,3-Dichlorobenzene | 34566 | 541-73-1
-1,2-Dichlorobenzene | 34536 | 95-50-1
-1,4-Dichlorobenzene | 34571 | 106-46-7
-3,3′-Dichlorobenzidine | 34631 | 91-94-1
-Dieldrin | 39380 | 60-57-1
-Diethyl phthalate | 34336 | 84-66-2
-Dimethyl phthalate | 34341 | 131-11-3
-2,4-Dinitrotoluene | 34611 | 121-14-2
-2,6-Dinitrotoluene | 34626 | 606-20-2
-Di-n-octylphthalate | 34596 | 117-84-0
-Endosulfan sulfate | 34351 | 1031-07-8
-Endrin aldehyde | 34366 | 7421-93-4
-Fluoranthene | 34376 | 206-44-0
-Fluorene | 34381 | 86-73-7
-Heptachlor | 39410 | 76-44-8
-Heptchlor epoxide | 39420 | 1024-57-3
-Hexachlorobenzene | 39700 | 118-74-1
-Hexachlorobutadiene | 34391 | 87-68-3
-Hexachloroethane | 34396 | 67-72-1
-Indeno(1,2,3-cd)pyrene | 34403 | 193-39-5
-Isophorone | 34408 | 78-59-1
-Naphthalene | 34696 | 91-20-3
-Nitrobenzene | 34447 | 98-95-3
-N-Nitrosodi-n-propylamine | 34428 | 621-64-7
-PCB-1016 | 34671 | 12674-11-2
-PCB-1221 | 39488 | 11104-28-2
-PCB-1232 | 39492 | 11141-16-5
-PCB-1242 | 39496 | 53469-21-9
-PCB-1248 | 39500 | 12672-29-6
-PCB-1254 | 39504 | 11097-69-1
-PCB-1260 | 39508 | 11096-82-5
-Phenanthrene | 34461 | 85-01-8
-Pyrene | 34469 | 129-00-0
-Toxaphene | 39400 | 8001-35-2
-1,2,4-Trichlorobenzene | 34551 | 120-82-1
-a The proper chemical name is 2,2′-oxybis(1-chloropropane).
-Table 2—Acid Extractables
-Parameter | STORET No. | CAS No.
-4-Chloro-3-methylphenol | 34452 | 59-50-7
-2-Chlorophenol | 34586 | 95-57-8
-2,4-Dichlorophenol | 34601 | 120-83-2
-2,4-Dimethylphenol | 34606 | 105-67-9
-2,4-Dinitrophenol | 34616 | 51-28-5
-2-Methyl-4,6-dinitrophenol | 34657 | 534-52-1
-2-Nitrophenol | 34591 | 88-75-5
-4-Nitrophenol | 34646 | 100-02-7
-Pentachlorophenol | 39032 | 87-86-5
-Phenol | 34694 | 108-95-2
-2,4,6-Trichlorophenol | 34621 | 88-06-2
-Table 3—Additional Extractable Parameters a
-Parameter | STORET No. | CAS No. | Method
-Benzidine | 39120 | 92-87-5 | 605
-β-BHC | 39337 | 319-84-6 | 608
-δ-BHC | 39340 | 58-89-8 | 608
-Endosulfan I | 34361 | 959-98-8 | 608
-Endosulfan II | 34356 | 33213-65-9 | 608
-Endrin | 39390 | 72-20-8 | 608
-Hexachlorocylopentadiene | 34386 | 77-47-4 | 612
-N-Nitrosodimethylamine | 34438 | 62-75-9 | 607
-N-Nitrosodiphenylamine | 34433 | 86-30-6 | 607
-a See Section 1.2.
-Table 4—Chromatographic Conditions, Method Detection Limits, and Characteristic Masses for Base/Neutral Extractables
-Parameter | Retention time (min) | Method detection limit (µg/L) | Characteristic masses | Electron impact | Primary | Secondary | Secondary | Chemical ionization | Methane | Methane | Methane
-1,3-Dichlorobenzene | 7.4 | 1.9 | 146 | 148 | 113 | 146 | 148 | 150
-1,4-Dichlorobenzene | 7.8 | 4.4 | 146 | 148 | 113 | 146 | 148 | 150
-Hexachloroethane | 8.4 | 1.6 | 117 | 201 | 199 | 199 | 201 | 203
-Bis(2-chloroethyl) ether a | 8.4 | 5.7 | 93 | 63 | 95 | 63 | 107 | 109
-1,2-Dichlorobenzene | 8.4 | 1.9 | 146 | 148 | 113 | 146 | 148 | 150
-Bis(2-chloroisopropyl) ether a | 9.3 | 5.7 | 45 | 77 | 79 | 77 | 135 | 137
-N-Nitrosodi-n-propylamine | | | 130 | 42 | 101
-Nitrobenzene | 11.1 | 1.9 | 77 | 123 | 65 | 124 | 152 | 164
-Hexachlorobutadiene | 11.4 | 0.9 | 225 | 223 | 227 | 223 | 225 | 227
-1,2,4-Trichlorobenzene | 11.6 | 1.9 | 180 | 182 | 145 | 181 | 183 | 209
-Isophorone | 11.9 | 2.2 | 82 | 95 | 138 | 139 | 167 | 178
-Naphthalene | 12.1 | 1.6 | 128 | 129 | 127 | 129 | 157 | 169
-Bis(2-chloroethoxy) methane | 12.2 | 5.3 | 93 | 95 | 123 | 65 | 107 | 137
-Hexachlorocyclopentadiene a | 13.9 | | 237 | 235 | 272 | 235 | 237 | 239
-2-Chloronaphthalene | 15.9 | 1.9 | 162 | 164 | 127 | 163 | 191 | 203
-Acenaphthylene | 17.4 | 3.5 | 152 | 151 | 153 | 152 | 153 | 181
-Acenaphthene | 17.8 | 1.9 | 154 | 153 | 152 | 154 | 155 | 183
-Dimethyl phthalate | 18.3 | 1.6 | 163 | 194 | 164 | 151 | 163 | 164
-2,6-Dinitrotoluene | 18.7 | 1.9 | 165 | 89 | 121 | 183 | 211 | 223
-Fluorene | 19.5 | 1.9 | 166 | 165 | 167 | 166 | 167 | 195
-4-Chlorophenyl phenyl ether | 19.5 | 4.2 | 204 | 206 | 141
-2,4-Dinitrotoluene | 19.8 | 5.7 | 165 | 63 | 182 | 183 | 211 | 223
-Diethyl phthalate | 20.1 | 1.9 | 149 | 177 | 150 | 177 | 223 | 251
-N-Nitrosodiphenylamine b | 20.5 | 1.9 | 169 | 168 | 167 | 169 | 170 | 198
-Hexachlorobenzene | 21.0 | 1.9 | 284 | 142 | 249 | 284 | 286 | 288
-β-BHC b | 21.1 | | 183 | 181 | 109
-4-Bromophenyl phenyl ether | 21.2 | 1.9 | 248 | 250 | 141 | 249 | 251 | 277
-δ-BHC b | 22.4 | | 183 | 181 | 109
-Phenanthrene | 22.8 | 5.4 | 178 | 179 | 176 | 178 | 179 | 207
-Anthracene | 22.8 | 1.9 | 178 | 179 | 176 | 178 | 179 | 207
-β-BHC | 23.4 | 4.2 | 181 | 183 | 109
-Heptachlor | 23.4 | 1.9 | 100 | 272 | 274
-δ-BHC | 23.7 | 3.1 | 183 | 109 | 181
-Aldrin | 24.0 | 1.9 | 66 | 263 | 220
-Dibutyl phthalate | 24.7 | 2.5 | 149 | 150 | 104 | 149 | 205 | 279
-Heptachlor epoxide | 25.6 | 2.2 | 353 | 355 | 351
-Endosulfan I b | 26.4 | | 237 | 339 | 341
-Fluoranthene | 26.5 | 2.2 | 202 | 101 | 100 | 203 | 231 | 243
-Dieldrin | 27.2 | 2.5 | 79 | 263 | 279
-4,4′-DDE | 27.2 | 5.6 | 246 | 248 | 176
-Pyrene | 27.3 | 1.9 | 202 | 101 | 100 | 203 | 231 | 243
-Endrin b | 27.9 | | 81 | 263 | 82
-Endosulfan II b | 28.6 | | 237 | 339 | 341
-4,4′-DDD | 28.6 | 2.8 | 235 | 237 | 165
-Benzidine b | 28.8 | 44 | 184 | 92 | 185 | 185 | 213 | 225
-4,4′-DDT | 29.3 | 4.7 | 235 | 237 | 165
-Endosulfan sulfate | 29.8 | 5.6 | 272 | 387 | 422
-Endrin aldehyde | | | 67 | 345 | 250
-Butyl benzyl phthalate | 29.9 | 2.5 | 149 | 91 | 206 | 149 | 299 | 327
-Bis(2-ethylhexyl) phthalate | 30.6 | 2.5 | 149 | 167 | 279 | 149
-Chrysene | 31.5 | 2.5 | 228 | 226 | 229 | 228 | 229 | 257
-Benzo(a)anthracene | 31.5 | 7.8 | 228 | 229 | 226 | 228 | 229 | 257
-3,3′-Dichlorobenzidine | 32.2 | 16.5 | 252 | 254 | 126
-Di-n-octyl phthalate | 32.5 | 2.5 | 149
-Benzo(b)fluoranthene | 34.9 | 4.8 | 252 | 253 | 125 | 252 | 253 | 281
-Benzo(k)fluoranthene | 34.9 | 2.5 | 252 | 253 | 125 | 252 | 253 | 281
-Benzo(a)pyrene | 36.4 | 2.5 | 252 | 253 | 125 | 252 | 253 | 281
-Indeno(1,2,3-cd) pyrene | 42.7 | 3.7 | 276 | 138 | 277 | 276 | 277 | 305
-Dibenzo(a,h)anthracene | 43.2 | 2.5 | 278 | 139 | 279 | 278 | 279 | 307
-Benzo(ghi)perylene | 45.1 | 4.1 | 276 | 138 | 277 | 276 | 277 | 305
-N-Nitrosodimethylamine b | | | 42 | 74 | 44
-Chlordane c | 19-30 | | 373 | 375 | 377
-Toxaphene c | 25-34 | | 159 | 231 | 233
-PCB 1016 c | 18-30 | | 224 | 260 | 294
-PCB 1221 c | 15-30 | 30 | 190 | 224 | 260
-PCB 1232 c | 15-32 | | 190 | 224 | 260
-PCB 1242 c | 15-32 | | 224 | 260 | 294
-PCB 1248 c | 12-34 | | 294 | 330 | 262
-PCB 1254 c | 22-34 | 36 | 294 | 330 | 362
-PCB 1260 c | 23-32 | | 330 | 362 | 394
-a The proper chemical name is 2,2′-bisoxy(1-chloropropane).
-b See Section 1.2.
-c These compounds are mixtures of various isomers (See Figures 2 through 12). Column conditions: Supelcoport (100/120 mesh) coated with 3% SP-2250 packed in a 1.8 m long × 2 mm ID glass column with helium carrier gas at 30 mL/min. flow rate. Column temperature held isothermal at 50 °C for 4 min., then programmed at 8 °C/min. to 270 °C and held for 30 min.
-Table 5—Chromatographic Conditions, Method Detection Limits, and Characteristic Masses for Acid Extractables
-Parameter | Retention time (min) | Method detection limit (µg/L) | Characteristic masses | Electron Impact | Primary | Secondary | Secondary | Chemical ionization | Methane | Methane | Methane
-2-Chlorophenol | 5.9 | 3.3 | 128 | 64 | 130 | 129 | 131 | 157
-2-Nitrophenol | 6.5 | 3.6 | 139 | 65 | 109 | 140 | 168 | 122
-Phenol | 8.0 | 1.5 | 94 | 65 | 66 | 95 | 123 | 135
-2,4-Dimethylphenol | 9.4 | 2.7 | 122 | 107 | 121 | 123 | 151 | 163
-2,4-Dichlorophenol | 9.8 | 2.7 | 162 | 164 | 98 | 163 | 165 | 167
-2,4,6-Trichlorophenol | 11.8 | 2.7 | 196 | 198 | 200 | 197 | 199 | 201
-4-Chloro-3-methylphenol | 13.2 | 3.0 | 142 | 107 | 144 | 143 | 171 | 183
-2,4-Dinitrophenol | 15.9 | 42 | 184 | 63 | 154 | 185 | 213 | 225
-2-Methyl-4,6-dinitrophenol | 16.2 | 24 | 198 | 182 | 77 | 199 | 227 | 239
-Pentachlorophenol | 17.5 | 3.6 | 266 | 264 | 268 | 267 | 265 | 269
-4-Nitrophenol | 20.3 | 2.4 | 65 | 139 | 109 | 140 | 168 | 122
-Column conditions: Supelcoport (100/120 mesh) coated with 1% SP-1240DA packed in a 1.8 m long × 2mm ID glass column with helium carrier gas at 30 mL/min. flow rate. Column temperature held isothermal at 70 °C for 2 min. then programmed at 8 °C/min. to 200 °C.
-Table 6—QC Acceptance Criteria—Method 625
-Parameter | Test conclusion (µg/L) | Limits for s (µg/L) | Range for X(µg/L) | Range for P, Ps (Percent)
-Acenaphthene | 100 | 27.6 | 60.1-132.3 | 47-145
-Acenaphthylene | 100 | 40.2 | 53.5-126.0 | 33-145
-Aldrin | 100 | 39.0 | 7.2-152.2 | D-166
-Anthracene | 100 | 32.0 | 43.4-118.0 | 27-133
-Benzo(a)anthracene | 100 | 27.6 | 41.8-133.0 | 33-143
-Benzo(b)fluoranthene | 100 | 38.8 | 42.0-140.4 | 24-159
-Benzo(k)fluoranthene | 100 | 32.3 | 25.2-145.7 | 11-162
-Benzo(a)pyrene | 100 | 39.0 | 31.7-148.0 | 17-163
-Benzo(ghi)perylene | 100 | 58.9 | D-195.0 | D-219
-Benzyl butyl phthalate | 100 | 23.4 | D-139.9 | D-152
-β-BHC | 100 | 31.5 | 41.5-130.6 | 24-149
-δ-BHC | 100 | 21.6 | D-100.0 | D-110
-Bis(2-chloroethyl) ether | 100 | 55.0 | 42.9-126.0 | 12-158
-Bis(2-chloroethoxy)methane | 100 | 34.5 | 49.2-164.7 | 33-184
-Bis(2-chloroisopropyl) ether a | 100 | 46.3 | 62.8-138.6 | 36-166
-Bis(2-ethylhexyl) phthalate | 100 | 41.1 | 28.9-136.8 | 8-158
-4-Bromophenyl phenyl ether | 100 | 23.0 | 64.9-114.4 | 53-127
-2-Chloronaphthalene | 100 | 13.0 | 64.5-113.5 | 60-118
-4-Chlorophenyl phenyl ether | 100 | 33.4 | 38.4-144.7 | 25-158
-Chrysene | 100 | 48.3 | 44.1-139.9 | 17-168
-4,4′-DDD | 100 | 31.0 | D-134.5 | D-145
-4,4′-DDE | 100 | 32.0 | 19.2-119.7 | 4-136
-4,4′-DDT | 100 | 61.6 | D-170.6 | D-203
-Dibenzo(a,h)anthracene | 100 | 70.0 | D-199.7 | D-227
-Di-n-butyl phthalate | 100 | 16.7 | 8.4-111.0 | 1-118
-1,2-Dichlorobenzene | 100 | 30.9 | 48.6-112.0 | 32-129
-1,3-Dichlorobenzene | 100 | 41.7 | 16.7-153.9 | D-172
-1,4,-Dichlorobenzene | 100 | 32.1 | 37.3-105.7 | 20-124
-3,3′-Dhlorobenzidine | 100 | 71.4 | 8.2-212.5 | D-262
-Dieldrin | 100 | 30.7 | 44.3-119.3 | 29-136
-Diethyl phthalate | 100 | 26.5 | D-100.0 | D-114
-Dimethyl phthalate | 100 | 23.2 | D-100.0 | D-112
-2,4-Dinitrotoluene | 100 | 21.8 | 47.5-126.9 | 39-139
-2,6-Dinitrotoluene | 100 | 29.6 | 68.1-136.7 | 50-158
-Di-n-octyl phthalate | 100 | 31.4 | 18.6-131.8 | 4-146
-Endosulfan sulfate | 100 | 16.7 | D-103.5 | D-107
-Endrin aldehyde | 100 | 32.5 | D-188.8 | D-209
-Fluoranthene | 100 | 32.8 | 42.9-121.3 | 26-137
-Fluorene | 100 | 20.7 | 71.6-108.4 | 59-121
-Heptachlor | 100 | 37.2 | D-172.2 | D-192
-Heptachlor epoxide | 100 | 54.7 | 70.9-109.4 | 26-155
-Hexachlorobenzene | 100 | 24.9 | 7.8-141.5 | D-152
-Hexachlorobutadiene | 100 | 26.3 | 37.8-102.2 | 24-116
-Hexachloroethane | 100 | 24.5 | 55.2-100.0 | 40-113
-Indeno(1,2,3-cd)pyrene | 100 | 44.6 | D-150.9 | D-171
-Isophorone | 100 | 63.3 | 46.6-180.2 | 21-196
-Naphthalene | 100 | 30.1 | 35.6-119.6 | 21-133
-Nitrobenzene | 100 | 39.3 | 54.3-157.6 | 35-180
-N-Nitrosodi-n-propylamine | 100 | 55.4 | 13.6-197.9 | D-230
-PCB-1260 | 100 | 54.2 | 19.3-121.0 | D-164
-Phenanthrene | 100 | 20.6 | 65.2-108.7 | 54-120
-Pyrene | 100 | 25.2 | 69.6-100.0 | 52-115
-1,2,4-Trichlorobenzene | 100 | 28.1 | 57.3-129.2 | 44-142
-4-Chloro-3-methylphenol | 100 | 37.2 | 40.8-127.9 | 22-147
-2-Chlorophenol | 100 | 28.7 | 36.2-120.4 | 23-134
-2,4-Dichlorophenol | 100 | 26.4 | 52.5-121.7 | 39-135
-2,4-Dimethylphenol | 100 | 26.1 | 41.8-109.0 | 32-119
-2,4-Dinitrophenol | 100 | 49.8 | D-172.9 | D-191
-2-Methyl-4,6-dinitrophenol | 100 | 93.2 | 53.0-100.0 | D-181
-2-Nitrophenol | 100 | 35.2 | 45.0-166.7 | 29-182
-4-Nitrophenol | 100 | 47.2 | 13.0-106.5 | D-132
-Pentachlorophenol | 100 | 48.9 | 38.1-151.8 | 14-176
-Phenol | 100 | 22.6 | 16.6-100.0 | 5-112
-2,4,6-Trichlorophenol | 100 | 31.7 | 52.4-129.2 | 37-144
-s = Standard deviation for four recovery measurements, in µg/L (Section 8.2.4).
-X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4).
-P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2).
+16.1 The basic version of this method was tested by 15 laboratories using reagent water, drinking water, surface water, and industrial wastewaters spiked at six concentrations over the range 5-1300 µg/L (Reference 2). Single operator precision, overall precision, and method accuracy were found to be directly related to the concentration of the analyte and essentially independent of the sample matrix. Linear equations to describe these relationships are presented in Table 7.
+16.2 As noted in section 1.1, this method was validated through an interlaboratory study in the early 1980s. However, the fundamental chemistry principles used in this method remain sound and continue to apply.
+16.3 A chromatogram of the combined acid/base/neutral calibration standard is shown in Figure 2.
+17. Pollution Prevention
+17.1 Pollution prevention encompasses any technique that reduces or eliminates the quantity or toxicity of waste at the point of generation. Many opportunities for pollution prevention exist in laboratory operations. EPA has established a preferred hierarchy of environmental management techniques that places pollution prevention as the management option of first choice. Whenever feasible, the laboratory should use pollution prevention techniques to address waste generation. When wastes cannot be reduced at the source, the Agency recommends recycling as the next best option.
+17.2 The analytes in this method are used in extremely small amounts and pose little threat to the environment when managed properly. Standards should be prepared in volumes consistent with laboratory use to minimize the disposal of excess volumes of expired standards. This method utilizes significant quantities of methylene chloride. Laboratories are encouraged to recover and recycle this and other solvents during extract concentration.
+17.3 For information about pollution prevention that may be applied to laboratories and research institutions, consult Less is Better: Laboratory Chemical Management for Waste Reduction, available from the American Chemical Society's Department of Governmental Relations and Science Policy, 1155 16th Street NW., Washington DC 20036, 202-872-4477.
+18. Waste Management
+18.1 The laboratory is responsible for complying with all Federal, State, and local regulations governing waste management, particularly the hazardous waste identification rules and land disposal restrictions, and to protect the air, water, and land by minimizing and controlling all releases from fume hoods and bench operations. Compliance is also required with any sewage discharge permits and regulations. An overview of requirements can be found in Environmental Management Guide for Small Laboratories (EPA 233-B-98-001).
+18.2 Samples at pH <2, or pH >12, are hazardous and must be handled and disposed of as hazardous waste, or neutralized and disposed of in accordance with all federal, state, and local regulations. It is the laboratory's responsibility to comply with all federal, state, and local regulations governing waste management, particularly the hazardous waste identification rules and land disposal restrictions. The laboratory using this method has the responsibility to protect the air, water, and land by minimizing and controlling all releases from fume hoods and bench operations. Compliance is also required with any sewage discharge permits and regulations. For further information on waste management, see "The Waste Management Manual for Laboratory Personnel," also available from the American Chemical Society at the address in section 17.3.
+18.3 Many analytes in this method decompose above 500 ºC. Low-level waste such as absorbent paper, tissues, and plastic gloves may be burned in an appropriate incinerator. Gross quantities of neat or highly concentrated solutions of toxic or hazardous chemicals should be packaged securely and disposed of through commercial or governmental channels that are capable of handling these types of wastes.
+18.4 For further information on waste management, consult The Waste Management Manual for Laboratory Personnel and Less is Better-Laboratory Chemical Management for Waste Reduction, available from the American Chemical Society's Department of Government Relations and Science Policy, 1155 16th Street NW., Washington, DC 20036, 202-872-4477.
+19. References
+1. "Sampling and Analysis Procedures for Screening of Industrial Effluents for Priority Pollutants," U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268, March 1977, Revised April 1977.
+2. "EPA Method Study 30, Method 625, Base/Neutrals, Acids, and Pesticides," EPA 600/4-84-053, National Technical Information Service, PB84-206572, Springfield, Virginia 22161, June 1984.
+3. 40 CFR part 136, appendix B.
+4. Olynyk, P., Budde, W.L. and Eichelberger, J.W. "Method Detection Limit for Methods 624 and 625," Unpublished report, May 14, 1980.
+5. Annual Book of ASTM Standards, Volume 11.02, D3694-96, "Standard Practices for Preparation of Sample Containers and for Preservation of Organic Constituents," American Society for Testing and Materials, Philadelphia.
+6. Solutions to Analytical Chemistry Problems with Clean Water Act Methods, EPA 821-R-07-002, March 2007.
+7. "Carcinogens-Working With Carcinogens," Department of Health, Education, and Welfare, Public Health Service, Center for Disease Control, National Institute for Occupational Safety and Health, Publication No. 77-206, August 1977.
+8. "OSHA Safety and Health Standards, General Industry," (29 CFR part 1910), Occupational Safety and Health Administration, OSHA 2206 (Revised, January 1976).
+9. "Safety in Academic Chemistry Laboratories," American Chemical Society Publication, Committee on Chemical Safety, 7th Edition, 2003.
+10. Johnson, R.A., and Wichern, D.W., "Applied Multivariate Statistical Analysis," 3rd edition, Prentice Hall, Englewood Cliffs, NJ, 1992.
+11. 40 CFR 136.6(b)(4)(x).
+12. 40 CFR 136.6(b)(2)(i).
+13. Protocol for EPA Approval of New Methods for Organic and Inorganic Analytes in Wastewater and Drinking Water (EPA-821-B-98-003) March 1999.
+14. Provost, L.P. and Elder, R.S. "Interpretation of Percent Recovery Data," American Laboratory, 15, 58-63 (1983). (The value 2.44 used in the equation in section 8.3.3 is two times the value 1.22 derived in this report.)
+15. ASTM Annual Book of Standards, Part 31, D3370-76. "Standard Practices for Sampling Water," American Society for Testing and Materials, Philadelphia.
+16. 40 CFR 136.3(a), Table IB, Chlorine—Total Residual.
+17. "Manual of Analytical Methods for the Analysis of Pesticides in Human and Environmental Samples," EPA-600/8-80-038, U.S. Environmental Protection Agency, Health Effects Research Laboratory, Research Triangle Park, North Carolina.
+18. Eichelberger, J.W., Harris, L.E., and Budde, W.L. "Reference Compound to Calibrate Ion Abundance Measurement in Gas Chromatography-Mass Spectrometry," Analytical Chemistry, 47, 995 (1975).
+19. Letter of approval of acceptance criteria for DFTPP for time-of-flight mass spectrometers from William A. Telliard and Herb Brass of EPA to Jack Cochran of LECO Corporation, February 9, 2005.
+20. Tables
+Table 1—Non Pesticide/PCB Base/Neutral Extractables 1
+Analyte | CAS registry | MDL 4 (ug/L) | ML 5 (ug/L)
+Acenaphthene | 83-32-9 | 1.9 | 5.7
+Acenaphthylene | 208-96-8 | 3.5 | 10.5
+Anthracene | 120-12-7 | 1.9 | 5.7
+Benzidine 2 | 92-87-5 | 44 | 132
+Benzo(a)anthracene | 56-55-3 | 7.8 | 23.4
+Benzo(a)pyrene | 50-32-8 | 2.5 | 7.5
+Benzo(b)fluoranthene | 205-99-2 | 4.8 | 14.4
+Benzo(k)fluoranthene | 207-08-9 | 2.5 | 7.5
+Benzo(ghi)perylene | 191-24-2 | 4.1 | 12.3
+Benzyl butyl phthalate | 85-68-7 | 2.5 | 7.5
+bis(2-Chloroethoxy)methane | 111-91-1 | 5.3 | 15.9
+bis(2-Ethylhexyl)phthalate | 117-81-7 | 2.5 | 7.5
+bis(2-Chloroisopropyl) ether (2,2'-Oxybis[1-chloropropane]) | 108-60-1 | 5.7 | 17.1
+4-Bromophenyl phenyl ether | 101-55-3 | 1.9 | 5.7
+2-Chloronaphthalene | 91-58-7 | 1.9 | 5.7
+4-Chlorophenyl phenyl ether | 7005-72-3 | 4.2 | 12.6
+Chrysene | 218-01-9 | 2.5 | 7.5
+Dibenz(a,h)anthracene | 53-70-3 | 2.5 | 7.5
+Di-n-butylphthalate | 84-74-2 | 2.5 | 7.5
+3,3'-Dichlorobenzidine | 91-94-1 | 16.5 | 49.5
+Diethyl phthalate | 84-66-2 | 1.9 | 5.7
+Dimethyl phthalate | 131-11-3 | 1.6 | 4.8
+2,4-Dinitrotoluene | 121-14-2 | 5.7 | 17.1
+2,6-Dinitrotoluene | 606-20-2 | 1.9 | 5.7
+Di-n-octylphthalate | 117-84-0 | 2.5 | 7.5
+Fluoranthene | 206-44-0 | 2.2 | 6.6
+Fluorene | 86-73-7 | 1.9 | 5.7
+Hexachlorobenzene | 118-74-1 | 1.9 | 5.7
+Hexachlorobutadiene | 87-68-3 | 0.9 | 2.7
+Hexachloroethane | 67-72-1 | 1.6 | 4.8
+Indeno(1,2,3-cd)pyrene | 193-39-5 | 3.7 | 11.1
+Isophorone | 78-59-1 | 2.2 | 6.6
+Naphthalene | 91-20-3 | 1.6 | 4.8
+Nitrobenzene | 98-95-3 | 1.9 | 5.7
+N-Nitrosodi-n-propylamine 3 | 621-64-7 | — | —
+Phenanthrene | 85-01-8 | 5.4 | 16.2
+Pyrene | 129-00-0 | 1.9 | 5.7
+1,2,4-Trichlorobenzene | 120-82-1 | 1.9 | 5.7
+1 All analytes in this table are Priority Pollutants (40 CFR part 423, appendix A).
+2 Included for tailing factor testing.
+3 See section 1.2.
+4 MDL values from the 1984 promulgated version of Method 625.
+5 ML = Minimum Level—see Glossary for definition and derivation.
+Table 2—Acid Extractables 1
+Analyte | CAS registry | MDL 3 (ug/L) | ML 4 (ug/L)
+4-Chloro-3-methylphenol | 59-50-7 | 3.0 | 9.0
+2-Chlorophenol | 95-57-8 | 3.3 | 9.9
+2,4-Dichlorophenol | 120-83-2 | 2.7 | 8.1
+2,4-Dimethylphenol | 105-67-9 | 2.7 | 8.1
+2,4-Dinitrophenol | 51-28-5 | 42 | 126
+2-Methyl-4,6-dinitrophenol | 534-52-1 | 24 | 72
+2-Nitrophenol | 88-75-5 | 3.6 | 10.8
+4-Nitrophenol | 100-02-7 | 2.4 | 7.2
+Pentachlorophenol 2 | 87-86-5 | 3.6 | 10.8
+Phenol | 108-95-2 | 1.5 | 4.5
+2,4,6-Trichlorophenol | 88-06-2 | 2.7 | 8.1
+1 All analytes in this table are Priority Pollutants (40 CFR part 423, appendix A).
+2 See section 1.2; included for tailing factor testing.
+3 MDL values from the 1984 promulgated version of Method 625.
+4 ML = Minimum Level—see Glossary for definition and derivation.
+Table 3—Additional Extractable Analytes 1, 2
+Analyte | CAS registry | MDL 7 (ug/L) | ML 8 (ug/L)
+Acetophenone | 98-86-2
+2-Acetylaminofluorene | 53-96-3
+1-Acetyl-2-thiourea | 591-08-2
+Alachlor | 15972-60-8
+Aldrin 3 | 309-00-2 | 1.9 | 5.7
+Ametryn | 834-12-8
+2-Aminoanthraquinone | 117-79-3
+Aminoazobenzene | 60-09-3
+4-Aminobiphenyl | 92-67-1
+3-Amino-9-ethylcarbazole | 132-32-1
+Anilazine | 101-05-3
+Aniline | 62-53-3
+o-Anisidine | 90-04-0
+Aramite | 140-57-8
+Atraton | 1610-17-9
+Atrazine | 1912-24-9
+Azinphos-methyl | 86-50-0
+Barban | 101-27-9
+Benzanthrone | 82-05-3
+Benzenethiol | 108-98-5
+Benzoic acid | 65-85-0
+2,3-Benzofluorene | 243-17-4
+p-Benzoquinone | 106-51-4
+Benzyl alcohol | 100-51-6
+alpha-BHC 3, 4 | 319-84-6
+beta-BHC 3 | 319-85-7 | 3.1 | 9.3
+gamma-BHC (Lindane) 3, 4 | 58-89-8 | 4.2 | 12.6
+delta-BHC 3 | 319-86-8
+Biphenyl | 92-52-4
+Bromacil | 314-40-9
+2-Bromochlorobenzene | 694-80-4
+3-Bromochlorobenzene | 108-39-2
+Bromoxynil | 1689-84-5
+Butachlor | 2318-4669
+Butylate | 2008-41-5
+n-C10 (n-decane) | 124-18-5
+n-C12 (n-undecane) | 112-40-2
+n-C14 (n-tetradecane) | 629-59-4
+n-C16 (n-hexadecane) | 544-76-3
+n-C18 (n-octadecane) | 593-45-3
+n-C20 (n-eicosane) | 112-95-8
+n-C22 (n-docosane) | 629-97-0
+n-C24 (n-tetracosane) | 646-31-1
+n-C26 (n-hexacosane) | 630-01-3
+n-C28 (n-octacosane) | 630-02-4
+n-C30 (n-triacontane) | 638-68-6
+Captafol | 2425-06-1
+Captan | 133-06-2
+Carbaryl | 63-25-2
+Carbazole | 86-74-8
+Carbofuran | 1563-66-2
+Carboxin | 5234-68-4
+Carbophenothion | 786-19-6
+Chlordane 3, 5 | 57-74-9
+bis(2-Chloroethyl) ether 3, 4 | 111-44-4 | 5.7 | 17.1
+Chloroneb | 2675-77-6
+4-Chloroaniline | 106-47-8
+Chlorobenzilate | 510-15-6
+Chlorfenvinphos | 470-90-6
+4-Chloro-2-methylaniline | 95-69-2
+3-(Chloromethyl)pyridine hydrochloride | 6959-48-4
+4-Chloro-2-nitroaniline | 89-63-4
+Chlorpropham | 101-21-3
+Chlorothalonil | 1897-45-6
+1-Chloronaphthalene | 90-13-1
+3-Chloronitrobenzene | 121-73-3
+4-Chloro-1,2-phenylenediamine | 95-83-0
+4-Chloro-1,3-phenylenediamine | 5131-60-2
+2-Chlorobiphenyl | 2051-60-7
+Chlorpyrifos | 2921-88-2
+Coumaphos | 56-72-4
+m + p-Cresol | 65794-96-9
+o-Cresol | 95-48-7
+p-Cresidine | 120-71-8
+Crotoxyphos | 7700-17-6
+2-Cyclohexyl-4,6-dinitro-phenol | 131-89-5
+Cyanazine | 21725-46-2
+Cycloate | 1134-23-2
+p-Cymene | 99-87-6
+Dacthal (DCPA) | 1861-32-1
+4,4'-DDD 3 | 72-54-8 | 2.8 | 8.4
+4,4'-DDE 3 | 72-55-9 | 5.6 | 16.8
+4,4'-DDT 3 | 50-29-3 | 4.7 | 14.1
+Demeton-O | 298-03-3
+Demeton-S | 126-75-0
+Diallate (cis or trans) | 2303-16-4
+2,4-Diaminotoluene | 95-80-7
+Diazinon | 333-41-5
+Dibenz(a,j)acridine | 224-42-0
+Dibenzofuran | 132-64-9
+Dibenzo(a,e)pyrene | 192-65-4
+Dibenzothiophene | 132-65-0
+1,2-Dibromo-3-chloropropane | 96-12-8
+3,5-Dibromo-4-hydroxybenzonitrile | 1689-84-5
+2,6-Di-tert-butyl-p-benzoquinone | 719-22-2
+Dichlone | 117-80-6
+2,3-Dichloroaniline | 608-27-5
+2,3-Dichlorobiphenyl | 16605-91-7
+2,6-Dichloro-4-nitroaniline | 99-30-9
+2,3-Dichloronitrobenzene | 3209-22-1
+1,3-Dichloro-2-propanol | 96-23-1
+2,6-Dichlorophenol | 120-83-2
+Dichlorvos | 62-73-7
+Dicrotophos | 141-66-2
+Dieldrin 3 | 60-57-1 | 2.5 | 7.5
+1,2:3,4-Diepoxybutane | 1464-53-5
+Di(2-ethylhexyl) adipate | 103-23-1
+Diethylstilbestrol | 56-53-1
+Diethyl sulfate | 64-67-5
+Dilantin (5,5-Diphenylhydantoin) | 57-41-0
+Dimethoate | 60-51-5
+3,3′-Dimethoxybenzidine | 119-90-4
+Dimethylaminoazobenzene | 60-11-7
+7,12-Dimethylbenz(a)anthracene | 57-97-6
+3,3′-Dimethylbenzidine | 119-93-7
+N,N-Dimethylformamide | 68-12-2
+3,6-Dimethylphenathrene | 1576-67-6
+alpha, alpha-Dimethylphenethylamine | 122-09-8
+Dimethyl sulfone | 67-71-0
+1,2-Dinitrobenzene | 528-29-0
+1,3-Dinitrobenzene | 99-65-0
+1,4-Dinitrobenzene | 100-25-4
+Dinocap | 39300-45-3
+Dinoseb | 88-85-7
+Diphenylamine | 122-39-4
+Diphenyl ether | 101-84-8
+1,2-Diphenylhydrazine | 122-66-7
+Diphenamid | 957-51-7
+Diphenyldisulfide | 882-33-7
+Disulfoton | 298-04-4
+Disulfoton sulfoxide | 2497-07-6
+Disulfoton sulfone | 2497-06-5
+Endosulfan I 3, 4 | 959-98-8
+Endosulfan II 3, 4 | 33213-65-9
+Endosulfan sulfate 3 | 1031-07-8 | 5.6 | 16.8
+Endrin 3, 4 | 72-20-8
+Endrin aldehyde 3, 4 | 7421-93-4
+Endrin ketone 3, 4 | 53494-70-5
+EPN | 2104-64-5
+EPTC | 759-94-4
+Ethion | 563-12-2
+Ethoprop | 13194-48-4
+Ethyl carbamate | 51-79-6
+Ethyl methanesulfonate | 65-50-0
+Ethylenethiourea | 96-45-7
+Etridiazole | 2593-15-9
+Ethynylestradiol-3-methyl ether | 72-33-3
+Famphur | 52-85-7
+Fenamiphos | 22224-92-6
+Fenarimol | 60168-88-9
+Fensulfothion | 115-90-2
+Fenthion | 55-38-9
+Fluchloralin | 33245-39-5
+Fluridone | 59756-60-4
+Heptachlor 3 | 76-44-8 | 1.9 | 5.7
+Heptachlor epoxide 3 | 1024-57-3 | 2.2 | 6.6
+2,2′,3,3′,4,4′,6-Heptachlorobiphenyl | 52663-71-5
+2,2′,4,4′,5′,6-Hexachlorobiphenyl | 60145-22-4
+Hexachlorocyclopentadiene 3, 4 | 77-47-4
+Hexachlorophene | 70-30-4
+Hexachloropropene | 1888-71-7
+Hexamethylphosphoramide | 680-31-9
+Hexanoic acid | 142-62-1
+Hexazinone | 51235-04-2
+Hydroquinone | 123-31-9
+Isodrin | 465-73-6
+2-Isopropylnaphthalene | 2027-17-0
+Isosafrole | 120-58-1
+Kepone | 143-50-0
+Leptophos | 21609-90-5
+Longifolene | 475-20-7
+Malachite green | 569-64-2
+Malathion | 121-75-5
+Maleic anhydride | 108-31-6
+Merphos | 150-50-5
+Mestranol | 72-33-3
+Methapyrilene | 91-80-5
+Methoxychlor | 72-43-5
+2-Methylbenzothioazole | 120-75-2
+3-Methylcholanthrene | 56-49-5
+4,4′-Methylenebis(2-chloroaniline) | 101-14-4
+4,4′-Methylenebis(N,N-dimethylaniline) | 101-61-1
+4,5-Methylenephenanthrene | 203-64-5
+1-Methylfluorene | 1730-37-6
+Methyl methanesulfonate | 66-27-3
+2-Methylnaphthalene | 91-57-6
+Methylparaoxon | 950-35-6
+Methyl parathion | 298-00-0
+1-Methylphenanthrene | 832-69-9
+2-(Methylthio)benzothiazole | 615-22-5
+Metolachlor | 5218-45-2
+Metribuzin | 21087-64-9
+Mevinphos | 7786-34-7
+Mexacarbate | 315-18-4
+MGK 264 | 113-48-4
+Mirex | 2385-85-5
+Molinate | 2212-67-1
+Monocrotophos | 6923-22-4
+Naled | 300-76-5
+Napropamide | 15299-99-7
+1,4-Naphthoquinone | 130-15-4
+1-Naphthylamine | 134-32-7
+2-Naphthylamine | 91-59-8
+1,5-Naphthalenediamine | 2243-62-1
+Nicotine | 54-11-5
+5-Nitroacenaphthene | 602-87-9
+2-Nitroaniline | 88-74-4
+3-Nitroaniline | 99-09-2
+4-Nitroaniline | 100-01-6
+5-Nitro-o-anisidine | 99-59-2
+4-Nitrobiphenyl | 92-93-3
+Nitrofen | 1836-75-5
+5-Nitro-o-toluidine | 99-55-8
+Nitroquinoline-1-oxide | 56-57-5
+N-Nitrosodi-n-butylamine 4 | 924-16-3
+N-Nitrosodiethylamine 4 | 55-18-5
+N-Nitrosodimethylamine 3, 4 | 62-75-9
+N-Nitrosodiphenylamine 3, 4 | 86-30-6
+N-Nitrosomethylethylamine 4 | 10595-95-6
+N-Nitrosomethylphenylamine 4 | 614-00-6
+N-Nitrosomorpholine 4 | 59-89-2
+N-Nitrosopiperidine 4 | 100-75-5
+N-Nitrosopyrrolidine 4 | 930-55-2
+trans-Nonachlor | 39765-80-5
+Norflurazon | 27314-13-2
+2,2′,3,3′,4,5′,6,6′-Octachlorobiphenyl | 40186-71-8
+Octamethyl pyrophosphoramide | 152-16-9
+4,4'-Oxydianiline | 101-80-4
+Parathion | 56-38-2
+PCB-1016 3, 5 | 12674-11-2
+PCB-1221 3, 5 | 11104-28-2 | 30 | 90
+PCB-1232 3, 5 | 11141-16-5
+PCB-1242 3, 5 | 53469-21-9
+PCB-1248 3, 5 | 12672-29-6
+PCB-1254 3, 5 | 11097-69-1 | 36 | 108
+PCB-1260 3, 5 | 11098-82-5
+PCB-1268 3, 5 | 11100-14-4
+Pebulate | 1114-71-2
+Pentachlorobenzene | 608-93-5
+Pentachloronitrobenzene | 82-68-8
+2,2′,3,4′,6-Pentachlorobiphenyl | 68194-05-8
+Pentachloroethane | 76-01-7
+Pentamethylbenzene | 700-12-9
+Perylene | 198-55-0
+Phenacetin | 62-44-2
+cis-Permethrin | 61949-76-6
+trans-Permethrin | 61949-77-7
+Phenobarbital | 50-06-6
+Phenothiazene | 92-84-2
+1,4-Phenylenediamine | 624-18-0
+1-Phenylnaphthalene | 605-02-7
+2-Phenylnaphthalene | 612-94-2
+Phorate | 298-02-2
+Phosalone | 2310-18-0
+Phosmet | 732-11-6
+Phosphamidon | 13171-21-6
+Phthalic anhydride | 85-44-9
+alpha-Picoline (2-Methylpyridine) | 109-06-8
+Piperonyl sulfoxide | 120-62-7
+Prometon | 1610-18-0
+Prometryn | 7287-19-6
+Pronamide | 23950-58-5
+Propachlor | 1918-16-7
+Propazine | 139-40-2
+Propylthiouracil | 51-52-5
+Pyridine | 110-86-1
+Resorcinol (1,3-Benzenediol) | 108-46-3
+Safrole | 94-59-7
+Simazine | 122-34-9
+Simetryn | 1014-70-6
+Squalene | 7683-64-9
+Stirofos | 22248-79-9
+Strychnine | 57-24-9
+Styrene 9 | 100-42-5
+Sulfallate | 95-06-7
+Tebuthiuron | 34014-18-1
+Terbacil | 5902-51-2
+Terbufos | 13071-79-9
+Terbutryn | 886-50-0
+alpha-Terpineol | 98-55-5
+1,2,4,5-Tetrachlorobenzene | 95-94-3
+2,2′,4,4′-Tetrachlorobiphenyl | 2437-79-8
+2,3,7,8-Tetrachlorodibenzo-p-dioxin | 1746-01-6
+2,3,4,6-Tetrachlorophenol | 58-90-2
+Tetrachlorvinphos | 22248-79-9
+Tetraethyl dithiopyrophosphate | 3689-24-5
+Tetraethyl pyrophosphate | 107-49-3
+Thianaphthene (2,3-Benzothiophene) | 95-15-8
+Thioacetamide | 62-55-5
+Thionazin | 297-97-2
+Thiophenol (Benzenethiol) | 108-98-5
+Thioxanthone | 492-22-8
+Toluene-1,3-diisocyanate | 26471-62-5
+Toluene-2,4-diisocyanate | 584-84-9
+o-Toluidine | 95-53-4
+Toxaphene 3, 5 | 8001-35-2
+Triadimefon | 43121-43-3
+1,2,3-Trichlorobenzene | 87-61-6
+2,4,5-Trichlorobiphenyl | 15862-07-4
+2,3,6-Trichlorophenol | 933-75-5
+2,4,5-Trichlorophenol | 95-95-4
+Tricyclazole | 41814-78-2
+Trifluralin | 1582-09-8
+1,2,3-Trimethoxybenzene | 634-36-6
+2,4,5-Trimethylaniline | 137-17-7
+Trimethyl phosphate | 512-56-1
+Triphenylene | 217-59-4
+Tripropyleneglycolmethyl ether | 20324-33-8
+1,3,5-Trinitrobenzene | 99-35-4
+Tris(2,3-dibromopropyl) phosphate | 126-72-7
+Tri-p-tolyl phosphate | 78-32-0
+O,O,O-Triethyl phosphorothioate | 126-68-1
+Trithiane | 291-29-4
+Vernolate | 1929-77-7 |
+1 Compounds that have been demonstrated amenable to extraction and gas chromatography.
+2 Determine each analyte in the fraction that gives the most accurate result.
+3 Priority Pollutant (40 CFR part 423, appendix A).
+4 See section 1.2.
+5 These compounds are mixtures of various isomers.
+6 Detected as azobenzene.
+7 MDL values from the 1984 promulgated version of Method 625.
+8 ML = Minimum Level—see Glossary for definition and derivation.
+9 Styrene may be susceptible to losses during sampling, preservation, and/or extraction of full-volume (1 L) water samples. However, styrene is not regulated at 40 CFR part 136, and it is also listed as an analyte in EPA Method 624.1 and EPA Method 1625C, where such losses may be less than using Method 625.1.
+Table 4—Chromatographic Conditions and Characteristic m/z's for Base/Neutral Extractables
+Analyte | Retention time(sec) 1 | Characteristic m/z's | Electron impact ionization | Primary | Second | Second | Chemical ionization | Methane | Methane | Methane
+N-Nitrosodimethylamine | 385 | 42 | 74 | 44 |
+bis(2-Chloroethyl) ether | 704 | 93 | 63 | 95 | 63 | 107 | 109
+bis(2-Chloroisopropyl) ether | 799 | 45 | 77 | 79 | 77 | 135 | 137
+Hexachloroethane | 823 | 117 | 201 | 199 | 199 | 201 | 203
+N-Nitrosodi-n-propylamine | 830 | 130 | 42 | 101 |
+Nitrobenzene | 849 | 77 | 123 | 65 | 124 | 152 | 164
+Isophorone | 889 | 82 | 95 | 138 | 139 | 167 | 178
+bis(2-Chloroethoxy) methane | 939 | 93 | 95 | 123 | 65 | 107 | 137
+1,2,4-Trichlorobenzene | 958 | 180 | 182 | 145 | 181 | 183 | 209
+Naphthalene | 967 | 128 | 129 | 127 | 129 | 157 | 169
+Hexachlorobutadiene | 1006 | 225 | 223 | 227 | 223 | 225 | 227
+Hexachlorocyclopentadiene | 1142 | 237 | 235 | 272 | 235 | 237 | 239
+2-Chloronaphthalene | 1200 | 162 | 164 | 127 | 163 | 191 | 203
+Acenaphthylene | 1247 | 152 | 151 | 153 | 152 | 153 | 181
+Dimethyl phthalate | 1273 | 163 | 194 | 164 | 151 | 163 | 164
+2,6-Dinitrotoluene | 1300 | 165 | 89 | 121 | 183 | 211 | 223
+Acenaphthene | 1304 | 154 | 153 | 152 | 154 | 155 | 183
+2,4-Dinitrotoluene | 1364 | 165 | 63 | 182 | 183 | 211 | 223
+Fluorene | 1401 | 166 | 165 | 167 | 166 | 167 | 195
+4-Chlorophenyl phenyl ether | 1409 | 204 | 206 | 141 |
+Diethyl phthalate | 1414 | 149 | 177 | 150 | 177 | 223 | 251
+N-Nitrosodiphenylamine | 1464 | 169 | 168 | 167 | 169 | 170 | 198
+4-Bromophenyl phenyl ether | 1498 | 248 | 250 | 141 | 249 | 251 | 277
+alpha-BHC | 1514 | 183 | 181 | 109 |
+Hexachlorobenzene | 1522 | 284 | 142 | 249 | 284 | 286 | 288
+beta-BHC | 1544 | 183 | 181 | 109 |
+gamma-BHC | 1557 | 181 | 183 | 109 |
+Phenanthrene | 1583 | 178 | 179 | 176 | 178 | 179 | 207
+Anthracene | 1592 | 178 | 179 | 176 | 178 | 179 | 207
+delta-BHC | 1599 | 183 | 109 | 181 |
+Heptachlor | 1683 | 100 | 272 | 274 |
+Di-n-butyl phthalate | 1723 | 149 | 150 | 104 | 149 | 205 | 279
+Aldrin | 1753 | 66 | 263 | 220 |
+Fluoranthene | 1817 | 202 | 101 | 100 | 203 | 231 | 243
+Heptachlor epoxide | 1820 | 353 | 355 | 351 |
+gamma-Chlordane | 1834 | 373 | 375 | 377 |
+Pyrene | 1852 | 202 | 101 | 100 | 203 | 231 | 243
+Benzidine 2 | 1853 | 184 | 92 | 185 | 185 | 213 | 225
+alpha-Chlordane | 1854 | 373 | 375 | 377 |
+Endosulfan I | 1855 | 237 | 339 | 341 |
+4,4′-DDE | 1892 | 246 | 248 | 176 |
+Dieldrin | 1907 | 79 | 263 | 279 |
+Endrin | 1935 | 81 | 263 | 82 |
+Endosulfan II | 2014 | 237 | 339 | 341 |
+4,4′-DDD | 2019 | 235 | 237 | 165 |
+Endrin aldehyde | 2031 | 67 | 345 | 250 |
+Butyl benzyl phthalate | 2060 | 149 | 91 | 206 | 149 | 299 | 327
+Endosulfan sulfate | 2068 | 272 | 387 | 422 |
+4,4′-DDT | 2073 | 235 | 237 | 165 |
+Chrysene | 2083 | 228 | 226 | 229 | 228 | 229 | 257
+3,3′-Dichlorobenzidine | 2086 | 252 | 254 | 126 |
+Benzo(a)anthracene | 2090 | 228 | 229 | 226 | 228 | 229 | 257
+bis(2-Ethylhexyl) phthalate | 2124 | 149 | 167 | 279 | 149
+Di-n-octyl phthalate | 2240 | 149 | 43 | 57 |
+Benzo(b)fluoranthene | 2286 | 252 | 253 | 125 | 252 | 253 | 281
+Benzo(k)fluoranthene | 2293 | 252 | 253 | 125 | 252 | 253 | 281
+Benzo(a)pyrene | 2350 | 252 | 253 | 125 | 252 | 253 | 281
+Indeno(1,2,3-cd) pyrene | 2650 | 276 | 138 | 277 | 276 | 277 | 305
+Dibenz(a,h)anthracene | 2660 | 278 | 139 | 279 | 278 | 279 | 307
+Benzo(ghi)perylene | 2750 | 276 | 138 | 277 | 276 | 277 | 305
+Toxaphene | | 159 | 231 | 233 |
+PCB 1016 | | 224 | 260 | 294 |
+PCB 1221 | | 190 | 224 | 260 |
+PCB 1232 | | 190 | 224 | 260 |
+PCB 1242 | | 224 | 260 | 294 |
+PCB 1248 | | 294 | 330 | 262 |
+PCB 1254 | | 294 | 330 | 362 |
+PCB 1260 | | 330 | 362 | 394 | |
+1 Column: 30 m x 0.25 mm ID; 94% methyl, 5% phenyl, 1% vinyl bonded phase fused silica capillary.
+Conditions: 5 min at 30 °C; 30-280 at 8 °C per min; isothermal at 280 °C until benzo(ghi)perylene elutes.
+Gas velocity: 30 cm/sec at 30 °C (at constant pressure).
+2 See section 1.2; included for tailing factor testing.
+Table 5—Chromatographic Conditions and Characteristic m/z's for Acid Extractables
+Analyte | Retention Time(sec) 1 | Characteristic m/z's | Electron impact ionization | Prime | Second | Second | Chemical ionization | Methane | Methane | Methane
+2-Chlorophenol | 705 | 128 | 64 | 130 | 129 | 131 | 157
+Phenol | 700 | 94 | 65 | 66 | 95 | 123 | 135
+2-Nitrophenol | 900 | 139 | 65 | 109 | 140 | 168 | 122
+2,4-Dimethylphenol | 924 | 122 | 107 | 121 | 123 | 151 | 163
+2,4-Dichlorophenol | 947 | 162 | 164 | 98 | 163 | 165 | 167
+4-Chloro-3-methylphenol | 1091 | 142 | 107 | 144 | 143 | 171 | 183
+2,4,6-Trichlorophenol | 1165 | 196 | 198 | 200 | 197 | 199 | 201
+2,4-Dinitrophenol | 1325 | 184 | 63 | 154 | 185 | 213 | 225
+4-Nitrophenol | 1354 | 65 | 139 | 109 | 140 | 168 | 122
+2-Methyl-4,6-dinitrophenol | 1435 | 198 | 182 | 77 | 199 | 227 | 239
+Pentachlorophenol | 1561 | 266 | 264 | 268 | 267 | 265 | 269
+Column: 30 m x 0.25 mm ID; 94% methyl, 5% phenyl, 1% vinyl bonded phase fused silica capillary.
+Conditions: 5 min at 30 °C; 30-250 at 8 °C per min; isothermal at 280 °C until pentachlorophenol elutes.
+Gas velocity: 30 cm/sec at 30 °C (at constant pressure).
+Table 6—QC Acceptance Criteria—Method 625 1
+Analyte | Range for Q(%) 2 | Limit for s(%) 3 | Range for X (%) 3 | Range forP1, P2(%) 3 | Limit forRPD (%)
+Acenaphthene | 70-130 | 29 | 60-132 | 47-145 | 48
+Acenaphthylene | 60-130 | 45 | 54-126 | 33-145 | 74
+Aldrin | 7-152 | 39 | 7-152 | D-166 | 81
+Anthracene | 58-130 | 40 | 43-120 | 27-133 | 66
+Benzo(a)anthracene | 42-133 | 32 | 42-133 | 33-143 | 53
+Benzo(b)fluoranthene | 42-140 | 43 | 42-140 | 24-159 | 71
+Benzo(k)fluoranthene | 25-146 | 38 | 25-146 | 11-162 | 63
+Benzo(a)pyrene | 32-148 | 43 | 32-148 | 17-163 | 72
+Benzo(ghi)perylene | 13-195 | 61 | D-195 | D-219 | 97
+Benzyl butyl phthalate | 43-140 | 36 | D-140 | D-152 | 60
+beta-BHC | 42-131 | 37 | 42-131 | 24-149 | 61
+delta-BHC | D-130 | 77 | D-120 | D-120 | 129
+bis(2-Chloroethyl)ether | 52-130 | 65 | 43-126 | 12-158 | 108
+bis(2-Chloroethoxy)methane | 52-164 | 32 | 49-165 | 33-184 | 54
+bis(2-Chloroisopropyl) ether | 63-139 | 46 | 63-139 | 36-166 | 76
+bis(2-Ethylhexyl) phthalate | 43-137 | 50 | 29-137 | 8-158 | 82
+4-Bromophenyl phenyl ether | 70-130 | 26 | 65-120 | 53-127 | 43
+2-Chloronaphthalene | 70-130 | 15 | 65-120 | 60-120 | 24
+4-Chlorophenyl phenyl ether | 57-145 | 36 | 38-145 | 25-158 | 61
+Chrysene | 44-140 | 53 | 44-140 | 17-168 | 87
+4,4′-DDD | D-135 | 56 | D-135 | D-145 | 93
+4,4′-DDE | 19-130 | 46 | 19-120 | 4-136 | 77
+4,4′-DDT | D-171 | 81 | D-171 | D-203 | 135
+Dibenz(a,h)anthracene | 13-200 | 75 | D-200 | D-227 | 126
+Di-n-butyl phthalate | 52-130 | 28 | 8-120 | 1-120 | 47
+3,3′-Dichlorobenzidine | 18-213 | 65 | 8-213 | D-262 | 108
+Dieldrin | 70-130 | 38 | 44-119 | 29-136 | 62
+Diethyl phthalate | 47-130 | 60 | D-120 | D-120 | 100
+Dimethyl phthalate | 50-130 | 110 | D-120 | D-120 | 183
+2,4-Dinitrotoluene | 53-130 | 25 | 48-127 | 39-139 | 42
+2,6-Dinitrotoluene | 68-137 | 29 | 68-137 | 50-158 | 48
+Di-n-octyl phthalate | 21-132 | 42 | 19-132 | 4-146 | 69
+Endosulfan sulfate | D-130 | 42 | D-120 | D-120 | 70
+Endrin aldehyde | D-189 | 45 | D-189 | D-209 | 75
+Fluoranthene | 47-130 | 40 | 43-121 | 26-137 | 66
+Fluorene | 70-130 | 23 | 70-120 | 59-121 | 38
+Heptachlor | D-172 | 44 | D-172 | D-192 | 74
+Heptachlor epoxide | 70-130 | 61 | 71-120 | 26-155 | 101
+Hexachlorobenzene | 38-142 | 33 | 8-142 | D-152 | 55
+Hexachlorobutadiene | 68-130 | 38 | 38-120 | 24-120 | 62
+Hexachloroethane | 55-130 | 32 | 55-120 | 40-120 | 52
+Indeno(1,2,3-cd)pyrene | 13-151 | 60 | D-151 | D-171 | 99
+Isophorone | 52-180 | 56 | 47-180 | 21-196 | 93
+Naphthalene | 70-130 | 39 | 36-120 | 21-133 | 65
+Nitrobenzene | 54-158 | 37 | 54-158 | 35-180 | 62
+N-Nitrosodi-n-propylamine | 59-170 | 52 | 14-198 | D-230 | 87
+PCB-1260 | 19-130 | 77 | 19-130 | D-164 | 128
+Phenanthrene | 67-130 | 24 | 65-120 | 54-120 | 39
+Pyrene | 70-130 | 30 | 70-120 | 52-120 | 49
+1,2,4-Trichlorobenzene | 61-130 | 30 | 57-130 | 44-142 | 50
+4-Chloro-3-methylphenol | 68-130 | 44 | 41-128 | 22-147 | 73
+2-Chlorophenol | 55-130 | 37 | 36-120 | 23-134 | 61
+2,4-Dichlorophenol | 64-130 | 30 | 53-122 | 39-135 | 50
+2,4-Dimethylphenol | 58-130 | 35 | 42-120 | 32-120 | 58
+2,4-Dinitrophenol | 39-173 | 79 | D-173 | D-191 | 132
+2-Methyl-4,6-dinitrophenol | 56-130 | 122 | 53-130 | D-181 | 203
+2-Nitrophenol | 61-163 | 33 | 45-167 | 29-182 | 55
+4-Nitrophenol | 35-130 | 79 | 13-129 | D-132 | 131
+Pentachlorophenol | 42-152 | 52 | 38-152 | 14-176 | 86
+Phenol | 48-130 | 39 | 17-120 | 5-120 | 64
+2,4,6-Trichlorophenol | 69-130 | 35 | 52-129 | 37-144 | 58
+1 Acceptance criteria are based upon method performance data in Table 7 and from EPA Method 1625. Where necessary, limits for recovery have been broadened to assure applicability to concentrations below those used to develop Table 7.
+2 Test concentration = 100 µg/mL.
+3 Test concentration = 100 µg/L.
+Q = Calibration verification (sections 7.3.1 and 13.4).
+s = Standard deviation for four recovery measurements in the DOC test (section 8.2.4).
+X = Average recovery for four recovery measurements in the DOC test (section 8.2.4).
+P1, P2 = MS/MSD recovery (section 8.3.2, section 8.4.2).
+RPD = MS/MSD relative percent difference (RPD; section 8.3.3).
 D = Detected; result must be greater than zero.
-Note: These criteria are based directly upon the method performance data in Table 7. Where necessary, the limits for recovery have been broadened to assure applicability of the limts to concentrations below those used to develop Table 7.
-a The proper chemical name is 2,2′oxybis(1-chloropropane).
-Table 7—Method Accuracy and Precision as Functions of Concentration—Method 625
-Parameter | Accuracy, as recovery, X′ (µg/L) | Single analyst precision, sr' (µg/L) | Overall precision, S′ (µg/L)
-Acenaphthene | 0.96C = 0.19 | 0.15X−0.12 | 0.21X−0.67
-Acenaphthylene | 0.89C = 0.74 | 0.24X−1.06 | 0.26X−0.54
-Aldrin | 0.78C = 1.66 | 0.27X−1.28 | 0.43X = 1.13
-Anthracene | 0.80C = 0.68 | 0.21X−0.32 | 0.27X−0.64
-Benzo(a)anthracene | 0.88C−0.60 | 0.15X = 0.93 | 0.26X−0.28
-Benzo(b)fluoranthene | 0.93C−1.80 | 0.22X = 0.43 | 0.29X = 0.96
-Benzo(k)fluoranthene | 0.87C−1.56 | 0.19X = 1.03 | 0.35X = 0.40
-Benzo(a)pyrene | 0.90C−0.13 | 0.22X = 0.48 | 0.32X = 1.35
-Benzo(ghi)perylene | 0.98C−0.86 | 0.29X = 2.40 | 0.51X−0.44
-Benzyl butyl phthalate | 0.66C−1.68 | 0.18X = 0.94 | 0.53X = 0.92
-β-BHC | 0.87C−0.94 | 0.20X−0.58 | 0.30X−1.94
-δ-BHC | 0.29C−1.09 | 0.34X = 0.86 | 0.93X−0.17
-Bis(2-chloroethyl) ether | 0.86C−1.54 | 0.35X−0.99 | 0.35X = 0.10
-Bis(2-chloroethoxy)methane | 1.12C−5.04 | 0.16X = 1.34 | 0.26X = 2.01
-Bis(2-chloroisopropyl) ether a | 1.03C−2.31 | 0.24X = 0.28 | 0.25X = 1.04
-Bis(2-ethylhexyl) phthalate | 0.84C−1.18 | 0.26X = 0.73 | 0.36X = 0.67
-4-Bromophenyl phenyl ether | 0.91C−1.34 | 0.13X = 0.66 | 0.16X = 0.66
-2-Chloronaphthalene | 0.89C = 0.01 | 0.07X = 0.52 | 0.13X = 0.34
-4-Chlorophenyl phenyl ether | 0.91C = 0.53 | 0.20X−0.94 | 0.30X−0.46
-Chrysene | 0.93C−1.00 | 0.28X = 0.13 | 0.33X−0.09
-4,4′-DDD | 0.56C−0.40 | 0.29X−0.32 | 0.66X−0.96
-4,4′-DDE | 0.70C−0.54 | 0.26X−1.17 | 0.39X−1.04
-4,4′-DDT | 0.79C−3.28 | 0.42X = 0.19 | 0.65X−0.58
-Dibenzo(a,h)anthracene | 0.88C = 4.72 | 0.30X = 8.51 | 0.59X = 0.25
-Di-n-butyl phthalate | 0.59C = 0.71 | 0.13X = 1.16 | 0.39X = 0.60
-1,2-Dichlorobenzene | 0.80C = 0.28 | 0.20X = 0.47 | 0.24X = 0.39
-1,3-Dichlorobenzene | 0.86C−0.70 | 0.25X = 0.68 | 0.41X = 0.11
-1,4-Dichlorobenzene | 0.73C−1.47 | 0.24X = 0.23 | 0.29X = 0.36
-3,3′-Dichlorobenzidine | 1.23C−12.65 | 0.28X = 7.33 | 0.47X = 3.45
-Dieldrin | 0.82C−0.16 | 0.20X−0.16 | 0.26X−0.07
-Diethyl phthalate | 0.43C = 1.00 | 0.28X = 1.44 | 0.52X = 0.22
-Dimethyl phthalate | 0.20C = 1.03 | 0.54X = 0.19 | 1.05X−0.92
-2,4-Dinitrotoluene | 0.92C−4.81 | 0.12X = 1.06 | 0.21X = 1.50
-2,6-Dinitrotoluene | 1.06C−3.60 | 0.14X = 1.26 | 0.19X = 0.35
-Di-n-octyl phthalate | 0.76C−0.79 | 0.21X = 1.19 | 0.37X = 1.19
-Endosulfan sulfate | 0.39C = 0.41 | 0.12X = 2.47 | 0.63X−1.03
-Endrin aldehyde | 0.76C−3.86 | 0.18X = 3.91 | 0.73X−0.62
-Fluoranthene | 0.81C = 1.10 | 0.22X−0.73 | 0.28X−0.60
-Fluorene | 0.90C−0.00 | 0.12X = 0.26 | 0.13X = 0.61
-Heptachlor | 0.87C−2.97 | 0.24X−0.56 | 0.50X−0.23
-Heptachlor epoxide | 0.92C−1.87 | 0.33X−0.46 | 0.28X = 0.64
-Hexachlorobenzene | 0.74C = 0.66 | 0.18X−0.10 | 0.43X−0.52
-Hexachlorobutadiene | 0.71C−1.01 | 0.19X = 0.92 | 0.26X = 0.49
-Hexachloroethane | 0.73C−0.83 | 0.17X = 0.67 | 0.17X = 0.80
-Indeno(1,2,3-cd)pyrene | 0.78C−3.10 | 0.29X = 1.46 | 0.50X = 0.44
-Isophorone | 1.12C = 1.41 | 0.27X = 0.77 | 0.33X = 0.26
-Naphthalene | 0.76C = 1.58 | 0.21X−0.41 | 0.30X−0.68
-Nitrobenzene | 1.09C−3.05 | 0.19X = 0.92 | 0.27X = 0.21
-N-Nitrosodi-n-propylamine | 1.12C−6.22 | 0.27X = 0.68 | 0.44X = 0.47
-PCB-1260 | 0.81C−10.86 | 0.35X = 3.61 | 0.43X = 1.82
-Phenanthrene | 0.87C−0.06 | 0.12X = 0.57 | 0.15X = 0.25
-Pyrene | 0.84C−0.16 | 0.16X = 0.06 | 0.15X = 0.31
-1,2,4-Trichlorobenzene | 0.94C−0.79 | 0.15X = 0.85 | 0.21X = 0.39
-4-Chloro-3-methylphenol | 0.84C = 0.35 | 0.23X = 0.75 | 0.29X = 1.31
-2-Chlorophenol | 0.78C = 0.29 | 0.18X = 1.46 | 0.28X = 0.97
-2,4-Dichlorophenol | 0.87C = 0.13 | 0.15X = 1.25 | 0.21X = 1.28
-2,4-Dimethylphenol | 0.71C = 4.41 | 0.16X = 1.21 | 0.22X = 1.31
-2,4-Dinitrophenol | 0.81C−18.04 | 0.38X = 2.36 | 0.42X = 26.29
-2-Methyl-4,6-Dinitrophenol | 1.04C−28.04 | 0.05X = 42.29 | 0.26X = 23.10
-2-Nitrophenol | 1.07C−1.15 | 0.16X = 1.94 | 0.27X = 2.60
-4-Nitrophenol | 0.61C−1.22 | 0.38X = 2.57 | 0.44X = 3.24
-Pentachlorophenol | 0.93C = 1.99 | 0.24X = 3.03 | 0.30X = 4.33
-Phenol | 0.43C = 1.26 | 0.26X = 0.73 | 0.35X = 0.58
-2,4,6-Trichlorophenol | 0.91C−0.18 | 0.16X = 2.22 | 0.22X = 1.81
+Table 7—Precision and Recovery as Functions of Concentration—Method 625 1
+Analyte | Recovery, X′(µg/L) | Single analystprecision, sr′ (µg/L) | Overallprecision, S′ (µg/L)
+Acenaphthene | 0.96C + 0.19 | 0.15 X−0.12 | 0.21 X−0.67
+Acenaphthylene | 0.89C + 0.74 | 0.24 X−1.06 | 0.26 X−0.54
+Aldrin | 0.78C + 1.66 | 0.27 X−1.28 | 0.43 X + 1.13
+Anthracene | 0.80C + 0.68 | 0.21 X−0.32 | 0.27 X−0.64
+Benzo(a)anthracene | 0.88C−0.60 | 0.15 X + 0.93 | 0.26 X−0.28
+Benzo(b)fluoranthene | 0.93C−1.80 | 0.22 X + 0.43 | 0.29 X + 0.96
+Benzo(k)fluoranthene | 0.87C−1.56 | 0.19 X + 1.03 | 0.35 X + 0.40
+Benzo(a)pyrene | 0.90C−0.13 | 0.22 X + 0.48 | 0.32 X + 1.35
+Benzo(ghi)perylene | 0.98C−0.86 | 0.29 X + 2.40 | 0.51 X−0.44
+Benzyl butyl phthalate | 0.66C−1.68 | 0.18 X + 0.94 | 0.53 X + 0.92
+beta-BHC | 0.87C−0.94 | 0.20 X−0.58 | 0.30 X−1.94
+delta-BHC | 0.29C−1.09 | 0.34 X + 0.86 | 0.93 X−0.17
+bis(2-Chloroethyl) ether | 0.86C−1.54 | 0.35 X−0.99 | 0.35 X + 0.10
+bis(2-Chloroethoxy) methane | 1.12C−5.04 | 0.16 X + 1.34 | 0.26 X + 2.01
+bis(2-Chloroisopropyl) ether | 1.03C−2.31 | 0.24 X + 0.28 | 0.25 X + 1.04
+bis(2-Ethylhexyl) phthalate | 0.84C−1.18 | 0.26 X + 0.73 | 0.36 X + 0.67
+4-Bromophenyl phenyl ether | 0.91C−1.34 | 0.13 X + 0.66 | 0.16 X + 0.66
+2-Chloronaphthalene | 0.89C + 0.01 | 0.07 X + 0.52 | 0.13 X + 0.34
+4-Chlorophenyl phenyl ether | 0.91C + 0.53 | 0.20 X−0.94 | 0.30 X−0.46
+Chrysene | 0.93C−1.00 | 0.28 X + 0.13 | 0.33 X−0.09
+4,4′-DDD | 0.56C−0.40 | 0.29 X−0.32 | 0.66 X−0.96
+4,4′-DDE | 0.70C−0.54 | 0.26 X−1.17 | 0.39 X−1.04
+4,4′-DDT | 0.79C−3.28 | 0.42 X + 0.19 | 0.65 X−0.58
+Dibenz(a,h)anthracene | 0.88C + 4.72 | 0.30 X + 8.51 | 0.59 X + 0.25
+Di-n-butyl phthalate | 0.59C + 0.71 | 0.13 X + 1.16 | 0.39 X + 0.60
+3,3'-Dichlorobenzidine | 1.23C−12.65 | 0.28 X + 7.33 | 0.47 X + 3.45
+Dieldrin | 0.82C−0.16 | 0.20 X−0.16 | 0.26 X−0.07
+Diethyl phthalate | 0.43C + 1.00 | 0.28 X + 1.44 | 0.52 X + 0.22
+Dimethyl phthalate | 0.20C + 1.03 | 0.54 X + 0.19 | 1.05 X−0.92
+2,4-Dinitrotoluene | 0.92C−4.81 | 0.12 X + 1.06 | 0.21 X + 1.50
+2,6-Dinitrotoluene | 1.06C−3.60 | 0.14 X + 1.26 | 0.19 X + 0.35
+Di-n-octyl phthalate | 0.76C−0.79 | 0.21 X + 1.19 | 0.37 X + 1.19
+Endosulfan sulfate | 0.39C + 0.41 | 0.12 X + 2.47 | 0.63 X−1.03
+Endrin aldehyde | 0.76C−3.86 | 0.18 X + 3.91 | 0.73 X−0.62
+Fluoranthene | 0.81C + 1.10 | 0.22 X + 0.73 | 0.28 X−0.60
+Fluorene | 0.90C−0.00 | 0.12 X + 0.26 | 0.13 X + 0.61
+Heptachlor | 0.87C−2.97 | 0.24 X−0.56 | 0.50 X−0.23
+Heptachlor epoxide | 0.92C−1.87 | 0.33 X−0.46 | 0.28 X + 0.64
+Hexachlorobenzene | 0.74C + 0.66 | 0.18 X−0.10 | 0.43 X−0.52
+Hexachlorobutadiene | 0.71C−1.01 | 0.19 X + 0.92 | 0.26 X + 0.49
+Hexachloroethane | 0.73C−0.83 | 0.17 X + 0.67 | 0.17 X + 0.80
+Indeno(1,2,3-cd)pyrene | 0.78C−3.10 | 0.29 X + 1.46 | 0.50 X + 0.44
+Isophorone | 1.12C + 1.41 | 0.27 X + 0.77 | 0.33 X + 0.26
+Naphthalene | 0.76C + 1.58 | 0.21 X−0.41 | 0.30 X−0.68
+Nitrobenzene | 1.09C−3.05 | 0.19 X + 0.92 | 0.27 X + 0.21
+N-Nitrosodi-n-propylamine | 1.12C−6.22 | 0.27 X + 0.68 | 0.44 X + 0.47
+PCB-1260 | 0.81C−10.86 | 0.35 X + 3.61 | 0.43 X + 1.82
+Phenanthrene | 0.87C−0.06 | 0.12 X + 0.57 | 0.15 X + 0.25
+Pyrene | 0.84C−0.16 | 0.16 X + 0.06 | 0.15 X + 0.31
+1,2,4-Trichlorobenzene | 0.94C−0.79 | 0.15 X + 0.85 | 0.21 X + 0.39
+4-Chloro-3-methylphenol | 0.84C + 0.35 | 0.23 X + 0.75 | 0.29 X + 1.31
+2-Chlorophenol | 0.78C + 0.29 | 0.18 X + 1.46 | 0.28 X + 0.97
+2,4-Dichlorophenol | 0.87C + 0.13 | 0.15 X + 1.25 | 0.21 X + 1.28
+2,4-Dimethylphenol | 0.71C + 4.41 | 0.16 X + 1.21 | 0.22 X + 1.31
+2,4-Dinitrophenol | 0.81C−18.04 | 0.38 X + 2.36 | 0.42 X + 26.29
+2-Methyl-4,6-Dinitrophenol | 1.04C−28.04 | 0.05 X + 42.29 | 0.26 X + 23.10
+2-Nitrophenol | 1.07C−1.15 | 0.16 X + 1.94 | 0.27 X + 2.60
+4-Nitrophenol | 0.61C−1.22 | 0.38 X + 2.57 | 0.44 X + 3.24
+Pentachlorophenol | 0.93C + 1.99 | 0.24 X + 3.03 | 0.30 X + 4.33
+Phenol | 0.43C + 1.26 | 0.26 X + 0.73 | 0.35 X + 0.58
+2,4,6-Trichlorophenol | 0.91C−0.18 | 0.16 X + 2.22 | 0.22 X + 1.81
+1 Regressions based on data from Reference 2.
 X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L.
 sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L.
-S′= Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L.
-C= True value for the concentration, in µg/L.
-X= Average recovery found for measurements of samples containing a concentration of C, in µg/L.
-a The proper chemical name is 2,2′oxybis(1-chloropropane).
+S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L.
+C = True value for the concentration, in µg/L.
+X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
 Table 8—Suggested Internal and Surrogate Standards
-Base/neutral fraction | Acid fraction
-Aniline-d5 | 2-Fluorophenol.
-Anthracene-d10 | Pentafluorophenol.
-Benzo(a)anthracene-d12 | Phenol-d5
-4,4′-Dibromobiphenyl | 2-Perfluoromethyl phenol.
-4,4′-Dibromooctafluorobiphenyl
+Base/neutral fraction | Range for surrogate recovery (%) 1 | Calibration verification | Recovery from samples
+Acenaphthalene-d8 | 66-152 | 33-168
+Acenaphthene-d10 | 71-141 | 30-180
+Aniline-d5
+Anthracene-d10 | 58-171 | 23-142
+Benzo(a)anthracene-d12 | 28-357 | 22-329
+Benzo(a)pyrene-d12 | 32-194 | 32-194
+4-Chloroaniline-d4 | 1-145 | 1-145
+bis(2-Chloroethyl) ether-d8 | 52-194 | 25-222
+Chrysene-d12 | 23-290 | 23-290
 Decafluorobiphenyl
-2,2 1-Difluorobiphenyl
+4,4′-Dibromobiphenyl
+4,4′-Dibromooctafluorobiphenyl
+1,4-Dichlorobenzene-d4 | 65-153 | 11-245
+2,2′-Difluorobiphenyl
+Dimethyl phthalate-d6 | 47-211 | 1-500
+Fluoranthene-d10 | 47-215 | 30-187
+Fluorene-d10 | 61-164 | 38-172
 4-Fluoroaniline
 1-Fluoronaphthalene
 2-Fluoronaphthalene
-Naphthalene-d8
-Nitrobenzene-d5
+2-Methylnaphthalene-d10 | 50-150 | 50-150
+Naphthalene-d8 | 71-141 | 22-192
+Nitrobenzene-d5 | 46-219 | 15-314
 2,3,4,5,6-Pentafluorobiphenyl
-Phenanthrene-d10
-Pyridine-d5 |
-Table 9—DFTPP Key Masses and Abundance Criteria
-Mass | m/z Abundance criteria
-51 | 30-60 percent of mass 198.
-68 | Less than 2 percent of mass 69.
-70 | Less than 2 percent of mass 69.
-127 | 40-60 percent of mass 198.
-197 | Less than 1 percent of mass 198.
+Perylene-d12
+Phenanthrene-d10 | 67-149 | 34-168
+Pyrene-d10 | 48-210 | 28-196
+Pyridine-d5
+Acid fraction
+2-Chlorophenol-d4 | 55-180 | 33-180
+2,4-Dichlorophenol-d3 | 64-157 | 34-182
+4,6-Dinitro-2-methylphenol-d2 | 56-177 | 22-307
+2-Fluorophenol
+4-Methylphenol-d8 | 25-111 | 25-111
+2-Nitrophenol-d4 | 61-163 | 37-163
+4-Nitrophenol-d4 | 35-287 | 6-500
+Pentafluorophenol
+2-Perfluoromethylphenol
+Phenol-d5 | 48-208 | 8-424
+1 Recovery from samples is the wider of the criteria in the CLP SOW for organics or in Method 1625.
+Table 9A—DFTPP Key m/z's and Abundance Criteria for Quadrupole Instruments 1
+m/z | Abundance criteria
+51 | 30-60 percent of m/z 198.
+68 | Less than 2 percent of m/z 69.
+70 | Less than 2 percent of m/z 69.
+127 | 40-60 percent of base peak m/z 198.
+197 | Less than 1 percent of m/z 198.
 198 | Base peak, 100 percent relative abundance.
-199 | 5-9 percent of mass 198.
-275 | 10-30 percent of mass 198.
-365 | Greater than 1 percent of mass 198.
-441 | Present but less than mass 443.
-442 | Greater than 40 percent of mass 198.
-443 | 17-23 percent of mass 442.
-EC02JY92.042
-EC02JY92.043
-EC02JY92.044
-EC02JY92.045
-EC02JY92.046
-EC02JY92.047
-EC02JY92.048
-EC02JY92.049
-EC02JY92.050
-EC02JY92.051
-EC02JY92.052
-EC02JY92.053
-EC02JY92.054
-Attachment 1 to Method 625
-Introduction
-To support measurement of several semivolatile pollutants, EPA has developed this attachment to EPA Method 625. 1 The modifications listed in this attachment are approved only for monitoring wastestreams from the Centralized Waste Treatment Point Source Category (40 CFR part 437) and the Landfills Point Source Category (40 CFR part 445). EPA Method 625 (the Method) involves sample extraction with methylene chloride followed by analysis of the extract using either packed or capillary column gas chromatography/mass spectrometry (GC/MS). This attachment addresses the addition of the semivolatile pollutants listed in Tables 1 and 2, to all applicable standard, stock, and spiking solutions utilized for the determination of semivolatile organic compounds by EPA Method 625.
-1.0 EPA METHOD 625 MODIFICATION SUMMARY
-The additional semivolatile organic compounds listed in Tables 1 and 2 are added to all applicable calibration, spiking, and other solutions utilized in the determination of base/neutral and acid compounds by EPA Method 625. The instrument is to be calibrated with these compounds, using a capillary column, and all procedures and quality control tests stated in the Method must be performed.
-2.0 SECTION MODIFICATIONS
-Note: All section and figure numbers in this Attachment reference section and figure numbers in EPA Method 625 unless noted otherwise. Sections not listed here remain unchanged.
-Section 6.7 The stock standard solutions described in this section are modified such that the analytes in Tables 1 and 2 of this attachment are required in addition to those specified in the Method.
-Section 7.2 The calibration standards described in this section are modified to include the analytes in Tables 1 and 2 of this attachment.
-Section 8.2 The precision and accuracy requirements are modified to include the analytes listed in Tables 1 and 2 of this attachment. Additional performance criteria are supplied in Table 5 of this attachment.
-Section 8.3 The matrix spike is modified to include the analytes listed in Tables 1 and 2 of this attachment.
-Section 8.4 The QC check standard is modified to include the analytes listed in Tables 1 and 2 of this attachment. Additional performance criteria are supplied in Table 5 of this attachment.
-Section 16.0 Additional method performance information is supplied with this attachment.
-Table 1—Base/Neutral Extractables
-Parameter | CAS No.
-acetophenone 1 | 98-86-2
-alpha-terpineol 3 | 98-55-5
-aniline 2 | 62-53-3
-carbazole 1 | 86-74-8
-o-cresol 1 | 95-48-7
-n-decane 1 | 124-18-5
-2,3-dichloroaniline 1 | 608-27-5
-n-octadecane 1 | 593-45-3
-pyridine 2 | 110-86-1
-CAS = Chemical Abstracts Registry.
-1 Analysis of this pollutant is approved only for the Centralized Waste Treatment industry.
-2 Analysis of this pollutant is approved only for the Centralized Waste Treatment and Landfills industries.
-3 Analysis of this pollutant is approved only for the Landfills industry.
-Table 2—Acid Extractables
-Parameter | CAS No.
-p-cresol 1 | 106-44-5
-CAS = Chemical Abstracts Registry.
-1 Analysis of this pollutant is approved only for the Centralized Waste Treatment and Landfills industries.
-Table 3—Chromatographic Conditions, 1 Method Detection Limits (MDLs), and Characteristic m/z's for Base/Neutral Extractables
-Analyte | Retention time(min) 2 | MDL(µg/L) | Characteristic m/z's | Electron impact | Primary | Secondary | Secondary
-pyridine 3 | 4.93 | 4.6 | 79 | 52 | 51
-N-Nitro sodimethylamine | 4.95 | | 42 | 74 | 44
-aniline 3 | 10.82 | 3.3 | 93 | 66 | 65
-Bis(2-chloroethyl)ether | 10.94 | | 93 | 63 | 95
-n-decane 4 | 11.11 | 5.0 | 57
-1,3-Dichlorobenzene | 11.47 | | 146 | 148 | 113
-1,4-Dichlorobenzene | 11.62 | | 146 | 148 | 113
-1,2-Dichlorobenzene | 12.17 | | 146 | 148 | 113
-o-creso 1 | 12.48 | 4.7 | 108 | 107 | 79
-Bis(2-chloro- isopropyl)ether | 12.51 | | 45 | 77 | 79
-acetophenone 4 | 12.88 | 3.4 | 105 | 77 | 51
-N-Nitrosodi-n-propylamine | 12.97 | | 130 | 42 | 101
-Hexachloroethane | 13.08 | | 117 | 201 | 199
-Nitrobenzene | 13.40 | | 77 | 123 | 65
-Isophorone | 14.11 | | 82 | 95 | 138
-Bis (2-chloro ethoxy)methane | 14.82 | | 93 | 95 | 123
-1,2,4-Trichlorobenzene | 15.37 | | 180 | 182 | 145
-alpha-terpineol | 15.55 | 5.0 | 59
-Naphthalene | 15.56 | | 128 | 129 | 127
-Hexachlorobutadiene | 16.12 | | 225 | 223 | 227
-Hexachlorocyclopentadiene | 18.47 | | 237 | 235 | 272
-2,3-dichloroaniline 4 | 18.82 | 2.5 | 161 | 163 | 90
-2-Chloronaphthalene | 19.35 | | 162 | 164 | 127
-Dimethyl phthalate | 20.48 | | 163 | 194 | 164
-Acenaphthylene | 20.69 | | 152 | 151 | 153
-2,6-Dinitrotoluene | 20.73 | | 165 | 89 | 121
-Acenaphthene | 21.30 | | 154 | 153 | 152
-2,4-Dinitrotoluene | 22.00 | | 165 | 63 | 182
-Diethylphthalate | 22.74 | | 149 | 177 | 150
-4-Chlorophenyl phenyl ether | 22.90 | | 204 | 206 | 141
-Fluorene | 22.92 | | 166 | 165 | 167
-N-Nitro sodiphenylamine | 23.35 | | 169 | 168 | 167
-4-Bromophenyl phenyl ether | 24.44 | | 248 | 250 | 141
-Hexachlorobenzene | 24.93 | | 284 | 142 | 249
-n-octadecane 4 | 25.39 | 2.0 | 57
-Phenanthrene | 25.98 | | 178 | 179 | 176
-Anthracene | 26.12 | | 178 | 179 | 176
-Carbazole 4 | 26.66 | 4.0 | 167
-Dibutyl phthalate | 27.84 | | 149 | 150 | 104
-Fluoranthene | 29.82 | | 202 | 101 | 100
-Benzidine | 30.26 | | 184 | 92 | 185
-Pyrene | 30.56 | | 202 | 101 | 100
-Butyl benzyl phthalate | 32.63 | | 149 | 91 | 206
-3,3′-Dichlorobenzidine | 34.28 | | 252 | 254 | 126
-Benzo(a)anthracene | 34.33 | | 228 | 229 | 226
-Bis(2-ethyl hexyl)phthalate | 34.36 | | 149 | 167 | 279
-Chrysene | 34.44 | | 228 | 226 | 229
-Di-n-octyl-phthalate | 36.17 | | 149
-Benzo(b)fluoranthene | 37.90 | | 252 | 253 | 125
-Benzo(k)fluoranthene | 37.97 | | 252 | 253 | 125
-Benzo(a)pyrene | 39.17 | | 252 | 253 | 125
-Dibenzo(a,h) anthracene | 44.91 | | 278 | 139 | 279
-Indeno(1,2,3-c,d)pyrene | 45.01 | | 276 | 138 | 277
-Benzo(ghi)perylene | 46.56 | | 276 | 138 | 277
-1 The data presented in this table were obtained under the following conditions:
-Column—30 ±5 meters × 0.25 ±.02 mm i.d., 94% methyl, 5% phenyl, 1% vinyl, bonded phase fused silica capillary column (DB-5).
-Temperature program—Five minutes at 30 °C; 30-280 °C at 8 °C per minute; isothermal at 280 °C until benzo(ghi)perylene elutes.
-Gas velocity—30 ±5 cm/sec at 30 °C.
-2 Retention times are from Method 1625, Revision C, using a capillary column, and are intended to be consistent for all analytes in Tables 4 and 5 of this attachment.
-3 Analysis of this pollutant is approved only for the Centralized Waste Treatment and Landfills industries.
-4 Analysis of this pollutant is approved only for the Centralized Waste Treatment industry.
-Table 4—Chromatographic Conditions, 1 Method Detection Limits (MDLs), and Characteristic m/z's for Acid Extractables
-Analyte | Retention time 2 (min) | MDL(µg/L) | Characteristic m/z's | Electron impact | Primary | Secondary | Secondary
-Phenol | 10.76 | | 94 | 65 | 66
-2-Chlorophenol | 11.08 | | 128 | 64 | 130
-p-cresol 3 | 12.92 | 7.8 | 108 | 107 | 77
-2-Nitrophenol | 14.38 | | 139 | 65 | 109
-2,4-Dimethylphenol | 14.54 | | 122 | 107 | 121
-2,4-Dichlorophenol | 15.12 | | 162 | 164 | 98
-4-Chloro-3-methylphenol | 16.83 | | 142 | 107 | 144
-2,4,6-Trichlorophenol | 18.80 | | 196 | 198 | 200
-2,4-Dinitrophenol | 21.51 | | 184 | 63 | 154
-4-Nitrophenol | 21.77 | | 65 | 139 | 109
-2-Methyl-4,6-dinitrophenol | 22.83 | | 198 | 182 | 77
-Pentachlorophenol | 25.52 | | 266 | 264 | 268
-1 The data presented in this table were obtained under the following conditions:
-Column—30 ±5 meters × 0.25 ±.02 mm i.d., 94% methyl, 5% phenyl, 1% vinyl silicone bonded phase fused silica capillary column (DB-5).
-Temperature program—Five minutes at 30 °C; 30-280 °C at 8 °C per minute; isothermal at 280 °C until benzo(ghi)perylene elutes.
-Gas velocity—30 ±5 cm/sec at 30 °C
-2 Retention times are from EPA Method 1625, Revision C, using a capillary column, and are intended to be consistent for all analytes in Tables 3 and 4 of this attachment.
-3 Analysis of this pollutant is approved only for the Centralized Waste Treatment and Landfills industries.
-Table 5—QC Acceptance Criteria
-Analyte | Test conclusion(µg/L) | Limits for s(µg/L) | Range for X(µg/L) | Range for P, Ps(%)
-acetophenone 1 | 100 | 51 | 23-254 | 61-144
-alpha-terpineol | 100 | 47 | 46-163 | 58-156
-aniline 2 | 100 | 71 | 15-278 | 46-134
-carbazole 1 | 100 | 17 | 79-111 | 73-131
-o-cresol 1 | 100 | 23 | 30-146 | 55-126
-p-cresol 2 | 100 | 22 | 11-617 | 76-107
-n-decane 1 | 100 | 70 | D-651 | D-ns
-2,3-dichloroaniline 1 | 100 | 13 | 40-160 | 68-134
-n-octadecane 1 | 100 | 10 | 52-147 | 65-123
-pyridine 2 | 100 | ns | 7-392 | 33-158
-s = Standard deviation for four recovery measurements, in µg/L (Section 8.2)
-X = Average recovery for four recovery measurements in µg/L (Section 8.2)
-P,Ps = Percent recovery measured (Section 8.3, Section 8.4)
-D = Detected; result must be greater than zero.
-ns = no specification; limit is outside the range that can be measured reliably.
-1 Analysis of this pollutant is approved only for the Centralized Waste Treatment industry.
-2 Analysis of this pollutant is approved only for the Centralized Waste Treatment and Landfills industries.
+199 | 5-9 percent of m/z 198.
+275 | 10-30 percent of m/z 198.
+365 | Greater than 1 percent of m/z 198.
+441 | Present but less than m/z 443.
+442 | 40-100 percent of m/z 198.
+443 | 17-23 percent of m/z 442.
+1 Criteria in these tables are for quadrupole and time-of-flight instruments. Alternative tuning criteria from other published EPA reference methods may be used provided method performance is not adversely affected. Alternative tuning criteria specified by an instrument manufacturer may also be used for another type of mass spectrometer, provided method performance is not adversely affected.
+Table 9B—DFTPP Key m/z's and Abundance Criteria for Time-of-flight Instruments 1
+m/z | Abundance criteria
+51 | 10-85 percent of the base peak.
+68 | Less than 2 percent of m/z 69.
+70 | Less than 2 percent of m/z 69.
+127 | 10-80 percent of the base peak.
+197 | Less than 2 percent of Mass 198.
+198 | Base peak, or greater than 50% of m/z 442.
+199 | 5-9 percent of m/z 198.
+275 | 10-60 percent of the base peak.
+365 | Greater than 0.5 percent of m/z 198.
+441 | Less than 150 percent of m/z 443.
+442 | Base peak or greater than 30 percent of m/z 198.
+443 | 15-24 percent of m/z 442.
+1 Criteria in these tables are for quadrupole and time-of-flight instruments. Alternative tuning criteria from other published EPA reference methods may be used provided method performance is not adversely affected. Alternative tuning criteria specified by an instrument manufacturer may also be used for another type of mass spectrometer, or for an alternative carrier gas, provided method performance is not adversely affected.
+21. Figures
+ER28AU17.018
+ER28AU17.019
+22. Glossary
+These definitions and purposes are specific to this method but have been conformed to common usage to the extent possible.
+22.1 Units of weight and measure and their abbreviations.
+22.1.1 Symbols.
+°C degrees Celsius
+µg microgram
+µL microliter
+< less than
+> greater than
+≤ less than or equal to
+% percent
+22.1.2 Abbreviations (in alphabetical order).
+cm centimeter
+g gram
+h hour
+ID inside diameter
+in. inch
+L liter
+m mass or meter
+mg milligram
+min minute
+mL milliliter
+mm millimeter
+ms millisecond
+m/z mass-to-charge ratio
+N normal; gram molecular weight of solute divided by hydrogen equivalent of solute, per liter of solution
+ng nanogram
+pg picogram
+ppb part-per-billion
+ppm part-per-million
+ppt part-per-trillion
+psig pounds-per-square inch gauge
+22.2 Definitions and acronyms (in alphabetical order).
+Analyte—A compound or mixture of compounds (e.g., PCBs) tested for by this method. The analytes are listed in Tables 1-3.
+Batch—See Extraction.
+Blank—An aliquot of reagent water that is treated exactly as a sample including exposure to all glassware, equipment, solvents, reagents, internal standards, and surrogates that are used with samples. The blank is used to determine if analytes or interferences are present in the laboratory environment, the reagents, or the apparatus.
+Calibration—The process of determining the relationship between the output or response of a measuring instrument and the value of an input standard. Historically, EPA has referred to a multi-point calibration as the "initial calibration," to differentiate it from a single-point calibration verification.
+Calibration standard—A solution prepared from stock solutions and/or a secondary standards and containing the analytes of interest, surrogates, and internal standards. The calibration standard is used to calibrate the response of the GC/MS instrument against analyte concentration.
+Calibration verification standard—The mid-point calibration standard used to verify calibration. See sections 7.3 and 13.4.
+Descriptor—In SIM, the beginning and ending retention times for the RT window, the m/z's sampled in the RT window, and the dwell time at each m/z.
+Extracted ion current profile (EICP)—The line described by the signal at a given m/z.
+Extraction Batch—A set of up to 20 field samples (not including QC samples) started through the extraction process on a given 24-hour shift (section 3.1). Each extraction batch must be accompanied by a blank (section 8.5), a laboratory control sample (LCS, section 8.4), and a matrix spike and duplicate (MS/MSD; Section 8.3), resulting in a minimum of five analyses (1 sample, 1 blank, 1 LCS, 1 MS, and 1 MSD) and a maximum of 24 analyses (20 field samples, 1 blank, 1 LCS, 1 MS, and 1 MSD) for the batch. If greater than 20 samples are to be extracted in a 24-hour shift, the samples must be separated into extraction batches of 20 or fewer samples.
+Field Duplicates—Two samples collected at the same time and placed under identical conditions, and treated identically throughout field and laboratory procedures. Results of analyses of the field duplicates provide an estimate of the precision associated with sample collection, preservation, and storage, as well as with laboratory procedures.
+Field blank—An aliquot of reagent water or other reference matrix that is placed in a sample container in the field, and treated as a sample in all respects, including exposure to sampling site conditions, storage, preservation, and all analytical procedures. The purpose of the field blank is to determine if the field or sample transporting procedures and environments have contaminated the sample.
+GC—Gas chromatograph or gas chromatography.
+Internal standard—A compound added to an extract or standard solution in a known amount and used as a reference for quantitation of the analytes of interest and surrogates. In this method the internal standards are stable isotopically labeled analogs of selected method analytes (Table 8). Also see Internal standard quantitation.
+Internal standard quantitation—A means of determining the concentration of an analyte of interest (Tables 1-3) by reference to a compound not expected to be found in a sample.
+DOC—Initial demonstration of capability (section 8.2); four aliquots of reagent water spiked with the analytes of interest and analyzed to establish the ability of the laboratory to generate acceptable precision and recovery. A DOC is performed prior to the first time this method is used and any time the method or instrumentation is modified.
+Laboratory Control Sample (LCS; laboratory fortified blank; section 8.4)—An aliquot of reagent water spiked with known quantities of the analytes of interest and surrogates. The LCS is analyzed exactly like a sample. Its purpose is to assure that the results produced by the laboratory remain within the limits specified in this method for precision and recovery.
+Laboratory fortified sample matrix—See Matrix spike.
+Laboratory reagent blank—A blank run on laboratory reagents; e.g., methylene chloride (section 11.1.5).
+Matrix spike (MS) and matrix spike duplicate (MSD) (laboratory fortified sample matrix and duplicate)—Two aliquots of an environmental sample to which known quantities of the analytes of interest and surrogates are added in the laboratory. The MS/MSD are prepared and analyzed exactly like a field sample. Their purpose is to quantify any additional bias and imprecision caused by the sample matrix. The background concentrations of the analytes in the sample matrix must be determined in a separate aliquot and the measured values in the MS/MSD corrected for background concentrations.
+May—This action, activity, or procedural step is neither required nor prohibited.
+May not—This action, activity, or procedural step is prohibited.
+Method blank—See blank.
+Method detection limit (MDL)—A detection limit determined by the procedure at 40 CFR part 136, appendix B. The MDLs determined by EPA in the original version of the method are listed in Tables 1, 2 and 3. As noted in section 1.5, use the MDLs in Tables 1, 2, and 3 in conjunction with current MDL data from the laboratory actually analyzing samples to assess the sensitivity of this procedure relative to project objectives and regulatory requirements (where applicable).
+Minimum level (ML)—The term "minimum level" refers to either the sample concentration equivalent to the lowest calibration point in a method or a multiple of the method detection limit (MDL), whichever is higher. Minimum levels may be obtained in several ways: They may be published in a method; they may be based on the lowest acceptable calibration point used by a laboratory; or they may be calculated by multiplying the MDL in a method, or the MDL determined by a laboratory, by a factor of 3. For the purposes of NPDES compliance monitoring, EPA considers the following terms to be synonymous: "quantitation limit," "reporting limit," and "minimum level."
+MS—Mass spectrometer or mass spectrometry, or matrix spike (a QC sample type).
+MSD—Matrix spike duplicate (a QC sample type).
+Must—This action, activity, or procedural step is required.
+m/z—The ratio of the mass of an ion (m) detected in the mass spectrometer to the charge (z) of that ion.
+Preparation blank—See blank.
+Quality control check sample (QCS)—See Laboratory Control Sample.
+Reagent water—Water demonstrated to be free from the analytes of interest and potentially interfering substances at the MDLs for the analytes in this method.
+Regulatory compliance limit (or regulatory concentration limit)—A limit on the concentration or amount of a pollutant or contaminant specified in a nationwide standard, in a permit, or otherwise established by a regulatory/control authority.
+Relative retention time (RRT)—The ratio of the retention time of an analyte to the retention time of its associated internal standard. RRT compensates for small changes in the GC temperature program that can affect the absolute retention times of the analyte and internal standard. RRT is a unitless quantity.
+Relative standard deviation (RSD)—The standard deviation times 100 divided by the mean. Also termed "coefficient of variation."
+RF—Response factor. See section 7.2.2.
+RSD—See relative standard deviation.
+Safety Data Sheet (SDS)—Written information on a chemical's toxicity, health hazards, physical properties, fire, and reactivity, including storage, spill, and handling precautions that meet the requirements of OSHA, 29 CFR 1910.1200(g) and appendix D to § 1910.1200. United Nations Globally Harmonized System of Classification and Labelling of Chemicals (GHS), third revised edition, United Nations, 2009.
+Selected Ion Monitoring (SIM)—An MS technique in which a few m/z's are monitored. When used with gas chromatography, the m/z's monitored are usually changed periodically throughout the chromatographic run, to correlate with the characteristic m/z's of the analytes, surrogates, and internal standards as they elute from the chromatographic column. The technique is often used to increase sensitivity and minimize interferences.
+Signal-to-noise ratio (S/N)—The height of the signal as measured from the mean (average) of the noise to the peak maximum divided by the width of the noise.
+Should—This action, activity, or procedural step is suggested but not required.
+SPE—Solid-phase extraction; an extraction technique in which an analyte is extracted from an aqueous solution by passage over or through a material capable of reversibly adsorbing the analyte. Also termed liquid-solid extraction.
+Stock solution—A solution containing an analyte that is prepared using a reference material traceable to EPA, the National Institute of Science and Technology (NIST), or a source that will attest to the purity, authenticity, and concentration of the standard.
+Surrogate—A compound unlikely to be found in a sample, and which is spiked into sample in a known amount before extraction or other processing, and is quantitated with the same procedures used to quantify other sample components. The purpose of the surrogate is to monitor method performance with each sample.
 Method 1613, Revision B
 Tetra- Through Octa-Chlorinated Dioxins and Furans by Isotope Dilution HRGC/HRMS
 1.0 Scope and Application
