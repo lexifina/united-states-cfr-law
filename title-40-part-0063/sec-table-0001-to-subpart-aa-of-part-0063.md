@@ -7,5 +7,5 @@ Phosphate Rock Dryer | | 0.2150 lb/ton of phosphate rock feed
 Phosphate Rock Calciner | 9.0E-04 lb/ton of rock feed d | 0.181 g/dscm | 0.14 mg/dscm corrected to 3 percent oxygen d
 a The existing source compliance date is June 10, 2002, except as noted.
 b During periods of startup and shutdown, for emission limits stated in terms of pounds of pollutant per ton of feed, you are subject to the work practice standards specified in § 63.602(f).
-c Beginning on August 19, 2016, you must include oxidation reactors in superphosphoric acid process lines when determining compliance with the total fluorides limit.
+c Beginning on August 19, 2018, you must include oxidation reactors in superphosphoric acid process lines when determining compliance with the total fluorides limit.
 d Compliance date is August 19, 2015.
