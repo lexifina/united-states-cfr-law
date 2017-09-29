@@ -1,0 +1,13 @@
+# Table 39 to Part 679— Amendment 80 Vessels That May Be Used to Directed Fish for Flatfish in the GOA
+Column A: Name of Amendment 80 vessel | Column B: USCG Documentation No.
+ALLIANCE | 622750
+AMERICAN NO I | 610654
+DEFENDER | 665983
+GOLDEN FLEECE | 609951
+LEGACY | 664882
+OCEAN ALASKA | 623210
+OCEAN PEACE | 677399
+SEAFREEZE ALASKA | 517242
+U.S. INTREPID | 604439
+UNIMAK | 637693
+VAERDAL | 611225
