@@ -1,0 +1,2 @@
+# § Sec. 4 Posting of bond.
+The General Agent shall retain an executed copy of each such bond in its principal office for examination by the National Shipping Authority at any time.
