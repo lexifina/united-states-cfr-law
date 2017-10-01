@@ -1,0 +1,33 @@
+# Appendix C to Part 40—DOT Drug Testing Semi-Annual Laboratory Report to DOT
+Mail, fax, or e-mail to: U.S. Department of Transportation, Office of Drug and Alcohol Policy and Compliance, W62-300, 1200 New Jersey Avenue, SE., Washington, DC 20590. Fax: (202) 366-3897. E-mail: ODAPCWebMail@dot.gov.
+The following items are required on each report:
+Reporting Period: (inclusive dates)
+Laboratory Identification: (name and address)
+1. DOT Specimen Results Reported (total number)
+2. Negative Results Reported (total number)
+Negative (number)
+Negative-Dilute (number)
+3. Rejected for Testing Results Reported (total number)
+By Reason
+(a) Fatal flaw (number)
+(b) Uncorrected Flaw (number)
+4. Positive Results Reported (total number)
+By Drug
+(a) Marijuana Metabolite (number)
+(b) Cocaine Metabolite (number)
+(c) Opiates (number)
+(1) Codeine (number)
+(2) Morphine (number)
+(3) 6-AM (number)
+(d) Phencyclidine (number)
+(e) Amphetamines (number)
+(1) Amphetamine (number)
+(2) Methamphetamine (number)
+(3) MDMA (number)
+(4) MDA (number)
+(5) MDEA (number)
+5. Adulterated Results Reported (total number)
+By Reason (number)
+6. Substituted Results Reported (total number)
+7. Invalid Results Reported (total number)
+By Reason (number)
