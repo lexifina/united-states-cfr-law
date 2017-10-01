@@ -1,0 +1,4 @@
+# Appendix A to Part 5
+Pursuant to § 5.1(b), the following officials of the Office of the Secretary of Transportation are authorized to conduct rulemaking proceedings under this part, as specified in this appendix:
+(1) The General Counsel is authorized to conduct all rule-making proceedings, except the issuance of final rules, under the Act of March 19, 1918, ch. 24, as amended (15 U.S.C. 261-264); the Uniform Time Act of 1966 (80 Stat. 107, 15 U.S.C. 260-267); and section 6(e)(5) of the Department of Transportation Act (80 Stat. 939, 49 U.S.C. 1655 (e)(5)).
+(2) The General Counsel is authorized to determine the practicability of applying the standard time of any standard time zone to the movements of any common carrier engaged in interstate or foreign commerce, and, under section 2 of the Act of March 19, 1918, ch. 24, as amended (15 U.S.C. 262), to issue operating exceptions in any case in which he determines that it is impractical to apply the standard time.
