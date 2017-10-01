@@ -1,0 +1,28 @@
+# Appendix A to Part 220—Recommended Phonetic Alphabet
+A—ALFA
+B—BRAVO
+C—CHARLIE
+D—DELTA
+E—ECHO
+F—FOXTROT
+G—GOLF
+H—HOTEL
+I—INDIA
+J—JULIET
+K—KILO
+L—LIMA
+M—MIKE
+N—NOVEMBER
+O—OSCAR
+P—PAPA
+Q—QUEBEC
+R—ROMEO
+S—SIERRA
+T—TANGO
+U—UNIFORM
+V—VICTOR
+W—WHISKEY
+X—XRAY
+Y—YANKEE
+Z—ZULU
+The letter "ZULU" should be written as "Z" to distinguish it from the numeral "2".
