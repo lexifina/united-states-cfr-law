@@ -614,8 +614,8 @@ Section 32. Counterparty Credit Risk of Repo-Style Transactions, Eligible Margin
 (1) A savings association must use the haircuts for market price volatility (Hs) in Table 3, as adjusted in certain circumstances as provided in paragraph (b)(2)(ii)(A)(3) and (4) of this section;
 Table 3—Standard Supervisory Market Price Volatility Haircuts 1
 Applicable external rating grade category for debt securities | Residual maturity for debt securities | Issuers exempt from the 3 basis point floor | Other issuers
-Two highest investment-grade rating categories for long-term ratings/highest investment-grade rating category for short-term ratings | ≤ 1 year>1 year, ≤ 5 years > 5 years | 0.0050.02 0.04 | 0.010.04 0.08
-Two lowest investment-grade rating categories for both short- and long-term ratings | ≤ 1 year> 1 year, ≤ 5 years > 5 years | 0.010.03 0.06 | 0.020.06 0.12
+Two highest investment-grade rating categories for long-term ratings/highest investment-grade rating category for short-term ratings | ≤1 year>1 year, ≤5 years >5 years | 0.0050.02 0.04 | 0.010.04 0.08
+Two lowest investment-grade rating categories for both short- and long-term ratings | ≤1 year>1 year, ≤5 years >5 years | 0.010.03 0.06 | 0.020.06 0.12
 One rating category below investment grade | All | 0.15 | 0.25
 Main index equities (including convertible bonds) and gold | 0.15
 Other publicly traded equities (including convertible bonds), conforming residential mortgages, and nonfinancial collateral | 0.25
@@ -668,7 +668,7 @@ Over five years | 0.015 | 0.075 | 0.05 | 0.10 | 0.10 | 0.08 | 0.15
 (i) Net current credit exposure. The net current credit exposure is the greater of:
 (A) The net sum of all positive and negative mark-to-market values of the individual OTC derivative contracts subject to the qualifying master netting agreement; or
 (B) zero.
-(ii) Adjusted sum of the PFE. The adjusted sum of the PFE, Anet, is calculated as Anet = (0.4×Agross)+(0.6×NGR×Agross), where:
+(ii) Adjusted sum of the PFE. The adjusted sum of the PFE, Anet, is calculated as Anet = (0.4 × Agross) + (0.6 × NGR × Agross), where:
 (A) Agross = the gross PFE (that is, the sum of the PFE amounts (as determined under paragraph (c)(5)(ii) of this section) for each individual OTC derivative contract subject to the qualifying master netting agreement); and
 (B) NGR = the net to gross ratio (that is, the ratio of the net current credit exposure to the gross current credit exposure). In calculating the NGR, the gross current credit exposure equals the sum of the positive current credit exposures (as determined under paragraph (c)(5)(i) of this section) of all individual OTC derivative contracts subject to the qualifying master netting agreement.
 (7) Collateralized OTC derivative contracts. A savings association may recognize the credit risk mitigation benefits of financial collateral that secures an OTC derivative contract or single-product netting set of OTC derivatives by factoring the collateral into its LGD estimates for the contract or netting set. Alternatively, a savings association may recognize the credit risk mitigation benefits of financial collateral that secures such a contract or netting set that is marked to market on a daily basis and subject to a daily margin maintenance requirement by estimating an unsecured LGD for the contract or netting set and adjusting the EAD calculated under paragraph (c)(5) or (c)(6) of this section using the collateral haircut approach in paragraph (b)(2) of this section. The savings association must substitute the EAD calculated under paragraph (c)(5) or (c)(6) of this section for ΣE in the equation in paragraph (b)(2)(i) of this section and must use a ten-business-day minimum holding period (TM = 10).
@@ -677,7 +677,7 @@ Over five years | 0.015 | 0.075 | 0.05 | 0.10 | 0.10 | 0.08 | 0.15
 (ii) The savings association obtains the prior written approval of the OTS. A savings association that uses the internal models methodology for a transaction type must receive approval from the OTS to cease using the methodology for that transaction type or to make a material change to its internal model.
 (2) Under the internal models methodology, a savings association uses an internal model to estimate the expected exposure (EE) for a netting set and then calculates EAD based on that EE.
 (i) The savings association must use its internal model's probability distribution for changes in the market value of a netting set that are attributable to changes in market variables to determine EE.
-(ii) Under the internal models methodology, EAD = α x effective EPE, or, subject to OTS approval as provided in paragraph (d)(7), a more conservative measure of EAD.
+(ii) Under the internal models methodology, EAD = α × effective EPE, or, subject to OTS approval as provided in paragraph (d)(7), a more conservative measure of EAD.
 ER07DE07.026
 (that is, effective EPE is the time-weighted average of effective EE where the weights are the proportion that an individual effective EE represents in a one-year time interval) where:
 (1) Effective EEt k = max (Effective EEt k−1, EEt k) (that is, for a specific datet k, effective EE is the greater of EE at that date or the effective EE at the previous date); and
@@ -747,7 +747,7 @@ Section 33. Guarantees and Credit Derivatives: PD Substitution and LGD Adjustmen
 (2) A maturity mismatch occurs when the residual maturity of a credit risk mitigant is less than that of the hedged exposure(s).
 (3) The residual maturity of a hedged exposure is the longest possible remaining time before the obligor is scheduled to fulfill its obligation on the exposure. If a credit risk mitigant has embedded options that may reduce its term, the savings association (protection purchaser) must use the shortest possible residual maturity for the credit risk mitigant. If a call is at the discretion of the protection provider, the residual maturity of the credit risk mitigant is at the first call date. If the call is at the discretion of the savings association (protection purchaser), but the terms of the arrangement at origination of the credit risk mitigant contain a positive incentive for the savings association to call the transaction before contractual maturity, the remaining time to the first call date is the residual maturity of the credit risk mitigant. For example, where there is a step-up in cost in conjunction with a call feature or where the effective cost of protection increases over time even if credit quality remains the same or improves, the residual maturity of the credit risk mitigant will be the remaining time to the first call.
 (4) A credit risk mitigant with a maturity mismatch may be recognized only if its original maturity is greater than or equal to one year and its residual maturity is greater than three months.
-(5) When a maturity mismatch exists, the savings association must apply the following adjustment to the effective notional amount of the credit risk mitigant: Pm = E × (t - 0.25)/(T - 0.25), where:
+(5) When a maturity mismatch exists, the savings association must apply the following adjustment to the effective notional amount of the credit risk mitigant: Pm = E × (t − 0.25)/(T − 0.25), where:
 (i) Pm = effective notional amount of the credit risk mitigant, adjusted for maturity mismatch;
 (ii) E = effective notional amount of the credit risk mitigant;
 (iii) t = the lesser of T or the residual maturity of the credit risk mitigant, expressed in years; and
@@ -755,7 +755,7 @@ Section 33. Guarantees and Credit Derivatives: PD Substitution and LGD Adjustmen
 (e) Credit derivatives without restructuring as a credit event. If a savings association recognizes an eligible credit derivative that does not include as a credit event a restructuring of the hedged exposure involving forgiveness or postponement of principal, interest, or fees that results in a credit loss event (that is, a charge-off, specific provision, or other similar debit to the profit and loss account), the savings association must apply the following adjustment to the effective notional amount of the credit derivative: Pr = Pm × 0.60, where:
 (1) Pr = effective notional amount of the credit risk mitigant, adjusted for lack of restructuring event (and maturity mismatch, if applicable); and
 (2) Pm = effective notional amount of the credit risk mitigant adjusted for maturity mismatch (if applicable).
-(f) Currency mismatch. (1) If a savings association recognizes an eligible guarantee or eligible credit derivative that is denominated in a currency different from that in which the hedged exposure is denominated, the savings association must apply the following formula to the effective notional amount of the guarantee or credit derivative: Pc = Pr × (1 - HFX), where:
+(f) Currency mismatch. (1) If a savings association recognizes an eligible guarantee or eligible credit derivative that is denominated in a currency different from that in which the hedged exposure is denominated, the savings association must apply the following formula to the effective notional amount of the guarantee or credit derivative: Pc = Pr × (1 − HFX), where:
 (i) Pc = effective notional amount of the credit risk mitigant, adjusted for currency mismatch (and maturity mismatch and lack of restructuring event, if applicable);
 (ii) Pr = effective notional amount of the credit risk mitigant (adjusted for maturity mismatch and lack of restructuring event, if applicable); and
 (iii) HFX = haircut appropriate for the currency mismatch between the credit risk mitigant and the hedged exposure.
@@ -902,18 +902,18 @@ Table 6—Long-Term Credit Rating Risk Weights Under RBA and IAA
 Applicable external or inferred rating(Illustrative rating example) | Column 1 | Risk weights for senior securitization exposures backed by granular pools | Column 2 | Risk weights for non-senior securitization exposures backed by granular pools | Column 3 | Risk weights for securitization exposures backed by non-granular pools | Applicable external or inferred rating(Illustrative rating example)
 Highest investment grade (for example, AAA) | 7% | 12% | 20%
 Second highest investment grade (for example, AA) | 8% | 15% | 25%
-Third-highest investment grade—positive designation (for example, A+) | 10% | 18% | 35%
+Third-highest investment grade—positive designation (for example, A +) | 10% | 18% | 35%
 Third-highest investment grade (for example, A) | 12% | 20%
 Third-highest investment grade—negative designation (for example, A−) | 20% | 35%
-Lowest investment grade—positive designation (for example, BBB+) | 35% | 50%
+Lowest investment grade—positive designation (for example, BBB +) | 35% | 50%
 Lowest investment grade (for example, BBB) | 60% | 75%
 Lowest investment grade—negative designation (for example, BBB−) | 100%
-One category below investment grade—positive designation (for example, BB+) | 250%
+One category below investment grade—positive designation (for example, BB +) | 250%
 One category below investment grade (for example, BB) | 425%
 One category below investment grade—negative designation (for example, BB−) | 650%
 More than one category below investment grade | Deduction from tier 1 and tier 2 capital.
 Table 7—Short-Term Credit Rating Risk Weights Under RBA and IAA
-Applicable external or inferred rating (Illustrative rating example) | Column 1 | Risk weights for senior securitization exposures backed by granular pools | Column 2 | Risk weights for non-senior securitization exposures backed by granular pools | Column 3 | Risk weights for securitization exposures backed by non-granular pools | Applicable external or inferred rating(Illustrative rating example)
+Applicable external or inferred rating(Illustrative rating example) | Column 1 | Risk weights for senior securitization exposures backed by granular pools | Column 2 | Risk weights for non-senior securitization exposures backed by granular pools | Column 3 | Risk weights for securitization exposures backed by non-granular pools | Applicable external or inferred rating(Illustrative rating example)
 Highest investment grade (for example, A1) | 7% | 12% | 20%
 Second highest investment grade (for example, A2) | 12% | 20% | 35%
 Third highest investment grade (for example, A3) | 60% | 75% | 75%
@@ -938,7 +938,7 @@ Section 44. Internal Assessment Approach (IAA)
 (iv) The ABCP program's underwriting policy for the exposures underlying the securitization exposure establishes minimum asset eligibility criteria that include the prohibition of the purchase of assets that are significantly past due or of assets that are defaulted (that is, assets that have been charged off or written down by the seller prior to being placed into the ABCP program or assets that would be charged off or written down under the program's governing contracts), as well as limitations on concentration to individual obligors or geographic areas and the tenor of the assets to be purchased.
 (v) The aggregate estimate of loss on the exposures underlying the securitization exposure considers all sources of potential risk, such as credit and dilution risk.
 (vi) Where relevant, the ABCP program incorporates structural features into each purchase of exposures underlying the securitization exposure to mitigate potential credit deterioration of the underlying exposures. Such features may include wind-down triggers specific to a pool of underlying exposures.
-(b) Mechanics.A savings association that elects to use the IAA to calculate the risk-based capital requirement for any securitization exposure must use the IAA to calculate the risk-based capital requirements for all securitization exposures that qualify for the IAA approach. Under the IAA, a savings association must map its internal assessment of such a securitization exposure to an equivalent external rating from an NRSRO. Under the IAA, a savings association must determine the risk-weighted asset amount for such a securitization exposure by multiplying the amount of the exposure (as defined in paragraph (e) of section 42 of this appendix) by the appropriate risk weight in Table 6 and Table 7 in paragraph (b) of section 43 of this appendix.
+(b) Mechanics. A savings association that elects to use the IAA to calculate the risk-based capital requirement for any securitization exposure must use the IAA to calculate the risk-based capital requirements for all securitization exposures that qualify for the IAA approach. Under the IAA, a savings association must map its internal assessment of such a securitization exposure to an equivalent external rating from an NRSRO. Under the IAA, a savings association must determine the risk-weighted asset amount for such a securitization exposure by multiplying the amount of the exposure (as defined in paragraph (e) of section 42 of this appendix) by the appropriate risk weight in Table 6 and Table 7 in paragraph (b) of section 43 of this appendix.
 Section 45. Supervisory Formula Approach (SFA)
 (a) Eligibility requirements. A savings association may use the SFA to determine its risk-based capital requirement for a securitization exposure only if the savings association can calculate on an ongoing basis each of the SFA parameters in paragraph (e) of this section.
 (b) Mechanics. Under the SFA, a securitization exposure incurs a deduction from total capital (as described in paragraph (c) of section 42 of this appendix) and/or an SFA risk-based capital requirement, as determined in paragraph (c) of this section. The risk-weighted asset amount for the securitization exposure equals the SFA risk-based capital requirement for the exposure multiplied by 12.5.
@@ -990,11 +990,11 @@ where:
 Section 46. Recognition of Credit Risk Mitigants for Securitization Exposures
 (a) General. An originating savings association that has obtained a credit risk mitigant to hedge its securitization exposure to a synthetic or traditional securitization that satisfies the operational criteria in section 41 of this appendix may recognize the credit risk mitigant, but only as provided in this section. An investing savings association that has obtained a credit risk mitigant to hedge a securitization exposure may recognize the credit risk mitigant, but only as provided in this section. A savings association that has used the RBA in section 43 of this appendix or the IAA in section 44 of this appendix to calculate its risk-based capital requirement for a securitization exposure whose external or inferred rating (or equivalent internal rating under the IAA) reflects the benefits of a credit risk mitigant provided to the associated securitization or that supports some or all of the underlying exposures may not use the credit risk mitigation rules in this section to further reduce its risk-based capital requirement for the exposure to reflect that credit risk mitigant.
 (b) Collateral—(1) Rules of recognition. A savings association may recognize financial collateral in determining the savings association's risk-based capital requirement for a securitization exposure (other than a repo-style transaction, an eligible margin loan, or an OTC derivative contract for which the savings association has reflected collateral in its determination of exposure amount under section 32 of this appendix) as follows. The savings association's risk-based capital requirement for the collateralized securitization exposure is equal to the risk-based capital requirement for the securitization exposure as calculated under the RBA in section 43 of this appendix or under the SFA in section 45 of this appendix multiplied by the ratio of adjusted exposure amount (SE*) to original exposure amount (SE), where:
-(i) SE* = max {0, [SE—C x (1−Hs−Hfx)]};
+(i) SE* = max {0, [SE—C × (1−Hs−Hfx)]};
 (ii) SE = the amount of the securitization exposure calculated under paragraph (e) of section 42 of this appendix;
 (iii) C = the current market value of the collateral;
 (iv) Hs = the haircut appropriate to the collateral type; and
-(v) Hfx=the haircut appropriate for any currency mismatch between the collateral and the exposure.
+(v) Hfx = the haircut appropriate for any currency mismatch between the collateral and the exposure.
 (2) Mixed collateral. Where the collateral is a basket of different asset types or a basket of assets denominated in different currencies, the haircut on the basket will be
 ER07DE07.023
 where ai is the current market value of the asset in the basket divided by the current market value of all assets in the basket and Hi is the haircut applicable to that asset.
@@ -1009,8 +1009,8 @@ where ai is the current market value of the asset in the basket divided by the c
 (i) Calculate ECL for the protected portion of the exposure using the same risk parameters that it uses for calculating the risk-weighted asset amount of the exposure as described in paragraph (c)(3) of this section; and
 (ii) Add the exposure's ECL to the savings association's total ECL.
 (3) Rules of recognition. A savings association may recognize an eligible guarantee or eligible credit derivative provided by an eligible securitization guarantor in determining the savings association's risk-based capital requirement for the securitization exposure as follows:
-(i) Full coverage.If the protection amount of the eligible guarantee or eligible credit derivative equals or exceeds the amount of the securitization exposure, the savings association may set the risk-weighted asset amount for the securitization exposure equal to the risk-weighted asset amount for a direct exposure to the eligible securitization guarantor (as determined in the wholesale risk weight function described in section 31 of this appendix), using the savings association's PD for the guarantor, the savings association's LGD for the guarantee or credit derivative, and an EAD equal to the amount of the securitization exposure (as determined in paragraph (e) of section 42 of this appendix).
-(ii) Partial coverage.If the protection amount of the eligible guarantee or eligible credit derivative is less than the amount of the securitization exposure, the savings association may set the risk-weighted asset amount for the securitization exposure equal to the sum of:
+(i) Full coverage. If the protection amount of the eligible guarantee or eligible credit derivative equals or exceeds the amount of the securitization exposure, the savings association may set the risk-weighted asset amount for the securitization exposure equal to the risk-weighted asset amount for a direct exposure to the eligible securitization guarantor (as determined in the wholesale risk weight function described in section 31 of this appendix), using the savings association's PD for the guarantor, the savings association's LGD for the guarantee or credit derivative, and an EAD equal to the amount of the securitization exposure (as determined in paragraph (e) of section 42 of this appendix).
+(ii) Partial coverage. If the protection amount of the eligible guarantee or eligible credit derivative is less than the amount of the securitization exposure, the savings association may set the risk-weighted asset amount for the securitization exposure equal to the sum of:
 (A) Covered portion. The risk-weighted asset amount for a direct exposure to the eligible securitization guarantor (as determined in the wholesale risk weight function described in section 31 of this appendix), using the savings association's PD for the guarantor, the savings association's LGD for the guarantee or credit derivative, and an EAD equal to the protection amount of the credit risk mitigant; and
 (B) Uncovered portion. (1) 1.0 minus the ratio of the protection amount of the eligible guarantee or eligible credit derivative to the amount of the securitization exposure); multiplied by
 (2) The risk-weighted asset amount for the securitization exposure without the credit risk mitigant (as determined in sections 42-45 of this appendix).
@@ -1023,10 +1023,10 @@ Section 47. Risk-Based Capital Requirement for Early Amortization Provisions
 (b) Risk-weighted asset amount for investors'interest. The originating savings association's risk-weighted asset amount for the investors' interest in the securitization is equal to the product of the following 5 quantities:
 (1) The investors'interest EAD;
 (2) The appropriate conversion factor in paragraph (c) of this section;
-(3) KIRB(as defined in paragraph (e)(3) of section 45 of this appendix);
+(3) KIRB (as defined in paragraph (e)(3) of section 45 of this appendix);
 (4) 12.5; and
 (5) The proportion of the underlying exposures in which the borrower is permitted to vary the drawn amount within an agreed limit under a line of credit.
-(c) Conversion factor.(1) (i) Except as provided in paragraph (c)(2) of this section, to calculate the appropriate conversion factor, a savings association must use Table 8 for a securitization that contains a controlled early amortization provision and must use Table 9 for a securitization that contains a non-controlled early amortization provision. In circumstances where a securitization contains a mix of retail and nonretail exposures or a mix of committed and uncommitted exposures, a savings association may take a pro rata approach to determining the conversion factor for the securitization's early amortization provision. If a pro rata approach is not feasible, a savings association must treat the mixed securitization as a securitization of nonretail exposures if a single underlying exposure is a nonretail exposure and must treat the mixed securitization as a securitization of committed exposures if a single underlying exposure is a committed exposure.
+(c) Conversion factor. (1)(i) Except as provided in paragraph (c)(2) of this section, to calculate the appropriate conversion factor, a savings association must use Table 8 for a securitization that contains a controlled early amortization provision and must use Table 9 for a securitization that contains a non-controlled early amortization provision. In circumstances where a securitization contains a mix of retail and nonretail exposures or a mix of committed and uncommitted exposures, a savings association may take a pro rata approach to determining the conversion factor for the securitization's early amortization provision. If a pro rata approach is not feasible, a savings association must treat the mixed securitization as a securitization of nonretail exposures if a single underlying exposure is a nonretail exposure and must treat the mixed securitization as a securitization of committed exposures if a single underlying exposure is a committed exposure.
 (ii) To find the appropriate conversion factor in the tables, a savings association must divide the three-month average annualized excess spread of the securitization by the excess spread trapping point in the securitization structure. In securitizations that do not require excess spread to be trapped, or that specify trapping points based primarily on performance measures other than the three-month average annualized excess spread, the excess spread trapping point is 4.5 percent.
 Table 8—Controlled Early Amortization Provisions
 | Uncommitted | Committed
@@ -1076,8 +1076,8 @@ Section 52. Simple Risk Weight Approach (SRWA)
 (ii) Under the variability-reduction method of measuring effectiveness:
 ER07DE07.021
 (A) Xt = At − Bt;
-(B)At = the value at time t of one exposure in a hedge pair; and
-(C)Bt = the value at time t of the other exposure in a hedge pair.
+(B) At = the value at time t of one exposure in a hedge pair; and
+(C) Bt = the value at time t of the other exposure in a hedge pair.
 (iii) Under the regression method of measuring effectiveness, E equals the coefficient of determination of a regression in which the change in value of one exposure in a hedge pair is the dependent variable and the change in value of the other exposure in a hedge pair is the independent variable. However, if the estimated regression coefficient is positive, then the value of E is zero.
 (3) The effective portion of a hedge pair is E multiplied by the greater of the adjusted carrying values of the equity exposures forming a hedge pair.
 (4) The ineffective portion of a hedge pair is (1-E) multiplied by the greater of the adjusted carrying values of the equity exposures forming a hedge pair.
@@ -1177,7 +1177,7 @@ Quantitative Disclosures | (b) The amount of tier 1 capital, with separate discl
 | • Common stock/surplus;
 | • Retained earnings;
 | • Minority interests in the equity of subsidiaries;
-| • Regulatory calculation differences deducted from tier 1 capital;thnsp;7 and
+| • Regulatory calculation differences deducted from tier 1 capital; 7 and
 | • Other amounts deducted from tier 1 capital, including goodwill and certain intangibles.
 | (c) The total amount of tier 2 capital.
 | (d) Other deductions from capital. 8
