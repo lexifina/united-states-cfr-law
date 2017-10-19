@@ -1,4 +1,5 @@
 # Appendix H to Part 1026—Closed-End Model Forms and Clauses
+This amendment was delayed in part until Apr. 19, 2018 at 82 FR 30948, July 5, 2017.
 H-1 Credit Sale Model Form (§ 1026.18)
 H-2 Loan Model Form (§ 1026.18)
 H-3 Amount Financed Itemization Model Form (§ 1026.18(c))
@@ -70,19 +71,21 @@ H-28(J) Mortgage Loan Transaction Closing Disclosure—Modification to Closing D
 H-29 Escrow Cancellation Notice Model Form (§ 1026.20(e))
 H-30(A) Sample Form of Periodic Statement (§ 1026.41)
 H-30(B) Sample Form of Periodic Statement with Delinquency Box (§ 1026.41)
-H-30(C) Sample Form of Periodic Statement for a Payment-Option Loan
+H-30(C) Sample Form of Periodic Statement for a Payment-Option Loan (§ 1026.41)
 H-30(D) Sample Clause for Homeownership Counselor Contact Information (§ 1026.41)
+H-30(E) Sample Form of Periodic Statement for Consumer in Chapter 7 or Chapter 11 Bankruptcy
+H-30(F) Sample Form of Periodic Statement for Consumer in Chapter 12 or Chapter 13 Bankruptcy
 ER22DE11.033
 ER22DE11.034
 ER22DE11.035
-H-4(C)—Variable-Rate Model Clauses
+H-4(C)—Variable Rate Model Clauses
 This disclosure describes the features of the adjustable-rate mortgage (ARM) program you are considering. Information on other ARM programs is available upon request.
 How Your Interest Rate and Payment Are Determined
 • Your interest rate will be based on [an index plus a margin] [a formula].
 • Your payment will be based on the interest rate, loan balance, and loan term.
 —[The interest rate will be based on (identification of index) plus our margin. Ask for our current interest rate and margin.]
 —[The interest rate will be based on (identification of formula). Ask us for our current interest rate.]
-—Information about the index [formula for rate adjustments] is published [can be found] ______.
+—Information about the index [formula for rate adjustments] is published [can be found] ___.
 —[The initial interest rate is not based on the (index) (formula) used to make later adjustments. Ask us for the amount of current interest rate discounts.]
 How Your Interest Rate Can Change
 • Your interest rate can change (frequency).
@@ -91,15 +94,45 @@ How Your Interest Rate Can Change
 How Your Payment Can Change
 • Your payment can change (frequency) based on changes in the interest rate.
 • [Your payment cannot increase more than (amount or percentage) at each adjustment.]
-• You will be notified in writing ____ days before the due date of a payment at a new level. This notice will contain information about your interest rates, payment amount, and loan balance.
-• [You will be notified once each year during which interest rate adjustments, but no payment adjustments, have been made to your loan. This notice will contain information about your interest rates, payment amount, and loan balance.]
-• [For example, on a $10,000 [term] loan with an initial interest rate of ____ [(the rate shown in the interest rate column below for the year 19 ____)] [(in effect (month) (year)], the maximum amount that the interest rate can rise under this program is ____ percentage points, to ____%, and the monthly payment can rise from a first-year payment of $____ to a maximum of $____ in the _____ year. To see what your payments would be, divide your mortgage amount by $10,000; then multiply the monthly payment by that amount. (For example, the monthly payment for a mortgage amount of $60,000 would be: $60,000 ÷ $10,000 = 6; 6 × ____ = $____ per month.)]
+• [You will be notified at least 210, but no more than 240, days before first payment at the adjusted level is due after the initial interest rate adjustment of the loan. This notice will contain information about the adjustment, including the interest rate, payment amount, and loan balance.]
+• [You will be notified at least 60, but no more than 120, days before first payment at the adjusted level is due after any interest rate adjustment resulting in a corresponding payment change. This notice will contain information about the adjustment, including the interest rate, payment amount, and loan balance.]
+• [For example, on a $10,000 [term] loan with an initial interest rate of __ [(the rate shown in the interest rate column below for the year 19 __)] [(in effect (month) (year)], the maximum amount that the interest rate can rise under this program is __ percentage points, to __%, and the monthly payment can rise from a first-year payment of $__ to a maximum of $__ in the __ year. To see what your payments would be, divide your mortgage amount by $10,000; then multiply the monthly payment by that amount. (For example, the monthly payment for a mortgage amount of $60,000 would be: $60,000 ÷ $10,000 = 6; 6 × __ = $__ per month.)]
 [Example
 The example below shows how your payments would have changed under this ARM program based on actual changes in the index from 1982 to 1996. This does not necessarily indicate how your index will change in the future.
 The example is based on the following assumptions:
-ER22DE11.036
-ER22DE11.037
-ER14FE13.002
+|
+Amount | $10,000.
+Term | ——.
+Change date | ——.
+Payment adjustment | (frequency).
+Interest adjustment | (frequency).
+[Margin] * | ——.
+Caps __ [periodic interest rate cap].
+__ [lifetime interest rate cap.
+__ [payment cap].
+[Interest rate carryover].
+[Negative amortization].
+[Interest rate discount].**
+Index(identification of index or formula).
+* This is a margin we have used recently, your margin may be different.
+** This is the amount of a discount we have provided recently; your loan may be discounted by a different amount.]
+Year | Index(%) | Margin(percentage points) | Interestrate (%) | Monthlypayment ($) | Remainingbalance ($)
+1982 | | |
+1983 | | |
+1984 | | |
+1985 | | |
+1986 | | |
+1987 | | |
+1988 | | |
+1989 | | |
+1990 | | |
+1991 | | |
+1992 | | |
+1993 | | |
+1994 | | |
+1995 | | |
+1996 | | | |
+Note: To see what your payments would have been during that period, divide your mortgage amount by $10,000; then multiply the monthly payment by that amount. (For example, in 1996 the monthly payment for a mortgage amount of $60,000 taken out in 1982 would be: $60,000 ÷ $10,000 = 6; 6 × __ = $__ per month.)
 ER14FE13.003
 ER14FE13.004
 ER14FE13.005
@@ -142,7 +175,7 @@ ER22DE11.043
 ER22DE11.044
 H-13—Closed-End Transaction With Demand Feature Sample
 ER31DE13.004
-H-14—Variable-Rate Mortgage Sample
+H-14—Variable Rate Mortgage Sample
 This disclosure describes the features of the adjustable-rate mortgage (ARM) program you are considering. Information on other ARM programs is available upon request.
 How Your Interest Rate and Payment Are Determined
 • Your interest rate will be based on an index rate plus a margin.
@@ -156,14 +189,42 @@ How Your Interest Rate Can Change
 • Your interest rate cannot increase or decrease more than 5 percentage points over the term of the loan.
 How Your Monthly Payment Can Change
 • Your monthly payment can increase or decrease substantially based on annual changes in the interest rate.
-• [For example, on a $10,000, 30-year loan with an initial interest rate of 12.41 percent in effect in July 1996, the maximum amount that the interest rate can rise under this program is 5 percentage points, to 17.41 percent, and the monthly payment can rise from a first-year payment of $106.03 to a maximum of $145.34 in the fourth year. To see what your payment is, divide your mortgage amount by $10,000; then multiply the monthly payment by that amount. (For example, the monthly payment for a mortgage amount of $60,000 would be: $60,000 ÷ $10,000 = 6; 6 × 106.03 = $636.18 per month.)
-• You will be notified in writing 25 days before the annual payment adjustment may be made. This notice will contain information about your interest rates, payment amount and loan balance.]
-Example
+• [For example, on a $10,000, 30-year loan with an initial interest rate of 12.41 percent in effect in July 1996, the maximum amount that the interest rate can rise under this program is 5 percentage points, to 17.41 percent, and the monthly payment can rise from a first-year payment of $106.03 to a maximum of $145.34 in the fourth year. To see what your payment is, divide your mortgage amount by $10,000; then multiply the monthly payment by that amount. (For example, the monthly payment for a mortgage amount of $60,000 would be: $60,000 ÷ $10,000 = 6; 6 × 106.03 = $636.18 per month.)]
+• [You will be notified at least 210, but no more than 240, days before first payment at the adjusted level is due after the initial interest rate adjustment of the loan. This notice will contain information about the adjustment, including the interest rate, payment amount, and loan balance.]
+• [You will be notified at least 60, but no more than 120, days before first payment at the adjusted level is due after any interest rate adjustment resulting in a corresponding payment change. This notice will contain information about the adjustment, including the interest rate, payment amount, and loan balance.]
+[Example
 The example below shows how your payments would have changed under this ARM program based on actual changes in the index from 1982 to 1996. This does not necessarily indicate how your index will change in the future. The example is based on the following assumptions:
-ER22DE11.046
-ER22DE11.047
-Note: To see what your payments would have been during that period, divide your mortgage amount by $10,000; then multiply the monthly payment by that amount. (For example, in 1996 the monthly payment for a mortgage amount of $60,000 taken out in 1982 would be: $60,000 ÷ $10,000 = 6; 6 × $106.73 = $640.38.)
-• You will be notified in writing 25 days before the annual payment adjustment may be made. This notice will contain information about your interest rates, payment amount and loan balance.]
+|
+Amount | $10,000.
+Term | 30 years.
+Payment adjustment | 1 year.
+Interest adjustment | 1 year.
+Margin | 3 percentage points.
+Caps 2 percentage points annual interest rate.
+5 percentage points lifetime interest rate.
+Index Weekly average yield on U.S. Treasury securities adjusted to a constant maturity of one year.
+Year(as of 1st week ending in July) | Index | Margin *(percentage points) | Interestrate (%) | Monthlypayment ($) | Remainingbalance ($)
+1982 | 14.41 | 3 | 17.41 | 145.90 | 9,989.37
+1983 | 9.78 | 3 | * * 15.41 | 129.81 | 9,969.66
+1984 | 12.17 | 3 | 15.17 | 127.91 | 9,945.51
+1985 | 7.66 | 3 | ** 13.17 | 112.43 | 9,903.70
+1986 | 6.36 | 3 | *** 12.41 | 106.73 | 9,848.94
+1987 | 6.71 | 3 | *** 12.41 | 106.73 | 9,786.98
+1988 | 7.52 | 3 | *** 12.41 | 106.73 | 9,716.88
+1989 | 7.97 | 3 | *** 12.41 | 106.73 | 9,637.56
+1990 | 8.06 | 3 | *** 12.41 | 106.73 | 9,547.83
+1991 | 6.40 | 3 | *** 12.41 | 106.73 | 9,446.29
+1992 | 3.96 | 3 | *** 12.41 | 106.73 | 9,331.56
+1993 | 3.42 | 3 | *** 12.41 | 106.73 | 9,201.61
+1994 | 5.47 | 3 | *** 12.41 | 106.73 | 9,054.72
+1995 | 5.53 | 3 | *** 12.41 | 106.73 | 8,888.52
+1996 | 5.82 | 3 | *** 12.41 | 106.73 | 8,700.37
+* This is a margin we have used recently; your margin may be different.
+** This interest rate reflects a 2 percentage point annual interest rate cap.
+*** This interest rate reflects a 5 percentage point lifetime interest rate cap.
+Note: To see what your payments would have been during that period, divide your mortgage amount by $10,000; then multiply the monthly payment by that amount. (For example, in 1996 the monthly payment for a mortgage amount of $60,000 taken out in 1982 would be: $60,000 ÷ $10,000 = 6; 6 × $106.73 = $640.38.)]
+• [You will be notified at least 210, but no more than 240, days before first payment at the adjusted level is due after the initial interest rate adjustment of the loan. This notice will contain information about the adjustment, including the interest rate, payment amount, and loan balance.]
+• [You will be notified at least 60, but no more than 120, days before first payment at the adjusted level is due after any interest rate adjustment resulting in a corresponding payment change. This notice will contain information about the adjustment, including the interest rate, payment amount, and loan balance.]
 H-15 Closed-End Graduated Payment Transaction Sample
 ER31DE13.005
 ER22DE11.049
@@ -403,128 +464,9 @@ Description: This is a blank model form of the disclosures required by § 1026.2
 ER31DE13.156
 ER14FE13.008
 ER14FE13.009
-ER14FE13.010
+H-30(C) Sample Form of Periodic Statement for a Payment-Option Loan
+ER19OC16.000
 H-30(D) Sample Clause for Homeownership Counselor Contact Information
 Housing Counselor Information: If you would like counseling or assistance, you can contact the following:
 • U.S. Department of Housing and Urban Development (HUD): For a list of homeownership counselors or counseling organizations in your area, go to http://www.hud.gov/offices/hsg/sfh/hcc/hcs.cfm or call 800-569-4287.
-Effective Date Note:
-At 81 FR 72390, Oct. 19, 2016, appendix H to part 1026 was amended by:
-a. Revising the entry for H-30(C) in the table of contents at the beginning of the appendix;
-b. Adding entries for H-30(E) and H-30(F) in the table of contents at the beginning of the appendix;
-c. Revising H-4(C), H-14, and H-30(C); and
-d. Adding H-30(E) and H-30(F), effective Oct. 19, 2017. For the convenience of the user, the added and revised text is set forth as follows:
-Appendix H to Part 1026—Closed-End Model Forms and Clauses
-H-30(C) Sample Form of Periodic Statement for a Payment-Option Loan (§ 1026.41)
-H-30(E) Sample Form of Periodic Statement for Consumer in Chapter 7 or Chapter 11 Bankruptcy
-H-30(F) Sample Form of Periodic Statement for Consumer in Chapter 12 or Chapter 13 Bankruptcy
-H-4(C)—Variable Rate Model Clauses
-This disclosure describes the features of the adjustable-rate mortgage (ARM) program you are considering. Information on other ARM programs is available upon request.
-How Your Interest Rate and Payment Are Determined
-• Your interest rate will be based on [an index plus a margin] [a formula].
-• Your payment will be based on the interest rate, loan balance, and loan term.
-—[The interest rate will be based on (identification of index) plus our margin. Ask for our current interest rate and margin.]
-—[The interest rate will be based on (identification of formula). Ask us for our current interest rate.]
-—Information about the index [formula for rate adjustments] is published [can be found] ___.
-—[The initial interest rate is not based on the (index) (formula) used to make later adjustments. Ask us for the amount of current interest rate discounts.]
-How Your Interest Rate Can Change
-• Your interest rate can change (frequency).
-• [Your interest rate cannot increase or decrease more than __ percentage points at each adjustment.]
-• Your interest rate cannot increase [or decrease] more than __ percentage points over the term of the loan.
-How Your Payment Can Change
-• Your payment can change (frequency) based on changes in the interest rate.
-• [Your payment cannot increase more than (amount or percentage) at each adjustment.]
-• [You will be notified at least 210, but no more than 240, days before first payment at the adjusted level is due after the initial interest rate adjustment of the loan. This notice will contain information about the adjustment, including the interest rate, payment amount, and loan balance.]
-• [You will be notified at least 60, but no more than 120, days before first payment at the adjusted level is due after any interest rate adjustment resulting in a corresponding payment change. This notice will contain information about the adjustment, including the interest rate, payment amount, and loan balance.]
-• [For example, on a $10,000 [term] loan with an initial interest rate of __ [(the rate shown in the interest rate column below for the year 19 __)] [(in effect (month) (year)], the maximum amount that the interest rate can rise under this program is __ percentage points, to __%, and the monthly payment can rise from a first-year payment of $__ to a maximum of $__ in the __ year. To see what your payments would be, divide your mortgage amount by $10,000; then multiply the monthly payment by that amount. (For example, the monthly payment for a mortgage amount of $60,000 would be: $60,000 ÷ $10,000 = 6; 6 × __ = $__ per month.)]
-[Example
-The example below shows how your payments would have changed under this ARM program based on actual changes in the index from 1982 to 1996. This does not necessarily indicate how your index will change in the future.
-The example is based on the following assumptions:
-|
-Amount | $10,000.
-Term | ——.
-Change date | ——.
-Payment adjustment | (frequency).
-Interest adjustment | (frequency).
-[Margin] * | ——.
-Caps __ [periodic interest rate cap].
-__ [lifetime interest rate cap.
-__ [payment cap].
-[Interest rate carryover].
-[Negative amortization].
-[Interest rate discount].**
-Index(identification of index or formula).
-* This is a margin we have used recently, your margin may be different.
-** This is the amount of a discount we have provided recently; your loan may be discounted by a different amount.]
-Year | Index(%) | Margin(percentage points) | Interestrate (%) | Monthlypayment ($) | Remainingbalance ($)
-1982 | | |
-1983 | | |
-1984 | | |
-1985 | | |
-1986 | | |
-1987 | | |
-1988 | | |
-1989 | | |
-1990 | | |
-1991 | | |
-1992 | | |
-1993 | | |
-1994 | | |
-1995 | | |
-1996 | | | |
-Note: To see what your payments would have been during that period, divide your mortgage amount by $10,000; then multiply the monthly payment by that amount. (For example, in 1996 the monthly payment for a mortgage amount of $60,000 taken out in 1982 would be: $60,000 ÷ $10,000 = 6; 6 × __ = $__ per month.)
-H-14—Variable Rate Mortgage Sample
-This disclosure describes the features of the adjustable-rate mortgage (ARM) program you are considering. Information on other ARM programs is available upon request.
-How Your Interest Rate and Payment Are Determined
-• Your interest rate will be based on an index rate plus a margin.
-• Your payment will be based on the interest rate, loan balance, and loan term.
-—The interest rate will be based on the weekly average yield on United States Treasury securities adjusted to a constant maturity of 1 year (your index), plus our margin. Ask us for our current interest rate and margin.
-—Information about the index rate is published weekly in the Wall Street Journal.
-• Your interest rate will equal the index rate plus our margin unless your interest rate "caps" limit the amount of change in the interest rate.
-How Your Interest Rate Can Change
-• Your interest rate can change yearly.
-• Your interest rate cannot increase or decrease more than 2 percentage points per year.
-• Your interest rate cannot increase or decrease more than 5 percentage points over the term of the loan.
-How Your Monthly Payment Can Change
-• Your monthly payment can increase or decrease substantially based on annual changes in the interest rate.
-• [For example, on a $10,000, 30-year loan with an initial interest rate of 12.41 percent in effect in July 1996, the maximum amount that the interest rate can rise under this program is 5 percentage points, to 17.41 percent, and the monthly payment can rise from a first-year payment of $106.03 to a maximum of $145.34 in the fourth year. To see what your payment is, divide your mortgage amount by $10,000; then multiply the monthly payment by that amount. (For example, the monthly payment for a mortgage amount of $60,000 would be: $60,000 ÷ $10,000 = 6; 6 × 106.03 = $636.18 per month.)]
-• [You will be notified at least 210, but no more than 240, days before first payment at the adjusted level is due after the initial interest rate adjustment of the loan. This notice will contain information about the adjustment, including the interest rate, payment amount, and loan balance.]
-• [You will be notified at least 60, but no more than 120, days before first payment at the adjusted level is due after any interest rate adjustment resulting in a corresponding payment change. This notice will contain information about the adjustment, including the interest rate, payment amount, and loan balance.]
-[Example
-The example below shows how your payments would have changed under this ARM program based on actual changes in the index from 1982 to 1996. This does not necessarily indicate how your index will change in the future. The example is based on the following assumptions:
-|
-Amount | $10,000.
-Term | 30 years.
-Payment adjustment | 1 year.
-Interest adjustment | 1 year.
-Margin | 3 percentage points.
-Caps __ 2 percentage points annual interest rate.
-__ 5 percentage points lifetime interest rate.
-Index __ Weekly average yield on U.S. Treasury securities adjusted to a constant maturity of one year.
-Year(as of 1st week ending in July) | Index | Margin *(percentage points) | Interestrate (%) | Monthlypayment ($) | Remainingbalance ($)
-1982 | 14.41 | 3 | 17.41 | 145.90 | 9,989.37
-1983 | 9.78 | 3 | * * 15.41 | 129.81 | 9,969.66
-1984 | 12.17 | 3 | 15.17 | 127.91 | 9,945.51
-1985 | 7.66 | 3 | ** 13.17 | 112.43 | 9,903.70
-1986 | 6.36 | 3 | *** 12.41 | 106.73 | 9,848.94
-1987 | 6.71 | 3 | *** 12.41 | 106.73 | 9,786.98
-1988 | 7.52 | 3 | *** 12.41 | 106.73 | 9,716.88
-1989 | 7.97 | 3 | *** 12.41 | 106.73 | 9,637.56
-1990 | 8.06 | 3 | *** 12.41 | 106.73 | 9,547.83
-1991 | 6.40 | 3 | *** 12.41 | 106.73 | 9,446.29
-1992 | 3.96 | 3 | *** 12.41 | 106.73 | 9,331.56
-1993 | 3.42 | 3 | *** 12.41 | 106.73 | 9,201.61
-1994 | 5.47 | 3 | *** 12.41 | 106.73 | 9,054.72
-1995 | 5.53 | 3 | *** 12.41 | 106.73 | 8,888.52
-1996 | 5.82 | 3 | *** 12.41 | 106.73 | 8,700.37
-* This is a margin we have used recently; your margin may be different.
-** This interest rate reflects a 2 percentage point annual interest rate cap.
-*** This interest rate reflects a 5 percentage point lifetime interest rate cap.
-Note: To see what your payments would have been during that period, divide your mortgage amount by $10,000; then multiply the monthly payment by that amount. (For example, in 1996 the monthly payment for a mortgage amount of $60,000 taken out in 1982 would be: $60,000 ÷ $10,000 = 6; 6 × $106.73 = $640.38.)]
-• [You will be notified at least 210, but no more than 240, days before first payment at the adjusted level is due after the initial interest rate adjustment of the loan. This notice will contain information about the adjustment, including the interest rate, payment amount, and loan balance.]
-• [You will be notified at least 60, but no more than 120, days before first payment at the adjusted level is due after any interest rate adjustment resulting in a corresponding payment change. This notice will contain information about the adjustment, including the interest rate, payment amount, and loan balance.]
-H-30(C) Sample Form of Periodic Statement for a Payment-Option Loan
-ER19OC16.000
-H-30(E) Sample Form of Periodic Statement for Consumer in Chapter 7 or Chapter 11 Bankruptcy
-ER19OC16.001
-H-30(F) Sample Form of Periodic Statement for Consumer in Chapter 12 or Chapter 13 Bankruptcy
-ER19OC16.002
+Effective Date Note: At 81 FR 72390, Oct. 19, 2016, and delayed at 82 FR 30948, July, 5, 2017, appendix H to part 1026 was amended byadding H-30(E) and H-30(F), effective Apr. 19, 2018. For the convenience of the user, the added text is set forth as follows: Appendix H to Part 1026—Closed-End Model Forms and Clauses H-30(E) Sample Form of Periodic Statement for Consumer in Chapter 7 or Chapter 11 Bankruptcy ER19OC16.001 H-30(F) Sample Form of Periodic Statement for Consumer in Chapter 12 or Chapter 13 Bankruptcy ER19OC16.002
