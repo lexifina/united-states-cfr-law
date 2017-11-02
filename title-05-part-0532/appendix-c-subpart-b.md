@@ -1819,7 +1819,7 @@ Cottonwood
 Dodge
 Douglas
 Faribault
-Freeborn
+Fillmore
 Freeborn
 Goodhue
 Grant
@@ -2453,16 +2453,6 @@ Elk (Only includes the Allegheny National Forest portion)
 Forest (Only includes the Allegheny National Forest portion)
 McKean
 Warren
-Newburgh
-Survey Area
-New York:
-Dutchess
-Orange
-Ulster
-Area of Application. Survey area plus:
-New York:
-Delaware
-Sullivan
 New York
 Survey Area
 New Jersey:
@@ -2485,13 +2475,13 @@ Suffolk
 Westchester
 Area of Application. Survey area plus:
 New Jersey:
-Burlington (Joint Base McGuire-Dix-Lakehurst portion only
+Burlington (Joint Base McGuire-Dix-Lakehurst portion only)
 Hunterdon
 Monmouth
 Ocean
 Sussex
 New York:
-Duchess
+Dutchess
 Putnam
 Richmond
 Rockland
@@ -3004,7 +2994,7 @@ Union
 Philadelphia
 Survey Area
 New Jersey:
-Burlington (Excluding the Joint Base McGuire-Dix-Lakehurst portion
+Burlington (Excluding the Joint Base McGuire-Dix-Lakehurst portion)
 Camden
 Gloucester
 Pennsylvania:
@@ -4044,6 +4034,7 @@ Union
 Wallowa
 Wheeler
 Washington:
+Columbia
 Kittitas (Only includes the Yakima Firing Range portion)
 Spokane
 Survey Area
