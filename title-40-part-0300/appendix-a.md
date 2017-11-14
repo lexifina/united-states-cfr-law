@@ -292,12 +292,12 @@ List of Tables
 6.4 Calculation of air migration pathway score.
 7.0 Sites Containing Radioactive Substances.
 7.1 Likelihood of release/likelihood of exposure.
-7.1.1 Observed release/observed contamination.
-7.1.2 Potential to release.
+7.1.1 Observed release/observed contamination/observed exposure.
+7.1.2 Potential to release/potential for exposure.
 7.2 Waste characteristics.
 7.2.1 Human toxicity.
 7.2.2 Ecosystem toxicity.
-7.2.3 Persistence.
+7.2.3 Persistence/degradation.
 7.2.4 Selection of substance potentially posing greatest hazard.
 7.2.5 Hazardous waste quantity.
 7.2.5.1 Source hazardous waste quantity for radionuclides.
@@ -309,6 +309,7 @@ List of Tables
 7.3 Targets.
 7.3.1 Level of contamination at a sampling location.
 7.3.2 Comparison to benchmarks.
+7.3.3 Weighting of targets within an area of subsurface contamination.
 List of Figures
 Figure number
 3-1 Overview of ground water migration pathway.
@@ -316,7 +317,7 @@ Figure number
 4-1 Overview of surface water overland/flood migration component.
 4-2 Overview of ground water to surface water migration component.
 4-3 Sample determination of ground water to surface water angle.
-5-1 Overview of soil exposure pathway.
+5-1 Overview of the soil exposure and subsurface intrusion pathway.
 6-1 Overview of air migration pathway.
 6-2 Particulate migration potential factor values.
 6-3 Particulate mobility factor values.
@@ -371,8 +372,8 @@ Table number
 4-28 Toxicity/mobility/persistence/bioaccumulation factor values.
 4-29 Ecosystem toxicity/mobility/persistence factor values.
 4-30 Ecosystem toxicity/mobility/persistence/bioaccumulation factor values.
-5-1 Soil exposure pathway scoresheet.
-5-2 Hazardous waste quantity evaluation equations for soil exposure pathway.
+5-1 Soil exposure component scoresheet.
+5-2 Hazardous waste quantity evaluation equations for soil exposure component.
 5-3 Health-based benchmarks for hazardous substances in soils.
 5-4 Factor values for workers.
 5-5 Terrestrial sensitive environments rating values.
@@ -381,6 +382,17 @@ Table number
 5-8 Nearby population likelihood of exposure factor values.
 5-9 Nearby individual factor values.
 5-10 Distance-weighted population values for nearby population threat.
+5-11 Subsurface intrusion component scoresheet.
+5-12 Structure containment.
+5-13 Depth to contamination.
+5-14 Effective porosity/permeability of geological materials.
+5-15 Vertical migration factor values.
+5-16 Values for vapor pressure and Henry's constant.
+5-17 Vapor migration potential factor values for a hazardous substance.
+5-18 Degradation factor value table.
+5-19 Hazardous waste quantity evaluation equations for subsurface intrusion component.
+5-20 Health-based benchmarks for hazardous substances in the subsurface intrusion component.
+5-21 Weighting factor values for populations within an area of subsurface contamination.
 6-1 Air migration pathway scoresheet.
 6-2 Gas potential to release evaluation.
 6-3 Gas containment factor values.
@@ -468,6 +480,7 @@ Site: Area(s) where a hazardous substance has been deposited, stored, disposed, 
 Slope factor (also referred to as cancer potency factor): Estimate of the probability of response (for example, cancer) per unit intake of a substance over a lifetime. The slope factor is typically used to estimate upper-bound probability of an individual developing cancer as a result of exposure to a particular level of a human carcinogen with either a weight-of-evidence classification of A, B, or C, or a weight-of-evidence classification of carcinogenic to humans, likely to be carcinogenic to humans or having suggestive evidence of carcinogenic potential. [(mg/kg-day)−1 for non-radioactive substances and (pCi)−1 for radioactive substances].
 Soil gas: The gaseous elements and compounds in the small spaces between particles of soil.
 Soil porosity: The degree to which the total volume of soil is permeated with pores or cavities through which fluids (including air or gas) can move. It is typically calculated as the ratio of the pore spaces within the soil to the overall volume of the soil.
+Source: Any area where a hazardous substance has been deposited, stored, disposed, or placed, plus those soils that have become contaminated from migration of a hazardous substance. Sources do not include those volumes of air, ground water, surface water, or surface water sediments that have become contaminated by migration, except: In the case of either a ground water plume with no identified source or contaminated surface water sediments with no identified source, the plume or contaminated sediments may be considered a source.
 Subslab: The area immediately beneath a regularly occupied structure with a basement foundation or a slab-on-grade foundation. Subslab samples are collected to determine the concentration of hazardous substances in the soil gas beneath a home or building.
 Subsurface intrusion: The migration of hazardous substances from the unsaturated zone and/or ground water into overlying structures.
 Target distance limit: Maximum distance over which targets for the site are evaluated. The target distance limit varies by HRS pathway.
@@ -2607,7 +2620,7 @@ In evaluating the subsurface intrusion component, consider the following:
 • Area(s) of subsurface contamination: An area of subsurface contamination is delineated by sampling locations meeting observed release criteria for subsurface intrusion, excluding areas of observed exposure (see Table 2-3 in section 2.3). The area within an area of subsurface contamination includes potentially exposed populations. If the significant increase in hazardous substance levels cannot be attributed at least in part to the site, and cannot be attributed to other sites, attribution can be established based on the presence of hazardous substances in the area of subsurface contamination. Establish areas of subsurface contamination as follows:
 —Exclude those areas that contain structures meeting the criteria defined as an area of observed exposure.
 —Consider both the sampling location(s) with subsurface contamination meeting observed release criteria from the site and the area lying between such locations to be an area of subsurface contamination (i.e., inferred to be in an area of subsurface contamination). If sufficient data is available and state of the science shows there is no unacceptable risk due to subsurface intrusion into a regularly occupied structure located within an area of subsurface contamination, that structure can be excluded from the area of subsurface contamination.
-Evaluate an area of subsurface contamination based on hazardous substances that:
+—Evaluate an area of subsurface contamination based on hazardous substances that:
 ▪ Meet the criteria for observed exposure of a chemical that has a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10− 5 atm-m3/mol, or
 ▪ Meet the criteria for observed release in an area of subsurface contamination and have a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10− 5 atm-m3/mol, or
 ▪ Meet the criteria for an observed release in a structure within, or in a sample from below, an area of observed exposure and have a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10− 5 atm-m3/mol.
