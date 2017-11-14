@@ -288,7 +288,7 @@ ER17oc00.423
 5. Holm, R.D. and S.A. Barksdale. Analysis of Anions in Combustion Products. In: Ion Chromatographic Analysis of Environmental Pollutants, E. Sawicki, J.D. Mulik, and E. Wittgenstein (eds.). Ann Arbor, Michigan, Ann Arbor Science Publishers. 1978. pp. 99-110.
 17.0 Tables, Diagrams, Flowcharts, and Validation Data
 ER17OC00.424
-Method 27—Determination of Vapor Tightness of Gasoline Delivery Tank Using Pressure Vaccuum Test
+Method 27—Determination of Vapor Tightness of Gasoline Delivery Tank Using Pressure Vacuum Test
 1.0 Scope and Application
 1.1 Applicability. This method is applicable for the determination of vapor tightness of a gasoline delivery collection equipment.
 2.0 Summary of Method
@@ -656,7 +656,7 @@ Burn rate(kg/hr-dry) | Cumulativeprobability (P) | Burn rate(kg/hr-dry) | Cumula
 ER17OC00.430
 ER17OC00.431
 ER17OC00.432
-Method 28A—Measurement of Air- to-Fuel Ratio and Mimimum Achievable Burn Rates for Wood-Fired Appliances
+Method 28A—Measurement of Air- to-Fuel Ratio and Minimum Achievable Burn Rates for Wood-Fired Appliances
 Note: This method does not include all or the specifications (e.g., equipment and supplies) and procedures (e.g., sampling and analytical) essential to its performance. Some material is incorporated by reference from other methods in this part. Therefore, to obtain reliable results, persons using this method should also have a thorough knowledge of at least the following additional test methods: Method 3, Method 3A, Method 5H, Method 6C, and Method 28.
 1.0 Scope and Application
 1.1 Analyte. Particulate matter (PM). No CAS number assigned.
