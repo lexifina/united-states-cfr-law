@@ -81,7 +81,7 @@ III. Flight Maneuvers and Procedures:
 (3) Holding | | | | B | | | | | AT | | | | | BU |
 (l) ILS instrument approaches that include the following:
 (1) Normal ILS approaches | B | | | | | AT | | | | | BU | | | |
-(2) Manually controlled ILS approaches with a simulated failure of one powerplane which occurs before initiating the final approach course and continues to touchdown or through the missed approach procedure | B | | | | | | | AT | | | | | BU | |
+(2) Manually controlled ILS approaches with a simulated failure of one powerplant which occurs before initiating the final approach course and continues to touchdown or through the missed approach procedure | B | | | | | | | AT | | | | | BU | |
 (m) Instrument approaches and missed approaches other than ILS which include the following:
 (1) Nonprecision approaches that the trainee is likely to use | | | | | B | | | | | AT | | | BU | |
 (2) In addition to subparagraph (1) of this paragraph, at least one other nonprecision approach and missed approach procedure that the trainee is likely to use | | | B | | | | | AT | | | | | BU | |
