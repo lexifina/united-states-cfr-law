@@ -1,6 +1,6 @@
 # Appendix P to Part 110—Category 1 and 2 Radioactive Material
 Table 1—Import and Export Threshold Limits
-Radioactive material | Category 1 | Terabequerels(TBq) | Curies(Ci) 1 | Category 2 | Terabequerels(TBq) | Curies(Ci) 1
+Radioactive material | Category 1 | Terabecquerels(TBq) | Curies(Ci) 1 | Category 2 | Terabecquerels(TBq) | Curies(Ci) 1
 Americium-241 | 60 | 1,600 | 0.6 | 16
 Americium-241/Be | 60 | 1,600 | 0.6 | 16
 Californium-252 | 20 | 540 | 0.2 | 5.4
