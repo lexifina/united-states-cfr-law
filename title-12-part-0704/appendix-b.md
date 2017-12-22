@@ -14,8 +14,8 @@ Part I
 (4) Enter into a dollar roll transaction.
 (b) In performing the rate stress tests set forth in § 704.8(d), the NEV of a corporate credit union that has met the requirements of this Part I may decline as much as:
 (1) 20 percent;
-(2) 28 percent if the corporate credit union has a seven percent minimum leverage ratio and is specifically approved by NCUA; or
-(3) 35 percent if the corporate credit union has an eight percent minimum leverage ratio and is specifically approved by NCUA.
+(2) 28 percent if the corporate credit union has a seven percent minimum leverage ratio and a two and a half percent retained earnings ratio, and is specifically approved by the NCUA; or
+(3) 35 percent if the corporate credit union has an eight percent minimum leverage ratio and a three percent retained earnings ratio and is specifically approved by the NCUA.
 (c) The maximum aggregate amount in unsecured loans and lines of credit to any one member credit union, excluding pass-through and guaranteed loans from the CLF and the NCUSIF, must not exceed 100 percent of the corporate credit union's total capital. The board of directors must establish the limit, as a percent of the corporate credit union's total capital plus pledged shares, for secured loans and lines of credit.
 (d) The aggregate total of investments purchased under the authority of Part I (a)(1) and Part I (a)(2) may not exceed the lower of 500 percent of the corporate credit union's total capital or 25 percent of assets.
 Part II
