@@ -2,10 +2,9 @@
 Fuel type | Default CH4 emission factor (kg CH4/mmBtu) | Default N2O emission factor (kg N2O/mmBtu)
 Coal and Coke (All fuel types in Table C-1) | 1.1 × 10− 02 | 1.6 × 10− 03
 Natural Gas | 1.0 × 10− 03 | 1.0 × 10− 04
-Petroleum (All fuel types in Table C-1) | 3.0 × 10− 03 | 6.0 × 10− 04
+Petroleum Products (All fuel types in Table C-1) | 3.0 × 10− 03 | 6.0 × 10− 04
 Fuel Gas | 3.0 × 10− 03 | 6.0 × 10− 04
-Municipal Solid Waste | 3.2 × 10− 02 | 4.2 × 10− 03
-Tires | 3.2 × 10− 02 | 4.2 × 10− 03
+Other Fuels—Solid | 3.2 × 10− 02 | 4.2 × 10− 03
 Blast Furnace Gas | 2.2 × 10− 05 | 1.0 × 10− 04
 Coke Oven Gas | 4.8 × 10− 04 | 1.0 × 10− 04
 Biomass Fuels—Solid (All fuel types in Table C-1, except wood and wood residuals) | 3.2 × 10− 02 | 4.2 × 10− 03

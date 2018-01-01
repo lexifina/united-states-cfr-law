@@ -13,7 +13,7 @@ Mixed (Industrial sector) | 22.35 | 94.67
 Mixed (Electric Power sector) | 19.73 | 95.52
 Natural gas | mmBtu/scf | kg CO2/mmBtu
 (Weighted U.S. Average) | 1.026 × 10− 3 | 53.06
-Petroleum products | mmBtu/gallon | kg CO2/mmBtu
+Petroleum products—liquid | mmBtu/gallon | kg CO2/mmBtu
 Distillate Fuel Oil No. 1 | 0.139 | 73.25
 Distillate Fuel Oil No. 2 | 0.138 | 73.96
 Distillate Fuel Oil No. 4 | 0.146 | 75.04
@@ -36,7 +36,6 @@ Natural Gasoline | 0.110 | 66.88
 Other Oil (>401 deg F) | 0.139 | 76.22
 Pentanes Plus | 0.110 | 70.02
 Petrochemical Feedstocks | 0.125 | 71.02
-Petroleum Coke | 0.143 | 102.41
 Special Naphtha | 0.125 | 72.34
 Unfinished Oils | 0.139 | 74.54
 Heavy Gas Oils | 0.148 | 74.92
@@ -46,15 +45,17 @@ Aviation Gasoline | 0.120 | 69.25
 Kerosene-Type Jet Fuel | 0.135 | 72.22
 Asphalt and Road Oil | 0.158 | 75.36
 Crude Oil | 0.138 | 74.54
+Petroleum products—solid | mmBtu/short ton | kg CO2/mmBtu.
+Petroleum Coke | 30.00 | 102.41.
+Petroleum products—gaseous | mmBtu/scf | kg CO2/mmBtu.
+Propane Gas | 2.516 × 10− 3 | 61.46.
 Other fuels—solid | mmBtu/short ton | kg CO2/mmBtu
 Municipal Solid Waste | 9.95 3 | 90.7
 Tires | 28.00 | 85.97
 Plastics | 38.00 | 75.00
-Petroleum Coke | 30.00 | 102.41
 Other fuels—gaseous | mmBtu/scf | kg CO2/mmBtu
 Blast Furnace Gas | 0.092 × 10− 3 | 274.32
 Coke Oven Gas | 0.599 × 10− 3 | 46.85
-Propane Gas | 2.516 × 10− 3 | 61.46
 Fuel Gas 4 | 1.388 × 10− 3 | 59.00
 Biomass fuels—solid | mmBtu/short ton | kg CO2/mmBtu
 Wood and Wood Residuals (dry basis) 5 | 17.48 | 93.80
@@ -74,17 +75,3 @@ Vegetable Oil | 0.120 | 81.55
 3 Use of this default HHV is allowed only for: (a) Units that combust MSW, do not generate steam, and are allowed to use Tier 1; (b) units that derive no more than 10 percent of their annual heat input from MSW and/or tires; and (c) small batch incinerators that combust no more than 1,000 tons of MSW per year.
 4 Reporters subject to subpart X of this part that are complying with § 98.243(d) or subpart Y of this part may only use the default HHV and the default CO2 emission factor for fuel gas combustion under the conditions prescribed in § 98.243(d)(2)(i) and (d)(2)(ii) and § 98.252(a)(1) and (a)(2), respectively. Otherwise, reporters subject to subpart X or subpart Y shall use either Tier 3 (Equation C-5) or Tier 4.
 5 Use the following formula to calculate a wet basis HHV for use in Equation C-1: HHVw = ((100 − M)/100)*HHVd where HHVw = wet basis HHV, M = moisture content (percent) and HHVd = dry basis HHV from Table C-1.
-At 81 FR 89252, Dec. 9, 2016, Table C-1 to Subpart C of Part 98 was amended by:
-a. Removing the entries "Petroleum Coke" under "Petroleum products", "Petroleum Coke" under "Other fuels—solid", and "Propane Gas" under "Other fuels—gaseous";
-b. Removing the heading "Petroleum products" in the "Fuel type" column and adding in its place the heading "Petroleum products—liquid"; and
-c. Adding heading "Petroleum products—solid" and its entry "Petroleum Coke", and heading "Petroleum products—gaseous", and its entry "Propane Gas" after the entry "Crude Oil", effective Jan. 1, 2018. For the convenience of the user, the added text is set forth as follows:
-Table C-1 to Subpart C of Part 98—Default CO2 Emission Factors and High Heat Values for Various Types of Fuel
-[Default CO2 emission factors and high heat values for various types of fuel]
-Fuel type | Default high heat value | Default CO2 emission factor
-* * * * * * *
-Petroleum products—solid | mmBtu/short ton | kg CO2/mmBtu
-Petroleum Coke | 30.00 | 102.41
-Petroleum products—gaseous | mmBtu/scf | kg CO2/mmBtu
-Petroleum products—liquid | mmBtu/gallon | kg CO2/mmBtu
-Propane Gas | 2.516 × 10−3 | 61.46
-* * * * * * *
