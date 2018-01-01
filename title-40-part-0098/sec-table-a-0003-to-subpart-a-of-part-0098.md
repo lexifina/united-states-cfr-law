@@ -1,6 +1,6 @@
 # Table A-3 to Subpart A of Part 98—Source Category List for § 98.2(a)(1)
 Source Category List for § 98.2(a)(1)
-Source Categoriesa Applicable in 2010 and Future Years
+Source Categories a Applicable in Reporting Year 2010 and Future Years
 Electricity generation units that report CO2 mass emissions year round through 40 CFR part 75 (subpart D).
 Adipic acid production (subpart E).
 Aluminum production (subpart F).
@@ -18,17 +18,10 @@ Soda ash production (subpart CC).
 Titanium dioxide production (subpart EE).
 Municipal solid waste landfills that generate CH4 in amounts equivalent to 25,000 metric tons CO2e or more per year, as determined according to subpart HH of this part.
 Manure management systems with combined CH4 and N2O emissions in amounts equivalent to 25,000 metric tons CO2e or more per year, as determined according to subpart JJ of this part.
-Additional Source Categories a Applicable in 2011 and Future Years
+Additional Source Categories a Applicable in Reporting Year 2011 and Future Years
 Electrical transmission and distribution equipment use at facilities where the total nameplate capacity of SF6 and PFC containing equipment exceeds 17,820 pounds, as determined under § 98.301 (subpart DD).
 Underground coal mines liberating 36,500,000 actual cubic feet of CH4 or more per year (subpart FF).
 Geologic sequestration of carbon dioxide (subpart RR).
 Electrical transmission and distribution equipment manufacture or refurbishment (subpart SS).
 Injection of carbon dioxide (subpart UU).
-a Source categories are defined in each applicable subpart.
-At 81 FR 89250, Dec. 9, 2016, § Table A-3 to subpart A of part 98 was amended by revising the heading for the entry "Source Categories Applicable in 2010 and Future Years" and the entry for "Additional Source Categories Applicable in 2011 and Future Years", effective Jan. 1, 2018. For the convenience of the user, the revised text is set forth as follows:
-Table A-3 to Subpart A of Part 98—Source Category List for § 98.2(a)(1)
-Source Categories a Applicable in Reporting Year 2010 and Future Years
-* * * * * * *
-Additional Source Categories a Applicable in Reporting Year 2011 and Future Years
-* * * * * * *
 a Source categories are defined in each applicable subpart.
