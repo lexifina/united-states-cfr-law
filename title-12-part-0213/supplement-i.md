@@ -55,6 +55,7 @@ v. From January 1, 2014 through December 31, 2014, the threshold amount is $53,5
 vi. From January 1, 2015 through December 31, 2015, the threshold amount is $54,600.
 vii. From January 1, 2016 through December 31, 2016, the threshold amount is $54,600.
 viii. From January 1, 2017 through December 31, 2017, the threshold amount is $54,600.
+ix. From January 1, 2018 through December 31, 2018, the threshold amount is $55,800.
 2(g) Lessee
 1. Guarantors. Guarantors are not lessees for purposes of the regulation.
 2(h) Lessor
