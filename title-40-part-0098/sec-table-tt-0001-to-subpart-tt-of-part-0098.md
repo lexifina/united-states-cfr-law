@@ -1,28 +1,6 @@
 # Table TT-1 to Subpart TT of Part 98—Default DOC and Decay Rate Values for Industrial Waste Landfills
 Industry/Waste Type | DOC(weight fraction, wet basis) | k[dry climatea] (yr−1) | k[moderate climatea] (yr−1) | k[wet climatea] (yr−1)
 Food Processing (other than industrial sludge) | 0.22 | 0.06 | 0.12 | 0.18
-Pulp and Paper (other than industrial sludge) | 0.20 | 0.02 | 0.03 | 0.04
-Wood and Wood Product (other than industrial sludge) | 0.43 | 0.02 | 0.03 | 0.04
-Construction and Demolition | 0.08 | 0.02 | 0.03 | 0.04
-Industrial Sludge | 0.09 | 0.02 | 0.04 | 0.06
-Inert Waste [i.e., wastes listed in § 98.460(c)(2)] | 0 | 0 | 0 | 0
-Other Industrial Solid Waste (not otherwise listed) | 0.20 | 0.02 | 0.04 | 0.06
-a The applicable climate classification is determined based on the annual rainfall plus the recirculated leachate application rate. Recirculated leachate application rate (in inches/year) is the total volume of leachate recirculated from company records or engineering estimates and applied to the landfill divided by the area of the portion of the landfill containing waste [with appropriate unit conversions].
-(1) Dry climate = precipitation plus recirculated leachate less than 20 inches/year
-(2) Moderate climate = precipitation plus recirculated leachate from 20 to 40 inches/year (inclusive)
-(3) Wet climate = precipitation plus recirculated leachate greater than 40 inches/year
-Alternatively, landfills that use leachate recirculation can elect to use the k value for wet climate rather than calculating the recirculated leachate rate.
-(1) Dry climate = precipitation plus recirculated leachate less than 20 inches/year.
-(2) Moderate climate = precipitation plus recirculated leachate from 20 to 40 inches/year (inclusive).
-(3) Wet climate = precipitation plus recirculated leachate greater than 40 inches/year.
-At 81 FR 89274, Dec. 9, 2016, § Table TT-1 to Subpart TT of Part 98 was amended by:
-a. Removing the entry "Pulp and Paper (other than industrial sludge)";
-b. Adding a heading entry for "Pulp and Paper Industry:"; subheading "Pulp and paper wastes segregated into separate streams:"; subordinate entries for "Boiler Ash", "Wastewater Sludge", "Kraft Recovery Wastes", and "Other Pulp and Paper Wastes (not otherwise listed)"; subheading "Pulp and paper wastes not segregated into separate streams:"; and subordinate entry for "Pulp and paper manufacturing wastes, general (other than industrial sludge)."
-c. Revising the entry "Industrial Sludge" and footnote a; and
-d. Adding footnotes "b" and "c", effective Jan. 1, 2018. For the convenience of the user, the added and revised text is set forth as follows:
-Table TT-1 to Subpart TT of Part 98—Default DOC and Decay Rate Values for Industrial Waste Landfills
-Industry/waste type | DOC(weight fraction, wet basis) | k[dry climate a] (yr −1) | k[moderate climate a] (yr −1) | k[wet climate a] (yr −1)
-* * * * * * *
 Pulp and Paper Industry:
 Pulp and paper wastes segregated into separate streams:
 Boiler Ash | 0.06 | 0.02 | 0.03 | 0.04
@@ -31,9 +9,11 @@ Kraft Recovery Wastes b | 0.025 | 0.02 | 0.03 | 0.04
 Other Pulp and Paper Wastes (not otherwise listed) | 0.20 | 0.02 | 0.03 | 0.04
 Pulp and paper wastes not segregated into separate streams:
 Pulp and paper manufacturing wastes, general (other than industrial sludge) | 0.15 | 0.02 | 0.03 | 0.04
-* * * * * * *
+Wood and Wood Product (other than industrial sludge) | 0.43 | 0.02 | 0.03 | 0.04
+Construction and Demolition | 0.08 | 0.02 | 0.03 | 0.04
 Industrial Sludge c | 0.09 | 0.02 | 0.04 | 0.06
-* * * * * * *
+Inert Waste [i.e., wastes listed in § 98.460(c)(2)] | 0 | 0 | 0 | 0
+Other Industrial Solid Waste (not otherwise listed) | 0.20 | 0.02 | 0.04 | 0.06
 a The applicable climate classification is determined based on the annual rainfall plus the recirculated leachate application rate. Recirculated leachate application rate (in inches/year) is the total volume of leachate recirculated from company records or engineering estimates and applied to the landfill divided by the area of the portion of the landfill containing waste [with appropriate unit conversions].
 Dry climate = precipitation plus recirculated leachate less than 20 inches/year;
 Moderate climate = precipitation plus recirculated leachate from 20 to 40 inches/year (inclusive);
