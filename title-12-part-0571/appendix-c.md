@@ -72,3 +72,9 @@ C-5—Model Form for Voluntary "No Marketing" Notice Your Choice To Stop Marketi
 • You may choose to stop all marketing from us and our affiliates.
 • [Your choice to stop marketing from us and our affiliates will apply until you tell us to change your choice.]
 To stop all marketing, contact us [include all that apply]:
+• By telephone: 1-877-###-####
+• On the Web: www.-.com
+• By mail: Check the box and complete the form below, and send the form to:
+[Company name]
+[Company address]
+_Do not market to me.
