@@ -475,7 +475,6 @@ Lighting and marking, Antenna structure | 73.1213
 Limitation on daytime radiation (AM) | 73.187
 Limited time | 73.1725
 Lists retention; Sponsorship identification; related requirements | 73.1212
-Location, Main studio | 73.1125
 Location of transmitter—
 FM | 73.315
 TV | 73.685
@@ -491,7 +490,6 @@ Logs and records, Availability to FCC | 73.1226
 Lottery or random selection licensing | 1.1601-1.1623, 73.3572, 73.3584, 73.3597
 Lottery information, Broadcast of | 73.1211
 M
-Main studio location | 73.1125
 Main transmitters | 73.1665
 Maintenance and tests, Operation for | 73.1520
 Marking and Lighting, Antenna structure | 73.1213
@@ -740,7 +738,6 @@ Station inspections by FCC | 73.1225
 Station license period | 73.1020
 Station location | 73.1120
 Station log | 73.1820
-Station, main studio location | 73.1125
 Station transferring | 73.1150
 Stations, Assignment of, to channels (AM) | 73.28
 Stations at spacings below the minimum separation (FM) | 73.213
@@ -756,7 +753,6 @@ Stereophonic sound transmission standards—
 AM | 73.128
 FM | 73.322
 TV | 73.682
-Studio location, Main | 73.1125
 Subcarrier multiplex, transmission standards—
 FM | 73.319
 Subcarrier, multiplex, Use of—
