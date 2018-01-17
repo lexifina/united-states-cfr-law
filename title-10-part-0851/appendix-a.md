@@ -17,23 +17,53 @@ This appendix establishes the mandatory requirements for implementing the applic
 (b) An acceptable fire protection program must include those fire protection criteria and procedures, analyses, hardware and systems, apparatus and equipment, and personnel that would comprehensively ensure that the objective in paragraph 2(a) of this section is met. This includes meeting applicable building codes and National Fire Protection Association codes and standards.
 3. Explosives Safety
 (a) Contractors responsible for the use of explosive materials must establish and implement a comprehensive explosives safety program.
-(b) Contractors must comply with the policy and requirements specified in the DOE Manual 440.1-1A, DOE Explosives Safety Manual, Contractor Requirements Document (Attachment 2), January 9, 2006 (incorporated by reference, see § 851.27). A Contractor may choose a successor version, if approved by DOE.
+(b) Contractors must comply with the policy and requirements specified in the appropriate explosives safety technical standard.
 (c) Contractors must determine the applicability of the explosives safety directive requirements to research and development laboratory type operations consistent with the DOE level of protection criteria described in the explosives safety directive.
 4. Pressure Safety
 (a) Contractors must establish safety policies and procedures to ensure that pressure systems are designed, fabricated, tested, inspected, maintained, repaired, and operated by trained and qualified personnel in accordance with applicable and sound engineering principles.
 (b) Contractors must ensure that all pressure vessels, boilers, air receivers, and supporting piping systems conform to:
-(1) The applicable American Society of Mechanical Engineers (ASME) Boiler and Pressure Vessel Code (2004); sections I through section XII including applicable Code Cases (incorporated by reference, see § 851.27)
-(2) The applicable ASME B31 (Code for Pressure Piping) standards as indicated below; and or as indicated in paragraph (b)(3) of this section:
-(i) B31.1—2001—Power Piping, and B31.1a—2002—Addenda to ASME B31.1—2001 (incorporated by reference, see § 851.27);
-(ii) B31.2—1968—Fuel Gas Piping (incorporated by reference, see § 851.27);
-(iii) B31.3—2002—Process Piping (incorporated by reference, see § 851.27);
-(iv) B31.4—2002—Pipeline Transportation Systems for Liquid Hydrocarbons and Other Liquids (incorporated by reference, see § 851.27);
-(v) B31.5—2001—Refrigeration Piping and Heat Transfer Components, and B31.5a—2004, Addenda to ASME B31.5—2001 (incorporated by reference, see § 851.27);
-(vi) B31.8—2003—Gas Transmission and Distribution Piping Systems (incorporated by reference, see § 851.27);
-(vii) B31.8S—2001—Managing System Integrity of Gas Pipelines (incorporated by reference, see § 851.27);
-(viii) B31.9—1996—Building Services Piping (incorporated by reference, see § 851.27);
-(ix) B31.11—2002—Slurry Transportation Piping Systems (incorporated by reference, see § 851.27); and
-(x) B31G—1991—Manual for Determining Remaining Strength of Corroded Pipelines (incorporated by reference, see § 851.27).
+(1) The applicable American Society of Mechanical Engineers (ASME) boilers and pressure vessel codes (BPVC), including applicable code cases as indicated in paragraphs (b)(1)(i) through (xxxii) of this section:
+(i) BPVC.I-2015, Section I—Rules for Construction of Power Boilers (incorporated by reference, see § 851.27);
+(ii) BPVC.II.A-2015, Section II-Materials, Part A—Ferrous Material Specifications (Beginning to SA-450) (incorporated by reference, see § 851.27);
+(iii) BPVC.II.A-2015, Section II—Materials, Part A—Ferrous Material Specifications (SA-451 to End) (incorporated by reference, see § 851.27);
+(iv) BPVC.II.B-2015, Section II—Materials, Part B—Nonferrous Material Specifications (incorporated by reference, see § 851.27);
+(v) BPVC.II.C-2015, Section II—Materials, Part C-Specification for Welding Rods; Electrodes, and Filler Metals (incorporated by reference, see § 851.27);
+(vi) BPVC.II.D.C-2015, Section II—Materials, Part D—Properties (Customary) (incorporated by reference, see § 851.27);
+(vii) BPVC.II.D.M-2015, Section II—Materials, Part D—Properties (Metric) (incorporated by reference, see § 851.27);
+(viii) BPVC.III.A-2015, Section III—Rules for Construction of Nuclear Facility Components, Appendices (incorporated by reference, see § 851.27);
+(ix) BPVC.III.1.NB-2015, Section III—Rules for Construction of Nuclear Facility Components, Division I—Subsection NB, Class 1 Components (incorporated by reference, see § 851.27);
+(x) BPVC.III.1.NC-2015, Section III—Rules for Construction of Nuclear Facility Components, Division I—Subsection NC, Class 2 Components (incorporated by reference, see § 851.27);
+(xi) BPVC.III.1.ND-2015, Section III—Rules for Construction of Nuclear Facility Components, Division I—Subsection ND, Class 3 Components (incorporated by reference, see § 851.27);
+(xii) BPVC.III.1.NE-2015, Section III—Rules for Construction of Nuclear Facility Components, Division I—Subsection NE, Class MC Components (incorporated by reference, see § 851.27);
+(xiii) BPVC.III.1.NF-2015, Section III—Rules for Construction of Nuclear Facility Components, Division I—Subsection NF, Supports (incorporated by reference, see § 851.27);
+(xiv) BPVC.III.1.NG-2015, Section III—Rules for Construction of Nuclear Facility Components, Division I—Subsection NG, Core Support Structures (incorporated by reference, see § 851.27);
+(xv) BPVC.III.1.NH-2015, Section III—Rules for Construction of Nuclear Facility Components, Division I—Subsection NH, Class 1 Components in Elevated Temperature Service (incorporated by reference, see § 851.27);
+(xvi) BPVC.III.NCA-2015, Section III—Rules for Construction of Nuclear Facility; Components, Subsection NCA, General Requirements for Division 1 and Division 2 (incorporated by reference, see § 851.27);
+(xvii) BPVC.III.2-2015, Section III—Rules for Construction of Nuclear Facility Components, Division 2, Code for Concrete Containments (incorporated by reference, see § 851.27);
+(xviii) BPVC.III.3-2015, Section III—Rules for Construction of Nuclear Facility Components, Division 3, Containment for Transportation and Storage of Spent Nuclear Fuel and High Level Radioactive Material and Waste (incorporated by reference, see § 851.27);
+(xix) BPVC.III.5-2015, Section III—Rules for Construction of Nuclear Facility Components, Division 5, High Temperature Reactors (incorporated by reference, see § 851.27);
+(xx) BPVC.IV-2015, Section IV, Rules for Construction of Heating Boilers (incorporated by reference, see § 851.27);
+(xxi) BPVC.V-2015, Section V, Nondestructive Examination (incorporated by reference, see § 851.27);
+(xxii) BPVC.VI-2015, Section VI, Recommended Rules for the Care and Operation of Heating Boilers (incorporated by reference, see § 851.27);
+(xxiii) BPVC.VII-2015, Section VII, Recommended Guidelines for the Care of Power Boilers (incorporated by reference, see § 851.27);
+(xxiv) BPVC.VIII.1-2015, Section VIII—Rules for Construction of Pressure Vessels, Division 1 (incorporated by reference, see § 851.27);
+(xxv) BPVC.VIII.2-2015, Section VIII—Rules for Construction of Pressure Vessels, Division 2, Alternative Rules (incorporated by reference, see § 851.27);
+(xxvi) BPVC.VIII.3-2015, Section VIII—Rules for Construction of Pressure Vessels, Division 3, Alternative Rules for Construction of High Pressure Vessels (incorporated by reference, see § 851.27);
+(xxvii) BPVC.IX-2015, Section IX—Welding, Brazing and Fusing Qualifications, Qualification Standard for Welding, Brazing, and Fusing Procedures; Welders; Brazers; and Welding, Brazing, and Fusing Operators (incorporated by reference, see § 851.27);
+(xxviii) BPVC.X-2015, Section X, Fiber—Reinforced Plastic Pressure Vessels (incorporated by reference, see § 851.27);
+(xxix) BPVC.XI-2015, Section XI, Rules for Inservice Inspection of Nuclear Power Plant Components (incorporated by reference, see § 851.27);
+(xxx) BPVC.XII-2015, Section XII, Rules for Construction and Continued Service of Transport Tanks (incorporated by reference, see § 851.27);
+(xxxi) BPVC.CC.BPV-2015, Code Cases, Boilers and Pressure Vessels (incorporated by reference, see § 851.27); and
+(xxxii) BPVC.CC.NC-2015, Code Cases, Nuclear Components (incorporated by reference, see § 851.27).
+(2) The applicable ASME B31 code for pressure piping as indicated in this paragraph; and or as indicated in paragraph (b)(3) of this section:
+(i) B31.1-2016, Power Piping (incorporated by reference, see § 851.27);
+(ii) B31.3-2014, Process Piping (incorporated by reference, see § 851.27);
+(iii) B31.4-2016, Pipeline Transportation Systems for Liquids and Slurries (incorporated by reference, see § 851.27);
+(iv) B31.5-2016, Refrigeration Piping and Heat Transfer Components (incorporated by reference, see § 851.27);
+(v) B31.8-2016, Gas Transmission and Distribution Piping Systems (incorporated by reference, see § 851.27);
+(vi) B31.8S-2014, Managing System Integrity of Gas Pipelines (incorporated by reference, see § 851.27);
+(vii) B31.9-2014, Building Services Piping (incorporated by reference, see § 851.27); and
+(viii) B31G-2012, Manual for Determining the Remaining Strength of Corroded Pipelines (incorporated by reference, see § 851.27).
 (3) The strictest applicable state and local codes.
 (c) When national consensus codes are not applicable (because of pressure range, vessel geometry, use of special materials, etc.), contractors must implement measures to provide equivalent protection and ensure a level of safety greater than or equal to the level of protection afforded by the ASME or applicable state or local code. Measures must include the following:
 (1) Design drawings, sketches, and calculations must be reviewed and approved by a qualified independent design professional (i.e., professional engineer). Documented organizational peer review is acceptable.
@@ -70,7 +100,7 @@ Contractors must implement a comprehensive industrial hygiene program that inclu
 (c) Coordination with cognizant occupational medical, environmental, health physics, and work planning professionals;
 (d) Policies and procedures to mitigate the risk from identified and potential occupational carcinogens;
 (e) Professionally and technically qualified industrial hygienists to manage and implement the industrial hygiene program; and
-(f) Use of respiratory protection equipment tested under the DOE Respirator Acceptance Program for Supplied-air Suits (DOE-Technical Standard-1167-2003) when National Institute for Occupational Safety and Health-approved respiratory protection does not exist for DOE tasks that require such equipment. For security operations conducted in accordance with Presidential Decision Directive 39, U.S. POLICY ON COUNTER TERRORISM, use of Department of Defense military type masks for respiratory protection by security personnel is acceptable.
+(f) Use of respiratory protection equipment tested under the DOE Respirator Acceptance Program for Supplied-Air Suits when the National Institute for Occupational Safety and Health-approved respiratory protection does not exist for DOE tasks that require such equipment. For security operations military type masks for respiratory protection by security personnel is acceptable.
 7. Biological Safety
 (a) Contractors must establish and implement a biological safety program that:
 (1) Establishes an Institutional Biosafety Committee (IBC) or equivalent. The IBC must:
