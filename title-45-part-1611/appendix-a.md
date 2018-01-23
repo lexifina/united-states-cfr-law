@@ -1,24 +1,24 @@
 # Appendix A to Part 1611—Income Level for Individuals Eligible for Assistance
-Legal Services Corporation 2017 Income Guidelines *
-Size of household | 48 Contiguousstates and the District of Columbia | Alaska | Hawaii
-1 | $15,075 | $18,825 | $17,325
-2 | 20,300 | 25,363 | 23,338
-3 | 25,525 | 31,900 | 29,350
-4 | 30,750 | 38,438 | 35,363
-5 | 35,975 | 44,975 | 41,375
-6 | 41,200 | 51,513 | 47,388
-7 | 46,425 | 58,050 | 53,400
-8 | 51,650 | 64,588 | 59,413
-For each additional member of the household in excess of 8, add | 5,225 | 6,538 | 6,013
+Legal Services Corporation 2018 Income Guidelines *
+Size of household | 48 Contiguous States and the District ofColumbia | Alaska | Hawaii
+1 | $15,175 | $18,975 | $17,450
+2 | 20,575 | 25,725 | 23,663
+3 | 25,975 | 32,475 | 29,875
+4 | 31,375 | 39,225 | 36,088
+5 | 36,775 | 45,975 | 42,300
+6 | 42,175 | 52,725 | 48,513
+7 | 47,575 | 59,475 | 54,725
+8 | 52,975 | 66,225 | 60,938
+For each additional member of the household in excess of 8, add: | 5,400 | 6,750 | 6,213
 * The figures in this table represent 125% of the Federal Poverty Guidelines by household size as determined by HHS.
 Reference Chart—200% of Federal Poverty Guidelines
-Size of household | 48 Contiguousstates and the District of Columbia | Alaska | Hawaii
-1 | $24,120 | $30,120 | $27,720
-2 | 32,480 | 40,580 | 37,340
-3 | 40,840 | 51,040 | 46,960
-4 | 49,200 | 61,500 | 56,580
-5 | 57,560 | 71,960 | 66,200
-6 | 65,920 | 82,420 | 75,820
-7 | 74,280 | 92,880 | 85,440
-8 | 82,640 | 103,340 | 95,060
-For each additional member of the household in excess of 8, add | 8,360 | 10,460 | 9,620
+Size of household | 48 Contiguous States and the District ofColumbia | Alaska | Hawaii
+1 | $24,280 | $30,360 | $27,920
+2 | 32,920 | 41,160 | 37,860
+3 | 41,560 | 51,960 | 47,800
+4 | 50,200 | 62,760 | 57,740
+5 | 58,840 | 73,560 | 67,680
+6 | 67,480 | 84,360 | 77,620
+7 | 76,120 | 95,160 | 87,560
+8 | 84,760 | 105,960 | 97,500
+For each additional member of the household in excess of 8, add: | 8,640 | 10,800 | 9,940
