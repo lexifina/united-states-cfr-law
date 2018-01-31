@@ -38,27 +38,28 @@ II. Takeoff:
 In an airplane group with aft fuselage-mounted engines this maneuver may be performed in a non-visual simulator | | | | | |
 (e) Rejected. A rejected takeoff may be performed in an airplane during a normal takeoff run after reaching a reasonable speed determined by giving due consideration to aircraft characteristics, runway length, surface conditions, wind direction and velocity, brake heat energy, and any other pertinent factors that may adversely affect safety or the airplane | | | | B* | | B
 III. Instrument procedures:
-(a) Area departure and area arrival. During each of these maneuvers the applicant must— | B | | | B | | B*
-(1) Adhere to actual or simulated ATC clearances (including assigned radials); and | | | | | |
-(2) Properly use available navigation facilities | | | | | |
-Either area arrival or area departure, but not both, may be waived under § 121.441(d)
-(b) Holding. This maneuver includes entering, maintaining, and leaving holding patterns. It may be performed in connection with either area departure or area arrival | B | | | B | | B
+(a) Area departure and area arrival. During each of these maneuvers the applicant must— | B | ---- | ---- | B | ---- | B*
+(1) Adhere to actual or simulated ATC clearances (including assigned radials); and | ---- | ---- | ---- | ---- | ---- | ----
+(2) Properly use available navigation facilities. | ---- | ---- | ---- | ---- | ---- | ----
+Either area arrival or area departure, but not both, may be waived under § 121.441(d).
+(b) Holding. This maneuver includes entering, maintaining, and leaving holding patterns. It may be performed in connection with either area departure or area arrival. | B | ---- | ---- | B | ---- | B
 (c) ILS and other instrument approaches. There must be the following:
-(1) At least one normal ILS approach | B | | B | | |
-(2) At least one manually controlled ILS approach with a simulated failure of one powerplant. The simulated failure should occur before initiating the final approach course and must continue to touchdown or through the missed approach procedure | B | | | | |
-(3) At least one nonprecision approach procedure that is representative of the nonprecision approach procedures that the certificate holder is likely to use | B | | B | | |
-(4) Demonstration of at least one nonprecision approach procedure on a letdown aid other than the approach procedure performed under subparagraph (3) of this paragraph that the certificate holder is approved to use. | B | | | | B |
-Each instrument approach must be performed according to any procedures and limitations approved for the approach facility used. The instrument approach begins when the airplane is over the initial approach fix for the approach procedure being used (or turned over to the final approach controller in the case of GCA approach) and ends when the airplane touches down on the runway or when transition to a missed approach configuration is completed. Instrument conditions need not be simulated below 100′ above touchdown zone elevation
-(5) For each type of EFVS operation the certificate holder is authorized to conduct, at least one instrument approach must be made using an EFVS. | B | * B | |
-(d) Circling approaches. If the certificate holder is approved for circling minimums below 1000-3, at least one circling approach must be made under the following conditions— | | | B* | | | B*
-(1) The portion of the approach to the authorized minimum circling approach altitude must be made under simulated instrument conditions | B | | | | |
-(2) The approach must be made to the authorized minimum circling approach altitude followed by a change in heading and the necessary maneuvering (by visual reference) to maintain a flight path that permits a normal landing on a runway at least 90° from the final approach course of the simulated instrument portion of the approach | | | | | |
-(3) The circling approach must be performed without excessive maneuvering, and without exceeding the normal operating limits of the airplane. The angle of bank should not exceed 30° | | | | | |
-If local conditions beyond the control of the pilot prohibit the maneuver or prevent it from being performed as required, it may be waived as provided in § 121.441(d): Provided, however, That the maneuver may not be waived under this provision for two successive proficiency checks. The circling approach maneuver is not required for a second-in-command if the certificate holder's manual prohibits a second-in-command from performing a circling approach in operations under this part
-(e) Missed approach | | | | | |
-(1) Each pilot must perform at least one missed approach from an ILS approach | | | B* | | |
-(2) Each pilot in command must perform at least one additional missed approach | | | P* | | |
-A complete approved missed approach procedure must be accomplished at least once. At the discretion of the person conducting the check a simulated powerplant failure may be required during any of the missed approaches. These maneuvers may be performed either independently or in conjunction with maneuvers required under Sections III or V of this appendix. At least one missed approach must be performed in flight
+(1) At least one normal ILS approach. | B | ---- | B | ---- | ---- | ----
+(2) At least one manually controlled ILS approach with a simulated failure of one powerplant. The simulated failure should occur before initiating the final approach course and must continue to touchdown or through the missed approach procedure. | B | ---- | ---- | ---- | ---- | ----
+(3) At least one nonprecision approach procedure that is representative of the non-precision approach procedures that the certificate holder is likely to use. | B | ---- | B | ---- | ---- | ----
+(4) Demonstration of at least one nonprecision approach procedure on a letdown aid other than the approach procedure performed under subparagraph (3) of this paragraph that the certificate holder is approved to use. | B | ---- | ---- | ---- | B | ----
+(5) For each type of EFVS operation the certificate holder is authorized to conduct, at least one instrument approach must be made using an EFVS. | B | B*
+Each instrument approach must be performed according to any procedures and limitations approved for the approach facility used. The instrument approach begins when the airplane is over the initial approach fix for the approach procedure being used (or turned over to the final approach controller in the case of a GCA approach) and ends when the airplane touches down on the runway or when transition to a missed approach configuration is completed. Instrument conditions need not be simulated below 100' above touchdown zone elevation.
+(d) Circling approaches. If the certificate holder is approved for circling minimums below 1000-3, at least one circling approach must be made under the following conditions. | ---- | ---- | B* | ---- | ---- | B*
+(1) The portion of the approach to the authorized minimum circling approach altitude must be made under simulated instrument conditions. | B | ---- | ---- | ---- | ---- | ----
+(2) The approach must be made to the authorized minimum circling approach attitude followed by a change in heading and the necessary maneuvering by visual reference to maintain a flight path that permits a normal landing on a runway at least 90[degrees] from the final approach course of the simulated instrument portion of the approach. | ---- | ---- | ---- | ---- | ---- | ----
+(3) The circling approach must be performed without excessive maneuvering, and without exceeding the normal operating limits of the airplane. The angle of bank should not exceed 30[degrees] | ---- | ---- | ---- | ---- | ---- | ----
+If local conditions beyond the control of the pilot prohibit the maneuver or prevent it from being performed as required, it may be waived as provided in § 121.441(d): Provided, however, that the maneuver may not be waived under this provision for two successive proficiency checks.
+The circling approach maneuver is not required for a second-in-command if the certificate holder's manual prohibits a second-in-command from performing a circling approach in operations under this part.
+(e) Missed Approach | ---- | ---- | ---- | ---- | ---- | ----
+(1) Each pilot must perform at least one missed approach from an ILS approach. | ---- | ---- | B* | ---- | ---- | ----
+(2) Each pilot in command must perform at least one additional missed approach. | ---- | ---- | P* | ---- | ---- | ----
+A complete approved missed approach procedure must be accomplished at least once. At the discretion of the person conducting a check a simulated powerplant failure may be required during any of the missed approaches. These maneuvers may be performed either independently or in conjunction with maneuvers required under Sections III or V of this appendix. At least one missed approach must be performed in flight.
 IV. Inflight Maneuvers:
 (a) Steep turns. At least one steep turn in each direction must be performed. Each steep turn must involve a bank angle of 45° with a heading change of at least 180° but not more than 360° | P | | | P | | P
 (b) Stall Prevention. For the purpose of this maneuver the approved recovery procedure must be initiated at the first indication of an impending stall (buffet, stick shaker, aural warning). Except as provided below there must be at least three stall prevention recoveries as follows: | B | | | B | | B *
