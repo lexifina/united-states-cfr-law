@@ -79,7 +79,7 @@ G135.2.8 Maintenance Program Requirements. In order to conduct an ETOPS flight u
 (e) Task identification. The certificate holder must identify all ETOPS-specific tasks. An ETOPS qualified person must accomplish and certify by signature that the ETOPS-specific task has been completed.
 (f) Centralized maintenance control procedures. The certificate holder must develop procedures for centralized maintenance control for ETOPS.
 (g) ETOPS parts control program. The certificate holder must develop an ETOPS parts control program to ensure the proper identification of parts used to maintain the configuration of airplanes used in ETOPS.
-(h) Enhanced Continuing Analysis and Surveillance System (E-CASS) program. A certificate holder's existing CASS must be enhanced to include all elements of the ETOPS maintenance program. In addition to the reporting requirements of § 135.415 and § 135.417, the program includes reporting procedures, in the form specified in § 135.415(e), for the following significant events detrimental to ETOPS within 96 hours of the occurrence to the certificate holding district office (CHDO):
+(h) Enhanced Continuing Analysis and Surveillance System (E-CASS) program. A certificate holder's existing CASS must be enhanced to include all elements of the ETOPS maintenance program. In addition to the reporting requirements of § 135.415 and § 135.417, the program includes reporting procedures, in the form specified in § 135.415(e), for the following significant events detrimental to ETOPS within 96 hours of the occurrence to the responsible Flight Standards office:
 (1) IFSDs, except planned IFSDs performed for flight training.
 (2) Diversions and turnbacks for failures, malfunctions, or defects associated with any airplane or engine system.
 (3) Uncommanded power or thrust changes or surges.
@@ -87,9 +87,9 @@ G135.2.8 Maintenance Program Requirements. In order to conduct an ETOPS flight u
 (5) Inadvertent fuel loss or unavailability, or uncorrectable fuel imbalance in flight.
 (6) Failures, malfunctions or defects associated with ETOPS Significant Systems.
 (7) Any event that would jeopardize the safe flight and landing of the airplane on an ETOPS flight.
-(i) Propulsion system monitoring. The certificate holder, in coordination with the CHDO, must—
+(i) Propulsion system monitoring. The certificate holder, in coordination with the responsible Flight Standards office, must—
 (1) Establish criteria as to what action is to be taken when adverse trends in propulsion system conditions are detected, and
-(2) Investigate common cause effects or systemic errors and submit the findings to the CHDO within 30 days.
+(2) Investigate common cause effects or systemic errors and submit the findings to the responsible Flight Standards office within 30 days.
 (j) Engine condition monitoring. (1) The certificate holder must establish an engine-condition monitoring program to detect deterioration at an early stage and to allow for corrective action before safe operation is affected.
 (2) This program must describe the parameters to be monitored, the method of data collection, the method of analyzing data, and the process for taking corrective action.
 (3) The program must ensure that engine limit margins are maintained so that a prolonged engine-inoperative diversion may be conducted at approved power levels and in all expected environmental conditions without exceeding approved engine limits. This includes approved limits for items such as rotor speeds and exhaust gas temperatures.
@@ -97,5 +97,5 @@ G135.2.8 Maintenance Program Requirements. In order to conduct an ETOPS flight u
 (l) APU in-flight start program. If an APU is required for ETOPS, but is not required to run during the ETOPS portion of the flight, the certificate holder must have a program acceptable to the FAA for cold soak in-flight start and run reliability.
 (m) Maintenance training. For each airplane-engine combination, the certificate holder must develop a maintenance training program to ensure that it provides training adequate to support ETOPS. It must include ETOPS specific training for all persons involved in ETOPS maintenance that focuses on the special nature of ETOPS. This training must be in addition to the operator's maintenance training program used to qualify individuals for specific airplanes and engines.
 (n) Configuration, maintenance, and procedures (CMP) document. The certificate holder must use a system to ensure compliance with the minimum requirements set forth in the current version of the CMP document for each airplane-engine combination that has a CMP.
-(o) Reporting. The certificate holder must report quarterly to the CHDO and the airplane and engine manufacturer for each airplane authorized for ETOPS. The report must provide the operating hours and cycles for each airplane.
+(o) Reporting. The certificate holder must report quarterly to the responsible Flight Standards office and the airplane and engine manufacturer for each airplane authorized for ETOPS. The report must provide the operating hours and cycles for each airplane.
 G135.2.9 Delayed compliance date for all airplanes. A certificate holder need not comply with this appendix for any airplane until August 13, 2008.
