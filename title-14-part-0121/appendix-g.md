@@ -1,5 +1,5 @@
 # Appendix G to Part 121—Doppler Radar and Inertial Navigation System (INS): Request for Evaluation; Equipment and Equipment Installation; Training Program; Equipment Accuracy and Reliability; Evaluation Program
-1. Application authority. (a) An applicant for authority to use a Doppler Radar or Inertial Navigation System must submit a request for evaluation of the system to the Flight Standards District Office or International Field Office charged with the overall inspection of its operations 30 days prior to the start of evaluation flights.
+1. Application authority. (a) An applicant for authority to use a Doppler Radar or Inertial Navigation System must submit a request for evaluation of the system to the responsible Flight Standards office charged with the overall inspection of its operations 30 days prior to the start of evaluation flights.
 (b) The application must contain:
 (1) A summary of experience with the system showing to the satisfaction of the Administrator a history of the accuracy and reliability of the system proposed to be used.
 (2) A training program curriculum for initial approval under § 121.405.
