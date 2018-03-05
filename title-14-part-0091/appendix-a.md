@@ -1,6 +1,6 @@
 # Appendix A to Part 91—Category II Operations: Manual, Instruments, Equipment, and Maintenance
 1. Category II Manual
-(a) Application for approval. An applicant for approval of a Category II manual or an amendment to an approved Category II manual must submit the proposed manual or amendment to the Flight Standards District Office having jurisdiction of the area in which the applicant is located. If the application requests an evaluation program, it must include the following:
+(a) Application for approval. An applicant for approval of a Category II manual or an amendment to an approved Category II manual must submit the proposed manual or amendment to the responsible Flight Standards office. If the application requests an evaluation program, it must include the following:
 (1) The location of the aircraft and the place where the demonstrations are to be conducted; and
 (2) The date the demonstrations are to commence (at least 10 days after filing the application).
 (b) Contents. Each Category II manual must contain:
