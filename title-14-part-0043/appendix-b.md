@@ -21,9 +21,9 @@ ____________."
 (Address)
 (c) Except as provided in paragraph (d) of this appendix, for a major repair or major alteration made by a person authorized in § 43.17, the person who performs the major repair or major alteration and the person authorized by § 43.17 to approve that work shall execute an FAA Form 337 at least in duplicate. A completed copy of that form shall be—
 (1) Given to the aircraft owner; and
-(2) Forwarded to the Federal Aviation Administration, Aircraft Registration Branch, AFS-750, Post Office Box 25504, Oklahoma City, OK 73125, within 48 hours after the work is inspected.
+(2) Forwarded to the Federal Aviation Administration, Aircraft Registration Branch, Post Office Box 25504, Oklahoma City, OK 73125, within 48 hours after the work is inspected.
 (d) For extended-range fuel tanks installed within the passenger compartment or a baggage compartment, the person who performs the work and the person authorized to approve the work by § 43.7 shall execute an FAA Form 337 in at least triplicate. A completed copy of that form shall be—
 (1) Placed on board the aircraft as specified in § 91.417 of this chapter;
 (2) Given to the aircraft owner; and
-(3) Forwarded to the Federal Aviation Administration, Aircraft Registration Branch, AFS-751, Post Office Box 25724, Oklahoma City, OK 73125, within 48 hours after the work is inspected.
+(3) Forwarded to the Federal Aviation Administration, Aircraft Registration Branch,, Post Office Box 25724, Oklahoma City, OK 73125, within 48 hours after the work is inspected.
 (Secs. 101, 610, 72 Stat. 737, 780, 49 U.S.C. 1301, 1430)
