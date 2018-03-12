@@ -1364,123 +1364,21 @@ Section 33-24-08-99 Release from Requirements.
 Section 33-24-08-100 Bankruptcy or Other Incapacity of Owner or Operator or Provider of Financial Assurance.
 Section 33-24-08-101 Replenishment of Guarantees, Letters of Credit, or Surety Bonds.
 Oklahoma
-(a) The statutory provisions include
-1. Oklahoma Statutes, Chapter 14: Oklahoma Underground Storage Tank Regulation Act
-Section 301 Short Title
-Section 303 Definitions
-Section 304 Exemptions
-Section 305 Corporation Commission Designated as State Agency to Administer Certain Federal Programs
-Section 307 Corporation Commission—Promulgation of Rules Governing Underground Storage Tank Systems
-Section 308 Permits—Necessity—Application—Issuance—Fees—Denial, Refusal to Issue, Suspension or Revocation—Financial Responsibility Coverage (Except (B), which applies to individuals other than UST owners and operators.)
-Section 308.1 Underground Storage Tank Systems for Petroleum Products—Permit Fee—Penalty—Suspension or Nonrenewal of Permit
-Section 309 Release from Underground Storage Tank System—Reports—Corrective Action—Powers, Duties and Procedures of Corporation Commission
-Section 313 Records, Reports and Informations—Public Inspection—Confidentiality—Disclosure to Federal or State Representatives
-Section 315 Corporation Commission Underground Storage Tank Regulation Revolving Fund
-Section 316 Ordinance or Regulations in Conflict with Act Prohibited
-Section 340 Storage Tank Advisory Council—Members—Quorum—Authority—Rules—Expenses
-2. Oklahoma Statutes, Chapter 15: Oklahoma Petroleum Storage Tank Release Indemnity Program
-Section 350 Short Title—Maintenance, Operation and Administration
-Section 352 Definitions
-Section 353 Petroleum Storage Tank Release Environmental Cleanup Indemnity Fund
-Section 354 Assessments on Motor Fuels, Diesel Fuel and Blending Materials—Exemptions—Deposits in Funds
-Section 356 Collection, Remittance and Reporting of Assessments
-Section 356.1 Confidentiality of Records, Reports or Information—Schedule of Reimbursable Fees
-Section 357 Payment of Claim Subject to Indemnity Fund Acquiring Subrogation Rights—Administrator to Protect Indemnity Fund in Judicial and Administrative Proceedings—Notice of Lawsuit—Enforcement of Third Party Claim
-Section 358 Annual Reports
-Section 359 Audit Relating to Petroleum Storage Tank Release Environmental Cleanup Indemnity Fund
-Section 360 Limitation on Expenditures for Administrative Costs—Reports
-Section 361 Appointment of Administrator—Hiring of Employees—Temporary Workers and Contract Labor
-Section 365 Oklahoma Leaking Underground Storage Tank Trust Fund—Oklahoma Leaking Underground Storage Tank Revolving Fund—Appropriation, Budgeting and Expenditure of Monies—Payments from Funds—Costs of Actions—Emergencies—Reimbursement of Funds—Administrative Penalties
-(b) The regulatory provisions include
-1. Oklahoma Annotated Code, Chapter 25: Underground Storage Tanks
-a. Subchapter 1: General Provisions
-Part 1: Purpose and Statutory Authority
-Part 3: Definitions
-Part 5: Scope of Rules
-Part 7: National Industry Codes
-Part 9: Notification and Reporting Requirements (Except 165:25-1-45, insofar as it requires owners of exempt USTs to notify the Commission of the existence of such systems.)
-b. Subchapter 3: Release Prevention, Detection, and Correction
-Part 1: Release Prohibition, Reporting and Investigation
-Part 3: Recordkeeping
-Part 5: Spill and Overfill Prevention Requirements
-Part 7: Compatibility
-Part 9: Installation of Underground Storage Tank Systems (Except 165:25-3-48, which applies to individuals other than UST owners and operators.)
-Part 11: Repairs to Underground Storage Tank Systems
-Part 13: Removal and Closure of Underground Storage Tank Systems
-Part 15: Corrective Action Requirements
-Part 17: Requirements for Corrosion Protection Systems
-c. Subchapter 5: Requirements for Existing Underground Storage Tank Systems
-d. Subchapter 7: Requirements for New Underground Storage Tank Systems
-Part 1: Design, Construction, and Installation Requirements
-Part 3: General Release Detection Methods and Service
-Part 5: Release Detection Methods and Devices for Petroleum Underground Storage Tank Systems
-e. Subchapter 9: Inspections, Testing, and Monitoring
-Part 3: Fees
-f. Subchapter 11: Administrative Provisions
-g. Subchapter 13: Financial Responsibility Requirements
-Part 1: Applicability
-Part 3: Definitions
-Part 5: Amount and Scope of Coverage
-Part 7: Financial Assurance
-Part 9: Financial Test of Self-Insurance
-Part 11: Guarantee
-Part 13: Insurance and Risk Retention Group Coverage
-Part 15: Surety Bond
-Part 17: Letter of Credit
-Part 19: State Fund or Other State Assurance
-Part 21: Trust Fund
-Part 23: Standby Trust Fund
-Part 25: Substitution of Financial Assurance Mechanisms
-Part 27: Cancellation or Nonrenewal
-Part 29: Reporting
-Part 31: Recordkeeping
-Part 33: Drawing on Financial Assurance Mechanisms
-Part 35: Release from Subchapter 11 Requirements
-Part 37: Bankruptcy or Other Incapacity of Owner/Operator or Provider of Financial Assurance
-Part 39: Replenishment of Guarantees, Letters of Credit, or Surety Bonds
-h. Subchapter 15: Circle K Settlement Fund
-Part 1: General Provisions
-Part 3: Definitions
-Part 5: Eligibility Requirements
-Part 7: Reimbursement
-i. Appendices
-Appendix A: Letter From Chief Financial Officer
-Appendix B: Guarantee
-Appendix C: Endorsement
-Appendix D: Certificate of Insurance
-Appendix E: Performance Bond
-Appendix F: Irrevocable Standby Letter of Credit
-Appendix G: Trust Agreement
-Appendix H: Certification of Financial Responsibility
-Appendix I: Certification of Valid Claim
-Appendix J: Soil and Groundwater Remediation Index
-Appendix K: Soil Cleanup Levels
-Appendix L: Mean Annual Precipitation
-Appendix M: Hydrologically Sensitive Area
-Appendix N: Field Citation Fines
-2. Oklahoma Annotated Code, Chapter 27: Indemnity Fund
-a. Subchapter 1: General Provisions
-Section 165:27-1-1 Purpose
-Section 165:27-1-2 Definitions
-Section 165:27-1-3 Scope
-Section 165:27-1-4 Authority
-Section 165:27-1-5 Citation of Rules
-Section 165:27-1-6 Prescribed Forms
-b. Subchapter 3: Eligibility Requirements
-Section 165:27-3-1 General Requirements
-Section 165:27-3-2 Eligible Person
-Section 165:27-3-3 Eligible Release
-c. Subchapter 5: Qualifications for Reimbursement
-Section 165:27-5-1 Qualifications for Reimbursement
-Section 165:27-5-2 Application for Reimbursement
-Section 165:27-5-3 Application for Supplemental Reimbursement
-d. Subchapter 7: Reimbursement
-Section 165:27-7-1 Reimbursable Expenses
-Section 165:27-7-2 Total Reimbursement
-Section 165:27-7-5 Methods for Reimbursement
-Section 165:27-7-6 Conditions for Reimbursement
-Section 165:27-7-7 Exclusions from Reimbursement
-Section 165:27-7-8 Withholding Reimbursement
+(a) The regulatory provisions include:
+Oklahoma Administrative Code, Title 165, effective August 25, 2016:
+1, Chapter 25 "Underground Storage Tanks".
+Subchapter 1, General Provisions: Part 1, "Purpose", Section 165:25-1-1; Part 3, "Definitions", Section 165:25-1-11; Part 5, "Scope of Rules", Sections 165:25-1-21, 165:25-1-23.1, and 165:25-1-24; Part 9, "Notification and Reporting Requirements", Sections 165:25-1-41, 165:25-1-42, 165:25-1-48, 165:25-1-51; Part 11, "Recordkeeping", 165:25-1-53 through 165:25-1-58, and 165:25-1-60; Part 19, "Operator Training", Sections 165:25-1-120, 165:25-1-122 and 165:25-1-124.
+Subchapter 2, "General Requirements for Underground Storage Tank Systems", Part 1, "Codes and Standards", Sections 165:25-2-1, 165:25-2-2 and 165:25-2-4, Part 3, "Design and Installation", Sections 165:25-2-31 through 165:25-2-33, 165:25-2-35 through 165:25-2-41, Part 5, "Protection Against Corrosion", Sections 165:25-2-51, 165:25-2-52, 165:25-2-53 and 165:25-2-53.1, Part 6, "Piping", Sections 165:25-2-55.1 and 165:25-2-55.2, Part 7, "Dispensers", Sections 165:25-2-71, 165:25-2-72, 165:25-2-73, 165:25-2-75 and 165:25-2-76; Part 9, "Electrical", Section 165:25-2-91; Part 11," Repairs to Underground Storage Tank Systems", Section 165:25-2-111; Part 13 "Removal and Closure of Underground Storage Tank Systems", Sections 165:25-2-131, and 165:25-2-133 through 165:25-2-138.
+Subchapter 3, "Release Prevention and Detection Requirements": Part 1, Release Prohibition Requirements", Section 165:25-3-1; Part 2, "Release Detection Requirements and Methods", Sections 165:25-3-6.20 through 165:25-3-6.29; Part 3, "Release Investigation Requirements", Sections 165:25-3-7.1 and 165:25-3-8; Part 15, "Corrective Action Requirements", Section 165:25-3-70.
+Subchapter 5, "Upgrades", Sections 165:25-5-1 through 165:25-5-4.
+Subchapter 6, "Special Requirements for Underground Storage Tank Systems Utilized by Airports Open to the Public", Part 1, "General Application and Compliance Provisions", Section 165:25-6-1; Part 3, "Codes and Standards", Section 165:25-6-7; Part 5, "Dispense Requirements", Sections 165:25-6-13, 165:25-6-14, 165:25-6-15 and 165:25-6-17; Part 7, "Tank Filling Procedures", Section 165:25-6-21; Part 9, "Dispensing Procedures", Sections 165:25-6-27 and 165:25-6-28; Part 11, "Miscellaneous Safety Requirements", Sections 165:25-6-34 and 165:25-6-35.
+Subchapter 8, "Special Requirements for Underground Storage Tanks Utilized by Marinas": Part 1, "General Application and Compliance Provisions", Sections 165:25-8-1 and 165:25-8-2; Part 3, "Over-water Piping Requirements", Sections 165:25-8-3 and 165:25-8-4; Part 5, "Dispenser Requirements", Sections 165:25-8-14 through 165:25-8-17; Part 9, "Dispensing Procedures", Section 165:25-8-29; Part 11, "Miscellaneous Safety Requirements, Sections 165:25-8-35 and 165:25-8-36.
+Subchapter 14, "Special Requirements for Underground Storage Tank Systems Utilized by Bulk Plant Facilities": Part 1, "General Application and Compliance Provisions", Section 165:25-14-1; Part 3, "Dispenser Requirements", Section 165:25-14-7; Part 5, "Loading Facilities", Sections 165:25-14-13 and 165:25-14-14; Part 7, "Tank Filling Procedures", Section 165:25-14-20; Part 9, "Dispensing Procedures", Sections 165:25-14-26 and 165:25-14-27.
+2. Chapter 27 "Indemnity Fund. Subchapter 1, "General Provisions", Section 165:27-1-2; Subchapter 5, "Qualifications for Reimbursement", Section 165:27-5-2; Subchapter 7, "Reimbursement", Sections 165:27-7-2 and 165:27-7-6.
+3. Chapter 29 "Corrective Action of Petroleum Storage Tank Releases":
+Subchapter 1, "General Provisions": Part 1, "Purpose and Statutory Authority", Sections 165:29-1-1 and 165:29-1-2; Part 3, "Definitions", Section 165:29-1-11; Part 5, "Scope of Rules", Section 165:29-1-21; Part 7, "National Industry Codes", Sections 165:29-1-31 and 165:29-1-32;.
+Subchapter 3, "Release Prevention, Detection and Correction": Part 1, "Release Prohibition, Reporting and Investigation", Sections 165:29-3-1, 165:29-3-2 and 165:29-3-3; Part 3, "Removal and Closure of Petroleum Storage Tank Systems", Section 165:29-3-65; Part 5, "Corrective Action Requirements", Sections 165:29-3-71 through 165:29-3-76, Sections 165:29-3-78, 165:29-3-79, 165:29-3-80, 165:29-3-82 and 165:29-3-83.
+(b) Copies of the Oklahoma regulations that are incorporated by reference are available from the State's Office of Administrative Rules, Secretary of State, P.O. Box 53390, Oklahoma City, OK 73152-3390; Phone number: 405-521-4911; website: https://www.sos.ok.gov/oar/Default.aspx.
 Oregon
 (a) The statutory provisions include:
 (1) Chapter 465, Hazardous Waste and Hazardous Materials I (Removal or Remedial Action Sections 465.200 through 465.482 and 465.900.):
