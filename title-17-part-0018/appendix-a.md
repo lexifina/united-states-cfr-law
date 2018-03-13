@@ -237,8 +237,8 @@ a. If the reporting trader is engaged in CIT (as defined in paragraph (b)) with 
 14iii. If the reporting trader is currently engaged in commodity index trading as defined in paragraphs (a) or (b) of the CIT definition above, indicate the month and year on which the reporting trader first became engaged in commodity index trading.
 Swaps Participation Indicators
 For questions 15 and 16, please indicate if the reporting trader meets the specified definition:
-15. Is the reporting trader a Swap Dealer, as defined in § 1.3(ppp) of regulations under the Commodity Exchange Act? YES/NO
-16. Is the reporting trader a Major Swap Participant, as defined in § 1.3(qqq) of regulations under the Commodity Exchange Act? YES/NO
+15. Is the reporting trader a Swap Dealer, as defined in § 1.3 of regulations under the Commodity Exchange Act? YES/NO
+16. Is the reporting trader a Major Swap Participant, as defined in § 1.3 of regulations under the Commodity Exchange Act? YES/NO
 Nature of Business and of Derivatives Trading Activities
 For questions 17, 18, and 19 provide the requested information only as applicable.
 17. Select all business sectors and subsectors that pertain to the business activities or occupation of the reporting trader. If more than one business subsector is selected, indicate which business subsector primarily describes the nature of the reporting trader's business.
