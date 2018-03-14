@@ -1,14 +1,14 @@
 # Appendix 1 to Subpart P of Part 404—Listing of Impairments
 The body system listings in parts A and B of the Listing of Impairments will no longer be effective on the following dates unless extended by the Commissioner or revised and promulgated again.
 1. Low Birth Weight and Failure to Thrive (100.00): June 12, 2020.
-2. Musculoskeletal System (1.00 and 101.00): January 26, 2018.
+2. Musculoskeletal System (1.00 and 101.00): January 27, 2020.
 3. Special Senses and Speech (2.00 and 102.00): April 29, 2018.
 4. Respiratory Disorders (3.00 and 103.00): October 7, 2019.
-5. Cardiovascular System (4.00 and 104.00): January 26, 2018.
-6. Digestive System (5.00 and 105.00): January 26, 2018.
+5. Cardiovascular System (4.00 and 104.00): January 27, 2020.
+6. Digestive System (5.00 and 105.00): January 27, 2020.
 7. Genitourinary Disorders (6.00 and 106.00): December 9, 2019.
 8. Hematological Disorders (7.00 and 107.00): May 18, 2020.
-9. Skin Disorders (8.00 and 108.00): January 26, 2018.
+9. Skin Disorders (8.00 and 108.00): January 27, 2020.
 10. Endocrine Disorders (9.00 and 109.00): June 8, 2018.
 11. Congenital Disorders That Affect Multiple Body Systems (10.00 and 110.00): April 5, 2018.
 12. Neurological Disorders (11.00 and 111.00): September 29, 2021.
@@ -998,7 +998,7 @@ G. How do we use the functional criteria in 7.18?
 6. Social functioning includes the capacity to interact with others independently, appropriately, effectively, and on a sustained basis. It includes the ability to communicate effectively with others. We will find that you have a "marked" limitation in maintaining social functioning if you have a serious limitation in social interaction on a sustained basis because of symptoms such as pain, severe fatigue, anxiety, or difficulty concentrating, or a pattern of exacerbation and remission, caused by your hematological disorder (including complications of the disorder) or its treatment, even if you are able to communicate with close friends or relatives.
 7. Completing tasks in a timely manner involves the ability to sustain concentration, persistence, or pace to permit timely completion of tasks commonly found in work settings. We will find that you have a "marked" limitation in completing tasks if you have a serious limitation in your ability to sustain concentration or pace adequate to complete work-related tasks because of symptoms, such as pain, severe fatigue, anxiety, or difficulty concentrating caused by your hematological disorder (including complications of the disorder) or its treatment, even if you are able to do some routine activities of daily living.
 H. How do we consider your symptoms, including your pain, severe fatigue, and malaise?
-Your symptoms, including pain, severe fatigue, and malaise, may be important factors in our determination whether your hematological disorder(s) meets or medically equals a listing, or in our determination whether you are otherwise able to work. We cannot consider your symptoms unless you have medical signs or laboratory findings showing the existence of a medically determinable impairment(s) that could reasonably be expected to produce the symptoms. If you have such an impairment(s), we will evaluate the intensity, persistence, and functional effects of your symptoms using the rules throughout 7.00 and in our other regulations. (See sections 404.1521, 404.1529, 416.921, and 416.929 of this chapter.) Additionally, when we assess the credibility of your complaints about your symptoms and their functional effects, we will not draw any inferences from the fact that you do not receive treatment or that you are not following treatment without considering all of the relevant evidence in your case record, including any explanations you provide that may explain why you are not receiving or following treatment.
+Your symptoms, including pain, severe fatigue, and malaise, may be important factors in our determination whether your hematological disorder(s) meets or medically equals a listing, or in our determination whether you are otherwise able to work. We cannot consider your symptoms unless you have medical signs or laboratory findings showing the existence of a medically determinable impairment(s) that could reasonably be expected to produce the symptoms. If you have such an impairment(s), we will evaluate the intensity, persistence, and functional effects of your symptoms using the rules throughout 7.00 and in our other regulations. (See sections 404.1521, 404.1529, 416.921, and 416.929 of this chapter.) Additionally, when we assess the credibility of yourcomplaints about your symptoms and their functional effects, we will not draw any inferences from the fact that you do not receive treatment or that you are not following treatment without considering all of the relevant evidence in your case record, including any explanations you provide that may explain why you are not receiving or following treatment.
 I. How do we evaluate episodic events in hematological disorders?
 Some of the listings in this body system require a specific number of events within a consecutive 12-month period. (See 7.05, 7.08, and 7.10A.) When we use such criteria, a consecutive 12-month period means a period of 12 consecutive months, all or part of which must occur within the period we are considering in connection with your application or continuing disability review. These events must occur at least 30 days apart to ensure that we are evaluating separate events.
 J. How do we evaluate hematological disorders that do not meet one of these listings?
@@ -1145,7 +1145,7 @@ a. Generalized tonic-clonic seizures are characterized by loss of consciousness 
 b. Dyscognitive seizures are characterized by alteration of consciousness without convulsions or loss of muscle control. During the seizure, blank staring, change of facial expression, and automatisms (such as lip smacking, chewing or swallowing, or repetitive simple actions, such as gestures or verbal utterances) may occur. During its course, a dyscognitive seizure may progress into a generalized tonic-clonic seizure (see 11.00H1a).
 2. Description of seizure. We require at least one detailed description of your seizures from someone, preferably a medical professional, who has observed at least one of your typical seizures. If you experience more than one type of seizure, we require a description of each type.
 3. Serum drug levels. We do not require serum drug levels; therefore, we will not purchase them. However, if serum drug levels are available in your medical records, we will evaluate them in the context of the other evidence in your case record.
-4. Counting seizures. The period specified in 11.02A, B, or C cannot begin earlier than one month after you began prescribed treatment. The required number of seizures must occur within the period we are considering in connection with your application or continuing disability review. When we evaluate the frequency of your seizures, we also consider your adherence to prescribed treatment (see 11.00C). When we determine the number of seizures you have had in the specified period, we will:
+4. Counting seizures. The period specified in 11.02A, B, C, or D cannot begin earlier than one month after you began prescribed treatment. The required number of seizures must occur within the period we are considering in connection with your application or continuing disability review. When we evaluate the frequency of your seizures, we also consider your adherence to prescribed treatment (see 11.00C). When we determine the number of seizures you have had in the specified period, we will:
 a. Count multiple seizures occurring in a 24-hour period as one seizure.
 b. Count status epilepticus (a continuous series of seizures without return to consciousness between seizures) as one seizure.
 c. Count a dyscognitive seizure that progresses into a generalized tonic-clonic seizure as one generalized tonic-clonic seizure.
@@ -1757,7 +1757,6 @@ A. Inoperable or unresectable.
 OR
 B. Persistent or recurrent disease following initial anticancer therapy, except persistence or recurrence in the true vocal cord.
 OR
-OR
 C. With metastases beyond the regional lymph nodes.
 OR
 D. Small-cell (oat cell) carcinoma.
@@ -1767,11 +1766,6 @@ E. Soft tissue cancers originating in the head and neck treated with multimodal 
 A. Sarcoma or carcinoma with metastases to or beyond the regional lymph nodes.
 OR
 B. Carcinoma invading deep extradermal structures (for example, skeletal muscle, cartilage, or bone).
-1. Recurrent after wide excision (except an additional primary melanoma at a different site, which is not considered to be recurrent disease).
-2. With metastases as described in a, b, or c:
-a. Metastases to one or more clinically apparent nodes; that is, nodes that are detected by imaging studies (excluding lymphoscintigraphy) or by clinical examination.
-b. If the nodes are not clinically apparent, with metastases to four or more nodes.
-c. Metastases to adjacent skin (satellite lesions) or distant sites.
 13.04 Soft tissue sarcoma.
 A. With regional or distant metastases.
 OR
@@ -4048,7 +4042,7 @@ I. How do we consider the impact of your immune system disorder on your function
 3. We will use the rules in §§ 416.924a and 416.926a of this chapter to evaluate your functional limitations and determine whether your impairment functionally equals the listings.
 J. How do we evaluate your immune system disorder when it does not meet one of these listings?
 1. These listings are only examples of immune system disorders that we consider severe enough to result in marked and severe functional limitations. If your impairment(s) does not meet the criteria of any of these listings, we must also consider whether you have an impairment(s) that satisfies the criteria of a listing in another body system.
-2. Children with immune system disorders, including HIV infection, may manifest signs or symptoms of a mental impairment or of another physical impairment. For example, HIV infection may accelerate the onset of conditions such as diabetes or affect the course of or treatment options for diseases such as cardiovascular disease or hepatitis. We may evaluate these impairments under the affected body system. For example, we will evaluate:
+2. Children with immune system disorders, including HIV infection, may manifest signs or symptoms of a mental impairment or of another physical impairment. For example, HIV infection may accelerate the onset of conditions such as diabetes or affect the course of or treatment options for diseases such as cardiovascular disease or hepatitis. We may evaluate these impairments under the affected body system.For example, we will evaluate:
 a. Growth impairment under 100.00.
 b. Musculoskeletal involvement, such as surgical reconstruction of a joint, under 101.00.
 c. Ocular involvement, such as dry eye, under 102.00.
