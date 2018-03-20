@@ -1,9 +1,8 @@
-# Appendix A to Part 63—Test Methods Pollutant Measurement Methods From Various Waste Media
-Method 301—Field Validation of
-Sec.
+# Appendix A to Part 63—Test Methods
+Method 301—Field Validation of Pollutant Measurement Methods From Various Waste Media
 Using Method 301
 1.0 What is the purpose of Method 301?
-2.0 When must I use Method 301?
+2.0 What approval must I have to use Method 301?
 3.0 What does Method 301 include?
 4.0 How do I perform Method 301?
 Reference Materials
@@ -11,186 +10,268 @@ Reference Materials
 Sampling Procedures
 6.0 What sampling procedures must I use?
 7.0 How do I ensure sample stability?
-Bias and Precision
+Determination of Bias and Precision
 8.0 What are the requirements for bias?
 9.0 What are the requirements for precision?
 10.0 What calculations must I perform for isotopic spiking?
-11.0 What calculations must I perform for comparison with a validated method if I am using quadruplet replicate sampling systems?
+11.0 What calculations must I perform for comparison with a validated method?
 12.0 What calculations must I perform for analyte spiking?
 13.0 How do I conduct tests at similar sources?
 Optional Requirements
 14.0 How do I use and conduct ruggedness testing?
-15.0 How do I determine the Limit of Detection (LOD) for the alternative method?
+15.0 How do I determine the Limit of Detection for the candidate test method?
 Other Requirements and Information
-16.0 How do I apply for approval to use an alternative test method?
+16.0 How do I apply for approval to use a candidate test method?
 17.0 How do I request a waiver?
-18.0 Where can I find additional information
+18.0 Where can I find additional information?
+19.0 Tables.
 Using Method 301
 1.0 What is the purpose of Method 301?
-The purpose of Method 301 is to provide a set of procedures that you, the owner or operator of an affected source subject to requirements under 40 CFR part 63 can use to validate an alternative test method to a test method required in 40 CFR part 63 or to validate a stand-alone alternative test method based on established precision and bias criteria. If you use Method 301 to validate your proposed alternative method, you must use the procedures described in this method. This method describes the minimum procedures that you must use to validate an alternative test method to meet 40 CFR part 63 compliance requirements. If you choose to propose a validation method other than Method 301, you must submit and obtain the Administrator's approval for the alternative validation method.
-2.0 When must I use Method 301?
-If you want to use an alternative test method to meet requirements in a subpart of 40 CFR part 63, you can use Method 301 to validate the alternative test method. You must request approval to use this alternative test method according to the procedures in Sections 16 and 63.7(f). You must receive the Administrator's written approval to use the alternative test method before you use the alternative test method to meet requirements under 40 CFR part 63. In some cases, the Administrator may decide to waive the requirement to use Method 301 for alternative test methods. Section 17 describes the requirements for obtaining a waiver.
+Method 301 provides a set of procedures for the owner or operator of an affected source to validate a candidate test method as an alternative to a required test method based on established precision and bias criteria. These validation procedures are applicable under 40 CFR part 63 or 65 when a test method is proposed as an alternative test method to meet an applicable requirement or in the absence of a validated method. Additionally, the validation procedures of Method 301 are appropriate for demonstration of the suitability of alternative test methods under 40 CFR parts 59, 60, and 61. If, under 40 CFR part 63 or 60, you choose to propose a validation method other than Method 301, you must submit and obtain the Administrator's approval for the candidate validation method.
+2.0 What approval must I have to use Method 301?
+If you want to use a candidate test method to meet requirements in a subpart of 40 CFR part 59, 60, 61, 63, or 65, you must also request approval to use the candidate test method according to the procedures in Section 16 of this method and the appropriate section of the part (§ 59.104, § 59.406, § 60.8(b), § 61.13(h)(1)(ii), § 63.7(f), or § 65.158(a)(2)(iii)). You must receive the Administrator's written approval to use the candidate test method before you use the candidate test method to meet the applicable federal requirements. In some cases, the Administrator may decide to waive the requirement to use Method 301 for a candidate test method to be used to meet a requirement under 40 CFR part 59, 60, 61, 63, or 65 in absence of a validated test method. Section 17 of this method describes the requirements for obtaining a waiver.
 3.0 What does Method 301 include?
-3.1 Procedures. This method includes minimum procedures to determine and document systematic error (bias) and random error (precision) of measured concentrations from exhaust gases, wastewater, sludge, and other media. It contains procedures for ensuring sample stability if such procedures are not included in the test method. This method also includes optional procedures for ruggedness and detection limits.
+3.1 Procedures. Method 301 includes minimum procedures to determine and document systematic error (bias) and random error (precision) of measured concentrations from exhaust gases, wastewater, sludge, and other media. Bias is established by comparing the results of sampling and analysis against a reference value. Bias may be adjusted on a source-specific basis using a correction factor and data obtained during the validation test. Precision may be determined using a paired sampling system or quadruplicate sampling system for isotopic spiking. A quadruplicate sampling system is required when establishing precision for analyte spiking or when comparing a candidate test method to a validated method. If such procedures have not been established and verified for the candidate test method, Method 301 contains procedures for ensuring sample stability by developing sample storage procedures and limitations and then testing them. Method 301 also includes procedures for ruggedness testing and determining detection limits. The procedures for ruggedness testing and determining detection limits are required for candidate test methods that are to be applied to multiple sources and optional for candidate test methods that are to be applied at a single source.
 3.2 Definitions.
-Affected source means affected source as defined in 40 CFR 63.2 and in the relevant subpart under 40 CFR part 63.
-Alternative test method means the sampling and analytical methodology selected for field validation using the method described in this appendix.
-Paired sampling system means a sampling system capable of obtaining two replicate samples that were collected as closely as possible in sampling time and sampling location.
-Quadruplet sampling system means a sampling system capable of obtaining four replicate samples that were collected as closely as possible in sampling time and sampling location.
-Surrogate compound means a compound that serves as a model for the types of compounds being analyzed (i.e., similar chemical structure, properties, behavior). The model can be distinguished by the method from the compounds being analyzed.
+Affected source means an affected source as defined in the relevant part and subpart under Title 40 (e.g., 40 CFR parts 59, 60, 61, 63, and 65).
+Candidate test method means the sampling and analytical methodology selected for field validation using the procedures described in Method 301. The candidate test method may be an alternative test method under 40 CFR part 59, 60, 61, 63, or 65.
+Paired sampling system means a sampling system capable of obtaining two replicate samples that are collected as closely as possible in sampling time and sampling location (collocated).
+Quadruplicate sampling system means a sampling system capable of obtaining four replicate samples (e.g., two pairs of measured data, one pair from each method when comparing a candidate test method against a validated test method, or analyte spiking with two spiked and two unspiked samples) that are collected as close as possible in sampling time and sampling location.
+Surrogate compound means a compound that serves as a model for the target compound(s) being measured (i.e., similar chemical structure, properties, behavior). The surrogate compound can be distinguished by the candidate test method from the compounds being analyzed.
 4.0 How do I perform Method 301?
-First, you introduce a known concentration of an analyte or compare the alternative test method against a validated test method to determine the alternative test method's bias. Then, you collect multiple, collocated simultaneous samples to determine the alternative test method's precision. Alternatively, though it is not required, we allow validation testing over a broad range of concentrations over an extended time period to determine precision of a proposed alternative method. Sections 5.0 through 17.0 describe the procedures in detail.
+First, you use a known concentration of an analyte or compare the candidate test method against a validated test method to determine the bias of the candidate test method. Then, you collect multiple, collocated simultaneous samples to determine the precision of the candidate test method. Additional procedures, including validation testing over a broad range of concentrations over an extended time period are used to expand the applicability of a candidate test method to multiple sources. Sections 5.0 through 17.0 of this method describe the procedures in detail.
 Reference Materials
 5.0 What reference materials must I use?
-You must use reference materials (a material or substance whose one or more properties are sufficiently homogenous to the analyte) that are traceable to a national standards body (e.g., National Institute of Standards and Technology (NIST)) at the level of the applicable emission limitation or standard that the subpart in 40 CFR part 63 requires. If you want to expand the applicable range of the method, you must conduct additional runs with higher and lower analyte concentrations. You must obtain information about your analyte according to the procedures in Sections 5.1 through 5.4.
-5.1 Exhaust Gas Tests Concentration. You must get a known concentration of each analyte from an independent source such as a speciality gas manufacturer, specialty chemical company, or chemical laboratory. You must also get the manufacturer's certification for the analyte concentration and stability.
-5.2 Tests for Other Waste Media. You must get the pure liquid components of each analyte from an independent manufacturer. The manufacturer must certify the purity and shelf life of the pure liquid components. You must dilute the pure liquid components in the same type medium as the waste from the affected source.
-5.3 Surrogate Analytes. If you demonstrate to the Administrator's satisfaction that a surrogate compound behaves as the analyte does, then you may use surrogate compounds for highly toxic or reactive compounds. A surrogate may be an isotope or one that contains a unique element (for example, chlorine) that is not present in the source or a derivation of the toxic or reactive compound if the derivative formation is part of the method's procedure. You may use laboratory experiments or literature data to show behavioral acceptability.
-5.4 Isotopically Labeled Materials. Isotope mixtures may contain the isotope and the natural analyte. The isotope labeled analyte concentration must be more than five times the natural concentration of the analyte.
+You must use reference materials (a material or substance with one or more properties that are sufficiently homogenous to the analyte) that are traceable to a national standards body (e.g., National Institute of Standards and Technology (NIST)) at the level of the applicable emission limitation or standard that the subpart in 40 CFR part 59, 60, 61, 63, or 65 requires. If you want to expand the applicable range of the candidate test method, you must conduct additional test runs using analyte concentrations higher and lower than the applicable emission limitation or the anticipated level of the target analyte. You must obtain information about your analyte according to the procedures in Sections 5.1 through 5.4 of this method.
+5.1 Exhaust Gas Test Concentration. You must obtain a known concentration of each analyte from an independent source such as a specialty gas manufacturer, specialty chemical company, or chemical laboratory. You must also obtain the manufacturer's certification of traceability, uncertainty, and stability for the analyte concentration.
+5.2 Tests for Other Waste Media. You must obtain the pure liquid components of each analyte from an independent manufacturer. The manufacturer must certify the purity, traceability, uncertainty, and shelf life of the pure liquid components. You must dilute the pure liquid components in the same type medium or matrix as the waste from the affected source.
+5.3 Surrogate Analytes. If you demonstrate to the Administrator's satisfaction that a surrogate compound behaves as the analyte does, then you may use surrogate compounds for highly toxic or reactive compounds. A surrogate may be an isotope or compound that contains a unique element (e.g., chlorine) that is not present in the source or a derivation of the toxic or reactive compound if the derivative formation is part of the method's procedure. You may use laboratory experiments or literature data to show behavioral acceptability.
+5.4 Isotopically-Labeled Materials. Isotope mixtures may contain the isotope and the natural analyte. The concentration of the isotopically-labeled analyte must be more than five times the concentration of the naturally-occurring analyte.
 Sampling Procedures
 6.0 What sampling procedures must I use?
-You may determine bias and precision by comparing against a validated test method, using isotopic sampling, or using analyte spiking (or the equivalent). Isotopic sampling can only be used for procedures requiring mass spectrometry or radiological procedures. You must collect samples according to the requirements in Table 1. You must perform the sampling according to the procedures in Sections 6.1 through 6.4.
-6.1 Isotopic Spiking. Spike all 12 samples with the analyte at the concentration in the applicable emission limitation or standard in the subpart of 40 CFR part 63. If there is no applicable emission limitation or standard, spike at the expected level of the samples. Follow the appropriate spiking procedures in Sections 6.3.1 through 6.3.2 for the applicable waste medium.
-6.2 Analyte Spiking. In each quadruplet set, spike half of the samples (two out of the four) with the analyte according to the applicable procedure in Section 6.3.
+You must determine bias and precision by comparison against a validated test method using isotopic spiking or using analyte spiking (or the equivalent). Isotopic spiking can only be used with candidate test methods capable of measuring multiple isotopes simultaneously such as test methods using mass spectrometry or radiological procedures. You must collect samples according to the requirements specified in Table 301-1 of this method. You must perform the sampling according to the procedures in Sections 6.1 through 6.4 of this method.
+6.1 Isotopic Spiking. Spike all 12 samples with isotopically-labelled analyte at an analyte mass or concentration level equivalent to the emission limitation or standard specified in the applicable regulation. If there is no applicable emission limitation or standard, spike the analyte at the expected level of the samples. Follow the applicable spiking procedures in Section 6.3 of this method.
+6.2 Analyte Spiking. In each quadruplicate set, spike half of the samples (two out of the four samples) with the analyte according to the applicable procedure in Section 6.3 of this method. You should spike at an analyte mass or concentration level equivalent to the emission limitation or standard specified in the applicable regulation. If there is no applicable emission limitation or standard, spike the analyte at the expected level of the samples. Follow the applicable spiking procedures in Section 6.3 of this method.
 6.3 Spiking Procedure.
-6.3.1 Gaseous Analyte with Sorbent or Impinger Sampling Trains. Sample the analyte (in the laboratory or in the field) at a concentration that is close to the concentration in the applicable emission limitation or standard in the subpart of 40 CFR Part 63 (or the expected sample concentration where there is no standard) for the time required by the method, and then sample the gas stream for an equal amount of time. The time for sampling both the analyte and gas stream should be equal; however, the time should be adjusted to avoid sorbent breakthrough. The stack gas and the gaseous analyte may be sampled at the same time. The analyte must be introduced as close to the tip of the sampling train as possible.
-6.3.2 Gaseous Analyte with Sample Container (Bag or Canister). Spike the sample containers after completion of each test run with an amount equal to the concentration in the applicable emission limitation or standard in the subpart of 40 CFR part 63 (or the expected sample concentration where there is no standard). The final concentration of the analyte would be approximately equal to the analyte concentration in the stack plus the applicable emission standard (corrected for spike volume). The volume amount of analyte must be less than 10 percent of the sample volume.
-6.3.3 Liquid and Solid Analyte with Sorbent or Impinger Trains. Spike the trains with an amount equal to the concentration in the applicable emission limitation or standard in the subpart of 40 CFR part 63 (or the expected sample concentration where there is no standard) before sampling the stack gas. If possible, do the spiking in the field. If it is not possible to do the spiking in the field, you can do it in the laboratory.
-6.3.4 Liquid and Solid Analyte with Sample Container (Bag or Canister). Spike the containers at the completion of each test run with an amount equal to the concentration in the applicable emission limitation or standard in the subpart of 40 CFR part 63 (or the expected sample concentration where there is no standard).
-6.4 Probe Placement and Arrangement for Stationary Source Stack or Duct Sampling. To sample a stationary source as defined in 40 CFR 63.2, you must place the probe according to the procedures in this subsection. You must place the probes in the same horizontal plane.
-6.4.1 Paired Sampling Probes. For paired sampling probes, the probe tip should be 2.5 cm from the outside edge of the other sample probe, with a pitot tube on the outside of each probe. The Administrator may approve a validation request where other paired arrangements for the pitot tube (where required) are used.
-6.4.2 Quadruplet Sampling Probes. For quadruplet sampling probes, the tips should be in a 6.0 cm × 6.0 cm square area measured from the center line of the opening of the probe tip with a single pitot tube (where required) in the center or two pitot tubes (where required) with their location on either side of the probe tip configuration. You must propose an alternative arrangement whenever the cross-sectional area of the probe tip configuration is approximately five percent or more of the stack or duct cross-sectional area.
+6.3.1 Gaseous Analyte with Sorbent or Impinger Sampling Train. Sample the analyte being spiked (in the laboratory or preferably in the field) at a mass or concentration that is approximately equivalent to the applicable emission limitation or standard (or the expected sample concentration or mass where there is no standard) for the time required by the candidate test method, and then sample the stack gas stream for an equal amount of time. The time for sampling both the analyte and stack gas stream should be equal; however, you must adjust the sampling time to avoid sorbent breakthrough. You may sample the stack gas and the gaseous analyte at the same time. You must introduce the analyte as close to the tip of the sampling probe as possible.
+6.3.2 Gaseous Analyte with Sample Container (Bag or Canister). Spike the sample containers after completion of each test run with an analyte mass or concentration to yield a concentration approximately equivalent to the applicable emission limitation or standard (or the expected sample concentration or mass where there is no standard). Thus, the final concentration of the analyte in the sample container would be approximately equal to the analyte concentration in the stack gas plus the equivalent of the applicable emission standard (corrected for spike volume). The volume amount of spiked gas must be less than 10 percent of the sample volume of the container.
+6.3.3 Liquid or Solid Analyte with Sorbent or Impinger Trains. Spike the sampling trains with an amount approximately equivalent to the mass or concentration in the applicable emission limitation or standard (or the expected sample concentration or mass where there is no standard) before sampling the stack gas. If possible, do the spiking in the field. If it is not possible to do the spiking in the field, you must spike the sampling trains in the laboratory.
+6.3.4 Liquid and Solid Analyte with Sample Container (Bag or Canister). Spike the containers at the completion of each test run with an analyte mass or concentration approximately equivalent to the applicable emission limitation or standard in the subpart (or the expected sample concentration or mass where there is no standard).
+6.4 Probe Placement and Arrangement for Stationary Source Stack or Duct Sampling. To sample a stationary source, you must place the paired or quadruplicate probes according to the procedures in this subsection. You must place the probe tips in the same horizontal plane. Section 17.1 of Method 301 describes conditions for waivers. For example, the Administrator may approve a validation request where other paired arrangements for the probe tips or pitot tubes (where required) are used.
+6.4.1 Paired Sampling Probes. For paired sampling probes, the first probe tip should be 2.5 centimeters (cm) from the outside edge of the second probe tip, with a pitot tube on the outside of each probe.
+6.4.2 Quadruplicate Sampling Probes. For quadruplicate sampling probes, the tips should be in a 6.0 cm × 6.0 cm square area measured from the center line of the opening of the probe tip with a single pitot tube, where required, in the center of the probe tips or two pitot tubes, where required, with their location on either side of the probe tip configuration. Section 17.1 of Method 301 describes conditions for waivers. For example, you must propose an alternative arrangement whenever the cross-sectional area of the probe tip configuration is approximately five percent or more of the stack or duct cross-sectional area.
 7.0 How do I ensure sample stability?
-7.1 Developing Storage and Analysis Procedures. If the alternative test method includes well-established procedures supported by experimental data for sample storage and the time within which the collected samples must be analyzed, you must store the samples according to the procedures in the alternative test method. You are not required to conduct the procedures in Section 7.2 or 7.3. If the alternative test method does not include such procedures, you must propose procedures for storing and analyzing samples to ensure sample stability. At a minimum, your proposed procedures must meet the requirements in Section 7.2 or 7.3. The minimum storage time should be as soon as possible, but no longer than 72 hours after collection of the sample. The maximum storage time should be no longer than two weeks.
-7.2 Storage and Sampling Procedures for Stack Test Emissions. You must store and analyze samples of stack test emissions according to Table 3. If you are using analyte spiking procedures, you must include equal numbers of spiked and unspiked samples.
-7.3 Storage and Sampling Procedures for Testing Other Waste Media (e.g., Soil/Sediment, Solid Waste, Water/Liquid). You must analyze half of the replicate samples at the proposed minimum storage time and the other half at the proposed maximum storage time or within two weeks of the initial analysis to identify the effect of storage times on analyte samples. The minimum storage time should be as soon as possible, but no longer than seven days after collection of the sample.
-7.4 Sample Stability. After you have conducted sampling and analysis according to Section 7.2 or 7.3, compare the results at the minimum and maximum storage times. Calculate the difference in the results using Equation 301-1.
-ER18MY11.002
+7.1 Developing Sample Storage and Threshold Procedures. If the candidate test method includes well-established procedures supported by experimental data for sample storage and the time within which the collected samples must be analyzed, you must store the samples according to the procedures in the candidate test method and you are not required to conduct the procedures specified in Section 7.2 or 7.3 of this method. If the candidate test method does not include such procedures, your candidate method must include procedures for storing and analyzing samples to ensure sample stability. At a minimum, your proposed procedures must meet the requirements in Section 7.2 or 7.3 of this method. The minimum duration between sample collection and storage must be as soon as possible, but no longer than 72 hours after collection of the sample. The maximum storage duration must not be longer than 2 weeks.
+7.2 Storage and Sampling Procedures for Stack Test Emissions. You must store and analyze samples of stack test emissions according to Table 301-2 of this method. You may reanalyze the same sample at both the minimum and maximum storage durations for: (1) Samples collected in containers such as bags or canisters that are not subject to dilution or other preparation steps, or (2) impinger samples not subjected to preparation steps that would affect stability of the sample such as extraction or digestion. For candidate test method samples that do not meet either of these criteria, you must analyze one of a pair of replicate samples at the minimum storage duration and the other replicate at the proposed storage duration but no later than 2 weeks of the initial analysis to identify the effect of storage duration on analyte samples. If you are using the isotopic spiking procedure, then you must analyze each sample for the spiked analyte and the native analyte.
+7.3 Storage and Sampling Procedures for Testing Other Waste Media (e.g., Soil/Sediment, Solid Waste, Water/Liquid). You must analyze one of each pair of replicate samples (half the total samples) at the minimum storage duration and the other replicate (other half of samples) at the maximum storage duration or within 2 weeks of the initial analysis to identify the effect of storage duration on analyte samples. The minimum time period between collection and storage should be as soon as possible, but no longer than 72 hours after collection of the sample.
+7.4 Sample Stability. After you have conducted sampling and analysis according to Section 7.2 or 7.3 of this method, compare the results at the minimum and maximum storage durations. Calculate the difference in the results using Equation 301-1.
+ER20MR18.000
 Where:
-di = difference between the results of the ith sample.
-Rmini = results from the ith sample at the minimum storage time.
-Rmaxi = results from the ith sample at the maximum storage time.
-7.4.1 Standard Deviation. Determine the standard deviation (SDd) of the differences (di's) of the paired samples using Equation 301-2.
-ER18MY11.003
+di = Difference between the results of the ith replicate pair of samples.
+Rmini = Results from the ith replicate sample pair at the minimum storage duration.
+Rmaxi = Results from the ith replicate sample pair at the maximum storage duration.
+For single samples that can be reanalyzed for sample stability assessment (e.g., bag or canister samples and impinger samples that do not require digestion or extraction), the values for Rmini and Rmaxi will be obtained from the same sample rather than replicate samples.
+7.4.1 Standard Deviation. Determine the standard deviation of the paired samples using Equation 301-2.
+ER20MR18.001
 Where:
-di = The difference between the results of the ith sample, Rmini − Rmaxi.
-dm = The mean of the paired sample differences.
+SDd = Standard deviation of the differences of the paired samples.
+di = Difference between the results of the ith replicate pair of samples.
+dm = Mean of the paired sample differences.
 n = Total number of paired samples.
-7.4.2 t Test. Test the difference in the results for statistical significance by calculating the t-statistic and determining if the mean of the differences between the initial results and the results after storage is significant at the 95 percent confidence level and n − 1 degrees of freedom. Calculate the value of the t-statistic using Equation 301-3.
-ER18MY11.004
+7.4.2 T Test. Test the difference in the results for statistical significance by calculating the t-statistic and determining if the mean of the differences between the results at the minimum storage duration and the results after the maximum storage duration is significant at the 95 percent confidence level and n-1 degrees of freedom. Calculate the value of the t-statistic using Equation 301-3.
+ER20MR18.002
 Where:
-n = The total number of paired samples.
-Compare the calculated t-statistic with the critical value of the t-statistic from Table 2. If the calculated t-value is less than the critical value, the difference is not statistically significant; thus, the sampling and analysis procedure ensures stability, and you may submit a request for validation of the proposed alternative test method. If the calculated t-value is greater than the critical value, the difference is statistically significant, and you must repeat the procedures in Section 7.2 or 7.3 with new samples using shorter proposed maximum storage times.
-Bias and Precision
+t = t-statistic.
+dm = The mean of the paired sample differences.
+SDd = Standard deviation of the differences of the paired samples.
+n = Total number of paired samples.
+Compare the calculated t-statistic with the critical value of the t-statistic from Table 301-3 of this method. If the calculated t-value is less than the critical value, the difference is not statistically significant. Therefore, the sampling, analysis, and sample storage procedures ensure stability, and you may submit a request for validation of the candidate test method. If the calculated t-value is greater than the critical value, the difference is statistically significant, and you must repeat the procedures in Section 7.2 or 7.3 of this method with new samples using a shorter proposed maximum storage duration or improved handling and storage procedures.
+Determination of Bias and Precision
 8.0 What are the requirements for bias?
-You must establish bias by comparing the results of the sampling using the alternative test method against a reference value. The bias must be no more than ±10 percent without the use of correction factors, and no more than ±30 percent with the use of correction factors for bias values between 10 and 30 percent for the alternative test method to be acceptable.
+You must determine bias by comparing the results of sampling and analysis using the candidate test method against a reference value. The bias must be no more than ±10 percent for the candidate test method to be considered for application to multiple sources. A candidate test method with a bias greater than ±10 percent and less than or equal to ±30 percent can only be applied on a source-specific basis at the facility at which the validation testing was conducted. In this case, you must use a correction factor for all data collected in the future using the candidate test method. If the bias is more than ±30 percent, the candidate test method is unacceptable.
 9.0 What are the requirements for precision?
-At a minimum, you must use paired sampling systems to establish precision. If you are using analyte spiking, including isotopic samples, the precision expressed as the relative standard deviation (RSD) of the alternative test method at the level of the applicable emission limitation or standard in the subpart of 40 CFR part 63 must be less than or equal to 20 percent. For samples with a precision greater than 20 percent but less than 50 percent, a minimum of nine sample runs will be required. If you are comparing to a validated test method, the alternative test method must be at least as precise as the validated method at the level of the applicable emission limitation or standard in the subpart of 40 CFR part 63 as determined by an F test (Section 11.2.2).
+You may use a paired sampling system or a quadruplicate sampling system to establish precision for isotopic spiking. You must use a quadruplicate sampling system to establish precision for analyte spiking or when comparing a candidate test method to a validated method. If you are using analyte spiking or isotopic spiking, the precision, expressed as the relative standard deviation (RSD) of the candidate test method, must be less than or equal to 20 percent. If you are comparing the candidate test method to a validated test method, the candidate test method must be at least as precise as the validated method as determined by an F test (see Section 11.2.2 of this method).
 10.0 What calculations must I perform for isotopic spiking?
-You must analyze the bias, precision, relative standard deviation, and data acceptance for isotopic spiking tests according to the provisions in Sections 10.1 through 10.3.
-10.1 Numerical Bias. Calculate the numerical value of the bias using the results from the analysis of the isotopically spiked field samples and the calculated value of the isotopically labeled spike according to Equation 301-4.
-ER18MY11.005
+You must analyze the bias, RSD, precision, and data acceptance for isotopic spiking tests according to the provisions in Sections 10.1 through 10.4 of this method.
+10.1 Numerical Bias. Calculate the numerical value of the bias using the results from the analysis of the isotopic spike in the field samples and the calculated value of the spike according to Equation 301-4.
+ER20MR18.003
 Where:
 B = Bias at the spike level.
-Sm = Mean of the measured values of the isotopically spiked samples.
-CS = Calculated value of the isotopically labeled spike.
+Sm = Mean of the measured values of the isotopically-labeled analyte in the samples.
+CS = Calculated value of the isotopically-labeled spike level.
 10.2 Standard Deviation. Calculate the standard deviation of the Si values according to Equation 301-5.
-ER18MY11.006
+ER20MR18.004
 Where:
-Si = Measured value of the isotopically labeled analyte in the i-th field sample,
-n = Number of isotopically spiked samples, 12.
-10.3 t Test. Test the bias for statistical significance by calculating the t-statistic using Equation 301-6. Use the standard deviation determined in Section 10.2 and the numerical bias determined in Section 10.1.
-ER18MY11.007
-Compare the calculated t-value with the critical value of the two-sided t-distribution at the 95 percent confidence level and n-1 degrees of freedom. When spiking is conducted according to the procedures specified in Sections 6.2 and 6.4 as required, this critical value is 2.201 for the 11 degrees of freedom. If the calculated t-value is less than the critical value, the bias is not statistically significant, and the bias of the candidate test method is acceptable. If the calculated t-value is greater than the critical value, the bias is statistically significant, and you must evaluate the relative magnitude of the bias using Equation 301-7.
-ER18MY11.008
+SD = Standard deviation of the candidate test method.
+Si = Measured value of the isotopically-labeled analyte in the ith field sample.
+Sm = Mean of the measured values of the isotopically-labeled analyte in the samples.
+n = Number of isotopically-spiked samples.
+10.3 T Test. Test the bias for statistical significance by calculating the t-statistic using Equation 301-6. Use the standard deviation determined in Section 10.2 of this method and the numerical bias determined in Section 10.1 of this method.
+ER20MR18.005
+Where:
+t = Calculated t-statistic.
+B = Bias at the spike level.
+SD = Standard deviation of the candidate test method.
+n = Number of isotopically spike samples.
+Compare the calculated t-value with the critical value of the two-sided t-distribution at the 95 percent confidence level and n-1 degrees of freedom (see Table 301-3 of this method). When you conduct isotopic spiking according to the procedures specified in Sections 6.1 and 6.3 of this method as required, this critical value is 2.201 for 11 degrees of freedom. If the calculated t-value is less than or equal to the critical value, the bias is not statistically significant, and the bias of the candidate test method is acceptable. If the calculated t-value is greater than the critical value, the bias is statistically significant, and you must evaluate the relative magnitude of the bias using Equation 301-7.
+ER20MR18.006
 Where:
 BR = Relative bias.
-If the relative bias is less than or equal to ten percent, the bias of the candidate test method is acceptable and no correction factors are required. If the relative bias is greater than 10 percent but less than 30 percent, and if you correct all future data collected with the method for the magnitude of the bias, the bias of the candidate test method is acceptable. If either of the preceding two cases applies, you may continue to evaluate the method by calculating its precision. If not, the candidate method will not meet the requirements of Method 301.
-10.4 Relative Standard Deviation. Calculate the RSD according to Equation 301-8.
-ER18MY11.009
+B = Bias at the spike level.
+CS = Calculated value of the spike level.
+If the relative bias is less than or equal to 10 percent, the bias of the candidate test method is acceptable for use at multiple sources. If the relative bias is greater than 10 percent but less than or equal to 30 percent, and if you correct all data collected with the candidate test method in the future for bias using the source-specific correction factor determined in Equation 301-8, the candidate test method is acceptable only for application to the source at which the validation testing was conducted and may not be applied to any other sites. If either of the preceding two cases applies, you may continue to evaluate the candidate test method by calculating its precision. If not, the candidate test method does not meet the requirements of Method 301.
+ER20MR18.007
 Where:
-Sm = The measured mean of the isotopically labeled spiked samples.
-The data and alternative test method are unacceptable if the RSD is greater than 20 percent.
-11.0 What calculations must I perform for comparison with a validated method if I am using quadruplet replicate sampling systems?
-If you are using quadruplet replicate sampling systems to compare an alternative test method to a validated method, then you must analyze the data according to the provisions in this section. If the data from the alternative test method fail either the bias or precision test, the data and the alternative test method are unacceptable. If the Administrator determines that the affected source has highly variable emission rates, the Administrator may require additional precision checks.
+CF = Source-specific bias correction factor.
+B = Bias at the spike level.
+CS = Calculated value of the spike level.
+If the CF is outside the range of 0.70 to 1.30, the data and method are considered unacceptable.
+10.4 Precision. Calculate the RSD according to Equation 301-9.
+ER20MR18.008
+Where:
+RSD = Relative standard deviation of the candidate test method.
+SD = Standard deviation of the candidate test method calculated in Equation 301-5.
+Sm = Mean of the measured values of the spike samples.
+The data and candidate test method are unacceptable if the RSD is greater than 20 percent.
+11.0 What calculations must I perform for comparison with a validated method?
+If you are comparing a candidate test method to a validated method, then you must analyze the data according to the provisions in this section. If the data from the candidate test method fail either the bias or precision test, the data and the candidate test method are unacceptable. If the Administrator determines that the affected source has highly variable emission rates, the Administrator may require additional precision checks.
 11.1 Bias Analysis. Test the bias for statistical significance at the 95 percent confidence level by calculating the t-statistic.
-11.1.1 Bias. Determine the bias, which is defined as the mean of the differences between the alternative test method and the validated method (dm). Calculate di according to Equation 301-9.
-ER18MY11.010
+11.1.1 Bias. Determine the bias, which is defined as the mean of the differences between the candidate test method and the validated method (dm). Calculate di according to Equation 301-10.
+ER20MR18.009
 Where:
-V1i = First measured value with the validated method in the i-th sample.
-V2i = Second measured value with the validated method in the i-th sample.
-P1i = First measured value with the alternative test method in the i-th sample.
-2i = Second measured value with the alternative test method in the i-th sample.
-11.1.2 Standard Deviation of the Differences. Calculate the standard deviation of the differences, SDd, using Equation 301-2.
-11.1.3 t Test. Calculate the t-statistic using Equation 301-3, where n is the total number of test sample differences (di). For the quadruplet sampling system procedure in Section 6.1 and Table 1, n equals four. Compare the calculated t-statistic with the critical value of the t-statistic, and determine if the bias is significant at the 95 percent confidence level. When four runs are conducted, as specified in Section 6.2 and Table 1, the critical value of the t-statistic is 3.182 for three degrees of freedom. If the calculated t-value is less than the critical value, the bias is not statistically significant and the data are acceptable. If the calculated t-value is greater than the critical value, the bias is statistically significant, and you must evaluate the relative magnitude of the bias using Equation 301-10.
-ER18MY11.011
+di = Difference in measured value between the candidate test method and the validated method for each quadruplicate sampling train.
+V1i = First measured value with the validated method in the ith quadruplicate sampling train.
+V2i = Second measured value with the validated method in the ith quadruplicate sampling train.
+P1i = First measured value with the candidate test method in the ith quadruplicate sampling train.
+P2i = Second measured value with the candidate test method in the ith quadruplicate sampling train.
+Calculate the numerical value of the bias using Equation 301-11.
+ER20MR18.010
 Where:
-B = Bias − mean of the di's.
-VS = Mean measured by the validated method.
-If the relative bias is less than or equal to 10 percent, the bias of the candidate test method is acceptable and no correction factors are required. If the relative bias is greater than 10 percent but less than 30 percent, and if you correct all future data collected with the method for the magnitude of the bias, the bias of the candidate test method is acceptable. If either of the preceding two cases applies, you may continue to evaluate the method by calculating its precision. If not, the candidate method will not meet the requirements of Method 301.
-11.2 Precision. Compare the estimated variance (or standard deviation) of the alternative test method to that of the validated method. If a significant difference is determined using the F test, the alternative test method and the results are rejected. If the F test does not show a significant difference, then the alternative test method has acceptable precision. Use the value furnished with the method. Calculate the estimated variance of the validated method using Equation 301-11.
-11.2.1 Alternative Test Method Variance. Calculate the estimated variance of the alternative test method, Sp 2, according to Equation 301-11.
-ER18MY11.012
+B = Numerical bias.
+di = Difference between the candidate test method and the validated method for the ith quadruplicate sampling train.
+n = Number of quadruplicate sampling trains.
+11.1.2 Standard Deviation of the Differences. Calculate the standard deviation of the differences, SDd, using Equation 301-12.
+ER20MR18.011
 Where:
-di = The difference between the i-th pair of samples collected with the alternative test method.
-n = Number of samples and the degrees of freedom.
-11.2.2 F Test. Determine if the estimated variance of the alternative test method is greater than that of the validated method by calculating the F-value using Equation 301-12.
-ER18MY11.013
+SDd = Standard deviation of the differences between the candidate test method and the validated method.
+di = Difference in measured value between the candidate test method and the validated method for each quadruplicate sampling train.
+dm = Mean of the differences, di, between the candidate test method and the validated method.
+n = Number of quadruplicate sampling trains.
+11.1.3 T Test. Calculate the t-statistic using Equation 301-13.
+ER20MR18.012
 Where:
-Sp 2 = The estimated variance of the alternative method.
-Sv 2 = The estimated variance of the validated method.
-Compare the experimental F value with the one-sided confidence level for F. The one-sided confidence level of 95 percent for F is 6.388 when the procedure specified in Section 6.1 and Table 1 for quadruplet trains is followed. If the calculated F is outside the critical range, the difference in precision is significant, and the data and the candidate test method are unacceptable.
+t = Calculated t-statistic.
+dm = The mean of the differences, di, between the candidate test method and the validated method.
+SDd = Standard deviation of the differences between the candidate test method and the validated method.
+n = Number of quadruplicate sampling trains.
+For the procedure comparing a candidate test method to a validated test method listed in Table 301-1 of this method, n equals six. Compare the calculated t-statistic with the critical value of the t-statistic, and determine if the bias is significant at the 95 percent confidence level (see Table 301-3 of this method). When six runs are conducted, as specified in Table 301-1 of this method, the critical value of the t-statistic is 2.571 for five degrees of freedom. If the calculated t-value is less than or equal to the critical value, the bias is not statistically significant and the data are acceptable. If the calculated t-value is greater than the critical value, the bias is statistically significant, and you must evaluate the magnitude of the relative bias using Equation 301-14.
+ER20MR18.013
+Where:
+BR = Relative bias.
+B = Bias as calculated in Equation 301-11.
+VS = Mean of measured values from the validated method.
+If the relative bias is less than or equal to 10 percent, the bias of the candidate test method is acceptable. On a source-specific basis, if the relative bias is greater than 10 percent but less than or equal to 30 percent, and if you correct all data collected in the future with the candidate test method for the bias using the correction factor, CF, determined in Equation 301-8 (using VS for CS), the bias of the candidate test method is acceptable for application to the source at which the validation testing was conducted. If either of the preceding two cases applies, you may continue to evaluate the candidate test method by calculating its precision. If not, the candidate test method does not meet the requirements of Method 301.
+11.2 Precision. Compare the estimated variance (or standard deviation) of the candidate test method to that of the validated test method according to Sections 11.2.1 and 11.2.2 of this method. If a significant difference is determined using the F test, the candidate test method and the results are rejected. If the F test does not show a significant difference, then the candidate test method has acceptable precision.
+11.2.1 Candidate Test Method Variance. Calculate the estimated variance of the candidate test method according to Equation 301-15.
+ER20MR18.014
+Where:
+p = Estimated variance of the candidate test method.
+di = The difference between the ith pair of samples collected with the candidate test method in a single quadruplicate train.
+n = Total number of paired samples (quadruplicate trains).
+Calculate the estimated variance of the validated test method according to Equation 301-16.
+ER20MR18.015
+Where:
+v = Estimated variance of the validated test method.
+di = The difference between the ith pair of samples collected with the validated test method in a single quadruplicate train.
+n = Total number of paired samples (quadruplicate trains).
+11.2.2 The F test. Determine if the estimated variance of the candidate test method is greater than that of the validated method by calculating the F-value using Equation 301-17.
+ER20MR18.016
+Where:
+F = Calculated F value.
+p = The estimated variance of the candidate test method.
+v = The estimated variance of the validated method.
+Compare the calculated F value with the one-sided confidence level for F from Table 301-4 of this method. The upper one-sided confidence level of 95 percent for F(6,6) is 4.28 when the procedure specified in Table 301-1 of this method for quadruplicate sampling trains is followed. If the calculated F value is greater than the critical F value, the difference in precision is significant, and the data and the candidate test method are unacceptable.
 12.0 What calculations must I perform for analyte spiking?
 You must analyze the data for analyte spike testing according to this section.
 12.1 Bias Analysis. Test the bias for statistical significance at the 95 percent confidence level by calculating the t-statistic.
-12.1.1 Bias. Determine the bias using the results from the analysis of the spiked field samples, the unspiked field samples, and the calculated value of the spike using Equation 301-13.
-ER18MY11.014
+12.1.1 Bias. Determine the bias, which is defined as the mean of the differences between the spiked samples and the unspiked samples in each quadruplicate sampling train minus the spiked amount, using Equation 301-18.
+ER20MR18.017
 Where:
-S1i = First measured value of the ith spiked sample.
-S2i = Second measured value of the ith spiked sample.
-M1i = First measured value of the ith unspiked sample.
-M2i = Second measured value of the ith unspiked sample.
-CS = Calculted value of the spiked level.
-12.1.2 Standard Deviation of the Differences. Calculate the standard deviation of the differences, SDd, using Equation 301-2.
-12.1.3 t Test. Calculate the t-statistic using Equation 301-3, where n is the total number of test sample differences (di). For the quadruplet sampling system procedure in Table 1, n equals six. Compare the calculated t-statistic with the critical value of the t-statistic, and determine if the bias is significant at the 95 percent confidence level. When six runs are conducted, as specified in Table 1, the two-sided confidence level critical value is 2.571 for the five degrees of freedom. If the relative bias is less than or equal to 10 percent with no correction factors, or the bias is greater than 10 percent but less than 30 percent with the use of correction factors, then the data are acceptable. Proceed to evaluate precision of the candidate test method.
-ER18MY11.015
+di = Difference between the spiked samples and unspiked samples in each quadruplicate sampling train minus the spiked amount.
+S1i = Measured value of the first spiked sample in the ith quadruplicate sampling train.
+S2i = Measured value of the second spiked sample in the ith quadruplicate sampling train.
+M1i = Measured value of the first unspiked sample in the ith quadruplicate sampling train.
+M2i = Measured value of the second unspiked sample in the ith quadruplicate sampling train.
+CS = Calculated value of the spike level.
+Calculate the numerical value of the bias using Equation 301-19.
+ER20MR18.018
 Where:
-B = Bias − mean of the di's.
-VS = Mean measured by the validated method.
-12.2 Precision. Calculate the standard deviation and the relative standard deviation of the candidate test method. The relative standard deviation of the candidate test method can be calculated using Equation 301-8.
+B = Numerical value of the bias.
+di = Difference between the spiked samples and unspiked samples in each quadruplicate sampling train minus the spiked amount.
+n = Number of quadruplicate sampling trains.
+12.1.2 Standard Deviation of the Differences. Calculate the standard deviation of the differences using Equation 301-20.
+ER20MR18.019
+Where:
+SDd = Standard deviation of the differences of paired samples.
+di = Difference between the spiked samples and unspiked samples in each quadruplicate sampling train minus the spiked amount.
+dm = The mean of the differences, di, between the spiked samples and unspiked samples.
+n = Total number of quadruplicate sampling trains.
+12.1.3 T Test. Calculate the t-statistic using Equation 301-21, where n is the total number of test sample differences (di). For the quadruplicate sampling system procedure in Table 301-1 of this method, n equals six.
+ER20MR18.020
+Where:
+t = Calculated t-statistic.
+d m = Mean of the difference, di, between the spiked samples and unspiked samples.
+SDd = Standard deviation of the differences of paired samples.
+n = Number of quadruplicate sampling trains.
+Compare the calculated t-statistic with the critical value of the t-statistic, and determine if the bias is significant at the 95 percent confidence level. When six quadruplicate runs are conducted, as specified in Table 301-1 of this method, the 2-sided confidence level critical value is 2.571 for the five degrees of freedom. If the calculated t-value is less than the critical value, the bias is not statistically significant and the data are acceptable. If the calculated t-value is greater than the critical value, the bias is statistically significant and you must evaluate the magnitude of the relative bias using Equation 301-22.
+ER20MR18.021
+Where:
+BR = Relative bias.
+B = Bias at the spike level from Equation 301-19.
+CS = Calculated value at the spike level.
+If the relative bias is less than or equal to 10 percent, the bias of the candidate test method is acceptable. On a source-specific basis, if the relative bias is greater than 10 percent but less than or equal to 30 percent, and if you correct all data collected with the candidate test method in the future for the magnitude of the bias using Equation 301-8, the bias of the candidate test method is acceptable for application to the tested source at which the validation testing was conducted. Proceed to evaluate precision of the candidate test method.
+12.2 Precision. Calculate the standard deviation using Equation 301-23.
+ER20MR18.022
+Where:
+SD = Standard deviation of the candidate test method.
+Si = Measured value of the analyte in the ith spiked sample.
+Sm = Mean of the measured values of the analyte in all the spiked samples.
+n = Number of spiked samples.
+Calculate the RSD of the candidate test method using Equation 301-9, where SD and Sm are the values from Equation 301-23. The data and candidate test method are unacceptable if the RSD is greater than 20 percent.
 13.0 How do I conduct tests at similar sources?
-If the Administrator has approved the use of an alternative test method to a test method required in 40 CFR part 63 for an affected source, and the Administrator has approved the use of the alternative test method at your similar source according to the procedures in Section 17.1.1, you must meet the requirements in this section. You must have at least three replicate samples for each test that you conduct at the similar source. You must average the results of the samples to determine the pollutant concentration.
+If the Administrator has approved the use of an alternative test method to a test method required in 40 CFR part 59, 60, 61, 63, or 65 for an affected source, and you would like to apply the alternative test method to a similar source, then you must petition the Administrator as described in Section 17.1.1 of this method.
 Optional Requirements
 14.0 How do I use and conduct ruggedness testing?
-If you want to use a validated test method at a concentration that is different from the concentration in the applicable emission limitation in the subpart of 40 CFR part 63 or for a source category that is different from the source category that the test method specifies, then you must conduct ruggedness testing according to the procedures in Citation 18.16 of Section 18.0 and submit a request for a waiver according to Section 17.1.1.
-Ruggedness testing is a laboratory study to determine the sensitivity of a method to parameters such as sample collection rate, interferant concentration, collecting medium temperature, and sample recovery temperature. You conduct ruggedness testing by changing several variables simultaneously instead of changing one variable at a time. For example, you can determine the effect of seven variables in eight experiments instead of one. (W.J. Youden, Statistical Manual of the Association of Official Analytical Chemists, Association of Official Analytical Chemists, Washington, DC, 1975, pp. 33-36).
-15.0 How do I determine the Limit of Detection for the alternative method?
-15.1 Limit of Detection. The Limit of Detection (LOD) is the lowest level above which you may obtain quantitative results with an acceptable degree of confidence. For this protocol, the LOD is defined as three times the standard deviation, So, at the blank level.
-15.2 Purpose. The LOD will be used to establish the lower limit of the test method. If the estimated LOD is no more than twice the calculated LOD, use Procedure I in Table 4 to determine So. If the LOD is greater than twice the calculated LOD, use Procedure II in Table 4 to determine So. For radiochemical methods, use the Multi-Agency Radiological Laboratory Analytical Protocols (MARLAP) Manual (i.e., use the minimum detectable concentration (MDC) and not the LOD) available at http://www.epa.gov/radiation/docs/marlap/402-b-04-001c-20_final.pdf.
+Ruggedness testing is an optional requirement for validation of a candidate test method that is intended for the source where the validation testing was conducted. Ruggedness testing is required for validation of a candidate test method intended to be used at multiple sources. If you want to use a validated test method at a concentration that is different from the concentration in the applicable emission limitation under 40 CFR part 59, 60, 61, 63, or 65, or for a source category that is different from the source category that the test method specifies, then you must conduct ruggedness testing according to the procedures in Reference 18.16 of Section 18.0 of this method and submit a request for a waiver for conducting Method 301 at that different source category according to Section 17.1.1 of this method.
+Ruggedness testing is a study that can be conducted in the laboratory or the field to determine the sensitivity of a method to parameters such as analyte concentration, sample collection rate, interferent concentration, collection medium temperature, and sample recovery temperature. You conduct ruggedness testing by changing several variables simultaneously instead of changing one variable at a time. For example, you can determine the effect of seven variables in only eight experiments. (W.J. Youden, Statistical Manual of the Association of Official Analytical Chemists, Association of Official Analytical Chemists, Washington, DC, 1975, pp. 33-36).
+15.0 How do I determine the Limit of Detection for the candidate test method?
+Determination of the Limit of Detection (LOD) as specified in Sections 15.1 and 15.2 of this method is required for source-specific method validation and validation of a candidate test method intended to be used for multiple sources.
+15.1 Limit of Detection. The LOD is the minimum concentration of a substance that can be measured and reported with 99 percent confidence that the analyte concentration is greater than zero. For this protocol, the LOD is defined as three times the standard deviation, So, at the blank level.
+15.2 Purpose. The LOD establishes the lower detection limit of the candidate test method. You must calculate the LOD using the applicable procedures found in Table 301-5 of this method. For candidate test methods that collect the analyte in a sample matrix prior to an analytical measurement, you must determine the LOD using Procedure I in Table 301-5 of this method by calculating a method detection limit (MDL) as described in 40 CFR part 136, appendix B. For the purposes of this section, the LOD is equivalent to the calculated MDL. For radiochemical methods, use the Multi-Agency Radiological Laboratory Analytical Protocols (MARLAP) Manual (i.e., use the minimum detectable concentration (MDC) and not the LOD) available at https://www.epa.gov/radiation/marlap-manual-and-supporting-documents.
 Other Requirements and Information
-16.0 How do I apply for approval to use an alternative test method?
-16.1 Submitting Requests. You must request to use an alternative test method according to the procedures in Section 63.7(f). You may not use an alternative test method to meet any requirement under 40 CFR part 63 until the Administrator has approved your request. The request must include a field validation report containing the information in Section 16.2. The request must be submitted to the Director, Air Quality Assessment Division, U.S. Environmental Protection Agency, C304-02, Research Triangle Park, NC 27711.
-16.2 Field Validation Report. The field validation report must contain the information in Sections 16.2.1 through 16.2.8.
+16.0 How do I apply for approval to use a candidate test method?
+16.1 Submitting Requests. You must request to use a candidate test method according to the procedures in § 63.7(f) or similar sections of 40 CFR parts 59, 60, 61, and 65 (§ 59.104, § 59.406, § 60.8(b), § 61.13(h)(1)(ii), or § 65.158(a)(2)(iii)). You cannot use a candidate test method to meet any requirement under these parts until the Administrator has approved your request. The request must include a field validation report containing the information in Section 16.2 of this method. You must submit the request to the Group Leader, Measurement Technology Group, U.S. Environmental Protection Agency, E143-02, Research Triangle Park, NC 27711.
+16.2 Field Validation Report. The field validation report must contain the information in Sections 16.2.1 through 16.2.8 of this method.
 16.2.1 Regulatory objectives for the testing, including a description of the reasons for the test, applicable emission limits, and a description of the source.
-16.2.2 Summary of the results and calculations shown in Sections 6.0 through 16, as applicable.
-16.2.3 Analyte certification and value(s).
+16.2.2 Summary of the results and calculations shown in Sections 6.0 through 16.0 of this method, as applicable.
+16.2.3 Reference material certification and value(s).
 16.2.4 Discussion of laboratory evaluations.
 16.2.5 Discussion of field sampling.
-16.2.6 Discussion of sample preparations and analysis.
+16.2.6 Discussion of sample preparation and analysis.
 16.2.7 Storage times of samples (and extracts, if applicable).
 16.2.8 Reasons for eliminating any results.
 17.0 How do I request a waiver?
-17.1 Conditions for Waivers. If you meet one of the criteria in Sections 17.1.1 through 17.1.2, the Administrator may waive the requirement to use the procedures in this method to validate an alternative test method. In addition, if EPA currently recognizes an appropriate test method or considers the analyst's test method to be satisfactory for a particular source, the Administrator may waive the use of this protocol or may specify a less rigorous validation procedure.
-17.1.1 Similar Sources. If the alternative test method that you want to use has been validated at another source and you can demonstrate to the Administrator's satisfaction that your affected source is similar to that source, then the Administrator may waive the requirement for you to validate the alternative test method. One procedure you may use to demonstrate the applicability of the method to your affected source is by conducting a ruggedness test as described in Section 14.0.
-17.1.2 Documented Methods. If the bias and precision of the alternative test method that you are proposing have been demonstrated through laboratory tests or protocols different from this method, and you can demonstrate to the Administrator's satisfaction that the bias and precision apply to your application, then the Administrator may waive the requirement to use this method or to use part of this method.
-17.2 Submitting Applications for Waivers. You must sign and submit each request for a waiver from the requirements in this method in writing. The request must be submitted to the Director, Air Quality Assessment Division, U.S. Environmental Protection Agency, C304-02, Research Triangle Park, NC 27711.
-17.3 Information Application for Waiver. The request for a waiver must contain a thorough description of the test method, the intended application, and results of any validation or other supporting documents. The request for a waiver must contain, at a minimum, the information in Sections 17.3.1 through 17.3.4. The Administrator may request additional information if necessary to determine whether this method can be waived for a particular application.
-17.3.1 A Clearly Written Test Method. The method should be written preferably in the format of 40 CFR part 60, Appendix A Test Methods. It must include an applicability statement, concentration range, precision, bias (accuracy), and minimum and maximum storage time in which samples must be analyzed.
-17.3.2 Summaries of previous validation tests or other supporting documents. If a different procedure from that described in this method was used, you must submit documents substantiating the bias and precision values to the Administrator's satisfaction.
-17.3.3 Ruggedness Testing Results. You must submit results of ruggedness testing conducted according to Section 14.0, sample stability conducted according to Section 7.0, and detection limits conducted according to Section 15.0, as applicable. For example, you would not need to submit ruggedness testing results if you will be using the method at the same concentration level as the concentration level at which it was validated.
-17.3.4 Applicability Statement and Basis for Waiver Approval. Your discussion of the applicability statement and basis for approval of the waiver should address the following as applicable: Applicable regulation, emission standards, effluent characteristics, and process operations.
+17.1 Conditions for Waivers. If you meet one of the criteria in Section 17.1.1 or 17.1.2 of this method, the Administrator may waive the requirement to use the procedures in this method to validate an alternative or other candidate test method. In addition, if the EPA currently recognizes an appropriate test method or considers the candidate test method to be satisfactory for a particular source, the Administrator may waive the use of this protocol or may specify a less rigorous validation procedure.
+17.1.1 Similar Sources. If the alternative or other candidate test method that you want to use was validated for source-specific application at another source and you can demonstrate to the Administrator's satisfaction that your affected source is similar to that validated source, then the Administrator may waive the requirement for you to validate the alternative or other candidate test method. One procedure you may use to demonstrate the applicability of the method to your affected source is to conduct a ruggedness test as described in Section 14.0 of this method.
+17.1.2 Documented Methods. If the bias, precision, LOD, or ruggedness of the alternative or other candidate test method that you are proposing have been demonstrated through laboratory tests or protocols different from this method, and you can demonstrate to the Administrator's satisfaction that the bias, precision, LOD, or ruggedness apply to your application, then the Administrator may waive the requirement to use this method or to use part of this method.
+17.2 Submitting Applications for Waivers. You must sign and submit each request for a waiver from the requirements in this method in writing. The request must be submitted to the Group Leader, Measurement Technology Group, U.S. Environmental Protection Agency, E143-02, Research Triangle Park, NC 27711.
+17.3 Information Application for Waiver. The request for a waiver must contain a thorough description of the candidate test method, the intended application, and results of any validation or other supporting documents. The request for a waiver must contain, at a minimum, the information in Sections 17.3.1 through 17.3.4 of this method. The Administrator may request additional information if necessary to determine whether this method can be waived for a particular application.
+17.3.1 A Clearly Written Test Method. The candidate test method should be written preferably in the format of 40 CFR part 60, appendix A, Test Methods. Additionally, the candidate test must include an applicability statement, concentration range, precision, bias (accuracy), and minimum and maximum storage durations in which samples must be analyzed.
+17.3.2 Summaries of Previous Validation Tests or Other Supporting Documents. If you use a different procedure from that described in this method, you must submit documents substantiating the bias and precision values to the Administrator's satisfaction.
+17.3.3 Ruggedness Testing Results. You must submit results of ruggedness testing conducted according to Section 14.0 of this method, sample stability conducted according to Section 7.0 of this method, and detection limits conducted according to Section 15.0 of this method, as applicable. For example, you would not need to submit ruggedness testing results if you will be using the method at the same affected source and level at which it was validated.
+17.3.4 Applicability Statement and Basis for Waiver Approval. Discussion of the applicability statement and basis for approval of the waiver. This discussion should address as applicable the following: applicable regulation, emission standards, effluent characteristics, and process operations.
 18.0 Where can I find additional information?
-You can find additional information in the references in Sections 18.1 through 18.16.
+You can find additional information in the references in Sections 18.1 through 18.18 of this method.
 18.1 Albritton, J.R., G.B. Howe, S.B. Tompkins, R.K.M. Jayanty, and C.E. Decker. 1989. Stability of Parts-Per-Million Organic Cylinder Gases and Results of Source Test Analysis Audits, Status Report No. 11. Environmental Protection Agency Contract 68-02-4125. Research Triangle Institute, Research Triangle Park, NC. September.
 18.2 ASTM Standard E 1169-89 (current version), "Standard Guide for Conducting Ruggedness Tests," available from ASTM, 100 Barr Harbor Drive, West Conshohoken, PA 19428.
 18.3 DeWees, W.G., P.M. Grohse, K.K. Luk, and F.E. Butler. 1989. Laboratory and Field Evaluation of a Methodology for Speciating Nickel Emissions from Stationary Sources. EPA Contract 68-02-4442. Prepared for Atmospheric Research and Environmental Assessment Laboratory, Office of Research and Development, U.S. Environmental Protection Agency, Research Triangle Park, NC 27711. January.
@@ -204,15 +285,26 @@ You can find additional information in the references in Sections 18.1 through 1
 18.11 Taylor, J.K. 1987. Quality Assurance of Chemical Measurements. Lewis Publishers, Inc., pp. 79-81.
 18.12 U.S. Environmental Protection Agency. 1978. Quality Assurance Handbook for Air Pollution Measurement Systems: Volume III. Stationary Source Specific Methods. Publication No. EPA-600/4-77-027b. Office of Research and Development Publications, 26 West St. Clair St., Cincinnati, OH 45268.
 18.13 U.S. Environmental Protection Agency. 1981. A Procedure for Establishing Traceability of Gas Mixtures to Certain National Bureau of Standards Standard Reference Materials. Publication No. EPA-600/7-81-010. Available from the U.S. EPA, Quality Assurance Division (MD-77), Research Triangle Park, NC 27711.
-18.14 U.S. Environmental Protection Agency. 1991. Protocol for The Field Validation of Emission Concentrations From Stationary Sources. Publication No. 450/4-90-015. Available from the U.S. EPA, Emission Measurement Technical Information Center, Technical Support Division (MD-14), Research Triangle Park, NC 27711.
-18.15 Wernimont, G.T., "Use of Statistics to Develop and Evaluate Analytical Methods," AOAC, 1111 North 19th Street, Suite 210, Arlington, VA 22209. USA, 78-82 (1987).
-18.16 Youden, W.J. Statistical techniques for collaborative tests. Statistical Manual of the Association of Official Analytical Chemists, Association of Official Analytical Chemists, Washington, DC, 1975, pp. 33-36.
-Table 1 to Appendix A—Sampling Procedures
+18.14 U.S. Environmental Protection Agency. 1991. Protocol for The Field Validation of Emission Concentrations from Stationary Sources. Publication No. 450/4-90-015. Available from the U.S. EPA, Emission Measurement Technical Information Center, Technical Support Division (MD-14), Research Triangle Park, NC 27711.
+18.15 Wernimont, G.T., "Use of Statistics to Develop and Evaluate Analytical Methods," AOAC, 1111 North 19th Street, Suite 210, Arlington, VA 22209, USA, 78-82 (1987).
+18.16 Youden, W.J. Statistical techniques for collaborative tests. In: Statistical Manual of the Association of Official Analytical Chemists, Association of Official Analytical Chemists, Washington, DC, 1975, pp. 33-36.
+18.17 NIST/SEMATECH (current version), "e-Handbook of Statistical Methods," available from NIST, http://www.itl.nist.gov/div898/handbook/.
+18.18 Statistical Table, http://www.math.usask.ca/~szafron/Stats244/f_table_0_05.pdf.
+19.0 Tables.
+Table 301-1—Sampling Procedures
 If you are... | You must collect...
-comparing against a validated method | 9 sets of replicate samples using a paired sampling system (a total of 18 samples) or 4 sets of replicate samples using a quadruplet sampling system (a total of 16 samples). In each sample set, you must use the validated test method to collect and analyze half of the samples.
-using isotopic spiking (can only be used for procedures requiring mass spectrometry) | a total of 12 replicate samples. You may collect the samples either by obtaining 6 sets of paired samples or 3 sets of quadruplet samples.
-using analyte spiking | a total of 24 samples using the quadruplet sampling system (a total of 6 sets of replicate samples).
-Table 2 to Appendix A—Critical Values of t for the Two Tailed 95 Percent Confidence Limit
+Comparing the candidate test method against a validated method | A total of 24 samples using a quadruplicate sampling system (a total of six sets of replicate samples). In each quadruplicate sample set, you must use the validated test method to collect and analyze half of the samples.
+Using isotopic spiking (can only be used with methods capable of measurement of multiple isotopes simultaneously) | A total of 12 samples, all of which are spiked with isotopically-labeled analyte. You may collect the samples either by obtaining six sets of paired samples or three sets of quadruplicate samples.
+Using analyte spiking | A total of 24 samples using the quadruplicate sampling system (a total of six sets of replicate samples—two spiked and two unspiked).
+Table 301-2—Storage and Sampling Procedures for Stack Test Emissions
+If you are... | With... | Then you must...
+Using isotopic or analyte spiking procedures | Sample container (bag or canister) or impinger sampling systems that are not subject to dilution or other preparation steps | Analyze six of the samples within 7 days and then analyze the same six samples at the proposed maximum storage duration or 2 weeks after the initial analysis.
+| Sorbent and impinger sampling systems that require extraction or digestion | Extract or digest six of the samples within 7 days and extract or digest six other samples at the proposed maximum storage duration or 2 weeks after the first extraction or digestion. Analyze an aliquot of the first six extracts (digestates) within 7 days and proposed maximum storage duration or 2 weeks after the initial analysis. This will allow analysis of extract storage impacts.
+| Sorbent sampling systems that require thermal desorption | Analyze six samples within 7 days. Analyze another set of six samples at the proposed maximum storage time or within 2 weeks of the initial analysis.
+Comparing a candidate test method against a validated test method | Sample container (bag or canister) or impinger sampling systems that are not subject to dilution or other preparation steps | Analyze at least six of the candidate test method samples within 7 days and then analyze the same six samples at the proposed maximum storage duration or within 2 weeks of the initial analysis.
+| Sorbent and impinger sampling systems that require extraction or digestion | Extract or digest six of the candidate test method samples within 7 days and extract or digest six other samples at the proposed maximum storage duration or within 2 weeks of the first extraction or digestion. Analyze an aliquot of the first six extracts (digestates) within 7 days and an aliquot at the proposed maximum storage durations or within 2 weeks of the initial analysis. This will allow analysis of extract storage impacts.
+| Sorbent systems that require thermal desorption | Analyze six samples within 7 days. Analyze another set of six samples at the proposed maximum storage duration or within 2 weeks of the initial analysis.
+Table 301-3—Critical Values of t for the Two-Tailed 95 Percent Confidence Limit 1
 Degrees of freedom | t95
 1 | 12.706
 2 | 4.303
@@ -224,18 +316,48 @@ Degrees of freedom | t95
 8 | 2.306
 9 | 2.262
 10 | 2.228
-Table 3 to Appendix A—Storage and Sampling Procedures for Stack Test Emissions
-If you are... | With... | Then you must...
-using isotopic or analyte spiking procedures | sample container (bag or canister) and impinger sampling systems | analyze 6 of the samples within 7 days and then analyze the same 6 samples at the proposed maximum storage time or 2 weeks after the initial analysis.
-| sorbent and impinger sampling systems that require extraction or digestion | extract or digest 6 of the samples within 7 days and extract or digest 6 other samples at the proposed maximum storage time or 2 weeks after the first extraction or digestion. Analyze an aliquot of the first 6 extracts (digestates) within 7 days and proposed maximum storage times or 2 weeks after the initial analysis. This will allow analysis of extract storage impacts.
-| sorbent sampling systems that require thermal desorption | analyze 6 samples within 7 days. Analyze another set of 6 samples at the proposed maximum storage time or within 2 weeks of the initial analysis.
-comparing an alternative test method against a validated test method | sampling method that does not include sorbent and impinger sampling systems that require extraction or digestion | analyze half of the samples (8 or 9) within 7 days and half of the samples (8 or 9) at the proposed maximum storage time or within 2 weeks of the initial analysis.
-| sorbent and impinger sampling systems that require extraction or digestion | extract or digest 6 of the samples within 7 days and extract or digest 6 other samples at the proposed maximum storage time or within 2 weeks of the first extraction or digestion. Analyze an aliquot of the first 6 extracts (digestates) within 7 days and at the proposed maximum storage times or within 2 weeks of the initial analysis. This will allow analysis of extract storage impacts.
-Table 4 to Appendix A—Procedures for Estimating So
-If the estimated LOD (LOD1, expected approximate LOD concentration level) is no more than twice the calculated LOD, use Procedure I as follows. Estimate the LOD (LOD1) and prepare a test standard at this level. The test standard could consist of a dilution of the analyte described in Section 5.0 | If the estimated LOD (LOD1, expected approximate LOD concentration level) is greater than twice the calculated LOD, use Procedure II as follows. Prepare two additional standards (LOD2 and LOD3) at concentration levels lower than the standard used in Procedure I (LOD1).
-Using the normal sampling and analytical procedures for the method, sample and analyze this standard at least 7 times in the laboratory | Sample and analyze each of these standards (LOD2 and LOD3) at least 7 times.
-Calculate the standard deviation, S1, of the measured values | Calculate the standard deviation (S2 and S3) for each concentration level.
-Calculate the LOD0 (referred to as the calculated LOD) as 3 times S1, where S0 = S1 | Plot the standard deviations of the three test standards (S1, S2 and S3) as a function of concentration.
+11 | 2.201
+12 | 2.179
+13 | 2.160
+14 | 2.145
+15 | 2.131
+16 | 2.120
+17 | 2.110
+18 | 2.101
+19 | 2.093
+20 | 2.086
+1 Adapted from Reference 18.17 in section 18.0.
+Table 301-4—Upper Critical Values of the F Distribution for the 95 Percent Confidence Limit 1
+Numerator (k1) and denominator (k2) degrees of freedom | F{F>F.05(k1,k2)}
+1,1 | 161.40
+2,2 | 19.00
+3,3 | 9.28
+4,4 | 6.39
+5,5 | 5.05
+6,6 | 4.28
+7,7 | 3.79
+8,8 | 3.44
+9,9 | 3.18
+10,10 | 2.98
+11,11 | 2.82
+12,12 | 2.69
+13,13 | 2.58
+14,14 | 2.48
+15,15 | 2.40
+16,16 | 2.33
+17,17 | 2.27
+18,18 | 2.22
+19,19 | 2.17
+20,20 | 2.12
+1 Adapted from References 18.17 and 18.18 in section 18.0.
+Table 301-5—Procedures for Estimating So
+|
+If the estimated LOD (LOD1, expected approximate LOD concentration level) is no more than twice the calculated LOD or an analyte in a sample matrix was collected prior to an analytical measurement, use Procedure I as follows | If the estimated LOD (LOD1, expected approximate LOD concentration level) is greater than twice the calculated LOD, use Procedure II as follows.
+Procedure I: | Procedure II:
+Determine the LOD by calculating a method detection limit (MDL) as described in 40 CFR part 136, appendix B | Prepare two additional standards (LOD2 and LOD3) at concentration levels lower than the standard used in Procedure I (LOD1).
+| Sample and analyze each of these standards (LOD2 and LOD3) at least seven times.
+| Calculate the standard deviation (S2 and S3) for each concentration level.
+| Plot the standard deviations of the three test standards (S1, S2 and S3) as a function of concentration.
 | Draw a best-fit straight line through the data points and extrapolate to zero concentration. The standard deviation at zero concentration is So.
 | Calculate the LOD0 (referred to as the calculated LOD) as 3 times So.
 Method 303—Determination of Visible Emissions From By-Product Coke Oven Batteries
@@ -4153,7 +4275,8 @@ Three types of testing can be performed: (1) Screening, (2) emissions test, and 
 8.2.2.3 Measure the barometric pressure, Pb in mmHg.
 8.2.2.4 Determine the percent leak volume %VL for the signal integration time tSS and for ΔPmax, i.e., the larger of ΔPv or ΔPp, as follows:
 ER14JN99.004
-where 50 = 100% divided by the leak-check time of 2 minutes. 8.2.2.5 Leak volumes in excess of 4 percent of the FTIR system volume VSS are unacceptable.
+where 50 = 100% divided by the leak-check time of 2 minutes.
+8.2.2.5 Leak volumes in excess of 4 percent of the FTIR system volume VSS are unacceptable.
 8.3 Detector Linearity. Once an optical configuration is chosen, use one of the procedures of sections 8.3.1 through 8.3.3 to verify that the detector response is linear. If the detector response is not linear, decrease the aperture, or attenuate the infrared beam. After a change in the instrument configuration perform a linearity check until it is demonstrated that the detector response is linear.
 8.3.1 Vary the power incident on the detector by modifying the aperture setting. Measure the background and CTS at three instrument aperture settings: (1) at the aperture setting to be used in the testing, (2) at one half this aperture and (3) at twice the proposed testing aperture. Compare the three CTS spectra. CTS band areas shall agree to within the uncertainty of the cylinder standard and the RMSD noise in the system. If test aperture is the maximum aperture, collect CTS spectrum at maximum aperture, then close the aperture to reduce the IR throughput by half. Collect a second background and CTS at the smaller aperture setting and compare the spectra again.
 8.3.2 Use neutral density filters to attenuate the infrared beam. Set up the FTIR system as it will be used in the test measurements. Collect a CTS spectrum. Use a neutral density filter to attenuate the infrared beam (either immediately after the source or the interferometer) to approximately 1/2 its original intensity. Collect a second CTS spectrum. Use another filter to attenuate the infrared beam to approximately 1/4 its original intensity. Collect a third background and CTS spectrum. Compare the CTS spectra. CTS band areas shall agree to within the uncertainty of the cylinder standard and the RMSD noise in the system.
