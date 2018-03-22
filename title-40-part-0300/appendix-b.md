@@ -75,7 +75,7 @@ CA | New Idria Mercury Mine | Idria
 CA | Newmark Ground Water Contamination | San Bernardino
 CA | Omega Chemical Corporation | Whittier
 CA | Operating Industries, Inc., Landfill | Monterey Park
-CA | Pacific Coast Pipe Lines | Fillmore
+CA | Pacific Coast Pipe Lines | Fillmore | P
 CA | Pemaco Maywood | Maywood
 CA | Purity Oil Sales, Inc | Malaga
 CA | Raytheon Corp | Mountain View
@@ -140,8 +140,10 @@ DE | Dover Gas Light Co | Dover
 DE | E.I.Du Pont de Nemours (Newport Landfill) | Newport
 DE | Halby Chemical Co | New Castle
 DE | Harvey & Knott Drum, Inc | Kirkwood
+DE | Hockessin Groundwater | Hockessin
 DE | Koppers Co., Inc. (Newport Plant) | Newport
 DE | NCR Corp. (Millsboro Plant) | Millsboro
+DE | Newark South Ground Water Plume | Newark
 DE | Standard Chlorine of Delaware, Inc | Delaware City
 DE | Tybouts Corner Landfill | New Castle County | S
 FL | Agrico Chemical Co | Pensacola
@@ -174,6 +176,7 @@ FL | Pepper Steel & Alloys, Inc | Medley
 FL | Petroleum Products Corp | Pembroke Park
 FL | Pickettville Road Landfill | Jacksonville
 FL | Piper Aircraft/Vero Beach Water & Sewer | Vero Beach
+FL | Post and Lumber Preserving Co. Inc | Quincy
 FL | Raleigh Street Dump | Tampa.
 FL | Reeves Southeast Galvanizing Corp | Tampa
 FL | Sanford Dry Cleaners | Sanford.
@@ -274,6 +277,7 @@ IN | Elm Street Ground Water Contamination | Terre Haute
 IN | Envirochem Corp | Zionsville
 IN | Fisher-Calo | LaPorte
 IN | Fort Wayne Reduction Dump | Fort Wayne
+IN | Franklin Street Groundwater Contamination | Spencer
 IN | Galen Myers Dump/Drum Salvage | Osceola
 IN | Garden City Ground Water Plume | Garden City
 IN | Gary Development Company | Gary
@@ -326,6 +330,7 @@ KY | National Electric Coil/Cooper Industries | Dayhoit
 KY | Smith's Farm | Brooks
 KY | Tri-City Disposal Co | Shepherdsville
 LA | Agriculture Street Landfill | New Orleans | P
+LA | American Creosote DeRidder | DeRidder
 LA | American Creosote Works, Inc (Winnfield) | Winnfield
 LA | Bayou Bonfouca | Slidell
 LA | Colonial Creosote | Bogalusa
@@ -343,11 +348,11 @@ MA | Blackburn & Union Privileges | Walpole
 MA | Charles-George Reclamation Landfill | Tyngsborough
 MA | Creese &Cook Tannery (Former) | Danvers
 MA | Groveland Wells | Groveland
-MA | Hatheway and Patterson Company | Mansfield
 MA | Haverhill Municipal Landfill | Haverhill
 MA | Hocomonco Pond | Westborough
 MA | Industri-Plex | Woburn
 MA | Iron Horse Park | Billerica
+MA | Microfab, Inc. (Former) | Amesbury
 MA | New Bedford Site | New Bedford | S
 MA | Nuclear Metals, Inc | Concord.
 MA | Nyanza Chemical Waste Dump | Ashland
@@ -355,7 +360,6 @@ MA | Olin Chemical | Wilmington
 MA | PSC Resources | Palmer
 MA | Re-Solve, Inc | Dartmouth
 MA | Rose Disposal Pit | Lanesboro
-MA | Shpack Landfill | Norton/Attleboro
 MA | Silresim Chemical Corp | Lowell
 MA | Sullivan's Ledge | New Bedford
 MA | Sutton Brook Disposal Area | Tewksbury.
@@ -460,13 +464,13 @@ MN | Kurt Manufacturing Co | Fridley
 MN | Lehillier/Mankato Site | Lehillier/Mankato
 MN | Long Prairie Ground Water Contamination | Long Prairie
 MN | MacGillis & Gibbs/Bell Lumber & Pole C | New Brighton
-MN | Nutting Truck & Caster Co | Faribault
 MN | Oakdale Dump | Oakdale
 MN | Perham Arsenic Site | Perham
 MN | Reilly Tar&Chem (St. Louis Park Plant) | St. Louis Park | S
 MN | Ritari Post & Pole | Sebeka
 MN | South Andover Site | Andover | P
 MN | South Minneapolis Residential Soil Contamination | Minneapolis
+MN | Spring Park Municipal Well Field | Spring Park
 MN | St. Louis River Site | St. Louis County
 MN | St. Regis Paper Co | Cass Lake
 MN | Waite Park Wells | Waite Park
@@ -476,7 +480,7 @@ MO | Bee Cee Manufacturing Co | Malden
 MO | Big River Mine Tailings/St. Joe Minerals | Desloge
 MO | Compass Plaza Well TCE | Rogersville
 MO | Conservation Chemical Co | Kansas City
-MO | Ellisville Site | Ellisville | S
+MO | Ellisville Site | Ellisville | P
 MO | Fulbright Landfill | Springfield
 MO | Lee Chemical | Libert
 MO | Madison County Mines | Fredericktown
@@ -504,6 +508,7 @@ MS | American Creosote Works, Inc | Louisville
 MS | Chemfax, Inc. | Gulfport
 MS | Davis Timber Company | Hattiesburg
 MS | Kerr-McGee Chemical Corp—Columbus | Columbus
+MS | Mississippi Phosphates Corporation | Pascagoula
 MS | Picayune Wood Treating | Picayune
 MS | Red Panther Chemical Company | Clarksdale
 MS | Sonford Products | Flowood
@@ -571,6 +576,7 @@ NE | Iowa-Nebraska Light & Power Co | Norfolk
 NE | Lindsay Manufacturing Co | Lindsay
 NE | Nebraska Ordnance Plant (Former) | Mead
 NE | Ogallala Ground Water Contamination | Ogallala
+NE | Old HWY 275 and N 288th Street | Valley
 NE | Omaha Lead | Omaha/Douglas | P
 NE | Parkview Well | Grand Island
 NE | PCE Southeast Contamination | York
@@ -788,6 +794,7 @@ NY | Richardson Hill Road Landfill/Pond | Sidney Center
 NY | Robintech, Inc./National Pipe Co | Town of Vestal
 NY | Rosen Brothers Scrap Yard/Dump | Cortland
 NY | Rowe Industries Gnd Water Contamination | Noyack/Sag Harbor
+NY | Saint-Gobain Performance Plastics | Village of Hoosick Falls
 NY | Sarney Farm | Amenia
 NY | Sealand Restoration, Inc | Lisbon
 NY | Shenandoah Road Ground Water Contamination | East Fishkill.
@@ -838,6 +845,7 @@ OH | Van Dale Junkyard | Marietta
 OH | West Troy Contaminated Aquifer | Troy
 OH | Zanesville Well Field | Zanesville
 OK | Double Eagle Refinery Co. | Oklahoma City
+OK | Eagle Industries | Midwest City
 OK | Fourth Street Abandoned Refinery | Okalahoma City
 OK | Hardage/Criner | Criner
 OK | Hudson Refinery | Cushing
@@ -870,7 +878,6 @@ PA | Breslube-Penn, Inc | Coraopolis
 PA | Brown's Battery Breaking | Shoemakersville
 PA | Butler Mine Tunnel | Pittston
 PA | Butz Landfill | Stroudsburg
-PA | C & D Recycling | Foster Township
 PA | Centre County Kepone | State College Borough | P
 PA | Chem-Fab | Doylestown
 PA | Commodore Semiconductor Group | Lower Providence Township
@@ -959,6 +966,7 @@ PR | Pesticide Warehouse I | Arecibo
 PR | Pesticide Warehouse III | Manati.
 PR | San German Ground Water Contamination | San German
 PR | Scorpio Recycling, Inc. | Candeleria Ward
+PR | The Battery Recycling Company | Bo. Cambalache
 PR | Upjohn Facility | Barceloneta
 PR | Vega Alta Public Supply Wells | Vega Alta
 PR | Vega Baja Solid Waste Disposal | Vega Baja
@@ -976,6 +984,7 @@ SC | Aqua-Tech Environmental Inc (Groce Labs) | Greer
 SC | Barite Hill/Nevada Goldfields | McCormick.
 SC | Beaunit Corp. (Circular Knit & Dye) | Fountain Inn
 SC | Brewer Gold Mine | Jefferson
+SC | Burlington Industries Cheraw | Cheraw
 SC | Carolawn, Inc | Fort Lawn
 SC | Elmore Waste Disposal | Greer
 SC | Helena Chemical Co Landfill | Fairfax
@@ -1001,6 +1010,7 @@ TN | American Creosote Works, (Jackson Plant) | Jackson
 TN | Arlington Blending & Packaging | Arlington
 TN | Carrier Air Conditioning Co | Collierville
 TN | Clinch River Corporation | Harriman
+TN | Former Custom Cleaners | Memphis
 TN | Mallory Capacitor Co | Waynesboro
 TN | Murray-Ohio Dump | Lawrenceburg
 TN | Ross Metals Inc | Rossville
@@ -1028,9 +1038,11 @@ TX | Geneva Industries/Fuhrmann Energy | Houston | P
 TX | Gulfco Marine Maintenance | Freeport.
 TX | Hart Creosoting Company | Jasper
 TX | Highlands Acid Pit | Highlands
+TX | Highway 18 Ground Water | Kermit
 TX | Jasper Creosoting Company Inc | Jasper County
 TX | Jones Road Ground Water Plume | Harris County
 TX | Koppers Co Inc (Texarkana Plant) | Texarkana
+TX | Lane Plating Works, Inc | Dallas
 TX | Main Street Ground Water Plume | Burnet
 TX | Malone Service Company, Inc | Texas City.
 TX | Many Diversified Interests, Inc | Houston | P
@@ -1041,6 +1053,7 @@ TX | Odessa Chromium #1 | Odessa
 TX | Old Esco Manufacturing | Greenville
 TX | Patrick Bayou | Deer Park
 TX | Petro-Chemical Systems, (Turtle Bayou) | Liberty County
+TX | River City Metal Finishing | San Antonio
 TX | RSR Corp | Dallas | P
 TX | Rockwool Industries Inc | Bell County
 TX | Sandy Beach Road Ground Water Plume | Azle
@@ -1136,8 +1149,6 @@ WA | Pasco Sanitary Landfill | Pasco
 WA | Queen City Farms | Maple Valley
 WA | Quendall Terminals | Renton
 WA | Seattle Municipal Landfill (Kent Hghlnds) | Kent
-WA | Vancouver Water Station #1 Contamination | Vancouver
-WA | Vancouver Water Station #4 Contamination | Vancouver
 WA | Western Processing Co., Inc | Kent
 WA | Wyckoff Co./Eagle Harbor | Bainbridge Island
 WI | Algoma Municipal Landfill | Algoma
@@ -1180,7 +1191,7 @@ WI | Wausau Ground Water Contamination | Wausau
 WV | Big John Salvage—Hoult Road | Fairmont
 WV | Fike Chemical, Inc | Nitro
 WV | Hanlin-Allied-Olin | Moundsville
-WY | Mystery Bridge Rd/U.S. Highway 20 | Evansville
+WY | Mystery Bridge Road/U.S. Highway 20 | Evansville/Natrona | P
 WV | North 25th Street Glass and Zinc | Clarksburg
 WV | Ordnance Works Disposal Areas | Morgantown
 WV | Ravenswood PCE Ground Water Plume | Ravenswood
@@ -1352,12 +1363,4 @@ WY | F.E. Warren Air Force Base | Cheyenne
 Notes:
 (a) A = Based on issuance of health advisory by Agency for Toxic Substances and Disease Registry (if scored, HRS score need not be greater than or equal to 28.50).
 S = State top priority (included among the 100 top priority sites regardless of score).
-P = Sites with partial deletion(s).
-At 82 FR 29768, June 30, 2017, Table 1 of Appendix B to part 300 was amended by revising the entry under "WY," "Mystery Bridge Road/U.S. Highway 20," "Evansville", effective Aug. 29, 2017. For the convenience of the user, the revised text is set forth as follows:
-Appendix B to Part 300—National Priorities List
-Table 1—General Superfund Section
-State | Site name | City/county | Notes (a)
-* * * * * * *
-WY | Mystery Bridge Road/U.S. Highway 20 | Evansville/Natrona | P
-(a) = Based on issuance of health advisory by Agency for Toxic Substances and Disease Registry (if scored, HRS score need not be greater than or equal to 28.50).
 P = Sites with partial deletion(s).
