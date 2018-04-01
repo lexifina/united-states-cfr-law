@@ -221,3 +221,7 @@ October-December 2016 | 0.0198 | 1-20 | 0.0267 | >20 | N/A | N/A
 January-March 2017 | 0.0187 | 1-20 | 0.0237 | >20 | N/A | N/A
 April-June 2017 | 0.0215 | 1-20 | 0.0260 | >20 | N/A | N/A
 July-September 2017 | 0.0244 | 1-20 | 0.0274 | >20 | N/A | N/A
+October-December 2017 | 0.0234 | 1-20 | 0.0263 | >20 | N/A | N/A
+January-March 2018 | 0.0239 | 1-20 | 0.0260 | >20 | N/A | N/A
+April-June 2018 | 0.0227 | 1-20 | 0.0259 | >20 | N/A | N/A
+July-September 2018 | 0.0253 | 1-25 | 0.0264 | >25 | N/A | N/A
