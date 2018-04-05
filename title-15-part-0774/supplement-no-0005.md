@@ -2,7 +2,7 @@
 The following table lists items subject to the EAR that are not listed elsewhere in the CCL, but which the Department of Commerce, with the concurrence of the Departments of Defense and State, has identified warrant control for export or reexport because the items provide at least a significant military or intelligence advantage to the United States or for foreign policy reasons.
 Item descriptor. Note: The description must match by model number or a broader descriptor that does not necessarily need to be company specific | Date of initial orsubsequent BIS classification (ID = initial date; SD = subsequent date) | Date when the item will be designated EAR99, unless reclassified in another ECCN or the 0Y521 classification is reissued | Item-specific licenseexception eligibility
 0A521. Systems, Equipment and Components
-No. 1 Targets made of or containing lithium "specially designed" for the production of tritium by insertion in the core of a nuclear reactor | August 8, 2016 (ID) | August 8, 2017 | License Exception GOV under § 740.11(b)(2)(ii) only
+No. 1 [Reserved] | [Reserved] | [Reserved] | [Reserved]
 0B521. Test, Inspection and Production Equipment
 [Reserved]
 0C521. Materials
@@ -11,4 +11,4 @@ No. 2 [Reserved] | [Reserved] | [Reserved] | [Reserved]
 0D521. Software
 [Reserved]
 0E521. Technology
-No. 1 "Technology" required for the "development" or "production" of 0A521 No. 1 items | August 8, 2016 (ID) | August 8, 2017 | License Exception GOV under § 740.11(b)(2)(ii) only
+No. 1 [Reserved] | [Reserved] | [Reserved] | [Reserved]
