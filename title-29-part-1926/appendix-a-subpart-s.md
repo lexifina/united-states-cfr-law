@@ -647,9 +647,6 @@ Working chamber pressure p.s.i.g. | Working period hours | Decompression data | 
 | | 2 | 34 | 18 | 16 | 1.00 |
 | | 3 | 18 | 4 | 14 | 1.00 |
 | | 4 | 4 | 0 | 25 | 6.25 | 58
-Decompression Table No. 2—Continued
-[Do not interpolate, use next higher value for conditions not computed]
-Working chamber pressure p.s.i.g. | Working period hours | Decompression data | Stage No. | Pressure reduc. p.s.i.g. | From | To | Time in stage minutes | Pressure reduc. rate Min/pound | Total time decompress minutes
 | 1 | 1 | 50 | 34 | 3 | 0.20 |
 | | 2 | 34 | 18 | 16 | 1.00 |
 | | 3 | 18 | 4 | 40 | 2.86 |
@@ -673,6 +670,9 @@ Working chamber pressure p.s.i.g. | Working period hours | Decompression data | 
 | 5 | 1 | 50 | 34 | 3 | 0.20 |
 | | 2 | 34 | 18 | 16 | 1.00 |
 | | 3 | 18 | 4 | 160 | 11.42 |
+Decompression Table No. 2—Continued
+[Do not interpolate, use next higher value for conditions not computed]
+Working chamber pressure p.s.i.g. | Working period hours | Decompression data | Stage No. | Pressure reduc. p.s.i.g. | From | To | Time in stage minutes | Pressure reduc. rate Min/pound | Total time decompress minutes
 | | 4 | 4 | 0 | 130 | 32.50 | 309
 | 6 | 1 | 50 | 34 | 3 | 0.20 |
 | | 2 | 34 | 18 | 16 | 1.00 |
