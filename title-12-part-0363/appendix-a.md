@@ -157,7 +157,7 @@ Audit Committees (§ 363.5)
 Other
 36. Modifications of Guidelines. The FDIC's Board of Directors has delegated to the Director of the FDIC's Division of Supervision and Consumer Protection authority to make and publish in the Federal Register minor technical amendments to the Guidelines in this Appendix and the guidance and illustrative reports in Appendix B, in consultation with the other appropriate Federal banking agencies, to reflect the practical experience gained from implementation of this part. It is not anticipated any such modification would be effective until affected institutions have been given reasonable advance notice of the modification. Any material modification or amendment will be subject to review and approval of the FDIC Board of Directors.
 Table 1 to Appendix A—Designated Federal Laws and Regulations Applicable to:
-| | National banks | State member banks | State non-member banks | Savings associations
+| | National banks | State member banks | Statenon-member banks | Savingsassociations
 Insider Loans—Parts and/or Sections of Title 12 of the United States Code
 375a | Loans to Executive Officers of Banks | √ | √ | (A) | (A)
 375b | Extensions of Credit to Executive Officers, Directors, and Principal Shareholders of Banks | √ | √ | (A) | (A)
@@ -165,26 +165,26 @@ Insider Loans—Parts and/or Sections of Title 12 of the United States Code
 1828(j)(2) | Extensions of Credit to Officers, Directors, and Principal Shareholders | | | √
 1828(j)(3)(B) | Extensions of Credit to Officers, Directors, and Principal Shareholders | (B) | | (C)
 Parts and/or Sections of Title 12 of the Code of Federal Regulations
-31 | Extensions of Credit to Insiders | √ | |
-32 | Lending Limits | √ | |
+31 | Extensions of Credit to Insiders | √ |
+32 | Lending Limits | √ |
 215 | Loans to Executive Officers, Directors, and Principal Shareholders of Member Banks | √ | √ | (D) | (E)
 337.3 | Limits on Extensions of Credit to Executive Officers, Directors, and Principal Shareholders of Insured Nonmember Banks | | | √
-563.43 | Loans by Savings Associations to Their Executive Officers, Directors, and Principal Shareholders | | | | √
+390.338 (state savings associations) | Loans by Savings Associations to Their Executive Officers, Directors, and Principal Shareholders | | | | √
 Dividend Restrictions—Parts and/or Sections of Title 12 of the United States Code
-56 | Prohibition on Withdrawal of Capital and Unearned Dividends | √ | √ |
-60 | Dividends and Surplus Fund | √ | √ |
+56 | Prohibition on Withdrawal of Capital and Unearned Dividends | √ | √
+60 | Dividends and Surplus Fund | √ | √
 1467a(f) | Declaration of Dividend | | | | √
 1831o(d)(1) | Prompt Corrective Action—Capital Distributions Restricted | √ | √ | √ | √
 Parts and/or Sections of Title 12 of the Code of Federal Regulations
-5 Subpart E | Payment of Dividends | √ | |
-6.6 | Prompt Corrective Action— Restrictions on Undercapitalized Institutions | √ | |
-208.5 | Dividends and Other Distributions | | √ |
-208.45 | Prompt Corrective Action— Restrictions on Undercapitalized Institutions | | √ |
-325.105 or 324.403, as applicable | Prompt Corrective Action— Restrictions on Undercapitalized Institutions | | | √
-563 Subpart E | Capital Distributions | | | | √
-565.6 | Prompt Corrective Action—Restrictions on Undercapitalized Institutions | | | | √
-A. Subsections (g) and (h) of section 22 of the Federal Reserve Act [12 U.S.C. 375a, 375b].
-B. Applies only to insured Federal branches of foreign banks.
-C. Applies only to insured State branches of foreign banks.
-D. See 12 CFR 337.3.
-E. See 12 CFR 563.43.
+5 Subpart E | Payment of Dividends | √ |
+6.6 | Prompt Corrective Action—Restrictions on Undercapitalized Institutions | √ |
+208.5 | Dividends and Other Distributions | | √
+208.45 | Prompt Corrective Action—Restrictions on Undercapitalized Institutions | | √
+324.405 | Prompt Corrective Action—Restrictions on Undercapitalized Institutions | | | √
+390.342-.348 (state savings associations) | Capital Distributions | | | | √
+390.455 (state savings associations) | Prompt Corrective Action—Restrictions on Undercapitalized Institutions | | | | √
+(A) Subsections (g) and (h) of section 22 of the Federal Reserve Act [12 U.S.C. 375a, 375b]
+(B) Applies only to insured Federal branches of foreign banks.
+(C) Applies only to insured State branches of foreign banks.
+(D) See 12 CFR 337.3.
+(E) See 12 CFR 390.338 (state savings associations).
