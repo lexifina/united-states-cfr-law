@@ -126,13 +126,13 @@ QT-MAX = 1.25 × span value × (QE/CT) × 10−4
 QT-MAX = 1.25 × 0.40 × (60,000/2) × 10−4 = 1.5 scfm
 In this example, the estimated total volumetric flow rate of the two percent SF6 tracer gas injected through the manifolds in the enclosure lies between 0.375 and 1.5 scfm.
 12.3 Calibration Error. Calculate the calibration error for the low-level and mid-level calibration gases using the following equation:
-Err = |Cstd−Cmeasverbar; ÷ Cstd × 100
+Err = |Cstd−Cmeas| ÷ Cstd × 100
 Where:
 Err = calibration error, percent;
 Cstd = low-level or mid-level calibration gas value, ppmv;
 Cmeas = measured response to low-level or mid-level concentration gas, ppmv.
 12.4 Calibration Drift. Calculate the calibration drift for the zero and low-level calibration gases using the following equation:
-D = |verbar;Cinitial − Cfinal |verbar; ÷ Cspan × 100
+D = ||Cinitial − Cfinal || ÷ Cspan × 100
 Where:
 D = calibration drift, percent;
 Cinitial = low-level or mid-level calibration gas value measured before test run, ppmv;
