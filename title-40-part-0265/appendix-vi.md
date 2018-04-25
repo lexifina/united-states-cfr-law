@@ -140,6 +140,7 @@ Methane sulfonic acid | 75-75-2
 Methomyl | 16752-77-5
 p-Methoxyphenol | 150-76-5
 Methyl acrylate | 96-33-3
+Compound name | CAS No.
 4,4′-Methylene-bis-(2-chloroaniline) | 101-14-4
 4,4′-Methylenediphenyl diisocyanate (diphenyl methane diisocyanate) | 101-68-8
 4,4′-Methylenedianiline | 101-77-9
