@@ -1,5 +1,4 @@
 # Appendix H to Part 1026—Closed-End Model Forms and Clauses
-This amendment was delayed in part until Apr. 19, 2018 at 82 FR 30948, July 5, 2017.
 H-1 Credit Sale Model Form (§ 1026.18)
 H-2 Loan Model Form (§ 1026.18)
 H-3 Amount Financed Itemization Model Form (§ 1026.18(c))
@@ -469,4 +468,7 @@ ER19OC16.000
 H-30(D) Sample Clause for Homeownership Counselor Contact Information
 Housing Counselor Information: If you would like counseling or assistance, you can contact the following:
 • U.S. Department of Housing and Urban Development (HUD): For a list of homeownership counselors or counseling organizations in your area, go to http://www.hud.gov/offices/hsg/sfh/hcc/hcs.cfm or call 800-569-4287.
-Effective Date Note: At 81 FR 72390, Oct. 19, 2016, and delayed at 82 FR 30948, July, 5, 2017, appendix H to part 1026 was amended byadding H-30(E) and H-30(F), effective Apr. 19, 2018. For the convenience of the user, the added text is set forth as follows: Appendix H to Part 1026—Closed-End Model Forms and Clauses H-30(E) Sample Form of Periodic Statement for Consumer in Chapter 7 or Chapter 11 Bankruptcy ER19OC16.001 H-30(F) Sample Form of Periodic Statement for Consumer in Chapter 12 or Chapter 13 Bankruptcy ER19OC16.002
+H-30(E) Sample Form of Periodic Statement for Consumer in Chapter 7 or Chapter 11 Bankruptcy
+ER19OC16.001
+H-30(F) Sample Form of Periodic Statement for Consumer in Chapter 12 or Chapter 13 Bankruptcy
+ER19OC16.002
