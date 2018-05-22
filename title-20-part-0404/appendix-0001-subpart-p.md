@@ -2,15 +2,15 @@
 The body system listings in parts A and B of the Listing of Impairments will no longer be effective on the following dates unless extended by the Commissioner or revised and promulgated again.
 1. Low Birth Weight and Failure to Thrive (100.00): June 12, 2020.
 2. Musculoskeletal System (1.00 and 101.00): January 27, 2020.
-3. Special Senses and Speech (2.00 and 102.00): April 29, 2018.
+3. Special Senses and Speech (2.00 and 102.00): April 24, 2020.
 4. Respiratory Disorders (3.00 and 103.00): October 7, 2019.
 5. Cardiovascular System (4.00 and 104.00): January 27, 2020.
 6. Digestive System (5.00 and 105.00): January 27, 2020.
 7. Genitourinary Disorders (6.00 and 106.00): December 9, 2019.
 8. Hematological Disorders (7.00 and 107.00): May 18, 2020.
 9. Skin Disorders (8.00 and 108.00): January 27, 2020.
-10. Endocrine Disorders (9.00 and 109.00): June 8, 2018.
-11. Congenital Disorders That Affect Multiple Body Systems (10.00 and 110.00): April 5, 2018.
+10. Endocrine Disorders (9.00 and 109.00): June 26, 2020.
+11. Congenital Disorders That Affect Multiple Body Systems (10.00 and 110.00): April 3, 2020.
 12. Neurological Disorders (11.00 and 111.00): September 29, 2021.
 13. Mental Disorders (12.00 and 112.00): January 17, 2022.
 14. Cancer (Malignant Neoplastic Diseases) (13.00 and 113.00): July 20, 2020.
