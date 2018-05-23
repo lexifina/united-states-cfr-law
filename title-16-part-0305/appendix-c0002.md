@@ -2,4 +2,4 @@
 Range Information
 "Standard" includes dishwasher models with a capacity of eight (8) or more place settings. Place settings shall be in accordance with appendix C to 10 CFR part 430, subpart B. Load patterns shall conform to the operating normal for the model being tested.
 Capacity | Range of estimatedannual energy costs (dollars/year) | Low | High
-Standard | $21 | $41
+Standard | $26 | $40
