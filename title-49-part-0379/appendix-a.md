@@ -9,7 +9,7 @@ A. Corporate and General
 (a) Certificates of public convenience and necessity issued by regulating bodies | Until expiration or cancellation.
 (b) Operating authorizations and exemptions to operate | Until expiration or cancellation.
 (c) Copies of formal orders of regulatory bodies served upon the company | Note A.
-(d) Deeds, charters, and other title papers | Until disposition of property.
+(d) Deeds, charters, and other title documents | Until disposition of property.
 4. Annual reports or statements to stockholders | 3 years.
 5. Contracts and agreements:
 (a) Service contracts, such as for operational management, accounting, financial or legal services, and agreements with agents | Until expiration or termination plus 3 years.
@@ -31,7 +31,7 @@ B. Treasury
 (a) Bond indentures, underwritings, mortgages, and other long-term credit agreements | Until redemption plus 3 years.
 (b) Registered bonds and debenture ledgers | Until redemption plus 3 years.
 (c) Stubs or similar records of bonds or other long-term debt issued | Note A.
-3. Authorizations from regulatory bodies for issuance of securities including applications, reports, and supporting papers | Note A.
+3. Authorizations from regulatory bodies for issuance of securities including applications, reports, and supporting documents | Note A.
 4. Records of securities owned, in treasury, or held by custodians, detailed ledgers and journals, or their equivalent | Until the securities are sold, redeemed or otherwise disposed of.
 5. Other | Note A.
 C. Financial and Accounting
@@ -72,7 +72,7 @@ E. Personnel and Payroll
 F. Insurance and Claims
 1. Insurance records:
 (a) Schedules of insurance against fire, storms, and other hazards and records of premium payments | Until expiration plus 1 year.
-(b) Records of losses and recoveries from insurance companies and supporting papers | 1 year after settlement.
+(b) Records of losses and recoveries from insurance companies and supporting documents | 1 year after settlement.
 (c) Insurance policies | Until expiration of coverage plus 1 year.
 2. Claims records:
 (a) Claim registers, card or book indexes, and other records which record personal injury, fire and other claims against the company, together with all supporting data | 1 year after settlement.
@@ -102,15 +102,15 @@ I. Shipping and Agency Documents
 (b) Paid copy of freight bill retained to support payment of freight charges to other carriers:
 (1) Bus express freight bills provided no claim has been filed | 1 year.
 (2) All other freight bills | 1 year.
-(c) Records of unsettled freight bills and supporting papers | 1 year after disposition.
+(c) Records of unsettled freight bills and supporting documents | 1 year after disposition.
 (d) Records and reports of correction notices | 1 year.
 4. Other freight records:
 (a) Records of freight received, forwarded, and delivered | 1 year.
 (b) Notice to consignees of arrival of freight; tender of delivery | 1 year.
 5. Agency records:
 (a) Cash books | 1 year.
-(b) Remittance records, bank deposit slips and supporting papers | 1 year.
-(c) Balance sheets and supporting papers | 1 year.
+(b) Remittance records, bank deposit slips and supporting documents | 1 year.
+(c) Balance sheets and supporting documents | 1 year.
 (d) Statements of corrections in agents' accounts | 1 year.
 (e) Other records and reports pertaining to ticket sales, baggage handled, miscellaneous collections, refunds, adjustments, etc. | 1 year.
 J. Transportation
