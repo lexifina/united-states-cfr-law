@@ -291,7 +291,7 @@ An ELD must support a user account structure that separates drivers and motor ca
 (3) Not allow entry of any information into the ELD other than a response to the login prompt.
 4.2. ELD-Vehicle Interface
 (a) An ELD must be integrally synchronized with the engine of the CMV. Engine synchronization for purposes of ELD compliance means the monitoring of the vehicle's engine operation to automatically capture the engine's power status, vehicle's motion status, miles driven value, and engine hours value when the CMV's engine is powered.
-(b) An ELD used while operating a CMV that is a model year 2000 or later model year, as indicated by the vehicle identification number (VIN), that has an engine electronic control module (ECM) must establish a link to the engine ECM when the CMV's engine is powered and receive automatically the engine's power status, vehicle's motion status, miles driven value, and engine hours value through the serial or Control Area Network communication protocols supported by the vehicle's engine ECM. If the vehicle does not have an ECM, an ELD may use alternative sources to obtain or estimate these vehicle parameters with the listed accuracy requirements under section 4.3.1 of this appendix.
+(b) An ELD used while operating a CMV that is a model year 2000 or later model year, as indicated by the vehicle identification number (VIN), that has an engine electronic control module (ECM) must establish a link to the engine ECM when the CMV's engine is powered and receive automatically the engine's power status, vehicle's motion status, miles driven value, and engine hours value through the serial or Control Area Network communication protocols supported by the engine ECM or the vehicle's databus. If the vehicle does not have an ECM, an ELD may use alternative sources to obtain or estimate these vehicle parameters with the listed accuracy requirements under section 4.3.1 of this appendix.
 4.3. ELD Inputs
 4.3.1. ELD Sensing
 4.3.1.1. Engine Power Status
@@ -301,16 +301,16 @@ An ELD must be powered and become fully functional within 1 minute of the vehicl
 (1) Once the vehicle speed exceeds the set speed threshold, it must be considered in motion.
 (2) Once in motion, the vehicle must be considered in motion until its speed falls to 0 miles per hour and stays at 0 miles per hour for 3 consecutive seconds. Then, the vehicle will be considered stopped.
 (3) An ELD's set speed threshold for determination of the in-motion state for the purpose of this section must not be configurable to greater than 5 miles per hour.
-(b) If an ELD is required to have a link to the vehicle's engine ECM, vehicle speed information must be acquired from the engine ECM. Otherwise, vehicle speed information must be acquired using an independent source apart from the positioning services described under section 4.3.1.6 of this appendix and must be accurate within ±3 miles per hour of the CMV's true ground speed for purposes of determining the in-motion state for the CMV.
+(b) If an ELD is required to have a link to the vehicle's engine ECM, vehicle speed information must be acquired from the engine ECM or the vehicle's databus. Otherwise, vehicle speed information must be acquired using an independent source apart from the positioning services described under section 4.3.1.6 of this appendix and must be accurate within ±3 miles per hour of the CMV's true ground speed for purposes of determining the in-motion state for the CMV.
 4.3.1.3. Vehicle Miles
 (a) An ELD must monitor vehicle miles as accumulated by a CMV over the course of an ignition power on cycle (accumulated vehicle miles) and over the course of CMV's operation (total vehicle miles). Vehicle miles information must use or must be converted to units of whole miles.
 (b) If the ELD is required to have a link to the vehicle's engine ECM as specified in section 4.2 of this appendix:
-(1) The ELD must monitor the engine ECM's odometer message broadcast and use it to log total vehicle miles information; and
+(1) The ELD must monitor the odometer message broadcast on the engine ECM or the vehicle's databus and use it to log total vehicle miles information; and
 (2) The ELD must use the odometer message to determine accumulated vehicle miles since engine's last power on instance.
 (c) If the ELD is not required to have a link to the vehicle's engine ECM as specified in section 4.2 of this appendix, the accumulated vehicle miles indication must be obtained or estimated from a source that is accurate to within ±10% of miles accumulated by the CMV over a 24-hour period as indicated on the vehicle's odometer display.
 4.3.1.4. Engine Hours
 (a) An ELD must monitor engine hours of the CMV over the course of an ignition power on cycle (elapsed engine hours) and over the course of the total engine hours of the CMV's operation. Engine hours must use or must be converted to hours in intervals of a tenth of an hour.
-(b) If an ELD is required to have a link to the vehicle's engine ECM, the ELD must monitor the engine ECM's total engine hours message broadcast and use it to log total engine hours information. Otherwise, engine hours must be obtained or estimated from a source that monitors the ignition power of the CMV and must be accurate within ±0.1 hour of the engine's total operation within a given ignition power on cycle.
+(b) If an ELD is required to have a link to the vehicle's engine ECM, the ELD must monitor the total engine hours message broadcast on the engine ECM or the vehicle's databus and use it to log total engine hours information. Otherwise, engine hours must be obtained or estimated from a source that monitors the ignition power of the CMV and must be accurate within ±0.1 hour of the engine's total operation within a given ignition power on cycle.
 4.3.1.5. Date and Time
 (a) The ELD must obtain and record the date and time information automatically without allowing any external input or interference from a motor carrier, driver, or any other person.
 (b) The ELD time must be synchronized to Coordinated Universal Time (UCT) and the absolute deviation from UCT must not exceed 10 minutes at any point in time.
@@ -323,7 +323,7 @@ An ELD must be powered and become fully functional within 1 minute of the vehicl
 (f) During periods of a driver's indication of personal use of the CMV, the measurement reporting precision requirement is reduced to tenths of a degree (i.e., a decimal point and single decimal place) as further specified in section 4.7.3 of this appendix.
 (g) An ELD must be able to acquire a valid position measurement at least once every 5 miles of driving; however, the ELD records CMV location information only during ELD events as specified in section 4.5.1 of this appendix.
 4.3.1.7. CMV VIN
-The vehicle identification number (VIN) for the power unit of a CMV must be automatically obtained from the engine ECM and recorded if it is available on the vehicle databus.
+The vehicle identification number (VIN) for the power unit of a CMV must be automatically obtained and recorded if it is available on the vehicle databus.
 4.3.2. Driver's Manual Entries
 (a) An ELD must prompt the driver to input information into the ELD only when the CMV is stationary and driver's duty status is not on-duty driving, except for the condition specified in section 4.4.1.2 of this appendix.
 (b) If the driver's duty status is driving, an ELD must only allow the driver who is operating the CMV to change the driver's duty status to another duty status.
@@ -484,7 +484,7 @@ The event data check value must be calculated as follows.
 (6) <Engine Hours>,
 (7) <Event Latitude>,
 (8) <Event Longitude>,
-(9) <CMV number>, and
+(9) <CMV Power Unit Number>", and
 (10) <ELD username>.
 (c) The ELD must sum the numeric values of all individual characters making up the listed data elements using the character to decimal value coding specified in Table 3 of this appendix, and use the 8-bit lower byte of the hexadecimal representation of the summed total as the event checksum value for that event.
 4.4.5.1.2. Event Data Check Calculation
@@ -670,7 +670,7 @@ Co-Driver: <{Co-Driver's} Last Name>, <{Co-Driver's} First Name>
 Co-Driver ID: < ELD username{for the co-driver}>
 Current Odometer: <{Current}{Total} Vehicle Miles>
 Current Engine Hours: <{Current}{Total} Engine Hours>
-ELD ID: <ELD Registration ID>
+ELD ID: [ELD Identifier]
 ELD Provider: <Provider>
 Truck Tractor ID: <CMV Power Unit Number>
 Truck Tractor VIN: <CMV VIN>
@@ -771,7 +771,7 @@ Each subsequent row must have the following data elements:
 <Event Sequence ID Number>,<ELD username {of the Record Originator}>,<{Event} Comment Text or Annotation>,<{Event} Date>,<{Event} Time>, <Driver's Location Description>,<Line Data Check Value> <CR>
 4.8.2.1.6. ELD Event List for Driver's Certification of Own Records
 This segment must list ELD event records with event type 4 (driver's certification of own records as described in section 4.5.1.4 of this appendix) for the inspected driver for the time period for which this file is generated. It must be rank ordered with the most current record on top. This segment has a variable number of rows depending on the number of certification and re-certification actions the authenticated driver may have executed on the ELD over the time period for which this file is generated. This section must start with the following title:
-Driver's Certification/Recertification Actions: <CR>
+Driver's Certification/Recertification Actions: [CR]
 Each subsequent row must have the following data elements:
 <Event Sequence ID Number>,<Event Code>,<{Event} Date>,<{Event} Time>,<Date {of the certified record}>,<{Corresponding CMV} Order Number>,<Line Data Check Value> <CR>
 4.8.2.1.7. Malfunction and Diagnostic Event Records
@@ -1100,14 +1100,14 @@ Examples: [D], [S].
 7.14. ELD Authentication Value
 Description: An alphanumeric value that is unique to an ELD and verifies the authenticity of the given ELD.
 Purpose: Provides ability to cross-check the authenticity of an ELD used in the recording of a driver's records during inspections.
-Source: ELD provider-assigned value; includes a certificate component and a hashed component; necessary information related to authentication keys and hash procedures disclosed by the registered ELD provider during the online ELD certification process for independent verification by FMCSA systems.
+Source: ELD provider-assigned value; includes a certificate component and a hashed component; necessary information related to authentication keys and hash procedures disclosed by the registered ELD provider during the online ELD certification process for independent verification by FMCSA systems. For example, an ELD Authentication Value could be generated by creating a string that concatenates a predetermined selection of values that will be included in the ELD Output File, signing that string (using the ELD private key and a predetermined hash algorithm), then using a binary-to-text encoding algorithm to encode the signature into alphanumeric characters.
 Used in: ELD outputs.
-Data Type: Calculated from the authentication key and calculation procedure privately distributed by the ELD provider to FMCSA during the ELD registration process.
+Data Type: Calculated from the authentication ELD provider's private key not provided to FMCSA but corresponding to the ELD provider's public key certificate and calculation procedure privately distributed by the ELD provider to FMCSA during the ELD registration process.
 Data Range: Alphanumeric combination.
-Data Length: 16-32 characters.
+Data Length: Greater than 16 characters.
 Data Format: <CCCC.........CCCC>.
 Disposition: Mandatory.
-Example: [D3A4506EC8FF566B506EC8FF566BDFBB].
+Example: [bGthamRrZmpha3NkamZsa2pzZGxma 2phc2xka2Y7ajtza25rbCBucms7Y2... RuZHNudm5hc21kbnZBU0RGS0x KQVNMS0RKTEs7QVNKRDtGTEtBSlNER ktMSkFEU0w7S1NESkZMSw==].
 7.15. ELD Identifier
 Description: An alphanumeric identifier assigned by the ELD provider to the ELD technology that is certified by the registered provider at FMCSA's Web site.
 Purpose: Provides ability to cross-check that the ELD used in the recording of a driver's records is certified through FMCSA's registration and certification process as required.
@@ -1161,7 +1161,7 @@ Data Type: Acquired from the engine ECM or a comparable other source as allowed 
 Data Range: For <{Total} Engine Hours>, range is between 0.0 and 99,999.9; for <{Elapsed} Engine Hours>, range is between 0.0 and 99.9.
 Data Length: 3-7 characters.
 Data Format: <Vehicle Miles> as in <C.C> to <CCCCC.C>.
-Disposition: Mandatory.
+Disposition: Mandatory for any event whose origin is the ELD or the unidentified driver profile. For events created by the driver or another authenticated user when engine hours are not available and cannot accurately be determined this field can be blank.
 Examples: [0.0], [9.9], [346.1], [2891.4].
 7.20. Event Code
 Description: A dependent attribute on "Event Type" parameter that further specifies the nature of the change indicated in "Event Type"; this parameter indicates the new status after the change.
@@ -1174,7 +1174,7 @@ Data Length: 1 character.
 Data Format: <Event Type> as in <C>.
 Disposition: Mandatory.
 Examples: [0], [1], [4], [9].
-ER16DE15.011
+ER17MY18.000
 7.21. Event Data Check Value
 Description: A hexadecimal "check" value calculated in accordance with the procedure outlined in section 4.4.5.1 of this appendix and attached to each event record at the time of recording.
 Purpose: Provides ability to identify cases where an ELD event record may have been inappropriately modified after its original recording.
@@ -1298,11 +1298,11 @@ Purpose: In combination with the variable "Longitude", this parameter stamps rec
 Source: ELD's position measurement.
 Used in: ELD events; ELD outputs.
 Data Type: Latitude and Longitude must be automatically captured by the ELD.
-Data Range: −90.00 to 90.00 in decimal degrees (two decimal point resolution) in records using conventional positioning precision; −90.0 to 90.0 in decimal degrees (single decimal point resolution) in records using reduced positioning precision when allowed; latitudes north of the equator must be specified by the absence of a minus sign (−) preceding the digits designating degrees; latitudes south of the Equator must be designated by a minus sign (−) preceding the digits designating degrees.
-Data Length: 3 to 6 characters.
-Data Format: First character: [<`−'> or <{blank}>]; then [<C> or <CC>]; then <`.'>; then [<C> or <CC>].
+Data Range: X, M, E or −90.00 to 90.00 in decimal degrees (two decimal point resolution) in records using conventional positioning precision; −90.0 to 90.0 in decimal degrees (single decimal point resolution) in records using reduced positioning precision when allowed; latitudes north of the equator must be specified by the absence of a minus sign (−) preceding the digits designating degrees; latitudes south of the Equator must be designated by a minus sign (−) preceding the digits designating degrees.
+Data Length: 1, or 3 to 6 characters.
+Data Format: <C> or First character: [<'-'> or <{blank}>]; then [<C> or <CC>]; then <'.'>; then [<C> or <CC>].
 Disposition: Mandatory.
-Examples: [−15.68], [38.89], [5.07], [−6.11], [−15.7], [38.9], [5.1], [−6.1].
+Examples: [X], [M], [E], [−15.68], [38.89], [5.07], [−6.11], [−15.7], [38.9], [5.1], [−6.1].
 7.32. Line Data Check Value
 Description: A hexadecimal "check" value calculated in accordance with procedure outlined in section 4.4.5.2 and attached to each line of output featuring data at the time of output file being generated.
 Purpose: Provides ability to identify cases where an ELD output file may have been inappropriately modified after its original generation.
@@ -1320,11 +1320,11 @@ Purpose: In combination with the variable "Latitude", this parameter stamps reco
 Source: ELD's position measurement.
 Used in: ELD events; ELD outputs.
 Data Type: Latitude and Longitude must be automatically captured by the ELD.
-Data Range: −179.99 to 180.00 in decimal degrees (two decimal point resolution) in records using conventional positioning precision; −179.9 to 180.0 in decimal degrees (single decimal point resolution) in records using reduced positioning precision when allowed; longitudes east of the prime meridian must be specified by the absence of a minus sign (−) preceding the digits designating degrees of longitude; longitudes west of the prime meridian must be designated by minus sign (−) preceding the digits designating degrees.
-Data Length: 3 to 7 characters.
-Data Format: First character: [<`−'> or <{blank}>]; then [<C>, <CC> or <CCC>]; then <`.'>; then [<C> or <CC>].
+Data Range: X, M, E or −179.99 to 180.00 in decimal degrees (two decimal point resolution) in records using conventional positioning precision; −179.9 to 180.0 in decimal degrees (single decimal point resolution) in records using reduced positioning precision when allowed; longitudes east of the prime meridian must be specified by the absence of a minus sign (−) preceding the digits designating degrees of longitude; longitudes west of the prime meridian must be designated by minus sign (−) preceding the digits designating degrees.
+Data Length: 1, or 3 to 7 characters.
+Data Format: <C> or First character: [<`-'> or <{blank}>]; then [<C>, <CC> or <CCC>]; then <`.'>; then [<C> or <CC>].
 Disposition: Mandatory.
-Examples: [−157.81], [−77.03], [9.05], [−0.15], [−157.8], [−77.0], [9.1], [−0.2].
+Examples: [X], [M], [E], [−157.81], [−77.03], [9.05], [−0.15], [−157.8], [−77.0], [9.1], [−0.2].
 7.34. Malfunction/Diagnostic Code
 Description: A code that further specifies the underlying malfunction or data diagnostic event.
 Purpose: Enables coding the type of malfunction and data diagnostic event to cover the standardized set in Table 4 of this appendix.
@@ -1433,5 +1433,5 @@ Data Type: Acquired from the engine ECM or a comparable other source as allowed 
 Data Range: For <{Total} Vehicle Miles>, range is between 0 and 9,999,999; for <{Accumulated} Vehicle Miles>, range is between 0 and 9,999.
 Data Length: 1-7 characters.
 Data Format: <Vehicle Miles> as in <C> to <CCCCCCC>.
-Disposition: Mandatory.
+Disposition: Mandatory for any event whose origin is the ELD or the unidentified driver profile. For events created by the driver or another authenticated user when vehicle miles are not available and cannot accurately be determined this field can be blank.
 Examples: [99], [1004566], [0], [422].
