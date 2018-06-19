@@ -1,4 +1,4 @@
-# Appendix B to Part 40—DOT Drug Testing Semi-Annual Laboratory Report to Employers
+# Appendix B to Part 40—DOT Drug-Testing Semi-Annual Laboratory Report to Employers
 The following items are required on each laboratory report:
 Reporting Period: (inclusive dates)
 Laboratory Identification: (name and address)
@@ -23,17 +23,20 @@ By Reason
 4. Specimens Reported as Positive (total number) By Drug
 (a) Marijuana Metabolite (number)
 (b) Cocaine Metabolite (number)
-(c) Opiates (number)
+(c) Opioids (number)
 (1) Codeine (number)
 (2) Morphine (number)
 (3) 6-AM (number)
+(4) Hydrocodone (number)
+(5) Hydromorphone (number)
+(6) Oxycodone (number)
+(7) Oxymorphone (number)
 (d) Phencyclidine (number)
 (e) Amphetamines (number)
 (1) Amphetamine (number)
 (2) Methamphetamine (number)
 (3) MDMA (number)
 (4) MDA (number)
-(5) MDEA (number)
 5. Adulterated (number)
 6. Substituted (number)
 7. Invalid Result (number)
