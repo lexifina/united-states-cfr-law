@@ -178,7 +178,7 @@
 (ii) Ten hours of training in a multiengine airplane that has retractable landing gear, flaps, and a controllable pitch propeller, or is turbine-powered;
 (iii) One 2-hour cross country flight during daytime conditions in a multiengine airplane and, a total straight-line distance of more than 100 nautical miles from the original point of departure;
 (iv) One 2-hour cross country flight during nighttime conditions in a multiengine airplane and, a total straight-line distance of more than 100 nautical miles from the original point of departure; and
-(iv) Three hours of flight training in a multiengine airplane within 2 calendar months before the date of the practical test.
+(v) Three hours of flight training in a multiengine airplane within 2 calendar months before the date of the practical test.
 (3) For the airline transport pilot certificate, the course requires 25 hours of training in a multiengine airplane on the areas of operation of appendix E to part 141, paragraph 4.(c) that includes 15 hours of instrument training. A flight simulator and flight training device cannot be used more than 12.5 hours to meet the training requirements, and use of the flight training device is limited to 6.25 hours of the 12.5 hours permitted.
 (l) Course for a rotorcraft additional helicopter class rating.
 (1) For the recreational pilot certificate, the course requires 3 hours of flight training on the areas of operations under appendix A of part 141, paragraph 4.(c)(2) that includes—
