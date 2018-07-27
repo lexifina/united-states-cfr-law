@@ -64,7 +64,7 @@ d. Related Reading References.
 (23) AC 23-8A, as amended, Flight Test Guide for Certification of Part 23 Airplanes.
 (24) International Civil Aviation Organization (ICAO) Manual of Criteria for the Qualification of Flight Simulation Training Devices, as amended.
 (25) Aeroplane Flight Simulation Training Device Evaluation Handbook, Volume I, as amended and Volume II, as amended, The Royal Aeronautical Society, London, UK.
-(26) FAA Publication FAA-S-8081 series (Practical Test Standards for Airline Transport Pilot Certificate, Type Ratings, Commercial Pilot, and Instrument Ratings).
+(26) FAA Airman Testing Standards for the Airline Transport Pilot Certificate, Type Ratings, Commercial Pilot Certificate, and Instrument Ratings.
 (27) The FAA Aeronautical Information Manual (AIM). An electronic version of the AIM is on the Internet at http://www.faa.gov/atpubs.
 (28) Aeronautical Radio, Inc. (ARINC) document number 436, titled Guidelines For Electronic Qualification Test Guide (as amended).
 (29) Aeronautical Radio, Inc. (ARINC) document 610, Guidance for Design and Integration of Aircraft Avionics Equipment in Simulators (as amended).

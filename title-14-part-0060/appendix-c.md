@@ -63,7 +63,7 @@ d. Related Reading References.
 (22) AC 27-1, as amended, Flight Test Guide for Certification of Normal Category Rotorcraft.
 (23) International Civil Aviation Organization (ICAO) Manual of Criteria for the Qualification of Flight Simulators, as amended.
 (24) Airplane Flight Simulator Evaluation Handbook, Volume I, as amended and Volume II, as amended, The Royal Aeronautical Society, London, UK.
-(25) FAA Publication FAA-S-8081 series (Practical Test Standards for Airline Transport Pilot Certificate, Type Ratings, Commercial Pilot, and Instrument Ratings).
+(25) FAA Airman Testing Standards for the Airline Transport Pilot Certificate, Type Ratings, Commercial Pilot Certificate, and Instrument Ratings.
 (26) The FAA Aeronautical Information Manual (AIM). An electronic version of the AIM is on the Internet at http://www.faa.gov/atpubs.
 (27) Aeronautical Radio, Inc. (ARINC) document number 436, titled Guidelines For Electronic Qualification Test Guide (as amended).
 (28) Aeronautical Radio, Inc. (ARINC) document 610, Guidance for Design and Integration of Aircraft Avionics Equipment in Simulators (as amended).
@@ -1619,7 +1619,6 @@ Agency: Federal Aviation Administration (FAA), DOT
 Action: This is a retroactive requirement to have all Class II or Class III airport models meet current requirements.
 Summary: Notwithstanding the authorization listed in paragraph 13b in Appendices A and C of this part, this FSTD Directive requires each certificate holder to ensure that by May 30, 2009, except for the airport model(s) used to qualify the simulator at the designated level, each airport model used by the certificate holder's instructors or evaluators for training, checking, or testing under this chapter in an FFS, meets the definition of a Class II or Class III airport model as defined in 14CFR part 60. The completion of this requirement will not require a report, and the method used for keeping instructors and evaluators apprised of the airport models that meet Class II or Class III requirements on any given simulator is at the option of the certificate holder whose employees are using the FFS, but the method used must be available for review by the TPAA for that certificate holder.
 Dates: FSTD Directive 1 becomes effective on May 30, 2008.
-For Further Information Contact: Ed Cook, Senior Advisor to the Division Manager, Air Transportation Division, AFS-200, 800 Independence Ave, SW, Washington, DC, 20591: telephone: (404) 832-4701; fax: (404) 761-8906.
 Specific Requirements:
 1. Part 60 requires that each FSTD be:
 a. Sponsored by a person holding or applying for an FAA operating certificate under Part 119, Part 141, or Part 142, or holding or applying for an FAA-approved training program under Part 63, Appendix C, for flight engineers, and
