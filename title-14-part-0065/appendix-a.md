@@ -1,6 +1,6 @@
 # Appendix A to Part 65—Aircraft Dispatcher Courses
 Overview
-This appendix sets forth the areas of knowledge necessary to perform dispatcher functions. The items listed below indicate the minimum set of topics that must be covered in a training course for aircraft dispatcher certification. The order of coverage is at the discretion of the approved school. For the latest technological advancements refer to the Practical Test Standards as published by the FAA.
+This appendix sets forth the areas of knowledge necessary to perform dispatcher functions. The items listed below indicate the minimum set of topics that must be covered in a training course for aircraft dispatcher certification. The order of coverage is at the discretion of the approved school.
 I. Regulations
 A. Subpart C of this part;
 B. Parts 1, 25, 61, 71, 91, 121, 139, and 175, of this chapter;
