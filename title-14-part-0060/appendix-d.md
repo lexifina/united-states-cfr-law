@@ -65,7 +65,7 @@ d. Related Reading References.
 (25) AC 27-1, as amended, Flight Test Guide for Certification of Normal Category Rotorcraft.
 (26) International Civil Aviation Organization (ICAO) Manual of Criteria for the Qualification of Flight Simulators, as amended.
 (27) Airplane Flight Simulator Evaluation Handbook, Volume I, as amended and Volume II, as amended, The Royal Aeronautical Society, London, UK.
-(28) FAA Publication FAA-S-8081 series (Practical Test Standards for Airline Transport Pilot Certificate, Type Ratings, Commercial Pilot, and Instrument Ratings).
+(28) FAA Airman Testing Standards for the Airline Transport Pilot Certificate, Type Ratings, Commercial Pilot Certificate, and Instrument Ratings.
 (29) The FAA Aeronautical Information Manual (AIM). An electronic version of the AIM is on the Internet at http://www.faa.gov/atpubs.
 (30) Aeronautical Radio, Inc. (ARINC) document number 436, Guidelines For Electronic Qualification Test Guide (as amended).
 (31) Aeronautical Radio, Inc. (ARINC) document 610, Guidance for Design and Integration of Aircraft Avionics Equipment in Simulators (as amended).
