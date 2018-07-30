@@ -758,6 +758,7 @@ NY 695 | NY 5 Fairmont | I-690 Solvay.
 Berkshire Conn. (NY 912M) | I-87 Exit 21A S. of Albany | I-90 Exit B1.
 Inner Loop (NY 940T) | I-490 W. Int. Rochester | I-490 E. Int. Rochester.
 Walden Avenue (NY 952Q) | I-90 Exit 52 | NY 277 Cheektowaga.
+Sheridan Boulevard (NY 895) | I-278 Bruckner Expressway | I-95 Cross Bronx Expressway.
 North Carolina
 I-40 Conn | US 19/23/74 Clyde | I-40 W. of Clyde.
 I-95 BR | I-95 S. of Fayetteville | I-95 N. of Fayetteville.
