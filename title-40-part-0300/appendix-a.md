@@ -218,40 +218,72 @@ List of Tables
 4.2.5 Calculation of ground water to surface water migration component score for a watershed.
 4.2.6 Calculation of ground water to surface water migration component score.
 4.3 Calculation of surface water migration pathway score.
-5.0 Soil Exposure Pathway.
-5.0.1 General considerations.
-5.1 Resident population threat.
-5.1.1 Likelihood of exposure.
-5.1.2 Waste characteristics.
-5.1.2.1 Toxicity.
-5.1.2.2 Hazardous waste quantity.
-5.1.2.3 Calculation of waste characteristics factor category value.
-5.1.3 Targets.
-5.1.3.1 Resident individual.
-5.1.3.2 Resident population.
-5.1.3.2.1 Level I concentrations.
-5.1.3.2.2 Level II concentrations.
-5.1.3.2.3 Calculation of resident population factor value.
-5.1.3.3 Workers.
-5.1.3.4 Resources.
-5.1.3.5 Terrestrial sensitive environments.
-5.1.3.6 Calculation of resident population targets factor category value.
-5.1.4 Calculation of resident population threat score.
-5.2 Nearby population threat.
-5.2.1 Likelihood of exposure.
-5.2.1.1 Attractiveness/accessibility.
-5.2.1.2 Area of contamination.
-5.2.1.3 Likelihood of exposure factor category value.
-5.2.2 Waste characteristics.
-5.2.2.1 Toxicity.
-5.2.2.2 Hazardous waste quantity.
-5.2.2.3 Calculation of waste characteristics factor category value.
-5.2.3 Targets.
-5.2.3.1 Nearby individual.
-5.2.3.2 Population within 1 mile.
-5.2.3.3 Calculation of nearby population targets factor category value.
-5.2.4 Calculation of nearby population threat score.
-5.3 Calculation of soil exposure pathway score.
+5.0 Soil Exposure and Subsurface Intrusion Pathway.
+5.0.1 Exposure components.
+5.1 Soil exposure component.
+5.1.0 General considerations.
+5.1.1 Resident population threat.
+5.1.1.1 Likelihood of exposure.
+5.1.1.2 Waste characteristics.
+5.1.1.2.1 Toxicity.
+5.1.1.2.2 Hazardous waste quantity.
+5.1.1.2.3 Calculation of waste characteristics factor category value.
+5.1.1.3 Targets.
+5.1.1.3.1 Resident individual.
+5.1.1.3.2 Resident population.
+5.1.1.3.2.1 Level I concentrations.
+5.1.1.3.2.2 Level II concentrations.
+5.1.1.3.2.3 Calculation of resident population factor value.
+5.1.1.3.3 Workers.
+5.1.1.3.4 Resources.
+5.1.1.3.5 Terrestrial sensitive environments.
+5.1.1.3.6 Calculation of resident population targets factor category value.
+5.1.1.4 Calculation of resident population threat score.
+5.1.2 Nearby population threat.
+5.1.2.1 Likelihood of exposure.
+5.1.2.1.1 Attractiveness/accessibility.
+5.1.2.1.2 Area of contamination.
+5.1.2.1.3 Likelihood of exposure factor category value.
+5.1.2.2 Waste characteristics.
+5.1.2.2.1 Toxicity.
+5.1.2.2.2 Hazardous waste quantity.
+5.1.2.2.3 Calculation of waste characteristics factor category value.
+5.1.2.3 Targets.
+5.1.2.3.1 Nearby individual.
+5.1.2.3.2 Population within 1 mile.
+5.1.2.3.3 Calculation of nearby population targets factor category value.
+5.1.2.4 Calculation of nearby population threat score.
+5.1.3 Calculation of soil exposure component score.
+5.2 Subsurface intrusion component.
+5.2.0 General considerations.
+5.2.1 Subsurface intrusion component.
+5.2.1.1 Likelihood of exposure.
+5.2.1.1.1 Observed exposure.
+5.2.1.1.2 Potential for exposure.
+5.2.1.1.2.1 Structure containment.
+5.2.1.1.2.2 Depth to contamination.
+5.2.1.1.2.3 Vertical migration.
+5.2.1.1.2.4 Vapor migration potential.
+5.2.1.1.2.5 Calculation of potential for exposure factor value.
+5.2.1.1.3 Calculation of likelihood of exposure factor category value.
+5.2.1.2 Waste characteristics.
+5.2.1.2.1 Toxicity/degradation.
+5.2.1.2.1.1 Toxicity.
+5.2.1.2.1.2 Degradation.
+5.2.1.2.1.3 Calculation of toxicity/degradation factor value.
+5.2.1.2.2 Hazardous waste quantity.
+5.2.1.2.3 Calculation of waste characteristics factor category value.
+5.2.1.3 Targets.
+5.2.1.3.1 Exposed individual.
+5.2.1.3.2 Population.
+5.2.1.3.2.1 Level I concentrations.
+5.2.1.3.2.2 Level II concentrations.
+5.2.1.3.2.3 Population within area(s) of subsurface contamination.
+5.2.1.3.2.4 Calculation of population factor value.
+5.2.1.3.3 Resources.
+5.2.1.3.4 Calculation of targets factor category value.
+5.2.2 Calculation of subsurface intrusion component score.
+5.3 Calculation of the soil exposure and subsurface intrusion pathway score.
 6.0 Air Migration Pathway.
 6.1 Likelihood of release.
 6.1.1 Observed release.
@@ -654,7 +686,7 @@ RfC < 0.0001 | 10,000
 2.0 ≤ RfC | 1
 RfC not available | 0
 Carcinogenicity (human) | A or Carcinogenic to humans | B or Likely to be carcinogenicto humans | C or Suggestive evidence ofcarcinogenic potential | Assignedvalue
-Weight-of-evidence a /Slope factor (mg/kg-day) − 1
+Weight-of-evidence a /Slope factor (mg/kg-day) −1
 0.5 ≤ SF b | 5 ≤ SF | 50 ≤ SF | 10,000
 0.05 ≤ SF < 0.5 | 0.5 ≤ SF < 5 | 5 ≤ SF < 50 | 1,000
 SF < 0.05 | 0.05 ≤ SF < 0.5 | 0.5 ≤ SF < 5 | 100
@@ -732,28 +764,28 @@ Based on this mass, designated as C, assign a value for hazardous constituent qu
 If the hazardous constituent quantity for the source (or area of observed contamination or area of observed exposure) is adequately determined (that is, the total mass of all CERCLA hazardous substances in the source and releases from the source [or in the area of observed contamination or area of observed exposure] is known or is estimated with reasonable confidence), do not evaluate the other three measures discussed below. Instead assign these other three measures a value of 0 for the source (or area of observed contamination or area of observed exposure) and proceed to section 2.4.2.1.5.
 If the hazardous constituent quantity is not adequately determined, assign the source (or area of observed contamination or area of observed exposure) a value for hazardous constituent quantity based on the available data and proceed to section 2.4.2.1.2.
 Table 2-5—Hazardous Waste Quantity Evaluation Equations
-Tier | Measure | Units | Equation forassigning value a
-A | Hazardous constituent quantity (C) | lb | C
-B b | Hazardous wastestream quantity (W) | lb | W/5,000
-C b | Volume (V) |
-| Landfill | yd3 | V/2,500
-| Surface impoundment | yd3 | V/2.5
-| Surface impoundment (buried/backfilled) | yd3 | V/2.5
-| Drums c | gallon | V/2.5
-| Tanks and containers other than drums | yd3 | V/2.5
-| Contaminated soil | yd3 | V/2,500
-| Pile | yd3 | V/2.5
-| Other | yd3 | V/2.5
+Tier | Measure | Units | Equationfor assigning value a
+A | Hazardous constituent quantity (C) | lb | C.
+B b | Hazardous wastestream quantity (W) | lb | W/5,000.
+C b | Volume (V)
+| Landfill | yd3 | V/2,500.
+| Surface impoundment | yd3 | V/2.5.
+| Surface impoundment (buried/backfilled) | yd3 | V/2.5.
+| Drums c | gallon | V/500.
+| Tanks and containers other than drums | yd3 | V/2.5.
+| Contaminated soil | yd3 | V/2,500.
+| Pile | yd3 | V/2.5.
+| Other | yd3 | V/2.5.
 D b | Area (A)
-| Landfill | ft2 | A/3,400
-| Surface impoundment | ft2 | A/13
-| Surface impoundment (buried/backfilled) | ft2 | A/13
-| Land treatment | ft2 | A/270
-| Pile d | ft2 | A/13
-| Contaminated soil | ft2 | A/34,000
+| Landfill | ft2 | A/3,400.
+| Surface impoundment | ft2 | A/13.
+| Surface impoundment (buried/backfilled) | ft2 | A/13.
+| Land treatment | ft2 | A/270.
+| Pile d | ft2 | A/13.
+| Contaminated soil | ft2 | A/34,000.
 a Do not round to nearest integer.
 b Convert volume to mass when necessary: 1 ton = 2,000 pounds = 1 cubic yard = 4 drums = 200 gallons.
-c If actual volume of drums is unavailable, assume 1 drum = 50 gallons.
+c If actual volume of drums is unavailable, assume 1 drum=50 gallons.
 d Use land surface area under pile, not surface area of pile.
 2.4.2.1.2 Hazardous wastestream quantity. Evaluate hazardous wastestream quantity for the source (or area of observed contamination or area of observed exposure) based on the mass of hazardous wastestreams plus the mass of any additional CERCLA pollutants and contaminants (as defined in CERCLA section 101[33], as amended) that are allocated to the source (or area of observed contamination or area of observed exposure). For a wastestream that consists solely of a hazardous waste listed pursuant to section 3001 of RCRA, as amended or that consists solely of a RCRA hazardous waste that exhibits the characteristics identified under section 3001 of RCRA, as amended, include the mass of that entire hazardous waste in the evaluation of this measure.
 Based on this mass, designated as W, assign a value for hazardous wastestream quantity as follows:
@@ -2701,15 +2733,16 @@ b Consider only layers at least 1 foot thick.
 —Select the hazardous substance associated with the area of subsurface contamination with the highest vapor migration potential value and assign this value as the vapor migration potential factor value for the area of subsurface contamination.
 Enter this value in Table 5-11.
 Table 5-16—Values for Vapor Pressure and Henry's Constant
-Vapor pressure (torr) | Assigned value
+| Assignedvalue
+Vapor Pressure (Torr):
 Greater than 10 | 3
 1 to 10 | 2
 Less than 1 | 0
-Henry's constant(atm-m3/mol) | Assignedvalue
-Greater than 10− 3 | 3
-Greater than 104 to 10− 3 | 2
-10− 5 to 10− 4 | 1
-Less than 10− 5 | 0
+Henry's Constant (atm-m3/mol):
+Greater than 10 − 3 | 3
+Greater than 10 − 4 to 10 − 3 | 2
+10 − 5 to 10 − 4 | 1
+Less than 10 − 5 | 0
 Table 5-17—Vapor Migration Potential Factor Values for a Hazardous Substance
 Sum of values for vapor pressure and Henry's constant | Assigned value
 0 | 0
@@ -3340,32 +3373,31 @@ Enter the value assigned for the sensitive environments factor in table 6-1.
 In general, radioactive substances are hazardous substances under CERCLA and should be considered in HRS scoring. Releases of certain radioactive substances are, however, excluded from the definition of "release" in section 101(22) of CERCLA, as amended, and should not be considered in HRS scoring.
 Evaluate sites containing radioactive substances using the instructions specified in sections 2 through 6, supplemented by the instructions in this section. Those factors denoted with a "yes" in table 7-1 are evaluated differently for sites containing radioactive substances than for sites containing only nonradioactive hazardous substances, while those denoted with a "no" are not evaluated differently and are not addressed in this section.
 Table 7-1—HRS Factors Evaluated Differently for Radionuclides
-Ground water pathway | Status a | Surface water pathway | Status a | Soil exposure component of SESSIpathway | Status a | Subsurface intrusion component of SESSIpathway | Status a | Air pathway | Status a
-Likelihood of Release | | Likelihood of Release | | Likelihood of Exposure | | Likelihood of Exposure | | Likelihood of Release |
+Ground waterpathway | Status a | Surface water pathway | Status a | Soil exposurecomponent of SESSI pathway | Status a | Subsurfaceintrusion component of SESSI pathway | Status a | Air pathway | Status a
+Likelihood ofRelease | | Likelihood ofRelease | | Likelihood ofExposure | | Likelihood ofExposure | | Likelihood ofRelease
 Observed Release | Yes | Observed Release | Yes | Observed Contamination | Yes | Observed Exposure | Yes | Observed Release | Yes.
 Potential to Release | No | Potential to Release | No | Attractiveness/Accessibility to Nearby Residents | No | Potential for Exposure | Yes | Gas Potential to Release | No.
 Containment | No | Overland Flow Containment | No | Area of Contamination | No | Structure Containment | No | Gas Containment | No.
-Net Precipitation | No | Runoff | No | Area of Observed Exposure | No | Depth to Contamination | Yes | Gas Source Type | No.
-Depth to Aquifer | No | Distance to Surface water | No | Area of Subsurface Contamination | No | Vertical migration | No | Gas Migration Potential | No.
+Net Precipitation | No | Runoff | No | | | Depth to Contamination | Yes | Gas Source Type | No.
+Depth to Aquifer | No | Distance to Surface water | No | | | Vertical migration | No | Gas Migration Potential | No.
 Travel Time | No | Flood Frequency | No | | | Vapor Migration Potential | No | Particulate Potential to Release | No.
-| | Flood Containment | No | | | | | Particulate Containment | No.
-| | | | | | | | Particulate Source Type | No.
+| | Flood Containment | No | | | Area of Observed Exposure | No | Particulate Containment | No.
+| | | | | | Area of Subsurface Contamination | No | Particulate Source Type | No.
 | | | | | | | | Particulate Migration Potential | No.
-Waste Characteristics | | Waste Characteristics | | Waste Characteristics | | Waste Characteristics | | Waste Characteristics |
+WasteCharacteristics | | WasteCharacteristics | | WasteCharacteristics | | WasteCharacteristics | | WasteCharacteristics
 Toxicity | Yes | Toxicity/Ecotoxicity | Yes/Yes | Toxicity | Yes | Toxicity/Degradation | Yes/Yes | Toxicity | Yes.
 Mobility | No | Persistence/Mobility | Yes/No | Hazardous Waste Quantity | Yes | Hazardous Waste Quantity | Yes | Mobility | No.
-Hazardous Waste Quantity | Yes | Bioaccumu-lation Potential | No | | | | | Hazardous Waste Quantity | Yes.
-| | Hazardous Waste Quantity | Yes | | | | | |
-Targets | | Targets | | Targets | | Targets | | Targets |
-Nearest Well | Yes.b | Nearest Intake | Yes.b | Resident Individual | Yes.b | ExposedIndividual | Yes.b | Nearest Individual | Yes.b
-Population | Yes.b | Drinking Water Population | Yes.b | Resident Population | Yes.b | Population | Yes.b | Population | Yes.b
-Resources | No | Resources | No | Workers | No | Resources | No | Resources | No
-Wellhead Protection Area | No | Sensitive Environments | Yes.b | Resources | No | | | Sensitive Environments | No
-| | Human Food Chain Individual | Yes.b | Terrestrial Sensitive Environments | No | | | |
-| | Human Food Chain Population | Yes.b | Nearby Individual | No | | | |
-| | | | Population Within 1 Mile | No | | | |
-a Factors evaluated differently are denoted by "yes"; factors not evaluated differently are denoted by "no".
-b Difference is in the determination of Level I and Level II concentrations.
+Hazardous Waste Quantity | Yes | Bioaccumulation Potential | No | | | | | Hazardous Waste Quantity | Yes.
+| | Hazardous Waste Quantity | Yes
+Targets | | Targets | | Targets | | Targets | | Targets
+Nearest Well | Yes b | Nearest Intake | Yes b | Resident Individual | Yes b | Exposed Individual | Yes b | Nearest Individual | Yes.b
+Population | Yes b | Drinking Water Population | Yes b | Resident Population | Yes b | Population | Yes b | Population | Yes.b
+Resources | No | Resources | No | Workers | No | Resources | No | Resources | No.
+Wellhead Protection Area | No | Sensitive Environments | Yes b | Resources | No | | | Sensitive Environments | No.
+| | Human Food Chain Individual | Yes b | Terrestrial Sensitive Environments | No
+| | Human Food Chain Population | Yes b | Nearby IndividualPopulation Within 1 Mile | NoNo
+a—Factors evaluated differently are denoted by "yes"; factors not evaluated differently are denoted by "no".
+b—Difference is in the determination of Level I and Level II concentrations.
 In general, sites containing mixed radioactive and other hazardous substances involve more evaluation than sites containing only radionuclides. For sites containing mixed radioactive and other hazardous substances, HRS factors are evaluated based on considerations of both the radioactive substances and the other hazardous substances in order to derive a single set of factor values for each factor category in each of the four pathways. Thus, the HRS score for these sites reflects the combined potential hazards posed by both the radioactive and other hazardous substances.
 Section 7 is organized by factor category, similar to sections 3 through 6. Pathway-specific differences in evaluation criteria are specified under each factor category, as appropriate. These differences apply largely to the soil exposure and subsurface intrusion pathway and to sites containing mixed radioactive and other hazardous substances. All evaluation criteria specified in sections 2 through 6 must be met, except where modified in section 7.
 7.1 Likelihood of release/likelihood of exposure. Evaluate likelihood of release for the three migration pathways and likelihood of exposure for the soil exposure and subsurface intrusion pathway as specified in sections 2 through 6, except: establish an observed release, observed contamination, and/or observed exposure as specified in section 7.1.1. When an observed release or exposure cannot be established for a migration pathway or the subsurface intrusion component of the soil exposure and subsurface intrusion pathway, evaluate potential to release as specified in section 7.1.2. When observed contamination cannot be established, do not evaluate the soil exposure component of the soil exposure and subsurface intrusion pathway.
