@@ -102,6 +102,7 @@ Citation | Requirement | Applies to subpart LLL | Explanation
 63.10(d)(5) | Startup, Shutdown, Malfunction Reports | No | See § 63.1354(c) for reporting requirements. Any reference to § 63.10(d)(5) in other General Provisions or in this subpart is to be treated as a cross-reference to § 63.1354(c).
 63.10(e)(1)-(2) | Additional CMS Reports | Yes
 63.10(e)(3) | Excess Emissions and CMS Performance Reports | Yes | Exceedances are defined in subpart LLL.
+63.10(e)(3)(v) | Due Dates for Excess Emissions and CMS Performance Reports | No | § 63.1354(b)(9) specifies due date.
 63.10(e)(3)(vii) and (viii) | Excess Emissions and CMS Performance Reports | No | Superseded by 63.1354(b)(10).
 63.10(f) | Waiver for Recordkeeping/Reporting | Yes
 63.11(a)-(b) | Control Device Requirements | No | Flares not applicable.
