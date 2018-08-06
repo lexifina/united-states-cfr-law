@@ -8,7 +8,7 @@ Arrowtooth | 121
 Bering | 116
 Kamchatka | 117
 Starry | 129
-Octopus, North Pacific | 870
+Octopuses | 870
 Pacific cod | 110
 Pollock | 270
 ROCKFISH:
@@ -56,10 +56,10 @@ Spiny dogfish | 691
 SKATES:
 Alaska (Bathyraja parmifera) | 703
 Aleutian (B. aleutica) | 704
-Whiteblotched (B. maculata) | 705
+Whiteblotched (B. maculate) | 705
 Big (Raja binoculata) | 702
 Longnose (R. rhina) | 701
-Other (if, Alaska, Aleutian, whiteblotched, big, or longnose skate—use specific species code listed above) | 700
+Other (if Alaska, Aleutian, whiteblotched, big, or longnose skate—use specific species code) | 700
 SOLE:
 Butter | 126
 Dover | 124
@@ -70,5 +70,4 @@ Rex | 125
 Rock | 123
 Sand | 132
 Yellowfin | 127
-Squid, majestic | 875
 Turbot, Greenland | 134
