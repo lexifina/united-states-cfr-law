@@ -1,9 +1,0 @@
-# Special Federal Aviation Regulation No. 79—Prohibition Against Certain Flights Within the Flight Information Region (FIR) of the Democratic People's Republic of Korea (DPRK)
-1. Applicability. This rule applies to the following persons:
-(a) All U.S. air carriers or commercial operators.
-(b) All persons exercising the privileges of an airman certificate issued by the FAA, except such persons operating U.S.-registered aircraft for a foreign air carrier.
-(c) All operators of aircraft registered in the United States except where the operator of such aircraft is a foreign air carrier.
-2. Flight Prohibition. Except as provided in paragraphs 3 and 4 of this SFAR, no person described in paragraph 1 may conduct flight operations through the Pyongyang FIR west of 132 degrees east longitude.
-3. Permitted Operations. This SFAR does not prohibit persons described in paragraph 1 from conducting flight operations within the Pyongyang FIR west of 132 degrees east longitude where such operations are authorized either by exemption issued by the Administrator or by another agency of the United States Government with FAA approval.
-4. Emergency situations. In an emergency that requires immediate decision and action for the safety of the flight, the pilot in command on an aircraft may deviate from this SFAR to the extent required by that emergency. Except for U.S. air carriers and commercial operators that are subject to the requirements of 14 CFR parts 121, 125, or 135, each person who deviates from this rule shall, within ten (10) days of the deviation, excluding Saturdays, Sundays, and Federal holidays, submit to the nearest FAA Flight Standards District Office a complete report of the operations of the aircraft involved in the deviation, including a description of the deviation and the reasons therefore.
-5. Expiration. This Special Federal Aviation Regulation No. 79 will remain in effect until further notice.
