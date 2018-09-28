@@ -84,12 +84,10 @@ VII. List of Acute and Critical Regulations.
 § 382.305 Failing to implement a random controlled substances and/or an alcohol testing program (acute).
 § 382.305(b)(1) Failing to conduct random alcohol testing at an annual rate of not less than the applicable annual rate of the average number of driver positions (critical).
 § 382.305(b)(2) Failing to conduct random controlled substances testing at an annual rate of not less than the applicable annual rate of the average number of driver positions (critical).
-§ 382.309(a) Using a driver who has not undergone a return-to-duty alcohol test with a result indicating an alcohol concentration of less than 0.02 (acute).
-§ 382.309(b) Using a driver who has not undergone a return-to-duty controlled substances test with a result indicating a verified negative result for controlled substances (acute).
+§ 382.309 Using a driver who has not undergone return-to-duty testing with a negative drug test result and/or an alcohol test with an alcohol concentration of less than 0.02 in accordance with 49 CFR 40.305 (acute).
 § 382.503 Allowing a driver to perform safety sensitive function, after engaging in conduct prohibited by subpart B, without being evaluated by substance abuse professional, as required by § 382.605 (critical).
 § 382.505(a) Using a driver within 24 hours after being found to have an alcohol concentration of 0.02 or greater but less than 0.04 (acute).
-§ 382.605(c)(1) Using a driver who has not undergone a return-to-duty alcohol test with a result indicating an alcohol concentration of less than.02 or with verified negative test result, after engaging in conduct prohibited by part 382 subpart B (acute).
-§ 382.605(c)(2)(ii) Failing to subject a driver who has been identified as needing assistance to at least six unannounced follow-up alcohol and/or controlled substance tests in the first 12 months following the driver's return to duty (critical).
+§ 382.605 Failing to subject a driver who has been identified as needing assistance to at least six unannounced follow-up drug and/or alcohol tests in the first 12 months following the driver's return-to-duty in accordance with 49 CFR 40.307 (critical).
 § 383.23(a) Operating a commercial motor vehicle without a valid commercial driver's license (critical).
 § 383.37(a) Knowingly allowing, requiring, permitting, or authorizing an employee who does not have a current CLP or CDL, who does not have a CLP or CDL with the proper class or endorsements, or who operates a CMV in violation of any restriction on the CLP or CDL to operate a CMV (acute).
 § 383.37(b) Knowingly allowing, requiring, permitting, or authorizing an employee with a commercial driver's license which is suspended, revoked, or canceled by a state or who is disqualified to operate a commercial motor vehicle (acute).
@@ -136,7 +134,7 @@ VII. List of Acute and Critical Regulations.
 § 395.8(a)(1) Failing to require a driver to prepare a record of duty status using appropriate method (critical).
 § 395.8(a)(2)(ii) Failure to require a driver to submit record of duty status (critical).
 § 395.8(e)(1) Making, or permitting a driver to make, a false report regarding duty status (critical).
-§ 395.8(e)(2) Disabling, deactivating, disengaging, jamming, or otherwise blocking or degrading a signal transmission or reception; tampering with an automatic on-board recording device or ELD; or permitting or requiring another person to engage in such activity (acute).
+§ 395.8(e)(2) or (3) Disabling, deactivating, disengaging, jamming, or otherwise blocking or degrading a signal transmission or reception; tampering with an automatic on-board recording device or ELD; or permitting or requiring another person to engage in such activity (acute).
 § 395.8(k)(1) Failing to preserve a driver's record of duty status or supporting documents for 6 months (critical).
 § 395.11(b) Failing to require a driver to submit supporting documents (critical).
 § 395.11(c) Failing to retain types of supporting documents as required by § 395.11(c) (critical).
@@ -163,9 +161,8 @@ VII. List of Acute and Critical Regulations.
 § 172.800(b) Transporting HM without a security plan (acute).
 § 172.800(b) Transporting HM without a security plan that conforms to Subpart I requirements (acute).
 § 172.800(b) Failure to adhere to a required security plan (acute).
-§ 172.802(b) Failure to make copies of security plan available to hazmat employees (critical).
 § 173.24(b)(1) Accepting for transportation or transporting a package that has an identifiable release of a hazardous material to the environment (acute).
-§ 173.421(a) Accepting for transportation or transporting a Class 7 (radioactive) material described, marked, and packaged as a limited quantity when the radiation level on the surface of the package exceeds 0.005mSv/hour (0.5 mrem/hour) (acute).
+§ 173.421 Accepting for transportation or transporting a Class 7 (radioactive) material described, marked, and packaged as a limited quantity when the radiation level on the surface of the package exceeds 0.005mSv/hour (0.5 mrem/hour) (acute).
 § 173.431(a) Accepting for transportation or transporting in a Type A packaging a greater quantity of Class 7 (radioactive) material than authorized (acute).
 § 173.431(b) Accepting for transportation or transporting in a Type B packaging a greater quantity of Class 7 (radioactive) material than authorized (acute).
 § 173.441(a) Accepting for transportation or transporting a package containing Class 7 (radioactive) material with external radiation exceeding allowable limits (acute).
@@ -174,7 +171,7 @@ VII. List of Acute and Critical Regulations.
 § 177.800(c) Failing to instruct a category of employees in hazardous materials regulations (critical).
 § 177.801 Accepting for transportation or transporting a forbidden material (acute).
 § 177.835(a) Loading or unloading a Class 1 (explosive) material with the engine running (acute).
-§ 177.835(c) Accepting for transportation or transporting Division 1.1, 1.2, or 1.3 (explosive) materials in a motor vehicle or combination of vehicles that is not permitted (acute).
+§ 177.835(c) Accepting for transportation or transporting Division 1.1 or 1.2 (explosive) materials in a motor vehicle or combination of vehicles that is not permitted (acute).
 § 177.835(j) Transferring Division 1.1, 1.2, or 1.3 (explosive) materials between containers or motor vehicles when not permitted (acute).
 § 177.817(a) Transporting a shipment of hazardous materials not accompanied by a properly prepared shipping paper (critical).
 § 177.817(e) Failing to maintain proper accessibility of shipping papers (critical).
