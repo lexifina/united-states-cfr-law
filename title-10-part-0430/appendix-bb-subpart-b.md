@@ -1,5 +1,5 @@
 # Appendix BB to Subpart B of Part 430—Uniform Test Method for Measuring the Input Power, Lumen Output, Lamp Efficacy, Correlated Color Temperature (CCT), Color Rendering Index (CRI), Power Factor, Time to Failure, and Standby Mode Power of Integrated Light-Emitting Diode (LED) Lamps
-Note: On or after December 28, 2016, any representations made with respect to the energy use or efficiency of integrated light-emitting diode lamps must be made in accordance with the results of testing pursuant to this appendix.
+Note: On or after March 20, 2019, any representations made with respect to the energy use or efficiency of integrated light-emitting diode lamps must be made in accordance with the results of testing pursuant to this appendix.
 1. Scope: This appendix specifies the test methods required to measure input power, lumen output, lamp efficacy, CCT, CRI, power factor, time to failure, and standby mode power for integrated LED lamps.
 2. Definitions
 2.1. The definitions specified in section 1.3 of IES LM-79-08 except section 1.3(f) (incorporated by reference; see § 430.3) apply.
@@ -41,7 +41,7 @@ In cases where there is a conflict, the language of the test procedure in this a
 4.4.1. Electrical settings must be as described in section 5.1 of IES LM-84 (incorporated by reference; see § 430.3).
 4.4.2. LED lamps must be handled and cleaned as described in section 4.1 of IES LM-84.
 4.4.3. Vibration around each lamp must be as described in section 4.3 of IES LM-84.
-4.4.4. Ambient temperature conditions must be as described in section 4.4 of IES LM-84. Maintain the ambient temperature at 25 °C ± 5 °C.
+4.4.4. Ambient temperature conditions must be as described in section 4.4 of IES LM-84. Maintain the ambient temperature at 25 °C ± 5 °C or at a manufacturer-selected temperature higher than 25 °C with the same ±5 °C tolerance.
 4.4.5. Humidity in the testing environment must be as described in section 4.5 of IES LM-84.
 4.4.6. Air movement around each lamp must be as described in section 4.6 of IES LM-84.
 4.4.7. Position a lamp in either the base-up and base-down orientation throughout testing. An equal number of lamps in the sample must be tested in the base-up and base-down orientations, except that, if the manufacturer restricts the position, test all of the units in the sample in the manufacturer-specified position.
