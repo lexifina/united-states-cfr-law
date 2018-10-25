@@ -1,7 +1,7 @@
 # Supplement No. 6 to Part 774—Sensitive List
 Note to Supplement No. 6: While the items on this list are identified by ECCN rather than by Wassenaar Arrangement numbering, the item descriptions are drawn directly from the Wassenaar Arrangement's Sensitive List. If text accompanies an ECCN below, then the Sensitive List is limited to a subset of items classified under the specific ECCN or has differing parameters.
 (1) Category 1
-(i) 1A002.
+(i) 1A002.a.1.
 (ii) 1C001.
 (iii) 1C007.c.
 (iv) 1C010.c and.d.
@@ -10,45 +10,16 @@ Note to Supplement No. 6: While the items on this list are identified by ECCN ra
 (vii) 1E001—"Technology" according to the General Technology Note for the "development" or "production" of equipment and materials controlled under 1A002, 1C001, 1C007.c, 1C010.c, 1C010.d, or 1C012.
 (viii) 1E002.e and.f.
 (2) Category 2
-(i) 2D001—"Software," other than that controlled by 2D002, specially designed for the "development" or "production" of equipment as follows:
-(A) Machine tools for turning (ECCN 2B001.a) having two or more axes which can be coordinated simultaneously for "contouring control" having any of the following:
-(1) "Unidirectional positioning repeatability" equal to or less (better) than 0.9 µm along one or more linear axis with a travel length less than 1.0 m; or
-(2) "Unidirectional positioning repeatability" equal to or less (better) than 1.1 µm along one or more linear axis with a travel length equal to or greater than 1.0 m;
-(B) Machine tools for milling (ECCN 2B001.b) having any of the following:
-(1) Three linear axes plus one rotary axis which can be coordinated simultaneously for "contouring control" having any of the following:
-(a) "Unidirectional positioning repeatability" equal to or less (better) than 0.9 µm along one or more linear axis with a travel length less than 1.0 m; or
-(b) "Unidirectional positioning repeatability" equal to or less (better) than 1.1 µm along one or more linear axis with a travel length equal to or greater than 1.0 m;
-(2) Specified by 2B001.b.2.a, 2B001.b.2.b or 2B001.b.2.c and having a "unidirectional positioning repeatability" equal to or less (better) than 1.1 µm along one or more linear axis; or
-(3) A "unidirectional positioning repeatability" for jig boring machines equal to or less (better) than 1.1 µm along one or more linear axis;
-(C) Electrical discharge machines (EDM) controlled under 2B001.d;
-(D) Deep-hole-drilling machines controlled under 2B001.f;
-(E) "Numerically controlled" or manual machine tools controlled under 2B003.
-(ii) 2E001—"Technology" according to the General Technology Note for the "development" of "software" specified by 2D001 described in this Supplement or for the "development" of equipment as follows:
-(A) Machine tools for turning (ECCN 2B001.a) having two or more axes which can be coordinated simultaneously for "contouring control" having any of the following:
-(1) "Unidirectional positioning repeatability" equal to or less (better) than 0.9 µm along one or more linear axis with a travel length less than 1.0 m; or
-(2) "Unidirectional positioning repeatability" equal to or less (better) than 1.1 µm along one or more linear axis with a travel length equal to or greater than 1.0 m
-(B) Machine tools for milling (ECCN 2B001.b) having any of the following:
-(1) Three linear axes plus one rotary axis which can be coordinated simultaneously for "contouring control" having any of the following:
-(a) "Unidirectional positioning repeatability" equal to or less (better) than 0.9 µm along one or more linear axis with a travel length less than 1.0 m; or
-(b) "Unidirectional positioning repeatability" equal to or less (better) than 1.1 µm along one or more linear axis with a travel length equal to or greater than 1.0 m;
-(2) Specified by 2B001.b.2.a, 2B001.b.2.b or 2B001.b.2.c and having a "unidirectional positioning repeatability" equal to or less (better) than 1.1 µm along one or more linear axis; or
-(3) A "unidirectional positioning repeatability" for jig boring machines equal to or less (better) than 1.1 µm along one or more linear axis;
-(C) Electrical discharge machines (EDM) controlled under 2B001.d;
-(D) Deep-hole-drilling machines controlled under 2B001.f;
-(E) "Numerically controlled" or manual machine tools controlled under 2B003.
+(i) 2D001—"Software", other than that controlled by 2D002, "specially designed" for the "development" or "production" of equipment as follows:
+(A) Specified by 2B001.a, 2B001.b.1, or 2B001.b.2, and having a "unidirectional positioning repeatability" equal to or less (better) than 0.9 µm along one or more linear axis;
+(B) Specified by 2B001.b.3, 2B001.d, 2B001.f or 2B003.
+(ii) 2E001—"Technology" according to the General Technology Note for the "development" of equipment or "software", as follows:
+(A) Equipment specified by 2B001.a, 2B001.b.1 or 2B001.b.2, and having a "unidirectional positioning repeatability" equal to or less (better) than 0.9 µm along one or more linear axis;
+(B) Equipment specified by 2B001.b.3, 2B001.d, 2B001.f or 2B003.
+(C) "Software" specified by 2D001 of this Supplement;
 (iii) 2E002—"Technology" according to the General Technology Note for the "production" of equipment as follows:
-(A) Machine tools for turning (ECCN 2B001.a) having two or more axes which can be coordinated simultaneously for "contouring control" having any of the following:
-(1) "Unidirectional positioning repeatability" equal to or less (better) than 0.9 µm along one or more linear axis with a travel length less than 1.0 m; or
-(2) "Unidirectional positioning repeatability" equal to or less (better) than 1.1 µm along one or more linear axis with a travel length equal to or greater than 1.0 m;
-(B) Machine tools for milling (ECCN 2B001.b) having any of the following:
-(1) Three linear axes plus one rotary axis which can be coordinated simultaneously for "contouring control" having any of the following:
-(a) "Unidirectional positioning repeatability" equal to or less (better) than 0.9 µm along one or more linear axis with a travel length less than 1.0 m; or
-(b) "Unidirectional positioning repeatability" equal to or less (better) than 1.1 µm along one or more linear axis with a travel length equal to or greater than 1.0 m;
-(2) Specified by 2B001.b.2.a, 2B001.b.2.b or 2B001.b.2.c and having a "unidirectional positioning repeatability" equal to or less (better) than 1.1 µm along one or more linear axis; or
-(3) A "unidirectional positioning repeatability" for jig boring machines equal to or less (better) than 1.1 µm along one or more linear axis;
-(C) Electrical discharge machines (EDM) controlled under 2B001.d;
-(D) Deep-hole-drilling machines controlled under 2B001.f;
-(E) "Numerically controlled" or manual machine tools controlled under 2B003.
+(A) Specified by 2B001.a, 2B001.b.1, or 2B001.b.2, and having a "unidirectional positioning repeatability" equal to or less (better) than 0.9 µm along one or more linear axis;
+(B) Specified by 2B001.b.3, 2B001.d, 2B001.f or 2B003.
 (3) Category 3
 (i) 3A002.g.1.
 (ii) 3D001—"Software" "specially designed" for the "development" or "production" of equipment controlled under 3A002.g.1.
