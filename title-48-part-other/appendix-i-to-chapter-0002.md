@@ -12,21 +12,23 @@ I-100 Purpose.
 (1) Reimbursement through a separate contract line item in a DoD contract or a separate contract with DoD; or
 (2) Credit toward applicable subcontracting goals for costs incurred under the Program.
 I-101 Definitions.
-I-101.1 Minority institution of higher education.
+I-101.1 Affiliation.
+With respect to a relationship between a mentor firm and a protégé firm, a relationship described under 13 CFR 121.103.
+I-101.2 Minority institution of higher education.
 An institution of higher education with a student body that reflects the composition specified in section 312(b)(3), (4), and (5) of the Higher Education Act of 1965 (20 U.S.C. 1058(b)(3), (4), and (5)).
-I-101.2 Nontraditional defense contractor.
+I-101.3 Nontraditional defense contractor.
 An entity that is not currently performing and has not performed any contract or subcontract for DoD that is subject to full coverage under the cost accounting standards prescribed pursuant to 41 U.S.C. 1502 and the regulations implementing such section, for at least the 1-year period preceding the solicitation of sources by DoD for the procurement (10 U.S.C. 2302(9)).
-I-101.3 Eligible entity employing the severely disabled.
+I-101.4 Eligible entity employing the severely disabled.
 A business entity operated on a for-profit or nonprofit basis that—
 (a) Uses rehabilitative engineering to provide employment opportunities for severely disabled individuals and integrates severely disabled individuals into its workforce;
 (b) Employs severely disabled individuals at a rate that averages not less than 20 percent of its total workforce;
 (c) Employs each severely disabled individual in its workforce generally on the basis of 40 hours per week; and
 (d) Pays not less than the minimum wage prescribed pursuant to section 6 of the Fair Labor Standards Act (29 U.S.C. 206) to those employees who are severely disabled individuals.
-I-101.4 Severely disabled individual.
+I-101.5 Severely disabled individual.
 An individual who is blind or severely disabled as defined in 41 U.S.C. 8501.
-I-101.5 Women-owned small business.
+I-101.6 Women-owned small business.
 A small business concern owned and controlled by women as defined in section 8(d)(3)(D) of the Small Business Act (15 U.S.C. 637(d)(3)(D)).
-I-101.6 Service-disabled veteran-owned small business.
+I-101.7 Service-disabled veteran-owned small business.
 A small business concern owned and controlled by service-disabled veterans as defined in section 8(d)(3) of the Small Business Act (15 U.S.C. 637(d)(3)).
 I-102 Participant eligibility.
 (a) To be eligible to participate as a mentor, an entity must—
@@ -57,8 +59,9 @@ I-102 Participant eligibility.
 (ix) An entity that currently provides goods or services in the private sector that are critical to enhancing the capabilities of the defense supplier base and fulfilling key DoD needs.
 (c) Mentor firms may rely in good faith on a written representation that the entity meets the requirements of paragraph (b) of this section, except that a mentor firm is required to confirm a protégé's status as a HUBZone small business concern (see FAR 19.703(d)).
 (d) If at any time the SBA (or DoD in the case of entities employing severely disabled individuals) determines that a protégé is ineligible, assistance that the mentor firm furnishes to the protégé after the date of the determination may not be considered assistance furnished under the Program.
-(e) A company may not be approved for participation in the Program as a mentor firm if, at the time of requesting participation in the Program, it is currently debarred or suspended from contracting with the Federal Government pursuant to FAR Subpart 9.4.
-(f) If the mentor firm is suspended or debarred while performing under an approved mentor-protégé agreement, the mentor firm—
+(e) A mentor firm may not enter into an agreement with a protégé firm if SBA has made a determination of affiliation. If SBA has not made such a determination and if the DoD Office of Small Business Programs (OSBP) has reason to believe, based on SBA's regulations regarding affiliation, that the mentor firm is affiliated with the protégé firm, then DoD OSBP will request a determination regarding affiliation from SBA.
+(f) A company may not be approved for participation in the Program as a mentor firm if, at the time of requesting participation in the Program, it is currently debarred or suspended from contracting with the Federal Government pursuant to FAR subpart 9.4.
+(g) If the mentor firm is suspended or debarred while performing under an approved mentor-protégé agreement, the mentor firm—
 (1) May continue to provide assistance to its protégé firms pursuant to approved mentor-protégé agreements entered into prior to the imposition of such suspension or debarment;
 (2) May not be reimbursed or take credit for any costs of providing developmental assistance to its protégé firm, incurred more than 30 days after the imposition of such suspension or debarment; and
 (3) Must promptly give notice of its suspension or debarment to its protégé firm and the cognizant Component Director, SBP.
@@ -105,6 +108,7 @@ I-106 Development of mentor-protégé agreements.
 (ii) Entities providing procurement technical assistance pursuant to 10 U.S.C. Chapter 142 (Procurement Technical Assistance Centers).
 (iii) Historically Black colleges and universities.
 (iv) Minority institutions of higher education.
+(v) Women's business centers described in section 29 of the Small Business Act (15 U.S.C. 656).
 (e) Pursuant to FAR 31.109, approved mentor firms seeking either reimbursement or credit are strongly encouraged to enter into an advance agreement with the contracting officer responsible for determining final indirect cost rates under FAR 42.705. The purpose of the advance agreement is to establish the accounting treatment of the costs of the developmental assistance pursuant to the mentor-protégé agreement prior to the incurring of any costs by the mentor firm. An advance agreement is an attempt by both the Government and the mentor firm to avoid possible subsequent dispute based on questions related to reasonableness, allocability, or allowability of the costs of developmental assistance under the Program. Absent an advance agreement, mentor firms are advised to establish the accounting treatment of such costs and to address the need for any changes to their cost accounting practices that may result from the implementation of a mentor-protégé agreement, prior to incurring any costs, and irrespective of whether costs will be reimbursed or credited.
 (f) Developmental assistance provided under an approved mentor-protégé agreement is distinct from, and must not duplicate, any effort that is the normal and expected product of the award and administration of the mentor firm's subcontracts. Costs associated with the latter must be accumulated and charged in accordance with the contractor's approved accounting practices; they are not considered developmental assistance costs eligible for either credit or reimbursement under the Program.
 I-107 Elements of a mentor-protégé agreement.
@@ -129,18 +133,19 @@ Each mentor-protégé agreement shall contain—
 (2) Factors to assess the protégé firm's developmental progress under the Program, including specific milestones for providing each element of the identified assistance;
 (3) A description of the quantitative and qualitative benefits to DoD from the agreement, if applicable; and
 (4) Goals for additional awards for which the protégé firm can compete outside the Program;
-(h) An estimate of the dollar value and type of subcontracts that the mentor firm will award to the protégé firm, and the period of time over which the subcontracts will be awarded;
-(i) A statement from the protégé firm indicating its commitment to comply with the requirements for reporting and for review of the agreement during the duration of the agreement and for 2 years thereafter;
-(j) A program participation term for the agreement that does not exceed 3 years. Requests for an extension of the agreement for a period not to exceed an additional 2 years are subject to the approval of the cognizant Component Director, SBP. The justification must detail the unusual circumstances that warrant a term in excess of 3 years;
-(k) Procedures for the mentor firm to notify the protégé firm in writing at least 30 days in advance of the mentor firm's intent to voluntarily withdraw its participation in the Program. A mentor firm may voluntarily terminate its mentor-protégé agreement(s) only if it no longer wants to be a participant in the Program as a mentor firm. Otherwise, a mentor firm must terminate a mentor-protégé agreement for cause;
-(l) Procedures for the mentor firm to terminate the mentor-protégé agreement for cause which provide that—
+(h) The assistance the mentor will provide to the protégé firm in understanding Federal contract regulations, including the FAR and DFARS, after award of a subcontract under the Program, if applicable;
+(i) An estimate of the dollar value and type of subcontracts that the mentor firm will award to the protégé firm, and the period of time over which the subcontracts will be awarded;
+(j) A statement from the protégé firm indicating its commitment to comply with the requirements for reporting and for review of the agreement during the duration of the agreement and for 2 years thereafter;
+(k) A program participation term for the agreement that does not exceed 3 years. Requests for an extension of the agreement for a period not to exceed an additional 2 years are subject to the approval of the cognizant Component Director, SBP. The justification must detail the unusual circumstances that warrant a term in excess of 3 years;
+(l) Procedures for the mentor firm to notify the protégé firm in writing at least 30 days in advance of the mentor firm's intent to voluntarily withdraw its participation in the Program. A mentor firm may voluntarily terminate its mentor-protégé agreement(s) only if it no longer wants to be a participant in the Program as a mentor firm. Otherwise, a mentor firm must terminate a mentor-protégé agreement for cause;
+(m) Procedures for the mentor firm to terminate the mentor-protégé agreement for cause which provide that—
 (1) The mentor firm must furnish the protégé firm a written notice of the proposed termination, stating the specific reasons for such action, at least 30 days in advance of the effective date of such proposed termination;
 (2) The protégé firm must have 30 days to respond to such notice of proposed termination, and may rebut any findings believed to be erroneous and offer a remedial program;
 (3) Upon prompt consideration of the protégé firm's response, the mentor firm must either withdraw the notice of proposed termination and continue the protégé firm's participation, or issue the notice of termination; and
 (4) The decision of the mentor firm regarding termination for cause, conforming with the requirements of this section, will be final and is not reviewable by DoD;
-(m) Procedures for a protégé firm to notify the mentor firm in writing at least 30 days in advance of the protégé firm's intent to voluntarily terminate the mentor-protégé agreement;
-(n) Additional terms and conditions as may be agreed upon by both parties; and
-(o) Signatures and dates for both parties to the mentor-protégé agreement.
+(n) Procedures for a protégé firm to notify the mentor firm in writing at least 30 days in advance of the protégé firm's intent to voluntarily terminate the mentor-protégé agreement;
+(o) Additional terms and conditions as may be agreed upon by both parties; and
+(p) Signatures and dates for both parties to the mentor-protégé agreement.
 I-108 Submission and approval of mentor-protégé agreements.
 (a) Upon solicitation or as determined by the cognizant DoD component, mentors will submit—
 (1) A mentor application pursuant to I-105, if the mentor has not been previously approved to participate;
@@ -185,7 +190,7 @@ I-111 Agreement terminations.
 (b) For reimbursable agreements, mentors must also send copies of any termination to the program manager and to the contracting officer.
 (c) Termination of a mentor-protégé agreement will not impair the obligations of the mentor firm to perform pursuant to its contractual obligations under Government contracts and subcontracts.
 (d) Termination of all or part of the mentor-protégé agreement will not impair the obligations of the protégé firm to perform pursuant to its contractual obligations under any contract awarded to the protégé firm by the mentor firm.
-(e) Mentors and protégés will follow provisions of the mentor-protégé agreement developed in compliance with I-107(k) through (m).
+(e) Mentors and protégés will follow provisions of the mentor-protégé agreement developed in compliance with I-107(l) through (n).
 I-112 Reporting requirements.
 I-112.1 Reporting requirements applicable to Individual Subcontract Reports (ISR), Summary Subcontract Reports (SSR) and Standard Forms 294.
 (a) Amounts credited toward applicable subcontracting goal(s) for unreimbursed costs under the Program must be separately identified on the appropriate ISR, SSR or SF 294 reports from the amounts credited toward the goal(s) resulting from the award of actual subcontracts to protégé firms. The combination of the two must equal the mentor firm's overall accomplishment toward the applicable goal(s).
