@@ -2201,7 +2201,7 @@ PCB-1242 1 | 53469-21-9 | 65 | 95
 PCB-1248 1 | 12672-29-6
 PCB-1254 1 | 11097-69-1
 PCB-1260 1 | 11096-82-5
-PCB-1268 | 11100-14-4 |
+PCB-1268 | 11100-14-4
 1 Priority Pollutants (40 CFR part 423, appendix A).
 2 Technical Chlordane may be used in cases where historical reporting has only been for this form of Chlordane.
 3 40 CFR part 136, appendix B, June 30, 1986.
@@ -2370,7 +2370,7 @@ PCB-1232 | 95 | 4
 PCB-1242 | 97
 PCB-1248 | 103
 PCB-1254 | 90
-PCB-1260 | |
+PCB-1260\
 1 Eluant composition:
 Fraction 1—6% ethyl ether in hexane.
 Fraction 2—15% ethyl ether in hexane.
@@ -3947,7 +3947,7 @@ Toluene | 108-88-3 | 6.0 | 18.0
 1,1,1-Trichloroethane | 71-55-6 | 3.8 | 11.4
 1,1,2-Trichloroethane | 79-00-5 | 5.0 | 15.0
 Trichloroethene | 79-01-6 | 1.9 | 5.7
-Vinyl chloride | 75-01-4 |
+Vinyl chloride | 75-01-4
 1 All the analytes in this table are Priority Pollutants (40 CFR part 423, appendix A).
 2 MDL values from the 1984 promulgated version of Method 624.
 3 ML = Minimum Level—see Glossary for definition and derivation.
@@ -4247,7 +4247,7 @@ Toluene-d8 | | |
 Trichloroethene | 65-135 | 29 | 75-138 | 70-157 | 48
 Trichlorofluoromethane | 50-150 | 50 | 45-158 | 17-181 | 84
 Vinyl chloride | 5-195 | 100 | D-218 | D-251 | 66
-Vinyl chloride-d3 | | | |
+Vinyl chloride-d3
 1 Criteria were calculated using an LCS concentration of 20 µg/L.
 Q = Percent recovery in calibration verification/LCS (section 8.4).
 s = Standard deviation of percent recovery for four recovery measurements (section 8.2.4).
@@ -4793,7 +4793,7 @@ Phenol | 108-95-2 | 1.5 | 4.5
 2 See section 1.2; included for tailing factor testing.
 3 MDL values from the 1984 promulgated version of Method 625.
 4 ML = Minimum Level—see Glossary for definition and derivation.
-Table 3—Additional Extractable Analytes 1, 2
+Table 3—Additional Extractable Analytes 1 2
 Analyte | CAS registry | MDL 7 (ug/L) | ML 8 (ug/L)
 Acetophenone | 98-86-2
 2-Acetylaminofluorene | 53-96-3
@@ -4819,9 +4819,9 @@ Benzoic acid | 65-85-0
 2,3-Benzofluorene | 243-17-4
 p-Benzoquinone | 106-51-4
 Benzyl alcohol | 100-51-6
-alpha-BHC 3, 4 | 319-84-6
+alpha-BHC 3 4 | 319-84-6
 beta-BHC 3 | 319-85-7 | 3.1 | 9.3
-gamma-BHC (Lindane) 3, 4 | 58-89-8 | 4.2 | 12.6
+gamma-BHC (Lindane) 3 4 | 58-89-8 | 4.2 | 12.6
 delta-BHC 3 | 319-86-8
 Biphenyl | 92-52-4
 Bromacil | 314-40-9
@@ -4846,10 +4846,10 @@ Captan | 133-06-2
 Carbaryl | 63-25-2
 Carbazole | 86-74-8
 Carbofuran | 1563-66-2
-Carboxin | 5234-68-4
+Carboxin | 5234-68 -4
 Carbophenothion | 786-19-6
-Chlordane 3, 5 | 57-74-9
-bis(2-Chloroethyl) ether 3, 4 | 111-44-4 | 5.7 | 17.1
+Chlordane 3 5 | 57-74-9
+bis(2-Chloroethyl) ether 3 4 | 111-44-4 | 5.7 | 17.1
 Chloroneb | 2675-77-6
 4-Chloroaniline | 106-47-8
 Chlorobenzilate | 510-15-6
@@ -4927,12 +4927,12 @@ Diphenyldisulfide | 882-33-7
 Disulfoton | 298-04-4
 Disulfoton sulfoxide | 2497-07-6
 Disulfoton sulfone | 2497-06-5
-Endosulfan I 3, 4 | 959-98-8
-Endosulfan II 3, 4 | 33213-65-9
+Endosulfan I 4 | 959-98-8
+Endosulfan II 3 4 | 33213-65-9
 Endosulfan sulfate 3 | 1031-07-8 | 5.6 | 16.8
-Endrin 3, 4 | 72-20-8
-Endrin aldehyde 3, 4 | 7421-93-4
-Endrin ketone 3, 4 | 53494-70-5
+Endrin 3 4 | 72-20-8
+Endrin aldehyde 3 4 | 7421-93-4
+Endrin ketone 3 4 | 53494-70-5
 EPN | 2104-64-5
 EPTC | 759-94-4
 Ethion | 563-12-2
@@ -4953,7 +4953,7 @@ Heptachlor 3 | 76-44-8 | 1.9 | 5.7
 Heptachlor epoxide 3 | 1024-57-3 | 2.2 | 6.6
 2,2′,3,3′,4,4′,6-Heptachlorobiphenyl | 52663-71-5
 2,2′,4,4′,5′,6-Hexachlorobiphenyl | 60145-22-4
-Hexachlorocyclopentadiene 3, 4 | 77-47-4
+Hexachlorocyclopentadiene 3 4 | 77-47-4
 Hexachlorophene | 70-30-4
 Hexachloropropene | 1888-71-7
 Hexamethylphosphoramide | 680-31-9
@@ -5011,8 +5011,8 @@ Nitrofen | 1836-75-5
 Nitroquinoline-1-oxide | 56-57-5
 N-Nitrosodi-n-butylamine 4 | 924-16-3
 N-Nitrosodiethylamine 4 | 55-18-5
-N-Nitrosodimethylamine 3, 4 | 62-75-9
-N-Nitrosodiphenylamine 3, 4 | 86-30-6
+N-Nitrosodimethylamine 3 4 | 62-75-9
+N-Nitrosodiphenylamine 3 4 | 86-30-6
 N-Nitrosomethylethylamine 4 | 10595-95-6
 N-Nitrosomethylphenylamine 4 | 614-00-6
 N-Nitrosomorpholine 4 | 59-89-2
@@ -5024,14 +5024,14 @@ Norflurazon | 27314-13-2
 Octamethyl pyrophosphoramide | 152-16-9
 4,4'-Oxydianiline | 101-80-4
 Parathion | 56-38-2
-PCB-1016 3, 5 | 12674-11-2
-PCB-1221 3, 5 | 11104-28-2 | 30 | 90
-PCB-1232 3, 5 | 11141-16-5
-PCB-1242 3, 5 | 53469-21-9
-PCB-1248 3, 5 | 12672-29-6
-PCB-1254 3, 5 | 11097-69-1 | 36 | 108
-PCB-1260 3, 5 | 11098-82-5
-PCB-1268 3, 5 | 11100-14-4
+PCB-1016 3 5 | 12674-11-2
+PCB-1221 3 5 | 11104-28-2 | 30 | 90
+PCB-1232 3 5 | 11141-16-5
+PCB-1242 3 5 | 53469-21-9
+PCB-1248 3 5 | 12672-29-6
+PCB-1254 3 5 | 11097-69-1 | 36 | 108
+PCB-1260 3 5 | 11098-82-5
+PCB-1268 3 5 | 11100-14-4
 Pebulate | 1114-71-2
 Pentachlorobenzene | 608-93-5
 Pentachloronitrobenzene | 82-68-8
@@ -5090,7 +5090,7 @@ Thioxanthone | 492-22-8
 Toluene-1,3-diisocyanate | 26471-62-5
 Toluene-2,4-diisocyanate | 584-84-9
 o-Toluidine | 95-53-4
-Toxaphene 3, 5 | 8001-35-2
+Toxaphene 3 5 | 8001-35-2
 Triadimefon | 43121-43-3
 1,2,3-Trichlorobenzene | 87-61-6
 2,4,5-Trichlorobiphenyl | 15862-07-4
@@ -5108,7 +5108,7 @@ Tris(2,3-dibromopropyl) phosphate | 126-72-7
 Tri-p-tolyl phosphate | 78-32-0
 O,O,O-Triethyl phosphorothioate | 126-68-1
 Trithiane | 291-29-4
-Vernolate | 1929-77-7 |
+Vernolate | 1929-77-7
 1 Compounds that have been demonstrated amenable to extraction and gas chromatography.
 2 Determine each analyte in the fraction that gives the most accurate result.
 3 Priority Pollutant (40 CFR part 423, appendix A).
@@ -5157,7 +5157,7 @@ Fluoranthene | 1817 | 202 | 101 | 100 | 203 | 231 | 243
 Heptachlor epoxide | 1820 | 353 | 355 | 351 |
 gamma-Chlordane | 1834 | 373 | 375 | 377 |
 Pyrene | 1852 | 202 | 101 | 100 | 203 | 231 | 243
-Benzidine 2 | 1853 | 184 | 92 | 185 | 185 | 213 | 225
+Benzidine2 | 1853 | 184 | 92 | 185 | 185 | 213 | 225
 alpha-Chlordane | 1854 | 373 | 375 | 377 |
 Endosulfan I | 1855 | 237 | 339 | 341 |
 4,4′-DDE | 1892 | 246 | 248 | 176 |
@@ -5187,7 +5187,7 @@ PCB 1232 | | 190 | 224 | 260 |
 PCB 1242 | | 224 | 260 | 294 |
 PCB 1248 | | 294 | 330 | 262 |
 PCB 1254 | | 294 | 330 | 362 |
-PCB 1260 | | 330 | 362 | 394 | |
+PCB 1260 | | 330 | 362 | 394
 1 Column: 30 m x 0.25 mm ID; 94% methyl, 5% phenyl, 1% vinyl bonded phase fused silica capillary.
 Conditions: 5 min at 30 °C; 30-280 at 8 °C per min; isothermal at 280 °C until benzo(ghi)perylene elutes.
 Gas velocity: 30 cm/sec at 30 °C (at constant pressure).
