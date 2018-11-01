@@ -868,12 +868,12 @@ STATE: OHIO
 COMBINATION: Truck tractor and 3 trailing units—LCV
 LENGTH OF THE CARGO-CARRYING UNITS: 95 feet
 MAXIMUM ALLOWABLE GROSS WEIGHT: 115,000 pounds
-OPERATIONAL CONDITIONS: Same as the OH-TT2 combination, except as follows:
+OPERATIONAL CONDITIONS: Same as the OH-TT2 combination, except as follows below, and triple trailer units may operate on any "turnpike project" as defined in Ohio Revised Code (ORC) section 5537.01 and permitted by the Ohio Turnpike and Infrastructure Commission under the program authorized in ORC 5537.16 (The Ohio Turnpike Act of 1949 and as amendedand effective prior to June 1, 1991).
 WEIGHT: Gross weight for triples with an overall length greater than 90 feet but not over 105 feet in length = 115,000 pounds.
 DRIVER: The driver must have a commercial driver's license with the appropriate endorsement, be over 26 years of age, in good health, and shall have not less than 5 years of experience driving double trailer combination units. Such driving experience shall include experience throughout the four seasons. Each driver must have special training on triple combinations to be provided by the Permittee.
 VEHICLE: Triple trailer combination vehicles are allowed to operate on the Turnpike provided the combination vehicle is at least 90 feet long but less than 105 feet long and each trailer is not more than 28.5 feet in length. The minimum number of axles on the triple shall be seven and the maximum is nine.
-PERMIT: A triple trailer permit to operate on the Turnpike is required for triple trailer combinations in excess of 90 feet in length. There is an annual fee for the permit. Class A and B explosives; Class A poisons; and Class 1, 2, and 3 radioactive material cannot be transported in triple trailer combinations. Other hazardous materials may be transported in two trailers of a triple. The hazardous materials should be placed in the front two trailers unless doing so will result in the third trailer weighing more than either one of the lead trailers.
-ACCESS: With two exceptions, triple trailer units shall not leave the Turnpike right-of-way and shall be assembled and disassembled only in designated areas located at Exits 4, 7, 10, 11, 13, 14, and 16. The first exception is that triple trailer combinations are allowed on State Route 21 from I-80 Exit 11 (Ohio Turnpike) to a terminal located approximately 500 feet to the north in the town of Richfield. The second exception is for a segment of State Route 7 from Ohio Turnpike Exit 16 to 1 mile south.
+PERMIT: A triple trailer permit to operate on the Turnpike is required for triple trailer combinations in excess of 90 feet in length. There is an annual fee for the permit. Class A and B explosives; Class A poisons; and Class 1, 2, and 3 radioactive material cannot be transported in triple trailer combinations. Other hazardous materials may be transported in two trailers of a triple. The hazardous materials should be placed in the front two trailers unless doing so will result in the third trailer weighing more than either one of the lead trailers. In addition, under ORC 4513.34, ODOT and local authorities are authorized to issue special permits for oversized vehicles.
+ACCESS: With two exceptions, triple trailer units shall not leave the Turnpike Project. The first exception is that triple trailer combinations are allowed on State Route 21 from I-80 Exit 11 (Ohio Turnpike) to a terminal located approximately 500 feet to the north in the town of Richfield. The second exception is for a segment of State Route 7 from Ohio Turnpike Exit 16 to 1 mile south. Triple trailer units shall not leave the Turnpike project. Section 5537.01, as discussed above defines "turnpike project" as: "(B) "Project" or "turnpike project" means... interchanges, entrance plazas, approaches, those portions of connecting public roads that serve interchanges and are determined by the commission and the director of transportation to be necessary for the safe merging of traffic between the turnpike project and those public roads,..."
 Routes
 | From | To
 I-76 Ohio Turnpike | Turnpike Exit 15 | Pennsylvania.
@@ -1142,6 +1142,32 @@ WEIGHT: This combination must operate in compliance with State laws and regulati
 DRIVER, ACCESS, ROUTES, AND LEGAL CITATIONS: Same as OR-TT2 combination.
 VEHICLE: The truck or trailer may be up to 40 feet long not to exceed 75 feet overall. The truck may have a built-in hoist to load cargo. Any towed vehicle in a combination must be equipped with safety chains or cables to prevent the towbar from dropping to the ground in the event the coupling fails. The chains or cables must have sufficient strength to control the towed vehicle in the event the coupling device fails and must be attached with no more slack than necessary to permit proper turning. However, this requirement does not apply to a fifth-wheel coupling if the upper and lower halves of the fifth wheel must be manually released before they can be separated.
 PERMIT: No overlength permit required.
+STATE: PENNSYLVANIA
+COMBINATION: Truck tractor and 2 trailing units
+LENGTH OF THE CARGO-CARRYING UNITS: 57 feet
+OPERATIONAL CONDITIONS:
+WEIGHT: The maximum gross weight is 100,000 pounds.
+DRIVER: The driver must have a commercial driver's license with the appropriate endorsement.
+VEHICLE: A semitrailer, or the trailer of a tandem trailer combination, may not be longer than 281/2 feet. A tandem combination—including the truck tractor, semitrailer and trailer—which exceeds 85 feet in length is considered a Class 9 vehicle which requires a special permit to travel on the Turnpike System. In tandem combinations, the heaviest trailer shall be towed next to the truck tractor.
+PERMIT: None required except for a Class 9 vehicle.
+Routes
+| From | To
+I-76 Pennsylvania Turnpike Mainline | Ohio | Turnpike Exit 75.
+I-76/1-70 Pennsylvania Turnpike Mainline | Turnpike Exit 75 | Turnpike Exit 161.
+I-76 Pennsylvania Turnpike Mainline | Turnpike Exit 161 | Turnpike Exit 326.
+1-276 Pennsylvania Turnpike Mainline | Turnpike Exit 326 | I-95 Interchange.
+I-95 interchange Pennsylvania Turnpike Mainline | I-95 Interchange | New Jersey.
+I-476 Pennsylvania Turnpike Northeastern Extension | Turnpike Exit 20 | Turnpike Exit 131.
+I-376 Pennsylvania Turnpike Beaver Valley Expressway | Turnpike Exit 15 | Turnpike Exit 31.
+Pennsylvania Turnpike 66 Greensburg Bypass | Turnpike Exit 0 | Turnpike Exit 14.
+Pennsylvania Turnpike 43 Mon/Fayette Expressway (I-68 to Route 43) | West Virginia | Turnpike Exit M8.
+Pennsylvania Turnpike 43 Mon/Fayette Expressway (Uniontown to Brownsville) | Turnpike Exit M 15 | Turnpike Exit M28.
+Pennsylvania Turnpike 43 Mon/Fayette Expressway (US-40 to PA-51) | Turnpike Exit M30 | Turnpike Exit M54.
+Pennsylvania Turnpike 43 Mon/Fayette Expressway (PA-51 to I-376/Monroeville) | Turnpike Exit M54 | I-376/Monroeville.
+Pennsylvania Turnpike 576 Southern Beltway (I-376 to US-22) | Turnpike Exit S1 | Turnpike Exit S6.
+Pennsylvania Turnpike 576 Southern Beltway (US-22 to I-79) | Turnpike Exit S6 | I-79.
+Pennsylvania Turnpike 576 Southern Beltway (I-79 to Mon/Fayette Expressway) | I-79 | Pennsylvania Turnpike 43 Mon/Fayette Expressway.
+LEGAL CITATIONS: Pennsylvania Vehicle Code, 75 Pa.C.S. § 6110(a); Pennsylvania Code, 67 Pa. Code, Chapter 601.
 STATE: SOUTH DAKOTA
 COMBINATION: Truck tractor and 2 trailing units—LCV
 LENGTH OF CARGO-CARRYING UNITS: 100 feet
