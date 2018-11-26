@@ -138,7 +138,7 @@ Reference | Applies to subpart CC | Comment
 63.6(e)(3)(iii)-63.6(e)(3)(ix) | No.
 63.6(f)(1) | No.
 63.6(f)(2) | Yes | Except the phrase "as specified in § 63.7(c)" in § 63.6(f)(2)(iii)(D) does not apply because this subpart does not require a site-specific test plan.
-63.6(f)(3) | Yes | Except the cross-references to § 63.6(f)(1) and (e)(1)(i) are changed to § 63.642(n).
+63.6(f)(3) | Yes | Except the cross-references to § 63.6(f)(1) and (e)(1)(i) are changed to § 63.642(n) and performance test results may be written or electronic.
 63.6(g) | Yes
 63.6(h)(1) | No.
 63.6(h)(2) | Yes | Except § 63.6(h)(2)(ii), which is reserved.
@@ -147,12 +147,12 @@ Reference | Applies to subpart CC | Comment
 63.6(h)(5) | No | Visible emission requirements and timing is specified in § 63.645(i) of subpart CC.
 63.6(h)(6) | Yes
 63.6(h)(7) | No | Subpart CC does not require opacity standards.
-63.6(h)(8) | Yes
+63.6(h)(8) | Yes | Except performance test results may be written or electronic.
 63.6(h)(9) | No | Subpart CC does not require opacity standards.
 63.6(i) | Yes | Except for § 63.6(i)(15), which is reserved.
 63.6(j) | Yes
 63.7(a)(1) | Yes
-63.7(a)(2) | Yes | Except test results must be submitted in the Notification of Compliance Status report due 150 days after compliance date, as specified in § 63.655(f) of subpart CC.
+63.7(a)(2) | Yes | Except test results must be submitted in the Notification of Compliance Status report due 150 days after compliance date, as specified in § 63.655(f), unless they are required to be submitted electronically in accordance with § 63.655(h)(9). Test results required to be submitted electronically must be submitted by the date the Notification of Compliance Status report is submitted.
 63.7(a)(3) | Yes
 63.7(a)(4) | Yes
 63.7(b) | Yes | Except this subpart requires notification of performance test at least 30 days (rather than 60 days) prior to the performance test.
@@ -160,11 +160,11 @@ Reference | Applies to subpart CC | Comment
 63.7(d) | Yes
 63.7(e)(1) | No | See § 63.642(d)(3).
 63.7(e)(2)-63.7(e)(4) | Yes
-63.7(f) | No | Subpart CC specifies applicable methods and provides alternatives without additional notification or approval.
+63.7(f) | Yes | Except that additional notification or approval is not required for alternatives directly specified in Subpart CC.
 63.7(g) | No | Performance test reporting specified in § 63.655(f).
 63.7(h)(1) | Yes
 63.7(h)(2) | Yes
-63.7(h)(3) | Yes | Yes, except site-specific test plans shall not be required, and where § 63.7(g)(3) specifies submittal by the date the site-specific test plan is due, the date shall be 90 days prior to the Notification of Compliance Status report in § 63.655(f).
+63.7(h)(3) | Yes | Yes, except site-specific test plans shall not be required, and where § 63.7(h)(3)(i) specifies waiver submittal date, the date shall be 90 days prior to the Notification of Compliance Status report in § 63.655(f).
 63.7(h)(4)(i) | Yes
 63.7(h)(4)(ii) | No | Site-specific test plans are not required in subpart CC.
 63.7(h)(4)(iii) and (iv) | Yes
@@ -181,7 +181,7 @@ Reference | Applies to subpart CC | Comment
 63.8(c)(4) | Yes | Except that for sources other than flares, this subpart specifies the monitoring cycle frequency specified in § 63.8(c)(4)(ii) is "once every hour" rather than "for each successive 15-minute period."
 63.8(c)(5)-63.8(c)(8) | No | This subpart specifies continuous monitoring system requirements.
 63.8(d) | No | This subpart specifies quality control procedures for continuous monitoring systems.
-63.8(e) | Yes.
+63.8(e) | Yes | Except that results are to be submitted electronically if required by § 63.655(h)(9).
 63.8(f)(1) | Yes
 63.8(f)(2) | Yes
 63.8(f)(3) | Yes
@@ -311,14 +311,14 @@ If the construction/reconstruction date is... | Then the owner or operator must 
 (2) After September 4, 2007 but on or before June 30, 2014 | (i) Requirements for new sources in §§ 63.643(a) and (b); 63.644, 63.645, and 63.647; 63.648(a) through (i) and (j)(1) and (2); and 63.649 through 63.651, 63.655 and 63.656 | Upon initial startup | § 63.640(k), (l) and (m).
 | (ii) Requirements for new sources in § 63.654 | Upon initial startup or October 28, 2009, whichever is later | § 63.640(k), (l) and (m).
 | (iii) Requirements for new sources in either § 63.646 or § 63.660 or, if applicable, § 63.640(n) | Upon initial startup, but you must transition to comply with only the requirements in § 63.660 or, if applicable, § 63.640(n) on or before April 29, 2016 | §§ 63.640(k), (l) and (m) and 63.660(d).
-| (iv) Requirements for existing sources in § 63.643(c) | On or before August 1, 2017 | §§ 63.640(k), (l) and (m) and 63.643(d).
+| (iv) Requirements for existing sources in § 63.643(c) | On or before December 26, 2018 | §§ 63.640(k), (l) and (m) and 63.643(d).
 | (v) Requirements for existing sources in § 63.658 | On or before January 30, 2018 | § 63.640(k), (l) and (m).
 | (vi) Requirements for existing sources in § 63.648 (j)(3), (6) and (7) and § 63.657 | On or before January 30, 2019 | § 63.640(k), (l) and (m).
 | (vii) Requirements in § 63.642 (n) | Upon initial startup or February 1, 2016, whichever is later
 (3) After July 14, 1994 but on or before September 4, 2007 | (i) Requirements for new sources in §§ 63.643(a) and (b); 63.644, 63.645, and 63.647; 63.648(a) through (i) and (j)(1) and (2); and 63.649 through 63.651, 63.655 and 63.656 | Upon initial startup or August 18, 1995, whichever is later | § 63.640(k), (l) and (m).
 | (ii) Requirements for existing sources in § 63.654 | On or before October 29, 2012 | § 63.640(k), (l) and (m).
 | (iii) Requirements for new sources in either § 63.646 or § 63.660 or, if applicable, § 63.640(n) | Upon initial startup, but you must transition to comply with only the requirements in § 63.660 or, if applicable, § 63.640(n) on or before April 29, 2016 | §§ 63.640(k), (l) and (m) and 63.660(d).
-| (iv) Requirements for existing sources in § 63.643(c) | On or before August 1, 2017 | §§ 63.640(k), (l) and (m) and 63.643(d).
+| (iv) Requirements for existing sources in § 63.643(c) | On or before December 26, 2018 | §§ 63.640(k), (l) and (m) and 63.643(d).
 | (v) Requirements for existing sources in § 63.658 | On or before January 30, 2018 | § 63.640(k), (l) and (m).
 | (vi) Requirements for existing sources in §§ 63.648(j)(3), (6) and (7) and 63.657 | On or before January 30, 2019 | § 63.640(k), (l) and (m).
 | (vii) Requirements in § 63.642(n) | Upon initial startup or February 1, 2016, whichever is later
@@ -326,7 +326,7 @@ If the construction/reconstruction date is... | Then the owner or operator must 
 | (ii) Either the requirements for existing sources in §§ 63.643(a) and (b); 63.644, 63.645, 63.647, 63.650 and 63.651; and item (4)(v) of this tableOR The requirements in §§ 63.652 and 63.653 | (A) On or before August 18, 1998 | (1) § 63.640(k), (l) and (m). (2) § 63.6(c)(5) or unless an extension has been granted by the Administrator as provided in § 63.6(i).
 | (iii) Requirements for existing sources in either § 63.646 or § 63.660 or, if applicable, § 63.640(n) | On or before August 18, 1998, but you must transition to comply with only the requirements in § 63.660 or, if applicable, § 63.640(n) on or before April 29, 2016 | §§ 63.640(k), (l) and (m) and 63.660(d).
 | (iv) Requirements for existing sources in § 63.654 | On or before October 29, 2012 | § 63.640(k), (l) and (m).
-| (v) Requirements for existing sources in § 63.643(c) | On or before August 1, 2017 | §§ 63.640(k), (l) and (m) and 63.643(d).
+| (v) Requirements for existing sources in § 63.643(c) | On or before December 26, 2018 | §§ 63.640(k), (l) and (m) and 63.643(d).
 | (vi) Requirements for existing sources in § 63.658 | On or before January 30, 2018 | § 63.640(k), (l) and (m).
 | (vii) Requirements for existing sources in §§ 63.648(j)(3), (6) and (7) and 63.657 | On or before January 30, 2019 | § 63.640(k), (l) and (m).
 | (viii) Requirements in § 63.642 (n) | Upon initial startup or February 1, 2016, whichever is later
@@ -377,4 +377,4 @@ Net Heating Value by Calorimeter | ±2 percent of span | Specify calibration req
 | | Where feasible, select a sampling location at least two equivalent diameters downstream from and 0.5 equivalent diameters upstream from the nearest disturbance. Select the sampling location at least two equivalent duct diameters from the nearest control device, point of pollutant generation, air in-leakages, or other point at which a change in the pollutant concentration or emission rate occurs.
 Net Heating Value by Gas Chromatograph | As specified in Performance Specification 9 of 40 CFR part 60, appendix B | Follow the procedure in Performance Specification 9 of 40 CFR part 60, appendix B, except that a single daily mid-level calibration check can be used (rather than triplicate analysis), the multi-point calibration can be conducted quarterly (rather than monthly), and the sampling line temperature must be maintained at a minimum temperature of 60 °C (rather than 120 °C).
 Hydrogen analyzer | ±2 percent over the concentration measured or 0.1 volume percent, whichever is greater | Specify calibration requirements in your site specific CPMS monitoring plan. Calibration requirements should follow manufacturer's recommendations at a minimum.
-| | Select the sampling location at least two equivalent duct diameters from the nearest control device, point of pollutant generation, air in-leakages, or other point at which a change in the pollutant concentration occurs.
+| | Where feasible, select the sampling location at least two equivalent duct diameters from the nearest control device, point of pollutant generation, air in-leakages, or other point at which a change in the pollutant concentration occurs.
