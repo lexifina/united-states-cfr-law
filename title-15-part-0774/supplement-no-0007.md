@@ -1,7 +1,7 @@
 # Supplement No. 7 to Part 774—Very Sensitive List
 Note to Supplement No. 7: While the items on this list are identified by ECCN rather than by Wassenaar Arrangement numbering, the item descriptions are drawn directly from the Wassenaar Arrangement's Very Sensitive List, which is a subset of the Wassenaar Arrangement's Sensitive List. If text accompanies an ECCN below, then the Very Sensitive List is limited to a subset of items classified under the specific ECCN or has differing parameters.
 (1) Category 1
-(i) 1A002.a.
+(i) 1A002.a.1.
 (ii) 1C001.
 (iii) 1C012.
 (iv) 1E001—"Technology" according to the General Technology Note for the "development" or "production" of equipment and materials specified by 1A002.a, 1C001, or 1C012.
@@ -14,9 +14,9 @@ Note to Supplement No. 7: While the items on this list are identified by ECCN ra
 (i) 6A001.a.1.b.1—Systems or transmitting and receiving arrays, designed for object detection or location, having a sound pressure level exceeding 210 dB (reference 1 µPa at 1 m) and an operating frequency in the band from 30 Hz to 2 kHz.
 (ii) 6A001.a.2.a.1 to a.2.a.3, a.2.a.5, or a.2.a.6.
 (iii) 6A001.a.2.b.
-(iv) 6A001.a.2.c—Processing equipment, "specially designed" for real time application with towed acoustic hydrophone arrays, having "user accessible programmability" and time or frequency domain processing and correlation, including spectral analysis, digital filtering and beamforming using Fast Fourier or other transforms or processes.
+(iv) 6A001.a.2.c—Processing equipment, "specially designed" for real time application with towed acoustic hydrophone arrays, having "user-accessible programmability" and time or frequency domain processing and correlation, including spectral analysis, digital filtering and beamforming using Fast Fourier or other transforms or processes.
 (v) 6A001.a.2.e.
-(vi) 6A001.a.2.f—Processing equipment, "specially designed" for real time application with bottom or bay cable systems, having "user accessible programmability" and time or frequency domain processing and correlation, including spectral analysis, digital filtering and beamforming using Fast Fourier or other transforms or processes.
+(vi) 6A001.a.2.f—Processing equipment, "specially designed" for real time application with bottom or bay cable systems, having "user-accessible programmability" and time or frequency domain processing and correlation, including spectral analysis, digital filtering and beamforming using Fast Fourier or other transforms or processes.
 (vii) 6A002.a.1.c.
 (viii) 6B008.
 (ix) 6D001—"Software" "specially designed" for the "development" or "production" of equipment specified by 6B008.
