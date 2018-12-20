@@ -22,7 +22,7 @@ Greece | X | X | X | X | X
 Hong Kong | | | | | | X
 Hungary | X | X | X | X | X
 Iceland | X | X | X | X | X
-India | | X | | | | X
+India | X | X | X | | X
 Ireland | X | X | X | X | X
 Israel | | | | | | X
 Italy | X | X | X | X | X
@@ -99,6 +99,7 @@ Qatar | | | X | X
 Russia | X | | X
 Saudi Arabia | | | X | X
 Somalia | | | | | X
+South Sudan, Republic of | | | | | X
 Sudan | | | | | X
 Syria | | | X | X | X
 Taiwan | | | X
@@ -111,7 +112,7 @@ Venezuela | | | | | X
 Vietnam | X | | X |
 Yemen | | | X | X
 Zimbabwe | | | | | X
-1 Note to Country Group D:5: Countries subject to U.S. arms embargoes are identified by the State Department through notices published in the Federal Register. The list of arms embargoed destinations in this paragraph is drawn from 22 CFR § 126.1 and State Department Federal Register notices related to arms embargoes (compiled at http://www.pmddtc.state.gov /embargoed_countries /index.html) and will be amended when the State Department publishes subsequent notices. If there are any discrepancies between the list of countries in this paragraph and the countries identified by the State Department as subject to a U.S. arms embargo (in the Federal Register), the State Department's list of countries subject to U.S. arms embargoes shall be controlling.
+1 Note to Country Group D:5: Countries subject to U.S. arms embargoes are identified by the State Department through notices published in the Federal Register. The list of arms embargoed destinations in this paragraph is drawn from 22 CFR § 126.1 and State Department Federal Register notices related to arms embargoes (compiled at http://www.pmddtc.state.gov/embargoed_countries/index.html) and will be amended when the State Department publishes subsequent notices. If there are any discrepancies between the list of countries in this paragraph and the countries identified by the State Department as subject to a U.S. arms embargo (in the Federal Register), the State Department's list of countries subject to U.S. arms embargoes shall be controlling.
 Country Group E 1
 Country | [E:1]Terrorist supporting countries 2 | [E:2]Unilateral embargo
 Cuba | | X
