@@ -1,23 +1,159 @@
-# Appendix F to Part 73—Nations That Are Parties to the Convention on the Physical Protection of Nuclear Material 1
-Nation | Date of deposit of instrument of ratification with the IAEA
-Brazil | Oct. 17, 1985.
-Bulgaria | May 2, 1984.
-Canada | Mar. 21, 1986.
-Czechoslovakia | Apr. 23, 1982.
-German Democratic Republic (E. Germany) | Feb. 5, 1981.
-Guatemala | Apr. 23, 1985.
-Hungary | May 4, 1984.
-Indonesia | Nov. 5, 1986.
-Korea, Republic of | Apr. 7, 1982.
-Liechtenstein | Nov. 25, 1986.
-Mongolia | May 28, 1986.
-Norway | Aug. 15, 1985.
-Paraguay | Feb. 6, 1985.
-Philippines | Sept. 22, 1981.
-Poland | Oct. 5, 1983.
-Sweden | Aug. 1, 1980.
-Switzerland | Jan. 9, 1987.
-Turkey | Feb. 27, 1985.
-Yugoslavia | May 14, 1986.
-Union of Soviet Socialist Republic | May 25, 1983.
-United States of America | Dec. 13, 1982.
+# Appendix F to Part 73—Countries and Organizations That Are Parties to the Convention on the Physical Protection of Nuclear Material 1
+Countries/Organizations
+Afghanistan
+Albania
+Algeria
+Andorra
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Belarus
+Belgium
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Bulgaria
+Burkina Faso
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Central African Republic
+Chile
+China
+Colombia
+Comoros
+Costa Rica
+Côte d'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Democratic Rep. of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+El Salvador
+Equatorial Guinea
+Estonia
+Eswatini
+Fiji
+Finland
+France
+Gabon
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Korea, Republic of
+Kuwait
+Kyrgyzstan
+Lao P.D.R.
+Latvia
+Lebanon
+Lesotho
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Madagascar
+Malawi
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mexico
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Republic of Moldova
+Romania
+Russian Federation
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Singapore
+Slovakia
+Slovenia
+South Africa
+Spain
+Sudan
+Sweden
+Switzerland
+Tajikistan
+Thailand
+The frmr. Yug. Rep. of Macedonia
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United Republic of Tanzania
+United States of America
+Uruguay
+Uzbekistan
+Viet Nam
+Yemen
+Zambia
+EURATOM
