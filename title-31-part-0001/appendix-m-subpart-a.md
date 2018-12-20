@@ -1,6 +1,0 @@
-# Appendix M to Subpart A of Part 1—Financial Crimes Enforcement Network
-1. In general. This appendix applies to the Financial Crimes Enforcement Network (FinCEN).
-2. Public Reading Room. FinCEN will provide a room on an ad hoc basis when necessary. Contact Office of Regulatory Programs, FinCEN, (202) 354-6400.
-3. Requests for records. Initial determinations under 31 CFR 1.5(h) as to whether to grant requests for records of FinCEN will be made by the Freedom of Information Act/Privacy Act Officer, FinCEN. Requests for records may be mailed to: Freedom of Information Act/Privacy Act Request, Financial Crimes Enforcement Network, Post Office Box 39, Vienna, VA 22183.
-4. Administrative appeal of initial determinations to deny records. Appellate determinations under 31 CFR 1.5(i) with respect to the records of FinCEN will be made by the Director of FinCEN or the delegate of the Director. Appeals should be mailed to: Freedom of Information Appeal, Post Office Box 39, Vienna, VA 22183.
-5. Delivery of process. Service of process will be received by the Chief Counsel of FinCEN and shall be delivered to: Chief Counsel, Financial Crimes Enforcement Network, Post Office Box 39, Vienna, VA 22183.
