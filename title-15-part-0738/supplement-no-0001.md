@@ -80,7 +80,7 @@ Honduras | X | X | | X | | X | X | X | X | X | X | X | | X
 Hong Kong | X | X | | X | | X | X | X | X | X | | X | | X
 Hungary 3 | X | | | | | X | | X | X
 Iceland 3 | X | | | | | X | | X | X | | | | |
-India 7 | X | X | | X | | X | X | X | X | | | | |
+India 7 | X | | | X | | X | | X | X | | | | |
 Indonesia | X | X | | X | | X | X | X | X | X | | X | | X
 Iran 1 | See part 746 of the EAR to determine whether a license is required in order to export or reexport to this destination.
 Iraq 1 | X | X | X | X | X | X | X | X | X | X | | X | X
@@ -208,5 +208,5 @@ Zimbabwe | X | X | | X | | X | X | X | X | X | | X | | X
 4 See § 742.6(a)(2) and (4)(ii) regarding special provisions for exports and reexports of certain thermal imaging cameras to these countries.
 5 Refer to Switzerland for licensing requirements for Liechtenstein under the EAR.
 6 See § 746.5 for additional license requirements under the Russian Industry Sector Sanctions for ECCNs 0A998, 1C992, 3A229, 3A231, 3A232, 6A991, 8A992, and 8D999.
-7 See § 758.1(b)(9) for an AES filing requirement for exports of CC column 1 or 3, or RS column 2 items to India. Also note that a license is still required for items controlled under ECCNs 6A003.b.4.b and 9A515.e for RS column 2 reasons when destined to India.
+7 Note that a license is still required for items controlled under ECCNs 6A003.b.4.b and 9A515.e for RS column 2 reasons when destined to India.
 8 See § 746.6 for additional license requirements for export and reexports to the Crimea region of Ukraine and transfers (in-country) within the Crimea region of Ukraine for all items subject to the EAR, other than food and medicine designated as EAR99 and certain EAR99 or ECCN 5D992.c software for Internet-based communications. The Crimea region of Ukraine includes the land territory in that region as well as any maritime area over which sovereignty, sovereign rights, or jurisdiction is claimed based on purported annexation of that land territory.
