@@ -12,7 +12,7 @@
 (ii) Semi-automated method. An applicant may employ the range and bearing techniques in paragraph (b)(3) to create latitude and longitude points on a map. The FAA will accept straight lines for distances less than or equal to 7.5 times the map scale on map scales greater than or equal to 1:1,000,000 inches per inch (in/in); or straight lines representing 100 nm or less on map scales less than 1:1,000,000 in/in.
 (iii) Fully-automated method. An applicant may use geographical information system software with global mapping data scaleable in accordance with paragraph (b)(1).
 (3) Range and bearing computations on an ellipsoidal Earth model.
-(i) To create latitude and longitude pairs on an ellipsoidal Earth model, an applicant shall use the following equations to calculate geodetic latitude (+ N) and longitude (+ E) given the launch point geodetic latitude (+ N), longitude (+ E), range (nm), and bearing (degrees, positive clockwise from North).
+(i) To create latitude and longitude pairs on an ellipsoidal Earth model, an applicant shall use the following equations to calculate geodetic latitude (+N) and longitude (+E) given the launch point geodetic latitude (+N), longitude (+E), range (nm), and bearing (degrees, positive clockwise from North).
 (A) Input. An applicant shall use the following input in making range and bearing computations. Angle units must be in radians.
 ER19OC00.007
 (B) Computations. An applicant shall use the following equations to determine the latitude (φ2) and longitude (λ2) of a target point situated "S" nm from the launch point on an azimuth bearing (α12) degrees.
@@ -41,7 +41,7 @@ ER19OC00.026
 ER19OC00.027
 ER19OC00.028
 ER19OC00.029
-(ii) To create latitude and longitude pairs on an ellipsoidal Earth model, an applicant shall use the following equations to calculate the distance (S) of the geodesic between two points (P1 and P2), the forward azimuth (α12) of the geodesic at P1, and the back azimuth (α21) of the geodesic at P2, given the geodetic latitude (+ N), longitude (+ E) of P1 and P2. Azimuth is measured positively clockwise from North.
+(ii) To create latitude and longitude pairs on an ellipsoidal Earth model, an applicant shall use the following equations to calculate the distance (S) of the geodesic between two points (P1 and P2), the forward azimuth (α12) of the geodesic at P1, and the back azimuth (α21) of the geodesic at P2, given the geodetic latitude (+N), longitude (+E) of P1 and P2. Azimuth is measured positively clockwise from North.
 (A) Input. An applicant shall use the following input. Units must be in radians.
 ER19OC00.030
 (B) Computations. An applicant shall use the following equations to determine the distance (S), the forward azimuth (α12) of the geodesic at P1, and the back azimuth (α12) of the geodesic at P2.
@@ -61,10 +61,7 @@ ER19OC00.040
 ER19OC00.041
 ER19OC00.042
 ER19OC00.043
-ER19OC00.044
-ER19OC00.045
-ER19OC00.046
-ER19OC00.047
+ER19OC00.200
 (c) Creation of a Flight Corridor
 (1) To define a flight corridor, an applicant shall:
 (i) Select a guided suborbital or orbital launch vehicle, and, for an orbital launch vehicle, select from table 1 of § 420.19 a launch vehicle weight class that best represents the launch vehicle the applicant plans to support at its launch point;
