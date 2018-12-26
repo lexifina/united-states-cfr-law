@@ -159,7 +159,7 @@ where,
 Lf = Indoor coil fin length in inches, also height of the coil transverse to the tubes.
 Wf = Indoor coil fin width in inches, also depth of the coil.
 Nf = Number of fins.
-Q c(95) = the measured space cooling capacity of the tested outdoor unit/indoor unit combination as determined from the A2 or A Test whichever applies, Btu/h.
+Q c = the measured space cooling capacity of the tested outdoor unit/indoor unit combination as determined from the A2 or A Test whichever applies, Btu/h.
 f. If the outdoor unit or the outdoor portion of a single-package unit has a drain pan heater to prevent freezing of defrost water, energize the heater, subject to control to de-energize it when not needed by the heater's thermostat or the unit's control system, for all tests.
 g. If pressure measurement devices are connected to a cooling/heating heat pump refrigerant circuit, the refrigerant charge Mt that could potentially transfer out of the connected pressure measurement systems (transducers, gauges, connections, and lines) between operating modes must be less than 2 percent of the factory refrigerant charge listed on the nameplate of the outdoor unit. If the outdoor unit nameplate has no listed refrigerant charge, or the heat pump is shipped without a refrigerant charge, use a factory refrigerant charge equal to 30 ounces per ton of certified cooling capacity. Use Equation 2.2-1 to calculate Mt for heat pumps that have a single expansion device located in the outdoor unit to serve each indoor unit, and use Equation 2.2-2 to calculate Mt for heat pumps that have two expansion devices per indoor unit.
 ER05JA17.151
@@ -612,19 +612,19 @@ Table 9—Test Operating and Test Condition Tolerances for Section 3.3 Steady-St
 | Test operatingtolerance 1 | Test conditiontolerance 1
 Indoor dry-bulb, °F
 Entering temperature | 2.0 | 0.5
-Leaving temperature | 2.0 |
+Leaving temperature | 2.0
 Indoor wet-bulb, °F
 Entering temperature | 1.0 | 2 0.3
-Leaving temperature | 2 1.0 |
+Leaving temperature | 2 1.0
 Outdoor dry-bulb, °F
 Entering temperature | 2.0 | 0.5
-Leaving temperature | 3 2.0 |
+Leaving temperature | 3 2.0
 Outdoor wet-bulb, °F
 Entering temperature | 1.0 | 4 0.3
-Leaving temperature | 3 1.0 |
+Leaving temperature | 3 1.0
 External resistance to airflow, inches of water | 0.05 | 5 0.02
 Electrical voltage, % of reading. | 2.0 | 1.5
-Nozzle pressure drop, % of reading. | 2.0 |
+Nozzle pressure drop, % of reading. | 2.0
 1 See section 1.2 of this appendix, Definitions.
 2 Only applies during wet coil tests; does not apply during steady-state, dry coil cooling mode tests.
 3 Only applies when using the outdoor air enthalpy method.
@@ -752,7 +752,7 @@ H1C2 Test (optional 7, cyclic) | 70 | 60 (max) | 47 | 43 | High | (3)
 H11 Test (required) | 70 | 60 (max) | 47 | 43 | Low | Heating Minimum.1
 H1C1 Test (optional, cyclic) | 70 | 60 (max) | 47 | 43 | Low | (4)
 H22 Test (required) | 70 | 60 (max) | 35 | 33 | High | Heating Full-Load.2
-H21 Test 5 6 (required) | 70 | 60 (max) | 35 | 33 | Low | Heating Minimum.1
+H21 Test5 6 (required) | 70 | 60 (max) | 35 | 33 | Low | Heating Minimum.1
 H32 Test (required, steady) | 70 | 60 (max) | 17 | 15 | High | Heating Full-Load.2
 H31 Test 5 (required, steady) | 70 | 60 (max) | 17 | 15 | Low | Heating Minimum.1
 H42 Test (Optional, steady) | 70 | 60 (max) | 5 | 3 (max) | High | Heating Full-Load.2
@@ -849,19 +849,19 @@ Table 16—Test Operating and Test Condition Tolerances for Section 3.7 and Sect
 | Test operating tolerance 1 | Test condition tolerance 1
 Indoor dry-bulb, °F:
 Entering temperature | 2.0 | 0.5
-Leaving temperature | 2.0 |
+Leaving temperature | 2.0
 Indoor wet-bulb, °F:
-Entering temperature | 1.0 |
-Leaving temperature | 1.0 |
+Entering temperature | 1.0
+Leaving temperature | 1.0
 Outdoor dry-bulb, °F:
 Entering temperature | 2.0 | 0.5
-Leaving temperature | 22.0 |
+Leaving temperature | 22.0
 Outdoor wet-bulb, °F:
 Entering temperature | 1.0 | 0.3
-Leaving temperature | 2 1.0 |
+Leaving temperature | 2 1.0
 External resistance to airflow, inches of water | 0.05 | 3 0.02
 Electrical voltage, % of reading | 2.0 | 1.5
-Nozzle pressure drop, % of reading | 2.0 |
+Nozzle pressure drop, % of reading | 2.0
 1 See section 1.2 of this appendix, Definitions.
 2 Only applies when the Outdoor Air Enthalpy Method is used.
 3 Only applies when testing non-ducted units.
@@ -909,10 +909,10 @@ Round the calculated value for CD h to the nearest 0.01. If CD h is negative, th
 Table 17—Test Operating and Test Condition Tolerances for Cyclic Heating Mode Tests
 | Test operating tolerance 1 | Test condition tolerance 1
 Indoor entering dry-bulb temperature,2 °F | 2.0 | 0.5
-Indoor entering wet-bulb temperature,2 °F | 1.0 |
+Indoor entering wet-bulb temperature,2 °F | 1.0
 Outdoor entering dry-bulb temperature,2 °F | 2.0 | 0.5
 Outdoor entering wet-bulb temperature,2 °F | 2.0 | 1.0
-External resistance to air-flow,2 inches of water | 0.05 |
+External resistance to air-flow,2 inches of water | 0.05
 Airflow nozzle pressure difference or velocity pressure,2% of reading | 2.0 | 3 2.0
 Electrical voltage,4% of reading | 2.0 | 1.5
 1 See section 1.2 of this appendix, Definitions.
@@ -1289,182 +1289,3 @@ PLFj = 1 − CD h · [1 − Xk=1(Tj)], the part load factor, dimensionless.
 Evaluate the heating mode cyclic degradation factor CD h as specified in section 3.8.1 of this appendix.
 Determine the low temperature cut-out factor using
 ER05JA17.259
-where Toff and Ton are defined in section 4.2.1 of this appendix. Use the calculations given in section 4.2.3.3 of this appendix, and not the above, if:
-a. The heat pump locks out low capacity operation at low outdoor temperatures and
-b. Tj is below this lockout threshold temperature.
-4.2.3.2 Heat Pump Alternates Between High (k=2) and Low (k=1) Compressor Capacity To Satisfy the Building Heating Load at a Temperature Tj, Q h k=1(Tj) BL(Tj) Q h k=2(Tj)
-ER05JA17.260
-Xk=2(Tj) = 1 − Xk=1(Tj) the heating mode, high capacity load factor for temperature bin j, dimensionless.
-Determine the low temperature cut-out factor, δ′(Tj), using Equation 4.2.3-3.
-4.2.3.3 Heat Pump Only Operates at High (k=2) Compressor Capacity at Temperature Tj and its Capacity Is Greater Than the Building Heating Load, BL(Tj) < Q h k=2(Tj). This Section Applies to Units That Lock Out Low Compressor Capacity Operation at Low Outdoor Temperatures
-ER05JA17.261
-where:
-Xk=2(Tj)= BL(Tj)/Q h k=2(Tj). PLF j = 1 − Ch D(k = 2) * [1 − X k=2(T j)]
-If the H1C2 test described in section 3.6.3 and Table 13 of this appendix is not conducted, set CD h (k=2) equal to the default value specified in section 3.8.1 of this appendix.
-Determine the low temperature cut-out factor, δ(Tj), using Equation 4.2.3-3.
-4.2.3.4 Heat Pump Must Operate Continuously at High (k=2) Compressor Capacity at Temperature Tj, BL(Tj) ≥Qh k=2(Tj)
-ER05JA17.262
-4.2.4 Additional Steps for Calculating the HSPF2 of a Heat Pump Having a Variable-Speed Compressor. Calculate HSPF2 Using Equation 4.2-1
-ER05JA17.263
-a. Minimum Compressor Speed. Evaluate the space heating capacity, Q h k=1(Tj), and electrical power consumption, E h k=1(Tj), of the heat pump when operating at minimum compressor speed and outdoor temperature Tj using
-ER05JA17.264
-ER05JA17.265
-where Q h k=1(62) and E h k=1(62) are determined from the H01 test, Q h k=1(47) and E h k=1(47) are determined from the H11 test, and all four quantities are calculated as specified in section 3.7 of this appendix.
-b. Minimum Compressor Speed for Minimum-speed-limiting Variable-speed Heat Pumps: Evaluate the space heating capacity, Q h k=1(Tj), and electrical power consumption, E h k=1(Tj), of the heat pump when operating at minimum compressor speed and outdoor temperature Tj using Equation 4.2.4-3
-ER05JA17.266
-ER05JA17.267
-where Q h k=1(62) and E h k=1(62) are determined from the H01 test, Q h k=1(47) and E h k=1(47) are determined from the H11 test, and all four quantities are calculated as specified in section 3.7 of this appendix; Q h k=v(35) and E h k=v(35) are determined from the H2v test and are calculated as specified in section 3.9 of this appendix; and Q h k=v(Tj) and E h k=v(Tj) are calculated using equations 4.2.4-5 and 4.2.4-6, respectively.
-c. Full Compressor Speed for Heat Pumps for which the H42 test is not Conducted. Evaluate the space heating capacity, Q h k=2(Tj), and electrical power consumption, E h k=2(Tj), of the heat pump when operating at full compressor speed and outdoor temperature Tj by solving Equations 4.2.2-3 and 4.2.2-4, respectively, for k=2, using Q hcalc k=2(47) to represent Q h k=2(47) and E hcalc k=2(47) to represent E h k=2(47) (see section 3.6.4.b of this appendix regarding determination of the capacity and power input used in the HSPF2 calculations to represent the H12 Test). Determine Q h k=2(35) and E h k=2(35) from the H22 test and the calculations specified in section 3.9 or, if the H22 test is not conducted, by conducting the calculations specified in section 3.6.4. Determine Q h k=2(17) and E h k=2(17) from the H32 test and the methods specified in section 3.10 of this appendix.
-d. Full Compressor Speed for Heat Pumps for which the H42 test is Conducted. For Tj above 17 °F, evaluate the space heating capacity, Q h k=2(Tj), and electrical power consumption, E h k=2(Tj), of the heat pump when operating at full compressor speed as described above for heat pumps for which the H42 is not conducted. For Tj between 5 °F and 17 °F, evaluate the space heating capacity, Q h k=2(Tj), and electrical power consumption, E h k=2(Tj), of the heat pump when operating at full compressor speed using the following equations:
-ER05JA17.268
-Determine Q h k=2(17) and E h k=2(17) from the H32 test, and Q h k=2(5) and E h k=2(5) from the H42 test, using the methods specified in section 3.10 of this appendix for all four values. For Tj below 5 °F, evaluate the space heating capacity, Q h k=2(Tj), and electrical power consumption, E h k=2(Tj), of the heat pump when operating at full compressor speed using the following equations:
-ER05JA17.269
-Determine Q hcalc k=2(47) and E hcalc k=2(47) as described in section 3.6.4.b of this appendix. Determine Q h k=2(17) and E h k=2(17) from the H32 test, using the methods specified in section 3.10 of this appendix.
-e. Intermediate Compressor Speed. Calculate the space heating capacity, Q h k=v(Tj), and electrical power consumption, E h k=v(Tj), of the heat pump when operating at outdoor temperature Tj and the intermediate compressor speed used during the section 3.6.4 H2V test using
-ER05JA17.270
-ER05JA17.271
-where Q h k=v(35) and E h k=v(35) are determined from the H2V test and calculated as specified in section 3.9 of this appendix. Approximate the slopes of the k=v intermediate speed heating capacity and electrical power input curves, MQ and ME, as follows:
-ER05JA17.272
-Use Equations 4.2.4-1 and 4.2.4-2, respectively, to calculate Q h k=1(35) and E h k=1(35), whether or not the heat pump is a minimum-speed-limiting variable-speed heat pump.
-4.2.4.1 Steady-State Space Heating Capacity When Operating at Minimum Compressor Speed Is Greater Than or Equal to the Building Heating Load at Temperature Tj, Q h k=1(Tj ≥BL(Tj)
-Evaluate the Equation 4.2-1 quantities
-ER05JA17.273
-as specified in section 4.2.3.1 of this appendix. Except now use Equations 4.2.4-1 and 4.2.4-2 (for heat pumps that are not minimum-speed-limiting) or Equations 4.3.4-3 and 4.2.4-4 (for minimum-speed-limiting variable-speed heat pumps) to evaluate Q h k=1(Tj) and E h k=1(Tj), respectively, and replace section 4.2.3.1 references to "low capacity" and section 3.6.3 of this appendix with "minimum speed" and section 3.6.4 of this appendix. Also, the last sentence of section 4.2.3.1 of this appendix does not apply.
-4.2.4.2 Heat Pump Operates at an Intermediate Compressor Speed (k=i) in Order To Match the Building Heating Load at a Temperature Tj, Q h k=1(Tj) <BL(Tj) <Q h k=2(Tj)
-Calculate
-ER05JA17.274
-and δ(Tj) is evaluated using Equation 4.2.3-3 while, Q h k=i(Tj) = BL(Tj), the space heating capacity delivered by the unit in matching the building load at temperature (Tj), Btu/h. The matching occurs with the heat pump operating at compressor speed k=i. COPk=i(Tj) = the steady-state coefficient of performance of the heat pump when operating at compressor speed k=i and temperature Tj, dimensionless.
-For each temperature bin where the heat pump operates at an intermediate compressor speed, determine COPk=i(Tj) using the following equations,
-For each temperature bin where Q h k=1(Tj) <BL(Tj) <Q h k=v(Tj),
-ER05JA17.275
-For each temperature bin where Q h k=v(Tj) ≤BL(Tj) <Q h k=2(Tj),
-ER05JA17.276
-Where:
-COPh k=1(Tj) is the steady-state coefficient of performance of the heat pump when operating at minimum compressor speed and temperature Tj, dimensionless, calculated using capacity Q h k=1(Tj) calculated using Equation 4.2.4-1 or 4.2.4-3 and electrical power consumption E h k=1(Tj) calculated using Equation 4.2.4-2 or 4.2.4-4;
-COPh k=v(Tj) is the steady-state coefficient of performance of the heat pump when operating at intermediate compressor speed and temperature Tj, dimensionless, calculated using capacity Q h k=v(Tj) calculated using Equation 4.2.4-5 and electrical power consumption E h k=v(Tj) calculated using Equation 4.2.4-6;
-COPh k=2(Tj) is the steady-state coefficient of performance of the heat pump when operating at full compressor speed and temperature Tj, dimensionless, calculated using capacity Q h k=2(Tj) and electrical power consumption E h k=2(Tj), both calculated as described in section 4.2.4; and
-BL(Tj) is the building heating load at temperature Tj, Btu/h.
-4.2.4.3 Heat Pump Must Operate Continuously at Full (k=2) Compressor Speed at Temperature Tj, BL(Tj) ≥Q h k=2(Tj). Evaluate the Equation 4.2-1 Quantities
-ER05JA17.277
-as specified in section 4.2.3.4 of this appendix with the understanding that Q h k=2(Tj) and E h k=2(Tj) correspond to full compressor speed operation and are derived from the results of the specified section 3.6.4 tests of this appendix.
-4.2.5 Heat Pumps Having a Heat Comfort Controller
-Heat pumps having heat comfort controllers, when set to maintain a typical minimum air delivery temperature, will cause the heat pump condenser to operate less because of a greater contribution from the resistive elements. With a conventional heat pump, resistive heating is only initiated if the heat pump condenser cannot meet the building load (i.e., is delayed until a second stage call from the indoor thermostat). With a heat comfort controller, resistive heating can occur even though the heat pump condenser has adequate capacity to meet the building load (i.e., both on during a first stage call from the indoor thermostat). As a result, the outdoor temperature where the heat pump compressor no longer cycles (i.e., starts to run continuously), will be lower than if the heat pump did not have the heat comfort controller.
-4.2.5.1 Blower Coil System Heat Pump Having a Heat Comfort Controller: Additional Steps for Calculating the HSPF2 of a Heat Pump Having a Single-Speed Compressor and Either a Fixed-Speed Indoor Blower or a Constant-Air-Volume-Rate Indoor Blower Installed, or a Single-Speed Coil-Only System Heat Pump
-Calculate the space heating capacity and electrical power of the heat pump without the heat comfort controller being active as specified in section 4.2.1 of this appendix (Equations 4.2.1-4 and 4.2.1-5) for each outdoor bin temperature, Tj, that is listed in Table 20. Denote these capacities and electrical powers by using the subscript "hp" instead of "h." Calculate the mass flow rate (expressed in pounds-mass of dry air per hour) and the specific heat of the indoor air (expressed in Btu/lbmda · °F) from the results of the H1 test using:
-ER05JA17.278
-where V s, V mx, v′n (or vn), and Wn are defined following Equation 3-1. For each outdoor bin temperature listed in Table 20, calculate the nominal temperature of the air leaving the heat pump condenser coil using,
-ER05JA17.279
-Evaluate eh(Tj/N), RH(Tj)/N, X(Tj), PLFj, and δ(Tj) as specified in section 4.2.1 of this appendix. For each bin calculation, use the space heating capacity and electrical power from Case 1 or Case 2, whichever applies.
-Case 1. For outdoor bin temperatures where To(Tj) is equal to or greater than TCC (the maximum supply temperature determined according to section 3.1.9 of this appendix), determine Q h(Tj) and E h(Tj) as specified in section 4.2.1 of this appendix (i.e., Q h(Tj) = Q hp(Tj) and E hp(Tj) = E hp(Tj)).
-Note: Even though To(Tj) ≥Tcc, resistive heating may be required; evaluate Equation 4.2.1-2 for all bins.
-Case 2. For outdoor bin temperatures where To(Tj) >Tcc, determine Q h(Tj) and E h(Tj) using,
-ER05JA17.280
-Note: Even though To(Tj) <Tcc, additional resistive heating may be required; evaluate Equation 4.2.1-2 for all bins.
-4.2.5.2 Heat Pump Having a Heat Comfort Controller: Additional Steps for Calculating the HSPF2 of a Heat Pump Having a Single-Speed Compressor and a Variable-Speed, Variable-Air-Volume-Rate Indoor Blower
-Calculate the space heating capacity and electrical power of the heat pump without the heat comfort controller being active as specified in section 4.2.2 of this appendix (Equations 4.2.2-1 and 4.2.2-2) for each outdoor bin temperature, Tj, that is listed in Table 20. Denote these capacities and electrical powers by using the subscript "hp" instead of "h." Calculate the mass flow rate (expressed in pounds-mass of dry air per hour) and the specific heat of the indoor air (expressed in Btu/lbmda · °F) from the results of the H12 test using:
-ER05JA17.281
-where V S, V mx, v′n (or vn), and Wn are defined following Equation 3-1. For each outdoor bin temperature listed in Table 20, calculate the nominal temperature of the air leaving the heat pump condenser coil using,
-ER05JA17.282
-Evaluate eh(Tj)/N, RH(Tj)/N, X(Tj), PLFj, and δ(Tj) as specified in section 4.2.1 of this appendix with the exception of replacing references to the H1C test and section 3.6.1 of this appendix with the H1C1 test and section 3.6.2 of this appendix. For each bin calculation, use the space heating capacity and electrical power from Case 1 or Case 2, whichever applies.
-Case 1. For outdoor bin temperatures where To(Tj) is equal to or greater than TCC (the maximum supply temperature determined according to section 3.1.9 of this appendix), determine Q h(Tj) and E h(Tj) as specified in section 4.2.2 of this appendix (i.e. Q h(Tj) = Q hp(Tj) and E h(Tj) = E hp(Tj)). Note: Even though To(Tj) ≥TCC, resistive heating may be required; evaluate Equation 4.2.1-2 for all bins.
-Case 2. For outdoor bin temperatures where To(Tj) <TCC, determine Q h(Tj) and E h(Tj) using,
-ER05JA17.283
-Note: Even though To(Tj) <Tcc, additional resistive heating may be required; evaluate Equation 4.2.1-2 for all bins.
-4.2.5.3 Heat Pumps Having a Heat Comfort Controller: Additional Steps for Calculating the HSPF2 of a Heat Pump Having a Two-Capacity Compressor
-Calculate the space heating capacity and electrical power of the heat pump without the heat comfort controller being active as specified in section 4.2.3 of this appendix for both high and low capacity and at each outdoor bin temperature, Tj, that is listed in Table 20. Denote these capacities and electrical powers by using the subscript "hp" instead of "h." For the low capacity case, calculate the mass flow rate (expressed in pounds-mass of dry air per hour) and the specific heat of the indoor air (expressed in Btu/lbmda · °F) from the results of the H11 test using:
-ER05JA17.284
-where V s, V mx, v′n (or vn), and Wn are defined following Equation 3-1. For each outdoor bin temperature listed in Table 20, calculate the nominal temperature of the air leaving the heat pump condenser coil when operating at low capacity using,
-ER05JA17.285
-Repeat the above calculations to determine the mass flow rate (m da k=2) and the specific heat of the indoor air (Cp,da k=2) when operating at high capacity by using the results of the H12 test. For each outdoor bin temperature listed in Table 20, calculate the nominal temperature of the air leaving the heat pump condenser coil when operating at high capacity using,
-ER05JA17.286
-Evaluate eh(Tj)/N, RH(Tj)/N, Xk=1(Tj), and/or Xk=2(Tj), PLFj, and δ′(Tj) or δ″(Tj) as specified in section 4.2.3.1. 4.2.3.2, 4.2.3.3, or 4.2.3.4 of this appendix, whichever applies, for each temperature bin. To evaluate these quantities, use the low-capacity space heating capacity and the low-capacity electrical power from Case 1 or Case 2, whichever applies; use the high-capacity space heating capacity and the high-capacity electrical power from Case 3 or Case 4, whichever applies.
-Case 1. For outdoor bin temperatures where To k=1(Tj) is equal to or greater than TCC (the maximum supply temperature determined according to section 3.1.9 of this appendix), determine Q h k=1(Tj) and E h k=1(Tj) as specified in section 4.2.3 of this appendix (i.e., Q h k=1(Tj) = Q hp k=1(Tj) and E h k=1(Tj) = E hp k=1(Tj).
-Note: Even though To k=1(Tj) ≥TCC, resistive heating may be required; evaluate RH(Tj)/N for all bins.
-Case 2. For outdoor bin temperatures where To k=1(Tj) TCC, determine Q h k=1(Tj) and E h k=1(Tj) using,
-Q h k= 1(T j) = Q hp k= 1(T j) + Q CC k= 1(T j) E h k= 1(T j) = E hp k= 1(T j) + E CC k= 1(T j)
-where,
-ER05JA17.287
-Note: Even though To k=1(Tj) ≥Tcc, additional resistive heating may be required; evaluate RH(Tj)/N for all bins.
-Case 3. For outdoor bin temperatures where To k=2(Tj) is equal to or greater than TCC, determine Q h k=2(Tj) and E h k=2(Tj) as specified in section 4.2.3 of this appendix (i.e., Q h k=2(Tj) = Q hp k=2(Tj) and E h k=2(Tj) = E hp k=2(Tj)).
-Note: Even though To k=2(Tj) <TCC, resistive heating may be required; evaluate RH(Tj)/N for all bins.
-Case 4. For outdoor bin temperatures where To k=2(Tj) <TCC, determine Q h k=2(Tj) and E h k=2(Tj) using,
-Q h k= 2(T j) = Q hp k= 2(T j) + Q CC k= 2(T j) E h k= 2(T j) = E hp k= 2(T j) + E CC k= 2(T j)
-where,
-ER05JA17.288
-Note: Even though To k=2(Tj) Tcc, additional resistive heating may be required; evaluate RH(Tj)/N for all bins.
-4.2.5.4 Heat Pumps Having a Heat Comfort Controller: Additional Steps for Calculating the HSPF2 of a Heat Pump Having a Variable-Speed Compressor [Reserved]
-4.2.6 Additional Steps for Calculating the HSPF2 of a Heat Pump Having a Triple-Capacity Compressor
-The only triple-capacity heat pumps covered are triple-capacity, northern heat pumps. For such heat pumps, the calculation of the Eq. 4.2-1 quantities
-ER05JA17.289
-differ depending on whether the heat pump would cycle on and off at low capacity (section 4.2.6.1 of this appendix), cycle on and off at high capacity (section 4.2.6.2 of this appendix), cycle on and off at booster capacity (section 4.2.6.3 of this appendix), cycle between low and high capacity (section 4.2.6.4 of this appendix), cycle between high and booster capacity (section 4.2.6.5 of this appendix), operate continuously at low capacity (section 4.2.6.6 of this appendix), operate continuously at high capacity (section 4.2.6.7 of this appendix), operate continuously at booster capacity (section 4.2.6.8 of this appendix), or heat solely using resistive heating (also section 4.2.6.8 of this appendix) in responding to the building load. As applicable, the manufacturer must supply information regarding the outdoor temperature range at which each stage of compressor capacity is active. As an informative example, data may be submitted in this manner: At the low (k=1) compressor capacity, the outdoor temperature range of operation is 40 °F ≤ T ≤ 65 °F; At the high (k=2) compressor capacity, the outdoor temperature range of operation is 20 °F ≤ T ≤ 50 °F; At the booster (k=3) compressor capacity, the outdoor temperature range of operation is −20 °F ≤ T ≤ 30 °F.
-a. Evaluate the space heating capacity and electrical power consumption of the heat pump when operating at low compressor capacity and outdoor temperature Tj using the equations given in section 4.2.3 of this appendix for Q h k=1(Tj) and E h k=1 (Tj)) In evaluating the section 4.2.3 equations, Determine Q h k=1(62) and E h k=1(62) from the H01 test, Q h k=1(47) and E h k=1(47) from the H11 test, and Q h k=2(47) and E h k=2(47) from the H12 test. Calculate all four quantities as specified in section 3.7 of this appendix. If, in accordance with section 3.6.6 of this appendix, the H31 test is conducted, calculate Q h k=1(17) and E h k=1(17) as specified in section 3.10 of this appendix and determine Q h k=1(35) and E h k=1(35) as specified in section 3.6.6 of this appendix.
-b. Evaluate the space heating capacity and electrical power consumption (Q h k=2(Tj) and E h k=2 (Tj)) of the heat pump when operating at high compressor capacity and outdoor temperature Tj by solving Equations 4.2.2-3 and 4.2.2-4, respectively, for k=2. Determine Q h k=1(62) and E h k=1(62) from the H01 test, Q h k=1(47) and E h k=1(47) from the H11 test, and Q h k=2(47) and E h k=2(47) from the H12 test, evaluated as specified in section 3.7 of this appendix. Determine the equation input for Q h k=2(35) and E h k=2(35) from the H22,test evaluated as specified in section 3.9.1 of this appendix. Also, determine Q h k=2(17) and E h k=2(17) from the H32 test, evaluated as specified in section 3.10 of this appendix.
-c. Evaluate the space heating capacity and electrical power consumption of the heat pump when operating at booster compressor capacity and outdoor temperature Tj using
-ER05JA17.290
-Determine Q h k=3(17) and E h k=3(17) from the H33 test and determine Q h k=2(5) and E h k=3(5) from the H43 test. Calculate all four quantities as specified in section 3.10 of this appendix. Determine the equation input for Q h k=3(35) and E h k=3(35) as specified in section 3.6.6 of this appendix.
-4.2.6.1 Steady-State Space Heating Capacity When Operating at Low Compressor Capacity Is Greater Than or Equal to the Building Heating Load at Temperature Tj, Q h k=1(Tj) ≥BL(Tj)., and the Heat Pump Permits Low Compressor Capacity at Tj. Evaluate the Quantities
-ER05JA17.291
-using Eqs. 4.2.3-1 and 4.2.3-2, respectively. Determine the equation inputs Xk=1(Tj), PLFj, and δ′(Tj) as specified in section 4.2.3.1. In calculating the part load factor, PLFj, use the low-capacity cyclic-degradation coefficient CD h, [or equivalently, CD h(k=1)] determined in accordance with section 3.6.6 of this appendix.
-4.2.6.2 Heat Pump Only Operates at High (k=2) Compressor Capacity at Temperature Tj and Its Capacity Is Greater Than or Equal to the Building Heating Load, BL(Tj) <Q h k=2(Tj)
-Evaluate the quantities
-ER05JA17.292
-as specified in section 4.2.3.3 of this appendix. Determine the equation inputs Xk=2(Tj), PLFj, and δ′(Tj) as specified in section 4.2.3.3 of this appendix. In calculating the part load factor, PLFj, use the high-capacity cyclic-degradation coefficient, CD h(k=2) determined in accordance with section 3.6.6 of this appendix.
-4.2.6.3 Heat Pump Only Operates at High (k=3) Compressor Capacity at Temperature Tj and its Capacity Is Greater Than or Equal to the Building Heating Load, BL(Tj) ≤Q h k=3(Tj)
-ER05JA17.293
-Determine the low temperature cut-out factor, δ′(Tj), using Eq. 4.2.3-3. Use the booster-capacity cyclic-degradation coefficient, CD h(k=3) determined in accordance with section 3.6.6 of this appendix.
-4.2.6.4 Heat Pump Alternates Between High (k=2) and Low (k=1) Compressor Capacity To Satisfy the Building Heating Load at a Temperature Tj, Q h k=1(Tj) <BL(Tj) <Q h k=2(Tj)
-Evaluate the quantities
-ER05JA17.294
-as specified in section 4.2.3.2 of this appendix. Determine the equation inputs Xk=1(Tj), Xk=2(Tj), and δ′(Tj) as specified in section 4.2.3.2 of this appendix.
-4.2.6.5 Heat Pump Alternates Between High (k=2) and Booster (k=3) Compressor Capacity To Satisfy the Building Heating Load at a Temperature Tj, Q h k=2(Tj) <BL(Tj) <Q h k=3(Tj)
-ER05JA17.295
-and Xk=3(Tj) = Xk=2(Tj) = the heating mode, booster capacity load factor for temperature bin j, dimensionless. Determine the low temperature cut-out factor, δ′(Tj), using Eq. 4.2.3-3.
-4.2.6.6 Heat Pump Only Operates at Low (k=1) Capacity at Temperature Tj and Its Capacity Is Less Than the Building Heating Load, BL(Tj) > Q h k=1(Tj)
-ER05JA17.296
-where the low temperature cut-out factor, δ′(Tj), is calculated using Eq. 4.2.3-3.
-4.2.6.7 Heat Pump Only Operates at High (k=2) Capacity at Temperature Tj and Its Capacity Is Less Than the Building Heating Load, BL(Tj) > Q h k=2(Tj)
-Evaluate the quantities
-ER05JA17.297
-as specified in section 4.2.3.4 of this appendix. Calculate δ″(Tj) using the equation given in section 4.2.3.4 of this appendix.
-4.2.6.8 Heat Pump Only Operates at Booster (k=3) Capacity at Temperature Tj and Its Capacity Is Less Than the Building Heating Load, BL(Tj) > Q h k=3(Tj) or the System Converts To Using Only Resistive Heating
-ER05JA17.298
-where δ″(Tj) is calculated as specified in section 4.2.3.4 of this appendix if the heat pump is operating at its booster compressor capacity. If the heat pump system converts to using only resistive heating at outdoor temperature Tj, set δ′(Tj) equal to zero.
-4.2.7 Additional Steps for Calculating the HSPF2 of a Heat Pump Having a Single Indoor Unit With Multiple Indoor Blowers. The Calculation of the Eq. 4.2-1 Quantities eh(Tj)/N and RH(Tj)/N Are Evaluated as Specified in the Applicable Subsection
-4.2.7.1 For Multiple Indoor Blower Heat Pumps That Are Connected to a Singular, Single-Speed Outdoor Unit
-a. Calculate the space heating capacity, Q h k =1 (Tj), and electrical power consumption, E h k =1 (Tj), of the heat pump when operating at the heating minimum air volume rate and outdoor temperature Tj using Eqs. 4.2.2-3 and 4.2.2-4, respectively. Use these same equations to calculate the space heating capacity, Q h k =2 (Tj) and electrical power consumption, E h k =2 (Tj), of the test unit when operating at the heating full-load air volume rate and outdoor temperature Tj. In evaluating Eqs. 4.2.2-3 and 4.2.2- 4, determine the quantities Q h k =1(47) and E h k =1(47) from the H11 test; determine Q h k =2(47) and E h k=2(47) from the H12 test. Evaluate all four quantities according to section 3.7 of this appendix. Determine the quantities Q h k =1(35) and E h k =1(35) as specified in section 3.6.2 of this appendix. Determine Q h k =2(35) and E h k=2(35) from the H22 frost accumulation test as calculated according to section 3.9.1 of this appendix. Determine the quantities Q h k=1(17) and E h k=1(17) from the H31 test, and Q h k=2(17) and E h k=2(17) from the H32 test. Evaluate all four quantities according to section 3.10 of this appendix. Refer to section 3.6.2 and Table 12 of this appendix for additional information on the referenced laboratory tests.
-b. Determine the heating mode cyclic degradation coefficient, CD h, as per sections 3.6.2 and 3.8 to 3.8.1 of this appendix. Assign this same value to CD h(k = 2).
-c. Except for using the above values of Q h k=1(Tj), E h k=1(Tj), Q h k=2(Tj), E h k =2(Tj), CD h, and CD h(k = 2), calculate the quantities eh(Tj)/N as specified in section 4.2.3.1 of this appendix for cases where Q h k =1(Tj) ≥ BL(Tj). For all other outdoor bin temperatures, Tj, calculate eh(Tj)/N and RHh(Tj)/N as specified in section 4.2.3.3 of this appendix if Q h k =2(Tj) > BL(Tj) or as specified in section 4.2.3.4 of this appendix if Q h k=2(Tj) ≤ BL(Tj).
-4.2.7.2 For Multiple Indoor Blower Heat Pumps Connected to Either a Single Outdoor Unit With a Two-Capacity Compressor or to Two Separate but Identical Model Single-Speed Outdoor Units. Calculate the Quantities eh(Tj)/N and RH(Tj)/N as Specified in Section 4.2.3 of This Appendix
-4.3 Calculations of Off-Mode Power Consumption
-For central air conditioners and heat pumps with a cooling capacity of: Less than 36,000 Btu/h, determine the off mode represented value, PW,OFF, with the following equation:
-ER05JA17.299
-greater than or equal to 36,000 Btu/h, calculate the capacity scaling factor according to:
-ER05JA17.300
-where, Q C(95) is the total cooling capacity at the A or A2 test condition, and determine the off mode represented value, PW,OFF, with the following equation:
-ER05JA17.301
-4.4 Rounding of SEER2 and HSPF2 for Reporting Purposes
-After calculating SEER2 according to section 4.1 of this appendix and HSPF2 according to section 4.2 of this appendix round the values off as specified per § 430.23(m) of title 10 of the Code of Federal Regulations.
-ER05JA17.302
-Table 21—Representative Cooling and Heating Load Hours for Each Generalized Climatic Region
-Climaticregion | Coolingload hours CLHR | Heatingload hours HLHR
-I | 2,400 | 493
-II | 1,800 | 857
-III | 1,200 | 1,247
-IV | 800 | 1,701
-Rating Values | 1,000 | 1,572
-V | 400 | 2,202
-VI | 200 | 1,842
-4.5 Calculations of the SHR, Which Should Be Computed for Different Equipment Configurations and Test Conditions Specified in Table 22.
-Table 22—Applicable Test Conditions for Calculation of the Sensible Heat Ratio
-Equipment configuration | Referencetable number of Appendix M | SHR computation with results from | Computed values
-Units Having a Single-Speed Compressor and a Fixed-Speed Indoor Blower, a Constant Air Volume Rate Indoor Blower, or Single-Speed Coil-Only | 4 | B Test | SHR(B).
-Units Having a Single-Speed Compressor That Meet the section 3.2.2.1 Indoor Unit Requirements | 5 | B2 and B1 Tests | SHR(B1), SHR(B2).
-Units Having a Two-Capacity Compressor | 6 | B2 and B1 Tests | SHR(B1), SHR(B2).
-Units Having a Variable-Speed Compressor | 7 | B2 and B1 Tests | SHR(B1), SHR(B2).
-The SHR is defined and calculated as follows:
-ER05JA17.303
-Where both the total and sensible cooling capacities are determined from the same cooling mode test and calculated from data collected over the same 30-minute data collection interval.
-4.6 Calculations of the Energy Efficiency Ratio (EER)
-Calculate the energy efficiency ratio using,
-ER05JA17.304
-where Q c k(T) and E c k(T) are the space cooling capacity and electrical power consumption determined from the 30-minute data collection interval of the same steady-state wet coil cooling mode test and calculated as specified in section 3.3 of this appendix. Add the letter identification for each steady-state test as a subscript (e.g., EER A 2) to differentiate among the resulting EER values. The represented value of EER is determined from the A or A2 test, whichever is applicable. The represented value of EER determined in accordance with this appendix is called EER2.
