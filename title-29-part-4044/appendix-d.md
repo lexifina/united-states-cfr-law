@@ -1,20 +1,21 @@
 # Appendix D to Part 4044—Tables Used To Determine Expected Retirement Age
-Table I-18—Selection of Retirement Rate Category
-[For plans with valuation dates after December 31, 2017, and before January 1, 2019]
-If participant reaches URA in year— | Participant's Retirement Rate Category is— | Low 1 ifmonthly benefit at URA is less than— | Medium 2 if monthlybenefit at URA is— | From— | To— | High 3 if monthlybenefit at URA is greater than—
-2019 | 647 | 647 | 2,734 | 2,734
-2020 | 662 | 662 | 2,797 | 2,797
-2021 | 678 | 678 | 2,862 | 2,862
-2022 | 693 | 693 | 2,927 | 2,927
-2023 | 709 | 709 | 2,995 | 2,995
-2024 | 725 | 725 | 3,064 | 3,064
-2025 | 742 | 742 | 3,134 | 3,134
-2026 | 759 | 759 | 3,206 | 3,206
-2027 | 777 | 777 | 3,280 | 3,280
-2028 or later | 794 | 794 | 3,355 | 3,355
-1 Table II-A.
-2 Table II-B.
-3 Table II-C.
+Table I-19—Selection of Retirement Rate Category
+[For valuation dates in 2019 1]
+If participant reaches URA in year— | Participant's retirement rate category is— | Low 2 ifmonthly benefit at URA is less than— | Medium 3 if monthly benefit at URA is— | From— | To— | High 4 ifmonthly benefit at URA is greater than—
+2020 | 655 | 655 | 2,767 | 2,767
+2021 | 670 | 670 | 2,831 | 2,831
+2022 | 686 | 686 | 2,896 | 2,896
+2023 | 701 | 701 | 2,963 | 2,963
+2024 | 718 | 718 | 3,031 | 3,031
+2025 | 734 | 734 | 3,100 | 3,100
+2026 | 751 | 751 | 3,172 | 3,172
+2027 | 768 | 768 | 3,245 | 3,245
+2028 | 786 | 786 | 3,319 | 3,319
+2029 or later | 804 | 804 | 3,396 | 3,396
+1 Applicable tables for valuation dates before 2019 are available on PBGC's website (www.pbgc.gov).
+2 Table II-A.
+3 Table II-B.
+4 Table II-C.
 Table II-A—Expected Retirement Ages for Individuals in the Low Category
 Participant's earliest retirement age at valuation date. | Unreduced retirement age | 60 | 61 | 62 | 63 | 64 | 65 | 66 | 67 | 68 | 69 | 70
 42 | 53 | 53 | 53 | 54 | 54 | 54 | 54 | 54 | 54 | 54 | 54
