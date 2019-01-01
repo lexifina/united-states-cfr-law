@@ -25,6 +25,7 @@ ii. From January 1, 2015, through December 31, 2015, the threshold amount is $25
 iii. From January 1, 2016, through December 31, 2016, the threshold amount is $25,500.
 iv. From January 1, 2017, through December 31, 2017, the threshold amount is $25,500.
 v. From January 1, 2018, through December 31, 2018, the threshold amount is $26,000.
+vi. From January 1, 2019, through December 31, 2019, the threshold amount is $26,700.
 4. Qualifying for exemption—in general. A transaction is exempt under § 34.203(b)(2) if the creditor makes an extension of credit at consummation that is equal to or below the threshold amount in effect at the time of consummation.
 5. Qualifying for exemption—subsequent changes. A transaction does not meet the condition for an exemption under § 34.203(b)(2) merely because it is used to satisfy and replace an existing exempt loan, unless the amount of the new extension of credit is equal to or less than the applicable threshold amount. For example, assume a closed-end loan that qualified for a § 34.203(b)(2) exemption at consummation in year one is refinanced in year ten and that the new loan amount is greater than the threshold amount in effect in year ten. In these circumstances, the creditor must comply with all of the applicable requirements of § 34.203 with respect to the year ten transaction if the original loan is satisfied and replaced by the new loan, unless another exemption from the requirements of § 34.203 applies. See § 34.203(b) and (d)(7).
 Paragraph 34.203(b)(3).
