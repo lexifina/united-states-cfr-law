@@ -3094,7 +3094,7 @@ Survey Area
 Rhode Island:
 Bristol
 Newport
-The following cities and towns:
+The following cities and towns in:
 Kent County
 Anthony
 Coventry
@@ -3141,7 +3141,7 @@ Quonset Point
 Saunderstown
 Slocum
 Massachusetts:
-The following cities and towns:
+The following cities and towns in:
 Bristol County
 Attleboro
 Fall River
