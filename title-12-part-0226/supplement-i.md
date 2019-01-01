@@ -268,6 +268,7 @@ vi. From January 1, 2015 through December 31, 2015, the threshold amount is $54,
 vii. From January 1, 2016 through December 31, 2016, the threshold amount is $54,600.
 viii. From January 1, 2017 through December 31, 2017, the threshold amount is $54,600.
 ix. From January 1, 2018 through December 31, 2018, the threshold amount is $55,800.
+x. From January 1, 2019 through December 31, 2019, the threshold amount is $57,200.
 4. Open-end credit.
 i. Qualifying for exemption. An open-end account is exempt under § 226.3(b) (unless secured by any real property, or by personal property used or expected to be used as the consumer's principal dwelling) if either of the following conditions is met:
 A. The creditor makes an initial extension of credit at or after account opening that exceeds the threshold amount in effect at the time the initial extension is made. If a creditor makes an initial extension of credit after account opening that does not exceed the threshold amount in effect at the time the extension is made, the creditor must have satisfied all of the applicable requirements of this part from the date the account was opened (or earlier, if applicable), including but not limited to the requirements of § 226.6 (account-opening disclosures), § 226.7 (periodic statements), § 226.52 (limitations on fees), and § 226.55 (limitations on increasing annual percentages rates, fees, and charges). For example:
@@ -3512,6 +3513,7 @@ ii. From January 1, 2015, through December 31, 2015, the threshold amount is $25
 iii. From January 1, 2016, through December 31, 2016, the threshold amount is $25,500.
 iv. From January 1, 2017, through December 31, 2017, the threshold amount is $25,500.
 v. From January 1, 2018, through December 31, 2018, the threshold amount is $26,000.
+vi. From January 1, 2019, through December 31, 2019, the threshold amount is $26,700.
 4. Qualifying for exemption—in general. A transaction is exempt under § 226.43(b)(2) if the creditor makes an extension of credit at consummation that is equal to or below the threshold amount in effect at the time of consummation.
 5. Qualifying for exemption—subsequent changes. A transaction does not meet the condition for an exemption under § 226.43(b)(2) merely because it is used to satisfy and replace an existing exempt loan, unless the amount of the new extension of credit is equal to or less than the applicable threshold amount. For example, assume a closed-end loan that qualified for a § 226.43(b)(2) exemption at consummation in year one is refinanced in year ten and that the new loan amount is greater than the threshold amount in effect in year ten. In these circumstances, the creditor must comply with all of the applicable requirements of § 226.43 with respect to the year ten transaction if the original loan is satisfied and replaced by the new loan, unless another exemption from the requirements of § 226.43 applies. See § 226.43(b) and (d)(7).
 Paragraph 43(b)(3)
