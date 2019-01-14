@@ -252,52 +252,52 @@ DP(PTO) | 150 | 161 | 172 | 183 | 194 | 206 | 217 | 228
 | 2.44 | 2.47 | 2.50 | 2.53 | 2.56 | 2.59 | 2.62 | 2.65
 | 51% | 52% | 52% | 53% | 53% | 54% | 54% | 55%
 Figure 6. Example EGR setup sheet.
-Barometric pressure, Pbar, in. Hg | = | ___
-Stack static pressure, Pg, in. H2 O | = | ___
-Average stack temperature, ts, °F | = | ___
-Meter temperature, tm, °F | = | ___
+Barometric pressure, Pbar, in. Hg | = | __
+Stack static pressure, Pg, in. H2 O | = | __
+Average stack temperature, ts, °F | = | __
+Meter temperature, tm, °F | = | __
 Gas analysis:
-%CO2 | = | ___
-%O2 | = | ___
-%N2 + %CO | = | ___
-Fraction moisture content, Bws | = | ___
+%CO2 | = | __
+%O2 | = | __
+%N2 + %CO | = | __
+Fraction moisture content, Bws | = | __
 Calibration data:
-Nozzle diameter, Dn in | = | ___
-Pitot coefficient, Cp | = | ___
-ΔH2, in. H2O | = | ___
+Nozzle diameter, Dn in | = | __
+Pitot coefficient, Cp | = | __
+ΔH2, in. H2O | = | __
 Molecular weight of stack gas, dry basis:
 Md = 0.44
 (%CO2) + 0.32 | = | lb/lb mole
 (%O2) + 0.28
 (%N2 + %CO)
 Molecular weight of stack gas, wet basis:
-Mw = Md (1-Bws) + 18Bws | = | ___ | lb/lb mole
+Mw = Md (1-Bws) + 18Bws | = | __ | lb/lb mole
 Absolute stack pressure:
-Ps = Pbar + (Pg/13.6) | = | ___ | in. Hg
+Ps = Pbar + (Pg/13.6) | = | __ | in. Hg
 EC08NO91.071
 Desired meter orifice pressure (ΔH) for velocity head of stack gas (Δp):
 EC08NO91.072
 Figure 7. Example worksheet 1, meter orifice pressure head calculation.
-Barometric pressure, Pbar, in. Hg | = | ___
-Absolute stack pressure, Ps, in. Hg | = | ___
-Average stack temperature, Ts, °R | = | ___
-Meter temperature, Tm, °R | = | ___
-Molecular weight of stack gas, wet basis, Md lb/lb mole | = | ___
+Barometric pressure, Pbar, in. Hg | = | __
+Absolute stack pressure, Ps, in. Hg | = | __
+Average stack temperature, Ts, °R | = | __
+Meter temperature, Tm, °R | = | __
+Molecular weight of stack gas, wet basis, Md lb/lb mole | = | __
 Pressure upstream of LFE, in. Hg | = | 0.6
 Gas analysis:
-%O2 | = | ___
-Fraction moisture content, Bws | = | ___
+%O2 | = | __
+Fraction moisture content, Bws | = | __
 Calibration data:
-Nozzle diameter, Dn, in | = | ___
-Pitot coefficient, Cp | = | ___
-Total LFE calibration constant, Xt | = | ___
-Total LFE calibration constant, Tt | = | ___
+Nozzle diameter, Dn, in | = | __
+Pitot coefficient, Cp | = | __
+Total LFE calibration constant, Xt | = | __
+Total LFE calibration constant, Tt | = | __
 Absolute pressure upstream of LFE:
-PLFE = Pbar + 0.6 | = | ___ | in. Hg
+PLFE = Pbar + 0.6 | = | __ | in. Hg
 Viscosity of gas in total LFE:
-µLFE = 152.418 + 0.2552 Tm + 3.2355 × 10−5 Tm2 + 0.53147 (%O2) | = | ___
+µLFE = 152.418 + 0.2552 Tm + 3.2355 × 10−5 Tm2 + 0.53147 (%O2) | = | __
 Viscosity of dry stack gas:
-µd = 152.418 + 0.2552 Ts + 3.2355 × 10−5 Ts2 + 0.53147 (%O2) | = | ___
+µd = 152.418 + 0.2552 Ts + 3.2355 × 10−5 Ts2 + 0.53147 (%O2) | = | __
 Constants:
 EC08NO91.028
 EC08NO91.029
@@ -307,18 +307,18 @@ EC08NO91.032
 Total LFE pressure head:
 EC08NO91.033
 Figure 8. Example worksheet 1, meter orifice pressure head calculation.
-Barometric pressure, Pbar, in. Hg | = | ___
-Absolute stack pressure, Ps, in. Hg | = | ___
-Average stack temperature, Ts, °R | = | ___
-Meter temperature, Tm, °R | = | ___
-Molecular weight of stack gas, dry basis, Md lb/lb mole | = | ___
-Viscosity of LFE gasµLFE,poise | = | ___
-Absolute pressure upstream of LFE, PPLEin. Hg | = | ___
+Barometric pressure, Pbar, in. Hg | = | __
+Absolute stack pressure, Ps, in. Hg | = | __
+Average stack temperature, Ts, °R | = | __
+Meter temperature, Tm, °R | = | __
+Molecular weight of stack gas, dry basis, Md lb/lb mole | = | __
+Viscosity of LFE gasµLFE,poise | = | __
+Absolute pressure upstream of LFE, PPLEin. Hg | = | __
 Calibration data:
-Nozzle diameter, Dn, in | = | ___
-Pitot coefficient, Cp | = | ___
-Recycle LFE calibration constant, Xt | = | ___
-Recycle LFE calibration constant, Yt | = | ___
+Nozzle diameter, Dn, in | = | __
+Pitot coefficient, Cp | = | __
+Recycle LFE calibration constant, Xt | = | __
+Recycle LFE calibration constant, Yt | = | __
 EC08NO91.034
 EC08NO91.035
 EC08NO91.036
@@ -755,7 +755,7 @@ ER21DE10.021
 Maximum Velocity Pressure.
 ER21DE10.022
 Sampling Dwell Time at Each Point. Ntp is the total number of traverse points. You must use the preliminary velocity traverse data.
-ER21DE10.023
+ER14NO18.059
 Adjusted Velocity Pressure.
 ER21DE10.024
 Average Probe Blockage Factor.
@@ -1298,7 +1298,7 @@ Measure the concentration (CG) and flow rate (QG) of the captured gas stream, sp
 8.1 Determine the equivalent diameters of the NDO's and determine the distances from each VOC emitting point to all NDO's. Determine the equivalent diameter of each exhaust duct or hood and its distance to all NDO's. Calculate the distances in terms of equivalent diameters. The number of equivalent diameters shall be at least four.
 8.2 Measure the total surface area (AT) of the enclosure and the total area (AN) of all NDO's in the enclosure. Calculate the NDO to enclosure area ratio (NEAR) as follows:
 ER16JN97.001
-The NEAR must be ≤10.05.
+The NEAR must be ≤0.05.
 8.3 Measure the volumetric flow rate, corrected to standard conditions, of each gas stream exiting the enclosure through an exhaust duct or hood using EPA Method 2. In some cases (e.g., when the building is the enclosure), it may be necessary to measure the volumetric flow rate, corrected to standard conditions, of each gas stream entering the enclosure through a forced makeup air duct using Method 2. Calculate FV using the following equation:
 ER16JN97.002
 where:
@@ -1948,7 +1948,7 @@ Method 205—Verification of Gas Dilution Systems for Field Instrument Calibrati
 Note: The laboratory evaluation is required only if the source owner or operator plans to utilize the dilution system to prepare gases mentioned above as being reactive.
 2. Specifications
 2.1 Gas Dilution System. The gas dilution system shall produce calibration gases whose measured values are within ±2 percent of the predicted values. The predicted values are calculated based on the certified concentration of the supply gas (Protocol gases, when available, are recommended for their accuracy) and the gas flow rates (or dilution ratios) through the gas dilution system.
-2.1.1 The gas dilution system shall be recalibrated once per calendar year using NIST-traceable primary flow standards with an uncertainty ≤0.25 percent. A label shall be affixed at all times to the gas dilution system listing the date of the most recent calibration, the due date for the next calibration, and the person or manufacturer who carried out the calibration. Follow the manufacturer's instructions for the operation and use of the gas dilution system. A copy of the manufacturer's instructions for the operation of the instrument, as well as the most recent recalibration documentation shall be made available for the Administrator's inspection upon request.
+2.1.1 The gas dilution system shall be recalibrated once per calendar year using NIST-traceable flow standards with an uncertainty ≤0.25 percent. You shall report the results of the calibration by the person or manufacturer who carried out the calibration whenever the dilution system is used, listing the date of the most recent calibration, the due date for the next calibration, calibration point, reference flow device (ID, S/N), and acceptance criteria. Follow the manufacturer's instructions for the operation and use of the gas dilution system. A copy of the manufacturer's instructions for the operation of the instrument, as well as the most recent calibration documentation, shall be made available for inspection at the test site.
 2.1.2 Some manufacturers of mass flow controllers recommend that flow rates below 10 percent of flow controller capacity be avoided; check for this recommendation and follow the manufacturer's instructions. One study has indicated that silicone oil from a positive displacement pump produces an interference in SO2 analyzers utilizing ultraviolet fluorescence; follow laboratory procedures similar to those outlined in Section 3.1 in order to demonstrate the significance of any resulting effect on instrument performance.
 2.2 High-Level Supply Gas. An EPA Protocol calibration gas is recommended, due to its accuracy, as the high-level supply gas.
 2.3 Mid-Level Supply Gas. An EPA Protocol gas shall be used as an independent check of the dilution system. The concentration of the mid-level supply gas shall be within 10 percent of one of the dilution levels tested in Section 3.2.
