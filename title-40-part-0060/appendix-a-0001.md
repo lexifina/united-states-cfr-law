@@ -512,7 +512,7 @@ Sample collection and analysis are concurrent for this method (see section 8.0).
 Carry out the calculations, retaining at least one extra decimal figure beyond that of the acquired data. Round off figures after the final calculation.
 12.1 Nomenclature.
 COe = Mean carbon monoxide concentration in system exhaust, ppm.
-(CO2)a = Ambient carbon dioxide concentration, ppm (if not measured during the test period, may be assumed to equal 380 ppm).
+(CO2)a = Ambient carbon dioxide concentration, ppm (if not measured during the test period, may be assumed to equal the global monthly mean CO2 concentration posted at http://www.esrl.noaa.gov/gmd/ccgg/trends/global.html#global_data).
 (CO2)e = Mean carbon dioxide concentration in system exhaust, ppm.
 HCe = Mean organic concentration in system exhaust as defined by the calibration gas, ppm.
 Hci = Mean organic concentration in system inlet as defined by the calibration gas, ppm.

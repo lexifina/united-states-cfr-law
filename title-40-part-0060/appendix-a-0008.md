@@ -53,7 +53,7 @@ Note: Mention of trade names or specific products does not constitute endorsemen
 6.1.12 Ice Water Bath. To minimize loss of absorbing solution.
 6.2 Sample Recovery.
 6.2.1 Wash Bottles. Polyethylene or glass, 500-ml or larger, two.
-6.2.2 Storage Bottles. 100- or 250-ml, high-density polyethylene bottles with Teflon screw cap liners to store impinger samples.
+6.2.2 Storage Containers. 100- or 250-ml, high-density polyethylene or glass sample storage containers with Teflon screw cap liners to store impinger samples.
 6.3 Sample Preparation and Analysis. The materials required for volumetric dilution and chromatographic analysis of samples are described below.
 6.3.1 Volumetric Flasks. Class A, 100-ml size.
 6.3.2 Volumetric Pipets. Class A, assortment. To dilute samples to the calibration range of the ion chromatograph.
@@ -182,9 +182,10 @@ Note: Mention of trade names or specific products does not constitute endorsemen
 6.1.7 Heating System. Any heating system capable of maintaining a temperature around the probe and filter holder between 120 and 134 °C (248 to 273 °F) during sampling, or such other temperature as specified by an applicable subpart of the standards or approved by the Administrator for a particular application.
 6.1.8 Ambient Air Conditioning Tube (Optional). Tube tightly packed with approximately 150 g of fresh 8 to 20 mesh sodium hydroxide-coated silica, or equivalent, (Ascarite II has been found suitable) to dry and remove acid gases from the ambient air used to remove moisture from the filter and cyclone, when the cyclone is used. The inlet and outlet ends of the tube should be packed with at least 1-cm thickness of glass wool or filter material suitable to prevent escape of fines. Fit one end with flexible tubing, etc. to allow connection to probe nozzle following the test run.
 6.2 Sample Recovery.
-6.2.1 Probe-Liner and Probe-Nozzle Brushes, Wash Bottles, Glass Sample Storage Containers, Petri Dishes, Graduated Cylinder and/or Balance, and Rubber Policeman. Same as Method 5, sections 6.2.1, 6.2.2, 6.2.3, 6.2.4, 6.2.5, and 6.2.7.
+6.2.1 Probe-Liner and Probe-Nozzle Brushes, Wash Bottles, Petri Dishes, Graduated Cylinder and/or Balance, and Rubber Policeman. Same as Method 5, sections 6.2.1, 6.2.2, 6.2.4, 6.2.5, and 6.2.7.
 6.2.2 Plastic Storage Containers. Screw-cap polypropylene or polyethylene containers to store silica gel. High-density polyethylene bottles with Teflon screw cap liners to store impinger reagents, 1-liter.
 6.2.3 Funnels. Glass or high-density polyethylene, to aid in sample recovery.
+6.2.4 Sample Storage Containers. High-density polyethylene or glass sample storage containers with Teflon screw cap liners to store impinger samples.
 6.3 Sample Preparation and Analysis.
 6.3.1 Volumetric Flasks. Class A, various sizes.
 6.3.2 Volumetric Pipettes. Class A, assortment. To dilute samples to calibration range of the ion chromatograph (IC).
@@ -935,9 +936,12 @@ Qout = Σ [Heat output determined for each sampling time interval] + Change in h
 ER16MR15.026
 Note: The subscript (i) indicates the parameter value for sampling time interval ti.
 Mi = Mass flow rate = gal/min × density of water (lb/gal) = lb/min
-ER16MR15.027
+ER16MR15.300
+ER14NO18.061
+ER16MR15.302
 Csteel = 0.1 Btu/lb, ° F
-ER16MR15.028
+ER16MR15.303
+ER16MR15.304
 Note: Vi is the total water volume at the end of interval i and Vi-1 is the total water volume at the beginning of the time interval. This calculation is necessary when a totalizing type water meter is used.
 13.5.2 Determine heat output rate as:
 ER16MR15.029
@@ -2086,9 +2090,8 @@ Note: In this example, if the typical background (blank) Hg levels in section 2 
 8.2.3.1.1 Hg0 Analytical Bias Test. Analyze the front section of three sorbent traps containing Hg0 at the lower bound mass loading level and the front section of three sorbent traps containing Hg0 at the upper bound mass loading level. In other words, analyze each mass loading level in triplicate. You may refer to section 6.2 for spiking guidance. Prepare and analyze each spiked trap, using the same techniques that will be used to prepare and analyze the field samples. The average recovery for the three traps at each mass loading level must be between 90 and 110 percent. If multiple types of sorbent media are to be analyzed, a separate analytical bias test is required for each sorbent material.
 8.2.3.1.2 HgCl2 Analytical Bias Test. Analyze the front section of three sorbent traps containing HgCl2 at the lower bound mass loading level and the front section of three traps containing HgCl2 at the upper bound mass loading level. HgCl2 can be spiked as a gas, or as a liquid solution containing HgCl2. However the liquid volume spiked must be <100 µL. Prepare and analyze each spiked trap, using the techniques that will be used to prepare and analyze the field samples. The average recovery for three traps at each spike concentration must be between 90 and 110 percent. Again, if multiple types of sorbent media are to be analyzed, a separate analytical bias test is required for each sorbent material.
 8.2.4 Determination of Target Sample Volume. The target sample volume is an estimate of the sample volume needed to ensure that valid emissions data are collected (i.e., that sample mass Hg loadings fall within the analytical calibration curve and are within the upper and lower bounds set by the analytical bias tests). The target sample volume and minimum sample mass can also be determined by performing a diagnostic test run prior to initiation of formal testing.
-Example: If the minimum sample mass is 50 ng and the concentration of mercury in the stack gas is estimated to be 2 µg/m3 (ng/L) then the following calculation would be used to determine the target sample volume:
-Target Sample Volume = (50 ng) / (2 ng/L) = 25 L
-Note to Section 8.2.4: For the purposes of relative accuracy testing of Hg monitoring systems under subpart UUUUU of part 63 of this chapter and Performance Specifications 12A and 12B in appendix B to this part, when the stack gas Hg concentration is expected to be very low (<0.5 µg/dscm), you may estimate the Hg concentration at 0.5 µg/dscm.
+Example: If the minimum sample mass is 50 ng and the concentration of mercury in the stack gas is estimated to be 2 µg/m3 (ng/L) then the following calculation would be used to determine the target sample volume: Target Sample Volume = (50 ng) / (2 ng/L) = 25 L
+Note to section 8.2.4: For the purposes of relative accuracy testing of Hg monitoring systems under subpart UUUUU of part 63 of this chapter and Performance Specifications 12A and 12B in appendix B to this part, when the stack gas Hg concentration is expected to be very low (<0.5 µg/dscm), you may estimate the Hg concentration at 0.5 µg/dscm.
 8.2.5 Determination of Sample Run Time. Sample run time will be a function of minimum sample mass (see section 8.2.2), target sample volume and nominal equipment sample flow rate. The minimum sample run time for conducting relative accuracy test audits of Hg monitoring systems is 30 minutes and for emissions testing to characterize an emission source is 1 hour. The target sample run time can be calculated using the following example.
 Example: If the target sample volume has been determined to be 25 L, then the following formula would be used to determine the sampling time necessary to acquire 25 L of gas when sampling at a rate of 0.4 L/min. Sampling time (min) = 25 L / 0.4 L/min = 63 minutes
 8.2.6 Field Recovery Test. The field recovery test provides a test program-specific verification of the performance of the combined sampling and analytical approach. Three sets of paired samples, one of each pair which is spiked with a known level of Hg, are collected and analyzed and the average recovery of the spiked samples is used to verify performance of the measurement system under field conditions during that test program. The conduct of this test requires an estimate or confirmation of the stack Hg concentrations at the time of testing.

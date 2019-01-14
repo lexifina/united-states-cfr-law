@@ -13,8 +13,12 @@ Performance Specification 8A—Specifications and Test Procedures for Total Hydr
 Performance Specification 9—Specifications and Test Procedures for Gas Chromatographic Continuous Emission Monitoring Systems in Stationary Sources
 Performance Specification 11—Specifications and Test Procedures for Particulate Matter Continuous Emission Monitoring Systems at Stationary Sources
 Performance Specification 12A—Specifications and Text Procedures for Total Vapor Phase Mercury Continuous Emission Monitoring Systems in Stationary Sources
+Performance Specification 12B—Specifications and Test Procedures for Monitoring Total Vapor Phase Mercury Emissions From Stationary Sources Using A Sorbent Trap Monitoring System
 Performance Specification 15—Performance Specification for Extractive FTIR Continuous Emissions Monitor Systems in Stationary Sources
 Performance Specification 16—Specifications and Test Procedures for Predictive Emission Monitoring Systems in Stationary Sources
+Performance Specification 17 [Reserved]
+Performance Specification 18—Performance Specifications and Test Procedures for Gaseous Hydrogen Chloride (HCl) Continuous Emission Monitoring Systems at Stationary Sources
+PS-18—Appendix A Standard Addition Procedures
 Performance Specification 1—Specifications and Test Procedures for Continuous Opacity Monitoring Systems in Stationary Sources
 1.0 What Is the Purpose and Applicability of Performance Specification 1?
 Performance Specification 1 (PS-1) provides (1) requirements for the design, performance, and installation of a continuous opacity monitoring system (COMS) and (2) data computation procedures for evaluating the acceptability of a COMS. It specifies activities for two groups (1) the owner or operator and (2) the opacity monitor manufacturer.
@@ -28,11 +32,11 @@ If you are an opacity monitor manufacturer, then paragraph 8.2 applies to you.
 1.4 What data uncertainty issues apply to COMS data? The measurement uncertainties associated with COMS data result from several design and performance factors including limitations on the availability of calibration attenuators for opacities less than about 6 percent (3 percent for single-pass instruments), calibration error tolerances, zero and upscale drift tolerances, and allowance for dust compensation that are significant relative to low opacity levels. The full scale requirements of this PS may also contribute to measurement uncertainty for opacity measurements where the applicable limits are below 10 percent opacity.
 2.0 What Are the Basic Requirements of PS-1?
 PS-1 requires (1) opacity monitor manufacturers comply with a comprehensive series of design and performance specifications and test procedures to certify opacity monitoring equipment before shipment to the end user, (2) the owner or operator to follow installation guidelines, and (3) the owner or operator to conduct a set of field performance tests that confirm the acceptability of the COMS after it is installed.
-2.1 ASTM D 6216-98 is the reference for design specifications, manufacturer's performance specifications, and test procedures. The opacity monitor manufacturer must periodically select and test an opacity monitor, that is representative of a group of monitors produced during a specified period or lot, for conformance with the design specifications in ASTM D 6216-98. The opacity monitor manufacturer must test each opacity monitor for conformance with the manufacturer's performance specifications in ASTM D 6216-98.
+2.1 ASTM D6216-12 (incorporated by reference, see § 60.17) is the reference for design specifications, manufacturer's performance specifications, and test procedures. The opacity monitor manufacturer must periodically select and test an opacity monitor, that is representative of a group of monitors produced during a specified period or lot, for conformance with the design specifications in ASTM D6216-12. The opacity monitor manufacturer must test each opacity monitor for conformance with the manufacturer's performance specifications in ASTM D6216-12. Note: If the initial certification of the opacity monitor occurred before November 14, 2018 using D6216-98, D6216-03, or D6216-07, it is not necessary to recertify using D6216-12.
 2.2 section 8.1(2) provides guidance for locating an opacity monitor in vertical and horizontal ducts. You are encouraged to seek approval for the opacity monitor location from the appropriate regulatory authority prior to installation.
 2.3 After the COMS is installed and calibrated, the owner or operator must test the COMS for conformance with the field performance specifications in PS-1.
 3.0 What Special Definitions Apply to PS-1?
-3.1 All definitions and discussions from section 3 of ASTM D 6216-98 are applicable to PS-1.
+3.1 All definitions and discussions from section 3 of ASTM D6216-12 are applicable to PS-1.
 3.2 Centroid Area. A concentric area that is geometrically similar to the stack or duct cross-section and is no greater than 1 percent of the stack or duct cross-sectional area.
 3.3 Data Recorder. That portion of the installed COMS that provides a permanent record of the opacity monitor output in terms of opacity. The data recorder may include automatic data reduction capabilities.
 3.4 External Audit Device. The inherent design, equipment, or accommodation of the opacity monitor allowing the independent assessment of the COMS's calibration and operation.
@@ -45,7 +49,7 @@ PS-1 requires (1) opacity monitor manufacturers comply with a comprehensive seri
 5.0 What Do I Need To Know To Ensure the Safety of Persons Using PS-1?
 The procedures required under PS-1 may involve hazardous materials, operations, and equipment. PS-1 does not purport to address all of the safety problems associated with these procedures. Before performing these procedures, you must establish appropriate safety and health practices, and you must determine the applicable regulatory limitations. You should consult the COMS user's manual for specific precautions to take.
 6.0 What Equipment and Supplies Do I Need?
-6.1 Continuous Opacity Monitoring System. You, as owner or operator, are responsible for purchasing an opacity monitor that meets the specifications of ASTM D 6216-98, including a suitable data recorder or automated data acquisition handling system. Example data recorders include an analog strip chart recorder or more appropriately an electronic data acquisition and reporting system with an input signal range compatible with the analyzer output.
+6.1 Continuous Opacity Monitoring System. You, as owner or operator, are responsible for purchasing an opacity monitor that meets the specifications of ASTM D6216-12, including a suitable data recorder or automated data acquisition handling system. Example data recorders include an analog strip chart recorder or more appropriately an electronic data acquisition and reporting system with an input signal range compatible with the analyzer output.
 6.2 Calibration Attenuators. You, as owner or operator, are responsible for purchasing a minimum of three calibration attenuators that meet the requirements of PS-1. Calibration attenuators are optical filters with neutral spectral characteristics. Calibration attenuators must meet the requirements in section 7 and must be of sufficient size to attenuate the entire light beam received by the detector of the COMS. For transmissometers operating over a narrow bandwidth (e.g., laser), a calibration attenuator's value is determined for the actual operating wavelengths of the transmissometer. Some filters may not be uniform across the face. If errors result in the daily calibration drift or calibration error test, you may want to examine the across-face uniformity of the filter.
 6.3 Calibration Spectrophotometer. Whoever calibrates the attenuators must have a spectrophotometer that meets the following minimum design specifications:
 Parameter | Specification
@@ -69,7 +73,7 @@ You will need to use attenuators (i.e., neutral density filters) to check the da
 8.0 What Performance Procedures Are Required To Comply With PS-1?
 Procedures to verify the performance of the COMS are divided into those completed by the owner or operator and those completed by the opacity monitor manufacturer.
 8.1 What procedures must I follow as the Owner or Operator?
-(1) You must purchase an opacity monitor that complies with ASTM D 6216-98 and obtain a certificate of conformance from the opacity monitor manufacturer.
+(1) You must purchase an opacity monitor that complies with ASTM D6216-12 and obtain a certificate of conformance from the opacity monitor manufacturer.
 (2) You must install the opacity monitor at a location where the opacity measurements are representative of the total emissions from the affected facility. You must meet this requirement by choosing a measurement location and a light beam path as follows:
 (i) Measurement Location. Select a measurement location that is (1) at least 4 duct diameters downstream from all particulate control equipment or flow disturbance, (2) at least 2 duct diameters upstream of a flow disturbance, (3) where condensed water vapor is not present, and (4) accessible in order to permit maintenance. Alternatively, you may select a measurement location specified in paragraph 8.1(2)(ii) or 8.1(2)(iii).
 (ii) Light Beam Path. Select a light beam path that passes through the centroidal area of the stack or duct. Also, you must follow these additional requirements or modifications for these measurement locations:
@@ -82,7 +86,7 @@ If your measurement location is in a: | And is: | Then use a light beam path tha
 (iii) Alternative Locations and Light Beam Paths. You may select locations and light beam paths, other than those cited above, if you demonstrate, to the satisfaction of the Administrator or delegated agent, that the average opacity measured at the alternative location or path is equivalent to the opacity as measured at a location meeting the criteria of sections 8.1(2)(i) and 8.1(2)(ii). The opacity at the alternative location is considered equivalent if (1) the average opacity value measured at the alternative location is within ±10 percent of the average opacity value measured at the location meeting the installation criteria, and (2) the difference between any two average opacity values is less than 2 percent opacity (absolute). You use the following procedure to conduct this demonstration: simultaneously measure the opacities at the two locations or paths for a minimum period of time (e.g., 180-minutes) covering the range of normal operating conditions and compare the results. The opacities of the two locations or paths may be measured at different times, but must represent the same process operating conditions. You may use alternative procedures for determining acceptable locations if those procedures are approved by the Administrator.
 (3) Field Audit Performance Tests. After you install the COMS, you must perform the following procedures and tests on the COMS.
 (i) Optical Alignment Assessment. Verify and record that all alignment indicator devices show proper alignment. A clear indication of alignment is one that is objectively apparent relative to reference marks or conditions.
-(ii) Calibration Error Check. Conduct a three-point calibration error test using three calibration attenuators that produce outlet pathlength corrected, single-pass opacity values shown in ASTM D 6216-98, section 7.5. If your applicable limit is less than 10 percent opacity, use attenuators as described in ASTM D 6216-98, section 7.5 for applicable standards of 10 to 19 percent opacity. Confirm the external audit device produces the proper zero value on the COMS data recorder. Separately, insert each calibration attenuators (low, mid, and high-level) into the external audit device. While inserting each attenuator, (1) ensure that the entire light beam passes through the attenuator, (2) minimize interference from reflected light, and (3) leave the attenuator in place for at least two times the shortest recording interval on the COMS data recorder. Make a total of five nonconsecutive readings for each attenuator. At the end of the test, correlate each attenuator insertion to the corresponding value from the data recorder. Subtract the single-pass calibration attenuator values corrected to the stack exit conditions from the COMS responses. Calculate the arithmetic mean difference, standard deviation, and confidence coefficient of the five measurements value using equations 1-3, 1-4, and 1-5. Calculate the calibration error as the sum of the absolute value of the mean difference and the 95 percent confidence coefficient for each of the three test attenuators using equation 1-6. Report the calibration error test results for each of the three attenuators.
+(ii) Calibration Error Check. Conduct a three-point calibration error test using three calibration attenuators that produce outlet pathlength corrected, single-pass opacity values shown in ASTM D6216-12, section 7.5. If your applicable limit is less than 10 percent opacity, use attenuators as described in ASTM D6216-12, section 7.5 for applicable standards of 10 to 19 percent opacity. Confirm the external audit device produces the proper zero value on the COMS data recorder. Separately, insert each calibration attenuators (low, mid, and high-level) into the external audit device. While inserting each attenuator, (1) ensure that the entire light beam passes through the attenuator, (2) minimize interference from reflected light, and (3) leave the attenuator in place for at least two times the shortest recording interval on the COMS data recorder. Make a total of five nonconsecutive readings for each attenuator. At the end of the test, correlate each attenuator insertion to the corresponding value from the data recorder. Subtract the single-pass calibration attenuator values corrected to the stack exit conditions from the COMS responses. Calculate the arithmetic mean difference, standard deviation, and confidence coefficient of the five measurements value using equations 1-3, 1-4, and 1-5. Calculate the calibration error as the sum of the absolute value of the mean difference and the 95 percent confidence coefficient for each of the three test attenuators using equation 1-6. Report the calibration error test results for each of the three attenuators.
 (iii) System Response Time Check. Using a high-level calibration attenuator, alternately insert the filter five times and remove it from the external audit device. For each filter insertion and removal, measure the amount of time required for the COMS to display 95 percent of the step change in opacity on the COMS data recorder. For the upscale response time, measure the time from insertion to display of 95 percent of the final, steady upscale reading. For the downscale response time, measure the time from removal to display 5 percent of the initial upscale reading. Calculate the mean of the five upscale response time measurements and the mean of the five downscale response time measurements. Report both the upscale and downscale response times.
 (iv) Averaging Period Calculation and Recording Check. After the calibration error check, conduct a check of the averaging period calculation (e.g., 6-minute integrated average). Consecutively insert each of the calibration error check attenuators (low, mid, and high-level) into the external audit device for a period of two times the averaging period plus 1 minute (e.g., 13 minutes for a 6-minute averaging period). Compare the path length corrected opacity value of each attenuator to the valid average value calculated by the COMS data recording device for that attenuator.
 (4) Operational Test Period. Before conducting the operational testing, you must have successfully completed the field audit tests described in sections 8.1(3)(i) through 8.1(3)(iv). Then, you operate the COMS for an initial 168-hour test period while the source is operating under normal operating conditions. If normal operations contain routine source shutdowns, include the source's down periods in the 168-hour operational test period. However, you must ensure that the following minimum source operating time is included in the operational test period: (1) For a batch operation, the operational test period must include at least one full cycle of batch operation during the 168-hour period unless the batch operation is longer than 168 hours or (2) for continuous operating processes, the unit must be operating for at least 50 percent of the 168-hour period. Except during times of instrument zero and upscale calibration drift checks, you must analyze the effluent gas for opacity and produce a permanent record of the COMS output. During this period, you may not perform unscheduled maintenance, repair, or adjustment to the COMS. Automatic zero and calibration adjustments (i.e., intrinsic adjustments), made by the COMS without operator intervention or initiation, are allowable at any time. At the end of the operational test period, verify and record that the COMS optical alignment is still correct. If the test period is interrupted because of COMS failure, record the time when the failure occurred. After the failure is corrected, you restart the 168-hour period and tests from the beginning (0-hour). During the operational test period, perform the following test procedures:
@@ -91,11 +95,11 @@ If your measurement location is in a: | And is: | Then use a light beam path tha
 (5) Retesting. If the COMS fails to meet the specifications for the tests conducted under the operational test period, make the necessary corrections and restart the operational test period. Depending on the opinion of the enforcing agency, you may have to repeat some or all of the field audit tests.
 8.2 What are the responsibilities of the Opacity Monitor Manufacturer?
 You, the manufacturer, must carry out the following activities:
-(1) Conduct the verification procedures for design specifications in section 6 of ASTM D 6216-98.
-(2) Conduct the verification procedures for performance specifications in section 7 of ASTM D 6216-98.
-(3) Provide to the owner or operator, a report of the opacity monitor's conformance to the design and performance specifications required in sections 6 and 7 of ASTM D 6216-98 in accordance with the reporting requirements of section 9 in ASTM D 6216-98.
+(1) Conduct the verification procedures for design specifications in section 6 of ASTM D6216-12.
+(2) Conduct the verification procedures for performance specifications in section 7 of ASTM D6216-12.
+(3) Provide to the owner or operator, a report of the opacity monitor's conformance to the design and performance specifications required in sections 6 and 7 of ASTM D6216-12 in accordance with the reporting requirements of section 9 in ASTM D6216-12.
 9.0 What quality control measures are required by PS-1?
-Opacity monitor manufacturers must initiate a quality program following the requirements of ASTM D 6216-98, section 8. The quality program must include (1) a quality system and (2) a corrective action program.
+Opacity monitor manufacturers must initiate a quality program following the requirements of ASTM D6216-12, section 8. The quality program must include (1) a quality system and (2) a corrective action program.
 10.0 Calibration and Standardization [Reserved]
 11.0 Analytical Procedure [Reserved]
 12.0 What Calculations Are Needed for PS-1?
@@ -103,7 +107,7 @@ Opacity monitor manufacturers must initiate a quality program following the requ
 ER10AU00.008
 Where:
 OP1 = Nominal opacity value of required low-, mid-, or high-range calibration attenuators.
-OP2 = Desired attenuator opacity value from ASTM D 6216-98, section 7.5 at the opacity limit required by the applicable subpart.
+OP2 = Desired attenuator opacity value from ASTM D6216-12, section 7.5 at the opacity limit required by the applicable subpart.
 L1 = Monitoring pathlength.
 L2 = Emission outlet pathlength.
 12.2 Luminous Transmittance Value of a Filter. Calculate the luminous transmittance of a filter as follows:
@@ -144,10 +148,11 @@ Where:
 L = mean of the effective spectral response curve
 Li = The specified wavelength at which the response gi is calculated at 20 nm intervals.
 gi = The individual response value at Li.
-13.0 What Specifications Does a COMS Have To Meet for Certification?
+13.0 What Specifications Does a COMS Have to Meet for Certification?
 A COMS must meet the following design, manufacturer's performance, and field audit performance specifications:
-13.1 Design Specifications. The opacity monitoring equipment must comply with the design specifications of ASTM D 6216-98.
-13.2 Manufacturer's Performance Specifications. The opacity monitor must comply with the manufacturer's performance specifications of ASTM D 6216-98.
+Note: If the initial certification of the opacity monitor occurred before November 14, 2018 using D6216-98, D6216-03, or D6216-07, it is not necessary to recertify using D6216-12.A. COMS must meet the following design, manufacturer's performance, and field audit performance specifications.
+13.1 Design Specifications. The opacity monitoring equipment must comply with the design specifications of ASTM D6216-12.
+13.2 Manufacturer's Performance Specifications. The opacity monitor must comply with the manufacturer's performance specifications of ASTM D6216-12.
 13.3 Field Audit Performance Specifications. The installed COMS must comply with the following performance specifications:
 (1) Optical Alignment. Objectively indicate proper alignment relative to reference marks (e.g., bull's-eye) or conditions.
 (2) Calibration Error. The calibration error must be ≤3 percent opacity for each of the three calibration attenuators.
@@ -165,7 +170,7 @@ A COMS must meet the following design, manufacturer's performance, and field aud
 5. Nimeroff, I. "Colorimetry Precision Measurement and Calibration." NBS Special Publication 300. Volume 9. June 1972.
 6. Technical Assistance Document: Performance Audit Procedures for Opacity Monitors. U. S. Environmental Protection Agency. Research Triangle Park, NC. EPA-600/8-87-025. April 1987.
 7. Technical Assistance Document: Performance Audit Procedures for Opacity Monitors. U. S. Environmental Protection Agency. Research Triangle Park, NC. EPA-450/4-92-010. April 1992.
-8. ASTM D 6216-98: Standard Practice for Opacity Monitor Manufacturers to Certify Conformance with Design and Performance Specifications. American Society for Testing and Materials (ASTM). April 1998.
+8. ASTM D6216-12: Standard Practice for Opacity Monitor Manufacturers to Certify Conformance with Design and Performance Specifications. ASTM. October 2012.
 17.0 What tables and diagrams are relevant to this method?
 17.1 Reference Tables.
 Table 1-1—Source C, Human Eye Response Factor
@@ -300,7 +305,12 @@ Where:
 RM = Average RM value. In cases where the average emissions for the test are less than 50 percent of the applicable standard, substitute the emission standard value in the denominator of Eq. 2-6 in place of RM. In all other cases, use RM.
 13.0 Method Performance
 13.1 Calibration Drift Performance Specification. The CEMS calibration must not drift or deviate from the reference value of the gas cylinder, gas cell, or optical filter by more than 2.5 percent of the span value. If the CEMS includes pollutant and diluent monitors, the CD must be determined separately for each in terms of concentrations (See Performance Specification 3 for the diluent specifications), and none of the CDs may exceed the specification.
-13.2 Relative Accuracy Performance Specification. The RA of the CEMS must be no greater than 20 percent when RM is used in the denominator of Eq. 2-6 (average emissions during test are greater than 50 percent of the emission standard) or 10 percent when the applicable emission standard is used in the denominator of Eq. 2-6 (average emissions during test are less than 50 percent of the emission standard). For SO2 emission standards of 130 to and including 86 ng/J (0.30 and 0.20 lb/million Btu), inclusive, use 15 percent of the applicable standard; below 86 ng/J (0.20 lb/million Btu), use 20 percent of the emission standard.
+13.2 Relative Accuracy Performance Specification.
+| Calculate... | RA criteria(%)
+If average emissions during the RATA are ≥50% of emission standard | Use Eq. 2-6, with RM in the denominator | ≤20.0
+If average emissions during the RATA are <50% of emission standard | Use Eq. 2-6, emission standard in the denominator | ≤10.0
+For SO2 emission standards ≤130 but ≥86 ng/J (0.30 and 0.20 lb/million Btu) | Use Eq. 2-6, emission standard in the denominator | ≤15.0
+For SO2 emission standards <86 ng/J (0.20 lb/million Btu) | Use Eq. 2-6, emission standard in the denominator | ≤20.0
 13.3 For instruments that use common components to measure more than one effluent gas constituent, all channels must simultaneously pass the RA requirement, unless it can be demonstrated that any adjustments made to one channel did not affect the others.
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
@@ -374,11 +384,12 @@ Same as section 7.0 of PS2.
 11.0 Analytical Procedure
 Sample collection and analyses are concurrent for this performance specification (see section 8). Refer to the RM for specific analytical procedures.
 12.0 Calculations and Data Analysis
-Summarize the results on a data sheet similar to that shown in Figure 2.2 of PS2. Calculate the arithmetic difference between the RM and the CEMS output for each run. The average difference of the nine (or more) data sets constitute the RA.
+Calculate the RA using equations 3-1 and 3-2. Summarize the results on a data sheet similar to that shown in Figure 2.2 of PS2.
+ER14NO18.062
+ER14NO18.073
 13.0 Method Performance
 13.1 Calibration Drift Performance Specification. The CEMS calibration must not drift by more than 0.5 percent O2 or CO2 from the reference value of the gas, gas cell, or optical filter.
 13.2 CEMS Relative Accuracy Performance Specification. The RA of the CEMS must be no greater than 20.0 percent of the mean value of the reference method (RM) data when calculated using equation 3-1. The results are also acceptable if the result of Equation 3-2 is less than or equal to 1.0 percent O2 (or CO2).
-ER30AU16.016
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
 16.0 References
@@ -1197,7 +1208,7 @@ ER25MR09.106
 (4) You may petition the Administrator for alternative solutions or sampling recommendations if the correlation models described in section 12.3 of this specification do not satisfy the performance criteria specified in section 13.2 of this specification.
 13.0 What Are the Performance Criteria for My PM CEMS?
 You must evaluate your PM CEMS based on the 7-day drift check, the accuracy of the correlation, and the sampling periods and cycle/response time.
-13.1 What is the 7-day drift check performance specification? Your daily PM CEMS internal drift checks must demonstrate that the average daily drift of your PM CEMS does not deviate from the value of the reference light, optical filter, Beta attenuation signal, or other technology-suitable reference standard by more than 2 percent of the response range. If your CEMS includes diluent and/or auxiliary monitors (for temperature, pressure, and/or moisture) that are employed as a necessary part of this performance specification, you must determine the calibration drift separately for each ancillary monitor in terms of its respective output (see the appropriate performance specification for the diluent CEMS specification). None of the calibration drifts may exceed their individual specification.
+13.1 What is the 7-day drift check performance specification? Your daily PM CEMS internal drift checks must demonstrate that the daily drift of your PM CEMS does not deviate from the value of the reference light, optical filter, Beta attenuation signal, or other technology-suitable reference standard by more than 2 percent of the response range. If your CEMS includes diluent and/or auxiliary monitors (for temperature, pressure, and/or moisture) that are employed as a necessary part of this performance specification, you must determine the calibration drift separately for each ancillary monitor in terms of its respective output (see the appropriate performance specification for the diluent CEMS specification). None of the calibration drifts may exceed their individual specification.
 13.2 What performance criteria must my PM CEMS correlation satisfy? Your PM CEMS correlation must meet each of the minimum specifications in paragraphs (1), (2), and (3) of this section. Before confidence and tolerance interval half range percentage calculations are made, you must convert the emission limit to the appropriate units of your PM CEMS measurement conditions using the average of emissions gas property values (e.g., diluent concentration, temperature, pressure, and moisture) measured during the correlation test.
 (1) The correlation coefficient must satisfy the criterion specified in paragraph (1)(i) or (ii), whichever applies.
 (i) If your source is not a low-emitting source, as defined in section 3.16 of this specification, the correlation coefficient (r) must be greater than or equal to 0.85.
@@ -1707,6 +1718,7 @@ ER17OC00.472
 The t-statistic is calculated as follows to test the bias for statistical significance;
 ER17OC00.473
 where the bias, B, and the correction factor, CF, are given in section 12.1. For 11 degrees of freedom, and a one-tailed distribution, Method 301 requires that t ≤2.201. If the t-statistic indicates the bias is statistically significant, then analytical measurements must be multiplied by the correction factor. There is no limitation on the number of measurements, but there must be at least 12 independent spiked and 12 independent unspiked measurements. Refer to the t-distribution (Table 2) at the 95 percent confidence level and appropriate degrees of freedom for the critical t-value.
+13.0 Method Performance [Reserved]
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
 16.0 References
@@ -2088,7 +2100,7 @@ Note: Automatic signal or mathematical processing of all measurement data to det
 11.8.6 Record the CEMS response for single measurements of zero gas and mid-level reference gas. You may use Figure 2 in section 17 of this PS to record and report the results of your 7-day CD test.
 11.8.6.1 For extractive CEMS, calculate the CD using Equation 3B in section 12.3. Report the absolute value of the differences as a percentage of the span value.
 11.8.6.2 For IP-CEMS, you must include the source measurement optical path while performing the upscale CD measurement; you may exclude the source measurement optical path when determining the zero gas concentration. Calculate the CD for IP CEMS using equations 4, 5, 6B, and 7 in section 12.4.
-11.8.7 The zero-level and mid-level CD for each day must be less than 5.0 percent of the span value as specified in section 13.2 of this PS. You must meet this criterion for 7 consecutive operating days past the 7-day CD test.
+11.8.7 The zero-level and mid-level CD for each day must be less than 5.0 percent of the span value as specified in section 13.2 of this PS. You must meet this criterion for 7 consecutive operating days.
 11.8.8 Dynamic Spiking Option for Seven-Day CD Test. For extractive CEMS, you have the option to conduct a mid-level dynamic spiking procedure for each of the 7 days in lieu of the mid-level reference gas injection described in sections 11.8.2 and 11.8.3. If this option is selected, the daily zero CD check is still required.
 11.8.8.1 To conduct each of the seven daily mid-level dynamic spikes, you must use the DS procedure described in appendix A of this PS using a single spike of the mid-level reference gas (see Table 4).
 11.8.8.2 You must perform the dynamic spike procedure by passing the spiked source gas sample through all filters, scrubbers, conditioners and other monitoring system components used during normal sampling, and as much of the sampling probe as practical.
@@ -2217,15 +2229,15 @@ ER07JY15.082
 17.0 Tables, Diagrams, Flowcharts, and Validation Data
 Table 1—Interference Test Gas Concentrations
 Potential interferent gas 1 | Approximate concentration (balance N2)
-CO2 | 15% ±1% CO2.2
-CO | 100 ±20 ppm.
-CH2O | 20 ±5 ppm.
-CH4 | 100 ±20 ppm.
-NH3 | 10 ±5 ppm (extractive CEMS only).
-NO2 | 250 ±50 ppm.
-SO2 | 200 ±20 ppm.
-O2 | 3% ±1% O2.2
-H2O | 10% ±1% H2O.2
+CO2 | 15% ± 1% CO2.2
+CO | 100 ± 20 ppm.
+CH2O | 20 ± 5 ppm.
+CH4 | 100 ± 20 ppm.
+NH3 | 10 ± 5 ppm (extractive CEMS only).
+NO | 250 ± 50 ppm.
+SO2 | 200 ± 20 ppm.
+O2 | 3% ± 1% O2.2
+H2O | 10% ± 1% H2O.2
 N2 | Balance.2
 1 Any of these specific gases can be tested at a lower level if the manufacturer has provided reliable means for limiting or scrubbing that gas to a specified level in CEMS field installations.
 2 Gases for short path IP cell interference tests cannot be added above 100 percent stack equivalent concentration. Add these gases at the indicated percentages to make up the remaining cell volume.
@@ -2342,5 +2354,6 @@ ER07JY15.092
 ER07JY15.093
 11.3 Standard Addition Response for IP-CEMS. If you use an IP-CEMS and a calibration cell, calculate the SA response using Equation A8.
 ER07JY15.094
+12.0 [Reserved]
 13. Tables and Figures.
 ER07JY15.095

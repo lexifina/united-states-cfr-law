@@ -831,7 +831,7 @@ ER17OC00.312
 13.0 Method Performance
 13.1 Since a potential sample may contain a variety of compounds from various sources, a specific precision limit for the analysis of field samples is impractical. Precision in the range of 5 to 10 percent relative standard deviation (RSD) is typical for gas chromatographic techniques, but an experienced GC operator with a reliable instrument can readily achieve 5 percent RSD. For this method, the following combined GC/operator values are required.
 (a) Precision. Triplicate analyses of calibration standards fall within 5 percent of their mean value.
-(c) Recovery. After developing an appropriate sampling and analytical system for the pollutants of interest, conduct the procedure in section 8.4. Conduct the appropriate recovery study in section 8.4 at each sampling point where the method is being applied. Submit the data and results of the recovery procedure with the reporting of results under section 8.3.
+(b) Recovery. After developing an appropriate sampling and analytical system for the pollutants of interest, conduct the procedure in section 8.4. Conduct the appropriate recovery study in section 8.4 at each sampling point where the method is being applied. Submit the data and results of the recovery procedure with the reporting of results under section 8.3.
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
 16.0 Alternative Procedures
