@@ -1,6 +1,6 @@
 # Appendix G to Part 91—Operations in Reduced Vertical Separation Minimum (RVSM) Airspace
 Section 1. Definitions
-Reduced Vertical Separation Minimum (RVSM) Airspace. Within RVSM airspace, air traffic control (ATC) separates aircraft by a minimum of 1,000 feet vertically between flight level (FL) 290 and FL 410 inclusive. RVSM airspace is special qualification airspace; the operator and the aircraft used by the operator must be approved by the Administrator. Air-traffic control notifies operators of RVSM by providing route planning information. Section 8 of this appendix identifies airspace where RVSM may be applied.
+Reduced Vertical Separation Minimum (RVSM) Airspace. Within RVSM airspace, air traffic control (ATC) separates aircraft by a minimum of 1,000 feet vertically between FL 290 and FL 410 inclusive. Air-traffic control notifies operators of RVSM airspace by providing route planning information.
 RVSM Group Aircraft. Aircraft within a group of aircraft, approved as a group by the Administrator, in which each of the aircraft satisfy each of the following:
 (a) The aircraft have been manufactured to the same design, and have been approved under the same type certificate, amended type certificate, or supplemental type certificate.
 (b) The static system of each aircraft is installed in a manner and position that is the same as those of the other aircraft in the group. The same static source error correction is incorporated in each aircraft of the group.
@@ -22,7 +22,7 @@ RVSM Flight envelope. An RVSM flight envelope includes the range of Mach number,
 (1) From the airspeed of the slats/flaps-up maximum endurance (holding) airspeed, or the maneuver airspeed, whichever is lower;
 (2) To the upper Mach/airspeed boundary defined for the full RVSM flight envelope, or a specified lower value not less than the long-range cruise Mach number plus.04 Mach, unless further limited by available cruise thrust, buffet, or other flight limitations.
 Section 2. Aircraft Approval
-(a) An operator may be authorized to conduct RVSM operations if the Administrator finds that its aircraft comply with this section.
+(a) Except as specified in Section 9 of this appendix, an operator may be authorized to conduct RVSM operations if the Administrator finds that its aircraft comply with this section.
 (b) The applicant for authorization shall submit the appropriate data package for aircraft approval. The package must consist of at least the following:
 (1) An identification of the RVSM aircraft group or the nongroup aircraft;
 (2) A definition of the RVSM flight envelopes applicable to the subject aircraft;
@@ -51,38 +51,48 @@ Section 2. Aircraft Approval
 (g) Traffic Alert and Collision Avoidance System (TCAS) Compatibility With RVSM Operations: All aircraft. After March 31, 2002, unless otherwise authorized by the Administrator, if you operate an aircraft that is equipped with TCAS II in RVSM airspace, it must be a TCAS II that meets TSO C-119b (Version 7.0), or a later version.
 (h) If the Administrator finds that the applicant's aircraft comply with this section, the Administrator notifies the applicant in writing.
 Section 3. Operator Authorization
-(a) Authority for an operator to conduct flight in airspace where RVSM is applied is issued in operations specifications, a Letter of Authorization, or management specifications issued under subpart K of this part, as appropriate. To issue an RVSM authorization, the Administrator must find that the operator's aircraft have been approved in accordance with Section 2 of this appendix and the operator complies with this section.
-(b) An applicant for authorization to operate within RVSM airspace shall apply in a form and manner prescribed by the Administrator. The application must include the following:
+(a) Except as specified in Section 9 of this appendix, authority for an operator to conduct flight in airspace where RVSM is applied is issued in operations specifications, a Letter of Authorization, or management specifications issued under subpart K of this part, as appropriate. To issue an RVSM authorization under this section, the Administrator must find that the operator's aircraft have been approved in accordance with Section 2 of this appendix and the operator complies with this section.
+(b) Except as specified in Section 9 of this appendix, an applicant seeking authorization to operate within RVSM airspace must apply in a form and manner prescribed by the Administrator. The application must include the following:
 (1) [Reserved]
 (2) For an applicant who operates under part 121 or 135 of this chapter or under subpart K of this part, initial and recurring pilot training requirements.
 (3) Policies and procedures: An applicant who operates under part 121 or 135 of this chapter or under subpart K of this part must submit RVSM policies and procedures that will enable it to conduct RVSM operations safely.
-(c) Validation and Demonstration. In a manner prescribed by the Administrator, the operator must provide evidence that:
+(c) In a manner prescribed by the Administrator, an operator seeking authorization under this section must provide evidence that:
 (1) It is capable to operate and maintain each aircraft or aircraft group for which it applies for approval to operate in RVSM airspace; and
-(2) Each pilot has an adequate knowledge of RVSM requirements, policies, and procedures.
+(2) Each pilot has knowledge of RVSM requirements, policies, and procedures sufficient for the conduct of operations in RVSM airspace.
 Section 4. RVSM Operations
 (a) Each person requesting a clearance to operate within RVSM airspace shall correctly annotate the flight plan filed with air traffic control with the status of the operator and aircraft with regard to RVSM approval. Each operator shall verify RVSM applicability for the flight planned route through the appropriate flight planning information sources.
 (b) No person may show, on the flight plan filed with air traffic control, an operator or aircraft as approved for RVSM operations, or operate on a route or in an area where RVSM approval is required, unless:
-(1) The operator is authorized by the Administrator to perform such operations; and
-(2) The aircraft has been approved and complies with the requirements of Section 2 of this appendix.
+(1) The operator is authorized by the Administrator to perform such operations in accordance with Section 3 or Section 9 of this appendix, as applicable.
+(2) The aircraft—
+(i) Has been approved and complies with Section 2 this appendix; or
+(ii) Complies with Section 9 of this appendix.
+(3) Each pilot has knowledge of RVSM requirements, policies, and procedures sufficient for the conduct of operations in RVSM airspace.
 Section 5. Deviation Authority Approval
-The Administrator may authorize an aircraft operator to deviate from the requirements of § 91.180 or § 91.706 for a specific flight in RVSM airspace if that operator has not been approved in accordance with section 3 of this appendix if:
+The Administrator may authorize an aircraft operator to deviate from the requirements of §§ 91.180 or 91.706 for a specific flight in RVSM airspace if—
 (a) The operator submits a request in a time and manner acceptable to the Administrator; and
-(b) At the time of filing the flight plan for that flight, ATC determines that the aircraft may be provided appropriate separation and that the flight will not interfere with, or impose a burden on, the operations of operators who have been approved for RVSM operations in accordance with Section 3 of this appendix.
+(b) At the time of filing the flight plan for that flight, ATC determines that the aircraft may be provided appropriate separation and that the flight will not interfere with, or impose a burden on, RVSM operations.
 Section 6. Reporting Altitude-Keeping Errors
 Each operator shall report to the Administrator each event in which the operator's aircraft has exhibited the following altitude-keeping performance:
 (a) Total vertical error of 300 feet or more;
 (b) Altimetry system error of 245 feet or more; or
 (c) Assigned altitude deviation of 300 feet or more.
 Section 7. Removal or Amendment of Authority
-The Administrator may amend operations specifications or management specifications issued under subpart K of this part to revoke or restrict an RVSM authorization, or may revoke or restrict an RVSM letter of authorization, if the Administrator determines that the operator is not complying, or is unable to comply, with this appendix or subpart H of this part. Examples of reasons for amendment, revocation, ore restriction include, but are not limited to, an operator's:
+The Administrator may prohibit or restrict an operator from conducting operations in RVSM airspace, if the Administrator determines that the operator is not complying, or is unable to comply, with this appendix or subpart H of this part. Examples of reasons for amendment, revocation, or restriction include, but are not limited to, an operator's:
 (a) Committing one or more altitude-keeping errors in RVSM airspace;
 (b) Failing to make an effective and timely response to identify and correct an altitude-keeping error; or
 (c) Failing to report an altitude-keeping error.
 Section 8. Airspace Designation
-(a) RVSM in the North Atlantic. (1) RVSM may be applied in the NAT in the following ICAO Flight Information Regions (FIRs): New York Oceanic, Gander Oceanic, Sondrestrom FIR, Reykjavik Oceanic, Shanwick Oceanic, and Santa Maria Oceanic.
-(2) RVSM may be effective in the High Level Airspace (HLA) within the NAT. The HLA within the NAT is defined by the volume of airspace between FL 285 and FL 420 (inclusive) extending between latitude 27 degrees north and the North Pole, bounded in the east by the eastern boundaries of control areas Santa Maria Oceanic, Shanwick Oceanic, and Reykjavik Oceanic and in the west by the western boundaries of control areas Reykjavik Oceanic, Gander Oceanic, and New York Oceanic, excluding the areas west of 60 degrees west and south of 38 degrees 30 minutes north.
-(b) RVSM in the Pacific. (1) RVSM may be applied in the Pacific in the following ICAO Flight Information Regions (FIRs): Anchorage Arctic, Anchorage Continental, Anchorage Oceanic, Auckland Oceanic, Brisbane, Edmonton, Honiara, Los Angeles, Melbourne, Nadi, Naha, Nauru, New Zealand, Oakland, Oakland Oceanic, Port Moresby, Seattle, Tahiti, Tokyo, Ujung Pandang and Vancouver.
-(c) RVSM in the West Atlantic Route System (WATRS). RVSM may be applied in the New York FIR portion of the West Atlantic Route System (WATRS). The area is defined as beginning at a point 38°30′ N/60°00′W direct to 38°30′ N/69°15′ W direct to 38°20′ N/69°57′ W direct to 37°31′ N/71°41′ W direct to 37°13′ N/72°40′ W direct to 35°05′ N/72°40′ W direct to 34°54′ N/72°57′ W direct to 34°29′ N/73°34′ W direct to 34°33′ N/73°41′ W direct to 34°19′ N/74°02′ W direct to 34°14′ N/73°57′ W direct to 32°12′ N/76°49′ W direct to 32°20′ N/77°00′ W direct to 28°08′ N/77°00′ W direct to 27°50′ N/76°32′ W direct to 27°50′ N/74°50′ W direct to 25°00′ N/73°21′ W direct to 25°00′05′ N/69°13′06′ W direct to 25°00′ N/69°07′ W direct to 23°30′ N/68°40′ W direct to 23°30′ N/60°00′ W to the point of beginning.
-(d) RVSM in the United States. RVSM may be applied in the airspace of the 48 contiguous states, District of Columbia, and Alaska, including that airspace overlying the waters within 12 nautical miles of the coast.
-(e) RVSM in the gulf of Mexico. RVSM may be applied in the Gulf of Mexico in the following areas: Gulf of Mexico High Offshore Airspace, Houston Oceanic ICAO FIR and Miami Oceanic ICAO FIR.
-(f) RVSM in Atlantic High Offshore Airspace and the San Juan FIR. RVSM may be applied in Atlantic High Offshore Airspace and in the San Juan ICAO FIR.
+RVSM may be applied in all ICAO Flight Information Regions (FIRs).
+Section 9. Aircraft Equipped With Automatic Dependent Surveillance—Broadcast Out
+An operator is authorized to conduct flight in airspace in which RVSM is applied provided:
+(a) The aircraft is equipped with the following:
+(1) Two operational independent altitude measurement systems.
+(2) At least one automatic altitude control system that controls the aircraft altitude—
+(i) Within a tolerance band of ±65 feet about an acquired altitude when the aircraft is operated in straight and level flight under nonturbulent, nongust conditions; or
+(ii) Within a tolerance band of ±130 feet under nonturbulent, nongust conditions for aircraft for which application for type certification occurred on or before April 9, 1997, that are equipped with an automatic altitude control system with flight management/performance system inputs.
+(3) An altitude alert system that signals an alert when the altitude displayed to the flightcrew deviates from the selected altitude by more than—
+(i) ±300 feet for aircraft for which application for type certification was made on or before April 9, 1997; or
+(ii) ±200 feet for aircraft for which application for type certification is made after April 9, 1997.
+(4) A TCAS II that meets TSO C-119b (Version 7.0), or a later version, if equipped with TCAS II, unless otherwise authorized by the Administrator.
+(5) Unless authorized by ATC or the foreign country where the aircraft is operated, an ADS-B Out system that meets the equipment performance requirements of § 91.227 of this part. The aircraft must have its height-keeping performance monitored in a form and manner acceptable to the Administrator.
+(b) The altimetry system error (ASE) of the aircraft does not exceed 200 feet when operating in RVSM airspace.
