@@ -2,23 +2,31 @@
 Table 1 to Appendix A of Subpart A—Emission Thresholds 1 by Pollutant for Treatment as Point Source Under 40 CFR 51.30
 Pollutant | Every-year | Type A sources 2 | Triennial | Type B sources | NAA sources 3
 (1) SO2 | ≥2500 | ≥100 | ≥100.
-| | | PM2.5 (serious) ≥70.
+| | | PM2.5 (Serious) ≥70.
 (2) VOC | ≥250 | ≥100 | ≥100.
-| | | O3 (serious) ≥50.
-| | | O3 (severe) ≥25.
-| | | O3 (extreme) ≥10.
-| | | PM2.5 (serious) ≥70.
-(3) NOX | ≥2500 | ≥100 | ≥100.PM2.5 (serious) ≥70.
-(4) CO | ≥2500 | ≥1000 | O3 (all areas) ≥100.CO (all areas) ≥100.
+| | within OTR 4 ≥50 | within OTR ≥50.
+| | | O3 (Serious) ≥50.
+| | | O3 (Severe) ≥25.
+| | | O3 (Extreme) ≥10.
+| | | PM2.5 (Serious) ≥70.
+(3) NOX | ≥2500 | ≥100 | ≥100.
+| | | O3 (Serious) ≥50.
+| | | O3 (Severe) ≥25.
+| | | O3 (Extreme) ≥10.
+| | | PM2.5 (Serious) ≥70.
+(4) CO | ≥2500 | ≥1000 | ≥1000.
+| | | CO (all areas) ≥100.
 (5) Lead | | ≥0.5 (actual) | ≥0.5 (actual).
 (6) Primary PM10 | ≥250 | ≥100 | ≥100.
-| | | PM10 (serious) ≥70.
+| | | PM10 (Serious) ≥70.
 (7) Primary PM2.5 | ≥250 | ≥100 | ≥100.
-| | | PM2.5 (serious) ≥70.
-(8) NH3 | ≥250 | ≥100 | ≥100.PM2.5 (serious) ≥70.
+| | | PM2.5 (Serious) ≥70.
+(8) NH3 | ≥250 | ≥100 | ≥100.
+| | | PM2.5 (Serious) ≥70.
 1 Thresholds for point source determination shown in tons per year of potential to emit as defined in 40 CFR part 70, with the exception of lead. Reported emissions should be in actual tons emitted for the required time period.
 2 Type A sources are a subset of the Type B sources and are the larger emitting sources by pollutant.
 3 NAA = Nonattainment Area. The point source reporting thresholds vary by attainment status for SO2, VOC, NOX, CO, PM10, PM2.5, and NH3.
+4 OTR = Ozone Transport Region (see 40 CFR 51.1300(k)).
 Table 2a to Appendix A of Subpart A—Facility Inventory 1 Data Elements for Reporting Emissions From Point Sources, Where Required by 40 CFR 51.30
 Data elements
 (1) Emissions Year.
