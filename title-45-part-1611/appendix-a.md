@@ -1,24 +1,25 @@
 # Appendix A to Part 1611—Income Level for Individuals Eligible for Assistance
-Legal Services Corporation 2018 Income Guidelines *
-Size of household | 48 Contiguous States and the District ofColumbia | Alaska | Hawaii
-1 | $15,175 | $18,975 | $17,450
-2 | 20,575 | 25,725 | 23,663
-3 | 25,975 | 32,475 | 29,875
-4 | 31,375 | 39,225 | 36,088
-5 | 36,775 | 45,975 | 42,300
-6 | 42,175 | 52,725 | 48,513
-7 | 47,575 | 59,475 | 54,725
-8 | 52,975 | 66,225 | 60,938
-For each additional member of the household in excess of 8, add: | 5,400 | 6,750 | 6,213
+Legal Services Corporation 2019 Income Guidelines *
+Size of household | 48 Contiguous States and the District of Columbia | Alaska | Hawaii
+1 | $15,613 | $19,500 | $17,975
+2 | 21,138 | 26,413 | 24,325
+3 | 26,663 | 33,325 | 30,675
+4 | 32,188 | 40,238 | 37,025
+5 | 37,713 | 47,150 | 43,375
+6 | 43,238 | 54,063 | 49,725
+7 | 48,763 | 60,975 | 56,075
+8 | 54,288 | 67,888 | 62,425
+For each additional member of the household in excess of 8, add: | 5,525 | 6,913 | 6,350
 * The figures in this table represent 125% of the Federal Poverty Guidelines by household size as determined by HHS.
-Reference Chart—200% of Federal Poverty Guidelines
-Size of household | 48 Contiguous States and the District ofColumbia | Alaska | Hawaii
-1 | $24,280 | $30,360 | $27,920
-2 | 32,920 | 41,160 | 37,860
-3 | 41,560 | 51,960 | 47,800
-4 | 50,200 | 62,760 | 57,740
-5 | 58,840 | 73,560 | 67,680
-6 | 67,480 | 84,360 | 77,620
-7 | 76,120 | 95,160 | 87,560
-8 | 84,760 | 105,960 | 97,500
-For each additional member of the household in excess of 8, add: | 8,640 | 10,800 | 9,940
+Reference Chart—200% of Federal Poverty Guidelines *
+Size of household | 48 Contiguous States and the District of Columbia | Alaska | Hawaii
+1 | $24,980 | $31,200 | $28,760
+2 | 33,820 | 42,260 | 38,920
+3 | 42,660 | 53,320 | 49,080
+4 | 51,500 | 64,380 | 59,240
+5 | 60,340 | 75,440 | 69,400
+6 | 69,180 | 86,500 | 79,560
+7 | 78,020 | 97,560 | 89,720
+8 | 86,860 | 108,620 | 99,880
+For each additional member of the household in excess of 8, add: | 8,840 | 11,060 | 10,160
+* The figures in this table represent 200% of the Federal Poverty Guidelines by household size as determined by HHS.
