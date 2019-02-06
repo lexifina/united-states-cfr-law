@@ -13,10 +13,9 @@ C. Manage and Control Risk
 D. Oversee Service Provider Arrangements
 E. Adjust the Program
 F. Report to the Board
-G. Implement the Standards
 I. Introduction
 The Guidelines for Safeguarding Member Information (Guidelines) set forth standards pursuant to sections 501 and 505(b), codified at 15 U.S.C. 6801 and 6805(b), of the Gramm-Leach-Bliley Act. These Guidelines provide guidance standards for developing and implementing administrative, technical, and physical safeguards to protect the security, confidentiality, and integrity of member information. These Guidelines also address standards with respect to the proper disposal of consumer information pursuant to sections 621(b) and 628 of the Fair Credit Reporting Act (15 U.S.C. 1681s(b) and 1681w).
-A. Scope. The Guidelines apply to member information maintained by or on behalf of federally-insured credit unions. Such entities are referred to in this appendix as "the credit union." These Guidelines also apply to the proper disposal of consumer information by such entities.
+A. Scope. The Guidelines apply to member information maintained by or on behalf of federally insured credit unions. Such entities are referred to in this appendix as "the credit union." These Guidelines also apply to the proper disposal of consumer information by such entities.
 B. Definitions. 1. In general. Except as modified in the Guidelines or unless the context otherwise requires, the terms used in these Guidelines have the same meanings as set forth in 12 CFR part 1016.
 2. For purposes of the Guidelines, the following definitions apply:
 a. Consumer information means any record about an individual, whether in paper, electronic, or other form, that is a consumer report or is derived from a consumer report and that is maintained or otherwise possessed by or on behalf of the credit union for a business purpose. Consumer information also means a compilation of such records. The term does not include any record that does not identify an individual.
