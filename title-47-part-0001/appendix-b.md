@@ -153,6 +153,7 @@ XIV. DURATION OF THE PROGRAMMATIC AGREEMENT
 This Programmatic Agreement for collocation shall remain in force unless the Programmatic Agreement is terminated or superseded by a comprehensive Programmatic Agreement for wireless communications antennas.
 Execution of this Nationwide Programmatic Agreement by the FCC, NCSHPO and the Council, and implementation of its terms, constitutes evidence that the FCC has afforded the Council an opportunity to comment on the collocation as described herein of antennas covered under the FCC's rules, and that the FCC has taken into account the effects of these collocations on historic properties in accordance with Section 106 of the National Historic Preservation Act and its implementing regulations, 36 CFR part 800.
 FEDERAL COMMUNICATIONS COMMISSION
+\n
 Date:
 NATIONAL CONFERENCE OF STATE HISTORIC PRESERVATION OFFICERS
 Date:
