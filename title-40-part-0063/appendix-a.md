@@ -523,7 +523,7 @@ er17oc00.535
 12.3 Criteria for Acceptance for VE Determinations from Topside Port Lids and Offtake Systems. After completing the run (allow 2 traverses for batteries with double mains), calculate the maximum time allowed to observe the topside port lids and/or offtake systems by the following equation:
 er17oc00.536
 12.4 Average Duration of VE from Charging Operations. Use Equation 303-3 to calculate the daily 30-day rolling log average of seconds of visible emissions from the charging operation for each battery using these current day's observations and the 29 previous valid daily sets of observations.
-er17oc00.537
+ER14NO18.063
 12.5 Percent Leaking Doors (PLD). Determine the total number of doors for which observations were made on the coke oven battery as follows:
 er17oc00.538
 12.5.1 For each test run (one run includes both the coke side and the push side traverses), sum the number of doors with door area VE. For batteries subject to an approved alternative standard under § 63.305 of this part, calculate the push side and the coke side PLD separately.
@@ -1015,7 +1015,7 @@ Note: The ICP analysis is applicable for this method only when the solution anal
 5.2 Hexavalent chromium compounds have been listed as carcinogens although chromium (III) compounds show little or no toxicity. Chromium can be a skin and respiratory irritant.
 6.0 Equipment and Supplies
 6.1 Sampling Train.
-6.1.1 A schematic of the sampling train used in this method is shown in Figure 306-1. The train is the same as shown in Method 5, Section 6.0 (40 CFR Part 60, Appendix A) except that the probe liner is unheated, the particulate filter is omitted, and quartz or borosilicate glass must be used for the probe nozzle and liner in place of stainless steel.
+6.1.1 A schematic of the sampling train used in this method is shown in Figure 306-1. The train is the same as shown in Method 5, Section 6.0 (40 CFR part 60, appendix A) except that the probe liner is unheated, the particulate filter is omitted, and quartz or borosilicate glass must be used for the probe nozzle and liner in place of stainless steel.
 6.1.2 Probe fittings of plastic such as Teflon, polypropylene, etc. are recommended over metal fittings to prevent contamination. If desired, a single combined probe nozzle and liner may be used, but such a single glass assembly is not a requirement of this methodology.
 6.1.3 Use 0.1 N NaOH or 0.1 N NaHCO3 in the impingers in place of water.
 6.1.4 Operating and maintenance procedures for the sampling train are described in APTD-0576 of Method 5. Users should read the APTD-0576 document and adopt the outlined procedures. Alternative mercury-free thermometers may be used if the thermometers are, at a minimum, equivalent in terms of performance or suitably effective for the specific temperature measurement application.
@@ -1075,7 +1075,7 @@ Note: At sources with high concentrations of acids and/or SO2, the concentration
 7.4.2 Water. Reagent water that conforms to ASTM Specification D1193-77 or 91 Type II.
 7.4.3 HNO3, 10 percent (v/v). Add by stirring 500 mL of concentrated HNO3 into a flask containing approximately 4,000 mL of reagent water. Dilute to 5,000 mL with reagent water. Mix well. The reagent shall contain less than 2 µg Cr/L.
 8.0 Sample Collection, Preservation, Holding Times, Storage, and Transport
-Note: Prior to sample collection, consideration should be given to the type of analysis (Cr + 6 or total Cr) that will be performed. Which analysis option(s) will be performed will determine which sample recovery and storage procedures will be required to process the sample.
+Note: Prior to sample collection, consideration should be given to the type of analysis (Cr+6 or total Cr) that will be performed. Which analysis option(s) will be performed will determine which sample recovery and storage procedures will be required to process the sample.
 8.1 Sample Collection. Same as Method 5 (40 CFR part 60, appendix A), with the following exceptions.
 8.1.1 Omit the particulate filter and filter holder from the sampling train. Use a glass nozzle and probe liner instead of stainless steel. Do not heat the probe. Place 100 mL of 0.1 N NaOH or 0.1 N NaHCO3 in each of the first two impingers, and record the data for each run on a data sheet such as shown in Figure 306-2.
 8.1.2 Clean all glassware prior to sampling in hot soapy water designed for laboratory cleaning of glassware. Next, rinse the glassware three times with tap water, followed by three additional rinses with reagent water. Then soak the glassware in 10% (v/v) HNO3 solution for a minimum of 4 hours, rinse three times with reagent water, and allow to air dry. Cover all glassware openings where contamination can occur with Parafilm, or equivalent, until the sampling train is assembled for sampling.
@@ -1526,8 +1526,8 @@ Note: Theoretically, critical flow for air occurs when the ratio of the orifice 
 8.1.2.4.1 Circular Stacks. Complete the first port traverse and switch off the pump. Testers may opt to perform a leak-check between the port changes to verify the leak rate however, this is not mandatory. Move the sampling train to the next sampling port and repeat the sequence. Be sure to record the final dry gas meter reading after completing the test run. After performing the post test leak check, disconnect the jar/impinger containers from the pump and meter assembly and transport the probe, connecting tubing, and containers to the sample recovery area.
 8.1.2.4.2 Rectangle Stacks. Complete each port traverse as per the instructions provided in 8.1.2.4.1.
 Note: If an approximate mass emission rate is to be calculated, measure and record the stack velocity pressure and temperature before and after the test run.
-8.2 Sample Recovery. After the train has been transferred to the sample recovery area, disconnect the tubing that connects the jar/impingers. The tester shall select either the total Cr or Cr + 6 sample recovery option. Samples to be analyzed for both total Cr and Cr + 6 shall be recovered using the Cr + 6 sample option (Section 8.2.2).
-Note: Collect a reagent blank sample for each of the total Cr or the Cr + 6 analytical options. If both analyses (Cr and Cr + 6) are to be conducted on the samples, collect separate reagent blanks for each analysis. Also, since particulate matter is not usually present at chromium electroplating and/or chromium anodizing operations, it is not necessary to filter the Cr + 6 samples unless there is observed sediment in the collected solutions. If it is necessary to filter the Cr + 6 solutions, please refer to Method 0061, Determination of Hexavalent Chromium Emissions from Stationary Sources, Section 7.4, Sample Preparation in SW-846 (see Reference 1).
+8.2 Sample Recovery. After the train has been transferred to the sample recovery area, disconnect the tubing that connects the jar/impingers. The tester shall select either the total Cr or Cr+6 sample recovery option. Samples to be analyzed for both total Cr and Cr+6 shall be recovered using the Cr+6 sample option (Section 8.2.2).
+Note: Collect a reagent blank sample for each of the total Cr or the Cr+6 analytical options. If both analyses (Cr and Cr+6) are to be conducted on the samples, collect separate reagent blanks for each analysis. Also, since particulate matter is not usually present at chromium electroplating and/or chromium anodizing operations, it is not necessary to filter the Cr+6 samples unless there is observed sediment in the collected solutions. If it is necessary to filter the Cr+6 solutions, please refer to Method 0061, Determination of Hexavalent Chromium Emissions from Stationary Sources, Section 7.4, Sample Preparation in SW-846 (see Reference 1).
 8.2.1 Total Cr Sample Option.
 8.2.1.1 Shipping Container No. 1. The first jar container may either be used to store and transport the sample, or if GS impingers are used, samples may be stored and shipped in precleaned 250-mL, 500-mL or 1000-mL polyethylene or glass bottles with leak-free, non-metal screw caps.
 8.2.1.1.1 Unscrew the lid from the first jar/impinger container.
@@ -1834,7 +1834,7 @@ Method 308—Procedure for Determination of Methanol Emission From Stationary So
 1.1 Analyte. Methanol. Chemical Abstract Service (CAS) No. 67-56-1.
 1.2 Applicability. This method applies to the measurement of methanol emissions from specified stationary sources.
 2.0 Summary of Method
-A gas sample is extracted from the sampling point in the stack. The methanol is collected in deionized distilled water and adsorbed on silica gel. The sample is returned to the laboratory where the methanol in the water fraction is separated from other organic compounds with a gas chromatograph (GC) and is then measured by a flame ionization detector (FID). The fraction adsorbed on silica gel is extracted with an aqueous solution of n-propanol and is then separated and measured by GC/FID.
+A gas sample is extracted from the sampling point in the stack. The methanol is collected in deionized distilled water and adsorbed on silica gel. The sample is returned to the laboratory where the methanol in the water fraction is separated from other organic compounds with a gas chromatograph (GC) and is then measured by a flame ionization detector (FID). The fraction adsorbed on silica gel is extracted with deionized distilled water and is then separated and measured by GC/FID.
 3.0 Definitions [Reserved]
 4.0 Interferences [Reserved]
 5.0 Safety
@@ -1875,11 +1875,11 @@ Note: Unless otherwise indicated, all reagents must conform to the specification
 7.1.2 Silica Gel. Deactivated chromatographic grade 20/40 mesh silica gel packed in glass adsorbent tubes. The silica gel is packed in two sections. The front section contains 520 milligrams (mg) of silica gel, and the back section contains 260 mg.
 7.2 Analysis. The following are required for analysis:
 7.2.1 Water. Same as specified in section 7.1.1.
-7.2.2 n-Propanol, 3 Percent. Mix 3 ml of n-propanol with 97 ml of water.
+7.2.2 [Reserved]
 7.2.3 Methanol Stock Standard. Prepare a methanol stock standard by weighing 1 gram of methanol into a 100-ml volumetric flask. Dilute to 100 ml with water.
 7.2.3.1 Methanol Working Standard. Prepare a methanol working standard by pipetting 1 ml of the methanol stock standard into a 100-ml volumetric flask. Dilute the solution to 100 ml with water.
 7.2.3.2 Methanol Standards For Impinger Samples. Prepare a series of methanol standards by pipetting 1, 2, 5, 10, and 25 ml of methanol working standard solution respectively into five 50-ml volumetric flasks. Dilute the solutions to 50 ml with water. These standards will have 2, 4, 10, 20, and 50 µg/ml of methanol, respectively. After preparation, transfer the solutions to 40-ml glass vials capped with Teflon ® septa and store the vials under refrigeration. Discard any excess solution.
-7.2.3.3 Methanol Standards for Adsorbent Tube Samples. Prepare a series of methanol standards by first pipetting 10 ml of the methanol working standard into a 100-ml volumetric flask and diluting the contents to exactly 100 ml with 3 percent n-propanol solution. This standard will contain 10 µg/ml of methanol. Pipette 5, 15, and 25 ml of this standard, respectively, into four 50-ml volumetric flasks. Dilute each solution to 50 ml with 3 percent n-propanol solution. These standards will have 1, 3, and 5 µg/ml of methanol, respectively. Transfer all four standards into 40-ml glass vials capped with Teflon ®-lined septa and store under refrigeration. Discard any excess solution.
+7.2.3.3 Methanol Standards for Adsorbent Tube Samples. Prepare a series of methanol standards by first pipetting 10 ml of the methanol working standard into a 100-ml volumetric flask and diluting the contents to exactly 100 ml with deionized distilled water. This standard will contain 10 µg/ml of methanol. Pipette 5, 15, and 25 ml of this standard, respectively, into three 50-ml volumetric flasks. Dilute each solution to 50 ml with deionized distilled water. These standards will have 1, 3, and 5 µg/ml of methanol, respectively. Transfer all four standards into 40-ml glass vials capped with Teflon®-lined septa and store under refrigeration. Discard any excess solution.
 7.2.4 GC Column. Capillary column, 30 meters (100 feet) long with an inside diameter (ID) of 0.53 mm (0.02 inch), coated with DB 624 to a film thickness of 3.0 micrometers, (µm) or an equivalent column. Alternatively, a 30-meter capillary column coated with polyethylene glycol to a film thickness of 1 µm such as AT-WAX or its equivalent.
 7.2.5 Helium. Ultra high purity.
 7.2.6 Hydrogen. Zero grade.
@@ -1888,8 +1888,8 @@ Note: Unless otherwise indicated, all reagents must conform to the specification
 8.1 Sampling. The following items are required for sampling:
 8.1.1 Preparation of Collection Train. Measure 20 ml of water into the midget impinger. The adsorbent tube must contain 520 mg of silica gel in the front section and 260 mg of silica gel in the backup section. Assemble the train as shown in Figure 308-1. An optional, second impinger that is left empty may be placed in front of the water-containing impinger to act as a condensate trap. Place crushed ice and water around the impinger.
 ER15ap98.014
-8.1.2 Leak Check. A leak check prior to the sampling run is optional; however, a leak check after the sampling run is mandatory. The leak-check procedure is as follows:
-Temporarily attach a suitable (e.g., 0-to 40-ml/min) rotameter to the outlet of the DGM, and place a vacuum gauge at or near the probe inlet. Plug the probe inlet, pull a vacuum of at least 250 mm (10 inch) Hg, and note the flow rate as indicated by the rotameter. A leakage rate not in excess of 2 percent of the average sampling rate is acceptable.
+8.1.2 Leak Check. A leak check before and after the sampling run is mandatory. The leak-check procedure is as follows:
+Temporarily attach a suitable (e.g., 0- to 40-ml/min) rotameter to the outlet of the DGM, and place a vacuum gauge at or near the probe inlet. Plug the probe inlet, pull a vacuum of at least 250 mm (10 inch) Hg or the highest vacuum experienced during the sampling run, and note the flow rate as indicated by the rotameter. A leakage rate in excess of 2 percent of the average sampling rate is acceptable.
 Note: Carefully release the probe inlet plug before turning off the pump.
 8.1.3 Sample Collection. Record the initial DGM reading and barometric pressure. To begin sampling, position the tip of the Teflon ® tubing at the sampling point, connect the tubing to the impinger, and start the pump. Adjust the sample flow to a constant rate between 200 and 1000 ml/min as indicated by the rotameter. Maintain this constant rate (±10 percent) during the entire sampling run. Take readings (DGM, temperatures at DGM and at impinger outlet, and rate meter) at least every 5 minutes. Add more ice during the run to keep the temperature of the gases leaving the last impinger at 20 °C (68 °F) or less. At the conclusion of each run, turn off the pump, remove the Teflon ® tubing from the stack, and record the final readings. Conduct a leak check as in section 8.1.2. (This leak check is mandatory.) If a leak is found, void the test run or use procedures acceptable to the Administrator to adjust the sample volume for the leakage.
 8.2 Sample Recovery. The following items are required for sample recovery:
@@ -1900,6 +1900,7 @@ Note: Carefully release the probe inlet plug before turning off the pump.
 Section | Quality control measure | Effect
 8.1.2, 8.1.3, 10.1 | Sampling equipment leak check and calibration | Ensures accurate measurement of sample volume.
 10.2 | GC calibration | Ensures precision of GC analysis.
+13.0 | Methanol spike recovery check | Verifies all methanol in stack gas is being captured in impinge/adsorbent tube setup.
 10.0 Calibration and Standardization
 10.1 Metering System. The following items are required for the metering system:
 10.1.1 Initial Calibration.
@@ -1920,18 +1921,23 @@ Section | Quality control measure | Effect
 11.2 Impinger Sample. Inject 1 µl of the stored sample into the GC. Repeat the injection and average the results. If the sample response is above that of the highest calibration standard, either dilute the sample until it is in the measurement range of the calibration line or prepare additional calibration standards. If the sample response is below that of the lowest calibration standard, prepare additional calibration standards. If additional calibration standards are prepared, there shall be at least two that bracket the response of the sample. These standards should produce approximately 50 percent and 150 percent of the response of the sample.
 11.3 Silica Gel Adsorbent Sample. The following items are required for the silica gel adsorbent samples:
 11.3.1 Preparation of Samples. Extract the front and backup sections of the adsorbent tube separately. With a file, score the glass adsorbent tube in front of the first section of silica gel. Break the tube open. Remove and discard the glass wool. Transfer the first section of the silica gel to a 5-ml glass vial and stopper the vial. Remove the spacer between the first and second section of the adsorbent tube and discard it. Transfer the second section of silica gel to a separate 5-ml glass vial and stopper the vial.
-11.3.2 Desorption of Samples. Add 3 ml of the 10 percent n-propanol solution to each of the stoppered vials and shake or vibrate the vials for 30 minutes.
+11.3.2 Desorption of Samples. Add 3 ml of deionized distilled water to each of the stoppered vials and shake or vibrate the vials for 30 minutes.
 11.3.3 Inject a 1-µl aliquot of the diluted sample from each vial into the GC. Repeat the injection and average the results. If the sample response is above that of the highest calibration standard, either dilute the sample until it is in the measurement range of the calibration line or prepare additional calibration standards. If the sample response is below that of the lowest calibration standard, prepare additional calibration standards. If additional calibration standards are prepared, there shall be at least two that bracket the response of the sample. These standards should produce approximately 50 percent and 150 percent of the response of the sample.
 12.0 Data Analysis and Calculations
 12.1 Nomenclature.
 Caf = Concentration of methanol in the front of the adsorbent tube, µg/ml.
 Cab = Concentration of methanol in the back of the adsorbent tube, µg/ml.
-Ci = Concentration of methanol in the impinger portion of the sample train, µg/ml.
+Ci = Concentration of methanol in the impinger portion of the sample train,µg/ml.
 E = Mass emission rate of methanol, µg/hr (lb/hr).
+ms = Total mass of compound measured in impinger and on adsorbent with spiked train (mg).
+mu = Total mass of compound measured in impinger and on adsorbent with unspiked train (mg).
+mv = Mass per volume of spiked compound measured (mg/L).
 Mtot = Total mass of methanol collected in the sample train, µg.
 Pbar = Barometric pressure at the exit orifice of the DGM, mm Hg (in. Hg).
 Pstd = Standard absolute pressure, 760 mm Hg (29.92 in. Hg).
 Qstd = Dry volumetric stack gas flow rate corrected to standard conditions, dscm/hr (dscf/hr).
+R = fraction of spiked compound recovered
+s = theoretical concentration (ppm) of spiked target compound
 Tm = Average DGM absolute temperature, degrees K (°R).
 Tstd = Standard absolute temperature, 293 degrees K (528 °R).
 Vaf = Volume of front half adsorbent sample, ml.
@@ -1945,7 +1951,15 @@ ER15ap98.015
 ER15ap98.016
 12.4 Mass Emission Rate of Methanol. Calculate the mass emission rate of methanol using Equation 308-3.
 ER15ap98.017
-13.0 Method Performance [Reserved]
+12.5 Recovery Fraction (R)
+ER14NO18.064
+ER14NO18.065
+13.0 Method Performance
+Since a potential sample may contain a variety of compounds from various sources, a specific precision limit for the analysis of field samples is impractical. Precision in the range of 5 to 10 percent relative standard deviation (RSD) is typical for gas chromatographic techniques, but an experienced GC operator with a reliable instrument can readily achieve 5 percent RSD. For this method, the following combined GC/operator values are required.
+(a) Precision. Calibration standards must meet the requirements in section 10.2.1 or 10.2.2 as applicable.
+(b) Recovery. After developing an appropriate sampling and analytical system for the pollutants of interest, conduct the following spike recovery procedure at each sampling point where the method is being applied.
+i. Methanol Spike. Set up two identical sampling trains. Collocate the two sampling probes in the stack. The probes shall be placed in the same horizontal plane, where the first probe tip is 2.5 cm from the outside edge of the other. One of the sampling trains shall be designated the spiked train and the other the unspiked train. Spike methanol into the impinger, and onto the adsorbent tube in the spiked train prior to sampling. The total mass of methanol shall be 40 to 60 percent of the mass expected to be collected with the unspiked train. Sample the stack gas into the two trains simultaneously. Analyze the impingers and adsorbents from the two trains utilizing identical analytical procedures and instrumentation. Determine the fraction of spiked methanol recovered (R) by combining the amount recovered in the impinger and in the adsorbent tube, using the equations in section 12.5. Recovery values must fall in the range: 0.70 ≤ R ≤ 1.30. Report the R value in the test report.
+ii. [Reserved]
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
 16.0 Bibliography
@@ -4274,8 +4288,9 @@ Three types of testing can be performed: (1) Screening, (2) emissions test, and 
 8.2.2.2 For both the evacuated sample and purging techniques, pressurize the system to about 100 mmHg above atmospheric pressure. Isolate the pump and determine the change in pressure ΔPp after 2 minutes.
 8.2.2.3 Measure the barometric pressure, Pb in mmHg.
 8.2.2.4 Determine the percent leak volume %VL for the signal integration time tSS and for ΔPmax, i.e., the larger of ΔPv or ΔPp, as follows:
-ER14JN99.004
-where 50 = 100% divided by the leak-check time of 2 minutes.
+ER14NO18.066
+Where:
+50 = 100% divided by the leak-check time of 2 minutes.
 8.2.2.5 Leak volumes in excess of 4 percent of the FTIR system volume VSS are unacceptable.
 8.3 Detector Linearity. Once an optical configuration is chosen, use one of the procedures of sections 8.3.1 through 8.3.3 to verify that the detector response is linear. If the detector response is not linear, decrease the aperture, or attenuate the infrared beam. After a change in the instrument configuration perform a linearity check until it is demonstrated that the detector response is linear.
 8.3.1 Vary the power incident on the detector by modifying the aperture setting. Measure the background and CTS at three instrument aperture settings: (1) at the aperture setting to be used in the testing, (2) at one half this aperture and (3) at twice the proposed testing aperture. Compare the three CTS spectra. CTS band areas shall agree to within the uncertainty of the cylinder standard and the RMSD noise in the system. If test aperture is the maximum aperture, collect CTS spectrum at maximum aperture, then close the aperture to reduce the IR throughput by half. Collect a second background and CTS at the smaller aperture setting and compare the spectra again.
@@ -4310,10 +4325,9 @@ Use analyte spiking (sections 8.6.2, 9.2 and 13.0 of this method) to verify that
 Note: Use the rotameter at the end of the sampling train to estimate the required spike/tracer gas flow rate.
 Use a flow device, e.g., mass flow meter (# 2 percent), to monitor the spike flow rate. Record the spike flow rate every 10 minutes.
 9.2.2 Determine the response time (RT) of the system by continuously collecting spectra of the spiked effluent until the spectrum of the spiked component is constant for 5 minutes. The RT is the interval from the first measurement until the spike becomes constant. Wait for twice the duration of the RT, then collect spectra of two independent spiked gas samples. Duplicate analyses of the spiked concentration shall be within 5 percent of the mean of the two measurements.
-9.2.3 Calculate the dilution ratio using the tracer gas as follows: where:
-ER14JN99.005
-Where:
-ER14JN99.006
+9.2.3 Calculate the dilution ratio using the tracer gas as follows:
+ER14NO18.067
+ER14NO18.068
 DF = Dilution factor of the spike gas; this value shall be ≥10.
 SF6(dir) = SF6 (or tracer gas) concentration measured directly in undiluted spike gas.
 SF6(spk) = Diluted SF6 (or tracer gas) concentration measured in a spiked sample.
@@ -4988,7 +5002,7 @@ ER20AU10.010
 12.8 Formaldehyde Concentration in gas Stream
 ER20AU10.011
 12.9 Formaldehyde Concentration Corrected to 15% Oxygen
-ER20AU10.012
+ER14NO18.069
 13.0 Method Performance
 13.1 Precision. Based on a Method 301 validation using quad train arrangement with post sampling spiking study of the method at a natural gas-fired IC engine, the relative standard deviation of six pairs of unspiked samples was 11.2 percent at a mean stack gas concentration of 16.7 ppmvd.
 13.2 Bias. No bias correction is allowed. The single Method 301 validation study of the method at a natural gas-fired IC engine, indicated a bias correction factor of 0.91 for that set of data. An earlier spiking study got similar average percent spike recovery when spiking into a blank sample. This data set is too limited to justify using a bias correction factor for future tests at other sources.
@@ -5084,8 +5098,10 @@ Pre-deployment and planning steps are required before field deployment of passiv
 Note: In some instances, permanent air monitoring stations may already be located in close proximity to the facility. These stations may be operated and maintained by the site, or local or state regulatory agencies. If access to the station is possible, a PS may be deployed adjacent to other air monitoring instrumentation. A comparison of the pollutant concentrations measured with the PS to concentrations measured by site instrumentation may be used as an optional data quality indicator to assess the accuracy of PS results.
 8.2.1.1 The monitoring perimeter may be located between the property boundary and any potential emission source near the property boundary, as long as the distance from the source to the monitoring perimeter is at least 50 meters (162 feet). If a potential emissions source is within 50 meters (162 feet) of the property boundary, the property boundary shall be used as the monitoring perimeter near that source.
 8.2.1.2 Samplers need only be placed around the monitoring perimeter and not along internal roads or other right of ways that may bisect the facility.
-8.2.1.3 Extra samplers must be placed near known sources of VOCs if the potential emission source is within 50 meters (162 feet) of the boundary and the source location is between two monitors. Measure the distance (x) between the two monitors and place another monitor halfway between (x/2) the two monitors. For example, in Figure 8.1, the facility added three additional monitors (i.e., light shaded sampler locations) and in Figure 8.2, the facility added two additional monitors to provide sufficient coverage of all area sources.
-ER01DE15.026
+8.2.1.3 An extra sampler must be placed near known sources of VOCs if potential emission sources are within 50 meters (162 feet) of the boundary and the source or sources are located between two monitors. Measure the distance (x) between the two monitors and place another monitor approximately halfway between (x/2 ±10 percent) the two monitors. Only one extra sampler is required between two monitors to account for known sources of VOCs. For example, in Figure 8.1, the facility added three additional monitors (i.e., light shaded sampler locations), and in Figure 8.2, the facility added two additional monitors to provide sufficient coverage of all area sources.
+Figure 8.1. Facility with a Regular Shape Between 750 and 1,500 Acres in Area
+ER14NO18.070
+ER01DE15a.026
 8.2.2 Option 1 for Determining Sampling Locations.
 8.2.2.1 For facilities with a regular (circular, triangular, rectangular, or square) shape, determine the geographic center of the facility.
 8.2.2.1.1 For facilities with an area of less than or equal to 750 acres, measure angles of 30 degrees from the center point for a total of twelve 30 degree measurements evenly spaced (±1 degree).
@@ -5102,7 +5118,8 @@ ER01DE15.027
 ER01DE15.028
 8.2.3 Option 2 for Determining Sampling Locations.
 8.2.3.1 For facilities with a monitoring perimeter length of less than 7,315 meters (24,000 feet), a minimum of twelve sampling locations evenly spaced ±10 percent of the location interval is required.
-8.2.3.2 For facilities with a monitoring perimeter length greater than 7,315 meters (24,000 feet), sampling locations are spaced 610 ±76 meters (2,000 ±250 feet) apart.
+8.2.3.2 For facilities with a monitoring perimeter length greater than or equal to 7,315 meters (24,000 feet), sampling locations are spaced 610 ± 76 meters (2,000 ± 250 feet) apart.
+8.2.3.3 Unless otherwise specified in an applicable regulation, permit or other requirement, for small disconnected subareas with known sources within 50 meters (162 feet) of the monitoring perimeter, sampling points need not be placed closer than 152 meters (500 feet) apart as long as a minimum of 3 monitoring locations are used for each subarea.
 8.3 Siting a Meteorological Station
 A meteorological station is required at or near the facility you are monitoring. A number of commercially available meteorological stations can be used. Information on meteorological instruments can be found in EPA-454/R-99-005 (Reference 11) (incorporated by reference—see § 63.14). Some important considerations for siting of meteorological stations are detailed below.
 8.3.1 Place meteorological stations in locations that represent conditions affecting the transport and dispersion of pollutants in the area of interest. Complex terrain may require the use of more than one meteorological station.
@@ -5113,6 +5130,7 @@ A meteorological station is required at or near the facility you are monitoring.
 8.4 Monitoring Frequency
 8.4.1 Sample collection may be performed for periods up to 14 days.
 8.4.2 A site screening protocol that meets method requirements may be performed by collecting samples for a year where each PS accumulates VOC for a 14-day sampling period. Study results are accumulated for the sampling periods (typically 26) over the course of one calendar year. To the extent practical, sampling tubes should be changed at approximately the same time of day at each of the monitoring sites.
+8.4.3 When extenuating circumstances do not permit safe deployment or retrieval of passive samplers (e.g., extreme weather, power failure), sampler placement or retrieval earlier or later than the prescribed schedule is allowed but must occur as soon as safe access to sampling sites is possible.
 8.5 Passive Sampler Deployment
 8.5.1 Clean (conditioned) sorbent tubes must be prepared and packaged by the laboratory as described in Method 325B and must be deployed for sampling within 30 days of conditioning.
 8.5.2 Allow the tubes to equilibrate with ambient temperature (approximately 30 minutes to 1 hour) at the monitoring location before removing them from their storage/shipping container for sample collection.
@@ -5342,7 +5360,7 @@ The analytical system must be demonstrated to be contaminant free by performing 
 9.2.3 If unacceptable levels of VOCs are observed in the tube blanks, then the processes of tube conditioning and checking the blanks must be repeated.
 9.3 Field Blanks
 9.3.1 Field blank tubes must be prepared from tubes that are identical to those used for field sampling—i.e., they should be from the same batch, have a similar history, and be conditioned at the same time.
-9.3.2 Field blanks must be shipped to the monitoring site with the sampling tubes and must be stored at the sampling location throughout the monitoring exercise. The field blanks must be installed under a protective hood/cover at the sampling location, but the long-term storage caps must remain in place throughout the monitoring period (see Method 325A). The field blanks are then shipped back to the laboratory in the same container as the sampled tubes. One field blank tube is required for every 10 sampled tubes on a monitoring exercise and no less than two field blanks should be collected, regardless of the size of the monitoring study.
+9.3.2 Field blanks must be shipped to the monitoring site with the sampling tubes and must be stored at the sampling location throughout the monitoring exercise. The field blanks must be installed under a protective hood/cover at the sampling location, but the long-term storage caps must remain in place throughout the monitoring period (see Method 325A). The field blanks are then shipped back to the laboratory in the same container as the sampled tubes. Collect at least two field blank samples per sampling period to ensure sample integrity associated with shipment, collection, and storage.
 9.3.3 Field blanks must contain no greater than one-third of the measured target analyte or compliance limit for field samples (see Table 17.1). If either field blank fails, flag all data that do not meet this criterion with a note that the associated results are estimated and likely to be biased high due to field blank background.
 9.4 Duplicate Samples
 Duplicate (co-located) samples collected must be analyzed and reported as part of method quality control. They are used to evaluate sampling and analysis precision. Relevant performance criteria are given in Section 9.9.
@@ -5396,7 +5414,7 @@ Target mass | Rel. to mass | Lower limit % | Upper limit %
 177 | 176 | 5 | 9
 1 All ion abundances must be normalized to m/z 95, the nominal base peak, even though the ion abundance of m/z 174 may be up to 120 percent that of m/z 95.
 9.13 Routine CCV at the Start of a Sequence
-Run CCV before each sequence of analyses and after every tenth sample to ensure that the previous multi-level calibration (see Section 10.6.3) is still valid.
+9.13 Run CCV before each sequence of analyses and after every tenth sample to ensure that the previous multi-level calibration (see section 10.0) is still valid.
 9.13.1 The sample concentration used for the CCV should be near the mid-point of the multi-level calibration range.
 9.13.2 Quantitation software must be updated with response factors determined from the CCV standard. The percent deviation between the initial calibration and the CCV for all compounds must be within 30 percent.
 9.14 CCV at the End of a Sequence
@@ -5515,7 +5533,7 @@ Note: Typical trap desorption temperatures are in the range 250-360 °C, with a 
 11.3.2.2 If using a GC/MS system, it can be operated in either MS-Scan or MS-SIM mode (depending on required sensitivity levels and the type of mass spectrometer selected). As soon as trap desorption and transfer of analytes into the GC column triggers the start of the GC/MS analysis, collect mass spectral data over a range of masses from 35 to 300 amu. Collect at least 10 data points per eluting chromatographic peak in order to adequately integrate and quantify target compounds.
 11.3.2.3 Use secondary ion quantitation only when there are sample matrix interferences with the primary ion. If secondary ion quantitation is performed, flag the data and document the reasons for the alternative quantitation procedure.
 11.3.2.4 Data reduction is performed by the instruments post processing program that is automatically accessed after data acquisition is completed at the end of the GC run. The concentration of each target compound is calculated using the previously established response factors for the CCV analyzed in Section 11.1.1.6.
-11.3.2.5 Whenever the thermal desorption—GC/MS analytical method is changed or major equipment maintenance is performed, you must conduct a new five-level calibration (see Section 10.6.3). System calibration remains valid as long as results from subsequent CCV are within 30 percent of the most recent 5-point calibration (see Section 10.9.5). Include relevant CCV data in the supporting information in the data report for each set of samples.
+11.3.2.5 Whenever the thermal desorption—GC/MS analytical method is changed or major equipment maintenance is performed, you must conduct a new five-level calibration (see section 10.0). System calibration remains valid as long as results from subsequent CCV are within 30 percent of the most recent 5-point calibration (see section 9.13). Include relevant CCV data in the supporting information in the data report for each set of samples.
 11.3.2.6 Document, flag and explain all sample results that exceed the calibration range. Report flags and provide documentation in the analytical results for the affected sample(s).
 12.0 Data Analysis, Calculations, and Reporting
 12.1 Recordkeeping Procedures for Sorbent Tubes
@@ -5552,21 +5570,14 @@ RF = Mean RF for each compound from the initial calibration.
 ER01DE15.038
 Where:
 R1, R2 = Values that are being compared (i.e., response factors in CCV).
-12.2.2 Determine the equivalent concentration of compounds in atmospheres as follows.
-12.2.3 Correct target concentrations determined at the sampling site temperature and atmospheric pressure to standard conditions (25 °C and 760 mm mercury) using Equation 12.5 (Reference 21).
-ER01DE15.039
+12.2.2 Determine the equivalent concentrations of compounds in atmospheres as follows. Correct target compound concentrations determined at the sampling site temperature and atmospheric pressure to standard conditions (25 °C and 760 mm mercury) using Equation 12.5.
+ER14NO18.071
 Where:
-tss = The average temperature during the collection period at the sampling site (K).
-Pss = The average pressure at the sampling site during the collection period (mm Hg).
-U = The diffusive uptake rate (sampling rate) (mL/min).
-12.2.4 For passive sorbent tube samples, calculate the concentration of the target compound(s) in the sampled air, in µg/m3 by using Equation 12.6 (Reference 22).
-ER01DE15.040
-Where:
-Cm = The concentration of target compound in the air sampled (µg/m3).
 mmeas = The mass of the compound as measured in the sorbent tube (µg).
-UNTP = The diffusive uptake rate corrected for local conditions (sampling rate) (mL/min).
 t = The exposure time (minutes).
-Note: Diffusive uptake rates for common VOCs, using carbon sorbents packed into sorbent tubes of the dimensions specified in Section 6.1, are listed in Table 12.1. Adjust analytical conditions to keep expected sampled masses within range (see Sections 11.3.1.3 to 11.3.1.5). Best possible method detection limits are typically in the order of 0.1 ppb for 1,3-butadiene and 0.05 ppb for volatile aromatics such as benzene for 14-day monitoring. However, actual detection limits will depend upon the analytical conditions selected.
+tss = The average temperature during the collection period at the sampling site (K).
+UNTP = The method defined diffusive uptake rate (sampling rate) (mL/min).
+Note: Diffusive uptake rates (UNTP) for common VOCs, using carbon sorbents packed into sorbent tubes of the dimensions specified in section 6.1, are listed in Table 12.1. Adjust analytical conditions to keep expected sampled masses within range (see sections 11.3.1.3 to 11.3.1.5). Best possible method detection limits are typically in the order of 0.1 ppb for 1,3-butadiene and 0.05 ppb for volatile aromatics such as benzene for 14-day monitoring. However, actual detection limits will depend upon the analytical conditions selected.
 Table 12.1—Validated Sorbents and Uptake Rates (mL/min) for Selected Clean Air Act Compounds
 Compound | CarbopackTM Xa | CarbographTM1TD | CarbopackTM B
 1,1-Dichloroethene | 0.57 ±0.14 | not available | not available.
@@ -5630,15 +5641,16 @@ Dispose of expired calibration solutions as hazardous materials. Exercise standa
 23. Martin, http://www.hsl.gov.uk/media/1619/issue14.pdf.
 24. BS EN 14662-4:2005, Ambient air quality—Standard method for the measurement of benzene concentrations—Part 4: Diffusive sampling followed by thermal desorption and gas chromatography.
 25. ISO 16017-2:2003(E): Indoor, ambient and workplace air—Sampling and analysis of volatile organic compounds by sorbent tube/thermal desorption/capillary gas chromatography—Part 2: Diffusive sampling.
-17.0 Tables, Diagrams, Flowcharts and Validation Data
+17.0 Tables, Diagrams, Flowcharts and Validation Data>
 Table 17.1—Summary of GC/MS Analysis Quality Control Procedures
 Parameter | Frequency | Acceptance criteria | Corrective action
-Bromofluorobenzene Instrument Tune Performance Check | Dailya prior to sample analysis | Evaluation criteria presented in Section 9.5 and Table 9.2 | (1) Retune and or(2) Perform Maintenance.
+Bromofluorobenzene Instrument Tune Performance Check | Daily a prior to sample analysis | Evaluation criteria presented in Section 9.5 and Table 9.2 | (1) Retune and or(2) Perform Maintenance.
 Five point calibration bracketing the expected sample concentration | Following any major change, repair or maintenance or if daily CCV does not meet method requirements. Recalibration not to exceed three months | (1) Percent Deviation (%DEV) of response factors ±30%(2) Relative Retention Times (RRTs) for target peaks ±0.06 units from mean RRT | (1) Repeat calibration sample analysis.(2) Repeat linearity check. (3) Prepare new calibration standards as necessary and repeat analysis.
 Calibration Verification (CCV Second source calibration verification check) | Following the calibration curve | The response factor ±30% DEV from calibration curve average response factor | (1) Repeat calibration check.(2) Repeat calibration curve.
-Laboratory Blank Analysis | Daily a following bromofluoro- benzene and calibration check; prior to sample analysis | (1) ≤0.2 ppbv per analyte or ≤3 times the LOD, whichever is greater(2) Internal Standard (IS) area response ±40% and IS Retention Time (RT) ±0.33 min. of most recent calibration check | (1) Repeat analysis with new blank tube.(2) Check system for leaks, contamination. 3) Analyze additional blank.
-Blank Sorbent Tube Certification | One tube analyzed for each batch of tubes cleaned or 10 percent of tubes whichever is greater | <0.2 ppbv per VOC targeted compound or 3 times the LOD, whichever is greater | Reclean all tubes in batch and reanalyze.
+Laboratory Blank Analysis | Daily a following bromofluoro benzene and calibration check; prior to sample analysis | (1) ≤0.2 ppbv per analyte or ≤3 times the LOD, whichever is greater(2) Internal Standard (IS) area response ±40% and IS Retention Time (RT) ±0.33 min. of most recent calibration check | (1) Repeat analysis with new blank tube.(2) Check system for leaks, contamination. (3) Analyze additional blank.
+Blank Sorbent Tube Certification | One tube analyzed for each batch of tubes cleaned or 10 percent of tubes whichever is greater | <0.2 ppbv per VOC targeted compound or 3 times the LOD, whichever is greater | Re-clean all tubes in batch and reanalyze.
 Samples—Internal Standards | All samples | IS area response ±40% and IS RT ±0.33 min. of most recent calibration validation | Flag Data for possible invalidation.
+Field Blanks | Two per sampling period | No greater than one-third of the measured target analyte or compliance limit | Flag Data for possible invalidation due to high blank bias.
 a Every 24 hours.
 ER01DE15.041
 ER01DE15.042
@@ -5781,3 +5793,202 @@ A.15 Waste Management
 Expired calibration solutions should be disposed of as hazardous materials.
 A.16 References
 1. ISO TC 146/SC 02 N 361 Workplace atmospheres—Protocol for evaluating the performance of diffusive samplers.
+Method 326—Method for Determination of Isocyanates in Stationary Source Emissions
+1.0 Scope and Application
+This method is applicable to the collection and analysis of isocyanate compounds from the emissions associated with manufacturing processes. This method is not inclusive with respect to specifications (e.g., equipment and supplies) and sampling procedures essential to its performance. Some material is incorporated by reference from other EPA methods. Therefore, to obtain reliable results, persons using this method should have a thorough knowledge of at least Method 1, Method 2, Method 3, and Method 5 found in Appendices A-1, A-2, and A-3 in Part 60 of this title.
+1.1 Analytes. This method is designed to determine the mass emission of isocyanates being emitted from manufacturing processes. The following is a table (Table 1-1) of the isocyanates and the manufacturing process at which the method has been evaluated:
+Table 326-1—Analytes
+Compound's name | CAS No. | Detection limit (ng/m3) a | Manufacturing process
+2,4-Toluene Diisocyanate (TDI) | 584-84-9 | 106 | Flexible Foam Production.
+1,6-Hexamethylene Diisocyanate (HDI) | 822-06-0 | 396 | Paint Spray Booth.
+Methylene Diphenyl Diisocyanate (MDI) | 101-68-8 | 112 | Pressed Board Production.
+Methyl Isocyanate (MI) | 624-83-0 | 228 | Not used in production.
+a Estimated detection limits are based on a sample volume of 1 m3 and a 10-ml sample extraction volume.
+1.2 Applicability. Method 326 is a method designed for determining compliance with National Emission Standards for Hazardous Air Pollutants (NESHAP). Method 326 may also be specified by New Source Performance Standards (NSPS), State Implementation Plans (SIPs), and operating permits that require measurement of isocyanates in stationary source emissions, to determine compliance with an applicable emission standard or limit.
+1.3 Data Quality Objectives (DQO). The principal objective is to ensure the accuracy of the data at the actual emissions levels and in the actual emissions matrix encountered. To meet this objective, method performance tests are required and NIST-traceable calibration standards must be used.
+2.0 Summary of Method
+2.1 Gaseous and/or aerosol isocyanates are withdrawn from an emission source at an isokinetic sampling rate and are collected in a multicomponent sampling train. The primary components of the train include a heated probe, three impingers containing derivatizing reagent in toluene, an empty impinger, an impinger containing charcoal, and an impinger containing silica gel.
+2.2 The liquid impinger contents are recovered, concentrated to dryness under vacuum, brought to volume with acetonitrile (ACN) and analyzed with a high pressure liquid chromatograph (HPLC).
+3.0 Definitions [Reserved]
+4.0 Interferences
+4.1 The greatest potential for interference comes from an impurity in the derivatizing reagent, 1-(2-pyridyl)piperazine (1,2-PP). This compound may interfere with the resolution of MI from the peak attributed to unreacted 1,2-PP.
+4.2 Other interferences that could result in positive or negative bias are (1) alcohols that could compete with the 1,2-PP for reaction with an isocyanate and (2) other compounds that may co-elute with one or more of the derivatized isocyanates.
+4.3 Method interferences may be caused by contaminants in solvents, reagents, glassware, and other sample processing hardware. All these materials must be routinely shown to be free from interferences under conditions of the analysis by preparing and analyzing laboratory method (or reagent) blanks.
+4.3.1 Glassware must be cleaned thoroughly before using. The glassware should be washed with laboratory detergent in hot water followed by rinsing with tap water and distilled water. The glassware may be dried by baking in a glassware oven at 400 °C for at least one hour. After the glassware has cooled, it should be rinsed three times with methylene chloride and three times with acetonitrile. Volumetric glassware should not be heated to 400 °C. Instead, after washing and rinsing, volumetric glassware may be rinsed with acetonitrile followed by methylene chloride and allowed to dry in air.
+4.3.2 The use of high purity reagents and solvents helps to reduce interference problems in sample analysis.
+5.0 Safety
+5.1 Organizations performing this method are responsible for maintaining a current awareness file of Occupational Safety and Health Administration (OSHA) regulations regarding safe handling of the chemicals specified in this method. A reference file of material safety data sheets should also be made available to all personnel involved in performing the method. Additional references to laboratory safety are available.
+6.0 Equipment and Supplies
+6.1 Sample Collection. A schematic of the sampling train used in this method is shown in Figure 207-1. This sampling train configuration is adapted from Method 5 procedures, and, as such, most of the required equipment is identical to that used in Method 5 determinations. The only new component required is a condenser.
+6.1.1 Probe Nozzle. Borosilicate or quartz glass; constructed and calibrated according to Method 5, sections 6.1.1.1 and 10.1, and coupled to the probe liner using a Teflon union; a stainless steel nut is recommended for this union. When the stack temperature exceeds 210 °C (410 °F), a one-piece glass nozzle/liner assembly must be used.
+6.1.2 Probe Liner. Same as Method 5, section 6.1.1.2, except metal liners shall not be used. Water-cooling of the stainless steel sheath is recommended at temperatures exceeding 500 °C (932 °F). Teflon may be used in limited applications where the minimum stack temperature exceeds 120 °C (250 °F) but never exceeds the temperature where Teflon is estimated to become unstable [approximately 210 °C (410 °F)].
+6.1.3 Pitot Tube, Differential Pressure Gauge, Filter Heating System, Metering System, Barometer, Gas Density Determination Equipment. Same as Method 5, sections 6.1.1.3, 6.1.1.4, 6.1.1.6, 6.1.1.9, 6.1.2, and 6.1.3.
+6.1.4 Impinger Train. Glass impingers are connected in series with leak-free ground-glass joints following immediately after the heated probe. The first impinger shall be of the Greenburg-Smith design with the standard tip. The remaining five impingers shall be of the modified Greenburg-Smith design, modified by replacing the tip with a 1.3-cm (1/2-in.) I.D. glass tube extending about 1.3 cm (1/2 in.) from the bottom of the outer cylinder. A water-jacketed condenser is placed between the outlet of the first impinger and the inlet to the second impinger to reduce the evaporation of toluene from the first impinger.
+6.1.5 Moisture Measurement. For the purpose of calculating volumetric flow rate and isokinetic sampling, you must also collect either Method 4 in Appendix A-3 to this part or other moisture measurement methods approved by the Administrator concurrent with each Method 326 test run.
+6.2 Sample Recovery
+6.2.1 Probe and Nozzle Brushes; Polytetrafluoroethylene (PTFE) bristle brushes with stainless steel wire or PTFE handles are required. The probe brush shall have extensions constructed of stainless steel, PTFE, or inert material at least as long as the probe. The brushes shall be properly sized and shaped to brush out the probe liner and the probe nozzle.
+6.2.2 Wash Bottles. Three. PTFE or glass wash bottles are recommended; polyethylene wash bottles must not be used because organic contaminants may be extracted by exposure to organic solvents used for sample recovery.
+6.2.3 Glass Sample Storage Containers. Chemically resistant, borosilicate amber glass bottles, 500-mL or 1,000-mL. Bottles should be tinted to prevent the action of light on the sample. Screw-cap liners shall be either PTFE or constructed to be leak-free and resistant to chemical attack by organic recovery solvents. Narrow-mouth glass bottles have been found to leak less frequently.
+6.2.4 Graduated Cylinder. To measure impinger contents to the nearest 1 ml or 1 g. Graduated cylinders shall have subdivisions not >2 mL.
+6.2.5 Plastic Storage Containers. Screw-cap polypropylene or polyethylene containers to store silica gel and charcoal.
+6.2.6 Funnel and Rubber Policeman. To aid in transfer of silica gel or charcoal to container (not necessary if silica gel is weighed in field).
+6.2.7 Funnels. Glass, to aid in sample recovery.
+6.3 Sample Preparation and Analysis.
+The following items are required for sample analysis.
+6.3.1 Rotary Evaporator. Buchii Model EL-130 or equivalent.
+6.3.2 1000 ml Round Bottom Flask for use with a rotary evaporator.
+6.3.3 Separatory Funnel. 500-ml or larger, with PTFE stopcock.
+6.3.4 Glass Funnel. Short-stemmed or equivalent.
+6.3.5 Vials. 15-ml capacity with PTFE lined caps.
+6.3.6 Class A Volumetric Flasks. 10-ml for bringing samples to volume after concentration.
+6.3.7 Filter Paper. Qualitative grade or equivalent.
+6.3.8 Buchner Funnel. Porcelain with 100 mm ID or equivalent.
+6.3.9 Erlenmeyer Flask. 500-ml with side arm and vacuum source.
+6.3.10 HPLC with at least a binary pumping system capable of a programmed gradient.
+6.3.11 Column Systems Column systems used to measure isocyanates must be capable of achieving separation of the target compounds from the nearest eluting compound or interferents with no more than 10 percent peak overlap.
+6.3.12 Detector. UV detector at 254 nm. A fluorescence detector (FD) with an excitation of 240 nm and an emission at 370 nm may be also used to allow the detection of low concentrations of isocyanates in samples.
+6.3.13 Data system for measuring peak areas and retention times.
+7.0 Reagents and Standards
+7.1 Sample Collection Reagents.
+7.1.1 Charcoal. Activated, 6-16 mesh. Used to absorb toluene vapors and prevent them from entering the metering device. Use once with each train and discard.
+7.1.2 Silica Gel and Crushed Ice. Same as Method 5, sections 7.1.2 and 7.1.4 respectively
+7.1.3 Impinger Solution. The impinger solution is prepared by mixing a known amount of 1-(2-pyridyl) piperazine (purity 99.5+%) in toluene (HPLC grade or equivalent). The actual concentration of 1,2-PP should be approximately four times the amount needed to ensure that the capacity of the derivatizing solution is not exceeded. This amount shall be calculated from the stoichiometric relationship between 1,2-PP and the isocyanate of interest and preliminary information about the concentration of the isocyanate in the stack emissions. A concentration of 130 µg/ml of 1,2-PP in toluene can be used as a reference point. This solution shall be prepared, stored in a refrigerated area away from light, and used within ten days of preparation.
+7.2 Sample Recovery Reagents.
+7.2.1 Toluene. HPLC grade is required for sample recovery and cleanup (see Note to 7.2.2 below).
+7.2.2 Acetonitrile. HPLC grade is required for sample recovery and cleanup. Note: Organic solvents stored in metal containers may have a high residue blank and should not be used. Sometimes suppliers transfer solvents from metal to glass bottles; thus blanks shall be run before field use and only solvents with a low blank value should be used.
+7.3 Analysis Reagents. Reagent grade chemicals should be used in all tests. All reagents shall conform to the specifications of the Committee on Analytical Reagents of the American Chemical Society, where such specifications are available.
+7.3.1 Toluene, C6H5CH3. HPLC Grade or equivalent.
+7.3.2 Acetonitrile, CH3CN (ACN). HPLC Grade or equivalent.
+7.3.3 Methylene Chloride, CH2Cl2. HPLC Grade or equivalent.
+7.3.4 Hexane, C6H14. HPLC Grade or equivalent.
+7.3.5 Water, H2O. HPLC Grade or equivalent.
+7.3.6 Ammonium Acetate, CH3CO2NH4.
+7.3.7 Acetic Acid (glacial), CH3CO2H.
+7.3.8 1-(2-Pyridyl)piperazine, (1,2-PP), ≥99.5% or equivalent.
+7.3.9 Absorption Solution. Prepare a solution of 1-(2-pyridyl)piperazine in toluene at a concentration of 40 mg/300 ml. This solution is used for method blanks and method spikes.
+7.3.10 Ammonium Acetate Buffer Solution (AAB). Prepare a solution of ammonium acetate in water at a concentration of 0.1 M by transferring 7.705 g of ammonium acetate to a 1,000 ml volumetric flask and diluting to volume with HPLC Grade water. Adjust pH to 6.2 with glacial acetic acid.
+8.0 Sample Collection, Storage and Transport
+Note: Because of the complexity of this method, field personnel should be trained in and experienced with the test procedures in order to obtain reliable results.
+8.1 Sampling
+8.1.1 Preliminary Field Determinations. Same as Method 5, section 8.2.
+8.1.2 Preparation of Sampling Train. Follow the general procedure given in Method 5, section 8.3.1, except for the following variations: Place 300 ml of the impinger absorbing solution in the first impinger and 200 ml each in the second and third impingers. The fourth impinger shall remain empty. The fifth and sixth impingers shall have 400 g of charcoal and 200-300 g of silica gel, respectively. Alternatively, the charcoal and silica gel may be combined in the fifth impinger. Set-up the train as in Figure 326-1. During assembly, do not use any silicone grease on ground-glass joints.
+Note: During preparation and assembly of the sampling train, keep all openings where contamination can occur covered with PTFE film or aluminum foil until just before assembly or until sampling is about to begin.
+8.1.3 Leak-Check Procedures. Follow the leak-check procedures given in Method 5, sections 8.4.2 (Pretest Leak-Check), 8.4.3 (Leak-Checks During the Sample Run), and 8.4.4 (Post-Test Leak-Check), with the exception that the pre-test leak-check is mandatory
+8.1.4 Sampling Train Operation. Follow the general procedures given in Method 5, section 8.5. Turn on the condenser coil coolant recirculating pump and monitor the gas entry temperature. Ensure proper gas entry temperature before proceeding and again before any sampling is initiated. It is important that the gas entry temperature not exceed 50 °C (122 °F), thus reducing the loss of toluene from the first impinger. For each run, record the data required on a data sheet such as the one shown in Method 5, Figure 5-3.
+8.2 Sample Recovery. Allow the probe to cool. When the probe can be handled safely, wipe off all external particulate matter near the tip of the probe nozzle and place a cap over the tip to prevent losing or gaining particulate matter. Do not cap the probe tip tightly while the sampling train is cooling down because this will create a vacuum in the train. Before moving the sample train to the cleanup site, remove the probe from the sample train and cap the opening to the probe, being careful not to lose any condensate that might be present. Cap the impingers and transfer the probe and the impinger/condenser assembly to the cleanup area. This area should be clean and protected from the weather to reduce sample contamination or loss. Inspect the train prior to and during disassembly and record any abnormal conditions. It is not necessary to measure the volume of the impingers for the purpose of moisture determination as the method is not validated for moisture determination. Treat samples as follows:
+8.2.1 Container No. 1, Probe and Impinger Numbers 1 and 2. Rinse and brush the probe/nozzle first with toluene twice and then twice again with acetonitrile and place the wash into a glass container labeled with the test run identification and "Container No. 1." When using these solvents ensure that proper ventilation is available. Quantitatively transfer the liquid from the first two impingers and the condenser into Container No. 1. Rinse the impingers and all connecting glassware twice with toluene and then twice again with acetonitrile and transfer the rinses into Container No. 1. After all components have been collected in the container, seal the container, and mark the liquid level on the bottle.
+8.2.2 Container No. 2, Impingers 3 and 4. Quantitatively transfer the liquid from each impinger into a glass container labeled with the test run identification and "Container No. 2." Rinse each impinger and all connecting glassware twice with toluene and twice again with acetonitrile and transfer the rinses into Container No. 2. After all components have been collected in the container, seal the container, and mark the liquid level on the bottle.
+Note: The contents of the fifth and sixth impinger (silica gel) can be discarded.
+8.2.3 Container No. 3, Reagent Blank. Save a portion of both washing solutions (toluene/acetonitrile) used for the cleanup as a blank. Transfer 200 ml of each solution directly from the wash bottle being used and combine in a glass sample container with the test identification and "Container No. 3." Seal the container, and mark the liquid level on the bottle and add the proper label.
+8.2.4 Field Train Proof Blanks. To demonstrate the cleanliness of sampling train glassware, you must prepare a full sampling train to serve as a field train proof blank just as it would be prepared for sampling. At a minimum, one complete sampling train will be assembled in the field staging area, taken to the sampling area, and leak-checked. The probe of the blank train shall be heated during and the train will be recovered as if it were an actual test sample. No gaseous sample will be passed through the sampling train. Field blanks are recovered in the same manner as described in sections 8.2.1 and 8.2.2 and must be submitted with the field samples collected at each sampling site.
+8.2.5 Field Train Spike. To demonstrate the effectiveness of the sampling train, field handling, and recovery procedures you must prepare a full sampling train to serve as a field train spike just as it would be prepared for sampling. The field spike is performed in the same manner as the field train proof blank with the additional step of adding the Field Spike Solution to the first impinger after the initial leak check. The train will be recovered as if it were an actual test sample. No gaseous sample will be passed through the sampling train. Field train spikes are recovered in the same manner as described in sections 8.2.1 and 8.2.2 and must be submitted with the samples collected for each test program.
+8.3 Sample Transport Procedures. Containers must remain in an upright position at all times during shipment. Samples must also be stored at <4 °C between the time of sampling and concentration. Each sample should be extracted and concentrated within 30 days after collection and analyzed within 30 days after extraction. The extracted sample must be stored at 4 °C.
+8.4 Sample Custody. Proper procedures and documentation for sample chain of custody are critical to ensuring data integrity. The chain of custody procedures in ASTM D4840-99 (Reapproved 2018) e "Standard Guide for Sampling Chain-of-Custody Procedures" (incorporated by reference, see § 63.14) shall be followed for all samples (including field samples and blanks).
+9.0 Quality Control
+9.1 Sampling. Sampling Operations. The sampling quality control procedures and acceptance criteria are listed in Table 326-2 below; see also section 9.0 of Method 5.
+9.2 Analysis. The analytical quality control procedures required for this method includes the analysis of the field train proof blank, field train spike, and reagent and method blanks. Analytical quality control procedures and acceptance criteria are listed in Table 326-3 below.
+9.2.1 Check for Breakthrough. Recover and determine the isocyanate(s) concentration of the last two impingers separately from the first two impingers.
+9.2.2 Field Train Proof Blank. Field blanks must be submitted with the samples collected at each sampling site.
+9.2.3 Reagent Blank and Field Train Spike. At least one reagent blank and a field train spike must be submitted with the samples collected for each test program.
+9.2.4 Determination of Method Detection Limit. Based on your instrument's sensitivity and linearity, determine the calibration concentrations or masses that make up a representative low level calibration range. The MDL must be determined at least annually for the analytical system using an MDL study such as that found in section 15.0 to Method 301 of appendix A to part 63 of this chapter.
+Table 326-2—Sampling Quality Assurance and Quality Control
+QA/QC criteria | Acceptance criteria | Frequency | Consequence if not met
+Sampling Equipment Leak Checks | ≤0.00057 m3/min (0.020 cfm) or 4% of sampling rate, whichever is less | Prior to, during (optional) and at the completion to sampling | Prior to: Repair and repeat calibration. During/Completion: None, testing should be considered invalid.
+Dry Gas Meter Calibration—Pre-Test (individual correction factor—Yi) | within ±2% of average factor (individual) | Pre-test | Repeat calibration point.
+Dry Gas Meter Calibration—Pre-Test (average correction factor—Yc) | 1.00 ±1% | Pre-test | Adjust the dry gas meter and recalibrate.
+Dry Gas Meter Calibration—Post-test | Average dry gas meter calibration factor agrees with ±5% Yc | Each Test | Adjust sample volumes using the factor that gives the smallest volume.
+Temperature sensor calibration | Absolute temperature measures by sensor within ±1.5% of a reference sensor | Prior to initial use and before each test thereafter | Recalibrate; sensor may not be used until specification is met.
+Barometer calibration | Absolute pressure measured by instrument within ±10 mm Hg of reading with a mercury barometer or NIST traceable barometer | Prior to initial use and before each test thereafter | Recalibrate; instrument may not be used until specification is met.
+Table 326-3—Analytical Quality Assurance and Quality Control
+QA/QC criteria | Acceptance criteria | Frequency | Consequence if not met
+Calibration—Method Blanks | <5% level of expected analyte | Each analytical method blank | Locate source of contamination; reanalyze.
+Calibration—Calibration Points | At least six calibration point bracketing the expected range of analysis | Each analytical batch | Incorporate additional calibration points to meet criteria.
+Calibration—Linearity | Correlation coefficient >0.995 | Each analytical batch | Verify integration, reintegrate. If necessary, recalibrate.
+Calibration—secondary standard verification | Within ±10% of true value | After each calibration | Repeat secondary standard verification, recalibrate if necessary.
+Calibration—continual calibration verification | Within ±10% of true value | Daily and after every ten samples | Invalidate previous ten sample analysis, recalibrate and repeat calibration, reanalyze samples until successful.
+Sample Analysis | Within the valid calibration range | Each sample | Invalidate the sample if greater than the calibration range and dilute the sample so that it is within the calibration range. Appropriately flag any value below the calibration range.
+Replicate Samples | Within ±10% of RPD | Each sample | Evaluate integrations and repeat sample analysis as necessary.
+Field Train Proof Blank | ≤10% level of expected analyte | Each test program | Evaluate source of contamination.
+Field Train Spike | Within ±30% of true value | Each test program | Evaluate performance of the method and consider invalidating results.
+Breakthrough | Final two impingers Mass collected is >5% of the total mass or >20% of the total mass when the measured results are 20% of the applicable standard. Alternatively, there is no breakthrough requirement when the measured results are 10% of the applicable standard | Each test run | Invalidate test run.
+10.0 Calibration and Standardization
+Note: Maintain a laboratory log of all calibrations.
+10.1 Probe Nozzle, Pitot Tube Assembly, Dry Gas Metering System, Probe Heater, Temperature Sensors, Leak-Check of Metering System, and Barometer. Same as Method 5, sections 10.1, 10.2, 10.3, 10.4, 10.5, 8.4.1, and 10.6, respectively.
+10.2 High Performance Liquid Chromatograph. Establish the retention times for the isocyanates of interest; retention times will depend on the chromatographic conditions. The retention times provided in Table 10-1 are provided as a guide to relative retention times when using a C18, 250 mm x 4.6 mm ID, 5µm particle size column, a 2 ml/min flow rate of a 1:9 to 6:4 Acetonitrile/Ammonium Acetate Buffer, a 50 µl sample loop, and a UV detector set at 254 nm.
+Table 326-4—Example Retention Times
+Retention times | Compound | Retentiontime (minutes)
+MI | 10.0
+1,6-HDI | 19.9
+2,4-TDI | 27.1
+MDI | 27.3
+10.3 Preparation of Isocyanate Derivatives.
+10.3.1 HDI, TDI, MDI. Dissolve 500 mg of each isocyanate in individual 100 ml aliquots of methylene chloride (MeCl2), except MDI which requires 250 ml of MeCl2. Transfer a 5-ml aliquot of 1,2-PP (see section 7.3.8) to each solution, stir and allow to stand overnight at room temperature. Transfer 150 ml aliquots of hexane to each solution to precipitate the isocyanate-urea derivative. Using a Buchner funnel, vacuum filter the solid-isocyanate-urea derivative and rinse with 50 ml of hexane. Dissolve the precipitate in a minimum aliquot of MeCl2. Repeat the hexane precipitation and filtration twice. After the third filtration, dry the crystals at 50 °C and transfer to bottles for storage. The crystals are stable for at least 21 months when stored at room temperature in a closed container.
+10.3.2 MI. Prepare a 200 µg/ml stock solution of methyl isocyanate-urea, transfer 60 mg of 1,2-PP to a 100-ml volumetric flask containing 50 ml of MeCl2. Carefully transfer 20 mg of methyl isocyanate to the volumetric flask and shake for 2 minutes. Dilute the solution to volume with MeCl2 and transfer to a bottle for storage. Methyl isocyanate does not produce a solid derivative and standards must be prepared from this stock solution.
+10.4 Preparation of calibration standards. Prepare a 100 µg/ml stock solution of the isocyanates of interest from the individual isocyanate-urea derivative as prepared in sections 10.3.1 and 10.3.2. This is accomplished by dissolving 1 mg of each isocyanate-urea derivative in 10 ml of Acetonitrile. Calibration standards are prepared from this stock solution by making appropriate dilutions of aliquots of the stock into Acetonitrile.
+10.5 Preparation of Method Blanks. Prepare a method blank for each test program (up to twenty samples) by transferring 300 ml of the absorption solution to a 1,000-ml round bottom flask and concentrate as outlined in section 11.2.
+10.6 Preparation of Field Spike Solution. Prepare a field spike solution for every test program in the same manner as calibration standards (see Section 10.4). The mass of the target isocyanate in the volume of the spike solution for the field spike train shall be equivalent to that estimated to be captured from the source concentration for each compound; alternatively, you may also prepare a solution that represents half the applicable standard.
+10.7 HPLC Calibrations. See Section 11.1.
+11.0 Analytical Procedure
+11.1 Analytical Calibration. Perform a multipoint calibration of the instrument at six or more upscale points over the desired quantitative range (multiple calibration ranges shall be calibrated, if necessary). The field samples analyzed must fall within at least one of the calibrated quantitative ranges and meet the performance criteria specified below. The lowest point in your calibration curve must be at least 5, and preferably 10, times the MDL. For each calibration curve, the value of the square of the linear correlation coefficient, i.e., r2, must be ≥0.995, and the analyzer response must be within ±10 percent of the reference value at each upscale calibration point. Calibrations must be performed on each day of the analysis, before analyzing any of the samples. Following calibration, a secondary standard shall be analyzed. A continual calibration verification (CCV) must also be performed prior to any sample and after every ten samples. The measured value of this independently prepared standard must be within ±10 percent of the expected value. Report the results for each calibration standard secondary standard, and CCV as well as the conditions of the HPLC. The reports should include at least the peak area, height, and retention time for each isocyanate compound measured as well as a chromatogram for each standard.
+11.2 Concentration of Samples. Transfer each sample to a 1,000-ml round bottom flask. Attach the flask to a rotary evaporator and gently evaporate to dryness under vacuum in a 65 °C water bath. Rinse the round bottom flask three times each with 2 ml of acetonitrile and transfer the rinse to a 10-ml volumetric flask. Dilute the sample to volume with acetonitrile and transfer to a 15-ml vial and seal with a PTFE lined lid. Store the vial ≤4 °C until analysis.
+11.3 Analysis. Analyze replicative samples by HPLC, using the appropriate conditions established in section 10.2. The width of the retention time window used to make identifications should be based upon measurements of actual retention time variations of standards over the course of a day. Three times the standard deviation of a retention time for a compound can be used to calculate a suggested window size; however, the experience of the analyst should weigh heavily in the interpretation of the chromatograms. If the peak area exceeds the linear range of the calibration curve, the sample must be diluted with acetonitrile and reanalyzed. Average the replicate results for each run. For each sample you must report the same information required for analytical calibrations (Section 11.1). For non-detect or values below the detection limit of the method, you shall report the value as "<" numerical detection limit.
+12.0 Data Analysis and Calculations
+Nomenclature and calculations, same as in Method 5, section 6, with the following additions below.
+12.1 Nomenclature.
+AS = Response of the sample, area counts.
+b = Y-intercept of the linear regression line, area counts.
+BR = Percent Breakthrough
+CA = Concentration of a specific isocyanate compound in the initial sample, µg/ml.
+CB = Concentration of a specific isocyanate compound in the replicate sample, µg/ml.
+CI = Concentration of a specific isocyanate compound in the sample, µg/ml.
+Crec = Concentration recovered from spike train, µg/ml.
+CS = Concentration of isocyanate compound in the stack gas, µg/dscm
+CT = Concentration of a specific isocyanate compound (Impingers 1-4), µg/dscm
+Cspike = Concentration spiked, µg/ml.
+C4 = Concentration of a specific isocyanate compound (Impingers 14), µg/dscm
+FIm = Mass of Free Isocyanate
+FTSrec = Field Train Spike Recovery
+Im = Mass of the Isocyanate
+Imw = MW of the Isocyanate
+IUm = Mass of Isocyanate-urea derivative
+IUmw = MW of the isocyanate-urea
+M = Slope of the linear regression line, area counts-ml/µg.
+mI = Mass of isocyanate in the total sample
+MW = Molecular weight
+RPD = Relative Percent Difference
+VF = Final volume of concentrated sample, typically 10 ml.
+Vmstd = Volume of gas sample measured by the dry-gas meter, corrected to standard conditions, dscm (dscf).
+12.2 Conversion from Isocyanate to the Isocyanate-urea derivative. The equation for converting the amount of free isocyanate to the corresponding amount of isocyanate-urea derivative is as follows:
+12.2 Conversion from Isocyanate to the Isocyanate-urea derivative. The equation for converting the amount of free isocyante to the corresponding amount of isocyante-urea derivative is as follows:
+ER04MR19.001
+The equation for converting the amount of IU derivative to the corresponding amount of FLm is as follows:
+ER04MR19.002
+12.3 Calculate the correlation coefficient, slope, and intercepts for the calibration data using the least squares method for linear regression. Concentrations are expressed as the x-variable and response is expressed as the y-variable.
+12.4 Calculate the concentration of isocyanate in the sample:
+ER04MR19.003
+12.5 Calculate the total amount collected in the sample by multiplying the concentration (µg/ml) times the final volume of acetonitrile (10 ml).
+ER04MR19.004
+12.6 Calculate the concentration of isocyanate (µg/dscm) in the stack gas.
+ER04MR19.005
+12.7 Calculate Relative Percent Difference (RPD) for each replicative sample
+ER04MR19.006
+12.8 Calculate Field Train Spike Recovery
+ER04MR19.007
+12.9 Calculate Percent Breakthrough
+ER04MR19.008
+Where:
+K = 35.314 ft3/m3 if Vm(std) is expressed in English units. = 1.00 m3/m3 if Vm(std) is expressed in metric units.
+13.0 Method Performance
+Evaluation of sampling and analytical procedures for a selected series of compounds must meet the quality control criteria (See Section 9) for each associated analytical determination. The sampling and analytical procedures must be challenged by the test compounds spiked at appropriate levels and carried through the procedures.
+14.0 Pollution Prevention [Reserved]
+15.0 Waste Management [Reserved]
+16.0 Alternative Procedures [Reserved]
+17.0 References
+1. Martin, R.M., Construction Details of Isokinetic Source-Sampling Equipment, Research Triangle Park, NC, U.S. Environmental Protection Agency, April 1971, PB-203 060/BE, APTD-0581, 35 pp.
+2. Rom, J.J., Maintenance, Calibration, and Operation of Isokinetic Source Sampling Equipment, Research Triangle Park, NC, U.S. Environmental Protection Agency, March 1972, PB-209 022/BE, APTD-0576, 39 pp.
+3. Schlickenrieder, L.M., Adams, J.W., and Thrun, K.E., Modified Method 5 Train and Source Assessment Sampling System: Operator's Manual, U.S. Environmental Protection Agency, EPA/600/8-85/003/1985).
+4. Shigehara, R.T., Adjustments in the EPA Nomograph for Different Pitot Tube Coefficients and Dry Molecular Weights, Stack Sampling News, 2:4-11 (October 1974).
+5. U.S. Environmental Protection Agency, 40 CFR part 60, Appendices A-1, A-2, and A-3, Methods 1-5.
+6. Vollaro, R.F., A Survey of Commercially Available Instrumentation for the Measurement of Low-Range Gas Velocities, Research Triangle Park, NC, U.S. Environmental Protection Agency, Emissions Measurement Branch, November 1976 (unpublished paper).
+18.0 Diagrams
+ER04MR19.009
