@@ -1,4 +1,4 @@
-# Appendix B to 1221—Margin Values for Eligible Noncash Margin Collateral.
+# Appendix B to Part 1221—Margin Values for Eligible Noncash Margin Collateral.
 Table B—Margin Values for Eligible Noncash Margin Collateral
 Asset class | Discount (%)
 Eligible government and related (e.g., central bank, multilateral development bank, GSE securities identified in § 1221.6(a)(2)(iv) or (b)(5) debt: residual maturity less than one-year | 0.5
