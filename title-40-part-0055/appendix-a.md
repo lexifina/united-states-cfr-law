@@ -446,11 +446,11 @@ Rule 220 General Conformity (Adopted 05/09/95)
 Rule 230 Notice to Comply (Revised 9/9/08)
 Delaware
 (a) State requirements.
-(1) The following State of Delaware requirements are applicable to OCS Sources, December 19, 2008, State of Delaware—Department of Natural Resources and Environmental Control. The following sections of 7 DE Admin. Code 1100—Air Quality Management Section:
-7 DE Admin. Code 1101: Definitions and Administrative Principles
+(1) The following State of Delaware requirements are applicable to OCS Sources, November 11, 2018, State of Delaware—Department of Natural Resources and Environmental Control. The following sections of Title 7 Delaware Administrative Code 1100—Air Quality Management Section:
+7 DE Admin. Code 1101: Definitions and Administrative Principals
 Section 1.0: General Provisions (Effective 02/01/1981)
-Section 2.0: Definitions (Effective 09/11/1999)
-Section 3.0: Administrative Principles (02/01/1981)
+Section 2.0: Definitions (Effective 12/11/2016)
+Section 3.0: Administrative Principals (Effective 11/11/2013)
 Section 4.0: Abbreviations (Effective 02/01/1981)
 7 DE Admin. Code 1102: Permits
 Section 1.0: General Provisions (Effective 06/11/2006)
@@ -466,28 +466,28 @@ Section 10.0: Source Category Permit Application (Effective 06/01/1997)
 Section 11.0: Permit Application (Effective 06/11/2006)
 Section 12.0: Public Participation (Effective 06/11/2006)
 Section 13.0: Department Records (Effective 06/01/1997)
-Section 1102: Appendix A (Effective 06/11/2006)
+Appendix A (Effective 06/11/2006)
 7 DE Admin. Code 1103: Ambient Air Quality Standards
-Section 1.0: General Provisions (Effective 09/11/1999)
+Section 1.0: General Provisions (Effective 01/11/2014)
 Section 2.0: General Restrictions (Effective 02/01/1981)
 Section 3.0: Suspended Particulates (Effective 02/01/1981)
-Section 4.0: Sulfur Dioxide (Effective 02/01/1981)
+Section 4.0: Sulfur Dioxide (Effective 01/11/2014)
 Section 5.0: Carbon Monoxide (Effective 02/01/1981)
-Section 6.0: Ozone (Effective 09/11/1999)
+Section 6.0: Ozone (Effective 01/11/2014)
 Section 7.0: Hydrocarbons (Effective 02/01/1981)
-Section 8.0: Nitrogen Dioxide (Effective 02/01/1981)
+Section 8.0: Nitrogen Dioxide (Effective 01/11/2014)
 Section 9.0: Hydrogen Sulfide (Effective 02/01/1981)
-Section 10.0: Lead (Effective 02/01/1981)
-Section 11.0: PM10 and PM2.5 Particulates (Effective 2/11/2003)
+Section 10.0: Lead (Effective 01/11/2014)
+Section 11.0: PM10 and PM2.5 Particulates (Effective 01/11/2014)
 7 DE Admin. Code 1104: Particulate Emissions From Fuel Burning Equipment
-Section 1.0: General Provisions (Effective 02/01/1981)
-Section 2.0: Emission Limits (Effective 02/01/1981)
+Section 1.0: General Provisions (Effective 01/11/2017)
+Section 2.0: Emission Limits (Effective 01/11/2017)
 7 DE Admin. Code 1105: Particulate Emissions From Industrial Process Operations
-Section 1.0: General Provisions (Effective 02/01/1981)
-Section 2.0: General Restrictions (Effective 02/01/1981)
+Section 1.0: General Provisions (Effective 01/11/2017)
+Section 2.0: General Restrictions (Effective 01/11/2017)
 Section 3.0: Restrictions on Hot Mix Asphalt Batching Operations (Effective 02/01/1981)
-Section 4.0: Restrictions on Secondary Metal Operations (Effective 02/01/1981)
-Section 5.0: Restrictions on Petroleum Refining Operations (Effective 02/01/1981)
+Section 4.0: Restrictions on Secondary Metal Operations (Effective 01/11/2017)
+Section 5.0: Restrictions on Petroleum Refining Operations (Effective 01/11/2017)
 Section 6.0: Restrictions on Prill Tower Operations (Effective 02/01/1981)
 Section 7.0: Control of Potentially Hazardous Particulate Matter (Effective 02/01/1981)
 7 DE Admin. Code 1106: Particulate Emissions From Construction and Materials Handling
@@ -497,22 +497,24 @@ Section 3.0: Grading, Land Clearing, Excavation and Use of Non-Paved Roads (Effe
 Section 4.0: Material Movement (Effective 02/01/1981)
 Section 5.0: Sandblasting (Effective 02/01/1981)
 Section 6.0: Material Storage (Effective 02/01/1981)
-7 DE Admin. Code 1107: Emissions From Incineration of Noninfectious Waste
+7 DE Admin. Code 1107: Emissions From Incineration of Noninfectious Waster
 Section 1.0: General Provisions (Effective 10/13/1989)
 Section 2.0: Restrictions (Effective 10/13/1989)
 7 DE Admin. Code 1108: Sulfur Dioxide Emissions From Fuel Burning Equipment
-Section 1.0: General Provisions (Effective 12/08/1983)
-Section 2.0: Limit on Sulfur Content of Fuel (Effective 05/09/1985)
-Section 3.0: Emission Control in Lieu of Sulfur Content Limits of 2.0 of This Regulation (Effective 05/09/1985)
+Section 1.0: General Provisions (Effective 07/11/2013)
+Section 2.0: Limit on Sulfur Content of Fuel (Effective 07/11/2013)
+Section 3.0: Emission Control in Lieu of Sulfur Content Limits of 2.0 of This Regulation (Effective 07/11/2013)
+Section 4.0: Sampling and Testing Methods and Requirements (Effective 07/11/2013)
+Section 5.0: Recordkeeping and Reporting (Effective 07/11/2013)
 7 DE Admin. Code 1109: Emissions of Sulfur Compounds From Industrial Operations
 Section 1.0: General Provisions (Effective 05/09/1985)
 Section 2.0: Restrictions on Sulfuric Acid Manufacturing Operations (Effective 02/01/1981)
 Section 3.0: Restriction on Sulfuric Recovery Operations (Effective 02/01/1981)
 Section 4.0: Stack Height Requirements (Effective 02/01/1981)
-7 DE Admin. Code 1110: Emissions of Sulfur Compounds From Industrial Operations
-Section 1.0: Requirements for Existing Sources of Sulfur Dioxide (Effective 01/18/1981)
+7 DE Admin. Code 1110: Control of Sulfur Dioxide Emissions—Kent and Sussex Counties
+Section 1.0: Requirements for Existing Sources of Sulfur Dioxide (Effective 01/18/1982)
 Section 2.0: Requirements for New Sources of Sulfur Dioxide (Effective 02/01/1981)
-7 DE Admin. Code 1111: Carbon Monoxide Emissions From Industrial Process Operations, New Castle County
+7 DE Admin. Code 1111: Carbon Monoxide Emissions From Industrial Process Operations New Castle County
 Section 1.0: General Provisions (Effective 02/01/1981)
 Section 2.0: Restrictions on Petroleum Refining Operations (Effective 02/01/1981)
 7 DE Admin. Code 1112: Control of Nitrogen Oxide Emissions
@@ -532,8 +534,8 @@ Section 5.0: Season and Time Restrictions (Effective 04/11/2007)
 Section 6.0: Allowable Open Burning (Effective 04/11/2007)
 Section 7.0: Exemptions (Effective 04/11/2007)
 7 DE Admin. Code 1114: Visible Emissions
-Section 1.0: General Provisions (Effective 07/17/1984)
-Section 2.0: Requirements (Effective 07/17/1984)
+Section 1.0: General Provisions (Effective 11/11/2013)
+Section 2.0: Requirements (Effective 05/11/2018)
 Section 3.0: Alternate Opacity Requirements (Effective 07/17/1984)
 Section 4.0: Compliance With Opacity Standards (Effective 07/17/1984)
 7 DE Admin. Code 1115: Air Pollution Alert and Emergency Plan
@@ -545,7 +547,7 @@ Section 4.0: Standby Plans (Effective 02/01/1981)
 Section 1.0: General Provisions (Effective 02/01/1981)
 Section 2.0: Limitations (Effective 02/01/1981)
 Section 3.0: Requirements (Effective 02/01/1981)
-7 DE Admin. Code 1117: Source Monitoring, Recordkeeping and Reporting
+7 DE Admin. Code 1117: Source Monitoring, Record Keeping and Reporting
 Section 1.0: Definitions and Administrative Principals (Effective 01/11/1993)
 Section 2.0: Sampling and Monitoring (Effective 07/17/1984)
 Section 3.0: Minimum Emissions Monitoring Requirements For Existing Sources (Effective 07/17/1984)
@@ -568,33 +570,34 @@ Section 12.0: Standards of Performance for Steel Plants: Electric Arc Furnaces (
 Section 20.0: Standards of Performance for Bulk Gasoline Terminals (Effective 11/27/1985)
 Section 22.0: Standards of Performance for Equipment Leaks at Petroleum Refineries (Effective 11/27/1985)
 Section 27.0: Standards of Performance for Volatile Organic Liquid Storage Vessels (Including Petroleum Liquid Storage Vessels) for Which Construction, Reconstruction, or Modification Commenced after July 23, 1984 (Effective 12/07/1988)
-Section 29.0: Standards of Performance for Hospital/Medical/Infectious Waste Incinerators (Effective 09/11/1998)
+Section 28.0: Standards of Performance for Municipal Solid Waste Landfills (Effective 04/11/1998)
+Section 30.0: Standards of Performance for Municipal Solid Waste Landfills after July 11, 2017 (Effective 07/11/2017)
 7 DE Admin. Code 1122: Restriction on Quality of Fuel in Fuel Burning Equipment
 Section 1.0: Prohibition of Waste Oil (Effective 11/27/1985)
 7 DE Admin. Code 1124: Control of Volatile Organic Compounds
-Section 1.0: General Provisions (Effective 01/11/1993)
-Section 2.0: Definitions (Effective 01/11/2002)
+Section 1.0: General Provisions (Effective 01/11/2017)
+Section 2.0: Definitions (Effective 04/11/2010)
 Section 3.0: Applicability (Effective 01/11/1993)
 Section 4.0: Compliance, Certification, Recordkeeping, and Reporting Requirements for Coating Sources (Effective 11/29/1994)
-Section 5.0: Compliance, Certification, Recordkeeping, and Reporting Requirements for Non-Coating Sources (Effective 01/11/1993)
+Section 5.0: Compliance, Certification, Recordkeeping, and Reporting Requirements for non-Coating Sources (Effective 01/11/1993)
 Section 6.0: General Recordkeeping (Effective 01/11/1993)
 Section 7.0: Circumvention (Effective 01/11/1993)
-Section 8.0: Handling, Storage, and Disposal of Volatile Organic Compounds (VOCs) (Effective 11/29/1994)
+Section 8.0: Handling, Storage, and Disposal of Volatile Organic Compounds (VOCs) (Effective 03/11/2011)
 Section 9.0: Compliance, Permits, Enforceability (Effective 01/11/1993)
-Section 10.0: Aerospace Coatings (Effective 08/11/2002)
-Section 11.0: Mobile Equipment Repair and Refinishing (Effective 11/11/2001)
-Section 12.0: Surface Coating of Plastic Parts (Effective 11/29/1994)
-Section 13.0: Automobile and Light-Duty Truck Coating Operations (Effective 01/11/1993)
+Section 10.0: Aerospace Coatings (Effective 02/11/2003)
+Section 11.0: Mobile Equipment Repair and Refinishing (Effective 10/11/2010)
+Section 12.0: Surface Coating of Plastic Parts (Effective 10/11/2011)
+Section 13.0: Automobile and Light-Duty Truck Coating Operations (Effective 03/11/2011)
 Section 14.0: Can Coating (Effective 01/11/1993)
 Section 15.0: Coil Coating (Effective 01/11/1993)
-Section 16.0: Paper Coating (Effective 01/11/1993)
+Section 16.0: Paper, Film, and Foil Coating (Effective 03/11/2011)
 Section 17.0: Fabric Coating (Effective 01/11/1993)
 Section 18.0: Vinyl Coating (Effective 01/11/1993)
-Section 19.0: Coating of Metal Furniture (Effective 01/11/1993)
-Section 20.0: Coating of Large Appliances (Effective 01/11/1993)
-Section 21.0: Coating of Magnet Wire (Effective 01/11/1993)
-Section 22.0: Coating of Miscellaneous Parts (Effective 01/11/1993)
-Section 23.0: Coating of Flat Wood Paneling (Effective 01/11/1993)
+Section 19.0: Coating of Metal Furniture (Effective 10/11/2011)
+Section 20.0: Coating of Large Appliances (Effective 10/11/2011)
+Section 21.0: Coating of Magnet Wire (Effective 11/29/1994)
+Section 22.0: Coating of Miscellaneous Metal Parts (Effective 10/11/2011)
+Section 23.0: Coating of Flat Wood Paneling (Effective 03/11/2011)
 Section 24.0: Bulk Gasoline Plants (Effective 01/11/1993)
 Section 25.0: Bulk Gasoline Terminals (Effective 11/29/1994)
 Section 26.0: Gasoline Dispensing Facility Stage I Vapor Recovery (Effective 01/11/2002)
@@ -607,22 +610,22 @@ Section 32.0: Leaks from Natural Gas/Gasoline Processing Equipment (Effective 11
 Section 33.0: Solvent Cleaning and Drying (Effective 11/11/2001)
 Section 34.0: Cutback and Emulsified Asphalt (Effective 01/11/1993)
 Section 35.0: Manufacture of Synthesized Pharmaceutical Products (Effective 11/29/1994)
-Section 36.0: Stage II Vapor Recovery (Effective 01/11/2002)
-Section 37.0: Graphic Arts Systems (Effective 11/29/1994)
+Section 36.0: Vapor Emission Control at Gasoline Dispensing Facilities (Effective 09/11/2015)
+Section 37.0: Graphic Arts Systems (Effective 03/11/2011)
 Section 38.0: Petroleum Solvent Dry Cleaners (Effective 01/11/1993)
 Section 40.0: Leaks from Synthetic Organic Chemical, Polymer, and Resin Manufacturing Equipment (Effective 01/11/1993)
 Section 41.0: Manufacture of High-Density Polyethylene, Polypropylene, and Polystyrene Resins (Effective 01/11/1993)
 Section 42.0: Air Oxidation Processes in the Synthetic Organic Chemical Manufacturing Industry (Effective 01/11/1993)
 Section 43.0: Bulk Gasoline Marine Tank Vessel Loading Facilities (Effective 08/08/1994)
 Section 44.0: Batch Processing Operations (Effective 11/29/1994)
-Section 45.0: Industrial Cleaning Solvents (Effective 11/29/1994)
+Section 45.0: Industrial Cleaning Solvents (Effective 03/11/2011)
 Section 46.0: Crude Oil Lightering Operations (Effective 05/11/2007)
-Section 47.0: Offset Lithographic Printing (Effective 11/29/1994)
+Section 47.0: Offset Lithographic Printing (Effective 04/11/2011)
 Section 48.0: Reactor Processes and Distillation Operations in the Synthetic Organic Chemical Manufacturing Industry (Effective 11/29/1994)
 Section 49.0: Control of Volatile Organic Compound Emissions from Volatile Organic Liquid Storage Vessels (Effective 11/29/1994)
 Section 50.0: Other Facilities that Emit Volatile Organic Compounds (VOCs) (Effective 11/29/1994)
-7 DE Admin. Code 1124: Control of Organic Compound Emissions
-Appendix A: General Provisions: Test Methods and Compliance Procedures (Effective 11/29/1994)
+7 DE Admin. Code 1124: Control of Organic Compound Emissions—Appendices
+Appendix A General Provisions: Test Methods and Compliance Procedures (Effective 11/29/1994)
 Appendix B: Determining the Volatile Organic Compound (VOC) Content of Coatings and Inks (Effective 11/29/1994)
 Appendix C: Alternative Compliance Methods for Surface Coating (Effective 11/29/1994)
 Appendix D: Emission Capture and Destruction or Removal Efficiency and Monitoring Requirements (Effective 11/29/1994)
@@ -641,25 +644,25 @@ Appendix K: Emissions Estimation Methodologies (Effective 11/29/1994)
 Appendix L: Method to Determine Total Organic Carbon for Offset Lithographic Solutions (Effective 11/29/1994)
 Appendix M: Test Method for Determining the Performance of Alternative Cleaning Fluids (Effective 11/29/1994)
 7 DE Admin. Code 1125: Requirements for Preconstruction Review
-Section 1.0: General Provisions (Effective 08/11/2005)
-Section 2.0: Emission Offset Provisions (EOP) (Effective 08/11/2005)
-Section 3.0: Prevention of Significant Deterioration of Air Quality (Effective 08/11/2005)
-Section 4.0: Minor New Source Review (MNSR) (Effective 08/11/2005)
+Section 1.0: General Provisions (Effective 12/11/2016)
+Section 2.0: Emission Offset Provisions (EOP) (Effective 02/11/2012) 1
+Section 3.0: Prevention of Significant Deterioration of Air Quality (Effective 12/11/2016)
+Section 4.0: Minor New Source Review (MNSR) (Effective 12/11/2016)
 7 DE Admin. Code 1127: Stack Heights
 Section 1.0: General Provisions (Effective 07/06/1982)
 Section 2.0: Definitions Specific to this Regulation (Effective 12/07/1988)
 Section 3.0: Requirements for Existing and New Sources (Effective 02/18/1987)
 Section 4.0: Public Notification (Effective 02/18/1987)
 7 DE Admin. Code 1129: Emissions From Incineration of Infectious Waste
-Section 1.0: General Provisions (10/13/1989)
+Section 1.0: General Provisions (Effective 10/13/1989)
 Section 2.0: Exemptions (Effective 10/13/1989)
 Section 3.0: Permit Requirements (Effective 10/13/1989)
 Section 4.0: Methods of Treatment and Disposal (Effective 10/13/1989)
 Section 5.0: Recordkeeping and Reporting Requirements (Effective 10/13/1989)
 Section 6.0: Evidence of Effectiveness of Treatment (Effective 10/13/1989)
 Section 7.0: Incineration (Effective 10/13/1989)
-7 DE Admin. Code 1130: Title V State Operating Permit Program
-Section 1.0: Program Overview (Effective 11/15/1993)
+7 DE Admin. Code 1130: Title V Operating Permit Program
+Section 1.0: Program Overview (Effective 12/11/2010)
 Section 2.0: Definitions (Effective 11/15/1993)
 Section 3.0: Applicability (Effective 11/15/1993)
 Section 5.0: Permit Applications (Effective 11/15/1993)
@@ -680,8 +683,8 @@ Section 3.0: Applicability (Effective 10/06/1997)
 Section 4.0: Generating an Emission Reduction (Effective 10/06/1997)
 Section 5.0: Application for Certification of an Emission Reduction as an ERC (Effective 10/06/1997)
 Section 6.0: Source Baseline (Effective 10/06/1997)
-Section 7.0: Post-Reduction Emission rate (Effective 10/06/1997)
-Section 8.0: Certification of an Emission Reduction (Effective 10/06/1997)
+Section 7.0: Post-Reduction Emission Rate (Effective 10/06/1997)
+Section 8.0: Certification of an Emission Reduction (Effective 11/11/2018)
 Section 9.0: Trading and Use of ERCs (Effective 10/06/1997)
 Section 10.0: Record Keeping Requirements (Effective 10/06/1997)
 Section 11.0: ERC Banking System (Effective 10/06/1997)
@@ -698,44 +701,38 @@ Section 6.0: Public Participation and Consultation (Effective 08/14/1996)
 Section 7.0: Frequency of Conformity Determinations (Effective 08/14/1996)
 Section 8.0: Criteria for Determining Conformity of General Federal Actions (Effective 08/14/1996)
 Section 9.0: Procedures for Conformity Determinations of General Federal Actions (Effective 08/14/1996)
-Section 10.0: Mitigation of Air Quality Impacts (Effective 08/14/1996)
-Section 11.0: Savings Provisions (Effective 08/14/1996)
-7 DE Admin. Code 1139: Nitrogen Oxides (NOX) Budget Trading Program
-Section 1.0: Purpose (Effective 12/11/2000)
-Section 2.0: Emission Limitation (Effective 12/11/2000)
-Section 3.0: Applicability (Effective 12/11/2000)
-Section 4.0: Definitions (Effective 12/11/2000)
-Section 5.0: General Provisions (Effective 12/11/2000)
-Section 6.0: NOX Authorized Account Representative for NOX Budget Sources (Effective 12/11/2000)
-Section 7.0: Permits (Effective 12/11/2000)
-Section 8.0: Monitoring and Reporting (Effective 12/11/2000)
-Section 9.0: NATS (Effective 12/11/2000)
-Section 10.0: NOX Allowance Transfers (Effective 12/11/2000)
-Section 11.0: Compliance Certification (Effective 12/11/2000)
-Section 12.0: End-of-Season Reconciliation (Effective 12/11/2000)
-Section 13.0: Failure to Meet Compliance Requirements (Effective 12/11/2000)
-Section 14.0: Individual Units Opt-Ins (Effective 12/11/2000)
-Section 15.0: General Accounts (Effective 12/11/2000)
-Appendix A: Allowance Allocations to NOX Budget Units under 3.1.1.1 and 3.1.1.2 of DE Admin. Code 1139 (Effective 02/11/2000)
-Appendix B: 7 DE Admin. Code 1137—7 DE Admin. Code 1139 Program Transition (Effective 02/11/2000)
-7 DE Admin. Code 1140: Delaware's National Low Emission Vehicle (NLEV) Regulation
-Section 1.0: Applicability (Effective 09/11/1999)
-Section 2.0: Definitions (Effective 09/11/1999)
-Section 3.0: Program Participation (Effective 09/11/1999)
+Section 10.0: Mitigation of Airy Quality Impacts (Effective 08/14/1996)
+Section 11.0: Savings Provision (Effective 08/14/1996)
+7 DE Admin. Code 1140: Delaware Low Emission Vehicle Program
+Section 1.0: Purpose (Effective 12/11/2013)
+Section 2.0: Applicability (Effective 12/11/2013)
+Section 3.0: Definitions (Effective 03/11/2018)
+Section 4.0: Emission Certification Standards (Effective 12/11/2013)
+Section 5.0: New Vehicle Emission Requirements (Effective 03/11/2018)
+Section 6.0: Manufacturer Fleet Requirements (Effective 12/11/2013)
+Section 7.0: Warranty (Effective 03/11/2018)
+Section 8.0: Reporting and Record-Keeping Requirements (Effective 12/11/2013)
+Section 9.0: Enforcement (Effective 12/11/2013)
+Section 10.0: Incorporation by Reference (Effective 03/11/2018)
+Section 11.0: Document Availability (Effective 03/11/2018)
+Section 12.0: Severability (Effective 12/11/2013)
+7 DE Admin. Code 1141: Limiting Emissions of Volatile Organic Compounds From Consumer and Commercial Products
+Section 1.0: Architectural and Industrial Maintenance Coatings (Effective 12/11/2016)
+Section 2.0: Consumer Products (Effective 02/11/2016)
+Section 3.0: Portable Fuel Containers (Effective 04/11/2010)
+Section 4.0: Adhesives and Sealants (Effective 04/11/2009)
 7 DE Admin. Code 1142: Specific Emission Control Requirements
 Section 1.0: Control of NOX Emissions from Industrial Boilers (Effective 12/12/2001)
-7 DE Admin. Code 1143: Heavy Duty Diesel Engine Standards
-Section 1.0: On Road Heavy Duty Diesel Requirements for Model Years 2005 and 2006 (Effective 02/11/2005)
-Section 2.0: On Road Heavy Duty Diesel Requirements for Model Year 2007 and Later (Effective 02/11/2005)
-7 DE Admin. Code 1144: Control of Stationary Generator Emissions 1
+7 DE Admin. Code 1144: Control of Stationary Generator Emissions
 Section 1.0: General (Effective 01/11/2006)
 Section 2.0: Definitions (Effective 01/11/2006)
 Section 3.0: Emissions (Effective 01/11/2006)
 Section 4.0: Operating Requirements (Effective 01/11/2006)
 Section 5.0: Fuel Requirements (Effective 01/11/2006)
+Section 6.0: Record Keeping and Reporting (Effective 01/11/2006)
 Section 7.0: Emissions Certification, Compliance, and Enforcement (Effective 01/11/2006)
 Section 8.0: Credit for Concurrent Emissions Reductions (Effective 01/11/2006)
-Section 9.0: DVFA Member Companies (Effective 01/11/2006)
+Section 9.0: DVFA Member Companies (Effective 01/11/12006)
 7 DE Admin. Code 1145: Excessive Idling of Heavy Duty Vehicles
 Section 1.0: Applicability (Effective 04/11/2005)
 Section 2.0: Definitions (Effective 04/11/2005)
@@ -743,16 +740,28 @@ Section 3.0: Severability (Effective 04/11/2005)
 Section 4.0: Operational Requirements for Heavy Duty Motor Vehicles (Effective 04/11/2005)
 Section 5.0: Exemptions (Effective 04/11/2005)
 Section 6.0: Enforcement and Penalty (Effective 04/11/2005)
-7 DE Admin. Code 1146: Electric Generating Unit (EGU) Multi-Pollutant Regulation
+7 DE Admin. Code 1146: Electric Generating Unit (EGU) Milti-Pollutant Regulation
 Section 1.0: Preamble (Effective 12/11/2006)
 Section 2.0: Applicability (Effective 12/11/2006)
 Section 3.0: Definitions (Effective 12/11/2006)
 Section 4.0: NOX Emissions Limitations (Effective 12/11/2006)
 Section 5.0: SO2 Emissions Limitations (Effective 12/11/2006)
 Section 6.0: Mercury Emissions Limitations (Effective 12/11/2006)
-Section 7.0: Recordkeeping and Reporting (Effective 12/11/2006)
+Section 7.0: Record Keeping and Reporting (Effective 12/11/2006)
 Section 8.0: Compliance Plan (Effective 12/11/2006)
 Section 9.0: Penalties (Effective 12/11/2006)
+7 DE Admin. Code 1147: CO2 Budget Trading Program
+Section 1.0: CO2 Budget Trading Program General Provisions (Effective 12/11/2013)
+Section 2.0: CO2 Authorized Account Representative for CO2 Budget Source (Effective 11/11/2008)
+Section 3.0: Permits (Effective 11/11/2018)
+Section 4.0: Compliance Certification (Effective 12/11/2013)
+Section 5.0: CO2 Allowance Allocations (Effective 12/11/2013)
+Section 6.0: CO2 Allowance Tracking System (Effective 12/11/2013)
+Section 7.0: CO2 Allowance Transfers (Effective 12/11/2013)
+Section 8.0: Monitoring and Reporting (Effective 12/11/2013)
+Section 9.0: Auction of CO2 CCR allowances (Effective 12/11/2013)
+Section 10.0: CO2 Emissions Offset Projects (Effective 12/11/2013)
+Section 11.0: CO2 Emissions Auction (Effective 12/11/2013)
 7 DE Admin. Code 1148: Control of Stationary Combustion Turbine Electric Generating Unit Emissions
 Section 1.0: Purpose (Effective 07/11/2007)
 Section 2.0: Applicability (Effective 07/11/2007)
@@ -762,6 +771,7 @@ Section 5.0: Monitoring and Reporting (Effective 07/11/2007)
 Section 6.0: Recordkeeping (Effective 07/11/2007)
 Section 7.0: Penalties (Effective 07/11/2007)
 (2) [Reserved]
+(b) Local requirements.
 Florida
 (a) State requirements.
 (1) The following requirements are contained in State of Florida Requirements Applicable to OCS Sources, January 2, 2008: Florida Administrative Code—Department of Environmental Protection. The following sections of Chapter 62:
@@ -960,65 +970,58 @@ COMAR 26.11.36—Distributed Generation (Effective as of June 13, 2011)
 COMAR 26.11.39—Architectural and Industrial Maintenance (AIM) Coatings (Effective as of April 2016)
 Massachusetts
 (a) State requirements.
-(1) The following Commonwealth of Massachusetts requirements are applicable to OCS Sources, May 20, 2010, Commonwealth of Massachusetts—Department of Environmental Protection.
+(1) The following Commonwealth of Massachusetts requirements are applicable to OCS Sources, March 9, 2018, Commonwealth of Massachusetts—Department of Environmental Protection.
 The following sections of 310 CMR 4.00, 310 CMR 6.00, 310 CMR 7.00 and 310 CMR 8.00:
 310 CMR 4.00: Timely Action Schedule and Fee Provisions
-Section 4.01: Purpose, Authority and General Provisions (Effective 9/4/2009)
-Section 4.02: Definitions (Effective 9/4/2009)
-Section 4.03: Annual Compliance Assurance Fee (Effective 9/4/2009)
-Section 4.04: Permit Application Schedules and Fee (Effective 9/4/2009)
-Section 4.10: Appendix: Schedules for Timely Action and Permit Application Fees (Effective 9/4/2009)
+Section 4.01: Purpose, Authority and General Provisions (Effective 3/24/2017)
+Section 4.02: Definitions (Effective 3/24/2017)
+Section 4.03: Annual Compliance Assurance Fee (Effective 3/24/2017)
+Section 4.04: Permit Application Schedules and Fee (Effective 3/24/2017)
+Section 4.10: Appendix: Schedules for Timely Action and Permit Application Fees (Effective 3/24/2017)
 310 CMR 6.00: Ambient Air Quality Standards for the Commonwealth of Massachusetts
-Section 6.01: Definitions (Effective 4/2/2010)
-Section 6.02: Scope (Effective 4/2/2010)
-Section 6.03: Reference Conditions (Effective 4/2/2010)
-Section 6.04: Standards (Effective 4/2/2010)
+Section 6.01: Definitions (Effective 3/9/2018)
+Section 6.02: Scope (Effective 3/9/2018)
+Section 6.03: Reference Conditions (Effective 3/9/2018)
+Section 6.04: Standards (Effective 3/9/2018)
 310 CMR 7.00: Air Pollution Control
-Section 7.00: Statutory Authority; Legend; Preamble; Definitions (Effective 4/2/2010)
-Section 7.01: General Regulations to Prevent Air Pollution (Effective 4/2/2010)
-Section 7.02: U Plan Approval and Emission Limitations (Effective 4/2/2010)
-Section 7.03: U Plan Approval Exemptions: Construction Requirements (Effective 4/2/2010)
-Section 7.04: U Fossil Fuel Utilization Facilities (Effective 4/2/2010)
-Section 7.05: U Fuels All Districts (Effective 4/2/2010)
-Section 7.06: U Visible Emissions (Effective 4/2/2010)
-Section 7.07: U Open Burning (Effective 4/2/2010)
-Section 7.08: U Incinerators (Effective 4/2/2010)
-Section 7.09: U Dust, Odor, Construction and Demolition (Effective 4/2/2010)
-Section 7.11: U Transportation Media (Effective 4/2/2010)
-Section 7.12: U Source Registration (Effective 4/2/2010)
-Section 7.13: U Stack Testing (Effective 4/2/2010)
-Section 7.14: U Monitoring Devices and Reports (Effective 4/2/2010)
-Section 7.15: U Asbestos (Effective 4/2/2010)
-Section 7.18: U Volatile and Halogenated Organic Compounds (Effective 4/2/2010)
-Section 7.19: U Reasonably Available Control Technology (RACT) for Sources of Oxides of Nitrogen (NOX) (Effective 4/2/2010)
-Section 7.21: Sulfur Dioxide Emissions Limitations (Effective 4/2/2010)
-Section 7.22: Sulfur Dioxide Emissions Reductions for the Purpose of Reducing Acid Rain (Effective 4/2/2010)
-Section 7.24: U Organic Material Storage and Distribution (Effective 4/2/2010)
-Section 7.25: U Best Available Controls for Consumer and Commercial Products (Effective 4/2/2010)
-Section 7.26: Industry Performance Standards (Effective 4/2/2010)
-Section 7.32: Massachusetts Clean Air Interstate Rule (Mass CAIR) (Effective 4/2/2010)
-Section 7.60: U Severability (Effective 4/2/2010)
-Section 7.70: Massachusetts CO2 Budget Trading Program (Effective 4/2/2010)
-Section 7.71: Reporting of Greenhouse Gas Emissions (Effective 4/2/2010)
-Section 7.00: Appendix A (Effective 4/2/2010)
-Section 7.00: Appendix B (Effective 4/2/2010)
-Section 7.00: Appendix C (Effective 4/2/2010)
+Section 7.00: Statutory Authority; Legend; Preamble; Definitions (Effective 3/9/2018)
+Section 7.01: General Regulations to Prevent Air Pollution (Effective 3/9/2018)
+Section 7.02: U Plan Approval and Emission Limitations (Effective 3/9/2018)
+Section 7.03: U Plan Approval Exemptions: Construction Requirements (Effective 3/9/2018)
+Section 7.04: U Fossil Fuel Utilization Facilities (Effective 3/9/2018)
+Section 7.05: U Fuels All Districts (Effective 3/9/2018)
+Section 7.06: U Visible Emissions (Effective 3/9/2018)
+Section 7.07: U Open Burning (Effective 3/9/2018)
+Section 7.08: U Incinerators (Effective 3/9/2018)
+Section 7.09: U Dust, Odor, Construction and Demolition (Effective 3/9/2018)
+Section 7.11: U Transportation Media (Effective 3/9/2018)
+Section 7.12: U Source Registration (Effective 3/9/2018)
+Section 7.13: U Stack Testing (Effective 3/9/2018)
+Section 7.14: U Monitoring Devices and Reports (Effective 3/9/2018)
+Section 7.18: U Volatile and Halogenated Organic Compounds (Effective 3/9/2018)
+Section 7.19: U Reasonably Available Control Technology (RACT) for Sources of Oxides of Nitrogen (NOX) (Effective 3/9/2018)
+Section 7.24: U Organic Material Storage and Distribution (Effective 3/9/2018)
+Section 7.25: U Best Available Controls for Consumer and Commercial Products (Effective 3/9/2018)
+Section 7.26: Industry Performance Standards (Effective 3/9/2018)
+Section 7.60: U Severability (Effective 3/9/2018)
+Section 7.00: Appendix A (Effective 3/9/2018)
+Section 7.00: Appendix B (Effective 3/9/2018)
+Section 7.00: Appendix C (Effective 3/9/2018)
 310 CMR 8.00: The Prevention and/or Abatement of Air Pollution Episode and Air Pollution Incident Emergencies
-Section 8.01: Introduction (Effective 4/2/2010)
-Section 8.02: Definitions (Effective 4/2/2010)
-Section 8.03: Air Pollution Episode Criteria (Effective 4/2/2010)
-Section 8.04: Air Pollution Episode Potential Advisories (Effective 4/2/2010)
-Section 8.05: Declaration of Air Pollution Episodes and Incidents (Effective 4/2/2010)
-Section 8.06: Termination of Air Pollution Episodes and Incident Emergencies (Effective 4/2/2010)
-Section 8.07: Emission Reductions Strategies (Effective 4/2/2010)
-Section 8.08: Emission Reduction Plans (Effective 4/2/2010)
-Section 8.15: Air Pollution Incident Emergency (Effective 4/2/2010)
-Section 8.30: Severability (Effective 4/2/2010)
-(2) [Reserved]
+Section 8.01: Introduction (Effective 3/9/2018)
+Section 8.02: Definitions (Effective 3/9/2018)
+Section 8.03: Air Pollution Episode Criteria (Effective 3/9/2018)
+Section 8.04: Air Pollution Episode Potential Advisories (Effective 3/9/2018)
+Section 8.05: Declaration of Air Pollution Episodes and Incidents (Effective 3/9/2018)
+Section 8.06: Termination of Air Pollution Episodes and Incident Emergencies (Effective 3/9/2018)
+Section 8.07: Emission Reductions Strategies (Effective 3/9/2018)
+Section 8.08: Emission Reduction Plans (Effective 3/9/2018)
+Section 8.15: Air Pollution Incident Emergency (Effective 3/9/2018)
+Section 8.30: Severability (Effective 3/9/2018)
 New Jersey
 (a) State requirements.
-(1) The following State of New Jersey requirements are applicable to OCS Sources, as of August 13, 2009. New Jersey State Department of Environmental Protection—New Jersey Administrative Code. The following sections of Title 7:
-Chapter 27 Subchapter 2—Control and Prohibition of Open Burning (Effective 6/20/94)
+(1) The following State of New Jersey requirements are applicable to OCS Sources, as of January 16, 2018. New Jersey State Department of Environmental Protection—New Jersey Administrative Code. The following sections of Title 7:
+Chapter 27 Subchapter 2—Control and Prohibition of Open Burning (Effective 6/20/1994)
 N.J.A.C. 7:27-2.1. Definitions
 N.J.A.C. 7:27-2.2. Open burning for salvage operations
 N.J.A.C. 7:27-2.3. Open burning of refuse
@@ -1028,7 +1031,7 @@ N.J.A.C. 7:27-2.7. Emergencies
 N.J.A.C. 7:27-2.8. Dangerous material
 N.J.A.C. 7:27-2.12. Special permit
 N.J.A.C. 7:27-2.13. Fees
-Chapter 27 Subchapter 3—Control and Prohibition of Smoke From Combustion of Fuel (Effective 2/4/02)
+Chapter 27 Subchapter 3—Control and Prohibition of Smoke From Combustion of Fuel (Effective 2/4/2002)
 N.J.A.C. 7:27-3.1. Definitions
 N.J.A.C. 7:27-3.2. Smoke emissions from stationary indirect heat exchangers
 N.J.A.C. 7:27-3.3. Smoke emissions from marine installations
@@ -1036,26 +1039,26 @@ N.J.A.C. 7:27-3.4. Smoke emissions from the combustion of fuel in mobile sources
 N.J.A.C. 7:27-3.5. Smoke emissions from stationary internal combustion engines and stationary turbine engines
 N.J.A.C. 7:27-3.6. Stack test
 N.J.A.C. 7:27-3.7. Exceptions
-Chapter 27 Subchapter 4—Control and Prohibition of Particles From Combustion of Fuel (Effective 4/20/09)
+Chapter 27 Subchapter 4—Control and Prohibition of Particles From Combustion of Fuel (Effective 4/20/2009)
 N.J.A.C. 7:27-4.1. Definitions
 N.J.A.C. 7:27-4.2. Standards for the emission of particles
 N.J.A.C. 7:27-4.3. Performance test principle
 N.J.A.C. 7:27-4.4. Emissions tests
 N.J.A.C. 7:27-4.6. Exceptions
-Chapter 27 Subchapter 5—Prohibition of Air Pollution (Effective 10/12/77)
+Chapter 27 Subchapter 5—Prohibition of Air Pollution (Effective 10/12/1977)
 N.J.A.C. 7:27-5.1. Definitions
 N.J.A.C. 7:27-5.2. General provisions
-Chapter 27 Subchapter 6—Control and Prohibition of Particles From Manufacturing Processes (Effective 6/12/98)
+Chapter 27 Subchapter 6—Control and Prohibition of Particles From Manufacturing Processes (Effective 6/12/1998)
 N.J.A.C. 7:27-6.1. Definitions
 N.J.A.C. 7:27-6.2. Standards for the emission of particles
 N.J.A.C. 7:27-6.3. Performance test principles
 N.J.A.C. 7:27-6.4. Emissions tests
 N.J.A.C. 7:27-6.5. Variances
 N.J.A.C. 7:27-6.7. Exceptions
-Chapter 27 Subchapter 7—Sulfur (Effective 3/1/67)
+Chapter 27 Subchapter 7—Sulfur (Effective 11/6/2017)
 N.J.A.C. 7:27-7.1. Definitions
 N.J.A.C. 7:27-7.2. Control and prohibition of air pollution from sulfur compounds
-Chapter 27 Subchapter 8—Permits and Certificates for Minor Facilities (and Major Facilities Without an Operating Permit) (Effective 4/20/09)
+Chapter 27 Subchapter 8—Permits and Certificates for Minor Facilities (and Major Facilities Without an Operating Permit) (Effective 1/16/2018)
 N.J.A.C. 7:27-8.1. Definitions
 N.J.A.C. 7:27-8.2. Applicability
 N.J.A.C. 7:27-8.3. General provisions
@@ -1076,34 +1079,30 @@ N.J.A.C. 7:27-8.18. Permit revisions
 N.J.A.C. 7:27-8.19. Compliance plan changes
 N.J.A.C. 7:27-8.20. Seven-day notice changes
 N.J.A.C. 7:27-8.21. Amendments
-N.J.A.C. 7:27-8.22. Changes to sources permitted under batch plant, pilot plant, dual plant, or laboratory operating permitting procedures
 N.J.A.C. 7:27-8.23. Reconstruction
 N.J.A.C. 7:27-8.24. Special provisions for construction but not operation
 N.J.A.C. 7:27-8.25. Special provisions for pollution control equipment or pollution prevention process modifications
-N.J.A.C. 7:27-8.26. Civil or criminal penalties for failure to comply
 N.J.A.C. 7:27-8.27. Special facility-wide permit provisions
-N.J.A.C. 7:27-8.28. Delay of testing
-Appendix I
-Chapter 27 Subchapter 9—Sulfur in Fuels (Effective 4/19/00)
+Appendix 1
+Chapter 27 Subchapter 9—Sulfur in Fuels (Effective 9/20/2010)
 N.J.A.C. 7:27-9.1. Definitions
 N.J.A.C. 7:27-9.2. Sulfur content standards
 N.J.A.C. 7:27-9.3. Exemptions
 N.J.A.C. 7:27-9.4. Waiver of air quality modeling
-N.J.A.C. 7:27-9.5. Incentive for conversion to coal or other solid fuel
-Chapter 27 Subchapter 10—Sulfur in Solid Fuels (Effective 04/20/09)
+Chapter 27 Subchapter 10—Sulfur in Solid Fuels (Effective 9/6/2011)
 N.J.A.C. 7:27-10.1. Definitions
 N.J.A.C. 7:27-10.2. Sulfur contents standards
 N.J.A.C. 7:27-10.3. Expansion, reconstruction or construction of solid fuel burning units
 N.J.A.C. 7:27-10.4. Exemptions
 N.J.A.C. 7:27-10.5. SO2 emission rate determinations
-Chapter 27 Subchapter 11—Incinerators (Effective 5/4/98)
+Chapter 27 Subchapter 11—Incinerators (Effective 5/4/1998)
 N.J.A.C. 7:27-11.1. Definitions
 N.J.A.C. 7:27-11.2. Construction standards
 N.J.A.C. 7:27-11.3. Emission standards
 N.J.A.C. 7:27-11.4. Permit to construct; certificate to operate
 N.J.A.C. 7:27-11.5. Operation
 N.J.A.C. 7:27-11.6. Exceptions
-Chapter 27 Subchapter 12—Prevention and Control of Air Pollution Emergencies (Effective 3/19/74)
+Chapter 27 Subchapter 12—Prevention and Control of Air Pollution Emergencies (Effective 5/20/1974)
 N.J.A.C. 7:27-12.1. Definitions
 N.J.A.C. 7:27-12.2. Emergency criteria
 N.J.A.C. 7:27-12.3. Criteria for emergency termination
@@ -1112,7 +1111,7 @@ N.J.A.C. 7:27-12.5. Standby orders
 Table I Emission Reduction Objectives
 Table II Emission Reduction Objectives
 Table III Emission Reduction Objectives
-Chapter 27 Subchapter 16—Control and Prohibition of Air Pollution by Volatile Organic Compounds (Effective 04/20/09)
+Chapter 27 Subchapter 16—Control and Prohibition of Air Pollution by Volatile Organic Compounds (Effective 1/16/2018)
 N.J.A.C. 7:27-16.1. Definitions
 N.J.A.C. 7:27-16.1A. Purpose, scope, applicability, and severability
 N.J.A.C. 7:27-16.2. VOC stationary storage tanks
@@ -1131,13 +1130,12 @@ N.J.A.C. 7:27-16.17. Alternative and facility-specific VOC control requirements
 N.J.A.C. 7:27-16.18. Leak detection and repair
 N.J.A.C. 7:27-16.19. Application of cutback and emulsified asphalts
 N.J.A.C. 7:27-16.21. Natural gas pipelines
-N.J.A.C. 7:27-16.22. Emission information, recordkeeping and testing
+N.J.A.C. 7:27-16.22. Emission information, record keeping and testing
 N.J.A.C. 7:27-16.23. Procedures for demonstrating compliance
-N.J.A.C. 7:27-16.26. Variances
 N.J.A.C. 7:27-16.27. Exceptions
-APPENDIX I
-APPENDIX II
-Chapter 27 Subchapter 18—Control and Prohibition of Air Pollution From New or Altered Sources Affecting Ambient Air Quality (Emission Offset Rules) (Effective 12/1/08)
+Appendix I
+Appendix II
+Chapter 27 Subchapter 18—Control and Prohibition of Air Pollution From New or Altered Sources Affecting Ambient Air Quality (Emission Offset Rules) (Effective 11/6/2017)
 N.J.A.C. 7:27-18.1. Definitions
 N.J.A.C. 7:27-18.2. Facilities subject to this subchapter
 N.J.A.C. 7:27-18.3. Standards for issuance of permits
@@ -1149,7 +1147,7 @@ N.J.A.C. 7:27-18.8. Banking of emission reductions
 N.J.A.C. 7:27-18.9. Secondary emissions
 N.J.A.C. 7:27-18.10. Exemptions
 N.J.A.C. 7:27-18.12. Civil or criminal penalties for failure to comply
-Chapter 27 Subchapter 19—Control and Prohibition of Air Pollution From Oxides of Nitrogen (Effective 04/20/09)
+Chapter 27 Subchapter 19—Control and Prohibition of Air Pollution From Oxides of Nitrogen (Effective 1/16/2018)
 N.J.A.C. 7:27-19.1. Definitions
 N.J.A.C. 7:27-19.2. Purpose, scope and applicability
 N.J.A.C. 7:27-19.3. General provisions
@@ -1169,10 +1167,9 @@ N.J.A.C. 7:27-19.19. Recordkeeping and recording
 N.J.A.C. 7:27-19.20. Fuel switching
 N.J.A.C. 7:27-19.21. Phased compliance—repowering
 N.J.A.C. 7:27-19.23. Phased compliance—use of innovative control technology
-N.J.A.C. 7:27-19.24. MEG alerts
 N.J.A.C. 7:27-19.25. Exemption for emergency use of fuel oil
 N.J.A.C. 7:27-19.26. Penalties
-Chapter 27 Subchapter 20—Used Oil Combustion (Effective 6/19/06)
+Chapter 27 Subchapter 20—Used Oil Combustion (Effective 9/6/2011)
 N.J.A.C. 7:27-20.1. Definitions
 N.J.A.C. 7:27-20.2. General provisions
 N.J.A.C. 7:27-20.3. Burning of on-specification used oil in space heaters covered by a registration
@@ -1182,19 +1179,20 @@ N.J.A.C. 7:27-20.6. Burning of on-specification oil in other combustion units
 N.J.A.C. 7:27-20.7. Burning of off-specification used oil
 N.J.A.C. 7:27-20.8. Ash standard
 N.J.A.C. 7:27-20.9. Exception
-Chapter 27 Subchapter 21—Emission Statements (Effective 4/20/09)
+Chapter 27 Subchapter 21—Emission Statements (Effective 1/16/2018)
 N.J.A.C. 7:27-21.1. Definitions
 N.J.A.C. 7:27-21.2. Applicability
 N.J.A.C. 7:27-21.3. General provisions
 N.J.A.C. 7:27-21.4. Procedures for submitting an emission statement
 N.J.A.C. 7:27-21.5. Required contents of an emission statement
-N.J.A.C. 7:27-21.6 Methods to be used for quantifying actual emissions
+N.J.A.C. 7:27-21.6. Methods to be used for quantifying actual emissions
 N.J.A.C. 7:27-21.7. Recordkeeping requirements
 N.J.A.C. 7:27-21.8. Certification of information
 N.J.A.C. 7:27-21.9. Request for extensions
-N.J.A.C. 7:27-21.10. Notification of non-applicability
+N.J.A.C. 7:27-21.10. Determination of non-applicability
 N.J.A.C. 7:27-21.11. Severability
-Chapter 27 Subchapter 22—Operating Permits (Effective 12/1/08)
+Appendix 1
+Chapter 27 Subchapter 22—Operating Permits (Effective 1/16/2018)
 N.J.A.C. 7:27-22.1. Definitions
 N.J.A.C. 7:27-22.2. Applicability
 N.J.A.C. 7:27-22.3. General provisions
@@ -1232,39 +1230,9 @@ N.J.A.C. 7:27-22.32. Hearings and appeals
 N.J.A.C. 7:27-22.33. Preconstruction review
 N.J.A.C. 7:27-22.34. Early reduction of HAP emissions
 N.J.A.C. 7:27-22.35. Advances in the art of air pollution
-APPENDIX
-TABLE A
-TABLE B
-Chapter 27 Subchapter 30—Clean Air Interstate Rule (CAIR) NOX Trading Program (Effective 8/17/07)
-N.J.A.C. 7:27-30.1. Purpose and scope
-N.J.A.C. 7:27-30.2. Definitions
-N.J.A.C. 7:27-30.3. Allocation of CAIR NOX annual allowances & CAIR NOX ozone season allowances
-N.J.A.C. 7:27-30.4. The compliance supplement pool
-N.J.A.C. 7:27-30.5. Claims for incentive allowances
-N.J.A.C. 7:27-30.6. Reporting requirements
-Chapter 27 Subchapter 31—NOX Budget Program (Effective 4/5/04)
-N.J.A.C. 7:27-31.1. Purpose and scope
-N.J.A.C. 7:27-31.2. Definitions
-N.J.A.C. 7:27-31.3. Applicability and general provisions
-N.J.A.C. 7:27-31.4. Opt-in provisions
-N.J.A.C. 7:27-31.5. Interface with the emission offset program
-N.J.A.C. 7:27-31.6. Use of allowances by former users of DER credits
-N.J.A.C. 7:27-31.7. Annual allowance allocation
-N.J.A.C. 7:27-31.8. Claims for incentive allowances
-N.J.A.C. 7:27-31.9. Permits
-N.J.A.C. 7:27-31.10. Allowance use, transfer and retirement
-N.J.A.C. 7:27-31.11. Allowance banking
-N.J.A.C. 7:27-31.12. Early reductions
-N.J.A.C. 7:27-31.13. NOX allowance tracking system (NATS)
-N.J.A.C. 7:27-31.14. Emission monitoring
-N.J.A.C. 7:27-31.15. Recordkeeping
-N.J.A.C. 7:27-31.16. Reporting
-N.J.A.C. 7:27-31.17. End-of-season reconciliation
-N.J.A.C. 7:27-31.18. Compliance certification
-N.J.A.C. 7:27-31.19. Excess emissions deduction
-N.J.A.C. 7:27-31.20. Program audit
-N.J.A.C. 7:27-31.21. Guidance documents and sources incorporated by reference
-Chapter 27B Subchapter 1—Sampling and Analytical Procedures for Determining Emissions of Particles From Manufacturing Processes and From Combustion of Fuels (Effective 6/1/76)
+Appendix
+Table A
+Chapter 27B Subchapter 1—Sampling and Analytical Procedures for Determining Emissions of Particles From Manufacturing Processes and From Combustion of Fuels (Effective 6/21/1976)
 N.J.A.C. 7:27B-1.1. Definitions
 N.J.A.C. 7:27B-1.2. Acceptable test methods
 N.J.A.C. 7:27B-1.3. Operating conditions during the test
@@ -1279,18 +1247,18 @@ N.J.A.C. 7:27B-1.11. Sample recovery
 N.J.A.C. 7:27B-1.12. Analysis
 N.J.A.C. 7:27B-1.13. Calculations
 N.J.A.C. 7:27B-1.14. Validation of test
-Chapter 27B Subchapter 2—Procedures for Visual Determination of the Opacity (Percent) and Shade or Appearance (Ringelmann Number) of Emissions From Sources (Effective 6/21/76)
+Chapter 27B Subchapter 2—Procedures for Visual Determination of the Opacity (Percent) and Shade or Appearance (Ringelmann Number) of Emissions From Sources (Effective 6/21/1976)
 N.J.A.C. 7:27B-2.1. Definitions
 N.J.A.C. 7:27B-2.2. Acceptable observation methods
 N.J.A.C. 7:27B-2.3. Observation principle
 N.J.A.C. 7:27B-2.4. General observation requirements
 N.J.A.C. 7:27B-2.5. Required observation data
 N.J.A.C. 7:27B-2.6. Certification
-REFERENCES
-APPENDIX
-Chapter 27B Subchapter 3—Air Test Method 3: Sampling and Analytical Procedures for the Determination of Volatile Organic Compounds From Source Operations (Effective 12/1/08)
+References
+Appendix
+Chapter 27B Subchapter 3—Air Test Method 3: Sampling and Analytical Procedures for the Determination of Volatile Organic Compounds From Source Operations (Effective 12/1/2008)
 N.J.A.C. 7:27B-3.1. Definitions
-N.J.A.C. 7:27B-3.2. Sampling and analytical protocol: acceptable test methods
+N.J.A.C. 7:27B-3.2. Sampling and analytical protocol: Acceptable test methods
 N.J.A.C. 7:27B-3.3. Operating conditions during the test
 N.J.A.C. 7:27B-3.4. Sampling facilities
 N.J.A.C. 7:27B-3.5. Source operations and applicable test methods
@@ -1304,7 +1272,7 @@ N.J.A.C. 7:27B-3.12. Procedures for the determination of volatile organic compou
 N.J.A.C. 7:27B-3.13. Procedures for the determination of leak tightness of gasoline delivery vessels
 N.J.A.C. 7:27B-3.14. Procedures for the direct detection of fugitive volatile organic compound leaks
 N.J.A.C. 7:27B-3.15. Procedures for the direct detection of fugitive volatile organic compound leaks from gasoline tank trucks and vapor collection systems using a combustible gas detector
-N.J.A.C. 7:27B-3.18. Test methods and sources incorporated by reference.
+N.J.A.C. 7:27B-3.18. Test methods and sources incorporated by reference
 New York
 (a) State requirements.
 (1) The following State of New York requirements are applicable to OCS Sources, October 20, 2007. New York Environmental Conservation Law—Department of Environmental Conservation. The following sections of Title 6, Chapter III:
