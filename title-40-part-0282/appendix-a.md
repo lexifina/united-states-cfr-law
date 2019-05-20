@@ -2138,32 +2138,39 @@ Section 334.538 Administrative Penalties and Other Actions
 9. Subchapter M: Reimbursable Cost Guidelines for the Petroleum Storage Tank Reimbursement Program
 Section 334.560 Reimbursable Cost Guidelines
 Utah
-(a) The statutory provisions include: Utah Code Unannotated (1994), Title 19, Chapter 6, Part 1, Solid and Hazardous Waste Act, and Chapter 6, Part 4, Underground Storage Tank Act:
-Section 19-6-109 Inspections authorized.
-Section 19-6-402 Definitions, except (3), (4), (8), (9), (11), (14), (15), (20), (23), and (26).
-Section 19-6-402.5 Retroactive effect.
-Section 19-6-403 Powers and duties of board, except (1)(a) (i) and (iv).
-Section 19-6-404 Powers and duties of executive secretary, except (2)(c), (2)(f), (2)(j), and (2)(m).
-Section 19-6-407 Underground storage tank registration—Change of ownership or operation—Civil penalty, except (2) and (3).
-Section 19-6-413 Tank tightness test—Actions required after testing.
-Section 19-6-420 Releases—Abatement actions—Corrective actions, except (1) through (3)(b), (4)(a), (5) (b) and (c), (6), and (9)(b).
-(b) The regulatory provisions include:
-(1) Administrative Rules of the State of Utah, Utah Administrative Code (1993):
-Section R311-200-1 Definitions, except (2), (5), (8), (10), (13), (20), (29), (42) through (49), (53), and (54).
-Section R311-202-1 Incorporation by Reference.
-Section R311-203-1 Definitions.
-Section R311-203-3 New Installations.
-Section R311-203-4 Notification.
-Section R311-204-1 Definitions
-Section R311-204-2 Underground Storage Tank Closure Plan.
-Section R311-204-3 Disposal.
-Section R311-204-4 Subsequent Closure Notice.
-Section R311-205-1 Definitions.
-Section R311-205-2 Site Assessment Protocol.
-Section R311-206-1 Definitions.
-Section R311-206-2 Requirements for Issuance of Certificates, except (b) and (c).
-Section R311-206-3 Application for Certificates.
-Section R311-206-5 Revocation and Reissuance of Certificates, except (b), (c), (d), and the words "compliance or" in R311-206-5(a).
+(a) The statutory provisions include: Utah Code, Title 19: "Environmental Quality Code," Chapter 1, "General Provisions, Part 2, Powers," (May 8, 1991) and Chapter 6, "Hazardous Substances, Part 4, Underground Storage Tank Act" (May 8, 2018):
+Section 19-1-203, Representatives of department authorized to enter regulated premises.
+Section 19-6-402, Definitions, except (3), (4), (8), (9), (11), (14), (15), (20), (23) and (26).
+Section 19-6-402.5, Retroactive effect.
+Section 19-6-403, Powers and duties of board, except (1)(a)(i), (1)(a)(vi) and (1)(a)(vii).
+Section 19-6-404, Powers and duties of director, except 2(c), 2(f), 2(j) and 2(m).
+Section 19-6-407, Underground storage tank registration—Change of ownership or operation—civil penalty, except (2) and (3).
+Section 19-6-413, Tank tightness test—Action required after testing.
+Section 19-6-420 Abatement actions—Corrective actions, except (1) through (3)(b), (4)(a), (5)(b) and (c), (6), and 9(b).
+(b) Administrative Rules of the State of Utah, Title 311 Environmental Quality, Environmental Response and Remediation, Utah Administrative Code (April 1, 2018):
+(1) Section R311-200-1, Underground Storage Tanks: Definitions, except (b)(2), (b)(5), (b)(6), (b)(7), (b)(10), (b)(11), (b)(12), (b)(13), (b)(20), (b)(22), (b)(28), (b)(34), (b)(38), (b)(44), (b)(45), (b)(49), (b)(51), (b)(55), (b)(56), (b)(58), and (b)(59).
+Section R311-201-1, Underground Storage Tanks: Definitions, except those definitions listed as excepted under R311-200-1.
+Section R311-201-12, Underground Storage Tanks: Certification Programs and UST Operator Training, UST Operator Training and Registration, except (d)(2) and (f).
+Section R311-202-1, Federal Underground Storage Tank Regulations, Incorporation by reference, except (a), (b), (c), and (d).
+Section R311-203-1, Underground Storage Tanks: Technical Standards, Definitions, except those definitions listed as excepted under R311-200-1.
+Section R311-203-2, Notification.
+Section R311-203-3, New installations, permits, except (b), (c), and (g).
+Section R311-203-5, UST testing requirements.
+Section R311-203-6, Secondary containment and under-dispenser containment.
+Section R311-203-7, Operator inspections.
+Section R311-203-8, Unattended facilities.
+Section R311-204-1, Underground Storage Tanks: Closure and Remediation, Definitions, except those definitions listed as excepted under R311-200-1.
+Section R311-204-2, Underground Storage Tank Closure Plan.
+Section R311-204-3, Disposal.
+Section R311-204-4, Closure notice.
+Section R311-205-1, Underground Storage Tanks: Site Assessment Protocol, Definitions, except those definitions listed as excepted under R311-200-1.
+Section R311-205-2, Site assessment protocol.
+Section R311-206-1, Underground Storage Tanks: Certificate of Compliance and Financial Assurance Mechanisms, Definitions, except those definitions listed as excepted under R311-200-1.
+Section R311-206-2, Declaration of financial assurance mechanisms, except (a)(1), (b), and (c).
+Section R311-206-3, Requirements for issuance of certificates of compliance, except (7) and (8).
+Section R311-206-5, Requirements for owners and operators demonstrating financial assurance by other methods, except (b) and (b)(2).
+Section R311-206-8, Delivery prohibition, except (a)(1)—(4) and (f)(1)(A).
+(c) Copies of the Utah regulations that are incorporated by reference are available from the Utah's Office of Administrative Rules, Office Coordinator, P.O. Box 141007, Salt Lake City, UT 84114-1007; Phone number: 801-538-3003; website: https://rules.utah.gov/publications/utah-adm-code/.
 Vermont
 (a) The statutory provisions include Vermont Statutes Annotated, 1992, Chapter 59. Underground Liquid Storage Tanks:
 Section 1921 Purpose.
