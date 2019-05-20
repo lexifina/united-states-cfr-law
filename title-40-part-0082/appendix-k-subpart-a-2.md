@@ -1,4 +1,4 @@
-# Appendix K To Subpart A Of Part 82—Commodity Codes From the Harmonized Tariff Schedule for Controlled Substances and Used Controlled Substances
+# Appendix K to Subpart A of Part 82—Commodity Codes From the Harmonized Tariff Schedule for Controlled Substances and Used Controlled Substances
 Description of commodity or chemical | Commodity code from harmonized tariff schedule
 Class II:
 HCFC-22 (Chlorodifluoromethane) | 2903.71.0000
