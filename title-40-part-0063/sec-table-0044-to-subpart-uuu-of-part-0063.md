@@ -56,7 +56,7 @@ Citation | Subject | Applies to subpart UUU | Explanation
 § 63.6(f)(2)(i)-(iii)(C) | Compliance with Standards and Maintenance Requirements | Yes
 § 63.6(f)(2)(iii)(D) | | Yes
 § 63.6(f)(2)(iv)-(v) | | Yes
-§ 63.6(f)(3) | | Yes | Except the cross-references to § 63.6(f)(1) and (e)(1)(i) are changed to § 63.1570(c).
+§ 63.6(f)(3) | | Yes | Except the cross-references to § 63.6(f)(1) and (e)(1)(i) are changed to § 63.1570(c) and this subpart specifies how and when the performance test results are reported.
 § 63.6(g) | Alternative Standard | Yes
 § 63.6(h)(1) | SSM Exemption for Opacity/VE Standards | No
 § 63.6(h)(2)(i) | Determining Compliance with Opacity/VE Standards | No | This subpart specifies methods.
@@ -66,19 +66,19 @@ Citation | Subject | Applies to subpart UUU | Explanation
 § 63.6(h)(4) | Notification of Opacity/VE Observation Date | Yes | Applies to Method 22 (40 CFR part 60, appendix A-7) tests.
 § 63.6(h)(5) | Conducting Opacity/VE Observations | No
 § 63.6(h)(6) | Records of Conditions During Opacity/VE Observations | Yes | Applies to Method 22 (40 CFR part 60, appendix A-7) observations.
-§ 63.6(h)(7)(i) | Report COM Monitoring Data from Performance Test | Yes
+§ 63.6(h)(7)(i) | Report COM Monitoring Data from Performance Test | Yes | Except this subpart specifies how and when the performance test results are reported.
 § 63.6(h)(7)(ii) | Using COM Instead of Method 9 | No
 § 63.6(h)(7)(iii) | Averaging Time for COM during Performance Test | Yes
 § 63.6(h)(7)(iv) | COM Requirements | Yes
 § 63.6(h)(7)(v) | COMS Results and Visual Observations | Yes
-§ 63.6(h)(8) | Determining Compliance with Opacity/VE Standards | Yes
+§ 63.6(h)(8) | Determining Compliance with Opacity/VE Standards | Yes | Except this subpart specifies how and when the performance test results are reported.
 § 63.6(h)(9) | Adjusted Opacity Standard | Yes
 § 63.6(i)(1)-(14) | Extension of Compliance | Yes | Extension of compliance under § 63.6(i)(4) not applicable to a facility that installs catalytic cracking feed hydrotreating and receives an extended compliance date under § 63.1563(c).
 § 63.6(i)(15) | [Reserved] | Not applicable
 § 63.6(i)(16) | | Yes
 § 63.6(j) | Presidential Compliance Exemption | Yes
 § 63.7(a)(1) | Performance Test Requirements Applicability | Yes | Except that this subpart specifies the applicable test and demonstration procedures.
-§ 63.7(a)(2) | Performance Test Dates | Yes | Except test results must be submitted in the Notification of Compliance Status report due 150 days after the compliance date.
+§ 63.7(a)(2) | Performance Test Dates | Yes | Except this subpart specifies that the results of initial performance tests must be submitted within 150 days after the compliance date.
 § 63.7(a)(3) | Section 114 Authority | Yes
 § 63.7(a)(4) | Force Majeure | Yes
 § 63.7(b) | Notifications | Yes | Except that this subpart specifies notification at least 30 days prior to the scheduled test date rather than 60 days.
@@ -87,7 +87,7 @@ Citation | Subject | Applies to subpart UUU | Explanation
 § 63.7(e)(1) | Performance Testing | No | See § 63.1571(b)(1).
 § 63.7(e)(2)-(4) | Conduct of Tests | Yes
 § 63.7(f) | Alternative Test Method | Yes
-§ 63.7(g) | Data Analysis, Recordkeeping, Reporting | Yes | Except performance test reports must be submitted with notification of compliance status due 150 days after the compliance date, and § 63.7(g)(2) is reserved and does not apply.
+§ 63.7(g) | Data Analysis, Recordkeeping, Reporting | Yes | Except this subpart specifies how and when the performance test or performance evaluation results are reported and § 63.7(g)(2) is reserved and does not apply.
 § 63.7(h) | Waiver of Tests | Yes
 § 63.8(a)(1) | Monitoring Requirements-Applicability | Yes
 § 63.8(a)(2) | Performance Specifications | Yes
@@ -106,7 +106,7 @@ Citation | Subject | Applies to subpart UUU | Explanation
 § 63.8(c)(7)-(8) | CMS Requirements | Yes
 § 63.8(d)(1)-(2) | Quality Control Program for CMS | Yes
 § 63.8(d)(3) | Written Procedures for CMS | No
-§ 63.8(e) | CMS Performance Evaluation | Yes | Except that results are to be submitted as part of the Notification Compliance Status due 150 days after the compliance date.
+§ 63.8(e) | CMS Performance Evaluation | Yes | Except this subpart specifies how and when the performance evaluation results are reported.
 § 63.8(f)(1)-(5) | Alternative Monitoring Methods | Yes | Except that this subpart specifies procedures for requesting alternative monitoring systems and alternative parameters.
 § 63.8(f)(6) | Alternative to Relative Accuracy Test | Yes | Applicable to continuous emission monitoring systems if performance specification requires a relative accuracy test audit.
 § 63.8(g)(1)-(4) | Reduction of Monitoring Data | Yes | Applies to continuous opacity monitoring system or continuous emission monitoring system.
@@ -140,13 +140,13 @@ Citation | Subject | Applies to subpart UUU | Explanation
 § 63.10(c)(12)-(14) | Additional CMS Recordkeeping Requirements | Yes
 § 63.10(c)(15) | Use of SSM Plan | No
 § 63.10(d)(1) | General Reporting Requirements | Yes
-§ 63.10(d)(2) | Performance Test Results | No | This subpart requires performance test results to be reported as part of the Notification of Compliance Status due 150 days after the compliance date.
+§ 63.10(d)(2) | Performance Test Results | No | This subpart specifies how and when the performance test results are reported.
 § 63.10(d)(3) | Opacity or VE Observations | Yes
 § 63.10(d)(4) | Progress Reports | Yes
 § 63.10(d)(5) | SSM Reports | No | See § 63.1575(d) for CPMS malfunction reporting and § 63.1575(e) for COMS and CEMS malfunction reporting.
-§ 63.10(e)(1)-(2) | Additional CMS Reports | Yes | Except that reports of performance evaluations must be submitted in Notification of Compliance Status.
+§ 63.10(e)(1)-(2) | Additional CMS Reports | Yes | Except this subpart specifies how and when the performance evaluation results are reported.
 § 63.10(e)(3) | Excess Emissions/CMS Performance Reports | No | This subpart specifies the applicable requirements.
-§ 63.10(e)(4) | COMS Data Reports | Yes
+§ 63.10(e)(4) | COMS Data Reports | Yes | Except this subpart specifies how and when the performance test results are reported.
 § 63.10(f) | Recordkeeping/Reporting Waiver | Yes
 § 63.11(a) | Control Device and Work Practice Requirements Applicability | Yes
 § 63.11(b) | Flares | Yes | Except that flares complying with § 63.670 are not subject to the requirements of § 63.11(b).
