@@ -1,5 +1,4 @@
 # Table W-3A to Subpart W of Part 98—Default Total Hydrocarbon Leaker Emission Factors for Onshore Natural Gas Transmission Compression
-Table W-3A to Subpart W of Part 98—Default Total Hydrocarbon Leaker Emission Factors for Onshore Natural Gas Transmission Compression
 Onshore natural gas transmission compression | Emission factor(scf/hour/component) | If you survey using any of the methods in § 98.234(a)(1)through (6) | If you survey using Method 21 asspecified in § 98.234(a)(7)
 Leaker Emission Factors—Compressor Components, Gas Service
 Valve 1 | 14.84 | 9.51

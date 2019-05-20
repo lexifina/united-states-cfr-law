@@ -1,5 +1,4 @@
 # Table W-6A to Subpart W of Part 98—Default Methane Leaker Emission Factors for LNG Import and Export Equipment
-Table W-6A to Subpart W of Part 98—Default Methane Leaker Emission Factors for LNG Import and Export Equipment
 LNG import and export equipment | Emission factor(scf/hour/component) | If you survey using any of the methods in § 98.234(a)(1)through (6) | If you survey using Method 21 asspecified in § 98.234(a)(7)
 Leaker Emission Factors—LNG Terminals Components, LNG Service
 Valve | 1.19 | 0.23
