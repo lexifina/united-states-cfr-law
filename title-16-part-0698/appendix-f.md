@@ -1,4 +1,0 @@
-# Appendix F to Part 698—General Summary of Consumer Rights
-The prescribed form for this summary is a disclosure that is substantially similar to the Commission's model summary with all information clearly and prominently displayed. The list of federal regulators that is included in the Commission's prescribed summary may be provided separately so long as this is done in a clear and conspicuous way. A summary should accurately reflect changes to those items that may change over time (e.g., dollar amounts, or telephone numbers and addresses of federal agencies) to remain in compliance. Translations of this summary will be in compliance with the Commission's prescribed model, provided that the translation is accurate and that it is provided in a language used by the recipient consumer.
-ER30NO04.002
-ER30NO04.003
