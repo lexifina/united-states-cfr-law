@@ -274,7 +274,7 @@ License Requirements
 Reason for Control: CC, FC, UN
 Control(s) | Country Chart (See Supp. No. 1 to part 738)
 FC applies to entire entry | FC Column 1.
-CC applies to shotguns with a barrel length greater than or equal to 18 in. (45.72 cm), but less than 24 in. (60.96 cm), shotgun "components" controlled by this entry, and buckshot shotgun shells controlled by this entry, regardless of end-user | CC Column 1
+CC applies to shotguns with a barrel length greater than or equal to 18 in. (45.72 cm), but less than 24 in. (60.96 cm), shotgun "components" controlled by this entry, and buckshot shotgun shells controlled by this entry, regardless of end-user | CC Column 1.
 CC applies to shotguns with a barrel length greater than or equal to 24 in. (60.96 cm), regardless of end-user | CC Column 2.
 CC applies to shotguns with a barrel length greater than or equal to 24 in. (60.96 cm) if for sale or resale to police or law enforcement | CC Column 3.
 UN applies to entire entry | See § 746.1(b) for UN controls.
@@ -5712,22 +5712,22 @@ A. "End Items", "Equipment", "Accessories", "Attachments", "Parts", "Components"
 Note 1: The control status of equipment and "components" described in 3A001 or 3A002, other than those described in 3A001.a.3 to 3A001.a.10, or 3A001.a.12 to 3A001.a.14, which are "specially designed" for or which have the same functional characteristics as other equipment is determined by the control status of the other equipment.
 Note 2: The control status of integrated circuits described in 3A001.a.3 to 3A001.a.9, or 3A001.a.12 to 3A001.a.14, which are unalterably programmed or designed for a specific function for other equipment is determined by the control status of the other equipment.
 N.B.: When the manufacturer or applicant cannot determine the control status of the other equipment, the control status of the integrated circuits is determined in 3A001.a.3 to 3A001.a.9, and 3A001.a.12 to 3A001.a.14.
-3A001 Electronic items as follows (see List of Items Controlled).
+3A001 Electronic Items as Follows (see List of Items Controlled).
 Reason for Control: NS, RS, MT, NP, AT
-Control(s) | Country chart(see Supp. No. 1 to part 738)
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
 NS applies to "Monolithic Microwave Integrated Circuit" ("MMIC") amplifiers in 3A001.b.2 and discrete microwave transistors in 3A001.b.3, except those 3A001.b.2 and b.3 items being exported or reexported for use in civil telecommunications applications | NS Column 1
 NS applies to entire entry | NS Column 2
 RS applies "Monolithic Microwave Integrated Circuit" ("MMIC") amplifiers in 3A001.b.2 and discrete microwave transistors in 3A001.b.3, except those 3A001.b.2 and b.3 items being exported or reexported for use in civil telecommunications applications | RS Column 1
-MT applies to 3A001.a.1.a when usable in "missiles"; and to 3A001.a.5.a when "designed or modified" for military use, hermetically sealed and rated for operation in the temperature range from below -54 °C to above +125 °C | MT Column 1
+MT applies to 3A001.a.1.a when usable in "missiles"; and to 3A001.a.5.a when "designed or modified" for military use, hermetically sealed and rated for operation in the temperature range from below −54ºC to above +125ºC | MT Column 1
 NP applies to pulse discharge capacitors in 3A001.e.2 and superconducting solenoidal electromagnets in 3A001.e.3 that meet or exceed the technical parameters in 3A201.a and 3A201.b, respectively | NP Column 1
 AT applies to entire entry | AT Column 1
 License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating "information security" functionality, and associated "software" and "technology" for the "production" or "development" of such microprocessors.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A for MT or NP; N/A for "Monolithic Microwave Integrated Circuit" ("MMIC") amplifiers in 3A001.b.2 and discrete microwave transistors in 3A001.b.3, except those that are being exported or reexported for use in civil telecommunications applications
 Yes for:
-$1,500: 3A001.c
-$3,000: 3A001.b.1, b.2 (exported or reexported for use in civil telecommunications applications), b.3 (exported or reexported for use in civil telecommunications applications), b.9,.d,.e,.f, and.g.
-$5,000: 3A001.a (except a.1.a and a.5.a when controlled for MT), b.4 to b.7, and b.12.
+$1500: 3A001.c
+$3000: 3A001.b.1, b.2 (exported or reexported for use in civil telecommunications applications), b.3 (exported or reexported for use in civil telecommunications applications), b.9,.d,.e,.f, and.g.
+$5000: 3A001.a (except a.1.a and a.5.a when controlled for MT), b.4 to b.7, and b.12.
 GBS: Yes for 3A001.a.1.b, a.2 to a.14 (except.a.5.a when controlled for MT), b.2 (exported or reexported for use in civil telecommunications applications), b.8 (except for vacuum electronic device amplifiers exceeding 18 GHz), b.9, b.10,.g,.h, and.i.
 CIV: Yes for 3A001.a.3, a.7, and a.11.
 Special Conditions for STA
@@ -5735,9 +5735,17 @@ STA: License Exception STA may not be used to ship any item in 3A001.b.2 or b.3,
 List of Items Controlled
 Related Controls: (1) See Category XV of the USML for certain "space-qualified" electronics and Category XI of the USML for certain ASICs, 'transmit/receive modules,' or 'transmit modules' "subject to the ITAR" (see 22 CFR parts 120 through 130). (2) See also 3A101, 3A201, 3A611, 3A991, and 9A515.
 Related Definitions: 'Microcircuit' means a device in which a number of passive or active elements are considered as indivisibly associated on or within a continuous structure to perform the function of a circuit. For the purposes of integrated circuits in 3A001.a.1, 5 × 103 Gy (Si) = 5 × 105 Rads (Si); 5 × 106 Gy (Si)/s = 5 × 108 Rads (Si)/s.
-Items: a. General purpose integrated circuits, as follows:
+Items:
+a. General purpose integrated circuits, as follows:
 Note 1: The control status of wafers (finished or unfinished), in which the function has been determined, is to be evaluated against the parameters of 3A001.a.
-Note 2: Integrated circuits include the following types: —"Monolithic integrated circuits" — "Hybrid integrated circuits"; — "Multichip integrated circuits"; — "Film type integrated circuits", including silicon-on-sapphire integrated circuits; — "Optical integrated circuits"; — "Three dimensional integrated circuits"; — "Monolithic Microwave Integrated Circuits" ("MMICs").
+Note 2: Integrated circuits include the following types:
+—"Monolithic integrated circuits";
+—"Hybrid integrated circuits";
+—"Multichip integrated circuits";
+—"Film type integrated circuits", including silicon-on-sapphire integrated circuits;
+—"Optical integrated circuits";
+—"Three dimensional integrated circuits";
+—"Monolithic Microwave Integrated Circuits" ("MMICs").
 a.1. Integrated circuits designed or rated as radiation hardened to withstand any of the following:
 a.1.a. A total dose of 5 × 103 Gy (Si), or higher;
 a.1.b. A dose rate upset of 5 × 106 Gy (Si)/s, or higher; or
@@ -5760,13 +5768,28 @@ a.5.a.3. A resolution of 12 bit or more, but less than 14 bit, with a "sample ra
 a.5.a.4. A resolution of 14 bit or more, but less than 16 bit, with a "sample rate" rate greater than 250 MSPS; or
 a.5.a.5. A resolution of 16 bit or more with a "sample rate" rate greater than 65 MSPS;
 N.B.: For integrated circuits that contain analog-to-digital converters and store or process the digitized data see 3A001.a.14.
-Technical Notes: 1. A resolution of n bit corresponds to a quantization of 2n levels. 2. The resolution of the ADC is the number of bits of the digital output that represents the measured analog input. Effective Number of Bits (ENOB) is not used to determine the resolution of the ADC. 3. For "multiple channel ADCs", the "sample rate" is not aggregated and the "sample rate" is the maximum rate of any single channel. 4. For "interleaved ADCs" or for "multiple channel ADCs" that are specified to have an interleaved mode of operation, the "sample rates" are aggregated and the "sample rate" is the maximum combined total rate of all of the interleaved channels.
+Technical Notes:
+1. A resolution of n bit corresponds to a quantization of 2 n levels.
+2. The resolution of the ADC is the number of bits of the digital output that represents the measured analog input. Effective Number of Bits (ENOB) is not used to determine the resolution of the ADC.
+3. For "multiple channel ADCs", the "sample rate" is not aggregated and the "sample rate" is the maximum rate of any single channel.
+4. For "interleaved ADCs" or for "multiple channel ADCs" that are specified to have an interleaved mode of operation, the "sample rates" are aggregated and the "sample rate" is the maximum combined total rate of all of the interleaved channels.
 a.5.b. Digital-to-Analog Converters (DAC) having any of the following:
 a.5.b.1. A resolution of 10 bit or more with an 'adjusted update rate' of greater than 3,500 MSPS; or
 a.5.b.2. A resolution of 12-bit or more with an 'adjusted update rate' of greater than 1,250 MSPS and having any of the following:
 a.5.b.2.a. A settling time less than 9 ns to arrive at or within 0.024% of full scale from a full scale step; or
 a.5.b.2.b. A 'Spurious Free Dynamic Range' (SFDR) greater than 68 dBc (carrier) when synthesizing a full scale analog signal of 100 MHz or the highest full scale analog signal frequency specified below 100 MHz.
-Technical Notes: 1. 'Spurious Free Dynamic Range' (SFDR) is defined as the ratio of the RMS value of the carrier frequency (maximum signal component) at the input of the DAC to the RMS value of the next largest noise or harmonic distortion component at its output. 2. SFDR is determined directly from the specification table or from the characterization plots of SFDR versus frequency. 3. A signal is defined to be full scale when its amplitude is greater than −3 dBfs (full scale). 4. 'Adjusted update rate' for DACs is: a. For conventional (non-interpolating) DACs, the 'adjusted update rate' is the rate at which the digital signal is converted to an analog signal and the output analog values are changed by the DAC. For DACs where the interpolation mode may be bypassed (interpolation factor of one), the DAC should be considered as a conventional (non-interpolating) DAC. b. For interpolating DACs (oversampling DACs), the 'adjusted update rate' is defined as the DAC update rate divided by the smallest interpolating factor. For interpolating DACs, the 'adjusted update rate' may be referred to by different terms including: • Input data rate. • input word rate. • input sample rate. • maximum total input bus rate. • maximum DAC clock rate for DAC clock input.
+Technical Notes:
+1. 'Spurious Free Dynamic Range' (SFDR) is defined as the ratio of the RMS value of the carrier frequency (maximum signal component) at the input of the DAC to the RMS value of the next largest noise or harmonic distortion component at its output.
+2. SFDR is determined directly from the specification table or from the characterization plots of SFDR versus frequency.
+3. A signal is defined to be full scale when its amplitude is greater than −3 dBfs (full scale).
+4. 'Adjusted update rate' for DACs is:
+a. For conventional (non-interpolating) DACs, the 'adjusted update rate' is the rate at which the digital signal is converted to an analog signal and the output analog values are changed by the DAC. For DACs where the interpolation mode may be bypassed (interpolation factor of one), the DAC should be considered as a conventional (non-interpolating) DAC.
+b. For interpolating DACs (oversampling DACs), the 'adjusted update rate' is defined as the DAC update rate divided by the smallest interpolating factor. For interpolating DACs, the 'adjusted update rate' may be referred to by different terms including:
+• Input data rate
+• input word rate
+• input sample rate
+• maximum total input bus rate
+• maximum DAC clock rate for DAC clock input.
 a.6. Electro-optical and "optical integrated circuits", designed for "signal processing" and having all of the following:
 a.6.a. One or more than one internal "laser" diode;
 a.6.b. One or more than one internal light detecting element; and
@@ -5774,9 +5797,15 @@ a.6.c. Optical waveguides;
 a.7. 'Field programmable logic devices' having any of the following:
 a.7.a. A maximum number of single-ended digital input/outputs of greater than 700; or
 a.7.b. An 'aggregate one-way peak serial transceiver data rate' of 500 Gb/s or greater;
-Note: 3A001.a.7 includes: —Complex Programmable Logic Devices (CPLDs) —Field Programmable Gate Arrays (FPGAs) —Field Programmable Logic Arrays (FPLAs) —Field Programmable Interconnects (FPICs)
+Note: 3A001.a.7 includes:
+—Complex Programmable Logic Devices (CPLDs)
+—Field Programmable Gate Arrays (FPGAs)
+—Field Programmable Logic Arrays (FPLAs)
+—Field Programmable Interconnects (FPICs)
 N.B.: For integrated circuits having field programmable logic devices that are combined with an analog-to-digital converter, see 3A001.a.14.
-Technical Notes: 1. Maximum number of digital input/outputs in 3A001.a.7.a is also referred to as maximum user input/outputs or maximum available input/outputs, whether the integrated circuit is packaged or bare die. 2. 'Aggregate one-way peak serial transceiver data rate' is the product of the peak serial one-way transceiver data rate times the number of transceivers on the FPGA.
+Technical Notes:
+1. Maximum number of digital input/outputs in 3A001.a.7.a is also referred to as maximum user input/outputs or maximum available input/outputs, whether the integrated circuit is packaged or bare die.
+2. 'Aggregate one-way peak serial transceiver data rate' is the product of the peak serial one-way transceiver data rate times the number of transceivers on the FPGA.
 a.8. [Reserved]
 a.9. Neural network integrated circuits;
 a.10. Custom integrated circuits for which the function is unknown, or the control status of the equipment in which the integrated circuits will be used is unknown to the manufacturer, having any of the following:
@@ -5802,14 +5831,26 @@ a.14.a.5. A resolution of 16 bit or more with a "sample rate" greater than 180 M
 a.14.b. Any of the following:
 a.14.b.1. Storage of digitized data; or
 a.14.b.2. Processing of digitized data;
-N.B. 1: For analog-to-digital converter integrated circuits see 3A001.a.5.a.
-N.B. 2: For field programmable logic devices see 3A001.a.7.
-Technical Notes: 1. A resolution of n bit corresponds to a quantization of 2n levels. 2. The resolution of the ADC is the number of bits of the digital output of the ADC that represents the measured analog input. Effective Number of Bits (ENOB) is not used to determine the resolution of the ADC. 3. For integrated circuits with non-interleaving "multiple channel ADCs", the "sample rate" is not aggregated and the "sample rate" is the maximum rate of any single channel. 4. For integrated circuits with "interleaved ADCs" or with "multiple channel ADCs" that are specified to have an interleaved mode of operation, the "sample rates" are aggregated and the "sample rate" is the maximum combined total rate of all of the interleaved channels.
+N.B. 1: For analog-to-digital converter integrated circuits, see 3A001.a.5.a.
+N.B. 2: For field programmable logic devices, see 3A001.a.7.
+Technical Notes:
+1. A resolution of n bit corresponds to a quantization of 2 n levels.
+2. The resolution of the ADC is the number of bits of the digital output of the ADC that represents the measured analog input. Effective Number of Bits (ENOB) is not used to determine the resolution of the ADC.
+3. For integrated circuits with non-interleaving "multiple channel ADCs", the "sample rate" is not aggregated and the "sample rate" is the maximum rate of any single channel.
+4. For integrated circuits with "interleaved ADCs" or with "multiple channel ADCs" that are specified to have an interleaved mode of operation, the "sample rates" are aggregated and the "sample rate" is the maximum combined total rate of all of the interleaved channels.
 b. Microwave or millimeter wave items, as follows:
-Technical Note: 1. For purposes of 3A001.b, the parameter peak saturated power output may also be referred to on product data sheets as output power, saturated power output, maximum power output, peak power output, or peak envelope power output. 2. For purposes of 3A001.b.1, 'vacuum electronic devices' are electronic devices based on the interaction of an electron beam with an electromagnetic wave propagating in a vacuum circuit or interacting with radio-frequency vacuum cavity resonators. 'Vacuum electronic devices' include klystrons, traveling-wave tubes, and their derivatives.
+Technical Notes:
+1. For purposes of 3A001.b, the parameter peak saturated power output may also be referred to on product data sheets as output power, saturated power output, maximum power output, peak power output, or peak envelope power output.
+2. For purposes of 3A001.b.1, 'vacuum electronic devices' are electronic devices based on the interaction of an electron beam with an electromagnetic wave propagating in a vacuum circuit or interacting with radio-frequency vacuum cavity resonators. 'Vacuum electronic devices' include klystrons, traveling-wave tubes, and their derivatives.
 b.1. 'Vacuum electronic devices' and cathodes, as follows:
-Note 1: 3A001.b.1 does not control 'vacuum electronic devices' designed or rated for operation in any frequency band and having all of the following: a. Does not exceed 31.8 GHz; and b. Is "allocated by the ITU" for radio-communications services, but not for radio-determination.
-Note 2: 3A001.b.1 does not control non-"space-qualified" 'vacuum electronic devices' having all the following: a. An average output power equal to or less than 50 W; and b. Designed or rated for operation in any frequency band and having all of the following: 1. Exceeds 31.8 GHz but does not exceed 43.5 GHz; and 2. Is "allocated by the ITU" for radio-communications services, but not for radio-determination.
+Note 1: 3A001.b.1 does not control 'vacuum electronic devices' designed or rated for operation in any frequency band and having all of the following:
+a. Does not exceed 31.8 GHz; and
+b. Is "allocated by the ITU" for radio-communications services, but not for radio-determination.
+Note 2: 3A001.b.1 does not control non-"space-qualified" 'vacuum electronic devices' having all the following:
+a. An average output power equal to or less than 50 W; and
+b. Designed or rated for operation in any frequency band and having all of the following:
+1. Exceeds 31.8 GHz but does not exceed 43.5 GHz; and
+2. Is "allocated by the ITU" for radio-communications services, but not for radio-determination.
 b.1.a. Traveling-wave 'vacuum electronic devices,' pulsed or continuous wave, as follows:
 b.1.a.1. Devices operating at frequencies exceeding 31.8 GHz;
 b.1.a.2. Devices having a cathode heater with a turn on time to rated RF power of less than 3 seconds;
@@ -5838,11 +5879,11 @@ b.2.b. Rated for operation at frequencies exceeding 6.8 GHz up to and including 
 b.2.b.1. A peak saturated power output greater than 10 W (40 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz; or
 b.2.b.2. A peak saturated power output greater than 5 W (37 dBm) at any frequency exceeding 8.5 GHz up to and including 16 GHz;
 b.2.c. Rated for operation with a peak saturated power output greater than 3 W (34.77 dBm) at any frequency exceeding 16 GHz up to and including 31.8 GHz, and with a "fractional bandwidth" of greater than 10%;
-b.2.d. Rated for operation with a peak saturated power output greater than 0.1n W (-70 dBm) at any frequency exceeding 31.8 GHz up to and including 37 GHz;
+b.2.d. Rated for operation with a peak saturated power output greater than 0.1n W (−70 dBm) at any frequency exceeding 31.8 GHz up to and including 37 GHz;
 b.2.e. Rated for operation with a peak saturated power output greater than 1 W (30 dBm) at any frequency exceeding 37 GHz up to and including 43.5 GHz, and with a "fractional bandwidth" of greater than 10%;
 b.2.f. Rated for operation with a peak saturated power output greater than 31.62 mW (15 dBm) at any frequency exceeding 43.5 GHz up to and including 75 GHz, and with a "fractional bandwidth" of greater than 10%;
 b.2.g. Rated for operation with a peak saturated power output greater than 10 mW (10 dBm) at any frequency exceeding 75 GHz up to and including 90 GHz, and with a "fractional bandwidth" of greater than 5%; or
-b.2.h. Rated for operation with a peak saturated power output greater than 0.1 nW (-70 dBm) at any frequency exceeding 90 GHz;
+b.2.h. Rated for operation with a peak saturated power output greater than 0.1 nW (−70 dBm) at any frequency exceeding 90 GHz;
 Note 1: [Reserved]
 Note 2: The control status of the "MMIC" whose rated operating frequency includes frequencies listed in more than one frequency range, as defined by 3A001.b.2.a through 3A001.b.2.h, is determined by the lowest peak saturated power output control threshold.
 Note 3: Notes 1 and 2 following the Category 3 heading for product group A. Systems, Equipment, and Components mean that 3A001.b.2 does not control "MMICs" if they are "specially designed" for other applications, e.g., telecommunications, radar, automobiles.
@@ -5858,9 +5899,10 @@ b.3.b.2. A peak saturated power output greater than 15 W (41.76 dBm) at any freq
 b.3.b.3. A peak saturated power output greater than 40 W (46 dBm) at any frequency exceeding 12 GHz up to and including 16 GHz; or
 b.3.b.4. A peak saturated power output greater than 7 W (38.45 dBm) at any frequency exceeding 16 GHz up to and including 31.8 GHz;
 b.3.c. Rated for operation with a peak saturated power output greater than 0.5 W (27 dBm) at any frequency exceeding 31.8 GHz up to and including 37 GHz;
-b.3.d. Rated for operation with a peak saturated power output greater than 1 W (30 dBm) at any frequency exceeding 37 GHz up to and including 43.5 GHz; or
-b.3.e. Rated for operation with a peak saturated power output greater than 0.1 nW (−70 dBm) at any frequency exceeding 43.5 GHz;
-Note 1: The control status of a transistor, whose rated operating frequency includes frequencies listed in more than one frequency range, as defined by 3A001.b.3.a through 3A001.b.3.e, is determined by the lowest peak saturated power output control threshold.
+b.3.d. Rated for operation with a peak saturated power output greater than 1 W (30 dBm) at any frequency exceeding 37 GHz up to and including 43.5 GHz;
+b.3.e. Rated for operation with a peak saturated power output greater than 0.1 nW (−70 dBm) at any frequency exceeding 43.5 GHz; or
+b.3.f. Other than those specified by 3A001.b.3.a to 3A001.b.3.e and rated for operation with a peak saturated power output greater than 5 W (37.0 dBm) at all frequencies exceeding 8.5 GHz up to and including 31.8 GHz;
+Note 1: The control status of a transistor in 3A001.b.3.a through 3A001.b.3.e, whose rated operating frequency includes frequencies listed in more than one frequency range, as defined by 3A001.b.3.a through 3A001.b.3.e, is determined by the lowest peak saturated power output control threshold.
 Note 2: 3A001.b.3 includes bare dice, dice mounted on carriers, or dice mounted in packages. Some discrete transistors may also be referred to as power amplifiers, but the status of these discrete transistors is determined by 3A001.b.3.
 b.4. Microwave solid state amplifiers and microwave assemblies/modules containing microwave solid state amplifiers, that are any of the following:
 b.4.a. Rated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz with a "fractional bandwidth" greater than 15%, and having any of the following:
@@ -5880,7 +5922,10 @@ b.4.e.1. A peak saturated power output greater than 0.2 W (23 dBm) at any freque
 b.4.e.2. A peak saturated power output greater than 20 mW (13 dBm) at any frequency exceeding 75 GHz up to and including 90 GHz, and with a "fractional bandwidth" of greater than 5%; or
 b.4.e.3. A peak saturated power output greater than 0.1 nW (−70 dBm) at any frequency exceeding 90 GHz; or
 b.4.f. [Reserved]
-N.B.: 1. For "MMIC" amplifiers see 3A001.b.2. 2. For 'transmit/receive modules' and 'transmit modules' see 3A001.b.12. 3. For converters and harmonic mixers, designed to extend the operating or frequency range of signal analyzers, signal generators, network analyzers or microwave test receivers, see 3A001.b.7.
+N.B.:
+1. For "MMIC" amplifiers see 3A001.b.2.
+2. For 'transmit/receive modules' and 'transmit modules' see 3A001.b.12.
+3. For converters and harmonic mixers, designed to extend the operating or frequency range of signal analyzers, signal generators, network analyzers or microwave test receivers, see 3A001.b.7.
 Note 1: [Reserved]
 Note 2: The control status of an item whose rated operating frequency includes frequencies listed in more than one frequency range, as defined by 3A001.b.4.a through 3A001.b.4.e, is determined by the lowest peak saturated power output control threshold.
 b.5. Electronically or magnetically tunable band-pass or band-stop filters, having more than 5 tunable resonators capable of tuning across a 1.5:1 frequency band (fmax/fmin) in less than 10 µs and having any of the following:
@@ -5897,7 +5942,7 @@ b.7.c.1. Beyond 110 GHz;
 b.7.c.2. To an output power greater than 31.62 mW (15 dBm) anywhere within the frequency range exceeding 43.5 GHz but not exceeding 90 GHz;
 b.7.c.3. To an output power greater than 1 mW (0 dBm) anywhere within the frequency range exceeding 90 GHz but not exceeding 110 GHz; or
 b.7.d. Designed to extend the frequency range of microwave test receivers beyond 110 GHz;
-b.8. Microwave power amplifiers containing `vacuum electronic devices' controlled by 3A001.b.1 and having all of the following:
+b.8. Microwave power amplifiers containing 'vacuum electronic devices' controlled by 3A001.b.1 and having all of the following:
 b.8.a. Operating frequencies above 3 GHz;
 b.8.b. An average output power to mass ratio exceeding 80 W/kg; and
 b.8.c. A volume of less than 400 cm3;
@@ -5908,8 +5953,10 @@ b.9.b. A volume less than the maximum rated power in Watts multiplied by 10 cm3/
 b.9.c. An "instantaneous bandwidth" greater than 1 octave (fmax. > 2fmin,) and having any of the following:
 b.9.c.1. For frequencies equal to or less than 18 GHz, an RF output power greater than 100 W; or
 b.9.c.2. A frequency greater than 18 GHz;
-Technical Notes: 1. To calculate the volume in 3A001.b.9.b., the following example is provided: For a maximum rated power of 20 W, the volume would be: 20 W × 10 cm3/W = 200 cm3. 2. The 'turn-on time' in 3A001.b.9.a. refers to the time from fully-off to fully operational, i.e., it includes the warm-up time of the MPM.
-b.10. Oscillators or oscillator assemblies, specified to operate with a single sideband (SSB) phase noise, in dBc/Hz, less (better) than −(126 + 20log10F−20log10f) anywhere within the range of 10 Hz ≤ F ≤ 10 kHz;
+Technical Notes:
+1. To calculate the volume in 3A001.b.9.b, the following example is provided: for a maximum rated power of 20 W, the volume would be: 20 W × 10 cm 3 /W = 200 cm 3.
+2. The 'turn-on time' in 3A001.b.9.a refers to the time from fully-off to fully operational, i.e., it includes the warm-up time of the MPM.
+b.10. Oscillators or oscillator assemblies, specified to operate with a single sideband (SSB) phase noise, in dBc/Hz, less (better) than −(126 + 20log10F − 20log10f) anywhere within the range of 10 Hz ≤F ≤10 kHz;
 Technical Note: In 3A001.b.10, F is the offset from the operating frequency in Hz and f is the operating frequency in MHz.
 b.11. 'Frequency synthesizer' "electronic assemblies" having a "frequency switching time" as specified by any of the following:
 b.11.a. Less than 143 ps;
@@ -5922,11 +5969,18 @@ b.11.g. Less than 1 ms within the synthesized frequency range exceeding 90 GHz;
 Technical Note: A 'frequency synthesizer' is any kind of frequency source, regardless of the actual technique used, providing a multiplicity of simultaneous or alternative output frequencies, from one or more outputs, controlled by, derived from or disciplined by a lesser number of standard (or master) frequencies.
 N.B.: For general purpose "signal analyzers", signal generators, network analyzers and microwave test receivers, see 3A002.c, 3A002.d, 3A002.e and 3A002.f, respectively.
 b.12. 'Transmit/receive modules,' 'transmit/receive MMICs,' 'transmit modules,' and 'transmit MMICs,' rated for operation at frequencies above 2.7 GHz and having all of the following:
-b.12.a. A peak saturated power output (in watts), Psat, greater than 505.62 divided by the maximum operating frequency (in GHz) squared [Psat > 505.62 W * GHz2/fGHz 2] for any channel;
+b.12.a. A peak saturated power output (in watts), Psat, greater than 505.62 divided by the maximum operating frequency (in GHz) squared [Psat>505.62 W*GHz2/fGHz 2] for any channel;
 b.12.b. A "fractional bandwidth" of 5% or greater for any channel;
-b.12.c. Any planar side with length d (in cm) equal to or less than 15 divided by the lowest operating frequency in GHz [d ≤ 15cm * GHz * N/fGHz] where N is the number of transmit or transmit/receive channels; and
+b.12.c. Any planar side with length d (in cm) equal to or less than 15 divided by the lowest operating frequency in GHz [d ≤ 15cm*GHz*N/fGHz] where N is the number of transmit or transmit/receive channels; and
 b.12.d. An electronically variable phase shifter per channel.
-Technical Notes: 1. A 'transmit/receive module' is a multifunction "electronic assembly" that provides bi-directional amplitude and phase control for transmission and reception of signals. 2. A 'transmit module' is an "electronic assembly" that provides amplitude and phase control for transmission of signals. 3. A 'transmit/receive MMIC' is a multifunction "MMIC" that provides bi-directional amplitude and phase control for transmission and reception of signals. 4. A 'transmit MMIC' is a "MMIC" that provides amplitude and phase control for transmission of signals. 5. 2.7 GHz should be used as the lowest operating frequency (f GHz) in the formula in 3A001.b.12.c for transmit/receive or transmit modules that have a rated operation range extending downward to 2.7 GHz and below [d ≤ 15cm * GHz * N/2.7 GHz]. 6. 3A001.b.12 applies to 'transmit/receive modules' or 'transmit modules' with or without a heat sink. The value of d in 3A001.b.12.c does not include any portion of the 'transmit/receive module' or 'transmit module' that functions as a heat sink. 7. 'Transmit/receive modules' or 'transmit modules,' 'transmit/receive MMICs' or 'transmit MMICs' may or may not have N integrated radiating antenna elements where N is the number of transmit or transmit/receive channels.
+Technical Notes:
+1. A 'transmit/receive module' is a multifunction "electronic assembly" that provides bi-directional amplitude and phase control for transmission and reception of signals.
+2. A 'transmit module' is an "electronic assembly" that provides amplitude and phase control for transmission of signals.
+3. A 'transmit/receive MMIC' is a multifunction "MMIC" that provides bi-directional amplitude and phase control for transmission and reception of signals.
+4. A 'transmit MMIC' is a "MMIC" that provides amplitude and phase control for transmission of signals.
+5. 2.7 GHz should be used as the lowest operating frequency (f GHz) in the formula in 3A001.b.12.c for transmit/receive or transmit modules that have a rated operation range extending downward to 2.7 GHz and below [d≤15cm*GHz*N/2.7 GHz].
+6. 3A001.b.12 applies to 'transmit/receive modules' or 'transmit modules' with or without a heat sink. The value of d in 3A001.b.12.c does not include any portion of the 'transmit/receive module' or 'transmit module' that functions as a heat sink.
+7. 'Transmit/receive modules' or 'transmit modules,' 'transmit/receive MMICs' or 'transmit MMICs' may or may not have N integrated radiating antenna elements where N is the number of transmit or transmit/receive channels.
 c. Acoustic wave devices as follows and "specially designed" "components" therefor:
 c.1. Surface acoustic wave and surface skimming (shallow bulk) acoustic wave devices, having any of the following:
 c.1.a. A carrier frequency exceeding 6 GHz;
@@ -5952,7 +6006,12 @@ e.1.a. 'Primary cells' having any of the following at 20 °C:
 e.1.a.1. 'Energy density' exceeding 550 Wh/kg and a 'continuous power density' exceeding 50 W/kg; or
 e.1.a.2. 'Energy density' exceeding 50 Wh/kg and a 'continuous power density' exceeding 350 W/kg;
 e.1.b. 'Secondary cells' having an 'energy density' exceeding 350 Wh/kg at 293 K (20 °C);
-Technical Notes: 1. For the purpose of 3A001.e.1, 'energy density' (Wh/kg) is calculated from the nominal voltage multiplied by the nominal capacity in ampere-hours (Ah) divided by the mass in kilograms. If the nominal capacity is not stated, energy density is calculated from the nominal voltage squared then multiplied by the discharge duration in hours divided by the discharge load in Ohms and the mass in kilograms. 2. For the purpose of 3A001.e.1, a 'cell' is defined as an electrochemical device, which has positive and negative electrodes, an electrolyte, and is a source of electrical energy. It is the basic building block of a battery. 3. For the purpose of 3A001.e.1.a, a 'primary cell' is a 'cell' that is not designed to be charged by any other source. 4. For the purpose of 3A001.e.1.b, a 'secondary cell' is a 'cell' that is designed to be charged by an external electrical source. 5. For the purpose of 3A001.e.1.a, 'continuous power density' (W/kg) is calculated from the nominal voltage multiplied by the specified maximum continuous discharge current in ampere (A) divided by the mass in kilograms. 'Continuous power density' is also referred to as specific power.
+Technical Notes:
+1. For the purpose of 3A001.e.1, 'energy density' (Wh/kg) is calculated from the nominal voltage multiplied by the nominal capacity in ampere-hours (Ah) divided by the mass in kilograms. If the nominal capacity is not stated, energy density is calculated from the nominal voltage squared then multiplied by the discharge duration in hours divided by the discharge load in Ohms and the mass in kilograms.
+2. For the purpose of 3A001.e.1, a 'cell' is defined as an electrochemical device, which has positive and negative electrodes, an electrolyte, and is a source of electrical energy. It is the basic building block of a battery.
+3. For the purpose of 3A001.e.1.a, a 'primary cell' is a 'cell' that is not designed to be charged by any other source.
+4. For the purpose of 3A001.e.1.b, a 'secondary cell' is a 'cell' that is designed to be charged by an external electrical source.
+5. For the purpose of 3A001.e.1.a, 'continuous power density' (W/kg) is calculated from the nominal voltage multiplied by the specified maximum continuous discharge current in ampere (A) divided by the mass in kilograms. 'Continuous power density' is also referred to as specific power.
 Note: 3A001.e does not control batteries, including single-cell batteries.
 e.2. High energy storage capacitors as follows:
 e.2.a. Capacitors with a repetition rate of less than 10 Hz (single shot capacitors) and having all of the following:
@@ -5971,14 +6030,21 @@ e.3.b. Inner diameter of the current carrying windings of more than 250 mm; and
 e.3.c. Rated for a magnetic induction of more than 8 T or "overall current density" in the winding of more than 300 A/mm2;
 e.4. Solar cells, cell-interconnect-coverglass (CIC) assemblies, solar panels, and solar arrays, which are "space-qualified", having a minimum average efficiency exceeding 20% at an operating temperature of 301 K (28 °C) under simulated 'AM0' illumination with an irradiance of 1,367 Watts per square meter (W/m2);
 Technical Note: 'AM0,' or 'Air Mass Zero,' refers to the spectral irradiance of sun light in the earth's outer atmosphere when the distance between the earth and sun is one astronomical unit (AU).
-f. Rotary input type absolute position encoders having an "accuracy" equal to or less (better) than ±1.0 second of arc and "specially designed" encoder rings, discs or scales therefor;
+f. Rotary input type absolute position encoders having an "accuracy" equal to or less (better) than ± 1.0 second of arc and "specially designed" encoder rings, discs or scales therefor;
 g. Solid-state pulsed power switching thyristor devices and 'thyristor modules,' using either electrically, optically, or electron radiation controlled switch methods and having any of the following:
 g.1. A maximum turn-on current rate of rise (di/dt) greater than 30,000 A/µs and off-state voltage greater than 1,100 V; or
 g.2. A maximum turn-on current rate of rise (di/dt) greater than 2,000 A/µs and having all of the following:
 g.2.a. An off-state peak voltage equal to or greater than 3,000 V; and
 g.2.b. A peak (surge) current equal to or greater than 3,000 A;
-Note: 3A001.g. includes: —Silicon Controlled Rectifiers (SCRs) —Electrical Triggering Thyristors (ETTs) —Light Triggering Thyristors (LTTs) —Integrated Gate Commutated Thyristors (IGCTs) —Gate Turn-off Thyristors (GTOs) —MOS Controlled Thyristors (MCTs) —Solidtrons
-Note 2: 3A001.g. does not control thyristor devices and 'thyristor modules' incorporated into equipment designed for civil railway or "civil aircraft" applications.
+Note 1: 3A001.g includes:
+—Silicon Controlled Rectifiers (SCRs)
+—Electrical Triggering Thyristors (ETTs)
+—Light Triggering Thyristors (LTTs)
+—Integrated Gate Commutated Thyristors (IGCTs)
+—Gate Turn-off Thyristors (GTOs)
+—MOS Controlled Thyristors (MCTs)
+—Solidtrons
+Note 2: 3A001.g does not control thyristor devices and 'thyristor modules' incorporated into equipment designed for civil railway or "civil aircraft" applications.
 Technical Note: For the purposes of 3A001.g, a 'thyristor module' contains one or more thyristor devices.
 h. Solid-state power semiconductor switches, diodes, or 'modules,' having all of the following:
 h.1. Rated for a maximum operating junction temperature greater than 488 K (215 °C);
@@ -5986,8 +6052,20 @@ h.2. Repetitive peak off-state voltage (blocking voltage) exceeding 300 V; and
 h.3. Continuous current greater than 1 A.
 Technical Note: For the purposes of 3A001.h, 'modules' contain one or more solid-state power semiconductor switches or diodes.
 Note 1: Repetitive peak off-state voltage in 3A001.h includes drain to source voltage, collector to emitter voltage, repetitive peak reverse voltage and peak repetitive off-state blocking voltage.
-Note: 3A001.h includes: —Junction Field Effect Transistors (JFETs) —Vertical Junction Field Effect Transistors (VJFETs) —Metal Oxide Semiconductor Field Effect Transistors (MOSFETs) —Double Diffused Metal Oxide Semiconductor Field Effect Transistor (DMOSFET) —Insulated Gate Bipolar Transistor (IGBT) —High Electron Mobility Transistors (HEMTs) —Bipolar Junction Transistors (BJTs) —Thyristors and Silicon Controlled Rectifiers (SCRs) —Gate Turn-Off Thyristors (GTOs) —Emitter Turn-Off Thyristors (ETOs) —PiN Diodes —Schottky Diodes
-Note 3: 3A001.h does not apply to switches, diodes, or 'modules,' incorporated into equipment designed for civil automobile, civil railway, or "civil aircraft" applications.
+Note 2: 3A001.h includes:
+—Junction Field Effect Transistors (JFETs)
+—Vertical Junction Field Effect Transistors (VJFETs)
+—Metal Oxide Semiconductor Field Effect Transistors (MOSFETs)
+—Double Diffused Metal Oxide Semiconductor Field Effect Transistor (DMOSFET)
+—Insulated Gate Bipolar Transistor (IGBT)
+—High Electron Mobility Transistors (HEMTs)
+—Bipolar Junction Transistors (BJTs)
+—Thyristors and Silicon Controlled Rectifiers (SCRs)
+—Gate Turn-Off Thyristors (GTOs)
+—Emitter Turn-Off Thyristors (ETOs)
+—PiN Diodes
+—Schottky Diodes
+Note 3: 3A001.h does not apply to switches, diodes, or 'modules', incorporated into equipment designed for civil automobile, civil railway, or "civil aircraft" applications.
 i. Intensity, amplitude, or phase electro-optic modulators, designed for analog signals and having any of the following:
 i.1. A maximum operating frequency of more than 10 GHz but less than 20 GHz, an optical insertion loss equal to or less than 3 dB and having any of the following:
 i.1.a. A 'half-wave voltage' ('Vπ') less than 2.7 V when measured at a frequency of 1 GHz or below; or
@@ -5995,7 +6073,7 @@ i.1.b. A 'Vπ' of less than 4 V when measured at a frequency of more than 1 GHz;
 i.2. A maximum operating frequency equal to or greater than 20 GHz, an optical insertion loss equal to or less than 3 dB and having any of the following:
 i.2.a. A 'Vπ' less than 3.3 V when measured at a frequency of 1 GHz or below; or
 i.2.b. A 'Vπ' less than 5 V when measured at a frequency of more than 1 GHz.
-Note: 3A001.i includes electro-optic modulators having optical input and output connectors (e.g.,fiber-optic pigtails).
+Note: 3A001.i includes electro-optic modulators having optical input and output connectors (e.g., fiber-optic pigtails).
 Technical Note: For the purposes of 3A001.i, a 'half-wave voltage' ('Vπ') is the applied voltage necessary to make a phase change of 180 degrees in the wavelength of light propagating through the optical modulator.
 3A002 General purpose "electronic assemblies", modules and equipment, as follows (see List of Items Controlled).
 License Requirements
@@ -6967,6 +7045,22 @@ List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
 Items: The list of items controlled is contained in the ECCN heading.
+3D005 "Software" "specially designed" to restore normal operation of a microcomputer, "microprocessor microcircuit" or "microcomputer microcircuit" within 1 ms after an Electromagnetic Pulse (EMP) or Electrostatic Discharge (ESD) disruption, without loss of continuation of operation.
+License Requirements
+Reason for Control: NS, AT
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+NS applies to entire entry | NS Column 1
+AT applies to entire entry | AT Column 1
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+CIV: N/A
+TSR: N/A
+Special Conditions for STA
+STA: License Exception STA may not be used to ship or transmit "software" to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: N/A
+Related Definitions: N/A
+Items:
+The list of items controlled is contained in the ECCN heading.
 3D101 "Software" "specially designed" or modified for the "use" of equipment controlled by 3A101.b.
 License Requirements
 Reason for Control: MT, AT
@@ -7951,42 +8045,93 @@ Note to the Cryptography Note:
 a. The item is of potential interest to a wide range of individuals and businesses; and
 b. The price and information about the main functionality of the item are available before purchase without the need to consult the vendor or supplier. A simple price inquiry is not considered to be a consultation.
 2. In determining eligibility of paragraph a. of Note 3, BIS may take into account relevant factors such as quantity, price, required technical skill, existing sales channels, typical customers, typical use or any exclusionary practices of the supplier.
-N.B. to Note 3 (Cryptography Note): You must submit a classification request or self-classification report to BIS for mass market encryption commodities and software eligible for the Cryptography Note employing a key length greater than 64 bits for the symmetric algorithm (or, for commodities and software not implementing any symmetric algorithms, employing a key length greater than 768 bits for asymmetric algorithms or greater than 128 bits for elliptic curve algorithms) in accordance with the requirements of § 740.17(b) of the EAR in order to be released from the "EI" and "NS" controls of ECCN 5A002 or 5D002.
+N.B. to Note 3 (Cryptography Note): You must submit a classification request or self-classification report to BIS for mass market encryption commodities and software eligible for the Cryptography Note employing a key length greater than 64 bits for the symmetric algorithm (or, for commodities and software not implementing any symmetric algorithms, employing a key length greater than 768 bits for asymmetric algorithms described by Technical note 2.b to 5A002.a or greater than 128 bits for elliptic curve algorithms, or any asymmetric algorithm described by Technical Note 2.c to 5A002.a) in accordance with the requirements of § 740.17(b) of the EAR in order to be released from the "EI" and "NS" controls of ECCN 5A002 or 5D002.
 A. "End Items," "Equipment," "Accessories," "Attachments," "Parts," "Components," and "Systems"
 I. Cryptographic "Information Security"
-5A002 "Information security" systems, equipment and "components", as follows (see List of Items Controlled).
+5A002 "Information security" systems, equipment and "components," as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, AT, EI
-Control(s) | Country chart(see Supp. No. 1 to part 738)
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
 NS applies to entire entry | NS Column 1
 AT applies to entire entry | AT Column 1
 EI applies to entire entry | Refer to § 742.15 of the EAR
 License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating "information security" functionality, and associated "software" and "technology" for the "production" or "development" of such microprocessors.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
-LVS: Yes: $500 for "components". N/A for systems and equipment.
+LVS: Yes: $500 for "components".
+N/A for systems and equipment.
 GBS: N/A
 CIV: N/A
 ENC: Yes for certain EI controlled commodities, see § 740.17 of the EAR for eligibility.
 List of Items Controlled
-Related Controls: (1) ECCN 5A002.a controls "components" providing the means or functions necessary for "information security". All such "components" are presumptively "specially designed" and controlled by 5A002.a. (2) See USML Categories XI (including XI(b)) and XIII(b) (including XIII(b)(2)) for controls on systems, equipment, and components described in 5A002.d or.e that are subject to the ITAR. (3) For Global Navigation Satellite Systems (GNSS) receiving equipment containing or employing decryption see 7A005, and for related decryption "software" and "technology" see 7D005 and 7E001. (4) Noting that items may be controlled elsewhere on the CCL, examples of items not controlled by ECCN 5A002.a.4 include the following: (a) An automobile where the only 'cryptography for data confidentiality' 'in excess of 56 bits of symmetric key length, or equivalent' is performed by a Category 5—Part 2 Note 3 eligible mobile telephone that is built into the car. In this case, secure phone communications support a non-primary function of the automobile but the mobile telephone (equipment), as a standalone item, is not controlled by ECCN 5A002 because it is excluded by the Cryptography Note (Note 3) (See ECCN 5A992.c). (b) An exercise bike with an embedded Category 5—Part 2 Note 3 eligible web browser, where the only controlled cryptography is performed by the web browser. In this case, secure web browsing supports a non-primary function of the exercise bike but the web browser ("software"), as a standalone item, is not controlled by ECCN 5D002 because it is excluded by the Cryptography Note (Note 3) (See ECCN 5D992.c). (5) After classification or self-classification in accordance with § 740.17(b) of the EAR, mass market encryption commodities that meet eligibility requirements are released from "EI" and "NS" controls. These commodities are designated 5A992.c.
+Related Controls: (1) ECCN 5A002.a controls "components" providing the means or functions necessary for "information security." All such "components" are presumptively "specially designed" and controlled by 5A002.a. (2) See USML Categories XI (including XI(b)) and XIII(b) (including XIII(b)(2)) for controls on systems, equipment, and components described in 5A002.d or.e that are subject to the ITAR. (3) For Global Navigation Satellite Systems (GNSS) receiving equipment containing or employing decryption see 7A005, and for related decryption "software" and "technology" see 7D005 and 7E001. (4) Noting that items may be controlled elsewhere on the CCL, examples of items not controlled by ECCN 5A002.a.4 include the following: (a) An automobile where the only 'cryptography for data confidentiality' having a 'described security algorithm' is performed by a Category 5—Part 2 Note 3 eligible mobile telephone that is built into the car. In this case, secure phone communications support a non-primary function of the automobile but the mobile telephone (equipment), as a standalone item, is not controlled by ECCN 5A002 because it is excluded by the Cryptography Note (Note 3) (See ECCN 5A992.c). (b) An exercise bike with an embedded Category 5—Part 2 Note 3 eligible web browser, where the only controlled cryptography is performed by the web browser. In this case, secure web browsing supports a non-primary function of the exercise bike but the web browser ("software"), as a standalone item, is not controlled by ECCN 5D002 because it is excluded by the Cryptography Note (Note 3) (See ECCN 5D992.c). (5) After classification or self-classification in accordance with § 740.17(b) of the EAR, mass market encryption commodities that meet eligibility requirements are released from "EI" and "NS" controls. These commodities are designated 5A992.c.
 Related Definitions: N/A
-Items: a. Designed or modified to use 'cryptography for data confidentiality' 'having in excess of 56 bits of symmetric key length, or equivalent,' where that cryptographic capability is usable, has been activated, or can be activated by means of "cryptographic activation" not employing a secure mechanism, as follows:
+Items:
+a. Designed or modified to use 'cryptography for data confidentiality' having a 'described security algorithm', where that cryptographic capability is usable, has been activated, or can be activated by means of "cryptographic activation" not employing a secure mechanism, as follows:
 a.1. Items having "information security" as a primary function;
 a.2. Digital communication or networking systems, equipment or components, not specified in paragraph 5A002.a.1;
 a.3. Computers, other items having information storage or processing as a primary function, and components therefor, not specified in paragraphs 5A002.a.1 or.a.2;
 N.B.: For operating systems see also 5D002.a.1 and.c.1.
-a.4. Items, not specified in paragraphs 5A002.a.1 to a.3, where the 'cryptography for data confidentiality' 'having in excess of 56 bits of symmetric key length, or equivalent' meets all of the following:
+a.4. Items, not specified in paragraphs 5A002.a.1 to a.3, where the 'cryptography for data confidentiality' having a 'described security algorithm' meets all of the following:
 a.4.a. It supports a non-primary function of the item; and
 a.4.b. It is performed by incorporated equipment or "software" that would, as a standalone item, be specified by ECCNs 5A002, 5A003, 5A004, 5B002 or 5D002.
 N.B. to paragraph a.4: See Related Control Paragraph (4) of this ECCN 5A002 for examples of items not controlled by 5A002.a.4.
-Technical Notes: 1. For the purposes of 5A002.a, 'cryptography for data confidentiality' means "cryptography" that employs digital techniques and performs any cryptographic function other than any of the following: 1.a. "Authentication"; 1.b. Digital signature; 1.c. Data integrity; 1.d. Non-repudiation; 1.e. Digital rights management, including the execution of copy-protected "software"; 1.f. Encryption or decryption in support of entertainment, mass commercial broadcasts or medical records management; or 1.g. Key management in support of any function described in paragraphs 1.a to 1.f of this Technical Note paragraph 1. 2. For the purposes of 5A002.a, 'in excess of 56 bits of symmetric key length, or equivalent' means any of the following: 2.a. A "symmetric algorithm" employing a key length in excess of 56 bits, not including parity bits; or 2.b. An "asymmetric algorithm" where the security of the algorithm is based on any of the following: 2.b.1. Factorization of integers in excess of 512 bits (e.g., RSA); 2.b.2. Computation of discrete logarithms in a multiplicative group of a finite field of size greater than 512 bits (e.g., Diffie-Hellman over Z/pZ); or 2.b.3. Discrete logarithms in a group other than mentioned in paragraph 2.b.2 of this Technical Note in excess of 112 bits (e.g., Diffie-Hellman over an elliptic curve).
-Note 1: Details of items must be accessible and provided upon request, in order to establish any of the following: a. Whether the item meets the criteria of 5A002.a.1 to a.4; or b. Whether the cryptographic capability for data confidentiality specified by 5A002.a is usable without "cryptographic activation".
-Note 2: 5A002.a does not control any of the following items, or specially designed "information security" components therefor: a. Smart cards and smart card 'readers/writers' as follows: a.1. A smart card or an electronically readable personal document (e.g., token coin, e-passport) that meets any of the following: a.1.a. The cryptographic capability meets all of the following: a.1.a.1. It is restricted for use in any of the following: a.1.a.1.a. Equipment or systems, not described by 5A002.a.1 to a.4; a.1.a.1.b. Equipment or systems, not using 'cryptography for data confidentiality' having 'in excess of 56 bits of symmetric key length, or equivalent'; or a.1.a.1.c. Equipment or systems, excluded from 5A002.a by entries b. to f. of this Note; and a.1.a.2. It cannot be reprogrammed for any other use; or a.1.b. Having all of the following: a.1.b.1. It is specially designed and limited to allow protection of 'personal data' stored within; a.1.b.2. Has been, or can only be, personalized for public or commercial transactions or individual identification; and a.1.b.3. Where the cryptographic capability is not user-accessible;
-Technical Note to paragraph a.1.b of Note 2: 'Personal data' includes any data specific to a particular person or entity, such as the amount of money stored and data necessary for "authentication". a.2. 'Readers/writers' specially designed or modified, and limited, for items specified by paragraph a.1 of this Note;
-Technical Note to paragraph a.2 of Note 2: 'Readers/writers' include equipment that communicates with smart cards or electronically readable documents through a network. b. Cryptographic equipment specially designed and limited for banking use or 'money transactions';
-Technical Note to paragraph b. of Note 2: 'Money transactions' in 5A002 Note 2 paragraph b. includes the collection and settlement of fares or credit functions. c. Portable or mobile radiotelephones for civil use (e.g., for use with commercial civil cellular radio communication systems) that are not capable of transmitting encrypted data directly to another radiotelephone or equipment (other than Radio Access Network (RAN) equipment), nor of passing encrypted data through RAN equipment (e.g., Radio Network Controller (RNC) or Base Station Controller (BSC)); d. Cordless telephone equipment not capable of end-to-end encryption where the maximum effective range of unboosted cordless operation (i.e., a single, unrelayed hop between terminal and home base station) is less than 400 meters according to the manufacturer's specifications; e. Portable or mobile radiotelephones and similar client wireless devices for civil use, that implement only published or commercial cryptographic standards (except for anti-piracy functions, which may be non-published) and also meet the provisions of paragraphs a.2 to a.4 of the Cryptography Note (Note 3 in Category 5—Part 2), that have been customized for a specific civil industry application with features that do not affect the cryptographic functionality of these original non-customized devices; f. Items, where the "information security" functionality is limited to wireless "personal area network" functionality, meeting all of the following: f.1. Implement only published or commercial cryptographic standards; and f.2. The cryptographic capability is limited to a nominal operating range not exceeding 30 meters according to the manufacturer's specifications, or not exceeding 100 meters according to the manufacturer's specifications for equipment that cannot interconnect with more than seven devices; g. Mobile telecommunications Radio Access Network (RAN) equipment designed for civil use, which also meet the provisions of paragraphs a.2 to a.4 of the Cryptography Note (Note 3 in Category 5—Part 2), having an RF output power limited to 0.1W (20 dBm) or less, and supporting 16 or fewer concurrent users; h. Routers, switches or relays, where the "information security" functionality is limited to the tasks of "Operations, Administration or Maintenance" ("OAM") implementing only published or commercial cryptographic standards; or i. General purpose computing equipment or servers, where the "information security" functionality meets all of the following: i.1. Uses only published or commercial cryptographic standards; and i.2. Is any of the following: i.2.a. Integral to a CPU that meets the provisions of Note 3 in Category 5—Part 2; i.2.b. Integral to an operating system that is not specified by 5D002; or i.2.c. Limited to "OAM" of the equipment.
+Technical Notes:
+1. For the purposes of 5A002.a, 'cryptography for data confidentiality' means "cryptography" that employs digital techniques and performs any cryptographic function other than any of the following:
+1.a. "Authentication;"
+1.b. Digital signature;
+1.c. Data integrity;
+1.d. Non-repudiation;
+1.e. Digital rights management, including the execution of copy-protected "software;"
+1.f. Encryption or decryption in support of entertainment, mass commercial broadcasts or medical records management; or
+1.g. Key management in support of any function described in paragraphs 1.a to 1.f of this Technical Note paragraph 1.
+2. For the purposes of 5A002.a, 'described security algorithm' means any of the following:
+2.a. A "symmetric algorithm" employing a key length in excess of 56 bits, not including parity bits; or
+2.b. An "asymmetric algorithm" where the security of the algorithm is based on any of the following:
+2.b.1. Factorization of integers in excess of 512 bits (e.g., RSA);
+2.b.2. Computation of discrete logarithms in a multiplicative group of a finite field of size greater than 512 bits (e.g., Diffie-Hellman over Z/pZ); or
+2.b.3. Discrete logarithms in a group other than mentioned in paragraph 2.b.2 of this Technical Note in excess of 112 bits (e.g., Diffie-Hellman over an elliptic curve); or
+2.c. An "asymmetric algorithm" where the security of the algorithm is based on any of the following:
+2.c.1. Shortest vector or closest vector problems associated with lattices (e.g., NewHope, Frodo, NTRUEncrypt, Kyber, Titanium);
+2.c.2. Finding isogenies between Supersingular elliptic curves (e.g., Supersingular Isogeny Key Encapsulation); or
+2.c.3. Decoding random codes (e.g., McEliece, Niederreiter).
+Technical Note: An algorithm described by Technical Note 2.c. may be referred to as being post-quantum, quantum-safe or quantum-resistant.
+Note 1: Details of items must be accessible and provided upon request, in order to establish any of the following:
+a. Whether the item meets the criteria of 5A002.a.1 to a.4; or
+b. Whether the cryptographic capability for data confidentiality specified by 5A002.a is usable without "cryptographic activation."
+Note 2: 5A002.a does not control any of the following items, or specially designed "information security" components therefor:
+a. Smart cards and smart card 'readers/writers' as follows:
+a.1. A smart card or an electronically readable personal document (e.g., token coin, e-passport) that meets any of the following:
+a.1.a. The cryptographic capability meets all of the following:
+a.1.a.1. It is restricted for use in any of the following:
+a.1.a.1.a. Equipment or systems, not described by 5A002.a.1 to a.4;
+a.1.a.1.b. Equipment or systems, not using 'cryptography for data confidentiality' having a 'described security algorithm'; or
+a.1.a.1.c. Equipment or systems, excluded from 5A002.a by entries b. to f. of this Note; and
+a.1.a.2. It cannot be reprogrammed for any other use; or
+a.1.b. Having all of the following:
+a.1.b.1. It is specially designed and limited to allow protection of 'personal data' stored within;
+a.1.b.2. Has been, or can only be, personalized for public or commercial transactions or individual identification; and
+a.1.b.3. Where the cryptographic capability is not user-accessible;
+Technical Note to paragraph a.1.b of Note 2: 'Personal data' includes any data specific to a particular person or entity, such as the amount of money stored and data necessary for "authentication."
+a.2. 'Readers/writers' specially designed or modified, and limited, for items specified by paragraph a.1 of this Note;
+Technical Note to paragraph a.2 of Note 2: 'Readers/writers' include equipment that communicates with smart cards or electronically readable documents through a network.
+b. Cryptographic equipment specially designed and limited for banking use or 'money transactions';
+Technical Note to paragraph b. of Note 2: 'Money transactions' in 5A002 Note 2 paragraph b. includes the collection and settlement of fares or credit functions.
+c. Portable or mobile radiotelephones for civil use (e.g., for use with commercial civil cellular radio communication systems) that are not capable of transmitting encrypted data directly to another radiotelephone or equipment (other than Radio Access Network (RAN) equipment), nor of passing encrypted data through RAN equipment (e.g., Radio Network Controller (RNC) or Base Station Controller (BSC));
+d. Cordless telephone equipment not capable of end-to-end encryption where the maximum effective range of unboosted cordless operation (i.e., a single, unrelayed hop between terminal and home base station) is less than 400 meters according to the manufacturer's specifications;
+e. Portable or mobile radiotelephones and similar client wireless devices for civil use, that implement only published or commercial cryptographic standards (except for anti-piracy functions, which may be non-published) and also meet the provisions of paragraphs a.2 to a.4 of the Cryptography Note (Note 3 in Category 5—Part 2), that have been customized for a specific civil industry application with features that do not affect the cryptographic functionality of these original non-customized devices;
+f. Items, where the "information security" functionality is limited to wireless "personal area network" functionality, meeting all of the following:
+f.1. Implement only published or commercial cryptographic standards; and
+f.2. The cryptographic capability is limited to a nominal operating range not exceeding 30 meters according to the manufacturer's specifications, or not exceeding 100 meters according to the manufacturer's specifications for equipment that cannot interconnect with more than seven devices;
+g. Mobile telecommunications Radio Access Network (RAN) equipment designed for civil use, which also meet the provisions of paragraphs a.2 to a.4 of the Cryptography Note (Note 3 in Category 5—Part 2), having an RF output power limited to 0.1W (20 dBm) or less, and supporting 16 or fewer concurrent users;
+h. Routers, switches or relays, where the "information security" functionality is limited to the tasks of "Operations, Administration or Maintenance" ("OAM") implementing only published or commercial cryptographic standards; or
+i. General purpose computing equipment or servers, where the "information security" functionality meets all of the following:
+i.1. Uses only published or commercial cryptographic standards; and
+i.2. Is any of the following:
+i.2.a. Integral to a CPU that meets the provisions of Note 3 in Category 5—Part 2;
+i.2.b. Integral to an operating system that is not specified by 5D002; or
+i.2.c. Limited to "OAM" of the equipment.
 b. Designed or modified for converting, by means of "cryptographic activation", an item not specified by Category 5—Part 2 into an item specified by 5A002.a or 5D002.c.1, and not released by the Cryptography Note (Note 3 in Category 5—Part 2), or for enabling, by means of "cryptographic activation", additional functionality specified by 5A002.a of an item already specified by Category 5—Part 2;
-c. Designed or modified to use or perform "quantum cryptography";
+c. Designed or modified to use or perform "quantum cryptography;"
 Technical Note: "Quantum cryptography" is also known as Quantum Key Distribution (QKD).
 d. Designed or modified to use cryptographic techniques to generate channelizing codes, scrambling codes or network identification codes, for systems using ultra-wideband modulation techniques and having any of the following:
 d.1. A bandwidth exceeding 500 MHz; or
@@ -8144,33 +8289,40 @@ A. "End Items", "Equipment", "Accessories", "Attachments", "Parts", "Components"
 6A001 Acoustic systems, equipment and "components," as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, AT
-Control(s) | Country chart(see Supp. No. 1 to part 738)
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
 NS applies to entire entry | NS Column 2
 AT applies to entire entry | AT Column 1
 Reporting Requirements
-See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
-LVS: $3000; N/A for 6A001.a.1.b.1 object detection and location systems having a transmitting frequency below 5 kHz or a sound pressure level exceeding 210 dB (reference 1 µPa at 1 m) for equipment with an operating frequency in the band from 30 kHz to 2 kHz inclusive; 6A001.a.1.e, 6A001.a.2.a.1, a.2.a.2, 6A001.a.2.a.3, a.2.a.5, a.2.a.6, 6A001.a.2.b; processing equipment controlled by 6A001.a.2.c, and "specially designed" for real-time application with towed acoustic hydrophone arrays; a.2.e.1, a.2.e.2; and bottom or bay cable systems controlled by 6A001.a.2.f and having processing equipment "specially designed" for real-time application with bottom or bay cable systems.
+LVS: $3000; N/A for 6A001.a.1.b.1 object detection and location systems having a transmitting frequency below 5 kHz or a sound pressure level exceeding 210 dB (reference 1 µPa at 1 m) for equipment with an operating frequency in the band from 2 kHz to 30 kHz inclusive; 6A001.a.1.e, 6A001.a.2.a.1, a.2.a.2, 6A001.a.2.a.3, a.2.a.5, a.2.a.6, 6A001.a.2.b; processing equipment controlled by 6A001.a.2.c, and "specially designed" for real-time application with towed acoustic hydrophone arrays; a.2.e.1, a.2.e.2; and bottom or bay cable systems controlled by 6A001.a.2.f and having processing equipment "specially designed" for real-time application with bottom or bay cable systems.
 GBS: Yes for 6A001.a.1.b.4.
 CIV: Yes for 6A001.a.1.b.4.
 Special Conditions for STA
 STA: License Exception STA may not be used to ship commodities in 6A001.a.1.b, 6A001.a.1.e or 6A001.a.2 (except.a.2.a.4) to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR).
 List of Items Controlled
-Related Controls: See also 6A991
+Related Controls: See also 6A991.
 Related Definitions: N/A
-Items: a. Marine acoustic systems, equipment and "specially designed" "components" therefor, as follows:
+Items:
+a. Marine acoustic systems, equipment and "specially designed" "components" therefor, as follows:
 a.1. Active (transmitting or transmitting-and-receiving) systems, equipment and "specially designed" "components" therefor, as follows:
-Note: 6A001.a.1 does not control equipment as follows: a. Depth sounders operating vertically below the apparatus, not including a scanning function exceeding ± 20°, and limited to measuring the depth of water, the distance of submerged or buried objects or fish finding; b. Acoustic beacons, as follows: 1. Acoustic emergency beacons; 2. Pingers "specially designed" for relocating or returning to an underwater position.
+Note: 6A001.a.1 does not control equipment as follows:
+a. Depth sounders operating vertically below the apparatus, not including a scanning function exceeding ± 20°, and limited to measuring the depth of water, the distance of submerged or buried objects or fish finding;
+b. Acoustic beacons, as follows:
+1. Acoustic emergency beacons;
+2. Pingers "specially designed" for relocating or returning to an underwater position.
 a.1.a. Acoustic seabed survey equipment as follows:
 a.1.a.1. Surface vessel survey equipment designed for sea bed topographic mapping and having all of the following:
 a.1.a.1.a. Designed to take measurements at an angle exceeding 20° from the vertical;
 a.1.a.1.b. Designed to measure seabed topography at seabed depths exceeding 600 m;
-a.1.a.1.c. 'Sounding resolution' less than 2; and
+a.1.a.1.c.'Sounding resolution' less than 2; and
 a.1.a.1.d. 'Enhancement' of the depth "accuracy" through compensation for all the following:
 a.1.a.1.d.1. Motion of the acoustic sensor;
 a.1.a.1.d.2. In-water propagation from sensor to the seabed and back; and
 a.1.a.1.d.3. Sound speed at the sensor;
-Technical Notes: 1. 'Sounding resolution' is the swath width (degrees) divided by the maximum number of soundings per swath. 2. 'Enhancement' includes the ability to compensate by external means.
+Technical Notes:
+1. 'Sounding resolution' is the swath width (degrees) divided by the maximum number of soundings per swath.
+2. 'Enhancement' includes the ability to compensate by external means.
 a.1.a.2. Underwater survey equipment designed for seabed topographic mapping and having any of the following:
 Technical Note: The acoustic sensor pressure rating determines the depth rating of the equipment specified by 6A001.a.1.a.2.
 a.1.a.2.a. Having all of the following:
@@ -8179,7 +8331,7 @@ a.1.a.2.a.2. 'Sounding rate' greater than 3,800 m/s; or
 Technical Note: 'Sounding rate' is the product of the maximum speed (m/s) at which the sensor can operate and the maximum number of soundings per swath assuming 100% coverage. For systems that produce soundings in two directions (3D sonars), the maximum of the 'sounding rate' in either direction should be used.
 a.1.a.2.b. Survey equipment, not specified by 6A001.a.1.a.2.a, having all of the following:
 a.1.a.2.b.1. Designed or modified to operate at depths exceeding 100 m;
-a.1.a.2.b.2. Designed to take measurements at an angle exceeding 20° from the vertical;
+a.1.a.2.b.2. Designed to take measurements at an angle exceeding 20º from the vertical;
 a.1.a.2.b.3. Having any of the following:
 a.1.a.2.b.3.a. Operating frequency below 350 kHz; or
 a.1.a.2.b.3.b. Designed to measure seabed topography at a range exceeding 200 m from the acoustic sensor; and
@@ -8187,11 +8339,14 @@ a.1.a.2.b.4. 'Enhancement' of the depth "accuracy" through compensation of all o
 a.1.a.2.b.4.a. Motion of the acoustic sensor;
 a.1.a.2.b.4.b. In-water propagation from sensor to the seabed and back; and
 a.1.a.2.b.4.c. Sound speed at the sensor.
-a.1.a.3. Side Scan Sonar (SSS) or Synthetic Aperture Sonar (SAS), designed for seabed imaging and having all of the following, and specially designed transmitting and receiving acoustic arrays therefor:
+a.1.a.3. Side Scan Sonar (SSS) or Synthetic Aperture Sonar (SAS), designed for seabed imaging and having all of the following, and "specially designed" transmitting and receiving acoustic arrays therefor:
 a.1.a.3.a. Designed or modified to operate at depths exceeding 500 m; and
-a.1.a.3.b. An 'area coverage rate' of greater than 570 m2/s while operating at the maximum range that it can operate with an `along track resolution' of less than 15 cm; and
+a.1.a.3.b. An 'area coverage rate' of greater than 570 m2/s while operating at the maximum range that it can operate with an 'along track resolution' of less than 15 cm; and
 a.1.a.3.c. An 'across track resolution' of less than 15 cm;
-Technical Notes: 1. 'Area coverage rate' (m2/s) is twice the product of the sonar range (m) and the maximum speed (m/s) at which the sensor can operate at that range. 2. 'Along track resolution' (cm), for SSS only, is the product of azimuth (horizontal) beamwidth (degrees) and sonar range (m) and 0.873. 3. 'Across track resolution' (cm) is 75 divided by the signal bandwidth (kHz).
+Technical Notes:
+1. 'Area coverage rate' (m 2 /s) is twice the product of the sonar range (m) and the maximum speed (m/s) at which the sensor can operate at that range.
+2. 'Along track resolution' (cm), for SSS only, is the product of azimuth (horizontal) beamwidth (degrees) and sonar range (m) and 0.873.
+3. 'Across track resolution' (cm) is 75 divided by the signal bandwidth (kHz).
 a.1.b Systems or transmitting and receiving arrays, designed for object detection or location, having any of the following:
 a.1.b.1. A transmitting frequency below 10 kHz;
 a.1.b.2. Sound pressure level exceeding 224dB (reference 1 µPa at 1 m) for equipment with an operating frequency in the band from 10 kHz to 24 kHz inclusive;
@@ -8202,18 +8357,23 @@ a.1.b.6. Designed to withstand pressure during normal operation at depths exceed
 a.1.b.6.a. Dynamic compensation for pressure; or
 a.1.b.6.b. Incorporating other than lead zirconate titanate as the transduction element;
 a.1.c. Acoustic projectors, including transducers, incorporating piezoelectric, magnetostrictive, electrostrictive, electrodynamic or hydraulic elements operating individually or in a designed combination and having any of the following:
-Notes: 1. The control status of acoustic projectors, including transducers, "specially designed" for other equipment is determined by the control status of the other equipment. 2. 6A001.a.1.c does not control electronic sources that direct the sound vertically only, or mechanical (e.g., air gun or vapor-shock gun) or chemical (e.g., explosive) sources. 3. Piezoelectric elements specified in 6A001.a.1.c include those made from lead-magnesium-niobate/lead-titanate (Pb(Mg1/3Nb2/3)O3-PbTiO3, or PMN-PT) single crystals grown from solid solution or lead-indium-niobate/lead-magnesium niobate/lead-titanate (Pb(In1/2Nb1/2)O3-Pb(Mg1/3Nb2/3)O3-PbTiO3, or PIN-PMN-PT) single crystals grown from solid solution.
+Notes:
+1. The control status of acoustic projectors, including transducers, "specially designed" for other equipment is determined by the control status of the other equipment.
+2. 6A001.a.1.c does not control electronic sources that direct the sound vertically only, or mechanical (e.g., air gun or vapor-shock gun) or chemical (e.g., explosive) sources.
+3. Piezoelectric elements specified in 6A001.a.1.c include those made from lead-magnesium-niobate/lead-titanate (Pb(Mg 1/3 Nb 2/3 O 3 −PbTiO 3, or PMN-PT) single crystals grown from solid solution or lead-indium-niobate/lead-magnesium niobate/lead-titanate (Pb(In 1/2 Nb 1/2)O 3-Pb(Mg 1/3 Nb 2/3)O 3-PbTiO 3, or PIN-PMN-PT) single crystals grown from solid solution.
 a.1.c.1. Operating at frequencies below 10 kHz and having any of the following:
 a.1.c.1.a. Not designed for continuous operation at 100% duty cycle and having a radiated 'free-field Source Level (SLRMS)' exceeding (10log(f) + 169.77)dB (reference 1 µPa at 1 m) where f is the frequency in Hertz of maximum Transmitting Voltage Response (TVR) below 10 kHz; or
 a.1.c.1.b. Designed for continuous operation at 100% duty cycle and having a continuously radiated 'free-field Source Level (SLRMS)' at 100% duty cycle exceeding (10log(f) + 159.77)dB (reference 1 µPa at 1 m) where f is the frequency in Hertz of maximum Transmitting Voltage Response (TVR) below 10 kHz; or
-Technical Note: The 'free-field Source Level (SLRMS)' is defined along the maximum response axis and in the far field of the acoustic projector. It can be obtained from the Transmitting Voltage Response using the following equation: SLRMS = (TVR + 20log VRMS) dB (ref 1µPa at 1 m), where SLRMS is the source level, TVR is the Transmitting Voltage Response and VRMS is the Driving Voltage of the Projector.
+Technical Note: The 'free-field Source Level (SL RMS)' is defined along the maximum response axis and in the far field of the acoustic projector. It can be obtained from the Transmitting Voltage Response using the following equation: SL RMS = (TVR + 20log V RMS) dB (ref 1µPa at 1 m), where SL RMS is the source level, TVR is the Transmitting Voltage Response and V RMS is the Driving Voltage of the Projector.
 a.1.c.2. [Reserved]
 N.B. See 6A001.a.1.c.1 for items previously specified in 6A001.a.1.c.2.
 a.1.c.3. Side-lobe suppression exceeding 22 dB;
 a.1.d. Acoustic systems and equipment, designed to determine the position of surface vessels or underwater vehicles and having all of the following, and "specially designed" "components" therefor:
 a.1.d.1. Detection range exceeding 1,000 m; and
 a.1.d.2. Determined position error of less than 10 m rms (root mean square) when measured at a range of 1,000 m;
-Note: 6A001.a.1.d includes: a. Equipment using coherent "signal processing" between two or more beacons and the hydrophone unit carried by the surface vessel or underwater vehicle; b. Equipment capable of automatically correcting speed-of-sound propagation errors for calculation of a point.
+Note: 6A001.a.1.d includes:
+a. Equipment using coherent "signal processing" between two or more beacons and the hydrophone unit carried by the surface vessel or underwater vehicle;
+b. Equipment capable of automatically correcting speed-of-sound propagation errors for calculation of a point.
 a.1.e. Active individual sonars, "specially designed" or modified to detect, locate and automatically classify swimmers or divers, having all of the following, and "specially designed" transmitting and receiving acoustic arrays therefor:
 a.1.e.1. Detection range exceeding 530 m;
 a.1.e.2. Determined position error of less than 15 m rms (root mean square) when measured at a range of 530 m; and
@@ -8221,21 +8381,27 @@ a.1.e.3. Transmitted pulse signal bandwidth exceeding 3 kHz;
 N.B.: For diver detection systems "specially designed" or modified for military use, see the U.S. Munitions List in the International Traffic in Arms Regulations (ITAR) (22 CFR part 121).
 Note: For 6A001.a.1.e, where multiple detection ranges are specified for various environments, the greatest detection range is used.
 a.2. Passive systems, equipment and "specially designed" "components" therefor, as follows:
+Note: 6A001.a.2 also applies to receiving equipment, whether or not related in normal application to separate active equipment, and "specially designed" components therefor.
 a.2.a. Hydrophones having any of the following:
 Note: The control status of hydrophones "specially designed" for other equipment is determined by the control status of the other equipment.
-Technical Note: Hydrophones consist of one or more sensing elements producing a single acoustic output channel. Those that contain multiple elements can be referred to as a hydrophone group.
+Technical Notes:
+1. Hydrophones consist of one or more sensing elements producing a single acoustic output channel. Those that contain multiple elements can be referred to as a hydrophone group.
+2. For the purposes of 6A001.a.2.a, underwater acoustic transducers designed to operate as passive receivers are hydrophones.
 a.2.a.1. Incorporating continuous flexible sensing elements;
 a.2.a.2. Incorporating flexible assemblies of discrete sensing elements with either a diameter or length less than 20 mm and with a separation between elements of less than 20 mm;
 a.2.a.3. Having any of the following sensing elements:
 a.2.a.3.a. Optical fibers;
-a.2.a.3.b. 'Piezoelectric polymer films' other than polyvinylidene-fluoride (PVDF) and its co-polymers {P(VDF-TrFE) and P(VDF-TFE)};
+a.2.a.3.b. 'Piezoelectric polymer films' other than polyvinylidene-fluoride (PVDF) and its co-polymers {P(VDF−TrFE) and P(VDF-TFE)};
 a.2.a.3.c. 'Flexible piezoelectric composites';
-a.2.a.3.d. Lead-magnesium- niobate/lead-titanate (i.e., Pb(Mg1/3Nb2/3)O3-PbTiO3, or PMN-PT) piezoelectric single crystals grown from solid solution; or
-a.2.a.3.e. Lead-indium-niobate/lead-magnesium niobate/lead-titanate (i.e., Pb(In1/2Nb1/2)O3-Pb(Mg1/3Nb2/3)O3-PbTiO3, or PIN-PMN-PT) piezoelectric single crystals grown from solid solution;
+a.2.a.3.d. Lead-magnesium- niobate/lead-titanate (i.e., Pb(Mg1/3Nb2/3)O3−PbTiO3, or PMN-PT) piezoelectric single crystals grown from solid solution; or
+a.2.a.3.e.Lead-indium-niobate/lead-magnesium niobate/lead-titanate (i.e., Pb(In1/2Nb1/2)O3-Pb(Mg1/3Nb2/3)O3-PbTiO3, or PIN-PMN-PT) piezoelectric single crystals grown from solid solution;
 a.2.a.4. A 'hydrophone sensitivity' better than −180dB at any depth with no acceleration compensation;
 a.2.a.5. Designed to operate at depths exceeding 35 m with acceleration compensation; or
-a.2.a.6. Designed for operation at depths exceeding 1,000 m;
-Technical Notes: 1. 'Piezoelectric polymer film' sensing elements consist of polarized polymer film that is stretched over and attached to a supporting frame or spool (mandrel). 2. 'Flexible piezoelectric composite' sensing elements consist of piezoelectric ceramic particles or fibers combined with an electrically insulating, acoustically transparent rubber, polymer or epoxy compound, where the compound is an integral part of the sensing elements. 3. 'Hydrophone sensitivity' is defined as twenty times the logarithm to the base 10 of the ratio of rms output voltage to a 1 V rms reference, when the hydrophone sensor, without a pre-amplifier, is placed in a plane wave acoustic field with an rms pressure of 1 µPa. For example, a hydrophone of −160 dB (reference 1 V per µPa) would yield an output voltage of 10−8 V in such a field, while one of −180 dB sensitivity would yield only 10−9 V output. Thus, −160 dB is better than −180 dB.
+a.2.a.6. Designed for operation at depths exceeding 1,000 m and having a 'hydrophone sensitivity' better than −230 dB below 4 kHz;
+Technical Notes:
+1. 'Piezoelectric polymer film' sensing elements consist of polarized polymer film that is stretched over and attached to a supporting frame or spool (mandrel).
+2. 'Flexible piezoelectric composite' sensing elements consist of piezoelectric ceramic particles or fibers combined with an electrically insulating, acoustically transparent rubber, polymer or epoxy compound, where the compound is an integral part of the sensing elements.
+3. 'Hydrophone sensitivity' is defined as twenty times the logarithm to the base 10 of the ratio of rms output voltage to a 1 V rms reference, when the hydrophone sensor, without a pre-amplifier, is placed in a plane wave acoustic field with an rms pressure of 1 µPa. For example, a hydrophone of −160 dB (reference 1 V per µPa) would yield an output voltage of 10 −8 V in such a field, while one of −180 dB sensitivity would yield only 10 −9 V output. Thus, −160 dB is better than −180 dB.
 a.2.b. Towed acoustic hydrophone arrays having any of the following:
 Technical Note: Hydrophones arrays consist of a number of hydrophones providing multiple acoustic output channels.
 a.2.b.1. Hydrophone group spacing of less than 12.5 m or 'able to be modified' to have hydrophone group spacing of less than 12.5 m;
@@ -8261,18 +8427,22 @@ a.2.e.3. Incorporating accelerometer-based hydro-acoustic sensors specified by 6
 a.2.f. Processing equipment, "specially designed" for bottom or bay cable systems, having "user-accessible programmability" and time or frequency domain processing and correlation, including spectral analysis, digital filtering and beamforming using Fast Fourier or other transforms or processes;
 a.2.g. Accelerometer-based hydro-acoustic sensors having all of the following:
 a.2.g.1. Composed of three accelerometers arranged along three distinct axes;
-a.2.g.2. Having an overall `acceleration sensitivity' better than 48 dB (reference 1,000 mV rms per 1g);
+a.2.g.2. Having an overall 'acceleration sensitivity' better than 48 dB (reference 1,000 mV rms per 1g);
 a.2.g.3. Designed to operate at depths greater than 35 meters; and
 a.2.g.4. Operating frequency below 20 kHz;
 Note: 6A001.a.2.g does not apply to particle velocity sensors or geophones.
-Note: 6A001.a.2 also applies to receiving equipment, whether or not related in normal application to separate active equipment, and "specially designed" "components" therefor.
-Technical Notes: 1. Accelerometer-based hydro-acoustic sensors are also known as vector sensors. 2. 'Acceleration sensitivity' is defined as twenty times the logarithm to the base 10 of the ratio of rms output voltage to a 1 V rms reference, when the hydro-acoustic sensor, without a preamplifier, is placed in a plane wave acoustic field with an rms acceleration of 1 g (i.e., 9.81 m/s2).
+Technical Notes:
+1. Accelerometer-based hydro-acoustic sensors are also known as vector sensors.
+2. 'Acceleration sensitivity' is defined as twenty times the logarithm to the base 10 of the ratio of rms output voltage to a 1 V rms reference, when the hydro-acoustic sensor, without a preamplifier, is placed in a plane wave acoustic field with an rms acceleration of 1 g (i.e., 9.81 m/s2).
 b. Correlation-velocity and Doppler-velocity sonar log equipment designed to measure the horizontal speed of the equipment carrier relative to the sea bed, as follows:
 b.1. Correlation-velocity sonar log equipment having any of the following characteristics:
 b.1.a. Designed to operate at distances between the carrier and the sea bed exceeding 500 m; or
 b.1.b. Having speed "accuracy" better than 1% of speed;
 b.2. Doppler-velocity sonar log equipment having speed "accuracy" better than 1% of speed;
-Note 1: 6A001.b does not apply to depth sounders limited to any of the following: a. Measuring the depth of water; b. Measuring the distance of submerged or buried objects; or c. Fish finding.
+Note 1: 6A001.b does not apply to depth sounders limited to any of the following:
+a. Measuring the depth of water;
+b. Measuring the distance of submerged or buried objects; or
+c. Fish finding.
 Note 2: 6A001.b does not apply to equipment "specially designed" for installation on surface vessels.
 c. [Reserved]
 N.B.: For diver deterrent acoustic systems, see 8A002.r.
@@ -11204,12 +11374,12 @@ Related Controls: N/A
 Related Definition: N/A
 Items: a. Controlled by 9A001; or
 b. Whose design or production origins are either not from a Wassenaar Participating State (see Supplement No. 1 to part 743 of the EAR) or unknown to the manufacturer.
-9A004 Space launch vehicles and "spacecraft", "spacecraft buses", "spacecraft payloads", "spacecraft" on-board systems or equipment, and terrestrial equipment, as follows (see List of Items Controlled).
+9A004 Space launch vehicles and "spacecraft," "spacecraft buses", "spacecraft payloads", "spacecraft" on-board systems or equipment, terrestrial equipment, and air-launch platforms, as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: NS and AT
-Control(s) | Country chart(see Supp. No. 1 to part 738)
-NS applies to 9A004.u,.v,.w and.x | NS Column 1
-AT applies to 9A004.u,.v,.w,.x and.y | AT Column 1
+Control(s) | Country Chart(See Supp. No. 1 to part 738)
+NS applies to 9A004.g,.u,.v,.w and.x | NS Column 1
+AT applies to 9A004.g,.u,.v,.w,.x and.y | AT Column 1
 License Requirements Note: 9A004.b through.f are controlled under ECCN 9A515.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
@@ -11218,34 +11388,40 @@ CIV: N/A
 List of Items Controlled
 Related Controls: (1) See also 9A104, 9A515, and 9B515. (2) See ECCNs 9E001 ("development") and 9E002 ("production") for technology for items controlled by this entry. (3) See USML Categories IV for the space launch vehicles and XV for other spacecraft that are "subject to the ITAR" (see 22 CFR parts 120 through 130).
 Related Definition: N/A
-Items: a. Space launch vehicles;
+Items:
+a. Space launch vehicles;
 b. "Spacecraft";
 c. "Spacecraft buses";
 d. "Spacecraft payloads" incorporating items specified by 3A001.b.1.a.4, 3A002.g, 5A001.a.1, 5A001.b.3, 5A002.c, 5A002.e, 6A002.a.1, 6A002.a.2, 6A002.b, 6A002.d, 6A003.b, 6A004.c, 6A004.e, 6A008.d, 6A008.e, 6A008.k, 6A008.l or 9A010.c;
-e. On-board systems or equipment, specially designed for "spacecraft" and having any of the following functions:
-e.1. 'Command and telemetry data handling;';
+e. On-board systems or equipment, "specially designed" for "spacecraft" and having any of the following functions:
+e.1. 'Command and telemetry data handling';
 Note: For the purpose of 9A004.e.1, 'command and telemetry data handling' includes bus data management, storage, and processing.
-e.2. 'Payload data handling;' or
+e.2. 'Payload data handling'; or
 Note: For the purpose of 9A004.e.2, 'payload data handling' includes payload data management, storage, and processing.
-e.3. 'Attitude and orbit control;';
+e.3. 'Attitude and orbit control';
 Note: For the purpose of 9A004.e.3, 'attitude and orbit control' includes sensing and actuation to determine and control the position and orientation of a "spacecraft".
 N.B.: Equipment specially designed for military use is "subject to the ITAR". See 22 CFR parts 120 through 130.
-f. Terrestrial equipment specially designed for "spacecraft", as follows:
+f. Terrestrial equipment "specially designed" for "spacecraft", as follows:
 f.1. Telemetry and telecommand equipment "specially designed" for any of the following data processing functions:
 f.1.a. Telemetry data processing of frame synchronization and error corrections, for monitoring of operational status (also known as health and safe status) of the "spacecraft bus"; or
 f.1.b. Command data processing for formatting command data being sent to the "spacecraft" to control the "spacecraft bus";
 f.2. Simulators "specially designed" for 'verification of operational procedures' of "spacecraft".
-Technical Note: For the purposes of 9A004.f.2, 'verification of operational procedures' is any of the following: 1. Command sequence confirmation; 2. Operational training; 3. Operational rehearsals; or 4. Operational analysis.
-g. through t. [Reserved]
+Technical Note: For the purposes of 9A004.f.2, 'verification of operational procedures' is any of the following:
+1. Command sequence confirmation;
+2. Operational training;
+3. Operational rehearsals; or
+4. Operational analysis.
+g. "Aircraft" "specially designed" or modified to be air-launch platforms for space launch vehicles.
+h. through t. [Reserved]
 u. The James Webb Space Telescope (JWST) being developed, launched, and operated under the supervision of the U.S. National Aeronautics and Space Administration (NASA).
-v. "Parts", "components", "accessories" and "attachments" that are "specially designed" for the James Webb Space Telescope and that are not:
+v. "Parts," "components," "accessories" and "attachments" that are "specially designed" for the James Webb Space Telescope and that are not:
 v.1. Enumerated or controlled in the USML;
 v.2. Microelectronic circuits;
 v.3. Described in ECCNs 7A004 or 7A104; or
 v.4. Described in an ECCN containing "space-qualified" as a control criterion (See ECCN 9A515.x.4).
 w. The International Space Station being developed, launched, and operated under the supervision of the U.S. National Aeronautics and Space Administration.
-x. "Parts", "components", "accessories" and "attachments" that are "specially designed" for the International Space Station.
-y. Items that would otherwise be within the scope of ECCN 9A004.v or.x but that have been identified in an interagency-cleared commodity classification (CCATS) pursuant to § 748.3(e) of the EAR as warranting control in 9A004.y.
+x. "Parts," "components," "accessories" and "attachments" that are "specially designed" for the International Space Station.
+y. Items that would otherwise be within the scope of ECCN 9A004.v or.x but that have been identified in an interagency-cleared commodity classification (CCATS) pursuant to § 748.3(e) as warranting control in 9A004.y.
 9A005 Liquid rocket propulsion systems containing any of the systems or "components," controlled by 9A006. (These items are "subject to the ITAR." See 22 CFR parts 120 through 130.)
 9A006 Systems, "components," "specially designed" for liquid rocket propulsion systems. (These items are "subject to the ITAR." See 22 CFR parts 120 through 130.)
 9A007 Solid rocket propulsion systems. (These items are "subject to the ITAR." See 22 CFR parts 120 through 130.)
@@ -11455,7 +11631,7 @@ e. Microelectronic circuits (e.g., integrated circuits, microcircuits, or MOSFET
 e.1. A total dose ≥1 × 105 Rads (Si) (1 × 103 Gy(Si)) and <5 × 105 Rads (Si) (5 × 103 Gy(Si)); and a single event effect (SEE) (i.e., single event latchup (SEL), single event burnout (SEB), or single event gate rupture (SEGR)) immunity to a linear energy transfer (LET) ≥80 MeV−cm2/mg; or
 e.2. A total dose ≥ 5 × 105 Rads (Si) (5 × 103 Gy (Si)) and not described in 9A515.d.
 Note 1 to 9A515.d and.e: Application specific integrated circuits (ASICs), integrated circuits developed and produced for a specific application or function, specifically designed or modified for defense articles and not in normal commercial use are controlled by Category XI(c) of the USML regardless of characteristics.
-Note 2 to 9A515.d and.e: See 3A001.a for controls on radiation-hardened microelectronic circuits "subject to the EAR" that are not controlled by 9A515.d or 9A515.e
+Note 2 to 9A515.d and.e: See 3A001.a for controls on radiation-hardened microelectronic circuits "subject to the EAR" that are not controlled by 9A515.d or 9A515.e.
 f. Pressure suits (i.e., space suits) capable of operating at altitudes 55,000 feet above sea level.
 g. Remote sensing components "specially designed" for "spacecraft" described in ECCNs 9A515.a.1 through 9A515.a.4 as follows:
 g.1. Space-qualified optics (i.e., lens, mirror, membrane having active properties (e.g., adaptive, deformable)) with the largest lateral clear aperture dimension equal to or less than 0.35 meters; or with the largest clear aperture dimension greater than 0.35 meters but less than or equal to 0.50 meters;
