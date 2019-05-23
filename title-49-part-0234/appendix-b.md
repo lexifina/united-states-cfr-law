@@ -4,7 +4,7 @@
 False Activation | Normal Speed | Normal Speed | Proceed with caution—maximum speed of 15 mph | Proceed with caution—maximum speed of 15 mph.
 Partial Activation* | Normal Speed | Normal Speed | Proceed with caution—maximum speed of 15 mph | Proceed with caution—maximum speed of 15 mph.
 Activation Failure** | Normal Speed | Normal Speed | Proceed with caution—maximum speed of 15 mph | Stop: Crewmember flag traffic and reboard.
-*Partial activiation—full warning not given.
+*Partial activation—full warning not given.
 Non-gated crossing with one pair of lights designed to flash alternatively, one light does not work (and back-lights from other side not visible).
 Gated crossing—gate arm not horizontal; or any portion of a gate arm is missing if that portion had held a gate arm flashing light.
 **Activitation failure includes—if more than 50% of the flashing lights on any approach lane not functioning; or if an approach lane has two or more pairs of flashing lights, there is not at least one pair operating as intended.
