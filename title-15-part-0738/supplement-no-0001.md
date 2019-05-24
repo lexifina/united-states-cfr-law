@@ -196,7 +196,7 @@ Uruguay | X | X | | X | | X | X | X | X | X | X | X | | X
 Uzbekistan | X | X | X | X | | X | X | X | X | X | | X | X
 Vanuatu | X | X | | X | | X | X | X | X | X | | X | | X
 Vatican City | X | X | | X | | X | X | X | X | X | | X | | X
-Venezuela | X | X | | X | | X | X | X | X | X | X | X | | X
+Venezuela | X | X | X | X | X | X | X | X | X | X | X | X | | X
 Vietnam | X | X | X | X | | X | X | X | X | X | | X | X
 Western Sahara | X | X | | X | | X | X | X | X | X | | X | | X
 Yemen | X | X | X | X | | X | X | X | X | X | | X | | X
