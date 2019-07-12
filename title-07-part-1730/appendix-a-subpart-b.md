@@ -99,7 +99,7 @@ Additional (Deferred) Maintenance—Budget $____
 Total—Budget $____
 14. Budgeting:
 Adequacy of Budgets For Needed Work—Rating:____
-15. Date Discussed with Board of Directors ____
+15. Date Budget Discussed with Board of Directors ____
 Remarks: ____
 EXPLANATORY NOTES
 Item No. ____ Comments ____
