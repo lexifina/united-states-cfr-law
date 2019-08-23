@@ -244,12 +244,12 @@ C. States seeking EPA approval or reapproval of accreditation programs shall sub
 1. A copy of the legislation establishing or upgrading the State's accreditation program (if applicable).
 2. A copy of the State's accreditation regulations or revised regulations.
 3. A letter to the Regional Asbestos Coordinator that clearly indicates how the State meets the program requirements of this MAP. Addresses for each of the Regional Asbestos Coordinators are shown below:
-EPA, Region I, (OES05-1) Asbestos Coordinator, 5 Post Office Square—Suite 100, Boston, MA 02109-3912, (617) 918-1016.
+EPA, Region 1, Asbestos Coordinator, 5 Post Office Square—Suite 100 (05-4), Boston, MA 02109-3912, (617) 918-1563.
 EPA, Region II, (MS-500), Asbestos Coordinator, 2890 Woodbridge Ave., Edison, NJ 08837-3679, (908) 321-6671.
 EPA, Region III, (3AT-33), Asbestos Coordinator, 841 Chestnut Bldg., Philadelphia, PA 19107, (215) 597-3160.
 EPA, Region IV, Asbestos Coordinator, 345 Courtland St., N.E., Atlanta, GA 30365, (404) 347-5014.
 EPA, Region V, (SP-14J), Asbestos Coordinator, 77 W. Jackson Blvd., Chicago, IL 60604-3590, (312) 886-6003.
-EPA, Region VI, (6T-PT), Asbestos Coordinator, 1445 Ross Ave. Dallas, TX 75202-2744, (214) 655-7244.
+EPA, Region VI, (ECD), Asbestos Coordinator, 1201 Elm Street, Suite 500, Dallas, TX 75270, (214) 655-2760.
 EPA, Region VII, (WWPD/TOPE), Asbestos Coordinator, U.S. Environmental Protection Agency, 11201 Renner Boulevard, Lenexa, Kansas 66219. (800) 223-0425 or (913) 551-7122.
 EPA, Region VIII, (8AT-TS), Asbestos Coordinator, 1 Denver Place, Suite 500 999 - 18th St., Denver, CO 80202-2405, (303) 293-1442.
 EPA, Region IX, Asbestos NESHAPs Contact, Air Division (A-5), 75 Hawthorne Street, San Francisco, CA 94105, (415) 972-3989.
