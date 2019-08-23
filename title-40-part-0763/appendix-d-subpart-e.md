@@ -3,7 +3,7 @@ For the purposes of this appendix, transport is defined as all activities from r
 Recordkeeping. Before accepting wastes, a transporter should determine if the waste is properly wetted and containerized. The transporter should then require a chain-of-custody form signed by the generator. A chain-of-custody form may include the name and address of the generator, the name and address of the pickup site, the estimated quantity of asbestos waste, types of containers used, and the destination of the waste. The chain-of-custody form should then be signed over to a disposal site operator to transfer responsibility for the asbestos waste. A copy of the form signed by the disposal site operator should be maintained by the transporter as evidence of receipt at the disposal site.
 Waste handling. A transporter should ensure that the asbestos waste is properly contained in leak-tight containers with appropriate labels, and that the outside surfaces of the containers are not contaminated with asbestos debris adhering to the containers. If there is reason to believe that the condition of the asbestos waste may allow significant fiber release, the transporter should not accept the waste. Improper containerization of wastes is a violation of the NESHAPs regulation and should be reported to the appropriate EPA Regional Asbestos NESHAPs contact below:
 Region I
-Asbestos NESHAPs Contact, Office of Environmental Stewardship, USEPA, Region I, 5 Post Office Square—Suite 100, Boston, MA 02109-3912, (617) 918-1551.
+Asbestos NESHAPs Contact, Enforcement and Compliance Assurance Division, USEPA, Region I, 5 Post Office Square—Suite 100 (05-4), Boston, MA 02109-3912, (617) 918-1739.
 Region II
 Asbestos NESHAPs Contact, Air & Waste Management Division, USEPA, Region II, 26 Federal Plaza, New York, NY 10007, (212) 264-6770.
 Region III
@@ -13,7 +13,7 @@ Asbestos NESHAPs Contact, Air, Pesticide & Toxic Management, USEPA, Region IV, 3
 Region V
 Asbestos NESHAPs Contact, Air Management Division, USEPA, Region V, 77 West Jackson Boulevard, Chicago, IL 60604, (312) 353-6793.
 Region VI
-Asbestos NESHAPs Contact, Air & Waste Management Division, USEPA, Region VI, 1445 Ross Avenue, Dallas, TX 75202, (214) 655-7229.
+Asbestos NESHAP Contact, Enforcement and Compliance Assurance Division, USEPA Region VI, 1201 Elm Street, Suite 500, Mail Code 6ECD, Dallas, Texas 75270-2102, (214) 655-2760.
 Region VII
 Asbestos NESHAPs Contact, Air and Waste Management Division, U.S. Environmental Protection Agency, Region 7, 11201 Renner Boulevard, Lenexa, Kansas 66219. (800) 223-0425 or (913) 551-7122.
 Region VIII
