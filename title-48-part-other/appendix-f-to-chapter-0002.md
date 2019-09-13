@@ -41,8 +41,7 @@ F-101 General.
 (b) The use of the DD Form 250 series documents is on an exception basis (see DFARS 232.7002(a)) because use of the WAWF RR is now required by most DoD contracts. WAWF provides for electronic preparation and documentation of acceptance of supplies and services, and electronic invoicing. In addition WAWF allows the printing of a RR that can be used as a packing list or when a signed copy is required.
 F-102 Applicability.
 (a) DFARS 252.232-7003, Electronic Submission of Payment Requests and Receiving Reports, requires payment requests and receiving reports using WAWF in nearly all cases.
-(b) The provisions of this appendix also apply to supplies or services acquired by DoD when the clause at DFARS 252.246-7000, Material Inspection and Receiving Report, is included in the contract.
-(c) When DoD provides quality assurance or acceptance services for non-DoD activities, prepare a MIRR using the instructions in this appendix, unless otherwise specified in the contract.
+(b) When DoD provides quality assurance or acceptance services for non-DoD activities, prepare a MIRR using the instructions in this appendix, unless otherwise specified in the contract.
 F-103 Use.
 (a) The WAWF RR, WAWF RRR and the DD Form 250 are multipurpose reports used—
 (1) To provide evidence of Government contract quality assurance at origin or destination;
@@ -107,7 +106,7 @@ Part 3—Preparation of the Wide Area Workflow (WAWF) Receiving Report (WAWF RRR
 F-301 Preparation instructions.
 (a) General. (1) Preparation instructions and training for the WAWF RR are available at https://wawftraining.eb.mil. The instructions on preparing a WAWF RR are part of the Vendor Training section.
 (2) Prime contractors can direct subcontractors to prepare and submit documents in WAWF by giving their subcontractors access to WAWF via the creation of a Commercial and Government Entity (CAGE) extension to the prime CAGE.
-(3) If the contract is in Electronic Document Access (EDA) (DoD's contract repository), then the WAWF system will automatically populate all available and applicable contract data.
+(3) If the contract is in Electronic Data Access (EDA) (DoD's contract repository), then the WAWF system will automatically populate all available and applicable contract data.
 (i) When source acceptance is required, WAWF will populate the "Inspect By" with the "Admin by" Department of Defense Activity Address Code (DoDAAC). The vendor shall change the DoDAAC if Government Source Inspection (GSI) is performed at other than the "Admin By."
 (ii) Any fields that have been pre-filled may be changed.
 (iii) WAWF will also verify that CAGE codes are valid and active in the System for Award Management (SAM), and that DoDAACs and Military Assistance Program Address Codes (MAPACs) are valid in Defense Automatic Addressing System (DAAS).
@@ -187,9 +186,11 @@ This is the initial unit delivered which incorporates VECP No. ____, Contract Mo
 (ii) On the final shipment of a line item of a contract containing a clause permitting a variation of quantity and an underrun condition exists, the prime contractor shall choose the Ship Advice Code "Z". Where the final shipment is from other than the prime contractor's plant and an underrun condition exists, the prime contractor may elect to direct the subcontractor making the final shipment to choose the Ship Advice Code "Z";
 (iii) When the Government is performing destination acceptance the acceptor should enter actual quantity received in apparent good condition in the "Qty. Accepted" field of the Acceptor Line Item Tab.
 (17) Unit of measure. Enter the abbreviation of the unit measure as indicated in the contract for payment. Where a second unit of measure is indicated in the contract for purposes other than payment or used for shipping purposes, enter the second unit of measure in the description field. Authorized abbreviations are listed in MIL-STD-129, Marking for Shipping and Storage and in the WAWF Unit of Measure Table Link. For example, LB for pound, SH for sheet.
-(18) Unit Price. The contractor shall enter unit prices on all WAWF RR copies. When using the WAWF RRR, the unit price is the price of the repair, overhaul, or maintenance service from the contract.
-(i) The contractor shall enter unit prices for each item of property fabricated or acquired for the Government and delivered to a contractor as Government furnished property (GFP). Get the unit price from Section B of the contract. If the unit price is not available, use an estimate. The estimated price should be the contractor's estimate of what the items cost the Government. When the price is estimated, enter "Estimated Unit Price" in the description field. However, if the contract has Item Unique Identification (IUID) requirements and the receiving report is being processed in WAWF, the unit price must represent the acquisition cost that will be recorded in the IUID registry. Therefore, the unit price is required (see the clause at DFARS 252.211-7003, Item Unique Identification and Valuation). When delivering GFP via WAWF to another contractor, WAWF will initiate a property transfer if the vendor who is initiating the WAWF RR is also registered as a vendor property shipper in WAWF and the vendor receiving the property is also a vendor property receiver in WAWF.
-(ii) For clothing and textile contracts containing a bailment clause, enter the cited Government furnished property unit value as "GFP UNIT VALUE" in the description field.
+(18) Unit price. When using the WAWF RRR, the unit price is the price of the repair, overhaul, or maintenance service from the contract.
+(i) The contractor may, at its option, enter unit prices on the WAWF RR, except when the contract has IUID requirements and the receiving report is being processed in WAWF, the unit price must represent the acquisition cost that will be recorded in the IUID registry. Therefore, in such cases, the unit price is required. See DFARS 252.211-7003, Item Unique Identification and Valuation).
+(ii) The contractor shall enter unit prices for each item of property fabricated or acquired for the Government and delivered to a contractor as Government furnished property (GFP). Get the unit price from Section B of the contract. If the unit price is not available, use an estimate. The estimated price should be the contractor's estimate of what the items cost the Government. When the price is estimated, enter "Estimated Unit Price" in the description field. When delivering GFP via WAWF to another contractor, WAWF will initiate a property transfer if the vendor who is initiating the WAWF RR is also registered as a vendor property shipper in WAWF and the vendor receiving the property is also a vendor property receiver in WAWF.
+(iii) For clothing and textile contracts containing a bailment clause, enter the cited Government furnished property unit value as "GFP UNIT VALUE" in the description field.
+(iv) For all copies of DD Forms 250 for FMS shipments, enter actual prices, if available. If actual prices are not available, use estimated prices. When the price is estimated, enter an "E" after the price.
 (19) Amount. WAWF will calculate and populate the amount by multiplying the unit price times the quantity.
 (20) Contract Quality Assurance (CQA).
 (i) The words "conform to contract" contained in the text above the signature block in the WAWF RR Header Tab relate to quality and to the quantity of the items on the report. Enter notes taking exception in Misc. Info Tab comment field or on attached supporting documents with an appropriate block cross-reference.
@@ -247,12 +248,11 @@ F-303 Consolidated shipments.
 When individual shipments are held at the contractor's plant for authorized transportation consolidation to a single bill of lading, the contractor may prepare the WAWF RR or WAWF RRR at the time of CQA or acceptance prior to the time of actual shipment.
 F-304 Correction instructions.
 Functionality for correcting a WAWF RR or WAWF RRR is available for Defense Contract Management Agency administered contracts paid using the Mechanization of Contract Administration Services system with source acceptance. Preparation instructions and training for corrections is available at https://wawftraining.eb.mil. The instructions are part of the Vendor Training section.
-F-305 Invoice instructions.
-Contractors shall submit payment requests and receiving reports in electronic form, unless an exception in DFARS 232.7002 applies. Contractor submission of the material inspection and receiving information required by this appendix by using the WAWF electronic form (see paragraph (b) of the clause at DFARS 252.232-7003) fulfills the requirement for a DD Form 250 MIRR. Contractors should ensure the packaging documentation includes a Government signed receiving report when the contract requires origin inspection and acceptance. Contractors must include a signed document indicating material receipt and acceptance has occurred in the container with the exception of material shipments that are approved for Alternative Release Procedures (ARP).
-F-306 Packing list instructions.
-Contractors may also use a WAWF processed RR, including the WAWF RRR, as a packing list. WAWF provides options to print the RR. These printed RRs may also be used if a signed copy is required.
-(a) WAWF provides a print capability for its RR. The WAWF printed RR can be identified by its distinctive format and by the text title at the top of each printed page "Material Inspection and Receiving Report in accordance with DFARS Appendix F. Paper DD Form 250 is usable in lieu of this document on an exception basis." (See DFARS 252.232-7003(c)). This printed copy can be used as a packing list. If needed, the signature can be verified by reviewing the signed RR in WAWF.
-(b) Contractors can also print a RR from their systems (not WAWF). If such a signed copy is required by the contractor, the contractor will print the WAWF RR only after a signature is applied by the Government Inspector or Acceptor in WAWF. Copies printed will be annotated with "\\original signed in WAWF\\" in lieu of the inspector/acceptor's signature.
+F-305 Invoice Instructions
+Contractors shall submit payment requests and receiving reports in accordance with paragraph (b) of the clause at DFARS 252.232-7003 unless one of the exceptions in paragraph (d) of that clause applies.
+F-306 Packing List Instructions
+(a) Contractors may use a WAWF processed RR or the WAWF RRR, as a packing list. WAWF provides an option to print the RR or RRR. Contractors can print a RR or RRR from a system other than WAWF if a signed copy is required. In such cases, the contractor shall print the WAWF RR or RRR only after a signature is applied by the Government inspector or authorized acceptor in WAWF. Copies printed from the contractor's system shall be annotated with "\\original signed in WAWF\\" in lieu of the inspector or acceptor's signature. Ensure a copy is visible on the outside and one is placed inside the package.
+(b) If the contract requires Government source inspection and acceptance at origin, the contractor shall ensure that its packaging documentation includes a RR or RRR that documents inspection, acceptance, or both by the Government inspector or authorized acceptor. A paper DD Form 250 may be used in lieu of WAWF generated RRs or RRRs when one of the exceptions in paragraph (d) of the clause at DFARS 252.232-7003 applies.
 F-307 Receiving instructions.
 If CQA and acceptance or acceptance of supplies is required upon arrival at destination, see F-301(b)(20)(v) for instructions.
 Part 4—Preparation of the DD Form 250 and DD Form 250C
@@ -414,7 +414,7 @@ Make a new revised MIRR or correct the original when, because of errors or omiss
 (AAA0001) |
 | 19
 See Block 16 | (17)
-__________ | __________
+_ | _
 16. STOCK/PART NO. DESCRIPTION
 CORRECTIONS:
 Refer Block 2: Change shipment No. AAA001 to AAA0010 on all pages of the MIRR.
@@ -436,7 +436,7 @@ When the MIRR is used for receiving purposes, local directives shall prescribe p
 PART 5—Distribution of Wide Area Workflow Receiving Report (WAWF RR), DD Form 250 and DD Form 250C
 F-501 Distribution of WAWF RR.
 Use of the WAWF electronic form satisfies the distribution requirements of this section, except for the copies required to accompany shipment.
-F-502 Distribution of DD FORM 250 AND DD FORM 250C.
+F-502 Distribution of DD Form 250 and DD Form 250C.
 (a) The contractor is responsible for distributing the DD Form 250, Material Inspection and Receiving Report (MIRR) including mailing and payment of postage.
 (b) Contractors shall distribute MIRRs using the instructions in Tables 1 and 2.
 (c) Contractors shall distribute MIRRs on non-DoD contracts using this appendix as amended by the contract.
@@ -446,32 +446,32 @@ F-502 Distribution of DD FORM 250 AND DD FORM 250C.
 (3) Shipment when CQA and acceptance are to be performed at destination.
 (e) Do not send the consignee copies (via mail) on overseas shipments to port of embarkation (POE). Send them to consignee at APO/FPO address.
 (f) Copies of the MIRR forwarded to a location for more than one recipient shall clearly identify each recipient.
-Material Inspection And Receiving Report
-Table 1—Standard Distribution
-With Shipment* | 2
+Material Inspection and Receiving Report Table 1—Standard Distribution
+Standard distribution | Number of copies
+With Shipment * | 2
 Consignee (via mail) | 1
-(For Navy procurement, include unit price) |
-(For foreign military sales, consignee copies are not required) |
+(For Navy procurement, include unit price.)
+(For foreign military sales, consignee copies are not required.)
 Contract Administration Office (CAO) | 1
-(Forward direct to address in Block 10 except when addressee is a Defense Contract Management Agency (DCMA) office and a certificate of conformance or the alternative release procedures (see F-301, Block 21) is involved, and acceptance is at origin; then, forward through the authorized Government representative.) |
+(Forward direct to address in Block 10 except when addressee is a Defense Contract Management Agency (DCMA) office and a certificate of conformance or the alternative release procedures (see F-301, Block 21) is involved, and acceptance is at origin; then, forward through the authorized Government representative.)
 Purchasing Office | 1
 Payment Office ** | 2
-(Forward direct to address in Block 12 except— |
+(Forward direct to address in Block 12 except—
 (i) When address in Block 10 is a DCMA office and payment office in Block 12 is the Defense Finance and Accounting Service, Columbus Center, do not make distribution to the Block 12 addressee;
 (ii) When address in Block 12 is the Defense Finance and Accounting Service, Columbus Center/Albuquerque Office (DFAS-CO/ALQ), Kirtland AFB, NM, attach only one copy to the required number of copies of the contractor's invoice;
 (iii) When acceptance is at destination and a Navy finance office will make payment, forward to destination; and
-(iv) When a certificate of conformance or the alternative release procedures (see F-301, Block 21) are involved and acceptance is at origin, forward the copies through the authorized Government representative.
+(iv) When a certificate of conformance or the alternative release procedures (see F-301, Block 21) are involved and acceptance is at origin, forward the copies through the authorized Government representative.)
 ADP Point for CAO (applicable to Air Force only) | 1
-(When DFAS-CO/ALQ is the payment office in Block 12, send one copy to DFAS-CO/ALQ immediately after signature. If submission of delivery data is made electronically, distribution of this hard copy need not be made to DFAS-CO/ALQ.) |
+(When DFAS-CO/ALQ is the payment office in Block 12, send one copy to DFAS-CO/ALQ immediately after signature. If submission of delivery data is made electronically, distribution of this hard copy need not be made to DFAS-CO/ALQ.)
 CAO of Contractor Receiving GFP | 1
-(For items fabricated or acquired for the Government and shipped to a contractor as Government furnished property, send one copy directly to the CAO cognizant of the receiving contractor, ATTN: Property Administrator (see DoD 4105.59-H).) |
+(For items fabricated or acquired for the Government and shipped to a contractor as Government furnished property, send one copy directly to the CAO cognizant of the receiving contractor, ATTN: Property Administrator (see DoD 4105.59-H).)
 * Attach as follows:
-** Payment by Defense Finance and Accounting Service, Columbus Center will be based on the source acceptance copies of DD Forms 250 forwarded to the contract administration office.
 Type of shipment | Location
 Carload or truckload | Affix to the shipment where it will be readily visible and available upon receipt.
 Less than carload or truckload | Affix to container number one or container truckload bearing lowest number.
 Mail, including parcel post | Attach to outside or include in the package. Include a copy in each additional package of multi-package shipments.
 Pipeline, tank car, or railroad cars for coal movements | Forward with consignee copies.
+** Payment by Defense Finance and Accounting Service, Columbus Center will be based on the source acceptance copies of DD Forms 250 forwarded to the contract administration office.
 Material Inspection and Receiving Report Table 2—Special Distribution
 As required | Address | Number ofcopies
 Each: Navy Status Control Activity, Army, Air Force, DLA Inventory Control Manager | Address specified in contract | * 1
