@@ -1168,33 +1168,51 @@ Pennsylvania Turnpike 576 Southern Beltway (I-376 to US-22) | Turnpike Exit S1 |
 Pennsylvania Turnpike 576 Southern Beltway (US-22 to I-79) | Turnpike Exit S6 | I-79.
 Pennsylvania Turnpike 576 Southern Beltway (I-79 to Mon/Fayette Expressway) | I-79 | Pennsylvania Turnpike 43 Mon/Fayette Expressway.
 LEGAL CITATIONS: Pennsylvania Vehicle Code, 75 Pa.C.S. § 6110(a); Pennsylvania Code, 67 Pa. Code, Chapter 601.
-STATE: SOUTH DAKOTA
-COMBINATION: Truck tractor and 2 trailing units—LCV
-LENGTH OF CARGO-CARRYING UNITS: 100 feet
-MAXIMUM ALLOWABLE GROSS WEIGHT: 129,000 pounds
-OPERATIONAL CONDITIONS:
-WEIGHT: For all combinations, the maximum gross weight on two or more consecutive axles is limited by the Federal Bridge Formula but cannot exceed 129,000 pounds. The weight on single axles or tandem axles spaced 40 inches or less apart may not exceed 20,000 pounds. Tandem axles spaced more than 40 inches but 96 inches or less may not exceed 34,000 pounds. Two consecutive sets of tandem axles may carry a gross load of 34,000 pounds each, provided the overall distance between the first and last axles of the tandems is 36 feet or more. The weight on the steering axle may not exceed 600 pounds per inch of tire width.
+State: South Dakota.
+Combination: Truck tractor and two trailing units—LCV.
+Length of Cargo-Carrying Units: 100 feet.
+Maximum Allowable Gross Weight: 129,000 pounds.
+Operational Conditions:
+Weight: For all combinations, the maximum gross weight on two or more consecutive axles is limited by the Federal Bridge Formula but cannot exceed 129,000 pounds. The weight on single axles or tandem axles spaced 40 inches or less apart may not exceed 20,000 pounds. Tandem axles spaced more than 40 inches but 96 inches or less may not exceed 34,000 pounds. Two consecutive sets of tandem axles may carry a gross load of 34,000 pounds each, provided the overall distance between the first and last axles of the tandems is 36 feet or more. The weight on the steering axle may not exceed 600 pounds per inch of tire width.
 For combinations with a cargo-carrying length greater than 81.5 feet the following additional regulations also apply. The weight on all axles (other than the steering axle) may not exceed 500 pounds per inch of tire width. Lift axles and belly axles are not considered load-carrying axles and will not count when determining allowable vehicle weight.
-DRIVER: The driver must have a commercial driver's license with the appropriate endorsement.
-VEHICLE: For all combinations, a semitrailer or trailer may neither be longer than nor weigh 3,000 pounds more than the trailer located immediately in front of it. Towbars longer than 19 feet must be flagged during daylight hours and lighted at night.
+Driver: The driver must have a commercial driver's license with the appropriate endorsement.
+Vehicle: For all combinations, a semitrailer or trailer may neither be longer than nor weigh 3,000 pounds more than the trailer located immediately in front of it. Towbars longer than 19 feet must be flagged during daylight hours and lighted at night.
 For combinations with a cargo-carrying length of 81.5 feet or less, neither trailer may exceed 45 feet, including load overhang. Vehicles may be 12 feet wide when hauling baled feed during daylight hours.
 For combinations with a cargo-carrying length over 81.5 feet long, neither trailer may exceed 48 feet, including load overhang. Loading the rear of the trailer heavier than the front is not allowed. All axles except the steering axle require dual tires. Axles spaced 8 feet or less apart must weigh within 500 pounds of each other. The trailer hitch offset may not exceed 6 feet. The maximum effective rear trailer overhang may not exceed 35 percent of the trailer's wheelbase. The power unit must have sufficient power to maintain 40 miles per hour. A "LONG LOAD" sign measuring 18 inches high by 7 feet long with black on yellow lettering 10 inches high is required on the rear. Offtracking is limited to 8.75 feet for a turning radius of 161 feet.
-Offtracking Formula = 161 - [1612 - (L1 2 + L2 2 + L3 2 + L4 2 + L5 2 + L6 2 + L7 2 + L8 2)]1/2
-Note: L1 through L8 are measurements between points of articulation or vehicle pivot points. Squared dimensions to stinger steer points of articulation are negative. For two trailing unit combinations where at least one trailer is 45 feet long or longer, all the dimensions used to calculate offtracking must be written in the "Permit Restriction" area of the permit along with the offtracking value derived from the calculation.
-PERMIT: For combinations with a cargo-carrying length of 81.5 feet or less, a single-trip permit is required for movement on the Interstate System if the gross vehicle weight exceeds 80,000 pounds. An annual or single-trip permit is required for hauling baled feed over 102 inches wide.
+Offtracking Formula = 161−[1612−(L1 2 + L2 2 + L3 2 + L4 2 + L5 2 + L6 2 + L7 2 + L8 2)]1/2
+Note. L1 through L8 are measurements between points of articulation or vehicle pivot points. Squared dimensions to stinger steer points of articulation are negative. For two trailing unit combinations where at least one trailer is 45 feet long or longer, all the dimensions used to calculate offtracking must be written in the "Permit Restriction" area of the permit along with the offtracking value derived from the calculation.
+Permit: For combinations with a cargo-carrying length of 81.5 feet or less, a single-trip permit is required for movement on the Interstate System if the gross vehicle weight exceeds 80,000 pounds. An annual or single-trip permit is required for hauling baled feed over 102 inches wide.
 For combinations with a cargo-carrying length greater than 81.5 feet, a single-trip permit is required for all movements. Operations must be discontinued when roads are slippery due to moisture, visibility must be good, and wind conditions must not cause trailer whip or sway.
 For all combinations, a fee is charged for any permit.
-ACCESS: For combinations with a cargo-carrying length of 81.5 feet or less, access is Statewide off the NN unless restricted by the South Dakota DOT.
+Access: For combinations with a cargo-carrying length of 81.5 feet or less, access is statewide off the NN unless restricted by the South Dakota DOT.
 For combinations with a cargo-carrying length greater than 81.5 feet, access to operating routes must be approved by the South Dakota DOT.
-ROUTES: Combinations with a cargo-carrying length of 81.5 feet or less may use all NN routes. Combinations with a cargo-carrying length over 81.5 feet, are restricted to the Interstate System and:
-| From | To
-US 14 | W. Jct. US 14 Bypass and US 14 Brookings | So. Jct. US 14 and US 281.
-Bypass US 14 | I-29 Exit 133 Brookings | W. Jct. US 14 Bypass and US 14 Brookings.
-US 85 | I-90 Exit 10 Spearfish | North Dakota.
-US 281 | I-90 Exit 310. | So. Jct. US 14 and US 281.
-US 281 | 8th Ave. Aberdeen | North Dakota.
-SD 50 | Burleigh Street Yankton | I-29 Exit 26.
-LEGAL CITATIONS: SDCL 32-22-8.1, -38, -39, -41, -42, and -52; and Administrative Rules 70:03:01:37,:47,:48, and:60 through:70.
+Routes: Combinations with a cargo-carrying length of 81.5 feet or less may use all NN routes. Combinations with a cargo-carrying length over 81.5 feet, are restricted to the Interstate System and:
+Highway | From | To
+US12 | North Dakota State Line | Jct I-29 at Summit.
+US14 | Jct US83 at Ft. Pierre | Jct US14B in Pierre.
+US14 | Jct US14B east of Pierre | W Jct US14 Bypass at Brookings.
+US14B | Jct US14 in Pierre | Jct US14 east of Pierre.
+US14B | W Jct US14 at Brookings | Jct I-29 Exit 133 at Brookings.
+US16B | Jct SD79 south of Rapid City | Jct I-90 at Rapid City.
+US18 | E Jct US18B at Hot Springs | Jct US385 at Oelrichs.
+US18B | W Jct US18 at Hot Springs | E Jct US18 at Hot Springs.
+US212 | Wyoming State Line | Jct US85 at Belle Fourche.
+US212 | W Jct US83 west of Gettysburg | E Jct US83 west of Gettysburg.
+US212 | W Jct US281 in Redfield | E Jct US281 in Redfield.
+US281 | Jct I-90 Exit 310 at Plankinton | S Jct US14 west of Huron.
+US281 | Jct US14 north of Wolsey | W Jct US212 in Redfield.
+US281 | E Jct US212 in Redfield | North Dakota State Line.
+US83 | Jct I-90 near Vivian | Jct US14 at Ft. Pierre.
+US83 | Jct US14 east of Pierre | W Jct US212 west of Gettysburg.
+US83 | E Jct US212 west of Gettysburg | Jct US12 south of Selby.
+US83 | Jct US12 west of Selby | North Dakota State Line.
+US85 | I-90 Exit 10 at Spearfish | North Dakota State Line.
+SD34 | W Jct SD37 | E Jct SD37.
+SD37 | Jct I-90 at Mitchell | E Jct SD34.
+SD37 | W Jct SD34 | Jct US14 at Huron.
+SD50 | Burleigh Street in Yankton | Jct I-29 Exit 26.
+SD79 | Jct US18 & US385 at Oelrichs | Jct US16B south of Rapid City.
+Legal Citations: SDCL 32-22-8.1, -38, -39, -41, -42, and -52; and Administrative Rules 70:03:01:37,:47,:48, and:60 through:70.
 STATE: SOUTH DAKOTA
 COMBINATION: Truck tractor and 3 trailing units—LCV
 LENGTH OF CARGO-CARRYING UNITS: 100 feet
