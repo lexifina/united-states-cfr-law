@@ -76,7 +76,7 @@ VII. List of Acute and Critical Regulations.
 § 382.115(b) Failing to implement an alcohol and/or controlled substances testing program (foreign motor carrier) (acute).
 § 382.201 Using a driver known to have an alcohol concentration of 0.04 or greater (acute).
 § 382.211 Using a driver who has refused to submit to an alcohol or controlled substances test required under part 382 (acute).
-§ 382.213(b) Using a driver known to have used a controlled substance (acute).
+§ 382.213(c) Using a driver known to have used a controlled substance (acute).
 § 382.215 Using a driver known to have tested positive for a controlled substance (acute).
 § 382.301(a) Using a driver before the motor carrier has received a negative pre-employment controlled substance test result (critical).
 § 382.303(a) Failing to conduct post accident testing on driver for alcohol (critical).
@@ -102,7 +102,7 @@ VII. List of Acute and Critical Regulations.
 § 391.11(b)(4) Using a physically unqualified driver (acute).
 § 391.15(a) Using a disqualified driver (acute).
 § 391.45(a) Using a driver not medically examined and certified (critical).
-§ 391.45(b)(1) Using a driver not medically examined and certified during the preceding 24 months (critical).
+§ 391.45(b) Using a driver not medically examined and certified during the preceding 24 months (critical).
 § 391.51(a) Failing to maintain driver qualification file on each driver employed (critical).
 § 391.51(b)(2) Failing to maintain inquiries into driver's driving record in driver's qualification file (critical).
 § 391.51(b)(7) Failing to maintain medical examiner's certificate in driver's qualification file (critical).
