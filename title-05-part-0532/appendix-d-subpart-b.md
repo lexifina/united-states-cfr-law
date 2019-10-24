@@ -345,15 +345,17 @@ Ada
 Elmore
 Area of Application. Survey area.
 ILLINOIS
-Lake
+LAKE
 Survey Area
 Illinois:
 Lake
-Area of Application. Survey area plus:
+Area of Application. Survey area.
 Illinois:
 Cook
 Rock Island
 Vermilion
+Indiana:
+St. Joseph
 Iowa:
 Johnson
 Michigan:
@@ -379,25 +381,26 @@ Missouri: (counties)
 Jefferson
 Pulaski
 KANSAS
-Leavenworth/Jackson-Johnson
+Leaven-Worth-Jackson-Johnson
 Survey Area
 Kansas:
 Leavenworth
 Missouri:
 Jackson
 Johnson
-Area of Application. Survey area plus:
+Area of Application. Survey area.
 Kansas:
 Shawnee
 Missouri:
 Boone
 Camden
 Cass
+Greene
 Sedgwick
 Survey Area
 Kansas:
 Sedgwick
-Area of Application. Survey area plus:
+Area of Application. Survey area.
 Kansas:
 Geary
 Saline
@@ -525,7 +528,7 @@ Macomb
 Survey Area
 Michigan:
 Macomb
-Area of Application. Survey area plus:
+Area of Application. Survey area.
 Michigan:
 Alpena
 Calhoun
@@ -540,6 +543,7 @@ Saginaw
 Washtenaw
 Wayne
 Ohio:
+Lucas
 Ottawa
 MINNESOTA
 Hennepin
@@ -852,22 +856,16 @@ Lebanon
 PUERTO RICO
 Guaynabo-San Juan
 Survey Area
-Puerto Rico: (municipalities)
+Puerto Rico:
 Guaynabo
 San Juan
-Area of Application. Survey area plus:
-Puerto Rico: (municipalities)
+Area of Application. Survey area.
+Puerto Rico:
 Aguadilla
 Bayamon
-Ceiba
-Isabela
+Mayaguez
 Ponce
 Salinas
-Toa Baja
-Vieques
-U.S. Virgin Islands:
-St. Croix
-St. Thomas
 RHODE ISLAND
 Newport
 Survey Area
