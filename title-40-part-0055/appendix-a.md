@@ -122,12 +122,12 @@ Rule 431 Stationary Internal Combustion Engines (Adopted 11/13/96)
 Rule 501 General Burning Provisions (Adopted 1/10/89)
 Rule 503 Incinerator Burning, except B.1.a. (Adopted 2/7/89)
 Rule 601 New Source Performance Standards (Adopted 5/28/97)
-(6) The following requirements are contained in Santa Barbara County Air Pollution Control District Requirements Applicable to OCS Sources, April 2017:
+(6) The following requirements are contained in Santa Barbara County Air Pollution Control District Requirements Applicable to OCS Sources, April 2019:
 Rule 102 Definitions (Revised 08/25/16)
 Rule 103 Severability (Adopted 10/23/78)
 Rule 105 Applicability (Revised 08/25/16)
 Rule 107 Emergencies (Adopted 04/19/01)
-Rule 201 Permits Required (Revised06/19/08)
+Rule 201 Permits Required (Revised 06/19/08)
 Rule 202 Exemptions to Rule 201 (Revised 08/25/16)
 Rule 203 Transfer (Revised 04/17/97)
 Rule 204 Applications (Revised 08/25/16)
@@ -135,22 +135,22 @@ Rule 205 Standards for Granting Permits (Revised 04/17/97)
 Rule 206 Conditional Approval of Authority to Construct or Permit to Operate (Revised 10/15/91)
 Rule 207 Denial of Application (Adopted 10/23/78)
 Rule 210 Fees (Revised 03/17/05)
-Rule 212 Emission Statements (Adopted10/20/92)
-Rule 301 Circumvention (Adopted10/23/78)
-Rule 302 Visible Emissions (Revised6/1981)
+Rule 212 Emission Statements (Adopted 10/20/92)
+Rule 301 Circumvention (Adopted 10/23/78)
+Rule 302 Visible Emissions (Revised 6/1981)
 Rule 303 Nuisance (Adopted 10/23/78)
 Rule 304 Particulate Matter-Northern Zone (Adopted 10/23/78)
 Rule 305 Particulate Matter Concentration-Southern Zone (Adopted 10/23/78)
 Rule 306 Dust and Fumes-Northern Zone (Adopted 10/23/78)
 Rule 307 Particulate Matter Emission Weight Rate-Southern Zone (Adopted 10/23/78)
-Rule 308 Incinerator Burning (Adopted10/23/78)
+Rule 308 Incinerator Burning (Adopted 10/23/78)
 Rule 309 Specific Contaminants (Adopted 10/23/78)
 Rule 310 Odorous Organic Sulfides (Adopted 10/23/78)
 Rule 311 Sulfur Content of Fuels (Adopted 10/23/78)
 Rule 312 Open Fires (Adopted 10/02/90)
 Rule 316 Storage and Transfer of Gasoline (Revised 01/15/09)
-Rule 317 Organic Solvents (Adopted10/23/78)
-Rule 318 Vacuum Producing Devices or Systems-Southern Zone (Adopted10/23/78)
+Rule 317 Organic Solvents (Adopted 10/23/78)
+Rule 318 Vacuum Producing Devices or Systems-Southern Zone (Adopted 10/23/78)
 Rule 321 Solvent Cleaning Operations (Revised 06/21/12)
 Rule 322 Metal Surface Coating Thinner and Reducer (Adopted 10/23/78)
 Rule 323 Architectural Coatings (Revised 11/15/01)
@@ -164,7 +164,7 @@ Rule 330 Surface Coating of Metal Parts and Products (Revised 06/21/12)
 Rule 331 Fugitive Emissions Inspection and Maintenance (Revised 12/10/91)
 Rule 332 Petroleum Refinery Vacuum Producing Systems, Wastewater Separators and Process Turnarounds (Adopted 06/11/79)
 Rule 333 Control of Emissions from Reciprocating Internal Combustion Engines (Adopted 06/19/08)
-Rule 342 Control of Oxides of Nitrogen (NOX) from Boilers, Steam Generators and Process Heaters) (Revised 04/17/97)
+Rule 342 Control of Oxides of Nitrogen (NOx) from Boilers, Steam Generators and Process Heaters) (Revised 04/17/97)
 Rule 343 Petroleum Storage Tank Degassing (Adopted 12/14/93)
 Rule 344 Petroleum Sumps, Pits, and Well Cellars (Adopted 11/10/94)
 Rule 346 Loading of Organic Liquid Cargo Vessels (Revised 01/18/01)
@@ -172,10 +172,10 @@ Rule 349 Polyester Resin Operations (Revised 06/21/12)
 Rule 352 Natural Gas-Fired Fan-Type Central Furnaces and Residential Water Heaters (Revised 10/20/11)
 Rule 353 Adhesives and Sealants (Revised 06/21/12)
 Rule 359 Flares and Thermal Oxidizers (Adopted 06/28/94)
-Rule 360 Emissions of Oxides of Nitrogen from Large Water Heaters and Small Boilers (Adopted 10/17/02)
+Rule 360 Boilers, Water Heaters, and Process Heaters (0.075-2 MMBtu/hr.) (Revised 03/15/18)
 Rule 361 Small Boilers, Steam Generators, and Process Heaters (Adopted 01/17/08)
 Rule 370 Potential to Emit—Limitations for Part 70 Sources (Revised 01/20/11)
-Rule 505 Breakdown Conditions Sections A.,B.1, and D. only (Adopted 10/23/78)
+Rule 505 Breakdown Conditions Sections A., B.1, and D. only (Adopted 10/23/78)
 Rule 603 Emergency Episode Plans (Adopted 06/15/81)
 Rule 702 General Conformity (Adopted 10/20/94)
 Rule 801 New Source Review—Definitions and General Requirements (Revised 08/25/16)
@@ -314,7 +314,7 @@ Rule 1901 General Conformity (Adopted 09/09/94)
 Regulation XX Regional Clean Air Incentives Market (Reclaim)
 Rule 2000 General (Adopted 05/06/05)
 Rule 2001 Applicability (Adopted 05/06/05)
-Rule 2002 Allocations for Oxides of Nitrogen (NOX) and Oxides of Sulfur (SOX) (Adopted 01/07/05)
+Rule 2002 Allocations for Oxides of Nitrogen (NO X) and Oxides of Sulfur (SO X) (Adopted 01/07/05)
 Rule 2004 Requirements (Adopted 4/6/07) except (l)
 Rule 2005 New Source Review for RECLAIM (Adopted 05/06/05) except (i)
 Rule 2006 Permits (Adopted 05/11/01)
@@ -322,15 +322,15 @@ Rule 2007 Trading Requirements (Adopted 4/6/07)
 Rule 2008 Mobile Source Credits (Adopted 10/15/93)
 Rule 2009 Compliance Plan for Power Producing Facilities (Adopted 01/07/05)
 Rule 2010 Administrative Remedies and Sanctions (Adopted 4/6/07)
-Rule 2011 Requirements for Monitoring, Reporting, and Recordkeeping for Oxides of Sulfur (SOX) Emissions (Adopted 05/06/05)
+Rule 2011 Requirements for Monitoring, Reporting, and Recordkeeping for Oxides of Sulfur (SO X) Emissions (Adopted 05/06/05)
 Appendix A Volume IV—(Protocol for Oxides of Sulfur) (Adopted 05/06/05)
-Rule 2012 Requirements for Monitoring, Reporting, and Recordkeeping for Oxides of Nitrogen (NOX) Emissions (Adopted 05/06/05)
+Rule 2012 Requirements for Monitoring, Reporting, and Recordkeeping for Oxides of Nitrogen (NO X) Emissions (Adopted 05/06/05)
 Appendix A Volume V—(Protocol for Oxides of Nitrogen) (Adopted 05/06/05)
 Rule 2015 Backstop Provisions (Adopted 06/04/04) except (b)(1)(G) and (b)(3)(B)
 Rule 2020 RECLAIM Reserve (Adopted 05/11/01)
 Rule 2100 Registration of Portable Equipment (Adopted 07/11/97)
 Rule 2449 Controls of Oxides of Nitrogen Emissions from Off-Road Diesel Vehicles (Adopted 5/2/08)
-Rule 2506 Area Source Credits for NOX and SOX (Adopted 12/10/99)
+Rule 2506 Area Source Credits for NO X and SO X (Adopted 12/10/99)
 XXX Title V Permits
 Rule 3000 General (Adopted 11/14/97)
 Rule 3001 Applicability (Adopted 11/14/97)
@@ -418,7 +418,7 @@ Rule 74.7 Fugitive Emissions of Reactive Organic Compounds at Petroleum Refineri
 Rule 74.8 Refinery Vacuum Producing Systems, Waste-Water Separators and Process Turnarounds (Revised 07/05/83)
 Rule 74.9 Stationary Internal Combustion Engines (Revised 11/08/05)
 Rule 74.10 Components at Crude Oil Production Facilities and Natural Gas Production and Processing Facilities (Revised 03/10/98)
-Rule 74.11 Natural Gas-Fired Residential Water Heaters—Control of NOX (Revised 05/11/10)
+Rule 74.11 Natural Gas-Fired Residential Water Heaters—Control of NO X (Revised 05/11/10)
 Rule 74.11.1 Large Water Heaters and Small Boilers (Revised 09/11/12)
 Rule 74.12 Surface Coating of Metal Parts and Products (Revised 04/08/08)
 Rule 74.15 Boilers, Steam Generators and Process Heaters (5 MMBTUs and greater) (Revised 11/08/94)
@@ -478,7 +478,7 @@ Section 7.0: Hydrocarbons (Effective 02/01/1981)
 Section 8.0: Nitrogen Dioxide (Effective 01/11/2014)
 Section 9.0: Hydrogen Sulfide (Effective 02/01/1981)
 Section 10.0: Lead (Effective 01/11/2014)
-Section 11.0: PM10 and PM2.5 Particulates (Effective 01/11/2014)
+Section 11.0: PM 10 and PM 2.5 Particulates (Effective 01/11/2014)
 7 DE Admin. Code 1104: Particulate Emissions From Fuel Burning Equipment
 Section 1.0: General Provisions (Effective 01/11/2017)
 Section 2.0: Emission Limits (Effective 01/11/2017)
@@ -722,7 +722,7 @@ Section 2.0: Consumer Products (Effective 02/11/2016)
 Section 3.0: Portable Fuel Containers (Effective 04/11/2010)
 Section 4.0: Adhesives and Sealants (Effective 04/11/2009)
 7 DE Admin. Code 1142: Specific Emission Control Requirements
-Section 1.0: Control of NOX Emissions from Industrial Boilers (Effective 12/12/2001)
+Section 1.0: Control of NO X Emissions from Industrial Boilers (Effective 12/12/2001)
 7 DE Admin. Code 1144: Control of Stationary Generator Emissions
 Section 1.0: General (Effective 01/11/2006)
 Section 2.0: Definitions (Effective 01/11/2006)
@@ -744,29 +744,29 @@ Section 6.0: Enforcement and Penalty (Effective 04/11/2005)
 Section 1.0: Preamble (Effective 12/11/2006)
 Section 2.0: Applicability (Effective 12/11/2006)
 Section 3.0: Definitions (Effective 12/11/2006)
-Section 4.0: NOX Emissions Limitations (Effective 12/11/2006)
-Section 5.0: SO2 Emissions Limitations (Effective 12/11/2006)
+Section 4.0: NO X Emissions Limitations (Effective 12/11/2006)
+Section 5.0: SO 2 Emissions Limitations (Effective 12/11/2006)
 Section 6.0: Mercury Emissions Limitations (Effective 12/11/2006)
 Section 7.0: Record Keeping and Reporting (Effective 12/11/2006)
 Section 8.0: Compliance Plan (Effective 12/11/2006)
 Section 9.0: Penalties (Effective 12/11/2006)
-7 DE Admin. Code 1147: CO2 Budget Trading Program
-Section 1.0: CO2 Budget Trading Program General Provisions (Effective 12/11/2013)
-Section 2.0: CO2 Authorized Account Representative for CO2 Budget Source (Effective 11/11/2008)
+7 DE Admin. Code 1147: CO 2 Budget Trading Program
+Section 1.0: CO 2 Budget Trading Program General Provisions (Effective 12/11/2013)
+Section 2.0: CO 2 Authorized Account Representative for CO 2 Budget Source (Effective 11/11/2008)
 Section 3.0: Permits (Effective 11/11/2018)
 Section 4.0: Compliance Certification (Effective 12/11/2013)
-Section 5.0: CO2 Allowance Allocations (Effective 12/11/2013)
-Section 6.0: CO2 Allowance Tracking System (Effective 12/11/2013)
-Section 7.0: CO2 Allowance Transfers (Effective 12/11/2013)
+Section 5.0: CO 2 Allowance Allocations (Effective 12/11/2013)
+Section 6.0: CO 2 Allowance Tracking System (Effective 12/11/2013)
+Section 7.0: CO 2 Allowance Transfers (Effective 12/11/2013)
 Section 8.0: Monitoring and Reporting (Effective 12/11/2013)
-Section 9.0: Auction of CO2 CCR allowances (Effective 12/11/2013)
-Section 10.0: CO2 Emissions Offset Projects (Effective 12/11/2013)
-Section 11.0: CO2 Emissions Auction (Effective 12/11/2013)
+Section 9.0: Auction of CO 2 CCR allowances (Effective 12/11/2013)
+Section 10.0: CO 2 Emissions Offset Projects (Effective 12/11/2013)
+Section 11.0: CO 2 Emissions Auction (Effective 12/11/2013)
 7 DE Admin. Code 1148: Control of Stationary Combustion Turbine Electric Generating Unit Emissions
 Section 1.0: Purpose (Effective 07/11/2007)
 Section 2.0: Applicability (Effective 07/11/2007)
 Section 3.0: Definitions (Effective 07/11/2007)
-Section 4.0: NOX Emissions Limitations (Effective 07/11/2007)
+Section 4.0: NO X Emissions Limitations (Effective 07/11/2007)
 Section 5.0: Monitoring and Reporting (Effective 07/11/2007)
 Section 6.0: Recordkeeping (Effective 07/11/2007)
 Section 7.0: Penalties (Effective 07/11/2007)
@@ -899,7 +899,7 @@ CHAPTER 62-296 STATIONARY SOURCES-EMISSION STANDARDS
 62-296.418 Bulk Gasoline Plants (Effective 5/9/07)
 62-296.470 Implementation of Federal Clean Air Interstate Rule (Effective 4/1/07)
 62-296.480 Implementation of Federal Clean Air Mercury Rule (Effective 9/6/06)
-62-296.500 Reasonably Available Control Technology (RACT)—Volatile Organic Compounds (VOC) and Nitrogen Oxides (NOX) Emitting Facilities (Effective 1/1/96)
+62-296.500 Reasonably Available Control Technology (RACT)—Volatile Organic Compounds (VOC) and Nitrogen Oxides (NO X) Emitting Facilities (Effective 1/1/96)
 62-296.501 Can Coating (Effective 1/1/96)
 62-296.502 Coil Coating (Effective 1/1/96)
 62-296.503 Paper Coating (Effective 1/1/96)
@@ -915,7 +915,7 @@ CHAPTER 62-296 STATIONARY SOURCES-EMISSION STANDARDS
 62-296.514 Surface Coating of Flat Wood Paneling (Effective 1/1/96)
 62-296.515 Graphic Arts Systems (Effective 1/1/96)
 62-296.516 Petroleum Liquid Storage Tanks with External Floating Roofs (Effective 1/1/96)
-62-296.570 Reasonably Available Control Technology (RACT)—Requirements for Major VOC and NOX-Emitting Facilities (Effective 3/2/99)
+62-296.570 Reasonably Available Control Technology (RACT)—Requirements for Major VOC and NO X -Emitting Facilities (Effective 3/2/99)
 62-296.600 Reasonably Available Control Technology (RACT) Lead (Effective 3/13/96)
 62-296.601 Lead Processing Operations in General (Effective 1/1/96)
 62-296.602 Primary Lead-Acid Battery Manufacturing Operations (Effective 3/13/96)
@@ -948,25 +948,25 @@ CHAPTER 62-297 STATIONARY SOURCE EMISSIONS MONITORING
 (1) [Reserved]
 Maryland:
 (a) State Requirements.
-(1) The following State of Maryland requirements are applicable to OCS Sources, May 6, 2016, State of Maryland—Department of the Environment. The following sections of Code of Maryland Regulations (COMAR) Title 26 Subtitle 11:
-COMAR 26.11.01—General Administrative Provisions (Effective as of February 15, 2016)
-COMAR 26.11.02—Permits, Approvals, and Registrations (Effective as of December 10, 2015)
-COMAR 26.11.03—Permits, Approvals, and Registration—Title V Permits (Effective as of November 12, 2010)
+(1) The following State of Maryland requirements are applicable to OCS Sources, December 6, 2018, State of Maryland-Department of the Environment.
+The following sections of Code of Maryland Regulations (COMAR) Title 26 Subtitle 11:
+COMAR 26.11.01—General Administrative Provisions (Effective as of December 6, 2018)
+COMAR 26.11.02—Permits, Approvals, and Registrations (Effective as of February 12, 2018)
+COMAR 26.11.03—Permits, Approvals, and Registration- Title V Permits (Effective as of November 12, 2010)
 COMAR 26.11.05—Air Pollution Episode System (Effective as of November 12, 2010)
-COMAR 26.11.06—General Emission Standards, Prohibitions, and Restrictions (Effective as of July 08, 2013)
+COMAR 26.11.06—General Emission Standards, Prohibitions, and Restrictions (Effective as of July 02, 2013)
 COMAR 26.11.07—Open Fires (Effective as of November 12, 2010)
-COMAR 26.11.08—Control of Incinerators (Effective as of February 15, 2016)
-COMAR 26.11.09—Control of Fuel-Burning Equipment, Stationary Internal Combustion Engines and Certain Fuel-Burning Installations (Effective as of July 20, 2015)
+COMAR 26.11.08—Control of Incinerators (Effective as of December 6, 2018)
+COMAR 26.11.09—Control of Fuel-Burning Equipment, Stationary Internal Combustion Engines and Certain Fuel-Burning Installations (Effective as of December 6, 2018)
 COMAR 26.11.13—Control of Gasoline and Volatile Organic Compound Storage and Handling (Effective as of July 21, 2014)
 COMAR 26.11.15—Toxic Air Pollutants (Effective as of November 12, 2010)
 COMAR 26.11.16—Procedures Related to Requirements for Toxic Air Pollutants (Effective as of November 12, 2010)
-COMAR 26.11.17—Nonattainment Provisions for Major New Sources and Major Modifications (Effective as of July 08, 2013)
-COMAR 26.11.19—Volatile Organic Compounds from Specific Processes (Effective as of September 28, 2015, 2012)
+COMAR 26.11.17—Nonattainment Provisions for Major New Sources and Major Modifications (Effective as of April 09, 2018)
+COMAR 26.11.19—Volatile Organic Compounds from Specific Processes (Effective as of September 28, 2015)
 COMAR 26.11.20—Mobile Sources (Effective as of November 12, 2010)
 COMAR 26.11.26—Conformity (Effective as of November 12, 2010)
-COMAR 26.11.33—Architectural Coatings (Effective as of November 12, 2010)
 COMAR 26.11.35—Volatile Organic Compounds from Adhesives and Sealants (Effective as of November 12, 2010)
-COMAR 26.11.36—Distributed Generation (Effective as of June 13, 2011)
+COMAR 26.11.36—Distributed Generation (Effective as of February 12, 2018)
 COMAR 26.11.39—Architectural and Industrial Maintenance (AIM) Coatings (Effective as of April 2016)
 Massachusetts
 (a) State requirements.
@@ -999,7 +999,7 @@ Section 7.12: U Source Registration (Effective 3/9/2018)
 Section 7.13: U Stack Testing (Effective 3/9/2018)
 Section 7.14: U Monitoring Devices and Reports (Effective 3/9/2018)
 Section 7.18: U Volatile and Halogenated Organic Compounds (Effective 3/9/2018)
-Section 7.19: U Reasonably Available Control Technology (RACT) for Sources of Oxides of Nitrogen (NOX) (Effective 3/9/2018)
+Section 7.19: U Reasonably Available Control Technology (RACT) for Sources of Oxides of Nitrogen (NO X) (Effective 3/9/2018)
 Section 7.24: U Organic Material Storage and Distribution (Effective 3/9/2018)
 Section 7.25: U Best Available Controls for Consumer and Commercial Products (Effective 3/9/2018)
 Section 7.26: Industry Performance Standards (Effective 3/9/2018)
@@ -1094,7 +1094,7 @@ N.J.A.C. 7:27-10.1. Definitions
 N.J.A.C. 7:27-10.2. Sulfur contents standards
 N.J.A.C. 7:27-10.3. Expansion, reconstruction or construction of solid fuel burning units
 N.J.A.C. 7:27-10.4. Exemptions
-N.J.A.C. 7:27-10.5. SO2 emission rate determinations
+N.J.A.C. 7:27-10.5. SO 2 emission rate determinations
 Chapter 27 Subchapter 11—Incinerators (Effective 5/4/1998)
 N.J.A.C. 7:27-11.1. Definitions
 N.J.A.C. 7:27-11.2. Construction standards
@@ -1157,7 +1157,7 @@ N.J.A.C. 7:27-19.6. Emissions averaging
 N.J.A.C. 7:27-19.7. Industrial/commercial/institutional boilers and other indirect heat exchangers
 N.J.A.C. 7:27-19.8. Stationary reciprocating engines
 N.J.A.C. 7:27-19.11. Emergency generators—recordkeeping
-N.J.A.C. 7:27-19.13. Alternative and facility-specific NOX emission limits
+N.J.A.C. 7:27-19.13. Alternative and facility-specific NO X emission limits
 N.J.A.C. 7:27-19.14. Procedures for obtaining approvals under this subchapter
 N.J.A.C. 7:27-19.15. Procedures and deadlines for demonstrating compliance
 N.J.A.C. 7:27-19.16. Adjusting combustion processes
@@ -1299,14 +1299,14 @@ Part 201. Permits and Certificates
 Part 202. Emissions Verification
 6 NYCRR 202-1. Emissions Testing, Sampling and Analytical Determinations (effective 5/29/05)
 6 NYCRR 202-2. Emission Statements (effective 5/29/05)
-Part 204. NOX Budget Trading Program
+Part 204. NO X Budget Trading Program
 6 NYCRR 204-1. General Provisions (effective 2/25/00)
-6 NYCRR 204-2. Authorized Account Representative for NOX Budget Sources (effective 2/25/00)
+6 NYCRR 204-2. Authorized Account Representative for NO X Budget Sources (effective 2/25/00)
 6 NYCRR 204-3. Permits (effective 2/25/00)
 6 NYCRR 204-4. Compliance Certification (effective 2/25/00)
 6 NYCRR 204-5. Allowance Allocations (effective 2/25/00)
 6 NYCRR 204-6. Allowance Tracking System (effective 2/25/00)
-6 NYCRR 204-7. NOX Allowance Transfers (effective 2/25/00)
+6 NYCRR 204-7. NO X Allowance Transfers (effective 2/25/00)
 6 NYCRR 204-8. Monitoring and Reporting (effective 2/25/00)
 6 NYCRR 204-9. Individual Unit Opt-ins (effective 2/25/00)
 Part 207—Control Measures for Air Pollution Episode (Effective 2/22/79)
@@ -1345,32 +1345,32 @@ Part 231—New Source Review in Nonattainment Areas and Ozone Transport Region
 6 NYCRR 231-1. Requirements for Emission Sources Subject to the Regulation Prior to November 15, 1992 (effective 10/15/94)
 6 NYCRR 231-2. Requirements for Emission Sources Subject to the Regulation On or After November 15, 1992 (effective 5/3/00)
 Part 240—Conformity to State or Federal Implementation Plans (Effective 10/22/04)
-Part 243—CAIR NOX Ozone Season Trading Program
-6 NYCRR 243-1. CAIR NOX Ozone Season Trading Program General Provisions (effective 10/19/07)
-6 NYCRR 243-2. CAIR Designated Representative for CAIR NOX Ozone Season Sources (effective 10/19/07)
+Part 243—CAIR NO X Ozone Season Trading Program
+6 NYCRR 243-1. CAIR NO X Ozone Season Trading Program General Provisions (effective 10/19/07)
+6 NYCRR 243-2. CAIR Designated Representative for CAIR NO X Ozone Season Sources (effective 10/19/07)
 6 NYCRR 243-3. Permits (effective 10/19/07)
-6 NYCRR 243-5. CAIR NOX Ozone Season Allowance Allocations (effective 10/19/07)
-6 NYCRR 243-6. CAIR NOX Ozone Season Allowance Tracking System (effective 10/19/07)
-6 NYCRR 243-7. CAIR NOX Ozone Season Allowance Transfers (effective 10/19/07)
+6 NYCRR 243-5. CAIR NO X Ozone Season Allowance Allocations (effective 10/19/07)
+6 NYCRR 243-6. CAIR NO X Ozone Season Allowance Tracking System (effective 10/19/07)
+6 NYCRR 243-7. CAIR NO X Ozone Season Allowance Transfers (effective 10/19/07)
 6 NYCRR 243-8. Monitoring and Reporting (effective 10/19/07)
-6 NYCRR 243-9. CAIR NOX Ozone Season Opt-in Units (effective 10/19/07)
-Part 244—CAIR NOX Annual Trading Program
-6 NYCRR 244-1. CAIR NOX Annual Trading Program General Provisions (effective 10/19/07)
-6 NYCRR 244-2. CAIR Designated Representative for CAIR NOX Sources (effective 10/19/07)
+6 NYCRR 243-9. CAIR NO X Ozone Season Opt-in Units (effective 10/19/07)
+Part 244—CAIR NO X Annual Trading Program
+6 NYCRR 244-1. CAIR NO X Annual Trading Program General Provisions (effective 10/19/07)
+6 NYCRR 244-2. CAIR Designated Representative for CAIR NO X Sources (effective 10/19/07)
 6 NYCRR 244-3. Permits (effective 10/19/07)
-6 NYCRR 244-5. CAIR NOX Allowance Allocations (effective 10/19/07)
-6 NYCRR 244-6. CAIR NOX Allowance Tracking System (effective 10/19/07)
-6 NYCRR 244-7. CAIR NOX Allowance Transfers (effective 10/19/07)
+6 NYCRR 244-5. CAIR NO X Allowance Allocations (effective 10/19/07)
+6 NYCRR 244-6. CAIR NO X Allowance Tracking System (effective 10/19/07)
+6 NYCRR 244-7. CAIR NO X Allowance Transfers (effective 10/19/07)
 6 NYCRR 244-8. Monitoring and Reporting (effective 10/19/07)
-6 NYCRR 244-9. CAIR NOX Opt-in Units (effective 10/19/07)
-Part 245—CAIR SO2 Trading Program
-6 NYCRR 245-1. CAIR SO2 Trading Program General Provisions (effective 10/19/07)
-6 NYCRR 245-2. CAIR Designated Representative for CAIR SO2 Sources (effective 10/19/07)
+6 NYCRR 244-9. CAIR NO X Opt-in Units (effective 10/19/07)
+Part 245—CAIR SO 2 Trading Program
+6 NYCRR 245-1. CAIR SO 2 Trading Program General Provisions (effective 10/19/07)
+6 NYCRR 245-2. CAIR Designated Representative for CAIR SO 2 Sources (effective 10/19/07)
 6 NYCRR 245-3. Permits (effective 10/19/07)
-6 NYCRR 245-6. CAIR SO2 Allowance Tracking System (effective 10/19/07)
-6 NYCRR 245-7. CAIR SO2 Allowance Transfers (effective 10/19/07)
+6 NYCRR 245-6. CAIR SO 2 Allowance Tracking System (effective 10/19/07)
+6 NYCRR 245-7. CAIR SO 2 Allowance Transfers (effective 10/19/07)
 6 NYCRR 245-8. Monitoring and Reporting (effective 10/19/07)
-6 NYCRR 245-9. CAIR SO2 Opt-in Units (effective 10/19/07)
+6 NYCRR 245-9. CAIR SO 2 Opt-in Units (effective 10/19/07)
 North Carolina
 (a) State requirements.
 (1) The following requirements are contained in State of North Carolina Air Pollution Control Requirements Applicable to OCS Sources, January 2, 2008: The following sections of subchapter 2D, 2H and 2Q.
@@ -1746,14 +1746,15 @@ SECTION.0900—PERMIT EXEMPTIONS
 (1) [Reserved]
 Virginia:
 (a) State Requirements.
-(1) The following Commonwealth of Virginia requirements are applicable to OCS Sources, March 2, 2011, Commonwealth of Virginia—Virginia Department of Environmental Quality. The following sections of Virginia Regulations for the Control and Abatement of Air Pollution Control (VAC), Title 9, Agency 5:
+(1) The following Commonwealth of Virginia requirements are applicable to OCS Sources, February 20, 2019, Commonwealth of Virginia—Virginia Department of Environmental Quality.
+The following sections of Virginia Regulations for the Control and Abatement of Air Pollution Control (VAC), Title 9, Agency 5:
 Chapter 10—General Definitions
-(Effective 02/18/2010)
+(Effective 05/19/2017)
 9VAC5-10-10. General.
 9VAC5-10-20. Terms defined.
 9VAC5-10-30. Abbreviations.
 Chapter 20—General Provisions
-(Effective 11/10/2010)
+(Effective 02/19/2018)
 Part I—Administrative
 9VAC5-20-10. Applicability.
 9VAC5-20-21. Documents incorporated by reference.
@@ -1766,8 +1767,6 @@ Part II—Air Quality Programs
 9VAC5-20-170. Control programs.
 9VAC5-20-180. Facility and control equipment maintenance or malfunction.
 9VAC5-20-200. Air quality control regions.
-9VAC5-20-201. Urban areas.
-9VAC5-20-202. Metropolitan statistical areas.
 9VAC5-20-203. Maintenance areas.
 9VAC5-20-204. Nonattainment areas.
 9VAC5-20-205. Prevention of significant deterioration areas.
@@ -1775,7 +1774,7 @@ Part II—Air Quality Programs
 9VAC5-20-220. Shutdown of a stationary source.
 9VAC5-20-230. Certification of documents.
 Chapter 30—Ambient Air Quality Standards
-(Effective 08/18/2010)
+(Effective 05/15/2017)
 9VAC5-30-10. General.
 9VAC5-30-15. Reference conditions.
 9VAC5-30-30. Sulfur oxides (sulfur dioxide).
@@ -1783,8 +1782,11 @@ Chapter 30—Ambient Air Quality Standards
 9VAC5-30-50. Ozone (1-hour).
 9VAC5-30-55. Ozone (8-hour, 0.08 ppm).
 9VAC5-30-56. Ozone (8-hour, 0.075 ppm).
-9VAC5-30-60. Particulate matter (PM10).
-9VAC5-30-65. Particulate matter.
+9VAC5-30-57. Ozone (8-hour, 0.070 ppm).
+9VAC5-30-60. Particulate matter (PM 10).
+9VAC5-30-65. Particulate matter (PM 2.5).
+9VAC5-30-66. Particulate matter (PM 2.5).
+9VAC5-30-67. Particulate matter (PM 2.5).
 9VAC5-30-70. Oxides of nitrogen with nitrogen dioxide as the indicator.
 9VAC5-30-80. Lead.
 Chapter 40—Existing Stationary Sources
@@ -1818,7 +1820,6 @@ Article 4—General Process Operations
 9VAC5-40-290. Standard for hydrogen sulfide.
 9VAC5-40-320. Standard for visible emissions.
 9VAC5-40-330. Standard for fugitive dust/emissions.
-9VAC5-40-350. Standard for toxic pollutants.
 9VAC5-40-360. Compliance.
 9VAC5-40-370. Test methods and procedures.
 9VAC5-40-380. Monitoring.
@@ -1833,7 +1834,6 @@ Article 7—Incinerators
 9VAC5-40-750. Standard for particulate matter.
 9VAC5-40-760. Standard for visible emissions.
 9VAC5-40-770. Standard for fugitive dust/emissions.
-9VAC5-40-790. Standard for toxic pollutants.
 9VAC5-40-800. Prohibition of flue-fed incinerators.
 9VAC5-40-810. Compliance.
 9VAC5-40-820. Test methods and procedures.
@@ -1852,7 +1852,6 @@ Article 8—Fuel Burning Equipment
 9VAC5-40-930. Standard for sulfur dioxide.
 9VAC5-40-940. Standard for visible emissions.
 9VAC5-40-950. Standard for fugitive dust/emissions.
-9VAC5-40-970. Standard for toxic pollutants.
 9VAC5-40-980. Compliance.
 9VAC5-40-990. Test methods and procedures.
 9VAC5-40-1000. Monitoring.
@@ -1867,7 +1866,6 @@ Article 14—Sand-Gravel Processing; Stone Quarrying & Processing
 9VAC5-40-1840. Standard for particulate matter.
 9VAC5-40-1850. Standard for visible emissions.
 9VAC5-40-1860. Standard for fugitive dust/emissions.
-9VAC5-40-1880. Standard for toxic pollutants.
 9VAC5-40-1890. Compliance.
 9VAC5-40-1900. Test methods and procedures.
 9VAC5-40-1910. Monitoring.
@@ -1882,7 +1880,6 @@ Article 17—Woodworking Operations
 9VAC5-40-2270. Standard for particulate matter.
 9VAC5-40-2280. Standard for visible emissions.
 9VAC5-40-2290. Standard for fugitive dust/emissions.
-9VAC5-40-2310. Standard for toxic pollutants.
 9VAC5-40-2320. Compliance.
 9VAC5-40-2330. Test methods and procedures.
 9VAC5-40-2340. Monitoring.
@@ -1898,7 +1895,6 @@ Article 18—Primary and Secondary Metal Operations
 9VAC5-40-2420. Standard for sulfur oxides.
 9VAC5-40-2430. Standard for visible emissions.
 9VAC5-40-2440. Standard for fugitive dust/emissions.
-9VAC5-40-2460. Standard for toxic pollutants.
 9VAC5-40-2470. Compliance.
 9VAC5-40-2480. Test methods and procedures.
 9VAC5-40-2490. Monitoring.
@@ -1914,7 +1910,6 @@ Article 19—Lightweight Aggregate Process Operations
 9VAC5-40-2570. Standard for sulfur oxides.
 9VAC5-40-2580. Standard for visible emissions.
 9VAC5-40-2590. Standard for fugitive dust/emissions.
-9VAC5-40-2610. Standard for toxic pollutants.
 9VAC5-40-2620. Compliance.
 9VAC5-40-2630. Test methods and procedures.
 9VAC5-40-2640. Monitoring.
@@ -1930,7 +1925,6 @@ Article 24—Solvent Metal Cleaning Operations
 9VAC5-40-3290. Control technology guidelines.
 9VAC5-40-3300. Standard for visible emissions.
 9VAC5-40-3310. Standard for fugitive dust/emissions.
-9VAC5-40-3330. Standard for toxic pollutants.
 9VAC5-40-3340. Compliance.
 9VAC5-40-3350. Test methods and procedures.
 9VAC5-40-3360. Monitoring.
@@ -1946,7 +1940,6 @@ Article 25—VOC Storage & Transfer Operations
 9VAC5-40-3440. Control technology guidelines.
 9VAC5-40-3450. Standard for visible emissions.
 9VAC5-40-3460. Standard for fugitive dust/emissions.
-9VAC5-40-3480. Standard for toxic pollutants.
 9VAC5-40-3490. Compliance.
 9VAC5-40-3500. Test methods and procedures.
 9VAC5-40-3510. Monitoring.
@@ -1955,14 +1948,13 @@ Article 25—VOC Storage & Transfer Operations
 9VAC5-40-3540. Facility and control equipment maintenance or malfunction.
 9VAC5-40-3550. Permits.
 Article 34—Miscellaneous Metal Parts/Products Coating Application
-(Effective 07/01/1991)
+(Effective 02/01/2016)
 9VAC5-40-4760. Applicability and designation of affected facility.
 9VAC5-40-4770. Definitions.
 9VAC5-40-4780. Standard for volatile organic compounds.
 9VAC5-40-4790. Control technology guidelines.
 9VAC5-40-4800. Standard for visible emissions.
 9VAC5-40-4810. Standard for fugitive dust/emissions.
-9VAC5-40-4830. Standard for toxic pollutants.
 9VAC5-40-4840. Compliance.
 9VAC5-40-4850. Test methods and procedures.
 9VAC5-40-4860. Monitoring.
@@ -1971,14 +1963,13 @@ Article 34—Miscellaneous Metal Parts/Products Coating Application
 9VAC5-40-4890. Facility and control equipment maintenance or malfunction.
 9VAC5-40-4900. Permits.
 Article 37—Petroleum Liquid Storage and Transfer Operations
-(Effective 10/04/2006)
+(Effective 07/30/2015)
 9VAC5-40-5200. Applicability and designation of affected facility.
 9VAC5-40-5210. Definitions.
 9VAC5-40-5220. Standard for volatile organic compounds.
 9VAC5-40-5230. Control technology guidelines.
 9VAC5-40-5240. Standard for visible emissions.
 9VAC5-40-5250. Standard for fugitive dust/emissions.
-9VAC5-40-5270. Standard for toxic pollutants.
 9VAC5-40-5280. Compliance.
 9VAC5-40-5290. Test methods and procedures.
 9VAC5-40-5300. Monitoring.
@@ -1993,62 +1984,16 @@ Article 41—Mobile Sources
 9VAC5-40-5670. Motor vehicles.
 9VAC5-40-5680. Other mobile sources.
 9VAC5-40-5690. Export/import of motor vehicles.
-Article 42—Portable Fuel Container Spillage Control
-(Effective 10/04/2006)
-9VAC5-40-5700. Applicability.
-9VAC5-40-5710. Definitions.
-9VAC5-40-5720. Standard for volatile organic compounds.
-9VAC5-40-5730. Administrative requirements.
-9VAC5-40-5740. Compliance.
-9VAC5-40-5750. Compliance schedule.
-9VAC5-40-5760. Test methods and procedures.
-9VAC5-40-5770. Notification, records and reporting.
-Article 44—Hospital/medical/infectious Waste Incinerators
-(Effective 07/01/2003)
-9VAC5-40-6000. Applicability and designation of affected facility.
-9VAC5-40-6010. Definitions.
-9VAC5-40-6020. Standard for particulate matter.
-9VAC5-40-6030. Standard for carbon monoxide.
-9VAC5-40-6040. Standard for dioxins/furans.
-9VAC5-40-6050. Standard for hydrogen chloride.
-9VAC5-40-6060. Standard for sulfur dioxide.
-9VAC5-40-6070. Standard for nitrogen oxides.
-9VAC5-40-6080. Standard for lead.
-9VAC5-40-6090. Standard for cadmium.
-9VAC5-40-6100. Standard for mercury.
-9VAC5-40-6110. Standard for visible emissions.
-9VAC5-40-6120. Standard for fugitive dust/emissions.
-9VAC5-40-6140. Standard for toxic pollutants.
-9VAC5-40-6150. HMIWI operator training and qualification.
-9VAC5-40-6160. Waste management plans.
-9VAC5-40-6170. Inspections.
-9VAC5-40-6180. Compliance, emissions testing, and monitoring.
-9VAC5-40-6190. Recordkeeping and reporting.
-9VAC5-40-6200. Compliance schedules.
-9VAC5-40-6210. Registration.
-9VAC5-40-6220. Facility and control equipment maintenance or malfunction.
-9VAC5-40-6230. Permits.
 Article 45—Commercial/Industrial Solid Waste Incinerators
-(Effective 09/10/2003)
+(Effective 11/16/2016)
 9VAC5-40-6250. Applicability and designation of affected facility.
 9VAC5-40-6260. Definitions.
 9VAC5-40-6270. Standard for particulate matter.
-9VAC5-40-6280. Standard for carbon monoxide.
-9VAC5-40-6290. Standard for dioxins/furans.
-9VAC5-40-6300. Standard for hydrogen chloride.
-9VAC5-40-6310. Standard for sulfur dioxide.
-9VAC5-40-6320. Standard for nitrogen oxides.
-9VAC5-40-6330. Standard for lead.
-9VAC5-40-6340. Standard for cadmium.
-9VAC5-40-6350. Standard for mercury.
 9VAC5-40-6360. Standard for visible emissions.
 9VAC5-40-6370. Standard for fugitive dust/emissions.
-9VAC5-40-6390. Standard for toxic pollutants.
 9VAC5-40-6400. Operator training and qualification.
 9VAC5-40-6410. Waste management plan.
 9VAC5-40-6420. Compliance schedule.
-9VAC5-40-6421. Compliance schedule extension.
-9VAC5-40-6422. Shutdown and restart.
 9VAC5-40-6430. Operating limits.
 9VAC5-40-6440. Facility and control equipment maintenance or malfunction.
 9VAC5-40-6450. Test methods and procedures.
@@ -2058,6 +2003,7 @@ Article 45—Commercial/Industrial Solid Waste Incinerators
 9VAC5-40-6490. Requirements for air curtain incinerators.
 9VAC5-40-6500. Registration.
 9VAC5-40-6510. Permits.
+9VAC5-40-6520. Documents Incorporated by Reference.
 Article 46—Small Municipal Waste Combustors
 (Effective 05/04/2005)
 9VAC5-40-6550. Applicability and designation of affected facility.
@@ -2073,7 +2019,6 @@ Article 46—Small Municipal Waste Combustors
 9VAC5-40-6650. Standard for mercury.
 9VAC5-40-6660. Standard for visible emissions.
 9VAC5-40-6670. Standard for fugitive dust/emissions.
-9VAC5-40-6690. Standard for toxic pollutants.
 9VAC5-40-6700. Operator training and certification.
 9VAC5-40-6710. Compliance schedule.
 9VAC5-40-6720. Operating requirements.
@@ -2093,7 +2038,6 @@ Article 47—Solvent Cleaning
 9VAC5-40-6840. Standard for volatile organic compounds.
 9VAC5-40-6850. Standard for visible emissions.
 9VAC5-40-6860. Standard for fugitive dust/emissions.
-9VAC5-40-6880. Standard for toxic pollutants.
 9VAC5-40-6890. Compliance.
 9VAC5-40-6900. Compliance schedules.
 9VAC5-40-6910. Test methods and procedures.
@@ -2103,13 +2047,13 @@ Article 47—Solvent Cleaning
 9VAC5-40-6950. Facility and control equipment maintenance or malfunction.
 9VAC5-40-6960. Permits.
 Article 48—Mobile Equipment Repair and Refinishing
-(Effective 10/04/2006)
+(Effective 10/01/2013)
 9VAC5-40-6970. Applicability and designation of affected facility.
+9VAC5-40-6975. Exemptions.
 9VAC5-40-6980. Definitions.
 9VAC5-40-6990. Standard for volatile organic compounds.
 9VAC5-40-7000. Standard for visible emissions.
 9VAC5-40-7010. Standard for fugitive dust/emissions.
-9VAC5-40-7030. Standard for toxic pollutants.
 9VAC5-40-7040. Compliance.
 9VAC5-40-7050. Compliance schedule.
 9VAC5-40-7060. Test methods and procedures.
@@ -2119,17 +2063,16 @@ Article 48—Mobile Equipment Repair and Refinishing
 9VAC5-40-7100. Facility and control equipment maintenance or malfunction.
 9VAC5-40-7110. Permits.
 Article 51—Stationary Sources Subject to Case-by-Case RACT Determinations
-(Effective 01/20/2010)
+(Effective 12/02/2015)
 9VAC5-40-7370. Applicability and designation of affected facility.
 9VAC5-40-7380. Definitions.
-9VAC5-40-7390. Standard for volatile organic compounds (1-hour ozone standard).
+9VAC5-40-7390. Standard for volatile organic compounds (1-hour ozone standard)
 9VAC5-40-7400. Standard for volatile organic compounds (8-hour ozone standard).
 9VAC5-40-7410. Standard for nitrogen oxides (1-hour ozone standard).
 9VAC5-40-7420. Standard for nitrogen oxides (8-hour ozone standard).
 9VAC5-40-7430. Presumptive reasonably available control technology guidelines for stationary sources of nitrogen oxides.
 9VAC5-40-7440. Standard for visible emissions.
 9VAC5-40-7450. Standard for fugitive dust/emissions.
-9VAC5-40-7470. Standard for toxic pollutants.
 9VAC5-40-7480. Compliance.
 9VAC5-40-7490. Test methods and procedures.
 9VAC5-40-7500. Monitoring.
@@ -2152,17 +2095,18 @@ Article 54—Large Municipal Waste Combustors
 9VAC5-40-8050. Standard for nitrogen oxides.
 9VAC5-40-8060. Standard for visible emissions.
 9VAC5-40-8070. Standard for fugitive dust/emissions.
-9VAC5-40-8090. Standard for toxic pollutants.
 9VAC5-40-8100. Compliance.
 9VAC5-40-8110. Compliance schedules.
 9VAC5-40-8120. Operating practices.
 9VAC5-40-8130. Operator training and certification.
+9VAC5-40-8140. Test Methods and Procedures.
 9VAC5-40-8150. Monitoring.
+9VAC5-40-8160. Notification, Records and Reporting.
 9VAC5-40-8170. Registration.
 9VAC5-40-8180. Facility and control equipment maintenance or malfunction.
 9VAC5-40-8190. Permits.
 Chapter 50—New and Modified Stationary Sources
-Part I—Special provisions
+Part I—Special Provisions
 (Effective 12/12/2007)
 9VAC5-50-10. Applicability.
 9VAC5-50-20. Compliance.
@@ -2170,7 +2114,7 @@ Part I—Special provisions
 9VAC5-50-40. Monitoring.
 9VAC5-50-50. Notification, records and reporting.
 Part II—Emission Standards
-Article 1—Visible emissions and fugitive dust/emissions
+Article 1—Visible Emissions and Fugitive Dust/Emissions
 (Effective 02/01/2003)
 9VAC5-50-60. Applicability and designation of affected facility.
 9VAC5-50-70. Definitions.
@@ -2179,8 +2123,8 @@ Article 1—Visible emissions and fugitive dust/emissions
 9VAC5-50-100. Monitoring.
 9VAC5-50-110. Test methods and procedures.
 9VAC5-50-120. Waivers.
-Article 4—Stationary sources
-(Effective 09/01/2006)
+Article 4—Stationary Sources
+(Effective 11/07/2012)
 9VAC5-50-240. Applicability and designation of affected facility.
 9VAC5-50-250. Definitions.
 9VAC5-50-260. Standard for stationary sources.
@@ -2188,7 +2132,6 @@ Article 4—Stationary sources
 9VAC5-50-280. Standard for major stationary sources (prevention of significant deterioration areas).
 9VAC5-50-290. Standard for visible emissions.
 9VAC5-50-300. Standard for fugitive dust/emissions.
-9VAC5-50-320. Standard for toxic pollutants.
 9VAC5-50-330. Compliance.
 9VAC5-50-340. Test methods and procedures.
 9VAC5-50-350. Monitoring.
@@ -2197,32 +2140,13 @@ Article 4—Stationary sources
 9VAC5-50-380. Facility and control equipment maintenance or malfunction.
 9VAC5-50-390. Permits.
 Article 5—EPA New Source Performance Standards
-(Effective 03/02/2011)
+(Effective 02/20/2019)
 9VAC5-50-400. General.
 9VAC5-50-405. Authority to implement and enforce standards as authorized by EPA.
 9VAC5-50-410. Designated standards of performance.
 9VAC5-50-420. Word or phrase substitutions.
-Article 6—Medical waste incinerators
-(Effective 06/01/1995)
-9VAC5-50-430. Applicability and designation of affected facility.
-9VAC5-50-440. Definitions.
-9VAC5-50-450. Standard for particulate matter.
-9VAC5-50-460. Standard for carbon monoxide.
-9VAC5-50-470. Standard for hydrogen chloride.
-9VAC5-50-480. Standard for dioxins and furans.
-9VAC5-50-490. Standard for visible emissions.
-9VAC5-50-500. Standard for fugitive dust/emissions.
-9VAC5-50-520. Standard for toxic pollutants.
-9VAC5-50-530. Standard for radioactive materials.
-9VAC5-50-540. Compliance.
-9VAC5-50-550. Test methods and procedures.
-9VAC5-50-560. Monitoring.
-9VAC5-50-570. Notification, records and reporting.
-9VAC5-50-580. Registration.
-9VAC5-50-590. Facility and control equipment maintenance or malfunction.
-9VAC5-50-600. Permits.
 Chapter 60—Hazardous Air Pollutant Sources
-Part I—Special provisions
+Part I—Special Provisions
 (Effective 08/01/2002)
 9VAC5-60-10. Applicability.
 9VAC5-60-20. Compliance.
@@ -2231,7 +2155,7 @@ Part I—Special provisions
 9VAC5-60-50. Notification, records and reporting.
 Part II—Emission Standards
 Article 1—EPA National Emissions Standards for Hazardous Air Pollutants
-(Effective 03/02/2011)
+(Effective 02/20/2019)
 9VAC5-60-60. General.
 9VAC5-60-65. Authority to implement and enforce standards as authorized by EPA.
 9VAC5-60-70. Designated emission standards.
@@ -2239,7 +2163,6 @@ Article 1—EPA National Emissions Standards for Hazardous Air Pollutants
 Article 2—EPA Maximum Achievable Control Technology Standards
 (Effective 03/02/2011)
 9VAC5-60-90. General.
-9VAC5-60-92. Federal Hazardous Air Pollutant Program.
 9VAC5-60-95. Authority to implement and enforce standards as authorized by EPA.
 9VAC5-60-100. Designated emission standards.
 9VAC5-60-110. Word or phrase substitutions.
@@ -2249,48 +2172,22 @@ Article 3—Control Technology Determinations for Major Sources of Hazardous Air
 9VAC5-60-130. Definitions.
 9VAC5-60-140. Approval process for new and existing affected sources.
 9VAC5-60-150. Application content for case-by-case MACT determinations.
-9VAC5-60-160. Preconstruction review procedures for new affected sources subject to 9VAC5-60-140C1.
+9VAC5-60-160. Preconstruction review procedures for new affected sources subject to 9VAC5-60-140 C 1.
 9VAC5-60-170. Maximum achievable control technology (MACT) determinations for affected sources subject to case-by-case determination of equivalent emission limitations.
 9VAC5-60-180. Requirements for case-by-case determination of equivalent emission limitations after promulgation of a subsequent MACT standard.
-Article 4—Toxic Pollutants from Existing Sources
-(Effective 05/01/2002)
-9VAC5-60-200. Applicability and designation of affected facility.
-9VAC5-60-210. Definitions.
-9VAC5-60-220. Standard for toxic pollutants.
-9VAC5-60-230. Significant ambient air concentration guidelines.
-9VAC5-60-240. Submittal of information.
-9VAC5-60-250. Determination of ambient air concentrations.
-9VAC5-60-260. Compliance.
-9VAC5-60-270. Public participation.
-Article 5—Toxic Pollutants from New and Modified Sources
-(Effective 05/01/2002)
-9VAC5-60-300. Applicability and designation of affected facility.
-9VAC5-60-310. Definitions.
-9VAC5-60-320. Standard for toxic pollutants.
-9VAC5-60-330. Significant ambient air concentration guidelines.
-9VAC5-60-340. Submittal of information.
-9VAC5-60-350. Determination of ambient air concentrations.
-9VAC5-60-360. Compliance.
-9VAC5-60-370. Public participation.
 Chapter 70—Air Pollution Episode Prevention
 (Effective 04/01/1999)
 9VAC5-70-10. Applicability.
 9VAC5-70-20. Definitions.
 9VAC5-70-30. General.
-9VAC5-70-40. Episode determination.
+9VAC5-70-40. Episode determination
 9VAC5-70-50. Standby emission reduction plans.
 9VAC5-70-60. Control requirements.
 9VAC5-70-70. Local air pollution control agency participation.
 Chapter 80—Permits for Stationary Sources
-Part I—Permit Actions and Public Hearings Before the Board
-(Effective 11/12/2009)
-9VAC5-80-5. Definitions.
-9VAC5-80-15. Applicability.
-9VAC5-80-25. Direct consideration of permit actions by the board.
-9VAC5-80-35. Public hearings to contest permit actions.
 Part II—Permit Procedures
 Article 1—Federal (Title V) Operating Permits for Stationary Sources
-(Effective 03/02/2011)
+(Effective 11/16/2016)
 9VAC5-80-50. Applicability.
 9VAC5-80-60. Definitions.
 9VAC5-80-70. General.
@@ -2318,12 +2215,13 @@ Article 1—Federal (Title V) Operating Permits for Stationary Sources
 9VAC5-80-290. Permit review by EPA and affected states.
 9VAC5-80-300. Voluntary inclusions of additional state-only requirements as applicable state requirements in the permit.
 Article 2—Permit Program (Title V) Fees for Stationary Sources
-(Effective 07/18/2001)
+(Effective 01/01/2018)
 9VAC5-80-310. Applicability.
 9VAC5-80-320. Definitions.
 9VAC5-80-330. General.
-9VAC5-80-340. Annual permit program fee calculation.
-9VAC5-80-350. Annual permit program fee payment.
+9VAC5-80-340. Annual permit program fee calculation prior to January 1, 2018.
+9VAC5-80-342. Annual Permit program emissions fee calculation on and after January 2, 2018.
+9VAC5-80-350. Annual permit program emissions fee payment.
 Article 4—Insignificant Activities
 (Effective 01/01/2001)
 9VAC5-80-710. General.
@@ -2356,8 +2254,9 @@ Article 5—State Operating Permits
 9VAC5-80-1030. General permits.
 9VAC5-80-1040. Review and evaluation of article.
 Article 6—Permits for New and Modified Stationary Sources
-(Effective 06/24/2009)
+(Effective 03/27/2014)
 9VAC5-80-1100. Applicability.
+9VAC5-80-1105. Permit Exemptions.
 9VAC5-80-1110. Definitions.
 9VAC5-80-1120. General.
 9VAC5-80-1140. Applications.
@@ -2372,12 +2271,12 @@ Article 6—Permits for New and Modified Stationary Sources
 9VAC5-80-1230. Compliance with local zoning requirements.
 9VAC5-80-1240. Transfer of permits.
 9VAC5-80-1250. General permits.
-9VAC5-80-1260. Changes to permits.
+9VAC5-80-1255. Actions to combine permit terms and conditions.
+9VAC5-80-1260. Actions to change permits.
 9VAC5-80-1270. Administrative permit amendments.
 9VAC5-80-1280. Minor permit amendments.
 9VAC5-80-1290. Significant amendment procedures.
 9VAC5-80-1300. Reopening for cause.
-9VAC5-80-1320. Permit exemption levels.
 Article 7—Permits for New and Reconstructed Major Sources of HAPs
 (Effective 12/31/2008)
 9VAC5-80-1400. Applicability.
@@ -2401,7 +2300,7 @@ Article 7—Permits for New and Reconstructed Major Sources of HAPs
 9VAC5-80-1580. Reopening for cause.
 9VAC5-80-1590. Requirements for constructed or reconstructed major sources subject to a subsequently promulgated MACT standard or MACT requirements.
 Article 8—Permits for Major Stationary Sources and Modifications—PSD Areas
-(Effective 03/02/2011)
+(Effective 08/13/2015)
 9VAC5-80-1605. Applicability.
 9VAC5-80-1615. Definitions.
 9VAC5-80-1625. General.
@@ -2437,7 +2336,7 @@ Article 8—Permits for Major Stationary Sources and Modifications—PSD Areas
 9VAC5-80-1985. Permit invalidation, suspension, revocation, and enforcement.
 9VAC5-80-1995. Existence of permit no defense.
 Article 9—Permits for Major Stationary Sources and Modifications—Nonattainment Areas
-(Effective 03/02/2011)
+(Effective 05/15/2017)
 9VAC5-80-2000. Applicability.
 9VAC5-80-2010. Definitions.
 9VAC5-80-2020. General.
@@ -2465,84 +2364,46 @@ Article 9—Permits for Major Stationary Sources and Modifications—Nonattainme
 9VAC5-80-2230. Significant amendment procedures.
 9VAC5-80-2240. Reopening for cause.
 Article 10—Permit Application Fees for Stationary Sources
-(Effective 12/01/2004)
+(Effective 01/01/2018)
 9VAC5-80-2250. Applicability.
 9VAC5-80-2260. Definitions.
 9VAC5-80-2270. General.
-9VAC5-80-2280. Permit application fee calculation.
+9VAC5-80-2280. Permit application fee calculation prior to January 1, 2018.
+9VAC5-80-2282. Permit application fee calculation on and after January 1, 2018.
 9VAC5-80-2290. Permit application fee payment.
-9VAC5-80-2300. Credit for payment of permit application fees.
-Chapter 85—Permits for Stationary Sources of Pollutants Subject to Regulation (Greenhouse Gas Tailoring)
-(Effective 01/02/2011)
+Article 11—Annual Permit Maintenance Fees for Stationary Sources
+(Effective 01/01/2018)
+9VAC5-80-2310. Applicability.
+9VAC5-80-2320. Definitions.
+9VAC5-80-2330. General.
+9VAC5-80-2340. Annual Permit Maintenance Fee Calculation Prior to January 1, 2018.
+9VAC5-80-2342. Annual Permit Maintenance Fee Calculation on and After January 1, 2018.
+9VAC5-80-2350. Annual Permit Maintenance Fee Payment.
+Chapter 85—Permits for Stationary Sources of Pollutants Subject to Regulation
+(Effective 08/13/2015)
 Part I—Applicability
 9VAC5-85-10. Applicability.
-Part II—Federal (Title V) operating permit actions
+Part II—Federal (Title V) Operating Permit Actions
 9VAC5-85-20. Federal (Title V) operating permit actions.
 9VAC5-85-30. Definitions.
-Part III—Prevention of Significant Deterioration Area permit actions
-9VAC5-85-40. Prevention of significant deterioration area permit actions.
+Part III—Prevention of Significant Deterioration Area Permit Actions
+9VAC5-85-40. Prevention of Significant Deterioration Area permit actions.
 9VAC5-85-50. Definitions.
-Part IV—State operating permit actions
+Part IV—State Operating Permit Actions
 9VAC5-85-60. State operating permit actions.
 9VAC5-85-70. Definitions.
 Chapter 130—Open Burning
-(Effective 03/18/2009)
+(Effective 07/15/2015)
 Part I—General Provisions
 9VAC5-130-10. Applicability.
 9VAC5-130-20. Definitions.
+Part II—Volatile Organic Compound Emissions Control Areas
 9VAC5-130-30. Open burning prohibitions.
 9VAC5-130-40. Permissible open burning.
-9VAC5-130-50. Forest management and agricultural practices.
-9VAC5-130-60. Waivers.
-Part II—Local Ordinances
-9VAC5-130-100. Local ordinances on open burning.
-Chapter 150—Transportation Conformity
-(Effective 01/01/1998)
-Part I—General Definitions
-9VAC5-150-10. General.
-9VAC5-150-20. Terms defined.
-Part II—General Provisions
-9VAC5-150-30. Applicability.
-9VAC5-150-40. Authority of board and DEQ.
-9VAC5-150-80. Relationship of state regulations to federal regulations.
-Part III—Criteria and Procedures for Making Conformity Determinations
-9VAC5-150-110. Priority.
-9VAC5-150-120. Frequency of conformity determinations.
-9VAC5-150-130. Consultation.
-9VAC5-150-140. Content of transportation plans.
-9VAC5-150-150. Relationship of transportation plan and TIP conformity with the NEPA process.
-9VAC5-150-160. Fiscal constraints for transportation plans and TIPs.
-9VAC5-150-170. Criteria and procedures for determining conformity of transportation plans, programs, and projects: General.
-9VAC5-150-180. Criteria and procedures: latest planning assumptions.
-9VAC5-150-190. Criteria and procedures: latest emissions model.
-9VAC5-150-200. Criteria and procedures: consultation.
-9VAC5-150-210. Criteria and procedures: timely implementation of TCMs.
-9VAC5-150-220. Criteria and procedures: currently conforming transportation plan and TIP.
-9VAC5-150-230. Criteria and procedures: projects from a plan and TIP.
-9VAC5-150-240. Criteria and procedures: localized CO and PM 10 violations (hot spots).
-9VAC5-150-250. Criteria and procedures: compliance with PM 10 control measures.
-9VAC5-150-260. Criteria and procedures: motor vehicle emissions budget (transportation plan).
-9VAC5-150-270. Criteria and procedures: motor vehicle emissions budget (TIP).
-9VAC5-150-280. Criteria and procedures: motor vehicle emissions budget (project not from a plan and TIP).
-9VAC5-150-290. Criteria and procedures: localized CO violations (hot spots) in the interim period.
-9VAC5-150-300. Criteria and procedures: interim period reductions in ozone and CO areas (transportation plan).
-9VAC5-150-310. Criteria and procedures: interim period reductions in ozone and CO areas (TIP).
-9VAC5-150-320. Criteria and procedures: interim period reductions for ozone and CO areas (project not from a plan and TIP).
-9VAC5-150-330. Criteria and procedures: interim period reductions for PM 10 and NO2 areas (transportation plan).
-9VAC5-150-340. Criteria and procedures: interim period reductions for PM 10 and NO2 areas (TIP).
-9VAC5-150-350. Criteria and procedures: interim period reductions for PM 10 and NO2 areas (project not from a plan and TIP).
-9VAC5-150-360. Transition from the interim period to the control strategy period.
-9VAC5-150-370. Requirements for adoption or approval of projects by recipients of funds designated under Title 23 USC or the Federal Transit Act.
-9VAC5-150-380. Procedures for determining regional transportation-related emissions.
-9VAC5-150-390. Procedures for determining localized CO and PM 10 concentrations (hot-spot analysis).
-9VAC5-150-400. Using the motor vehicle emissions budget in the applicable implementation plan (or implementation plan submission).
-9VAC5-150-410. Enforceability of design concept and scope and project-level mitigation and control measures.
-9VAC5-150-420. Exempt projects.
-9VAC5-150-430. Projects exempt from regional emissions analyses.
-9VAC5-150-440. Special provisions for nonattainment areas which are not required to demonstrate reasonable further progress and attainment.
-9VAC5-150-450. Review and confirmation of this chapter by board.
+Part III—Special Statewide Requirements for Forestry, Agricultural and Highway Programs
+9VAC5-130-50. Forest management, agricultural practices and highway construction and maintenance programs.
 Chapter 151—Transportation Conformity
-(Effective 03/02/2011)
+(Effective 11/16/2016)
 Part I—General Definitions
 9VAC5-151-10. Definitions.
 Part II—General Provisions
@@ -2554,7 +2415,7 @@ Part III—Criteria and Procedures for Making Conformity Determinations
 9VAC5-151-60. Word or phrase substitutions.
 9VAC5-151-70. Consultation.
 Chapter 160—General Conformity
-(Effective 03/02/2011)
+(Effective 05/15/2017)
 Part I—General Definitions
 9VAC5-160-10. General.
 9VAC5-160-20. Terms defined.
@@ -2562,45 +2423,14 @@ Part II—General Provisions
 9VAC5-160-30. Applicability.
 9VAC5-160-40. Authority of board and department.
 9VAC5-160-80. Relationship of state regulations to federal regulations.
-Part III—Criteria and procedures for making conformity determinations
+Part III—Criteria and Procedures for Making Conformity Determinations
 9VAC5-160-110. General.
-9VAC5-160-120. Conformity analysis.
+9VAC5-160-120. Federal agency conformity analysis.
 9VAC5-160-130. Reporting requirements.
 9VAC5-160-140. Public participation.
-9VAC5-160-150. Frequency of conformity determinations.
-9VAC5-160-160. Criteria for determining conformity.
+9VAC5-160-150. Reevaluation of conformity.
+9VAC5-160-160. Criteria for determining conformity of general federal actions.
 9VAC5-160-170. Procedures for conformity determinations.
 9VAC5-160-180. Mitigation of air quality impacts.
 9VAC5-160-190. Savings provision.
-9VAC5-160-200. Review and confirmation of this chapter by board.
-Chapter 500—Exclusionary General Permit for Title V Permit
-(Effective 07/01/1997)
-Part I—Definitions
-9VAC5-500-10. General.
-9VAC5-500-20. Terms defined.
-Part II—General Provisions
-9VAC5-500-30. Purpose.
-9VAC5-500-40. Applicability.
-9VAC5-500-50. General.
-9VAC5-500-60. Existence of permit no defense.
-9VAC5-500-70. Circumvention.
-9VAC5-500-80. Enforcement of a general permit.
-Part III—General permit administrative procedures
-9VAC5-500-90. Requirements for department issuance of authority to operate under the general permit.
-9VAC5-500-100. Applications for coverage under the general permit.
-9VAC5-500-110. Required application information.
-9VAC5-500-120. General permit content.
-9VAC5-500-130. Issuance of an authorization to operate under the general permit.
-9VAC5-500-140. Transfer of authorizations to operate under the general permit.
-Part IV—General permit terms and conditions
-9VAC5-500-150. Emissions levels and requirements.
-9VAC5-500-160. Emissions levels.
-9VAC5-500-170. Compliance determination and verification by emission testing.
-9VAC5-500-180. Compliance determination and verification by emission monitoring.
-9VAC5-500-190. Recordkeeping requirements.
-9VAC5-500-200. Reporting requirements.
-9VAC5-500-210. Compliance certifications.
-9VAC5-500-220. Consequences of failure to remain below emissions levels.
-9VAC5-500-230. Enforcement.
-9VAC5-500-240. Review and evaluation of regulation.
 (2) [Reserved]
