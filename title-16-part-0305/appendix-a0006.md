@@ -1,4 +1,4 @@
-# Appendix A6 to Part 305—Refrigerator-Freezers With Automatic Defrost With Bottom-Mounted Freezer Without Through-the-Door Ice Service
+# Appendix A6 to Part 305—Refrigerator-Freezers With Automated Defrost With Bottom-Mounted Freezer No Through-the-Door Ice
 Range Information
 Manufacturer's rated total refrigerated volume in cubic feet | Range of estimated annualoperating costs (dollars/year) | Low | High
 Less than 10.5 | $19 | $62
