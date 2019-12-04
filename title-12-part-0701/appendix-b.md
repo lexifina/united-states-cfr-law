@@ -28,7 +28,6 @@ The Federal Credit Union Act requires that seven or more natural persons—the "
 • The names and addresses of the subscribers to the certificate and the number of shares subscribed by each;
 • The initial par value of the shares;
 • The detailed proposed field of membership; and
-•
 • The fact that the certificate is made to enable such persons to avail themselves of the advantages of the Federal Credit Union Act.
 Willfully and knowingly making false statements on any of the required documentation filed in obtaining a federal credit union charter may be grounds for federal criminal prosecution under 18 U.S.C. 1001.
 IV—Economic Advisability
@@ -54,7 +53,6 @@ The business plan should contain, at a minimum, the following elements:
 • How/when services are to be implemented;
 • Organizational/management plan addressing qualification and planned training of officials/employees;
 • Continuity plan for directors, committee members and management staff;
-•
 • Operating facilities, to include office space/equipment and supplies, safeguarding of assets, insurance coverage, etc.;
 • Type of record-keeping and data processing system;
 • Detailed semiannual pro forma financial statements (balance sheet, income and expense projections) for 1st and 2nd year, including assumptions—e.g., loan and dividend rates;
@@ -78,7 +76,6 @@ As discussed previously in this Chapter, the organizer of a federal credit union
 As part of the application process, the organizer must submit the following forms, which are available in appendix 4 of this Manual:
 • Federal Credit Union Investigation Report, NCUA 4001;
 • Organization Certificate, NCUA 4008;
-•
 • Report of Official and Agreement To Serve, NCUA 4012;
 • Application and Agreements for Insurance of Accounts, NCUA 9500; and
 • Certification of Resolutions, NCUA 9501.
@@ -91,7 +88,7 @@ V.B.4—Report of Official and Agreement To Serve, NCUA 4012
 This form documents general background information of each official and employee of the proposed federal credit union. Each official and employee must complete and sign this form. The organizer must review each of the NCUA 4012s for elements that would prevent the prospective official or employee from serving. Further, such factors as serious, unresolved past due credit obligations and bankruptcies disclosed during credit checks may disqualify an individual.
 V.B.5—Application and Agreements for Insurance of Accounts, NCUA 9500
 This document contains the agreements with which federal credit unions must comply in order to obtain National Credit Union Share Insurance Fund (NCUSIF) coverage of member accounts. The document must be completed and signed by both the chief executive officer and chief financial officer. A federal credit union must qualify for federal share insurance.
-V.B. 5—Certification of Resolutions, NCUA 9501
+V.B.6—Certification of Resolutions, NCUA 9501
 This document certifies that the board of directors of the proposed federal credit union has resolved to apply for NCUSIF insurance of member accounts and has authorized the chief executive officer and recording officer to execute the Application and Agreements for Insurance of Accounts. Both the chief executive officer and recording officer of the proposed federal credit union must sign this form.
 VI—Name Selection
 It is the responsibility of the federal credit union organizers or officials of an existing credit union to ensure that the proposed federal credit union name or federal credit union name change does not constitute an infringement on the name of any corporation in its trade area. This responsibility also includes researching any service marks or trademarks used by any other corporation (including credit unions) in its trade area. NCUA will ensure, to the extent possible, that the credit union's name:
@@ -141,7 +138,7 @@ I.A.1—General
 As set forth in Chapter 1, the Federal Credit Union Act provides for three types of federal credit union charters—single common bond (occupational or associational), multiple common bond (multiple groups), and community. Section 109 (12 U.S.C. 1759) of the Federal Credit Union Act addresses the membership requirements for each type of charter.
 The field of membership, which is specified in Section 5 of the charter, defines those persons and entities eligible for membership. A single common bond federal credit union consists of one group having a common bond of occupation or association. A multiple common bond federal credit union consists of more than one group, each of which has a common bond of occupation or association. A community federal credit union consists of persons or organizations within a well-defined local community, neighborhood, or rural district.
 Once chartered, a federal credit union can amend its field of membership; however, the same common bond or community requirements for chartering the credit union must be satisfied. Since there are differences in the three types of charters, special rules apply to each, which are fully discussed in the following sections of this Chapter.
-I.A. 2—Special Low-Income Rules
+I.A.2—Special Low-Income Rules
 Generally, federal credit unions can only grant loans and provide services to persons who have joined the credit union. The Federal Credit Union Act states that one of the purposes of federal credit unions is "to serve the productive and provident credit needs of individuals of modest means." Although field of membership requirements are applicable, special rules set forth in Chapter 3 may apply to low-income designated credit unions and those credit unions assisting low-income groups or to a federal credit union that adds an underserved community to its field of membership.
 II—Occupational Common Bond
 II.A.1—General
@@ -164,7 +161,6 @@ Some examples of valid single occupational common bonds are:
 • Employees of the Buffalo Manufacturing Company who work in the United States. (common bond—same employer with geographic definition);
 • Employees, elected and appointed officials of municipal government in Parma, Ohio. (common bond—same employer with geographic definition);
 • Employees of Johnson Soap Company and its majority owned subsidiary, Johnson Toothpaste Company, who work in, are paid from, are supervised from, or are headquartered in Augusta and Portland, Maine. (common bond—parent and subsidiary company with geographic definition);
-•
 • Employees of MMLLJS contractor who work regularly at the U.S. Naval Shipyard in Bremerton, Washington. (common bond—employees of contractors with geographic definition);
 • Employees, doctors, medical staff, technicians, medical and nursing students who work in or are paid from the Newport Beach Medical Center, Newport Beach, California. (single corporation with geographic definition);
 • Employees of JLS, Incorporated and MJM, Incorporated working for the LKM Joint Venture Company in Catalina Island, California. (common bond—same employer—ongoing dependent relationship);
@@ -174,7 +170,7 @@ Some examples of valid single occupational common bonds are:
 In contrast, some examples of insufficiently defined single occupational common bonds are:
 • Employees of manufacturing firms in Seattle, Washington. (no defined occupational sponsor; overly broad TIP);
 • Persons employed or working in Chicago, Illinois. (no occupational common bond).
-II.A. 2—Trade, Industry, or Profession
+II.A.2—Trade, Industry, or Profession
 A common bond based on employment in a trade, industry, or profession can include employment at any number of corporations or other legal entities that—while not under common ownership—have a common bond by virtue of producing similar products, providing similar services, or participating in the same type of business.
 While proposed or existing single common bond credit unions have some latitude in defining a trade, industry, or profession occupational common bond, it cannot be defined so broadly as to include groups in fields which are not closely related. For example, the manufacturing industry, energy industry, communications industry, retail industry, or entertainment industry would not qualify as a TIP because each industry lacks the necessary commonality. However, textile workers, realtors, nurses, teachers, police officers, or U.S. military personnel are closely related and each would qualify as a TIP.
 The common bond relationship must be one that demonstrates a narrow commonality of interests within a specific trade, industry, or profession. If a credit union wants to serve a physician TIP, it can serve all physicians, but that does not mean it can also serve all clerical staff in the physicians' offices. However, if the TIP is based on the health care industry, then clerical staff would be able to be served by the credit union because they work in the same industry and have the same commonality of interests.
@@ -196,17 +192,16 @@ First, a group sharing the credit union's common bond is added to the field of m
 Second, if the entire field of membership is acquired by another corporation, the credit union can serve the employees of the new corporation and any subsidiaries after receiving NCUA approval.
 Third, a federal credit union qualifies to change its common bond from:
 • A single occupational common bond to a single associational common bond;
-•
 • A single occupational common bond to a community charter; or
 • A single occupational common bond to a multiple common bond.
 Fourth, a federal credit union removes a portion of the group from its field of membership through agreement with the group, a spin-off, or because a portion of the group is no longer in existence.
 An existing single occupational common bond federal credit union that submits a request to amend its charter must provide documentation to establish that the occupational common bond requirement has been met. The Office of Credit Union Resources and Expansion Director must approve all amendments to an occupational common bond credit union's field of membership.
-II.B.Restructuring
+II.B.2—Restructuring
 If the single common bond group that comprises a federal credit union's field of membership undergoes a substantial restructuring, the result is often that portions of the group are sold or spun off. This requires a change to the credit union's field of membership. NCUA will not permit a single common bond credit union to maintain in its field of membership a sold or spun-off group to which it has been providing service unless the group otherwise qualifies for membership in the credit union or the credit union converts to a multiple common bond credit union.
 If the group comprising the single common bond of the credit union merges with, or is acquired by, another group, the credit union can serve the new group resulting from the merger or acquisition after receiving a housekeeping amendment.
 II.B.3—Economic Advisability
 Prior to granting a common bond expansion, NCUA will examine the amendment's likely effect on the credit union's operations and financial condition. In most cases, the information needed for analyzing the effect of adding a particular group will be available to NCUA through the examination and financial and statistical reports; however, in particular cases, the Office of Credit Union Resources and Expansion Director may require additional information prior to making a decision.
-II.B.Documentation Requirements
+II.B.4—Documentation Requirements
 A federal credit union requesting a common bond expansion must submit an Application for Field of Membership Amendment (NCUA 4015-EZ) to the Office of Credit Union Resources and Expansion Director. An authorized credit union representative must sign the request.
 II.C—NCUA's Procedures for Amending the Field of Membership
 II.C.1—General
@@ -237,7 +232,7 @@ Generally, the requirements applicable to field of membership expansions found i
 Where the merging credit union is state-chartered, the common bond rules applicable to a federal credit union apply.
 Mergers must be approved by the NCUA regional director or Office of National Examinations and Supervision Director where the continuing credit union is headquartered, with the concurrence of the regional director or Office of National Examinations and Supervision Director of the merging credit union, and, as applicable, the state regulators.
 If a single occupational credit union wants to merge into a multiple common bond or community credit union, Section IV.D or Section V.D of this Chapter, respectively, should be reviewed.
-II.D.Emergency Mergers
+II.D.2—Emergency Mergers
 An emergency merger may be approved by NCUA without regard to common bond or other legal constraints. An emergency merger involves NCUA's direct intervention and approval. The credit union to be merged must either be insolvent or in danger of insolvency, as defined in the Glossary, and NCUA must determine that:
 • An emergency requiring expeditious action exists;
 • Other alternatives are not reasonably available; and
@@ -246,13 +241,12 @@ If not corrected, conditions that could lead to insolvency include, but are not 
 • Abandonment by management;
 • Loss of sponsor;
 • Serious and persistent recordkeeping problems; or
-•
 • Serious and persistent operational concerns.
 In an emergency merger situation, NCUA will take an active role in finding a suitable merger partner (continuing credit union). NCUA is primarily concerned that the continuing credit union has the financial strength and management expertise to absorb the troubled credit union without adversely affecting its own financial condition and stability.
 As a stipulated condition to an emergency merger, the field of membership of the merging credit union may be transferred intact to the continuing federal credit union without regard to any common bond restrictions. Under this authority, therefore, a single occupational common bond federal credit union may take into its field of membership any dissimilar charter type.
 The common bond characteristic of the continuing credit union in an emergency merger does not change. That is, even though the merging credit union is a multiple common bond or community, the continuing credit union will remain a single common bond credit union. Similarly, if the merging credit union is also an unlike single common bond, the continuing credit union will remain a single common bond credit union. Future common bond expansions will be based on the continuing credit union's original single common bond.
 Emergency mergers involving federally insured credit unions in different NCUA field regions must be approved by the regional director or Office of National Examinations and Supervision Director where the continuing credit union is headquartered, with the concurrence of the regional director or Office of National Examinations and Supervision Director of the merging credit union and, as applicable, the state regulators.
-II.D.Purchase and Assumption (P&A)
+II.D.3—Purchase and Assumption (P&A)
 Another alternative for acquiring the field of membership of a failing credit union is through a consolidation known as a P&A. A P&A has limited application because, in most cases, the failing credit union must be placed into involuntary liquidation. In the few instances where a P&A may be appropriate, the assuming federal credit union, as with emergency mergers, may acquire the entire field of membership if the emergency merger criteria are satisfied. However, if the P&A does not meet the emergency merger criteria, it must be processed under the common bond requirements.
 In a P&A processed under the emergency criteria, specified loans, shares, and certain other designated assets and liabilities, without regard to common bond restrictions, may also be acquired without changing the character of the continuing federal credit union for purposes of future field of membership amendments.
 If the purchased and/or assumed credit union's field of membership does not share a common bond with the purchasing and/or assuming credit union, then the continuing credit union's original common bond will be controlling for future common bond expansions.
@@ -275,7 +269,7 @@ Spin-offs involving federally insured credit unions in different NCUA regions mu
 II.E—Overlaps
 II.E.1—General
 An overlap exists when a group of persons is eligible for membership in two or more credit unions. NCUA will permit single occupational federal credit unions to overlap any other charter without performing an overlap analysis.
-II.E.Organizational Restructuring
+II.E.2—Organizational Restructuring
 A federal credit union's field of membership will always be governed by the common bond descriptions contained in Section 5 of its charter. Where a sponsor organization expands its operations internally, by acquisition or otherwise, the credit union may serve these new entrants to its field of membership if they are part of the common bond described in Section 5. NCUA will permit a complete overlap of the credit unions' fields of membership.
 If a sponsor organization sells off a group, new members can no longer be served unless they otherwise qualify for membership in the credit union or it converts to a multiple common bond charter.
 Credit unions must submit documentation explaining the restructuring and providing information regarding the new organizational structure.
@@ -299,7 +293,6 @@ A number of persons, by virtue of their close relationship to a common bond grou
 • Persons retired as pensioners or annuitants from the above employment;
 • Volunteers;
 • Members of the immediate family or household;
-•
 • Honorably discharged veterans who served in any of the Armed Services of the United States listed in this charter;
 Organizations of such persons; and
 • Corporate or other legal entities in this charter.
@@ -321,7 +314,6 @@ III.A.1.a—Threshold Requirement Regarding the Purpose for Which an Association
 As a threshold matter, when reviewing an application to include an association in a federal credit union's field of membership, NCUA will determine if the association has been formed primarily for the purpose of expanding credit union membership. If NCUA makes such a determination, then the analysis ends and the association is denied inclusion in the federal credit union's field of membership. If NCUA determines that the association was formed to serve some other separate function as an organization, then NCUA will apply the following totality of the circumstances test to determine if the association satisfies the associational common bond requirements. The totality of the circumstances test consists of the following factors:
 1. Whether the association provides opportunities for members to participate in the furtherance of the goals of the association;
 2. Whether the association maintains a membership list;
-1.
 3. Whether the association sponsors other activities;
 4. Whether the association's membership eligibility requirements are authoritative;
 5. Whether members pay dues;
@@ -329,22 +321,21 @@ As a threshold matter, when reviewing an application to include an association i
 7. The frequency of meetings; and
 8. Separateness—NCUA reviews if there is corporate separateness between the group and the federal credit union. The group and the federal credit union must operate in a way that demonstrates the separate corporate existence of each entity. Specifically, this means the federal credit union's and the group's respective business transactions, accounts, and corporate records are not intermingled.
 No one factor alone is determinative of membership eligibility as an association. The totality of the circumstances controls over any individual factor in the test. However, NCUA's primary focus will be on factors 1-4.
-III.A.1.Pre-Approved Groups
+III.A.1.b—Pre-Approved Groups
 NCUA automatically approves the below groups as satisfying the associational common bond provisions. NCUA only approves regular members of an approved group. Honorary, affiliate, or non-regular members do not qualify.
 These groups are:
-(1) Alumni associations;
-(2) Religious organizations, including churches or groups of related churches;
-(3) Electric cooperatives;
-(4) Homeowner associations;
-(1)
-(5) Labor unions;
-(6) Scouting groups;
-(7) Parent teacher associations (PTAs) organized at the local level to serve a single school district;
-(8) Chamber of commerce groups (members only and not employees of members);
-(9) Athletic booster clubs whose members have voting rights;
-(10) Fraternal organizations or civic groups with a mission of community service whose members have voting rights;
-(11) Organizations having a mission based on preserving or furthering the culture of a particular national or ethnic origin; and
-(12) Organizations promoting social interaction or educational initiatives among persons sharing a common occupational profession.
+1. Alumni associations;
+2. Religious organizations, including churches or groups of related churches;
+3. Electric cooperatives;
+4. Homeowner associations;
+5. Labor unions;
+6. Scouting groups;
+7. Parent teacher associations (PTAs) organized at the local level to serve a single school district;
+8. Chamber of commerce groups (members only and not employees of members);
+9. Athletic booster clubs whose members have voting rights;
+10. Fraternal organizations or civic groups with a mission of community service whose members have voting rights;
+11. Organizations having a mission based on preserving or furthering the culture of a particular national or ethnic origin; and
+12. Organizations promoting social interaction or educational initiatives among persons sharing a common occupational profession.
 III.A.1.c—Additional Information
 A support group whose members are continually changing or whose duration is temporary may not meet the single associational common bond criteria. Each class of member will be evaluated based on the totality of the circumstances. Individuals or honorary members who only make donations to the association are not eligible to join the credit union.
 Student groups (e.g., students enrolled at a public, private, or parochial school) may constitute either an associational or occupational common bond. For example, students enrolled at a church sponsored school could share a single associational common bond with the members of that church and may qualify for a federal credit union charter. Similarly, students enrolled at a university, as a group by itself, or in conjunction with the faculty and employees of the school, could share a single occupational common bond and may qualify for a federal credit union charter.
@@ -357,7 +348,6 @@ Some examples of associational common bonds are:
 • Regular members of Locals 10 and 13, IBEW, in Florida, who qualify for membership in accordance with their charter and bylaws in effect on May 20, 2001;
 • Members of the Hoosier Farm Bureau in Grant, Logan, or Lee Counties of Indiana, who qualify for membership in accordance with its charter and bylaws in effect on March 7, 1997;
 • Members of the Shalom Congregation in Chevy Chase, Maryland;
-•
 • Regular members of the Corporate Executives Association, located in Westchester, New York, who qualify for membership in accordance with its charter and bylaws in effect on December 1, 1997;
 • Members of the University of Wisconsin Alumni Association, located in Green Bay, Wisconsin;
 • Members of the Marine Corps Reserve Officers Association; or
@@ -380,17 +370,17 @@ Second, a federal credit union qualifies to change its common bond from:
 • A single associational common bond to a multiple common bond.
 Third, a federal credit union removes a portion of the group from its field of membership through agreement with the group, a spin-off, or a portion of the group that is no longer in existence.
 An existing single associational federal credit union that submits a request to amend its charter must provide documentation to establish that the associational common bond requirement has been met. The Office of Credit Union Resources and Expansion Director must approve all amendments to an associational common bond credit union's field of membership.
-III.B.Organizational Restructuring
+III.B.2—Organizational Restructuring
 If the single common bond group that comprises a federal credit union's field of membership undergoes a substantial restructuring, the result is often that portions of the group are sold or spun off. This is an event requiring a change to the credit union's field of membership. NCUA may not permit a single associational credit union to maintain in its field of membership a sold or spun-off group to which it has been providing service unless the group otherwise qualifies for membership in the credit union or the credit union converts to a multiple common bond credit union.
 If the group comprising the single common bond of the credit union merges with, or is acquired by, another group, the credit union can serve the new group resulting from the merger or acquisition after receiving a housekeeping amendment.
 III.B.3—Economic Advisability
 Prior to granting a common bond expansion, NCUA will examine the amendment's likely impact on the credit union's operations and financial condition. In most cases, the information needed for analyzing the effect of adding a particular group will be available to NCUA through the examination and financial and statistical reports; however, in particular cases, the Office of Credit Union Resources and Expansion Director may require additional information prior to making a decision.
-III.B.Documentation Requirements
+III.B.4—Documentation Requirements
 A federal credit union requesting a common bond expansion must submit an Application for Field of Membership Amendment (NCUA 4015-EZ) to the Office of Credit Union Resources and Expansion Director. An authorized credit union representative must sign the request.
 III.C—NCUA Procedures for Amending the Field of Membership
 III.C.1—General
 All requests for approval to amend a federal credit union's charter must be submitted to the Office of Credit Union Resources and Expansion Director.
-III.C.C.2—Office of Credit Union Resources and Expansion Director Decision
+III.C.2—Office of Credit Union Resources and Expansion Director Decision
 NCUA staff will review all amendment requests in order to ensure conformance to NCUA policy.
 Before acting on a proposed amendment, the Office of Credit Union Resources and Expansion Director may require an on-site review. In addition, the Office of Credit Union Resources and Expansion Director may, after taking into account the significance of the proposed field of membership amendment, require the applicant to submit a business plan addressing specific issues.
 The financial and operational condition of the requesting credit union will be considered in every instance. The economic advisability of expanding the field of membership of a credit union with financial or operational problems must be carefully considered.
@@ -416,7 +406,7 @@ Generally, the requirements applicable to field of membership expansions found i
 Where the merging credit union is state-chartered, the common bond rules applicable to a federal credit union apply.
 Mergers must be approved by the NCUA regional director or Office of National Examinations and Supervision Director where the continuing credit union is headquartered, with the concurrence of the regional director or Office of National Examinations and Supervision Director of the merging credit union, and, as applicable, the state regulators.
 If a single associational credit union wants to merge into a multiple common bond or community credit union, Section IV.D or Section V.D of this Chapter, respectively, should be reviewed.
-III.D.Emergency Mergers
+III.D.2—Emergency Mergers
 An emergency merger may be approved by NCUA without regard to common bond or other legal constraints. An emergency merger involves NCUA's direct intervention and approval. The credit union to be merged must either be insolvent or in danger of insolvency, as defined in the Glossary, and NCUA must determine that:
 • An emergency requiring expeditious action exists;
 • Other alternatives are not reasonably available; and
@@ -430,7 +420,7 @@ In an emergency merger situation, NCUA will take an active role in finding a sui
 As a stipulated condition to an emergency merger, the field of membership of the merging credit union may be transferred intact to the continuing federal credit union without regard to any common bond restrictions. Under this authority, therefore, a single associational common bond federal credit union may take into its field of membership any dissimilar charter type.
 The common bond characteristic of the continuing credit union in an emergency merger does not change. That is, even though the merging credit union is a multiple common bond or community, the continuing credit union will remain a single common bond credit union. Similarly, if the merging credit union is an unlike single common bond, the continuing credit union will remain a single common bond credit union. Future common bond expansions will be based on the continuing credit union's single common bond.
 Emergency mergers involving federally insured credit unions in different NCUA regions must be approved by the regional director or Office of National Examinations and Supervision Director where the continuing credit union is headquartered, with the concurrence of the regional director or Office of National Examinations and Supervision Director of the merging credit union and, as applicable, the state regulators.
-III.D.Purchase and Assumption (P&A)
+III.D.3—Purchase and Assumption (P&A)
 Another alternative for acquiring the field of membership of a failing credit union is through a consolidation known as a P&A. A P&A has limited application because, in most cases, the failing credit union must be placed into involuntary liquidation. In the few instances where a P&A may be appropriate, the assuming federal credit union, as with emergency mergers, may acquire the entire field of membership if the emergency merger criteria are satisfied. However, if the P&A does not meet the emergency merger criteria, it must be processed under the common bond requirements.
 In a P&A processed under the emergency criteria, specified loans, shares, and certain other designated assets and liabilities, without regard to common bond restrictions, may also be acquired without changing the character of the continuing federal credit union for purposes of future field of membership amendments.
 If the purchased and/or assumed credit union's field of membership does not share a common bond with the purchasing and/or assuming credit union, then the continuing credit union's original common bond will be controlling for future common bond expansions.
@@ -453,7 +443,7 @@ Spin-offs involving federally insured credit unions in different NCUA regions mu
 III.E—Overlaps
 III.E.1—General
 An overlap exists when a group of persons is eligible for membership in two or more credit unions. NCUA will permit single associational federal credit unions to overlap any other charters without performing an overlap analysis.
-III.E.Organizational Restructuring
+III.E.2—Organizational Restructuring
 A federal credit union's field of membership will always be governed by the common bond descriptions contained in Section 5 of its charter. Where a sponsor organization expands its operations internally, by acquisition or otherwise, the credit union may serve these new entrants to its field of membership if they are part of the common bond described in Section 5. NCUA will permit a complete overlap of the credit unions' fields of membership. If a sponsor organization sells off a group, new members can no longer be served unless they otherwise qualify for membership in the credit union or it converts to a multiple common bond.
 Credit unions must submit documentation explaining the restructuring and providing information regarding the new organizational structure.
 III.E.3—Exclusionary Clauses
@@ -475,7 +465,6 @@ A number of persons by virtue of their close relationship to a common bond group
 • Employees of this credit union;
 • Volunteers;
 • Members of the immediate family or household;
-•
 • Honorably discharged veterans who served in any of the Armed Services of the United States in this charter;
 Organizations of such persons; and
 • Corporate or other legal entities in this charter.
@@ -528,7 +517,7 @@ The Federal Credit Union Act presumes that a group of 3,000 or more primary pote
 (ii) the group does not meet criteria that the Board has determined to be an important indicator of success in establishing and managing a new credit union, including demographic characteristics such as the geographic location of members, the diversity of ages and income levels among members, and other factors that may affect such a credit union's financial viability and stability; or
 (iii) the group would be unlikely to operate a safe and sound credit union.
 As such, NCUA requires additional information when a multiple common bond credit union applies to add a group of 3,000 or more primary potential members. For groups between 3,000 and 4,999 potential members, NCUA requires documentation indicating the group has a lack of available subsidies, interest among the group's members, and sufficient resources. For such cases NCUA, in its discretion, will accept a written statement indicating these conditions exist as sufficient documentation the group cannot form its own credit union. Groups with 5,000 or more members will be subject to the standard document requirements as discussed later in this chapter, requiring a group to fully describe its inability to establish a new single common bond credit union.
-IV.B.Documentation Requirements
+IV.B.3—Documentation Requirements
 A multiple common bond credit union requesting a select group expansion must submit a formal written request, using the Application for Field of Membership Amendment (NCUA 4015-EZ, NCUA 4015-A or NCUA 4015) to the Office of Credit Union Resources and Expansion Director. An authorized credit union representative must sign the request.
 The NCUA 4015-EZ (for groups less than 3,000 potential members) must be accompanied by the following:
 • A letter, or equivalent documentation, from the group requesting credit union service. This letter must indicate:
@@ -560,7 +549,7 @@ Evidence of past failure—whether the group previously had its own credit union
 Administrative capacity to provide services—will the group have the management expertise to provide the services requested.
 • If the group is eligible for membership in any other credit union, documentation must be provided to support inclusion of the group under the overlap standards set forth in Section IV.E of this Chapter; and
 • The most recent copy of the group's charter and bylaws or equivalent documentation (for associational groups).
-IV.B.Restructuring
+IV.B.4—Restructuring
 If a select group within a federal credit union's field of membership undergoes a substantial restructuring, a change to the credit union's field of membership may be required if the credit union is to continue to provide service to the select group. NCUA permits a multiple common bond credit union to maintain in its field of membership a sold, spun-off, or merged select group to which it has been providing service. This type of amendment to the credit union's charter is not considered an expansion; therefore, the criteria relating to adding new groups are not applicable.
 When two groups merge and each is in the field of membership of a credit union, then both (or all affected) credit unions can serve the resulting merged group, subject to any existing geographic limitation and without regard to any overlap provisions. However, the credit unions cannot serve the other multiple groups that may be in the field of membership of the other credit union.
 IV.C—NCUA's Procedures for Amending the Field of Membership
@@ -575,7 +564,6 @@ If the Office of Credit Union Resources and Expansion Director approves the requ
 IV.C.4—Office of Credit Union Resources and Expansion Director Disapproval
 When the Office of Credit Union Resources and Expansion Director disapproves any application, in whole or in part, to amend the field of membership under this chapter, the applicant will be informed in writing of the:
 • Specific reasons for the action;
-•
 • Options to consider, if appropriate, for gaining approval; and
 • Appeal procedure.
 IV.C.5—Appeal of Office of Credit Union Resources and Expansion Director Decision
@@ -586,7 +574,7 @@ In general, other than the addition of select groups, there are three additional
 • By taking in the field of membership of another credit union through a merger;
 • By taking in the field of membership of another credit union through a purchase and assumption (P&A); or
 • By taking a portion of another credit union's field of membership through a spin-off.
-IV.D. Voluntary Mergers
+IV.D.1—Voluntary Mergers
 a. All Select Groups in the Merging Credit Union's Field of Membership Have Less Than 3,000 Primary Potential Members
 A voluntary merger of two or more federal credit unions is permissible as long as each select group in the merging credit union's field of membership has less than 3,000 primary potential members. While the merger requirements outlined in Section 205 of the Federal Credit Union Act must still be met, the requirements of Chapter 2, Section IV.B.2 of this manual are not applicable.
 b. One or More Select Groups in the Merging Credit Union's Field of Membership Has 3,000 or More Primary Potential Members
@@ -599,7 +587,7 @@ Where the merging credit union is state-chartered, the field of membership rules
 Mergers must be approved by the applicable NCUA regional or Office of National Examinations and Supervision Director where the continuing credit union is headquartered, with the concurrence of the regional director or Office of National Examinations and Supervision Director of the merging credit union, and, as applicable, the state regulators.
 IV.D.2—Supervisory Mergers
 The NCUA may approve the merger of any federally insured credit union when safety and soundness concerns are present without regard to the 3,000 numerical limitation. The credit union need not be insolvent or in danger of insolvency for NCUA to use this statutory authority. Examples constituting appropriate reasons for using this authority are: abandonment of the management and/or officials and an inability to find replacements, loss of sponsor support, serious and persistent record-keeping problems, sustained material decline in financial condition, or other serious or persistent circumstances.
-IV.D. Emergency Mergers
+IV.D.3—Emergency Mergers
 An emergency merger may be approved by NCUA without regard to common bond or other legal constraints. An emergency merger involves NCUA's direct intervention and approval. The credit union to be merged must either be insolvent or in danger of insolvency, as defined in the Glossary, and NCUA must determine that:
 • An emergency requiring expeditious action exists;
 • Other alternatives are not reasonably available; and
@@ -612,7 +600,7 @@ If not corrected, conditions that could lead to insolvency include, but are not 
 In an emergency merger situation, NCUA will take an active role in finding a suitable merger partner (continuing credit union). NCUA is primarily concerned that the continuing credit union has the financial strength and management expertise to absorb the troubled credit union without adversely affecting its own financial condition and stability.
 As a stipulated condition to an emergency merger, the field of membership of the merging credit union may be transferred intact to the continuing federal credit union without regard to any field of membership restrictions including numerical limitation requirements. Under this authority, any single occupational or associational common bond, multiple common bond, or community charter may merger into a multiple common bond credit union and that credit union can continue to serve the merging credit union's field of membership. Subsequent field of membership expansions of the continuing multiple common bond credit union must be consistent with multiple common bond policies.
 Emergency mergers involving federally insured credit unions in different NCUA regions must be approved by the regional director or Office of National Examinations and Supervision Director where the continuing credit union is headquartered, with the concurrence of the regional director or Office of National Examinations and Supervision Director of the merging credit union and, as applicable, the state regulators.
-IV.D. Purchase and Assumption (P&A)
+IV.D.4—Purchase and Assumption (P&A)
 Another alternative for acquiring the field of membership of a failing credit union is through a consolidation known as a P&A. Generally, the requirements applicable to field of membership expansions found in this chapter apply to purchase and assumptions where the purchasing credit union is a federal charter.
 A P&A has limited application because, in most cases, the failing credit union must be placed into involuntary liquidation. However, in the few instances where a P&A may occur, the assuming federal credit union, as with emergency mergers, may acquire the entire field of membership if the emergency criteria are satisfied. Specified loans, shares, and certain other designated assets and liabilities, without regard to field of membership restrictions, may also be acquired without changing the character of the continuing federal credit union for purposes of future field of membership amendments. Subsequent field of membership expansions must be consistent with multiple common bond policies.
 P&As involving federally insured credit unions in different NCUA regions must be approved by the regional director or Office of National Examinations and Supervision Director where the continuing credit union is headquartered, with the concurrence of the regional director or Office of National Examinations and Supervision Director of the purchased and/or assumed credit union and, as applicable, the state regulators.
@@ -648,7 +636,7 @@ In reviewing the overlap, the Office of Credit Union Resources and Expansion Dir
 Generally, if the overlapped credit union does not object, and NCUA determines that there is no safety and soundness problem, the overlap will be permitted.
 Potential overlaps of a federally insured state credit union's field of membership by a federal credit union will generally be analyzed in the same way as if two federal credit unions were involved. Where a federally insured state credit union's field of membership is broadly stated, NCUA will exclude its field of membership from any overlap protection.
 NCUA will permit multiple common bond federal credit unions to overlap community charters without performing an overlap analysis.
-IV.E. Overlap Issues as a Result of Organizational Restructuring
+IV.E.2—Overlap Issues as a Result of Organizational Restructuring
 A federal credit union's field of membership will always be governed by the field of membership descriptions contained in Section 5 of its charter. Where a sponsor organization expands its operations internally, by acquisition or otherwise, the credit union may serve these new entrants to its field of membership if they are part of any select group listed in Section 5. Where acquisitions are made which add a new subsidiary, the group cannot be served until the subsidiary is included in the field of membership through a housekeeping amendment.
 A federal credit union's field of membership will always be governed by the field of membership descriptions contained in Section 5 of its charter. Where a sponsor organization expands its operations internally, by acquisition or otherwise, the credit union may serve these new entrants to its field of membership if they are part of any select group listed in Section 5. Where acquisitions are made which add a new subsidiary, the group cannot be served until the subsidiary is included in the field of membership through a housekeeping amendment.
 Overlaps may occur as a result of restructuring or merger of the parent organization. When such overlaps occur, each credit union must request a field of membership amendment to reflect the new groups each wishes to serve. The credit union can continue to serve any current group in its field of membership that is acquiring a new group or has been acquired by a new group.
@@ -707,16 +695,23 @@ NCUA has established the following requirements for community charters:
 V.A.2—Definition of Well-Defined Local Community and Rural District
 In addition to the documentation requirements in Chapter 1 to charter a credit union, a community credit union applicant must provide additional documentation addressing the proposed area to be served and community service policies.
 An applicant has the burden of demonstrating to NCUA that the proposed community area meets the statutory requirements of being: (1) Well-defined, and (2) a local community or rural district.
-For an applicant seeking a community charter for an area with multiple political jurisdictions with a population of 2.5 million people or more, the Office of Credit Union Resources and Expansion (CURE) shall publish a notice in the Federal Register seeking comment from interested parties about the proposed community and (2) conduct a public hearing about this application.
+For an applicant seeking a community charter for an area with multiple political jurisdictions with a population of 2.5 million people or more, the Office of Credit Union Resources and Expansion (CURE) shall: (1) Publish a notice in the Federal Register seeking comment from interested parties about the proposed community and (2) conduct a public hearing about this application.
 "Well-defined" means the proposed area has specific geographic boundaries. Geographic boundaries may include a city, township, county (single, multiple, or portions of a county) or a political equivalent, school districts, or a clearly identifiable neighborhood.
 The well-defined local community requirement is met if:
 • Single Political Jurisdiction—The area to be served is a recognized Single Political Jurisdiction, i.e., a city, county, or their political equivalent, or any single portion thereof.
 • Statistical Area—A statistical area is all or an individual portion of a Core-Based Statistical Area (CBSA) designated by the U.S. Census Bureau, including a Metropolitan Statistical Area. To meet the well-defined local community requirement, the CBSA or a portion thereof, must be contiguous and have a population of 2.5 million or less people. An individual portion of a statistical area need not conform to internal boundaries within the area, such as metropolitan division boundaries within a Core-Based Statistical Area.
 • Compelling Evidence of Common Interests or Interaction—In lieu of a statistical area as defined above, this option is available when a credit union seeks to initially charter a community credit union; to expand an existing community; or to convert to a community charter. Under this option, the credit union must demonstrate that the areas in question are contiguous and further demonstrate a sufficient level of common interests or interaction among area residents to qualify the area as a local community. For that purpose, an applicant must submit for NCUA approval a narrative, supported by appropriate documentation, establishing that the area's residents meet the requirements of a local community.
-To assist a credit union in developing its narrative, Appendix 6 of this Manual identifies criteria a narrative should address, and which NCUA will consider in deciding a credit union's application to: Initially charter a community credit union; to expand an existing community, including by an adjacent area addition; or to convert to a community charter. In any case, the credit union must demonstrate, through its business and marketing plans, its ability and commitment to serve the entire community for which it seeks NCUA approval.
+To assist a credit union in developing its narrative, Appendix 6 of this Manual identifies criteria a narrative should address, and which NCUA will consider in deciding a credit union's application to: initially charter a community credit union; to expand an existing community, including by an adjacent area addition; or to convert to a community charter. In any case, the credit union must demonstrate, through its business and marketing plans, its ability and commitment to serve the entire community for which it seeks NCUA approval.
+An area of any geographic size qualifies as a Rural District if:
+• The proposed district has well-defined, contiguous geographic boundaries;
+• The total population of the proposed district does not exceed 1,000,000.
+• Either more than 50% of the proposed district's population resides in census blocks or other geographic units that are designated as rural by either the Consumer Financial Protection Bureau or the United States Census Bureau, OR the district has a population density of 100 persons or fewer per square mile; and
+• The boundaries of the well-defined rural district do not exceed the outer boundaries of the states that are immediately contiguous to the state in which the credit union maintains its headquarters (i.e., not to exceed the outer perimeter of the layer of states immediately surrounding the headquarters state).
+The common bond affinity groups that apply to well-defined local communities also apply to Rural Districts.
+The requirements in Chapter 2, Sections V.A.4 through V.G. also apply to a credit union that serves a rural district.
 V.A.3—Previously Approved Communities
 If NCUA has determined that a specific geographic area is a well-defined local community, then a new applicant need not reestablish that fact as part of its application to serve the exact area. The new applicant must, however, note NCUA's previous determination as part of its overall application. An applicant applying for an area that is not exactly the same as a previously approved well defined local community must comply with the current criteria in place for determining a well-defined local community.
-V.A. Business Plan Requirements for a Community Credit Union
+V.A.4—Business Plan Requirements for a Community Credit Union
 A community credit union is frequently more susceptible to competition from other local financial institutions and generally does not have substantial support from any single sponsoring company or association. As a result, a community credit union will often encounter financial and operational factors that differ from an occupational or associational charter. Its diverse membership may require special marketing programs targeted to different segments of the community. For example, the lack of payroll deduction creates special challenges in the development and promotion of savings programs and in the collection of loans. Accordingly, to support an application for a community charter, an applicant Federal credit union must develop a business plan incorporating the following data:
 • Pro forma financial statements for a minimum of 24 months after the proposed conversion, including the underlying assumptions and rationale for projected member, share, loan, and asset growth;
 • Anticipated financial impact on the credit union, including the need for additional employees and fixed assets, and the associated costs;
@@ -734,7 +729,7 @@ A community that is a recognized legal entity may be stated in the field of memb
 A community that is an entire United States Census Bureau designated Core Based Statistical Area or Combined Statistical Area may be stated in the field of membership—for example, "Fort Wayne, IN Metropolitan Statistical Area," "Albany, GA Metropolitan Statistical Area," or "Syracuse-Auburn, NY Combined Statistical Area."
 V.A.6—Special Community Charters
 A community field of membership may include persons who work or attend school in a particular industrial park, shopping mall, office building or complex, or similar development. The proposed field of membership must have clearly defined geographic boundaries.
-V.A. Ample Community Fields of Membership
+V.A.7—Ample Community Fields of Membership
 A community charter does not have to include all four affinities (i.e., live, work, worship, or attend school in a community). Some examples of community fields of membership are:
 • Persons who live, work, worship, or attend school in, and businesses located in the area of Johnson City, Tennessee, bounded by Fern Street on the north, Long Street on the east, Fourth Street on the south, and Elm Avenue on the west;
 • Persons who live or work in Green County, Maine;
@@ -774,18 +769,18 @@ When NCUA disapproves any application to amend the field of membership, in whole
 V.C.5—Appeal of Office of Credit Union Resources and Expansion Director Decision
 If the Office of Credit Union Resources and Expansion Director denies a field of membership expansion request, merger, or spin-off, that decision may be appealed to the NCUA Board in accordance with the procedures set forth in subpart B to part 746 of this chapter.
 Before appealing, the credit union may, within 30 days of the denial, provide supplemental information to the Office of Credit Union Resources and Expansion Director for reconsideration. A request for reconsideration should contain new and material evidence addressing the reasons for the initial denial or explain extenuating circumstances that precluded the inclusion of existing material evidence or information that should have been filed with the request for reconsideration. The Office of Credit Union Resources and Expansion Director will have 30 days from the date of the receipt of the request for reconsideration to make a final decision. If the request is again denied, the applicant may proceed with the appeal process within 60 days of the date of the last denial. A petitioner may seek a second reconsideration based on new material evidence or information or extenuating circumstances that precluded the inclusion of such information in the previous request.
-V. D—Mergers, Purchase and Assumptions, and Spin-Offs
+V.D—Mergers, Purchase and Assumptions, and Spin-Offs
 There are three additional ways a community federal credit union can expand its field of membership:
 • By taking in the field of membership of another credit union through a merger;
 • By taking in the field of membership through a purchase and assumption (P&A); or
 • By taking a portion of another credit union's field of membership through a spin-off.
-V.D. Mergers
+V.D.1—Mergers
 Generally, the requirements applicable to field of membership expansions apply to mergers where the continuing credit union is a community federal charter.
 Where both credit unions are community charters, the continuing credit union must meet the criteria for expanding the community boundaries. A community credit union cannot merge into a single occupational/associational, or multiple common bond credit union, except in an emergency merger. However, a single occupational or associational, or multiple common bond credit union can merge into a community charter as long as the merging credit union has a service facility within the community boundaries or a majority of the merging credit union's field of membership would qualify for membership in the community charter. While a community charter may take in an occupational, associational, or multiple common bond credit union in a merger, it will remain a community charter.
 Groups within the merging credit union's field of membership located outside of the community boundaries may not continue to be served. The merging credit union must notify groups that will be removed from the field of membership as a result of the merger. However, the credit union may continue to serve members of record.
 Where a state-chartered credit union is merging into a community federal credit union, the continuing federal credit union's field of membership will be worded in accordance with NCUA policy. Any subsequent field of membership expansions must comply with applicable amendment procedures.
 Mergers must be approved by the NCUA regional director or Office of National Examinations and Supervision Director where the continuing credit union is headquartered, with the concurrence of the regional director or Office of National Examinations and Supervision Director of the merging credit union, and, as applicable, the state regulators.
-V.D. Emergency Mergers
+V.D.2—Emergency Mergers
 An emergency merger may be approved by NCUA without regard to common bond or other legal constraints. An emergency merger involves NCUA's direct intervention and approval. The credit union to be merged must either be insolvent or in danger of insolvency, as defined in the Glossary, and NCUA must determine that:
 • An emergency requiring expeditious action exists;
 • Other alternatives are not reasonably available; and
@@ -799,7 +794,7 @@ In an emergency merger situation, NCUA will take an active role in finding a sui
 As a stipulated condition to an emergency merger, the field of membership of the merging credit union may be transferred intact to the continuing federal credit union without regard to any field of membership restrictions, including the service facility requirement. Under this authority, a federal credit union may take in any dissimilar field of membership.
 Even though the merging credit union is a single common bond credit union or multiple common bond credit union or community credit union, the continuing credit union will remain a community charter. Future community expansions will be based on the continuing credit union's original community area.
 Emergency mergers involving federally insured credit unions in different NCUA regions must be approved by the regional director or Office of National Examinations and Supervision Director where the continuing credit union is headquartered, with the concurrence of the regional director or Office of National Examinations and Supervision Director of the merging credit union and, as applicable, the state regulators.
-V.D. Purchase and Assumption (P&A)
+V.D.3—Purchase and Assumption (P&A)
 Another alternative for acquiring the field of membership of a failing credit union is through a consolidation known as a P&A. Generally, the requirements applicable to community expansions found in this chapter apply to purchase and assumptions where the purchasing credit union is a federal charter.
 A P&A has limited application because, in most instances, the failing credit union must be placed into involuntary liquidation. However, in the few instances where a P&A may occur, the assuming federal credit union, as with emergency mergers, may acquire the entire field of membership if the emergency criteria are satisfied.
 In a P&A processed under the emergency criteria, specified loans, shares, and certain other designated assets and liabilities may also be acquired without regard to field of membership restrictions and without changing the character of the continuing federal credit union for purposes of future field of membership amendments.
@@ -822,7 +817,7 @@ For federal credit unions spinning off a portion of the community, membership no
 V.E—Overlaps
 V.E.1—General
 Generally, an overlap exists when a group of persons is eligible for membership in two or more credit unions. NCUA will permit community credit unions to overlap any other charters without performing an overlap analysis.
-V.E. Exclusionary Clauses
+V.E.2—Exclusionary Clauses
 An exclusionary clause is a limitation precluding the credit union from serving the primary members of a portion of a group or community otherwise included in its field of membership.
 NCUA no longer grants exclusionary clauses. Those granted prior to the adoption of this new Chartering and Field of Membership Manual will remain in effect unless the credit unions agree to remove them or one of the affected credit unions submits a housekeeping amendment to have it removed.
 V.F—Charter Conversions
@@ -868,8 +863,8 @@ Examples of a low-income designated community and an associational-based low-inc
 • Members of the Canarsie Economic Assistance League, in Brooklyn, NY, an association whose members all meet the low-income definition of Section 701.34 of the NCUA Rules and Regulations.
 III—Service to Underserved Communities
 III.A—General
-A multiple common bond federal credit union may include in its field of membership, without regard to location, an "underserved area" as defined by the Federal Credit Union Act. 12
-U.S.C. 1759(c)(2). The addition of an "underserved area" will not change the charter type of the multiple common bond federal credit union. More than one multiple common-bond federal credit union can serve the same "underserved area," provided each credit union is approved as provided below.
+A multiple common bond federal credit union may include in its field of membership, without regard to location, an "underserved area" as defined by the Federal Credit Union Act. 12 U.S.C. 1759(c)(2).
+The addition of an "underserved area" will not change the charter type of the multiple common bond federal credit union. More than one multiple common-bond federal credit union can serve the same "underserved area," provided each credit union is approved as provided below.
 By adding an "underserved area," a multiple common bond federal credit union does not become eligible to receive the benefits afforded to low-income designated credit unions, such as expanded use of nonmember deposits and access to the Community Development Revolving Loan Program for Credit Unions.
 III.B—"Underserved Area" Defined
 The Federal Credit Union Act defines an "underserved area" as (1) a "local community, neighborhood, or rural district" that (2) meets the definition of an "investment area" under section 103(16) of the Community Development Banking and Financial Institutions Act of 1994 ("CDFI"), 12 U.S.C. 4702(16), and (3) is "underserved by other depository institutions" based on data of the NCUA Board and the federal banking agencies.
@@ -877,7 +872,7 @@ III.B.1—Local Community
 To be eligible for approval as "underserved," a proposed area must be a well-defined local community, neighborhood, or rural district as defined in Chapter 2, sections V.A.1. and V.A.2. of this Manual.
 III.B.2—Investment Area
 To be approved as an "underserved area," the proposed area must meet the CDFI definition of an "investment area." Id. § 4702(16). A proposed area that, at the time the credit union applies, is designated in its entirety as an Empowerment Zone or Enterprise Community (id. § 1391) automatically qualifies as an "investment area"; no further criteria of an "investment area" must be met. Id. § 4702(16)(B). A proposed area that is not designated as such must qualify as an "investment area" under "the objective criteria of economic distress" developed by the CDFI Fund ("distress criteria") based on current decennial U.S. Census data, and also must have "significant unmet needs" for loans and financial services that credit unions are authorized to offer to their members. Id. § 4702(16)(A).
-III.B.2. Economic Distress Criteria
+III.B.2.a—Economic Distress Criteria
 Geographic Unit(s) By Proposed Area's Location. The location of a proposed "underserved area" either within or outside of a Metropolitan Statistical Area corresponding to the most recent completed decennial census published by the U.S. Bureau of the Census ("decennial Census") determines the geographic unit(s) that apply to determine whether the area meets the distress criteria.
 Within a Metropolitan Statistical Area. For a proposed area located, in whole or in part, within a Metropolitan Statistical Area, the permissible geographic units ("Metro units") for implementing the economic distress criteria are: (i) A census tract; (ii) a block group; and (iii) an American Indian or Alaskan Native area. 12 CFR 1805.201(b)(3)(ii)(B) (2008). For ease of implementation, it is advisable to use a census tract as the proposed area's Metro unit.
 Outside a Metropolitan Statistical Area. For a proposed area that is located entirely outside a Metropolitan Statistical Area, the permissible units ("Non-Metro units") for implementing the economic distress criteria are: (i) A county or equivalent area; (ii) a minor civil division that is a unit of local government; (iii) an incorporated place; (iv) a census tract; (v) a block numbering area; (vi) a block group; and (vii) an American Indian or Alaskan Native area. Id. For ease of implementation, it is advisable to use either a census tract or county, as the case may be, as the proposed area's Non-Metro unit.
@@ -980,7 +975,7 @@ II.D.2—Application for a Federal Charter
 When the Office of Credit Union Resources and Expansion Director has received evidence that the board of directors has satisfactorily completed the actions described above, the Federal charter and new Certificate of Insurance will be issued.
 The credit union may then complete the conversion as discussed in the following section. A credit union may request the Office of Credit Union Resources and Expansion Director to reconsider a denial of a conversion application and/or appeal a denial to the NCUA Board. For more information, refer to Section II.C.6 of this chapter.
 II.E—Completion of the Conversion
-II.E.—Effective Date of Conversion
+II.E.1—Effective Date of Conversion
 The date on which the Office of Credit Union Resources and Expansion Director approves the Organization Certificate and the Application and Agreements for Insurance of Accounts is the date on which the credit union becomes a federal credit union. The Office of Credit Union Resources and Expansion Director will notify the credit union and the state regulator of the date of the conversion.
 II.E.2—Assumption of Assets and Liabilities
 As of the effective date of the conversion, the federal credit union will be the owner of all of the assets and will be responsible for all of the liabilities and share accounts of the state credit union.
@@ -989,7 +984,7 @@ Upon receipt of its federal charter, the board will hold its first meeting as a 
 As of the commencement of operations, the accounting system, records, and forms must conform to the standards established by NCUA.
 II.E.4—Credit Union's Name
 Changing of the credit union's name on all signage, records, accounts, investments, and other documents should be accomplished as soon as possible after conversion. The credit union has 180 days from the effective date of the conversion to change its signage and promotional material. This requires the credit union to discontinue using any remaining stock of "state credit union" stationery immediately, and discontinue using credit cards, ATM cards, etc., within 180 days after the effective date of the conversion, or the reissue date whichever is later. The Office of Credit Union Resources and Expansion Director has the discretion to extend the timeframe for an additional 180 days. Member share drafts with the state-chartered name can be used by the members until depleted.
-II.E.Reports to NCUA
+II.E.5—Reports to NCUA
 Within 10 business days after commencement of operations, the recently converted federal credit union must submit to the Office of Credit Union Resources and Expansion Director the following:
 • Report of Officials (NCUA 4501); and
 • Financial and Statistical Reports, as of the commencement of business of the federal credit union.
@@ -1026,7 +1021,7 @@ III.D.3—Approval by the Office of Credit Union Resources and Expansion Directo
 The proposal will be approved by the Office of Credit Union Resources and Expansion Director if it is in compliance with Section 125 and, in the case where the state credit union will no longer be federally insured, the notice and voting requirements of Section 206 of the Federal Credit Union Act.
 III.D.4—Notification
 The Office of Credit Union Resources and Expansion Director will notify both the credit union and the state regulator of the decision on the proposal.
-III.D.UA Disapproval
+III.D.5—Disapproval
 When NCUA disapproves any application to convert to a state charter, the applicant will be informed in writing of the:
 • Specific reasons for the action;
 • If appropriate, options or suggestions that could be considered for gaining approval; and
