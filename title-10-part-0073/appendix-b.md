@@ -285,7 +285,7 @@ B. Employment Suitability and Qualification
 (1) Possess a high school diploma or pass an equivalent performance examination designed to measure basic mathematical, language, and reasoning skills, abilities, and knowledge required to perform security duties and responsibilities;
 (2) Have attained the age of 21 for an armed capacity or the age of 18 for an unarmed capacity; and
 (3) Not have any felony convictions that reflect on the individual's reliability.
-(4) Individuals in an armed capacity, would not be disqualified from possessing or using firearms or ammunition in accordance with applicable state or Federal law, to include 18 U.S.C. 922. Licensees shall use information that has been obtained during the completion of the individual's background investigation for unescorted access to determine suitability. Satisfactory completion of a firearms background check for the individual under 10 CFR 73.19 of this part will also fulfill this requirement.
+(4) Individuals in an armed capacity, would not be disqualified from possessing or using firearms or ammunition in accordance with applicable state or Federal law, to include 18 U.S.C. 922. Licensees shall use information that has been obtained during the completion of the individual's background investigation for unescorted access to determine suitability.
 (b) The qualification of each individual to perform assigned duties and responsibilities must be documented by a qualified training instructor and attested to by a security supervisor.
 2. Physical qualifications.
 (a) General physical qualifications.
