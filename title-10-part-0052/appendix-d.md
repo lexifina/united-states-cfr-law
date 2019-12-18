@@ -56,7 +56,7 @@ B. The Commission considers the following matters resolved within the meaning of
 3. All generic changes to the DCD under and in compliance with the change processes in Sections VIII.A.1 and VIII.B.1 of this appendix;
 4. All exemptions from the DCD under and in compliance with the change processes in Sections VIII.A.4 and VIII.B.4 of this appendix, but only for that plant;
 5. All departures from the DCD that are approved by license amendment, but only for that plant;
-6. Except as provided in paragraph VIII.B.5.f of this appendix, all departures from Tier 2 under and in compliance with the change processes in paragraph VIII.B.5 of this appendix that do not require prior NRC approval, but only for that plant;
+6. Except as provided in paragraph VIII.B.5.g of this appendix, all departures from Tier 2 under and in compliance with the change processes in paragraph VIII.B.5 of this appendix that do not require prior NRC approval, but only for that plant;
 7. All environmental issues concerning severe accident mitigation design alternatives associated with the information in the NRC's EA for the AP1000 design, Appendix 1B of Revision 15 of the generic DCD, the NRC's final EA for Amendment 1 to the AP1000 design, and Appendix 1B of Revision 19 of the generic DCD, for plants referencing this appendix whose site parameters are within those specified in the severe accident mitigation design alternatives evaluation.
 C. The Commission does not consider operational requirements for an applicant or licensee who references this appendix to be matters resolved within the meaning of 10 CFR 52.63(a)(5). The Commission reserves the right to require operational requirements for an applicant or licensee who references this appendix by rule, regulation, order, or license condition.
 D. Except under the change processes in Section VIII of this appendix, the Commission may not require an applicant or licensee who references this appendix to:
@@ -110,7 +110,7 @@ c. A licensee who references this appendix may not, before the plant first achie
 (1) Nuclear Island structural dimensions.
 (2) American Society of Mechanical Engineers Boiler & Pressure Vessel Code (ASME Code) piping design and welding restrictions, and ASME Code Cases.
 (3) Design Summary of Critical Sections.
-(4) American Concrete Institute (ACI) 318, ACI 349, American National Standards Institute/American Institute of Steel Construction (ANSI/AISC)-690, and American Iron and Steel Institute (AISI), "Specification for the Design of Cold Formed Steel Structural Members, Part 1 and 2," 1996 Edition and 2000 Supplement.
+(4) American Concrete Institute (ACI) 318, ACI 349, American National Standards Institute/American Institute of Steel Construction (ANSI/AISC)N-690, and American Iron and Steel Institute (AISI), "Specification for the Design of Cold Formed Steel Structural Members, Part 1 and 2," 1996 Edition and 2000 Supplement.
 (5) Definition of critical locations and thicknesses.
 (6) Seismic qualification methods and standards.
 (7) Nuclear design of fuel and reactivity control system, except burn-up limit.

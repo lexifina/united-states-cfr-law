@@ -112,7 +112,7 @@ c. A licensee who references this appendix may not, before the plant first achie
 (1) Nuclear Island structural dimensions.
 (2) ASME Boiler and Pressure Vessel Code, Section III, and Code Case—284.
 (3) Design Summary of Critical Sections.
-(4) ACI 318, ACI 349, and ANSI/AISC—690.
+(4) ACI 318, ACI 349, and ANSI/AISC N—690.
 (5) Definition of critical locations and thicknesses.
 (6) Seismic qualification methods and standards.
 (7) Nuclear design of fuel and reactivity control system, except burn-up limit.

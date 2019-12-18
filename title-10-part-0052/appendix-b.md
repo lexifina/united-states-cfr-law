@@ -104,7 +104,7 @@ b. A licensee who references this appendix may not depart from the following Tie
 (2) Control room human factors engineering.
 c. A licensee who references this appendix may not, before the plant first achieves full power following the finding required by 10 CFR 52.103(g), depart from the following Tier 2* matters except in accordance with paragraph B.6.b of this section. After the plant first achieves full power, the following Tier 2* matters revert to Tier 2 status and are thereafter subject to the departure provisions in paragraph B.5 of this section.
 (1) ASME Boiler & Pressure Vessel Code, Section III.
-(2) ACI 349 and ANSI/AISC-690.
+(2) ACI 349 and ANSI/AISC N-690.
 (3) Motor-operated valves.
 (4) Equipment seismic qualification methods.
 (5) Piping design acceptance criteria.
