@@ -5,8 +5,7 @@ This appendix covers the test requirements used to measure the energy consumptio
 The definitions contained in § 431.302 are applicable to this appendix.
 3.0 Additional Definitions
 3.1 Automatic door opener/closer means a device or control system that "automatically" opens and closes doors without direct user contact, such as a motion sensor that senses when a forklift is approaching the entrance to a door and opens it, and then closes the door after the forklift has passed.
-3.2 [Reserved]
-3.3 [Reserved]
+3.2-3.3 [Reserved]
 3.4 Surface area means the area of the surface of the walk-in component that would be external to the walk-in cooler or walk-in freezer as appropriate.
 3.5 Rated power means the electricity consuming device's power as specified on the device's nameplate. If the device does not have a nameplate or such nameplate does not list the device's power, then the rated power must be read from the device's product data sheet.
 3.6 Rating conditions means, unless explicitly stated otherwise, all conditions shown in Table A.1 of this section.
