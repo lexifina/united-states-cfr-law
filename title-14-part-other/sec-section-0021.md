@@ -1,5 +1,5 @@
 # § Section 21 Introduction to System of Reports
-(a) Each large certificated air carrier subject to the Federal Aviation Act of 1958, as amended, shall file with the BTS, monthly, quarterly, semiannually, and annually BTS Form 41 Reports of financial and operating statistics as prescribed herein unless waiver has been made by the Civil Aeronautics Board.
+(a) Each large certificated air carrier shall file with the BTS, monthly, quarterly, semiannually, and annually BTS Form 41 Reports of financial and operating statistics as prescribed herein unless waiver has been made by the BTS.
 (b) The system prescribed provides for the submission by each air carrier of four classes of financial and operating statistics, on individual schedules of the BTS Form 41 Report, grouped as follows:
 A. Certification. B. Balance Sheet Elements. P. Profit and Loss Elements. T. Traffic and Capacity Elements.
 (c) The prescribed system of reports provides that the frequency of reporting shall be monthly for some schedules, quarterly for some, semiannually for some and annually for others. It also provides in some areas for the classification of large certificated air carriers into Group I, Group II, and Group III with the form and content differentiated as between groups.
