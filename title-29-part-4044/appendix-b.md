@@ -229,3 +229,7 @@ October-December 2018 | 0.0284 | 1-20 | 0.0276 | >20 | N/A | N/A
 January-March 2019 | 0.0309 | 1-20 | 0.0284 | >20 | N/A | N/A
 April-June 2019 | 0.0307 | 1-20 | 0.0305 | >20 | N/A | N/A
 July-September 2019 | 0.0292 | 1-25 | 0.0307 | >25 | N/A | N/A
+October-December 2019 | 0.0253 | 1-25 | 0.0253 | >25 | N/A | N/A
+January-March 2020 | 0.0212 | 1-25 | 0.0226 | >25 | N/A | N/A
+April-June 2020 | 0.0211 | 1-20 | 0.0192 | >20 | N/A | N/A
+July-September 2020 | 0.0198 | 1-20 | 0.0157 | >20 | N/A | N/A
