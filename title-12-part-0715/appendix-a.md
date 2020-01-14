@@ -28,4 +28,3 @@ The supervisory committee, internal auditor, or other qualified person must perf
 ○ Foreclosed and repossessed assets
 • Test the mathematical accuracy of the allowance for loan and lease loss account and ensure the methodology is properly applied
 • Test loan delinquency and charge-offs
-Effective Date Note: At 84 FR 53308, Oct. 7, 2019, appendix A was added to part 715, effective Jan. 6, 2020.
