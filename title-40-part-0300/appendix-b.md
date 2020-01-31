@@ -53,7 +53,6 @@ CA | Halaco Engineering Company | Oxnard
 CA | Hewlett-Packard (620-640 Page Mill Road) | Palo Alto
 CA | Industrial Waste Processing | Fresno
 CA | Intel Corp. (Mountain View Plant) | Mountain View
-CA | Intel Corp. (Santa Clara III) | Santa Clara
 CA | Intel Magnetics | Santa Clara
 CA | Intersil Inc./Siemens Components | Cupertino
 CA | Iron Mountain Mine | Redding
@@ -65,7 +64,6 @@ CA | Koppers Co., Inc. (Oroville Plant) | Oroville
 CA | Lava Cap Mine | Nevada City
 CA | Leviathan Mine | Alpine County.
 CA | Lorentz Barrel & Drum Co | San Jose
-CA | MGM Brakes | Cloverdale
 CA | McColl | Fullerton
 CA | McCormick & Baxter Creosoting Co | Stockton
 CA | Modesto Ground Water Contamination | Modesto
@@ -119,7 +117,7 @@ CO | Nelson Tunnel/Commodore Waste Rock | Creede
 CO | Standard Mine | Gunnison National Forest
 CO | Summitville Mine | Rio Grande County
 CO | Uravan Uranium Project (Union Carbide) | (former town of) Uravan | P*
-CO | Vasquez Boulevard and I-70 | Denver
+CO | Vasquez Boulevard and I-70 | Denver | P
 CT | Barkhamsted-New Hartford Landfill | Barkhamsted
 CT | Beacon Heights Landfill | Beacon Falls
 CT | Durham Meadows | Durham
@@ -156,7 +154,7 @@ FL | Cabot/Koppers | Gainesville
 FL | Chevron Chemical Co. (Ortho Division) | Orlando
 FL | City Industries, Inc | Orlando
 FL | Continental Cleaners | Miami
-FL | Escambia Wood—Pensacola | Pensacola
+FL | Escambia Wood—Pensacola | Pensacola | P
 FL | Fairfax St. Wood Treaters | Jacksonville
 FL | Flash Cleaners | Pompano Beach
 FL | Florida Petroleum Reprocessors | Fort Lauderdale
@@ -177,9 +175,9 @@ FL | Petroleum Products Corp | Pembroke Park
 FL | Pickettville Road Landfill | Jacksonville
 FL | Piper Aircraft/Vero Beach Water & Sewer | Vero Beach
 FL | Post and Lumber Preserving Co. Inc | Quincy
-FL | Raleigh Street Dump | Tampa.
+FL | Raleigh Street Dump | Tampa
 FL | Reeves Southeast Galvanizing Corp | Tampa
-FL | Sanford Dry Cleaners | Sanford.
+FL | Sanford Dry Cleaners | Sanford
 FL | Sapp Battery Salvage | Cottondale
 FL | Sherwood Medical Industries | Deland
 FL | Solitron Microwave | Port Salerno
@@ -190,7 +188,7 @@ FL | Sydney Mine Sludge Ponds | Brandon
 FL | Taylor Road Landfill | Seffner
 FL | Tower Chemical Co | Clermont
 FL | Trans Circuit, Inc. | Lake Park
-FL | United Metals, Inc | Marianna.
+FL | United Metals, Inc | Marianna
 FL | Wingate Road Municipal Incinerator Dump | Fort Lauderdale
 FL | Zellwood Ground Water Contamination | Zellwood
 GA | Alternate Energy Resources | Augusta
@@ -210,7 +208,6 @@ GA | Woolfolk Chemical Works, Inc | Fort Valley
 GU | Ordot Landfill | Guam | S
 HI | Del Monte Corp. (Oahu Plantation) | Honolulu County | P
 IA | Des Moines TCE | Des Moines
-IA | Electro-Coatings, Inc | Cedar Rapids
 IA | Fairfield Coal Gasification Plant | Fairfield
 IA | Lawrence Todtz Farm | Camanche
 IA | Mason City Coal Gasification Plant | Mason City
@@ -218,7 +215,7 @@ IA | Midwest Manufacturing/North Farm | Kellogg
 IA | PCE Former Dry Cleaner | Atlantic
 IA | Peoples Natural Gas Co | Dubuque
 IA | Railroad Avenue Groundwater Contamination | Des Moines
-IA | Shaw Avenue Dump | Charles City
+IA | Shaw Avenue Dump | Charles City | P
 IA | Vogel Paint & Wax Co | Orange City
 ID | Bunker Hill Mining & Metallurgical | Smelterville
 ID | Eastern Michaud Flats Contamination | Pocatello
@@ -259,6 +256,7 @@ IL | Outboard Marine Corp | Waukegan | S
 IL | Pagel's Pit | Rockford
 IL | Parsons Casket Hardware Co | Belvidere
 IL | Sandoval Zinc Company | Sandoval
+IL | Schroud Property | Chicago
 IL | Southeast Rockford Gd Wtr Contamination | Rockford
 IL | Tri-County Landfill/Waste Mgmt Illinois | South Elgin
 IL | Velsicol Chemical Corp. (Illinois) | Marshall
@@ -399,7 +397,6 @@ MI | Cannelton Industries, Inc | Saulte Saint Marie
 MI | Chem Central | Wyoming Township
 MI | Clare Water Supply | Clare
 MI | DSC McLouth Steel Gibraltar Plant | Gibraltar
-MI | Duell & Gardner Landfill | Dalton Township
 MI | Electrovoice | Buchanan
 MI | Forest Waste Products | Otisville
 MI | G&H Landfill | Utica
@@ -469,7 +466,7 @@ MN | Perham Arsenic Site | Perham
 MN | Reilly Tar&Chem (St. Louis Park Plant) | St. Louis Park | S
 MN | Ritari Post & Pole | Sebeka
 MN | South Andover Site | Andover | P
-MN | South Minneapolis Residential Soil Contamination | Minneapolis
+MN | South Minneapolis Residential Soil Contamination | Minneapolis | P
 MN | Spring Park Municipal Well Field | Spring Park
 MN | St. Louis River Site | St. Louis County
 MN | St. Regis Paper Co | Cass Lake
@@ -522,7 +519,7 @@ MT | Basin Mining Area | Basin
 MT | Carpenter Snow Creek Mining District | Neihart
 MT | East Helena Site | East Helena
 MT | Flat Creek IMM | Superior.
-MT | Idaho Pole Co | Bozeman
+MT | Idaho Pole Co | Bozeman | P
 MT | Libby Asbestos | Libby | P
 MT | Libby Ground Water Contamination | Libby
 MT | Lockwood Solvent Ground Water Plume | Billings
@@ -569,7 +566,7 @@ NC | Ward Transformer | Raleigh.
 NC | Wright Chemical Corporation | Riegelwood
 NE | 10th Street Site | Columbus
 NE | Bruno Co-op Association/Associated Prop | Bruno
-NE | Cleburn Street Well | Grand Island
+NE | Cleburn Street Well | Grand Island | P
 NE | Garvey Elevator | Hastings
 NE | Hastings Ground Water Contamination | Hastings
 NE | Iowa-Nebraska Light & Power Co | Norfolk
@@ -724,11 +721,12 @@ NM | Lea and West Second Street | Roswell
 NM | McGaffey and Main Groundwater Plume | Roswell
 NM | North Railroad Avenue Plume | Espanola
 NM | Prewitt Abandoned Refinery | Prewitt | P
-NM | South Valley | Albuquerque | S
+NM | South Valley | Albuquerque | P
 NM | United Nuclear Corp | Church Rock
 NV | Carson River Mercury Site | Lyon/Churchill Cnty
 NY | American Thermostat Co | South Cairo
 NY | Applied Environmental Services | Glenwood Landing
+NY | Arsenic Mine | Kent | A
 NY | Black River PCBs | Jefferson County.
 NY | Brewster Well Field | Putnam County
 NY | Byron Barrel & Drum | Byron
@@ -743,7 +741,6 @@ NY | Crown Cleaners of Watertown, Inc | Carthage
 NY | Dewey Loeffel Landfill | Nassau
 NY | Diaz Chemical Corporation | Holley
 NY | Eighteenmile Creek | Niagara County
-NY | Ellenville Scrap Iron and Metal | Ellenville
 NY | Endicott Village Well Field | Village of Endicott
 NY | FMC Corp. (Dublin Road Landfill) | Town of Shelby
 NY | Facet Enterprises, Inc | Elmira
@@ -785,7 +782,6 @@ NY | Old Roosevelt Field Contaminated Ground Water Area | Garden City.
 NY | Olean Well Field | Olean
 NY | Onondaga Lake | Syracuse
 NY | Peninsula Boulevard Ground Water Plume | Hewlett
-NY | Peter Cooper | Gowanda.
 NY | Pollution Abatement Services | Oswego | S
 NY | Port Washington Landfill | Port Washington
 NY | Preferred Plating Corp | Farmingdale
@@ -812,7 +808,6 @@ NY | York Oil Co | Moira
 OH | Allied Chemical & Ironton Coke | Ironton
 OH | Behr Dayton Thermal System VOC Plume | Dayton.
 OH | Big D Campground | Kingsville
-OH | Buckeye Reclamation | St. Clairsville
 OH | Chem-Dyne | Hamilton | S
 OH | Copley Square Plaza | Copley
 OH | Donnelsville Contaminated Aquifer | Donnelsville
@@ -921,7 +916,7 @@ PA | North Penn—Area 2 | Hatfield
 PA | North Penn—Area 5 | Montgomery Township
 PA | North Penn Area 6 | Lansdale | P
 PA | North Penn—Area 7 | North Wales
-PA | Novak Sanitary Landfill | South Whitehall Township
+PA | Novak Sanitary Landfill | South Whitehall Township | P
 PA | Occidental Chemical Corp./Firestone Tire | Lower Pottsgrove Township
 PA | Ohio River Park | Neville Island
 PA | Old City of York Landfill | Seven Valleys
@@ -940,7 +935,6 @@ PA | Salford Quarry | Lower Salford Township.
 PA | Sharon Steel Corp. (Farrell Wks Disp Area) | Hickory Township
 PA | Shriver's Corner | Straban Township
 PA | Stanley Kessler | King of Prussia
-PA | Strasburg Landfill | Newlin Township
 PA | Tobyhanna Army Depot | Tobyhanna | P
 PA | Tonolli Corp | Nesquehoning
 PA | Tysons Dump | Upper Merion Twp
@@ -1001,7 +995,7 @@ SC | SCRDI Bluff Road | Columbia | S
 SC | SCRDI Dixiana | Cayce
 SC | Sangamo Weston | Pickens | P
 SC | Shuron Inc | Barnwell
-SC | Townsend Saw Chain Co | Pontiac
+SC | Townsend Saw Chain Co. Superfund Site | Pontiac | P
 SC | US Finishing/Cone Mills | Greenville
 SC | Wamchem, Inc | Burton
 SD | Gilt Edge Mine | Lead
@@ -1017,7 +1011,6 @@ TN | Ross Metals Inc | Rossville
 TN | Smalley-Piper | Collierville
 TN | Smokey Mountain Smelters | Knox County.
 TN | Southside Chattanooga Lead | Chattanooga
-TN | Tennessee Products | Chattanooga | A
 TN | Velsicol Chemical Corp (Hardeman County) | Toone
 TN | Walker Machine Products, Inc. | Collierville
 TN | Wrigley Charcoal Plant | Wrigley
@@ -1074,7 +1067,6 @@ TX | Van der Horst USA Corporation | Terrell
 TX | West County Road 112 Ground Water | Midland
 UT | Bountiful/Woods Cross 5th South PCE Plume | Bountiful/Woods Cross
 UT | Five Points PCE Plume | Woods Cross/Bountiful
-UT | Intermountain Waste Oil Refinery | Bountiful.
 UT | Jacobs Smelters | Tooele County | P
 UT | Portland Cement (Kiln Dust 2 & 3) | Salt Lake City
 UT | U.S. Magnesium | Tooele County.
@@ -1187,13 +1179,12 @@ WI | Wausau Ground Water Contamination | Wausau
 WV | Big John Salvage—Hoult Road | Fairmont
 WV | Fike Chemical, Inc | Nitro
 WV | Hanlin-Allied-Olin | Moundsville
-WY | Mystery Bridge Road/U.S. Highway 20 | Evansville/Natrona | P
 WV | North 25th Street Glass and Zinc | Clarksburg
 WV | Ravenswood PCE Ground Water Plume | Ravenswood
 WV | Shaffer Equipment/Arbuckle Creek Area | Minden
 WV | Sharon Steel Corp (Fairmont Coke Works) | Fairmont
 WV | Vienna Tetrachloroethene | Vienna
-(a) = Based on issuance of health advisory by Agency for Toxic Substances and Disease Registry (if scored, HRS score need not be greater than or equal to 28.50).
+a A = Based on issuance of health advisory by Agency for Toxic Substances and Disease Registry (if scored, HRS score need not be greater than or equal to 28.50).
 S = State top priority (included among the 100 top priority sites regardless of score).
 P = Sites with partial deletion(s).
 Table 2—Federal Facilities Section
@@ -1264,7 +1255,7 @@ MA | Hanscom Field/Hanscom Air Force Base | Bedford
 MA | Natick Laboratory Army Research, D&E Cntr | Natick
 MA | Naval Weapons Industrial Reserve Plant | Bedford
 MA | Otis Air National Guard Base/Camp Edwards | Sandwich, Falmouth, Bourne, Mashpee | P
-MA | South Weymouth Naval Air Station | Weymouth
+MA | South Weymouth Naval Air Station | Weymouth | P
 MD | Aberdeen Proving Ground (Edgewood Area) | Edgewood
 MD | Aberdeen Proving Ground (Michaelsville LF) | Aberdeen
 MD | Andrews Air Force Base | Camp Springs
@@ -1279,7 +1270,7 @@ ME | Brunswick Naval Air Station | Brunswick
 ME | Loring Air Force Base | Limestone
 ME | Portsmouth Naval Shipyard | Kittery
 MN | Naval Industrial Reserve Ordnance Plant | Fridley | P
-MN | New Brighton/Arden Hills/TCAAP (USARMY) | New Brighton
+MN | New Brighton/Arden Hills/TCAAP (USARMY) | New Brighton | P
 MO | Lake City Army Ammu. Plant (NW Lagoon) | Independence
 MO | Weldon Spring Former Army Ordnance Works | St. Charles County
 MO | Weldon Spring Quarry/Plant/Pitts (USDOE) | St. Charles County
@@ -1310,7 +1301,7 @@ PA | Naval Air Development Center (8 Areas) | Warminster Township
 PA | Navy Ships Parts Control Center | Mechanicsburg
 PA | Tobyhanna Army Depot | Tobyhanna | P
 PA | Willow Grove Naval Air & Air Res. Stn. | Willow Grove
-PR | Atlantic Fleet Weapons Training Area—Vieques | Island of Vieques1 | S
+PR | Atlantic Fleet Weapons Training Area—Vieques | Island of Vieques 1 | S
 RI | Davisville Naval Construction Batt Cent | North Kingston
 RI | Newport Naval Education/Training Center | Newport
 SC | Parris Island Marine Corps Recruit Depot | Parris Island
@@ -1359,4 +1350,15 @@ WY | F.E. Warren Air Force Base | Cheyenne
 Notes:
 (a) A = Based on issuance of health advisory by Agency for Toxic Substances and Disease Registry (if scored, HRS score need not be greater than or equal to 28.50).
 S = State top priority (included among the 100 top priority sites regardless of score).
+P = Sites with partial deletion(s).
+At 85 FR 37576, June 23, 2020, Table 1 of Appendix B to part 300 is amended by removing "VA," "First Piedmont Rock Quarry (Route 719)", "Pittsylvania County, effective Aug. 24, 2020.
+At 85 FR 37777, June 24, 2020, Table 1 of appendix B to part 300 is amended by revising the entry under "Allied Chemical & Ironton Coke", "OH", effective Aug. 24, 2020. For the convenience of the user, the revised text is set forth as follows:
+Pt. 300, App. B
+Appendix B to Part 300—National Priorities List
+Table 1—General Superfund Section
+State | Site name | City/county | Notes (a)
+* * * * * * *
+OH | Allied Chemical & Ironton Coke | Ironton | P
+* * * * * * *
+(a) * * *
 P = Sites with partial deletion(s).
