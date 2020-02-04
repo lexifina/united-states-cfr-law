@@ -38,11 +38,11 @@ For more information about this Notice, you may contact:
 PBGC Contact Information
 Multiemployer Program Division, PBGC, 1200 K Street NW., Washington, DC 20005-4026
 Email: Multiemployerprogram@pbgc.gov
-Phone: (202) 326-4000 x6535
+Phone: (202) 229-6047
 PBGC Participant and Plan Sponsor Advocate Contact Information
 Constance Donovan, PBGC, 1200 K Street NW., Washington, DC 20005-4026
 Email: Advocate@pbgc.gov.
-Phone: (202) 326-4488
+Phone: (202) 229-4448
 NOTICE OF APPLICATION FOR PARTITION FOR [INSERT PLAN NAME]
 [For plans filing coordinated applications for partition and suspension of benefits]
 [Insert Date]
@@ -84,8 +84,8 @@ For more information about this Notice, you may contact:
 PBGC Contact Information
 Multiemployer Program Division, PBGC, 1200 K Street NW., Washington, DC 20005-4026
 Email: Multiemployerprogram@pbgc.gov
-Phone: (202) 326-4000 x6535
+Phone: (202) 229-6047
 PBGC Participant and Plan Sponsor Advocate Contact Information
 Constance Donovan, PBGC, 1200 K Street NW., Washington, DC 20005-4026
 Email: Advocate@pbgc.gov
-Phone: (202) 326-4488
+Phone: (202) 229-4448
