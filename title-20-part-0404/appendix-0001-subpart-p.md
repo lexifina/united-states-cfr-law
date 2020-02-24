@@ -1,20 +1,20 @@
 # Appendix 1 to Subpart P of Part 404—Listing of Impairments
 The body system listings in parts A and B of the Listing of Impairments will no longer be effective on the following dates unless extended by the Commissioner or revised and promulgated again.
 1. Low Birth Weight and Failure to Thrive (100.00): June 12, 2020.
-2. Musculoskeletal System (1.00 and 101.00): January 27, 2020.
-3. Special Senses and Speech (2.00 and 102.00): April 24, 2020.
-4. Respiratory Disorders (3.00 and 103.00): October 7, 2019.
-5. Cardiovascular System (4.00 and 104.00): January 27, 2020.
-6. Digestive System (5.00 and 105.00): January 27, 2020.
-7. Genitourinary Disorders (6.00 and 106.00): December 9, 2019.
-8. Hematological Disorders (7.00 and 107.00): May 18, 2020.
-9. Skin Disorders (8.00 and 108.00): January 27, 2020.
+2. Musculoskeletal System (1.00 and 101.00): February 4, 2022.
+3. Special Senses and Speech (2.00 and 102.00): June 3, 2022.
+4. Respiratory Disorders (3.00 and 103.00): December 10, 2021
+5. Cardiovascular System (4.00 and 104.00): February 4, 2022.
+6. Digestive System (5.00 and 105.00): February 4, 2022.
+7. Genitourinary Disorders (6.00 and 106.00): December 10, 2021.
+8. Hematological Disorders (7.00 and 107.00): June 3, 2022.
+9. Skin Disorders (8.00 and 108.00): February 4, 2022.
 10. Endocrine Disorders (9.00 and 109.00): June 26, 2020.
-11. Congenital Disorders That Affect Multiple Body Systems (10.00 and 110.00): April 3, 2020.
+11. Congenital Disorders That Affect Multiple Body Systems (10.00 and 110.00): June 3, 2022.
 12. Neurological Disorders (11.00 and 111.00): September 29, 2021.
 13. Mental Disorders (12.00 and 112.00): January 17, 2022.
 14. Cancer (Malignant Neoplastic Diseases) (13.00 and 113.00): July 20, 2020.
-15. Immune System Disorders (14.00 and 114.00): January 17, 2020.
+15. Immune System Disorders (14.00 and 114.00): February 4, 2022.
 Part A
 Criteria applicable to individuals age 18 and over and to children under age 18 where criteria are appropriate.
 Sec.
@@ -126,15 +126,15 @@ e. Visual evoked response (VER) testing measures your response to visual events 
 6. How do we measure your visual fields?
 a. General. We generally need visual field testing when you have a visual disorder that could result in visual field loss, such as glaucoma, retinitis pigmentosa, or optic neuropathy, or when you display behaviors that suggest a visual field loss. When we need to measure the extent of your visual field loss, we use visual field testing (also referred to as perimetry) carried out using automated static threshold perimetry performed on an acceptable perimeter. (For perimeter requirements, see 2.00A9.)
 b. Automated static threshold perimetry requirements.
-(i) The test must use a white size III Goldmann stimulus and a 31.5 apostilb (asb) white background (or a 10 candela per square meter (cd/m2) white background). The stimuli test locations must be no more than 6 degrees apart horizontally or vertically. Measurements must be reported on standard charts and include a description of the size and intensity of the test stimulus.
-(ii) We measure the extent of your visual field loss by determining the portion of the visual field in which you can see a white III4e stimulus. The "III" refers to the standard Goldmann test stimulus size III (4 mm2), and the "4e" refers to the standard Goldmann intensity filter (0 decibel (dB) attenuation, which allows presentation of the maximum luminance) used to determine the intensity of the stimulus.
+(i) The test must use a white size III Goldmann stimulus and a 31.5 apostilb (asb) white background (or a 10 candela per square meter (cd/m 2) white background). The stimuli test locations must be no more than 6 degrees apart horizontally or vertically. Measurements must be reported on standard charts and include a description of the size and intensity of the test stimulus.
+(ii) We measure the extent of your visual field loss by determining the portion of the visual field in which you can see a white III4e stimulus. The "III" refers to the standard Goldmann test stimulus size III (4 mm 2), and the "4e" refers to the standard Goldmann intensity filter (0 decibel (dB) attenuation, which allows presentation of the maximum luminance) used to determine the intensity of the stimulus.
 (iii) In automated static threshold perimetry, the intensity of the stimulus varies. The intensity of the stimulus is expressed in decibels (dB). A perimeter's maximum stimulus luminance is usually assigned the value 0 dB. We need to determine the dB level that corresponds to a 4e intensity for the particular perimeter being used. We will then use the dB printout to determine which points you see at a 4e intensity level (a "seeing point"). For example:
 A. When the maximum stimulus luminance (0 dB stimulus) on an acceptable perimeter is 10,000 asb, a 10 dB stimulus is equivalent to a 4e stimulus. Any point you see at 10 dB or greater is a seeing point.
 B. When the maximum stimulus luminance (0 dB stimulus) on an acceptable perimeter is 4,000 asb, a 6 dB stimulus is equivalent to a 4e stimulus. Any point you see at 6 dB or greater is a seeing point.
 C. When the maximum stimulus luminance (0 dB stimulus) on an acceptable perimeter is 1,000 asb, a 0 dB stimulus is equivalent to a 4e stimulus. Any point you see at 0 dB or greater is a seeing point.
 c. Evaluation under 2.03A. To determine statutory blindness based on visual field loss in your better eye (2.03A), we need the results of a visual field test that measures the central 24 to 30 degrees of your visual field; that is, the area measuring 24 to 30 degrees from the point of fixation. Acceptable tests include the Humphrey Field Analyzer (HFA) 30-2, HFA 24-2, and Octopus 32.
 d. Evaluation under 2.03B. To determine whether your visual field loss meets listing 2.03B, we use the mean deviation or defect (MD) from acceptable automated static threshold perimetry that measures the central 30 degrees of the visual field. MD is the average sensitivity deviation from normal values for all measured visual field locations. When using results from HFA tests, which report the MD as a negative number, we use the absolute value of the MD to determine whether your visual field loss meets listing 2.03B. We cannot use tests that do not measure the central 30 degrees of the visual field, such as the HFA 24-2, to determine if your impairment meets or medically equals 2.03B.
-e. Other types of perimetry. If the evidence in your case contains visual field measurements obtained using manual or automated kinetic perimetry, such as Goldmann perimetry or the HFA "SSA Test Kinetic," we can generally use these results if the kinetic test was performed using a white III4e stimulus projected on a white 31.5 asb (10 cd/m2) background. Automated kinetic perimetry, such as the HFA "SSA Test Kinetic," does not detect limitations in the central visual field because testing along a meridian stops when you see the stimulus. If your visual disorder has progressed to the point at which it is likely to result in a significant limitation in the central visual field, such as a scotoma (see 2.00A6h), we will not use automated kinetic perimetry to determine the extent of your visual field loss. Instead, we will determine the extent of your visual field loss using automated static threshold perimetry or manual kinetic perimetry.
+e. Other types of perimetry. If the evidence in your case contains visual field measurements obtained using manual or automated kinetic perimetry, such as Goldmann perimetry or the HFA "SSA Test Kinetic," we can generally use these results if the kinetic test was performed using a white III4e stimulus projected on a white 31.5 asb (10 cd/m 2) background. Automated kinetic perimetry, such as the HFA "SSA Test Kinetic," does not detect limitations in the central visual field because testing along a meridian stops when you see the stimulus. If your visual disorder has progressed to the point at which it is likely to result in a significant limitation in the central visual field, such as a scotoma (see 2.00A6h), we will not use automated kinetic perimetry to determine the extent of your visual field loss. Instead, we will determine the extent of your visual field loss using automated static threshold perimetry or manual kinetic perimetry.
 f. Screening tests. We will not use the results of visual field screening tests, such as confrontation tests, tangent screen tests, or automated static screening tests, to determine that your impairment meets or medically equals a listing or to evaluate your residual functional capacity. We can consider normal results from visual field screening tests to determine whether your visual disorder is severe when these test results are consistent with the other evidence in your case record. (See §§ 404.1520(c), 404.1521, 416.920(c), and 416.921 of this chapter.) We will not consider normal test results to be consistent with the other evidence if the clinical findings indicate that your visual disorder has progressed to the point that it is likely to cause visual field loss, or you have a history of an operative procedure for retinal detachment.
 g. Use of corrective lenses. You must not wear eyeglasses during visual field testing because they limit your field of vision. You may wear contact lenses to correct your visual acuity during the visual field test to obtain the most accurate visual field measurements. For this single purpose, you do not need to demonstrate that you have the ability to use the contact lenses on a sustained basis.
 h. Scotoma. A scotoma is a field defect or non-seeing area (also referred to as a "blind spot") in the visual field surrounded by a normal field or seeing area. When we measure your visual field, we subtract the length of any scotoma, other than the normal blind spot, from the overall length of any diameter on which it falls.
@@ -142,7 +142,7 @@ h. Scotoma. A scotoma is a field defect or non-seeing area (also referred to as 
 a. General. Visual efficiency, a calculated value of your remaining visual function, is the combination of your visual acuity efficiency and your visual field efficiency expressed as a percentage.
 b. Visual acuity efficiency. Visual acuity efficiency is a percentage that corresponds to the best-corrected central visual acuity for distance in your better eye. See Table 1.
 Table 1—Visual Acuity Efficiency
-Snellen best-corrected central visual acuity for distance | English | Metric | Visual acuity efficiency (%)(2.04A)
+Snellen best-corrected central visual acuity for distance | English | Metric | Visual acuity efficiency (%) (2.04A)
 20/16 | 6/5 | 100
 20/20 | 6/6 | 100
 20/25 | 6/7.5 | 95
@@ -162,7 +162,7 @@ d. Visual efficiency. Under 2.04A, we calculate the visual efficiency percentage
 a. General. Visual impairment value, a calculated value of your loss of visual function, is the combination of your visual acuity impairment value and your visual field impairment value.
 b. Visual acuity impairment value. Your visual acuity impairment value corresponds to the best-corrected central visual acuity for distance in your better eye. See Table 2.
 Table 2—Visual Acuity Impairment Value
-Snellen best-corrected central visual acuity for distance | Visual acuityimpairment value (2.04B)
+Snellen best-corrected central visual acuity for distance | Visual acuity impairment value (2.04B)
 English | Metric |
 20/16 | 6/5 | 0.00
 20/20 | 6/6 | 0.00
@@ -224,7 +224,7 @@ A. Disturbed function of vestibular labyrinth demonstrated by caloric or other v
 B. Hearing loss established by audiometry.
 2.09 Loss of speech due to any cause, with inability to produce by any means speech that can be heard, understood, or sustained.
 Table 1—Percentage of Visual Acuity Efficiency Corresponding to the Best-Corrected Visual Acuity Measurement for Distance in the Better Eye
-Snellen | English | Metric | Percentvisual acuity efficiency
+Snellen | English | Metric | Percent visual acuity efficiency
 20/16 | 6/5 | 100
 20/20 | 6/6 | 100
 20/25 | 6/7.5 | 95
@@ -277,14 +277,14 @@ D. What documentation do we need to evaluate your respiratory disorder?
 3. Imaging refers to medical imaging techniques, such as x-ray and computerized tomography. The imaging must be consistent with the prevailing state of medical knowledge and clinical practice as the proper technique to support the evaluation of the disorder.
 4. Pulmonary function tests include spirometry (which measures ventilation of the lungs), DLCO tests (which measure gas diffusion in the lungs), ABG tests (which measure the partial pressure of oxygen, P a O 2, and carbon dioxide, P a CO 2, in the arterial blood), and pulse oximetry (which measures oxygen saturation, S p O 2, of peripheral blood hemoglobin).
 E. What is spirometry and what are our requirements for an acceptable test and report?
-1. Spirometry, which measures how well you move air into and out of your lungs, involves at least three forced expiratory maneuvers during the same test session. A forced expiratory maneuver is a maximum inhalation followed by a forced maximum exhalation, and measures exhaled volumes of air over time. The volume of air you exhale in the first second of the forced expiratory maneuver is the FEV1. The total volume of air that you exhale during the entire forced expiratory maneuver is the FVC. We use your highest FEV1 value to evaluate your respiratory disorder under 3.02A, 3.03A, and 3.04A, and your highest FVC value to evaluate your respiratory disorder under 3.02B, regardless of whether the values are from the same forced expiratory maneuver or different forced expiratory maneuvers.
+1. Spirometry, which measures how well you move air into and out of your lungs, involves at least three forced expiratory maneuvers during the same test session. A forced expiratory maneuver is a maximum inhalation followed by a forced maximum exhalation, and measures exhaled volumes of air over time. The volume of air you exhale in the first second of the forced expiratory maneuver is the FEV 1. The total volume of air that you exhale during the entire forced expiratory maneuver is the FVC. We use your highest FEV 1 value to evaluate your respiratory disorder under 3.02A, 3.03A, and 3.04A, and your highest FVC value to evaluate your respiratory disorder under 3.02B, regardless of whether the values are from the same forced expiratory maneuver or different forced expiratory maneuvers.
 2. We have the following requirements for spirometry under these listings:
 a. You must be medically stable at the time of the test. Examples of when we would not consider you to be medically stable include when you are:
 (i) Within 2 weeks of a change in your prescribed respiratory medication.
 (ii) Experiencing, or within 30 days of completion of treatment for, a lower respiratory tract infection.
 (iii) Experiencing, or within 30 days of completion of treatment for, an acute exacerbation (temporary worsening) of a chronic respiratory disorder. Wheezing by itself does not indicate that you are not medically stable.
 (iv) Hospitalized, or within 30 days of a hospital discharge, for an acute myocardial infarction (heart attack).
-b. During testing, if your FEV1 is less than 70 percent of your predicted normal value, we require repeat spirometry after inhalation of a bronchodilator to evaluate your respiratory disorder under these listings, unless it is medically contraindicated. If you used a bronchodilator before the test and your FEV1 is less than 70 percent of your predicted normal value, we still require repeat spirometry after inhalation of a bronchodilator unless the supervising physician determines that it is not safe for you to take a bronchodilator again (in which case we may need to reschedule the test). If you do not have post-bronchodilator spirometry, the test report must explain why. We can use the results of spirometry administered without bronchodilators when the use of bronchodilators is medically contraindicated.
+b. During testing, if your FEV 1 is less than 70 percent of your predicted normal value, we require repeat spirometry after inhalation of a bronchodilator to evaluate your respiratory disorder under these listings, unless it is medically contraindicated. If you used a bronchodilator before the test and your FEV 1 is less than 70 percent of your predicted normal value, we still require repeat spirometry after inhalation of a bronchodilator unless the supervising physician determines that it is not safe for you to take a bronchodilator again (in which case we may need to reschedule the test). If you do not have post-bronchodilator spirometry, the test report must explain why. We can use the results of spirometry administered without bronchodilators when the use of bronchodilators is medically contraindicated.
 c. Your forced expiratory maneuvers must be satisfactory. We consider a forced expiratory maneuver to be satisfactory when you exhale with maximum effort following a full inspiration, and when the test tracing has a sharp takeoff and rapid rise to peak flow, has a smooth contour, and either lasts for at least 6 seconds or maintains a plateau for at least 1 second.
 3. The spirometry report must include the following information:
 a. The date of the test and your name, age or date of birth, gender, and height without shoes. (We will assume that your recorded height on the date of the test is without shoes, unless we have evidence to the contrary.) If your spine is abnormally curved (for example, you have kyphoscoliosis), we will substitute the longest distance between your outstretched fingertips with your arms abducted 90 degrees in place of your height when this measurement is greater than your standing height without shoes.
@@ -307,41 +307,41 @@ d. At least two acceptable (see 3.00F2) DLCO measurements within 3 mL CO (STPD)/
 4. We may need to purchase a DLCO test to determine whether your disorder meets 3.02C1 when we have evidence showing that you have a chronic respiratory disorder that could result in impaired gas exchange, unless we can make a fully favorable determination or decision on another basis. Since the DLCO calculation requires a current FVC measurement, we may also purchase spirometry at the same time as the DLCO test, even if we already have programmatically acceptable spirometry.
 5. Before we purchase a DLCO test, a medical consultant (see §§ 404.1616 and 416.1016 of this chapter), preferably one with experience in the care of people with respiratory disorders, must review your case record to determine if we need the test. The medical source we designate to administer the test is solely responsible for deciding whether it is safe for you to do the test and for how to administer it.
 G. What is an ABG test, and what are our requirements for an acceptable test and report?
-1. General. An ABG test measures PaO2, PaCO2, and the concentration of hydrogen ions in your arterial blood. We use a resting or an exercise ABG measurement to evaluate your respiratory disorder under 3.02C2.
+1. General. An ABG test measures P a O 2, P a CO 2, and the concentration of hydrogen ions in your arterial blood. We use a resting or an exercise ABG measurement to evaluate your respiratory disorder under 3.02C2.
 2. Resting ABG tests.
 a. We have the following requirements for resting ABG tests under these listings:
 (i) You must be medically stable at the time of the test. See 3.00E2a.
 (ii) The test must be administered while you are breathing room air; that is, without oxygen supplementation.
 b. The resting ABG test report must include the following information:
 (i) Your name, the date of the test, and either the altitude or both the city and State of the test site.
-(ii) The PaO2 and PaCO2 values.
+(ii) The P a O 2 and P a CO 2 values.
 c. We may need to purchase a resting ABG test to determine whether your disorder meets 3.02C2 when we have evidence showing that you have a chronic respiratory disorder that could result in impaired gas exchange, unless we can make a fully favorable determination or decision on another basis.
 d. Before we purchase a resting ABG test, a medical consultant (see §§ 404.1616 and 416.1016 of this chapter), preferably one with experience in the care of people with respiratory disorders, must review your case record to determine if we need the test. The medical source we designate to administer the test is solely responsible for deciding whether it is safe for you to do the test and for how to administer it.
 3. Exercise ABG tests.
 a. We will not purchase an exercise ABG test.
 b. We have the following requirements for exercise ABG tests under these listings:
-(i) You must have done the exercise under steady state conditions while breathing room air. If you were tested on a treadmill, you generally must have exercised for at least 4 minutes at a grade and speed providing oxygen (O2) consumption of approximately 17.5 milliliters per kilogram per minute (mL/kg/min) or 5.0 metabolic equivalents (METs). If you were tested on a cycle ergometer, you generally must have exercised for at least 4 minutes at an exercise equivalent of 5.0 METs.
+(i) You must have done the exercise under steady state conditions while breathing room air. If you were tested on a treadmill, you generally must have exercised for at least 4 minutes at a grade and speed providing oxygen (O 2) consumption of approximately 17.5 milliliters per kilogram per minute (mL/kg/min) or 5.0 metabolic equivalents (METs). If you were tested on a cycle ergometer, you generally must have exercised for at least 4 minutes at an exercise equivalent of 5.0 METs.
 (ii) We may use a test in which you have not exercised for at least 4 minutes. If you were unable to complete at least 4 minutes of steady state exercise, we need a statement by the person administering the test about whether the results are a valid indication of your respiratory status. For example, this statement may include information about your cooperation or effort in doing the test and whether you were limited in completing the test because of your respiratory disorder or another impairment.
 c. The exercise ABG test report must include the following information:
 (i) Your name, the date of the test, and either the altitude or both the city and state of the test site.
-(ii) The PaO2 and PaCO2 values.
+(ii) The P a O 2 and P a CO 2 values.
 H. What is pulse oximetry, and what are our requirements for an acceptable test and report?
-1. Pulse oximetry measures SpO2, the percentage of oxygen saturation of blood hemoglobin. We use a pulse oximetry measurement (either at rest, during a 6MWT, or after a 6MWT) to evaluate your respiratory disorder under 3.02C3 or, if you have CF, to evaluate it under 3.04F.
+1. Pulse oximetry measures S p O 2, the percentage of oxygen saturation of blood hemoglobin. We use a pulse oximetry measurement (either at rest, during a 6MWT, or after a 6MWT) to evaluate your respiratory disorder under 3.02C3 or, if you have CF, to evaluate it under 3.04F.
 2. We have the following requirements for pulse oximetry under 3.02C3:
 a. You must be medically stable at the time of the test. See 3.00E2a.
 b. Your pulse oximetry measurement must be recorded while you are breathing room air; that is, without oxygen supplementation.
-c. Your pulse oximetry measurement must be stable. By "stable," we mean that the range of SpO2 values (that is, lowest to highest) during any 15-second interval cannot exceed 2 percentage points. For example: (1) The measurement is stable if the lowest SpO2 value during a 15-second interval is 87 percent and the highest value is 89 percent—a range of 2 percentage points. (2) The measurement is not stable if the lowest value is 86 percent and the highest value is 89 percent—a range of 3 percentage points.
-d. If you have had more than one measurement (for example, at rest and after a 6MWT), we will use the measurement with the lowest SpO2 value.
+c. Your pulse oximetry measurement must be stable. By "stable," we mean that the range of S p O 2 values (that is, lowest to highest) during any 15-second interval cannot exceed 2 percentage points. For example: (1) The measurement is stable if the lowest S p O 2 value during a 15-second interval is 87 percent and the highest value is 89 percent—a range of 2 percentage points. (2) The measurement is not stable if the lowest value is 86 percent and the highest value is 89 percent—a range of 3 percentage points.
+d. If you have had more than one measurement (for example, at rest and after a 6MWT), we will use the measurement with the lowest S p O 2 value.
 e. The pulse oximetry report must include the following information:
 (i) Your name, the date of the test, and either the altitude or both the city and State of the test site.
-(ii) A graphical printout showing your SpO2 value and a concurrent, acceptable pulse wave. An acceptable pulse wave is one that shows the characteristic pulse wave; that is, sawtooth-shaped with a rapid systolic upstroke (nearly vertical) followed by a slower diastolic downstroke (angled downward).
-f. We may need to purchase pulse oximetry at rest to determine whether your disorder meets 3.02C3 when we have evidence showing that you have a chronic respiratory disorder that could result in impaired gas exchange, unless we can make a fully favorable determination or decision on another basis. We may purchase pulse oximetry during and after a 6MWT if your SpO2 value at rest is greater than the value in Table V.
+(ii) A graphical printout showing your S p O 2 value and a concurrent, acceptable pulse wave. An acceptable pulse wave is one that shows the characteristic pulse wave; that is, sawtooth-shaped with a rapid systolic upstroke (nearly vertical) followed by a slower diastolic downstroke (angled downward).
+f. We may need to purchase pulse oximetry at rest to determine whether your disorder meets 3.02C3 when we have evidence showing that you have a chronic respiratory disorder that could result in impaired gas exchange, unless we can make a fully favorable determination or decision on another basis. We may purchase pulse oximetry during and after a 6MWT if your S p O 2 value at rest is greater than the value in Table V.
 g. Before we purchase pulse oximetry, a medical consultant (see §§ 404.1616 and 416.1016 of this chapter), preferably one with experience in the care of people with respiratory disorders, must review your case record to determine if we need the test. The medical source we designate to administer the test is solely responsible for deciding whether it is safe for you to do the test and for how to administer it.
 3. We have the following requirements for pulse oximetry under 3.04F:
 a. You must be medically stable at the time of the test. See 3.00E2a.
 b. Your pulse oximetry measurement must be recorded while you are breathing room air; that is, without oxygen supplementation.
-c. If you have had more than one measurement (for example, at rest and after a 6MWT), we will use the measurement with the lowest SpO2 value.
-d. The pulse oximetry report must include your name, the date of the test, and either the altitude or both the city and State of the test site. If you have CF, we do not require a graphical printout showing your SpO2 value and a concurrent, acceptable pulse wave.
+c. If you have had more than one measurement (for example, at rest and after a 6MWT), we will use the measurement with the lowest S p O 2 value.
+d. The pulse oximetry report must include your name, the date of the test, and either the altitude or both the city and State of the test site. If you have CF, we do not require a graphical printout showing your S p O 2 value and a concurrent, acceptable pulse wave.
 I. What is asthma and how do we evaluate it?
 1. Asthma is a chronic inflammatory disorder of the lung airways that we evaluate under 3.02 or 3.03. If you have respiratory failure resulting from chronic asthma (see 3.00N), we will evaluate it under 3.14.
 2. For the purposes of 3.03:
@@ -383,9 +383,9 @@ R. How do we evaluate respiratory disorders that do not meet one of these listin
 2. If you have a severe medically determinable impairment(s) that does not meet a listing, we will determine whether your impairment(s) medically equals a listing. See §§ 404.1526 and 416.926 of this chapter. Respiratory disorders may be associated with disorders in other body systems, and we consider the combined effects of multiple impairments when we determine whether they medically equal a listing. If your impairment(s) does not meet or medically equal a listing, you may or may not have the residual functional capacity to engage in substantial gainful activity. We proceed to the fourth step and, if necessary, the fifth step of the sequential evaluation process in §§ 404.1520 and 416.920 of this chapter. We use the rules in §§ 404.1594 and 416.994 of this chapter, as appropriate, when we decide whether you continue to be disabled.
 3.01 Category of Impairments, Respiratory Disorders
 3.02 Chronic respiratory disorders due to any cause except CF (for CF, see 3.04) with A, B, C, or D:
-A. FEV1 (see 3.00E) less than or equal to the value in Table I-A or I-B for your age, gender, and height without shoes (see 3.00E3a).
-Table I—FEV1 Criteria for 3.02A
-Height without shoes(centimeters) < means less than | Height without shoes(inches) < means less than | Table I-A | Age 18 to attainment of age 20 | Females FEV1 less than or equal to(L, BTPS) | Males FEV1 less than or equal to(L, BTPS) | Table I-B | Age 20 or older | Females FEV1 less than or equal to(L, BTPS) | Males FEV1 less than or equal to(L, BTPS)
+A. FEV 1 (see 3.00E) less than or equal to the value in Table I-A or I-B for your age, gender, and height without shoes (see 3.00E3a).
+Table I—FEV 1 Criteria for 3.02A
+Height without shoes (centimeters) < means less than | Height without shoes (inches) < means less than | Table I-A | Age 18 to attainment of age 20 | Females FEV 1 less than or equal to (L, BTPS) | Males FEV 1 less than or equal to (L, BTPS) | Table I-B | Age 20 or older | Females FEV 1 less than or equal to (L, BTPS) | Males FEV 1 less than or equal to (L, BTPS)
 <153.0 | <60.25 | 1.20 | 1.45 | 1.05 | 1.20
 153.0 to <159.0 | 60.25 to <62.50 | 1.30 | 1.55 | 1.15 | 1.35
 159.0 to <164.0 | 62.50 to <64.50 | 1.40 | 1.65 | 1.25 | 1.40
@@ -396,7 +396,7 @@ Height without shoes(centimeters) < means less than | Height without shoes(inche
 185.0 or more | 72.75 or more | 1.80 | 2.15 | 1.70 | 1.90
 OR
 B. FVC (see 3.00E) less than or equal to the value in Table II-A or II-B for your age, gender, and height without shoes (see 3.00E3a).
-Height without shoes(centimeters) < means less than | Height without shoes(inches) < means less than | Table II-A | Age 18 to attainment of age 20 | Females FVC less than or equal to(L, BTPS) | Males FVC less than or equal to(L, BTPS) | Table II-B | Age 20 or older | Females FVC less than or equal to(L, BTPS) | Males FVC less than or equal to(L, BTPS)
+Height without shoes (centimeters) < means less than | Height without shoes (inches) < means less than | Table II-A | Age 18 to attainment of age 20 | Females FVC less than or equal to (L, BTPS) | Males FVC less than or equal to (L, BTPS) | Table II-B | Age 20 or older | Females FVC less than or equal to (L, BTPS) | Males FVC less than or equal to (L, BTPS)
 <153.0 | <60.25 | 1.35 | 1.65 | 1.30 | 1.50
 153.0 to <159.0 | 60.25 to <62.50 | 1.50 | 1.80 | 1.40 | 1.65
 159.0 to <164.0 | 62.50 to <64.50 | 1.60 | 1.90 | 1.50 | 1.75
@@ -409,7 +409,7 @@ OR
 C. Chronic impairment of gas exchange demonstrated by 1, 2, or 3:
 1. Average of two unadjusted, single-breath DLCO measurements (see 3.00F) less than or equal to the value in Table III for your gender and height without shoes (see 3.00F3a); or
 Table III—DLCO Criteria for 3.02C1
-Height without shoes(centimeters) < means less than | Height without shoes(inches) < means less than | Females DLCO less than or equal to(mL CO (STPD)/min/mmHg) | Males DLCO less than or equal to(mL CO (STPD)/min/mmHg)
+Height without shoes (centimeters) < means less than | Height without shoes (inches) < means less than | Females DLCO less than or equal to (mL CO (STPD)/min/mmHg) | Males DLCO less than or equal to (mL CO (STPD)/min/mmHg)
 <153.0 | < 60.25 | 8.0 | 9.0
 153.0 to <159.0 | 60.25 to <62.50 | 8.5 | 9.5
 159.0 to <164.0 | 62.50 to <64.50 | 9.0 | 10.0
@@ -418,11 +418,11 @@ Height without shoes(centimeters) < means less than | Height without shoes(inche
 174.0 to <180.0 | 68.50 to <70.75 | 10.5 | 11.5
 180.0 to <185.0 | 70.75 to <72.75 | 11.0 | 12.0
 185.0 or more | 72.75 or more | 11.5 | 12.5
-2. Arterial PaO2 and PaCO2 measured concurrently by an ABG test, while at rest or during steady state exercise, breathing room air (see 3.00G3b), less than or equal to the applicable values in Table IV-A, IV-B, or IV-C; or
+2. Arterial P a O 2 and P a CO 2 measured concurrently by an ABG test, while at rest or during steady state exercise, breathing room air (see 3.00G3b), less than or equal to the applicable values in Table IV-A, IV-B, or IV-C; or
 Tables IV-A, IV-B, and IV-C—ABG Criteria for 3.02C2
 Table IV-A
 [Applicable at test sites less than 3,000 feet above sea level]
-Arterial PaCO2 (mm Hg) and | Arterial PaO2 less than or equal to(mm Hg)
+Arterial P a CO 2 (mm Hg) and | Arterial P a O 2 less than or equal to (mm Hg)
 30 or below | 65
 31 | 64
 32 | 63
@@ -436,7 +436,7 @@ Arterial PaCO2 (mm Hg) and | Arterial PaO2 less than or equal to(mm Hg)
 40 or above | 55
 Table IV-B
 [Applicable at test sites from 3,000 through 6,000 feet above sea level]
-Arterial PaCO2 (mm Hg) and | Arterial PaO2 less than or equal to(mm Hg)
+Arterial P a CO 2 (mm Hg) and | Arterial P a O 2 less than or equal to (mm Hg)
 30 or below | 60
 31 | 59
 32 | 58
@@ -450,7 +450,7 @@ Arterial PaCO2 (mm Hg) and | Arterial PaO2 less than or equal to(mm Hg)
 40 or above | 50
 Table IV-C
 [Applicable at test sites over 6,000 feet above sea level]
-Arterial PaCO2 (mm Hg) and | Arterial PaO2 less than or equal to(mm Hg)
+Arterial P a CO 2 (mm Hg) and | Arterial P a O 2 less than or equal to (mm Hg)
 30 or below | 55
 31 | 54
 32 | 53
@@ -462,18 +462,18 @@ Arterial PaCO2 (mm Hg) and | Arterial PaO2 less than or equal to(mm Hg)
 38 | 47
 39 | 46
 40 or above | 45
-3. SpO2 measured by pulse oximetry (see 3.00H2) either at rest, during a 6MWT, or after a 6MWT, less than or equal to the value in Table V.
-Table V—SpO2 Criteria for 3.02C3
-Test site altitude(feet above sea level) | SpO2 less than or equal to
+3. S p O 2 measured by pulse oximetry (see 3.00H2) either at rest, during a 6MWT, or after a 6MWT, less than or equal to the value in Table V.
+Table V—S p O 2 Criteria for 3.02C3
+Test site altitude (feet above sea level) | S p O 2 less than or equal to
 Less than 3,000 | 87 percent.
 3,000 through 6,000 | 85 percent.
 Over 6,000 | 83 percent.
 OR
 D. Exacerbations or complications requiring three hospitalizations within a 12-month period and at least 30 days apart (the 12-month period must occur within the period we are considering in connection with your application or continuing disability review). Each hospitalization must last at least 48 hours, including hours in a hospital emergency department immediately before the hospitalization.
 3.03 Asthma (see 3.00I), with both A and B:
-A. FEV1 (see 3.00E1) less than or equal to the value in Table VI-A or VI-B for your age, gender, and height without shoes (see 3.00E3a) measured within the same 12-month period as the hospitalizations in 3.03B.
-Table VI—FEV1 Criteria for 3.03A
-Height without shoes(centimeters) < means less than | Height without shoes(inches) < means less than | Table VI-A | Age 18 to attainment of age 20 | Females FEV1 less than or equal to (L, BTPS) | MalesFEV1 less than or equal to (L, BTPS) | Table VI-B | Age 20 or older | Females FEV1 less than or equal to (L, BTPS) | MalesFEV1 less than or equal to (L, BTPS)
+A. FEV 1 (see 3.00E1) less than or equal to the value in Table VI-A or VI-B for your age, gender, and height without shoes (see 3.00E3a) measured within the same 12-month period as the hospitalizations in 3.03B.
+Table VI—FEV 1 Criteria for 3.03A
+Height without shoes (centimeters) < means less than | Height without shoes (inches) < means less than | Table VI-A | Age 18 to attainment of age 20 | Females FEV 1 less than or equal to (L, BTPS) | Males FEV 1 less than or equal to (L, BTPS) | Table VI-B | Age 20 or older | Females FEV 1 less than or equal to (L, BTPS) | Males FEV 1 less than or equal to (L, BTPS)
 <153.0 | <60.25 | 1.65 | 1.90 | 1.45 | 1.60
 153.0 to <159.0 | 60.25 to <62.50 | 1.75 | 2.05 | 1.55 | 1.75
 159.0 to <164.0 | 62.50 to <64.50 | 1.85 | 2.15 | 1.65 | 1.90
@@ -485,9 +485,9 @@ Height without shoes(centimeters) < means less than | Height without shoes(inche
 AND
 B. Exacerbations or complications requiring three hospitalizations within a 12-month period and at least 30 days apart (the 12-month period must occur within the period we are considering in connection with your application or continuing disability review). Each hospitalization must last at least 48 hours, including hours in a hospital emergency department immediately before the hospitalization. Consider under a disability for 1 year from the discharge date of the last hospitalization; after that, evaluate the residual impairment(s) under 3.03 or another appropriate listing.
 3.04 Cystic fibrosis (documented as described in 3.00J2) with A, B, C, D, E, F, or G:
-A. FEV1 (see 3.00E) less than or equal to the value in Table VII-A or VII-B for your age, gender, and height without shoes (see 3.00E3a).
-Table VII—FEV1 Criteria for 3.04A
-Height without shoes(centimeters) < means less than | Height without shoes(inches) < means less than | Table VII-A | Age 18 to attainment of age 20 | FemalesFEV1 less than or equal to (L, BTPS) | MalesFEV1 less than or equal to (L, BTPS) | Table VII-B | Age 20 or older | FemalesFEV1 less than or equal to (L, BTPS) | MalesFEV1 less than or equal to (L, BTPS)
+A. FEV 1 (see 3.00E) less than or equal to the value in Table VII-A or VII-B for your age, gender, and height without shoes (see 3.00E3a).
+Table VII—FEV 1 Criteria for 3.04A
+Height without shoes (centimeters) < means less than | Height without shoes (inches) < means less than | Table VII-A | Age 18 to attainment of age 20 | Females FEV 1 less than or equal to (L, BTPS) | Males FEV 1 less than or equal to (L, BTPS) | Table VII-B | Age 20 or older | Females FEV 1 less than or equal to (L, BTPS) | Males FEV 1 less than or equal to (L, BTPS)
 <153.0 | <60.25 | 1.65 | 1.90 | 1.45 | 1.60
 153.0 to <159.0 | 60.25 to <62.50 | 1.75 | 2.05 | 1.55 | 1.75
 159.0 to <164.0 | 62.50 to <64.50 | 1.85 | 2.15 | 1.65 | 1.90
@@ -505,9 +505,9 @@ D. Respiratory failure (see 3.00N) requiring invasive mechanical ventilation, no
 OR
 E. Pulmonary hemorrhage requiring vascular embolization to control bleeding.
 OR
-F. SpO2 measured by pulse oximetry (see 3.00H3) either at rest, during a 6MWT, or after a 6MWT, less than or equal to the value in Table VIII, twice within a 12-month period and at least 30 days apart (the 12-month period must occur within the period we are considering in connection with your application or continuing disability review).
-Tables VIII—SpO2 Criteria for 3.04F
-Test site altitude(feet above sea level) | SpO2 less than or equal to
+F. S p O 2 measured by pulse oximetry (see 3.00H3) either at rest, during a 6MWT, or after a 6MWT, less than or equal to the value in Table VIII, twice within a 12-month period and at least 30 days apart (the 12-month period must occur within the period we are considering in connection with your application or continuing disability review).
+Tables VIII—S p O 2 Criteria for 3.04F
+Test site altitude (feet above sea level) | S p O 2 less than or equal to
 Less than 3,000 | 89 percent.
 3,000 through 6,000 | 87 percent.
 Over 6,000 | 85 percent.
@@ -580,7 +580,7 @@ b. We include exercise tolerance test (ETT) criteria in 4.02B3 (chronic heart fa
 c. In 4.12B, we also refer to exercise testing for peripheral vascular disease. In this test, you walk on a treadmill, usually for a specified period of time, and the individual who administers the test measures the effect of exercise on the flow of blood in your legs, usually by using ultrasound. The test is also called an exercise Doppler test. Even though this test is intended to evaluate peripheral vascular disease, it will be stopped for your safety if you develop abnormal signs or symptoms because of heart disease.
 d. Each type of test is done in a certain way following specific criteria, called a protocol. For our program, we also specify certain aspects of how any exercise test we purchase is to be done. See 4.00C10 and 4.00C17.
 4. Do ETTs have limitations? An ETT provides an estimate of aerobic capacity for walking on a grade, bicycling, or moving one's arms in an environmentally controlled setting. Therefore, ETT results do not correlate with the ability to perform other types of exertional activities, such as lifting and carrying heavy loads, and do not provide an estimate of the ability to perform activities required for work in all possible work environments or throughout a workday. Also, certain medications (such as beta blockers) and conduction disorders (such as left or right bundle branch blocks) can cause false-negative or false-positive results. Therefore, we must consider the results of an ETT together with all the other relevant evidence in your case record.
-5. How does an ETT with measurement of maximal or peak oxygen uptake VO 2) differ from other ETTs? Occasionally, medical evidence will include the results of an ETT with VO2 While ETTs without measurement of VO2 provide only an estimate of aerobic capacity, measured maximal or peak oxygen uptake provides an accurate measurement of aerobic capacity, which is often expressed in METs (metabolic equivalents). The MET level may not be indicated in the report of attained maximal or peak VO2 testing, but can be calculated as follows: 1 MET = 3.5 milliliters (ml) of oxygen uptake per kilogram (kg) of body weight per minute. For example, a 70 kg (154 lb.) individual who achieves a maximal or peak VO2 of 1225 ml in 1 minute has attained 5 METs (1225 ml/70 kg/1 min = 17.5 ml/kg/min. 17.5/3.5 = 5 METs).
+5. How does an ETT with measurement of maximal or peak oxygen uptake VO 2) differ from other ETTs? Occasionally, medical evidence will include the results of an ETT with VO 2 While ETTs without measurement of VO 2 provide only an estimate of aerobic capacity, measured maximal or peak oxygen uptake provides an accurate measurement of aerobic capacity, which is often expressed in METs (metabolic equivalents). The MET level may not be indicated in the report of attained maximal or peak VO 2 testing, but can be calculated as follows: 1 MET = 3.5 milliliters (ml) of oxygen uptake per kilogram (kg) of body weight per minute. For example, a 70 kg (154 lb.) individual who achieves a maximal or peak VO 2 of 1225 ml in 1 minute has attained 5 METs (1225 ml/70 kg/1 min = 17.5 ml/kg/min. 17.5/3.5 = 5 METs).
 6. When will we consider whether to purchase an exercise test?
 a. We will consider whether to purchase an exercise test when:
 (i) There is a question whether your cardiovascular impairment meets or medically equals the severity of one of the listings, or there is no timely test in the evidence we have (see 4.00C9), and we cannot find you disabled on some other basis; or
@@ -767,9 +767,9 @@ e. 70 percent or more narrowing of a bypass graft vessel; and
 4.06 Symptomatic congenital heart disease (cyanotic or acyanotic), documented by appropriate medically acceptable imaging (see 4.00A3d) or cardiac catheterization, with one of the following:
 A. Cyanosis at rest, and:
 1. Hematocrit of 55 percent or greater; or
-2. Arterial O2 saturation of less than 90 percent in room air, or resting arterial PO2 of 60 Torr or less.
+2. Arterial O 2 saturation of less than 90 percent in room air, or resting arterial PO 2 of 60 Torr or less.
 OR
-B. Intermittent right-to-left shunting resulting in cyanosis on exertion (e.g., Eisenmenger's physiology) and with arterial PO2 of 60 Torr or less at a workload equivalent to 5 METs or less.
+B. Intermittent right-to-left shunting resulting in cyanosis on exertion (e.g., Eisenmenger's physiology) and with arterial PO 2 of 60 Torr or less at a workload equivalent to 5 METs or less.
 OR
 C. Secondary pulmonary vascular obstructive disease with pulmonary arterial systolic pressure elevated to at least 70 percent of the systemic arterial systolic pressure.
 4.09 Heart transplant. Consider under a disability for 1 year following surgery; thereafter, evaluate residual impairment under the appropriate listing.
@@ -821,7 +821,7 @@ c. Chronic hepatitis C virus (HCV) infection.
 d. Extrahepatic manifestations of HBV and HCV. In addition to their hepatic manifestations, both HBV and HCV may have significant extrahepatic manifestations in a variety of body systems. These include, but are not limited to: Keratoconjunctivitis (sicca syndrome), glomerulonephritis, skin disorders (for example, lichen planus, porphyria cutanea tarda), neuropathy, and immune dysfunction (for example, cryoglobulinemia, Sjögren's syndrome, and vasculitis). The extrahepatic manifestations of HBV and HCV may not correlate with the severity of your hepatic impairment. If your impairment(s) does not meet or medically equal a listing in an affected body system(s), we will consider the effects of your extrahepatic manifestations when we assess your residual functional capacity.
 5. Gastrointestinal hemorrhage (5.02 and 5.05A). Gastrointestinal hemorrhaging can result in hematemesis (vomiting of blood), melena (tarry stools), or hematochezia (bloody stools). Under 5.02, the required transfusions of at least 2 units of blood must be at least 30 days apart and occur at least three times during a consecutive 6-month period. Under 5.05A, hemodynamic instability is diagnosed with signs such as pallor (pale skin), diaphoresis (profuse perspiration), rapid pulse, low blood pressure, postural hypotension (pronounced fall in blood pressure when arising to an upright position from lying down) or syncope (fainting). Hemorrhaging that results in hemodynamic instability is potentially life-threatening and therefore requires hospitalization for transfusion and supportive care. Under 5.05A, we require only one hospitalization for transfusion of at least 2 units of blood.
 6. Ascites or hydrothorax (5.05B) indicates significant loss of liver function due to chronic liver disease. We evaluate ascites or hydrothorax that is not attributable to other causes under 5.05B. The required findings must be present on at least two evaluations at least 60 days apart within a consecutive 6-month period and despite continuing treatment as prescribed.
-7. Spontaneous bacterial peritonitis (5.05C) is an infectious complication of chronic liver disease. It is diagnosed by ascitic peritoneal fluid that is documented to contain an absolute neutrophil count of at least 250 cells/mm3. The required finding in 5.05C is satisfied with one evaluation documenting peritoneal fluid infection. We do not evaluate other causes of peritonitis that are unrelated to chronic liver disease, such as tuberculosis, malignancy, and perforated bowel, under this listing. We evaluate these other causes of peritonitis under the appropriate body system listings.
+7. Spontaneous bacterial peritonitis (5.05C) is an infectious complication of chronic liver disease. It is diagnosed by ascitic peritoneal fluid that is documented to contain an absolute neutrophil count of at least 250 cells/mm 3. The required finding in 5.05C is satisfied with one evaluation documenting peritoneal fluid infection. We do not evaluate other causes of peritonitis that are unrelated to chronic liver disease, such as tuberculosis, malignancy, and perforated bowel, under this listing. We evaluate these other causes of peritonitis under the appropriate body system listings.
 8. Hepatorenal syndrome (5.05D) is defined as functional renal failure associated with chronic liver disease in the absence of underlying kidney pathology. Hepatorenal syndrome is documented by elevation of serum creatinine, marked sodium retention, and oliguria (reduced urine output). The requirements of 5.05D are satisfied with documentation of any one of the three laboratory findings on one evaluation. We do not evaluate known causes of renal dysfunction, such as glomerulonephritis, tubular necrosis, drug-induced renal disease, and renal infections, under this listing. We evaluate these other renal impairments under 6.00ff.
 9. Hepatopulmonary syndrome (5.05E) is defined as arterial deoxygenation (hypoxemia) that is associated with chronic liver disease due to intrapulmonary arteriovenous shunting and vasodilatation in the absence of other causes of arterial deoxygenation. Clinical manifestations usually include dyspnea, orthodeoxia (increasing hypoxemia with erect position), platypnea (improvement of dyspnea with flat position), cyanosis, and clubbing. The requirements of 5.05E are satisfied with documentation of any one of the findings on one evaluation. In 5.05E1, we require documentation of the altitude of the testing facility because altitude affects the measurement of arterial oxygenation. We will not purchase the specialized studies described in 5.05E2; however, if you have had these studies at a time relevant to your claim, we will make every reasonable effort to obtain the reports for the purpose of establishing whether your impairment meets 5.05E2.
 10. Hepatic encephalopathy (5.05F).
@@ -830,14 +830,14 @@ b. Acute encephalopathy. We will not evaluate your acute encephalopathy under 5.
 11. End stage liver disease (ESLD) documented by scores from the SSA Chronic Liver Disease (SSA CLD) calculation (5.05G).
 a. We will use the SSA CLD score to evaluate your ESLD under 5.05G. We explain how we calculate the SSA CLD score in b. through g. of this section.
 b. To calculate the SSA CLD score, we use a formula that includes three laboratory values: Serum total bilirubin (mg/dL), serum creatinine (mg/dL), and International Normalized Ratio (INR). The formula for the SSA CLD score calculation is:
-9.57 × [Loge(serum creatinine mg/dL)]
-+ 3.78 × [Loge(serum total bilirubin mg/dL)]
-+ 11.2 × [Loge(INR)]
+9.57 × [Log e (serum creatinine mg/dL)]
++ 3.78 × [Log e (serum total bilirubin mg/dL)]
++ 11.2 × [Log e (INR)]
 + 6.43
-c. When we indicate "Loge" in the formula for the SSA CLD score calculation, we mean the "base e logarithm" or "natural logarithm" (ln) of a numerical laboratory value, not the "base 10 logarithm" or "common logarithm" (log) of the laboratory value, and not the actual laboratory value. For example, if an individual has laboratory values of serum creatinine 1.2 mg/dL, serum total bilirubin 2.2 mg/dL, and INR 1.0, we would compute the SSA CLD score as follows:
-9.57 × [Loge(serum creatinine 1.2 mg/dL) = 0.182]
-+ 3.78 × [Loge(serum total bilirubin 2.2 mg/dL) = 0.788]
-+ 11.2 × [Loge(INR 1.0) = 0]
+c. When we indicate "Log e" in the formula for the SSA CLD score calculation, we mean the "base e logarithm" or "natural logarithm" (ln) of a numerical laboratory value, not the "base 10 logarithm" or "common logarithm" (log) of the laboratory value, and not the actual laboratory value. For example, if an individual has laboratory values of serum creatinine 1.2 mg/dL, serum total bilirubin 2.2 mg/dL, and INR 1.0, we would compute the SSA CLD score as follows:
+9.57 × [Log e (serum creatinine 1.2 mg/dL) = 0.182]
++ 3.78 × [Log e (serum total bilirubin 2.2 mg/dL) = 0.788]
++ 11.2 × [Log e (INR 1.0) = 0]
 + 6.43
 ___
 = 1.74 + 2.98 + 0 + 6.43
@@ -880,7 +880,7 @@ B. Ascites or hydrothorax not attributable to other causes, despite continuing t
 a. Serum albumin of 3.0 g/dL or less; or
 b. International Normalized Ratio (INR) of at least 1.5.
 OR
-C. Spontaneous bacterial peritonitis with peritoneal fluid containing an absolute neutrophil count of at least 250 cells/mm3.
+C. Spontaneous bacterial peritonitis with peritoneal fluid containing an absolute neutrophil count of at least 250 cells/mm 3.
 OR
 D. Hepatorenal syndrome as described in 5.00D8, with one of the following:
 1. Serum creatinine elevation of at least 2 mg/dL; or
@@ -888,7 +888,7 @@ D. Hepatorenal syndrome as described in 5.00D8, with one of the following:
 3. Sodium retention with urine sodium less than 10 mEq per liter.
 OR
 E. Hepatopulmonary syndrome as described in 5.00D9, with:
-1. Arterial oxygenation (PaO2) on room air of:
+1. Arterial oxygenation (P a O 2) on room air of:
 a. 60 mm Hg or less, at test sites less than 3000 feet above sea level, or
 b. 55 mm Hg or less, at test sites from 3000 to 6000 feet, or
 c. 50 mm Hg or less, at test sites above 6000 feet; or
@@ -947,7 +947,7 @@ D. How do we evaluate disorders that do not meet one of the genitourinary listin
 A. Reduced glomerular filtration evidenced by one of the following laboratory findings documented on at least two occasions at least 90 days apart during a consecutive 12-month period:
 1. Serum creatinine of 4 mg/dL or greater; or
 2. Creatinine clearance of 20 ml/min. or less; or
-3. Estimated glomerular filtration rate (eGFR) of 20 ml/min/1.73m2 or less.
+3. Estimated glomerular filtration rate (eGFR) of 20 ml/min/1.73m 2 or less.
 AND
 B. One of the following:
 1. Renal osteodystrophy (see 6.00C3) with severe bone pain and imaging studies documenting bone abnormalities, such as osteitis fibrosa, osteomalacia, or pathologic fractures; or
@@ -1726,7 +1726,7 @@ c. We consider Hodgkin lymphoma that recurs more than 12 months after completing
 a. Acute leukemia. The initial diagnosis of acute leukemia, including the accelerated or blast phase of chronic myelogenous (granulocytic) leukemia, is based on definitive bone marrow examination. Additional diagnostic information is based on chromosomal analysis, cytochemical and surface marker studies on the abnormal cells, or other methods consistent with the prevailing state of medical knowledge and clinical practice. Recurrent disease must be documented by peripheral blood, bone marrow, or cerebrospinal fluid examination, or by testicular biopsy. The initial and follow-up pathology reports should be included.
 b. Chronic myelogenous leukemia (CML). We need a diagnosis of CML based on documented granulocytosis, including immature forms such as differentiated or undifferentiated myelocytes and myeloblasts, and a chromosomal analysis that demonstrates the Philadelphia chromosome. In the absence of a chromosomal analysis, or if the Philadelphia chromosome is not present, the diagnosis may be made by other methods consistent with the prevailing state of medical knowledge and clinical practice. The requirement for CML in the accelerated or blast phase is met in 13.06B if laboratory findings show the proportion of blast (immature) cells in the peripheral blood or bone marrow is 10 percent or greater.
 c. Chronic lymphocytic leukemia.
-i. We require the diagnosis of chronic lymphocytic leukemia (CLL) to be documented by evidence of a chronic lymphocytosis of at least 10,000 cells/mm3 for 3 months or longer, or other acceptable diagnostic techniques consistent with the prevailing state of medical knowledge and clinical practice.
+i. We require the diagnosis of chronic lymphocytic leukemia (CLL) to be documented by evidence of a chronic lymphocytosis of at least 10,000 cells/mm 3 for 3 months or longer, or other acceptable diagnostic techniques consistent with the prevailing state of medical knowledge and clinical practice.
 ii. We evaluate the complications and residual impairment(s) from CLL under the appropriate listings, such as 13.05A2 or the hematological listings (7.00).
 d. Elevated white cell count. In cases of chronic leukemia (either myelogenous or lymphocytic), an elevated white cell count, in itself, is not a factor in determining the severity of the impairment.
 3. Macroglobulinemia or heavy chain disease. We require the diagnosis of these diseases to be confirmed by protein electrophoresis or immunoelectrophoresis. We evaluate the resulting impairment(s) under the appropriate listings, such as 13.05A2 or the hematological listings (7.00).
@@ -1792,7 +1792,7 @@ b. Progressive disease following initial anticancer therapy.
 A. Failure to respond or progressive disease following initial anticancer therapy.
 OR
 B. With bone marrow or stem cell transplantation. Consider under a disability until at least 12 months from the date of transplantation. Thereafter, evaluate any residual impairment(s) under the criteria for the affected body system.
-13.08 Salivary glands—carcinoma or sarcoma with metastases beyond the regional lymph nodes.
+13.08 Salivary glands —carcinoma or sarcoma with metastases beyond the regional lymph nodes.
 13.09 Thyroid gland.
 A. Anaplastic (undifferentiated) carcinoma.
 OR
@@ -1809,7 +1809,7 @@ OR
 D. Small-cell (oat cell) carcinoma.
 OR
 E. With secondary lymphedema that is caused by anticancer therapy and treated by surgery to salvage or restore the functioning of an upper extremity. (See 13.00K4b.) Consider under a disability until at least 12 months from the date of the surgery that treated the secondary lymphedema. Thereafter, evaluate any residual impairment(s) under the criteria for the affected body system.
-13.11 Skeletal system—sarcoma.
+13.11 Skeletal system —sarcoma.
 A. Inoperable or unresectable.
 OR
 B. Recurrent cancer (except local recurrence) after initial anticancer therapy.
@@ -1856,7 +1856,7 @@ B. Carcinoma or sarcoma of the stomach, as described in 1 or 2:
 2. With metastases to or beyond the regional lymph nodes.
 OR
 C. Small-cell (oat cell) carcinoma.
-13.17 Small intestine—carcinoma, sarcoma, or carcinoid.
+13.17 Small intestine —carcinoma, sarcoma, or carcinoid.
 A. Inoperable, unresectable, or recurrent.
 OR
 B. With metastases beyond the regional lymph nodes.
@@ -1870,16 +1870,16 @@ OR
 C. With metastases beyond the regional lymph nodes.
 OR
 D. Small-cell (oat cell) carcinoma.
-13.19 Liver or gallbladder—cancer of the liver, gallbladder, or bile ducts.
+13.19 Liver or gallbladder —cancer of the liver, gallbladder, or bile ducts.
 13.20 Pancreas.
 A. Carcinoma (except islet cell carcinoma).
 OR
 B. Islet cell carcinoma that is physiologically active and is either inoperable or unresectable.
-13.21 Kidneys, adrenal glands, or ureters—carcinoma.
+13.21 Kidneys, adrenal glands, or ureters —carcinoma.
 A. Inoperable, unresectable, or recurrent.
 OR
 B. With metastases to or beyond the regional lymph nodes.
-13.22 Urinary bladder—carcinoma.
+13.22 Urinary bladder —carcinoma.
 A. With infiltration beyond the bladder wall.
 OR
 B. Recurrent after total cystectomy.
@@ -1889,7 +1889,7 @@ OR
 D. With metastases to or beyond the regional lymph nodes.
 OR
 E. Small-cell (oat cell) carcinoma.
-13.23 Cancers of the female genital tract—carcinoma or sarcoma (including primary peritoneal carcinoma).
+13.23 Cancers of the female genital tract —carcinoma or sarcoma (including primary peritoneal carcinoma).
 A. Uterus (corpus), as described in 1, 2, or 3:
 1. Invading adjoining organs.
 2. With metastases to or beyond the regional lymph nodes.
@@ -1916,15 +1916,15 @@ c. Recurrent following initial anticancer therapy.
 2. Germ-cell cancers—progressive or recurrent following initial anticancer therapy.
 OR
 F. Small-cell (oat cell) carcinoma.
-13.24 Prostate gland—carcinoma.
+13.24 Prostate gland —carcinoma.
 A. Progressive or recurrent (not including biochemical recurrence) despite initial hormonal intervention. (See 13.00K8.)
 OR
 B. With visceral metastases (metastases to internal organs).
 OR
 C. Small cell (oat cell) carcinoma.
-13.25 Testicles—cancer with metastatic disease progressive or recurrent following initial chemotherapy.
-13.26 Penis—carcinoma with metastases to or beyond the regional lymph nodes.
-13.27 Primary site unknown after appropriate search for primary—metastatic carcinoma or sarcoma, except for squamous cell carcinoma confined to the neck nodes.
+13.25 Testicles —cancer with metastatic disease progressive or recurrent following initial chemotherapy.
+13.26 Penis —carcinoma with metastases to or beyond the regional lymph nodes.
+13.27 Primary site unknown after appropriate search for primary —metastatic carcinoma or sarcoma, except for squamous cell carcinoma confined to the neck nodes.
 13.28 Cancer treated by bone marrow or stem cell transplantation. (See 13.00L.)
 A. Allogeneic transplantation. Consider under a disability until at least 12 months from the date of transplantation. Thereafter, evaluate any residual impairment(s) under the criteria for the affected body system.
 OR
@@ -2212,9 +2212,9 @@ D. Progressive multifocal leukoencephalopathy (see 14.00F3d).
 OR
 E. Pulmonary Kaposi sarcoma (see 14.00F3e).
 OR
-F. Absolute CD4 count of 50 cells/mm3 or less (see 14.00F4).
+F. Absolute CD4 count of 50 cells/mm 3 or less (see 14.00F4).
 OR
-G. Absolute CD4 count of less than 200 cells/mm3 or CD4 percentage of less than 14 percent, and one of the following (values do not have to be measured on the same date) (see 14.00F5):
+G. Absolute CD4 count of less than 200 cells/mm 3 or CD4 percentage of less than 14 percent, and one of the following (values do not have to be measured on the same date) (see 14.00F5):
 1. BMI measurement of less than 18.5; or
 2. Hemoglobin measurement of less than 8.0 grams per deciliter (g/dL).
 OR
@@ -2265,7 +2265,7 @@ D. How do we evaluate disorders that do not meet one of these listings?
 A. Birth weight (see 100.00B) of less than 1200 grams.
 OR
 B. The following gestational age and birth weight:
-Gestational age(in weeks) | Birth weight
+Gestational age (in weeks) | Birth weight
 37-40 | 2000 grams or less.
 36 | 1875 grams or less.
 35 | 1700 grams or less.
@@ -2380,15 +2380,15 @@ e. VER testing measures your response to visual events and can often detect dysf
 6. How do we measure your visual fields?
 a. General. We generally need visual field testing when you have a visual disorder that could result in visual field loss, such as glaucoma, retinitis pigmentosa, or optic neuropathy, or when you display behaviors that suggest a visual field loss. When we need to measure the extent of your visual field loss, we use visual field testing (also referred to as perimetry) carried out using automated static threshold perimetry performed on an acceptable perimeter. (For perimeter requirements, see 102.00A9.)
 b. Automated static threshold perimetry requirements.
-(i) The test must use a white size III Goldmann stimulus and a 31.5 apostilb (asb) white background (or a 10 candela per square meter (cd/m2) white background). The stimuli test locations must be no more than 6 degrees apart horizontally or vertically. Measurements must be reported on standard charts and include a description of the size and intensity of the test stimulus.
-(ii) We measure the extent of your visual field loss by determining the portion of the visual field in which you can see a white III4e stimulus. The "III" refers to the standard Goldmann test stimulus size III (4 mm2), and the "4e" refers to the standard Goldmann intensity filter (0 decibel (dB) attenuation, which allows presentation of the maximum luminance) used to determine the intensity of the stimulus.
+(i) The test must use a white size III Goldmann stimulus and a 31.5 apostilb (asb) white background (or a 10 candela per square meter (cd/m 2) white background). The stimuli test locations must be no more than 6 degrees apart horizontally or vertically. Measurements must be reported on standard charts and include a description of the size and intensity of the test stimulus.
+(ii) We measure the extent of your visual field loss by determining the portion of the visual field in which you can see a white III4e stimulus. The "III" refers to the standard Goldmann test stimulus size III (4 mm 2), and the "4e" refers to the standard Goldmann intensity filter (0 decibel (dB) attenuation, which allows presentation of the maximum luminance) used to determine the intensity of the stimulus.
 (iii) In automated static threshold perimetry, the intensity of the stimulus varies. The intensity of the stimulus is expressed in decibels (dB). A perimeter's maximum stimulus luminance is usually assigned the value 0 dB. We need to determine the dB level that corresponds to a 4e intensity for the particular perimeter being used. We will then use the dB printout to determine which points you see at a 4e intensity level (a "seeing point"). For example:
 A. When the maximum stimulus luminance (0 dB stimulus) on an acceptable perimeter is 10,000 asb, a 10 dB stimulus is equivalent to a 4e stimulus. Any point you see at 10 dB or greater is a seeing point.
 B. When the maximum stimulus luminance (0 dB stimulus) on an acceptable perimeter is 4,000 asb, a 6 dB stimulus is equivalent to a 4e stimulus. Any point you see at 6 dB or greater is a seeing point.
 C. When the maximum stimulus luminance (0 dB stimulus) on an acceptable perimeter is 1,000 asb, a 0 dB stimulus is equivalent to a 4e stimulus. Any point you see at 0 dB or greater is a seeing point.
 c. Evaluation under 102.03A. To determine statutory blindness based on visual field loss in your better eye (102.03A), we need the results of a visual field test that measures the central 24 to 30 degrees of your visual field; that is, the area measuring 24 to 30 degrees from the point of fixation. Acceptable tests include the Humphrey Field Analyzer (HFA) 30-2, HFA 24-2, and Octopus 32.
 d. Evaluation under 102.03B. To determine whether your visual field loss meets listing 102.03B, we use the mean deviation or defect (MD) from acceptable automated static threshold perimetry that measures the central 30 degrees of the visual field. MD is the average sensitivity deviation from normal values for all measured visual field locations. When using results from HFA tests, which report the MD as a negative number, we use the absolute value of the MD to determine whether your visual field loss meets listing 102.03B. We cannot use tests that do not measure the central 30 degrees of the visual field, such as the HFA 24-2, to determine if your impairment meets or medically equals 102.03B.
-e. Other types of perimetry. If your case record contains visual field measurements obtained using manual or automated kinetic perimetry, such as Goldmann perimetry or the HFA "SSA Test Kinetic," we can generally use these results if the kinetic test was performed using a white III4e stimulus projected on a white 31.5 asb (10 cd/m2) background. Automated kinetic perimetry, such as the HFA "SSA Test Kinetic," does not detect limitations in the central visual field because testing along a meridian stops when you see the stimulus. If your visual disorder has progressed to the point at which it is likely to result in a significant limitation in the central visual field, such as a scotoma (see 102.00A6h), we will not use automated kinetic perimetry to determine the extent of your visual field loss. Instead, we will determine the extent of your visual field loss using automated static threshold perimetry or manual kinetic perimetry.
+e. Other types of perimetry. If your case record contains visual field measurements obtained using manual or automated kinetic perimetry, such as Goldmann perimetry or the HFA "SSA Test Kinetic," we can generally use these results if the kinetic test was performed using a white III4e stimulus projected on a white 31.5 asb (10 cd/m 2) background. Automated kinetic perimetry, such as the HFA "SSA Test Kinetic," does not detect limitations in the central visual field because testing along a meridian stops when you see the stimulus. If your visual disorder has progressed to the point at which it is likely to result in a significant limitation in the central visual field, such as a scotoma (see 102.00A6h), we will not use automated kinetic perimetry to determine the extent of your visual field loss. Instead, we will determine the extent of your visual field loss using automated static threshold perimetry or manual kinetic perimetry.
 f. Screening tests. We will not use the results of visual field screening tests, such as confrontation tests, tangent screen tests, or automated static screening tests, to determine that your impairment meets or medically equals a listing, or functionally equals the listings. We can consider normal results from visual field screening tests to determine whether your visual disorder is severe when these test results are consistent with the other evidence in your case record. (See § 416.924(c) of this chapter.) We will not consider normal test results to be consistent with the other evidence if the clinical findings indicate that your visual disorder has progressed to the point that it is likely to cause visual field loss, or you have a history of an operative procedure for retinal detachment.
 g. Use of corrective lenses. You must not wear eyeglasses during visual field testing because they limit your field of vision. You may wear contact lenses to correct your visual acuity during the visual field test to obtain the most accurate visual field measurements. For this single purpose, you do not need to demonstrate that you have the ability to use the contact lenses on a sustained basis.
 h. Scotoma. A scotoma is a field defect or non-seeing area (also referred to as a "blind spot") in the visual field surrounded by a normal field or seeing area. When we measure your visual field, we subtract the length of any scotoma, other than the normal blind spot, from the overall length of any diameter on which it falls.
@@ -2396,7 +2396,7 @@ h. Scotoma. A scotoma is a field defect or non-seeing area (also referred to as 
 a. General. Visual efficiency, a calculated value of your remaining visual function, is the combination of your visual acuity efficiency and your visual field efficiency expressed as a percentage.
 b. Visual acuity efficiency. Visual acuity efficiency is a percentage that corresponds to the best-corrected central visual acuity for distance in your better eye. See Table 1.
 Table 1—Visual Acuity Efficiency
-Snellen best-corrected central visual acuity for distance | English | Metric | Visual acuity efficiency (%)(102.04A)
+Snellen best-corrected central visual acuity for distance | English | Metric | Visual acuity efficiency (%) (102.04A)
 20/16 | 6/5 | 100
 20/20 | 6/6 | 100
 20/25 | 6/7.5 | 95
@@ -2416,7 +2416,7 @@ d. Visual efficiency. Under 102.04A, we calculate the visual efficiency percenta
 a. General. Visual impairment value, a calculated value of your loss of visual function, is the combination of your visual acuity impairment value and your visual field impairment value.
 b. Visual acuity impairment value. Your visual acuity impairment value corresponds to the best-corrected central visual acuity for distance in your better eye. See Table 2.
 Table 2—Visual Acuity Impairment Value
-Snellen best-corrected central visual acuity for distance | English | Metric | Visual acuityimpairment value (102.04B)
+Snellen best-corrected central visual acuity for distance | English | Metric | Visual acuity impairment value (102.04B)
 20/16 | 6/5 | 0.00
 20/20 | 6/6 | 0.00
 20/25 | 6/7.5 | 0.10
@@ -2521,13 +2521,13 @@ D. What documentation do we need to evaluate your respiratory disorder?
 2. If you use supplemental oxygen, we still need medical evidence to establish the severity of your respiratory disorder.
 3. Imaging refers to medical imaging techniques, such as x-ray and computerized tomography. The imaging must be consistent with the prevailing state of medical knowledge and clinical practice as the proper technique to support the evaluation of the disorder.
 E. What is spirometry and what are our requirements for an acceptable test and report?
-1. Spirometry, which measures how well you move air into and out of your lungs, involves at least three forced expiratory maneuvers during the same test session. A forced expiratory maneuver is a maximum inhalation followed by a forced maximum exhalation, and measures exhaled volumes of air over time. The volume of air you exhale in the first second of the forced expiratory maneuver is the FEV1. The total volume of air that you exhale during the entire forced expiratory maneuver is the FVC. We use your highest FEV1 value to evaluate your respiratory disorder under 103.02A and 103.04A, and your highest FVC value to evaluate your respiratory disorder under 103.02B, regardless of whether the values are from the same forced expiratory maneuver or different forced expiratory maneuvers. We will not purchase spirometry for children who have not attained age 6.
+1. Spirometry, which measures how well you move air into and out of your lungs, involves at least three forced expiratory maneuvers during the same test session. A forced expiratory maneuver is a maximum inhalation followed by a forced maximum exhalation, and measures exhaled volumes of air over time. The volume of air you exhale in the first second of the forced expiratory maneuver is the FEV 1. The total volume of air that you exhale during the entire forced expiratory maneuver is the FVC. We use your highest FEV 1 value to evaluate your respiratory disorder under 103.02A and 103.04A, and your highest FVC value to evaluate your respiratory disorder under 103.02B, regardless of whether the values are from the same forced expiratory maneuver or different forced expiratory maneuvers. We will not purchase spirometry for children who have not attained age 6.
 2. We have the following requirements for spirometry under these listings:
 a. You must be medically stable at the time of the test. Examples of when we would not consider you to be medically stable include when you are:
 (i) Within 2 weeks of a change in your prescribed respiratory medication.
 (ii) Experiencing, or within 30 days of completion of treatment for, a lower respiratory tract infection.
 (iii) Experiencing, or within 30 days of completion of treatment for, an acute exacerbation (temporary worsening) of a chronic respiratory disorder. Wheezing by itself does not indicate that you are not medically stable.
-b. During testing, if your FEV1 is less than 70 percent of your predicted normal value, we require repeat spirometry after inhalation of a bronchodilator to evaluate your respiratory disorder under these listings, unless it is medically contraindicated. If you used a bronchodilator before the test and your FEV1 is less than 70 percent of your predicted normal value, we still require repeat spirometry after inhalation of a bronchodilator unless the supervising physician determines that it is not safe for you to take a bronchodilator again (in which case we may need to reschedule the test). If you do not have post-bronchodilator spirometry, the test report must explain why. We can use the results of spirometry administered without bronchodilators when the use of bronchodilators is medically contraindicated.
+b. During testing, if your FEV 1 is less than 70 percent of your predicted normal value, we require repeat spirometry after inhalation of a bronchodilator to evaluate your respiratory disorder under these listings, unless it is medically contraindicated. If you used a bronchodilator before the test and your FEV 1 is less than 70 percent of your predicted normal value, we still require repeat spirometry after inhalation of a bronchodilator unless the supervising physician determines that it is not safe for you to take a bronchodilator again (in which case we may need to reschedule the test). If you do not have post-bronchodilator spirometry, the test report must explain why. We can use the results of spirometry administered without bronchodilators when the use of bronchodilators is medically contraindicated.
 c. Your forced expiratory maneuvers must be satisfactory. We consider a forced expiratory maneuver to be satisfactory when you exhale with maximum effort following a full inspiration, and when the test tracing has a sharp takeoff and rapid rise to peak flow, has a smooth contour, and either lasts for at least 6 seconds (for children age 10 and older) or for at least 3 seconds (for children who have not attained age 10), or maintains a plateau for at least 1 second.
 3. The spirometry report must include the following information:
 a. The date of the test and your name, age or date of birth, gender, and height without shoes. (We will assume that your recorded height on the date of the test is without shoes, unless we have evidence to the contrary.) If your spine is abnormally curved (for example, you have kyphoscoliosis), we will substitute the longest distance between your outstretched fingertips with your arms abducted 90 degrees in place of your height when this measurement is greater than your standing height without shoes.
@@ -2577,9 +2577,9 @@ L. How do we evaluate respiratory disorders that do not meet one of these listin
 2. If you have a severe medically determinable impairment(s) that does not meet a listing, we will determine whether your impairment(s) medically equals a listing. See § 416.926 of this chapter. Respiratory disorders may be associated with disorders in other body systems, and we consider the combined effects of multiple impairments when we determine whether they medically equal a listing. If your impairment(s) does not meet or medically equal a listing, we will also consider whether it functionally equals the listings. See § 416.926a of this chapter. We use the rules in § 416.994a of this chapter when we decide whether you continue to be disabled.
 103.01 Category of Impairments, Respiratory Disorders
 103.02 Chronic respiratory disorders due to any cause except CF (for CF, see 103.04), with A, B, C, D, or E:
-A. FEV1 (see 103.00E) less than or equal to the value in Table I-A or I-B for your age, gender, and height without shoes (see 103.00E3a).
-Table I—FEV1 Criteria for 103.02A
-Table I-A | Age 6 to attainment of age 13(for both females and males) | Height without shoes(centimeters) < means less than | Height without shoes(inches) < means less than | FEV1 less than or equal to (L, BTPS) | Table I-B | Age 13 to attainment of age 18 | Height without shoes(centimeters) < means less than | Height without shoes(inches) < means less than | Females FEV1 less thanor equal to (L, BTPS) | Males FEV1 less thanor equal to (L, BTPS)
+A. FEV 1 (see 103.00E) less than or equal to the value in Table I-A or I-B for your age, gender, and height without shoes (see 103.00E3a).
+Table I—FEV 1 Criteria for 103.02A
+Table I-A | Age 6 to attainment of age 13 (for both females and males) | Height without shoes (centimeters) < means less than | Height without shoes (inches) < means less than | FEV 1 less than or equal to (L, BTPS) | Table I-B | Age 13 to attainment of age 18 | Height without shoes (centimeters) < means less than | Height without shoes (inches) < means less than | Females FEV 1 less than or equal to (L, BTPS) | Males FEV 1 less than or equal to (L, BTPS)
 <123.0 | <48.50 | 0.80 | <153.0 | <60.25 | 1.35 | 1.40
 123.0 to <129.0 | 48.50 to <50.75 | 0.90 | 153.0 to <159.0 | 60.25 to <62.50 | 1.45 | 1.50
 129.0 to <134.0 | 50.75 to <52.75 | 1.00 | 159.0 to <164.0 | 62.50 to <64.50 | 1.55 | 1.60
@@ -2590,7 +2590,7 @@ Table I-A | Age 6 to attainment of age 13(for both females and males) | Height w
 OR
 B. FVC (see 103.00E) less than or equal to the value in Table II-A or II-B for your age, gender, and height without shoes (see 103.00E3a).
 Table II—FVC Criteria for 103.02B
-Table II-A | Age 6 to attainment of age 13(for both females and males) | Height without shoes (centimeters)< means less than | Height without shoes(inches) < means less than | FVCless than or equal to (L, BTPS) | Table II-B | Age 13 to attainment of age 18 | Height without shoes(centimeters) < means less than | Height without shoes(inches) < means less than | FemalesFVC less than or equal to (L, BTPS) | MalesFVC less than or equal to (L, BTPS)
+Table II-A | Age 6 to attainment of age 13 (for both females and males) | Height without shoes (centimeters) < means less than | Height without shoes (inches) < means less than | FVC less than or equal to (L, BTPS) | Table II-B | Age 13 to attainment of age 18 | Height without shoes (centimeters) < means less than | Height without shoes (inches) < means less than | Females FVC less than or equal to (L, BTPS) | Males FVC less than or equal to (L, BTPS)
 <123.0 | <48.50 | 0.85 | <153.0 | <60.25 | 1.65 | 1.65
 123.0 to <129.0 | 48.50 to <50.75 | 1.00 | 153.0 to <159.0 | 60.25 to <62.50 | 1.70 | 1.80
 129.0 to <134.0 | 50.75 to <52.75 | 1.10 | 159.0 to <164.0 | 62.50 to <64.50 | 1.80 | 1.95
@@ -2608,9 +2608,9 @@ OR
 E. For children who have not attained age 2, CLD (see 103.00F) with exacerbations or complications requiring three hospitalizations within a 12-month period and at least 30 days apart (the 12-month period must occur within the period we are considering in connection with your application or continuing disability review). Each hospitalization must last at least 48 hours, including hours in a hospital emergency department immediately before the hospitalization. (A child's initial birth hospitalization when CLD is first diagnosed counts as one hospitalization.) Consider under a disability for 1 year from the discharge date of the last hospitalization or until the attainment of age 2, whichever is later. After that, evaluate the impairment(s) under 103.03 or another appropriate listing.
 103.03 Asthma (see 103.00G) with exacerbations or complications requiring three hospitalizations within a 12-month period and at least 30 days apart (the 12-month period must occur within the period we are considering in connection with your application or continuing disability review). Each hospitalization must last at least 48 hours, including hours in a hospital emergency department immediately before the hospitalization. Consider under a disability for 1 year from the discharge date of the last hospitalization; after that, evaluate the residual impairment(s) under 103.03 or another appropriate listing.
 103.04 Cystic fibrosis (documented as described in 103.00H), with A, B, C, D, E, F, or G:
-A. FEV1 (see 103.00E) less than or equal to the value in Table III-A or Table III-B for your age, gender, and height without shoes (see 103.00E3a).
-Table III—FEV1 Criteria for 103.04A
-Table III-A | Age 6 to attainment of age 13(for both females and males) | Height without shoes (centimeters)< means less than | Height without shoes(inches) < means less than | FEV1 less than or equal to (L, BTPS) | Table III-B | Age 13 to attainment of age 18 | Height without shoes (centimeters)< means less than | Height without shoes(inches) < means less than | FemalesFEV1 less than or equal to (L, BTPS) | MalesFEV1 less than or equal to (L, BTPS)
+A. FEV 1 (see 103.00E) less than or equal to the value in Table III-A or Table III-B for your age, gender, and height without shoes (see 103.00E3a).
+Table III—FEV 1 Criteria for 103.04A
+Table III-A | Age 6 to attainment of age 13 (for both females and males) | Height without shoes (centimeters) < means less than | Height without shoes (inches) < means less than | FEV 1 less than or equal to (L, BTPS) | Table III-B | Age 13 to attainment of age 18 | Height without shoes (centimeters) < means less than | Height without shoes (inches) < means less than | Females FEV 1 less than or equal to (L, BTPS) | Males FEV 1 less than or equal to (L, BTPS)
 <123.0 | <48.50 | 1.00 | <153.0 | <60.25 | 1.75 | 1.85
 123.0 to <129.0 | 48.50 to <50.75 | 1.15 | 153.0 to <159.0 | 60.25 to <62.50 | 1.85 | 2.05
 129.0 to <134.0 | 50.75 to <52.75 | 1.25 | 159.0 to <164.0 | 62.50 to <64.50 | 1.95 | 2.15
@@ -2726,7 +2726,7 @@ c. Valvular defects or obstructions to ventricular outflow, including pulmonary 
 d. Major abnormalities of ventricular development, including hypoplastic left heart syndrome or pulmonary tricuspid atresia with hypoplastic right ventricle.
 2. How will we evaluate symptomatic congenital heart disease?
 a. Because of improved treatment methods, more children with congenital heart disease are living longer. Although some types of congenital heart disease may be corrected by surgery, many children with treated congenital heart disease continue to have problems throughout their lives (symptomatic congenital heart disease). If you have congenital heart disease that results in chronic heart failure with evidence of ventricular dysfunction or in recurrent arrhythmias, we will evaluate your impairment under 104.02 or 104.05. Otherwise, we will evaluate your impairment under 104.06.
-b. For 104.06A2, we will accept pulse oximetry measurements instead of arterial O2, but the arterial O2 values are preferred, if available.
+b. For 104.06A2, we will accept pulse oximetry measurements instead of arterial O 2, but the arterial O 2 values are preferred, if available.
 c. For 104.06D, examples of impairments that in most instances will require life-saving surgery or a combination of surgery and other major interventional procedures (for example, multiple "balloon" catheter procedures) before age 1 include, but are not limited to, the following:
 (i) Hypoplastic left heart syndrome,
 (ii) Critical aortic stenosis with neonatal heart failure,
@@ -2795,7 +2795,7 @@ c. Less than the third percentile on the appropriate BMI-for-age table under 105
 104.06 Congenital heart disease, documented by appropriate medically acceptable imaging (see 104.00A3d) or cardiac catheterization, with one of the following:
 A. Cyanotic heart disease, with persistent, chronic hypoxemia as manifested by:
 1. Hematocrit of 55 percent or greater on two evaluations 3 months or more apart within a consecutive 12-month period (see 104.00A3e); or
-2. Arterial O2 saturation of less than 90 percent in room air, or resting arterial PO2 of 60 Torr or less; or
+2. Arterial O 2 saturation of less than 90 percent in room air, or resting arterial PO 2 of 60 Torr or less; or
 3. Hypercyanotic spells, syncope, characteristic squatting, or other incapacitating symptoms directly related to documented cyanotic heart disease; or
 4. Exercise intolerance with increased hypoxemia on exertion.
 OR
@@ -2851,11 +2851,11 @@ b. Acute encephalopathy. We will not evaluate your acute encephalopathy under 10
 a. SSA CLD score.
 (i) If you are age 12 or older, we will use the SSA CLD score to evaluate your ESLD under 105.05G1. We explain how we calculate the SSA CLD score in a(ii) through a(vii) of this section.
 (ii) To calculate the SSA CLD score, we use a formula that includes three laboratory values: Serum total bilirubin (mg/dL), serum creatinine (mg/dL), and International Normalized Ratio (INR). The formula for the SSA CLD score calculation is:
-9.57 × [Loge (serum creatinine mg/dL)]
-+ 3.78 × [Loge (serum total bilirubin mg/dL)]
-+ 11.2 × [Loge (INR)]
+9.57 × [Log e (serum creatinine mg/dL)]
++ 3.78 × [Log e (serum total bilirubin mg/dL)]
++ 11.2 × [Log e (INR)]
 + 6.43
-(iii) When we indicate "Loge" in the formula for the SSA CLD score calculation, we mean the "base e logarithm" or "natural logarithm" (ln) of a numerical laboratory value, not the "base 10 logarithm" or "common logarithm" (log) of the laboratory value, and not the actual laboratory value. For an example of SSA CLD calculation, see 5.00D11c.
+(iii) When we indicate "Log e" in the formula for the SSA CLD score calculation, we mean the "base e logarithm" or "natural logarithm" (ln) of a numerical laboratory value, not the "base 10 logarithm" or "common logarithm" (log) of the laboratory value, and not the actual laboratory value. For an example of SSA CLD calculation, see 5.00D11c.
 (iv) For any SSA CLD score calculation, all of the required laboratory values must have been obtained within 30 days of each other. If there are multiple laboratory values within the 30-day interval for any given laboratory test (serum total bilirubin, serum creatinine, or INR), we will use the highest value for the SSA CLD score calculation. We will round all laboratory values less than 1.0 up to 1.0.
 (v) Listing 105.05G requires two SSA CLD scores. The laboratory values for the second SSA CLD score calculation must have been obtained at least 60 days after the latest laboratory value for the first SSA CLD score and within the required 6-month period. We will consider the date of each SSA CLD score to be the date of the first laboratory value used for its calculation.
 (vi) If you are in renal failure or on dialysis within a week of any serum creatinine test in the period used for the SSA CLD calculation, we will use a serum creatinine of 4, which is the maximum serum creatinine level allowed in the calculation, to calculate your SSA CLD score.
@@ -2863,14 +2863,14 @@ a. SSA CLD score.
 b. SSA CLD-P score.
 (i) If you have not attained age 12, we will use the SSA CLD-P score to evaluate your ESLD under 105.05G2. We explain how we calculate the SSA CLD-P score in b(ii) through b(vii) of this section.
 (ii) To calculate the SSA CLD-P score, we use a formula that includes four parameters: Serum total bilirubin (mg/dL), International Normalized Ratio (INR), serum albumin (g/dL), and whether growth failure is occurring. The formula for the SSA CLD-P score calculation is:
-4.80 × [Loge (serum total bilirubin mg/dL)]
-+ 18.57 × [Loge (INR)]
-−6.87 × [Loge (serum albumin g/dL)]
+4.80 × [Log e (serum total bilirubin mg/dL)]
++ 18.57 × [Log e (INR)]
+−6.87 × [Log e (serum albumin g/dL)]
 + 6.67 if the child has growth failure (<−2 standard deviations for weight or height)
-(iii) When we indicate "Loge" in the formula for the SSA CLD-P score calculation, we mean the "base e logarithm" or "natural logarithm" (ln) of a numerical laboratory value, not the "base 10 logarithm" or "common logarithm" (log) of the laboratory value, and not the actual laboratory value. For example, if a female child is 4.0 years old, has a current weight of 13.5 kg (10th percentile for age) and height of 92 cm (less than the third percentile for age), and has laboratory values of serum total bilirubin 2.2 mg/dL, INR 1.0, and serum albumin 3.5 g/dL, we will compute the SSA CLD-P score as follows:
-4.80 × [Loge + (serum total bilirubin 2.2 mg/dL) = 0.788]
-+ 18.57 × [Loge (INR 1.0) = 0]
-−6.87 × [Loge + (serum albumin 3.5 g/dL) = 1.253]
+(iii) When we indicate "Log e" in the formula for the SSA CLD-P score calculation, we mean the "base e logarithm" or "natural logarithm" (ln) of a numerical laboratory value, not the "base 10 logarithm" or "common logarithm" (log) of the laboratory value, and not the actual laboratory value. For example, if a female child is 4.0 years old, has a current weight of 13.5 kg (10th percentile for age) and height of 92 cm (less than the third percentile for age), and has laboratory values of serum total bilirubin 2.2 mg/dL, INR 1.0, and serum albumin 3.5 g/dL, we will compute the SSA CLD-P score as follows:
+4.80 × [Log e + (serum total bilirubin 2.2 mg/dL) = 0.788]
++ 18.57 × [Log e (INR 1.0) = 0]
+−6.87 × [Log e + (serum albumin 3.5 g/dL) = 1.253]
 + 6.67
 ___
 = 3.78 + 0 − 8.61 + 6.67
@@ -2932,7 +2932,7 @@ D. Hepatorenal syndrome as described in 105.00D8, with one of the following:
 3. Sodium retention with urine sodium less than 10 mEq per liter.
 OR
 E. Hepatopulmonary syndrome as described in 105.00D9, with:
-1. Arterial oxygenation (PaO2,) on room air of:
+1. Arterial oxygenation (P a O 2,) on room air of:
 a. 60 mm Hg or less, at test sites less than 3000 feet above sea level, or
 b. 55 mm Hg or less, at test sites from 3000 to 6000 feet, or
 c. 50 mm Hg or less, at test sites above 6000 feet; or
@@ -2974,7 +2974,7 @@ b. At least 60 days apart; and
 c. Less than the third percentile on Table I or Table II; or
 Table I—Males Birth to Attainment of Age 2
 [Third Percentile Values for Weight-for-Length]
-Length(centimeters) | Weight(kilograms) | Length(centimeters) | Weight(kilograms) | Length(centimeters) | Weight(kilograms)
+Length (centimeters) | Weight (kilograms) | Length (centimeters) | Weight (kilograms) | Length (centimeters) | Weight (kilograms)
 45.0 | 1.597 | 64.5 | 6.132 | 84.5 | 10.301
 45.5 | 1.703 | 65.5 | 6.359 | 85.5 | 10.499
 46.5 | 1.919 | 66.5 | 6.584 | 86.5 | 10.696
@@ -2997,7 +2997,7 @@ Length(centimeters) | Weight(kilograms) | Length(centimeters) | Weight(kilograms
 63.5 | 5.903 | 83.5 | 10.104 | 103.5 | 14.413
 Table II—Females Birth to Attainment of Age 2
 [Third percentile values for weight-for-length]
-Length(centimeters) | Weight(kilograms) | Length(centimeters) | Weight(kilograms) | Length(centimeters) | Weight (kilograms)
+Length (centimeters) | Weight (kilograms) | Length (centimeters) | Weight (kilograms) | Length (centimeters) | Weight (kilograms)
 45.0 | 1.613 | 64.5 | 5.985 | 84.5 | 10.071
 45.5 | 1.724 | 65.5 | 6.200 | 85.5 | 10.270
 46.5 | 1.946 | 66.5 | 6.413 | 86.5 | 10.469
@@ -3024,7 +3024,7 @@ b. At least 60 days apart; and
 c. Less than the third percentile on Table III or Table IV.
 Table III—Males Age 2 to Attainment of Age 18
 [Third Percentile Values for BMI-for-Age]
-Age(yrs. and mos.) | BMI | Age(yrs. and mos.) | BMI | Age(yrs. and mos.) | BMI
+Age (yrs. and mos.) | BMI | Age (yrs. and mos.) | BMI | Age (yrs. and mos.) | BMI
 2.0 to 2.1 | 14.5 | 10.11 to 11.2 | 14.3 | 14.9 to 14.10 | 16.1
 2.2 to 2.4 | 14.4 | 11.3 to 11.5 | 14.4 | 14.11 to 15.0 | 16.2
 2.5 to 2.7 | 14.3 | 11.6 to 11.8 | 14.5 | 15.1 to 15.3 | 16.3
@@ -3045,7 +3045,7 @@ Age(yrs. and mos.) | BMI | Age(yrs. and mos.) | BMI | Age(yrs. and mos.) | BMI
 10.8 to 10.10 | 14.2 | 14.7 to 14.8 | 16.0 | 17.10 to 17.11 | 17.8
 Table IV—Females Age 2 to Attainment of Age 18
 [Third Percentile Values for BMI-for-Age]
-Age(yrs. and mos.) | BMI | Age(yrs. and mos.) | BMI | Age(yrs. and mos.) | BMI
+Age (yrs. and mos.) | BMI | Age (yrs. and mos.) | BMI | Age (yrs. and mos.) | BMI
 2.0 to 2.2 | 14.1 | 10.8 to 10.10 | 14.0 | 14.3 to 14.5 | 15.6
 2.3 to 2.6 | 14.0 | 10.11 to 11.2 | 14.1 | 14.6 to 14.7 | 15.7
 2.7 to 2.10 | 13.9 | 11.3 to 11.5 | 14.2 | 14.8 to 14.9 | 15.8
@@ -3097,13 +3097,13 @@ D. How do we evaluate disorders that do not meet one of the genitourinary listin
 106.05 Chronic kidney disease, with impairment of kidney function, with one of the following documented on at least two occasions at least 90 days apart during a consecutive 12-month period:
 A. Serum creatinine of 3 mg/dL or greater;
 OR
-B. Creatinine clearance of 30 ml/min/1.73m2 or less;
+B. Creatinine clearance of 30 ml/min/1.73m 2 or less;
 OR
-C. Estimated glomerular filtration rate (eGFR) of 30 ml/min/1.73m2 or less.
+C. Estimated glomerular filtration rate (eGFR) of 30 ml/min/1.73m 2 or less.
 106.06 Nephrotic syndrome, with A and B:
 A. Laboratory findings as described in 1 or 2, documented on at least two occasions at least 90 days apart during a consecutive 12-month period:
 1. Serum albumin of 3.0 g/dL or less, or
-2. Proteinuria of 40 mg/m2/hr or greater;
+2. Proteinuria of 40 mg/m 2 /hr or greater;
 AND
 B. Anasarca (see 106.00C3) persisting for at least 90 days despite prescribed treatment.
 106.07 Congenital genitourinary disorder (see 106.00C4) requiring urologic surgical procedures at least three times in a consecutive 12-month period, with at least 30 days between procedures. Consider under a disability for 1 year following the date of the last surgery; thereafter, evaluate the residual impairment.
@@ -3267,7 +3267,7 @@ A. Which neurological disorders do we evaluate under these listings? We evaluate
 B. What evidence do we need to document your neurological disorder?
 1. We need both medical and non-medical evidence (signs, symptoms, and laboratory findings) to assess the effects of your neurological disorder. Medical evidence should include your medical history, examination findings, relevant laboratory tests, and the results of imaging. Imaging refers to medical imaging techniques, such as x-ray, computerized tomography (CT), magnetic resonance imaging (MRI), and electroencephalography (EEG). The imaging must be consistent with the prevailing state of medical knowledge and clinical practice as the proper technique to support the evaluation of the disorder. In addition, the medical evidence may include descriptions of any prescribed treatment and your response to it. We consider non-medical evidence such as statements you or others make about your impairments, your restrictions, your daily activities, or, if you are an adolescent, your efforts to work.
 2. We will make every reasonable effort to obtain the results of your laboratory and imaging evidence. When the results of any of these tests are part of the existing evidence in your case record, we will evaluate the test results and all other relevant evidence. We will not purchase imaging, or other diagnostic tests or laboratory tests that are complex, may involve significant risk, or that are invasive. We will not routinely purchase tests that are expensive or not readily available.
-C. How do we consider adherence to prescribed treatment in neurological disorders? In 111.02 (Epilepsy) and 111.12 (Myasthenia gravis), we require that limitations from these neurological disorders exist despite adherence to prescribed treatment. "Despite adherence to prescribed treatment" means that you have taken medication(s) or followed other treatment procedures for your neurological disorder(s) as prescribed by a physician for three consecutive months but your impairment continues to meet the other listing requirements despite this treatment. You may receive your treatment at a health care facility that you visit regularly, even if you do not see the same physician on each visit.
+C. How do we consider adherence to prescribed treatment in neurological disorders ? In 111.02 (Epilepsy) and 111.12 (Myasthenia gravis), we require that limitations from these neurological disorders exist despite adherence to prescribed treatment. "Despite adherence to prescribed treatment" means that you have taken medication(s) or followed other treatment procedures for your neurological disorder(s) as prescribed by a physician for three consecutive months but your impairment continues to meet the other listing requirements despite this treatment. You may receive your treatment at a health care facility that you visit regularly, even if you do not see the same physician on each visit.
 D. What do we mean by disorganization of motor function?
 1. Disorganization of motor function means interference, due to your neurological disorder, with movement of two extremities; i.e., the lower extremities, or upper extremities (including fingers, wrists, hands, arms, and shoulders). By two extremities we mean both lower extremities, or both upper extremities, or one upper extremity and one lower extremity. All listings in this body system, except for 111.02 (Epilepsy) and 111.20 (Coma and persistent vegetative state), include criteria for disorganization of motor function that results in an extreme limitation in your ability to:
 a. Stand up from a seated position; or
@@ -3307,7 +3307,7 @@ J. What are spinal cord disorders, and how do we evaluate them under 111.08?
 2. Spinal cord disorders with complete loss of function (111.08A) addresses spinal cord disorders that result in complete lack of motor, sensory, and autonomic function of the affected part(s) of the body.
 3. Spinal cord disorders with disorganization of motor function (111.08B) addresses spinal cord disorders that result in less than complete loss of function of the affected part(s) of the body, reducing, but not eliminating, motor, sensory, and autonomic function.
 4. When we evaluate your spinal cord disorder, we generally need evidence from at least 3 months after your symptoms began in order to evaluate your disorganization of motor function. In some cases, evidence of your spinal cord disorder may be sufficient to allow your claim within 3 months after the spinal cord disorder. If the medical evidence demonstrates total cord transection causing a loss of motor and sensory functions below the level of injury, we will not wait 3 months but will make the allowance decision immediately.
-K. What are communication impairments associated with neurological disorders, and how do we evaluate them under 111.09?
+K. What are communication impairments associated with neurological disorders, and how do we evaluate them under 111.09 ?
 1. Communication impairments result from medically determinable neurological disorders that cause dysfunction in the parts of the brain responsible for speech and language. Under 111.09, we must have recent comprehensive evaluation including all areas of affective and effective communication, performed by a qualified professional, to document a communication impairment associated with a neurological disorder.
 2. Under 111.09A, we need documentation from a qualified professional that your neurological disorder has resulted in a speech deficit that significantly affects your ability to communicate. Significantly affects means that you demonstrate a serious limitation in communicating, and a person who is unfamiliar with you cannot easily understand or interpret your speech.
 3. Under 111.09B, we need documentation from a qualified professional that shows that your neurological disorder has resulted in a comprehension deficit that results in ineffective verbal communication for your age. For the purposes of 111.09B, comprehension deficit means a deficit in receptive language. Ineffective verbal communication means that you demonstrate serious limitation in your ability to communicate orally on the same level as other children of the same age and level of development.
@@ -3992,7 +3992,7 @@ a. Definitive documentation of HIV infection. We may document a diagnosis of HIV
 b. We will make every reasonable effort to obtain the results of your laboratory testing. Pursuant to § 416.919f of this chapter, we will purchase examinations or tests necessary to make a determination in your claim if no other acceptable documentation exists.
 c. Other acceptable documentation of HIV infection. We may also document HIV infection without definitive laboratory evidence.
 (i) We will accept a persuasive report from a physician that a positive diagnosis of your HIV infection was confirmed by an appropriate laboratory test(s), such as those described in 114.00F1a. To be persuasive, this report must state that you had the appropriate definitive laboratory test(s) for diagnosing your HIV infection and provide the results. The report must also be consistent with the remaining evidence of record.
-(ii) We may also document HIV infection by the medical history, clinical and laboratory findings, and diagnosis(es) indicated in the medical evidence, provided that such documentation is consistent with the prevailing state of medical knowledge and clinical practice and is consistent with the other evidence in your case record. For example, we will accept a diagnosis of HIV infection without definitive laboratory evidence of the HIV infection if you have an opportunistic disease that is predictive of a defect in cell-mediated immunity (for example, toxoplasmosis of the brain or Pneumocystis pneumonia (PCP)), and there is no other known cause of diminished resistance to that disease (for example, long-term steroid treatment or lymphoma). In such cases, we will make every reasonable effort to obtain full details of the history, medical findings, and results of testing.
+(ii) We may also document HIV infection by the medical history, clinical and laboratory findings, and diagnosis(es) indicated in the medical evidence, provided that such documentation is consistent with the prevailing state of medical knowledge and clinical practice and is consistent with the other evidence in your case record. For example, we will accept a diagnosis of HIV infection without definitive laboratory evidence of the HIV infection if you have an opportunistic disease that is predictive of a defect in cell- mediated immunity (for example, toxoplasmosis of the brain or Pneumocystis pneumonia (PCP)), and there is no other known cause of diminished resistance to that disease (for example, long-term steroid treatment or lymphoma). In such cases, we will make every reasonable effort to obtain full details of the history, medical findings, and results of testing.
 2. Documentation of the manifestations of HIV infection.
 a. Definitive documentation of manifestations of HIV infection. We may document manifestations of HIV infection by positive findings on definitive laboratory tests, such as culture, microscopic examination of biopsied tissue or other material (for example, bronchial washings), serologic tests, or on other generally acceptable definitive tests consistent with the prevailing state of medical knowledge and clinical practice.
 b. We will make every reasonable effort to obtain the results of your laboratory testing. Pursuant to § 416.919f of this chapter, we will purchase examinations or tests necessary to make a determination of your claim if no other acceptable documentation exists.
@@ -4131,9 +4131,9 @@ OR
 E. Pulmonary Kaposi sarcoma (see 114.00F3e).
 OR
 F. Absolute CD4 count or CD4 percentage (see 114.00F4):
-1. For children from birth to attainment of age 1, absolute CD4 count of 500 cells/mm3 or less, or CD4 percentage of less than 15 percent; or
-2. For children from age 1 to attainment of age 5, absolute CD4 count of 200 cells/mm3 or less, or CD4 percentage of less than 15 percent; or
-3. For children from age 5 to attainment of age 18, absolute CD4 count of 50 cells/mm3 or less.
+1. For children from birth to attainment of age 1, absolute CD4 count of 500 cells/mm 3 or less, or CD4 percentage of less than 15 percent; or
+2. For children from age 1 to attainment of age 5, absolute CD4 count of 200 cells/mm 3 or less, or CD4 percentage of less than 15 percent; or
+3. For children from age 5 to attainment of age 18, absolute CD4 count of 50 cells/mm 3 or less.
 OR
 G. Complication(s) of HIV infection requiring at least three hospitalizations within a 12-month period and at least 30 days apart (see 114.00F5). Each hospitalization must last at least 48 hours, including hours in a hospital emergency department immediately before the hospitalization.
 OR
@@ -4146,7 +4146,7 @@ OR
 I. Immune suppression and growth failure (see 114.00F7) documented by 1 and 2, or by 1 and 3:
 1. CD4 measurement:
 a. For children from birth to attainment of age 5, CD4 percentage of less than 20 percent; or
-b. For children from age 5 to attainment of age 18, absolute CD4 count of less than 200 cells/mm3 or CD4 percentage of less than 14 percent; and
+b. For children from age 5 to attainment of age 18, absolute CD4 count of less than 200 cells/mm 3 or CD4 percentage of less than 14 percent; and
 2. For children from birth to attainment of age 2, three weight-for-length measurements that are:
 a. Within a consecutive 12-month period; and
 b. At least 60 days apart; and
