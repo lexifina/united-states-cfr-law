@@ -52,13 +52,13 @@ Rule | Age | Education | Previous work experience | Decision
 201.20 | ......do | ......do | Skilled or semiskilled—skills transferable | Do.
 201.21 | ......do | High school graduate or more | Skilled or semiskilled—skills not transferable | Do.
 201.22 | ......do | ......do | Skilled or semiskilled—skills transferable | Do.
-201.23 | Younger individual age 18-44 | Illiterate or unable to communicate in English | Unskilled or none | Do.4
-201.24 | ......do | Limited or less—at least literate and able to communicate in English | ......do | Do.4
-201.25 | ......do | Limited or less | Skilled or semiskilled—skills not transferable | Do.4
-201.26 | ......do | ......do | Skilled or semiskilled—skills transferable | Do.4
-201.27 | ......do | High school graduate or more | Unskilled or none | Do.4
-201.28 | ......do | ......do | Skilled or semiskilled—skills not transferable | Do.4
-201.29 | ......do | ......do | Skilled or semiskilled—skills transferable | Do.4
+201.23 | Younger individual age 18-44 | Illiterate or unable to communicate in English | Unskilled or none | Do. 4
+201.24 | ......do | Limited or less—at least literate and able to communicate in English | ......do | Do. 4
+201.25 | ......do | Limited or less | Skilled or semiskilled—skills not transferable | Do. 4
+201.26 | ......do | ......do | Skilled or semiskilled—skills transferable | Do. 4
+201.27 | ......do | High school graduate or more | Unskilled or none | Do. 4
+201.28 | ......do | ......do | Skilled or semiskilled—skills not transferable | Do. 4
+201.29 | ......do | ......do | Skilled or semiskilled—skills transferable | Do. 4
 1 See 201.00(f).
 2 See 201.00(d).
 3 See 201.00(g).
@@ -133,3 +133,48 @@ Rule | Age | Education | Previous work experience | Decision
 203.30 | ......do | ......do | Skilled or semiskilled—skills transferable | Do.
 203.31 | ......do | High school graduate or more—provides for direct entry into skilled work | Skilled or semiskilled—skills not transferable | Do.
 204.00 Maximum sustained work capability limited to heavy work (or very heavy work) as a result of severe medically determinable impairment(s). The residual functional capacity to perform heavy work or very heavy work includes the functional capability for work at the lesser functional levels as well, and represents substantial work capability for jobs in the national economy at all skill and physical demand levels. Individuals who retain the functional capacity to perform heavy work (or very heavy work) ordinarily will not have a severe impairment or will be able to do their past work—either of which would have already provided a basis for a decision of "not disabled". Environmental restrictions ordinarily would not significantly affect the range of work existing in the national economy for individuals with the physical capability for heavy work (or very heavy work). Thus an impairment which does not preclude heavy work (or very heavy work) would not ordinarily be the primary reason for unemployment, and generally is sufficient for a finding of not disabled, even though age, education, and skill level of prior work experience may be considered adverse.
+At 85 FR 10602, Feb. 25, 2020, appendix 2 to subpart P of part 404 was amended, effective Apr. 27, 2020, by:
+a. In section 201.00:
+i. Revising paragraph (h)(1)(iv) and the second sentence of paragraph (h)(2);
+ii. In paragraph (h)(4)(i), revising the first sentence, adding a sentence after the first sentence, and revising the last sentence; and
+iii. In Table No. 1, revise rules 201.17, 201.18, 201.23, and 201.24;
+b. In section 202.00:
+i. Revising paragraphs (d) and (g); and
+ii. In Table No. 2, revising rules 202.09, 202.10, 202.16, and 202.17; and
+c. In section 203.00, Table No. 3, revising rule 203.01.
+For the convenience of the user, the added and revised text is set forth as follows:
+Appendix 2 to Subpart P of Part 404—Medical-Vocational Guidelines
+201.00 * * *
+(h)(1) * * *
+(iv) Are illiterate.
+(2) * * * It is usually not a significant factor in limiting such individual's ability to make an adjustment to other work, including an adjustment to unskilled sedentary work, even when the individuals are illiterate.
+(4) * * *
+(i) While illiteracy may significantly limit an individual's vocational scope, the primary work functions in most unskilled occupations involve working with things (rather than with data or people). In these work functions, education has the least significance. * * * Thus, the functional capacity for a full range of sedentary work represents sufficient numbers of jobs to indicate substantial vocational scope for those individuals age 18-44, even if they are illiterate.
+Table No. 1—Residual Functional Capacity: Maximum Sustained Work Capability Limited to Sedentary Work as a Result of Severe Medically Determinable Impairment(s)
+Rule | Age | Education | Previous work experience | Decision
+* * * * * * *
+201.17 | Younger individual age 45-49 | Illiterate | Unskilled or none | Disabled.
+201.18 | ......do | Limited or Marginal, but not Illiterate | ......do | Not disabled.
+* * * * * * *
+201.23 | Younger individual age 18-44 | Illiterate | Unskilled or none | 4 Do.
+201.24 | ......do | Limited or Marginal, but not Illiterate | ......do | 4 Do.
+* * * * * * *
+* * * * * * *
+4 See 201.00(h).
+202.00 * * *
+(d) A finding of disabled is warranted where the same factors in paragraph (c) of this section regarding education and previous work experience are present, but where age, though not advanced, is a factor which significantly limits vocational adaptability (i.e., closely approaching advanced age, 50-54) and an individual's vocational scope is further significantly limited by illiteracy.
+(g) While illiteracy may significantly limit an individual's vocational scope, the primary work functions in most unskilled occupations relate to working with things (rather than data or people). In these work functions, education has the least significance. Similarly, the lack of relevant work experience would have little significance since the bulk of unskilled jobs require no qualifying work experience. The capability for light work, which includes the ability to do sedentary work, represents the capability for substantial numbers of such jobs. This, in turn, represents substantial vocational scope for younger individuals (age 18-49), even if they are illiterate.
+Table No. 2—Residual Functional Capacity: Maximum Sustained Work Capability Limited to Light Work as a Result of Severe Medically Determinable Impairment(s)
+Rule | Age | Education | Previous work experience | Decision
+* * * * * * *
+202.09 | Closely approaching advanced age | Illiterate | Unskilled or none | Disabled.
+202.10 | ......do | Limited or Marginal, but not Illiterate | ......do | Not disabled.
+* * * * * * *
+202.16 | Younger individual | Illiterate | Unskilled or none | Do.
+202.17 | ......do | Limited or Marginal, but not Illiterate | ......do | Do.
+* * * * * * *
+203.00 * * *
+Table No. 3—Residual Functional Capacity: Maximum Sustained Work Capability Limited to Medium Work as a Result of Severe Medically Determinable Impairment(s)
+Rule | Age | Education | Previous work experience | Decision
+203.01 | Closely approaching retirement age | Marginal or Illiterate | Unskilled or none | Disabled.
+* * * * * * *
