@@ -1,4 +1,4 @@
 # Table 1 to Subpart YYYY of Part 63—Emission Limitations
-As stated in § 63.6100, you must comply with the following emission limitations
+As stated in § 63.6100, you must comply with the following emission limitations.
 For each new or reconstructed stationary combustion turbine described in § 63.6100 which is... | You must meet the following emission limitations...
-1. a lean premix gas-fired stationary combustion turbine as defined in this subpart,2. a lean premix oil-fired stationary combustion turbine as defined in this subpart, 3. a diffusion flame gas-fired stationary combustion turbine as defined in this subpart, or 4. a diffusion flame oil-fired stationary combustion turbine as defined in this subpart. | limit the concentration of formaldehyde to 91 ppbvd or less at 15 percent O2.
+1. a lean premix gas-fired stationary combustion turbine as defined in this subpart, 2. a lean premix oil-fired stationary combustion turbine as defined in this subpart, 3. a diffusion flame gas-fired stationary combustion turbine as defined in this subpart, or 4. a diffusion flame oil-fired stationary combustion turbine as defined in this subpart. | limit the concentration of formaldehyde to 91 ppbvd or less at 15-percent O 2, except during turbine startup. The period of time for turbine startup is subject to the limits specified in the definition of startup in § 63.6175.
