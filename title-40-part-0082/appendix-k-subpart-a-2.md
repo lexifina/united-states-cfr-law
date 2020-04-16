@@ -2,8 +2,8 @@
 Description of commodity or chemical | Commodity code from harmonized tariff schedule
 Class II:
 HCFC-22 (Chlorodifluoromethane) | 2903.71.0000
-HCFC-123 (Dichlorotrifluoroethane) | 2903.79.9020
-HCFC-124 (Monochlorotetrafluoroethane) | 2903.79.9020
+HCFC-123 (Dichlorotrifluoroethane) | 2903.72.0020
+HCFC-124 (Monochlorotetrafluoroethane) | 2903.79.1000
 HCFC-141b (Dichlorofluoroethane) | 2903.73.0000
 HCFC-142b (Chlorodifluoroethane) | 2903.74.0000
 HCFC-225ca, HCFC-225cb (Dichloropentafluoropropanes) | 2903.75.0000
