@@ -6,7 +6,7 @@ c. ISO 11734:1995 specifies that total gas is the standard measure of biodegrada
 2.0 System Requirements
 This environmental test system has three phases, spiked sediment, overlying seawater, and a gas headspace. The sediment/test compound mixture is combined with synthetic sea water and transferred into 120-mL serum bottles. The total volume of sediment/sea water mixture in the bottles is 75 mL. The volume of the sediment layer will be approximately 50 mL, but the exact volume of the sediment will depend on sediment characteristics (wet:dry ratio and density). The amount of synthetic sea water will be calculated to bring the total volume in the bottles to 75 mL. The test systems are maintained at a temperature of 29 ±1 °C during incubation. The test systems are brought to ambient temperatures prior to measuring pressure or gas volume.
 2.1 Sample Requirements
-a. The concentration of base fluids are at least 2,000 mg carbon test material/kg dry sediment. Carbon concentration is determined by theoretical composition based on the chemical formula or by chemical analysis by ASTM D5291-96. Sediments with positive, intermediate and negative control substances as well as a C16-C18 internal olefin type base fluid will be run in conjunction with test materials under the same conditions. The positive control is ethyl oleate (CAS 111-62-6), the intermediate control is 1-hexadecene (CAS 629-73-2), and the negative control is squalane (CAS 111-01-3). Controls must be of analytical grade or the highest grade available. Each test control concentration should be prepared according to the mixing procedure described in Section 3.1.
+a. The concentration of base fluids are at least 2,000 mg carbon test material/kg dry sediment. Carbon concentration is determined by theoretical composition based on the chemical formula or by chemical analysis by ASTM D5291-96. Sediments with positive, intermediate and negative control substances as well as a C 16 -C 18 internal olefin type base fluid will be run in conjunction with test materials under the same conditions. The positive control is ethyl oleate (CAS 111-62-6), the intermediate control is 1-hexadecene (CAS 629-73-2), and the negative control is squalane (CAS 111-01-3). Controls must be of analytical grade or the highest grade available. Each test control concentration should be prepared according to the mixing procedure described in Section 3.1.
 b. Product names will be used for examples or clarification in the following text. Any use of trade or product names in this publication is for descriptive use only, and does not constitute endorsement by EPA or the authors.
 2.2. Seawater Requirements
 Synthetic seawater at a salinity of 25 ±1 ppt should be used for the test. The synthetic seawater should be prepared by mixing a commercially available artificial seawater mix, into high purity distilled or de-ionized water. The seawater should be aerated and allowed to age for approximately one month prior to use.
@@ -65,12 +65,12 @@ Bottles should be brought to room temperature before readings are taken. a. The 
 b. The room temperature and barometric pressure (to two digits) should be recorded at the time of sampling. One option for the barometer is Fisher Part #02-400 or 02-401. Gas production by the sediment is expressed in terms of the volume (mL) of gas at standard temperature (0 °C = 273 °K) and pressure (1 atm = 30 inches of Hg) using Eq. 16.
 ER18MY12.020
 Where:
-V2 = Volume of gas production at standard temperature and pressure
-P1 = Barometric pressure on day of sampling (inches of Hg)
-V1 = Volume of gas measured on day of sampling (mL)
-T2 = Standard temperature = 273 °K
-T1 = Temperature on day of sampling (°C + 273 = °K)
-P2 = Standard pressure = 30 inches Hg
+V 2 = Volume of gas production at standard temperature and pressure
+P 1 = Barometric pressure on day of sampling (inches of Hg)
+V 1 = Volume of gas measured on day of sampling (mL)
+T 2 = Standard temperature = 273 °K
+T 1 = Temperature on day of sampling (°C + 273 = °K)
+P 2 = Standard pressure = 30 inches Hg
 c. An estimate can be made of the total volume of anaerobic gas that will be produced in the bottles. The gas production measured for each base fluid can be expressed as a percent of predicted total anaerobic gas production.
 5.1.1. Calculate the total amount of carbon in the form of the base fluid present in each bottle.
 a. Each bottle is to contain 30 g dry weight sediment. The base fluid concentration is 2,000 mg carbon/kg dry weight sediment. Therefore:
@@ -97,28 +97,28 @@ b. The method for evaluating the data to determine whether a fluid has passed th
 ER18MY12.024
 Where:
 NAF = Stock base fluid being tested for compliance
-Reference fluid = C16-C18 internal olefin or C12 -C14 or C8 ester reference fluid
+Reference fluid = C 16 -C 18 internal olefin or C 12 -C 14 or C 8 ester reference fluid
 7.0. Methane Measurement
 7.1. Methane Monitoring Procedures
-a. The use of total gas production alone may result in an underestimation of the actual metabolism occurring since CO2 is slightly soluble in water. An acceptable alternative method is to monitor methane production and total gas production. This is easily done using GC analysis. A direct injection of headspace gases can be made into a GC using almost any packed or capillary column with an FID detector. Unless volatile fuels or solvents are present in the test material or the inocula, the only component of the headspace gas that can be detected using an FID detector is methane. The percent methane in the headspace gas is determined by comparing the response of the sample injections to the response from injections of known percent methane standards. The percent methane is corrected for water vapor saturation using Eq. 21 and then converted to a volume of dry methane using Eq. 22.
+a. The use of total gas production alone may result in an underestimation of the actual metabolism occurring since CO 2 is slightly soluble in water. An acceptable alternative method is to monitor methane production and total gas production. This is easily done using GC analysis. A direct injection of headspace gases can be made into a GC using almost any packed or capillary column with an FID detector. Unless volatile fuels or solvents are present in the test material or the inocula, the only component of the headspace gas that can be detected using an FID detector is methane. The percent methane in the headspace gas is determined by comparing the response of the sample injections to the response from injections of known percent methane standards. The percent methane is corrected for water vapor saturation using Eq. 21 and then converted to a volume of dry methane using Eq. 22.
 ER18MY12.025
 Where:
-D = The density of water vapor at saturation (g/m3, can be found in CRC Handbook of Chemistry and Physics) for the temperature of sampling.
+D = The density of water vapor at saturation (g/m 3, can be found in CRC Handbook of Chemistry and Physics) for the temperature of sampling.
 ER18MY12.026
 Where:
-VCH4 = Volume of methane in the bottle
+V CH4 = Volume of methane in the bottle
 S = Volume of excess gas production (measured with a pressure transducer)
 V = Volume of the headspace in the culture bottle (total volume—liquid phase)
 P = Barometric pressure (mm Hg, measured with barometer)
 T = Temperature (°C)
-Pw = Vapor pressure of water at T (mm Hg, can be found in CRC Handbook of Chemistry and Physics)
-CH4 = % methane in headspace gas (after correction for water vapor)
+P w = Vapor pressure of water at T (mm Hg, can be found in CRC Handbook of Chemistry and Physics)
+CH 4 = % methane in headspace gas (after correction for water vapor)
 b. The total volume of serum bottles sold as 125 mL bottles (Wheaton) is 154.8 mL.
 c. The volumes of methane produced are then compared to the volumes of methane in the controls to determine if a significant inhibition of methane production or a significant increase of methane production has been observed. Effective statistical analyses are important, as variability in the results is common due to the heterogeneity of the inoculum's source. It is also common to observe that the timing of the initiation of culture activity is not equal in all of the cultures. Expect a great variability over the period when the cultures are active, some replicates will start sooner than others, but all of the replicates should eventually reach similar levels of base fluid degradation and methane production.
 7.2. Expected Methane Production Calculations
-a. The amount of methane expected can be calculated using the equation of Symons and Buswell (Eq. 23). In the case of complete mineralization, all of the carbon will appear as wither CO2 or CH4, thus the total moles of gas produced will be equal to the total moles of carbon in the parent molecule. The use of the Buswell equation allows you to calculate the effects the redox potential will have on the distribution of the products in methanogenic cultures. More reduced electron donors will allow the production of more methane, while more oxidized electron donors will cause a production of more carbon dioxide.
+a. The amount of methane expected can be calculated using the equation of Symons and Buswell (Eq. 23). In the case of complete mineralization, all of the carbon will appear as wither CO 2 or CH 4, thus the total moles of gas produced will be equal to the total moles of carbon in the parent molecule. The use of the Buswell equation allows you to calculate the effects the redox potential will have on the distribution of the products in methanogenic cultures. More reduced electron donors will allow the production of more methane, while more oxidized electron donors will cause a production of more carbon dioxide.
 ER18MY12.027
-b. An example calculation of the expected methane volume in a culture fed 2,000 mg/kg hexadecene is as follows. The application of Symons and Buswell's equation reveals that hexadecene (C16H32) will yield 4 moles of CO2 and 12 moles of CH4. Assuming 30 g of dry sediment are added to the bottles with 2,334 mg hexadecene/kg dry sediment (i.e., equivalent to 2,000 mg carbon/kg dry sediment) the calculation is as follows.
+b. An example calculation of the expected methane volume in a culture fed 2,000 mg/kg hexadecene is as follows. The application of Symons and Buswell's equation reveals that hexadecene (C 16 H 32) will yield 4 moles of CO 2 and 12 moles of CH 4. Assuming 30 g of dry sediment are added to the bottles with 2,334 mg hexadecene/kg dry sediment (i.e., equivalent to 2,000 mg carbon/kg dry sediment) the calculation is as follows.
 ER18MY12.028
 c. By subtracting the average amount of methane in control bottles from the test bottles and then dividing by the expected volume an evaluation of the completion of the process may be conducted.
 8.0. Concentration Verification Analysis
@@ -172,7 +172,7 @@ d. Required statistics.
 9.7.4. Chandler, J.E., B. Lee, S.P. Rabke, J.M. Geliff, R. Stauffer, and J. Hein. 2000. Modification of a Standardized Anaerobic Biodegradation Test to Discriminate Performance of Various Non-Aqueous Base Fluids. Society of Petroleum Engineers SPE 61203.
 9.7.5. Munro, P.D., B Croce, C.F. Moffet, N.A Brown, A.D. McIntosh, S.J. Hird, and R.M. Stagg. 1998. Solid-Phase Test for Comparison for Degradation Rates of Synthetic Mud Base Fluids Used in the Off-shore Drilling Industry. Environ. Toxicol. Chem. 17:1951-1959.
 9.7.6. Webster, L., P.R. Mackie, S.J. Hird, P.D. Munro, N.A. Brown, and C.F. Moffat. 1997. Development of Analytical Methods for the Determination of Synthetic Mud Base Fluids in Marine Sediments. The Analyst 122:1485-1490.
-9.8 The following standards are approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may also be inspected at EPA's Water Docket, 1200 Pennsylvania Ave. NW., Washington, DC 20460 and at at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.
+9.8 The following standards are approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may also be inspected at EPA's Water Docket, 1200 Pennsylvania Ave. NW., Washington, DC 20460 and at at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.\n.
 9.8.1 ASTM International. Available from ASTM International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959, or online at http://www.astm.org.
 9.8.1.1 ASTM D5291-96, Standard Test Methods for Instrumental Determination of Carbon, Hydrogen, and Nitrogen in Petroleum Products and Lubricants, approved April 10, 1996.
 9.8.1.2 ASTM D2974-07a, Standard Test Methods for Moisture, Ash, and Organic Matter of Peat and Other Organic Soils, approved March 15, 2007.
