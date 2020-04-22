@@ -1,0 +1,13 @@
+# Table 1B to Subpart E c of Part 60—Emissions Limits for Small, Medium, and Large HMIWI at Affected Facilities as Defined in § 60.50c(a)(3) and (4)
+Pollutant | Units (7 percent oxygen, dry basis) | Emissions limits | HMIWI size | Small | Medium | Large | Averaging time 1 | Method for demonstrating compliance 2
+Particulate matter | Milligrams per dry standard cubic meter (grains per dry standard cubic foot) | 66 (0.029) | 22 (0.0095) | 18 (0.0080) | 3-run average (1-hour minimum sample time per run) | EPA Reference Method 5 of appendix A-3 of part 60, or EPA Reference Method M 26A or 29 of appendix A-8 of part 60.
+Carbon monoxide | Parts per million by volume | 20 | 1.8 | 11 | 3-run average (1-hour minimum sample time per run) | EPA Reference Method 10 or 10B of appendix A-4 of part 60.
+Dioxins/furans | Nanograms per dry standard cubic meter total dioxins/furans (grains per billion dry standard cubic feet) or nanograms per dry standard cubic meter TEQ (grains per billion dry standard cubic feet) | 16 (7.0) or 0.013 (0.0057) | 0.47 (0.21) or 0.014 (0.0061) | 9.3 (4.1) or 0.035 (0.015) | 3-run average (4-hour minimum sample time per run) | EPA Reference Method 23 of appendix A-7 of part 60.
+Hydrogen chloride | Parts per million by volume | 15 | 7.7 | 5.1 | 3-run average (1-hour minimum sample time per run) | EPA Reference Method 26 or 26A of appendix A-8 of part 60.
+Sulfur dioxide | Parts per million by volume | 1.4 | 1.4 | 8.1 | 3-run average (1-hour minimum sample time per run) | EPA Reference Method 6 or 6C of appendix A-4 of part 60.
+Nitrogen oxides | Parts per million by volume | 67 | 67 | 140 | 3-run average (1-hour minimum sample time per run) | EPA Reference Method 7 or 7E of appendix A-4 of part 60.
+Lead | Milligrams per dry standard cubic meter (grains per thousand dry standard cubic feet) | 0.31 (0.14) | 0.018 (0.0079) | 0.00069 (0.00030) | 3-run average (1-hour minimum sample time per run) | EPA Reference Method 29 of appendix A-8 of part 60.
+Cadmium | Milligrams per dry standard cubic meter (grains per thousand dry standard cubic feet) | 0.017 (0.0074) | 0.0098 (0.0043) | 0.00013 (0.000057) | 3-run average (1-hour minimum sample time per run) | EPA Reference Method 29 of appendix A-8 of part 60.
+Mercury | Milligrams per dry standard cubic meter (grains per thousand dry standard cubic feet) | 0.014 (0.0061) | 0.0035 (0.0015) | 0.0013 (0.00057) | 3-run average (1-hour minimum sample time per run) | EPA Reference Method 29 of appendix A-8 of part 60.
+1 Except as allowed under § 60.56c(c) for HMIWI equipped with CEMS.
+2 Does not include CEMS and approved alternative non-EPA test methods allowed under § 60.56c(b).
