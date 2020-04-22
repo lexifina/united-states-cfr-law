@@ -1,5 +1,5 @@
 # Table 2 to Subpart XX of Part 63—Requirements of 40 CFR Part 61, Subpart FF, Not Included in the Requirements for This Subpart and Alternate Requirements
-If the total annual benzene quatity for waste from your facility is * * * | Do not comply with: | Instead, comply with:
+If the total annual benzene quantity for waste from your facility is * * * | Do not comply with: | Instead, comply with:
 1. Less than 10 Mg/yr | 40 CFR 61.340 | § 63.1093.
 | 40 CFR 61.342(c)(3)(ii), (d), and (e) | There is no equivalent requirement.
 | 40 CFR 61.342(f) | § 61.1096.

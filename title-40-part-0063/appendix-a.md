@@ -67,23 +67,23 @@ You must determine bias and precision by comparison against a validated test met
 7.4 Sample Stability. After you have conducted sampling and analysis according to Section 7.2 or 7.3 of this method, compare the results at the minimum and maximum storage durations. Calculate the difference in the results using Equation 301-1.
 ER20MR18.000
 Where:
-di = Difference between the results of the ith replicate pair of samples.
-Rmini = Results from the ith replicate sample pair at the minimum storage duration.
-Rmaxi = Results from the ith replicate sample pair at the maximum storage duration.
-For single samples that can be reanalyzed for sample stability assessment (e.g., bag or canister samples and impinger samples that do not require digestion or extraction), the values for Rmini and Rmaxi will be obtained from the same sample rather than replicate samples.
+d i = Difference between the results of the i th replicate pair of samples.
+R mini = Results from the i th replicate sample pair at the minimum storage duration.
+R maxi = Results from the i th replicate sample pair at the maximum storage duration.
+For single samples that can be reanalyzed for sample stability assessment (e.g., bag or canister samples and impinger samples that do not require digestion or extraction), the values for R mini and R maxi will be obtained from the same sample rather than replicate samples.
 7.4.1 Standard Deviation. Determine the standard deviation of the paired samples using Equation 301-2.
 ER20MR18.001
 Where:
-SDd = Standard deviation of the differences of the paired samples.
-di = Difference between the results of the ith replicate pair of samples.
-dm = Mean of the paired sample differences.
+SD d = Standard deviation of the differences of the paired samples.
+d i = Difference between the results of the i th replicate pair of samples.
+d m = Mean of the paired sample differences.
 n = Total number of paired samples.
 7.4.2 T Test. Test the difference in the results for statistical significance by calculating the t-statistic and determining if the mean of the differences between the results at the minimum storage duration and the results after the maximum storage duration is significant at the 95 percent confidence level and n-1 degrees of freedom. Calculate the value of the t-statistic using Equation 301-3.
 ER20MR18.002
 Where:
 t = t-statistic.
-dm = The mean of the paired sample differences.
-SDd = Standard deviation of the differences of the paired samples.
+d m = The mean of the paired sample differences.
+SD d = Standard deviation of the differences of the paired samples.
 n = Total number of paired samples.
 Compare the calculated t-statistic with the critical value of the t-statistic from Table 301-3 of this method. If the calculated t-value is less than the critical value, the difference is not statistically significant. Therefore, the sampling, analysis, and sample storage procedures ensure stability, and you may submit a request for validation of the candidate test method. If the calculated t-value is greater than the critical value, the difference is statistically significant, and you must repeat the procedures in Section 7.2 or 7.3 of this method with new samples using a shorter proposed maximum storage duration or improved handling and storage procedures.
 Determination of Bias and Precision
@@ -97,14 +97,14 @@ You must analyze the bias, RSD, precision, and data acceptance for isotopic spik
 ER20MR18.003
 Where:
 B = Bias at the spike level.
-Sm = Mean of the measured values of the isotopically-labeled analyte in the samples.
+S m = Mean of the measured values of the isotopically-labeled analyte in the samples.
 CS = Calculated value of the isotopically-labeled spike level.
-10.2 Standard Deviation. Calculate the standard deviation of the Si values according to Equation 301-5.
+10.2 Standard Deviation. Calculate the standard deviation of the S i values according to Equation 301-5.
 ER20MR18.004
 Where:
 SD = Standard deviation of the candidate test method.
-Si = Measured value of the isotopically-labeled analyte in the ith field sample.
-Sm = Mean of the measured values of the isotopically-labeled analyte in the samples.
+S i = Measured value of the isotopically-labeled analyte in the i th field sample.
+S m = Mean of the measured values of the isotopically-labeled analyte in the samples.
 n = Number of isotopically-spiked samples.
 10.3 T Test. Test the bias for statistical significance by calculating the t-statistic using Equation 301-6. Use the standard deviation determined in Section 10.2 of this method and the numerical bias determined in Section 10.1 of this method.
 ER20MR18.005
@@ -116,7 +116,7 @@ n = Number of isotopically spike samples.
 Compare the calculated t-value with the critical value of the two-sided t-distribution at the 95 percent confidence level and n-1 degrees of freedom (see Table 301-3 of this method). When you conduct isotopic spiking according to the procedures specified in Sections 6.1 and 6.3 of this method as required, this critical value is 2.201 for 11 degrees of freedom. If the calculated t-value is less than or equal to the critical value, the bias is not statistically significant, and the bias of the candidate test method is acceptable. If the calculated t-value is greater than the critical value, the bias is statistically significant, and you must evaluate the relative magnitude of the bias using Equation 301-7.
 ER20MR18.006
 Where:
-BR = Relative bias.
+B R = Relative bias.
 B = Bias at the spike level.
 CS = Calculated value of the spike level.
 If the relative bias is less than or equal to 10 percent, the bias of the candidate test method is acceptable for use at multiple sources. If the relative bias is greater than 10 percent but less than or equal to 30 percent, and if you correct all data collected with the candidate test method in the future for bias using the source-specific correction factor determined in Equation 301-8, the candidate test method is acceptable only for application to the source at which the validation testing was conducted and may not be applied to any other sites. If either of the preceding two cases applies, you may continue to evaluate the candidate test method by calculating its precision. If not, the candidate test method does not meet the requirements of Method 301.
@@ -131,43 +131,43 @@ ER20MR18.008
 Where:
 RSD = Relative standard deviation of the candidate test method.
 SD = Standard deviation of the candidate test method calculated in Equation 301-5.
-Sm = Mean of the measured values of the spike samples.
+S m = Mean of the measured values of the spike samples.
 The data and candidate test method are unacceptable if the RSD is greater than 20 percent.
 11.0 What calculations must I perform for comparison with a validated method?
 If you are comparing a candidate test method to a validated method, then you must analyze the data according to the provisions in this section. If the data from the candidate test method fail either the bias or precision test, the data and the candidate test method are unacceptable. If the Administrator determines that the affected source has highly variable emission rates, the Administrator may require additional precision checks.
 11.1 Bias Analysis. Test the bias for statistical significance at the 95 percent confidence level by calculating the t-statistic.
-11.1.1 Bias. Determine the bias, which is defined as the mean of the differences between the candidate test method and the validated method (dm). Calculate di according to Equation 301-10.
+11.1.1 Bias. Determine the bias, which is defined as the mean of the differences between the candidate test method and the validated method (d m). Calculate d i according to Equation 301-10.
 ER20MR18.009
 Where:
-di = Difference in measured value between the candidate test method and the validated method for each quadruplicate sampling train.
-V1i = First measured value with the validated method in the ith quadruplicate sampling train.
-V2i = Second measured value with the validated method in the ith quadruplicate sampling train.
-P1i = First measured value with the candidate test method in the ith quadruplicate sampling train.
-P2i = Second measured value with the candidate test method in the ith quadruplicate sampling train.
+d i = Difference in measured value between the candidate test method and the validated method for each quadruplicate sampling train.
+V 1i = First measured value with the validated method in the ith quadruplicate sampling train.
+V 2i = Second measured value with the validated method in the ith quadruplicate sampling train.
+P 1i = First measured value with the candidate test method in the ith quadruplicate sampling train.
+P 2i = Second measured value with the candidate test method in the ith quadruplicate sampling train.
 Calculate the numerical value of the bias using Equation 301-11.
 ER20MR18.010
 Where:
 B = Numerical bias.
-di = Difference between the candidate test method and the validated method for the ith quadruplicate sampling train.
+d i = Difference between the candidate test method and the validated method for the ith quadruplicate sampling train.
 n = Number of quadruplicate sampling trains.
-11.1.2 Standard Deviation of the Differences. Calculate the standard deviation of the differences, SDd, using Equation 301-12.
+11.1.2 Standard Deviation of the Differences. Calculate the standard deviation of the differences, SD d, using Equation 301-12.
 ER20MR18.011
 Where:
-SDd = Standard deviation of the differences between the candidate test method and the validated method.
-di = Difference in measured value between the candidate test method and the validated method for each quadruplicate sampling train.
-dm = Mean of the differences, di, between the candidate test method and the validated method.
+SD d = Standard deviation of the differences between the candidate test method and the validated method.
+d i = Difference in measured value between the candidate test method and the validated method for each quadruplicate sampling train.
+d m = Mean of the differences, d i, between the candidate test method and the validated method.
 n = Number of quadruplicate sampling trains.
 11.1.3 T Test. Calculate the t-statistic using Equation 301-13.
 ER20MR18.012
 Where:
 t = Calculated t-statistic.
-dm = The mean of the differences, di, between the candidate test method and the validated method.
-SDd = Standard deviation of the differences between the candidate test method and the validated method.
+d m = The mean of the differences, d i, between the candidate test method and the validated method.
+SD d = Standard deviation of the differences between the candidate test method and the validated method.
 n = Number of quadruplicate sampling trains.
 For the procedure comparing a candidate test method to a validated test method listed in Table 301-1 of this method, n equals six. Compare the calculated t-statistic with the critical value of the t-statistic, and determine if the bias is significant at the 95 percent confidence level (see Table 301-3 of this method). When six runs are conducted, as specified in Table 301-1 of this method, the critical value of the t-statistic is 2.571 for five degrees of freedom. If the calculated t-value is less than or equal to the critical value, the bias is not statistically significant and the data are acceptable. If the calculated t-value is greater than the critical value, the bias is statistically significant, and you must evaluate the magnitude of the relative bias using Equation 301-14.
 ER20MR18.013
 Where:
-BR = Relative bias.
+B R = Relative bias.
 B = Bias as calculated in Equation 301-11.
 VS = Mean of measured values from the validated method.
 If the relative bias is less than or equal to 10 percent, the bias of the candidate test method is acceptable. On a source-specific basis, if the relative bias is greater than 10 percent but less than or equal to 30 percent, and if you correct all data collected in the future with the candidate test method for the bias using the correction factor, CF, determined in Equation 301-8 (using VS for CS), the bias of the candidate test method is acceptable for application to the source at which the validation testing was conducted. If either of the preceding two cases applies, you may continue to evaluate the candidate test method by calculating its precision. If not, the candidate test method does not meet the requirements of Method 301.
@@ -176,13 +176,13 @@ If the relative bias is less than or equal to 10 percent, the bias of the candid
 ER20MR18.014
 Where:
 p = Estimated variance of the candidate test method.
-di = The difference between the ith pair of samples collected with the candidate test method in a single quadruplicate train.
+d i = The difference between the i th pair of samples collected with the candidate test method in a single quadruplicate train.
 n = Total number of paired samples (quadruplicate trains).
 Calculate the estimated variance of the validated test method according to Equation 301-16.
 ER20MR18.015
 Where:
 v = Estimated variance of the validated test method.
-di = The difference between the ith pair of samples collected with the validated test method in a single quadruplicate train.
+d i = The difference between the i th pair of samples collected with the validated test method in a single quadruplicate train.
 n = Total number of paired samples (quadruplicate trains).
 11.2.2 The F test. Determine if the estimated variance of the candidate test method is greater than that of the validated method by calculating the F-value using Equation 301-17.
 ER20MR18.016
@@ -190,43 +190,43 @@ Where:
 F = Calculated F value.
 p = The estimated variance of the candidate test method.
 v = The estimated variance of the validated method.
-Compare the calculated F value with the one-sided confidence level for F from Table 301-4 of this method. The upper one-sided confidence level of 95 percent for F(6,6) is 4.28 when the procedure specified in Table 301-1 of this method for quadruplicate sampling trains is followed. If the calculated F value is greater than the critical F value, the difference in precision is significant, and the data and the candidate test method are unacceptable.
+Compare the calculated F value with the one-sided confidence level for F from Table 301-4 of this method. The upper one-sided confidence level of 95 percent for F (6,6) is 4.28 when the procedure specified in Table 301-1 of this method for quadruplicate sampling trains is followed. If the calculated F value is greater than the critical F value, the difference in precision is significant, and the data and the candidate test method are unacceptable.
 12.0 What calculations must I perform for analyte spiking?
 You must analyze the data for analyte spike testing according to this section.
 12.1 Bias Analysis. Test the bias for statistical significance at the 95 percent confidence level by calculating the t-statistic.
 12.1.1 Bias. Determine the bias, which is defined as the mean of the differences between the spiked samples and the unspiked samples in each quadruplicate sampling train minus the spiked amount, using Equation 301-18.
 ER20MR18.017
 Where:
-di = Difference between the spiked samples and unspiked samples in each quadruplicate sampling train minus the spiked amount.
-S1i = Measured value of the first spiked sample in the ith quadruplicate sampling train.
-S2i = Measured value of the second spiked sample in the ith quadruplicate sampling train.
-M1i = Measured value of the first unspiked sample in the ith quadruplicate sampling train.
-M2i = Measured value of the second unspiked sample in the ith quadruplicate sampling train.
+d i = Difference between the spiked samples and unspiked samples in each quadruplicate sampling train minus the spiked amount.
+S 1i = Measured value of the first spiked sample in the i th quadruplicate sampling train.
+S 2i = Measured value of the second spiked sample in the i th quadruplicate sampling train.
+M 1i = Measured value of the first unspiked sample in the i th quadruplicate sampling train.
+M 2i = Measured value of the second unspiked sample in the i th quadruplicate sampling train.
 CS = Calculated value of the spike level.
 Calculate the numerical value of the bias using Equation 301-19.
 ER20MR18.018
 Where:
 B = Numerical value of the bias.
-di = Difference between the spiked samples and unspiked samples in each quadruplicate sampling train minus the spiked amount.
+d i = Difference between the spiked samples and unspiked samples in each quadruplicate sampling train minus the spiked amount.
 n = Number of quadruplicate sampling trains.
 12.1.2 Standard Deviation of the Differences. Calculate the standard deviation of the differences using Equation 301-20.
 ER20MR18.019
 Where:
-SDd = Standard deviation of the differences of paired samples.
-di = Difference between the spiked samples and unspiked samples in each quadruplicate sampling train minus the spiked amount.
-dm = The mean of the differences, di, between the spiked samples and unspiked samples.
+SD d = Standard deviation of the differences of paired samples.
+d i = Difference between the spiked samples and unspiked samples in each quadruplicate sampling train minus the spiked amount.
+d m = The mean of the differences, d i, between the spiked samples and unspiked samples.
 n = Total number of quadruplicate sampling trains.
-12.1.3 T Test. Calculate the t-statistic using Equation 301-21, where n is the total number of test sample differences (di). For the quadruplicate sampling system procedure in Table 301-1 of this method, n equals six.
+12.1.3 T Test. Calculate the t-statistic using Equation 301-21, where n is the total number of test sample differences (d i). For the quadruplicate sampling system procedure in Table 301-1 of this method, n equals six.
 ER20MR18.020
 Where:
 t = Calculated t-statistic.
-d m = Mean of the difference, di, between the spiked samples and unspiked samples.
-SDd = Standard deviation of the differences of paired samples.
+d m = Mean of the difference, d i, between the spiked samples and unspiked samples.
+SD d = Standard deviation of the differences of paired samples.
 n = Number of quadruplicate sampling trains.
 Compare the calculated t-statistic with the critical value of the t-statistic, and determine if the bias is significant at the 95 percent confidence level. When six quadruplicate runs are conducted, as specified in Table 301-1 of this method, the 2-sided confidence level critical value is 2.571 for the five degrees of freedom. If the calculated t-value is less than the critical value, the bias is not statistically significant and the data are acceptable. If the calculated t-value is greater than the critical value, the bias is statistically significant and you must evaluate the magnitude of the relative bias using Equation 301-22.
 ER20MR18.021
 Where:
-BR = Relative bias.
+B R = Relative bias.
 B = Bias at the spike level from Equation 301-19.
 CS = Calculated value at the spike level.
 If the relative bias is less than or equal to 10 percent, the bias of the candidate test method is acceptable. On a source-specific basis, if the relative bias is greater than 10 percent but less than or equal to 30 percent, and if you correct all data collected with the candidate test method in the future for the magnitude of the bias using Equation 301-8, the bias of the candidate test method is acceptable for application to the tested source at which the validation testing was conducted. Proceed to evaluate precision of the candidate test method.
@@ -234,10 +234,10 @@ If the relative bias is less than or equal to 10 percent, the bias of the candid
 ER20MR18.022
 Where:
 SD = Standard deviation of the candidate test method.
-Si = Measured value of the analyte in the ith spiked sample.
-Sm = Mean of the measured values of the analyte in all the spiked samples.
+S i = Measured value of the analyte in the i th spiked sample.
+S m = Mean of the measured values of the analyte in all the spiked samples.
 n = Number of spiked samples.
-Calculate the RSD of the candidate test method using Equation 301-9, where SD and Sm are the values from Equation 301-23. The data and candidate test method are unacceptable if the RSD is greater than 20 percent.
+Calculate the RSD of the candidate test method using Equation 301-9, where SD and S m are the values from Equation 301-23. The data and candidate test method are unacceptable if the RSD is greater than 20 percent.
 13.0 How do I conduct tests at similar sources?
 If the Administrator has approved the use of an alternative test method to a test method required in 40 CFR part 59, 60, 61, 63, or 65 for an affected source, and you would like to apply the alternative test method to a similar source, then you must petition the Administrator as described in Section 17.1.1 of this method.
 Optional Requirements
@@ -246,7 +246,7 @@ Ruggedness testing is an optional requirement for validation of a candidate test
 Ruggedness testing is a study that can be conducted in the laboratory or the field to determine the sensitivity of a method to parameters such as analyte concentration, sample collection rate, interferent concentration, collection medium temperature, and sample recovery temperature. You conduct ruggedness testing by changing several variables simultaneously instead of changing one variable at a time. For example, you can determine the effect of seven variables in only eight experiments. (W.J. Youden, Statistical Manual of the Association of Official Analytical Chemists, Association of Official Analytical Chemists, Washington, DC, 1975, pp. 33-36).
 15.0 How do I determine the Limit of Detection for the candidate test method?
 Determination of the Limit of Detection (LOD) as specified in Sections 15.1 and 15.2 of this method is required for source-specific method validation and validation of a candidate test method intended to be used for multiple sources.
-15.1 Limit of Detection. The LOD is the minimum concentration of a substance that can be measured and reported with 99 percent confidence that the analyte concentration is greater than zero. For this protocol, the LOD is defined as three times the standard deviation, So, at the blank level.
+15.1 Limit of Detection. The LOD is the minimum concentration of a substance that can be measured and reported with 99 percent confidence that the analyte concentration is greater than zero. For this protocol, the LOD is defined as three times the standard deviation, S o, at the blank level.
 15.2 Purpose. The LOD establishes the lower detection limit of the candidate test method. You must calculate the LOD using the applicable procedures found in Table 301-5 of this method. For candidate test methods that collect the analyte in a sample matrix prior to an analytical measurement, you must determine the LOD using Procedure I in Table 301-5 of this method by calculating a method detection limit (MDL) as described in 40 CFR part 136, appendix B. For the purposes of this section, the LOD is equivalent to the calculated MDL. For radiochemical methods, use the Multi-Agency Radiological Laboratory Analytical Protocols (MARLAP) Manual (i.e., use the minimum detectable concentration (MDC) and not the LOD) available at https://www.epa.gov/radiation/marlap-manual-and-supporting-documents.
 Other Requirements and Information
 16.0 How do I apply for approval to use a candidate test method?
@@ -305,7 +305,7 @@ Comparing a candidate test method against a validated test method | Sample conta
 | Sorbent and impinger sampling systems that require extraction or digestion | Extract or digest six of the candidate test method samples within 7 days and extract or digest six other samples at the proposed maximum storage duration or within 2 weeks of the first extraction or digestion. Analyze an aliquot of the first six extracts (digestates) within 7 days and an aliquot at the proposed maximum storage durations or within 2 weeks of the initial analysis. This will allow analysis of extract storage impacts.
 | Sorbent systems that require thermal desorption | Analyze six samples within 7 days. Analyze another set of six samples at the proposed maximum storage duration or within 2 weeks of the initial analysis.
 Table 301-3—Critical Values of t for the Two-Tailed 95 Percent Confidence Limit 1
-Degrees of freedom | t95
+Degrees of freedom | t 95
 1 | 12.706
 2 | 4.303
 3 | 3.182
@@ -328,7 +328,7 @@ Degrees of freedom | t95
 20 | 2.086
 1 Adapted from Reference 18.17 in section 18.0.
 Table 301-4—Upper Critical Values of the F Distribution for the 95 Percent Confidence Limit 1
-Numerator (k1) and denominator (k2) degrees of freedom | F{F>F.05(k1,k2)}
+Numerator (k 1) and denominator (k 2) degrees of freedom | F{F>F.05 (k 1,k 2)}
 1,1 | 161.40
 2,2 | 19.00
 3,3 | 9.28
@@ -350,16 +350,16 @@ Numerator (k1) and denominator (k2) degrees of freedom | F{F>F.05(k1,k2)}
 19,19 | 2.17
 20,20 | 2.12
 1 Adapted from References 18.17 and 18.18 in section 18.0.
-Table 301-5—Procedures for Estimating So
+Table 301-5—Procedures for Estimating S o
 |
-If the estimated LOD (LOD1, expected approximate LOD concentration level) is no more than twice the calculated LOD or an analyte in a sample matrix was collected prior to an analytical measurement, use Procedure I as follows | If the estimated LOD (LOD1, expected approximate LOD concentration level) is greater than twice the calculated LOD, use Procedure II as follows.
+If the estimated LOD (LOD 1, expected approximate LOD concentration level) is no more than twice the calculated LOD or an analyte in a sample matrix was collected prior to an analytical measurement, use Procedure I as follows | If the estimated LOD (LOD 1, expected approximate LOD concentration level) is greater than twice the calculated LOD, use Procedure II as follows.
 Procedure I: | Procedure II:
-Determine the LOD by calculating a method detection limit (MDL) as described in 40 CFR part 136, appendix B | Prepare two additional standards (LOD2 and LOD3) at concentration levels lower than the standard used in Procedure I (LOD1).
-| Sample and analyze each of these standards (LOD2 and LOD3) at least seven times.
-| Calculate the standard deviation (S2 and S3) for each concentration level.
-| Plot the standard deviations of the three test standards (S1, S2 and S3) as a function of concentration.
-| Draw a best-fit straight line through the data points and extrapolate to zero concentration. The standard deviation at zero concentration is So.
-| Calculate the LOD0 (referred to as the calculated LOD) as 3 times So.
+Determine the LOD by calculating a method detection limit (MDL) as described in 40 CFR part 136, appendix B | Prepare two additional standards (LOD 2 and LOD 3) at concentration levels lower than the standard used in Procedure I (LOD 1).
+| Sample and analyze each of these standards (LOD 2 and LOD 3) at least seven times.
+| Calculate the standard deviation (S 2 and S 3) for each concentration level.
+| Plot the standard deviations of the three test standards (S 1, S 2 and S 3) as a function of concentration.
+| Draw a best-fit straight line through the data points and extrapolate to zero concentration. The standard deviation at zero concentration is S o.
+| Calculate the LOD 0 (referred to as the calculated LOD) as 3 times S o.
 Method 303—Determination of Visible Emissions From By-Product Coke Oven Batteries
 Note: This method is not inclusive with respect to observer certification. Some material is incorporated by reference from other methods in appendix A to 40 CFR part 60. Therefore, to obtain reliable results, persons using this method should have a thorough knowledge of Method 9.
 1.0 Scope and Application
@@ -379,7 +379,7 @@ Note: This method is not inclusive with respect to observer certification. Some 
 3.10 Decarbonization period means the period of time for combusting oven carbon that commences when the oven lids are removed from an empty oven or when standpipe caps of an oven are opened. The period ends with the initiation of the next charging period for that oven.
 3.11 Larry car means an apparatus used to charge coal to a coke oven with a wet coal charging system.
 3.12 Log average means logarithmic average as calculated in Section 12.4.
-3.13 Offtake system means any individual oven apparatus that is stationary and provides a passage for gases from an oven to a coke oven battery collecting main or to another oven. Offtake system components include the standpipe and standpipe caps, goosenecks, stationary jumper pipes, mini-standpipes, and standpipe and gooseneck connections.
+3.13 Offtake system means any individual oven apparatus that is stationary and provides a passage for gases from an oven to a coke oven battery collecting main or to another oven. Offtake system components include the standpipe and standpipe caps, goosenecks, stationary jumper pipes, mini- standpipes, and standpipe and gooseneck connections.
 3.14 Operating oven means any oven not out of operation for rebuild or maintenance work extensive enough to require the oven to be skipped in the charging sequence.
 3.15 Oven means a chamber in the coke oven battery in which coal undergoes destructive distillation to produce coke.
 3.16 Push side means the side of the battery from which the coke is pushed from ovens at the end of the coking cycle.
@@ -492,31 +492,31 @@ Note: VE from open standpipes of an oven being charged count as charging emissio
 12.0 Data Analysis and Calculations
 12.1 Nomenclature.
 A = 150 or the number of valid observations (runs). The value of A shall not be less than 145, except for purposes of determinations under § 63.306(c) (work practice plan implementation) or § 63.306(d) (work practice plan revisions) of this part. No set of observations shall be considered valid for such a recalculation that otherwise would not be considered a valid set of observations for a calculation under this paragraph.
-Di = Number of doors on non-operating ovens.
-Dno = Number of doors not observed.
-Dob = Total number of doors observed on operating ovens.
-Dt = Total number of oven doors on the battery.
+D i = Number of doors on non-operating ovens.
+D no = Number of doors not observed.
+D ob = Total number of doors observed on operating ovens.
+D t = Total number of oven doors on the battery.
 e = 2.72
 J = Number of stationary jumper pipes.
 L = Number of doors with VE.
-Lb = Yard-equivalent reading.
-Ls = Number of doors with VE observed from the bench under sheds.
-Ly = Number of doors with VE observed from the yard.
-Ly = Number of doors with VE observed from the yard on the push side.
+L b = Yard-equivalent reading.
+L s = Number of doors with VE observed from the bench under sheds.
+L y = Number of doors with VE observed from the yard.
+L y = Number of doors with VE observed from the yard on the push side.
 ln = Natural logarithm.
 N = Total number of ovens in the battery.
-Ni = Total number of inoperable ovens.
-PNO = Number of ports not observed.
-Povn = Number of ports per oven.
-PVE = Number of topside port lids with VE.
+N i = Total number of inoperable ovens.
+P NO = Number of ports not observed.
+P ovn = Number of ports per oven.
+P VE = Number of topside port lids with VE.
 PLD = Percent leaking coke oven doors for the test run.
 PLL = Percent leaking topside port lids for the run.
 PLO = Percent leaking offtake systems.
 T = Total time allowed for traverse, seconds.
-Tovn = Number of offtake systems (excluding jumper pipes) per oven.
-TNO = Number of offtake systems not observed.
-TVE = Number of offtake systems with VE.
-Xi = Seconds of VE during the ith charge.
+T ovn = Number of offtake systems (excluding jumper pipes) per oven.
+T NO = Number of offtake systems not observed.
+T VE = Number of offtake systems with VE.
+X i = Seconds of VE during the ith charge.
 Z = Number of topside port lids or offtake systems with VE.
 12.2 Criteria for Acceptance for VE Determinations from Coke Oven Door Areas. After completing the run, calculate the maximum time allowed to observe the ovens using the following equation:
 er17oc00.535
@@ -531,7 +531,7 @@ er17oc00.538
 er17oc00.539
 12.5.3 When traverses are conducted from the bench under sheds, calculate the coke side and the push side separately. Use Equation 303-6 to calculate a yard-equivalent reading:
 er17oc00.540
-If Lb is less than zero, use zero for Lb in Equation 303-7 in the calculation of PLD.
+If L b is less than zero, use zero for L b in Equation 303-7 in the calculation of PLD.
 12.5.3.1 Use Equation 303-7 to calculate PLD:
 er17oc00.541
 Round off PLD to the nearest hundredth of 1 percent and record as the percent leaking coke oven doors for the run.
@@ -561,7 +561,7 @@ Battery no.: ___ Date: ___ Run no.: ___
 City, State:
 Observer name:
 Company representative(s):
-Charge No. | OvenNo. | Clock time | Visibleemissions, seconds | Comments
+Charge No. | Oven No. | Clock time | Visible emissions, seconds | Comments
 Figure 303-1. Charging System Inspection
 Company name:
 Battery no.:
@@ -575,7 +575,7 @@ Company representative(s):
 Traverse time CS:
 Traverse time PS:
 Valid run (Y or N):
-Time traverse started/completed | PS/CS | Door No. | Comments(No. of blocked doors, interruptions to traverse, etc.)
+Time traverse started/completed | PS/CS | Door No. | Comments (No. of blocked doors, interruptions to traverse, etc.)
 Figure 303-2. Door Area Inspection.
 Company name:
 Battery no.:
@@ -592,7 +592,7 @@ Total no. of jumper pipes:
 Ovens not observed:
 Total traverse time:
 Valid run (Y or N):
-Time traverse started/completed | Type of Inspection(lids, offtakes, collecting main) | Location of VE(Oven #/Port #) | Comments
+Time traverse started/completed | Type of Inspection (lids, offtakes, collecting main) | Location of VE (Oven #/Port #) | Comments
 Figure 303-3. Topside Inspection
 Method 303A—Determination of Visible Emissions From Nonrecovery Coke Oven Batteries
 Note: This method does not include all of the specifications pertaining to observer certification. Some material is incorporated by reference from other methods in this part and in appendix A to 40 CFR Part 60. Therefore, to obtain reliable results, persons using this method should have a thorough knowledge of Method 9 and Method 303.
@@ -656,7 +656,7 @@ Company representative(s):
 Traverse time CS:
 Traverse time PS:
 Valid run (Y or N):
-Time traverse started/completed | PS/CS | Door No. | Comments(No. of blocked doors, interruptions to traverse, etc.)
+Time traverse started/completed | PS/CS | Door No. | Comments (No. of blocked doors, interruptions to traverse, etc.)
 Figure 303A-1. Door Area Inspection
 Method 304A: Determination of Biodegradation Rates of Organic Compounds (Vent Option)
 1.0 Scope and Application
@@ -694,12 +694,12 @@ Note: Mention of trade names or products does not constitute endorsement by the 
 8.1.2.1 The hydraulic residence time of the aeration tank is calculated as the ratio of the volume of the tank (L) to the flow rate (L/min). At the beginning of a test, the container shall be connected to the feed pump and solution shall be pumped to the benchtop bioreactor at the required flow rate to achieve the calculated hydraulic residence time of wastewater in the aeration tank.
 ER17OC00.547
 Where:
-Qtest = wastewater flow rate (L/min)
-Qfs = average flow rate of full-scale process (L/min)
-Vfs = volume of full-scale aeration tank (L)
+Q test = wastewater flow rate (L/min)
+Q fs = average flow rate of full-scale process (L/min)
+V fs = volume of full-scale aeration tank (L)
 8.1.2.2 The target flow rate in the test apparatus is the same as the flow rate in the target full-scale process multiplied by the ratio of benchtop bioreactor volume (e.g., 6 L) to the volume of the full-scale aeration tank. The hydraulic residence time shall be maintained at 90 to 100 percent of the residence time maintained in the full-scale unit. A nominal flow rate is set on the pump based on a pump calibration. Changes in the elasticity of the tubing in the pump head and the accumulation of material in the tubing affect this calibration. The nominal pumping rate shall be changed as necessary based on volumetric flow measurements. Discharge the benchtop bioreactor effluent to a wastewater storage, treatment, or disposal facility, except during sampling or flow measurement periods.
 8.1.3 Sludge Recycle Rate. Set the sludge recycle rate at a rate sufficient to prevent accumulation in the bottom of the clarifier. Set the air circulation rate sufficient to maintain the biomass in suspension.
-8.1.4 Benchtop Bioreactor Operation and Maintenance. Temperature, dissolved oxygen concentration, exit vent flow rate, benchtop bioreactor effluent flow rate, and air circulation rate shall be measured and recorded three times throughout each day of benchtop bioreactor operation. If other parameters (such as pH) are measured and maintained in the target full-scale unit, these parameters, where appropriate, shall be monitored and maintained to target full-scale specifications in the benchtop bioreactor. At the beginning of each sampling period (Section 8.2), sample the benchtop bioreactor contents for suspended solids analysis. Take this sample by loosening a clamp on a length of tubing attached to the lower side port. Determine the suspended solids gravimetrically by the Gooch crucible/glass fiber filter method for total suspended solids, in accordance with Standard Methods3 or equivalent. When necessary, sludge shall be wasted from the lower side port of the benchtop bioreactor, and the volume that is wasted shall be replaced with an equal volume of the reactor effluent. Add thickened activated sludge mixed liquor as necessary to the benchtop bioreactor to increase the suspended solids concentration to the desired level. Pump this mixed liquor to the benchtop bioreactor through the upper side port (Item 24 in Figure 304A-1). Change the membrane on the dissolved oxygen probe before starting the test. Calibrate the oxygen probe immediately before the start of the test and each time the membrane is changed.
+8.1.4 Benchtop Bioreactor Operation and Maintenance. Temperature, dissolved oxygen concentration, exit vent flow rate, benchtop bioreactor effluent flow rate, and air circulation rate shall be measured and recorded three times throughout each day of benchtop bioreactor operation. If other parameters (such as pH) are measured and maintained in the target full-scale unit, these parameters, where appropriate, shall be monitored and maintained to target full-scale specifications in the benchtop bioreactor. At the beginning of each sampling period (Section 8.2), sample the benchtop bioreactor contents for suspended solids analysis. Take this sample by loosening a clamp on a length of tubing attached to the lower side port. Determine the suspended solids gravimetrically by the Gooch crucible/glass fiber filter method for total suspended solids, in accordance with Standard Methods 3 or equivalent. When necessary, sludge shall be wasted from the lower side port of the benchtop bioreactor, and the volume that is wasted shall be replaced with an equal volume of the reactor effluent. Add thickened activated sludge mixed liquor as necessary to the benchtop bioreactor to increase the suspended solids concentration to the desired level. Pump this mixed liquor to the benchtop bioreactor through the upper side port (Item 24 in Figure 304A-1). Change the membrane on the dissolved oxygen probe before starting the test. Calibrate the oxygen probe immediately before the start of the test and each time the membrane is changed.
 8.1.5 Inspection and Correction Procedures. If the feed line tubing becomes clogged, replace with new tubing. If the feed flow rate is not within 5 percent of target flow any time the flow rate is measured, reset pump or check the flow measuring device and measure flow rate again until target flow rate is achieved.
 8.2 Test Sampling. At least two and one half hydraulic residence times after the system has reached the targeted specifications shall be permitted to elapse before the first sample is taken. Effluent samples of the clarifier discharge (Item 20 in Figure 304A-1) and the influent wastewater feed are collected in 40-mL septum vials to which two drops of 1:10 hydrochloric acid (HCl) in water have been added. Sample the clarifier discharge directly from the drain line. These samples will be composed of the entire flow from the system for a period of several minutes. Feed samples shall be taken from the feed pump suction line after temporarily stopping the benchtop bioreactor feed, removing a connector, and squeezing the collapsible feed container. Store both influent and effluent samples at 4 °C immediately after collection and analyze within 8 hours of collection.
 8.2.1 Frequency of Sampling. During the test, sample and analyze the wastewater feed and the clarifier effluent at least six times. The sampling intervals shall be separated by at least 8 hours. During any individual sampling interval, sample the wastewater feed simultaneously with or immediately after the effluent sample. Calculate the relative standard deviation (RSD) of the amount removed (i.e., effluent concentration—wastewater feed concentration). The RSD values shall be <15 percent. If an RSD value is >15 percent, continue sampling and analyzing influent and effluent sets of samples until the RSD values are within specifications.
@@ -710,18 +710,18 @@ Vfs = volume of full-scale aeration tank (L)
 9.2.1 Determine the suspended solids concentration (section 8.1.4) at the beginning of a test, and once per day thereafter during the test. If the test is completed within a two day period, determine the suspended solids concentration after the final sample set is taken. If the suspended solids concentration exceeds the specified concentration, remove a fraction of the sludge from the benchtop bioreactor. The required volume of mixed liquor to remove is determined as follows:
 ER17OC00.548
 Where:
-Vw is the wasted volume (Liters),
-Vr is the volume of the benchtop bioreactor (Liters),
-Sm is the measured solids (g/L), and
-Ss is the specified solids (g/L).
+V w is the wasted volume (Liters),
+V r is the volume of the benchtop bioreactor (Liters),
+S m is the measured solids (g/L), and
+S s is the specified solids (g/L).
 9.2.2 Remove the mixed liquor from the benchtop bioreactor by loosening a clamp on the mixed liquor sampling tube and allowing the required volume to drain to a graduated flask. Clamp the tube when the correct volume has been wasted. Replace the volume of the liquid wasted by pouring the same volume of effluent back into the benchtop bioreactor. Dispose of the waste sludge properly.
 9.3 Sludge Makeup. In the event that the suspended solids concentration is lower than the specifications, add makeup sludge back into the benchtop bioreactor. Determine the amount of sludge added by the following equation:
 ER17OC00.549
 Where:
-Vw is the volume of sludge to add (Liters),
-Vr is the volume of the benchtop bioreactor (Liters),
-Sw is the solids in the makeup sludge (g/L),
-Sm is the measured solids (g/L), and Ss is the specified solids (g/L).
+V w is the volume of sludge to add (Liters),
+V r is the volume of the benchtop bioreactor (Liters),
+S w is the solids in the makeup sludge (g/L),
+S m is the measured solids (g/L), and S s is the specified solids (g/L).
 10.0 Calibration and Standardization
 10.1 Wastewater Pump Calibration. Determine the wastewater flow rate by collecting the system effluent for a time period of at least one hour, and measuring the volume with a graduated cylinder. Record the collection time period and volume collected. Determine flow rate. Adjust the pump speed to deliver the specified flow rate.
 10.2 Calibration Standards. Prepare calibration standards from pure certified standards in an aqueous medium. Prepare and analyze three concentrations of calibration standards for each target component (or for a mixture of components) in triplicate daily throughout the analyses of the test samples. At each concentration level, a single calibration shall be within 5 percent of the average of the three calibration results. The low and medium calibration standards shall bracket the expected concentration of the effluent (treated) wastewater. The medium and high standards shall bracket the expected influent concentration.
@@ -730,8 +730,8 @@ Sm is the measured solids (g/L), and Ss is the specified solids (g/L).
 11.1.1 After identifying the compounds of interest in the wastewater, develop and/or use one or more analytical techniques capable of measuring each of those compounds (more than one analytical technique may be required, depending on the characteristics of the wastewater). Test Method 18, found in appendix A of 40 CFR 60, may be used as a guideline in developing the analytical technique. Purge and trap techniques may be used for analysis providing the target components are sufficiently volatile to make this technique appropriate. The limit of quantitation for each compound shall be determined (see reference 1). If the effluent concentration of any target compound is below the limit of quantitation determined for that compound, the operation of the Method 304 unit may be altered to attempt to increase the effluent concentration above the limit of quantitation. Modifications to the method shall be approved prior to the test. The request should be addressed to Method 304 contact, Emissions Measurement Center, Mail Drop 19, U.S. Environmental Protection Agency, Research Triangle Park, NC 27711.
 12.0 Data Analysis and Calculations
 12.1 Nomenclature. The following symbols are used in the calculations.
-Ci = Average inlet feed concentration for a compound of interest, as analyzed (mg/L)
-Co = Average outlet (effluent) concentration for a compound of interest, as analyzed (mg/L)
+C i = Average inlet feed concentration for a compound of interest, as analyzed (mg/L)
+C o = Average outlet (effluent) concentration for a compound of interest, as analyzed (mg/L)
 X = Biomass concentration, mixed liquor suspended solids (g/L)
 t = Hydraulic residence time in the benchtop bioreactor (hours)
 V = Volume of the benchtop bioreactor (L)
@@ -744,7 +744,7 @@ ER17OC00.551
 ER17OC00.552
 12.5 Relative Standard Deviation (RSD). Determine the standard deviation of both the influent and effluent sample concentrations (S) using the following equation:
 ER17OC00.553
-12.6 Determination of Percent Air Emissions and Percent Biodegraded. Use the results from this test method and follow the applicable procedures in appendix C of 40 CFR part 63, entitled, "Determination of the Fraction Biodegraded (Fbio) in a Biological Treatment Unit" to determine Fbio.
+12.6 Determination of Percent Air Emissions and Percent Biodegraded. Use the results from this test method and follow the applicable procedures in appendix C of 40 CFR part 63, entitled, "Determination of the Fraction Biodegraded (F bio) in a Biological Treatment Unit" to determine F bio.
 13.0 Method Performance [Reserved]
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
@@ -792,9 +792,9 @@ Note: Mention of trade names or products does not constitute endorsement by the 
 8.1.2.1 The hydraulic residence time of the aeration tank is calculated as the ratio of the volume of the tank (L) to the flow rate (L/min). At the beginning of a test, the container shall be connected to the feed pump and solution shall be pumped to the benchtop bioreactor at the required flow rate to achieve the calculated hydraulic residence time of wastewater in the aeration tank.
 ER17OC00.555
 Where:
-Qtest = wastewater flow rate (L/min)
-Qfs = average flow rate of full-scale process (L/min)
-Vfs = volume of full-scale aeration tank (L)
+Q test = wastewater flow rate (L/min)
+Q fs = average flow rate of full-scale process (L/min)
+V fs = volume of full-scale aeration tank (L)
 8.1.2.2 The target flow rate in the test apparatus is the same as the flow rate in the target full-scale process multiplied by the ratio of benchtop bioreactor volume (e.g., 6 L) to the volume of the full-scale aeration tank. The hydraulic residence time shall be maintained at 90 to 100 percent of the residence time maintained in the target full-scale unit. A nominal flow rate is set on the pump based on a pump calibration. Changes in the elasticity of the tubing in the pump head and the accumulation of material in the tubing affect this calibration. The nominal pumping rate shall be changed as necessary based on volumetric flow measurements. Discharge the benchtop bioreactor effluent to a wastewater storage, treatment, or disposal facility, except during sampling or flow measurement periods.
 8.1.3 Sludge Recycle Rate. Set the sludge recycle rate at a rate sufficient to prevent accumulation in the bottom of the clarifier. Set the air circulation rate sufficient to maintain the biomass in suspension.
 8.1.4 Benchtop Bioreactor Operation and Maintenance. Temperature, dissolved oxygen concentration, flow rate, and air circulation rate shall be measured and recorded three times throughout each day of testing. If other parameters (such as pH) are measured and maintained in the target full-scale unit, these parameters shall, where appropriate, be monitored and maintained to full-scale specifications in the benchtop bioreactor. At the beginning of each sampling period (section 8.2), sample the benchtop bioreactor contents for suspended solids analysis. Take this sample by loosening a clamp on a length of tubing attached to the lower side port. Determine the suspended solids gravimetrically by the Gooch crucible/glass fiber filter method for total suspended solids, in accordance with Standard Methods 3 or equivalent. When necessary, sludge shall be wasted from the lower side port of the benchtop bioreactor, and the volume that is wasted shall be replaced with an equal volume of the benchtop bioreactor effluent. Add thickened activated sludge mixed liquor as necessary to the benchtop bioreactor to increase the suspended solids concentration to the desired level. Pump this mixed liquor to the benchtop bioreactor through the upper side port (Item 24 in Figure 304B-1). Change the membrane on the dissolved oxygen probe before starting the test. Calibrate the oxygen probe immediately before the start of the test and each time the membrane is changed. The scrubber solution shall be replaced each weekday with 175 mL 45 percent W/W KOH solution to which five drops of 0.2 percent alizarin yellow indicator in water have been added. The potassium hydroxide solution in the alkaline scrubber shall be changed if the alizarin yellow dye color changes.
@@ -808,29 +808,29 @@ Vfs = volume of full-scale aeration tank (L)
 9.2.1 Determine the suspended solids concentration (section 8.1.4) at the beginning of a test, and once per day thereafter during the test. If the test is completed within a two day period, determine the suspended solids concentration after the final sample set is taken. If the suspended solids concentration exceeds the specified concentration, remove a fraction of the sludge from the benchtop bioreactor. The required volume of mixed liquor to remove is determined as follows:
 ER17OC00.556
 Where:
-Vw is the wasted volume (Liters),
-Vr is the volume of the benchtop bioreactor (Liters),
-Sm is the measured solids (g/L), and
-Ss is the specified solids (g/L).
+V w is the wasted volume (Liters),
+V r is the volume of the benchtop bioreactor (Liters),
+S m is the measured solids (g/L), and
+S s is the specified solids (g/L).
 9.2.2 Remove the mixed liquor from the benchtop bioreactor by loosening a clamp on the mixed liquor sampling tube and allowing the required volume to drain to a graduated flask. Clamp the tube when the correct volume has been wasted. Replace the volume of the liquid wasted by pouring the same volume of effluent back into the benchtop bioreactor. Dispose of the waste sludge properly.
 9.3 Sludge Makeup. In the event that the suspended solids concentration is lower than the specifications, add makeup sludge back into the benchtop bioreactor. Determine the amount of sludge added by the following equation:
 ER17OC00.557
 Where:
-Vw is the volume of sludge to add (Liters),
-Vr is the volume of the benchtop bioreactor (Liters),
-Sw is the solids in the makeup sludge (g/L),
-Sm is the measured solids (g/L), and
-Ss is the specified solids (g/L).
+V w is the volume of sludge to add (Liters),
+V r is the volume of the benchtop bioreactor (Liters),
+S w is the solids in the makeup sludge (g/L),
+S m is the measured solids (g/L), and
+S s is the specified solids (g/L).
 10.0 Calibration and Standardizations
 10.1 Wastewater Pump Calibration. Determine the wastewater flow rate by collecting the system effluent for a time period of at least one hour, and measuring the volume with a graduated cylinder. Record the collection time period and volume collected. Determine flow rate. Adjust the pump speed to deliver the specified flow rate.
 10.2 Calibration Standards. Prepare calibration standards from pure certified standards in an aqueous medium. Prepare and analyze three concentrations of calibration standards for each target component (or for a mixture of components) in triplicate daily throughout the analyses of the test samples. At each concentration level, a single calibration shall be within 5 percent of the average of the three calibration results. The low and medium calibration standards shall bracket the expected concentration of the effluent (treated) wastewater. The medium and high standards shall bracket the expected influent concentration.
 11.0 Analytical Test Procedures
 11.1 Analysis. If the identity of the compounds of interest in the wastewater is not known, a representative sample of the wastewater shall be analyzed in order to identify all of the compounds of interest present. A gas chromatography/mass spectrometry screening method is recommended.
-11.1.1 After identifying the compounds of interest in the wastewater, develop and/or use one or more analytical technique capable of measuring each of those compounds (more than one analytical technique may be required, depending on the characteristics of the wastewater). Method 18, found in appendix A of 40 CFR 60, may be used as a guideline in developing the analytical technique. Purge and trap techniques may be used for analysis providing the target components are sufficiently volatile to make this technique appropriate. The limit of quantitation for each compound shall be determined.1 If the effluent concentration of any target compound is below the limit of quantitation determined for that compound, the operation of the Method 304 unit may be altered to attempt to increase the effluent concentration above the limit of quantitation. Modifications to the method shall be approved prior to the test. The request should be addressed to Method 304 contact, Emissions Measurement Center, Mail Drop 19, U.S. Environmental Protection Agency, Research Triangle Park, NC 27711.
+11.1.1 After identifying the compounds of interest in the wastewater, develop and/or use one or more analytical technique capable of measuring each of those compounds (more than one analytical technique may be required, depending on the characteristics of the wastewater). Method 18, found in appendix A of 40 CFR 60, may be used as a guideline in developing the analytical technique. Purge and trap techniques may be used for analysis providing the target components are sufficiently volatile to make this technique appropriate. The limit of quantitation for each compound shall be determined. 1 If the effluent concentration of any target compound is below the limit of quantitation determined for that compound, the operation of the Method 304 unit may be altered to attempt to increase the effluent concentration above the limit of quantitation. Modifications to the method shall be approved prior to the test. The request should be addressed to Method 304 contact, Emissions Measurement Center, Mail Drop 19, U.S. Environmental Protection Agency, Research Triangle Park, NC 27711.
 12.0 Data Analysis and Calculations
 12.1 Nomenclature. The following symbols are used in the calculations.
-Ci = Average inlet feed concentration for a compound of interest, as analyzed (mg/L)
-Co = Average outlet (effluent) concentration for a compound of interest, as analyzed (mg/L)
+C i = Average inlet feed concentration for a compound of interest, as analyzed (mg/L)
+C o = Average outlet (effluent) concentration for a compound of interest, as analyzed (mg/L)
 X = Biomass concentration, mixed liquor suspended solids (g/L)
 t = Hydraulic residence time in the benchtop bioreactor (hours)
 V = Volume of the benchtop bioreactor (L)
@@ -843,7 +843,7 @@ ER17OC00.559
 ER17OC00.560
 12.5 Relative Standard Deviation (RSD). Determine the standard deviation of both the influent and effluent sample concentrations (S) using the following equation:
 ER17OC00.561
-12.6 Determination of Percent Air Emissions and Percent Biodegraded. Use the results from this test method and follow the applicable procedures in appendix C of 40 CFR Part 63, entitled, "Determination of the Fraction Biodegraded (Fbio) in a Biological Treatment Unit" to determine Fbio.
+12.6 Determination of Percent Air Emissions and Percent Biodegraded. Use the results from this test method and follow the applicable procedures in appendix C of 40 CFR Part 63, entitled, "Determination of the Fraction Biodegraded (F bio) in a Biological Treatment Unit" to determine F bio.
 13.0 Method Performance [Reserved]
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
@@ -874,7 +874,7 @@ Note: This method does not include all of the specifications (e.g., equipment an
 6.1.3 Coalescing Filter. The coalescing filter serves to discourage aerosol formation of sample gas once it leaves the purge chamber. The glass filter has a fritted disc mounted 10 cm (3.9 in) from the bottom. Two #7 Ace-threads are used for the inlet and outlet connections. The dimensions of the chamber are shown in Figure 305-2.
 6.1.4 Oven. A forced convection airflow oven capable of maintaining the purge chamber and coalescing filter at 75 ±2 °C (167 ±3.6 °F).
 6.1.5 Toggle Valve. An on/off valve constructed from brass or stainless steel rated to 100 psig. This valve is placed in line between the purge nitrogen source and the flow controller.
-6.1.6 Flow Controller. High-quality stainless steel flow controller capable of restricting a flow of nitrogen to 6 ±0.06 L/min (0.2 ±0.002 ft3/min) at 40 psig.
+6.1.6 Flow Controller. High-quality stainless steel flow controller capable of restricting a flow of nitrogen to 6 ±0.06 L/min (0.2 ±0.002 ft 3 /min) at 40 psig.
 6.1.7 Polyethylene Glycol Cleaning System.
 6.1.7.1 Round-Bottom Flask. One liter, three-neck glass round-bottom flask for cleaning PEG. Standard taper 24/40 joints are mounted on each neck.
 6.1.7.2 Heating Mantle. Capable of heating contents of the 1-L flask to 120 °C (248 °F).
@@ -882,7 +882,7 @@ Note: This method does not include all of the specifications (e.g., equipment an
 6.1.7.4 Temperature Sensor. Partial immersion glass thermometer.
 6.1.7.5 Hose Adapter. Glass with 24/40 standard tapered joint.
 6.2 Volatile Organic Recovery System.
-6.2.1 Splitter Valve (Optional). Stainless steel cross-pattern valve capable of splitting nominal flow rates from the purge flow of 6 L/min (0.2 ft3/min). The valve shall be maintained at 75 + 2 °C (167 ±3.6 °F) in the heated zone and shall be placed downstream of the coalescing filter. It is recommended that 0.125 in OD (3.175 mm) tubing be used to direct the split vent flow from the heated zone. The back pressure caused by the 0.125 in OD (3.175 mm) tubing is critical for maintaining proper split valve operation.
+6.2.1 Splitter Valve (Optional). Stainless steel cross-pattern valve capable of splitting nominal flow rates from the purge flow of 6 L/min (0.2 ft 3 /min). The valve shall be maintained at 75 + 2 °C (167 ±3.6 °F) in the heated zone and shall be placed downstream of the coalescing filter. It is recommended that 0.125 in OD (3.175 mm) tubing be used to direct the split vent flow from the heated zone. The back pressure caused by the 0.125 in OD (3.175 mm) tubing is critical for maintaining proper split valve operation.
 Note: The splitter valve design is optional; it may be used in cases where the concentration of a pollutant would saturate the adsorbents.
 6.2.2 Injection Port. Stainless steel 1/4 in OD (6.35 mm) compression fitting tee with a 6 mm (0.2 in) septum fixed on the top port. The injection port is the point of entry for the recovery study solution. If using a gaseous standard to determine recovery efficiency, connect the gaseous standard to the injection port of the tee.
 6.2.3 Knockout Trap (Optional but Recommended). A 25 mL capacity glass reservoir body with a full-stem impinger (to avoid leaks, a modified midget glass impinger with a screw cap and ball/socket clamps on the inlet and outlet is recommended). The empty impinger is placed in an ice water bath between the injection port and the sorbent cartridge. Its purpose is to reduce the water content of the purge gas (saturated at 75 °C (167 °F)) before the sorbent cartridge.
@@ -898,7 +898,7 @@ Note: The splitter valve design is optional; it may be used in cases where the c
 6.3.3 Data System. A programmable electronic integrator for recording, analyzing, and storing the signal generated by the detector.
 7.0 Reagents and Standards
 7.1 Method 25D Purge Apparatus.
-7.1.1 Polyethylene Glycol (PEG). Ninety-eight percent pure organic polymer with an average molecular weight of 400 g/mol. Volatile organics are removed from the PEG prior to use by heating to 120 ±5 °C (248 ±9 °F) and purging with pure nitrogen at 1 L/min (0.04 ft3/min) for 2 hours. After purging and heating, the PEG is maintained at room temperature under a nitrogen purge maintained at 1 L/min (0.04 ft3/min) until used. A typical apparatus used to clean the PEG is shown in Figure 305-3.
+7.1.1 Polyethylene Glycol (PEG). Ninety-eight percent pure organic polymer with an average molecular weight of 400 g/mol. Volatile organics are removed from the PEG prior to use by heating to 120 ±5 °C (248 ±9 °F) and purging with pure nitrogen at 1 L/min (0.04 ft 3 /min) for 2 hours. After purging and heating, the PEG is maintained at room temperature under a nitrogen purge maintained at 1 L/min (0.04 ft 3 /min) until used. A typical apparatus used to clean the PEG is shown in Figure 305-3.
 7.1.2 Water. Organic-free deionized water is required.
 7.1.3 Nitrogen. High-purity nitrogen (less than 0.5 ppm total hydrocarbons) is used to remove test compounds from the purge matrix. The source of nitrogen shall be regulated continuously to 40 psig before the on/off toggle valve.
 7.2 Volatile Organic Recovery System.
@@ -929,23 +929,23 @@ Section | Quality control measure | Effect
 11.2.3 Repeat the analysis for the three samples collected in Section 8.3. Report the corrected concentration of each of the waste samples, average waste concentration, and relative standard deviation (Equation 305-6, Section 12.7).
 12.0 Data Analysis and Calculations.
 12.1 Nomenclature.
-AS = Mean area counts of test compound in standard.
-AU = Mean area counts of test compound in sample desorption solvent.
+A S = Mean area counts of test compound in standard.
+A U = Mean area counts of test compound in sample desorption solvent.
 b = Y-intercept of the line formed between the two closest calibration standards that bracket the concentration of the sample.
-CT = Amount of test compound (µg) in calibration standard.
-CF = Correction for adjusting final amount of sample detected for losses during individual sample runs.
-FP = Nitrogen flow through the purge chamber (6 L/min).
-FS = Nitrogen split flow directed to the sample recovery system (use 6 L/min if split flow design was not used).
+C T = Amount of test compound (µg) in calibration standard.
+C F = Correction for adjusting final amount of sample detected for losses during individual sample runs.
+F P = Nitrogen flow through the purge chamber (6 L/min).
+F S = Nitrogen split flow directed to the sample recovery system (use 6 L/min if split flow design was not used).
 PPM = Final concentration of test compound in waste sample [µg/g (which is equivalent to parts per million by weight (ppmw))].
 RE = Recovery efficiency for adjusting final amount of sample detected for losses due to inefficient trapping and desorption techniques.
 R.F. = Response factor for test compound, calculated from a calibration standard.
-S = Slope of the line (area counts/CT) formed between two closest calibration points that bracket the concentration of the sample.
-WC = Weight of test compound expected to be recovered in spike solution based on theoretical amount (µg).
-WE = Weight of vial and PEG (g).
-WF = Weight of vial, PEG and waste sample (g).
-WS = Weight of original waste sample (g).
-WT = Corrected weight of test compound measured (µg) in sample.
-WX = Weight of test compound measured during analysis of recovery efficiency spike samples (µg).
+S = Slope of the line (area counts/C T) formed between two closest calibration points that bracket the concentration of the sample.
+W C = Weight of test compound expected to be recovered in spike solution based on theoretical amount (µg).
+W E = Weight of vial and PEG (g).
+W F = Weight of vial, PEG and waste sample (g).
+W S = Weight of original waste sample (g).
+W T = Corrected weight of test compound measured (µg) in sample.
+W X = Weight of test compound measured during analysis of recovery efficiency spike samples (µg).
 12.2 Recovery efficiency for determining trapping/desorption efficiency of individual test compounds in the spike solution, decimal value.
 ER17OC00.563
 12.3 Weight of waste sample (g).
@@ -976,31 +976,31 @@ Chromium | 7440-47-3 | See Sec. 13.2.
 1.2 Applicability. This method applies to the determination of chromium (Cr) in emissions from decorative and hard chrome electroplating facilities, chromium anodizing operations, and continuous chromium plating operations at iron and steel facilities.
 1.3 Data Quality Objectives. [Reserved]
 2.0 Summary of Method
-2.1 Sampling. An emission sample is extracted isokinetically from the source using an unheated Method 5 sampling train (40 CFR Part 60, Appendix A), with a glass nozzle and probe liner, but with the filter omitted. The sample time shall be at least two hours. The Cr emissions are collected in an alkaline solution containing 0.1 N sodium hydroxide (NaOH) or 0.1 N sodium bicarbonate (NaHCO3). The collected samples are recovered using an alkaline solution and are then transported to the laboratory for analysis.
+2.1 Sampling. An emission sample is extracted isokinetically from the source using an unheated Method 5 sampling train (40 CFR Part 60, Appendix A), with a glass nozzle and probe liner, but with the filter omitted. The sample time shall be at least two hours. The Cr emissions are collected in an alkaline solution containing 0.1 N sodium hydroxide (NaOH) or 0.1 N sodium bicarbonate (NaHCO 3). The collected samples are recovered using an alkaline solution and are then transported to the laboratory for analysis.
 2.2 Analysis.
 2.2.1 Total chromium samples with high chromium concentrations (≥35 µg/L) may be analyzed using inductively coupled plasma emission spectrometry (ICP) at 267.72 nm.
 Note: The ICP analysis is applicable for this method only when the solution analyzed has a Cr concentration greater than or equal to 35 µg/L or five times the method detection limit as determined according to appendix B in 40 CFR part 136. Similarly, inductively coupled plasma-mass spectroscopy (ICP-MS) may be used for total chromium analysis provided the procedures for ICP-MS analysis described in Method 6020 or 6020A (EPA Office of Solid Waste, publication SW-846) are followed.
 2.2.2 Alternatively, when lower total chromium concentrations (<35 µg/L) are encountered, a portion of the alkaline sample solution may be digested with nitric acid and analyzed by graphite furnace atomic absorption spectroscopy (GFAAS) at 357.9 nm.
-2.2.3 If it is desirable to determine hexavalent chromium (Cr+6) emissions, the samples may be analyzed using an ion chromatograph equipped with a post-column reactor (IC/PCR) and a visible wavelength detector. To increase sensitivity for trace levels of Cr+6, a preconcentration system may be used in conjunction with the IC/PCR.
+2.2.3 If it is desirable to determine hexavalent chromium (Cr +6) emissions, the samples may be analyzed using an ion chromatograph equipped with a post-column reactor (IC/PCR) and a visible wavelength detector. To increase sensitivity for trace levels of Cr +6, a preconcentration system may be used in conjunction with the IC/PCR.
 3.0 Definitions
-3.1 Total Chromium—measured chromium content that includes both major chromium oxidation states (Cr+3, Cr+3).
-3.2 May—Implies an optional operation.
-3.3 Digestion—The analytical operation involving the complete (or nearly complete) dissolution of the sample in order to ensure the complete solubilization of the element (analyte) to be measured.
-3.4 Interferences—Physical, chemical, or spectral phenomena that may produce a high or low bias in the analytical result.
-3.5 Analytical System—All components of the analytical process including the sample digestion and measurement apparatus.
-3.6 Sample Recovery—The quantitative transfer of sample from the collection apparatus to the sample preparation (digestion, etc.) apparatus. This term should not be confused with analytical recovery.
-3.7 Matrix Modifier—A chemical modification to the sample during GFAAS determinations to ensure that the analyte is not lost during the measurement process (prior to the atomization stage)
-3.8 Calibration Reference Standards—Quality control standards used to check the accuracy of the instrument calibration curve prior to sample analysis.
-3.9 Continuing Check Standard—Quality control standards used to verify that unacceptable drift in the measurement system has not occurred.
-3.10 Calibration Blank—A blank used to verify that there has been no unacceptable shift in the baseline either immediately following calibration or during the course of the analytical measurement.
-3.11 Interference Check—An analytical/measurement operation that ascertains whether a measurable interference in the sample exists.
-3.12 Interelement Correction Factors—Factors used to correct for interfering elements that produce a false signal (high bias).
-3.13 Duplicate Sample Analysis—Either the repeat measurement of a single solution or the measurement of duplicate preparations of the same sample. It is important to be aware of which approach is required for a particular type of measurement. For example, no digestion is required for the ICP determination and the duplicate instrument measurement is therefore adequate whereas duplicate digestion/instrument measurements are required for GFAAS.
-3.14 Matrix Spiking—Analytical spikes that have been added to the actual sample matrix either before (Section 9.2.5.2) or after (Section 9.1.6). Spikes added to the sample prior to a preparation technique (e.g., digestion) allow for the assessment of an overall method accuracy while those added after only provide for the measurement accuracy determination.
+3.1 Total Chromium —measured chromium content that includes both major chromium oxidation states (Cr +3, Cr +3).
+3.2 May —Implies an optional operation.
+3.3 Digestion —The analytical operation involving the complete (or nearly complete) dissolution of the sample in order to ensure the complete solubilization of the element (analyte) to be measured.
+3.4 Interferences —Physical, chemical, or spectral phenomena that may produce a high or low bias in the analytical result.
+3.5 Analytical System —All components of the analytical process including the sample digestion and measurement apparatus.
+3.6 Sample Recovery —The quantitative transfer of sample from the collection apparatus to the sample preparation (digestion, etc.) apparatus. This term should not be confused with analytical recovery.
+3.7 Matrix Modifier —A chemical modification to the sample during GFAAS determinations to ensure that the analyte is not lost during the measurement process (prior to the atomization stage)
+3.8 Calibration Reference Standards —Quality control standards used to check the accuracy of the instrument calibration curve prior to sample analysis.
+3.9 Continuing Check Standard —Quality control standards used to verify that unacceptable drift in the measurement system has not occurred.
+3.10 Calibration Blank —A blank used to verify that there has been no unacceptable shift in the baseline either immediately following calibration or during the course of the analytical measurement.
+3.11 Interference Check —An analytical/measurement operation that ascertains whether a measurable interference in the sample exists.
+3.12 Interelement Correction Factors —Factors used to correct for interfering elements that produce a false signal (high bias).
+3.13 Duplicate Sample Analysis —Either the repeat measurement of a single solution or the measurement of duplicate preparations of the same sample. It is important to be aware of which approach is required for a particular type of measurement. For example, no digestion is required for the ICP determination and the duplicate instrument measurement is therefore adequate whereas duplicate digestion/instrument measurements are required for GFAAS.
+3.14 Matrix Spiking —Analytical spikes that have been added to the actual sample matrix either before (Section 9.2.5.2) or after (Section 9.1.6). Spikes added to the sample prior to a preparation technique (e.g., digestion) allow for the assessment of an overall method accuracy while those added after only provide for the measurement accuracy determination.
 4.0 Interferences
 4.1 ICP Interferences.
 4.1.1 ICP Spectral Interferences. Spectral interferences are caused by: overlap of a spectral line from another element; unresolved overlap of molecular band spectra; background contribution from continuous or recombination phenomena; and, stray light from the line emission of high-concentrated elements. Spectral overlap may be compensated for by correcting the raw data with a computer and measuring the interfering element. At the 267.72 nm Cr analytical wavelength, iron, manganese, and uranium are potential interfering elements. Background and stray light interferences can usually be compensated for by a background correction adjacent to the analytical line. Unresolved overlap requires the selection of an alternative chromium wavelength. Consult the instrument manufacturer's operation manual for interference correction procedures.
-4.1.2 ICP Physical Interferences. High levels of dissolved solids in the samples may cause significant inaccuracies due to salt buildup at the nebulizer and torch tips. This problem can be controlled by diluting the sample or by extending the rinse times between sample analyses. Standards shall be prepared in the same solution matrix as the samples (i.e., 0.1 N NaOH or 0.1 N NaHCO3).
+4.1.2 ICP Physical Interferences. High levels of dissolved solids in the samples may cause significant inaccuracies due to salt buildup at the nebulizer and torch tips. This problem can be controlled by diluting the sample or by extending the rinse times between sample analyses. Standards shall be prepared in the same solution matrix as the samples (i.e., 0.1 N NaOH or 0.1 N NaHCO 3).
 4.1.3 ICP Chemical Interferences. These include molecular compound formation, ionization effects and solute vaporization effects, and are usually not significant in the ICP procedure, especially if the standards and samples are matrix matched.
 4.2 GFAAS Interferences.
 4.2.1 GFAAS Chemical Interferences. Low concentrations of calcium and/or phosphate may cause interferences; at concentrations above 200 µg/L, calcium's effect is constant and eliminates the effect of phosphate. Calcium nitrate is therefore added to the concentrated analyte to ensure a known constant effect. Other matrix modifiers recommended by the instrument manufacturer may also be considered.
@@ -1008,21 +1008,21 @@ Note: The ICP analysis is applicable for this method only when the solution anal
 4.2.3 GFAAS Spectral Interferences. Background correction may be required because of possible significant levels of nonspecific absorption and scattering at the 357.9 nm analytical wavelength.
 4.2.4 GFAAS Background Interferences. Zeeman or Smith-Hieftje background correction is recommended for interferences resulting from high levels of dissolved solids in the alkaline impinger solutions.
 4.3 IC/PCR Interferences.
-4.3.1 IC/PCR Chemical Interferences. Components in the sample matrix may cause Cr+6 to convert to trivalent chromium (Cr+3) or cause Cr+3 to convert to Cr+6. The chromatographic separation of Cr+6 using ion chromatography reduces the potential for other metals to interfere with the post column reaction. For the IC/PCR analysis, only compounds that coelute with Cr+6 and affect the diphenylcarbazide reaction will cause interference.
+4.3.1 IC/PCR Chemical Interferences. Components in the sample matrix may cause Cr +6 to convert to trivalent chromium (Cr +3) or cause Cr +3 to convert to Cr +6. The chromatographic separation of Cr +6 using ion chromatography reduces the potential for other metals to interfere with the post column reaction. For the IC/PCR analysis, only compounds that coelute with Cr +6 and affect the diphenylcarbazide reaction will cause interference.
 4.3.2 IC/PCR Background Interferences. Periodic analyses of reagent water blanks are used to demonstrate that the analytical system is essentially free of contamination. Sample cross-contamination can occur when high-level and low-level samples or standards are analyzed alternately and can be eliminated by thorough purging of the sample loop. Purging of the sample can easily be achieved by increasing the injection volume to ten times the size of the sample loop.
 5.0 Safety
 5.1 Disclaimer. This method may involve hazardous materials, operations, and equipment. This test method may not address all of the safety problems associated with its use. It is the responsibility of the user to establish appropriate safety and health practices and to determine the applicability of regulatory limitations prior to performing this test method.
 5.2 Hexavalent chromium compounds have been listed as carcinogens although chromium (III) compounds show little or no toxicity. Chromium can be a skin and respiratory irritant.
 6.0 Equipment and Supplies
 6.1 Sampling Train.
-6.1.1 A schematic of the sampling train used in this method is shown in Figure 306-1. The train is the same as shown in Method 5, Section 6.0 (40 CFR part 60, appendix A) except that the probe liner is unheated, the particulate filter is omitted, and quartz or borosilicate glass must be used for the probe nozzle and liner in place of stainless steel.
+6.1.1 A schematic of the sampling train used in this method is shown in Figure 306-1. The train is the same as shown in Method 5, Section 6.0 (40 CFR Part 60, Appendix A) except that the probe liner is unheated, the particulate filter is omitted, and quartz or borosilicate glass must be used for the probe nozzle and liner in place of stainless steel.
 6.1.2 Probe fittings of plastic such as Teflon, polypropylene, etc. are recommended over metal fittings to prevent contamination. If desired, a single combined probe nozzle and liner may be used, but such a single glass assembly is not a requirement of this methodology.
-6.1.3 Use 0.1 N NaOH or 0.1 N NaHCO3 in the impingers in place of water.
+6.1.3 Use 0.1 N NaOH or 0.1 N NaHCO 3 in the impingers in place of water.
 6.1.4 Operating and maintenance procedures for the sampling train are described in APTD-0576 of Method 5. Users should read the APTD-0576 document and adopt the outlined procedures. Alternative mercury-free thermometers may be used if the thermometers are, at a minimum, equivalent in terms of performance or suitably effective for the specific temperature measurement application.
 6.1.5 Similar collection systems which have been approved by the Administrator may be used.
 6.2 Sample Recovery. Same as Method 5, [40 CFR Part 60, Appendix A], with the following exceptions:
 6.2.1 Probe-Liner and Probe-Nozzle Brushes. Brushes are not necessary for sample recovery. If a probe brush is used, it must be non-metallic.
-6.2.2 Sample Recovery Solution. Use 0.1 N NaOH or 0.1 N NaHCO3, whichever is used as the impinger absorbing solution, in place of acetone to recover the sample.
+6.2.2 Sample Recovery Solution. Use 0.1 N NaOH or 0.1 N NaHCO 3, whichever is used as the impinger absorbing solution, in place of acetone to recover the sample.
 6.2.3 Sample Storage Containers. Polyethylene, with leak-free screw cap, 250 mL, 500 mL or 1,000 mL.
 6.3 Analysis.
 6.3.1 General. For analysis, the following equipment is needed.
@@ -1045,62 +1045,62 @@ Note: The ICP analysis is applicable for this method only when the solution anal
 6.3.4.4.1 Teflon, or equivalent, filter holder to accommodate 0.45-µm acetate, or equivalent, filter, if needed to remove insoluble particulate matter.
 6.3.4.4.2 0.45-µm Filter Cartridge. For the removal of insoluble material. To be used just prior to sample injection/analysis.
 7.0 Reagents and Standards
-Note: Unless otherwise indicated, all reagents should conform to the specifications established by the Committee on Analytical Reagents of the American Chemical Society (ACS reagent grade). Where such specifications are not available, use the best available grade. Reagents should be checked by the appropriate analysis prior to field use to assure that contamination is below the analytical detection limit for the ICP or GFAAS total chromium analysis; and that contamination is below the analytical detection limit for Cr+6 using IC/PCR for direct injection or, if selected, preconcentration.
+Note: Unless otherwise indicated, all reagents should conform to the specifications established by the Committee on Analytical Reagents of the American Chemical Society (ACS reagent grade). Where such specifications are not available, use the best available grade. Reagents should be checked by the appropriate analysis prior to field use to assure that contamination is below the analytical detection limit for the ICP or GFAAS total chromium analysis; and that contamination is below the analytical detection limit for Cr +6 using IC/PCR for direct injection or, if selected, preconcentration.
 7.1 Sampling.
 7.1.1 Water. Reagent water that conforms to ASTM Specification D1193-77 or 91 Type II (incorporated by reference see § 63.14). All references to water in the method refer to reagent water unless otherwise specified. It is recommended that water blanks be checked prior to preparing the sampling reagents to ensure that the Cr content is less than three (3) times the anticipated detection limit of the analytical method.
 7.1.2 Sodium Hydroxide (NaOH) Absorbing Solution, 0.1 N. Dissolve 4.0 g of sodium hydroxide in 1 liter of water to obtain a pH of approximately 8.5.
-7.1.3 Sodium Bicarbonate (NaHCO3) Absorbing Solution, 0.1 N. Dissolve approximately 8.5 g of sodium bicarbonate in 1 liter of water to obtain a pH of approximately 8.3.
+7.1.3 Sodium Bicarbonate (NaHCO 3) Absorbing Solution, 0.1 N. Dissolve approximately 8.5 g of sodium bicarbonate in 1 liter of water to obtain a pH of approximately 8.3.
 7.1.4 Chromium Contamination.
 7.1.4.1 The absorbing solution shall not exceed the QC criteria noted in Section 7.1.1 (≤3 times the instrument detection limit).
-7.1.4.2 When the Cr+6 content in the field samples exceeds the blank concentration by at least a factor of ten (10), Cr+6 blank concentrations ≥10 times the detection limit will be allowed.
-Note: At sources with high concentrations of acids and/or SO2, the concentration of NaOH or NaHCO3 should be ≥0.5 N to insure that the pH of the solution remains at or above 8.5 for NaOH and 8.0 for NaHCO3 during and after sampling.
+7.1.4.2 When the Cr +6 content in the field samples exceeds the blank concentration by at least a factor of ten (10), Cr +6 blank concentrations ≥10 times the detection limit will be allowed.
+Note: At sources with high concentrations of acids and/or SO 2, the concentration of NaOH or NaHCO 3 should be ≥0.5 N to insure that the pH of the solution remains at or above 8.5 for NaOH and 8.0 for NaHCO 3 during and after sampling.
 7.1.5 Silica Gel. Same as in Method 5.
 7.2 Sample Recovery.
-7.2.1 0.1 N NaOH or 0.1 N NaHCO3. Use the same solution for the sample recovery that is used for the impinger absorbing solution.
+7.2.1 0.1 N NaOH or 0.1 N NaHCO 3. Use the same solution for the sample recovery that is used for the impinger absorbing solution.
 7.2.2 pH Indicator Strip, for IC/PCR. pH indicator capable of determining the pH of solutions between the pH range of 7 and 12, at 0.5 pH increments.
 7.3 Sample Preparation and Analysis.
-7.3.1 Nitric Acid (HNO3), Concentrated, for GFAAS. Trace metals grade or better HNO3 must be used for reagent preparation. The ACS reagent grade HNO3 is acceptable for cleaning glassware.
-7.3.2 HNO3, 1.0% (v/v), for GFAAS. Prepare, by slowly stirring, 10 mL of concentrated HNO3) into 800 mL of reagent water. Dilute to 1,000 mL with reagent water. The solution shall contain less than 0.001 mg Cr/L.
-7.3.3 Calcium Nitrate Ca(NO3)2 Solution (10 µg Ca/mL) for GFAAS analysis. Prepare the solution by weighing 40.9 mg of Ca(NO3)2 into a 1 liter volumetric flask. Dilute with reagent water to 1 liter.
+7.3.1 Nitric Acid (HNO 3), Concentrated, for GFAAS. Trace metals grade or better HNO 3 must be used for reagent preparation. The ACS reagent grade HNO 3 is acceptable for cleaning glassware.
+7.3.2 HNO 3, 1.0% (v/v), for GFAAS. Prepare, by slowly stirring, 10 mL of concentrated HNO 3) into 800 mL of reagent water. Dilute to 1,000 mL with reagent water. The solution shall contain less than 0.001 mg Cr/L.
+7.3.3 Calcium Nitrate Ca(NO 3) 2 Solution (10 µg Ca/mL) for GFAAS analysis. Prepare the solution by weighing 40.9 mg of Ca(NO 3) 2 into a 1 liter volumetric flask. Dilute with reagent water to 1 liter.
 7.3.4 Matrix Modifier, for GFAAS. See instrument manufacturer's manual for suggested matrix modifier.
 7.3.5 Chromatographic Eluent, for IC/PCR. The eluent used in the analytical system is ammonium sulfate based.
-7.3.5.1 Prepare by adding 6.5 mL of 29 percent ammonium hydroxide (NH4OH) and 33 g of ammonium sulfate ((NH4)2SO4) to 500 mL of reagent water. Dilute to 1 liter with reagent water and mix well.
+7.3.5.1 Prepare by adding 6.5 mL of 29 percent ammonium hydroxide (NH 4 OH) and 33 g of ammonium sulfate ((NH 4) 2 SO 4) to 500 mL of reagent water. Dilute to 1 liter with reagent water and mix well.
 7.3.5.2 Other combinations of eluents and/or columns may be employed provided peak resolution, repeatability, linearity, and analytical sensitivity as described in Sections 9.3 and 11.6 are acceptable.
-7.3.6 Post-Column Reagent, for IC/PCR. An effective post-column reagent for use with the chromatographic eluent described in Section 7.3.5 is a diphenylcarbazide (DPC)-based system. Dissolve 0.5 g of 1,5-diphenylcarbazide in 100 mL of ACS grade methanol. Add 500 mL of reagent water containing 50 mL of 96 percent spectrophotometric grade sulfuric acid. Dilute to 1 liter with reagent water.
-7.3.7 Chromium Standard Stock Solution (1000 mg/L). Procure a certified aqueous standard or dissolve 2.829 g of potassium dichromate (K2Cr2O7), in reagent water and dilute to 1 liter.
-7.3.8 Calibration Standards for ICP or IC/PCR. Prepare calibration standards for ICP or IC/PCR by diluting the Cr standard stock solution (Section 7.3.7) with 0.1 N NaOH or 0.1 N NaHCO3, whichever is used as the impinger absorbing solution, to achieve a matrix similar to the actual field samples. Suggested levels are 0, 50, 100, and 200 µg Cr/L for ICP, and 0, 1, 5, and 10 µg Cr+6/L for IC/PCR.
-7.3.9 Calibration Standards for GFAAS. Chromium solutions for GFAAS calibration shall contain 1.0 percent (v/v) HNO3. The zero standard shall be 1.0 percent (v/v) HNO3. Calibration standards should be prepared daily by diluting the Cr standard stock solution (Section 7.3.7) with 1.0 percent HNO3. Use at least four standards to make the calibration curve. Suggested levels are 0, 10, 50, and 100 µg Cr/L.
+7.3.6 Post-Column Reagent, for IC/PCR. An effective post-column reagent for use with the chromatographic eluent described in Section 7.3.5 is a diphenylcarbazide (DPC)-based system. Dissolve 0.5 g of 1,5- diphenylcarbazide in 100 mL of ACS grade methanol. Add 500 mL of reagent water containing 50 mL of 96 percent spectrophotometric grade sulfuric acid. Dilute to 1 liter with reagent water.
+7.3.7 Chromium Standard Stock Solution (1000 mg/L). Procure a certified aqueous standard or dissolve 2.829 g of potassium dichromate (K 2 Cr 2 O 7), in reagent water and dilute to 1 liter.
+7.3.8 Calibration Standards for ICP or IC/PCR. Prepare calibration standards for ICP or IC/PCR by diluting the Cr standard stock solution (Section 7.3.7) with 0.1 N NaOH or 0.1 N NaHCO 3, whichever is used as the impinger absorbing solution, to achieve a matrix similar to the actual field samples. Suggested levels are 0, 50, 100, and 200 µg Cr/L for ICP, and 0, 1, 5, and 10 µg Cr +6 /L for IC/PCR.
+7.3.9 Calibration Standards for GFAAS. Chromium solutions for GFAAS calibration shall contain 1.0 percent (v/v) HNO 3. The zero standard shall be 1.0 percent (v/v) HNO 3. Calibration standards should be prepared daily by diluting the Cr standard stock solution (Section 7.3.7) with 1.0 percent HNO 3. Use at least four standards to make the calibration curve. Suggested levels are 0, 10, 50, and 100 µg Cr/L.
 7.4 Glassware Cleaning Reagents.
-7.4.1 HNO3, Concentrated. ACS reagent grade or equivalent.
+7.4.1 HNO 3, Concentrated. ACS reagent grade or equivalent.
 7.4.2 Water. Reagent water that conforms to ASTM Specification D1193-77 or 91 Type II.
-7.4.3 HNO3, 10 percent (v/v). Add by stirring 500 mL of concentrated HNO3 into a flask containing approximately 4,000 mL of reagent water. Dilute to 5,000 mL with reagent water. Mix well. The reagent shall contain less than 2 µg Cr/L.
+7.4.3 HNO 3, 10 percent (v/v). Add by stirring 500 mL of concentrated HNO 3 into a flask containing approximately 4,000 mL of reagent water. Dilute to 5,000 mL with reagent water. Mix well. The reagent shall contain less than 2 µg Cr/L.
 8.0 Sample Collection, Preservation, Holding Times, Storage, and Transport
-Note: Prior to sample collection, consideration should be given to the type of analysis (Cr+6 or total Cr) that will be performed. Which analysis option(s) will be performed will determine which sample recovery and storage procedures will be required to process the sample.
+Note: Prior to sample collection, consideration should be given to the type of analysis (Cr +6 or total Cr) that will be performed. Which analysis option(s) will be performed will determine which sample recovery and storage procedures will be required to process the sample.
 8.1 Sample Collection. Same as Method 5 (40 CFR part 60, appendix A), with the following exceptions.
-8.1.1 Omit the particulate filter and filter holder from the sampling train. Use a glass nozzle and probe liner instead of stainless steel. Do not heat the probe. Place 100 mL of 0.1 N NaOH or 0.1 N NaHCO3 in each of the first two impingers, and record the data for each run on a data sheet such as shown in Figure 306-2.
-8.1.2 Clean all glassware prior to sampling in hot soapy water designed for laboratory cleaning of glassware. Next, rinse the glassware three times with tap water, followed by three additional rinses with reagent water. Then soak the glassware in 10% (v/v) HNO3 solution for a minimum of 4 hours, rinse three times with reagent water, and allow to air dry. Cover all glassware openings where contamination can occur with Parafilm, or equivalent, until the sampling train is assembled for sampling.
-8.1.3 Train Operation. Follow the basic procedures outlined in Method 5 in conjunction with the following instructions. Train sampling rate shall not exceed 0.030 m3/min (1.0 cfm) during a run.
+8.1.1 Omit the particulate filter and filter holder from the sampling train. Use a glass nozzle and probe liner instead of stainless steel. Do not heat the probe. Place 100 mL of 0.1 N NaOH or 0.1 N NaHCO 3 in each of the first two impingers, and record the data for each run on a data sheet such as shown in Figure 306-2.
+8.1.2 Clean all glassware prior to sampling in hot soapy water designed for laboratory cleaning of glassware. Next, rinse the glassware three times with tap water, followed by three additional rinses with reagent water. Then soak the glassware in 10% (v/v) HNO 3 solution for a minimum of 4 hours, rinse three times with reagent water, and allow to air dry. Cover all glassware openings where contamination can occur with Parafilm, or equivalent, until the sampling train is assembled for sampling.
+8.1.3 Train Operation. Follow the basic procedures outlined in Method 5 in conjunction with the following instructions. Train sampling rate shall not exceed 0.030 m 3 /min (1.0 cfm) during a run.
 8.2 Sample Recovery. Follow the basic procedures of Method 5, with the exceptions noted.
 8.2.1 A particulate filter is not recovered from this train.
-8.2.2 Tester shall select either the total Cr or Cr+6 sample recovery option.
-8.2.3 Samples to be analyzed for both total Cr and Cr+6, shall be recovered using the Cr+6 sample option (Section 8.2.6).
-8.2.4 A field reagent blank shall be collected for either of the Cr or the Cr+6 analysis. If both analyses (Cr and Cr+6) are to be conducted on the samples, collect separate reagent blanks for each analysis.
-Note: Since particulate matter is not usually present at chromium electroplating and/or chromium anodizing operations, it is not necessary to filter the Cr+6 samples unless there is observed sediment in the collected solutions. If it is necessary to filter the Cr+6 solutions, please refer to Method 0061, Determination of Hexavalent Chromium Emissions From Stationary Sources, Section 7.4, Sample Preparation in SW-846 (see Reference 1).
+8.2.2 Tester shall select either the total Cr or Cr +6 sample recovery option.
+8.2.3 Samples to be analyzed for both total Cr and Cr +6, shall be recovered using the Cr +6 sample option (Section 8.2.6).
+8.2.4 A field reagent blank shall be collected for either of the Cr or the Cr +6 analysis. If both analyses (Cr and Cr +6) are to be conducted on the samples, collect separate reagent blanks for each analysis.
+Note: Since particulate matter is not usually present at chromium electroplating and/or chromium anodizing operations, it is not necessary to filter the Cr +6 samples unless there is observed sediment in the collected solutions. If it is necessary to filter the Cr +6 solutions, please refer to Method 0061, Determination of Hexavalent Chromium Emissions From Stationary Sources, Section 7.4, Sample Preparation in SW-846 (see Reference 1).
 8.2.5 Total Cr Sample Option.
 8.2.5.1 Container No. 1. Measure the volume of the liquid in the first, second, and third impingers and quantitatively transfer into a labeled sample container.
-8.2.5.2 Use approximately 200 to 300 mL of the 0.1 N NaOH or 0.1 N NaHCO3 absorbing solution to rinse the probe nozzle, probe liner, three impingers, and connecting glassware; add this rinse to Container No. 1.
-8.2.6 Cr+6 Sample Option.
-8.2.6.1 Container No. 1. Measure and record the pH of the absorbing solution contained in the first impinger at the end of the sampling run using a pH indicator strip. The pH of the solution must be ≥8.5 for NaOH and ≥8.0 for NaHCO3. If it is not, discard the collected sample, increase the normality of the NaOH or NaHCO3 impinger absorbing solution to 0.5 N or to a solution normality approved by the Administrator and collect another air emission sample.
-8.2.6.2 After determining the pH of the first impinger solution, combine and measure the volume of the liquid in the first, second, and third impingers and quantitatively transfer into the labeled sample container. Use approximately 200 to 300 mL of the 0.1 N NaOH or 0.1 N NaHCO3 absorbing solution to rinse the probe nozzle, probe liner, three impingers, and connecting glassware; add this rinse to Container No. 1.
+8.2.5.2 Use approximately 200 to 300 mL of the 0.1 N NaOH or 0.1 N NaHCO 3 absorbing solution to rinse the probe nozzle, probe liner, three impingers, and connecting glassware; add this rinse to Container No. 1.
+8.2.6 Cr +6 Sample Option.
+8.2.6.1 Container No. 1. Measure and record the pH of the absorbing solution contained in the first impinger at the end of the sampling run using a pH indicator strip. The pH of the solution must be ≥8.5 for NaOH and ≥8.0 for NaHCO 3. If it is not, discard the collected sample, increase the normality of the NaOH or NaHCO 3 impinger absorbing solution to 0.5 N or to a solution normality approved by the Administrator and collect another air emission sample.
+8.2.6.2 After determining the pH of the first impinger solution, combine and measure the volume of the liquid in the first, second, and third impingers and quantitatively transfer into the labeled sample container. Use approximately 200 to 300 mL of the 0.1 N NaOH or 0.1 N NaHCO 3 absorbing solution to rinse the probe nozzle, probe liner, three impingers, and connecting glassware; add this rinse to Container No. 1.
 8.2.7 Field Reagent Blank.
 8.2.7.1 Container No. 2.
-8.2.7.2 Place approximately 500 mL of the 0.1 N NaOH or 0.1 N NaHCO3 absorbing solution into a labeled sample container.
+8.2.7.2 Place approximately 500 mL of the 0.1 N NaOH or 0.1 N NaHCO 3 absorbing solution into a labeled sample container.
 8.3 Sample Preservation, Storage, and Transport.
 8.3.1 Total Cr Sample Option. Samples to be analyzed for total Cr need not be refrigerated.
-8.3.2 Cr+6 Sample Option. Samples to be analyzed for Cr+6 must be shipped and stored at 4 °C. Allow Cr+6 samples to return to ambient temperature prior to analysis.
+8.3.2 Cr +6 Sample Option. Samples to be analyzed for Cr +6 must be shipped and stored at 4 °C. Allow Cr +6 samples to return to ambient temperature prior to analysis.
 8.4 Sample Holding Times.
 8.4.1 Total Cr Sample Option. Samples to be analyzed for total Cr shall be analyzed within 60 days of collection.
-8.4.2 Cr+6 Sample Option. Samples to be analyzed for Cr+6 shall be analyzed within 14 days of collection.
+8.4.2 Cr +6 Sample Option. Samples to be analyzed for Cr +6 shall be analyzed within 14 days of collection.
 9.0 Quality Control
 9.1 ICP Quality Control.
 9.1.1 ICP Calibration Reference Standards. Prepare a calibration reference standard using the same alkaline matrix as the calibration standards; it should be at least 10 times the instrumental detection limit.
@@ -1115,7 +1115,7 @@ Note: Since particulate matter is not usually present at chromium electroplating
 9.1.3.1 Perform analysis of the calibration blank with the field samples as described in Section 11.2 (at least after every 10 samples, and at the end of the analytical run).
 9.1.3.2 The results of the calibration blank shall agree within three standard deviations of the mean blank value. If not, analyze the calibration blank two more times and average the results. If the average is not within three standard deviations of the background mean, terminate the analyses, correct the problem, recalibrate, and reanalyze all samples analyzed subsequent to the last acceptable calibration blank analysis.
 9.1.4 ICP Interference Check. Prepare an interference check solution that contains known concentrations of interfering elements that will provide an adequate test of the correction factors in the event of potential spectral interferences.
-9.1.4.1 Two potential interferences, iron and manganese, may be prepared as 1000 µg/mL and 200 µg/mL solutions, respectively. The solutions should be prepared in dilute HNO3 (1-5 percent). Particular care must be used to ensure that the solutions and/or salts used to prepare the solutions are of ICP grade purity (i.e., that no measurable Cr contamination exists in the salts/solutions). Commercially prepared interfering element check standards are available.
+9.1.4.1 Two potential interferences, iron and manganese, may be prepared as 1000 µg/mL and 200 µg/mL solutions, respectively. The solutions should be prepared in dilute HNO 3 (1-5 percent). Particular care must be used to ensure that the solutions and/or salts used to prepare the solutions are of ICP grade purity (i.e., that no measurable Cr contamination exists in the salts/solutions). Commercially prepared interfering element check standards are available.
 9.1.4.2 Verify the interelement correction factors every three months by analyzing the interference check solution. The correction factors are calculated according to the instrument manufacturer's directions. If the interelement correction factors are used properly, no false Cr should be detected.
 9.1.4.3 Negative results with an absolute value greater than three (3) times the detection limit are usually the results of the background correction position being set incorrectly. Scan the spectral region to ensure that the correction position has not been placed on an interfering peak.
 9.1.5 ICP Duplicate Sample Analysis. Perform one duplicate sample analysis for each compliance sample batch (3 runs).
@@ -1182,9 +1182,9 @@ Note: Since particulate matter is not usually present at chromium electroplating
 9.3.3.5 If agreement is not achieved, perform the duplicate analysis again.
 9.3.3.6 If agreement is not achieved the second time, perform corrective action to identify and correct the problem prior to analyzing the sample for a third time.
 9.3.4 ICP/PCR Matrix Spiking. Spiked samples shall be prepared and analyzed with each sample set to ensure that there are no matrix effects, that samples and standards have been matrix-matched, and that the equipment is operating properly.
-9.3.4.1 Spiked sample recovery analysis should indicate a recovery of the Cr+6 spike between 75 and 125 percent.
+9.3.4.1 Spiked sample recovery analysis should indicate a recovery of the Cr +6 spike between 75 and 125 percent.
 9.3.4.2 The spiked sample concentration should be within the linear portion of the calibration curve and should be equal to or greater than the concentration of the original sample. In addition, the spiked sample concentration should be at least ten (10) times the detection limit.
-9.3.4.3 If the recoveries for the Cr+6 spiked samples do not meet the specified criteria, perform corrective action to identify and correct the problem prior to reanalyzing the samples.
+9.3.4.3 If the recoveries for the Cr +6 spiked samples do not meet the specified criteria, perform corrective action to identify and correct the problem prior to reanalyzing the samples.
 9.3.5 IC/PCR Field Reagent Blank.
 9.3.5.1 Analyze a minimum of one matrix-matched field reagent blank (Section 8.2.4) per sample batch to determine if contamination or memory effects are occurring.
 9.3.5.2 If contamination or memory effects are observed, perform corrective action to identify and correct the problem before reanalyzing the samples.
@@ -1216,7 +1216,7 @@ Note: The method determines the chromium concentration in µg Cr/mL. It is impor
 11.2 ICP Sample Analysis.
 11.2.1 The ICP analysis is applicable for the determination of total chromium only.
 11.2.2 ICP Blanks. Two types of blanks are required for the ICP analysis.
-11.2.2.1 Calibration Blank. The calibration blank is used in establishing the calibration curve. For the calibration blank, use either 0.1 N NaOH or 0.1 N NaHCO3, whichever is used for the impinger absorbing solution. The calibration blank can be prepared fresh in the laboratory; it does not have to be prepared from the same batch of solution that was used in the field. A sufficient quantity should be prepared to flush the system between standards and samples.
+11.2.2.1 Calibration Blank. The calibration blank is used in establishing the calibration curve. For the calibration blank, use either 0.1 N NaOH or 0.1 N NaHCO 3, whichever is used for the impinger absorbing solution. The calibration blank can be prepared fresh in the laboratory; it does not have to be prepared from the same batch of solution that was used in the field. A sufficient quantity should be prepared to flush the system between standards and samples.
 11.2.2.2 Field Reagent Blank. The field reagent blank is collected in the field during the testing program. The field reagent blank (Section 8.2.4) is an aliquot of the absorbing solution prepared in Section 7.1.2. The reagent blank is used to assess possible contamination resulting from sample processing.
 11.2.3 ICP Instrument Adjustment.
 11.2.3.1 Adjust the ICP instrument for proper operating parameters including wavelength, background correction settings (if necessary), and interfering element correction settings (if necessary).
@@ -1236,15 +1236,15 @@ Note: The method determines the chromium concentration in µg Cr/mL. It is impor
 11.2.7 Reporting Analytical Results. All analytical results should be reported in µg Cr/mL using three significant figures. Field sample volumes (mL) must be reported also.
 11.3 GFAAS Sample Preparation.
 11.3.1 GFAAS Acid Digestion. An acid digestion of the alkaline impinger solution is required for the GFAAS analysis.
-11.3.1.1 In a beaker, add 10 mL of concentrated HNO3 to a 100 mL sample aliquot that has been well mixed. Cover the beaker with a watch glass. Place the beaker on a hot plate and reflux the sample to near dryness. Add another 5 mL of concentrated HNO3 to complete the digestion. Again, carefully reflux the sample volume to near dryness. Rinse the beaker walls and watch glass with reagent water.
-11.3.1.2 The final concentration of HNO3 in the solution should be 1 percent (v/v).
-11.3.1.3 Transfer the digested sample to a 50-mL volumetric flask. Add 0.5 mL of concentrated HNO3 and 1 mL of the 10 µg/mL of Ca(NO3)2. Dilute to 50 mL with reagent water.
-11.3.2 HNO3 Concentration. A different final volume may be used based on the expected Cr concentration, but the HNO3 concentration must be maintained at 1 percent (v/v).
+11.3.1.1 In a beaker, add 10 mL of concentrated HNO 3 to a 100 mL sample aliquot that has been well mixed. Cover the beaker with a watch glass. Place the beaker on a hot plate and reflux the sample to near dryness. Add another 5 mL of concentrated HNO 3 to complete the digestion. Again, carefully reflux the sample volume to near dryness. Rinse the beaker walls and watch glass with reagent water.
+11.3.1.2 The final concentration of HNO 3 in the solution should be 1 percent (v/v).
+11.3.1.3 Transfer the digested sample to a 50-mL volumetric flask. Add 0.5 mL of concentrated HNO 3 and 1 mL of the 10 µg/mL of Ca(NO 3) 2. Dilute to 50 mL with reagent water.
+11.3.2 HNO 3 Concentration. A different final volume may be used based on the expected Cr concentration, but the HNO 3 concentration must be maintained at 1 percent (v/v).
 11.4 GFAAS Sample Analysis.
 11.4.1 The GFAAS analysis is applicable for the determination of total chromium only.
 11.4.2 GFAAS Blanks. Two types of blanks are required for the GFAAS analysis.
-11.4.2.1 Calibration Blank. The 1.0 percent HNO3 is the calibration blank which is used in establishing the calibration curve.
-11.4.2.2 Field Reagent Blank. An aliquot of the 0.1 N NaOH solution or the 0.1 N NaHCO3 prepared in Section 7.1.2 is collected for the field reagent blank. The field reagent blank is used to assess possible contamination resulting from processing the sample.
+11.4.2.1 Calibration Blank. The 1.0 percent HNO 3 is the calibration blank which is used in establishing the calibration curve.
+11.4.2.2 Field Reagent Blank. An aliquot of the 0.1 N NaOH solution or the 0.1 N NaHCO 3 prepared in Section 7.1.2 is collected for the field reagent blank. The field reagent blank is used to assess possible contamination resulting from processing the sample.
 11.4.2.2.1 The reagent blank must be subjected to the entire series of sample preparation and analytical procedures, including the acid digestion.
 11.4.2.2.2 The reagent blank's final solution must contain the same acid concentration as the sample solutions.
 11.4.3 GFAAS Instrument Adjustment.
@@ -1255,7 +1255,7 @@ Note: The method determines the chromium concentration in µg Cr/mL. It is impor
 11.4.4.2 Similar verification of furnace operating parameters may be required for complex sample matrices (consult instrument manual for additional information). Calibrate the GFAAS system following the procedures specified in Section 10.3.
 11.4.5 GFAAS Operational Quality Control Procedures.
 11.4.5.1 Introduce a measured aliquot of digested sample into the furnace and atomize.
-11.4.5.2 If the measured concentration exceeds the calibration range, the sample should be diluted with the calibration blank solution (1.0 percent HNO3) and reanalyzed.
+11.4.5.2 If the measured concentration exceeds the calibration range, the sample should be diluted with the calibration blank solution (1.0 percent HNO 3) and reanalyzed.
 11.4.5.3 Consult the operator's manual for suggested injection volumes. The use of multiple injections can improve accuracy and assist in detecting furnace pipetting errors.
 11.4.5.4 Analyze a minimum of one matrix-matched reagent blank per sample batch to determine if contamination or any memory effects are occurring.
 11.4.5.5 Analyze a calibration blank and a continuing check standard after approximately every batch of 10 sample injections.
@@ -1271,16 +1271,16 @@ Note: The method determines the chromium concentration in µg Cr/mL. It is impor
 11.5.2.1 Use a portion of the sample to rinse the syringe filtration unit and acetate filter and then collect the required volume of filtrate.
 11.5.2.2 Retain the filter if total Cr is to be determined also.
 11.5.3 Sample Preconcentration (older instruments).
-11.5.3.1 For older instruments, a preconcentration system may be used in conjunction with the IC/PCR to increase sensitivity for trace levels of Cr+6.
+11.5.3.1 For older instruments, a preconcentration system may be used in conjunction with the IC/PCR to increase sensitivity for trace levels of Cr +6.
 11.5.3.2 The preconcentration is accomplished by selectively retaining the analyte on a solid absorbent, followed by removal of the analyte from the absorbent (consult instrument manual).
-11.5.3.3 For a manual system, position the injection valve so that the eluent displaces the concentrated Cr+6 sample, transferring it from the preconcentration column and onto the IC anion separation column.
+11.5.3.3 For a manual system, position the injection valve so that the eluent displaces the concentrated Cr +6 sample, transferring it from the preconcentration column and onto the IC anion separation column.
 11.6 IC/PCR Sample Analyses.
 11.6.1 The IC/PCR analysis is applicable for hexavalent chromium measurements only.
 11.6.2 IC/PCR Blanks. Two types of blanks are required for the IC/PCR analysis.
-11.6.2.1 Calibration Blank. The calibration blank is used in establishing the analytical curve. For the calibration blank, use either 0.1 N NaOH or 0.1 N NaHCO3, whichever is used for the impinger solution. The calibration blank can be prepared fresh in the laboratory; it does not have to be prepared from the same batch of absorbing solution that is used in the field.
-11.6.2.2 Field Reagent Blank. An aliquot of the 0.1 N NaOH solution or the 0.1 N NaHCO3 solution prepared in Section 7.1.2 is collected for the field reagent blank. The field reagent blank is used to assess possible contamination resulting from processing the sample.
+11.6.2.1 Calibration Blank. The calibration blank is used in establishing the analytical curve. For the calibration blank, use either 0.1 N NaOH or 0.1 N NaHCO 3, whichever is used for the impinger solution. The calibration blank can be prepared fresh in the laboratory; it does not have to be prepared from the same batch of absorbing solution that is used in the field.
+11.6.2.2 Field Reagent Blank. An aliquot of the 0.1 N NaOH solution or the 0.1 N NaHCO 3 solution prepared in Section 7.1.2 is collected for the field reagent blank. The field reagent blank is used to assess possible contamination resulting from processing the sample.
 11.6.3 Stabilized Baseline. Prior to sample analysis, establish a stable baseline with the detector set at the required attenuation by setting the eluent and post-column reagent flow rates according to the manufacturers recommendations.
-Note: As long as the ratio of eluent flow rate to PCR flow rate remains constant, the standard curve should remain linear. Inject a sample of reagent water to ensure that no Cr+6 appears in the water blank.
+Note: As long as the ratio of eluent flow rate to PCR flow rate remains constant, the standard curve should remain linear. Inject a sample of reagent water to ensure that no Cr +6 appears in the water blank.
 11.6.4 Sample Injection Loop. Size of injection loop is based on standard/sample concentrations and the selected attenuator setting.
 11.6.4.1 A 50-µL loop is normally sufficient for most higher concentrations.
 11.6.4.2 The sample volume used to load the injection loop should be at least 10 times the loop size so that all tubing in contact with the sample is thoroughly flushed with the new sample to prevent cross contamination.
@@ -1290,45 +1290,45 @@ Note: As long as the ratio of eluent flow rate to PCR flow rate remains constant
 11.6.5.3 Verify the calibration by analyzing a calibration reference standard. If the measured concentration exceeds the established value by more than 10 percent, perform a second analysis. If the measured concentration still exceeds the established value by more than 10 percent, terminate the analysis until the problem can be identified and corrected.
 11.6.6 IC/PCR Instrument Operation.
 11.6.6.1 Inject the calibration reference standard (as described in Section 9.3.1), followed by the field reagent blank (Section 8.2.4), and the field samples.
-11.6.6.1.1 Standards (and QC standards) and samples are injected into the sample loop of the desired size (use a larger size loop for greater sensitivity). The Cr+6 is collected on the resin bed of the column.
-11.6.6.1.2 After separation from other sample components, the Cr+6 forms a specific complex in the post-column reactor with the DPC reaction solution, and the complex is detected by visible absorbance at a maximum wavelength of 540 nm.
-11.6.6.1.3 The amount of absorbance measured is proportional to the concentration of the Cr+6 complex formed.
-11.6.6.1.4 The IC retention time and the absorbance of the Cr+6 complex with known Cr+6 standards analyzed under identical conditions must be compared to provide both qualitative and quantitative analyses.
-11.6.6.1.5 If a sample peak appears near the expected retention time of the Cr+6 ion, spike the sample according to Section 9.3.4 to verify peak identity.
+11.6.6.1.1 Standards (and QC standards) and samples are injected into the sample loop of the desired size (use a larger size loop for greater sensitivity). The Cr +6 is collected on the resin bed of the column.
+11.6.6.1.2 After separation from other sample components, the Cr +6 forms a specific complex in the post-column reactor with the DPC reaction solution, and the complex is detected by visible absorbance at a maximum wavelength of 540 nm.
+11.6.6.1.3 The amount of absorbance measured is proportional to the concentration of the Cr +6 complex formed.
+11.6.6.1.4 The IC retention time and the absorbance of the Cr +6 complex with known Cr +6 standards analyzed under identical conditions must be compared to provide both qualitative and quantitative analyses.
+11.6.6.1.5 If a sample peak appears near the expected retention time of the Cr +6 ion, spike the sample according to Section 9.3.4 to verify peak identity.
 11.6.7 IC/PCR Operational Quality Control Procedures.
-11.6.7.1 Samples should be at a pH ≥8.5 for NaOH and ≥8.0 if using NaHCO3; document any discrepancies.
+11.6.7.1 Samples should be at a pH ≥8.5 for NaOH and ≥8.0 if using NaHCO 3; document any discrepancies.
 11.6.7.2 Refrigerated samples should be allowed to equilibrate to ambient temperature prior to preparation and analysis.
-11.6.7.3 Repeat the injection of the calibration standards at the end of the analytical run to assess instrument drift. Measure areas or heights of the Cr+6/DPC complex chromatogram peaks.
+11.6.7.3 Repeat the injection of the calibration standards at the end of the analytical run to assess instrument drift. Measure areas or heights of the Cr +6 /DPC complex chromatogram peaks.
 11.6.7.4 To ensure the precision of the sample injection (manual or autosampler), the response for the second set of injected standards must be within 10 percent of the average response.
 11.6.7.5 If the 10 percent criteria duplicate injection cannot be achieved, identify the source of the problem and rerun the calibration standards.
 11.6.7.6 Use peak areas or peak heights from the injections of calibration standards to generate a linear calibration curve. From the calibration curve, determine the concentrations of the field samples.
 11.6.8 IC/PCR Sample Dilution.
 11.6.8.1 Samples having concentrations higher than the established calibration range must be diluted into the calibration range and re-analyzed.
 11.6.8.2 If dilutions are performed, the appropriate factors must be applied to sample measurement results.
-11.6.9 Reporting Analytical Results. Results should be reported in µg Cr+6/mL using three significant figures. Field sample volumes (mL) must be reported also.
+11.6.9 Reporting Analytical Results. Results should be reported in µg Cr +6 /mL using three significant figures. Field sample volumes (mL) must be reported also.
 12.0 Data Analysis and Calculations
 12.1 Pretest Calculations.
 12.1.1 Pretest Protocol (Site Test Plan).
 12.1.1.1 The pretest protocol should define and address the test data quality objectives (DQOs), with all assumptions, that will be required by the end user (enforcement authority); what data are needed? why are the data needed? how will the data be used? what are method detection limits? and what are estimated target analyte levels for the following test parameters.
-12.1.1.1.1 Estimated source concentration for total chromium and/or Cr+6.
-12.1.1.1.2 Estimated minimum sampling time and/or volume required to meet method detection limit requirements (Appendix B 40 CFR Part 136) for measurement of total chromium and/or Cr+6.
+12.1.1.1.1 Estimated source concentration for total chromium and/or Cr +6.
+12.1.1.1.2 Estimated minimum sampling time and/or volume required to meet method detection limit requirements (Appendix B 40 CFR Part 136) for measurement of total chromium and/or Cr +6.
 12.1.1.1.3 Demonstrate that planned sampling parameters will meet DQOs. The protocol must demonstrate that the planned sampling parameters calculated by the tester will meet the needs of the source and the enforcement authority.
 12.1.1.2 The pre-test protocol should include information on equipment, logistics, personnel, process operation, and other resources necessary for an efficient and coordinated test.
 12.1.1.3 At a minimum, the pre-test protocol should identify and be approved by the source, the tester, the analytical laboratory, and the regulatory enforcement authority. The tester should not proceed with the compliance testing before obtaining approval from the enforcement authority.
 12.1.2 Post Test Calculations.
 12.1.2.1 Perform the calculations, retaining one extra decimal figure beyond that of the acquired data. Round off figures after final calculations.
 12.1.2.2 Nomenclature.
-CS = Concentration of Cr in sample solution, µg Cr/mL.
-Ccr = Concentration of Cr in stack gas, dry basis, corrected to standard conditions, mg/dscm.
+C S = Concentration of Cr in sample solution, µg Cr/mL.
+C cr = Concentration of Cr in stack gas, dry basis, corrected to standard conditions, mg/dscm.
 D = Digestion factor, dimension less.
 F = Dilution factor, dimension less.
-MCr = Total Cr in each sample, µg.
-Vad = Volume of sample aliquot after digestion, mL.
-Vaf = Volume of sample aliquot after dilution, mL.
-Vbd = Volume of sample aliquot submitted to digestion, mL.
-Vbf = Volume of sample aliquot before dilution, mL.
-VmL = Volume of impinger contents plus rinses, mL.
-Vm(std) = Volume of gas sample measured by the dry gas meter, corrected to standard conditions, dscm.
+M Cr = Total Cr in each sample, µg.
+V ad = Volume of sample aliquot after digestion, mL.
+V af = Volume of sample aliquot after dilution, mL.
+V bd = Volume of sample aliquot submitted to digestion, mL.
+V bf = Volume of sample aliquot before dilution, mL.
+V mL = Volume of impinger contents plus rinses, mL.
+V m(std) = Volume of gas sample measured by the dry gas meter, corrected to standard conditions, dscm.
 12.1.2.3 Dilution Factor. The dilution factor is the ratio of the volume of sample aliquot after dilution to the volume before dilution. This ratio is given by the following equation:
 ER17OC00.573
 12.1.2.4 Digestion Factor. The digestion factor is the ratio of the volume of sample aliquot after digestion to the volume before digestion. This ratio is given by Equation 306-2.
@@ -1337,7 +1337,7 @@ ER17OC00.574
 ER17OC00.575
 12.1.2.6 Average Dry Gas Meter Temperature and Average Orifice Pressure Drop. Same as Method 5.
 12.1.2.7 Dry Gas Volume, Volume of Water Vapor, Moisture Content. Same as Method 5.
-12.1.2.8 Cr Emission Concentration (CCr). Calculate CCr, the Cr concentration in the stack gas, in mg/dscm on a dry basis, corrected to standard conditions using the following equation:
+12.1.2.8 Cr Emission Concentration (C Cr). Calculate C Cr, the Cr concentration in the stack gas, in mg/dscm on a dry basis, corrected to standard conditions using the following equation:
 ER17OC00.576
 12.1.2.9 Isokinetic Variation, Acceptable Results. Same as Method 5.
 13.0 Method Performance
@@ -1346,10 +1346,10 @@ ER17OC00.576
 13.2.1 Analytical Sensitivity. The estimated instrumental detection limits listed are provided as a guide for an instrumental limit. The actual method detection limits are sample and instrument dependent and may vary as the sample matrix varies.
 13.2.1.2 ICP Analytical Sensitivity. The minimum estimated detection limits for ICP, as reported in Method 6010A and the recently revised Method 6010B of SW-846 (Reference 1), are 7.0 µg Cr/L and 4.7 µg Cr/L, respectively.
 13.2.1.3 GFAAS Analytical Sensitivity. The minimum estimated detection limit for GFAAS, as reported in Methods 7000A and 7191 of SW-846 (Reference 1), is 1 µg Cr/L.
-13.2.1.4 IC/PCR Analytical Sensitivity. The minimum detection limit for IC/PCR with a preconcentrator, as reported in Methods 0061 and 7199 of SW-846 (Reference 1), is 0.05 µg Cr+6/L.
-1.3.2.1.5 Determination of Detection Limits. The laboratory performing the Cr+6 measurements must determine the method detection limit on a quarterly basis using a suitable procedure such as that found in 40 CFR, Part 136, Appendix B. The determination should be made on samples in the appropriate alkaline matrix. Normally this involves the preparation (if applicable) and consecutive measurement of seven (7) separate aliquots of a sample with a concentration <5 times the expected detection limit. The detection limit is 3.14 times the standard deviation of these results.
-13.2.2 In-stack Sensitivity. The in-stack sensitivity depends upon the analytical detection limit, the volume of stack gas sampled, the total volume of the impinger absorbing solution plus the rinses, and, in some cases, dilution or concentration factors from sample preparation. Using the analytical detection limits given in Sections 13.2.1.1, 13.2.1.2, and 13.2.1.3; a stack gas sample volume of 1.7 dscm; a total liquid sample volume of 500 mL; and the digestion concentration factor of 1/2 for the GFAAS analysis; the corresponding in-stack detection limits are 0.0014 mg Cr/dscm to 0.0021 mg Cr/dscm for ICP, 0.00015 mg Cr/dscm for GFAAS, and 0.000015 mg Cr+6/dscm for IC/PCR with preconcentration.
-Note: It is recommended that the concentration of Cr in the analytical solutions be at least five times the analytical detection limit to optimize sensitivity in the analyses. Using this guideline and the same assumptions for impinger sample volume, stack gas sample volume, and the digestion concentration factor for the GFAAS analysis (500 mL,1.7 dscm, and 1/2, respectively), the recommended minimum stack concentrations for optimum sensitivity are 0.0068 mg Cr/dscm to 0.0103 mg Cr/dscm for ICP, 0.00074 mg Cr/dscm for GFAAS, and 0.000074 mg Cr+6/dscm for IC/PCR with preconcentration. If required, the in-stack detection limits can be improved by either increasing the stack gas sample volume, further reducing the volume of the digested sample for GFAAS, improving the analytical detection limits, or any combination of the three.
+13.2.1.4 IC/PCR Analytical Sensitivity. The minimum detection limit for IC/PCR with a preconcentrator, as reported in Methods 0061 and 7199 of SW-846 (Reference 1), is 0.05 µg Cr +6 /L.
+1.3.2.1.5 Determination of Detection Limits. The laboratory performing the Cr +6 measurements must determine the method detection limit on a quarterly basis using a suitable procedure such as that found in 40 CFR, Part 136, Appendix B. The determination should be made on samples in the appropriate alkaline matrix. Normally this involves the preparation (if applicable) and consecutive measurement of seven (7) separate aliquots of a sample with a concentration <5 times the expected detection limit. The detection limit is 3.14 times the standard deviation of these results.
+13.2.2 In-stack Sensitivity. The in-stack sensitivity depends upon the analytical detection limit, the volume of stack gas sampled, the total volume of the impinger absorbing solution plus the rinses, and, in some cases, dilution or concentration factors from sample preparation. Using the analytical detection limits given in Sections 13.2.1.1, 13.2.1.2, and 13.2.1.3; a stack gas sample volume of 1.7 dscm; a total liquid sample volume of 500 mL; and the digestion concentration factor of 1/2 for the GFAAS analysis; the corresponding in-stack detection limits are 0.0014 mg Cr/dscm to 0.0021 mg Cr/dscm for ICP, 0.00015 mg Cr/dscm for GFAAS, and 0.000015 mg Cr +6 /dscm for IC/PCR with preconcentration.
+Note: It is recommended that the concentration of Cr in the analytical solutions be at least five times the analytical detection limit to optimize sensitivity in the analyses. Using this guideline and the same assumptions for impinger sample volume, stack gas sample volume, and the digestion concentration factor for the GFAAS analysis (500 mL,1.7 dscm, and 1/2, respectively), the recommended minimum stack concentrations for optimum sensitivity are 0.0068 mg Cr/dscm to 0.0103 mg Cr/dscm for ICP, 0.00074 mg Cr/dscm for GFAAS, and 0.000074 mg Cr +6 /dscm for IC/PCR with preconcentration. If required, the in-stack detection limits can be improved by either increasing the stack gas sample volume, further reducing the volume of the digested sample for GFAAS, improving the analytical detection limits, or any combination of the three.
 13.3 Precision.
 13.3.1 The following precision data have been reported for the three analytical methods. In each case, when the sampling precision is combined with the reported analytical precision, the resulting overall precision may decrease.
 13.3.2 Bias data is also reported for GFAAS.
@@ -1357,7 +1357,7 @@ Note: It is recommended that the concentration of Cr in the analytical solutions
 13.4.1 As reported in Method 6010B of SW-846 (Reference 1), in an EPA round-robin Phase 1 study, seven laboratories applied the ICP technique to acid/distilled water matrices that had been spiked with various metal concentrates. For true values of 10, 50, and 150 µg Cr/L; the mean reported values were 10, 50, and 149 µg Cr/L; and the mean percent relative standard deviations were 18, 3.3, and 3.8 percent, respectively.
 13.4.2 In another multi laboratory study cited in Method 6010B, a mean relative standard of 8.2 percent was reported for an aqueous sample concentration of approximately 3750 µg Cr/L.
 13.5 GFAAS Precision. As reported in Method 7191 of SW-846 (Reference 1), in a single laboratory (EMSL), using Cincinnati, Ohio tap water spiked at concentrations of 19, 48, and 77 µg Cr/L, the standard deviations were ±0.1, ±0.2, and ±0.8, respectively. Recoveries at these levels were 97 percent, 101 percent, and 102 percent, respectively.
-13.6 IC/PCR Precision. As reported in Methods 0061 and 7199 of SW-846 (Reference 1), the precision of IC/PCR with sample preconcentration is 5 to 10 percent. The overall precision for sewage sludge incinerators emitting 120 ng/dscm of Cr+6 and 3.5 µg/dscm of total Cr was 25 percent and 9 percent, respectively; and for hazardous waste incinerators emitting 300 ng/dscm of C+6 the precision was 20 percent.
+13.6 IC/PCR Precision. As reported in Methods 0061 and 7199 of SW-846 (Reference 1), the precision of IC/PCR with sample preconcentration is 5 to 10 percent. The overall precision for sewage sludge incinerators emitting 120 ng/dscm of Cr +6 and 3.5 µg/dscm of total Cr was 25 percent and 9 percent, respectively; and for hazardous waste incinerators emitting 300 ng/dscm of C +6 the precision was 20 percent.
 14.0 Pollution Prevention
 14.1 The only materials used in this method that could be considered pollutants are the chromium standards used for instrument calibration and acids used in the cleaning of the collection and measurement containers/labware, in the preparation of standards, and in the acid digestion of samples. Both reagents can be stored in the same waste container.
 14.2 Cleaning solutions containing acids should be prepared in volumes consistent with use to minimize the disposal of excessive volumes of acid.
@@ -1385,8 +1385,8 @@ Note: This method does not include all of the specifications (e.g., equipment an
 1.3 Data Quality Objectives.
 1.3.1 Pretest Protocol.
 1.3.1.1 The pretest protocol should define and address the test data quality objectives (DQOs), with all assumptions, that will be required by the end user (enforcement authority); what data are needed? why are the data needed? how will data be used? what are method detection limits? and what are estimated target analyte levels for the following test parameters.
-1.3.1.1.1 Estimated source concentration for total chromium and/or Cr+6.
-1.3.1.1.2 Estimated minimum sampling time and/or volume required to meet method detection limit requirements (Appendix B 40 CFR Part 136) for measurement of total chromium and/or Cr+6.
+1.3.1.1.1 Estimated source concentration for total chromium and/or Cr +6.
+1.3.1.1.2 Estimated minimum sampling time and/or volume required to meet method detection limit requirements (Appendix B 40 CFR Part 136) for measurement of total chromium and/or Cr +6.
 1.3.1.1.3 Demonstrate that planned sampling parameters will meet DQOs. The protocol must demonstrate that the planned sampling parameters calculated by the tester will meet the needs of the source and the enforcement authority.
 1.3.1.2 The pre-test protocol should include information on equipment, logistics, personnel, process operation, and other resources necessary for an efficient and coordinated performance test.
 1.3.1.3 At a minimum, the pre-test protocol should identify and be approved by the source, the tester, the analytical laboratory, and the regulatory enforcement authority. The tester should not proceed with the compliance testing before obtaining approval from the enforcement authority.
@@ -1397,14 +1397,14 @@ Note: This method does not include all of the specifications (e.g., equipment an
 2.1.2.1 Total chromium samples with high chromium concentrations (≥35 µg/L) may be analyzed using inductively coupled plasma emission spectrometry (ICP) at 267.72 nm.
 Note: The ICP analysis is applicable for this method only when the solution analyzed has a Cr concentration greater than or equal to 35 µg/L or five times the method detection limit as determined according to Appendix B in 40 CFR Part 136.
 2.1.2.2 Alternatively, when lower total chromium concentrations (<35 µg/L) are encountered, a portion of the alkaline sample solution may be digested with nitric acid and analyzed by graphite furnace atomic absorption spectroscopy (GFAAS) at 357.9 nm.
-2.1.2.3 If it is desirable to determine hexavalent chromium (Cr+6) emissions, the samples may be analyzed using an ion chromatograph equipped with a post-column reactor (IC/PCR) and a visible wavelength detector. To increase sensitivity for trace levels of Cr+6, a preconcentration system may be used in conjunction with the IC/PCR.
+2.1.2.3 If it is desirable to determine hexavalent chromium (Cr +6) emissions, the samples may be analyzed using an ion chromatograph equipped with a post-column reactor (IC/PCR) and a visible wavelength detector. To increase sensitivity for trace levels of Cr +6, a preconcentration system may be used in conjunction with the IC/PCR.
 3.0 Definitions
-3.1 Total Chromium—measured chromium content that includes both major chromium oxidation states (Cr + 3, Cr + 6).
-3.2 May—Implies an optional operation.
-3.3 Digestion—The analytical operation involving the complete (or nearly complete) dissolution of the sample in order to ensure the complete solubilization of the element (analyte) to be measured.
-3.4 Interferences—Physical, chemical, or spectral phenomena that may produce a high or low bias in the analytical result.
-3.5 Analytical System—All components of the analytical process including the sample digestion and measurement apparatus.
-3.6 Sample Recovery—The quantitative transfer of sample from the collection apparatus to the sample preparation (digestion, etc.) apparatus. This term should not be confused with analytical recovery.
+3.1 Total Chromium —measured chromium content that includes both major chromium oxidation states (Cr + 3, Cr + 6).
+3.2 May —Implies an optional operation.
+3.3 Digestion —The analytical operation involving the complete (or nearly complete) dissolution of the sample in order to ensure the complete solubilization of the element (analyte) to be measured.
+3.4 Interferences —Physical, chemical, or spectral phenomena that may produce a high or low bias in the analytical result.
+3.5 Analytical System —All components of the analytical process including the sample digestion and measurement apparatus.
+3.6 Sample Recovery —The quantitative transfer of sample from the collection apparatus to the sample preparation (digestion, etc.) apparatus. This term should not be confused with analytical recovery.
 4.0 Interferences
 4.1 Same as in Method 306, Section 4.0.
 5.0 Safety
@@ -1414,48 +1414,48 @@ Note: The ICP analysis is applicable for this method only when the solution anal
 Note: Mention of trade names or specific products does not constitute endorsement by the Environmental Protection Agency.
 6.1 Sampling Train. A schematic of the sampling train is shown in Figure 306A-1. The individual components of the train are available commercially, however, some fabrication and assembly are required.
 6.1.1 Probe Nozzle/Tubing and Sheath.
-6.1.1.1 Use approximately 6.4-mm (1/4-in.) inside diameter (ID) glass or rigid plastic tubing approximately 20 cm (8 in.) in length with a short 90 degree bend at one end to form the sampling nozzle. Grind a slight taper on the nozzle end before making the bend. Attach the nozzle to flexible tubing of sufficient length to enable collection of a sample from the stack.
+6.1.1.1 Use approximately 6.4-mm (1/4 -in.) inside diameter (ID) glass or rigid plastic tubing approximately 20 cm (8 in.) in length with a short 90 degree bend at one end to form the sampling nozzle. Grind a slight taper on the nozzle end before making the bend. Attach the nozzle to flexible tubing of sufficient length to enable collection of a sample from the stack.
 6.1.1.2 Use a straight piece of larger diameter rigid tubing (such as metal conduit or plastic water pipe) to form a sheath that begins about 2.5 cm (1 in.) from the 90 ° bend on the nozzle and encases and supports the flexible tubing.
 6.1.2 Type S Pitot Tube. Same as Method 2, Section 6.1 (40 CFR Part 60, Appendix A).
 6.1.3 Temperature Sensor.
 6.1.3.1 A thermocouple, liquid-filled bulb thermometer, bimetallic thermometer, mercury-in-glass thermometer, or other sensor capable of measuring temperature to within 1.5 percent of the minimum absolute stack temperature.
 6.1.3.2 The temperature sensor shall either be positioned near the center of the stack, or be attached to the pitot tube as directed in Section 6.3 of Method 2.
 6.1.4 Sample Train Connectors.
-6.1.4.1 Use thick wall flexible plastic tubing (polyethylene, polypropylene, or polyvinyl chloride) ~ 6.4-mm (1/4-in.) to 9.5-mm (3/8-in.) ID to connect the train components.
+6.1.4.1 Use thick wall flexible plastic tubing (polyethylene, polypropylene, or polyvinyl chloride) ~ 6.4-mm (1/4 -in.) to 9.5-mm (3/8 -in.) ID to connect the train components.
 6.1.4.2 A combination of rigid plastic tubing and thin wall flexible tubing may be used as long as tubing walls do not collapse when leak-checking the train. Metal tubing cannot be used.
 6.1.5 Impingers. Three, one-quart capacity, glass canning jars with vacuum seal lids, or three Greenburg-Smith (GS) design impingers connected in series, or equivalent, may be used.
 6.1.5.1 One-quart glass canning jar. Three separate jar containers are required: (1) the first jar contains the absorbing solution; (2) the second is empty and is used to collect any reagent carried over from the first container; and (3) the third contains the desiccant drying agent.
-6.1.5.2 Canning Jar Connectors. The jar containers are connected by leak-tight inlet and outlet tubes installed in the lids of each container for assembly with the train. The tubes may be made of ~ 6.4 mm (1/4-in.) ID glass or rigid plastic tubing. For the inlet tube of the first impinger, heat the glass or plastic tubing and draw until the tubing separates. Fabricate the necked tip to form an orifice tip that is approximately 2.4 mm (3/32-in.) ID.
-6.1.5.2.1 When assembling the first container, place the orifice tip end of the tube approximately 4.8 mm (3/16-in.) above the inside bottom of the jar.
+6.1.5.2 Canning Jar Connectors. The jar containers are connected by leak-tight inlet and outlet tubes installed in the lids of each container for assembly with the train. The tubes may be made of ~ 6.4 mm (1/4 -in.) ID glass or rigid plastic tubing. For the inlet tube of the first impinger, heat the glass or plastic tubing and draw until the tubing separates. Fabricate the necked tip to form an orifice tip that is approximately 2.4 mm (3/32 -in.) ID.
+6.1.5.2.1 When assembling the first container, place the orifice tip end of the tube approximately 4.8 mm (3/16 -in.) above the inside bottom of the jar.
 6.1.5.2.2 For the second container, the inlet tube need not be drawn and sized, but the tip should be approximately 25 mm (1 in.) above the bottom of the jar.
-6.1.5.2.3 The inlet tube of the third container should extend to approximately 12.7 mm (1/2-in.) above the bottom of the jar.
-6.1.5.2.4 Extend the outlet tube for each container approximately 50 mm (2 in.) above the jar lid and downward through the lid, approximately 12.7 mm (1/2-in.) beneath the bottom of the lid.
-6.1.5.3 Greenburg-Smith Impingers. Three separate impingers of the Greenburg-Smith (GS) design as described in Section 6.0 of Method 5 are required. The first GS impinger shall have a standard tip (orifice/plate), and the second and third GS impingers shall be modified by replacing the orifice/plate tube with a 13 mm (1/2-in.) ID glass tube, having an unrestricted opening located 13 mm (1/2-in.) from the bottom of the outer flask.
+6.1.5.2.3 The inlet tube of the third container should extend to approximately 12.7 mm (1/2 -in.) above the bottom of the jar.
+6.1.5.2.4 Extend the outlet tube for each container approximately 50 mm (2 in.) above the jar lid and downward through the lid, approximately 12.7 mm (1/2 -in.) beneath the bottom of the lid.
+6.1.5.3 Greenburg-Smith Impingers. Three separate impingers of the Greenburg-Smith (GS) design as described in Section 6.0 of Method 5 are required. The first GS impinger shall have a standard tip (orifice/plate), and the second and third GS impingers shall be modified by replacing the orifice/plate tube with a 13 mm (1/2 -in.) ID glass tube, having an unrestricted opening located 13 mm (1/2 -in.) from the bottom of the outer flask.
 6.1.5.4 Greenburg-Smith Connectors. The GS impingers shall be connected by leak-free ground glass "U" tube connectors or by leak-free non-contaminating flexible tubing. The first impinger shall contain the absorbing solution, the second is empty and the third contains the desiccant drying agent.
 6.1.6 Manometer. Inclined/vertical type, or equivalent device, as described in Section 6.2 of Method 2 (40 CFR Part 60, Appendix A).
-6.1.7 Critical Orifice. The critical orifice is a small restriction in the sample line that is located upstream of the vacuum pump. The orifice produces a constant sampling flow rate that is approximately 0.021 cubic meters per minute (m3/min) or 0.75 cubic feet per minute (cfm).
-6.1.7.1 The critical orifice can be constructed by sealing a 2.4-mm (3/32-in.) ID brass tube approximately 14.3 mm (9/16-in.) in length inside a second brass tube that is approximately 8 mm (5/16-in.) ID and 14.3-mm (9/16-in.) in length.
+6.1.7 Critical Orifice. The critical orifice is a small restriction in the sample line that is located upstream of the vacuum pump. The orifice produces a constant sampling flow rate that is approximately 0.021 cubic meters per minute (m 3 /min) or 0.75 cubic feet per minute (cfm).
+6.1.7.1 The critical orifice can be constructed by sealing a 2.4-mm (3/32 -in.) ID brass tube approximately 14.3 mm (9/16 -in.) in length inside a second brass tube that is approximately 8 mm (5/16 -in.) ID and 14.3-mm (9/16 -in.) in length.
 6.1.7.2 Materials other than brass can be used to construct the critical orifice as long as the flow through the sampling train can be maintained at approximately 0.021 cubic meter per minute (0.75) cfm.
-6.1.8 Connecting Hardware. Standard pipe and fittings, 9.5-mm (3/8-in.), 6.4-mm (1/4-in.) or 3.2-mm (1/8-in.) ID, may be used to assemble the vacuum pump, dry gas meter and other sampling train components.
-6.1.9 Vacuum Gauge. Capable of measuring approximately 760 mm Hg (30 in. Hg) vacuum in 25.4 mm HG (1 in. Hg) increments. Locate vacuum gauge between the critical orifice and the vacuum pump.
+6.1.8 Connecting Hardware. Standard pipe and fittings, 9.5-mm (3/8 -in.), 6.4-mm (1/4 -in.) or 3.2-mm (1/8 -in.) ID, may be used to assemble the vacuum pump, dry gas meter and other sampling train components.
+6.1.9 Vacuum Gauge. Capable of measuring approximately 760 mm H g (30 in. H g) vacuum in 25.4 mm H G (1 in. H g) increments. Locate vacuum gauge between the critical orifice and the vacuum pump.
 6.1.10 Pump Oiler. A glass oil reservoir with a wick mounted at the vacuum pump inlet that lubricates the pump vanes. The oiler should be an in-line type and not vented to the atmosphere. See EMTIC Guideline Document No. GD-041.WPD for additional information.
-6.1.11 Vacuum Pump. Gast Model 0522-V103-G18DX, or equivalent, capable of delivering at least 1.5 cfm at 15 in. Hg vacuum.
+6.1.11 Vacuum Pump. Gast Model 0522-V103-G18DX, or equivalent, capable of delivering at least 1.5 cfm at 15 in. H g vacuum.
 6.1.12 Oil Trap/Muffler. An empty glass oil reservoir without wick mounted at the pump outlet to control the pump noise and prevent oil from reaching the dry gas meter.
-6.1.13 By-pass Fine Adjust Valve (Optional). Needle valve assembly 6.4-mm (1/4-in.), Whitey 1 RF 4-A, or equivalent, that allows for adjustment of the train vacuum.
+6.1.13 By-pass Fine Adjust Valve (Optional). Needle valve assembly 6.4-mm (1/4 -in.), Whitey 1 RF 4-A, or equivalent, that allows for adjustment of the train vacuum.
 6.1.13.1 A fine-adjustment valve is positioned in the optional pump by-pass system that allows the gas flow to recirculate through the pump. This by-pass system allows the tester to control/reduce the maximum leak-check vacuum pressure produced by the pump.
 6.1.13.1.1 The tester must conduct the post test leak check at a vacuum equal to or greater than the maximum vacuum encountered during the sampling run.
 6.1.13.1.2 The pump by-pass assembly is not required, but is recommended if the tester intends to leak-check the 306A train at the vacuum experienced during a run.
 6.1.14 Dry Gas Meter. An Equimeter Model 110 test meter or, equivalent with temperature sensor(s) installed (inlet/outlet) to monitor the meter temperature. If only one temperature sensor is installed, locate the sensor at the outlet side of the meter. The dry gas meter must be capable of measuring the gaseous volume to within ±2% of the true volume.
-Note: The Method 306 sampling train is also commercially available and may be used to perform the Method 306A tests. The sampling train may be assembled as specified in Method 306A with the sampling rate being operated at the delta H@ specified for the calibrated orifice located in the meter box. The Method 306 train is then operated as described in Method 306A.
-6.2 Barometer. Mercury aneroid barometer, or other barometer equivalent, capable of measuring atmospheric pressure to within ±2.5 mm Hg (0.1 in. Hg).
+Note: The Method 306 sampling train is also commercially available and may be used to perform the Method 306A tests. The sampling train may be assembled as specified in Method 306A with the sampling rate being operated at the delta H @ specified for the calibrated orifice located in the meter box. The Method 306 train is then operated as described in Method 306A.
+6.2 Barometer. Mercury aneroid barometer, or other barometer equivalent, capable of measuring atmospheric pressure to within ±2.5 mm H g (0.1 in. H g).
 6.2.1 A preliminary check of the barometer shall be made against a mercury-in-glass reference barometer or its equivalent.
 6.2.2 Tester may elect to obtain the absolute barometric pressure from a nearby National Weather Service station.
-6.2.2.1 The station value (which is the absolute barometric pressure) must be adjusted for elevation differences between the weather station and the sampling location. Either subtract 2.5 mm Hg (0.1 in. Hg) from the station value per 30 m (100 ft) of elevation increase or add the same for an elevation decrease.
-6.2.2.2 If the field barometer cannot be adjusted to agree within 0.1 in. Hg of the reference barometric, repair or discard the unit. The barometer pressure measurement shall be recorded on the sampling data sheet.
+6.2.2.1 The station value (which is the absolute barometric pressure) must be adjusted for elevation differences between the weather station and the sampling location. Either subtract 2.5 mm H g (0.1 in. H g) from the station value per 30 m (100 ft) of elevation increase or add the same for an elevation decrease.
+6.2.2.2 If the field barometer cannot be adjusted to agree within 0.1 in. H g of the reference barometric, repair or discard the unit. The barometer pressure measurement shall be recorded on the sampling data sheet.
 6.3 Sample Recovery. Same as Method 5, Section 6.2 (40 CFR Part 60, Appendix A), with the following exceptions:
 6.3.1 Probe-Liner and Probe-Nozzle Brushes. Brushes are not necessary for sample recovery. If a probe brush is used, it must be non-metallic.
 6.3.2 Wash Bottles. Polyethylene wash bottle, for sample recovery absorbing solution.
-6.3.3 Sample Recovery Solution. Use 0.1 N NaOH or 0.1 N NaHCO3, whichever is used as the impinger absorbing solution, to replace the acetone.
+6.3.3 Sample Recovery Solution. Use 0.1 N NaOH or 0.1 N NaHCO 3, whichever is used as the impinger absorbing solution, to replace the acetone.
 6.3.4 Sample Storage Containers.
 6.3.4.1 Glass Canning Jar. The first canning jar container of the sampling train may serve as the sample shipping container. A new lid and sealing plastic wrap shall be substituted for the container lid assembly.
 6.3.4.2 Polyethylene or Glass Containers. Transfer the Greenburg-Smith impinger contents to precleaned polyethylene or glass containers. The samples shall be stored and shipped in 250-mL, 500-mL or 1000-mL polyethylene or glass containers with leak-free, non metal screw caps.
@@ -1463,21 +1463,21 @@ Note: The Method 306 sampling train is also commercially available and may be us
 6.3.6 Plastic Storage Containers. Air tight containers to store silica gel.
 6.4 Analysis. Same as Method 306, Section 6.3.
 7.0 Reagents and Standards.
-Note: Unless otherwise indicated, all reagents shall conform to the specifications established by the Committee on Analytical Reagents of the American Chemical Society (ACS reagent grade). Where such specifications are not available, use the best available grade. It is recommended, but not required, that reagents be checked by the appropriate analysis prior to field use to assure that contamination is below the analytical detection limit for the ICP or GFAAS total chromium analysis; and that contamination is below the analytical detection limit for Cr+6 using IC/PCR for direct injection or, if selected, preconcentration.
+Note: Unless otherwise indicated, all reagents shall conform to the specifications established by the Committee on Analytical Reagents of the American Chemical Society (ACS reagent grade). Where such specifications are not available, use the best available grade. It is recommended, but not required, that reagents be checked by the appropriate analysis prior to field use to assure that contamination is below the analytical detection limit for the ICP or GFAAS total chromium analysis; and that contamination is below the analytical detection limit for Cr +6 using IC/PCR for direct injection or, if selected, preconcentration.
 7.1 Sampling.
 7.1.1 Water. Reagent water that conforms to ASTM Specification D1193 Type II (incorporated by reference see § 63.14). All references to water in the method refer to reagent water unless otherwise specified. It is recommended that water blanks be checked prior to preparing the sampling reagents to ensure that the Cr content is less than three (3) times the anticipated detection limit of the analytical method.
 7.1.2 Sodium Hydroxide (NaOH) Absorbing Solution, 0.1 N. Dissolve 4.0 g of sodium hydroxide in 1 liter of water to obtain a pH of approximately 8.5.
-7.1.3 Sodium Bicarbonate (NaHCO3) Absorbing Solution, 0.1 N. Dissolve approximately 8.5 g of sodium bicarbonate in 1 liter of water to obtain a pH of approximately 8.3.
+7.1.3 Sodium Bicarbonate (NaHCO 3) Absorbing Solution, 0.1 N. Dissolve approximately 8.5 g of sodium bicarbonate in 1 liter of water to obtain a pH of approximately 8.3.
 7.1.4 Chromium Contamination.
 7.1.4.1 The absorbing solution shall not exceed the QC criteria noted in Method 306, Section 7.1.1 (≤3 times the instrument detection limit).
-7.1.4.2 When the Cr+6 content in the field samples exceeds the blank concentration by at least a factor of ten (10), Cr+6 blank levels ≤10 times the detection limit will be allowed.
-Note: At sources with high concentrations of acids and/or SO2, the concentration of NaOH or NaHCO3 should be ≥0.5 N to insure that the pH of the solution remains at or above 8.5 for NaOH and 8.0 for NaHCO3 during and after sampling.
+7.1.4.2 When the Cr +6 content in the field samples exceeds the blank concentration by at least a factor of ten (10), Cr +6 blank levels ≤10 times the detection limit will be allowed.
+Note: At sources with high concentrations of acids and/or SO 2, the concentration of NaOH or NaHCO 3 should be ≥0.5 N to insure that the pH of the solution remains at or above 8.5 for NaOH and 8.0 for NaHCO 3 during and after sampling.
 7.1.3 Desiccant. Silica Gel, 6-16 mesh, indicating type. Alternatively, other types of desiccants may be used, subject to the approval of the Administrator.
 7.2 Sample Recovery. Same as Method 306, Section 7.2.
 7.3 Sample Preparation and Analysis. Same as Method 306, Section 7.3.
 7.4 Glassware Cleaning Reagents. Same as Method 306, Section 7.4.
 8.0 Sample Collection, Recovery, Preservation, Holding Times, Storage, and Transport
-Note: Prior to sample collection, consideration should be given as to the type of analysis (Cr+6 or total Cr) that will be performed. Deciding which analysis will be performed will enable the tester to determine which appropriate sample recovery and storage procedures will be required to process the sample.
+Note: Prior to sample collection, consideration should be given as to the type of analysis (Cr +6 or total Cr) that will be performed. Deciding which analysis will be performed will enable the tester to determine which appropriate sample recovery and storage procedures will be required to process the sample.
 8.1 Sample Collection.
 8.1.1 Pretest Preparation.
 8.1.1.1 Selection of Measurement Site. Locate the sampling ports as specified in Section 11.0 of Method 1 (40 CFR Part 60, Appendix A).
@@ -1501,15 +1501,15 @@ Note: Prior to sample collection, consideration should be given as to the type o
 ER17OC00.579
 Where:
 n = Sampling point number.
-Δp = Average pressure differential across pitot tube, mm H2O (in. H2O).
-ΔPavg = Average of Δp values, mm H2O (in. H2O).
+Δp = Average pressure differential across pitot tube, mm H 2 O (in. H 2 O).
+ΔP avg = Average of Δp values, mm H 2 O (in. H 2 O).
 Note: Convert the decimal fractions for minutes to seconds.
 8.1.1.8 Pretest Preparation. It is recommended, but not required, that all items which will be in contact with the sample be cleaned prior to performing the testing to avoid possible sample contamination (positive chromium bias). These items include, but are not limited to: Sampling probe, connecting tubing, impingers, and jar containers.
 8.1.1.8.1 Sample train components should be: (1) Rinsed with hot tap water; (2) washed with hot soapy water; (3) rinsed with tap water; (4) rinsed with reagent water; (5) soaked in a 10 percent (v/v) nitric acid solution for at least four hours; and (6) rinsed throughly with reagent water before use.
-8.1.1.8.2 At a minimum, the tester should, rinse the probe, connecting tubing, and first and second impingers twice with either 0.1 N sodium hydroxide (NaOH) or 0.1 N sodium bicarbonate (NaHCO3) and discard the rinse solution.
+8.1.1.8.2 At a minimum, the tester should, rinse the probe, connecting tubing, and first and second impingers twice with either 0.1 N sodium hydroxide (NaOH) or 0.1 N sodium bicarbonate (NaHCO 3) and discard the rinse solution.
 8.1.1.8.3 If separate sample shipping containers are to be used, these also should be precleaned using the specified cleaning procedures.
 8.1.1.9 Preparation of Sampling Train. Assemble the sampling train as shown in Figure 306A-1. Secure the nozzle-liner assembly to the outer sheath to prevent movement when sampling.
-8.1.1.9.1 Place 250 mL of 0.1 N NaOH or 0.1 N NaHCO3 absorbing solution into the first jar container or impinger. The second jar/impinger is to remain empty. Place 6 to 16 mesh indicating silica gel, or equivalent desiccant into the third jar/impinger until the container is half full (~ 300 to 400 g).
+8.1.1.9.1 Place 250 mL of 0.1 N NaOH or 0.1 N NaHCO 3 absorbing solution into the first jar container or impinger. The second jar/impinger is to remain empty. Place 6 to 16 mesh indicating silica gel, or equivalent desiccant into the third jar/impinger until the container is half full (~ 300 to 400 g).
 8.1.1.9.2 Place a small cotton ball in the outlet exit tube of the third jar to collect small silica gel particles that may dislodge and impair the pump and/or gas meter.
 8.1.1.10 Pretest Leak-Check. A pretest leak-check is recommended, but not required. If the tester opts to conduct the pretest leak-check, the following procedures shall be performed: (1) Place the jar/impinger containers into an ice bath and wait 10 minutes for the ice to cool the containers before performing the leak check and/or start sampling; (2) to perform the leak check, seal the nozzle using a piece of clear plastic wrap placed over the end of a finger and switch on the pump; and (3) the train system leak rate should not exceed 0.02 cfm at a vacuum of 380 mm Hg (15 in. Hg) or greater. If the leak rate does exceed the 0.02 cfm requirement, identify and repair the leak area and perform the leak check again.
 Note: Use caution when releasing the vacuum following the leak check. Always allow air to slowly flow through the nozzle end of the train system while the pump is still operating. Switching off the pump with vacuum on the system may result in the silica gel being pulled into the second jar container.
@@ -1526,8 +1526,8 @@ Note: Theoretically, critical flow for air occurs when the ratio of the orifice 
 8.1.2.4.1 Circular Stacks. Complete the first port traverse and switch off the pump. Testers may opt to perform a leak-check between the port changes to verify the leak rate however, this is not mandatory. Move the sampling train to the next sampling port and repeat the sequence. Be sure to record the final dry gas meter reading after completing the test run. After performing the post test leak check, disconnect the jar/impinger containers from the pump and meter assembly and transport the probe, connecting tubing, and containers to the sample recovery area.
 8.1.2.4.2 Rectangle Stacks. Complete each port traverse as per the instructions provided in 8.1.2.4.1.
 Note: If an approximate mass emission rate is to be calculated, measure and record the stack velocity pressure and temperature before and after the test run.
-8.2 Sample Recovery. After the train has been transferred to the sample recovery area, disconnect the tubing that connects the jar/impingers. The tester shall select either the total Cr or Cr+6 sample recovery option. Samples to be analyzed for both total Cr and Cr+6 shall be recovered using the Cr+6 sample option (Section 8.2.2).
-Note: Collect a reagent blank sample for each of the total Cr or the Cr+6 analytical options. If both analyses (Cr and Cr+6) are to be conducted on the samples, collect separate reagent blanks for each analysis. Also, since particulate matter is not usually present at chromium electroplating and/or chromium anodizing operations, it is not necessary to filter the Cr+6 samples unless there is observed sediment in the collected solutions. If it is necessary to filter the Cr+6 solutions, please refer to Method 0061, Determination of Hexavalent Chromium Emissions from Stationary Sources, Section 7.4, Sample Preparation in SW-846 (see Reference 1).
+8.2 Sample Recovery. After the train has been transferred to the sample recovery area, disconnect the tubing that connects the jar/impingers. The tester shall select either the total Cr or Cr +6 sample recovery option. Samples to be analyzed for both total Cr and Cr +6 shall be recovered using the Cr +6 sample option (Section 8.2.2).
+Note: Collect a reagent blank sample for each of the total Cr or the Cr +6 analytical options. If both analyses (Cr and Cr +6) are to be conducted on the samples, collect separate reagent blanks for each analysis. Also, since particulate matter is not usually present at chromium electroplating and/or chromium anodizing operations, it is not necessary to filter the Cr +6 samples unless there is observed sediment in the collected solutions. If it is necessary to filter the Cr +6 solutions, please refer to Method 0061, Determination of Hexavalent Chromium Emissions from Stationary Sources, Section 7.4, Sample Preparation in SW-846 (see Reference 1).
 8.2.1 Total Cr Sample Option.
 8.2.1.1 Shipping Container No. 1. The first jar container may either be used to store and transport the sample, or if GS impingers are used, samples may be stored and shipped in precleaned 250-mL, 500-mL or 1000-mL polyethylene or glass bottles with leak-free, non-metal screw caps.
 8.2.1.1.1 Unscrew the lid from the first jar/impinger container.
@@ -1538,27 +1538,27 @@ Note: Collect a reagent blank sample for each of the total Cr or the Cr+6 analyt
 8.2.1.3 Position the nozzle, probe and connecting plastic tubing in a vertical position so that the tubing forms a "U".
 8.2.1.3.1 Using the wash bottle, partially fill the tubing with fresh absorbing solution. Raise and lower the end of the plastic tubing several times to allow the solution to contact the internal surfaces. Do not allow the solution to overflow or part of the sample will be lost. Place the nozzle end of the probe over the mouth of the first container and elevate the plastic tubing so that the solution flows into the sample container.
 8.2.1.3.2 Repeat the probe/tubing sample recovery procedure but allow the solution to flow out the opposite end of the plastic tubing into the sample container. Repeat the entire sample recovery procedure once again.
-8.2.1.4 Use approximately 200 to 300 mL of the 0.1 N NaOH or 0.1 N NaHCO3 absorbing solution during the rinsing of the probe nozzle, probe liner, sample containers, and connecting tubing.
+8.2.1.4 Use approximately 200 to 300 mL of the 0.1 N NaOH or 0.1 N NaHCO 3 absorbing solution during the rinsing of the probe nozzle, probe liner, sample containers, and connecting tubing.
 8.2.1.5 Place a piece of clear plastic wrap over the mouth of the sample jar to seal the shipping container. Use a standard lid and band assembly to seal and secure the sample in the jar.
 8.2.1.5.1 Label the jar clearly to identify its contents, sample number and date.
 8.2.1.5.2 Mark the height of the liquid level on the container to identify any losses during shipping and handling.
 8.2.1.5.3 Prepare a chain-of-custody sheet to accompany the sample to the laboratory.
-8.2.2 Cr+6 Sample Option.
+8.2.2 Cr +6 Sample Option.
 8.2.2.1 Shipping Container No. 1. The first jar container may either be used to store and transport the sample, or if GS impingers are used, samples may be stored and shipped in precleaned 250-mL, 500-mL or 1000-mL polyethylene or glass bottles with leak-free non-metal screw caps.
 8.2.2.1.1 Unscrew and remove the lid from the first jar container.
-8.2.2.1.2 Measure and record the pH of the solution in the first container by using a pH indicator strip. The pH of the solution must be ≥8.5 for NaOH and ≥8.0 for NaHCO3. If not, discard the collected sample, increase the concentration of the NaOH or NaHCO3 absorbing solution to 0.5 M and collect another air emission sample.
+8.2.2.1.2 Measure and record the pH of the solution in the first container by using a pH indicator strip. The pH of the solution must be ≥8.5 for NaOH and ≥8.0 for NaHCO 3. If not, discard the collected sample, increase the concentration of the NaOH or NaHCO3 absorbing solution to 0.5 M and collect another air emission sample.
 8.2.2.2 After measuring the pH of the first container, follow sample recovery procedures described in Sections 8.2.1.1 through 8.2.1.5.
-Note: Since particulate matter is not usually present at chromium electroplating and/or chromium anodizing facilities, it is not necessary to filter the Cr+6 samples unless there is observed sediment in the collected solutions. If it is necessary to filter the Cr+6 solutions, please refer to the EPA Method 0061, Determination of Hexavalent Chromium Emissions from Stationary Sources, Section 7.4, Sample Preparation in SW-846 (see Reference 5) for procedure.
+Note: Since particulate matter is not usually present at chromium electroplating and/or chromium anodizing facilities, it is not necessary to filter the Cr +6 samples unless there is observed sediment in the collected solutions. If it is necessary to filter the Cr +6 solutions, please refer to the EPA Method 0061, Determination of Hexavalent Chromium Emissions from Stationary Sources, Section 7.4, Sample Preparation in SW-846 (see Reference 5) for procedure.
 8.2.3 Silica Gel Container. Observe the color of the indicating silica gel to determine if it has been completely spent and make a notation of its condition/color on the field data sheet. Do not use water or other liquids to remove and transfer the silica gel.
-8.2.4 Total Cr and/or Cr+6 Reagent Blank.
-8.2.4.1 Shipping Container No. 2. Place approximately 500 mL of the 0.1 N NaOH or 0.1 N NaHCO3 absorbing solution in a precleaned, labeled sample container and include with the field samples for analysis.
+8.2.4 Total Cr and/or Cr +6 Reagent Blank.
+8.2.4.1 Shipping Container No. 2. Place approximately 500 mL of the 0.1 N NaOH or 0.1 N NaHCO 3 absorbing solution in a precleaned, labeled sample container and include with the field samples for analysis.
 8.3 Sample Preservation, Storage, and Transport.
 8.3.1 Total Cr Option. Samples that are to be analyzed for total Cr need not be refrigerated.
-8.3.2 Cr+6 Option. Samples that are to be analyzed for Cr+6 must be shipped and stored at 4 °C (~40 °F).
-Note: Allow Cr+6 samples to return to ambient temperature prior to analysis.
+8.3.2 Cr +6 Option. Samples that are to be analyzed for Cr +6 must be shipped and stored at 4 °C (~40 °F).
+Note: Allow Cr +6 samples to return to ambient temperature prior to analysis.
 8.4 Sample Holding Times.
 8.4.1 Total Cr Option. Samples that are to be analyzed for total chromium must be analyzed within 60 days of collection.
-8.4.2 Cr+6 Option. Samples that are to be analyzed for Cr+6 must be analyzed within 14 days of collection.
+8.4.2 Cr +6 Option. Samples that are to be analyzed for Cr +6 must be analyzed within 14 days of collection.
 9.0 Quality Control
 9.1 Same as Method 306, Section 9.0.
 10.0 Calibration and Standardization
@@ -1567,37 +1567,37 @@ Note: Tester shall maintain a performance log of all calibration results.
 10.2 Temperature Sensor. Use the procedure in Section 10.3 of Method 2 to calibrate the in-stack temperature sensor.
 10.3 Metering System.
 10.3.1 Sample Train Dry Gas Meter Calibration. Calibrations may be performed as described in Section 16.2 of Method 5 by either the manufacturer, a firm who provides calibration services, or the tester.
-10.3.2 Dry Gas Meter Calibration Coefficient (Ym). The meter calibration coefficient (Ym) must be determined prior to the initial use of the meter, and following each field test program. If the dry gas meter is new, the manufacturer will have specified the Ym value for the meter. This Ym value can be used as the pretest value for the first test. For subsequent tests, the tester must use the Ym value established during the pretest calibration.
-10.3.3 Calibration Orifice. The manufacturer may have included a calibration orifice and a summary spreadsheet with the meter that may be used for calibration purposes. The spreadsheet will provide data necessary to determine the calibration for the orifice and meter (standard cubic feet volume, sample time, etc.). These data were produced when the initial Ym value was determined for the meter.
-10.3.4 Ym Meter Value Verification or Meter Calibration.
-10.3.4.1 The Ym meter value may be determined by replacing the sampling train critical orifice with the calibration orifice. Replace the critical orifice assembly by installing the calibration orifice in the same location. The inlet side of the calibration orifice is to be left open to the atmosphere and is not to be reconnected to the sample train during the calibration procedure.
+10.3.2 Dry Gas Meter Calibration Coefficient (Y m). The meter calibration coefficient (Y m) must be determined prior to the initial use of the meter, and following each field test program. If the dry gas meter is new, the manufacturer will have specified the Y m value for the meter. This Y m value can be used as the pretest value for the first test. For subsequent tests, the tester must use the Y m value established during the pretest calibration.
+10.3.3 Calibration Orifice. The manufacturer may have included a calibration orifice and a summary spreadsheet with the meter that may be used for calibration purposes. The spreadsheet will provide data necessary to determine the calibration for the orifice and meter (standard cubic feet volume, sample time, etc.). These data were produced when the initial Y m value was determined for the meter.
+10.3.4 Y m Meter Value Verification or Meter Calibration.
+10.3.4.1 The Y m meter value may be determined by replacing the sampling train critical orifice with the calibration orifice. Replace the critical orifice assembly by installing the calibration orifice in the same location. The inlet side of the calibration orifice is to be left open to the atmosphere and is not to be reconnected to the sample train during the calibration procedure.
 10.3.4.2 If the vacuum pump is cold, switch on the pump and allow it to operate (become warm) for several minutes prior to starting the calibration. After stopping the pump, record the initial dry gas meter volume and meter temperature.
-10.3.4.3 Perform the calibration for the number of minutes specified by the manufacturer's data sheet (usually 5 minutes). Stop the pump and record the final dry gas meter volume and temperature. Subtract the start volume from the stop volume to obtain the Vm and average the meter temperatures (tm).
-10.3.5 Ym Value Calculation. Ym is the calculated value for the dry gas meter. Calculate Ym using the following equation:
+10.3.4.3 Perform the calibration for the number of minutes specified by the manufacturer's data sheet (usually 5 minutes). Stop the pump and record the final dry gas meter volume and temperature. Subtract the start volume from the stop volume to obtain the V m and average the meter temperatures (t m).
+10.3.5 Y m Value Calculation. Y m is the calculated value for the dry gas meter. Calculate Y m using the following equation:
 ER17OC00.580
 Where:
-Pbar = Barometric pressure at meter, mm Hg, (in. Hg).
-Pstd = Standard absolute pressure,
+P bar = Barometric pressure at meter, mm Hg, (in. Hg).
+P std = Standard absolute pressure,
 Metric = 760 mm Hg.
 English = 29.92 in. Hg.
-tm = Average dry gas meter temperature, °C, (°F).
-Tm = Absolute average dry gas meter temperature,
+t m = Average dry gas meter temperature, °C, (°F).
+T m = Absolute average dry gas meter temperature,
 Metric °K = 273 + tm (°C).
-English °R = 460 + tm (°F).
-Tstd = Standard absolute temperature,
+English °R = 460 + t m (°F).
+T std = Standard absolute temperature,
 Metric = 293 °K.
 English = 528 °R.
-Vm = Volume of gas sample as measured (actual) by dry gas meter, dcm,(dcf).
-Vm(std),mfg = Volume of gas sample measured by manufacture's calibrated orifice and dry gas meter, corrected to standard conditions (pressure/temperature) dscm (dscf).
-Ym = Dry gas meter calibration factor, (dimensionless).
-10.3.6 Ym Comparison. Compare the Ym value provided by the manufacturer (Section 10.3.3) or the pretest Ym value to the post test Ym value using the following equation:
+V m = Volume of gas sample as measured (actual) by dry gas meter, dcm,(dcf).
+V m(std),mfg = Volume of gas sample measured by manufacture's calibrated orifice and dry gas meter, corrected to standard conditions (pressure/temperature) dscm (dscf).
+Y m = Dry gas meter calibration factor, (dimensionless).
+10.3.6 Y m Comparison. Compare the Y m value provided by the manufacturer (Section 10.3.3) or the pretest Y m value to the post test Y m value using the following equation:
 ER17OC00.581
-10.3.6.1 If this ratio is between 0.95 and 1.05, the designated Ym value for the meter is acceptable for use in later calculations.
-10.3.6.1.1 If the value is outside the specified range, the test series shall either be: 1) voided and the samples discarded; or 2) calculations for the test series shall be conducted using whichever meter coefficient value (i.e., manufacturers's/pretest Ym value or post test Ym value) produces the lowest sample volume.
-10.3.6.1.2 If the post test dry gas meter Ym value differs by more than 5% as compared to the pretest value, either perform the calibration again to determine acceptability or return the meter to the manufacturer for recalibration.
+10.3.6.1 If this ratio is between 0.95 and 1.05, the designated Y m value for the meter is acceptable for use in later calculations.
+10.3.6.1.1 If the value is outside the specified range, the test series shall either be: 1) voided and the samples discarded; or 2) calculations for the test series shall be conducted using whichever meter coefficient value (i.e., manufacturers's/pretest Y m value or post test Y m value) produces the lowest sample volume.
+10.3.6.1.2 If the post test dry gas meter Y m value differs by more than 5% as compared to the pretest value, either perform the calibration again to determine acceptability or return the meter to the manufacturer for recalibration.
 10.3.6.1.3 The calibration may also be conducted as specified in Section 10.3 or Section 16.0 of Method 5 (40 CFR Part 60, Appendix A), except that it is only necessary to check the calibration at one flow rate of ~ 0.75 cfm.
 10.3.6.1.4 The calibration of the dry gas meter must be verified after each field test program using the same procedures.
-Note: The tester may elect to use the Ym post test value for the next pretest Ym value; e.g., Test 1 post test Ym value and Test 2 pretest Ym value would be the same.
+Note: The tester may elect to use the Y m post test value for the next pretest Y m value; e.g., Test 1 post test Y m value and Test 2 pretest Y m value would be the same.
 10.4 Barometer. Calibrate against a mercury barometer that has been corrected for temperature and elevation.
 10.5 ICP Spectrometer Calibration. Same as Method 306, Section 10.2.
 10.6 GFAA Spectrometer Calibration. Same as Method 306, Section 10.3.
@@ -1608,59 +1608,59 @@ Note: The method determines the chromium concentration in µg Cr/mL. It is impor
 12.0 Data Analysis and Calculations
 12.1 Calculations. Perform the calculations, retaining one extra decimal point beyond that of the acquired data. When reporting final results, round number of figures consistent with the original data.
 12.2 Nomenclature.
-A = Cross-sectional area of stack, m2 (ft2).
-Bws = Water vapor in gas stream, proportion by volume, dimensionless (assume 2 percent moisture = 0.02).
-Cp = Pitot tube coefficient; "S" type pitot coefficient usually 0.840, dimensionless.
-CS = Concentration of Cr in sample solution, µg Cr/mL.
-CCr = Concentration of Cr in stack gas, dry basis, corrected to standard conditions µg/dscm (gr/dscf).
+A = Cross-sectional area of stack, m 2 (ft 2).
+B ws = Water vapor in gas stream, proportion by volume, dimensionless (assume 2 percent moisture = 0.02).
+C p = Pitot tube coefficient; "S" type pitot coefficient usually 0.840, dimensionless.
+C S = Concentration of Cr in sample solution, µg Cr/mL.
+C Cr = Concentration of Cr in stack gas, dry basis, corrected to standard conditions µg/dscm (gr/dscf).
 d = Diameter of stack, m (ft).
 D = Digestion factor, dimensionless.
 ER = Approximate mass emission rate, mg/hr (lb/hr).
 F = Dilution factor, dimensionless.
 L = Length of a square or rectangular duct, m (ft).
-MCr = Total Cr in each sample, µg (gr).
-Ms = Molecular weight of wet stack gas, wet basis, g/g-mole, (lb/lb-mole); in a nominal gas stream at 2% moisture the value is 28.62.
-Pbar = Barometric pressure at sampling site, mm Hg (in. Hg).
-Ps = Absolute stack gas pressure; in this case, usually the same value as the barometric pressure, mm Hg (in. Hg).
-Pstd = Standard absolute pressure:
+M Cr = Total Cr in each sample, µg (gr).
+M s = Molecular weight of wet stack gas, wet basis, g/g-mole, (lb/lb-mole); in a nominal gas stream at 2% moisture the value is 28.62.
+P bar = Barometric pressure at sampling site, mm Hg (in. Hg).
+P s = Absolute stack gas pressure; in this case, usually the same value as the barometric pressure, mm Hg (in. Hg).
+P std = Standard absolute pressure:
 Metric = 760 mm Hg.
 English = 29.92 in. Hg.
-Qstd = Average stack gas volumetric flow, dry, corrected to standard conditions, dscm/hr (dscf/hr).
-tm = Average dry gas meter temperature, °C (°F).
-Tm = Absolute average dry gas meter temperature:
-Metric °K = 273 + tm (°C).
-English °R = 460 + tm (°F).
-ts = Average stack temperature, °C (°F).
-Ts = Absolute average stack gas temperature: Metric °K = 273 + ts (°C). English °R = 460 + ts (°F).
-Tstd = Standard absolute temperature: Metric = 293 °K. English = 528 °R.
-Vad = Volume of sample aliquot after digestion (mL).
-Vaf = Volume of sample aliquot after dilution (mL).
-Vbd = Volume of sample aliquot submitted to digestion (mL).
-Vbf = Volume of sample aliquot before dilution (mL).
-Vm = Volume of gas sample as measured (actual, dry) by dry gas meter, dcm (dcf).
-VmL = Volume of impinger contents plus rinses (mL).
-Vm(std) = Volume of gas sample measured by the dry gas meter, corrected to standard conditions (temperature/pressure), dscm (dscf).
-vs = Stack gas average velocity, calculated by Method 2, Equation 2-9, m/sec (ft/sec).
+Q std = Average stack gas volumetric flow, dry, corrected to standard conditions, dscm/hr (dscf/hr).
+t m = Average dry gas meter temperature, °C (°F).
+T m = Absolute average dry gas meter temperature:
+Metric °K = 273 + t m (°C).
+English °R = 460 + t m (°F).
+t s = Average stack temperature, °C (°F).
+T s = Absolute average stack gas temperature: Metric °K = 273 + t s (°C). English °R = 460 + t s (°F).
+T std = Standard absolute temperature: Metric = 293 °K. English = 528 °R.
+V ad = Volume of sample aliquot after digestion (mL).
+V af = Volume of sample aliquot after dilution (mL).
+V bd = Volume of sample aliquot submitted to digestion (mL).
+V bf = Volume of sample aliquot before dilution (mL).
+V m = Volume of gas sample as measured (actual, dry) by dry gas meter, dcm (dcf).
+V mL = Volume of impinger contents plus rinses (mL).
+V m(std) = Volume of gas sample measured by the dry gas meter, corrected to standard conditions (temperature/pressure), dscm (dscf).
+v s = Stack gas average velocity, calculated by Method 2, Equation 2-9, m/sec (ft/sec).
 W = Width of a square or rectangular duct, m (ft).
-Ym = Dry gas meter calibration factor, (dimensionless).
-Δp = Velocity head measured by the Type S pitot tube, cm H2O (in. H2O).
-Δpavg = Average of Δp values, mm H2O (in. H2O).
+Y m = Dry gas meter calibration factor, (dimensionless).
+Δp = Velocity head measured by the Type S pitot tube, cm H 2 O (in. H 2 O).
+Δp avg = Average of Δp values, mm H 2 O (in. H 2 O).
 12.3 Dilution Factor. The dilution factor is the ratio of the volume of sample aliquot after dilution to the volume before dilution. The dilution factor is usually calculated by the laboratory. This ratio is derived by the following equation:
 ER17OC00.582
 12.4 Digestion Factor. The digestion factor is the ratio of the volume of sample aliquot after digestion to the volume before digestion. The digestion factor is usually calculated by the laboratory. This ratio is derived by the following equation.
 ER17OC00.583
-12.5 Total Cr in Sample. Calculate MCr, the total µg Cr in each sample, using the following equation:
+12.5 Total Cr in Sample. Calculate M Cr, the total µg Cr in each sample, using the following equation:
 ER17OC00.584
 12.6 Dry Gas Volume. Correct the sample volume measured by the dry gas meter to standard conditions (20 °C, 760 mm Hg or 68 °F, 29.92 in. Hg) using the following equation:
 ER17OC00.585
 Where:
-K1 = Metric units—0.3855 °K/mm Hg.
+K 1 = Metric units—0.3855 °K/mm Hg.
 English units—17.64 °R/in. Hg.
-12.7 Cr Emission Concentration (CCr). Calculate CCr, the Cr concentration in the stack gas, in µg/dscm (µg/dscf) on a dry basis, corrected to standard conditions, using the following equation:
+12.7 Cr Emission Concentration (C Cr). Calculate C Cr, the Cr concentration in the stack gas, in µg/dscm (µg/dscf) on a dry basis, corrected to standard conditions, using the following equation:
 ER17OC00.586
 Note: To convert µg/dscm (µg/dscf) to mg/dscm (mg/dscf), divide by 1000.
 12.8 Stack Gas Velocity.
-12.8.1 Kp = Velocity equation constant:
+12.8.1 K p = Velocity equation constant:
 ER17OC00.587
 ER17OC00.588
 12.8.2 Average Stack Gas Velocity.
@@ -1674,7 +1674,7 @@ ER17OC00.592
 Where:
 3600 = Conversion factor, sec/hr.
 ER17OC00.593
-Note: To convert Qstd from dscm/hr (dscf/hr) to dscm/min (dscf/min), divide Qstd by 60.
+Note: To convert Q std from dscm/hr (dscf/hr) to dscm/min (dscf/min), divide Q std by 60.
 12.11 Mass emission rate, mg/hr (lb/hr):
 ER17OC00.594
 ER17OC00.595
@@ -1684,9 +1684,9 @@ ER17OC00.595
 13.2.1 Analytical Sensitivity. The estimated instrumental detection limits listed are provided as a guide for an instrumental limit. The actual method detection limits are sample and instrument dependent and may vary as the sample matrix varies.
 13.2.1.1 ICP Analytical Sensitivity. The minimum estimated detection limits for ICP, as reported in Method 6010A and the recently revised Method 6010B of SW-846 (Reference 1), are 7.0 µg Cr/L and 4.7 µg Cr/L, respectively.
 13.2.1.2 GFAAS Analytical Sensitivity. The minimum estimated detection limit for GFAAS, as reported in Methods 7000A and 7191 of SW-846 (Reference 1), is 1.0 µg Cr/L.
-13.2.1.3 IC/PCR Analytical Sensitivity. The minimum detection limit for IC/PCR with a preconcentrator, as reported in Methods 0061 and 7199 of SW-846 (Reference 1), is 0.05 µg Cr+6/L.
-13.2.2 In-stack Sensitivity. The in-stack sensitivity depends upon the analytical detection limit, the volume of stack gas sampled, and the total volume of the impinger absorbing solution plus the rinses. Using the analytical detection limits given in Sections 13.2.1.1, 13.2.1.2, and 13.2.1.3; a stack gas sample volume of 1.7 dscm; and a total liquid sample volume of 500 mL; the corresponding in-stack detection limits are 0.0014 mg Cr/dscm to 0.0021 mg Cr/dscm for ICP, 0.00029 mg Cr/dscm for GFAAS, and 0.000015 mg Cr+36/dscm for IC/PCR with preconcentration.
-Note: It is recommended that the concentration of Cr in the analytical solutions be at least five times the analytical detection limit to optimize sensitivity in the analyses. Using this guideline and the same assumptions for impinger sample volume and stack gas sample volume (500 mL and 1.7 dscm, respectively), the recommended minimum stack concentrations for optimum sensitivity are 0.0068 mg Cr/dscm to 0.0103 mg Cr/dscm for ICP, 0.0015 mg Cr/dscm for GFAAS, and 0.000074 mg Cr+6 dscm for IC/PCR with preconcentration. If required, the in-stack detection limits can be improved by either increasing the sampling time, the stack gas sample volume, reducing the volume of the digested sample for GFAAS, improving the analytical detection limits, or any combination of the three.
+13.2.1.3 IC/PCR Analytical Sensitivity. The minimum detection limit for IC/PCR with a preconcentrator, as reported in Methods 0061 and 7199 of SW-846 (Reference 1), is 0.05 µg Cr +6 /L.
+13.2.2 In-stack Sensitivity. The in-stack sensitivity depends upon the analytical detection limit, the volume of stack gas sampled, and the total volume of the impinger absorbing solution plus the rinses. Using the analytical detection limits given in Sections 13.2.1.1, 13.2.1.2, and 13.2.1.3; a stack gas sample volume of 1.7 dscm; and a total liquid sample volume of 500 mL; the corresponding in-stack detection limits are 0.0014 mg Cr/dscm to 0.0021 mg Cr/dscm for ICP, 0.00029 mg Cr/dscm for GFAAS, and 0.000015 mg Cr +36 /dscm for IC/PCR with preconcentration.
+Note: It is recommended that the concentration of Cr in the analytical solutions be at least five times the analytical detection limit to optimize sensitivity in the analyses. Using this guideline and the same assumptions for impinger sample volume and stack gas sample volume (500 mL and 1.7 dscm, respectively), the recommended minimum stack concentrations for optimum sensitivity are 0.0068 mg Cr/dscm to 0.0103 mg Cr/dscm for ICP, 0.0015 mg Cr/dscm for GFAAS, and 0.000074 mg Cr +6 dscm for IC/PCR with preconcentration. If required, the in-stack detection limits can be improved by either increasing the sampling time, the stack gas sample volume, reducing the volume of the digested sample for GFAAS, improving the analytical detection limits, or any combination of the three.
 13.3 Precision.
 13.3.1 The following precision data have been reported for the three analytical methods. In each case, when the sampling precision is combined with the reported analytical precision, the resulting overall precision may decrease.
 13.3.2 Bias data is also reported for GFAAS.
@@ -1694,7 +1694,7 @@ Note: It is recommended that the concentration of Cr in the analytical solutions
 13.4.1 As reported in Method 6010B of SW-846 (Reference 1), in an EPA round-robin Phase 1 study, seven laboratories applied the ICP technique to acid/distilled water matrices that had been spiked with various metal concentrates. For true values of 10, 50, and 150 µg Cr/L; the mean reported values were 10, 50, and 149 µg Cr/L; and the mean percent relative standard deviations were 18, 3.3, and 3.8 percent, respectively.
 13.4.2 In another multilaboratory study cited in Method 6010B, a mean relative standard of 8.2 percent was reported for an aqueous sample concentration of approximately 3750 µg Cr/L.
 13.5 GFAAS Precision. As reported in Method 7191 of SW-846 (Reference 1), in a single laboratory (EMSL), using Cincinnati, Ohio tap water spiked at concentrations of 19, 48, and 77 µg Cr/L, the standard deviations were ±0.1, ±0.2, and ±0.8, respectively. Recoveries at these levels were 97 percent, 101 percent, and 102 percent, respectively.
-13.6 IC/PCR Precision. As reported in Methods 0061 and 7199 of SW-846 (Reference 1), the precision of IC/PCR with sample preconcentration is 5 to 10 percent; the overall precision for sewage sludge incinerators emitting 120 ng/dscm of Cr+6 and 3.5 µg/dscm of total Cr is 25 percent and 9 percent, respectively; and for hazardous waste incinerators emitting 300 ng/dscm of Cr+6 the precision is 20 percent.
+13.6 IC/PCR Precision. As reported in Methods 0061 and 7199 of SW-846 (Reference 1), the precision of IC/PCR with sample preconcentration is 5 to 10 percent; the overall precision for sewage sludge incinerators emitting 120 ng/dscm of Cr +6 and 3.5 µg/dscm of total Cr is 25 percent and 9 percent, respectively; and for hazardous waste incinerators emitting 300 ng/dscm of Cr +6 the precision is 20 percent.
 14.0 Pollution Prevention
 14.1 The only materials used in this method that could be considered pollutants are the chromium standards used for instrument calibration and acids used in the cleaning of the collection and measurement containers/labware, in the preparation of standards, and in the acid digestion of samples. Both reagents can be stored in the same waste container.
 14.2 Cleaning solutions containing acids should be prepared in volumes consistent with use to minimize the disposal of excessive volumes of acid.
@@ -1791,12 +1791,12 @@ Date
 Run
 Solvent type
 Solvent density, g/m 3 (lb/ft 3)
-Length of boiling sump (SB), m (ft)
-Width of boiling sump (WB), m (ft)
-Length of immersion sump (SI), m (ft)
-Width of immersion sump (WI), m (ft)
-Length of solvent vapor/air interface (SV), m (ft) ______
-Width of solvent vapor/air interface (WV), m (ft) ______
+Length of boiling sump (S B), m (ft)
+Width of boiling sump (W B), m (ft)
+Length of immersion sump (S I), m (ft)
+Width of immersion sump (W I), m (ft)
+Length of solvent vapor/air interface (S V), m (ft) ______
+Width of solvent vapor/air interface (W V), m (ft) ______
 Clock time | Boiling sump reading | Immersion sump reading | Flow rate reading
 Figure 307-3. Data sheet.
 3.5 Final Inclined Liquid Level Indicator Readings. At the end of the 16-hour test run, check to make sure the inclined liquid level indicators are level; if not, make the necessary adjustments. Record the final inclined liquid level indicators readings and time.
@@ -1804,29 +1804,29 @@ Figure 307-3. Data sheet.
 EC01MY92.077
 4. Calculations
 4.1 Nomenclature.
-AB = area of boiling sump interface, m2 (ft2).
-AI = area of immersion sump interface, m2 (ft2).
-AV = area of solvent/air interface, m2 (ft2).
-E = emission rate, kg/m2-hr (lb/ft2-hr).
+A B = area of boiling sump interface, m 2 (ft 2).
+A I = area of immersion sump interface, m 2 (ft 2).
+A V = area of solvent/air interface, m 2 (ft 2).
+E = emission rate, kg/m 2 -hr (lb/ft 2 -hr).
 K = 100,000 cm. g/m. kg for metric units.
 = 12 in./ft for English units.
-LBF = final boiling sump inclined liquid level indicators reading, cm (in.).
-LBi = initial boiling sump inclined liquid level indicators reading, cm (in.).
-LIf = final immersion sump inclined liquid level indicators reading, cm (in.).
-LIi = initial immersion sump inclined liquid level indicators reading, cm (in.).
-SB = length of the boiling sump, m (ft).
-SI = length of the immersion sump, m (ft).
-SV = length of the solvent vapor/air interface, m (ft).
-WB = width of the boiling sump, m (ft).
-WI = width of the immersion sump, m (ft).
-WV = width of the solvent vapor/air interface, m (ft).
+L BF = final boiling sump inclined liquid level indicators reading, cm (in.).
+L Bi = initial boiling sump inclined liquid level indicators reading, cm (in.).
+L If = final immersion sump inclined liquid level indicators reading, cm (in.).
+L Ii = initial immersion sump inclined liquid level indicators reading, cm (in.).
+S B = length of the boiling sump, m (ft).
+S I = length of the immersion sump, m (ft).
+S V = length of the solvent vapor/air interface, m (ft).
+W B = width of the boiling sump, m (ft).
+W I = width of the immersion sump, m (ft).
+W V = width of the solvent vapor/air interface, m (ft).
 ρ = density of solvent, g/m3 (lb/ft3).
 θ = test time, hr.
 4.2 Area of Sump Interfaces. Calculate the areas of the boiling and immersion sump interfaces as follows:
-AB = SB WB Eq. 307-1
-AI = SI WI Eq. 307-2
+A B = S B W B Eq. 307-1
+A I = S I W I Eq. 307-2
 4.3 Area of Solvent/Air Interface. Calculate the area of the solvent vapor/air interface as follows:
-AV = SV WV Eq. 307-3
+A V = S V W V Eq. 307-3
 4.4 Emission Rate. Calculate the emission rate as follows:
 ER02DE94.007
 Method 308—Procedure for Determination of Methanol Emission From Stationary Sources
@@ -1871,7 +1871,7 @@ A gas sample is extracted from the sampling point in the stack. The methanol is 
 7.0 Reagents and Standards
 Note: Unless otherwise indicated, all reagents must conform to the specifications established by the Committee on Analytical Reagents of the American Chemical Society. Where such specifications are not available, use the best available grade.
 7.1 Sampling. The following are required for sampling:
-7.1.1 Water. Deionized distilled to conform to the American Society for Testing and Materials (ASTM) Specification D 1193-77, Type 3. At the option of the analyst, the potassium permanganate (KMnO4) test for oxidizable organic matter may be omitted when high concentrations of organic matter are not expected to be present.
+7.1.1 Water. Deionized distilled to conform to the American Society for Testing and Materials (ASTM) Specification D 1193-77, Type 3. At the option of the analyst, the potassium permanganate (KMnO 4) test for oxidizable organic matter may be omitted when high concentrations of organic matter are not expected to be present.
 7.1.2 Silica Gel. Deactivated chromatographic grade 20/40 mesh silica gel packed in glass adsorbent tubes. The silica gel is packed in two sections. The front section contains 520 milligrams (mg) of silica gel, and the back section contains 260 mg.
 7.2 Analysis. The following are required for analysis:
 7.2.1 Water. Same as specified in section 7.1.1.
@@ -1925,26 +1925,26 @@ Section | Quality control measure | Effect
 11.3.3 Inject a 1-µl aliquot of the diluted sample from each vial into the GC. Repeat the injection and average the results. If the sample response is above that of the highest calibration standard, either dilute the sample until it is in the measurement range of the calibration line or prepare additional calibration standards. If the sample response is below that of the lowest calibration standard, prepare additional calibration standards. If additional calibration standards are prepared, there shall be at least two that bracket the response of the sample. These standards should produce approximately 50 percent and 150 percent of the response of the sample.
 12.0 Data Analysis and Calculations
 12.1 Nomenclature.
-Caf = Concentration of methanol in the front of the adsorbent tube, µg/ml.
-Cab = Concentration of methanol in the back of the adsorbent tube, µg/ml.
-Ci = Concentration of methanol in the impinger portion of the sample train,µg/ml.
+C af = Concentration of methanol in the front of the adsorbent tube, µg/ml.
+C ab = Concentration of methanol in the back of the adsorbent tube, µg/ml.
+C i = Concentration of methanol in the impinger portion of the sample train,µg/ml.
 E = Mass emission rate of methanol, µg/hr (lb/hr).
-ms = Total mass of compound measured in impinger and on adsorbent with spiked train (mg).
-mu = Total mass of compound measured in impinger and on adsorbent with unspiked train (mg).
-mv = Mass per volume of spiked compound measured (mg/L).
-Mtot = Total mass of methanol collected in the sample train, µg.
-Pbar = Barometric pressure at the exit orifice of the DGM, mm Hg (in. Hg).
-Pstd = Standard absolute pressure, 760 mm Hg (29.92 in. Hg).
-Qstd = Dry volumetric stack gas flow rate corrected to standard conditions, dscm/hr (dscf/hr).
+m s = Total mass of compound measured in impinger and on adsorbent with spiked train (mg).
+m u = Total mass of compound measured in impinger and on adsorbent with unspiked train (mg).
+m v = Mass per volume of spiked compound measured (mg/L).
+M tot = Total mass of methanol collected in the sample train, µg.
+P bar = Barometric pressure at the exit orifice of the DGM, mm Hg (in. Hg).
+P std = Standard absolute pressure, 760 mm Hg (29.92 in. Hg).
+Q std = Dry volumetric stack gas flow rate corrected to standard conditions, dscm/hr (dscf/hr).
 R = fraction of spiked compound recovered
 s = theoretical concentration (ppm) of spiked target compound
-Tm = Average DGM absolute temperature, degrees K (°R).
-Tstd = Standard absolute temperature, 293 degrees K (528 °R).
-Vaf = Volume of front half adsorbent sample, ml.
-Vab = Volume of back half adsorbent sample, ml.
-Vi = Volume of impinger sample, ml.
-Vm = Dry gas volume as measured by the DGM, dry cubic meters (dcm), dry cubic feet (dcf).
-Vm(std) = Dry gas volume measured by the DGM, corrected to standard conditions, dry standard cubic meters (dscm), dry standard cubic feet (dscf).
+T m = Average DGM absolute temperature, degrees K (°R).
+T std = Standard absolute temperature, 293 degrees K (528 °R).
+V af = Volume of front half adsorbent sample, ml.
+V ab = Volume of back half adsorbent sample, ml.
+V i = Volume of impinger sample, ml.
+V m = Dry gas volume as measured by the DGM, dry cubic meters (dcm), dry cubic feet (dcf).
+V m(std) = Dry gas volume measured by the DGM, corrected to standard conditions, dry standard cubic meters (dscm), dry standard cubic feet (dscf).
 12.2 Mass of Methanol. Calculate the total mass of methanol collected in the sampling train using Equation 308-1.
 ER15ap98.015
 12.3 Dry Sample Gas Volume, Corrected to Standard Conditions. Calculate the volume of gas sampled at standard conditions using Equation 308-2.
@@ -2031,13 +2031,13 @@ Method 310A—Determination of Residual Hexane Through Gas Chromatography
 12.0 Data Analysis and Calculation
 12.1 For samples that are prepared as in section 11 of this method, ppm n-hexane is read directly from the computer.
 12.2 The formulas for calculation of the results are as follows:
-ppmhexane = (Ahexane × Rhexane)/(Ais × Ris)
+ppm hexane = (A hexane × R hexane)/(A is × R is)
 Where:
-Ahexane = area of hexane
-Rhexane = response of hexane
-Ais = area of the internal standard
-Ris = response of the internal standard
-% hexane in crumb = (ppmhexane/sample amount)100
+A hexane = area of hexane
+R hexane = response of hexane
+A is = area of the internal standard
+R is = response of the internal standard
+% hexane in crumb = (ppm hexane /sample amount)100
 12.3 Correct the results by the value of R (as determined in sections 9.3.4, 9.3.5, and 9.3.6 of this method).
 13.0 Method Performance
 13.1 The test has a standard deviation of 0.14 wt% at 0.66 wt% hexane. Spike recovery of 12 samples at two levels of hexane averaged 102.3%. Note: Recovery must be determined for each type of sample. The values given here are meant to be examples of method performance.
@@ -2110,9 +2110,9 @@ Action | Notes
 7.5.3 Fill the flask to the mark with toluene. Discard any excess.
 7.5.4 Add a large magnetic stirring bar to the flask and mix by stirring.
 7.5.5 Transfer the polymer solvent solution to the one-gallon labeled container with 50ml volumetric dispenser attached.
-7.5.6 Purity Check: Analyze according to section 11.2. NOTE: You must "precipitate" the sample with an equal part of acetone (thus duplicating actual test conditions—see section 11.1 of this method, sample prep) before analyzing. Analyze the reagent 3 times to quantify the C6 and termonomer interferences. Inspect the results to ensure good agreement among the three runs (within 10%).
+7.5.6 Purity Check: Analyze according to section 11.2. NOTE: You must "precipitate" the sample with an equal part of acetone (thus duplicating actual test conditions—see section 11.1 of this method, sample prep) before analyzing. Analyze the reagent 3 times to quantify the C 6 and termonomer interferences. Inspect the results to ensure good agreement among the three runs (within 10%).
 7.5.7 Tag the bottle with the following information:
-POLYMER DISSOLVING SOLUTION FOR C6 IN CRUMB ANALYSIS
+POLYMER DISSOLVING SOLUTION FOR C 6 IN CRUMB ANALYSIS
 PREPARER'S NAME
 DATE
 CALS FILE ID'S OF THE THREE ANALYSES FOR PURITY (from section 7.5.6 of this method)
@@ -2249,14 +2249,14 @@ Initial Time = 5 minutes Final Time = 6 minutes
 Flow Rate = 5.0 ml/min
 Sensitivity = detector response must be adjusted to keep the hexane and IS on scale.
 10.4 Fill an autosampler vial with the HS, analyze it three times and calculate a Hexane Relative Response Factor (RF) as follows:
-RF = (AIS × CHS × PHS)/(AHS × CIS × PIS) (1)
+RF = (A IS × C HS × P HS)/(A HS × C IS × P IS) (1)
 Where:
-AIS = Area of IS peak (Heptane)
-AHS = Area of peak (Hexane Standard)
-CHS = Mg of Hexane/50 ml HS
-CIS = Mg of Heptane/50 ml IS Solution B
-PIS = Purity of the IS n-heptane
-PHS = Purity of the HS n-hexane
+A IS = Area of IS peak (Heptane)
+A HS = Area of peak (Hexane Standard)
+C HS = Mg of Hexane/50 ml HS
+C IS = Mg of Heptane/50 ml IS Solution B
+P IS = Purity of the IS n-heptane
+P HS = Purity of the HS n-hexane
 11.0 Procedure
 11.1 Weight 10 grams of wet crumb into a tared (W1), wide mouth 4 oz. jar.
 11.2 Pipette 50 ml of Solution B into the jar with the wet crumb rubber.
@@ -2270,12 +2270,12 @@ Dried SW = W2—W1 (2)
 12.2 Should the polymer be oil extended, pipette 10 ml of the MIBK extract into a tared evaporating dish (W1) and evaporate to dryness on a steam plate.
 Reweigh the evaporating dish containing the extracted oil (W2). Calculate the oil content of the polymer as follows:
 Gram of oil extracted = 5 (W2—W1) (3)
-% Hexane in polymer = (As × RF × CIS × PIS)/(AIS × SW) (4)
+% Hexane in polymer = (A s × RF × C IS × P IS)/(A IS × SW) (4)
 Where:
-As = Area of sample hexane sample peak.
-AIS = Area of IS peak in sample.
-CIS = Concentration of IS in 50 ml.
-PIS = Purity of IS.
+A s = Area of sample hexane sample peak.
+A IS = Area of IS peak in sample.
+C IS = Concentration of IS in 50 ml.
+P IS = Purity of IS.
 SW = Weight of dried rubber after extraction. (For oil extended polymer, the amount of oil extracted is added to the dry rubber weight).
 % Corrected Hexane = (% Hexane in Polymer)/R (5)
 R = Recovery factor determined in section 9 of this method.
@@ -2378,11 +2378,11 @@ Note: If gas chromatography with mass spectrometer detection (GC-MS) is used, a 
 10.2.2 Calibration. The GC must be calibrated using a minimum of three concentration levels of each potential analyte. (See Section 7.7 for instructions on preparation of the calibration standards.) Beginning with the lowest concentration level calibration standard, carry out the analysis procedure as described beginning in Section 11.7. Repeat the procedure for each progressively higher concentration level until all calibration standards have been analyzed.
 10.2.2.1 Calculate the RT's for the internal standard and for each analyte in the calibration standards at each concentration level as described in Section 10.2.1. The RT's for the internal standard must not vary by more than 0.10 minutes. Identify each analyte by comparison of the RT's for peak maxima to the RT's determined in Section 10.2.1.
 10.2.2.2 Compare the retention times (RT's) for each potential analyte in the calibration standards for each concentration level to the retention times determined in Section 10.2.1. The calibration is not valid unless all RT's for all analytes meet the criteria given in Section 9.3.2.
-10.2.2.3 Tabulate the area responses and the concentrations for the internal standard and each analyte in the calibration standards. Calculate the response factor for the internal standard (RFis) and the response factor for each compound relative to the internal standard (RRF) for each concentration level using Equations 5 and 6, Section 12.
+10.2.2.3 Tabulate the area responses and the concentrations for the internal standard and each analyte in the calibration standards. Calculate the response factor for the internal standard (RF is) and the response factor for each compound relative to the internal standard (RRF) for each concentration level using Equations 5 and 6, Section 12.
 10.2.2.4 Using the RRF's from the calibration, calculate the percent relative standard deviation (percent RSD) for each analyte in the calibration standard using Equation 7, Section 12. The percent RSD for each individual calibration analyte must be less than 15 percent. This criterion must be met in order for the calibration to be valid. If the criterion is met, the mean RRF's determined above are to be used until the next calibration.
 10.3 Daily Calibration Checks. The calibration curve (Section 10.2.2) must be checked and verified at least once each day that samples are analyzed. This is accomplished by analyzing a calibration standard that is at a concentration near the midpoint of the working range and performing the checks in Sections 10.3.1, 10.3.2, and 10.3.3.
 10.3.1 For each analyte in the calibration standard, calculate the percent difference in the RRF from the last calibration using Equation 8, Section 12. If the percent difference for each calibration analyte is less than 10 percent, the last calibration curve is assumed to be valid. If the percent difference for any analyte is greater than 5 percent, the analyst should consider this a warning limit. If the percent difference for any one calibration analyte exceeds 10 percent, corrective action must be taken. If no source of the problem can be determined after corrective action has been taken, a new three-point (minimum) calibration must be generated. This criterion must be met before quantitative analysis begins.
-10.3.2 If the RFis for the internal standard changes by more than ±20 percent from the last daily calibration check, the system must be inspected for malfunctions and corrections made as appropriate.
+10.3.2 If the RF is for the internal standard changes by more than ±20 percent from the last daily calibration check, the system must be inspected for malfunctions and corrections made as appropriate.
 10.3.3 The retention times for the internal standard and all calibration check analytes must be evaluated. If the retention time for the internal standard or for any calibration check analyte changes by more than 0.10 min from the last calibration, the system must be inspected for malfunctions and corrections made as required.
 11. Procedure
 11.1 All samples and standards must be allowed to warm to room temperature before analysis. Observe the given order of ingredient addition to minimize loss of volatiles.
@@ -2412,23 +2412,23 @@ ER07DE95.003
 12.3.1 Calculate the weight percent of the analyte in each of the two sample vials as described in Section 12.2.1.
 12.3.2 Calculate the percent difference for each analyte as:
 ER07DE95.004
-where Ai and Bi are the measured concentrations of the analyte in vials A and B.
+where A i and B i are the measured concentrations of the analyte in vials A and B.
 12.4 Calculate the percent accuracy for analytes in the QCCS (See Section 9.4) as follows:
 ER07DE95.005
-where Xx is the mean measured value and Tx is the known true value of the analyte in the QCCS.
+where X x is the mean measured value and T x is the known true value of the analyte in the QCCS.
 12.5 Obtain retention times (RT's) from data station or integrator or, for chromatograms from a chart recorder, calculate the RT's for analytes in the calibration standards (See Section 10.2.2.2) as follows:
 ER07DE95.006
 12.6 Calculate the response factor for the internal standard (See Section 10.2.2.3) as follows:
 ER07DE95.007
 where:
-Ais = Area response of the internal standard.
-Cis = Weight percent of the internal standard.
+A is = Area response of the internal standard.
+C is = Weight percent of the internal standard.
 12.7 Calculate the relative response factors for analytes in the calibration standards (See Section 10.2.2.3) as follows:
 where:
 ER07DE95.008
-RRFx = Relative response factor for an individual analyte.
-Ax = Area response of the analyte being measured.
-Cx = Weight percent of the analyte being measured.
+RRF x = Relative response factor for an individual analyte.
+A x = Area response of the analyte being measured.
+C x = Weight percent of the analyte being measured.
 12.8 Calculate the percent relative standard deviation of the relative response factors for analytes in the calibration standards (See Section 10.2.2.4) as follows:
 ER07DE95.009
 12.9 Calculate the percent difference in the relative response factors between the calibration curve and the daily calibration checks (See Section 10.3) as follows:
@@ -2540,7 +2540,7 @@ OCCS Identification No.
 Analyst:
 QCC Expiration Date:
 Analysis Results
-Analyte | Weight percent determined | Run 1 | Run 2 | Run 3 | Mean Wt percent | Percent accuracx | Percent RSD | Meets criteria in Section 9.4.6 | Percentaccuracy | Percent RSD
+Analyte | Weight percent determined | Run 1 | Run 2 | Run 3 | Mean Wt percent | Percent accuracx | Percent RSD | Meets criteria in Section 9.4.6 | Percent accuracy | Percent RSD
 Calibration of Gas Chromatograph
 Calibration Date:
 Calibrated By:
@@ -2689,13 +2689,13 @@ mg/l styrene = (mg styrene added)/0.1 L
 9.3.2 The second set of six latex samples shall be analyzed in duplicate before spiking each sample with approximately 1000 ppm styrene. The spiked samples shall be analyzed in duplicate.
 9.3.3 For each hydrocarbon, calculate the average recovery efficiency (R) using the following equations:
 where:
-R=Σ(Rn)/6
+R=Σ(R n)/6
 where:
-Rn = (cns−cv)/Sn
+R n = (c ns −c v)/S n
 n = sample number
-cns = concentration of compound measured in spiked sample number n.
-cnu = concentration of compound measured in unspiked sample number n.
-Sn = theoretical concentration of compound spiked into sample n.
+c ns = concentration of compound measured in spiked sample number n.
+c nu = concentration of compound measured in unspiked sample number n.
+S n = theoretical concentration of compound spiked into sample n.
 9.3.4 A value of R between 0.70 and 1.30 is acceptable.
 9.3.5 R is used to correct all reported results for each compound by dividing the measured results of each compound by the R for that compound for the same sample type.
 10.0 Calibration and Instrument Settings
@@ -2727,7 +2727,7 @@ D = dilution factor (10 for latex samples)
 15.1 All waste shall be handled in accordance with Federal and State environmental regulations.
 16.0 References and Publications
 16.1 40 CFR 63 Appendix A—Method 301 Test Methods Field Validation of Pollutant Measurement
-16.2 DSM Copolymer Test Method T-3060, dated October 19, 1995, entitled: Determination of Residual Styrene in Latex, Leonard, C.D., Vora, N.M.et al
+16.2 DSM Copolymer Test Method T-3060, dated October 19, 1995, entitled: Determination of Residual Styrene in Latex, Leonard, C.D., Vora, N.M. et al
 Method 312B—Determination of Residual Styrene in Styrene-Butadiene (SBR) Rubber Latex by Capillary Gas Chromatography
 1.0 Scope
 1.1 This method is applicable to SBR latex solutions.
@@ -2794,12 +2794,12 @@ REAGENTS:
 9.3 The spiked samples shall be shaken for several hours and allowed to cool to room temperature before analysis.
 9.4 The six samples of unspiked solution shall be coagulated and a mean styrene value shall be determined, along with the standard deviation, and the percent relative standard deviation.
 9.5 The six samples of the spiked solution shall be coagulated and the results of the analyses shall be determined using the following equations:
-Mr = Ms−Mu
-R = Mr/S
+M r = M s −M u
+R = M r /S
 where:
-Mu = Mean value of styrene in the unspiked sample
-Ms = Measured amount of styrene in the spiked sample
-Mr = Measured amount of the spiked compound
+M u = Mean value of styrene in the unspiked sample
+M s = Measured amount of styrene in the spiked sample
+M r = Measured amount of the spiked compound
 S = Amount of styrene added to the spiked sample
 R = Fraction of spiked styrene recovered
 9.6 A value of R between 0.70 and 1.30 is acceptable.
@@ -2818,22 +2818,22 @@ R = Fraction of spiked styrene recovered
 11.5 Obtain the peak areas and calculate the concentration of styrene in the latex as described in the calculations section (Section 12.2 of this method).
 12.0 Calculations
 12.1 Calibration:
-RF = (Wx × Ais) / (Wis × Ax)
+RF = (W x × A is) / (W is × A x)
 where:
 RF = the relative response factor for styrene
-Wx = the weight (ug) of styrene
-Ais = the area of AMS
-Wis = the weight (ug) of AMS
-Ax = the area of styrene
+W x = the weight (ug) of styrene
+A is = the area of AMS
+W is = the weight (ug) of AMS
+A x = the area of styrene
 12.2 Procedure:
-ppmstyrene = (Ax RF × Wis) / (Ais × Ws)
+ppm styrene = (A x RF × W is) / (A is × W s)
 where:
-ppmstyrene = parts per million of styrene in the latex
-Ax = the area of styrene
+ppm styrene = parts per million of styrene in the latex
+A x = the area of styrene
 RF = the response factor for styrene
-Wis = the weight (ug) of AMS
-Ais = the area of AMS
-Ws = the weight (g) of the latex sample
+W is = the weight (ug) of AMS
+A is = the area of AMS
+W s = the weight (g) of the latex sample
 12.3 Correct for recovery (R) as determined by section 9.0 of this method.
 13.0 Precision
 13.1 Precision for the method was determined at the 80, 144, 590, and 1160 ppm levels. The standard deviations were 0.8, 1.5, 5 and 9 ppm respectively. The percent relative standard deviations (%RSD) were 1% or less at all levels. Five degrees of freedom were used for all precision data except at the 80 ppm level, where nine degrees of freedom were used. Note: These are example results and do not replace quality assurance procedures in this method.
@@ -2857,9 +2857,9 @@ Method 312C—Determination of Residual Styrene in SBR Latex Produced by Emulsio
 5.1 When using solvents, avoid contact with skin and eyes. Wear hand and eye protection. Wash thoroughly after use.
 5.2 Avoid overexposure to solvent vapors. Handle only in well ventilated areas.
 6.0 Equipment and Supplies
-6.1 Gas Chromatograph—Hewlett Packard 5890, Series II with flame ionization detector, or equivalent.
-Column—HP 19095F-123, 30m × 0.53mm, or equivalent. Substrate HP FFAP (cross-linked) film thickness 1 micrometer. Glass injector port liners with silanized glass wool plug.
-Integrator—HP 3396, Series II, or equivalent.
+6.1 Gas Chromatograph —Hewlett Packard 5890, Series II with flame ionization detector, or equivalent.
+Column —HP 19095F-123, 30m × 0.53mm, or equivalent. Substrate HP FFAP (cross-linked) film thickness 1 micrometer. Glass injector port liners with silanized glass wool plug.
+Integrator —HP 3396, Series II, or equivalent.
 6.2 Wrist action shaker
 6.3 Automatic dispenser
 6.4 Automatic pipet, calibrated to deliver 5.0 ±0.01 grams of latex
@@ -2892,13 +2892,13 @@ Note: Shelf life—6 months.
 7.8.2.1 Pipette 5ml of the Certification Solution and 25ml of the Alpha Methyl Styrene Internal Standard Solution to a 4-oz. bottle, cap and shake well.
 7.8.2.2 Analyze the resulting mixture by GC using the residual styrene method. (11.4-11.6 of this method)
 7.8.2.3 Calculate the weight of alpha methyl styrene present in the 25ml aliquat of the new Alpha Methyl Styrene Standard by the following equation:
-Wx = Fx xWis(Ax/Ais)
+W x = F x xW is (A x /A is)
 Where
-Ax = Peak area of alpha methyl styrene
-Ais = Peak area of styrene
-Wx = Weight of alpha methyl styrene
-Wis = Weight of styrene (.00100)
-Fx = Analyzed response factor = 1
+A x = Peak area of alpha methyl styrene
+A is = Peak area of styrene
+W x = Weight of alpha methyl styrene
+W is = Weight of styrene (.00100)
+F x = Analyzed response factor = 1
 The Alpha Methyl Styrene Stock Solution used to prepare the Internal Standard Solution may be considered certified if the weight of alpha methyl styrene analyzed by this method is within the range of.00121g to.00129g.
 8.0 Sampling
 8.1 Collect a latex sample in a capped container. Cap the bottle and identify the sample as to location and time.
@@ -2914,11 +2914,11 @@ The Alpha Methyl Styrene Stock Solution used to prepare the Internal Standard So
 9.2.2 Prepare the samples as described in section 8 of this method. To the vials labeled "spiked", add a known amount of styrene that is expected to be present in the latex.
 9.2.3 Run the spiked and unspiked samples in the normal manner. Record the concentrations of styrene reported for each pair of spiked and unspiked samples with the same vial number.
 9.2.4 For each hydrocarbon, calculate the average recovery efficiency (R) using the following equation:
-R=Σ(Rn)/12
+R=Σ(R n)/12
 Where: n = sample number
-Rn = (Ms−Mu)/S
-Ms = total mass of compound (styrene) measured in spiked sample (µg)
-Mu = total mass of compound (styrene) measured in unspiked sample (µg)
+R n = (M s −M u)/S
+M s = total mass of compound (styrene) measured in spiked sample (µg)
+M u = total mass of compound (styrene) measured in unspiked sample (µg)
 S = theoretical mass of compound (styrene) spiked into sample (µg)
 R = fraction of spiked compound (styrene) recovered
 9.2.5 A different R value should be obtained for each sample type. A value of R between 0.70 and 1.30 is acceptable.
@@ -2927,7 +2927,7 @@ R = fraction of spiked compound (styrene) recovered
 A styrene control sample will be tested weekly to confirm the FID response and calibration.
 10.1 Using the Styrene Certification Solution prepared in 7.8.1, perform test analysis as described in 7.8.2 using the equation in 7.8.2.3 to calculate results.
 10.2 Calculate the weight of styrene in the styrene control sample using the following equation:
-Wsty = (Fx xAsty xWis)Ais
+W sty = (F x xA sty xW is)A is
 The instrument can be considered calibrated if the weight of the styrene analyzed is within range of 0.00097-0.00103gms.
 11.0 Procedure
 11.1 Using an auto pipet, add 25ml of Internal Standard Solution to a 4 oz. wide-mouth bottle.
@@ -2945,20 +2945,20 @@ Makeup Gas—30 ml/min.
 Column—HP 19095F—123, 30m × 0.53mm Substrate: HP—FFAP (cross-linked) 1 micrometer film thickness
 12.0 Calculations
 12.1 The integrator is programmed to do the following calculation at the end of the analysis:
-%ResidualStyrene = (Ax XWis)/(Ais XWx)XFx X100
+%ResidualStyrene = (A x XW is)/(A is XW x)XF x X100
 Where:
-Ax = Peak area of styrene
-Ais = Peak area of internal standard
-Wx = Weight of sample = 5g
-Wis = Weight of internal std. = 0.00125g
-Fx = Analyzed response factor = 1.0
+A x = Peak area of styrene
+A is = Peak area of internal standard
+W x = Weight of sample = 5g
+W is = Weight of internal std. = 0.00125g
+F x = Analyzed response factor = 1.0
 12.2 The response factor is determined by analyzing a solution of 0.02g of styrene and 0.02g of alpha methyl styrene in 100ml of 2-propanol. Calculate the factor by the following equation:
-Fx = (Wx xAis)/(Wis xAx)
+F x = (W x xA is)/(W is xA x)
 Where:
-Wx = Weight of styrene
-Ax = Peak area of styrene
-Wis = Weight of alpha methyl styrene
-Ais = Peak area of alpha methyl styrene
+W x = Weight of styrene
+A x = Peak area of styrene
+W is = Weight of alpha methyl styrene
+A is = Peak area of alpha methyl styrene
 13.0 Method Performance
 13.1 Performance must be determined for each sample type by following the procedures in section 9 of this method.
 14.0 Waste Generation
@@ -3036,9 +3036,9 @@ Detector: FID @ 220 deg C
 9.4.6 Run the spiked and unspiked samples in the normal manner. Record the concentrations of toluene and styrene reported for each pair of spiked and unspiked samples with the same vial number.
 9.4.7 Open each of the vials labeled "spiked", remove all the rubber crumb and place it into a tarred drying pan. Place in a 100 deg C oven for two hours, cool and reweigh. Subtract the weight of the tare to give the dry weight of rubber in each spiked vial. Calculate the concentration of toluene and styrene spiked into each vial as percent of dry rubber weight. This will be slightly different for each vial since the weights of dry rubber will be different.
 9.4.8 For each hydrocarbon calculate the average recovery efficiency (R) using the following equations:
-R = R_Σ(Pn)/6 (average of the 6 individual Rn values)
+R = R_Σ(P n)/6 (average of the 6 individual R n values)
 Where:
-Rn = (Cns—Cnu) / Sn
+R n = (C ns —C nu) / S n
 Where:
 n = vial number
 Cns = concentration of compound measured in spiked sample number n.
@@ -3068,9 +3068,9 @@ Sn = theoretical concentration of compound spiked into sample n calculated in st
 12.0 Data Analysis and Calculations
 12.1 For each set of duplicate samples calculate the average of the measured concentration of toluene and styrene. If more than two replicates of each sample are run calculate the average over all replicates.
 12.2 For each sample correct the measured amounts of toluene and styrene using the following equation:
-Corrected Result = Cm/R
+Corrected Result = C m /R
 Where:
-Cm = Average measured concentration for that compound.
+C m = Average measured concentration for that compound.
 R = Recovery efficiency for that compound in the same sample type (see section 9.4 of this method)
 12.3 Report the recovery efficiency (R) and the corrected results of toluene and styrene for each sample.
 13.0 Method Performance
@@ -3160,12 +3160,12 @@ REAGENTS:
 9.3 Run the spiked and unspiked samples in the normal manner. Record the concentrations of the n-hexane content of the mixed hexane reported for each pair of spiked and unspiked samples.
 9.4 For the recovery study, each sample of crumb shall be dissolved in chloroform containing a known amount of mixed hexane solvent.
 9.5 For each hydrocarbon, calculate the recovery efficiency (R) using the following equations:
-Mr = Ms−Mu
-R = Mr/S
+M r = M s −M u
+R = M r /S
 Where:
-Mu = Measured amount of compound in the unspiked sample
-Ms = Measured amount of compound in the spiked sample
-Mr = Measured amount of the spiked compound
+M u = Measured amount of compound in the unspiked sample
+M s = Measured amount of compound in the spiked sample
+M r = Measured amount of the spiked compound
 S = Amount of compound added to the spiked sample
 R = Fraction of spiked compound recovered
 9.6 Normally a value of R between 0.70 and 1.30 is acceptable.
@@ -3193,14 +3193,14 @@ R = Fraction of spiked compound recovered
 11.2.10 Obtain the peak areas and calculate the concentration of the component of interest as described in the calculations (12.2 of this method).
 12.0 Calculations
 12.1 Calibration:
-RFx = (Wx × Ais) / (Wis × Ax)
+RF x = (W x × A is) / (W is × A x)
 Where:
-RFx = the relative response factor for n-hexane
-Wx = the weight (g) of n-hexane in the CALIBRATION
+RF x = the relative response factor for n-hexane
+W x = the weight (g) of n-hexane in the CALIBRATION
 SOLUTION
-Ais = the area of AMS
-Wis = the weight (g) of AMS in the CALIBRATION SOLUTION
-Ax = the area of n-hexane
+A is = the area of AMS
+W is = the weight (g) of AMS in the CALIBRATION SOLUTION
+A x = the area of n-hexane
 12.2 Procedure:
 12.2.1 Correction Factor for calculating dry crumb weight.
 F = 1—(% moisture / 100)
@@ -3208,20 +3208,20 @@ Where:
 F = Correction factor for calculating dry crumb weight
 % moisture determined by appropriate method
 12.2.2 Moisture adjustment for chromatographic determination.
-Ws = F × Wc
+W s = F × W c
 Where:
-Ws = the weight (g) of the dry polymer corrected for moisture
+W s = the weight (g) of the dry polymer corrected for moisture
 F = Correction factor for calculating dry crumb weight
-Wc = the weight (g) of the wet crumb in section 9.6
+W c = the weight (g) of the wet crumb in section 9.6
 12.2.3 Concentration (ppm) of hexane in the wet crumb.
-ppmx = (Ax * RFx * Wis * 10000) / (Ais * Ws)
+ppm x = (A x * RF x * W is * 10000) / (A is * W s)
 Where:
-ppmx = parts per million of n-hexane in the polymer
-Ax = the area of n-hexane
-RFx = the relative response factor for n-hexane
-Wis = the weight (g) of AMS in the sample solution
-Ais = the area of AMS
-Ws = the weight (g) of the dry polymer corrected for moisture
+ppm x = parts per million of n-hexane in the polymer
+A x = the area of n-hexane
+RF x = the relative response factor for n-hexane
+W is = the weight (g) of AMS in the sample solution
+A is = the area of AMS
+W s = the weight (g) of the dry polymer corrected for moisture
 13.0 Method Performance
 13.1 Precision for the method was determined at the 0.08% level.
 The standard deviation was 0.01 and the percent relative standard deviation (RSD) was 16.3 % with five degrees of freedom.
@@ -3284,7 +3284,7 @@ Note: The barometric reading may be obtained from a nearby National Weather Serv
 6.3.10 Aluminum dish. Flat bottom, smooth sides, and flanged top, 18 mm deep and with an inside diameter of approximately 60 mm.
 7.0 Reagents and Standards
 7.l Sample collection. The following reagents are required for sample collection:
-7.1.1 Filters. Glass fiber filters, without organic binder, exhibiting at least 99.95 percent efficiency (<0.05 percent penetration) on 0.3 micron dioctyl phthalate smoke particles. The filter efficiency test shall be conducted in accordance with ASTM Method D 2986-95A (incorporated by reference in § 63.841 of this part). Test data from the supplier's quality control program are sufficient for this purpose. In sources containing S02 or S03, the filter material must be of a type that is unreactive to S02 or S03. Reference 10 in section 17.0 of this method may be used to select the appropriate filter.
+7.1.1 Filters. Glass fiber filters, without organic binder, exhibiting at least 99.95 percent efficiency (<0.05 percent penetration) on 0.3 micron dioctyl phthalate smoke particles. The filter efficiency test shall be conducted in accordance with ASTM Method D 2986-95A (incorporated by reference in § 63.841 of this part). Test data from the supplier's quality control program are sufficient for this purpose. In sources containing S0 2 or S0 3, the filter material must be of a type that is unreactive to S0 2 or S0 3. Reference 10 in section 17.0 of this method may be used to select the appropriate filter.
 7.1.2 Silica gel. Indicating type, 6 to l6 mesh. If previously used, dry at l75 °C (350 °F) for 2 hours. New silica gel may be used as received. Alternatively, other types of desiccants (equivalent or better) may be used, subject to the approval of the Administrator.
 7.1.3 Water. When analysis of the material caught in the impingers is required, deionized distilled water shall be used. Run blanks prior to field use to eliminate a high blank on test samples.
 7.1.4 Crushed ice.
@@ -3322,15 +3322,15 @@ Note: The complexity of this method is such that, in order to obtain reliable re
 8.4.2 Pretest leak check. A pretest leak-check is recommended but not required. If the pretest leak-check is conducted, the following procedure should be used.
 8.4.2.1 After the sampling train has been assembled, turn on and set the filter and probe heating systems to the desired operating temperatures. Allow time for the temperatures to stabilize. If a Viton A 0-ring or other leak-free connection is used in assembling the probe nozzle to the probe liner, leak-check the train at the sampling site by plugging the nozzle and pulling a 380 mm (15 in.) Hg vacuum.
 Note: A lower vacuum may be used, provided that it is not exceeded during the test.
-8.4.2.2 If an asbestos string is used, do not connect the probe to the train during the leak check. Instead, leak-check the train by first plugging the inlet to the filter holder (cyclone, if applicable) and pulling a 380 mm (15 in.) Hg vacuum. (See NOTE in section 8.4.2.1 of this method). Then connect the probe to the train and perform the leak check at approximately 25 mm (1 in.) Hg vacuum; alternatively, the probe may be leak-checked with the rest of the sampling train, in one step, at 380 mm (15 in.) Hg vacuum. Leakage rates in excess of 4 percent of the average sampling rate or 0.00057 m3/min (0.02 cfm), whichever is less, are unacceptable.
+8.4.2.2 If an asbestos string is used, do not connect the probe to the train during the leak check. Instead, leak-check the train by first plugging the inlet to the filter holder (cyclone, if applicable) and pulling a 380 mm (15 in.) Hg vacuum. (See NOTE in section 8.4.2.1 of this method). Then connect the probe to the train and perform the leak check at approximately 25 mm (1 in.) Hg vacuum; alternatively, the probe may be leak-checked with the rest of the sampling train, in one step, at 380 mm (15 in.) Hg vacuum. Leakage rates in excess of 4 percent of the average sampling rate or 0.00057 m 3 /min (0.02 cfm), whichever is less, are unacceptable.
 8.4.2.3 The following leak check instructions for the sampling train described in APTD-0576 and APTD-058l may be helpful. Start the pump with the bypass valve fully open and the coarse adjust valve completely closed. Partially open the coarse adjust valve and slowly close the bypass valve until the desired vacuum is reached. Do not reverse the direction of the bypass valve, as this will cause water to back up into the filter holder. If the desired vacuum is exceeded, either leak-check at this higher vacuum or end the leak check as shown below and start over.
 8.4.2.4 When the leak check is completed, first slowly remove the plug from the inlet to the probe, filter holder, or cyclone (if applicable) and immediately turn off the vacuum pump. This prevents the water in the impingers from being forced backward into the filter holder and the silica gel from being entrained backward into the third impinger.
-8.4.3 Leak checks during sample run. If, during the sampling run, a component (e.g., filter assembly or impinger) change becomes necessary, a leak check shall be conducted immediately before the change is made. The leak check shall be done according to the procedure outlined in section 8.4.2 of this method, except that it shall be done at a vacuum equal to or greater than the maximum value recorded up to that point in the test. If the leakage rate is found to be no greater than 0.00057 m3/min (0.02 cfm) or 4 percent of the average sampling rate (whichever is less), the results are acceptable, and no correction will need to be applied to the total volume of dry gas metered; if, however, a higher leakage rate is obtained, either record the leakage rate and plan to correct the sample volume as shown in section 12.3 of this method or void the sample run.
+8.4.3 Leak checks during sample run. If, during the sampling run, a component (e.g., filter assembly or impinger) change becomes necessary, a leak check shall be conducted immediately before the change is made. The leak check shall be done according to the procedure outlined in section 8.4.2 of this method, except that it shall be done at a vacuum equal to or greater than the maximum value recorded up to that point in the test. If the leakage rate is found to be no greater than 0.00057 m 3 /min (0.02 cfm) or 4 percent of the average sampling rate (whichever is less), the results are acceptable, and no correction will need to be applied to the total volume of dry gas metered; if, however, a higher leakage rate is obtained, either record the leakage rate and plan to correct the sample volume as shown in section 12.3 of this method or void the sample run.
 Note: Immediately after component changes, leak checks are optional; if such leak checks are done, the procedure outlined in section 8.4.2 of this method should be used.
-8.4.4 Post-test leak check. A leak check is mandatory at the conclusion of each sampling run. The leak check shall be performed in accordance with the procedures outlined in section 8.4.2 of this method, except that it shall be conducted at a vacuum equal to or greater than the maximum value reached during the sampling run. If the leakage rate is found to be no greater than 0.00057 m3/min (0.02 cfm) or 4 percent of the average sampling rate (whichever is less), the results are acceptable, and no correction need be applied to the total volume of dry gas metered. If, however, a higher leakage rate is obtained, either record the leakage rate and correct the sample volume, as shown in section 12.4 of this method, or void the sampling run.
+8.4.4 Post-test leak check. A leak check is mandatory at the conclusion of each sampling run. The leak check shall be performed in accordance with the procedures outlined in section 8.4.2 of this method, except that it shall be conducted at a vacuum equal to or greater than the maximum value reached during the sampling run. If the leakage rate is found to be no greater than 0.00057 m 3 /min (0.02 cfm) or 4 percent of the average sampling rate (whichever is less), the results are acceptable, and no correction need be applied to the total volume of dry gas metered. If, however, a higher leakage rate is obtained, either record the leakage rate and correct the sample volume, as shown in section 12.4 of this method, or void the sampling run.
 8.5 Sampling train operation. During the sampling run, maintain an isokinetic sampling rate (within l0 percent of true isokinetic unless otherwise specified by the Administrator) and a temperature around the filter of 120 14 °C (248 25 °F), or such other temperature as specified by an applicable subpart of the standards or approved by the Administrator.
 8.5.1 For each run, record the data required on a data sheet such as the one shown in Figure 5-2 of Method 5, 40 CFR part 60, appendix A. Be sure to record the initial reading. Record the DGM readings at the beginning and end of each sampling time increment, when changes in flow rates are made, before and after each leak-check, and when sampling is halted. Take other readings indicated by Figure 5-2 of Method 5, 40 CFR part 60, appendix A at least once at each sample point during each time increment and additional readings when significant changes (20 percent variation in velocity head readings) necessitate additional adjustments in flow rate. Level and zero the manometer. Because the manometer level and zero may drift due to vibrations and temperature changes, make periodic checks during the traverse.
-8.5.2 Clean the portholes prior to the test run to minimize the chance of sampling deposited material. To begin sampling, remove the nozzle cap and verify that the filter and probe heating systems are up to temperature and that the pitot tube and probe are properly positioned. Position the nozzle at the first traverse point with the tip pointing directly into the gas stream. Immediately start the pump and adjust the flow to isokinetic conditions. Nomographs are available, which aid in the rapid adjustment of the isokinetic sampling rate without excessive computations. These nomographs are designed for use when the Type S pitot tube coefficient (Cp) is 0.85 # 0.02 and the stack gas equivalent density (dry molecular weight) is 29 ±4. APTD-0576 details the procedure for using the nomographs. If Cp and Md are outside the above-stated ranges, do not use the nomographs unless appropriate steps (see Reference 7 in section 17.0 of this method) are taken to compensate for the deviations.
+8.5.2 Clean the portholes prior to the test run to minimize the chance of sampling deposited material. To begin sampling, remove the nozzle cap and verify that the filter and probe heating systems are up to temperature and that the pitot tube and probe are properly positioned. Position the nozzle at the first traverse point with the tip pointing directly into the gas stream. Immediately start the pump and adjust the flow to isokinetic conditions. Nomographs are available, which aid in the rapid adjustment of the isokinetic sampling rate without excessive computations. These nomographs are designed for use when the Type S pitot tube coefficient (C p) is 0.85 # 0.02 and the stack gas equivalent density (dry molecular weight) is 29 ±4. APTD-0576 details the procedure for using the nomographs. If C p and M d are outside the above-stated ranges, do not use the nomographs unless appropriate steps (see Reference 7 in section 17.0 of this method) are taken to compensate for the deviations.
 8.5.3 When the stack is under significant negative pressure (height of impinger stem), close the coarse adjust valve before inserting the probe into the stack to prevent water from backing into the filter holder. If necessary, the pump may be turned on with the coarse adjust valve closed.
 8.5.4 When the probe is in position, block off the openings around the probe and porthole to prevent unrepresentative dilution of the gas stream.
 8.5.5 Traverse the stack cross-section, as required by Method 1, 40 CFR part 60, appendix A or as specified by the Administrator, being careful not to bump the probe nozzle into the stack walls when sampling near the walls or when removing or inserting the probe through the portholes; this minimizes the chance of extracting deposited material.
@@ -3368,30 +3368,30 @@ Note: Because the subsequent analytical finish is gravimetric, it is okay to rec
 Section | Quality control measure | Effect
 8.4, 10.1-10.6 | Sampling and equipment leak check and calibration | Ensure accurate measurement of stack gas flow rate, sample volume.
 9.2 Volume metering system checks. The following quality control procedures are suggested to check the volume metering system calibration values at the field test site prior to sample collection. These procedures are optional.
-9.2.1 Meter orifice check. Using the calibration data obtained during the calibration procedure described in section 10.3 of this method, determine the ΔHa for the metering system orifice. The ΔHa is the orifice pressure differential in units of in. H20 that correlates to 0.75 cfm of air at 528 °R and 29.92 in. Hg. The ΔHa is calculated as follows:
+9.2.1 Meter orifice check. Using the calibration data obtained during the calibration procedure described in section 10.3 of this method, determine the ΔH a for the metering system orifice. The ΔH a is the orifice pressure differential in units of in. H 2 0 that correlates to 0.75 cfm of air at 528 °R and 29.92 in. Hg. The ΔH a is calculated as follows:
 ER07oc97.008
 Where
-0.0319 = (0.0567 in. Hg/ °R)(0.75 cfm)2;
-ΔH = Average pressure differential across the orifice meter, in. H20;
-Tm = Absolute average DGM temperature, °R;
+0.0319 = (0.0567 in. Hg/ °R)(0.75 cfm) 2;
+ΔH = Average pressure differential across the orifice meter, in. H 2 0;
+T m = Absolute average DGM temperature, °R;
 Θ = Total sampling time, min;
-Pbar = Barometric pressure, in. Hg;
+P bar = Barometric pressure, in. Hg;
 Y = DGM calibration factor, dimensionless;
-Vm = Volume of gas sample as measured by DGM, dcf.
-9.2.1.1 Before beginning the field test (a set of three runs usually constitutes a field test), operate the metering system (i.e., pump, volume meter, and orifice) at the ΔHa pressure differential for 10 minutes. Record the volume collected, the DGM temperature, and the barometric pressure. Calculate a DGM calibration check value, Yc, as follows:
+V m = Volume of gas sample as measured by DGM, dcf.
+9.2.1.1 Before beginning the field test (a set of three runs usually constitutes a field test), operate the metering system (i.e., pump, volume meter, and orifice) at the ΔH a pressure differential for 10 minutes. Record the volume collected, the DGM temperature, and the barometric pressure. Calculate a DGM calibration check value, Y c, as follows:
 ER07oc97.009
 Where
-Yc = DGM calibration check value, dimensionless;
+Y c = DGM calibration check value, dimensionless;
 10 = Run time, min.
-9.2.1.2 Compare the Yc value with the dry gas meter calibration factor Y to determine that: 0.97 Y <Yc <1.03Y. If the Yc value is not within this range, the volume metering system should be investigated before beginning the test.
+9.2.1.2 Compare the Y c value with the dry gas meter calibration factor Y to determine that: 0.97 Y <Y c <1.03Y. If the Y c value is not within this range, the volume metering system should be investigated before beginning the test.
 9.2.2 Calibrated critical orifice. A calibrated critical orifice, calibrated against a wet test meter or spirometer and designed to be inserted at the inlet of the sampling meter box, may be used as a quality control check by following the procedure of section 16.2 of this method.
 10.0 Calibration and Standardization
 Note: Maintain a laboratory log of all calibrations.
 10.1 Probe nozzle. Probe nozzles shall be calibrated before their initial use in the field. Using a micrometer, measure the ID of the nozzle to the nearest 0.025 mm (0.001 in.). Make three separate measurements using different diameters each time, and obtain the average of the measurements. The difference between the high and low numbers shall not exceed 0.1 mm (0.004 in.). When nozzles become nicked, dented, or corroded, they shall be reshaped, sharpened, and recalibrated before use. Each nozzle shall be permanently and uniquely identified.
 10.2 Pitot tube assembly. The Type S pitot tube assembly shall be calibrated according to the procedure outlined in section 10.1 of Method 2, 40 CFR part 60, appendix A.
 10.3 Metering system.
-10.3.1 Calibration prior to use. Before its initial use in the field, the metering system shall be calibrated as follows: Connect the metering system inlet to the outlet of a wet test meter that is accurate to within 1 percent. Refer to Figure 5-5 of Method 5, 40 CFR part 60, appendix A. The wet test meter should have a capacity of 30 liters/revolution (1 ft3/rev). A spirometer of 400 liters (14 ft3) or more capacity, or equivalent, may be used for this calibration, although a wet test meter is usually more practical. The wet test meter should be periodically calibrated with a spirometer or a liquid displacement meter to ensure the accuracy of the wet test meter. Spirometers or wet test meters of other sizes may be used, provided that the specified accuracies of the procedure are maintained. Run the metering system pump for about 15 minutes with the orifice manometer indicating a median reading, as expected in field use, to allow the pump to warm up and to permit the interior surface of the wet test meter to be thoroughly wetted. Then, at each of a minimum of three orifice manometer settings, pass an exact quantity of gas through the wet test meter and note the gas volume indicated by the DGM. Also note the barometric pressure and the temperatures of the wet test meter, the inlet of the DGM, and the outlet of the DGM. Select the highest and lowest orifice settings to bracket the expected field operating range of the orifice. Use a minimum volume of 0.15 m3 (5 cf) at all orifice settings. Record all the data on a form similar to Figure 5-6 of Method 5, 40 CFR part 60, appendix A, and calculate Y (the DGM calibration factor) and ΔHa (the orifice calibration factor) at each orifice setting, as shown on Figure 5-6 of Method 5, 40 CFR part 60, appendix A. Allowable tolerances for individual Y and ΔHa values are given in Figure 5-6 of Method 5, 40 CFR part 60, appendix A. Use the average of the Y values in the calculations in section 12 of this method.
-10.3.1.1 Before calibrating the metering system, it is suggested that a leak check be conducted. For metering systems having diaphragm pumps, the normal leak check procedure will not detect leakages within the pump. For these cases the following leak check procedure is suggested: make a 10-minute calibration run at 0.00057 m3/min (0.02 cfm); at the end of the run, take the difference of the measured wet test meter and DGM volumes; divide the difference by 10 to get the leak rate. The leak rate should not exceed 0.00057 m3/min (0.02 cfm).
+10.3.1 Calibration prior to use. Before its initial use in the field, the metering system shall be calibrated as follows: Connect the metering system inlet to the outlet of a wet test meter that is accurate to within 1 percent. Refer to Figure 5-5 of Method 5, 40 CFR part 60, appendix A. The wet test meter should have a capacity of 30 liters/revolution (1 ft 3 /rev). A spirometer of 400 liters (14 ft 3) or more capacity, or equivalent, may be used for this calibration, although a wet test meter is usually more practical. The wet test meter should be periodically calibrated with a spirometer or a liquid displacement meter to ensure the accuracy of the wet test meter. Spirometers or wet test meters of other sizes may be used, provided that the specified accuracies of the procedure are maintained. Run the metering system pump for about 15 minutes with the orifice manometer indicating a median reading, as expected in field use, to allow the pump to warm up and to permit the interior surface of the wet test meter to be thoroughly wetted. Then, at each of a minimum of three orifice manometer settings, pass an exact quantity of gas through the wet test meter and note the gas volume indicated by the DGM. Also note the barometric pressure and the temperatures of the wet test meter, the inlet of the DGM, and the outlet of the DGM. Select the highest and lowest orifice settings to bracket the expected field operating range of the orifice. Use a minimum volume of 0.15 m 3 (5 cf) at all orifice settings. Record all the data on a form similar to Figure 5-6 of Method 5, 40 CFR part 60, appendix A, and calculate Y (the DGM calibration factor) and ΔH a (the orifice calibration factor) at each orifice setting, as shown on Figure 5-6 of Method 5, 40 CFR part 60, appendix A. Allowable tolerances for individual Y and ΔH a values are given in Figure 5-6 of Method 5, 40 CFR part 60, appendix A. Use the average of the Y values in the calculations in section 12 of this method.
+10.3.1.1 Before calibrating the metering system, it is suggested that a leak check be conducted. For metering systems having diaphragm pumps, the normal leak check procedure will not detect leakages within the pump. For these cases the following leak check procedure is suggested: make a 10-minute calibration run at 0.00057 m 3 /min (0.02 cfm); at the end of the run, take the difference of the measured wet test meter and DGM volumes; divide the difference by 10 to get the leak rate. The leak rate should not exceed 0.00057 m 3 /min (0.02 cfm).
 10.3.2 Calibration after use. After each field use, the calibration of the metering system shall be checked by performing three calibration runs at a single, intermediate orifice setting (based on the previous field test) with the vacuum set at the maximum value reached during the test series. To adjust the vacuum, insert a valve between the wet test meter and the inlet of the metering system. Calculate the average value of the DGM calibration factor. If the value has changed by more than 5 percent, recalibrate the meter over the full range of orifice settings, as previously detailed.
 Note: Alternative procedures, e.g., rechecking the orifice meter coefficient, may be used, subject to the approval of the Administrator.
 10.3.3 Acceptable variation in calibration. If the DGM coefficient values obtained before and after a test series differ by more than 5 percent, either the test series shall be voided or calculations for the test series shall be performed using whichever meter coefficient value (i.e., before or after) gives the lower value of total sample volume.
@@ -3422,43 +3422,43 @@ Note: The contents of Containers No. 2, 3W, and 3M as well as the blank containe
 12.0 Data Analysis and Calculations
 12.1 Carry out calculations, retaining at least one extra decimal figure beyond that of the acquired data. Round off figures after the final calculation. Other forms of the equations may be used as long as they give equivalent results.
 12.2 Nomenclature.
-An = Cross-sectional area of nozzle, m3 (ft3).
-Bws = Water vapor in the gas stream, proportion by volume.
-Ca = Acetone blank residue concentration, mg/g.
-Cs = Concentration of particulate matter in stack gas, dry basis, corrected to standard conditions, g/dscm (g/dscf).
+A n = Cross-sectional area of nozzle, m 3 (ft 3).
+B ws = Water vapor in the gas stream, proportion by volume.
+C a = Acetone blank residue concentration, mg/g.
+C s = Concentration of particulate matter in stack gas, dry basis, corrected to standard conditions, g/dscm (g/dscf).
 I = Percent of isokinetic sampling.
-La = Maximum acceptable leakage rate for either a pretest leak check or for a leak check following a component change; equal to 0.00057 m3/min (0.02 cfm) or 4 percent of the average sampling rate, whichever is less.
-Li = Individual leakage rate observed during the leak check conducted prior to the "ith" component change (I = l, 2, 3...n), m3/min (cfm).
-Lp = Leakage rate observed during the post-test leak check, m3/min (cfm).
-ma = Mass of residue of acetone after evaporation, mg.
-mn = Total amount of particulate matter collected, mg.
-Mw = Molecular weight of water, 18.0 g/g-mole (18.0 lb/lb-mole).
-Pbar = Barometric pressure at the sampling site, mm Hg (in Hg).
-Ps = Absolute stack gas pressure, mm Hg (in. Hg).
-Pstd = Standard absolute pressure, 760 mm Hg (29.92 in. Hg).
-R = Ideal gas constant, 0.06236 [(mm Hg)(m3)]/[(°K) (g-mole)] '61' 21.85 [(in. Hg)(ft3)]/[(°R)(lb-mole)'61'].
-Tm = Absolute average dry gas meter (DGM) temperature (see Figure 5-2 of Method 5, 40 CFR part 60, appendix A), °K (°R).
-Ts = Absolute average stack gas temperature (see Figure 5-2 of Method 5, 40 CFR part 60, appendix A), °K(°R).
-Tstd = Standard absolute temperature, 293 °K (528 °R).
-Va = Volume of acetone blank, ml.
-Vaw = Volume of acetone used in wash, ml.
-Vt = Volume of methylene chloride blank, ml.
-Vtw = Volume of methylene chloride used in wash, ml.
-Vlc = Total volume liquid collected in impingers and silica gel (see Figure 5-3 of Method 5, 40 CFR part 60, appendix A), ml.
-Vm = Volume of gas sample as measured by dry gas meter, dcm (dcf).
-Vm(std) = Volume of gas sample measured by the dry gas meter, corrected to standard conditions, dscm (dscf).
-Vw(std) = Volume of water vapor in the gas sample, corrected to standard conditions, scm (scf).
-Vs = Stack gas velocity, calculated by Equation 2-9 in Method 2, 40 CFR part 60, appendix A, using data obtained from Method 5, 40 CFR part 60, appendix A, m/sec (ft/sec).
-Wa = Weight of residue in acetone wash, mg.
+L a = Maximum acceptable leakage rate for either a pretest leak check or for a leak check following a component change; equal to 0.00057 m 3 /min (0.02 cfm) or 4 percent of the average sampling rate, whichever is less.
+L i = Individual leakage rate observed during the leak check conducted prior to the "i th" component change (I = l, 2, 3...n), m 3 /min (cfm).
+L p = Leakage rate observed during the post-test leak check, m 3 /min (cfm).
+m a = Mass of residue of acetone after evaporation, mg.
+m n = Total amount of particulate matter collected, mg.
+M w = Molecular weight of water, 18.0 g/g-mole (18.0 lb/lb-mole).
+P bar = Barometric pressure at the sampling site, mm Hg (in Hg).
+P s = Absolute stack gas pressure, mm Hg (in. Hg).
+P std = Standard absolute pressure, 760 mm Hg (29.92 in. Hg).
+R = Ideal gas constant, 0.06236 [(mm Hg)(m 3)]/[(°K) (g-mole)] '61' 21.85 [(in. Hg)(ft 3)]/[(°R)(lb-mole)'61'].
+T m = Absolute average dry gas meter (DGM) temperature (see Figure 5-2 of Method 5, 40 CFR part 60, appendix A), °K (°R).
+T s = Absolute average stack gas temperature (see Figure 5-2 of Method 5, 40 CFR part 60, appendix A), °K(°R).
+T std = Standard absolute temperature, 293 °K (528 °R).
+V a = Volume of acetone blank, ml.
+V aw = Volume of acetone used in wash, ml.
+V t = Volume of methylene chloride blank, ml.
+V tw = Volume of methylene chloride used in wash, ml.
+V lc = Total volume liquid collected in impingers and silica gel (see Figure 5-3 of Method 5, 40 CFR part 60, appendix A), ml.
+V m = Volume of gas sample as measured by dry gas meter, dcm (dcf).
+V m(std) = Volume of gas sample measured by the dry gas meter, corrected to standard conditions, dscm (dscf).
+V w(std) = Volume of water vapor in the gas sample, corrected to standard conditions, scm (scf).
+V s = Stack gas velocity, calculated by Equation 2-9 in Method 2, 40 CFR part 60, appendix A, using data obtained from Method 5, 40 CFR part 60, appendix A, m/sec (ft/sec).
+W a = Weight of residue in acetone wash, mg.
 Y = Dry gas meter calibration factor.
-ΔH = Average pressure differential across the orifice meter (see Figure 5-2 of Method 5, 40 CFR part 60, appendix A), mm H2O (in H2O).
-ρa = Density of acetone, 785.1 mg/ml (or see label on bottle).
-ρw = Density of water, 0.9982 g/ml (0.00220l lb/ml).
-ρt = Density of methylene chloride, 1316.8 mg/ml (or see label on bottle).
+ΔH = Average pressure differential across the orifice meter (see Figure 5-2 of Method 5, 40 CFR part 60, appendix A), mm H 2 O (in H 2 O).
+ρ a = Density of acetone, 785.1 mg/ml (or see label on bottle).
+ρ w = Density of water, 0.9982 g/ml (0.00220l lb/ml).
+ρ t = Density of methylene chloride, 1316.8 mg/ml (or see label on bottle).
 Θ = Total sampling time, min.
-Θ1 = Sampling time interval, from the beginning of a run until the first component change, min.
-Θ1 = Sampling time interval, between two successive component changes, beginning with the interval between the first and second changes, min.
-Θp = Sampling time interval, from the final (nth) component change until the end of the sampling run, min.
+Θ 1 = Sampling time interval, from the beginning of a run until the first component change, min.
+Θ 1 = Sampling time interval, between two successive component changes, beginning with the interval between the first and second changes, min.
+Θ p = Sampling time interval, from the final (n th) component change until the end of the sampling run, min.
 13.6 = Specific gravity of mercury.
 60 = Sec/min.
 100 = Conversion to percent.
@@ -3466,29 +3466,29 @@ Y = Dry gas meter calibration factor.
 12.4 Dry gas volume. Correct the sample volume measured by the dry gas meter to standard conditions (20 °C, 760 mm Hg or 68 °F, 29.92 in Hg) by using Equation 315-1.
 ER07oc97.010
 Where
-Kl = 0.3858 °K/mm Hg for metric units,
+K l = 0.3858 °K/mm Hg for metric units,
 = 17.64 °R/in Hg for English units.
-Note: Equation 315-1 can be used as written unless the leakage rate observed during any of the mandatory leak checks (i.e., the post-test leak check or leak checks conducted prior to component changes) exceeds La. If Lp or Li exceeds La, Equation 315-1 must be modified as follows: (a) Case I. No component changes made during sampling run. In this case, replace Vm in Equation 315-1 with the expression:
-[Vm—(Lp—La) Θ]
-(b) Case II. One or more component changes made during the sampling run. In this case, replace Vm in Equation 315-1 by the expression:
+Note: Equation 315-1 can be used as written unless the leakage rate observed during any of the mandatory leak checks (i.e., the post-test leak check or leak checks conducted prior to component changes) exceeds L a. If L p or L i exceeds L a, Equation 315-1 must be modified as follows: (a) Case I. No component changes made during sampling run. In this case, replace V m in Equation 315-1 with the expression:
+[V m —(L p —L a) Θ]
+(b) Case II. One or more component changes made during the sampling run. In this case, replace V m in Equation 315-1 by the expression:
 ER07oc97.011
-and substitute only for those leakage rates (Li or Lp) which exceed La.
+and substitute only for those leakage rates (L i or L p) which exceed L a.
 12.5 Volume of water vapor condensed.
 ER07oc97.012
 Where
-K2 = 0.001333 m3/ml for metric units;
-= 0.04706 ft3/ml for English units.
+K 2 = 0.001333 m 3 /ml for metric units;
+= 0.04706 ft 3 /ml for English units.
 12.6 Moisture content.
 ER07oc97.013
-Note: In saturated or water droplet-laden gas streams, two calculations of the moisture content of the stack gas shall be made, one from the impinger analysis (Equation 315-3), and a second from the assumption of saturated conditions. The lower of the two values of Bws shall be considered correct. The procedure for determining the moisture content based upon assumption of saturated conditions is given in section 4.0 of Method 4, 40 CFR part 60, appendix A. For the purposes of this method, the average stack gas temperature from Figure 5-2 of Method 5, 40 CFR part 60, appendix A may be used to make this determination, provided that the accuracy of the in-stack temperature sensor is ±1 °C (2 °F).
+Note: In saturated or water droplet-laden gas streams, two calculations of the moisture content of the stack gas shall be made, one from the impinger analysis (Equation 315-3), and a second from the assumption of saturated conditions. The lower of the two values of B ws shall be considered correct. The procedure for determining the moisture content based upon assumption of saturated conditions is given in section 4.0 of Method 4, 40 CFR part 60, appendix A. For the purposes of this method, the average stack gas temperature from Figure 5-2 of Method 5, 40 CFR part 60, appendix A may be used to make this determination, provided that the accuracy of the in-stack temperature sensor is ±1 °C (2 °F).
 12.7 Acetone blank concentration.
 ER07oc97.014
 12.8 Acetone wash blank.
-Wa = Ca Vaw ρa Eq. 315-5
+W a = C a V aw ρa Eq. 315-5
 12.9 Total particulate weight. Determine the total PM catch from the sum of the weights obtained from Containers l and 2 less the acetone blank associated with these two containers (see Figure 315-1).
 Note: Refer to section 8.5.8 of this method to assist in calculation of results involving two or more filter assemblies or two or more sampling trains.
 12.10 Particulate concentration.
-cs = K3 mn/Vm(std) Eq. 315-6
+c s = K 3 m n /V m(std) Eq. 315-6
 where
 K = 0.001 g/mg for metric units;
 = 0.0154 gr/mg for English units.
@@ -3496,48 +3496,48 @@ K = 0.001 g/mg for metric units;
 From | To | Multiply by
 ft 3 | m 3 | 0.02832
 gr | mg | 64.80004
-gr/ft3 | mg/m3 | 2288.4
+gr/ft 3 | mg/m 3 | 2288.4
 mg | g | 0.001
-gr | lb | 1.429 × 10−4
+gr | lb | 1.429 × 10 −4
 12.12 Isokinetic variation.
 12.12.1 Calculation from raw data.
 ER07oc97.015
 where
-K4 = 0.003454 [(mm Hg)(m3)]/[(m1)(°K)] for metric units;
-= 0.002669 [(in Hg)(ft3)]/[(m1)(°R)] for English units.
+K 4 = 0.003454 [(mm Hg)(m 3)]/[(m1)(°K)] for metric units;
+= 0.002669 [(in Hg)(ft 3)]/[(m1)(°R)] for English units.
 12.12.2 Calculation from intermediate values.
 ER07oc97.016
 where
-K5 = 4.320 for metric units;
+K 5 = 4.320 for metric units;
 = 0.09450 for English units.
 12.12.3 Acceptable results. If 90 percent ≤I ≤110 percent, the results are acceptable. If the PM or MCEM results are low in comparison to the standard, and "I" is over 110 percent or less than 90 percent, the Administrator may opt to accept the results. Reference 4 in the Bibliography may be used to make acceptability judgments. If "I" is judged to be unacceptable, reject the results, and repeat the test.
 12.13 Stack gas velocity and volumetric flow rate. Calculate the average stack gas velocity and volumetric flow rate, if needed, using data obtained in this method and the equations in sections 5.2 and 5.3 of Method 2, 40 CFR part 60, appendix A.
 12.14 MCEM results. Determine the MCEM concentration from the results from Containers 1, 2, 2M, 3W, and 3S less the acetone, methylene chloride, and filter blanks value as determined in the following equation:
-m mcem = Sm total − w a − w t − f b
+m mcem = S m total − w a − w t − f b
 13.0 Method Performance [Reserved]
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
 16.0 Alternative Procedures
 16.1 Dry gas meter as a calibration standard. A DGM may be used as a calibration standard for volume measurements in place of the wet test meter specified in section 16.1 of this method, provided that it is calibrated initially and recalibrated periodically as follows:
 16.1.1 Standard dry gas meter calibration.
-16.1.1.1. The DGM to be calibrated and used as a secondary reference meter should be of high quality and have an appropriately sized capacity, e.g., 3 liters/rev (0.1 ft 3/rev). A spirometer (400 liters or more capacity), or equivalent, may be used for this calibration, although a wet test meter is usually more practical. The wet test meter should have a capacity of 30 liters/rev (1 ft 3/rev) and be capable of measuring volume to within 1.0 percent; wet test meters should be checked against a spirometer or a liquid displacement meter to ensure the accuracy of the wet test meter. Spirometers or wet test meters of other sizes may be used, provided that the specified accuracies of the procedure are maintained.
-16.1.1.2 Set up the components as shown in Figure 5-7 of Method 5, 40 CFR part 60, appendix A. A spirometer, or equivalent, may be used in place of the wet test meter in the system. Run the pump for at least 5 minutes at a flow rate of about 10 liters/min (0.35 cfm) to condition the interior surface of the wet test meter. The pressure drop indicated by the manometer at the inlet side of the DGM should be minimized (no greater than 100 mm H2O [4 in. H2O] at a flow rate of 30 liters/min [1 cfm]). This can be accomplished by using large-diameter tubing connections and straight pipe fittings.
+16.1.1.1. The DGM to be calibrated and used as a secondary reference meter should be of high quality and have an appropriately sized capacity, e.g., 3 liters/rev (0.1 ft 3 /rev). A spirometer (400 liters or more capacity), or equivalent, may be used for this calibration, although a wet test meter is usually more practical. The wet test meter should have a capacity of 30 liters/rev (1 ft 3 /rev) and be capable of measuring volume to within 1.0 percent; wet test meters should be checked against a spirometer or a liquid displacement meter to ensure the accuracy of the wet test meter. Spirometers or wet test meters of other sizes may be used, provided that the specified accuracies of the procedure are maintained.
+16.1.1.2 Set up the components as shown in Figure 5-7 of Method 5, 40 CFR part 60, appendix A. A spirometer, or equivalent, may be used in place of the wet test meter in the system. Run the pump for at least 5 minutes at a flow rate of about 10 liters/min (0.35 cfm) to condition the interior surface of the wet test meter. The pressure drop indicated by the manometer at the inlet side of the DGM should be minimized (no greater than 100 mm H 2 O [4 in. H 2 O] at a flow rate of 30 liters/min [1 cfm]). This can be accomplished by using large-diameter tubing connections and straight pipe fittings.
 16.1.1.3 Collect the data as shown in the example data sheet (see Figure 5-8 of Method 5, 40 CFR part 60, appendix A). Make triplicate runs at each of the flow rates and at no less than five different flow rates. The range of flow rates should be between 10 and 34 liters/min (0.35 and 1.2 cfm) or over the expected operating range.
-16.1.1.4 Calculate flow rate, Q, for each run using the wet test meter volume, Vw, and the run time, q. Calculate the DGM coefficient, Yds, for each run. These calculations are as follows:
+16.1.1.4 Calculate flow rate, Q, for each run using the wet test meter volume, V w, and the run time, q. Calculate the DGM coefficient, Y ds, for each run. These calculations are as follows:
 ER07oc97.017
 ER07oc97.018
 Where
-K1 = 0.3858 for international system of units (SI); 17.64 for English units;
-Pbar = Barometric pressure, mm Hg (in Hg);
-Vw = Wet test meter volume, liter (ft3);
-tw = Average wet test meter temperature, °C (°F);
-tstd = 273 °C for SI units; 460 °F for English units;
+K 1 = 0.3858 for international system of units (SI); 17.64 for English units;
+P bar = Barometric pressure, mm Hg (in Hg);
+V w = Wet test meter volume, liter (ft 3);
+t w = Average wet test meter temperature, °C (°F);
+t std = 273 °C for SI units; 460 °F for English units;
 Θ = Run time, min;
-tds = Average dry gas meter temperature, °C (°F);
-Vds = Dry gas meter volume, liter (ft3);
-Δp = Dry gas meter inlet differential pressure, mm H2O (in H2O).
-16.1.1.5 Compare the three Yds values at each of the flow rates and determine the maximum and minimum values. The difference between the maximum and minimum values at each flow rate should be no greater than 0.030. Extra sets of triplicate runs may be made in order to complete this requirement. In addition, the meter coefficients should be between 0.95 and 1.05. If these specifications cannot be met in three sets of successive triplicate runs, the meter is not suitable as a calibration standard and should not be used as such. If these specifications are met, average the three Yds values at each flow rate resulting in five average meter coefficients, Yds.
-16.1.1.6 Prepare a curve of meter coefficient, Yds, versus flow rate, Q, for the DGM. This curve shall be used as a reference when the meter is used to calibrate other DGMs and to determine whether recalibration is required.
+t ds = Average dry gas meter temperature, °C (°F);
+V ds = Dry gas meter volume, liter (ft 3);
+Δp = Dry gas meter inlet differential pressure, mm H 2 O (in H 2 O).
+16.1.1.5 Compare the three Y ds values at each of the flow rates and determine the maximum and minimum values. The difference between the maximum and minimum values at each flow rate should be no greater than 0.030. Extra sets of triplicate runs may be made in order to complete this requirement. In addition, the meter coefficients should be between 0.95 and 1.05. If these specifications cannot be met in three sets of successive triplicate runs, the meter is not suitable as a calibration standard and should not be used as such. If these specifications are met, average the three Y ds values at each flow rate resulting in five average meter coefficients, Y ds.
+16.1.1.6 Prepare a curve of meter coefficient, Y ds, versus flow rate, Q, for the DGM. This curve shall be used as a reference when the meter is used to calibrate other DGMs and to determine whether recalibration is required.
 16.1.2 Standard dry gas meter recalibration.
 16.1.2.1 Recalibrate the standard DGM against a wet test meter or spirometer annually or after every 200 hours of operation, whichever comes first. This requirement is valid provided the standard DGM is kept in a laboratory and, if transported, cared for as any other laboratory instrument. Abuse to the standard meter may cause a change in the calibration and will require more frequent recalibrations.
 16.1.2.2 As an alternative to full recalibration, a two-point calibration check may be made. Follow the same procedure and equipment arrangement as for a full recalibration, but run the meter at only two flow rates (suggested rates are 14 and 28 liters/min [0.5 and 1.0 cfm]). Calculate the meter coefficients for these two points, and compare the values with the meter calibration curve. If the two coefficients are within 1.5 percent of the calibration curve values at the same flow rates, the meter need not be recalibrated until the next date for a recalibration check.
@@ -3554,23 +3554,23 @@ Vds = Dry gas meter volume, liter (ft3);
 16.2.2.2.1 Allow a warm-up time of 15 minutes. This step is important to equilibrate the temperature conditions through the DGM.
 16.2.2.2.2 Leak-check the system as in section 7.2.2.1.1 of Method 5, 40 CFR part 60, appendix A. The leakage rate shall be zero.
 16.2.2.2.3 Before calibrating the critical orifice, determine its suitability and the appropriate operating vacuum as follows: turn on the pump, fully open the coarse adjust valve, and adjust the bypass valve to give a vacuum reading corresponding to about half of atmospheric pressure. Observe the meter box orifice manometer reading, DH. Slowly increase the vacuum reading until a stable reading is obtained on the meter box orifice manometer. Record the critical vacuum for each orifice. Orifices that do not reach a critical value shall not be used.
-16.2.2.2.4 Obtain the barometric pressure using a barometer as described in section 6.1.2 of this method. Record the barometric pressure, Pbar, in mm Hg (in. Hg).
+16.2.2.2.4 Obtain the barometric pressure using a barometer as described in section 6.1.2 of this method. Record the barometric pressure, P bar, in mm Hg (in. Hg).
 16.2.2.2.5 Conduct duplicate runs at a vacuum of 25 to 50 mm Hg (1 to 2 in. Hg) above the critical vacuum. The runs shall be at least 5 minutes each. The DGM volume readings shall be in increments of complete revolutions of the DGM. As a guideline, the times should not differ by more than 3.0 seconds (this includes allowance for changes in the DGM temperatures) to achieve ±0.5 percent in K′. Record the information listed in Figure 5-11 of Method 5, 40 CFR part 60, appendix A.
 16.2.2.2.6 Calculate K′ using Equation 315-11.
 ER07oc97.019
 where
-K′ = Critical orifice coefficient, [m3)(°K)1/2]/[(mm Hg)(min)] [(ft3)(°R)1/2)]/[(in. Hg)(min)]
-Tamb = Absolute ambient temperature, °K (°R).
+K′ = Critical orifice coefficient, [m 3)(°K) 1/2]/[(mm Hg)(min)] [(ft 3)(°R) 1/2)]/[(in. Hg)(min)]
+T amb = Absolute ambient temperature, °K (°R).
 16.2.2.2.7 Average the K′ values. The individual K′ values should not differ by more than ±0.5 percent from the average.
 16.2.3 Using the critical orifices as calibration standards.
 16.2.3.1 Record the barometric pressure.
 16.2.3.2 Calibrate the metering system according to the procedure outlined in sections 7.2.2.2.1 to 7.2.2.2.5 of Method 5, 40 CFR part 60, appendix A. Record the information listed in Figure 5-12 of Method 5, 40 CFR part 60, appendix A.
 16.2.3.3 Calculate the standard volumes of air passed through the DGM and the critical orifices, and calculate the DGM calibration factor, Y, using the equations below:
-Vm(std) = K1 Vm [Pbar + (ΔH/13.6)]/Tm Eq. 315-12
-Vcr(std) = K′ (Pbar Θ)/Tamb 1/2 Eq. 315-13
-Y = Vcr(std)/Vm(std) Eq. 315-14
+V m(std) = K 1 V m [P bar + (ΔH/13.6)]/T m Eq. 315-12
+V cr(std) = K′ (P bar Θ)/T amb 1/2 Eq. 315-13
+Y = V cr(std) /V m(std) Eq. 315-14
 where
-Vcr(std) = Volume of gas sample passed through the critical orifice, corrected to standard conditions, dscm (dscf).
+V cr(std) = Volume of gas sample passed through the critical orifice, corrected to standard conditions, dscm (dscf).
 K′ = 0.3858 °K/mm Hg for metric units
 = 17.64 °R/in Hg for English units.
 16.2.3.4 Average the DGM calibration values for each of the flow rates. The calibration factor, Y, at each of the flow rates should not differ by more than ±2 percent from the average.
@@ -3590,7 +3590,7 @@ K′ = 0.3858 °K/mm Hg for metric units
 12. Lodge, J.P., Jr., J.B. Pate, B.E. Ammons, and G.A. Swanson. The Use of Hypodermic Needles as Critical Orifices in Air Sampling. J. Air Pollution Control Association. 16:197-200. 1966.
 18.0 Tables, Diagrams, Flowcharts, and Validation Data
 Table 315-1. Flow Rates for Various Needle Sizes and Tube Lengths.
-Gauge/length(cm) | Flow rate(liters/min) | Gauge/length(cm) | Flow rate(liters/min)
+Gauge/length (cm) | Flow rate (liters/min) | Gauge/length (cm) | Flow rate (liters/min)
 12/7.6 | 32.56 | 14/2.5 | 19.54
 12/10.2 | 30.02 | 14/5.1 | 17.27
 13/2.5 | 25.77 | 14/7.6 | 16.14
@@ -3607,7 +3607,7 @@ Amount liquid lost during transport |
 Acetone blank volume (ml) |
 Acetone blank concentration (Eq. 315-4) (mg/mg) |
 Acetone wash blank (Eq. 315-5) (mg) |
-| Final weight(mg) | Tare weight(mg) | Weight gain(mg)
+| Final weight (mg) | Tare weight (mg) | Weight gain (mg)
 Container No. 1 |
 Container No. 2 |
 Total |
@@ -3625,14 +3625,14 @@ MCEM Analysis
 2 + 2M
 3W
 3S
-Total | | | ∑m total | 0 V aw | ∑V tw
-Less acetone wash blank (mg) (not to exceed 1 mg/l of acetone used) | w a = c a p a ∑V aw
-Less methylene chloride wash blank (mg) (not to exceed 1.5 mg/l of methylene chloride used) | w t = c t p t ∑V tw
+Total | | | ∑ m total | 0 V aw | ∑ V tw
+Less acetone wash blank (mg) (not to exceed 1 mg/l of acetone used) | w a = c a p a ∑ V aw
+Less methylene chloride wash blank (mg) (not to exceed 1.5 mg/l of methylene chloride used) | w t = c t p t ∑ V tw
 Less filter blank (mg) (not to exceed... (mg/filter) | F b
-MCEM weight (mg) | m MCEOM = ∑m total − w a − w t− f b
+MCEM weight (mg) | m MCEOM = ∑ m total − w a − w t − f b
 Method 316—Sampling and Analysis for Formaldehyde Emissions From Stationary Sources in the Mineral Wool and Wool Fiberglass Industries
 1.0 Introduction
-This method is applicable to the determination of formaldehyde, CAS Registry number 50-00-0, from stationary sources in the mineral wool and wool fiber glass industries. High purity water is used to collect the formaldehyde. The formaldehyde concentrations in the stack samples are determined using the modified pararosaniline method. Formaldehyde can be detected as low as 8.8 × 1010 lbs/cu ft (11.3 ppbv) or as high as 1.8 × 103 lbs/cu ft (23,000,000 ppbv), at standard conditions over a 1 hour sampling period, sampling approximately 30 cu ft.
+This method is applicable to the determination of formaldehyde, CAS Registry number 50-00-0, from stationary sources in the mineral wool and wool fiber glass industries. High purity water is used to collect the formaldehyde. The formaldehyde concentrations in the stack samples are determined using the modified pararosaniline method. Formaldehyde can be detected as low as 8.8 × 10 10 lbs/cu ft (11.3 ppbv) or as high as 1.8 × 10 3 lbs/cu ft (23,000,000 ppbv), at standard conditions over a 1 hour sampling period, sampling approximately 30 cu ft.
 2.0 Summary of Method
 Gaseous and particulate pollutants are withdrawn isokinetically from an emission source and are collected in high purity water. Formaldehyde present in the emissions is highly soluble in high purity water. The high purity water containing formaldehyde is then analyzed using the modified pararosaniline method. Formaldehyde in the sample reacts with acidic pararosaniline, and the sodium sulfite, forming a purple chromophore. The intensity of the purple color, measured spectrophotometrically, provides an accurate and precise measure of the formaldehyde concentration in the sample.
 3.0 Definitions
@@ -3703,20 +3703,20 @@ The 100 µg/ml stock solution is stable for 4 weeks if kept refrigerated between
 8.5.1 Pre-test Leak-check: Recommended, but not required. If the tester elects to conduct the pre-test leak-check, the following procedure shall be used.
 8.5.1.1 After the sampling train has been assembled, turn on and set probe heating system at the desired operating temperature. Allow time for the temperature to stabilize. If a Viton-a O-ring or other leak-free connection is used in assembling the probe nozzle to the probe liner, leak-check the train at the sampling site by plugging the nozzle and pulling a 381 mm Hg (15 in Hg) vacuum.
 Note: A lower vacuum may be used, provided that the lower vacuum is not exceeded during the test.
-If a woven glass fiber gasket is used, do not connect the probe to the train during the leak-check. Instead, leak-check the train by first attaching a carbon-filled leak-check impinger to the inlet and then plugging the inlet and pulling a 381 mm Hg (15 in Hg) vacuum. (A lower vacuum may be used if this lower vacuum is not exceeded during the test.) Next connect the probe to the train and leak-check at about 25 mm Hg (1 in Hg) vacuum. Alternatively, leak-check the probe with the rest of the sampling train in one step at 381 mm Hg (15 in Hg) vacuum. Leakage rates in excess of (a) 4 percent of the average sampling rate or (b) 0.00057 m3/min (0.02 cfm), whichever is less, are unacceptable.
+If a woven glass fiber gasket is used, do not connect the probe to the train during the leak-check. Instead, leak-check the train by first attaching a carbon-filled leak-check impinger to the inlet and then plugging the inlet and pulling a 381 mm Hg (15 in Hg) vacuum. (A lower vacuum may be used if this lower vacuum is not exceeded during the test.) Next connect the probe to the train and leak-check at about 25 mm Hg (1 in Hg) vacuum. Alternatively, leak-check the probe with the rest of the sampling train in one step at 381 mm Hg (15 in Hg) vacuum. Leakage rates in excess of (a) 4 percent of the average sampling rate or (b) 0.00057 m 3 /min (0.02 cfm), whichever is less, are unacceptable.
 8.5.1.2 The following leak-check instructions for the sampling train described in APTD-0576 and APTD-0581 may be helpful. Start the pump with the fine-adjust valve fully open and coarse-valve completely closed. Partially open the coarse-adjust valve and slowly close the fine-adjust valve until the desired vacuum is reached. Do not reverse direction of the fine-adjust valve, as liquid will back up into the train. If the desired vacuum is exceeded, either perform the leak-check at this higher vacuum or end the leak-check, as described below, and start over.
 8.5.1.3 When the leak-check is completed, first slowly remove the plug from the inlet to the probe. When the vacuum drops to 127 mm (5 in) Hg or less, immediately close the coarse-adjust valve. Switch off the pumping system and reopen the fine-adjust valve. Do not reopen the fine-adjust valve until the coarse-adjust valve has been closed to prevent the liquid in the impingers from being forced backward in the sampling line and silica gel from being entrained backward into the third impinger.
 8.5.2 Leak-checks During Sampling Run:
-8.5.2.1 If, during the sampling run, a component change (e.g., impinger) becomes necessary, a leak-check shall be conducted immediately after the interruption of sampling and before the change is made. The leak-check shall be done according to the procedure described in Section 10.3.3, except that it shall be done at a vacuum greater than or equal to the maximum value recorded up to that point in the test. If the leakage rate is found to be no greater than 0.0057 m3/min (0.02 cfm) or 4 percent of the average sampling rate (whichever is less), the results are acceptable. If a higher leakage rate is obtained, the tester must void the sampling run.
+8.5.2.1 If, during the sampling run, a component change (e.g., impinger) becomes necessary, a leak-check shall be conducted immediately after the interruption of sampling and before the change is made. The leak-check shall be done according to the procedure described in Section 10.3.3, except that it shall be done at a vacuum greater than or equal to the maximum value recorded up to that point in the test. If the leakage rate is found to be no greater than 0.0057 m 3 /min (0.02 cfm) or 4 percent of the average sampling rate (whichever is less), the results are acceptable. If a higher leakage rate is obtained, the tester must void the sampling run.
 Note: Any correction of the sample volume by calculation reduces the integrity of the pollutant concentration data generated and must be avoided.
 8.5.2.2 Immediately after component changes, leak-checks are optional. If performed, the procedure described in section 8.5.1.1 shall be used.
 8.5.3 Post-test Leak-check:
-8.5.3.1 A leak-check is mandatory at the conclusion of each sampling run. The leak-check shall be done with the same procedures as the pre-test leak-check, except that the post-test leak-check shall be conducted at a vacuum greater than or equal to the maximum value reached during the sampling run. If the leakage rate is found to be no greater than 0.00057 m3/min (0.02 cfm) or 4 percent of the average sampling rate (whichever is less), the results are acceptable. If, however, a higher leakage rate is obtained, the tester shall record the leakage rate and void the sampling run.
+8.5.3.1 A leak-check is mandatory at the conclusion of each sampling run. The leak-check shall be done with the same procedures as the pre-test leak-check, except that the post-test leak-check shall be conducted at a vacuum greater than or equal to the maximum value reached during the sampling run. If the leakage rate is found to be no greater than 0.00057 m 3 /min (0.02 cfm) or 4 percent of the average sampling rate (whichever is less), the results are acceptable. If, however, a higher leakage rate is obtained, the tester shall record the leakage rate and void the sampling run.
 8.6 Sampling Train Operation
 8.6.1 During the sampling run, maintain an isokinetic sampling rate to within 10 percent of true isokinetic, below 28 l/min (1.0 cfm). Maintain a temperature around the probe of 120 °C ±14 °C (248 ° ±25 °F).
 8.6.2 For each run, record the data on a data sheet such as the one shown in Figure 2. Be sure to record the initial dry-gas meter reading. Record the dry-gas meter readings at the beginning and end of each sampling time increment, when changes in flow rates are made, before and after each leak-check, and when sampling is halted. Take other readings required by Figure 2 at least once at each sample point during each time increment and additional readings when significant adjustments (20 percent variation in velocity head readings) necessitate additional adjustments in flow rate. Level and zero the manometer. Because the manometer level and zero may drift due to vibrations and temperature changes, make periodic checks during the traverse.
 ER14JN99.051
-Traverse point number | Sampling time(e) min. | Vacuummm Hg (in. Hg) | Stack temperature (T)°C (°F) | Velocity head(ΔP) mm (in) H2O | Pressure differential across orifice metermm H2O (in. H2O) | Gas sample volumem3 (ft3) | Gas sample temperature at dry gas meter | Inlet°C (°F) | Outlet°C (°F) | Filter holder temperature°C (°F) | Temperature of gas leaving condenser or last impinger°C (°F)
+Traverse point number | Sampling time (e) min. | Vacuum mm Hg (in. Hg) | Stack temperature (T) °C (°F) | Velocity head (ΔP) mm (in) H 2 O | Pressure differential across orifice meter mm H 2 O (in. H 2 O) | Gas sample volume m 3 (ft 3) | Gas sample temperature at dry gas meter | Inlet °C (°F) | Outlet °C (°F) | Filter holder temperature °C (°F) | Temperature of gas leaving condenser or last impinger °C (°F)
 Total | | | | | | | Avg. | Avg. | |
 Average | | | | | | | Avg. | | |
 8.6.3 Clean the stack access ports prior to the test run to eliminate the chance of sampling deposited material. To begin sampling, remove the nozzle cap, verify that the probe heating system are at the specified temperature, and verify that the pitot tube and probe are properly positioned. Position the nozzle at the first traverse point, with the tip pointing directly into the gas stream. Immediately start the pump and adjust the flow to isokinetic conditions. Nomographs, which aid in the rapid adjustment of the isokinetic sampling rate without excessive computations, are available. These nomographs are designed for use when the Type S pitot tube coefficient is 0.84 ±0.02 and the stack gas equivalent density (dry molecular weight) is equal to 29 ±4. APTD-0576 details the procedure for using the nomographs. If the stack gas molecular weight and the pitot tube coefficient are outside the above ranges, do not use the nomographs unless appropriate steps are taken to compensate for the deviations.
@@ -3763,7 +3763,7 @@ Note: Two people should clean the probe in order to minimize sample losses. Betw
 10.1 Probe Nozzle: Probe nozzles shall be calibrated before their initial use in the field. Using a micrometer, measure the inside diameter of the nozzle to the nearest 0.025 mm (0.001 in). Make measurements at three separate places across the diameter and obtain the average of the measurements. The difference between the high and low numbers shall not exceed 0.1 mm (0.004 in). When the nozzle becomes nicked or corroded, it shall be repaired and calibrated, or replaced with a calibrated nozzle before use. Each nozzle must be permanently and uniquely identified.
 10.2 Pitot Tube: The Type S pitot tube assembly shall be calibrated according to the procedure outlined in Section 4 of EPA Method 2, or assigned a nominal coefficient of 0.84 if it is not visibly nicked or corroded and if it meets design and intercomponent spacing specifications.
 10.3 Metering System
-10.3.1 Before its initial use in the field, the metering system shall be calibrated according to the procedure outlined in APTD-0576. Instead of physically adjusting the dry-gas meter dial readings to correspond to the wet-test meter readings, calibration factors may be used to correct the gas meter dial readings mathematically to the proper values. Before calibrating the metering system, it is suggested that a leak-check be conducted. For metering systems having diaphragm pumps, the normal leak-check procedure will not delete leakages with the pump. For these cases, the following leak-check procedure will apply: Make a ten-minute calibration run at 0.00057 m3/min (0.02 cfm). At the end of the run, take the difference of the measured wet-test and dry-gas meter volumes and divide the difference by 10 to get the leak rate. The leak rate should not exceed 0.00057 m3/min (0.02 cfm).
+10.3.1 Before its initial use in the field, the metering system shall be calibrated according to the procedure outlined in APTD-0576. Instead of physically adjusting the dry-gas meter dial readings to correspond to the wet-test meter readings, calibration factors may be used to correct the gas meter dial readings mathematically to the proper values. Before calibrating the metering system, it is suggested that a leak-check be conducted. For metering systems having diaphragm pumps, the normal leak-check procedure will not delete leakages with the pump. For these cases, the following leak-check procedure will apply: Make a ten-minute calibration run at 0.00057 m 3 /min (0.02 cfm). At the end of the run, take the difference of the measured wet-test and dry-gas meter volumes and divide the difference by 10 to get the leak rate. The leak rate should not exceed 0.00057 m 3 /min (0.02 cfm).
 10.3.2 After each field use, check the calibration of the metering system by performing three calibration runs at a single intermediate orifice setting (based on the previous field test). Set the vacuum at the maximum value reached during the test series. To adjust the vacuum, insert a valve between the wet-test meter and the inlet of the metering system. Calculate the average value of the calibration factor. If the calibration has changed by more than 5 percent, recalibrate the meter over the full range of orifice settings, as outlined in APTD-0576.
 10.3.3 Leak-check of metering system: The portion of the sampling train from the pump to the orifice meter (see Figure 1) should be leak-checked prior to initial use and after each shipment. Leakage after the pump will result in less volume being recorded than is actually sampled. Use the following procedure: Close the main valve on the meter box. Insert a one-hole rubber stopper with rubber tubing attached into the orifice exhaust pipe. Disconnect and vent the low side of the orifice manometer. Close off the low side orifice tap. Pressurize the system to 13-18 cm (5-7 in) water column by blowing into the rubber tubing. Pinch off the tubing and observe the manometer for 1 min. A loss of pressure on the manometer indicates a leak in the meter box. Leaks must be corrected.
 Note: If the dry-gas meter coefficient values obtained before and after a test series differ by >5 percent, either the test series must be voided or calculations for test series must be performed using whichever meter coefficient value (i.e., before or after) gives the lower value of total sample volume.
@@ -3792,25 +3792,25 @@ Carry out calculations, retaining at least one extra decimal figure beyond that 
 Total mg formaldehyde=
 ER14JN99.043
 Where:
-Cd = measured conc. formaldehyde, µg/ml
+C d = measured conc. formaldehyde, µg/ml
 V = total volume of stack sample, ml
 DF = dilution factor
 12.1.2 To determine the total formaldehyde in mg, use the following equation if biocide was used:
 Total mg formaldehyde=
 ER14JN99.044
 Where:
-Cd = measured conc. formaldehyde, µg/ml
+C d = measured conc. formaldehyde, µg/ml
 V = total volume of stack sample, ml
 B = total volume of biocide added to sample, ml
 DF = dilution factor
-12.2 Formaldehyde concentration (mg/m3) in stack gas. Determine the formaldehyde concentration (mg/m3) in the stack gas using the following equation: Formaldehyde concentration (mg/m3) =
+12.2 Formaldehyde concentration (mg/m 3) in stack gas. Determine the formaldehyde concentration (mg/m 3) in the stack gas using the following equation: Formaldehyde concentration (mg/m 3) =
 ER14JN99.045
 Where:
-K = 35.31 cu ft/m3 for Vm (std) in English units, or
-K = 1.00 m3/m3 for Vm (std) in metric units
-Vm (std) = volume of gas sample measured by a dry gas meter, corrected to standard conditions, dscm (dscf)
+K = 35.31 cu ft/m 3 for V m (std) in English units, or
+K = 1.00 m 3 /m 3 for V m (std) in metric units
+V m (std) = volume of gas sample measured by a dry gas meter, corrected to standard conditions, dscm (dscf)
 12.3 Average dry gas meter temperature and average orifice pressure drop are obtained from the data sheet.
-12.4 Dry Gas Volume: Calculate Vm (std) and adjust for leakage, if necessary, using the equation in Section 6.3 of EPA Method 5, 40 CFR part 60, appendix A.
+12.4 Dry Gas Volume: Calculate V m (std) and adjust for leakage, if necessary, using the equation in Section 6.3 of EPA Method 5, 40 CFR part 60, appendix A.
 12.5 Volume of Water Vapor and Moisture Content: Calculated the volume of water vapor and moisture content from equations 5-2 and 5-3 of EPA Method 5.
 13.0 Method Performance
 The precision of this method is estimated to be better than ±5 percent, expressed as ±the percent relative standard deviation.
@@ -3832,22 +3832,22 @@ Phenol 108-95-2
 1.2 Applicability
 1.2.1 This method is applicable for the determination of formaldehyde, phenol, methanol, carbonyl sulfide (COS) and carbon monoxide (CO) concentrations in controlled and uncontrolled emissions from manufacturing processes using phenolic resins. The compounds are analyzed in the mid-infrared spectral region (about 400 to 4000 cm−1 or 25 to 2.5 µm). Suggested analytical regions are given below (Table 1). Slight deviations from these recommended regions may be necessary due to variations in moisture content and ammonia concentration from source to source.
 Table 1—Example Analytical Regions
-Compound | Analytical region (cm−1)FLm − FUm | Potential interferants
+Compound | Analytical region (cm−1) FL m − FU m | Potential interferants
 Formaldehyde | 2840.93−2679.83 | Water, Methane.
 Phenol | 1231.32−1131.47 | Water, Ammonia, Methane.
 Methanol | 1041.56−1019.95 | Water, Ammonia.
-COS a | 2028.4−2091.9 | Water, CO2 CO.
-CO a | 2092.1−2191.8 | Water, CO2, COS.
-a Suggested analytical regions assume about 15 percent moisture and CO2, and that COS and CO have about the same absorbance (in the range of 10 to 50 ppm). If CO and COS are hundreds of ppm or higher, then CO2 and moisture interference is reduced. If CO or COS is present at high concentration and the other at low concentration, then a shorter cell pathlength may be necessary to measure the high concentration component.
+COS a | 2028.4−2091.9 | Water, CO 2 CO.
+CO a | 2092.1−2191.8 | Water, CO 2, COS.
+a Suggested analytical regions assume about 15 percent moisture and CO 2, and that COS and CO have about the same absorbance (in the range of 10 to 50 ppm). If CO and COS are hundreds of ppm or higher, then CO 2 and moisture interference is reduced. If CO or COS is present at high concentration and the other at low concentration, then a shorter cell pathlength may be necessary to measure the high concentration component.
 1.2.2 This method does not apply when: (a) Polymerization of formaldehyde occurs, (b) moisture condenses in either the sampling system or the instrumentation, and (c) when moisture content of the gas stream is so high relative to the analyte concentrations that it causes severe spectral interference.
 1.3 Method Range and Sensitivity
 1.3.1 The analytical range is a function of instrumental design and composition of the gas stream. Theoretical detection limits depend, in part, on (a) the absorption coefficient of the compound in the analytical frequency region, (b) the spectral resolution, (c) interferometer sampling time, (d) detector sensitivity and response, and (e) absorption pathlength.
 1.3.2 Practically, there is no upper limit to the range. The practical lower detection limit is usually higher than the theoretical value, and depends on (a) moisture content of the flue gas, (b) presence of interferants, and (c) losses in the sampling system. In general, a 22 meter pathlength cell in a suitable sampling system can achieve practical detection limits of 1.5 ppm for three compounds (formaldehyde, phenol, and methanol) at moisture levels up to 15 percent by volume. Sources with uncontrolled emissions of CO and COS may require a 4 meter pathlength cell due to high concentration levels. For these two compounds, make sure absorbance of highest concentration component is <1.0.
 1.4 Data Quality Objectives
-1.4.1 In designing or configuring the system, the analyst first sets the data quality objectives, i.e., the desired lower detection limit (DLi) and the desired analytical uncertainty (AUi) for each compound. The instrumental parameters (factors b, c, d, and e in Section 1.3.1) are then chosen to meet these requirements, using Appendix D of the FTIR Protocol.
-1.4.2 Data quality for each application is determined, in part, by measuring the RMS (Root Mean Square) noise level in each analytical spectral region (Appendix C of the FTIR Protocol). The RMS noise is defined as the RMSD (Root Mean Square Deviation) of the absorbance values in an analytical region from the mean absorbance value of the region. Appendix D of the FTIR Protocol defines the MAUim (minimum analyte uncertainty of the ith analyte in the mth analytical region). The MAU is the minimum analyte concentration for which the analytical uncertainty limit (AUi) can be maintained: if the measured analyte concentration is less than MAUi, then data quality is unacceptable. Table 2 gives some example DL and AU values along with calculated areas and MAU values using the protocol procedures.
+1.4.1 In designing or configuring the system, the analyst first sets the data quality objectives, i.e., the desired lower detection limit (DL i) and the desired analytical uncertainty (AU i) for each compound. The instrumental parameters (factors b, c, d, and e in Section 1.3.1) are then chosen to meet these requirements, using Appendix D of the FTIR Protocol.
+1.4.2 Data quality for each application is determined, in part, by measuring the RMS (Root Mean Square) noise level in each analytical spectral region (Appendix C of the FTIR Protocol). The RMS noise is defined as the RMSD (Root Mean Square Deviation) of the absorbance values in an analytical region from the mean absorbance value of the region. Appendix D of the FTIR Protocol defines the MAU im (minimum analyte uncertainty of the i th analyte in the m th analytical region). The MAU is the minimum analyte concentration for which the analytical uncertainty limit (AU i) can be maintained: if the measured analyte concentration is less than MAU i, then data quality is unacceptable. Table 2 gives some example DL and AU values along with calculated areas and MAU values using the protocol procedures.
 Table 2—Example Pre-Test Protocol Calculations
-Protocol value | Form | Phenol | Methanol | Protocolappendix
+Protocol value | Form | Phenol | Methanol | Protocol appendix
 Reference concentration a (ppm-meters)/K | 3.016 | 3.017 | 5.064 |
 Reference Band Area | 8.2544 | 16.6417 | 4.9416 | B
 DL (ppm-meters)/K | 0.1117 | 0.1117 | 0.1117 | B
@@ -3870,10 +3870,10 @@ a Concentration units are: ppm concentration of the reference sample (ASC), time
 2.2.1 Flue gas is continuously extracted from the source, and the gas or a portion of the gas is conveyed to the FTIR gas cell, where a spectrum of the flue gas is recorded. Absorbance band intensities are related to sample concentrations by Beer's Law.
 ER14JN99.046
 Where:
-An = absorbance of the ith component at the given frequency, ν.
-a = absorption coefficient of the ith component at the frequency, ν.
+A n = absorbance of the i th component at the given frequency, ν.
+a = absorption coefficient of the i th component at the frequency, ν.
 b = path length of the cell.
-c = concentration of the ith compound in the sample at frequency ν.
+c = concentration of the i th compound in the sample at frequency ν.
 2.2.2 After identifying a compound from the infrared spectrum, its concentration is determined by comparing band intensities in the sample spectrum to band intensities in "reference spectra" of the formaldehyde, phenol, methanol, COS and CO. These reference spectra are available in a permanent soft copy from the EPA spectral library on the EMTIC bulletin board. The source may also prepare reference spectra according to Section 4.5 of the FTIR Protocol.
 Note: Reference spectra not prepared according to the FTIR Protocol are not acceptable for use in this test method. Documentation detailing the FTIR Protocol steps used in preparing any non-EPA reference spectra shall be included in each test report submitted by the source.
 2.3 Operator Requirements. The analyst must have some knowledge of source sampling and of infrared spectral patterns to operate the sampling system and to choose a suitable instrument configuration. The analyst should also understand FTIR instrument operation well enough to choose an instrument configuration consistent with the data quality objectives.
@@ -3904,32 +3904,32 @@ ER14JN99.052
 7.0 Reagents and Standards
 7.1 Ethylene (Calibration Transfer Standard). Obtain NIST traceable (or Protocol) cylinder gas.
 7.2 Nitrogen. Ultra high purity (UHP) grade.
-7.3 Reference Spectra. Obtain reference spectra for the target pollutants at concentrations that bracket (in ppm-meter/K) the emission source levels. Also, obtain reference spectra for SF6 and ethylene. Suitable concentrations are 0.0112 to 0.112 (ppm-meter)/K for SF6 and 5.61 (ppm-meter)/K or less for ethylene. The reference spectra shall meet the criteria for acceptance outlined in Section 2.2.2. The optical density (ppm-meters/K) of the reference spectrum must match the optical density of the sample spectrum within (less than) 25 percent.
+7.3 Reference Spectra. Obtain reference spectra for the target pollutants at concentrations that bracket (in ppm-meter/K) the emission source levels. Also, obtain reference spectra for SF 6 and ethylene. Suitable concentrations are 0.0112 to 0.112 (ppm-meter)/K for SF 6 and 5.61 (ppm-meter)/K or less for ethylene. The reference spectra shall meet the criteria for acceptance outlined in Section 2.2.2. The optical density (ppm-meters/K) of the reference spectrum must match the optical density of the sample spectrum within (less than) 25 percent.
 8.0 Sample Collection, Preservation, and Storage
 Sampling should be performed in the following sequence: Collect background, collect CTS spectrum, collect samples, collect post-test CTS spectrum, verify that two copies of all data were stored on separate computer media.
-8.1 Pretest Preparations and Evaluations. Using the procedure in Section 4.0 of the FTIR Protocol, determine the optimum sampling system configuration for sampling the target pollutants. Table 2 gives some example values for AU, DL, and MAU. Based on a study (Reference 1), an FTIR system using 1 cm−1 resolution, 22 meter path length, and a broad band MCT detector was suitable for meeting the requirements in Table 2. Other factors that must be determined are:
-a. Test requirements: AUi, CMAXi, DLi, OFUi, and tAN for each.
+8.1 Pretest Preparations and Evaluations. Using the procedure in Section 4.0 of the FTIR Protocol, determine the optimum sampling system configuration for sampling the target pollutants. Table 2 gives some example values for AU, DL, and MAU. Based on a study (Reference 1), an FTIR system using 1 cm −1 resolution, 22 meter path length, and a broad band MCT detector was suitable for meeting the requirements in Table 2. Other factors that must be determined are:
+a. Test requirements: AU i, CMAX i, DL i, OFU i, and t AN for each.
 b. Interferants: See Table 1.
-c. Sampling system: LS′, Pmin, PS′, TS′, tSS, VSS; fractional error, MIL.
-d. Analytical regions: 1 through Nm, FLm, FCm, and FUm, plus interferants, FFUm, FFLm, wavenumber range FNU to FNL. See Tables 1 and 2.
+c. Sampling system: L S ′, P min, P S ′, T S ′, t SS, V SS; fractional error, MIL.
+d. Analytical regions: 1 through N m, FL m, FC m, and FU m, plus interferants, FFU m, FFL m, wavenumber range FNU to FNL. See Tables 1 and 2.
 8.1.1 If necessary, sample and acquire an initial spectrum. Then determine the proper operational pathlength of the instrument to obtain non-saturated absorbances of the target analytes.
 8.1.2 Set up the sampling train as shown in Figure 1.
 8.2 Sampling System Leak-check. Leak-check from the probe tip to pump outlet as follows: Connect a 0- to 250-mL/min rate meter (rotameter or bubble meter) to the outlet of the pump. Close off the inlet to the probe, and note the leakage rate. The leakage rate shall be ≤200 mL/min.
 8.3 Analytical System Leak-check.
-8.3.1 For the evacuated sample technique, close the valve to the FTIR cell, and evacuate the absorption cell to the minimum absolute pressure Pmin. Close the valve to the pump, and determine the change in pressure ΔPv after 2 minutes.
-8.3.2 For both the evacuated sample and purging techniques, pressurize the system to about 100 mmHg above atmospheric pressure. Isolate the pump and determine the change in pressure ΔPp after 2 minutes.
-8.3.3 Measure the barometric pressure, Pb in mmHg.
-8.3.4 Determine the percent leak volume %VL for the signal integration time tSS and for ΔPmax, i.e., the larger of ΔPv or ΔPp, as follows:
+8.3.1 For the evacuated sample technique, close the valve to the FTIR cell, and evacuate the absorption cell to the minimum absolute pressure P min. Close the valve to the pump, and determine the change in pressure ΔP v after 2 minutes.
+8.3.2 For both the evacuated sample and purging techniques, pressurize the system to about 100 mmHg above atmospheric pressure. Isolate the pump and determine the change in pressure ΔP p after 2 minutes.
+8.3.3 Measure the barometric pressure, P b in mmHg.
+8.3.4 Determine the percent leak volume %V L for the signal integration time t SS and for ΔP max, i.e., the larger of ΔP v or ΔP p, as follows:
 ER14JN99.047
 Where:
 50 = 100% divided by the leak-check time of 2 minutes.
-8.3.5 Leak volumes in excess of 4 percent of the sample system volume VSS are unacceptable.
-8.4 Background Spectrum. Evacuate the gas cell to ≤5 mmHg, and fill with dry nitrogen gas to ambient pressure. Verify that no significant amounts of absorbing species (for example water vapor and CO2) are present. Collect a background spectrum, using a signal averaging period equal to or greater than the averaging period for the sample spectra. Assign a unique file name to the background spectrum. Store the spectra of the background interferogram and processed single-beam background spectrum on two separate computer media (one is used as the back-up). If continuous sampling will be used during sample collection, collect the background spectrum with nitrogen gas flowing through the cell at the same pressure and temperature as will be used during sampling.
+8.3.5 Leak volumes in excess of 4 percent of the sample system volume V SS are unacceptable.
+8.4 Background Spectrum. Evacuate the gas cell to ≤5 mmHg, and fill with dry nitrogen gas to ambient pressure. Verify that no significant amounts of absorbing species (for example water vapor and CO 2) are present. Collect a background spectrum, using a signal averaging period equal to or greater than the averaging period for the sample spectra. Assign a unique file name to the background spectrum. Store the spectra of the background interferogram and processed single-beam background spectrum on two separate computer media (one is used as the back-up). If continuous sampling will be used during sample collection, collect the background spectrum with nitrogen gas flowing through the cell at the same pressure and temperature as will be used during sampling.
 8.5 Pre-Test Calibration Transfer Standard. Evacuate the gas cell to ≤5 mmHg absolute pressure, and fill the FTIR cell to atmospheric pressure with the CTS gas. Or, purge the cell with 10 cell volumes of CTS gas. Record the spectrum. If continuous sampling will be used during sample collection, collect the CTS spectrum with CTS gas flowing through the cell at the same pressure and temperature as will be used during sampling.
 8.6 Samples
 8.6.1 Evacuated Samples. Evacuate the absorbance cell to ≤5 mmHg absolute pressure. Fill the cell with flue gas to ambient pressure and record the spectrum. Before taking the next sample, evacuate the cell until no further evidence of absorption exists. Repeat this procedure to collect at least 8 separate spectra (samples) in 1 hour.
 8.6.2 Purge Sampling. Purge the FTIR cell with 10 cell volumes of flue gas and at least for about 10 minutes. Discontinue the gas cell purge, isolate the cell, and record the sample spectrum and the pressure. Before taking the next sample, purge the cell with 10 cell volumes of flue gas.
-8.6.3 Continuous Sampling. Spectra can be collected continuously while the FTIR cell is being purged. The sample integration time, tss, the sample flow rate through the FTIR gas cell, and the total run time must be chosen so that the collected data consist of at least 10 spectra with each spectrum being of a separate cell volume of flue gas. More spectra can be collected over the run time and the total run time (and number of spectra) can be extended as well.
+8.6.3 Continuous Sampling. Spectra can be collected continuously while the FTIR cell is being purged. The sample integration time, t ss, the sample flow rate through the FTIR gas cell, and the total run time must be chosen so that the collected data consist of at least 10 spectra with each spectrum being of a separate cell volume of flue gas. More spectra can be collected over the run time and the total run time (and number of spectra) can be extended as well.
 8.7 Sampling QA, Data Storage and Reporting
 8.7.1 Sample integration times should be sufficient to achieve the required signal-to-noise ratios. Obtain an absorbance spectrum by filling the cell with nitrogen. Measure the RMSD in each analytical region in this absorbance spectrum. Verify that the number of scans is sufficient to achieve the target MAU (Table 2).
 8.7.2 Identify all sample spectra with unique file names.
@@ -3948,7 +3948,7 @@ Follow the quality assurance procedures in the method, including the analysis of
 10.2 Absorbance Pathlength. Verify the absorbance path length by comparing CTS spectra to reference spectra of the calibration gas(es). See FTIR Protocol, Appendix E.
 10.3 Instrument Resolution. Measure the line width of appropriate CTS band(s) and compare to reference CTS spectra to verify instrumental resolution.
 10.4 Apodization Function. Choose appropriate apodization function. Determine any appropriate mathematical transformations that are required to correct instrumental errors by measuring the CTS. Any mathematical transformations must be documented and reproducible.
-10.5 FTIR Cell Volume. Evacuate the cell to ≤5 mmHg. Measure the initial absolute temperature (Ti) and absolute pressure (Pi). Connect a wet test meter (or a calibrated dry gas meter), and slowly draw room air into the cell. Measure the meter volume (Vm), meter absolute temperature (Tm), and meter absolute pressure (Pm), and the cell final absolute temperature (Tf) and absolute pressure (Pf). Calculate the FTIR cell volume Vss, including that of the connecting tubing, as follows:
+10.5 FTIR Cell Volume. Evacuate the cell to ≤5 mmHg. Measure the initial absolute temperature (T i) and absolute pressure (P i). Connect a wet test meter (or a calibrated dry gas meter), and slowly draw room air into the cell. Measure the meter volume (V m), meter absolute temperature (T m), and meter absolute pressure (P m), and the cell final absolute temperature (T f) and absolute pressure (P f). Calculate the FTIR cell volume V ss, including that of the connecting tubing, as follows:
 ER14JN99.048
 As an alternative to the wet test meter/calibrated dry gas meter procedure, measure the inside dimensions of the cell cylinder and calculate its volume.
 11.0 Procedure
@@ -3958,12 +3958,12 @@ a. Data analysis is performed using appropriate reference spectra whose concentr
 b. Correct the calculated concentrations in sample spectra for differences in absorption pathlength between the reference and sample spectra by:
 ER14JN99.049
 Where:
-Ccorr = The pathlength corrected concentration.
-Ccalc = The initial calculated concentration (output of the Multicomp program designed for the compound).
-Lr = The pathlength associated with the reference spectra.
-Ls = The pathlength associated with the sample spectra.
-Ts = The absolute temperature (K) of the sample gas.
-Tr = The absolute gas temperature (K) at which reference spectra were recorded.
+C corr = The pathlength corrected concentration.
+C calc = The initial calculated concentration (output of the Multicomp program designed for the compound).
+L r = The pathlength associated with the reference spectra.
+L s = The pathlength associated with the sample spectra.
+T s = The absolute temperature (K) of the sample gas.
+T r = The absolute gas temperature (K) at which reference spectra were recorded.
 13.0 Reporting and Recordkeeping
 All interferograms used in determining source concentration shall be stored for the period of time required in the applicable regulation. The Administrator has the option of requesting the interferograms recorded during the test in electronic form as part of the test report.
 14.0 Method Performance
@@ -4002,10 +4002,10 @@ OPC zero count | Each Test. OPC samples HEPA-filtered air | <50 counts per minut
 OPC sizing accuracy check | Daily. Sample aerosolized PSL spheres | Peak of distribution should be in correct OPC channel.
 Minimum counts per channel for challenge aerosol | Each Test | Minimum total of 500 particle counts per channel.
 Maximum particle concentration | Each Test. Needed to ensure OPC is not overloaded | <10% of manufacturer's claimed upper limit corresponding to a 10% count error.
-Standard Deviation of Penetration | Computed for each test based on the CV of the upstream and downstream counts | <0.10 for 0.3 to 3 µm diameter.<0.30 for >3 µm diameter.
+Standard Deviation of Penetration | Computed for each test based on the CV of the upstream and downstream counts | <0.10 for 0.3 to 3 µm diameter. <0.30 for >3 µm diameter.
 0% Penetration | Monthly | <0.01.
-100% Penetration—KCl | Triplicate tests performed immediately before, during, or after triplicate arrestor tests | 0.3 to 1 µm: 0.90 to 1.10.1 to 3 µm: 0.75 to 1.25. 3 to 10 µm: 0.50 to 1.50.
-100% Penetration—Oleic Acid | Triplicate tests performed immediately before, during, or after triplicate arrestor tests | 0.3 to 1 µm: 0.90 to 1.10.1 to 3 µm: 0.75 to 1.25. 3 to 10 µm: 0.50 to 1.50.
+100% Penetration—KCl | Triplicate tests performed immediately before, during, or after triplicate arrestor tests | 0.3 to 1 µm: 0.90 to 1.10. 1 to 3 µm: 0.75 to 1.25. 3 to 10 µm: 0.50 to 1.50.
+100% Penetration—Oleic Acid | Triplicate tests performed immediately before, during, or after triplicate arrestor tests | 0.3 to 1 µm: 0.90 to 1.10. 1 to 3 µm: 0.75 to 1.25. 3 to 10 µm: 0.50 to 1.50.
 6.2 Aerosol Generator. The aerosol generator is used to produce a stable aerosol covering the particle size range from 0.3 to 10 µm diameter. The generator used in the development of this method consists of an air atomizing nozzle positioned at the top of a 0.30-m (12-in.) diameter, 1.3-m (51-in.) tall, acrylic, transparent, spray tower. This tower allows larger sized particles, which would otherwise foul the test duct and sample lines, to fall out of the aerosol. It also adds drying air to ensure that the KCl droplets dry to solid salt particles. After generation, the aerosol passes through an aerosol neutralizer (Kr85 radioactive source) to neutralize any electrostatic charge on the aerosol (electrostatic charge is an unavoidable consequence of most aerosol generation methods). To improve the mixing of the aerosol with the air stream, the aerosol is injected counter to the airflow. Generators of other designs may be used, but they must produce a stable aerosol concentration over the 0.3 to 10 µm diameter size range; provide a means of ensuring the complete drying of the KCl aerosol; and utilize a charge neutralizer to neutralize any electrostatic charge on the aerosol. The resultant challenge aerosol must meet the minimum count per channel and maximum concentration criteria of Table 319-1.
 6.3 Installation of Paint Arrestor. The paint arrestor is to be installed in the test duct in a manner that precludes air bypassing the arrestor. Since arrestor media are often sold unmounted, a mounting frame may be used to provide back support for the media in addition to sealing it into the duct. The mounting frame for 20 in. × 20 in. arrestors will have minimum open internal dimensions of 18 in. square. Mounting frames for 24 in. × 24 in. arrestors will have minimum open internal dimensions of 22 in. square. The open internal dimensions of the mounting frame shall not be less than 75 percent of the approach duct dimensions.
 6.4 Optical Particle Counter. The upstream and downstream aerosol concentrations are measured with a high-resolution optical particle counter (OPC). To ensure comparability of test results, the OPC shall utilize an optical design based on wide-angle light scattering and provided a minimum of 12 contiguous particle sizing channels from 0.3 to 10 µm diameter (based on response to PSL) where, for each channel, the ratio of the diameter corresponding to the upper channel bound to the lower channel bound must not exceed 1.5.
@@ -4016,7 +4016,7 @@ Standard Deviation of Penetration | Computed for each test based on the CV of th
 7.0 Reagents and Standards
 7.1 The liquid test aerosol is reagent grade, 98 percent pure, oleic acid (Table 319-2). The solid test aerosol is KCl aerosolized from a solution of KCl in water. In addition to the test aerosol, a calibration aerosol of monodisperse polystyrene latex (PSL) spheres is used to verify the calibration of the OPC.
 Table 319-2—Properties of the Test and Calibration Aerosols
-| Refractive index | Density,g/cm 3 | Shape
+| Refractive index | Density, g/cm 3 | Shape
 Oleic Acid (liquid-phase challenge aerosol) | 1.46 nonabsorbing | 0.89 | Spherical.
 KCl (solid-phase challenge aerosol) | 1.49 | 1.98 | Cubic or agglomerated cubes.
 PSL (calibration aerosol) | 1.59 nonabsorbing | 1.05 | Spherical.
@@ -4030,14 +4030,14 @@ For a properly operating system, the standard deviation of the penetration is <0
 9.3 Data Quality Objectives (DQO).
 9.3.1 Fractional Penetration. From the triplicate tests of each paint arrestor model, the standard deviation for the penetration measurements at each particle size (i.e., for each sizing channel of the OPC) is computed as:
 ER27MR98.010
-where Pi represents an individual penetration measurement, and P the average of the 3 (n = 3) individual measurements.
+where P i represents an individual penetration measurement, and P the average of the 3 (n = 3) individual measurements.
 9.3.2 Bias of the fractional penetration values is determined from triplicate no-filter and HEPA filter tests. These tests determine the measurement bias at 100 percent penetration and 0 percent penetration, respectively.
 9.3.3 PSL-Equivalent Light Scattering Diameter. The precision and bias of the OPC sizing determination are based on sampling a known diameter of PSL and noting whether the particle counts peak in the correct channel of the OPC. This is a pass/fail measurement with no calculations involved.
 9.3.4 Airflow. The precision of the measurement must be within 5 percent of the set point.
 10.0 Calibration and Standardization
 10.1 Optical Particle Counter. The OPC must have an up-to-date factory calibration. Check the OPC zero at the beginning and end of each test by sampling HEPA-filtered air. Verify the sizing accuracy on a daily basis (for days when tests are performed) with 1-size PSL spheres.
 10.2 Airflow Measurement. Airflow measurement devices must have an accuracy of 5 percent or better. Manometers used in conjunction with the orifice plate must be inspected prior to use for proper level, zero, and mechanical integrity. Tubing connections to the manometer must be free from kinks and have secure connections.
-10.3 Pressure Drop. Measure pressure drop across the paint arrestor with an inclined manometer readable to within 0.01 in. H2O. Prior to use, the level and zero of the manometer, and all tubing connections, must be inspected and adjusted as needed.
+10.3 Pressure Drop. Measure pressure drop across the paint arrestor with an inclined manometer readable to within 0.01 in. H 2 O. Prior to use, the level and zero of the manometer, and all tubing connections, must be inspected and adjusted as needed.
 11.0 Procedure
 11.1 Filtration Efficiency. For both the oleic acid and KCl challenges, this procedure is performed in triplicate using a new arrestor for each test.
 11.1.1 General Information and Test Duct Preparation
@@ -4069,8 +4069,8 @@ Aerosol Generator: (record all operating parameters)
 Test Aerosol:
 (Oleic acid or KCl)
 Arrestor:
-Pressure drop: at start ___ in. H2O
-at end ___ in. H2O
+Pressure drop: at start ___ in. H 2 O
+at end ___ in. H 2 O
 Condition of arrestor at end of test (note any physical deterioration):
 Figure 319-2. Test Run Sheet
 Other report formats which contain the same information are acceptable.
@@ -4119,17 +4119,17 @@ Other report formats which contain the same information are acceptable.
 Nomenclature
 U = Upstream particle count
 D = Downstream particle count
-Ub = Upstream background count
-Db = Downstream background count
-P100 = 100 percent penetration value determined immediately prior to the arrestor test computed for each channel as:
+U b = Upstream background count
+D b = Downstream background count
+P 100 = 100 percent penetration value determined immediately prior to the arrestor test computed for each channel as:
 ER27MR98.011
-P = Penetration of the arrestor corrected for P100
+P = Penetration of the arrestor corrected for P 100
 ρ= sample standard deviation
 CV = coefficient of variation = ρ/mean
 E = Efficiency.
 Overbar denotes arithmetic mean of quantity.
 Analysis of each test involves the following quantities:
-• P100 value for each sizing channel from the 100 percent penetration control test,
+• P 100 value for each sizing channel from the 100 percent penetration control test,
 • 2 upstream background values,
 • 2 downstream background values,
 • 10 upstream values with aerosol generator on, and
@@ -4138,13 +4138,13 @@ Using the values associated with each sizing channel, the penetration associated
 ER27MR98.012
 ER27MR98.013
 Most often, the background levels are small compared to the values when the aerosol generator is on.
-12.3 The relationship between the physical diameter (DPhysical) as measured by the OPC to the aerodynamic diameter (DAero) is given by:
+12.3 The relationship between the physical diameter (D Physical) as measured by the OPC to the aerodynamic diameter (D Aero) is given by:
 ER27MR98.014
 Where:
-pO = unit density of 1 g/cm3.
-pParticle = the density of the particle, 0.89 g/cm3 for oleic acid.
-CCFPhysical = the Cunningham Correction Factor at DPhysical.
-CCFAero = the Cunningham Correction Factor at DAero.
+p O = unit density of 1 g/cm 3.
+p Particle = the density of the particle, 0.89 g/cm 3 for oleic acid.
+CCF Physical = the Cunningham Correction Factor at D Physical.
+CCF Aero = the Cunningham Correction Factor at D Aero.
 12.4 Presentation of Results. For a given arrestor, results will be presented for:
 • Triplicate arrestor tests with the liquid-phase challenge aerosol,
 • Triplicate arrestor tests with the solid-phase challenge aerosol,
@@ -4167,7 +4167,7 @@ Persons unfamiliar with basic elements of FTIR spectroscopy should not attempt t
 Note: Sample conditioning systems may be used providing the method validation requirements in Sections 9.2 and 13.0 of this method are met.
 1.1 Scope and Applicability.
 1.1.1 Analytes. Analytes include hazardous air pollutants (HAPs) for which EPA reference spectra have been developed. Other compounds can also be measured with this method if reference spectra are prepared according to section 4.6 of the protocol.
-1.1.2 Applicability. This method applies to the analysis of vapor phase organic or inorganic compounds which absorb energy in the mid-infrared spectral region, about 400 to 4000 cm−1 (25 to 2.5 µm). This method is used to determine compound-specific concentrations in a multi-component vapor phase sample, which is contained in a closed-path gas cell. Spectra of samples are collected using double beam infrared absorption spectroscopy. A computer program is used to analyze spectra and report compound concentrations.
+1.1.2 Applicability. This method applies to the analysis of vapor phase organic or inorganic compounds which absorb energy in the mid-infrared spectral region, about 400 to 4000 cm −1 (25 to 2.5 µm). This method is used to determine compound-specific concentrations in a multi-component vapor phase sample, which is contained in a closed-path gas cell. Spectra of samples are collected using double beam infrared absorption spectroscopy. A computer program is used to analyze spectra and report compound concentrations.
 1.2 Method Range and Sensitivity. Analytical range and sensitivity depend on the frequency-dependent analyte absorptivity, instrument configuration, data collection parameters, and gas stream composition. Instrument factors include: (a) spectral resolution, (b) interferometer signal averaging time, (c) detector sensitivity and response, and (d) absorption path length.
 1.2.1 For any optical configuration the analytical range is between the absorbance values of about.01 (infrared transmittance relative to the background = 0.98) and 1.0
 (T = 0.1). (For absorbance >1.0 the relation between absorbance and concentration may not be linear.)
@@ -4178,10 +4178,10 @@ Note: Sample conditioning systems may be used providing the method validation re
 1.2.3.2 The analyte absorbance for a given concentration may be increased by increasing the cell path length or (to some extent) using a higher resolution. Both modifications also cause a corresponding increased absorbance for all compounds in the sample, and a decrease in the signal throughput. For this reason the practical lower detection range (quantitation limit) usually depends on sample characteristics such as moisture content of the gas, the presence of other interferants, and losses in the sampling system.
 1.3 Sensitivity. The limit of sensitivity for an optical configuration and integration time is determined using appendix D of the Protocol: Minimum Analyte Uncertainty, (MAU). The MAU depends on the RMSD noise in an analytical region, and on the absorptivity of the analyte in the same region.
 1.4 Data Quality. Data quality shall be determined by executing Protocol pre-test procedures in appendices B to H of the protocol and post-test procedures in appendices I and J of the protocol.
-1.4.1 Measurement objectives shall be established by the choice of detection limit (DLi) and analytical uncertainty (AUi) for each analyte.
-1.4.2 An instrumental configuration shall be selected. An estimate of gas composition shall be made based on previous test data, data from a similar source or information gathered in a pre-test site survey. Spectral interferants shall be identified using the selected DLi and AUi and band areas from reference spectra and interferant spectra. The baseline noise of the system shall be measured in each analytical region to determine the MAU of the instrument configuration for each analyte and interferant (MIUi).
+1.4.1 Measurement objectives shall be established by the choice of detection limit (DL i) and analytical uncertainty (AU i) for each analyte.
+1.4.2 An instrumental configuration shall be selected. An estimate of gas composition shall be made based on previous test data, data from a similar source or information gathered in a pre-test site survey. Spectral interferants shall be identified using the selected DL i and AU i and band areas from reference spectra and interferant spectra. The baseline noise of the system shall be measured in each analytical region to determine the MAU of the instrument configuration for each analyte and interferant (MIU i).
 1.4.3 Data quality for the application shall be determined, in part, by measuring the RMS (root mean square) noise level in each analytical spectral region (appendix C of the Protocol). The RMS noise is defined as the RMSD of the absorbance values in an analytical region from the mean absorbance value in the region.
-1.4.4 The MAU is the minimum analyte concentration for which the AUi can be maintained; if the measured analyte concentration is less than MAUi then data quality are unacceptable.
+1.4.4 The MAU is the minimum analyte concentration for which the AU i can be maintained; if the measured analyte concentration is less than MAU i then data quality are unacceptable.
 2.0 Summary of Method
 2.1 Principle. References 4 through 7 provide background material on infrared spectroscopy and quantitative analysis. A summary is given in this section.
 2.1.1 Infrared absorption spectroscopy is performed by directing an infrared beam through a sample to a detector. The frequency-dependent infrared absorbance of the sample is measured by comparing this detector signal (single beam spectrum) to a signal obtained without a sample in the beam path (background).
@@ -4193,10 +4193,10 @@ Note: Sample conditioning systems may be used providing the method validation re
 2.2.1 The digitized infrared spectrum of the sample in the FTIR gas cell is measured and stored on a computer. Absorbance band intensities in the spectrum are related to sample concentrations by what is commonly referred to as Beer's Law.
 ER14JN99.003
 Where:
-Ai = absorbance at a given frequency of the ith sample component.
-ai = absorption coefficient (absorptivity) of the ith sample component.
+A i = absorbance at a given frequency of the ith sample component.
+a i = absorption coefficient (absorptivity) of the ith sample component.
 b = path length of the cell.
-ci = concentration of the ith sample component.
+c i = concentration of the ith sample component.
 2.2.2 Analyte spiking is used for quality assurance (QA). In this procedure (section 8.6.2 of this method) an analyte is spiked into the gas stream at the back end of the sample probe. Analyte concentrations in the spiked samples are compared to analyte concentrations in unspiked samples. Since the concentration of the spike is known, this procedure can be used to determine if the sampling system is removing the spiked analyte(s) from the sample stream.
 2.3 Reference Spectra Availability. Reference spectra of over 100 HAPs are available in the EPA FTIR spectral library on the EMTIC (Emission Measurement Technical Information Center) computer bulletin board service and at internet address http://info.arnold.af.mil/epa/welcome.htm. Reference spectra for HAPs, or other analytes, may also be prepared according to section 4.6 of the Protocol.
 2.4 Operator Requirements. The FTIR analyst shall be trained in setting up the instrumentation, verifying the instrument is functioning properly, and performing routine maintenance. The analyst must evaluate the initial sample spectra to determine if the sample matrix is consistent with pre-test assumptions and if the instrument configuration is suitable. The analyst must be able to modify the instrument configuration, if necessary.
@@ -4237,7 +4237,7 @@ See appendix A of the Protocol for definitions relating to infrared spectroscopy
 Interferences are divided into two classifications: analytical and sampling.
 4.1 Analytical Interferences. An analytical interference is a spectral feature that complicates (in extreme cases may prevent) the analysis of an analyte. Analytical interferences are classified as background or spectral interference.
 4.1.1 Background Interference. This results from a change in throughput relative to the single beam background. It is corrected by collecting a new background and proceeding with the test. In severe instances the cause must be identified and corrected. Potential causes include: (1) Deposits on reflective surfaces or transmitting windows, (2) changes in detector sensitivity, (3) a change in the infrared source output, or (4) failure in the instrument electronics. In routine sampling throughput may degrade over several hours. Periodically a new background must be collected, but no other corrective action will be required.
-4.1.2 Spectral Interference. This results from the presence of interfering compound(s) (interferant) in the sample. Interferant spectral features overlap analyte spectral features. Any compound with an infrared spectrum, including analytes, can potentially be an interferant. The Protocol measures absorbance band overlap in each analytical region to determine if potential interferants shall be classified as known interferants (FTIR Protocol, section 4.9 and appendix B). Water vapor and CO2 are common spectral interferants. Both of these compounds have strong infrared spectra and are present in many sample matrices at high concentrations relative to analytes. The extent of interference depends on the (1) interferant concentration, (2) analyte concentration, and (3) the degree of band overlap. Choosing an alternate analytical region can minimize or avoid the spectral interference. For example, CO2 interferes with the analysis of the 670 cm−1 benzene band. However, benzene can also be measured near 3000 cm−1 (with less sensitivity).
+4.1.2 Spectral Interference. This results from the presence of interfering compound(s) (interferant) in the sample. Interferant spectral features overlap analyte spectral features. Any compound with an infrared spectrum, including analytes, can potentially be an interferant. The Protocol measures absorbance band overlap in each analytical region to determine if potential interferants shall be classified as known interferants (FTIR Protocol, section 4.9 and appendix B). Water vapor and CO 2 are common spectral interferants. Both of these compounds have strong infrared spectra and are present in many sample matrices at high concentrations relative to analytes. The extent of interference depends on the (1) interferant concentration, (2) analyte concentration, and (3) the degree of band overlap. Choosing an alternate analytical region can minimize or avoid the spectral interference. For example, CO 2 interferes with the analysis of the 670 cm −1 benzene band. However, benzene can also be measured near 3000 cm −1 (with less sensitivity).
 4.2 Sampling System Interferences. These prevent analytes from reaching the instrument. The analyte spike procedure is designed to measure sampling system interference, if any.
 4.2.1 Temperature. A temperature that is too low causes condensation of analytes or water vapor. The materials of the sampling system and the FTIR gas cell usually set the upper limit of temperature.
 4.2.2 Reactive Species. Anything that reacts with analytes. Some analytes, like formaldehyde, polymerize at lower temperatures.
@@ -4268,37 +4268,37 @@ The equipment and supplies are based on the schematic of a sampling system shown
 6.17.1 The analyte spike procedure of section 9.2 of this method, the QA spike procedure of section 8.6.2 of this method, and the validation procedure of section 13 of this method demonstrate whether the sample conditioning affects analyte concentrations. Alternatively, measurements can be made with two parallel FTIR systems; one measuring conditioned sample, the other measuring unconditioned sample.
 6.17.2 Another option is sample dilution. The dilution factor measurement must be documented and accounted for in the reported concentrations. An alternative to dilution is to lower the sensitivity of the FTIR system by decreasing the cell path length, or to use a short-path cell in conjunction with a long path cell to measure more than one concentration range.
 7.0 Reagents and Standards
-7.1 Analyte(s) and Tracer Gas. Obtain a certified gas cylinder mixture containing all of the analyte(s) at concentrations within ±2 percent of the emission source levels (expressed in ppm-meter/K). If practical, the analyte standard cylinder shall also contain the tracer gas at a concentration which gives a measurable absorbance at a dilution factor of at least 10:1. Two ppm SF6 is sufficient for a path length of 22 meters at 250 °F.
+7.1 Analyte(s) and Tracer Gas. Obtain a certified gas cylinder mixture containing all of the analyte(s) at concentrations within ±2 percent of the emission source levels (expressed in ppm-meter/K). If practical, the analyte standard cylinder shall also contain the tracer gas at a concentration which gives a measurable absorbance at a dilution factor of at least 10:1. Two ppm SF 6 is sufficient for a path length of 22 meters at 250 °F.
 7.2 Calibration Transfer Standard(s). Select the calibration transfer standards (CTS) according to section 4.5 of the FTIR Protocol. Obtain a National Institute of Standards and Technology (NIST) traceable gravimetric standard of the CTS (±2 percent).
 7.3 Reference Spectra. Obtain reference spectra for each analyte, interferant, surrogate, CTS, and tracer. If EPA reference spectra are not available, use reference spectra prepared according to procedures in section 4.6 of the EPA FTIR Protocol.
 8.0 Sampling and Analysis Procedure
-Three types of testing can be performed: (1) Screening, (2) emissions test, and (3) validation. Each is defined in section 3 of this method. Determine the purpose(s) of the FTIR test. Test requirements include: (a) AUi, DLi, overall fractional uncertainty, OFUi, maximum expected concentration (CMAXi), and tAN for each, (b) potential interferants, (c) sampling system factors, e.g., minimum absolute cell pressure, (Pmin), FTIR cell volume (VSS), estimated sample absorption pathlength, LS′, estimated sample pressure, PS′, TS′, signal integration time (tSS), minimum instrumental linewidth, MIL, fractional error, and (d) analytical regions, e.g., m = 1 to M, lower wavenumber position, FLm, center wavenumber position, FCm, and upper wavenumber position, FUm, plus interferants, upper wavenumber position of the CTS absorption band, FFUm, lower wavenumber position of the CTS absorption band, FFLm, wavenumber range FNU to FNL. If necessary, sample and acquire an initial spectrum. From analysis of this preliminary spectrum determine a suitable operational path length. Set up the sampling train as shown in Figure 1 or use an appropriate alternative configuration. Sections 8.1 through 8.11 of this method provide guidance on pre-test calculations in the EPA protocol, sampling and analytical procedures, and post-test protocol calculations.
+Three types of testing can be performed: (1) Screening, (2) emissions test, and (3) validation. Each is defined in section 3 of this method. Determine the purpose(s) of the FTIR test. Test requirements include: (a) AU i, DL i, overall fractional uncertainty, OFU i, maximum expected concentration (CMAX i), and t AN for each, (b) potential interferants, (c) sampling system factors, e.g., minimum absolute cell pressure, (P min), FTIR cell volume (V SS), estimated sample absorption pathlength, L S ′, estimated sample pressure, P S ′, T S ′, signal integration time (t SS), minimum instrumental linewidth, MIL, fractional error, and (d) analytical regions, e.g., m = 1 to M, lower wavenumber position, FLm, center wavenumber position, FC m, and upper wavenumber position, FU m, plus interferants, upper wavenumber position of the CTS absorption band, FFU m, lower wavenumber position of the CTS absorption band, FFL m, wavenumber range FNU to FNL. If necessary, sample and acquire an initial spectrum. From analysis of this preliminary spectrum determine a suitable operational path length. Set up the sampling train as shown in Figure 1 or use an appropriate alternative configuration. Sections 8.1 through 8.11 of this method provide guidance on pre-test calculations in the EPA protocol, sampling and analytical procedures, and post-test protocol calculations.
 8.1 Pretest Preparations and Evaluations. Using the procedure in section 4.0 of the FTIR Protocol, determine the optimum sampling system configuration for measuring the target analytes. Use available information to make reasonable assumptions about moisture content and other interferences.
-8.1.1 Analytes. Select the required detection limit (DLi) and the maximum permissible analytical uncertainty (AUi) for each analyte (labeled from 1 to i). Estimate, if possible, the maximum expected concentration for each analyte, CMAXi. The expected measurement range is fixed by DLi and CMAXi for each analyte (i).
-8.1.2 Potential Interferants. List the potential interferants. This usually includes water vapor and CO2, but may also include some analytes and other compounds.
+8.1.1 Analytes. Select the required detection limit (DL i) and the maximum permissible analytical uncertainty (AU i) for each analyte (labeled from 1 to i). Estimate, if possible, the maximum expected concentration for each analyte, CMAX i. The expected measurement range is fixed by DL i and CMAX i for each analyte (i).
+8.1.2 Potential Interferants. List the potential interferants. This usually includes water vapor and CO 2, but may also include some analytes and other compounds.
 8.1.3. Optical Configuration. Choose an optical configuration that can measure all of the analytes within the absorbance range of.01 to 1.0 (this may require more than one path length). Use Protocol sections 4.3 to 4.8 for guidance in choosing a configuration and measuring CTS.
-8.1.4 Fractional Reproducibility Uncertainty (FRU i). The FRU is determined for each analyte by comparing CTS spectra taken before and after the reference spectra were measured. The EPA para-xylene reference spectra were collected on 10/31/91 and 11/01/91 with corresponding CTS spectra "cts1031a," and "cts1101b." The CTS spectra are used to estimate the reproducibility (FRU) in the system that was used to collect the references. The FRU must be <AU. Appendix E of the protocol is used to calculate the FRU from CTS spectra. Figure 2 plots results for 0.25 cm−1 CTS spectra in EPA reference library: S3 (cts1101b−cts1031a), and S4 [(cts1101b + cts1031a)/2]. The RMSD (SRMS) is calculated in the subtracted baseline, S3, in the corresponding CTS region from 850 to 1065 cm−1. The area (BAV) is calculated in the same region of the averaged CTS spectrum, S4.
+8.1.4 Fractional Reproducibility Uncertainty (FRU i). The FRU is determined for each analyte by comparing CTS spectra taken before and after the reference spectra were measured. The EPA para-xylene reference spectra were collected on 10/31/91 and 11/01/91 with corresponding CTS spectra "cts1031a," and "cts1101b." The CTS spectra are used to estimate the reproducibility (FRU) in the system that was used to collect the references. The FRU must be <AU. Appendix E of the protocol is used to calculate the FRU from CTS spectra. Figure 2 plots results for 0.25 cm −1 CTS spectra in EPA reference library: S 3 (cts1101b−cts1031a), and S 4 [(cts1101b + cts1031a)/2]. The RMSD (SRMS) is calculated in the subtracted baseline, S 3, in the corresponding CTS region from 850 to 1065 cm −1. The area (BAV) is calculated in the same region of the averaged CTS spectrum, S 4.
 8.1.5 Known Interferants. Use appendix B of the EPA FTIR Protocol.
 8.1.6 Calculate the Minimum Analyte Uncertainty, MAU (section 1.3 of this method discusses MAU and protocol appendix D gives the MAU procedure). The MAU for each analyte, i, and each analytical region, m, depends on the RMS noise.
-8.1.7 Analytical Program. See FTIR Protocol, section 4.10. Prepare computer program based on the chosen analytical technique. Use as input reference spectra of all target analytes and expected interferants. Reference spectra of additional compounds shall also be included in the program if their presence (even if transient) in the samples is considered possible. The program output shall be in ppm (or ppb) and shall be corrected for differences between the reference path length, LR, temperature, TR, and pressure, PR, and the conditions used for collecting the sample spectra. If sampling is performed at ambient pressure, then any pressure correction is usually small relative to corrections for path length and temperature, and may be neglected.
+8.1.7 Analytical Program. See FTIR Protocol, section 4.10. Prepare computer program based on the chosen analytical technique. Use as input reference spectra of all target analytes and expected interferants. Reference spectra of additional compounds shall also be included in the program if their presence (even if transient) in the samples is considered possible. The program output shall be in ppm (or ppb) and shall be corrected for differences between the reference path length, L R, temperature, T R, and pressure, P R, and the conditions used for collecting the sample spectra. If sampling is performed at ambient pressure, then any pressure correction is usually small relative to corrections for path length and temperature, and may be neglected.
 8.2 Leak-Check
 8.2.1 Sampling System. A typical FTIR extractive sampling train is shown in Figure 1. Leak check from the probe tip to pump outlet as follows: Connect a 0-to 250-mL/min rate meter (rotameter or bubble meter) to the outlet of the pump. Close off the inlet to the probe, and record the leak rate. The leak rate shall be ≤200 mL/min.
 8.2.2 Analytical System Leak check. Leak check the FTIR cell under vacuum and under pressure (greater than ambient). Leak check connecting tubing and inlet manifold under pressure.
-8.2.2.1 For the evacuated sample technique, close the valve to the FTIR cell, and evacuate the absorption cell to the minimum absolute pressure Pmin. Close the valve to the pump, and determine the change in pressure ΔPv after 2 minutes.
-8.2.2.2 For both the evacuated sample and purging techniques, pressurize the system to about 100 mmHg above atmospheric pressure. Isolate the pump and determine the change in pressure ΔPp after 2 minutes.
-8.2.2.3 Measure the barometric pressure, Pb in mmHg.
-8.2.2.4 Determine the percent leak volume %VL for the signal integration time tSS and for ΔPmax, i.e., the larger of ΔPv or ΔPp, as follows:
+8.2.2.1 For the evacuated sample technique, close the valve to the FTIR cell, and evacuate the absorption cell to the minimum absolute pressure P min. Close the valve to the pump, and determine the change in pressure ΔP v after 2 minutes.
+8.2.2.2 For both the evacuated sample and purging techniques, pressurize the system to about 100 mmHg above atmospheric pressure. Isolate the pump and determine the change in pressure ΔP p after 2 minutes.
+8.2.2.3 Measure the barometric pressure, P b in mmHg.
+8.2.2.4 Determine the percent leak volume %V L for the signal integration time t SS and for ΔP max, i.e., the larger of ΔP v or ΔP p, as follows:
 ER14NO18.066
 Where:
 50 = 100% divided by the leak-check time of 2 minutes.
-8.2.2.5 Leak volumes in excess of 4 percent of the FTIR system volume VSS are unacceptable.
+8.2.2.5 Leak volumes in excess of 4 percent of the FTIR system volume V SS are unacceptable.
 8.3 Detector Linearity. Once an optical configuration is chosen, use one of the procedures of sections 8.3.1 through 8.3.3 to verify that the detector response is linear. If the detector response is not linear, decrease the aperture, or attenuate the infrared beam. After a change in the instrument configuration perform a linearity check until it is demonstrated that the detector response is linear.
 8.3.1 Vary the power incident on the detector by modifying the aperture setting. Measure the background and CTS at three instrument aperture settings: (1) at the aperture setting to be used in the testing, (2) at one half this aperture and (3) at twice the proposed testing aperture. Compare the three CTS spectra. CTS band areas shall agree to within the uncertainty of the cylinder standard and the RMSD noise in the system. If test aperture is the maximum aperture, collect CTS spectrum at maximum aperture, then close the aperture to reduce the IR throughput by half. Collect a second background and CTS at the smaller aperture setting and compare the spectra again.
 8.3.2 Use neutral density filters to attenuate the infrared beam. Set up the FTIR system as it will be used in the test measurements. Collect a CTS spectrum. Use a neutral density filter to attenuate the infrared beam (either immediately after the source or the interferometer) to approximately 1/2 its original intensity. Collect a second CTS spectrum. Use another filter to attenuate the infrared beam to approximately 1/4 its original intensity. Collect a third background and CTS spectrum. Compare the CTS spectra. CTS band areas shall agree to within the uncertainty of the cylinder standard and the RMSD noise in the system.
 8.3.3 Observe the single beam instrument response in a frequency region where the detector response is known to be zero. Verify that the detector response is "flat" and equal to zero in these regions.
 8.4 Data Storage Requirements. All field test spectra shall be stored on a computer disk and a second backup copy must stored on a separate disk. The stored information includes sample interferograms, processed absorbance spectra, background interferograms, CTS sample interferograms and CTS absorbance spectra. Additionally, documentation of all sample conditions, instrument settings, and test records must be recorded on hard copy or on computer medium. Table 1 gives a sample presentation of documentation.
-8.5 Background Spectrum. Evacuate the gas cell to ≤5 mmHg, and fill with dry nitrogen gas to ambient pressure (or purge the cell with 10 volumes of dry nitrogen). Verify that no significant amounts of absorbing species (for example water vapor and CO2) are present. Collect a background spectrum, using a signal averaging period equal to or greater than the averaging period for the sample spectra. Assign a unique file name to the background spectrum. Store two copies of the background interferogram and processed single-beam spectrum on separate computer disks (one copy is the back-up).
-8.5.1 Interference Spectra. If possible, collect spectra of known and suspected major interferences using the same optical system that will be used in the field measurements. This can be done on-site or earlier. A number of gases, e.g. CO2, SO2, CO, NH3, are readily available from cylinder gas suppliers.
+8.5 Background Spectrum. Evacuate the gas cell to ≤5 mmHg, and fill with dry nitrogen gas to ambient pressure (or purge the cell with 10 volumes of dry nitrogen). Verify that no significant amounts of absorbing species (for example water vapor and CO 2) are present. Collect a background spectrum, using a signal averaging period equal to or greater than the averaging period for the sample spectra. Assign a unique file name to the background spectrum. Store two copies of the background interferogram and processed single-beam spectrum on separate computer disks (one copy is the back-up).
+8.5.1 Interference Spectra. If possible, collect spectra of known and suspected major interferences using the same optical system that will be used in the field measurements. This can be done on-site or earlier. A number of gases, e.g. CO 2, SO 2, CO, NH 3, are readily available from cylinder gas suppliers.
 8.5.2 Water vapor spectra can be prepared by the following procedure. Fill a sample tube with distilled water. Evacuate above the sample and remove dissolved gasses by alternately freezing and thawing the water while evacuating. Allow water vapor into the FTIR cell, then dilute to atmospheric pressure with nitrogen or dry air. If quantitative water spectra are required, follow the reference spectrum procedure for neat samples (protocol, section 4.6). Often, interference spectra need not be quantitative, but for best results the absorbance must be comparable to the interference absorbance in the sample spectra.
 8.6 Pre-Test Calibrations
 8.6.1 Calibration Transfer Standard. Evacuate the gas cell to ≤5 mmHg absolute pressure, and fill the FTIR cell to atmospheric pressure with the CTS gas. Alternatively, purge the cell with 10 cell volumes of CTS gas. (If purge is used, verify that the CTS concentration in the cell is stable by collecting two spectra 2 minutes apart as the CTS gas continues to flow. If the absorbance in the second spectrum is no greater than in the first, within the uncertainty of the gas standard, then this can be used as the CTS spectrum.) Record the spectrum.
@@ -4329,17 +4329,17 @@ Use a flow device, e.g., mass flow meter (# 2 percent), to monitor the spike flo
 ER14NO18.067
 ER14NO18.068
 DF = Dilution factor of the spike gas; this value shall be ≥10.
-SF6(dir) = SF6 (or tracer gas) concentration measured directly in undiluted spike gas.
-SF6(spk) = Diluted SF6 (or tracer gas) concentration measured in a spiked sample.
-Spikedir = Concentration of the analyte in the spike standard measured by filling the FTIR cell directly.
+SF 6(dir) = SF 6 (or tracer gas) concentration measured directly in undiluted spike gas.
+SF 6(spk) = Diluted SF 6 (or tracer gas) concentration measured in a spiked sample.
+Spike dir = Concentration of the analyte in the spike standard measured by filling the FTIR cell directly.
 CS = Expected concentration of the spiked samples.
 Unspike = Native concentration of analytes in unspiked samples.
 10.0 Calibration and Standardization
 10.1 Signal-to-Noise Ratio (S/N). The RMSD in the noise must be less than one tenth of the minimum analyte peak absorbance in each analytical region. For example if the minimum peak absorbance is 0.01 at the required DL, then RMSD measured over the entire analytical region must be ≤0.001.
 10.2 Absorbance Path length. Verify the absorbance path length by comparing reference CTS spectra to test CTS spectra. See appendix E of the FTIR Protocol.
 10.3 Instrument Resolution. Measure the line width of appropriate test CTS band(s) to verify instrument resolution. Alternatively, compare CTS spectra to a reference CTS spectrum, if available, measured at the nominal resolution.
-10.4 Apodization Function.In transforming the sample interferograms to absorbance spectra use the same apodization function that was used in transforming the reference spectra.
-10.5 FTIR Cell Volume. Evacuate the cell to ≤5 mmHg. Measure the initial absolute temperature (Ti) and absolute pressure (Pi). Connect a wet test meter (or a calibrated dry gas meter), and slowly draw room air into the cell. Measure the meter volume (Vm), meter absolute temperature (Tm), and meter absolute pressure (Pm); and the cell final absolute temperature (Tf) and absolute pressure (Pf). Calculate the FTIR cell volume VSS, including that of the connecting tubing, as follows:
+10.4 Apodization Function. In transforming the sample interferograms to absorbance spectra use the same apodization function that was used in transforming the reference spectra.
+10.5 FTIR Cell Volume. Evacuate the cell to ≤5 mmHg. Measure the initial absolute temperature (T i) and absolute pressure (P i). Connect a wet test meter (or a calibrated dry gas meter), and slowly draw room air into the cell. Measure the meter volume (V m), meter absolute temperature (T m), and meter absolute pressure (P m); and the cell final absolute temperature (T f) and absolute pressure (P f). Calculate the FTIR cell volume VSS, including that of the connecting tubing, as follows:
 ER14JN99.007
 11.0 Data Analysis and Calculations
 Analyte concentrations shall be measured using reference spectra from the EPA FTIR spectral library. When EPA library spectra are not available, the procedures in section 4.6 of the Protocol shall be followed to prepare reference spectra of all the target analytes.
@@ -4347,14 +4347,14 @@ Analyte concentrations shall be measured using reference spectra from the EPA FT
 11.2 Data Analysis. Various analytical programs are available for relating sample absorbance to a concentration standard. Calculated concentrations shall be verified by analyzing residual baselines after mathematically subtracting scaled reference spectra from the sample spectra. A full description of the data analysis and calculations is contained in the FTIR Protocol (sections 4.0, 5.0, 6.0 and appendices). Correct the calculated concentrations in the sample spectra for differences in absorption path length and temperature between the reference and sample spectra using equation 6,
 ER14JN99.008
 Where:
-Ccorr = Concentration, corrected for path length.
-Ccalc = Concentration, initial calculation (output of the analytical program designed for the compound).
-Lr = Reference spectra path length.
-Ls = Sample spectra path length.
-Ts = Absolute temperature of the sample gas, K.
-Tr = Absolute gas temperature of reference spectra, K.
-Ps = Sample cell pressure.
-Pr = Reference spectrum sample pressure.
+C corr = Concentration, corrected for path length.
+C calc = Concentration, initial calculation (output of the analytical program designed for the compound).
+L r = Reference spectra path length.
+L s = Sample spectra path length.
+T s = Absolute temperature of the sample gas, K.
+T r = Absolute gas temperature of reference spectra, K.
+P s = Sample cell pressure.
+P r = Reference spectrum sample pressure.
 12.0 Method Performance
 12.1 Spectral Quality. Refer to the FTIR Protocol appendices for analytical requirements, evaluation of data quality, and analysis of uncertainty.
 12.2 Sampling QA/QC. The analyte spike procedure of section 9 of this method, the QA spike of section 8.6.2 of this method, and the validation procedure of section 13 of this method are used to evaluate the performance of the sampling system and to quantify sampling system effects, if any, on the measured concentrations. This method is self-validating provided that the results meet the performance requirement of the QA spike in sections 9.0 and 8.6.2 of this method and results from a previous method validation study support the use of this method in the application. Several factors can contribute to uncertainty in the measurement of spiked samples. Factors which can be controlled to provide better accuracy in the spiking procedure are listed in sections 12.2.1 through 12.2.4 of this method.
@@ -4378,18 +4378,18 @@ This validation procedure, which is based on EPA Method 301 (40 CFR part 63, app
 13.2.3 Alternatively, a separate probe assembly, line, and sample pump can be used for spiked sample. Verify and document that sampling conditions are the same in both the spiked and the unspiked sampling systems. This can be done by wrapping both sample lines in the same heated bundle. Keep the same flow rate in both sample lines. Measure samples in sequence in pairs. After two spiked samples are measured, evacuate the FTIR cell, and turn the manifold valve so that spiked sample flows to the FTIR cell. Allow the connecting line from the manifold to the FTIR cell to purge thoroughly (the time depends on the line length and flow rate). Collect a pair of spiked samples. Repeat the procedure until at least 24 measurements are completed.
 13.3 Simultaneous Measurements With Two FTIR Systems. If unspiked effluent concentrations of the target analyte(s) vary significantly with time, it may be desirable to perform synchronized measurements of spiked and unspiked sample. Use two FTIR systems, each with its own cell and sampling system to perform simultaneous spiked and unspiked measurements. The optical configurations shall be similar, if possible. The sampling configurations shall be the same. One sampling system and FTIR analyzer shall be used to measure spiked effluent. The other sampling system and FTIR analyzer shall be used to measure unspiked flue gas. Both systems shall use the same sampling procedure (i.e., batch or continuous).
 13.3.1 If batch sampling is used, synchronize the cell evacuation, cell filling, and collection of spectra. Fill both cells at the same rate (in cell volumes per unit time).
-13.3.2 If continuous sampling is used, adjust the sample flow through each gas cell so that the same number of cell volumes pass through each cell in a given time (i.e. TC1 = TC2).
+13.3.2 If continuous sampling is used, adjust the sample flow through each gas cell so that the same number of cell volumes pass through each cell in a given time (i.e. TC 1 = TC 2).
 13.4 Statistical Treatment. The statistical procedure of EPA Method 301 of this appendix, section 12.0 is used to evaluate the bias and precision. For FTIR testing a validation "run" is defined as spectra of 24 independent samples, 12 of which are spiked with the analyte(s) and 12 of which are not spiked.
 13.4.1 Bias. Determine the bias (defined by EPA Method 301 of this appendix, section 12.1.1) using equation 7:
 B=S m − CS
 Where:
 B = Bias at spike level.
-Sm = Mean concentration of the analyte spiked samples.
+S m = Mean concentration of the analyte spiked samples.
 CS = Expected concentration of the spiked samples.
 13.4.2 Correction Factor. Use section 6.3.2.2 of Method 301 of this appendix to evaluate the statistical significance of the bias. If it is determined that the bias is significant, then use section 6.3.3 of Method 301 to calculate a correction factor (CF). Analytical results of the test method are multiplied by the correction factor, if 0.7 ≤CF ≤1.3. If is determined that the bias is significant and CF >±30 percent, then the test method is considered to "not valid."
 13.4.3 If measurements do not pass validation, evaluate the sampling system, instrument configuration, and analytical system to determine if improper set-up or a malfunction was the cause. If so, repair the system and repeat the validation.
 14.0 Pollution Prevention
-The extracted sample gas is vented outside the enclosure containing the FTIR system and gas manifold after the analysis. In typical method applications the vented sample volume is a small fraction of the source volumetric flow and its composition is identical to that emitted from the source. When analyte spiking is used, spiked pollutants are vented with the extracted sample gas. Approximately 1.6 × 10−4 to 3.2 × 10−4 lbs of a single HAP may be vented to the atmosphere in a typical validation run of 3 hours. (This assumes a molar mass of 50 to 100 g, spike rate of 1.0 L/min, and a standard concentration of 100 ppm). Minimize emissions by keeping the spike flow off when not in use.
+The extracted sample gas is vented outside the enclosure containing the FTIR system and gas manifold after the analysis. In typical method applications the vented sample volume is a small fraction of the source volumetric flow and its composition is identical to that emitted from the source. When analyte spiking is used, spiked pollutants are vented with the extracted sample gas. Approximately 1.6 × 10 −4 to 3.2 × 10 −4 lbs of a single HAP may be vented to the atmosphere in a typical validation run of 3 hours. (This assumes a molar mass of 50 to 100 g, spike rate of 1.0 L/min, and a standard concentration of 100 ppm). Minimize emissions by keeping the spike flow off when not in use.
 15.0 Waste Management
 Small volumes of laboratory gas standards can be vented through a laboratory hood. Neat samples must be packed and disposed according to applicable regulations. Surplus materials may be returned to supplier for disposal.
 16.0 References
@@ -4410,7 +4410,7 @@ Addendum to Test Method 320—Protocol for the Use of Extractive Fourier Transfo
 The purpose of this addendum is to set general guidelines for the use of modern FTIR spectroscopic methods for the analysis of gas samples extracted from the effluent of stationary emission sources. This addendum outlines techniques for developing and evaluating such methods and sets basic requirements for reporting and quality assurance procedures.
 1.1 Nomenclature
 1.1.1 Appendix A to this addendum lists definitions of the symbols and terms used in this Protocol, many of which have been taken directly from American Society for Testing and Materials (ASTM) publication E 131-90a, entitled "Terminology Relating to Molecular Spectroscopy."
-1.1.2 Except in the case of background spectra or where otherwise noted, the term "spectrum" refers to a double-beam spectrum in units of absorbance vs. wavenumber (cm−1).
+1.1.2 Except in the case of background spectra or where otherwise noted, the term "spectrum" refers to a double-beam spectrum in units of absorbance vs. wavenumber (cm −1).
 1.1.3 The term "Study" in this addendum refers to a publication that has been subjected to EPA- or peer-review.
 2.0 Applicability and Analytical Principle
 2.1 Applicability. This Protocol applies to the determination of compound-specific concentrations in single- and multiple-component gas phase samples using double-beam absorption spectroscopy in the mid-infrared band. It does not specifically address other FTIR applications, such as single-beam spectroscopy, analysis of open-path (non-enclosed) samples, and continuous measurement techniques. If multiple spectrometers, absorption cells, or instrumental linewidths are used in such analyses, each distinct operational configuration of the system must be evaluated separately according to this Protocol.
@@ -4424,59 +4424,59 @@ The characteristics that distinguish FTIR systems from gas analyzers used in ins
 Note: The CTS may, but need not, include analytes of interest). To effect this, record the absorption spectra of the CTS (a) immediately before and immediately after recording reference spectra and (b) immediately after recording sample spectra.
 3.3 Evaluation of FTIR Analyses. The applicability, accuracy, and precision of FTIR measurements are influenced by a number of interrelated factors, which may be divided into two classes:
 3.3.1 Sample-Independent Factors. Examples are system configuration and performance (e.g., detector sensitivity and infrared source output), quality and applicability of reference absorption spectra, and type of mathematical analyses of the spectra. These factors define the fundamental limitations of FTIR measurements for a given system configuration. These limitations may be estimated from evaluations of the system before samples are available. For example, the detection limit for the absorbing compound under a given set of conditions may be estimated from the system noise level and the strength of a particular absorption band. Similarly, the accuracy of measurements may be estimated from the analysis of the reference spectra.
-3.3.2 Sample-Dependent Factors. Examples are spectral interferants (e.g., water vapor and CO2) or the overlap of spectral features of different compounds and contamination deposits on reflective surfaces or transmitting windows. To maximize the effectiveness of the mathematical techniques used in spectral analysis, identification of interferants (a standard initial step) and analysis of samples (includes effect of other analytical errors) are necessary. Thus, the Protocol requires post-analysis calculation of measurement concentration uncertainties for the detection of these potential sources of measurement error.
+3.3.2 Sample-Dependent Factors. Examples are spectral interferants (e.g., water vapor and CO 2) or the overlap of spectral features of different compounds and contamination deposits on reflective surfaces or transmitting windows. To maximize the effectiveness of the mathematical techniques used in spectral analysis, identification of interferants (a standard initial step) and analysis of samples (includes effect of other analytical errors) are necessary. Thus, the Protocol requires post-analysis calculation of measurement concentration uncertainties for the detection of these potential sources of measurement error.
 4.0 Pre-Test Preparations and Evaluations
 Before testing, demonstrate the suitability of FTIR spectrometry for the desired application according to the procedures of this section.
 4.1 Identify Test Requirements. Identify and record the test requirements described in sections 4.1.1 through 4.1.4 of this addendum. These values set the desired or required goals of the proposed analysis; the description of methods for determining whether these goals are actually met during the analysis comprises the majority of this Protocol.
 4.1.1 Analytes (specific chemical species) of interest. Label the analytes from i = 1 to I.
-4.1.2 Analytical uncertainty limit (AUi). The AUi is the maximum permissible fractional uncertainty of analysis for the ith analyte concentration, expressed as a fraction of the analyte concentration in the sample.
-4.1.3 Required detection limit for each analyte (DLi, ppm). The detection limit is the lowest concentration of an analyte for which its overall fractional uncertainty (OFUi) is required to be less than its analytical uncertainty limit (AUi).
-4.1.4 Maximum expected concentration of each analyte (CMAXi, ppm).
-4.2 Identify Potential Interferants. Considering the chemistry of the process or results of previous studies, identify potential interferants, i.e., the major effluent constituents and any relatively minor effluent constituents that possess either strong absorption characteristics or strong structural similarities to any analyte of interest. Label them 1 through Nj, where the subscript "j" pertains to potential interferants. Estimate the concentrations of these compounds in the effluent (CPOTj, ppm).
-4.3 Select and Evaluate the Sampling System. Considering the source, e.g., temperature and pressure profiles, moisture content, analyte characteristics, and particulate concentration), select the equipment for extracting gas samples. Recommended are a particulate filter, heating system to maintain sample temperature above the dew point for all sample constituents at all points within the sampling system (including the filter), and sample conditioning system (e.g., coolers, water-permeable membranes that remove water or other compounds from the sample, and dilution devices) to remove spectral interferants or to protect the sampling and analytical components. Determine the minimum absolute sample system pressure (Pmin, mmHg) and the infrared absorption cell volume (VSS, liter). Select the techniques and/or equipment for the measurement of sample pressures and temperatures.
-4.4 Select Spectroscopic System. Select a spectroscopic configuration for the application. Approximate the absorption pathlength (LS′, meter), sample pressure (PS′, kPa), absolute sample temperature TS′, and signal integration period (tSS, seconds) for the analysis. Specify the nominal minimum instrumental linewidth (MIL) of the system. Verify that the fractional error at the approximate values PS′ and TS′ is less than one half the smallest value AUi (see section 4.1.2 of this addendum).
+4.1.2 Analytical uncertainty limit (AU i). The AU i is the maximum permissible fractional uncertainty of analysis for the i th analyte concentration, expressed as a fraction of the analyte concentration in the sample.
+4.1.3 Required detection limit for each analyte (DL i, ppm). The detection limit is the lowest concentration of an analyte for which its overall fractional uncertainty (OFU i) is required to be less than its analytical uncertainty limit (AU i).
+4.1.4 Maximum expected concentration of each analyte (CMAX i, ppm).
+4.2 Identify Potential Interferants. Considering the chemistry of the process or results of previous studies, identify potential interferants, i.e., the major effluent constituents and any relatively minor effluent constituents that possess either strong absorption characteristics or strong structural similarities to any analyte of interest. Label them 1 through N j, where the subscript "j" pertains to potential interferants. Estimate the concentrations of these compounds in the effluent (CPOT j, ppm).
+4.3 Select and Evaluate the Sampling System. Considering the source, e.g., temperature and pressure profiles, moisture content, analyte characteristics, and particulate concentration), select the equipment for extracting gas samples. Recommended are a particulate filter, heating system to maintain sample temperature above the dew point for all sample constituents at all points within the sampling system (including the filter), and sample conditioning system (e.g., coolers, water-permeable membranes that remove water or other compounds from the sample, and dilution devices) to remove spectral interferants or to protect the sampling and analytical components. Determine the minimum absolute sample system pressure (P min, mmHg) and the infrared absorption cell volume (V SS, liter). Select the techniques and/or equipment for the measurement of sample pressures and temperatures.
+4.4 Select Spectroscopic System. Select a spectroscopic configuration for the application. Approximate the absorption pathlength (L S ′, meter), sample pressure (P S ′, kPa), absolute sample temperature T S ′, and signal integration period (t SS, seconds) for the analysis. Specify the nominal minimum instrumental linewidth (MIL) of the system. Verify that the fractional error at the approximate values P S ′ and T S ′ is less than one half the smallest value AU i (see section 4.1.2 of this addendum).
 4.5 Select Calibration Transfer Standards (CTS's). Select CTS's that meet the criteria listed in sections 4.5.1, 4.5.2, and 4.5.3 of this addendum.
 Note: It may be necessary to choose preliminary analytical regions (see section 4.7 of this addendum), identify the minimum analyte linewidths, or estimate the system noise level (see section 4.12 of this addendum) before selecting the CTS. More than one compound may be needed to meet the criteria; if so, obtain separate cylinders for each compound.
 4.5.1 The central wavenumber position of each analytical region shall lie within 25 percent of the wavenumber position of at least one CTS absorption band.
-4.5.2 The absorption bands in section 4.5.1 of this addendum shall exhibit peak absorbances greater than ten times the value RMSEST (see section 4.12 of this addendum) but less than 1.5 absorbance units.
+4.5.2 The absorption bands in section 4.5.1 of this addendum shall exhibit peak absorbances greater than ten times the value RMS EST (see section 4.12 of this addendum) but less than 1.5 absorbance units.
 4.5.3 At least one absorption CTS band within the operating range of the FTIR instrument shall have an instrument-independent linewidth no greater than the narrowest analyte absorption band. Perform and document measurements or cite Studies to determine analyte and CTS compound linewidths.
-4.5.4 For each analytical region, specify the upper and lower wavenumber positions (FFUm and FFLm, respectively) that bracket the CTS absorption band or bands for the associated analytical region. Specify the wavenumber range, FNU to FNL, containing the absorption band that meets the criterion of section 4.5.3 of this addendum.
+4.5.4 For each analytical region, specify the upper and lower wavenumber positions (FFU m and FFL m, respectively) that bracket the CTS absorption band or bands for the associated analytical region. Specify the wavenumber range, FNU to FNL, containing the absorption band that meets the criterion of section 4.5.3 of this addendum.
 4.5.5 Associate, whenever possible, a single set of CTS gas cylinders with a set of reference spectra. Replacement CTS gas cylinders shall contain the same compounds at concentrations within 5 percent of that of the original CTS cylinders; the entire absorption spectra (not individual spectral segments) of the replacement gas shall be scaled by a factor between 0.95 and 1.05 to match the original CTS spectra.
 4.6 Prepare Reference Spectra
 Note: Reference spectra are available in a permanent soft copy from the EPA spectral library on the EMTIC (Emission Measurement Technical Information Center) computer bulletin board; they may be used if applicable.
-4.6.1 Select the reference absorption pathlength (LR) of the cell.
+4.6.1 Select the reference absorption pathlength (L R) of the cell.
 4.6.2 Obtain or prepare a set of chemical standards for each analyte, potential and known spectral interferants, and CTS. Select the concentrations of the chemical standards to correspond to the top of the desired range.
 4.6.2.1 Commercially-Prepared Chemical Standards. Chemical standards for many compounds may be obtained from independent sources, such as a specialty gas manufacturer, chemical company, or commercial laboratory. These standards (accurate to within ±2 percent) shall be prepared according to EPA Traceability Protocol (see Reference D) or shall be traceable to NIST standards. Obtain from the supplier an estimate of the stability of the analyte concentration. Obtain and follow all of the supplier's recommendations for recertifying the analyte concentration.
 4.6.2.2 Self-Prepared Chemical Standards. Chemical standards may be prepared by diluting certified commercially prepared chemical gases or pure analytes with ultra-pure carrier (UPC) grade nitrogen according to the barometric and volumetric techniques generally described in Reference A, section A4.6.
 4.6.3 Record a set of the absorption spectra of the CTS {R1}, then a set of the reference spectra at two or more concentrations in duplicate over the desired range (the top of the range must be less than 10 times that of the bottom), followed by a second set of CTS spectra {R2}. (If self-prepared standards are used, see section 4.6.5 of this addendum before disposing of any of the standards.) The maximum accepted standard concentration-pathlength product (ASCPP) for each compound shall be higher than the maximum estimated concentration-pathlength products for both analytes and known interferants in the effluent gas. For each analyte, the minimum ASCPP shall be no greater than ten times the concentration-pathlength product of that analyte at its required detection limit.
-4.6.4 Permanently store the background and interferograms in digitized form. Document details of the mathematical process for generating the spectra from these interferograms. Record the sample pressure (PR), sample temperature (TR), reference absorption pathlength (LR), and interferogram signal integration period (tSR). Signal integration periods for the background interferograms shall be ≥tSR. Values of PR, LR, and tSR shall not deviate by more than ±1 percent from the time of recording [R1] to that of recording [R2].
+4.6.4 Permanently store the background and interferograms in digitized form. Document details of the mathematical process for generating the spectra from these interferograms. Record the sample pressure (P R), sample temperature (T R), reference absorption pathlength (L R), and interferogram signal integration period (t SR). Signal integration periods for the background interferograms shall be ≥t SR. Values of P R, L R, and t SR shall not deviate by more than ±1 percent from the time of recording [R1] to that of recording [R2].
 4.6.5 If self-prepared chemical standards are employed and spectra of only two concentrations are recorded for one or more compounds, verify the accuracy of the dilution technique by analyzing the prepared standards for those compounds with a secondary (non-FTIR) technique in accordance with sections 4.6.5.1 through 4.6.5.4 of this addendum.
 4.6.5.1 Record the response of the secondary technique to each of the four standards prepared.
 4.6.5.2 Perform a linear regression of the response values (dependant variable) versus the accepted standard concentration (ASC) values (independent variable), with the regression constrained to pass through the zero-response, zero ASC point.
 4.6.5.3 Calculate the average fractional difference between the actual response values and the regression-predicted values (those calculated from the regression line using the four ASC values as the independent variable).
-4.6.5.4 If the average fractional difference value calculated in section 4.6.5.3 of this addendum is larger for any compound than the corresponding AUi, the dilution technique is not sufficiently accurate and the reference spectra prepared are not valid for the analysis.
-4.7 Select Analytical Regions. Using the general considerations in section 7 of Reference A and the spectral characteristics of the analytes and interferants, select the analytical regions for the application. Label them m = 1 to M. Specify the lower, center and upper wavenumber positions of each analytical region (FLm, FCm, and FUm, respectively). Specify the analytes and interferants which exhibit absorption in each region.
-4.8 Determine Fractional Reproducibility Uncertainties. Using appendix E of this addendum, calculate the fractional reproducibility uncertainty for each analyte (FRUi) from a comparison of [R1] and [R2]. If FRUi >AUi for any analyte, the reference spectra generated in accordance with section 4.6 of this addendum are not valid for the application.
+4.6.5.4 If the average fractional difference value calculated in section 4.6.5.3 of this addendum is larger for any compound than the corresponding AU i, the dilution technique is not sufficiently accurate and the reference spectra prepared are not valid for the analysis.
+4.7 Select Analytical Regions. Using the general considerations in section 7 of Reference A and the spectral characteristics of the analytes and interferants, select the analytical regions for the application. Label them m = 1 to M. Specify the lower, center and upper wavenumber positions of each analytical region (FL m, FC m, and FU m, respectively). Specify the analytes and interferants which exhibit absorption in each region.
+4.8 Determine Fractional Reproducibility Uncertainties. Using appendix E of this addendum, calculate the fractional reproducibility uncertainty for each analyte (FRU i) from a comparison of [R1] and [R2]. If FRU i >AU i for any analyte, the reference spectra generated in accordance with section 4.6 of this addendum are not valid for the application.
 4.9 Identify Known Interferants. Using appendix B of this addendum, determine which potential interferants affect the analyte concentration determinations. Relabel these potential interferant as "known" interferants, and designate these compounds from k = 1 to K. Appendix B to this addendum also provides criteria for determining whether the selected analytical regions are suitable.
 4.10 Prepare Computerized Analytical Programs
 4.10.1 Choose or devise mathematical techniques (e.g, classical least squares, inverse least squares, cross-correlation, and factor analysis) based on equation 4 of Reference A that are appropriate for analyzing spectral data by comparison with reference spectra.
 4.10.2 Following the general recommendations of Reference A, prepare a computer program or set of programs that analyzes all of the analytes and known interferants, based on the selected analytical regions (section 4.7 of this addendum) and the prepared reference spectra (section 4.6 of this addendum). Specify the baseline correction technique (e.g., determining the slope and intercept of a linear baseline contribution in each analytical region) for each analytical region, including all relevant wavenumber positions.
-4.10.3 Use programs that provide as output [at the reference absorption pathlength (LR), reference gas temperature (TR), and reference gas pressure (PR)] the analyte concentrations, the known interferant concentrations, and the baseline slope and intercept values. If the sample absorption pathlength (LS), sample gas temperature (TS), or sample gas pressure (PS) during the actual sample analyses differ from LR, TR, and PR, use a program or set of programs that applies multiplicative corrections to the derived concentrations to account for these variations, and that provides as output both the corrected and uncorrected values. Include in the report of the analysis (see section 7.0 of this addendum) the details of any transformations applied to the original reference spectra (e.g., differentiation), in such a fashion that all analytical results may be verified by an independent agent from the reference spectra and data spectra alone.
-4.11 Determine the Fractional Calibration Uncertainty. Calculate the fractional calibration uncertainty for each analyte (FCUi) according to appendix F of this addendum, and compare these values to the fractional uncertainty limits (AUi; see section 4.1.2 of this addendum). If FCUi >AUi, either the reference spectra or analytical programs for that analyte are unsuitable.
-4.12 Verify System Configuration Suitability. Using appendix C of this addendum, measure or obtain estimates of the noise level (RMSEST, absorbance) of the FTIR system. Alternatively, construct the complete spectrometer system and determine the values RMSSm using appendix G of this addendum. Estimate the minimum measurement uncertainty for each analyte (MAUi, ppm) and known interferant (MIUk, ppm) using appendix D of this addendum. Verify that (a) MAUi <(AUi)(DLi), FRUi <AUi, and FCUi <AUi for each analyte and that (b) the CTS chosen meets the requirements listed in sections 4.5.1 through 4.5.5 of this addendum.
+4.10.3 Use programs that provide as output [at the reference absorption pathlength (L R), reference gas temperature (T R), and reference gas pressure (P R)] the analyte concentrations, the known interferant concentrations, and the baseline slope and intercept values. If the sample absorption pathlength (L S), sample gas temperature (T S), or sample gas pressure (P S) during the actual sample analyses differ from L R, T R, and P R, use a program or set of programs that applies multiplicative corrections to the derived concentrations to account for these variations, and that provides as output both the corrected and uncorrected values. Include in the report of the analysis (see section 7.0 of this addendum) the details of any transformations applied to the original reference spectra (e.g., differentiation), in such a fashion that all analytical results may be verified by an independent agent from the reference spectra and data spectra alone.
+4.11 Determine the Fractional Calibration Uncertainty. Calculate the fractional calibration uncertainty for each analyte (FCUi) according to appendix F of this addendum, and compare these values to the fractional uncertainty limits (AU i; see section 4.1.2 of this addendum). If FCU i >AU i, either the reference spectra or analytical programs for that analyte are unsuitable.
+4.12 Verify System Configuration Suitability. Using appendix C of this addendum, measure or obtain estimates of the noise level (RMS EST, absorbance) of the FTIR system. Alternatively, construct the complete spectrometer system and determine the values RMS Sm using appendix G of this addendum. Estimate the minimum measurement uncertainty for each analyte (MAU i, ppm) and known interferant (MIU k, ppm) using appendix D of this addendum. Verify that (a) MAU i <(AU i)(DL i), FRUi <AU i, and FCUi <AU i for each analyte and that (b) the CTS chosen meets the requirements listed in sections 4.5.1 through 4.5.5 of this addendum.
 5.0 Sampling and Analysis Procedure
-5.1 Analysis System Assembly and Leak-Test. Assemble the analysis system. Allow sufficient time for all system components to reach the desired temperature. Then, determine the leak-rate (LR) and leak volume (VL), where VL = LR tSS. Leak volumes shall be ≤4 percent of VSS.
+5.1 Analysis System Assembly and Leak-Test. Assemble the analysis system. Allow sufficient time for all system components to reach the desired temperature. Then, determine the leak-rate (L R) and leak volume (V L), where V L = L R t SS. Leak volumes shall be ≤4 percent of V SS.
 5.2 Verify Instrumental Performance. Measure the noise level of the system in each analytical region using the procedure of appendix G of this addendum. If any noise level is higher than that estimated for the system in section 4.12 of this addendum, repeat the calculations of appendix D of this addendum and verify that the requirements of section 4.12 of this addendum are met; if they are not, adjust or repair the instrument and repeat this section.
 5.3 Determine the Sample Absorption Pathlength
-Record a background spectrum. Then, fill the absorption cell with CTS at the pressure PR and record a set of CTS spectra [R3]. Store the background and unscaled CTS single beam interferograms and spectra. Using appendix H of this addendum, calculate the sample absorption pathlength (LS) for each analytical region. The values LS shall not differ from the approximated sample pathlength LS′ (see section 4.4 of this addendum) by more than 5 percent.
-5.4 Record Sample Spectrum. Connect the sample line to the source. Either evacuate the absorption cell to an absolute pressure below 5 mmHg before extracting a sample from the effluent stream into the absorption cell, or pump at least ten cell volumes of sample through the cell before obtaining a sample. Record the sample pressure PS. Generate the absorbance spectrum of the sample. Store the background and sample single beam interferograms, and document the process by which the absorbance spectra are generated from these data. (If necessary, apply the spectral transformations developed in section 5.6.2 of this addendum). The resulting sample spectrum is referred to below as SS.
+Record a background spectrum. Then, fill the absorption cell with CTS at the pressure P R and record a set of CTS spectra [R3]. Store the background and unscaled CTS single beam interferograms and spectra. Using appendix H of this addendum, calculate the sample absorption pathlength (L S) for each analytical region. The values L S shall not differ from the approximated sample pathlength L S ′ (see section 4.4 of this addendum) by more than 5 percent.
+5.4 Record Sample Spectrum. Connect the sample line to the source. Either evacuate the absorption cell to an absolute pressure below 5 mmHg before extracting a sample from the effluent stream into the absorption cell, or pump at least ten cell volumes of sample through the cell before obtaining a sample. Record the sample pressure P S. Generate the absorbance spectrum of the sample. Store the background and sample single beam interferograms, and document the process by which the absorbance spectra are generated from these data. (If necessary, apply the spectral transformations developed in section 5.6.2 of this addendum). The resulting sample spectrum is referred to below as S S.
 Note: Multiple sample spectra may be recorded according to the procedures of section 5.4 of this addendum before performing sections 5.5 and 5.6 of this addendum.
-5.5 Quantify Analyte Concentrations. Calculate the unscaled analyte concentrations RUAi and unscaled interferant concentrations RUIK using the programs developed in section 4 of this addendum. To correct for pathlength and pressure variations between the reference and sample spectra, calculate the scaling factor, RLPS using equation A.1,
+5.5 Quantify Analyte Concentrations. Calculate the unscaled analyte concentrations RUA i and unscaled interferant concentrations RUI K using the programs developed in section 4 of this addendum. To correct for pathlength and pressure variations between the reference and sample spectra, calculate the scaling factor, R LPS using equation A.1,
 ER14JN99.012
-Calculate the final analyte and interferant concentrations RSAi and RSIk using equations A.2 and A.3,
+Calculate the final analyte and interferant concentrations RSA i and RSI k using equations A.2 and A.3,
 ER14JN99.013
 ER14JN99.014
-5.6 Determine Fractional Analysis Uncertainty. Fill the absorption cell with CTS at the pressure PS. Record a set of CTS spectra [R4]. Store the background and CTS single beam interferograms. Using appendix H of this addendum, calculate the fractional analysis uncertainty (FAU) for each analytical region. If the FAU indicated for any analytical region is greater than the required accuracy requirements determined in sections 4.1.1 through 4.1.4 of this addendum, then comparisons to previously recorded reference spectra are invalid in that analytical region, and the analyst shall perform one or both of the procedures of sections 5.6.1 through 5.6.2 of this addendum.
+5.6 Determine Fractional Analysis Uncertainty. Fill the absorption cell with CTS at the pressure P S. Record a set of CTS spectra [R4]. Store the background and CTS single beam interferograms. Using appendix H of this addendum, calculate the fractional analysis uncertainty (FAU) for each analytical region. If the FAU indicated for any analytical region is greater than the required accuracy requirements determined in sections 4.1.1 through 4.1.4 of this addendum, then comparisons to previously recorded reference spectra are invalid in that analytical region, and the analyst shall perform one or both of the procedures of sections 5.6.1 through 5.6.2 of this addendum.
 5.6.1 Perform instrumental checks and adjust the instrument to restore its performance to acceptable levels. If adjustments are made, repeat sections 5.3, 5.4 (except for the recording of a sample spectrum), and 5.5 of this addendum to demonstrate that acceptable uncertainties are obtained in all analytical regions.
 5.6.2 Apply appropriate mathematical transformations (e.g., frequency shifting, zero-filling, apodization, smoothing) to the spectra (or to the interferograms upon which the spectra are based) generated during the performance of the procedures of section 5.3 of this addendum. Document these transformations and their reproducibility. Do not apply multiplicative scaling of the spectra, or any set of transformations that is mathematically equivalent to multiplicative scaling. Different transformations may be applied to different analytical regions. Frequency shifts shall be less than one-half the minimum instrumental linewidth, and must be applied to all spectral data points in an analytical region. The mathematical transformations may be retained for the analysis if they are also applied to the appropriate analytical regions of all sample spectra recorded, and if all original sample spectra are digitally stored. Repeat sections 5.3, 5.4 (except the recording of a sample spectrum), and 5.5 of this addendum to demonstrate that these transformations lead to acceptable calculated concentration uncertainties in all analytical regions.
 6.0 Post-Analysis Evaluations
@@ -4519,8 +4519,8 @@ Frequency, v means the number of cycles per unit time.
 Infrared means the portion of the electromagnetic spectrum containing wavelengths from approximately 0.78 to 800 microns.
 Interferogram, I(σ) means record of the modulated component of the interference signal measured as a function of retardation by the detector.
 Interferometer means device that divides a beam of radiant energy into two or more paths, generates an optical path difference between the beams, and recombines them in order to produce repetitive interference maxima and minima as the optical retardation is varied.
-Linewidth means the full width at half maximum of an absorption band in units of wavenumbers (cm−1).
-Mid-infrared means the region of the electromagnetic spectrum from approximately 400 to 5000 cm−1.
+Linewidth means the full width at half maximum of an absorption band in units of wavenumbers (cm −1).
+Mid-infrared means the region of the electromagnetic spectrum from approximately 400 to 5000 cm −1.
 Reference spectra means absorption spectra of gases with known chemical compositions, recorded at a known absorption pathlength, which are used in the quantitative analysis of gas samples.
 Retardation, σ means optical path difference between two beams in an interferometer; also known as "optical path difference" or "optical retardation."
 Scan means digital representation of the detector output obtained during one complete motion of the interferometer's moving assembly or assemblies.
@@ -4531,129 +4531,129 @@ Standard reference material means a reference material, the composition or prope
 Note: The equivalent ISO term is "certified reference material."
 Transmittance, T means the ratio of radiant power transmitted by the sample to the radiant power incident on the sample. Estimated in FTIR spectroscopy by forming the ratio of the single-beam sample and background spectra.
 Wavenumber, v means the number of waves per unit length.
-Note: The usual unit of wavenumber is the reciprocal centimeter, cm−1. The wavenumber is the reciprocal of the wavelength, λ, when λ is expressed in centimeters.
+Note: The usual unit of wavenumber is the reciprocal centimeter, cm −1. The wavenumber is the reciprocal of the wavelength, λ, when λ is expressed in centimeters.
 Zero-filling means the addition of zero-valued points to the end of a measured interferogram.
 Note: Performing the FT of a zero-filled interferogram results in correctly interpolated points in the computed spectrum.
 A.2 Definitions of Mathematical Symbols. The symbols used in equations in this protocol are defined as follows:
 (1) A, absorbance = the logarithm to the base 10 of the reciprocal of the transmittance (T).
 ER14JN99.015
-(2) AAIim = band area of the ith analyte in the mth analytical region, at the concentration (CLi) corresponding to the product of its required detection limit (DLi) and analytical uncertainty limit (AUi).
-(3) AAVim = average absorbance of the ith analyte in the mth analytical region, at the concentration (CLi) corresponding to the product of its required detection limit (DLi) and analytical uncertainty limit (AUi).
+(2) AAI im = band area of the i th analyte in the m th analytical region, at the concentration (CL i) corresponding to the product of its required detection limit (DL i) and analytical uncertainty limit (AU i).
+(3) AAV im = average absorbance of the i th analyte in the m th analytical region, at the concentration (CL i) corresponding to the product of its required detection limit (DL i) and analytical uncertainty limit (AU i).
 (4) ASC, accepted standard concentration = the concentration value assigned to a chemical standard.
 (5) ASCPP, accepted standard concentration-pathlength product = for a chemical standard, the product of the ASC and the sample absorption pathlength. The units "centimeters-ppm" or "meters-ppm" are recommended.
-(6) AUi, analytical uncertainty limit = the maximum permissible fractional uncertainty of analysis for the ith analyte concentration, expressed as a fraction of the analyte concentration determined in the analysis.
-(7) AVTm = average estimated total absorbance in the mth analytical region.
-(8) CKWNk = estimated concentration of the kth known interferant.
-(9) CMAXi = estimated maximum concentration of the ith analyte.
-(10) CPOTj = estimated concentration of the jth potential interferant.
-(11) DLi, required detection limit = for the ith analyte, the lowest concentration of the analyte for which its overall fractional uncertainty (OFUi) is required to be less than the analytical uncertainty limit (AUi).
-(12) FCm = center wavenumber position of the mth analytical region.
-(13) FAUi, fractional analytical uncertainty = calculated uncertainty in the measured concentration of the ith analyte because of errors in the mathematical comparison of reference and sample spectra.
-(14) FCUi, fractional calibration uncertainty = calculated uncertainty in the measured concentration of the ith analyte because of errors in Beer's law modeling of the reference spectra concentrations.
-(15) FFLm = lower wavenumber position of the CTS absorption band associated with the mth analytical region.
-(16) FFUm = upper wavenumber position of the CTS absorption band associated with the mth analytical region.
-(17) FLm = lower wavenumber position of the mth analytical region.
-(18) FMUi, fractional model uncertainty = calculated uncertainty in the measured concentration of the ith analyte because of errors in the absorption model employed.
-(19) FNL = lower wavenumber position of the CTS spectrum containing an absorption band at least as narrow as the analyte absorption bands.
-(20) FNU = upper wavenumber position of the CTS spectrum containing an absorption band at least as narrow as the analyte absorption bands.
-(21) FRUi, fractional reproducibility uncertainty = calculated uncertainty in the measured concentration of the ith analyte because of errors in the reproducibility of spectra from the FTIR system.
-(22) FUm = upper wavenumber position of the mth analytical region.
-(23) IAIjm = band area of the jth potential interferant in the mth analytical region, at its expected concentration (CPOTj).
-(24) IAVim = average absorbance of the ith analyte in the mth analytical region, at its expected concentration (CPOTj).
-(25) ISCi or k, indicated standard concentration = the concentration from the computerized analytical program for a single-compound reference spectrum for the ith analyte or kth known interferant.
+(6) AU i, analytical uncertainty limit = the maximum permissible fractional uncertainty of analysis for the i th analyte concentration, expressed as a fraction of the analyte concentration determined in the analysis.
+(7) AVT m = average estimated total absorbance in the m th analytical region.
+(8) CKWN k = estimated concentration of the k th known interferant.
+(9) CMAX i = estimated maximum concentration of the i th analyte.
+(10) CPOT j = estimated concentration of the j th potential interferant.
+(11) DL i, required detection limit = for the i th analyte, the lowest concentration of the analyte for which its overall fractional uncertainty (OFU i) is required to be less than the analytical uncertainty limit (AU i).
+(12) FC m = center wavenumber position of the m th analytical region.
+(13) FAU i, fractional analytical uncertainty = calculated uncertainty in the measured concentration of the i th analyte because of errors in the mathematical comparison of reference and sample spectra.
+(14) FCU i, fractional calibration uncertainty = calculated uncertainty in the measured concentration of the i th analyte because of errors in Beer's law modeling of the reference spectra concentrations.
+(15) FFL m = lower wavenumber position of the CTS absorption band associated with the m th analytical region.
+(16) FFU m = upper wavenumber position of the CTS absorption band associated with the m th analytical region.
+(17) FL m = lower wavenumber position of the m th analytical region.
+(18) FMU i, fractional model uncertainty = calculated uncertainty in the measured concentration of the i th analyte because of errors in the absorption model employed.
+(19) FN L = lower wavenumber position of the CTS spectrum containing an absorption band at least as narrow as the analyte absorption bands.
+(20) FN U = upper wavenumber position of the CTS spectrum containing an absorption band at least as narrow as the analyte absorption bands.
+(21) FRU i, fractional reproducibility uncertainty = calculated uncertainty in the measured concentration of the i th analyte because of errors in the reproducibility of spectra from the FTIR system.
+(22) FU m = upper wavenumber position of the m th analytical region.
+(23) IAI jm = band area of the j th potential interferant in the m th analytical region, at its expected concentration (CPOT j).
+(24) IAV im = average absorbance of the i th analyte in the m th analytical region, at its expected concentration (CPOT j).
+(25) ISC i or k, indicated standard concentration = the concentration from the computerized analytical program for a single-compound reference spectrum for the i th analyte or k th known interferant.
 (26) kPa = kilo-Pascal (see Pascal).
-(27) LS′ = estimated sample absorption pathlength.
-(28) LR = reference absorption pathlength.
-(29) LS = actual sample absorption pathlength.
-(30) MAUi = mean of the MAUim over the appropriate analytical regions.
-(31) MAUim, minimum analyte uncertainty = the calculated minimum concentration for which the analytical uncertainty limit (AUi) in the measurement of the ith analyte, based on spectral data in the mth analytical region, can be maintained.
-(32) MIUj = mean of the MIUjm over the appropriate analytical regions.
-(33) MIUjm, minimum interferant uncertainty = the calculated minimum concentration for which the analytical uncertainty limit CPOTj/20 in the measurement of the jth interferant, based on spectral data in the mth analytical region, can be maintained.
+(27) L S ′ = estimated sample absorption pathlength.
+(28) L R = reference absorption pathlength.
+(29) L S = actual sample absorption pathlength.
+(30) MAU i = mean of the MAU im over the appropriate analytical regions.
+(31) MAU im, minimum analyte uncertainty = the calculated minimum concentration for which the analytical uncertainty limit (AU i) in the measurement of the i th analyte, based on spectral data in the m th analytical region, can be maintained.
+(32) MIU j = mean of the MIU jm over the appropriate analytical regions.
+(33) MIU jm, minimum interferant uncertainty = the calculated minimum concentration for which the analytical uncertainty limit CPOT j /20 in the measurement of the j th interferant, based on spectral data in the m th analytical region, can be maintained.
 (34) MIL, minimum instrumental linewidth = the minimum linewidth from the FTIR system, in wavenumbers.
 Note: The MIL of a system may be determined by observing an absorption band known (through higher resolution examinations) to be narrower than indicated by the system. The MIL is fundamentally limited by the retardation of the interferometer, but is also affected by other operational parameters (e.g., the choice of apodization).
-(35) Ni = number of analytes.
-(36) Nj = number of potential interferants.
-(37) Nk = number of known interferants.
-(38) Nscan = the number of scans averaged to obtain an interferogram.
-(39) OFUi = the overall fractional uncertainty in an analyte concentration determined in the analysis (OFUi = MAX[FRUi, FCUi, FAUi, FMUi]).
+(35) N i = number of analytes.
+(36) N j = number of potential interferants.
+(37) N k = number of known interferants.
+(38) N scan = the number of scans averaged to obtain an interferogram.
+(39) OFU i = the overall fractional uncertainty in an analyte concentration determined in the analysis (OFU i = MAX[FRU i, FCU i, FAU i, FMU i]).
 (40) Pascal (Pa) = metric unit of static pressure, equal to one Newton per square meter; one atmosphere is equal to 101,325 Pa; 1/760 atmosphere (one Torr, or one millimeter Hg) is equal to 133.322 Pa.
-(41) Pmin = minimum pressure of the sampling system during the sampling procedure.
-(42) PS′ = estimated sample pressure.
-(43) PR = reference pressure.
-(44) PS = actual sample pressure.
-(45) RMSSm = measured noise level of the FTIR system in the mth analytical region.
+(41) P min = minimum pressure of the sampling system during the sampling procedure.
+(42) P S ′ = estimated sample pressure.
+(43) P R = reference pressure.
+(44) P S = actual sample pressure.
+(45) RMS Sm = measured noise level of the FTIR system in the m th analytical region.
 (46) RMSD, root mean square difference = a measure of accuracy determined by the following equation:
 ER14JN99.016
 Where:
 n = the number of observations for which the accuracy is determined.
-ei = the difference between a measured value of a property and its mean value over the n observations.
-Note: The RMSD value "between a set of n contiguous absorbance values (Ai) and the mean of the values" (AM) is defined as
+e i = the difference between a measured value of a property and its mean value over the n observations.
+Note: The RMSD value "between a set of n contiguous absorbance values (A i) and the mean of the values" (A M) is defined as
 ER14JN99.017
-(47) RSAi = the (calculated) final concentration of the ith analyte.
-(48) RSIk = the (calculated) final concentration of the kth known interferant.
-(49) tscan, scan time = time used to acquire a single scan, not including flyback.
-(50) tS, signal integration period = the period of time over which an interferogram is averaged by addition and scaling of individual scans. In terms of the number of scans Nscan and scan time tscan, tS = Nscantscan.
-(51) tSR = signal integration period used in recording reference spectra.
-(52) tSS = signal integration period used in recording sample spectra.
-(53) TR = absolute temperature of gases used in recording reference spectra.
-(54) TS = absolute temperature of sample gas as sample spectra are recorded.
+(47) RSA i = the (calculated) final concentration of the i th analyte.
+(48) RSI k = the (calculated) final concentration of the k th known interferant.
+(49) t scan, scan time = time used to acquire a single scan, not including flyback.
+(50) t S, signal integration period = the period of time over which an interferogram is averaged by addition and scaling of individual scans. In terms of the number of scans N scan and scan time t scan, t S = N scan t scan.
+(51) t SR = signal integration period used in recording reference spectra.
+(52) t SS = signal integration period used in recording sample spectra.
+(53) T R = absolute temperature of gases used in recording reference spectra.
+(54) T S = absolute temperature of sample gas as sample spectra are recorded.
 (55) TP, Throughput = manufacturer's estimate of the fraction of the total infrared power transmitted by the absorption cell and transfer optics from the interferometer to the detector.
-(56) VSS = volume of the infrared absorption cell, including parts of attached tubing.
-(57) Wik = weight used to average over analytical regions k for quantities related to the analyte i; see appendix D of this addendum.
+(56) V SS = volume of the infrared absorption cell, including parts of attached tubing.
+(57) W ik = weight used to average over analytical regions k for quantities related to the analyte i; see appendix D of this addendum.
 Appendix B to Addendum to Method 320—Identifying Spectral Interferants
 B.1 General
-B.1.1 Assume a fixed absorption pathlength equal to the value LS′.
-B.1.2 Use band area calculations to compare the relative absorption strengths of the analytes and potential interferants. In the mth analytical region (FLm to FUm), use either rectangular or trapezoidal approximations to determine the band areas described below (see Reference A, sections A.3.1 through A.3.3). Document any baseline corrections applied to the spectra.
+B.1.1 Assume a fixed absorption pathlength equal to the value L S ′.
+B.1.2 Use band area calculations to compare the relative absorption strengths of the analytes and potential interferants. In the m th analytical region (FL m to FU m), use either rectangular or trapezoidal approximations to determine the band areas described below (see Reference A, sections A.3.1 through A.3.3). Document any baseline corrections applied to the spectra.
 B.1.3 Use the average total absorbance of the analytes and potential interferants in each analytical region to determine whether the analytical region is suitable for analyte concentration determinations.
 Note: The average absorbance in an analytical region is the band area divided by the width of the analytical region in wavenumbers. The average total absorbance in an analytical region is the sum of the average absorbances of all analytes and potential interferants.
 B.2 Calculations
-B.2.1 Prepare spectral representations of each analyte at the concentration CLi = (DLi)(AUi), where DLi is the required detection limit and AUi is the maximum permissible analytical uncertainty. For the mth analytical region, calculate the band area (AAIim) and average absorbance (AAVim) from these scaled analyte spectra.
-B.2.2 Prepare spectral representations of each potential interferant at its expected concentration (CPOTj). For the mth analytical region, calculate the band area (IAIjm) and average absorbance (IAVjm) from these scaled potential interferant spectra.
+B.2.1 Prepare spectral representations of each analyte at the concentration CL i = (DL i)(AU i), where DL i is the required detection limit and AU i is the maximum permissible analytical uncertainty. For the m th analytical region, calculate the band area (AAI im) and average absorbance (AAV im) from these scaled analyte spectra.
+B.2.2 Prepare spectral representations of each potential interferant at its expected concentration (CPOT j). For the m th analytical region, calculate the band area (IAI jm) and average absorbance (IAV jm) from these scaled potential interferant spectra.
 B.2.3 Repeat the calculation for each analytical region, and record the band area results in matrix form as indicated in Figure B.1.
-B.2.4 If the band area of any potential interferant in an analytical region is greater than the one-half the band area of any analyte (i.e., IAIjm >0.5 AAIim for any pair ij and any m), classify the potential interferant as a known interferant. Label the known interferants k = 1 to K. Record the results in matrix form as indicated in Figure B.2.
-B.2.5 Calculate the average total absorbance (AVTm) for each analytical region and record the values in the last row of the matrix described in Figure B.2. Any analytical region where AVTm >2.0 is unsuitable.
+B.2.4 If the band area of any potential interferant in an analytical region is greater than the one-half the band area of any analyte (i.e., IAI jm >0.5 AAI im for any pair ij and any m), classify the potential interferant as a known interferant. Label the known interferants k = 1 to K. Record the results in matrix form as indicated in Figure B.2.
+B.2.5 Calculate the average total absorbance (AVT m) for each analytical region and record the values in the last row of the matrix described in Figure B.2. Any analytical region where AVT m >2.0 is unsuitable.
 ER14JN99.018
 Appendix C to Addendum to Method 320—Estimating Noise Levels
 C.1 General
 C.1.1 The root-mean-square (RMS) noise level is the standard measure of noise in this addendum. The RMS noise level of a contiguous segment of a spectrum is defined as the RMS difference (RMSD) between the absorbance values which form the segment and the mean value of that segment (see appendix A of this addendum).
 C.1.2 The RMS noise value in double-beam absorbance spectra is assumed to be inversely proportional to: (a) the square root of the signal integration period of the sample single beam spectra from which it is formed, and (b) the total infrared power transmitted through the interferometer and absorption cell.
 C.1.3 Practically, the assumption of C.1.2 allows the RMS noise level of a complete system to be estimated from the quantities described in sections C.1.3.1 through C.1.3.4:
-C.1.3.1 RMSMAN, the noise level of the system (in absorbance units), without the absorption cell and transfer optics, under those conditions necessary to yield the specified minimum instrumental linewidth, e.g., Jacquinot stop size.
-C.1.3.2 tMAN, the manufacturer's signal integration time used to determine RMSMAN.
-C.1.3.3 tSS, the signal integration time for the analyses.
+C.1.3.1 RMS MAN, the noise level of the system (in absorbance units), without the absorption cell and transfer optics, under those conditions necessary to yield the specified minimum instrumental linewidth, e.g., Jacquinot stop size.
+C.1.3.2 t MAN, the manufacturer's signal integration time used to determine RMS MAN.
+C.1.3.3 t SS, the signal integration time for the analyses.
 C.1.3.4 TP, the manufacturer's estimate of the fraction of the total infrared power transmitted by the absorption cell and transfer optics from the interferometer to the detector.
 C.2 Calculations
-C.2.1 Obtain the values of RMSMAN, tMAN, and TP from the manufacturers of the equipment, or determine the noise level by direct measurements with the completely constructed system proposed in section 4 of this addendum.
-C.2.2 Calculate the noise value of the system (RMSEST) using equation C.1.
+C.2.1 Obtain the values of RMS MAN, t MAN, and TP from the manufacturers of the equipment, or determine the noise level by direct measurements with the completely constructed system proposed in section 4 of this addendum.
+C.2.2 Calculate the noise value of the system (RMS EST) using equation C.1.
 ER14JN99.019
 Appendix D to Addendum to Method 320—Estimating Minimum Concentration Measurement Uncertainties (MAU and MIU)
 D.1 General
-Estimate the minimum concentration measurement uncertainties for the ith analyte (MAUi) and jth interferant (MIUj) based on the spectral data in the mth analytical region by comparing the analyte band area in the analytical region (AAIim) and estimating or measuring the noise level of the system (RMSEST or RMSSM).
+Estimate the minimum concentration measurement uncertainties for the i th analyte (MAU i) and j th interferant (MIU j) based on the spectral data in the m th analytical region by comparing the analyte band area in the analytical region (AAI im) and estimating or measuring the noise level of the system (RMS EST or RMS SM).
 Note: For a single analytical region, the MAU or MIU value is the concentration of the analyte or interferant for which the band area is equal to the product of the analytical region width (in wavenumbers) and the noise level of the system (in absorbance units). If data from more than one analytical region are used in the determination of an analyte concentration, the MAU or MIU is the mean of the separate MAU or MIU values calculated for each analytical region.
 D.2 Calculations
-D.2.1 For each analytical region, set RMS = RMSSM if measured (appendix G of this addendum), or set RMS = RMSEST if estimated (appendix C of this addendum).
-D.2.2 For each analyte associated with the analytical region, calculate MAUim using equation D.1,
+D.2.1 For each analytical region, set RMS = RMS SM if measured (appendix G of this addendum), or set RMS = RMS EST if estimated (appendix C of this addendum).
+D.2.2 For each analyte associated with the analytical region, calculate MAU im using equation D.1,
 ER14JN99.020
-D.2.3 If only the mth analytical region is used to calculate the concentration of the ith analyte, set MAUi = MAUim.
-D.2.4 If more than one analytical region is used to calculate the concentration of the ith analyte, set MAUi equal to the weighted mean of the appropriate MAUim values calculated above; the weight for each term in the mean is equal to the fraction of the total wavenumber range used for the calculation represented by each analytical region. Mathematically, if the set of analytical regions employed is [m′], then the MAU for each analytical region is given by equation D.2.
+D.2.3 If only the m th analytical region is used to calculate the concentration of the i th analyte, set MAU i = MAU im.
+D.2.4 If more than one analytical region is used to calculate the concentration of the i th analyte, set MAU i equal to the weighted mean of the appropriate MAU im values calculated above; the weight for each term in the mean is equal to the fraction of the total wavenumber range used for the calculation represented by each analytical region. Mathematically, if the set of analytical regions employed is [m′], then the MAU for each analytical region is given by equation D.2.
 ER14JN99.021
-where the weight Wik is defined for each term in the sum as
+where the weight W ik is defined for each term in the sum as
 ER14JN99.022
-D.2.5 Repeat sections D.2.1 through D.2.4 of this appendix to calculate the analogous values MIUj for the interferants j = 1 to J. Replace the value (AUi) (DLi) in equation D.1 with CPOTj/20; replace the value AAIim in equation D.1 with IAIjm.
+D.2.5 Repeat sections D.2.1 through D.2.4 of this appendix to calculate the analogous values MIU j for the interferants j = 1 to J. Replace the value (AU i) (DL i) in equation D.1 with CPOT j /20; replace the value AAI im in equation D.1 with IAI jm.
 Appendix E to Addendum to Method 320—Determining Fractional Reproducibility Uncertainties (FRU)
 E.1 General
 To estimate the reproducibility of the spectroscopic results of the system, compare the CTS spectra recorded before and after preparing the reference spectra. Compare the difference between the spectra to their average band area. Perform the calculation for each analytical region on the portions of the CTS spectra associated with that analytical region.
 E.2 Calculations
-E.2.1 The CTS spectra {R1} consist of N spectra, denoted by S1i, i = 1, N. Similarly, the CTS spectra {R2} consist of N spectra, denoted by S2i, i = 1, N. Each Ski is the spectrum of a single compound, where i denotes the compound and k denotes the set {} of which Ski is a member. Form the spectra S3 according to S3i = S2i−S1i for each i. Form the spectra S4 according to S4i = [S2i + S1i]/2 for each i.
-E.2.2 Each analytical region m is associated with a portion of the CTS spectra S2i and S1i, for a particular i, with lower and upper wavenumber limits FFLm and FFUm, respectively.
-E.2.3 For each m and the associated i, calculate the band area of S4i in the wavenumber range FFUm to FFLm. Follow the guidelines of section B.1.2 of this addendum for this band area calculation. Denote the result by BAVm.
-E.2.4 For each m and the associated i, calculate the RMSD of S3i between the absorbance values and their mean in the wavenumber range FFUm to FFLm. Denote the result by SRMSm.
-E.2.5 For each analytical region m, calculate FMm using equation E.1,
+E.2.1 The CTS spectra {R1} consist of N spectra, denoted by S 1i, i = 1, N. Similarly, the CTS spectra {R2} consist of N spectra, denoted by S 2i, i = 1, N. Each S ki is the spectrum of a single compound, where i denotes the compound and k denotes the set {} of which S ki is a member. Form the spectra S 3 according to S 3i = S 2i −S 1i for each i. Form the spectra S 4 according to S 4i = [S 2i + S 1i]/2 for each i.
+E.2.2 Each analytical region m is associated with a portion of the CTS spectra S 2i and S 1i, for a particular i, with lower and upper wavenumber limits FFL m and FFU m, respectively.
+E.2.3 For each m and the associated i, calculate the band area of S 4i in the wavenumber range FFU m to FFL m. Follow the guidelines of section B.1.2 of this addendum for this band area calculation. Denote the result by BAV m.
+E.2.4 For each m and the associated i, calculate the RMSD of S 3i between the absorbance values and their mean in the wavenumber range FFU m to FFL m. Denote the result by SRMS m.
+E.2.5 For each analytical region m, calculate FM m using equation E.1,
 ER14JN99.023
-E.2.6 If only the mth analytical region is used to calculate the concentration of the ith analyte, set FRUi = FMm.
-E.2.7 If a number pi of analytical regions are used to calculate the concentration of the ith analyte, set FRUi equal to the weighted mean of the appropriate FMm values calculated according to section E.2.5. Mathematically, if the set of analytical regions employed is {m′}, then FRUi is given by equation E.2,
+E.2.6 If only the m th analytical region is used to calculate the concentration of the i th analyte, set FRU i = FM m.
+E.2.7 If a number p i of analytical regions are used to calculate the concentration of the i th analyte, set FRU i equal to the weighted mean of the appropriate FM m values calculated according to section E.2.5. Mathematically, if the set of analytical regions employed is {m′}, then FRU i is given by equation E.2,
 ER14JN99.024
-where the Wik are calculated as described in appendix D of this addendum.
+where the W ik are calculated as described in appendix D of this addendum.
 Appendix F of Addendum to Method 320—Determining Fractional Calibration Uncertainties (FCU)
 F.1 General
 F.1.1 The concentrations yielded by the computerized analytical program applied to each single-compound reference spectrum are defined as the indicated standard concentrations (ISC's). The ISC values for a single compound spectrum should ideally equal the accepted standard concentration (ASC) for one analyte or interferant, and should ideally be zero for all other compounds. Variations from these results are caused by errors in the ASC values, variations from the Beer's law (or modified Beer's law) model used to determine the concentrations, and noise in the spectra. When the first two effects dominate, the systematic nature of the errors is often apparent and the analyst shall take steps to correct them.
@@ -4662,7 +4662,7 @@ F.1.3 The computerized analytical programs shall also be required to yield accep
 F.2 Calculations
 F.2.1 Apply each analytical program to each reference spectrum. Prepare a similar table to that in Figure F.1 to present the ISC and ASC values for each analyte and interferant in each reference spectrum. Maintain the order of reference file names and compounds employed in preparing Figure F.1.
 F.2.2 For all reference spectra in Figure F.1, verify that the absolute values of the ISC's are less than the compound's MAU (for analytes) or MIU (for interferants).
-F.2.3 For each analyte reference spectrum, calculate the quantity (ASC-ISC)/ASC. For each analyte, calculate the mean of these values (the FCUi for the ith analyte) over all reference spectra. Prepare a similar table to that in Figure F.2 to present the FCUi and analytical uncertainty limit (AUi) for each analyte.
+F.2.3 For each analyte reference spectrum, calculate the quantity (ASC-ISC)/ASC. For each analyte, calculate the mean of these values (the FCU i for the i th analyte) over all reference spectra. Prepare a similar table to that in Figure F.2 to present the FCU i and analytical uncertainty limit (AU i) for each analyte.
 Figure F.1—Presentation of Accepted Standard Concentrations (ASC's) and Indicated Standard Concentrations (ISC's)
 Compound name | Reference spectrum file name | ASC (ppm) | ISC (ppm)
 | | | Analytes Interferants
@@ -4675,17 +4675,17 @@ G.1 General
 The root-mean-square (RMS) noise level is the standard measure of noise. The RMS noise level of a contiguous segment of a spectrum is the RMSD between the absorbance values that form the segment and the mean value of the segment (see appendix A of this addendum).
 G.2 Calculations
 G.2.1 Evacuate the absorption cell or fill it with UPC grade nitrogen at approximately one atmosphere total pressure.
-G.2.2 Record two single beam spectra of signal integration period tSS.
-G.2.3 Form the double beam absorption spectrum from these two single beam spectra, and calculate the noise level RMSSm in the M analytical regions.
-Appendix H of Addendum to Method 320—Determining Sample Absorption Pathlength (LS) and Fractional Analytical Uncertainty (FAU)
+G.2.2 Record two single beam spectra of signal integration period t SS.
+G.2.3 Form the double beam absorption spectrum from these two single beam spectra, and calculate the noise level RMS Sm in the M analytical regions.
+Appendix H of Addendum to Method 320—Determining Sample Absorption Pathlength (L S) and Fractional Analytical Uncertainty (FAU)
 H.1 General
-Reference spectra recorded at absorption pathlength (LR), gas pressure (PR), and gas absolute temperature (TR) may be used to determine analyte concentrations in samples whose spectra are recorded at conditions different from that of the reference spectra, i.e., at absorption pathlength (LS), absolute temperature (TS), and pressure (PS). This appendix describes the calculations for estimating the fractional uncertainty (FAU) of this practice. It also describes the calculations for determining the sample absorption pathlength from comparison of CTS spectra, and for preparing spectra for further instrumental and procedural checks.
-H.1.1 Before sampling, determine the sample absorption pathlength using least squares analysis. Determine the ratio LS/LR by comparing the spectral sets {R1} and {R3}, which are recorded using the same CTS at LS and LR, and TS and TR, but both at PR.
-H.1.2 Determine the fractional analysis uncertainty (FAU) for each analyte by comparing a scaled CTS spectral set, recorded at LS, TS, and PS, to the CTS reference spectra of the same gas, recorded at LR, TR, and PR. Perform the quantitative comparison after recording the sample spectra, based on band areas of the spectra in the CTS absorbance band associated with each analyte.
+Reference spectra recorded at absorption pathlength (L R), gas pressure (P R), and gas absolute temperature (T R) may be used to determine analyte concentrations in samples whose spectra are recorded at conditions different from that of the reference spectra, i.e., at absorption pathlength (L S), absolute temperature (T S), and pressure (P S). This appendix describes the calculations for estimating the fractional uncertainty (FAU) of this practice. It also describes the calculations for determining the sample absorption pathlength from comparison of CTS spectra, and for preparing spectra for further instrumental and procedural checks.
+H.1.1 Before sampling, determine the sample absorption pathlength using least squares analysis. Determine the ratio L S /L R by comparing the spectral sets {R1} and {R3}, which are recorded using the same CTS at L S and L R, and T S and T R, but both at P R.
+H.1.2 Determine the fractional analysis uncertainty (FAU) for each analyte by comparing a scaled CTS spectral set, recorded at L S, T S, and P S, to the CTS reference spectra of the same gas, recorded at L R, T R, and P R. Perform the quantitative comparison after recording the sample spectra, based on band areas of the spectra in the CTS absorbance band associated with each analyte.
 H.2 Calculations
-H.2.1 Absorption Pathlength Determination. Perform and document separate linear baseline corrections to each analytical region in the spectral sets {R1} and {R3}. Form a one-dimensional array AR containing the absorbance values from all segments of {R1} that are associated with the analytical regions; the members of the array are ARi, i = 1, n. Form a similar one-dimensional array AS from the absorbance values in the spectral set {R3}; the members of the array are ASi, i = 1, n. Based on the model AS = rAR + E, determine the least-squares estimate of r, the value of r which minimizes the square error E2. Calculate the sample absorption pathlength, LS, using equation H.1,
+H.2.1 Absorption Pathlength Determination. Perform and document separate linear baseline corrections to each analytical region in the spectral sets {R1} and {R3}. Form a one-dimensional array A R containing the absorbance values from all segments of {R1} that are associated with the analytical regions; the members of the array are A Ri, i = 1, n. Form a similar one-dimensional array A S from the absorbance values in the spectral set {R3}; the members of the array are A Si, i = 1, n. Based on the model A S = rA R + E, determine the least-squares estimate of r, the value of r which minimizes the square error E 2. Calculate the sample absorption pathlength, L S, using equation H.1,
 ER14JN99.025
-H.2.2 Fractional Analysis Uncertainty. Perform and document separate linear baseline corrections to each analytical region in the spectral sets {R1} and {R4}. Form the arrays AS and AR as described in section H.2.1 of this appendix, using values from {R1} to form AR, and values from {R4} to form AS. Calculate NRMSE and IAAV using equations H.2 and H.3,
+H.2.2 Fractional Analysis Uncertainty. Perform and document separate linear baseline corrections to each analytical region in the spectral sets {R1} and {R4}. Form the arrays A S and A R as described in section H.2.1 of this appendix, using values from {R1} to form A R, and values from {R4} to form A S. Calculate NRMS E and IA AV using equations H.2 and H.3,
 ER14JN99.026
 ER14JN99.027
 The fractional analytical uncertainty, FAU, is given by equation H.4,
@@ -4694,39 +4694,39 @@ Appendix I to Addendum to Method 320—Determining Fractional Model Uncertaintie
 I.1 General
 To prepare analytical programs for FTIR analyses, the sample constituents must first be assumed. The calculations in this appendix, based upon a simulation of the sample spectrum, shall be used to verify the appropriateness of these assumptions. The simulated spectra consist of the sum of single compound reference spectra scaled to represent their contributions to the sample absorbance spectrum; scaling factors are based on the indicated standard concentrations (ISC) and measured (sample) analyte and interferant concentrations, the sample and reference absorption pathlengths, and the sample and reference gas pressures. No band-shape correction for differences in the temperature of the sample and reference spectra gases is made; such errors are included in the FMU estimate. The actual and simulated sample spectra are quantitatively compared to determine the fractional model uncertainty; this comparison uses the reference spectra band areas and residuals in the difference spectrum formed from the actual and simulated sample spectra.
 I.2 Calculations
-I.2.1 For each analyte (with scaled concentration RSAi), select a reference spectrum SAi with indicated standard concentration ISCi. Calculate the scaling factors, RAi, using equation I.1,
+I.2.1 For each analyte (with scaled concentration RSA i), select a reference spectrum SA i with indicated standard concentration ISC i. Calculate the scaling factors, RA i, using equation I.1,
 ER14JN99.029
-Form the spectra SACi by scaling each SAi by the factor RAi.
-I.2.2 For each interferant, select a reference spectrum SIk with indicated standard concentration ISCk. Calculate the scaling factors, RIk, using equation I.2,
+Form the spectra SAC i by scaling each SA i by the factor RA i.
+I.2.2 For each interferant, select a reference spectrum SI k with indicated standard concentration ISC k. Calculate the scaling factors, RI k, using equation I.2,
 ER14JN99.030
-Form the spectra SICk by scaling each SIk by the factor RIk.
-I.2.3 For each analytical region, determine by visual inspection which of the spectra SACi and SICk exhibit absorbance bands within the analytical region. Subtract each spectrum SACi and SICk exhibiting absorbance from the sample spectrum SS to form the spectrum SUBS. To save analysis time and to avoid the introduction of unwanted noise into the subtracted spectrum, it is recommended that the calculation be made (1) only for those spectral data points within the analytical regions, and (2) for each analytical region separately using the original spectrum SS.
-I.2.4 For each analytical region m, calculate the RMSD of SUBS between the absorbance values and their mean in the region FFUm to FFLm. Denote the result by RMSSm.
-I.2.5 For each analyte i, calculate FMm, using equation I.3,
+Form the spectra SIC k by scaling each SI k by the factor RI k.
+I.2.3 For each analytical region, determine by visual inspection which of the spectra SAC i and SIC k exhibit absorbance bands within the analytical region. Subtract each spectrum SAC i and SIC k exhibiting absorbance from the sample spectrum S S to form the spectrum SUB S. To save analysis time and to avoid the introduction of unwanted noise into the subtracted spectrum, it is recommended that the calculation be made (1) only for those spectral data points within the analytical regions, and (2) for each analytical region separately using the original spectrum S S.
+I.2.4 For each analytical region m, calculate the RMSD of SUB S between the absorbance values and their mean in the region FFU m to FFL m. Denote the result by RMSS m.
+I.2.5 For each analyte i, calculate FM m, using equation I.3,
 ER14JN99.031
 for each analytical region associated with the analyte.
-I.2.6 If only the mth analytical region is used to calculate the concentration of the ith analyte, set FMUi = FMm.
-I.2.7 If a number of analytical regions are used to calculate the concentration of the ith analyte, set FMi equal to the weighted mean of the appropriate FMm values calculated using equation I-3. Mathematically, if the set of analytical regions employed is {m′}, then the fractional model uncertainty, FMU, is given by equation I.4,
+I.2.6 If only the m th analytical region is used to calculate the concentration of the i th analyte, set FMU i = FM m.
+I.2.7 If a number of analytical regions are used to calculate the concentration of the i th analyte, set FM i equal to the weighted mean of the appropriate FM m values calculated using equation I-3. Mathematically, if the set of analytical regions employed is {m′}, then the fractional model uncertainty, FMU, is given by equation I.4,
 ER14JN99.032
-where Wik is calculated as described in appendix D of this addendum.
+where W ik is calculated as described in appendix D of this addendum.
 Appendix J of Addendum to Method 320—Determining Overall Concentration Uncertainties (OCU)
-The calculations in this addendum estimate the measurement uncertainties for various FTIR measurements. The lowest possible overall concentration uncertainty (OCU) for an analyte is its MAU value, which is an estimate of the absolute concentration uncertainty when spectral noise dominates the measurement error. However, if the product of the largest fractional concentration uncertainty (FRU, FCU, FAU, or FMU) and the measured concentration of an analyte exceeds the MAU for the analyte, then the OCU is this product. In mathematical terms, set OFUi = MAX{FRUi, FCUi, FAUi, FMUi} and OCUi = MAX{RSAi*OFUi, MAUi}.
+The calculations in this addendum estimate the measurement uncertainties for various FTIR measurements. The lowest possible overall concentration uncertainty (OCU) for an analyte is its MAU value, which is an estimate of the absolute concentration uncertainty when spectral noise dominates the measurement error. However, if the product of the largest fractional concentration uncertainty (FRU, FCU, FAU, or FMU) and the measured concentration of an analyte exceeds the MAU for the analyte, then the OCU is this product. In mathematical terms, set OFU i = MAX{FRU i, FCU i, FAU i, FMU i } and OCU i = MAX{RSA i *OFU i, MAU i }.
 Test Method 321—Measurement of Gaseous Hydrogen Chloride Emissions At Portland Cement Kilns by Fourier Transform Infrared (FTIR) Spectroscopy
 1.0 Introduction
 This method should be performed by those persons familiar with the operation of Fourier Transform Infrared (FTIR) instrumentation in the application to source sampling. This document describes the sampling procedures for use in the application of FTIR spectrometry for the determination of vapor phase hydrogen chloride (HCl) concentrations both before and after particulate matter control devices installed at portland cement kilns. A procedure for analyte spiking is included for quality assurance. This method is considered to be self validating provided that the requirements listed in section 9 of this method are followed. The analytical procedures for interpreting infrared spectra from emission measurements are described in the "Protocol For The Use of Extractive Fourier Transform Infrared (FTIR) Spectrometry in Analyses of Gaseous Emissions From Stationary Industrial Sources", included as an addendum to proposed Method 320 of this appendix (hereafter referred to as the "FTIR Protocol)". References 1 and 2 describe the use of FTIR spectrometry in field measurements. Sample transport presents the principal difficulty in directly measuring HCl emissions. This identical problem must be overcome by any extractive measurement method. HCl is reactive and water soluble. The sampling system must be adequately designed to prevent sample condensation in the system.
 1.1 Scope and Application
 This method is specifically designed for the application of FTIR Spectrometry in extractive measurements of gaseous HCl concentrations in portland cement kiln emissions.
 1.2 Applicability
-This method applies to the measurement of HCl [CAS No. 7647-01-0]. This method can be applied to the determination of HCl concentrations both before and after particulate matter control devices installed at portland cement manufacturing facilities. This method applies to either continuous flow through measurement (with isolated sample analysis) or grab sampling (batch analysis). HCl is measured using the mid-infrared spectral region for analysis (about 400 to 4000 cm−1 or 25 to 2.5 µm). Table 1 lists the suggested analytical region for quantification of HCl taking the interference from water vapor into consideration.
+This method applies to the measurement of HCl [CAS No. 7647-01-0]. This method can be applied to the determination of HCl concentrations both before and after particulate matter control devices installed at portland cement manufacturing facilities. This method applies to either continuous flow through measurement (with isolated sample analysis) or grab sampling (batch analysis). HCl is measured using the mid-infrared spectral region for analysis (about 400 to 4000 cm −1 or 25 to 2.5 µm). Table 1 lists the suggested analytical region for quantification of HCl taking the interference from water vapor into consideration.
 Table 1—Example Analytical Region for HCl
-Compound | Analyticalregion (cm−1) | Potentialinterferants
+Compound | Analytical region (cm −1) | Potential interferants
 Hydrogen chloride | 2679-2840 | Water.
 1.3 Method Range and Sensitivity
 1.3.1 The analytical range is determined by the instrumental design and the composition of the gas stream. For practical purposes there is no upper limit to the range because the pathlength may be reduced or the sample may be diluted. The lower detection range depends on (1) the absorption coefficient of the compound in the analytical frequency region, (2) the spectral resolution, (3) the interferometer sampling time, (4) the detector sensitivity and response, and (5) the absorption pathlength.
-1.3.2 The practical lower quantification range is usually higher than that indicated by the instrument performance in the laboratory, and is dependent upon (1) the presence of interfering species in the exhaust gas (notably H2O), (2) the optical alignment of the gas cell and transfer optics, and (3) the quality of the reflective surfaces in the cell (cell throughput). Under typical test conditions (moisture content of up to 30 percent, 10 meter absorption path length, liquid nitrogen-cooled IR detector, 0.5 cm−1 resolution, and an interferometer sampling time of 60 seconds) a typical lower quantification range for HCl is 0.1 to 1.0 ppm.
+1.3.2 The practical lower quantification range is usually higher than that indicated by the instrument performance in the laboratory, and is dependent upon (1) the presence of interfering species in the exhaust gas (notably H 2 O), (2) the optical alignment of the gas cell and transfer optics, and (3) the quality of the reflective surfaces in the cell (cell throughput). Under typical test conditions (moisture content of up to 30 percent, 10 meter absorption path length, liquid nitrogen-cooled IR detector, 0.5 cm −1 resolution, and an interferometer sampling time of 60 seconds) a typical lower quantification range for HCl is 0.1 to 1.0 ppm.
 1.4 Data Quality Objectives
-1.4.1 In designing or configuring the analytical system, data quality is determined by measuring of the root mean square deviation (RMSD) of the absorbance values within a chosen spectral (analytical) region. The RMSD provides an indication of the signal-to-noise ratio (S/N) of the spectral baseline. Appendix D of the FTIR Protocol (the addendum to Method 320 of this appendix) presents a discussion of the relationship between the RMSD, lower detection limit, DLi, and analytical uncertainty, AUi. It is important to consider the target analyte quantification limit when performing testing with FTIR instrumentation, and to optimize the system to achieve the desired detection limit.
-1.4.2 Data quality is determined by measuring the root mean square (RMS) noise level in each analytical spectral region (appendix C of the FTIR Protocol). The RMS noise is defined as the root mean square deviation (RMSD) of the absorbance values in an analytical region from the mean absorbance value in the same region. Appendix D of the FTIR Protocol defines the minimum analyte uncertainty (MAU), and how the RMSD is used to calculate the MAU. The MAUim is the minimum concentration of the ith analyte in the mth analytical region for which the analytical uncertainty limit can be maintained. Table 2 presents example values of AU and MAU using the analytical region presented in Table 1.
+1.4.1 In designing or configuring the analytical system, data quality is determined by measuring of the root mean square deviation (RMSD) of the absorbance values within a chosen spectral (analytical) region. The RMSD provides an indication of the signal-to-noise ratio (S/N) of the spectral baseline. Appendix D of the FTIR Protocol (the addendum to Method 320 of this appendix) presents a discussion of the relationship between the RMSD, lower detection limit, DL i, and analytical uncertainty, AU i. It is important to consider the target analyte quantification limit when performing testing with FTIR instrumentation, and to optimize the system to achieve the desired detection limit.
+1.4.2 Data quality is determined by measuring the root mean square (RMS) noise level in each analytical spectral region (appendix C of the FTIR Protocol). The RMS noise is defined as the root mean square deviation (RMSD) of the absorbance values in an analytical region from the mean absorbance value in the same region. Appendix D of the FTIR Protocol defines the minimum analyte uncertainty (MAU), and how the RMSD is used to calculate the MAU. The MAU im is the minimum concentration of the ith analyte in the mth analytical region for which the analytical uncertainty limit can be maintained. Table 2 presents example values of AU and MAU using the analytical region presented in Table 1.
 Table 2—Example Pre-Test Protocol Calculations for Hydrogen Chloride
 | HCl
 Reference concentration (ppm-meters)/K | 11.2
@@ -4734,16 +4734,16 @@ Reference Band area | 2.881
 DL (ppm-meters)/K | 0.1117
 AU | 0.2
 CL (DL × AU) | 0.02234
-FL (cm−1) | 2679.83
-FU (cm−1) | 2840.93
-FC (cm−1) | 2760.38
+FL (cm −1) | 2679.83
+FU (cm −1) | 2840.93
+FC (cm −1) | 2760.38
 AAI (ppm-meters)/K | 0.06435
 RMSD | 2.28E-03
 MAU (ppm-meters)/K | 1.28E-01
 MAU ppm at 22 meters and 250 °F | .0.2284
 2.0 Summary of Method
 2.1 Principle
-See Method 320 of this appendix. HCl can also undergo rotation transitions by absorbing energy in the far-infrared spectral region. The rotational transitions are superimposed on the vibrational fundamental to give a series of lines centered at the fundamental vibrational frequency, 2885 cm-1. The frequencies of absorbance and the pattern of rotational/vibrational lines are unique to HCl. When this distinct pattern is observed in an infrared spectrum of an unknown sample, it unequivocally identifies HCl as a component of the mixture. The infrared spectrum of HCl is very distinctive and cannot be confused with the spectrum of any other compound. See Reference 6.
+See Method 320 of this appendix. HCl can also undergo rotation transitions by absorbing energy in the far-infrared spectral region. The rotational transitions are superimposed on the vibrational fundamental to give a series of lines centered at the fundamental vibrational frequency, 2885 cm- 1. The frequencies of absorbance and the pattern of rotational/vibrational lines are unique to HCl. When this distinct pattern is observed in an infrared spectrum of an unknown sample, it unequivocally identifies HCl as a component of the mixture. The infrared spectrum of HCl is very distinctive and cannot be confused with the spectrum of any other compound. See Reference 6.
 2.2 Sampling and Analysis. See Method 320 of this appendix.
 2.3 Operator Requirements. The analyst must have knowledge of spectral patterns to choose an appropriate absorption path length or determine if sample dilution is necessary. The analyst should also understand FTIR instrument operation well enough to choose instrument settings that are consistent with the objectives of the analysis.
 3.0 Definitions
@@ -4791,7 +4791,7 @@ See also Method 320 of this appendix.
 8.6.1 Extractive System. An extractive system maintained at 180 °C (360 °F) or higher which is capable of directing a total flow of at least 12 L/min to the sample cell is required (References 1 and 2). Insert the probe into the duct or stack at a point representing the average volumetric flow rate and 25 percent of the cross sectional area. Co-locate an appropriate flow monitoring device with the sample probe so that the flow rate is recorded at specified time intervals during emission testing (e.g., differential pressure measurements taken every 10 minutes during each run).
 8.6.2 Batch Samples. Evacuate the absorbance cell to 5 Torr (or less) absolute pressure before taking first sample. Fill the cell with kiln gas to ambient pressure and record the infrared spectrum, then evacuate the cell until there is no further evidence of infrared absorption. Repeat this procedure, collecting a total of six separate sample spectra within a 1-hour period.
 8.6.3 Continuous Flow Through Sampling. Purge the FTIR cell with kiln gas for a time period sufficient to equilibrate the entire sampling system and FTIR gas cell. The time required is a function of the mechanical response time of the system (determined by performing the system calibration with the CTS gas or equivalent), and by the chemical reactivity of the target analytes. If the effluent target analyte concentration is not variable, observation of the spectral up-date of the flowing gas sample should be performed until equilibration of the sample is achieved. Isolate the gas cell from the sample flow by directing the purge flow to vent. Record the spectrum and pressure of the sample gas. After spectral acquisition, allow the sample gas to purge the cell with at least three volumes of kiln gas. The time required to adequately purge the cell with the required volume of gas is a function of (1) cell volume, (2) flow rate through the cell, and (3) cell design. It is important that the gas introduction and vent for the FTIR cell provides a complete purge through the cell.
-8.6.4 Continuous Sampling. In some cases it is possible to collect spectra continuously while the FTIR cell is purged with sample gas. The sample integration time, tss, the sample flow rate through the gas cell, and the sample integration time must be chosen so that the collected data consist of at least 10 spectra with each spectrum being of a separate cell volume of flue gas. Sampling in this manner may only be performed if the native source analyte concentrations do not affect the test results.
+8.6.4 Continuous Sampling. In some cases it is possible to collect spectra continuously while the FTIR cell is purged with sample gas. The sample integration time, t ss, the sample flow rate through the gas cell, and the sample integration time must be chosen so that the collected data consist of at least 10 spectra with each spectrum being of a separate cell volume of flue gas. Sampling in this manner may only be performed if the native source analyte concentrations do not affect the test results.
 8.7 Sample Conditioning
 8.7.1 High Moisture Sampling. Kiln gas emitted from wet process cement kilns may contain 3- to 40 percent moisture. Zinc selenide windows or the equivalent should be used when attempting to analyze hot/wet kiln gas under these conditions to prevent dissolution of water soluble window materials (e.g., KBr).
 8.7.2 Sample Dilution. The sample may be diluted using an in-stack dilution probe, or an external dilution device provided that the sample is not diluted below the instrument's quantification range. As an alternative to using a dilution probe, nitrogen may be dynamically spiked into the effluent stream in the same manner as analyte spiking. A constant dilution rate shall be maintained throughout the measurement process. It is critical to measure and verify the exact dilution ratio when using a dilution probe or the nitrogen spiking approach. Calibrating the system with a calibration gas containing an appropriate tracer compound will allow determination of the dilution ratio for most measurement systems. The tester shall specify the procedures used to determine the dilution ratio, and include these calibration results in the report.
@@ -4802,11 +4802,11 @@ See also Method 320 of this appendix.
 9.0 Quality Control
 Use analyte spiking to verify the effectiveness of the sampling system for the target compounds in the actual kiln gas matrix. QA spiking shall be performed before and after each sample run. QA spiking shall be performed after the pre- and post-test CTS direct and system calibrations. The system biases calculated from the pre- and post-test dynamic analyte spiking shall be within ±30 percent for the spiked surrogate analytes for the measurements to be considered valid. See sections 9.3.1 through 9.3.2 for the requisite calculations. Measurement of the undiluted spike (direct-to-cell measurement) involves sending dry, spike gas to the FTIR cell, filling the cell to 1 atmosphere and obtaining the spectrum of this sample. The direct-to-cell measurement should be performed before each analyte spike so that the recovery of the dynamically spiked analytes may be calculated. Analyte spiking is only effective for assessing the integrity of the sampling system when the concentration of HCl in the source does not vary substantially. Any attempt to quantify an analyte recovery in a variable concentration matrix will result in errors in the expected concentration of the spiked sample. If the kiln gas target analyte concentrations vary by more than ±5 percent (or 5 ppm, whichever is greater) in the time required to acquire a sample spectrum, it may be necessary to: (1) Use a dual sample probe approach, (2) use two independent FTIR measurement systems, (3) use alternate QA/QC procedures, or (4) postpone testing until stable emission concentrations are achieved. (See section 9.2.3 of this method). It is recommended that a laboratory evaluation be performed before attempting to employ this method under actual field conditions. The laboratory evaluation shall include (1) performance of all applicable calculations in section 4 of the FTIR Protocol; (2) simulated analyte spiking experiments in dry (ambient) and humidified sample matrices using HCl; and (3) performance of bias (recovery) calculations from analyte spiking experiments. It is not necessary to perform a laboratory evaluation before every field test. The purpose of the laboratory study is to demonstrate that the actual instrument and sampling system configuration used in field testing meets the requirements set forth in this method.
 9.1 Spike Materials. Perform analyte spiking with an HCl standard to demonstrate the integrity of the sampling system.
-9.1.1 An HCl standard of approximately 50 ppm in a balance of ultra pure nitrogen is recommended. The SF6 (tracer) concentration shall be 2 to 5 ppm depending upon the measurement pathlength. The spike ratio (spike flow/total flow) shall be no greater than 1:10, and an ideal spike concentration should approximate the native effluent concentration.
+9.1.1 An HCl standard of approximately 50 ppm in a balance of ultra pure nitrogen is recommended. The SF 6 (tracer) concentration shall be 2 to 5 ppm depending upon the measurement pathlength. The spike ratio (spike flow/total flow) shall be no greater than 1:10, and an ideal spike concentration should approximate the native effluent concentration.
 9.1.2 The ideal spike concentration may not be achieved because the target concentration cannot be accurately predicted prior to the field test, and limited calibration standards will be available during testing. Therefore, practical constraints must be applied that allow the tester to spike at an anticipated concentration. For these tests, the analyte concentration contributed by the HCl standard spike should be 1 to 5 ppm or should more closely approximate the native concentration if it is greater.
 9.2 Spike Procedure
-9.2.1 A spiking/sampling apparatus is shown in Figure 2. Introduce the spike/tracer gas mixture at a constant flow (±2 percent) rate at approximately 10 percent of the total sample flow. (For example, introduce the surrogate spike at 1 L/min 20 cc/min, into a total sample flow rate of 10 L/min). The spike must be pre-heated before introduction into the sample matrix to prevent a localized condensation of the gas stream at the spike introduction point. A heated sample transport line(s) containing multiple transport tubes within the heated bundle may be used to spike gas up through the sampling system to the spike introduction point. Use a calibrated flow device (e.g., mass flow meter/controller), to monitor the spike flow as indicated by a calibrated flow meter or controller, or alternately, the SF6 tracer ratio may be calculated from the direct measurement and the diluted measurement. It is often desirable to use the tracer approach in calculating the spike/total flow ratio because of the difficulty in accurately measuring hot/wet total flow. The tracer technique has been successfully used in past validation efforts (Reference 1).
-9.2.2 Perform a direct-to-cell measurement of the dry, undiluted spike gas. Introduce the spike directly to the FTIR cell, bypassing the sampling system. Fill cell to 1 atmosphere and collect the spectrum of this sample. Ensure that the spike gas has equilibrated to the temperature of the measurement cell before acquisition of the spectra. Inspect the spectrum and verify that the gas is dry and contains negligible CO2. Repeat the process to obtain a second direct-to-cell measurement. Analysis of spectral band areas for HCl from these duplicate measurements should agree to within ±5 percent of the mean.
+9.2.1 A spiking/sampling apparatus is shown in Figure 2. Introduce the spike/tracer gas mixture at a constant flow (±2 percent) rate at approximately 10 percent of the total sample flow. (For example, introduce the surrogate spike at 1 L/min 20 cc/min, into a total sample flow rate of 10 L/min). The spike must be pre-heated before introduction into the sample matrix to prevent a localized condensation of the gas stream at the spike introduction point. A heated sample transport line(s) containing multiple transport tubes within the heated bundle may be used to spike gas up through the sampling system to the spike introduction point. Use a calibrated flow device (e.g., mass flow meter/controller), to monitor the spike flow as indicated by a calibrated flow meter or controller, or alternately, the SF 6 tracer ratio may be calculated from the direct measurement and the diluted measurement. It is often desirable to use the tracer approach in calculating the spike/total flow ratio because of the difficulty in accurately measuring hot/wet total flow. The tracer technique has been successfully used in past validation efforts (Reference 1).
+9.2.2 Perform a direct-to-cell measurement of the dry, undiluted spike gas. Introduce the spike directly to the FTIR cell, bypassing the sampling system. Fill cell to 1 atmosphere and collect the spectrum of this sample. Ensure that the spike gas has equilibrated to the temperature of the measurement cell before acquisition of the spectra. Inspect the spectrum and verify that the gas is dry and contains negligible CO 2. Repeat the process to obtain a second direct-to-cell measurement. Analysis of spectral band areas for HCl from these duplicate measurements should agree to within ±5 percent of the mean.
 9.2.3 Analyte Spiking. Determine whether the kiln gas contains native concentrations of HCl by examination of preliminary spectra. Determine whether the concentration varies significantly with time by observing a continuously up-dated spectrum of sample gas in the flow-through sampling mode. If the concentration varies by more than ±5 percent during the period of time required to acquire a spectra, then an alternate approach should be used. One alternate approach uses two sampling lines to convey sample to the gas distribution manifold. One of the sample lines is used to continuously extract unspiked kiln gas from the source. The other sample line serves as the analyte spike line. One FTIR system can be used in this arrangement. Spiked or unspiked sample gas may be directed to the FTIR system from the gas distribution manifold, with the need to purge only the components between the manifold and the FTIR system. This approach minimizes the time required to acquire an equilibrated sample of spiked or unspiked kiln gas. If the source varies by more than ±5 percent (or 5 ppm, whichever is greater) in the time it takes to switch from the unspiked sample line to the spiked sample line, then analyte spiking may not be a feasible means to determine the effectiveness of the sampling system for the HCl in the sample matrix. A second alternative is to use two completely independent FTIR measurement systems. One system would measure unspiked samples while the other system would measure the spiked samples. As a last option, (where no other alternatives can be used) a humidified nitrogen stream may be generated in the field which approximates the moisture content of the kiln gas. Analyte spiking into this humidified stream can be employed to assure that the sampling system is adequate for transporting the HCl to the FTIR instrumentation.
 9.2.3.1 Adjust the spike flow rate to approximately 10 percent of the total flow by metering spike gas through a calibrated mass flowmeter or controller. Allow spike flow to equilibrate within the sampling system before analyzing the first spiked kiln gas samples. A minimum of two consecutive spikes are required. Analysis of the spectral band area used for quantification should agree to within ±5 percent or corrective action must be taken.
 9.2.3.2 After QA spiking is completed, the sampling system components shall be purged with nitrogen or dry air to eliminate traces of the HCl compound from the sampling system components. Acquire a sample spectra of the nitrogen purge to verify the absence of the calibration mixture.
@@ -4814,27 +4814,27 @@ Use analyte spiking to verify the effectiveness of the sampling system for the t
 9.2.3.3.1 The spike must be in the vapor phase, dry, and heated to (or above) the kiln gas temperature before it is introduced to the kiln gas stream.
 9.2.3.3.2 The spike flow rate must be constant and accurately measured.
 9.2.3.3.3 The total flow must also be measured continuously and reliably or the dilution ratio must otherwise be verified before and after a run by introducing a spike of a non-reactive, stable compound (i.e., tracer).
-9.2.3.3.4 The tracer must be inert to the sampling system components, not contained in the effluent gas, and readily detected by the analytical instrumentation. Sulfur hexafluoride (SF6) has been used successfully (References 1 and 2) for this purpose.
+9.2.3.3.4 The tracer must be inert to the sampling system components, not contained in the effluent gas, and readily detected by the analytical instrumentation. Sulfur hexafluoride (SF 6) has been used successfully (References 1 and 2) for this purpose.
 9.3 Calculations
 9.3.1 Recovery. Calculate the percent recovery of the spiked analytes using equations 1 and 2.
 ER14JN99.033
-Sm = Mean concentration of the analyte spiked effluent samples (observed).
+S m = Mean concentration of the analyte spiked effluent samples (observed).
 ER14JN99.034
-Ce = Expected concentration of the spiked samples (theoretical).
+C e = Expected concentration of the spiked samples (theoretical).
 DF = Dilution Factor (Total flow/Spike flow). Total flow = spike flow plus effluent flow.
-Cs = cylinder concentration of spike gas.
-Su = native concentration of analytes in unspiked samples.
+C s = cylinder concentration of spike gas.
+S u = native concentration of analytes in unspiked samples.
 The spike dilution factor may be confirmed by measuring the total flow and the spike flow directly. Alternately, the spike dilution can be verified by comparing the concentration of the tracer compound in the spiked samples (diluted) to the tracer concentration in the direct (undiluted) measurement of the spike gas.
-If SF6 is the tracer gas, then
+If SF 6 is the tracer gas, then
 ER14JN99.035
-[SF6]spike = the diluted SF6 concentration measured in a spiked sample.
-[SF6]direct = the SF6 concentration measured directly.
+[SF 6] spike = the diluted SF 6 concentration measured in a spiked sample.
+[SF 6] direct = the SF 6 concentration measured directly.
 9.3.2 Bias. The bias may be determined by the difference between the observed spike value and the expected response (i.e., the equivalent concentration of the spiked material plus the analyte concentration adjusted for spike dilution). Bias is defined by section 6.3.1 of EPA Method 301 of this appendix (Reference 8) as,
 ER14JN99.036
 Where:
 B = Bias at spike level.
-Sm = Mean concentration of the analyte spiked samples.
-Ce = Expected concentration of the analyte in spiked samples.
+S m = Mean concentration of the analyte spiked samples.
+C e = Expected concentration of the analyte in spiked samples.
 Acceptable recoveries for analyte spiking are ±30 percent. Application of correction factors to the data based upon bias and recovery calculations is subject to the approval of the Administrator.
 10.0 Calibration and Standardization
 10.1 Calibration transfer standards (CTS). The EPA Traceability Protocol gases or NIST traceable standards, with a minimum accuracy of ±2 percent shall be used. For other requirements of the CTS, see the FTIR Protocol section 4.5.
@@ -4849,12 +4849,12 @@ Data analysis is performed using appropriate reference spectra whose concentrati
 12.1 Calculated concentrations in sample spectra are corrected for differences in absorption pathlength between the reference and sample spectra by
 ER14JN99.037
 Where:
-Ccorr = The pathlength corrected concentration.
-Ccalc = The initial calculated concentration (output of the multicomponent analysis program designed for the compound).
-Lr = The pathlength associated with the reference spectra.
-Ls = The pathlength associated with the sample spectra.
-Ts = The absolute temperature (K) of the sample gas.
-Tr = The absolute temperature (K) at which reference spectra were recorded.
+C corr = The pathlength corrected concentration.
+C calc = The initial calculated concentration (output of the multicomponent analysis program designed for the compound).
+L r = The pathlength associated with the reference spectra.
+L s = The pathlength associated with the sample spectra.
+T s = The absolute temperature (K) of the sample gas.
+T r = The absolute temperature (K) at which reference spectra were recorded.
 12.2 The temperature correction in equation 5 is a volumetric correction. It does not account for temperature dependence of rotational-vibrational relative line intensities. Whenever possible, the reference spectra used in the analysis should be collected at a temperature near the temperature of the FTIR cell used in the test to minimize the calculated error in the measurement (FTIR Protocol, appendix D). Additionally, the analytical region chosen for the analysis should be sufficiently broad to minimize errors caused by small differences in relative line intensities between reference spectra and the sample spectra.
 13.0 Method Performance
 A description of the method performance may be found in the FTIR Protocol. This method is self validating provided the results meet the performance specification of the QA spike in sections 9.0 through 9.3 of this method.
@@ -4888,7 +4888,7 @@ Method 323—Measurement of Formaldehyde Emissions From Natural Gas-Fired Statio
 4.0 Interferences. The presence of acetaldehyde, amines, polymers of formaldehyde, periodate, and sulfites can cause interferences with the acetyl acetone procedure which is used to determine the formaldehyde concentration. However, based on experience gained from extensive testing of natural gas-fired combustion sources using FTIR to measure a variety of compounds, GRI expects only acetaldehyde to be potentially present when combusting natural gas. Acetaldehyde has been reported to be a significant interference only when present at concentrations above 50 ppmv. However, GRI reports that the concentration of acetaldehyde from gas-fired sources is very low (typically below the FTIR detection limit of around 0.5 ppmv); therefore, the potential positive bias due to acetaldehyde interference is expected to be negligible.
 5.0 Safety
 5.1 Prior to applying the method in the field, a site-specific Health and Safety Plan should be prepared. General safety precautions include the use of steel-toed boots, safety glasses, hard hats, and work gloves. In certain cases, facility policy may require the use of fire-resistant clothing while on-site. Since the method involves testing at high-temperature sampling locations, precautions must be taken to limit the potential for exposure to high-temperature gases and surfaces while inserting or removing the sample probe. In warm locations, precautions must also be taken to avoid dehydration.
-5.2 Potential chemical hazards associated with sampling include formaldehyde, nitrogen oxides (NOX), and carbon monoxide (CO). Formalin solution, used for field spiking, is an aqueous solution containing formaldehyde and methanol. Formaldehyde is a skin, eye, and respiratory irritant and a carcinogen, and should be handled accordingly. Eye and skin contact and inhalation of formaldehyde vapors should be avoided. Natural gas-fired combustion sources can potentially emit CO at toxic concentrations. Care should be taken to minimize exposure to the sample gas while inserting or removing the sample probe. If the work area is enclosed, personal CO monitors should be used to insure that the concentration of CO in the work area is maintained at safe levels.
+5.2 Potential chemical hazards associated with sampling include formaldehyde, nitrogen oxides (NO X), and carbon monoxide (CO). Formalin solution, used for field spiking, is an aqueous solution containing formaldehyde and methanol. Formaldehyde is a skin, eye, and respiratory irritant and a carcinogen, and should be handled accordingly. Eye and skin contact and inhalation of formaldehyde vapors should be avoided. Natural gas-fired combustion sources can potentially emit CO at toxic concentrations. Care should be taken to minimize exposure to the sample gas while inserting or removing the sample probe. If the work area is enclosed, personal CO monitors should be used to insure that the concentration of CO in the work area is maintained at safe levels.
 5.3 Potential chemical hazards associated with the analytical procedures include acetyl acetone and glacial acetic acid. Acetyl acetone is an irritant to the skin and respiratory system, as well as being moderately toxic. Glacial acetic acid is highly corrosive and is an irritant to the skin, eyes, and respiratory system. Eye and skin contact and inhalation of vapors should be avoided. Acetyl acetone and glacial acetic acid have flash points of 41 °C (105.8 °F) and 43 °C (109.4 °F), respectively. Exposure to heat or flame should be avoided.
 6.0 Equipment and Supplies
 6.1 Sampling Probe. Quartz glass probe with stainless steel sheath or stainless steel probe.
@@ -4909,7 +4909,7 @@ Method 323—Measurement of Formaldehyde Emissions From Natural Gas-Fired Statio
 7.2.4 Glacial Acetic Acid
 8.0 Sample Collection, Preservation, Storage, and Transport
 8.1 Pre-test
-8.1.1 Collect information about the site characteristics such as exhaust pipe diameter, gas flow rates, port location, access to ports, and safety requirements during a pre-test site survey. You should then decide the sample collection period per run and the target sample flow rate based on your best estimate of the formaldehyde concentration likely to be present. You want to assure that sufficient formaldehyde is captured in the impinger solution so that it can be measured precisely by the spectrophotometer. You may use Equation 323-1 to design your test program. As a guideline for optimum performance, if you can, design your test so that the liquid concentration (Cl) is approximately 10 times the assumed spectrophotometer detection limit of 0.2 µg/mL. However, since actual detection limits are instrument specific, we also suggest that you confirm that the laboratory equipment can meet or exceed this detection limit.
+8.1.1 Collect information about the site characteristics such as exhaust pipe diameter, gas flow rates, port location, access to ports, and safety requirements during a pre-test site survey. You should then decide the sample collection period per run and the target sample flow rate based on your best estimate of the formaldehyde concentration likely to be present. You want to assure that sufficient formaldehyde is captured in the impinger solution so that it can be measured precisely by the spectrophotometer. You may use Equation 323-1 to design your test program. As a guideline for optimum performance, if you can, design your test so that the liquid concentration (C l) is approximately 10 times the assumed spectrophotometer detection limit of 0.2 µg/mL. However, since actual detection limits are instrument specific, we also suggest that you confirm that the laboratory equipment can meet or exceed this detection limit.
 8.1.2 Prepare and then weigh the midget impingers prior to configuring the sampling train. The first impinger is initially dry. The second impinger contains 20 mL of reagent water, and the third impinger contains silica gel that is added before weighing the impinger. Each prepared impinger is weighed and the pre-sampling weight is recorded to the nearest 0.5 gm.
 8.1.3 Assemble the sampling train (see Figure 1). Ice is packed around the impingers in order to keep them cold during sample collection. A small amount of water may be added to the ice to improve thermal transfer.
 8.1.4 Perform a sampling system leak check (from the probe tip to the pump outlet) as follows: Connect a rotameter to the outlet of the pump. Close off the inlet to the probe and observe the leak rate. The leak rate must be less than 2 percent of the planned sampling rate of 0.2 or 0.4 L/min.
@@ -4928,7 +4928,7 @@ Note: It is critical that you do not sample at a flow rate higher than 0.4 L/min
 8.4.3 Field Blank. A field blank consisting of reagent water placed in a clean impinger train, taken to the test site but not sampled, then recovered and analyzed in the same manner as the other samples, should be collected with each set of source samples. The field blank results should be less than 50 percent of the lowest calibration standard used in the sample analysis. If this criteria is not met, the data should be flagged as suspect.
 9.0 Quality Control
 QA/QC | Acceptance | Frequency | Corrective action
-Leak-check—Sections 8.1.4, 8.3 | <2% of Sampling rate | Pre- and Post-sampling | Pre-sampling: Repair leak and recheckPost-sampling: Flag data and repeat run if for regulatory compliance.
+Leak-check—Sections 8.1.4, 8.3 | <2% of Sampling rate | Pre- and Post-sampling | Pre-sampling: Repair leak and recheck Post-sampling: Flag data and repeat run if for regulatory compliance.
 Sample flow rate | Between 0.2 and 0.4 L/min | Throughout sampling | Adjust.
 VOA vial headspace | No headspace | After sample recovery | Flag data.
 Sample preservation | Maintain on ice | After sample recovery | Flag data.
@@ -4953,38 +4953,38 @@ Analytical Blanks—Section 11.2.2 | <50% of the lowest calibration standard | O
 12.1 Nomenclature
 A = measured absorbance of 2 mL aliquot
 B = estimated sampling rate, Lpm
-Cl = target concentration in liquid, µg/mL
+C l = target concentration in liquid, µg/mL
 D = estimated stack formaldehyde concentration (ppmv)
 E = estimated liquid volume, normally 40 mL (the size of the VOA used)
-cform = formaldehyde concentration in gas stream, ppmvd
-cform @15%02 = formaldehyde concentration in gas stream corrected to 15% oxygen, ppmvd
-Csm = measured concentration of formaldehyde in the spiked aliquot
-Cu = measured concentration of formaldehyde in the unspiked aliquot of the same sample
-Cs = calculated concentration of formaldehyde spiking solution added to the spiked aliquot
+c form = formaldehyde concentration in gas stream, ppmvd
+c form @15%0 2 = formaldehyde concentration in gas stream corrected to 15% oxygen, ppmvd
+C sm = measured concentration of formaldehyde in the spiked aliquot
+C u = measured concentration of formaldehyde in the unspiked aliquot of the same sample
+C s = calculated concentration of formaldehyde spiking solution added to the spiked aliquot
 F = dilution factor, 1 unless dilution of the sample was needed to reduce the absorbance into the calibration range
-Fd = dry basis F-factor from Method 19, dscf per million btu GCVg = Gross calorific value (or higher heating value), btu per scf
-Kc = spectrophotometer calibration factor, slope of the least square regression line, µg/absorbance (Note: Most spreadsheets are capable of calculating a least squares line.)
-K1 = 0.3855°K/mm Hg for metric units, (17.65°R/in.Hg for English units.)
+F d = dry basis F-factor from Method 19, dscf per million btu GCV g = Gross calorific value (or higher heating value), btu per scf
+K c = spectrophotometer calibration factor, slope of the least square regression line, µg/absorbance (Note: Most spreadsheets are capable of calculating a least squares line.)
+K 1 = 0.3855°K/mm Hg for metric units, (17.65°R/in.Hg for English units.)
 MW = molecular weight, 30 g/g-mole, for formaldehyde 24.05 = mole specific volume constant, liters per g-mole
 m = mass of formaldehyde in liquid sample, mg
-Pstd = Standard pressure, 760 mm Hg (29.92 in.Hg)
-Pbar = Barometric pressure, mm Hg (in.Hg)
+P std = Standard pressure, 760 mm Hg (29.92 in.Hg)
+P bar = Barometric pressure, mm Hg (in.Hg)
 PD = Percent Difference
-Qe = exhaust flow rate, dscf per minute
-Qg = natural gas fuel flow rate, scf per minute
-Tm = Average DGM absolute temperature, °K (°R).
-Tstd = Standard absolute temperature, 293 °K (528 °R).
+Q e = exhaust flow rate, dscf per minute
+Q g = natural gas fuel flow rate, scf per minute
+T m = Average DGM absolute temperature, °K (°R).
+T std = Standard absolute temperature, 293 °K (528 °R).
 t = sample time (minutes)
-Vm = Dry gas volume as measured by the DGM, dcm (dcf).
-Vm(std) = Dry gas volume measured by the DGM, corrected to standard conditions of 1 atmosphere and 20 °C, dscm (dscf).
-Vt = actual total volume of impinger catch/rinsate, mL
-Va = volume (2.0) of aliquot analyzed, mL
-X1 = first value
-X2 = second value
-O2d = oxygen concentration measured, percent by volume, dry basis
+V m = Dry gas volume as measured by the DGM, dcm (dcf).
+V m(std) = Dry gas volume measured by the DGM, corrected to standard conditions of 1 atmosphere and 20 °C, dscm (dscf).
+V t = actual total volume of impinger catch/rinsate, mL
+V a = volume (2.0) of aliquot analyzed, mL
+X 1 = first value
+X 2 = second value
+O 2d = oxygen concentration measured, percent by volume, dry basis
 %R = percent recovery of spike
-Zu = volume fraction of unspiked (native) sample contained in the final spiked aliquot [e.g., Vu/(Vu + Vs), where Vu + Vs should = 2.0 mL]
-Zs = volume fraction of spike solution contained in the final spiked aliquot [e.g., Vs/(Vu + Vs)]
+Z u = volume fraction of unspiked (native) sample contained in the final spiked aliquot [e.g., Vu/(Vu + Vs), where Vu + Vs should = 2.0 mL]
+Z s = volume fraction of spike solution contained in the final spiked aliquot [e.g., Vs/(Vu + Vs)]
 R = 0.02405 dscm per g-mole, for metric units at standard conditions of 1 atmosphere and 20 °C
 Y = Dry Gas Meter calibration factor
 12.2 Pretest Design
@@ -5025,8 +5025,8 @@ Method 325A—Volatile Organic Compounds from Fugitive and Area Sources:
 Sampler Deployment and VOC Sample Collection
 1.0 Scope and Application
 1.1 This method describes collection of volatile organic compounds (VOCs) at or inside a facility property boundary or from fugitive and area emission sources using passive (diffusive) tube samplers (PS). The concentration of airborne VOCs at or near these potential fugitive- or area-emission sources may be determined using this method in combination with Method 325B. Companion Method 325B (Sampler Preparation and Analysis) describes preparation of sampling tubes, shipment and storage of exposed sampling tubes, and analysis of sampling tubes collected using either this passive sampling procedure or alternative active (pumped) sampling methods.
-1.2 This method may be used to determine the average concentration of the select VOCs using the corresponding uptake rates listed in Method 325B, Table 12.1. Additional compounds or alternative sorbents must be evaluated as described in Addendum A of Method 325B or by one of the following national/international standard methods: ISO 16017-2:2003(E), ASTM D6196-03 (Reapproved 2009), or BS EN 14662-4:2005 (all incorporated by reference—see § 63.14), or reported in the peer-reviewed open literature.
-1.3 Methods 325A and 325B are valid for the measurement of benzene. Supporting literature (References 1-8) indicates that benzene can be measured by flame ionization detection or mass spectrometry over a concentration range of approximately 0.5 micrograms per cubic meter (µg/m3) to at least 500 µg/m3 when industry standard (3.5 inch long × 0.25 inch outside diameter (o.d.) × 5 mm inner diameter (i.d.)) inert-coated stainless steel sorbent tubes packed with CarbographTM 1 TD, CarbopackTM B, or CarbopackTM X or equivalent are used and when samples are accumulated over a period of 14 days.
+1.2 This method may be used to determine the average concentration of the select VOCs using the corresponding uptake rates listed in Method 325B, Table 12.1. Additional compounds or alternative sorbents must be evaluated as described in Addendum A of Method 325B or by one of the following national/ international standard methods: ISO 16017-2:2003(E), ASTM D6196-03 (Reapproved 2009), or BS EN 14662-4:2005 (all incorporated by reference—see § 63.14), or reported in the peer-reviewed open literature.
+1.3 Methods 325A and 325B are valid for the measurement of benzene. Supporting literature (References 1-8) indicates that benzene can be measured by flame ionization detection or mass spectrometry over a concentration range of approximately 0.5 micrograms per cubic meter (µg/m 3) to at least 500 µg/m 3 when industry standard (3.5 inch long × 0.25 inch outside diameter (o.d.) × 5 mm inner diameter (i.d.)) inert-coated stainless steel sorbent tubes packed with Carbograph TM 1 TD, Carbopack TM B, or Carbopack TM X or equivalent are used and when samples are accumulated over a period of 14 days.
 1.4 This method may be applied to screening average airborne VOC concentrations at facility property boundaries or monitoring perimeters over an extended period of time using multiple sampling periods (e.g., 26 × 14-day sampling periods). The duration of each sampling period is normally 14 days.
 1.5 This method requires the collection of local meteorological data (wind speed and direction, temperature, and barometric pressure). Although local meteorology is a component of this method, non-regulatory applications of this method may use regional meteorological data. Such applications risk that the results may not identify the precise source of the emissions.
 2.0 Summary of the Method
@@ -5052,10 +5052,10 @@ The diffusive passive sampler collects VOC from air for a measured time period a
 3.2 Passive sampler (PS) means a specific type of sorbent tube (defined in this method) that has a fixed dimension air (diffusion) gap at the sampling end and is sealed at the other end.
 3.3 Passive sampling refers to the activity of quantitatively collecting VOC on sorbent tubes using the process of diffusion.
 3.4 PS i is the annual average for all PS concentration results from location i.
-3.5 PS i3 is the set of annual average concentration results for PSi and two sorbent tubes nearest to the PS location i.
+3.5 PS i3 is the set of annual average concentration results for PS i and two sorbent tubes nearest to the PS location i.
 3.6 PS ip is the concentration from the sorbent tube at location i for the test period or episode p.
 3.7 Sampling period is the length of time each passive sampler is exposed during field monitoring. The sampling period for this method is 14 days.
-3.8 Sorbent tube (Also referred to as tube, PS tube, adsorbent tube, and sampling tube) is an inert coated stainless steel tube. Standard PS tube dimensions for this method are 3.5-inch (89 mm) long × 0.25-inch (6.4 mm) o.d. with an i.d. of 5 mm, a cross-sectional area of 19.6 mm2 and an air gap of 15 mm. The central portion of the tube is packed with solid adsorbent material contained between 2 × 100-mesh stainless steel gauzes and terminated with a diffusion cap at the sampling end of the tube. These axial passive samplers are installed under a protective hood during field deployment.
+3.8 Sorbent tube (Also referred to as tube, PS tube, adsorbent tube, and sampling tube) is an inert coated stainless steel tube. Standard PS tube dimensions for this method are 3.5-inch (89 mm) long × 0.25-inch (6.4 mm) o.d. with an i.d. of 5 mm, a cross-sectional area of 19.6 mm 2 and an air gap of 15 mm. The central portion of the tube is packed with solid adsorbent material contained between 2 × 100-mesh stainless steel gauzes and terminated with a diffusion cap at the sampling end of the tube. These axial passive samplers are installed under a protective hood during field deployment.
 Note: Glass and glass- (or fused silica-) lined stainless steel sorbent tubes (typically 4 mm i.d.) are also available in various lengths to suit different makes of thermal desorption equipment, but these are rarely used for passive sampling because it is more difficult to adequately define the diffusive air gap in glass or glass-line tubing. Such tubes are not recommended for this method.
 4.0 Sampling Interferences
 4.1 General Interferences
@@ -5102,6 +5102,7 @@ Note: In some instances, permanent air monitoring stations may already be locate
 Figure 8.1. Facility with a Regular Shape Between 750 and 1,500 Acres in Area
 ER14NO18.070
 ER01DE15a.026
+Figure 8.1. Facility with a Regular Shape Between 750 and 1,500 Acres in Area
 8.2.2 Option 1 for Determining Sampling Locations.
 8.2.2.1 For facilities with a regular (circular, triangular, rectangular, or square) shape, determine the geographic center of the facility.
 8.2.2.1.1 For facilities with an area of less than or equal to 750 acres, measure angles of 30 degrees from the center point for a total of twelve 30 degree measurements evenly spaced (±1 degree).
@@ -5169,15 +5170,15 @@ Follow the calibration and standardization procedures for meteorological measure
 Refer to Method 325B, which provides details for the preparation and analysis of sampled passive monitoring tubes (preparation of sampling tubes, shipment and storage of exposed sampling tubes, and analysis of sampling tubes).
 12.0 Data Analysis, Calculations and Documentation
 12.1 Calculate Annual Average Fenceline Concentration.
-After a year's worth of sampling at the facility fenceline (for example, 26 14-day samples), the average (PSi) may be calculated for any specified period at each PS location using Equation 12.1.
+After a year's worth of sampling at the facility fenceline (for example, 26 14-day samples), the average (PS i) may be calculated for any specified period at each PS location using Equation 12.1.
 ER01DE15.029
 Where:
-PSi = Annual average for location i.
-PSip = Sampling period specific concentration from Method 325B.
+PS i = Annual average for location i.
+PS ip = Sampling period specific concentration from Method 325B.
 i = Location of passive sampler (0 to 360°).
 p = The sampling period.
 N = The number of sampling periods in the year (e.g., for 14-day sampling periods, from 1 to 26).
-Note: PSip is a function of sampling location-specific factors such as the contribution from facility sources, unusual localized meteorological conditions, contribution from nearby interfering sources, the background caused by integrated far-field sources and measurement error due to deployment, handling, siting, or analytical errors.
+Note: PS ip is a function of sampling location-specific factors such as the contribution from facility sources, unusual localized meteorological conditions, contribution from nearby interfering sources, the background caused by integrated far-field sources and measurement error due to deployment, handling, siting, or analytical errors.
 12.2 Identify Sampling Locations of Interest
 If data from neighboring sampling locations are significantly different, then you may add extra sampling points to isolate background contributions or identify facility-specific "hot spots."
 12.3 Evaluate Trends
@@ -5201,7 +5202,7 @@ Method performance requirements are described in Method 325B.
 5. Brown, R. H. Environmental use of diffusive samplers: evaluation of reliable diffusive uptake rates for benzene, toluene and xylene. J. Environ. Monit. 1999, 1 (1), 115-116.
 6. Ballach, J.; Greuter, B.; Schultz, E.; Jaeschke, W. Variations of uptake rates in benzene diffusive sampling as a function of ambient conditions. Sci. Total Environ. 1999, 244, 203-217.
 7. Brown, R. H. Monitoring the ambient environment with diffusive samplers: theory and practical considerations. J Environ. Monit. 2000, 2 (1), 1-9.
-8. Buzica, D.; Gerboles, M.; Plaisance, H. The equivalence of diffusive samplers to reference methods for monitoring O3, benzene and NO2 in ambient air. J. Environ. Monit. 2008, 10 (9), 1052-1059.
+8. Buzica, D.; Gerboles, M.; Plaisance, H. The equivalence of diffusive samplers to reference methods for monitoring O 3, benzene and NO 2 in ambient air. J. Environ. Monit. 2008, 10 (9), 1052-1059.
 9. Woolfenden, E. Sorbent-based sampling methods for volatile and semi-volatile organic compounds in air. Part 2. Sorbent selection and other aspects of optimizing air monitoring methods. J. Chromatogr. A 2010, 1217, (16), 2685-94.
 10. Pfeffer, H. U.; Breuer, L. BTX measurements with diffusive samplers in the vicinity of a cokery: Comparison between ORSA-type samplers and pumped sampling. J. Environ. Monit. 2000, 2 (5), 483-486.
 11. US EPA. 2000. Meteorological Monitoring Guidance for Regulatory Modeling Applications. EPA-454/R-99-005. Office of Air Quality Planning and Standards, Research Triangle Park, NC. February 2000. Available at http://www.epa.gov/scram001/guidance/met/mmgrma.pdf.
@@ -5217,9 +5218,9 @@ Sampler Preparation and Analysis
 1.0 Scope and Application
 1.1 This method describes thermal desorption/gas chromatography (TD/GC) analysis of volatile organic compounds (VOCs) from fugitive and area emission sources collected onto sorbent tubes using passive sampling. It could also be applied to the TD/GC analysis of VOCs collected using active (pumped) sampling onto sorbent tubes. The concentration of airborne VOCs at or near potential fugitive- or area-emission sources may be determined using this method in combination with Method 325A. Companion Method 325A (Sampler Deployment and VOC Sample Collection) describes procedures for deploying the sorbent tubes and passively collecting VOCs.
 1.2 The preferred GC detector for this method is a mass spectrometer (MS), but flame ionization detectors (FID) may also be used. Other conventional GC detectors such as electron capture (ECD), photoionization (PID), or flame photometric (FPD) may also be used if they are selective and sensitive to the target compound(s) and if they meet the method performance criteria provided in this method.
-1.3 There are 97 VOCs listed as hazardous air pollutants in Title III of the Clean Air Act Amendments of 1990. Many of these VOC are candidate compounds for this method. Compounds with known uptake rates for CarbographTM 1 TD, CarbopackTM B, or CarbopackTM X are listed in Table 12.1. This method provides performance criteria to demonstrate acceptable performance of the method (or modifications of the method) for monitoring one or more of the compounds listed Table 12.1. If standard passive sampling tubes are packed with other sorbents or used for other analytes than those listed in Table 12.1, then method performance and relevant uptake rates should be verified according to Addendum A to this method or by one of the following national/international standard methods: ISO 16017-2:2003(E), ASTM D6196-03 (Reapproved 2009), or BS EN 14662-4:2005 (all incorporated by reference—see § 63.14), or reported in the peer-reviewed open literature.
+1.3 There are 97 VOCs listed as hazardous air pollutants in Title III of the Clean Air Act Amendments of 1990. Many of these VOC are candidate compounds for this method. Compounds with known uptake rates for Carbograph TM 1 TD, Carbopack TM B, or Carbopack TM X are listed in Table 12.1. This method provides performance criteria to demonstrate acceptable performance of the method (or modifications of the method) for monitoring one or more of the compounds listed Table 12.1. If standard passive sampling tubes are packed with other sorbents or used for other analytes than those listed in Table 12.1, then method performance and relevant uptake rates should be verified according to Addendum A to this method or by one of the following national/international standard methods: ISO 16017-2:2003(E), ASTM D6196-03 (Reapproved 2009), or BS EN 14662-4:2005 (all incorporated by reference—see § 63.14), or reported in the peer-reviewed open literature.
 1.4 The analytical approach using TD/GC/MS is based on previously published EPA guidance in Compendium Method TO-17 (http://www.epa.gov/ttnamti1/airtox.html#compendium) (Reference 1), which describes active (pumped) sampling of VOCs from ambient air onto tubes packed with thermally stable adsorbents.
-1.5 Inorganic gases not suitable for analysis by this method include oxides of carbon, nitrogen and sulfur, ozone (O3), and other diatomic permanent gases. Other pollutants not suitable for this analysis method include particulate pollutants, (i.e., fumes, aerosols, and dusts), compounds too labile (reactive) for conventional GC analysis, and VOCs that are more volatile than propane.
+1.5 Inorganic gases not suitable for analysis by this method include oxides of carbon, nitrogen and sulfur, ozone (O 3), and other diatomic permanent gases. Other pollutants not suitable for this analysis method include particulate pollutants, (i.e., fumes, aerosols, and dusts), compounds too labile (reactive) for conventional GC analysis, and VOCs that are more volatile than propane.
 2.0 Summary of Method
 2.1 This method provides procedures for the preparation, conditioning, blanking, and shipping of sorbent tubes prior to sample collection.
 2.2 Laboratory and field personnel must have experience of sampling trace-level VOCs using sorbent tubes (References 2,5) and must have experience operating thermal desorption/GC/multi-detector instrumentation.
@@ -5228,7 +5229,7 @@ Sampler Preparation and Analysis
 3.0 Definitions
 (See also Section 3.0 of Method 325A).
 3.1 Blanking is the desorption and confirmatory analysis of conditioned sorbent tubes before they are sent for field sampling.
-3.2 Breakthrough volume and associated relation to passive sampling. Breakthrough volumes, as applied to active sorbent tube sampling, equate to the volume of air containing a constant concentration of analyte that may be passed through a sorbent tube at a given temperature before a detectable level (5 percent) of the input analyte concentration elutes from the tube. Although breakthrough volumes are directly related to active rather than passive sampling, they provide a measure of the strength of the sorbent-sorbate interaction and therefore also relate to the efficiency of the passive sampling process. The best direct measure of passive sampling efficiency is the stability of the uptake rate. Quantitative passive sampling is compromised when the sorbent no longer acts as a perfect sink—i.e., when the concentration of a target analyte immediately above the sorbent sampling surface no longer approximates to zero. This causes a reduction in the uptake rate over time. If the uptake rate for a given analyte on a given sorbent tube remains relatively constant —i.e., if the uptake rate determined for 48 hours is similar to that determined for 7 or 14 days—the user can be confident that passive sampling is occurring at a constant rate. As a general rule of thumb, such ideal passive sampling conditions typically exist for analyte:sorbent combinations where the breakthrough volume exceeds 100 L (Reference 4).
+3.2 Breakthrough volume and associated relation to passive sampling. Breakthrough volumes, as applied to active sorbent tube sampling, equate to the volume of air containing a constant concentration of analyte that may be passed through a sorbent tube at a given temperature before a detectable level (5 percent) of the input analyte concentration elutes from the tube. Although breakthrough volumes are directly related to active rather than passive sampling, they provide a measure of the strength of the sorbent-sorbate interaction and therefore also relate to the efficiency of the passive sampling process. The best direct measure of passive sampling efficiency is the stability of the uptake rate. Quantitative passive sampling is compromised when the sorbent no longer acts as a perfect sink— i.e., when the concentration of a target analyte immediately above the sorbent sampling surface no longer approximates to zero. This causes a reduction in the uptake rate over time. If the uptake rate for a given analyte on a given sorbent tube remains relatively constant — i.e., if the uptake rate determined for 48 hours is similar to that determined for 7 or 14 days—the user can be confident that passive sampling is occurring at a constant rate. As a general rule of thumb, such ideal passive sampling conditions typically exist for analyte:sorbent combinations where the breakthrough volume exceeds 100 L (Reference 4).
 3.3 Continuing calibration verification sample (CCV). Single level calibration samples run periodically to confirm that the analytical system continues to generate sample results within acceptable agreement to the current calibration curve.
 3.4 Focusing trap is a cooled, secondary sorbent trap integrated into the analytical thermal desorber. It typically has a smaller i.d. and lower thermal mass than the original sample tube allowing it to effectively refocus desorbed analytes and then heat rapidly to ensure efficient transfer/injection into the capillary GC analytical column.
 3.5 High Resolution Capillary Column Chromatography uses fused silica capillary columns with an inner diameter of 320 µm or less and with a stationary phase film thickness of 5 µm or less.
@@ -5289,7 +5290,7 @@ Linear quadrupole, magnetic sector, ion trap or time-of-flight mass spectrometer
 7.1 Sorbent Selection
 7.1.1 Use commercially packed tubes meeting the requirements of this method or prepare tubes in the laboratory using sieved sorbents of particle size in the range 20 to 80 mesh that meet the retention and quality control requirements of this method.
 7.1.2 This passive air monitoring method can be used without the evaluation specified in Addendum A if the type of tubes described in Section 6.1 are packed with 4-6 cm (typically 400-650 mg) of the sorbents listed in Table 12.1 and used for the respective target analytes.
-Note: Although CarbopackTM X is the optimum sorbent choice for passive sampling of 1,3-butadiene, recovery of compounds with vapor pressure lower than benzene may be difficult to achieve without exceeding sorbent maximum temperature limitations (see Table 8.1). See ISO 16017-2:2003(E) or ASTM D6196-03 (Reapproved 2009) (both incorporated by reference—see § 63.14) for more details on sorbent choice for air monitoring using passive sampling tubes.
+Note: Although Carbopack TM X is the optimum sorbent choice for passive sampling of 1,3-butadiene, recovery of compounds with vapor pressure lower than benzene may be difficult to achieve without exceeding sorbent maximum temperature limitations (see Table 8.1). See ISO 16017-2:2003(E) or ASTM D6196-03 (Reapproved 2009) (both incorporated by reference—see § 63.14) for more details on sorbent choice for air monitoring using passive sampling tubes.
 7.1.3 If standard passive sampling tubes are packed with other sorbents or used for analytes other than those tabulated in Section 12.0, method performance and relevant uptake rates should be verified according to Addendum A to this method or by following the techniques described in one of the following national/international standard methods: ISO 16017-2:2003(E), ASTM D6196-03 (Reapproved 2009), or BS EN 14662-4:2005 (all incorporated by reference—see § 63.14)—or reported in the peer-reviewed open literature. A summary table and the supporting evaluation data demonstrating the selected sorbent meets the requirements in Addendum A to this method must be submitted to the regulatory authority as part of a request to use an alternative sorbent.
 7.1.4 Passive (diffusive) sampling and thermal desorption methods that have been evaluated at relatively high atmospheric concentrations (i.e., mid-ppb to ppm) and published for use in workplace air and industrial/mobile source emissions testing (References 9-20) may be applied to this procedure. However, the validity of any shorter term uptake rates must be verified and adjusted if necessary for the longer monitoring periods required by this method by following procedures described in Addendum A to this method or those presented in national/international standard methods: ISO 16017-2:2003(E), ASTM D6196-03 (Reapproved 2009), or BS EN 14662-4:2005 (all incorporated by reference-see § 63.14).
 7.1.5 Suitable sorbents for passive sampling must have breakthrough volumes of at least 20 L (preferably >100 L) for the compounds of interest and must quantitatively release the analytes during desorption without exceeding maximum temperatures for the sorbent or instrumentation.
@@ -5322,15 +5323,15 @@ Use inert, 99.999-percent or higher purity helium as carrier gas. Oxygen and org
 8.1.2 New tubes should be conditioned for 2 hours to supplement the vendor's conditioning procedure. Recommended temperatures for tube conditioning are given in Table 8.1.
 8.1.3 After conditioning, the blank must be verified on each new sorbent tube and on 10 percent of each batch of reconditioned tubes. See Section 9.0 for acceptance criteria.
 Table 8.1—Example Sorbent Tube Conditioning Parameters
-Sampling sorbent | Maximumtemperature (°C) | Conditioning temperature(°C) | Carrier gas flow rate
+Sampling sorbent | Maximum temperature (°C) | Conditioning temperature (°C) | Carrier gas flow rate
 Carbotrap® C | >400 | 350 | 100 mL/min
-CarbopackTM C
+Carbopack TM C
 Anasorb® GCB2
-CarbographTM 1 TD
+Carbograph TM 1 TD
 Carbotrap®
-CarbopackTM B
+Carbopack TM B
 Anasorb® GCB1
-Tenax® TACarbopackTM X | 350 | 330 | 100 mL/min
+Tenax® TA Carbopack TM X | 350 | 330 | 100 mL/min
 8.2 Capping, Storage and Shipment of Conditioned Tubes
 8.2.1 Conditioned tubes must be sealed using long-term storage caps (see Section 6.4) pushed fully down onto both ends of the PS sorbent tube, tightened by hand and then tighten an additional quarter turn using an appropriate tool.
 8.2.2 The capped tubes must be kept in appropriate containers for storage and transportation (see Section 6.4.2). Containers of sorbent tubes may be stored and shipped at ambient temperature and must be kept in a clean environment.
@@ -5359,7 +5360,7 @@ The analytical system must be demonstrated to be contaminant free by performing 
 9.2.2 Confirm that artifacts and background contamination are ≤ 0.2 ppbv or less than three times the detection limit of the procedure or less than 10 percent of the target compound(s) mass that would be collected if airborne concentrations were at the regulated limit value, whichever is larger. Only tubes that meet these criteria can be used for field monitoring, field or laboratory blanks, or for system calibration.
 9.2.3 If unacceptable levels of VOCs are observed in the tube blanks, then the processes of tube conditioning and checking the blanks must be repeated.
 9.3 Field Blanks
-9.3.1 Field blank tubes must be prepared from tubes that are identical to those used for field sampling—i.e., they should be from the same batch, have a similar history, and be conditioned at the same time.
+9.3.1 Field blank tubes must be prepared from tubes that are identical to those used for field sampling— i.e., they should be from the same batch, have a similar history, and be conditioned at the same time.
 9.3.2 Field blanks must be shipped to the monitoring site with the sampling tubes and must be stored at the sampling location throughout the monitoring exercise. The field blanks must be installed under a protective hood/cover at the sampling location, but the long-term storage caps must remain in place throughout the monitoring period (see Method 325A). The field blanks are then shipped back to the laboratory in the same container as the sampled tubes. Collect at least two field blank samples per sampling period to ensure sample integrity associated with shipment, collection, and storage.
 9.3.3 Field blanks must contain no greater than one-third of the measured target analyte or compliance limit for field samples (see Table 17.1). If either field blank fails, flag all data that do not meet this criterion with a note that the associated results are estimated and likely to be biased high due to field blank background.
 9.4 Duplicate Samples
@@ -5471,7 +5472,7 @@ Note: This standard preparation technique requires the entire liquid plug includ
 10.9.5.1 CCV checks must be carried out on a regular routine basis as described in Section 9.14.
 10.9.5.2 Quantitation ions for the target compounds are shown in Table 10.1. Use the primary ion unless interferences are present, in which case you should use a secondary ion.
 Table 10.1—Clean Air Act Volatile Organic Compounds for Passive Sorbent Sampling
-Compound | CAS No. | BP(°C) | Vaporpressure (mmHg) a | MW b | Characteristic ion(s) | Primary | Secondary
+Compound | CAS No. | BP (°C) | Vapor pressure (mmHg) a | MW b | Characteristic ion(s) | Primary | Secondary
 1,1-Dichloroethene | 75-35-4 | 32 | 500 | 96.9 | 61 | 96
 3-Chloropropene | 107-05-1 | 44.5 | 340 | 76.5 | 76 | 41, 39, 78
 1,1,2-Trichloro-1,2,2-trifluoroethane-1,1-Dichloroethane | 75-34-3 | 57.0 | 230 | 99 | 63 | 65, 83, 85, 98, 100
@@ -5551,20 +5552,20 @@ Note: Typical trap desorption temperatures are in the range 250-360 °C, with a 
 12.2.1.1 Response factor (RF). Calculate the RF using Equation 12.1:
 ER01DE15.035
 Where:
-As = Peak area for the characteristic ion of the analyte.
-Ais = Peak area for the characteristic ion of the internal standard.
-Ms = Mass of the analyte.
-Mis = Mass of the internal standard.
-12.2.1.2 Standard deviation of the response factors (SDRF). Calculate the SDRF using Equation 12.2:
+A s = Peak area for the characteristic ion of the analyte.
+A is = Peak area for the characteristic ion of the internal standard.
+M s = Mass of the analyte.
+M is = Mass of the internal standard.
+12.2.1.2 Standard deviation of the response factors (SD RF). Calculate the SDRF using Equation 12.2:
 ER01DE15.036
 Where:
-RFi = RF for each of the calibration compounds.
+RF i = RF for each of the calibration compounds.
 RF = Mean RF for each compound from the initial calibration.
 n = Number of calibration standards.
 12.2.1.3 Percent deviation (%DEV). Calculate the %DEV using Equation 12.3:
 ER01DE15.037
 Where:
-SDRF = Standard deviation.
+SD RF = Standard deviation.
 RF = Mean RF for each compound from the initial calibration.
 12.2.1.4 Relative percent difference (RPD). Calculate the RPD using Equation 12.4:
 ER01DE15.038
@@ -5573,37 +5574,37 @@ R1, R2 = Values that are being compared (i.e., response factors in CCV).
 12.2.2 Determine the equivalent concentrations of compounds in atmospheres as follows. Correct target compound concentrations determined at the sampling site temperature and atmospheric pressure to standard conditions (25 °C and 760 mm mercury) using Equation 12.5.
 ER14NO18.071
 Where:
-mmeas = The mass of the compound as measured in the sorbent tube (µg).
+m meas = The mass of the compound as measured in the sorbent tube (µg).
 t = The exposure time (minutes).
-tss = The average temperature during the collection period at the sampling site (K).
-UNTP = The method defined diffusive uptake rate (sampling rate) (mL/min).
-Note: Diffusive uptake rates (UNTP) for common VOCs, using carbon sorbents packed into sorbent tubes of the dimensions specified in section 6.1, are listed in Table 12.1. Adjust analytical conditions to keep expected sampled masses within range (see sections 11.3.1.3 to 11.3.1.5). Best possible method detection limits are typically in the order of 0.1 ppb for 1,3-butadiene and 0.05 ppb for volatile aromatics such as benzene for 14-day monitoring. However, actual detection limits will depend upon the analytical conditions selected.
+t ss = The average temperature during the collection period at the sampling site (K).
+U NTP = The method defined diffusive uptake rate (sampling rate) (mL/min).
+Note: Diffusive uptake rates (U NTP) for common VOCs, using carbon sorbents packed into sorbent tubes of the dimensions specified in section 6.1, are listed in Table 12.1. Adjust analytical conditions to keep expected sampled masses within range (see sections 11.3.1.3 to 11.3.1.5). Best possible method detection limits are typically in the order of 0.1 ppb for 1,3-butadiene and 0.05 ppb for volatile aromatics such as benzene for 14-day monitoring. However, actual detection limits will depend upon the analytical conditions selected.
 Table 12.1—Validated Sorbents and Uptake Rates (mL/min) for Selected Clean Air Act Compounds
-Compound | CarbopackTM Xa | CarbographTM1TD | CarbopackTM B
+Compound | Carbopack TM X a | Carbograph TM 1 TD | Carbopack TM B
 1,1-Dichloroethene | 0.57 ±0.14 | not available | not available.
 3-Chloropropene | 0.51 ±0.3 | not available | not available.
 1,1-Dichloroethane | 0.57 ±0.1 | not available | not available.
 1,2-Dichloroethane | 0.57 ±0.08 | not available | not available.
 1,1,1-Trichloroethane | 0.51 ±0.1 | not available | not available.
-Benzene | 0.67 ±0.06 | 0.63 ±0.07b | 0.63 ±0.07b.
+Benzene | 0.67 ±0.06 | 0.63 ±0.07 b | 0.63 ±0.07 b.
 Carbon tetrachloride | 0.51 ±0.06 | not available | not available.
 1,2-Dichloropropane | 0.52 ±0.1 | not available | not available.
 Trichloroethene | 0.5 ±0.05 | not available | not available.
 1,1,2-Trichloroethane | 0.49 ±0.13 | not available | not available.
-Toluene | 0.52 ±0.14 | 0.56 ±0.06c | 0.56 ±0.06c.
+Toluene | 0.52 ±0.14 | 0.56 ±0.06 c | 0.56 ±0.06 c.
 Tetrachloroethene | 0.48 ±0.05 | not available | not available.
 Chlorobenzene | 0.51 ±0.06 | not available | not available.
-Ethylbenzene | 0.46 ±0.07 | not available | 0.50c.
-m,p-Xylene | 0.46 ±0.09 | 0.47 ±0.04c | 0.47 ±0.04c.
+Ethylbenzene | 0.46 ±0.07 | not available | 0.50 c.
+m,p-Xylene | 0.46 ±0.09 | 0.47 ±0.04 c | 0.47 ±0.04 c.
 Styrene | 0.5 ±0.14 | not available | not available.
-o-Xylene | 0.46 ±0.12 | 0.47 ±0.04c | 0.47 ±0.04c.
+o-Xylene | 0.46 ±0.12 | 0.47 ±0.04 c | 0.47 ±0.04 c.
 p-Dichlorobenzene | 0.45 ±0.05 | not available | not available.
 a Reference 3, McClenny, J. Environ. Monit. 7:248-256. Based on 24-hour duration.
 b Reference 24, BS EN 14662-4:2005 (incorporated by reference—see § 63.14). Based on 14-day duration.
 c Reference 25, ISO 16017-2:2003(E) (incorporated by reference—see § 63.14). Based on 14-day duration.
 13.0 Method Performance
 The performance of this procedure for VOC not listed in Table 12.1 is determined using the procedure in Addendum A of this Method or by one of the following national/international standard methods: ISO 16017-2:2003(E), ASTM D6196-03 (Reapproved 2009), or BS EN 14662-4:2005 (all incorporated by reference—see § 63.14).
-13.1 The valid range for measurement of VOC is approximately 0.5 µg/m3 to 5 mg/m3 in air, collected over a 14-day sampling period. The upper limit of the useful range depends on the split ratio selected (Section 11.3.1) and the dynamic range of the analytical system. The lower limit of the useful range depends on the noise from the analytical instrument detector and on the blank level of target compounds or interfering compounds on the sorbent tube (see Section 13.3).
+13.1 The valid range for measurement of VOC is approximately 0.5 µg/m 3 to 5 mg/m 3 in air, collected over a 14-day sampling period. The upper limit of the useful range depends on the split ratio selected (Section 11.3.1) and the dynamic range of the analytical system. The lower limit of the useful range depends on the noise from the analytical instrument detector and on the blank level of target compounds or interfering compounds on the sorbent tube (see Section 13.3).
 13.2 Diffusive sorbent tubes compatible with passive sampling and thermal desorption methods have been evaluated at relatively high atmospheric concentrations (i.e., mid-ppb to ppm) and published for use in workplace air and industrial/mobile source emissions (References 15-16, 21-22).
 13.3 Best possible detection limits and maximum quantifiable concentrations of air pollutants range from sub-part-per-trillion (sub-ppt) for halogenated species such as CCl4 and the freons using an electron capture detector (ECD), SIM Mode GC/MS, triple quad MS or GC/TOF MS to sub-ppb for volatile hydrocarbons collected over 72 hours followed by analysis using GC with quadrupole MS operated in the full SCAN mode.
 13.3.1 Actual detection limits for atmospheric monitoring vary depending on several key factors. These factors are:
@@ -5618,9 +5619,9 @@ Dispose of expired calibration solutions as hazardous materials. Exercise standa
 16.0 References
 1. Winberry, W. T. Jr., et al., Determination of Volatile Organic Compounds in Ambient Air Using Active Sampling onto Sorbent Tubes: Method TO-17r, Second Edition, U.S. Environmental Protection Agency, Research Triangle Park, NC 27711, January 1999. http://www.epa.gov/ttnamti1/airtox.html#compendium
 2. Ciccioli, P., Brancaleoni, E., Cecinato, A., Sparapini, R., and Frattoni, M., "Identification and Determination of Biogenic and Anthropogenic VOCs in Forest Areas of Northern and Southern Europe and a Remote Site of the Himalaya Region by High-resolution GC-MS," J. of Chrom., 643, pp 55-69, 1993.
-3. McClenny, W.A., K.D. Oliver, H.H. Jacumin, Jr., E.H. Daughtrey, Jr., D.A. Whitaker. 2005. 24 h diffusive sampling of toxic VOCs in air onto CarbopackTM X solid adsorbent followed by thermal desorption/GC/MS analysis—laboratory studies. J. Environ. Monit. 7:248-256.
+3. McClenny, W.A., K.D. Oliver, H.H. Jacumin, Jr., E.H. Daughtrey, Jr., D.A. Whitaker. 2005. 24 h diffusive sampling of toxic VOCs in air onto Carbopack TM X solid adsorbent followed by thermal desorption/GC/MS analysis—laboratory studies. J. Environ. Monit. 7:248-256.
 4. Markes International (www.markes.com/publications): Thermal desorption Technical Support Note 2: Prediction of uptake rates for diffusive tubes.
-5. Ciccioli, P., Brancaleoni, E., Cecinato, A., DiPalo, C., Brachetti, A., and Liberti, A., "GC Evaluation of the Organic Components Present in the Atmosphere at Trace Levels with the Aid of CarbopackTM B for Preconcentration of the Sample," J. of Chrom., 351, pp 433-449, 1986.
+5. Ciccioli, P., Brancaleoni, E., Cecinato, A., DiPalo, C., Brachetti, A., and Liberti, A., "GC Evaluation of the Organic Components Present in the Atmosphere at Trace Levels with the Aid of Carbopack TM B for Preconcentration of the Sample," J. of Chrom., 351, pp 433-449, 1986.
 6. Broadway, G. M., and Trewern, T., "Design Considerations for the Optimization of a Packed Thermal Desorption Cold Trap for Capillary Gas Chromatography," Proc. 13th Int'l Symposium on Capil. Chrom., Baltimore, MD, pp 310-320, 1991.
 7. Broadway, G. M., "An Automated System for use Without Liquid Cryogen for the Determination of VOC's in Ambient Air," Proc. 14th Int'l. Symposium on Capil. Chrom., Baltimore, MD, 1992.
 8. Gibitch, J., Ogle, L., and Radenheimer, P., "Analysis of Ozone Precursor Compounds in Houston, Texas Using Automated Continuous GCs," in Proceedings of the Air and Waste Management Association Conference: Measurement of Toxic and Related Air Pollutants, Air and Waste Management Association, Pittsburgh, PA, May 1995.
@@ -5644,10 +5645,10 @@ Dispose of expired calibration solutions as hazardous materials. Exercise standa
 17.0 Tables, Diagrams, Flowcharts and Validation Data>
 Table 17.1—Summary of GC/MS Analysis Quality Control Procedures
 Parameter | Frequency | Acceptance criteria | Corrective action
-Bromofluorobenzene Instrument Tune Performance Check | Daily a prior to sample analysis | Evaluation criteria presented in Section 9.5 and Table 9.2 | (1) Retune and or(2) Perform Maintenance.
-Five point calibration bracketing the expected sample concentration | Following any major change, repair or maintenance or if daily CCV does not meet method requirements. Recalibration not to exceed three months | (1) Percent Deviation (%DEV) of response factors ±30%(2) Relative Retention Times (RRTs) for target peaks ±0.06 units from mean RRT | (1) Repeat calibration sample analysis.(2) Repeat linearity check. (3) Prepare new calibration standards as necessary and repeat analysis.
-Calibration Verification (CCV Second source calibration verification check) | Following the calibration curve | The response factor ±30% DEV from calibration curve average response factor | (1) Repeat calibration check.(2) Repeat calibration curve.
-Laboratory Blank Analysis | Daily a following bromofluoro benzene and calibration check; prior to sample analysis | (1) ≤0.2 ppbv per analyte or ≤3 times the LOD, whichever is greater(2) Internal Standard (IS) area response ±40% and IS Retention Time (RT) ±0.33 min. of most recent calibration check | (1) Repeat analysis with new blank tube.(2) Check system for leaks, contamination. (3) Analyze additional blank.
+Bromofluorobenzene Instrument Tune Performance Check | Daily a prior to sample analysis | Evaluation criteria presented in Section 9.5 and Table 9.2 | (1) Retune and or (2) Perform Maintenance.
+Five point calibration bracketing the expected sample concentration | Following any major change, repair or maintenance or if daily CCV does not meet method requirements. Recalibration not to exceed three months | (1) Percent Deviation (%DEV) of response factors ±30% (2) Relative Retention Times (RRTs) for target peaks ±0.06 units from mean RRT | (1) Repeat calibration sample analysis. (2) Repeat linearity check. (3) Prepare new calibration standards as necessary and repeat analysis.
+Calibration Verification (CCV Second source calibration verification check) | Following the calibration curve | The response factor ±30% DEV from calibration curve average response factor | (1) Repeat calibration check. (2) Repeat calibration curve.
+Laboratory Blank Analysis | Daily a following bromofluoro benzene and calibration check; prior to sample analysis | (1) ≤0.2 ppbv per analyte or ≤3 times the LOD, whichever is greater (2) Internal Standard (IS) area response ±40% and IS Retention Time (RT) ±0.33 min. of most recent calibration check | (1) Repeat analysis with new blank tube. (2) Check system for leaks, contamination. (3) Analyze additional blank.
 Blank Sorbent Tube Certification | One tube analyzed for each batch of tubes cleaned or 10 percent of tubes whichever is greater | <0.2 ppbv per VOC targeted compound or 3 times the LOD, whichever is greater | Re-clean all tubes in batch and reanalyze.
 Samples—Internal Standards | All samples | IS area response ±40% and IS RT ±0.33 min. of most recent calibration validation | Flag Data for possible invalidation.
 Field Blanks | Two per sampling period | No greater than one-third of the measured target analyte or compliance limit | Flag Data for possible invalidation due to high blank bias.
@@ -5745,48 +5746,48 @@ A.12.6 95 percent confidence limit on the sampler overall accuracy.
 A.12.7 The relative accuracy of the sorbent tube results compared to the direct chamber measurement by direct gas chromatography or SUMMA canister analysis.
 A.13 Method Performance
 A.13.1 Sorbent tube performance is acceptable if the relative accuracy of the passive sorbent sampler agrees with the active measurement method by ±10 percent at the 95 percent confidence limit and the uptake ratio is equal to greater than 0.5 mL/min (1 ng/ppm-min).
-Note: For example, there is a maximum deviation comparing Perkin-Elmer passive type sorbent tubes packed with CarbopackTM X of 1.3 to 10 percent compared to active sampling using the following uptake rates.
-| 1,3-butadieneuptake rate mL/min | Estimateddetection limit (2 week) | Benzeneuptake rates mL/min | Estimateddetection limit (2 week)
-CarbopackTM X (2 week) | 0.61 ±0.11 a | 0.1 ppbv | 0.67 a | 0.05 ppbv
-a McClenny, W.A., K.D. Oliver, H.H. Jacumin, Jr., E.H. Daughtrey, Jr., D.A. Whitaker. 2005. 24 h diffusive sampling of toxic VOCs in air onto CarbopackTM X solid adsorbent followed by thermal desorption/GC/MS analysis—laboratory studies. J. Environ. Monit. 7:248-256.
+Note: For example, there is a maximum deviation comparing Perkin-Elmer passive type sorbent tubes packed with Carbopack TM X of 1.3 to 10 percent compared to active sampling using the following uptake rates.
+| 1,3-butadiene uptake rate mL/min | Estimated detection limit (2 week) | Benzene uptake rates mL/min | Estimated detection limit (2 week)
+Carbopack TM X (2 week) | 0.61 ±0.11 a | 0.1 ppbv | 0.67 a | 0.05 ppbv
+a McClenny, W.A., K.D. Oliver, H.H. Jacumin, Jr., E.H. Daughtrey, Jr., D.A. Whitaker. 2005. 24 h diffusive sampling of toxic VOCs in air onto Carbopack TM X solid adsorbent followed by thermal desorption/GC/MS analysis—laboratory studies. J. Environ. Monit. 7:248-256.
 A13.2 Data Analysis and Calculations for Method Evaluation
 A.13.2.1 Calculate the theoretical concentration of VOC standards using Equation A.1.
 ER01DE15.048
 Where:
-Cf = The final concentration of standard in the exposure chamber (ppbv).
-FRi = The flow rate of the target compound I (mL/min).
-FRt = The flow rate of all target compounds from separate if multiple cylinders are used (mL/min).
-FRa = The flow rate of dilution air plus moisture (mL/min).
-Cs = The concentration of target compound in the standard cylinder (parts per million by volume).
+C f = The final concentration of standard in the exposure chamber (ppbv).
+FR i = The flow rate of the target compound I (mL/min).
+FR t = The flow rate of all target compounds from separate if multiple cylinders are used (mL/min).
+FR a = The flow rate of dilution air plus moisture (mL/min).
+C s = The concentration of target compound in the standard cylinder (parts per million by volume).
 A.13.2.3 Determine the uptake rate of the target gas being evaluated using Equation A.2.
 ER01DE15.049
 Where:
-MX = The mass of analyte measured on the sampling tube (ηg).
-Ce = The theoretical exposure chamber concentration (ηg/mL).
-Tt = The exposure time (minutes).
+M X = The mass of analyte measured on the sampling tube (ηg).
+C e = The theoretical exposure chamber concentration (ηg/mL).
+T t = The exposure time (minutes).
 A.13.2.4 Estimate the variance (relative standard deviation (RSD)) of the inter-sampler results at each condition tested using Equation A.3. RSD for the sampler is estimated by pooling the variance estimates from each test run.
 ER01DE15.050
 Where:
-Xi = The measured mass of analyte found on sorbent tube i.
-X i = The mean value of all Xi.
+X i = The measured mass of analyte found on sorbent tube i.
+X i = The mean value of all X i.
 n = The number of measurements of the analyte.
 A.13.2.4 Determine the percent relative standard deviation of the inter-sampler results using Equation A.4.
 ER01DE15.051
 A.13.2.5 Determine the 95 percent confidence interval for the sampler results using Equation A.5. The confidence interval is determined based on the number of test runs performed to evaluate the sorbent tube and sorbent combination. For the minimum test requirement of eight samplers tested at two concentrations, the number of tests is 16 and the degrees of freedom are 15.
 ER01DE15.052
 Where:
-Δ95% = 95 percent confidence interval.
+Δ 95% = 95 percent confidence interval.
 %RSD = percent relative standard deviation.
-t0.95 = The Students t statistic for f degrees of freedom at 95 percent confidence.
+t 0.95 = The Students t statistic for f degrees of freedom at 95 percent confidence.
 f = The number of degrees of freedom.
 n = Number of samples.
 A.13.2.6 Determine the relative accuracy of the sorbent tube combination compared to the active sampling results using Equation A.6.
 ER01DE15.053
 Where:
 RA = Relative accuracy.
-X i = The mean value of all Xi.
+X i = The mean value of all X i.
 X i = The average concentration of analyte measured by the active measurement method.
-Δ95% = 95 percent confidence interval.
+Δ 95% = 95 percent confidence interval.
 A.14 Pollution Prevention
 This method involves the use of ambient concentrations of gaseous compounds that post little or no pollution to the environment.
 A.15 Waste Management
@@ -5798,12 +5799,12 @@ Method 326—Method for Determination of Isocyanates in Stationary Source Emissi
 This method is applicable to the collection and analysis of isocyanate compounds from the emissions associated with manufacturing processes. This method is not inclusive with respect to specifications (e.g., equipment and supplies) and sampling procedures essential to its performance. Some material is incorporated by reference from other EPA methods. Therefore, to obtain reliable results, persons using this method should have a thorough knowledge of at least Method 1, Method 2, Method 3, and Method 5 found in Appendices A-1, A-2, and A-3 in Part 60 of this title.
 1.1 Analytes. This method is designed to determine the mass emission of isocyanates being emitted from manufacturing processes. The following is a table (Table 1-1) of the isocyanates and the manufacturing process at which the method has been evaluated:
 Table 326-1—Analytes
-Compound's name | CAS No. | Detection limit (ng/m3) a | Manufacturing process
+Compound's name | CAS No. | Detection limit (ng/m 3) a | Manufacturing process
 2,4-Toluene Diisocyanate (TDI) | 584-84-9 | 106 | Flexible Foam Production.
 1,6-Hexamethylene Diisocyanate (HDI) | 822-06-0 | 396 | Paint Spray Booth.
 Methylene Diphenyl Diisocyanate (MDI) | 101-68-8 | 112 | Pressed Board Production.
 Methyl Isocyanate (MI) | 624-83-0 | 228 | Not used in production.
-a Estimated detection limits are based on a sample volume of 1 m3 and a 10-ml sample extraction volume.
+a Estimated detection limits are based on a sample volume of 1 m 3 and a 10-ml sample extraction volume.
 1.2 Applicability. Method 326 is a method designed for determining compliance with National Emission Standards for Hazardous Air Pollutants (NESHAP). Method 326 may also be specified by New Source Performance Standards (NSPS), State Implementation Plans (SIPs), and operating permits that require measurement of isocyanates in stationary source emissions, to determine compliance with an applicable emission standard or limit.
 1.3 Data Quality Objectives (DQO). The principal objective is to ensure the accuracy of the data at the actual emissions levels and in the actual emissions matrix encountered. To meet this objective, method performance tests are required and NIST-traceable calibration standards must be used.
 2.0 Summary of Method
@@ -5823,7 +5824,7 @@ a Estimated detection limits are based on a sample volume of 1 m3 and a 10-ml sa
 6.1.1 Probe Nozzle. Borosilicate or quartz glass; constructed and calibrated according to Method 5, sections 6.1.1.1 and 10.1, and coupled to the probe liner using a Teflon union; a stainless steel nut is recommended for this union. When the stack temperature exceeds 210 °C (410 °F), a one-piece glass nozzle/liner assembly must be used.
 6.1.2 Probe Liner. Same as Method 5, section 6.1.1.2, except metal liners shall not be used. Water-cooling of the stainless steel sheath is recommended at temperatures exceeding 500 °C (932 °F). Teflon may be used in limited applications where the minimum stack temperature exceeds 120 °C (250 °F) but never exceeds the temperature where Teflon is estimated to become unstable [approximately 210 °C (410 °F)].
 6.1.3 Pitot Tube, Differential Pressure Gauge, Filter Heating System, Metering System, Barometer, Gas Density Determination Equipment. Same as Method 5, sections 6.1.1.3, 6.1.1.4, 6.1.1.6, 6.1.1.9, 6.1.2, and 6.1.3.
-6.1.4 Impinger Train. Glass impingers are connected in series with leak-free ground-glass joints following immediately after the heated probe. The first impinger shall be of the Greenburg-Smith design with the standard tip. The remaining five impingers shall be of the modified Greenburg-Smith design, modified by replacing the tip with a 1.3-cm (1/2-in.) I.D. glass tube extending about 1.3 cm (1/2 in.) from the bottom of the outer cylinder. A water-jacketed condenser is placed between the outlet of the first impinger and the inlet to the second impinger to reduce the evaporation of toluene from the first impinger.
+6.1.4 Impinger Train. Glass impingers are connected in series with leak-free ground-glass joints following immediately after the heated probe. The first impinger shall be of the Greenburg-Smith design with the standard tip. The remaining five impingers shall be of the modified Greenburg-Smith design, modified by replacing the tip with a 1.3-cm (1/2 -in.) I.D. glass tube extending about 1.3 cm (1/2 in.) from the bottom of the outer cylinder. A water-jacketed condenser is placed between the outlet of the first impinger and the inlet to the second impinger to reduce the evaporation of toluene from the first impinger.
 6.1.5 Moisture Measurement. For the purpose of calculating volumetric flow rate and isokinetic sampling, you must also collect either Method 4 in Appendix A-3 to this part or other moisture measurement methods approved by the Administrator concurrent with each Method 326 test run.
 6.2 Sample Recovery
 6.2.1 Probe and Nozzle Brushes; Polytetrafluoroethylene (PTFE) bristle brushes with stainless steel wire or PTFE handles are required. The probe brush shall have extensions constructed of stainless steel, PTFE, or inert material at least as long as the probe. The brushes shall be properly sized and shaped to brush out the probe liner and the probe nozzle.
@@ -5857,13 +5858,13 @@ The following items are required for sample analysis.
 7.2.1 Toluene. HPLC grade is required for sample recovery and cleanup (see Note to 7.2.2 below).
 7.2.2 Acetonitrile. HPLC grade is required for sample recovery and cleanup. Note: Organic solvents stored in metal containers may have a high residue blank and should not be used. Sometimes suppliers transfer solvents from metal to glass bottles; thus blanks shall be run before field use and only solvents with a low blank value should be used.
 7.3 Analysis Reagents. Reagent grade chemicals should be used in all tests. All reagents shall conform to the specifications of the Committee on Analytical Reagents of the American Chemical Society, where such specifications are available.
-7.3.1 Toluene, C6H5CH3. HPLC Grade or equivalent.
-7.3.2 Acetonitrile, CH3CN (ACN). HPLC Grade or equivalent.
-7.3.3 Methylene Chloride, CH2Cl2. HPLC Grade or equivalent.
-7.3.4 Hexane, C6H14. HPLC Grade or equivalent.
-7.3.5 Water, H2O. HPLC Grade or equivalent.
-7.3.6 Ammonium Acetate, CH3CO2NH4.
-7.3.7 Acetic Acid (glacial), CH3CO2H.
+7.3.1 Toluene, C 6 H 5 CH 3. HPLC Grade or equivalent.
+7.3.2 Acetonitrile, CH 3 CN (ACN). HPLC Grade or equivalent.
+7.3.3 Methylene Chloride, CH 2 Cl 2. HPLC Grade or equivalent.
+7.3.4 Hexane, C 6 H 14. HPLC Grade or equivalent.
+7.3.5 Water, H 2 O. HPLC Grade or equivalent.
+7.3.6 Ammonium Acetate, CH 3 CO 2 NH 4.
+7.3.7 Acetic Acid (glacial), CH 3 CO 2 H.
 7.3.8 1-(2-Pyridyl)piperazine, (1,2-PP), ≥99.5% or equivalent.
 7.3.9 Absorption Solution. Prepare a solution of 1-(2-pyridyl)piperazine in toluene at a concentration of 40 mg/300 ml. This solution is used for method blanks and method spikes.
 7.3.10 Ammonium Acetate Buffer Solution (AAB). Prepare a solution of ammonium acetate in water at a concentration of 0.1 M by transferring 7.705 g of ammonium acetate to a 1,000 ml volumetric flask and diluting to volume with HPLC Grade water. Adjust pH to 6.2 with glacial acetic acid.
@@ -5894,9 +5895,9 @@ Note: The contents of the fifth and sixth impinger (silica gel) can be discarded
 Table 326-2—Sampling Quality Assurance and Quality Control
 QA/QC criteria | Acceptance criteria | Frequency | Consequence if not met
 Sampling Equipment Leak Checks | ≤0.00057 m3/min (0.020 cfm) or 4% of sampling rate, whichever is less | Prior to, during (optional) and at the completion to sampling | Prior to: Repair and repeat calibration. During/Completion: None, testing should be considered invalid.
-Dry Gas Meter Calibration—Pre-Test (individual correction factor—Yi) | within ±2% of average factor (individual) | Pre-test | Repeat calibration point.
-Dry Gas Meter Calibration—Pre-Test (average correction factor—Yc) | 1.00 ±1% | Pre-test | Adjust the dry gas meter and recalibrate.
-Dry Gas Meter Calibration—Post-test | Average dry gas meter calibration factor agrees with ±5% Yc | Each Test | Adjust sample volumes using the factor that gives the smallest volume.
+Dry Gas Meter Calibration—Pre-Test (individual correction factor—Y i) | within ±2% of average factor (individual) | Pre-test | Repeat calibration point.
+Dry Gas Meter Calibration—Pre-Test (average correction factor—Y c) | 1.00 ±1% | Pre-test | Adjust the dry gas meter and recalibrate.
+Dry Gas Meter Calibration—Post-test | Average dry gas meter calibration factor agrees with ±5% Y c | Each Test | Adjust sample volumes using the factor that gives the smallest volume.
 Temperature sensor calibration | Absolute temperature measures by sensor within ±1.5% of a reference sensor | Prior to initial use and before each test thereafter | Recalibrate; sensor may not be used until specification is met.
 Barometer calibration | Absolute pressure measured by instrument within ±10 mm Hg of reading with a mercury barometer or NIST traceable barometer | Prior to initial use and before each test thereafter | Recalibrate; instrument may not be used until specification is met.
 Table 326-3—Analytical Quality Assurance and Quality Control
@@ -5916,20 +5917,20 @@ Note: Maintain a laboratory log of all calibrations.
 10.1 Probe Nozzle, Pitot Tube Assembly, Dry Gas Metering System, Probe Heater, Temperature Sensors, Leak-Check of Metering System, and Barometer. Same as Method 5, sections 10.1, 10.2, 10.3, 10.4, 10.5, 8.4.1, and 10.6, respectively.
 10.2 High Performance Liquid Chromatograph. Establish the retention times for the isocyanates of interest; retention times will depend on the chromatographic conditions. The retention times provided in Table 10-1 are provided as a guide to relative retention times when using a C18, 250 mm x 4.6 mm ID, 5µm particle size column, a 2 ml/min flow rate of a 1:9 to 6:4 Acetonitrile/Ammonium Acetate Buffer, a 50 µl sample loop, and a UV detector set at 254 nm.
 Table 326-4—Example Retention Times
-Retention times | Compound | Retentiontime (minutes)
+Retention times | Compound | Retention time (minutes)
 MI | 10.0
 1,6-HDI | 19.9
 2,4-TDI | 27.1
 MDI | 27.3
 10.3 Preparation of Isocyanate Derivatives.
-10.3.1 HDI, TDI, MDI. Dissolve 500 mg of each isocyanate in individual 100 ml aliquots of methylene chloride (MeCl2), except MDI which requires 250 ml of MeCl2. Transfer a 5-ml aliquot of 1,2-PP (see section 7.3.8) to each solution, stir and allow to stand overnight at room temperature. Transfer 150 ml aliquots of hexane to each solution to precipitate the isocyanate-urea derivative. Using a Buchner funnel, vacuum filter the solid-isocyanate-urea derivative and rinse with 50 ml of hexane. Dissolve the precipitate in a minimum aliquot of MeCl2. Repeat the hexane precipitation and filtration twice. After the third filtration, dry the crystals at 50 °C and transfer to bottles for storage. The crystals are stable for at least 21 months when stored at room temperature in a closed container.
-10.3.2 MI. Prepare a 200 µg/ml stock solution of methyl isocyanate-urea, transfer 60 mg of 1,2-PP to a 100-ml volumetric flask containing 50 ml of MeCl2. Carefully transfer 20 mg of methyl isocyanate to the volumetric flask and shake for 2 minutes. Dilute the solution to volume with MeCl2 and transfer to a bottle for storage. Methyl isocyanate does not produce a solid derivative and standards must be prepared from this stock solution.
+10.3.1 HDI, TDI, MDI. Dissolve 500 mg of each isocyanate in individual 100 ml aliquots of methylene chloride (MeCl 2), except MDI which requires 250 ml of MeCl 2. Transfer a 5-ml aliquot of 1,2-PP (see section 7.3.8) to each solution, stir and allow to stand overnight at room temperature. Transfer 150 ml aliquots of hexane to each solution to precipitate the isocyanate-urea derivative. Using a Buchner funnel, vacuum filter the solid-isocyanate-urea derivative and rinse with 50 ml of hexane. Dissolve the precipitate in a minimum aliquot of MeCl 2. Repeat the hexane precipitation and filtration twice. After the third filtration, dry the crystals at 50 °C and transfer to bottles for storage. The crystals are stable for at least 21 months when stored at room temperature in a closed container.
+10.3.2 MI. Prepare a 200 µg/ml stock solution of methyl isocyanate-urea, transfer 60 mg of 1,2-PP to a 100-ml volumetric flask containing 50 ml of MeCl 2. Carefully transfer 20 mg of methyl isocyanate to the volumetric flask and shake for 2 minutes. Dilute the solution to volume with MeCl 2 and transfer to a bottle for storage. Methyl isocyanate does not produce a solid derivative and standards must be prepared from this stock solution.
 10.4 Preparation of calibration standards. Prepare a 100 µg/ml stock solution of the isocyanates of interest from the individual isocyanate-urea derivative as prepared in sections 10.3.1 and 10.3.2. This is accomplished by dissolving 1 mg of each isocyanate-urea derivative in 10 ml of Acetonitrile. Calibration standards are prepared from this stock solution by making appropriate dilutions of aliquots of the stock into Acetonitrile.
 10.5 Preparation of Method Blanks. Prepare a method blank for each test program (up to twenty samples) by transferring 300 ml of the absorption solution to a 1,000-ml round bottom flask and concentrate as outlined in section 11.2.
 10.6 Preparation of Field Spike Solution. Prepare a field spike solution for every test program in the same manner as calibration standards (see Section 10.4). The mass of the target isocyanate in the volume of the spike solution for the field spike train shall be equivalent to that estimated to be captured from the source concentration for each compound; alternatively, you may also prepare a solution that represents half the applicable standard.
 10.7 HPLC Calibrations. See Section 11.1.
 11.0 Analytical Procedure
-11.1 Analytical Calibration. Perform a multipoint calibration of the instrument at six or more upscale points over the desired quantitative range (multiple calibration ranges shall be calibrated, if necessary). The field samples analyzed must fall within at least one of the calibrated quantitative ranges and meet the performance criteria specified below. The lowest point in your calibration curve must be at least 5, and preferably 10, times the MDL. For each calibration curve, the value of the square of the linear correlation coefficient, i.e., r2, must be ≥0.995, and the analyzer response must be within ±10 percent of the reference value at each upscale calibration point. Calibrations must be performed on each day of the analysis, before analyzing any of the samples. Following calibration, a secondary standard shall be analyzed. A continual calibration verification (CCV) must also be performed prior to any sample and after every ten samples. The measured value of this independently prepared standard must be within ±10 percent of the expected value. Report the results for each calibration standard secondary standard, and CCV as well as the conditions of the HPLC. The reports should include at least the peak area, height, and retention time for each isocyanate compound measured as well as a chromatogram for each standard.
+11.1 Analytical Calibration. Perform a multipoint calibration of the instrument at six or more upscale points over the desired quantitative range (multiple calibration ranges shall be calibrated, if necessary). The field samples analyzed must fall within at least one of the calibrated quantitative ranges and meet the performance criteria specified below. The lowest point in your calibration curve must be at least 5, and preferably 10, times the MDL. For each calibration curve, the value of the square of the linear correlation coefficient, i.e., r 2, must be ≥0.995, and the analyzer response must be within ±10 percent of the reference value at each upscale calibration point. Calibrations must be performed on each day of the analysis, before analyzing any of the samples. Following calibration, a secondary standard shall be analyzed. A continual calibration verification (CCV) must also be performed prior to any sample and after every ten samples. The measured value of this independently prepared standard must be within ±10 percent of the expected value. Report the results for each calibration standard secondary standard, and CCV as well as the conditions of the HPLC. The reports should include at least the peak area, height, and retention time for each isocyanate compound measured as well as a chromatogram for each standard.
 11.2 Concentration of Samples. Transfer each sample to a 1,000-ml round bottom flask. Attach the flask to a rotary evaporator and gently evaporate to dryness under vacuum in a 65 °C water bath. Rinse the round bottom flask three times each with 2 ml of acetonitrile and transfer the rinse to a 10-ml volumetric flask. Dilute the sample to volume with acetonitrile and transfer to a 15-ml vial and seal with a PTFE lined lid. Store the vial ≤4 °C until analysis.
 11.3 Analysis. Analyze replicative samples by HPLC, using the appropriate conditions established in section 10.2. The width of the retention time window used to make identifications should be based upon measurements of actual retention time variations of standards over the course of a day. Three times the standard deviation of a retention time for a compound can be used to calculate a suggested window size; however, the experience of the analyst should weigh heavily in the interpretation of the chromatograms. If the peak area exceeds the linear range of the calibration curve, the sample must be diluted with acetonitrile and reanalyzed. Average the replicate results for each run. For each sample you must report the same information required for analytical calibrations (Section 11.1). For non-detect or values below the detection limit of the method, you shall report the value as "<" numerical detection limit.
 12.0 Data Analysis and Calculations
@@ -5938,30 +5939,30 @@ Nomenclature and calculations, same as in Method 5, section 6, with the followin
 AS = Response of the sample, area counts.
 b = Y-intercept of the linear regression line, area counts.
 BR = Percent Breakthrough
-CA = Concentration of a specific isocyanate compound in the initial sample, µg/ml.
-CB = Concentration of a specific isocyanate compound in the replicate sample, µg/ml.
-CI = Concentration of a specific isocyanate compound in the sample, µg/ml.
-Crec = Concentration recovered from spike train, µg/ml.
-CS = Concentration of isocyanate compound in the stack gas, µg/dscm
-CT = Concentration of a specific isocyanate compound (Impingers 1-4), µg/dscm
-Cspike = Concentration spiked, µg/ml.
-C4 = Concentration of a specific isocyanate compound (Impingers 14), µg/dscm
-FIm = Mass of Free Isocyanate
-FTSrec = Field Train Spike Recovery
-Im = Mass of the Isocyanate
-Imw = MW of the Isocyanate
-IUm = Mass of Isocyanate-urea derivative
-IUmw = MW of the isocyanate-urea
+C A = Concentration of a specific isocyanate compound in the initial sample, µg/ml.
+C B = Concentration of a specific isocyanate compound in the replicate sample, µg/ml.
+C I = Concentration of a specific isocyanate compound in the sample, µg/ml.
+C rec = Concentration recovered from spike train, µg/ml.
+C S = Concentration of isocyanate compound in the stack gas, µg/dscm
+C T = Concentration of a specific isocyanate compound (Impingers 1-4), µg/dscm
+C spike = Concentration spiked, µg/ml.
+C 4 = Concentration of a specific isocyanate compound (Impingers 14), µg/dscm
+FI m = Mass of Free Isocyanate
+FTS rec = Field Train Spike Recovery
+I m = Mass of the Isocyanate
+I mw = MW of the Isocyanate
+IU m = Mass of Isocyanate-urea derivative
+IU mw = MW of the isocyanate-urea
 M = Slope of the linear regression line, area counts-ml/µg.
-mI = Mass of isocyanate in the total sample
+m I = Mass of isocyanate in the total sample
 MW = Molecular weight
 RPD = Relative Percent Difference
 VF = Final volume of concentrated sample, typically 10 ml.
-Vmstd = Volume of gas sample measured by the dry-gas meter, corrected to standard conditions, dscm (dscf).
+Vm std = Volume of gas sample measured by the dry-gas meter, corrected to standard conditions, dscm (dscf).
 12.2 Conversion from Isocyanate to the Isocyanate-urea derivative. The equation for converting the amount of free isocyanate to the corresponding amount of isocyanate-urea derivative is as follows:
 12.2 Conversion from Isocyanate to the Isocyanate-urea derivative. The equation for converting the amount of free isocyante to the corresponding amount of isocyante-urea derivative is as follows:
 ER04MR19.001
-The equation for converting the amount of IU derivative to the corresponding amount of FLm is as follows:
+The equation for converting the amount of IU derivative to the corresponding amount of FL m is as follows:
 ER04MR19.002
 12.3 Calculate the correlation coefficient, slope, and intercepts for the calibration data using the least squares method for linear regression. Concentrations are expressed as the x-variable and response is expressed as the y-variable.
 12.4 Calculate the concentration of isocyanate in the sample:
@@ -5977,7 +5978,7 @@ ER04MR19.007
 12.9 Calculate Percent Breakthrough
 ER04MR19.008
 Where:
-K = 35.314 ft3/m3 if Vm(std) is expressed in English units. = 1.00 m3/m3 if Vm(std) is expressed in metric units.
+K = 35.314 ft 3 /m 3 if Vm(std) is expressed in English units. = 1.00 m 3 /m 3 if Vm(std) is expressed in metric units.
 13.0 Method Performance
 Evaluation of sampling and analytical procedures for a selected series of compounds must meet the quality control criteria (See Section 9) for each associated analytical determination. The sampling and analytical procedures must be challenged by the test compounds spiked at appropriate levels and carried through the procedures.
 14.0 Pollution Prevention [Reserved]
