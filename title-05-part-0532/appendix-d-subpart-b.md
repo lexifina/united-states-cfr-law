@@ -413,13 +413,13 @@ Tennessee:
 Montgomery
 Area of Application. Survey area.
 Hardin-Jefferson
-Survey Area
 Kentucky:
 Hardin
 Jefferson
 Area of Application. Survey area plus:
 Indiana:
 Jefferson
+Johnson
 Martin
 Kentucky:
 Fayette
@@ -753,19 +753,20 @@ Durham
 Forsyth
 Rowan
 Onslow
-Survey Area
+Survey area
 North Carolina:
 Onslow
 Area of Application. Survey area plus:
 North Carolina:
 New Hanover
 Wayne
-Survey Area
+Survey area
 North Carolina:
 Wayne
 Area of Application. Survey area plus:
 North Carolina:
 Halifax
+Pitt
 NORTH DAKOTA
 Grand Forks
 Survey Area
