@@ -1,4 +1,5 @@
 # Appendix E to Part 1355—Data Standards
+This amendment was further delayed until Oct. 1, 2022, at 85 FR 28410, May 12, 2020.
 All data submissions will be evaluated to determine the completeness and internal consistency of the data. Four types of assessments will be conducted on both the foster care and adoption data submissions. The results of these assessments will determine the applicability of a substantial noncompliance determination with the title IV-E plan.
 The four types of assessments are:
 • Comparisons of the detailed data to summary data;
@@ -150,14 +151,14 @@ a. In addition, the following situations will result in converting data values t
 b. The maximum amount of allowable missing data is dependent on the data elements as described below.
 (1) No Missing Data.
 The data for the elements listed below must be present in all records in the submission. If any record contains missing data for any of these elements, the entire submission will be considered missing and processing will not proceed.
-ElementNo. | Element name
+Element No. | Element name
 01 | Title IV-E agency.
 02 | Report date.
 03 | Record number.
 04 | Did the title IV-e agency have any involvement in this adoption?
 (2) Less Than Ten Percent Missing Data
 The data for the elements listed below cannot have ten percent or more missing data without incurring a determination of substantial noncompliance with the title IV-E plan.
-ElementNo. | Element name
+Element No. | Element name
 05 | Child's date of birth.
 06 | Child's sex.
 07 | Child's race.

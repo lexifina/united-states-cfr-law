@@ -1,4 +1,5 @@
 # Appendix C to Part 1355—Electronic Data Transmission Format
+This amendment was further delayed until Oct. 1, 2022, at 85 FR 28410, May 12, 2020.
 All AFCARS data to be sent from title IV-E agencies to the Department are to be in electronic form. In order to meet this general specification, the Department will offer as much flexibility as possible. Technical assistance will be provided to negotiate a method of transmission best suited to the title IV-E agency's environment.
 There will be four semi-annual electronic data transmissions from the title IV-E agency to the Administration for Children and Families (ACF).
 Regardless of the electronic data transmission methodology selected, certain criteria must be met by the title IV-E agency:

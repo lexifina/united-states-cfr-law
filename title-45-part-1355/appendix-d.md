@@ -1,4 +1,5 @@
 # Appendix D to Part 1355—Foster Care and Adoption Record Layouts
+This amendment was further delayed until Oct. 1, 2022, at 85 FR 28410, May 12, 2020.
 A. Foster Care
 1. Foster Care Semi-Annual Detailed Data Elements Record
 a. The record will consist of 66 data elements.
@@ -106,7 +107,7 @@ b. Data must be supplied for each of the elements in accordance with these instr
 (2) For all elements where the total is zero, enter a numeric zero.
 (3) Enter date values in year, month order (YYYYMM), e.g.,199912 for December 1999.
 c. Foster Care Semi-Annual Summary Data Elements Record Layout follows:
-Element No. | Summary data file | Number ofcharacters
+Element No. | Summary data file | Number of characters
 01 | Number of records | 8
 02 | Report period ending date (YYYYMM) | 6
 03 | Children in care under 1 year | 8
@@ -205,7 +206,7 @@ b. Data must be supplied for each of the elements in accordance with these instr
 (2) For all elements where the total is zero, enter a numeric zero.
 (3) Enter data values in year, month order (YYYYMM), e.g., 199912 for December 1999.
 c. Adoption Semi-Annual Summary Data Element Record Layout follows:
-Element No. | Summary data file | Number ofcharacters
+Element No. | Summary data file | Number of characters
 01 | Number of records | 8
 02 | Report period ending date (YYYYMM) | 6
 03 | Children adopted Under 1 year old | 8

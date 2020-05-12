@@ -1,4 +1,5 @@
 # Appendix A to Part 1355—Foster Care Data Elements
+This amendment was further delayed until Oct. 1, 2022, at 85 FR 28410, May 12, 2020.
 Section I—Foster Care Data Elements
 Data elements preceded by "**" are the only data elements required for children who have been in care less than 30 days. For children who entered care prior to October 1, 1995, data elements preceded by either "**" and "***" are the only data elements required. This means that, for these two categories of children, these are the only data elements to which the missing data standard will be applied.
 I. General Information
@@ -199,7 +200,7 @@ E.1. Has this child ever been adopted? If this child has ever been legally adopt
 2. If yes, how old was the child when the adoption was legalized? Enter the number which represents the appropriate age range. If uncertain, use an estimate. If no one is available to provide the information, enter "Unable to Determine."
 III. Removal/Placement Setting Indicators
 A. Removal Episodes—The removal of the child from his/her normal place of residence resulting in his/her placement in a foster care setting.
-Date of First Removal From Home—Month, day and year the child was removed from home for the first time for purpose of placement in a foster care setting. If the current 1 removal is the first removal, enter the date of the current removal.1For children who have exited foster care, "current" refers to the most recent removal episode and the most recent placement setting.
+Date of First Removal From Home—Month, day and year the child was removed from home for the first time for purpose of placement in a foster care setting. If the current 1 removal is the first removal, enter the date of the current removal. 1 For children who have exited foster care, "current" refers to the most recent removal episode and the most recent placement setting.
 Total Number of Removals from Home to Date—The number of times the child was removed from home, including the current removal.
 Date Child was Discharged From Last Foster Care Episode (If Applicable)—For children with prior removals, enter the month, day and year they were discharged from care for the episode immediately prior to the current episode. For children with no prior removals, leave blank.
 Date of Latest Removal From Home**—Month, day and year the child was last removed from his/her home for the purpose of being place in foster care. This would be the date for the current episode or, if the child has existed foster care, the date of removal for the most recent removal.
