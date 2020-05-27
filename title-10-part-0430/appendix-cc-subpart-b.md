@@ -36,101 +36,98 @@ This appendix covers the test requirements used to measure the energy performanc
 3.2.3 Standby mode and off mode wattmeter. The wattmeter used to measure standby mode and off mode power consumption must meet the requirements specified in Section 4, Paragraph 4.4 of IEC 62301 (incorporated by reference; see § 430.3).
 3.2.4 Standby mode and off mode ambient temperature. For standby mode and off mode testing, maintain room ambient air temperature conditions as specified in Section 4, Paragraph 4.2 of IEC 62301 (incorporated by reference; see § 430.3).
 4. Test Measurement
-4.1 Cooling mode. Measure the indoor room cooling capacity and overall power input in cooling mode in accordance with Section 7.1.b and 7.1.c of ANSI/AHAM PAC-1-2015 (incorporated by reference; see § 430.3), respectively. Determine the test duration in accordance with Section 8.7 of ASHRAE Standard 37-2009 (incorporated by reference; § 430.3). Apply the test conditions for single-duct and dual-duct portable air conditioners presented in Table 1 of this appendix instead of the test conditions in Table 3 of ANSI/AHAM PAC-1-2015. For single-duct units, measure the indoor room cooling capacity, CapacitySD, and overall power input in cooling mode, PSD, in accordance with the ambient conditions for test configuration 5, presented in Table 1 of this appendix. For dual-duct units, measure the indoor room cooling capacity and overall power input in accordance with ambient conditions for test configuration 3, condition A (Capacity95, P95), and then measure the indoor room cooling capacity and overall power input a second time in accordance with the ambient conditions for test configuration 3, condition B (Capacity83, P83), presented in Table 1 of this appendix. Note that for the purposes of this cooling mode test procedure, evaporator inlet air is considered the "indoor air" of the conditioned space and condenser inlet air is considered the "outdoor air" outside of the conditioned space.
+4.1 Cooling mode. Measure the indoor room cooling capacity and overall power input in cooling mode in accordance with Section 7.1.b and 7.1.c of ANSI/AHAM PAC-1-2015 (incorporated by reference; see § 430.3), respectively. Determine the test duration in accordance with Section 8.7 of ASHRAE Standard 37-2009 (incorporated by reference; § 430.3). Apply the test conditions for single-duct and dual-duct portable air conditioners presented in Table 1 of this appendix instead of the test conditions in Table 3 of ANSI/AHAM PAC-1-2015. For single-duct units, measure the indoor room cooling capacity, Capacity SD, and overall power input in cooling mode, P SD, in accordance with the ambient conditions for test configuration 5, presented in Table 1 of this appendix. For dual-duct units, measure the indoor room cooling capacity and overall power input in accordance with ambient conditions for test configuration 3, condition A (Capacity 95, P 95), and then measure the indoor room cooling capacity and overall power input a second time in accordance with the ambient conditions for test configuration 3, condition B (Capacity 83, P 83), presented in Table 1 of this appendix. Note that for the purposes of this cooling mode test procedure, evaporator inlet air is considered the "indoor air" of the conditioned space and condenser inlet air is considered the "outdoor air" outside of the conditioned space.
 Table 1—Evaporator (Indoor) and Condenser (Outdoor) Inlet Test Conditions
 Test configuration | Evaporator inlet air, °F (°C) | Dry bulb | Wet bulb | Condenser inlet air, °F (°C) | Dry bulb | Wet bulb
 3 (Dual-Duct, Condition A) | 80 (26.7) | 67 (19.4) | 95 (35.0) | 75 (23.9)
 3 (Dual-Duct, Condition B) | 80 (26.7) | 67 (19.4) | 83 (28.3) | 67.5 (19.7)
 5 (Single-Duct) | 80 (26.7) | 67 (19.4) | 80 (26.7) | 67 (19.4)
-4.1.1. Duct Heat Transfer. Measure the surface temperature of the condenser exhaust duct and condenser inlet duct, where applicable, throughout the cooling mode test. Calculate the average temperature at each individual location, and then calculate the average surface temperature of each duct by averaging the four average temperature measurements taken on that duct. Calculate the surface area (Aduct_j) of each duct according to:
-Aduct_j = π × dj × Lj
+4.1.1. Duct Heat Transfer. Measure the surface temperature of the condenser exhaust duct and condenser inlet duct, where applicable, throughout the cooling mode test. Calculate the average temperature at each individual location, and then calculate the average surface temperature of each duct by averaging the four average temperature measurements taken on that duct. Calculate the surface area (A duct_j) of each duct according to:
+A duct_j = π × d j × L j
 Where:
-dj = the outer diameter of duct "j", including any manufacturer-supplied insulation.
-Lj = the extended length of duct "j" while under test.
+d j = the outer diameter of duct "j", including any manufacturer-supplied insulation.
+L j = the extended length of duct "j" while under test.
 j represents the condenser exhaust duct and, for dual-duct units, the condenser exhaust duct and the condenser inlet duct.
 Calculate the total heat transferred from the surface of the duct(s) to the indoor conditioned space while operating in cooling mode for the outdoor test conditions in Table 1 of this appendix, as follows. For single-duct portable air conditioners:
-Qduct_SD = h × Aduct_j × (T duct_SD_j−T ei)
+Q duct_SD = h × A duct_j × (T duct_SD_j − T ei)
 For dual-duct portable air conditioners:
-Qduct_95 = ∑j{h × Aduct_j × (T duct_95_j−T ei)}
-Qduct_83 = ∑j{h × Aduct_j × (T duct_83_j−T ei)}
+Q duct_95 = ∑ j {h × A duct_j × (T duct_95_j − T ei)}
+Q duct_83 = ∑ j {h × A duct_j × (T duct_83_j − T ei)}
 Where:
-Qduct_SD = for single-duct portable air conditioners, the total heat transferred from the duct to the indoor conditioned space in cooling mode when tested according to the test conditions in Table 1 of this appendix, in Btu/h.
-Qduct_95 and Qduct_83 = for dual-duct portable air conditioners, the total heat transferred from the ducts to the indoor conditioned space in cooling mode, in Btu/h, when tested according to the 95 °F dry-bulb and 83 °F dry-bulb outdoor test conditions in Table 1 of this appendix, respectively.
+Q duct_SD = for single-duct portable air conditioners, the total heat transferred from the duct to the indoor conditioned space in cooling mode when tested according to the test conditions in Table 1 of this appendix, in Btu/h.
+Q duct_95 and Q duct_83 = for dual-duct portable air conditioners, the total heat transferred from the ducts to the indoor conditioned space in cooling mode, in Btu/h, when tested according to the 95 °F dry-bulb and 83 °F dry-bulb outdoor test conditions in Table 1 of this appendix, respectively.
 h = convection coefficient, 3 Btu/h per square foot per °F.
-Aduct_j = surface area of duct "j", in square feet.
-Tduct_SD_j = average surface temperature for the condenser exhaust duct of single-duct portable air conditioners, as measured during testing according to the test condition in Table 1 of this appendix, in °F.
-Tduct_95_j and Tduct_83_j = average surface temperature for duct "j" of dual-duct portable air conditioners, as measured during testing according to the two outdoor test conditions in Table 1 of this appendix, in °F.
+A duct_j = surface area of duct "j", in square feet.
+T duct_SD_j = average surface temperature for the condenser exhaust duct of single-duct portable air conditioners, as measured during testing according to the test condition in Table 1 of this appendix, in °F.
+T duct_95_j and T duct_83_j = average surface temperature for duct "j" of dual-duct portable air conditioners, as measured during testing according to the two outdoor test conditions in Table 1 of this appendix, in °F.
 j represents the condenser exhaust duct and, for dual-duct units, the condenser exhaust duct and the condenser inlet duct.
-Tei = average evaporator inlet air dry-bulb temperature, in °F.
-4.1.2 Infiltration Air Heat Transfer. Measure the heat contribution from infiltration air for single-duct portable air conditioners and dual-duct portable air conditioners that draw at least part of the condenser air from the conditioned space. Calculate the heat contribution from infiltration air for single-duct and dual-duct portable air conditioners for both cooling mode outdoor test conditions, as described in this section. Calculate the dry air mass flow rate of infiltration air according to the following equations:
-ER14OC16.001
+T ei = average evaporator inlet air dry-bulb temperature, in °F.
+4.1.2. Infiltration Air Heat Transfer. Measure the heat contribution from infiltration air for single-duct portable air conditioners and dual-duct portable air conditioners that draw at least part of the condenser air from the conditioned space. Calculate the heat contribution from infiltration air for single-duct and dual-duct portable air conditioners for both cooling mode outdoor test conditions, as described in this section. Calculate the dry air mass flow rate of infiltration air according to the following equations:
+ER20AP20.000
 For dual-duct portable air conditioners:
-ER14OC16.002
+ER20AP20.001
 Where:
 m SD = dry air mass flow rate of infiltration air for single-duct portable air conditioners, in pounds per minute (lb/m).
 m 95 and m 83 = dry air mass flow rate of infiltration air for dual-duct portable air conditioners, as calculated based on testing according to the test conditions in Table 1 of this appendix, in lb/m.
-Vco_SD, Vco_95, and Vco_83 = average volumetric flow rate of the condenser outlet air during cooling mode testing for single-duct portable air conditioners; and at the 95 °F and 83 °F dry-bulb outdoor conditions for dual-duct portable air conditioners, respectively, in cubic feet per minute (cfm).
-Vci_95, and Vci_83 = average volumetric flow rate of the condenser inlet air during cooling mode testing at the 95 °F and 83 °F dry-bulb outdoor conditions for dual-duct portable air conditioners, respectively, in cfm.
-ρco_SD, ρco_95, and ρco_83 = average density of the condenser outlet air during cooling mode testing for single-duct portable air conditioners, and at the 95 °F and 83 °F dry-bulb outdoor conditions for dual-duct portable air conditioners, respectively, in pounds mass per cubic foot (lbm/ft3).
-ρci_95, and ρci_83 = average density of the condenser inlet air during cooling mode testing at the 95 °F and 83 °F dry-bulb outdoor conditions for dual-duct portable air conditioners, respectively, in lbm/ft3.
-ωco_SD, ωco_95, and ωco_83 = average humidity ratio of condenser outlet air during cooling mode testing for single-duct portable air conditioners, and at the 95 °F and 83 °F dry-bulb outdoor conditions for dual-duct portable air conditioners, respectively, in pounds mass of water vapor per pounds mass of dry air (lbw/lbda).
-ωci_95, and ωci_83 = average humidity ratio of condenser inlet air during cooling mode testing at the 95 °F and 83 °F dry-bulb outdoor conditions for dual-duct portable air conditioners, respectively, in lbw/lbda.
+V co_SD, V co_95, and V co_83 = average volumetric flow rate of the condenser outlet air during cooling mode testing for single-duct portable air conditioners; and at the 95 °F and 83 °F dry-bulb outdoor conditions for dual-duct portable air conditioners, respectively, in cubic feet per minute (cfm).
+V ci_95 and V ci_83 = average volumetric flow rate of the condenser inlet air during cooling mode testing at the 95 °F and 83 °F dry-bulb outdoor conditions for dual-duct portable air conditioners, respectively, in cfm.
+ρ co_SD, ρ co_95, and ρ co_83 = average density of the condenser outlet air during cooling mode testing for single-duct portable air conditioners, and at the 95 °F and 83 °F dry-bulb outdoor conditions for dual-duct portable air conditioners, respectively, in pounds mass per cubic foot (lb m /ft 3).
+ρ ci_95 and ρ ci_83 = average density of the condenser inlet air during cooling mode testing at the 95 °F and 83 °F dry-bulb outdoor conditions for dual-duct portable air conditioners, respectively, in lb m /ft 3.
+ω co_SD, ω co_95, and ω co_83 = average humidity ratio of condenser outlet air during cooling mode testing for single-duct portable air conditioners, and at the 95 °F and 83 °F dry-bulb outdoor conditions for dual-duct portable air conditioners, respectively, in pounds mass of water vapor per pounds mass of dry air (lb w /lb da).
+ω ci_95 and ω ci_83 = average humidity ratio of condenser inlet air during cooling mode testing at the 95 °F and 83 °F dry-bulb outdoor conditions for dual-duct portable air conditioners, respectively, in lb w /lb da.
 For single-duct and dual-duct portable air conditioners, calculate the sensible component of infiltration air heat contribution according to:
-Q s _95 = m × 60
-× [c p_da × (T ia_95 − T indoor))
-+ (c p _wv × (ωia 95 × T ia_ 95 − ωindoor × T indoor))]
-Q s_ 83 = m × 60
-× [(c p_da × T ia_ 83 − T indoor
-+ (c p_wv × (ωia_ 83 × T ia_ 83 − ωindoor × T indoor))]
+Q s_95 = m × 60 × [(c p_da × (T ia_95 −T indoor)) + (c p_wv × (ω ia_95 × T ia_95 −ω indoor × T indoor))]
+Q s_83 = m × 60 × [(c p_da × (T ia_83 −T indoor)) + (c p_wv × (ω ia_83 × T ia_83 −ω indoor × T indoor))]
 Where:
-Qs_95 and Qs_83 = sensible heat added to the room by infiltration air, calculated at the 95 °F and 83 °F dry-bulb outdoor conditions in Table 1 of this appendix, in Btu/h.
-m = dry air mass flow rate of infiltration air, m SD or m 95 when calculating Qs_95 and m SD or m 83 when calculating Qs_83, in lb/m.
-cp_da = specific heat of dry air, 0.24 Btu/lbm − °F.
-cp_wv = specific heat of water vapor, 0.444 Btu/lbm − °F.
-Tindoor = indoor chamber dry-bulb temperature, 80 °F.
-Tia_95 and Tia_83 = infiltration air dry-bulb temperatures for the two test conditions in Table 1 of this appendix, 95 °F and 83 °F, respectively.
-ωia_95 and ωia_83 = humidity ratios of the 95 °F and 83 °F dry-bulb infiltration air, 0.0141 and 0.01086 lbw/lbda, respectively.
-ωindoor = humidity ratio of the indoor chamber air, 0.0112 lbw/lbda.
+Q s_95 and Q s_83 = sensible heat added to the room by infiltration air, calculated at the 95 °F and 83 °F dry-bulb outdoor conditions in Table 1 of this appendix, in Btu/h.
+m = dry air mass flow rate of infiltration air, m SD or m 95 when calculating Q s_95 and m SD or m 83 when calculating Q s_83, in lb/m.
+c p_da = specific heat of dry air, 0.24 Btu/lb m - °F.
+c p_wv = specific heat of water vapor, 0.444 Btu/lb m - °F.
+T indoor = indoor chamber dry-bulb temperature, 80 °F.
+T ia_95 and T ia_83 = infiltration air dry-bulb temperatures for the two test conditions in Table 1 of this appendix, 95 °F and 83 °F, respectively.
+ω ia_95 and ω ia_83 = humidity ratios of the 95 °F and 83 °F dry-bulb infiltration air, 0.0141 and 0.01086 lb w /lb da, respectively.
+ω indoor = humidity ratio of the indoor chamber air, 0.0112 lb w /lb da.
 60 = conversion factor from minutes to hours.
 Calculate the latent heat contribution of the infiltration air according to:
-Ql_95 = m × 60 × H fg × (ωia_ 95 − ωindoor)
-Ql_ 83 = m × 60 × H fg × (ωia_ 83 − ωindoor)
+Q l_95 = m × 60 × H fg × (ω ia_95 −ω indoor)
+Q l_83 = m × 60 × H fg × (ω ia_83 −ω indoor)
 Where:
-Ql_95 and Ql_83 = latent heat added to the room by infiltration air, calculated at the 95 °F and 83 °F dry-bulb outdoor conditions in Table 1 of this appendix, in Btu/h.
-m = mass flow rate of infiltration air, m SD or m 95 when calculating Ql_95 and m SD or m 83 when calculating Ql_83, in lb/m.
-Hfg = latent heat of vaporization for water vapor, 1061 Btu/lbm.
-ωia_95 and ωia_83 = humidity ratios of the 95 °F and 83 °F dry-bulb infiltration air, 0.0141 and 0.01086 lbw/lbda, respectively.
-ωindoor = humidity ratio of the indoor chamber air, 0.0112 lbw/lbda.60 = conversion factor from minutes to hours.
+Q l_95 and Q l_83 = latent heat added to the room by infiltration air, calculated at the 95 °F and 83 °F dry-bulb outdoor conditions in Table 1 of this appendix, in Btu/h.
+m = mass flow rate of infiltration air, m SD or m 95 when calculating Q l_95 and m SD or m 83 when calculating Q l_83, in lb/m.
+H fg = latent heat of vaporization for water vapor, 1061 Btu/lb m.
+ω ia_95 and ω ia_83 = humidity ratios of the 95 °F and 83 °F dry-bulb infiltration air, 0.0141 and 0.01086 lb w /lb da, respectively.
+ω indoor = humidity ratio of the indoor chamber air, 0.0112 lb w /lb da.
+60 = conversion factor from minutes to hours.
 The total heat contribution of the infiltration air is the sum of the sensible and latent heat:
-Q infiltration_95 = Q s_ 95 + Q l_ 95
-Q infiltration_ 83 = Q s_ 83 + Q 83
+Q infiltration_95 = Q s_95 + Q l_95
+Q infiltration_83 = Q s_83 + Q l_83
 Where:
-Qinfiltration_95 and Qinfiltration_83 = total infiltration air heat in cooling mode, calculated at the 95 °F and 83 °F dry-bulb outdoor conditions in Table 1 of this appendix, in Btu/h.
-Qs_95 and Qs_83 = sensible heat added to the room by infiltration air, calculated at the 95 °F and 83 °F dry-bulb outdoor conditions in Table 1 of this appendix, in Btu/h.
-Ql_95 and Ql_83 = latent heat added to the room by infiltration air, calculated at the 95 °F and 83 °F dry-bulb outdoor conditions in Table 1 of this appendix, in Btu/h.
-4.2 Off-cycle mode. Establish the test conditions specified in section 3.1.1 of this appendix for off-cycle mode and use the wattmeter specified in section 3.2.3 of this appendix (but do not use the duct measurements in section 3.1.1.6). Begin the off-cycle mode test period 5 minutes following the cooling mode test period. Adjust the setpoint higher than the ambient temperature to ensure the product will not enter cooling mode and begin the test 5 minutes after the compressor cycles off due to the change in setpoint. Do not change any other control settings between the end of the cooling mode test period and the start of the off-cycle mode test period. The off-cycle mode test period must be 2 hours in duration, during which period, record the power consumption at the same intervals as recorded for cooling mode testing. Measure and record the average off-cycle mode power of the portable air conditioner, Poc, in watts.
+Q infiltration_95 and Q infiltration_83 = total infiltration air heat in cooling mode, calculated at the 95 °F and 83 °F dry-bulb outdoor conditions in Table 1 of this appendix, in Btu/h.
+Q s_95 and Q s_83 = sensible heat added to the room by infiltration air, calculated at the 95 °F and 83 °F dry-bulb outdoor conditions in Table 1 of this appendix, in Btu/h.
+Q l_95 and Q l_83 = latent heat added to the room by infiltration air, calculated at the 95 °F and 83 °F dry-bulb outdoor conditions in Table 1 of this appendix, in Btu/h.
+4.2 Off-cycle mode. Establish the test conditions specified in section 3.1.1 of this appendix for off-cycle mode and use the wattmeter specified in section 3.2.3 of this appendix (but do not use the duct measurements in section 3.1.1.6). Begin the off-cycle mode test period 5 minutes following the cooling mode test period. Adjust the setpoint higher than the ambient temperature to ensure the product will not enter cooling mode and begin the test 5 minutes after the compressor cycles off due to the change in setpoint. Do not change any other control settings between the end of the cooling mode test period and the start of the off-cycle mode test period. The off-cycle mode test period must be 2 hours in duration, during which period, record the power consumption at the same intervals as recorded for cooling mode testing. Measure and record the average off-cycle mode power of the portable air conditioner, P oc, in watts.
 4.3 Standby mode and off mode. Establish the testing conditions set forth in section 3.2 of this appendix, ensuring that the portable air conditioner does not enter any active modes during the test. For portable air conditioners that take some time to enter a stable state from a higher power state as discussed in Section 5, Paragraph 5.1, Note 1 of IEC 62301, (incorporated by reference; see § 430.3), allow sufficient time for the portable air conditioner to reach the lowest power state before proceeding with the test measurement. Follow the test procedure specified in Section 5, Paragraph 5.3.2 of IEC 62301 for testing in each possible mode as described in sections 4.3.1 and 4.3.2 of this appendix.
-4.3.1 If the portable air conditioner has an inactive mode, as defined in section 2.6 of this appendix, but not an off mode, as defined in section 2.8 of this appendix, measure and record the average inactive mode power of the portable air conditioner, Pia, in watts.
-4.3.2 If the portable air conditioner has an off mode, as defined in section 2.8 of this appendix, measure and record the average off mode power of the portable air conditioner, Pom, in watts.
+4.3.1 If the portable air conditioner has an inactive mode, as defined in section 2.6 of this appendix, but not an off mode, as defined in section 2.8 of this appendix, measure and record the average inactive mode power of the portable air conditioner, P ia, in watts.
+4.3.2 If the portable air conditioner has an off mode, as defined in section 2.8 of this appendix, measure and record the average off mode power of the portable air conditioner, P om, in watts.
 5. Calculation of Derived Results From Test Measurements
-5.1 Adjusted Cooling Capacity. Calculate the adjusted cooling capacities for portable air conditioners, ACC95 and ACC83, expressed in Btu/h, according to the following equations. For single-duct portable air conditioners:
-ACC 95 = Capacity SD − Q duct_SD − Qinfiltration_95
+5.1 Adjusted Cooling Capacity. Calculate the adjusted cooling capacities for portable air conditioners, ACC 95 and ACC 83, expressed in Btu/h, according to the following equations. For single-duct portable air conditioners:
+ACC 95 = Capacity SD − Q duct_SD − Q infiltration_95
 ACC 83 = Capacity SD − Q duct_SD − Q infiltration_83
 For dual-duct portable air conditioners:
 ACC 95 = Capacity 95 − Q duct_95 − Q infiltration_95
 ACC 83 = Capacity 83 − Q duct_83 − Q infiltration_83
 Where:
-CapacitySD, Capacity95, and Capacity83 = cooling capacity measured in section 4.1.1 of this appendix.
-Qduct_SD, Qduct_95, and Qduct_83 = duct heat transfer while operating in cooling mode, calculated in section 4.1.1.1 of this appendix.
-Qinfiltration_95 and Qinfiltration_83 = total infiltration air heat transfer in cooling mode, calculated in section 4.1.1.2 of this appendix.
+Capacity SD, Capacity 95, and Capacity 83 = cooling capacity measured in section 4.1.1 of this appendix.
+Q duct_SD, Q duct_95, and Q duct_83 = duct heat transfer while operating in cooling mode, calculated in section 4.1.1.1 of this appendix.
+Q infiltration_95 and Q infiltration_83 = total infiltration air heat transfer in cooling mode, calculated in section 4.1.1.2 of this appendix.
 5.2 Seasonally Adjusted Cooling Capacity. Calculate the seasonally adjusted cooling capacity for portable air conditioners, SACC, expressed in Btu/h, according to:
 SACC = ACC 95 × 0.2 + ACC 83 × 0.8
 Where:
-ACC95 and ACC83 = adjusted cooling capacity, in Btu/h, calculated in section 5.1 of this appendix.
-0.2 = weighting factor for ACC95.
-0.8 = weighting factor for ACC83.
-5.3 Annual Energy Consumption. Calculate the annual energy consumption in each operating mode, AECm, expressed in kilowatt-hours per year (kWh/year). Use the following annual hours of operation for each mode:
-Operating mode | Annualoperating hours
+ACC 95 and ACC 83 = adjusted cooling capacity, in Btu/h, calculated in section 5.1 of this appendix.
+0.2 = weighting factor for ACC 95.
+0.8 = weighting factor for ACC 83.
+5.3 Annual Energy Consumption. Calculate the annual energy consumption in each operating mode, AEC m, expressed in kilowatt-hours per year (kWh/year). Use the following annual hours of operation for each mode:
+Operating mode | Annual operating hours
 Cooling Mode, Dual-Duct 95 °F 1 | 750
 Cooling Mode, Dual-Duct 83 °F 1 | 750
 Cooling Mode, Single-Duct | 750
@@ -139,26 +136,26 @@ Inactive or Off | 1,355
 1 These operating mode hours are for the purposes of calculating annual energy consumption under different ambient conditions for dual-duct portable air conditioners, and are not a division of the total cooling mode operating hours. The total dual-duct cooling mode operating hours are 750 hours.
 AEC m = P m × t m × k
 Where:
-AECm = annual energy consumption in each mode, in kWh/year.
-Pm = average power in each mode, in watts.
+AEC m = annual energy consumption in each mode, in kWh/year.
+P m = average power in each mode, in watts.
 m represents the operating mode ("95" and "83" cooling mode at the 95 °F and 83 °F dry-bulb outdoor conditions, respectively for dual-duct portable air conditioners, "SD" cooling mode for single-duct portable air conditioners, "oc" off-cycle, and "ia" inactive or "om" off mode).
 t = number of annual operating time in each mode, in hours.
 k = 0.001 kWh/Wh conversion factor from watt-hours to kilowatt-hours.
 Total annual energy consumption in all modes except cooling, is calculated according to:
 ER01JN16.007
 Where:
-AECT = total annual energy consumption attributed to all modes except cooling, in kWh/year;
-AECm = total annual energy consumption in each mode, in kWh/year.
-m represents the operating modes included in AECT ("oc" off-cycle, and "im" inactive or "om" off mode).
+AEC T = total annual energy consumption attributed to all modes except cooling, in kWh/year;
+AEC m = total annual energy consumption in each mode, in kWh/year.
+m represents the operating modes included in AEC T ("oc" off-cycle, and "im" inactive or "om" off mode).
 5.4 Combined Energy Efficiency Ratio. Using the annual operating hours, as outlined in section 5.3 of this appendix, calculate the combined energy efficiency ratio, CEER, expressed in Btu/Wh, according to the following:
 ER01JN16.008
 ER01JN16.009
 Where:
-CEERSD and CEERDD = combined energy efficiency ratio for single-duct and dual-duct portable air conditioners, respectively, in Btu/Wh.
-ACC95 and ACC83 = adjusted cooling capacity, tested at the 95 °F and 83 °F dry-bulb outdoor conditions in Table 1 of this appendix, in Btu/h, calculated in section 5.1 of this appendix.
-AECSD = annual energy consumption in cooling mode for single-duct portable air conditioners, in kWh/year, calculated in section 5.3 of this appendix.
-AEC95 and AEC83 = annual energy consumption for the two cooling mode test conditions in Table 1 of this appendix for dual-duct portable air conditioners, in kWh/year, calculated in section 5.3 of this appendix.
-AECT = total annual energy consumption attributed to all modes except cooling, in kWh/year, calculated in section 5.3 of this appendix.
+CEER SD and CEER DD = combined energy efficiency ratio for single-duct and dual-duct portable air conditioners, respectively, in Btu/Wh.
+ACC 95 and ACC 83 = adjusted cooling capacity, tested at the 95 °F and 83 °F dry-bulb outdoor conditions in Table 1 of this appendix, in Btu/h, calculated in section 5.1 of this appendix.
+AEC SD = annual energy consumption in cooling mode for single-duct portable air conditioners, in kWh/year, calculated in section 5.3 of this appendix.
+AEC 95 and AEC 83 = annual energy consumption for the two cooling mode test conditions in Table 1 of this appendix for dual-duct portable air conditioners, in kWh/year, calculated in section 5.3 of this appendix.
+AEC T = total annual energy consumption attributed to all modes except cooling, in kWh/year, calculated in section 5.3 of this appendix.
 t = number of cooling mode hours per year, 750.
 k = 0.001 kWh/Wh conversion factor for watt-hours to kilowatt-hours.
 0.2 = weighting factor for the 95 °F dry-bulb outdoor condition test.
