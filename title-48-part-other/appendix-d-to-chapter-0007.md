@@ -23,10 +23,11 @@
 (2) Personal services contracts may be used for commercial activities. Commercial activities provide a product or service which could be obtained from a commercial source. See Attachment A of OMB Circular A-76 for a representative list of such activities.
 (3) Notwithstanding any other provision of USAID directives, regulations or delegations, U.S. citizen personal services contractors (USPSCs) may be delegated or assigned any authority, duty or responsibility delegable to U.S. citizen direct-hire employees (USDH employees) except that:
 a. They may not supervise U.S. direct-hire employees of USAID or other U.S. Government agencies. They may supervise USPSCs and non-U.S. citizen employees.
-b. They may not be designated as Contracting Officers or delegated authority to sign obligating or subobligating documents.
+b. They may not be delegated authority to sign obligating or subobligating documents except when specifically designated as a contracting officer or an agreement officer in accordance with FAR subpart 1.6 and the Agency's applicable warrant program.
 c. They may represent the agency, except that communications that reflect a final policy, planning or budget decision of the agency must be cleared by a USDH employee.
 d. They may participate in personnel selection matters, but may not be delegated authority to make a final decision on personnel selection.
 e. Exceptions to the limitations in this paragraph (b)(3) must be approved by the Assistant Administrator for Management (AA/M).
+(4) Exceptions. The Assistant Administrator, Bureau for Management (AA/M) must approve exceptions to the limitations in (b)(3). Approval of an exception by the AA/M is not required when the Director, Bureau for Management, Office of Acquisition and Assistance (M/OAA Director) designates a USPSC as a contracting officer or an agreement officer.
 (c) Withholdings and Fringe Benefits. (1) Personal services contractors (PSCs) are Government employees for purposes of the Internal Revenue Code (Title 26 of the United States Code) and are, therefore, subject to social security (FICA) and Federal income tax (FIT) withholdings. As employees, they are ineligible for the "foreign earned income" exclusion under the Internal Revenue Service (IRS) regulations (see 26 CFR 1.911-3(c)(3)).
 (2) Personal services contractors are treated on par with other Government employees, except for programs based on any law administered by the Federal Office of Personnel Management (e.g., incentive awards, life insurance, health insurance, and retirement programs covered by 5 CFR Parts 530, 531, 831, 870, 871, and 890). While PSCs are ineligible to participate in any of these programs, the following fringe benefits are provided as a matter of policy:
 (i) The employer's FICA contribution for retirement purposes.
@@ -62,7 +63,7 @@ e. Exceptions to the limitations in this paragraph (b)(3) must be approved by th
 (C) All requests for an initial rate of pay above 10 percent over current earnings must be approved in writing by the appropriate Assistant Administrator or Mission Director. Current earnings are actual earnings for work reasonably related to the position for which the applicant is being considered. Paragraphs 4(e)(1)(ii) (A) through (C) apply only to salary setting method number 2 in paragraph 4 (e)(1)(ii).
 (2) When an applicant has no current earnings history (e.g., a person returning to the workforce after an absence of a number of years) or when an applicant's current earnings history doesn't accurately reflect the applicant's job market worth (e.g., a Peace Corps volunteer), every effort should be made to establish a market value for the position as a basis for negotiation, notwithstanding the lack of a current earnings history, provided that the applicant has the full qualifications for the job and could command a similar salary in the open job market.
 (3) This appendix applies the "USAID Contractor Salary Threshold (USAID CST)" policy in Automated Directives System (ADS) Chapter 302.3.6.8 to salaries for U.S. PSCs. Salaries in excess of the USAID CST, which is equivalent to the maximum rate for Federal agencies without a certified SES performance appraisal system, must be approved by the M/OAA Director in accordance with the approval procedures in ADS 302.3.6.8(e). This approval cannot be re-delegated.
-(f) Incentive awards. U.S. PSCs are not eligible to receive monetary awards. They are eligible for non-monetary awards such as certificates.
+(f) Incentive awards. U.S. personal services contractors are not eligible to participate in, or be funded under, the incentive-awards program administered by the Office of Personnel Management (OPM) for USAID U.S. direct-hire employees in accordance with section 636(a) of the Foreign Assistance Act of 1961, as amended. U.S. personal services contractors are eligible to receive certain monetary and non-monetary incentive awards as authorized under this section. All nominations for incentive awards must be approved by a U.S. direct-hire employee, who is either the contractor's supervisor or is at the next higher level within the Mission/Bureau/Independent Office (M/B/IO). The list of incentive awards and detailed eligibility, nomination, and approval processes are specified in internal Agency policies in Chapter 309 of Automated Directive System (ADS), available on the USAID website. These awards will be funded from the authorizations used to fund the specific contract.
 (g) Annual salary increase. PSC contracts written for more than one year should provide for a 3% annual increase based on satisfactory performance documented in their annual written evaluations.
 (h) Pay comparability adjustment. PSCs shall receive the same percentage pay comparability adjustment as that received by U.S. Government employees subject to the availability of funds.
 (i) Subcontracting. PSCs are U.S. Government employees and may not be called upon (or permitted) to subcontract out any part of their work. Funds for subcontracting have no place in the budget of a personal services contract. Support services, equipment, and supplies (e.g., typing and report preparation, paper, pens, computers, and furniture) should be furnished to PSCs just as they would be to direct-hire employees. To the extent that direct-hire personnel may be authorized to purchase supporting services or supplies under a travel authorization, so may PSCs; otherwise, contracts for personal services should not contain any funds for procurement.
@@ -181,6 +182,9 @@ The following provisions numbered as shown below omitting number(s) ___, are the
 24. Conditions for Contracting Prior to Receipt of Security Clearance
 25. Medical Evacuation Services
 26. Governing Law
+27. [Reserved]
+28. [Reserved]
+29.Incentive Awards
 For each tour of duty, attach the applicable General Provisions.
 Schedule: (Note: Use of the following Schedule Articles are not mandatory. They are intended to serve as guidelines for contracting offices in drafting contract schedules. Article language may be changed to suit the needs of the particular contract).
 Article I—Statement of Duties
@@ -231,7 +235,7 @@ Article V—Precontract Expenses
 No expense incurred before execution of this contract will be reimbursed unless such expense was incurred after receipt and acceptance of a precontract expense letter issued to the contractor by the Contracting Officer, and then only in accordance with the provisions and limitations contained in such letter. The rights and obligations created by such letter shall be considered as merged into this contract.
 Article VI—Additional Clauses
 (Additional Schedule Clauses may be added such as the implementation of General Provisions or Additional Clauses.)
-11.Optional Schedule With a U.S. Citizen or U.S. Resident Alien
+11. Optional Schedule With a U.S. Citizen or U.S. Resident Alien
 A U.S. Citizen or a U.S. Resident Alien PSC Contract No. ___
 Table of Contents
 (Optional Schedule)
@@ -272,6 +276,9 @@ The following provisions, numbered as shown below, omitting number(s) ___, are t
 24. Conditions for Contracting Prior to Receipt of Security Clearance
 25. Medical Evacuation Services
 26. Governing Law
+27. [Reserved]
+28. [Reserved]
+29. Incentive Awards
 For each tour of duty, attach the applicable General Provisions.
 Article I—Statement of Duties.
 (The statement of duties shall include:
@@ -323,8 +330,7 @@ Article V—Precontract Expenses
 No expense incurred before execution of this contract will be reimbursed unless such expense was incurred after receipt and acceptance of a precontract expense letter issued to the contractor by the Contracting Officer, and then only in accordance with the provisions and limitations contained in such letter. The rights and obligations created by such letter shall be considered as merged into this contract.
 Article VI—Additional Clauses
 (Additional Schedule Clauses may be added such as the implementation of General Provisions or Additional Clauses.)
-12. General Provisions
-Contract With a U.S. Citizen or a U.S. Resident Alien for Personal Services Abroad
+12. General Provisions for a Contract With a U.S. Citizen or a U.S. Resident Alien for Personal Services Abroad
 The following clauses are to be used (when applicable), for both tours of duty of less than 1 year as well as 1 year or more.
 Index of Clauses
 1. Definitions
@@ -353,6 +359,9 @@ Index of Clauses
 24. Conditions for Contracting Prior to Receipt of Security Clearance
 25. Medical Evacuation (MEDEVAC) Services
 26. Governing Law
+27. [Reserved]
+28. [Reserved]
+29. Incentive Awards
 1. Definitions (June 1990)
 (a) USAID shall mean the U.S. Agency for International Development.
 (b) Administrator shall mean the Administrator or the Deputy Administrator of USAID.
@@ -450,7 +459,7 @@ If requested by the contractor and authorized in writing by the Contracting Offi
 (3) Retired U.S. Government employees shall not be paid additional contributions for health or life insurance under their contracts. The Government will normally have already paid its contribution for the retiree unless the employee can prove to the satisfaction of the Contracting Officer that his/her health and life insurance does not provide or specifically excludes coverage overseas. In such case, the contractor would be eligible for contributions under paragraphs (b) (1) or (2) as appropriate.
 (4) Proof of health and life insurance coverage shall be submitted to the Contracting Officer before any contribution is paid. On assignments of less than one year, costs for health and life insurance shall be prorated and paid accordingly.
 (5) A contractor who is a spouse of a current or retired Civil Service, Foreign Service, or Military Service member and who is covered by their spouse's Government health or life insurance policy is ineligible for the contribution under paragraphs (b)(1) or (b)(2) of this provision.
-(c) Insurance on private automobiles. If the contractor or his/her dependents transport, or cause to be transported, privately owned automobile(s) to the Cooperating Country, or any of them purchase an automobile within the Cooperating Country, the contractor agrees to ensure that all such automobile(s) during such ownership within the Cooperating Country will be covered by a current, i.e., not in arrears, insurance policy issued by a reliable company providing the following minimum coverage, or such other minimum coverage as may be set by the Mission Director, payable in U.S. dollars or its equivalent in the currency of the Cooperating Country: injury to persons, $10,000/$20,000; property damage, $5,000. The contractor further agrees to deliver, or cause to be delivered to the Mission Director, the insurance policies required by this clause or satisfactory proof of the existence thereof, before such automobile(s) operated within the Cooperating Country. The premium costs for such insurance shall not be a reimbursable cost under this contract.
+(c) Insurance on private automobiles. If the contractor or his/her dependents transport, or cause to be transported, privately owned automobile(s) to the Cooperating Country, or any of them purchase an automobile within the Cooperating Country, the contractor agrees to ensure that all such automobile(s) during such ownership within the Cooperating Country will be covered by a current, i.e., not in arrears, insurance policy issued by a reliable company providing the following minimum coverage, or such other minimum coverage as may be set by the Mission Director, payable in U.S. dollars or its equivalent in the currency of the Cooperating Country: injury to persons, $10,000/ $20,000; property damage, $5,000. The contractor further agrees to deliver, or cause to be delivered to the Mission Director, the insurance policies required by this clause or satisfactory proof of the existence thereof, before such automobile(s) operated within the Cooperating Country. The premium costs for such insurance shall not be a reimbursable cost under this contract.
 10. Travel and Transportation Expenses (July 1993)
 (a) General. (1) USAID/Washington Office of Administrative Services, or such other office as may be designated by that office, may furnish Transportation Requests (TR's) to the contractor for transportation authorized by this contract originating in the United States, and the executive or administrative officer at the Mission may furnish TR's for such authorized transportation which is payable in local currency or is to originate overseas. When transportation is not provided by the Government-issued TR, the contractor shall procure his/her own transportation, the costs of which will be reimbursed in accordance with the terms of this contract.
 (2) The contractor will be reimbursed for reasonable, allocable and allowable travel and transportation expenses incurred under and for the performance of this contract. Determination of reasonableness, allocability and allowability will be made by the Contracting Officer in accordance with USAID's established policies and procedures for USAID direct-hire employees, and the particular needs of the activity being implemented by this contract. The following paragraphs provide specific guidance and limitations on particular items of cost.
@@ -472,7 +481,7 @@ If requested by the contractor and authorized in writing by the Contracting Offi
 (l) Transportation of Motor Vehicles, Personal Effects and Household Goods. (1) Transportation costs will be paid on the same basis as for USAID direct-hire employees serving the same length tour of duty, as authorized in the schedule. Transportation, including packing and crating costs, will be paid for shipping from the point of origin in the United States (or other location as approved by the Contracting Officer) to post of duty in the Cooperating Country and return to point of origin in the United States (or other location as approved by the Contracting Officer) of one privately-owned vehicle for the contractor, personal effects of the contractor and authorized dependents, and household goods of the contractor not to exceed the limitations in effect for such shipments for USAID direct-hire employees in accordance with the Foreign Service Travel Regulations in effect at the time shipment is made. These limitations may be obtained from the Contracting Officer.
 (2) The cost of transporting motor vehicles and household goods shall not exceed the cost of packing, crating, and transportation by surface common carrier. In the event that the carrier does not require boxing or crating of motor vehicles for shipment to the Cooperating Country, the cost of boxing or crating is not reimbursable. The transportation of a privately owned motor vehicle for a contractor may be authorized as a replacement of the last such motor vehicle shipped under this contract for such contractor when the Mission Director determines, in advance, and so notifies the contractor in writing, that the replacement is necessary for reasons not due to the negligence or malfeasance of the contractor. The determination shall be made under the same rules and regulations that apply to authorized Mission U.S. citizen direct-hire employees.
 (m) Unaccompanied Baggage. Unaccompanied baggage is considered to be those personal belongings needed by the traveler immediately upon arrival of the contractor and dependents, and consideration should be given to advance shipments of unaccompanied baggage. The contractor will be reimbursed for costs of shipment of unaccompanied baggage (in addition to the weight allowance for household effects) not to exceed the limitations in effect for USAID direct-hire employees in accordance with the Foreign Service Travel Regulations as in effect when shipment is made. These limitations are available from the Contracting Officer. This unaccompanied baggage may be shipped as air freight by the most direct route between authorized points of origin and destination regardless of the modes of travel used. This provision is applicable to home leave travel when authorized by the terms of this contract.
-(n) International Ocean Transportation—(1)(i) Transportation of things. Where U.S. flag vessels are not available, or their use would result in a significant delay, the contractor may obtain a release from the requirement to use U.S. flag vessels from the Transportation Division, Office of Acquisition and Assistance, U.S. Agency for International Development, Washington, D.C. 20523-1419, or the Mission Director, as appropriate, giving the basis for the request.
+(n) International Ocean Transportation —(1)(i) Transportation of things. Where U.S. flag vessels are not available, or their use would result in a significant delay, the contractor may obtain a release from the requirement to use U.S. flag vessels from the Transportation Division, Office of Acquisition and Assistance, U.S. Agency for International Development, Washington, D.C. 20523-1419, or the Mission Director, as appropriate, giving the basis for the request.
 (ii) Transportation of persons. Where U.S. flag vessels are not available, or their use would result in a significant delay, the contractor may obtain a release from the requirement to use U.S. flag vessels from the Contracting Officer or the Mission Director, as appropriate.
 (2) Transportation of foreign-made vehicles. Reimbursement of the costs of transporting a foreign-made motor vehicle will be made in accordance with the provisions of the Foreign Service Travel Regulations.
 (3) Reduced rates on U.S.-flag carriers are in effect for shipments of household goods and personal effects of USAID contractors between certain locations. These reduced rates are available provided the shipper furnishes to the carrier at the time of the issuance of the Bill of Lading documentary evidence that the shipment is for the account of USAID. The Contracting Officer will, on request, furnish to the contractor current information concerning the availability of a reduced rate with respect to any proposed shipment. The contractor will not be reimbursed for shipments of household goods or personal effects in amounts in excess of the reduced rates which are available in accordance with the foregoing.
@@ -564,6 +573,11 @@ USAID will reimburse the total cost of MEDEVAC insurance to the PSC. The PSC mus
 (2) The Mission Director at the post of assignment may make a written determination to waive the requirement for such coverage. The determination must be based on findings that the quality of local medical services or other circumstances obviate the need for such coverage for PSCs and their dependents located at post.
 26. Governing Law (NOV 1996)
 This contract is established under the procurement authorities of the United States Government and shall be interpreted in accordance with the body of Federal Procurement Law in the United States. This contract is a complete statement of the duties, compensation, benefits, leave, notice, termination, and the like; therefore, the laws of the country of performance with respect to labor and contract matters shall not apply to either the carrying out of the obligations of the parties or to the interpretation of this agreement.
+27-28 [Reserved]
+29. Incentive Awards
+[Insert the following clause in all USPSC contracts.]
+Incentive Awards (DEC 2019)
+The contractor is eligible to receive certain monetary and non-monetary USAID incentive awards in accordance with the AIDAR and USAID internal policy.
 13. FAR Clauses to be Incorporated in Full Text in Personal Services Contracts.
 The following FAR Clauses are always to be used along with the General Provisions. They are required in full text.
 1. Covenant Against Contingent Fees 52.203-5
@@ -586,3 +600,4 @@ The following FAR Clauses are to be used along with the General Provisions, and 
 12. Notice of Intent to Disallow Costs 52.242-1
 13. Inspection 52.246-5
 14. Limitation of Liability—Services 52.246-25
+(Sec. 621, Pub. L. 87-195, 75 Stat. 445, (22 U.S.C. 2381) as amended; E.O. 12163, Sept. 29, 1979, 44 FR 56673; 3 CFR, 1979 Comp., p. 435)
