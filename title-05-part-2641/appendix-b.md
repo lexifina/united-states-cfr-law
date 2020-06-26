@@ -3,6 +3,7 @@ Pursuant to the provisions of 18 U.S.C. 207(h), each of the following agencies i
 Parent: Department of Commerce
 Components:
 Bureau of the Census.
+Bureau of Economic Analysis (effective June 26, 2020).
 Bureau of Industry and Security (formerly Bureau of Export Administration) (effective January 28, 1992).
 Economic Development Administration.
 International Trade Administration.
@@ -85,6 +86,7 @@ Office of Federal Contract Compliance Programs (effective December 29, 2016).
 Office of Labor Management Standards (effective December 29, 2016).
 Office of Workers' Compensation Programs (effective December 29, 2016).
 Pension Benefit Guaranty Corporation (effective May 25, 2011).
+Veterans' Employment and Training Service (effective June 26, 2020).
 Wage and Hour Division (effective December 29, 2016).
 Parent: Department of State
 Component:
@@ -106,6 +108,6 @@ Alcohol and Tobacco Tax and Trade Bureau (effective November 23, 2004).
 Bureau of Engraving and Printing.
 Bureau of the Fiscal Service (effective December 4, 2014).
 Comptroller of the Currency.
-Financial Crimes Enforcement Center (FinCEN) (effective January 30, 2003).
+Financial Crimes Enforcement Network (FinCEN) (effective January 30, 2003).
 Internal Revenue Service.
 United States Mint (formerly listed as Bureau of the Mint).
