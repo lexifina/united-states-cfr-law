@@ -109,7 +109,7 @@ San Juan
 San Miguel
 Utah:
 Kane
-San Juan (Does not include the Canyonlands National Park portion.)
+San Juan (Does not include the Canyonlands National Park portion)
 Phoenix
 Survey Area
 Arizona:
@@ -132,7 +132,6 @@ Santa Cruz
 Arkansas
 Little Rock
 Survey Area
-Arkansas:
 Jefferson
 Pulaski
 Saline
@@ -154,7 +153,7 @@ Dallas
 Desha
 Drew
 Faulkner
-Franklin
+Franklin (Does not include the Fort Chaffee portion)
 Fulton
 Garland
 Grant
@@ -430,6 +429,7 @@ Clarke
 Culpeper
 Fauquier
 King George
+Madison
 Rappahannock
 Spotsylvania
 Stafford
@@ -764,8 +764,8 @@ Honolulu
 Area of Application. Survey area plus:
 Hawaii:
 Hawaii
-Kauai (Kauai county includes the islands of Kauai and Niihau.)
-Maui (Maui county includes the islands of Maui, Molokai, Lanai and Kohoolawe.)
+Kauai (Kauai county includes the islands of Kauai and Niihau)
+Maui (Maui county includes the islands of Maui, Molokai, Lanai and Kohoolawe)
 Idaho
 Boise
 Survey Area
@@ -1383,8 +1383,9 @@ Washington
 Maryland
 Baltimore
 Survey Area
-Maryland:
-Baltimore City
+Maryland (city):
+Baltimore
+Maryland (counties)
 Anne Arundel
 Baltimore
 Carroll
@@ -1412,7 +1413,6 @@ Harrisonburg
 Winchester
 Virginia (counties):
 Frederick
-Madison
 Page
 Rockingham
 Shenandoah
@@ -1694,6 +1694,7 @@ Washtenaw
 Ohio:
 Fulton
 Lucas
+Ottawa
 Wood
 Northwestern Michigan
 Survey Area
@@ -1703,39 +1704,39 @@ Dickinson
 Marquette
 Area of Application. Survey area plus:
 Michigan:
-Alcona (Effective date January 1, 1994.)
+Alcona
 Alger
-Alpena (Effective date January 1, 1994.)
-Antrim (Effective date January 1, 1994.)
+Alpena
+Antrim
 Baraga
-Benzie (Effective date January 1, 1994.)
-Charlevoix (Effective date January 1, 1994.)
-Cheboygan (Effective date January 1, 1994.)
+Benzie
+Charlevoix
+Cheboygan
 Chippewa
-Crawford (Effective date January 1, 1994.)
-Emmet (Effective date January 1, 1994.)
+Crawford
+Emmet
 Gogebic
-Grand Traverse (Effective date January 1, 1994.)
+Grand Traverse
 Houghton
-Iosco (Effective date January 1, 1994.)
+Iosco
 Iron
-Kalkaska (Effective date January 1, 1994.)
+Kalkaska
 Keweenaw
-Leelanau (Effective date January 1, 1994.)
+Leelanau
 Luce
 Mackinac
-Manistee (Effective date January 1, 1994.)
+Manistee
 Menominee
-Missaukee (Effective date January 1, 1994.)
-Montmorency (Effective date January 1, 1994.)
-Ogemaw (Effective date January 1, 1994.)
+Missaukee
+Montmorency
+Ogemaw
 Ontonagon
-Oscoda (Effective date January 1, 1994.)
-Otsego (Effective date January 1, 1994.)
-Presque Isle (Effective date January 1, 1994.)
-Roscommon (Effective date January 1, 1994.)
+Oscoda
+Otsego
+Presque Isle
+Roscommon
 Schoolcraft
-Wexford (Effective date January 1, 1994.)
+Wexford
 Southwestern Michigan
 Survey Area
 Michigan:
@@ -1867,7 +1868,7 @@ Area of Application. Survey area plus:
 Mississippi:
 George
 Pearl River
-Stone (Effective as of November 1, 1997.)
+Stone
 Jackson
 Survey Area
 Mississippi:
@@ -1876,17 +1877,16 @@ Rankin
 Warren
 Area of Application. Survey area plus:
 Mississippi:
-Adams (Effective as of February 1, 1997.)
+Adams
 Amite
 Attala
-Claiborne (Effective as of February 1, 1997.)
+Claiborne
 Copiah
-Covington
 Franklin
 Holmes
 Humphreys
 Issaquena
-Jefferson (Effective as of February 1, 1997.)
+Jefferson
 Jefferson Davis
 Lawrence
 Lincoln
@@ -1902,15 +1902,18 @@ Wilkinson
 Yazoo
 Meridian
 Survey Area
-Mississippi:
-Forest
-Lamar (Effective as of February 1, 1997.)
-Lauderdale
 Alabama:
 Choctaw
+Mississippi:
+Forest
+Lamar
+Lauderdale
 Area of Application. Survey area plus:
+Alabama:
+Sumter
 Mississippi:
 Clarke
+Covington
 Greene
 Jasper
 Jones
@@ -1920,8 +1923,6 @@ Neshoba
 Newton
 Perry
 Wayne
-Alabama:
-Sumter
 Northern Mississippi
 Survey Area
 Mississippi:
@@ -1945,7 +1946,7 @@ Itawamba
 Lafayette (Does not include the Holly Springs National Forest portion)
 Montgomery
 Noxubee
-Pontotoc (Does not include the Holly Springs National Forest portion)
+Pontotoc (Does not include the Holly Spring National Forest portion)
 Prentiss
 Quitman
 Sunflower
@@ -2783,7 +2784,6 @@ Erie
 Huron
 Lorain
 Mahoning
-Ottawa
 Portage
 Sandusky
 Seneca
@@ -2845,7 +2845,7 @@ Survey Area
 Oklahoma:
 Canadian
 Cleveland
-McCain
+McClain
 Oklahoma
 Pottawatomie
 Area of Application. Survey area plus:
@@ -2895,6 +2895,16 @@ Rogers
 Tulsa
 Wagoner
 Area of Application. Survey area plus:
+Arkansas:
+Benton
+Carroll
+Crawford
+Franklin (Only includes the Fort Chaffee portion)
+Madison
+Sebastian
+Washington
+Missouri:
+McDonald
 Oklahoma:
 Adair
 Cherokee
@@ -2915,15 +2925,6 @@ Pawnee
 Pushmataha
 Sequoyah
 Washington
-Arkansas:
-Benton
-Carroll
-Crawford
-Madison
-Sebastian
-Washington
-Missouri:
-McDonald
 Oregon
 Portland
 Survey Area
@@ -3198,7 +3199,7 @@ Charleston
 Dorchester
 Area of Application. Survey area plus:
 South Carolina:
-Beaufort (The portion north of Broad River.)
+Beaufort (The portion north of Broad River)
 Colleton
 Georgetown
 Williamsburg
@@ -4003,7 +4004,7 @@ Pierce
 Snohomish
 Area of Application. Survey area plus:
 Washington:
-Chelan (North Cascades Park section only.)
+Chelan (North Cascades Park section only)
 Clallam
 Grays Harbor
 Island
@@ -4144,7 +4145,7 @@ Magoffin
 Martin
 Pike
 Virginia (city):
-Norton (Effective as of April 17, 1996.)
+Norton (Effective as of April 17, 1996)
 Virginia (counties):
 Dickenson
 Wise
