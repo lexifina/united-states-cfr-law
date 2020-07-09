@@ -15,7 +15,7 @@
 (i) To create latitude and longitude pairs on an ellipsoidal Earth model, an applicant shall use the following equations to calculate geodetic latitude (+N) and longitude (+E) given the launch point geodetic latitude (+N), longitude (+E), range (nm), and bearing (degrees, positive clockwise from North).
 (A) Input. An applicant shall use the following input in making range and bearing computations. Angle units must be in radians.
 ER19OC00.007
-(B) Computations. An applicant shall use the following equations to determine the latitude (φ2) and longitude (λ2) of a target point situated "S" nm from the launch point on an azimuth bearing (α12) degrees.
+(B) Computations. An applicant shall use the following equations to determine the latitude (φ 2) and longitude (λ 2) of a target point situated "S" nm from the launch point on an azimuth bearing (α 12) degrees.
 ER19OC00.008
 where:
 a = WGS-84 semi-major axis (3443.91846652 nmi)
@@ -41,10 +41,10 @@ ER19OC00.026
 ER19OC00.027
 ER19OC00.028
 ER19OC00.029
-(ii) To create latitude and longitude pairs on an ellipsoidal Earth model, an applicant shall use the following equations to calculate the distance (S) of the geodesic between two points (P1 and P2), the forward azimuth (α12) of the geodesic at P1, and the back azimuth (α21) of the geodesic at P2, given the geodetic latitude (+N), longitude (+E) of P1 and P2. Azimuth is measured positively clockwise from North.
+(ii) To create latitude and longitude pairs on an ellipsoidal Earth model, an applicant shall use the following equations to calculate the distance (S) of the geodesic between two points (P 1 and P 2), the forward azimuth (α 12) of the geodesic at P 1, and the back azimuth (α 21) of the geodesic at P 2, given the geodetic latitude (+N), longitude (+E) of P 1 and P 2. Azimuth is measured positively clockwise from North.
 (A) Input. An applicant shall use the following input. Units must be in radians.
 ER19OC00.030
-(B) Computations. An applicant shall use the following equations to determine the distance (S), the forward azimuth (α12) of the geodesic at P1, and the back azimuth (α12) of the geodesic at P2.
+(B) Computations. An applicant shall use the following equations to determine the distance (S), the forward azimuth (α 12) of the geodesic at P 1, and the back azimuth (α 12) of the geodesic at P 2.
 ER19OC00.031
 where:
 a = WGS-84 semi-major axis (3443.91846652 nmi)
@@ -61,24 +61,27 @@ ER19OC00.040
 ER19OC00.041
 ER19OC00.042
 ER19OC00.043
-ER19OC00.200
+ER19OC00.044
+ER19OC00.045
+ER19OC00.046
+ER19OC00.047
 (c) Creation of a Flight Corridor
 (1) To define a flight corridor, an applicant shall:
 (i) Select a guided suborbital or orbital launch vehicle, and, for an orbital launch vehicle, select from table 1 of § 420.19 a launch vehicle weight class that best represents the launch vehicle the applicant plans to support at its launch point;
-(ii) Select a debris dispersion radius (Dmax) from table A-1 corresponding to the guided suborbital launch vehicle or orbital launch vehicle class selected in paragraph (c)(1)(i);
+(ii) Select a debris dispersion radius (D max) from table A-1 corresponding to the guided suborbital launch vehicle or orbital launch vehicle class selected in paragraph (c)(1)(i);
 (iii) Select a launch point geodetic latitude and longitude; and
 (iv) Select a flight azimuth.
 (2) An applicant shall define and map an overflight exclusion zone using the following method:
-(i) Select a debris dispersion radius (Dmax) from table A-1 and a downrange distance (DOEZ) from table A-2 to define an overflight exclusion zone for the guided suborbital launch vehicle or orbital launch vehicle class selected in paragraph (c)(1)(i).
+(i) Select a debris dispersion radius (D max) from table A-1 and a downrange distance (D OEZ) from table A-2 to define an overflight exclusion zone for the guided suborbital launch vehicle or orbital launch vehicle class selected in paragraph (c)(1)(i).
 (ii) An overflight exclusion zone is described by the intersection of the following boundaries, which are depicted in figure A-1:
-(A) An applicant shall define an uprange boundary with a half-circle arc of radius Dmax and a chord of length twice Dmax connecting the half-circle arc endpoints. The uprange boundary placement on a map has the chord midpoint positioned on the launch point with the chord oriented along an azimuth ±90°from the launch azimuth and the half-circle arc located uprange from the launch point.
-(B) An applicant shall define the downrange boundary with a half-circle arc of radius Dmax and a chord of length twice Dmax connecting the half-circle arc endpoints. The downrange boundary placement on a map has the chord midpoint intersecting the nominal flight azimuth line at a distance DOEZ inches downrange with the chord oriented along an azimuth ±90°from the launch azimuth and the half-circle arc located downrange from the intersection of the chord and the flight azimuth line.
+(A) An applicant shall define an uprange boundary with a half-circle arc of radius D max and a chord of length twice D max connecting the half-circle arc endpoints. The uprange boundary placement on a map has the chord midpoint positioned on the launch point with the chord oriented along an azimuth ±90°from the launch azimuth and the half-circle arc located uprange from the launch point.
+(B) An applicant shall define the downrange boundary with a half-circle arc of radius D max and a chord of length twice D max connecting the half-circle arc endpoints. The downrange boundary placement on a map has the chord midpoint intersecting the nominal flight azimuth line at a distance D OEZ inches downrange with the chord oriented along an azimuth ±90°from the launch azimuth and the half-circle arc located downrange from the intersection of the chord and the flight azimuth line.
 (C) Crossrange boundaries of an overflight exclusion zone are defined by two lines segments. Each is parallel to the flight azimuth with one to the left side and one to the right side of the flight azimuth line. Each line connects an uprange half-circle arc endpoint to a downrange half-circle arc endpoint as shown in figure A-1.
 (iii) An applicant shall identify the overflight exclusion zone on a map that meets the requirements of paragraph (b).
 (3) An applicant shall define and map a flight corridor using the following method:
-(i) In accordance with paragraph (b), an applicant shall draw a flight corridor on one or more maps with the Dmax origin centered on the intended launch point and the flight corridor centerline (in the downrange direction) aligned with the initial flight azimuth. The flight corridor is depicted in figure A-2 and its line segment lengths are tabulated in table A-3.
+(i) In accordance with paragraph (b), an applicant shall draw a flight corridor on one or more maps with the D max origin centered on the intended launch point and the flight corridor centerline (in the downrange direction) aligned with the initial flight azimuth. The flight corridor is depicted in figure A-2 and its line segment lengths are tabulated in table A-3.
 (ii) An applicant shall define the flight corridor using the following boundary definitions:
-(A) An applicant shall draw an uprange boundary, which is defined by an arc-line GB (figure A-2), directly uprange from and centered on the intended launch point with radius Dmax.
+(A) An applicant shall draw an uprange boundary, which is defined by an arc-line GB (figure A-2), directly uprange from and centered on the intended launch point with radius D max.
 (B) An applicant shall draw line CF perpendicular to and centered on the flight azimuth line, and positioned 10 nm downrange from the launch point. The applicant shall use the length of line CF provided in table A-3 corresponding to the guided suborbital launch vehicle or orbital launch vehicle class selected in paragraph (c)(1)(i).
 (C) An applicant shall draw line DE perpendicular to and centered on the flight azimuth line, and positioned 100 nm downrange from the launch point. The applicant shall use the length of line DE provided in table A-3 corresponding to the guided suborbital launch vehicle or orbital launch vehicle class selected in paragraph (c)(1)(i).
 (D) Except for a guided suborbital launch vehicle, an applicant shall draw a downrange boundary, which is defined by line HI and is drawn perpendicular to and centered on the flight azimuth line, and positioned 5,000 nm downrange from the launch point. The applicant shall use the length of line HI provided in table A-3 corresponding to the orbital launch vehicle class selected in paragraph (c)(1)(i).
@@ -90,25 +93,25 @@ ER19OC00.200
 (F) An applicant shall repeat the procedure in paragraph (c)(3)(ii)(E) for the right side boundary.
 (iii) An applicant shall identify the flight corridor on a map that meets the requirements of paragraph (b).
 (4) For a guided suborbital launch vehicle, an applicant shall define a final stage impact dispersion area as part of the flight corridor and show the impact dispersion area on a map, as depicted in figure A-4, in accordance with the following:
-(i) An applicant shall select an apogee altitude (Hap) for the launch vehicle final stage. The apogee altitude should equal the highest altitude intended to be reached by a guided suborbital launch vehicle launched from the launch point.
-(ii) An applicant shall define the impact dispersion area by using an impact range factor [IP(Hap)] and a dispersion factor [DISP(Hap)] as shown below:
-(A) An applicant shall calculate the impact range (D) for the final launch vehicle stage. An applicant shall set D equal to the maximum apogee altitude (Hap) multiplied by the impact range factor as shown below:
+(i) An applicant shall select an apogee altitude (H ap) for the launch vehicle final stage. The apogee altitude should equal the highest altitude intended to be reached by a guided suborbital launch vehicle launched from the launch point.
+(ii) An applicant shall define the impact dispersion area by using an impact range factor [IP(H ap)] and a dispersion factor [DISP(H ap)] as shown below:
+(A) An applicant shall calculate the impact range (D) for the final launch vehicle stage. An applicant shall set D equal to the maximum apogee altitude (H ap) multiplied by the impact range factor as shown below:
 ER19OC00.048
-where: IP(Hap) = 0.4 for an apogee less than 100 km; and IP(Hap) = 0.7 for an apogee 100 km or greater.
-(B) An applicant shall calculate the impact dispersion radius (R) for the final launch vehicle stage. An applicant shall set R equal to the maximum apogee altitude (Hap) multiplied by the dispersion factor as shown below:
+where: IP(H ap) = 0.4 for an apogee less than 100 km; and IP(H ap) = 0.7 for an apogee 100 km or greater.
+(B) An applicant shall calculate the impact dispersion radius (R) for the final launch vehicle stage. An applicant shall set R equal to the maximum apogee altitude (H ap) multiplied by the dispersion factor as shown below:
 ER19OC00.049
-where: DISP(Hap) = 0.05
+where: DISP(H ap) = 0.05
 (iii) An applicant shall draw the impact dispersion area on a map with its center on the predicted impact point. An applicant shall then draw line DH in accordance with paragraph (c)(3)(ii)(E)(4).
 (d) Evaluate the Flight Corridor
 (1) An applicant shall evaluate the flight corridor for the presence of any populated areas. If an applicant determines that no populated area is located within the flight corridor, then no additional steps are necessary.
 (2) If a populated area is located in an overflight exclusion zone, an applicant may modify its proposal or demonstrate that there are times when no people are present or that the applicant has an agreement in place to evacuate the public from the overflight exclusion zone during a launch.
 (3) If a populated area is located within the flight corridor, an applicant may modify its proposal and create another flight corridor pursuant to appendix A, use appendix B to narrow the flight corridor, or complete a risk analysis in accordance with appendix C.
-Table A-1—Debris Dispersion Radius (Dmax) (in)
+Table A-1—Debris Dispersion Radius (D max) (in)
 Orbital launch vehicles | Small | Medium | Medium large | Large | Suborbital launch vehicles | Guided
-87,600(1.20 nm) | 111,600(1.53 nm) | 127,200(1.74 nm) | 156,000(2.14 nm) | 96,000(1.32 nm)
-Table A-2—Overflight Exclusion Zone Downrange Distance (Doez) (in)
+87,600 (1.20 nm) | 111,600 (1.53 nm) | 127,200 (1.74 nm) | 156,000 (2.14 nm) | 96,000 (1.32 nm)
+Table A-2—Overflight Exclusion Zone Downrange Distance (D oez) (in)
 Orbital launch vehicles | Small | Medium | Medium large | Large | Suborbital launch vehicles | Guided
-240,500(3.30 nm) | 253,000(3.47 nm) | 310,300(4.26 nm) | 937,700(12.86 nm) | 232,100(3.18 nm)
+240,500 (3.30 nm) | 253,000 (3.47 nm) | 310,300 (4.26 nm) | 937,700 (12.86 nm) | 232,100 (3.18 nm)
 ER19OC00.050
 ER19OC00.051
 ER19OC00.052
