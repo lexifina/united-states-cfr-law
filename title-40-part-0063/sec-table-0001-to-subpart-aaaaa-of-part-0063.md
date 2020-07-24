@@ -1,5 +1,5 @@
 # Table 1 to Subpart AAAAA of Part 63—Emission Limits
-As required in § 63.7090(a), you must meet each emission limit in the following table that applies to you.
+As required in § 63.7090(a), you must meet each emission limit in the following table that applies to you, except for kilns and coolers during startup and shutdown (See Table 2 for emission limits for kilns and coolers during startup and shutdown).
 For... | You must meet the following emission limit
 1. Existing lime kilns and their associated lime coolers that did not have a wet scrubber installed and operating prior to January 5, 2004 | PM emissions must not exceed 0.12 pounds per ton of stone feed (lb/tsf).
 2. Existing lime kilns and their associated lime coolers that have a wet scrubber, where the scrubber itself was installed and operating prior to January 5, 2004 | PM emissions must not exceed 0.60 lb/tsf. If at any time after January 5, 2004 the kiln changes to a dry control system, then the PM emission limit in item 1 of this Table 1 applies, and the kiln is hereafter ineligible for the PM emission limit in item 2 of this Table 1 regardless of the method of PM control.
