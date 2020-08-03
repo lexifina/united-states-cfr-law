@@ -123,7 +123,7 @@ Meals
 • You can not generally use appropriated funds to pay for meals for employees at their official stations.
 • Employees on TDY travel may be served meals but cannot be reimbursed for those provided at Government expense.
 • You should clarify in advance the appropriate per diem reduction(s) of meal(s) allowance(s) for TDY travel.
-• You may pay, or reimburse an employee for meals as necessary expenses incident to an authorized training program (under the Government Employees Training Act (GETA) at 5 U.S.C. 4104(4)), if a determination has been made that essential training will be conducted during the meal.
+• You may pay, or reimburse an employee for meals as necessary expenses incident to an authorized training program (under the Government Employees Training Act (GETA) at 5 U.S.C. 4109), if a determination has been made that essential training will be conducted during the meal.
 • Work closely with the hotel to plan quality menus that fit within authorized per diem rates.
 • Clarify and agree in advance to the number of meal guarantees.
 • Ensure that gratuities and service charges are added to the cost of each meal, and determine the method of billing to be used (e.g., signed guarantee, collected meal tickets, or actual quantities consumed).
