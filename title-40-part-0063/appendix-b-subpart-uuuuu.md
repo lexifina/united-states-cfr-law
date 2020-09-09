@@ -4,7 +4,8 @@ These monitoring provisions apply to the measurement of HCl and/or HF emissions 
 2. Monitoring of HCl and/or HF Emissions
 2.1 Monitoring System Installation Requirements. Install HCl and/or HF CEMS and any additional monitoring systems needed to convert pollutant concentrations to units of the applicable emissions limit in accordance with § 63.10010(a) and either Performance Specification 15 (PS 15) of appendix B to part 60 of this chapter for extractive Fourier Transform Infrared Spectroscopy (FTIR) continuous emissions monitoring systems or Performance Specification 18 (PS 18) of appendix B to part 60 of this chapter for HCl CEMS.
 2.2 Primary and Backup Monitoring Systems. The provisions pertaining to primary and redundant backup monitoring systems in section 2.2 of appendix A to this subpart apply to HCl and HF CEMS and any additional monitoring systems needed to convert pollutant concentrations to units of the applicable emissions limit.
-2.3 FTIR Monitoring System Equipment, Supplies, Definitions, and General Operation. The following provisions apply:
+2.3 Monitoring System Equipment, Supplies, Definitions, and General Operation.
+The following provisions apply:
 2.3.1 PS 15, Sections 2.0, 3.0, 4.0, 5.0, 6.0, and 10.0 of appendix B to part 60 of this chapter; or
 2.3.2 PS 18, Sections 3.0, 6.0, and 11.0 of appendix B to part 60 of this chapter.
 3. Initial Certification Procedures
@@ -73,9 +74,9 @@ The owner or operator shall develop and implement a quality assurance/quality co
 9.1 Design and operate the HCl and/or HF CEMS to complete a minimum of one cycle of operation (sampling, analyzing, and data recording) for each successive 15-minute period.
 9.2 Reduce the HCl and/or HF concentration data to hourly averages in accordance with § 60.13(h)(2) of this chapter.
 9.3 Convert each hourly average HCl or HF concentration to an HCl or HF emission rate expressed in units of the applicable emissions limit.
-9.3.1 For heat input-based emission rates, select an appropriate emission rate equation from among Equations 19-1 through 19-9 in EPA Method 19 in Appendix A-7 to part 60 of this chapter, to calculate the HCl or HF emission rate in lb/MMBtu. Multiply the HCl concentration value (ppm) by 9.43 × 10−8 to convert it to lb/scf, for use in the applicable Method 19 equation. For HF, the conversion constant from ppm to lb/scf is 5.18 × 10−8. The appropriate diluent cap value from section 6.2.1.2 of Appendix A to this subpart may be used to calculate the HCl or HF emission rate (lb/MMBtu) during startup or shutdown hours.
-9.3.2 For gross output-based emission rates, first calculate the HCl or HF mass emission rate (lb/h), using an equation that has the general form of Equation A-2 or A-3 in appendix A to this subpart (as applicable), replacing the value of K with 9.43 × 10−8 lb/scf-ppm (for HCl) or 5.18 × 10−8 (for HF) and defining Ch as the hourly average HCl or HF concentration in ppm. Then, divide the result by the hourly gross output (megawatts) to convert it to units of lb/MWh. If the gross output is zero during a startup or shutdown hour, use the default gross output (as defined in § 63.10042) to calculate the HCl or HF emission rate. The default gross output is not considered to be a substitute data value.
-9.4 Use Equation A-5 in appendix A of this subpart to calculate the required 30 operating day rolling average HCl or HF emission rates. Round off each 30 operating day average to two significant figures. The term Eho in Equation A-5 must be in the units of the applicable emissions limit.
+9.3.1 For heat input-based emission rates, select an appropriate emission rate equation from among Equations 19-1 through 19-9 in EPA Method 19 in Appendix A-7 to part 60 of this chapter, to calculate the HCl or HF emission rate in lb/MMBtu. Multiply the HCl concentration value (ppm) by 9.43 × 10 −8 to convert it to lb/scf, for use in the applicable Method 19 equation. For HF, the conversion constant from ppm to lb/scf is 5.18 × 10 −8. The appropriate diluent cap value from section 6.2.1.2 of Appendix A to this subpart may be used to calculate the HCl or HF emission rate (lb/MMBtu) during startup or shutdown hours.
+9.3.2 For gross output-based emission rates, first calculate the HCl or HF mass emission rate (lb/h), using an equation that has the general form of Equation A-2 or A-3 in appendix A to this subpart (as applicable), replacing the value of K with 9.43 × 10 −8 lb/scf-ppm (for HCl) or 5.18 × 10 −8 (for HF) and defining C h as the hourly average HCl or HF concentration in ppm. Then, divide the result by the hourly gross output (megawatts) to convert it to units of lb/MWh. If the gross output is zero during a startup or shutdown hour, use the default gross output (as defined in § 63.10042) to calculate the HCl or HF emission rate. The default gross output is not considered to be a substitute data value.
+9.4 Use Equation A-5 in appendix A of this subpart to calculate the required 30-boiler operating day rolling average HCl or HF emission rates. Report each 30-boiler operating day rolling average to the same precision as the standard (i.e., with one leading non-zero digit and one decimal place), expressed in scientific notation. The term E ho in Equation A-5 must be in the units of the applicable emissions limit.
 10. Recordkeeping Requirements
 10.1 For each HCl or HF CEMS installed at an affected source, and for any other monitoring system(s) needed to convert pollutant concentrations to units of the applicable emissions limit, the owner or operator must maintain a file of all measurements, data, reports, and other information required by this appendix in a form suitable for inspection, for 5 years from the date of each record, in accordance with § 63.10033. The file shall contain the information in paragraphs 10.1.1 through 10.1.8 of this section.
 10.1.1 Monitoring Plan Records. For each affected unit or group of units monitored at a common stack, the owner or operator shall prepare and maintain a monitoring plan for the HCl and/or HF CEMS and any other monitoring system(s) (i.e, flow rate, diluent gas, or moisture systems) needed to convert pollutant concentrations to units of the applicable emission standard. The monitoring plan shall contain essential information on the continuous monitoring systems and shall explain how the data derived from these systems ensure that all HCl or HF emissions from the unit or stack are monitored and reported.
@@ -92,7 +93,7 @@ The owner or operator shall develop and implement a quality assurance/quality co
 10.1.3 HCl and/or HF Emissions Records. For HCl and/or HF CEMS, the owner or operator must record the following information for each unit or stack operating hour:
 10.1.3.1 The date and hour;
 10.1.3.2 Monitoring system and component identification codes, as provided in the electronic monitoring plan, for each hour in which the CEMS provides a quality-assured value of HCl or HF concentration (as applicable);
-10.1.3.3 The pollutant concentration, for each hour in which a quality-assured value is obtained. For HCl and HF, record the data in parts per million (ppm), rounded to three significant figures.
+10.1.3.3 The pollutant concentration, for each hour in which a quality-assured value is obtained. For HCl and HF, record the data in parts per million (ppm), with one leading non-zero digit and one decimal place, expressed in scientific notation. Use the following rounding convention: If the digit immediately following the first decimal place is 5 or greater, round the first decimal place upward (increase it by one); if the digit immediately following the first decimal place is 4 or less, leave the first decimal place unchanged.
 10.1.3.4 A special code, indicating whether or not a quality-assured HCl or HF concentration value is obtained for the hour. This code may be entered manually when a temporary like-kind replacement HCl or HF analyzer is used for reporting; and
 10.1.3.5 Monitor data availability, as a percentage of unit or stack operating hours, calculated according to § 75.32 of this chapter.
 10.1.4 Stack Gas Volumetric Flow Rate Records.
@@ -104,20 +105,29 @@ The owner or operator shall develop and implement a quality assurance/quality co
 10.1.5.1.2 To calculate heat input-based pollutant emission rates, when using certain equations from EPA Method 19 in appendix A-7 to part 60 of this chapter.
 10.1.5.2 If hourly moisture corrections are required, either use a fuel-specific default moisture percentage for coal-fired units from § 75.11(b)(1) of this chapter, an Administrator approved default moisture value for non-coal-fired units (as per paragraph 63.10010(d) of this subpart), or a certified moisture monitoring system that meets the requirements of part 75 of this chapter, to record the required data. If you elect to use a moisture monitoring system, you must keep hourly records of the stack gas moisture content, as specified in § 75.57(c)(3) of this chapter.
 10.1.6 Records of Diluent Gas (CO 2 or O 2) Concentration.
-10.1.6.1 To assess compliance with a heat input-based HCl or HF emission rate limit in units of lb/MMBtu, hourly measurements of CO2 or O2 concentration are required to convert pollutant concentrations to units of the standard.
-10.1.6.2 If hourly measurements of diluent gas concentration are needed, you must use a certified CO2 or O2 monitor that meets the requirements of part 75 of this chapter to record the required data. For all diluent gas monitors, you must keep hourly CO2 or O2 concentration records, as specified in § 75.57(g) of this chapter.
+10.1.6.1 To assess compliance with a heat input-based HCl or HF emission rate limit in units of lb/MMBtu, hourly measurements of CO 2 or O 2 concentration are required to convert pollutant concentrations to units of the standard.
+10.1.6.2 If hourly measurements of diluent gas concentration are needed, you must use a certified CO 2 or O 2 monitor that meets the requirements of part 75 of this chapter to record the required data. For all diluent gas monitors, you must keep hourly CO 2 or O 2 concentration records, as specified in § 75.57(g) of this chapter.
 10.1.7 HCl and HF Emission Rate Records. For applicable HCl and HF emission limits in units of lb/MMBtu, lb/MWh, or lb/GWh, record the following information for each affected unit or common stack:
 10.1.7.1 The date and hour;
-10.1.7.2 The hourly HCl and/or HF emissions rate (lb/MMBtu, lb/MWh, or lb/GWh, as applicable, rounded to three significant figures), for each hour in which valid values of HCl or HF concentration and all other required parameters (stack gas volumetric flow rate, diluent gas concentration, electrical load, and moisture data, as applicable) are obtained for the hour;
+10.1.7.2 The hourly HCl and/or HF emissions rate (lb/MMBtu, or lb/MWh, as applicable), for each hour in which valid values of HCl or HF concentration and all other required parameters (stack gas volumetric flow rate, diluent gas concentration, electrical load, and moisture data, as applicable) are obtained for the hour. Round off the emission rate to the same precision as the standard (i.e., with one leading non-zero digit and one decimal place, expressed in scientific notation). Use the following rounding convention: If the digit immediately following the first decimal place is 5 or greater, round the first decimal place upward (increase it by one); if the digit immediately following the first decimal place is 4 or less, leave the first decimal place unchanged;
 10.1.7.3 An identification code for the formula used to derive the hourly HCl or HF emission rate from HCl or HF concentration, flow rate, electrical load, diluent gas concentration, and moisture data (as applicable); and
 10.1.7.4 A code indicating that the HCl or HF emission rate was not calculated for the hour, if valid data for HCl or HF concentration and/or any of the other necessary parameters are not obtained for the hour. For the purposes of this appendix, the substitute data values required under part 75 of this chapter for diluent gas concentration, stack gas flow rate and moisture content are not considered to be valid data.
 10.1.7.5 If applicable, a code to indicate that the default electrical load (as defined in § 63.10042) was used to calculate the HCl or HF emission rate.
 10.1.7.6 If applicable, a code to indicate that the diluent cap (as defined in § 63.10042) was used to calculate the HCl or HF emission rate.
 10.1.8 Certification and Quality Assurance Test Records. For the HCl and/or HF CEMS used to provide data under this subpart at each affected unit (or group of units monitored at a common stack), record the following information for all required certification, recertification, diagnostic, and quality-assurance tests:
 10.1.8.1 HCl and HF CEMS.
-10.1.8.1.1 For all required daily calibrations (including calibration transfer standard tests) of the HCl or HF CEMS, record the test dates and times, reference values, monitor responses, and calculated calibration error values;
-10.1.8.1.2 For gas audits of HCl or HF CEMS, record the date and time of each spiked and unspiked sample, the audit gas reference values and uncertainties. Keep records of all calculations and data analyses required under sections 9.1 and 12.1 of Performance Specification 15, and the results of those calculations and analyses.
-10.1.8.1.3 For each RATA of a HCl or HF CEMS, record the date and time of each test run, the reference method(s) used, and the reference method and HCl or HF CEMS values. Keep records of the data analyses and calculations used to determine the relative accuracy.
+10.1.8.1.1 For each required 7-day and daily calibration drift test or daily calibration error test (including daily calibration transfer standard tests) of the HCl or HF CEMS, record the test date(s) and time(s), reference gas value(s), monitor response(s), and calculated calibration drift or calibration error value(s). If you use the dynamic spiking option for the mid-level calibration drift check under PS-18, you must also record the measured concentration of the native HCl in the flue gas before and after the spike and the spiked gas dilution factor. When using an IP-CEMS under PS-18, you must also record the measured concentrations of the native HCl before and after introduction of each reference gas, the path lengths of the calibration cell and the stack optical path, the stack and calibration cell temperatures, the instrument line strength factor, and the calculated equivalent concentration of reference gas.
+10.1.8.1.2 For the required gas audits of an FTIR HCl or HF CEMS that is following PS 15, record the date and time of each spiked and unspiked sample, the audit gas reference values and uncertainties. Keep records of all calculations and data analyses required under sections 9.1 and 12.1 of Performance Specification 15, and the results of those calculations and analyses.
+10.1.8.1.3 For each required RATA of an HCl or HF CEMS, record the beginning and ending date and time of each test run, the reference method(s) used, and the reference method and HCl or HF CEMS run values. Keep records of stratification tests performed (if any), all of the raw field data, relevant process operating data, and all of the calculations used to determine the relative accuracy.
+10.1.8.1.4 For each required beam intensity test of an HCl IP-CEMS under PS-18, record the test date and time, the known attenuation value (%) used for the test, the concentration of the high-level reference gas used, the full-beam and attenuated beam intensity levels, the measured HCl concentrations at full-beam intensity and attenuated intensity and the percent difference between them, and the results of the test. For each required daily beam intensity check of an IP-CEMS under Procedure 6, record the beam intensity measured including the units of measure and the results of the check.
+10.1.8.1.5 For each required measurement error (ME) test of an HCl monitor, record the date and time of each gas injection, the reference gas concentration (low, mid, or high) and the monitor response for each of the three injections at each of the three levels. Also record the average monitor response and the ME at each gas level and the related calculations. For ME tests conducted on IP-CEMS, also record the measured concentrations of the native HCl before and after introduction of each reference gas, the path lengths of the calibration cell and the stack optical path, the stack and calibration cell temperatures, the stack and calibration cell pressures, the instrument line strength factor, and the calculated equivalent concentration of reference gas.
+10.1.8.1.6 For each required level of detection (LOD) test of an HCl monitor performed in a controlled environment, record the test date, the concentrations of the reference gas and interference gases, the results of the seven (or more) consecutive measurements of HCl, the standard deviation, and the LOD value. For each required LOD test performed in the field, record the test date, the three measurements of the native source HCl concentration, the results of the three independent standard addition (SA) measurements known as standard addition response (SAR), the effective spike addition gas concentration (for IP-CEMS, the equivalent concentration of the reference gas), the resulting standard addition detection level (SADL) value and all related calculations. For extractive CEMS performing the SA using dynamic spiking, you must record the spiked gas dilution factor.
+10.1.8.1.7 For each required ME/level of detection response time test of an HCl monitor, record the test date, the native HCl concentration of the flue gas, the reference gas value, the stable reference gas readings, the upscale/downscale start and end times, and the results of the upscale and downscale stages of the test.
+10.1.8.1.8 For each required temperature or pressure measurement verification or audit of an IP-CEMS, keep records of the test date, the temperatures or pressures (as applicable) measured by the calibrated temperature or pressure reference device and the IP-CEMS, and the results of the test.
+10.1.8.1.9 For each required interference test of an HCl monitor, record (or obtain from the analyzer manufacturer records of): The date of the test; the gas volume/rate, temperature, and pressure used to conduct the test; the HCl concentration of the reference gas used; the concentrations of the interference test gases; the baseline HCl and HCl responses for each interferent combination spiked; and the total percent interference as a function of span or HCl concentration.
+10.1.8.1.10 For each quarterly relative accuracy audit (RAA) of an HCl monitor, record the beginning and ending date and time of each test run, the reference method used, the HCl concentrations measured by the reference method and CEMS for each test run, the average concentrations measured by the reference method and the CEMS, and the calculated relative accuracy. Keep records of the raw field data, relevant process operating data, and the calculations used to determine the relative accuracy.
+10.1.8.1.11 For each quarterly cylinder gas audit (CGA) of an HCl monitor, record the date and time of each injection, and the reference gas concentration (zero, mid, or high) and the monitor response for each injection. Also record the average monitor response and the calculated ME at each gas level. For IP-CEMS, you must also record the measured concentrations of the native HCl before and after introduction of each reference gas, the path lengths of the calibration cell and the stack optical path, the stack and calibration cell temperatures, the stack and calibration cell pressures, the instrument line strength factor, and the calculated equivalent concentration of reference gas.
+10.1.8.1.12 For each quarterly dynamic spiking audit (DSA) of an HCl monitor, record the date and time of the zero gas injection and each spike injection, the results of the zero gas injection, the gas concentrations (mid and high) and the dilution factors and the monitor response for each of the six upscale injections as well as the corresponding native HCl concentrations measured before and after each injection. Also record the average dynamic spiking error for each of the upscale gases, the calculated average DSA Accuracy at each upscale gas concentration, and all calculations leading to the DSA Accuracy.
 10.1.8.2 Additional Monitoring Systems. For the stack gas flow rate, diluent gas, and moisture monitoring systems described in section 3.2 of this appendix, you must keep records of all certification, recertification, diagnostic, and on-going quality-assurance tests of these systems, as specified in § 75.59(a) of this chapter.
 11. Reporting Requirements
 11.1 General Reporting Provisions. The owner or operator shall comply with the following requirements for reporting HCl and/or HF emissions from each affected unit (or group of units monitored at a common stack):
@@ -127,12 +137,21 @@ The owner or operator shall develop and implement a quality assurance/quality co
 11.1.4 Electronic quarterly report submittals, in accordance with paragraph 11.5 of this section.
 11.2 Notifications. The owner or operator shall provide notifications for each affected unit (or group of units monitored at a common stack) in accordance with § 63.10030.
 11.3 Monitoring Plan Reporting. For each affected unit (or group of units monitored at a common stack) using HCl and/or HF CEMS, the owner or operator shall make electronic and hard copy monitoring plan submittals as follows:
-11.3.1 Submit the electronic and hard copy information in section 10.1.1.2 of this appendix pertaining to the HCl and/or HF monitoring systems at least 21 days prior to the applicable date in § 63.9984. Also, if applicable, submit monitoring plan information pertaining to any required flow rate, diluent gas, and/or moisture monitoring systems within that same time frame, if the required records are not already in place.
+11.3.1 For an EGU that begins reporting hourly HCl and/or HF concentrations with a previously-certified CEMS, submit the monitoring plan information in section 10.1.1.2 of this appendix prior to or concurrent with the first required quarterly emissions report. For a new EGU, or for an EGU switching to continuous monitoring of HCl and/or HF emissions after having implemented another allowable compliance option under this subpart, submit the information in section 10.1.1.2 of this appendix at least 21 days prior to the start of initial certification testing of the CEMS. Also submit the monitoring plan information in section 75.53(g) pertaining to any required flow rate, diluent gas, and moisture monitoring systems within the applicable time frame specified in this section, if the required records are not already in place.
 11.3.2 Update the monitoring plan when required, as provided in paragraph 10.1.1.1 of this appendix. An electronic monitoring plan information update must be submitted either prior to or concurrent with the quarterly report for the calendar quarter in which the update is required.
 11.3.3 All electronic monitoring plan submittals and updates shall be made to the Administrator using the ECMPS Client Tool. Hard copy portions of the monitoring plan shall be kept on record according to section 10.1 of this appendix.
-11.4 Certification, Recertification, and Quality-Assurance Test Reporting Requirements. Except for daily QA tests (i.e., calibrations and flow monitor interference checks), which are included in each electronic quarterly emissions report, use the ECMPS Client Tool to submit the results of all required certification, recertification, quality-assurance, and diagnostic tests of the monitoring systems required under this appendix electronically, either prior to or concurrent with the relevant quarterly electronic emissions report.
-11.4.1 For daily calibrations (including calibration transfer standard tests), report the information in § 75.59(a)(1) of this chapter, excluding paragraphs (a)(1)(ix) through (a)(1)(xi).
-11.4.2 For each quarterly gas audit of a HCl or HF CEMS, report:
+11.4 Certification, Recertification, and Quality-Assurance Test Reporting Requirements. Except for daily QA tests (i.e., calibrations and flow monitor interference checks), which are included in each electronic quarterly emissions report, use the ECMPS Client Tool to submit the results of all required certification, recertification, quality-assurance, and diagnostic tests of the monitoring systems required under this appendix electronically. Submit the test results either prior to or concurrent with the relevant quarterly electronic emissions report. However, for RATAs of the HCl monitor, if this is not possible, you have up to 60 days after the test completion date to submit the test results; in this case, you may claim provisional status for the emissions data affected by the test, starting from the date and hour in which the test was completed and continuing until the date and hour in which the test results are submitted. If the test is successful, the status of the data in that time period changes from provisional to quality-assured, and no further action is required. However, if the test is unsuccessful, the provisional data must be invalidated and resubmission of the affected emission report(s) is required.
+11.4.1 For each daily calibration drift (or calibration error) assessment (including daily calibration transfer standard tests), and for each 7-day calibration drift test of an HCl or HF monitor, report:
+11.4.1.1 Facility ID information;
+11.4.1.2 The monitoring component ID;
+11.4.1.3 The instrument span and span scale;
+11.4.1.4 For each gas injection, the date and time, the calibration gas level (zero, mid or other), the reference gas value (ppm), and the monitor response (ppm);
+11.4.1.5 A flag to indicate whether dynamic spiking was used for the upscale value (extractive HCl monitors only);
+11.4.1.6 Calibration drift or calibration error (percent of span or reference gas, as applicable);
+11.4.1.7 When using the dynamic spiking option, the measured concentration of native HCl before and after each mid-level spike and the spiked gas dilution factor;
+11.4.1.8 When using an IP-CEMS, also report the measured concentration of native HCl before and after each upscale measurement, the path lengths of the calibration cell and the stack optical path, the stack and calibration cell temperatures, the stack and calibration cell pressures, the instrument line strength factor, and the equivalent concentration of the reference gas; and
+11.4.1.9 Reason for test (for the 7-day CD test, only).
+11.4.2 For each quarterly gas audit of an HCl or HF CEMS that is following PS 15, report:
 11.4.2.1 Facility ID information;
 11.4.2.2 Monitoring system ID number;
 11.4.2.3 Type of test (e.g., quarterly gas audit);
@@ -157,12 +176,104 @@ The owner or operator shall develop and implement a quality assurance/quality co
 11.4.3.8 The measured reference method and CEMS values for each test run, on a consistent moisture basis, in appropriate units of measure;
 11.4.3.9 Flags to indicate which test runs were used in the calculations;
 11.4.3.10 Arithmetic mean of the CEMS values, of the reference method values, and of their differences;
-11.4.3.11 Standard deviation, as specified in Equation 2-4 of Performance Specification 2 in appendix B to part 60 of this chapter;
-11.4.3.12 Confidence coefficient, as specified in Equation 2-5 of Performance Specification 2 in appendix B to part 60 of this chapter; and
-11.4.3.13 Relative accuracy calculated using Equation 2-6 of Performance Specification 2 in appendix B to part 60 of this chapter or, if applicable, according to the alternative procedure for low emitters described in section 3.1.2.2 of this appendix. If applicable use a flag to indicate that the alternative RA specification for low emitters has been applied.
-11.4.4 Reporting Requirements for Diluent Gas, Flow Rate, and Moisture Monitoring Systems. For the certification, recertification, diagnostic, and QA tests of stack gas flow rate, moisture, and diluent gas monitoring systems that are certified and quality-assured according to part 75 of this chapter, report the information in section 10.1.9.3 of this appendix.
+11.4.3.11 Standard deviation, using either Equation 2-4 in section 12.3 of PS 2 in appendix B to part 60 of this chapter or Equation 10 in section 12.6.5 of PS 18;
+11.4.3.12 Confidence coefficient, using either Equation 2-5 in section 12.4 of PS 2 in appendix B to part 60 of this chapter or Equation 11 in section 12.6.6 of PS 18;
+11.4.3.13 t-value; and
+11.4.3.14 Relative accuracy calculated using Equation 2-6 of Performance Specification 2 in appendix B to part 60 of this chapter or, if applicable, according to the alternative procedure for low emitters described in section 3.1.2.2 of this appendix. If applicable use a flag to indicate that the alternative RA specification for low emitters has been applied.
+11.4.4 For each 3-level ME test of an HCl monitor, report:
+11.4.4.1 Facility ID information;
+11.4.4.2 Monitoring component ID;
+11.4.4.3 Instrument span and span scale;
+11.4.4.4 For each gas injection, the date and time, the calibration gas level (low, mid, or high), the reference gas value in ppm and the monitor response. When using an IP-CEMS, also report the measured concentration of native HCl before and after each injection, the path lengths of the calibration cell and the stack optical path, the stack and calibration cell temperatures, the stack and calibration cell pressures, the instrument line strength factor, and the equivalent concentration of the reference gas;
+11.4.4.5 For extractive CEMS, the mean reference value and mean of measured values at each reference gas level (ppm). For IP-CEMS, the mean of the measured concentration minus the average measured native concentration minus the equivalent reference gas concentration (ppm), at each reference gas level—see Equation 6A in PS 18;
+11.4.4.6 ME at each reference gas level; and
+11.4.4.7 Reason for test.
+11.4.5 Beam intensity tests of an IP CEMS:
+11.4.5.1 For the initial beam intensity test described in PS 18 in appendix B to part 60 of this chapter, report:
+11.4.5.1.1 Facility ID information;
+11.4.5.1.2 Date and time of the test;
+11.4.5.1.3 Monitoring system ID;
+11.4.5.1.4 Reason for test;
+11.4.5.1.5 Attenuation value (%);
+11.4.5.1.6 High level gas concentration (ppm);
+11.4.5.1.7 Full and attenuated beam intensity levels, including units of measure;
+11.4.5.1.8 Measured HCl concentrations at full and attenuated beam intensity (ppm); and
+11.4.5.1.9 Percentage difference between the HCl concentrations.
+11.4.5.2 For the daily beam intensity check described in Procedure 6 of appendix F to Part 60 of this chapter, report:
+11.4.5.2.1 Facility ID information;
+11.4.5.2.2 Date and time of the test;
+11.4.5.2.3 Monitoring system ID;
+11.4.5.2.4 The attenuated beam intensity level (limit) established in the initial test;
+11.4.5.2.5 The beam intensity measured during the daily check; and
+11.4.5.2.6 Results of the test (pass or fail).
+11.4.6 For each temperature or pressure verification or audit of an HCl IP-CEMS, report:
+11.4.6.1 Facility ID information;
+11.4.6.2 Date and time of the test;
+11.4.6.3 Monitoring system ID;
+11.4.6.4 Type of verification (temperature or pressure);
+11.4.6.5 Stack sensor measured value;
+11.4.6.6 Reference device measured value;
+11.4.6.7 Results of the test (pass or fail); and
+11.4.6.8 Reason for test.
+11.4.7 For each interference test of an HCl monitoring system, report:
+11.4.7.1 Facility ID information;
+11.4.7.2 Date of test;
+11.4.7.3 Monitoring system ID;
+11.4.7.4 Results of the test (pass or fail);
+11.4.7.5 Reason for test; and
+11.4.7.6 A flag to indicate whether the test was performed: On this particular monitoring system; on one of multiple systems of the same type; or by the manufacturer on a system with components of the same make and model(s) as this system.
+11.4.8 For each LOD test of an HCl monitor, report:
+11.4.8.1 Facility ID information;
+11.4.8.2 Date of test;
+11.4.8.3 Reason for test;
+11.4.8.4 Monitoring system ID;
+11.4.8.5 A code to indicate whether the test was done in a controlled environment or in the field;
+11.4.8.6 HCl reference gas concentration;
+11.4.8.7 HCl responses with interference gas (seven repetitions);
+11.4.8.8 Standard deviation of HCl responses;
+11.4.8.9 Effective spike addition gas concentrations;
+11.4.8.10 HCl concentration measured without spike;
+11.4.8.11 HCl concentration measured with spike;
+11.4.8.12 Dilution factor for spike;
+11.4.8.13 The controlled environment LOD value (ppm or ppm-meters);
+11.4.8.14 The field determined standard addition detection level (SADL in ppm or ppm-meters); and
+11.4.8.15 Result of LDO/SADL test (pass/fail).
+11.4.9 For each ME or LOD response time test of an HCl monitor, report:
+11.4.9.1 Facility ID information;
+11.4.9.2 Date of test;
+11.4.9.3 Monitoring component ID;
+11.4.9.4 The higher of the upscale or downscale tests, in minutes; and
+11.4.9.5 Reason for test.
+11.4.10 For each quarterly RAA of an HCl monitor, report:
+11.4.10.1 Facility ID information;
+11.4.10.2 Monitoring system ID;
+11.4.10.3 Begin and end time of each test run;
+11.4.10.4 The reference method used;
+11.4.10.5 The reference method and CEMS values for each test run, including the units of measure;
+11.4.10.6 The mean reference method and CEMS values for the three test runs;
+11.4.10.7 The calculated relative accuracy, percent; and
+11.4.10.8 Reason for test.
+11.4.11 For each quarterly cylinder gas audit of an HCl monitor, report:
+11.4.11.1 Facility ID information;
+11.4.11.2 Monitoring component ID;
+11.4.11.3 Instrument span and span scale;
+11.4.11.4 For each gas injection, the date and time, the reference gas level (zero, mid, or high), the reference gas value in ppm, and the monitor response. When using an IP-CEMS, also report the measured concentration of native HCl before and after each injection, the path lengths of the calibration cell and the stack optical path, the stack and calibration cell temperatures, the stack and calibration cell pressures, the instrument line strength factor, and the equivalent concentration of the reference gas;
+11.4.11.5 For extractive CEMS, the mean reference gas value and mean monitor response at each reference gas level (ppm). For IP-CEMS, the mean of the measured concentration minus the average measured native concentration minus the equivalent reference gas concentration (ppm), at each reference gas level -see Equation 6A in PS 18;
+11.4.11.6 ME at each reference gas level; and
+11.4.11.7 Reason for test.
+11.4.12 For each quarterly DSA of an HCl monitor, report:
+11.4.12.1 Facility ID information;
+11.4.12.2 Monitoring component ID;
+11.4.12.3 Instrument span and span scale;
+11.4.12.4 For the zero gas injection, the date and time, and the monitor response (Note: The zero gas injection from a calibration drift check performed on the same day as the upscale spikes may be used for this purpose.);
+11.4.12.5 Zero spike error;
+11.4.12.6 For the upscale gas spiking, the date and time of each spike, the reference gas level (mid- or high-), the reference gas value (ppm), the dilution factor, the native HCl concentrations before and after each spike, and the monitor response for each gas spike;
+11.4.12.7 Upscale spike error;
+11.4.12.8 DSA at the zero level and at each upscale gas level; and
+11.4.12.9 Reason for test.
+11.4.13 Reporting Requirements for Diluent Gas, Flow Rate, and Moisture Monitoring Systems. For the certification, recertification, diagnostic, and QA tests of stack gas flow rate, moisture, and diluent gas monitoring systems that are certified and quality-assured according to part 75 of this chapter, report the information in section 10.1.8.2 of this appendix.
 11.5 Quarterly Reports.
-11.5.1 Beginning with the report for the calendar quarter in which the initial compliance demonstration is completed or the calendar quarter containing the applicable date in § 63.10005(g), (h), or (j) (whichever is earlier), the owner or operator of any affected unit shall use the ECMPS Client Tool to submit electronic quarterly reports to the Administrator, in an XML format specified by the Administrator, for each affected unit (or group of units monitored at a common stack).
+11.5.1 The owner or operator of any affected unit shall use the ECMPS Client Tool to submit electronic quarterly reports to the Administrator in an XML format specified by the Administrator, for each affected unit (or group of units monitored at a common stack). If the certified HCl or HF CEMS is used for the initial compliance demonstration, HCl or HF emissions reporting shall begin with the first operating hour of the 30-boiler operating day compliance demonstration period. Otherwise, HCl or HF emissions reporting shall begin with the first operating hour after successfully completing all required certification tests of the CEMS.
 11.5.2 The electronic reports must be submitted within 30 days following the end of each calendar quarter, except for units that have been placed in long-term cold storage.
 11.5.3 Each electronic quarterly report shall include the following information:
 11.5.3.1 The date of report generation;
