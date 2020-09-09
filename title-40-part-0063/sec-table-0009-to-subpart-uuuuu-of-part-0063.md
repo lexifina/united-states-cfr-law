@@ -18,7 +18,7 @@ Citation | Subject | Applies to subpart UUUUU
 § 63.8(c)(1)(i) | General duty to minimize emissions and CMS operation | No. See § 63.10000(b) for general duty requirement.
 § 63.8(c)(1)(iii) | Requirement to develop SSM Plan for CMS | No.
 § 63.8(d)(3) | Written procedures for CMS | Yes, except for last sentence, which refers to an SSM plan. SSM plans are not required.
-§ 63.9 | Notification Requirements | Yes, except (1) for the 60-day notification prior to conducting a performance test in § 63.9(e); instead use a 30-day notification period per § 63.10030(d), (2) the notification of the CMS performance evaluation in § 63.9(g)(1) is limited to RATAs, and (3) the information required per § 63.9(h)(2)(i); instead provide the information required per § 63.10030(e)(1) through (e)(6) and (e)(8).
+§ 63.9 | Notification Requirements | Yes, except (1) for the 60-day notification prior to conducting a performance test in § 63.9(e); instead use a 30-day notification period per § 63.10030(d), (2) the notification of the CMS performance evaluation in § 63.9(g)(1) is limited to RATAs, and (3) the information required per § 63.9(h)(2)(i); instead provide the applicable information in § 63.10030(e)(1) through (8), for the initial notification of compliance status, only.
 § 63.10(a), (b)(1), (c), (d)(1) and (2), (e), and (f) | Recordkeeping and Reporting Requirements | Yes, except for the requirements to submit written reports under § 63.10(e)(3)(v).
 § 63.10(b)(2)(i) | Recordkeeping of occurrence and duration of startups and shutdowns | No.
 § 63.10(b)(2)(ii) | Recordkeeping of malfunctions | No. See § 63.10001 for recordkeeping of (1) occurrence and duration and (2) actions taken during malfunction.
@@ -28,12 +28,13 @@ Citation | Subject | Applies to subpart UUUUU
 § 63.10(b)(2)(vi) | Recordkeeping for CMS malfunctions | Yes.
 § 63.10(b)(2)(vii) through (ix) | Other CMS requirements | Yes.
 § 63.10(b)(3) and (d)(3) through (5) | | No.
-§ 63.10(c)(7) | Additional recordkeeping requirements for CMS—identifying exceedances and excess emissions | Yes.
-§ 63.10(c)(8) | Additional recordkeeping requirements for CMS—identifying exceedances and excess emissions | Yes.
+§ 63.10(c)(7) | Additional recordkeeping requirements for CMS — identifying exceedances and excess emissions | Applies only through December 31, 2023.
+§ 63.10(c)(8) | Additional recordkeeping requirements for CMS—identifying exceedances and excess emissions | Applies only through December 31, 2023.
 § 63.10(c)(10) | Recording nature and cause of malfunctions | No. See § 63.10032(g) and (h) for malfunctions recordkeeping requirements.
 § 63.10(c)(11) | Recording corrective actions | No. See § 63.10032(g) and (h) for malfunctions recordkeeping requirements.
 § 63.10(c)(15) | Use of SSM Plan | No.
 § 63.10(d)(5) | SSM reports | No. See § 63.10021(h) and (i) for malfunction reporting requirements.
+§ 63.10(e)(3)(v) and (vi) | Excess emissions and CMS performance reports | Applies only through December 31, 2023.
 § 63.11 | Control Device Requirements | No.
 § 63.12 | State Authority and Delegation | Yes.
 §§ 63.13 through 63.16 | Addresses, Incorporation by Reference, Availability of Information, Performance Track Provisions | Yes.
