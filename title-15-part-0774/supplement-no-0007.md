@@ -28,10 +28,10 @@ Note to Supplement No. 7: While the items on this list are identified by ECCN ra
 (ii) 7D003.b.
 (5) Category 8
 (i) 8A001.b.
-(ii) 8A001.d.
+(ii) 8A001.c.1.
 (iii) 8A002.o.3.b.
-(iv) 8D001—"Software" "specially designed" for the "development" or "production" of equipment specified by 8A001.b, 8A001.d, or 8A002.o.3.b.
-(v) 8E001—"Technology" according to the General Technology Note for the "development" or "production" of equipment specified by 8A001.b, 8A001.d, or 8A002.o.3.b.
+(iv) 8D001—"Software" specially designed for the "development" or "production" of equipment specified by 8A001.b, 8A001.c.1, or 8A002.o.3.b.
+(v) 8E001—"Technology" according to the General Technology Note for the "development" or "production" of equipment specified by 8A001.b, 8A001.c.1, or 8A002.o.3.b.
 (6) Category 9
 (i) 9A011.
 (ii) 9D001—"Software" "specially designed" or modified for the "development" of equipment or "technology" specified by 9A011, 9E003.a.1, or 9E003.a.3.a.
