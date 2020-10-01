@@ -1,4 +1,4 @@
-# Table 2d to Part 679—Species Codes: Non-FMP Species
+# Table 2 d to Part 679—Species Codes: Non-FMP Species
 Species description | Code
 GENERAL USE
 Arctic char, anadromous | 521

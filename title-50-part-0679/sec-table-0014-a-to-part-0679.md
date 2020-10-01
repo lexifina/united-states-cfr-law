@@ -1,4 +1,4 @@
-# Table 14a to Part 679—Port of Landing Codes 1, Alaska
+# Table 14 a to Part 679—Port of Landing Codes 1, Alaska
 Port Name | NMFS Code | ADF&G Code
 Adak | 186 | ADA
 Akutan, Akutan Bay | 101 | AKU

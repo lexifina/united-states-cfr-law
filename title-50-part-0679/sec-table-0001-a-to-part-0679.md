@@ -1,4 +1,4 @@
-# Table 1a to Part 679—Delivery Condition* and Product Codes
+# Table 1 a to Part 679—Delivery Condition* and Product Codes
 [General Use Codes]
 Description | Code
 Belly flaps. Flesh in region of pelvic and pectoral fins and behind head (ancillary only) | 19

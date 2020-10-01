@@ -1,4 +1,4 @@
-# Table 2b to Part 679—Species Codes: FMP Prohibited Species and CR Crab
+# Table 2 b to Part 679—Species Codes: FMP Prohibited Species and CR Crab
 Species Description | Code | CR Crab | Groundfish PSC
 CRAB
 | Box | Lopholithodes mandtii | 900 | | ✓

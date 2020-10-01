@@ -1,4 +1,4 @@
-# Table 28b to Part 679—Qualifying Season Dates for Central GOA Rockfish Primary Species
+# Table 28 b to Part 679—Qualifying Season Dates for Central GOA Rockfish Primary Species
 A Rockfish Legal Landing includes... | 2007 | 2008 | 2009
 Northern rockfish that were harvested by vessels authorized to fish in the rockfish entry level trawl fishery between... | Sept. 1-Nov. 8 | Sept. 1-Nov. 15 | Sept. 1-Nov. 15.
 and landed by | Nov. 15 | Nov. 22 | Nov. 22.

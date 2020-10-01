@@ -1,4 +1,4 @@
-# Table 14b to Part 679—Port of Landing Codes: Non-Alaska
+# Table 14 b to Part 679—Port of Landing Codes: Non-Alaska
 (California, Canada, Oregon, and Washington)
 Port State or Country | Port Name | NMFS Code | ADF&G Code
 CALIFORNIA | Eureka | 500 | EUR

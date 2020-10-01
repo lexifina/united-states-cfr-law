@@ -1,4 +1,4 @@
-# Table 1b to Part 679—Discard and Disposition Codes1
+# Table 1 b to Part 679—Discard and Disposition Codes 1
 Description | Code
 Confiscation or seized | 63
 Deadloss (crab only) | 79
