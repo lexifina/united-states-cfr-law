@@ -1,4 +1,4 @@
-# Table 1a to Part 660, Subpart C—2019, Specifications of OFL, ABC, ACL, ACT and Fishery HG
+# Table 1 a to Part 660, Subpart C—2019, Specifications of OFL, ABC, ACL, ACT and Fishery HG
 [Weights in metric tons]
 Stocks/stock complexes | Area | OFL | ABC | ACL a | Fishery HG b
 COWCOD c | S of 40°10′ N lat | 74 | 67 | 10 | 8
