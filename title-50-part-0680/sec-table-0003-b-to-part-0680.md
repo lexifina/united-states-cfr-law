@@ -1,4 +1,4 @@
-# Table 3b to Part 680—Crab Disposition or Product Codes
+# Table 3 b to Part 680—Crab Disposition or Product Codes
 Code | Description
 80 | Sections.
 95 | Personal use—not sold.
