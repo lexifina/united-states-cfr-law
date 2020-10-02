@@ -5,7 +5,7 @@ A state chartered corporate credit union may not exercise any expanded authority
 Minimum Requirement
 In order to participate in any of the authorities set forth in Base-Plus, Part I, Part II, Part III, or Part IV of this Appendix, a corporate credit union must evaluate monthly, including once on the last day of the month, the changes in NEV, NEV ratio, NII, WAL, and duration as required by paragraphs (d)(1)(i), (e), (f), (g), and (i) of § 704.8.
 Base-Plus
-A corporate that has met the requirements for this Base-plus authority may, in performing the rate stress tests set forth in 704.8(d)(1)(i), allow its NEV to decline as much as 20 percent.
+A corporate credit union that has met the requirements for this Base-plus authority may, in performing the rate stress tests set forth in 704.8(d)(1)(i), allow its NEV to decline as much as 20 percent.
 Part I
 (a) A corporate credit union that has met all the requirements established by NCUA for this Part I, including a minimum leverage ratio of at least six percent, may:
 (1) Purchase an investment after conducting and documenting an analysis that reasonably concludes the investment is at least investment grade;
@@ -36,10 +36,10 @@ Part III
 (3) Hedge the balance sheets of its members.
 (b) Credit Quality:
 All derivative transactions are subject to the following requirements:
-(1) If the intended counterparty is domestic, the counterparty must meet minimum credit quality standards as established by the corporate's board of directors;
-(2) If the intended counterparty is foreign, the corporate must have Part II expanded authority and the counterparty must meet minimum credit quality standards as established by the corporate's board of directors;
-(3) The corporate must identify the criteria relied upon to determine that the counterparty meets the credit quality requirements of this part at the time the transaction is entered into and monitor those criteria for as long as the contract remains open; and
-(4) The corporate must comply with § 704.10 of this part if the credit quality of the counterparty deteriorates below the minimum credit quality standards established by the corporate's board of directors.
+(1) If the intended counterparty is domestic, the counterparty must meet minimum credit quality standards as established by the corporate credit union's board of directors;
+(2) If the intended counterparty is foreign, the corporate credit union must have Part II expanded authority and the counterparty must meet minimum credit quality standards as established by the corporate credit union's board of directors;
+(3) The corporate credit union must identify the criteria relied upon to determine that the counterparty meets the credit quality requirements of this part at the time the transaction is entered into and monitor those criteria for as long as the contract remains open; and
+(4) The corporate credit union must comply with § 704.10 of this part if the credit quality of the counterparty deteriorates below the minimum credit quality standards established by the corporate credit union's board of directors.
 Part IV
 A corporate credit union that has met all the requirements established by NCUA for this Part IV may participate in loans with member natural person credit unions as approved by the NCUA and subject to the following:
 (a) The maximum aggregate amount of participation loans with any one member credit union must not exceed 25 percent of capital; and
