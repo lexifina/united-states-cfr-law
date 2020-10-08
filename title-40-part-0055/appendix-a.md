@@ -2,70 +2,72 @@
 This appendix lists the titles of the State and local requirements that are contained within the documents incorporated by reference into 40 CFR part 55.
 Alaska
 (a) State requirements.
-(1) The following State of Alaska requirements are applicable to OCS Sources, December 9, 2010, Alaska Administrative Code—Department of Environmental Conservation. The following sections of Title 18, Chapter 50:
+(1) The following State of Alaska requirements are applicable to OCS Sources, September 15, 2018, Alaska Administrative Code—Department of Environmental Conservation. The following sections of Title 18, Chapter 50:
 Article 1. Ambient Air Quality Management
 18 AAC 50.005. Purpose and Applicability of Chapter (effective 10/01/2004)
-18 AAC 50.010. Ambient Air Quality Standards (effective 04/01/2010)
-18 AAC 50.015. Air Quality Designations, Classification, and Control Regions (effective 12/09/2010) except (b)(1), (b)(3) and (d)(2)
+18 AAC 50.010. Ambient Air Quality Standards (effective 08/20/2016)
+18 AAC 50.015. Air Quality Designations, Classification, and Control Regions (effective 04/17/2015) except (b)(3) and (d)(2)
 Table 1. Air Quality Classifications
-18 AAC 50.020. Baseline Dates and Maximum Allowable Increases (effective 07/25/2008)
-Table 2. Baseline Dates
+18 AAC 50.020. Baseline Dates and Maximum Allowable Increases (effective 08/20/2016)
+Table 2. Baseline Areas and Dates
 Table 3. Maximum Allowable Increases
-18 AAC 50.025. Visibility and Other Special Protection Areas (effective 06/21/1998)
-18 AAC 50.030. State Air Quality Control Plan (effective 10/29/2010)
-18 AAC 50.035. Documents, Procedures, and Methods Adopted by Reference (effective 04/01/2010)
-18 AAC 50.040. Federal Standards Adopted by Reference (effective12/09/2010) except (h)(2)
+18 AAC 50.025. Visibility and Other Special Protection Areas (effective 09/15/2018)
+18 AAC 50.030. State Air Quality Control Plan (effective 09/15/2018)
+18 AAC 50.035. Documents, Procedures, and Methods Adopted by Reference (effective 09/15/2018)
+18 AAC 50.040. Federal Standards Adopted by Reference (effective 09/15/2018) except (h)(2)
 18 AAC 50.045. Prohibitions (effective 10/01/2004)
 18 AAC 50.050. Incinerator Emissions Standards (effective 07/25/2008)
 Table 4. Particulate Matter Standards for Incinerators
-18 AAC 50.055. Industrial Processes and Fuel-Burning Equipment (effective 12/09/2010) except (a)(3) through (a)(9), (b)(2)(A), (b)(3) through (b)(6), (e) and (f)
-18 AAC 50.065. Open Burning (effective 01/18/1997)
+18 AAC 50.055. Industrial Processes and Fuel-Burning Equipment (effective 09/15/2018) except (a)(4) through (a)(6), (a)(9), (b)(2)(A), (b)(3), (b)(5), and (e)
+18 AAC 50.065. Open Burning (effective 03/06/2016)
 18 AAC 50.070. Marine Vessel Visible Emission Standards (effective 06/21/1998)
-18 AAC 50.075. Wood-Fired Heating Device Visible Emission Standards (effective 05/06/2009)
 18 AAC 50.080. Ice Fog Standards (effective 01/18/1997)
 18 AAC 50.085. Volatile Liquid Storage Tank Emission Standards (effective 01/18/1997)
-18 AAC 50.090. Volatile Liquid Loading Racks and Delivery Tank Emission Standards (effective 07/25/2008)
 18 AAC 50.100. Nonroad Engines (effective 10/01/2004)
 18 AAC 50.110. Air Pollution Prohibited (effective 05/26/1972)
 Article 2. Program Administration
 18 AAC 50.200. Information Requests (effective 10/01/2004)
 18 AAC 50.201. Ambient Air Quality Investigation (effective 10/01/2004)
 18 AAC 50.205. Certification (effective 10/01/2004) except (b)
-18 AAC 50.215. Ambient Air Quality Analysis Methods (effective 10/29/2010)
+18 AAC 50.215. Ambient Air Quality Analysis Methods (effective 09/15/2018)
 Table 5. Significant Impact Levels (SILs)
-18 AAC 50.220. Enforceable Test Methods (effective 10/01/2004)
-18 AAC 50.225 Owner-Requested Limits (effective 12/09/2010) except (c) through (g)
-18 AAC 50.230. Preapproved Emission Limits (effective 07/01/2010) except (d)
-18 AAC 50.235. Unavoidable Emergencies and Malfunctions (effective 10/01/2004)
-18 AAC 50.240. Excess Emissions (effective 10/01/2004)
-18 AAC 50.245. Air Episodes and Advisories (effective 10/01/2004)
-Table 6. Concentrations Triggering an Air Episode
+18 AAC 50.220. Enforceable Test Methods (effective 09/15/2018)
+18 AAC 50.225 Owner-Requested Limits (effective 09/15/2018) except (c) through (g)
+18 AAC 50.230. Preapproved Emission Limits (effective 09/15/2018) except (d)
+18 AAC 50.235. Unavoidable Emergencies and Malfunctions (effective 09/15/2018)
+18 AAC 50.240. Excess Emissions (effective 12/29/2016)
+18 AAC 50.245. Air Quality Episodes and Advisories for Air Pollution Other Than PM 2.5 (effective 02/28/2015)
+Table 6. Concentrations Triggering an Air Quality Episode for Air Pollution Other Than PM 2.5
+18 AAC 50.246. Air Quality Episodes and Advisories for PM 2.5 (effective 02/28/2015)
+Table 6a. Concentrations Triggering an Air Quality Episode for PM 2.5
 Article 3. Major Stationary Source Permits
-18 AAC 50.301. Permit Continuity (effective 10/01/2004) except (b)
-18 AAC 50.302. Construction Permits (effective 12/09/2010)
-18 AAC 50.306. Prevention of Significant Deterioration (PSD) Permits (effective 12/09/2010) except (c) and (e)
-18 AAC 50.311. Nonattainment Area Major Stationary Source Permits (effective 10/01/2004) except (c)
+18 AAC 50.302. Construction Permits (effective 09/14/2012)
+18 AAC 50.306. Prevention of Significant Deterioration (PSD) Permits (effective 01/
+04/2013) except (c) and (e)
+18 AAC 50.311. Nonattainment Area Major Stationary Source Permits (effective 09/15/2018) except (c)
 18 AAC 50.316. Preconstruction Review for Construction or Reconstruction of a Major Source of Hazardous Air Pollutants (effective 12/01/2004) except (c)
-18 AAC 50.321. Case-By-Case Maximum Achievable Control Technology (effective 12/01/04)
-18 AAC 50.326. Title V Operating Permits (effective12/01/2004) except (c)(1), (h), (i)(3), (j)(5), (j)(6), (k)(1), (k)(3), (k)(5), and (k)(6)
-18 AAC 50.345. Construction, Minor and Operating Permits: Standard Permit Conditions (effective 11/09/2008)
-18 AAC 50.346. Construction and Operating Permits: Other Permit Conditions (effective 12/09/2010)
+18 AAC 50.321. Case-By-Case Maximum Achievable Control Technology (effective 10/06/2013)
+18 AAC 50.326. Title V Operating Permits (effective 09/15/2018) except (c)(1), (h), (i)(3), (j)(5), (j)(6), (k)(1), (k)(3), (k)(5), and (k)(6)
+18 AAC 50.345. Construction, Minor and Operating Permits: Standard Permit Conditions (effective 09/15/2018)
+18 AAC 50.346. Construction and Operating Permits: Other Permit Conditions (effective 09/15/2018)
 Table 7. Standard Operating Permit Condition
 Article 4. User Fees
-18 AAC 50.400. Permit Administration Fees (effective 07/01/2010) except (a)(2), (a)(5), (j)(2) through (j)(5), (j)(8), and (j)(13)
-18 AAC 50.403. Negotiated Service Agreements (effective 07/01/2010)
-18 AAC 50.410. Emission Fees (effective 07/10/2010)
-18 AAC 50.499. Definition for User Fee Requirements (effective 01/29/2005)
+18 AAC 50.400. Permit Administration Fees (effective 09/15/2018) except (a)(2) through (a)(4), (a)(6), (a)(8), (i)(1), (i)(4), (i)(8), and (i)(9)
+18 AAC 50.403. Negotiated Service Agreements (effective 09/26/2015)
+18 AAC 50.410. Emission Fees (effective 09/15/2018)
+18 AAC 50.499. Definition for User Fee Requirements (effective 09/26/2015)
 Article 5. Minor Permits
-18 AAC 50.502. Minor Permits for Air Quality Protection (effective 12/09/2010) except (b)(1) through (b)(3), (b)(5), (d)(1)(A) and (d)(2)(A)
-18 AAC 50.508. Minor Permits Requested by the Owner or Operator (effective 12/07/2010)
+18 AAC 50.502. Minor Permits for Air Quality Protection (effective 09/15/2018) except (b)(1) through (b)(3), (b)(5), (d)(1)(A) and (d)(2)(A)
+18 AAC 50.508. Minor Permits Requested by the Owner or Operator (effective 12/09/2010)
 18 AAC 50.510. Minor Permit—Title V Permit Interface (effective 12/09/2010)
-18 AAC 50.540. Minor Permit: Application (effective 12/09/2010)
-18 AAC 50.542. Minor Permit: Review and Issuance (effective 12/09/2010) except (a), (b), (c), and (d)
+18 AAC 50.540. Minor Permit: Application (effective 09/15/2018)
+18 AAC 50.542. Minor Permit: Review and Issuance (effective 09/15/2018) except (a), (b), (c), and (d)
 18 AAC 50.544. Minor Permits: Content (effective 12/09/2010)
-18 AAC 50.560. General Minor Permits (effective 10/01/2004) except (b)
+18 AAC 50.546. Minor Permit Revision (effective 7/25/08)
+18 AAC 50.560. General Minor Permits (effective 09/15/2018) except (b)
 Article 9. General Provisions
-18 AAC 50.990. Definitions (effective 12/09/2010)
+18 AAC 50.990. Definitions (effective 09/15/2018)
+(2) [Reserved]
 California
 (a) State requirements.
 (1) The following requirements are contained in State of California Requirements Applicable to OCS Sources, February 2006:
