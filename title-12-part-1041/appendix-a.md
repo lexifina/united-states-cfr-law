@@ -1,8 +1,5 @@
 # Appendix A to Part 1041—Model Forms
-A-1 Model Form for First § 1041.6 Loan
-ER17NO17.010
-A-2 Model Form for Third § 1041.6 Loan
-ER17NO17.011
+A-1 and A-2 Model Forms [Reserved]
 A-3 Model Form for First Payment Withdrawal Notice Under § 1041.9(b)(2)
 ER17NO17.012
 A-4 Model Form for Unusual Withdrawal Notice Under § 1041.9(b)(3)
