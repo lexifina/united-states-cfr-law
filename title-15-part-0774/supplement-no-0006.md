@@ -21,9 +21,27 @@ Note to Supplement No. 6: While the items on this list are identified by ECCN ra
 (A) Specified by 2B001.a, 2B001.b.1, or 2B001.b.2, and having a "unidirectional positioning repeatability" equal to or less (better) than 0.9 µm along one or more linear axis;
 (B) Specified by 2B001.b.3, 2B001.d, 2B001.f or 2B003.
 (3) Category 3
-(i) 3A002.g.1.
-(ii) 3D001—"Software" "specially designed" for the "development" or "production" of equipment controlled under 3A002.g.1.
-(iii) 3E001—"Technology" according to the General Technology Note for the "development" or "production" of equipment controlled under 3A002.g.1.
+(i) 3A001.b.2—"Monolithic Microwave Integrated Circuit" ("MMIC") amplifiers that are any of the following:
+(A) Rated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz with a "fractional bandwidth" greater than 15%, and having any of the following:
+(A.1.) A peak saturated power output greater than 300 W (54.8 dBm) at any frequency exceeding 2.7 GHz up to and including 2.9 GHz;
+(A.2.) A peak saturated power output greater than 300 W (54.8 dBm) at any frequency exceeding 2.9 GHz up to and including 3.2 GHz;
+(A.3.) A peak saturated power output greater than 300 W (54.8 dBm) at any frequency exceeding 3.2 GHz up to and including 3.7 GHz; or
+(A.4.) A peak saturated power output greater than 120 W (50.8 dBm) at any frequency exceeding 3.7 GHz up to and including 6.8 GHz;
+(B) Rated for operation at frequencies exceeding 6.8 GHz up to and including 12 GHz with a "fractional bandwidth" greater than 10%, and having any of the following:
+(B.1) A peak saturated power output greater than 25 W (44 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz; or
+(B.2.) A peak saturated power output greater than 25 W (44 dBm) at any frequency exceeding 8.5 GHz up to and including 12 GHz.
+(ii) 3A001.b.3—Discrete microwave transistors that are any of the following:
+(A) Rated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz and having any of the following:
+(A.1.) A peak saturated power output greater than 600 W (57.8 dBm) at any frequency exceeding 2.7 GHz up to and including 2.9 GHz;
+(A.2.) A peak saturated power output greater than 600 W (57.8 dBm) at any frequency exceeding 2.9 GHz up to and including 3.2 GHz;
+(A.3.) A peak saturated power output greater than 600 W (57.8 dBm) at any frequency exceeding 3.2 GHz up to and including 3.7 GHz; or
+(A.4.) A peak saturated power output greater than 130 W (51.2 dBm) at any frequency exceeding 3.7 GHz up to and including 6.8 GHz;
+(B) Rated for operation at frequencies exceeding 6.8 GHz up to and including 12 GHz and having any of the following:
+(B.1.) A peak saturated power output greater than 130 W (51.2 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz;
+(B.2.) A peak saturated power output greater than 60 W (47.8 dBm) at any frequency exceeding 8.5 GHz up to and including 12 GHz.
+(iii) 3A002.g.1.
+(iv) 3D001—"Software" "specially designed" for the "development" or "production" of equipment controlled under 3A001.b.2, 3A001.b.3, and 3A002.g.1.
+(v) 3E001—"Technology" according to the General Technology Note for the "development" or "production" of equipment controlled under 3A001.b.2, 3A001.b.3, and.3A002.g.1.
 (4) Category 4
 (i) 4A001.a.2.
 (ii) 4D001—"Software" "specially designed" for the "development" or "production" of equipment controlled under ECCN 4A001.a.2 or for the "development" or "production" of
@@ -65,13 +83,14 @@ Note to Supplement No. 6: While the items on this list are identified by ECCN ra
 (3) Other "III-V compound" semiconductor photocathodes having a maximum "radiant sensitivity" exceeding 10 mA/W.
 (xii) 6A002.a.2.b.
 (xiii) 6A002.a.3—Subject to the following additional notes:
-Note 1: 6A002.a.3 does not apply to the following "focal plane arrays" in this Supplement: a. Platinum Silicide (PtSi) "focal plane arrays" having less than 10,000 elements; b. Iridium Silicide (IrSi) "focal plane arrays."
-Note 2: 6A002.a.3 does not apply to the following "focal plane arrays" in this Supplement: a. Indium Antimonide (InSb) or Lead Selenide (PbSe) "focal plane arrays" having less than 256 elements; b. Indium Arsenide (InAs) "focal plane arrays"; c. Lead Sulphide (PbS) "focal plane arrays"; d. Indium Gallium Arsenide (InGaAs) "focal plane arrays."
+Note 1: 6A002.a.3 does not apply to the following "focal plane arrays" in this Supplement: a. Platinum Silicide (PtSi) "focal plane arrays" having less than 10,000 elements; b. Iridium Silicide (IrSi) "focal plane arrays".
+Note 2: 6A002.a.3 does not apply to the following "focal plane arrays" in this Supplement: a. Indium Antimonide (InSb) or Lead Selenide (PbSe) "focal plane arrays" having less than 256 elements; b. Indium Arsenide (InAs) "focal plane arrays"; c. Lead Sulphide (PbS) "focal plane arrays"; d. Indium Gallium Arsenide (InGaAs) "focal plane arrays".
 Note 3: 6A002.a.3 does not apply to Mercury Cadmium Telluride (HgCdTe) "focal plane arrays" as follows in this Supplement: a. 'Scanning Arrays' having any of the following: 1. 30 elements or less; or 2. Incorporating time delay-and-integration within the element and having 2 elements or less; b. 'Staring Arrays' having less than 256 elements.
-Technical Notes: a. 'Scanning Arrays' are defined as "focal plane arrays" designed for use with a scanning optical system that images a scene in a sequential manner to produce an image; b. 'Staring Arrays' are defined as "focal plane arrays" designed for use with a non-scanning optical system that images a scene.
-Note 6: 6A002.a.3 does not apply to the following "focal plane arrays" in this List: a. Gallium Arsenide (GaAs) or Gallium Aluminum Arsenide (GaAlAs) quantum well "focal plane arrays" having less than 256 elements; b. Microbolometer "focal plane arrays" having less than 8,000 elements.
-Note 7: 6A002.a.3.g does not apply to the linear (1-dimensional) "focal plane arrays" "specially designed" or modified to achieve 'charge multiplication' having 4,096 elements or less.
-Note 8: 6A002.a.3.g. does not apply to the non-linear (2-dimensional) "focal plane arrays" "specially designed" or modified to achieve 'charge multiplication' having a maximum linear dimension of 4,096 elements and a total of 250,000 elements or less.
+Technical Notes: a. 'Scanning Arrays' are defined as "focal plane arrays" designed for use with a scanning optical system that images a scene in a sequential manner to produce an image; b. 'Staring Arrays' are defined as "focal plane arrays" designed for use with a nonscanning optical system that images a scene.
+Note 6: 6A002.a.3 does not apply to the following "focal plane arrays" in this List:
+a. Gallium Arsenide (GaAs) or Gallium Aluminum Arsenide (GaAlAs) quantum well "focal plane arrays" having less than 256 elements;
+b. Microbolometer "focal plane arrays" having less than 8,000 elements.
+Note 7: 6A002.a.3.g does not apply to "focal plane arrays", "specially designed" or modified to achieve 'charge multiplication', as follows: a. Linear (1-dimensional) arrays having 4,096 elements or less. b. Non-linear (2-dimensional) arrays having all of the following; b.1. A total of 250,000 elements or less; and b.2. A maximum of 4,096 elements in each dimension.
 (xiv) 6A002.b.
 (xv) 6A002.c—'Direct view' imaging equipment incorporating any of the following:
 (A) Image intensifier tubes having the characteristics listed in this Supplement's description of 6A002.a.2.a or 6A002.a.2.b;
@@ -142,17 +161,17 @@ Note 5: 6A003.b.4.c does not apply to imaging cameras "specially designed" or mo
 (vi) 7E001.
 (vii) 7E002.
 (8) Category 8
-(i) 8A001.b to.d.
-(ii) 8A002.b—Systems "specially designed" or modified for the automated control of the motion of submersible vehicles specified by 8A001.b through.d using navigation data having closed loop servo-controls and having any of the following:
+(i) 8A001.b to.c.
+(ii) 8A002.b—Systems specially designed or modified for the automated control of the motion of submersible vehicles specified by 8A001.b through.c using navigation data having closed loop servo-controls and having any of the following:
 (A) Enabling a vehicle to move within 10 m of a predetermined point in the water column;
 (B) Maintaining the position of the vehicle within 10 m of a predetermined point in the water column; or
 (C) Maintaining the position of the vehicle within 10 m while following a cable on or under the seabed.
 (iii) 8A002.h and.j.
 (iv) 8A002.o.3.
 (v) 8A002.p.
-(vi) 8D001—"Software" "specially designed" for the "development" or "production" of equipment in 8A001.b to.d, 8A002.b (as described in this Supplement), 8A002.h, 8A002.j, 8A002.o.3, or 8A002.p.
+(vi) 8D001—"Software" specially designed for the "development" or "production" of equipment in 8A001.b to.c, 8A002.b (as described in this Supplement), 8A002.h, 8A002.j, 8A002.o.3, or 8A002.p.
 (vii) 8D002.
-(viii) 8E001—"Technology" according to the General Technology Note for the "development" or "production" of equipment specified by 8A001.b to.d, 8A002.b (as described in this Supplement), 8A002.h, 8A002.j, 8A002.o.3, or 8A002.p.
+(viii) 8E001—"Technology" according to the General Technology Note for the "development" or "production" of equipment specified by 8A001.b to.c, 8A002.b (as described in this Supplement), 8A002.h, 8A002.j, 8A002.o.3, or 8A002.p.
 (ix) 8E002.a.
 (9) Category 9
 (i) 9A011.
