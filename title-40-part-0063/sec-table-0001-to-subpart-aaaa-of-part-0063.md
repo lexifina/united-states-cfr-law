@@ -65,4 +65,4 @@ Part 63 citation | Description | Applicable to subpart AAAA before September 28,
 § 63.14 | Incorporation by reference | No 1 | Yes
 § 63.15 | Availability of information and confidentiality | Yes | Yes
 1 Before September 28, 2021, this subpart requires affected facilities to follow 40 CFR part 60, subpart WWW, which incorporates the General Provisions of 40 CFR part 60.
-2 If an owner or operator has complied with the requirements of this paragraph under either 40 CFR part 60, subpart WWW or subpart XXX, then additional notification is not required.
+2 If an owner or operator has complied with requirements that are parallel to the requirements of the part 63 citation of this table under 40 CFR part 60, subpart WWW or subpart XXX, or a state or federal plan that implements 40 CFR part 60, subpart Cc or Cf, then additional notification for that requirement is not required.
