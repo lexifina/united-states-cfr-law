@@ -1,4 +1,4 @@
-# Appendix VIII to Part 200—Nonprofit Organizations Exempted From Subpart E—Cost Principles of Part 200
+# Appendix VIII to Part 200—Nonprofit Organizations Exempted From Subpart E of Part 200
 1. Advance Technology Institute (ATI), Charleston, South Carolina
 2. Aerospace Corporation, El Segundo, California
 3. American Institutes of Research (AIR), Washington, DC
@@ -30,5 +30,5 @@
 29. Syracuse Research Corporation, Syracuse, New York
 30. Universities Research Association, Incorporated (National Acceleration Lab), Argonne, Illinois
 31. Urban Institute, Washington DC
-32. Non-profit insurance companies, such as Blue Cross and Blue Shield Organizations
-33. Other non-profit organizations as negotiated with Federal awarding agencies
+32. Nonprofit insurance companies, such as Blue Cross and Blue Shield Organizations
+33. Other nonprofit organizations as negotiated with Federal awarding agencies
