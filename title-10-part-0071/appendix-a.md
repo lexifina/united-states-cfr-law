@@ -1,419 +1,419 @@
-# Appendix A to Part 71—Determination of A1 and A2
-I. Values of A1 and A2 for individual radionuclides, which are the bases for many activity limits elsewhere in these regulations, are given in Table A-1. The curie (Ci) values specified are obtained by converting from the Terabecquerel (TBq) value. The Terabecquerel values are the regulatory standard. The curie values are for information only and are not intended to be the regulatory standard. Where values of A1 and A2 are unlimited, it is for radiation control purposes only. For nuclear criticality safety, some materials are subject to controls placed on fissile material.
-II. a. For individual radionuclides whose identities are known, but which are not listed in Table A-1, the A1 and A2 values contained in Table A-3 may be used. Otherwise, the licensee shall obtain prior Commission approval of the A1 and A2 values for radionuclides not listed in Table A-1, before shipping the material.
+# Appendix A to Part 71—Determination of A 1 and A 2
+I. Values of A 1 and A 2 for individual radionuclides, which are the bases for many activity limits elsewhere in these regulations, are given in Table A-1. The curie (Ci) values specified are obtained by converting from the Terabecquerel (TBq) value. The Terabecquerel values are the regulatory standard. The curie values are for information only and are not intended to be the regulatory standard. Where values of A 1 and A 2 are unlimited, it is for radiation control purposes only. For nuclear criticality safety, some materials are subject to controls placed on fissile material.
+II. a. For individual radionuclides whose identities are known, but which are not listed in Table A-1, the A 1 and A 2 values contained in Table A-3 may be used. Otherwise, the licensee shall obtain prior Commission approval of the A 1 and A 2 values for radionuclides not listed in Table A-1, before shipping the material.
 b. For individual radionuclides whose identities are known, but which are not listed in Table A-2, the exempt material activity concentration and exempt consignment activity values contained in Table A-3 may be used. Otherwise, the licensee shall obtain prior Commission approval of the exempt material activity concentration and exempt consignment activity values for radionuclides not listed in Table A-2, before shipping the material.
 c. The licensee shall submit requests for prior approval, described under paragraphs II.a. and II.b. of this Appendix, to the Commission, in accordance with § 71.1 of this part.
-III. In the calculations of A1 and A2 for a radionuclide not in Table A-1, a single radioactive decay chain, in which radionuclides are present in their naturally occurring proportions, and in which no daughter radionuclide has a half-life either longer than 10 days, or longer than that of the parent radionuclide, shall be considered as a single radionuclide, and the activity to be taken into account, and the A1 and A2 value to be applied, shall be those corresponding to the parent radionuclide of that chain. In the case of radioactive decay chains in which any daughter radionuclide has a half-life either longer than 10 days, or greater than that of the parent radionuclide, the parent and those daughter radionuclides shall be considered as mixtures of different radionuclides.
+III. In the calculations of A 1 and A 2 for a radionuclide not in Table A-1, a single radioactive decay chain, in which radionuclides are present in their naturally occurring proportions, and in which no daughter radionuclide has a half-life either longer than 10 days, or longer than that of the parent radionuclide, shall be considered as a single radionuclide, and the activity to be taken into account, and the A 1 and A 2 value to be applied, shall be those corresponding to the parent radionuclide of that chain. In the case of radioactive decay chains in which any daughter radionuclide has a half-life either longer than 10 days, or greater than that of the parent radionuclide, the parent and those daughter radionuclides shall be considered as mixtures of different radionuclides.
 IV. For mixtures of radionuclides whose identities and respective activities are known, the following conditions apply:
 a. For special form radioactive material, the maximum quantity transported in a Type A package is as follows:
 ER12JN15.094
-where B(i) is the activity of radionuclide i in special form, and A1(i) is the A1 value for radionuclide i.
+where B(i) is the activity of radionuclide i in special form, and A 1 (i) is the A 1 value for radionuclide i.
 b. For normal form radioactive material, the maximum quantity transported in a Type A package is as follows:
 ER12JN15.095
-where B(i) is the activity of radionuclide i in normal form, and A2(i) is the A2 value for radionuclide i.
+where B(i) is the activity of radionuclide i in normal form, and A 2 (i) is the A 2 value for radionuclide i.
 c. If the package contains both special and normal form radioactive material, the activity that may be transported in a Type A package is as follows:
 ER12JN15.096
-where B(i) is the activity of radionuclide i as special form radioactive material, A1(i) is the A1 value for radionuclide i, C(j) is the activity of radionuclide j as normal form radioactive material, and A2(j) is the A2 value for radionuclide j.
-d. Alternatively, the A1 value for mixtures of special form material may be determined as follows:
+where B(i) is the activity of radionuclide i as special form radioactive material, A 1 (i) is the A 1 value for radionuclide i, C(j) is the activity of radionuclide j as normal form radioactive material, and A 2 (j) is the A 2 value for radionuclide j.
+d. Alternatively, the A 1 value for mixtures of special form material may be determined as follows:
 ER12JN15.097
-where f(i) is the fraction of activity for radionuclide i in the mixture and A1(i) is the appropriate A1 value for radionuclide i.
-e. Alternatively, the A2 value for mixtures of normal form material may be determined as follows:
+where f(i) is the fraction of activity for radionuclide i in the mixture and A 1 (i) is the appropriate A 1 value for radionuclide i.
+e. Alternatively, the A 2 value for mixtures of normal form material may be determined as follows:
 ER12JN15.098
-where f(i) is the fraction of activity for radionuclide i in the mixture and A2(i) is the appropriate A2 value for radionuclide i.
+where f(i) is the fraction of activity for radionuclide i in the mixture and A 2 (i) is the appropriate A 2 value for radionuclide i.
 f. The exempt activity concentration for mixtures of nuclides may be determined as follows:
 ER12JN15.099
 where f(i) is the fraction of activity concentration of radionuclide i in the mixture and [A](i) is the activity concentration for exempt material containing radionuclide i.
 g. The activity limit for an exempt consignment for mixtures of radionuclides may be determined as follows:
 ER12JN15.100
 where f(i) is the fraction of activity of radionuclide i in the mixture and A(i) is the activity limit for exempt consignments for radionuclide i.
-V.a. When the identity of each radionuclide is known, but the individual activities of some of the radionuclides are not known, the radionuclides may be grouped, and the lowest A1 or A2 value, as appropriate, for the radionuclides in each group may be used in applying the formulas in paragraph IV. Groups may be based on the total alpha activity and the total beta/gamma activity when these are known, using the lowest A1 or A2 values for the alpha emitters and beta/gamma emitters.
+V.a. When the identity of each radionuclide is known, but the individual activities of some of the radionuclides are not known, the radionuclides may be grouped, and the lowest A 1 or A 2 value, as appropriate, for the radionuclides in each group may be used in applying the formulas in paragraph IV. Groups may be based on the total alpha activity and the total beta/gamma activity when these are known, using the lowest A 1 or A 2 values for the alpha emitters and beta/gamma emitters.
 b. When the identity of each radionuclide is known but the individual activities of some of the radionuclides are not known, the radionuclides may be grouped and the lowest [A] (activity concentration for exempt material) or A (activity limit for exempt consignment) value, as appropriate, for the radionuclides in each group may be used in applying the formulas in paragraph IV of this appendix. Groups may be based on the total alpha activity and the total beta/gamma activity when these are known, using the lowest [A] or A values for the alpha emitters and beta/gamma emitters, respectively.
-Table A-1—A1 and A2 Values For Radionuclides
-Symbol ofradionuclide | Element andatomic number | A1 (TBq) | A1 (Ci)b | A2 (TBq) | A2 (Ci)b | Specific activity | (TBq/g) | (Ci/g)
-Ac-225 (a) | Actinium (89) | 8.0 × 10−1 | 2.2 × 101 | 6.0 × 10−3 | 1.6 × 10−1 | 2.1 × 103 | 5.8 × 104
-Ac-227 (a) | | 9.0 × 10−1 | 2.4 × 101 | 9.0 × 10−5 | 2.4 × 10−3 | 2.7 | 7.2 × 101
-Ac-228 | | 6.0 × 10−1 | 1.6 × 101 | 5.0 × 10−1 | 1.4 × 101 | 8.4 × 104 | 2.2 × 106
-Ag-105 | Silver (47) | 2.0 | 5.4 × 101 | 2.0 | 5.4 × 101 | 1.1 × 103 | 3.0 × 104
-Ag-108m (a) | | 7.0 × 10−1 | 1.9 × 101 | 7.0 × 10−1 | 1.9 × 101 | 9.7 × 10−1 | 2.6 × 101
-Ag-110m (a) | | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 1.8 × 102 | 4.7 × 103
-Ag-111 | | 2.0 | 5.4 × 101 | 6.0 × 10−1 | 1.6 × 101 | 5.8 × 103 | 1.6 × 105
-Al-26 | Aluminum (13) | 1.0 × 10−1 | 2.7 | 1.0 × 10−1 | 2.7 | 7.0 × 10−4 | 1.9 × 10−2
-Am-241 | Americium (95) | 1.0 × 101 | 2.7 × 102 | 1.0 × 10−3 | 2.7 × 10−2 | 1.3 × 10−1 | 3.4
-Am-242m (a) | | 1.0 × 101 | 2.7 × 102 | 1.0 × 10−3 | 2.7 × 10−2 | 3.6 × 10−1 | 1.0 × 101
-Am-243 (a) | | 5.0 | 1.4 × 102 | 1.0 × 10−3 | 2.7 × 10−2 | 7.4 × 10−3 | 2.0 × 10−1
-Ar-37 | Argon (18) | 4.0 × 101 | 1.1 × 103 | 4.0 × 101 | 1.1 × 103 | 3.7 × 103 | 9.9 × 104
-Ar-39 | | 4.0 × 101 | 1.1 × 103 | 2.0 × 101 | 5.4 × 102 | 1.3 | 3.4 × 101
-Ar-41 | | 3.0 × 10−1 | 8.1 | 3.0 × 10−1 | 8.1 | 1.5 × 106 | 4.2 × 107
-As-72 | Arsenic (33) | 3.0 × 10−1 | 8.1 | 3.0 × 10−1 | 8.1 | 6.2 × 104 | 1.7 × 106
-As-73 | | 4.0 × 101 | 1.1 × 103 | 4.0 × 101 | 1.1 × 103 | 8.2 × 102 | 2.2 × 104
-As-74 | | 1.0 | 2.7 × 101 | 9.0 × 10−1 | 2.4 × 101 | 3.7 × 103 | 9.9 × 104
-As-76 | | 3.0 × 10−1 | 8.1 | 3.0 × 10−1 | 8.1 | 5.8 × 104 | 1.6 × 106
-As-77 | | 2.0 × 101 | 5.4 × 102 | 7.0 × 10−1 | 1.9 × 101 | 3.9 × 104 | 1.0 × 106
-At-211 (a) | Astatine (85) | 2.0 × 101 | 5.4 × 102 | 5.0 × 10−1 | 1.4 × 101 | 7.6 × 104 | 2.1 × 106
-Au-193 | Gold (79) | 7.0 | 1.9 × 102 | 2.0 | 5.4 × 101 | 3.4 × 104 | 9.2 × 105
-Au-194 | | 1.0 | 2.7 × 101 | 1.0 | 2.7 × 101 | 1.5 × 104 | 4.1 × 105
-Au-195 | | 1.0 × 101 | 2.7 × 102 | 6.0 | 1.6 × 102 | 1.4 × 102 | 3.7 × 103
-Au-198 | | 1.0 | 2.7 × 101 | 6.0 × 10−1 | 1.6 × 101 | 9.0 × 103 | 2.4 × 105
-Au-199 | | 1.0 × 101 | 2.7 × 102 | 6.0 × 10−1 | 1.6 × 101 | 7.7 × 103 | 2.1 × 105
-Ba-131 (a) | Barium (56) | 2.0 | 5.4 × 101 | 2.0 | 5.4 × 101 | 3.1 × 103 | 8.4 × 104
-Ba-133 | | 3.0 | 8.1 × 101 | 3.0 | 8.1 × 101 | 9.4 | 2.6 × 102
-Ba-133m | | 2.0 × 101 | 5.4 × 102 | 6.0 × 10−1 | 1.6 × 101 | 2.2 × 104 | 6.1 × 105
-Ba-140 (a) | | 5.0 × 10−1 | 1.4 × 101 | 3.0 × 10−1 | 8.1 | 2.7 × 103 | 7.3 × 104
-Be-7 | Beryllium (4) | 2.0 × 101 | 5.4 × 102 | 2.0 × 101 | 5.4 × 102 | 1.3 × 104 | 3.5 × 105
-Be-10 | | 4.0 × 101 | 1.1 × 103 | 6.0 × 10−1 | 1.6 × 101 | 8.3 × 10−4 | 2.2 × 10−2
-Bi-205 | Bismuth (83) | 7.0 × 10−1 | 1.9 × 101 | 7.0 × 10−1 | 1.9 × 101 | 1.5 × 103 | 4.2 × 104
-Bi-206 | | 3.0 × 10−1 | 8.1 | 3.0 × 10−1 | 8.1 | 3.8 × 103 | 1.0 × 105
-Bi-207 | | 7.0 × 10−1 | 1.9 × 101 | 7.0 × 10−1 | 1.9 × 101 | 1.9 | 5.2 × 101
-Bi-210 | | 1.0 | 2.7 × 101 | 6.0 × 10−1 | 1.6 × 101 | 4.6 × 103 | 1.2 × 105
-Bi-210m (a) | | 6.0 × 10−1 | 1.6 × 101 | 2.0 × 10−2 | 5.4 × 10−1 | 2.1 × 10−5 | 5.7 × 10−4
-Bi-212 (a) | | 7.0 × 10−1 | 1.9 × 101 | 6.0 × 10−1 | 1.6 × 101 | 5.4 × 105 | 1.5 × 107
-Bk-247 | Berkelium (97) | 8.0 | 2.2 × 102 | 8.0 × 10−4 | 2.2 × 10−2 | 3.8 × 10−2 | 1.0
-Bk-249 (a) | | 4.0 × 101 | 1.1 × 103 | 3.0 × 10−1 | 8.1 | 6.1 × 101 | 1.6 × 103
-Br-76 | Bromine (35) | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 9.4 × 104 | 2.5 × 106
-Br-77 | | 3.0 | 8.1 × 101 | 3.0 | 8.1 × 101 | 2.6 × 104 | 7.1 × 105
-Br-82 | | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 104 | 1.1 × 106
-C-11 | Carbon (6) | 1.0 | 2.7 × 101 | 6.0 × 10−1 | 1.6 × 101 | 3.1 × 107 | 8.4 × 108
-C-14 | | 4.0 × 101 | 1.1 × 103 | 3.0 | 8.1 × 101 | 1.6 × 10−1 | 4.5
-Ca-41 | Calcium (20) | Unlimited | Unlimited | Unlimited | Unlimited | 3.1 × 10−3 | 8.5 × 10−2
-Ca-45 | | 4.0 × 101 | 1.1 × 103 | 1.0 | 2.7 × 101 | 6.6 × 102 | 1.8 × 104
-Ca-47 (a) | | 3.0 | 8.1 × 101 | 3.0 × 10−1 | 8.1 | 2.3 × 104 | 6.1 × 105
-Cd-109 | Cadmium (48) | 3.0 × 101 | 8.1 × 102 | 2.0 | 5.4 × 101 | 9.6 × 101 | 2.6 × 103
-Cd-113m | | 4.0 × 101 | 1.1 × 103 | 5.0 × 10−1 | 1.4 × 101 | 8.3 | 2.2 × 102
-Cd-115 (a) | | 3.0 | 8.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 1.9 × 104 | 5.1 × 105
-Cd-115m | | 5.0 × 10−1 | 1.4 × 101 | 5.0 × 10−1 | 1.4 × 101 | 9.4 × 102 | 2.5 × 104
-Ce-139 | Cerium (58) | 7.0 | 1.9 × 102 | 2.0 | 5.4 × 101 | 2.5 × 102 | 6.8 × 103
-Ce-141 | | 2.0 × 101 | 5.4 × 102 | 6.0 × 10−1 | 1.6 × 101 | 1.1 × 103 | 2.8 × 104
-Ce-143 | | 9.0 × 10−1 | 2.4 × 101 | 6.0 × 10−1 | 1.6 × 101 | 2.5 × 104 | 6.6 × 105
-Ce-144 (a) | | 2.0 × 10−1 | 5.4 | 2.0 × 10−1 | 5.4 | 1.2 × 102 | 3.2 × 103
-Cf-248 | Californium (98) | 4.0 × 101 | 1.1 × 103 | 6.0 × 10−3 | 1.6 × 10−1 | 5.8 × 101 | 1.6 × 103
-Cf-249 | | 3.0 | 8.1 × 101 | 8.0 × 10−4 | 2.2 × 10−2 | 1.5 × 10−1 | 4.1
-Cf-250 | | 2.0 × 101 | 5.4 × 102 | 2.0 × 10−3 | 5.4 × 10−2 | 4.0 | 1.1 × 102
-Cf-251 | | 7.0 | 1.9 × 102 | 7.0 × 10−4 | 1.9 × 10−2 | 5.9 × 10−2 | 1.6
-Cf-252 | | 1.0 × 10− 1 | 2.7 | 3.0 × 10− 3 | 8.1 × 10− 2 | 2.0 × 101 | 5.4 × 102
-Cf-253 (a) | | 4.0 × 101 | 1.1 × 103 | 4.0 × 10−2 | 1.1 | 1.1 × 103 | 2.9 × 104
-Cf-254 | | 1.0 × 10−3 | 2.7 × 10−2 | 1.0 × 10−3 | 2.7 × 10−2 | 3.1 × 102 | 8.5 × 103
-Cl-36 | Chlorine (17) | 1.0 × 101 | 2.7 × 102 | 6.0 × 10−1 | 1.6 × 101 | 1.2 × 10−3 | 3.3 × 10−2
-Cl-38 | | 2.0 × 10−1 | 5.4 | 2.0 × 10−1 | 5.4 | 4.9 × 106 | 1.3 × 108
-Cm-240 | Curium (96) | 4.0 × 101 | 1.1 × 103 | 2.0 × 10−2 | 5.4 × 10−1 | 7.5 × 102 | 2.0 × 104
-Cm-241 | | 2.0 | 5.4 × 101 | 1.0 | 2.7 × 101 | 6.1 × 102 | 1.7 × 104
-Cm-242 | | 4.0 × 101 | 1.1 × 103 | 1.0 × 10−2 | 2.7 × 10−1 | 1.2 × 102 | 3.3 × 103
-Cm-243 | | 9.0 | 2.4 × 102 | 1.0 × 10−3 | 2.7 × 10−2 | 1.9 × 10−3 | 5.2 × 101
-Cm-244 | | 2.0 × 101 | 5.4 × 102 | 2.0 × 10−3 | 5.4 × 10−2 | 3.0 | 8.1 × 101
-Cm-245 | | 9.0 | 2.4 × 102 | 9.0 × 10−4 | 2.4 × 10−2 | 6.4 × 10−3 | 1.7 × 10−1
-Cm-246 | | 9.0 | 2.4 × 102 | 9.0 × 10−4 | 2.4 × 10−2 | 1.1 × 10−2 | 3.1 × 10−1
-Cm-247 (a) | | 3.0 | 8.1 × 101 | 1.0 × 10−3 | 2.7 × 10−2 | 3.4 × 10−6 | 9.3 × 10−5
-Cm-248 | | 2.0 × 10−2 | 5.4 × 10−1 | 3.0 × 10−4 | 8.1 × 10−3 | 1.6 × 10−4 | 4.2 × 10−3
-Co-55 | Cobalt (27) | 5.0 × 10−1 | 1.4 × 101 | 5.0 × 10−1 | 1.4 × 101 | 1.1 × 105 | 3.1 × 106
-Co-56 | | 3.0 × 10−1 | 8.1 | 3.0 × 10−1 | 8.1 | 1.1 × 103 | 3.0 × 104
-Co-57 | | 1.0 × 101 | 2.7 × 102 | 1.0 × 101 | 2.7 × 102 | 3.1 × 102 | 8.4 × 103
-Co-58 | | 1.0 | 2.7 × 101 | 1.0 | 2.7 × 101 | 1.2 × 103 | 3.2 × 104
-Co-58m | | 4.0 × 101 | 1.1 × 103 | 4.0 × 101 | 1.1 × 103 | 2.2 × 105 | 5.9 × 106
-Co-60 | | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 4.2 × 101 | 1.1 × 103
-Cr-51 | Chromium (24) | 3.0 × 101 | 8.1 × 102 | 3.0 × 101 | 8.1 × 102 | 3.4 × 103 | 9.2 × 104
-Cs-129 | Cesium (55) | 4.0 | 1.1 × 102 | 4.0 | 1.1 × 102 | 2.8 × 104 | 7.6 × 105
-Cs-131 | | 3.0 × 101 | 8.1 × 102 | 3.0 × 101 | 8.1 × 102 | 3.8 × 103 | 1.0 × 105
-Cs-132 | | 1.0 | 2.7 × 101 | 1.0 | 2.7 × 101 | 5.7 × 103 | 1.5 × 105
-Cs-134 | | 7.0 × 10−1 | 1.9 × 101 | 7.0 × 10−1 | 1.9 × 101 | 4.8 × 101 | 1.3 × 103
-Cs-134m | | 4.0 × 101 | 1.1 × 103 | 6.0 × 10−1 | 1.6 × 101 | 3.0 × 105 | 8.0 × 106
-Cs-135 | | 4.0 × 101 | 1.1 × 103 | 1.0 | 2.7 × 101 | 4.3 × 10−5 | 1.2 × 10−3
-Cs-136 | | 5.0 × 10−1 | 1.4 × 101 | 5.0 × 10−1 | 1.4 × 101 | 2.7 × 103 | 7.3 × 104
-Cs-137 (a) | | 2.0 | 5.4 × 101 | 6.0 × 10−1 | 1.6 × 101 | 3.2 | 8.7 × 101
-Cu-64 | Copper (29) | 6.0 | 1.6 × 102 | 1.0 | 2.7 × 101 | 1.4 × 105 | 3.9 × 106
-Cu-67 | | 1.0 × 101 | 2.7 × 102 | 7.0 × 10−1 | 1.9 × 101 | 2.8 × 104 | 7.6 × 105
-Dy-159 | Dysprosium (66) | 2.0 × 101 | 5.4 × 102 | 2.0 × 101 | 5.4 × 102 | 2.1 × 102 | 5.7 × 103
-Dy-165 | | 9.0 × 10−1 | 2.4 × 101 | 6.0 × 10−1 | 1.6 × 101 | 3.0 × 105 | 8.2 × 106
-Dy-166 (a) | | 9.0 × 10−1 | 2.4 × 101 | 3.0 × 10−1 | 8.1 | 8.6 × 103 | 2.3 × 105
-Er-169 | Erbium (68) | 4.0 × 101 | 1.1 × 103 | 1.0 | 2.7 × 101 | 3.1 × 103 | 8.3 × 104
-Er-171 | | 8.0 × 10−1 | 2.2 × 101 | 5.0 × 10−1 | 1.4 × 101 | 9.0 × 104 | 2.4 × 106
-Eu-147 | Europium (63) | 2.0 | 5.4 × 101 | 2.0 | 5.4 × 101 | 1.4 × 103 | 3.7 × 104
-Eu-148 | | 5.0 × 10−1 | 1.4 × 101 | 5.0 × 10−1 | 1.4 × 101 | 6.0 × 102 | 1.6 × 104
-Eu-149 | | 2.0 × 101 | 5.4 × 102 | 2.0 × 101 | 5.4 × 102 | 3.5 × 102 | 9.4 × 103
-Eu-150 (short lived) | | 2.0 | 5.4 × 101 | 7.0 × 10−1 | 1.9 × 101 | 6.1 × 104 | 1.6 × 106
-Eu-150 (long lived) | | 7.0 × 10−1 | 1.9 × 101 | 7.0 × 10−1 | 1.9 × 101 | 6.1 × 104 | 1.6 × 106
-Eu-152 | | 1.0 | 2.7 × 101 | 1.0 | 2.7 × 101 | 6.5 | 1.8 × 102
-Eu-152m | | 8.0 × 10−1 | 2.2 × 101 | 8.0 × 10−1 | 2.2 × 101 | 8.2 × 104 | 2.2 × 106
-Eu-154 | | 9.0 × 10−1 | 2.4 × 101 | 6.0 × 10−1 | 1.6 × 101 | 9.8 | 2.6 × 102
-Eu-155 | | 2.0 × 101 | 5.4 × 102 | 3.0 | 8.1 × 101 | 1.8 × 101 | 4.9 × 102
-Eu-156 | | 7.0 × 10−1 | 1.9 × 101 | 7.0 × 10−1 | 1.9 × 101 | 2.0 × 103 | 5.5 × 104
-F-18 | Fluorine (9) | 1.0 | 2.7 × 101 | 6.0 × 10−1 | 1.6 × 101 | 3.5 × 106 | 9.5 × 107
-Fe-52 (a) | Iron (26) | 3.0 × 10−1 | 8.1 | 3.0 × 10−1 | 8.1 | 2.7 × 105 | 7.3 × 106
-Fe-55 | | 4.0 × 101 | 1.1 × 103 | 4.0 × 101 | 1.1 × 103 | 8.8 × 101 | 2.4 × 103
-Fe-59 | | 9.0 × 10−1 | 2.4 × 101 | 9.0 × 10−1 | 2.4 × 101 | 1.8 × 103 | 5.0 × 104
-Fe-60 (a) | | 4.0 × 101 | 1.1 × 103 | 2.0 × 10−1 | 5.4 | 7.4 × 10−4 | 2.0 × 10−2
-Ga-67 | Gallium (31) | 7.0 | 1.9 × 102 | 3.0 | 8.1 × 101 | 2.2 × 104 | 6.0 × 105
-Ga-68 | | 5.0 × 10−1 | 1.4 × 101 | 5.0 × 10−1 | 1.4 × 101 | 1.5 × 106 | 4.1 × 107
-Ga-72 | | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 1.1 × 105 | 3.1 × 106
-Gd-146 (a) | Gadolinium (64) | 5.0 × 10−1 | 1.4 × 101 | 5.0 × 10−1 | 1.4 × 101 | 6.9 × 102 | 1.9 × 104
-Gd-148 | | 2.0 × 101 | 5.4 × 102 | 2.0 × 10−3 | 5.4 × 10−2 | 1.2 | 3.2 × 101
-Gd-153 | | 1.0 × 101 | 2.7 × 102 | 9.0 | 2.4 × 102 | 1.3 × 102 | 3.5 × 103
-Gd-159 | | 3.0 | 8.1 × 101 | 6.0 × 10−1 | 1.6 × 101 | 3.9 × 104 | 1.1 × 106
-Ge-68 (a) | Germanium (32) | 5.0 × 10−1 | 1.4 × 101 | 5.0 × 10−1 | 1.4 × 101 | 2.6 × 102 | 7.1 × 103
-Ge-71 | | 4.0 × 101 | 1.1 × 103 | 4.0 × 101 | 1.1 × 103 | 5.8 × 103 | 1.6 × 105
-Ge-77 | | 3.0 × 10−1 | 8.1 | 3.0 × 10−1 | 8.1 | 1.3 × 105 | 3.6 × 106
-Hf-172 (a) | Hafnium (72) | 6.0 × 10−1 | 1.6 × 101 | 6.0 × 10−1 | 1.6 × 101 | 4.1 × 101 | 1.1 × 103
-Hf-175 | | 3.0 | 8.1 × 101 | 3.0 | 8.1 × 101 | 3.9 × 102 | 1.1 × 104
-Hf-181 | | 2.0 | 5.4 × 101 | 5.0 × 10−1 | 1.4 × 101 | 6.3 × 102 | 1.7 × 104
-Hf-182 | | Unlimited | Unlimited | Unlimited | Unlimited | 8.1 × 10−6 | 2.2 × 10−4
-Hg-194 (a) | Mercury (80) | 1.0 | 2.7 × 101 | 1.0 | 2.7 × 101 | 1.3 × 10−1 | 3.5
-Hg-195m (a) | | 3.0 | 8.1 × 101 | 7.0 × 10−1 | 1.9 × 101 | 1.5 × 104 | 4.0 × 105
-Hg-197 | | 2.0 × 101 | 5.4 × 102 | 1.0 × 101 | 2.7 × 102 | 9.2 × 103 | 2.5 × 105
-Hg-197m | | 1.0 × 101 | 2.7 × 102 | 4.0 × 10−1 | 1.1 × 101 | 2.5 × 104 | 6.7 × 105
-Hg-203 | | 5.0 | 1.4 × 102 | 1.0 | 2.7 × 101 | 5.1 × 102 | 1.4 × 104
-Ho-166 | Holmium (67) | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 2.6 × 104 | 7.0 × 105
-Ho-166m | | 6.0 × 10−1 | 1.6 × 101 | 5.0 × 10−1 | 1.4 × 101 | 6.6 × 10−2 | 1.8
-I-123 | Iodine (53) | 6.0 | 1.6 × 102 | 3.0 | 8.1 × 101 | 7.1 × 104 | 1.9 × 106
-I-124 | | 1.0 | 2.7 × 101 | 1.0 | 2.7 × 101 | 9.3 × 103 | 2.5 × 105
-I-125 | | 2.0 × 101 | 5.4 × 102 | 3.0 | 8.1 × 101 | 6.4 × 102 | 1.7 × 104
-I-126 | | 2.0 | 5.4 × 101 | 1.0 | 2.7 × 101 | 2.9 × 103 | 8.0 × 104
-I-129 | | Unlimited | Unlimited | Unlimited | Unlimited | 6.5 × 10−6 | 1.8 × 10−4
-I-131 | | 3.0 | 8.1 × 101 | 7.0 × 10−1 | 1.9 × 101 | 4.6 × 103 | 1.2 × 105
-I-132 | | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 3.8 × 105 | 1.0 × 107
-I-133 | | 7.0 × 10−1 | 1.9 × 101 | 6.0 × 10−1 | 1.6 × 101 | 4.2 × 104 | 1.1 × 106
-I-134 | | 3.0 × 10−1 | 8.1 | 3.0 × 10−1 | 8.1 | 9.9 × 105 | 2.7 × 107
-I-135 (a) | | 6.0 × 10−1 | 1.6 × 101 | 6.0 × 10−1 | 1.6 × 101 | 1.3 × 105 | 3.5 × 106
-In-111 | Indium (49) | 3.0 | 8.1 × 101 | 3.0 | 8.1 × 101 | 1.5 × 104 | 4.2 × 105
-In-113m | | 4.0 | 1.1 × 102 | 2.0 | 5.4 × 101 | 6.2 × 105 | 1.7 × 107
-In-114m (a) | | 1.0 × 101 | 2.7 × 102 | 5.0 × 10−1 | 1.4 × 101 | 8.6 × 102 | 2.3 × 104
-In-115m | | 7.0 | 1.9 × 102 | 1.0 | 2.7 × 101 | 2.2 × 105 | 6.1 × 106
-Ir-189 (a) | Iridium (77) | 1.0 × 101 | 2.7 × 102 | 1.0 × 101 | 2.7 × 102 | 1.9 × 103 | 5.2 × 104
-Ir-190 | | 7.0 × 10−1 | 1.9 × 101 | 7.0 × 10−1 | 1.9 × 101 | 2.3 × 103 | 6.2 × 104
-Ir-192 | | c 1.0 | c 2.7 × 101 | 6.0 × 10− 1 | 1.6 × 101 | 3.4 × 102 | 9.2 × 103
-Ir-194 | | 3.0 × 10−1 | 8.1 | 3.0 × 10−1 | 8.1 | 3.1 × 104 | 8.4 × 105
-K-40 | Potassium (19) | 9.0 × 10−1 | 2.4 × 101 | 9.0 × 10−1 | 2.4 × 101 | 2.4 × 10−7 | 6.4 × 10−6
-K-42 | | 2.0 × 10−1 | 5.4 | 2.0 × 10−1 | 5.4 | 2.2 × 105 | 6.0 × 106
-K-43 | | 7.0 × 10−1 | 1.9 × 101 | 6.0 × 10−1 | 1.6 × 101 | 1.2 × 105 | 3.3 × 106
-Kr-79 | Krypton (36) | 4.0 | 1.1 × 102 | 2.0 | 5.4 × 101 | 4.2 × 104 | 1.1 × 106
-Kr-81 | | 4.0 × 101 | 1.1 × 103 | 4.0 × 101 | 1.1 × 103 | 7.8 × 10− 4 | 2.1 × 10− 2
-Kr-85 | | 1.0 × 101 | 2.7 × 102 | 1.0 × 101 | 2.7 × 102 | 1.5 × 101 | 3.9 × 102
-Kr-85m | | 8.0 | 2.2 × 102 | 3.0 | 8.1 × 101 | 3.0 × 105 | 8.2 × 106
-Kr-87 | | 2.0 × 10−1 | 5.4 | 2.0 × 10−1 | 5.4 | 1.0 × 106 | 2.8 × 107
-La-137 | Lanthanum (57) | 3.0 × 101 | 8.1 × 102 | 6.0 | 1.6 × 102 | 1.6 × 10−3 | 4.4 × 10−2
-La-140 | | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 2.1 × 104 | 5.6 × 105
-Lu-172 | Lutetium (71) | 6.0 × 10−1 | 1.6 × 101 | 6.0 × 10−1 | 1.6 × 101 | 4.2 × 103 | 1.1 × 105
-Lu-173 | | 8.0 | 2.2 × 102 | 8.0 | 2.2 × 102 | 5.6 × 101 | 1.5 × 103
-Lu-174 | | 9.0 | 2.4 × 102 | 9.0 | 2.4 × 102 | 2.3 × 101 | 6.2 × 102
-Lu-174m | | 2.0 × 101 | 5.4 × 102 | 1.0 × 101 | 2.7 × 102 | 2.0 × 102 | 5.3 × 103
-Lu-177 | | 3.0 × 101 | 8.1 × 102 | 7.0 × 10−1 | 1.9 × 101 | 4.1 × 103 | 1.1 × 105
-Mg-28 (a) | Magnesium (12) | 3.0 × 10−1 | 8.1 | 3.0 × 10−1 | 8.1 | 2.0 × 105 | 5.4 × 106
-Mn-52 | Manganese (25) | 3.0 × 10−1 | 8.1 | 3.0 × 10−1 | 8.1 | 1.6 × 104 | 4.4 × 105
-Mn-53 | | Unlimited | Unlimited | Unlimited | Unlimited | 6.8 × 10−5 | 1.8 × 10−3
-Mn-54 | | 1.0 | 2.7 × 101 | 1.0 | 2.7 × 101 | 2.9 × 102 | 7.7 × 103
-Mn-56 | | 3.0 × 10−1 | 8.1 | 3.0 × 10−1 | 8.1 | 8.0 × 105 | 2.2 × 107
-Mo-93 | Molybdenum (42) | 4.0 × 101 | 1.1 × 103 | 2.0 × 101 | 5.4 × 102 | 4.1 × 10−2 | 1.1
-Mo-99 a h | | 1.0 | 2.7 × 101 | 6.0 × 10− 1 | 1.6 × 101 | 1.8 × 104 | 4.8 × 105
-N-13 | Nitrogen (7) | 9.0 × 10−1 | 2.4 × 101 | 6.0 × 10−1 | 1.6 × 101 | 5.4 × 107 | 1.5 × 109
-Na-22 | Sodium (11) | 5.0 × 10−1 | 1.4 × 101 | 5.0 × 10−1 | 1.4 × 101 | 2.3 × 102 | 6.3 × 103
-Na-24 | | 2.0 × 10−1 | 5.4 | 2.0 × 10−1 | 5.4 | 3.2 × 105 | 8.7 × 106
-Nb-93m | Niobium (41) | 4.0 × 101 | 1.1 × 103 | 3.0 × 101 | 8.1 × 102 | 8.8 | 2.4 × 102
-Nb-94 | | 7.0 × 10−1 | 1.9 × 101 | 7.0 × 10−1 | 1.9 × 101 | 6.9 × 10−3 | 1.9 × 10−1
-Nb-95 | | 1.0 | 2.7 × 101 | 1.0 | 2.7 × 101 | 1.5 × 103 | 3.9 × 104
-Nb-97 | | 9.0 × 10−1 | 2.4 × 101 | 6.0 × 10−1 | 1.6 × 101 | 9.9 × 105 | 2.7 × 107
-Nd-147 | Neodymium (60) | 6.0 | 1.6 × 102 | 6.0 × 10−1 | 1.6 × 101 | 3.0 × 103 | 8.1 × 104
-Nd-149 | | 6.0 × 10−1 | 1.6 × 101 | 5.0 × 10−1 | 1.4 × 101 | 4.5 × 105 | 1.2 × 107
-Ni-59 | Nickel (28) | Unlimited | Unlimited | Unlimited | Unlimited | 3.0 × 10−3 | 8.0 × 10−2
-Ni-63 | | 4.0 × 101 | 1.1 × 103 | 3.0 × 101 | 8.1 × 102 | 2.1 | 5.7 × 101
-Ni-65 | | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 7.1 × 105 | 1.9 × 107
-Np-235 | Neptunium (93) | 4.0 × 101 | 1.1 × 103 | 4.0 × 101 | 1.1 × 103 | 5.2 × 101 | 1.4 × 103
-Np-236 (short-lived) | | 2.0 × 101 | 5.4 × 102 | 2.0 | 5.4 × 101 | 4.7 × 10−4 | 1.3 × 10−2
-Np-236 (long-lived) | | 9.0 × 100 | 2.4 × 102 | 2.0 × 10−2 | 5.4 × 10−1 | 4.7 × 10−4 | 1.3 × 10−2
-Np-237 | | 2.0 × 101 | 5.4 × 102 | 2.0 × 10−3 | 5.4 × 10−2 | 2.6 × 10−5 | 7.1 × 10−4
-Np-239 | | 7.0 | 1.9 × 102 | 4.0 × 10−1 | 1.1 × 101 | 8.6 × 103 | 2.3 × 105
-Os-185 | Osmium (76) | 1.0 | 2.7 × 101 | 1.0 | 2.7 × 101 | 2.8 × 102 | 7.5 × 103
-Os-191 | | 1.0 × 101 | 2.7 × 102 | 2.0 | 5.4 × 101 | 1.6 × 103 | 4.4 × 104
-Os-191m | | 4.0 × 101 | 1.1 × 103 | 3.0 × 101 | 8.1 × 102 | 4.6 × 104 | 1.3 × 106
-Os-193 | | 2.0 | 5.4 × 101 | 6.0 × 10−1 | 1.6 × 101 | 2.0 × 104 | 5.3 × 105
-Os-194 (a) | | 3.0 × 10−1 | 8.1 | 3.0 × 10−1 | 8.1 | 1.1 × 101 | 3.1 × 102
-P-32 | Phosphorus (15) | 5.0 × 10−1 | 1.4 × 101 | 5.0 × 10−1 | 1.4 × 101 | 1.1 × 104 | 2.9 × 105
-P-33 | | 4.0 × 101 | 1.1 × 103 | 1.0 | 2.7 × 101 | 5.8 × 103 | 1.6 × 105
-Pa-230 (a) | Protactinium (91) | 2.0 | 5.4 × 101 | 7.0 × 10−2 | 1.9 | 1.2 × 103 | 3.3 × 104
-Pa-231 | | 4.0 | 1.1 × 102 | 4.0 × 10−4 | 1.1 × 10−2 | 1.7 × 10−3 | 4.7 × 10−2
-Pa-233 | | 5.0 | 1.4 × 102 | 7.0 × 10−1 | 1.9 × 101 | 7.7 × 102 | 2.1 × 104
-Pb-201 | Lead (82) | 1.0 | 2.7 × 101 | 1.0 | 2.7 × 101 | 6.2 × 104 | 1.7 × 106
-Pb-202 | | 4.0 × 101 | 1.1 × 103 | 2.0 × 101 | 5.4 × 102 | 1.2 × 10−4 | 3.4 × 10−3
-Pb-203 | | 4.0 | 1.1 × 102 | 3.0 | 8.1 × 101 | 1.1 × 104 | 3.0 × 105
-Pb-205 | | Unlimited | Unlimited | Unlimited | Unlimited | 4.5 × 10−6 | 1.2 × 10−4
-Pb-210 (a) | | 1.0 | 2.7 × 101 | 5.0 × 10−2 | 1.4 | 2.8 | 7.6 × 101
-Pb-212 (a) | | 7.0 × 10−1 | 1.9 × 101 | 2.0 × 10−1 | 5.4 | 5.1 × 104 | 1.4 × 106
-Pd-103 (a) | Palladium (46) | 4.0 × 101 | 1.1 × 103 | 4.0 × 101 | 1.1 × 103 | 2.8 × 103 | 7.5 × 104
-Pd-107 | | Unlimited | Unlimited | Unlimited | Unlimited | 1.9 × 10−5 | 5.1 × 10−4
-Pd-109 | | 2.0 | 5.4 × 101 | 5.0 × 10−1 | 1.4 × 101 | 7.9 × 104 | 2.1 × 106
-Pm-143 | Promethium (61) | 3.0 | 8.1 × 101 | 3.0 | 8.1 × 101 | 1.3 × 102 | 3.4 × 103
-Pm-144 | | 7.0 × 10−1 | 1.9 × 101 | 7.0 × 10−1 | 1.9 × 101 | 9.2 × 101 | 2.5 × 103
-Pm-145 | | 3.0 × 101 | 8.1 × 102 | 1.0 × 101 | 2.7 × 102 | 5.2 | 1.4 × 102
-Pm-147 | | 4.0 × 101 | 1.1 × 103 | 2.0 | 5.4 × 101 | 3.4 × 101 | 9.3 × 102
-Pm-148m (a) | | 8.0 × 10−1 | 2.2 × 101 | 7.0 × 10−1 | 1.9 × 101 | 7.9 × 102 | 2.1 × 104
-Pm-149 | | 2.0 | 5.4 × 101 | 6.0 × 10−1 | 1.6 × 101 | 1.5 × 104 | 4.0 × 105
-Pm-151 | | 2.0 | 5.4 × 101 | 6.0 × 10−1 | 1.6 × 101 | 2.7 × 104 | 7.3 × 105
-Po-210 | Polonium (84) | 4.0 × 101 | 1.1 × 103 | 2.0 × 10−2 | 5.4 × 10−1 | 1.7 × 102 | 4.5 × 103
-Pr-142 | Praseodymium (59) | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 4.3 × 104 | 1.2 × 106
-Pr-143 | | 3.0 | 8.1 × 101 | 6.0 × 10−1 | 1.6 × 101 | 2.5 × 103 | 6.7 × 104
-Pt-188 (a) | Platinum (78) | 1.0 | 2.7 × 101 | 8.0 × 10−1 | 2.2 × 101 | 2.5 × 103 | 6.8 × 104
-Pt-191 | | 4.0 | 1.1 × 102 | 3.0 | 8.1 × 101 | 8.7 × 103 | 2.4 × 105
-Pt-193 | | 4.0 × 101 | 1.1 × 103 | 4.0 × 101 | 1.1 × 103 | 1.4 | 3.7 × 101
-Pt-193m | | 4.0 × 101 | 1.1 × 103 | 5.0 × 10−1 | 1.4 × 101 | 5.8 × 103 | 1.6 × 105
-Pt-195m | | 1.0 × 101 | 2.7 × 102 | 5.0 × 10−1 | 1.4 × 101 | 6.2 × 103 | 1.7 × 105
-Pt-197 | | 2.0 × 101 | 5.4 × 102 | 6.0 × 10−1 | 1.6 × 101 | 3.2 × 104 | 8.7 × 105
-Pt-197m | | 1.0 × 101 | 2.7 × 102 | 6.0 × 10−1 | 1.6 × 101 | 3.7 × 105 | 1.0 × 107
-Pu-236 | Plutonium (94) | 3.0 × 101 | 8.1 × 102 | 3.0 × 10−3 | 8.1 × 10−2 | 2.0 × 101 | 5.3 × 102
-Pu-237 | | 2.0 × 101 | 5.4 × 102 | 2.0 × 101 | 5.4 × 102 | 4.5 × 102 | 1.2 × 104
-Pu-238 | | 1.0 × 101 | 2.7 × 102 | 1.0 × 10−3 | 2.7 × 10−2 | 6.3 × 10−1 | 1.7 × 101
-Pu-239 | | 1.0 × 101 | 2.7 × 102 | 1.0 × 10−3 | 2.7 × 10−2 | 2.3 × 10−3 | 6.2 × 10−2
-Pu-240 | | 1.0 × 101 | 2.7 × 102 | 1.0 × 10−3 | 2.7 × 10−2 | 8.4 × 10−3 | 2.3 × 10−1
-Pu-241 (a) | | 4.0 × 101 | 1.1 × 103 | 6.0 × 10−2 | 1.6 | 3.8 | 1.0 × 102
-Pu-242 | | 1.0 × 101 | 2.7 × 102 | 1.0 × 10−3 | 2.7 × 10−2 | 1.5 × 10−4 | 3.9 × 10−3
-Pu-244 (a) | | 4.0 × 10−1 | 1.1 × 101 | 1.0 × 10−3 | 2.7 × 10−2 | 6.7 × 10−7 | 1.8 × 10−5
-Ra-223 (a) | Radium (88) | 4.0 × 10−1 | 1.1 × 101 | 7.0 × 10−3 | 1.9 × 10−1 | 1.9 × 103 | 5.1 × 104
-Ra-224 (a) | | 4.0 × 10−1 | 1.1 × 101 | 2.0 × 10−2 | 5.4 × 10−1 | 5.9 × 103 | 1.6 × 105
-Ra-225 (a) | | 2.0 × 10−1 | 5.4 | 4.0 × 10−3 | 1.1 × 10−1 | 1.5 × 103 | 3.9 × 104
-Ra-226 (a) | | 2.0 × 10−1 | 5.4 | 3.0 × 10−3 | 8.1 × 10−2 | 3.7 × 10−2 | 1.0
-Ra-228 (a) | | 6.0 × 10−1 | 1.6 × 101 | 2.0 × 10−2 | 5.4 × 10−1 | 1.0 × 101 | 2.7 × 102
-Rb-81 | Rubidium (37) | 2.0 | 5.4 × 101 | 8.0 × 10−1 | 2.2 × 101 | 3.1 × 105 | 8.4 × 106
-Rb-83 (a) | | 2.0 | 5.4 × 101 | 2.0 | 5.4 × 101 | 6.8 × 102 | 1.8 × 104
-Rb-84 | | 1.0 | 2.7 × 101 | 1.0 | 2.7 × 101 | 1.8 × 103 | 4.7 × 104
-Rb-86 | | 5.0 × 10−1 | 1.4 × 101 | 5.0 × 10−1 | 1.4 × 101 | 3.0 × 103 | 8.1 × 104
-Rb-87 | | Unlimited | Unlimited | Unlimited | Unlimited | 3.2 × 10−9 | 8.6 × 10−8
-Rb(nat) | | Unlimited | Unlimited | Unlimited | Unlimited | 6.7 × 106 | 1.8 × 108
-Re-184 | Rhenium (75) | 1.0 | 2.7 × 101 | 1.0 | 2.7 × 101 | 6.9 × 102 | 1.9 × 104
-Re-184m | | 3.0 | 8.1 × 101 | 1.0 | 2.7 × 101 | 1.6 × 102 | 4.3 × 103
-Re-186 | | 2.0 | 5.4 × 101 | 6.0 × 10−1 | 1.6 × 101 | 6.9 × 103 | 1.9 × 105
-Re-187 | | Unlimited | Unlimited | Unlimited | Unlimited | 1.4 × 10−9 | 3.8 × 10−8
-Re-188 | | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 3.6 × 104 | 9.8 × 105
-Re-189 (a) | | 3.0 | 8.1 × 101 | 6.0 × 10−1 | 1.6 × 101 | 2.5 × 104 | 6.8 × 105
-Re(nat) | | Unlimited | Unlimited | Unlimited | Unlimited | 0.0 | 2.4 × 10−8
-Rh-99 | Rhodium (45) | 2.0 | 5.4 × 101 | 2.0 | 5.4 × 101 | 3.0 × 103 | 8.2 × 104
-Rh-101 | | 4.0 | 1.1 × 102 | 3.0 | 8.1 × 101 | 4.1 × 101 | 1.1 × 103
-Rh-102 | | 5.0 × 10−1 | 1.4 × 101 | 5.0 × 10−1 | 1.4 × 101 | 4.5 × 101 | 1.2 × 103
-Rh-102m | | 2.0 | 5.4 × 101 | 2.0 | 5.4 × 101 | 2.3 × 102 | 6.2 × 103
-Rh-103m | | 4.0 × 101 | 1.1 × 103 | 4.0 × 101 | 1.1 × 103 | 1.2 × 106 | 3.3 × 107
-Rh-105 | | 1.0 × 101 | 2.7 × 102 | 8.0 × 10−1 | 2.2 × 101 | 3.1 × 104 | 8.4 × 105
-Rn-222 (a) | Radon (86) | 3.0 × 10−1 | 8.1 | 4.0 × 10−3 | 1.1 × 10−1 | 5.7 × 103 | 1.5 × 105
-Ru-97 | Ruthenium (44) | 5.0 | 1.4 × 102 | 5.0 | 1.4 × 102 | 1.7 × 104 | 4.6 × 105
-Ru-103 (a) | | 2.0 | 5.4 × 101 | 2.0 | 5.4 × 101 | 1.2 × 103 | 3.2 × 104
-Ru-105 | | 1.0 | 2.7 × 101 | 6.0 × 10−1 | 1.6 × 101 | 2.5 × 105 | 6.7 × 106
-Ru-106 (a) | | 2.0 × 10−1 | 5.4 | 2.0 × 10−1 | 5.4 | 1.2 × 102 | 3.3 × 103
-S-35 | Sulphur (16) | 4.0 × 101 | 1.1 × 103 | 3.0 | 8.1 × 101 | 1.6 × 103 | 4.3 × 104
-Sb-122 | Antimony (51) | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 1.5 × 104 | 4.0 × 105
-Sb-124 | | 6.0 × 10−1 | 1.6 × 101 | 6.0 × 10−1 | 1.6 × 101 | 6.5 × 102 | 1.7 × 104
-Sb-125 | | 2.0 | 5.4 × 101 | 1.0 | 2.7 × 101 | 3.9 × 101 | 1.0 × 103
-Sb-126 | | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 3.1 × 103 | 8.4 × 104
-Sc-44 | Scandium (21) | 5.0 × 10−1 | 1.4 × 101 | 5.0 × 10−1 | 1.4 × 101 | 6.7 × 105 | 1.8 × 107
-Sc-46 | | 5.0 × 10−1 | 1.4 × 101 | 5.0 × 10−1 | 1.4 × 101 | 1.3 × 103 | 3.4 × 104
-Sc-47 | | 1.0 × 101 | 2.7 × 102 | 7.0 × 10−1 | 1.9 × 101 | 3.1 × 104 | 8.3 × 105
-Sc-48 | | 3.0 × 10−1 | 8.1 | 3.0 × 10−1 | 8.1 | 5.5 × 104 | 1.5 × 106
-Se-75 | Selenium (34) | 3.0 | 8.1 × 101 | 3.0 | 8.1 × 101 | 5.4 × 102 | 1.5 × 104
-Se-79 | | 4.0 × 101 | 1.1 × 103 | 2.0 | 5.4 × 101 | 2.6 × 10−3 | 7.0 × 10−2
-Si-31 | Silicon (14) | 6.0 × 10−1 | 1.6 × 101 | 6.0 × 10−1 | 1.6 × 101 | 1.4 × 106 | 3.9 × 107
-Si-32 | | 4.0 × 101 | 1.1 × 103 | 5.0 × 10−1 | 1.4 × 101 | 3.9 | 1.1 × 102
-Sm-145 | Samarium (62) | 1.0 × 101 | 2.7 × 102 | 1.0 × 101 | 2.7 × 102 | 9.8 × 101 | 2.6 × 103
-Sm-147 | | Unlimited | Unlimited | Unlimited | Unlimited | 8.5 × 10−1 | 2.3 × 10−8
-Sm-151 | | 4.0 × 101 | 1.1 × 103 | 1.0 × 101 | 2.7 × 102 | 9.7 × 10−1 | 2.6 × 101
-Sm-153 | | 9.0 | 2.4 × 102 | 6.0 × 10−1 | 1.6 × 101 | 1.6 × 104 | 4.4 × 105
-Sn-113 (a) | Tin (50) | 4.0 | 1.1 × 102 | 2.0 | 5.4 × 101 | 3.7 × 102 | 1.0 × 104
-Sn-117m | | 7.0 | 1.9 × 102 | 4.0 × 10−1 | 1.1 × 101 | 3.0 × 103 | 8.2 × 104
-Sn-119m | | 4.0 × 101 | 1.1 × 103 | 3.0 × 101 | 8.1 × 102 | 1.4 × 102 | 3.7 × 103
-Sn-121m (a) | | 4.0 × 101 | 1.1 × 103 | 9.0 × 10−1 | 2.4 × 101 | 2.0 | 5.4 × 101
-Sn-123 | | 8.0 × 10−1 | 2.2 × 101 | 6.0 × 10−1 | 1.6 × 101 | 3.0 × 102 | 8.2 × 103
-Sn-125 | | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 103 | 1.1 × 105
-Sn-126 (a) | | 6.0 × 10−1 | 1.6 × 101 | 4.0 × 10−1 | 1.1 × 101 | 1.0 × 10−3 | 2.8 × 10−2
-Sr-82 (a) | Strontium (38) | 2.0 × 10−1 | 5.4 | 2.0 × 10−1 | 5.4 | 2.3 × 103 | 6.2 × 104
-Sr-85 | | 2.0 | 5.4 × 101 | 2.0 | 5.4 × 101 | 8.8 × 102 | 2.4 × 104
-Sr-85m | | 5.0 | 1.4 × 102 | 5.0 | 1.4 × 102 | 1.2 × 106 | 3.3 × 107
-Sr-87m | | 3.0 | 8.1 × 101 | 3.0 | 8.1 × 101 | 4.8 × 105 | 1.3 × 107
-Sr-89 | | 6.0 × 10−1 | 1.6 × 101 | 6.0 × 10−1 | 1.6 × 101 | 1.1 × 103 | 2.9 × 104
-Sr-90 (a) | | 3.0 × 10−1 | 8.1 | 3.0 × 10−1 | 8.1 | 5.1 | 1.4 × 102
-Sr-91 (a) | | 3.0 × 10−1 | 8.1 | 3.0 × 10−1 | 8.1 | 1.3 × 105 | 3.6 × 106
-Sr-92 (a) | | 1.0 | 2.7 × 101 | 3.0 × 10−1 | 8.1 | 4.7 × 105 | 1.3 × 107
-T(H-3) | Tritium (1) | 4.0 × 101 | 1.1 × 103 | 4.0 × 101 | 1.1 × 103 | 3.6 × 102 | 9.7 × 103
-Ta-178 (long-lived) | Tantalum (73) | 1.0 | 2.7 × 101 | 8.0 × 10−1 | 2.2 × 101 | 4.2 × 106 | 1.1 × 108
-Ta-179 | | 3.0 × 101 | 8.1 × 102 | 3.0 × 101 | 8.1 × 102 | 4.1 × 101 | 1.1 × 103
-Ta-182 | | 9.0 × 10−1 | 2.4 × 101 | 5.0 × 10−1 | 1.4 × 101 | 2.3 × 102 | 6.2 × 103
-Tb-157 | Terbium (65) | 4.0 × 101 | 1.1 × 103 | 4.0 × 101 | 1.1 × 103 | 5.6 × 10−1 | 1.5 × 101
-Tb-158 | | 1.0 | 2.7 × 101 | 1.0 | 2.7 × 101 | 5.6 × 10−1 | 1.5 × 101
-Tb-160 | | 1.0 | 2.7 × 101 | 6.0 × 10−1 | 1.6 × 101 | 4.2 × 102 | 1.1 × 104
-Tc-95m (a) | Technetium (43) | 2.0 | 5.4 × 101 | 2.0 | 5.4 × 101 | 8.3 × 102 | 2.2 × 104
-Tc-96 | | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 1.2 × 104 | 3.2 × 105
-Tc-96m (a) | | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 1.4 × 106 | 3.8 × 107
-Tc-97 | | Unlimited | Unlimited | Unlimited | Unlimited | 5.2 × 10−5 | 1.4 × 10−3
-Tc-97m | | 4.0 × 101 | 1.1 × 103 | 1.0 | 2.7 × 101 | 5.6 × 102 | 1.5 × 104
-Tc-98 | | 8.0 × 10−1 | 2.2 × 101 | 7.0 × 10−1 | 1.9 × 101 | 3.2 × 10−5 | 8.7 × 10−4
-Tc-99 | | 4.0 × 101 | 1.1 × 103 | 9.0 × 10−1 | 2.4 × 101 | 6.3 × 10−4 | 1.7 × 10−2
-Tc-99m | | 1.0 × 101 | 2.7 × 102 | 4.0 | 1.1 × 102 | 1.9 × 105 | 5.3 × 106
-Te-121 | Tellurium (52) | 2.0 | 5.4 × 101 | 2.0 | 5.4 × 101 | 2.4 × 103 | 6.4 × 104
-Te-121m | | 5.0 | 1.4 × 102 | 3.0 | 8.1 × 101 | 2.6 × 102 | 7.0 × 103
-Te-123m | | 8.0 | 2.2 × 102 | 1.0 | 2.7 × 101 | 3.3 × 102 | 8.9 × 103
-Te-125m | | 2.0 × 101 | 5.4 × 102 | 9.0 × 10−1 | 2.4 × 101 | 6.7 × 102 | 1.8 × 104
-Te-127 | | 2.0 × 101 | 5.4 × 102 | 7.0 × 10−1 | 1.9 × 101 | 9.8 × 104 | 2.6 × 106
-Te-127m (a) | | 2.0 × 101 | 5.4 × 102 | 5.0 × 10−1 | 1.4 × 101 | 3.5 × 102 | 9.4 × 103
-Te-129 | | 7.0 × 10−1 | 1.9 × 101 | 6.0 × 10−1 | 1.6 × 101 | 7.7 × 105 | 2.1 × 107
-Te-129m (a) | | 8.0 × 10−1 | 2.2 × 101 | 4.0 × 10−1 | 1.1 × 101 | 1.1 × 103 | 3.0 × 104
-Te-131m (a) | | 7.0 × 10−1 | 1.9 × 101 | 5.0 × 10−1 | 1.4 × 101 | 3.0 × 104 | 8.0 × 105
-Te-132 (a) | | 5.0 × 10−1 | 1.4 × 101 | 4.0 × 10−1 | 1.1 × 101 | 1.1 × 104 | 3.0 × 105
-Th-227 | Thorium (90) | 1.0 × 101 | 2.7 × 102 | 5.0 × 10−3 | 1.4 × 10−1 | 1.1 × 103 | 3.1 × 104
-Th-228 (a) | | 5.0 × 10−1 | 1.4 × 101 | 1.0 × 10−3 | 2.7 × 10−2 | 3.0 × 101 | 8.2 × 102
-Th-229 | | 5.0 | 1.4 × 102 | 5.0 × 10−4 | 1.4 × 10−2 | 7.9 × 10−3 | 2.1 × 10−1
-Th-230 | | 1.0 × 101 | 2.7 × 102 | 1.0 × 10−3 | 2.7 × 10−2 | 7.6 × 10−4 | 2.1 × 10−2
-Th-231 | | 4.0 × 101 | 1.1 × 103 | 2.0 × 10−2 | 5.4 × 10−1 | 2.0 × 104 | 5.3 × 105
-Th-232 | | Unlimited | Unlimited | Unlimited | Unlimited | 4.0 × 10−9 | 1.1 × 10−7
-Th-234 (a) | | 3.0 × 10−1 | 8.1 | 3.0 × 10−1 | 8.1 | 8.6 × 102 | 2.3 × 104
-Th(nat) | | Unlimited | Unlimited | Unlimited | Unlimited | 8.1 × 10−9 | 2.2 × 10−7
-Ti-44 (a) | Titanium (22) | 5.0 × 10−1 | 1.4 × 101 | 4.0 × 10−1 | 1.1 × 101 | 6.4 | 1.7 × 102
-Tl-200 | Thallium (81) | 9.0 × 10−1 | 2.4 × 101 | 9.0 × 10−1 | 2.4 × 101 | 2.2 × 104 | 6.0 × 105
-Tl-201 | | 1.0 × 101 | 2.7 × 102 | 4.0 | 1.1 × 102 | 7.9 × 103 | 2.1 × 105
-Tl-202 | | 2.0 | 5.4 × 101 | 2.0 | 5.4 × 101 | 2.0 × 103 | 5.3 × 104
-Tl-204 | | 1.0 × 101 | 2.7 × 102 | 7.0 × 10−1 | 1.9 × 101 | 1.7 × 101 | 4.6 × 102
-Tm-167 | Thulium (69) | 7.0 | 1.9 × 102 | 8.0 × 10−1 | 2.2 × 101 | 3.1 × 103 | 8.5 × 104
-Tm-170 | | 3.0 | 8.1 × 101 | 6.0 × 10−1 | 1.6 × 101 | 2.2 × 102 | 6.0 × 103
-Tm-171 | | 4.0 × 101 | 1.1 × 103 | 4.0 × 101 | 1.1 × 103 | 4.0 × 101 | 1.1 × 103
-U-230 (fast lung absorption) (a)(d) | Uranium (92) | 4.0 × 101 | 1.1 × 103 | 1.0 × 10−1 | 2.7 | 1.0 × 103 | 2.7 × 104
-U-230 (medium lung absorption) (a)(e) | | 4.0 × 101 | 1.1 × 103 | 4.0 × 10−3 | 1.1 × 10−1 | 1.0 × 103 | 2.7 × 104
-U-230 (slow lung absorption) (a)(f) | | 3.0 × 101 | 8.1 × 102 | 3.0 × 10−3 | 8.1 × 10−2 | 1.0 × 103 | 2.7 × 104
-U-232 (fast lung absorption) (d) | | 4.0 × 101 | 1.1 × 103 | 1.0 × 10−2 | 2.7 × 10−1 | 8.3 × 10−1 | 2.2 × 101
-U-232 (medium lung absorption) (e) | | 4.0 × 101 | 1.1 × 103 | 7.0 × 10−3 | 1.9 × 10−1 | 8.3 × 10−1 | 2.2 × 101
-U-232 (slow lung absorption) (f) | | 1.0 × 101 | 2.7 × 102 | 1.0 × 10−3 | 2.7 × 10−2 | 8.3 × 10−1 | 2.2 × 101
-U-233 (fast lung absorption) (d) | | 4.0 × 101 | 1.1 × 103 | 9.0 × 10−2 | 2.4 | 3.6 × 10−4 | 9.7 × 10−3
-U-233 (medium lung absorption) (e) | | 4.0 × 101 | 1.1 × 103 | 2.0 × 10−2 | 5.4 × 10−1 | 3.6 × 10−4 | 9.7 × 10−3
-U-233 (slow lung absorption) (f) | | 4.0 × 101 | 1.1 × 103 | 6.0 × 10−3 | 1.6 × 10−1 | 3.6 × 10−4 | 9.7 × 10−3
-U-234 (fast lung absorption) (d) | | 4.0 × 101 | 1.1 × 103 | 9.0 × 10−2 | 2.4 | 2.3 × 10−4 | 6.2 × 10−3
-U-234 (medium lung absorption) (e) | | 4.0 × 101 | 1.1 × 103 | 2.0 × 10−2 | 5.4 × 10−1 | 2.3 × 10−4 | 6.2 × 10−3
-U-234 (slow lung absorption) (f) | | 4.0 × 101 | 1.1 × 103 | 6.0 × 10−3 | 1.6 × 10−1 | 2.3 × 10−4 | 6.2 × 10−3
-U-235 (all lung absorption types) (a),(d),(e),(f) | | Unlimited | Unlimited | Unlimited | Unlimited | 8.0 × 10−8 | 2.2 × 10−6
-U-236 (fast lung absorption) (d) | | Unlimited | Unlimited | Unlimited | Unlimited | 2.4 × 10−6 | 6.5 × 10−5
-U-236 (medium lung absorption) (e) | | 4.0 × 101 | 1.1 × 103 | 2.0 × 10−2 | 5.4 × 10−1 | 2.4 × 10−6 | 6.5 × 10−5
-U-236 (slow lung absorption) (f) | | 4.0 × 101 | 1.1 × 103 | 6.0 × 10−3 | 1.6 × 10−1 | 2.4 × 10−6 | 6.5 × 10−5
-U-238 (all lung absorption types) (d),(e),(f) | | Unlimited | Unlimited | Unlimited | Unlimited | 1.2 × 10−8 | 3.4 × 10−7
-U (nat) | | Unlimited | Unlimited | Unlimited | Unlimited | 2.6 × 10−8 | 7.1 × 10−7
+Table A-1—A 1 and A 2 Values For Radionuclides
+Symbol of radionuclide | Element and atomic number | A 1 (TBq) | A 1 (Ci) b | A 2 (TBq) | A 2 (Ci) b | Specific activity | (TBq/g) | (Ci/g)
+Ac-225 (a) | Actinium (89) | 8.0 × 10 −1 | 2.2 × 10 1 | 6.0 × 10 −3 | 1.6 × 10 −1 | 2.1 × 10 3 | 5.8 × 10 4
+Ac-227 (a) | | 9.0 × 10 −1 | 2.4 × 10 1 | 9.0 × 10 −5 | 2.4 × 10 −3 | 2.7 | 7.2 × 10 1
+Ac-228 | | 6.0 × 10 −1 | 1.6 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 8.4 × 10 4 | 2.2 × 10 6
+Ag-105 | Silver (47) | 2.0 | 5.4 × 10 1 | 2.0 | 5.4 × 10 1 | 1.1 × 10 3 | 3.0 × 10 4
+Ag-108m (a) | | 7.0 × 10 −1 | 1.9 × 10 1 | 7.0 × 10 −1 | 1.9 × 10 1 | 9.7 × 10 −1 | 2.6 × 10 1
+Ag-110m (a) | | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 1.8 × 10 2 | 4.7 × 10 3
+Ag-111 | | 2.0 | 5.4 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 5.8 × 10 3 | 1.6 × 10 5
+Al-26 | Aluminum (13) | 1.0 × 10 −1 | 2.7 | 1.0 × 10 −1 | 2.7 | 7.0 × 10 −4 | 1.9 × 10 −2
+Am-241 | Americium (95) | 1.0 × 10 1 | 2.7 × 10 2 | 1.0 × 10 −3 | 2.7 × 10 −2 | 1.3 × 10 −1 | 3.4
+Am-242m (a) | | 1.0 × 10 1 | 2.7 × 10 2 | 1.0 × 10 −3 | 2.7 × 10 −2 | 3.6 × 10 −1 | 1.0 × 10 1
+Am-243 (a) | | 5.0 | 1.4 × 10 2 | 1.0 × 10 −3 | 2.7 × 10 −2 | 7.4 × 10 −3 | 2.0 × 10 −1
+Ar-37 | Argon (18) | 4.0 × 10 1 | 1.1 × 10 3 | 4.0 × 10 1 | 1.1 × 10 3 | 3.7 × 10 3 | 9.9 × 10 4
+Ar-39 | | 4.0 × 10 1 | 1.1 × 10 3 | 2.0 × 10 1 | 5.4 × 10 2 | 1.3 | 3.4 × 10 1
+Ar-41 | | 3.0 × 10 −1 | 8.1 | 3.0 × 10 −1 | 8.1 | 1.5 × 10 6 | 4.2 × 10 7
+As-72 | Arsenic (33) | 3.0 × 10 −1 | 8.1 | 3.0 × 10 −1 | 8.1 | 6.2 × 10 4 | 1.7 × 10 6
+As-73 | | 4.0 × 10 1 | 1.1 × 10 3 | 4.0 × 10 1 | 1.1 × 10 3 | 8.2 × 10 2 | 2.2 × 10 4
+As-74 | | 1.0 | 2.7 × 10 1 | 9.0 × 10 −1 | 2.4 × 10 1 | 3.7 × 10 3 | 9.9 × 10 4
+As-76 | | 3.0 × 10 −1 | 8.1 | 3.0 × 10 −1 | 8.1 | 5.8 × 10 4 | 1.6 × 10 6
+As-77 | | 2.0 × 10 1 | 5.4 × 10 2 | 7.0 × 10 −1 | 1.9 × 10 1 | 3.9 × 10 4 | 1.0 × 10 6
+At-211 (a) | Astatine (85) | 2.0 × 10 1 | 5.4 × 10 2 | 5.0 × 10 −1 | 1.4 × 10 1 | 7.6 × 10 4 | 2.1 × 10 6
+Au-193 | Gold (79) | 7.0 | 1.9 × 10 2 | 2.0 | 5.4 × 10 1 | 3.4 × 10 4 | 9.2 × 10 5
+Au-194 | | 1.0 | 2.7 × 10 1 | 1.0 | 2.7 × 10 1 | 1.5 × 10 4 | 4.1 × 10 5
+Au-195 | | 1.0 × 10 1 | 2.7 × 10 2 | 6.0 | 1.6 × 10 2 | 1.4 × 10 2 | 3.7 × 10 3
+Au-198 | | 1.0 | 2.7 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 9.0 × 10 3 | 2.4 × 10 5
+Au-199 | | 1.0 × 10 1 | 2.7 × 10 2 | 6.0 × 10 −1 | 1.6 × 10 1 | 7.7 × 10 3 | 2.1 × 10 5
+Ba-131 (a) | Barium (56) | 2.0 | 5.4 × 10 1 | 2.0 | 5.4 × 10 1 | 3.1 × 10 3 | 8.4 × 10 4
+Ba-133 | | 3.0 | 8.1 × 10 1 | 3.0 | 8.1 × 10 1 | 9.4 | 2.6 × 10 2
+Ba-133m | | 2.0 × 10 1 | 5.4 × 10 2 | 6.0 × 10 −1 | 1.6 × 10 1 | 2.2 × 10 4 | 6.1 × 10 5
+Ba-140 (a) | | 5.0 × 10 −1 | 1.4 × 10 1 | 3.0 × 10 −1 | 8.1 | 2.7 × 10 3 | 7.3 × 10 4
+Be-7 | Beryllium (4) | 2.0 × 10 1 | 5.4 × 10 2 | 2.0 × 10 1 | 5.4 × 10 2 | 1.3 × 10 4 | 3.5 × 10 5
+Be-10 | | 4.0 × 10 1 | 1.1 × 10 3 | 6.0 × 10 −1 | 1.6 × 10 1 | 8.3 × 10 −4 | 2.2 × 10 −2
+Bi-205 | Bismuth (83) | 7.0 × 10 −1 | 1.9 × 10 1 | 7.0 × 10 −1 | 1.9 × 10 1 | 1.5 × 10 3 | 4.2 × 10 4
+Bi-206 | | 3.0 × 10 −1 | 8.1 | 3.0 × 10 −1 | 8.1 | 3.8 × 10 3 | 1.0 × 10 5
+Bi-207 | | 7.0 × 10 −1 | 1.9 × 10 1 | 7.0 × 10 −1 | 1.9 × 10 1 | 1.9 | 5.2 × 10 1
+Bi-210 | | 1.0 | 2.7 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 4.6 × 10 3 | 1.2 × 10 5
+Bi-210m (a) | | 6.0 × 10 −1 | 1.6 × 10 1 | 2.0 × 10 −2 | 5.4 × 10 −1 | 2.1 × 10 −5 | 5.7 × 10 −4
+Bi-212 (a) | | 7.0 × 10 −1 | 1.9 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 5.4 × 10 5 | 1.5 × 10 7
+Bk-247 | Berkelium (97) | 8.0 | 2.2 × 10 2 | 8.0 × 10 −4 | 2.2 × 10 −2 | 3.8 × 10 −2 | 1.0
+Bk-249 (a) | | 4.0 × 10 1 | 1.1 × 10 3 | 3.0 × 10 −1 | 8.1 | 6.1 × 10 1 | 1.6 × 10 3
+Br-76 | Bromine (35) | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 9.4 × 10 4 | 2.5 × 10 6
+Br-77 | | 3.0 | 8.1 × 10 1 | 3.0 | 8.1 × 10 1 | 2.6 × 10 4 | 7.1 × 10 5
+Br-82 | | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 4 | 1.1 × 10 6
+C-11 | Carbon (6) | 1.0 | 2.7 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 3.1 × 10 7 | 8.4 × 10 8
+C-14 | | 4.0 × 10 1 | 1.1 × 10 3 | 3.0 | 8.1 × 10 1 | 1.6 × 10 −1 | 4.5
+Ca-41 | Calcium (20) | Unlimited | Unlimited | Unlimited | Unlimited | 3.1 × 10 −3 | 8.5 × 10 −2
+Ca-45 | | 4.0 × 10 1 | 1.1 × 10 3 | 1.0 | 2.7 × 10 1 | 6.6 × 10 2 | 1.8 × 10 4
+Ca-47 (a) | | 3.0 | 8.1 × 10 1 | 3.0 × 10 −1 | 8.1 | 2.3 × 10 4 | 6.1 × 10 5
+Cd-109 | Cadmium (48) | 3.0 × 10 1 | 8.1 × 10 2 | 2.0 | 5.4 × 10 1 | 9.6 × 10 1 | 2.6 × 10 3
+Cd-113m | | 4.0 × 10 1 | 1.1 × 10 3 | 5.0 × 10 −1 | 1.4 × 10 1 | 8.3 | 2.2 × 10 2
+Cd-115 (a) | | 3.0 | 8.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 1.9 × 10 4 | 5.1 × 10 5
+Cd-115m | | 5.0 × 10 −1 | 1.4 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 9.4 × 10 2 | 2.5 × 10 4
+Ce-139 | Cerium (58) | 7.0 | 1.9 × 10 2 | 2.0 | 5.4 × 10 1 | 2.5 × 10 2 | 6.8 × 10 3
+Ce-141 | | 2.0 × 10 1 | 5.4 × 10 2 | 6.0 × 10 −1 | 1.6 × 10 1 | 1.1 × 10 3 | 2.8 × 10 4
+Ce-143 | | 9.0 × 10 −1 | 2.4 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 2.5 × 10 4 | 6.6 × 10 5
+Ce-144 (a) | | 2.0 × 10 −1 | 5.4 | 2.0 × 10 −1 | 5.4 | 1.2 × 10 2 | 3.2 × 10 3
+Cf-248 | Californium (98) | 4.0 × 10 1 | 1.1 × 10 3 | 6.0 × 10 −3 | 1.6 × 10 −1 | 5.8 × 10 1 | 1.6 × 10 3
+Cf-249 | | 3.0 | 8.1 × 10 1 | 8.0 × 10 −4 | 2.2 × 10 −2 | 1.5 × 10 −1 | 4.1
+Cf-250 | | 2.0 × 10 1 | 5.4 × 10 2 | 2.0 × 10 −3 | 5.4 × 10 −2 | 4.0 | 1.1 × 10 2
+Cf-251 | | 7.0 | 1.9 × 10 2 | 7.0 × 10 −4 | 1.9 × 10 −2 | 5.9 × 10 −2 | 1.6
+Cf-252 | | 1.0 × 10 −1 | 2.7 | 3.0 × 10 −3 | 8.1 × 10 −2 | 2.0 × 10 1 | 5.4 × 10 2
+Cf-253 (a) | | 4.0 × 10 1 | 1.1 × 10 3 | 4.0 × 10 −2 | 1.1 | 1.1 × 10 3 | 2.9 × 10 4
+Cf-254 | | 1.0 × 10 −3 | 2.7 × 10 −2 | 1.0 × 10 −3 | 2.7 × 10 −2 | 3.1 × 10 2 | 8.5 × 10 3
+Cl-36 | Chlorine (17) | 1.0 × 10 1 | 2.7 × 10 2 | 6.0 × 10 −1 | 1.6 × 10 1 | 1.2 × 10 −3 | 3.3 × 10 −2
+Cl-38 | | 2.0 × 10 −1 | 5.4 | 2.0 × 10 −1 | 5.4 | 4.9 × 10 6 | 1.3 × 10 8
+Cm-240 | Curium (96) | 4.0 × 10 1 | 1.1 × 10 3 | 2.0 × 10 −2 | 5.4 × 10 −1 | 7.5 × 10 2 | 2.0 × 10 4
+Cm-241 | | 2.0 | 5.4 × 10 1 | 1.0 | 2.7 × 10 1 | 6.1 × 10 2 | 1.7 × 10 4
+Cm-242 | | 4.0 × 10 1 | 1.1 × 10 3 | 1.0 × 10 −2 | 2.7 × 10 −1 | 1.2 × 10 2 | 3.3 × 10 3
+Cm-243 | | 9.0 | 2.4 × 10 2 | 1.0 × 10 −3 | 2.7 × 10 −2 | 1.9 × 10 −3 | 5.2 × 10 1
+Cm-244 | | 2.0 × 10 1 | 5.4 × 10 2 | 2.0 × 10 −3 | 5.4 × 10 −2 | 3.0 | 8.1 × 10 1
+Cm-245 | | 9.0 | 2.4 × 10 2 | 9.0 × 10 −4 | 2.4 × 10 −2 | 6.4 × 10 −3 | 1.7 × 10 −1
+Cm-246 | | 9.0 | 2.4 × 10 2 | 9.0 × 10 −4 | 2.4 × 10 −2 | 1.1 × 10 −2 | 3.1 × 10 −1
+Cm-247 (a) | | 3.0 | 8.1 × 10 1 | 1.0 × 10 −3 | 2.7 × 10 −2 | 3.4 × 10 −6 | 9.3 × 10 −5
+Cm-248 | | 2.0 × 10 −2 | 5.4 × 10 −1 | 3.0 × 10 −4 | 8.1 × 10 −3 | 1.6 × 10 −4 | 4.2 × 10 −3
+Co-55 | Cobalt (27) | 5.0 × 10 −1 | 1.4 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 1.1 × 10 5 | 3.1 × 10 6
+Co-56 | | 3.0 × 10 −1 | 8.1 | 3.0 × 10 −1 | 8.1 | 1.1 × 10 3 | 3.0 × 10 4
+Co-57 | | 1.0 × 10 1 | 2.7 × 10 2 | 1.0 × 10 1 | 2.7 × 10 2 | 3.1 × 10 2 | 8.4 × 10 3
+Co-58 | | 1.0 | 2.7 × 10 1 | 1.0 | 2.7 × 10 1 | 1.2 × 10 3 | 3.2 × 10 4
+Co-58m | | 4.0 × 10 1 | 1.1 × 10 3 | 4.0 × 10 1 | 1.1 × 10 3 | 2.2 × 10 5 | 5.9 × 10 6
+Co-60 | | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 4.2 × 10 1 | 1.1 × 10 3
+Cr-51 | Chromium (24) | 3.0 × 10 1 | 8.1 × 10 2 | 3.0 × 10 1 | 8.1 × 10 2 | 3.4 × 10 3 | 9.2 × 10 4
+Cs-129 | Cesium (55) | 4.0 | 1.1 × 10 2 | 4.0 | 1.1 × 10 2 | 2.8 × 10 4 | 7.6 × 10 5
+Cs-131 | | 3.0 × 10 1 | 8.1 × 10 2 | 3.0 × 10 1 | 8.1 × 10 2 | 3.8 × 10 3 | 1.0 × 10 5
+Cs-132 | | 1.0 | 2.7 × 10 1 | 1.0 | 2.7 × 10 1 | 5.7 × 10 3 | 1.5 × 10 5
+Cs-134 | | 7.0 × 10 −1 | 1.9 × 10 1 | 7.0 × 10 −1 | 1.9 × 10 1 | 4.8 × 10 1 | 1.3 × 10 3
+Cs-134m | | 4.0 × 10 1 | 1.1 × 10 3 | 6.0 × 10 −1 | 1.6 × 10 1 | 3.0 × 10 5 | 8.0 × 10 6
+Cs-135 | | 4.0 × 10 1 | 1.1 × 10 3 | 1.0 | 2.7 × 10 1 | 4.3 × 10 −5 | 1.2 × 10 −3
+Cs-136 | | 5.0 × 10 −1 | 1.4 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 2.7 × 10 3 | 7.3 × 10 4
+Cs-137 (a) | | 2.0 | 5.4 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 3.2 | 8.7 × 10 1
+Cu-64 | Copper (29) | 6.0 | 1.6 × 10 2 | 1.0 | 2.7 × 10 1 | 1.4 × 10 5 | 3.9 × 10 6
+Cu-67 | | 1.0 × 10 1 | 2.7 × 10 2 | 7.0 × 10 −1 | 1.9 × 10 1 | 2.8 × 10 4 | 7.6 × 10 5
+Dy-159 | Dysprosium (66) | 2.0 × 10 1 | 5.4 × 10 2 | 2.0 × 10 1 | 5.4 × 10 2 | 2.1 × 10 2 | 5.7 × 10 3
+Dy-165 | | 9.0 × 10 −1 | 2.4 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 3.0 × 10 5 | 8.2 × 10 6
+Dy-166 (a) | | 9.0 × 10 −1 | 2.4 × 10 1 | 3.0 × 10 −1 | 8.1 | 8.6 × 10 3 | 2.3 × 10 5
+Er-169 | Erbium (68) | 4.0 × 10 1 | 1.1 × 10 3 | 1.0 | 2.7 × 10 1 | 3.1 × 10 3 | 8.3 × 10 4
+Er-171 | | 8.0 × 10 −1 | 2.2 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 9.0 × 10 4 | 2.4 × 10 6
+Eu-147 | Europium (63) | 2.0 | 5.4 × 10 1 | 2.0 | 5.4 × 10 1 | 1.4 × 10 3 | 3.7 × 10 4
+Eu-148 | | 5.0 × 10 −1 | 1.4 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 6.0 × 10 2 | 1.6 × 10 4
+Eu-149 | | 2.0 × 10 1 | 5.4 × 10 2 | 2.0 × 10 1 | 5.4 × 10 2 | 3.5 × 10 2 | 9.4 × 10 3
+Eu-150 (short lived) | | 2.0 | 5.4 × 10 1 | 7.0 × 10 −1 | 1.9 × 10 1 | 6.1 × 10 4 | 1.6 × 10 6
+Eu-150 (long lived) | | 7.0 × 10 −1 | 1.9 × 10 1 | 7.0 × 10 −1 | 1.9 × 10 1 | 6.1 × 10 4 | 1.6 × 10 6
+Eu-152 | | 1.0 | 2.7 × 10 1 | 1.0 | 2.7 × 10 1 | 6.5 | 1.8 × 10 2
+Eu-152m | | 8.0 × 10 −1 | 2.2 × 10 1 | 8.0 × 10 −1 | 2.2 × 10 1 | 8.2 × 10 4 | 2.2 × 10 6
+Eu-154 | | 9.0 × 10 −1 | 2.4 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 9.8 | 2.6 × 10 2
+Eu-155 | | 2.0 × 10 1 | 5.4 × 10 2 | 3.0 | 8.1 × 10 1 | 1.8 × 10 1 | 4.9 × 10 2
+Eu-156 | | 7.0 × 10 −1 | 1.9 × 10 1 | 7.0 × 10 −1 | 1.9 × 10 1 | 2.0 × 10 3 | 5.5 × 10 4
+F-18 | Fluorine (9) | 1.0 | 2.7 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 3.5 × 10 6 | 9.5 × 10 7
+Fe-52 (a) | Iron (26) | 3.0 × 10 −1 | 8.1 | 3.0 × 10 −1 | 8.1 | 2.7 × 10 5 | 7.3 × 10 6
+Fe-55 | | 4.0 × 10 1 | 1.1 × 10 3 | 4.0 × 10 1 | 1.1 × 10 3 | 8.8 × 10 1 | 2.4 × 10 3
+Fe-59 | | 9.0 × 10 −1 | 2.4 × 10 1 | 9.0 × 10 −1 | 2.4 × 10 1 | 1.8 × 10 3 | 5.0 × 10 4
+Fe-60 (a) | | 4.0 × 10 1 | 1.1 × 10 3 | 2.0 × 10 −1 | 5.4 | 7.4 × 10 −4 | 2.0 × 10 −2
+Ga-67 | Gallium (31) | 7.0 | 1.9 × 10 2 | 3.0 | 8.1 × 10 1 | 2.2 × 10 4 | 6.0 × 10 5
+Ga-68 | | 5.0 × 10 −1 | 1.4 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 1.5 × 10 6 | 4.1 × 10 7
+Ga-72 | | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 1.1 × 10 5 | 3.1 × 10 6
+Gd-146 (a) | Gadolinium (64) | 5.0 × 10 −1 | 1.4 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 6.9 × 10 2 | 1.9 × 10 4
+Gd-148 | | 2.0 × 10 1 | 5.4 × 10 2 | 2.0 × 10 −3 | 5.4 × 10 −2 | 1.2 | 3.2 × 10 1
+Gd-153 | | 1.0 × 10 1 | 2.7 × 10 2 | 9.0 | 2.4 × 10 2 | 1.3 × 10 2 | 3.5 × 10 3
+Gd-159 | | 3.0 | 8.1 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 3.9 × 10 4 | 1.1 × 10 6
+Ge-68 (a) | Germanium (32) | 5.0 × 10 −1 | 1.4 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 2.6 × 10 2 | 7.1 × 10 3
+Ge-71 | | 4.0 × 10 1 | 1.1 × 10 3 | 4.0 × 10 1 | 1.1 × 10 3 | 5.8 × 10 3 | 1.6 × 10 5
+Ge-77 | | 3.0 × 10 −1 | 8.1 | 3.0 × 10 −1 | 8.1 | 1.3 × 10 5 | 3.6 × 10 6
+Hf-172 (a) | Hafnium (72) | 6.0 × 10 −1 | 1.6 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 4.1 × 10 1 | 1.1 × 10 3
+Hf-175 | | 3.0 | 8.1 × 10 1 | 3.0 | 8.1 × 10 1 | 3.9 × 10 2 | 1.1 × 10 4
+Hf-181 | | 2.0 | 5.4 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 6.3 × 10 2 | 1.7 × 10 4
+Hf-182 | | Unlimited | Unlimited | Unlimited | Unlimited | 8.1 × 10 −6 | 2.2 × 10 −4
+Hg-194 (a) | Mercury (80) | 1.0 | 2.7 × 10 1 | 1.0 | 2.7 × 10 1 | 1.3 × 10 −1 | 3.5
+Hg-195m (a) | | 3.0 | 8.1 × 10 1 | 7.0 × 10 −1 | 1.9 × 10 1 | 1.5 × 10 4 | 4.0 × 10 5
+Hg-197 | | 2.0 × 10 1 | 5.4 × 10 2 | 1.0 × 10 1 | 2.7 × 10 2 | 9.2 × 10 3 | 2.5 × 10 5
+Hg-197m | | 1.0 × 10 1 | 2.7 × 10 2 | 4.0 × 10 −1 | 1.1 × 10 1 | 2.5 × 10 4 | 6.7 × 10 5
+Hg-203 | | 5.0 | 1.4 × 10 2 | 1.0 | 2.7 × 10 1 | 5.1 × 10 2 | 1.4 × 10 4
+Ho-166 | Holmium (67) | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 2.6 × 10 4 | 7.0 × 10 5
+Ho-166m | | 6.0 × 10 −1 | 1.6 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 6.6 × 10 −2 | 1.8
+I-123 | Iodine (53) | 6.0 | 1.6 × 10 2 | 3.0 | 8.1 × 10 1 | 7.1 × 10 4 | 1.9 × 10 6
+I-124 | | 1.0 | 2.7 × 10 1 | 1.0 | 2.7 × 10 1 | 9.3 × 10 3 | 2.5 × 10 5
+I-125 | | 2.0 × 10 1 | 5.4 × 10 2 | 3.0 | 8.1 × 10 1 | 6.4 × 10 2 | 1.7 × 10 4
+I-126 | | 2.0 | 5.4 × 10 1 | 1.0 | 2.7 × 10 1 | 2.9 × 10 3 | 8.0 × 10 4
+I-129 | | Unlimited | Unlimited | Unlimited | Unlimited | 6.5 × 10 −6 | 1.8 × 10 −4
+I-131 | | 3.0 | 8.1 × 10 1 | 7.0 × 10 −1 | 1.9 × 10 1 | 4.6 × 10 3 | 1.2 × 10 5
+I-132 | | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 3.8 × 10 5 | 1.0 × 10 7
+I-133 | | 7.0 × 10 −1 | 1.9 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 4.2 × 10 4 | 1.1 × 10 6
+I-134 | | 3.0 × 10 −1 | 8.1 | 3.0 × 10 −1 | 8.1 | 9.9 × 10 5 | 2.7 × 10 7
+I-135 (a) | | 6.0 × 10 −1 | 1.6 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 1.3 × 10 5 | 3.5 × 10 6
+In-111 | Indium (49) | 3.0 | 8.1 × 10 1 | 3.0 | 8.1 × 10 1 | 1.5 × 10 4 | 4.2 × 10 5
+In-113m | | 4.0 | 1.1 × 10 2 | 2.0 | 5.4 × 10 1 | 6.2 × 10 5 | 1.7 × 10 7
+In-114m (a) | | 1.0 × 10 1 | 2.7 × 10 2 | 5.0 × 10 −1 | 1.4 × 10 1 | 8.6 × 10 2 | 2.3 × 10 4
+In-115m | | 7.0 | 1.9 × 10 2 | 1.0 | 2.7 × 10 1 | 2.2 × 10 5 | 6.1 × 10 6
+Ir-189 (a) | Iridium (77) | 1.0 × 10 1 | 2.7 × 10 2 | 1.0 × 10 1 | 2.7 × 10 2 | 1.9 × 10 3 | 5.2 × 10 4
+Ir-190 | | 7.0 × 10 −1 | 1.9 × 10 1 | 7.0 × 10 −1 | 1.9 × 10 1 | 2.3 × 10 3 | 6.2 × 10 4
+Ir-192 | | c 1.0 | c 2.7 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 3.4 × 10 2 | 9.2 × 10 3
+Ir-194 | | 3.0 × 10 −1 | 8.1 | 3.0 × 10 −1 | 8.1 | 3.1 × 10 4 | 8.4 × 10 5
+K-40 | Potassium (19) | 9.0 × 10 −1 | 2.4 × 10 1 | 9.0 × 10 −1 | 2.4 × 10 1 | 2.4 × 10 −7 | 6.4 × 10 −6
+K-42 | | 2.0 × 10 −1 | 5.4 | 2.0 × 10 −1 | 5.4 | 2.2 × 10 5 | 6.0 × 10 6
+K-43 | | 7.0 × 10 −1 | 1.9 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 1.2 × 10 5 | 3.3 × 10 6
+Kr-79 | Krypton (36) | 4.0 | 1.1 × 10 2 | 2.0 | 5.4 × 10 1 | 4.2 × 10 4 | 1.1 × 10 6
+Kr-81 | | 4.0 × 10 1 | 1.1 × 10 3 | 4.0 × 10 1 | 1.1 × 10 3 | 7.8 × 10 −4 | 2.1 × 10 −2
+Kr-85 | | 1.0 × 10 1 | 2.7 × 10 2 | 1.0 × 10 1 | 2.7 × 10 2 | 1.5 × 10 1 | 3.9 × 10 2
+Kr-85m | | 8.0 | 2.2 × 10 2 | 3.0 | 8.1 × 10 1 | 3.0 × 10 5 | 8.2 × 10 6
+Kr-87 | | 2.0 × 10 −1 | 5.4 | 2.0 × 10 −1 | 5.4 | 1.0 × 10 6 | 2.8 × 10 7
+La-137 | Lanthanum (57) | 3.0 × 10 1 | 8.1 × 10 2 | 6.0 | 1.6 × 10 2 | 1.6 × 10 −3 | 4.4 × 10 −2
+La-140 | | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 2.1 × 10 4 | 5.6 × 10 5
+Lu-172 | Lutetium (71) | 6.0 × 10 −1 | 1.6 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 4.2 × 10 3 | 1.1 × 10 5
+Lu-173 | | 8.0 | 2.2 × 10 2 | 8.0 | 2.2 × 10 2 | 5.6 × 10 1 | 1.5 × 10 3
+Lu-174 | | 9.0 | 2.4 × 10 2 | 9.0 | 2.4 × 10 2 | 2.3 × 10 1 | 6.2 × 10 2
+Lu-174m | | 2.0 × 10 1 | 5.4 × 10 2 | 1.0 × 10 1 | 2.7 × 10 2 | 2.0 × 10 2 | 5.3 × 10 3
+Lu-177 | | 3.0 × 10 1 | 8.1 × 10 2 | 7.0 × 10 −1 | 1.9 × 10 1 | 4.1 × 10 3 | 1.1 × 10 5
+Mg-28 (a) | Magnesium (12) | 3.0 × 10 −1 | 8.1 | 3.0 × 10 −1 | 8.1 | 2.0 × 10 5 | 5.4 × 10 6
+Mn-52 | Manganese (25) | 3.0 × 10 −1 | 8.1 | 3.0 × 10 −1 | 8.1 | 1.6 × 10 4 | 4.4 × 10 5
+Mn-53 | | Unlimited | Unlimited | Unlimited | Unlimited | 6.8 × 10 −5 | 1.8 × 10 −3
+Mn-54 | | 1.0 | 2.7 × 10 1 | 1.0 | 2.7 × 10 1 | 2.9 × 10 2 | 7.7 × 10 3
+Mn-56 | | 3.0 × 10 −1 | 8.1 | 3.0 × 10 −1 | 8.1 | 8.0 × 10 5 | 2.2 × 10 7
+Mo-93 | Molybdenum (42) | 4.0 × 10 1 | 1.1 × 10 3 | 2.0 × 10 1 | 5.4 × 10 2 | 4.1 × 10 −2 | 1.1
+Mo-99 a h | | 1.0 | 2.7 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 1.8 × 10 4 | 4.8 × 10 5
+N-13 | Nitrogen (7) | 9.0 × 10 −1 | 2.4 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 5.4 × 10 7 | 1.5 × 10 9
+Na-22 | Sodium (11) | 5.0 × 10 −1 | 1.4 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 2.3 × 10 2 | 6.3 × 10 3
+Na-24 | | 2.0 × 10 −1 | 5.4 | 2.0 × 10 −1 | 5.4 | 3.2 × 10 5 | 8.7 × 10 6
+Nb-93m | Niobium (41) | 4.0 × 10 1 | 1.1 × 10 3 | 3.0 × 10 1 | 8.1 × 10 2 | 8.8 | 2.4 × 10 2
+Nb-94 | | 7.0 × 10 −1 | 1.9 × 10 1 | 7.0 × 10 −1 | 1.9 × 10 1 | 6.9 × 10 −3 | 1.9 × 10 −1
+Nb-95 | | 1.0 | 2.7 × 10 1 | 1.0 | 2.7 × 10 1 | 1.5 × 10 3 | 3.9 × 10 4
+Nb-97 | | 9.0 × 10 −1 | 2.4 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 9.9 × 10 5 | 2.7 × 10 7
+Nd-147 | Neodymium (60) | 6.0 | 1.6 × 10 2 | 6.0 × 10 −1 | 1.6 × 10 1 | 3.0 × 10 3 | 8.1 × 10 4
+Nd-149 | | 6.0 × 10 −1 | 1.6 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 4.5 × 10 5 | 1.2 × 10 7
+Ni-59 | Nickel (28) | Unlimited | Unlimited | Unlimited | Unlimited | 3.0 × 10 −3 | 8.0 × 10 −2
+Ni-63 | | 4.0 × 10 1 | 1.1 × 10 3 | 3.0 × 10 1 | 8.1 × 10 2 | 2.1 | 5.7 × 10 1
+Ni-65 | | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 7.1 × 10 5 | 1.9 × 10 7
+Np-235 | Neptunium (93) | 4.0 × 10 1 | 1.1 × 10 3 | 4.0 × 10 1 | 1.1 × 10 3 | 5.2 × 10 1 | 1.4 × 10 3
+Np-236 (short-lived) | | 2.0 × 10 1 | 5.4 × 10 2 | 2.0 | 5.4 × 10 1 | 4.7 × 10 −4 | 1.3 × 10 −2
+Np-236 (long-lived) | | 9.0 × 10 0 | 2.4 × 10 2 | 2.0 × 10 −2 | 5.4 × 10 −1 | 4.7 × 10 −4 | 1.3 × 10 −2
+Np-237 | | 2.0 × 10 1 | 5.4 × 10 2 | 2.0 × 10 −3 | 5.4 × 10 −2 | 2.6 × 10 −5 | 7.1 × 10 −4
+Np-239 | | 7.0 | 1.9 × 10 2 | 4.0 × 10 −1 | 1.1 × 10 1 | 8.6 × 10 3 | 2.3 × 10 5
+Os-185 | Osmium (76) | 1.0 | 2.7 × 10 1 | 1.0 | 2.7 × 10 1 | 2.8 × 10 2 | 7.5 × 10 3
+Os-191 | | 1.0 × 10 1 | 2.7 × 10 2 | 2.0 | 5.4 × 10 1 | 1.6 × 10 3 | 4.4 × 10 4
+Os-191m | | 4.0 × 10 1 | 1.1 × 10 3 | 3.0 × 10 1 | 8.1 × 10 2 | 4.6 × 10 4 | 1.3 × 10 6
+Os-193 | | 2.0 | 5.4 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 2.0 × 10 4 | 5.3 × 10 5
+Os-194 (a) | | 3.0 × 10 −1 | 8.1 | 3.0 × 10 −1 | 8.1 | 1.1 × 10 1 | 3.1 × 10 2
+P-32 | Phosphorus (15) | 5.0 × 10 −1 | 1.4 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 1.1 × 10 4 | 2.9 × 10 5
+P-33 | | 4.0 × 10 1 | 1.1 × 10 3 | 1.0 | 2.7 × 10 1 | 5.8 × 10 3 | 1.6 × 10 5
+Pa-230 (a) | Protactinium (91) | 2.0 | 5.4 × 10 1 | 7.0 × 10 −2 | 1.9 | 1.2 × 10 3 | 3.3 × 10 4
+Pa-231 | | 4.0 | 1.1 × 10 2 | 4.0 × 10 −4 | 1.1 × 10 −2 | 1.7 × 10 −3 | 4.7 × 10 −2
+Pa-233 | | 5.0 | 1.4 × 10 2 | 7.0 × 10 −1 | 1.9 × 10 1 | 7.7 × 10 2 | 2.1 × 10 4
+Pb-201 | Lead (82) | 1.0 | 2.7 × 10 1 | 1.0 | 2.7 × 10 1 | 6.2 × 10 4 | 1.7 × 10 6
+Pb-202 | | 4.0 × 10 1 | 1.1 × 10 3 | 2.0 × 10 1 | 5.4 × 10 2 | 1.2 × 10 −4 | 3.4 × 10 −3
+Pb-203 | | 4.0 | 1.1 × 10 2 | 3.0 | 8.1 × 10 1 | 1.1 × 10 4 | 3.0 × 10 5
+Pb-205 | | Unlimited | Unlimited | Unlimited | Unlimited | 4.5 × 10 −6 | 1.2 × 10 −4
+Pb-210 (a) | | 1.0 | 2.7 × 10 1 | 5.0 × 10 −2 | 1.4 | 2.8 | 7.6 × 10 1
+Pb-212 (a) | | 7.0 × 10 −1 | 1.9 × 10 1 | 2.0 × 10 −1 | 5.4 | 5.1 × 10 4 | 1.4 × 10 6
+Pd-103 (a) | Palladium (46) | 4.0 × 10 1 | 1.1 × 10 3 | 4.0 × 10 1 | 1.1 × 10 3 | 2.8 × 10 3 | 7.5 × 10 4
+Pd-107 | | Unlimited | Unlimited | Unlimited | Unlimited | 1.9 × 10 −5 | 5.1 × 10 −4
+Pd-109 | | 2.0 | 5.4 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 7.9 × 10 4 | 2.1 × 10 6
+Pm-143 | Promethium (61) | 3.0 | 8.1 × 10 1 | 3.0 | 8.1 × 10 1 | 1.3 × 10 2 | 3.4 × 10 3
+Pm-144 | | 7.0 × 10 −1 | 1.9 × 10 1 | 7.0 × 10 −1 | 1.9 × 10 1 | 9.2 × 10 1 | 2.5 × 10 3
+Pm-145 | | 3.0 × 10 1 | 8.1 × 10 2 | 1.0 × 10 1 | 2.7 × 10 2 | 5.2 | 1.4 × 10 2
+Pm-147 | | 4.0 × 10 1 | 1.1 × 10 3 | 2.0 | 5.4 × 10 1 | 3.4 × 10 1 | 9.3 × 10 2
+Pm-148m (a) | | 8.0 × 10 −1 | 2.2 × 10 1 | 7.0 × 10 −1 | 1.9 × 10 1 | 7.9 × 10 2 | 2.1 × 10 4
+Pm-149 | | 2.0 | 5.4 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 1.5 × 10 4 | 4.0 × 10 5
+Pm-151 | | 2.0 | 5.4 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 2.7 × 10 4 | 7.3 × 10 5
+Po-210 | Polonium (84) | 4.0 × 10 1 | 1.1 × 10 3 | 2.0 × 10 −2 | 5.4 × 10 −1 | 1.7 × 10 2 | 4.5 × 10 3
+Pr-142 | Praseodymium (59) | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 4.3 × 10 4 | 1.2 × 10 6
+Pr-143 | | 3.0 | 8.1 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 2.5 × 10 3 | 6.7 × 10 4
+Pt-188 (a) | Platinum (78) | 1.0 | 2.7 × 10 1 | 8.0 × 10 −1 | 2.2 × 10 1 | 2.5 × 10 3 | 6.8 × 10 4
+Pt-191 | | 4.0 | 1.1 × 10 2 | 3.0 | 8.1 × 10 1 | 8.7 × 10 3 | 2.4 × 10 5
+Pt-193 | | 4.0 × 10 1 | 1.1 × 10 3 | 4.0 × 10 1 | 1.1 × 10 3 | 1.4 | 3.7 × 10 1
+Pt-193m | | 4.0 × 10 1 | 1.1 × 10 3 | 5.0 × 10 −1 | 1.4 × 10 1 | 5.8 × 10 3 | 1.6 × 10 5
+Pt-195m | | 1.0 × 10 1 | 2.7 × 10 2 | 5.0 × 10 −1 | 1.4 × 10 1 | 6.2 × 10 3 | 1.7 × 10 5
+Pt-197 | | 2.0 × 10 1 | 5.4 × 10 2 | 6.0 × 10 −1 | 1.6 × 10 1 | 3.2 × 10 4 | 8.7 × 10 5
+Pt-197m | | 1.0 × 10 1 | 2.7 × 10 2 | 6.0 × 10 −1 | 1.6 × 10 1 | 3.7 × 10 5 | 1.0 × 10 7
+Pu-236 | Plutonium (94) | 3.0 × 10 1 | 8.1 × 10 2 | 3.0 × 10 −3 | 8.1 × 10 −2 | 2.0 × 10 1 | 5.3 × 10 2
+Pu-237 | | 2.0 × 10 1 | 5.4 × 10 2 | 2.0 × 10 1 | 5.4 × 10 2 | 4.5 × 10 2 | 1.2 × 10 4
+Pu-238 | | 1.0 × 10 1 | 2.7 × 10 2 | 1.0 × 10 −3 | 2.7 × 10 −2 | 6.3 × 10 −1 | 1.7 × 10 1
+Pu-239 | | 1.0 × 10 1 | 2.7 × 10 2 | 1.0 × 10 −3 | 2.7 × 10 −2 | 2.3 × 10 −3 | 6.2 × 10 −2
+Pu-240 | | 1.0 × 10 1 | 2.7 × 10 2 | 1.0 × 10 −3 | 2.7 × 10 −2 | 8.4 × 10 −3 | 2.3 × 10 −1
+Pu-241 (a) | | 4.0 × 10 1 | 1.1 × 10 3 | 6.0 × 10 −2 | 1.6 | 3.8 | 1.0 × 10 2
+Pu-242 | | 1.0 × 10 1 | 2.7 × 10 2 | 1.0 × 10 −3 | 2.7 × 10 −2 | 1.5 × 10 −4 | 3.9 × 10 −3
+Pu-244 (a) | | 4.0 × 10 −1 | 1.1 × 10 1 | 1.0 × 10 −3 | 2.7 × 10 −2 | 6.7 × 10 −7 | 1.8 × 10 −5
+Ra-223 (a) | Radium (88) | 4.0 × 10 −1 | 1.1 × 10 1 | 7.0 × 10 −3 | 1.9 × 10 −1 | 1.9 × 10 3 | 5.1 × 10 4
+Ra-224 (a) | | 4.0 × 10 −1 | 1.1 × 10 1 | 2.0 × 10 −2 | 5.4 × 10 −1 | 5.9 × 10 3 | 1.6 × 10 5
+Ra-225 (a) | | 2.0 × 10 −1 | 5.4 | 4.0 × 10 −3 | 1.1 × 10 −1 | 1.5 × 10 3 | 3.9 × 10 4
+Ra-226 (a) | | 2.0 × 10 −1 | 5.4 | 3.0 × 10 −3 | 8.1 × 10 −2 | 3.7 × 10 −2 | 1.0
+Ra-228 (a) | | 6.0 × 10 −1 | 1.6 × 10 1 | 2.0 × 10 −2 | 5.4 × 10 −1 | 1.0 × 10 1 | 2.7 × 10 2
+Rb-81 | Rubidium (37) | 2.0 | 5.4 × 10 1 | 8.0 × 10 −1 | 2.2 × 10 1 | 3.1 × 10 5 | 8.4 × 10 6
+Rb-83 (a) | | 2.0 | 5.4 × 10 1 | 2.0 | 5.4 × 10 1 | 6.8 × 10 2 | 1.8 × 10 4
+Rb-84 | | 1.0 | 2.7 × 10 1 | 1.0 | 2.7 × 10 1 | 1.8 × 10 3 | 4.7 × 10 4
+Rb-86 | | 5.0 × 10 −1 | 1.4 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 3.0 × 10 3 | 8.1 × 10 4
+Rb-87 | | Unlimited | Unlimited | Unlimited | Unlimited | 3.2 × 10 −9 | 8.6 × 10 −8
+Rb(nat) | | Unlimited | Unlimited | Unlimited | Unlimited | 6.7 × 10 6 | 1.8 × 10 8
+Re-184 | Rhenium (75) | 1.0 | 2.7 × 10 1 | 1.0 | 2.7 × 10 1 | 6.9 × 10 2 | 1.9 × 10 4
+Re-184m | | 3.0 | 8.1 × 10 1 | 1.0 | 2.7 × 10 1 | 1.6 × 10 2 | 4.3 × 10 3
+Re-186 | | 2.0 | 5.4 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 6.9 × 10 3 | 1.9 × 10 5
+Re-187 | | Unlimited | Unlimited | Unlimited | Unlimited | 1.4 × 10 −9 | 3.8 × 10 −8
+Re-188 | | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 3.6 × 10 4 | 9.8 × 10 5
+Re-189 (a) | | 3.0 | 8.1 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 2.5 × 10 4 | 6.8 × 10 5
+Re(nat) | | Unlimited | Unlimited | Unlimited | Unlimited | 0.0 | 2.4 × 10 −8
+Rh-99 | Rhodium (45) | 2.0 | 5.4 × 10 1 | 2.0 | 5.4 × 10 1 | 3.0 × 10 3 | 8.2 × 10 4
+Rh-101 | | 4.0 | 1.1 × 10 2 | 3.0 | 8.1 × 10 1 | 4.1 × 10 1 | 1.1 × 10 3
+Rh-102 | | 5.0 × 10 −1 | 1.4 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 4.5 × 10 1 | 1.2 × 10 3
+Rh-102m | | 2.0 | 5.4 × 10 1 | 2.0 | 5.4 × 10 1 | 2.3 × 10 2 | 6.2 × 10 3
+Rh-103m | | 4.0 × 10 1 | 1.1 × 10 3 | 4.0 × 10 1 | 1.1 × 10 3 | 1.2 × 10 6 | 3.3 × 10 7
+Rh-105 | | 1.0 × 10 1 | 2.7 × 10 2 | 8.0 × 10 −1 | 2.2 × 10 1 | 3.1 × 10 4 | 8.4 × 10 5
+Rn-222 (a) | Radon (86) | 3.0 × 10 −1 | 8.1 | 4.0 × 10 −3 | 1.1 × 10 −1 | 5.7 × 10 3 | 1.5 × 10 5
+Ru-97 | Ruthenium (44) | 5.0 | 1.4 × 10 2 | 5.0 | 1.4 × 10 2 | 1.7 × 10 4 | 4.6 × 10 5
+Ru-103 (a) | | 2.0 | 5.4 × 10 1 | 2.0 | 5.4 × 10 1 | 1.2 × 10 3 | 3.2 × 10 4
+Ru-105 | | 1.0 | 2.7 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 2.5 × 10 5 | 6.7 × 10 6
+Ru-106 (a) | | 2.0 × 10 −1 | 5.4 | 2.0 × 10 −1 | 5.4 | 1.2 × 10 2 | 3.3 × 10 3
+S-35 | Sulphur (16) | 4.0 × 10 1 | 1.1 × 10 3 | 3.0 | 8.1 × 10 1 | 1.6 × 10 3 | 4.3 × 10 4
+Sb-122 | Antimony (51) | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 1.5 × 10 4 | 4.0 × 10 5
+Sb-124 | | 6.0 × 10 −1 | 1.6 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 6.5 × 10 2 | 1.7 × 10 4
+Sb-125 | | 2.0 | 5.4 × 10 1 | 1.0 | 2.7 × 10 1 | 3.9 × 10 1 | 1.0 × 10 3
+Sb-126 | | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 3.1 × 10 3 | 8.4 × 10 4
+Sc-44 | Scandium (21) | 5.0 × 10 −1 | 1.4 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 6.7 × 10 5 | 1.8 × 10 7
+Sc-46 | | 5.0 × 10 −1 | 1.4 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 1.3 × 10 3 | 3.4 × 10 4
+Sc-47 | | 1.0 × 10 1 | 2.7 × 10 2 | 7.0 × 10 −1 | 1.9 × 10 1 | 3.1 × 10 4 | 8.3 × 10 5
+Sc-48 | | 3.0 × 10 −1 | 8.1 | 3.0 × 10 −1 | 8.1 | 5.5 × 10 4 | 1.5 × 10 6
+Se-75 | Selenium (34) | 3.0 | 8.1 × 10 1 | 3.0 | 8.1 × 10 1 | 5.4 × 10 2 | 1.5 × 10 4
+Se-79 | | 4.0 × 10 1 | 1.1 × 10 3 | 2.0 | 5.4 × 10 1 | 2.6 × 10 −3 | 7.0 × 10 −2
+Si-31 | Silicon (14) | 6.0 × 10 −1 | 1.6 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 1.4 × 10 6 | 3.9 × 10 7
+Si-32 | | 4.0 × 10 1 | 1.1 × 10 3 | 5.0 × 10 −1 | 1.4 × 10 1 | 3.9 | 1.1 × 10 2
+Sm-145 | Samarium (62) | 1.0 × 10 1 | 2.7 × 10 2 | 1.0 × 10 1 | 2.7 × 10 2 | 9.8 × 10 1 | 2.6 × 10 3
+Sm-147 | | Unlimited | Unlimited | Unlimited | Unlimited | 8.5 × 10 −10 | 2.3 × 10 −8
+Sm-151 | | 4.0 × 10 1 | 1.1 × 10 3 | 1.0 × 10 1 | 2.7 × 10 2 | 9.7 × 10 −1 | 2.6 × 10 1
+Sm-153 | | 9.0 | 2.4 × 10 2 | 6.0 × 10 −1 | 1.6 × 10 1 | 1.6 × 10 4 | 4.4 × 10 5
+Sn-113 (a) | Tin (50) | 4.0 | 1.1 × 10 2 | 2.0 | 5.4 × 10 1 | 3.7 × 10 2 | 1.0 × 10 4
+Sn-117m | | 7.0 | 1.9 × 10 2 | 4.0 × 10 −1 | 1.1 × 10 1 | 3.0 × 10 3 | 8.2 × 10 4
+Sn-119m | | 4.0 × 10 1 | 1.1 × 10 3 | 3.0 × 10 1 | 8.1 × 10 2 | 1.4 × 10 2 | 3.7 × 10 3
+Sn-121m (a) | | 4.0 × 10 1 | 1.1 × 10 3 | 9.0 × 10 −1 | 2.4 × 10 1 | 2.0 | 5.4 × 10 1
+Sn-123 | | 8.0 × 10 −1 | 2.2 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 3.0 × 10 2 | 8.2 × 10 3
+Sn-125 | | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 3 | 1.1 × 10 5
+Sn-126 (a) | | 6.0 × 10 −1 | 1.6 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 1.0 × 10 −3 | 2.8 × 10 −2
+Sr-82 (a) | Strontium (38) | 2.0 × 10 −1 | 5.4 | 2.0 × 10 −1 | 5.4 | 2.3 × 10 3 | 6.2 × 10 4
+Sr-85 | | 2.0 | 5.4 × 10 1 | 2.0 | 5.4 × 10 1 | 8.8 × 10 2 | 2.4 × 10 4
+Sr-85m | | 5.0 | 1.4 × 10 2 | 5.0 | 1.4 × 10 2 | 1.2 × 10 6 | 3.3 × 10 7
+Sr-87m | | 3.0 | 8.1 × 10 1 | 3.0 | 8.1 × 10 1 | 4.8 × 10 5 | 1.3 × 10 7
+Sr-89 | | 6.0 × 10 −1 | 1.6 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 1.1 × 10 3 | 2.9 × 10 4
+Sr-90 (a) | | 3.0 × 10 −1 | 8.1 | 3.0 × 10 −1 | 8.1 | 5.1 | 1.4 × 10 2
+Sr-91 (a) | | 3.0 × 10 −1 | 8.1 | 3.0 × 10 −1 | 8.1 | 1.3 × 10 5 | 3.6 × 10 6
+Sr-92 (a) | | 1.0 | 2.7 × 10 1 | 3.0 × 10 −1 | 8.1 | 4.7 × 10 5 | 1.3 × 10 7
+T(H-3) | Tritium (1) | 4.0 × 10 1 | 1.1 × 10 3 | 4.0 × 10 1 | 1.1 × 10 3 | 3.6 × 10 2 | 9.7 × 10 3
+Ta-178 (long-lived) | Tantalum (73) | 1.0 | 2.7 × 10 1 | 8.0 × 10 −1 | 2.2 × 10 1 | 4.2 × 10 6 | 1.1 × 10 8
+Ta-179 | | 3.0 × 10 1 | 8.1 × 10 2 | 3.0 × 10 1 | 8.1 × 10 2 | 4.1 × 10 1 | 1.1 × 10 3
+Ta-182 | | 9.0 × 10 −1 | 2.4 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 2.3 × 10 2 | 6.2 × 10 3
+Tb-157 | Terbium (65) | 4.0 × 10 1 | 1.1 × 10 3 | 4.0 × 10 1 | 1.1 × 10 3 | 5.6 × 10 −1 | 1.5 × 10 1
+Tb-158 | | 1.0 | 2.7 × 10 1 | 1.0 | 2.7 × 10 1 | 5.6 × 10 −1 | 1.5 × 10 1
+Tb-160 | | 1.0 | 2.7 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 4.2 × 10 2 | 1.1 × 10 4
+Tc-95m (a) | Technetium (43) | 2.0 | 5.4 × 10 1 | 2.0 | 5.4 × 10 1 | 8.3 × 10 2 | 2.2 × 10 4
+Tc-96 | | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 1.2 × 10 4 | 3.2 × 10 5
+Tc-96m (a) | | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 1.4 × 10 6 | 3.8 × 10 7
+Tc-97 | | Unlimited | Unlimited | Unlimited | Unlimited | 5.2 × 10 −5 | 1.4 × 10 −3
+Tc-97m | | 4.0 × 10 1 | 1.1 × 10 3 | 1.0 | 2.7 × 10 1 | 5.6 × 10 2 | 1.5 × 10 4
+Tc-98 | | 8.0 × 10 −1 | 2.2 × 10 1 | 7.0 × 10 −1 | 1.9 × 10 1 | 3.2 × 10 −5 | 8.7 × 10 −4
+Tc-99 | | 4.0 × 10 1 | 1.1 × 10 3 | 9.0 × 10 −1 | 2.4 × 10 1 | 6.3 × 10 −4 | 1.7 × 10 −2
+Tc-99m | | 1.0 × 10 1 | 2.7 × 10 2 | 4.0 | 1.1 × 10 2 | 1.9 × 10 5 | 5.3 × 10 6
+Te-121 | Tellurium (52) | 2.0 | 5.4 × 10 1 | 2.0 | 5.4 × 10 1 | 2.4 × 10 3 | 6.4 × 10 4
+Te-121m | | 5.0 | 1.4 × 10 2 | 3.0 | 8.1 × 10 1 | 2.6 × 10 2 | 7.0 × 10 3
+Te-123m | | 8.0 | 2.2 × 10 2 | 1.0 | 2.7 × 10 1 | 3.3 × 10 2 | 8.9 × 10 3
+Te-125m | | 2.0 × 10 1 | 5.4 × 10 2 | 9.0 × 10 −1 | 2.4 × 10 1 | 6.7 × 10 2 | 1.8 × 10 4
+Te-127 | | 2.0 × 10 1 | 5.4 × 10 2 | 7.0 × 10 −1 | 1.9 × 10 1 | 9.8 × 10 4 | 2.6 × 10 6
+Te-127m (a) | | 2.0 × 10 1 | 5.4 × 10 2 | 5.0 × 10 −1 | 1.4 × 10 1 | 3.5 × 10 2 | 9.4 × 10 3
+Te-129 | | 7.0 × 10 −1 | 1.9 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 7.7 × 10 5 | 2.1 × 10 7
+Te-129m (a) | | 8.0 × 10 −1 | 2.2 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 1.1 × 10 3 | 3.0 × 10 4
+Te-131m (a) | | 7.0 × 10 −1 | 1.9 × 10 1 | 5.0 × 10 −1 | 1.4 × 10 1 | 3.0 × 10 4 | 8.0 × 10 5
+Te-132 (a) | | 5.0 × 10 −1 | 1.4 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 1.1 × 10 4 | 3.0 × 10 5
+Th-227 | Thorium (90) | 1.0 × 10 1 | 2.7 × 10 2 | 5.0 × 10 −3 | 1.4 × 10 −1 | 1.1 × 10 3 | 3.1 × 10 4
+Th-228 (a) | | 5.0 × 10 −1 | 1.4 × 10 1 | 1.0 × 10 −3 | 2.7 × 10 −2 | 3.0 × 10 1 | 8.2 × 10 2
+Th-229 | | 5.0 | 1.4 × 10 2 | 5.0 × 10 −4 | 1.4 × 10 −2 | 7.9 × 10 −3 | 2.1 × 10 −1
+Th-230 | | 1.0 × 10 1 | 2.7 × 10 2 | 1.0 × 10 −3 | 2.7 × 10 −2 | 7.6 × 10 −4 | 2.1 × 10 −2
+Th-231 | | 4.0 × 10 1 | 1.1 × 10 3 | 2.0 × 10 −2 | 5.4 × 10 −1 | 2.0 × 10 4 | 5.3 × 10 5
+Th-232 | | Unlimited | Unlimited | Unlimited | Unlimited | 4.0 × 10 −9 | 1.1 × 10 −7
+Th-234 (a) | | 3.0 × 10 −1 | 8.1 | 3.0 × 10 −1 | 8.1 | 8.6 × 10 2 | 2.3 × 10 4
+Th(nat) | | Unlimited | Unlimited | Unlimited | Unlimited | 8.1 × 10 −9 | 2.2 × 10 −7
+Ti-44 (a) | Titanium (22) | 5.0 × 10 −1 | 1.4 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 6.4 | 1.7 × 10 2
+Tl-200 | Thallium (81) | 9.0 × 10 −1 | 2.4 × 10 1 | 9.0 × 10 −1 | 2.4 × 10 1 | 2.2 × 10 4 | 6.0 × 10 5
+Tl-201 | | 1.0 × 10 1 | 2.7 × 10 2 | 4.0 | 1.1 × 10 2 | 7.9 × 10 3 | 2.1 × 10 5
+Tl-202 | | 2.0 | 5.4 × 10 1 | 2.0 | 5.4 × 10 1 | 2.0 × 10 3 | 5.3 × 10 4
+Tl-204 | | 1.0 × 10 1 | 2.7 × 10 2 | 7.0 × 10 −1 | 1.9 × 10 1 | 1.7 × 10 1 | 4.6 × 10 2
+Tm-167 | Thulium (69) | 7.0 | 1.9 × 10 2 | 8.0 × 10 −1 | 2.2 × 10 1 | 3.1 × 10 3 | 8.5 × 10 4
+Tm-170 | | 3.0 | 8.1 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 2.2 × 10 2 | 6.0 × 10 3
+Tm-171 | | 4.0 × 10 1 | 1.1 × 10 3 | 4.0 × 10 1 | 1.1 × 10 3 | 4.0 × 10 1 | 1.1 × 10 3
+U-230 (fast lung absorption) (a)(d) | Uranium (92) | 4.0 × 10 1 | 1.1 × 10 3 | 1.0 × 10 −1 | 2.7 | 1.0 × 10 3 | 2.7 × 10 4
+U-230 (medium lung absorption) (a)(e) | | 4.0 × 10 1 | 1.1 × 10 3 | 4.0 × 10 −3 | 1.1 × 10 −1 | 1.0 × 10 3 | 2.7 × 10 4
+U-230 (slow lung absorption) (a)(f) | | 3.0 × 10 1 | 8.1 × 10 2 | 3.0 × 10 −3 | 8.1 × 10 −2 | 1.0 × 10 3 | 2.7 × 10 4
+U-232 (fast lung absorption) (d) | | 4.0 × 10 1 | 1.1 × 10 3 | 1.0 × 10 −2 | 2.7 × 10 −1 | 8.3 × 10 −1 | 2.2 × 10 1
+U-232 (medium lung absorption) (e) | | 4.0 × 10 1 | 1.1 × 10 3 | 7.0 × 10 −3 | 1.9 × 10 −1 | 8.3 × 10 −1 | 2.2 × 10 1
+U-232 (slow lung absorption) (f) | | 1.0 × 10 1 | 2.7 × 10 2 | 1.0 × 10 −3 | 2.7 × 10 −2 | 8.3 × 10 −1 | 2.2 × 10 1
+U-233 (fast lung absorption) (d) | | 4.0 × 10 1 | 1.1 × 10 3 | 9.0 × 10 −2 | 2.4 | 3.6 × 10 −4 | 9.7 × 10 −3
+U-233 (medium lung absorption) (e) | | 4.0 × 10 1 | 1.1 × 10 3 | 2.0 × 10 −2 | 5.4 × 10 −1 | 3.6 × 10 −4 | 9.7 × 10 −3
+U-233 (slow lung absorption) (f) | | 4.0 × 10 1 | 1.1 × 10 3 | 6.0 × 10 −3 | 1.6 × 10 −1 | 3.6 × 10 −4 | 9.7 × 10 −3
+U-234 (fast lung absorption) (d) | | 4.0 × 10 1 | 1.1 × 10 3 | 9.0 × 10 −2 | 2.4 | 2.3 × 10 −4 | 6.2 × 10 −3
+U-234 (medium lung absorption) (e) | | 4.0 × 10 1 | 1.1 × 10 3 | 2.0 × 10 −2 | 5.4 × 10 −1 | 2.3 × 10 −4 | 6.2 × 10 −3
+U-234 (slow lung absorption) (f) | | 4.0 × 10 1 | 1.1 × 10 3 | 6.0 × 10 −3 | 1.6 × 10 −1 | 2.3 × 10 −4 | 6.2 × 10 −3
+U-235 (all lung absorption types) (a),(d),(e),(f) | | Unlimited | Unlimited | Unlimited | Unlimited | 8.0 × 10 −8 | 2.2 × 10 −6
+U-236 (fast lung absorption) (d) | | Unlimited | Unlimited | Unlimited | Unlimited | 2.4 × 10 −6 | 6.5 × 10 −5
+U-236 (medium lung absorption) (e) | | 4.0 × 10 1 | 1.1 × 10 3 | 2.0 × 10 −2 | 5.4 × 10 −1 | 2.4 × 10 −6 | 6.5 × 10 −5
+U-236 (slow lung absorption) (f) | | 4.0 × 10 1 | 1.1 × 10 3 | 6.0 × 10 −3 | 1.6 × 10 −1 | 2.4 × 10 −6 | 6.5 × 10 −5
+U-238 (all lung absorption types) (d),(e),(f) | | Unlimited | Unlimited | Unlimited | Unlimited | 1.2 × 10 −8 | 3.4 × 10 −7
+U (nat) | | Unlimited | Unlimited | Unlimited | Unlimited | 2.6 × 10 −8 | 7.1 × 10 −7
 U (enriched to 20% or less)(g) | | Unlimited | Unlimited | Unlimited | Unlimited | See Table A-4 | See Table A-4
 U (dep) | | Unlimited | Unlimited | Unlimited | Unlimited | See Table A-4 | See Table A-4
-V-48 | Vanadium (23) | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 6.3 × 103 | 1.7 × 105
-V-49 | | 4.0 × 101 | 1.1 × 103 | 4.0 × 101 | 1.1 × 103 | 3.0 × 102 | 8.1 × 103
-W-178 (a) | Tungsten (74) | 9.0 | 2.4 × 102 | 5.0 | 1.4 × 102 | 1.3 × 103 | 3.4 × 104
-W-181 | | 3.0 × 101 | 8.1 × 102 | 3.0 × 101 | 8.1 × 102 | 2.2 × 102 | 6.0 × 103
-W-185 | | 4.0 × 101 | 1.1 × 103 | 8.0 × 10−1 | 2.2 × 101 | 3.5 × 102 | 9.4 × 103
-W-187 | | 2.0 | 5.4 × 101 | 6.0 × 10−1 | 1.6 × 101 | 2.6 × 104 | 7.0 × 105
-W-188 (a) | | 4.0 × 10−1 | 1.1 × 101 | 3.0 × 10−1 | 8.1 | 3.7 × 102 | 1.0 × 104
-Xe-122 (a) | Xenon (54) | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 4.8 × 104 | 1.3 × 106
-Xe-123 | | 2.0 | 5.4 × 101 | 7.0 × 10−1 | 1.9 × 101 | 4.4 × 105 | 1.2 × 107
-Xe-127 | | 4.0 | 1.1 × 102 | 2.0 | 5.4 × 101 | 1.0 × 103 | 2.8 × 104
-Xe-131m | | 4.0 × 101 | 1.1 × 103 | 4.0 × 101 | 1.1 × 103 | 3.1 × 103 | 8.4 × 104
-Xe-133 | | 2.0 × 101 | 5.4 × 102 | 1.0 × 101 | 2.7 × 102 | 6.9 × 103 | 1.9 × 105
-Xe-135 | | 3.0 | 8.1 × 101 | 2.0 | 5.4 × 101 | 9.5 × 104 | 2.6 × 106
-Y-87 (a) | Yttrium (39) | 1.0 | 2.7 × 101 | 1.0 | 2.7 × 101 | 1.7 × 104 | 4.5 × 105
-Y-88 | | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 5.2 × 102 | 1.4 × 104
-Y-90 | | 3.0 × 10−1 | 8.1 | 3.0 × 10−1 | 8.1 | 2.0 × 104 | 5.4 × 105
-Y-91 | | 6.0 × 10−1 | 1.6 × 101 | 6.0 × 10−1 | 1.6 × 101 | 9.1 × 102 | 2.5 × 104
-Y-91m | | 2.0 | 5.4 × 101 | 2.0 | 5.4 × 101 | 1.5 × 106 | 4.2 × 107
-Y-92 | | 2.0 × 10−1 | 5.4 | 2.0 × 10−1 | 5.4 | 3.6 × 105 | 9.6 × 106
-Y-93 | | 3.0 × 10−1 | 8.1 | 3.0 × 10−1 | 8.1 | 1.2 × 105 | 3.3 × 106
-Yb-169 | Ytterbium (70) | 4.0 | 1.1 × 102 | 1.0 | 2.7 × 101 | 8.9 × 102 | 2.4 × 104
-Yb-175 | | 3.0 × 101 | 8.1 × 102 | 9.0 × 10−1 | 2.4 × 101 | 6.6 × 103 | 1.8 × 105
-Zn-65 | Zinc (30) | 2.0 | 5.4 × 101 | 2.0 | 5.4 × 101 | 3.0 × 102 | 8.2 × 103
-Zn-69 | | 3.0 | 8.1 × 101 | 6.0 × 10−1 | 1.6 × 101 | 1.8 × 106 | 4.9 × 107
-Zn-69m (a) | | 3.0 | 8.1 × 101 | 6.0 × 10−1 | 1.6 × 101 | 1.2 × 105 | 3.3 × 106
-Zr-88 | Zirconium (40) | 3.0 | 8.1 × 101 | 3.0 | 8.1 × 101 | 6.6 × 102 | 1.8 × 104
-Zr-93 | | Unlimited | Unlimited | Unlimited | Unlimited | 9.3 × 10−5 | 2.5 × 10−3
-Zr-95 (a) | | 2.0 | 5.4 × 101 | 8.0 × 10−1 | 2.2 × 101 | 7.9 × 102 | 2.1 × 104
-Zr-97 (a) | | 4.0 × 10−1 | 1.1 × 101 | 4.0 × 10−1 | 1.1 × 101 | 7.1 × 104 | 1.9 × 106
-a A1 and/or A2 values include contributions from daughter nuclides with half-lives less than 10 days, as listed in the following:
+V-48 | Vanadium (23) | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 6.3 × 10 3 | 1.7 × 10 5
+V-49 | | 4.0 × 10 1 | 1.1 × 10 3 | 4.0 × 10 1 | 1.1 × 10 3 | 3.0 × 10 2 | 8.1 × 10 3
+W-178 (a) | Tungsten (74) | 9.0 | 2.4 × 10 2 | 5.0 | 1.4 × 10 2 | 1.3 × 10 3 | 3.4 × 10 4
+W-181 | | 3.0 × 10 1 | 8.1 × 10 2 | 3.0 × 10 1 | 8.1 × 10 2 | 2.2 × 10 2 | 6.0 × 10 3
+W-185 | | 4.0 × 10 1 | 1.1 × 10 3 | 8.0 × 10 −1 | 2.2 × 10 1 | 3.5 × 10 2 | 9.4 × 10 3
+W-187 | | 2.0 | 5.4 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 2.6 × 10 4 | 7.0 × 10 5
+W-188 (a) | | 4.0 × 10 −1 | 1.1 × 10 1 | 3.0 × 10 −1 | 8.1 | 3.7 × 10 2 | 1.0 × 10 4
+Xe-122 (a) | Xenon (54) | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 4.8 × 10 4 | 1.3 × 10 6
+Xe-123 | | 2.0 | 5.4 × 10 1 | 7.0 × 10 −1 | 1.9 × 10 1 | 4.4 × 10 5 | 1.2 × 10 7
+Xe-127 | | 4.0 | 1.1 × 10 2 | 2.0 | 5.4 × 10 1 | 1.0 × 10 3 | 2.8 × 10 4
+Xe-131m | | 4.0 × 10 1 | 1.1 × 10 3 | 4.0 × 10 1 | 1.1 × 10 3 | 3.1 × 10 3 | 8.4 × 10 4
+Xe-133 | | 2.0 × 10 1 | 5.4 × 10 2 | 1.0 × 10 1 | 2.7 × 10 2 | 6.9 × 10 3 | 1.9 × 10 5
+Xe-135 | | 3.0 | 8.1 × 10 1 | 2.0 | 5.4 × 10 1 | 9.5 × 10 4 | 2.6 × 10 6
+Y-87 (a) | Yttrium (39) | 1.0 | 2.7 × 10 1 | 1.0 | 2.7 × 10 1 | 1.7 × 10 4 | 4.5 × 10 5
+Y-88 | | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 5.2 × 10 2 | 1.4 × 10 4
+Y-90 | | 3.0 × 10 −1 | 8.1 | 3.0 × 10 −1 | 8.1 | 2.0 × 10 4 | 5.4 × 10 5
+Y-91 | | 6.0 × 10 −1 | 1.6 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 9.1 × 10 2 | 2.5 × 10 4
+Y-91m | | 2.0 | 5.4 × 10 1 | 2.0 | 5.4 × 10 1 | 1.5 × 10 6 | 4.2 × 10 7
+Y-92 | | 2.0 × 10 −1 | 5.4 | 2.0 × 10 −1 | 5.4 | 3.6 × 10 5 | 9.6 × 10 6
+Y-93 | | 3.0 × 10 −1 | 8.1 | 3.0 × 10 −1 | 8.1 | 1.2 × 10 5 | 3.3 × 10 6
+Yb-169 | Ytterbium (70) | 4.0 | 1.1 × 10 2 | 1.0 | 2.7 × 10 1 | 8.9 × 10 2 | 2.4 × 10 4
+Yb-175 | | 3.0 × 10 1 | 8.1 × 10 2 | 9.0 × 10 −1 | 2.4 × 10 1 | 6.6 × 10 3 | 1.8 × 10 5
+Zn-65 | Zinc (30) | 2.0 | 5.4 × 10 1 | 2.0 | 5.4 × 10 1 | 3.0 × 10 2 | 8.2 × 10 3
+Zn-69 | | 3.0 | 8.1 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 1.8 × 10 6 | 4.9 × 10 7
+Zn-69m (a) | | 3.0 | 8.1 × 10 1 | 6.0 × 10 −1 | 1.6 × 10 1 | 1.2 × 10 5 | 3.3 × 10 6
+Zr-88 | Zirconium (40) | 3.0 | 8.1 × 10 1 | 3.0 | 8.1 × 10 1 | 6.6 × 10 2 | 1.8 × 10 4
+Zr-93 | | Unlimited | Unlimited | Unlimited | Unlimited | 9.3 × 10 −5 | 2.5 × 10 −3
+Zr-95 (a) | | 2.0 | 5.4 × 10 1 | 8.0 × 10 −1 | 2.2 × 10 1 | 7.9 × 10 2 | 2.1 × 10 4
+Zr-97 (a) | | 4.0 × 10 −1 | 1.1 × 10 1 | 4.0 × 10 −1 | 1.1 × 10 1 | 7.1 × 10 4 | 1.9 × 10 6
+a A 1 and/or A 2 values include contributions from daughter nuclides with half-lives less than 10 days, as listed in the following:
 Mg-28 | Al-28
 Ca-47 | Sc-47
 Ti-44 | Sc-44
@@ -489,398 +489,398 @@ Am-243 | Np-239
 Cm-247 | Pu-243
 Bk-249 | Am-245
 Cf-253 | Cm-249
-b The values of A1 and A2 in Curies (Ci) are approximate and for information only; the regulatory standard units are Terabecquerels (TBq) (see Appendix A to Part 71—Determination of A1 and A2, Section I).
+b The values of A 1 and A 2 in Curies (Ci) are approximate and for information only; the regulatory standard units are Terabecquerels (TBq) (see Appendix A to Part 71—Determination of A 1 and A 2, Section I).
 c The activity of Ir-192 in special form may be determined from a measurement of the rate of decay or a measurement of the radiation level at a prescribed distance from the source.
-d These values apply only to compounds of uranium that take the chemical form of UF6, UO2F2 and UO2(NO3)2 in both normal and accident conditions of transport.
-e These values apply only to compounds of uranium that take the chemical form of UO3, UF4, UCl4 and hexavalent compounds in both normal and accident conditions of transport.
+d These values apply only to compounds of uranium that take the chemical form of UF 6, UO 2 F 2 and UO 2 (NO 3) 2 in both normal and accident conditions of transport.
+e These values apply only to compounds of uranium that take the chemical form of UO 3, UF 4, UCl 4 and hexavalent compounds in both normal and accident conditions of transport.
 f These values apply to all compounds of uranium other than those specified in notes (d) and (e) of this table.
 g These values apply to unirradiated uranium only.
-h A2 = 0.74 TBq (20 Ci) for Mo-99 for domestic use.
+h A 2 = 0.74 TBq (20 Ci) for Mo-99 for domestic use.
 Table A-2—Exempt Material Activity Concentrations and Exempt Consignment Activity Limits for Radionuclides
-Symbol ofradionuclide | Element and atomic number | Activity concentration for exempt material(Bq/g) | Activity concentration for exempt material(Ci/g) | Activity limit for exempt consignment(Bq) | Activity limit for exempt consignment(Ci)
-Ac-225 | Actinium (89) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-Ac-227 | | 1.0 × 10−1 | 2.7 × 10−12 | 1.0 × 103 | 2.7 × 10−8
-Ac-228 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Ag-105 | Silver (47) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Ag-108m (b) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Ag-110m | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Ag-111 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Al-26 | Aluminum (13) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Am-241 | Americium (95) | 1.0 | 2.7 × 10−11 | 1.0 × 104 | 2.7 × 10−7
-Am-242m (b) | | 1.0 | 2.7 × 10−11 | 1.0 × 104 | 2.7 × 10−7
-Am-243 (b) | | 1.0 | 2.7 × 10−11 | 1.0 × 103 | 2.7 × 10−8
-Ar-37 | Argon (18) | 1.0 × 106 | 2.7 × 10−5 | 1.0 × 108 | 2.7 × 10−3
-Ar-39 | | 1.0 × 107 | 2.7 × 10−4 | 1.0 × 104 | 2.7 × 10−7
-Ar-41 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 109 | 2.7 × 10−2
-As-72 | Arsenic (33) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-As-73 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-As-74 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-As-76 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-As-77 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-At-211 | Astatine (85) | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Au-193 | Gold (79) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Au-194 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Au-195 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Au-198 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Au-199 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Ba-131 | Barium (56) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Ba-133 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Ba-133m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Ba-140 (b) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Be-7 | Beryllium (4) | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Be-10 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 106 | 2.7 × 10−5
-Bi-205 | Bismuth (83) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Bi-206 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Bi-207 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Bi-210 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Bi-210m | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Bi-212 (b) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Bk-247 | Berkelium (97) | 1.0 | 2.7 × 10−11 | 1.0 × 104 | 2.7 × 10−7
-Bk-249 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Br-76 | Bromine (35) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Br-77 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Br-82 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-C-11 | Carbon (6) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-C-14 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 107 | 2.7 × 10−4
-Ca-41 | Calcium (20) | 1.0 × 105 | 2.7 × 10−6 | 1.0 × 107 | 2.7 × 10−4
-Ca-45 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 107 | 2.7 × 10−4
-Ca-47 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Cd-109 | Cadmium (48) | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 106 | 2.7 × 10−5
-Cd-113m | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Cd-115 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Cd-115m | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Ce-139 | Cerium (58) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Ce-141 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Ce-143 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Ce-144 (b) | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-Cf-248 | Californium (98) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-Cf-249 | | 1.0 | 2.7 × 10−11 | 1.0 × 103 | 2.7 × 10−8
-Cf-250 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-Cf-251 | | 1.0 | 2.7 × 10−11 | 1.0 × 103 | 2.7 × 10−8
-Cf-252 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-Cf-253 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-Cf-254 | | 1.0 | 2.7 × 10−11 | 1.0 × 103 | 2.7 × 10−8
-Cl-36 | Chlorine (17) | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 106 | 2.7 × 10−5
-Cl-38 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Cm-240 | Curium (96) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-Cm-241 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Cm-242 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-Cm-243 | | 1.0 | 2.7 × 10−11 | 1.0 × 104 | 2.7 × 10−7
-Cm-244 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-Cm-245 | | 1.0 | 2.7 × 10−11 | 1.0 × 103 | 2.7 × 10−8
-Cm-246 | | 1.0 | 2.7 × 10−11 | 1.0 × 103 | 2.7 × 10−8
-Cm-247 | | 1.0 | 2.7 × 10−11 | 1.0 × 104 | 2.7 × 10−7
-Cm-248 | | 1.0 | 2.7 × 10−11 | 1.0 × 103 | 2.7 × 10−8
-Co-55 | Cobalt (27) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Co-56 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Co-57 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Co-58 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Co-58m | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 107 | 2.7 × 10−4
-Co-60 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Cr-51 | Chromium (24) | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Cs-129 | Cesium (55) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-Cs-131 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Cs-132 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Cs-134 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-Cs-134m | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 105 | 2.7 × 10−6
-Cs-135 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 107 | 2.7 × 10−4
-Cs-136 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Cs-137 (b) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-Cu-64 | Copper (29) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Cu-67 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Dy-159 | Dysprosium (66) | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Dy-165 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Dy-166 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Er-169 | Erbium (68) | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 107 | 2.7 × 10−4
-Er-171 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Eu-147 | Europium (63) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Eu-148 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Eu-149 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Eu-150 (short lived) | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Eu-150 (long lived) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Eu-152 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Eu-152m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Eu-154 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Eu-155 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Eu-156 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-F-18 | Fluorine (9) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Fe-52 | Iron (26) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Fe-55 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 106 | 2.7 × 10−5
-Fe-59 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Fe-60 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-Ga-67 | Gallium (31) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Ga-68 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Ga-72 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Gd-146 | Gadolinium (64) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Gd-148 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-Gd-153 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Gd-159 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Ge-68 | Germanium (32) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Ge-71 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 108 | 2.7 × 10−3
-Ge-77 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Hf-172 | Hafnium (72) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Hf-175 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Hf-181 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Hf-182 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Hg-194 | Mercury (80) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Hg-195m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Hg-197 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Hg-197m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Hg-203 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-Ho-166 | Holmium (67) | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 105 | 2.7 × 10−6
-Ho-166m | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-I-123 | Iodine (53) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-I-124 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-I-125 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-I-126 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-I-129 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-I-131 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-I-132 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-I-133 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-I-134 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-I-135 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-In-111 | Indium (49) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-In-113m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-In-114m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-In-115m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Ir-189 | Iridium (77) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Ir-190 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Ir-192 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-Ir-194 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-K-40 | Potassium (19) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-K-42 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-K-43 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Kr-79 | Krypton (36) | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 105 | 2.7 × 10−6
-Kr-81 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 107 | 2.7 × 10−4
-Kr-85 | | 1.0 × 105 | 2.7 × 10−6 | 1.0 × 104 | 2.7 × 10−7
-Kr-85m | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 1010 | 2.7 × 10−1
-Kr-87 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 109 | 2.7 × 10−2
-La-137 | Lanthanum (57) | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-La-140 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Lu-172 | Lutetium (71) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Lu-173 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Lu-174 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Lu-174m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Lu-177 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Mg-28 | Magnesium (12) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Mn-52 | Manganese (25) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Mn-53 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 109 | 2.7 × 10−2
-Mn-54 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Mn-56 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Mo-93 | Molybdenum (42) | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 108 | 2.7 × 10−3
-Mo-99 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-N-13 | Nitrogen (7) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 109 | 2.7 × 10−2
-Na-22 | Sodium (11) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Na-24 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Nb-93m | Niobium (41) | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 107 | 2.7 × 10−4
-Nb-94 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Nb-95 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Nb-97 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Nd-147 | Neodymium (60) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Nd-149 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Ni-59 | Nickel (28) | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 108 | 2.7 × 10−3
-Ni-63 | | 1.0 × 105 | 2.7 × 10−6 | 1.0 × 108 | 2.7 × 10−3
-Ni-65 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Np-235 | Neptunium (93) | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Np-236 (short-lived) | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Np-236 (long-lived) | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-Np-237 (b) | | 1.0 | 2.7 × 10−11 | 1.0 × 103 | 2.7 × 10−8
-Np-239 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Os-185 | Osmium (76) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Os-191 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Os-191m | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Os-193 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Os-194 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-P-32 | Phosphorus (15) | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 105 | 2.7 × 10−6
-P-33 | | 1.0 × 105 | 2.7 × 10−6 | 1.0 × 108 | 2.7 × 10−3
-Pa-230 | Protactinium (91) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Pa-231 | | 1.0 | 2.7 × 10−11 | 1.0 × 103 | 2.7 × 10−8
-Pa-233 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Pb-201 | Lead (82) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Pb-202 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Pb-203 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Pb-205 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 107 | 2.7 × 10−4
-Pb-210 (b) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-Pb-212 (b) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Pd-103 | Palladium (46) | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 108 | 2.7 × 10−3
-Pd-107 | | 1.0 × 105 | 2.7 × 10−6 | 1.0 × 108 | 2.7 × 10−3
-Pd-109 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Pm-143 | Promethium (61) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Pm-144 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Pm-145 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Pm-147 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 107 | 2.7 × 10−4
-Pm-148m | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Pm-149 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Pm-151 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Po-210 | Polonium (84) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-Pr-142 | Praseodymium (59) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-Pr-143 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 106 | 2.7 × 10−5
-Pt-188 | Platinum (78) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Pt-191 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Pt-193 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 107 | 2.7 × 10−4
-Pt-193m | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Pt-195m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Pt-197 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Pt-197m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Pu-236 | Plutonium (94) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-Pu-237 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Pu-238 | | 1.0 | 2.7 × 10−11 | 1.0 × 104 | 2.7 × 10−7
-Pu-239 | | 1.0 | 2.7 × 10−11 | 1.0 × 104 | 2.7 × 10−7
-Pu-240 | | 1.0 | 2.7 × 10−11 | 1.0 × 103 | 2.7 × 10−8
-Pu-241 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-Pu-242 | | 1.0 | 2.7 × 10−11 | 1.0 × 104 | 2.7 × 10−7
-Pu-244 | | 1.0 | 2.7 × 10−11 | 1.0 × 104 | 2.7 × 10−7
-Ra-223 (b) | Radium (88) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-Ra-224 (b) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Ra-225 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-Ra-226 (b) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-Ra-228 (b) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Rb-81 | Rubidium (37) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Rb-83 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Rb-84 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Rb-86 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-Rb-87 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 107 | 2.7 × 10−4
-Rb(nat) | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 107 | 2.7 × 10−4
-Re-184 | Rhenium (75) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Re-184m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Re-186 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Re-187 | | 1.0 × 106 | 2.7 × 10−5 | 1.0 × 109 | 2.7 × 10−2
-Re-188 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-Re-189 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Re(nat) | | 1.0 × 106 | 2.7 × 10−5 | 1.0 × 109 | 2.7 × 10−2
-Rh-99 | Rhodium (45) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Rh-101 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Rh-102 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Rh-102m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Rh-103m | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 108 | 2.7 × 10−3
-Rh-105 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Rn-222 (b) | Radon (86) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 108 | 2.7 × 10−3
-Ru-97 | Ruthenium (44) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Ru-103 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Ru-105 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Ru-106 (b) | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-S-35 | Sulphur (16) | 1.0 × 105 | 2.7 × 10−6 | 1.0 × 108 | 2.7 × 10−3
-Sb-122 | Antimony (51) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 104 | 2.7 × 10−7
-Sb-124 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Sb-125 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Sb-126 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Sc-44 | Scandium (21) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Sc-46 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Sc-47 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Sc-48 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Se-75 | Selenium (34) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Se-79 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 107 | 2.7 × 10−4
-Si-31 | Silicon (14) | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Si-32 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Sm-145 | Samarium (62) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Sm-147 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-Sm-151 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 108 | 2.7 × 10−3
-Sm-153 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Sn-113 | Tin (50) | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Sn-117m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Sn-119m | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Sn-121m | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Sn-123 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Sn-125 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-Sn-126 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Sr-82 | Strontium (38) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Sr-85 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Sr-85m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Sr-87m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Sr-89 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Sr-90 (b) | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 104 | 2.7 × 10−7
-Sr-91 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Sr-92 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-T(H-3) | Tritium (1) | 1.0 × 106 | 2.7 × 10−5 | 1.0 × 109 | 2.7 × 10−2
-Ta-178 (long-lived) | Tantalum (73) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Ta-179 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Ta-182 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-Tb-157 | Terbium (65) | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 107 | 2.7 × 10−4
-Tb-158 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Tb-160 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Tc-95m | Technetium (43) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Tc-96 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Tc-96m | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Tc-97 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 108 | 2.7 × 10−3
-Tc-97m | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Tc-98 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Tc-99 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 107 | 2.7 × 10−4
-Tc-99m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Te-121 | Tellurium (52) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Te-121m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Te-123m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Te-125m | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Te-127 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Te-127m | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Te-129 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Te-129m | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Te-131m | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Te-132 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Th-227 | Thorium (90) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-Th-228 (b) | | 1.0 | 2.7 × 10−11 | 1.0 × 104 | 2.7 × 10−7
-Th-229 (b) | | 1.0 | 2.7 × 10−11 | 1.0 × 103 | 2.7 × 10−8
-Th-230 | | 1.0 | 2.7 × 10−11 | 1.0 × 104 | 2.7 × 10−7
-Th-231 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Th-232 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-Th-234 (b) | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 105 | 2.7 × 10−6
-Th (nat) (b) | | 1.0 | 2.7 × 10−11 | 1.0 × 103 | 2.7 × 10−8
-Ti-44 | Titanium (22) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-Tl-200 | Thallium (81) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Tl-201 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Tl-202 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Tl-204 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 104 | 2.7 × 10−7
-Tm-167 | Thulium (69) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Tm-170 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Tm-171 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 108 | 2.7 × 10−3
-U-230 (fast lung absorption) (b),(d) | Uranium (92) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-U-230 (medium lung absorption) (e) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-U-230 (slow lung absorption) (f) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-U-232 (fast lung absorption) (b),(d) | | 1.0 | 2.7 × 10−11 | 1.0 × 103 | 2.7 × 10−8
-U-232 (medium lung absorption) (e) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-U-232 (slow lung absorption) (f) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-U-233 (fast lung absorption) (d) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-U-233 (medium lung absorption) (e) | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-U-233 (slow lung absorption) (f) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-U-234 (fast lung absorption) (d) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-U-234 (medium lung absorption) (e) | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-U-234 (slow lung absorption) (f) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-U-235 (all lung absorption types) (b),(d),(e),(f) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-U-236 (fast lung absorption) (d) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-U-236 (medium lung absorption) (e) | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-U-236 (slow lung absorption) (f) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-U-238 (all lung absorption types) (b),(d),(e),(f) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 104 | 2.7 × 10−7
-U (nat) (b) | | 1.0 | 2.7 × 10−11 | 1.0 × 103 | 2.7 × 10−8
-U (enriched to 20% or less)(g) | | 1.0 | 2.7 × 10−11 | 1.0 × 103 | 2.7 × 10−8
-U (dep) | | 1.0 | 2.7 × 10−11 | 1.0 × 103 | 2.7 × 10−8
-V-48 | Vanadium (23) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
-V-49 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 107 | 2.7 × 10−4
-W-178 | Tungsten (74) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-W-181 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-W-185 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 107 | 2.7 × 10−4
-W-187 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-W-188 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-Xe-122 | Xenon (54) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 109 | 2.7 × 10−2
-Xe-123 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 109 | 2.7 × 10−2
-Xe-127 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 105 | 2.7 × 10−6
-Xe-131m | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 104 | 2.7 × 10−7
-Xe-133 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 104 | 2.7 × 10−7
-Xe-135 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 1010 | 2.7 × 10−1
-Y-87 | Yttrium (39) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Y-88 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Y-90 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 105 | 2.7 × 10−6
-Y-91 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 106 | 2.7 × 10−5
-Y-91m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Y-92 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-Y-93 | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 105 | 2.7 × 10−6
-Yb-169 | Ytterbium (70) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 107 | 2.7 × 10−4
-Yb-175 | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Zn-65 | Zinc (30) | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Zn-69 | | 1.0 × 104 | 2.7 × 10−7 | 1.0 × 106 | 2.7 × 10−5
-Zn-69m | | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Zr-88 | Zirconium (40) | 1.0 × 102 | 2.7 × 10−9 | 1.0 × 106 | 2.7 × 10−5
-Zr-93 (b) | | 1.0 × 103 | 2.7 × 10−8 | 1.0 × 107 | 2.7 × 10−4
-Zr-95 | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 106 | 2.7 × 10−5
-Zr-97 (b) | | 1.0 × 101 | 2.7 × 10−10 | 1.0 × 105 | 2.7 × 10−6
+Symbol of radionuclide | Element and atomic number | Activity concentration for exempt material (Bq/g) | Activity concentration for exempt material (Ci/g) | Activity limit for exempt consignment (Bq) | Activity limit for exempt consignment (Ci)
+Ac-225 | Actinium (89) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+Ac-227 | | 1.0 × 10 −1 | 2.7 × 10 −12 | 1.0 × 10 3 | 2.7 × 10 −8
+Ac-228 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Ag-105 | Silver (47) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Ag-108m (b) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Ag-110m | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Ag-111 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Al-26 | Aluminum (13) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Am-241 | Americium (95) | 1.0 | 2.7 × 10 −11 | 1.0 × 10 4 | 2.7 × 10 −7
+Am-242m (b) | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 4 | 2.7 × 10 −7
+Am-243 (b) | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 3 | 2.7 × 10 −8
+Ar-37 | Argon (18) | 1.0 × 10 6 | 2.7 × 10 −5 | 1.0 × 10 8 | 2.7 × 10 −3
+Ar-39 | | 1.0 × 10 7 | 2.7 × 10 −4 | 1.0 × 10 4 | 2.7 × 10 −7
+Ar-41 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 9 | 2.7 × 10 −2
+As-72 | Arsenic (33) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+As-73 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+As-74 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+As-76 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+As-77 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+At-211 | Astatine (85) | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Au-193 | Gold (79) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Au-194 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Au-195 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Au-198 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Au-199 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Ba-131 | Barium (56) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Ba-133 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Ba-133m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Ba-140 (b) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Be-7 | Beryllium (4) | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Be-10 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 6 | 2.7 × 10 −5
+Bi-205 | Bismuth (83) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Bi-206 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Bi-207 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Bi-210 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Bi-210m | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Bi-212 (b) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Bk-247 | Berkelium (97) | 1.0 | 2.7 × 10 −11 | 1.0 × 10 4 | 2.7 × 10 −7
+Bk-249 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Br-76 | Bromine (35) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Br-77 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Br-82 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+C-11 | Carbon (6) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+C-14 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 7 | 2.7 × 10 −4
+Ca-41 | Calcium (20) | 1.0 × 10 5 | 2.7 × 10 −6 | 1.0 × 10 7 | 2.7 × 10 −4
+Ca-45 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 7 | 2.7 × 10 −4
+Ca-47 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Cd-109 | Cadmium (48) | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 6 | 2.7 × 10 −5
+Cd-113m | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Cd-115 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Cd-115m | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Ce-139 | Cerium (58) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Ce-141 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Ce-143 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Ce-144 (b) | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+Cf-248 | Californium (98) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+Cf-249 | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 3 | 2.7 × 10 −8
+Cf-250 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+Cf-251 | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 3 | 2.7 × 10 −8
+Cf-252 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+Cf-253 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+Cf-254 | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 3 | 2.7 × 10 −8
+Cl-36 | Chlorine (17) | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 6 | 2.7 × 10 −5
+Cl-38 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Cm-240 | Curium (96) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+Cm-241 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Cm-242 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+Cm-243 | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 4 | 2.7 × 10 −7
+Cm-244 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+Cm-245 | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 3 | 2.7 × 10 −8
+Cm-246 | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 3 | 2.7 × 10 −8
+Cm-247 | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 4 | 2.7 × 10 −7
+Cm-248 | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 3 | 2.7 × 10 −8
+Co-55 | Cobalt (27) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Co-56 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Co-57 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Co-58 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Co-58m | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 7 | 2.7 × 10 −4
+Co-60 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Cr-51 | Chromium (24) | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Cs-129 | Cesium (55) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+Cs-131 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Cs-132 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Cs-134 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+Cs-134m | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 5 | 2.7 × 10 −6
+Cs-135 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 7 | 2.7 × 10 −4
+Cs-136 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Cs-137 (b) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+Cu-64 | Copper (29) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Cu-67 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Dy-159 | Dysprosium (66) | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Dy-165 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Dy-166 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Er-169 | Erbium (68) | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 7 | 2.7 × 10 −4
+Er-171 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Eu-147 | Europium (63) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Eu-148 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Eu-149 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Eu-150 (short lived) | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Eu-150 (long lived) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Eu-152 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Eu-152m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Eu-154 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Eu-155 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Eu-156 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+F-18 | Fluorine (9) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Fe-52 | Iron (26) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Fe-55 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 6 | 2.7 × 10 −5
+Fe-59 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Fe-60 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+Ga-67 | Gallium (31) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Ga-68 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Ga-72 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Gd-146 | Gadolinium (64) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Gd-148 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+Gd-153 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Gd-159 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Ge-68 | Germanium (32) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Ge-71 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 8 | 2.7 × 10 −3
+Ge-77 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Hf-172 | Hafnium (72) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Hf-175 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Hf-181 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Hf-182 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Hg-194 | Mercury (80) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Hg-195m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Hg-197 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Hg-197m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Hg-203 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+Ho-166 | Holmium (67) | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 5 | 2.7 × 10 −6
+Ho-166m | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+I-123 | Iodine (53) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+I-124 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+I-125 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+I-126 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+I-129 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+I-131 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+I-132 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+I-133 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+I-134 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+I-135 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+In-111 | Indium (49) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+In-113m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+In-114m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+In-115m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Ir-189 | Iridium (77) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Ir-190 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Ir-192 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+Ir-194 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+K-40 | Potassium (19) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+K-42 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+K-43 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Kr-79 | Krypton (36) | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 5 | 2.7 × 10 −6
+Kr-81 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 7 | 2.7 × 10 −4
+Kr-85 | | 1.0 × 10 5 | 2.7 × 10 −6 | 1.0 × 10 4 | 2.7 × 10 −7
+Kr-85m | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 10 | 2.7 × 10 −1
+Kr-87 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 9 | 2.7 × 10 −2
+La-137 | Lanthanum (57) | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+La-140 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Lu-172 | Lutetium (71) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Lu-173 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Lu-174 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Lu-174m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Lu-177 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Mg-28 | Magnesium (12) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Mn-52 | Manganese (25) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Mn-53 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 9 | 2.7 × 10 −2
+Mn-54 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Mn-56 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Mo-93 | Molybdenum (42) | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 8 | 2.7 × 10 −3
+Mo-99 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+N-13 | Nitrogen (7) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 9 | 2.7 × 10 −2
+Na-22 | Sodium (11) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Na-24 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Nb-93m | Niobium (41) | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 7 | 2.7 × 10 −4
+Nb-94 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Nb-95 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Nb-97 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Nd-147 | Neodymium (60) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Nd-149 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Ni-59 | Nickel (28) | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 8 | 2.7 × 10 −3
+Ni-63 | | 1.0 × 10 5 | 2.7 × 10 −6 | 1.0 × 10 8 | 2.7 × 10 −3
+Ni-65 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Np-235 | Neptunium (93) | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Np-236 (short-lived) | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Np-236 (long-lived) | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+Np-237 (b) | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 3 | 2.7 × 10 −8
+Np-239 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Os-185 | Osmium (76) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Os-191 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Os-191m | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Os-193 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Os-194 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+P-32 | Phosphorus (15) | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 5 | 2.7 × 10 −6
+P-33 | | 1.0 × 10 5 | 2.7 × 10 −6 | 1.0 × 10 8 | 2.7 × 10 −3
+Pa-230 | Protactinium (91) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Pa-231 | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 3 | 2.7 × 10 −8
+Pa-233 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Pb-201 | Lead (82) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Pb-202 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Pb-203 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Pb-205 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 7 | 2.7 × 10 −4
+Pb-210 (b) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+Pb-212 (b) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Pd-103 | Palladium (46) | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 8 | 2.7 × 10 −3
+Pd-107 | | 1.0 × 10 5 | 2.7 × 10 −6 | 1.0 × 10 8 | 2.7 × 10 −3
+Pd-109 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Pm-143 | Promethium (61) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Pm-144 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Pm-145 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Pm-147 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 7 | 2.7 × 10 −4
+Pm-148m | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Pm-149 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Pm-151 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Po-210 | Polonium (84) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+Pr-142 | Praseodymium (59) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+Pr-143 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 6 | 2.7 × 10 −5
+Pt-188 | Platinum (78) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Pt-191 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Pt-193 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 7 | 2.7 × 10 −4
+Pt-193m | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Pt-195m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Pt-197 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Pt-197m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Pu-236 | Plutonium (94) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+Pu-237 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Pu-238 | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 4 | 2.7 × 10 −7
+Pu-239 | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 4 | 2.7 × 10 −7
+Pu-240 | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 3 | 2.7 × 10 −8
+Pu-241 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+Pu-242 | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 4 | 2.7 × 10 −7
+Pu-244 | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 4 | 2.7 × 10 −7
+Ra-223 (b) | Radium (88) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+Ra-224 (b) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Ra-225 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+Ra-226 (b) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+Ra-228 (b) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Rb-81 | Rubidium (37) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Rb-83 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Rb-84 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Rb-86 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+Rb-87 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 7 | 2.7 × 10 −4
+Rb(nat) | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 7 | 2.7 × 10 −4
+Re-184 | Rhenium (75) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Re-184m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Re-186 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Re-187 | | 1.0 × 10 6 | 2.7 × 10 −5 | 1.0 × 10 9 | 2.7 × 10 −2
+Re-188 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+Re-189 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Re(nat) | | 1.0 × 10 6 | 2.7 × 10 −5 | 1.0 × 10 9 | 2.7 × 10 −2
+Rh-99 | Rhodium (45) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Rh-101 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Rh-102 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Rh-102m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Rh-103m | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 8 | 2.7 × 10 −3
+Rh-105 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Rn-222 (b) | Radon (86) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 8 | 2.7 × 10 −3
+Ru-97 | Ruthenium (44) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Ru-103 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Ru-105 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Ru-106 (b) | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+S-35 | Sulphur (16) | 1.0 × 10 5 | 2.7 × 10 −6 | 1.0 × 10 8 | 2.7 × 10 −3
+Sb-122 | Antimony (51) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 4 | 2.7 × 10 −7
+Sb-124 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Sb-125 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Sb-126 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Sc-44 | Scandium (21) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Sc-46 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Sc-47 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Sc-48 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Se-75 | Selenium (34) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Se-79 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 7 | 2.7 × 10 −4
+Si-31 | Silicon (14) | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Si-32 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Sm-145 | Samarium (62) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Sm-147 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+Sm-151 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 8 | 2.7 × 10 −3
+Sm-153 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Sn-113 | Tin (50) | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Sn-117m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Sn-119m | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Sn-121m | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Sn-123 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Sn-125 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+Sn-126 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Sr-82 | Strontium (38) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Sr-85 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Sr-85m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Sr-87m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Sr-89 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Sr-90 (b) | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 4 | 2.7 × 10 −7
+Sr-91 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Sr-92 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+T(H-3) | Tritium (1) | 1.0 × 10 6 | 2.7 × 10 −5 | 1.0 × 10 9 | 2.7 × 10 −2
+Ta-178 (long-lived) | Tantalum (73) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Ta-179 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Ta-182 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+Tb-157 | Terbium (65) | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 7 | 2.7 × 10 −4
+Tb-158 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Tb-160 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Tc-95m | Technetium (43) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Tc-96 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Tc-96m | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Tc-97 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 8 | 2.7 × 10 −3
+Tc-97m | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Tc-98 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Tc-99 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 7 | 2.7 × 10 −4
+Tc-99m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Te-121 | Tellurium (52) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Te-121m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Te-123m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Te-125m | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Te-127 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Te-127m | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Te-129 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Te-129m | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Te-131m | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Te-132 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Th-227 | Thorium (90) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+Th-228 (b) | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 4 | 2.7 × 10 −7
+Th-229 (b) | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 3 | 2.7 × 10 −8
+Th-230 | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 4 | 2.7 × 10 −7
+Th-231 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Th-232 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+Th-234 (b) | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 5 | 2.7 × 10 −6
+Th (nat) (b) | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 3 | 2.7 × 10 −8
+Ti-44 | Titanium (22) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+Tl-200 | Thallium (81) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Tl-201 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Tl-202 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Tl-204 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 4 | 2.7 × 10 −7
+Tm-167 | Thulium (69) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Tm-170 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Tm-171 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 8 | 2.7 × 10 −3
+U-230 (fast lung absorption) (b),(d) | Uranium (92) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+U-230 (medium lung absorption) (e) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+U-230 (slow lung absorption) (f) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+U-232 (fast lung absorption) (b),(d) | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 3 | 2.7 × 10 −8
+U-232 (medium lung absorption) (e) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+U-232 (slow lung absorption) (f) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+U-233 (fast lung absorption) (d) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+U-233 (medium lung absorption) (e) | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+U-233 (slow lung absorption) (f) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+U-234 (fast lung absorption) (d) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+U-234 (medium lung absorption) (e) | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+U-234 (slow lung absorption) (f) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+U-235 (all lung absorption types) (b),(d),(e),(f) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+U-236 (fast lung absorption) (d) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+U-236 (medium lung absorption) (e) | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+U-236 (slow lung absorption) (f) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+U-238 (all lung absorption types) (b),(d),(e),(f) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 4 | 2.7 × 10 −7
+U (nat) (b) | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 3 | 2.7 × 10 −8
+U (enriched to 20% or less)(g) | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 3 | 2.7 × 10 −8
+U (dep) | | 1.0 | 2.7 × 10 −11 | 1.0 × 10 3 | 2.7 × 10 −8
+V-48 | Vanadium (23) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
+V-49 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 7 | 2.7 × 10 −4
+W-178 | Tungsten (74) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+W-181 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+W-185 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 7 | 2.7 × 10 −4
+W-187 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+W-188 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+Xe-122 | Xenon (54) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 9 | 2.7 × 10 −2
+Xe-123 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 9 | 2.7 × 10 −2
+Xe-127 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 5 | 2.7 × 10 −6
+Xe-131m | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 4 | 2.7 × 10 −7
+Xe-133 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 4 | 2.7 × 10 −7
+Xe-135 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 10 | 2.7 × 10 −1
+Y-87 | Yttrium (39) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Y-88 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Y-90 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 5 | 2.7 × 10 −6
+Y-91 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 6 | 2.7 × 10 −5
+Y-91m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Y-92 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+Y-93 | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 5 | 2.7 × 10 −6
+Yb-169 | Ytterbium (70) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 7 | 2.7 × 10 −4
+Yb-175 | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Zn-65 | Zinc (30) | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Zn-69 | | 1.0 × 10 4 | 2.7 × 10 −7 | 1.0 × 10 6 | 2.7 × 10 −5
+Zn-69m | | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Zr-88 | Zirconium (40) | 1.0 × 10 2 | 2.7 × 10 −9 | 1.0 × 10 6 | 2.7 × 10 −5
+Zr-93 (b) | | 1.0 × 10 3 | 2.7 × 10 −8 | 1.0 × 10 7 | 2.7 × 10 −4
+Zr-95 | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 6 | 2.7 × 10 −5
+Zr-97 (b) | | 1.0 × 10 1 | 2.7 × 10 −10 | 1.0 × 10 5 | 2.7 × 10 −6
 a [Reserved]
 b Parent nuclides and their progeny included in secular equilibrium are listed as follows:
 Sr-90 | Y-90
@@ -912,28 +912,28 @@ Np-237 | Pa-233
 Am-242m | Am-242
 Am-243 | Np-239
 c [Reserved]
-d These values apply only to compounds of uranium that take the chemical form of UF6, UO2F2 and UO2(NO3)2 in both normal and accident conditions of transport.
-e These values apply only to compounds of uranium that take the chemical form of UO3, UF4, UCl4 and hexavalent compounds in both normal and accident conditions of transport.
+d These values apply only to compounds of uranium that take the chemical form of UF 6, UO 2 F 2 and UO 2 (NO 3) 2 in both normal and accident conditions of transport.
+e These values apply only to compounds of uranium that take the chemical form of UO 3, UF 4, UCl 4 and hexavalent compounds in both normal and accident conditions of transport.
 f These values apply to all compounds of uranium other than those specified in notes (d) and (e) of this table.
 g These values apply to unirradiated uranium only.
-Table A-3—General Values for A1 and A2
-Contents | A1 | (TBq) | (Ci) | A2 | (TBq) | (Ci) | Activity concentration for exempt material(Bq/g) | Activity concentration for exempt material(Ci/g) | Activity limits for exempt consignments(Bq) | Activity limits for exempt consignments(Ci)
-Only beta or gamma emitting radionuclides are known to be present | 1 × 10−1 | 2.7 × 100 | 2 × 10−2 | 5.4 × 10−1 | 1 × 101 | 2.7 × 10−10 | 1 × 104 | 2.7 × 10−7
-Alpha emitting nuclides, but no neutron emitters, are known to be present (a) | 2 × 10− 1 | 5.4 × 100 | 9 × 10− 5 | 2.4 × 10− 3 | 1 × 10− 1 | 2.7 × 10− 12 | 1 × 103 | 2.7 × 10− 8
-Neutron emitting nuclides are known to be present or no relevant data are available | 1 × 10− 3 | 2.7 × 10− 2 | 9 × 10− 5 | 2.4 × 10− 3 | 1 × 10− 1 | 2.7 × 10− 12 | 1 × 103 | 2.7 × 10− 8
-a If beta or gamma emitting nuclides are known to be present, the A1 value of 0.1 TBq (2.7 Ci) should be used.
+Table A-3—General Values for A 1 and A 2
+Contents | A 1 | (TBq) | (Ci) | A 2 | (TBq) | (Ci) | Activity concentration for exempt material (Bq/g) | Activity concentration for exempt material (Ci/g) | Activity limits for exempt consignments (Bq) | Activity limits for exempt consignments (Ci)
+Only beta or gamma emitting radionuclides are known to be present | 1 × 10 −1 | 2.7 × 10 0 | 2 × 10 −2 | 5.4 × 10 −1 | 1 × 10 1 | 2.7 × 10 −10 | 1 × 10 4 | 2.7 × 10 −7
+Alpha emitting nuclides, but no neutron emitters, are known to be present (a) | 2 × 10 −1 | 5.4 × 10 0 | 9 × 10 −5 | 2.4 × 10 −3 | 1 × 10 −1 | 2.7 × 10 −12 | 1 × 10 3 | 2.7 × 10 −8
+Neutron emitting nuclides are known to be present or no relevant data are available | 1 × 10 −3 | 2.7 × 10 −2 | 9 × 10 −5 | 2.4 × 10 −3 | 1 × 10 −1 | 2.7 × 10 −12 | 1 × 10 3 | 2.7 × 10 −8
+a If beta or gamma emitting nuclides are known to be present, the A 1 value of 0.1 TBq (2.7 Ci) should be used.
 Table A-4—Activity-mass Relationships for Uranium
 Uranium Enrichment 1 wt % U-235 present | Specific Activity | TBq/g | Ci/g
-0.45 | 1.8 × 10−8 | 5.0 × 10−7
-0.72 | 2.6 × 10−8 | 7.1 × 10−7
-1 | 2.8 × 10−8 | 7.6 × 10−7
-1.5 | 3.7 × 10−8 | 1.0 × 10−6
-5 | 1.0 × 10−7 | 2.7 × 10−6
-10 | 1.8 × 10−7 | 4.8 × 10−6
-20 | 3.7 × 10−7 | 1.0 × 10−5
-35 | 7.4 × 10−7 | 2.0 × 10−5
-50 | 9.3 × 10−7 | 2.5 × 10−5
-90 | 2.2 × 10−6 | 5.8 × 10−5
-93 | 2.6 × 10−6 | 7.0 × 10−5
-95 | 3.4 × 10−6 | 9.1 × 10−5
+0.45 | 1.8 × 10 −8 | 5.0 × 10 −7
+0.72 | 2.6 × 10 −8 | 7.1 × 10 −7
+1 | 2.8 × 10 −8 | 7.6 × 10 −7
+1.5 | 3.7 × 10 −8 | 1.0 × 10 −6
+5 | 1.0 × 10 −7 | 2.7 × 10 −6
+10 | 1.8 × 10 −7 | 4.8 × 10 −6
+20 | 3.7 × 10 −7 | 1.0 × 10 −5
+35 | 7.4 × 10 −7 | 2.0 × 10 −5
+50 | 9.3 × 10 −7 | 2.5 × 10 −5
+90 | 2.2 × 10 −6 | 5.8 × 10 −5
+93 | 2.6 × 10 −6 | 7.0 × 10 −5
+95 | 3.4 × 10 −6 | 9.1 × 10 −5
 1 The figures for uranium include representative values for the activity of the uranium-234 that is concentrated during the enrichment process.
