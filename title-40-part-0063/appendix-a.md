@@ -158,7 +158,7 @@ d i = Difference in measured value between the candidate test method and the val
 d m = Mean of the differences, d i, between the candidate test method and the validated method.
 n = Number of quadruplicate sampling trains.
 11.1.3 T Test. Calculate the t-statistic using Equation 301-13.
-ER20MR18.012
+ER07OC20.017
 Where:
 t = Calculated t-statistic.
 d m = The mean of the differences, d i, between the candidate test method and the validated method.
@@ -1950,10 +1950,10 @@ ER15ap98.015
 12.3 Dry Sample Gas Volume, Corrected to Standard Conditions. Calculate the volume of gas sampled at standard conditions using Equation 308-2.
 ER15ap98.016
 12.4 Mass Emission Rate of Methanol. Calculate the mass emission rate of methanol using Equation 308-3.
-ER15ap98.017
+ER07OC20.018
 12.5 Recovery Fraction (R)
 ER14NO18.064
-ER14NO18.065
+ER07OC20.019
 13.0 Method Performance
 Since a potential sample may contain a variety of compounds from various sources, a specific precision limit for the analysis of field samples is impractical. Precision in the range of 5 to 10 percent relative standard deviation (RSD) is typical for gas chromatographic techniques, but an experienced GC operator with a reliable instrument can readily achieve 5 percent RSD. For this method, the following combined GC/operator values are required.
 (a) Precision. Calibration standards must meet the requirements in section 10.2.1 or 10.2.2 as applicable.
@@ -2288,7 +2288,7 @@ R = Recovery factor determined in section 9 of this method.
 16.0 References [Reserved]
 Method 311—Analysis of Hazardous Air Pollutant Compounds in Paints and Coatings by Direct Injection Into a Gas Chromatograph
 1. Scope and Application
-1.1 Applicability. This method is applicable for determination of most compounds designated by the U.S. Environmental Protection Agency as volatile hazardous air pollutants (HAP's) (See Reference 1) that are contained in paints and coatings. Styrene, ethyl acrylate, and methyl methacrylate can be measured by ASTM D 4827-93 or ASTM D 4747-87. Formaldehyde can be measured by ASTM PS 9-94 or ASTM D 1979-91. Toluene diisocyanate can be measured in urethane prepolymers by ASTM D 3432-89. Method 311 applies only to those volatile HAP's which are added to the coating when it is manufactured, not to those which may form as the coating cures (reaction products or cure volatiles). A separate or modified test procedure must be used to measure these reaction products or cure volatiles in order to determine the total volatile HAP emissions from a coating. Cure volatiles are a significant component of the total HAP content of some coatings. The term "coating" used in this method shall be understood to mean paints and coatings.
+1.1 Applicability. This method is applicable for determination of most compounds designated by the U.S. Environmental Protection Agency as volatile hazardous air pollutants (HAP's) (See Reference 1) that are contained in paints and coatings. Styrene, ethyl acrylate, and methyl methacrylate can be measured by ASTM D 4827-03. Formaldehyde can be measured by ASTM D 5910-05 or ASTM D 1979-91. Toluene diisocyanate can be measured in urethane prepolymers by ASTM D 3432-89. Method 311 applies only to those volatile HAP's which are added to the coating when it is manufactured, not to those that may form as the coating cures (reaction products or cure volatiles). A separate or modified test procedure must be used to measure these reaction products or cure volatiles in order to determine the total volatile HAP emissions from a coating. Cure volatiles are a significant component of the total HAP content of some coatings. The term "coating" used in this method shall be understood to mean paints and coatings.
 1.2 Principle. The method uses the principle of gas chromatographic separation and quantification using a detector that responds to concentration differences. Because there are many potential analytical systems or sets of operating conditions that may represent useable methods for determining the concentrations of the compounds cited in Section 1.1 in the applicable matrices, all systems that employ this principle, but differ only in details of equipment and operation, may be used as alternative methods, provided that the prescribed quality control, calibration, and method performance requirements are met. Certified product data sheets (CPDS) may also include information relevant to the analysis of the coating sample including, but not limited to, separation column, oven temperature, carrier gas, injection port temperature, extraction solvent, and internal standard.
 2. Summary of Method
 Whole coating is added to dimethylformamide and a suitable internal standard compound is added. An aliquot of the sample mixture is injected onto a chromatographic column containing a stationary phase that separates the analytes from each other and from other volatile compounds contained in the sample. The concentrations of the analytes are determined by comparing the detector responses for the sample to the responses obtained using known concentrations of the analytes.
@@ -2444,9 +2444,9 @@ ER07DE95.010
 1. Clean Air Act Amendments, Public Law 101-549, Titles I-XI, November, 1990.
 2. Standard Test Method for Water Content of Water-Reducible Paints by Direct Injection into a Gas Chromatograph. ASTM Designation D3792-79.
 3. Standard Practice for Sampling Liquid Paints and Related Pigment Coatings. ASTM Designation D3925-81.
-4. Standard Test Method for Determination of Dichloromethane and 1,1,1-Trichloroethane in Paints and Coatings by Direct Injection into a Gas Chromatograph. ASTM Designation D4457-85.
-5. Standard Test Method for Determining the Unreacted Monomer Content of Latexes Using Capillary Column Gas Chromatography. ASTM Designation D4827-93.
-6. Standard Test Method for Determining Unreacted Monomer Content of Latexes Using Gas-Liquid Chromatography. ASTM Designation D 4747-87.
+4. Standard Test Method for Determination of Dichloromethane and 1,1,1-Trichloroethane in Paints and Coatings by Direct Injection into a Gas Chromatograph. ASTM Designation D4457-02.
+5. Standard Test Method for Determining the Unreacted Monomer Content of Latexes Using Capillary Column Gas Chromatography. ASTM Designation D4827-03.
+6. Standard Test Method for Determining Unreacted Monomer Content of Latexes Using Gas-Liquid Chromatography, ASTM Designation D4747-02.
 7. Method 301—"Field Validation of Pollutant Measurement Methods from Various Waste Media," 40 CFR 63, Appendix A.
 8. "Reagent Chemicals, American Chemical Society Specifications," American Chemical Society, Washington, DC. For suggestions on the testing of reagents not listed by the American Chemical Society, see "Reagent Chemicals and Standards" by Joseph Rosin, D. Van Nostrand Co., Inc., New York, NY and the "United States Pharmacopeia."
 18. Tables, Diagrams, Flowcharts, and Validation Data
@@ -3597,42 +3597,11 @@ Gauge/length (cm) | Flow rate (liters/min) | Gauge/length (cm) | Flow rate (lite
 13/5.1 | 23.50 | 15/3.2 | 14.16
 13/7.6 | 22.37 | 15/7.6 | 11.61
 13/10.2 | 20.67 | 115/10.2 | 10.48
-Figure 315-1. Particulate and MCEM Analyses
-Particulate Analysis
-Plant |
-Date |
-Run No. |
-Filter No. |
-Amount liquid lost during transport |
-Acetone blank volume (ml) |
-Acetone blank concentration (Eq. 315-4) (mg/mg) |
-Acetone wash blank (Eq. 315-5) (mg) |
-| Final weight (mg) | Tare weight (mg) | Weight gain (mg)
-Container No. 1 |
-Container No. 2 |
-Total |
-Less Acetone blank |
-Weight of particulate matter |
-| Final volume (mg) | Initial volume (mg) | Liquid collected (mg)
-Moisture Analysis
-Impingers | Note 1 | Note 1
-Silica gel |
-Total |
-Note 1: Convert volume of water to weight by multiplying by the density of water (1 g/ml).
-Container No. | Final weight (mg) | Tare of aluminum dish (mg) | Weight gain | Acetone wash volume (ml) | Methylene chloride wash volume (ml)
-MCEM Analysis
-1
-2 + 2M
-3W
-3S
-Total | | | ∑ m total | 0 V aw | ∑ V tw
-Less acetone wash blank (mg) (not to exceed 1 mg/l of acetone used) | w a = c a p a ∑ V aw
-Less methylene chloride wash blank (mg) (not to exceed 1.5 mg/l of methylene chloride used) | w t = c t p t ∑ V tw
-Less filter blank (mg) (not to exceed... (mg/filter) | F b
-MCEM weight (mg) | m MCEOM = ∑ m total − w a − w t − f b
+ER07OC20.020
+ER07OC20.021
 Method 316—Sampling and Analysis for Formaldehyde Emissions From Stationary Sources in the Mineral Wool and Wool Fiberglass Industries
-1.0 Introduction
-This method is applicable to the determination of formaldehyde, CAS Registry number 50-00-0, from stationary sources in the mineral wool and wool fiber glass industries. High purity water is used to collect the formaldehyde. The formaldehyde concentrations in the stack samples are determined using the modified pararosaniline method. Formaldehyde can be detected as low as 8.8 × 10 10 lbs/cu ft (11.3 ppbv) or as high as 1.8 × 10 3 lbs/cu ft (23,000,000 ppbv), at standard conditions over a 1 hour sampling period, sampling approximately 30 cu ft.
+1.0 Scope and Application
+This method is applicable to the determination of formaldehyde, CAS Registry number 50-00-0, from stationary sources in the mineral wool and wool fiber glass industries. High purity water is used to collect the formaldehyde. The formaldehyde concentrations in the stack samples are determined using the modified pararosaniline method. Formaldehyde can be detected as low as 8.8 × 10 −10 lbs/cu ft (11.3 ppbv) or as high as 1.8 × 10 −3 lbs/cu ft (23,000,000 ppbv), at standard conditions over a 1-hour sampling period, sampling approximately 30 cu ft.
 2.0 Summary of Method
 Gaseous and particulate pollutants are withdrawn isokinetically from an emission source and are collected in high purity water. Formaldehyde present in the emissions is highly soluble in high purity water. The high purity water containing formaldehyde is then analyzed using the modified pararosaniline method. Formaldehyde in the sample reacts with acidic pararosaniline, and the sodium sulfite, forming a purple chromophore. The intensity of the purple color, measured spectrophotometrically, provides an accurate and precise measure of the formaldehyde concentration in the sample.
 3.0 Definitions
@@ -4876,7 +4845,7 @@ Gas standards of HCl are handled according to the instructions enclosed with the
 11. "Multivariate Least-Squares Methods Applied to the Quantitative Spectral Analysis of Multicomponent Mixtures," Applied Spectroscopy, 39(10), 73-84, 1985.
 ER14JN99.038
 ER14JN99.039
-Method 323—Measurement of Formaldehyde Emissions From Natural Gas-Fired Stationary Sources—Acetyl Acetone Derivitization Method
+Method 323—Measurement of Formaldehyde Emissions From Natural Gas-Fired Stationary Sources—Acetyl Acetone Derivatization Method
 1.0 Introduction. This method describes the sampling and analysis procedures of the acetyl acetone colorimetric method for measuring formaldehyde emissions in the exhaust of natural gas-fired, stationary combustion sources. This method, which was prepared by the Gas Research Institute (GRI), is based on the Chilled Impinger Train Method for Methanol, Acetone, Acetaldehyde, Methyl Ethyl Ketone, and Formaldehyde (Technical Bulletin No. 684) developed and published by the National Council of the Paper Industry for Air and Stream Improvement, Inc. (NCASI). However, this method has been prepared specifically for formaldehyde and does not include specifications (e.g., equipment and supplies) and procedures (e.g., sampling and analytical) for methanol, acetone, acetaldehyde, and methyl ethyl ketone. To obtain reliable results, persons using this method should have a thorough knowledge of at least Methods 1 and 2 of 40 CFR part 60, appendix A-1; Method 3 of 40 CFR part 60, appendix A-2; and Method 4 of 40 CFR part 60, appendix A-3.
 1.1 Scope and Application
 1.1.1 Analytes. The only analyte measured by this method is formaldehyde (CAS Number 50-00-0).
@@ -5415,7 +5384,7 @@ Target mass | Rel. to mass | Lower limit % | Upper limit %
 177 | 176 | 5 | 9
 1 All ion abundances must be normalized to m/z 95, the nominal base peak, even though the ion abundance of m/z 174 may be up to 120 percent that of m/z 95.
 9.13 Routine CCV at the Start of a Sequence
-9.13 Run CCV before each sequence of analyses and after every tenth sample to ensure that the previous multi-level calibration (see section 10.0) is still valid.
+Run CCV before each sequence of analyses and after every tenth sample to ensure that the previous multi-level calibration (see section 10.0) is still valid.
 9.13.1 The sample concentration used for the CCV should be near the mid-point of the multi-level calibration range.
 9.13.2 Quantitation software must be updated with response factors determined from the CCV standard. The percent deviation between the initial calibration and the CCV for all compounds must be within 30 percent.
 9.14 CCV at the End of a Sequence
