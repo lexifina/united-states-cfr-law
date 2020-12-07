@@ -16,29 +16,29 @@ Note: This method does not include all of the specifications (e.g., equipment an
 1.0 Scope and Application
 1.1 Analytes.
 Analyte | CAS No. | Sensitivity
-Dimethyl disulfide [(CH3)2S2] | 62-49-20 | 50 ppb.
-Dimethyl sulfide [(CH3)2S] | 75-18-3 | 50 ppb.
-Hydrogen sulfide [H2S] | 7783-06-4 | 50 ppb.
-Methyl mercaptan [CH4S] | 74-93-1 | 50 ppb.
+Dimethyl disulfide [(CH 3) 2 S 2] | 62-49-20 | 50 ppb.
+Dimethyl sulfide [(CH 3) 2 S] | 75-18-3 | 50 ppb.
+Hydrogen sulfide [H 2 S] | 7783-06-4 | 50 ppb.
+Methyl mercaptan [CH 4 S] | 74-93-1 | 50 ppb.
 1.2 Applicability. This method is applicable for the determination of total reduced sulfur (TRS) compounds from recovery furnaces, lime kilns, and smelt dissolving tanks at kraft pulp mills and fuel gas combustion devices at petroleum refineries.
 Note: The method described below uses the principle of gas chromatographic (GC) separation and flame photometric detection (FPD). Since there are many systems or sets of operating conditions that represent useable methods of determining sulfur emissions, all systems which employ this principle, but differ only in details of equipment and operation, may be used as alternative methods, provided that the calibration precision and sample line loss criteria are met.
 1.3 Data Quality Objectives. Adherence to the requirements of this method will enhance the quality of the data obtained from air pollutant sampling methods.
 2.0 Summary of Method
-2.1 A gas sample is extracted from the emission source and an aliquot is analyzed for hydrogen sulfide (H2S), methyl mercaptan (MeSH), dimethyl sulfide (DMS), and dimethyl disulfide (DMDS) by GC/FPD. These four compounds are known collectively as TRS.
+2.1 A gas sample is extracted from the emission source and an aliquot is analyzed for hydrogen sulfide (H 2 S), methyl mercaptan (MeSH), dimethyl sulfide (DMS), and dimethyl disulfide (DMDS) by GC/FPD. These four compounds are known collectively as TRS.
 3.0 Definitions [Reserved]
 4.0 Interferences
-4.1 Moisture. Moisture condensation in the sample delivery system, the analytical column, or the FPD burner block can cause losses or interferences. This is prevented by maintaining the probe, filter box, and connections at a temperature of at least 120 °C (248 °F). Moisture is removed in the SO2 scrubber and heating the sample beyond this point is not necessary when the ambient temperature is above 0 °C (32 °F). Alternatively, moisture may be eliminated by heating the sample line, and by conditioning the sample with dry dilution air to lower its dew point below the operating temperature of the GC/FPD analytical system prior to analysis.
-4.2 Carbon Monoxide (CO) and Carbon Dioxide (CO2). CO and CO2 have a substantial desensitizing effect on the flame photometric detector even after dilution. Acceptable systems must demonstrate that they have eliminated this interference by some procedure such as eluting these compounds before any of the compounds to be measured. Compliance with this requirement can be demonstrated by submitting chromatograms of calibration gases with and without CO2 in the diluent gas. The CO2 level should be approximately 10 percent for the case with CO2 present. The two chromatograms should show agreement within the precision limits of section 10.2.
+4.1 Moisture. Moisture condensation in the sample delivery system, the analytical column, or the FPD burner block can cause losses or interferences. This is prevented by maintaining the probe, filter box, and connections at a temperature of at least 120 °C (248 °F). Moisture is removed in the SO 2 scrubber and heating the sample beyond this point is not necessary when the ambient temperature is above 0 °C (32 °F). Alternatively, moisture may be eliminated by heating the sample line, and by conditioning the sample with dry dilution air to lower its dew point below the operating temperature of the GC/FPD analytical system prior to analysis.
+4.2 Carbon Monoxide (CO) and Carbon Dioxide (CO 2). CO and CO 2 have a substantial desensitizing effect on the flame photometric detector even after dilution. Acceptable systems must demonstrate that they have eliminated this interference by some procedure such as eluting these compounds before any of the compounds to be measured. Compliance with this requirement can be demonstrated by submitting chromatograms of calibration gases with and without CO 2 in the diluent gas. The CO 2 level should be approximately 10 percent for the case with CO 2 present. The two chromatograms should show agreement within the precision limits of section 10.2.
 4.3 Particulate Matter. Particulate matter in gas samples can cause interference by eventual clogging of the analytical system. This interference is eliminated by using the Teflon filter after the probe.
-4.4 Sulfur Dioxide (SO2). Sulfur dioxide is not a specific interferant but may be present in such large amounts that it cannot effectively be separated from the other compounds of interest. The SO2 scrubber described in section 6.1.3 will effectively remove SO2 from the sample.
+4.4 Sulfur Dioxide (SO 2). Sulfur dioxide is not a specific interferant but may be present in such large amounts that it cannot effectively be separated from the other compounds of interest. The SO 2 scrubber described in section 6.1.3 will effectively remove SO 2 from the sample.
 5.0 Safety
 5.1 Disclaimer. This method may involve hazardous materials, operations, and equipment. This test method may not address all of the safety problems associated with its use. It is the responsibility of the user of this test method to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to performing this test method.
-5.2 Hydrogen Sulfide. A flammable, poisonous gas with the odor of rotten eggs. H2S is extremely hazardous and can cause collapse, coma, and death within a few seconds of one or two inhalations at sufficient concentrations. Low concentrations irritate the mucous membranes and may cause nausea, dizziness, and headache after exposure.
+5.2 Hydrogen Sulfide. A flammable, poisonous gas with the odor of rotten eggs. H 2 S is extremely hazardous and can cause collapse, coma, and death within a few seconds of one or two inhalations at sufficient concentrations. Low concentrations irritate the mucous membranes and may cause nausea, dizziness, and headache after exposure.
 6.0 Equipment and Supplies
 6.1. Sample Collection. The following items are needed for sample collection.
 6.1.1 Probe. Teflon or Teflon-lined stainless steel. The probe must be heated to prevent moisture condensation. It must be designed to allow calibration gas to enter the probe at or near the sample point entry. Any portion of the probe that contacts the stack gas must be heated to prevent moisture condensation. Figure 16-1 illustrates the probe used in lime kilns and other sources where significant amounts of particulate matter are present. The probe is designed with the deflector shield placed between the sample and the gas inlet holes to reduce clogging of the filter and possible adsorption of sample gas. As an alternative, the probe described in section 6.1.1 of Method 16A having a nozzle directed away from the gas stream may be used at sources having significant amounts of particulate matter.
 6.1.2 Particulate Filter. 50-mm Teflon filter holder and a 1- to 2-micron porosity Teflon filter (available through Savillex Corporation, 5325 Highway 101, Minnetonka, Minnesota 55343). The filter holder must be maintained in a hot box at a temperature of at least 120 °C (248 °F).
-6.1.3 SO2 Scrubber. Three 300-ml Teflon segmented impingers connected in series with flexible, thick-walled, Teflon tubing. (Impinger parts and tubing available through Savillex.) The first two impingers contain 100 ml of citrate buffer and the third impinger is initially dry. The tip of the tube inserted into the solution should be constricted to less than 3 mm (1/8 in.) ID and should be immersed to a depth of at least 5 cm (2 in.). Immerse the impingers in an ice water bath and maintain near 0 °C (32 °F). The scrubber solution will normally last for a 3-hour run before needing replacement. This will depend upon the effects of moisture and particulate matter on the solution strength and pH. Connections between the probe, particulate filter, and SO2 scrubber must be made of Teflon and as short in length as possible. All portions of the probe, particulate filter, and connections prior to the SO2 scrubber (or alternative point of moisture removal) must be maintained at a temperature of at least 120 °C (248 °F).
+6.1.3 SO 2 Scrubber. Three 300-ml Teflon segmented impingers connected in series with flexible, thick-walled, Teflon tubing. (Impinger parts and tubing available through Savillex.) The first two impingers contain 100 ml of citrate buffer and the third impinger is initially dry. The tip of the tube inserted into the solution should be constricted to less than 3 mm (1/8 in.) ID and should be immersed to a depth of at least 5 cm (2 in.). Immerse the impingers in an ice water bath and maintain near 0 °C (32 °F). The scrubber solution will normally last for a 3-hour run before needing replacement. This will depend upon the effects of moisture and particulate matter on the solution strength and pH. Connections between the probe, particulate filter, and SO 2 scrubber must be made of Teflon and as short in length as possible. All portions of the probe, particulate filter, and connections prior to the SO 2 scrubber (or alternative point of moisture removal) must be maintained at a temperature of at least 120 °C (248 °F).
 6.1.4 Sample Line. Teflon, no greater than 1.3 cm (1/2 in.) ID. Alternative materials, such as virgin Nylon, may be used provided the line loss test is acceptable.
 6.1.5 Sample Pump. The sample pump must be a leakless Teflon-coated diaphragm type or equivalent.
 6.2 Analysis. The following items are needed for sample analysis:
@@ -48,23 +48,23 @@ Note: The method described below uses the principle of gas chromatographic (GC) 
 6.2.2.2 Temperature Gauge. To monitor column oven, detector, and exhaust temperature ±1 °C (2 °F).
 6.2.2.3 Flow System. Gas metering system to measure sample, fuel, combustion gas, and carrier gas flows.
 6.2.2.4 Flame Photometric Detector.
-6.2.2.4.1 Electrometer. Capable of full scale amplification of linear ranges of 10−9 to 10−4 amperes full scale.
+6.2.2.4.1 Electrometer. Capable of full scale amplification of linear ranges of 10 −9 to 10 −4 amperes full scale.
 6.2.2.4.2 Power Supply. Capable of delivering up to 750 volts.
 6.2.2.4.3 Recorder. Compatible with the output voltage range of the electrometer.
 6.2.2.4.4 Rotary Gas Valves. Multiport Teflon-lined valves equipped with sample loop. Sample loop volumes must be chosen to provide the needed analytical range. Teflon tubing and fittings must be used throughout to present an inert surface for sample gas. The gas chromatograph must be calibrated with the sample loop used for sample analysis.
-6.2.3 Gas Chromatogram Columns. The column system must be demonstrated to be capable of resolving the four major reduced sulfur compounds: H2S, MeSH, DMS, and DMDS. It must also demonstrate freedom from known interferences. To demonstrate that adequate resolution has been achieved, submit a chromatogram of a calibration gas containing all four of the TRS compounds in the concentration range of the applicable standard. Adequate resolution will be defined as base line separation of adjacent peaks when the amplifier attenuation is set so that the smaller peak is at least 50 percent of full scale. Baseline separation is defined as a return to zero ±5 percent in the interval between peaks. Systems not meeting this criteria may be considered alternate methods subject to the approval of the Administrator.
+6.2.3 Gas Chromatogram Columns. The column system must be demonstrated to be capable of resolving the four major reduced sulfur compounds: H 2 S, MeSH, DMS, and DMDS. It must also demonstrate freedom from known interferences. To demonstrate that adequate resolution has been achieved, submit a chromatogram of a calibration gas containing all four of the TRS compounds in the concentration range of the applicable standard. Adequate resolution will be defined as base line separation of adjacent peaks when the amplifier attenuation is set so that the smaller peak is at least 50 percent of full scale. Baseline separation is defined as a return to zero ±5 percent in the interval between peaks. Systems not meeting this criteria may be considered alternate methods subject to the approval of the Administrator.
 6.3 Calibration. A calibration system, containing the following components, is required (see Figure 16-2).
 6.3.1 Tube Chamber. Chamber of glass or Teflon of sufficient dimensions to house permeation tubes.
 6.3.2 Flow System. To measure air flow over permeation tubes at ±2 percent. Flow over the permeation device may also be determined using a soap bubble flowmeter.
 6.3.3 Constant Temperature Bath. Device capable of maintaining the permeation tubes at the calibration temperature within 0.1 °C (0.2 °F).
 6.3.4 Temperature Gauge. Thermometer or equivalent to monitor bath temperature within 1 °C (2 °F).
 7.0 Reagents and Standards
-7.1 Fuel. Hydrogen (H2), prepurified grade or better.
-7.2 Combustion Gas. Oxygen (O2) or air, research purity or better.
+7.1 Fuel. Hydrogen (H 2), prepurified grade or better.
+7.2 Combustion Gas. Oxygen (O 2) or air, research purity or better.
 7.3 Carrier Gas. Prepurified grade or better.
 7.4 Diluent (if required). Air containing less than 50 ppb total sulfur compounds and less than 10 ppmv each of moisture and total hydrocarbons.
 7.5 Calibration Gases
-7.5.1 Permeation tubes, one each of H2S, MeSH, DMS, and DMDS, gravimetrically calibrated and certified at some convenient operating temperature. These tubes consist of hermetically sealed FEP Teflon tubing in which a liquified gaseous substance is enclosed. The enclosed gas permeates through the tubing wall at a constant rate. When the temperature is constant, calibration gases covering a wide range of known concentrations can be generated by varying and accurately measuring the flow rate of diluent gas passing over the tubes. These calibration gases are used to calibrate the GC/FPD system and the dilution system.
+7.5.1 Permeation tubes, one each of H 2 S, MeSH, DMS, and DMDS, gravimetrically calibrated and certified at some convenient operating temperature. These tubes consist of hermetically sealed FEP Teflon tubing in which a liquified gaseous substance is enclosed. The enclosed gas permeates through the tubing wall at a constant rate. When the temperature is constant, calibration gases covering a wide range of known concentrations can be generated by varying and accurately measuring the flow rate of diluent gas passing over the tubes. These calibration gases are used to calibrate the GC/FPD system and the dilution system.
 7.5.2 Cylinder Gases. Cylinder gases may be used as alternatives to permeation devices. The gases must be traceable to a primary standard (such as permeation tubes) and not used beyond the certification expiration date.
 7.6 Citrate Buffer and Sample Line Loss Gas. Same as Method 15, sections 7.6 and 7.7.
 8.0 Sample Collection, Preservation, Storage, and Transport
@@ -81,28 +81,28 @@ Same as Method 15, section 10.0, with the following addition and exceptions:
 11.0 Analytical Procedure
 Sample collection and analysis are concurrent for this method (see section 8.0).
 12.0 Data Analysis and Calculations
-12.1 Concentration of Reduced Sulfur Compounds. Calculate the average concentration of each of the four analytes (i.e., DMDS, DMS, H2S, and MeSH) over the sample run (specified in section 8.2 of Method 15 as 16 injections).
+12.1 Concentration of Reduced Sulfur Compounds. Calculate the average concentration of each of the four analytes (i.e., DMDS, DMS, H 2 S, and MeSH) over the sample run (specified in section 8.2 of Method 15 as 16 injections).
 ER17oc00.278
 Where:
-Si = Concentration of any reduced sulfur compound from the ith sample injection, ppm.
+S i = Concentration of any reduced sulfur compound from the i th sample injection, ppm.
 C = Average concentration of any one of the reduced sulfur compounds for the entire run, ppm.
 N = Number of injections in any run period.
 12.2 TRS Concentration. Using Equation 16-2, calculate the TRS concentration for each sample run.
 ER17oc00.279
 Where:
-CTRS = TRS concentration, ppmv.
-CH2S = Hydrogen sulfide concentration, ppmv.
-CMeSH = Methyl mercaptan concentration, ppmv.
-CDMS = Dimethyl sulfide concentration, ppmv.
-CDMDS = Dimethyl disulfide concentration, ppmv.
+C TRS = TRS concentration, ppmv.
+C H2S = Hydrogen sulfide concentration, ppmv.
+C MeSH = Methyl mercaptan concentration, ppmv.
+C DMS = Dimethyl sulfide concentration, ppmv.
+C DMDS = Dimethyl disulfide concentration, ppmv.
 d = Dilution factor, dimensionless.
 12.3 Average TRS Concentration. Calculate the average TRS concentration for all sample runs performed.
 ER17oc00.280
 Where:
 Average TRS = Average total reduced sulfur in ppm.
-TRSi = Total reduced sulfur in ppm as determined by Equation 16-2.
+TRS i = Total reduced sulfur in ppm as determined by Equation 16-2.
 N = Number of samples.
-Bwo = Fraction of volume of water vapor in the gas stream as determined by Method 4—Determination of Moisture in Stack Gases.
+B wo = Fraction of volume of water vapor in the gas stream as determined by Method 4—Determination of Moisture in Stack Gases.
 13.0 Method Performance
 13.1 Analytical Range. The analytical range will vary with the sample loop size. Typically, the analytical range may extend from 0.1 to 100 ppmv using 10- to 0.1-ml sample loop sizes. This eliminates the need for sample dilution in most cases.
 13.2 Sensitivity. Using the 10-ml sample size, the minimum detectable concentration is approximately 50 ppb.
@@ -124,42 +124,42 @@ Note: This method does not include all of the specifications (e.g., equipment an
 1.1 Analytes.
 Analyte | CAS No. | Sensitivity
 Total reduced sulfur (TRS) including: | N/A | See section 13.1.
-Dimethyl disulfide [(CH3)2S2] | 62-49-20
-Dimethyl sulfide [(CH3)2S] | 75-18-3
-Hydrogen sulfide [H2S] | 7783-06-4
-Methyl mercaptan [CH4S] | 74-93-1
+Dimethyl disulfide [(CH 3) 2 S 2] | 62-49-20
+Dimethyl sulfide [(CH 3) 2 S] | 75-18-3
+Hydrogen sulfide [H 2 S] | 7783-06-4
+Methyl mercaptan [CH 4 S] | 74-93-1
 Reduced sulfur (RS) including: | N/A
-H2S | 7783-06-4
+H 2 S | 7783-06-4
 Carbonyl sulfide [COS] | 463-58-1
-Carbon disulfide [CS2] | 75-15-0
-Reported as: Sulfur dioxide (SO2) | 7449-09-5
-1.2 Applicability. This method is applicable for the determination of TRS emissions from recovery boilers, lime kilns, and smelt dissolving tanks at kraft pulp mills, reduced sulfur compounds (H2S, carbonyl sulfide, and carbon disulfide) from sulfur recovery units at onshore natural gas processing facilities, and from other sources when specified in an applicable subpart of the regulations. The flue gas must contain at least 1 percent oxygen for complete oxidation of all TRS to SO2. Note: If sources other than kraft pulp mills experience low oxygen levels in the emissions, the method results may be biased low.
+Carbon disulfide [CS 2] | 75-15-0
+Reported as: Sulfur dioxide (SO 2) | 7449-09-5
+1.2 Applicability. This method is applicable for the determination of TRS emissions from recovery boilers, lime kilns, and smelt dissolving tanks at kraft pulp mills, reduced sulfur compounds (H 2 S, carbonyl sulfide, and carbon disulfide) from sulfur recovery units at onshore natural gas processing facilities, and from other sources when specified in an applicable subpart of the regulations. The flue gas must contain at least 1 percent oxygen for complete oxidation of all TRS to SO 2. Note: If sources other than kraft pulp mills experience low oxygen levels in the emissions, the method results may be biased low.
 1.3 Data Quality Objectives. Adherence to the requirements of this method will enhance the quality of the data obtained from air pollutant sampling methods.
 2.0 Summary of Method
-2.1 An integrated gas sample is extracted from the stack. SO2 is removed selectively from the sample using a citrate buffer solution. TRS compounds are then thermally oxidized to SO2, collected in hydrogen peroxide as sulfate, and analyzed by the Method 6 barium-thorin titration procedure.
+2.1 An integrated gas sample is extracted from the stack. SO 2 is removed selectively from the sample using a citrate buffer solution. TRS compounds are then thermally oxidized to SO 2, collected in hydrogen peroxide as sulfate, and analyzed by the Method 6 barium-thorin titration procedure.
 3.0 Definitions [Reserved]
 4.0 Interferences
-4.1 Reduced sulfur compounds other than those regulated by the emission standards, if present, may be measured by this method. Therefore, carbonyl sulfide, which is partially oxidized to SO2 and may be present in a lime kiln exit stack, would be a positive interferant.
-4.2 Particulate matter from the lime kiln stack gas (primarily calcium carbonate) can cause a negative bias if it is allowed to enter the citrate scrubber; the particulate matter will cause the pH to rise and H2S to be absorbed prior to oxidation. Furthermore, if the calcium carbonate enters the hydrogen peroxide impingers, the calcium will precipitate sulfate ion. Proper use of the particulate filter described in section 6.1.3 will eliminate this interference.
+4.1 Reduced sulfur compounds other than those regulated by the emission standards, if present, may be measured by this method. Therefore, carbonyl sulfide, which is partially oxidized to SO 2 and may be present in a lime kiln exit stack, would be a positive interferant.
+4.2 Particulate matter from the lime kiln stack gas (primarily calcium carbonate) can cause a negative bias if it is allowed to enter the citrate scrubber; the particulate matter will cause the pH to rise and H 2 S to be absorbed prior to oxidation. Furthermore, if the calcium carbonate enters the hydrogen peroxide impingers, the calcium will precipitate sulfate ion. Proper use of the particulate filter described in section 6.1.3 will eliminate this interference.
 5.0 Safety
 5.1 Disclaimer. This method may involve hazardous materials, operations, and equipment. This test method may not address all of the safety problems associated with its use. It is the responsibility of the user of this test method to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to performing this test method.
 5.2 Corrosive reagents. The following reagents are hazardous. Personal protective equipment and safe procedures are useful in preventing chemical splashes. If contact occurs, immediately flush with copious amounts of water for at least 15 minutes. Remove clothing under shower and decontaminate. Treat residual chemical burns as thermal burns.
-5.2.1 Hydrogen Peroxide (H2O2). Irritating to eyes, skin, nose, and lungs.
+5.2.1 Hydrogen Peroxide (H 2 O 2). Irritating to eyes, skin, nose, and lungs.
 5.2.2 Sodium Hydroxide (NaOH). Causes severe damage to eyes and skin. Inhalation causes irritation to nose, throat, and lungs. Reacts exothermically with limited amounts of water.
-5.2.3 Sulfuric Acid (H2SO4). Rapidly destructive to body tissue. Will cause third degree burns. Eye damage may result in blindness. Inhalation may be fatal from spasm of the larynx, usually within 30 minutes. May cause lung tissue damage with edema. 3 mg/m3 will cause lung damage in uninitiated. 1 mg/m3 for 8 hours will cause lung damage or, in higher concentrations, death. Provide ventilation to limit inhalation. Reacts violently with metals and organics.
-5.3 Hydrogen Sulfide (H2S). A flammable, poisonous gas with the odor of rotten eggs. H2S is extremely hazardous and can cause collapse, coma, and death within a few seconds of one or two inhalations at sufficient concentrations. Low concentrations irritate the mucous membranes and may cause nausea, dizziness, and headache after exposure.
+5.2.3 Sulfuric Acid (H 2 SO 4). Rapidly destructive to body tissue. Will cause third degree burns. Eye damage may result in blindness. Inhalation may be fatal from spasm of the larynx, usually within 30 minutes. May cause lung tissue damage with edema. 3 mg/m 3 will cause lung damage in uninitiated. 1 mg/m 3 for 8 hours will cause lung damage or, in higher concentrations, death. Provide ventilation to limit inhalation. Reacts violently with metals and organics.
+5.3 Hydrogen Sulfide (H 2 S). A flammable, poisonous gas with the odor of rotten eggs. H 2 S is extremely hazardous and can cause collapse, coma, and death within a few seconds of one or two inhalations at sufficient concentrations. Low concentrations irritate the mucous membranes and may cause nausea, dizziness, and headache after exposure.
 6.0 Equipment and Supplies
 6.1 Sample Collection. The sampling train is shown in Figure 16A-1 and component parts are discussed below. Modifications to this sampling train are acceptable provided the system performance check is met (see section 8.5).
-6.1.1 Probe. Teflon tubing, 6.4-mm (1/4-in.) diameter, sequentially wrapped with heat-resistant fiber strips, a rubberized heat tape (plug at one end), and heat-resistant adhesive tape. A flexible thermocouple or other suitable temperature measuring device should be placed between the Teflon tubing and the fiber strips so that the temperature can be monitored to prevent softening of the probe. The probe should be sheathed in stainless steel to provide in-stack rigidity. A series of bored-out stainless steel fittings placed at the front of the sheath will prevent moisture and particulate from entering between the probe and sheath. A 6.4-mm (1/4-in.) Teflon elbow (bored out) should be attached to the inlet of the probe, and a 2.54 cm (1 in.) piece of Teflon tubing should be attached at the open end of the elbow to permit the opening of the probe to be turned away from the particulate stream; this will reduce the amount of particulate drawn into the sampling train. The probe is depicted in Figure 16A-2.
-6.1.2 Probe Brush. Nylon bristle brush with handle inserted into a 3.2-mm (1/8-in.) Teflon tubing. The Teflon tubing should be long enough to pass the brush through the length of the probe.
+6.1.1 Probe. Teflon tubing, 6.4-mm (1/4 -in.) diameter, sequentially wrapped with heat-resistant fiber strips, a rubberized heat tape (plug at one end), and heat-resistant adhesive tape. A flexible thermocouple or other suitable temperature measuring device should be placed between the Teflon tubing and the fiber strips so that the temperature can be monitored to prevent softening of the probe. The probe should be sheathed in stainless steel to provide in-stack rigidity. A series of bored-out stainless steel fittings placed at the front of the sheath will prevent moisture and particulate from entering between the probe and sheath. A 6.4-mm (1/4 -in.) Teflon elbow (bored out) should be attached to the inlet of the probe, and a 2.54 cm (1 in.) piece of Teflon tubing should be attached at the open end of the elbow to permit the opening of the probe to be turned away from the particulate stream; this will reduce the amount of particulate drawn into the sampling train. The probe is depicted in Figure 16A-2.
+6.1.2 Probe Brush. Nylon bristle brush with handle inserted into a 3.2-mm (1/8 -in.) Teflon tubing. The Teflon tubing should be long enough to pass the brush through the length of the probe.
 6.1.3 Particulate Filter. 50-mm Teflon filter holder and a 1- to 2-µm porosity, Teflon filter (available through Savillex Corporation, 5325 Highway 101, Minnetonka, Minnesota 55343). The filter holder must be maintained in a hot box at a temperature sufficient to prevent moisture condensation. A temperature of 121 °C (250 °F) was found to be sufficient when testing a lime kiln under sub-freezing ambient conditions.
-6.1.4 SO2 Scrubber. Three 300-ml Teflon segmented impingers connected in series with flexible, thick-walled, Teflon tubing. (Impinger parts and tubing available through Savillex.) The first two impingers contain 100 ml of citrate buffer and the third impinger is initially dry. The tip of the tube inserted into the solution should be constricted to less than 3 mm (1/8-in.) ID and should be immersed to a depth of at least 5 cm (2 in.).
+6.1.4 SO 2 Scrubber. Three 300-ml Teflon segmented impingers connected in series with flexible, thick-walled, Teflon tubing. (Impinger parts and tubing available through Savillex.) The first two impingers contain 100 ml of citrate buffer and the third impinger is initially dry. The tip of the tube inserted into the solution should be constricted to less than 3 mm (1/8 -in.) ID and should be immersed to a depth of at least 5 cm (2 in.).
 6.1.5 Combustion Tube. Quartz glass tubing with an expanded combustion chamber 2.54 cm (1 in.) in diameter and at least 30.5 cm (12 in.) long. The tube ends should have an outside diameter of 0.6 cm (1/4 in.) and be at least 15.3 cm (6 in.) long. This length is necessary to maintain the quartz-glass connector near ambient temperature and thereby avoid leaks. Alternatively, the outlet may be constructed with a 90-degree glass elbow and socket that would fit directly onto the inlet of the first peroxide impinger.
 6.1.6 Furnace. A furnace of sufficient size to enclose the combustion chamber of the combustion tube with a temperature regulator capable of maintaining the temperature at 800 ±100 °C (1472 ±180 °F). The furnace operating temperature should be checked with a thermocouple to ensure accuracy.
 6.1.7 Peroxide Impingers, Stopcock Grease, Temperature Sensor, Drying Tube, Valve, Pump, and Barometer. Same as Method 6, sections 6.1.1.2, 6.1.1.4, 6.1.1.5, 6.1.1.6, 6.1.1.7, 6.1.1.8, and 6.1.2, respectively, except that the midget bubbler of Method 6, section 6.1.1.2 is not required.
 6.1.8 Vacuum Gauge. At least 760 mm Hg (30 in. Hg) gauge.
-6.1.9 Rate Meter. Rotameter, or equivalent, accurate to within 5 percent at the selected flow rate of approximately 2 liters/min (4.2 ft3/hr).
-6.1.10 Volume Meter. Dry gas meter capable of measuring the sample volume under the sampling conditions of 2 liters/min (4.2 ft3/hr) with an accuracy of 2 percent.
+6.1.9 Rate Meter. Rotameter, or equivalent, accurate to within 5 percent at the selected flow rate of approximately 2 liters/min (4.2 ft 3 /hr).
+6.1.10 Volume Meter. Dry gas meter capable of measuring the sample volume under the sampling conditions of 2 liters/min (4.2 ft 3 /hr) with an accuracy of 2 percent.
 6.2 Sample Recovery. Polyethylene Bottles, 250-ml (one per sample).
 6.3 Sample Preparation and Analysis. Same as Method 6, section 6.3, except a 10-ml buret with 0.05-ml graduations is required, and the spectrophotometer is not needed.
 7.0 Reagents and Standards
@@ -168,13 +168,13 @@ Note: Unless otherwise indicated, all reagents must conform to the specification
 7.1.1 Water. Same as in Method 6, section 7.1.1.
 7.1.2 Citrate Buffer. Dissolve 300 g of potassium citrate (or 284 g of sodium citrate) and 41 g of anhydrous citric acid in 1 liter of water (200 ml is needed per test). Adjust the pH to between 5.4 and 5.6 with potassium citrate or citric acid, as required.
 7.1.3 Hydrogen Peroxide, 3 percent. Same as in Method 6, section 7.1.3 (40 ml is needed per sample).
-7.1.4 Recovery Check Gas. Hydrogen sulfide (100 ppmv or less) in nitrogen, stored in aluminum cylinders. Verify the concentration by Method 11 or by gas chromatography where the instrument is calibrated with an H2S permeation tube as described below. For Method 11, the relative standard deviation should not exceed 5 percent on at least three 20-minute runs.
-Note: Alternatively, hydrogen sulfide recovery gas generated from a permeation device gravimetrically calibrated and certified at some convenient operating temperature may be used. The permeation rate of the device must be such that at a dilution gas flow rate of 3 liters/min (6.4 ft3/hr), an H2S concentration in the range of the stack gas or within 20 percent of the standard can be generated.
+7.1.4 Recovery Check Gas. Hydrogen sulfide (100 ppmv or less) in nitrogen, stored in aluminum cylinders. Verify the concentration by Method 11 or by gas chromatography where the instrument is calibrated with an H 2 S permeation tube as described below. For Method 11, the relative standard deviation should not exceed 5 percent on at least three 20-minute runs.
+Note: Alternatively, hydrogen sulfide recovery gas generated from a permeation device gravimetrically calibrated and certified at some convenient operating temperature may be used. The permeation rate of the device must be such that at a dilution gas flow rate of 3 liters/min (6.4 ft 3 /hr), an H 2 S concentration in the range of the stack gas or within 20 percent of the standard can be generated.
 7.1.5 Combustion Gas. Gas containing less than 50 ppb reduced sulfur compounds and less than 10 ppmv total hydrocarbons. The gas may be generated from a clean-air system that purifies ambient air and consists of the following components: Diaphragm pump, silica gel drying tube, activated charcoal tube, and flow rate measuring device. Flow from a compressed air cylinder is also acceptable.
 7.2 Sample Recovery and Analysis. Same as Method 6, sections 7.2.1 and 7.3, respectively.
 8.0 Sample Collection, Preservation, Storage, and Transport
 8.1 Preparation of Sampling Train.
-8.1.1 For the SO2 scrubber, measure 100 ml of citrate buffer into the first and second impingers; leave the third impinger empty. Immerse the impingers in an ice bath, and locate them as close as possible to the filter heat box. The connecting tubing should be free of loops. Maintain the probe and filter temperatures sufficiently high to prevent moisture condensation, and monitor with a suitable temperature sensor.
+8.1.1 For the SO 2 scrubber, measure 100 ml of citrate buffer into the first and second impingers; leave the third impinger empty. Immerse the impingers in an ice bath, and locate them as close as possible to the filter heat box. The connecting tubing should be free of loops. Maintain the probe and filter temperatures sufficiently high to prevent moisture condensation, and monitor with a suitable temperature sensor.
 8.1.2 For the Method 6 part of the train, measure 20 ml of 3 percent hydrogen peroxide into the first and second midget impingers. Leave the third midget impinger empty, and place silica gel in the fourth midget impinger. Alternatively, a silica gel drying tube may be used in place of the fourth impinger. Maintain the oxidation furnace at 800 ±100 °C (1472 ±180 °F). Place crushed ice and water around all impingers.
 8.2 Citrate Scrubber Conditioning Procedure. Condition the citrate buffer scrubbing solution by pulling stack gas through the Teflon impingers and bypassing all other sampling train components. A purge rate of 2 liters/min for 10 minutes has been found to be sufficient to obtain equilibrium. After the citrate scrubber has been conditioned, assemble the sampling train, and conduct (optional) a leak-check as described in Method 6, section 8.2.
 8.3 Sample Collection. Same as in Method 6, section 8.3, except the sampling rate is 2 liters/min (±10 percent) for 1 or 3 hours. After the sample is collected, remove the probe from the stack, and conduct (mandatory) a post-test leak-check as described in Method 6, section 8.2. The 15-minute purge of the train following collection should not be performed. After each 3-hour test run (or after three 1-hour samples), conduct one system performance check (see section 8.5) to determine the reduced sulfur recovery efficiency through the sampling train. After this system performance check and before the next test run, rinse and brush the probe with water, replace the filter, and change the citrate scrubber (optional but recommended).
@@ -182,9 +182,9 @@ Note: In Method 16, a test run is composed of 16 individual analyses (injects) p
 8.4 Sample Recovery. Disconnect the impingers. Quantitatively transfer the contents of the midget impingers of the Method 6 part of the train into a leak-free polyethylene bottle for shipment. Rinse the three midget impingers and the connecting tubes with water and add the washings to the same storage container. Mark the fluid level. Seal and identify the sample container.
 8.5 System Performance Check.
 8.5.1 A system performance check is done (1) to validate the sampling train components and procedure (prior to testing; optional) and (2) to validate a test run (after a run). Perform a check in the field prior to testing consisting of at least two samples (optional), and perform an additional check after each 3 hour run or after three 1-hour samples (mandatory).
-8.5.2 The checks involve sampling a known concentration of H2S and comparing the analyzed concentration with the known concentration. Mix the H2S recovery check gas (Section 7.1.4) and combustion gas in a dilution system such as that shown in Figure 16A-3. Adjust the flow rates to generate an H2S concentration in the range of the stack gas or within 20 percent of the applicable standard and an oxygen concentration greater than 1 percent at a total flow rate of at least 2.5 liters/min (5.3 ft3/hr). Use Equation 16A-3 to calculate the concentration of recovery gas generated. Calibrate the flow rate from both sources with a soap bubble flow meter so that the diluted concentration of H2S can be accurately calculated.
+8.5.2 The checks involve sampling a known concentration of H 2 S and comparing the analyzed concentration with the known concentration. Mix the H 2 S recovery check gas (Section 7.1.4) and combustion gas in a dilution system such as that shown in Figure 16A-3. Adjust the flow rates to generate an H 2 S concentration in the range of the stack gas or within 20 percent of the applicable standard and an oxygen concentration greater than 1 percent at a total flow rate of at least 2.5 liters/min (5.3 ft 3 /hr). Use Equation 16A-3 to calculate the concentration of recovery gas generated. Calibrate the flow rate from both sources with a soap bubble flow meter so that the diluted concentration of H 2 S can be accurately calculated.
 8.5.3 Collect 30-minute samples, and analyze in the same manner as the emission samples. Collect the sample through the probe of the sampling train using a manifold or some other suitable device that will ensure extraction of a representative sample.
-8.5.4 The recovery check must be performed in the field prior to replacing the SO2 scrubber and particulate filter and before the probe is cleaned. Use Equation 16A-4 (see section 12.5) to calculate the recovery efficiency. Report the recovery efficiency with the emission data; do not correct the emission data for the recovery efficiency. A sample recovery of 100 ±20 percent must be obtained for the emission data to be valid. However, if the recovery efficiency is not in the 100 ±20 percent range but the results do not affect the compliance or noncompliance status of the affected facility, the Administrator may decide to accept the results of the compliance test.
+8.5.4 The recovery check must be performed in the field prior to replacing the SO 2 scrubber and particulate filter and before the probe is cleaned. Use Equation 16A-4 (see section 12.5) to calculate the recovery efficiency. Report the recovery efficiency with the emission data; do not correct the emission data for the recovery efficiency. A sample recovery of 100 ±20 percent must be obtained for the emission data to be valid. However, if the recovery efficiency is not in the 100 ±20 percent range but the results do not affect the compliance or noncompliance status of the affected facility, the Administrator may decide to accept the results of the compliance test.
 9.0 Quality Control
 Section | Quality control measure | Effect
 8.5 | System performance check | Ensure validity of sampling train components and analytical procedure.
@@ -198,32 +198,32 @@ Same as Method 6, section 10.0.
 12.0 Data Analysis and Calculations
 In the calculations, at least one extra decimal figure should be retained beyond that of the acquired data. Figures should be rounded off after final calculations.
 12.1 Nomenclature.
-CTRS = Concentration of TRS as SO2, dry basis corrected to standard conditions, ppmv.
-CRG(act) = Actual concentration of recovery check gas (after dilution), ppm.
-CRG(m) = Measured concentration of recovery check gas generated, ppm.
-CH2S = Verified concentration of H2S recovery gas.
+C TRS = Concentration of TRS as SO 2, dry basis corrected to standard conditions, ppmv.
+C RG(act) = Actual concentration of recovery check gas (after dilution), ppm.
+C RG(m) = Measured concentration of recovery check gas generated, ppm.
+C H2S = Verified concentration of H 2 S recovery gas.
 N = Normality of barium perchlorate titrant, milliequivalents/ml.
-Pbar = Barometric pressure at exit orifice of the dry gas meter, mm Hg (in. Hg).
-Pstd = Standard absolute pressure, 760 mm Hg (29.92 in. Hg).
-QH2S = Calibrated flow rate of H2S recovery gas, liters/min.
-QCG = Calibrated flow rate of combustion gas, liters/min.
+P bar = Barometric pressure at exit orifice of the dry gas meter, mm Hg (in. Hg).
+P std = Standard absolute pressure, 760 mm Hg (29.92 in. Hg).
+Q H2S = Calibrated flow rate of H 2 S recovery gas, liters/min.
+Q CG = Calibrated flow rate of combustion gas, liters/min.
 R = Recovery efficiency for the system performance check, percent.
-Tm = Average dry gas meter absolute temperature, °K (°R).
-Tstd = Standard absolute temperature, 293 °K (528 °R).
-Va = Volume of sample aliquot titrated, ml.
-Vm = Dry gas volume as measured by the dry gas meter, liters (dcf).
-Vm(std) = Dry gas volume measured by the dry gas meter, corrected to standard conditions, liters (dscf).
-Vsoln = Total volume of solution in which the sulfur dioxide sample is contained, 100 ml.
-Vt = Volume of barium perchlorate titrant used for the sample, ml (average of replicate titrations).
-Vtb = Volume of barium perchlorate titrant used for the blank, ml.
+T m = Average dry gas meter absolute temperature, °K (°R).
+T std = Standard absolute temperature, 293 °K (528 °R).
+V a = Volume of sample aliquot titrated, ml.
+V m = Dry gas volume as measured by the dry gas meter, liters (dcf).
+V m(std) = Dry gas volume measured by the dry gas meter, corrected to standard conditions, liters (dscf).
+V soln = Total volume of solution in which the sulfur dioxide sample is contained, 100 ml.
+V t = Volume of barium perchlorate titrant used for the sample, ml (average of replicate titrations).
+V tb = Volume of barium perchlorate titrant used for the blank, ml.
 Y = Dry gas meter calibration factor.
 32.03 = Equivalent weight of sulfur dioxide, mg/meq.
 12.2 Dry Sample Gas Volume, Corrected to Standard Conditions.
 ER17OC00.283
 Where:
-K1 = 0.3855 °K/mm Hg for metric units,
+K 1 = 0.3855 °K/mm Hg for metric units,
 = 17.65 °R/in. Hg for English units.
-12.3 Concentration of TRS as ppm SO2.
+12.3 Concentration of TRS as ppm SO 2.
 ER17OC00.284
 Where:
 ER17OC00.285
@@ -232,7 +232,7 @@ ER17oc00.286
 12.5 Recovery Efficiency for the System Performance Check.
 ER17oc00.287
 13.0 Method Performance
-13.1 Analytical Range. The lower detectable limit is 0.1 ppmv SO2 when sampling at 2 liters/min (4.2 ft3/hr) for 3 hours or 0.3 ppmv when sampling at 2 liters/min (4.2 ft3/hr) for 1 hour. The upper concentration limit of the method exceeds the TRS levels generally encountered at kraft pulp mills.
+13.1 Analytical Range. The lower detectable limit is 0.1 ppmv SO 2 when sampling at 2 liters/min (4.2 ft 3 /hr) for 3 hours or 0.3 ppmv when sampling at 2 liters/min (4.2 ft 3 /hr) for 1 hour. The upper concentration limit of the method exceeds the TRS levels generally encountered at kraft pulp mills.
 13.2 Precision. Relative standard deviations of 2.0 and 2.6 percent were obtained when sampling a recovery boiler for 1 and 3 hours, respectively.
 13.3 Bias.
 13.3.1 No bias was found in Method 16A relative to Method 16 in a separate study at a recovery boiler.
@@ -241,16 +241,16 @@ ER17oc00.287
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
 16.0 Alternative Procedures
-As an alternative to the procedures specified in section 7.1.4, the following procedure may be used to verify the H2S concentration of the recovery check gas.
-16.1 Summary. The H2S is collected from the calibration gas cylinder and is absorbed in zinc acetate solution to form zinc sulfide. The latter compound is then measured iodometrically.
+As an alternative to the procedures specified in section 7.1.4, the following procedure may be used to verify the H 2 S concentration of the recovery check gas.
+16.1 Summary. The H 2 S is collected from the calibration gas cylinder and is absorbed in zinc acetate solution to form zinc sulfide. The latter compound is then measured iodometrically.
 16.2 Range. The procedure has been examined in the range of 5 to 1500 ppmv.
-16.3 Interferences. There are no known interferences to this procedure when used to analyze cylinder gases containing H2S in nitrogen.
+16.3 Interferences. There are no known interferences to this procedure when used to analyze cylinder gases containing H 2 S in nitrogen.
 16.4 Precision and Bias. Laboratory tests have shown a relative standard deviation of less than 3 percent. The procedure showed no bias when compared to a gas chromatographic method that used gravimetrically certified permeation tubes for calibration.
 16.5 Equipment and Supplies.
 16.5.1 Sampling Apparatus. The sampling train is shown in Figure 16A-4. Its component parts are discussed in sections 16.5.1.1 through 16.5.2.
-16.5.1.1 Sampling Line. Teflon tubing (1/4-in.) to connect the cylinder regulator to the sampling valve.
+16.5.1.1 Sampling Line. Teflon tubing (1/4 -in.) to connect the cylinder regulator to the sampling valve.
 16.5.1.2 Needle Valve. Stainless steel or Teflon needle valve to control the flow rate of gases to the impingers.
-16.5.1.3 Impingers. Three impingers of approximately 100-ml capacity, constructed to permit the addition of reagents through the gas inlet stem. The impingers shall be connected in series with leak-free glass or Teflon connectors. The impinger bottoms have a standard 24/25 ground-glass fitting. The stems are from standard 6.4-mm (1/4-in.) ball joint midget impingers, custom lengthened by about 1 in. When fitted together, the stem end should be approximately 1.27 cm (1/2 in.) from the bottom (Southern Scientific, Inc., Micanopy, Florida: Set Number S6962-048). The third in-line impinger acts as a drop-out bottle.
+16.5.1.3 Impingers. Three impingers of approximately 100-ml capacity, constructed to permit the addition of reagents through the gas inlet stem. The impingers shall be connected in series with leak-free glass or Teflon connectors. The impinger bottoms have a standard 24/25 ground-glass fitting. The stems are from standard 6.4-mm (1/4 -in.) ball joint midget impingers, custom lengthened by about 1 in. When fitted together, the stem end should be approximately 1.27 cm (1/2 in.) from the bottom (Southern Scientific, Inc., Micanopy, Florida: Set Number S6962-048). The third in-line impinger acts as a drop-out bottle.
 16.5.1.4 Drying Tube, Rate Meter, and Barometer. Same as Method 11, sections 6.1.5, 6.1.8, and 6.1.10, respectively.
 16.5.1.5 Cylinder Gas Regulator. Stainless steel, to reduce the pressure of the gas stream entering the Teflon sampling line to a safe level.
 16.5.1.6 Soap Bubble Meter. Calibrated for 100 and 500 ml, or two separate bubble meters.
@@ -271,32 +271,32 @@ As an alternative to the procedures specified in section 7.1.4, the following pr
 16.6 Reagents and Standards. Unless otherwise indicated, all reagents must conform to the specifications established by the Committee on Analytical Reagents of the American Chemical Society, where such specifications are available. Otherwise, use the best available grade.
 16.6.1 Water. Same as Method 11, section 7.1.3.
 16.6.2 Zinc Acetate Absorbing Solution. Dissolve 20 g zinc acetate in water, and dilute to 1 liter.
-16.6.3 Potassium Bi-iodate [KH(IO3)2] Solution, Standard 0.100 N. Dissolve 3.249 g anhydrous KH(IO3)2 in water, and dilute to 1 liter.
-16.6.4 Sodium Thiosulfate (Na2S2O3) Solution, Standard 0.1 N. Same as Method 11, section 7.3.2. Standardize according to section 16.12.2.
-16.6.5 Na2S2O3 Solution, Standard 0.01 N. Pipette 100.0 ml of 0.1 N Na2S2O3 solution into a 1-liter volumetric flask, and dilute to the mark with water.
+16.6.3 Potassium Bi-iodate [KH(IO 3) 2] Solution, Standard 0.100 N. Dissolve 3.249 g anhydrous KH(IO 3) 2 in water, and dilute to 1 liter.
+16.6.4 Sodium Thiosulfate (Na 2 S 2 O 3) Solution, Standard 0.1 N. Same as Method 11, section 7.3.2. Standardize according to section 16.12.2.
+16.6.5 Na 2 S 2 O 3 Solution, Standard 0.01 N. Pipette 100.0 ml of 0.1 N Na 2 S 2 O 3 solution into a 1-liter volumetric flask, and dilute to the mark with water.
 16.6.6 Iodine Solution, 0.1 N. Same as Method 11, section 7.2.3.
 16.6.7 Standard Iodine Solution, 0.01 N. Same as in Method 11, section 7.2.4. Standardize according to section 16.12.3.
 16.6.8 Hydrochloric Acid (HCl) Solution, 10 Percent by Weight. Add 230 ml concentrated HCl (specific gravity 1.19) to 770 ml water.
 16.6.9 Starch Indicator Solution. To 5 g starch (potato, arrowroot, or soluble), add a little cold water, and grind in a mortar to a thin paste. Pour into 1 liter of boiling water, stir, and let settle overnight. Use the clear supernatant. Preserve with 1.25 g salicylic acid, 4 g zinc chloride, or a combination of 4 g sodium propionate and 2 g sodium azide per liter of starch solution. Some commercial starch substitutes are satisfactory.
 16.7 Pre-test Procedures.
-16.7.1 Selection of Gas Sample Volumes. This procedure has been validated for estimating the volume of cylinder gas sample needed when the H2S concentration is in the range of 5 to 1500 ppmv. The sample volume ranges were selected in order to ensure a 35 to 60 percent consumption of the 20 ml of 0.01 N iodine (thus ensuring a 0.01 N Na2S2O3 titer of approximately 7 to 12 ml). The sample volumes for various H2S concentrations can be estimated by dividing the approximate ppm-liters desired for a given concentration range by the H2S concentration stated by the manufacturer. For example, for analyzing a cylinder gas containing approximately 10 ppmv H2S, the optimum sample volume is 65 liters (650 ppm-liters/10 ppmv). For analyzing a cylinder gas containing approximately 1000 ppmv H2S, the optimum sample volume is 1 liter (1000 ppm-liters/1000 ppmv).
-Approximate cylinder gas H2S concentration (ppmv) | Approximateppm-liters desired
+16.7.1 Selection of Gas Sample Volumes. This procedure has been validated for estimating the volume of cylinder gas sample needed when the H 2 S concentration is in the range of 5 to 1500 ppmv. The sample volume ranges were selected in order to ensure a 35 to 60 percent consumption of the 20 ml of 0.01 N iodine (thus ensuring a 0.01 N Na 2 S 2 O 3 titer of approximately 7 to 12 ml). The sample volumes for various H 2 S concentrations can be estimated by dividing the approximate ppm-liters desired for a given concentration range by the H 2 S concentration stated by the manufacturer. For example, for analyzing a cylinder gas containing approximately 10 ppmv H 2 S, the optimum sample volume is 65 liters (650 ppm-liters/10 ppmv). For analyzing a cylinder gas containing approximately 1000 ppmv H 2 S, the optimum sample volume is 1 liter (1000 ppm-liters/1000 ppmv).
+Approximate cylinder gas H 2 S concentration (ppmv) | Approximate ppm-liters desired
 5 to <30 | 650
 30 to <500 | 800
 500 to <1500 | 1000
-16.7.2 Critical Orifice Flow Rate Selection. The following table shows the ranges of sample flow rates that are desirable in order to ensure capture of H2S in the impinger solution. Slight deviations from these ranges will not have an impact on measured concentrations.
-Cylinder gas H2S concentration (ppmv) | Criticalorifice flow rate (ml/min)
+16.7.2 Critical Orifice Flow Rate Selection. The following table shows the ranges of sample flow rates that are desirable in order to ensure capture of H 2 S in the impinger solution. Slight deviations from these ranges will not have an impact on measured concentrations.
+Cylinder gas H 2 S concentration (ppmv) | Critical orifice flow rate (ml/min)
 5 to 50 ppmv | 1500 ±500
 50 to 250 ppmv | 500 ±250
 250 to <1000 ppmv | 200 ±50
 >1000 ppmv | 75 ±25
-16.7.3 Critical Orifice Fabrication. Critical orifice of desired flow rates may be fabricated by selecting an orifice tube of desired length and connecting 1/16-in. × 1/4-in. (0.16 cm × 0.64 cm) reducing fittings to both ends. The inside diameters and lengths of orifice tubes needed to obtain specific flow rates are shown below.
-Tube(in. OD) | Tube(in. ID) | Length(in.) | Flowrate(ml/min) | AltechCatalog No.
+16.7.3 Critical Orifice Fabrication. Critical orifice of desired flow rates may be fabricated by selecting an orifice tube of desired length and connecting 1/16 -in. × 1/4 -in. (0.16 cm × 0.64 cm) reducing fittings to both ends. The inside diameters and lengths of orifice tubes needed to obtain specific flow rates are shown below.
+Tube (in. OD) | Tube (in. ID) | Length (in.) | Flowrate (ml/min) | Altech Catalog No.
 1/16 | 0.007 | 1.2 | 85 | 301430
 1/16 | 0.01 | 3.2 | 215 | 300530
 1/16 | 0.01 | 1.2 | 350 | 300530
 1/16 | 0.02 | 1.2 | 1400 | 300230
-16.7.4 Determination of Critical Orifice Approximate Flow Rate. Connect the critical orifice to the sampling system as shown in Figure 16A-4 but without the H2S cylinder. Connect a rotameter in the line to the first impinger. Turn on the pump, and adjust the valve to give a reading of about half atmospheric pressure. Observe the rotameter reading. Slowly increase the vacuum until a stable flow rate is reached, and record this as the critical vacuum. The measured flow rate indicates the expected critical flow rate of the orifice. If this flow rate is in the range shown in section 16.7.2, proceed with the critical orifice calibration according to section 16.12.4.
+16.7.4 Determination of Critical Orifice Approximate Flow Rate. Connect the critical orifice to the sampling system as shown in Figure 16A-4 but without the H 2 S cylinder. Connect a rotameter in the line to the first impinger. Turn on the pump, and adjust the valve to give a reading of about half atmospheric pressure. Observe the rotameter reading. Slowly increase the vacuum until a stable flow rate is reached, and record this as the critical vacuum. The measured flow rate indicates the expected critical flow rate of the orifice. If this flow rate is in the range shown in section 16.7.2, proceed with the critical orifice calibration according to section 16.12.4.
 16.7.5 Determination of Approximate Sampling Time. Determine the approximate sampling time for a cylinder of known concentration. Use the optimum sample volume obtained in section 16.7.1.
 ER17oc00.288
 16.8 Sample Collection.
@@ -304,57 +304,57 @@ ER17oc00.288
 16.8.2 Place 50 ml of zinc acetate solution in two of the impingers, connect them and the empty third impinger (dropout bottle) and the rest of the equipment as shown in Figure 16A-4. Make sure the ground-glass fittings are tight. The impingers can be easily stabilized by using a small cardboard box in which three holes have been cut, to act as a holder. Connect the Teflon sample line to the first impinger. Cover the impingers with a dark cloth or piece of plastic to protect the absorbing solution from light during sampling.
 16.8.3 Record the temperature and barometric pressure. Note the gas flow rate through the rotameter. Open the closed end of the tee. Connect the sampling tube to the tee, ensuring a tight connection. Start the sampling pump and stopwatch simultaneously. Note the decrease in flow rate through the excess flow rotameter. This decrease should equal the known flow rate of the critical orifice being used. Continue sampling for the period determined in section 16.7.5.
 16.8.4 When sampling is complete, turn off the pump and stopwatch. Disconnect the sampling line from the tee and plug it. Close the needle valve followed by the cylinder valve. Record the sampling time.
-16.9 Blank Analysis. While the sample is being collected, run a blank as follows: To a 250-ml Erlenmeyer flask, add 100 ml of zinc acetate solution, 20.0 ml of 0.01 N iodine solution, and 2 ml HCl solution. Titrate, while stirring, with 0.01 N Na2S2O3 until the solution is light yellow. Add starch, and continue titrating until the blue color disappears. Analyze a blank with each sample, as the blank titer has been observed to change over the course of a day.
+16.9 Blank Analysis. While the sample is being collected, run a blank as follows: To a 250-ml Erlenmeyer flask, add 100 ml of zinc acetate solution, 20.0 ml of 0.01 N iodine solution, and 2 ml HCl solution. Titrate, while stirring, with 0.01 N Na 2 S 2 O 3 until the solution is light yellow. Add starch, and continue titrating until the blue color disappears. Analyze a blank with each sample, as the blank titer has been observed to change over the course of a day.
 Note: Iodine titration of zinc acetate solutions is difficult to perform because the solution turns slightly white in color near the end point, and the disappearance of the blue color is hard to recognize. In addition, a blue color may reappear in the solution about 30 to 45 seconds after the titration endpoint is reached. This should not be taken to mean the original endpoint was in error. It is recommended that persons conducting this test perform several titrations to be able to correctly identify the endpoint. The importance of this should be recognized because the results of this analytical procedure are extremely sensitive to errors in titration.
-16.10 Sample Analysis. Sample treatment is similar to the blank treatment. Before detaching the stems from the bottoms of the impingers, add 20.0 ml of 0.01 N iodine solution through the stems of the impingers holding the zinc acetate solution, dividing it between the two (add about 15 ml to the first impinger and the rest to the second). Add 2 ml HCl solution through the stems, dividing it as with the iodine. Disconnect the sampling line, and store the impingers for 30 minutes. At the end of 30 minutes, rinse the impinger stems into the impinger bottoms. Titrate the impinger contents with 0.01 N Na2S2O3. Do not transfer the contents of the impinger to a flask because this may result in a loss of iodine and cause a positive bias.
-16.11 Post-test Orifice Calibration. Conduct a post-test critical orifice calibration run using the calibration procedures outlined in section 16.12.4. If the Qstd obtained before and after the test differs by more than 5 percent, void the sample; if not, proceed to perform the calculations.
+16.10 Sample Analysis. Sample treatment is similar to the blank treatment. Before detaching the stems from the bottoms of the impingers, add 20.0 ml of 0.01 N iodine solution through the stems of the impingers holding the zinc acetate solution, dividing it between the two (add about 15 ml to the first impinger and the rest to the second). Add 2 ml HCl solution through the stems, dividing it as with the iodine. Disconnect the sampling line, and store the impingers for 30 minutes. At the end of 30 minutes, rinse the impinger stems into the impinger bottoms. Titrate the impinger contents with 0.01 N Na 2 S 2 O 3. Do not transfer the contents of the impinger to a flask because this may result in a loss of iodine and cause a positive bias.
+16.11 Post-test Orifice Calibration. Conduct a post-test critical orifice calibration run using the calibration procedures outlined in section 16.12.4. If the Q std obtained before and after the test differs by more than 5 percent, void the sample; if not, proceed to perform the calculations.
 16.12 Calibrations and Standardizations.
 16.12.1 Rotameter and Barometer. Same as Method 11, sections 10.1.3 and 10.1.4.
-16.12.2 Na2S2O3 Solution, 0.1 N. Standardize the 0.1 N Na2S2O3 solution as follows: To 80 ml water, stirring constantly, add 1 ml concentrated H2SO4, 10.0 ml of 0.100 N KH(IO3)2 and 1 g potassium iodide. Titrate immediately with 0.1 N Na2S2O3 until the solution is light yellow. Add 3 ml starch solution, and titrate until the blue color just disappears. Repeat the titration until replicate analyses agree within 0.05 ml. Take the average volume of Na2S2O3 consumed to calculate the normality to three decimal figures using Equation 16A-5.
-16.12.3 Iodine Solution, 0.01 N. Standardize the 0.01 N iodine solution as follows: Pipet 20.0 ml of 0.01 N iodine solution into a 125-ml Erlenmeyer flask. Titrate with standard 0.01 N Na2S2O3 solution until the solution is light yellow. Add 3 ml starch solution, and continue titrating until the blue color just disappears. If the normality of the iodine tested is not 0.010, add a few ml of 0.1 N iodine solution if it is low, or a few ml of water if it is high, and standardize again. Repeat the titration until replicate values agree within 0.05 ml. Take the average volume to calculate the normality to three decimal figures using Equation 16A-6.
-16.12.4 Critical Orifice. Calibrate the critical orifice using the sampling train shown in Figure 16A-4 but without the H2S cylinder and vent rotameter. Connect the soap bubble meter to the Teflon line that is connected to the first impinger. Turn on the pump, and adjust the needle valve until the vacuum is higher than the critical vacuum determined in section 16.7.4. Record the time required for gas flow to equal the soap bubble meter volume (use the 100-ml soap bubble meter for gas flow rates below 100 ml/min, otherwise use the 500-ml soap bubble meter). Make three runs, and record the data listed in Table 16A-1. Use these data to calculate the volumetric flow rate of the orifice.
+16.12.2 Na 2 S 2 O 3 Solution, 0.1 N. Standardize the 0.1 N Na 2 S 2 O 3 solution as follows: To 80 ml water, stirring constantly, add 1 ml concentrated H 2 SO 4, 10.0 ml of 0.100 N KH(IO 3) 2 and 1 g potassium iodide. Titrate immediately with 0.1 N Na 2 S 2 O 3 until the solution is light yellow. Add 3 ml starch solution, and titrate until the blue color just disappears. Repeat the titration until replicate analyses agree within 0.05 ml. Take the average volume of Na 2 S 2 O 3 consumed to calculate the normality to three decimal figures using Equation 16A-5.
+16.12.3 Iodine Solution, 0.01 N. Standardize the 0.01 N iodine solution as follows: Pipet 20.0 ml of 0.01 N iodine solution into a 125-ml Erlenmeyer flask. Titrate with standard 0.01 N Na 2 S 2 O 3 solution until the solution is light yellow. Add 3 ml starch solution, and continue titrating until the blue color just disappears. If the normality of the iodine tested is not 0.010, add a few ml of 0.1 N iodine solution if it is low, or a few ml of water if it is high, and standardize again. Repeat the titration until replicate values agree within 0.05 ml. Take the average volume to calculate the normality to three decimal figures using Equation 16A-6.
+16.12.4 Critical Orifice. Calibrate the critical orifice using the sampling train shown in Figure 16A-4 but without the H 2 S cylinder and vent rotameter. Connect the soap bubble meter to the Teflon line that is connected to the first impinger. Turn on the pump, and adjust the needle valve until the vacuum is higher than the critical vacuum determined in section 16.7.4. Record the time required for gas flow to equal the soap bubble meter volume (use the 100-ml soap bubble meter for gas flow rates below 100 ml/min, otherwise use the 500-ml soap bubble meter). Make three runs, and record the data listed in Table 16A-1. Use these data to calculate the volumetric flow rate of the orifice.
 16.13 Calculations.
 16.13.1 Nomenclature.
-Bwa = Fraction of water vapor in ambient air during orifice calibration.
-CH 2 S = H2S concentration in cylinder gas, ppmv.
+B wa = Fraction of water vapor in ambient air during orifice calibration.
+C H 2 S = H 2 S concentration in cylinder gas, ppmv.
 ER17oc00.289
-Ma = Molecular weight of ambient air saturated at impinger temperature, g/g-mole.
-Ms = Molecular weight of sample gas (nitrogen) saturated at impinger temperature, g/g-mole.
-Note: (For tests carried out in a laboratory where the impinger temperature is 25 °C, Ma = 28.5 g/g-mole and Ms = 27.7 g/g-mole.)
-NI = Normality of standard iodine solution (0.01 N), g-eq/liter.
-NT = Normality of standard Na2S2O3 solution (0.01 N), g-eq/liter.
-Pbar = Barometric pressure, mm Hg.
-Pstd = Standard absolute pressure, 760 mm Hg.
-Qstd = Average volumetric flow rate through critical orifice, liters/min.
-Tamb = Absolute ambient temperature, °K.
-Tstd = Standard absolute temperature, 293 °K.
-θs = Sampling time, min.
-θsb = Time for soap bubble meter flow rate measurement, min.
-Vm(std) = Sample gas volume measured by the critical orifice, corrected to standard conditions, liters.
-Vsb = Volume of gas as measured by the soap bubble meter, ml.
-Vsb(std) = Volume of gas as measured by the soap bubble meter, corrected to standard conditions, liters.
-VI = Volume of standard iodine solution (0.01 N) used, ml.
-VT = Volume of standard Na2S2O3 solution (0.01 N) used, ml.
-VTB = Volume of standard Na2S2O3 solution (0.01 N) used for the blank, ml.
-16.13.2 Normality of Standard Na2S2O3 Solution (0.1 N).
+M a = Molecular weight of ambient air saturated at impinger temperature, g/g-mole.
+M s = Molecular weight of sample gas (nitrogen) saturated at impinger temperature, g/g-mole.
+Note: (For tests carried out in a laboratory where the impinger temperature is 25 °C, M a = 28.5 g/g-mole and M s = 27.7 g/g-mole.)
+N I = Normality of standard iodine solution (0.01 N), g-eq/liter.
+N T = Normality of standard Na 2 S 2 O 3 solution (0.01 N), g-eq/liter.
+P bar = Barometric pressure, mm Hg.
+P std = Standard absolute pressure, 760 mm Hg.
+Q std = Average volumetric flow rate through critical orifice, liters/min.
+T amb = Absolute ambient temperature, °K.
+T std = Standard absolute temperature, 293 °K.
+θ s = Sampling time, min.
+θ sb = Time for soap bubble meter flow rate measurement, min.
+V m(std) = Sample gas volume measured by the critical orifice, corrected to standard conditions, liters.
+V sb = Volume of gas as measured by the soap bubble meter, ml.
+V sb(std) = Volume of gas as measured by the soap bubble meter, corrected to standard conditions, liters.
+V I = Volume of standard iodine solution (0.01 N) used, ml.
+V T = Volume of standard Na 2 S 2 O 3 solution (0.01 N) used, ml.
+V TB = Volume of standard Na 2 S 2 O 3 solution (0.01 N) used for the blank, ml.
+16.13.2 Normality of Standard Na 2 S 2 O 3 Solution (0.1 N).
 ER17oc00.290
 16.13.3 Normality of Standard Iodine Solution (0.01 N).
 ER17oc00.291
 16.13.4 Sample Gas Volume.
 ER17oc00.292
-16.13.5 Concentration of H2S in the Gas Cylinder.
+16.13.5 Concentration of H 2 S in the Gas Cylinder.
 17.0 References
 ER17oc00.293
 1. American Public Health Association, American Water Works Association, and Water Pollution Control Federation. Standard Methods for the Examination of Water and Wastewater. Washington, DC. American Public Health Association. 1975. pp. 316-317.
 2. American Society for Testing and Materials. Annual Book of ASTM Standards. Part 31: Water, Atmospheric Analysis. Philadelphia, PA. 1974. pp. 40-42.
 3. Blosser, R.O. A Study of TRS Measurement Methods. National Council of the Paper Industry for Air and Stream Improvement, Inc., New York, NY. Technical Bulletin No. 434. May 1984. 14 pp.
-4. Blosser, R.O., H.S. Oglesby, and A.K. Jain. A Study of Alternate SO2 Scrubber Designs Used for TRS Monitoring. A Special Report by the National Council of the Paper Industry for Air and Stream Improvement, Inc., New York, NY. July 1977.
+4. Blosser, R.O., H.S. Oglesby, and A.K. Jain. A Study of Alternate SO 2 Scrubber Designs Used for TRS Monitoring. A Special Report by the National Council of the Paper Industry for Air and Stream Improvement, Inc., New York, NY. July 1977.
 5. Curtis, F., and G.D. McAlister. Development and Evaluation of an Oxidation/Method 6 TRS Emission Sampling Procedure. Emission Measurement Branch, Emission Standards and Engineering Division, U.S. Environmental Protection Agency, Research Triangle Park, NC 27711. February 1980.
 6. Gellman, I. A Laboratory and Field Study of Reduced Sulfur Sampling and Monitoring Systems. National Council of the Paper Industry for Air and Stream Improvement, Inc., New York, NY. Atmospheric Quality Improvement Technical Bulletin No. 81. October 1975.
 7. Margeson, J.H., J.E. Knoll, and M.R. Midgett. A Manual Method for TRS Determination. Source Branch, Quality Assurance Division, U.S. Environmental Protection Agency, Research Triangle Park, NC 27711.
-8. National Council of the Paper Industry for Air and Stream Improvement. An Investigation of H2S and SO2. Calibration Cylinder Gas Stability and Their Standardization Using Wet Chemical Techniques. Special Report 76-06. New York, NY. August 1976.
-9. National Council of the Paper Industry for Air and Stream Improvement. Wet Chemical Method for Determining the H2S Concentration of Calibration Cylinder Gases. Technical Bulletin Number 450. New York, NY. January 1985. 23 pp.
-10. National Council of the Paper Industry for Air and Stream Improvement. Modified Wet Chemical Method for Determining the H2S Concentration of Calibration Cylinder Gases. Draft Report. New York, NY. March 1987. 29 pp.
+8. National Council of the Paper Industry for Air and Stream Improvement. An Investigation of H 2 S and SO 2. Calibration Cylinder Gas Stability and Their Standardization Using Wet Chemical Techniques. Special Report 76-06. New York, NY. August 1976.
+9. National Council of the Paper Industry for Air and Stream Improvement. Wet Chemical Method for Determining the H 2 S Concentration of Calibration Cylinder Gases. Technical Bulletin Number 450. New York, NY. January 1985. 23 pp.
+10. National Council of the Paper Industry for Air and Stream Improvement. Modified Wet Chemical Method for Determining the H 2 S Concentration of Calibration Cylinder Gases. Draft Report. New York, NY. March 1987. 29 pp.
 18.0 Tables, Diagrams, Flowcharts, and Validation Data
 ER17OC00.294
 ER17OC00.295
@@ -370,7 +370,7 @@ Run no. 3 __ min __ sec
 Average __ min __ sec
 Covert the seconds to fraction of minute:
 Time=__ min + __ Sec/60=__ min
-Barometric pressure, Pbar=__ mm Hg
+Barometric pressure, P bar =__ mm Hg
 Ambient temperature, t amb = 273 + __ °C=__ °K=__ mm Hg. (This should be approximately 0.4 times barometric pressure.)
 Pump vacuum,
 ER17OC00.298
@@ -381,66 +381,66 @@ Note: This method does not include all of the specifications (e.g., equipment an
 1.1 Analytes.
 Analyte | CAS No.
 Total reduced sulfur (TRS) including: | N/A
-Dimethyl disulfide (DMDS), [(CH3)2S2] | 62-49-20
-Dimethyl sulfide (DMS), [(CH3)2S] | 75-18-3
-Hydrogen sulfide (H2S) | 7783-06-4
-Methyl mercaptan (MeSH), [CH4S] | 74-93-1
-Reported as: Sulfur dioxide (SO2) | 7449-09-5
-1.2 Applicability. This method is applicable for determining TRS emissions from recovery furnaces (boilers), lime kilns, and smelt dissolving tanks at kraft pulp mills, and from other sources when specified in an applicable subpart of the regulations. The flue gas must contain at least 1 percent oxygen for complete oxidation of all TRS to SO2.
+Dimethyl disulfide (DMDS), [(CH 3) 2 S 2] | 62-49-20
+Dimethyl sulfide (DMS), [(CH 3) 2 S] | 75-18-3
+Hydrogen sulfide (H 2 S) | 7783-06-4
+Methyl mercaptan (MeSH), [CH 4 S] | 74-93-1
+Reported as: Sulfur dioxide (SO 2) | 7449-09-5
+1.2 Applicability. This method is applicable for determining TRS emissions from recovery furnaces (boilers), lime kilns, and smelt dissolving tanks at kraft pulp mills, and from other sources when specified in an applicable subpart of the regulations. The flue gas must contain at least 1 percent oxygen for complete oxidation of all TRS to SO 2.
 1.3 Data Quality Objectives. Adherence to the requirements of this method will enhance the quality of the data obtained from air pollutant sampling methods.
 2.0 Summary of Method
-2.1 An integrated gas sample is extracted from the stack. The SO2 is removed selectively from the sample using a citrate buffer solution. The TRS compounds are then thermally oxidized to SO2 and analyzed as SO2 by gas chromatography (GC) using flame photometric detection (FPD).
+2.1 A gas sample is extracted from the stack. The SO 2 is removed selectively from the sample using a citrate buffer solution. The TRS compounds are then thermally oxidized to SO 2 and analyzed as SO 2 by gas chromatography (GC) using flame photometric detection (FPD).
 3.0 Definitions [Reserved]
 4.0 Interferences
-4.1 Reduced sulfur compounds other than those regulated by the emission standards, if present, may be measured by this method. Therefore, carbonyl sulfide, which is partially oxidized to SO2 and may be present in a lime kiln exit stack, would be a positive interferant.
-4.2 Particulate matter from the lime kiln stack gas (primarily calcium carbonate) can cause a negative bias if it is allowed to enter the citrate scrubber; the particulate matter will cause the pH to rise and H2S to be absorbed before oxidation. Proper use of the particulate filter, described in section 6.1.3 of Method 16A, will eliminate this interference.
-4.3 Carbon monoxide (CO) and carbon dioxide (CO2) have substantial desensitizing effects on the FPD even after dilution. Acceptable systems must demonstrate that they have eliminated this interference by some procedure such as eluting these compounds before the SO2. Compliance with this requirement can be demonstrated by submitting chromatograms of calibration gases with and without CO2 in diluent gas. The CO2 level should be approximately 10 percent for the case with CO2 present. The two chromatograms should show agreement within the precision limits of section 13.0.
+4.1 Reduced sulfur compounds other than those regulated by the emission standards, if present, may be measured by this method. Therefore, carbonyl sulfide, which is partially oxidized to SO 2 and may be present in a lime kiln exit stack, would be a positive interferant.
+4.2 Particulate matter from the lime kiln stack gas (primarily calcium carbonate) can cause a negative bias if it is allowed to enter the citrate scrubber; the particulate matter will cause the pH to rise and H 2 S to be absorbed before oxidation. Proper use of the particulate filter, described in section 6.1.3 of Method 16A, will eliminate this interference.
+4.3 Carbon monoxide (CO) and carbon dioxide (CO 2) have substantial desensitizing effects on the FPD even after dilution. Acceptable systems must demonstrate that they have eliminated this interference by some procedure such as eluting these compounds before the SO 2. Compliance with this requirement can be demonstrated by submitting chromatograms of calibration gases with and without CO 2 in diluent gas. The CO 2 level should be approximately 10 percent for the case with CO 2 present. The two chromatograms should show agreement within the precision limits of section 13.0.
 5.0 Safety
 5.1 Disclaimer. This method may involve hazardous materials, operations, and equipment. This test method may not address all of the safety problems associated with its use. It is the responsibility of the user of this test method to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to performing this test method.
-5.2 Hydrogen Sulfide (H2S). A flammable, poisonous gas with the odor of rotten eggs. H2S is extremely hazardous and can cause collapse, coma, and death within a few seconds of one or two inhalations at sufficient concentrations. Low concentrations irritate the mucous membranes and may cause nausea, dizziness, and headache after exposure.
+5.2 Hydrogen Sulfide (H 2 S). A flammable, poisonous gas with the odor of rotten eggs. H 2 S is extremely hazardous and can cause collapse, coma, and death within a few seconds of one or two inhalations at sufficient concentrations. Low concentrations irritate the mucous membranes and may cause nausea, dizziness, and headache after exposure.
 6.0 Equipment and Supplies
-6.1 Sample Collection. The sampling train is shown in Figure 16B-1. Modifications to the apparatus are accepted provided the system performance check in section 8.4.1 is met.
-6.1.1 Probe, Probe Brush, Particulate Filter, SO2 Scrubber, Combustion Tube, and Furnace. Same as in Method 16A, sections 6.1.1 to 6.1.6.
+6.1 Sample Collection. The sampling train is shown in Figure 16B-1. Modifications to the apparatus are accepted provided the system performance check in section 8.3.1 is met.
+6.1.1 Probe, Probe Brush, Particulate Filter, SO 2 Scrubber, Combustion Tube, and Furnace. Same as in Method 16A, sections 6.1.1 to 6.1.6.
 6.1.2 Sampling Pump. Leakless Teflon-coated diaphragm type or equivalent.
 6.2 Analysis.
 6.2.1 Dilution System (optional), Gas Chromatograph, Oven, Temperature Gauges, Flow System, Flame Photometric Detector, Electrometer, Power Supply, Recorder, Calibration System, Tube Chamber, Flow System, and Constant Temperature Bath. Same as in Method 16, sections 6.2.1, 6.2.2, and 6.3.
-6.2.2 Gas Chromatograph Columns. Same as in Method 16, section 6.2.3. Other columns with demonstrated ability to resolve SO2 and be free from known interferences are acceptable alternatives. Single column systems such as a 7-ft Carbsorb B HT 100 column have been found satisfactory in resolving SO2 from CO2.
+6.2.2 Gas Chromatograph Columns. Same as in Method 16, section 6.2.3. Other columns with demonstrated ability to resolve SO 2 and be free from known interferences are acceptable alternatives. Single column systems such as a 7-ft Carbsorb B HT 100 column have been found satisfactory in resolving SO 2 from CO 2.
 7.0 Reagents and Standards
 Same as in Method 16, section 7.0, except for the following:
-7.1 Calibration Gas. SO2 permeation tube gravimetrically calibrated and certified at some convenient operating temperature. These tubes consist of hermetically sealed FEP Teflon tubing in which a liquefied gaseous substance is enclosed. The enclosed gas permeates through the tubing wall at a constant rate. When the temperature is constant, calibration gases covering a wide range of known concentrations can be generated by varying and accurately measuring the flow rate of diluent gas passing over the tubes. In place of SO2 permeation tubes, cylinder gases containing SO2 in nitrogen may be used for calibration. The cylinder gas concentration must be verified according to section 8.2.1 of Method 6C. The calibration gas is used to calibrate the GC/FPD system and the dilution system.
+7.1 Calibration Gas. SO 2 permeation tube gravimetrically calibrated and certified at some convenient operating temperature. These tubes consist of hermetically sealed FEP Teflon tubing in which a liquefied gaseous substance is enclosed. The enclosed gas permeates through the tubing wall at a constant rate. When the temperature is constant, calibration gases covering a wide range of known concentrations can be generated by varying and accurately measuring the flow rate of diluent gas passing over the tubes. In place of SO 2 permeation tubes, cylinder gases containing SO 2 in nitrogen may be used for calibration. The cylinder gas concentration must be verified according to section 8.2.1 of Method 6C. The calibration gas is used to calibrate the GC/FPD system and the dilution system.
 7.2 Recovery Check Gas.
-7.2.1 Hydrogen sulfide [100 parts per million by volume (ppmv) or less] in nitrogen, stored in aluminum cylinders. Verify the concentration by Method 11, the procedure discussed in section 16.0 of Method 16A, or gas chromatography where the instrument is calibrated with an H2S permeation tube as described below. For the wet-chemical methods, the standard deviation should not exceed 5 percent on at least three 20-minute runs.
-7.2.2 Hydrogen sulfide recovery gas generated from a permeation device gravimetrically calibrated and certified at some convenient operation temperature may be used. The permeation rate of the device must be such that at a dilution gas flow rate of 3 liters/min (64 ft3/hr), an H2S concentration in the range of the stack gas or within 20 percent of the emission standard can be generated.
+7.2.1 Hydrogen sulfide [100 parts per million by volume (ppmv) or less] in nitrogen, stored in aluminum cylinders. Verify the concentration by Method 11, the procedure discussed in section 16.0 of Method 16A, or gas chromatography where the instrument is calibrated with an H 2 S permeation tube as described below. For the wet-chemical methods, the standard deviation should not exceed 5 percent on at least three 20-minute runs.
+7.2.2 Hydrogen sulfide recovery gas generated from a permeation device gravimetrically calibrated and certified at some convenient operation temperature may be used. The permeation rate of the device must be such that at a dilution gas flow rate of 3 liters/min (64 ft 3 /hr), an H 2 S concentration in the range of the stack gas or within 20 percent of the emission standard can be generated.
 7.3 Combustion Gas. Gas containing less than 50 ppbv reduced sulfur compounds and less than 10 ppmv total hydrocarbons. The gas may be generated from a clean-air system that purifies ambient air and consists of the following components: diaphragm pump, silica gel drying tube, activated charcoal tube, and flow rate measuring device. Gas from a compressed air cylinder is also acceptable.
 8.0 Sample Collection, Preservation, Storage, and Transport
 8.1 Pretest Procedures. Same as in Method 15, section 8.1.
-8.2 Sample Collection. Before any source sampling is performed, conduct a system performance check as detailed in section 8.4.1 to validate the sampling train components and procedures. Although this test is optional, it would significantly reduce the possibility of rejecting tests as a result of failing the post-test performance check. At the completion of the pretest system performance check, insert the sampling probe into the test port making certain that no dilution air enters the stack though the port. Condition the entire system with sample for a minimum of 15 minutes before beginning analysis. If the sample is diluted, determine the dilution factor as in section 10.4 of Method 15.
-8.3 Analysis. Inject aliquots of the sample into the GC/FPD analyzer for analysis. Determine the concentration of SO2 directly from the calibration curves or from the equation for the least-squares line.
-8.4. Post-Test Procedures
-8.4.1 System Performance Check. Same as in Method 16A, section 8.5. A sufficient number of sample injections should be made so that the precision requirements of section 13.2 are satisfied.
-8.4.2 Determination of Calibration Drift. Same as in Method 15, section 8.3.2.
+8.2 Sample Collection. Before any source sampling is performed, conduct a system performance check as detailed in section 8.3.1 to validate the sampling train components and procedures. Although this test is optional, it would significantly reduce the possibility of rejecting tests as a result of failing the post-test performance check. At the completion of the pretest system performance check, insert the sampling probe into the test port making certain that no dilution air enters the stack though the port. Condition the entire system with sample for a minimum of 15 minutes before beginning analysis. If the sample is diluted, determine the dilution factor as in section 10.4 of Method 15.
+8.3. Post-Test Procedures
+8.3.1 System Performance Check. Same as in Method 16A, section 8.5. A sufficient number of sample injections should be made so that the precision requirements of section 13.2 are satisfied.
+8.3.2 Determination of Calibration Drift. Same as in Method 15, section 8.3.2.
 9.0 Quality Control
 Section | Quality control measure | Effect
 8.2, 8.3 | System performance check | Ensure validity of sampling train components and analytical procedure.
 8.1 | Sampling equipment leak-check and calibration | Ensure accurate measurement of stack gas flow rate, sample volume.
 10.0 | Analytical calibration | Ensure precision of analytical results within 5 percent.
 10.0 Calibration
-Same as in Method 16, section 10, except SO2 is used instead of H2S.
+Same as in Method 16, section 10, except SO 2 is used instead of H 2 S.
 11.0 Analytical Procedure
-11.1 Sample collection and analysis are concurrent for this method (see section 8.3).
+11.1 Analysis. Inject aliquots of the sample into the GC/FPD analyzer for analysis. Determine the concentration of SO 2 directly from the calibration curves or from the equation for the least-squares line.
+11.2 Perform analysis of a minimum of three aliquots or one every 15 minutes, whichever is greater, spaced evenly over the test period.
 12.0 Data Analysis and Calculations
 12.1 Nomenclature.
-CS O 2 = Sulfur dioxide concentration, ppmv.
-CT R S = Total reduced sulfur concentration as determined by Equation 16B-1, ppmv.
+C S O 2 = Sulfur dioxide concentration, ppmv.
+C T R S = Total reduced sulfur concentration as determined by Equation 16B-1, ppmv.
 d = Dilution factor, dimensionless.
 N = Number of samples.
-12.2 SO2 Concentration. Determine the concentration of SO2, CS O 2, directly from the calibration curves. Alternatively, the concentration may be calculated using the equation for the least-squares line.
+12.2 SO 2 Concentration. Determine the concentration of SO 2, C S O 2, directly from the calibration curves. Alternatively, the concentration may be calculated using the equation for the least-squares line.
 12.3 TRS Concentration.
 ER17OC00.299
 12.4 Average TRS Concentration
 ER17OC00.300
 13.0 Method Performance.
-13.1 Range and Sensitivity. Coupled with a GC using a 1-ml sample size, the maximum limit of the FPD for SO2 is approximately 10 ppmv. This limit is extended by diluting the sample gas before analysis or by reducing the sample aliquot size. For sources with emission levels between 10 and 100 ppm, the measuring range can be best extended by reducing the sample size.
+13.1 Range and Sensitivity. Coupled with a GC using a 1-ml sample size, the maximum limit of the FPD for SO 2 is approximately 10 ppmv. This limit is extended by diluting the sample gas before analysis or by reducing the sample aliquot size. For sources with emission levels between 10 and 100 ppm, the measuring range can be best extended by reducing the sample size.
 13.2 GC/FPD Calibration and Precision. A series of three consecutive injections of the sample calibration gas, at any dilution, must produce results which do not vary by more than 5 percent from the mean of the three injections.
 13.3 Calibration Drift. The calibration drift determined from the mean of the three injections made at the beginning and end of any run or series of runs within a 24-hour period must not exceed 5 percent.
 13.4 System Calibration Accuracy. Losses through the sample transport system must be measured and a correction factor developed to adjust the calibration accuracy to 100 percent.
@@ -463,20 +463,20 @@ Method 16C is a procedure for measuring total reduced sulfur (TRS) in stationary
 1.1 Analytes. What does Method 16C determine?
 Analyte | CAS No.
 Total reduced sulfur including: | N/A
-Dimethyl disulfide (DMDS), [(CH3)2S2] | 62-49-20
-Dimethyl sulfide (DMS), [(CH3)2S] | 75-18-3
-Hydrogen sulfide (H2S) | 7783-06-4
-Methyl mercaptan (MeSH), (CH4S) | 74-93-1
-Reported as: Sulfur dioxide (SO2) | 7449-09-5
+Dimethyl disulfide (DMDS), [(CH 3) 2 S 2] | 62-49-20
+Dimethyl sulfide (DMS), [(CH 3) 2 S] | 75-18-3
+Hydrogen sulfide (H 2 S) | 7783-06-4
+Methyl mercaptan (MeSH), (CH 4 S) | 74-93-1
+Reported as: Sulfur dioxide (SO 2) | 7449-09-5
 1.2 Applicability. This method is applicable for determining TRS emissions from recovery furnaces (boilers), lime kilns, and smelt dissolving tanks at kraft pulp mills, and from other sources when specified in an applicable subpart of the regulations.
 1.3 Data Quality Objectives. Adherence to the requirements described in Method 16C will enhance the quality of the data obtained.
 2.0 Summary of Method
-2.1 An integrated gas sample is extracted from the stack. The SO2 is removed selectively from the sample using a citrate buffer solution. The TRS compounds are then thermally oxidized to SO2 and determined as SO2 by an instrumental analyzer. This method is a combination of the sampling procedures of Method 16A and the analytical procedures of Method 6C (referenced in Method 7E), with minor modifications to facilitate their use together.
+2.1 An integrated gas sample is extracted from the stack. The SO 2 is removed selectively from the sample using a citrate buffer solution. The TRS compounds are then thermally oxidized to SO 2 and determined as SO 2 by an instrumental analyzer. This method is a combination of the sampling procedures of Method 16A and the analytical procedures of Method 6C (referenced in Method 7E), with minor modifications to facilitate their use together.
 3.0 Definitions
 Analyzer calibration error, Calibration curve, Calibration gas, Low-level gas, Mid-level gas, High-level gas, Calibration drift, Calibration span, Data recorder, Direct calibration mode, Gas analyzer, Interference check, Measurement system, Response time, Run, System calibration mode, System performance check, and Test are the same as used in Methods 16A and 6C.
 4.0 Interferences
-4.1 Reduced sulfur compounds other than those defined as TRS, if present, may be measured by this method. Compounds like carbonyl sulfide, which is partially oxidized to SO2 and may be present in a lime kiln exit stack, would be a positive interferent. Interferences may vary among instruments, and instrument-specific interferences must be evaluated through the interference check.
-4.2 Particulate matter from the lime kiln stack gas (primarily calcium carbonate) can cause a negative bias if it is allowed to enter the citrate scrubber; the particulate matter will cause the pH to rise and H2S to be absorbed before oxidation. Proper use of the particulate filter, described in section 6.1.3 of Method 16A, will eliminate this interference.
+4.1 Reduced sulfur compounds other than those defined as TRS, if present, may be measured by this method. Compounds like carbonyl sulfide, which is partially oxidized to SO 2 and may be present in a lime kiln exit stack, would be a positive interferent. Interferences may vary among instruments, and instrument-specific interferences must be evaluated through the interference check.
+4.2 Particulate matter from the lime kiln stack gas (primarily calcium carbonate) can cause a negative bias if it is allowed to enter the citrate scrubber; the particulate matter will cause the pH to rise and H 2 S to be absorbed before oxidation. Proper use of the particulate filter, described in section 6.1.3 of Method 16A, will eliminate this interference.
 5.0 Safety
 5.1 Disclaimer. This method may involve hazardous materials, operations, and equipment. This test method may not address all of the safety problems associated with its use. It is the responsibility of the user to establish appropriate safety and health practices before performing this test method.
 5.2 Hydrogen Sulfide. Hydrogen sulfide is a flammable, poisonous gas with the odor of rotten eggs. Hydrogen sulfide is extremely hazardous and can cause collapse, coma, and death within a few seconds of one or two inhalations at sufficient concentrations. Low concentrations irritate the mucous membranes and may cause nausea, dizziness, and headache after exposure. It is the responsibility of the user of this test method to establish appropriate safety and health practices.
@@ -486,29 +486,29 @@ The measurement system is similar to those applicable components in Methods 16A 
 6.1 Probe. Teflon tubing, 6.4-mm (1/4 in.) diameter, sequentially wrapped with heat-resistant fiber strips, a rubberized heat tape (plug at one end), and heat-resistant adhesive tape. A flexible thermocouple or other suitable temperature measuring device must be placed between the Teflon tubing and the fiber strips so that the temperature can be monitored to prevent softening of the probe. The probe must be sheathed in stainless steel to provide in-stack rigidity. A series of bored-out stainless steel fittings placed at the front of the sheath will prevent moisture and particulate from entering between the probe and sheath. A 6.4-mm (1/4 in.) Teflon elbow (bored out) must be attached to the inlet of the probe, and a 2.54 cm (1 in.) piece of Teflon tubing must be attached at the open end of the elbow to permit the opening of the probe to be turned away from the particulate stream; this will reduce the amount of particulate drawn into the sampling train. The probe is depicted in Figure 16A-2 of Method 16A.
 6.2 Probe Brush. Nylon bristle brush with handle inserted into a 3.2-mm (1/8 in.) Teflon tubing. The Teflon tubing should be long enough to pass the brush through the length of the probe.
 6.3 Particulate Filter. 50-mm Teflon filter holder and a 1- to 2-µm porosity, Teflon filter (may be available through Savillex Corporation, 5325 Highway 101, Minnetonka, Minnesota 55343, or other suppliers of filters). The filter holder must be maintained in a hot box at a temperature sufficient to prevent moisture condensation. A temperature of 121 °C (250 °F) was found to be sufficient when testing a lime kiln under sub-freezing ambient conditions.
-6.4 SO2 Scrubber. Three 300-ml Teflon segmented impingers connected in series with flexible, thick-walled, Teflon tubing. (Impinger parts and tubing may be available through Savillex or other suppliers.) The first two impingers contain 100 ml of citrate buffer, and the third impinger is initially dry. The tip of the tube inserted into the solution should be constricted to less than 3 mm (1/8 in.) ID and should be immersed to a depth of at least 5 cm (2 in.).
+6.4 SO 2 Scrubber. Three 300-ml Teflon segmented impingers connected in series with flexible, thick-walled, Teflon tubing. (Impinger parts and tubing may be available through Savillex or other suppliers.) The first two impingers contain 100 ml of citrate buffer, and the third impinger is initially dry. The tip of the tube inserted into the solution should be constricted to less than 3 mm (1/8 in.) ID and should be immersed to a depth of at least 5 cm (2 in.).
 6.5 Combustion Tube. Quartz glass tubing with an expanded combustion chamber 2.54 cm (1 in.) in diameter and at least 30.5 cm (12 in.) long. The tube ends should have an outside diameter of 0.6 cm (1/4 in.) and be at least 15.3 cm (6 in.) long. This length is necessary to maintain the quartz-glass connector near ambient temperature and thereby avoid leaks. Alternative combustion tubes are acceptable provided they are shown to combust TRS at concentrations encountered during tests.
 6.6 Furnace. A furnace of sufficient size to enclose the combustion chamber of the combustion tube with a temperature regulator capable of maintaining the temperature at 800 ±100 °C (1472 ±180 °F). The furnace operating temperature should be checked with a thermocouple to ensure accuracy.
 6.7 Sampling Pump. A leak-free pump is required to pull the sample gas through the system at a flow rate sufficient to minimize the response time of the measurement system and must be constructed of material that is non-reactive to the gas it contacts. For dilution-type measurement systems, an eductor pump may be used to create a vacuum that draws the sample through a critical orifice at a constant rate.
 6.8 Calibration Gas Manifold. The calibration gas manifold must allow the introduction of calibration gases either directly to the gas analyzer in direct calibration mode or into the measurement system, at the probe, in system calibration mode, or both, depending upon the type of system used. In system calibration mode, the system must be able to flood the sampling probe and vent excess gas. Alternatively, calibration gases may be introduced at the calibration valve following the probe. Maintain a constant pressure in the gas manifold. For in-stack dilution-type systems, a gas dilution subsystem is required to transport large volumes of purified air to the sample probe, and a probe controller is needed to maintain the proper dilution ratio.
-6.9 Sample Gas Manifold. The sample gas manifold diverts a portion of the sample to the analyzer, delivering the remainder to the by-pass discharge vent. The manifold should also be able to introduce calibration gases directly to the analyzer. The manifold must be made of material that is non-reactive to SO2 and be configured to safely discharge the bypass gas.
-6.10 SO2 Analyzer. You must use an instrument that uses an ultraviolet, non-dispersive infrared, fluorescence, or other detection principle to continuously measure SO2 in the gas stream provided it meets the performance specifications in section 13.0.
+6.9 Sample Gas Manifold. The sample gas manifold diverts a portion of the sample to the analyzer, delivering the remainder to the by-pass discharge vent. The manifold should also be able to introduce calibration gases directly to the analyzer. The manifold must be made of material that is non-reactive to SO 2 and be configured to safely discharge the bypass gas.
+6.10 SO 2 Analyzer. You must use an instrument that uses an ultraviolet, non-dispersive infrared, fluorescence, or other detection principle to continuously measure SO 2 in the gas stream provided it meets the performance specifications in section 13.0.
 6.11 Data Recording. A strip chart recorder, computerized data acquisition system, digital recorder, or data logger for recording measurement data must be used.
 7.0 Reagents and Standards
 Note: Unless otherwise indicated, all reagents must conform to the specifications established by the Committee on Analytical Reagents of the American Chemical Society. When such specifications are not available, the best available grade must be used.
-7.1 Water. Deionized distilled water must conform to ASTM Specification D 1193-77 or 91 Type 3 (incorporated by reference—see § 60.17). The KMnO4 test for oxidizable organic matter may be omitted when high concentrations of organic matter are not expected to be present.
+7.1 Water. Deionized distilled water must conform to ASTM Specification D 1193-77 or 91 Type 3 (incorporated by reference—see § 60.17). The KMnO 4 test for oxidizable organic matter may be omitted when high concentrations of organic matter are not expected to be present.
 7.2 Citrate Buffer. Dissolve 300 g of potassium citrate (or 284 g of sodium citrate) and 41 g of anhydrous citric acid in 1 liter of water (200 ml is needed per test). Adjust the pH to between 5.4 and 5.6 with potassium citrate or citric acid, as required.
 7.3 Calibration Gas. Refer to section 7.1 of Method 7E (as applicable) for the calibration gas requirements. Example calibration gas mixtures are listed below.
-(a) SO2 in nitrogen (N2).
-(b) SO2 in air.
-(c) SO2 and carbon dioxide (CO2) in N2.
-(d) SO2 and oxygen (O2) in N2.
-(e) SO2/CO2/O2 gas mixture in N2.
-(f) CO2/NOX gas mixture in N2.
-(g) CO2/SO2/NOX gas mixture in N2.
-For fluorescence-based analyzers, the O2 and CO2 concentrations of the calibration gases as introduced to the analyzer must be within 1.0 percent (absolute) O2 and 1.0 percent (absolute) CO2 of the O2 and CO2 concentrations of the effluent samples as introduced to the analyzer. Alternatively, for fluorescence-based analyzers, use calibration blends of SO2 in air and the nomographs provided by the vendor to determine the quenching correction factor (the effluent O2 and CO2 concentrations must be known). This requirement does not apply to ambient-level fluorescence analyzers that are used in conjunction with sample dilution systems. Alternatively, H2S in O2 or air may be used to calibrate the analyzer through the tube furnace.
-7.4 System Performance Check Gas. You must use H2S (100 ppmv or less) stored in aluminum cylinders with the concentration certified by the manufacturer. Hydrogen sulfide in nitrogen is more stable than H2S in air, but air may be used as the balance gas.
-Note: Alternatively, H2S recovery gas generated from a permeation device gravimetrically calibrated and certified at some convenient operating temperature may be used. The permeation rate of the device must be such that at the appropriate dilution gas flow rate, an H2S concentration can be generated in the range of the stack gas or within 20 percent of the emission standard.
+(a) SO 2 in nitrogen (N 2).
+(b) SO 2 in air.
+(c) SO 2 and carbon dioxide (CO 2) in N 2.
+(d) SO 2 and oxygen (O 2) in N 2.
+(e) SO 2 /CO 2 /O 2 gas mixture in N 2.
+(f) CO 2 /NO X gas mixture in N 2.
+(g) CO 2 /SO 2 /NO X gas mixture in N 2.
+For fluorescence-based analyzers, the O 2 and CO 2 concentrations of the calibration gases as introduced to the analyzer must be within 1.0 percent (absolute) O 2 and 1.0 percent (absolute) CO 2 of the O 2 and CO 2 concentrations of the effluent samples as introduced to the analyzer. Alternatively, for fluorescence-based analyzers, use calibration blends of SO 2 in air and the nomographs provided by the vendor to determine the quenching correction factor (the effluent O 2 and CO 2 concentrations must be known). This requirement does not apply to ambient-level fluorescence analyzers that are used in conjunction with sample dilution systems. Alternatively, H 2 S in O 2 or air may be used to calibrate the analyzer through the tube furnace.
+7.4 System Performance Check Gas. You must use H 2 S (100 ppmv or less) stored in aluminum cylinders with the concentration certified by the manufacturer. Hydrogen sulfide in nitrogen is more stable than H 2 S in air, but air may be used as the balance gas.
+Note: Alternatively, H 2 S recovery gas generated from a permeation device gravimetrically calibrated and certified at some convenient operating temperature may be used. The permeation rate of the device must be such that at the appropriate dilution gas flow rate, an H 2 S concentration can be generated in the range of the stack gas or within 20 percent of the emission standard.
 7.5 Interference Check. Examples of test gases for the interference check are listed in Table 7E-3 of Method 7E.
 8.0 Sample Collection, Preservation, Storage, and Transport
 8.1 Pre-sampling Tests. Before measuring emissions, perform the following procedures:
@@ -518,10 +518,10 @@ Note: Alternatively, H2S recovery gas generated from a permeation device gravime
 (d) Verification that the interference check has been satisfied.
 8.1.1 Calibration Gas Verification. Obtain a certificate from the gas manufacturer documenting the quality of the gas. Confirm that the manufacturer certification is complete and current. Ensure that your calibration gas certifications have not expired. This documentation should be available on-site for inspection. To the extent practicable, select a high-level gas concentration that will result in the measured emissions being between 20 and 100 percent of the calibration span.
 8.1.2 Analyzer Calibration Error Test. After you have assembled, prepared, and calibrated your sampling system and analyzer, you must conduct a 3-point analyzer calibration error test before the first run and again after any failed system performance check or failed drift test to ensure the calibration is acceptable. Introduce the low-, mid-, and high-level calibration gases sequentially to the analyzer in direct calibration mode. For each calibration gas, calculate the analyzer calibration error using Equation 16C-1 in section 12.2. The calibration error for the low-, mid-, and high-level gases must not exceed 5.0 percent or 0.5 ppmv. If the calibration error specification is not met, take corrective action and repeat the test until an acceptable 3-point calibration is achieved.
-8.1.3 System Performance Check. A system performance check is done (1) to validate the sampling train components and procedure (prior to testing), and (2) to validate a test run (after a run). You must conduct a performance check in the field prior to testing, and after each 3-hour run or after three 1-hour runs. A performance check consists of sampling and analyzing a known concentration of H2S (system performance check gas) and comparing the analyzed concentration to the known concentration. To conduct the system performance check, mix the system performance check gas (Section 7.4) and ambient air, that has been conditioned to remove moisture and sulfur-containing gases, in a dilution system such as that shown in Figure 16A-3 of Method 16A. Alternatively, ultra-high purity (UHP) grade air may be used. Adjust the gas flow rates to generate an H2S concentration in the range of the stack gas or within 20 percent of the applicable standard and an oxygen concentration greater than 1 percent at a total flow rate of at least 2.5 liters/min (5.3 ft3/hr). Use Equation 16A-3 from Method 16A to calculate the concentration of system performance check gas generated. Calibrate the flow rate from both gas sources with a soap bubble flow meter so that the diluted concentration of H2S can be accurately calculated. Alternatively, mass flow controllers with documented calibrations may be used if UHP grade air is being used. Sample duration should be sufficiently long to ensure a stable response from the analyzer. Analyze in the same manner as the emission samples. Collect the sample through the probe of the sampling train using a manifold or other suitable device that will ensure extraction of a representative sample. The TRS sample concentration measured between system performance checks is corrected by the average of the pre- and post-system performance checks.
+8.1.3 System Performance Check. A system performance check is done (1) to validate the sampling train components and procedure (prior to testing), and (2) to validate a test run (after a run). You must conduct a performance check in the field prior to testing, and after each 3-hour run or after three 1-hour runs. A performance check consists of sampling and analyzing a known concentration of H 2 S (system performance check gas) and comparing the analyzed concentration to the known concentration. To conduct the system performance check, mix the system performance check gas (Section 7.4) and ambient air, that has been conditioned to remove moisture and sulfur-containing gases, in a dilution system such as that shown in Figure 16A-3 of Method 16A. Alternatively, ultra-high purity (UHP) grade air may be used. Adjust the gas flow rates to generate an H 2 S concentration in the range of the stack gas or within 20 percent of the applicable standard and an oxygen concentration greater than 1 percent at a total flow rate of at least 2.5 liters/min (5.3 ft3/hr). Use Equation 16A-3 from Method 16A to calculate the concentration of system performance check gas generated. Calibrate the flow rate from both gas sources with a soap bubble flow meter so that the diluted concentration of H 2 S can be accurately calculated. Alternatively, mass flow controllers with documented calibrations may be used if UHP grade air is being used. Sample duration should be sufficiently long to ensure a stable response from the analyzer. Analyze in the same manner as the emission samples. Collect the sample through the probe of the sampling train using a manifold or other suitable device that will ensure extraction of a representative sample. The TRS sample concentration measured between system performance checks is corrected by the average of the pre- and post-system performance checks.
 8.1.4 Interference Check. Same as in Method 7E, section 8.2.7.
 8.2 Measurement System Preparation.
-8.2.1 For the SO2 scrubber, measure 100 ml of citrate buffer into the first and second impingers; leave the third impinger empty. Immerse the impingers in an ice bath, and locate them as close as possible to the filter heat box. The connecting tubing should be free of loops. Maintain the probe and filter temperatures sufficiently high to prevent moisture condensation, and monitor with a suitable temperature sensor. Prepare the oxidation furnace and maintain at 800 ±100 °C (1472 ±180 °F).
+8.2.1 For the SO 2 scrubber, measure 100 ml of citrate buffer into the first and second impingers; leave the third impinger empty. Immerse the impingers in an ice bath, and locate them as close as possible to the filter heat box. The connecting tubing should be free of loops. Maintain the probe and filter temperatures sufficiently high to prevent moisture condensation, and monitor with a suitable temperature sensor. Prepare the oxidation furnace and maintain at 800 ±100 °C (1472 ±180 °F).
 8.2.2 Citrate Scrubber Conditioning Procedure. Condition the citrate buffer scrubbing solution by pulling stack gas through the Teflon impingers as described in section 8.4.1.
 8.3 Pretest Procedures. After the complete measurement system has been set up at the site and deemed to be operational, the following procedures must be completed before sampling is initiated.
 8.3.1 Leak-Check. Appropriate leak-check procedures must be employed to verify the integrity of all components, sample lines, and connections. For components upstream of the sample pump, attach the probe end of the sample line to a manometer or vacuum gauge, start the pump and pull a vacuum greater than 50 mm (2 in.) Hg, close off the pump outlet, and then stop the pump and ascertain that there is no leak for 1 minute. For components after the pump, apply a slight positive pressure and check for leaks by applying a liquid (detergent in water, for example) at each joint. Bubbling indicates the presence of a leak.
@@ -546,12 +546,12 @@ Because sample collection and analysis are performed together (see section 8.0),
 12.1 Nomenclature.
 ACE = Analyzer calibration error, percent of calibration span.
 CD = Calibration drift, percent.
-CDir = Measured concentration of a calibration gas (low, mid, or high) when introduced in direct calibration mode, ppmv.
-CH2S = Concentration of the system performance check gas, ppmv H2S.
-CS = Measured concentration of the system performance gas when introduced in system calibration mode, ppmv H2S.
-CV = Manufacturer certified concentration of a calibration gas (low, mid, or high), ppmv SO2.
-CSO2 = Unadjusted sample SO2 concentration, ppmv.
-CTRS = Total reduced sulfur concentration corrected for system performance, ppmv.
+C Dir = Measured concentration of a calibration gas (low, mid, or high) when introduced in direct calibration mode, ppmv.
+C H2S = Concentration of the system performance check gas, ppmv H 2 S.
+C S = Measured concentration of the system performance gas when introduced in system calibration mode, ppmv H 2 S.
+C V = Manufacturer certified concentration of a calibration gas (low, mid, or high), ppmv SO 2.
+C SO2 = Unadjusted sample SO 2 concentration, ppmv.
+C TRS = Total reduced sulfur concentration corrected for system performance, ppmv.
 CS = Calibration span, ppmv.
 DF = Dilution system (if used) dilution factor, dimensionless.
 SP = System performance, percent.
@@ -559,14 +559,14 @@ SP = System performance, percent.
 ER30AU16.009
 12.3 System Performance Check. Use Equation 16C-2 to calculate the system performance.
 ER30JY12.176
-12.4 Calibration Drift. Use Equation 16C-3 to calculate the calibration drift at a single concentration level after a run or series of runs (not to exceed a 24-hr period) from initial calibration. Compare the single-level calibration gas error (ACEn) to the original error obtained for that gas in the initial analyzer calibration error test (ACEi).
+12.4 Calibration Drift. Use Equation 16C-3 to calculate the calibration drift at a single concentration level after a run or series of runs (not to exceed a 24-hr period) from initial calibration. Compare the single-level calibration gas error (ACE n) to the original error obtained for that gas in the initial analyzer calibration error test (ACE i).
 ER30JY12.177
-12.5 TRS Concentration as SO2. For each sample or test run, calculate the arithmetic average of SO2 concentration values (e.g., 1-minute averages). Then calculate the sample TRS concentration by adjusting the average value of CSO2 for system performance using Equation 16C-4.
+12.5 TRS Concentration as SO 2. For each sample or test run, calculate the arithmetic average of SO 2 concentration values (e.g., 1-minute averages). Then calculate the sample TRS concentration by adjusting the average value of C SO2 for system performance using Equation 16C-4.
 ER27FE14.016
 13.0 Method Performance
-13.1 Analyzer Calibration Error. At each calibration gas level (low, mid, and high), the calibration error must either not exceed 5.0 percent of the calibration gas concentration or |CDir−Cv| must be ≤0.5 ppmv.
-13.2 System Performance. Each system performance check must not deviate from the system performance gas concentration by more than 20 percent. Alternatively, the results are acceptable if |Cs−CH2S| is ≤0.5 ppmv.
-13.3 Calibration Drift. The calibration drift at the end of any run or series of runs within a 24-hour period must not differ by more than 3.0 percent from the original ACE at the test concentration level or |ACEi−ACEn| must not exceed 0.5 ppmv.
+13.1 Analyzer Calibration Error. At each calibration gas level (low, mid, and high), the calibration error must either not exceed 5.0 percent of the calibration span or |C Dir −C v | must be ≤0.5 ppmv.
+13.2 System Performance. Each system performance check must not deviate from the system performance gas concentration by more than 20 percent. Alternatively, the results are acceptable if |C s −C H2S | is ≤0.5 ppmv.
+13.3 Calibration Drift. The calibration drift at the end of any run or series of runs within a 24-hour period must not differ by more than 3.0 percent from the original ACE at the test concentration level or |ACEi−ACE n | must not exceed 0.5 ppmv.
 13.4 Interference Check. For the analyzer, the total interference response (i.e., the sum of the interference responses of all tested gaseous components) must not be greater than 2.5 percent of the calibration span. Any interference is also acceptable if the sum of the responses does not exceed 0.5 ppmv for a calibration span of 5 to 10 ppmv, or 0.2 ppmv for a calibration span <5 ppmv.
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
@@ -595,7 +595,7 @@ Same as Method 5, section 3.0.
 6.1.2 Filter Holder. The in-stack filter holder shall be constructed of borosilicate or quartz glass, or stainless steel. If a gasket is used, it shall be made of silicone rubber, Teflon, or stainless steel. Other holder and gasket materials may be used, subject to the approval of the Administrator. The filter holder shall be designed to provide a positive seal against leakage from the outside or around the filter.
 6.1.3 Probe Extension. Any suitable rigid probe extension may be used after the filter holder.
 6.1.4 Pitot Tube. Same as in Method 5, section 6.1.3.
-6.1.4.1 It is recommended (1) that the pitot tube have a known baseline coefficient, determined as outlined in section 10 of Method 2; and (2) that this known coefficient be preserved by placing the pitot tube in an interference-free arrangement with respect to the sampling nozzle, filter holder, and temperature sensor (see Figure 17-1). Note that the 1.9 cm (3/4-in.) free-space between the nozzle and pitot tube shown in Figure 17-1, is based on a 1.3 cm (1/2-in.) ID nozzle. If the sampling train is designed for sampling at higher flow rates than that described in APTD-0581, thus necessitating the use of larger sized nozzles, the free-space shall be 1.9 cm (3/4-in.) with the largest sized nozzle in place.
+6.1.4.1 It is recommended (1) that the pitot tube have a known baseline coefficient, determined as outlined in section 10 of Method 2; and (2) that this known coefficient be preserved by placing the pitot tube in an interference-free arrangement with respect to the sampling nozzle, filter holder, and temperature sensor (see Figure 17-1). Note that the 1.9 cm (3/4 -in.) free-space between the nozzle and pitot tube shown in Figure 17-1, is based on a 1.3 cm (1/2 -in.) ID nozzle. If the sampling train is designed for sampling at higher flow rates than that described in APTD-0581, thus necessitating the use of larger sized nozzles, the free-space shall be 1.9 cm (3/4 -in.) with the largest sized nozzle in place.
 6.1.4.2 Source-sampling assemblies that do not meet the minimum spacing requirements of Figure 17-1 (or the equivalent of these requirements, e.g., Figure 2-4 of Method 2) may be used; however, the pitot tube coefficients of such assemblies shall be determined by calibration, using methods subject to the approval of the Administrator.
 6.1.5 Condenser. It is recommended that the impinger system or alternatives described in Method 5 be used to determine the moisture content of the stack gas. Flexible tubing may be used between the probe extension and condenser. Long tubing lengths may affect the moisture determination.
 6.2 Sample Recovery. Probe-liner and probe-nozzle brushes, wash bottles, glass sample storage containers, petri dishes, graduated cylinder and/or balance, plastic storage containers, funnel and rubber policeman, funnel. Same as in Method 5, sections 6.2.1 through 6.2.8, respectively.
@@ -688,7 +688,7 @@ The major organic components of a gas mixture are separated by gas chromatograph
 8.2.1.5.2.1 Establish proper GC operating conditions as described in section 10.2, and record all data listed in Figure 18-7. Prepare the GC so that gas can be drawn through the sample valve. Flush the sample loop with calibration gas mixture, and activate the valve (sample pressure at the inlet to the GC introduction valve should be similar during calibration as during actual sample analysis). Obtain at least three chromatograms for the mixture. The results are acceptable when the peak areas for the three injections agree to within 5 percent of their average. If they do not agree, run additional samples or correct the analytical techniques until this requirement is met. Then analyze the other two calibration mixtures in the same manner. Prepare a calibration curve as described in section 10.2.
 8.2.1.5.2.2 Analyze the three source gas samples by connecting each bag to the sampling valve with a piece of Teflon tubing identified with that bag. Analyze each bag sample three times. Record the data in Figure 18-11. If certain items do not apply, use the notation "N.A." If the bag has been maintained at an elevated temperature as described in section 8.2.1.4, determine the stack gas water content by Method 4. After all samples have been analyzed, repeat the analysis of the mid-level calibration gas for each compound. Compare the average response factor of the pre- and post-test analysis for each compound. If they differ by >5percent, analyze the other calibration gas levels for that compound, and prepare a calibration curve using all the pre- and post-test calibration gas mixture values. If the two response factor averages (pre-and post-test) differ by less than 5 percent from their mean value, the tester has the option of using only the pre-test calibration curve to generate the concentration values.
 8.2.1.6 Determination of Bag Water Vapor Content. Measure the ambient temperature and barometric pressure near the bag. From a water saturation vapor pressure table, determine and record the water vapor content of the bag as a decimal figure. (Assume the relative humidity to be 100 percent unless a lesser value is known.) If the bag has been maintained at an elevated temperature as described in section 8.2.1.4, determine the stack gas water content by Method 4.
-8.2.1.8 Emission Calculations. From the calibration curve described in section 8.2.1.5, select the value of Cs that corresponds to the peak area. Calculate the concentration Cc in ppm, dry basis, of each organic in the sample using Equation 18-5 in section 12.6.
+8.2.1.8 Emission Calculations. From the calibration curve described in section 8.2.1.5, select the value of C s that corresponds to the peak area. Calculate the concentration C c in ppm, dry basis, of each organic in the sample using Equation 18-5 in section 12.6.
 8.2.2 Direct Interface Sampling and Analysis Procedure. The direct interface procedure can be used provided that the moisture content of the gas does not interfere with the analysis procedure, the physical requirements of the equipment can be met at the site, and the source gas concentration falls within the linear range of the detector. Adhere to all safety requirements with this method.
 8.2.2.1 Apparatus.
 8.2.2.1.1 Probe. Constructed of stainless steel, Pyrex glass, or Teflon tubing as dictated by duct temperature and reactivity of target compounds. A filter or glass wool plug may be needed if particulate is present in the stack gas. If necessary, heat the probe with heating tape or a special heating unit capable of maintaining a temperature greater than 110 °C.
@@ -761,7 +761,7 @@ Section | Quality control measure | Effect
 10.1 Calibration Standards. Obtain calibration gas standards for each target compound to be analyzed. Commercial cylinder gases certified by the manufacturer to be accurate to within 1 percent of the certified label value are preferable, although cylinder gases certified by the manufacturer to 2 percent accuracy are allowed. Another option allowed by this method is for the tester to obtain high concentration certified cylinder gases and then use a dilution system meeting the requirements of Test Method 205, 40 CFR Part 51, Appendix M to make multi-level calibration gas standards. Prepare or obtain enough calibration standards so that there are three different concentrations of each organic compound expected to be measured in the source sample. For each organic compound, select those concentrations that bracket the concentrations expected in the source samples. A calibration standard may contain more than one organic compound. If samples are collected in adsorbent tubes and extracted using solvent extraction, prepare or obtain standards in the same solvent used for the sample extraction procedure. Verify the stability of all standards for the time periods they are used.
 10.2 Preparation of Calibration Curves.
 10.2.1 Establish proper GC conditions, then flush the sampling loop for 30 seconds. Allow the sample loop pressure to equilibrate to atmospheric pressure, and activate the injection valve. Record the standard concentration, attenuator factor, injection time, chart speed, retention time, peak area, sample loop temperature, column temperature, and carrier gas flow rate. Analyze each standard in triplicate.
-10.2.2 Repeat this procedure for each standard. Prepare a graphical plot of concentration (Cs) versus the calibration area values. Perform a regression analysis, and draw the least square line.
+10.2.2 Repeat this procedure for each standard. Prepare a graphical plot of concentration (C s) versus the calibration area values. Perform a regression analysis, and draw the least square line.
 11.0 Analytical Procedures
 11.1 Analysis Development
 11.1.1 Selection of GC Parameters
@@ -776,49 +776,49 @@ Note: Most column manufacturers keep excellent records on their products. Their 
 11.1.1.4.4 Identify all peaks by comparing the known retention times of compounds expected to be in the retention times of peaks in the sample. Identify any remaining unidentified peaks which have areas larger than 5 percent of the total using a GC/MS, or estimation of possible compounds by their retention times compared to known compounds, with confirmation by further GC analysis.
 12.0 Data Analysis and Calculations
 12.1 Nomenclature.
-Bws = Water vapor content of the bag sample or stack gas, proportion by volume.
-Cs = Concentration of the organic from the calibration curve, ppm.
-Gv = Gas volume or organic compound injected, ml.
-Lv = Liquid volume of organic injected, µl.
+B ws = Water vapor content of the bag sample or stack gas, proportion by volume.
+C s = Concentration of the organic from the calibration curve, ppm.
+G v = Gas volume or organic compound injected, ml.
+L v = Liquid volume of organic injected, µl.
 M = Molecular weight of organic, g/g-mole.
-ms = Total mass of compound measured on adsorbent with spiked train (µg).
-mu = Total mass of compound measured on adsorbent with unspiked train (µg).
-mv = Mass per volume of spiked compound measured (µg/L).
-Pi = Barometric or absolute sample loop pressure at time of sample analysis, mm Hg.
-Pm = Absolute pressure of dry gas meter, mm Hg.
-Pr = Reference pressure, the barometric pressure or absolute sample loop pressure recorded during calibration, mm Hg.
-Ps = Absolute pressure of syringe before injection, mm Hg.
-qc = Flow rate of the calibration gas to be diluted.
-qc1 = Flow rate of the calibration gas to be diluted in stage 1.
-qc2 = Flow rate of the calibration gas to be diluted in stage 2.
-qd = Diluent gas flow rate.
-qd1 = Flow rate of diluent gas in stage 1.
-qd2 = Flow rate of diluent gas in stage 2.
+m s = Total mass of compound measured on adsorbent with spiked train (µg).
+m u = Total mass of compound measured on adsorbent with unspiked train (µg).
+m v = Mass per volume of spiked compound measured (µg/L).
+P i = Barometric or absolute sample loop pressure at time of sample analysis, mm Hg.
+P m = Absolute pressure of dry gas meter, mm Hg.
+P r = Reference pressure, the barometric pressure or absolute sample loop pressure recorded during calibration, mm Hg.
+P s = Absolute pressure of syringe before injection, mm Hg.
+q c = Flow rate of the calibration gas to be diluted.
+q c1 = Flow rate of the calibration gas to be diluted in stage 1.
+q c2 = Flow rate of the calibration gas to be diluted in stage 2.
+q d = Diluent gas flow rate.
+q d1 = Flow rate of diluent gas in stage 1.
+q d2 = Flow rate of diluent gas in stage 2.
 s = Theoretical concentration (ppm) of spiked target compound in the bag.
 S = Theoretical mass of compound spiked onto adsorbent in spiked train (µg).
 t = Measured average concentration (ppm) of target compound and source sample (analysis results subsequent to bag spiking)
-Ti = Sample loop temperature at the time of sample analysis, °K.
-Tm = Absolute temperature of dry gas meter, °K.
-Ts = Absolute temperature of syringe before injection, °K.
+T i = Sample loop temperature at the time of sample analysis, °K.
+T m = Absolute temperature of dry gas meter, °K.
+T s = Absolute temperature of syringe before injection, °K.
 u = Source sample average concentration (ppm) of target compound in the bag (analysis results before bag spiking).
-Vm = Gas volume indicated by dry gas meter, liters.
-vs = volume of stack gas sampled with spiked train (L).
-vu = volume of stack gas sampled with unspiked train (L).
+V m = Gas volume indicated by dry gas meter, liters.
+v s = volume of stack gas sampled with spiked train (L).
+v u = volume of stack gas sampled with unspiked train (L).
 X = Mole or volume fraction of the organic in the calibration gas to be diluted.
 Y = Dry gas meter calibration factor, dimensionless.
 µl = Liquid organic density as determined, g/ml.
 24.055 = Ideal gas molar volume at 293 °K and 760 mm Hg, liters/g-mole.
 1000 = Conversion factor, ml/liter.
-106 = Conversion to ppm.
-12.2 Calculate the concentration, Cs, in ppm using the following equation:
+10 6 = Conversion to ppm.
+12.2 Calculate the concentration, C s, in ppm using the following equation:
 ER17OC00.304
-12.3 Calculate the concentration, Cs, in ppm of the organic in the final gas mixture using the following equation:
+12.3 Calculate the concentration, C s, in ppm of the organic in the final gas mixture using the following equation:
 ER17OC00.305
-12.4 Calculate each organic standard concentration, Cs, in ppm using the following equation:
+12.4 Calculate each organic standard concentration, C s, in ppm using the following equation:
 ER17OC00.306
-12.5 Calculate each organic standard concentration, Cs, in ppm using the following equation:
+12.5 Calculate each organic standard concentration, C s, in ppm using the following equation:
 ER17OC00.307
-12.6 Calculate the concentration, Cc, in ppm, dry basis, of each organic is the sample using the following equation:
+12.6 Calculate the concentration, C c, in ppm, dry basis, of each organic is the sample using the following equation:
 ER17OC00.308
 12.7 Calculate the average fraction recovered (R) of each spiked target compound using the following equation:
 ER17OC00.309
@@ -937,15 +937,15 @@ Hazards ____ Ambient temp. ____ °F
 B. Properties of gas stream
 Temperature ____ °C ____ °F, Data source ____
 Velocity ____, Data source ____
-Static pressure ____ inches H2O, Data source ____
+Static pressure ____ inches H 2 O, Data source ____
 Moisture content ____%, Data source ____
 Particulate content ____, Data source____
 Gaseous components
-N2 ____ % Hydrocarbons ____ ppm
-O2 ____% ____
+N 2 ____ % Hydrocarbons ____ ppm
+O 2 ____% ____
 CO ____ % ____ ____
-CO2 ____ % ____ ____
-SO2 ____ % ____ ____
+CO 2 ____ % ____ ____
+SO 2 ____ % ____ ____
 Hydrocarbon components
 ____ ____ ppm
 ____ ____ ppm
@@ -1010,23 +1010,23 @@ Chart speed (cm/min)
 Organic retention time (min)
 Attenuation factor
 Peak height (mm)
-Peak area (mm2)
-Peak area * attenuation factor (mm2)
+Peak area (mm 2)
+Peak area * attenuation factor (mm 2)
 Calculated concentration (ppm) (Equation 18-3 or 18-4)
 Plot peak area * attenuation factor against calculated concentration to obtain calibration curve.
 Flowmeter number or identification
 Flowmeter Type
 Method: Bubble meter__ Spirometer__ Wet test meter __
 Readings at laboratory conditions:
-Laboratory temperature (Tlab) __ °K
-Laboratory barometric pressure (Plab)__ mm Hg
+Laboratory temperature (T lab) __ °K
+Laboratory barometric pressure (P lab)__ mm Hg
 Flow data:
 Flowmeter
 Reading (as marked) | Temp. (°K) | Pressure (absolute)
 Calibration Device
 Time (min) | Gas volume a | Flow rate b
 a Vol. of gas may be measured in milliliters, liters or cubic feet.
-b Convert to standard conditions (20 °C and 760 mm Hg). Plot flowmeter reading against flow rate (standard conditions), and draw a smooth curve. If the flowmeter being calibrated is a rotameter or other flow device that is viscosity dependent, it may be necessary to generate a "family" of calibration curves that cover the operating pressure and temperature ranges of the flowmeter. While the following technique should be verified before application, it may be possible to calculate flow rate reading for rotameters at standard conditions Qstd as follows:
+b Convert to standard conditions (20 °C and 760 mm Hg). Plot flowmeter reading against flow rate (standard conditions), and draw a smooth curve. If the flowmeter being calibrated is a rotameter or other flow device that is viscosity dependent, it may be necessary to generate a "family" of calibration curves that cover the operating pressure and temperature ranges of the flowmeter. While the following technique should be verified before application, it may be possible to calculate flow rate reading for rotameters at standard conditions Q std as follows:
 ER17OC00.313
 Flow rate (laboratory conditions) | Flow rate (STD conditions)
 Figure 18-4. Flowmeter Calibration
@@ -1064,7 +1064,7 @@ Distance to peak (cm)
 Chart speed (cm/min)
 Retention time (min)
 Attenuation factor
-Peak area (mm2)
+Peak area (mm 2)
 Peak area *attenuation factor
 Plot peak area *attenuation factor against calculated concentration to obtain calibration curve.
 Figure 18-7. Standards Prepared by Dilution of Cylinder Standard
