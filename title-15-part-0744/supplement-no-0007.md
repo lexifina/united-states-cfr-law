@@ -1,26 +1,138 @@
-# Supplement No. 7 to Part 744—Temporary General License
-Notwithstanding the requirements and other provisions of Supplement No. 4 to this part, which became effective on May 16, 2019, as to Huawei Technologies Co., Ltd. (Huawei), Shenzhen, Guangdong, China, and its non-U.S. affiliates (listed in this supplement and supplement no. 4 to this part), the licensing and other requirements in the EAR as of May 15, 2019, are restored in part as of May 20, 2019, and through November 18, 2019, pertaining to exports, reexports, and transfers (in-country) of items subject to the EAR to any of the listed Huawei entities. The licensing and other policies of the EAR that were in effect as of May 15, 2019, are available to export, reexport, or transfer (in-country) such items to the listed Huawei entities if the transaction meets the conditions of paragraph (b) of this supplement, is limited in scope to one or more of the activities described in paragraphs (c)(1) through (3) of this supplement, and if the transaction parties satisfy the requirements of paragraph (d)(1) of this supplement and, if applicable, paragraph (d)(2) of this supplement. Thus, for example, the authority of NLR or a License Exception that was available as of May 15, 2019, may be used in connection with a transaction as per this temporary general license.
-(a) Identification of non-U.S. affiliates. The non-U.S. affiliates to whom the licensing and other requirements of the EAR are restored as described herein are those Huawei entities and affiliates added to the Entity List through the Federal Register documents listed in paragraphs (a)(1) and (2) of this supplement:
-(1) Addition of Entities to the Entity List, published on 5/21/19.
-(2) Non-U.S. affiliates of Huawei added to the Entity List on August 19, 2019.
-(b) Conditions for use of temporary general license. Use of this temporary general license is subject to the following conditions:
-(1) This temporary general license is effective from May 20, 2019, through November 18, 2019.
-(2) This temporary general license does not resolve persons of other obligations under the EAR, including but not limited to licensing requirements to the Peoples Republic of China or elsewhere and/or the requirements of part 744 of the EAR. This authorization does not authorize any activities or transactions involving Country Group E countries (i.e., Cuba, Iran, North Korea, Sudan and Syria) or persons.
-(3) With the exception of those explicitly authorized in this temporary general license, exports, reexports, transfers (in-country) continue to require a license pursuant to the licensing policy described on the Entity List and license applications will be reviewed under the license review policy for that entry.
-(c) Authorized transactions. This temporary general license allows, from May 20, 2019, through November 18, 2019, the following:
-(1) Continued operation of existing networks and equipment. BIS authorizes, subject to other provisions of the EAR, engagement in transactions necessary to maintain and support existing and currently 'fully operational network' and equipment, including software for bug fixes, security vulnerability patches, and other changes to existing versions of the software, subject to legally binding contracts and agreements executed between Huawei, or one of its listed non-U.S. affiliates, and 'third parties' on or before May 16, 2019. Such transactions may not enhance the functional capacities of the original software or equipment.
-(i) Exclusions. (A) The authorization under paragraph (c)(1) of this supplement extends only to activities such as patching networks and network infrastructure equipment, not end-devices such as general-purpose computing devices that would not be considered to be part of an existing and 'fully operational network.' Paragraph (c)(1) of this supplement does not authorize support for equipment that is not directly related to the support and maintenance of the network.
-(B) The provision of the temporary general license under paragraph (c)(1) of this supplement does not authorize transfers of equipment for general business purposes or for activities that are not in direct support of an existing and 'fully operational network' (e.g., semiconductor production equipment).
-(ii) [Reserved]
-Note 1 to paragraph (c)(1): The term 'third parties' in paragraph (c)(1) of this supplement and the term 'third party' in Notes 2 and 3 to paragraph (c)(1) refer to a party that is not Huawei, one of its listed non-U.S. affiliates, or the exporter, reexporter, or transferor, but rather an organization such as a telecommunications service provider.
-Note 2 to paragraph (c)(1): The term 'fully operational network' in paragraph (c)(1) of this supplement, as well as in paragraph (c)(3) of the supplement, refers to a 'third party' network providing services to the 'third party's' customers.
-(2) Support to existing 'personal consumer electronic devices' and 'Customer Premises Equipment (CPE)'. BIS authorizes, subject to other provisions of the EAR, engagement in transactions necessary to provide service and support, including software for bug fixes, security vulnerability patches, and other changes to existing versions of the software, to existing Huawei 'personal consumer electronic devices.' Such transactions may not enhance the functional capacities of the original software or equipment. For the purposes of this paragraph (c)(2), the term 'personal consumer electronic devices' is defined as including phones and other personally-owned equipment, such as a tablets, smart watches, and mobile hotspots such as MiFi devices. The authorized transactions under this paragraph (c)(2) include support for personal use of telecommunications hardware known as 'Customer Premises Equipment (CPE),' such as network switches, residential internet gateways, set-top boxes, home networking adapters and other personally-owned equipment that enables consumers to access network communications services and distribute them within their residence or small business. The authorization conferred by this paragraph (c)(2) is limited to models of Huawei 'personal consumer electronic devices' and 'CPE' that were available to the public on or before May 16, 2019.
-(3) Cybersecurity research and vulnerability disclosure. BIS authorizes, subject to other provisions of the EAR, the disclosure to Huawei and/or to its listed non-U.S. affiliates of information regarding security vulnerabilities in items owned, possessed, or controlled by Huawei or any of its non-U.S. affiliates when related to the process of providing ongoing security research critical to maintaining the integrity and reliability of existing and currently 'fully operational network' and equipment.
-(d) Certification statement. Prior to making an export, reexport, or transfer (in-country) pursuant to the temporary general license, the exporter, reexporter, or transferor must obtain a certification statement and any additional support documentation needed to substantiate the certification statement from the listed Huawei entity that will receive the item(s), as specified in paragraph (d)(1) of this supplement.
-(1) Certification statement required from Huawei or one of its listed non-U.S. affiliates. Prior to any export, reexport, or transfer (in-country) under the temporary general license to Huawei or any of its listed non-U.S. affiliates identified in paragraph (a) of this supplement, the exporter, reexporter, or transferor must obtain a certification statement from the entity that will receive the item(s). The temporary general license also requires the party exporting, reexporting, or transferring (in-country) an item "subject to the EAR" to obtain, from the listed Huawei entity receiving the item, a certification statement under paragraph (d) of this supplement specifying how the export, reexport, or in-country transfer satisfies the provisions of the temporary general license, including specifying whether the activity or activities that will be supported by the transaction fall within paragraph (c)(1), (2), or (3) of this supplement. In order to substantiate the certification statement for transactions that fall within paragraph (c)(1), the exporter, reexporter, or transferor must obtain documentation from Huawei or one of its listed non-U.S. affiliates showing that there was a legally binding contract or agreement executed between the listed Huawei entity and a 'third party' on or before May 16, 2019. The exporter, reexporter, or transferor and the listed Huawei entity are each responsible for retaining the certification statement and any additional support documentation needed to substantiate the certification statement under paragraph (d). See part 762 of the EAR for record retention requirements. The certification statement must be in writing (which may be conveyed by email), be signed and dated by an individual of sufficient authority to legally bind the listed entity, and shall provide the information required in paragraphs (d)(1)(i) and (ii) of this supplement and the certifications specified in paragraphs (d)(1)(iii) through (v) of this supplement.
-(i) Name of the entity; complete physical address, to include shipping, corporate, and end user addresses, if different (simply listing a post office box is insufficient); telephone number; email address; website (if available); and name and title of individual signing the certification statement;
-(ii) A complete list of the item(s), including the applicable Export Control Classification Number(s) or designation (if EAR99) for the item(s) under the EAR, and (for tangible shipments of commodities and software) the quantity or quantities of the item(s) that will be exported, reexported, or transferred under the authority of the temporary general license (this inclusive list may cover multiple exports, reexports, or transfers (in-country) under the temporary general license of the same item(s); see paragraph (d)(2) of this supplement);
-(iii) The end-use of the item(s) to be received as an export, reexport, or transfer (in-country) falls within the scope of a specified authorizing paragraph under paragraph (c) of this supplement (a general statement or declaration that the item falls within the scope of paragraph (c) or the scope of the temporary general license will not be sufficient, as the specific authorizing paragraph under paragraph (c) must be identified);
-(iv) The entity will comply with the recordkeeping requirements in part 762 of the EAR, including by providing copies of the certification statement and all other export, reexport, or transfer (in-country) records required to be retained in part 762 to any authorized agent, official, or employee of BIS, the U.S. Customs Service, or any other agency of the U.S. Government as required in § 762.7 of the EAR; and
-(v) The individual signing the certification statement, on behalf of the consignee identified in paragraph (a) of this supplement, has sufficient authority to legally bind the entity.
-(2) Certification statements may be used for multiple exports, reexports, and transfers (in-country). Exporters, reexporters, and transferors may rely on the certification statements obtained under paragraph (d)(1) of this supplement for multiple exports, reexports, and transfers (in-country) involving the same item(s) to the same consignee/end-user, provided the information included remains accurate for those additional exports, reexports, and transfers (in-country). If one certification statement is used for multiple exports, reexports, or transfers (in-country) made pursuant to the temporary general license, the exporter, reexporter, and transferor must maintain a log or other similar record that identifies each such export, reexport, and transfer (in-country) against that specific certification statement. The log or other similar record must be retained in accordance with part 762 of the EAR.
+# Supplement No. 7 to Part 744—'Military End-User' (MEU) List
+The license requirement for entities listed in supplement no. 7 to part 744 applies to the export, reexport, or transfer (in-country) of any item subject to the EAR listed in supplement no. 2 to part 744. A license is required to export, reexport, or transfer (in-country) any item subject to the EAR listed in supplement no. 2 to part 744 when an entity that is listed on the MEU List is a party to the transaction as described in § 748.5(c) through (f). No license exceptions are available for exports, reexports or transfers (in-country) to listed entities on the MEU List for items specified in supplement no. 2 to part 744, except license exceptions for items authorized under the provisions of License Exception GOV set forth in § 740.11(b)(2)(i) and (ii) of the EAR as specified in § 744.21(c). The license application procedure and license review policy for entities specified in supplement no. 2 to part 744 is specified in § 744.21(d) and (e).
+Country | Entity | Federal Register citation
+CHINA, PEOPLE'S REPUBLIC OF | Academy of Aerospace Solid Propulsion Technology (AASPT), Tian Wang te Zi #1, Baqiao District, Xian, China | 85 FR 83799, 12/23/2020.
+| The following eight subordinate institutions of Aero-Engine Company of China:
+| Subordinate institution:
+| AECC Aero Science & Technology Co. Ltd., Cheng-fa Industrial Park, ShuLong Road, SanHe Block, Sichuan, Chengdu, China.
+| AECC Aviation Power Co. Ltd., Xiujia Bay, Weiyong Dt., Xian 710021, China
+| Subordinate institution:
+| AECC Beijing Institute of Aeronautical. Materials, No. 8 Hangcai Avenue, Beijing, Haidian District, China
+| Subordinate institution:
+| AECC China Gas Turbine Establishment, No. 1 Hangkong Road, Mianyang, Sichuan Province, China
+| Subordinate institution:
+| AECC Commercial Aircraft Engine Co. Ltd., No. 3998 South Lianhua Road, Shanghai 200241, Minhang District, China
+| Subordinate institution:
+| AECC Harbin Dongan Engine Co., Ltd., No. 51 Baoguo Street, Haerbin 150036, China
+| Subordinate institution:
+| AECC Shenyang Liming Aero Engine Co., Ltd., No. 6 Dongta Street, Shenyang 110043, China
+| Subordinate instituion:
+| AECC South Industry Company Limited, 95 Xinghua West Road, Zhuzhou 412002, China
+| Anhui Yingliu Hangyuan Power, 96 West Pihe Rd., Hengshan Town, Jiangxi, Shangrao, China | 85 FR 83799, 12/23/2020.
+| The following seven subordinate institutions of Aviation Industry Corporation of China: | 85 FR 83799, 12/23/2020.
+| Subordinate instituion:
+| AVIC Aircraft Co. Ltd., No. 1 Xifei Avenue, Xian 710089, Yanliang District, China
+| Subordinate instituion:
+| AVIC Chengdu Aircraft Industrial (GROUP) Co., Ltd., No. 88 Weiyi Road, Huang Tianba, Chengdu 610091, China
+| Subordinate instituion:
+| AVIC Flight Automatic Control Research Institute (FACRI), No. 92 Dianzi 1st Road, AVIC No 618 Institute, Xian 710065, China
+| Subordinate instituion:
+| AVIC General Aircraft Huanan Industry Co. Ltd., No. 999, Jinhai Middle Road, Jinwan District, Building 201Z Huhai 519040, Guangdong Province, China
+| Subordinate instituion:
+| AVIC General Aircraft Zhejiang Institute Co., Ltd., Floor 9, Building 1, 48 KeYuan Road, ZheJiang, China
+| Subordinate instituion:
+| AVIC International Holding Corporation, No. 18 Beichen East Road, Beijing 100101 Chaoyang District, China
+| Subordinate instituion:
+| AVIC Leihua Electronic Technology Research Institute (LETRI), No. 796 Liangxi Road, Binhu District 214063, China
+| Baimtec Material Co., Ltd., No 5, Yongxiang North Road, Yongfeng Ind, Beijing 100094, China | 85 FR 83799, 12/23/2020.
+| Beijing Aero Lever Precision Ltd., Houju St No. 3 Changping, High Tec Park, Beijing 102200, China | 85 FR 83799, 12/23/2020.
+| Beijing Ander Tech. Co., Ltd. No. C22, Yu An Rd., Area B, Tianzhu, Beijing 101318, China | 85 FR 83799, 12/23/2020.
+| Beijing Guang Ming Electronics Co., Ltd., No. 41 Yu Qiao Bei Li, Tongzhou District, Beijing 101100, China | 85 FR 83799, 12/23/2020.
+| Beijing Siyuan Electronic Co., Ltd., Satellite Building, No. 63 Zhichun Road, Haidian District, Beijing 100086, China | 85 FR 83799, 12/23/2020.
+| CAST Xi'an Spaceflight Engine Factory, a.k.a., the following one alias: | 85 FR 83799, 12/23/2020.
+| —7103 Factory
+| 7103 Factory No 6 Academy No 69, Shenzhou Second Road, Aerospace Base, Xian, China.
+| Chengdu Holy Aviation Science & Tech, No. 220, Tongjiang Road, Pengzhou City, Sichuan 611936, China | 85 FR 83799, 12/23/2020.
+| China Aviation Ind. Std. Parts No. 355, Baiyun S. Road, Baiyun Dist, Gui Yang 550014, China | 85 FR 83799, 12/23/2020.
+| CSSC Xijiang Shipbuilding Co., Ltd., No. 133 Fenghuang Road, Liuzhou City, Guangxi 572000, China | 85 FR 83799, 12/23/2020.
+| Elink Electronic Technology Co. Ltd., Room 717, Building 41, No. 8633 Zhongchun Road, Minhang District, Shanghai, China | 85 FR 83799, 12/23/2020.
+| Fly Raise International Limited, Unit 04 7/F Bright Way Tower, No. 33 Mong Kok Road, Kowloon 999077, Hong Kong | 85 FR 83799, 12/23/2020.
+| Fuhua Precision Man. Co, Fanhua Ave and Wanfoshan Rd, Taohua Ind. Park, Hefei City, Jingkai Dist, China | 85 FR 83799, 12/23/2020.
+| Government Flying Service, 18 South Perimeter Road, Hong Kong Int'l Airport, Lantau, Hong Kong | 85 FR 83799, 12/23/2020.
+| Guangzhou Hangxin Aviation Technology Co., Ltd., No. 1 Guangbao Road, Guangzhou Luogang District, China | 85 FR 83799, 12/23/2020.
+| Guizhou Aviation Tech. Dev. Nat., Shangbashan Road, Guiyang City, China | 85 FR 83799, 12/23/2020.
+| Guizhou Liyang Intl Manufacturing Co Ltd., No. 1 Gaotie Road, Anshun City 561102 Guizhou, China | 85 FR 83799, 12/23/2020.
+| Hafei Aviation Industry Co., Ltd. (HAFEI), Nancheng Rd No. 2, HARBIN 150066, Heilongjiang Province, China | 85 FR 83799, 12/23/2020.
+| Hangzhou Bearing Test & Research Center Co., Ltd., No. 333 Hua Feng Road, Hangzhou, Zhejiang, China | 85 FR 83799, 12/23/2020.
+| Harbin General Aircraft Industry Co., Ltd., a.k.a., the following one alias: —Harbin Hafei Aviation Industry Co. Ltd. 15 Youxie Street, Harbin 150066, Pingfang District, China | 85 FR 83799, 12/23/2020.
+| Henan Aerospace Precision Mach, 15 Xinnan Road, Xinyang 464000, China | 85 FR 83799, 12/23/2020.
+| Hunan South General Aviation Engine Co., Ltd., Dongjiaduan, Hi-Tech Industry Zone, Zhuzhou, Hunan 412000, Lusong District, China | 85 FR 83799, 12/23/2020.
+| Hutchison Optel Telecom Technology Co., Ltd., G-3, No. 67-1, Ke Yuan 3th Road, Chongqing Hitech Industrial Development Zone, Chongqing 400041, China | 85 FR 83799, 12/23/2020.
+| Jiangsu Meilong Aviation Components Co., No. 88 Wufengshang Road, Suzhou, Zhenjiang 212132, China | 85 FR 83799, 12/23/2020.
+| Jiatai Aircraft Equipment Co., Ltd., No. 1 ZhongHang Ave., Fancheng District, Xiangyang City, Hubei Province, China | 85 FR 83799, 12/23/2020.
+| Jincheng Group Imp & Exp. Co. Ltd. Floor 26th Jincheng Plaza, 216 Middle Longpan Road, Nanjing, Jiangsu 210002, China | 85 FR 83799, 12/23/2020.
+| Laboratory of Toxicant Analysis, Institute of Pharmacology and Toxicology, No. 27 Taiping Road, Beijing, Haidian District, China | 85 FR 83799, 12/23/2020.
+| Molecular Devices Shanghai Corporation, No. 239 GangAo Road, WaiGaoQiao Free Trade Zone, Room 318, 3F, Building 2, Shanghai, China | 85 FR 83799, 12/23/2020.
+| Nanjing Engineering Institute of Aircraft Systems (NEIAS), 33 Shuige Road, Jiangning Economic Development Zone, Nanjing 211106, China | 85 FR 83799, 12/23/2020.
+| National Satellite Meteorological Bureau, No. 46 Baishiqiao Road, HaiDian District, Beijing 100081, China | 85 FR 83799, 12/23/2020.
+| Second Institute of Oceanography, Ministry of Natural Resources, No. 36 Baochubei Road, Hangzhou 310012, Hangzhou Xihu District, China | 85 FR 83799, 12/23/2020.
+| Shaanxi Aero Electric Co., Ltd., 17th, Jinye 2 Road, Xian High Tech Zone Xian, China | 85 FR 83799, 12/23/2020.
+| Shaanxi Aircaft Industry Co Ltd., P.O. 34, Hanzhong City 723213, Shaanxi Province, China | 85 FR 83799, 12/23/2020.
+| Shanghai Aerospace Equip. Man., No. 100 Huaning Road, Shanghai 200245, China | 85 FR 83799, 12/23/2020.
+| Shanghai Aircraft Design and Research Institute, No. 5 Yun Jin Road, Shanghai 200232, China | 85 FR 83799, 12/23/2020.
+| Shanghai Aircraft Manufacturing Co. Ltd. (SAMC), No. 919 Shangfei Road, Shanghai 201324, Pudong New District, China | 85 FR 83799, 12/23/2020.
+| Shanghai Tianlang Electronic Science Co., Ltd., 1500 Qinjiagang Road, Room 112 & 6, Shanghai, Pudong New Area, China | 85 FR 83799, 12/23/2020.
+| Shenyang Academy of Instrumentation Science Co., Ltd., No. 242, Baihai Street, Shenyang 110043, Dadong District, China | 85 FR 83799, 12/23/2020.
+| Shenyang Aircraft Corporation, 1 Lingbei Street, Shenyang 110000, Huanggu District, China | 85 FR 83799, 12/23/2020.
+| Shenyang Xizi Aviation Industry Co., Ltd., 76-43 Shenbei Road, Shenyang 110136, China | 85 FR 83799, 12/23/2020.
+| Sichuan Hangte Aviation Tech. Co., Ltd., No. 269, 3rd Tengfei Road, Southwest Airport Economy Development Zone, Chengdu 61000, China | 85 FR 83799, 12/23/2020.
+| Star Tech Aviation Co., Ltd., Unit E1, 15/F, 41-43 Au Pui Wan Street, On Wah IND Bldg, Shatin, New Territories, Hong Kong 999077, Hong Kong | 85 FR 83799, 12/23/2020.
+| Sumec Instruments Equipment Co. Ltd., 198 Changjiang Road, 14/F Nanjing 210018, China | 85 FR 83799, 12/23/2020.
+| Suzhou Eric Mechanics and Electronics Co. Ltd., No. 8 Huqiao Road, Suzhou, China | 85 FR 83799, 12/23/2020.
+| Wuxi Hyatech Co., Ltd., No. 35 Xindong an Road, Wuxi, China | 85 FR 83799, 12/23/2020.
+| Wuxi Paike New Mat. Tech. Co., Ltd., No. 22 Lianhe Rd., Hudai Ind. Park, Wuxi Binhu District, China | 85 FR 83799, 12/23/2020.
+| Wuxi Turbine Blade Co. Ltd., 1800 Huishan Ave., Economic Zone, Wuxi 214174, China | 85 FR 83799, 12/23/2020.
+| Xac Group Aviation Electronics Import & Export Co. Ltd., 70# West Ave of Renmin, Xian 710089, Yanliang District, China | 85 FR 83799, 12/23/2020.
+| XAIC Tech (Xi'an) Industrial Co., Ltd. No. 1 Xifei Road, Xian Yanliang District, China | 85 FR 83799, 12/23/2020.
+| Xian Aero-Engine Controls Co., Ltd., 750 Daqing Road, Xian, China | 85 FR 83799, 12/23/2020.
+| Xian Aircraft Industrial Company Limited, No. 1 Xifei Avenue, Shanxi, Yanliang District, China | 85 FR 83799, 12/23/2020.
+| Xi'an Xae Flying Aviation Manufacturing Technology Co., Ltd., No.12 Fengcheng Road, Xian 710018, Weiyang District, China | 85 FR 83799, 12/23/2020.
+| Xian Xr Aero- Components Co. Ltd., Hongqi East Road, Xian 710021, China | 85 FR 83799, 12/23/2020.
+| Yibin Sanjiang Machine Co., Ltd., No. 72 MinJiangBei Road, Yibin 64407, Sichuan, China | 85 FR 83799, 12/23/2020.
+| Zhejiang Perfect New Material Co., Ltd., No. 28, Dingsheng Road, Leidian Town, Deqing County, HuZhou City, China | 85 FR 83799, 12/23/2020.
+RUSSIA | Admiralty Shipyard JSC, 203, Fontanka Emb., 190121, St. Peterburg, Russia | 85 FR 83799, 12/23/2020.
+| Aleksandrov Scientific Research Technological Institute NITI, Koporskoe Highway, House 72, Sosnovy Bor, Russia | 85 FR 83799, 12/23/2020.
+| Argut OOO, 6 Mnevniki str end 6 fl, Moscow 123308, Russia | 85 FR 83799, 12/23/2020.
+| Communication center of the Ministry of Defense, Bolshoi Znamenskiy per. 21, Moscow, Russia | 85 FR 83799, 12/23/2020.
+| Federal Research Center Boreskov Institute of Catalysis, pr. Lavrentieva 5, Novosibirsk 630090, Russia | 85 FR 83799, 12/23/2020.
+| Federal State Budgetary Enterprise of the Administration of the President of Russia, 1-ya Reysovaya Street, 1, Moscow 119027, Russia | 85 FR 83799, 12/23/2020.
+| Federal State Budgetary Enterprise Special Flight Unit Rossiya of the Administration of the President of Russia, 1-ya Reysovaya Street, 1, Moscow 119027, Russia | 85 FR 83799, 12/23/2020.
+| Federal State Unitary Enterprise Dukhov Automatics Research Institute (VNIIA), 22, Sushchevskaya UI, Moscow 127055RU | 85 FR 83799, 12/23/2020.
+| Foreign Intelligence Service (SVR), Yasenevo 11 Kolpachny, Moscow, 0101000 | 85 FR 83799, 12/23/2020.
+| Forensic Center of Nizhniy Novgorod Region Main Directorate of the Ministry of Interior Affairs, Gorkiy Street, 71, Nizhniy Novgorod 603950, Russia | 85 FR 83799, 12/23/2020.
+| Irkut Corporation, Leningradsky Prospect 68, Moscow 125315, Russia | 85 FR 83799, 12/23/2020.
+| Irkut Research and Production Corporation Public Joint Stock Company, 68 Leningradsky Prospect, Moscow 125315, Russia | 85 FR 83799, 12/23/2020.
+| Joint Stock Company Scientific Research Institute of Computing Machinery, Melnichnaya Street, 31, Kirov 610025, Russia | 85 FR 83799, 12/23/2020.
+| JSC Central Research Institute of Machine Building (JSC TsNIIMash), Pionerskaya Street, 4, korpus 22, Moskovskaya obl., Korolov 141070, Russia | 85 FR 83799, 12/23/2020.
+| JSC Rocket and Space Centre—Progress, Zemetsa Street 18, Samarskaya Oblast, Samara 443009, Russia | 85 FR 83799, 12/23/2020.
+| Kamensk-Uralsky Metallurgical Works J.S. Co., 5 Zavodskaya St., Kamensk Uralsky, 623405 Sverdlovsk region, Russia | 85 FR 83799, 12/23/2020.
+| Kazan Helicopter Plant PJSC, Tetsevskaya St, Kazan 420085, Russia | 85 FR 83799, 12/23/2020.
+| Komsomolsk-na-Amur Aviation Production Organization (KNAAPO), 1 Sovetskaya Street, Komsomolsk-on-Amur, Khabarovsky Krai, Russia 618018 | 85 FR 83799, 12/23/2020.
+| Korporatsiya Vsmpo Avisma OAO, Parkovaya Street 1, Verkhnaya Salda, Sverdlovsk region 624760, Russia | 85 FR 83799, 12/23/2020.
+| Ministry of Defence RF, 19 Znamenka Str, Moscow 119160, Russia | 85 FR 83799, 12/23/2020.
+| Molot Oruzhie, 612960, Kirov Oblast, Vyatskie Polyany, st. Lenin 135, Russia | 85 FR 83799, 12/23/2020.
+| NPO High Precision Systems JSC, Kievskaya Street 7, Moscow, Russia | 85 FR 83799, 12/23/2020.
+| NPO Splav JSC, 33 ul. Shcheglov Kaya Zaseka Tula, 300004 Russia | 85 FR 83799, 12/23/2020.
+| Oboronprom OJSC, 29/141 Vereiskaya Street, Moscow, 121357 Russia | 85 FR 83799, 12/23/2020.
+| PJSC Beriev Aircraft Company, 1 Aviatorov Square, Taganrog 347923, Russia | 85 FR 83799, 12/23/2020.
+| PJSC Irkut Corporation, Regional Aircraft 26 Leninskaya Sloboda, Moscow 115280, Russia | 85 FR 83799, 12/23/2020.
+| PJSC Kazan Helicopters, Tetsevskaya Street, 14, Kazan, Tatarstan Republic 420085, Russia | 85 FR 83799, 12/23/2020.
+| POLYUS Research Institute of M.F. Stelmakh Joint Stock Company, Building 1, 3 Vvedenskogo Street, Moscow, 117342, Russia | 85 FR 83799, 12/23/2020.
+| Promtech-Dubna, JSC, Programmistov st., 4, room 364, Dubna, Moscow 141983, Russia | 85 FR 83799, 12/23/2020.
+| Public Joint Stock Company United Aircraft Corporation, Bolshaya Pionerskaya, Moscow 115054, Russia | 85 FR 83799, 12/23/2020.
+| Radiotechnical and Information Systems (RTI) Concern, 127083, Moscow, 8 marta, 10/1 Russia | 85 FR 83799, 12/23/2020.
+| Rapart Services LLC, Aeroportovskaya str. 6/2, Solnechnogorskiy region, Dubrobki 141580, Russia | 85 FR 83799, 12/23/2020.
+| Rosoboronexport OJSC (ROE), Strada Strominka 27, Moscow, 107076 Russia | 85 FR 83799, 12/23/2020.
+| Rostekh—Azimuth, Building 2, 5 Suite X Room 15 Floor 2, Narishkinskaya Alleya, Moscow 125167, Russia | 85 FR 83799, 12/23/2020.
+| Rostec (Russian Technologies State Corporation), 24 Usacheva Street, Moscow, Russia 119048 | 85 FR 83799, 12/23/2020.
+| Russian Aircraft Corporation MiG, Leningradskoe highway, 6, building 1, Moscow, 125171 Russia | 85 FR 83799, 12/23/2020.
+| Russian Helicopters JSC, Bolshaya Pionerskaya, 1, Moscow, 123610 Russia | 85 FR 83799, 12/23/2020.
+| Sukhoi Aviation JSC, Polikarpov str., 23B, Moscow, 125284 Russia | 85 FR 83799, 12/23/2020.
+| Sukhoi Civil Aircraft, 1 Sovetskaya Street, Komsomolsk-On-Amur 681018, Russia; and 15 Tupoleva Street, OP JSC SCA, Zukhovskiy 140180, Russia; and 23b Bld 2 Polikarpova St, Moscow 125824, Russia; and 26, Bld. 5, Leninskaya Sloboda Street, Moscow, 115280, Russia; and Antonova Avenue 1, Ulianovsk 432072, Russia; and Leningradskaya Street 80/4A, Komsomolsk-On-Amur 681007, Russia | 85 FR 83799, 12/23/2020.
+| Tactical Missiles Corporation JSC, KorolevIlyicha Street, 7, 141080, Russia | 85 FR 83799, 12/23/2020.
+| Tupolev JSC, Academician Tupolev Embankment 17, Moscow, 105005, Russia | 85 FR 83799, 12/23/2020.
+| UEC-Saturn, 163 Lenin Avenue, Rybinsk 152903, Yavoslavl Region, Russia | 85 FR 83799, 12/23/2020.
+| United Aircraft Corporation, Bolshaya Pionerskaya str., 1, Moscow, 115054, Russia | 85 FR 83799, 12/23/2020.
+| United Engine Corporation, 16, Budyonny Avenue, Moscow, 105118 Russia | 85 FR 83799, 12/23/2020.
+| United Instrument Manufacturing Corporation, Vereiskaya 29, str. 141, Moscow, Russia | 85 FR 83799, 12/23/2020.
+VENEZUELA | [RESERVED] | [RESERVED]
