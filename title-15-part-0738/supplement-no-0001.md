@@ -1,6 +1,6 @@
 # Supplement No. 1 to Part 738—Commerce Country Chart
 [Reason for control]
-Countries | Chemical and biological weapons | CB 1 | CB 2 | CB 3 | Nuclear nonproliferation | NP 1 | NP 2 | Nationalsecurity | NS 1 | NS 2 | Missile tech | MT 1 | Regionalstability | RS 1 | RS 2 | Firearms convention | FC 1 | Crime control | CC 1 | CC 2 | CC 3 | Anti-terrorism | AT 1 | AT 2
+Countries | Chemical and biological weapons | CB 1 | CB 2 | CB 3 | Nuclear nonproliferation | NP 1 | NP 2 | National security | NS 1 | NS 2 | Missile tech | MT 1 | Regional stability | RS 1 | RS 2 | Firearms convention | FC 1 | Crime control | CC 1 | CC 2 | CC 3 | Anti-terrorism | AT 1 | AT 2
 Afghanistan | X | X | X | X | | X | X | X | X | X | | X | | X
 Albania 2 3 | X | X | | X | | X | X | X | X | X | | | | | |
 Algeria | X | X | | X | | X | X | X | X | X | | X | | X
@@ -77,7 +77,6 @@ Guinea-Bissau | X | X | | X | | X | X | X | X | X | | X | | X
 Guyana | X | X | | X | | X | X | X | X | X | X | X | | X
 Haiti | X | X | | X | | X | X | X | X | X | X | X | | X
 Honduras | X | X | | X | | X | X | X | X | X | X | X | | X
-Hong Kong | X | X | | X | | X | X | X | X | X | | X | | X
 Hungary 3 | X | | | | | X | | X | X
 Iceland 3 | X | | | | | X | | X | X | | | | |
 India 7 | X | | | X | | X | | X | X | | | | |
@@ -114,7 +113,7 @@ Malawi | X | X | | X | | X | X | X | X | X | | X | | X
 Malaysia | X | X | | X | | X | X | X | X | X | | X | | X
 Maldives | X | X | | X | | X | X | X | X | X | | X | | X
 Mali | X | X | | X | | X | X | X | X | X | | X | | X
-Malta2 3 4 | X | | | | | X | X | X | X | X | | X | | X
+Malta 2 3 4 | X | | | | | X | X | X | X | X | | X | | X
 Marshall Islands | X | X | | X | | X | X | X | X | X | | X | | X
 Mauritania | X | X | | X | | X | X | X | X | X | | X | | X
 Mauritius | X | X | | X | | X | X | X | X | X | | X | | X
@@ -147,7 +146,7 @@ Poland 3 | X | | | | | X | | X | X
 Portugal 3 | X | | | | | X | | X | X
 Qatar | X | X | X | X | | X | X | X | X | X | | X | | X
 Romania 3 | X | | | | | X | | X | X
-Russia 6 | X | X | X | | | X | X | X | X | X | | X | X
+Russia 6 | X | X | X | X | | X | X | X | X | X | | X | X |
 Rwanda | X | X | | X | | X | X | X | X | X | | X | X | X
 St. Kitts and Nevis | X | X | | X | | X | X | X | X | X | X | X | | X
 St. Lucia | X | X | | X | | X | X | X | X | X | X | X | | X
