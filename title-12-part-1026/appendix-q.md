@@ -303,7 +303,7 @@ a. Has been sold or traded within the last 12 months without a release of liabil
 b. Is to be sold on assumption without a release of liability being obtained.
 4. Exemption From Contingent Liability Policy on Mortgage Assumptions. When a mortgage is assumed, contingent liabilities need not be considered if the:
 a. Originating creditor of the mortgage being underwritten obtains, from the servicer of the assumed loan, a payment history showing that the mortgage has been current during the previous 12 months, or
-b. Value of the property, as established by an appraisal or the sales price on the HUD-1 Settlement Statement from the sale of the property, results in a loan-to-value (LTV) ratio of 75 percent or less.
+b. Value of the property, as established by an appraisal or the sales price on the HUD- 1 Settlement Statement from the sale of the property, results in a loan-to-value (LTV) ratio of 75 percent or less.
 5. Contingent Liability on Cosigned Obligations.
 a. Contingent liability applies, and the debt must be included in the underwriting analysis, if an individual applying for a mortgage is a cosigner/co-obligor on:
 i. A car loan;
@@ -326,3 +326,4 @@ e. Open accounts with zero balances;
 f. Automatic deductions to savings accounts;
 g. Child care; and
 h. Voluntary deductions.
+Effective Date Note: At 85 FR 86395, Dec. 29, 2020, appendix Q to part 1026 was removed, effective Mar. 1, 2021.
