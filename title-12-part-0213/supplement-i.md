@@ -24,7 +24,7 @@ v. Market research or educational materials that do not solicit business.
 3. Persons covered. See the commentary to § 213.7(a).
 2(d) Closed-End Lease
 1. General. In closed-end leases, sometimes referred to as "walk-away" leases, the lessee is not responsible for the residual value of the leased property at the end of the lease term.
-2(e) Consumer lease
+2(e) Consumer Lease.
 1. Primary purposes. A lessor must determine in each case if the leased property will be used primarily for personal, family, or household purposes. If a question exists as to the primary purpose for a lease, the fact that a lessor gives disclosures is not controlling on the question of whether the transaction is covered. The primary purpose of a lease is determined before or at consummation and a lessor need not provide Regulation M disclosures where there is a subsequent change in the primary use.
 2. Period of time. To be a consumer lease, the initial term of the lease must be more than four months. Thus, a lease of personal property for four months, three months or on a month-to-month or week-to-week basis (even though the lease actually extends beyond four months) is not a consumer lease and is not subject to the disclosure requirements of the regulation. However, a lease that imposes a penalty for not continuing the lease beyond four months is considered to have a term of more than four months. To illustrate:
 i. A three-month lease extended on a month-to-month basis and terminated after one year is not subject to the regulation.
@@ -58,6 +58,7 @@ viii. From January 1, 2017 through December 31, 2017, the threshold amount is $5
 ix. From January 1, 2018 through December 31, 2018, the threshold amount is $55,800.
 x. From January 1, 2019 through December 31, 2019, the threshold amount is $57,200.
 xi. From January 1, 2020 through December 31, 2020, the threshold amount is $58,300.
+xii. From January 1, 2021 through December 31, 2021, the threshold amount is $58,300.
 2(g) Lessee
 1. Guarantors. Guarantors are not lessees for purposes of the regulation.
 2(h) Lessor
