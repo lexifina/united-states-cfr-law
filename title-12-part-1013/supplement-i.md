@@ -58,6 +58,7 @@ viii. From January 1, 2017 through December 31, 2017, the threshold amount is $5
 ix. From January 1, 2018 through December 31, 2018, the threshold amount is $55,800.
 x. From January 1, 2019 through December 31, 2019, the threshold amount is $57,200.
 xi. From January 1, 2020 through December 31, 2020, the threshold amount is $58,300.
+xii. From January 1, 2021 through December 31, 2021, the threshold amount is $58,300.
 2(g) Lessee
 1. Guarantors. Guarantors are not lessees for purposes of the regulation.
 2(h) Lessor
