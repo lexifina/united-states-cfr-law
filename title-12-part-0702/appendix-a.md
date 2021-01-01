@@ -1,6 +1,8 @@
 # Appendix A to Part 702—Gross-Up Approach, and Look-Through Approaches
+This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.
+This amendment was further delayed until Jan. 1, 2022, at 84 FR 68781, Dec. 17, 2019.
 Instead of using the risk weights assigned in § 702.104(c)(2) a credit union may determine the risk weight of certain investment funds, and the risk weight of a non-subordinated or subordinated tranche of any investment as follows:
-(a) Gross-up approach—(1) Applicability. Section 702.104(c)(3)(iii)(A) of this part provides that, a credit union may use the gross-up approach in this appendix to determine the risk weight of the carrying value of non-subordinated or subordinated tranches of any investment.
+(a) Gross-up approach —(1) Applicability. Section 702.104(c)(3)(iii)(A) of this part provides that, a credit union may use the gross-up approach in this appendix to determine the risk weight of the carrying value of non-subordinated or subordinated tranches of any investment.
 (2) Calculation. To use the gross-up approach, a credit union must calculate the following four inputs:
 (i) Pro rata share, which is the par value of the credit union's exposure as a percent of the par value of the tranche in which the securitization exposure resides;
 (ii) Enhanced amount, which is the par value of tranches that are more senior to the tranche in which the credit union's securitization resides;
@@ -17,7 +19,7 @@ Instead of using the risk weights assigned in § 702.104(c)(2) a credit union ma
 (i) The credit risk associated with the underlying exposures has been separated into at least two tranches reflecting different levels of seniority;
 (ii) Performance of the securitization exposures depends upon the performance of the underlying exposures; and
 (iii) All or substantially all of the underlying exposures are financial exposures (such as loans, receivables, asset-backed securities, mortgage-backed securities, or other debt securities).
-(b) Look-through approaches.—(1) Applicability. Section 702.104(c)(3)(iii)(B) provides that, a credit union may use one of the look-through approaches in this appendix to determine the risk weight of the exposure amount of any investment fund, or the holding of separate account insurance.
+(b) Look-through approaches. —(1) Applicability. Section 702.104(c)(3)(iii)(B) provides that, a credit union may use one of the look-through approaches in this appendix to determine the risk weight of the exposure amount of any investment fund, or the holding of separate account insurance.
 (2) Full look-through approach. (i) General. A credit union that is able to calculate a risk-weighted asset amount for its proportional ownership share of each exposure held by the investment fund may set the risk-weighted asset amount of the credit union's exposure to the fund equal to the product of:
 (A) The aggregate risk-weighted asset amounts of the exposures held by the fund as if they were held directly by the credit union; and
 (B) The credit union's proportional ownership share of the fund.
