@@ -83,8 +83,8 @@ B5.3 Modification or abandonment of wells
 B5.4 Repair or replacement of pipelines
 B5.5 Short pipeline segments
 B5.6 Oil spill cleanup
-B5.7 Import or export natural gas, with operational changes
-B5.8 Import or export natural gas, with new cogeneration powerplant
+B5.7 Export of natural gas and associated transportation by marine vessel
+B5.8 [Reserved]
 B5.9 Temporary exemptions for electric powerplants
 B5.10 Certain permanent exemptions for existing electric powerplants
 B5.11 Permanent exemptions allowing mixed natural gas and petroleum
@@ -325,10 +325,9 @@ B5.5 Short pipeline segments
 Construction and subsequent operation of short (generally less than 20 miles in length) pipeline segments conveying materials (such as air, brine, carbon dioxide, geothermal system fluids, hydrogen gas, natural gas, nitrogen gas, oil, produced water, steam, and water) between existing source facilities and existing receiving facilities (such as facilities for use, reuse, transportation, storage, and refining), provided that the pipeline segments are within previously disturbed or developed rights-of-way.
 B5.6 Oil spill cleanup
 Removal of oil and contaminated materials recovered in oil spill cleanup operations and disposal of these materials in accordance with applicable requirements (such as the National Oil and Hazardous Substances Pollution Contingency Plan).
-B5.7 Import or export natural gas, with operational changes
-Approvals or disapprovals of new authorizations or amendments of existing authorizations to import or export natural gas under section 3 of the Natural Gas Act that involve minor operational changes (such as changes in natural gas throughput, transportation, and storage operations) but not new construction.
-B5.8 Import or export natural gas, with new cogeneration powerplant
-Approvals or disapprovals of new authorizations or amendments of existing authorizations to import or export natural gas under section 3 of the Natural Gas Act that involve new cogeneration powerplants (as defined in the Powerplant and Industrial Fuel Use Act of 1978, as amended) within or contiguous to an existing industrial complex and requiring generally less than 10 miles of new natural gas pipeline or 20 miles within previously disturbed or developed rights-of-way.
+B5.7 Export of natural gas and associated transportation by marine vessel
+Approvals or disapprovals of new authorizations or amendments of existing authorizations to export natural gas under section 3 of the Natural Gas Act and any associated transportation of natural gas by marine vessel.
+B5.8 [Reserved]
 B5.9 Temporary exemptions for electric powerplants
 Grants or denials of temporary exemptions under the Powerplant and Industrial Fuel Use Act of 1978, as amended, for electric powerplants.
 B5.10 Certain permanent exemptions for existing electric powerplants

@@ -12,7 +12,7 @@ C9 Wetlands Demonstration Projects
 C10 [Reserved]
 C11 Particle Acceleration Facilities
 C12 Energy System Demonstration Actions
-C13 Import or Export Natural Gas Involving Minor New Construction
+C13 [Reserved]
 C14 Water Treatment Facilities
 C15 Research and Development Incinerators and Nonhazardous Waste Incinerators
 C16 Large Waste Packaging and Storage Facilities
@@ -37,8 +37,7 @@ C11 Particle Acceleration Facilities
 Siting, construction or modification, operation, and decommissioning of low- or medium-energy (when the primary beam energy exceeds approximately 100 million electron volts and the average beam power exceeds approximately 250 kilowatts or where the average current exceeds 2.5 milliamperes) particle acceleration facilities, including electron beam acceleration facilities, and associated beamlines, storage rings, colliders, and detectors for research and medical purposes, within or contiguous to a previously disturbed or developed area (where active utilities and currently used roads are readily accessible).
 C12 Energy System Demonstration Actions
 Siting, construction, operation, and decommissioning of energy system demonstration actions (including, but not limited to, wind resource, hydropower, geothermal, fossil fuel, biomass, and solar energy, but excluding nuclear). For purposes of this category, "demonstration actions" means actions that are undertaken at a scale to show whether a technology would be viable on a larger scale and suitable for commercial deployment.
-C13 Import or Export Natural Gas Involving Minor New Construction
-Approvals or disapprovals of authorizations to import or export natural gas under section 3 of the Natural Gas Act involving minor new construction (such as adding new connections, looping, or compression to an existing natural gas or liquefied natural gas pipeline, or converting an existing oil pipeline to a natural gas pipeline using the same right-of-way).
+C13 [Reserved]
 C14 Water Treatment Facilities
 Siting, construction (or expansion), operation, and decommissioning of wastewater, surface water, potable water, and sewage treatment facilities with a total capacity greater than approximately 250,000 gallons per day, and of lower capacity wastewater and surface water treatment facilities whose liquid discharges are not subject to external regulation.
 C15 Research and Development Incinerators and Nonhazardous Waste Incinerators
