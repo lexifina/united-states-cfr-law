@@ -63,6 +63,7 @@ Citation | Requirement | Applies to subpart NNNNN | Explanation
 § 63.9(h) | Notification of compliance status | Yes | Except the submission date specified in § 63.9(h)(2)(ii) is superseded by the date specified in § 63.9045(f).
 § 63.9(i) | Adjustment of submittal deadlines | Yes.
 § 63.9(j) | Change in previous information | Yes.
+§ 63.9(k) | Electronic reporting procedures | Yes | Only as specified in § 63.9(j).
 § 63.10(a) | Recordkeeping/reporting applicability | Yes.
 § 63.10(b)(1) | General recordkeeping requirements | Yes | §§ 63.9055 and 63.9060 specify additional recordkeeping requirements.
 § 63.10(b)(2)(i)-(ii) | Records related to startup, shutdown, and malfunction periods | No, for new or reconstructed sources which commenced construction or reconstruction after February 4, 2019. Yes, for all other affected sources before October 13, 2020, and No thereafter | See 63.9055 for recordkeeping of (1) date, time and duration; (2) listing of affected source or equipment, and an estimate of the quantity of each regulated pollutant emitted over the standard; and (3) actions to minimize emissions and correct the failure.
