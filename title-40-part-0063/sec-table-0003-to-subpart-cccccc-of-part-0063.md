@@ -67,7 +67,7 @@ Citation | Subject | Brief description | Applies to subpart CCCCCC
 § 63.8(f)(6) | Alternative to Relative Accuracy Test | Procedures for Administrator to approve alternative relative accuracy tests for continuous emissions monitoring system (CEMS) | No.
 § 63.8(g) | Data Reduction | COMS 6-minute averages calculated over at least 36 evenly spaced data points; CEMS 1 hour averages computed over at least 4 equally spaced data points; data that cannot be used in average | No.
 § 63.9(a) | Notification Requirements | Applicability and State delegation | Yes.
-§ 63.9(b)(1)-(2), (4)-(5) | Initial Notifications | Submit notification within 120 days after effective date; notification of intent to construct/reconstruct, notification of commencement of construction/reconstruction, notification of startup; contents of each | Yes.
+§ 63.9(b)(1)-(2), (4)-(5) | Initial Notifications | Submit notification within 120 days after effective date, or no later than 120 days after the source becomes subject to this subpart, whichever is later; notification of intent to construct/reconstruct, notification of commencement of construction/reconstruction, notification of startup; contents of each | Yes.
 § 63.9(c) | Request for Compliance Extension | Can request if cannot comply by date or if installed best available control technology or lowest achievable emission rate | Yes.
 § 63.9(d) | Notification of Special Compliance Requirements for New Sources | For sources that commence construction between proposal and promulgation and want to comply 3 years after effective date | Yes.
 § 63.9(e) | Notification of Performance Test | Notify Administrator 60 days prior | Yes.
@@ -76,6 +76,7 @@ Citation | Subject | Brief description | Applies to subpart CCCCCC
 § 63.9(h)(1)-(6) | Notification of Compliance Status | Contents due 60 days after end of performance test or other compliance demonstration, except for opacity/VE, which are due 30 days after; when to submit to Federal vs. State authority | Yes, however, there are no opacity standards.
 § 63.9(i) | Adjustment of Submittal Deadlines | Procedures for Administrator to approve change when notifications must be submitted | Yes.
 § 63.9(j) | Change in Previous Information | Must submit within 15 days after the change | Yes.
+§ 63.9(k) | Notifications | Electronic reporting procedures | Yes, only as specified in § 63.9(j).
 § 63.10(a) | Recordkeeping/Reporting | Applies to all, unless compliance extension; when to submit to Federal vs. State authority; procedures for owners of more than one source | Yes.
 § 63.10(b)(1) | Recordkeeping/Reporting | General requirements; keep all records readily available; keep for 5 years | Yes.
 § 63.10(b)(2)(i) | Records related to SSM | Recordkeeping of occurrence and duration of startups and shutdowns | No.
