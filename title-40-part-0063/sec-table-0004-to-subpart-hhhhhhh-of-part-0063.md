@@ -1,6 +1,6 @@
 # Table 4 to Subpart HHHHHHH of Part 63—Applicability of the General Provisions to Part 63
 Citation | Subject | Applies to subpart HHHHHHH | Comment
-§ 63.1(a)(1)-(a)(4), (a)(6), (a)(10)-(a)(12), (b)(1), (b)(3), (c)(1), (c)(2), (c)(5), (e) | Applicability | Yes.
+§ 63.1(a)(1)-(a)(4), (a)(6), (a)(10)-(a)(12), (b)(1), (b)(3), (c)(1), (c)(2), (c)(5), (c)(6), (e) | Applicability | Yes
 § 63.1(a)(5), (a)(7)-(a)(9), (b)(2), (c)(3), (c)(4), (d) | [Reserved] | No.
 § 63.2 | Definitions | Yes | Additional definitions are found in § 63.12005.
 § 63.3 | Units and abbreviations | Yes.
@@ -29,6 +29,7 @@ Citation | Subject | Applies to subpart HHHHHHH | Comment
 § 63.9(f) | Notification of opacity and visible emission observations | No | Subpart HHHHHHH does not have opacity or visible emission standards.
 § 63.9(g)(2) | Use of continuous opacity monitoring system data | No | Subpart HHHHHHH does not require the use of continuous opacity monitoring system.
 § 63.9(b)(3), (b)(4)(ii)-(iv), (h)(4) | [Reserved] | No.
+§ 63.9(k) | Electronic reporting procedures | Yes | Only as specified in § 63.9(j).
 § 63.10(a), (b)(1) | Recordkeeping and reporting requirements | Yes.
 § 63.10(b)(2)(i) | Recordkeeping of occurrence and duration of startups and shutdowns | No.
 § 63.10(b)(2)(ii) | Recordkeeping of malfunctions | No. See §§ 63.11895(b), 63.11985(b)(4)(i), 63.11985(b)(9) through (11), and 63.11985(c)(7)
