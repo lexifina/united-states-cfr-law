@@ -69,6 +69,7 @@ Citation | Subject | Brief description | Applies to subpart SSSSS
 § 63.9(h) | Notification of Compliance Status | | Yes.
 § 63.9(i) | Adjustment of Submittal Deadlines | | Yes.
 § 63.9(j) | Change in Previous Information | | Yes.
+§ 63.9(k) | Notifications | Electronic reporting procedures | Yes, only as specified in § 63.9(j).
 § 63.10(a) | Recordkeeping/Reporting | | Yes.
 § 63.10(b)(1) | Recordkeeping/Reporting | | Yes.
 § 63.10(b)(2)(i)-(v) | Records Related to Startup, Shutdown, and Malfunction | | Yes.

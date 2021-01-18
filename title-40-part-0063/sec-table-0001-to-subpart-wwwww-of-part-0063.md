@@ -26,7 +26,8 @@ Citation | Subject | Applies to subpart WWWWW | Explanation
 § 63.9(a) | Applicability and initial notifications addressees | Yes
 § 63.9(b) | Initial notifications | No
 § 63.9(c) | Request for extension of compliance | Yes
-§ 63.9(d)-(j) | Other notifications | No
+§ 63.9(d)-(i) | Other notifications | No
+§ 63.9(j)-(k) | Change in information already submitted Electronic reporting | Yes
 § 63.10(a)(1)-(2) | Recordkeeping and reporting requirements, applicability | Yes
 § 63.10(a)(3)-(4) | General information | Yes
 § 63.10(a)(5)-(7) | Recordkeeping and reporting requirements, reporting schedules | No
