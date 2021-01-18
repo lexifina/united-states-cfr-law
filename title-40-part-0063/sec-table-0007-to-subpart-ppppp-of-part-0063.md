@@ -6,6 +6,7 @@ Citation | Subject | Applicable to subpart PPPPP | Explanation
 § 63.1(c)(1) | Applicability After Standard Established | Yes
 § 63.1(c)(2) | Applicability of Permit Program for Area Sources | No | Area sources are not subject to subpart PPPPP.
 § 63.1(c)(5) | Notifications | Yes
+§ 63.1(c)(6) | Applicability | Reclassification | Yes.
 § 63.1(d) | [Reserved]
 § 63.1(e) | Applicability of Permit Program Before Relevant Standard is Set | Yes
 § 63.2 | Definitions | Yes | Additional definitions are specified in § 63.9375.
@@ -65,6 +66,7 @@ Citation | Subject | Applicable to subpart PPPPP | Explanation
 § 63.9(h) | Notification of Compliance Status | Yes
 § 63.9(i) | Adjustment of Submittal Deadlines | Yes
 § 63.9(j) | Change in Previous Information | Yes
+§ 63.9(k) | Notifications | Electronic reporting procedures | Yes, only as specified in § 63.9(j).
 § 63.10(a) | Recordkeeping/Reporting | Yes
 § 63.10(b)(1) | General Recordkeeping Requirements | Yes
 § 63.10(b)(2)(i) | Recordkeeping of Occurrence and Duration of Startups and Shutdowns | Yes before December 1, 2020. No on and after December 1, 2020
