@@ -31,6 +31,7 @@ Citation | Subject | Applicable to subpart HHHHHH | Explanation
 § 63.9(h) | Notification of Compliance Status | No | § 63.11175 specifies the dates and required content for submitting the notification of compliance status.
 § 63.9(i) | Adjustment of Submittal Deadlines | Yes
 § 63.9(j) | Change in Previous Information | Yes | § 63.11176(a) specifies the dates for submitting the notification of changes report.
+§ 63.9(k) | Electronic reporting procedures | Yes | Only as specified in § 63.9(j).
 § 63.10(a) | Recordkeeping/Reporting—Applicability and General Information | Yes
 § 63.10(b)(1) | General Recordkeeping Requirements | Yes | Additional requirements are specified in § 63.11177.
 § 63.10(b)(2)(i)-(xi) | Recordkeeping Relevant to Startup, Shutdown, and Malfunction Periods and CMS | No | Subpart HHHHHH does not require startup, shutdown, and malfunction plans, or CMS.
