@@ -16,6 +16,7 @@ Reference | Applies to subparts F, G, and H | Comment
 63.1(c)(3) | No
 63.1(c)(4) | Yes
 63.1(c)(5) | No | Subparts G and H specify applicable notification requirements.
+63.1(c)(6) | Yes
 63.1(d) | No
 63.1(e) | No | Subparts F, G, and H established before permit program.
 63.2 | Yes | Subpart F § 63.101(a) specifies those subpart A definitions that apply to the HON. Subpart F definition of "source" is equivalent to subpart A definition of "affected source."
@@ -152,7 +153,8 @@ Reference | Applies to subparts F, G, and H | Comment
 63.9(g) | No
 63.9(h) | No | § 63.152(b) of subpart G and § 63.182 (c) of subpart H specify Notification of Compliance Status requirements.
 63.9(i) | Yes
-63.9(j) | No
+63.9(j) | Yes | Only as related to change to major source status.
+63.9(k) | Yes | Only as specified in § 63.9(j).
 63.10(a) | Yes
 63.10(b)(1) | No | § 63.103(c) of subpart F specifies record retention requirements.
 63.10(b)(2) | No | § 63.103(c) of subpart F specifies required records.
