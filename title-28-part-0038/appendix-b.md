@@ -1,10 +1,3 @@
-# Appendix B to Part 38—Beneficiary Referral Request
-If you object to receiving services from us based on the religious character of our organization, please complete this form and return it to the program contact identified above. If you object, we will make reasonable efforts to refer you to another service provider. We cannot guarantee, however, that in every instance, an alternative provider will be available. With your consent, we will follow up with you or the organization to which you were referred to determine whether you contacted that organization.
-Please check if applicable:
-() I want to be referred to another service provider.
-If you checked above that you wish to be referred to another service provider, please check one of the following:
-() Please follow up with me or the service provider to which I was referred.
-Name:
-Best way to reach me (phone/address/email):
-() Please do not follow up.
-—End of Form—
+# Appendix B to Part 38—Notice of Award or Contract
+(a) A faith-based organization that participates in this program retains its independence from the Government and may continue to carry out its mission consistent with religious freedom and conscience protections in Federal law, including the Free Speech and Free Exercise Clauses of the Constitution, 42 U.S.C. 2000bb et seq., 42 U.S.C. 238n, 42 U.S.C. 18113, 42 U.S.C. 2000e–1(a) and 2000e–2(e), 42 U.S.C. 12113(d), and the Weldon Amendment, among others. Religious accommodations may also be sought under many of these religious freedom and conscience protection laws.
+(b) A faith-based organization may not use direct Federal financial assistance from the Department of Justice to support or engage in any explicitly religious activities except when consistent with the Establishment Clause of the First Amendment and any other applicable requirements. An organization receiving direct Federal financial assistance also may not, in providing services funded by the Department of Justice, discriminate against a program beneficiary or prospective program beneficiary on the basis of religion, a religious belief, a refusal to hold a religious belief, or a refusal to attend or participate in a religious practice.

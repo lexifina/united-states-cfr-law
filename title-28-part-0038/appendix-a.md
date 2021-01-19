@@ -1,11 +1,4 @@
-# Appendix A to Part 38—Written Notice of Beneficiary Protections
-Name of Organization:
-Name of Program:
-Contact Information for Program Staff (name, phone number, and email address, if appropriate):
-Because this program is supported in whole or in part by financial assistance from the Federal Government, we are required to let you knowthat—
-• We may not discriminate against you on the basis of religion, a religious belief, a refusal to hold a religious belief, or a refusal to attend or participate in a religious practice;
-• We may not require you to attend or participate in any explicitly religious activities that we offer, and your participation in these activities must be purely voluntary;
-• We must separate in time or location any privately funded explicitly religious activities from activities supported with direct Federal financial assistance;
-• If you object to the religious character of our organization, we must make reasonable efforts to identify and refer you to an alternative provider to which you have no objection; and
-• You may report violations of these protections to the U.S. Department of Justice, Office of Justice Programs, Office for Civil Rights or to [name of intermediary that awarded funds to the organization].
-We must give you this written notice before you enroll in our program or receive services from the program.
+# Appendix A to Part 38—Notice or Announcement of Award Opportunities
+(a) Faith-based organizations may apply for this award on the same basis as any other organization, as set forth at, and subject to the protections and requirements of this part and 42 U.S.C. 2000bb et seq. The Department of Justice will not, in the selection of recipients, discriminate against an organization on the basis of the organization's religious character, exercise or affiliation.
+(b) A faith-based organization that participates in this program will retain its independence from the Government and may continue to carry out its mission consistent with religious freedom and conscience protections in Federal law, including the Free Speech and Free Exercise Clauses of the First Amendment, 42 U.S.C. 2000bb et seq., 42 U.S.C. 238n, 42 U.S.C. 18113, 42 U.S.C. 2000e–1(a) and 2000e–2(e), 42 U.S.C. 12113(d), and the Weldon Amendment, among others. Religious accommodations may also be sought under many of these religious freedom and conscience protection laws.
+(c) A faith-based organization may not use direct Federal financial assistance from the Department of Justice to support or engage in any explicitly religious activities except where consistent with the Establishment Clause and any other applicable requirements. An organization receiving direct Federal financial assistance also may not, in providing services funded by the Department of Justice, discriminate against a program beneficiary or prospective program beneficiary on the basis of religion, a religious belief, a refusal to hold a religious belief, or a refusal to attend or participate in a religious practice.
