@@ -1,12 +1,13 @@
 # Table 4 to Subpart QQQQ of Part 63—Applicability of General Provisions to Subpart QQQQ of Part 63
 You must comply with the applicable General Provisions requirements according to the following table:
-Citation | Subject | Applicableto subpart QQQQ | Explanation
+Citation | Subject | Applicable to subpart QQQQ | Explanation
 § 63.1(a)(1)-(14) | General Applicability | Yes
 § 63.1(b)(1)-(3) | Initial Applicability Determination | Yes | Applicability to subpart QQQQ is also specified in § 63.4681.
 § 63.1(c)(1) | Applicability After Standard Established | Yes
 § 63.1(c)(2) | Applicability of Permit Program for Area Sources | No | Area sources are not subject to subpart QQQQ.
 § 63.1(c)(3) | [Reserved] | No
 § 63.1(c)(4)-(5) | Extensions and Notifications | Yes
+§ 63.1(c)(6) | Reclassification | Yes
 § 63.1(d) | [Reserved] | No
 § 63.1(e) | Applicability of Permit Program Before Relevant Standard is Set | Yes
 § 63.2 | Definitions | Yes | Additional definitions are specified in § 63.4781.
@@ -67,6 +68,7 @@ Citation | Subject | Applicableto subpart QQQQ | Explanation
 § 63.9(h) | Notification of Compliance Status | Yes | § 63.4710 specifies the dates for submitting the Notification of Compliance Status.
 § 63.9(i) | Adjustment of Submittal Deadlines | Yes
 § 63.9(j) | Change in Previous Information | Yes
+§ 63.9(k) | Electronic reporting procedures | Yes | Only as specified in § 63.9(j).
 § 63.10(a) | Recordkeeping/Reporting—Applicability and General Information | Yes
 § 63.10(b)(1) | General Recordkeeping Requirements | Yes | Additional requirements are specified in §§ 63.4730 and 63.4731.
 § 63.10(b)(2)(i)-(ii) | Recordkeeping of Occurrence and Duration of Startups and Shutdowns | No

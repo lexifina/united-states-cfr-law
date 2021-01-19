@@ -6,6 +6,7 @@ Citation | Subject | Applicable to subpart | Explanation
 § 63.1(c)(1) | Applicability After Standard Established | Yes
 § 63.1(c)(2)-(3) | Applicability of Permit Program for Area Sources | No | Area sources are not subject to subpart RRRR.
 § 63.1(c)(4)-(5) | Extensions and Notifications | Yes
+§ 63.1(c)(6) | Reclassification | Yes
 § 63.1(e) | Applicability of Permit Program Before Relevant Standard is Set | Yes
 § 63.2 | Definitions | Yes | Additional definitions are specified in § 63.4981.
 § 63.3(a)-(c) | Units and Abbreviations | Yes
@@ -58,12 +59,13 @@ Citation | Subject | Applicable to subpart | Explanation
 § 63.9(h) | Notification of Compliance Status | Yes | Section 63.4910 specifies the dates for submitting the notification of compliance status.
 § 63.9(i) | Adjustment of Submittal Deadlines | Yes
 § 63.9(j) | Change in Previous Information | Yes
+§ 63.9(k) | Electronic reporting procedures | Yes | Only as specified in § 63.9(j).
 § 63.10(a) | Recordkeeping/Reporting—Applicability and General Information | Yes
 § 63.10(b)(1) | General Recordkeeping Requirements | Yes | Additional requirements are specified in §§ 63.4930 and 63.4931.
 § 63.10(b)(2)(i) | Recordkeeping of Occurrence and Duration of Startups and Shutdowns | Yes, before September 12, 2019. No, on and after September 12, 2019 | See § 63.4930(j).
 § 63.10(b)(2)(ii) | Recordkeeping of Failures to Meet Standards | Yes, before September 12, 2019. No, on and after September 12, 2019 | See § 63.4930(j).
 § 63.10(b)(2)(iii) | Recordkeeping Relevant to Maintenance of Air Pollution Control and Monitoring Equipment | Yes
-§ 63.10(b)(2)(iv)- (v) | Actions Taken to Minimize Emissions During SSM | Yes, before September 12, 2019.No, on and after September 12, 2019 | See § 63.4930(j)(4) for a record of actions taken to minimize emissions during a deviation from the standard.
+§ 63.10(b)(2)(iv)- (v) | Actions Taken to Minimize Emissions During SSM | Yes, before September 12, 2019. No, on and after September 12, 2019 | See § 63.4930(j)(4) for a record of actions taken to minimize emissions during a deviation from the standard.
 § 63.10(b)(2)(vi) | Recordkeeping for CMS malfunctions | Yes, before September 12, 2019. No, on and after September 12, 2019 | See § 63.4930(j) for records of periods of deviation from the standard, including instances where a CMS is inoperative or out-of-control.
 § 63.10(b)(2)(vii)-(xi) | Records | Yes
 § 63.10(b)(2)(xii) | Records | Yes

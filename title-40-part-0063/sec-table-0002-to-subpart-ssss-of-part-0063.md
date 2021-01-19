@@ -9,6 +9,7 @@ General provisions reference | Subject | Applicable to subpart SSSS | Explanatio
 § 63.1(c)(1) | Applicability after Standard Established | Yes
 § 63.1(c)(2) | Applicability of Permit Program for Area Sources | Yes
 § 63.1(c)(5) | Extensions and Notifications | Yes
+§ 63.1(c)(6) | Yes
 § 63.1(e) | Applicability of Permit Program Before Relevant Standard is Set | Yes
 § 63.2 | Definitions | Yes | Additional definitions are specified in § 63.5110.
 § 63.3 | Units and Abbreviations | Yes
@@ -58,6 +59,7 @@ General provisions reference | Subject | Applicable to subpart SSSS | Explanatio
 § 63.9(h)(5)-(6) | Clarifications | Yes
 § 63.9(i) | Adjustment of Submittal Deadlines | Yes
 § 63.9(j) | Change in Previous Information | Yes
+§ 63.9(k) | Yes | Only as specified in § 63.9(j)
 § 63.10(a) | Recordkeeping/Reporting—Applicability and General Information | Yes
 § 63.10(b)(1) | General Recordkeeping Requirements | Yes | Additional requirements are specified in § 63.5190.
 § 63.10(b)(2)(i)-(ii) | Recordkeeping of Occurrence and Duration of Startups and Shutdowns and Recordkeeping of Failures to Meet Standards | Yes before August 24, 2020, No on and after August 24, 2020 | See § 63.5190(a)(5).
