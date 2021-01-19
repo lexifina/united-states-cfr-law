@@ -34,7 +34,7 @@ Reference | Applies to subpart II | Comment
 63.9(e) | No | If an alternative means of limiting emissions (e.g., an add-on control system) is used to comply with subpart II in accordance with § 63.783(c), then this paragraph does apply.
 63.9(f) | No | Subpart II does not contain any opacity or visible emission standards
 63.9(g)-(h) | No | If an alternative means of limiting emissions (e.g., an add-on control system) is used to comply with subpart II in accordance with § 63.783(c) then these paragraphs do apply.
-63.9(i)-(j) | Yes
+63.9(i)-(k) | Yes | § 63.9(k) only as specified in § 63.9(j).
 63.10(a) | Yes.
 63.10(b)(1) | Yes.
 63.10(b)(2)(i) | No.

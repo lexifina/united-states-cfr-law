@@ -8,6 +8,7 @@ Reference | Applies to subpart JJ | Comment
 63.1(c)(2) | No | Area sources are not subject to subpart JJ.
 63.1(c)(4) | Yes
 63.1(c)(5) | Yes
+63.1(c)(6) | Yes
 63.1(e) | Yes
 63.2 | Yes | Additional terms are defined in 63.801(a) of subpart JJ. When overlap between subparts A and JJ occurs, subpart JJ takes precedence.
 63.3 | Yes | Other units used in subpart JJ are defined in 63.801(b).
@@ -50,7 +51,7 @@ Reference | Applies to subpart JJ | Comment
 63.8(d)(3) | Yes, except for last sentence | Applies only to affected sources using a control device to comply with the rule.
 63.8(e)-(g) | Yes | Applies only to affected sources using a control device to comply with the rule.
 63.9(a) | Yes
-63.9(b) | Yes | Existing sources are required to submit initial notification report within 270 days of the effective date.
+63.9(b) | Yes | Existing sources are required to submit initial notification report within 270 days of the effective date or no later than 120 days after the source becomes subject to this subpart, whichever is later.
 63.9(c) | Yes
 63.9(d) | Yes
 63.9(e) | Yes | Applies only to affected sources using a control device to comply with the rule.
@@ -59,6 +60,7 @@ Reference | Applies to subpart JJ | Comment
 63.9(h) | Yes | 63.9(h)(2)(ii) applies only to affected sources using a control device to comply with the rule.
 63.9(i) | Yes
 63.9(j) | Yes
+63.9(k) | Yes | Only as specified in 63.9(j).
 63.10(a) | Yes
 63.10(b)(1) | Yes
 63.10(b)(2)(i) | No.
