@@ -1,6 +1,6 @@
 # Appendix to Subpart CC of Part 63—Tables
 Table 1—Hazardous Air Pollutants
-Chemical name | CAS No.a
+Chemical name | CAS No. a
 Benzene | 71432
 Biphenyl | 92524
 Butadiene (1,3) | 106990
@@ -58,7 +58,7 @@ Reference (section of subpart H of this part) | Description | Comment
 63.182(d) | Periodic report | Except for §§ 63.182 (d)(2)(vii), (d)(2)(viii), and (d)(3).
 a This table does not include all the requirements delineated under the referenced sections. See referenced sections for specific requirements.
 Table 4—Gasoline Distribution Emission Point Recordkeeping and Reporting Requirements a
-Reference (section ofsubpart R) | Description | Comment
+Reference (section of subpart R) | Description | Comment
 63.428(b) or (k) | Records of test results for each gasoline cargo tank loaded at the facility
 63.428(c) | Continuous monitoring data recordkeeping requirements
 63.428(g)(1) | Semiannual report loading rack information | Required to be submitted with the Periodic Report required under 40 CFR part 63, subpart CC.
@@ -98,6 +98,7 @@ Reference | Applies to subpart CC | Comment
 63.1(c)(2) | No | Area sources are not subject to subpart CC.
 63.1(c)(3)-63.1(c)(4) | No | Reserved.
 63.1(c)(5) | Yes | Except that sources are not required to submit notifications overridden by this table.
+63.1(c)(6) | Yes
 63.1(d) | No | Reserved.
 63.1(e) | No | No CAA section 112(j) standard applies to the affected sources under subpart CC.
 63.2 | Yes | § 63.641 of subpart CC specifies that if the same term is defined in subparts A and CC, it shall have the meaning given in subpart CC.
@@ -204,7 +205,8 @@ Reference | Applies to subpart CC | Comment
 63.9(g) | No
 63.9(h) | No | Subpart CC § 63.655(f) specifies Notification of Compliance Status report requirements.
 63.9(i) | Yes
-63.9(j) | No
+63.9(j) | Yes
+63.9(k) | Yes | Only as specified in § 63.9(j).
 63.10(a) | Yes
 63.10(b)(1) | No | § 63.655(i) of subpart CC specifies record retention requirements.
 63.10(b)(2)(i) | No.
@@ -237,8 +239,8 @@ Reference | Applies to subpart CC | Comment
 63.11 | Yes | Except that flares complying with § 63.670 are not subject to the requirements of § 63.11(b).
 63.12-63.16 | Yes.
 a Wherever subpart A of this part specifies "postmark" dates, submittals may be sent by methods other than the U.S. Mail (e.g., by fax or courier). Submittals shall be sent by the specified dates, but a postmark is not required.
-Table 7—Fraction Measured (FM), Fraction Emitted (FE), and Fraction Removed (FR) for HAP Compounds in Wastewater Streams
-Chemical name | CAS No.a | Fm | Fe | Fr
+Table 7—Fraction Measured (F M), Fraction Emitted (F E), and Fraction Removed (FR) for HAP Compounds in Wastewater Streams
+Chemical name | CAS No. a | F m | F e | Fr
 Benzene | 71432 | 1.00 | 0.80 | 0.99
 Biphenyl | 92524 | 0.86 | 0.45 | 0.99
 Butadiene (1,3) | 106990 | 1.00 | 0.98 | 0.99
@@ -277,7 +279,7 @@ Control device | Parameters to be monitored a | Recordkeeping and reporting requ
 Thermal incinerator | Firebox temperature b (63.644(a)(1)(i)) | 1. Continuous records c.
 | | 2. Record and report the firebox temperature averaged over the full period of the performance test—NCS d.
 | | 3. Record the daily average firebox temperature for each operating day e.
-| | 4. Report all daily average temperatures that are outside the range established in the NCS or operating permit and all operating days when insufficient monitoring data are collected f—PR g.
+| | 4. Report all daily average temperatures that are outside the range established in the NCS or operating permit and all operating days when insufficient monitoring data are collected f —PR g.
 Catalytic incinerator | Temperature upstream and downstream of the catalyst bed (63.644(a)(1)(ii)) | 1. Continuous records c.
 | | 2. Record and report the upstream and downstream temperatures and the temperature difference across the catalyst bed averaged over the full period of the performance test—NCS d.
 | | 3. Record the daily average upstream temperature and temperature difference across the catalyst bed for each operating day e.
@@ -287,14 +289,14 @@ Catalytic incinerator | Temperature upstream and downstream of the catalyst bed 
 Boiler or process heater with a design heat capacity less than 44 megawatts where the vent stream is not introduced into the flame zone h i | Firebox temperature b (63.644(a)(4)) | 1. Continuous records c.
 | | 2. Record and report the firebox temperature averaged over the full period of the performance test—NCS d.
 | | 3. Record the daily average firebox temperature for each operating day e.
-| | 4. Report all daily average firebox temperatures that are outside the range established in the NCS or operating permit and all operating days when insufficient monitoring data are collected f—PR g.
+| | 4. Report all daily average firebox temperatures that are outside the range established in the NCS or operating permit and all operating days when insufficient monitoring data are collected f —PR g.
 Flare (if meeting the requirements of §§ 63.643 and 63.644) | Presence of a flame at the pilot light (63.644(a)(2)) | 1. Hourly records of whether the monitor was continuously operating and whether a pilot flame was continuously present during each hour.
 | | 2. Record and report the presence of a flame at the pilot light over the full period of the compliance determination—NCS d.
 | | 3. Record the times and durations of all periods when all pilot flames for a flare are absent or the monitor is not operating.
 | | 4. Report the times and durations of all periods when all pilot flames for a flare are absent or the monitor is not operating.
-Flare (if meeting the requirements of §§ 63.670 and 63.671) | The parameters specified in § 63.670 | 1. Records as specified in § 63.655(i)(9).2. Report information as specified in § 63.655(g)(11)—PR.g
-All control devices | Presence of flow diverted to the atmosphere from the control device (§ 63.644(c)(1)) or | 1. Hourly records of whether the flow indicator was operating and whether flow was detected at any time during each hour. Record and report the times and durations of all periods when the vent stream is diverted through a bypass line or the monitor is not operating—PR.g
-| Monthly inspections of sealed valves (§ 63.644(c)(2)) | 1. Records that monthly inspections were performed.2. Record and report all monthly inspections that show the valves are not closed or the seal has been changed—PR.g
+Flare (if meeting the requirements of §§ 63.670 and 63.671) | The parameters specified in § 63.670 | 1. Records as specified in § 63.655(i)(9). 2. Report information as specified in § 63.655(g)(11)—PR. g
+All control devices | Presence of flow diverted to the atmosphere from the control device (§ 63.644(c)(1)) or | 1. Hourly records of whether the flow indicator was operating and whether flow was detected at any time during each hour. Record and report the times and durations of all periods when the vent stream is diverted through a bypass line or the monitor is not operating—PR. g
+| Monthly inspections of sealed valves (§ 63.644(c)(2)) | 1. Records that monthly inspections were performed. 2. Record and report all monthly inspections that show the valves are not closed or the seal has been changed—PR. g
 a Regulatory citations are listed in parentheses.
 b Monitor may be installed in the firebox or in the ductwork immediately downstream of the firebox before any substantial heat exchange is encountered.
 c "Continuous records" is defined in § 63.641.
@@ -305,7 +307,7 @@ g PR = Periodic Reports described in § 63.655(g).
 h No monitoring is required for boilers and process heaters with a design heat capacity ≥44 megawatts or for boilers and process heaters where all vent streams are introduced into the flame zone. No recordkeeping or reporting associated with monitoring is required for such boilers and process heaters.
 i Process vents that are routed to refinery fuel gas systems are not regulated under this subpart provided that on and after January 30, 2019, any flares receiving gas from that fuel gas system are in compliance with § 63.670. No monitoring, recordkeeping, or reporting is required for boilers and process heaters that combust refinery fuel gas.
 Table 11—Compliance Dates and Requirements
-If the construction/reconstruction date is... | Then the owner or operator must comply with... | And the owner or operator must achieve compliance... | Except as provided in...
+If the construction/ reconstruction date is... | Then the owner or operator must comply with... | And the owner or operator must achieve compliance... | Except as provided in...
 (1) After June 30, 2014 | (i) Requirements for new sources in §§ 63.643(a) and (b); 63.644, 63.645, and 63.647; 63.648(a) through (i) and (j)(1) and (2); 63.649 through 63.651; and 63.654 through 63.656 | Upon initial startup | § 63.640(k), (l) and (m).
 | (ii) Requirements for new sources in §§ 63.642(n), 63.643(c), 63.648(j)(3), (6) and (7); and 63.657 through 63.660 | Upon initial startup or February 1, 2016, whichever is later | § 63.640(k), (l) and (m).
 (2) After September 4, 2007 but on or before June 30, 2014 | (i) Requirements for new sources in §§ 63.643(a) and (b); 63.644, 63.645, and 63.647; 63.648(a) through (i) and (j)(1) and (2); and 63.649 through 63.651, 63.655 and 63.656 | Upon initial startup | § 63.640(k), (l) and (m).
@@ -323,7 +325,7 @@ If the construction/reconstruction date is... | Then the owner or operator must 
 | (vi) Requirements for existing sources in §§ 63.648(j)(3), (6) and (7) and 63.657 | On or before January 30, 2019 | § 63.640(k), (l) and (m).
 | (vii) Requirements in § 63.642(n) | Upon initial startup or February 1, 2016, whichever is later
 (4) On or before July 14, 1994 | (i) Requirements for existing sources in §§ 63.648(a) through (i) and (j)(1) and (2); and 63.649, 63.655 and 63.656 | (A) On or before August 18, 1998 | (1) § 63.640(k), (l) and (m). (2) § 63.6(c)(5) or unless an extension has been granted by the Administrator as provided in § 63.6(i).
-| (ii) Either the requirements for existing sources in §§ 63.643(a) and (b); 63.644, 63.645, 63.647, 63.650 and 63.651; and item (4)(v) of this tableOR The requirements in §§ 63.652 and 63.653 | (A) On or before August 18, 1998 | (1) § 63.640(k), (l) and (m). (2) § 63.6(c)(5) or unless an extension has been granted by the Administrator as provided in § 63.6(i).
+| (ii) Either the requirements for existing sources in §§ 63.643(a) and (b); 63.644, 63.645, 63.647, 63.650 and 63.651; and item (4)(v) of this table OR The requirements in §§ 63.652 and 63.653 | (A) On or before August 18, 1998 | (1) § 63.640(k), (l) and (m). (2) § 63.6(c)(5) or unless an extension has been granted by the Administrator as provided in § 63.6(i).
 | (iii) Requirements for existing sources in either § 63.646 or § 63.660 or, if applicable, § 63.640(n) | On or before August 18, 1998, but you must transition to comply with only the requirements in § 63.660 or, if applicable, § 63.640(n) on or before April 29, 2016 | §§ 63.640(k), (l) and (m) and 63.660(d).
 | (iv) Requirements for existing sources in § 63.654 | On or before October 29, 2012 | § 63.640(k), (l) and (m).
 | (v) Requirements for existing sources in § 63.643(c) | On or before December 26, 2018 | §§ 63.640(k), (l) and (m) and 63.643(d).
@@ -331,49 +333,49 @@ If the construction/reconstruction date is... | Then the owner or operator must 
 | (vii) Requirements for existing sources in §§ 63.648(j)(3), (6) and (7) and 63.657 | On or before January 30, 2019 | § 63.640(k), (l) and (m).
 | (viii) Requirements in § 63.642 (n) | Upon initial startup or February 1, 2016, whichever is later
 Table 12—Individual Component Properties
-Component | Molecularformula | MWi (pounds per pound-mole) | CMNi (mole per mole) | NHVi (British thermal units per standard cubic foot) | LFLi (volume %)
-Acetylene | C2H2 | 26.04 | 2 | 1,404 | 2.5
-Benzene | C6H6 | 78.11 | 6 | 3,591 | 1.3
-1,2-Butadiene | C4H6 | 54.09 | 4 | 2,794 | 2.0
-1,3-Butadiene | C4H6 | 54.09 | 4 | 2,690 | 2.0
-iso-Butane | C4H10 | 58.12 | 4 | 2,957 | 1.8
-n-Butane | C4H10 | 58.12 | 4 | 2,968 | 1.8
-cis-Butene | C4H8 | 56.11 | 4 | 2,830 | 1.6
-iso-Butene | C4H8 | 56.11 | 4 | 2,928 | 1.8
-trans-Butene | C4H8 | 56.11 | 4 | 2,826 | 1.7
-Carbon Dioxide | CO2 | 44.01 | 1 | 0 | ∞
+Component | Molecular formula | MW i (pounds per pound-mole) | CMN i (mole per mole) | NHV i (British thermal units per standard cubic foot) | LFL i (volume %)
+Acetylene | C 2 H 2 | 26.04 | 2 | 1,404 | 2.5
+Benzene | C 6 H 6 | 78.11 | 6 | 3,591 | 1.3
+1,2-Butadiene | C 4 H 6 | 54.09 | 4 | 2,794 | 2.0
+1,3-Butadiene | C 4 H 6 | 54.09 | 4 | 2,690 | 2.0
+iso-Butane | C 4 H 10 | 58.12 | 4 | 2,957 | 1.8
+n-Butane | C 4 H 10 | 58.12 | 4 | 2,968 | 1.8
+cis-Butene | C 4 H 8 | 56.11 | 4 | 2,830 | 1.6
+iso-Butene | C 4 H 8 | 56.11 | 4 | 2,928 | 1.8
+trans-Butene | C 4 H 8 | 56.11 | 4 | 2,826 | 1.7
+Carbon Dioxide | CO 2 | 44.01 | 1 | 0 | ∞
 Carbon Monoxide | CO | 28.01 | 1 | 316 | 12.5
-Cyclopropane | C3H6 | 42.08 | 3 | 2,185 | 2.4
-Ethane | C2H6 | 30.07 | 2 | 1,595 | 3.0
-Ethylene | C2H4 | 28.05 | 2 | 1,477 | 2.7
-Hydrogen | H2 | 2.02 | 0 | 1,212a | 4.0
-Hydrogen Sulfide | H2S | 34.08 | 0 | 587 | 4.0
-Methane | CH4 | 16.04 | 1 | 896 | 5.0
-Methyl-Acetylene | C3H4 | 40.06 | 3 | 2,088 | 1.7
-Nitrogen | N2 | 28.01 | 0 | 0 | ∞
-Oxygen | O2 | 32.00 | 0 | 0 | ∞
-Pentane+ (C5+) | C5H12 | 72.15 | 5 | 3,655 | 1.4
-Propadiene | C3H4 | 40.06 | 3 | 2,066 | 2.16
-Propane | C3H8 | 44.10 | 3 | 2,281 | 2.1
-Propylene | C3H6 | 42.08 | 3 | 2,150 | 2.4
-Water | H2O | 18.02 | 0 | 0 | ∞
+Cyclopropane | C 3 H 6 | 42.08 | 3 | 2,185 | 2.4
+Ethane | C 2 H 6 | 30.07 | 2 | 1,595 | 3.0
+Ethylene | C 2 H 4 | 28.05 | 2 | 1,477 | 2.7
+Hydrogen | H 2 | 2.02 | 0 | 1,212 a | 4.0
+Hydrogen Sulfide | H 2 S | 34.08 | 0 | 587 | 4.0
+Methane | CH 4 | 16.04 | 1 | 896 | 5.0
+Methyl-Acetylene | C 3 H 4 | 40.06 | 3 | 2,088 | 1.7
+Nitrogen | N 2 | 28.01 | 0 | 0 | ∞
+Oxygen | O 2 | 32.00 | 0 | 0 | ∞
+Pentane+ (C5+) | C 5 H 12 | 72.15 | 5 | 3,655 | 1.4
+Propadiene | C 3 H 4 | 40.06 | 3 | 2,066 | 2.16
+Propane | C 3 H 8 | 44.10 | 3 | 2,281 | 2.1
+Propylene | C 3 H 6 | 42.08 | 3 | 2,150 | 2.4
+Water | H 2 O | 18.02 | 0 | 0 | ∞
 a The theoretical net heating value for hydrogen is 274 Btu/scf, but for the purposes of the flare requirement in this subpart, a net heating value of 1,212 Btu/scf shall be used.
 Table 13—Calibration and Quality Control Requirements for CPMS
 Parameter | Minimum accuracy requirements | Calibration requirements
-Temperature | ±1 percent over the normal range of temperature measured, expressed in degrees Celsius (C), or 2.8 degrees C, whichever is greater | Conduct calibration checks at least annually; conduct calibration checks following any period of more than 24 hours throughout which the temperature exceeded the manufacturer's specified maximum rated temperature or install a new temperature sensor.At least quarterly, inspect all components for integrity and all electrical connections for continuity, oxidation, and galvanic corrosion, unless the CPMS has a redundant temperature sensor.
+Temperature | ±1 percent over the normal range of temperature measured, expressed in degrees Celsius (C), or 2.8 degrees C, whichever is greater | Conduct calibration checks at least annually; conduct calibration checks following any period of more than 24 hours throughout which the temperature exceeded the manufacturer's specified maximum rated temperature or install a new temperature sensor. At least quarterly, inspect all components for integrity and all electrical connections for continuity, oxidation, and galvanic corrosion, unless the CPMS has a redundant temperature sensor.
 | | Record the results of each calibration check and inspection.
 | | Locate the temperature sensor in a position that provides a representative temperature; shield the temperature sensor system from electromagnetic interference and chemical contaminants.
 Flow Rate for All Flows Other Than Flare Vent Gas | ±5 percent over the normal range of flow measured or 1.9 liters per minute (0.5 gallons per minute), whichever is greater, for liquid flow | Conduct a flow sensor calibration check at least biennially (every two years); conduct a calibration check following any period of more than 24 hours throughout which the flow rate exceeded the manufacturer's specified maximum rated flow rate or install a new flow sensor.
 | ±5 percent over the normal range of flow measured or 280 liters per minute (10 cubic feet per minute), whichever is greater, for gas flow | At least quarterly, inspect all components for leakage, unless the CPMS has a redundant flow sensor.
-| ±5 percent over the normal range measured for mass flow | Record the results of each calibration check and inspection.Locate the flow sensor(s) and other necessary equipment (such as straightening vanes) in a position that provides representative flow; reduce swirling flow or abnormal velocity distributions due to upstream and downstream disturbances.
-Flare Vent Gas Flow Rate | ±20 percent of flow rate at velocities ranging from 0.03 to 0.3 meters per second (0.1 to 1 feet per second)±5 percent of flow rate at velocities greater than 0.3 meters per second (1 feet per second) | Conduct a flow sensor calibration check at least biennially (every two years); conduct a calibration check following any period of more than 24 hours throughout which the flow rate exceeded the manufacturer's specified maximum rated flow rate or install a new flow sensor.At least quarterly, inspect all components for leakage, unless the CPMS has a redundant flow sensor.
+| ±5 percent over the normal range measured for mass flow | Record the results of each calibration check and inspection. Locate the flow sensor(s) and other necessary equipment (such as straightening vanes) in a position that provides representative flow; reduce swirling flow or abnormal velocity distributions due to upstream and downstream disturbances.
+Flare Vent Gas Flow Rate | ±20 percent of flow rate at velocities ranging from 0.03 to 0.3 meters per second (0.1 to 1 feet per second) ±5 percent of flow rate at velocities greater than 0.3 meters per second (1 feet per second) | Conduct a flow sensor calibration check at least biennially (every two years); conduct a calibration check following any period of more than 24 hours throughout which the flow rate exceeded the manufacturer's specified maximum rated flow rate or install a new flow sensor. At least quarterly, inspect all components for leakage, unless the CPMS has a redundant flow sensor.
 | | Record the results of each calibration check and inspection.
 | | Locate the flow sensor(s) and other necessary equipment (such as straightening vanes) in a position that provides representative flow; reduce swirling flow or abnormal velocity distributions due to upstream and downstream disturbances.
-Pressure | ±5 percent over the normal operating range or 0.12 kilopascals (0.5 inches of water column), whichever is greater | Review pressure sensor readings at least once a week for straightline (unchanging) pressure and perform corrective action to ensure proper pressure sensor operation if blockage is indicated.Using an instrument recommended by the sensor's manufacturer, check gauge calibration and transducer calibration annually; conduct calibration checks following any period of more than 24 hours throughout which the pressure exceeded the manufacturer's specified maximum rated pressure or install a new pressure sensor.
+Pressure | ±5 percent over the normal operating range or 0.12 kilopascals (0.5 inches of water column), whichever is greater | Review pressure sensor readings at least once a week for straightline (unchanging) pressure and perform corrective action to ensure proper pressure sensor operation if blockage is indicated. Using an instrument recommended by the sensor's manufacturer, check gauge calibration and transducer calibration annually; conduct calibration checks following any period of more than 24 hours throughout which the pressure exceeded the manufacturer's specified maximum rated pressure or install a new pressure sensor.
 | | At least quarterly, inspect all components for integrity, all electrical connections for continuity, and all mechanical connections for leakage, unless the CPMS has a redundant pressure sensor.
 | | Record the results of each calibration check and inspection.
 | | Locate the pressure sensor(s) in a position that provides a representative measurement of the pressure and minimizes or eliminates pulsating pressure, vibration, and internal and external corrosion.
-Net Heating Value by Calorimeter | ±2 percent of span | Specify calibration requirements in your site specific CPMS monitoring plan. Calibration requirements should follow manufacturer's recommendations at a minimum.Temperature control (heated and/or cooled as necessary) the sampling system to ensure proper year-round operation.
+Net Heating Value by Calorimeter | ±2 percent of span | Specify calibration requirements in your site specific CPMS monitoring plan. Calibration requirements should follow manufacturer's recommendations at a minimum. Temperature control (heated and/or cooled as necessary) the sampling system to ensure proper year-round operation.
 | | Where feasible, select a sampling location at least two equivalent diameters downstream from and 0.5 equivalent diameters upstream from the nearest disturbance. Select the sampling location at least two equivalent duct diameters from the nearest control device, point of pollutant generation, air in-leakages, or other point at which a change in the pollutant concentration or emission rate occurs.
 Net Heating Value by Gas Chromatograph | As specified in Performance Specification 9 of 40 CFR part 60, appendix B | Follow the procedure in Performance Specification 9 of 40 CFR part 60, appendix B, except that a single daily mid-level calibration check can be used (rather than triplicate analysis), the multi-point calibration can be conducted quarterly (rather than monthly), and the sampling line temperature must be maintained at a minimum temperature of 60 °C (rather than 120 °C).
 Hydrogen analyzer | ±2 percent over the concentration measured or 0.1 volume percent, whichever is greater | Specify calibration requirements in your site specific CPMS monitoring plan. Calibration requirements should follow manufacturer's recommendations at a minimum.

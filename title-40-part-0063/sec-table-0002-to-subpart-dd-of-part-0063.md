@@ -16,6 +16,7 @@ Subpart A reference | Applies to Subpart DD | Explanation
 63.1(c)(3) | No | Reserved.
 63.1(c)(4) | No | Reserved.
 63.1(c)(5) | Yes | Except that sources are not required to submit notifications overridden by this table.
+63.1(c)(6) | Yes
 63.1(d) | No |
 63.1(e) | No |
 63.2 | Yes | § 63.681 of subpart DD specifies that if the same term is defined in subparts A and DD, it shall have the meaning given in subpart DD.
@@ -129,7 +130,8 @@ Subpart A reference | Applies to Subpart DD | Explanation
 63.9(g) | Yes
 63.9(h) | Yes
 63.9(i) | Yes
-63.9(j) | No
+63.9(j) | Yes | For change in major source status only.
+63.9(k) | Yes | Only as specified in § 63.9(j).
 63.10(a) | Yes
 63.10(b)(1) | Yes
 63.10(b)(2)(i) | No
