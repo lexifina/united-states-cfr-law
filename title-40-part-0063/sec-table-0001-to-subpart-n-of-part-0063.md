@@ -1,5 +1,5 @@
 # Table 1 to Subpart N of Part 63—General Provisions Applicability to Subpart N
-General provisionsreference | Applies to subpart N | Comment
+General provisions reference | Applies to subpart N | Comment
 63.1(a)(1) | Yes | Additional terms defined in § 63.341; when overlap between subparts A and N occurs, subpart N takes precedence.
 63.1(a)(2) | Yes
 63.1(a)(3) | Yes
@@ -17,6 +17,7 @@ General provisionsreference | Applies to subpart N | Comment
 63.1(c)(2) | Yes | § 63.340(e) of Subpart N exempts area sources from the obligation to obtain Title V operating permits.
 63.1(c)(3)-(4) | No | [Reserved]
 63.1(c)(5) | No | Subpart N clarifies that an area source that becomes a major source is subject to the requirements for major sources.
+63.1(c)(6) | Yes
 63.1(e) | Yes
 63.2 | Yes | Additional terms defined in § 63.341; when overlap between subparts A and N occurs, subpart N takes precedence.
 63.3 | Yes | Other units used in subpart N are defined in that subpart.
@@ -138,6 +139,7 @@ General provisionsreference | Applies to subpart N | Comment
 63.9(h)(6) | Yes
 63.9(i) | Yes
 63.9(j) | Yes
+63.9(k) | Yes | Only as specified in § 63.9(j).
 63.10(a) | Yes
 63.10(b)(1) | Yes
 63.10(b)(2) | No | § 63.346(b) of subpart N specifies the records that must be maintained.
