@@ -11,6 +11,7 @@ Citation | Requirement | Applies to subpart HHHH | Explanation
 § 63.1(c)(2) | | Yes | Some plants may be area sources.
 § 63.1(c)(3) | | No | [Reserved].
 § 63.1(c)(4)-(5) | | Yes.
+§ 63.1(c)(6) | Reclassification | Yes.
 § 63.1(d) | | No | [Reserved].
 § 63.1(e) | Applicability of Permit Program | Yes.
 § 63.2 | Definitions | Yes | Additional definitions in § 63.3004.
@@ -88,6 +89,7 @@ Citation | Requirement | Applies to subpart HHHH | Explanation
 § 63.9(h)(5)-(6) | | Yes.
 § 63.9(i) | Adjustment of Deadlines | Yes.
 § 63.9(j) | Change in Previous Information | Yes.
+§ 63.9(k) | Electronic reporting procedures | Yes | Only as specified in § 63.9(j).
 § 63.10(a) | Recordkeeping/Reporting—Applicability | Yes.
 § 63.10(b)(1) | General Recordkeeping Requirements | Yes | § 63.2998 includes additional requirements.
 § 63.10(b)(2)(i) | Recordkeeping of Occurrence and Duration of Startups and Shutdowns | No, for new or reconstructed sources which commenced construction or reconstruction after April 6, 2018. Yes, for all other affected sources before August 28, 2019, and No thereafter
