@@ -6,6 +6,7 @@ Citation | Subject | Applicable to subpart OOOO | Explanation
 § 63.1(c)(1) | Applicability After Standard Established | Yes
 § 63.1(c)(2)-(3) | Applicability of Permit Program for Area Sources | No | Area sources are not subject to subpart OOOO.
 § 63.1(c)(4)-(5) | Extensions and Notifications | Yes
+§ 63.1(c)(6) | Reclassification | Yes
 § 63.1(e) | Applicability of Permit Program Before Relevant Standard is Set | Yes
 § 63.2 | Definitions | Yes | Additional definitions are specified in § 63.4371.
 § 63.3(a)-(c) | Units and Abbreviations | Yes
@@ -19,11 +20,11 @@ Citation | Subject | Applicable to subpart OOOO | Explanation
 § 63.6(a) | Compliance With Standards and Maintenance Requirements—Applicability | Yes
 § 63.6(b)(1)-(7) | Compliance Dates for New and Reconstructed Sources | Yes | Section 63.4283 specifies the compliance dates.
 § 63.6(c)(1)-(5) | Compliance Dates for Existing Sources | Yes | Section 63.4283 specifies the compliance dates.
-§ 63.6(e)(1)(i) | Operation and Maintenance | Yes, before September 12, 2019.No, on and after September 12, 2019 | See § 63.4300(b) for general duty requirement.
-§ 63.6(e)(1)(ii) | Operation and Maintenance | Yes, before September 12, 2019.No, on and after September 12, 2019
+§ 63.6(e)(1)(i) | Operation and Maintenance | Yes, before September 12, 2019. No, on and after September 12, 2019 | See § 63.4300(b) for general duty requirement.
+§ 63.6(e)(1)(ii) | Operation and Maintenance | Yes, before September 12, 2019. No, on and after September 12, 2019
 § 63.6(e)(1)(iii) | Operation and Maintenance | Yes
-§ 63.6(e)(3) | Startup, Shutdown, and Malfunction Plan | Yes, before September 12, 2019.No, on and after September 12, 2019
-§ 63.6(f)(1) | Compliance Except During Startup, Shutdown, and Malfunction | Yes, before September 12, 2019.No, on and after September 12, 2019
+§ 63.6(e)(3) | Startup, Shutdown, and Malfunction Plan | Yes, before September 12, 2019. No, on and after September 12, 2019
+§ 63.6(f)(1) | Compliance Except During Startup, Shutdown, and Malfunction | Yes, before September 12, 2019. No, on and after September 12, 2019
 § 63.6(f)(2)-(3) | Methods for Determining Compliance | Yes
 § 63.6(g)(1)-(3) | Use of an Alternative Standard | Yes
 § 63.6(h) | Compliance With Opacity/Visible Emission Standards | No | Subpart OOOO does not establish opacity standards and does not require continuous opacity monitoring systems (COMS).
@@ -33,7 +34,7 @@ Citation | Subject | Applicable to subpart OOOO | Explanation
 § 63.7(a)(2) | Performance Test Requirements—Dates | Yes | Applies only to performance tests for capture system and control device efficiency at sources using these to comply with the standard.
 § 63.7(a)(3) | Performance Tests Required by the Administrator | Yes
 § 63.7(b)-(d) | Performance Test Requirements—Notification, Quality Assurance, Facilities Necessary for Safe Testing, Conditions During Test | Yes | Applies only to performance tests for capture system and control device efficiency at sources using these to comply with the standard.
-§ 63.7(e)(1) | Conduct of performance tests | Yes, before September 12, 2019.No, on and after September 12, 2019 | See § 63.4360.
+§ 63.7(e)(1) | Conduct of performance tests | Yes, before September 12, 2019. No, on and after September 12, 2019 | See § 63.4360.
 § 63.7(e)(2)-(4) | Conduct of performance tests | Yes
 § 63.7(f) | Performance Test Requirements—Use of Alternative Test Method | Yes | Applies to all test methods except those used to determine capture system efficiency.
 § 63.7(g)-(h) | Performance Test Requirements—Data Analysis, Recordkeeping, Waiver of Test | Yes | Applies only to performance tests for capture system and add-on control device efficiency at sources using these to comply with the standards.
@@ -61,6 +62,7 @@ Citation | Subject | Applicable to subpart OOOO | Explanation
 § 63.9(h) | Notification of Compliance Status | Yes | Section 63.4310 specifies the dates for submitting the notification of compliance status.
 § 63.9(i) | Adjustment of Submittal Deadlines | Yes
 § 63.9(j) | Change in Previous Information | Yes
+§ 63.9(k) | Electronic reporting procedures | Yes | Only as specified in § 63.9(j).
 § 63.10(a) | Recordkeeping/Reporting—Applicability and General Information | Yes
 § 63.10(b)(1) | General Recordkeeping Requirements | Yes | Additional Requirements are specified in §§ 63.4312 and 63.4313.
 § 63.10(b)(2)(i) | Recordkeeping of Occurrence and Duration of Startups and Shutdowns | Yes, before September 12, 2019. No, on and after September 12, 2019 | See § 63.4312(i)
