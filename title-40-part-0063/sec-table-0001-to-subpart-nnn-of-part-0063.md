@@ -1,5 +1,5 @@
 # Table 1 to Subpart NNN of Part 63—Applicability of General Provisions (40 CFR Part 63, Subpart A) to Subpart NNN
-General provisionscitation | Requirement | Applies to subpart NNN? | Explanation
+General provisions citation | Requirement | Applies to subpart NNN? | Explanation
 § 63.1(a)(1)-(5) | Applicability | Yes
 § 63.1(a)(6) | | Yes
 § 63.1(a)(7)-(9) | | No | [Reserved].
@@ -53,6 +53,7 @@ General provisionscitation | Requirement | Applies to subpart NNN? | Explanation
 § 63.9(b)(1)-(2) | Initial Notifications | Yes
 § 63.9(b)(3) | | No | [Reserved].
 § 63.9(b)(4)-(j) | | Yes
+§ 63.9(k) | Yes | Only as specified in § 63.9(j)
 § 63.10(a) | Recordkeeping and Reporting Requirements | Yes
 § 63.10(b)(1) | General Recordkeeping Requirements | Yes
 § 63.10(b)(2)(i) | Recordkeeping of Occurrence and Duration of Startups and Shutdowns | No

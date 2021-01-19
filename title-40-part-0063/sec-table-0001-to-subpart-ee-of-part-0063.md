@@ -6,6 +6,7 @@ Reference | Applies to subpart EE | Comment
 63.1(c)(1) | Yes | Subpart EE specifies the applicability of each paragraph in subpart A to sources subject to subpart EE.
 63.1(c)(2) | No | The applicability of §§ 63.701(a)(2) and 63.703 (b) and (h) to a source does not in and of itself make a source subject to part 70.
 63.1(c)(4)-(5) | Yes.
+63.1(c)(6) | Yes
 63.1(e) | Yes.
 63.2 | Yes | Additional terms defined in § 63.702(a); when overlap between subparts A and EE occurs, subpart EE takes precedence.
 63.3 | Yes | Units specific to subpart EE are defined in subpart EE.
@@ -83,6 +84,7 @@ Reference | Applies to subpart EE | Comment
 63.9(h)(5)-(6) | Yes.
 63.9(i) | Yes.
 63.9(j) | Yes.
+63.9(k) | Yes | Only as specified in § 63.9(j).
 63.10(a) | Yes.
 63.10(b)(1) | Yes.
 63.10(b)(2) | Yes | Except information on startup and shutdown periods is not necessary because the standards apply during these time periods.

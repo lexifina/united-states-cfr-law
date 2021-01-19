@@ -1,5 +1,5 @@
 # Table 1 to Subpart DDD of Part 63—Applicability of General Provisions (40 CFR Part 63, Subpart A) to Subpart DDD of Part 63
-General provisionscitation | Requirement | Applies to subpart DDD? | Explanation
+General provisions citation | Requirement | Applies to subpart DDD? | Explanation
 § 63.1(a)(1)-(6) | General Applicability | Yes
 § 63.1(a)(7)-(9) | | No | [Reserved].
 § 63.1(a)(10)-(12) | | Yes
@@ -48,6 +48,7 @@ General provisionscitation | Requirement | Applies to subpart DDD? | Explanation
 § 63.9(b)(3) | | No | [Reserved].
 § 63.9(b)(4)-(b)(5) | | Yes
 § 63.9(c)-(j) | | Yes
+§ 63.9(k) | | Yes | Only as specified in § 63.9(j).
 § 63.10(a) | Recordkeeping and Reporting Requirements | Yes
 § 63.10(b)(1) | General Recordkeeping Requirements | Yes
 § 63.10(b)(2)(i) | Recordkeeping of Occurrence and Duration of Startups and Shutdowns | No
