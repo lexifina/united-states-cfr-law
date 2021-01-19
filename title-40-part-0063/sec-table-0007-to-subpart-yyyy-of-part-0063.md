@@ -72,6 +72,7 @@ Citation | Subject | Applies to subpart YYYY | Explanation
 § 63.9(h) | Notification of compliance status | Yes | Except that notifications for sources not conducting performance tests are due 30 days after completion of performance evaluations. § 63.9(h)(4) is reserved.
 § 63.9(i) | Adjustment of submittal deadlines | Yes
 § 63.9(j) | Change in previous information | Yes
+§ 63.9(k) | Electronic reporting procedures | Yes | Only as specified in § 63.9(j).
 § 63.10(a) | Administrative provisions for recordkeeping and reporting | Yes
 § 63.10(b)(1) | Record retention | Yes
 § 63.10(b)(2)(i) | Recordkeeping of occurrence and duration of startups and shutdowns | Yes before September 8, 2020. No after September 8, 2020.

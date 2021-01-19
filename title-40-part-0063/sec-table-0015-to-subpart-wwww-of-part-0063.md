@@ -14,6 +14,7 @@ The general provisions reference... | That addresses... | And applies to subpart
 § 63.1(c)(2) | Title V operating permit requirement | Yes | All major affected sources are required to obtain a title V operating permit. Area sources are not subject to subpart WWWW of part 63.
 § 63.1(c)(3) and (4) | Reserved | No
 § 63.1(c)(5) | Notification requirements for an area source that increases HAP emissions to major source levels | Yes
+§ 63.1(c)(6) | Reclassification | Yes
 § 63.1(d) | Reserved | No
 § 63.1(e) | Applicability of permit program before a relevant standard has been set under this part | Yes
 § 63.2 | Definitions | Yes | Subpart WWWW of part 63 defines terms in § 63.5935. When overlap between subparts A and WWWW of part 63 occurs, you must comply with the subpart WWWW of part 63 definitions, which take precedence over the subpart A definitions.
@@ -105,6 +106,7 @@ The general provisions reference... | That addresses... | And applies to subpart
 § 63.9(h)(5) and (6) | Notification of compliance status | Yes
 § 63.9(i) | Adjustment of submittal deadlines | Yes
 § 63.9(j) | Change in information provided | Yes
+§ 63.9(k) | Electronic reporting procedures | Yes | Only as specified in § 63.9(j).
 § 63.10(a) | Applicability of recordkeeping and reporting | Yes
 § 63.10(b)(1) | Records retention | Yes
 § 63.10(b)(2)(i) through (v) | Records related to startup, shutdown, and malfunction | No
