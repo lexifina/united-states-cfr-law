@@ -31,6 +31,7 @@ Reference | Applies to subpart X | Comment
 63.9(a), (b), (c), (e), (g), (h)(1)through (3), (h)(5) and (6), (i) and (j) | Yes.
 63.9(f) | No.
 63.9(h)(4) | No. | Reserved.
+63.9(k) | Yes | Only as specified in 63.9(j).
 63.10 (a) | Yes.
 63.10 (b)(1) | Yes.
 63.10(b)(2)(i) | No.

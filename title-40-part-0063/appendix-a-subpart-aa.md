@@ -10,6 +10,7 @@
 § 63.1(c)(2) | Permits | Yes | Some plants may be area sources.
 § 63.1(c)(3)-(4) | | No | [Reserved].
 § 63.1(c)(5) | Area to Major source change | Yes | None.
+§ 63.1(c)(6) | | Yes | None.
 § 63.1(d) | | No | [Reserved].
 § 63.1(e) | Applicability of Permit Program | Yes | None.
 § 63.2 | Definitions | Yes | Additional definitions in § 63.601.
@@ -82,6 +83,7 @@
 § 63.9(h)(5) and (6) | | Yes | None.
 § 63.9(i) | Adjustment of Deadlines | Yes | None.
 § 63.9(j) | Change in Previous Information | Yes | None.
+§ 63.9(k) | | Yes | Only as specified in § 63.9(j).
 § 63.10(a) | Recordkeeping/Reporting-Applicability | Yes | None.
 § 63.10(b)(1) | General Recordkeeping Requirements | Yes | None.
 § 63.10(b)(2)(i) | Startup or shutdown duration | No | None.
