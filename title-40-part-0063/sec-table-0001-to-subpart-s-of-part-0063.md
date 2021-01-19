@@ -1,5 +1,5 @@
 # Table 1 to Subpart S of Part 63—General Provisions Applicability to Subpart S a
-Reference | Applies tosubpart S | Comment
+Reference | Applies to subpart S | Comment
 63.1(a)(1)-(3) | Yes
 63.1(a)(4) | Yes | Subpart S (this table) specifies applicability of each paragraph in subpart A to subpart S.
 63.1(a)(5) | No | Section reserved.
@@ -13,6 +13,7 @@ Reference | Applies tosubpart S | Comment
 63.1(c)(1)-(2) | Yes
 63.1(c)(3)-(4) | No | Sections reserved.
 63.1(c)(5) | Yes
+63.1(c)(6) | Yes
 63.1(d) | No | Section reserved.
 63.1(e) | Yes
 63.2 | Yes
@@ -100,6 +101,7 @@ Reference | Applies tosubpart S | Comment
 63.9(h)(5)-(6) | Yes
 63.9(i) | Yes
 63.9(j) | Yes
+63.9(k) | Yes | Only as specified in § 63.9(j).
 63.10(a) | Yes
 63.10(b)(1) | Yes
 63.10(b)(2)(i) | No
