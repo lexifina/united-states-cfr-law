@@ -36,6 +36,7 @@ General provisions reference | Applicable to subpart HH | Explanation
 § 63.1(c)(2) | Yes | Subpart HH exempts area sources from the requirement to obtain a Title V permit unless otherwise required by law as specified in § 63.760(h).
 § 63.1(c)(3) and (c)(4) | No | Section reserved.
 § 63.1(c)(5) | Yes.
+§ 63.1(c)(6) | Yes
 § 63.1(d) | No | Section reserved.
 § 63.1(e) | Yes.
 § 63.2 | Yes | Except definition of major source is unique for this source category and there are additional definitions in subpart HH.
@@ -141,6 +142,7 @@ General provisions reference | Applicable to subpart HH | Explanation
 § 63.9(h)(5) through (h)(6) | Yes.
 § 63.9(i) | Yes.
 § 63.9(j) | Yes.
+§ 63.9(k) | Yes | Only as specified in § 63.9(j).
 § 63.10(a) | Yes.
 § 63.10(b)(1) | Yes | § 63.774(b)(1) requires sources to maintain the most recent 12 months of data on-site and allows offsite storage for the remaining 4 years of data.
 § 63.10(b)(2) | Yes.

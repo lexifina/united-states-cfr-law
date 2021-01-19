@@ -22,6 +22,7 @@ Reference | Applies to affected sources in subpart GG | Comment
 63.1(c)(3) | No | Reserved.
 63.1(c)(4) | Yes
 63.1(c)(5) | Yes
+63.1(c)(6) | Yes
 63.1(d) | No | Reserved.
 63.1(e) | Yes
 63.2 | Yes
@@ -127,6 +128,7 @@ Reference | Applies to affected sources in subpart GG | Comment
 63.9(h)(5)-(6) | Yes
 63.9(i) | Yes
 63.9(j) | Yes
+63.9(k) | Yes | Only as specified in § 63.9(j).
 63.10(a) | Yes
 63.10(b)(1) | Yes
 63.10(b)(2)(i) | No
