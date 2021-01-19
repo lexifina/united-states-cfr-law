@@ -17,6 +17,8 @@ Reference | Applies to Subpart CCC | Explanation
 63.8(d)(1)-(2) | Yes
 63.8(d)(3) | Yes, except for last sentence
 63.8(e)-(f) | Yes
+63.9(j) | Yes
+63.9(k) | Yes | Only as specified in § 63.9(j).
 63.10(a) | Yes
 63.10(b)(1) | Yes
 63.10(b)(2)(i) | No

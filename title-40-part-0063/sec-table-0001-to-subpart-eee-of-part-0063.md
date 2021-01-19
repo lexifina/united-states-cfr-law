@@ -31,6 +31,7 @@ Reference | Applies to subpart EEE | Explanation
 63.9(g) | Yes | Except § 63.9(g)(2) pertaining to COMS does not apply.
 63.9(h) | Yes | Except § 63.1207(j) requiring you to submit the notification of compliance within 90 days of completing a performance test unless the Administrator grants a time extension applies instead of § 63.9(h)(2)(iii). Note: Even though area sources are subject to this subpart, the major source determination required by § 63.9(h)(2)(i)(E) is applicable to hazardous waste combustors for the reasons discussed above.
 63.9(i) and (j) | Yes.
+63.9(k) | Yes | Only as specified in § 63.9(j).
 63.10 | Yes | Except reports of performance test results required under § 63.10(d)(2) may be submitted up to 90 days after completion of the test.
 63.11 | No.
 63.12-63.15 | Yes.

@@ -12,6 +12,7 @@ General provisions reference | Summary of requirements | Applies to subpart GGG 
 63.1(c)(3) | Reserved | |
 63.1(c)(4) | Requirements for existing source that obtains an extension of compliance | Yes |
 § 63.1(c)(5) | Notification requirements for an area source that increases HAP emissions to major source levels | Yes |
+63.1(c)(6) | Reclassification | Yes
 63.1(d) | [Reserved] | NA
 63.1(e) | Applicability of permit program before a relevant standard has been set | Yes
 63.2 | Definitions. | Yes | Additional terms defined in § 63.1251; when overlap between subparts A and GGG of this part occurs, subpart GGG takes precedence.
@@ -81,7 +82,8 @@ General provisions reference | Summary of requirements | Applies to subpart GGG 
 63.9(g)(3) | Notification that criterion to continue use of alternative to relative accuracy testing has been exceeded | Yes | § 63.1260 (d) also specifies notification requirement for performance evaluation.
 63.9(h) | Notification of compliance status | Yes | Specified in § 63.1260(f). Due 150 days after compliance date.
 63.9(i) | Adjustment to time periods or postmark deadlines for submittal and review of required communications | Yes |
-63.9(j) | Change in information provided | No | Subpart GGG specifies procedures for notification of changes.
+63.9(j) | Change in information provided | Yes | For change in major source status only.
+63.9(k) | Electronic reporting procedures | Yes | Only as specified in § 63.9(j).
 63.10(a) | Recordkeeping requirements | Yes
 63.1259.
 63.10(b)(1) | Records retention | Yes | Also stated in § 63.1259.
