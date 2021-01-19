@@ -33,6 +33,7 @@ Reference | Applies to subpart XXX | Comment
 § 63.9(a),(b),(c),(e),(g),(h)(1) through (3), (h)(5) and (6), (i) and (j) | Yes
 § 63.9(f) | Yes
 § 63.9(h)(4) | No | Section reserved.
+§ 63.9(k) | Yes | Only as specified in § 63.9(j).
 § 63.10(a) | Yes
 § 63.10(b)(1) | Yes
 § 63.10(b)(2)(i) | No
@@ -49,4 +50,4 @@ Reference | Applies to subpart XXX | Comment
 § 63.10(d)(5) | No | See §§ 63.1628(d)(8) and 63.1659(a)(4) for malfunction reporting requirements.
 § 63.10(e)-(f) | Yes
 § 63.11 | No | Flares will not be used to comply with the emission limits.
-§§ 63.12-63.15 | Yes |
+§§ 63.12-63.15 | Yes

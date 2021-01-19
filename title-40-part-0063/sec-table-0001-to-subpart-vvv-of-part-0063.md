@@ -20,6 +20,7 @@ General provisions reference | Applicable to subpart VVV | Explanation
 § 63.1(c)(3) | Yes | Section reserved.
 § 63.1(c)(4) | Yes | Extension of compliance.
 § 63.1(c)(5) | No | Subpart VVV addresses area sources becoming major due to increase in emissions.
+§ 63.1(c)(6) | Yes
 § 63.1(d) | Yes | Section reserved.
 § 63.1(e) | Yes | Title V permit before a relevant standard is established.
 § 63.2 | Yes | Definitions.
@@ -94,6 +95,7 @@ General provisions reference | Applicable to subpart VVV | Explanation
 § 63.9(h) | Yes, except as noted | Notification of compliance status when the source becomes subject to subpart VVV. See exceptions in § 63.1591(b).
 § 63.9(i) | Yes | Adjustments to time periods or postmark deadlines or submittal and review of required communications.
 § 63.9(j) | Yes | Change of information already provided to the Administrator.
+§ 63.9(k) | Yes | Only as specified in § 63.9(j).
 § 63.10 | | Recordkeeping and reporting requirements.
 § 63.10(a) | Yes | Applicability of notification and reporting requirements.
 § 63.10(b)(1)-(2) | Yes, except as noted below | General recordkeeping requirements.
