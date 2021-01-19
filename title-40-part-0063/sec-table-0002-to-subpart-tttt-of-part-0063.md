@@ -1,6 +1,6 @@
 # Table 2 to Subpart TTTT of Part 63—Applicability of General Provisions to Subpart TTTT
 As required in § 63.5450, you must meet the appropriate NESHAP General Provision requirements in the following table:
-General provisions citation | Subject of citation | Brief description of requirement | Applies tosubpart | Explanation
+General provisions citation | Subject of citation | Brief description of requirement | Applies to subpart | Explanation
 § 63.1 | Applicability | Initial applicability determination; applicability after standard established; permit requirements; extensions, notifications. | Yes
 § 63.2 | Definitions | Definitions for Part 63 standards | Yes | Except as specifically provided in this subpart.
 § 63.3 | Units and abbreviations | Units and abbreviations for Part 63 standards | Yes
@@ -31,6 +31,8 @@ General provisions citation | Subject of citation | Brief description of require
 § 63.9(f) | Notification of VE/opacity observations | Notify responsible agency 30 days ahead | No | Subpart TTTT has no opacity or visual emission standards.
 § 63.9(g) | Additional notifications when using a continuous monitoring system (CMS) | Notification of performance evaluation; notification using COMS data; notification that exceeded criterion for relative accuracy | No | See § 63.5360(a)(2) for CMS requirements.
 § 63.9(h) | Notification of compliance status | Contents | No | § 63.5320(d) specifies requirements for the notification of compliance status.
+§ 63.9(j) | Notification requirements | Change in previous information | Yes
+§ 63.9(k) | Notification requirements | Electronic reporting procedures | Yes | Only as specified in § 63.9(j).
 § 63.10 | Recordkeeping/reporting | Schedule for reporting, record storage | Yes | Except for paragraphs of § 63.10 as listed below.
 § 63.10(b)(2) | Recordkeeping | CMS recordkeeping; CMS records of startup, shutdown, and malfunction events | No | See § 63.5360 for CMS recordkeeping requirements, except see § 63.5430(h) for CMS recordkeeping requirements if there is a deviation from the standard.
 § 63.10(c) | Recordkeeping | Additional CMS recordkeeping | No | See § 63.5360(a)(2) for CMS recordkeeping requirements.
