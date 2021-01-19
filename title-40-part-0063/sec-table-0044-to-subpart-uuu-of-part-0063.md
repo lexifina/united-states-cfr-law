@@ -13,6 +13,7 @@ Citation | Subject | Applies to subpart UUU | Explanation
 § 63.1(c)(2) | | No | Area sources are not subject to this subpart.
 § 63.1(c)(3)-(4) | [Reserved] | Not applicable
 § 63.1(c)(5) | | Yes
+§ 63.1(c)(6) | Reclassification | Yes
 § 63.1(d) | [Reserved] | Not applicable
 § 63.1(e) | Applicability of Permit Program | Yes
 § 63.2 | Definitions | Yes | § 63.1579 specifies that if the same term is defined in subparts A and UUU of this part, it shall have the meaning given in this subpart.
@@ -123,6 +124,7 @@ Citation | Subject | Applies to subpart UUU | Explanation
 § 63.9(h) | Notification of Compliance Status | Yes | Except that this subpart specifies the notification is due no later than 150 days after compliance date, and except that the reference to § 63.5(d)(1)(ii)(H) in § 63.9(h)(5) does not apply.
 § 63.9(i) | Adjustment of Deadlines | Yes
 § 63.9(j) | Change in Previous Information | Yes
+§ 63.9(k) | Electronic reporting procedures | Yes | Only as specified in § 63.9(j).
 63.10(a) | Recordkeeping and Reporting Applicability | Yes
 § 63.10(b)(1) | General Recordkeeping Requirements | Yes
 § 63.10(b)(2)(i) | Recordkeeping of Occurrence and Duration of Startups and Shutdowns | No

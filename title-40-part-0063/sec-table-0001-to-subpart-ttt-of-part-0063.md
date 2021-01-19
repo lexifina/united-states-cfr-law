@@ -1,5 +1,5 @@
 # Table 1 to Subpart TTT of Part 63—General Provisions Applicability to Subpart TTT
-Reference | Applies to subpartTTT | Comment
+Reference | Applies to subpart TTT | Comment
 63.6(a), (b), (c) | Yes. |
 63.6(d) | No | Section reserved.
 63.6(e)(1)(i) | No | See 63.1543(i) and 63.1544(d) for general duty requirement.
@@ -26,6 +26,7 @@ Reference | Applies to subpartTTT | Comment
 63.9(a), (b), (c), (e), (g), (h)(1) through (3), (h)(5) and (6), (i) and (j) | Yes. |
 63.9(f) | No. |
 63.9(h)(4) | No | Reserved.
+63.9(k) | Yes | Only as specified in 63.9(j).
 63.10(b)(2)(i) | No. |
 63.10(b)(2)(ii) | No | See 63.1549(b)(9) and (10) for recordkeeping of occurrence and duration of malfunctions and recordkeeping of actions taken during malfunction.
 63.10(b)(2)(iii) | Yes. |
