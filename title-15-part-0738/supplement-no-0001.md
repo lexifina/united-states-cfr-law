@@ -169,7 +169,7 @@ South Africa 2 3 4 | X | X | | | | X | | X | X | | | X | | X
 South Sudan, Republic of | X | X | | X | | X | X | X | X | X | | X | | X
 Spain 3 | X | | | | | X | | X | X
 Sri Lanka | X | X | | X | | X | X | X | X | X | | X | | X
-Sudan 1 | X | X | | X | | X | X | X | X | X | | X | | X | X | X
+Sudan 1 | X | X | | X | | X | X | X | X | X | | X | | X
 Suriname | X | X | | X | | X | X | X | X | X | X | X | | X
 Swaziland | X | X | | X | | X | X | X | X | X | | X | | X
 Sweden 3 4 | X | | | | | X | | X | X | | | X | | X
