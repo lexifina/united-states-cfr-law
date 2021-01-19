@@ -11,6 +11,7 @@ Citation | Requirement | Applies to subpart LLL | Explanation
 63.1(c)(2) | Permit Requirements | Yes | Area sources must obtain Title V permits.
 63.1(c)(3) | | No | [Reserved].
 63.1(c)(4)-(5) | Extensions, Notifications | Yes
+63.1(c)(6) | Reclassification | Yes
 63.1(d) | | No | [Reserved].
 63.1(e) | Applicability of Permit Program | Yes
 63.2 | Definitions | Yes | Additional definitions in § 63.1341.
@@ -83,6 +84,7 @@ Citation | Requirement | Applies to subpart LLL | Explanation
 63.9(h)(5)-(6) | Notification of Compliance Status | Yes
 63.9(i) | Adjustment of Deadlines | Yes
 63.9(j) | Change in Previous Information | Yes
+63.9(k) | Electronic reporting procedures | Yes | Only as specified in § 63.9(j).
 63.10(a) | Recordkeeping/Reporting | Yes
 63.10(b)(1) | General Recordkeeping Requirements | Yes
 63.10(b)(2)(i)-(ii) | General Recordkeeping Requirements | No | See § 63.1355(g) and (h).

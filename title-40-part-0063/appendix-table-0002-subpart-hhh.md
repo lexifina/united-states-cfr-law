@@ -1,5 +1,5 @@
 # Appendix: Table 2 to Subpart HHH of Part 63—Applicability of 40 CFR Part 63 General Provisions to Subpart HHH
-General provisionsreference | Applicable to subpart HHH | Explanation
+General provisions reference | Applicable to subpart HHH | Explanation
 § 63.1(a)(1) | Yes.
 § 63.1(a)(2) | Yes.
 § 63.1(a)(3) | Yes.
@@ -18,6 +18,7 @@ General provisionsreference | Applicable to subpart HHH | Explanation
 § 63.1(c)(3) | No | Section reserved.
 § 63.1(c)(4) | Yes.
 § 63.1(c)(5) | Yes.
+§ 63.1(c)(6) | Yes
 § 63.1(d) | No | Section reserved.
 § 63.1(e) | Yes.
 § 63.2 | Yes | Except definition of major source is unique for this source category and there are additional definitions in subpart HHH.
@@ -129,6 +130,7 @@ General provisionsreference | Applicable to subpart HHH | Explanation
 § 63.9(h)(5) and (h)(6) | Yes.
 § 63.9(i) | Yes.
 § 63.9(j) | Yes.
+§ 63.9(k) | Yes | Only as specified in § 63.9(j).
 § 63.10(a) | Yes.
 § 63.10(b)(1) | Yes | Section 63.1284(b)(1) requires sources to maintain the most recent 12 months of data on-site and allows offsite storage for the remaining 4 years of data.
 § 63.10(b)(2) | Yes.
