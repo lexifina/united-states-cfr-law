@@ -4,9 +4,9 @@ Reference | Applies to subpart U | Explanation
 § 63.1(a)(2) | Yes.
 § 63.1(a)(3) | Yes | § 63.481(f) through (k) and § 63.160(b) identify those standards which may apply in addition to the requirements of subparts U and H of this part, and specify how compliance shall be achieved.
 § 63.1(a)(4) | Yes | Subpart U (this table) specifies the applicability of each paragraph in subpart A to subpart U.
-§ 63.1(a)(5) | No | [Reserved.].
+§ 63.1(a)(5) | No | [Reserved].
 § 63.1(a)(6)-(8) | Yes.
-§ 63.1(a)(9) | No | [Reserved.].
+§ 63.1(a)(9) | No | [Reserved].
 § 63.1(a)(10) | Yes.
 § 63.1(a)(11) | Yes.
 § 63.1(a)(12)-(14) | Yes.
@@ -15,27 +15,28 @@ Reference | Applies to subpart U | Explanation
 § 63.1(b)(3) | No | § 63.480(b) provides documentation requirements for EPPUs not considered affected sources.
 § 63.1(c)(1) | Yes | Subpart U (this table) specifies the applicability of each paragraph in subpart A to subpart U.
 § 63.1(c)(2) | No | Area sources are not subject to subpart U.
-§ 63.1(c)(3) | No | [Reserved.].
+§ 63.1(c)(3) | No | [Reserved].
 § 63.1(c)(4) | Yes.
 § 63.1(c)(5) | Yes | Except that affected sources are not required to submit notifications that are not required by subpart U.
-§ 63.1(d) | No | [Reserved.].
+§ 63.1(c)(6) | Yes
+§ 63.1(d) | No | [Reserved].
 § 63.1(e) | Yes.
 § 63.2 | Yes | § 63.482 specifies those subpart A definitions that apply to subpart U.
 § 63.3 | Yes.
 § 63.4(a)(1)-(3) | Yes.
-§ 63.4(a)(4) | No | [Reserved.].
+§ 63.4(a)(4) | No | [Reserved].
 § 63.4(a)(5) | Yes.
 § 63.4(b) | Yes.
 § 63.4(c) | Yes.
 § 63.5(a)(1) | Yes | Except the terms "source" and "stationary source" should be interpreted as having the same meaning as "affected source".
 § 63.5(a)(2) | Yes.
 § 63.5(b)(1) | Yes | Except § 63.480(i) defines when construction or reconstruction is subject to new source standards.
-§ 63.5(b)(2) | No | [Reserved.].
+§ 63.5(b)(2) | No | [Reserved].
 § 63.5(b)(3) | Yes.
 § 63.5(b)(4) | Yes | Except that the Initial Notification and § 63.9(b) requirements do not apply.
 § 63.5(b)(5) | Yes.
 § 63.5(b)(6) | Yes | Except that § 63.480(i) defines when construction or reconstruction is subject to the new source standards.
-§ 63.5(c) | No | [Reserved.].
+§ 63.5(c) | No | [Reserved].
 § 63.5(d)(1)(i) | Yes | Except that the references to the Initial Notification and § 63.9(b)(5) do not apply.
 § 63.5(d)(1)(ii) | Yes | Except that § 63.5(d)(1)(ii)(H) does not apply.
 § 63.5(d)(1)(iii) | No | § 63.506(e)(5) and § 63.502(f) specify Notification of Compliance Status requirements.
@@ -51,14 +52,14 @@ Reference | Applies to subpart U | Explanation
 § 63.6(b)(3) | No.
 § 63.6(b)(4) | No.
 § 63.6(b)(5) | No.
-§ 63.6(b)(6) | No | [Reserved.].
+§ 63.6(b)(6) | No | [Reserved].
 § 63.6(b)(7) | No.
 § 63.6(c)(1) | Yes | § 63.481 specifies the compliance date.
 § 63.6(c)(2) | No.
-§ 63.6(c)(3) | No | [Reserved.].
-§ 63.6(c)(4) | No | [Reserved.].
+§ 63.6(c)(3) | No | [Reserved].
+§ 63.6(c)(4) | No | [Reserved].
 § 63.6(c)(5) | Yes.
-§ 63.6(d) | No | [Reserved.].
+§ 63.6(d) | No | [Reserved].
 § 63.6(e)(1)(i) | No | See § 63.483(a)(1) for general duty requirement. Any cross reference to § 63.6(e)(1)(i) in any other general provision incorporated by reference shall be treated as a cross reference to § 63.483(a)(1).
 § 63.6(e)(1)(ii) | No
 § 63.6(e)(1)(iii) | Yes.
@@ -76,7 +77,7 @@ Reference | Applies to subpart U | Explanation
 § 63.6(i)(4)(i)(B) | No | Dates are specified in § 63.481(e) and § 63.506(e)(3)(i).
 § 63.6(i)(4)(ii) | No.
 § 63.6(i)(5)-(14) | Yes.
-§ 63.6(i)(15) | No | [Reserved.].
+§ 63.6(i)(15) | No | [Reserved].
 § 63.6(i)(16) | Yes.
 § 63.6(j) | Yes.
 § 63.7(a)(1) | Yes.
@@ -127,7 +128,8 @@ Reference | Applies to subpart U | Explanation
 § 63.9(g) | No.
 § 63.9(h) | No | § 63.506(e)(5) specifies Notification of Compliance Status requirements.
 § 63.9(i) | Yes.
-§ 63.9(j) | No.
+§ 63.9(j) | Yes | For change in major source status only.
+§ 63.9(k) | Yes | Only as specified in § 63.9(j).
 § 63.10(a) | Yes
 § 63.10(b)(1) | No | § 63.506(a) specifies record retention requirements.
 § 63.10(b)(2) | No | Subpart U specifies recordkeeping requirements.

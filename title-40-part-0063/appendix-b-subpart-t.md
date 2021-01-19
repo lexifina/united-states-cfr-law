@@ -16,6 +16,7 @@ Reference | Applies to subpart T | BCC | BVI | Comments
 63.1(c)(3) | No | No
 63.1(c)(4) | Yes | Yes
 63.1(c)(5) | Yes | Yes | Subpart T does not require continuous monitoring systems (CMS) or continuous opacity monitoring systems. Therefore, notifications and requirements for CMS and COMS specified in subpart A do not apply to subpart T.
+63.1(c)(6) | Yes | Yes
 63.1(d) | No | No
 63.1(e) | No | Yes
 63.2 | Yes | Yes | Subpart T definitions (§ 63.461) for existing and new overlap with the definitions for existing source and new source in subpart A (§ 63.2). Both subpart A and T also define Administrator.
@@ -77,6 +78,7 @@ Reference | Applies to subpart T | BCC | BVI | Comments
 63.9(h) | No | No | Section 63.468 of subpart T requires an initial statement of compliance for existing sources to be submitted to the Administrator no later than 150 days after the compliance date specified in § 63.460(d) of subpart T. For new sources, this report is to be submitted to the Administrator no later than 150 days from the date specified in § 63.460(c).
 63.9(i) | Yes | Yes
 63.9(j) | Yes | Yes
+63.9(k) | Yes | Yes | Only as specified in § 63.9(j).
 63.10(a) | Yes | Yes
 63.10(b) | No | No | Recordkeeping requirements are specified in subpart T.
 63.10(c) (1)-(15) | No | No | Subpart T does not require continuous monitoring systems.

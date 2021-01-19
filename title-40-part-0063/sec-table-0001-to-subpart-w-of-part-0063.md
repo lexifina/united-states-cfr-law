@@ -20,6 +20,7 @@ Reference | Applies to subpart W | BLR | WSR | WSR alternative standard, and BLR
 § 63.1(c)(3) | N/A | N/A | N/A | Reserved.
 § 63.1(c)(4) | Yes | Yes | Yes
 § 63.1(c)(5) | Yes | Yes | No | Subpart H specifies applicable notification requirements.
+§ 63.1(c)(6) | Yes | Yes | Yes
 § 63.1(d) | N/A | N/A | N/A | Reserved.
 § 63.1(e) | Yes | Yes | Yes
 § 63.2 | Yes | Yes | Yes | Additional terms are defined in § 63.522 of subpart W; when overlap between subparts A and W occurs, subpart W takes precedence.
@@ -130,6 +131,7 @@ Reference | Applies to subpart W | BLR | WSR | WSR alternative standard, and BLR
 § 63.9(h)(5)-(6) | Yes | Yes | No | Subpart H specifies Notification of Compliance Status requirements.
 § 63.9(i) | Yes | Yes | Yes
 § 63.9(j) | Yes | Yes | Yes
+§ 63.9(k) | Yes | Yes | Yes | Only as specified in § 63.9(j).
 § 63.10(a) | Yes | Yes | Yes
 § 63.10(b)(1) | Yes | Yes | Yes
 § 63.10(b)(2) | No | No | No | Subparts H and W specify recordkeeping requirements.
