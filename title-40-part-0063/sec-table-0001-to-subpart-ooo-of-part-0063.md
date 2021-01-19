@@ -18,6 +18,7 @@ Reference | Applies to subpart OOO | Explanation
 63.1(c)(3) | No | [Reserved].
 63.1(c)(4) | No | [Reserved].
 63.1(c)(5) | Yes | Except that affected sources are not required to submit notifications overridden by this table.
+63.1(c)(6) | Yes
 63.1(d) | No | [Reserved].
 63.1(e) | Yes
 63.2 | Yes | § 63.1402 specifies the definitions from subpart A of this part that apply to this subpart.
@@ -128,7 +129,8 @@ Reference | Applies to subpart OOO | Explanation
 63.9(g) | No
 63.9(h) | No | § 63.1417(e) specifies Notification of Compliance Status requirements.
 63.9(i) | Yes
-63.9(j) | No
+63.9(j) | Yes | For change in major source status only.
+63.9(k) | Yes | Only as specified in § 63.9(j).
 63.10(a) | Yes
 63.10(b)(1) | No | § 63.1416(a) specifies record retention requirements.
 63.10(b)(2) | No | Subpart OOO specifies recordkeeping requirements.

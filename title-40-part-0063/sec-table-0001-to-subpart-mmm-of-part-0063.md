@@ -1,5 +1,5 @@
 # Table 1 to Subpart MMM of Part 63—General Provisions Applicability to Subpart MMM
-Reference to subpart A | Applies tosubpart MMM | Explanation
+Reference to subpart A | Applies to subpart MMM | Explanation
 § 63.1(a)(1) | Yes | Additional terms are defined in § 63.1361.
 § 63.1(a)(2)-(3) | Yes
 § 63.1(a)(4) | Yes | Subpart MMM (this table) specifies applicability of each paragraph in subpart A to subpart MMM.
@@ -14,6 +14,7 @@ Reference to subpart A | Applies tosubpart MMM | Explanation
 § 63.1(c)(2) | No | Area sources are not subject to subpart MMM.
 § 63.1(c)(3) | N/A | Reserved.
 § 63.1(c)(4)-(5) | Yes
+§ 63.1(c)(6) | Yes
 § 63.1(d) | N/A | Reserved.
 § 63.1(e) | Yes
 § 63.2 | Yes | Additional terms are defined in § 63.1361; when overlap between subparts A and MMM occurs, subpart MMM takes precedence.
@@ -96,7 +97,8 @@ Reference to subpart A | Applies tosubpart MMM | Explanation
 § 63.9(h)(4) | N/A | Reserved.
 § 63.9(h)(5)-(6) | Yes
 63.9(i) | Yes.
-63.9(j) | No | § 63.1368(h) specifies procedures for notification of changes.
+§ 63.9(j) | Yes | For change in major source status only, § 63.1368(h) specifies procedures for other notification of changes.
+§ 63.9(k) | Yes | Only as specified in § 63.9(j).
 § 63.10(a)-(b)(1) | Yes
 § 63.10(b)(2) | No | § 63.1367 specifies recordkeeping requirements.
 § 63.10(b)(3) | Yes
