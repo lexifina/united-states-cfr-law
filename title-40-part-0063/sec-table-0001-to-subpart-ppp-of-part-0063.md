@@ -1,5 +1,5 @@
 # Table 1 to Subpart PPP of Part 63—Applicability of General Provisions to Subpart PPP Affected Sources
-Reference | Applies tosubpart PPP | Explanation
+Reference | Applies to subpart PPP | Explanation
 63.1(a)(1) | Yes | § 63.1423 specifies definitions in addition to or that supersede definitions in § 63.2.
 63.1(a)(2) | Yes.
 63.1(a)(3) | Yes | § 63.1422(f) through (k) of this subpart and § 63.160(b) identify those standards which overlap with the requirements of subparts PPP and H and specify how compliance shall be achieved.
@@ -18,6 +18,7 @@ Reference | Applies tosubpart PPP | Explanation
 63.1(c)(3) | No | Reserved.
 63.1(c)(4) | No | Reserved.
 63.1(c)(5) | Yes | Except that affected sources are not required to submit notifications overridden by this table.
+63.1(c)(6) | Yes
 63.1(d) | No | Reserved.
 63.1(e) | Yes.
 63.2 | Yes | § 63.1423 specifies those subpart A definitions that apply to subpart PPP.
@@ -128,7 +129,8 @@ Reference | Applies tosubpart PPP | Explanation
 63.9(g) | No.
 63.9(h) | No | § 63.1439(e)(5) specifies notification of compliance status requirements.
 63.9(i) | Yes.
-63.9(j) | No.
+63.9(j) | Yes | For change in major source status only.
+63.9(k) | Yes | Only as specified in § 63.9(j).
 63.10(a) | Yes.
 63.10(b)(1) | No | § 63.1439(a) specifies record retention requirements.
 63.10(b)(2) | No | Subpart PPP specifies recordkeeping requirements.
