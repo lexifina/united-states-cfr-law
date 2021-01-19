@@ -1,5 +1,5 @@
 # Table 1 to Subpart MM of Part 63—General Provisions Applicability to Subpart MM
-General provisionsreference | Summary of requirements | Applies tosubpart MM | Explanation
+General provisions reference | Summary of requirements | Applies to subpart MM | Explanation
 63.1(a)(1) | General applicability of the General Provisions | Yes | Additional terms defined in § 63.861; when overlap between subparts A and MM of this part, subpart MM takes precedence.
 63.1(a)(2)-(14) | General applicability of the General Provisions | Yes
 63.1(b)(1) | Initial applicability determination | No | Subpart MM specifies the applicability in § 63.860.
@@ -10,6 +10,7 @@ General provisionsreference | Summary of requirements | Applies tosubpart MM | E
 63.1(c)(3) | [Reserved] | No
 63.1(c)(4) | Requirements for existing source that obtains an extension of compliance | Yes
 63.1(c)(5) | Notification requirements for an area source that increases HAP emissions to major source levels | Yes
+63.1(c)(6) | Reclassification | Yes
 63.1(d) | [Reserved] | No
 63.1(e) | Applicability of permit program before a relevant standard has been set | Yes
 63.2 | Definitions | Yes | Additional terms defined in § 63.861; when overlap between subparts A and MM of this part occurs, subpart MM takes precedence.
@@ -93,6 +94,7 @@ General provisionsreference | Summary of requirements | Applies tosubpart MM | E
 63.9(h) | Notification of compliance status | Yes
 63.9(i) | Adjustment to time periods or postmark deadlines for submittal and review of required communications | Yes
 63.9(j) | Change in information already provided | Yes
+63.9(k) | Electronic reporting procedures | Yes | Only as specified in § 63.9(j).
 63.10(a) | Recordkeeping requirements—applicability and general information | Yes | See § 63.866.
 63.10(b)(1) | Records retention | Yes
 63.10(b)(2)(i) | Recordkeeping of occurrence and duration of startups and shutdowns | No

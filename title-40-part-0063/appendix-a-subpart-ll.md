@@ -10,6 +10,7 @@ Reference section(s) | Requirement | Applies to subpart LL | Comment
 63.1(c)(2) | | Yes | Area sources are not subject to this subpart.
 63.1(c)(3) and (4) | | No | [Reserved].
 63.1(c)(5) | | Yes
+63.1(c)(6) | Reclassification | Yes
 63.1(d) | | No | [Reserved].
 63.1(e) | Applicability of Permit Program | Yes
 63.2 | Definitions | Yes | Reconstruction defined in § 63.842.
@@ -77,6 +78,7 @@ Reference section(s) | Requirement | Applies to subpart LL | Comment
 63.9(h)(5) and (6) | | Yes
 63.9(i) | Adjustment of Deadlines | Yes
 63.9(j) | Change in Previous Information | Yes
+63.9(k) | Electronic reporting procedures | Yes | Only as specified in § 63.9(j).
 63.10(a) | Recordkeeping/Reporting Applicability | Yes
 63.10(b)(1) | General Recordkeeping Requirements | Yes
 63.10(b)(2)(i) | | No
