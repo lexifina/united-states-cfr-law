@@ -71,6 +71,7 @@ General provisions citation | Subject of citation | Applies to subpart | Explana
 | | | Except that § 63.9(h) only applies as specified in § 63.6645.
 § 63.9(i) | Adjustment of submittal deadlines | Yes.
 § 63.9(j) | Change in previous information | Yes.
+§ 63.9(k) | Electronic reporting procedures | Yes | Only as specified in § 63.9(j).
 § 63.10(a) | Administrative provisions for recordkeeping/reporting | Yes.
 § 63.10(b)(1) | Record retention | Yes | Except that the most recent 2 years of data do not have to be retained on site.
 § 63.10(b)(2)(i)-(v) | Records related to SSM | No.
