@@ -72,6 +72,7 @@ Citation | Subject | Brief description | Applies to subpart KKKKK?
 § 63.9(h) | Notification of Compliance Status | Contents; submittal requirements | Yes.
 § 63.9(i) | Adjustment of Submittal Deadlines | Procedures for Administrator to approve change in when notifications must be submitted | Yes.
 § 63.9(j) | Change in Previous Information | Must submit within 15 days after the change | Yes.
+§ 63.9(k) | Electronic reporting procedures | Electronic reporting procedures for notifications per § 63.9(j) | Yes.
 § 63.10(a) | Recordkeeping/Reporting | Applicability; general information | Yes.
 § 63.10(b)(1) | General Recordkeeping Requirements | General requirements | Yes.
 § 63.10(b)(2)(i) | Records Related to SSM | Recordkeeping of occurrence and duration of startups and shutdowns | No.
