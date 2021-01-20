@@ -85,6 +85,7 @@ Citation | Subject | Brief description | Applies to subpart LLLLL
 § 63.9(h)(1)-(6) | Notification of Compliance Status | 1. Contents. 2. Due 60 days after end of performance test or other compliance demonstration, except for opacity/VE, which are due 30 days after 3. When to submit to Federal vs. State authority | Yes.
 § 63.9(i) | Adjustment of Submittal Deadlines | Procedures for Administrator to approve change in dates when notifications must be submitted | Yes.
 § 63.9(j) | Change in Previous Information | Must submit within 15 days after the change | Yes.
+§ 63.9(k) | Electronic reporting procedures | Electronic reporting procedures for notifications per § 63.9(j) | Yes.
 § 63.10(a) | Recordkeeping/Reporting | 1. Applies to all, unless compliance extension 2. When to submit to Federal vs. State authority 3. Procedures for owners of more than 1 source | Yes.
 § 63.10(b)(1) | Recordkeeping/Reporting | 1. General Requirements 2. Keep all records readily available. 3. Keep for 5 years | Yes.
 § 63.10(b)(2)(i) | Records related to Startup and Shutdown | Occurrence of each of operation (process equipment) | Yes before September 9, 2020. No on and after September 9, 2020.

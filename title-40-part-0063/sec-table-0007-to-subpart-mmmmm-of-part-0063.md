@@ -58,6 +58,7 @@ Citation | Requirement | Applies to subpart MMMMM | Explanation
 § 63.9(h) | Notification of compliance status | Yes.
 § 63.9(i) | Adjustment of submittal deadlines | Yes.
 § 63.9(j) | Change in previous information | Yes.
+§ 63.9(k) | Electronic reporting procedures | Yes | Only as specified in § 63.9(j).
 § 63.10(a) | Recordkeeping/reporting applicability | Yes.
 § 63.10(b)(1) | General recordkeeping requirements | Yes | §§ 63.8820 and 63.8822 specify additional recordkeeping requirements.
 § 63.10(b)(2)(i)-(xi) | Records related to startup, shutdown, and malfunction periods and CMS | Yes | Only applies to new or reconstructed flame lamination affected sources.
@@ -77,7 +78,7 @@ Citation | Requirement | Applies to subpart MMMMM | Explanation
 § 63.10(e)(3) | Excess emissions/CMS performance reports | Yes | Only applies to new or reconstructed flame lamination affected sources.
 § 63.10(e)(4) | Continuous opacity monitoring system data reports | No | Subpart MMMMM does not require the use of COMS.
 § 63.10(f) | Recordkeeping/reporting waiver | Yes |
-§ 63.11. | Control device requirements—applicability | No | Facilities subject to subpart MMMMM do not use flares as control devices.
+§ 63.11 | Control device requirements—applicability | No | Facilities subject to subpart MMMMM do not use flares as control devices.
 § 63.12 | State authority and delegations | Yes | § 63.8828 lists those sections of subparts MMMMM and A that are not delegated.
 § 63.13 | Addresses | Yes. |
 § 63.14 | Incorporation by reference | Yes | Subpart MMMMM does not incorporate any material by reference.
