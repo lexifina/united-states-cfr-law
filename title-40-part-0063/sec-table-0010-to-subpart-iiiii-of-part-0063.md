@@ -18,6 +18,7 @@ Citation | Subject | Applies to Subpart IIIII | Explanation
 § 63.8(g) | Data Reduction | No | Subpart IIIII specifies mercury concentration CMS data reduction requirements.
 § 63.9(a)-(e), (g)-(j) | Notification Requirements | Yes
 § 63.9(f) | Notification of VE/Opacity Test | No | Subpart IIIII does not have opacity and visible emission standards.
+§ 63.9(k) | Electronic reporting procedures | Yes | Only as specified in § 63.9(j).
 § 63.10(a); (b)(1); (b)(2)(i)-(xii), (xiv); (b)(3); (c); (d)(1)-(2), (4)-(5); (e); (f) | Recordkeeping/Reporting | Yes
 § 63.10(b)(2)(xiii) | CMS Records for RATA Alternative | No | Subpart IIIII does not require CEMS.
 § 63.10(d)(3) | Reporting Opacity or VE Observations | No | Subpart IIIII does not have opacity and visible emission standards.
