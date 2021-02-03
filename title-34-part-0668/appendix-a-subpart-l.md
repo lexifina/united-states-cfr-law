@@ -1,0 +1,8 @@
+# Appendix A to Subpart L of Part 668—Ratio Methodology for Propriety Institutions
+ER23SE19.000
+ER23SE19.001
+ER23SE19.002
+ER23SE19.003
+ER23SE19.004
+ER23SE19.005
+ER23SE19.006
