@@ -6,7 +6,7 @@ A. Microbiological Contaminants
 1.b Total coliform (TT violations resulting from failure to perform assessments or corrective actions, monitoring violations, and reporting violations) ‡ | 2 | 141.860(b)(1) | 3 | 141.860(c)(1).
 | | | | 141.860(d)(1).
 1.c Seasonal system failure to follow State-approved start-up plan prior to serving water to the public or failure to provide certification to State ‡ | 2 | 141.860(b)(2) | 3 | 141.860(d)(3).
-2.a Fecal coliform/E. coli † | 1 | 141.63(b) | 4 1,3 | 141.21(e)
+2.a Fecal coliform/ E. coli † | 1 | 141.63(b) | 4 1,3 | 141.21(e)
 2.b E. coli (MCL, monitoring, and reporting violations) ‡ | 1 | 141.860 (a) | 3 | 141.860(c)(2)
 | | | | 141.860(d)(1).
 | | | | 141.860(d)(2).
@@ -19,7 +19,7 @@ A. Microbiological Contaminants
 8. Filter Backwash Recycling Rule violations | 2 | 141.76(c) | 3 | 141.76(b), (d)
 9. Long Term 1 Enhanced Surface Water Treatment Rule violations | 2 | 141.500-141.553 | 3 | 141.530-141.544, 141.560-141.564.
 10. LT2ESWTR violations | 2 | 141.710-141.720 | 22 2, 3 | 141.701-141.705 and 141.708-141.709.
-11. Ground Water Rule violations | 2 | 141.404 | 3 | 141.402(h),141.403(d).
+11. Ground Water Rule violations | 2 | 141.404 | 3 | 141.402(h), 141.403(d).
 B. Inorganic Chemicals (IOCs)
 1. Antimony | 2 | 141.62(b) | 3 | 141.23(a), (c)
 2. Arsenic | 2 | 8 141.62(b) | 3 | 11 141.23(a), (c)
@@ -92,10 +92,10 @@ E. Volatile Organic Chemicals (VOCs)
 20. Vinyl chloride | 2 | 141.61(a) | 3 | 141.24(f)
 21. Xylenes (total) | 2 | 141.61(a) | 3 | 141.24(f)
 F. Radioactive Contaminants
-1. Beta/photon emitters | 2 | 141.66(d) | 3 | 141.25(a)141.26(b)
-2. Alpha emitters | 2 | 141.66(c) | 3 | 141.25(a)141.26(a)
-3. Combined radium (226 and 228) | 2 | 141.66(b) | 3 | 141.25(a)141.26(a)
-4. Uranium | 9 2 | 141.66(e) | 10 3 | 141.25(a)141.26(a)
+1. Beta/photon emitters | 2 | 141.66(d) | 3 | 141.25(a) 141.26(b)
+2. Alpha emitters | 2 | 141.66(c) | 3 | 141.25(a) 141.26(a)
+3. Combined radium (226 and 228) | 2 | 141.66(b) | 3 | 141.25(a) 141.26(a)
+4. Uranium | 9 2 | 141.66(e) | 10 3 | 141.25(a) 141.26(a)
 G. Disinfection Byproducts (DBPs), Byproduct Precursors, Disinfectant Residuals. Where disinfection is used in the treatment of drinking water, disinfectants combine with organic and inorganic matter present in water to form chemicals called disinfection byproducts (DBPs). EPA sets standards for controlling the levels of disinfectants and DBPs in drinking water, including trihalomethanes (THMs) and haloacetic acids (HAAs). 13
 1. Total trihalomethanes (TTHMs) | 2 | 14 141.64(b) | 3 | 141.132(a)-(b), 141.600-141.605, 141.620-141.629
 2. Haloacetic Acids (HAA5) | 2 | 141.64(b) | 3 | 141.132(a)-(b), 141.600-141.605, 141.620-141.629
@@ -150,3 +150,13 @@ Appendix A—Endnotes
 20. Other waterborne emergencies require a Tier 1 public notice under § 141.202(a) for situations that do not meet the definition of a waterborne disease outbreak given in 40 CFR 141.2 but that still have the potential to have serious adverse effects on health as a result of short-term exposure. These could include outbreaks not related to treatment deficiencies, as well as situations that have the potential to cause outbreaks, such as failures or significant interruption in water treatment processes, natural disasters that disrupt the water supply or distribution system, chemical spills, or unexpected loading of possible pathogens into the source water.
 21. Primacy agencies may place other situations in any tier they believe appropriate, based on threat to public health.
 22. Failure to collect three or more samples for Cryptosporidium analysis is a Tier 2 violation requiring special notice as specified in § 141.211. All other monitoring and testing procedure violations are Tier 3.
+At 86 FR 4310, Jan. 15, 2021, Appendix A to Subpart Q of Pt. 141 was amended by revising the entry for "C. Lead and Copper Rule (Action Level for lead is 0.015 mg/L, for copper is 1.3 mg/L)", effective Mar. 16, 2021. At 86 FR 14002, Mar. 12, 2021, the effective date was delayed until June 17, 2021. At 86 FR 31940, June 16, 2021, the effective date was further delayed until Dec. 16, 2021. The revision is set forth to read as follows.
+Appendix A To Subpart Q of Part 141—NPDWR Violations and Other Situations Requiring Public Notice 1
+1 Violations and other situations not listed in this table (e.g., failure to prepare Consumer Confidence Reports), do not require notice, unless otherwise determined by the primacy agency. Primacy agencies may, at their option, also require a more stringent public notice tier (e.g., Tier 1 instead of Tier 2 or Tier 2 instead of Tier 3) for specific violations and situations listed in this Appendix, as authorized under § 141.202(a) and § 141.203(a).
+.
+Contaminant | MCL/MRDL/TT violations 2 | Tier of public notice required | Citation | Monitoring & testing procedure violations | Tier of public notice required | Citation
+* * * * * *
+C. Lead and Copper Rule (Action Level for lead is 0.015 mg/L, for copper is 1.3 mg/L)
+1. Lead and Copper Rule (TT) | 2 | 141.80 (except 141.80(c))-141.84, 141.85(a)-(c) and (h), and 141.93 | 3 | 141.86-141.90
+2. Exceedance of the Action Level for lead | 1 | 141.80(c)
+2. MCL—Maximum contaminant level, MRDL—Maximum residual disinfectant level, TT—Treatment technique.
