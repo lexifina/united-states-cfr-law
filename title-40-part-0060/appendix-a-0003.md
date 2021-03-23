@@ -21,14 +21,14 @@ Note: This method does not include all the specifications (e.g., equipment and s
 1.0 Scope and Application
 1.1 Analytes.
 Analyte | CAS No. | Sensitivity
-Water vapor (H2O) | 7732-18-5 | N/A
+Water vapor (H 2 O) | 7732-18-5 | N/A
 1.2 Applicability. This method is applicable for the determination of the moisture content of stack gas.
 1.3 Data Quality Objectives. Adherence to the requirements of this method will enhance the quality of the data obtained from air pollutant sampling methods.
 2.0 Summary of Method
-2.1 A gas sample is extracted at a constant rate from the source; moisture is removed from the sample stream and determined either volumetrically or gravimetrically.
+2.1 A gas sample is extracted at a constant rate from the source; moisture is removed from the sample stream and determined gravimetrically.
 2.2 The method contains two possible procedures: a reference method and an approximation method.
 2.2.1 The reference method is used for accurate determinations of moisture content (such as are needed to calculate emission data). The approximation method, provides estimates of percent moisture to aid in setting isokinetic sampling rates prior to a pollutant emission measurement run. The approximation method described herein is only a suggested approach; alternative means for approximating the moisture content (e.g., drying tubes, wet bulb-dry bulb techniques, condensation techniques, stoichiometric calculations, previous experience, etc.) are also acceptable.
-2.2.2 The reference method is often conducted simultaneously with a pollutant emission measurement run. When it is, calculation of percent isokinetic, pollutant emission rate, etc., for the run shall be based upon the results of the reference method or its equivalent. These calculations shall not be based upon the results of the approximation method, unless the approximation method is shown, to the satisfaction of the Administrator, to be capable of yielding results within one percent H2O of the reference method.
+2.2.2 The reference method is often conducted simultaneously with a pollutant emission measurement run. When it is, calculation of percent isokinetic, pollutant emission rate, etc., for the run shall be based upon the results of the reference method or its equivalent. These calculations shall not be based upon the results of the approximation method, unless the approximation method is shown, to the satisfaction of the Administrator, to be capable of yielding results within one percent H 2 O of the reference method.
 3.0 Definitions [Reserved]
 4.0 Interferences
 4.1 The moisture content of saturated gas streams or streams that contain water droplets, as measured by the reference method, may be positively biased. Therefore, when these conditions exist or are suspected, a second determination of the moisture content shall be made simultaneously with the reference method, as follows: Assume that the gas stream is saturated. Attach a temperature sensor [capable of measuring to ±1 °C (2 °F)] to the reference method probe. Measure the stack gas temperature at each traverse point (see section 8.1.1.1) during the reference method traverse, and calculate the average stack gas temperature. Next, determine the moisture percentage, either by: (1) Using a psychrometric chart and making appropriate corrections if the stack pressure is different from that of the chart, or (2) using saturation vapor pressure tables. In cases where the psychrometric chart or the saturation vapor pressure tables are not applicable (based on evaluation of the process), alternative methods, subject to the approval of the Administrator, shall be used.
@@ -39,8 +39,8 @@ Water vapor (H2O) | 7732-18-5 | N/A
 6.1.1 Probe. Stainless steel or glass tubing, sufficiently heated to prevent water condensation, and equipped with a filter, either in-stack (e.g., a plug of glass wool inserted into the end of the probe) or heated out-of-stack (e.g., as described in Method 5), to remove particulate matter. When stack conditions permit, other metals or plastic tubing may be used for the probe, subject to the approval of the Administrator.
 6.1.2 Condenser. Same as Method 5, section 6.1.1.8.
 6.1.3 Cooling System. An ice bath container, crushed ice, and water (or equivalent), to aid in condensing moisture.
-6.1.4 Metering System. Same as in Method 5, section 6.1.1.9, except do not use sampling systems designed for flow rates higher than 0.0283 m3/min (1.0 cfm). Other metering systems, capable of maintaining a constant sampling rate to within 10 percent and determining sample gas volume to within 2 percent, may be used, subject to the approval of the Administrator.
-6.1.5 Barometer and Graduated Cylinder and/or Balance. Same as Method 5, sections 6.1.2 and 6.2.5, respectively.
+6.1.4 Metering System. Same as in Method 5, section 6.1.1.9, except do not use sampling systems designed for flow rates higher than 0.0283 m 3 /min (1.0 cfm). Other metering systems, capable of maintaining a constant sampling rate to within 10 percent and determining sample gas volume to within 2 percent, may be used, subject to the approval of the Administrator.
+6.1.5 Barometer and Balance. Same as Method 5, sections 6.1.2 and 6.2.5, respectively.
 6.2. Approximation Method. A schematic of the sampling train used in this approximation method is shown in Figure 4-2.
 6.2.1 Probe. Same as section 6.1.1.
 6.2.2 Condenser. Two midget impingers, each with 30-ml capacity, or equivalent.
@@ -58,26 +58,33 @@ Water vapor (H2O) | 7732-18-5 | N/A
 8.1 Reference Method. The following procedure is intended for a condenser system (such as the impinger system described in section 6.1.1.8 of Method 5) incorporating volumetric analysis to measure the condensed moisture, and silica gel and gravimetric analysis to measure the moisture leaving the condenser.
 8.1.1 Preliminary Determinations.
 8.1.1.1 Unless otherwise specified by the Administrator, a minimum of eight traverse points shall be used for circular stacks having diameters less than 0.61 m (24 in.), a minimum of nine points shall be used for rectangular stacks having equivalent diameters less than 0.61 m (24 in.), and a minimum of twelve traverse points shall be used in all other cases. The traverse points shall be located according to Method 1. The use of fewer points is subject to the approval of the Administrator. Select a suitable probe and probe length such that all traverse points can be sampled. Consider sampling from opposite sides of the stack (four total sampling ports) for large stacks, to permit use of shorter probe lengths. Mark the probe with heat resistant tape or by some other method to denote the proper distance into the stack or duct for each sampling point.
-8.1.1.2 Select a total sampling time such that a minimum total gas volume of 0.60 scm (21 scf) will be collected, at a rate no greater than 0.021 m3/min (0.75 cfm). When both moisture content and pollutant emission rate are to be determined, the moisture determination shall be simultaneous with, and for the same total length of time as, the pollutant emission rate run, unless otherwise specified in an applicable subpart of the standards.
+8.1.1.2 Select a total sampling time such that a minimum total gas volume of 0.60 scm (21 scf) will be collected, at a rate no greater than 0.021 m 3 /min (0.75 cfm). When both moisture content and pollutant emission rate are to be determined, the moisture determination shall be simultaneous with, and for the same total length of time as, the pollutant emission rate run, unless otherwise specified in an applicable subpart of the standards.
 8.1.2 Preparation of Sampling Train.
-8.1.2.1 Place known volumes of water in the first two impingers; alternatively, transfer water into the first two impingers and record the weight of each impinger (plus water) to the nearest 0.5 g. Weigh and record the weight of the silica gel to the nearest 0.5 g, and transfer the silica gel to the fourth impinger; alternatively, the silica gel may first be transferred to the impinger, and the weight of the silica gel plus impinger recorded.
+8.1.2.1 Transfer water into the first two impingers, leave the third impinger empty and add silica gel to the fourth impinger. Weigh the impingers before sampling and record the weight to the nearest 0.5g at a minimum.
 8.1.2.2 Set up the sampling train as shown in Figure 4-1. Turn on the probe heater and (if applicable) the filter heating system to temperatures of approximately 120 °C (248 °F), to prevent water condensation ahead of the condenser. Allow time for the temperatures to stabilize. Place crushed ice and water in the ice bath container.
-8.1.3 Leak Check Procedures. It is recommended, but not required, that the volume metering system and sampling train be leak-checked as follows:
-8.1.3.1 Metering System. Same as Method 5, section 8.4.1.
-8.1.3.2 Sampling Train. Disconnect the probe from the first impinger or (if applicable) from the filter holder. Plug the inlet to the first impinger (or filter holder), and pull a 380 mm (15 in.) Hg vacuum. A lower vacuum may be used, provided that it is not exceeded during the test. A leakage rate in excess of 4 percent of the average sampling rate or 0.00057 m3/min (0.020 cfm), whichever is less, is unacceptable. Following the leak check, reconnect the probe to the sampling train.
+8.1.3 Leak-Check Procedures.
+8.1.3.1 Leak Check of Metering System Shown in Figure 4-1. That portion of the sampling train from the pump to the orifice meter should be leak-checked prior to initial use and after each shipment. Leakage after the pump will result in less volume being recorded than is actually sampled. The following procedure is suggested (see Figure 5-2 of Method 5): Close the main valve on the meter box. Insert a one-hole rubber stopper with rubber tubing attached into the orifice exhaust pipe. Disconnect and vent the low side of the orifice manometer. Close off the low side orifice tap. Pressurize the system to 13 to 18 cm (5 to 7 in.) water column by blowing into the rubber tubing. Pinch off the tubing and observe the manometer for one minute. A loss of pressure on the manometer indicates a leak in the meter box; leaks, if present, must be corrected.
+8.1.3.2 Pretest Leak Check. A pretest leak check of the sampling train is recommended, but not required. If the pretest leak check is conducted, the following procedure should be used.
+8.1.3.2.1 After the sampling train has been assembled, turn on and set the filter and probe heating systems to the desired operating temperatures. Allow time for the temperatures to stabilize.
+8.1.3.2.2 Leak-check the train by first plugging the inlet to the filter holder and pulling a 380 mm (15 in.) Hg vacuum. Then connect the probe to the train, and leak-check at approximately 25 mm (1 in.) Hg vacuum; alternatively, the probe may be leak-checked with the rest of the sampling train, in one step, at 380 mm (15 in.) Hg vacuum. Leakage rates in excess of 4 percent of the average sampling rate or 0.00057 m 3 /min (0.020 cfm), whichever is less, are unacceptable.
+8.1.3.2.3 Start the pump with the bypass valve fully open and the coarse adjust valve completely closed. Partially open the coarse adjust valve, and slowly close the bypass valve until the desired vacuum is reached. Do not reverse the direction of the bypass valve, as this will cause water to back up into the filter holder. If the desired vacuum is exceeded, either leak-check at this higher vacuum, or end the leak check and start over.
+8.1.3.2.4 When the leak check is completed, first slowly remove the plug from the inlet to the probe, filter holder, and immediately turn off the vacuum pump. This prevents the water in the impingers from being forced backward into the filter holder and the silica gel from being entrained backward into the third impinger.
+8.1.3.3 Leak Checks During Sample Run. If, during the sampling run, a component (e.g., filter assembly or impinger) change becomes necessary, a leak check shall be conducted immediately before the change is made. The leak check shall be done according to the procedure outlined in section 8.1.3.2, except that it shall be done at a vacuum equal to or greater than the maximum value recorded up to that point in the test. If the leakage rate is found to be no greater than 0.00057 m 3 /min (0.020 cfm) or 4 percent of the average sampling rate (whichever is less), the results are acceptable, and no correction will need to be applied to the total volume of dry gas metered; if, however, a higher leakage rate is obtained, either record the leakage rate and plan to correct the sample volume as shown in section 12.3 of Method 5, or void the sample run.
+Note: Immediately after component changes, leak checks are optional. If such leak checks are done, the procedure outlined in section 8.1.3.2 should be used.
+8.1.3.4 Post-Test Leak Check. A leak check of the sampling train is mandatory at the conclusion of each sampling run. The leak check shall be performed in accordance with the procedures outlined in section 8.1.3.2, except that it shall be conducted at a vacuum equal to or greater than the maximum value reached during the sampling run. If the leakage rate is found to be no greater than 0.00057 m 3 min (0.020 cfm) or 4 percent of the average sampling rate (whichever is less), the results are acceptable, and no correction need be applied to the total volume of dry gas metered. If, however, a higher leakage rate is obtained, either record the leakage rate and correct the sample volume as shown in section 12.3 of Method 5 or void the sampling run.
 8.1.4 Sampling Train Operation. During the sampling run, maintain a sampling rate within 10 percent of constant rate, or as specified by the Administrator. For each run, record the data required on a data sheet similar to that shown in Figure 4-3. Be sure to record the dry gas meter reading at the beginning and end of each sampling time increment and whenever sampling is halted. Take other appropriate readings at each sample point at least once during each time increment.
 Note: When Method 4 is used concurrently with an isokinetic method (e.g., Method 5) the sampling rate should be maintained at isokinetic conditions rather than 10 percent of constant rate.
 8.1.4.1 To begin sampling, position the probe tip at the first traverse point. Immediately start the pump, and adjust the flow to the desired rate. Traverse the cross section, sampling at each traverse point for an equal length of time. Add more ice and, if necessary, salt to maintain a temperature of less than 20 °C (68 °F) at the silica gel outlet.
-8.1.4.2 After collecting the sample, disconnect the probe from the first impinger (or from the filter holder), and conduct a leak check (mandatory) of the sampling train as described in section 8.1.3.2. Record the leak rate. If the leakage rate exceeds the allowable rate, either reject the test results or correct the sample volume as in section 12.3 of Method 5.
+8.1.4.2 At the end of the sample run, close the coarse adjust valve, remove the probe and nozzle from the stack, turn off the pump, record the final DGM meter reading, and conduct a post-test leak check, as outlined in section 8.1.3.4.
 8.2 Approximation Method.
 Note: The approximation method described below is presented only as a suggested method (see section 2.0).
 8.2.1 Place exactly 5 ml water in each impinger. Leak check the sampling train as follows: Temporarily insert a vacuum gauge at or near the probe inlet. Then, plug the probe inlet and pull a vacuum of at least 250 mm (10 in.) Hg. Note the time rate of change of the dry gas meter dial; alternatively, a rotameter (0 to 40 ml/min) may be temporarily attached to the dry gas meter outlet to determine the leakage rate. A leak rate not in excess of 2 percent of the average sampling rate is acceptable.
 Note: Release the probe inlet plug slowly before turning off the pump.
-8.2.2 Connect the probe, insert it into the stack, and sample at a constant rate of 2 liters/min (0.071 cfm). Continue sampling until the dry gas meter registers about 30 liters (1.1 ft3) or until visible liquid droplets are carried over from the first impinger to the second. Record temperature, pressure, and dry gas meter readings as indicated by Figure 4-4.
+8.2.2 Connect the probe, insert it into the stack, and sample at a constant rate of 2 liters/min (0.071 cfm). Continue sampling until the dry gas meter registers about 30 liters (1.1 ft 3) or until visible liquid droplets are carried over from the first impinger to the second. Record temperature, pressure, and dry gas meter readings as indicated by Figure 4-4.
 9.0 Quality Control
 9.1 Miscellaneous Quality Control Measures.
 Section | Quality control measure | Effect
-Section 8.1.1.4 | Leak rate of the sampling system cannot exceed four percent of the average sampling rate or 0.00057 m3/min (0.020 cfm) | Ensures the accuracy of the volume of gas sampled. (Reference Method).
+Section 8.1.3.2.2 | Leak rate of the sampling system cannot exceed four percent of the average sampling rate or 0.00057 m 3 /min (0.020 cfm) | Ensures the accuracy of the volume of gas sampled. (Reference Method).
 Section 8.2.1 | Leak rate of the sampling system cannot exceed two percent of the average sampling rate | Ensures the accuracy of the volume of gas sampled. (Approximation Method).
 9.2 Volume Metering System Checks. Same as Method 5, section 9.2.
 10.0 Calibration and Standardization
@@ -86,96 +93,90 @@ Note: Maintain a laboratory log of all calibrations.
 10.2 Approximation Method. Calibrate the metering system and the barometer according to Method 6, section 10.1 and Method 5, section 10.6, respectively.
 10.3 Field Balance Calibration Check. Check the calibration of the balance used to weigh impingers with a weight that is at least 500g or within 50g of a loaded impinger. The weight must be ASTM E617-13 "Standard Specification for Laboratory Weights and Precision Mass Standards" (incorporated by reference-see 40 CFR 60.17) Class 6 (or better). Daily, before use, the field balance must measure the weight within ± 0.5g of the certified mass. If the daily balance calibration check fails, perform corrective measures and repeat the check before using balance.
 11.0 Analytical Procedure
-11.1 Reference Method. Measure the volume of the moisture condensed in each of the impingers to the nearest ml. Alternatively, if the impingers were weighed prior to sampling, weigh the impingers after sampling and record the difference in weight to the nearest 0.5 g. Determine the increase in weight of the silica gel (or silica gel plus impinger) to the nearest 0.5 g. Record this information (see example data sheet, Figure 4-5), and calculate the moisture content, as described in section 12.0.
-11.2 Approximation Method. Combine the contents of the two impingers, and measure the volume to the nearest 0.5 ml.
+11.1 Reference Method. Weigh the impingers after sampling and record the difference in weight to the nearest 0.5 g at a minimum. Determine the increase in weight of the silica gel (or silica gel plus impinger) to the nearest 0.5 g at a minimum. Record this information (see example data sheet, Figure 4-5), and calculate the moisture content, as described in section 12.0.
+11.2 Approximation Method. Weigh the contents of the two impingers, and measure the weight to the nearest 0.5 g.
 12.0 Data Analysis and Calculations
 Carry out the following calculations, retaining at least one extra significant figure beyond that of the acquired data. Round off figures after final calculation.
 12.1 Reference Method.
 12.1.1 Nomenclature.
-Bws = Proportion of water vapor, by volume, in the gas stream.
-Mw = Molecular weight of water, 18.0 g/g-mole (18.0 lb/lb-mole).
-Pm = Absolute pressure (for this method, same as barometric pressure) at the dry gas meter, mm Hg (in. Hg).
-Pstd = Standard absolute pressure, 760 mm Hg (29.92 in. Hg).
-R = Ideal gas constant, 0.06236 (mm Hg)(m3)/(g-mole)(°K) for metric units and 21.85 (in. Hg)(ft3)/(lb-mole)(°R) for English units.
-Tm = Absolute temperature at meter, °K (°R).
-Tstd = Standard absolute temperature, 293 °K (528 °R).
-Vf = Final volume of condenser water, ml.
-Vi = Initial volume, if any, of condenser water, ml.
-Vm = Dry gas volume measured by dry gas meter, dcm (dcf).
-Vm(std) = Dry gas volume measured by the dry gas meter, corrected to standard conditions, dscm (dscf).
-Vwc(std) = Volume of water vapor condensed, corrected to standard conditions, scm (scf).
-Vwsg(std) = Volume of water vapor collected in silica gel, corrected to standard conditions, scm (scf).
-Wf = Final weight of silica gel or silica gel plus impinger, g.
-Wi = Initial weight of silica gel or silica gel plus impinger, g.
+B ws = Proportion of water vapor, by volume, in the gas stream.
+M w = Molecular weight of water, 18.015 g/g-mole (18.015 lb/lb-mole).
+P m = Absolute pressure (for this method, same as barometric pressure) at the dry gas meter, mm Hg (in. Hg).
+P std = Standard absolute pressure, 760 mm Hg (29.92 in. Hg).
+R = Ideal gas constant, 0.06236 (mm Hg)(m 3)/(g-mole)(°K) for metric units and 21.85 (in. Hg)(ft 3)/(lb-mole) (°R) for English units.
+T m = Absolute temperature at meter, °K (°R).
+T std = Standard absolute temperature, 293.15 °K (527.67 °R).
+V f = Final weight of condenser water plus impinger, g.
+V i = Initial weight, if any, of condenser water plus impinger, g.
+V m = Dry gas volume measured by dry gas meter, dcm (dcf).
+V m(std) = Dry gas volume measured by the dry gas meter, corrected to standard conditions, dscm (dscf).
+V wc(std) = Volume of water vapor condensed, corrected to standard conditions, scm (scf).
+V wsg(std) = Volume of water vapor collected in silica gel, corrected to standard conditions, scm (scf).
+W f = Final weight of silica gel or silica gel plus impinger, g.
+W i = Initial weight of silica gel or silica gel plus impinger, g.
 Y = Dry gas meter calibration factor.
-ΔVm = Incremental dry gas volume measured by dry gas meter at each traverse point, dcm (dcf).
-ρw = Density of water, 0.9982 g/ml (0.002201 lb/ml).
+ΔV m = Incremental dry gas volume measured by dry gas meter at each traverse point, dcm (dcf).
 12.1.2 Volume of Water Vapor Condensed.
-ER17OC00.098
+ER07OC20.004
 Where:
-K1 = 0.001333 m3/ml for metric units,
-= 0.04706 ft3/ml for English units.
+K 1 = 0.001335 m 3 /g for metric units,
+= 0.04716 ft 3 /g for English units.
 12.1.3 Volume of Water Collected in Silica Gel.
-ER17OC00.099
+ER23MR21.004
 Where:
-K2 = 1.0 g/g for metric units,
-= 453.6 g/lb for English units.
-K3 = 0.001335 m3/g for metric units,
-= 0.04715 ft3/g for English units.
+K 3 = 0.001335 m 3 /g for metric units = 0.04716 ft 3 /g for English units.
 12.1.4 Sample Gas Volume.
 ER17OC00.100
 Where:
-K4 = 0.3855 °K/mm Hg for metric units,
+K 4 = 0.3855 °K/mm Hg for metric units,
 = 17.64 °R/in. Hg for English units.
 Note: If the post-test leak rate (Section 8.1.4.2) exceeds the allowable rate, correct the value of Vm in Equation 4-3, as described in section 12.3 of Method 5.
 12.1.5 Moisture Content.
 ER17OC00.101
-12.1.6 Verification of Constant Sampling Rate. For each time increment, determine the ΔVm. Calculate the average. If the value for any time increment differs from the average by more than 10 percent, reject the results, and repeat the run.
-12.1.7 In saturated or moisture droplet-laden gas streams, two calculations of the moisture content of the stack gas shall be made, one using a value based upon the saturated conditions (see section 4.1), and another based upon the results of the impinger analysis. The lower of these two values of Bws shall be considered correct.
+12.1.6 Verification of Constant Sampling Rate. For each time increment, determine the ΔV m. Calculate the average. If the value for any time increment differs from the average by more than 10 percent, reject the results, and repeat the run.
+12.1.7 In saturated or moisture droplet-laden gas streams, two calculations of the moisture content of the stack gas shall be made, one using a value based upon the saturated conditions (see section 4.1), and another based upon the results of the impinger analysis. The lower of these two values of B ws shall be considered correct.
 12.2 Approximation Method. The approximation method presented is designed to estimate the moisture in the stack gas; therefore, other data, which are only necessary for accurate moisture determinations, are not collected. The following equations adequately estimate the moisture content for the purpose of determining isokinetic sampling rate settings.
 12.2.1 Nomenclature.
-Bwm = Approximate proportion by volume of water vapor in the gas stream leaving the second impinger, 0.025.
-Bws = Water vapor in the gas stream, proportion by volume.
-Mw = Molecular weight of water, 18.0 g/g-mole (18.0 lb/lb-mole).
-Pm = Absolute pressure (for this method, same as barometric pressure) at the dry gas meter, mm Hg (in. Hg).
-Pstd = Standard absolute pressure, 760 mm Hg (29.92 in. Hg).
-R = Ideal gas constant, 0.06236 [(mm Hg)(m3)]/[(g-mole)(K)] for metric units and 21.85 [(in. Hg)(ft3)]/[(lb-mole)(°R)] for English units.
-Tm = Absolute temperature at meter, °K (°R).
-Tstd = Standard absolute temperature, 293 °K (528 °R).
-Vf = Final volume of impinger contents, ml.
-Vi = Initial volume of impinger contents, ml.
-Vm = Dry gas volume measured by dry gas meter, dcm (dcf).
-Vm(std) = Dry gas volume measured by dry gas meter, corrected to standard conditions, dscm (dscf).
-Vwc(std) = Volume of water vapor condensed, corrected to standard conditions, scm (scf).
+B wm = Approximate proportion by volume of water vapor in the gas stream leaving the second impinger, 0.025.
+B ws = Water vapor in the gas stream, proportion by volume.
+M w = Molecular weight of water, 18.015 g/g-mole (18.015 lb/lb-mole).
+P m = Absolute pressure (for this method, same as barometric pressure) at the dry gas meter, mm Hg (in. Hg).
+P std = Standard absolute pressure, 760 mm Hg (29.92 in. Hg).
+R = Ideal gas constant, 0.06236 [(mm Hg)(m 3)]/[(g-mole)(K)] for metric units and 21.85 [(in. Hg)(ft 3)]/[(lb-mole)(°R)] for English units.
+T m = Absolute temperature at meter, °K (°R).
+T std = Standard absolute temperature, 293.15 °K (527.67 °R).
+V f = Final weight of condenser water plus impinger, g.
+V i = Initial weight, if any, of condenser water plus impinger, g.
+V m = Dry gas volume measured by dry gas meter, dcm (dcf).
+V m(std) = Dry gas volume measured by dry gas meter, corrected to standard conditions, dscm (dscf).
+V wc(std) = Volume of water vapor condensed, corrected to standard conditions, scm (scf).
 Y = Dry gas meter calibration factor.
-ρw = Density of water, 0.09982 g/ml (0.002201 lb/ml).
 12.2.2 Volume of Water Vapor Collected.
-ER17OC00.102
-Where:
-K5 = 0.001333 m3/ml for metric units,
-= 0.04706 ft3/ml for English units.
+ER07OC20.005
+K 5 = 0.001335 m 3 /g for metric units,
+= 0.04716 ft 3 /g for English units.
 12.2.3 Sample Gas Volume.
 ER17OC00.103
 Where:
-K6 = 0.3855 °K/mm Hg for metric units,
+K 6 = 0.3855 °K/mm Hg for metric units,
 = 17.64 °R/in. Hg for English units.
 12.2.4 Approximate Moisture Content.
 ER17OC00.104
-12.2.5 Using F-factors to determine approximate moisture for estimating moisture content where no wet scrubber is being used, for the purpose of determining isokinetic sampling rate settings with no fuel sample, is acceptable using the average Fc or Fd factor from Method 19 (see Method 19, section 12.3.1). If this option is selected, calculate the approximate moisture as follows:
-B ws = B H + B A+ B F
+12.2.5 Using F-factors to determine approximate moisture for estimating moisture content where no wet scrubber is being used, for the purpose of determining isokinetic sampling rate settings with no fuel sample, is acceptable using the average F c or F d factor from Method 19 (see Method 19, section 12.3.1). If this option is selected, calculate the approximate moisture as follows:
+B ws = B H + B A + B F
 Where:
-BA = Mole Fraction of moisture in the ambient air.
+B A = Mole Fraction of moisture in the ambient air.
 ER30AU16.004
-Bws = Mole fraction of moisture in the stack gas.
-Fd = Volume of dry combustion components per unit of heat content at 0 percent oxygen, dscf/106.
+B ws = Mole fraction of moisture in the stack gas.
+F d = Volume of dry combustion components per unit of heat content at 0 percent oxygen, dscf/10 6.
 Btu (scm/J). See Table 19-2 in Method 19.
-Fw = Volume of wet combustion components per unit of heat content at 0 percent oxygen, wet.
-scf/106 Btu (scm/J). See Table 19-2 in Method 19.
+F w = Volume of wet combustion components per unit of heat content at 0 percent oxygen, wet.
+scf/10 6 Btu (scm/J). See Table 19-2 in Method 19.
 %RH = Percent relative humidity (calibrated hygrometer acceptable), percent.
-PBar = Barometric pressure, in. Hg.
+P Bar = Barometric pressure, in. Hg.
 T = Ambient temperature, °F.
 W = Percent free water by weight, percent.
-O2 = Percent oxygen in stack gas, dry basis, percent.
+O 2 = Percent oxygen in stack gas, dry basis, percent.
 13.0 Method Performance [Reserved]
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
@@ -183,25 +184,25 @@ O2 = Percent oxygen in stack gas, dry basis, percent.
 16.1 The procedure described in Method 5 for determining moisture content is an acceptable alternative to Method 4.
 16.2 The procedures in Method 6A for determining moisture is an acceptable alternative to Method 4.
 16.3 Method 320 is an acceptable alternative to Method 4 for determining moisture.
-16.4 Using F-factors to determine moisture is an acceptable alternative to Method 4 for a combustion stack not using a scrubber, and where a fuel sample is taken during the test run and analyzed for development of an Fd factor (see Method 19, section 12.3.2), and where stack O2 content is measured by Method 3A or 3B during each test run. If this option is selected, calculate the moisture content as follows:
+16.4 Using F-factors to determine moisture is an acceptable alternative to Method 4 for a combustion stack not using a scrubber, and where a fuel sample is taken during the test run and analyzed for development of an F d factor (see Method 19, section 12.3.2), and where stack O 2 content is measured by Method 3A or 3B during each test run. If this option is selected, calculate the moisture content as follows:
 B ws = B H + B A + B F
 Where:
-BA = Mole fraction of moisture in the ambient air.
+B A = Mole fraction of moisture in the ambient air.
 ER30AU16.005
-Note: Values of BA should be between 0.00 and 0.06 with common values being about 0.015.
-BF = Mole fraction of moisture from free water in the fuel.
+Note: Values of B A should be between 0.00 and 0.06 with common values being about 0.015.
+B F = Mole fraction of moisture from free water in the fuel.
 ER30AU16.006
 Note: Free water in fuel is minimal for distillate oil and gases, such as propane and natural gas, so this step may be omitted for those fuels.
-BH = Mole fraction of moisture from the hydrogen in the fuel.
+B H = Mole fraction of moisture from the hydrogen in the fuel.
 ER30AU16.007
-Bws = Mole fraction of moisture in the stack gas.
-Fd = Volume of dry combustion components per unit of heat content at 0 percent oxygen, dscf/106 Btu (scm/J). Develop a test specific Fd value using an integrated fuel sample from each test run and Equation 19-13 in section 12.3.2 of Method 19.
-Fw = Volume of wet combustion components per unit of heat content at 0 percent oxygen, wet scf/106 Btu (scm/J). Develop a test specific Fw value using an integrated fuel sample from each test run and Equation 19-14 in section 12.3.2 of Method 19.
+B ws = Mole fraction of moisture in the stack gas.
+F d = Volume of dry combustion components per unit of heat content at 0 percent oxygen, dscf/10 6 Btu (scm/J). Develop a test specific F d value using an integrated fuel sample from each test run and Equation 19-13 in section 12.3.2 of Method 19.
+F w = Volume of wet combustion components per unit of heat content at 0 percent oxygen, wet scf/10 6 Btu (scm/J). Develop a test specific F w value using an integrated fuel sample from each test run and Equation 19-14 in section 12.3.2 of Method 19.
 %RH = Percent relative humidity (calibrated hygrometer acceptable), percent.
-PBar = Barometric pressure, in. Hg.
+P Bar = Barometric pressure, in. Hg.
 T = Ambient temperature, °F.
 W = Percent free water by weight, percent.
-O2 = Percent oxygen in stack gas, dry basis, percent.
+O 2 = Percent oxygen in stack gas, dry basis, percent.
 17.0 References
 1. Air Pollution Engineering Manual (Second Edition). Danielson, J.A. (ed.). U.S. Environmental Protection Agency, Office of Air Quality Planning and Standards. Research Triangle Park, NC. Publication No. AP-40. 1973.
 2. Devorkin, Howard, et al. Air Pollution Source Testing Manual. Air Pollution Control District, Los Angeles, CA. November 1963.
@@ -218,7 +219,7 @@ Ambient temperature
 Barometric pressure
 Probe Length
 Schematic of Stack Cross section
-Traverse Pt. No. | Sampling time(Δ), min | Stacktemperature °C (°F) | Pressuredifferential across orifice meter ΔH mm (in.) H2O | Meterreading gas sample volume m3 (ft3) | ΔVm m3 (ft3) | Gas sampletemperature at dry gas meter | InletTmin °C (°F) | OutletTmout °C (°F) | Temperatureof gas leaving condenser or last impinger °C (°F)
+Traverse Pt. No. | Sampling time (Δ), min | Stack temperature °C (°F) | Pressure differential across orifice meter ΔH mm (in.) H 2 O | Meter reading gas sample volume m 3 (ft 3) | ΔV m m 3 (ft 3) | Gas sample temperature at dry gas meter | Inlet Tm in °C (°F) | Outlet Tm out °C (°F) | Temperature of gas leaving condenser or last impinger °C (°F)
 Average |
 Location
 Test
@@ -227,13 +228,8 @@ Operator
 Barometric pressure
 Comments:
 Figure 4-3. Moisture Determination—Reference Method
-Clock time | Gas Volume through meter, (Vm), m3 (ft3) | Rate meter setting m3/min (ft3/min) | Meter temperature °C (°F)
-Figure 4-4. Example Moisture Determination Field Data Sheet—Approximation Method
-| Impinger volume, ml | Silica gel weight, g
-Final
-Initial
-Difference
-Figure 4-5. Analytical Data—Reference Method
+ER07OC20.006
+ER07OC20.022
 Method 5—Determination of Particulate Matter Emissions From Stationary Sources
 Note: This method does not include all of the specifications (e.g., equipment and supplies) and procedures (e.g., sampling and analytical) essential to its performance. Some material is incorporated by reference from other methods in this part. Therefore, to obtain reliable results, persons using this method should have a thorough knowledge of at least the following additional test methods: Method 1, Method 2, Method 3.
 1.0 Scope and Application
@@ -257,7 +253,7 @@ Note: The operating and maintenance procedures for the sampling train are descri
 6.1.1.5 Filter Holder. Borosilicate glass, with a glass or Teflon frit filter support and a silicone rubber gasket. Other materials of construction (e.g., stainless steel or Viton) may be used, subject to the approval of the Administrator. The holder design shall provide a positive seal against leakage from the outside or around the filter. The holder shall be attached immediately at the outlet of the probe (or cyclone, if used).
 6.1.1.6 Filter Heating System. Any heating system capable of monitoring and maintaining temperature around the filter shall be used to ensure the sample gas temperature exiting the filter of 120 ±14 °C (248 ±25 °F) during sampling or such other temperature as specified by an applicable subpart of the standards or approved by the Administrator for a particular application. The monitoring and regulation of the temperature around the filter may be done with the filter temperature sensor or another temperature sensor.
 6.1.1.7 Filter Temperature Sensor. A temperature sensor capable of measuring temperature to within ±3 °C (5.4 °F) shall be installed so that the sensing tip of the temperature sensor is in direct contact with the sample gas exiting the filter. The sensing tip of the sensor may be encased in glass, Teflon, or metal and must protrude at least 1/2 in. into the sample gas exiting the filter. The filter temperature sensor must be monitored and recorded during sampling to ensure a sample gas temperature exiting the filter of 120 ±14 °C (248 ±25 °F), or such other temperature as specified by an applicable subpart of the standards or approved by the Administrator for a particular application.
-6.1.1.8 Condenser. The following system shall be used to determine the stack gas moisture content: Four impingers connected in series with leak-free ground glass fittings or any similar leak-free noncontaminating fittings. The first, third, and fourth impingers shall be of the Greenburg-Smith design, modified by replacing the tip with a 1.3 cm (1/2 in.) ID glass tube extending to about 1.3 cm (1/2 in.) from the bottom of the flask. The second impinger shall be of the Greenburg-Smith design with the standard tip. Modifications (e.g., using flexible connections between the impingers, using materials other than glass, or using flexible vacuum lines to connect the filter holder to the condenser) may be used, subject to the approval of the Administrator. The first and second impingers shall contain known quantities of water (Section 8.3.1), the third shall be empty, and the fourth shall contain a known weight of silica gel, or equivalent desiccant. A temperature sensor, capable of measuring temperature to within 1 °C (2 °F) shall be placed at the outlet of the fourth impinger for monitoring purposes. Alternatively, any system that cools the sample gas stream and allows measurement of the water condensed and moisture leaving the condenser, each to within 1 ml or 1 g may be used, subject to the approval of the Administrator. An acceptable technique involves the measurement of condensed water either gravimetrically or volumetrically and the determination of the moisture leaving the condenser by: (1) monitoring the temperature and pressure at the exit of the condenser and using Dalton's law of partial pressures; or (2) passing the sample gas stream through a tared silica gel (or equivalent desiccant) trap with exit gases kept below 20 °C (68 °F) and determining the weight gain. If means other than silica gel are used to determine the amount of moisture leaving the condenser, it is recommended that silica gel (or equivalent) still be used between the condenser system and pump to prevent moisture condensation in the pump and metering devices and to avoid the need to make corrections for moisture in the metered volume.
+6.1.1.8 Condenser. The following system shall be used to determine the stack gas moisture content: Four impingers connected in series with leak-free ground glass fittings or any similar leak-free noncontaminating fittings. The first, third, and fourth impingers shall be of the Greenburg-Smith design, modified by replacing the tip with a 1.3 cm (1/2 in.) ID glass tube extending to about 1.3 cm (1/2 in.) from the bottom of the flask. The second impinger shall be of the Greenburg-Smith design with the standard tip. Modifications (e.g., using flexible connections between the impingers, using materials other than glass, or using flexible vacuum lines to connect the filter holder to the condenser) may be used, subject to the approval of the Administrator. The first and second impingers shall contain known quantities of water (Section 8.3.1), the third shall be empty, and the fourth shall contain a known weight of silica gel, or equivalent desiccant. A temperature sensor, capable of measuring temperature to within 1 °C (2 °F) shall be placed at the outlet of the fourth impinger for monitoring purposes. Alternatively, any system that cools the sample gas stream and allows measurement of the water condensed and moisture leaving the condenser, each to within 0.5 g may be used, subject to the approval of the Administrator. An acceptable technique involves the measurement of condensed water either gravimetrically and the determination of the moisture leaving the condenser by: (1) Monitoring the temperature and pressure at the exit of the condenser and using Dalton's law of partial pressures; or (2) passing the sample gas stream through a tared silica gel (or equivalent desiccant) trap with exit gases kept below 20 °C (68 °F) and determining the weight gain. If means other than silica gel are used to determine the amount of moisture leaving the condenser, it is recommended that silica gel (or equivalent) still be used between the condenser system and pump to prevent moisture condensation in the pump and metering devices and to avoid the need to make corrections for moisture in the metered volume.
 Note: If a determination of the PM collected in the impingers is desired in addition to moisture content, the impinger system described above shall be used, without modification. Individual States or control agencies requiring this information shall be contacted as to the sample recovery and analysis of the impinger contents.
 6.1.1.9 Metering System. Vacuum gauge, leak-free pump, calibrated temperature sensors, dry gas meter (DGM) capable of measuring volume to within 2 percent, and related equipment, as shown in Figure 5-1. Other metering systems capable of maintaining sampling rates within 10 percent of isokinetic and of determining sample volumes to within 2 percent may be used, subject to the approval of the Administrator. When the metering system is used in conjunction with a pitot tube, the system shall allow periodic checks of isokinetic rates. The average DGM temperature for use in the calculations of section 12.0 may be obtained by averaging the two temperature sensors located at the inlet and outlet of the DGM as shown in Figure 5-3 or alternatively from a single temperature sensor located at the immediate outlet of the DGM or the plenum of the DGM.
 6.1.1.10 Sampling trains utilizing metering systems designed for higher flow rates than that described in APTD-0581 or APTD-0576 may be used provided that the specifications of this method are met.
@@ -267,9 +263,9 @@ Note: The barometric pressure reading may be obtained from a nearby National Wea
 6.2 Sample Recovery. The following items are required for sample recovery:
 6.2.1 Probe-Liner and Probe-Nozzle Brushes. Nylon bristle brushes with stainless steel wire handles. The probe brush shall have extensions (at least as long as the probe) constructed of stainless steel, Nylon, Teflon, or similarly inert material. The brushes shall be properly sized and shaped to brush out the probe liner and nozzle.
 6.2.2 Wash Bottles. Two Glass wash bottles are recommended. Alternatively, polyethylene wash bottles may be used. It is recommended that acetone not be stored in polyethylene bottles for longer than a month.
-6.2.3 Glass Sample Storage Containers. Chemically resistant, borosilicate glass bottles, for acetone washes, 500 ml or 1000 ml. Screw cap liners shall either be rubber-backed Teflon or shall be constructed so as to be leak-free and resistant to chemical attack by acetone. (Narrow mouth glass bottles have been found to be less prone to leakage.) Alternatively, polyethylene bottles may be used.
-6.2.4 Petri Dishes. For filter samples; glass or polyethylene, unless otherwise specified by the Administrator.
-6.2.5 Graduated Cylinder and/or Balance. To measure condensed water to within 1 ml or 0.5 g. Graduated cylinders shall have subdivisions no greater than 2 ml.
+6.2.3 Glass Sample Storage Containers. Chemically resistant, borosilicate glass bottles, for acetone washes, 500 ml or 1000 ml. Screw cap liners shall either be rubber- backed Teflon or shall be constructed so as to be leak-free and resistant to chemical attack by acetone. (Narrow mouth glass bottles have been found to be less prone to leakage.) Alternatively, polyethylene bottles may be used.
+6.2.4 Petri dishes. For filter samples; glass, polystyrene, or polyethylene, unless otherwise specified by the Administrator.
+6.2.5 Balance. To measure condensed water to within 0.5 g at a minimum.
 6.2.6 Plastic Storage Containers. Air-tight containers to store silica gel.
 6.2.7 Funnel and Rubber Policeman. To aid in transfer of silica gel to container; not necessary if silica gel is weighed in the field.
 6.2.8 Funnel. Glass or polyethylene, to aid in sample recovery.
@@ -283,7 +279,7 @@ Note: The barometric pressure reading may be obtained from a nearby National Wea
 6.3.7 Temperature Sensor. To measure the temperature of the laboratory environment.
 7.0 Reagents and Standards
 7.1 Sample Collection. The following reagents are required for sample collection:
-7.1.1 Filters. Glass fiber filters, without organic binder, exhibiting at least 99.95 percent efficiency (<0.05 percent penetration) on 0.3 micron dioctyl phthalate smoke particles. The filter efficiency test shall be conducted in accordance with ASTM Method D 2986-71, 78, or 95a (incorporated by reference—see § 60.17). Test data from the supplier's quality control program are sufficient for this purpose. In sources containing SO2 or SO3, the filter material must be of a type that is unreactive to SO2 or SO3. Reference 10 in section 17.0 may be used to select the appropriate filter.
+7.1.1 Filters. Glass fiber filters, without organic binder, exhibiting at least 99.95 percent efficiency (<0.05 percent penetration) on 0.3 micron dioctyl phthalate smoke particles. The filter efficiency test shall be conducted in accordance with ASTM Method D 2986-71, 78, or 95a (incorporated by reference—see § 60.17). Test data from the supplier's quality control program are sufficient for this purpose. In sources containing SO 2 or SO 3, the filter material must be of a type that is unreactive to SO 2 or SO 3. Reference 10 in section 17.0 may be used to select the appropriate filter.
 7.1.2 Silica Gel. Indicating type, 6 to 16 mesh. If previously used, dry at 175 °C (350 °F) for 2 hours. New silica gel may be used as received. Alternatively, other types of desiccants (equivalent or better) may be used, subject to the approval of the Administrator.
 7.1.3 Water. When analysis of the material caught in the impingers is required, deionized distilled water [to conform to ASTM D1193-77 or 91 Type 3 (incorporated by reference—see § 60.17)] with at least <0.001 percent residue shall be used or as specified in the applicable method requiring analysis of the water. Run reagent blanks prior to field use to eliminate a high blank on test samples.
 7.1.4 Crushed Ice.
@@ -294,7 +290,7 @@ Note: The barometric pressure reading may be obtained from a nearby National Wea
 8.0 Sample Collection, Preservation, Storage, and Transport
 8.1 Pretest Preparation. It is suggested that sampling equipment be maintained according to the procedures described in APTD-0576. Alternative mercury-free thermometers may be used if the thermometers are at a minimum equivalent in terms of performance or suitably effective for the specific temperature measurement application.
 8.1.1 Place 200 to 300 g of silica gel in each of several air-tight containers. Weigh each container, including silica gel, to the nearest 0.5 g, and record this weight. As an alternative, the silica gel need not be preweighed, but may be weighed directly in its impinger or sampling holder just prior to train assembly.
-8.1.2 Check filters visually against light for irregularities, flaws, or pinhole leaks. Label filters of the proper diameter on the back side near the edge using numbering machine ink. As an alternative, label the shipping containers (glass or polyethylene petri dishes), and keep each filter in its identified container at all times except during sampling.
+8.1.2 Check filters visually against light for irregularities, flaws, or pinhole leaks. Label filters of the proper diameter on the back side near the edge using numbering machine ink. As an alternative, label the shipping containers (glass, polystyrene or polyethylene petri dishes), and keep each filter in its identified container at all times except during sampling.
 8.1.3 Desiccate the filters at 20 ±5.6 °C (68 ±10 °F) and ambient pressure for at least 24 hours. Weigh each filter (or filter and shipping container) at intervals of at least 6 hours to a constant weight (i.e., ≤0.5 mg change from previous weighing). Record results to the nearest 0.1 mg. During each weighing, the period for which the filter is exposed to the laboratory atmosphere shall be less than 2 minutes. Alternatively (unless otherwise specified by the Administrator), the filters may be oven dried at 105 °C (220 °F) for 2 to 3 hours, desiccated for 2 hours, and weighed. Procedures other than those described, which account for relative humidity effects, may be used, subject to the approval of the Administrator.
 8.2 Preliminary Determinations.
 8.2.1 Select the sampling site and the minimum number of sampling points according to Method 1 or as specified by the Administrator. Determine the stack pressure, temperature, and the range of velocity heads using Method 2; it is recommended that a leak check of the pitot lines (see Method 2, section 8.1) be performed. Determine the moisture content using Approximation Method 4 or its alternatives for the purpose of making isokinetic sampling rate settings. Determine the stack gas dry molecular weight, as described in Method 2, section 8.6; if integrated Method 3 sampling is used for molecular weight determination, the integrated bag sample shall be taken simultaneously with, and for the same total length of time as, the particulate sample run.
@@ -314,15 +310,15 @@ Note: The barometric pressure reading may be obtained from a nearby National Wea
 8.4.2 Pretest Leak Check. A pretest leak check of the sampling train is recommended, but not required. If the pretest leak check is conducted, the following procedure should be used.
 8.4.2.1 After the sampling train has been assembled, turn on and set the filter and probe heating systems to the desired operating temperatures. Allow time for the temperatures to stabilize. If a Viton A O-ring or other leak-free connection is used in assembling the probe nozzle to the probe liner, leak-check the train at the sampling site by plugging the nozzle and pulling a 380 mm (15 in.) Hg vacuum.
 Note: A lower vacuum may be used, provided that it is not exceeded during the test.
-8.4.2.2 If a heat-resistant string is used, do not connect the probe to the train during the leak check. Instead, leak-check the train by first plugging the inlet to the filter holder (cyclone, if applicable) and pulling a 380 mm (15 in.) Hg vacuum (see note in section 8.4.2.1). Then connect the probe to the train, and leak-check at approximately 25 mm (1 in.) Hg vacuum; alternatively, the probe may be leak-checked with the rest of the sampling train, in one step, at 380 mm (15 in.) Hg vacuum. Leakage rates in excess of 4 percent of the average sampling rate or 0.00057 m3/min (0.020 cfm), whichever is less, are unacceptable.
+8.4.2.2 If a heat-resistant string is used, do not connect the probe to the train during the leak check. Instead, leak-check the train by first plugging the inlet to the filter holder (cyclone, if applicable) and pulling a 380 mm (15 in.) Hg vacuum (see note in section 8.4.2.1). Then connect the probe to the train, and leak-check at approximately 25 mm (1 in.) Hg vacuum; alternatively, the probe may be leak-checked with the rest of the sampling train, in one step, at 380 mm (15 in.) Hg vacuum. Leakage rates in excess of 4 percent of the average sampling rate or 0.00057 m 3 /min (0.020 cfm), whichever is less, are unacceptable.
 8.4.2.3 The following leak-check instructions for the sampling train described in APTD-0576 and APTD-0581 may be helpful. Start the pump with the bypass valve fully open and the coarse adjust valve completely closed. Partially open the coarse adjust valve, and slowly close the bypass valve until the desired vacuum is reached. Do not reverse the direction of the bypass valve, as this will cause water to back up into the filter holder. If the desired vacuum is exceeded, either leak-check at this higher vacuum, or end the leak check and start over.
 8.4.2.4 When the leak check is completed, first slowly remove the plug from the inlet to the probe, filter holder, or cyclone (if applicable), and immediately turn off the vacuum pump. This prevents the water in the impingers from being forced backward into the filter holder and the silica gel from being entrained backward into the third impinger.
-8.4.3 Leak Checks During Sample Run. If, during the sampling run, a component (e.g., filter assembly or impinger) change becomes necessary, a leak check shall be conducted immediately before the change is made. The leak check shall be done according to the procedure outlined in section 8.4.2 above, except that it shall be done at a vacuum equal to or greater than the maximum value recorded up to that point in the test. If the leakage rate is found to be no greater than 0.00057 m3/min (0.020 cfm) or 4 percent of the average sampling rate (whichever is less), the results are acceptable, and no correction will need to be applied to the total volume of dry gas metered; if, however, a higher leakage rate is obtained, either record the leakage rate and plan to correct the sample volume as shown in section 12.3 of this method, or void the sample run.
+8.4.3 Leak Checks During Sample Run. If, during the sampling run, a component (e.g., filter assembly or impinger) change becomes necessary, a leak check shall be conducted immediately before the change is made. The leak check shall be done according to the procedure outlined in section 8.4.2 above, except that it shall be done at a vacuum equal to or greater than the maximum value recorded up to that point in the test. If the leakage rate is found to be no greater than 0.00057 m 3 /min (0.020 cfm) or 4 percent of the average sampling rate (whichever is less), the results are acceptable, and no correction will need to be applied to the total volume of dry gas metered; if, however, a higher leakage rate is obtained, either record the leakage rate and plan to correct the sample volume as shown in section 12.3 of this method, or void the sample run.
 Note: Immediately after component changes, leak checks are optional. If such leak checks are done, the procedure outlined in section 8.4.2 above should be used.
-8.4.4 Post-Test Leak Check. A leak check of the sampling train is mandatory at the conclusion of each sampling run. The leak check shall be performed in accordance with the procedures outlined in section 8.4.2, except that it shall be conducted at a vacuum equal to or greater than the maximum value reached during the sampling run. If the leakage rate is found to be no greater than 0.00057 m3 min (0.020 cfm) or 4 percent of the average sampling rate (whichever is less), the results are acceptable, and no correction need be applied to the total volume of dry gas metered. If, however, a higher leakage rate is obtained, either record the leakage rate and correct the sample volume as shown in section 12.3 of this method, or void the sampling run.
+8.4.4 Post-Test Leak Check. A leak check of the sampling train is mandatory at the conclusion of each sampling run. The leak check shall be performed in accordance with the procedures outlined in section 8.4.2, except that it shall be conducted at a vacuum equal to or greater than the maximum value reached during the sampling run. If the leakage rate is found to be no greater than 0.00057 m 3 min (0.020 cfm) or 4 percent of the average sampling rate (whichever is less), the results are acceptable, and no correction need be applied to the total volume of dry gas metered. If, however, a higher leakage rate is obtained, either record the leakage rate and correct the sample volume as shown in section 12.3 of this method, or void the sampling run.
 8.5 Sampling Train Operation. During the sampling run, maintain an isokinetic sampling rate (within 10 percent of true isokinetic unless otherwise specified by the Administrator) and a sample gas temperature through the filter of 120 ±14 °C (248 ±25 °F) or such other temperature as specified by an applicable subpart of the standards or approved by the Administrator.
 8.5.1 For each run, record the data required on a data sheet such as the one shown in Figure 5-3. Be sure to record the initial DGM reading. Record the DGM readings at the beginning and end of each sampling time increment, when changes in flow rates are made, before and after each leak check, and when sampling is halted. Take other readings indicated by Figure 5-3 at least once at each sample point during each time increment and additional readings when significant changes (20 percent variation in velocity head readings) necessitate additional adjustments in flow rate. Level and zero the manometer. Because the manometer level and zero may drift due to vibrations and temperature changes, make periodic checks during the traverse.
-8.5.2 Clean the portholes prior to the test run to minimize the chance of collecting deposited material. To begin sampling, verify that the filter and probe heating systems are up to temperature, remove the nozzle cap, verify that the pitot tube and probe are properly positioned. Position the nozzle at the first traverse point with the tip pointing directly into the gas stream. Immediately start the pump, and adjust the flow to isokinetic conditions. Nomographs are available which aid in the rapid adjustment of the isokinetic sampling rate without excessive computations. These nomographs are designed for use when the Type S pitot tube coefficient (Cp) is 0.85 ±0.02, and the stack gas equivalent density [dry molecular weight (Md)] is equal to 29 ±4. APTD-0576 details the procedure for using the nomographs. If Cp and Md are outside the above stated ranges, do not use the nomographs unless appropriate steps (see Reference 7 in section 17.0) are taken to compensate for the deviations.
+8.5.2 Clean the portholes prior to the test run to minimize the chance of collecting deposited material. To begin sampling, verify that the filter and probe heating systems are up to temperature, remove the nozzle cap, verify that the pitot tube and probe are properly positioned. Position the nozzle at the first traverse point with the tip pointing directly into the gas stream. Immediately start the pump, and adjust the flow to isokinetic conditions. Nomographs are available which aid in the rapid adjustment of the isokinetic sampling rate without excessive computations. These nomographs are designed for use when the Type S pitot tube coefficient (C p) is 0.85 ±0.02, and the stack gas equivalent density [dry molecular weight (M d)] is equal to 29 ±4. APTD-0576 details the procedure for using the nomographs. If C p and M d are outside the above stated ranges, do not use the nomographs unless appropriate steps (see Reference 7 in section 17.0) are taken to compensate for the deviations.
 8.5.3 When the stack is under significant negative pressure (i.e., height of impinger stem), take care to close the coarse adjust valve before inserting the probe into the stack to prevent water from backing into the filter holder. If necessary, the pump may be turned on with the coarse adjust valve closed.
 8.5.4 When the probe is in position, block off the openings around the probe and porthole to prevent unrepresentative dilution of the gas stream.
 8.5.5 Traverse the stack cross-section, as required by Method 1 or as specified by the Administrator, being careful not to bump the probe nozzle into the stack walls when sampling near the walls or when removing or inserting the probe through the portholes; this minimizes the chance of extracting deposited material.
@@ -347,37 +343,37 @@ Note: When two or more trains are used, separate analyses of the front-half and 
 8.7.6.2.4 It is recommended that two people clean the probe to minimize sample losses. Between sampling runs, keep brushes clean and protected from contamination.
 8.7.6.2.5 Clean the inside of the front half of the filter holder by rubbing the surfaces with a Nylon bristle brush and rinsing with acetone. Rinse each surface three times or more if needed to remove visible particulate. Make a final rinse of the brush and filter holder. Carefully rinse out the glass cyclone, also (if applicable). After all acetone washings and particulate matter have been collected in the sample container, tighten the lid on the sample container so that acetone will not leak out when it is shipped to the laboratory. Mark the height of the fluid level to allow determination of whether leakage occurred during transport. Label the container to clearly identify its contents.
 8.7.6.3 Container No. 3. Note the color of the indicating silica gel to determine whether it has been completely spent, and make a notation of its condition. Transfer the silica gel from the fourth impinger to its original container, and seal. A funnel may make it easier to pour the silica gel without spilling. A rubber policeman may be used as an aid in removing the silica gel from the impinger. It is not necessary to remove the small amount of dust particles that may adhere to the impinger wall and are difficult to remove. Since the gain in weight is to be used for moisture calculations, do not use any water or other liquids to transfer the silica gel. If a balance is available in the field, follow the procedure for Container No. 3 in section 11.2.3.
-8.7.6.4 Impinger Water. Treat the impingers as follows: Make a notation of any color or film in the liquid catch. Measure the liquid that is in the first three impingers to within 1 ml by using a graduated cylinder or by weighing it to within 0.5 g by using a balance. Record the volume or weight of liquid present. This information is required to calculate the moisture content of the effluent gas. Discard the liquid after measuring and recording the volume or weight, unless analysis of the impinger catch is required (see NOTE, section 6.1.1.8). If a different type of condenser is used, measure the amount of moisture condensed either volumetrically or gravimetrically.
+8.7.6.4 Impinger Water. Treat the impingers as follows: Make a notation of any color or film in the liquid catch. Measure the liquid that is in the first three impingers by weighing it to within 0.5 g at a minimum by using a balance. Record the weight of liquid present. This information is required to calculate the moisture content of the effluent gas. Discard the liquid after measuring and recording the weight, unless analysis of the impinger catch is required (see Note, section 6.1.1.8). If a different type of condenser is used, measure the amount of moisture condensed gravimetrically.
 8.8 Sample Transport. Whenever possible, containers should be shipped in such a way that they remain upright at all times.
 9.0 Quality Control
 9.1 Miscellaneous Quality Control Measures.
 Section | Quality control measure | Effect
 8.4, 10.1-10.6 | Sampling equipment leak check and calibration | Ensures accurate measurement of stack gas flow rate, sample volume.
 9.2 Volume Metering System Checks. The following procedures are suggested to check the volume metering system calibration values at the field test site prior to sample collection. These procedures are optional.
-9.2.1 Meter Orifice Check. Using the calibration data obtained during the calibration procedure described in section 10.3, determine the ΔH@ for the metering system orifice. The ΔH@ is the orifice pressure differential in units of in. H2O that correlates to 0.75 cfm of air at 528 °R and 29.92 in. Hg. The ΔH@ is calculated as follows:
+9.2.1 Meter Orifice Check. Using the calibration data obtained during the calibration procedure described in section 10.3, determine the ΔH@ for the metering system orifice. The ΔH@ is the orifice pressure differential in units of in. H 2 O that correlates to 0.75 cfm of air at 528 °R and 29.92 in. Hg. The ΔH@ is calculated as follows:
 ER17OC00.107
 Where:
-ΔH = Average pressure differential across the orifice meter, in. H2O.
-Tm = Absolute average DGM temperature, °R.
-Pbar = Barometric pressure, in. Hg.
+ΔH = Average pressure differential across the orifice meter, in. H 2 O.
+T m = Absolute average DGM temperature, °R.
+P bar = Barometric pressure, in. Hg.
 θ = Total sampling time, min.
 Y = DGM calibration factor, dimensionless.
-Vm = Volume of gas sample as measured by DGM, dcf.
-0.0319 = (0.0567 in. Hg/°R) (0.75 cfm)2
-9.2.1.1 Before beginning the field test (a set of three runs usually constitutes a field test), operate the metering system (i.e., pump, volume meter, and orifice) at the ΔH@ pressure differential for 10 minutes. Record the volume collected, the DGM temperature, and the barometric pressure. Calculate a DGM calibration check value, Yc, as follows:
+V m = Volume of gas sample as measured by DGM, dcf.
+0.0319 = (0.0567 in. Hg/°R) (0.75 cfm) 2
+9.2.1.1 Before beginning the field test (a set of three runs usually constitutes a field test), operate the metering system (i.e., pump, volume meter, and orifice) at the ΔH@ pressure differential for 10 minutes. Record the volume collected, the DGM temperature, and the barometric pressure. Calculate a DGM calibration check value, Y c, as follows:
 ER17OC00.108
 where:
-Yc = DGM calibration check value, dimensionless.
+Y c = DGM calibration check value, dimensionless.
 10 = Run time, min.
-9.2.1.2 Compare the Yc value with the dry gas meter calibration factor Y to determine that: 0.97Y <Yc <1.03Y. If the Yc value is not within this range, the volume metering system should be investigated before beginning the test.
+9.2.1.2 Compare the Y c value with the dry gas meter calibration factor Y to determine that: 0.97Y <Y c <1.03Y. If the Y c value is not within this range, the volume metering system should be investigated before beginning the test.
 9.2.2 Calibrated Critical Orifice. A critical orifice, calibrated against a wet test meter or spirometer and designed to be inserted at the inlet of the sampling meter box, may be used as a check by following the procedure of section 16.2.
 10.0 Calibration and Standardization
 Note: Maintain a laboratory log of all calibrations.
 10.1 Probe Nozzle. Probe nozzles shall be calibrated before their initial use in the field. Using a micrometer, measure the ID of the nozzle to the nearest 0.025 mm (0.001 in.). Make three separate measurements using different diameters each time, and obtain the average of the measurements. The difference between the high and low numbers shall not exceed 0.1 mm (0.004 in.). When nozzles become nicked, dented, or corroded, they shall be reshaped, sharpened, and recalibrated before use. Each nozzle shall be permanently and uniquely identified.
 10.2 Pitot Tube Assembly. The Type S pitot tube assembly shall be calibrated according to the procedure outlined in section 10.1 of Method 2.
 10.3 Metering System.
-10.3.1 Calibration Prior to Use. Before its initial use in the field, the metering system shall be calibrated as follows: Connect the metering system inlet to the outlet of a wet test meter that is accurate to within 1 percent. Refer to Figure 5-4. The wet test meter should have a capacity of 30 liters/rev (1 ft3/rev). A spirometer of 400 liters (14 ft3) or more capacity, or equivalent, may be used for this calibration, although a wet test meter is usually more practical. The wet test meter should be periodically calibrated with a spirometer or a liquid displacement meter to ensure the accuracy of the wet test meter. Spirometers or wet test meters of other sizes may be used, provided that the specified accuracies of the procedure are maintained. Run the metering system pump for about 15 minutes with the orifice manometer indicating a median reading as expected in field use to allow the pump to warm up and to permit the interior surface of the wet test meter to be thoroughly wetted. Then, at each of a minimum of three orifice manometer settings, pass an exact quantity of gas through the wet test meter and note the gas volume indicated by the DGM. Also note the barometric pressure and the temperatures of the wet test meter, the inlet of the DGM, and the outlet of the DGM. Select the highest and lowest orifice settings to bracket the expected field operating range of the orifice. Use a minimum volume of 0.14 m3 (5 ft3) at all orifice settings. Record all the data on a form similar to Figure 5-5 and calculate Y, the DGM calibration factor, and ΔH, the orifice calibration factor, at each orifice setting as shown on Figure 5-5. Allowable tolerances for individual Y and ΔH values are given in Figure 5-5. Use the average of the Y values in the calculations in section 12.0.
-10.3.1.1 Before calibrating the metering system, it is suggested that a leak check be conducted. For metering systems having diaphragm pumps, the normal leak-check procedure will not detect leakages within the pump. For these cases the following leak-check procedure is suggested: make a 10-minute calibration run at 0.00057 m3/min (0.020 cfm). At the end of the run, take the difference of the measured wet test meter and DGM volumes. Divide the difference by 10 to get the leak rate. The leak rate should not exceed 0.00057 m3/min (0.020 cfm).
+10.3.1 Calibration Prior to Use. Before its initial use in the field, the metering system shall be calibrated as follows: Connect the metering system inlet to the outlet of a wet test meter that is accurate to within 1 percent. Refer to Figure 5-4. The wet test meter should have a capacity of 30 liters/rev (1 ft 3 /rev). A spirometer of 400 liters (14 ft 3) or more capacity, or equivalent, may be used for this calibration, although a wet test meter is usually more practical. The wet test meter should be periodically calibrated with a spirometer or a liquid displacement meter to ensure the accuracy of the wet test meter. Spirometers or wet test meters of other sizes may be used, provided that the specified accuracies of the procedure are maintained. Run the metering system pump for about 15 minutes with the orifice manometer indicating a median reading as expected in field use to allow the pump to warm up and to permit the interior surface of the wet test meter to be thoroughly wetted. Then, at each of a minimum of three orifice manometer settings, pass an exact quantity of gas through the wet test meter and note the gas volume indicated by the DGM. Also note the barometric pressure and the temperatures of the wet test meter, the inlet of the DGM, and the outlet of the DGM. Select the highest and lowest orifice settings to bracket the expected field operating range of the orifice. Use a minimum volume of 0.14 m 3 (5 ft 3) at all orifice settings. Record all the data on a form similar to Figure 5-5 and calculate Y, the DGM calibration factor, and ΔH, the orifice calibration factor, at each orifice setting as shown on Figure 5-5. Allowable tolerances for individual Y and ΔH values are given in Figure 5-5. Use the average of the Y values in the calculations in section 12.0.
+10.3.1.1 Before calibrating the metering system, it is suggested that a leak check be conducted. For metering systems having diaphragm pumps, the normal leak-check procedure will not detect leakages within the pump. For these cases the following leak-check procedure is suggested: make a 10-minute calibration run at 0.00057 m 3 /min (0.020 cfm). At the end of the run, take the difference of the measured wet test meter and DGM volumes. Divide the difference by 10 to get the leak rate. The leak rate should not exceed 0.00057 m 3 /min (0.020 cfm).
 10.3.2 Calibration After Use. After each field use, the calibration of the metering system shall be checked by performing three calibration runs at a single, intermediate orifice setting (based on the previous field test), with the vacuum set at the maximum value reached during the test series. To adjust the vacuum, insert a valve between the wet test meter and the inlet of the metering system. Calculate the average value of the DGM calibration factor. If the value has changed by more than 5 percent, recalibrate the meter over the full range of orifice settings, as detailed in section 10.3.1.
 Note: Alternative procedures (e.g., rechecking the orifice meter coefficient) may be used, subject to the approval of the Administrator.
 10.3.3 Acceptable Variation in Calibration Check. If the DGM coefficient values obtained before and after a test series differ by more than 5 percent, the test series shall either be voided, or calculations for the test series shall be performed using whichever meter coefficient value (i.e., before or after) gives the lower value of total sample volume.
@@ -398,62 +394,61 @@ Note: The contents of Container No. 2 as well as the acetone blank container may
 12.0 Data Analysis and Calculations
 Carry out calculations, retaining at least one extra significant figure beyond that of the acquired data. Round off figures after the final calculation. Other forms of the equations may be used, provided that they give equivalent results.
 12.1 Nomenclature.
-An = Cross-sectional area of nozzle, m2 (ft2).
-Bws = Water vapor in the gas stream, proportion by volume.
-Ca = Acetone blank residue concentration, mg/mg.
-cs = Concentration of particulate matter in stack gas, dry basis, corrected to standard conditions, g/dscm (gr/dscf).
+A n = Cross-sectional area of nozzle, m 2 (ft 2).
+B ws = Water vapor in the gas stream, proportion by volume.
+C a = Acetone blank residue concentration, mg/mg.
+c s = Concentration of particulate matter in stack gas, dry basis, corrected to standard conditions, g/dscm (gr/dscf).
 I = Percent of isokinetic sampling.
-L1 = Individual leakage rate observed during the leak-check conducted prior to the first component change, m3/min (ft3/min)
-La = Maximum acceptable leakage rate for either a pretest leak-check or for a leak-check following a component change; equal to 0.00057 m3/min (0.020 cfm) or 4 percent of the average sampling rate, whichever is less.
-Li = Individual leakage rate observed during the leak-check conducted prior to the "ith" component change (i = 1, 2, 3... n), m3/min (cfm).
-Lp = Leakage rate observed during the post-test leak-check, m3/min (cfm).
-ma = Mass of residue of acetone after evaporation, mg.
-mn = Total amount of particulate matter collected, mg.
-Mw = Molecular weight of water, 18.0 g/g-mole (18.0 lb/lb-mole).
-Pbar = Barometric pressure at the sampling site, mm Hg (in. Hg).
-Ps = Absolute stack gas pressure, mm Hg (in. Hg).
-Pstd = Standard absolute pressure, 760 mm Hg (29.92 in. Hg).
-R = Ideal gas constant, 0.06236 ((mm Hg)(m3))/((K)(g-mole)) {21.85 ((in. Hg) (ft 3))/((°R) (lb-mole))}.
-Tm = Absolute average DGM temperature (see Figure 5-3), K (°R).
-Ts = Absolute average stack gas temperature (see Figure 5-3), K (°R).
-Tstd = Standard absolute temperature, 293 K (528 °R).
-Va = Volume of acetone blank, ml.
-Vaw = Volume of acetone used in wash, ml.
-V1c = Total volume of liquid collected in impingers and silica gel (see Figure 5-6), ml.
-Vm = Volume of gas sample as measured by dry gas meter, dcm (dcf).
-Vm(std) = Volume of gas sample measured by the dry gas meter, corrected to standard conditions, dscm (dscf).
-Vw(std) = Volume of water vapor in the gas sample, corrected to standard conditions, scm (scf).
-Vs = Stack gas velocity, calculated by Method 2, Equation 2-7, using data obtained from Method 5, m/sec (ft/sec).
-Wa = Weight of residue in acetone wash, mg.
+L 1 = Individual leakage rate observed during the leak-check conducted prior to the first component change, m 3 /min (ft 3 /min)
+L a = Maximum acceptable leakage rate for either a pretest leak-check or for a leak-check following a component change; equal to 0.00057 m 3 /min (0.020 cfm) or 4 percent of the average sampling rate, whichever is less.
+L i = Individual leakage rate observed during the leak-check conducted prior to the "i th" component change (i = 1, 2, 3... n), m 3 /min (cfm).
+L p = Leakage rate observed during the post-test leak-check, m 3 /min (cfm).
+m a = Mass of residue of acetone after evaporation, mg.
+m n = Total amount of particulate matter collected, mg.
+M w = Molecular weight of water, 18.015 g/g-mole (18.015 lb/lb-mole).
+P bar = Barometric pressure at the sampling site, mm Hg (in. Hg).
+P s = Absolute stack gas pressure, mm Hg (in. Hg).
+P std = Standard absolute pressure, 760 mm Hg (29.92 in. Hg).
+R = Ideal gas constant, 0.06236 ((mm Hg)(m 3))/((K)(g-mole)) {21.85 ((in. Hg) (ft 3))/((°R) (lb-mole))}.
+T m = Absolute average DGM temperature (see Figure 5-3), K (°R).
+T s = Absolute average stack gas temperature (see Figure 5-3), K (°R).
+T std = Standard absolute temperature, 293.15 K (527.67 °R).
+V a = Volume of acetone blank, ml.
+V aw = Volume of acetone used in wash, ml.
+V 1c = Total volume of liquid collected in impingers and silica gel (see Figure 5-6), g.
+V m = Volume of gas sample as measured by dry gas meter, dcm (dcf).
+V m(std) = Volume of gas sample measured by the dry gas meter, corrected to standard conditions, dscm (dscf).
+V w(std) = Volume of water vapor in the gas sample, corrected to standard conditions, scm (scf).
+V s = Stack gas velocity, calculated by Method 2, Equation 2-7, using data obtained from Method 5, m/sec (ft/sec).
+W a = Weight of residue in acetone wash, mg.
 Y = Dry gas meter calibration factor.
-ΔH = Average pressure differential across the orifice meter (see Figure 5-4), mm H2O (in. H2O).
-ρa = Density of acetone, mg/ml (see label on bottle).
-ρw = Density of water, 0.9982 g/ml. (0.002201 lb/ml).
+ΔH = Average pressure differential across the orifice meter (see Figure 5-4), mm H 2 O (in. H 2 O).
+ρ a = Density of acetone, mg/ml (see label on bottle).
 θ = Total sampling time, min.
-θ1 = Sampling time interval, from the beginning of a run until the first component change, min.
-θi = Sampling time interval, between two successive component changes, beginning with the interval between the first and second changes, min.
-θp = Sampling time interval, from the final (n th) component change until the end of the sampling run, min.
+θ 1 = Sampling time interval, from the beginning of a run until the first component change, min.
+θ i = Sampling time interval, between two successive component changes, beginning with the interval between the first and second changes, min.
+θ p = Sampling time interval, from the final (n th) component change until the end of the sampling run, min.
 13.6 = Specific gravity of mercury.
 60 = Sec/min.
 100 = Conversion to percent.
 12.2 Average Dry Gas Meter Temperature and Average Orifice Pressure Drop. See data sheet (Figure 5-3).
-12.3 Dry Gas Volume. Correct the sample volume measured by the dry gas meter to standard conditions (20 °C, 760 mm Hg or 68 °F, 29.92 in. Hg) by using Equation 5-1.
-ER17OC00.109
+12.3 Dry Gas Volume. Correct the sample volume measured by the dry gas meter to standard conditions (20 °C, 760mm Hg or 68 °F, 29.92 in. Hg) by using Equation 5-1.
+ER23MR21.005
 Where:
-K1 = 0.3858 °K/mm Hg for metric units, = 17.64 °R/in. Hg for English units.
-Note: Equation 5-1 can be used as written unless the leakage rate observed during any of the mandatory leak checks (i.e., the post-test leak check or leak checks conducted prior to component changes) exceeds La. If Lp or Li exceeds La, Equation 5-1 must be modified as follows:
-(a) Case I. No component changes made during sampling run. In this case, replace Vm in Equation 5-1 with the expression:
-ER17OC00.110
+K 1 = 0.38572 °K/mm Hg for metric units = 17.636 °R/in. Hg for English units.
+Note: Equation 5-1 can be used as written unless the leakage rate observed during any of the mandatory leak checks (i.e., the post-test leak check or leak checks conducted prior to component changes) exceeds L a. If L p or L i exceeds La, Equation 5-1 must be modified as follows:
+(a) Case I. No component changes made during sampling run. In this case, replace V m in Equation 5-1 with the expression:
+(V m − (L p − L a)θ)
 (b) Case II. One or more component changes made during the sampling run. In this case, replace Vm in Equation 5-1 by the expression:
-ER17OC00.111
-and substitute only for those leakage rates (Li or Lp) which exceed La.
-12.4 Volume of Water Vapor Condensed.
-ER17OC00.112
+ER23MR21.006
+and substitute only for those leakage rates (L i or L p) which exceed L a.
+12.4 Volume of Water Vapor Condensed
+ER07OC20.007
 Where:
-K2 = 0.001333 m3/ml for metric units, = 0.04706 ft 3/ml for English units.
+K 2 = 0.001335 m 3 /g for metric units, = 0.04716 ft 3 /g for English units.
 12.5 Moisture Content.
 ER17OC00.113
-Note: In saturated or water droplet-laden gas streams, two calculations of the moisture content of the stack gas shall be made, one from the impinger analysis (Equation 5-3), and a second from the assumption of saturated conditions. The lower of the two values of Bws shall be considered correct. The procedure for determining the moisture content based upon the assumption of saturated conditions is given in section 4.0 of Method 4. For the purposes of this method, the average stack gas temperature from Figure 5-3 may be used to make this determination, provided that the accuracy of the in-stack temperature sensor is ±1 °C (2 °F).
+Note: In saturated or water droplet-laden gas streams, two calculations of the moisture content of the stack gas shall be made, one from the impinger analysis (Equation 5-3), and a second from the assumption of saturated conditions. The lower of the two values of B ws shall be considered correct. The procedure for determining the moisture content based upon the assumption of saturated conditions is given in section 4.0 of Method 4. For the purposes of this method, the average stack gas temperature from Figure 5-3 may be used to make this determination, provided that the accuracy of the in-stack temperature sensor is ±1 °C (2 °F).
 12.6 Acetone Blank Concentration.
 ER17OC00.114
 12.7 Acetone Wash Blank.
@@ -463,26 +458,25 @@ Note: In no case shall a blank value of greater than 0.001 percent of the weight
 12.9 Particulate Concentration.
 ER17oc00.116
 Where:
-K3 = 0.001 g/mg for metric units.
+K 3 = 0.001 g/mg for metric units.
 = 0.0154 gr/mg for English units.
 12.10 Conversion Factors:
 From | To | Multiply by
-ft3 | m3 | 0.02832
+ft 3 | m 3 | 0.02832
 gr | mg | 64.80004
-gr/ft3 | mg/m3 | 2288.4
+gr/ft 3 | mg/m 3 | 2288.4
 mg | g | 0.001
-gr | lb | 1.429 × 10−4
+gr | lb | 1.429 × 10 −4
 12.11 Isokinetic Variation.
 12.11.1 Calculation from Raw Data.
-ER17OC00.117
+ER23MR21.007
 Where:
-K4 = 0.003454 ((mm Hg)(m3))/((ml)(°K)) for metric units,
-= 0.002669 ((in. Hg)(ft3))/((ml)(°R)) for English units.
+K 4 = 0.003456 ((mm Hg)(m 3))/((ml)(°K)) for metric units,
+= 0.002668 ((in. Hg)(ft 3))/((ml)(°R)) for English units.
 12.11.2 Calculation from Intermediate Values.
-ER17OC00.118
+ER23MR21.008
 Where:
-K5 = 4.320 for metric units,
-= 0.09450 for English units.
+K 5 = 4.3209 for metric units = 0.09450 for English units.
 12.11.3 Acceptable Results. If 90 percent ≤I ≤110 percent, the results are acceptable. If the PM results are low in comparison to the standard, and "I" is over 110 percent or less than 90 percent, the Administrator may opt to accept the results. Reference 4 in section 17.0 may be used to make acceptability judgments. If "I" is judged to be unacceptable, reject the results, and repeat the sampling run.
 12.12 Stack Gas Velocity and Volumetric Flow Rate. Calculate the average stack gas velocity and volumetric flow rate, if needed, using data obtained in this method and the equations in sections 12.3 and 12.4 of Method 2.
 13.0 Method Performance [Reserved]
@@ -491,31 +485,31 @@ K5 = 4.320 for metric units,
 16.0 Alternative Procedures
 16.1 Dry Gas Meter as a Calibration Standard. A DGM may be used as a calibration standard for volume measurements in place of the wet test meter specified in section 10.3, provided that it is calibrated initially and recalibrated periodically as follows:
 16.1.1 Standard Dry Gas Meter Calibration.
-16.1.1.1. The DGM to be calibrated and used as a secondary reference meter should be of high quality and have an appropriately sized capacity (e.g., 3 liters/rev (0.1 ft3/rev)). A spirometer (400 liters (14 ft3) or more capacity), or equivalent, may be used for this calibration, although a wet test meter is usually more practical. The wet test meter should have a capacity of 30 liters/rev (1 ft3/rev) and capable of measuring volume to within 1.0 percent. Wet test meters should be checked against a spirometer or a liquid displacement meter to ensure the accuracy of the wet test meter. Spirometers or wet test meters of other sizes may be used, provided that the specified accuracies of the procedure are maintained.
-16.1.1.2 Set up the components as shown in Figure 5-7. A spirometer, or equivalent, may be used in place of the wet test meter in the system. Run the pump for at least 5 minutes at a flow rate of about 10 liters/min (0.35 cfm) to condition the interior surface of the wet test meter. The pressure drop indicated by the manometer at the inlet side of the DGM should be minimized (no greater than 100 mm H2O (4 in. H2O) at a flow rate of 30 liters/min (1 cfm)). This can be accomplished by using large diameter tubing connections and straight pipe fittings.
+16.1.1.1. The DGM to be calibrated and used as a secondary reference meter should be of high quality and have an appropriately sized capacity (e.g., 3 liters/rev (0.1 ft 3 /rev)). A spirometer (400 liters (14 ft 3) or more capacity), or equivalent, may be used for this calibration, although a wet test meter is usually more practical. The wet test meter should have a capacity of 30 liters/rev (1 ft 3 /rev) and capable of measuring volume to within 1.0 percent. Wet test meters should be checked against a spirometer or a liquid displacement meter to ensure the accuracy of the wet test meter. Spirometers or wet test meters of other sizes may be used, provided that the specified accuracies of the procedure are maintained.
+16.1.1.2 Set up the components as shown in Figure 5-7. A spirometer, or equivalent, may be used in place of the wet test meter in the system. Run the pump for at least 5 minutes at a flow rate of about 10 liters/min (0.35 cfm) to condition the interior surface of the wet test meter. The pressure drop indicated by the manometer at the inlet side of the DGM should be minimized (no greater than 100 mm H 2 O (4 in. H 2 O) at a flow rate of 30 liters/min (1 cfm)). This can be accomplished by using large diameter tubing connections and straight pipe fittings.
 16.1.1.3 Collect the data as shown in the example data sheet (see Figure 5-8). Make triplicate runs at each of the flow rates and at no less than five different flow rates. The range of flow rates should be between 10 and 34 liters/min (0.35 and 1.2 cfm) or over the expected operating range.
-16.1.1.4 Calculate flow rate, Q, for each run using the wet test meter volume, VW, and the run time, θ. Calculate the DGM coefficient, Yds, for each run. These calculations are as follows:
-ER17OC00.119
-ER17OC00.120
+16.1.1.4 Calculate flow rate, Q, for each run using the wet test meter volume, V w, and the run time, θ. Calculate the DGM coefficient, Y ds, for each run. These calculations are as follows:
+ER23MR21.009
+ER23MR21.010
 Where:
-K1 = 0.3858 °C/mm Hg for metric units = 17.64 °F/in. Hg for English units.
-VW = Wet test meter volume, liter (ft3).
-Vds = Dry gas meter volume, liter (ft3).
-Tds = Average dry gas meter temperature, °C (°F).
-Tadj = 273 °C for metric units = 460 °F for English units.
-TW = Average wet test meter temperature, °C (°F)
-Pbar = Barometric pressure, mm Hg (in. Hg).
-Δp = Dry gas meter inlet differential pressure, mm H2O (in. H2O).
+K 1 = 0.38572 °K/mm Hg for metric units = 17.636 °R/in. Hg for English units.
+V w = Wet test meter volume, liter (ft3).
+V ds = Dry gas meter volume, liter (ft3).
+T ds = Average dry gas meter temperature, °C (°F).
+T adj = 273.15 °C for metric units = 459.67 °F for English units.
+T w = Average wet test meter temperature, °C (°F).
+P bar = Barometric pressure, mm Hg (in. Hg).
+Δp = Dry gas meter inlet differential pressure, mm H 2 O (in. H 2 O).
 θ = Run time, min.
-16.1.1.5 Compare the three Yds values at each of the flow rates and determine the maximum and minimum values. The difference between the maximum and minimum values at each flow rate should be no greater than 0.030. Extra sets of triplicate runs may be made in order to complete this requirement. In addition, the meter coefficients should be between 0.95 and 1.05. If these specifications cannot be met in three sets of successive triplicate runs, the meter is not suitable as a calibration standard and should not be used as such. If these specifications are met, average the three Yds values at each flow rate resulting in no less than five average meter coefficients, Yds.
-16.1.1.6 Prepare a curve of meter coefficient, Yds, versus flow rate, Q, for the DGM. This curve shall be used as a reference when the meter is used to calibrate other DGMs and to determine whether recalibration is required.
+16.1.1.5 Compare the three Y ds values at each of the flow rates and determine the maximum and minimum values. The difference between the maximum and minimum values at each flow rate should be no greater than 0.030. Extra sets of triplicate runs may be made in order to complete this requirement. In addition, the meter coefficients should be between 0.95 and 1.05. If these specifications cannot be met in three sets of successive triplicate runs, the meter is not suitable as a calibration standard and should not be used as such. If these specifications are met, average the three Y ds values at each flow rate resulting in no less than five average meter coefficients, Y ds.
+16.1.1.6 Prepare a curve of meter coefficient, Y ds, versus flow rate, Q, for the DGM. This curve shall be used as a reference when the meter is used to calibrate other DGMs and to determine whether recalibration is required.
 16.1.2 Standard Dry Gas Meter Recalibration.
 16.1.2.1 Recalibrate the standard DGM against a wet test meter or spirometer annually or after every 200 hours of operation, whichever comes first. This requirement is valid provided the standard DGM is kept in a laboratory and, if transported, cared for as any other laboratory instrument. Abuse to the standard meter may cause a change in the calibration and will require more frequent recalibrations.
 16.1.2.2 As an alternative to full recalibration, a two-point calibration check may be made. Follow the same procedure and equipment arrangement as for a full recalibration, but run the meter at only two flow rates [suggested rates are 14 and 30 liters/min (0.5 and 1.0 cfm)]. Calculate the meter coefficients for these two points, and compare the values with the meter calibration curve. If the two coefficients are within 1.5 percent of the calibration curve values at the same flow rates, the meter need not be recalibrated until the next date for a recalibration check.
 16.2 Critical Orifices As Calibration Standards. Critical orifices may be used as calibration standards in place of the wet test meter specified in section 16.1, provided that they are selected, calibrated, and used as follows:
 16.2.1 Selection of Critical Orifices.
 16.2.1.1 The procedure that follows describes the use of hypodermic needles or stainless steel needle tubings which have been found suitable for use as critical orifices. Other materials and critical orifice designs may be used provided the orifices act as true critical orifices (i.e., a critical vacuum can be obtained, as described in section 16.2.2.2.3). Select five critical orifices that are appropriately sized to cover the range of flow rates between 10 and 34 liters/min (0.35 and 1.2 cfm) or the expected operating range. Two of the critical orifices should bracket the expected operating range. A minimum of three critical orifices will be needed to calibrate a Method 5 DGM; the other two critical orifices can serve as spares and provide better selection for bracketing the range of operating flow rates. The needle sizes and tubing lengths shown in Table 5-1 in section 18.0 give the approximate flow rates.
-16.2.1.2 These needles can be adapted to a Method 5 type sampling train as follows: Insert a serum bottle stopper, 13 by 20 mm sleeve type, into a 1/2-inch Swagelok (or equivalent) quick connect. Insert the needle into the stopper as shown in Figure 5-9.
+16.2.1.2 These needles can be adapted to a Method 5 type sampling train as follows: Insert a serum bottle stopper, 13 by 20 mm sleeve type, into a 1/2 -inch Swagelok (or equivalent) quick connect. Insert the needle into the stopper as shown in Figure 5-9.
 16.2.2 Critical Orifice Calibration. The procedure described in this section uses the Method 5 meter box configuration with a DGM as described in section 6.1.1.9 to calibrate the critical orifices. Other schemes may be used, subject to the approval of the Administrator.
 16.2.2.1 Calibration of Meter Box. The critical orifices must be calibrated in the same configuration as they will be used (i.e., there should be no connections to the inlet of the orifice).
 16.2.2.1.1 Before calibrating the meter box, leak check the system as follows: Fully open the coarse adjust valve, and completely close the by-pass valve. Plug the inlet. Then turn on the pump, and determine whether there is any leakage. The leakage rate shall be zero (i.e., no detectable movement of the DGM dial shall be seen for 1 minute).
@@ -525,27 +519,26 @@ Pbar = Barometric pressure, mm Hg (in. Hg).
 16.2.2.2.1 Allow a warm-up time of 15 minutes. This step is important to equilibrate the temperature conditions through the DGM.
 16.2.2.2.2 Leak check the system as in section 16.2.2.1.1. The leakage rate shall be zero.
 16.2.2.2.3 Before calibrating the critical orifice, determine its suitability and the appropriate operating vacuum as follows: Turn on the pump, fully open the coarse adjust valve, and adjust the by-pass valve to give a vacuum reading corresponding to about half of atmospheric pressure. Observe the meter box orifice manometer reading, ΔH. Slowly increase the vacuum reading until a stable reading is obtained on the meter box orifice manometer. Record the critical vacuum for each orifice. Orifices that do not reach a critical value shall not be used.
-16.2.2.2.4 Obtain the barometric pressure using a barometer as described in section 6.1.2. Record the barometric pressure, Pbar, in mm Hg (in. Hg).
+16.2.2.2.4 Obtain the barometric pressure using a barometer as described in section 6.1.2. Record the barometric pressure, P bar, in mm Hg (in. Hg).
 16.2.2.2.5 Conduct duplicate runs at a vacuum of 25 to 50 mm Hg (1 to 2 in. Hg) above the critical vacuum. The runs shall be at least 5 minutes each. The DGM volume readings shall be in increments of complete revolutions of the DGM. As a guideline, the times should not differ by more than 3.0 seconds (this includes allowance for changes in the DGM temperatures) to achieve ±0.5 percent in K′ (see Eq. 5-11). Record the information listed in Figure 5-11.
 16.2.2.2.6 Calculate K′ using Equation 5-11.
 ER17OC00.121
 Where:
 K′ = Critical orifice coefficient,
-[m3)(°K)1/2]/
-[(mm Hg)(min)] {[(ft 3)(°R)1/2)] [(in. Hg)(min)].
-Tamb = Absolute ambient temperature, °K (°R).
+[m 3)(°K) 1/2]/
+[(mm Hg)(min)] {[(ft 3)(°R) 1/2)] [(in. Hg)(min)].
+T amb = Absolute ambient temperature, °K (°R).
 Calculate the arithmetic mean of the K′ values. The individual K' values should not differ by more than ±0.5 percent from the mean value.
 16.2.3 Using the Critical Orifices as Calibration Standards.
 16.2.3.1 Record the barometric pressure.
 16.2.3.2 Calibrate the metering system according to the procedure outlined in section 16.2.2. Record the information listed in Figure 5-12.
 16.2.3.3 Calculate the standard volumes of air passed through the DGM and the critical orifices, and calculate the DGM calibration factor, Y, using the equations below:
-ER17OC00.122
-ER27FE14.012
-ER17OC00.124
+ER23MR21.011
+ER23MR21.012
+ER23MR21.013
 Where:
-Vcr(std) = Volume of gas sample passed through the critical orifice, corrected to standard conditions, dscm (dscf).
-K1 = 0.3858 K/mm Hg for metric units
-= 17.64 °R/in. Hg for English units.
+V cr(std) = Volume of gas sample passed through the critical orifice, corrected to standard conditions, dscm (dscf).
+K 1 = 0.38572 °K/mm Hg for metric units = 17.636 °R/in. Hg for English units.
 16.2.3.4 Average the DGM calibration values for each of the flow rates. The calibration factor, Y, at each of the flow rates should not differ by more than ±2 percent from the average.
 16.2.3.5 To determine the need for recalibrating the critical orifices, compare the DGM Y factors obtained from two adjacent orifices each time a DGM is calibrated; for example, when checking orifice 13/2.5, use orifices 12/10.2 and 13/5.1. If any critical orifice yields a DGM Y factor differing by more than 2 percent from the others, recalibrate the critical orifice according to section 16.2.2.
 16.3 Alternative Post-Test Metering System Calibration. The following procedure may be used as an alternative to the post-test calibration described in Section 10.3.2. This alternative procedure does not detect leakages between the inlet of the metering system and the dry gas meter. Therefore, two steps must be included to make it an equivalent alternative:
@@ -554,17 +547,17 @@ K1 = 0.3858 K/mm Hg for metric units
 16.3.1 After each test run, do the following:
 16.3.1.1 Ensure that the metering system has passed the post-test leak-check. If not, conduct a leak-check of the metering system from its inlet.
 16.3.1.2 Conduct the leak-check of that portion of the train from the pump to the orifice meter as described in Section 10.3.1.1.
-16.3.1.3 Calculate Yqa for each test run using the following equation:
+16.3.1.3 Calculate Y qa for each test run using the following equation:
 ER27FE14.013
 Where:
-Yqa = Dry gas meter calibration check value, dimensionless.
-0.0319 = (29.92/528) (0.75) 2 (in. Hg/°R) cfm2.
-ΔH@ = Orifice meter calibration coefficient, in. H2O.
-Md = Dry molecular weight of stack gas, lb/lb-mole.
+Y qa = Dry gas meter calibration check value, dimensionless.
+0.0319 = (29.92/528) (0.75) 2 (in. Hg/°R) cfm 2.
+ΔH@ = Orifice meter calibration coefficient, in. H 2 O.
+M d = Dry molecular weight of stack gas, lb/lb-mole.
 29 = Dry molecular weight of air, lb/lb-mole.
 16.3.2 After each test run series, do the following:
-16.3.2.1 Average the three or more Yqa's obtained from the test run series and compare this average Yqa with the dry gas meter calibration factor Y. The average Yqa must be within 5 percent of Y.
-16.3.2.2 If the average Yqa does not meet the 5 percent criterion, recalibrate the meter over the full range of orifice settings as detailed in Section 10.3.1. Then follow the procedure in Section 10.3.3.
+16.3.2.1 Average the three or more Y qa 's obtained from the test run series and compare this average Y qa with the dry gas meter calibration factor Y. The average Y qa must be within 5 percent of Y.
+16.3.2.2 If the average Y qa does not meet the 5 percent criterion, recalibrate the meter over the full range of orifice settings as detailed in Section 10.3.1. Then follow the procedure in Section 10.3.3.
 17.0 References.
 1. Addendum to Specifications for Incinerator Testing at Federal Facilities. PHS, NCAPC. December 6, 1967.
 2. Martin, Robert M. Construction Details of Isokinetic Source-Sampling Equipment. Environmental Protection Agency. Research Triangle Park, NC. APTD-0581. April 1971.
@@ -576,12 +569,12 @@ Md = Dry molecular weight of stack gas, lb/lb-mole.
 8. Vollaro, R.F. A Survey of Commercially Available Instrumentation for the Measurement of Low-Range Gas Velocities. U.S. Environmental Protection Agency, Emission Measurement Branch. Research Triangle Park, NC. November 1976 (unpublished paper).
 9. Annual Book of ASTM Standards. Part 26. Gaseous Fuels; Coal and Coke; Atmospheric Analysis. American Society for Testing and Materials. Philadelphia, PA. 1974. pp. 617-622.
 10. Felix, L.G., G.I. Clinard, G.E. Lacy, and J.D. McCain. Inertial Cascade Impactor Substrate Media for Flue Gas Sampling. U.S. Environmental Protection Agency. Research Triangle Park, NC 27711. Publication No. EPA-600/7-77-060. June 1977. 83 pp.
-11. Westlin, P.R. and R.T. Shigehara. Procedure for Calibrating and Using Dry Gas Volume Meters as Calibration Standards. Source Evaluation Society Newsletter. 3(1):17-30. February 1978.
+11. Westlin, P.R. and R.T. Shigehara. Procedure for Calibrating and Using Dry Gas Volume Meters as Calibration Standards. Source Evaluation Society Newsletter. 3 (1):17-30. February 1978.
 12. Lodge, J.P., Jr., J.B. Pate, B.E. Ammons, and G.A. Swanson. The Use of Hypodermic Needles as Critical Orifices in Air Sampling. J. Air Pollution Control Association. 16:197-200. 1966.
 13. Shigehara, Roger T., P.G. Royals, and E.W. Steward. "Alternative Method 5 Post-Test Calibration." Entropy Incorporated, Research Triangle Park, NC 27709.
 18.0 Tables, Diagrams, Flowcharts, and Validation Data
 Table 5-1 Flor Rates for Various needle Sizes and Tube Lengths
-Gauge/cm | Flow rateliters/min. | Gauge/cm | Flow rateliters/min.
+Gauge/cm | Flow rate liters/min. | Gauge/cm | Flow rate liters/min.
 12/7.6 | 32.56 | 14/2.5 | 19.54
 12/10.2 | 30.02 | 14/5.1 | 17.27
 13/2.5 | 25.77 | 14/7.6 | 16.14
@@ -593,28 +586,7 @@ ER17OC00.126
 ER17OC00.127
 ER17OC00.128
 ER17OC00.129
-Plant
-Date
-Run No.
-Filter No.
-Amount liquid lost during transport
-Acetone blank volume, m1
-Acetone blank concentration, mg/mg (Equation 5-4)
-Acetone wash blank, mg (Equation 5-5)
-Container number | Weight of particulate collected, mg | Final weight | Tare weight | Weight gain
-1.
-2.
-Total:
-Less acetone blank
-Weight of particulate matter
-| Volume of liquid water collected | Impinger volume,ml | Silica gel weight,g
-Final
-Initial
-Liquid collected
-Total volume collected | | g* ml
-* Convert weight of water to volume by dividing total weight increase by density of water (1 g/ml).
-Figure 5-6. Analytical Data Sheet
-ER17OC00.147
+ER16FE21.154
 ER17OC00.130
 ER17OC00.131
 ER17OC00.132
@@ -624,9 +596,9 @@ Train ID
 DGM cal. factor
 Critical orifice ID
 Dry gas meter | | Run No. | 1 | 2
-Final reading | m3 (ft3) | |
-Initial reading | m3 (ft3) | |
-Difference, Vm | m3 (ft3) | |
+Final reading | m 3 (ft 3) | |
+Initial reading | m 3 (ft 3) | |
+Difference, V m | m 3 (ft 3) | |
 Inlet/Outlet | | |
 Temperatures: | °C (°F) | / | /
 Initial | °C (°F) | / | /
@@ -635,7 +607,7 @@ Av. Temeperature, t m | min | |
 Time, θ | | |
 Orifice man. rdg., ΔH | mm (in.) H 2 | |
 Bar. pressure, P bar | mm (in.) Hg | |
-Ambient temperature, tamb | mm (in.) Hg | |
+Ambient temperature, t amb | mm (in.) Hg | |
 Pump vacuum | | |
 K′ factor | | |
 Average | | |
@@ -645,21 +617,21 @@ Train ID
 Critical orifice ID
 Critical orifice K' factor
 Dry gas meter | | Run No. | 1 | 2
-Final reading | m3 (ft3) | |
-Initial reading | m3 (ft3) | |
-Difference, Vm | m3 (ft3) | |
+Final reading | m 3 (ft 3) | |
+Initial reading | m 3 (ft 3) | |
+Difference, V m | m 3 (ft 3) | |
 Inlet/outlet temperatures | °C (°F) | / | /
 Initial | °C (°F) | / | /
 Final | °C (°F) | |
-Avg. Temperature, tm | min/sec | / | /
+Avg. Temperature, t m | min/sec | / | /
 Time, θ | min | |
 Orifice man. rdg., ΔH | min | |
-Bar. pressure, Pbar | mm (in.) H2O | |
-Ambient temperature, tamb | mm (in.) Hg | |
+Bar. pressure, P bar | mm (in.) H 2 O | |
+Ambient temperature, t amb | mm (in.) Hg | |
 Pump vacuum | °C (°F) | |
-Vm(std) | mm (in.) Hg | |
-Vcr(std) | m3 (ft3) | |
-DGM cal. factor, Y | m3 (ft3) | |
+V m(std) | mm (in.) Hg | |
+V cr(std) | m 3 (ft 3) | |
+DGM cal. factor, Y | m 3 (ft 3) | |
 Figure 5-12. Data Sheet for Determining DGM Y Factor
 Method 5A—Determination of Particulate Matter Emissions From the Asphalt Processing and Asphalt Roofing Industry
 Note: This method does not include all of the specifications (e.g., equipment and supplies) and procedures (e.g., sampling and analytical) essential to its performance. Some material is incorporated by reference from other methods in this part. Therefore, to obtain reliable results, persons using this method should have a thorough knowledge of at least the following additional test methods: Method 1, Method 2, Method 3, and Method 5.
@@ -732,19 +704,19 @@ Note: In order to facilitate the evaporation of TCE liquid samples, these sample
 12.0 Data Analysis and Calculations
 Carry out calculations, retaining at least one extra significant figure beyond that of the acquired data. Round off figures after the final calculation. Other forms of the equations may be used as long as they give equivalent results.
 12.1 Nomenclature. Same as Method 5, section 12.1, with the following additions:
-Ct = TCE blank residue concentration, mg/g.
-mt = Mass of residue of TCE blank after evaporation, mg.
-Vpc = Volume of water collected in precollector, ml.
-Vt = Volume of TCE blank, ml.
-Vtw = Volume of TCE used in wash, ml.
-Wt = Weight of residue in TCE wash, mg.
-ρt = Density of TCE (see label on bottle), g/ml.
+C t = TCE blank residue concentration, mg/g.
+m t = Mass of residue of TCE blank after evaporation, mg.
+V pc = Volume of water collected in precollector, ml.
+V t = Volume of TCE blank, ml.
+V tw = Volume of TCE used in wash, ml.
+W t = Weight of residue in TCE wash, mg.
+ρ t = Density of TCE (see label on bottle), g/ml.
 12.2 Dry Gas Meter Temperature, Orifice Pressure Drop, and Dry Gas Volume. Same as Method 5, sections 12.2 and 12.3, except use data obtained in performing this test.
 12.3 Volume of Water Vapor.
 ER17OC00.134
 Where:
-K2 = 0.001333 m3/ml for metric units.
-= 0.04706 ft3/ml for English units.
+K 2 = 0.001333 m 3 /ml for metric units.
+= 0.04706 ft 3 /ml for English units.
 12.4 Moisture Content.
 ER17OC00.135
 Note: In saturated or water droplet-laden gas streams, two calculations of the moisture content of the stack gas shall be made, one from the impinger and precollector analysis (Equations 5A-1 and 5A-2) and a second from the assumption of saturated conditions. The lower of the two values of moisture content shall be considered correct. The procedure for determining the moisture content based upon assumption of saturated conditions is given in section 4.0 of Method 4. For the purpose of this method, the average stack gas temperature from Figure 5-3 of Method 5 may be used to make this determination, provided that the accuracy of the in-stack temperature sensor is within 1 °C (2 °F).
@@ -757,7 +729,7 @@ ER17OC00.137
 12.8 PM Concentration.
 ER17OC00.138
 Where:
-K3 = 0.001 g/mg for metric units
+K 3 = 0.001 g/mg for metric units
 = 0.0154 gr/mg for English units
 12.9 Isokinetic Variation. Same as in Method 5, section 12.11.
 13.0 Method Performance [Reserved]
@@ -780,7 +752,7 @@ Container number | Weight of particulate collected, mg | Final weight | Tare wei
 Total:
 Less acetone blank
 Weight of particulate matter
-| Volume of liquid water collected | Impinger volume,ml | Silica gel weight,g
+| Volume of liquid water collected | Impinger volume, ml | Silica gel weight, g
 Final
 Initial
 Liquid collected
@@ -849,7 +821,7 @@ Note: This method does not include all of the specifications (e.g., equipment an
 1.0 Scope and Application
 1.1 Analyte. Particulate matter (PM). No CAS number assigned.
 1.2 Applicability.
-1.2.1 This method is applicable for the determination of PM emissions from positive pressure fabric filters. Emissions are determined in terms of concentration (mg/m3 or gr/ft3) and emission rate (kg/hr or lb/hr).
+1.2.1 This method is applicable for the determination of PM emissions from positive pressure fabric filters. Emissions are determined in terms of concentration (mg/m 3 or gr/ft 3) and emission rate (kg/hr or lb/hr).
 1.2.2 The General Provisions of 40 CFR part 60, § 60.8(e), require that the owner or operator of an affected facility shall provide performance testing facilities. Such performance testing facilities include sampling ports, safe sampling platforms, safe access to sampling sites, and utilities for testing. It is intended that affected facilities also provide sampling locations that meet the specification for adequate stack length and minimal flow disturbances as described in Method 1. Provisions for testing are often overlooked factors in designing fabric filters or are extremely costly. The purpose of this procedure is to identify appropriate alternative locations and procedures for sampling the emissions from positive pressure fabric filters. The requirements that the affected facility owner or operator provide adequate access to performance testing facilities remain in effect.
 1.3 Data Quality Objectives. Adherence to the requirements of this method will enhance the quality of the data obtained from air pollutant sampling methods.
 2.0 Summary of Method
@@ -884,8 +856,8 @@ Same section 8.0 of either Method 5 or Method 17, except replace section 8.2.1 o
 8.2.3.6.3 Example 3: A source with two measurement sites of equal areas may be tested as follows: For each test of three test runs, traverse both measurement sites, using section 8.2.3 in determining the number of traverse points. Alternatively, conduct two full emission test runs for each measurement site using the criteria in section 8.2.1 or 8.2.2 to determine the number of traverse points.
 8.2.3.7 Other test schemes, such as random determination of traverse points for a large number of measurement sites, may be used with prior approval from the Administrator.
 8.3 Velocity Determination.
-8.3.1 The velocities of exhaust gases from positive pressure baghouses are often too low to measure accurately with the type S pitot tube specified in Method 2 (i.e., velocity head <1.3 mm H2O (0.05 in. H2O)). For these conditions, measure the gas flow rate at the fabric filter inlet following the procedures outlined in Method 2. Calculate the average gas velocity at the measurement site as shown in section 12.2 and use this average velocity in determining and maintaining isokinetic sampling rates.
-8.3.2 Velocity determinations to determine and maintain isokinetic rates at measurement sites with gas velocities within the range measurable with the type S pitot tube (i.e., velocity head greater than 1.3 mm H2O (0.05 in. H2O)) shall be conducted according to the procedures outlined in Method 2.
+8.3.1 The velocities of exhaust gases from positive pressure baghouses are often too low to measure accurately with the type S pitot tube specified in Method 2 (i.e., velocity head <1.3 mm H 2 O (0.05 in. H 2 O)). For these conditions, measure the gas flow rate at the fabric filter inlet following the procedures outlined in Method 2. Calculate the average gas velocity at the measurement site as shown in section 12.2 and use this average velocity in determining and maintaining isokinetic sampling rates.
+8.3.2 Velocity determinations to determine and maintain isokinetic rates at measurement sites with gas velocities within the range measurable with the type S pitot tube (i.e., velocity head greater than 1.3 mm H 2 O (0.05 in. H 2 O)) shall be conducted according to the procedures outlined in Method 2.
 8.4 Sampling. Follow the procedures specified in sections 8.1 through 8.6 of Method 5 or sections 8.1 through 8.25 in Method 17 with the exceptions as noted above.
 8.5 Sample Recovery. Follow the procedures specified in section 8.7 of Method 5 or section 8.2 of Method 17.
 9.0 Quality Control
@@ -900,16 +872,16 @@ Same as section 11.0 of either Method 5 or Method 17.
 12.0 Data Analysis and Calculations
 Same as section 12.0 of either Method 5 or Method 17 with the following exceptions:
 12.1 Nomenclature.
-Ao = Measurement site(s) total cross-sectional area, m2 (ft2).
-C or Cavg = Average concentration of PM for all n runs, mg/scm (gr/scf).
-Qi = Inlet gas volume flow rate, m3/sec (ft3/sec).
-mi = Mass collected for run i of n, mg (gr).
-To = Average temperature of gas at measurement site, °K (°R).
-Ti = Average temperature of gas at inlet, °K (°R).
-Voli = Sample volume collected for run i of n, scm (scf).
+A o = Measurement site(s) total cross-sectional area, m 2 (ft 2).
+C or C avg = Average concentration of PM for all n runs, mg/scm (gr/scf).
+Q i = Inlet gas volume flow rate, m 3 /sec (ft 3 /sec).
+m i = Mass collected for run i of n, mg (gr).
+T o = Average temperature of gas at measurement site, °K (°R).
+T i = Average temperature of gas at inlet, °K (°R).
+Vol i = Sample volume collected for run i of n, scm (scf).
 v = Average gas velocity at the measurement site(s), m/s (ft/s)
-Qo = Total baghouse exhaust volumetric flow rate, m3/sec (ft3/sec).
-Qd = Dilution air flow rate, m3/sec (ft3/sec).
+Q o = Total baghouse exhaust volumetric flow rate, m 3 /sec (ft 3 /sec).
+Q d = Dilution air flow rate, m 3 /sec (ft 3 /sec).
 Tamb = Ambient Temperature, (°K).
 12.2 Average Gas Velocity. When following section 8.3.1, calculate the average gas velocity at the measurement site as follows:
 ER17OC00.140
@@ -958,14 +930,14 @@ Particulate matter is withdrawn isokinetically from the source and is collected 
 Unless otherwise indicated, it is intended that all reagents conform to the specifications established by the Committee on Analytical Reagents of the American Chemical Society, where such specifications are available; otherwise, use the best available grade.
 7.1 Sample Collection. Same as Method 5, section 7.1, with the addition of 0.1 N NaOH (Dissolve 4 g of NaOH in water and dilute to 1 liter).
 7.2 Sample Recovery. Same as Method 5, section 7.2, with the addition of the following:
-7.2.1 Water. Deionized distilled to conform to ASTM Specification D 1193-77 or 91 Type 3 (incorporated by reference—see § 60.17). The potassium permanganate (KMnO4) test for oxidizable organic matter may be omitted when high concentrations of organic matter are not expected to be present.
+7.2.1 Water. Deionized distilled to conform to ASTM Specification D 1193-77 or 91 Type 3 (incorporated by reference—see § 60.17). The potassium permanganate (KMnO 4) test for oxidizable organic matter may be omitted when high concentrations of organic matter are not expected to be present.
 7.2.2 Sodium Hydroxide. Same as described in section 7.1.
 7.3 Sample Analysis. Same as Method 5, section 7.3, with the addition of the following:
 7.3.1 Carbon Dioxide-Free Water. Distilled or deionized water that has been freshly boiled for 15 minutes and cooled to room temperature while preventing exposure to ambient air by using a cover vented with an Ascarite tube.
 7.3.2 Hydrochloric Acid. HCl, concentrated, with a dropper.
-7.3.3 Organic Carbon Stock Solution. Dissolve 2.1254 g of dried potassium biphthalate (HOOCC6H4COOK) in CO2-free water, and dilute to 1 liter in a volumetric flask. This solution contains 1000 mg/L organic carbon.
-7.3.4 Inorganic Carbon Stock Solution. Dissolve 4.404 g anhydrous sodium carbonate (Na2CO3.) in about 500 ml of CO2-free water in a 1-liter volumetric flask. Add 3.497 g anhydrous sodium bicarbonate (NaHCO3) to the flask, and dilute to 1 liter with CO2 -free water. This solution contains 1000 mg/L inorganic carbon.
-7.3.5 Oxygen Gas. CO2 -free.
+7.3.3 Organic Carbon Stock Solution. Dissolve 2.1254 g of dried potassium biphthalate (HOOCC 6 H 4 COOK) in CO 2 -free water, and dilute to 1 liter in a volumetric flask. This solution contains 1000 mg/L organic carbon.
+7.3.4 Inorganic Carbon Stock Solution. Dissolve 4.404 g anhydrous sodium carbonate (Na 2 CO 3.) in about 500 ml of CO 2 -free water in a 1-liter volumetric flask. Add 3.497 g anhydrous sodium bicarbonate (NaHCO 3) to the flask, and dilute to 1 liter with CO 2 -free water. This solution contains 1000 mg/L inorganic carbon.
+7.3.5 Oxygen Gas. CO 2 -free.
 8.0 Sample Collection, Preservation, Storage, and Transport
 8.1 Pretest Preparation and Preliminary Determinations. Same as Method 5, sections 8.1 and 8.2, respectively.
 8.2 Preparation of Sampling Train. Same as Method 5, section 8.3, except that 0.1 N NaOH is used in place of water in the impingers. The volumes of the solutions are the same as in Method 5.
@@ -989,7 +961,7 @@ Section | Quality control measure | Effect
 10.0 Calibration and Standardization
 Same as Method 5, section 10.0, with the addition of the following procedures for calibrating the total organic carbon analyzer:
 10.1 Preparation of Organic Carbon Standard Curve.
-10.1.1 Add 10 ml, 20 ml, 30 ml, 40 ml, and 50 ml of the organic carbon stock solution to a series of five 1000-ml volumetric flasks. Add 30 ml, 40 ml, and 50 ml of the same solution to a series of three 500-ml volumetric flasks. Dilute the contents of each flask to the mark using CO2-free water. These flasks contain 10, 20, 30, 40, 50, 60, 80, and 100 mg/L organic carbon, respectively.
+10.1.1 Add 10 ml, 20 ml, 30 ml, 40 ml, and 50 ml of the organic carbon stock solution to a series of five 1000-ml volumetric flasks. Add 30 ml, 40 ml, and 50 ml of the same solution to a series of three 500-ml volumetric flasks. Dilute the contents of each flask to the mark using CO 2 -free water. These flasks contain 10, 20, 30, 40, 50, 60, 80, and 100 mg/L organic carbon, respectively.
 10.1.2 Use a hypodermic syringe to withdraw a 20- to 50-µl aliquot from the 10 mg/L standard solution and inject it into the total carbon port of the analyzer. Measure the peak height. Repeat the injections until three consecutive peaks are obtained within 10 percent of their arithmetic mean. Repeat this procedure for the remaining organic carbon standard solutions.
 10.1.3 Calculate the corrected peak height for each standard by deducting the blank correction (see section 11.2.5.3) as follows:
 ER17OC00.146
@@ -1006,22 +978,22 @@ B = Peak height of blank, mm or other appropriate unit.
 11.2.3 Container No. 4. Same as Method 5, section 11.2.3.
 11.2.4 "Water Blank" and "Acetone Blank" Containers. Determine the water and acetone blank values following the procedures for the "Acetone Blank" container in section 11.2.4 of Method 5. Evaporate the samples at ambient temperature (20 ±6 °C (68 ±10 °F)) and pressure.
 11.2.5 Container No. 5. For the determination of total organic carbon, perform two analyses on successive identical samples, i.e., total carbon and inorganic carbon. The desired quantity is the difference between the two values obtained. Both analyses are based on conversion of sample carbon into carbon dioxide for measurement by a nondispersive infrared analyzer. Results of analyses register as peaks on a strip chart recorder.
-11.2.5.1 The principal differences between the operating parameters for the two channels involve the combustion tube packing material and temperature. In the total carbon channel, a high temperature (950 °C (1740 °F)) furnace heats a Hastelloy combustion tube packed with cobalt oxide-impregnated asbestos fiber. The oxygen in the carrier gas, the elevated temperature, and the catalytic effect of the packing result in oxidation of both organic and inorganic carbonaceous material to CO2, and steam. In the inorganic carbon channel, a low temperature (150 °C (300 °F)) furnace heats a glass tube containing quartz chips wetted with 85 percent phosphoric acid. The acid liberates CO2 and steam from inorganic carbonates. The operating temperature is below that required to oxidize organic matter. Follow the manufacturer's instructions for assembly, testing, calibration, and operation of the analyzer.
+11.2.5.1 The principal differences between the operating parameters for the two channels involve the combustion tube packing material and temperature. In the total carbon channel, a high temperature (950 °C (1740 °F)) furnace heats a Hastelloy combustion tube packed with cobalt oxide-impregnated asbestos fiber. The oxygen in the carrier gas, the elevated temperature, and the catalytic effect of the packing result in oxidation of both organic and inorganic carbonaceous material to CO 2, and steam. In the inorganic carbon channel, a low temperature (150 °C (300 °F)) furnace heats a glass tube containing quartz chips wetted with 85 percent phosphoric acid. The acid liberates CO 2 and steam from inorganic carbonates. The operating temperature is below that required to oxidize organic matter. Follow the manufacturer's instructions for assembly, testing, calibration, and operation of the analyzer.
 11.2.5.2 As samples collected in 0.1 N NaOH often contain a high measure of inorganic carbon that inhibits repeatable determinations of TOC, sample pretreatment is necessary. Measure and record the liquid volume of each sample (or impinger contents). If the sample contains solids or immiscible liquid matter, homogenize the sample with a blender or ultrasonics until satisfactory repeatability is obtained. Transfer a representative portion of 10 to 15 ml to a 30-ml beaker, and acidify with about 2 drops of concentrated HCl to a pH of 2 or less. Warm the acidified sample at 50 °C (120 °F) in a water bath for 15 minutes.
 11.2.5.3 While stirring the sample with a magnetic stirrer, use a hypodermic syringe to withdraw a 20-to 50-µ1 aliquot from the beaker. Analyze the sample for total carbon and calculate its corrected mean peak height according to the procedures outlined in sections 10.1.2 and 10.1.3. Similarly analyze an aliquot of the sample for inorganic carbon. Repeat the analyses for all the samples and for the 0.1 N NaOH blank.
-11.2.5.4 Ascertain the total carbon and inorganic carbon concentrations (CTC and CIC, respectively) of each sample and blank by comparing the corrected mean peak heights for each sample and blank to the appropriate standard curve.
+11.2.5.4 Ascertain the total carbon and inorganic carbon concentrations (C TC and C IC, respectively) of each sample and blank by comparing the corrected mean peak heights for each sample and blank to the appropriate standard curve.
 Note: If samples must be diluted for analysis, apply an appropriate dilution factor.
 12.0 Data Analysis and Calculations
 Same as Method 5, section 12.0, with the addition of the following:
 12.1 Nomenclature.
-Cc = Concentration of condensed particulate matter in stack gas, gas dry basis, corrected to standard conditions, g/dscm (gr/dscf).
-CIC = Concentration of condensed TOC in the liquid sample, from section 11.2.5, mg/L.
-Ct = Total particulate concentration, dry basis, corrected to standard conditions, g/dscm (gr/dscf).
-CTC = Concentration of condensed TOC in the liquid sample, from section 11.2.5, mg/L.
-CTOC = Concentration of condensed TOC in the liquid sample, mg/L.
-mTOC = Mass of condensed TOC collected in the impingers, mg.
-Vm(std) = Volume of gas sample measured by the dry gas meter, corrected to standard conditions, from section 12.3 of Method 5, dscm (dscf).
-Vs = Total volume of liquid sample, ml.
+C c = Concentration of condensed particulate matter in stack gas, gas dry basis, corrected to standard conditions, g/dscm (gr/dscf).
+C IC = Concentration of condensed TOC in the liquid sample, from section 11.2.5, mg/L.
+C t = Total particulate concentration, dry basis, corrected to standard conditions, g/dscm (gr/dscf).
+C TC = Concentration of condensed TOC in the liquid sample, from section 11.2.5, mg/L.
+C TOC = Concentration of condensed TOC in the liquid sample, mg/L.
+m TOC = Mass of condensed TOC collected in the impingers, mg.
+V m(std) = Volume of gas sample measured by the dry gas meter, corrected to standard conditions, from section 12.3 of Method 5, dscm (dscf).
+V s = Total volume of liquid sample, ml.
 12.2 Concentration of Condensed TOC in Liquid Sample.
 ER17OC00.148
 12.3 Mass of Condensed TOC Collected.
@@ -1031,7 +1003,7 @@ Where:
 12.4 Concentration of Condensed Particulate Material.
 ER17OC00.150
 Where:
-K4 = 0.001 g/mg for metric units.
+K 4 = 0.001 g/mg for metric units.
 = 0.0154 gr/mg for English units.
 12.5 Total Particulate Concentration.
 ER17OC00.151
@@ -1051,7 +1023,7 @@ Note: This method does not include all of the specifications (e.g., equipment an
 1.2 Applicability. This method is applicable for the determination of nonsulfate PM emissions from stationary sources. Use of this method must be specified by an applicable subpart of the standards, or approved by the Administrator for a particular application.
 1.3 Data Quality Objectives. Adherence to the requirements of this method will enhance the quality of the data obtained from air pollutant sampling methods.
 2.0 Summary of Method
-Particulate matter is withdrawn isokinetically from the source and collected on a filter maintained at a temperature in the range 160 ±14 °C (320 ±25 °F). The collected sample is extracted with water. A portion of the extract is analyzed for sulfate content by ion chromatography. The remainder is neutralized with ammonium hydroxide (NH4OH), dried, and weighed. The weight of sulfate in the sample is calculated as ammonium sulfate ((NH4)2SO4), and is subtracted from the total particulate weight; the result is reported as nonsulfate particulate matter.
+Particulate matter is withdrawn isokinetically from the source and collected on a filter maintained at a temperature in the range 160 ±14 °C (320 ±25 °F). The collected sample is extracted with water. A portion of the extract is analyzed for sulfate content by ion chromatography. The remainder is neutralized with ammonium hydroxide (NH 4 OH), dried, and weighed. The weight of sulfate in the sample is calculated as ammonium sulfate ((NH 4) 2 SO 4), and is subtracted from the total particulate weight; the result is reported as nonsulfate particulate matter.
 3.0 Definitions [Reserved]
 4.0 Interferences [Reserved]
 5.0 Safety
@@ -1074,12 +1046,12 @@ Particulate matter is withdrawn isokinetically from the source and collected on 
 Unless otherwise indicated, it is intended that all reagents conform to the specifications established by the Committee on Analytical Reagents of the American Chemical Society, where such specifications are available; otherwise, use the best available grade.
 7.1 Sample Collection. Same as Method 5, section 7.1.
 7.2 Sample Recovery. Same as Method 5, section 7.2, with the addition of the following:
-7.2.1 Water. Deionized distilled, to conform to ASTM D 1193-77 or 91 Type 3 (incorporated by reference—see § 60.17). The potassium permanganate (KMnO4) test for oxidizable organic matter may be omitted when high concentrations of organic matter are not expected to be present.
+7.2.1 Water. Deionized distilled, to conform to ASTM D 1193-77 or 91 Type 3 (incorporated by reference—see § 60.17). The potassium permanganate (KMnO 4) test for oxidizable organic matter may be omitted when high concentrations of organic matter are not expected to be present.
 7.3 Analysis. Same as Method 5, section 7.3, with the addition of the following:
 7.3.1 Water. Same as in section 7.2.1.
-7.3.2 Stock Standard Solution, 1 mg (NH4)2SO4/ml. Dry an adequate amount of primary standard grade ammonium sulfate ((NH4)2SO4) at 105 to 110 °C (220 to 230 °F) for a minimum of 2 hours before preparing the standard solution. Then dissolve exactly 1.000 g of dried (NH4)2SO4 in water in a 1-liter volumetric flask, and dilute to 1 liter. Mix well.
-7.3.3 Working Standard Solution, 25 µg (NH4)2SO4/ml. Pipet 5 ml of the stock standard solution into a 200-ml volumetric flask. Dilute to 200 ml with water.
-7.3.4 Eluent Solution. Weigh 1.018 g of sodium carbonate (Na2CO3) and 1.008 g of sodium bicarbonate (NaHCO3), and dissolve in 4 liters of water. This solution is 0.0024 M Na2CO3/0.003 M NaHCO3. Other eluents appropriate to the column type and capable of resolving sulfate ion from other species present may be used.
+7.3.2 Stock Standard Solution, 1 mg (NH 4) 2 SO 4 /ml. Dry an adequate amount of primary standard grade ammonium sulfate ((NH 4) 2 SO 4) at 105 to 110 °C (220 to 230 °F) for a minimum of 2 hours before preparing the standard solution. Then dissolve exactly 1.000 g of dried (NH 4) 2 SO 4 in water in a 1-liter volumetric flask, and dilute to 1 liter. Mix well.
+7.3.3 Working Standard Solution, 25 µg (NH 4) 2 SO 4 /ml. Pipet 5 ml of the stock standard solution into a 200-ml volumetric flask. Dilute to 200 ml with water.
+7.3.4 Eluent Solution. Weigh 1.018 g of sodium carbonate (Na 2 CO 3) and 1.008 g of sodium bicarbonate (NaHCO 3), and dissolve in 4 liters of water. This solution is 0.0024 M Na 2 CO 3 /0.003 M NaHCO 3. Other eluents appropriate to the column type and capable of resolving sulfate ion from other species present may be used.
 7.3.5 Ammonium Hydroxide. Concentrated, 14.8 M.
 7.3.6 Phenolphthalein Indicator. 3,3-Bis(4-hydroxyphenyl)-1-(3H)-isobenzo-furanone. Dissolve 0.05 g in 50 ml of ethanol and 50 ml of water.
 8.0 Sample Collection, Preservation, Storage, and Transport
@@ -1103,7 +1075,7 @@ Same as Method 5, section 10.0, with the addition of the following:
 11.1.3 Transfer the probe rinse to the same 500-ml volumetric flask with the filter sample. Rinse the sample bottle with water, and add the rinsings to the volumetric flask. Dilute the contents of the flask to the mark with water.
 11.1.4 Allow the contents of the flask to settle until all solid material is at the bottom of the flask. If necessary, remove and centrifuge a portion of the sample.
 11.1.5 Repeat the procedures outlined in sections 11.1.1 through 11.1.4 for each sample and for the filter blank.
-11.2 Sulfate (SO4) Analysis.
+11.2 Sulfate (SO 4) Analysis.
 11.2.1 Prepare a standard calibration curve according to the procedures outlined in section 10.1.
 11.2.2 Pipet 5 ml of the sample into a 50-ml volumetric flask, and dilute to 50 ml with water. (Alternatively, eluent solution may be used instead of water in all sample, standard, and blank dilutions.) Analyze the set of standards followed by the set of samples, including the filter blank, using the same injection volume used for the standards.
 11.2.3 Repeat the analyses of the standards and the samples, with the standard set being done last. The two peak height or peak area responses for each sample must agree within 5 percent of their arithmetic mean for the analysis to be valid. Perform this analysis sequence on the same day. Dilute any sample and the blank with equal volumes of water if the concentration exceeds that of the highest standard.
@@ -1114,19 +1086,19 @@ Same as Method 5, section 10.0, with the addition of the following:
 12.0 Data Analysis and Calculations
 Same as Method 5, section 12.0, with the addition of the following:
 12.1 Nomenclature.
-CW = Water blank residue concentration, mg/ml.
+C W = Water blank residue concentration, mg/ml.
 F = Dilution factor (required only if sample dilution was needed to reduce the concentration into the range of calibration).
-HS = Arithmetic mean response of duplicate sample analyses, mm for height or mm2 for area.
-Hb = Arithmetic mean response of duplicate filter blank analyses, mm for height or mm2 for area.
-mb = Mass of beaker used to dry sample, mg.
-mf = Mass of sample filter, mg.
-mn = Mass of nonsulfate particulate matter in the sample as collected, mg.
-ms = Mass of ammonium sulfate in the sample as collected, mg.
-mt = Mass of beaker, filter, and dried sample, mg.
-mw = Mass of residue after evaporation of water blank, mg.
+H S = Arithmetic mean response of duplicate sample analyses, mm for height or mm2 for area.
+H b = Arithmetic mean response of duplicate filter blank analyses, mm for height or mm2 for area.
+m b = Mass of beaker used to dry sample, mg.
+m f = Mass of sample filter, mg.
+m n = Mass of nonsulfate particulate matter in the sample as collected, mg.
+m s = Mass of ammonium sulfate in the sample as collected, mg.
+m t = Mass of beaker, filter, and dried sample, mg.
+m w = Mass of residue after evaporation of water blank, mg.
 S = Calibration factor, µg/mm.
-Vb = Volume of water blank, ml.
-VS = Volume of sample collected, 500 ml.
+V b = Volume of water blank, ml.
+V S = Volume of sample collected, 500 ml.
 12.2 Water Blank Concentration.
 ER17OC00.152
 12.3 Mass of Ammonium Sulfate.
@@ -1170,22 +1142,22 @@ Note: Protect the 0.0100 N barium perchlorate solution from evaporation at all t
 16.1.4 Calibration. Calibrate the barium perchlorate solutions as in Method 6, section 10.5.
 16.1.5 Calculations.
 16.1.5.1 Nomenclature. Same as section 12.1 with the following additions:
-ma = Mass of clean analytical filter, mg.
-md = Mass of dissolved particulate matter, mg.
-me = Mass of beaker and dissolved particulate matter after evaporation of filtrate, mg.
-mp = Mass of insoluble particulate matter, mg.
-mr = Mass of analytical filter, sample filter, and insoluble particulate matter, mg.
-mbk = Mass of nonsulfate particulate matter in blank sample, mg.
-mn = Mass of nonsulfate particulate matter, mg.
-ms = Mass of Ammonium sulfate, mg.
-N = Normality of Ba(ClO4) titrant, meq/ml.
-Va = Volume of aliquot taken for titration, 20 ml.
-Vc = Volume of titrant used for titration blank, ml.
-Vd = Volume of filtrate evaporated, 200 ml.
-Ve = Volume of eluate collected, 50 ml.
-Vf = Volume of extracted sample, 500 ml.
-Vi = Volume of filtrate added to ion exchange column, 20 ml.
-Vt = Volume of Ba(C104)2 titrant, ml.
+m a = Mass of clean analytical filter, mg.
+m d = Mass of dissolved particulate matter, mg.
+m e = Mass of beaker and dissolved particulate matter after evaporation of filtrate, mg.
+m p = Mass of insoluble particulate matter, mg.
+m r = Mass of analytical filter, sample filter, and insoluble particulate matter, mg.
+m bk = Mass of nonsulfate particulate matter in blank sample, mg.
+m n = Mass of nonsulfate particulate matter, mg.
+m s = Mass of Ammonium sulfate, mg.
+N = Normality of Ba(ClO 4) titrant, meq/ml.
+V a = Volume of aliquot taken for titration, 20 ml.
+V c = Volume of titrant used for titration blank, ml.
+V d = Volume of filtrate evaporated, 200 ml.
+V e = Volume of eluate collected, 50 ml.
+V f = Volume of extracted sample, 500 ml.
+V i = Volume of filtrate added to ion exchange column, 20 ml.
+V t = Volume of Ba(C10 4) 2 titrant, ml.
 W = Equivalent weight of ammonium sulfate, 66.07 mg/meq.
 16.1.5.2 Mass of Insoluble Particulate Matter.
 ER17OC00.155
@@ -1200,7 +1172,7 @@ Same as Method 5, section 17.0, with the addition of the following:
 1. Mulik, J.D. and E. Sawicki. Ion Chromatographic Analysis of Environmental Pollutants. Ann Arbor, Ann Arbor Science Publishers, Inc. Vol. 2, 1979.
 2. Sawicki, E., J.D. Mulik, and E. Wittgenstein. Ion Chromatographic Analysis of Environmental Pollutants. Ann Arbor, Ann Arbor Science Publishers, Inc. Vol. 1. 1978.
 3. Siemer, D.D. Separation of Chloride and Bromide from Complex Matrices Prior to Ion Chromatographic Determination. Analytical Chemistry 52(12): 1874-1877. October 1980.
-4. Small, H., T.S. Stevens, and W.C. Bauman. Novel Ion Exchange Chromatographic Method Using Conductimetric Determination. Analytical Chemistry. 47(11):1801. 1975.
+4. Small, H., T.S. Stevens, and W.C. Bauman. Novel Ion Exchange Chromatographic Method Using Conductimetric Determination. Analytical Chemistry. 47 (11):1801. 1975.
 18.0 Tables, Diagrams, Flowcharts, and Validation Data [Reserved]
 Method 5G—Determination of Particulate Matter Emissions From Wood Heaters (Dilution Tunnel Sampling Location)
 Note: This method does not include all of the specifications (e.g., equipment and supplies) and procedures (e.g., sampling and analytical) essential to its performance. Some material is incorporated by reference from other methods in this part. Therefore, to obtain reliable results, persons using this method should have a thorough knowledge of at least the following additional test methods: Method 1, Method 2, Method 3, Method 4, Method 5, Method 5H, and Method 28.
@@ -1210,7 +1182,7 @@ Note: This method does not include all of the specifications (e.g., equipment an
 1.3 Data Quality Objectives. Adherence to the requirements of this method will enhance the quality of the data obtained from air pollutant sampling methods.
 2.0 Summary of Method
 2.1 The exhaust from a wood heater is collected with a total collection hood, and is combined with ambient dilution air. Particulate matter is withdrawn proportionally from a single point in a sampling tunnel, and is collected on two glass fiber filters in series. The filters are maintained at a temperature of no greater than 32 °C (90 °F). The particulate mass is determined gravimetrically after the removal of uncombined water.
-2.2 There are three sampling train approaches described in this method: (1) One dual-filter dry sampling train operated at about 0.015 m3/min (0.5 cfm), (2) One dual-filter plus impingers sampling train operated at about 0.015 m3/min (0.5 cfm), and (3) two dual-filter dry sampling trains operated simultaneously at any flow rate. Options (2) and (3) are referenced in section 16.0 of this method. The dual-filter dry sampling train equipment and operation, option (1), are described in detail in this method.
+2.2 There are three sampling train approaches described in this method: (1) One dual-filter dry sampling train operated at about 0.015 m 3 /min (0.5 cfm), (2) One dual-filter plus impingers sampling train operated at about 0.015 m 3 /min (0.5 cfm), and (3) two dual-filter dry sampling trains operated simultaneously at any flow rate. Options (2) and (3) are referenced in section 16.0 of this method. The dual-filter dry sampling train equipment and operation, option (1), are described in detail in this method.
 3.0 Definitions [Reserved]
 4.0 Interferences [Reserved]
 5.0 Safety
@@ -1244,7 +1216,7 @@ Note: This method does not include all of the specifications (e.g., equipment an
 7.3.2 Desiccant. Anhydrous calcium sulfate, calcium chloride, or silica gel, indicating type.
 8.0 Sample Collection, Preservation, Transport, and Storage
 8.1 Dilution Tunnel Assembly and Cleaning. A schematic of a dilution tunnel is shown in Figure 5G-2. The dilution tunnel dimensions and other features are described in section 6.1.4. Assemble the dilution tunnel, sealing joints and seams to prevent air leakage. Clean the dilution tunnel with an appropriately sized wire chimney brush before each certification test.
-8.2 Draft Determination. Prepare the wood heater as in Method 28, section 6.2.1. Locate the dilution tunnel hood centrally over the wood heater stack exhaust. Operate the dilution tunnel blower at the flow rate to be used during the test run. Measure the draft imposed on the wood heater by the dilution tunnel (i.e., the difference in draft measured with and without the dilution tunnel operating) as described in Method 28, section 6.2.3. Adjust the distance between the top of the wood heater stack exhaust and the dilution tunnel hood so that the dilution tunnel induced draft is less than 1.25 Pa (0.005 in. H2O). Have no fire in the wood heater, close the wood heater doors, and open fully the air supply controls during this check and adjustment.
+8.2 Draft Determination. Prepare the wood heater as in Method 28, section 6.2.1. Locate the dilution tunnel hood centrally over the wood heater stack exhaust. Operate the dilution tunnel blower at the flow rate to be used during the test run. Measure the draft imposed on the wood heater by the dilution tunnel (i.e., the difference in draft measured with and without the dilution tunnel operating) as described in Method 28, section 6.2.3. Adjust the distance between the top of the wood heater stack exhaust and the dilution tunnel hood so that the dilution tunnel induced draft is less than 1.25 Pa (0.005 in. H 2 O). Have no fire in the wood heater, close the wood heater doors, and open fully the air supply controls during this check and adjustment.
 8.3 Pretest Ignition. Same as Method 28, section 8.7.
 8.4 Smoke Capture. During the pretest ignition period, operate the dilution tunnel and visually monitor the wood heater stack exhaust. Operate the wood heater with the doors closed and determine that 100 percent of the exhaust gas is collected by the dilution tunnel hood. If less than 100 percent of the wood heater exhaust gas is collected, adjust the distance between the wood heater stack and the dilution tunnel hood until no visible exhaust gas is escaping. Stop the pretest ignition period, and repeat the draft determination procedure described in section 8.2.
 8.5 Velocity Measurements. During the pretest ignition period, conduct a velocity traverse to identify the point of average velocity. This single point shall be used for measuring velocity during the test run.
@@ -1261,7 +1233,7 @@ Mark the probe with heat resistant tape or by some other method to denote the pr
 8.8.3 Post-Test Leak-Check. A leak-check of the sampling train is mandatory at the conclusion of each test run. The leak-check shall be performed in accordance with the procedures outlined in Method 5, section 8.4.2. A vacuum of 130 mm Hg (5 in. Hg) or the highest vacuum measured during the test run, whichever is greater, may be used instead of 380 mm Hg (15 in. Hg).
 8.9 Preliminary Determinations. Determine the pressure, temperature and the average velocity of the tunnel gases as in section 8.5. Moisture content of diluted tunnel gases is assumed to be 4 percent for making flow rate calculations; the moisture content may be measured directly as in Method 4.
 8.10 Sampling Train Operation. Position the probe inlet at the stack centroid, and block off the openings around the probe and porthole to prevent unrepresentative dilution of the gas stream. Be careful not to bump the probe into the stack wall when removing or inserting the probe through the porthole; this minimizes the chance of extracting deposited material.
-8.10.1 Begin sampling at the start of the test run as defined in Method 28, section 8.8.1. During the test run, maintain a sample flow rate proportional to the dilution tunnel flow rate (within 10 percent of the initial proportionality ratio) and a filter holder temperature of no greater than 32 °C (90 °F). The initial sample flow rate shall be approximately 0.015 m3/min (0.5 cfm).
+8.10.1 Begin sampling at the start of the test run as defined in Method 28, section 8.8.1. During the test run, maintain a sample flow rate proportional to the dilution tunnel flow rate (within 10 percent of the initial proportionality ratio) and a filter holder temperature of no greater than 32 °C (90 °F). The initial sample flow rate shall be approximately 0.015 m 3 /min (0.5 cfm).
 8.10.2 For each test run, record the data required on a data sheet such as the one shown in Figure 5G-3. Be sure to record the initial dry gas meter reading. Record the dry gas meter readings at the beginning and end of each sampling time increment and when sampling is halted. Take other readings as indicated on Figure 5G-3 at least once each 10 minutes during the test run. Since the manometer level and zero may drift because of vibrations and temperature changes, make periodic checks during the test run.
 8.10.3 For the purposes of proportional sampling rate determinations, data from calibrated flow rate devices, such as glass rotameters, may be used in lieu of incremental dry gas meter readings. Proportional rate calculation procedures must be revised, but acceptability limits remain the same.
 8.10.4 During the test run, make periodic adjustments to keep the temperature between (or upstream of) the filters at the proper level. Do not change sampling trains during the test run.
@@ -1288,7 +1260,7 @@ Section | Quality control measure | Effect
 Note: Maintain a laboratory record of all calibrations.
 10.1 Pitot Tube. The Type S pitot tube assembly shall be calibrated according to the procedure outlined in Method 2, section 10.1, prior to the first certification test and checked semiannually, thereafter. A standard pitot need not be calibrated but shall be inspected and cleaned, if necessary, prior to each certification test.
 10.2 Volume Metering System.
-10.2.1 Initial and Periodic Calibration. Before its initial use and at least semiannually thereafter, calibrate the volume metering system as described in Method 5, section 10.3.1, except that the wet test meter with a capacity of 3.0 liters/rev (0.1 ft3/rev) may be used. Other liquid displacement systems accurate to within ±1 percent, may be used as calibration standards.
+10.2.1 Initial and Periodic Calibration. Before its initial use and at least semiannually thereafter, calibrate the volume metering system as described in Method 5, section 10.3.1, except that the wet test meter with a capacity of 3.0 liters/rev (0.1 ft 3 /rev) may be used. Other liquid displacement systems accurate to within ±1 percent, may be used as calibration standards.
 Note: Procedures and equipment specified in Method 5, section 16.0, for alternative calibration standards, including calibrated dry gas meters and critical orifices, are allowed for calibrating the dry gas meter in the sampling train. A dry gas meter used as a calibration standard shall be recalibrated at least once annually.
 10.2.2 Calibration After Use. After each certification or audit test (four or more test runs conducted on a wood heater at the four burn rates specified in Method 28), check calibration of the metering system by performing three calibration runs at a single, intermediate flow rate as described in Method 5, section 10.3.2.
 Note: Procedures and equipment specified in Method 5, section 16.0, for alternative calibration standards are allowed for the post-test dry gas meter calibration check.
@@ -1305,35 +1277,35 @@ Note: Procedures and equipment specified in Method 5, section 16.0, for alternat
 12.0 Data Analysis and Calculations
 Carry out calculations, retaining at least one extra significant figure beyond that of the acquired data. Round off figures after the final calculation. Other forms of the equations may be used as long as they give equivalent results.
 12.1 Nomenclature.
-Bws = Water vapor in the gas stream, proportion by volume (assumed to be 0.04).
-cs = Concentration of particulate matter in stack gas, dry basis, corrected to standard conditions, g/dscm (gr/dscf).
+B ws = Water vapor in the gas stream, proportion by volume (assumed to be 0.04).
+c s = Concentration of particulate matter in stack gas, dry basis, corrected to standard conditions, g/dscm (gr/dscf).
 E = Particulate emission rate, g/hr (lb/hr).
-Eadj = Adjusted particulate emission rate, g/hr (lb/hr).
-La = Maximum acceptable leakage rate for either a pretest or post-test leak-check, equal to 0.00057 m3/min (0.020 cfm) or 4 percent of the average sampling rate, whichever is less.
-Lp = Leakage rate observed during the post-test leak-check, m3/min (cfm).
-ma = Mass of residue of acetone blank after evaporation, mg.
-maw = Mass of residue from acetone wash after evaporation, mg.
-mn = Total amount of particulate matter collected, mg.
-Mw = Molecular weight of water, 18.0 g/g-mole (18.0 lb/lb-mole).
-Pbar = Barometric pressure at the sampling site, mm Hg (in. Hg).
+E adj = Adjusted particulate emission rate, g/hr (lb/hr).
+L a = Maximum acceptable leakage rate for either a pretest or post-test leak-check, equal to 0.00057 m 3 /min (0.020 cfm) or 4 percent of the average sampling rate, whichever is less.
+L p = Leakage rate observed during the post-test leak-check, m 3 /min (cfm).
+m a = Mass of residue of acetone blank after evaporation, mg.
+m aw = Mass of residue from acetone wash after evaporation, mg.
+m n = Total amount of particulate matter collected, mg.
+M w = Molecular weight of water, 18.0 g/g-mole (18.0 lb/lb-mole).
+P bar = Barometric pressure at the sampling site, mm Hg (in. Hg).
 PR = Percent of proportional sampling rate.
-Ps = Absolute gas pressure in dilution tunnel, mm Hg (in. Hg).
-Pstd = Standard absolute pressure, 760 mm Hg (29.92 in. Hg).
-Qsd = Average gas flow rate in dilution tunnel, calculated as in Method 2, Equation 2-8, dscm/hr (dscf/hr).
-Tm = Absolute average dry gas meter temperature (see Figure 5G-3), °K (°R).
-Tmi = Absolute average dry gas meter temperature during each 10-minute interval, i, of the test run, °K (°R).
-Ts = Absolute average gas temperature in the dilution tunnel (see Figure 5G-3), °K (°R).
-Tsi = Absolute average gas temperature in the dilution tunnel during each 10 minute interval, i, of the test run, °K (°R).
-Tstd = Standard absolute temperature, 293 °K (528 °R).
-Va = Volume of acetone blank, ml.
-Vaw = Volume of acetone used in wash, ml.
-Vm = Volume of gas sample as measured by dry gas meter, dcm (dcf).
-Vmi = Volume of gas sample as measured by dry gas meter during each 10-minute interval, i, of the test run, dcm.
-Vm(std) = Volume of gas sample measured by the dry gas meter, corrected to standard conditions, dscm (dscf).
-Vs = Average gas velocity in the dilution tunnel, calculated by Method 2, Equation 2-7, m/sec (ft/sec). The dilution tunnel dry gas molecular weight may be assumed to be 29 g/g mole (lb/lb mole).
-Vsi = Average gas velocity in dilution tunnel during each 10-minute interval, i, of the test run, calculated by Method 2, Equation 2-7, m/sec (ft/sec).
+P s = Absolute gas pressure in dilution tunnel, mm Hg (in. Hg).
+P std = Standard absolute pressure, 760 mm Hg (29.92 in. Hg).
+Q sd = Average gas flow rate in dilution tunnel, calculated as in Method 2, Equation 2-8, dscm/hr (dscf/hr).
+T m = Absolute average dry gas meter temperature (see Figure 5G-3), °K (°R).
+T mi = Absolute average dry gas meter temperature during each 10-minute interval, i, of the test run, °K (°R).
+T s = Absolute average gas temperature in the dilution tunnel (see Figure 5G-3), °K (°R).
+T si = Absolute average gas temperature in the dilution tunnel during each 10 minute interval, i, of the test run, °K (°R).
+T std = Standard absolute temperature, 293 °K (528 °R).
+V a = Volume of acetone blank, ml.
+V aw = Volume of acetone used in wash, ml.
+V m = Volume of gas sample as measured by dry gas meter, dcm (dcf).
+V mi = Volume of gas sample as measured by dry gas meter during each 10-minute interval, i, of the test run, dcm.
+V m(std) = Volume of gas sample measured by the dry gas meter, corrected to standard conditions, dscm (dscf).
+V s = Average gas velocity in the dilution tunnel, calculated by Method 2, Equation 2-7, m/sec (ft/sec). The dilution tunnel dry gas molecular weight may be assumed to be 29 g/g mole (lb/lb mole).
+V si = Average gas velocity in dilution tunnel during each 10-minute interval, i, of the test run, calculated by Method 2, Equation 2-7, m/sec (ft/sec).
 Y = Dry gas meter calibration factor.
-ΔH = Average pressure differential across the orifice meter, if used (see Figure 5G-2), mm H2O (in. H2O).
+ΔH = Average pressure differential across the orifice meter, if used (see Figure 5G-2), mm H 2 O (in. H 2 O).
 U = Total sampling time, min.
 10 = 10 minutes, length of first sampling period.
 13.6 = Specific gravity of mercury.
@@ -1345,14 +1317,14 @@ ER17OC00.159
 12.5 Particulate Concentration.
 ER17OC00.160
 Where:
-K2 = 0.001 g/mg for metric units.
+K 2 = 0.001 g/mg for metric units.
 = 0.0154 gr/mg for English units.
 12.6 Particulate Emission Rate.
 ER17OC00.161
 Note: Particulate emission rate results produced using the sampling train described in section 6 and shown in Figure 5G-1 shall be adjusted for reporting purposes by the following method adjustment factor:
 ER17OC00.162
 Where:
-K3 = constant, 1.82 for metric units.
+K 3 = constant, 1.82 for metric units.
 = constant, 0.643 for English units.
 12.7 Proportional Rate Variation. Calculate PR for each 10-minute interval, i, of the test run.
 ER17OC00.163
@@ -1404,16 +1376,16 @@ Same as in Method 6C, section 3.0.
 6.1.3.2 Gas Conditioning System. A high density filter to remove particulate matter and a condenser capable of lowering the dew point of the gas to less than 5 °C (40 °F). Desiccant, such as Drierite, may be used to dry the sample gas. Do not use silica gel.
 6.1.3.3 Pump. An inert (e.g., Teflon or stainless steel heads) sampling pump capable of delivering more than the total amount of sample required in the manufacturer's instructions for the individual instruments. A means of controlling the analyzer flow rate and a device for determining proper sample flow rate (e.g., precision rotameter, pressure gauge downstream of all flow controls) shall be provided at the analyzer. The requirements for measuring and controlling the analyzer flow rate are not applicable if data are presented that demonstrate that the analyzer is insensitive to flow variations over the range encountered during the test.
 6.1.3.4 Carbon Monoxide (CO) Analyzer. Any analyzer capable of providing a measure of CO in the range of 0 to 10 percent by volume at least once every 10 minutes.
-6.1.3.5 Carbon Dioxide (CO2) Analyzer. Any analyzer capable of providing a measure of CO2 in the range of 0 to 25 percent by volume at least once every 10 minutes.
+6.1.3.5 Carbon Dioxide (CO 2) Analyzer. Any analyzer capable of providing a measure of CO 2 in the range of 0 to 25 percent by volume at least once every 10 minutes.
 Note: Analyzers with ranges less than those specified above may be used provided actual concentrations do not exceed the range of the analyzer.
 6.1.3.6 Manifold. A sampling tube capable of delivering the sample gas to two analyzers and handling an excess of the total amount used by the analyzers. The excess gas is exhausted through a separate port.
 6.1.3.7 Recorders (optional). To provide a permanent record of the analyzer outputs.
 6.1.4 Proportional Gas Flow Rate System. To monitor stack flow rate changes and provide a measurement that can be used to adjust and maintain particulate sampling flow rates proportional to the stack gas flow rate. A schematic of the proportional flow rate system is shown in Figure 5H-2 and consists of the following components:
-6.1.4.1 Tracer Gas Injection System. To inject a known concentration of sulfur dioxide (SO2) into the flue. The tracer gas injection system consists of a cylinder of SO2, a gas cylinder regulator, a stainless steel needle valve or flow controller, a nonreactive (stainless steel and glass) rotameter, and an injection loop to disperse the SO2 evenly in the flue.
+6.1.4.1 Tracer Gas Injection System. To inject a known concentration of sulfur dioxide (SO 2) into the flue. The tracer gas injection system consists of a cylinder of SO 2, a gas cylinder regulator, a stainless steel needle valve or flow controller, a nonreactive (stainless steel and glass) rotameter, and an injection loop to disperse the SO 2 evenly in the flue.
 6.1.4.2 Sample Probe. A glass or stainless steel sampling probe.
 6.1.4.3 Gas Conditioning System. A combustor as described in Method 16A, sections 6.1.5 and 6.1.6, followed by a high density filter to remove particulate matter, and a condenser capable of lowering the dew point of the gas to less than 5 °C (40 °F). Desiccant, such as Drierite, may be used to dry the sample gas. Do not use silica gel.
 6.1.4.4 Pump. Same as described in section 6.1.3.3.
-6.1.4.5 SO2 Analyzer. Any analyzer capable of providing a measure of the SO2 concentration in the range of 0 to 1,000 ppm by volume (or other range necessary to measure the SO2 concentration) at least once every 10 minutes.
+6.1.4.5 SO 2 Analyzer. Any analyzer capable of providing a measure of the SO 2 concentration in the range of 0 to 1,000 ppm by volume (or other range necessary to measure the SO 2 concentration) at least once every 10 minutes.
 6.1.4.6 Recorder (optional). To provide a permanent record of the analyzer outputs.
 Note: Other tracer gas systems, including helium gas systems, are acceptable for determination of instantaneous proportional sampling rates.
 6.2 Sample Recovery. Same as Method 5, section 6.2.
@@ -1427,11 +1399,11 @@ Note: Other tracer gas systems, including helium gas systems, are acceptable for
 7.3.2 Dichloromethane (Methylene Chloride). Reagent grade, <0.001 percent residue in glass bottles.
 7.3.3 Desiccant. Anhydrous calcium sulfate, calcium chloride, or silica gel, indicating type.
 7.3.4 Cylinder Gases. For the purposes of this procedure, span value is defined as the upper limit of the range specified for each analyzer as described in section 6.1.3.4 or 6.1.3.5. If an analyzer with a range different from that specified in this method is used, the span value shall be equal to the upper limit of the range for the analyzer used (see note in section 6.1.3.5).
-7.3.4.1 Calibration Gases. The calibration gases for the CO2, CO, and SO2 analyzers shall be CO2 in nitrogen (N2), CO in N2, and SO2 in N2, respectively. CO2 and CO calibration gases may be combined in a single cylinder. Use three calibration gases as specified in Method 6C, sections 7.2.1 through 7.2.3.
-7.3.4.2 SO2 Injection Gas. A known concentration of SO2 in N2. The concentration must be at least 2 percent SO2 with a maximum of 100 percent SO2.
+7.3.4.1 Calibration Gases. The calibration gases for the CO 2, CO, and SO 2 analyzers shall be CO 2 in nitrogen (N 2), CO in N 2, and SO 2 in N 2, respectively. CO 2 and CO calibration gases may be combined in a single cylinder. Use three calibration gases as specified in Method 6C, sections 7.2.1 through 7.2.3.
+7.3.4.2 SO 2 Injection Gas. A known concentration of SO 2 in N 2. The concentration must be at least 2 percent SO 2 with a maximum of 100 percent SO 2.
 8.0 Sample Collection, Preservation, Transport, and Storage
 8.1 Pretest Preparation. Same as Method 5, section 8.1.
-8.2 Calibration Gas and SO2 Injection Gas Concentration Verification, Sampling System Bias Check, Response Time Test, and Zero and Calibration Drift Tests. Same as Method 6C, sections 8.2.1, 8.2.3, 8.2.4, and 8.5, respectively, except that for verification of CO and CO2 gas concentrations, substitute Method 3 for Method 6.
+8.2 Calibration Gas and SO 2 Injection Gas Concentration Verification, Sampling System Bias Check, Response Time Test, and Zero and Calibration Drift Tests. Same as Method 6C, sections 8.2.1, 8.2.3, 8.2.4, and 8.5, respectively, except that for verification of CO and CO 2 gas concentrations, substitute Method 3 for Method 6.
 8.3 Preliminary Determinations.
 8.3.1 Sampling Location. The sampling location for the particulate sampling probe shall be 2.45 ±0.15 m (8 ±0.5 ft) above the platform upon which the wood heater is placed (i.e., the top of the scale).
 8.3.2 Sampling Probe and Nozzle. Select a nozzle, if used, sized for the range of velocity heads, such that it is not necessary to change the nozzle size in order to maintain proportional sampling rates. During the run, do not change the nozzle size. Select a suitable probe liner and probe length to effect minimum blockage.
@@ -1444,19 +1416,19 @@ Note: Other tracer gas systems, including helium gas systems, are acceptable for
 8.5.2 Leak-Checks During Sample Run. If, during the sampling run, a component (e.g., filter assembly or impinger) change becomes necessary, conduct a leak-check as described in Method 5, section 8.4.3.
 8.5.3 Post-Test Leak-Check. A leak-check is mandatory at the conclusion of each sampling run. The leak-check shall be performed in accordance with the procedures outlined in Method 5, section 8.4.4, except that a vacuum of 130 mm Hg (5 in. Hg) or the greatest vacuum measured during the test run, whichever is greater, may be used instead of 380 mm Hg (15 in. Hg).
 8.6 Tracer Gas Procedure. A schematic of the tracer gas injection and sampling systems is shown in Figure 5H-2.
-8.6.1 SO2 Injection Probe. Install the SO2 injection probe and dispersion loop in the stack at a location 2.9 ±0.15 m (9.5 ±0.5 ft) above the sampling platform.
-8.6.2 SO2 Sampling Probe. Install the SO2 sampling probe at the centroid of the stack at a location 4.1 ±0.15 m (13.5 ±0.5 ft) above the sampling platform.
+8.6.1 SO 2 Injection Probe. Install the SO 2 injection probe and dispersion loop in the stack at a location 2.9 ±0.15 m (9.5 ±0.5 ft) above the sampling platform.
+8.6.2 SO 2 Sampling Probe. Install the SO 2 sampling probe at the centroid of the stack at a location 4.1 ±0.15 m (13.5 ±0.5 ft) above the sampling platform.
 8.7 Flow Rate Measurement System. A schematic of the flow rate measurement system is shown in Figure 5H-2. Locate the flow rate measurement sampling probe at the centroid of the stack at a location 2.3 ±0.3 m (7.5 ±1 ft) above the sampling platform.
-8.8 Tracer Gas Procedure. Within 1 minute after closing the wood heater door at the start of the test run (as defined in Method 28, section 8.8.1), meter a known concentration of SO2 tracer gas at a constant flow rate into the wood heater stack. Monitor the SO2 concentration in the stack, and record the SO2 concentrations at 10-minute intervals or more often. Adjust the particulate sampling flow rate proportionally to the SO2 concentration changes using Equation 5H-6 (e.g., the SO2 concentration at the first 10-minute reading is measured to be 100 ppm; the next 10 minute SO2 concentration is measured to be 75 ppm: the particulate sample flow rate is adjusted from the initial 0.15 cfm to 0.20 cfm). A check for proportional rate variation shall be made at the completion of the test run using Equation 5H-10.
+8.8 Tracer Gas Procedure. Within 1 minute after closing the wood heater door at the start of the test run (as defined in Method 28, section 8.8.1), meter a known concentration of SO 2 tracer gas at a constant flow rate into the wood heater stack. Monitor the SO 2 concentration in the stack, and record the SO 2 concentrations at 10-minute intervals or more often. Adjust the particulate sampling flow rate proportionally to the SO 2 concentration changes using Equation 5H-6 (e.g., the SO 2 concentration at the first 10-minute reading is measured to be 100 ppm; the next 10 minute SO 2 concentration is measured to be 75 ppm: the particulate sample flow rate is adjusted from the initial 0.15 cfm to 0.20 cfm). A check for proportional rate variation shall be made at the completion of the test run using Equation 5H-10.
 8.9 Volumetric Flow Rate Procedure. Apply stoichiometric relationships to the wood combustion process in determining the exhaust gas flow rate as follows:
 8.9.1 Test Fuel Charge Weight. Record the test fuel charge weight (wet) as specified in Method 28, section 8.8.2. The wood is assumed to have the following weight percent composition: 51 percent carbon, 7.3 percent hydrogen, 41 percent oxygen. Record the wood moisture for each fuel charge as described in Method 28, section 8.6.5. The ash is assumed to have negligible effect on associated C, H, and O concentrations after the test burn.
-8.9.2 Measured Values. Record the CO and CO2 concentrations in the stack on a dry basis every 10 minutes during the test run or more often. Average these values for the test run. Use as a mole fraction (e.g., 10 percent CO2 is recorded as 0.10) in the calculations to express total flow (see Equation 5H-6).
+8.9.2 Measured Values. Record the CO and CO 2 concentrations in the stack on a dry basis every 10 minutes during the test run or more often. Average these values for the test run. Use as a mole fraction (e.g., 10 percent CO 2 is recorded as 0.10) in the calculations to express total flow (see Equation 5H-6).
 8.10 Sampling Train Operation.
 8.10.1 For each run, record the data required on a data sheet such as the one shown in Figure 5H-3. Be sure to record the initial dry gas meter reading. Record the dry gas meter readings at the beginning and end of each sampling time increment, when changes in flow rates are made, before and after each leak-check, and when sampling is halted. Take other readings as indicated on Figure 5H-3 at least once each 10 minutes during the test run.
 8.10.2 Remove the nozzle cap, verify that the filter and probe heating systems are up to temperature, and that the probe is properly positioned. Position the nozzle, if used, facing into gas stream, or the probe tip in the 50 mm (2 in.) centroidal area of the stack.
 8.10.3 Be careful not to bump the probe tip into the stack wall when removing or inserting the probe through the porthole; this minimizes the chance of extracting deposited material.
 8.10.4 When the probe is in position, block off the openings around the probe and porthole to prevent unrepresentative dilution of the gas stream.
-8.10.5 Begin sampling at the start of the test run as defined in Method 28, section 8.8.1, start the sample pump, and adjust the sample flow rate to between 0.003 and 0.014 m3/min (0.1 and 0.5 cfm). Adjust the sample flow rate proportionally to the stack gas flow during the test run according to the procedures outlined in section 8. Maintain a proportional sampling rate (within 10 percent of the desired value) and a filter holder temperature no greater than 120 °C (248 °F).
+8.10.5 Begin sampling at the start of the test run as defined in Method 28, section 8.8.1, start the sample pump, and adjust the sample flow rate to between 0.003 and 0.014 m 3 /min (0.1 and 0.5 cfm). Adjust the sample flow rate proportionally to the stack gas flow during the test run according to the procedures outlined in section 8. Maintain a proportional sampling rate (within 10 percent of the desired value) and a filter holder temperature no greater than 120 °C (248 °F).
 8.10.6 During the test run, make periodic adjustments to keep the temperature around the filter holder at the proper level. Add more ice to the impinger box and, if necessary, salt to maintain a temperature of less than 20 °C (68 °F) at the condenser/silica gel outlet.
 8.10.7 If the pressure drop across the filter becomes too high, making proportional sampling difficult to maintain, either filter may be replaced during a sample run. It is recommended that another complete filter assembly be used rather than attempting to change the filter itself. Before a new filter assembly is installed, conduct a leak-check (see section 8.5.2). The total particulate weight shall include the summation of all filter assembly catches. The total time for changing sample train components shall not exceed 10 minutes. No more than one component change is allowed for any test run.
 8.10.8 At the end of the test run, turn off the coarse adjust valve, remove the probe and nozzle from the stack, turn off the pump, record the final dry gas meter reading, and conduct a post-test leak-check, as outlined in section 8.5.3.
@@ -1482,7 +1454,7 @@ Section | Quality control measure | Effect
 10.0 Calibration and Standardization
 Note: Maintain a laboratory record of all calibrations.
 10.1 Volume Metering System, Temperature Sensors, Barometer, and Analytical Balance. Same as Method 5G, sections 10.2 through 10.5, respectively.
-10.2 SO2 Injection Rotameter. Calibrate the SO2 injection rotameter system with a soap film flowmeter or similar direct volume measuring device with an accuracy of 2 percent. Operate the rotameter at a single reading for at least three calibration runs for 10 minutes each. When three consecutive calibration flow rates agree within 5 percent, average the three flow rates, mark the rotameter at the calibrated setting, and use the calibration flow rate as the SO2 injection flow rate during the test run. Repeat the rotameter calibration before the first certification test and semiannually thereafter.
+10.2 SO 2 Injection Rotameter. Calibrate the SO 2 injection rotameter system with a soap film flowmeter or similar direct volume measuring device with an accuracy of 2 percent. Operate the rotameter at a single reading for at least three calibration runs for 10 minutes each. When three consecutive calibration flow rates agree within 5 percent, average the three flow rates, mark the rotameter at the calibrated setting, and use the calibration flow rate as the SO 2 injection flow rate during the test run. Repeat the rotameter calibration before the first certification test and semiannually thereafter.
 10.3. Gas Analyzers. Same as Method 6C, section 10.0.
 10.4 Field Balance Calibration Check. Check the calibration of the balance used to weigh impingers with a weight that is at least 500g or within 50g of a loaded impinger. The weight must be ASTM E617-13 "Standard Specification for Laboratory Weights and Precision Mass Standards" (incorporated by reference—see 40 CFR 60.17) Class 6 (or better). Daily before use, the field balance must measure the weight within ± 0.5g of the certified mass. If the daily balance calibration check fails, perform corrective measures and repeat the check before using balance.
 10.5 Analytical Balance Calibration. Perform a multipoint calibration (at least five points spanning the operational range) of the analytical balance before the first use, and semiannually thereafter. The calibration of the analytical balance must be conducted using ASTM E617-13 "Standard Specification for Laboratory Weights and Precision Mass Standards" (incorporated by reference—see 40 CFR 60.17) Class 2 (or better) tolerance weights. Audit the balance each day it is used for gravimetric measurements by weighing at least one ASTM E617-13 Class 2 tolerance (or better) calibration weight that corresponds to 50 to 150 percent of the weight of one filter or between 1g and 5g. If the scale cannot reproduce the value of the calibration weight to within 0.5 mg of the certified mass, perform corrective measures, and conduct the multipoint calibration before use.
@@ -1501,31 +1473,31 @@ Carry out calculations, retaining at least one extra significant figure beyond t
 12.1 Nomenclature.
 A = Sample flow rate adjustment factor.
 BR = Dry wood burn rate, kg/hr (lb/hr), from Method 28, Section 8.3.
-Bws = Water vapor in the gas stream, proportion by volume.
-Ci = Tracer gas concentration at inlet, ppmv.
-Co = Tracer gas concentration at outlet, ppmv.
-Cs = Concentration of particulate matter in stack gas, dry basis, corrected to standard conditions, g/dscm (g/dscf).
+B ws = Water vapor in the gas stream, proportion by volume.
+C i = Tracer gas concentration at inlet, ppmv.
+C o = Tracer gas concentration at outlet, ppmv.
+C s = Concentration of particulate matter in stack gas, dry basis, corrected to standard conditions, g/dscm (g/dscf).
 E = Particulate emission rate, g/hr (lb/hr).
-ΔH = Average pressure differential across the orifice meter (see Figure 5H-1), mm H2O (in. H2O).
-La = Maximum acceptable leakage rate for either a post-test leak-check or for a leak-check following a component change; equal to 0.00057 cmm (0.020 cfm) or 4 percent of the average sampling rate, whichever is less.
-L1 = Individual leakage rate observed during the leak-check conducted before a component change, cmm (cfm).
-Lp = Leakage rate observed during the post-test leak-check, cmm (cfm).
-mn = Total amount of particulate matter collected, mg.
-Ma = Mass of residue of solvent after evaporation, mg.
-NC = Grams of carbon/gram of dry fuel (lb/lb), equal to 0.0425.
-NT = Total dry moles of exhaust gas/kg of dry wood burned, g-moles/kg (lb-moles/lb).
+ΔH = Average pressure differential across the orifice meter (see Figure 5H-1), mm H 2 O (in. H 2 O).
+L a = Maximum acceptable leakage rate for either a post-test leak-check or for a leak-check following a component change; equal to 0.00057 cmm (0.020 cfm) or 4 percent of the average sampling rate, whichever is less.
+L 1 = Individual leakage rate observed during the leak-check conducted before a component change, cmm (cfm).
+L p = Leakage rate observed during the post-test leak-check, cmm (cfm).
+m n = Total amount of particulate matter collected, mg.
+M a = Mass of residue of solvent after evaporation, mg.
+N C = Grams of carbon/gram of dry fuel (lb/lb), equal to 0.0425.
+N T = Total dry moles of exhaust gas/kg of dry wood burned, g-moles/kg (lb-moles/lb).
 PR = Percent of proportional sampling rate.
-Pbar = Barometric pressure at the sampling site, mm Hg (in.Hg).
-Pstd = Standard absolute pressure, 760 mm Hg (29.92 in.Hg).
-Qi = Gas volumetric flow rate at inlet, cfm (l/min).
-Qo = Gas volumetric flow rate at outlet, cfm (l/min).
+P bar = Barometric pressure at the sampling site, mm Hg (in.Hg).
+P std = Standard absolute pressure, 760 mm Hg (29.92 in.Hg).
+Q i = Gas volumetric flow rate at inlet, cfm (l/min).
+Q o = Gas volumetric flow rate at outlet, cfm (l/min).
 12.2 Average Dry Gas Meter Temperature and Average Orifice Pressure Drop. See data sheet (Figure 5H-3).
 12.3 Dry Gas Volume. Same as Method 5, section 12.3.
 12.4 Volume of Water Vapor.
 ER17OC00.168
 Where:
-K2 = 0.001333 m3/ml for metric units.
-K2 = 0.04707 ft3/ml for English units.
+K 2 = 0.001333 m 3 /ml for metric units.
+K 2 = 0.04707 ft 3 /ml for English units.
 12.5 Moisture Content.
 ER17OC00.169
 12.6 Solvent Wash Blank.
@@ -1539,14 +1511,14 @@ ER17OC00.172
 12.10 Carbon Balance for Total Moles of Exhaust Gas (dry)/kg of Wood Burned in the Exhaust Gas.
 ER17OC00.173
 Where:
-K3 = 1000 g/kg for metric units.
-K3 = 1.0 lb/lb for English units.
-Note: The NOX/SOX portion of the gas is assumed to be negligible.
+K 3 = 1000 g/kg for metric units.
+K 3 = 1.0 lb/lb for English units.
+Note: The NO X /SO X portion of the gas is assumed to be negligible.
 12.11 Total Stack Gas Flow Rate.
 ER17OC00.174
 Where:
-K4 = 0.02406 dscm/g-mole for metric units.
-K4 = 384.8 dscf/lb-mole for English units.
+K 4 = 0.02406 dscm/g-mole for metric units.
+K 4 = 384.8 dscf/lb-mole for English units.
 12.12 Particulate Emission Rate.
 ER17OC00.175
 12.13 Proportional Rate Variation. Calculate PR for each 10-minute interval, i, of the test run.
@@ -1554,7 +1526,7 @@ ER17OC00.176
 12.14 Acceptable Results. If no more than 15 percent of the PR values for all the intervals fall outside the range 90 percent ≤PR ≤110 percent, and if no PR value for any interval falls outside the range 75 ≤PR ≤125 percent, the results are acceptable. If the PR values for the test runs are judged to be unacceptable, report the test run emission results, but do not include the test run results in calculating the weighted average emission rate, and repeat the test.
 12.15 Alternative Tracer Gas Flow Rate Determination.
 ER27FE14.014
-Note: This gives Q for a single instance only. Repeated multiple determinations are needed to track temporal variations. Very small variations in Qi, Ci, or Co may give very large variations in Qo.
+Note: This gives Q for a single instance only. Repeated multiple determinations are needed to track temporal variations. Very small variations in Q i, C i, or C o may give very large variations in Q o.
 13.0 Method Performance [Reserved]
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
@@ -1563,7 +1535,7 @@ Note: This gives Q for a single instance only. Repeated multiple determinations 
 16.1.1 Apparatus.
 16.1.1.1 Tracer Gas Injector System. This is to inject a known concentration of tracer gas into the stack. This system consists of a cylinder of tracer gas, a gas cylinder regulator, a stainless steel needle valve or a flow controller, a nonreactive (stainless steel or glass) rotameter, and an injection loop to disperse the tracer gas evenly in the stack.
 16.1.1.2 Tracer Gas Probe. A glass or stainless steel sampling probe.
-16.1.1.3 Gas Conditioning System. A gas conditioning system is suitable for delivering a cleaned sample to the analyzer consisting of a filter to remove particulate and a condenser capable of lowering the dew point of the sample gas to less than 5 °C (40 °F). A desiccant such as anhydrous calcium sulfate may be used to dry the sample gas. Desiccants which react or absorb tracer gas or stack gas may not be used, e.g. silica gel absorbs CO2.
+16.1.1.3 Gas Conditioning System. A gas conditioning system is suitable for delivering a cleaned sample to the analyzer consisting of a filter to remove particulate and a condenser capable of lowering the dew point of the sample gas to less than 5 °C (40 °F). A desiccant such as anhydrous calcium sulfate may be used to dry the sample gas. Desiccants which react or absorb tracer gas or stack gas may not be used, e.g. silica gel absorbs CO 2.
 16.1.1.4 Pump. An inert (i.e., stainless steel or Teflon head) pump to deliver more than the total sample required by the manufacturer's specifications for the analyzer used to measure the downstream tracer gas concentration.
 16.1.1.5 Gas Analyzer. A gas analyzer is any analyzer capable of measuring the tracer gas concentration in the range necessary at least every 10 minutes. A means of controlling the analyzer flow rate and a device for determining proper sample flow rate shall be provided unless data is provided to show that the analyzer is insensitive to flow variations over the range encountered during the test. The gas analyzer needs to meet or exceed the following performance specifications:
 Linearity | ±1 percent of full scale.
