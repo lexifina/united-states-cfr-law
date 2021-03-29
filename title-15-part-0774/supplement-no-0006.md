@@ -1,12 +1,12 @@
 # Supplement No. 6 to Part 774—Sensitive List
 Note to Supplement No. 6: While the items on this list are identified by ECCN rather than by Wassenaar Arrangement numbering, the item descriptions are drawn directly from the Wassenaar Arrangement's Sensitive List. If text accompanies an ECCN below, then the Sensitive List is limited to a subset of items classified under the specific ECCN or has differing parameters.
 (1) Category 1
-(i) 1A002.a.1.
+(i) 1A002.a.1—"Composite" structures or laminates made from an organic "matrix" and "fibrous or filamentary materials" specified by 1C010.c or 1C010.d.
 (ii) 1C001.
 (iii) 1C007.c.
 (iv) 1C010.c and.d.
 (v) 1C012.
-(vi) 1D002—"Software" for the "development" of organic "matrix", metal "matrix", or carbon "matrix" laminates or composites controlled under 1A002, 1C007.c, 1C010.c or 1C010.d.
+(vi) 1D002—"Software" for the "development" of organic "matrix", metal "matrix", or carbon "matrix" laminates or composites controlled under 1A002.a.1, 1C001, 1C007.c, 1C010.c, 1C010.d, or 1C012.
 (vii) 1E001—"Technology" according to the General Technology Note for the "development" or "production" of equipment and materials controlled under 1A002, 1C001, 1C007.c, 1C010.c, 1C010.d, or 1C012.
 (viii) 1E002.e and.f.
 (2) Category 2
