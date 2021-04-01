@@ -1,6 +1,6 @@
 # Appendix B to Part 4044—Interest Rates Used To Value Benefits
-[This table sets forth, for each indicated calendar month, the interest rates (denoted by i1, i2,..., and referred to generally as it) assumed to be in effect between specified anniversaries of a valuation date that occurs within that calendar month; those anniversaries are specified in the columns adjacent to the rates. The last listed rate is assumed to be in effect after the last listed anniversary date.]
-For valuation dates occurring in the month— | The values of it are: | it | for t= | it | for t= | it | for t=
+[This table sets forth, for each indicated calendar month, the interest rates (denoted by i 1, i 2,..., and referred to generally as i t) assumed to be in effect between specified anniversaries of a valuation date that occurs within that calendar month; those anniversaries are specified in the columns adjacent to the rates. The last listed rate is assumed to be in effect after the last listed anniversary date.]
+For valuation dates occurring in the month— | The values of i t are: | i t | for t= | i t | for t= | i t | for t=
 November 1993 | .0560 | 1-25 | .0525 | > | N/A | N/A
 December 1993 | .0560 | 1-25 | .0525 | >25 | N/A | N/A
 January 1994 | .0590 | 1-25 | .0525 | >25 | N/A | N/A
@@ -233,3 +233,7 @@ October-December 2019 | 0.0253 | 1-25 | 0.0253 | >25 | N/A | N/A
 January-March 2020 | 0.0212 | 1-25 | 0.0226 | >25 | N/A | N/A
 April-June 2020 | 0.0211 | 1-20 | 0.0192 | >20 | N/A | N/A
 July-September 2020 | 0.0198 | 1-20 | 0.0157 | >20 | N/A | N/A
+October-December 2020 | 0.0162 | 1-20 | 0.0140 | >20 | N/A | N/A
+January-March 2021 | 0.0169 | 1-20 | 0.0166 | >20 | N/A | N/A
+April-June 2021 | 0.0182 | 1-20 | 0.0168 | >20 | N/A | N/A
+July-September 2021 | 0.0213 | 1-25 | 0.0223 | >25 | N/A | N/A
