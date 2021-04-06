@@ -15,6 +15,7 @@ National Telecommunications and Information Administration.
 United States Patent and Trademark Office (formerly Patent and Trademark Office).
 Parent: Department of Defense
 Components:
+Defense Advanced Research Projects Agency (DARPA) (effective April 6, 2021).
 Department of the Air Force.
 Department of the Army.
 Department of the Navy.
