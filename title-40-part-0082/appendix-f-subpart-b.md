@@ -1,8 +1,8 @@
-# Appendix F to Subpart B of Part 82—Standard for Recover-Only Equipment That Extracts a Single, Specific Refrigerant Other Than CFC-12 or HFC-134a
+# Appendix F to Subpart B of Part 82—Standard for Recover-Only Equipment That Extracts a Single, Specific Refrigerant Other Than CFC-12, HFC-134a, or R-1234yf
 Foreword
-These specifications are for equipment that recover, but does not recycle, any single, specific automotive refrigerant other than CFC-12 or HFC-134a, including a blend refrigerant.
+These specifications are for equipment that recovers, but does not recycle, any single, specific automotive refrigerant other than CFC-12, HFC-134a, or HFO-1234yf, including a blend refrigerant.
 1. Scope
-The purpose of this standard is to provide equipment specifications for the recovery of any single, specific refrigerant other than CFC-12 or HFC-134a, including a blend refrigerant, which are either (1) to be returned to a refrigerant reclamation facility that will process the refrigerant to ARI Standard 700-93 or equivalent new product specifications at a minimum, or (2) to be recycled in approved refrigerant recycling equipment, or (3) to be destroyed. This standard applies to equipment used to service automobiles, light trucks, and other vehicles with similar air conditioning systems.
+The purpose of this standard is to provide equipment specifications for the recovery of any single, specific refrigerant other than CFC-12, HFC-134a, or HFO-1234yf, including a blend refrigerant, which is either (1) to be returned to a refrigerant reclamation facility that will process the refrigerant to ARI Standard 700-93 or equivalent new product specifications at a minimum, or (2) to be recycled in approved refrigerant recycling equipment, or (3) to be destroyed. This standard applies to equipment used to service automobiles, light trucks, and other vehicles with similar air conditioning systems.
 2. References
 2.1 Applicable Documents—The following publications form a part of this specification to the extent specified. The latest issue of SAE publications shall apply.
 2.1.1 SAE Publications—Available from SAE, 400 Commonwealth Drive, Warrendale, PA 15096-0001. SAE J639—Vehicle Service Coupling. SAE J2196—Service Hoses for Automotive Air-Conditioning (fittings modified)
@@ -14,7 +14,7 @@ DOT Standard, 49 CFR 173.304—Shippers—General Requirements for Shipments and
 UL 1769—Cylinder Valves.
 UL 1963—Refrigerant Recovery Recycling Equipment.
 3. Specifications and General Description
-3.1 The equipment must be able to extract from a mobile air conditioning system the refrigerant other than CFC-12 or HFC-134a to which the equipment is dedicated.
+3.1 The equipment must be able to extract from a mobile air conditioning system the refrigerant other than CFC-12, HFC-134a, or HFO-1234yf to which the equipment is dedicated.
 3.2 The equipment shall be suitable for use in an automotive service garage environment as defined in section 6.8.
 3.3 The equipment discharge or transfer fitting shall be unique to prevent the unintentional use of the extracted refrigerant for recharging auto air conditioners.
 3.4 Equipment Certification-The equipment shall be certified by Underwriters Laboratories or an—equivalent certifying laboratory to meet this standard.
@@ -47,7 +47,7 @@ UL 1963—Refrigerant Recovery Recycling Equipment.
 6.8 The equipment must be capable of continuous operation in temperatures of 10 to 49 °C and must comply with 6.1 and 6.2.
 7. For test validation, the equipment is to be operated according to the manufacturer's instructions.
 Application
-The purpose of this standard is to provide equipment specifications for the recovery of any refrigerant other than CFC-12 or HFC-134a for return to a refrigerant reclamation facility that will process it to ARI Standard 700-93 (or for recycling in other EPA approved recycling equipment, in the event that EPA in the future designates a standard for equipment capable of recycling refrigerants other than CFC-12 or HFC-134a).
+The purpose of this standard is to provide equipment specifications for the recovery of any refrigerant other than CFC-12, HFC-134a, or HFO-1234yf for return to a refrigerant reclamation facility that will process it to AHRI Standard 700 (or for recycling in other EPA approved recycling equipment, in the event that EPA in the future designates a standard for equipment capable of recycling refrigerants other than CFC-12, HFC-134a, or HFO-1234yf).
 Reference Section
 SAE J639—Vehicle Service Coupling
 SAE J2196—Service Hoses for Automotive Air-Conditioning
