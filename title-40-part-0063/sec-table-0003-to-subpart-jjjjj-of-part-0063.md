@@ -15,3 +15,4 @@ For each... | You must... | According to the following requirements...
 | | ii. If your kiln has an APCD, continue to vent the exhaust from the kiln through the APCD until the kiln exhaust temperature falls below the minimum inlet temperature for the APCD.
 5. Existing, new or reconstructed tunnel kiln during periods of routine control device maintenance | a. Minimize HAP emissions. | i. Develop and use a temperature profile for each kiln; and ii. Develop and follow maintenance procedures for each kiln that, at a minimum, specify the frequency of inspection and maintenance of temperature monitoring devices and controls that regulate air-to-fuel ratios; and
 | | iii. Develop and maintain records for each kiln, as specified in § 63.8490(a)(3).
+As stated in § 63.8445, you must conduct each performance test in the following table that applies to you:
