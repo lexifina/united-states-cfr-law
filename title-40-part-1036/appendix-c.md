@@ -1,7 +1,7 @@
-# Appendix I to Part 1036 — Default Engine Fuel Maps for § 1036.540
+# Appendix C to Part 1036—Default Engine Fuel Maps for § 1036.540
 This appendix includes default steady-state fuel maps for performing cycle-average engine fuel mapping as described in §§ 1036.535 and 1036.540.
 (a) Use the following default fuel map for compression-ignition engines that will be installed in Tractors and Vocational Heavy HDV:
-Engine speed(r/min) | Engine torque (N·m) | Fuel mass rate(g/sec)
+Engine speed (r/min) | Engine torque (N·m) | Fuel mass rate (g/sec)
 666.7 | 0 | 0.436
 833.3 | 0 | 0.665
 1000 | 0 | 0.94
@@ -145,7 +145,7 @@ Engine speed(r/min) | Engine torque (N·m) | Fuel mass rate(g/sec)
 2333.3 | 3000 | 42.912
 2500 | 3000 | 47.512
 (b) Use the following default fuel map for compression-ignition engines that will be installed in Vocational Light HDV and Medium HDV:
-Engine speed(r/min) | Engine torque(N·m) | Fuel mass rate(g/sec)
+Engine speed (r/min) | Engine torque (N·m) | Fuel mass rate (g/sec)
 708.3 | 0 | 0.255
 916.7 | 0 | 0.263
 1125 | 0 | 0.342
@@ -289,7 +289,7 @@ Engine speed(r/min) | Engine torque(N·m) | Fuel mass rate(g/sec)
 2791.7 | 1200 | 19.912
 3000 | 1200 | 21.357
 (c) Use the following default fuel map for all spark-ignition engines:
-Engine speed(r/min) | Engine torque(N·m) | Fuel mass rate(g/sec)
+Engine speed (r/min) | Engine torque (N·m) | Fuel mass rate (g/sec)
 875 | 0 | 0.535
 1250 | 0 | 0.734
 1625 | 0 | 0.975
