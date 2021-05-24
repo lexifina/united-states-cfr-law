@@ -7,14 +7,14 @@ General provisions citation | Subject of citation | Applies to subpart? | Explan
 § 60.5 | Determination of construction or modification | Yes
 § 60.6 | Review of plans | Yes
 § 60.7 | Notification and record keeping | Yes | Except that § 60.7 only applies as specified in § 60.5420a(a).
-§ 60.8 | Performance tests | Yes | Performance testing is required for control devices used on storage vessels, centrifugal compressors and pneumatic pumps.
+§ 60.8 | Performance tests | Yes | Except that the format of performance test reports is described in § 60.5420a(b). Performance testing is required for control devices used on storage vessels, centrifugal compressors, and pneumatic pumps, except that performance testing is not required for a control device used solely on pneumatic pump(s).
 § 60.9 | Availability of information | Yes
 § 60.10 | State authority | Yes
 § 60.11 | Compliance with standards and maintenance requirements | No | Requirements are specified in subpart OOOOa.
 § 60.12 | Circumvention | Yes
 § 60.13 | Monitoring requirements | Yes | Continuous monitors are required for storage vessels.
 § 60.14 | Modification | Yes | To the extent any provision in § 60.14 conflicts with specific provisions in subpart OOOOa, it is superseded by subpart OOOOa provisions.
-§ 60.15 | Reconstruction | Yes | Except that § 60.15(d) does not apply to wells, pneumatic controllers, pneumatic pumps, centrifugal compressors, reciprocating compressors or storage vessels.
+§ 60.15 | Reconstruction | Yes | Except that § 60.15(d) does not apply to wells, pneumatic controllers, pneumatic pumps, centrifugal compressors, reciprocating compressors, storage vessels, or the collection of fugitive emissions components at a well site or the collection of fugitive emissions components at a compressor station.
 § 60.16 | Priority list | Yes
 § 60.17 | Incorporations by reference | Yes
 § 60.18 | General control device and work practice requirements | Yes
