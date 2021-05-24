@@ -1,6 +1,5 @@
 # Table W-4A to Subpart W of Part 98—Default Total Hydrocarbon Leaker Emission Factors for Underground Natural Gas Storage
-Table W-4A to Subpart W of Part 98—Default Total Hydrocarbon Leaker Emission Factors for Underground Natural Gas Storage
-Underground natural gas storage | Emission factor(scf/hour/component) | If you survey using any of the methods in § 98.234(a)(1)through (6) | If you survey using Method 21 asspecified in § 98.234(a)(7)
+Underground natural gas storage | Emission factor (scf/hour/component) | If you survey using any of the methods in § 98.234(a)(1) through (6) | If you survey using Method 21 as specified in § 98.234(a)(7)
 Leaker Emission Factors—Storage Station, Gas Service
 Valve 1 | 14.84 | 9.51
 Connector (other) | 5.59 | 3.58

@@ -1,5 +1,6 @@
 # Table W-1A to Subpart W of Part 98—Default Whole Gas Emission Factors for Onshore Petroleum and Natural Gas Production Facilities and Onshore Petroleum and Natural Gas Gathering and Boosting Facilities
-Onshore petroleum and natural gas production and Onshore petroleum and natural gas gathering and boosting | Emission factor(scf/hour/component)
+Table W-1A to Subpart W of Part 98—Default Whole Gas Emission Factors for Onshore Petroleum and Natural Gas Production Facilities and Onshore Petroleum and Natural Gas Gathering and Boosting Facilities
+Onshore petroleum and natural gas production and Onshore petroleum and natural gas gathering and boosting | Emission factor (scf/hour/component)
 Eastern U.S.
 Population Emission Factors—All Components, Gas Service 1
 Valve | 0.027
