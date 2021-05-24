@@ -57,66 +57,13 @@ Section.44 Entry and Inspection of Facilities.
 Section.46 Financial Responsibility for Petroleum UST Owners and Operators.
 Section.48 Severability.
 Arkansas
-(a) The statutory provisions include:
-1. Arkansas Code Annotated, Title 8, Chapter 7, Subchapter 8—Regulated Substance Storage Tanks:
-Section 8-7-801 Definitions and exceptions
-Section 8-7-803 Regulations generally
-Section 8-7-804 Procedures of department generally
-Section 8-7-807 Responsibility and liability of owner
-Section 8-7-808 Regulated Substance Storage Tank Program Fund
-Section 8-7-810 Insurance pools
-Section 8-7-811 Trade secrets
-Section 8-7-812 Subchapter controlling over other laws
-Section 8-7-813 Registration
-2. Arkansas Code Annotated, Title 8, Chapter 7, Subchapter 9—Petroleum Storage Tank Trust Fund Act:
-Section 8-7-901 Title
-Section 8-7-902 Definitions
-Section 8-7-903 Rules and Regulations—Powers of department [Except (c), which addresses aboveground storage tanks.]
-Section 8-7-904 Advisory committee
-Section 8-7-905 Petroleum Storage Tank Trust Fund
-Section 8-7-906 Petroleum environmental assurance fee
-Section 8-7-907 Payments for corrective action
-Section 8-7-908 Third-party claims
-Section 8-7-909 Confidential treatment of information
-(b) The regulatory provisions include:
-1. Arkansas Department of Pollution Control and Ecology Regulation Number 12—Storage Tank Regulation:
-a. Chapter 1: General Provisions
-Section 1: Purpose
-Section 2: Authority
-Section 3: Short Title
-b. Chapter 2: Regulations Promulgated Under Acts 172 and 173 of 1989 and Act 65 of the Third Extraordinary Session of 1989 for Administration of the State Regulated Storage Tank Program
-Section 1: Incorporation of Federal Regulations
-Section 2: Arkansas Petroleum Storage Tank Trust Fund Act
-Section 3: Definitions
-c. Chapter 3: Fees
-Section 1: Underground and Aboveground Storage Tank Registration Fees [Except insofar as it applies to aboveground storage tanks.]
-Section 2: Underground Storage Tank Licensing Fees
-Section 3: Late Payment Penalties
-Section 4: Refusal or Failure to Pay Fees
-d. Chapter 4: Petroleum Storage Tank Trust Fund Release Reimbursement
-Section 1: Purpose
-Section 2: Amount of Reimbursement
-Section 3: Initial Fund Eligibility
-Section 4: Loss and Restoration of Initial Fund Eligibility
-Section 5: Corrective Action Reimbursement Procedure
-Section 6: Reimbursement Application Review
-Section 7: Allowable Costs
-Section 8: Reasonable Costs
-Section 9: Audits
-Section 10: Deductible
-Section 11: Third Party Claim Reimbursement Procedure
-Section 12: Compliance
-Section 13: Fund Availability
-Section 14: Cost Recovery
-e. Chapter 7: Confidentiality
-Section 1: Confidentiality Requests
-Section 2: Responsibility
-Section 3: Submission Procedure
-Section 4: Requirements for Protection
-Section 5: Acceptability of Information
-Section 6: Security
-f. Chapter 9: Severability
-g. Chapter 10: Effective Date
+(a) The regulatory provisions include: Arkansas Pollution Control and Ecology Commission (APC&EC) Regulation No. 12 Storage Tanks, as amended effective August 24, 2018:
+Chapter 1 General Provisions, Reg. 12.103 Definitions, except (B)(1), Reg. 12.104 Incorporation of Federal Regulations, Reg. 12.105 Records, Reg. 12.106 Entry and Inspection of Underground Storage Tank Facilities, Reg. 12.108 Notice Requirements, Reg. 12.109 Secondary Containment;
+Chapter 2 Registration of Storage Tanks, Reg. 12.201(A);
+Chapter 5: Licensing of Underground Storage Tank Installers and Service Personnel, Reg. 12.502 Definitions, Reg. 12.503 Applicability, Reg. 12.504 General Requirements, Reg. 12.505 Surety Requirement, Reg. 12.506 Notification Requirement, Reg. 12.507 Contractor Licensing, Reg. 12.508 Individual Licensing, Reg. 12.509 Contractor/Individual Licensing, Reg. 12.510 Experience Requirements, Reg. 12.511 Licensing Examination, Reg. 12.512 Renewal of Licenses, Reg. 12.513 Denial of Licenses, Reg. 12.514 Department Approval of Training and Continuing Education;
+Chapter 6: Licensing of Underground Storage Tank Testers, Reg. 12.602 Definitions, Reg. 12.603 Applicability, Reg. 12.604 General Requirements, Reg. 12.605 Surety Requirement, Reg. 12.606 Company Licensing, Reg. 12.607 Individual Licensing, Reg. 12.608 Company/Individual Licensing, Reg. 12.609 Experience Requirements, Reg. 12.610 Renewal of Licenses, Reg. 12.611 Denial of Licenses, Reg. 12.612 Department Approval of Training and Continuing Education; and
+Chapter 7: Operator Training, Reg. 12.702 Definitions, Reg. 12.703 Applicability, Reg. 12.704 General Requirements, Reg. 12.705 Class A Operator Certification, Reg. 12.706 Class B Operator Certification, Reg. 12.707 Class C Operator Training, Reg. 12.708 Operator Examination.
+(b) Copies of the Arkansas regulations that are incorporated by reference are available from the Arkansas Department of Environmental Quality (ADEQ) website at http://www.adeq.state.ar.us/regs/default.htm or the Public Outreach Office, ADEQ, 5301 Northshore Drive, North Little Rock, Arkansas 72118-5317; Phone number: (501) 682-0923.
 Colorado
 (a) The statutory provisions include: Colorado Revised Statutes (2018), Title 8 Labor and Industry, Article 20.5 Petroleum Storage Tanks, Part 1 Administration: Section 8-20.5-101(16) definition of "tank".
 (b) The regulatory provisions include:
@@ -449,71 +396,69 @@ Section 25 Release response and corrective action for underground storage tank s
 Section 26 Out-of-service underground storage tank systems and closure
 Section 27 Financial responsibility
 Louisiana
-(a) The statutory provisions include:
-1. Louisiana Environmental Quality Act, Louisiana Revised Statutes Title 30
-Section 2194 Underground Storage Tanks; Registration
-Section 2195 Underground Storage Tank Trust Fund
-Section 2195.1 Underground Motor Fuel Storage Tank Remediation Agreements
-Section 2195.2 Uses of the Trust
-Section 2195.3 Source of Funding; Limitations on Disbursements from the Trust; Limit on Amount in Trust
-Section 2195.4 Procedures for Disbursements from the Fund Trust
-Section 2195.5 Audits
-Section 2195.6 Ownership of Trust
-Section 2195.7 No Inference of Liability on the Part of the State
-Section 2195.8 Advisory Board
-Section 2195.9 Financial Responsibility
-Section 2195.10 Voluntary Cleanup, Private Contracts; Exemptions
-(b) The regulatory provisions include:
-1. Louisiana Environmental Regulatory Code, Part XI: Underground Storage Tanks, Chapter 1—Program Applicability and Definitions
-Section 101 Applicability
-Section 103 Definitions
-2. Chapter 3—Registration Requirements, Standards, and Fee Schedule
-Section 301 Registration Requirements
-Section 303 Standards for UST Systems
-Section 305 Interim Prohibitions for Deferred UST Systems
-Section 307 Fee Schedule
-3. Chapter 5—General Operating Requirements
-Section 501 Spill and Overfill Control
-Section 503 Operation and Maintenance of Corrosion Protection
-Section 505 Compatibility
-Section 507 Repairs Allowed
-Section 509 Reporting and Recordkeeping
-4. Chapter 7—Methods of Release Detection and Release Reporting, Investigation, Confirmation, and Response
-Section 701 Methods of Release Detection
-Section 703 Requirements for Use of Release Detection Methods
-Section 705 Release Detection Recordkeeping
-Section 707 Reporting of Suspected Releases
-Section 709 Investigation due to Off-site Impacts
-Section 711 Release Investigation and Confirmation Steps
-Section 713 Reporting and Cleanup of Spills and Overfills
-Section 715 Release Response and Corrective Action for UST Systems Containing Petroleum or Hazardous Substances
-5. Chapter 9—Out-of-Service UST Systems and Closure
-Section 901 Applicability to Previously Closed UST Systems
-Section 903 Temporary Closure
-Section 905 Permanent Closure and Changes-in-Service
-Section 907 Assessing the Site at Closure or Changes-in-Service
-6. Chapter 11—Financial Responsibility
-Section 1101 Applicability
-Section 1103 Compliance Dates
-Section 1105 Definition of Terms
-Section 1107 Amount and Scope of Required Financial Responsibility
-Section 1109 Allowable Mechanisms and Combinations of Mechanisms
-Section 1111 Financial Test of Self-Insurance
-Section 1113 Guarantee
-Section 1115 Insurance and Risk Retention Group Coverage
-Section 1117 Surety Bond
-Section 1119 Letter of Credit
-Section 1121 Use of the Underground Motor Fuel Storage Tank Trust
-Section 1123 Trust Fund
-Section 1125 Standby Trust Fund
-Section 1127 Substitution of Financial Assurance Mechanisms by Owner or Operator
-Section 1129 Cancellation or Nonrenewal by a Provider of Financial Assurance
-Section 1131 Reporting by Owner or Operator
-Section 1133 Recordkeeping
-Section 1135 Drawing on Financial Assurance Mechanisms
-Section 1137 Release from the Requirements
-Section 1139 Bankruptcy or Other Incapacity of Owner or Operator or Provider of Financial Assurance
-Section 1141 Replenishment of Guarantees, Letters of Credit, or Surety Bonds
+(a) The regulatory provisions include:
+Louisiana Administrative Code, Title 33, Part XI. Underground Storage Tanks; effective September 20, 2018:
+1. Chapter 1. Program Applicability and Definitions
+Section 101. Applicability
+Section 103. Definitions except for sections a.i, iv, and v of the definition of owner; and the definitions of on staff, registered tank, response action contractor, and technical services
+2. Chapter 3. Registration Requirements, Standards, and Fee Schedule
+Section 301. Registration Requirements, all sections except 301.C.6
+Section 303. Standards for UST Systems
+Section 305. Installation Requirements for Partially-Deferred UST Systems
+3. Chapter 5. General Operating Requirements
+Section 501. Spill and overfill Control
+Section 503. Operation and Maintenance of Corrosion Protection
+Section 505. Compatibility
+Section 507. Repairs Allowed
+Section 509. Reporting and Recordkeeping
+Section 511. Periodic Testing of Spill Prevention Equipment and Containment Sumps used for Interstitial Monitoring of Piping and Periodic Inspection of Overfill Prevention Equipment
+Section 513. Periodic Operation and Maintenance Walkthrough Inspection
+4. Chapter 6. Training Requirements for Underground Storage Tank System Operators
+Section 601. Purpose
+Section 603. Underground Storage Tank Operator Classes
+Section 605. Acceptable UST Operator Training and Certification Processes
+Section 607. Underground Storage Tank Operator Training Deadlines
+Section 609. Underground Storage Tank Operator Training Frequency
+Section 611. Documentation of Underground Storage Tank Operator Training
+5. Chapter 7. Methods of Release Detection and Release Reporting, Investigation, Confirmation, and Response
+Section 701. Methods of Release Detection
+Section 703. Requirements for Use of Release Detection Methods
+Section 705. Release Detection Recordkeeping
+Section 707. Reporting of Suspected Releases
+Section 709. Investigation Due to Off-Site Impacts
+Section 711. Release Investigation and Confirmation Steps
+Section 713. Reporting and Cleanup of Spills and Overfills
+Section 715. Release Response and Corrective Action for UST Systems Containing Petroleum, Motor Fuel, or Hazardous Substances, all sections except the last sentence of 715.A, and 715.H
+6. Chapter 8. UST Systems with Field-Constructed tanks and Airport Hydrant Fuel Distribution Systems
+Section 801. General Requirements
+Section 803. Additions, Exceptions, and Alternatives for UST Systems with Field-Constructed Tanks and Airport Hydrant Systems
+7. Chapter 9. Out-of-Service UST Systems and Closure
+Section 901. Applicability to Previously Closed UST Systems
+Section 903. Temporary Closure
+Section 905. Permanent Closure and Changes-in-Service
+Section 907. Assessing the Site at Closure or Change-in-Service
+8. Chapter 11. Financial responsibility
+Section 1101. Applicability
+Section 1103. Compliance Dates
+Section 1105. Definition of Terms
+Section 1107. Amount and Scope of Required Financial Responsibility
+Section 1109. Allowable Mechanisms and Combinations of Mechanisms
+Section 1111. Financial Test of Self-Insurance
+Section 1113. Guarantee
+Section 1115. Insurance and Risk Retention Group Coverage
+Section 1117. Surety Bond
+Section 1119. Letter of Credit
+Section 1123. Trust Fund
+Section 1125. Standby Trust Fund
+Section 1127. Substitution of Financial Assurance Mechanisms by Owner or Operator
+Section 1129. Cancellation or Nonrenewal by a Provider of Financial Assurance
+Section 1131. Reporting by Owner or Operator
+Section 1133. Recordkeeping
+Section 1135. Drawing on Financial Assurance Mechanisms
+Section 1137. Release from the Requirements
+Section 1139. Bankruptcy or Other Incapacity of Owner or Operator or provider of Financial Assurance
+Section 1141. Replenishment of Guarantees, Letters of Credit, or Surety Bonds
+(b) Copies of the Louisiana UST regulations that are incorporated by reference are available from the Louisiana Office of the State Register, P.O. Box 94095, Baton Rouge, LA 70804-9095; Phone number: (225) 342-5015; website: https://www.doa.la.gov/Pages/osr/lac/LAC-33.aspx; or Louisiana Department of Environmental Quality's website: http://www.deq.louisiana.gov/resources/category/regulations-lac-title-33.
 Maine
 (a) The statutory provisions include:
 Maine Revised Statutes Annotated, Title 38. Waters and Navigation
@@ -859,212 +804,25 @@ Part Env-Or 610 Monitoring and Reporting, Section 610.01 Applicability, Section 
 Part Env-Or 611 Contaminated Soil, Section 611.01 Requirements for Managing Contaminated Soil, Section 611.02 Definitions, Section 611.03 Non-hazardous Oil-Contaminated Soil (NOCS) Certification, Section 611.04 Contaminated Soil Sampling, Section 611.05 Contaminated Soil Storage, Section 611.06 Contaminated Soil Disposal and Reuse.
 Appendix A: State States and Federal Statutes/Regulations Implemented; Appendix B: Incorporation by Reference Information; Appendix C: Statutory Definitions.
 New Mexico
-(a) The statutory provisions include:
-1. New Mexico Statutes 1978 Annotated, Chapter 74, Environmental Improvement (1993 Replacement Pamphlet and 1994 Supplement)
-a. Article 4: Hazardous Wastes
-74-4-1 Short Title
-74-4-2 Purpose
-74-4-3 Definitions
-74-4-3.1 Application of Act
-74-4-3.3 Hazardous Wastes of Other States
-74-4-4 Duties and Powers of the Board
-74-4-4.1 Hazardous Agricultural Waste; Duties and Responsibilities of the Department of Agriculture
-74-4-4.4 Underground Storage Tanks; Registration; Installer Certification; Fees [Except insofar as it applies to individuals other than UST owners and operators.]
-74-4-4.5 Hazardous Waste Fund Created; Appropriation
-74-4-4.7 Permit Applicant Disclosure
-74-4-4.8 Underground Storage Tank Fund Created; Appropriation
-74-4-5 Adoption of Regulations; Notice and Hearing
-74-4-7 Containment and Cleanup of Hazardous Substance Incidents; Division Powers
-74-4-8 Emergency Fund
-74-4-9 Existing Hazardous Waste Facilities; Interim Status
-74-4-10.1 Hazardous Waste Monitoring; Analysis and Testing
-b. Article 6: Water Quality
-74-6-1 Short Title
-74-6-2 Definitions
-74-6-3 Water Quality Control Commission Created
-74-6-3.1 Legal Advice
-74-6-4 Duties and Powers of Commission
-74-6-5 Permits; Certification; Appeals to Commission
-74-6-5.1 Disclosure Statements
-74-6-5.2 Water Quality Management Fund Created
-74-6-6 Adoption of Regulations and Standards; Notice and Hearing
-74-6-8 Duties of Constituent Agencies
-74-6-9 Powers of Constituent Agencies
-74-6-12 Limitations
-74-6-13 Construction
-74-6-14 Recompiled
-74-6-15 Confidential Information; Penalties
-74-6-16 Effect and Enforcement of Water Quality Act During Transition
-74-6-17 Termination of Agency Life; Delayed Repeal
-c. Article 6B: Ground Water Protection
-74-6B-1 Short Title
-74-6B-2 Findings; Purpose of Act
-74-6B-3 Definitions
-74-6B-4 Underground Storage Tank Committee; Creation; Terms; Powers and Duties
-74-6B-6 Civil Liability for Damage to Property from Leaking Underground Storage Tank
-74-6B-7 Corrective Action Fund Created; Authorization for Expenditures
-74-6B-8 Liability; Cost Recovery
-74-6B-9 Underground Storage Tank Fee; Deposit in Underground Storage Tank Fund
-74-6B-10 Act Does not Create Insurance Company or Fund
-74-6B-12 Early Response Team Created
-74-6B-13 Payment Program
-74-6B-14 State Liability; Insufficient Balance in the Fund
-(b) The regulatory provisions include:
-1. State of New Mexico Environmental Improvement Board Underground Storage Tank Regulations
-a. Part I: General Provisions
-Section 100 Purpose
-Section 101 Legal Authority
-Section 102 Definitions
-Section 103 Applicability
-b. Part II: Registration of Tanks
-Section 200 Existing Tanks
-Section 201 Transfer of Ownership
-Section 202 New UST System
-Section 203 Substantially Modified UST Systems
-Section 204 Notification of Spill or Release
-Section 205 Emergency Repairs and Tank Replacement
-Section 206 Application Forms
-Section 207 Registration Certificate
-c. Part III: Annual Fee
-Section 300 Payment of Fee
-Section 301 Amount of Fee
-Section 302 Late Payment Penalties
-d. Part IV: New and Upgraded UST Systems: Design, Construction, and Installation
-Section 400 Performance Standards for New UST Systems
-Section 401 Upgrading of Existing UST Systems
-Section 402 Certificate of Compliance; Notification Requirements
-e. Part V: General Operating Requirements
-Section 500 Spill and Overfill Control
-Section 501 Operation and Maintenance of Corrosion Protection
-Section 502 Compatibility
-Section 503 Repairs Allowed
-Section 504 Reporting and Recordkeeping
-Section 505 Inspections, Monitoring and Testing
-f. Part VI: Release Detection
-Section 600 General Requirements for All UST Systems
-Section 601 Requirements for Petroleum UST Systems
-Section 602 Requirements for Hazardous Substance UST Systems
-Section 603 Methods of Release Detection for Tanks
-Section 604 Methods of Release Detection for Piping
-Section 605 Release Detection Recordkeeping
-g. Part VII: Release Reporting, Investigation, and Confirmation
-Section 700 Reporting of Suspected Releases
-Section 701 Investigation Due to Off-Site Impacts
-Section 702 Release Investigation and Confirmation Steps
-Section 703 Reporting and Cleanup of Spills and Overfills
-h. Part VIII: Out-of-Service Systems and Closure
-Section 800 Temporary Closure
-Section 801 Permanent Closure and Changes-in-Service
-Section 802 Assessing the Site at Closure or Change-in-Service
-Section 803 Applicability to Previously Closed UST Systems
-Section 804 Closure Records
-i. Part IX: Financial Responsibility
-Section 900 Applicability
-Section 901 Compliance Dates
-Section 902 Definition of Terms
-Section 903 Amount and Scope of Required Financial Responsibility
-Section 904 Allowable Mechanisms and Combinations of Mechanisms
-Section 905 Financial Test of Self-Insurance
-Section 906 Guarantee
-Section 907 Insurance and Risk Retention Group Coverage
-Section 908 Surety Bond
-Section 909 Letter of Credit
-Section 910 Use of State-Required Mechanism
-Section 911 State Fund or Other State Assurance
-Section 912 Trust Fund
-Section 913 Standby Trust Fund
-Section 914 Substitution of Financial Assurance Mechanisms by Owner or Operator
-Section 915 Cancellation or Nonrenewal by a Provider of Financial Assurance
-Section 916 Reporting by Owner or Operator
-Section 917 Recordkeeping
-Section 918 Drawing on Financial Assurance Mechanisms
-Section 919 Release from the Requirements
-Section 920 Bankruptcy or Other Incapacity of Owner or Operator or Provider of Financial Assurance
-Section 921 Replenishment of Guarantees, Letters of Credit, or Surety Bonds
-Section 922 Suspension of Enforcement [Reserved]
-j. Part XI: Miscellaneous
-Section 1100 Compliance with Other Regulations
-Section 1101 Construction
-Section 1102 Severability
-k. Part XII: Corrective Action for UST Systems Containing Petroleum
-Section 1200 General
-Section 1201 Definitions
-Section 1202 Initial Response
-Section 1203 Initial Abatement
-Section 1204 72 Hour and 7 Day Reporting Requirements
-Section 1205 On-Site Investigation
-Section 1206 Report on the On-Site Investigation
-Section 1207 Split Samples and Sampling Procedures
-Section 1208 Free Product Removal
-Section 1209 Treatment of Highly Contaminated Soils
-Section 1210 Hydrogeologic Investigation
-Section 1211 Review and Approval of Hydrogeologic Investigation
-Section 1212 Reclamation Proposal
-Section 1213 Public Notice of Reclamation Proposal
-Section 1214 Review and Approval of Reclamation Proposal
-Section 1215 Implementation of Reclamation Proposal
-Section 1216 Quarterly Reports
-Section 1217 Evaluation of Corrective Action System
-Section 1218 Modification of Reclamation Proposal
-Section 1219 Termination of Reclamation
-Section 1220 Technical Infeasibility for Completion of Reclamation
-Section 1221 Request for Extension of Time
-Section 1222 Request for Variance
-l. Part XIII: Corrective Action for UST Systems Containing Other Regulated Substances
-Section 1300 General
-Section 1301 Definitions
-Section 1302 Initial Response
-Section 1303 Initial Abatement
-Section 1304 72 Hour and 7 Day Reporting Requirements
-Section 1305 On-Site Investigation
-Section 1306 Report on the On-Site Investigation
-Section 1307 Split Samples and Sampling Procedures
-Section 1308 Hydrogeologic Investigation
-Section 1309 Review and Approval of Hydrogeologic Investigation
-Section 1310 Reclamation Proposal
-Section 1311 Public Notice of Reclamation Proposal
-Section 1312 Review and Approval of Reclamation Proposal
-Section 1313 Implementation of Reclamation Proposal
-Section 1314 Quarterly Reports
-Section 1315 Evaluation of Corrective Action System
-Section 1316 Modification of Reclamation Proposal
-Section 1317 Termination of Reclamation
-Section 1318 Additional Water Quality Standards
-Section 1319 Request for Extension of Time
-Section 1320 Request for Variance
-m. Part XV: Ground Water Protection Act Regulations
-Section 1500 Purpose
-Section 1501 Legal Authority
-Section 1502 Definitions
-Section 1503 Construction
-Section 1504 Permissible Fund Expenditures
-Section 1505 Priorities for Fund Expenditures
-Section 1506 Site-Specific Allocation of Fund Monies
-Section 1507 Reserved and Dedicated Fund Monies
-Section 1508 Minimum Site Assessment
-2. Corrective Action Fund Payment and Reimbursement Regulations
-a. Part I: General Provisions
-Section 101 Authority
-Section 102 Purpose
-Section 103 Applicability
-Section 104 Definitions
-b. Part II: Compliance Determinations
-Section 201 General
-Section 202 Determination of Compliance under Section 74-6B-8
-Section 203 Compliance Determination Following Written Submission
-c. Part III: Eligible and Ineligible Costs
-Section 301 Minimum Site Assessment
-Section 302 Corrective Action
-d. Part IV: Application, Payment, and Reimbursement
-Section 401 Application, Payment, and Reimbursement Process
-e. Part V: Administrative Review
-Section 501 Review by the Director on Written Submittal
-Section 502 Request for Hearing on Determinations of Compliance and Cost Eligibility
-Section 503 Notice of Docketing and Hearing Officer Assignment; Motions; Prehearing Procedures and Discovery; Hearing and Post-Hearing Procedures
-f. Part VI: Miscellaneous Provisions
-Section 601 Liberal Construction
-Section 602 Severability
-Section 603 Compliance
+(a) The statutory provisions include: New Mexico Statutes Annotated (NMSA) 1978, as amended through May 16, 2018 (2018 Cumulative Supplement): Chapter 74, Environmental Improvement, Article 4 Hazardous Waste, sections 74-4-3(J), (R), and (S).
+(b) The regulatory provisions include: New Mexico Administrative Code (NMAC), as amended effective July 24, 2018: Title 20 Environmental Protection, Chapter 5 Petroleum Storage Tanks:
+Part 101: General Provisions—Sections 20.5.101.2 "Scope"; 20.5.101.7 "Definitions" (except "above ground storage tank" and "AST system");
+Part 102: Registration of Tanks—Sections 20.5.102.200 "Existing Tanks", 20.5.102.201 "Transfer of Ownership", and, 20.5.102.203 "Substantially Modified Storage Tank Systems" through 20.5.102.207 "Registration Certificate";
+Part 104: Operator Training—Sections 20.5.104.400 "Classes of Operators" through 20.5.104.412 "Documentation and Recordkeeping";
+Part 105: Certification of Tank Installers and Junior Installers; Requirements for Testers—Sections 20.5.105.500 "General Requirements for Installer of UST Systems" through 20.5.105.508 "Individual Certification for Junior Installer of UST Systems", and 205.105.510 "On-Site Examination for Installer" through 20.5.105.520 "Airport Hydrant Fuel Distribution Systems, UST Systems with Field-Constructed Tanks and Hybrid Storage Tank Systems";
+Part 106: New and Upgraded Underground Storage Tank Systems: Design, Construction, and Installation—Sections 20.5.106.600 "General Performance Standards for UST Systems" through 20.5.106.613 "Spill and Overfill Protection", and 20.5.106.615 "Required Notification Prior to Installation" through 20.5.106.617 "Alternate Methods";
+Part 107: General Operating Requirements for Underground Storage Tank Systems— Sections 20.5.107.700 "Operation and Maintenance of Underground Storage Tank Systems" through 20.5.107.711 "Required Notification Prior to Replacement, Repair and Modification"; 20.5.107.713 "Alternate Methods" through 20.5.107.715 "Reporting";
+Part 108: Release Detection For Underground Storage Tank Systems—Sections 20.5.108.800 "General Release Detection Requirements for UST Systems" through 20.5.105.816 "Reporting";
+Part 113 Underground Storage Tank Emergency Generator Systems—Sections 20.5.113.1300 "General Requirements" through 20.5.113.1308 "Reporting";
+Part 114: Airport Hydrant Fuel Distribution Systems, UST Systems with Field-Constructed Tanks, and Hybrid Storage Tank Systems—Sections 20.5.114.1400 "General Requirements for Airport Hydrant Fuel Distribution Systems, UST Systems with Field-Constructed Tanks, and Hybrid Storage Tank Systems" through 20.5.114.1414 "Reporting";
+Part 115: Out-of-Service Storage Tank Systems and Closure—Sections 20.5.115.1500 "Required Notification Prior to Temporary or Permanent Closure, Return to Service, Removal, or Change in Service"; 20.5.115.1501 "Out-of-Service Storage Tank Systems and Closure" (except 20.5.115.1501.C(3), 1501.E, 1501.F(3), and 1501.G [for field-erected AST systems only]); and 20.5.115.1502 "Permanent Closure" through 20.5.115.1506 "Closure Records";
+Part 117: Financial Responsibility—Sections 20.5.117.1700 "Applicability"; 20.53.117.1703 "Amount and Scope of Required Financial Responsibility" through 20.5.117.1772 "Form Document for Drawing on Financial Assurance Mechanisms";
+Part 118: Reporting and Investigation of Suspected and Confirmed Releases—Sections 20.5.118.1800 "Reporting of Spill or Release" through 20.5.118.1803 "Spills and Overfills";
+Part 119: Corrective Action for Storage Tank Systems Containing Petroleum Products—Sections 20.5.119.1900 "General" (except 20.5.119.1900.G and 205.119.1900.H) through 20.5.119.1933 "Reporting";
+Part 120: Corrective Action for UST Systems Containing Other Regulated Substances—Sections 20.5.120.2000 "General" (except 20.5.120.2000.G and 205.120.2000.H) through 20.5.120.2030 "Reporting";
+Part 121: Corrective Action Fund Use and Expenditures—Sections 20.5.121.2100 "Permissible Fund Expenditures" through 20.5.121.2106 "Reserved Money"; and
+Part 124: Lender Liability—Sections 20.5.124.7 "Definitions" through 20.5.124.2405 "Operating a Storage Tank or Storage Tank System After Foreclosure".
+(c) Copies of the New Mexico regulations that are incorporated by reference are available from the New Mexico State Records Center and Archives, 1205 Camino Carlos Rey, Santa Fe, NM 87507; Phone number: (505) 476-7941; website http://164.64.110.134/nmac/.
 North Carolina
 (a) The statutory provisions include:
 General Statutes of North Carolina, Chapter 143—State Departments, Institutions, and Commissions; Article 21A, Oil Pollution and Hazardous Substances Control
@@ -1644,123 +1402,119 @@ k. Part XI—General Prohibitions.
 (1) Rule 1101—Purpose, Scope and Applicability
 (2) Rule 1102—General Prohibitions
 Rhode Island
-(a) The statutory provisions include Rhode Island Statute Title 46 of the General Laws of Rhode Island, 1956, as amended:
-Chapter 12 Water Pollution
-Chapter 12.1 Underground Storage Tanks
-Chapter 12.3 The Environmental Injury Compensation Act
-Chapter 12.5 Oil Pollution Control
-Chapter 13.1 Groundwater Protection
-Chapter 14 Contamination of Drinking Water
-(b) The statutory provisions include Title 42 of the General Laws of Rhode Island, 1956, as amended.
-Chapter 35 Administrative Procedures
-(c) The statutory provisions include Title 38 of the General Laws of Rhode Island, 1956, as amended.
-Chapter 2 Access to Public Records
-(d) The statutory provisions include Title 37 of the General Laws of Rhode Island, 1956, as amended.
-Chapter 18 Narragansett Indian and Management Corp.
-(e) The statutory provisions include Title 23 of the General Laws of Rhode Island, 1956, as amended.
-Chapter 19.1 Hazardous Waste Management
-(f) The regulatory provisions include State of Rhode Island, Agency of Natural Resources, Underground Storage Tank Regulations, February 1, 1991:
-Section 1.00 Purpose
-Section 2.00 Authority
-Section 3.00 Superseded Rules and Regulations
-Section 4.00 Severability
-Section 5.00 Applicability
-Section 6.00 Administrative Findings
-Section 7.00 Definitions
-Section 8.00 Facility Registration and Notification
-Section 9.00 Financial Responsibility
-Section 10.00 Minimum Existing Facility Requirements
-Section 11.00 New Facility and Replacement Tank Requirements
-Section 12.00 Facility Modification
-Section 13.00 Maintaining Records
-Section 14.00 Leak and Spill Response
-Section 15.00 Closure
-Section 16.00 Leak Detection Methods and Precision Tester Licensing Requirements
-Section 17.00 Signatories to Registration and Closure Applications
-Section 18.00 Transfer of Certificates of Registration or Closure
-Section 19.00 USTs/Holding Tanks Serving Floor Drains
-Section 20.00 Variances
-Section 21.00 Appeals
-Section 22.00 Penalties
-Appendix A
-Appendix B
-Appendix C
-South Carolina
 (a) The statutory provisions include:
-(1) Code of Laws of South Carolina, Title 44. Health, Chapter 2. State Underground Petroleum Environmental Response Bank Act (SUPERB Act)
-44-2-10 Short Title
-44-2-20 Definitions
-44-2-70 Financial responsibility of underground storage tank owners and operators
-44-2-80 Release of regulated substance; containment, removal, and abatement
+1. Rhode Island General Laws, Title 42: State Affairs and Government; Chapter 42-17.1, Department of Environmental Management; Section 42-17.1-2, Powers and Duties.
+(31) standards for the quality of air, and water, and the location, design, construction, and operation of all underground storage facilities used for storing petroleum products or hazardous materials.
+2. Rhode Island General Laws, Title 46: Waters and Navigation; Chapter 46-12. Water Pollution; Section 46-12-3, Powers and Duties of the Director.
+(4) accepting and administering loans and grants.
+(21) standards for location, design, construction, maintenance, and operation of underground storage facilities used for storing petroleum products or hazardous materials to prevent, abate, and remedy the discharge of petroleum products and hazardous materials into the waters of the state.
+(22) promulgate regulations for monitoring wells.
 (b) The regulatory provisions include:
-(1) South Carolina Underground Storage Tank Control Regulations, R.61-92, Part 280
-280.10 Applicability
-280.11 Interim prohibition for deferred UST systems
-280.12 Definitions
-280.20 Performance standards for new UST systems
-280.21 Upgrading of Existing UST systems
-280.22 Notification requirements
-280.23 New tanks—B permits required
-280.24 Testing
-280.25 Secondary containment required
-280.30 Spill and overfill control
-280.31 Operation and maintenance of corrosion protection
-280.32 Compatibility
-280.33 Repairs allowed
-280.34 Reporting and recordkeeping
-280.40 General requirements for all UST systems
-280.41 Requirements for petroleum UST systems
-280.42 Requirements for hazardous substance UST systems
-280.43 Methods of release detection for tanks
-280.44 Methods of release detection for piping
-280.45 Release detection recordkeeping
-280.50 Reporting of suspected releases
-280.51 Investigation due to off-site impacts
-280.52 Release investigation and confirmation steps
-280.53 Reporting and cleanup of spills and overfills
-280.60 General
-280.61 Initial response
-280.62 Initial abatement measures and site check
-280.63 Initial site characterization
-280.64 Free product removal
-280.65 Investigations for soil and ground-water cleanup
-280.66 Corrective action plan
-280.67 Public participation
-280.70 Temporary closure
-280.71 Permanent closure and changes-in-service
-280.72 Assessing the site at closure or change-in-service and reporting requirements
-280.73 Applicability to previously closed UST systems
-280.74 Closure records
-280.90 Applicability
-280.91 Compliance dates
-280.92 Definition of terms
-280.93 Amount and scope of required financial responsibility
-280.94 Allowable mechanisms and combinations of mechanisms
-280.95 Financial test of self-assurance
-280.96 Guarantee
-280.97 Insurance and risk retention group coverage
-280.98 Surety Bond
-280.99 Letter of credit
-280.101 State Underground Petroleum Environmental Response Bank (SUPERB) or other state assurance
-280.102 Trust Fund
-280.103 Standby trust fund
-280.104 Local government bond rating test
-280.105 Local government financial test
-280.106 Local government guarantee
-280.107 Local government fund
-280.108 Substitution of financial assurance mechanism by owner or operator
-280.109 Cancellation or non-renewal by a provider of financial assurance
-280.110 Reporting by owner or operator
-280.111 Recordkeeping
-280.112 Drawing on financial assurance mechanisms
-280.113 Release from requirements
-280.114 Bankruptcy or other incapacity of owner or operator or provider of financial assurance
-280.115 Replenishment of guarantees, letters of credit, or surety bonds
-280.116 Suspension of enforcement (reserved)
-280.200 Definitions
-280.210 Participation in management
-280.220 Ownership of an underground storage tank or underground storage tank system or facility or property on which an underground storage tank or underground storage tank system is located
-280.230 Operating an underground storage tank or underground storage tank system
+1. Rhode Island Rules and Regulations for Underground Storage Facilities Used for Regulated Substances and Hazardous Materials, 250-RICR-140-25-1, (effective November 20, 2018)
+Section 1.1 Purpose.
+Section 1.2. Authority.
+Section 1.3 Incorporated Materials.
+Section 1.4 Applicability, except (E) and (G).
+Section 1.5 Definitions.
+Section 1.6 Administrative Findings.
+Section 1.7 Facility Registration.
+Section 1.8 Financial Responsibility, except (D).
+Section 1.10 Minimum UST Operation and Maintenance Requirements, except (C), (D), and (F)(4) and (T).
+Section 1.11 New and Replacement UST System Requirements, except (B)(1-3) and (5), (C)(1), (J)(1), and (L)(2).
+Section 1.12 Facility Modifications or Repairs, except (A).
+Section 1.13 Maintaining Records.
+Section 1.14 Leak and Spill Response.
+Section 1.15 Closure, except (D)(5).
+Section 1.16 Approval of Tank and/or Line Tightness Tests, Leak Detection Methods and Licensing Requirements, except (B), (D), (E), (F), (G) and (H).
+Section 1.17 Signatories to Registration and Closure Applications.
+Section 1.18 Transfer of Certificates of Registration and Closure.
+South Carolina
+(A) The statutory provisions include:
+State Underground Petroleum Environmental Response Bank Act (SUPERB) of 1988, S.C. Code Ann. sections 44-2-10 to 44-2-150 (2010):
+44-2-10 Short Title.
+44-2-20 Definitions.
+44-2-70 Financial responsibility of underground storage tank owners and operators; except the first sentence of (B).
+44-2-80 Release of regulated substance; containment, removal, and abatement.
+(B) The regulatory provisions include:
+South Carolina Underground Storage Tank Control Regulations, R.61-92 (2017):
+280.10 Applicability, except (d).
+280.11 Installation requirements for partially excluded UST systems.
+280.12 Definitions.
+280.20 Performance standards for new UST systems, except for the text "obtain permits in accordance with section 280.23 and" in the introductory paragraph, and the text "on the Permit to Operate application form in accordance with Section 280.23" in (f).
+280.21 Upgrading of Existing UST systems.
+280.22 Notification requirements, except (h) and (i).
+280.24 Testing.
+280.25 Secondary containment required.
+280.30 Spill and overfill control.
+280.31 Operation and maintenance of corrosion protection.
+280.32 Compatibility.
+280.33 Repairs allowed.
+280.34 Reporting and recordkeeping.
+280.35 Periodic testing of spill prevention equipment and containment sumps used for interstitial monitoring of piping and periodic inspection of overfill prevention equipment.
+280.36 Periodic operation and maintenance walkthrough inspections.
+280.40 General requirements for all UST systems.
+280.41 Requirements for petroleum UST systems.
+280.42 Requirements for hazardous substance UST systems.
+280.43 Methods of release detection for tanks.
+280.44 Methods of release detection for piping.
+280.45 Release detection recordkeeping.
+280.50 Reporting of suspected releases.
+280.51 Investigation due to off-site impacts.
+280.52 Release investigation and confirmation steps.
+280.53 Reporting and cleanup of spills and overfills.
+280.60 General.
+280.61 Initial response.
+280.62 Initial abatement measures and site check.
+280.63 Initial site characterization.
+280.64 Free product removal.
+280.65 Investigations for soil and ground-water cleanup.
+280.66 Corrective action plan.
+280.70 Temporary closure.
+280.71 Permanent closure and changes-in-service.
+280.72 Assessing the site at closure or change-in-service.
+280.73 Applicability to previously closed UST systems.
+280.74 Closure records.
+280.90 Applicability.
+280.91 Compliance dates.
+280.92 Definition of terms.
+280.93 Amount and scope of required financial responsibility.
+280.94 Allowable mechanisms and combinations of mechanisms.
+280.95 Financial test of self-assurance.
+280.96 Guarantee.
+280.97 Insurance and risk retention group coverage.
+280.98 Surety Bond.
+280.99 Letter of credit.
+280.100 Use of state-required mechanism [Reserved].
+280.101 State fund or other state assurance, except (b) through (e).
+280.102 Trust Fund.
+280.103 Standby trust fund.
+280.104 Local government bond rating test.
+280.105 Local government financial test.
+280.106 Local government guarantee.
+280.107 Local government fund.
+280.108 Substitution of financial assurance mechanisms by owner or operator.
+280.109 Cancellation or non-renewal by a provider of financial assurance.
+280.110 Reporting by owner or operator.
+280.111 Recordkeeping.
+280.112 Drawing on financial assurance mechanisms.
+280.113 Release from the requirements.
+280.114 Bankruptcy or other incapacity of owner or operator or provider of financial assurance.
+280.115 Replenishment of guarantees, letters of credit, or surety bonds.
+280.116 Suspension of enforcement [Reserved].
+280.200 Definitions.
+280.210 Participation in management.
+280.220 Ownership of an underground storage tank or underground storage tank system or facility or property on which an underground storage tank or underground storage tank system is located.
+280.230 Operating an underground storage tank or underground storage tank system.
+280.240 General requirement for all UST systems, except (b).
+280.241 Designation of Class A, B, and C operators.
+280.242 Requirements for operator training.
+280.243 Timing of operator training.
+280.244 Retraining.
+280.245 Documentation.
+280.250 Definitions.
+280.251 General Requirements.
+280.252 Additions, exceptions, and alternatives for UST systems with field-constructed tanks and airport hydrant systems.
+(C) Copies of the South Carolina statutes and regulations that are incorporated by reference are available from the South Carolina State Register, 223 Blatt Building, 1105 Pendleton Street, Columbia, South Carolina 29201; Phone number: (803) 212-4500; website: https://www.scstatehouse.gov/.
 South Dakota
 (a) The statutory provisions include South Dakota Statutes Annotated, Chapter 34A-2, Sections 98 and 99. Underground Storage Tanks:
 Section 98 Underground storage tanks—Definitions.
@@ -1875,171 +1629,87 @@ Section.08(19) Release from requirements
 Section.08(20) Bankruptcy or other incapacity of owner or operator or provider of financial assurance
 Section.08(21) Replenishment of guarantees, letters of credit, or surety bonds
 Texas
-(a) The statutory provisions include
-1. Texas Water Code, Title 2, Subtitle D, Chapter 26—State Water Administration
-a. Subchapter I: Underground and Aboveground Storage Tanks
-Section 26.341 Purpose (Except insofar as it applies to aboveground storage tanks.)
-Section 26.342 Definitions (Except insofar as (10) and (12) apply to aboveground storage tanks.)
-Section 26.343 Regulated Substances
-Section 26.344 Exemptions (Except insofar as (a), (d), and (f) apply to aboveground storage tanks.)
-Section 26.345 Administrative Provisions (Except insofar as (a) and (e) apply to aboveground storage tanks.)
-Section 26.346 Registration Requirements (Except insofar as (a) applies to aboveground storage tanks.)
-Section 26.347 Tank Standards
-Section 26.348 Leak Detection and Record Maintenance
-Section 26.349 Reporting of Releases and Corrective Action (Except insofar as (a) applies to aboveground storage tanks.)
-Section 26.350 Tank Closure Requirements
-Section 26.351 Corrective Action (Except insofar as it applies to aboveground storage tanks.)
-Section 26.3511 Corrective Action by the Commission (Except insofar as it applies to aboveground storage tanks.)
-Section 26.3512 Owner or Operator Responsibility; Limitations on Fund Payments for Corrective Action
-Section 26.3513 Liability and Costs: Multiple Owners and Operators
-Section 26.3514 Limits on Liability of Lender (Except insofar as it applies to aboveground storage tanks.)
-Section 26.3515 Limits on Liability of Corporate Fiduciary (Except insofar as it applies to aboveground storage tanks.)
-Section 26.352 Financial Responsibility
-Section 26.355 Recovery of Costs (Except insofar as it applies to aboveground storage tanks.)
-Section 26.357 Standards and Rules
-Section 26.3571 Eligible Owner or Operator
-Section 26.3572 Groundwater Protection Cleanup Program
-Section 26.3573 Petroleum Storage Tank Remediation Fund
-Section 26.35735 Claims Audit
-Section 26.3574 Fee on Delivery of Certain Petroleum Products
-Section 26.358 Storage Tank Fund; Fees (Except insofar as it applies to aboveground storage tanks.)
-Section 26.359 Local Regulation or Ordinance
-(b) The regulatory provisions include
-1. 31 Texas Administrative Code, Chapter 334—Underground and Aboveground Storage Tanks
-a. Subchapter A: General Provisions
-Section 334.1 Purpose and Applicability (Except insofar as Section 334.1(a)(1), (c), and (d)(2) apply to aboveground storage tanks.)
-Section 334.2 Definitions
-Section 334.3 Statutory Exemptions (Except insofar as Section 334.3(b) applies release reporting and corrective action requirements to certain hydraulic lift tanks that are exempt under the federal program.)
-Section 334.4 Commission Exclusions (Except insofar as Section 334.4: (1) Does not exclude airport hydrant fuel distribution systems and UST systems with field-constructed tanks; excludes only sumps less than 110 gallons, as opposed to all tanks; and does not provide a release detection deferral for UST systems that store fuel solely for use by emergency power generators; (2) Subjects wastewater treatment tank systems that are deferred in the federal rules to the registration requirements, general operating requirements, and corrective action requirements; (3) Requires USTs that store radioactive substances or are part of a nuclear power plant to comply with registration and general operating requirements; and (4) Applies release reporting and corrective action requirements to certain hydraulic lift tanks that are exempt under the federal program.)
-Section 334.5 General Prohibitions
-Section 334.6 Construction Notification
-Section 334.7 Registration
-Section 334.8 Certification
-Section 334.9 Seller's Disclosure
-Section 334.10 Reporting and Recordkeeping
-Section 334.12 Other General Provisions
-2. Subchapter B: Underground Storage Tank Fees
-Section 334.21 Fee Assessment
-Section 334.22 Failure to Make Payment
-Section 334.23 Disposition of Fees, Interest and Penalties
-3. Subchapter C: Technical Standards
-Section 334.41 Applicability
-Section 334.42 General Standards
-Section 334.43 Variances and Alternative Procedures
-Section 334.44 Implementation Schedules
-Section 334.45 Technical Standards for New UST Systems
-Section 334.46 Installation Standards for New UST Systems
-Section 334.47 Technical Standards for Existing UST Systems
-Section 334.48 General Operating and Management Requirements
-Section 334.49 Corrosion Protection
-Section 334.50 Release Detection
-Section 334.51 Spill and Overfill Prevention and Control
-Section 334.52 UST System Repairs and Relining
-Section 334.53 Reuse of Used Tanks
-Section 334.54 Temporary Removal from Service
-Section 334.55 Permanent Removal from Service
-4. Subchapter D: Release Reporting and Corrective Action
-Section 334.71 Applicability
-Section 334.72 Reporting of Suspected Releases
-Section 334.73 Investigation Due to Off-Site Impacts
-Section 334.74 Release Investigation and Confirmation Steps
-Section 334.75 Reporting and Cleanup of Surface Spills and Overfills
-Section 334.76 Initial Response to Releases
-Section 334.77 Initial Abatement Measures and Site Check
-Section 334.78 Initial Site Characterization
-Section 334.79 Free Product Removal
-Section 334.80 Investigation for Soil and Groundwater Cleanup
-Section 334.81 Corrective Action Plan
-Section 334.82 Public Participation
-Section 334.83 Emergency Orders
-Section 334.84 Corrective Action by the Commission
-Section 334.85 Management of Wastes
-5. Subchapter E: Financial Responsibility
-Section 334.91 Applicability
-Section 334.92 Compliance Dates
-Section 334.93 Amount and Scope of Required Financial Responsibility
-Section 334.94 Allowable Mechanisms and Combinations of Mechanisms
-Section 334.95 Financial Test of Self-Insurance
-Section 334.96 Guarantee
-Section 334.97 Insurance and Risk Retention Group Coverage
-Section 334.98 Surety Bond
-Section 334.99 Letter of Credit
-Section 334.100 Trust Fund
-Section 334.101 Standby Trust Fund
-Section 334.102 Substitution of Financial Assurance Mechanisms by Owner or Operator
-Section 334.103 Cancellation or Nonrenewal by a Provider of Financial Assurance
-Section 334.104 Reporting by Owner or Operator
-Section 334.105 Financial Assurance Recordkeeping
-Section 334.106 Drawing on Financial Assurance Mechanisms
-Section 334.107 Release from the Requirements
-Section 334.108 Bankruptcy or Other Incapacity of Owner or Operator of Provider of Financial Assurance
-Section 334.109 Replenishment of Guarantees, Letters of Credit, or Surety Bonds
-6. Subchapter H: Interim Reimbursement Program
-Section 334.301 Applicability of this Subchapter
-Section 334.302 General Conditions and Limitations Regarding Reimbursement—Interim Period
-Section 334.303 Time to File Application—Interim Period
-Section 334.304 Who May File Application—Interim Period
-Section 334.305 Where and How Documents Must Be Filed—Interim Period
-Section 334.306 Form and Contents of Application—Interim Period
-Section 334.307 Technical Information Required—Interim Period
-Section 334.308 Allowable Costs and Restrictions on Allowable Costs—Interim Period
-Section 334.309 Reimbursable Costs—Interim Period
-Section 334.310 Requirements for Eligibility—Interim Period
-Section 334.311 Determining the Number of Occurrences—Interim Period
-Section 334.312 Owner/Operator Contribution
-Section 334.313 Review of Application by Executive Director—Interim Period
-Section 334.314 Executive Director's Fund Payment Report—Initial Period
-Section 334.315 Protest of Fund Payment Report—Interim Period
-Section 334.316 Formal Petition—Interim Period
-Section 334.317 Hearing by the Commission—Interim Period
-Section 334.318 Recovery of Costs—Interim Period
-Section 334.319 Administrative Penalties and Other Actions—Initial Period
-Section 334.320 Responsibilities of Owners and Operators—Interim Period
-Section 334.321 Corrective Action by the Commission—Interim Period
-Section 334.322 Subchapter H Definitions
-7. Subchapter K: Petroleum Substance Waste
-Section 334.481 Definitions
-Section 334.482 General Prohibitions
-Section 334.483 Disposal by Generator
-Section 334.484 Registration Required for Petroleum-Substance Waste Storage or Treatment Facilities
-Section 334.485 Authorization for Class C and Class D Facilities
-Section 334.486 Exemptions
-Section 334.487 Notification and Mobilization Requirements for Class B Facilities
-Section 334.488 Effect on Existing Facilities
-Section 334.489 Notice to Owners and Operators
-Section 334.490 Public Notice
-Section 334.491 Public Meetings for Class A Facilities
-Section 334.492 Closure and Facility Expansion
-Section 334.493 Location Standards for Class A Petroleum-Substance Waste Storage or Treatment Facilities
-Section 334.494 Shipping Procedures Applicable to Generators of Petroleum-Substance Waste
-Section 334.495 Recordkeeping and Reporting Procedures Applicable to Generators
-Section 334.496 Shipping Requirements Applicable to Transporters of Petroleum-Substance Waste
-Section 334.497 Shipping Requirements Applicable to Owners or Operators of Storage Treatment or Disposal Facilities
-Section 334.498 Recordkeeping Requirements Applicable to Owners or Operators of Storage Treatment or Disposal Facilities
-Section 334.499 Additional Reports
-Section 334.500 Design and Operating Requirements of Stockpiles and Land Surface Treatment Units
-Section 334.501 Reuse of Petroleum-Substance Waste
-Section 334.502 Contaminant Assessment Program and Corrective Action
-Section 334.503 Security
-Section 334.504 Contingency Plan
-Section 334.505 Emergency Procedures
-Section 334.506 Closure Requirements Applicable to Class A and Class B Facilities
-Section 334.507 General Requirements for Financial Assurance
-Section 334.508 Mechanisms for Financial Assurance
-Section 334.509 Liability Requirements for Class A and B Facilities
-Section 334.510 Incapacity of Owners or Operators, Guarantors, or Financial Institutions
-8. Subchapter L: Overpayment Prevention
-Section 334.530 Purpose and Applicability of the Subchapter
-Section 334.531 Responsibility of Recipients of Money from the PSTR Fund and Persons Paid by Recipients of Money from the PSTR Fund
-Section 334.532 Payments
-Section 334.533 Audits
-Section 334.534 Notice of Overpayment
-Section 334.535 Objections to the Notice of Overpayment and Formal Petition for Hearing
-Section 334.536 Hearing by the Commission
-Section 334.537 Failure to Return Overpayment or Cooperative with Audit or Investigation
-Section 334.538 Administrative Penalties and Other Actions
-9. Subchapter M: Reimbursable Cost Guidelines for the Petroleum Storage Tank Reimbursement Program
-Section 334.560 Reimbursable Cost Guidelines
+(a) The regulatory provisions include:
+1. Texas Administrative Code, Title 30, Part I. Texas Commission on Environmental Quality, Chapter 37 Financial Assurance, as amended effective through May 31, 2018:
+Subchapter I. Financial Assurance for Petroleum Underground Storage Tank Systems
+Section 37.801 Applicability
+Section 37.802 Definitions
+Section 37.815 Amount and Scope of Required Financial Assurance
+Section 37.820 Allowable Mechanisms and Combinations of Mechanisms
+Section 37.825 Financial Test of Self-Insurance
+Section 37.830 Guarantee
+Section 37.835 Insurance and Risk Retention Group Coverage
+Section 37.840 Surety Bond
+Section 37.845 Letter of Credit
+Section 37.850 Trust Fund
+Section 37.855 Standby Trust Fund
+Section 37.860 Substitution of Financial Assurance Mechanisms by Owner or Operator
+Section 37.865 Cancellation or Non-Renewal by a Provider of Financial Assurance
+Section 37.867 Duty to Empty Tanks After Termination of Financial Assurance
+Section 37.870 Reporting, Registration, and Certification
+Section 37.875 Financial Assurance Recordkeeping
+Section 37.880 Drawing on Financial Assurance Mechanisms
+Section 37.885 Release from the Requirements
+Section 37.890 Bankruptcy or Other Incapacity of Owner or Operator or Provider of Financial Assurance
+Section 37.895 Replenishment of Guarantees, Letters of Credit or Surety Bonds
+2. Texas Administrative Code, Title 30, Part I. Texas Commission on Environmental Quality, Chapter 334 Underground and Aboveground Storage Tanks; effective May 31, 2018:
+Subchapter A. General Provisions:
+>Section 334.1 "Purpose and Applicability"
+Section 334.2 "Definitions" (except as they apply to aboveground storage tanks (ASTs))
+Section 334.3 "Exemptions for Underground Storage Tanks (USTs) and UST Systems"
+Section 334.4 "Exclusions for Underground Storage Tanks (USTs) and UST Systems"
+Section 334.5 "General Prohibitions for Underground Storage Tanks (USTs) and UST Systems"
+Section 334.6 "Construction Notification for Underground Storage Tanks (USTs) and UST Systems"
+Section 334.7 "Registration for Underground Storage Tanks (USTs) and UST Systems"
+Section 334.8 "Certification for Underground Storage Tanks (USTs) and UST Systems"
+Section 334.10 "Reporting and Recordkeeping"
+Section 334.12 "Other General Provisions"
+Section 334.15 "Limits on Liability of Lender" (except as it applies to aboveground storage tanks (ASTs))
+Section 334.16 "Limits on Liability of Corporate Fiduciary"
+Section 334.18 "Limits on Liability of Taxing Unit" (except as it applies to aboveground storage tanks (ASTs))
+Subchapter C. Technical Standards:
+Section 334.41 "Applicability"
+Section 334.42 "General Standards"
+Section 334.43 "Variances and Alternative Procedures"
+Section 334.44 "Implementation Schedules"
+Section 334.45 "Technical Standards for New Underground Storage Tank Systems"
+Section 334.46 "Installation Standards for New Underground Storage Tank Systems"
+Section 334.47 "Technical Standards for Existing Underground Storage Tank Systems"
+Section 334.48 "General Operating and Management Requirements"
+Section 334.49 "Corrosion Protection"
+Section 334.50 "Release Detection"
+Section 334.51 "Spill and Overfill Prevention and Control"
+Section 334.52 "Underground Storage Tank System Repairs and Relining"
+Section 334.53 "Reuse of Used Tanks"
+Section 334.54 "Temporary Removal from Service"
+Section 334. 55 "Permanent Removal from Service"
+Section 334.56 "Change to Exempt or Excluded Status"
+Subchapter D. Release Reporting and Corrective Action:
+Section 334.71 "Applicability and Deadlines"
+Section 334.72 "Reporting of Suspected Releases"
+Section 334.73 "Investigation Due to Off-Site Impacts"
+Section 334.74 "Release Investigation and Confirmation Steps"
+Section 334.75 "Reporting and Cleanup of Surface Spills and Overfills"
+Section 334.76 "Initial Response to Releases"
+Section 334.77 "Initial Abatement Measures and Site Check"
+Section 334.78 "Site Assessment"
+Section 334.79 "Removal of Non-Aqueous Phase Liquids (NAPLs)"
+Section 334.80 "Investigation of Soil and Groundwater Cleanup"
+Section 334.81 "Corrective Action Plan"
+Section 334.84 "Corrective Action by the Agency"
+Section 334.85 "Management of Wastes"
+Subchapter J. Leaking Petroleum Storage Tank Corrective Action Specialist Registration and Project Manager Licensing:
+Section 334.451 "Applicability of Subchapter J"
+Section 334.454 "Exception for Emergency Abatement Actions"
+Section 334.455 "Notice to Owner or Operator"
+Subchapter N. Operator Training:
+Section 334.601 "Purpose and Applicability"
+Section 334.602 "Designation and Training of Classes of Operators"
+Section 334.603 "Acceptable Operator Training and Certification Processes"
+Section 334.604 "Operator Training Deadlines"
+Section 334.605 "Operator Training Frequency"
+Section 334.606 "Documentation of Operator Training"
+(b) Copies of the Texas UST regulations that are incorporated by reference are available from Thomson Reuters, 610 Opperman Drive, Eagan, MN 55123; Phone: 1-888-728-7677; website: http://legalsolutions.thomsonreuters.com; or the Texas Secretary of State office website at https://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=30&pt=1&ch=334.
 Utah
 (a) The statutory provisions include: Utah Code, Title 19: "Environmental Quality Code," Chapter 1, "General Provisions, Part 2, Powers," (May 8, 1991) and Chapter 6, "Hazardous Substances, Part 4, Underground Storage Tank Act" (May 8, 2018):
 Section 19-1-203, Representatives of department authorized to enter regulated premises.
@@ -2134,44 +1804,46 @@ Appendix C Procedures for Manual Tank Gauging.
 Appendix D Installation Requirements Applicable to New and Replacement UST Systems.
 Virginia
 (a) The statutory provisions include:
-(1) Code of Virginia, Title 62.1, Chapter 3.1: State Water Control Law
+(1) Code of Virginia, Title 62.1, Chapter 3.1: State Water Control Law.
 Article 9: Storage Tanks
-Section 62.1-44.34:8 Definitions, except "Aboveground storage tank" and "Regulated substance"
+Section 62.1-44.34:8 Definitions, except "Regulated substance" insofar as the term includes substances not regulated under the federal program
 Section 62.1-44.34:9 Powers and duties of Board
 Article 10: Petroleum Storage Tank Fund
-Section 62.1-44.34:10 Definitions, except "Aboveground storage tank" and "Regulated substance"
+Section 62.1-44.34:10 Definitions, except "Regulated substance" insofar as the term includes substances not regulated under the federal program
 Section 62.1-44.34:11 Virginia Petroleum Storage Tank Fund
-Section 62.1-44.34:12 Financial responsibility
+Section 62.1-44.34:12 Financial Responsibility
 (b) The regulatory provisions include:
-(1) Virginia Administrative Code, Title 9, Agency 25: State Water Control Board, Chapter 580: Underground Storage Tanks—Technical Standards and Corrective Action Requirements
-Part I: Definitions, Applicability, and Interim Prohibition
-9 VAC 25-580-10 Definitions, except "Underground storage tank" includes heating oil tanks of greater than 5,000 gallon capacity and "Regulated substance"
+(1) Virginia Administrative Code, Title 9, Agency 25: State Water Control Board, Chapter 580: Underground Storage Tanks: Technical Standards and Corrective Action Requirements.
+Part I: Definitions, Applicability, and Installation Requirements for Partially Excluded UST Systems
+9 VAC 25-580-10 Definitions, except the terms "Delivery prohibition," "Delivery prohibition tag," and "Regulated substance" insofar as the term includes substances not regulated under the federal program
 9 VAC 25-580-20 Applicability
-9 VAC 25-580-30 Interim prohibition for deferred UST systems
-9 VAC 25-580-40 Permitting and inspection requirements for all UST systems
+9 VAC 25-580-30 Installation requirements for partially excluded UST systems
 Part II: UST Systems: Design, Construction, Installation, and Notification
-9 VAC 25-580-50 Performance standards for new UST systems
-9 VAC 25-580-60 Upgrading of existing UST systems
+9 VAC 25-580-50 Performance standards for new UST systems, except USBC permitting and inspection requirements at -50.4 and -50.5
+9 VAC 25-580-60 Upgrading of existing UST systems, except USBC permitting and inspection requirements
 9 VAC 25-580-70 Notification requirements
+Part III: General Operating Requirements
 9 VAC 25-580-80 Spill and overfill control
+9 VAC 25-580-82 Periodic testing of spill prevention equipment and containment sumps used for interstitial monitoring of piping and periodic inspection of overfill prevention equipment
+9 VAC 25-580-85 Periodic operation and maintenance walkthrough inspections
 9 VAC 25-580-90 Operation and maintenance of corrosion protection
 9 VAC 25-580-100 Compatibility
-9 VAC 25-580-110 Repairs allowed
-Part III: General Operating Requirements
+9 VAC 25-580-110 Repairs allowed, except USBC permitting and inspection requirements
 9 VAC 25-580-120 Reporting and recordkeeping
+9 VAC 25-580-125 Operator training
 Part IV: Release Detection
-9 VAC 25-580-130 General requirements for all petroleum and hazardous substance UST systems, except heating oil tanks of greater than 5,000 gallon capacity
+9 VAC 25-580-130 General requirements for all petroleum and hazardous substance UST systems
 9 VAC 25-580-140 Requirements for petroleum UST systems
 9 VAC 25-580-150 Requirements for hazardous substance UST systems
-9 VAC 25-580-160 Methods of release detection for tanks
-9 VAC 25-580-170 Methods of release detection for piping
+9 VAC 25-580-160 Methods of release detection for tanks, except USBC permitting and inspection requirements
+9 VAC 25-580-170 Methods of release detection for piping, except USBC permitting and inspection requirements
 9 VAC 25-580-180 Release detection recordkeeping
 Part V: Release Reporting, Investigation, and Confirmation
 9 VAC 25-580-190 Reporting of suspected releases
 9 VAC 25-580-200 Investigation due to off-site impacts
-9 VAC 25-580-210 Release investigation and confirmation steps
+9 VAC25-580-210 Release investigation and confirmation steps
 9 VAC 25-580-220 Reporting and cleanup of spills and overfills
-Part VI: Release Response and Corrective Action for UST Systems Containing Petroleum for Hazardous Substances
+Part VI: Release Response and Corrective Action for UST Systems Containing Petroleum or Hazardous Substances
 9 VAC 25-580-230 General
 9 VAC 25-580-240 Initial response
 9 VAC 25-580-250 Initial abatement measures and site check
@@ -2179,18 +1851,21 @@ Part VI: Release Response and Corrective Action for UST Systems Containing Petro
 9 VAC 25-580-270 Free product removal
 9 VAC 25-580-280 Corrective action plan
 9 VAC 25-580-300 Public participation
-9 VAC 25-580-310 Temporary closure
 Part VII: Out-of-Service UST Systems and Closure
-9 VAC 25-580-320 Permanent closure and changes-in-service
+9 VAC 25-580-310 Temporary closure, except USBC permitting and inspection requirements
+9 VAC 25-580-320 Permanent closure and changes-in-service, except USBC permitting and inspection requirements
 9 VAC 25-580-330 Assessing the site at closure or change-in-service
 9 VAC 25-580-340 Applicability to previously closed UST systems
 9 VAC 25-580-350 Closure records
 Part VIII: Delegation
 9 VAC 25-580-360 Delegation of authority
-Appendix I: Virginia Underground Storage Tank Notification Forms
-Appendix II: Statement for Shipping tickets and Invoices
+Part X: UST Systems With Field-Constructed Tanks and Airport Hydrant Fuel Distribution Systems
+9 VAC 25-580-380 General requirements, except USBC permitting and inspection requirements
+9 VAC 25-580-390 Additions, exceptions, and alternatives for UST systems with field constructed tanks and airport hydrant systems, except USBC permitting and inspection requirements
+Forms (9VAC25-580)
 (2) Virginia Administrative Code, Title 9, Agency 25: State Water Control Board, Chapter 590: Petroleum Underground Storage Tank Financial Responsibility Requirements
 9 VAC 25-590-10 Definitions
+9 VAC 25-590-15 Applicability of incorporated references based on the dates that they became effective
 9 VAC 25-590-20 Applicability
 9 VAC 25-590-30 Compliance dates
 9 VAC 25-590-40 Amount and scope of financial responsibility requirement
@@ -2200,41 +1875,43 @@ Appendix II: Statement for Shipping tickets and Invoices
 9 VAC 25-590-80 Insurance and group self-insurance pool coverage
 9 VAC 25-590-90 Surety bond
 9 VAC 25-590-100 Letter of credit
+9 VAC 25-590-105 Certificate of deposit
 9 VAC 25-590-110 Trust fund
-9 VAC 25-590-120 Standby trust fund
-9 VAC 25-590-130 Substitution of financial assurance mechanisms by owner and operator
+9 VAC 25-590-130 Substitution of financial assurance mechanisms by owner or operator
 9 VAC 25-590-140 Cancellation or nonrenewal by a provider of financial assurance
 9 VAC 25-590-150 Reporting by owner or operator
 9 VAC 25-590-160 Recordkeeping
 9 VAC 25-590-170 Drawing on financial assurance mechanism
 9 VAC 25-590-180 Release from the requirements
 9 VAC 25-590-190 Bankruptcy or other incapacity of owner, operator or provider of financial assurance
-9 VAC 25-590-200 Replenishment of guarantees, letters of credit or surety bonds
+9 VAC 25-590-200 Replenishment of guarantees, letters of credit, certificates of deposit, or surety bonds
 9 VAC 25-590-210 Virginia Petroleum Storage Tank Fund
 9 VAC 25-590-220 Notices to the State Water Control Board
 9 VAC 25-590-230 Delegation of authority
 9 VAC 25-590-240 Lender liability
 9 VAC 25-590-250 Local government financial responsibility demonstration
-9 VAC 25-590-260 Word or phrase substitutions
+9 VAC 25-590-260 Modifications to language incorporated by reference
 Appendix I: Letter from Chief Financial Officer
 Appendix II: Guarantee
 Appendix III: Endorsement
 Appendix IV: Certificate of Insurance
-Appendix V: Performance Bond
+Appendix V: Payment and Performance Bond
 Appendix VI: Irrevocable Standby Letter of Credit
 Appendix VII: Trust Agreement
-Appendix VIII: Certification of Acknowledgment
+Appendix VIII: Certification of Acknowledgement
 Appendix IX: Certification of Financial Responsibility
-Appendix X: Certification of Valid Claim
-Appendix XI: Letter from Chief Financial Officer (short form)
+Appendix X: Certification of a Valid Claim
+Appendix XI: Letter from Chief Financial Officer (Short Form)
+Appendix XII: Certificate of Group Self-Insurance Pool Membership
+Appendix XIII: Assignment of Certificate of Deposit
 West Virginia
 (a) The statutory provisions include:
-(1) Code of West Virginia, Article 17: Underground Storage Tanks
+(1) Code of West Virginia, Chapter 22, Article 17: Underground Storage Tank Act
 Section 22-17-1 Short title
 Section 22-17-2 Declaration of policy and purpose
 Section 22-17-3 Definitions
 Section 22-17-4 Designation of division of environmental protection as the state underground storage tank program lead agency
-Section 22-17-6 Promulgation of rules and standards by director, except § 22-17-6.(b)(12) and (b)(13)
+Section 22-17-6 Promulgation of rules and standards by director, except § 22.17-6.(b)(12) (except as to installation) and (b)(13)
 Section 22-17-8 Notification requirements
 Section 22-17-9 Registration requirements; undertaking activities without registration
 Section 22-17-10 Financial responsibility
@@ -2243,7 +1920,9 @@ Section 22-17-12 Confidentiality, except § 22-17-12.(b)
 Section 22-17-14 Corrective action for underground petroleum storage tanks
 Section 22-17-22 Underground storage tank insurance fund
 (b) The regulatory provisions include:
-(1) West Virginia Code of State Regulations, Title 33: Office of Waste Management Rule, Series 30: Underground Storage Tanks
+(1) West Virginia Code of State Regulations, Title 33: Waste Management Rule, Series 30: Underground Storage Tanks
 Section 33-30-1 General
 Section 33-30-2 Adoption of Federal Regulations
-Section 33-30-4 Notification Requirements, except § 33-30-4.2.b and 4.4.b
+Section 33-30-3 Certification Requirements for Individuals Who Install, Repair, Retrofit, Upgrade, Perform Change-in-Service, Close or Tightness Test Underground Storage Tank Systems or Install, Repair, Upgrade or Test Corrosion Protection on Underground Storage Tank Systems (as to Individuals Who Install)
+Section 33-30-4 Notification Requirements
+Notification for Underground Storage Tanks, revised 2/2018
