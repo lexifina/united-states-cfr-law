@@ -1,7 +1,7 @@
 # Appendix B to Part 4—Officials Authorized To Deny Requests for Records Under the Freedom of Information Act, and Requests for Records and Requests for Correction or Amendment Under the Privacy Act
-The officials of the Department listed below and their superiors have authority, with respect to the records for which each is responsible, to deny requests for records under the FOIA,1 and requests for records and requests for correction or amendment under the PA. In addition, the Departmental Freedom of Information Officer and the Freedom of Information Officer for the Office of the Secretary have the foregoing FOIA and PA denial authority for all records of the Department. The Departmental Freedom of Information Officer is authorized to assign that authority, on a case-by-case basis only, to any of the officials listed below, if the records responsive to a request include records for which more than one official listed below is responsible. The Departmental Freedom of Information Officer is authorized to revise this appendix to reflect changes in designation of denial officials. Any such revisions shall be posted on the Department's "FOIA Home Page" link found at the Department's Web site, http://www.doc.gov.
+The officials of the Department listed below and their superiors have authority, with respect to the records for which each is responsible, to deny requests for records under the FOIA, 1 and requests for records and requests for correction or amendment under the PA. In addition, the Departmental Freedom of Information Act Officer and the Freedom of Information Act Officer for the Office of the Secretary have the foregoing FOIA and PA denial authority for all records of the Department. The Departmental Freedom of Information Act Officer is authorized to assign that authority, on a case-by-case basis only, to any of the officials listed below, if the records responsive to a request include records for which more than one official listed below is responsible. The Departmental Freedom of Information Act Officer is authorized to revise this appendix to reflect changes in designation of denial officials. Any such revisions shall be posted on the Department's "FOIA Home Page" link found at the Department's Web site, http://www.doc.gov.
 OFFICE OF THE SECRETARY
-Office of the Secretary: Executive Secretary; Freedom of Information Officer
+Office of the Secretary: Executive Secretary; Freedom of Information Act Officer
 Office of Business Liaison: Director
 Office of Public Affairs: Director; Deputy Director; Press Secretary; Deputy Press Secretary
 Assistant Secretary for Legislative and Intergovernmental Affairs; Deputy Assistant Secretary for Legislative and Intergovernmental Affairs
@@ -12,7 +12,7 @@ Office of Chief Information Officer: Director
 ASSISTANT SECRETARY FOR ADMINISTRATION
 Office of Civil Rights: Director
 Office of Budget: Director
-Office of Privacy and Open Government: Director Departmental Freedom of Information Officer
+Office of Privacy and Open Government: Director; Departmental Freedom of Information Act Officer
 Office of Program Evaluation and Risk Management: Director
 Office of Financial Management: Director
 Office of Human Resources Management: Director; Deputy Director
