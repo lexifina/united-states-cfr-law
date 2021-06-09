@@ -500,3 +500,8 @@ Longspine porgy, Stenotomus caprinus
 Ocean triggerfish, Canthidermis sufflamen
 Table 5 of Appendix A to Part 622—Caribbean Conch Resources
 Queen conch, Strombus gigas
+Table 6 of Appendix A to Part 622—Atlantic Dolphin and Wahoo
+Dolphin, Coryphaena equiselis or Coryphaena hippurus Wahoo, Acanthocybium solandri
+The following species are designated as ecosystem component species:
+Bullet mackerel, Auxis rochei
+Frigate mackerel, Auxis thazard
