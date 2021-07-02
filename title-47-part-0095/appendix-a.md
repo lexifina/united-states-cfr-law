@@ -202,5 +202,4 @@ Subpart L—Dedicated Short-Range Communications Service On-Board Units (DSRCS-O
 95.1503 Eligibility | 95.305.
 95.1505 Authorized locations | 95.307.
 95.1507 Station identification | 95.351.
-95.1509 ASTM E2213-03 DSRC Standard | 95.3189.
 95.1511 Frequencies available | 95.325, 95.359, 95.3159, 95.3163, 95.3167.
