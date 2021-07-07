@@ -49,7 +49,7 @@ A. Rating Table
 (a) The ratings for the six factors are then entered into a rating table which establishes the motor carrier's safety rating.
 (b) The FMCSA has developed a computerized rating formula for assessing the information obtained from the CR document and is using that formula in assigning a safety rating.
 Motor Carrier Safety Rating Table
-Factor ratings | Unsatisfactory | Conditional | OverallSafety rating
+Factor ratings | Unsatisfactory | Conditional | Overall Safety rating
 0 | 2 or fewer | Satisfactory
 0 | more than 2 | Conditional
 1 | 2 or fewer | Conditional
@@ -112,10 +112,10 @@ VII. List of Acute and Critical Regulations.
 § 392.5(b)(2) Requiring or permitting a driver who shows evidence of having consumed an intoxicating beverage within 4 hours to operate a motor vehicle (acute).
 § 392.6 Scheduling a run which would necessitate the vehicle being operated at speeds in excess of those prescribed (critical).
 § 392.9(a)(1) Requiring or permitting a driver to drive without the vehicle's cargo being properly distributed and adequately secured (critical).
-§ 395.1(h)(1)(i) Requiring or permitting a property-carrying commercial motor vehicle driver to drive more than 15 hours (Driving in Alaska) (critical).
-§ 395.1(h)(1)(ii) Requiring or permitting a property-carrying commercial motor vehicle driver to drive after having been on duty 20 hours (Driving in Alaska) (critical).
-§ 395.1(h)(1)(iii) Requiring or permitting a property-carrying commercial motor vehicle driver to drive after having been on duty more than 70 hours in 7 consecutive days (Driving in Alaska) (critical).
-§ 395.1(h)(1)(iv) Requiring or permitting a property-carrying commercial motor vehicle driver to drive after having been on duty more than 80 hours in 8 consecutive days (Driving in Alaska) (critical).
+§ 395.1(h)(1)(i)(A) Requiring or permitting a property-carrying commercial motor vehicle driver to drive more than 15 hours (Driving in Alaska) (critical).
+§ 395.1(h)(1)(i)(B) Requiring or permitting a property-carrying commercial motor vehicle driver to drive after having been on duty 20 hours (Driving in Alaska) (critical).
+§ 395.1(h)(1)(i)(C) Requiring or permitting a property-carrying commercial motor vehicle driver to drive after having been on duty more than 70 hours in 7 consecutive days (Driving in Alaska) (critical).
+§ 395.1(h)(1)(i)(D) Requiring or permitting a property-carrying commercial motor vehicle driver to drive after having been on duty more than 80 hours in 8 consecutive days (Driving in Alaska) (critical).
 § 395.1(h)(2)(i) Requiring or permitting a passenger-carrying commercial motor vehicle driver to drive more than 15 hours (Driving in Alaska) (critical).
 § 395.1(h)(2)(ii) Requiring or permitting a passenger-carrying commercial motor vehicle driver to drive after having been on duty 20 hours (Driving in Alaska) (critical).
 § 395.1(h)(2)(iii) Requiring or permitting a passenger-carrying commercial motor vehicle driver to drive after having been on duty more than 70 hours in 7 consecutive days (Driving in Alaska) (critical).
@@ -124,7 +124,7 @@ VII. List of Acute and Critical Regulations.
 § 395.3(a)(1) Requiring or permitting a property-carrying commercial motor vehicle driver to drive without taking an off-duty period of at least 10 consecutive hours prior to driving (critical).
 § 395.3(a)(2) Requiring or permitting a property-carrying commercial motor vehicle driver to drive after the end of the 14th hour after coming on duty (critical).
 § 395.3(a)(3)(i) Requiring or permitting a property-carrying commercial motor vehicle driver to drive more than 11 hours (critical).
-§ 395.3(a)(3)(ii) Requiring or permitting a property-carrying commercial motor vehicle driver to drive if more than 8 hours have passed since the end of the driver's last off-duty or sleeper-berth period of at least 30 minutes (critical).
+§ 395.3(a)(3)(ii) Requiring or permitting a property-carrying commercial motor vehicle driver to drive if more than 8 hours of driving time have passed without a consecutive interruption in driving status of at least 30 minutes, either off-duty, sleeper berth or on-duty not driving (critical).
 § 395.3(b)(1) Requiring or permitting a property-carrying commercial motor vehicle driver to drive after having been on duty more than 60 hours in 7 consecutive days (critical).
 § 395.3(b)(2) Requiring or permitting a property-carrying commercial motor vehicle driver to drive after having been on duty more than 70 hours in 8 consecutive days (critical).
 § 395.5(a)(1) Requiring or permitting a passenger-carrying commercial motor vehicle driver to drive more than 10 hours (critical).
