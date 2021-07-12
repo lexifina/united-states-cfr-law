@@ -87,15 +87,12 @@ FINLAND | Aelcomp OY, Kurkisuontie 2B, Helsinki 00904 Finland; and Merisotilaank
 | Intertranslog OY, Tupatallinkatu 3, Lappeenranta 53300 Finland; and Harapaisentie 55, Lappeenranta 53301 Finland | 85 FR 64017, October 9, 2020.
 | Sav-Inter OY Ltd., Nuolitie 20, Vantaa, Finland; and Manttaalitie 5, Vantaa, Finland; and Virkatie 1, Vantaa, Finland | 81 FR 40171, June 21, 2016.
 GEORGIA | Spars Ltd., a.k.a. Spars Trading Ltd., Room 1, House 11, Nutsubdize 111 marker, Tbilisi, Georgia, 0183 | 80 FR 60532, October 7, 2015.
-GERMANY | DMA Logistics GmbH, Max Planck-Strasse 1, Unna, Germany | 85 FR 64017, October 9, 2020.
-| Halm Elektronik GmbH, Burgstrasse 106, Frankfurt am Main, Germany | 85 FR 64017, October 9, 2020.
-| Universal Logistics Systems GmbH Cargo City Sud, Building 577, Frankfurt Airport, Frankfurt am Main, Germany | 85 FR 64017, October 9, 2020.
+GERMANY | Universal Logistics Systems GmbH Cargo City Sud, Building 577, Frankfurt Airport, Frankfurt am Main, Germany | 85 FR 64017, October 9, 2020.
 INDIA | Conduit Technologies Pvt., Ltd., Office 201, 2/F, Lunkad Sky Station, Konark Naga, Mhada Colony, Viman Nagar, Pune, India; and Office UG21, East Court, Phoenix Market City, Viman Nagar, Pune, India | 81 FR 40171, June 21, 2016.
 LATVIA | Alfa Photonics, 21 Krisjana Valdemara Iela, Riga, Latvia; and 151-11 Krisjana Valdemara Iela, Riga, Latvia; and 52-66 Darza Iela, Riga, Latvia; and Nordic Technology Park, 15/25 Jurkalnes Iela, Riga, Latvia | 81 FR 40171, June 21, 2016.
 LEBANON | Al Ghayth Trade and Transport, 1st Floor, Bohsali Bldg., Beirut Port Street, Beirut, Lebanon | 82 FR 16732, April 6, 2017.
 MALAYSIA | Infomaya Tech Sdn Bhd, Level 2, Enterprise 5 Technology Park, Bukit Jalil 57000, Kuala Lumpur, Malaysia | 84 FR 14610, April 11, 2019.
 | Premier Kiosk Global Supply Co., aka PKGS, aka Global Kiosk, No. 5, 18th Floor, Plaza 138, Hotel Maya, Jalan Ampang, Kuala Lumpur, Malaysia 50450 | 84 FR 14610, April 11, 2019.
-MEXICO | Integrated Production and Test Engineering, a.k.a. IPTE, Calle Alambiques 975—9, Parque Industrial el Álamo, Guadalajara, Jalisco 44490, Mexico | 85 FR 64017, October 9, 2020.
 PAKISTAN | Andleeb Associates, Sultan Complex, Abid Majeed Road, Rawalpindi, Pakistan | 83 FR 22844, May 17, 2018.
 | T.M.A. International, a.k.a. TMA International, a.k.a. Tahir Asad Industries Pvt. Ltd., a.k.a. T.A. Industries Pvt. Ltd., 45-B, Ahmed Block, New Garden Town, Lahore, Pakistan; and 417 Gulshan Block, Iqbal Town, Lahore, Pakistan | 80 FR 4781, January 29, 2015.
 | ENGRO Polymer & Chemicals Limited, The Harbour Front, HC-3, Dolmen City, 16th Floor, Block-4, Scheme-5, Clifton, Karachi, Pakistan | 85 FR 64017, October 9, 2020.
@@ -143,6 +140,5 @@ UNITED ARAB EMIRATES | Abu Trade LLC, Lot Number 155, Al Zaroni Yard, Al Wasl Ro
 | Roudah Al Hayat General Trading FZE, a.k.a. Rudha Al Hayat General Trading, a.k.a. Rouda Al Hayat General Trading, a.k.a. JSB Logistics, 406 Al Rhakaimi Building, Deira, Dubai, UAE; and #3204 Aspect Tower D, Sheikh Zayed Road, Dubai, UAE; and #1506 Aspect Tower D, Sheikh Zayed Road, Dubai, UAE and 901 Regal Tower, Business Bay, Dubai, UAE and 402 Al Fahad Building, Damascus Street, Dubai, UAE | 83 FR 22844, May 17, 2018.
 | Sea Prince Logistics LLC, Plot# MO0706, Street N200, JAFZA North, Dubai, UAE; and 732C Street, Plot# MO0543A, Gate 5, JAFZA, Dubai, UAE; and Warehouse 9, Industrial Area 11, Sharjah, UAE; and Office No. 123, 1st Floor, Dubai Real Estate Bldg., Dubai Maritime City, Dubai, UAE | 85 FR 64017, October 9, 2020.
 | Tek Work General Trading, 1902 Metropolis Business Tower, P.O. Box 12865, Business Bay, Dubai, UAE | 81 FR 40171, June 21, 2016.
-| TEM International FZC, Dubai Silicon Oasis Headquarters Building, 4th Floor C&D Wings, P.O. Box 341041, Dubai, UAE | 83 FR 22844, May 17, 2018.
 | Trade Star FZC, Sheikh Zayed Road, Al Mossa Tower 1, 17th Floor, Dubai, UAE; and P.O. Box 51159, Sharjah, UAE; and ELOB Office #E55G-31, Hamriyah Free Zone, Sharjah, UAE | 80 FR 60532, October 7, 2015.
 | World Heavy Equipment, Industrial Area 10, Ras Al Khaimah, UAE; and World Equipment Trading L.L.C, Industrial Area 10, Ras Al Khaimah, UAE | 79 FR 34220, June 16, 2014.
