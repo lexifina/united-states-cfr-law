@@ -33,6 +33,6 @@ Other Components
 —WBSW—Wide-base single trailer tires with steel wheel
 —WBAW—Wide-base single trailer tires with aluminum wheel
 —WBLW—Wide-base single trailer tires with light-weight aluminum alloy wheel
-—DWSW—Dual-wide trailer tires with steel wheel
+—DWSW—Dual-wide trailer tires with high-strength steel wheel
 —DWAW—Dual-wide trailer tires with aluminum wheel
 —DWLW—Dual-wide trailer tires with light-weight aluminum alloy wheel
