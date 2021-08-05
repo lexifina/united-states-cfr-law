@@ -104,7 +104,7 @@ Alkyl ester copolymer in mineral oil | 34 | | AEQ | AES
 Alkyl (C7-C9) nitrates | 34 | 2 | AKN | ONE
 Alkyl (C7-C11) phenol poly(4-12) ethoxylate | 40 | | APN | NPE
 Alkyl (C4-C9) phenols | 21 | | AYI | BLT/BTP/NNP/OPH
-Alkyl phenol sulfide (alternately sulphide) (C8-C40), see Alkyl (C8-C40) phenol sulfide | | | | AKS
+Alkyl phenol sulfide (alternately sulphide) (C8-C40), see Alkyl (C8-C40) phenol sulfide (alternately sulphide) | | | | AKS
 Alkyl (C8-C40) phenol sulfide (alternately sulphide) | 34 | | AKS
 Alkyl (C9-C15) phenyl propoxylate | 40 | | AXL
 Alkyl (C8-C9) phenylamine in aromatic solvents | 9 | | ALP
@@ -226,7 +226,7 @@ Butene, see Butylenes (all isomers) | | | | BUT/IBL
 2-Butoxyethanol (58%)/Hyperbranched polyesteramide (42%) (mixture) | 20
 Butyl acetate (all isomers) | 34 | 3 | BAX | BCN/BTA/BYA/IBA
 Butyl acrylate (all isomers) | 14 | 3 | BAR | BAI/BTC
-Butyl alcohol (all isomers) | 20 | 2 | BAY | BAN/BAS/BAT/IAL
+Butyl alcohol (all isomers) | 20 | 2, 3 | BAY | BAN/BAS/BAT/IAL
 Butyl alcohol (iso-, n-, sec-, tert -), see Butyl alcohol (all isomers) | | 2 | | BAN/BAS/BAT/BAY/IAL
 Butylamine (all isomers) | 7 | 3 | BTY | BAM/BTL/BUA/IAM
 Butylbenzene (all isomers), see Alkyl (C3-C4) benzenes | | 3 | BBE | AKC
@@ -333,7 +333,7 @@ Coal tar pitch (molten) | 33 | 3 | CTP
 Coal tar, high temperature | 33 | | CHH
 Cobalt naphthenate in solvent naphtha | 34 | | CNS
 Cocoa butter, see Oil, edible: Cocoa butter | | | | OCB (VEO)
-Coconut oil, see Oil, edible: Coconut | | | | OCC (VEO)
+Coconut oil, see Oil, edible: Coconut | | 2 | | OCC (VEO)
 Coconut oil, fatty acid, see Oil, misc.: Coconut fatty acid | | 2 | | CFA
 Coconut oil, fatty acid methyl ester, see Oil, misc.: Coconut fatty acid methyl ester | | 3 | | OCM
 Copper salt of long-chain (C17 +) alkanoic acid | 34 | | CUS | CFT.
@@ -550,7 +550,7 @@ Dodecanol (all isomers), see Dodecyl alcohol (all isomers) | | 2 | DDN | LAL
 2-Dodecenylsuccinic acid, dipotassium salt solution | 34 | | DSP
 Dodecyl alcohol (all isomers) | 20 | 2 | DDN | ASK/ASY/LAL
 Dodecylamine/Tetradecylamine mixture | 7 | 2 | DTA
-Dodecylbenzene, see Alkyl (C9+)
+Dodecylbenzene, see Alkyl (C9+) benzenes | | | DDB | AKB
 Dodecylbenzenesulfonic (alternately Dedecylbenzenesulphonic) acid | 0 | 1, 2 | DSA
 Dodecyldimethylamine/Tetradecyldimethylamine mixture | 7 | | DOT
 Dodecyl diphenyl ether disulfonate (alternately disulphonate) solution | 43 | | DTA
@@ -615,7 +615,7 @@ Ethylene glycol butyl ether acetate | 34 | | EMA
 Ethylene glycol diacetate | 34 | | EGY
 Ethylene glycol dibutyl ether | 40 | | EGB
 Ethylene glycol ethyl ether, see Ethyl glycol monoalkyl ethers | | | EGE | EGC/EEO
-Ethylene glycol ethyl ether acetate, see 2-Ethoxyethyl acetate | | | EGA | EEA
+Ethylene glycol ethyl ether acetate, see 2-Ethoxyethyl acetate | | 2 | EGA | EEA
 Ethylene glycol hexyl ether, see Ethylene glycol monoalkyl ethers | | | EGH | EGC
 Ethylene glycol isobutyl ether, see Ethylene glycol monoalkyl ethers | | | | EGC (EGG/EGM)
 Ethylene glycol isopropyl ether, see Ethylene glycol monoalkyl ethers | | | EGI | EGC
@@ -685,10 +685,10 @@ Formic acid (over 85%) | 4 | 2, 3 | FMD
 Formic acid mixture (containing up to 18% Propionic acid and up to 25% Sodium formate) | 4 | 2, 3 | FMC | FMA/FMB
 Fructose solution | 43 | | FTS | FRT.
 Fumaric adduct of Rosin, water dispersion | 43 | | FAR
-Fuming sulfuric (alternately sulphuric) acid, see
+Fuming sulfuric (alternately sulphuric) acid, see Oleum | | 2 | |
 Furfural | 19 | | FFA
 Furfuryl alcohol | 20 | 2 | FAL
-Gas oil, cracked, see Oil, misc.: Gas,
+Gas oil, cracked, see Oil, misc.: Gas, cracked | | | | GOC
 Gasoline blending stock, alkylates | 33 | | GAK
 Gasoline blending stock, reformates | 33 | | GRF
 Gasolines:
@@ -724,7 +724,7 @@ Glyoxal solution (40% or less) | 19 | 3 | GOS
 Glyoxylic acid solution (50% or less) | 4 | 3 | GAC
 Glyphosate solution (not containing surfactant) | 7 | | GIO | RUP.
 Grape Seed Oil, see Oil, edible: Grape seed | | | |
-Groundnut oil, see Oil, edible: Groundnut | | | | OGN
+Groundnut oil, see Oil, edible: Groundnut | | | | OGN (VEO)
 Hazelnut oil, see Oil, edible: Hazelnut | | | | OHN (VEO)
 Heptadecane (all isomers), see n-Alkanes (C10+) (all isomers) | | | | ALV (ALJ)
 Heptane (all isomers), see Alkanes (C6-C9) | | | HMX | ALK(HPI/HPT)
@@ -789,7 +789,7 @@ Isopropylamine (70% or less) solution | 7 | 3 | IPQ | IPO/IPP/PRA
 Isopropylbenzene, see Alkyl (C3-C4) benzenes | | | | AKC(CUM/PBY/PBZ)
 Isopropylcyclohexane | 31 | 3 | IPX
 Isopropyl ether | 41 | 3 | IPE | PRL/PRN
-Jatropha oil, see Oil, misc.: Jatropha | | 3 | | JTO
+Jatropha oil, see Oil, misc.: Jatropha | | | | JTO
 Jet fuels: | | | JPO | JPT/JPF/JPV
 JP-4 | 33 | | JPF
 JP-5 | 33 | | JPV
@@ -925,6 +925,7 @@ Molasses | 20 | | MOL | MON.
 Molasses residue (from fermentation) | 0 | 1 | MON | MOL.
 Molybdenum polysulfide (alternately polysulphide) long-chain alkyl dithiocarbamide complex | 0 | 1, 3 | MOP
 Monochlorodifluoromethane | 36 | | MCF
+Monoethanolamine, see Ethanolamine | | | MEA
 Monoethylamine, see Ethylamine | | | | EAM (EAN/EAO)
 Monoisopropanolamine, see Isopropanolamine | | | | MPA (PLA/PLX)
 Monoethylamine, see Ethylamine | | | | EAM (EAN/EAO)
@@ -1014,10 +1015,10 @@ Oil, edible:
 Beechnut | 34 | | OBN | VEO
 Castor | 34 | | OCA | VEO
 Cocoa butter | 34 | | OCB | VEO
-Coconut | 34 | | OCC | VEO
+Coconut | 34 | 2 | OCC | VEO
 Cod liver | 34 | | OCL | AFN
 Corn | 34 | | OCO | VEO
-Cotton seed | 34 | | OCS | VEO
+Cottonseed | 34 | | OCS | VEO
 Fish | 34 | 2 | OFS | AFN
 Grape seed | 34
 Groundnut | 34 | | OGN | VEO
@@ -1556,7 +1557,7 @@ Palm kernel fatty acid distillate | 34
 Palm oil fatty acid distillate | 34
 Tall fatty acid distillate | 34
 Tall oil fatty acid distillate | 34
-Vegetable oils, n.o.s. | 34 | | VAD
+Vegetable oils, n.o.s. | 34 | | VEO
 Including:
 Beechnut oil | 34
 Camelina oil | 34
@@ -1571,7 +1572,7 @@ Grape seed oil | 34
 Groundnut acid oil | 34
 Hazelnut oil | 34
 Illipe oil | 34
-Jatropha oil | 34 | 3
+Jatropha oil | 34 | | JTO
 Linseed oil | 34
 Mango kernel oil | 34
 Nutmeg butter | 34
