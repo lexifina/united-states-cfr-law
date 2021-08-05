@@ -5,7 +5,7 @@ Group | Cargo
 | Alkylbenzene distillation bottoms.
 | Alkyl (C8-C10)/(C12-C14): (60% or more/40% or less)
 | Alkyl (C11-C17) benzene sulfonic (alternately sulphonic) acid.
-| Alkylbenzene sulfonic (alternately sulphonic) acid (less than 4%).
+| Alkylbenzene sulfonic (alternately sulphonic) acid (less than 4%) 1.
 | Alkyl (C18-C28) toluenesulfonic (alternately toluenesulphonic) acid.
 | Aluminum (alternately Aluminium) chloride/Hydrogen chloride solution.
 | Ammonium hydrogen phosphate solution.
@@ -62,6 +62,7 @@ Group | Cargo
 | Noxious Liquid Substance, (11) n.o.s. ("trade name" contains "principal components") Cat Z.
 | Non-noxious Liquid Substance, (12) n.o.s. ("trade name" contains "principal components") Cat OS.
 | n-Octyl Mercaptan.
+| Oleum 1.
 | Orange juice (concentrated).
 | Orange juice (not concentrated).
 | Oxygenated aliphatic hydrocarbon mixture.
@@ -102,7 +103,6 @@ Group | Cargo
 | Nitric acid (70% or less).
 4. Organic Acids | Acetic acid. 1
 | Acetic acid. 1
-| Acrylic acid. 1
 | Butyric acid.
 | Chloroacetic acid (80% or less).
 | 2- or 3-Chloropropionic acid.
@@ -348,6 +348,7 @@ Group | Cargo
 | Polyalkyl methacrylate in mineral oil.
 | Polyalkyl (C10-C18) methacrylate/Ethylene-propylene copolymer mixture.
 15. Substituted Allyls | Acrylonitrile. 1
+| Allyl alcohol 1.
 | Allyl chloride.
 | Dichloropropene (all isomers).
 | 1,3-Dichloropropene.
@@ -359,9 +360,10 @@ Group | Cargo
 | Diglycidyl ether of Bisphenol F.
 | Epoxy resin.
 | Ethylene oxide/Propylene oxide mixture.
-| Ethylene oxide/Propylene oxide mixture with an Ethylene oxide content not more than 30% by mass)
+| Ethylene oxide/Propylene oxide mixture with an Ethylene oxide content not more than 30% by mass.
 | Propylene oxide
 17. Epichlorohydrins | Chlorohydrins.
+| Chlorohydrins (crude).
 | Epichlorohydrin
 18. Ketones | Acetone. 1
 | Acetophenone.
@@ -836,9 +838,9 @@ Group | Cargo
 | Calcium long-chain alkyl (C5-C10) phenate.
 | Calcium long-chain alkyl (C5-C20) phenate.
 | Calcium long-chain alkyl (C11-C40) phenate.
-| Calcium long-chain alkyl phenate sulfide (alternately sulphide) (C8-C40).
-| Calcium long chain alkyl salicylate (C13 +)
 | Calcium long-chain alkyl (C18-C28) salicylate.
+| Calcium long-chain alkyl phenate sulfide (alternately sulphide) (C8-C40).
+| Calcium long-chain alkyl salicylate (C13+).
 | Calcium nitrate solutions (50% or less).
 | Calcium nitrate/Magnesium nitrate/Potassium chloride solution.
 | Calcium salts of fatty acids.
@@ -920,6 +922,7 @@ Group | Cargo
 | Hog grease.
 | Isobutyl formate
 | Isopropyl acetate
+| Lauric acid.
 | Lauric acid methyl ester/Myristic acid methyl ester mixture.
 | Lecithin
 | Magnesium long-chain alkaryl sulfonate (alternately sulphonate) (C11-C50).
@@ -1035,11 +1038,6 @@ Group | Cargo
 | Polyolefin phosphorosulfide (alternately phosphorosulphide), barium derivative (C28-C250).
 | Poly(20)oxyethylene sorbitan monooleate.
 | Polysiloxane
-| Polymethylsiloxane.
-| Polyolefin aminoester salts (molecular weight 2000+).
-| Polyolefin ester (C28-C250).
-| Polyolefin phosphorosulfide (alternately phosphorosulphide), barium derivative (C28-C250).
-| Poly(20)oxyethylene sorbitan monooleate.
 | Polysiloxane/White spirit, low (15-20%) aromatic.
 | Potassium formate solutions.
 | Potassium formate solution (75% or more)
@@ -1077,9 +1075,9 @@ Group | Cargo
 | Triisopropylated phenyl phosphates.
 | Trimethyl phosphite. 1
 | 2,2,4-Trimethyl-1,3-pentanediol diisobutyrate.
+| 2,2,4-Trimethyl-1,3-pentanediol-1-isobutyrate
 | 2,2,4-Trimethyl-3-pentanol-1-isobutyrate.
 | Trisodium nitrilotriacetate solution.
-| 2,2,4-Trimethyl-1,3-pentanediol-1-isobutyrate
 | Trixylyl phosphate
 | Trixylenyl phosphate.
 | Vegetable acid oils, n.o.s.:
@@ -1216,14 +1214,14 @@ Group | Cargo
 39. Sulfolane (Alternately Sulfolane) | Sulfolane (alternately Sulpholane).
 40. Glycol Ethers | Alkyl (C7-C11) phenol poly(4-12) ethoxylates.
 | Alkyl (C9-C15) phenyl propoxylate.
-| Diethylene glycol butyl ether
 | Diethylene glycol. 1
+| Diethylene glycol butyl ether
 | Diethylene glycol dibutyl ether.
 | Diethylene glycol diethyl ether.
 | Diethylene glycol ethyl ether
 | Diethylene glycol methyl ether
 | Diethylene glycol n-hexyl ethe
-| Diethylene glycol phenyl ether.r
+| Diethetylene glycol phenyl ether
 | Diethylene glycol propyl ether
 | Dipropylene glycol.
 | Dipropylene glycol butyl ether
@@ -1306,7 +1304,6 @@ Group | Cargo
 | Long chain alkaryl polyether (C11-C20)
 | Methyl-tert-butyl ether. 1
 | Methyl tert-pentyl ether.
-| Methyl tert-pentyl ether.
 | Polyether, borated.
 | Polyether (molecular weight 1350+).
 | Polyether polyols.
@@ -1320,17 +1317,16 @@ Group | Cargo
 | Nitrobenzene.
 | o-Nitrochlorobenzene.
 | Nitroethane
+| Nitroethane (80%)/Nitropropane (20%).
 | Nitroethane/1-Nitropropane (each 15% or more) mixture.
 | Nitrophenol (mixed isomers).
 | Nitropropane (60%)/Nitroethane (40%) mixtures.
 | 1- or 2-Nitropropane.
-| Nitropropane, Nitroethane mixtures
 | o- or p-Nitrotoluenes.
 43. Miscellaneous Water Solutions | Alkyl (C8-C10) polyglucoside solution (65% or less).
 | Alkyl (C8-C10)/(C12-C14):(40% or less/60% or more) polyglucoside solution (55% or less).
+| Alkyl (C8-C10)/(C12-C14):(50%/50%) polyglucoside solution (55% or less).
 | Alkyl (C8-C10)/(C12-C14):(60% or more/40% or less) polyglucoside solution (55% or less)
-| Alkyl (C8-C10) polyglucoside solution (65% or less)
-| Alkyl (C8-C10)/(C12-C14):(60% or more/40% or less) polyglucoside solution (55% or less).
 | Alkyl (C12-C14) polyglucoside solution (55% or less).
 | Aluminum sulfate (alternately Aluminium sulphate) solution. 1
 | 2-Amino-2-hydroxymethyl-1,3-propanediol solution
