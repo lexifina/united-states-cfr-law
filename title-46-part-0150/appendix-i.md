@@ -63,7 +63,7 @@ Caustic soda, 50% or less (5) | Acrylonitrile/Styrene copolymer dispersion in Po
 | Propyl alcohol (20).
 | Propylene glycol (20).
 | Sodium chlorate solution (0).
-Dimethyl disulfide (0) | Acrylates (14).
+Dimethyl disulfide (alternately disulfide) (0) | Acrylates (14).
 | Alcohols, Glycols (20).
 | Aromatic Hydrocarbon Mixtures (32).
 | Esters (34).
@@ -92,7 +92,7 @@ Ethylenediamine (7) | Bio-fuel blends of Gasoline and Ethyl alcohol (>25% but <9
 | Ethyl alcohol (20).
 | Ethylene glycol (20).
 | Ethyl hexanol (20).
-| Fatty alcohols (C12-C14).
+| Fatty alcohols (C12-C14)(20).
 | Glycerine (20).
 | Isononyl alcohol (20).
 | Isophorone (18).

@@ -105,8 +105,8 @@ Titanium dioxide slurry | Z
 1,1,2-Trichloro-1,2,2-trifluoroethane | Y
 Trisodium salt of N-(Hydroxyethyl)ethylenediaminetriacetic acid solution, see N-(Hydroxyethyl)ethylenediaminetriacetic acid, trisodium salt solution.
 Urea, Ammonium mono- and di-hydrogen phosphate, Potassium chloride solution | #
-Urea/Ammonium nitrate solution * | Z
-Urea/Ammonium phosphate solution | Z
+Urea/Ammonium nitrate solution | Z
+Urea/Ammonium phosphate solution | Y
 Urea solution | Z
 Vanillin black liquor (free alkali content, 1% or less) | #
 Vegetable protein solution (hydrolyzed) (if non-flammable and non-combustible) | OS
