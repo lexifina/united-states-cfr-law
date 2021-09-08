@@ -97,7 +97,7 @@ a. WCAP-10697-NP-A, Common Qualified Platform Topical Report, Rev. 3 (February 2
 b. WCAP-17889-NP (APR1400-A-N-NR-17001-NP), Validation of SCALE 6.1.2 with 238-Group ENDF/B-VII.0 Cross Section Library for APR1400 Design Certification, Rev. 0 (June 2014).
 B. An applicant or licensee referencing this appendix, in accordance with Section IV of this appendix, shall incorporate by reference and comply with the requirements of this appendix except as otherwise provided in this appendix.
 C. If there is a conflict between Tier 1 and Tier 2 of the DCD, then Tier 1 controls.
-D. If there is a conflict between the generic DCD and either the application for the design certification of the APR1400 design or the NUREG, "Final Safety Evaluation Report Related to Certification of the APR1400 Standard Design," then the generic DCD controls.
+D. If there is a conflict between the generic DCD and either the application for the design certification of the APR1400 design or "Final Safety Evaluation Report Related to Certification of the APR1400 Standard Design," then the generic DCD controls.
 E. Design activities for structures, systems, and components that are entirely outside the scope of this appendix may be performed using site characteristics, provided the design activities do not affect the DCD or conflict with the interface requirements.
 IV. Additional Requirements and Restrictions
 A. An applicant for a COL that wishes to reference this appendix shall, in addition to complying with the requirements of §§ 52.77, 52.79, and 52.80, comply with the following requirements:
@@ -113,9 +113,8 @@ f. Information required by § 52.47(a) that is not within the scope of this appe
 4. Include, as part of its application, a demonstration that an entity other than KEPCO/KHNP is qualified to supply the APR1400 design, unless KEPCO/KHNP supplies the design for the applicant's use.
 B. The Commission reserves the right to determine in what manner this appendix may be referenced by an applicant for a construction permit or operating license under 10 CFR part 50.
 V. Applicable Regulations
-A. Except as indicated in paragraph B of this section, the regulations that apply to the APR1400 design are in 10 CFR parts 20, 50, 52, 73, and 100, codified as of September 19, 2019, that are applicable and technically relevant, as described in the final safety evaluation report.
-B. The APR1400 design is exempt from portions of the following regulations:
-1. Paragraph (f)(2)(iv) of 10 CFR 50.34—Contents of Applications: Technical Information—codified as of September 19, 2019.
+A. The regulations that apply to the APR1400 design are in 10 CFR parts 20, 50, 52, 73, and 100, codified as of September 19, 2019, that are applicable and technically relevant, as described in the final safety evaluation report.
+B. [Reserved]
 VI. Issue Resolution
 A. The Commission has determined that the structures, systems, and components and design features of the APR1400 design comply with the provisions of the Atomic Energy Act of 1954, as amended, and the applicable regulations identified in Section V of this appendix; and therefore, provide adequate protection to the health and safety of the public. A conclusion that a matter is resolved includes the finding that additional or alternative structures, systems, and components, design features, design criteria, testing, analyses, acceptance criteria, or justifications are not necessary for the APR1400 design.
 B. The Commission considers the following matters resolved within the meaning of § 52.63(a)(5) in subsequent proceedings for issuance of a COL, amendment of a COL, or renewal of a COL, proceedings held under § 52.103, and enforcement proceedings involving plants referencing this appendix:

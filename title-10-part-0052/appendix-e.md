@@ -50,7 +50,7 @@ NEDO-33278 | "ESBWR Human Factors Engineering Design Implementation Plan," Revis
 NEDO-33289 | "ESBWR Reliability Assurance Program," Revision 2, Class II, September 2008 | ML14248A662
 NEDO-33337 | "ESBWR Initial Core Transient Analyses," Revision 1, Class I, April 2009 | ML091130628
 NEDO-33338 | "ESBWR Feedwater Temperature Operating Domain Transient and Accident Analysis," Revision 1, Class I, May 2009 | ML091380173
-NEDO-33373-A | "Dynamic, Load-Drop, and Thermal-Hydraulic Analyses for ESBWR Fuel Racks," Revision 5, Class I, October 2010 | ML102990226 (part 1)ML102990228 (part 2)
+NEDO-33373-A | "Dynamic, Load-Drop, and Thermal-Hydraulic Analyses for ESBWR Fuel Racks," Revision 5, Class I, October 2010 | ML102990226 (part 1) ML102990228 (part 2)
 NEDO-33411 | "Risk Significance of Structures, Systems and Components for the Design Phase of the ESBWR," Revision 2, Class I, February 2010 | ML100610417
 B. An applicant or licensee referencing this appendix, in accordance with Section IV of this appendix, shall incorporate by reference and comply with the requirements of this appendix, including Tier 1, Tier 2 (including the availability controls in Appendix 19ACM of the DCD), and the generic TS except as otherwise provided in this appendix. Conceptual design information in the generic DCD and the evaluation of severe accident mitigation design alternatives in NEDO-33306, Revision 4, "ESBWR Severe Accident Mitigation Design Alternatives," are not part of this appendix.
 C. If there is a conflict between Tier 1 and Tier 2 of the DCD, then Tier 1 controls.
@@ -74,7 +74,7 @@ B. The Commission reserves the right to determine in what manner this appendix m
 V. Applicable Regulations
 A. Except as indicated in paragraph B of this section, the regulations that apply to the ESBWR design are in 10 CFR parts 20, 50, 73, and 100, codified as of October 6, 2014, that are applicable and technically relevant, as described in the FSER (NUREG-1966) and Supplement No. 1.
 B. The ESBWR design is exempt from portions of the following regulations:
-1. Paragraph (f)(2)(iv) of 10 CFR 50.34—Contents of Applications: Technical Information—codified as of October 6, 2014.
+1. Paragraph (f)(2)(iv) of 10 CFR 50.34—Separate Plant Safety Parameter Display Console.
 VI. Issue Resolution
 A. The Commission has determined that the structures, systems, components, and design features of the ESBWR design comply with the provisions of the Atomic Energy Act of 1954, as amended, and the applicable regulations identified in Section V of this appendix; and therefore, provide adequate protection to the health and safety of the public. A conclusion that a matter is resolved includes the finding that additional or alternative structures, systems, components, design features, design criteria, testing, analyses, acceptance criteria, or justifications are not necessary for the ESBWR design.
 B. The Commission considers the following matters resolved within the meaning of § 52.63(a)(5) in subsequent proceedings for issuance of a COL, amendment of a COL, or renewal of a COL, proceedings held under § 52.103, and enforcement proceedings involving plants referencing this appendix:
