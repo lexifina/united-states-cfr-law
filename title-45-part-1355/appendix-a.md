@@ -1,5 +1,4 @@
 # Appendix A to Part 1355—Foster Care Data Elements
-This amendment was further delayed until Oct. 1, 2022, at 85 FR 28410, May 12, 2020.
 Section I—Foster Care Data Elements
 Data elements preceded by "**" are the only data elements required for children who have been in care less than 30 days. For children who entered care prior to October 1, 1995, data elements preceded by either "**" and "***" are the only data elements required. This means that, for these two categories of children, these are the only data elements to which the missing data standard will be applied.
 I. General Information

@@ -1,5 +1,4 @@
 # Appendix B to Part 1355—Adoption Data Elements
-This amendment was further delayed until Oct. 1, 2022, at 85 FR 28410, May 12, 2020.
 Section I—Adoption Data Elements
 I. General Information
 A. Title IV-E agency__

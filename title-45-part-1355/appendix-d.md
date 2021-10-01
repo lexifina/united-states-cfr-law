@@ -1,5 +1,4 @@
 # Appendix D to Part 1355—Foster Care and Adoption Record Layouts
-This amendment was further delayed until Oct. 1, 2022, at 85 FR 28410, May 12, 2020.
 A. Foster Care
 1. Foster Care Semi-Annual Detailed Data Elements Record
 a. The record will consist of 66 data elements.
