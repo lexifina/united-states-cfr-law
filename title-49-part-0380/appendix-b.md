@@ -14,7 +14,7 @@ This unit must introduce basic vehicular control and handling as it applies to c
 Unit B1.1.5 Shifting/Operating Transmissions
 This unit must introduce shifting patterns and procedures to driver-trainees to prepare them to safely and competently perform basic shifting maneuvers. This unit must teach driver-trainees to execute up and down shifting techniques on multi-speed dual range transmissions, if appropriate. The training providers must teach driver-trainees the importance of increased fuel economy achieved by utilizing proper shifting techniques.
 Unit B1.1.6 Backing and Docking
-This unit must teach driver-trainees to back and dock the combination vehicle safely. This unit must cover "Get Out and Look" (GOAL), evaluation of backing/loading facilities, knowledge of backing set ups, as well as instruction in how to back with use of spotters.
+This unit must teach driver-trainees to back and dock the vehicle safely. This unit must cover "Get Out and Look" (GOAL), evaluation of backing/loading facilities, knowledge of backing set ups, as well as instruction in how to back with use of spotters.
 Section B1.2 Safe Operating Procedures
 This section must teach the practices required for safe operation of the CMV on the highway under various road, weather, and traffic conditions. The training providers must teach driver-trainees the Federal rules governing the proper use of seat belt assemblies (§ 392.16).
 Unit B1.2.1 Visual Search
