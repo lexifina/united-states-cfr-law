@@ -263,7 +263,7 @@ Geo-location is the conversion of a position measurement in latitude/longitude c
 3.2. Notations
 Throughout this appendix the following notations are used when data elements are referenced.
 (a) <. > indicates a parameter an ELD must track. For example refers to the unique <ELD username> or identifier specified during the creation of an ELD account with the requirements set forth in section 7.18 of this appendix.
-(b) {.} indicates which of multiple values of a parameter is being referenced. For example <ELD username {for the co-driver}> refers specifically to the ELD username for the co-driver.
+(b) {. } indicates which of multiple values of a parameter is being referenced. For example <ELD username { for the co-driver }> refers specifically to the ELD username for the co-driver.
 (c) <CR> indicates a carriage return or new line or end of the current line. This notation is used in section 4.8.2 of this appendix, which describes the standard ELD output file.
 4. Functional Requirements
 4.1. ELD User Accounts
@@ -527,16 +527,16 @@ When a driver's duty status changes, the ELD must associate the record with the 
 (c) <Event Record> Origin as described in section 7.22;
 (d) <Event Type> as described in section 7.25;
 (e) <Event Code as described in section 7.20;
-(f) <{Event} Date> as described in section 7.8;
-(g) <{Event} Time> as described in section 7.40;
-(h) <{Accumulated} Vehicle Miles> as described in section 7.43;
-(i) <{Elapsed}> Engine Hours as described in section 7.19;
-(j) <{Event}> Latitude as described in section 7.31;
-(k) <{Event}> Longitude as described in section 7.33;
+(f) <{ Event } Date> as described in section 7.8;
+(g) <{ Event } Time> as described in section 7.40;
+(h) <{ Accumulated } Vehicle Miles> as described in section 7.43;
+(i) <{ Elapsed }> Engine Hours as described in section 7.19;
+(j) <{ Event }> Latitude as described in section 7.31;
+(k) <{ Event }> Longitude as described in section 7.33;
 (l) <Distance Since Last Valid Coordinates> as described in section 7.9;
-(m) <Malfunction Indicator Status {for ELD}> as described in section 7.35;
-(n) <Data Diagnostic Event Indicator Status {for Driver}> as described in section 7.7;
-(o) <{Event}> Comment/Annotation as described in section 7.6;
+(m) <Malfunction Indicator Status { for ELD }> as described in section 7.35;
+(n) <Data Diagnostic Event Indicator Status { for Driver }> as described in section 7.7;
+(o) <{ Event }> Comment/Annotation as described in section 7.6;
 (p) <Driver's Location Description> as described in section 7.12; and
 (q) <Event Data Check Value> as described in section 7.21.
 4.5.1.2. Event: Intermediate Logs
@@ -552,30 +552,30 @@ When a driver's duty status changes, the ELD must associate the record with the 
 (2)<Event Type> as described in section 7.25;
 (3)<Event Code> as described in section 7.20;
 (4)<Time Zone Offset from UTC> as described in section 7.41.
-(5) <{Event} Date> and <Date {of the certified record}> as described in section 7.8; and
-(6) <{Event} Time> as described in section 7.40.
+(5) <{ Event } Date> and <Date {of the certified record}> as described in section 7.8; and
+(6) <{ Event } Time> as described in section 7.40.
 4.5.1.5. Event: Driver's Login/Logout Activity
 (a) At each instance when an authorized user logs in and out of the ELD, the ELD must record the event.
 (b) The ELD must associate the record with the driver, the vehicle, the motor carrier, and the shipping document number, and must include the following data elements:
 (1) <Event Sequence ID Number> as described in section 7.24 of this appendix;
 (2) <Event Type> as described in section 7.25;
 (3) <Event Code> as described in section 7.20;
-(4) <{Event} Date> as described in section 7.8;
-(5) <{Event} Time> as described in section 7.40;
-(6) <{Total} Vehicle Miles> as described in section 7.43; and
-(7) <{Total} Engine Hours> as described in section 7.19.
+(4) <{ Event } Date> as described in section 7.8;
+(5) <{ Event } Time> as described in section 7.40;
+(6) <{ Total } Vehicle Miles> as described in section 7.43; and
+(7) <{ Total } Engine Hours> as described in section 7.19.
 4.5.1.6. Event: CMV's Engine Power Up and Shut Down Activity
 (a) When a CMV's engine is powered up or shut down, an ELD must record the event within 1 minute of occurrence and retain the earliest shut down and latest power-up event if the CMV has not moved since the last ignition power on cycle.
 (b) The ELD must associate the record with the driver or the unidentified driver profile, the vehicle, the motor carrier, and the shipping document number, and must include the following data elements:
 (1) <Event Sequence ID Number> as described in section 7.24 of this appendix;
 (2) <Event Type> as described in section 7.25;
 (3) <Event Code> as described in section 7.20;
-(4) <{Event} Date> as described in section 7.8;
-(5) <{Event} Time> as described in section 7.40;
-(6) <{Total} Vehicle Miles> as described in section 7.43;
-(7) <{Total} Engine Hours> as described in section 7.19;
-(8) <{Event} Latitude> as described in section 7.31;
-(9) <{Event} Longitude> as described in section 7.33; and
+(4) <{ Event } Date> as described in section 7.8;
+(5) <{ Event } Time> as described in section 7.40;
+(6) <{ Total } Vehicle Miles> as described in section 7.43;
+(7) <{ Total } Engine Hours> as described in section 7.19;
+(8) <{ Event } Latitude> as described in section 7.31;
+(9) <{ Event } Longitude> as described in section 7.33; and
 (10) <Distance Since Last Valid Coordinates> as described in section 7.9.
 4.5.1.7. Event: ELD Malfunction and Data Diagnostics Occurrence
 (a) At each instance when an ELD malfunction or data diagnostic event is detected or cleared by the ELD, the ELD must record the event.
@@ -584,10 +584,10 @@ When a driver's duty status changes, the ELD must associate the record with the 
 (2) <Event Type> as described in section 7.25;
 (3) <Event Code> as described in section 7.20;
 (4) <Malfunction/Diagnostic Code> as described in section 7.34;
-(5) <{Event} Date> as described in section 7.8;
-(6) <{Event} Time> as described in section 7.40;
-(7) <{Total} Vehicle Miles> as described in section 7.43; and
-(8) <{Total} Engine Hours> as described in section 7.19.
+(5) <{ Event } Date> as described in section 7.8;
+(6) <{ Event } Time> as described in section 7.40;
+(7) <{ Total } Vehicle Miles> as described in section 7.43; and
+(8) <{ Total } Engine Hours> as described in section 7.19.
 4.6. ELD's Self-Monitoring of Required Functions
 An ELD must have the capability to monitor its compliance with the technical requirements of this section for the detectable malfunctions and data inconsistencies listed in Table 4 of this appendix and must keep records of its malfunction and data diagnostic event detection.
 ER16DE15.004
@@ -659,31 +659,31 @@ Print paper must be able to accommodate the graph grid specifications as listed 
 4.8.1.3. Information To Be Shown on the Printout and Display at Roadside
 (a) The printout and display must show reports for the inspected driver's profile and the unidentified driver profile separately. If there are no unidentified driver records existing on the ELD for the current 24-hour period and for any of the previous 7 consecutive days, an ELD does not need to print or display unidentified driver records for the authorized safety official. Otherwise, both reports must be printed or displayed and provided to the authorized safety official.
 (b) The printout and display must show the following information for the current 24-hour period and each of the previous 7 consecutive days: (Items in <. > are data elements.)
-Date: <Date {of Record}>
+Date: <Date { of Record }>
 24-hour Starting Time, Time Zone Offset from UTC: <24-Hour Period Starting Time>, <Time Zone Offset from UTC>
 Carrier: <Carrier's USDOT number>,<Carrier Name>
-Driver Name: <{Driver} Last Name>, <{Driver} First Name>
-Driver ID < ELD username{for the driver} >
-Driver License State <{Driver} Driver License Issuing State>
+Driver Name: <{ Driver } Last Name>, <{ Driver } First Name>
+Driver ID < ELD username{ for the driver } >
+Driver License State <{ Driver } Driver License Issuing State>
 Driver License Number: <{Driver} Driver License Number>
-Co-Driver: <{Co-Driver's} Last Name>, <{Co-Driver's} First Name>
-Co-Driver ID: < ELD username{for the co-driver}>
-Current Odometer: <{Current}{Total} Vehicle Miles>
-Current Engine Hours: <{Current}{Total} Engine Hours>
+Co-Driver: <{ Co-Driver's } Last Name>, <{ Co-Driver's } First Name>
+Co-Driver ID: < ELD username{ for the co-driver }>
+Current Odometer: <{ Current }{ Total } Vehicle Miles>
+Current Engine Hours: <{ Current }{ Total } Engine Hours>
 ELD ID: [ELD Identifier]
 ELD Provider: <Provider>
 Truck Tractor ID: <CMV Power Unit Number>
 Truck Tractor VIN: <CMV VIN>
 Shipping ID: <Shipping Document Number>
-Current Location: <{Current} Geo-location>
-Unidentified Driving Records: <{Current} Data Diagnostic Event Indicator Status {for "Unidentified driving records data diagnostic" event}>
-Exempt Driver Status: <Exempt Driver Configuration {for the Driver}>
-ELD Malfunction Indicators: <Malfunction Indicator Status {and Malfunction Description} {for ELD}>
-Driver's Data Diagnostic Status: <Data Diagnostic Event Status {and Diagnostic Description}{for Driver}>
-Date: <Date {of Printout or Display}>
+Current Location: <{ Current } Geo-location>
+Unidentified Driving Records: <{ Current } Data Diagnostic Event Indicator Status { for "Unidentified driving records data diagnostic" event }>
+Exempt Driver Status: <Exempt Driver Configuration { for the Driver }>
+ELD Malfunction Indicators: <Malfunction Indicator Status {and Malfunction Description} { for ELD }>
+Driver's Data Diagnostic Status: <Data Diagnostic Event Status {and Diagnostic Description}{ for Driver }>
+Date: <Date { of Printout or Display }>
 Change of Duty Status, Intervening Interval Records and Change in Driver's Indication of Special Driving Conditions:
-<Event Record Status>,<Event Record Origin>,<Event Type>,<{Event} Date>, <{Event} Time>,<{Accumulated} Vehicle Miles>,<{Elapsed} Engine Hours>,<Geo-Location>#,<{Event} Comment/Annotation>
-<Event Sequence ID Number>,<Event Record Status>,<Event Record Origin>,<Event Type>,<Event Code>,<{Event} Date>,<{Event} Time>,<{Accumulated} Vehicle Miles>,<{Elapsed} Engine Hours>,<Geo-Location>#,<{Event} Comment/Annotation>
+<Event Record Status>,<Event Record Origin>,<Event Type>,<{ Event } Date>, <{ Event } Time>,<{ Accumulated } Vehicle Miles>,<{ Elapsed } Engine Hours>,<Geo-Location> #,<{ Event } Comment/Annotation>
+<Event Sequence ID Number>,<Event Record Status>,<Event Record Origin>,<Event Type>,<Event Code>,<{ Event } Date>,<{ Event } Time>,<{ Accumulated } Vehicle Miles>,<{ Elapsed } Engine Hours>,<Geo-Location> #,<{ Event } Comment/Annotation>
 # "<Geo-location> must be substituted with "<Driver's Location Description>" field for manual entries and with "<{blank}>" field for intervening logs.
 ER16DE15.005
 24 Hours [Print/Display Graph Grid]
@@ -743,64 +743,64 @@ An ELD must have the capability to generate a consistent electronic file output 
 4.8.2.1.1. Header Segment
 This segment must include the following data elements and format:
 ELD File Header Segment: <CR>
-<{Driver's} Last Name>,<{Driver's} First Name>,< ELD username{for the driver}>,< {Driver's} Driver's License Issuing State>,<{Driver's} Driver's License Number>,<Line Data Check Value> <CR>
-<{Co-Driver's} Last Name>,<{Co-Driver's} First Name>,<ELD username {for the co-driver} >,<Line Data Check Value> <CR>
+<{ Driver's } Last Name>,<{ Driver's } First Name>,< ELD username{ for the driver }>,< { Driver's } Driver's License Issuing State>,<{ Driver's } Driver's License Number>,<Line Data Check Value> <CR>
+<{Co-Driver's} Last Name>,<{Co-Driver's} First Name>,<ELD username { for the co-driver } >,<Line Data Check Value> <CR>
 <CMV Power Unit Number>,<CMV VIN>,<Trailer Number(s)>,<Line Data Check Value> <CR>
 <Carrier's USDOT Number>,<Carrier Name>,<Multiday-basis Used>,<24-Hour Period Starting Time>,<Time Zone Offset from UTC>,<Line Data Check Value> <CR><Shipping Document Number>,<Exempt Driver Configuration>,<Line Data Check Value> <CR>
-<{Current} Date,< {Current} Time>, < {Current} Latitude>,<{Current} Longitude,< {Current} {Total} Vehicle Miles,< {Current} {Total} Engine Hours>,<Line Data Check Value> <CR>
+<{ Current } Date,< { Current } Time>, < { Current } Latitude>,<{ Current } Longitude,< { Current } { Total } Vehicle Miles,< { Current } { Total } Engine Hours>,<Line Data Check Value> <CR>
 <ELD Registration ID>,<ELD Identifier>,<ELD Authentication Value>,<Output File Comment>,<Line Data Check Value> <CR>
 4.8.2.1.2. User List
 This segment must list all drivers and co-drivers with driving time records on the most recent CMV operated by the inspected driver and motor carrier's support personnel who requested edits within the time period for which this file is generated. The list must be in chronological order with most recent user of the ELD on top, and include the driver being inspected, the co-driver, and the unidentified driver profile. This segment has a variable number of rows depending on the number of profiles with activity over the time period for which this file is generated. This section must start with the following title:
 User List: <CR>
 Each subsequent row must have the following data elements:
-<{Assigned User} Order Number>,<{User's} ELD Account Type,<{User's} Last Name>,<{User's} First Name>,<Line Data Check Value> <CR>
+<{ Assigned User } Order Number>,<{ User's } ELD Account Type,<{ User's } Last Name>,<{ User's } First Name>,<Line Data Check Value> <CR>
 4.8.2.1.3. CMV List
 This segment must list each CMV that the current driver operated and that has been recorded on the driver's ELD records within the time period for which this file is generated. The list must be rank ordered in accordance with the time of CMV operation with the most recent CMV being on top. This segment has a variable number of rows depending on the number of CMVs operated by the driver over the time period for which this file is generated. This section must start with the following title:
 CMV List: <CR>
 Each subsequent row must have the following data elements:
-<{Assigned CMV} Order Number>,<CMV Power Unit Number>,<CMV VIN>,<Line Data Check Value> <CR>
+<{ Assigned CMV } Order Number>,<CMV Power Unit Number>,<CMV VIN>,<Line Data Check Value> <CR>
 4.8.2.1.4. ELD Event List for Driver's Record of Duty Status
 This segment must list ELD event records tagged with event types 1 (a change in duty status as described in section 4.5.1.1 of this appendix), 2 (an intermediate log as described in section 4.5.1.2), and 3 (a change in driver's indication of conditions impacting driving time recording as described in section 4.5.1.3). The segment must list all event record status types and all event record origins for the driver, rank ordered with the most current log on top in accordance with the date and time fields of the record. This segment has a variable number of rows depending on the number of ELD events recorded for the driver over the time period for which this file is generated. This section must start with the following title:
 ELD Event List: <CR>
 Each subsequent row must have the following data elements:
-<Event Sequence ID Number>,<Event Record Status>,<Event Record Origin>,<Event Type>, <Event Code>,<{Event} Date>,<{Event}Time>,<{Accumulated} Vehicle Miles>,<{Elapsed} Engine Hours>, {Event} <Latitude>,<{Event}Longitude>,<Distance Since Last Valid Coordinates>, <{Corresponding CMV} Order Number>,<{User} Order Number {for Record Originator}>,<Malfunction Indicator Status {for ELD}>,<Data Diagnostic Event Indicator Status {for Driver}>,<Event Data Check Value>,<Line Data Check Value> <CR>
+<Event Sequence ID Number>,<Event Record Status>,<Event Record Origin>,<Event Type>, <Event Code>,<{ Event } Date>,<{ Event }Time>,<{ Accumulated } Vehicle Miles>,<{ Elapsed } Engine Hours>, { Event } <Latitude>,<{ Event }Longitude>,<Distance Since Last Valid Coordinates>, <{ Corresponding CMV } Order Number>,<{ User } Order Number { for Record Originator }>,<Malfunction Indicator Status { for ELD }>,<Data Diagnostic Event Indicator Status { for Driver }>,<Event Data Check Value>,<Line Data Check Value> <CR>
 4.8.2.1.5. Event Annotations, Comments, and Driver's Location Description
 This segment must list only the elements of the ELD event list created in section 4.8.2.1.4 of this appendix that have an annotation, comment, or a manual entry of location description by the driver. This segment has a variable number of rows depending on the number of ELD events under section 4.8.2.1.4 that feature a comment, annotation, or manual location entry by the driver. This section must start with the following title:
 ELD Event Annotations or Comments: <CR>
 Each subsequent row must have the following data elements:
-<Event Sequence ID Number>,<ELD username {of the Record Originator}>,<{Event} Comment Text or Annotation>,<{Event} Date>,<{Event} Time>, <Driver's Location Description>,<Line Data Check Value> <CR>
+<Event Sequence ID Number>,<ELD username { of the Record Originator }>,<{ Event } Comment Text or Annotation>,<{Event} Date>,<{Event} Time>, <Driver's Location Description>,<Line Data Check Value> <CR>
 4.8.2.1.6. ELD Event List for Driver's Certification of Own Records
 This segment must list ELD event records with event type 4 (driver's certification of own records as described in section 4.5.1.4 of this appendix) for the inspected driver for the time period for which this file is generated. It must be rank ordered with the most current record on top. This segment has a variable number of rows depending on the number of certification and re-certification actions the authenticated driver may have executed on the ELD over the time period for which this file is generated. This section must start with the following title:
 Driver's Certification/Recertification Actions: [CR]
 Each subsequent row must have the following data elements:
-<Event Sequence ID Number>,<Event Code>,<{Event} Date>,<{Event} Time>,<Date {of the certified record}>,<{Corresponding CMV} Order Number>,<Line Data Check Value> <CR>
+<Event Sequence ID Number>,<Event Code>,<{ Event } Date>,<{ Event } Time>,<Date { of the certified record }>,<{ Corresponding CMV } Order Number>,<Line Data Check Value> <CR>
 4.8.2.1.7. Malfunction and Diagnostic Event Records
 This segment must list all malfunctions that have occurred on this ELD during the time period for which this file is generated. It must list diagnostic event records related to the driver being inspected, rank ordered with the most current record on top. This segment has a variable number of rows depending on the number of ELD malfunctions and ELD diagnostic event records recorded and relevant to the inspected driver over the time period for which this file is generated. This section must start with the following title:
 Malfunctions and Data Diagnostic Events: <CR>
 Each subsequent row must have the following data elements:
-<Event Sequence ID Number>,<Event Code>,<Malfunction/Diagnostic Code>,<{Event} Date>,<{Event} Time>,<{Total} Vehicle Miles>,<{Total} Engine Hours>, <{Corresponding CMV} Order Number>,<Line Data Check Value> <CR>
+<Event Sequence ID Number>,<Event Code>,<Malfunction/Diagnostic Code>,<{ Event } Date>,<{ Event } Time>,<{ Total } Vehicle Miles>,<{ Total } Engine Hours>, <{ Corresponding CMV } Order Number>,<Line Data Check Value> <CR>
 4.8.2.1.8. ELD Login/Logout Report
 This segment must list the login and logout activity on the ELD (ELD events with event type 5 (A driver's login/logout activity)) for the inspected driver for the time period for which this file is generated. It must be rank ordered with the most recent activity on top. This section must start with the following title:
 ELD Login/Logout Report: <CR>
 Each subsequent row must have the following data elements:
-<Event Sequence ID Number>,<Event Code>,<ELD username>,<{Event} Date>,<{Event} Time>,<{Total} Vehicle Miles>,<{Total} Engine Hours>,<Line Data Check Value> <CR>
+<Event Sequence ID Number>,<Event Code>,<ELD username>,<{ Event } Date>,<{ Event } Time>,<{ Total } Vehicle Miles>,<{ Total } Engine Hours>,<Line Data Check Value> <CR>
 4.8.2.1.9. CMV's Engine Power-Up and Shut Down Activity
 This segment must list the logs created when a CMV's engine is powered up and shut down (ELD events with event type 6 (CMV's engine power up/shut down)) for the time period for which this file is generated. It must be rank ordered with the latest activity on top. This section must start with the following title:
 CMV Engine Power-Up and Shut Down Activity: <CR>
 Each subsequent row must have the following data elements:
-<Event Sequence ID Number>,<Event Code>,<{Event} Date>,<{Event} Time>,<{Total} Vehicle Miles>,<{Total} Engine Hours>,<{Event} Latitude>,<{Event} Longitude>,<CMV Power Unit Number>,<CMV VIN>,<Trailer Number(s)>,<Shipping Document Number>,<Line Data Check Value> <CR>
+<Event Sequence ID Number>,<Event Code>,<{ Event } Date>,<{ Event } Time>,<{ Total } Vehicle Miles>,<{ Total } Engine Hours>,<{ Event } Latitude>,<{ Event } Longitude>,<CMV Power Unit Number>,<CMV VIN>,<Trailer Number(s)>,<Shipping Document Number>,<Line Data Check Value> <CR>
 4.8.2.1.10. ELD Event Log List for the Unidentified Driver Profile
 This segment must list the ELD event records for the Unidentified Driver profile, rank ordered with most current log on top in accordance with the date and time fields of the logs. This segment has a variable number of rows depending on the number of Unidentified Driver ELD records recorded over the time period for which this file is generated. This section must start with the following title:
 Unidentified Driver Profile Records: <CR>
 Each subsequent row must have the following data elements:
-<Event Sequence ID Number>,<Event Record Status>,<Event Record Origin>,<Event Type>,<Event Code>,<{Event} Date>,<{Event} Time>,< {Accumulated} Vehicle Miles>,< {Elapsed} Engine Hours>,<{Event} Latitude>,<{Event} Longitude>,<Distance Since Last Valid Coordinates>, <{Corresponding CMV} Order Number>,<Malfunction Indicator Status {for ELD}>,<Event Data Check Value>,<Line Data Check Value> <CR>
+<Event Sequence ID Number>,<Event Record Status>,<Event Record Origin>,<Event Type>,<Event Code>,<{ Event } Date>,<{ Event } Time>,< { Accumulated } Vehicle Miles>,< { Elapsed } Engine Hours>,<{ Event } Latitude>,<{ Event } Longitude>,<Distance Since Last Valid Coordinates>, <{ Corresponding CMV } Order Number>,<Malfunction Indicator Status { for ELD }>,<Event Data Check Value>,<Line Data Check Value> <CR>
 4.8.2.1.11. File Data Check Value
 This segment lists the file data check value as specified in section 4.4.5.3 of this appendix. This part includes a single line as follows:
 End of File: <CR>
 <File Data Check Value> <CR>
 4.8.2.2. ELD Output File Name Standard
 If the ELD output is saved in a file for transfer or maintenance purposes, it must follow the 25 character-long filename standard below:
-(a) The first five position characters of the filename must correspond to the first five letters of the last name of the driver for whom the file is compiled. If the last name of the driver is shorter than five characters, remaining positions must use the character "_" [underscore] as a substitute character. For example, if the last name of the driver is "Lee", the first five characters of the output file must feature "Lee_ _".
+(a) The first five position characters of the filename must correspond to the first five letters of the last name of the driver for whom the file is compiled. If the last name of the driver is shorter than five characters, remaining positions must use the character "_" [underscore] as a substitute character. For example, if the last name of the driver is "Lee", the first five characters of the output file must feature "Lee__ __".
 (b) The sixth and seventh position characters of the filename must correspond to the last two digits of the driver's license number for the driver for whom the file is compiled.
 (c) The eighth and ninth position characters of the filename must correspond to the sum of all individual numeric digits in the driver's license number for the driver for whom the file is compiled. The result must be represented in two-digit format. If the sum value exceeds 99, use the last two digits of the result. For example, if the result equals "113", use "13". If the result is less than 10, use 0 as the first digit. For example, if the result equals "5", use "05".
 (d) The tenth through fifteenth position characters of the filename must correspond to the date the file is created. The result must be represented in six digit format "MMDDYY" where "MM" represents the month, ""DD" represents the day, and "YY" represents the last two digits of the year. For example, February 5, 2013, must be represented as "020513".
@@ -847,7 +847,7 @@ For each type of data transfer mechanism, an ELD must follow the specifications 
 Element | Format
 To: | <Address Provided by FMCSA during online registration>
 From: | <Desired return address for confirmation>
-Subject: | ELD records from <ELD Registration ID><':'><ELD Identifier>
+Subject: | ELD records from <ELD Registration ID><':'> <ELD Identifier>
 Body: | <Output File Comment>
 Attachment: | MIME encoded AES-256 encrypted file with <filename>.<Date string>.<unique identifier>.aes
 (d) A message confirming receipt of the ELD file will be sent to the address specified in the email. The filename must follow the convention specified in section 4.8.2.2 of this appendix.
@@ -909,19 +909,19 @@ FMCSA shall initiate the removal of an ELD model or version from the list of ELD
 (a) The reasons FMCSA proposes to remove the model or version from the FMCSA list; and
 (b) Any corrective action that the ELD provider must take for the ELD model or version to remain on the list.
 5.4.3. Response
-An ELD provider that receives notice under section 5.4.2 of this appendix may submit a response to the Director, Office of Carrier Driver, and Vehicle Safety Standards no later than 30 days after issuance of the notice of proposed removal, explaining:
+An ELD provider that receives notice under section 5.4.2 of this appendix may submit a response to FMCSA no later than 30 days after issuance of the notice of proposed removal, explaining:
 (a) The reasons why the ELD provider believes the facts relied on by the Agency, in proposing removal, are wrong; or
 (b) The action the ELD provider will take to correct the deficiencies that FMCSA identified.
 5.4.4. Agency Action
 (a) If the ELD provider fails to respond within 30 days of the date of the notice issued under section 5.4.2 of this appendix, the ELD model or version shall be removed from the FMCSA list.
-(b) If the ELD provider submits a timely response, the Director, Office of Carrier, Driver, and Vehicle Safety Standards, shall review the response and withdraw the notice of proposed removal, modify the notice of proposed removal, or affirm the notice of proposed removal, and notify the ELD provider in writing of the determination.
-(c) Within 60 days of the determination, the ELD provider shall take any action required to comply. If the Director determines that the ELD provider failed to timely take the required action within the 60 day period, the ELD model or version shall be removed from the FMCSA list.
-(d) The Director, Office of Carrier, Driver, and Vehicle Safety Standards may request from the ELD provider any information that the Director considers necessary to make a determination under this section.
+(b) If the ELD provider submits a timely response, FMCSA shall review the response and withdraw the notice of proposed removal, modify the notice of proposed removal, or affirm the notice of proposed removal, and notify the ELD provider in writing of the determination.
+(c) Within 60 days of the determination, the ELD provider shall take any action required to comply. If FMCSA determines that the ELD provider failed to timely take the required action within the 60 day period, the ELD model or version shall be removed from the FMCSA list.
+(d) FMCSA may request from the ELD provider any information that FMCSA considers necessary to make a determination under this section.
 5.4.5. Administrative Review
 (a) Within 30 days of removal of an ELD model or version from the FMCSA list of certified ELDs under section 5.4.4 of this appendix, the ELD provider may request administrative review.
-(b) A request for administrative review must be submitted in writing to the FMCSA Associate Administrator for Policy. The request must explain the error committed in removing the ELD model or version from the FMCSA list, identify all factual, legal, and procedural issues in dispute, and include any supporting information or documents.
-(c) The Associate Administrator may ask the ELD provider to submit additional information or attend a conference to discuss the removal. If the ELD provider does not submit the requested information or attend the scheduled conference, the Associate Administrator may dismiss the request for administrative review.
-(d) The Associate Administrator will complete the administrative review and notify the ELD provider of the decision in writing. The decision constitutes a final Agency action.
+(b) A request for administrative review must be submitted in writing to FMCSA, ATTN: ELD Removal—Request for Administrative Review. The request must explain the error committed in removing the ELD model or version from the FMCSA list, identify all factual, legal, and procedural issues in dispute, and include any supporting information or documents.
+(c) FMCSA may ask the ELD provider to submit additional information or attend a conference to discuss the removal. If the ELD provider does not submit the requested information or attend the scheduled conference, FMCSA may dismiss the request for administrative review.
+(d) FMCSA will complete the administrative review and notify the ELD provider of the decision in writing. The decision constitutes a final Agency action.
 6. References
 (a) American National Standards Institute (ANSI). 11 West 42nd Street, New York, New York 10036, http://webstore.ansi.org, (212) 642-4900.
 (1) ANSI INCITS 4-1986 (R2012), American National Standard for Information Systems—Coded Character Sets—7-Bit American National Standard Code for Information Interchange (7-Bit ASCII), approved June 14, 2007, IBR in section 4.8.2.1, Appendix A to subpart B.
@@ -1004,7 +1004,7 @@ Used in: ELD event records; ELD output file.
 Data Type: Retrieved from the engine ECM via the vehicle databus.
 Data Range: Either blank or 17 characters long as specified by NHTSA in 49 CFR part 565, or 18 characters long with first character assigned as "-" (dash) followed by the 17 character long VIN. Check digit, i.e., VIN character position 9, as specified in 49 CFR part 565 must imply a valid VIN.
 Data Length: Blank or 17-18 characters.
-Data Format: <CMV VIN> or <"-"> <CMV VIN> or <{blank}> as in <CCCCCCCCCCCCCCCCC>, or <-CCCCCCCCCCCCCCCCC> or <>.
+Data Format: <CMV VIN> or <"-"> <CMV VIN> or <{ blank }> as in <CCCCCCCCCCCCCCCCC>, or <-CCCCCCCCCCCCCCCCC> or <>.
 Disposition: Mandatory for all ELDs linked to the engine ECM and when VIN is available from the engine ECM over the vehicle databus; otherwise optional. If optionally populated and source is not the engine ECM, precede VIN with the character "-" in records.
 Examples: [1FUJGHDV0CLBP8834], [-1FUJGHDV0CLBP8896], [].
 7.6. Comment/Annotation
@@ -1107,7 +1107,7 @@ Data Range: Alphanumeric combination.
 Data Length: Greater than 16 characters.
 Data Format: <CCCC.........CCCC>.
 Disposition: Mandatory.
-Example: [bGthamRrZmpha3NkamZsa2pzZGxma 2phc2xka2Y7ajtza25rbCBucms7Y2... RuZHNudm5hc21kbnZBU0RGS0x KQVNMS0RKTEs7QVNKRDtGTEtBSlNER ktMSkFEU0w7S1NESkZMSw==].
+Example: [bGthamRrZmpha3NkamZsa2pzZGxma2phc2xka2Y7ajtza25rbCBucms7Y2... RuZHNudm5hc21kbnZBU0RGS0xKQVNMS0RKTEs7QVNKRDtGTEtBSlNERktMSkFEU0w7S1NESkZMSw==].
 7.15. ELD Identifier
 Description: An alphanumeric identifier assigned by the ELD provider to the ELD technology that is certified by the registered provider at FMCSA's Web site.
 Purpose: Provides ability to cross-check that the ELD used in the recording of a driver's records is certified through FMCSA's registration and certification process as required.
@@ -1158,7 +1158,7 @@ Purpose: Provides ability to identify gaps in the operation of a CMV, when the v
 Source: ELD measurement or sensing.
 Used in: ELD events; ELD outputs.
 Data Type: Acquired from the engine ECM or a comparable other source as allowed in section 4.3.1.4.
-Data Range: For <{Total} Engine Hours>, range is between 0.0 and 99,999.9; for <{Elapsed} Engine Hours>, range is between 0.0 and 99.9.
+Data Range: For <{Total} Engine hours>, range is between 0.0 and 99999.9; for <{Elapsed} Engine hours>, range is between 0.0 and 99999.9.
 Data Length: 3-7 characters.
 Data Format: <Vehicle Miles> as in <C.C> to <CCCCC.C>.
 Disposition: Mandatory for any event whose origin is the ELD or the unidentified driver profile. For events created by the driver or another authenticated user when engine hours are not available and cannot accurately be determined this field can be blank.
@@ -1274,9 +1274,9 @@ Used in: ELD display or printout.
 Data Type: Identified from the underlying latitude/longitude coordinates by the ELD.
 Data Range: Contains four segments in one text field; a recognizable location driven from GNIS database containing—at a minimum—all cities, towns and villages with a population of 5,000 in text format containing a location name and the State abbreviation, distance from this location and direction from this location.
 Data Length: Minimum: 5; Maximum: 60 characters.
-Data Format: <Distance from {identified} Geo-location> <'mi `> <Direction from {identified} Geo-location> <' `> <State Abbreviation {of identified} Geo Location> <' `> <Place name of {identified} Geo-location> where:
-<Distance from {identified} Geo-location> must either be <{blank}> or <C> or <CC> where the up-to two character number specifies absolute distance between identified geo-location and event location;
-<Direction from {identified} Geo-location> must either be <{blank}> or <C> or <CC> or <CCC>, must represent direction of event location with respect to the identified geo-location, and must take a value listed on Table 10 of this appendix;<State Abbreviation {of identified} Geo Location> must take values listed on Table 5; <Place name of {identified} Geo-location> must be the text description of the identified reference location;
+Data Format: <Distance from { identified } Geo-location> <'mi `> <Direction from { identified } Geo-location> <' `> <State Abbreviation { of identified } Geo Location> <' `> <Place name of { identified } Geo-location> where:
+<Distance from { identified } Geo-location> must either be <{blank}> or <C> or <CC> where the up-to two character number specifies absolute distance between identified geo-location and event location;
+<Direction from { identified } Geo-location> must either be <{blank}> or <C> or <CC> or <CCC>, must represent direction of event location with respect to the identified geo-location, and must take a value listed on Table 10 of this appendix;<State Abbreviation { of identified } Geo Location> must take values listed on Table 5; <Place name of { identified } Geo-location> must be the text description of the identified reference location;
 Overall length of the "Geo-location" parameter must not be longer than 60 characters long.
 Disposition: Mandatory.
 Examples: [2mi ESE IL Darien], [1mi SE TX Dallas], [11mi NNW IN West Lafayette].
@@ -1405,7 +1405,7 @@ Examples: {070111}, {001259}, {151522}, {230945}.
 7.41. Time Zone Offset from UTC
 Description: This data element refers to the offset in time between UTC time and the time standard in effect at the driver's home terminal.
 Purpose: Establishes the ability to link records stamped with local time to a universal reference.
-Source: Calculated from measured variable <{UTC} Time> and <{Time Standard in Effect at driver's home terminal} Time>; Maintained together with "24-hour Period Starting Time" parameter by the motor carrier or tracked automatically by ELD.
+Source: Calculated from measured variable <{ UTC } Time> and <{ Time Standard in Effect at driver's home terminal } Time>; Maintained together with "24-hour Period Starting Time" parameter by the motor carrier or tracked automatically by ELD.
 Used in: ELD account profile; ELD event: Driver's certification of own records.
 Data Type: Programmed or populated on the ELD during account creation and maintained by the motor carrier or ELD to reflect true and accurate information for drivers. This parameter must adjust for Daylight Saving Time changes in effect at the driver's home terminal.
 Data Range: 04 to 11; omit sign.
