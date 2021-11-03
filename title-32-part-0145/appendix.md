@@ -5,7 +5,7 @@
 4. To obtain legal representation the employee:
 a. Must request legal representation, in writing, together with all process and pleadings served, and explain the circumstances that justify DoD legal assistance.
 b. Indicate whether he or she has retained legal counsel from outside the Department of Defense.
-c. Obtain a written certification from his or her supervisor that the employee was acting within the scope of his of her official duties, and that no adverse or disciplinary personnel action against the employee for the conduct being investigated by the OSC has been initiated by the Component.
+c. Obtain a written certification from his or her supervisor that the employee was acting within the scope of his or her official duties, and that no adverse or disciplinary personnel action against the employee for the conduct being investigated by the OSC has been initiated by the Component.
 5. Employee requests for legal representation must be approved by the General Counsel, DoD, for employees of OSD or a Defense Agency (other than the DLA), or by the General Counsel of a Military Department or the General Counsel of the DLA for employees of those Components.
 6. The conditions of legal representation must be explained to the accused employee in writing and accepted in writing by that employee.
 7. DoD resources may not be used to provide legal representation for an employee with respect to a DoD disciplinary action against the employee for committing or participating in a prohibited personnel practice or for engaging in illegal or improper conduct, regardless of whether that participation or conduct is also the basis for disciplinary action proposed by the OSC.
