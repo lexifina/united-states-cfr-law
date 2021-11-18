@@ -1,5 +1,5 @@
-# Table 2 to Subpart MMMMM of Part 63—Operating Limits for New or Reconstructed Flame Lamination Affected Sources
-As stated in § 63.8790(b), you must comply with the operating limits in the following table:
+# Table 2 to Subpart MMMMM of Part 63—Operating Limits for Existing, New, or Reconstructed Flame Lamination Affected Sources
+As stated in § 63.8790(b), you must comply with the applicable operating limits in the following table:
 For each... | You must...
 1. Scrubber | a. Maintain the daily average scrubber inlet liquid flow rate above the minimum value established during the performance test.
 | b. Maintain the daily average scrubber effluent pH within the operating range value established during the performance test.
