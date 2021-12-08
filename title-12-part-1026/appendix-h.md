@@ -115,7 +115,7 @@ __ [payment cap].
 Index(identification of index or formula).
 * This is a margin we have used recently, your margin may be different.
 ** This is the amount of a discount we have provided recently; your loan may be discounted by a different amount.]
-Year | Index(%) | Margin(percentage points) | Interestrate (%) | Monthlypayment ($) | Remainingbalance ($)
+Year | Index (%) | Margin (percentage points) | Interest rate (%) | Monthly payment ($) | Remaining balance ($)
 1982 | | |
 1983 | | |
 1984 | | |
@@ -140,10 +140,10 @@ ER14FE13.007
 ER22DE11.039
 H-4(I)—Introductory Rate Model Clause
 [Introductory Rate Notice
-You have a discounted introductory rate of ____ % that ends after (period).
+You have a discounted introductory rate of __ % that ends after (period).
 In the (period in sequence), even if market rates do not change, this rate will increase to __ %.]
 H-4(J)—Balloon Payment Model Clause
-[Final Balloon Payment due (date): $______]
+[Final Balloon Payment due (date): $____]
 H-4(K)—"No-Guarantee-to-Refinance" Statement Model Clause
 There is no guarantee that you will be able to refinance to lower your rate and payments.
 ER22DE11.040
@@ -202,7 +202,7 @@ Margin | 3 percentage points.
 Caps 2 percentage points annual interest rate.
 5 percentage points lifetime interest rate.
 Index Weekly average yield on U.S. Treasury securities adjusted to a constant maturity of one year.
-Year(as of 1st week ending in July) | Index | Margin *(percentage points) | Interestrate (%) | Monthlypayment ($) | Remainingbalance ($)
+Year (as of 1st week ending in July) | Index | Margin * (percentage points) | Interest rate (%) | Monthly payment ($) | Remaining balance ($)
 1982 | 14.41 | 3 | 17.41 | 145.90 | 9,989.37
 1983 | 9.78 | 3 | * * 15.41 | 129.81 | 9,969.66
 1984 | 12.17 | 3 | 15.17 | 127.91 | 9,945.51
@@ -472,3 +472,5 @@ H-30(E) Sample Form of Periodic Statement for Consumer in Chapter 7 or Chapter 1
 ER19OC16.001
 H-30(F) Sample Form of Periodic Statement for Consumer in Chapter 12 or Chapter 13 Bankruptcy
 ER19OC16.002
+Effective Date Notes: 1. At 86 FR 69782, Dec. 8, 2021, appendix H to part 1026 was amended by revising the entries for H-4(D)(2) and H-4(D)(4), effective Apr. 1, 2022. For the convenience of the user, the revised text is set forth as follows: Appendix H to Part 1026—Closed-End Model Forms and Clauses ER08DE21.000 ER08DE21.001 ER08DE21.002 ER08DE21.003
+Effective Date Notes: 2. At 86 FR 69786, Dec. 8, 2021, appendix H to part 1026 was further amended by revising the entries for H-4(D)(2) and H-4(D)(4), effective Oct. 1, 2023. For the convenience of the user, the revised text is set forth as follows: Appendix H to Part 1026—Closed-End Model Forms and Clauses ER08DE21.004 ER08DE21.005
