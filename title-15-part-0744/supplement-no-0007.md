@@ -1,6 +1,8 @@
 # Supplement No. 7 to Part 744—'Military End-User' (MEU) List
-The license requirement for entities listed in supplement no. 7 to part 744 applies to the export, reexport, or transfer (in-country) of any item subject to the EAR listed in supplement no. 2 to part 744. A license is required to export, reexport, or transfer (in-country) any item subject to the EAR listed in supplement no. 2 to part 744 when an entity that is listed on the MEU List is a party to the transaction as described in § 748.5(c) through (f). No license exceptions are available for exports, reexports or transfers (in-country) to listed entities on the MEU List for items specified in supplement no. 2 to part 744, except license exceptions for items authorized under the provisions of License Exception GOV set forth in § 740.11(b)(2)(i) and (ii) of the EAR as specified in § 744.21(c). The license application procedure and license review policy for entities specified in supplement no. 2 to part 744 is specified in § 744.21(d) and (e).
+The license requirement for entities listed in supplement no. 7 to part 744 applies to the export, reexport, or transfer (in-country) of any item subject to the EAR listed in supplement no. 2 to part 744. A license is required to export, reexport, or transfer (in-country) any item subject to the EAR listed in supplement no. 2 to part 744 when an entity that is listed on the MEU List is a party to the transaction as described in § 748.5(c) through (f). No license exceptions are available for exports, reexports or transfers (in-country) to listed entities on the MEU List for items specified in supplement no. 2 to part 744, except license exceptions for items authorized under the provisions of License Exception GOV set forth in § 740.11(b)(2)(i) and (ii) of the EAR as specified in § 744.21(c). The license application procedure and license review policy for entities specified in this supplement 7 to part 744 is specified in § 744.21(d) and (e).
 Country | Entity | Federal Register citation
+BURMA | [Reserved] | [Reserved]
+CAMBODIA | [Reserved] | [Reserved]
 CHINA, PEOPLE'S REPUBLIC OF | Academy of Aerospace Solid Propulsion Technology (AASPT), Tian Wang te Zi #1, Baqiao District, Xian, China | 85 FR 83799, 12/23/2020.
 | The following eight subordinate institutions of Aero-Engine Company of China:
 | Subordinate institution:
@@ -39,11 +41,11 @@ CHINA, PEOPLE'S REPUBLIC OF | Academy of Aerospace Solid Propulsion Technology (
 | Beijing Ander Tech. Co., Ltd. No. C22, Yu An Rd., Area B, Tianzhu, Beijing 101318, China | 85 FR 83799, 12/23/2020.
 | Beijing Guang Ming Electronics Co., Ltd., No. 41 Yu Qiao Bei Li, Tongzhou District, Beijing 101100, China | 85 FR 83799, 12/23/2020.
 | Beijing Siyuan Electronic Co., Ltd., Satellite Building, No. 63 Zhichun Road, Haidian District, Beijing 100086, China | 85 FR 83799, 12/23/2020.
-| CAST Xi'an Spaceflight Engine Factory, a.k.a., the following one alias: | 85 FR 83799, 12/23/2020.
-| —7103 Factory
-| 7103 Factory No 6 Academy No 69, Shenzhou Second Road, Aerospace Base, Xian, China.
+| Beijing Skyrizon Aviation Industry Investment Co., Ltd., a.k.a., the following one alias: —Beijing Tianjiao Aviation Industry Investment Company 21/F Tower C Zhizhen Plaza, No. 7 Zhichun Road, Haidian District, Beijing, China. | 86 FR 4864, 1/15/21.
+| CAST Xi'an Spaceflight Engine Factory, a.k.a., the following one alias: —7103 Factory 7103 Factory No 6 Academy No 69, Shenzhou Second Road, Aerospace Base, Xian, China. | 85 FR 83799, 12/23/2020.
 | Chengdu Holy Aviation Science & Tech, No. 220, Tongjiang Road, Pengzhou City, Sichuan 611936, China | 85 FR 83799, 12/23/2020.
 | China Aviation Ind. Std. Parts No. 355, Baiyun S. Road, Baiyun Dist, Gui Yang 550014, China | 85 FR 83799, 12/23/2020.
+| Chongqing Optel Telecom Technology Co., Ltd., No. 1, 6/F, Building 7, No. 106 West Section, Jinkai Avenue, Yubei District, Chongqing, China | 85 FR 83799 12/23/2020. 86 FR 29193, 6/1/2021.
 | CSSC Xijiang Shipbuilding Co., Ltd., No. 133 Fenghuang Road, Liuzhou City, Guangxi 572000, China | 85 FR 83799, 12/23/2020.
 | Elink Electronic Technology Co. Ltd., Room 717, Building 41, No. 8633 Zhongchun Road, Minhang District, Shanghai, China | 85 FR 83799, 12/23/2020.
 | Fly Raise International Limited, Unit 04 7/F Bright Way Tower, No. 33 Mong Kok Road, Kowloon 999077, Hong Kong | 85 FR 83799, 12/23/2020.
@@ -57,12 +59,10 @@ CHINA, PEOPLE'S REPUBLIC OF | Academy of Aerospace Solid Propulsion Technology (
 | Harbin General Aircraft Industry Co., Ltd., a.k.a., the following one alias: —Harbin Hafei Aviation Industry Co. Ltd. 15 Youxie Street, Harbin 150066, Pingfang District, China | 85 FR 83799, 12/23/2020.
 | Henan Aerospace Precision Mach, 15 Xinnan Road, Xinyang 464000, China | 85 FR 83799, 12/23/2020.
 | Hunan South General Aviation Engine Co., Ltd., Dongjiaduan, Hi-Tech Industry Zone, Zhuzhou, Hunan 412000, Lusong District, China | 85 FR 83799, 12/23/2020.
-| Hutchison Optel Telecom Technology Co., Ltd., G-3, No. 67-1, Ke Yuan 3th Road, Chongqing Hitech Industrial Development Zone, Chongqing 400041, China | 85 FR 83799, 12/23/2020.
 | Jiangsu Meilong Aviation Components Co., No. 88 Wufengshang Road, Suzhou, Zhenjiang 212132, China | 85 FR 83799, 12/23/2020.
 | Jiatai Aircraft Equipment Co., Ltd., No. 1 ZhongHang Ave., Fancheng District, Xiangyang City, Hubei Province, China | 85 FR 83799, 12/23/2020.
 | Jincheng Group Imp & Exp. Co. Ltd. Floor 26th Jincheng Plaza, 216 Middle Longpan Road, Nanjing, Jiangsu 210002, China | 85 FR 83799, 12/23/2020.
 | Laboratory of Toxicant Analysis, Institute of Pharmacology and Toxicology, No. 27 Taiping Road, Beijing, Haidian District, China | 85 FR 83799, 12/23/2020.
-| Molecular Devices Shanghai Corporation, No. 239 GangAo Road, WaiGaoQiao Free Trade Zone, Room 318, 3F, Building 2, Shanghai, China | 85 FR 83799, 12/23/2020.
 | Nanjing Engineering Institute of Aircraft Systems (NEIAS), 33 Shuige Road, Jiangning Economic Development Zone, Nanjing 211106, China | 85 FR 83799, 12/23/2020.
 | National Satellite Meteorological Bureau, No. 46 Baishiqiao Road, HaiDian District, Beijing 100081, China | 85 FR 83799, 12/23/2020.
 | Second Institute of Oceanography, Ministry of Natural Resources, No. 36 Baochubei Road, Hangzhou 310012, Hangzhou Xihu District, China | 85 FR 83799, 12/23/2020.
@@ -104,13 +104,13 @@ RUSSIA | Admiralty Shipyard JSC, 203, Fontanka Emb., 190121, St. Peterburg, Russ
 | Irkut Research and Production Corporation Public Joint Stock Company, 68 Leningradsky Prospect, Moscow 125315, Russia | 85 FR 83799, 12/23/2020.
 | Joint Stock Company Scientific Research Institute of Computing Machinery, Melnichnaya Street, 31, Kirov 610025, Russia | 85 FR 83799, 12/23/2020.
 | JSC Central Research Institute of Machine Building (JSC TsNIIMash), Pionerskaya Street, 4, korpus 22, Moskovskaya obl., Korolov 141070, Russia | 85 FR 83799, 12/23/2020.
+| JSC Kazan Helicopter Plant Repair Service, a.k.a., the following two aliases: —Kazanski Vertoletny Zavod Remservis; and —KVZ Remservis. Ulitsa Tetsevskaya 14, Kazan, Russia | 86 FR 36509, 7/12/2021.
 | JSC Rocket and Space Centre—Progress, Zemetsa Street 18, Samarskaya Oblast, Samara 443009, Russia | 85 FR 83799, 12/23/2020.
 | Kamensk-Uralsky Metallurgical Works J.S. Co., 5 Zavodskaya St., Kamensk Uralsky, 623405 Sverdlovsk region, Russia | 85 FR 83799, 12/23/2020.
 | Kazan Helicopter Plant PJSC, Tetsevskaya St, Kazan 420085, Russia | 85 FR 83799, 12/23/2020.
 | Komsomolsk-na-Amur Aviation Production Organization (KNAAPO), 1 Sovetskaya Street, Komsomolsk-on-Amur, Khabarovsky Krai, Russia 618018 | 85 FR 83799, 12/23/2020.
-| Korporatsiya Vsmpo Avisma OAO, Parkovaya Street 1, Verkhnaya Salda, Sverdlovsk region 624760, Russia | 85 FR 83799, 12/23/2020.
 | Ministry of Defence RF, 19 Znamenka Str, Moscow 119160, Russia | 85 FR 83799, 12/23/2020.
-| Molot Oruzhie, 612960, Kirov Oblast, Vyatskie Polyany, st. Lenin 135, Russia | 85 FR 83799, 12/23/2020.
+| Moscow Institute of Physics and Technology, a.k.a., the following two aliases: —MIPT; and —MFTI Dolgoprudny Campus: 9 Institutskiy per., Dolgoprudny, Moscow Region 141701, Russia; and Zhukovsky Campus: Ulitsa Gagarina 16, Zhukovsky, Moscow Region 140180, Russia; and Moscow Campus 1 Stroyeniye 1, Klimentovsky Pereulok, Moscow Region 115184, Russia | 86 FR 67323, 11/26/2021.
 | NPO High Precision Systems JSC, Kievskaya Street 7, Moscow, Russia | 85 FR 83799, 12/23/2020.
 | NPO Splav JSC, 33 ul. Shcheglov Kaya Zaseka Tula, 300004 Russia | 85 FR 83799, 12/23/2020.
 | Oboronprom OJSC, 29/141 Vereiskaya Street, Moscow, 121357 Russia | 85 FR 83799, 12/23/2020.
