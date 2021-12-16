@@ -37,7 +37,8 @@ B. Inorganic Chemicals (IOCs)
 14. Selenium | 2 | 141.62(b) | 3 | 141.23(a), (c)
 15. Thallium | 2 | 141.62(b) | 3 | 141.23(a), (c)
 C. Lead and Copper Rule (Action Level for lead is 0.015 mg/L, for copper is 1.3 mg/L)
-1. Lead and Copper Rule (TT) | 2 | 141.80-141.85 | 3 | 141.86-141.89
+1. Lead and Copper Rule (TT) | 2 | 141.80 (except 141.80(c))-141.84, 141.85(a)-(c) and (h), and 141.93 | 3 | 141.86-141.90
+2. Exceedance of the Action Level for lead | 1 | 141.80(c)
 D. Synthetic Organic Chemicals (SOCs)
 1. 2,4-D | 2 | 141.61(c) | 3 | 141.24(h)
 2. 2,4,5-TP (Silvex) | 2 | 141.61(c) | 3 | 141.24(h)
@@ -150,13 +151,3 @@ Appendix A—Endnotes
 20. Other waterborne emergencies require a Tier 1 public notice under § 141.202(a) for situations that do not meet the definition of a waterborne disease outbreak given in 40 CFR 141.2 but that still have the potential to have serious adverse effects on health as a result of short-term exposure. These could include outbreaks not related to treatment deficiencies, as well as situations that have the potential to cause outbreaks, such as failures or significant interruption in water treatment processes, natural disasters that disrupt the water supply or distribution system, chemical spills, or unexpected loading of possible pathogens into the source water.
 21. Primacy agencies may place other situations in any tier they believe appropriate, based on threat to public health.
 22. Failure to collect three or more samples for Cryptosporidium analysis is a Tier 2 violation requiring special notice as specified in § 141.211. All other monitoring and testing procedure violations are Tier 3.
-At 86 FR 4310, Jan. 15, 2021, Appendix A to Subpart Q of Pt. 141 was amended by revising the entry for "C. Lead and Copper Rule (Action Level for lead is 0.015 mg/L, for copper is 1.3 mg/L)", effective Mar. 16, 2021. At 86 FR 14002, Mar. 12, 2021, the effective date was delayed until June 17, 2021. At 86 FR 31940, June 16, 2021, the effective date was further delayed until Dec. 16, 2021. The revision is set forth to read as follows.
-Appendix A To Subpart Q of Part 141—NPDWR Violations and Other Situations Requiring Public Notice 1
-1 Violations and other situations not listed in this table (e.g., failure to prepare Consumer Confidence Reports), do not require notice, unless otherwise determined by the primacy agency. Primacy agencies may, at their option, also require a more stringent public notice tier (e.g., Tier 1 instead of Tier 2 or Tier 2 instead of Tier 3) for specific violations and situations listed in this Appendix, as authorized under § 141.202(a) and § 141.203(a).
-.
-Contaminant | MCL/MRDL/TT violations 2 | Tier of public notice required | Citation | Monitoring & testing procedure violations | Tier of public notice required | Citation
-* * * * * *
-C. Lead and Copper Rule (Action Level for lead is 0.015 mg/L, for copper is 1.3 mg/L)
-1. Lead and Copper Rule (TT) | 2 | 141.80 (except 141.80(c))-141.84, 141.85(a)-(c) and (h), and 141.93 | 3 | 141.86-141.90
-2. Exceedance of the Action Level for lead | 1 | 141.80(c)
-2. MCL—Maximum contaminant level, MRDL—Maximum residual disinfectant level, TT—Treatment technique.
