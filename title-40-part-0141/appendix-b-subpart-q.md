@@ -36,7 +36,7 @@ C. Inorganic Chemicals (IOCs)
 21. Selenium | 0.05 | 0.05 | Selenium is an essential nutrient. However, some people who drink water containing selenium in excess of the MCL over many years could experience hair or fingernail losses, numbness in fingers or toes, or problems with their circulation.
 22. Thallium | 0.0005 | 0.002 | Some people who drink water containing thallium in excess of the MCL over many years could experience hair loss, changes in their blood, or problems with their kidneys, intestines, or liver.
 D. Lead and Copper Rule
-23. Lead | Zero | TT 13 | Infants and children who drink water containing lead in excess of the action level could experience delays in their physical or mental development. Children could show slight deficits in attention span and learning abilities. Adults who drink this water over many years could develop kidney problems or high blood pressure.
+23. Lead | zero | TT 13 | Exposure to lead in drinking water can cause serious health effects in all age groups. Infants and children can have decreases in IQ and attention span. Lead exposure can lead to new learning and behavior problems or exacerbate existing learning and behavior problems. The children of women who are exposed to lead before or during pregnancy can have increased risk of these adverse health effects. Adults can have increased risks of heart disease, high blood pressure, kidney or nervous system problems.
 24. Copper | 1.3 | TT 14 | Copper is an essential nutrient, but some people who drink water containing copper in excess of the action level over a relatively short amount of time could experience gastrointestinal distress. Some people who drink water containing copper in excess of the action level over many years could suffer liver or kidney damage. People with Wilson's Disease should consult their personal doctor.
 E. Synthetic Organic Chemicals (SOCs)
 25. 2,4-D | 0.07 | 0.07 | Some people who drink water containing the weed killer 2,4-D well in excess of the MCL over many years could experience problems with their kidneys, liver, or adrenal glands.
@@ -137,16 +137,3 @@ Appendix B—Endnotes
 21. The MCL for haloacetic acids is the sum of the concentrations of the individual haloacetic acids.
 22. MRDLG—Maximum residual disinfectant level goal.
 23. MRDL—Maximum residual disinfectant level.
-At 86 FR 4310, Jan. 15, 2021,Appendix B to Subpart Q was amended by revising the entry for ldquo;23 Leadrdquo;, effective Mar. 16, 2021. At 86 FR 14002, Mar. 12, 2021, the effective date was delayed until June 17, 2021. At 86 FR 31940, June 16, 2021, the effective date was further delayed until Dec. 16, 2021. For the convenience of the user, the revised text is set forth to read as follows:
-Appendix B to Subpart Q of Part 141—Standard Health Effects Language for Public Notification
-Contaminant | MCLG 1 mg/L | MCL 2 mg/L | Standard health effects language for public notification
-* * * * * * *
-D. Lead and Copper Rule
-23. Lead | zero | TT 13 | Exposure to lead in drinking water can cause serious health effects in all age groups. Infants and children can have decreases in IQ and attention span. Lead exposure can lead to new learning and behavior problems or exacerbate existing learning and behavior problems. The children of women who are exposed to lead before or during pregnancy can have increased risk of these adverse health effects. Adults can have increased risks of heart disease, high blood pressure, kidney or nervous system problems.
-* * * * * * *
-* * * * *
-1 MCLG—Maximum contaminant level goal.
-* * * * *
-2 MCL—Maximum contaminant level.
-* * * * *
-13 Action Level = 0.015 mg/L.
