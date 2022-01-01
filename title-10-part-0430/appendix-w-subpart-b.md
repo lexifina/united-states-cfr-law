@@ -22,7 +22,7 @@ Note: Before February 27, 2017, any representations, including certifications of
 2.12. Rated input voltage means the voltage(s) marked on the lamp as the intended operating voltage or, if not marked on the lamp, 120 V.
 2.13. Start plateau means the first 100 millisecond period of operation during which the percent variability does not exceed 5 percent.
 2.14. Start time means the time, measured in milliseconds, between the application of power to the compact fluorescent lamp and the beginning of the start plateau.
-2.15. Time to failure means the time elapsed between first use and the point at which the compact fluorescent lamp (for a hybrid CFL, the primary light source) ceases to produce measureable lumen output.
+2.15. Time to failure means the time elapsed between first use and the point at which the compact fluorescent lamp (for a hybrid CFL, the primary light source) ceases to produce measurable lumen output.
 3. Active Mode Test Procedures
 3.1. General Instructions.
 3.1.1. In cases where there is a conflict, the language of the test procedure in this appendix takes precedence over any materials incorporated by reference.
