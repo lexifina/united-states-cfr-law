@@ -18,16 +18,18 @@ These model milestones would apply to proceedings conducted under 10 CFR Part 2,
 As required by 10 CFR 2.332 and 2.334, the presiding officer establishes, by order, a schedule for the conduct of each proceeding. In establishing a schedule, the presiding officer should use these milestones as a starting point, make appropriate modifications to the milestones, and set detailed schedules (e.g., for filings) based upon all relevant information. Such information would include, but not be limited to, the number of contentions admitted, the complexity of the issues, the NRC staff's schedule for completion of its safety and environmental evaluations, any other relevant consideration that a party brings to the attention of the presiding officer, and the NRC's interest in providing a fair and expeditious resolution of the issues sought to be admitted for adjudication in the proceeding. The model milestones are based on the Commission's Rules of Practice in 10 CFR Part 2, Subparts B, C, and L.
 The model milestones include only the most significant events in the proceeding and are based upon the following assumptions: (I) the issues to be litigated will involve both disputes over fact and issues of compliance with the Commission's regulations and requirements; (ii) an oral hearing under 10 CFR 2.1207 will be held rather than a written hearing under 10 CFR 2.1208; and (iii) the final Safety Evaluation Report (SER) and final environmental document will be issued simultaneously. The model milestones reflect electronic filing and service in accordance with 10 CFR 2.305.
 Model Milestones
-[10 CFR Part 2, Subpart L]
-• Within 140 of publication days of notice in Federal Register: | Presiding officer decision on intervention petitions and admission of contentions.
-• Within 55 days of presiding officer decision granting intervention and admitting contentions: | Presiding officer to set initial schedule for proceeding, based on staff schedule for issuing draft and final SERs and any necessary NEPA document.
-• Within 30 days of issuance of SER and any necessary NEPA document: | Proposed late-filed contentions on SER and necessary NEPA documents filed; motions for summary disposition on previously admitted contentions due.
-• Within 85 days of issuance of SER and NEPA document: | Presiding officer decision on admission of proposed late-filed contentions and motions for summary disposition; presiding officer sets schedule for remainder of proceeding.
-• Within 14 days after presiding officer decision on amended/late-filed contentions: | All parties complete updates of mandatory disclosures.
-• Within 115 days of issuance of SER and NEPA document: | Motions for summary disposition due.
-• Within 155 days of issuance of SER and NEPA document: | Written direct testimony filed.
-• Within 175 days of issuance of SER and NEPA document: | Evidentiary hearing begins.
-• Within 90 days of end of evidentiary hearing and closing of record: | Presiding officer issues initial decision.
+[10 CFR part 2, subpart L]
+|
+• Within 140 days of publication of notice in Federal Register | Presiding officer decision on intervention petitions and admission of contentions.
+• Within 55 days of presiding officer decision granting intervention and admitting contentions | Presiding officer to set initial schedule for proceeding, based on staff schedule for issuing draft and final SERs and any necessary NEPA document.
+• Within 30 days of issuance of SER and any necessary NEPA document | Proposed new or amended contentions filed after the deadline on SER and necessary NEPA documents due.
+• Within 30 days of issuance of SER and any necessary NEPA document | Motions for summary disposition on previously admitted contentions due.
+• Within 85 days of issuance of SER and NEPA document | Presiding officer decision on admission of proposed new or amended contentions filed after the deadline and motions for summary disposition; presiding officer sets schedule for remainder of proceeding.
+• Within 14 days after presiding officer decision on new or amended contentions filed after the deadline | All parties complete updates of mandatory disclosures.
+• Within 115 days of issuance of SER and NEPA document | Motions for summary disposition due.
+• Within 155 days of issuance of SER and NEPA document | Written direct testimony filed.
+• Within 175 days of issuance of SER and NEPA document | Evidentiary hearing begins.
+• Within 90 days of end of evidentiary hearing and closing of record | Presiding officer issues initial decision.
 III. Model Milestones for a Hearing on a Transfer of a License Conducted Under 10 CFR Part 2, Subpart M
 These model milestones would apply to proceedings conducted under 10 CFR Part 2, Subpart M on applications for license transfer. As required by 10 CFR 2.332 and 2.334, the presiding officer establishes, by order, a schedule for the conduct of each proceeding. In establishing a schedule, the presiding officer should use these milestones as a starting point, make appropriate modifications to the milestones, and set detailed schedules (e.g., for filings) based upon all relevant information. Such information would include, but not be limited to, the number of contentions admitted, the complexity of the issues, the NRC staff's schedule for completion of its safety and environmental evaluations, any other relevant consideration that a party brings to the attention of the presiding officer, and the NRC's interest in providing a fair and expeditious resolution of the issues sought to be admitted for adjudication in the proceeding. The model milestones are based on the Commission's Rules of Practice in 10 CFR Part 2, Subparts B, C and M.
 The model milestones include only the most significant events in the proceeding, and are based upon the following assumptions: (i) The issues to be litigated will involve both disputes over fact and issues of compliance with the Commission's regulations and requirements; (ii) the parties do not file a joint request under 10 CFR 2.1308 for a hearing consisting of written comments; (iii) the final Safety Evaluation Report (SER) is not necessary to resolve the issues to be litigated; (iv) the Commission itself does not serve as the presiding officer; and (v) the Commission does not order further taking of testimony after the presiding officer certifies the record to the Commission under 10 CFR 2.1319(f). The model milestones reflect electronic filing and service in accordance with 10 CFR 2.305.
@@ -49,19 +51,3 @@ Model Milestones
 • Within 40 days of presiding officer decision granting hearing: | Prehearing conference to specify issues for hearing and set schedules for remaining course of proceeding.
 • Within 60 days of presiding officer decision granting hearing: | Evidentiary hearing begins.
 • Within 30 days of end of evidentiary hearing and closing of record: | Presiding officer issues initial decision.
-At 85 FR 70438, Nov. 5, 2020, Appendix B to Part 2, section II, was amended by revising the table "Model Milestones [10 CFR Part 2, Subpart L]", eff. Jan. 19, 2021. For the convenience of the user, the revised text is set forth as follows:
-Appendix B to 10 CFR Part 2—Model Milestones To Be Used by a Presiding Officer as a Guideline in Developing a Hearing Schedule for the Conduct of an Adjudicatory Proceeding in Accordance With 10 CFR 2.332.
-II. * * *
-Model Milestones
-[10 CFR part 2, subpart L]
-|
-• Within 140 days of publication of notice in Federal Register | Presiding officer decision on intervention petitions and admission of contentions.
-• Within 55 days of presiding officer decision granting intervention and admitting contentions | Presiding officer to set initial schedule for proceeding, based on staff schedule for issuing draft and final SERs and any necessary NEPA document.
-• Within 30 days of issuance of SER and any necessary NEPA document | Proposed new or amended contentions filed after the deadline on SER and necessary NEPA documents due.
-• Within 30 days of issuance of SER and any necessary NEPA document | Motions for summary disposition on previously admitted contentions due.
-• Within 85 days of issuance of SER and NEPA document | Presiding officer decision on admission of proposed new or amended contentions filed after the deadline and motions for summary disposition; presiding officer sets schedule for remainder of proceeding.
-• Within 14 days after presiding officer decision on new or amended contentions filed after the deadline | All parties complete updates of mandatory disclosures.
-• Within 115 days of issuance of SER and NEPA document | Motions for summary disposition due.
-• Within 155 days of issuance of SER and NEPA document | Written direct testimony filed.
-• Within 175 days of issuance of SER and NEPA document | Evidentiary hearing begins.
-• Within 90 days of end of evidentiary hearing and closing of record | Presiding officer issues initial decision.
