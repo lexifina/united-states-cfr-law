@@ -28,6 +28,7 @@ v. From January 1, 2018, through December 31, 2018, the threshold amount is $26,
 vi. From January 1, 2019, through December 31, 2019, the threshold amount is $26,700.
 vii. From January 1, 2020, through December 31, 2020, the threshold amount is $27,200.
 viii. From January 1, 2021, through December 31, 2021, the threshold amount is $27,200.
+ix. From January 1, 2022, through December 31, 2022, the threshold amount is $28,500.
 4. Qualifying for exemption—in general. A transaction is exempt under § 34.203(b)(2) if the creditor makes an extension of credit at consummation that is equal to or below the threshold amount in effect at the time of consummation.
 5. Qualifying for exemption—subsequent changes. A transaction does not meet the condition for an exemption under § 34.203(b)(2) merely because it is used to satisfy and replace an existing exempt loan, unless the amount of the new extension of credit is equal to or less than the applicable threshold amount. For example, assume a closed-end loan that qualified for a § 34.203(b)(2) exemption at consummation in year one is refinanced in year ten and that the new loan amount is greater than the threshold amount in effect in year ten. In these circumstances, the creditor must comply with all of the applicable requirements of § 34.203 with respect to the year ten transaction if the original loan is satisfied and replaced by the new loan, unless another exemption from the requirements of § 34.203 applies. See § 34.203(b) and (d)(7).
 Paragraph 34.203(b)(3).
