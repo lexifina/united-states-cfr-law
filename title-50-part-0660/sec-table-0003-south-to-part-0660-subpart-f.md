@@ -1,3 +1,3 @@
 # Table 3 (South) to Part 660, Subpart F—Non-Trawl Rockfish Conservation Areas and Trip Limits for Open Access Gears South of 40°10′ N. lat.
-ER24MY21.015
-ER24MY21.016
+ER23DE21.011
+ER23DE21.012
