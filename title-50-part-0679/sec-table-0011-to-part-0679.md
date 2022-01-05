@@ -1,3 +1,2 @@
-# Table 11 to Part 679—BSAI Retainable Percentages
-ER10JY20.007
-ER10JY20.008
+# Table 11 to Part 679—BSAI Retainable Percentage
+ER30DE21.012
