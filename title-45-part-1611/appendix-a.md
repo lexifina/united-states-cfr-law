@@ -1,25 +1,25 @@
 # Appendix A to Part 1611—Income Level for Individuals Eligible for Assistance
-Legal Services Corporation 2021 Income Guidelines *
+Legal Services Corporation 2022 Income Guidelines *
 Size of household | 48 Contiguous states and the District of Columbia | Alaska | Hawaii
-1 | $16,100 | $20,113 | $18,525
-2 | 21,775 | 27,213 | 25,050
-3 | 27,450 | 34,313 | 31,575
-4 | 33,125 | 41,413 | 38,100
-5 | 38,800 | 48, 513 | 44,625
-6 | 44,475 | 54,938 | 51,150
-7 | 50,150 | 62,713 | 57,675
-8 | 55,825 | 69,813 | 64,200
-For each additional member of the household in excess of 8, add: | 5,675 | 7,100 | 6,525
+1 | $16,988 | $21,238 | $19,538
+2 | 22,888 | 28,613 | 26,325
+3 | 28,788 | 35,988 | 33,113
+4 | 34,688 | 43,363 | 39,900
+5 | 40,588 | 50,738 | 46,688
+6 | 46,488 | 58,113 | 53,475
+7 | 52,388 | 65,488 | 60,263
+8 | 58,288 | 72,863 | 67,050
+For each additional member of the household in excess of 8, add: | 5,900 | 7,375 | 6,788
 * The figures in this table represent 125% of the Federal Poverty Guidelines by household size as determined by HHS.
 Reference Chart—200% of Federal Poverty Guidelines *
-Size of household | 48 Contiguous states and the District of Columbia | Alaska | Hawaii
-1 | $25,760 | $32,180 | $29,640
-2 | 34,840 | 43,540 | 40,080
-3 | 43,920 | 54,900 | 50,520
-4 | 53,000 | 66,260 | 60,960
-5 | 62,080 | 77,620 | 71,400
-6 | 71,160 | 88,980 | 81,840
-7 | 80,240 | 100,340 | 92,280
-8 | 89,320 | 111,700 | 102,720
-For each additional member of the household in excess of 8, add: | 9,080 | 11,360 | 10,440
+Size of household | 48 Contiguous States and the District of Columbia | Alaska | Hawaii
+1 | $27,180 | $33,980 | $31,260
+2 | 36,620 | 45,780 | 42,120
+3 | 46,060 | 57,580 | 52,980
+4 | 55,500 | 69,380 | 63,840
+5 | 64,940 | 81,180 | 74,700
+6 | 74,380 | 92,980 | 85,560
+7 | 83,820 | 104,780 | 96,420
+8 | 93,260 | 116,580 | 107,280
+For each additional member of the household in excess of 8, add: | 9,440 | 11,800 | 10,860
 * The figures in this table represent 200% of the Federal Poverty Guidelines by household size as determined by HHS.
