@@ -16,8 +16,8 @@ Part 63 citation | Description | Applicable to subpart AAAA before September 28,
 § 63.6(a) | Compliance with standards and maintenance requirements—applicability | No 1 | Yes
 § 63.6(b) and (c) | Compliance dates for new, reconstructed, and existing sources | No 1 | Yes
 § 63.6(e)(1)(i)-(ii) | Operation and maintenance requirements | Yes | No | See § 63.1955(c) for general duty requirements.
-63.6(e)(3)(i)-(ix) | SSM plan | Yes | No
-63.6(f)(1) | Exemption of nonopacity emission standards during SSM | Yes | No
+§ 63.6(e)(3)(i)-(ix) | SSM plan | Yes | No
+§ 63.6(f)(1) | Exemption of nonopacity emission standards during SSM | No | No
 § 63.6(f)(2) and (3) | Compliance with nonopacity emission standards | Yes | Yes
 § 63.6(g) | Use of an alternative nonopacity standard | No 1 | Yes
 § 63.6(h) | Compliance with opacity and visible emission standards | No 1 | No | Subpart AAAA does not prescribe opacity or visible emission standards.
@@ -48,12 +48,12 @@ Part 63 citation | Description | Applicable to subpart AAAA before September 28,
 § 63.10(b)(2)(ii) | Recordkeeping of failures to meet a standard | Yes | No | See § 63.1983(c)(6)-(7) for recordkeeping for any exceedance of a standard.
 § 63.10(b)(2)(iii) | Recordkeeping of maintenance on air pollution control equipment | Yes | Yes
 § 63.10(b)(2)(iv)-(v) | Actions taken to minimize emissions during SSM | Yes | No | See § 63.1983(c)(7) for recordkeeping of corrective actions to restore compliance.
-§ 63.10(b)(vi) | Recordkeeping for CMS malfunctions | No 1 | Yes
-§ 63.10(b)(vii)-(xiv) | Other Recordkeeping of compliance measurements | No 1 | Yes
+§ 63.10(b)(2)(vi) | Recordkeeping for CMS malfunctions | No 1 | Yes
+§ 63.10(b)(2)(vii)-(xiv) | Other Recordkeeping of compliance measurements | No 1 | Yes
 § 63.10(c) | Additional recordkeeping for sources with CMS | No 1 | No | See § 63.1983 for required CMS recordkeeping.
 § 63.10(d)(1) | General reporting | No 1 | Yes
 § 63.10(d)(2) | Reporting of performance test results | No 1 | Yes
-§ 63.10(d)(3) | Reporting of visible emission observations | No 1 | Yes
+§ 63.10(d)(3) | Reporting of visible emission observations | No 1 | No
 § 63.10(d)(4) | Progress reports for compliance date extensions | No 1 | Yes
 § 63.10(d)(5) | SSM reporting | Yes | No | All exceedances must be reported in the semi-annual report required by § 63.1981(h).
 § 63.10(e) | Additional reporting for CMS systems | No 1 | Yes
