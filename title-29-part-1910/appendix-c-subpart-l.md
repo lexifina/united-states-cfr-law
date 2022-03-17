@@ -58,7 +58,7 @@ E. § 1910.160. Fixed extinguishing systems—general information:
 5. Standard on Halon 1301, ANSI/NFPA 12A; National Fire Protection Association, Batterymarch Park, Quincy, MA 02269.
 6. Standard on Halon 1211, ANSI/NFPA 12B; National Fire Protection Association, Batterymarch Park, Quincy, MA 02269.
 7. Standard for Water Spray Systems, ANSI/NFPA 15; National Fire Protection Association, Batterymarch Park, Quincy, MA 02269.
-8. Standard for Foam-Water Sprinkler Systems and Foam-Water Spray Systems, ANSI/NFPA 16; National Fire Protection Association, National Fire Protection Association, Batterymarch Park, Quincy, MA 02269
+8. Standard for Foam-Water Sprinkler Systems and Foam-Water Spray Systems, ANSI/NFPA 16; National Fire Protection Association, Batterymarch Park, Quincy, MA 02269
 9. Standard for Dry Chemical Extinguishing Systems, ANSI/NFPA 17; National Fire Protection Association, Batterymarch Park, Quincy, MA 02269.
 F. § 1910.161. Fixed extinguishing systems—dry chemical:
 1. Standard for Dry Chemical Extinguishing Systems, ANSI/NFPA 17; National Fire Protection Association, Batterymarch Park, Quincy, MA 02269.
