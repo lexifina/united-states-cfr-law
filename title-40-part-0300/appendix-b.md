@@ -9,7 +9,7 @@ AL | Interstate Lead Co. (ILCO) | Leeds
 AL | Olin Corp. (McIntosh Plant) | McIntosh
 AL | Stauffer Chemical Co. (Cold Creek Plant) | Bucks
 AL | Stauffer Chemical Co. (LeMoyne Plant) | Axis
-AL | T.H. Agriculture & Nutrition (Montgomery) | Montgomery
+AL | T.H. Agriculture & Nutrition (Montgomery) | Montgomery | P
 AL | Triana/Tennessee River | Limestone/Morgan
 AR | Arkwood, Inc | Omaha
 AR | Cedar Chemical Corporation | West Helena | S
@@ -35,7 +35,6 @@ CA | AMCO Chemical | Oakland
 CA | Applied Materials | Santa Clara
 CA | Argonaut Mine | Jackson
 CA | Atlas Asbestos Mine | Fresno County
-CA | Beckman Instruments | Porterville | P
 CA | Blue Ledge Mine | Rogue River—Siskiyou National Forest
 CA | Brown & Bryant, Inc (Arvin Plant) | Arvin
 CA | CTS Printex, Inc. | Mountain View
@@ -109,7 +108,7 @@ CO | Central City-Clear Creek | Idaho Springs
 CO | Chemical Sales Co | Denver
 CO | Colorado Smelter | Pueblo
 CO | Denver Radium Site | Denver | P
-CO | Eagle Mine | Minturn/Redcliff
+CO | Eagle Mine | Minturn/Redcliff | P
 CO | Lincoln Park | Canon City
 CO | Lowry Landfill | Arapahoe County
 CO | Marshall Landfill | Boulder County | S
@@ -204,6 +203,7 @@ GA | Marzone Inc./Chevron Chemical Co | Tifton
 GA | Mathis Brothers Landfill | Kensington
 GA | Peach Orchard Road PCE Ground Water Plume | Augusta
 GA | T.H. Agriculture & Nutrition (Albany) | Albany
+GA | Westside Lead | Atlanta
 GA | Woolfolk Chemical Works, Inc | Fort Valley
 GU | Ordot Landfill | Guam | S
 HI | Del Monte Corp. (Oahu Plantation) | Honolulu County | P
@@ -264,7 +264,6 @@ IL | Woodstock Municipal Landfill | Woodstock
 IL | Yeoman Creek Landfill | Waukegan
 IN | American Chemical Service, Inc | Griffith
 IN | Beck's Lake | South Bend
-IN | Bennett Stone Quarry | Bloomington
 IN | Broadway Street Corridor Groundwater Contamination | Anderson
 IN | Cam-Or Inc | Westville.
 IN | Cliff Drive Groundwater Contamination | Logansport
@@ -286,14 +285,13 @@ IN | Kokomo Contaminated Ground Water Plume | Kokomo
 IN | Lake Sandy Jo (M&M Landfill) | Gary | P
 IN | Lakeland Disposal Service, Inc | Claypool
 IN | Lane Street Ground Water Contamination | Elkhart.
-IN | Lemon Lane Landfill | Bloomington
 IN | Lusher Street Ground Water Contamination | Elkhart
 IN | MIDCO I | Gary
 IN | MIDCO II | Gary
 IN | Main Street Well Field | Elkhart
 IN | Marion (Bragg) Dump | Marion
-IN | Neal's Landfill (Bloomington) | Bloomington
 IN | Ninth Avenue Dump | Gary
+IN | North 5th Street Groundwater Contamination | Goshen
 IN | North Shore Drive | Elkhart
 IN | Northside Sanitary Landfill, Inc | Zionsville
 IN | Pike and Mulberry Streets PCE Plume | Martinsville
@@ -308,6 +306,7 @@ KS | Ace Services | Colby
 KS | Caney Residential Yards | Caney
 KS | Chemical Commodities, Inc | Olathe
 KS | Cherokee County | Cherokee County
+KS | Cherokee Zinc—Weir Smelter | Weir
 KS | Doepke Disposal (Holliday) | Johnson County
 KS | Former United Zinc & Associated Smelters | Iola
 KS | Obee Road | Hutchinson
@@ -315,7 +314,6 @@ KS | Pester Refinery Co | El Dorado
 KS | Plating, Inc | Great Bend
 KS | Strother Field Industrial Park | Cowley County
 KS | Wright Ground Water Contamination | Wright
-KY | Airco | Calvert City
 KY | B.F. Goodrich | Calvert City
 KY | Brantley Landfill | Island
 KY | Caldwell Lace Leather Co., Inc | Auburn
@@ -350,6 +348,7 @@ MA | Haverhill Municipal Landfill | Haverhill
 MA | Hocomonco Pond | Westborough
 MA | Industri-Plex | Woburn | P
 MA | Iron Horse Park | Billerica
+MA | Lower Neponset River | Boston/Milton
 MA | Microfab, Inc. (Former) | Amesbury
 MA | New Bedford Site | New Bedford | S
 MA | Nuclear Metals, Inc | Concord.
@@ -364,6 +363,7 @@ MA | Sutton Brook Disposal Area | Tewksbury.
 MA | W.R. Grace & Co Inc (Acton Plant) | Acton
 MA | Walton &Lonsbury Inc. | Attleboro
 MA | Wells G&H | Woburn
+MD | Bear Creek Sediments | Baltimore County
 MD | Bush Valley Landfill | Abingdon
 MD | Central Chemical | Hagerstown
 MD | Dwyer Property Ground Water Plume | Elkton
@@ -389,7 +389,6 @@ MI | Albion-Sheridan Township Landfill | Albion
 MI | Allied Paper/Portage Ck/Kalamazoo River | Kalamazoo
 MI | American Anodco, Inc | Ionia
 MI | Auto Ion Chemicals, Inc | Kalamazoo
-MI | Barrels, Inc | Lansing
 MI | Bendix Corp./Allied Automotive | St. Joseph
 MI | Bofors Nobel, Inc | Muskegon
 MI | Butterworth #2 Landfill | Grand Rapids
@@ -417,6 +416,7 @@ MI | McGraw Edison Corp | Albion
 MI | McLouth Steel Corp | Trenton
 MI | Metamora Landfill | Metamora
 MI | Michigan Disposal (Cork Street Landfill) | Kalamazoo
+MI | Michner Plating—Mechanic Street | Jackson
 MI | Motor Wheel | Lansing | P
 MI | Muskegon Chemical Co | Whitehall
 MI | North Bronson Industrial Area | Bronson
@@ -448,7 +448,6 @@ MI | U.S. Aviex | Howard Township
 MI | Velsicol Chemical Corp. (Michigan) | St. Louis
 MI | Verona Well Field | Battle Creek
 MI | Wash King Laundry | Pleasant Plains Twp
-MN | Arrowhead Refinery Co | Hermantown
 MN | Baytown Township Ground Water Plume | Baytown Township
 MN | Burlington Northern (Brainerd/Baxter) | Brainerd/Baxter
 MN | FMC Corp. (Fridley Plant) | Fridley
@@ -466,6 +465,7 @@ MN | Perham Arsenic Site | Perham
 MN | Reilly Tar&Chem (St. Louis Park Plant) | St. Louis Park | S
 MN | Ritari Post & Pole | Sebeka
 MN | South Andover Site | Andover | P
+MN | Southeast Hennepin Area Groundwater and Vapor | Minneapolis
 MN | South Minneapolis Residential Soil Contamination | Minneapolis | P
 MN | Spring Park Municipal Well Field | Spring Park
 MN | St. Louis River Site | St. Louis County
@@ -481,14 +481,14 @@ MO | Fulbright Landfill | Springfield
 MO | Lee Chemical | Libert
 MO | Madison County Mines | Fredericktown
 MO | Minker/Stout/Romaine Creek | Imperial
-MO | Missouri Electric Works | Cape Girardeau
+MO | Missouri Electric Works | Cape Girardeau | P
 MO | Newton County Mine Tailings | Newton County
 MO | Newton County Wells | Newton County
 MO | Oak Grove Village Well | Oak Grove Village
 MO | Oronogo-Duenweg Mining Belt | Jasper County
 MO | Pools Prairie | Neosho
 MO | Quality Plating | Sikeston
-MO | Riverfront | New Haven
+MO | Riverfront | New Haven | P
 MO | Solid State Circuits, Inc | Republic
 MO | Southwest Jefferson County Mining | Jefferson County.
 MO | Sporlan Valve Plant #1 | Washington
@@ -502,7 +502,7 @@ MO | Washington County Lead District—Potosi | Potosi
 MO | Washington County Lead District—Richwoods | Richwoods
 MO | Westlake Landfill | Bridgeton
 MS | American Creosote Works, Inc | Louisville
-MS | Chemfax, Inc. | Gulfport
+MS | Chemfax, Inc | Gulfport | P
 MS | Kerr-McGee Chemical Corp—Columbus | Columbus
 MS | Mississippi Phosphates Corporation | Pascagoula
 MS | Picayune Wood Treating | Picayune
@@ -514,6 +514,7 @@ MT | Anaconda Aluminum Co Columbia Falls Reduction Plant | Columbia Falls
 MT | Anaconda Co. Smelter | Anaconda | P
 MT | Barker Hughesville Mining District | Barker
 MT | Basin Mining Area | Basin
+MT | Billings PCE | Billings
 MT | Carpenter Snow Creek Mining District | Neihart
 MT | East Helena Site | East Helena
 MT | Flat Creek IMM | Superior.
@@ -551,7 +552,7 @@ NC | Holcomb Creosote Co | Yadkinville
 NC | Horton Iron and Metal | Wilmington
 NC | JFD Electronics/Channel Master | Oxford
 NC | Jadco-Hughes Facility | Belmont
-NC | Kerr-McGee Chemical Corp-Navassa | Navassa
+NC | Kerr-McGee Chemical Corp-Navassa | Navassa | P
 NC | Koppers Co., Inc. (Morrisville Plant) | Morrisville | P
 NC | NC State University (Lot 86,Farm Unit #1) | Raleigh
 NC | National Starch & Chemical Corp | Salisbury
@@ -668,6 +669,7 @@ NJ | NL Industries | Pedricktown
 NJ | Nascolite Corp | Millville
 NJ | Orange Valley Regional Ground Water Contamination | West Orange/Orange
 NJ | Pierson's Creek | Newark
+NJ | Pioneer Metal Finishing Inc | Franklinville
 NJ | PJP Landfill | Jersey City
 NJ | Pohatcong Valley Ground Water Contaminat | Warren County
 NJ | Price Landfill | Pleasantville | S
@@ -675,7 +677,6 @@ NJ | Puchack Well Field | Pennsauken Township.
 NJ | Quanta Resources | Edgewater
 NJ | Radiation Technology, Inc | Rockaway Township
 NJ | Raritan Bay Slag | Old Bridge Township/Sayreville.
-NJ | Reich Farms | Pleasant Plains
 NJ | Ringwood Mines/Landfill | Ringwood
 NJ | Riverside Industrial Park | Newark
 NJ | Rockaway Borough Well Field | Rockaway Township
@@ -767,6 +768,7 @@ NY | MacKenzie Chemical Works, Inc | Central Islip
 NY | Magna Metals | Cortlandt Manor
 NY | Malta Rocket Fuel Area | Malta
 NY | Mattiace Petrochemical Co., Inc | Glen Cove
+NY | Meeker Avenue Plume | Brooklyn
 NY | Mercury Refining, Inc | Colonie
 NY | Mohonk Road Industrial Plant | High Falls
 NY | Nepera Chemical Co., Inc | Maybrook
@@ -831,7 +833,6 @@ OH | Skinner Landfill | West Chester
 OH | South Point Plant | South Point
 OH | Summit National | Deerfield Township
 OH | TRW, Inc. (Minerva Plant) | Minerva
-OH | United Scrap Lead Co., Inc | Troy
 OH | Valley Pike VOCs | Riverside
 OH | Van Dale Junkyard | Marietta
 OH | West Troy Contaminated Aquifer | Troy
@@ -848,7 +849,7 @@ OK | Wilcox Oil Company | Creek County
 OR | Black Butte Mine | Cottage Grove
 OR | Formosa Mine | Douglas County
 OR | McCormick & Baxter Creos. Co (Portland) | Portland
-OR | North Ridge Estates | Klamath Falls
+OR | North Ridge Estates | Klamath Falls | P
 OR | Northwest Pipe & Casing/Hall Process Company | Clackamas
 OR | Portland Harbor | Portland
 OR | Reynolds Metals Company | Troutdale
@@ -868,7 +869,6 @@ PA | Boarhead Farms | Bridgeton Township
 PA | BoRit Asbetos | Ambler.
 PA | Breslube-Penn, Inc | Coraopolis
 PA | Brown's Battery Breaking | Shoemakersville
-PA | Butler Mine Tunnel | Pittston
 PA | Butz Landfill | Stroudsburg
 PA | Centre County Kepone | State College Borough | P
 PA | Chem-Fab | Doylestown
@@ -977,6 +977,7 @@ SC | Burlington Industries Cheraw | Cheraw
 SC | Carolawn, Inc | Fort Lawn
 SC | Clearwater Finishing | Clearwater
 SC | Elmore Waste Disposal | Greer
+SC | Galey and Lord Plant | Society Hill
 SC | Helena Chemical Co Landfill | Fairfax
 SC | Kalama Specialty Chemicals | Beaufort
 SC | Koppers Co., Inc. (Charleston Plant) | Charleston
@@ -992,7 +993,7 @@ SC | SCRDI Dixiana | Cayce
 SC | Sangamo Weston | Pickens | P
 SC | Shuron Inc | Barnwell
 SC | Townsend Saw Chain Co. Superfund Site | Pontiac | P
-SC | US Finishing/Cone Mills | Greenville
+SC | US Finishing/Cone Mills | Greenville | P
 SC | Wamchem, Inc | Burton
 SD | Gilt Edge Mine | Lead
 TN | Alamo Contaminated Ground Water | Alamo
@@ -1003,6 +1004,7 @@ TN | Clinch River Corporation | Harriman
 TN | Former Custom Cleaners | Memphis
 TN | Mallory Capacitor Co | Waynesboro
 TN | Murray-Ohio Dump | Lawrenceburg
+TN | National Fireworks | Cordova
 TN | Ross Metals Inc | Rossville
 TN | Smalley-Piper | Collierville
 TN | Smokey Mountain Smelters | Knox County.
@@ -1040,6 +1042,7 @@ TX | Many Diversified Interests, Inc | Houston | P
 TX | Midessa Ground Water Plume | Odessa
 TX | Motco, Inc | La Marque | S
 TX | North Cavalcade Street | Houston
+TX | Northwest Odessa Groundwater | Odessa
 TX | Odessa Chromium #1 | Odessa
 TX | Patrick Bayou | Deer Park
 TX | Petro-Chemical Systems, (Turtle Bayou) | Liberty County
@@ -1166,12 +1169,14 @@ WI | Sheboygan Harbor & River | Sheboygan
 WI | Spickler Landfill | Spencer
 WI | Stoughton City Landfill | Stoughton
 WI | Tomah Municipal Sanitary Landfill | Tomah
+WI | Unity Auto Mart | Unity
 WI | Waste Mgmt of WI (Brookfield Sanit LF) | Brookfield
 WI | Wausau Ground Water Contamination | Wausau
 WV | Big John Salvage—Hoult Road | Fairmont
 WV | Fike Chemical, Inc | Nitro
 WV | Hanlin-Allied-Olin | Moundsville
 WV | North 25th Street Glass and Zinc | Clarksburg
+WV | Paden City Groundwater | Paden City
 WV | Ravenswood PCE Ground Water Plume | Ravenswood
 WV | Shaffer Equipment/Arbuckle Creek Area | Minden
 WV | Sharon Steel Corp (Fairmont Coke Works) | Fairmont
@@ -1285,6 +1290,7 @@ OH | Feed Materials Production Center (USDOE) | Fernald
 OH | Mound Plant (USDOE) | Miamisburg | P
 OH | Wright-Patterson Air Force Base | Dayton
 OK | Tinker Air Force (Soldier Cr/Bldg 300) | Oklahoma City
+OR | Bradford Island | Cascade Locks
 OR | Fremont Nat. Forest Uranium Mines (USDA) | Lakeview
 OR | Umatilla Army Depot (Lagoons) | Hermiston
 PA | Letterkenny Army Depot (SE Area) | Chambersburg | P
