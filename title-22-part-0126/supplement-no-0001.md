@@ -1,6 +1,6 @@
 # Supplement No. 1 to Part 126
 [Supplement No. 1*—*An "X" in the chart indicates that the item is excluded from use under the exemption referenced in the top of the column. An item excluded in any one row is excluded regardless of whether other rows may contain a description that would include the item.]
-USML Category | Exclusion | (CA)§ 126.5 | (AS)§ 126.16 | (UK)§ 126.17
+USML Category | Exclusion | (CA) § 126.5 | (AS) § 126.16 | (UK) § 126.17
 I-XXI | Classified defense articles and services. See Note 1 | X | X | X
 I-XXI | Defense articles listed in the Missile Technology Control Regime (MTCR) Annex | X | X | X
 I-XXI | U.S. origin defense articles and services used for marketing purposes and not previously licensed for export in accordance with this subchapter | | X | X
@@ -142,3 +142,23 @@ Note 15: This exclusion does not apply to demining equipment in support of the c
 As used in this exclusion, "anti-personnel landmine" means any mine placed under, on, or near the ground or other surface area, or delivered by artillery, rocket, mortar, or similar means or dropped from an aircraft and which is designed to be detonated or exploded by the presence, proximity, or contact of a person; any device or material which is designed, constructed, or adapted to kill or injure and which functions unexpectedly when a person disturbs or approaches an apparently harmless object or performs an apparently safe act; any manually-emplaced munition or device designed to kill, injure, or damage and which is actuated by remote control or automatically after a lapse of time.
 Note 16: The radar systems described are controlled in USML Category XI(a)(3)(i) through (v). As used in this entry, the term "systems" includes equipment, devices, software, assemblies, modules, components, practices, processes, methods, approaches, schema, frameworks, and models.
 Note 17: This exclusion does not apply to the export of defense articles previously notified to Congress pursuant to § 123.15 or § 124.11 of this subchapter. For use of the Australian and UK exemptions for congressional notification, see § 126.16(o) and § 126.17(o).
+At 87 FR 16425, Mar. 23, 2022, Supplement No. 1 to Part 126 was amended by:
+a. In the table, revise the 14th entry "I-XXI";
+b. In Note 5:
+i. Remove the reference "§ 125.4(c)(6)" and add in its place "§ 120.43(g)"; and
+ii. Remove the reference "(e)(1), (e)(2), or (e)(4)" and add in its place "(e)(1), (2), or (4)"; and
+c. In Note 12:
+i. Remove the phrase "applied research (§ 125.4(c)(3) of this subchapter)" and add in its place "applied research (§ 120.43(i) of this subchapter)";
+ii. Remove the reference "§ 125.4(c)(4)" and add in its place "§ 120.43(c)";
+iii. Remove the reference "§ 125.4(c)(5)" and add in its place "§ 120.43(d)";
+iv. Remove the reference "§ 125.4(c)(6)" and add in its place "§ 120.43(e);
+v. Remove the reference "§ 125.4(c)(1)" and add in its place "§ 120.43(f)";
+vi. Remove the reference "§ 125.4(c)(2)" and add in its place "§ 120.43(g)"; and
+vii. Remove the phrase "basic research as defined in § 125.4(c)(3) of this subchapter" and add in its place "basic research as defined in § 120.43(h) of this subchapter".
+The revision reads as follows:
+Supplement No. 1 to Part 126
+USML category | Exclusion | (CA) § 126.5 | (AS) § 126.16 | (UK) § 126.17
+* * * * * * *
+I-XXI | Defense services or technical data specific to applied research as defined in § 120.43(i) of this subchapter, design methodology as defined in § 120.43(c) of this subchapter, engineering analysis as defined in § 120.43(d) of this subchapter, or manufacturing know-how as defined in § 120.43(e) of this subchapter. See Note 12 | X
+* * * * * * *
+, effective Sept. 6, 2022.
