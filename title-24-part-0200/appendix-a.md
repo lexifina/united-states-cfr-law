@@ -79,7 +79,7 @@ ASTM C 926-90 Standard Specification for Application of Portland Cement-Based Pl
 ASTM C 1036-91 Standard Specification for Flat Glass
 ASTM D 1037-89 Standard Test Methods for Evaluating the Properties of Wood-Base Fiber and Particle Panel Materials
 ASTM C 1048-91 Standard Specification for Heat-Treated Flat Glass-Kind HS, Kind FT Coated and Uncoated Glass
-ASTM D 1557-91 Test Method for Laboratory Compaction Characteristics of Soil Using the Modified Method (56,000 ft-lbf/ft3 (2,700 kN-m/m3))
+ASTM D 1557-91 Test Method for Laboratory Compaction Characteristics of Soil Using the Modified Method (56,000 ft-lbf/ft 3 (2,700 kN-m/m 3))
 ASTM D 2316-75 Standard Recommended Practice for Installing Bituminized Fiber Drain and Sewer Pipe (Reapproved 1984)
 ASTM D 2321-89 Standard Practice for Underground Installation of Thermoplastic Pipe for Sewers and Other Gravity-Flow Applications
 ASTM D 3656-89 Standard Specifications for Insect Screening and Louver Cloth Woven From Vinyl-Coated Glass Yarns
@@ -106,7 +106,7 @@ CS 138-55 Insect Wire Screening
 CS 242-62 1 3/4" Steel Doors & Frames
 Department of Defense, Naval Publication and Forms Center, 5801 Taber Road, Philadelphia, PA 19120, Telephone (215) 697-2179.
 Federal Specifications:
-L-S-125B Screening, Insect, Non-metallic Febuary 3, 1972
+L-S-125B Screening, Insect, Non-metallic February 3, 1972
 L-F-001641 Floor Covering Translucent or Transparent Vinyl Surface with Backing—1971 and Amendment 2—September 24, 1982
 L-F-00450A Flooring, Vinyl Plastic (GSAFSS)—1970 and Amendment 1, August 5, 1975
 L-F-475A Floor Covering Vinyl, Surface Tile and Roll, with Backing including Amendment 2—February 9, 1971
@@ -180,7 +180,7 @@ Steel Door Institute, 30200 Detroit Road, Cleveland, OH 44145, Telephone (216) 8
 Tile Council of America, Inc., Box 326, Princeton, NJ 08542-0326, Telephone (609) 921-7050. Handbook for Ceramic Tile Installation—1993.
 Underwriters Laboratories, 333 Pfingsten Road, Northbrook, IL 60062, Telephone (708) 272-8800. Electrical Appliance and Utilization Equipment Directory, 1992.
 Water Quality Association, 4151 Naperville Road, Lisle, IL 60532. Telephone (708) 396-1600.
-WQA S-100 Household Commericial and Portable Exchange Water Softeners—1985
+WQA S-100 Household Commercial and Portable Exchange Water Softeners—1985
 WQA S-200 Household and Commercial Water Filters—1988
 WQA S-300 Point-of-Use, Low Pressure Reverse Osmosis Drinking Water Systems—1984
 WQA S-400 Point-of-Use Distillation Drinking Water Systems—1986
