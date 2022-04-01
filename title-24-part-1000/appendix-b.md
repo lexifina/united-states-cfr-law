@@ -121,32 +121,32 @@ Where:
 MINNEED = minimum needs amount.
 UNDERMIN$ = for all tribes qualifying for an increase under the minimum needs provision, sum of the differences between MINNEED and NEED1.
 OVERMIN$ = for all tribes with needs allocations larger than the minimum needs amount, the sum of the difference between NEED1 and MINNEED.
-7. Whenever a new data source (see § 1000.331) is first introduced, provision is made to moderate extreme impacts through phase down adjustments. Tribes whose allocation under the need component decrease by more than ten percent in the first year of introduction will have that decrease moderated by subsequent adjustments, as required to prevent a drop of more than ten percent per year in the tribes' needs allocation attributable solely to the introduction of the new data source. A phase down adjustment schedule is calculated, containing adjustment amounts (PDADJn) for the first and all subsequent FYs, based on the amount allocated to a tribe under the need component in the FY prior to the introduction of the new data source using the old data source. That is,
+7. Whenever a new data source (see § 1000.331) is first introduced, provision is made to moderate extreme impacts through phase down adjustments. Tribes whose allocation under the need component decrease by more than ten percent in the first year of introduction will have that decrease moderated by subsequent adjustments, as required to prevent a drop of more than ten percent per year in the tribes' needs allocation attributable solely to the introduction of the new data source. A phase down adjustment schedule is calculated, containing adjustment amounts (PDADJ n) for the first and all subsequent FYs, based on the amount allocated to a tribe under the need component in the FY prior to the introduction of the new data source using the old data source. That is,
 If NEED1NewDS < 0.9 * NEED1OldDS, then a tribe qualifies for a phase down adjustment (PDADJ) (see § 1000.331(c)).
-PDADJn = (((0.9n) * NEED1OldDS)—NEED1NewDS), where n = 1 to ∞ provided PDADJn > 0 for at least one tribe.
+PDADJ n = (((0.9 n) * NEED1OldDS)—NEED1NewDS), where n = 1 to ∞ provided PDADJ n > 0 for at least one tribe.
 Where:
 NEED1NewDS = the amount the tribe would have received in the FY prior to the introduction of the new data source had the new data source been used to determine their need component in that FY.
 NEED1OldDS = the amount a tribe actually received in the FY prior to the introduction of the new data source based on the old data source.
-PDADJn = the size of the adjustment that qualifying tribes will receive in each year n, where the n represents the number of years elapsed since the introduction of the new data source and is equal to one in the first year.
+PDADJ n = the size of the adjustment that qualifying tribes will receive in each year n, where the n represents the number of years elapsed since the introduction of the new data source and is equal to one in the first year.
 After allocation adjustments are made under § 1000.331 for a FY, the needs allocation of an Indian tribe whose needs allocation increased as a result of the introduction of a new data source shall be adjusted downward proportionate to its share of the total increase in funding resulting from the introduction of a new data source to keep the overall need component within available appropriations. For each tribe which benefitted from the introduction of the new data source, their share of the total gain is calculated and that share is used to determine the amount of contribution they will make in each year following the introduction of the new data source to allow the phase down adjustments to be made without exceeding the amount available for allocation.
 If NEED1NewDS > NEED1OldDS, then tribe gained from the introduction of the new data source and contributes a portion of their gain to offset the phase down adjustments.
 GAINSHR = (NEED1NewDS -NEED1OldDS)/TOTGAINYR1.
-CONTRIBn = GAINSHR * TOTPDADJn,
+CONTRIB n = GAINSHR * TOTPDADJ n,
 Where:
 NEEDd1NewDS = the amount the tribe would have received in the FY prior to the of introduction of the new data source had the new data source been used to determine their needs funding in that FY.
 NEED1OldDS = the amount a tribe actually received in the FY prior to the introduction the new data source based on the old data source.
 GAINSHR = a tribe's share of the total gains realized by all tribes that benefitted from the introduction of the new data source.
 TOTGAINYR1 = the sum of the amounts that tribes gain from the introduction of the new data source in year one.
-CONTRIBn = the size of the contribution that non-qualifying tribes give in each year n, where the n represents the number of years elapsed since the introduction of the new data source and equal to one in the first year.
-TOTPDADJn = the total amount in each year n required to cover the cost of phase down adjustments in that year, i.e. S PDADJn.
+CONTRIB n = the size of the contribution that non-qualifying tribes give in each year n, where the n represents the number of years elapsed since the introduction of the new data source and equal to one in the first year.
+TOTPDADJ n = the total amount in each year n required to cover the cost of phase down adjustments in that year, i.e. ∑ PDADJ n.
 The initial needs allocation for each tribe is adjusted based on the phase down adjustments and contribution amounts in the phase down schedule.
-NEED1PD = NEED1 +_PDADJn − CONTRIBn.
+NEED1PD = NEED1 +_PDADJ n − CONTRIB n.
 Where:
 NEED1PD = a tribe's allocation under the need component after applying the phase down adjustment schedule.
 NEED1= the initial calculation of need in the current FY from step 6 above.
-PDADJn = the size of the adjustment that qualifying tribes will receive in each year n, where the n represents the number of years elapsed since the introduction of the new data source and is equal to one in the first year.
-CONTRIBn = the size of the contribution that non-qualifying tribes give in each year n, where the n represents the number of years elapsed since the introduction of the new data source and equal to one in the first year.
-PDADJn and CONTRIBn as calculated in the initial phase down adjustment schedule may have to be adjusted downward in subsequent FYs if the total amount available for allocation under the needs Component (i.e. NEEDALLOCAMT in Step 4) is lower than the amount available for that purpose in the FY prior to the introduction of the new data source. If so, both PDADJn and CONTRIBn will be reduced by a factor which is the ratio of NEEDALLOCAMT in current FY to NEEDALLOCAMT in the year prior to the introduction of the new data source.
+PDADJ n = the size of the adjustment that qualifying tribes will receive in each year n, where the n represents the number of years elapsed since the introduction of the new data source and is equal to one in the first year.
+CONTRIB n = the size of the contribution that non-qualifying tribes give in each year n, where the n represents the number of years elapsed since the introduction of the new data source and equal to one in the first year.
+PDADJ n and CONTRIB n as calculated in the initial phase down adjustment schedule may have to be adjusted downward in subsequent FYs if the total amount available for allocation under the needs Component (i.e. NEEDALLOCAMT in Step 4) is lower than the amount available for that purpose in the FY prior to the introduction of the new data source. If so, both PDADJ n and CONTRIB n will be reduced by a factor which is the ratio of NEEDALLOCAMT in current FY to NEEDALLOCAMT in the year prior to the introduction of the new data source.
 Furthermore, when the 2020 Decennial Census or other new data source is introduced, a new phase down adjustment schedule will be calculated in a similar manner as that was calculated for FY 2018.
 8. A tribe's preliminary total allocation is calculated by summing the amounts calculated under the FCAS and need components that will serve as the basis for further adjustments in accordance with § 1000.340.
 GRANT1 = FCAS + NEED1PD.
@@ -194,7 +194,7 @@ REPGRANTYR3 = Initial Allocation Amount in three years prior to current FY.
 OPMOD96 = funding received by tribe in FY 1996 for Operating Subsidy and Modernization.
 So the UDFFadj = REPGRANTaftUDFF − GRANT2 and UDFFadjTOT= Absolute value of the sum of UDFF adjustments for tribes subject to reduction.
 If UDFFtest is not equal to 1, tribes receive a portion of the funds recovered under the UDFF provision based on their share of total needs excluding any tribes with UDFFtest = 1. For these tribes, then:
-UDFFadj = (NEED1PD/S Need1PD) * UDFFadjTOT).
+UDFFadj = (NEED1PD/∑ Need1PD) * UDFFadjTOT).
 REPGRANTaftUDFF = REPGRANT + UDFFadj.
 Where:
 UDFFadj = amount of the Undisbursed Fund Factor adjustments. Negative amount represents excess undisbursed funds. Positive represents amounts being transferred to other tribes without excess undisbursed funds.
@@ -211,7 +211,7 @@ MINGRTADJTEST = MINGRANT—(GRANT2 + UDFFADJ).
 If the Sum for all tribes of MINGRTADJTEST < MGHOLD, then:
 MINGRANTADJ = MINGRTADJTEST.
 If the Sum for all tribes of MINGRANTADJTEST > MGHOLD, then:
-MINGRANTADJ = MINGRANTADJTEST * (MGHOLD/S MINGRANTADJ)
+MINGRANTADJ = MINGRANTADJTEST * (MGHOLD/∑ MINGRANTADJ)
 Where:
 GRANT2 is the approximate grant allocation in any given year for any given tribe.
 UDFFADJ = amount of UDFF adjustment.
