@@ -1022,7 +1022,7 @@ Section 8.15: Air Pollution Incident Emergency (Effective 3/9/2018)
 Section 8.30: Severability (Effective 3/9/2018)
 New Jersey
 (a) State requirements.
-(1) The following State of New Jersey requirements are applicable to OCS Sources, as of January 16, 2018. New Jersey State Department of Environmental Protection—New Jersey Administrative Code. The following sections of Title 7:
+(1) The following State of New Jersey requirements are applicable to OCS Sources, as of October 6, 2021. New Jersey State Department of Environmental Protection—New Jersey Administrative Code. The following sections of Title 7:
 Chapter 27 Subchapter 2—Control and Prohibition of Open Burning (Effective 6/20/1994)
 N.J.A.C. 7:27-2.1. Definitions
 N.J.A.C. 7:27-2.2. Open burning for salvage operations
@@ -1060,7 +1060,7 @@ N.J.A.C. 7:27-6.7. Exceptions
 Chapter 27 Subchapter 7—Sulfur (Effective 11/6/2017)
 N.J.A.C. 7:27-7.1. Definitions
 N.J.A.C. 7:27-7.2. Control and prohibition of air pollution from sulfur compounds
-Chapter 27 Subchapter 8—Permits and Certificates for Minor Facilities (and Major Facilities Without an Operating Permit) (Effective 1/16/2018)
+Chapter 27 Subchapter 8—Permits and Certificates for Minor Facilities (and Major Facilities Without an Operating Permit) (Effective 4/6/2020)
 N.J.A.C. 7:27-8.1. Definitions
 N.J.A.C. 7:27-8.2. Applicability
 N.J.A.C. 7:27-8.3. General provisions
@@ -1094,7 +1094,7 @@ N.J.A.C. 7:27-9.4. Waiver of air quality modeling
 Chapter 27 Subchapter 10—Sulfur in Solid Fuels (Effective 9/6/2011)
 N.J.A.C. 7:27-10.1. Definitions
 N.J.A.C. 7:27-10.2. Sulfur contents standards
-N.J.A.C. 7:27-10.3. Expansion, reconstruction or construction of solid fuel burning units
+N.J.A.C. 7:27-10.3. Expansion, reconstruction, or construction of solid fuel burning units
 N.J.A.C. 7:27-10.4. Exemptions
 N.J.A.C. 7:27-10.5. SO 2 emission rate determinations
 Chapter 27 Subchapter 11—Incinerators (Effective 5/4/1998)
@@ -1194,7 +1194,7 @@ N.J.A.C. 7:27-21.9. Request for extensions
 N.J.A.C. 7:27-21.10. Determination of non-applicability
 N.J.A.C. 7:27-21.11. Severability
 Appendix 1
-Chapter 27 Subchapter 22—Operating Permits (Effective 1/16/2018)
+Chapter 27 Subchapter 22—Operating Permits (Effective 11/2/2020)
 N.J.A.C. 7:27-22.1. Definitions
 N.J.A.C. 7:27-22.2. Applicability
 N.J.A.C. 7:27-22.3. General provisions
@@ -1274,7 +1274,7 @@ N.J.A.C. 7:27B-3.12. Procedures for the determination of volatile organic compou
 N.J.A.C. 7:27B-3.13. Procedures for the determination of leak tightness of gasoline delivery vessels
 N.J.A.C. 7:27B-3.14. Procedures for the direct detection of fugitive volatile organic compound leaks
 N.J.A.C. 7:27B-3.15. Procedures for the direct detection of fugitive volatile organic compound leaks from gasoline tank trucks and vapor collection systems using a combustible gas detector
-N.J.A.C. 7:27B-3.18. Test methods and sources incorporated by reference
+N.J.A.C. 7:27B-3.18. Test methods and sources incorporated by reference.
 New York
 (a) State requirements.
 (1) The following State of New York requirements are applicable to OCS Sources, October 20, 2007. New York Environmental Conservation Law—Department of Environmental Conservation. The following sections of Title 6, Chapter III:
