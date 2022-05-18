@@ -27,9 +27,9 @@ Arizona
 (2) Revisions submitted on January 14, 1997; February 26, 1997; July 17, 1997; July 25, 1997; November 7, 1997; approval effective October 23, 1998; interim approval expires December 1, 2001.
 (3) Revisions submitted on May 30, 1998 and November 9, 2001. Full approval is effective on November 30, 2001.
 (d) Pinal County Air Quality Control District:
-(1) submitted on November 15, 1993 and amended on August 16, 1994; August 15, 1995; July 22, 1996; and August 12, 1996; interim approval effective on November 29, 1996; interim approval expires December 1, 2001.
-(2) revisions submitted on August 15, 1995; interim approval effective on December 30, 1996; interim approval expires December 1, 2001.
-(3) revisions submitted on September 18, 2001. Full approval is effective on November 30, 2001.
+(1) Submitted on November 15, 1993 and amended on August 16, 1994; August 15, 1995; July 22, 1996; and August 12, 1996; interim approval effective on November 29, 1996; interim approval expires December 1, 2001.
+(2) Revisions submitted on August 15, 1995; interim approval effective on December 30, 1996; interim approval expires December 1, 2001.
+(3) Revisions submitted on September 18, 2001. Full approval is effective on November 30, 2001.
 Arkansas
 (a) The ADPCE submitted its Operating Permits program on November 9, 1993, for approval. Interim approval is effective on October 10, 1995. Interim approval will expire December 1, 2001.
 (b) The Arkansas Department of Environmental Quality submitted program revisions on August 4, 2000. The rule revisions adequately addressed the conditions of the interim approval effective on October 10, 1995, and which would expire on December 1, 2001. The State is hereby granted final full approval effective on December 10, 2001.
@@ -280,6 +280,7 @@ Iowa
 (t) The Iowa Department of Natural Resources submitted for program approval revisions to rules 567-22.100, 567-22.103, 567-22.106, 567-22.107, and 567-30.4. The state effective date is April 18, 2018. This revision is effective April 8, 2019.
 (u) The Iowa Department of Natural Resources submitted revisions to Iowa Chapter 22.100 "Definitions for Title V Operating Permits" on November 15, 2007. The State revised the definition of "Stationary source categories" by revising the definition of "Chemical process plants" such that fugitive emissions from certain ethanol production facilities are not considered in determining whether the facility is subject to Title V permitting. The state effective date is October 4, 2007. This revision is effective May 18, 2020.
 (v) The Iowa Department of Natural Resources submitted for program approval revisions to rules 567-22.100, 567-22.105(1), 567-22.106(2), 567-22.128(4), 567-22.300(8), and 567-22.300(12). The state effective date is April 17, 2019. This revision is effective May 5, 2020.
+(w) The Iowa Department of Natural Resources submitted for program approval revisions to rules 567-22.100, 567-22.120, 567-22.105(1), 567-22.106(2), and 567-22.128(4). The state effective date for 567-22.105(1) and 567-22.106(2) is April 17, 2019. The state effective date for 567-22.100, 567-22.120, and 567-22.128(4) is July 22, 2020. This revision is effective August 24, 2021.
 Kansas
 (a) The Kansas Department of Health and Environment program submitted on December 12, 1994; April 7 and 17, 1995; November 14, 1995; and December 13, 1995. Full approval effective on February 29, 1996.
 (b) The Kansas Department of Health and the Environment approved revisions to the Kansas Administrative Record (K.A.R.), 28-19-202 and 28-19-517, which became effective on March 23, 2001, and February 28, 1998, respectively. These revisions were submitted on June 25, 2001. We are approving these program revisions effective October 6, 2003.
@@ -293,6 +294,7 @@ Kentucky
 (2) Revision submitted on February 13, 2001. Rule revisions contained in the February 13, 2001 submittal adequately addressed the conditions of the interim approval which expires on December 1, 2001. The Commonwealth is hereby granted final full approval effective on November 30, 2001.
 (b)(1) Air Pollution Control District of Jefferson County: submitted on January 31, 1994, and supplemented on March 9, 1994, June 15, 1994, July 15, 1994, July 14, 1995, August 9, 1995, August 10, 1995, and February 16, 1996; full approval effective on April 22, 1996.
 (2) Revisions submitted on February 20, 1998, January 11, 1999, September 30, 1999, March 17, 2000, March 21, 2001, and October 23, 2001; full approval of revisions effective on April 22, 2002.
+(c) Revisions to 401 Kentucky Administrative Regulation 52:100, submitted on March 29, 2021, with a State effective date of June 2, 2020, to allow for electronic noticing of operating permits, are approved on October 1, 2021.
 Louisiana
 (a) The Louisiana Department of Environmental Quality, Air Quality Division submitted an Operating Permits program on November 15, 1993, which was revised November 10, 1994, and became effective on October 12, 1995.
 (b) [Reserved]
@@ -361,6 +363,7 @@ Full approval effective June 13, 1997.
 (gg) The Missouri Department of Natural Resources submitted revisions to Missouri rule 10 CSR 10-6.065, "Operating Permits" on April 6, 2016. We are approving this rule except for Section (4) which relates to the State Basic Operating Permits; Subparagraph (2)(A)2.A.; Subparagraph(2)(A)2.B.; and the words "except that" in Paragraph (2)(A)2. The state effective date is March 30, 2016. This revision is effective December 12, 2016.
 (hh) The Missouri Department of Natural Resources submitted revisions to Missouri rule 10 CSR 10-6.110, "Reporting Emission Data, Emission Fees, and Process Information" on January 15, 2019. The state effective date is January 30, 2019. Approval of Section 3(A) of 10 CSR 10-6.110 is effective September 23, 2019.
 (ii) The Missouri Department of Natural Resources submitted revisions to Missouri rule 10 CSR 10-6.065, "Operating Permits" on March 7, 2019. The State effective date is March 30, 2019. The revision is effective October 30, 2019.
+(jj) The Missouri Department of Natural Resources submitted revisions to Missouri rule 10 CSR 10-6.110, "Reporting Emission Data, Emission Fees, and Process Information" on May 25, 2021. The state effective date is March 30, 2021. This revision is effective September 23, 2021.
 Montana
 (a) Montana Department of Health and Environmental Sciences—Air Quality Division: submitted on March 29, 1994; effective on June 12, 1995; interim approval expires December 1, 2001.
 (b) The Montana Department of Environmental Quality submitted an operating permits program on March 29, 1994; effective on June 12, 1995; revised January 15, 1998, and March 17, 2000; full approval effective on January 22, 2001.
@@ -438,6 +441,7 @@ Ohio
 (b) [Reserved]
 (c) The Ohio Environmental Protection Agency submitted an operating permits program amendment on March 23, 2007. The program amendment contained in the March 23, 2007 submittal will update Ohio's existing Acid Rain program. The state is hereby granted approval effective on March 25, 2008.
 (d) For any permitting program located in the State, insofar as the permitting threshold provisions concern the treatment of sources of GHG emissions as major sources for purposes of title V, EPA approves such provisions only to the extent they require permits for such sources where the source emits or has the potential to emit at least 100,000 tpy CO 2 e, as well as 100 tpy on a mass basis, as of July 1, 2011.
+(e) The Ohio Environmental Protection Agency submitted an operating permits program amendment on February 4, 2008. The program amendment contained in the February 4, 2008 submittal revises the definition of major source to exclude ethanol production facilities that produce ethanol by natural fermentation from the chemical process plant source category. The state is hereby granted approval effective on May 9, 2022.
 Oklahoma
 (a) The Oklahoma Department of Environmental Quality submitted its operating permits program on January 12, 1994, for approval. Source category—limited interim approval is effective on March 6, 1996. Interim approval will expire December 1, 2001.
 (b) The Oklahoma Department of Environmental Quality submitted program revisions on July 27, 1998. The rule revisions adequately addressed the conditions of the interim approval effective on March 6, 1996, and which will expire on December 1, 2001. The State is hereby granted final full approval effective on November 30, 2001.
