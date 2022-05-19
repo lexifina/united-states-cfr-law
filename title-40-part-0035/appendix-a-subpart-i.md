@@ -4,7 +4,7 @@
 A. Costs Related to Subagreements
 1. Allowable costs related to sub- agreements include:
 a. The costs of subagreements for building the project.
-b. The costs of complying with the procurement standards in 2 CFR 200.317 through 200.326 and 2 CFR 1500.9 and 1500.10.
+b. The costs of complying with the procurement standards in 2 CFR 200.317 through 200.327 and 2 CFR 1500.10 and 1500.11.
 c. The cost of legal and engineering services incurred by grantees in deciding procurement protests and defending their decisions in protest appeals in 2 CFR 200.318.
 d. The costs for establishing or using minority and women's business liaison services.
 e. The costs of services incurred during the building of a project to ensure that it is built in conformance with the design drawings and specifications.
@@ -95,7 +95,7 @@ g. Replacement parts identified and approved in advance by the Regional Administ
 (2) Identified as critical by the equipment supplier(s); or
 (3) Critical but not included in the inventory provided by the equipment supplier(s).
 2. Unallowable costs of equipment, materials and supplies include:
-a. The costs of equipment or material procured in violation of the procurement standards in 2 CFR 200.317 through 2 CFR 200.326 and 2 CFR 1500.9 and 1500.10.
+a. The costs of equipment or material procured in violation of the procurement standards in 2 CFR 200.317 through 2 CFR 200.327 and 2 CFR 1500.10 and 1500.11.
 b. The cost of furnishings including draperies, furniture and office equipment.
 c. The cost of ordinary site and building maintenance equipment such as lawnmowers and snowblowers.
 d. The cost of vehicles for the transportation of the grantees' employees.
