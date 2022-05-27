@@ -11,3 +11,4 @@ Fabric Filters
 Alarm time | Maximum alarm time is not established on a site-specific basis but is specified in § 63.605(f)(9) | Continuous | Each date and time of alarm start and stop | Maximum alarm time specified in § 63.605(f)(9).
 Wet Electrostatic Precipitator
 Secondary voltage | Secondary voltage range | Continuous | Every 15 minutes | Daily.
+a If you select the regression model option to monitor influent liquid-to-gas ratio as described in Table 3 to this subpart, then you must also continuously monitor (i.e., record every 15 minutes, and use a daily averaging period) blower amperage, blower static pressure (i.e., fan suction pressure), and any other parameters used in the regression model that are not constants.

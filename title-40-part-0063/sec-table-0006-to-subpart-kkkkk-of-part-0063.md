@@ -1,5 +1,6 @@
 # Table 6 to Subpart KKKKK of Part 63—Initial Compliance With Emission Limitations and Work Practice Standards
-As stated in § 63.8605, you must demonstrate initial compliance with each emission limitation and work practice standardthat applies to you according to the following table:
+Table 6 to Subpart KKKKK of Part 63—Initial Compliance With Emission Limitations and Work Practice Standards
+As stated in § 63.8605, you must demonstrate initial compliance with each emission limitation and work practice standard that applies to you according to the following table:
 For each... | For the following... | You have demonstrated initial compliance if...
 1. Collection of all tunnel or roller kilns at the facility | a. HF, HCl, and Cl 2 emissions must not exceed 62 kg/hr (140 lb/hr) HCl equivalent | i. You measure HF and HCl emissions for each kiln using Method 26 or 26A of 40 CFR part 60, appendix A-8 or its alternative, ASTM D6735-01 (Reapproved 2009) (incorporated by reference, see § 63.14); or Method 320 of appendix A of this part or its alternative, ASTM D6348-03 (Reapproved 2010) (incorporated by reference, see § 63.14); and
 | | ii. You calculate the HCl-equivalent emissions for HF for each kiln using Equation 4 to this subpart; and

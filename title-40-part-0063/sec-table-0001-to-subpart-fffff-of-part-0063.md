@@ -1,5 +1,6 @@
 # Table 1 to Subpart FFFFF of Part 63—Emission and Opacity Limits
 As required in § 63.7790(a), you must comply with each applicable emission and opacity limit in the following table:
+Table 1 to Subpart FFFFF of Part 63—Emission and Opacity Limits
 For... | You must comply with each of the following...
 1. Each windbox exhaust stream at an existing sinter plant | You must not cause to be discharged to the atmosphere any gases that contain particulate matter in excess of 0.4 lb/ton of product sinter.
 2. Each windbox exhaust stream at a new sinter plant | You must not cause to be discharged to the atmosphere any gases that contain particulate matter in excess of 0.3 lb/ton of product sinter.

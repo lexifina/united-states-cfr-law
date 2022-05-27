@@ -1,5 +1,6 @@
 # Table 2 to Subpart AAAAA of Part 63—Startup and Shutdown Emission Limits for Kilns and Coolers
 As required in § 63.7090(b), on and after the relevant compliance date for your source as specified in § 63.7083(e), you must meet each emission limit in the following table that applies to you.
+Table 2 to Subpart AAAAA of Part 63—Startup and Shutdown Emission Limits for Kilns and Coolers
 For... | You must meet the following emission limit | You have demonstrated compliance, if after following the requirements in § 63.7112...
 1. All new and existing lime kilns and their associated coolers equipped with an FF or an ESP during each startup | Emissions must not exceed 15 percent opacity (based on startup period block average) | i. Installed, maintained, calibrated and operated a COMS as required by 40 CFR part 63, subpart A, General Provisions and according to PS-1 of appendix B to part 60 of this chapter, except as specified in § 63.7113(g)(2);
 | | ii. Collected the COMS data at a frequency of at least once every 15 seconds, determining block averages for each startup period and demonstrating for each startup block period the average opacity does not exceed 15 percent.
