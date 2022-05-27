@@ -201,7 +201,7 @@ Emissions unit B
 75 tons/yr NO X
 10 tons/yr PM
 For this example, potential emissions of SO 2 are 300 tons/yr, which exceeds the 250 tons/yr threshold. Accordingly, the entire "stationary source", that is, emissions units A and B, may be subject to a BART review for SO 2, NO X, and PM, even though the potential emissions of PM and NO X at each emissions unit are less than 250 tons/yr each.
-Examples: The total potential emissions, obtained by adding the potential emissions of all emission units in a listed category at a plant site, are as follows:
+Example: The total potential emissions, obtained by adding the potential emissions of all emission units in a listed category at a plant site, are as follows:
 200 tons/yr SO 2
 150 tons/yr NO X
 25 tons/yr PM
