@@ -1,5 +1,5 @@
 # Supplement No. 2 to Part 746—Russian Industry Sector Sanction List
-The source for the Schedule B numbers and descriptions in this list comes from the Bureau of the Census's Schedule B concordance of exports 2014. Census's Schedule B List 2014 can be found at http://www.census.gov/foreign-trade /schedules/b/2014 /index.html The Introduction Chapter of the Schedule B provides important information about classifying products and interpretations of the Schedule B, e.g., NESOI means Not Elsewhere Specified or Included. In addition, important information about products within a particular chapter may be found at the beginning of chapters.
+The source for the Schedule B numbers and descriptions in this list comes from the Bureau of the Census's Schedule B concordance of exports 2022. Census's Schedule B List 2022 can be found at www.census.gov/foreign-trade/aes/documentlibrary/#concordance. The Introduction Chapter of the Schedule B provides important information about classifying products and interpretations of the Schedule B, e.g., NESOI means Not Elsewhere Specified or Included. In addition, important information about products within a particular chapter may be found at the beginning of chapters. Schedule B numbers 8421390140, 8479899850, and 8705200000 are listed in both this supplement and supplement no. 4 to this part, so exporters, reexporters, and transferors must comply with the license requirements under both § 746.5(a)(1)(i) and (ii) as applicable.
 Schedule B | Description
 7304110000 | LINE PIPE OF A KIND USED FOR OIL OR GAS PIPELINES, SEAMLESS, OF STAINLESS STEEL
 7304191020 | LINE PIPE OF A KIND USED FOR OIL OR GAS PIPELINES, SEAMLESS, OF IRON (NONCAST) OR NONALLOY STEEL, WITH AN OUTSIDE DIAMETER NOT EXCEEDING 114.3 MM
@@ -38,9 +38,9 @@ Schedule B | Description
 8413600050 | OIL WELL AND OIL FIELD PUMPS, ROTARY POSITIVE DISPLACEMENT
 8413820000 | LIQUID ELEVATORS
 8413920000 | PARTS OF LIQUID ELEVATORS
-8421398020 | ELECTROSTATIC PRECIPITATORS, INDUSTRIAL GAS CLEANING EQUIPMENT
-8421398030 | INDUSTRIAL GAS CLEANING EQUIPMENT, NESOI
-8421398040 | GAS SEPARATION EQUIPMENT
+8421390120 | ELECTROSTATIC PRECIPITATORS, INDUSTRIAL GAS CLEANING EQUIPMENT
+8421390130 | INDUSTRIAL GAS CLEANING EQUIPMENT, NESOI
+8421390140 | GAS SEPARATION EQUIPMENT
 8430494000 | OFFSHORE OIL AND NATURAL GAS DRILLING AND PRODUCTION PLATFORMS
 8430498010 | BORING OR SINKING MACHINERY, ROTARY, FOR OIL WELL AND GAS FIELD DRILLING
 8430498020 | BORING OR SINKING MACHINERY FOR OIL WELL AND GAS FIELD DRILLING, NESOI
