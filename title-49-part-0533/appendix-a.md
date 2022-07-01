@@ -1,6 +1,6 @@
 # Appendix A to Part 533—Example of Calculating Compliance Under § 533.5(i)
 Assume a hypothetical manufacturer (Manufacturer X) produces a fleet of light trucks in MY 2012 as follows:
-Appendix A Table I
+Appendix A—Table I
 Model type | Group | Carline name | Basic engine (L) | Transmission class | Description | Actual measured fuel economy (mpg) | Volume
 1 | Pickup A 2WD | 4 | A5 | Reg cab, MB | 27.1 | 800
 2 | Pickup B 2WD | 4 | M5 | Reg cab, MB | 27.6 | 200
@@ -13,10 +13,10 @@ Model type | Group | Carline name | Basic engine (L) | Transmission class | Desc
 9 | Pickup F 2WD | 4.5 | A5 | Reg cab, LB | 22.5 | 1,600
 10 | Pickup F 4WD | 4.5 | A5 | Ext cab, MB | 22.3 | 800
 11 | Pickup F 4WD | 4.5 | A5 | Crew cab, SB | 22.2 | 800
-Total | 6,700
-Note to Appendix A Table I: Manufacturer X's required fleet average fuel economy standard level would first be calculated by determining the fuel economy targets applicable to each unique model type and footprint combination for model type groups 1-11 as illustrated in Appendix A Table II.
+Total | | | | | | 6,700
+Note to Table I to this appendix: Manufacturer X's required fleet average fuel economy standard level would first be calculated by determining the fuel economy targets applicable to each unique model type and footprint combination for model type groups 1-11 as illustrated in Table II to this appendix.
 Manufacturer X calculates a fuel economy target standard for each unique model type and footprint combination.
-Appendix A Table II
+Appendix A—Table II
 Model type | Group | Carline name | Basic engine (L) | Transmission class | Description | Base tire size | Wheelbase (inches) | Track width F&R average (inches) | Footprint (ft 2) | Volume | Fuel economy target standard (mpg)
 1 | Pickup A 2WD | 4 | A5 | Reg cab, MB | 235/75R15 | 100.0 | 68.8 | 47.8 | 800 | 27.30
 2 | Pickup B 2WD | 4 | M5 | Reg cab, MB | 235/75R15 | 100.0 | 68.2 | 47.4 | 200 | 27.44
@@ -29,14 +29,8 @@ Model type | Group | Carline name | Basic engine (L) | Transmission class | Desc
 9 | Pickup F 2WD | 4.5 | A5 | Reg cab, LB | 255/70R17 | 125.0 | 68.9 | 59.8 | 1,600 | 23.76
 10 | Pickup F 4WD | 4.5 | A5 | Ext cab, MB | 275/70R17 | 150.0 | 69.0 | 71.9 | 800 | 22.27
 11 | Pickup F 4WD | 4.5 | A5 | Crew cab, SB | 285/70R17 | 150.0 | 69.2 | 72.1 | 800 | 22.27
-Total | 6,700
-Note to Appendix A Table II: With the appropriate fuel economy targets determined for each unique model type and footprint combination, Manufacturer X's required fleet average fuel economy standard would be calculated as illustrated in Appendix A Figure 1:
-Appendix A Figure 1—Calculation of Manufacturer X's Fleet Average Fuel Economy Standard Using Table II
-Fleet average fuel economy standard=
-ER15OC12.081
-= 23.7 mpg
-Appendix A Figure 2—Calculation of Manufacturer X's Actual Fleet Average Fuel Economy Performance Level Using Table I
-Fleet average fuel economy performance =
-ER15OC12.082
-= 23.3 mpg
-Note to Appendix A Figure 2: Since the actual fleet average fuel economy performance of Manufacturer X's fleet is 23.3 mpg, as compared to its required fleet fuel economy standard of 23.7 mpg, Manufacturer X did not comply with the CAFE standard for MY 2012 as set forth in § 533.5(i).
+Total | | | | | | | | | 6,700
+Note to Table II to this appendix: With the appropriate fuel economy targets determined for each unique model type and footprint combination, Manufacturer X's required fleet average fuel economy standard would be calculated as illustrated in Figure 1 to this appendix:
+ER02MY22.268
+ER02MY22.269
+Note to Figure 2 to this appendix: Since the actual fleet average fuel economy performance of Manufacturer X's fleet is 23.3 mpg, as compared to its required fleet fuel economy standard of 23.7 mpg, Manufacturer X did not comply with the CAFE standard for MY 2012 as set forth in § 533.5(i).
