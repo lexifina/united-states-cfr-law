@@ -1,19 +1,19 @@
 # Appendix 1 to Subpart P of Part 404—Listing of Impairments
 The body system listings in parts A and B of the Listing of Impairments will no longer be effective on the following dates unless extended by the Commissioner or revised and promulgated again.
-1. Low Birth Weight and Failure to Thrive (100.00): August 12, 2022.
+1. Low Birth Weight and Failure to Thrive (100.00): August 14, 2026.
 2. Musculoskeletal Disorders (1.00 and 101.00): April 2, 2026.
-3. Special Senses and Speech (2.00 and 102.00): June 3, 2022.
+3. Special Senses and Speech (2.00 and 102.00): June 5, 2026.
 4. Respiratory Disorders (3.00 and 103.00): December 12, 2025.
 5. Cardiovascular System (4.00 and 104.00): February 6, 2026.
 6. Digestive System (5.00 and 105.00): February 6, 2026.
 7. Genitourinary Disorders (6.00 and 106.00): December 12, 2025.
-8. Hematological Disorders (7.00 and 107.00): June 3, 2022.
+8. Hematological Disorders (7.00 and 107.00): June 5, 2026.
 9. Skin Disorders (8.00 and 108.00): February 6, 2026.
-10. Endocrine Disorders (9.00 and 109.00): August 12, 2022.
-11. Congenital Disorders That Affect Multiple Body Systems (10.00 and 110.00): June 3, 2022.
+10. Endocrine Disorders (9.00 and 109.00): August 14, 2026.
+11. Congenital Disorders That Affect Multiple Body Systems (10.00 and 110.00): June 5, 2026.
 12. Neurological Disorders (11.00 and 111.00): September 29, 2025.
 13. Mental Disorders (12.00 and 112.00): December 12, 2025.
-14. Cancer (Malignant Neoplastic Diseases) (13.00 and 113.00): August 12, 2022.
+14. Cancer (Malignant Neoplastic Diseases) (13.00 and 113.00): August 14, 2026.
 15. Immune System Disorders (14.00 and 114.00): February 6, 2026.
 Part A
 Criteria applicable to individuals age 18 and over and to children under age 18 where criteria are appropriate.
