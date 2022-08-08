@@ -11,7 +11,7 @@ A. Treasury Non-indexed Securities
 1. Regular Half-Year Payment Period. We pay interest on marketable Treasury non-indexed securities on a semiannual basis. The regular interest payment period is a full half-year of six calendar months. Examples of half-year periods are: (1) February 15 to August 15, (2) May 31 to November 30, and (3) February 29 to August 31 (in a leap year). Calculation of an interest payment for a non-indexed note with a par amount of $1,000 and an interest rate of 8% is made in this manner: ($1,000 ×.08)/2 = $40. Specifically, a semiannual interest payment represents one half of one year's interest, and is computed on this basis regardless of the actual number of days in the half-year.
 2. Daily Interest Decimal. We compute a daily interest decimal in cases where an interest payment period for a non-indexed security is shorter or longer than six months or where accrued interest is payable by an investor. We base the daily interest decimal on the actual number of calendar days in the half-year or half-years involved. The number of days in any half-year period is shown in Table 1.
 Table 1
-Interest period | Beginning and ending days are 1st or 15th of the months listed under interest period(number of days) | Regular year | Leap year | Beginning and ending days are the last days of the months listed under interest period(number of days) | Regular year | Leap year
+Interest period | Beginning and ending days are 1st or 15th of the months listed under interest period (number of days) | Regular year | Leap year | Beginning and ending days are the last days of the months listed under interest period (number of days) | Regular year | Leap year
 January to July | 181 | 182 | 181 | 182
 February to August | 181 | 182 | 184 | 184
 March to September | 184 | 184 | 183 | 183
@@ -24,7 +24,7 @@ September to March | 181 | 182 | 182 | 183
 October to April | 182 | 183 | 181 | 182
 November to May | 181 | 182 | 182 | 183
 December to June | 182 | 183 | 181 | 182
-Table 2 below shows the daily interest decimals covering interest from 1/8% to 20% on $1,000 for one day in increments of 1/8 of one percent. These decimals represent 1/181, 1/182, 1/183, or 1/184 of a full semiannual interest payment, depending on which half-year is applicable.
+Table 2 below shows the daily interest decimals covering interest from 1/8 % to 20% on $1,000 for one day in increments of 1/8 of one percent. These decimals represent 1/181, 1/182, 1/183, or 1/184 of a full semiannual interest payment, depending on which half-year is applicable.
 Table 2
 [Decimal for one day's interest on $1,000 at various rates of interest, payable semiannually or on a semiannual basis, in regular years of 365 days and in years of 366 days (to determine applicable number of days, see table 1.)]
 Rate per annum (percent) | Half-year of 184 days | Half-year of 183 days | Half-year of 182 days | Half-year of 181 days
@@ -36,167 +36,167 @@ Rate per annum (percent) | Half-year of 184 days | Half-year of 183 days | Half-
 3/4 | 0.020380435 | 0.020491803 | 0.020604396 | 0.020718232
 7/8 | 0.023777174 | 0.023907104 | 0.024038462 | 0.024171271
 1 | 0.027173913 | 0.027322404 | 0.027472527 | 0.027624309
-11/8 | 0.030570652 | 0.030737705 | 0.030906593 | 0.031077348
-11/4 | 0.033967391 | 0.034153005 | 0.034340659 | 0.034530387
-13/8 | 0.037364130 | 0.037568306 | 0.037774725 | 0.037983425
-11/2 | 0.040760870 | 0.040983607 | 0.041208791 | 0.041436464
-15/8 | 0.044157609 | 0.044398907 | 0.044642857 | 0.044889503
-13/4 | 0.047554348 | 0.047814208 | 0.048076923 | 0.048342541
-17/8 | 0.050951087 | 0.051229508 | 0.051510989 | 0.051795580
+1 1/8 | 0.030570652 | 0.030737705 | 0.030906593 | 0.031077348
+1 1/4 | 0.033967391 | 0.034153005 | 0.034340659 | 0.034530387
+1 3/8 | 0.037364130 | 0.037568306 | 0.037774725 | 0.037983425
+1 1/2 | 0.040760870 | 0.040983607 | 0.041208791 | 0.041436464
+1 5/8 | 0.044157609 | 0.044398907 | 0.044642857 | 0.044889503
+1 3/4 | 0.047554348 | 0.047814208 | 0.048076923 | 0.048342541
+1 7/8 | 0.050951087 | 0.051229508 | 0.051510989 | 0.051795580
 2 | 0.054347826 | 0.054644809 | 0.054945055 | 0.055248619
-21/8 | 0.057744565 | 0.058060109 | 0.058379121 | 0.058701657
-21/4 | 0.061141304 | 0.061475410 | 0.061813187 | 0.062154696
-23/8 | 0.064538043 | 0.064890710 | 0.065247253 | 0.065607735
-21/2 | 0.067934783 | 0.068306011 | 0.068681319 | 0.069060773
-25/8 | 0.071331522 | 0.071721311 | 0.072115385 | 0.072513812
-23/4 | 0.074728261 | 0.075136612 | 0.075549451 | 0.075966851
-27/8 | 0.078125000 | 0.078551913 | 0.078983516 | 0.079419890
+2 1/8 | 0.057744565 | 0.058060109 | 0.058379121 | 0.058701657
+2 1/4 | 0.061141304 | 0.061475410 | 0.061813187 | 0.062154696
+2 3/8 | 0.064538043 | 0.064890710 | 0.065247253 | 0.065607735
+2 1/2 | 0.067934783 | 0.068306011 | 0.068681319 | 0.069060773
+2 5/8 | 0.071331522 | 0.071721311 | 0.072115385 | 0.072513812
+2 3/4 | 0.074728261 | 0.075136612 | 0.075549451 | 0.075966851
+2 7/8 | 0.078125000 | 0.078551913 | 0.078983516 | 0.079419890
 3 | 0.081521739 | 0.081967213 | 0.082417582 | 0.082872928
-31/8 | 0.084918478 | 0.085382514 | 0.085851648 | 0.086325967
-31/4 | 0.088315217 | 0.088797814 | 0.089285714 | 0.089779006
-33/8 | 0.091711957 | 0.092213115 | 0.092719780 | 0.093232044
-31/2 | 0.095108696 | 0.095628415 | 0.096153846 | 0.096685083
-35/8 | 0.098505435 | 0.099043716 | 0.099587912 | 0.100138122
-33/4 | 0.101902174 | 0.102459016 | 0.103021978 | 0.103591160
-37/8 | 0.105298913 | 0.105874317 | 0.106456044 | 0.107044199
+3 1/8 | 0.084918478 | 0.085382514 | 0.085851648 | 0.086325967
+3 1/4 | 0.088315217 | 0.088797814 | 0.089285714 | 0.089779006
+3 3/8 | 0.091711957 | 0.092213115 | 0.092719780 | 0.093232044
+3 1/2 | 0.095108696 | 0.095628415 | 0.096153846 | 0.096685083
+3 5/8 | 0.098505435 | 0.099043716 | 0.099587912 | 0.100138122
+3 3/4 | 0.101902174 | 0.102459016 | 0.103021978 | 0.103591160
+3 7/8 | 0.105298913 | 0.105874317 | 0.106456044 | 0.107044199
 4 | 0.108695652 | 0.109289617 | 0.109890110 | 0.110497238
-41/8 | 0.112092391 | 0.112704918 | 0.113324176 | 0.113950276
-41/4 | 0.115489130 | 0.116120219 | 0.116758242 | 0.117403315
-43/8 | 0.118885870 | 0.119535519 | 0.120192308 | 0.120856354
-41/2 | 0.122282609 | 0.122950820 | 0.123626374 | 0.124309392
-45/8 | 0.125679348 | 0.126366120 | 0.127060440 | 0.127762431
-43/4 | 0.129076087 | 0.129781421 | 0.130494505 | 0.131215470
-47/8 | 0.132472826 | 0.133196721 | 0.133928571 | 0.134668508
+4 1/8 | 0.112092391 | 0.112704918 | 0.113324176 | 0.113950276
+4 1/4 | 0.115489130 | 0.116120219 | 0.116758242 | 0.117403315
+4 3/8 | 0.118885870 | 0.119535519 | 0.120192308 | 0.120856354
+4 1/2 | 0.122282609 | 0.122950820 | 0.123626374 | 0.124309392
+4 5/8 | 0.125679348 | 0.126366120 | 0.127060440 | 0.127762431
+4 3/4 | 0.129076087 | 0.129781421 | 0.130494505 | 0.131215470
+4 7/8 | 0.132472826 | 0.133196721 | 0.133928571 | 0.134668508
 5 | 0.135869565 | 0.136612022 | 0.137362637 | 0.138121547
-51/8 | 0.139266304 | 0.140027322 | 0.140796703 | 0.141574586
-51/4 | 0.142663043 | 0.143442623 | 0.144230769 | 0.145027624
-53/8 | 0.146059783 | 0.146857923 | 0.147664835 | 0.148480663
-51/2 | 0.149456522 | 0.150273224 | 0.151098901 | 0.151933702
-55/8 | 0.152853261 | 0.153688525 | 0.154532967 | 0.155386740
-53/4 | 0.156250000 | 0.157103825 | 0.157967033 | 0.158839779
-57/8 | 0.159646739 | 0.160519126 | 0.161401099 | 0.162292818
+5 1/8 | 0.139266304 | 0.140027322 | 0.140796703 | 0.141574586
+5 1/4 | 0.142663043 | 0.143442623 | 0.144230769 | 0.145027624
+5 3/8 | 0.146059783 | 0.146857923 | 0.147664835 | 0.148480663
+5 1/2 | 0.149456522 | 0.150273224 | 0.151098901 | 0.151933702
+5 5/8 | 0.152853261 | 0.153688525 | 0.154532967 | 0.155386740
+5 3/4 | 0.156250000 | 0.157103825 | 0.157967033 | 0.158839779
+5 7/8 | 0.159646739 | 0.160519126 | 0.161401099 | 0.162292818
 6 | 0.163043478 | 0.163934426 | 0.164835165 | 0.165745856
-61/8 | 0.166440217 | 0.167349727 | 0.168269231 | 0.169198895
-61/4 | 0.169836957 | 0.170765027 | 0.171703297 | 0.172651934
-63/8 | 0.173233696 | 0.174180328 | 0.175137363 | 0.176104972
-61/2 | 0.176630435 | 0.177595628 | 0.178571429 | 0.179558011
-65/8 | 0.180027174 | 0.181010929 | 0.182005495 | 0.183011050
-63/4 | 0.183423913 | 0.184426230 | 0.185439560 | 0.186464088
-67/8 | 0.186820652 | 0.187841530 | 0.188873626 | 0.189917127
+6 1/8 | 0.166440217 | 0.167349727 | 0.168269231 | 0.169198895
+6 1/4 | 0.169836957 | 0.170765027 | 0.171703297 | 0.172651934
+6 3/8 | 0.173233696 | 0.174180328 | 0.175137363 | 0.176104972
+6 1/2 | 0.176630435 | 0.177595628 | 0.178571429 | 0.179558011
+6 5/8 | 0.180027174 | 0.181010929 | 0.182005495 | 0.183011050
+6 3/4 | 0.183423913 | 0.184426230 | 0.185439560 | 0.186464088
+6 7/8 | 0.186820652 | 0.187841530 | 0.188873626 | 0.189917127
 7 | 0.190217391 | 0.191256831 | 0.192307692 | 0.193370166
-71/8 | 0.193614130 | 0.194672131 | 0.195741758 | 0.196823204
-71/4 | 0.197010870 | 0.198087432 | 0.199175824 | 0.200276243
-73/8 | 0.200407609 | 0.201502732 | 0.202609890 | 0.203729282
-71/2 | 0.203804348 | 0.204918033 | 0.206043956 | 0.207182320
-75/8 | 0.207201087 | 0.208333333 | 0.209478022 | 0.210635359
-73/4 | 0.210597826 | 0.211748634 | 0.212912088 | 0.214088398
-77/8 | 0.213994565 | 0.215163934 | 0.216346154 | 0.217541436
+7 1/8 | 0.193614130 | 0.194672131 | 0.195741758 | 0.196823204
+7 1/4 | 0.197010870 | 0.198087432 | 0.199175824 | 0.200276243
+7 3/8 | 0.200407609 | 0.201502732 | 0.202609890 | 0.203729282
+7 1/2 | 0.203804348 | 0.204918033 | 0.206043956 | 0.207182320
+7 5/8 | 0.207201087 | 0.208333333 | 0.209478022 | 0.210635359
+7 3/4 | 0.210597826 | 0.211748634 | 0.212912088 | 0.214088398
+7 7/8 | 0.213994565 | 0.215163934 | 0.216346154 | 0.217541436
 8 | 0.217391304 | 0.218579235 | 0.219780220 | 0.220994475
-81/8 | 0.220788043 | 0.221994536 | 0.223214286 | 0.224447514
-81/4 | 0.224184783 | 0.225409836 | 0.226648352 | 0.227900552
-83/8 | 0.227581522 | 0.228825137 | 0.230082418 | 0.231353591
-81/2 | 0.230978261 | 0.232240437 | 0.233516484 | 0.234806630
-85/8 | 0.234375000 | 0.235655738 | 0.236950549 | 0.238259669
-83/4 | 0.237771739 | 0.239071038 | 0.240384615 | 0.241712707
-87/8 | 0.241168478 | 0.242486339 | 0.243818681 | 0.245165746
+8 1/8 | 0.220788043 | 0.221994536 | 0.223214286 | 0.224447514
+8 1/4 | 0.224184783 | 0.225409836 | 0.226648352 | 0.227900552
+8 3/8 | 0.227581522 | 0.228825137 | 0.230082418 | 0.231353591
+8 1/2 | 0.230978261 | 0.232240437 | 0.233516484 | 0.234806630
+8 5/8 | 0.234375000 | 0.235655738 | 0.236950549 | 0.238259669
+8 3/4 | 0.237771739 | 0.239071038 | 0.240384615 | 0.241712707
+8 7/8 | 0.241168478 | 0.242486339 | 0.243818681 | 0.245165746
 9 | 0.244565217 | 0.245901639 | 0.247252747 | 0.248618785
-91/8 | 0.247961957 | 0.249316940 | 0.250686813 | 0.252071823
-91/4 | 0.251358696 | 0.252732240 | 0.254120879 | 0.255524862
-93/8 | 0.254755435 | 0.256147541 | 0.257554945 | 0.258977901
-91/2 | 0.258152174 | 0.259562842 | 0.260989011 | 0.262430939
-95/8 | 0.261548913 | 0.262978142 | 0.264423077 | 0.265883978
-93/4 | 0.264945652 | 0.266393443 | 0.267857143 | 0.269337017
-97/8 | 0.268342391 | 0.269808743 | 0.271291209 | 0.272790055
+9 1/8 | 0.247961957 | 0.249316940 | 0.250686813 | 0.252071823
+9 1/4 | 0.251358696 | 0.252732240 | 0.254120879 | 0.255524862
+9 3/8 | 0.254755435 | 0.256147541 | 0.257554945 | 0.258977901
+9 1/2 | 0.258152174 | 0.259562842 | 0.260989011 | 0.262430939
+9 5/8 | 0.261548913 | 0.262978142 | 0.264423077 | 0.265883978
+9 3/4 | 0.264945652 | 0.266393443 | 0.267857143 | 0.269337017
+9 7/8 | 0.268342391 | 0.269808743 | 0.271291209 | 0.272790055
 10 | 0.271739130 | 0.273224044 | 0.274725275 | 0.276243094
-101/8 | 0.275135870 | 0.276639344 | 0.278159341 | 0.279696133
-101/4 | 0.278532609 | 0.280054645 | 0.281593407 | 0.283149171
-103/8 | 0.281929348 | 0.283469945 | 0.285027473 | 0.286602210
-101/2 | 0.285326087 | 0.286885246 | 0.288461538 | 0.290055249
-105/8 | 0.288722826 | 0.290300546 | 0.291895604 | 0.293508287
-103/4 | 0.292119565 | 0.293715847 | 0.295329670 | 0.296961326
-107/8 | 0.295516304 | 0.297131148 | 0.298763736 | 0.300414365
+10 1/8 | 0.275135870 | 0.276639344 | 0.278159341 | 0.279696133
+10 1/4 | 0.278532609 | 0.280054645 | 0.281593407 | 0.283149171
+10 3/8 | 0.281929348 | 0.283469945 | 0.285027473 | 0.286602210
+10 1/2 | 0.285326087 | 0.286885246 | 0.288461538 | 0.290055249
+10 5/8 | 0.288722826 | 0.290300546 | 0.291895604 | 0.293508287
+10 3/4 | 0.292119565 | 0.293715847 | 0.295329670 | 0.296961326
+10 7/8 | 0.295516304 | 0.297131148 | 0.298763736 | 0.300414365
 11 | 0.298913043 | 0.300546448 | 0.302197802 | 0.303867403
-111/8 | 0.302309783 | 0.303961749 | 0.305631868 | 0.307320442
-111/4 | 0.305706522 | 0.307377049 | 0.309065934 | 0.310773481
-113/8 | 0.309103261 | 0.310792350 | 0.312500000 | 0.314226519
-111/2 | 0.312500000 | 0.314207650 | 0.315934066 | 0.317679558
-115/8 | 0.315896739 | 0.317622951 | 0.319368132 | 0.321132597
-113/4 | 0.319293478 | 0.321038251 | 0.322802198 | 0.324585635
-117/8 | 0.322690217 | 0.324453552 | 0.326236264 | 0.328038674
+11 1/8 | 0.302309783 | 0.303961749 | 0.305631868 | 0.307320442
+11 1/4 | 0.305706522 | 0.307377049 | 0.309065934 | 0.310773481
+11 3/8 | 0.309103261 | 0.310792350 | 0.312500000 | 0.314226519
+11 1/2 | 0.312500000 | 0.314207650 | 0.315934066 | 0.317679558
+11 5/8 | 0.315896739 | 0.317622951 | 0.319368132 | 0.321132597
+11 3/4 | 0.319293478 | 0.321038251 | 0.322802198 | 0.324585635
+11 7/8 | 0.322690217 | 0.324453552 | 0.326236264 | 0.328038674
 12 | 0.326086957 | 0.327868852 | 0.329670330 | 0.331491713
-121/8 | 0.329483696 | 0.331284153 | 0.333104396 | 0.334944751
-121/4 | 0.332880435 | 0.334699454 | 0.336538462 | 0.338397790
-123/8 | 0.336277174 | 0.338114754 | 0.339972527 | 0.341850829
-121/2 | 0.339673913 | 0.341530055 | 0.343406593 | 0.345303867
-125/8 | 0.343070652 | 0.344945355 | 0.346840659 | 0.348756906
-123/4 | 0.346467391 | 0.348360656 | 0.350274725 | 0.352209945
-127/8 | 0.349864130 | 0.351775956 | 0.353708791 | 0.355662983
+12 1/8 | 0.329483696 | 0.331284153 | 0.333104396 | 0.334944751
+12 1/4 | 0.332880435 | 0.334699454 | 0.336538462 | 0.338397790
+12 3/8 | 0.336277174 | 0.338114754 | 0.339972527 | 0.341850829
+12 1/2 | 0.339673913 | 0.341530055 | 0.343406593 | 0.345303867
+12 5/8 | 0.343070652 | 0.344945355 | 0.346840659 | 0.348756906
+12 3/4 | 0.346467391 | 0.348360656 | 0.350274725 | 0.352209945
+12 7/8 | 0.349864130 | 0.351775956 | 0.353708791 | 0.355662983
 13 | 0.353260870 | 0.355191257 | 0.357142857 | 0.359116022
-131/8 | 0.356657609 | 0.358606557 | 0.360576923 | 0.362569061
-131/4 | 0.360054348 | 0.362021858 | 0.364010989 | 0.366022099
-133/8 | 0.363451087 | 0.365437158 | 0.367445055 | 0.369475138
-131/2 | 0.366847826 | 0.368852459 | 0.370879121 | 0.372928177
-135/8 | 0.370244565 | 0.372267760 | 0.374313187 | 0.376381215
-133/4 | 0.373641304 | 0.375683060 | 0.377747253 | 0.379834254
-137/8 | 0.377038043 | 0.379098361 | 0.381181319 | 0.383287293
+13 1/8 | 0.356657609 | 0.358606557 | 0.360576923 | 0.362569061
+13 1/4 | 0.360054348 | 0.362021858 | 0.364010989 | 0.366022099
+13 3/8 | 0.363451087 | 0.365437158 | 0.367445055 | 0.369475138
+13 1/2 | 0.366847826 | 0.368852459 | 0.370879121 | 0.372928177
+13 5/8 | 0.370244565 | 0.372267760 | 0.374313187 | 0.376381215
+13 3/4 | 0.373641304 | 0.375683060 | 0.377747253 | 0.379834254
+13 7/8 | 0.377038043 | 0.379098361 | 0.381181319 | 0.383287293
 14 | 0.380434783 | 0.382513661 | 0.384615385 | 0.386740331
-141/8 | 0.383831522 | 0.385928962 | 0.388049451 | 0.390193370
-141/4 | 0.387228261 | 0.389344262 | 0.391483516 | 0.393646409
-143/8 | 0.390625000 | 0.392759563 | 0.394917582 | 0.397099448
-141/2 | 0.394021739 | 0.396174863 | 0.398351648 | 0.400552486
-145/8 | 0.397418478 | 0.399590164 | 0.401785714 | 0.404005525
-143/4 | 0.400815217 | 0.403005464 | 0.405219780 | 0.407458564
-147/8 | 0.404211957 | 0.406420765 | 0.408653846 | 0.410911602
+14 1/8 | 0.383831522 | 0.385928962 | 0.388049451 | 0.390193370
+14 1/4 | 0.387228261 | 0.389344262 | 0.391483516 | 0.393646409
+14 3/8 | 0.390625000 | 0.392759563 | 0.394917582 | 0.397099448
+14 1/2 | 0.394021739 | 0.396174863 | 0.398351648 | 0.400552486
+14 5/8 | 0.397418478 | 0.399590164 | 0.401785714 | 0.404005525
+14 3/4 | 0.400815217 | 0.403005464 | 0.405219780 | 0.407458564
+14 7/8 | 0.404211957 | 0.406420765 | 0.408653846 | 0.410911602
 15 | 0.407608696 | 0.409836066 | 0.412087912 | 0.414364641
-151/8 | 0.411005435 | 0.413251366 | 0.415521978 | 0.417817680
-151/4 | 0.414402174 | 0.416666667 | 0.418956044 | 0.421270718
-153/8 | 0.417798913 | 0.420081967 | 0.422390110 | 0.424723757
-151/2 | 0.421195652 | 0.423497268 | 0.425824176 | 0.428176796
-155/8 | 0.424592391 | 0.426912568 | 0.429258242 | 0.431629834
-153/4 | 0.427989130 | 0.430327869 | 0.432692308 | 0.435082873
-157/8 | 0.431385870 | 0.433743169 | 0.436126374 | 0.438535912
+15 1/8 | 0.411005435 | 0.413251366 | 0.415521978 | 0.417817680
+15 1/4 | 0.414402174 | 0.416666667 | 0.418956044 | 0.421270718
+15 3/8 | 0.417798913 | 0.420081967 | 0.422390110 | 0.424723757
+15 1/2 | 0.421195652 | 0.423497268 | 0.425824176 | 0.428176796
+15 5/8 | 0.424592391 | 0.426912568 | 0.429258242 | 0.431629834
+15 3/4 | 0.427989130 | 0.430327869 | 0.432692308 | 0.435082873
+15 7/8 | 0.431385870 | 0.433743169 | 0.436126374 | 0.438535912
 16 | 0.434782609 | 0.437158470 | 0.439560440 | 0.441988950
-161/8 | 0.438179348 | 0.440573770 | 0.442994505 | 0.445441989
-161/4 | 0.441576087 | 0.443989071 | 0.446428571 | 0.448895028
-163/8 | 0.444972826 | 0.447404372 | 0.449862637 | 0.452348066
-161/2 | 0.448369565 | 0.450819672 | 0.453296703 | 0.455801105
-165/8 | 0.451766304 | 0.454234973 | 0.456730769 | 0.459254144
-163/4 | 0.455163043 | 0.457650273 | 0.460164835 | 0.462707182
-167/8 | 0.458559783 | 0.461065574 | 0.463598901 | 0.466160221
+16 1/8 | 0.438179348 | 0.440573770 | 0.442994505 | 0.445441989
+16 1/4 | 0.441576087 | 0.443989071 | 0.446428571 | 0.448895028
+16 3/8 | 0.444972826 | 0.447404372 | 0.449862637 | 0.452348066
+16 1/2 | 0.448369565 | 0.450819672 | 0.453296703 | 0.455801105
+16 5/8 | 0.451766304 | 0.454234973 | 0.456730769 | 0.459254144
+16 3/4 | 0.455163043 | 0.457650273 | 0.460164835 | 0.462707182
+16 7/8 | 0.458559783 | 0.461065574 | 0.463598901 | 0.466160221
 17 | 0.461956522 | 0.464480874 | 0.467032967 | 0.469613260
-171/8 | 0.465353261 | 0.467896175 | 0.470467033 | 0.473066298
-171/4 | 0.468750000 | 0.471311475 | 0.473901099 | 0.476519337
-173/8 | 0.472146739 | 0.474726776 | 0.477335165 | 0.479972376
-171/2 | 0.475543478 | 0.478142077 | 0.480769231 | 0.483425414
-175/8 | 0.478940217 | 0.481557377 | 0.484203297 | 0.486878453
-173/4 | 0.482336957 | 0.484972678 | 0.487637363 | 0.490331492
-177/8 | 0.485733696 | 0.488387978 | 0.491071429 | 0.493784530
+17 1/8 | 0.465353261 | 0.467896175 | 0.470467033 | 0.473066298
+17 1/4 | 0.468750000 | 0.471311475 | 0.473901099 | 0.476519337
+17 3/8 | 0.472146739 | 0.474726776 | 0.477335165 | 0.479972376
+17 1/2 | 0.475543478 | 0.478142077 | 0.480769231 | 0.483425414
+17 5/8 | 0.478940217 | 0.481557377 | 0.484203297 | 0.486878453
+17 3/4 | 0.482336957 | 0.484972678 | 0.487637363 | 0.490331492
+17 7/8 | 0.485733696 | 0.488387978 | 0.491071429 | 0.493784530
 18 | 0.489130435 | 0.491803279 | 0.494505495 | 0.497237569
-181/8 | 0.492527174 | 0.495218579 | 0.497939560 | 0.500690608
-181/4 | 0.495923913 | 0.498633880 | 0.501373626 | 0.504143646
-183/8 | 0.499320652 | 0.502049180 | 0.504807692 | 0.507596685
-181/2 | 0.502717391 | 0.505464481 | 0.508241758 | 0.511049724
-185/8 | 0.506114130 | 0.508879781 | 0.511675824 | 0.514502762
-183/4 | 0.509510870 | 0.512295082 | 0.515109890 | 0.517955801
-187/8 | 0.512907609 | 0.515710383 | 0.518543956 | 0.521408840
+18 1/8 | 0.492527174 | 0.495218579 | 0.497939560 | 0.500690608
+18 1/4 | 0.495923913 | 0.498633880 | 0.501373626 | 0.504143646
+18 3/8 | 0.499320652 | 0.502049180 | 0.504807692 | 0.507596685
+18 1/2 | 0.502717391 | 0.505464481 | 0.508241758 | 0.511049724
+18 5/8 | 0.506114130 | 0.508879781 | 0.511675824 | 0.514502762
+18 3/4 | 0.509510870 | 0.512295082 | 0.515109890 | 0.517955801
+18 7/8 | 0.512907609 | 0.515710383 | 0.518543956 | 0.521408840
 19 | 0.516304348 | 0.519125683 | 0.521978022 | 0.524861878
-191/8 | 0.519701087 | 0.522540984 | 0.525412088 | 0.528314917
-191/4 | 0.523097826 | 0.525956284 | 0.528846154 | 0.531767956
-193/8 | 0.526494565 | 0.529371585 | 0.532280220 | 0.535220994
-191/2 | 0.529891304 | 0.532786885 | 0.535714286 | 0.538674033
-195/8 | 0.533288043 | 0.536202186 | 0.539148352 | 0.542127072
-193/4 | 0.536684783 | 0.539617486 | 0.542582418 | 0.545580110
-197/8 | 0.540081522 | 0.543032787 | 0.546016484 | 0.549033149
+19 1/8 | 0.519701087 | 0.522540984 | 0.525412088 | 0.528314917
+19 1/4 | 0.523097826 | 0.525956284 | 0.528846154 | 0.531767956
+19 3/8 | 0.526494565 | 0.529371585 | 0.532280220 | 0.535220994
+19 1/2 | 0.529891304 | 0.532786885 | 0.535714286 | 0.538674033
+19 5/8 | 0.533288043 | 0.536202186 | 0.539148352 | 0.542127072
+19 3/4 | 0.536684783 | 0.539617486 | 0.542582418 | 0.545580110
+19 7/8 | 0.540081522 | 0.543032787 | 0.546016484 | 0.549033149
 20 | 0.543478261 | 0.546448087 | 0.549450549 | 0.552486188
 3. Short First Payment Period. In cases where the first interest payment period for a Treasury non-indexed security covers less than a full half-year period (a "short coupon"), we multiply the daily interest decimal by the number of days from, but not including, the issue date to, and including, the first interest payment date. This calculation results in the amount of the interest payable per $1,000 par amount. In cases where the par amount of securities is a multiple of $1,000, we multiply the appropriate multiple by the unrounded interest payment amount per $1,000 par amount.
 Example
-A 2-year note paying 83/8% interest was issued on July 2, 1990, with the first interest payment on December 31, 1990. The number of days in the full half-year period of June 30 to December 31, 1990, was 184 (See Table 1.). The number of days for which interest actually accrued was 182 (not including July 2, but including December 31). The daily interest decimal, $0.227581522 (See Table 2, line for 83/8%, under the column for half-year of 184 days.), was multiplied by 182, resulting in a payment of $41.419837004 per $1,000. For $20,000 of these notes, $41.419837004 would be multiplied by 20, resulting in a payment of $828.39674008 ($828.40).
+A 2-year note paying 8 3/8 % interest was issued on July 2, 1990, with the first interest payment on December 31, 1990. The number of days in the full half-year period of June 30 to December 31, 1990, was 184 (See Table 1.). The number of days for which interest actually accrued was 182 (not including July 2, but including December 31). The daily interest decimal, $0.227581522 (See Table 2, line for 8 3/8 %, under the column for half-year of 184 days.), was multiplied by 182, resulting in a payment of $41.419837004 per $1,000. For $20,000 of these notes, $41.419837004 would be multiplied by 20, resulting in a payment of $828.39674008 ($828.40).
 4. Long First Payment Period. In cases where the first interest payment period for a bond or note covers more than a full half-year period (a "long coupon"), we multiply the daily interest decimal by the number of days from, but not including, the issue date to, and including, the last day of the fractional period that ends one full half-year before the interest payment date. We add that amount to the regular interest amount for the full half-year ending on the first interest payment date, resulting in the amount of interest payable for $1,000 par amount. In cases where the par amount of securities is a multiple of $1,000, the appropriate multiple should be applied to the unrounded interest payment amount per $1,000 par amount.
 Example
-A 5-year 2-month note paying 77/8% interest was issued on December 3, 1990, with the first interest payment due on August 15, 1991. Interest for the regular half-year portion of the payment was computed to be $39.375 per $1,000 par amount. The fractional portion of the payment, from December 3 to February 15, fell in a 184-day half-year (August 15, 1990, to February 15, 1991). Accordingly, the daily interest decimal for 77/8% was $0.213994565. This decimal, multiplied by 74 (the number of days from but not including December 3, 1990, to and including February 15), resulted in interest for the fractional portion of $15.835597810. When added to $39.375 (the normal interest payment portion ending on August 15, 1991), this produced a first interest payment of $55.210597810, or $55.21 per $1,000 par amount. For $7,000 par amount of these notes, $55.210597810 would be multiplied by 7, resulting in an interest payment of $386.474184670 ($386.47).
+A 5-year 2-month note paying 7 7/8 % interest was issued on December 3, 1990, with the first interest payment due on August 15, 1991. Interest for the regular half-year portion of the payment was computed to be $39.375 per $1,000 par amount. The fractional portion of the payment, from December 3 to February 15, fell in a 184-day half-year (August 15, 1990, to February 15, 1991). Accordingly, the daily interest decimal for 7 7/8 % was $0.213994565. This decimal, multiplied by 74 (the number of days from but not including December 3, 1990, to and including February 15), resulted in interest for the fractional portion of $15.835597810. When added to $39.375 (the normal interest payment portion ending on August 15, 1991), this produced a first interest payment of $55.210597810, or $55.21 per $1,000 par amount. For $7,000 par amount of these notes, $55.210597810 would be multiplied by 7, resulting in an interest payment of $386.474184670 ($386.47).
 B. Treasury Inflation-Protected Securities
 1. Indexing Process. We pay interest on marketable Treasury inflation-protected securities on a semiannual basis. We issue inflation-protected securities with a stated rate of interest that remains constant until maturity. Interest payments are based on the security's inflation-adjusted principal at the time we pay interest. We make this adjustment by multiplying the par amount of the security by the applicable Index Ratio.
-2. Index Ratio. The numerator of the Index Ratio, the Ref CPIDate, is the index number applicable for a specific day. The denominator of the Index Ratio is the Ref CPI applicable for the original issue date. However, when the dated date is different from the original issue date, the denominator is the Ref CPI applicable for the dated date. The formula for calculating the Index Ratio is:
+2. Index Ratio. The numerator of the Index Ratio, the Ref CPI Date, is the index number applicable for a specific day. The denominator of the Index Ratio is the Ref CPI applicable for the original issue date. However, when the dated date is different from the original issue date, the denominator is the Ref CPI applicable for the dated date. The formula for calculating the Index Ratio is:
 ER28JY04.000
 Where Date = valuation date
 3. Reference CPI. The Ref CPI for the first day of any calendar month is the CPI for the third preceding calendar month. For example, the Ref CPI applicable to April 1 in any year is the CPI for January, which is reported in February. We determine the Ref CPI for any other day of a month by a linear interpolation between the Ref CPI applicable to the first day of the month in which the day falls (in the example, January) and the Ref CPI applicable to the first day of the next month (in the example, February). For interpolation purposes, we truncate calculations with regard to the Ref CPI and the Index Ratio for a specific date to six decimal places, and round to five decimal places.
@@ -206,20 +206,20 @@ ER28JY04.001
 Where Date = valuation date
 D = the number of days in the month in which Date falls
 t = the calendar day corresponding to Date
-CPIM = CPI reported for the calendar month M by the Bureau of Labor Statistics
-Ref CPIM = Ref CPI for the first day of the calendar month in which Date falls, e.g., Ref CPIApril1 is the CPIJanuary
-Ref CPIM + 1 = Ref CPI for the first day of the calendar month immediately following Date
+CPI M = CPI reported for the calendar month M by the Bureau of Labor Statistics
+Ref CPI M = Ref CPI for the first day of the calendar month in which Date falls, e.g., Ref CPI April1 is the CPI January
+Ref CPI M + 1 = Ref CPI for the first day of the calendar month immediately following Date
 (ii) For example, the Ref CPI for April 15, 1996 is calculated as follows:
 ER28JY04.002
 where D = 30, t = 15
-Ref CPIApril 1, 1996 = 154.40, the non-seasonally adjusted CPI-U for January 1996.
-Ref CPIMay 1, 1996 = 154.90, the non-seasonally adjusted CPI-U for February 1996.
+Ref CPI April 1, 1996 = 154.40, the non-seasonally adjusted CPI-U for January 1996.
+Ref CPI May 1, 1996 = 154.90, the non-seasonally adjusted CPI-U for February 1996.
 (iii) Putting these values in the equation in paragraph (ii) above:
 ER28JY04.003
 This value truncated to six decimals is 154.633333; rounded to five decimals it is 154.63333.
-(iv) To calculate the Index Ratio for April 16, 1996, for an inflation-protected security issued on April 15, 1996, the Ref CPIApril 16, 1996 must first be calculated. Using the same values in the equation above except that t = 16, the Ref CPIApril 16, 1996 is 154.65000.
+(iv) To calculate the Index Ratio for April 16, 1996, for an inflation-protected security issued on April 15, 1996, the Ref CPI April 16, 1996 must first be calculated. Using the same values in the equation above except that t = 16, the Ref CPI April 16, 1996 is 154.65000.
 The Index Ratio for April 16, 1996 is:
-Index RatioApril 16, 1996 = 154.65000/154.63333 = 1.000107803.
+Index Ratio April 16, 1996 = 154.65000/154.63333 = 1.000107803.
 This value truncated to six decimals is 1.000107; rounded to five decimals it is 1.00011.
 4. Index Contingencies.
 (i) If a previously reported CPI is revised, we will continue to use the previously reported (unrevised) CPI in calculating the principal value and interest payments.
@@ -238,11 +238,11 @@ ER28JY04.005
 5. Computation of Interest for a Regular Half-Year Payment Period. Interest on marketable Treasury inflation-protected securities is payable on a semiannual basis. The regular interest payment period is a full half-year or six calendar months. Examples of half-year periods are January 15 to July 15, and April 15 to October 15. An interest payment will be a fixed percentage of the value of the inflation-adjusted principal, in current dollars, for the date on which it is paid. We will calculate interest payments by multiplying one-half of the specified annual interest rate for the inflation-protected securities by the inflation-adjusted principal for the interest payment date.
 Specifically, we compute a semiannual interest payment on the basis of one-half of one year's interest regardless of the actual number of days in the half-year.
 Example
-A 10-year inflation-protected note paying 37/8% interest was issued on January 15, 1999, with the first interest payment on July 15, 1999. The Ref CPI on January 15, 1999 (Ref CPIIssueDate) was 164, and the Ref CPI on July 15, 1999 (Ref CPIDate) was 166.2. For a par amount of $100,000, the inflation-adjusted principal on July 15, 1999, was (166.2/164) × $100,000, or $101,341. This amount was multiplied by.03875/2, or.019375, resulting in a payment of $1,963.48.
+A 10-year inflation-protected note paying 3 7/8% interest was issued on January 15, 1999, with the first interest payment on July 15, 1999. The Ref CPI on January 15, 1999 (Ref CPI IssueDate) was 164, and the Ref CPI on July 15, 1999 (Ref CPI Date) was 166.2. For a par amount of $100,000, the inflation-adjusted principal on July 15, 1999, was (166.2/164) × $100,000, or $101,341. This amount was multiplied by.03875/2, or.019375, resulting in a payment of $1,963.48.
 C. Treasury Floating Rate Notes
-1. Indexing and Interest Payment Process. We issue floating rate notes with a daily interest accrual feature. This means that the interest rate "floats" based on changes in the representative index rate. We pay interest on a quarterly basis. The index rate is the High Rate of the 13-week Treasury bill auction announced on the auction results press release that has been converted into a simple-interest money market yield computed on an actual/360 basis and rounded to nine decimal places. Interest payments are based on the floating rate note's variable interest rate from, and including, the dated date or last interest payment date to, but excluding, the next interest payment or maturity date. We make quarterly interest payments by accruing the daily interest amounts and adding those amounts together for the interest payment period.
+1. Indexing and Interest Payment Process. We issue floating rate notes with a daily interest accrual feature. This means that the interest rate "floats" based on changes in the representative index rate. We pay interest on a quarterly basis. The index rate is the High Rate of the 13-week Treasury bill auction announced on the auction results that has been converted into a simple-interest money market yield computed on an actual/360 basis and rounded to nine decimal places. Interest payments are based on the floating rate note's variable interest rate from, and including, the dated date or last interest payment date to, but excluding, the next interest payment or maturity date. We make quarterly interest payments by accruing the daily interest amounts and adding those amounts together for the interest payment period.
 2. Interest Rate. The interest rate on floating rate notes will be the spread plus the index rate (as it may be adjusted on the calendar day following each auction of 13-week bills).
-3. Interest Accrual. In general, accrued interest for a particular calendar day in an accrual period is calculated by using the index rate from the most recent auction of 13-week bills that took place before the accrual day, plus the spread determined at the time of a new floating rate note auction, divided by 360, subject to a zero-percent minimum daily interest accrual rate. However, a 13-week bill auction that takes place in the two-business-day period prior to a settlement date or interest payment date will be excluded from the calculation of accrued interest for purposes of the settlement amount or interest payment. Any changes in the index rate that would otherwise have occurred during this two-business-day period will occur on the first calendar day following the end of the period.
+3. Interest Accrual. In general, accrued interest for a particular calendar day in an accrual period is calculated by using the index rate from the most recent auction of 13-week bills that took place before the accrual day, plus the spread determined at the time of a new floating rate note auction, divided by 360, subject to a zero-percent minimum daily interest accrual rate. However, the rate determined in a 13-week bill auction that takes place in the two-business-day period prior to a settlement date or interest payment date will be excluded from the calculation of accrued interest for purposes of the settlement amount or interest payment. Any changes in the index rate that would otherwise have occurred during this two-business-day period will occur on the first calendar day following the end of the period.
 4. Index Contingencies.
 (i) If Treasury were to discontinue auctions of 13-week bills, the Secretary has authority to determine and announce a new index for outstanding floating rate notes.
 (ii) If Treasury were to not conduct a 13-week bill auction in a particular week, then the interest rate in effect for the notes at the time of the last 13-week bill auction results announcement will remain in effect until such time, if any, as the results of a 13-week Treasury auction are again announced by Treasury. Treasury reserves the right to change the index rate for any newly issued floating rate note.
@@ -252,37 +252,35 @@ D. Accrued Interest
 3. If a reopened bond or note has a long first interest payment period (a "long coupon"), and the dated date for the reopened issue is less than six full months before the first interest payment, the accrued interest will fall into two separate half-year periods. A separate daily interest decimal must be multiplied by the respective number of days in each half-year period during which interest has accrued.
 4. We round all accrued interest computations to five decimal places for a $1,000 par amount, using normal rounding procedures. We calculate accrued interest for a par amount of securities greater than $1,000 by applying the appropriate multiple to accrued interest payable for a $1,000 par amount, rounded to five decimal places. We calculate accrued interest for a par amount of securities less than $1,000 by applying the appropriate fraction to accrued interest payable for a $1,000 par amount, rounded to five decimal places.
 5. For an inflation-protected security, we calculate accrued interest as shown in section III, paragraphs A and B of this appendix.
-Examples—(1) Treasury Non-indexed Securities—(i) Involving One Half-Year: A note paying interest at a rate of 63/4%, originally issued on May 15, 2000, as a 5-year note with a first interest payment date of November 15, 2000, was reopened as a 4-year 9-month note on August 15, 2000. Interest had accrued for 92 days, from May 15 to August 15. The regular interest period from May 15 to November 15, 2000, covered 184 days. Accordingly, the daily interest decimal, $0.183423913, multiplied by 92, resulted in accrued interest payable of $16.874999996, or $16.87500, for each $1,000 note purchased. If the notes have a par amount of $150,000, then 150 is multiplied by $16.87500, resulting in an amount payable of $2,531.25.
-(2) Involving Two Half-Years:
-A 103/4% bond, originally issued on July 2, 1985, as a 20-year 1-month bond, with a first interest payment date of February 15, 1986, was reopened as a 19-year 10-month bond on November 4, 1985. Interest had accrued for 44 days, from July 2 to August 15, 1985, during a 181-day half-year (February 15 to August 15); and for 81 days, from August 15 to November 4, during a 184-day half-year (August 15, 1985, to February 15, 1986). Accordingly, $0.296961326 was multiplied by 44, and $0.292119565 was multiplied by 81, resulting in products of $13.066298344 and $23.661684765 which, added together, resulted in accrued interest payable of $36.727983109, or $36.72798, for each $1,000 bond purchased. If the bonds have a par amount of $11,000, then 11 is multiplied by $36.72798, resulting in an amount payable of $404.00778 ($404.01).
+Examples: (1) Treasury Non-indexed Securities—(i) Involving One Half-Year: A note paying interest at a rate of 6 3/4%, originally issued on May 15, 2000, as a 5-year note with a first interest payment date of November 15, 2000, was reopened as a 4-year 9-month note on August 15, 2000. Interest had accrued for 92 days, from May 15 to August 15. The regular interest period from May 15 to November 15, 2000, covered 184 days. Accordingly, the daily interest decimal, $0.183423913, multiplied by 92, resulted in accrued interest payable of $16.874999996, or $16.87500, for each $1,000 note purchased. If the notes have a par amount of $150,000, then 150 is multiplied by $16.87500, resulting in an amount payable of $2,531.25. (2) Involving Two Half-Years: A 10 3/4% bond, originally issued on July 2, 1985, as a 20-year 1-month bond, with a first interest payment date of February 15, 1986, was reopened as a 19-year 10-month bond on November 4, 1985. Interest had accrued for 44 days, from July 2 to August 15, 1985, during a 181-day half-year (February 15 to August 15); and for 81 days, from August 15 to November 4, during a 184-day half-year (August 15, 1985, to February 15, 1986). Accordingly, $0.296961326 was multiplied by 44, and $0.292119565 was multiplied by 81, resulting in products of $13.066298344 and $23.661684765 which, added together, resulted in accrued interest payable of $36.727983109, or $36.72798, for each $1,000 bond purchased. If the bonds have a par amount of $11,000, then 11 is multiplied by $36.72798, resulting in an amount payable of $404.00778 ($404.01).
 6. For a floating rate note, if accrued interest covers a portion of a full quarterly interest payment period, we calculate accrued interest as shown in section IV, paragraphs C and D of this appendix.
 II. Formulas for Conversion of Non-indexed Security Yields to Equivalent Prices
 Definitions
 P = price per 100 (dollars), rounded to six places, using normal rounding procedures.
-C = the regular annual interest per $100, payable semiannually, e.g., 6.125 (the decimal equivalent of a 61/8% interest rate).
+C = the regular annual interest per $100, payable semiannually, e.g., 6.125 (the decimal equivalent of a 6 1/8 % interest rate).
 i = nominal annual rate of return or yield to maturity, based on semiannual interest payments and expressed in decimals, e.g.,.0719.
 n = number of full semiannual periods from the issue date to maturity, except that, if the issue date is a coupon frequency date, n will be one less than the number of full semiannual periods remaining to maturity. Coupon frequency dates are the two semiannual dates based on the maturity date of each note or bond issue. For example, a security maturing on November 15, 2015, would have coupon frequency dates of May 15 and November 15.
 r = (1) number of days from the issue date to the first interest payment (regular or short first payment period), or (2) number of days in fractional portion (or "initial short period") of long first payment period.
 s = (1) number of days in the full semiannual period ending on the first interest payment date (regular or short first payment period), or (2) number of days in the full semiannual period in which the fractional portion of a long first payment period falls, ending at the onset of the regular portion of the first interest payment.
-vn = 1 / [1 + (i/2)] n = present value of 1 due at the end of n periods.
-an = (1 − vn) / (i/2) = v + v2 + v3 +... + vn = present value of 1 per period for n periods
-Special Case: If i = 0, then an⌉ = n. Furthermore, when i = 0, an⌉ cannot be calculated using the formula: (1 − vn)/(i/2). In the special case where i = 0, an⌉ must be calculated as the summation of the individual present values (i.e., v + v2 + v3 +... + vn). Using the summation method will always confirm that an⌉ = n when i = 0.
+v n = 1 / [1 + (i/2)] n = present value of 1 due at the end of n periods.
+a n = (1 − v n) / (i/2) = v + v 2 + v 3 +... + v n = present value of 1 per period for n periods
+Special Case: If i = 0, then a n ⌉ = n. Furthermore, when i = 0, a n ⌉ cannot be calculated using the formula: (1 − v n)/(i/2). In the special case where i = 0, a n ⌉ must be calculated as the summation of the individual present values (i.e., v + v 2 + v 3 +... + v n). Using the summation method will always confirm that a n ⌉ = n when i = 0.
 A = accrued interest.
 A. For non-indexed securities with a regular first interest payment period:
 Formula:
-P[1 + (r/s)(i/2)] = (C/2)(r/s) + (C/2)an⌉ + 100vn.
+P[1 + (r/s)(i/2)] = (C/2)(r/s) + (C/2)a n ⌉ + 100v n.
 Example:
-For an 83/4% 30-year bond issued May 15, 1990, due May 15, 2020, with interest payments on November 15 and May 15, solve for the price per 100 (P) at a yield of 8.84%.
+For an 8 3/4 % 30-year bond issued May 15, 1990, due May 15, 2020, with interest payments on November 15 and May 15, solve for the price per 100 (P) at a yield of 8.84%.
 Definitions:G12752
 C = 8.75.
 i =.0884.
 r = 184 (May 15 to November 15, 1990).
 s = 184 (May 15 to November 15, 1990).
 n = 59 (There are 60 full semiannual periods, but n is reduced by 1 because the issue date is a coupon frequency date.)
-vn = 1 / [(1 +.0884 / 2)]59, or.0779403508.
-an⌉ = (1 −.0779403508) /.0442, or 20.8610780353.
+v n = 1 / [(1 +.0884 / 2)] 59, or.0779403508.
+a n ⌉ = (1 −.0779403508) /.0442, or 20.8610780353.
 Resolution:
-P[1 + (r/s)(i/2)] = (C/2)(r/s) + (C/2)an⌉ + 100vn or
+P[1 + (r/s)(i/2)] = (C/2)(r/s) + (C/2)a n ⌉ + 100v n or
 P[1 + (184/184)(.0884/2)] = (8.75/2)(184/184) + (8.75/2)(20.8610780353) + 100(.0779403508).
 (1) P[1 +.0442] = 4.375 + 91.2672164044 + 7.7940350840.
 (2) P[1.0442] = 103.4362514884.
@@ -290,19 +288,19 @@ P[1 + (184/184)(.0884/2)] = (8.75/2)(184/184) + (8.75/2)(20.8610780353) + 100(.0
 (4) P = 99.057893.
 B. For non-indexed securities with a short first interest payment period:
 Formula:
-P[1 + (r/s)(i/2)] = (C/2)(r/s) + (C/2)an⌉ + 100vn.
+P[1 + (r/s)(i/2)] = (C/2)(r/s) + (C/2)a n ⌉ + 100v n.
 Example:
-For an 81/2% 2-year note issued April 2, 1990, due March 31, 1992, with interest payments on September 30 and March 31, solve for the price per 100 (P) at a yield of 8.59%.
+For an 8 1/2 % 2-year note issued April 2, 1990, due March 31, 1992, with interest payments on September 30 and March 31, solve for the price per 100 (P) at a yield of 8.59%.
 Definitions:
 C = 8.50.
 i =.0859.
 n = 3.
 r = 181 (April 2 to September 30, 1990).
 s = 183 (March 31 to September 30, 1990).
-vn = 1 / [(1 +.0859 / 2)]3, or.8814740565.
-an⌉ = (1 −.8814740565) /.04295, or 2.7596261590.
+v n = 1 / [(1 +.0859 / 2)] 3, or.8814740565.
+a n ⌉ = (1 −.8814740565) /.04295, or 2.7596261590.
 Resolution:
-P[1 + (r/s)(i/2)] = (C/2)(r/s) + (C/2)an⌉ + 100vn or
+P[1 + (r/s)(i/2)] = (C/2)(r/s) + (C/2)a n ⌉ + 100v n or
 P[1 + (181/183)(.0859/2)] = (8.50/2)(181/183) + (8.50/2)(2.7596261590) + 100(.8814740565).
 (1) P[1 +.042480601] = 4.2035519126 + 11.7284111757 + 88.14740565.
 (2) P[1.042480601] = 104.0793687354.
@@ -310,9 +308,9 @@ P[1 + (181/183)(.0859/2)] = (8.50/2)(181/183) + (8.50/2)(2.7596261590) + 100(.88
 (4) P = 99.838183.
 C. For non-indexed securities with a long first interest payment period:
 Formula:
-P[1 + (r/s)(i/2)] = [(C/2)(r/s)]v + (C/2)an⌉ + 100vn.
+P[1 + (r/s)(i/2)] = [(C/2)(r/s)]v + (C/2)a n ⌉ + 100v n.
 Example:
-For an 81/2% 5-year 2-month note issued March 1, 1990, due May 15, 1995, with interest payments on November 15 and May 15 (first payment on November 15, 1990), solve for the price per 100 (P) at a yield of 8.53%.
+For an 8 1/2 % 5-year 2-month note issued March 1, 1990, due May 15, 1995, with interest payments on November 15 and May 15 (first payment on November 15, 1990), solve for the price per 100 (P) at a yield of 8.53%.
 Definitions:
 C = 8.50.
 i =.0853.
@@ -320,10 +318,10 @@ n = 10.
 r = 75 (March 1 to May 15, 1990, which is the fractional portion of the first interest payment).
 s = 181 (November 15, 1989, to May 15, 1990).
 v = 1 / (1 +.0853/2), or.9590946147.
-vn = 1 / (1 +.0853/2)10, or.658589
-an⌉ = (1−.658589)/.04265, or 8.0049454082.
+v n = 1 / (1 +.0853/2) 10, or.658589
+a n ⌉ = (1−.658589)/.04265, or 8.0049454082.
 Resolution:
-P[1 + (r/s)(i/2)] = [(C/2)(r/s)]v + (C/2)an⌉ + 100vn or
+P[1 + (r/s)(i/2)] = [(C/2)(r/s)]v + (C/2)a n ⌉ + 100v n or
 P[1 + (75/181)(.0853/2)] = [(8.50/2)(75/181)].9590946147 + (8.50/2)(8.0049454082) + 100(.6585890783).
 (1) P[1 +.017672652] = 1.6890133062 + 34.0210179850 + 65.8589078339.
 (2) P[1.017672652] = 101.5689391251.
@@ -332,22 +330,22 @@ P[1 + (75/181)(.0853/2)] = [(8.50/2)(75/181)].9590946147 + (8.50/2)(8.0049454082
 D. (1) For non-indexed securities reopened during a regular interest period where the purchase price includes predetermined accrued interest.
 (2) For new non-indexed securities accruing interest from the coupon frequency date immediately preceding the issue date, with the interest rate established in the auction being used to determine the accrued interest payable on the issue date.
 Formula:
-(P + A)[1 + (r/s)(i/2)] = C/2 + (C/2)an⌉ + 100vn.
+(P + A)[1 + (r/s)(i/2)] = C/2 + (C/2)a n ⌉ + 100v n.
 Where:
 A = [(s−r)/s](C/2).
 Example:
-For a 91/2% 10-year note with interest accruing from November 15, 1985, issued November 29, 1985, due November 15, 1995, and interest payments on May 15 and November 15, solve for the price per 100 (P) at a yield of 9.54%. Accrued interest is from November 15 to November 29 (14 days).
+For a 9 1/2 % 10-year note with interest accruing from November 15, 1985, issued November 29, 1985, due November 15, 1995, and interest payments on May 15 and November 15, solve for the price per 100 (P) at a yield of 9.54%. Accrued interest is from November 15 to November 29 (14 days).
 Definitions:
 C = 9.50.
 i =.0954.
 n = 19.
 r = 167 (November 29, 1985, to May 15, 1986).
 s = 181 (November 15, 1985, to May 15, 1986).
-vn = 1 / [(1 +.0954/2)]19, or.4125703996.
-an⌉ = (1 −.4125703996) /.0477, or 12.3150859630.
+v n = 1 / [(1 +.0954/2)] 19, or.4125703996.
+a n ⌉ = (1 −.4125703996) /.0477, or 12.3150859630.
 A = [(181 − 167) / 181](9.50/2), or.367403.
 Resolution:
-(P + A)[1 + (r/s)(i/2)] = C/2 + (C/2)an⌉ + 100vn or
+(P + A)[1 + (r/s)(i/2)] = C/2 + (C/2)a n ⌉ + 100v n or
 (P +.367403)[1 + (167/181)(.0954/2)] = (9.50/2) + (9.50/2)(12.3150859630) + 100(.4125703996).
 (1) (P +.367403)[1 +.044010497] = 4.75 + 58.4966583243 + 41.25703996.
 (2) (P +.367403)[1.044010497] = 104.5036982843.
@@ -357,7 +355,7 @@ Resolution:
 (6) P = 99.730918.
 E. For non-indexed securities reopened during the regular portion of a long first payment period:
 Formula:
-(P + A)[1 + (r/s)(i/2)] = (r′s″)(C/2) + C 2 + (C/2)an⌉ + 100vn.
+(P + A)[1 + (r/s)(i/2)] = (r′s″)(C/2) + C 2 + (C/2)a n ⌉ + 100v n.
 Where:
 A = AI′ + AI,
 AI′ = (r′/s″)(C/2),
@@ -367,7 +365,7 @@ s = number of days in the semiannual period for the regular portion of the first
 r′ = number of days in the fractional portion (or "initial short period") of the first interest payment period,
 s″ = number of days in the semiannual period ending with the commencement date of the regular portion of the first interest payment period.
 Example:
-A 103/4% 19-year 9-month bond due August 15, 2005, is issued on July 2, 1985, and reopened on November 4, 1985, with interest payments on February 15 and August 15 (first payment on February 15, 1986), solve for the price per 100 (P) at a yield of 10.47%. Accrued interest is calculated from July 2 to November 4.
+A 10 3/4 % 19-year 9-month bond due August 15, 2005, is issued on July 2, 1985, and reopened on November 4, 1985, with interest payments on February 15 and August 15 (first payment on February 15, 1986), solve for the price per 100 (P) at a yield of 10.47%. Accrued interest is calculated from July 2 to November 4.
 Definitions:
 C = 10.75.
 i =.1047.
@@ -376,13 +374,13 @@ r = 103 (November 4, 1985, to February 15, 1986).
 s = 184 (August 15, 1985, to February 15, 1986).
 r′ = 44 (July 2 to August 15, 1985).
 s″ = 181 (February 15 to August 15, 1985).
-vn = 1 / [(1 +.1047 / 2)]39, or.1366947986.
-an⌉ = (1 −.1366947986) /.05235, or 16.4910258142.
+v n = 1 / [(1 +.1047 / 2)] 39, or.1366947986.
+a n ⌉ = (1 −.1366947986) /.05235, or 16.4910258142.
 AI′ = (44 / 181)(10.75 / 2), or 1.306630.
 AI = [(184 − 103) / 184](10.75 / 2), or 2.366168.
 A = AI′ + AI, or 3.672798.
 Resolution:
-(P + A)[1 + (r/s)(i/2)] = (r′/s″)(C/2) + C/2 + (C/2)an⌉ + 100vn or
+(P + A)[1 + (r/s)(i/2)] = (r′/s″)(C/2) + C/2 + (C/2)a n ⌉ + 100v n or
 (P + 3.672798)[1 + (103/184)(.1047/2)] = (44/181)(10.75/2) + 10.75/2 + (10.75/2)(16.4910258142) + 100(.1366947986).
 (1) (P + 3.672798)[1 +.02930462] = 1.3066298343 + 5.375 + 88.6392637512 + 13.6694798628.
 (2) (P + 3.672798)[1.02930462] = 108.9903734482.
@@ -392,12 +390,12 @@ Resolution:
 (6) P = 102.214586.
 F. For non-indexed securities reopened during a short first payment period:
 Formula:
-(P + A)[1 + (r/s)(i/2)] = (r′/s)(C/2) + (C/2)an⌉ + 100v n.
+(P + A)[1 + (r/s)(i/2)] = (r′/s)(C/2) + (C/2)a n ⌉ + 100v n.
 Where:
 A = [(r′ − r)/s](C/2) and
 r′ = number of days from the original issue date to the first interest payment date.
 Example:
-For a 101/2% 8-year note due May 15, 1991, originally issued on May 16, 1983, and reopened on August 15, 1983, with interest payments on November 15 and May 15 (first payment on November 15, 1983), solve for the price per 100 (P) at a yield of 10.53%. Accrued interest is calculated from May 16 to August 15.
+For a 10 1/2 % 8-year note due May 15, 1991, originally issued on May 16, 1983, and reopened on August 15, 1983, with interest payments on November 15 and May 15 (first payment on November 15, 1983), solve for the price per 100 (P) at a yield of 10.53%. Accrued interest is calculated from May 16 to August 15.
 Definitions:
 C = 10.50.
 i =.1053.
@@ -405,11 +403,11 @@ n = 15.
 r = 92 (August 15, 1983, to November 15, 1983).
 s = 184 (May 15, 1983, to November 15, 1983).
 r′ = 183 (May 16, 1983, to November 15, 1983).
-v n = 1/[(1 +.1053/2)]15, or.4631696332.
-an⌉ = (1 −.4631696332) /.05265, or 10.1962082956.
+v n = 1/[(1 +.1053/2)] 15, or.4631696332.
+a n ⌉ = (1 −.4631696332) /.05265, or 10.1962082956.
 A = [(183 − 92) / 184](10.50 / 2), or 2.596467.
 Resolution:
-(P + A)[1 + (r/s)(i/2)] = (r′/s)(C/2) + (C/2)an⌉ + 100v n or
+(P + A)[1 + (r/s)(i/2)] = (r′/s)(C/2) + (C/2)a n ⌉ + 100v n or
 (P + 2.596467)[1 + (92/184)(.1053/2)] = (183/184)(10.50/2) + (10.50/2)(10.1962082956) + 100(.4631696332).
 (1) (P + 2.596467)[1 +.026325] = 5.2214673913 + 53.5300935520 + 46.31696332.
 (2) (P + 2.596467)[1.026325] = 105.0685242633.
@@ -419,14 +417,14 @@ Resolution:
 (6) P = 99.777074.
 G. For non-indexed securities reopened during the fractional portion (initial short period) of a long first payment period:
 Formula:
-(P + A)[1 + (r/s)(i/2)] = [(r′/s)(C/2)]v + (C/2)an⌉ + 100v n.
+(P + A)[1 + (r/s)(i/2)] = [(r′/s)(C/2)]v + (C/2)a n ⌉ + 100v n.
 Where:
 A = [(r′ − r)/s](C/2), and
 r = number of days from the reopening date to the end of the short period.
 r′ = number of days in the short period.
 s = number of days in the semiannual period ending with the end of the short period.
 Example:
-For a 93/4% 6-year 2-month note due December 15, 1994, originally issued on October 15, 1988, and reopened on November 15, 1988, with interest payments on June 15 and December 15 (first payment on June 15, 1989), solve for the price per 100 (P) at a yield of 9.79%. Accrued interest is calculated from October 15 to November 15.
+For a 9 3/4 % 6-year 2-month note due December 15, 1994, originally issued on October 15, 1988, and reopened on November 15, 1988, with interest payments on June 15 and December 15 (first payment on June 15, 1989), solve for the price per 100 (P) at a yield of 9.79%. Accrued interest is calculated from October 15 to November 15.
 Definitions:
 C = 9.75.
 i =.0979.
@@ -435,11 +433,11 @@ r = 30 (November 15, 1988, to December 15, 1988).
 s = 183 (June 15, 1988, to December 15, 1988).
 r′ = 61 (October 15, 1988, to December 15, 1988).
 v = 1 / (1 +.0979/2), or.9533342867.
-v n = [1 / (1 +.0979/2)]12, or.5635631040.
-an⌉ = (1 −.5635631040)/.04895, or 8.9159733613.
+v n = [1 / (1 +.0979/2)] 12, or.5635631040.
+a n ⌉ = (1 −.5635631040)/.04895, or 8.9159733613.
 A = [(61 − 30)/183](9.75/2), or.825820.
 Resolution:
-(P + A)[1 + (r/s)(i/2)] = [(r′/s)(C/2)]v + (C/2)an⌉ + 100v n or
+(P + A)[1 + (r/s)(i/2)] = [(r′/s)(C/2)]v + (C/2)a n ⌉ + 100v n or
 (P +.825820)[1 + (30/183)(.0979/2)] = [(61/183)(9.75/2)](.9533342867) + (9.75/2)(8.9159733613) + 100(.5635631040).
 (1) (P +.825820)[1 +.00802459] = 1.549168216 + 43.4653701362 + 56.35631040.
 (2) (P +.825820)[1.00802459] = 101.3708487520.
@@ -450,107 +448,107 @@ Resolution:
 III. Formulas for Conversion of Inflation-Indexed Security Yields to Equivalent Prices
 Definitions
 P = unadjusted or real price per 100 (dollars).
-Padj = inflation adjusted price; P × Index RatioDate.
+P adj = inflation adjusted price; P × Index Ratio Date.
 A = unadjusted accrued interest per $100 original principal.
-Aadj = inflation adjusted accrued interest; A × Index RatioDate.
-SA = settlement amount including accrued interest in current dollars per $100 original principal; Padj + Aadj.
+A adj = inflation adjusted accrued interest; A × Index Ratio Date.
+SA = settlement amount including accrued interest in current dollars per $100 original principal; P adj + A adj.
 r = days from settlement date to next coupon date.
 s = days in current semiannual period.
 i = real yield, expressed in decimals (e.g., 0.0325).
 C = real annual coupon, payable semiannually, in terms of real dollars paid on $100 initial, or real, principal of the security.
 n = number of full semiannual periods from issue date to maturity date, except that, if the issue date is a coupon frequency date, n will be one less than the number of full semiannual periods remaining until maturity. Coupon frequency dates are the two semiannual dates based on the maturity date of each note or bond issue. For example, a security maturing on July 15, 2026 would have coupon frequency dates of January 15 and July 15.
-v n = 1/(1 + i/2)n = present value of 1 due at the end of n periods.
-an⌉ = (1 − v n) / (i/2) = v + v 2 + v 3 +... + v n = present value of 1 per period for n periods.
-Special Case: If i = 0, then an⌉ = n. Furthermore, when i = 0, an⌉ cannot be calculated using the formula: (1 − v n)/(i/2). In the special case where i = 0, an⌉ must be calculated as the summation of the individual present values (i.e., v + v 2 + v 3 +... + v n). Using the summation method will always confirm that an⌉ = n when i = 0.
+v n = 1/(1 + i/2) n = present value of 1 due at the end of n periods.
+a n ⌉ = (1 − v n) / (i/2) = v + v 2 + v 3 +... + v n = present value of 1 per period for n periods.
+Special Case: If i = 0, then a n ⌉ = n. Furthermore, when i = 0, a n ⌉ cannot be calculated using the formula: (1 − v n)/(i/2). In the special case where i = 0, a n ⌉ must be calculated as the summation of the individual present values (i.e., v + v 2 + v 3 +... + v n). Using the summation method will always confirm that a n ⌉ = n when i = 0.
 Date = valuation date.
 D = the number of days in the month in which Date falls.
 t = calendar day corresponding to Date.
 CPI = Consumer Price Index number.
-CPIM = CPI reported for the calendar month M by the Bureau of Labor Statistics.
-Ref CPIM = reference CPI for the first day of the calendar month in which Date falls (also equal to the CPI for the third preceding calendar month), e.g., Ref CPIApril 1 is the CPIJanuary.
-Ref CPIM + 1 = reference CPI for the first day of the calendar month immediately following Date.
-Ref CPIDate = Ref CPIM − [(t − 1)/D][Ref CPIM + 1-Ref CPIM].
-Index RatioDate = Ref CPIDate / Ref CPIIssueDate.
-Note: When the Issue Date is different from the Dated Date, the denominator is the Ref CPIDatedDate.
-A. For inflation-indexed securities with a regular first interest payment period:
+CPI M = CPI reported for the calendar month M by the Bureau of Labor Statistics.
+Ref CPI M = reference CPI for the first day of the calendar month in which Date falls (also equal to the CPI for the third preceding calendar month), e.g., Ref CPI April 1 is the CPI January.
+Ref CPI M + 1 = reference CPI for the first day of the calendar month immediately following Date.
+Ref CPI Date = Ref CPI M − [(t − 1)/D][Ref CPI M + 1 -Ref CPI M].
+Index Ratio Date = Ref CPI Date / Ref CPI IssueDate.
+Note: When the Issue Date is different from the Dated Date, the denominator is the Ref CPI DatedDate.
+A. For inflation-protected securities with a regular first interest payment period:
 Formulas:
 ER02SE04.005
-Padj = P × Index RatioDate.
+P adj = P × Index Ratio Date.
 A = [(s−r)/s] × (C/2).
-Aadj = A × Index RatioDate.
-SA = Padj + Aadj
-Index RatioDate = Ref CPIDate/Ref CPIIssueDate.
+A adj = A × Index Ratio Date.
+SA = P adj + A adj
+Index Ratio Date = Ref CPI Date /Ref CPI IssueDate.
 Example:
-We issued a 10-year inflation-indexed note on January 15, 1999. The note was issued at a discount to yield of 3.898% (real). The note bears a 37/8% real coupon, payable on July 15 and January 15 of each year. The base CPI index applicable to this note is 164. (We normally derive this number using the interpolative process described in appendix B, section I, paragraph B.)
+We issued a 10-year inflation-protected note on January 15, 1999. The note was issued at a discount to yield of 3.898% (real). The note bears a 3 7/8 % real coupon, payable on July 15 and January 15 of each year. The base CPI index applicable to this note is 164. (We normally derive this number using the interpolative process described in appendix B, section I, paragraph B.)
 Definitions:
 C = 3.875.
 i = 0.03898.
 n = 19 (There are 20 full semiannual periods but n is reduced by 1 because the issue date is a coupon frequency date.).
 r = 181 (January 15, 1999 to July 15, 1999).
 s = 181 (January 15, 1999 to July 15, 1999).
-Ref CPIDate = 164.
-Ref CPIIssueDate = 164.
+Ref CPI Date = 164.
+Ref CPI IssueDate = 164.
 Resolution:
-Index RatioDate = Ref CPIDate / Ref CPIIssueDate = 164/164 = 1.
+Index Ratio Date = Ref CPI Date / Ref CPI IssueDate = 164/164 = 1.
 A = [(181 − 181)/181] × 3.875/2 = 0.
-Aadj = 0 × 1 = 0.
-vn = 1/(1 + i/2)n = 1/(1 +.03898/2)19 = 0.692984572.
-an⌉ = (1 − vn)/(i/2) = (1-0.692984572) / (.03898/2) = 15.752459107.
+A adj = 0 × 1 = 0.
+v n = 1/(1 + i/2) n = 1/(1 +.03898/2) 19 = 0.692984572.
+a n ⌉ = (1 − v n)/(i/2) = (1-0.692984572) / (.03898/2) = 15.752459107.
 Formula:
 ER02SE04.006
 P = 99.811030.
-Padj = P × Index RatioDate.
-Padj = 99.811030 × 1 = 99.811030.
-SA = Padj × Aadj.
+P adj = P × Index Ratio Date.
+P adj = 99.811030 × 1 = 99.811030.
+SA = P adj × A adj.
 SA = 99.811030 + 0 = 99.811030.
 Note: For the real price (P), we have rounded to six places. These amounts are based on 100 par value.
-B. (1) For inflation-indexed securities reopened during a regular interest period where the purchase price includes predetermined accrued interest.
-(2) For new inflation-indexed securities accruing interest from the coupon frequency date immediately preceding the issue date, with the interest rate established in the auction being used to determine the accrued interest payable on the issue date.
+B. (1) For inflation-protected securities reopened during a regular interest period where the purchase price includes predetermined accrued interest.
+(2) For new inflation-protected securities accruing interest from the coupon frequency date immediately preceding the issue date, with the interest rate established in the auction being used to determine the accrued interest payable on the issue date.
 Bidding: The dollar amount of each bid is in terms of the par amount. For example, if the Ref CPI applicable to the issue date of the note is 120, and the reference CPI applicable to the reopening issue date is 132, a bid of $10,000 will in effect be a bid of $10,000 × (132/120), or $11,000.
 Formulas:
 ER02SE04.007
-Padj = P × Index RatioDate.
+P adj = P × Index Ratio Date.
 A = [(s−r)/s] × (C/2).
-Aadj = A × Index RatioDate.
-SA = Padj + Aadj.
-Index RatioDate = Ref CPIDate/Ref CPIIssueDate.
+A adj = A × Index Ratio Date.
+SA = P adj + A adj.
+Index Ratio Date = Ref CPI Date /Ref CPI IssueDate.
 Example:
-We issued a 35/8% 10-year inflation-indexed note on January 15, 1998, with interest payments on July 15 and January 15. For a reopening on October 15, 1998, with inflation compensation accruing from January 15, 1998 to October 15, 1998, and accrued interest accruing from July 15, 1998 to October 15, 1998 (92 days), solve for the price per 100 (P) at a real yield, as determined in the reopening auction, of 3.65%. The base index applicable to the issue date of this note is 161.55484 and the reference CPI applicable to October 15, 1998, is 163.29032.
+We issued a 3 5/8 % 10-year inflation-protected note on January 15, 1998, with interest payments on July 15 and January 15. For a reopening on October 15, 1998, with inflation compensation accruing from January 15, 1998 to October 15, 1998, and accrued interest accruing from July 15, 1998 to October 15, 1998 (92 days), solve for the price per 100 (P) at a real yield, as determined in the reopening auction, of 3.65%. The base index applicable to the issue date of this note is 161.55484 and the reference CPI applicable to October 15, 1998, is 163.29032.
 Definitions:
 C = 3.625.
 i = 0.0365.
 n = 18.
 r = 92 (October 15, 1998 to January 15, 1999).
 s = 184 (July 15, 1998 to January 15, 1999).
-Ref CPIDate = 163.29032.
-Ref CPIIssueDate = 161.55484.
+Ref CPI Date = 163.29032.
+Ref CPI IssueDate = 161.55484.
 Resolution:
-Index RatioDate = Ref CPIDate/Ref CPIIssueDate = 163.29032/161.55484 = 1.01074.
-vn = 1/(1 + i/2)n = 1/(1 +.0365/2)18 = 0.722138438.
-an⌉ = (1−vn)/(i/2) = (1 − 0.722138438)/(.0365/2) = 15.225291068.
+Index Ratio Date = Ref CPI Date /Ref CPI IssueDate = 163.29032/161.55484 = 1.01074.
+v n = 1/(1 + i/2) n = 1/(1 +.0365/2) 18 = 0.722138438.
+a n ⌉ = (1−v n)/(i/2) = (1 − 0.722138438)/(.0365/2) = 15.225291068.
 Formula:
 ER02se04.008
 P = 100.703267 − 0.906250.
 P = 99.797017.
-Padj = P × Index RatioDate.
-Padj = 99.797017 × 1.01074 = 100.86883696.
-Padj = 100.868837.
+P adj = P × Index Ratio Date.
+P adj = 99.797017 × 1.01074 = 100.86883696.
+P adj = 100.868837.
 A = [(184−92)/184] × 3.625/2 = 0.906250.
-Aadj = A × Index RatioDate.
-Aadj = 0.906250 × 1.01074 = 0.91598313.
-Aadj = 0.915983.
-SA = Padj + Aadj = 100.868837 + 0.915983.
+A adj = A × Index Ratio Date.
+A adj = 0.906250 × 1.01074 = 0.91598313.
+A adj = 0.915983.
+SA = P adj + A adj = 100.868837 + 0.915983.
 SA = 101.784820.
-Note: For the real price (P), and the inflation-adjusted price (Padj), we have rounded to six places. For accrued interest (A) and the adjusted accrued interest (Aadj), we have rounded to six places. These amounts are based on 100 par value.
+Note: For the real price (P), and the inflation-adjusted price (P adj), we have rounded to six places. For accrued interest (A) and the adjusted accrued interest (A adj), we have rounded to six places. These amounts are based on 100 par value.
 IV. Formulas for Conversion of Floating Rate Note Discount Margins to Equivalent Prices
 Definitions for Newly Issued Floating Rate Notes
 P = the price per $100 par value.
-T0 = the issue date.
+T 0 = the issue date.
 N = the total number of quarterly interest payments.
 i and k = indexes that identify the sequence of interest payment dates.
-Ti = the ith quarterly interest payment date.
-Ti − Ti-1 = the number of days between the interest payment date Ti and the preceding interest payment date.
-TN = the maturity date.
+T i = the i th quarterly interest payment date.
+T i − T i-1 = the number of days between the interest payment date T i and the preceding interest payment date.
+T N = the maturity date.
 r = the index rate applicable to the issue date.
 s = the spread.
 m = the discount margin.
@@ -560,15 +558,15 @@ ER31JY13.000
 Example:
 The purpose of this example is to demonstrate how a floating rate note price is derived at the time of original issuance. Additionally, this example depicts the association of the July 31, 2012 issue date and the two-business-day lockout period. For a new two-year floating rate note auctioned on July 25, 2012, and issued on July 31, 2012, with a maturity date of July 31, 2014, and an interest accrual rate on the issue date of 0.215022819% (index rate of 0.095022819% plus a spread of 0.120%), solve for the price per 100 (P). This interest accrual rate is used for each daily interest accrual over the life of the security for the purposes of this example. In a new issuance (not a reopening) of a floating rate note, the discount margin determined at auction will be equal to the spread.
 Definitions:
-T0 = July 31, 2012.
+T 0 = July 31, 2012.
 N = 8.
-TN = July 31, 2014.
+T N = July 31, 2014.
 r = 0.095022819%.
 s = 0.120%.
 m = 0.120%.
 As of the issue date the latest 13-week bill, auctioned at least two days prior, has the following information:
 Table 1—13-Week Bill Auction Data
-Auction date | Issue date | Maturity date | Auctionclearing price | Auction high rate | Index rate
+Auction date | Issue date | Maturity date | Auction clearing price | Auction high rate | Index rate
 7/23/2012 | 7/26/2012 | 10/25/2012 | 99.975986 | 0.095% | 0.095022819%
 The rationale for using a 13-week bill auction that has occurred at least two days prior to the issue date is due to the two-business-day lockout period. This lockout period applies only to the issue date and interest payment dates, thus any 13-week bill auction that occurs during the two-day lockout period is not used for calculations related to the issue date and interest payment dates. The following sample calendar depicts this relationship for the floating rate note issue date.
 ER31JY13.001
@@ -586,20 +584,20 @@ Issue Date: T 0 = 7/31/2012
 7th Interest Date: T 7 = 4/30/2014 | T 7 − T 6 = 89
 8th Interest & Maturity Dates: T 8 = 7/31/2014 | T 8 − T 7 = 92
 Let
-a i = 100 × max(r + s,0)/360
+a i = 100 × max(r + s, 0)/360
 and
-A i = a i × (T i − T i −1) + 100 × 1{i = 8}
-a i represents the daily projected interest, for a $100 par value, that will accrue between the future interest payment dates T i −1 and T i, where i = 1,2,...,8. a i's are computed using the spread s = 0.120% obtained at the auction, and the fixed index rate of r = 0.095022819% applicable to the issue date (7/31/2012). For example:
+A i = a i × (T i − T i −1) + 100 × 1 {i = 8}
+a i represents the daily projected interest, for a $100 par value, that will accrue between the future interest payment dates T i −1 and T i, where i = 1,2,...,8. a i 's are computed using the spread s = 0.120% obtained at the auction, and the fixed index rate of r = 0.095022819% applicable to the issue date (7/31/2012). For example:
 a 1 = 100 × max(0.00095022819 + 0.00120,0)/360 = 0.000597286
-A i represents the projected cash flow the floating rate note holder will receive, for a $100 par value, at the future interest payment date T i, where i = 1,2,...,8. T i − T i −1 is the number of days between the future interest payment dates T i −1 and T i. To account for the payback of the par value, the variable 1{i = 8} takes the value 1 if the payment date is the maturity date, or 0 otherwise. For example:
+A i represents the projected cash flow the floating rate note holder will receive, for a $100 par value, at the future interest payment date T i, where i = 1,2,...,8. T i − T i −1 is the number of days between the future interest payment dates T i −1 and T i. To account for the payback of the par value, the variable 1 {i = 8} takes the value 1 if the payment date is the maturity date, or 0 otherwise. For example:
 A i = 92 × 0.000597286 = 0.054950312
 and
 A 8 = 92 × 0.000597286 + 100 = 100.054950312
 Let
 B i = 1 + (r + m) × (T i − T i − 1)/360
-B i represents the projected compound factor between the future dates T i −1 and T i, where i = 1,2,...,8. All Bi's are computed using the discount margin m = 0.120% (equals the spread determined at the auction), and the fixed index rate of r = 0.095022819% applicable to the issue date (7/31/2012). For example:
+B i represents the projected compound factor between the future dates T i −1 and T i, where i = 1,2,...,8. All B i 's are computed using the discount margin m = 0.120% (equals the spread determined at the auction), and the fixed index rate of r = 0.095022819% applicable to the issue date (7/31/2012). For example:
 B 3 = 1 + (0.00095022819 + 0.00120) × 89/360 = 1.000531584.
-The following table shows the projected daily accrued interest values for $100 par value (a i's), cash flows at interest payment dates (A i's), and the compound factors between payment dates (B i's).
+The following table shows the projected daily accrued interest values for $100 par value (a i 's), cash flows at interest payment dates (A i 's), and the compound factors between payment dates (B i 's).
 Table 3—Projected Cash Flows and Compound Factors
 i | a i | A i | B i
 1 | 0.000597286 | 0.054950312 | 1.000549503
@@ -619,15 +617,15 @@ ER31JY13.003
 Example:
 The purpose of this example is to demonstrate how a floating rate note auction can result in a price at a premium given a negative discount margin and spread at auction. For a new two-year floating rate note auctioned on July 25, 2012, and issued on July 31, 2012, with a maturity date of July 31, 2014, solve for the price per 100 (P). In a new issue (not a reopening) of a floating rate note, the discount margin established at auction will be equal to the spread. In this example, the discount margin determined at auction is −0.150%, but the floating rate note is subject to a daily interest rate accrual minimum of 0.000%.
 Definitions:
-T0 = July 31, 2012.
+T 0 = July 31, 2012.
 N = 8.
-TN = July 31, 2014.
+T N = July 31, 2014.
 r = 0.095022819%.
 s = −0.150%.
 m = −0.150%.
 As of the issue date the latest 13-week bill, auctioned at least two days prior, has the following information:
 Table 1—13-Week Bill Auction Data
-Auction date | Issue date | Maturity date | Auctionclearing price | Auction high rate | Index rate
+Auction date | Issue date | Maturity date | Auction clearing price | Auction high rate | Index rate
 7/23/2012 | 7/26/2012 | 10/25/2012 | 99.975986 | 0.095% | 0.095022819%
 ER31JY13.004
 Computing the Projected Cash Flows
@@ -644,20 +642,20 @@ Issue Date: T 0 = 7/31/2012
 7th Interest Date: T 7 = 4/30/2014 | T 7 − T 6 = 89
 8th Interest & Maturity Dates: T 8 = 7/31/2014 | T 8 − T 7 = 92
 Let
-a i = 100 × max(r + s,0)/360
+a i = 100 × max(r + s, 0)/360
 and
-A i = a i × (T i − T i − 1) + 100 × 1{i = 8}
-a i Represents the daily projected interest, for a $100 par value, that will accrue between the future interest payment dates T i − 1 and T i where i = 1,2,...,8. a i's are computed using the spread s = − 0.150%, and the fixed index rate of r = 0.095022819% applicable to the issue date (7/31/2012). For example:
+A i = a i × (T i − T i − 1) + 100 × 1 {i = 8}
+a i Represents the daily projected interest, for a $100 par value, that will accrue between the future interest payment dates T i − 1 and T i where i = 1,2,...,8. a i 's are computed using the spread s = − 0.150%, and the fixed index rate of r = 0.095022819% applicable to the issue date (7/31/2012). For example:
 a i = 100 × max(0.00095022819−0.00150,0)/360 = 100 × 0/360 = 0.000000000
-A i represents the projected cash flow the floating rate note holder will receive, for a $100 par value, at the future interest payment date T i, where i = 1,2,..., 8. T i − T i −1 is the number of days between the future interest payment dates T i −1 and T i. To account for the payback of the par value, the variable 1{ i=8} takes the value 1 if the payment date is the maturity date, or 0 otherwise. For example:
+A i represents the projected cash flow the floating rate note holder will receive, for a $100 par value, at the future interest payment date T i, where i = 1,2,..., 8. T i − T i −1 is the number of days between the future interest payment dates T i −1 and T i. To account for the payback of the par value, the variable 1 { i = 8} takes the value 1 if the payment date is the maturity date, or 0 otherwise. For example:
 A 1 = 92 × 0.000000000 = 0.000000000
 and
 A 8 = 92 × 0.000000000 + 100 = 100.000000000
 Let
-B i = 1 + (r + m) × (T i-T i −1)/360
-B i represents the projected compound factor between the future dates T i −1 and T i, where i = 1,2,..., 8. All B i's are computed using the discount margin m = −0.150% (equals the spread obtained at the auction), and the fixed index rate of r = 0.095022819% applicable to the issue date (7/31/2012). For example:
+B i = 1 + (r + m) × (T i - T i −1)/360
+B i represents the projected compound factor between the future dates T i −1 and T i, where i = 1,2,..., 8. All B i 's are computed using the discount margin m = −0.150% (equals the spread obtained at the auction), and the fixed index rate of r = 0.095022819% applicable to the issue date (7/31/2012). For example:
 B 3 = 1 + (0.00095022819−0.00150) × 89/360 = 0.999864084.
-The following table shows the projected daily accrued interests for $100 par value (a i's), cash flows at interest payment dates (A i's), and the compound factors between payment dates (B i's).
+The following table shows the projected daily accrued interests for $100 par value (a i 's), cash flows at interest payment dates (A i 's), and the compound factors between payment dates (B i 's).
 Table 3—Projected Cash Flows and Compound Factors
 i | a i | A i | B i
 1 | 0.000000000 | 0.000000000 | 0.999859503
@@ -672,19 +670,19 @@ Computing the Price
 The price is computed as follows:
 ER31JY13.005
 Definitions for Reopenings of Floating Rate Notes and Calculation of Interest Payments
-IP i = the quarterly interest payment at date Ti.
-PD = the price that includes the accrued interest per $100 par value as of the reopening issue date.
+IP i = the quarterly interest payment at date T i.
+P D = the price that includes the accrued interest per $100 par value as of the reopening issue date.
 AI = accrued interest per $100 par value as of the reopening issue date.
-PC = the price without accrued interest per $100 par value as of the reopening issue date.
-T−1 = the dated date if the reopening occurs before the first interest payment date, or, otherwise, the latest interest payment date prior to the reopening issue date.
-T0 = the reopening issue date.
+P C = the price without accrued interest per $100 par value as of the reopening issue date.
+T −1 = the dated date if the reopening occurs before the first interest payment date, or, otherwise, the latest interest payment date prior to the reopening issue date.
+T 0 = the reopening issue date.
 N = the total number of remaining quarterly interest payments as of the reopening issue date.
-i and k = indexes that identify the sequence of interest payment dates relative to the issue date. For example T1, T2, and T3 represent the first, second, and the third interest payment dates after the issue date respectively, while T−1 represents the preceding interest payment date before the issue date.
+i and k = indexes that identify the sequence of interest payment dates relative to the issue date. For example T 1, T 2, and T 3 represent the first, second, and the third interest payment dates after the issue date respectively, while T −1 represents the preceding interest payment date before the issue date.
 j = an index that identifies days between consecutive interest payment dates.
-Ti = the ith remaining quarterly interest payment date.
-Ti − Ti−1 = the number of days between the interest payment date Ti and the preceding interest payment date.
-TN = the maturity date.
-r j's = the effective index rates for days between the last interest payment date and the reopening issue date.
+T i = the i th remaining quarterly interest payment date.
+T i − T i−1 = the number of days between the interest payment date T i and the preceding interest payment date.
+T N = the maturity date.
+r j 's = the effective index rates for days between the last interest payment date and the reopening issue date.
 r = the index rate applicable to the reopening issue date.
 s = the spread.
 m = the discount margin.
@@ -693,18 +691,18 @@ Formula:
 ER26SE13.512
 ER26SE13.101
 Example:
-The purpose of this example is to determine the floating rate note prices with and without accrued interest at the time of the reopening auction. For a two-year floating rate note that was originally auctioned on July 25, 2012, with an issue date of July 31, 2012, reopened in an auction on August 30, 2012 and issued on August 31, 2012, with a maturity date of July 31, 2014, solve for accrued interest per 100 (AI), the price with accrued interest per 100 (PD) and the price without accrued interest per 100 (PC). Since this is a reopening of an original issue from the prior month, Table 2 as shown in the example is used for accrued interest calculations. In the case of floating rate note reopenings, the spread on the security remains equal to the spread that was established at the original auction of the floating rate notes.
+The purpose of this example is to determine the floating rate note prices with and without accrued interest at the time of the reopening auction. For a two-year floating rate note that was originally auctioned on July 25, 2012, with an issue date of July 31, 2012, reopened in an auction on August 30, 2012 and issued on August 31, 2012, with a maturity date of July 31, 2014, solve for accrued interest per 100 (AI), the price with accrued interest per 100 (P D) and the price without accrued interest per 100 (P C). Since this is a reopening of an original issue from the prior month, Table 2 as shown in the example is used for accrued interest calculations. In the case of floating rate note reopenings, the spread on the security remains equal to the spread that was established at the original auction of the floating rate notes.
 Definitions:
-T−1 = July 31, 2012.
-T0 = August 31, 2012.
+T −1 = July 31, 2012.
+T 0 = August 31, 2012.
 N = 8.
-TN = July 31, 2014.
+T N = July 31, 2014.
 r = 0.105027876%.
 s = 0.120%.
 m = 0.100%.
 The following table shows the past results for the 13-week bill auction.
 Table 1—13-Week Bill Auction Data
-Auction date | Issue date | Maturity date | Auctionclearing price | Auctionhigh rate (percent) | Index rate(percent)
+Auction date | Issue date | Maturity date | Auction clearing price | Auction high rate (percent) | Index rate (percent)
 7/23/2012 | 7/26/2012 | 10/25/2012 | 99.975986 | 0.095 | 0.095022819
 7/30/2012 | 8/2/2012 | 11/1/2012 | 99.972194 | 0.110 | 0.110030595
 8/6/2012 | 8/9/2012 | 11/8/2012 | 99.974722 | 0.100 | 0.100025284
@@ -714,7 +712,7 @@ Auction date | Issue date | Maturity date | Auctionclearing price | Auctionhigh 
 ER31JY13.007
 The following table shows the index rates applicable for the accrued interest.
 Table 2—Applicable Index Rate
-Accrual starts | Accrual ends | Number of days in accrual period | Applicable floating rate | Auction date | Index rate(percent)
+Accrual starts | Accrual ends | Number of days in accrual period | Applicable floating rate | Auction date | Index rate (percent)
 7/31/2012 | 7/31/2012 | 1 | 7/23/2012 | 0.095022819
 8/1/2012 | 8/6/2012 | 6 | 7/30/2012 | 0.110030595
 8/7/2012 | 8/13/2012 | 7 | 8/6/2012 | 0.100025284
@@ -754,18 +752,18 @@ New Issue Date: T 0 = 8/31/2012 | T 0 − T −1 = 31
 Let
 a i = 100 × max(r + s, 0)/360
 and
-A i = a i × (T i − T i −1) + 100 × 1{ i = 8}
-a i represents the daily projected interest, for a $100 par value, that will accrue between the future interest payment dates T i −1 and T i, where i = 1,2,...,8. a i's are computed using the spread s = 0.120% obtained at the original auction, and the fixed index rate of r = 0.105027876% applicable to the new issue date (8/31/2012). For example:
+A i = a i × (T i − T i −1) + 100 × 1 { i = 8}
+a i represents the daily projected interest, for a $100 par value, that will accrue between the future interest payment dates T i −1 and T i, where i = 1,2,...,8. a i 's are computed using the spread s = 0.120% obtained at the original auction, and the fixed index rate of r = 0.105027876% applicable to the new issue date (8/31/2012). For example:
 a i = 100 × max(0.00105027876 + 0.00120,0)/360 = 0.000625077
-A i represents the projected cash flow the floating rate note holder will receive, less accrued interest, for a $100 par value, at the future interest payment date T i, where i = 1,2,...,8. T i − T i - 1 is the number of days between the future interest payment dates T i −1 and T i. To account for the payback of the par value, the variable 1{ i = 8} takes the value 1 if the payment date is the maturity date, or 0 otherwise. For example:
+A i represents the projected cash flow the floating rate note holder will receive, less accrued interest, for a $100 par value, at the future interest payment date T i, where i = 1,2,...,8. T i − T i - 1 is the number of days between the future interest payment dates T i −1 and T i. To account for the payback of the par value, the variable 1 { i = 8} takes the value 1 if the payment date is the maturity date, or 0 otherwise. For example:
 A 1 = 61 × 0.000625077 = 0.038129697
 and
 A 8 = 92 × 0.000625077 + 100 = 100.057507084
 Let
 B i = 1 + (r + m) × (T i − T i -1)/360
-B i represents the projected compound factor between the future dates T i −1 and T i, where i = 1,2,...,8. AllB i's are computed using the discount margin m = 0.100% obtained at the reopening auction, and the fixed index rate of r = 0.105027876% applicable to the new issue date (8/31/2012). For example:
+B i represents the projected compound factor between the future dates T i −1 and T i, where i = 1,2,...,8. All B i 's are computed using the discount margin m = 0.100% obtained at the reopening auction, and the fixed index rate of r = 0.105027876% applicable to the new issue date (8/31/2012). For example:
 B 3 = 1 + (0.00105027876 + 0.00100) × 89/360 = 1.000506874
-The following table shows the projected daily accrued interests for $100 par value (a i's), cash flows at interest payment dates (A i's), and the compound factors between payment dates (B i's).
+The following table shows the projected daily accrued interests for $100 par value (a i 's), cash flows at interest payment dates (A i 's), and the compound factors between payment dates (B i 's).
 Table 4—Projected Cash Flows and Compound Factors
 i | a i | A i | B i
 1 | 0.000625077 | 0.038129697 | 1.000347408
@@ -781,18 +779,12 @@ The price with accrued interest is computed as follows:
 ER31JY13.008
 D. For calculating interest payments:
 Example:
-For a new issue of a two-year floating rate note auctioned on July 25, 2012, and issued on July 31, 2012, with a maturity date of July 31, 2014, and a first interest payment date of October 31, 2012, calculate the quarterly interest payments (IPi) per 100. In a new issuance (not a reopening) of a new floating rate note, the discount margin determined at auction will be equal to the spread. The interest accrual rate used for this floating rate note on the issue date is 0.215022819% (index rate of 0.095022819% plus a spread of 0.120%) and this rate is used for each daily interest accrual over the life of the security for the purposes of this example.
+For a new issue of a two-year floating rate note auctioned on July 25, 2012, and issued on July 31, 2012, with a maturity date of July 31, 2014, and a first interest payment date of October 31, 2012, calculate the quarterly interest payments (IP i) per 100. In a new issuance (not a reopening) of a new floating rate note, the discount margin determined at auction will be equal to the spread. The interest accrual rate used for this floating rate note on the issue date is 0.215022819% (index rate of 0.095022819% plus a spread of 0.120%) and this rate is used for each daily interest accrual over the life of the security for the purposes of this example.
 ER01JY16.004
-Example 1: Projected interest payment as of the original issue date.
-T0 = July 31, 2012.
-N = 8.
-TN = July 31, 2014.
-r = 0.095022819%.
-s = 0.120%.
-m = 0.120%.
+Example 1: Projected interest payment as of the original issue date. T 0 = July 31, 2012. N = 8. T N = July 31, 2014. r = 0.095022819%. s = 0.120%. m = 0.120%.
 As of the issue date the latest 13-week bill, auctioned at least two days prior, has the following information:
 Table 1—13-Week Bill Auction Data
-Auction date | Issue date | Maturity date | Auctionclearing price | Auction high rate | Index rate
+Auction date | Issue date | Maturity date | Auction clearing price | Auction high rate | Index rate
 7/23/2012 | 7/26/2012 | 10/25/2012 | 99.975986 | 0.095% | 0.095022819%
 ER31JY13.011
 Computing the Projected Cash Flows
@@ -824,18 +816,17 @@ i | Dates | IP i
 6 | 1/31/2014 | 0.054950312
 7 | 4/30/2014 | 0.053158454
 8 | 7/31/2014 | 0.054950312
-Example 2: Projected interest payment as of the reopening issue date (intermediate values, including rates in percentage terms, are rounded to nine decimal places).
-This example demonstrates the calculations required to determine the interest payment due when the reopened floating rate note is issued. This example also demonstrates the need to calculate accrued interest at the time of a floating rate reopening auction. Since this is a reopening of an original issue from 31 days prior, Table 5 as shown in the example is used for accrued interest calculations. For a two-year floating rate note originally auctioned on July 25, 2012 with an original issue date of July 31, 2012, reopened by an auction on August 30, 2012 and issued on August 31, 2012, with a maturity date of July 31, 2014, calculate the quarterly interest payments (IPI) per 100. T−1 is the dated date if the reopening occurs before the first interest payment date, or otherwise the latest interest payment date prior to the new issue date.
-T−1 = July 31, 2012.
-T0 = August 31, 2012.
+Example 2: Projected interest payment as of the reopening issue date (intermediate values, including rates in percentage terms, are rounded to nine decimal places). This example demonstrates the calculations required to determine the interest payment due when the reopened floating rate note is issued. This example also demonstrates the need to calculate accrued interest at the time of a floating rate reopening auction. Since this is a reopening of an original issue from 31 days prior, Table 5 as shown in the example is used for accrued interest calculations. For a two-year floating rate note originally auctioned on July 25, 2012 with an original issue date of July 31, 2012, reopened by an auction on August 30, 2012 and issued on August 31, 2012, with a maturity date of July 31, 2014, calculate the quarterly interest payments (IP I) per 100. T −1 is the dated date if the reopening occurs before the first interest payment date, or otherwise the latest interest payment date prior to the new issue date.
+T −1 = July 31, 2012.
+T 0 = August 31, 2012.
 N = 8.
-TN = July 31, 2014.
+T N = July 31, 2014.
 r = 0.105027876%.
 s = 0.120%.
 m = 0.100%.
 The following table shows the past results for the 13-week bill auction.
 Table 4—13-Week Bill Auction Data
-Auction date | Issue date | Maturity date | Auctionclearing price | Auctionhigh rate (percent) | Index rate(percent)
+Auction date | Issue date | Maturity date | Auction clearing price | Auction high rate (percent) | Index rate (percent)
 7/23/2012 | 7/26/2012 | 10/25/2012 | 99.975986 | 0.095 | 0.095022819
 7/30/2012 | 8/2/2012 | 11/1/2012 | 99.972194 | 0.110 | 0.110030595
 8/6/2012 | 8/9/2012 | 11/8/2012 | 99.974722 | 0.100 | 0.100025284
@@ -845,7 +836,7 @@ Auction date | Issue date | Maturity date | Auctionclearing price | Auctionhigh 
 ER31JY13.012
 The following table shows the index rates applicable for the accrued interest.
 Table 5—Applicable Index Rate
-Accrual starts | Accrual ends | Number of days inaccrual period | Applicable floating rate | Auction date | Index rate(percent)
+Accrual starts | Accrual ends | Number of days in accrual period | Applicable floating rate | Auction date | Index rate (percent)
 7/31/2012 | 7/31/2012 | 1 | 7/23/2012 | 0.095022819
 8/1/2012 | 8/6/2012 | 6 | 7/30/2012 | 0.110030595
 8/7/2012 | 8/13/2012 | 7 | 8/6/2012 | 0.100025284
@@ -911,7 +902,7 @@ j = an index that identifies days between the dated date and the issue date.
 T i = the i th quarterly future interest payment date.
 T i − T i−1 = the number of days between the interest payment date T i and the preceding interest payment date.
 T N = the maturity date.
-r j's = the effective index rates for days between the dated date and the issue date.
+r j 's = the effective index rates for days between the dated date and the issue date.
 r = the index rate applicable to the issue date.
 s = the spread.
 m = the discount margin.
@@ -929,12 +920,12 @@ Spread = 1.000% at auction.
 Discount margin = 1.000%.
 As of the issue date the latest 13-week bill, auctioned at least two days prior, has the following information:
 Table 1—13-WEEK BILL AUCTION DATA
-Auction date | Issue date | Maturity date | Auctionclearing price | Auction high rate | Index rate
+Auction date | Issue date | Maturity date | Auction clearing price | Auction high rate | Index rate
 12/27/2011 | 12/29/2011 | 3/29/2012 | 99.993681 | 0.025% | 0.025001580%
 ER31JY13.014
 The following table shows the index rates applicable for the accrued interest.
 Table 2—Applicable Index Rate
-Accrual starts | Accrual ends | Number of days inaccrual period | Applicable floating rate | Auction date | Index rate
+Accrual starts | Accrual ends | Number of days in accrual period | Applicable floating rate | Auction date | Index rate
 12/31/2011 | 1/2/2012 | 3 | 12/27/2011 | 0.025001580%
 Computing the accrued interest
 The accrued interest as of the new issue date (1/3/2012) for a $100 par value is:
@@ -958,18 +949,18 @@ Issue Date: T 0 = 1/3/2012 | T 0 − T −1 = 3
 Let
 a i = 100 × max(r + s, 0)/360
 and
-A i = a i × (T i − T i −1) + 100 × 1{ i = 8}
-a i represents the daily projected interest, for a $100 par value, that will accrue between the future interest payment dates T i −1 and T i, where i = 1,2,...,8. a i's are computed using the spread s = 1.000% obtained at the auction, and the fixed index rate of r = 0.025001580% applicable to the issue date (1/3/2012). For example:
+A i = a i × (T i − T i −1) + 100 × 1 { i = 8}
+a i represents the daily projected interest, for a $100 par value, that will accrue between the future interest payment dates T i −1 and T i, where i = 1,2,...,8. a i 's are computed using the spread s = 1.000% obtained at the auction, and the fixed index rate of r = 0.025001580% applicable to the issue date (1/3/2012). For example:
 a 1 = 100 × max(0.00025001580 + 0.01000,0)/360 = 0.002847227
-A i represents the projected cash flow the floating rate note holder will receive, less accrued interest, for a $100 par value, at the future interest payment date T i, where i = 1,2,...,8. T i − T i −1 is the number of days between the future interest payment dates T i -1 and T i. To account for the payback of the par value, the variable 1{ i = 8} takes the value 1 if the payment date is the maturity date, or 0 otherwise. For example:
+A i represents the projected cash flow the floating rate note holder will receive, less accrued interest, for a $100 par value, at the future interest payment date T i, where i = 1,2,...,8. T i − T i −1 is the number of days between the future interest payment dates T i -1 and T i. To account for the payback of the par value, the variable 1 { i = 8} takes the value 1 if the payment date is the maturity date, or 0 otherwise. For example:
 A 1 = 88 × 0.002847227 = 0.250555976
 and
 A 8 = 92 × 0.002847227 + 100 = 100.261944884
 Let
-B i = 1 + (r + m) × (Ti − T i −1)/360
-B i represents the projected compound factor between the future dates T i −1 and T i, where i = 1,2,...,8. All B i's are computed using the discount margin m = 1.000% (equals the spread obtained at the auction), and the fixed index rate of r = 0.025001580% applicable to the issue date (1/3/2012). For example:
+B i = 1 + (r + m) × (T i − T i −1)/360
+B i represents the projected compound factor between the future dates T i −1 and T i, where i = 1,2,...,8. All B i 's are computed using the discount margin m = 1.000% (equals the spread obtained at the auction), and the fixed index rate of r = 0.025001580% applicable to the issue date (1/3/2012). For example:
 B 3 = 1 + (0.00025001580 + 0.01000) × 92/360 = 1.002619448
-The following table shows the projected daily accrued interests for $100 par value (a i 's), cash flows at interest payment dates (A i 's), and the compound factors between payment dates (B i's).
+The following table shows the projected daily accrued interests for $100 par value (a i 's), cash flows at interest payment dates (A i 's), and the compound factors between payment dates (B i 's).
 Table 4—Projected Cash Flows and Compound Factors
 i | a i | A i | B i
 1 | 0.002847227 | 0.250555976 | 1.002505559
@@ -986,22 +977,22 @@ ER31JY13.015
 V. Computation of Adjusted Values and Payment Amounts for Stripped Inflation-Protected Interest Components
 Note: Valuing an interest component stripped from an inflation-protected security at its adjusted value enables this interest component to be interchangeable (fungible) with other interest components that have the same maturity date, regardless of the underlying inflation-protected security from which the interest components were stripped. The adjusted value provides for fungibility of these various interest components when buying, selling, or transferring them or when reconstituting an inflation-protected security.
 Definitions:
-c = C/100 = the regular annual interest rate, payable semiannually, e.g.,.03625 (the decimal equivalent of a 35/8% interest rate)
+c = C/100 = the regular annual interest rate, payable semiannually, e.g.,.03625 (the decimal equivalent of a 3 5/8 % interest rate)
 Par = par amount of the security to be stripped
-Ref CPIIssueDate = reference CPI for the original issue date (or dated date, when the dated date is different from the original issue date) of the underlying (unstripped) security
-Ref CPIDate = reference CPI for the maturity date of the interest component
+Ref CPI IssueDate = reference CPI for the original issue date (or dated date, when the dated date is different from the original issue date) of the underlying (unstripped) security
+Ref CPI Date = reference CPI for the maturity date of the interest component
 AV = adjusted value of the interest component
 PA = payment amount at maturity by Treasury
 Formulas:
-AV = Par(C/2)(100/Ref CPIIssueDate) (rounded to 2 decimals with no intermediate rounding)
-PA = AV(Ref CPIDate/100) (rounded to 2 decimals with no intermediate rounding)
+AV = Par(C/2)(100/Ref CPI IssueDate) (rounded to 2 decimals with no intermediate rounding)
+PA = AV(Ref CPI Date /100) (rounded to 2 decimals with no intermediate rounding)
 Example:
-A 10-year inflation-protected note paying 37/8% interest was issued on January 15, 1999, with the second interest payment on January 15, 2000. The Ref CPI of January 15, 1999 (Ref CPIIssueDate) was 164.00000, and the Ref CPI on January 15, 2000 (Ref CPIDate) was 168.24516. Calculate the adjusted value and the payment amount at maturity of the interest component.
+A 10-year inflation-protected note paying 3 7/8 % interest was issued on January 15, 1999, with the second interest payment on January 15, 2000. The Ref CPI of January 15, 1999 (Ref CPI IssueDate) was 164.00000, and the Ref CPI on January 15, 2000 (Ref CPI Date) was 168.24516. Calculate the adjusted value and the payment amount at maturity of the interest component.
 Definitions:
 c =.03875
 Par = $1,000,000
-Ref CPIIssueDate = 164.00000
-Ref CPIDate = 168.24516
+Ref CPI IssueDate = 164.00000
+Ref CPI Date = 168.24516
 Resolution:
 For a par amount of $1 million, the adjusted value of each stripped interest component was $1,000,000(.03875/2)(100/164.00000), or $11,814.02 (no intermediate rounding).
 For an interest component that matured on January 15, 2000, the payment amount was $11,814.02 (168.24516/100), or $19,876.52 (no intermediate rounding).
@@ -1058,7 +1049,7 @@ Where:
 i = investment rate, in decimals.
 P = price per 100 (dollars).
 r = number of days remaining to maturity.
-y = number of days in year following the issue date; normally 365 but, if the year following the issue date includes February 29, then y is 366.
+y = number of days in year following the issue date; normally 365, but if the period from the issue date to the same date 1 year ahead contains February 29, then y is 366. (e.g., 2020 is a leap year. Suppose the issue date for a 26-week bill is February 28, 2019. The date 1 year ahead is February 28, 2020. That 1-year period from the issue date of the bill does not contain "February 29," therefore y = 365. Now suppose the issue date of a 26-week bill is March 1, 2019. The date 1 year ahead is March 1, 2020. That 1-year period from the issue date of the bill contains "February 29," therefore y = 366.)
 Example:
 For a cash management bill issued June 1, 1990, due June 21, 1990, with a price of $99.559444 (computed from a discount rate of 7.930%), solve for the investment rate (i).
 Definitions:
@@ -1086,7 +1077,7 @@ a = (r/2y) −.25.
 c = (P−100)/P.
 P = price per 100 (dollars).
 r = number of days remaining to maturity.
-y = number of days in year following the issue date; normally 365, but if the year following the issue date includes February 29, then y is 366.
+y = number of days in year following the issue date; normally 365, but if the period from the issue date to the same date 1 year ahead contains February 29, then y is 366. (e.g., 2020 is a leap year. Suppose the issue date for a 26-week bill is February 28, 2019. The date 1 year ahead is February 28, 2020. That 1-year period from the issue date of the bill does not contain "February 29," therefore y = 365. Now suppose the issue date of a 26-week bill is March 1, 2019. The date 1 year ahead is March 1, 2020. That 1-year period from the issue date of the bill contains "February 29," therefore y = 366.)
 Example:
 For a 52-week bill issued June 7, 1990, due June 6, 1991, with a price of $92.265000 (computed from a discount rate of 7.65%), solve for the investment rate (i).
 Definitions:
