@@ -81,7 +81,7 @@ VII. List of Acute and Critical Regulations.
 § 382.301(a) Using a driver before the motor carrier has received a negative pre-employment controlled substance test result (critical).
 § 382.303(a) Failing to conduct post accident testing on driver for alcohol (critical).
 § 382.303(b) Failing to conduct post accident testing on driver for controlled substances (critical).
-§ 382.305 Failing to implement a random controlled substances and/or an alcohol testing program (acute).
+§ 382.305(a) Failing to implement a random controlled substances and/or an alcohol testing program (acute).
 § 382.305(b)(1) Failing to conduct random alcohol testing at an annual rate of not less than the applicable annual rate of the average number of driver positions (critical).
 § 382.305(b)(2) Failing to conduct random controlled substances testing at an annual rate of not less than the applicable annual rate of the average number of driver positions (critical).
 § 382.309 Using a driver who has not undergone return-to-duty testing with a negative drug test result and/or an alcohol test with an alcohol concentration of less than 0.02 in accordance with 49 CFR 40.305 (acute).
@@ -89,9 +89,9 @@ VII. List of Acute and Critical Regulations.
 § 382.505(a) Using a driver within 24 hours after being found to have an alcohol concentration of 0.02 or greater but less than 0.04 (acute).
 § 382.605 Failing to subject a driver who has been identified as needing assistance to at least six unannounced follow-up drug and/or alcohol tests in the first 12 months following the driver's return-to-duty in accordance with 49 CFR 40.307 (critical).
 § 383.23(a) Operating a commercial motor vehicle without a valid commercial driver's license (critical).
-§ 383.37(a) Knowingly allowing, requiring, permitting, or authorizing an employee who does not have a current CLP or CDL, who does not have a CLP or CDL with the proper class or endorsements, or who operates a CMV in violation of any restriction on the CLP or CDL to operate a CMV (acute).
-§ 383.37(b) Knowingly allowing, requiring, permitting, or authorizing an employee with a commercial driver's license which is suspended, revoked, or canceled by a state or who is disqualified to operate a commercial motor vehicle (acute).
-§ 383.37(c) Knowingly allowing, requiring, permitting, or authorizing an employee with more than one commercial driver's license to operate a commercial motor vehicle (acute).
+§ 383.37(a) Allowing, requiring, permitting, or authorizing a driver to operate a CMV who the employer knew or should reasonably have known does not have a current CLP or CDL, does not have a CLP or CDL with the proper class or endorsements, or operates a CMV in violation of any restriction on the CLP or CDL (acute).
+§ 383.37(b) Allowing, requiring, permitting, or authorizing a driver to operate a CMV who the employer knew or should reasonably have known has a CLP or CDL disqualified by a State, has lost the right to operate a CMV in a State, or has been disqualified (acute).
+§ 383.37(c) Allowing, requiring, permitting, or authorizing a driver to operate a CMV who the employer knew or should reasonably have known has more than one CLP or CDL (acute).
 § 383.51(a) Knowingly allowing, requiring, permitting, or authorizing a driver to drive who is disqualified to drive a commercial motor vehicle (acute).
 § 387.7(a) Operating a motor vehicle without having in effect the required minimum levels of financial responsibility coverage (acute).
 § 387.7(d) Failing to maintain at principal place of business required proof of financial responsibility (critical).
@@ -105,7 +105,7 @@ VII. List of Acute and Critical Regulations.
 § 391.45(b) Using a driver not medically examined and certified during the preceding 24 months (critical).
 § 391.51(a) Failing to maintain driver qualification file on each driver employed (critical).
 § 391.51(b)(2) Failing to maintain inquiries into driver's driving record in driver's qualification file (critical).
-§ 391.51(b)(7) Failing to maintain medical examiner's certificate in driver's qualification file (critical).
+§ 391.51(b)(6) Failing to maintain medical examiner's certificate in driver's qualification file (critical).
 § 392.2 Operating a motor vehicle not in accordance with the laws, ordinances, and regulations of the jurisdiction in which it is being operated (critical).
 § 392.4(b) Requiring or permitting a driver to drive while under the influence of, or in possession of, a narcotic drug, amphetamine, or any other substance capable of rendering the driver incapable of safely operating a motor vehicle (acute).
 § 392.5(b)(1) Requiring or permitting a driver to drive a motor vehicle while under the influence of, or in possession of, an intoxicating beverage (acute).
