@@ -1,45 +1,100 @@
-# Appendix R to Subpart B of Part 430—Uniform Test Method for Measuring Average Lamp Efficacy (LE), Color Rendering Index (CRI), and Correlated Color Temperature (CCT) of Electric Lamps
-1. Scope: This appendix applies to the measurement of lamp lumens, electrical characteristics, CRI, and CCT for general service fluorescent lamps, and to the measurement of lamp lumens, electrical characteristics for general service incandescent lamps and incandescent reflector lamps.
+# Appendix R to Subpart B of Part 430—Uniform Test Method for Measuring Electrical and Photometric Characteristics of General Service Fluorescent Lamps, Incandescent Reflector Lamps, and General Service Incandescent Lamps
+Note: After September 30, 2022 and prior to February 27, 2023 any representations with respect to energy use or efficiency of general service fluorescent lamps, incandescent reflector lamps, and general service incandescent lamps must be in accordance with the results of testing pursuant to this appendix or the test procedures as they appeared in appendix R to subpart B of part 430 revised as of January 1, 2021. On or after February 27, 2023, any representations, including certifications of compliance for lamps subject to any energy conservation standard, made with respect to the energy use or efficiency of general service fluorescent lamps, incandescent reflector lamps, and general service incandescent lamps must be made in accordance with the results of testing pursuant to this appendix.
+0. Incorporation by Reference
+DOE incorporated by reference in § 430.3, the entire standard for: IES LM–9–20, IES LM–20–20, IES LM–45–20, IES LM–49–20, IES LM–54–20, IES LM–58–20, IES LM–78–20, ANSI C78.375A–2020, ANSI C78.81–2010, ANSI C78.901–2005, ANSI C78.81–2016, ANSI C78.901–2016, ANSI C82.3, CIE 15:2018, and CIE 13.3; however, only enumerated provisions of IES LM–9–20, IES LM–20–20, IES LM–45–20, IES LM–49–20, IES LM–58–20, and CIE 13.3, are applicable to this appendix, as follows:
+0.1 IES LM–9–20
+(a) Section 3.0 "Nomenclature and Definitions" as referenced in section 2.1 of this appendix.
+(b) Section 6.2.2 "Pre-burning" and Section 6.2.4 "Lamp Circuit Switching" as referenced in section 3.2 of this appendix.
+(c) Section 4.0 "Ambient and Physical Conditions", Section 5.0 "Electrical Conditions", Section 6.1 "Lamp Orientation", Section 6.5 "Electrical Settings", and Section 6.6 "Electrical Instrumentation" as referenced in section 4.1.1.1 of this appendix.
+(d) Section 6.1 "Lamp Orientation", Section 6.2 "Lamp Stabilization", Section 6.3 "Use of the "Peak Lumen" Method", and Section 6.4 "Unusual Conditions" as referenced in section 4.2.1.1 of this appendix.
+(e) Section 7.0 "Photometric Test Procedures" as referenced in section 4.2.1.3 of this appendix.
+(f) Section 7.6 "Color Measurements" as referenced in sections 4.2.1.5 and 4.2.1.6 of this appendix.
+0.2 IES LM–20–20
+(a) Section 3.0 "Definitions" as referenced in section 2.1 of this appendix.
+(b) Section 4.0 "Ambient and Physical Conditions" and Section 5.0 "Electrical and Photometric Test Conditions" as referenced in section 4.1.3 of this appendix.
+(c) Section 6.0 "Lamp Test Procedures" as referenced in sections 4.2.3.1 and 6.2.1 of this appendix.
+(d) Section 7.0 "Photometric Characterization by Measurement of Intensity Distribution", Section 8.0 "Total Flux Measurement by Integrating Sphere Method", and Section 8.2 "Exclusion of Undirected Light by Using a Luminaire Inside an Integrating Sphere" as referenced in section 4.2.3.3 of this appendix.
+0.3 IES LM–45–20
+(a) Section 3.0 "Nomenclature and Definitions" as referenced in section 2.1 of this appendix.
+(b) Section 4.0 "Ambient and Physical Conditions", Section 5.0 "Electrical Conditions", section 6.1 "Lamp Position", Section 6.3 "Electrical Settings", and Section 6.4 "Electrical Instrumentation" as referenced in section 4.1.2 of this appendix.
+(c) Section 6.2 "Lamp Stabilization" as referenced in sections 4.2.2.1 and 6.2.1 of this appendix.
+(d) Section 7.0 "Photometric Test Procedures" as referenced in section 4.2.2.3 of this appendix.
+(e) Section 7.4 "Color Measurements" as referenced in sections 4.2.2.5 and 4.2.2.6 of this appendix.
+0.4 IES LM–49–20
+(a) Section 4.0 "Ambient and Physical Conditions" and Section 5.0 "Electrical Conditions" as referenced in section 6.1 of this appendix.
+(b) Section 6.4 "Operating Cycle" as referenced in sections 6.2.2 and 6.3 of this appendix.
+0.5 IES LM–58–20
+(a) Section 3.0 "Definitions and Nomenclature" as referenced in section 2.1 of this appendix.
+(b) [Reserved]
+0.6 CIE 13.3
+(a) Appendix 1 "Terminology" as referenced in section 2.1 of this appendix.
+(b) [Reserved]
+1. Scope:
+This appendix specifies the test methods required for determining the electrical and photometric performance characteristics of general service fluorescent lamps (GSFLs), incandescent reflector lamps (IRLs), and general service incandescent lamps (GSILs).
 2. Definitions
-2.1 To the extent that definitions in the referenced IESNA and CIE standards do not conflict with the DOE definitions, the definitions specified in section 3.0 of IES LM-9 (incorporated by reference; see § 430.3), section 3.0 of IESNA LM-20 (incorporated by reference; see § 430.3), section 3.0 and the Glossary of IES LM-45 (incorporated by reference; see § 430.3), section 2 of IESNA LM-58 (incorporated by reference; see § 430.3), and Appendix 1 of CIE 13.3 (incorporated by reference; see § 430.3) shall be included.
-2.2 ANSI Standard means a standard developed by a committee accredited by the American National Standards Institute (ANSI).
-2.3 CIE means the International Commission on Illumination.
-2.4 CRI means Color Rendering Index as defined in § 430.2.
-2.5 IESNA means the Illuminating Engineering Society of North America.
-2.6 Lamp efficacy means the ratio of measured lamp lumen output in lumens to the measured lamp electrical power input in watts, rounded to the nearest tenth, in units of lumens per watt.
-2.7 Lamp lumen output means the total luminous flux produced by the lamp, at the reference condition, in units of lumens.
-2.8 Lamp electrical power input means the total electrical power input to the lamp, including both arc and cathode power where appropriate, at the reference condition, in units of watts.
-2.9 Reference condition means the test condition specified in IES LM-9 for general service fluorescent lamps, in IESNA LM-20 for incandescent reflector lamps, and in IES LM-45 for general service incandescent lamps.
-3. Test Conditions
-3.1 General Service Fluorescent Lamps: For general service fluorescent lamps, the ambient conditions of the test and the electrical circuits, reference ballasts, stabilization requirements, instruments, detectors, and photometric test procedure and test report shall be as described in the relevant sections of IES LM-9 (incorporated by reference; see § 430.3).
-3.2 General Service Incandescent Lamps: For general service incandescent lamps, the selection and seasoning (initial burn-in) of the test lamps, the equipment and instrumentation, and the test conditions shall be as described in IES LM-45 (incorporated by reference; see § 430.3).
-3.3 Incandescent Reflector Lamps: For incandescent reflector lamps, the selection and seasoning (initial burn-in) of the test lamps, the equipment and instrumentation, and the test conditions shall conform to sections 4.2 and 5.0 of IESNA LM-20 (incorporated by reference; see § 430.3).
-4. Test Methods and Measurements
-All lumen measurements made with instruments calibrated to the devalued NIST lumen after January 1, 1996, shall be multiplied by 1.011.
-4.1 General Service Fluorescent Lamps
-4.1.1 The measurement procedure shall be as described in IES LM-9 (incorporated by reference; see § 430.3), except that lamps shall be operated at the appropriate voltage and current conditions as described in ANSI C78.375 (incorporated by reference; see § 430.3) and in ANSI C78.81 (incorporated by reference; see § 430.3) or ANSI C78.901 (incorporated by reference; see § 430.3), and lamps shall be operated using the appropriate reference ballast at input voltage specified by the reference circuit as described in ANSI C82.3 (incorporated by reference; see § 430.3). If, for a lamp, both low-frequency and high-frequency reference ballast settings are included in ANSI C78.81 or ANSI C78.901, the lamp shall be operated using the low-frequency reference ballast.
-4.1.2 For lamps not listed in ANSI C78.81 (incorporated by reference; see § 430.3) nor in ANSI C78.901 (incorporated by reference; see § 430.3), the lamp shall be operated using the following reference ballast settings:
-4.1.2.1 4-Foot medium bi-pin lamps shall be operated using the following reference ballast settings: T10 or T12 lamps are to use 236 volts, 0.43 amps, and 439 ohms; T8 lamps are to use 300 volts, 0.265 amps, and 910 ohms.
-4.1.2.2 2-Foot U-shaped lamps shall be operated using the following reference ballast settings: T12 lamps are to use 236 volts, 0.430 amps, and 439 ohms; T8 lamps are to use 300 volts, 0.265 amps, and 910 ohms.
-4.1.2.3 8-foot slimline lamps shall be operated using the following reference ballast settings:
-(a) T12 lamps: 625 volts, 0.425 amps, and 1280 ohms.
-(b) T8 lamps: 625 volts, 0.260 amps, and 1960 ohms.
-4.1.2.4 8-foot high output lamps shall be operated using the following reference ballast settings:
-(a) T12 lamps: 400 volts, 0.800 amps, and 415 ohms.
-(b) T8 lamps: 450 volts, 0.395 amps, and 595 ohms.
-4.1.2.5 4-foot miniature bipin standard output or high output lamps shall be operated using the following reference ballast settings:
-(a) Standard Output: 329 volts, 0.170 amps, and 950 ohms.
-(b) High Output: 235 volts, 0.460 amps, and 255 ohms.
-4.1.3 Lamp lumen output (lumens) and lamp electrical power input (watts), at the reference condition, shall be measured and recorded. Lamp efficacy shall be determined by computing the ratio of the measured lamp lumen output and lamp electrical power input at equilibrium for the reference condition.
-4.2 General Service Incandescent Lamps
-4.2.1 The measurement procedure shall be as described in IES LM-45 (incorporated by reference; see § 430.3). Lamps shall be operated at the rated voltage as defined in § 430.2.
-4.2.2 The test procedure shall conform to sections 6 and 7 of IES LM-45, and the lumen output of the lamp shall be determined in accordance with section 7 of IES LM-45. Lamp electrical power input in watts shall be measured and recorded. Lamp efficacy shall be determined by computing the ratio of the measured lamp lumen output and lamp electrical power input at equilibrium for the reference condition. The test report shall conform to section 8 of IES LM-45.
-4.2.3 The measurement procedure for testing the lifetime of general service incandescent lamps shall be as described in IESNA LM-49 (incorporated by reference; see § 430.3). The lifetime measurement shall be taken by measuring the operating time of a lamp, expressed in hours, not including any off time. The percentage of the sample size that meets the minimum rated lifetime shall be recorded. The lamp shall be deemed to meet minimum rated lifetime standards if greater than 50 percent of the sample size specified in § 429.27 meets the minimum rated lifetime.
-4.2.3.1 Accelerated lifetime testing is not allowed. The second paragraph of section 6.1 of IESNA LM-49 is to be disregarded.
-4.3 Incandescent Reflector Lamps
-4.3.1 The measurement procedure shall be as described in IESNA LM-20 (see 10 CFR 430.22). Lamps shall be operated at the rated voltage as defined in § 430.2.
-4.3.2. Lamp lumen output shall be determined as total forward lumens, and may be measured in an integrating sphere at the reference condition in accordance with § 7.2 of IESNA LM-20 (incorporated by reference; see § 430.3) or from an average intensity distribution curve measured at the reference condition specified in § 6.0 of IESNA LM-20. Lamp electrical power input in watts shall be measured and recorded.
-4.3.3 Lamp efficacy shall be determined by computing the ratio of the measured lamp lumen output and lamp electrical power input at equilibrium for the reference condition. The test report shall conform to section 10.0 of IES LM-20 (incorporated by reference; see § 430.3).
-4.4 Determination of Color Rendering Index and Correlated Color Temperature
-4.4.1 The CRI shall be determined in accordance with the method specified in CIE 13.3 (incorporated by reference; see § 430.3) for general service fluorescent lamps. The CCT shall be determined in accordance with the method specified in IES LM-9 (incorporated by reference; see § 430.3) and rounded to the nearest 10 kelvin for general service fluorescent lamps. The CCT shall be determined in accordance with the CIE 15 (incorporated by reference; see § 430.3) for incandescent lamps. The required spectroradiometric measurement and characterization shall be conducted in accordance with the methods set forth in IESNA LM-58 (incorporated by reference; see § 430.3).
-4.4.2 The test report shall include a description of the test conditions, equipment, measured lamps, spectroradiometric measurement results, and CRI and CCT determinations.
+2.1 To the extent that definitions in the referenced IES and CIE standards do not conflict with the DOE definitions, the definitions specified in Section 3.0 of IES LM–9–20, Section 3.0 of IES LM–20–20, Section 3.0 of IES LM–45–20, Section 3.0 of IES LM–58–20, and Appendix 1 of CIE 13.3 apply in this appendix.
+2.2 Initial input power means the input power to the lamp, measured at the end of the lamp seasoning and stabilization.
+2.3 Initial lamp efficacy means the lamp efficacy (as defined in § 430.2), measured at the end of the lamp seasoning and stabilization.
+2.4 Initial lumen output means the lumen output of the lamp, measured at the end of the lamp seasoning and stabilization.
+2.5 Time to failure means the time elapsed between first use and the point at which the lamp ceases to produce measurable lumen output.
+3. General Instructions
+3.1 When there is a conflict, the language of the test procedure in this appendix takes precedence over any materials incorporated by reference.
+3.2 Maintain lamp operating orientation throughout seasoning and testing, except that for T5 miniature bipin standard and high output GSFLs, follow Section 6.2.2 of IES LM–9–20. For all GSFLs, maintain lamp orientation when transferring lamps from a warm-up position to the photometric equipment per Section 6.2.4 of IES LM–9–20. Maintain lamp orientation at all other times, if practical.
+3.3 If a lamp breaks, becomes defective, fails to stabilize, exhibits abnormal behavior (such as swirling), or stops producing light prior to the end of the seasoning period, replace the lamp with a new unit. However, if a lamp exhibits one of the conditions listed in the previous sentence only after the seasoning period ends, include the lamp's measurements in the sample.
+3.4 Operate GSILs and IRLs at the rated voltage for incandescent lamps as defined in 10 CFR 430.2.
+4. Test Method for Determining Initial Input Power, Initial Lumen Output, Initial Lamp Efficacy, CRI, and CCT
+4.1 Test Conditions and Setup
+4.1.1 General Service Fluorescent Lamps
+4.1.1.1 Establish ambient, physical, and electrical conditions in accordance with Sections (and corresponding subsections) 4.0, 5.0, 6.1, 6.5, and 6.6 of IES LM–9–20.
+4.1.1.2 Operate each lamp at the appropriate voltage and current conditions as described in ANSI C78.375A–2020 and in either ANSI C78.81–2010 or ANSI C78.901–2005. Operate each lamp using the appropriate reference ballast at input voltage specified by the reference circuit as described in ANSI C82.3. If, for a lamp, both low-frequency and high-frequency reference ballast settings are included in ANSI C78.81–2010 or ANSI C78.901–2005, operate the lamp using the low-frequency reference ballast. When testing with low-frequency reference ballast settings, include cathode power only if the circuit application of the lamp is specified as rapid start in ANSI C78.81–2010 or ANSI C78.901–2005. When testing with high-frequency reference ballast settings, do not include cathode power in the measurement.
+For any lamp not listed in ANSI C78.81–2010 or ANSI C78.901–2005, operate the lamp using the following reference ballast settings:
+4.1.1.2.1 For 4-Foot medium bi-pin lamps, use the following reference ballast settings:
+(a) T10 or T12 lamps: 236 volts, 0.43 amps, and 439 ohms, at low frequency (60 Hz) and with cathode power. Approximate cathode wattage (with 3.6 V on each cathode): 2.0 W. Cathode characteristics for low resistance (at 3.6V): 9.6 ohms (objective), 7.0 ohms (minimum). Cathode heat for rapid start: 3.6 V (nominal); 2.5 V min, 4.0 V max (limits during operation); 9.6 ohms ±0.1 ohm (dummy load resistor); 3.4 V min, 4.5 V max (voltage across dummy load).
+(b) T8 lamps greater than or equal to 32 W: 300 volts, 0.265 amps, and 910 ohms, at low frequency (60 Hz) and with cathode power. Approximate cathode wattage (with 3.6 V on each cathode): 1.7 W. Cathode characteristics for low resistance (at 3.6 V): 12.0 ±2.0 ohms; 4.75 ±0.50 (Rh/Rc ratio). Cathode heat for rapid start: 3.6 V (nominal); 2.5 V min; 4.4 V max (limits during operation); 11.0 ohms ±0.1 ohms (dummy load resistor); 3.4 V min, 4.5 V max (voltage across dummy load).
+(c) T8 lamps less than 32 W: 300 volts, 0.265 amps, and 910 ohms, at low frequency (60 Hz) and without cathode power.
+4.1.1.2.2 For 2-Foot U-shaped lamps, use the following reference ballast settings:
+(a) T12 lamps: 236 volts, 0.430 amps, and 439 ohms, at low frequency (60 Hz) and with cathode power. Approximate cathode wattage (with 3.6 V on each cathode): 2.0 W. Cathode characteristics for low resistance (at 3.6V): 9.6 ohms (objective), 7.0 ohms (minimum). Cathode heat for rapid start: 3.6 V (nominal); 2.5 V min, 4.0 V max (limits during operation); 9.6 ohms ±0.1 ohm (dummy load resistor); 3.4 V min, 4.5 V max (voltage across dummy load).
+(b) T8 lamps greater than or equal to 31 W: 300 volts, 0.265 amps, and 910 ohms, at low frequency (60 Hz) and with cathode power. Approximate cathode wattage (with 3.6 V on each cathode): 1.7 W. Cathode characteristics for low resistance (at 3.6 V): 11.0 ohms (objective); 8.0 ohms (minimum). Cathode heat for rapid start: 3.6 V (nominal); 2.5 V min; 4.4 V max (limits during operation); 11.0 ohms ±0.1 ohms (dummy load resistor); 3.4 V min, 4.5 V max (voltage across dummy load).
+(c) T8 lamps less than 31 W: 300 volts, 0.265 amps, and 910 ohms, at low frequency (60 Hz) and without cathode power.
+4.1.1.2.3 For 8-foot slimline lamps, use the following reference ballast settings:
+(a) T12 lamps: 625 volts, 0.425 amps, and 1280 ohms, at low frequency (60 Hz) and without cathode power.
+(b) T8 lamps: 625 volts, 0.260 amps, and 1960 ohms, at low frequency (60 Hz) and without cathode power.
+4.1.1.2.4 For 8-foot high output lamps, use the following reference ballast settings:
+(a) T12 lamps: 400 volts, 0.800 amps, and 415 ohms, at low frequency (60 Hz) and with cathode power. Approximate cathode wattage (with 3.6 V on each cathode): 7.0 W. Cathode characteristics for low resistance (at 3.6 V): 3.2 ohms (objective); 2.5 ohms (minimum). Cathode heat requirements for rapid start: 3.6 V (nominal); 3.0 V min, 4.0 V max (limits during operation); 3.2 ohms ±0.05 ohm (dummy load resistor); 3.4 V min, 4.5 V max (voltage across dummy load).
+(b) T8 lamps: 450 volts, 0.395 amps, and 595 ohms, at high frequency (25 kHz) and without cathode power.
+4.1.1.2.5 For 4-foot miniature bipin standard output or high output lamps, use the following reference ballast settings:
+(a) Standard Output: 329 volts, 0.170 amps, and 950 ohms, at high frequency (25 kHz) and without cathode power.
+(b) High Output: 235 volts, 0.460 amps, and 255 ohms, at high frequency (25 kHz) and without cathode power.
+4.1.2 General Service Incandescent Lamps: Establish ambient, physical, and electrical conditions in accordance with Sections (and corresponding subsections) 4.0, 5.0, 6.1, 6.3 and 6.4 in IES LM–45–20.
+4.1.3 Incandescent Reflector Lamps: Establish ambient, physical, and electrical conditions in accordance with Sections (and corresponding subsections) 4.0 and 5.0 in IES LM–20–20.
+4.2 Test Methods, Measurements, and Calculations
+Multiply all lumen measurements made with instruments calibrated to the devalued NIST lumen after January 1, 1996, by 1.011.
+4.2.1 General Service Fluorescent Lamps
+4.2.1.1 Season and stabilize lamps in accordance with Sections (and corresponding subsections) 6.1, 6.2, 6.3, and 6.4 of IES LM–9–20 and with IES LM–54–20.
+4.2.1.2 Measure the initial input power (in watts).
+4.2.1.3 Measure initial lumen output in accordance with Section 7.0 (and corresponding subsections) of IES LM–9–20 and with IES LM–78–20.
+4.2.1.4 Calculate initial lamp efficacy by dividing the measured initial lumen output by the measured initial input power.
+4.2.1.5 Calculate CRI as specified in Section 7.6 of IES LM–9–20 and CIE 13.3. Conduct the required spectroradiometric measurement and characterization in accordance with the methods set forth in IES LM–58–20.
+4.2.1.6 Calculate CCT as specified in Section 7.6 of IES LM–9–20 and CIE 15:2018. Conduct the required spectroradiometric measurement and characterization in accordance with the methods set forth in IES LM–58–20.
+4.2.2 General Service Incandescent Lamps
+4.2.2.1 Season and stabilize lamps in accordance with Section (and corresponding subsections) 6.2 of IES LM–45–20 and with IES LM–54–20.
+4.2.2.2 Measure the initial input power (in watts).
+4.2.2.3 Measure initial lumen output in accordance with Section (and corresponding subsections) 7.0 of IES LM–45–20 and with IES LM–78–20.
+4.2.2.4 Calculate initial lamp efficacy by dividing the measured initial lumen output by the measured initial input power.
+4.2.2.5 Calculate CRI as specified in Section 7.4 of IES LM–45–20 and CIE 13.3. Conduct the required spectroradiometric measurement and characterization in accordance with the methods set forth in IES LM–58–20.
+4.2.2.6 Calculate CCT as specified in Section 7.4 of IES LM–45–20 and CIE 15:2018. Conduct the required spectroradiometric measurement and characterization in accordance with the methods set forth in IES LM–58–20.
+4.2.3 Incandescent Reflector Lamps
+4.2.3.1 Season and stabilize lamps in accordance with Section (and corresponding subsections) 6.0 of IES LM–20–20 and with IES LM–54–20.
+4.2.3.2 Measure the initial input power (in watts).
+4.2.3.3 Measure initial lumen output in accordance with Sections (and corresponding subsections) 7.0 or 8.0 of IES LM–20–20 and with IES LM–78–20. When measuring in accordance with section 8.0, exclude undirected light using the method specified in section 8.2.
+4.2.3.4 Calculate initial lamp efficacy by dividing the measured initial lumen output by the measured initial input power.
+4.2.3.5 Calculate CRI as specified in CIE 13.3. Conduct the required spectroradiometric measurement and characterization in accordance with the methods set forth in IES LM–58–20.
+4.2.3.6 Calculate CCT as specified in CIE 15:2018. Conduct the required spectroradiometric measurement and characterization in accordance with the methods set forth in IES LM–58–20.
+5. Test Method for Voluntary Representations for General Service Fluorescent Lamps
+Follow sections 1.0 through 4.0 of this appendix to make voluntary representations only for GSFLs that have high frequency reference ballast settings in ANSI C78.81–2016 or ANSI C78.901–2016. Where ANSI C78.81–2010 and ANSI C78.901–2005 are referenced in the preceding sections, use ANSI C78.81–2016 and ANSI C78.901–2016 instead. Operate lamps using high frequency reference ballast settings and without cathode power. Voluntary representations must be in addition to, not instead of, a representation in accordance with sections 1.0 to 4.0 of this appendix for GSFLs. As a best practice, an indication of high frequency operation should be provided with the voluntary representations.
+6. Test Method for Determining Time to Failure for General Service Incandescent Lamps and Incandescent Reflector Lamps
+6.1 Test Conditions and Setup. Establish ambient, physical, and electrical conditions as described in Sections (and corresponding subsections) 4.0 and 5.0 of IES LM–49–20.
+6.2 Test Methods, Measurements, and Calculations
+6.2.1 Season and stabilize lamps according to Section 6.2 of IES LM–45–20 for GSILs and in accordance with Section (and corresponding subsections) 6.0 of IES LM–20–20 for IRLs.
+6.2.2 Measure the time to failure as specified in Section 6.4 of IES LM–49–20 and based on the lamp's operating time, expressed in hours, not including any off time.
+6.3 Accelerated lifetime testing is not allowed; disregard the second paragraph of Section 6.4 of IES LM–49–20.
