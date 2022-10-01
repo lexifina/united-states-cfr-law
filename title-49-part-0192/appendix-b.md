@@ -9,14 +9,14 @@ ASTM A381—Steel pipe, "Standard Specification for Metal-Arc-Welded Steel Pipe 
 ASTM A671/A671M—Steel pipe, "Standard Specification for Electric-Fusion-Welded Pipe for Atmospheric and Lower Temperatures" (incorporated by reference, see § 192.7).
 ASTM A672/A672M-09—Steel pipe, "Standard Specification for Electric-Fusion-Welded Steel Pipe for High-Pressure Service at Moderate Temperatures" (incorporated by reference, see § 192.7).
 ASTM A691/A691M-09—Steel pipe, "Standard Specification for Carbon and Alloy Steel Pipe, Electric-Fusion-Welded for High Pressure Service at High Temperatures" (incorporated by reference, see § 192.7).
-ASTM D2513-12ae1"Standard Specification for Polyethylene (PE) Gas Pressure Pipe, Tubing, and Fittings" (incorporated by reference, see § 192.7).
+ASTM D2513"Standard Specification for Polyethylene (PE) Gas Pressure Pipe, Tubing, and Fittings" (incorporated by reference, see § 192.7).
 ASTM D 2517-00—Thermosetting plastic pipe and tubing, "Standard Specification for Reinforced Epoxy Resin Gas Pressure Pipe and Fittings" (incorporated by reference, see § 192.7).
 ASTM F2785-12 "Standard Specification for Polyamide 12 Gas Pressure Pipe, Tubing, and Fittings" (PA-12) (incorporated by reference, see § 192.7).
 ASTM F2817-10 "Standard Specification for Poly (Vinyl Chloride) (PVC) Gas Pressure Pipe and Fittings for Maintenance or Repair" (incorporated by reference, see § 192.7).
 ASTM F2945-12a "Standard Specification for Polyamide 11 Gas Pressure Pipe, Tubing, and Fittings" (PA-11) (incorporated by reference, see § 192.7).
 B. Other Listed Specifications for Components
 ASME B16.40-2008 "Manually Operated Thermoplastic Gas Shutoffs and Valves in Gas Distribution Systems" (incorporated by reference, see § 192.7).
-ASTM D2513-12ae1"Standard Specification for Polyethylene (PE) Gas Pressure Pipe, Tubing, and Fittings" (incorporated by reference, see § 192.7).
+ASTM D2513-Standard Specification for Polyethylene (PE) Gas Pressure Pipe, Tubing, and Fittings" (incorporated by reference, see § 192.7).
 ASTM D 2517-00—Thermosetting plastic pipe and tubing, "Standard Specification for Reinforced Epoxy Resin Gas Pressure Pipe and Fittings" (incorporated by reference, see § 192.7).
 ASTM F2785-12 "Standard Specification for Polyamide 12 Gas Pressure Pipe, Tubing, and Fittings" (PA-12) (incorporated by reference, see § 192.7).
 ASTM F2945-12a "Standard Specification for Polyamide 11 Gas Pressure Pipe, Tubing, and Fittings" (PA-11) (incorporated by reference, see § 192.7).
