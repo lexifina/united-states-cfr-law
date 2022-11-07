@@ -1,4 +1,0 @@
-# Appendix to Part 1252—Tar Matrix
-ER27DE05.000
-ER27DE05.001
-ER27DE05.002
