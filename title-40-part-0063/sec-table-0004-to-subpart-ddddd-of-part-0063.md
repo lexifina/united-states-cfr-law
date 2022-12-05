@@ -1,7 +1,7 @@
 # Table 4 to Subpart DDDDD of Part 63—Operating Limits for Boilers and Process Heaters
 As stated in § 63.7500, you must comply with the applicable operating limits:
 Table 4 to Subpart DDDDD of Part 63—Operating Limits for Boilers and Process Heaters
-When complying with a Table 1, 2, 11, 12, or 13 numerical emission limit using... | You must meet these operating limits...
+When complying with a numerical emission limit under Table 1, 2, 11, 12, 13, 14, or 15 of this subpart using... | You must meet these operating limits...
 1. Wet PM scrubber control on a boiler or process heater not using a PM CPMS | Maintain the 30-day rolling average pressure drop and the 30-day rolling average liquid flow rate at or above the lowest one-hour average pressure drop and the lowest one-hour average liquid flow rate, respectively, measured during the performance test demonstrating compliance with the PM emission limitation according to § 63.7530(b) and Table 7 to this subpart.
 2. Wet acid gas (HCl) scrubber a control on a boiler or process heater not using a HCl CEMS | Maintain the 30-day rolling average effluent pH at or above the lowest one-hour average pH and the 30-day rolling average liquid flow rate at or above the lowest one-hour average liquid flow rate measured during the performance test demonstrating compliance with the HCl emission limitation according to § 63.7530(b) and Table 7 to this subpart.
 3. Fabric filter control on a boiler or process heater not using a PM CPMS | a. Maintain opacity to less than or equal to 10 percent opacity or the highest hourly average opacity reading measured during the performance test run demonstrating compliance with the PM (or TSM) emission limitation (daily block average); or
