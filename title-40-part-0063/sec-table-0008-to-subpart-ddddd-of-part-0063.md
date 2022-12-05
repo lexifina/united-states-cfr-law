@@ -22,13 +22,13 @@ If you must meet the following operating limits or work practice standards... | 
 | c. Maintaining the 30-day rolling average total secondary electric power input at or above the operating limits established during the performance test according to § 63.7530(b).
 8. Emission limits using fuel analysis | a. Conduct monthly fuel analysis for HCl or mercury or TSM according to Table 6 to this subpart; and
 | b. Reduce the data to 12-month rolling averages; and
-| c. Maintain the 12-month rolling average at or below the applicable emission limit for HCl or mercury or TSM in Tables 1 and 2 or 11 through 13 to this subpart.
-| d. Calculate the HCI, mercury, and/or TSM emission rate from the boiler or process heater in units of lb/MMBtu using Equation 15 and Equations 17, 18, and/or 19 in § 63.7530.
+| c. Maintain the 12-month rolling average at or below the applicable emission limit for HCl or mercury or TSM in Tables 1 and 2 or 11 through 15 to this subpart.
+| d. Calculate the HCI, mercury, and/or TSM emission rate from the boiler or process heater in units of lb/MMBtu using Equation 15 and Equations 16, 17, and/or 18 in § 63.7530.
 9. Oxygen content | a. Continuously monitor the oxygen content using an oxygen analyzer system according to § 63.7525(a). This requirement does not apply to units that install an oxygen trim system since these units will set the trim system to the level specified in § 63.7525(a)(7).
 | b. Reducing the data to 30-day rolling averages; and
 | c. Maintain the 30-day rolling average oxygen content at or above the lowest hourly average oxygen level measured during the CO performance test.
-10. Boiler or process heater operating load | a. Collecting operating load data or steam generation data every 15 minutes.b. Reducing the data to 30-day rolling averages; and
+10. Boiler or process heater operating load | a. Collecting operating load data or steam generation data every 15 minutes. b. Reducing the data to 30-day rolling averages; and
 | c. Maintaining the 30-day rolling average operating load such that it does not exceed 110 percent of the highest hourly average operating load recorded during the performance test according to § 63.7520(c).
-11. SO2 emissions using SO2 CEMS | a. Collecting the SO2 CEMS output data according to § 63.7525;
+11. SO 2 emissions using SO 2 CEMS | a. Collecting the SO 2 CEMS output data according to § 63.7525;
 | b. Reducing the data to 30-day rolling averages; and
-| c. Maintaining the 30-day rolling average SO2 CEMS emission rate to a level at or below the highest hourly SO2 rate measured during the HCl performance test according to § 63.7530.
+| c. Maintaining the 30-day rolling average SO 2 CEMS emission rate to a level at or below the highest hourly SO 2 rate measured during the HCl performance test according to § 63.7530.
