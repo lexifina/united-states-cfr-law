@@ -63,7 +63,7 @@
 (iv) Three hours of flight training in a single engine airplane within 2 calendar months before the date of the practical test.
 (3) For the commercial pilot certificate, the course must include 55 hours of flight training on the areas of operations under part 141, appendix D, paragraph 4(d)(1). A flight simulator and flight training device cannot be used to meet more than 16.5 hours of the training requirements, and the use of the flight training device is limited to 11 hours of the 16.5 hours permitted. The course must include—
 (i) Five hours of instrument training in a single engine airplane that includes training using a view-limiting device on attitude instrument flying, partial panel skills, recovery from unusual flight attitudes, and intercepting and tracking navigational systems;
-(ii) Ten hours of training in an airplane that has retractable landing gear, flaps, and a controllable pitch propeller, or is turbine-powered;
+(ii) Ten hours of training in a complex airplane, a turbine-powered airplane, or a technically advanced airplane that meets the requirements of § 61.129(j), or any combination thereof. The airplane must be appropriate to land or sea for the rating sought;
 (iii) One 2-hour cross country flight during daytime conditions in a single engine airplane, a total straight-line distance of more than 100 nautical miles from the original point of departure;
 (iv) One 2-hour cross country flight during nighttime conditions in a single engine airplane, a total straight-line distance of more than 100 nautical miles from the original point of departure; and
 (v) Three hours in a single engine airplane within 2 calendar months before the date of the practical test.
@@ -154,6 +154,8 @@
 (i) Five training flights in a glider with a certificated flight instructor on the launch/tow procedures approved for the course and on the appropriate approved areas of operation listed under appendix B, paragraph 4(d)(6) of this part; and
 (ii) Three training flights in a glider with a certificated flight instructor within 2 calendar months before the date of the practical test.
 (2) The commercial pilot certificate level requires 4 hours of flight training in a glider on the areas of operation under part 141, appendix D, paragraph 4.(d)(6). A flight simulator and flight training device cannot be used more than 0.8 hours to meet the training requirements, and use of the flight training device is limited to 0.6 hours of the 0.8 hours permitted. The course must include—
+(i) Five training flights in a glider with a certificated flight instructor on the launch/tow procedures approved for the course and on the appropriate approved areas of operation listed in appendix D of part 141, paragraph 4.(d)(6); and
+(ii) Three training flights in a glider with a certificated flight instructor in preparation for the practical test within 2 calendar months preceding the date of the test.
 (j) Course for an airplane additional single engine class rating.
 (1) For the private pilot certificate, the course requires 3 hours of flight training in the areas of operations under part 141, appendix B, paragraph 4.(d)(1). A flight simulator and flight training device cannot be used more than 0.6 hours to meet the training requirements, and use of the flight training device is limited to 0.4 hours of the 0.6 hours permitted. The course must include—
 (i) Three hours of cross country training in a single engine airplane, except as provided under § 61.111 of this chapter;
