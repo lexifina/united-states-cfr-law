@@ -1,6 +1,6 @@
 # Appendix B to Part 60—Qualification Performance Standards for Airplane Flight Training Devices
 Begin Information
-This appendix establishes the standards for Airplane FTD evaluation and qualification at Level 4, Level 5, or Level 6. The Flight Standards Service, NSPM, is responsible for the development, application, and implementation of the standards contained within this appendix. The procedures and criteria specified in this appendix will be used by the NSPM, or a person or persons assigned by the NSPM when conducting airplane FTD evaluations.
+This appendix establishes the standards for Airplane FTD evaluation and qualification at Level 4, Level 5, Level 6, or Level 7. The Flight Standards Service, is responsible for the development, application, and implementation of the standards contained within this appendix. The procedures and criteria specified in this appendix will be used by the responsible Flight Standards office when conducting airplane FTD evaluations.
 Table of Contents
 1. Introduction
 2. Applicability (§§ 60.1 and 60.2).
@@ -35,8 +35,8 @@ End Information
 1. Introduction
 Begin Information
 a. This appendix contains background information as well as regulatory and informative material as described later in this section. To assist the reader in determining what areas are required and what areas are permissive, the text in this appendix is divided into two sections: "QPS Requirements" and "Information." The QPS Requirements sections contain details regarding compliance with the part 60 rule language. These details are regulatory, but are found only in this appendix. The Information sections contain material that is advisory in nature, and designed to give the user general information about the regulation.
-b. Questions regarding the contents of this publication should be sent to the U.S. Department of Transportation, Federal Aviation Administration, Flight Standards Service, National Simulator Program Staff, AFS-205, P.O. Box 20636, Atlanta, Georgia 30320. Telephone contact numbers for the NSP are: Phone, 404-474-5620; fax, 404-474-5656. The NSP Internet Web site address is: http://www.faa.gov/about/initiatives/nsp/. On this Web site you will find an NSP personnel list with telephone and email contact information for each NSP staff member, a list of qualified flight simulation devices, advisory circulars (ACs), a description of the qualification process, NSP policy, and an NSP "In-Works" section. Also linked from this site are additional information sources, handbook bulletins, frequently asked questions, a listing and text of the Federal Aviation Regulations, Flight Standards Inspector's handbooks, and other FAA links.
-c. The NSPM encourages the use of electronic media for all communication, including any record, report, request, test, or statement required by this appendix. The electronic media used must have adequate security provisions and be acceptable to the NSPM. The NSPM recommends inquiries on system compatibility, and minimum system requirements are also included on the NSP Web site.
+b. [Reserved]
+c. The responsible Flight Standards office encourages the use of electronic media for all communication, including any record, report, request, test, or statement required by this appendix. The electronic media used must have adequate security provisions and be acceptable to the responsible Flight Standards office.
 d. Related Reading References.
 (1) 14 CFR part 60.
 (2) 14 CFR part 61.
@@ -49,7 +49,7 @@ d. Related Reading References.
 (9) 14 CFR part 142.
 (10) AC 120-28, as amended, Criteria for Approval of Category III Landing Weather Minima.
 (11) AC 120-29, as amended, Criteria for Approving Category I and Category II Landing Minima for part 121 operators.
-(12) AC 120-35, as amended, Line Operational Simulations: Line-Oriented Flight Training, Special Purpose Operational Training, Line Operational Evaluation.
+(12) AC 120-35, as amended, Flightcrew Member Line Operational Simulations: Line-Oriented Flight Training, Special Purpose Operational Training, Line Operational Evaluation.
 (13) AC 120-41, as amended, Criteria for Operational Approval of Airborne Wind Shear Alerting and Flight Guidance Systems.
 (14) AC 120-45, as amended, Airplane Flight Training Device Qualification.
 (14) AC 120-57, as amended, Surface Movement Guidance and Control System (SMGCS).
@@ -64,7 +64,7 @@ d. Related Reading References.
 (23) AC 23-8A, as amended, Flight Test Guide for Certification of Part 23 Airplanes.
 (24) International Civil Aviation Organization (ICAO) Manual of Criteria for the Qualification of Flight Simulation Training Devices, as amended.
 (25) Aeroplane Flight Simulation Training Device Evaluation Handbook, Volume I, as amended and Volume II, as amended, The Royal Aeronautical Society, London, UK.
-(26) FAA Airman Testing Standards for the Airline Transport Pilot Certificate, Type Ratings, Commercial Pilot Certificate, and Instrument Ratings.
+(26) FAA Airman Certification Standards and Practical Test Standards for Airline Transport Pilot, Type Ratings, Commercial Pilot, and Instrument Ratings.
 (27) The FAA Aeronautical Information Manual (AIM). An electronic version of the AIM is on the Internet at http://www.faa.gov/atpubs.
 (28) Aeronautical Radio, Inc. (ARINC) document number 436, titled Guidelines For Electronic Qualification Test Guide (as amended).
 (29) Aeronautical Radio, Inc. (ARINC) document 610, Guidance for Design and Integration of Aircraft Avionics Equipment in Simulators (as amended).
@@ -130,22 +130,22 @@ b. The data, regardless of source, must be presented:
 (4) With any necessary guidance information provided; and
 (5) Without alteration, adjustments, or bias. Data may be corrected to address known data calibration errors provided that an explanation of the methods used to correct the errors appears in the QTG. The corrected data may be re-scaled, digitized, or otherwise manipulated to fit the desired presentation.
 c. After completion of any additional flight test, a flight test report must be submitted in support of the validation data. The report must contain sufficient data and rationale to support qualification of the FTD at the level requested.
-d. As required by § 60.13(f), the sponsor must notify the NSPM when it becomes aware that an addition to or a revision of the flight related data or airplane systems related data is available if this data is used to program and operate a qualified FTD. The data referred to in this sub-section are those data that are used to validate the performance, handling qualities, or other characteristics of the aircraft, including data related to any relevant changes occurring after the type certification is issued. The sponsor must—
-(1) Within 10 calendar days, notify the NSPM of the existence of this data; and
-(2) Within 45 calendar days, notify the NSPM of—
+d. As required by § 60.13(f), the sponsor must notify the responsible Flight Standards office when it becomes aware that an addition to or a revision of the flight related data or airplane systems related data is available if this data is used to program and operate a qualified FTD. The data referred to in this sub-section are those data that are used to validate the performance, handling qualities, or other characteristics of the aircraft, including data related to any relevant changes occurring after the type certification is issued. The sponsor must—
+(1) Within 10 calendar days, notify the responsible Flight Standards office of the existence of this data; and
+(2) Within 45 calendar days, notify the responsible Flight Standards office of—
 (i) The schedule to incorporate this data into the FTD; or
 (ii) The reason for not incorporating this data into the FTD.
 e. In those cases where the objective test results authorize a "snapshot test" or a "series of snapshot test results" in lieu of a time-history result, the sponsor or other data provider must ensure that a steady state condition exists at the instant of time captured by the "snapshot." The steady state condition must exist from 4 seconds prior to, through 1 second following, the instant of time captured by the snap shot.
 End QPS Requirements
 Begin Information
 f. The FTD sponsor is encouraged to maintain a liaison with the manufacturer of the aircraft being simulated (or with the holder of the aircraft type certificate for the aircraft being simulated if the manufacturer is no longer in business), and if appropriate, with the person having supplied the aircraft data package for the FTD in order to facilitate the notification described in this paragraph.
-g. It is the intent of the NSPM that for new aircraft entering service, at a point well in advance of preparation of the QTG, the sponsor should submit to the NSPM for approval, a descriptive document (see Appendix A, Table A2C, Sample Validation Data Roadmap for Airplanes) containing the plan for acquiring the validation data, including data sources. This document should clearly identify sources of data for all required tests, a description of the validity of these data for a specific engine type and thrust rating configuration, and the revision levels of all avionics affecting the performance or flying qualities of the aircraft. Additionally, this document should provide other information such as the rationale or explanation for cases where data or data parameters are missing, instances where engineering simulation data are used, or where flight test methods require further explanations. It should also provide a brief narrative describing the cause and effect of any deviation from data requirements. The aircraft manufacturer may provide this document.
-h. There is no requirement for any flight test data supplier to submit a flight test plan or program prior to gathering flight test data. However, the NSPM notes that inexperienced data gatherers often provide data that is irrelevant, improperly marked, or lacking adequate justification for selection. Other problems include inadequate information regarding initial conditions or test maneuvers. The NSPM has been forced to refuse these data submissions as validation data for an FTD evaluation. It is for this reason that the NSPM recommends that any data supplier not previously experienced in this area review the data necessary for programming and for validating the performance of the FTD and discuss the flight test plan anticipated for acquiring such data with the NSPM well in advance of commencing the flight tests.
-i. The NSPM will consider, on a case-by-case basis, whether to approve supplemental validation data derived from flight data recording systems such as a Quick Access Recorder or Flight Data Recorder.
+g. It is the intent of the responsible Flight Standards office that for new aircraft entering service, at a point well in advance of preparation of the QTG, the sponsor should submit to the responsible Flight Standards office for approval, a descriptive document (see Appendix A, Table A2C, Sample Validation Data Roadmap for Airplanes) containing the plan for acquiring the validation data, including data sources. This document should clearly identify sources of data for all required tests, a description of the validity of these data for a specific engine type and thrust rating configuration, and the revision levels of all avionics affecting the performance or flying qualities of the aircraft. Additionally, this document should provide other information such as the rationale or explanation for cases where data or data parameters are missing, instances where engineering simulation data are used, or where flight test methods require further explanations. It should also provide a brief narrative describing the cause and effect of any deviation from data requirements. The aircraft manufacturer may provide this document.
+h. There is no requirement for any flight test data supplier to submit a flight test plan or program prior to gathering flight test data. However, the responsible Flight Standards office notes that inexperienced data gatherers often provide data that is irrelevant, improperly marked, or lacking adequate justification for selection. Other problems include inadequate information regarding initial conditions or test maneuvers. The responsible Flight Standards office has been forced to refuse these data submissions as validation data for an FTD evaluation. It is for this reason that the responsible Flight Standards office recommends that any data supplier not previously experienced in this area review the data necessary for programming and for validating the performance of the FTD and discuss the flight test plan anticipated for acquiring such data with the responsible Flight Standards office well in advance of commencing the flight tests.
+i. The responsible Flight Standards office will consider, on a case-by-case basis, whether to approve supplemental validation data derived from flight data recording systems such as a Quick Access Recorder or Flight Data Recorder.
 End Information
 10. Special Equipment and Personnel Requirements for Qualification of the FTD (§ 60.14).
 Begin Information
-a. In the event that the NSPM determines that special equipment or specifically qualified persons will be required to conduct an evaluation, the NSPM will make every attempt to notify the sponsor at least one (1) week, but in no case less than 72 hours, in advance of the evaluation. Examples of special equipment include flight control measurement devices, accelerometers, or oscilloscopes. Examples of specially qualified personnel include individuals specifically qualified to install or use any special equipment when its use is required.
+a. In the event that the responsible Flight Standards office determines that special equipment or specifically qualified persons will be required to conduct an evaluation, the responsible Flight Standards office will make every attempt to notify the sponsor at least one (1) week, but in no case less than 72 hours, in advance of the evaluation. Examples of special equipment include flight control measurement devices, accelerometers, or oscilloscopes. Examples of specially qualified personnel include individuals specifically qualified to install or use any special equipment when its use is required.
 b. Examples of a special evaluation include an evaluation conducted after: An FTD is moved; at the request of the TPAA; or as a result of comments received from users of the FTD that raise questions about the continued qualification or use of the FTD.
 End Information
 11. Initial (and Upgrade) Qualification Requirements (§ 60.15).
@@ -156,14 +156,14 @@ a. In order to be qualified at a particular qualification level, the FTD must:
 (3) Satisfactorily accomplish the subjective tests listed in Attachment 3 of this appendix.
 b. The request described in § 60.15(a) must include all of the following:
 (1) A statement that the FTD meets all of the applicable provisions of this part and all applicable provisions of the QPS.
-(2) Unless otherwise authorized through prior coordination with the NSPM, a confirmation that the sponsor will forward to the NSPM the statement described in § 60.15(b) in such time as to be received no later than 5 business days prior to the scheduled evaluation and may be forwarded to the NSPM via traditional or electronic means.
-(3) Except for a Level 4 FTD, a QTG, acceptable to the NSPM, that includes all of the following:
+(2) Unless otherwise authorized through prior coordination with the responsible Flight Standards office, a confirmation that the sponsor will forward to the responsible Flight Standards office the statement described in § 60.15(b) in such time as to be received no later than 5 business days prior to the scheduled evaluation and may be forwarded to the responsible Flight Standards office via traditional or electronic means.
+(3) Except for a Level 4 FTD, a QTG, acceptable to the responsible Flight Standards office, that includes all of the following:
 (a) Objective data obtained from aircraft testing or another approved source.
 (b) Correlating objective test results obtained from the performance of the FTD as prescribed in the appropriate QPS.
 (c) The result of FTD subjective tests prescribed in the appropriate QPS.
 (d) A description of the equipment necessary to perform the evaluation for initial qualification and the continuing qualification evaluations.
 c. The QTG described in paragraph a(3) of this section, must provide the documented proof of compliance with the FTD objective tests in Attachment 2, Table B2A of this appendix.
-d. The QTG is prepared and submitted by the sponsor, or the sponsor?s agent on behalf of the sponsor, to the NSPM for review and approval, and must include, for each objective test:
+d. The QTG is prepared and submitted by the sponsor, or the sponsor?s agent on behalf of the sponsor, to the responsible Flight Standards office for review and approval, and must include, for each objective test:
 (1) Parameters, tolerances, and flight conditions;
 (2) Pertinent and complete instructions for conducting automatic and manual tests;
 (3) A means of comparing the FTD test results to the objective data;
@@ -204,74 +204,74 @@ e. The QTG described in paragraphs (a)(3) and (b) of this section, must include 
 (j) Source of Validation Data (document and page number).
 (k) Copy of the Validation Data (if located in a separate binder, a cross reference for the identification and page number for pertinent data location must be provided).
 (l) FTD Objective Test Results as obtained by the sponsor. Each test result must reflect the date completed and must be clearly labeled as a product of the device being tested.
-f. A convertible FTD is addressed as a separate FTD for each model and series airplane to which it will be converted and for the FAA qualification level sought. The NSPM will conduct an evaluation for each configuration. If a sponsor seeks qualification for two or more models of an airplane type using a convertible FTD, the sponsor must provide a QTG for each airplane model, or a QTG for the first airplane model and a supplement to that QTG for each additional airplane model. The NSPM will conduct evaluations for each airplane model.
+f. A convertible FTD is addressed as a separate FTD for each model and series airplane to which it will be converted and for the FAA qualification level sought. The responsible Flight Standards office will conduct an evaluation for each configuration. If a sponsor seeks qualification for two or more models of an airplane type using a convertible FTD, the sponsor must provide a QTG for each airplane model, or a QTG for the first airplane model and a supplement to that QTG for each additional airplane model. The responsible Flight Standards office will conduct evaluations for each airplane model.
 g. The form and manner of presentation of objective test results in the QTG must include the following:
-(1) The sponsor's FTD test results must be recorded in a manner acceptable to the NSPM, that allows easy comparison of the FTD test results to the validation data (e.g., use of a multi-channel recorder, line printer, cross plotting, overlays, transparencies).
+(1) The sponsor's FTD test results must be recorded in a manner acceptable to the responsible Flight Standards office, that allows easy comparison of the FTD test results to the validation data (e.g., use of a multi-channel recorder, line printer, cross plotting, overlays, transparencies).
 (2) FTD results must be labeled using terminology common to airplane parameters as opposed to computer software identifications.
 (3) Validation data documents included in a QTG may be photographically reduced only if such reduction will not alter the graphic scaling or cause difficulties in scale interpretation or resolution.
 (4) Scaling on graphical presentations must provide the resolution necessary to evaluate the parameters shown in Attachment 2, Table B2A of this appendix.
 (5) Tests involving time histories, data sheets (or transparencies thereof) and FTD test results must be clearly marked with appropriate reference points to ensure an accurate comparison between FTD and airplane with respect to time. Time histories recorded via a line printer are to be clearly identified for cross-plotting on the airplane data. Over-plots may not obscure the reference data.
-h. The sponsor may elect to complete the QTG objective and subjective tests at the manufacturer's facility or at the sponsor's training facility (or other sponsor designated location where training will take place). If the tests are conducted at the manufacturer's facility, the sponsor must repeat at least one-third of the tests at the sponsor's training facility in order to substantiate FTD performance. The QTG must be clearly annotated to indicate when and where each test was accomplished. Tests conducted at the manufacturer's facility and at the sponsor's designated training facility must be conducted after the FTD is assembled with systems and sub-systems functional and operating in an interactive manner. The test results must be submitted to the NSPM.
+h. The sponsor may elect to complete the QTG objective and subjective tests at the manufacturer's facility or at the sponsor's training facility (or other sponsor designated location where training will take place). If the tests are conducted at the manufacturer's facility, the sponsor must repeat at least one-third of the tests at the sponsor's training facility in order to substantiate FTD performance. The QTG must be clearly annotated to indicate when and where each test was accomplished. Tests conducted at the manufacturer's facility and at the sponsor's designated training facility must be conducted after the FTD is assembled with systems and sub-systems functional and operating in an interactive manner. The test results must be submitted to the responsible Flight Standards office.
 i. The sponsor must maintain a copy of the MQTG at the FTD location.
-j. All FTDs for which the initial qualification is conducted after May 30, 2014, must have an electronic MQTG (eMQTG) including all objective data obtained from airplane testing, or another approved source (reformatted or digitized), together with correlating objective test results obtained from the performance of the FTD (reformatted or digitized) as prescribed in this appendix. The eMQTG must also contain the general FTD performance or demonstration results (reformatted or digitized) prescribed in this appendix, and a description of the equipment necessary to perform the initial qualification evaluation and the continuing qualification evaluations. The eMQTG must include the original validation data used to validate FTD performance and handling qualities in either the original digitized format from the data supplier or an electronic scan of the original time-history plots that were provided by the data supplier. A copy of the eMQTG must be provided to the NSPM.
-k. All other FTDs (not covered in subparagraph "j") must have an electronic copy of the MQTG by and after May 30, 2014. An electronic copy of the copy of the MQTG must be provided to the NSPM. This may be provided by an electronic scan presented in a Portable Document File (PDF), or similar format acceptable to the NSPM.
-l. During the initial (or upgrade) qualification evaluation conducted by the NSPM, the sponsor must also provide a person knowledgeable about the operation of the aircraft and the operation of the FTD.
+j. All FTDs for which the initial qualification is conducted after May 30, 2014, must have an electronic MQTG (eMQTG) including all objective data obtained from airplane testing, or another approved source (reformatted or digitized), together with correlating objective test results obtained from the performance of the FTD (reformatted or digitized) as prescribed in this appendix. The eMQTG must also contain the general FTD performance or demonstration results (reformatted or digitized) prescribed in this appendix, and a description of the equipment necessary to perform the initial qualification evaluation and the continuing qualification evaluations. The eMQTG must include the original validation data used to validate FTD performance and handling qualities in either the original digitized format from the data supplier or an electronic scan of the original time-history plots that were provided by the data supplier. A copy of the eMQTG must be provided to the responsible Flight Standards office.
+k. All other FTDs (not covered in subparagraph "j") must have an electronic copy of the MQTG by and after May 30, 2014. An electronic copy of the copy of the MQTG must be provided to the responsible Flight Standards office. This may be provided by an electronic scan presented in a Portable Document File (PDF), or similar format acceptable to the responsible Flight Standards office.
+l. During the initial (or upgrade) qualification evaluation conducted by the responsible Flight Standards office, the sponsor must also provide a person knowledgeable about the operation of the aircraft and the operation of the FTD.
 End QPS Requirements
 Begin Information
-m. Only those FTDs that are sponsored by a certificate holder as defined in Appendix F will be evaluated by the NSPM. However, other FTD evaluations may be conducted on a case-by-case basis as the Administrator deems appropriate, but only in accordance with applicable agreements.
-n. The NSPM will conduct an evaluation for each configuration, and each FTD must be evaluated as completely as possible. To ensure a thorough and uniform evaluation, each FTD is subjected to the general FTD requirements in Attachment 1 of this appendix, the objective tests listed in Attachment 2 of this appendix, and the subjective tests listed in Attachment 3 of this appendix. The evaluations described herein will include, but not necessarily be limited to the following:
+m. Only those FTDs that are sponsored by a certificate holder as defined in Appendix F will be evaluated by the responsible Flight Standards office. However, other FTD evaluations may be conducted on a case-by-case basis as the Administrator deems appropriate, but only in accordance with applicable agreements.
+n. The responsible Flight Standards office will conduct an evaluation for each configuration, and each FTD must be evaluated as completely as possible. To ensure a thorough and uniform evaluation, each FTD is subjected to the general FTD requirements in Attachment 1 of this appendix, the objective tests listed in Attachment 2 of this appendix, and the subjective tests listed in Attachment 3 of this appendix. The evaluations described herein will include, but not necessarily be limited to the following:
 (1) Airplane responses, including longitudinal and lateral-directional control responses (see Attachment 2 of this appendix);
-(2) Performance in authorized portions of the simulated airplane's operating envelope, to include tasks evaluated by the NSPM in the areas of surface operations, takeoff, climb, cruise, descent, approach and landing, as well as abnormal and emergency operations (see Attachment 2 of this appendix);
+(2) Performance in authorized portions of the simulated airplane's operating envelope, to include tasks evaluated by the responsible Flight Standards office in the areas of surface operations, takeoff, climb, cruise, descent, approach and landing, as well as abnormal and emergency operations (see Attachment 2 of this appendix);
 (3) Control checks (see Attachment 1 and Attachment 2 of this appendix);
 (4) Flight deck configuration (see Attachment 1 of this appendix);
 (5) Pilot, flight engineer, and instructor station functions checks (see Attachment 1 and Attachment 3 of this appendix);
 (6) Airplane systems and sub-systems (as appropriate) as compared to the airplane simulated (see Attachment 1 and Attachment 3 of this appendix);
 (7) FTD systems and sub-systems, including force cueing (motion), visual, and aural (sound) systems, as appropriate (see Attachment 1 and Attachment 2 of this appendix); and
 (8) Certain additional requirements, depending upon the qualification level sought, including equipment or circumstances that may become hazardous to the occupants. The sponsor may be subject to Occupational Safety and Health Administration requirements.
-o. The NSPM administers the objective and subjective tests, which includes an examination of functions. The tests include a qualitative assessment of the FTD by an NSP pilot. The NSP evaluation team leader may assign other qualified personnel to assist in accomplishing the functions examination and/or the objective and subjective tests performed during an evaluation when required.
+o. The responsible Flight Standards office administers the objective and subjective tests, which includes an examination of functions. The tests include a qualitative assessment of the FTD by a pilot from the responsible Flight Standards office. The evaluation team leader may assign other qualified personnel to assist in accomplishing the functions examination and/or the objective and subjective tests performed during an evaluation when required.
 (1) Objective tests provide a basis for measuring and evaluating FTD performance and determining compliance with the requirements of this part.
 (2) Subjective tests provide a basis for:
 (a) Evaluating the capability of the FTD to perform over a typical utilization period;
 (b) Determining that the FTD satisfactorily simulates each required task;
 (c) Verifying correct operation of the FTD controls, instruments, and systems; and
 (d) Demonstrating compliance with the requirements of this part.
-p. The tolerances for the test parameters listed in Attachment 2 of this appendix reflect the range of tolerances acceptable to the NSPM for FTD validation and are not to be confused with design tolerances specified for FTD manufacture. In making decisions regarding tests and test results, the NSPM relies on the use of operational and engineering judgment in the application of data (including consideration of the way in which the flight test was flown and way the data was gathered and applied), data presentations, and the applicable tolerances for each test.
-q. In addition to the scheduled continuing qualification evaluation, each FTD is subject to evaluations conducted by the NSPM at any time without prior notification to the sponsor. Such evaluations would be accomplished in a normal manner (i.e., requiring exclusive use of the FTD for the conduct of objective and subjective tests and an examination of functions) if the FTD is not being used for flight crewmember training, testing, or checking. However, if the FTD were being used, the evaluation would be conducted in a non-exclusive manner. This non-exclusive evaluation will be conducted by the FTD evaluator accompanying the check airman, instructor, Aircrew Program Designee (APD), or FAA inspector aboard the FTD along with the student(s) and observing the operation of the FTD during the training, testing, or checking activities.
+p. The tolerances for the test parameters listed in Attachment 2 of this appendix reflect the range of tolerances acceptable to the responsible Flight Standards office for FTD validation and are not to be confused with design tolerances specified for FTD manufacture. In making decisions regarding tests and test results, the responsible Flight Standards office relies on the use of operational and engineering judgment in the application of data (including consideration of the way in which the flight test was flown and way the data was gathered and applied), data presentations, and the applicable tolerances for each test.
+q. In addition to the scheduled continuing qualification evaluation, each FTD is subject to evaluations conducted by the responsible Flight Standards office at any time without prior notification to the sponsor. Such evaluations would be accomplished in a normal manner (i.e., requiring exclusive use of the FTD for the conduct of objective and subjective tests and an examination of functions) if the FTD is not being used for flight crewmember training, testing, or checking. However, if the FTD were being used, the evaluation would be conducted in a non-exclusive manner. This non-exclusive evaluation will be conducted by the FTD evaluator accompanying the check airman, instructor, Aircrew Program Designee (APD), or FAA inspector aboard the FTD along with the student(s) and observing the operation of the FTD during the training, testing, or checking activities.
 r. Problems with objective test results are handled as follows:
-(1) If a problem with an objective test result is detected by the NSP evaluation team during an evaluation, the test may be repeated or the QTG may be amended.
-(2) If it is determined that the results of an objective test do not support the qualification level requested but do support a lower level, the NSPM may qualify the FTD at a lower level. For example, if a Level 6 evaluation is requested, but the FTD fails to meet the spiral stability test tolerances, it could be qualified at Level 5.
-s. After an FTD is successfully evaluated, the NSPM issues an SOQ to the sponsor, the NSPM recommends the FTD to the TPAA, who will approve the FTD for use in a flight training program. The SOQ will be issued at the satisfactory conclusion of the initial or continuing qualification evaluation and will list the tasks for which the FTD is qualified, referencing the tasks described in Table B1B in Attachment 1 of this appendix. However, it is the sponsor's responsibility to obtain TPAA approval prior to using the FTD in an FAA-approved flight training program.
-t. Under normal circumstances, the NSPM establishes a date for the initial or upgrade evaluation within ten (10) working days after determining that a complete QTG is acceptable. Unusual circumstances may warrant establishing an evaluation date before this determination is made. A sponsor may schedule an evaluation date as early as 6 months in advance. However, there may be a delay of 45 days or more in rescheduling and completing the evaluation if the sponsor is unable to meet the scheduled date. See Attachment 4, Figure B4A, Sample Request for Initial, Upgrade, or Reinstatement Evaluation, of this appendix.
+(1) If a problem with an objective test result is detected by the evaluation team during an evaluation, the test may be repeated or the QTG may be amended.
+(2) If it is determined that the results of an objective test do not support the qualification level requested but do support a lower level, the responsible Flight Standards office may qualify the FTD at a lower level. For example, if a Level 6 evaluation is requested, but the FTD fails to meet the spiral stability test tolerances, it could be qualified at Level 5.
+s. After an FTD is successfully evaluated, the responsible Flight Standards office issues an SOQ to the sponsor, the responsible Flight Standards office recommends the FTD to the TPAA, who will approve the FTD for use in a flight training program. The SOQ will be issued at the satisfactory conclusion of the initial or continuing qualification evaluation and will list the tasks for which the FTD is qualified, referencing the tasks described in Table B1B in Attachment 1 of this appendix. However, it is the sponsor's responsibility to obtain TPAA approval prior to using the FTD in an FAA-approved flight training program.
+t. Under normal circumstances, the responsible Flight Standards office establishes a date for the initial or upgrade evaluation within ten (10) working days after determining that a complete QTG is acceptable. Unusual circumstances may warrant establishing an evaluation date before this determination is made. A sponsor may schedule an evaluation date as early as 6 months in advance. However, there may be a delay of 45 days or more in rescheduling and completing the evaluation if the sponsor is unable to meet the scheduled date. See Attachment 4, Figure B4A, Sample Request for Initial, Upgrade, or Reinstatement Evaluation, of this appendix.
 u. The numbering system used for objective test results in the QTG should closely follow the numbering system set out in Attachment 2, FTD Objective Tests, Table B2A, of this appendix.
-v. Contact the NSPM or visit the NSPM Web site for additional information regarding the preferred qualifications of pilots used to meet the requirements of § 60.15(d).
-w. Examples of the exclusions for which the FTD might not have been subjectively tested by the sponsor or the NSPM and for which qualification might not be sought or granted, as described in § 60.15(g)(6), include engine out maneuvers or circling approaches.
+v. Contact the responsible Flight Standards office for additional information regarding the preferred qualifications of pilots used to meet the requirements of § 60.15(d).
+w. Examples of the exclusions for which the FTD might not have been subjectively tested by the sponsor or the responsible Flight Standards office and for which qualification might not be sought or granted, as described in § 60.15(g)(6), include engine out maneuvers or circling approaches.
 12. Additional Qualifications for Currently Qualified FTDs (§ 60.16).
 No additional regulatory or informational material applies to § 60.16, Additional Qualifications for a Currently Qualified FTD.
 End Information
 13. Previously Qualified FTDs (§ 60.17).
 Begin QPS Requirements
 a. In instances where a sponsor plans to remove an FTD from active status for a period of less than two years, the following procedures apply:
-(1) The NSPM must be notified in writing and the notification must include an estimate of the period that the FTD will be inactive;
+(1) The responsible Flight Standards office must be notified in writing and the notification must include an estimate of the period that the FTD will be inactive;
 (2) Continuing Qualification evaluations will not be scheduled during the inactive period;
-(3) The NSPM will remove the FTD from the list of qualified FTDs on a mutually established date not later than the date on which the first missed continuing qualification evaluation would have been scheduled;
-(4) Before the FTD is restored to qualified status, it must be evaluated by the NSPM. The evaluation content and the time required to accomplish the evaluation is based on the number of continuing qualification evaluations and sponsor-conducted quarterly inspections missed during the period of inactivity.
-(5) The sponsor must notify the NSPM of any changes to the original scheduled time out of service;
+(3) The responsible Flight Standards office will remove the FTD from the list of qualified FTDs on a mutually established date not later than the date on which the first missed continuing qualification evaluation would have been scheduled;
+(4) Before the FTD is restored to qualified status, it must be evaluated by the responsible Flight Standards office. The evaluation content and the time required to accomplish the evaluation is based on the number of continuing qualification evaluations and sponsor-conducted quarterly inspections missed during the period of inactivity.
+(5) The sponsor must notify the responsible Flight Standards office of any changes to the original scheduled time out of service;
 b. FTDs qualified prior to May 31, 2016, and replacement FTD systems, are not required to meet the general FTD requirements, the objective test requirements, and the subjective test requirements of Attachments 1, 2, and 3 of this appendix as long as the FTD continues to meet the test requirements contained in the MQTG developed under the original qualification basis.
 c. [Reserved]
-d. FTDs qualified prior to May 31, 2016, may be updated. If an evaluation is deemed appropriate or necessary by the NSPM after such an update, the evaluation will not require an evaluation to standards beyond those against which the FTD was originally qualified.
+d. FTDs qualified prior to May 31, 2016, may be updated. If an evaluation is deemed appropriate or necessary by the responsible Flight Standards office after such an update, the evaluation will not require an evaluation to standards beyond those against which the FTD was originally qualified.
 e. Other certificate holders or persons desiring to use an FTD may contract with FTD sponsors to use FTDs previously qualified at a particular level for an airplane type and approved for use within an FAA-approved flight training program. Such FTDs are not required to undergo an additional qualification process, except as described in § 60.16.
 f. Each FTD user must obtain approval from the appropriate TPAA to use any FTD in an FAA-approved flight training program.
 g. The intent of the requirement listed in § 60.17(b), for each FTD to have an SOQ within 6 years, is to have the availability of that statement (including the configuration list and the limitations to authorizations) to provide a complete picture of the FTD inventory regulated by the FAA. The issuance of the statement will not require any additional evaluation or require any adjustment to the evaluation basis for the FTD.
 h. Downgrading of an FTD is a permanent change in qualification level and will necessitate the issuance of a revised SOQ to reflect the revised qualification level, as appropriate. If a temporary restriction is placed on an FTD because of a missing, malfunctioning, or inoperative component or on-going repairs, the restriction is not a permanent change in qualification level. Instead, the restriction is temporary and is removed when the reason for the restriction has been resolved.
-i. The NSPM will determine the evaluation criteria for an FTD that has been removed from active status for a prolonged period. The criteria will be based on the number of continuing qualification evaluations and quarterly inspections missed during the period of inactivity. For example, if the FTD were out of service for a 1 year period, it would be necessary to complete the entire QTG, since all of the quarterly evaluations would have been missed. The NSPM will also consider how the FTD was stored, whether parts were removed from the FTD and whether the FTD was disassembled.
+i. The responsible Flight Standards office will determine the evaluation criteria for an FTD that has been removed from active status for a prolonged period. The criteria will be based on the number of continuing qualification evaluations and quarterly inspections missed during the period of inactivity. For example, if the FTD were out of service for a 1 year period, it would be necessary to complete the entire QTG, since all of the quarterly evaluations would have been missed. The responsible Flight Standards office will also consider how the FTD was stored, whether parts were removed from the FTD and whether the FTD was disassembled.
 j. The FTD will normally be requalified using the FAA-approved MQTG and the criteria that was in effect prior to its removal from qualification. However, inactive periods of 2 years or more will require re-qualification under the standards in effect and current at the time of requalification.
 End Information
 14. Inspection, Continuing Qualification, Evaluation, and Maintenance Requirements (§ 60.19).
 Begin QPS Requirement
-a. The sponsor must conduct a minimum of four evenly spaced inspections throughout the year. The objective test sequence and content of each inspection in this sequence must be developed by the sponsor and must be acceptable to the NSPM.
+a. The sponsor must conduct a minimum of four evenly spaced inspections throughout the year. The objective test sequence and content of each inspection in this sequence must be developed by the sponsor and must be acceptable to the responsible Flight Standards office.
 b. The description of the functional preflight check must be contained in the sponsor's QMS.
 c. Record "functional preflight" in the FTD discrepancy log book or other acceptable location, including any item found to be missing, malfunctioning, or inoperative.
-d. During the continuing qualification evaluation conducted by the NSPM, the sponsor must also provide a person knowledgeable about the operation of the aircraft and the operation of the FTD.
+d. During the continuing qualification evaluation conducted by the responsible Flight Standards office, the sponsor must also provide a person knowledgeable about the operation of the aircraft and the operation of the FTD.
 End QPS Requirements
 Begin Information
 e. The sponsor's test sequence and the content of each quarterly inspection required in § 60.19(a)(1) should include a balance and a mix from the objective test requirement areas listed as follows:
@@ -281,13 +281,13 @@ e. The sponsor's test sequence and the content of each quarterly inspection requ
 (4) Visual system (where appropriate).
 (5) Sound system (where appropriate).
 (6) Other FTD systems.
-f. If the NSP evaluator plans to accomplish specific tests during a normal continuing qualification evaluation that requires the use of special equipment or technicians, the sponsor will be notified as far in advance of the evaluation as practical; but not less than 72 hours. Examples of such tests include latencies, control sweeps, or motion or visual system tests.
+f. If the evaluator plans to accomplish specific tests during a normal continuing qualification evaluation that requires the use of special equipment or technicians, the sponsor will be notified as far in advance of the evaluation as practical; but not less than 72 hours. Examples of such tests include latencies, control sweeps, or motion or visual system tests.
 g. The continuing qualification evaluations described in § 60.19(b) will normally require 4 hours of FTD time. However, flexibility is necessary to address abnormal situations or situations involving aircraft with additional levels of complexity (e.g., computer controlled aircraft). The sponsor should anticipate that some tests may require additional time. The continuing qualification evaluations will consist of the following:
 (1) Review of the results of the quarterly inspections conducted by the sponsor since the last scheduled continuing qualification evaluation.
 (2) A selection of approximately 8 to 15 objective tests from the MQTG that provide an adequate opportunity to evaluate the performance of the FTD. The tests chosen will be performed either automatically or manually and should be able to be conducted within approximately one-third (1/3) of the allotted FTD time.
 (3) A subjective evaluation of the FTD to perform a representative sampling of the tasks set out in attachment 3 of this appendix. This portion of the evaluation should take approximately two-thirds (2/3) of the allotted FTD time.
 (4) An examination of the functions of the FTD may include the motion system, visual system, sound system as applicable, instructor operating station, and the normal functions and simulated malfunctions of the airplane systems. This examination is normally accomplished simultaneously with the subjective evaluation requirements.
-h. The requirement established in § 60.19(b)(4) regarding the frequency of NSPM-conducted continuing qualification evaluations for each FTD is typically 12 months. However, the establishment and satisfactory implementation of an approved QMS for a sponsor will provide a basis for adjusting the frequency of evaluations to exceed 12-month intervals.
+h. The requirement established in § 60.19(b)(4) regarding the frequency of responsible Flight Standards office-conducted continuing qualification evaluations for each FTD is typically 12 months. However, the establishment and satisfactory implementation of an approved QMS for a sponsor will provide a basis for adjusting the frequency of evaluations to exceed 12-month intervals.
 15. Logging FTD Discrepancies (§ 60.20)
 No additional regulatory or informational material applies to § 60.20. Logging FTD Discrepancies.
 16. Interim Qualification of FTDs for New Airplane Types or Models (§ 60.21)
@@ -297,8 +297,8 @@ End Information
 Begin QPS Requirements
 a. The notification described in § 60.23(c)(2) must include a complete description of the planned modification, with a description of the operational and engineering effect the proposed modification will have on the operation of the FTD and the results that are expected with the modification incorporated.
 b. Prior to using the modified FTD:
-(1) All the applicable objective tests completed with the modification incorporated, including any necessary updates to the MQTG (e.g., accomplishment of FSTD Directives) must be acceptable to the NSPM; and
-(2) The sponsor must provide the NSPM with a statement signed by the MR that the factors listed in § 60.15(b) are addressed by the appropriate personnel as described in that section.
+(1) All the applicable objective tests completed with the modification incorporated, including any necessary updates to the MQTG (e.g., accomplishment of FSTD Directives) must be acceptable to the responsible Flight Standards office; and
+(2) The sponsor must provide the responsible Flight Standards office with a statement signed by the MR that the factors listed in § 60.15(b) are addressed by the appropriate personnel as described in that section.
 End QPS Requirements
 Begin Information
 c. FSTD Directives are considered modification of an FTD. See Attachment 4 of this appendix for a sample index of effective FSTD Directives.
@@ -312,11 +312,11 @@ d. In accordance with the authorization described in § 60.25(b), the sponsor ma
 End Information
 19. Automatic Loss of Qualification and Procedures for Restoration of Qualification (§ 60.27)
 Begin Information
-If the sponsor provides a plan for how the FTD will be maintained during its out-of-service period (e.g., periodic exercise of mechanical, hydraulic, and electrical systems; routine replacement of hydraulic fluid; control of the environmental factors in which the FTD is to be maintained) there is a greater likelihood that the NSPM will be able to determine the amount of testing that required for requalification.
+If the sponsor provides a plan for how the FTD will be maintained during its out-of-service period (e.g., periodic exercise of mechanical, hydraulic, and electrical systems; routine replacement of hydraulic fluid; control of the environmental factors in which the FTD is to be maintained) there is a greater likelihood that the responsible Flight Standards office will be able to determine the amount of testing that required for requalification.
 End Information
 20. Other Losses of Qualification and Procedures for Restoration of Qualification (§ 60.29)
 Begin Information
-If the sponsor provides a plan for how the FTD will be maintained during its out-of-service period (e.g., periodic exercise of mechanical, hydraulic, and electrical systems; routine replacement of hydraulic fluid; control of the environmental factors in which the FTD is to be maintained) there is a greater likelihood that the NSPM will be able to determine the amount of testing that required for requalification.
+If the sponsor provides a plan for how the FTD will be maintained during its out-of-service period (e.g., periodic exercise of mechanical, hydraulic, and electrical systems; routine replacement of hydraulic fluid; control of the environmental factors in which the FTD is to be maintained) there is a greater likelihood that the responsible Flight Standards office will be able to determine the amount of testing that required for requalification.
 End Information
 21. Recordkeeping and Reporting (§ 60.31)
 Begin QPS Requirements
@@ -362,31 +362,26 @@ d. Table B1B provides the tasks that the sponsor will examine to determine wheth
 e. Table B1C provides the functions that an instructor/check airman must be able to control in the simulator.
 f. It is not required that all of the tasks that appear on the List of Qualified Tasks (part of the SOQ) be accomplished during the initial or continuing qualification evaluation.
 End Information
-ER20MY16.071
-ER20MY16.072
-ER20MY16.073
-ER20MY16.074
-ER20MY16.075
-ER20MY16.076
-ER20MY16.077
-ER20MY16.078
-ER20MY16.079
-ER20MY16.080
-ER20MY16.081
-ER20MY16.082
-ER20MY16.083
-ER20MY16.084
-ER20MY16.085
-ER20MY16.086
-ER20MY16.087
-ER20MY16.088
-ER20MY16.089
-ER20MY16.090
+ER09DE22.057
+ER09DE22.058
+ER09DE22.059
+ER09DE22.060
+ER09DE22.061
+ER09DE22.062
+ER09DE22.063
+ER09DE22.064
+ER09DE22.065
+ER09DE22.066
+ER09DE22.067
+ER09DE22.068
+ER09DE22.069
+ER09DE22.070
+ER09DE22.071
 ER20MY16.091
 ER20MY16.092
 ER20MY16.093
 Table B1C—Table of FTD System Tasks QPS requirements
-QPS Requirements | Entry No. | Subjective RequirementsIn order to be qualified at the FTD qualification level indicated, the FTD must be able to perform at least the tasks associated with that level of qualification. | FTD level | 4 | 5 | 6 | Information | Notes
+QPS Requirements | Entry No. | Subjective Requirements In order to be qualified at the FTD qualification level indicated, the FTD must be able to perform at least the tasks associated with that level of qualification. | FTD level | 4 | 5 | 6 | Information | Notes
 1. Instructor Operating Station (IOS).
 1.a. | Power switch(es) | X | X | X
 1.b. | Airplane conditions | A | X | X | e.g., GW, CG, Fuel loading, Systems, Ground Crew.
@@ -418,69 +413,55 @@ e. A Level 4 FTD does not require objective tests and therefore, Level 4 is not 
 End Information
 Begin QPS Requirements
 2. Test Requirements
-a. The ground and flight tests required for qualification are listed in Table B2A Objective Tests. Computer generated FTD test results must be provided for each test except where an alternate test is specifically authorized by the NSPM. If a flight condition or operating condition is required for the test but does not apply to the airplane being simulated or to the qualification level sought, it may be disregarded (e.g., an engine out missed approach for a single-engine airplane; a maneuver using reverse thrust for an airplane without reverse thrust capability). Each test result is compared against the validation data described in § 60.13, and in Appendix B. The results must be produced on an appropriate recording device acceptable to the NSPM and must include FTD number, date, time, conditions, tolerances, and appropriate dependent variables portrayed in comparison to the validation data. Time histories are required unless otherwise indicated in Table B2A. All results must be labeled using the tolerances and units given.
+a. The ground and flight tests required for qualification are listed in Table B2A Objective Tests. Computer generated FTD test results must be provided for each test except where an alternate test is specifically authorized by the responsible Flight Standards office. If a flight condition or operating condition is required for the test but does not apply to the airplane being simulated or to the qualification level sought, it may be disregarded (e.g., an engine out missed approach for a single-engine airplane; a maneuver using reverse thrust for an airplane without reverse thrust capability). Each test result is compared against the validation data described in § 60.13, and in Appendix B. The results must be produced on an appropriate recording device acceptable to the responsible Flight Standards office and must include FTD number, date, time, conditions, tolerances, and appropriate dependent variables portrayed in comparison to the validation data. Time histories are required unless otherwise indicated in Table B2A. All results must be labeled using the tolerances and units given.
 b. Table B2A in this attachment sets out the test results required, including the parameters, tolerances, and flight conditions for FTD validation. Tolerances are provided for the listed tests because mathematical modeling and acquisition and development of reference data are often inexact. All tolerances listed in the following tables are applied to FTD performance. When two tolerance values are given for a parameter, the less restrictive may be used unless otherwise indicated. In those cases where a tolerance is expressed only as a percentage, the tolerance percentage applies to the maximum value of that parameter within its normal operating range as measured from the neutral or zero position unless otherwise indicated.
 c. Certain tests included in this attachment must be supported with a SOC. In Table B2A, requirements for SOCs are indicated in the "Test Details" column.
 d. When operational or engineering judgment is used in making assessments for flight test data applications for FTD validity, such judgment may not be limited to a single parameter. For example, data that exhibit rapid variations of the measured parameters may require interpolations or a "best fit" data section. All relevant parameters related to a given maneuver or flight condition must be provided to allow overall interpretation. When it is difficult or impossible to match FTD to airplane data throughout a time history, differences must be justified by providing a comparison of other related variables for the condition being assessed.
 e. It is not acceptable to program the FTD so that the mathematical modeling is correct only at the validation test points. Unless otherwise noted, FTD tests must represent airplane performance and handling qualities at operating weights and centers of gravity (CG) typical of normal operation. FTD tests at extreme weight or CG conditions may be acceptable where required for concurrent aircraft certification testing. Tests of handling qualities must include validation of augmentation devices.
 f. When comparing the parameters listed to those of the airplane, sufficient data must also be provided to verify the correct flight condition and airplane configuration changes. For example, to show that control force is within the parameters for a static stability test, data to show the correct airspeed, power, thrust or torque, airplane configuration, altitude, and other appropriate datum identification parameters must also be given. If comparing short period dynamics, normal acceleration may be used to establish a match to the airplane, but airspeed, altitude, control input, airplane configuration, and other appropriate data must also be given. If comparing landing gear change dynamics, pitch, airspeed, and altitude may be used to establish a match to the airplane, but landing gear position must also be provided. All airspeed values must be properly annotated (e.g., indicated versus calibrated). In addition, the same variables must be used for comparison (e.g., compare inches to inches rather than inches to centimeters).
 g. The QTG provided by the sponsor must clearly describe how the FTD will be set up and operated for each test. Each FTD subsystem may be tested independently, but overall integrated testing of the FTD must be accomplished to assure that the total FTD system meets the prescribed standards. A manual test procedure with explicit and detailed steps for completing each test must also be provided.
-h. For previously qualified FTDs, the tests and tolerances of this attachment may be used in subsequent continuing qualification evaluations for any given test if the sponsor has submitted a proposed MQTG revision to the NSPM and has received NSPM approval.
+h. For previously qualified FTDs, the tests and tolerances of this attachment may be used in subsequent continuing qualification evaluations for any given test if the sponsor has submitted a proposed MQTG revision to the responsible Flight Standards office and has received responsible Flight Standards office approval.
 i. FTDs are evaluated and qualified with an engine model simulating the airplane data supplier's flight test engine. For qualification of alternative engine models (either variations of the flight test engines or other manufacturer's engines) additional tests with the alternative engine models may be required. This attachment contains guidelines for alternative engines.
-j. Testing Computer Controlled Aircraft (CCA) simulators, or other highly augmented airplane simulators, flight test data is required for the Normal (N) and/or Non-normal (NN) control states, as indicated in this attachment. Where test results are independent of control state, Normal or Non-normal control data may be used. All tests in Table B2A require test results in the Normal control state unless specifically noted otherwise in the Test Details section following the CCA designation. The NSPM will determine what tests are appropriate for airplane simulation data. When making this determination, the NSPM may require other levels of control state degradation for specific airplane tests. Where Non-normal control states are required, test data must be provided for one or more Non-normal control states, and must include the least augmented state. Where applicable, flight test data must record Normal and Non-normal states for:
+j. Testing Computer Controlled Aircraft (CCA) simulators, or other highly augmented airplane simulators, flight test data is required for the Normal (N) and/or Non-normal (NN) control states, as indicated in this attachment. Where test results are independent of control state, Normal or Non-normal control data may be used. All tests in Table B2A require test results in the Normal control state unless specifically noted otherwise in the Test Details section following the CCA designation. The responsible Flight Standards office will determine what tests are appropriate for airplane simulation data. When making this determination, the responsible Flight Standards office may require other levels of control state degradation for specific airplane tests. Where Non-normal control states are required, test data must be provided for one or more Non-normal control states, and must include the least augmented state. Where applicable, flight test data must record Normal and Non-normal states for:
 (1) Pilot controller deflections or electronically generated inputs, including location of input; and
 (2) Flight control surface positions unless test results are not affected by, or are independent of, surface positions.
-k. Tests of handling qualities must include validation of augmentation devices. FTDs for highly augmented airplanes will be validated both in the unaugmented configuration (or failure state with the maximum permitted degradation in handling qualities) and the augmented configuration. Where various levels of handling qualities result from failure states, validation of the effect of the failure is necessary. Requirements for testing will be mutually agreed to between the sponsor and the NSPM on a case-by-case basis.
-l. Some tests will not be required for airplanes using airplane hardware in the FTD flight deck (e.g., "side stick controller"). These exceptions are noted in Section 2 "Handling Qualities" in Table B2A of this attachment. However, in these cases, the sponsor must provide a statement that the airplane hardware meets the appropriate manufacturer's specifications and the sponsor must have supporting information to that fact available for NSPM review.
+k. Tests of handling qualities must include validation of augmentation devices. FTDs for highly augmented airplanes will be validated both in the unaugmented configuration (or failure state with the maximum permitted degradation in handling qualities) and the augmented configuration. Where various levels of handling qualities result from failure states, validation of the effect of the failure is necessary. Requirements for testing will be mutually agreed to between the sponsor and the responsible Flight Standards office on a case-by-case basis.
+l. Some tests will not be required for airplanes using airplane hardware in the FTD flight deck (e.g., "side stick controller"). These exceptions are noted in Section 2 "Handling Qualities" in Table B2A of this attachment. However, in these cases, the sponsor must provide a statement that the airplane hardware meets the appropriate manufacturer's specifications and the sponsor must have supporting information to that fact available for responsible Flight Standards office review.
 m. For objective test purposes, see Appendix F of this part for the definitions of "Near maximum," "Light," and "Medium" gross weight.
 End QPS Requirements
 Begin Information
 n. In those cases where the objective test results authorize a "snapshot test" or a "series of snapshot test results" in lieu of a time-history result, the sponsor or other data provider must ensure that a steady state condition exists at the instant of time captured by the "snapshot." The steady state condition must exist from 4 seconds prior to, through 1 second following, the instant of time captured by the snap shot.
 o. Refer to AC 120-27, "Aircraft Weight and Balance" and FAA-H-8083-1, "Aircraft Weight and Balance Handbook" for more information.
 End Information
-ER20MY16.094
-ER20MY16.095
-ER20MY16.096
-ER20MY16.097
-ER20MY16.098
-ER20MY16.099
-ER20MY16.100
-ER20MY16.101
-ER20MY16.102
-ER20MY16.103
-ER20MY16.104
-ER20MY16.105
-ER20MY16.106
-ER20MY16.107
-ER20MY16.108
-ER20MY16.109
-ER20MY16.110
-ER20MY16.111
-ER20MY16.112
-ER20MY16.113
-ER20MY16.114
-ER20MY16.115
-ER20MY16.116
-ER20MY16.117
-ER20MY16.118
-ER20MY16.119
-ER20MY16.120
-ER20MY16.121
-ER20MY16.122
-ER20MY16.123
-ER20MY16.124
-ER20MY16.125
-ER20MY16.126
-ER20MY16.127
-ER20MY16.128
-ER20MY16.129
-ER20MY16.130
-ER20MY16.131
-ER20MY16.132
-ER20MY16.133
-ER20MY16.134
-ER20MY16.135
-ER20MY16.170
+ER09DE22.072
+ER09DE22.073
+ER09DE22.074
+ER09DE22.075
+ER09DE22.076
+ER09DE22.077
+ER09DE22.078
+ER09DE22.079
+ER09DE22.080
+ER09DE22.081
+ER09DE22.082
+ER09DE22.083
+ER09DE22.084
+ER09DE22.085
+ER09DE22.086
+ER09DE22.087
+ER09DE22.088
+ER09DE22.089
+ER09DE22.090
+ER09DE22.091
+ER09DE22.092
+ER09DE22.093
+ER09DE22.094
+ER09DE22.095
+ER09DE22.096
+ER09DE22.097
+ER09DE22.098
+ER09DE22.099
+ER09DE22.100
 Begin Information
 3. For additional information on the following topics, please refer to Appendix A, Attachment 2, and the indicated paragraph within that attachment
 • Control Dynamics, paragraph 4.
@@ -497,7 +478,7 @@ End Information
 4. Alternative Objective Data for FTD Level 5
 Begin QPS Requirements
 a. This paragraph (including the following tables) is relevant only to FTD Level 5. It is provided because this level is required to simulate the performance and handling characteristics of a set of airplanes with similar characteristics, such as normal airspeed/altitude operating envelope and the same number and type of propulsion systems (engines).
-b. Tables B2B through B2E reflect FTD performance standards that are acceptable to the FAA. A sponsor must demonstrate that a device performs within these parameters, as applicable. If a device does not meet the established performance parameters for some or for all of the applicable tests listed in Tables B2B through B2E, the sponsor may use NSP accepted flight test data for comparison purposes for those tests.
+b. Tables B2B through B2E reflect FTD performance standards that are acceptable to the FAA. A sponsor must demonstrate that a device performs within these parameters, as applicable. If a device does not meet the established performance parameters for some or for all of the applicable tests listed in Tables B2B through B2E, the sponsor may use FAA accepted flight test data for comparison purposes for those tests.
 c. Sponsors using the data from Tables B2B through B2E must comply with the following:
 (1) Submit a complete QTG, including results from all of the objective tests appropriate for the level of qualification sought as set out in Table B2A. The QTG must highlight those results that demonstrate the performance of the FTD is within the allowable performance ranges indicated in Tables B2B through B2E, as appropriate.
 (2) The QTG test results must include all relevant information concerning the conditions under which the test was conducted; e.g., gross weight, center of gravity, airspeed, power setting, altitude (climbing, descending, or level), temperature, configuration, and any other parameter that impacts the conduct of the test.
@@ -526,11 +507,11 @@ a. Sponsors are not required to use the alternative data sources, procedures, an
 End QPS Requirements
 Begin Information
 b. It has become standard practice for experienced FTD manufacturers to use such techniques as a means of establishing data bases for new FTD configurations while awaiting the availability of actual flight test data; and then comparing this new data with the newly available flight test data. The results of such comparisons have, as reported by some recognized and experienced simulation experts, become increasingly consistent and indicate that these techniques, applied with appropriate experience, are becoming dependably accurate for the development of aerodynamic models for use in Level 6 FTDs.
-c. In reviewing this history, the NSPM has concluded that, with proper care, those who are experienced in the development of aerodynamic models for FTD application can successfully use these modeling techniques to acceptably alter the method by which flight test data may be acquired and, when applied to Level 6 FTDs, does not compromise the quality of that simulation.
+c. In reviewing this history, the responsible Flight Standards office has concluded that, with proper care, those who are experienced in the development of aerodynamic models for FTD application can successfully use these modeling techniques to acceptably alter the method by which flight test data may be acquired and, when applied to Level 6 FTDs, does not compromise the quality of that simulation.
 d. The information in the table that follows (Table of Alternative Data Sources, Procedures, and Information: Level 6 FTD Only) is presented to describe an acceptable alternative to data sources for Level 6 FTD modeling and validation, and an acceptable alternative to the procedures and instrumentation found in the flight test methods traditionally accepted for gathering modeling and validation data.
 (1) Alternative data sources that may be used for part or all of a data requirement are the Airplane Maintenance Manual, the Airplane Flight Manual (AFM), Airplane Design Data, the Type Inspection Report (TIR), Certification Data or acceptable supplemental flight test data.
-(2) The NSPM recommends that use of the alternative instrumentation noted in Table B2F be coordinated with the NSPM prior to employment in a flight test or data gathering effort.
-e. The NSPM position regarding the use of these alternative data sources, procedures, and instrumentation is based on three primary preconditions and presumptions regarding the objective data and FTD aerodynamic program modeling.
+(2) The responsible Flight Standards office recommends that use of the alternative instrumentation noted in Table B2F be coordinated with the responsible Flight Standards office prior to employment in a flight test or data gathering effort.
+e. The responsible Flight Standards office position regarding the use of these alternative data sources, procedures, and instrumentation is based on three primary preconditions and presumptions regarding the objective data and FTD aerodynamic program modeling.
 (1) Data gathered through the alternative means does not require angle of attack (AOA) measurements or control surface position measurements for any flight test. AOA can be sufficiently derived if the flight test program insures the collection of acceptable level, unaccelerated, trimmed flight data. Angle of attack may be validated by conducting the three basic "fly-by" trim tests. The FTD time history tests should begin in level, unaccelerated, and trimmed flight, and the results should be compared with the flight test pitch angle.
 (2) A simulation controls system model should be rigorously defined and fully mature. It should also include accurate gearing and cable stretch characteristics (where applicable) that are determined from actual aircraft measurements. Such a model does not require control surface position measurements in the flight test objective data for Level 6 FTD applications.
 f. Table B2F is not applicable to Computer Controlled Aircraft FTDs.
@@ -538,42 +519,42 @@ g. Utilization of these alternate data sources, procedures, and instrumentation 
 h. The term "inertial measurement system" allows the use of a functional global positioning system (GPS).
 End Information
 Table B2F—Alternative Data Sources, Procedures, and Instrumentation Level 6 FTD
-QPS RequirementsThe standards in this table are required if the data gathering methods described in paragraph 9 of Appendix B are not used. | Objective test reference number and title | Alternative data sources, procedures, and instrumentation | Information | Notes
-1.b.1.Performance. Takeoff. Ground acceleration time. | Data may be acquired through a synchronized video recording of a stop watch and the calibrated airplane airspeed indicator. Hand-record the flight conditions and airplane configuration | This test is required only if RTO is sought.
-1.b.7.Performance. Takeoff. Rejected takeoff. | Data may be acquired through a synchronized video recording of a stop watch and the calibrated airplane airspeed indicator. Hand-record the flight conditions and airplane configuration | This test is required only if RTO is sought.
-1.c.1.Performance. Climb. Normal climb all engines operating. | Data may be acquired with a synchronized video of calibrated airplane instruments and engine power throughout the climb range
-1.f.1.Performance. Engines. Acceleration | Data may be acquired with a synchronized video recording of engine instruments and throttle position
-1.f.2.Performance. Engines. Deceleration | Data may be acquired with a synchronized video recording of engine instruments and throttle position
-2.a.1.a.Handling qualities. Static control tests. Pitch controller position vs. force and surface position calibration. | Surface position data may be acquired from flight data recorder (FDR) sensor or, if no FDR sensor, at selected, significant column positions (encompassing significant column position data points), acceptable to the NSPM, using a control surface protractor on the ground. Force data may be acquired by using a hand held force gauge at the same column position data points | For airplanes with reversible control systems, surface position data acquisition should be accomplished with winds less than 5 kts.
-2.a.2.a.Handling qualities. Static control tests. Wheel position vs. force and surface position calibration. | Surface position data may be acquired from flight data recorder (FDR) sensor or, if no FDR sensor, at selected, significant wheel positions (encompassing significant wheel position data points), acceptable to the NSPM, using a control surface protractor on the ground. Force data may be acquired by using a hand held force gauge at the same wheel position data points | For airplanes with reversible control systems, surface position data acquisition should be accomplished with winds less than 5 kts.
-2.a.3.a.Handling qualities. Static control tests. Rudder pedal position vs. force and surface position calibration. | Surface position data may be acquired from flight data recorder (FDR) sensor or, if no FDR sensor, at selected, significant rudder pedal positions (encompassing significant rudder pedal position data points), acceptable to the NSPM, using a control surface protractor on the ground. Force data may be acquired by using a hand held force gauge at the same rudder pedal position data points | For airplanes with reversible control systems, surface position data acquisition should be accomplished with winds less than 5 kts.
-2.a.4.Handling qualities. Static control tests. Nosewheel steering force. | Breakout data may be acquired with a hand held force gauge. The remainder of the force to the stops may be calculated if the force gauge and a protractor are used to measure force after breakout for at least 25% of the total displacement capability
-2.a.5.Handling qualities. Static control tests. Rudder pedal steering calibration. | Data may be acquired through the use of force pads on the rudder pedals and a pedal position measurement device, together with design data for nosewheel position
-2.a.6.Handling qualities. Static control tests. Pitch trim indicator vs. surface position calibration. | Data may be acquired through calculations
-2.a.8.Handling qualities. Static control tests. Alignment of power lever angle vs. selected engine parameter (e.g., EPR, N1, Torque, Manifold pressure). | Data may be acquired through the use of a temporary throttle quadrant scale to document throttle position. Use a synchronized video to record steady state instrument readings or hand-record steady state engine performance readings
-2.a.9.Handling qualities. Static control tests. Brake pedal position vs. force. | Use of design or predicted data is acceptable. Data may be acquired by measuring deflection at "zero" and at "maximum."
-2.c.1.Handling qualities. Longitudinal control tests. Power change force. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments, throttle position, and the force/position measurements of flight deck controls | Power change dynamics test is acceptable using the same data acquisition methodology.
-2.c.2.Handling qualities. Longitudinal control tests. Flap/slat change force. | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments, flap/slat position, and the force/position measurements of flight deck controls | Flap/slat change dynamics test is acceptable using the same data acquisition methodology.
-2.c.4.Handling qualities. Longitudinal control tests. Gear change force. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments, gear position, and the force/position measurements of flight deck controls | Gear change dynamics test is acceptable using the same data acquisition methodology.
-2.c.5.Handling qualities. Longitudinal control tests. Longitudinal trim. | Data may be acquired through use of an inertial measurement system and a synchronized video of flight deck controls position (previously calibrated to show related surface position) and engine instrument readings
-2.c.6.Handling qualities. Longitudinal control tests. Longitudinal maneuvering stability (stick force/g). | Data may be acquired through the use of an inertial measurement system and a synchronized video of the calibrated airplane instruments; a temporary, high resolution bank angle scale affixed to the attitude indicator; and a wheel and column force measurement indication
-2.c.7.Handling qualities. Longitudinal control tests. Longitudinal static stability | Data may be acquired through the use of a synchronized video of the airplane flight instruments and a hand held force gauge
-2.c.8.Handling qualities. Longitudinal control tests. Stall Warning (activation of stall warning device). | Data may be acquired through a synchronized video recording of a stop watch and the calibrated airplane airspeed indicator. Hand-record the flight conditions and airplane configuration | Airspeeds may be cross checked with those in the TIR and AFM.
-2.c.9.a.Handling qualities. Longitudinal control tests. Phugoid dynamics. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck controls
-2.c.10.Handling qualities. Longitudinal control tests. Short period dynamics. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck controls
-2.c.11.Handling qualities. Longitudinal control tests. Gear and flap/slat operating times. | May use design data, production flight test schedule, or maintenance specification, together with an SOC
-2.d.2.Handling qualities. Lateral directional tests. Roll response (rate). | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck lateral controls
-2.d.3.Handling qualities. Lateral directional tests. (a) Roll overshoot. OR (b) Roll response to flight deck roll controller step input. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck lateral controls
-2.d.4.Handling qualities. Lateral directional tests. Spiral stability. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments; the force/position measurements of flight deck controls; and a stop watch
-2.d.6.a.Handling qualities. Lateral directional tests. Rudder response. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments; the force/position measurements of rudder pedals
-2.d.7.Handling qualities. Lateral directional tests. Dutch roll, (yaw damper OFF). | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck controls
-2.d.8.Handling qualities. Lateral directional tests. Steady state sideslip. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck controls
+QPS Requirements The standards in this table are required if the data gathering methods described in paragraph 9 of Appendix B are not used. | Objective test reference number and title | Alternative data sources, procedures, and instrumentation | Information | Notes
+1.b.1. Performance. Takeoff. Ground acceleration time. | Data may be acquired through a synchronized video recording of a stop watch and the calibrated airplane airspeed indicator. Hand-record the flight conditions and airplane configuration | This test is required only if RTO is sought.
+1.b.7. Performance. Takeoff. Rejected takeoff. | Data may be acquired through a synchronized video recording of a stop watch and the calibrated airplane airspeed indicator. Hand-record the flight conditions and airplane configuration | This test is required only if RTO is sought.
+1.c.1. Performance. Climb. Normal climb all engines operating. | Data may be acquired with a synchronized video of calibrated airplane instruments and engine power throughout the climb range
+1.f.1. Performance. Engines. Acceleration | Data may be acquired with a synchronized video recording of engine instruments and throttle position
+1.f.2. Performance. Engines. Deceleration | Data may be acquired with a synchronized video recording of engine instruments and throttle position
+2.a.1.a. Handling qualities. Static control tests. Pitch controller position vs. force and surface position calibration | Surface position data may be acquired from flight data recorder (FDR) sensor or, if no FDR sensor, at selected, significant column positions (encompassing significant column position data points), acceptable to the responsible Flight Standards office, using a control surface protractor on the ground. Force data may be acquired by using a hand held force gauge at the same column position data points. | For airplanes with reversible control systems, surface position data acquisition should be accomplished with winds less than 5 kts.
+2.a.2.a. Handling qualities. Static control tests. Wheel position vs. force and surface position calibration. | Surface position data may be acquired from flight data recorder (FDR) sensor or, if no FDR sensor, at selected, significant wheel positions (encompassing significant wheel position data points), acceptable to the responsible Flight Standards office, using a control surface protractor on the ground. Force data may be acquired by using a hand held force gauge at the same wheel position data points. | For airplanes with reversible control systems, surface position data acquisition should be accomplished with winds less than 5 kts.
+2.a.3.a. Handling qualities. Static control tests. Rudder pedal position vs. force and surface position calibration. | Surface position data may be acquired from flight data recorder (FDR) sensor or, if no FDR sensor, at selected, significant rudder pedal positions (encompassing significant rudder pedal position data points), acceptable to the responsible Flight Standards office, using a control surface protractor on the ground. Force data may be acquired by using a hand held force gauge at the same rudder pedal position data points. | For airplanes with reversible control systems, surface position data acquisition should be accomplished with winds less than 5 kts.
+2.a.4. Handling qualities. Static control tests. Nosewheel steering force. | Breakout data may be acquired with a hand held force gauge. The remainder of the force to the stops may be calculated if the force gauge and a protractor are used to measure force after breakout for at least 25% of the total displacement capability
+2.a.5. Handling qualities. Static control tests. Rudder pedal steering calibration. | Data may be acquired through the use of force pads on the rudder pedals and a pedal position measurement device, together with design data for nosewheel position
+2.a.6. Handling qualities. Static control tests. Pitch trim indicator vs. surface position calibration. | Data may be acquired through calculations
+2.a.8. Handling qualities. Static control tests. Alignment of power lever angle vs. selected engine parameter (e.g., EPR, N 1, Torque, Manifold pressure). | Data may be acquired through the use of a temporary throttle quadrant scale to document throttle position. Use a synchronized video to record steady state instrument readings or hand-record steady state engine performance readings
+2.a.9. Handling qualities. Static control tests. Brake pedal position vs. force. | Use of design or predicted data is acceptable. Data may be acquired by measuring deflection at "zero" and at "maximum."
+2.c.1. Handling qualities. Longitudinal control tests. Power change force. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments, throttle position, and the force/position measurements of flight deck controls | Power change dynamics test is acceptable using the same data acquisition methodology.
+2.c.2. Handling qualities. Longitudinal control tests. Flap/slat change force. | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments, flap/slat position, and the force/position measurements of flight deck controls | Flap/slat change dynamics test is acceptable using the same data acquisition methodology.
+2.c.4. Handling qualities. Longitudinal control tests. Gear change force. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments, gear position, and the force/position measurements of flight deck controls | Gear change dynamics test is acceptable using the same data acquisition methodology.
+2.c.5. Handling qualities. Longitudinal control tests. Longitudinal trim. | Data may be acquired through use of an inertial measurement system and a synchronized video of flight deck controls position (previously calibrated to show related surface position) and engine instrument readings
+2.c.6. Handling qualities. Longitudinal control tests. Longitudinal maneuvering stability (stick force/g). | Data may be acquired through the use of an inertial measurement system and a synchronized video of the calibrated airplane instruments; a temporary, high resolution bank angle scale affixed to the attitude indicator; and a wheel and column force measurement indication
+2.c.7. Handling qualities. Longitudinal control tests. Longitudinal static stability | Data may be acquired through the use of a synchronized video of the airplane flight instruments and a hand held force gauge
+2.c.8. Handling qualities. Longitudinal control tests. Stall Warning (activation of stall warning device). | Data may be acquired through a synchronized video recording of a stop watch and the calibrated airplane airspeed indicator. Hand-record the flight conditions and airplane configuration | Airspeeds may be cross checked with those in the TIR and AFM.
+2.c.9.a. Handling qualities. Longitudinal control tests. Phugoid dynamics. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck controls
+2.c.10. Handling qualities. Longitudinal control tests. Short period dynamics. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck controls
+2.c.11. Handling qualities. Longitudinal control tests. Gear and flap/slat operating times. | May use design data, production flight test schedule, or maintenance specification, together with an SOC
+2.d.2. Handling qualities. Lateral directional tests. Roll response (rate). | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck lateral controls
+2.d.3. Handling qualities. Lateral directional tests. (a) Roll overshoot. OR (b) Roll response to flight deck roll controller step input. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck lateral controls
+2.d.4. Handling qualities. Lateral directional tests. Spiral stability. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments; the force/position measurements of flight deck controls; and a stop watch
+2.d.6.a. Handling qualities. Lateral directional tests. Rudder response. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments; the force/position measurements of rudder pedals
+2.d.7. Handling qualities. Lateral directional tests. Dutch roll, (yaw damper OFF). | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck controls
+2.d.8. Handling qualities. Lateral directional tests. Steady state sideslip. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck controls
 Attachment 3 to Appendix B to Part 60—Flight Training Device (FTD) Subjective Evaluation
 Begin Information
 1. Discussion
 a. The subjective tests provide a basis for evaluating the capability of the FTD to perform over a typical utilization period. The items listed in the Table of Functions and Subjective Tests are used to determine whether the FTD competently simulates each required maneuver, procedure, or task; and verifying correct operation of the FTD controls, instruments, and systems. The tasks do not limit or exceed the authorizations for use of a given level of FTD as described on the SOQ or as approved by the TPAA. All items in the following paragraphs are subject to examination.
-b. All simulated airplane systems functions will be assessed for normal and, where appropriate, alternate operations. Simulated airplane systems are listed separately under "Any Flight Phase" to ensure appropriate attention to systems checks. Operational navigation systems (including inertial navigation systems, global positioning systems, or other long-range systems) and the associated electronic display systems will be evaluated if installed. The NSP pilot will include in his report to the TPAA, the effect of the system operation and any system limitation.
-c. At the request of the TPAA, the NSP Pilot may assess the FTD for a special aspect of a sponsor's training program during the functions and subjective portion of an evaluation. Such an assessment may include a portion of a specific operation (e.g., a Line Oriented Flight Training (LOFT) scenario) or special emphasis items in the sponsor's training program. Unless directly related to a requirement for the qualification level, the results of such an evaluation would not affect the qualification of the FTD.
+b. All simulated airplane systems functions will be assessed for normal and, where appropriate, alternate operations. Simulated airplane systems are listed separately under "Any Flight Phase" to ensure appropriate attention to systems checks. Operational navigation systems (including inertial navigation systems, global positioning systems, or other long-range systems) and the associated electronic display systems will be evaluated if installed. The pilot will include in his report to the TPAA, the effect of the system operation and any system limitation.
+c. At the request of the TPAA, the Pilot may assess the FTD for a special aspect of a sponsor's training program during the functions and subjective portion of an evaluation. Such an assessment may include a portion of a specific operation (e.g., a Line Oriented Flight Training (LOFT) scenario) or special emphasis items in the sponsor's training program. Unless directly related to a requirement for the qualification level, the results of such an evaluation would not affect the qualification of the FTD.
 End Information
 Table B3A—Table of Functions and Subjective Tests Level 6 FTD
 QPS requirements | Entry No. | Operations tasks
@@ -675,7 +656,7 @@ Tasks in this table are subject to evaluation if appropriate for the airplane sy
 11.b. | Adjustments.
 End QPS Requirements
 Table B3B—Table of Functions and Subjective Tests Level 5 FTD
-QPS requirements | Entry No. | Operations tasksTasks in this table are subject to evaluation if appropriate for the airplane system or systems simulated as indicated in the SOQ Configuration List as defined in Appendix B, Attachment 2 of this part.
+QPS requirements | Entry No. | Operations tasks Tasks in this table are subject to evaluation if appropriate for the airplane system or systems simulated as indicated in the SOQ Configuration List as defined in Appendix B, Attachment 2 of this part.
 1. Preflight
 | Accomplish a functions check of all installed switches, indicators, systems, and equipment at all crewmembers' and instructors' stations, and determine that the flight deck (or flight deck area) design and functions replicate the appropriate airplane.
 2. Surface Operations (pre-takeoff)
@@ -705,9 +686,7 @@ QPS requirements | Entry No. | Operations tasksTasks in this table are subject t
 6.c. | Airplane system malfunctions (Installed systems).
 6.c.1. | Insertion/deletion.
 6.c.2. | Problem clear.
-Table B3C—Table of Functions and Subjective Tests Level 4 FTD
-QPS requirements | Entry No. | Operations tasksTasks in this table are subject to evaluation if appropriate for the airplane system or systems simulated as indicated in the SOQ Configuration List as defined in Appendix B, Attachment 2 of this part.
-1. | Level 4 FTDs are required to have at least one operational system. The NSPM will accomplish a functions check of all installed systems, switches, indicators, and equipment at all crewmembers' and instructors' stations, and determine that the flight deck (or flight deck area) design and functions replicate the appropriate airplane.
+ER09DE22.102
 ER20MY16.148
 ER20MY16.149
 ER20MY16.150
@@ -732,18 +711,27 @@ Figure B4D Sample Qualification Test Guide Cover Page
 Figure B4E Sample Statement of Qualification—Certificate
 Figure B4F Sample Statement of Qualification—Configuration List
 Figure B4G Sample Statement of Qualification—List of Qualified Tasks
-Figure B4H Sample Continuing Qualification Evaluation Requirements Page
+Figure B4H [Reserved]
 Figure B4I Sample MQTG Index of Effective FTD Directives
-ER09MY08.020
+Attachment 4 to Appendix B to Part 60—Figure B4A—Sample Letter, Request for Initial, Upgrade, or Reinstatement Evaluation
+Information
+ER09DE22.103
+ER09DE22.104
 ER09MY08.021
 ER09MY08.022
 ER09MY08.023
-ER09MY08.024
-ER09MY08.025
-ER09MY08.026
+Attachment 4 to Appendix B to Part 60—Figure B4C—Sample Letter of Compliance
+Information
+ER09DE22.105
+Attachment 4 to Appendix B to Part 60—Figure B4D—Sample Qualification Test Guide Cover Page
+Information
+ER09DE22.106
+Attachment 4 to Appendix B to Part 60— Figure B4E—Sample Statement of Qualification—Certificate
+Information
+ER09DE22.128
 ER09MY08.028
 ER09MY08.029
 ER09MY08.030
 ER09MY08.031
-ER09MY08.032
+Attachment 4 to Appendix B to Part 60—Figure B4H [Reserved]
 ER09MY08.033
