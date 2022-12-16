@@ -1,66 +1,41 @@
 # Appendix A to Part 5—FOIA/Privacy Act Offices of the Department of Homeland Security
-I. For the following Headquarters components of the Department of Homeland Security, FOIA and Privacy Act requests should be sent to the Departmental Disclosure Office, Department of Homeland Security, Washington, DC 20528. The Headquarters components are:
-A
+I. For the following Headquarters Offices of the Department of Homeland Security, FOIA and Privacy Act requests should either be mailed to the Department's Privacy Office, Mail Stop 0655, U.S. Department of Homeland Security, 2707 Martin Luther King Jr. Ave. SE, Washington, DC 20528-0655, or submitted electronically through https://foiarequest.dhs.gov/. To respond to your FOIA or Privacy Act request as quickly as possible, we strongly encourage you to submit your request electronically. Additional contact information for questions: Phone: 202-343-1743 or 866-431-0486, Fax: 202-343-4011, or Email: foia@hq.dhs.gov. The Public Liaison may also be contacted using this information.
+The Headquarters Offices are:
 Office of the Secretary
 Office of the Deputy Secretary
-Office of the Under Secretary for Management
-B
-Office of the General Counsel
-Office of the Inspector General
-Office of International Affairs
-Office of Legislative Affairs
-Office of Public Affairs
-Office of National Capital Region Coordination
-Office of Professional Responsibility
-Office for State and Local Government Coordination
-C
-Directorate of Border and Transportation Security
-Directorate of Emergency Preparedness and Response
-Directorate of Information Analysis and Infrastructure Protection
-Directorate of Science and Technology
-II. Requests made to components that have transferred or will transfer into the Department of Homeland Security, should be sent as follows:
-A. Former components of the Department of Agriculture:
-1. Animal and Plant Health Inspection Service, USDA, APHIS, LPA, FOIA, 4700 River Road, Unit 50, Riverdale, MD 20737-1232
-2. Plum Island Animal Disease Center; Submit request to the APHIS address above or, FOIA Coordinator, USDA-REE-ARS-Information Staff, 5601 Sunnyside Avenue, Bldg. 1, Room 2248, Mail Stop 5128, Beltsville, MD 20705-5128
-B. Former components of the Department of Commerce:
-1. Critical Infrastructure Assurance Office (A former office of the Bureau of Industry and Security); Freedom of Information Coordinator, Bureau of Industry and Security, Room 6883, U.S. Department of Commerce, Washington, DC 20230
-2. FIRESTAT (formerly the Integrated Hazard Information System of the National Oceanic and Atmospheric Administration), National Oceanic and Atmospheric Administration, Public Reference Facility (OFAx2), 1315 East-West Highway (SSMC3), Room 10703, Silver Spring, MD 20910
-C. Former components of the Department of Defense:
-1. National Communications Service (A former component of the Defense Information Systems Agency), Defense Information Systems Agency, ATTN: RGC/FOIA Officer, 701 S. Courthouse Rd., Arlington, VA 22204-2199
-D. Former components and programs of the Department of Energy:
-The address for each component and program listed below is: U.S. Department of Energy, 1000 Independence Avenue, SW., Washington, DC 20585
-1. Energy Assurance Office
-2. Environmental Measurements Laboratory
-3. Nuclear Incident Response Team
-4. The chemical and biological national security and supporting programs and activities of the non-proliferation and verification research and development program.
-5. The life sciences activities related to microbial pathogens of Biological and Environmental Research Program.
-6. The nuclear smuggling programs and activities within the proliferation detection program of the non-proliferation and verification research and development program.
-7. The nuclear assessment program and activities of the assessment, detection, and cooperation program of the international materials protection and cooperation program, and the advanced scientific computing research program and activities at Lawrence Livermore National Laboratory.
-8. National Infrastructure Simulation and Analysis Center
-E. Former components of the Department of Health and Human Services:
-1. The address for each component and program listed below is: Department of Health and Human Services, Freedom of Information Officer, Room 645-F, Hubert H. Humphrey Building, Independence Avenue, SW., Washington, DC 20201;
-a. Metropolitan Medical Response System,
-b. National Disaster Medical System, and
-c. Office of Emergency Preparedness
-d. Strategic National Stockpile
-2. Centers for Disease Control and Agency for Toxic Substances and Disease Registry, Attn: FOI Office, MS-D54, 1600 Clifton Road, NE., Atlanta, GA 30333.
-F. Former components of the Department of Justice:
-1. Immigration and Naturalization Service, Director, Freedom of Information/Privacy Act Program, Department of Justice, 425 Eye Street, NW., 2nd Floor, ULLICO Building, Washington, DC 20536 (for field offices, consult your phone book).
-2. The address for each component and program listed below is: Federal Bureau of Investigation, Chief, FOIPA Section, 935 Pennsylvania Avenue, NW., Department of Justice, Washington, DC 20535-0001;
-a. National Infrastructure Protection Center,
-b. National Domestic Preparedness Office, and
-c. Domestic Emergency Support Team.
-3. Office of Domestic Preparedness, U.S. Department of Justice, Office of Justice Programs, Office of the General Counsel, Attention: FOIA Staff, 810 7th Street, NW., Room 5400, Washington, DC 20531.
-G. Former components of the Department of State:
-Visa Office, Information and Privacy Coordinator, Office of Information Resources, Management Programs and Services, A/RPS/IPS, SA-2, Department of State, Washington, DC 20522-6001, Re: Freedom of Information Act Request.
-H. Former components of the Department of Transportation:
-1. Federal Aviation Administration, National Freedom of Information Act Staff, ARC-40, 800 Independence Avenue, SW., Washington, DC 20591 (for regional centers, consult your phone book).
-2. Transportation Security Administration, TSA-1, FOIA Division, 400 Seventh Street, SW., Washington, DC 20590
-3. United States Coast Guard, HQ USCG Commandant, G-CIM, 2100 Second Street, SW., Washington, DC 20593-0001 (for district offices, consult your phone book).
-I. Former components of the Department of Treasury:
-1. Federal Law Enforcement Training Center, Freedom of Information Act Officer, Townhouse 389, Glynco, GA 31524
-2. U.S. Customs Service, Freedom of Information Act Request, Mint Annex, 1300 Pennsylvania Avenue, NW., Washington, DC 20229 (for field offices, consult your phone book).
-3. U.S. Secret Service, Freedom of Information Act Request, 950 H Street, NW., Suite 3000, Washington, DC 20223, e-mail FOIA@USSS.Treas.gov. Appeals should be addressed to the Deputy Director, United States Secret Service, Freedom of Information and Privacy Act Appeal Officer, at these same contact points.
-J. Federal Emergency Management Agency: Federal Emergency Management Agency, Office of General Counsel, 500 C Street, SW., Room 840, Washington, DC 20472 (for regional offices, consult your phone book).
-K. Former components of the General Services Administration:
-1. For the Federal Computer Incident Response Center and the Federal Protective Service: Chief, FOIA Information Management Branch, GSA (CAIM), 1800 F Street, NW., Washington, DC 20405 (for regional offices, consult your phone book).
+Office of the General Counsel (OGC)
+Office of the Executive Secretary (ESEC)
+Office of Intelligence and Analysis (I&A)
+Office of Legislative Affairs (OLA)
+Office of Operations Coordination (OPS)
+Office of Partnership and Engagement (OPE)
+Office of Public Affairs (OPA)
+Office of Strategy, Policy, and Plans (PLCY)
+Citizenship and Immigration Services Ombudsman (CISOMB)
+Civil Rights and Civil Liberties (CRCL) Countering Weapons of Mass Destruction Office (CWMD)
+Federal Protective Service (FPS)
+Management Directorate (MGMT), including the Office of Biometric Identity Management (OBIM)
+Military Advisor's Office (MIL)
+Privacy Office (PRIV)
+Science and Technology Directorate (S&T)
+II. For the following components and offices of the Department of Homeland Security, FOIA and Privacy Act requests should be sent to the component's FOIA Office, unless otherwise noted below. For each component, the Public Liaison may also be contacted using the information below. The components are:
+Cybersecurity and Infrastructure Security Agency (CISA)
+All requests should be either be mailed to the Department's Privacy Office, Mail Stop 0655, U.S. Department of Homeland Security, 2707 Martin Luther King Jr. Ave. SE, Washington, DC 20528-0655, or submitted electronically through https://foiarequest.dhs.gov/. To respond to your FOIA or Privacy Act request as quickly as possible, we strongly encourage you to submit your request electronically. Additional contact information for questions: Phone: 202-343-1743 or 866-431-0486, Fax: 202-343-4011, or Email: CISAFOIA@hq.dhs.gov.
+U.S. Customs and Border Protection (CBP)
+All requests should be mailed to U.S. Customs and Border Protection, Office of Privacy and Diversity Office, 90 K Street NE, Mail Stop 1181, 9th Floor, or submitted electronically at https://foiaonline.gov/foiaonline/action/public/home or cbpfoiapublicliaison@cbp.dhs.gov. Electronic requests should be made to https://foiarequest.dhs.gov/ once CBP is no longer listed as an agency on https://foiaonline.gov/foiaonline/action/public/home. To respond to your FOIA or Privacy Act request as quickly as possible, we strongly encourage you to submit your request electronically. Additional contact information for questions: Phone: 202-325-0150.
+Federal Emergency Management Agency (FEMA)
+All requests should be mailed to FOIA Officer, 500 C Street SW, Room 840, Washington, DC 20472, or submitted electronically through https://foiarequest.dhs.gov/. To respond to your FOIA or Privacy Act request as quickly as possible, we strongly encourage you to submit your request electronically. Additional contact information for questions: Phone: 202-646-3323, Fax: 202-646-3347, or Email: fema-foia@fema.dhs.gov.
+Federal Law Enforcement Training Center (FLETC)
+All requests should be mailed to Freedom of Information Act Officer, Building #681, Suite B187, 1131 Chapel Crossing Road, Glico, GA 31524, or submitted electronically to https://foiarequest.dhs.gov/. To respond to your FOIA or Privacy Act request as quickly as possible, we strongly encourage you to submit your request electronically. Additional contact information for questions: Phone: 912-267-3103, Fax: 912-267-3113, or Email: fletc-foia@dhs.gov.
+Immigration and Customs Enforcement (ICE)
+All requests should be mailed to Freedom of Information Act Office, 500 12th Street SW, Stop 5009, Washington, DC 20536-5009, or submitted electronically through https://foiarequest.dhs.gov/. To respond to your FOIA or Privacy Act request as quickly as possible, we strongly encourage you to submit your request electronically. Additional contact information for questions: Phone: 866-633-1182, Fax: 202-732-4265, or Email: ice-foia@ice.dhs.gov.
+Office of Inspector General
+All requests should be mailed to the OIG Office of Counsel, 245 Murray Lane SW, Mail Stop—0305, Washington, DC 20528-0305, or submitted electronically through https://foiarequest.dhs.gov/. To respond to your FOIA or Privacy Act request as quickly as possible, we strongly encourage you to submit your request electronically. Additional contact information for questions: Phone: 202-981-6100, Fax: 202-245-5217, or Email: foia.oig@oig.dhs.gov.
+Transportation Security Administration (TSA)
+All requests should be mailed to Freedom of Information Act Branch, 6595 Springfield Center Drive, Springfield, VA 20598-6020, or submitted electronically through https://foiarequest.dhs.gov/. To respond to your FOIA or Privacy Act request as quickly as possible, we strongly encourage you to submit your request electronically. Additional contact information for questions: Phone: 1-866-FOIA-TSA or 571-227-2300, Fax: 571-227-1406, or Email: foia@tsa.dhs.gov.
+U.S. Citizenship and Immigration Services (USCIS)
+All requests should be mailed to National Records Center, FOIA/PA Office, P. O. Box 648010, Lee's Summit, MO. 64064-8010 or submitted electronically through the USCIS FOIA Portal: https://first.uscis.gov/. To respond to your FOIA or Privacy Act request as quickly as possible, we strongly encourage you to submit your request electronically. Additional contact information for questions: Phone: 1-800-375-5283, USCIS Contact Center, or Email: FOIAPAQuestions@uscis.dhs.gov.
+U.S. Coast Guard (USCG)
+All requests should be mailed to Commandant (CG-6P), 2703 Martin Luther King Jr. Ave. SE, Stop 7710, Washington, DC 20593-7710, or submitted electronically through https://foiarequest.dhs.gov/. To respond to your FOIA or Privacy Act request as quickly as possible, we strongly encourage you to submit your request electronically. Additional contact information for questions: Phone: 202-475-3522, Fax: 202-372-8413, or Email: efoia@uscg.mil.
+U.S. Secret Service (USSS)
+All requests should be mailed to Freedom of Information Act and Privacy Act Branch, 245 Murray Lane SW, Building T-5, Washington, DC 20223, or submitted electronically to FOIA@usss.dhs.gov. To respond to your FOIA or Privacy Act request as quickly as possible, we strongly encourage you to submit your request electronically. Additional contact information for questions: Phone: 202-406-6370, Fax: 202-406-5586, or Email: FOIA@usss.dhs.gov.
