@@ -1,6 +1,6 @@
 # Supplement No. 6 to Part 744—Unverified List
 Exports, reexports, and transfers (in-country) involving parties to the transaction who are listed in this supplement are subject to the restrictions and requirements outlined in § 744.15 of the EAR.
-Country | Listed person and address | Federal Register citation and date of publication
+Country | Listed person and address | Federal Register citation
 ARMENIA | Atlas Sanatgaran, Komitas 26/114, Yerevan, Armenia | 85 FR 64017, October 9, 2020.
 | Iranian & Armenian, Komitas 26/114, Yerevan, Armenia | 85 FR 64017, October 9, 2020.
 | Piricas Trading Company, No. 20 Heratsi 2A, Yerevan, Armenia | 85 FR 64017, October 9, 2020.
@@ -8,53 +8,71 @@ AZERBAIJAN | Caspian Oil Montaj, Office 39, Block B, 30 Kaverochkin Street, Baku
 CANADA | Laval Electronics, 3073 Rue Edmond-Rostand, Laval, QC H7P, Canada | 83 FR 22844, May 17, 2018.
 | Rizma, Inc., 1403-8 McKee Avenue, Toronto, Ontario M2N 7E5, Canada | 80 FR 60532, October 7, 2015.
 | Services GP Tek, a.k.a. Nouvelle Option, 1305 Rue Pise, Brossard, QC J4W 2P7, Canada; and 203-760 Rue Galt, Montreal, QC H4G 2P7, Canada; and 6271 Rue Beaulieu, Montreal, QC, H4E 3E9, Canada | 83 FR 22844, May 17, 2018.
-CHINA | Able Supply Chain Limited, Rm 511, 5/F, Corporation Park, 1 On Lai Street, Sha Tin, New Territories, Hong Kong; and Rm 605, 6/F, Corporation Park, 1 On Lai Street, Sha Tin, New Territories, Hong Kong; and Unit C, 9/F, Winning House, No. 72-76 Wing Lok Street, Sheung Wan, Hong Kong | 84 FR 14610, April 11, 2019.
-| Anhui Institute of Metrology, No. 13, Yanan Road, Baohe Industrial Development District, Hefei, China 230051 | 84 FR 14610, April 11, 2019.
+CHINA, PEOPLE'S REPUBLIC OF | Able Supply Chain Limited, Rm 511, 5/F, Corporation Park, 1 On Lai Street, Sha Tin, New Territories, Hong Kong; and Rm 605, 6/F, Corporation Park, 1 On Lai Street, Sha Tin, New Territories, Hong Kong; and Unit C, 9/F, Winning House, No. 72-76 Wing Lok Street, Sheung Wan, Hong Kong | 84 FR 14610, April 11, 2019.
+| AECC South Industry Co., Ltd., Dongjiaduan, Lusong District, Zhuzhou, Hunan Province, China | 87 FR 7039, February 8, 2022.
 | ARI International, Ltd., Room 1208, Block B, Jiangsu Building, No. 6013 Yitian Road, Futian District, Shenzhen, China | 82 FR 16732, April 6, 2017.
-| AW Industrial Ltd., Room A, 3/F Hung Fook Industrial Building, No 60 Hung To Road, Kwun Tong, Kowloon, Hong Kong; and D1 6/F Kras Asia Industrial Building, No 79 Hung To Road, Kwung Tong, Hong Kong | 85 FR 83789, 12/23/20.
+| AW Industrial Ltd., Room A, 3/F Hung Fook Industrial Building, No 60 Hung To Road, Kwun Tong, Kowloon, Hong Kong; and D1 6/F Kras Asia Industrial Building, No 79 Hung To Road, Kwung Tong, Hong Kong | 85 FR 83789, December 23, 2020.
+| Beijing PowerMac Company, B-1501, Calzhi International Building', 18 Zhongguancun East Road, Haidian District, Beijing, China | 87 FR 61975, October 13, 2022.
+| Beijing SWT Science, Yingbinbei Road 36, Yanjiao Economic & Development Zone, Sanhe City, Hebei Province, China | 87 FR 7039, February 8, 2022.
+| Beijing Zhonghehangxun Technology Co., Ltd., Room 1705, Kaixuancheng Building E, No. 170 Beiyuan Road, Chaoyang District, Beijing, China | 87 FR 7039, February 8, 2022.
 | Boqur International Ltd., Room 1203, 12/F, International Trade Centre, 11-19 Sha Tsui Road, Tsuen Wan, New Territories, Hong Kong; and Room 19C, Lockhart Centre, 301-307 Lockhart Road, Wan Chai, Hong Kong | 81 FR 40171, June 21, 2016.
 | Boson Technology Co., Limited., Unit 22, 10/F, Nan Fung Commercial Centre, 19 Lam Lok Street, Kowloon, Kwun Tong, Hong Kong; and Room 1907, 19/F, Lee Garden One, 33 Hysan Avenue, Causeway Bay, Hong Kong; and Room 1501 (462), 15/F., SPA Centre, 53-55 Lockhart Road, Wan Chai, Hong Kong | 84 FR 14610, April 11, 2019.
 | Brilliance Technology Ltd, a.k.a., Brilliance Technology Group, Flat A, 11/F, Adolfo Mansion, 114-116 Austin Road, Tsim Sha Tsui, Yau Tsim Mong, Hong Kong; and Rm. 1203, 12/F, Hip Kwan Commercial Bldg., 38 Pitt Street, Yau Ma Tei, Yau Tsim Mong, Hong Kong | 79 FR 34220, June 16, 2014; 82 FR 16732, April 6, 2017.
 | Carry Goldstar Ltd., 15A, 15/F, Cheuk Nang Plaza, 250 Hennessy Road, Wan Chai, Hong Kong | 81 FR 40171, June 21, 2016.
-| Center for High Pressure Science and Technology Advanced Research, 1690 Cailun Rd, Bldg #6, Pudong, Shanghai, China 201203 | 84 FR 14610, April 11, 2019.
 | Central Right Investments Ltd., Room 1019, 10/F, 1 Hung To Road, Kwun Tong, Hong Kong | 81 FR 40171, June 21, 2016.
-| Changchun National Extreme Precision Optics Co Ltd, No. 3608 Dong Nanhu Road, Jilin Province, Changchun, China 130000 | 84 FR 14610, April 11, 2019.
+| Chang Zhou Jin Tan Teng Yuan Machinery Parts Co., Ltd., 116 Huafeng road, Jintan Economic Development Zone, Changzhou China | 87 FR 61975, October 13, 2022.
 | Changhe Aircraft Industries Group, No. 539, Chaoyang Road, Jingdezhen City, Jiangxi Province, China | 83 FR 22844, May 17, 2018.
 | Chengde Oscillator Electronic Technology Co., #17 Siheyuan Village, Pingquan Town, Pingquan City, Hebei Province, Chengde City, China 067506 | 84 FR 14610, April 11, 2019.
+| China National Erzhong Group Deyang Wanhang Die Forging Co., Ltd., No. 460 Zhujiang Road West, Deyang City, Sichuan Province, China | 87 FR 7039, February 8, 2022.
 | China National Plant Import/Export Co., Room 2135, Jingxin Building A, No Dong San Huan North Road, Beijing, China | 79 FR 34220, June 16, 2014.
+| Chongqing Optel Telecom, No 1 6f Building 7, No 106 West Jinkai Avenue, Yubei District, Chongqing 401121, China | 87 FR 61975, October 13, 2022.
+| Chongqing Xinyuhang Technology Co., Ltd., Shanying Workshop, liangjiang Avenue, Longxing Town, Yubei District, Chongqing 401135, China | 87 FR 61975, October 13, 2022.
 | CST Source Industrial Co., Ltd., Rooms 5-15, 13/F, South Tower, World Finance Centre, Harbour City, 17 Canton Road, Tsim Sha Tsui, Kowloon, Hong Kong | 81 FR 40171, June 21, 2016.
 | Dandong Center for Food Control, No. 31-1 Zhongyang Avenue, Dandong, China | 83 FR 22844, May 17, 2018.
+| Dandong Nondestructive Electronics, No 2 Tonghe Street Jinshan Industrial Park, Yuanbao District Dandong, Dandong 118000, China | 87 FR 61975, October 13, 2022.
 | Daystar Electric (HK) Ltd., Flat D, 19/F, Waylee Industrial Centre, 30-38 Tsuen King Circuit, Tsuen Wan, New Territories, Hong Kong; and 9/F Kam Chung Commercial Building, 19-21 Hennessy Road, Wanchai, Hong Kong | 80 FR 4781, January 29, 2015.
+| DK Laser Company Ltd., Zhuodas Jingu Industrial Park #4, Jinlong New District, Xiangyin, Hunan Province,, China | 87 FR 61975, October 13, 2022.
+| Dongguan Huiqun Electronic Co., Ltd., 30 Daling Street, Jiaoyitang, Tangxia Town, Dongguan City, Guangdong Province 523723, China | 87 FR 7039, February 8, 2022.
 | E-Chips Technology, Unit 4, 7/F, Bright Way Tower, No. 33 Mong Kok Road, Mong Kok, Kowloon, Hong Kong; and Flat 1205, 12/F, Tai Sang Bank Building, 130-132 Des Voeux Road Hong Kong | 80 FR 4779, January 29, 2015; 80 FR 60532, October 7, 2015.
-| Emax Technology Co. Ltd. HK, Room 19C, Lockhart Centre, 301-307 Lockhart Road, Wan Chai, Hong Kong; and Rm 2017, Lippo Centre Tower 2, 89 Queensway, Admiralty, Hong Kong | 85 FR 83789, 12/23/20.
-| Fortune International Trading, Room 1701(017) 17/F Henan Bldg, No. 90 Jaffee Rd, Wanchai, Hong Kong; and Room 1907, 19/F, Lee Garden One, 33 Hysan Avenue, Causeway Bay, Hong Kong | 85 FR 83789, 12/23/20.
+| Emax Technology Co. Ltd. HK, Room 19C, Lockhart Centre, 301-307 Lockhart Road, Wan Chai, Hong Kong; and Rm 2017, Lippo Centre Tower 2, 89 Queensway, Admiralty, Hong Kong | 85 FR 83789, December 23, 2020.
+| Fortune International Trading, Room 1701(017) 17/F Henan Bldg, No. 90 Jaffee Rd, Wanchai, Hong Kong; and Room 1907, 19/F, Lee Garden One, 33 Hysan Avenue, Causeway Bay, Hong Kong | 85 FR 83789, December 23, 2020.
 | Fussion Electronics Co., Ltd., 11/F, International Trade Centre, 11-19 Sha Tsui Road, Tsuen Wan, New Territories, Hong Kong | 81 FR 40171, June 21, 2016.
 | Globe Communication (HK) Ltd., Flat 01A2, 10/F, Carnival Commercial Building, 18 Java Road, North Point, Hong Kong; and Flat C, 9/F, Winning House, 72-74 Wing Lok Street, Sheung Wan, Hong Kong | 81 FR 40171, June 21, 2016.
-| Guangdong University of Technology, No 100 Waihuan Xi Road, Guangzhou Higher Education Mega Ctr, Guangzhou, China 510006 | 84 FR 14610, April 11, 2019.
+| GRG Metrology & Test (Chongqing) Co., Ltd., The 3rd floor of building A no 37 Cuitao Road, Chongqing City, China | 87 FR 61975, October 13, 2022.
+| Guangdong Dongling Carbon Tech. Co., Ltd., #83 Shatong Road, Shabu County, Dalang Town Dongguan city, Guangdong 523770, China | 87 FR 61975, October 13, 2022.
+| Guangdong Guanghua Sci-Tech Co., No. 295 Daxue Road, Shantou, Guangdong Province, China | 87 FR 7039, February 8, 2022.
+| Guangzhou GRG Metrology & Test (Beijing) Co., Ltd., 1st-2nd floor, 5th building, No 8 courtyard, No. 2 Street of Cold Water Economic and Technological Development Zone, Beijing, China | 87 FR 61975, October 13, 2022.
 | Gucheng Xian Fengxin Titanium Alloy, Xiyuan Industrial District, Gucheng County, Hebei Province, Hengshui City, China 253800 | 84 FR 14610, April 11, 2019.
 | Haofeng Industrial Co., Ltd., Room 1101, 11/F, San Toi Building, 139 Connaught Road, Central, Hong Kong | 81 FR 40171, June 21, 2016.
-| Hefei Institutes of Physical Science, Chinese Academy of Sciences, No. 350, Shushanhu Rd, Shushan District, Hefei City, China 230031 | 84 FR 14610, April 11, 2019.
+| Harbin Xinguang Feitian, 1717 Chuangxin Yi Road, Harbin, Heilongjiang Province, China | 87 FR 7039, February 8, 2022.
 | HK Hengyu Storage Logistics Limited, Rm 2309, 23/F, Ho King Commercial Centre, 2-16 Fayuen St, Mongkok, Kwun Tong, Hong Kong; and Flat/Rm B10, 9/F, Mai Hing Factory Building, 16-18 Shing Yip Street, Kowloon, Kwun Tong, Hong Kong; and Flat/Rm B11, 12/F Mai Hing Factory Building, 16-18 Shing Yip Street, Kowloon, Kwun Tong, Hong Kong | 84 FR 14610, April 11, 2019.
 | Hong Kong Engy Technology Co., a.k.a. Hong Kong Energy Technology Co., a.k.a. SZ Engy Technology Co., a.k.a. SZ Energy Technology Co., Workshop 15, 2/F, Cardinal Industrial Building, 17 On Lok Mun Street, Fanling, New Territories, Hong Kong | 81 FR 40171, June 21, 2016.
 | Hong Kong Haimao Info-Tec Development Co Ltd, Rm 1013B, Well Fung Ind. Center, Ta Chuen Ping Street, Kwai Chung, Hong Kong | 79 FR 34220, June 16, 2014.
 | Hongbo Industrial Technology, Unit 3, 9/F, Shing Yip Industrial Building, 19-21 Shing Yip Street, Kwun Tong, Kowloon, Hong Kong; and Unit 04, 7/F, Bright Way Tower, No. 33, Mong Kok Road, Kowloon, Hong Kong | 80 FR 4781, January 29, 2015.
 | Huaduan (Anhui) Machine Tool Manufacturer Co., Chaoyang Rd #888, Dongguan Development, Si Town, Anhui Province, Suzhou, China | 84 FR 14610, April 11, 2019.
+| Hunan University, State Key Lab of Chemo/Biosensing & Chemometrics, Lushan Road, Yuelu District, Changsha, Hunan Province, China | 87 FR 7039, February 8, 2022.
+| Jialin Precision Optics (Shanghai) Co., Ltd., Western Section Floor 1 No 1 Dongcheng Er lu, Pujiang Town Minhang District, Shanghai 201112, China | 87 FR 61975, October 13, 2022.
 | Jiangsu HNHB Equipment Co., Ltd., No. 9, Xiangtou West Road, Yixing City, Jiangsu Province, China | 82 FR 16732, April 6, 2017.
 | Jiangxi Hongdu Aviation Ind. Group, The Nanchang National High & New Technology Development Zone, Jiangxi Province, Yaohu Nanchang, China | 83 FR 22844, May 17, 2018.
 | Jin Yan Technology & Development Co., Ltd., Workshop 11, 8/F, Block A, Delya Industrial Centre, 7 Shek Pai Tau Road, Tuen Mun, New Territories, Hong Kong; and Room 1, Fook Cheung Building, 42 Ka Shin Street, Tai Kok Tsui, Kowloon, Hong Kong | 81 FR 40171, June 21, 2016.
-| Kenwoo International Trade Company, 1907, 19/F, Lee Garden One, 33 Hysan Avenue, Causeway Bay, Hong Kong; and Room 517, New City Centre, 2 Lei Yue Mun Road, Kwun Tong, Kowloon, Hong Kong; and Flat H, 6/F, Block 2, Golden Dragon Industrial Centre, Tai Lin Pai Road, Kwai Chung, Hong Kong | 85 FR 83789, 12/23/20.
+| Jinan Bodor CNC Machine Co., Ltd., 1299 Xinluo Ave., Hi-Tech Zone, Jinan, Shandong Province, China | 87 FR 7039, February 8, 2022.
+| Kenwoo International Trade Company, 1907, 19/F, Lee Garden One, 33 Hysan Avenue, Causeway Bay, Hong Kong; and Room 517, New City Centre, 2 Lei Yue Mun Road, Kwun Tong, Kowloon, Hong Kong; and Flat H, 6/F, Block 2, Golden Dragon Industrial Centre, Tai Lin Pai Road, Kwai Chung, Hong Kong | 85 FR 83789, December 23, 2020.
 | KingV Ltd., a.k.a. Jinnway Data Ltd., Room 31, 9/F, Shing Yip Industrial Building, 19-21 Shing Yip Street, Kwun Tong, Kowloon, Hong Kong; and 11/F, Front Block, Hang Lok Building, 130 Wing Lok Street, Sheung Wan, Hong Kong | 81 FR 40171, June 21, 2016.
 | Lianqi (HK) Electronics Co Ltd, Unit N, 3/F, Hopewell House, 175 Hip Wo Street, KwunTong, Kowloon, Hong Kong | 79 FR 34220, June 16, 2014.
 | Ling Ao Electronic Technology Co. Ltd, a.k.a. Voyage Technology (HK) Co., Ltd., a.k.a. Xuan Qi Technology Co. Ltd, Room 17, 7/F, Metro Centre Phase 1, No. 32 Lam Hing St., Kowloon Bay, Kwun Tong, Hong Kong; and 15B, 15/F, Cheuk Nang Plaza, 250 Hennessy Road, Wan Chai, Hong Kong; and Flat C, 11/F, Block No. 2, Camelpaint Bldg., 62 Hoi Yuen Street, Kwun Tong, Kowloon, Hong Kong; and Room C1-D, 6/F, Wing Hing Industrial Building, 14 Hing Yip Street, Kwun Tong, Kowloon, Hong Kong; and Flat/Rm. A30, 9/F Silvercorp International Tower, 707-713 Nathan Road, Mongkok, Kowloon, Hong Kong; and Room 912A, 9/F. Witty Commercial Building, 1A-1L Tung Choi Street, Mongkok, Kowloon, Hong Kong; and Unit A, 7/F, King Yip Factory Bldg., 59 King Yip Street, Kwun Tong, Kowloon, Hong Kong; and Unit D, 16/F, One Capital Place, 18 Luard Road, Wan Chai, Hong Kong; and Unit B213, 1/F, New East Sun Industrial Bldg., 18 Shing Yip Street, Kowloon, Kwun Tong, Hong Kong | 80 FR 4779, January 29, 2015; 80 FR 60532, October 7, 2015; 82 FR 16733, April 6, 2017; 83 FR 22845, May 17, 2018; 84 FR 14610, April 11, 2019.
 | Lion Chip Electronics Ltd, Unit N, 3/F, Hopewell House, 175 Hip Wo Street, KwunTong, Kowloon, Hong Kong | 79 FR 34220, June 16, 2014.
+| Lishui Zhengyang Electric Power Construction, 573 Nanshan Road Nanshan Park Liandu, Industrial Zone Zhejiang, Lishui, China | 87 FR 61975, October 13, 2022.
 | Luoyang Weimi Optics, No. 18 Lingbo Road, New & High Tech Industry Development Zone, Luoyang, China 471000 | 84 FR 14610, April 11, 2019.
 | Maipu Communication Technology Co Ltd, 7/F Kerry Warehouse, 36-42 Shan Mei St, Shatin, Hong Kong | 79 FR 34220, June 16, 2014.
 | Master-Uni Industry Co., Ltd., Room 602, 6/F, 168 Queens Road, Central, Hong Kong | 81 FR 40171, June 21, 2016.
 | Nanchang University, No. 999 Xuefu Avenue, Honggutan New District, Nanchang, 330031, China | 83 FR 22844, May 17, 2018.
+| Nanjing Gova Technology Co., Ltd., No 66 Qixia Avenue, Nanjing Economic and Technological Development Zone, Nanjing, Jiangsu Province, China | 87 FR 61975, October 13, 2022.
 | Nano Tech International Co Ltd, Unit 5, 27/F, Richmond Commercial Building, 109 Argyle Street, Mongkok, Kowloon, Hong Kong | 79 FR 34220, June 16, 2014.
 | Narpel Technology Co., Limited, Unit A, 6/F, Yip Fat Factory Building, Phase 1, No 77 Hoi Yuen Road, Kwun Tong, Kowloon, Hong Kong; and Room 4C, 8/F, Sunbeam Centre, 27 Shing Yip Street, Kwun Tong, Kowloon, Hong Kong; and Room 1905, Nam Wo Hong Building, 148 Wing Lok Street, Sheung Wan, Hong Kong; and 15B, 15/F, Cheuk Nang Plaza, 250 Hennessy Road, Wan Chai, Hong Kong | 79 FR 34217, June 16, 2014; 80 FR 4779 January 29, 2015; 80 FR 60532, October 7, 2015.
+| Ningbo III Lasers Technology Co., Ltd., Phase II Binjiang Equipment Park, Fenglin Road Beilun District, Ningbo City 315803, China | 87 FR 61975, October 13, 2022.
 | Phonai Electronics Ltd., 51F, Core Building 11, New Territories, Hong Kong | 81 FR 40171, June 21, 2016.
 | Powersun Electronics, Flat/Rm 502D, Hang Pont Commercial Building, 31 Tonkin Street, Cheung Sha Wan, Kowloon, Hong Kong; and G/F and G/M, Winner Godown Building, 1-9 Sha Tsui Road, Tsuen Wan, New Territories, Hong Kong | 79 FR 34217, June 16, 2014; 80 FR 4781, January 29, 2015.
+| Qingdao Sci-Tech Innovation Quality Testing Co., Ltd., Huaye Building, Lanbeizhizao Gongchang, No 1 Jinye Road, High-Tech Zone, Qingdao, China | 87 FR 61975, October 13, 2022.
 | Rising Logistics Company Limited, Workshop 12, 13/F, Block B, New Trade Plaza, No. 6, On Ping Street, Sha Tin, New Territories, Hong Kong; and Unit 208, 2/F, Block B, Hoi Luen Industrial Centre, 55 Hoi Yuen Road, Kowloon, Kwun Tong, Hong Kong; and Unit 1105, Hua Qin International Building, 340 Queens Road, Central, Hong Kong Island, Hong Kong | 84 FR 14610, April 11, 2019.
 | Scitech International Express Co. Limited, Workshop 11, 8/F, Block A, Delya Industrial Centre, 7 Shek Pai Tau Road, Tuen Mun, New Territories, Hong Kong | 81 FR 40171, June 21, 2016.
 | Selective Components Ltd., Room 8, 10/F, International Trade Centre, 11-19 Sha Tsui Road, Tsuen Wan, New Territories, Hong Kong | 81 FR 40171, June 21, 2016.
@@ -62,25 +80,35 @@ CHINA | Able Supply Chain Limited, Rm 511, 5/F, Corporation Park, 1 On Lai Stree
 | Shanghai Institute of Applied Physics, Chinese Academy of Sciences, 239 Zhangheng Road, Pudong District, Shanghai, China | 84 FR 14610, April 11, 2019.
 | Shanxi Hemu Industrial Co., Ltd., Yongchang Rd, Xianyang HiTech Industries Development Zone, Shanxi, China | 83 FR 22844, May 17, 2018.
 | Shenzhen Winthought Tech, Room 223, Zhong Xing Industrial City, Chuangye Road, Nanshan District, Shenzhen, China | 82 FR 16732, April 6, 2017.
+| Shuang Xiang (Fujian) Electronics, No. 158 Jiangbin East Ave., Mawei, Fuzhou, Fujian 350300, China | 87 FR 7039, February 8, 2022.
 | Sino Superconductor Technology Company, a.k.a. Zongyi Superconductor Technologies Co. Ltd., a.k.a. SinoHTS, 505 Nantian Bldg, 10, Xinxi Rd, Shangdi, Haidian, Beijing, China | 83 FR 22844, May 17, 2018.
 | Suke Logistics Ltd., Flat 6, 20/F, Mega Trade Centre, 1-9 Mei Wan Street, Tsuen Wan, New Territories, Hong Kong | 80 FR 4781, January 29, 2015.
 | Sun Wing Ltd., Room 31, 9/F, Shing Yip Industrial Building, 19-21 Shing Yip Street, Kwun Tong, Kowloon, Hong Kong | 81 FR 40171, June 21, 2016.
 | Sun Yat-Sen University, No. 135 Xingang, Xi Road, Guangzhou, China | 85 FR 64017, October 9, 2020.
 | Sur-Link Technology (HK) Ltd., a.k.a. Sur-Link International (HK) Ltd., a.k.a. Surlink Group, Flat 6, 20/F, Mega Trade Centre, 1-9 Mei Wan Street, Tsuen Wan, New Territories, Hong Kong | 81 FR 40171, June 21, 2016.
+| Suzhou Chaowei Jingna Optoelectric Co., Ltd., No. 97-1 Dongyuan Road, Jinting Town, Wuzhong District, Suzhou, Jiangsu, China | 87 FR 7039, February 8, 2022.
+| Suzhou Sen-Chuan Machinery Technology Co., Ltd., No 3 Yantou Road, Huayang Village, Wangting town, Xiangcheng DistrictSuzhou 215155, China | 87 FR 61975, October 13, 2022.
 | Swelatel Technology Limited, Rm. 19C, Lockhart Ctr., 301-307 Lockhart Rd., Wan Chai, Hong Kong; and Rm. 2107, Lippo Centre Tower 2, 89 Queensway, Admiralty, Wan Chai, Hong Kong | 84 FR 14610, April 11, 2019.
+| Tianjin Optical Valley Technology Co., Ltd., 5-1 2-104 Qingda Boya industrial Park Beichen District, Tianjin 30400, China | 87 FR 61975, October 13, 2022.
 | Toptech Electronics Ltd., 15/F, Hong Kong and Macau Building, 156-157 Connaught Road, Central, Hong Kong | 81 FR 40171, June 21, 2016.
 | TRI Microsystems, Rm 2806, Building A, Rongchao Yinglong Mansion, No. 5 Longfu Road, Longchen Street, Longgang District, Shenzhen, China | 84 FR 14610, April 11, 2019.
 | Universe Market Limited, Unit A, 17/F, Good Will Industrial Building, 36-44 Pak Tin Par Street, Tsuen Wan, New Territories, Hong Kong | 84 FR 14610, April 11, 2019.
 | Winthought Company Ltd., Unit E1, 3/F, Wing Tat Commercial Building, 121-125 Wing Lok Street, Sheung Wan, Hong Kong | 81 FR 40171, June 21, 2016.
+| Wuhan Institute of Biological Products Co., Ltd., No 1 Golden Industrial Park Road, Zhengdian Street, Jiangxia District, Wuhan City, Hubei Province, 430207, China | 87 FR 61975, October 13, 2022.
 | Wuxi Beetech Inc., No. 58 4th Floor Feihong Road, Nanhu, Wuxi, China | 84 FR 14610, April 11, 2019.
-| Xiang Cheng Gao Trading (HK) Ltd., 1215 Lot, DD 125, Ha Tsuen Road, Ha Tsuen, Ping Shan, Yuen Long, New Territories, Hong Kong | 85 FR 83789, 12/23/20.
+| Wuxi Hengling Technology Co., Ltd., Bldg C1 No 999 East Gaolang rd Binhu District, Wuxi City, Jiangsu Province, 214131, China | 87 FR 61975, October 13, 2022.
+| Xian Zhongsheng Shengyuan Technology Co., Ltd., 9 Gardens at 202 South Second ring Rd, Lianju District, Xian 710000, China | 87 FR 61975, October 13, 2022.
+| Xiang Cheng Gao Trading (HK) Ltd., 1215 Lot, DD 125, Ha Tsuen Road, Ha Tsuen, Ping Shan, Yuen Long, New Territories, Hong Kong | 85 FR 83789, December 23, 2020.
 | Xinjiang East Hope New Energy Company Ltd, Xinjiang East Eco. Development Zone, XinJiang, China | 83 FR 22844, May 17, 2018.
 | Yashen (HK) Electronics, Flat R, 15/F, Phase 2, Goldfield Industrial Building, 144-150 Tai Lin Pai Road, Kai Chung, New Territories, Hong Kong; and Room N, 3/F, Mongkok Building, 97 Mongkok Road, Kowloon, Hong Kong | 79 FR 34220, June 16, 2014.
 | Yield Best International, 6/F, Block H, East Sun Industrial Centre, 16 Shing Yip Street, Kwun Tong, Kowloon, Hong Kong; and Unit J, 9/F, King Win Factory Building, 65-67 King Yip Street, Kwun Tong, Hong Kong | 81 FR 40171, June 21, 2016.
 | Yogone Electronics Co., Unit 602, 6/F, Silvercord Tower 2, 30 Canton Road, Tsim Sha Tsui, Kowloon, Hong Kong | 80 FR 60532, October 7, 2015.
+| Yunnan Fs Optics Co., Ltd., Hongta Industrial Zone, Hongta District, Yuxi, Yunnan Province, China | 87 FR 7039, February 8, 2022.
+| Yunnan Tianhe Optoelectronic Co., Ltd., Longquan Avenue, Longquan Industrial Zone, Jiangchuan, Yuxi City, Yunnan Province, China | 87 FR 7039, February 8, 2022.
 | ZDAS (HK) Company, G/F, 16 Kwan Tei North Tsuen Leung Yeuk Tau, Sha Tau Kok Road, Fanling, Hong Kong; and Room 1609, 16/F, Block B, Veristrong Industrial Center, 34-36 Au Pui Wan Street, FoTaan, Shatin, New Territories, Hong Kong | 79 FR 34220, June 16, 2014.
+| Zhengzhou Baiwai Intelligent Automation, National University Tech Park, Changchun Road #11 Hi-Tech District, Zhengzhou City, Henan Province, China | 87 FR 7039, February 8, 2022.
 | ZhongJie Electronics, G/F, 26 Pau Chung Street, Tokwawan, Kowloon, Hong Kong; and Rm 2309, 23/F, Ho King Comm Ctr, 2-16 Fayuen St., Mongkok, Kowloon, Hong Kong | 79 FR 34220, June 16, 2014.
-| Zhongshan Thincloud Optics Co. Ltd., 8 KA, Building A, No. 5 Kuxing Road, Sanjiao Town, Zhongshan, China 528445 | 84 FR 14610, April 11, 2019.
+| Zhuzhou CRRC Special Equipment Technology Co., No. 79 Liancheng Road, Shifeng District, Zhuzhou City, Hunan Province 412001, China | 87 FR 7039, February 8, 2022.
 CZECH REPUBLIC | Bonitopto S.R.O., Vancurova 1084/10, Ostrov 363 01, Czech Republic; and, Jachymovska 178, Ostrov 363 01, Czech Republic | 80 FR 60532, October 7, 2015.
 ESTONIA | Simms Marine Group OU, Paavli Str. 5/2, Tallinn, Estonia, 10412 | 83 FR 22844, May 17, 2018. 83 FR 26205, June 6, 2018.
 FINLAND | Aelcomp OY, Kurkisuontie 2B, Helsinki 00904 Finland; and Merisotilaankatu 2, Helsinki 00160 Finland | 85 FR 64017, October 9, 2020.
@@ -95,21 +123,11 @@ MALAYSIA | Infomaya Tech Sdn Bhd, Level 2, Enterprise 5 Technology Park, Bukit J
 | Premier Kiosk Global Supply Co., aka PKGS, aka Global Kiosk, No. 5, 18th Floor, Plaza 138, Hotel Maya, Jalan Ampang, Kuala Lumpur, Malaysia 50450 | 84 FR 14610, April 11, 2019.
 PAKISTAN | Andleeb Associates, Sultan Complex, Abid Majeed Road, Rawalpindi, Pakistan | 83 FR 22844, May 17, 2018.
 | T.M.A. International, a.k.a. TMA International, a.k.a. Tahir Asad Industries Pvt. Ltd., a.k.a. T.A. Industries Pvt. Ltd., 45-B, Ahmed Block, New Garden Town, Lahore, Pakistan; and 417 Gulshan Block, Iqbal Town, Lahore, Pakistan | 80 FR 4781, January 29, 2015.
-| ENGRO Polymer & Chemicals Limited, The Harbour Front, HC-3, Dolmen City, 16th Floor, Block-4, Scheme-5, Clifton, Karachi, Pakistan | 85 FR 64017, October 9, 2020.
 | Naina Exporters and Importers, H-96, Intelligence School Colony, M.T. Khan Road, Karachi, Pakistan | 85 FR 64017, October 9, 2020.
 | Seven Star Company, H-96 Intelligence School Colony, M.T. Khan Road, Karachi, Pakistan | 85 FR 64017, October 9, 2020.
-RUSSIA | Alliance EG Ltd., Leninsky Prospect 139, Office 310, St. Petersburg 198216, Russia | 83 FR 22844, May 17, 2018.
-| EFO Ltd., Politechnicheskaya Street 21, Saint Petersburg 192019, Russia and 15A Novolitovskaya Str., Office 441, Saint Petersburg, Russia | 83 FR 22844, May 17, 2018.
-| Intercom Ltd., Kalinina Street 13, Saint Petersburg 198099, Russia | 83 FR 22844, May 17, 2018.
+RUSSIA | EFO Ltd., Politechnicheskaya Street 21, Saint Petersburg 192019, Russia and 15A Novolitovskaya Str., Office 441, Saint Petersburg, Russia | 83 FR 22844, May 17, 2018.
 | JSC Voentelecom, Bolshaya Olenya Str. 15A, Moscow, Russia | 79 FR 34220, June 16, 2014.
-| Nasosy Ampika, 3-ya Institutskaya St. Bld. 15, Moscow, Russia | 79 FR 34220, June 16, 2014.
-| Nuclin LLC, Serebryakova Proezd 14, Moscow, Russia | 79 FR 34220, June 16, 2014.
 | Radiofizika OAO, D.10. Ul. Geroev Panfilovtsev, Moscow 125363, Russia | 83 FR 22844, May 17, 2018.
-| FSUE Rosmorport Far Eastern Basin Branch, Nizhneportovaya Street 3, Primorskiy Territory, Vladivostok 690003, Russia | 83 FR 22844, May 17, 2018.
-| SDB IRE RAS, 1 Vvedenskogo Square, Fryazino, Russia | 79 FR 34220, June 16, 2014.
-| Security 2 Business Academy, a.k.a. S2BA, a.k.a. Academy of Business Security, Deguninskaya Street 10, Moscow, Russia; and Novoslobodskaya Str. 14/19, Moscow, Russia | 79 FR 34220, June 16, 2014.
-| Tavrida Microelectronics, Zelenaya Street 1, Dolgoprudnyy, Moscow 141700, Russia | 83 FR 22844, May 17, 2018.
-| VIP Technology Ltd., Bechtereva Street 3/2, Office 40, Saint Petersburg 192019, Russia | 83 FR 22844, May 17, 2018.
 SINGAPORE | Dorado Network Pte., Ltd., 128 Joo Seng Road, DP Computers Building 04-04, Singapore; and 629 Aljunied Road, Cititech Industrial Building, Singapore; and 512 Woodlands Drive 14, Singapore | 81 FR 40171, June 21, 2016.
 SWITZERLAND | Light Range AG, Stutzstrasse 13C, Schindellegi, Switzerland; and Lowenstrasse 20, Zurich, Switzerland; and Via Delle Scuole 34E, Figino, Switzerland | 81 FR 40171, June 21, 2016.
 TURKEY | Fast Aviation, Yesilkoy MAH Ataturk, Cad. EGS Bloklari, B:2 No:2 D:1, Istanbul, Turkey | 85 FR 64017, October 9, 2020.
