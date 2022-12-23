@@ -1,94 +1,56 @@
 # Appendix J2 to Subpart B of Part 430—Uniform Test Method for Measuring the Energy Consumption of Automatic and Semi-automatic Clothes Washers
-Note: Any representation related to the energy or water consumption of residential clothes washers must be based upon results generated using Appendix J2. Specifically, before February 1, 2016, representations must be based upon results generated either under this appendix or under Appendix J2 as it appeared in the 10 CFR parts 200-499 edition revised as of January 1, 2015. Any representations made on or after February 1, 2016 must be made based upon results generated using this appendix. Before January 1, 2018, any representation related to the energy or water consumption of commercial clothes washers must be based on results generated using Appendix J1. Any representations made on or after January 1, 2018, must be based upon results generated using Appendix J2.
-1. Definitions and Symbols
-1.1 Active mode means a mode in which the clothes washer is connected to a mains power source, has been activated, and is performing one or more of the main functions of washing, soaking, tumbling, agitating, rinsing, and/or removing water from the clothing, or is involved in functions necessary for these main functions, such as admitting water into the washer or pumping water out of the washer. Active mode also includes delay start and cycle finished modes.
-1.2 Active washing mode means a mode in which the clothes washer is performing any of the operations included in a complete cycle intended for washing a clothing load, including the main functions of washing, soaking, tumbling, agitating, rinsing, and/or removing water from the clothing.
-1.3 Adaptive control system means a clothes washer control system, other than an adaptive water fill control system, that is capable of automatically adjusting washer operation or washing conditions based on characteristics of the clothes load placed in the clothes container, without allowing or requiring user intervention or actions. The automatic adjustments may, for example, include automatic selection, modification, or control of any of the following: wash water temperature, agitation or tumble cycle time, number of rinse cycles, or spin speed. The characteristics of the clothes load, which could trigger such adjustments, could, for example, consist of or be indicated by the presence of either soil, soap, suds, or any other additive laundering substitute or complementary product.
-1.4 Adaptive water fill control system means a clothes washer automatic water fill control system that is capable of automatically adjusting the water fill level based on the size or weight of the clothes load placed in the clothes container.
-1.5 Automatic water fill control system means a clothes washer water fill control system that does not allow or require the user to determine or select the water fill level, and includes adaptive water fill control systems and fixed water fill control systems.
-1.6 Bone-dry means a condition of a load of test cloth that has been dried in a dryer at maximum temperature for a minimum of 10 minutes, removed and weighed before cool down, and then dried again for 10 minute periods until the final weight change of the load is 1 percent or less.
-1.7 Clothes container means the compartment within the clothes washer that holds the clothes during the operation of the machine.
-1.8 Cold rinse means the coldest rinse temperature available on the machine, as indicated to the user on the clothes washer control panel.
-1.9 Combined low-power mode means the aggregate of available modes other than active washing mode, including inactive mode, off mode, delay start mode, and cycle finished mode.
-1.10 Compact means a clothes washer that has a clothes container capacity of less than 1.6 ft 3 (45 L).
-1.11 Cycle finished mode means an active mode that provides continuous status display, intermittent tumbling, or air circulation following operation in active washing mode.
-1.12 Delay start mode means an active mode in which activation of active washing mode is facilitated by a timer.
-1.13 Energy test cycle means the complete set of wash/rinse temperature selections required for testing, as determined according to section 2.12. Within the energy test cycle, the following definitions apply:
-(a) Cold Wash/Cold Rinse is the wash/rinse temperature selection determined by evaluating the flowchart in Figure 2.12.1 of this appendix.
-(b) Hot Wash/Cold Rinse is the wash/rinse temperature selection determined by evaluating the flowchart in Figure 2.12.2 of this appendix.
-(c) Warm Wash/Cold Rinse is the wash/rinse temperature selection determined by evaluating the flowchart in Figure 2.12.3 of this appendix.
-(d) Warm Wash/Warm Rinse is the wash/rinse temperature selection determined by evaluating the flowchart in Figure 2.12.4 of this appendix.
-(e) Extra-Hot Wash/Cold Rinse is the wash/rinse temperature selection determined by evaluating the flowchart in Figure 2.12.5 of this appendix.
-1.14 Fixed water fill control system means a clothes washer automatic water fill control system that automatically terminates the fill when the water reaches an appropriate level in the clothes container.
-1.15 IEC 62301 means the test standard published by the International Electrotechnical Commission, entitled "Household electrical appliances—Measurement of standby power," Publication 62301, Edition 2.0 2011-01 (incorporated by reference; see § 430.3).
-1.16 Inactive mode means a standby mode that facilitates the activation of active mode by remote switch (including remote control), internal sensor, or timer, or that provides continuous status display.
-1.17 Integrated modified energy factor means the quotient of the cubic foot (or liter) capacity of the clothes container divided by the total clothes washer energy consumption per cycle, with such energy consumption expressed as the sum of:
+Note: Manufacturers must use the results of testing under this appendix to determine compliance with the relevant standards for clothes washers from § 430.32(g)(4) and from § 431.156(b) as they appeared in January 1, 2022 edition of 10 CFR parts 200–499. Specifically, before November 28, 2022 representations must be based upon results generated either under this appendix as codified on July 1, 2022 or under this appendix as it appeared in the 10 CFR parts 200–499 edition revised as of January 1, 2022. Any representations made on or after November 28, 2022 but before the compliance date of any amended standards for clothes washers must be made based upon results generated using this appendix as codified on July 1, 2022. Manufacturers must use the results of testing under Appendix J to determine compliance with any amended standards for clothes washers provided in 10 CFR 430.32(g) and in § 431.156 that are published after January 1, 2022. Any representations related to energy or water consumption of residential or commercial clothes washers must be made in accordance with the appropriate appendix that applies (i.e., Appendix J or this appendix) when determining compliance with the relevant standard. Manufacturers may also use Appendix J to certify compliance with any amended standards prior to the applicable compliance date for those standards.
+0. Incorporation by Reference
+DOE incorporated by reference in § 430.3, the entire test standard for IEC 62301. However, only enumerated provisions of this standard are applicable to this appendix, as follows. In cases in which there is a conflict, the language of the test procedure in this appendix takes precedence over the referenced test standard.
+0.1 IEC 62301:
+(a) Section 4.2 as referenced in section 2.4 of this appendix;
+(b) Section 4.3.2 as referenced in section 2.1.2 of this appendix;
+(c) Section 4.4 as referenced in section 2.5.3 of this appendix;
+(d) Section 5.1 as referenced in section 3.9.2 of this appendix;
+(e) Section 5.2 as referenced in section 2.10 of this appendix; and
+(f) Section 5.3.2 as referenced in section 3.9.3 of this appendix.
+0.2 [Reserved]
+1. Definitions
+Active mode means a mode in which the clothes washer is connected to a mains power source, has been activated, and is performing one or more of the main functions of washing, soaking, tumbling, agitating, rinsing, and/or removing water from the clothing, or is involved in functions necessary for these main functions, such as admitting water into the washer or pumping water out of the washer. Active mode also includes delay start and cycle finished modes.
+Active washing mode means a mode in which the clothes washer is performing any of the operations included in a complete cycle intended for washing a clothing load, including the main functions of washing, soaking, tumbling, agitating, rinsing, and/or removing water from the clothing.
+Adaptive water fill control system means a clothes washer automatic water fill control system that is capable of automatically adjusting the water fill level based on the size or weight of the clothes load placed in the clothes container.
+Automatic water fill control system means a clothes washer water fill control system that does not allow or require the user to determine or select the water fill level, and includes adaptive water fill control systems and fixed water fill control systems.
+Bone-dry means a condition of a load of test cloth that has been dried in a dryer at maximum temperature for a minimum of 10 minutes, removed and weighed before cool down, and then dried again for 10 minute periods until the final weight change of the load is 1 percent or less.
+Clothes container means the compartment within the clothes washer that holds the clothes during the operation of the machine.
+Cold rinse means the coldest rinse temperature available on the machine, as indicated to the user on the clothes washer control panel.
+Combined low-power mode means the aggregate of available modes other than active washing mode, including inactive mode, off mode, delay start mode, and cycle finished mode.
+Cycle finished mode means an active mode that provides continuous status display, intermittent tumbling, or air circulation following operation in active washing mode.
+Delay start mode means an active mode in which activation of active washing mode is facilitated by a timer.
+Energy test cycle means the complete set of wash/rinse temperature selections required for testing, as determined according to section 2.12 of this appendix.
+Fixed water fill control system means a clothes washer automatic water fill control system that automatically terminates the fill when the water reaches a pre-defined level that is not based on the size or weight of the clothes load placed in the clothes container, without allowing or requiring the user to determine or select the water fill level.
+Inactive mode means a standby mode that facilitates the activation of active mode by remote switch (including remote control), internal sensor, or timer, or that provides continuous status display.
+Integrated modified energy factor means the quotient of the cubic foot (or liter) capacity of the clothes container divided by the total clothes washer energy consumption per cycle, with such energy consumption expressed as the sum of:
 (a) The machine electrical energy consumption;
 (b) The hot water energy consumption;
 (c) The energy required for removal of the remaining moisture in the wash load; and
 (d) The combined low-power mode energy consumption.
-1.18 Integrated water factor means the quotient of the total weighted per-cycle water consumption for all wash cycles in gallons divided by the cubic foot (or liter) capacity of the clothes washer.
-1.19 Load usage factor means the percentage of the total number of wash loads that a user would wash a particular size (weight) load.
-1.20 Lot means a quantity of cloth that has been manufactured with the same batches of cotton and polyester during one continuous process.
-1.21 Manual control system means a clothes washer control system that requires that the user make the choices that determine washer operation or washing conditions, such as, for example, wash/rinse temperature selections and wash time, before starting the cycle.
-1.22 Manual water fill control system means a clothes washer water fill control system that requires the user to determine or select the water fill level.
-1.23 Modified energy factor means the quotient of the cubic foot (or liter) capacity of the clothes container divided by the total clothes washer energy consumption per cycle, with such energy consumption expressed as the sum of the machine electrical energy consumption, the hot water energy consumption, and the energy required for removal of the remaining moisture in the wash load.
-1.24 Non-water-heating clothes washer means a clothes washer that does not have an internal water heating device to generate hot water.
-1.25 Normal cycle means the cycle recommended by the manufacturer (considering manufacturer instructions, control panel labeling, and other markings on the clothes washer) for normal, regular, or typical use for washing up to a full load of normally-soiled cotton clothing. For machines where multiple cycle settings are recommended by the manufacturer for normal, regular, or typical use for washing up to a full load of normally-soiled cotton clothing, then the Normal cycle is the cycle selection that results in the lowest IMEF or MEF value.
-1.26 Off mode means a mode in which the clothes washer is connected to a mains power source and is not providing any active or standby mode function, and where the mode may persist for an indefinite time.
-1.27 Roll means a subset of a lot.
-1.28 Standard means a clothes washer that has a clothes container capacity of 1.6 ft 3 (45 L) or greater.
-1.29 Standby mode means any mode in which the clothes washer is connected to a mains power source and offers one or more of the following user oriented or protective functions that may persist for an indefinite time:
+Integrated water factor means the quotient of the total weighted per-cycle water consumption for all wash cycles in gallons divided by the cubic foot (or liter) capacity of the clothes washer.
+Load usage factor means the percentage of the total number of wash loads that a user would wash a particular size (weight) load.
+Lot means a quantity of cloth that has been manufactured with the same batches of cotton and polyester during one continuous process.
+Manual water fill control system means a clothes washer water fill control system that requires the user to determine or select the water fill level.
+Modified energy factor means the quotient of the cubic foot (or liter) capacity of the clothes container divided by the total clothes washer energy consumption per cycle, with such energy consumption expressed as the sum of the machine electrical energy consumption, the hot water energy consumption, and the energy required for removal of the remaining moisture in the wash load.
+Non-water-heating clothes washer means a clothes washer that does not have an internal water heating device to generate hot water.
+Normal cycle means the cycle recommended by the manufacturer (considering manufacturer instructions, control panel labeling, and other markings on the clothes washer) for normal, regular, or typical use for washing up to a full load of normally soiled cotton clothing. For machines where multiple cycle settings are recommended by the manufacturer for normal, regular, or typical use for washing up to a full load of normally soiled cotton clothing, then the Normal cycle is the cycle selection that results in the lowest IMEF or MEF J2 value.
+Off mode means a mode in which the clothes washer is connected to a mains power source and is not providing any active or standby mode function, and where the mode may persist for an indefinite time.
+Standby mode means any mode in which the clothes washer is connected to a mains power source and offers one or more of the following user oriented or protective functions that may persist for an indefinite time:
 (a) Facilitating the activation of other modes (including activation or deactivation of active mode) by remote switch (including remote control), internal sensor, or timer;
 (b) Continuous functions, including information or status displays (including clocks) or sensor-based functions.
-A timer is a continuous clock function (which may or may not be associated with a display) that provides regular scheduled tasks (e.g., switching) and that operates on a continuous basis.
-1.30 Symbol usage. The following identity relationships are provided to help clarify the symbology used throughout this procedure.
-C—Capacity
-C (with subscripts)—Cold Water Consumption
-D—Energy Consumption for Removal of Moisture from Test Load
-E—Electrical Energy Consumption
-F—Load Usage Factor
-H—Hot Water Consumption
-HE—Hot Water Energy Consumption
-ME—Machine Electrical Energy Consumption
-P—Power
-Q—Water Consumption
-RMC—Remaining Moisture Content
-S—Annual Hours
-TUF—Temperature Use Factor
-V—Temperature-Weighted Hot Water Consumption
-W—Mass of Water
-WC—Weight of Test Load After Extraction
-WI—Initial Weight of Dry Test Load
-Subscripts:
-a or avg—Average Test Load
-c—Cold Wash (minimum wash temp.)
-corr—Corrected (RMC values)
-h—Hot Wash (maximum wash temp. ≤135 °F (57.2 °C))
-ia—Inactive Mode
-LP—Combined Low-Power Mode
-m—Extra-Hot Wash (maximum wash temp. >135 °F (57.2 °C))
-n—Minimum Test Load
-o—Off Mode
-oi—Combined Off and Inactive Modes
-T—Total
-w—Warm Wash
-ww—Warm Wash/Warm Rinse
-x—Maximum Test Load
-The following examples are provided to show how the above symbols can be used to define variables:
-Em X = "Electrical Energy Consumption" for an "Extra-Hot Wash" and "Maximum Test Load"
-HE min = "Hot Water Energy Consumption" for the "Minimum Test Load"
-Qh min = "Water Consumption" for a "Hot Wash" and "Minimum Test Load"
-TUF m = "Temperature Use Factor" for an "Extra-Hot Wash"
-1.31 Temperature use factor means, for a particular wash/rinse temperature setting, the percentage of the total number of wash loads that an average user would wash with that setting.
-1.32 Thermostatically controlled water valves means clothes washer controls that have the ability to sense and adjust the hot and cold supply water.
-1.33 Water factor means the quotient of the total weighted per-cycle water consumption for cold wash divided by the cubic foot (or liter) capacity of the clothes washer.
-1.34 Water-heating clothes washer means a clothes washer where some or all of the hot water for clothes washing is generated by a water heating device internal to the clothes washer.
-2. Testing Conditions
+(c) A timer is a continuous clock function (which may or may not be associated with a display) that provides regular scheduled tasks (e.g., switching) and that operates on a continuous basis.
+Temperature use factor means, for a particular wash/rinse temperature setting, the percentage of the total number of wash loads that an average user would wash with that setting.
+User-adjustable adaptive water fill control system means a clothes washer fill control system that allows the user to adjust the amount of water that the machine provides, which is based on the size or weight of the clothes load placed in the clothes container.
+Wash time means the wash portion of active washing mode, which begins when the cycle is initiated and includes the agitation or tumble time, which may be periodic or continuous during the wash portion of active washing mode.
+Water factor means the quotient of the total weighted per-cycle water consumption for cold wash divided by the cubic foot (or liter) capacity of the clothes washer.
+Water-heating clothes washer means a clothes washer where some or all of the hot water for clothes washing is generated by a water heating device internal to the clothes washer.
+2. Testing Conditions and Instrumentation
 2.1 Electrical energy supply.
 2.1.1 Supply voltage and frequency. Maintain the electrical supply at the clothes washer terminal block within 2 percent of 120, 120/240, or 120/208Y volts as applicable to the particular terminal block wiring system and within 2 percent of the nameplate frequency as specified by the manufacturer. If the clothes washer has a dual voltage conversion capability, conduct test at the highest voltage specified by the manufacturer.
 2.1.2 Supply voltage waveform. For the combined low-power mode testing, maintain the electrical supply voltage waveform indicated in Section 4, Paragraph 4.3.2 of IEC 62301. If the power measuring instrument used for testing is unable to measure and record the total harmonic content during the test measurement period, total harmonic content may be measured and recorded immediately before and after the test measurement period.
-2.2 Supply water. Maintain the temperature of the hot water supply at the water inlets between 130 °F (54.4 °C) and 135 °F (57.2 °C), using 135 °F as the target temperature. Maintain the temperature of the cold water supply at the water inlets between 55 °F (12.8 °C) and 60 °F (15.6 °C), using 60 °F as the target temperature.
+2.2 Supply water. Maintain the temperature of the hot water supply at the water inlets between 130 °F (54.4 °C) and 135 °F (57.2 °C), targeting the midpoint of the range. Maintain the temperature of the cold water supply at the water inlets between 55 °F (12.8 °C) and 60 °F (15.6 °C), targeting the midpoint of the range.
 2.3 Water pressure. Maintain the static water pressure at the hot and cold water inlet connection of the clothes washer at 35 pounds per square inch gauge (psig) ± 2.5 psig (241.3 kPa ± 17.2 kPa) when the water is flowing.
 2.4 Test room temperature. For all clothes washers, maintain the test room ambient air temperature at 75 ± 5 °F (23.9 ± 2.8 °C) for active mode testing and combined low-power mode testing. Do not use the test room ambient air temperature conditions specified in Section 4, Paragraph 4.2 of IEC 62301 for combined low-power mode testing.
 2.5 Instrumentation. Perform all test measurements using the following instruments, as appropriate:
@@ -98,26 +60,13 @@ TUF m = "Temperature Use Factor" for an "Extra-Hot Wash"
 2.5.2 Watt-hour meter. The watt-hour meter used to measure electrical energy consumption must have a resolution no larger than 1 Wh (3.6 kJ) and a maximum error no greater than 2 percent of the measured value for any demand greater than 50 Wh (180.0 kJ).
 2.5.3 Watt meter. The watt meter used to measure combined low-power mode power consumption must comply with the requirements specified in Section 4, Paragraph 4.4 of IEC 62301 (incorporated by reference, see § 430.3). If the power measuring instrument used for testing is unable to measure and record the crest factor, power factor, or maximum current ratio during the test measurement period, the crest factor, power factor, and maximum current ratio may be measured and recorded immediately before and after the test measurement period.
 2.5.4 Water and air temperature measuring devices. The temperature devices used to measure water and air temperature must have an error no greater than ±1 °F (±0.6 °C) over the range being measured.
-2.5.5 Water meter. A water meter must be installed in both the hot and cold water lines to measure water flow and/or water consumption. The water meters must have a resolution no larger than 0.1 gallons (0.4 liters) and a maximum error no greater than 2 percent for the water flow rates being measured.
+2.5.4.1 Non-reversible temperature indicator labels, adhered to the inside of the clothes container, may be used to confirm that an extra-hot wash temperature greater than 135 °F has been achieved during the wash cycle, under the following conditions. The label must remain waterproof, intact, and adhered to the wash drum throughout an entire wash cycle; provide consistent maximum temperature readings; and provide repeatable temperature indications sufficient to demonstrate that a wash temperature of greater than 135 °F has been achieved. The label must have been verified to consistently indicate temperature measurements with an accuracy of ±1 °F if the label provides a temperature indicator at 135 °F. If the label does not provide a temperature indicator at 135 °F, the label must have been verified to consistently indicate temperature measurements with an accuracy of ±1 °F if the next-highest temperature indicator is greater than 135 °F and less than 140 °F, or ±3 °F if the next-highest temperature indicator is 140 °F or greater. If the label does not provide a temperature indicator at 135 °F, failure to activate the next-highest temperature indicator does not necessarily indicate the lack of an extra-hot wash temperature. However, such a result would not be conclusive due to the lack of verification of the water temperature requirement, in which case an alternative method must be used to confirm that an extra-hot wash temperature greater than 135 °F has been achieved during the wash cycle. If using a temperature indicator label to test a front-loading clothes washer, adhere the label along the interior surface of the clothes container drum, midway between the front and the back of the drum, adjacent to one of the baffles. If using a temperature indicator label to test a top-loading clothes washer, adhere the label along the interior surface of the clothes container drum, on the vertical portion of the sidewall, as close to the bottom of the container as possible.
+2.5.4.2 Submersible temperature loggers placed inside the wash drum may be used to confirm that an extra-hot wash temperature greater than 135 °F has been achieved during the wash cycle, under the following conditions. The submersible temperature logger must have a time resolution of at least 1 data point every 5 seconds and a temperature measurement accuracy of ±1 °F. Due to the potential for a waterproof capsule to provide a thermal insulating effect, failure to measure a temperature of 135 °F does not necessarily indicate the lack of an extra-hot wash temperature. However, such a result would not be conclusive due to the lack of verification of the water temperature requirement, in which case an alternative method must be used to confirm that an extra-hot wash temperature greater than 135 °F has been achieved during the wash cycle.
+2.5.5 Water meter. A water meter must be installed in both the hot and cold water lines to measure water flow and/or water consumption. The water meters must have a resolution no larger than 0.1 gallons (0.4 liters) and a maximum error no greater than 2 percent for the water flow rates being measured. If the volume of hot water for any individual cycle within the energy test cycle is less than 0.1 gallons (0.4 liters), the hot water meter must have a resolution no larger than 0.01 gallons (0.04 liters).
 2.5.6 Water pressure gauge. A water pressure gauge must be installed in both the hot and cold water lines to measure water pressure. The water pressure gauges must have a resolution of 1 pound per square inch gauge (psig) (6.9 kPa) and a maximum error no greater than 5 percent of any measured value.
 2.6 Bone dryer temperature. The dryer used for bone drying must heat the test cloth load above 210 °F (99 °C).
-2.7 Test cloths.
-2.7.1 Energy test cloth. The energy test cloth must be made from energy test cloth material, as specified in section 2.7.4 of this Appendix, that is 24 ± 1/2 inches by 36 ± 1/2 inches (61.0 ± 1.3 cm by 91.4 ± 1.3 cm) and has been hemmed to 22 ± 1/2 inches by 34 ± 1/2 inches (55.9 ± 1.3 cm by 86.4 ± 1.3 cm) before washing. The energy test cloth must be clean and must not be used for more than 60 test runs (after preconditioning as specified in 2.7.3 of this appendix). All energy test cloth must be permanently marked identifying the lot number of the material. Mixed lots of material must not be used for testing a clothes washer.
-2.7.2 Energy stuffer cloth. The energy stuffer cloth must be made from energy test cloth material, as specified in section 2.7.4 of this Appendix, that is 12 ± 1/4 inches by 12 ± 1/4 inches (30.5 ± 0.6 cm by 30.5 ± 0.6 cm) and has been hemmed to 10 ± 1/4 inches by 10 ± 1/4 inches (25.4 ± 0.6 cm by 25.4 ± 0.6 cm) before washing. The energy stuffer cloth must be clean and must not be used for more than 60 test runs (after preconditioning as specified in section 2.7.3 of this Appendix). All energy stuffer cloth must be permanently marked identifying the lot number of the material. Mixed lots of material must not be used for testing a clothes washer.
-2.7.3 Preconditioning of test cloths. The new test cloths, including energy test cloths and energy stuffer cloths, must be pre-conditioned in a clothes washer in the following manner:
-Perform five complete wash-rinse-spin cycles, the first two with AHAM Standard Detergent Formula 3 and the last three without detergent. Place the test cloth in a clothes washer set at the maximum water level. Wash the load for ten minutes in soft water (17 ppm hardness or less) using 27.0 grams + 4.0 grams per pound of cloth load of AHAM Standard detergent Formula 3. The wash temperature is to be controlled to 135 °F ± 5 °F (57.2 °C ± 2.8 °C) and the rinse temperature is to be controlled to 60 °F ±5 °F (15.6 °C ± 2.8 °C). Repeat the cycle with detergent and then repeat the cycle three additional times without detergent, bone drying the load between cycles (for a total of five complete wash-rinse-spin cycles).
-2.7.4 Energy test cloth material. The energy test cloths and energy stuffer cloths must be made from fabric meeting the following specifications:
-2.7.4.1 The test cloth material should come from a roll of material with a width of approximately 63 inches and approximately 500 yards per roll. However, other sizes may be used if the test cloth material meets the specifications listed in sections 2.7.4.2 through 2.7.4.7.
-2.7.4.2 Nominal fabric type. Pure finished bleached cloth made with a momie or granite weave, which is nominally 50 percent cotton and 50 percent polyester.
-2.7.4.3 Fabric weight. 5.60 ± 0.25 ounces per square yard (190.0 ± 8.4 g/m 2).
-2.7.4.4 Thread count. 65 × 57 per inch (warp × fill), ±2 percent.
-2.7.4.5 Fiber content of warp and filling yarn. 50 percent ±4 percent cotton, with the balance being polyester, open end spun, 15/1 ±5 percent cotton count blended yarn.
-2.7.4.6 Water repellent finishes, such as fluoropolymer stain resistant finishes, must not be applied to the test cloth. Verify the absence of such finishes using both of the following:
-2.7.4.6.1 AATCC Test Method 118-2007 (incorporated by reference; see § 430.3) for each new lot of test cloth (when purchased from the mill) to confirm the absence of Scotchguard TM or other water repellent finish (required scores of "D" across the board).
-2.7.4.6.2 AATCC Test Method 79-2010 (incorporated by reference; see § 430.3) for each new lot of test cloth (when purchased from the mill) to confirm the absence of Scotchguard TM or other water repellent finish (time to absorb one drop should be on the order of 1 second).
-2.7.4.7 The maximum shrinkage after preconditioning must not be more than 5 percent of the length and width. Measure per AATCC Test Method 135-2010 (incorporated by reference; see § 430.3).
-2.7.5 The moisture absorption and retention must be evaluated for each new lot of test cloth using the standard extractor Remaining Moisture Content (RMC) procedure specified in Appendix J3 to 10 CFR part 430 subpart B.
-2.8 Test load sizes. Use Table 5.1 of this appendix to determine the maximum, minimum, and, when required, average test load sizes based on the clothes container capacity as measured in section 3.1 of this appendix. Test loads must consist of energy test cloths and no more than five energy stuffer clothes per load to achieve the proper weight.
+2.7 Test cloths. The test cloth material and dimensions must conform to the specifications in appendix J3 to this subpart. The energy test cloth and the energy stuffer cloths must be clean and must not be used for more than 60 test runs (after preconditioning as specified in section 5 of appendix J3 to this subpart). All energy test cloth must be permanently marked identifying the lot number of the material. Mixed lots of material must not be used for testing a clothes washer. The moisture absorption and retention must be evaluated for each new lot of test cloth using the standard extractor Remaining Moisture Content (RMC) procedure specified in appendix J3 to this subpart.
+2.8 Test load sizes. Use Table 5.1 of this appendix to determine the maximum, minimum, and, when required, average test load sizes based on the clothes container capacity as measured in section 3.1 of this appendix. Test loads must consist of energy test cloths and no more than five energy stuffer cloths per load to achieve the proper weight.
 Use the test load sizes and corresponding water fill settings defined in Table 2.8 of this appendix when measuring water and energy consumption. Use only the maximum test load size when measuring RMC.
 Table 2.8—Required Test Load Sizes and Water Fill Settings
 Water fill control system type | Test load size | Water fill setting
@@ -135,12 +84,12 @@ ER05AU15.005
 2.11 Clothes washer pre-conditioning.
 2.11.1 Non-water-heating clothes washer. If the clothes washer has not been filled with water in the preceding 96 hours, pre-condition it by running it through a cold rinse cycle and then draining it to ensure that the hose, pump, and sump are filled with water.
 2.11.2 Water-heating clothes washer. If the clothes washer has not been filled with water in the preceding 96 hours, or if it has not been in the test room at the specified ambient conditions for 8 hours, pre-condition it by running it through a cold rinse cycle and then draining it to ensure that the hose, pump, and sump are filled with water.
-2.12 Determining the energy test cycle. To determine the energy test cycle, evaluate the wash/rinse temperature selection flowcharts in the order in which they are presented in this section. The determination of the energy test cycle must take into consideration all cycle settings available to the end user, including any cycle selections or cycle modifications provided by the manufacturer via software or firmware updates to the product, for the basic model under test. The energy test cycle does not include any cycle that is recommended by the manufacturer exclusively for cleaning, deodorizing, or sanitizing the clothes washer.
-ER05AU15.006
-ER05AU15.007
-ER05AU15.008
-ER05AU15.009
-ER05AU15.010
+2.12 Determining the energy test cycle. To determine the energy test cycle, evaluate the wash/rinse temperature selection flowcharts in the order in which they are presented in this section. Except for Cold Wash/Cold Rinse, use the maximum load size to evaluate each flowchart. The determination of the energy test cycle must take into consideration all cycle settings available to the end user, including any cycle selections or cycle modifications provided by the manufacturer via software or firmware updates to the product, for the basic model under test. The energy test cycle does not include any cycle that is recommended by the manufacturer exclusively for cleaning, deodorizing, or sanitizing the clothes washer.
+ER01JN22.009
+ER01JN22.010
+ER01JN22.011
+ER01JN22.012
+ER01JN22.013
 3. Test Measurements
 3.1 Clothes container capacity. Measure the entire volume that a clothes load could occupy within the clothes container during active mode washer operation according to the following procedures:
 3.1.1 Place the clothes washer in such a position that the uppermost edge of the clothes container opening is leveled horizontally, so that the container will hold the maximum amount of water. For front-loading clothes washers, the door seal and shipping bolts or other forms of bracing hardware to support the wash drum during shipping must remain in place during the capacity measurement.
@@ -181,20 +130,19 @@ Combined Low-Power Mode Power | 3.9
 (2) For warm inlet water temperature, open both hot and cold water faucets completely;
 (3) For cold inlet water temperature, close the hot water faucet and open the cold water faucet completely.
 3.2.4 Wash/rinse temperature selection. Set the wash/rinse temperature selection control to obtain the desired wash/rinse temperature selection within the energy test cycle.
-3.2.5 Wash time setting. If one wash time is prescribed for the wash cycle under test, that shall be the wash time setting; otherwise, the wash time setting shall be the higher of either the minimum or 70 percent of the maximum wash time available for the wash cycle under test, regardless of the labeling of suggested dial locations. If 70% of the maximum wash time is not available on a dial with a discreet number of wash time settings, choose the next-highest setting greater than 70%. If the clothes washer is equipped with an electromechanical dial controlling wash time, reset the dial to the minimum wash time and then turn it in the direction of increasing wash time to reach the appropriate setting. If the appropriate setting is passed, return the dial to the minimum wash time and then turn in the direction of increasing wash time until the appropriate setting is reached.
+3.2.5 Wash time setting.
+3.2.5.1 If the cycle under test offers a range of wash time settings, the wash time setting shall be the higher of either the minimum or 70 percent of the maximum wash time available for the wash cycle under test, regardless of the labeling of suggested dial locations. If 70 percent of the maximum wash time is not available on a dial with a discrete number of wash time settings, choose the next-highest setting greater than 70 percent.
+3.2.5.2 If the clothes washer is equipped with an electromechanical dial or timer controlling wash time that rotates in both directions, reset the dial to the minimum wash time and then turn it in the direction of increasing wash time to reach the appropriate setting. If the appropriate setting is passed, return the dial to the minimum wash time and then turn in the direction of increasing wash time until the appropriate setting is reached.
 3.2.6 Water fill levels.
 3.2.6.1 Clothes washers with manual water fill control system. Set the water fill selector to the maximum water level available for the wash cycle under test for the maximum test load size and the minimum water level available for the wash cycle under test for the minimum test load size.
 3.2.6.2 Clothes washers with automatic water fill control system.
 3.2.6.2.1 Not user adjustable. The maximum, minimum, and average water levels as described in the following sections refer to the amount of water fill that is automatically selected by the control system when the respective test loads are used.
-3.2.6.2.2 User adjustable. Conduct four tests on clothes washers with user adjustable automatic water fill controls that affect the relative wash water levels. Conduct the first test using the maximum test load and with the automatic water fill control system set in the setting that will give the most energy intensive result. Conduct the second test using the minimum test load and with the automatic water fill control system set in the setting that will give the least energy intensive result. Conduct the third test using the average test load and with the automatic water fill control system set in the setting that will give the most energy intensive result for the given test load. Conduct the fourth test using the average test load and with the automatic water fill control system set in the setting that will give the least energy intensive result for the given test load. Average the results of the third and fourth tests to obtain the energy and water consumption values for the average test load size.
+3.2.6.2.2 User-adjustable adaptive. Conduct four tests on clothes washers with user-adjustable adaptive water fill controls. Conduct the first test using the maximum test load and with the adaptive water fill control system set in the setting that uses the most water. Conduct the second test using the minimum test load and with the adaptive water fill control system set in the setting that uses the least water. Conduct the third test using the average test load and with the adaptive water fill control system set in the setting that uses the most water. Conduct the fourth test using the average test load and with the adaptive water fill control system set in the setting that uses the least water. Average the results of the third and fourth tests to obtain the energy and water consumption values for the average test load size.
 3.2.6.3 Clothes washers with automatic water fill control system and alternate manual water fill control system. If a clothes washer with an automatic water fill control system allows user selection of manual controls as an alternative, test both manual and automatic modes and, for each mode, calculate the energy consumption (HE T, ME T, and D E) and water consumption (Q T) values as set forth in section 4 of this appendix. Then, calculate the average of the two values (one from each mode, automatic and manual) for each variable (HE T, ME T, D E, and Q T) and use the average value for each variable in the final calculations in section 4 of this appendix.
-3.2.7 Manufacturer default settings. For clothes washers with electronic control systems, use the manufacturer default settings for any cycle selections, except for (1) the temperature selection, (2) the wash water fill levels, or (3) if necessary, the spin speeds on wash cycles used to determine remaining moisture content. Specifically, the manufacturer default settings must be used for wash conditions such as agitation/tumble operation, soil level, spin speed on wash cycles used to determine energy and water consumption, wash times, rinse times, optional rinse settings, water heating time for water heating clothes washers, and all other wash parameters or optional features applicable to that wash cycle. Any optional wash cycle feature or setting (other than wash/rinse temperature, water fill level selection, or spin speed on wash cycles used to determine remaining moisture content) that is activated by default on the wash cycle under test must be included for testing unless the manufacturer instructions recommend not selecting this option, or recommend selecting a different option, for washing normally soiled cotton clothing.
-For clothes washers with control panels containing mechanical switches or dials, any optional settings, except for (1) the temperature selection, (2) the wash water fill levels, or (3) if necessary, the spin speeds on wash cycles used to determine remaining moisture content, must be in the position recommended by the manufacturer for washing normally soiled cotton clothing. If the manufacturer instructions do not recommend a particular switch or dial position to be used for washing normally soiled cotton clothing, the setting switch or dial must remain in its as-shipped position.
+3.2.7 Manufacturer default settings. For clothes washers with electronic control systems, use the manufacturer default settings for any cycle selections, except for (1) the temperature selection, (2) the wash water fill levels, (3) if necessary, the spin speeds on wash cycles used to determine remaining moisture content, or (4) network settings. If the clothes washer has network capabilities, the network settings must be disabled throughout testing if such settings can be disabled by the end-user and the product's user manual provides instructions on how to do so. For all other cycle selections, the manufacturer default settings must be used for wash conditions such as agitation/tumble operation, soil level, spin speed on wash cycles used to determine energy and water consumption, wash times, rinse times, optional rinse settings, water heating time for water heating clothes washers, and all other wash parameters or optional features applicable to that wash cycle. Any optional wash cycle feature or setting (other than wash/rinse temperature, water fill level selection, spin speed on wash cycles used to determine remaining moisture content, or network settings on clothes washers with network capabilities) that is activated by default on the wash cycle under test must be included for testing unless the manufacturer instructions recommend not selecting this option, or recommend selecting a different option, for washing normally soiled cotton clothing. For clothes washers with control panels containing mechanical switches or dials, any optional settings, except for (1) the temperature selection, (2) the wash water fill levels, or (3) if necessary, the spin speeds on wash cycles used to determine remaining moisture content, must be in the position recommended by the manufacturer for washing normally soiled cotton clothing. If the manufacturer instructions do not recommend a particular switch or dial position to be used for washing normally soiled cotton clothing, the setting switch or dial must remain in its as-shipped position.
 3.2.8 For each wash cycle tested, include the entire active washing mode and exclude any delay start or cycle finished modes.
-3.2.9 Discard the data from a wash cycle that provides a visual or audio indicator to alert the user that an out-of-balance condition has been detected, or that terminates prematurely if an out-of-balance condition is detected, and thus does not include the agitation/tumble operation, spin speed(s), wash times, and rinse times applicable to the wash cycle under test. Document in the test report the rejection of data from any wash cycle during testing and the reason for the rejection.
+3.2.9 Anomalous Test Cycles. If during a wash cycle the clothes washer: (a) Signals to the user by means of a visual or audio alert that an out-of-balance condition has been detected; or (b) terminates prematurely and thus does not include the agitation/tumble operation, spin speed(s), wash times, and rinse times applicable to the wash cycle under test, discard the test data and repeat the wash cycle. Document in the test report the rejection of data from any wash cycle during testing and the reason for the rejection.
 3.3 Extra-Hot Wash/Cold Rinse. Measure the water and electrical energy consumption for each water fill level and test load size as specified in sections 3.3.1 through 3.3.3 of this appendix for the Extra-Hot Wash/Cold Rinse as defined within the energy test cycle.
-Non-reversible temperature indicator labels, adhered to the inside of the clothes container, may be used to confirm that an extra-hot wash temperature greater than 135 °F has been achieved during the wash cycle, under the following conditions. The label must remain waterproof, intact, and adhered to the wash drum throughout an entire wash cycle; provide consistent maximum temperature readings; and provide repeatable temperature indications sufficient to demonstrate that a wash temperature of greater than 135 °F has been achieved. The label must have been verified to consistently indicate temperature measurements with an accuracy of ±1 °F if the label provides a temperature indicator at 135 °F. If the label does not provide a temperature indicator at 135 °F, the label must have been verified to consistently indicate temperature measurements with an accuracy of ±1 °F if the next-highest temperature indicator is greater than 135 °F and less than 140 °F, or ±3 °F if the next-highest temperature indicator is 140 °F or greater. If the label does not provide a temperature indicator at 135 °F, failure to activate the next-highest temperature indicator does not necessarily indicate the lack of an extra-hot wash temperature. However, such a result would not be considered a valid test due to the lack of verification of the water temperature requirement, in which case an alternative method must be used to confirm that an extra-hot wash temperature greater than 135 °F has been achieved during the wash cycle.
-If using a temperature indicator label to test a front-loading clothes washer, adhere the label along the interior surface of the clothes container drum, midway between the front and the back of the drum, adjacent to one of the baffles. If using a temperature indicator label to test a top-loading clothes washer, adhere the label along the interior surface of the clothes container drum, on the vertical portion of the sidewall, as close to the bottom of the container as possible.
 3.3.1 Maximum test load and water fill. Measure the values for hot water consumption (Hm X), cold water consumption (Cm X), and electrical energy consumption (Em X) for an Extra-Hot Wash/Cold Rinse cycle, with the controls set for the maximum water fill level. Use the maximum test load size as specified in Table 5.1 of this appendix.
 3.3.2 Minimum test load and water fill. Measure the values for hot water consumption (Hm n), cold water consumption (Cm n), and electrical energy consumption (Em n) for an Extra-Hot Wash/Cold Rinse cycle, with the controls set for the minimum water fill level. Use the minimum test load size as specified in Table 5.1 of this appendix.
 3.3.3 Average test load and water fill. For a clothes washer with an automatic water fill control system, measure the values for hot water consumption (Hm a), cold water consumption (Cm a), and electrical energy consumption (Em a) for an Extra-Hot Wash/Cold Rinse cycle. Use the average test load size as specified in Table 5.1 of this appendix.
@@ -207,8 +155,7 @@ For a clothes washer with fewer than four discrete Warm Wash/Cold Rinse temperat
 3.5.1 Maximum test load and water fill. Measure the values for hot water consumption (Hw X), cold water consumption (Cw X), and electrical energy consumption (Ew X) for the Warm Wash/Cold Rinse cycle, with the controls set for the maximum water fill level. Use the maximum test load size as specified in Table 5.1 of this appendix.
 3.5.2 Minimum test load and water fill. Measure the values for hot water consumption (Hw n), cold water consumption (Cw n), and electrical energy consumption (Ew n) for the Warm Wash/Cold Rinse cycle, with the controls set for the minimum water fill level. Use the minimum test load size as specified in Table 5.1 of this appendix.
 3.5.3 Average test load and water fill. For a clothes washer with an automatic water fill control system, measure the values for hot water consumption (Hw a), cold water consumption (Cw a), and electrical energy consumption (Ew a) for a Warm Wash/Cold Rinse cycle. Use the average test load size as specified in Table 5.1 of this appendix.
-3.6 Warm Wash/Warm Rinse. Measure the water and electrical energy consumption for each water fill level and/or test load size as specified in sections 3.6.1 through 3.6.3 of this appendix for the applicable Warm Wash/Warm Rinse temperature selection(s), as defined within the energy testy cycle.
-For a clothes washer with fewer than four discrete Warm Wash/Warm Rinse temperature selections, test all Warm Wash/Warm Rinse selections. For a clothes washer that offers four or more Warm Wash/Warm Rinse selections, test at all discrete selections, or test at 25 percent, 50 percent, and 75 percent positions of the temperature selection device between the hottest hot (≤135 °F (57.2 °C)) wash and the coldest cold wash. If a selection is not available at the 25, 50 or 75 percent position, in place of each such unavailable selection use the next warmer setting. For each reportable value to be used for the Warm Wash/Warm Rinse temperature selection, calculate the arithmetic average of all Warm Wash/Warm Rinse temperature selections tested pursuant to this section.
+3.6 Warm Wash/Warm Rinse. Measure the water and electrical energy consumption for each water fill level and/or test load size as specified in sections 3.6.1 through 3.6.3 of this appendix for the applicable Warm Wash/Warm Rinse temperature selection(s), as defined within the energy test cycle. For a clothes washer with fewer than four discrete Warm Wash/Warm Rinse temperature selections, test all Warm Wash/Warm Rinse selections. For a clothes washer that offers four or more Warm Wash/Warm Rinse selections, test at all discrete selections, or test at 25 percent, 50 percent, and 75 percent positions of the temperature selection device between the hottest hot (≤ 135 °F (57.2 °C)) wash and the coldest cold wash. If a selection is not available at the 25, 50 or 75 percent position, in place of each such unavailable selection use the next warmer setting. For each reportable value to be used for the Warm Wash/Warm Rinse temperature selection, calculate the average of all Warm Wash/Warm Rinse temperature selections tested pursuant to this section.
 3.6.1 Maximum test load and water fill. Measure the values for hot water consumption (Hww X), cold water consumption (Cww X), and electrical energy consumption (Eww X) for the Warm Wash/Warm Rinse cycle, with the controls set for the maximum water fill level. Use the maximum test load size as specified in Table 5.1 of this appendix.
 3.6.2 Minimum test load and water fill. Measure the values for hot water consumption (Hww n), cold water consumption (Cww n), and electrical energy consumption (Eww n) for the Warm Wash/Warm Rinse cycle, with the controls set for the minimum water fill level. Use the minimum test load size as specified in Table 5.1 of this appendix.
 3.6.3 Average test load and water fill. For a clothes washer with an automatic water fill control system, measure the values for hot water consumption (Hww a), cold water consumption (Cww a), and electrical energy consumption (Eww a) for the Warm Wash/Warm Rinse cycle. Use the average test load size as specified in Table 5.1 of this appendix.
@@ -225,26 +172,26 @@ For a clothes washer with fewer than four discrete Warm Wash/Warm Rinse temperat
 3.8.2.4 Record the weight of the test load immediately after completion of the wash cycle (WC X).
 3.8.2.5 Calculate the remaining moisture content of the maximum test load, RMC X, defined as:
 RMC X = (WC X − WI X)/WI X
-3.8.2.6 Apply the RMC correction curve described in section 7 of appendix J3 to this subpart to calculate the corrected remaining moisture content, RMC corr, expressed as a percentage as follows:
+3.8.2.6 Apply the RMC correction curve described in section 9 of appendix J3 to this subpart to calculate the corrected remaining moisture content, RMC corr, expressed as a percentage as follows:
 RMC corr = (A × RMC X + B) × 100%
 where:
-A and B are the coefficients of the RMC correction curve as defined in section 6.1 of appendix J3 to this subpart.
+A and B are the coefficients of the RMC correction curve as defined in section 8.7 of appendix J3 to this subpart.
 RMC X = As defined in section 3.8.2.5 of this appendix.
 3.8.2.7 Use RMC corr as the final corrected RMC in section 4.3 of this appendix.
 3.8.3 Clothes washers with both cold and warm rinse options.
 3.8.3.1 Complete sections 3.8.2.1 through 3.8.2.4 of this appendix for a Cold Wash/Cold Rinse cycle. Calculate the remaining moisture content of the maximum test load for Cold Wash/Cold Rinse, RMC COLD, defined as:
 RMC COLD = (WC X − WI X)/WI X
-3.8.3.2 Apply the RMC correction curve described in section 7 of appendix J3 to this subpart to calculate the corrected remaining moisture content for Cold Wash/Cold Rinse, RMC COLD,corr, expressed as a percentage, as follows:
+3.8.3.2 Apply the RMC correction curve described in section 9 of appendix J3 to this subpart to calculate the corrected remaining moisture content for Cold Wash/Cold Rinse, RMC COLD,corr, expressed as a percentage, as follows:
 RMC COLD,corr = (A × RMC COLD + B) × 100%
 where:
-A and B are the coefficients of the RMC correction curve as defined in section 6.1 of appendix J3 to this subpart.
+A and B are the coefficients of the RMC correction curve as defined in section 8.7 of appendix J3 to this subpart.
 RMC COLD = As defined in section 3.8.3.1 of this appendix.
-3.8.3.3 Complete sections 3.8.2.1 through 3.8.2.4 of this appendix using a Warm Wash/ Warm Rinse cycle instead. Calculate the remaining moisture content of the maximum test load for Warm Wash/Warm Rinse, RMC WARM, defined as:
+3.8.3.3 Complete sections 3.8.2.1 through 3.8.2.4 of this appendix using a Warm Wash/Warm Rinse cycle instead. Calculate the remaining moisture content of the maximum test load for Warm Wash/Warm Rinse, RMC WARM, defined as:
 RMC WARM = (WC X −WI X)/WI X
-3.8.3.4 Apply the RMC correction curve described in section 7 of appendix J3 to this subpart to calculate the corrected remaining moisture content for Warm Wash/Warm Rinse, RMC WARM,corr, expressed as a percentage, as follows:
+3.8.3.4 Apply the RMC correction curve described in section 9 of appendix J3 to this subpart to calculate the corrected remaining moisture content for Warm Wash/Warm Rinse, RMC WARM,corr, expressed as a percentage, as follows:
 RMC WARM,corr = (A × RMC WARM + B) × 100%
 where:
-A and B are the coefficients of the RMC correction curve as defined in section 6.1 of appendix J3 to this subpart.
+A and B are the coefficients of the RMC correction curve as defined in section 8.7 of appendix J3 to this subpart.
 RMC WARM = As defined in section 3.8.3.3 of this appendix.
 3.8.3.5 Calculate the corrected remaining moisture content of the maximum test load, RMC corr, expressed as a percentage as follows:
 RMC corr = RMC COLD,corr × (1 − TUF ww) + RMC WARM,corr × (TUF ww)
@@ -404,18 +351,13 @@ Q T = [Qm T × TUF m] + [Qh T × TUF h] + [Qw T × TUF w] + [Qww T × TUF ww] + 
 where:
 Qm T, Qh T, Qw T, Qww T, and Qc T are defined in sections 4.2.6 through 4.2.10 of this appendix.
 TUF m, TUF h, TUF w, TUF ww, and TUF c are defined in Table 4.1.1 of this appendix.
-4.2.12 Water factor. Calculate the water factor, WF, expressed in gallons per cycle per cubic foot (or liters per cycle per liter), as:
-WF = Qc T /C
-where:
-Qc T = As defined in section 4.2.10 of this appendix.
-C = As defined in section 3.1.7 of this appendix.
-4.2.13 Integrated water factor. Calculate the integrated water factor, IWF, expressed in gallons per cycle per cubic foot (or liters per cycle per liter), as:
+4.2.12 Integrated water factor. Calculate the integrated water factor, IWF, expressed in gallons per cycle per cubic foot (or liters per cycle per liter), as:
 IWF = Q T /C
 where:
 Q T = As defined in section 4.2.11 of this appendix.
 C = As defined in section 3.1.7 of this appendix.
 4.3 Per-cycle energy consumption for removal of moisture from test load. Calculate the per-cycle energy required to remove the remaining moisture of the test load, D E, expressed in kilowatt-hours per cycle and defined as:
-D E = [(F max × Maximum test load weight) + (F avg × Average test load weight) + (F min × Minimum test load weight)] × (RMC corr - 4%) × (DEF) × (DUF)
+D E = [(F max × Maximum test load weight) + (F avg × Average test load weight) + (F min × Minimum test load weight)] × (RMC corr – 4%) × (DEF) × (DUF)
 where:
 F max, F avg, and F min are defined in Table 4.1.3 of this appendix.
 Maximum, average, and minimum test load weights are defined in Table 5.1 of this appendix.
@@ -433,8 +375,8 @@ K p = Conversion factor of watt-hours to kilowatt-hours = 0.001.
 295 = Representative average number of clothes washer cycles in a year.
 8,465 = Combined annual hours for inactive and off mode.
 4,232.5 = One-half of the combined annual hours for inactive and off mode.
-4.5 Modified energy factor. Calculate the modified energy factor, MEF, expressed in cubic feet per kilowatt-hour per cycle (or liters per kilowatt-hour per cycle) and defined as:
-MEF = C/(E TE + D E)
+4.5 Modified energy factor. Calculate the modified energy factor, MEF J2, expressed in cubic feet per kilowatt-hour per cycle (or liters per kilowatt-hour per cycle) and defined as:
+MEF J2 = C/(E TE + D E)
 where:
 C = As defined in section 3.1.7 of this appendix.
 E TE = As defined in section 4.1.7 of this appendix.
@@ -449,70 +391,78 @@ E TLP = As defined in section 4.4 of this appendix.
 5. Test Loads
 Table 5.1—Test Load Sizes
 Container volume | cu. ft. | ≥ < | liter | ≥ < | Minimum load | lb | kg | Maximum load | lb | kg | Average load | lb | kg
-0.00-0.80 | 0.00-22.7 | 3.00 | 1.36 | 3.00 | 1.36 | 3.00 | 1.36
-0.80-0.90 | 22.7-25.5 | 3.00 | 1.36 | 3.50 | 1.59 | 3.25 | 1.47
-0.90-1.00 | 25.5-28.3 | 3.00 | 1.36 | 3.90 | 1.77 | 3.45 | 1.56
-1.00-1.10 | 28.3-31.1 | 3.00 | 1.36 | 4.30 | 1.95 | 3.65 | 1.66
-1.10-1.20 | 31.1-34.0 | 3.00 | 1.36 | 4.70 | 2.13 | 3.85 | 1.75
-1.20-1.30 | 34.0-36.8 | 3.00 | 1.36 | 5.10 | 2.31 | 4.05 | 1.84
-1.30-1.40 | 36.8-39.6 | 3.00 | 1.36 | 5.50 | 2.49 | 4.25 | 1.93
-1.40-1.50 | 39.6-42.5 | 3.00 | 1.36 | 5.90 | 2.68 | 4.45 | 2.02
-1.50-1.60 | 42.5-45.3 | 3.00 | 1.36 | 6.40 | 2.90 | 4.70 | 2.13
-1.60-1.70 | 45.3-48.1 | 3.00 | 1.36 | 6.80 | 3.08 | 4.90 | 2.22
-1.70-1.80 | 48.1-51.0 | 3.00 | 1.36 | 7.20 | 3.27 | 5.10 | 2.31
-1.80-1.90 | 51.0-53.8 | 3.00 | 1.36 | 7.60 | 3.45 | 5.30 | 2.40
-1.90-2.00 | 53.8-56.6 | 3.00 | 1.36 | 8.00 | 3.63 | 5.50 | 2.49
-2.00-2.10 | 56.6-59.5 | 3.00 | 1.36 | 8.40 | 3.81 | 5.70 | 2.59
-2.10-2.20 | 59.5-62.3 | 3.00 | 1.36 | 8.80 | 3.99 | 5.90 | 2.68
-2.20-2.30 | 62.3-65.1 | 3.00 | 1.36 | 9.20 | 4.17 | 6.10 | 2.77
-2.30-2.40 | 65.1-68.0 | 3.00 | 1.36 | 9.60 | 4.35 | 6.30 | 2.86
-2.40-2.50 | 68.0-70.8 | 3.00 | 1.36 | 10.00 | 4.54 | 6.50 | 2.95
-2.50-2.60 | 70.8-73.6 | 3.00 | 1.36 | 10.50 | 4.76 | 6.75 | 3.06
-2.60-2.70 | 73.6-76.5 | 3.00 | 1.36 | 10.90 | 4.94 | 6.95 | 3.15
-2.70-2.80 | 76.5-79.3 | 3.00 | 1.36 | 11.30 | 5.13 | 7.15 | 3.24
-2.80-2.90 | 79.3-82.1 | 3.00 | 1.36 | 11.70 | 5.31 | 7.35 | 3.33
-2.90-3.00 | 82.1-85.0 | 3.00 | 1.36 | 12.10 | 5.49 | 7.55 | 3.42
-3.00-3.10 | 85.0-87.8 | 3.00 | 1.36 | 12.50 | 5.67 | 7.75 | 3.52
-3.10-3.20 | 87.8-90.6 | 3.00 | 1.36 | 12.90 | 5.85 | 7.95 | 3.61
-3.20-3.30 | 90.6-93.4 | 3.00 | 1.36 | 13.30 | 6.03 | 8.15 | 3.70
-3.30-3.40 | 93.4-96.3 | 3.00 | 1.36 | 13.70 | 6.21 | 8.35 | 3.79
-3.40-3.50 | 96.3-99.1 | 3.00 | 1.36 | 14.10 | 6.40 | 8.55 | 3.88
-3.50-3.60 | 99.1-101.9 | 3.00 | 1.36 | 14.60 | 6.62 | 8.80 | 3.99
-3.60-3.70 | 101.9-104.8 | 3.00 | 1.36 | 15.00 | 6.80 | 9.00 | 4.08
-3.70-3.80 | 104.8-107.6 | 3.00 | 1.36 | 15.40 | 6.99 | 9.20 | 4.17
-3.80-3.90 | 107.6-110.4 | 3.00 | 1.36 | 15.80 | 7.16 | 9.40 | 4.26
-3.90-4.00 | 110.4-113.3 | 3.00 | 1.36 | 16.20 | 7.34 | 9.60 | 4.35
-4.00-4.10 | 113.3-116.1 | 3.00 | 1.36 | 16.60 | 7.53 | 9.80 | 4.45
-4.10-4.20 | 116.1-118.9 | 3.00 | 1.36 | 17.00 | 7.72 | 10.00 | 4.54
-4.20-4.30 | 118.9-121.8 | 3.00 | 1.36 | 17.40 | 7.90 | 10.20 | 4.63
-4.30-4.40 | 121.8-124.6 | 3.00 | 1.36 | 17.80 | 8.09 | 10.40 | 4.72
-4.40-4.50 | 124.6-127.4 | 3.00 | 1.36 | 18.20 | 8.27 | 10.60 | 4.82
-4.50-4.60 | 127.4-130.3 | 3.00 | 1.36 | 18.70 | 8.46 | 10.85 | 4.91
-4.60-4.70 | 130.3-133.1 | 3.00 | 1.36 | 19.10 | 8.65 | 11.05 | 5.00
-4.70-4.80 | 133.1-135.9 | 3.00 | 1.36 | 19.50 | 8.83 | 11.25 | 5.10
-4.80-4.90 | 135.9-138.8 | 3.00 | 1.36 | 19.90 | 9.02 | 11.45 | 5.19
-4.90-5.00 | 138.8-141.6 | 3.00 | 1.36 | 20.30 | 9.20 | 11.65 | 5.28
-5.00-5.10 | 141.6-144.4 | 3.00 | 1.36 | 20.70 | 9.39 | 11.85 | 5.38
-5.10-5.20 | 144.4-147.2 | 3.00 | 1.36 | 21.10 | 9.58 | 12.05 | 5.47
-5.20-5.30 | 147.2-150.1 | 3.00 | 1.36 | 21.50 | 9.76 | 12.25 | 5.56
-5.30-5.40 | 150.1-152.9 | 3.00 | 1.36 | 21.90 | 9.95 | 12.45 | 5.65
-5.40-5.50 | 152.9-155.7 | 3.00 | 1.36 | 22.30 | 10.13 | 12.65 | 5.75
-5.50-5.60 | 155.7-158.6 | 3.00 | 1.36 | 22.80 | 10.32 | 12.90 | 5.84
-5.60-5.70 | 158.6-161.4 | 3.00 | 1.36 | 23.20 | 10.51 | 13.10 | 5.93
-5.70-5.80 | 161.4-164.2 | 3.00 | 1.36 | 23.60 | 10.69 | 13.30 | 6.03
-5.80-5.90 | 164.2-167.1 | 3.00 | 1.36 | 24.00 | 10.88 | 13.50 | 6.12
-5.90-6.00 | 167.1-169.9 | 3.00 | 1.36 | 24.40 | 11.06 | 13.70 | 6.21
-Notes: (1) All test load weights are bone dry weights.
+0.00–0.80 | 0.00–22.7 | 3.00 | 1.36 | 3.00 | 1.36 | 3.00 | 1.36
+0.80–0.90 | 22.7–25.5 | 3.00 | 1.36 | 3.50 | 1.59 | 3.25 | 1.47
+0.90–1.00 | 25.5–28.3 | 3.00 | 1.36 | 3.90 | 1.77 | 3.45 | 1.56
+1.00–1.10 | 28.3–31.1 | 3.00 | 1.36 | 4.30 | 1.95 | 3.65 | 1.66
+1.10–1.20 | 31.1–34.0 | 3.00 | 1.36 | 4.70 | 2.13 | 3.85 | 1.75
+1.20–1.30 | 34.0–36.8 | 3.00 | 1.36 | 5.10 | 2.31 | 4.05 | 1.84
+1.30–1.40 | 36.8–39.6 | 3.00 | 1.36 | 5.50 | 2.49 | 4.25 | 1.93
+1.40–1.50 | 39.6–42.5 | 3.00 | 1.36 | 5.90 | 2.68 | 4.45 | 2.02
+1.50–1.60 | 42.5–45.3 | 3.00 | 1.36 | 6.40 | 2.90 | 4.70 | 2.13
+1.60–1.70 | 45.3–48.1 | 3.00 | 1.36 | 6.80 | 3.08 | 4.90 | 2.22
+1.70–1.80 | 48.1–51.0 | 3.00 | 1.36 | 7.20 | 3.27 | 5.10 | 2.31
+1.80–1.90 | 51.0–53.8 | 3.00 | 1.36 | 7.60 | 3.45 | 5.30 | 2.40
+1.90–2.00 | 53.8–56.6 | 3.00 | 1.36 | 8.00 | 3.63 | 5.50 | 2.49
+2.00–2.10 | 56.6–59.5 | 3.00 | 1.36 | 8.40 | 3.81 | 5.70 | 2.59
+2.10–2.20 | 59.5–62.3 | 3.00 | 1.36 | 8.80 | 3.99 | 5.90 | 2.68
+2.20–2.30 | 62.3–65.1 | 3.00 | 1.36 | 9.20 | 4.17 | 6.10 | 2.77
+2.30–2.40 | 65.1–68.0 | 3.00 | 1.36 | 9.60 | 4.35 | 6.30 | 2.86
+2.40–2.50 | 68.0–70.8 | 3.00 | 1.36 | 10.00 | 4.54 | 6.50 | 2.95
+2.50–2.60 | 70.8–73.6 | 3.00 | 1.36 | 10.50 | 4.76 | 6.75 | 3.06
+2.60–2.70 | 73.6–76.5 | 3.00 | 1.36 | 10.90 | 4.94 | 6.95 | 3.15
+2.70–2.80 | 76.5–79.3 | 3.00 | 1.36 | 11.30 | 5.13 | 7.15 | 3.24
+2.80–2.90 | 79.3–82.1 | 3.00 | 1.36 | 11.70 | 5.31 | 7.35 | 3.33
+2.90–3.00 | 82.1–85.0 | 3.00 | 1.36 | 12.10 | 5.49 | 7.55 | 3.42
+3.00–3.10 | 85.0–87.8 | 3.00 | 1.36 | 12.50 | 5.67 | 7.75 | 3.52
+3.10–3.20 | 87.8–90.6 | 3.00 | 1.36 | 12.90 | 5.85 | 7.95 | 3.61
+3.20–3.30 | 90.6–93.4 | 3.00 | 1.36 | 13.30 | 6.03 | 8.15 | 3.70
+3.30–3.40 | 93.4–96.3 | 3.00 | 1.36 | 13.70 | 6.21 | 8.35 | 3.79
+3.40–3.50 | 96.3–99.1 | 3.00 | 1.36 | 14.10 | 6.40 | 8.55 | 3.88
+3.50–3.60 | 99.1–101.9 | 3.00 | 1.36 | 14.60 | 6.62 | 8.80 | 3.99
+3.60–3.70 | 101.9–104.8 | 3.00 | 1.36 | 15.00 | 6.80 | 9.00 | 4.08
+3.70–3.80 | 104.8–107.6 | 3.00 | 1.36 | 15.40 | 6.99 | 9.20 | 4.17
+3.80–3.90 | 107.6–110.4 | 3.00 | 1.36 | 15.80 | 7.16 | 9.40 | 4.26
+3.90–4.00 | 110.4–113.3 | 3.00 | 1.36 | 16.20 | 7.34 | 9.60 | 4.35
+4.00–4.10 | 113.3–116.1 | 3.00 | 1.36 | 16.60 | 7.53 | 9.80 | 4.45
+4.10–4.20 | 116.1–118.9 | 3.00 | 1.36 | 17.00 | 7.72 | 10.00 | 4.54
+4.20–4.30 | 118.9–121.8 | 3.00 | 1.36 | 17.40 | 7.90 | 10.20 | 4.63
+4.30–4.40 | 121.8–124.6 | 3.00 | 1.36 | 17.80 | 8.09 | 10.40 | 4.72
+4.40–4.50 | 124.6–127.4 | 3.00 | 1.36 | 18.20 | 8.27 | 10.60 | 4.82
+4.50–4.60 | 127.4–130.3 | 3.00 | 1.36 | 18.70 | 8.46 | 10.85 | 4.91
+4.60–4.70 | 130.3–133.1 | 3.00 | 1.36 | 19.10 | 8.65 | 11.05 | 5.00
+4.70–4.80 | 133.1–135.9 | 3.00 | 1.36 | 19.50 | 8.83 | 11.25 | 5.10
+4.80–4.90 | 135.9–138.8 | 3.00 | 1.36 | 19.90 | 9.02 | 11.45 | 5.19
+4.90–5.00 | 138.8–141.6 | 3.00 | 1.36 | 20.30 | 9.20 | 11.65 | 5.28
+5.00–5.10 | 141.6–144.4 | 3.00 | 1.36 | 20.70 | 9.39 | 11.85 | 5.38
+5.10–5.20 | 144.4–147.2 | 3.00 | 1.36 | 21.10 | 9.58 | 12.05 | 5.47
+5.20–5.30 | 147.2–150.1 | 3.00 | 1.36 | 21.50 | 9.76 | 12.25 | 5.56
+5.30–5.40 | 150.1–152.9 | 3.00 | 1.36 | 21.90 | 9.95 | 12.45 | 5.65
+5.40–5.50 | 152.9–155.7 | 3.00 | 1.36 | 22.30 | 10.13 | 12.65 | 5.75
+5.50–5.60 | 155.7–158.6 | 3.00 | 1.36 | 22.80 | 10.32 | 12.90 | 5.84
+5.60–5.70 | 158.6–161.4 | 3.00 | 1.36 | 23.20 | 10.51 | 13.10 | 5.93
+5.70–5.80 | 161.4–164.2 | 3.00 | 1.36 | 23.60 | 10.69 | 13.30 | 6.03
+5.80–5.90 | 164.2–167.1 | 3.00 | 1.36 | 24.00 | 10.88 | 13.50 | 6.12
+5.90–6.00 | 167.1–169.9 | 3.00 | 1.36 | 24.40 | 11.06 | 13.70 | 6.21
+6.00–6.10 | 169.9–172.7 | 3.00 | 1.36 | 24.80 | 11.25 | 13.90 | 6.30
+6.10–6.20 | 172.7–175.6 | 3.00 | 1.36 | 25.20 | 11.43 | 14.10 | 6.40
+6.20–6.30 | 175.6–178.4 | 3.00 | 1.36 | 25.60 | 11.61 | 14.30 | 6.49
+6.30–6.40 | 178.4–181.2 | 3.00 | 1.36 | 26.00 | 11.79 | 14.50 | 6.58
+6.40–6.50 | 181.2–184.1 | 3.00 | 1.36 | 26.40 | 11.97 | 14.70 | 6.67
+6.50–6.60 | 184.1–186.9 | 3.00 | 1.36 | 26.90 | 12.20 | 14.95 | 6.78
+6.60–6.70 | 186.9–189.7 | 3.00 | 1.36 | 27.30 | 12.38 | 15.15 | 6.87
+6.70–6.80 | 189.7–192.6 | 3.00 | 1.36 | 27.70 | 12.56 | 15.35 | 6.96
+6.80–6.90 | 192.6–195.4 | 3.00 | 1.36 | 28.10 | 12.75 | 15.55 | 7.05
+6.90–7.00 | 195.4–198.2 | 3.00 | 1.36 | 28.50 | 12.93 | 15.75 | 7.14
+7.00–7.10 | 198.2–201.0 | 3.00 | 1.36 | 28.90 | 13.11 | 15.95 | 7.23
+7.10–7.20 | 201.0–203.9 | 3.00 | 1.36 | 29.30 | 13.29 | 16.15 | 7.33
+7.20–7.30 | 203.9–206.7 | 3.00 | 1.36 | 29.70 | 13.47 | 16.35 | 7.42
+7.30–7.40 | 206.7–209.5 | 3.00 | 1.36 | 30.10 | 13.65 | 16.55 | 7.51
+7.40–7.50 | 209.5–212.4 | 3.00 | 1.36 | 30.50 | 13.83 | 16.75 | 7.60
+7.50–7.60 | 212.4–215.2 | 3.00 | 1.36 | 31.00 | 14.06 | 17.00 | 7.71
+7.60–7.70 | 215.2–218.0 | 3.00 | 1.36 | 31.40 | 14.24 | 17.20 | 7.80
+7.70–7.80 | 218.0–220.9 | 3.00 | 1.36 | 31.80 | 14.42 | 17.40 | 7.89
+7.80–7.90 | 220.9–223.7 | 3.00 | 1.36 | 32.20 | 14.61 | 17.60 | 7.98
+7.90–8.00 | 223.7–226.5 | 3.00 | 1.36 | 32.60 | 14.79 | 17.80 | 8.07
+(1) All test load weights are bone-dry weights.
 (2) Allowable tolerance on the test load weights is ±0.10 lbs (0.05 kg).
-6. Waivers and Field Testing
-6.1 Waivers and Field Testing for Nonconventional Clothes Washers. Manufacturers of nonconventional clothes washers, such as clothes washers with adaptive control systems, must submit a petition for waiver pursuant to 10 CFR 430.27 to establish an acceptable test procedure for that clothes washer if the washer cannot be tested pursuant to the DOE test procedure or the DOE test procedure yields results that are so unrepresentative of the clothes washer's true energy consumption characteristics as to provide materially inaccurate comparative data. In such cases, field testing may be appropriate for establishing an acceptable test procedure. The following are guidelines for field testing that may be used by manufacturers in support of petitions for waiver. These guidelines are not mandatory and the Department may determine that they do not apply to a particular model. Depending upon a manufacturer's approach for conducting field testing, additional data may be required. Manufacturers are encouraged to communicate with the Department prior to the commencement of field tests that may be used to support a petition for waiver. Section 6.3 of this appendix provides an example of field testing for a clothes washer with an adaptive water fill control system. Other features, such as the use of various spin speed selections, could be the subject of field tests.
-6.2 Nonconventional Wash System Energy Consumption Test. The field test may consist of a minimum of 10 of the nonconventional clothes washers ("test clothes washers") and 10 clothes washers already being distributed in commerce ("base clothes washers"). The tests should include a minimum of 50 wash cycles per clothes washer. The test clothes washers and base clothes washers should be identical in construction except for the controls or systems being tested. Equal numbers of both the test clothes washer and the base clothes washer should be tested simultaneously in comparable settings to minimize seasonal or end-user laundering conditions or variations. The clothes washers should be monitored in such a way as to accurately record the average total energy and water consumption per cycle, including water heating energy when electrically heated water is used, and the energy required to remove the remaining moisture of the test load. Standby and off mode energy consumption should be measured according to section 4.4 of this test procedure. The field test results should be used to determine the best method to correlate the rating of the test clothes washer to the rating of the base clothes washer.
-6.3 Adaptive water fill control system field test. (1) Section 3.2.6.3 of this appendix defines the test method for measuring energy consumption for clothes washers that incorporate both adaptive (automatic) and alternate manual water fill control systems. Energy consumption calculated by the method defined in section 3.2.6.3 of this appendix assumes the adaptive cycle will be used 50 percent of the time. This section can be used to develop field test data in support of a petition for waiver when it is believed that the adaptive cycle will be used more than 50 percent of the time. The field test sample size should be a minimum of 10 test clothes washers. The test clothes washers should be representative of the design, construction, and control system that will be placed in commerce. The duration of field testing in the user's house should be a minimum of 50 wash cycles, for each unit. No special instructions as to cycle selection or product usage should be given to the field test participants, other than inclusion of the product literature pack that would be shipped with all units, and instructions regarding filling out data collection forms, use of data collection equipment, or basic procedural methods. Prior to the test clothes washers being installed in the field test locations, baseline data should be developed for all field test units by conducting laboratory tests as defined by section 1 through section 5 of this appendix to determine the energy consumption, water consumption, and remaining moisture content values. The following data should be measured and recorded for each wash load during the test period: wash cycle selected, the mode of the clothes washer (adaptive or manual), clothes load dry weight (measured after the clothes washer and clothes dryer cycles are completed) in pounds, and type of articles in the clothes load (e.g., cottons, linens, permanent press). The wash cycles used in calculating the in-home percentage split between adaptive and manual cycle usage should be only those wash cycles that conform to the definition of the energy test cycle.
-Calculate:
-T = The total number of wash cycles run during the field test.
-T a = The total number of adaptive control wash cycles.
-T m = The total number of manual control wash cycles.
-The percentage weighting factors:
-P a = (T a /T) × 100% (the percentage weighting for adaptive control selection)
-P m = (T m /T) × 100% (the percentage weighting for manual control selection)
-(2) Energy consumption (HE T, ME T, and D E) and water consumption (Q T) values calculated in section 4 of this appendix for the manual and adaptive modes should be combined using P a and P m as the weighting factors.
