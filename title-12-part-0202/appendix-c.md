@@ -12,50 +12,50 @@ Description of Account, Transaction, or Requested Credit:
 Description of Action Taken:
 Part I—Principal Reason(s) for Credit Denial, Termination, or Other Action Taken Concerning Credit
 This section must be completed in all instances.
-__Credit application incomplete
-__Insufficient number of credit references provided
-__Unacceptable type of credit references provided
-__Unable to verify credit references
-__Temporary or irregular employment
-__Unable to verify employment
-__Length of employment
-__Income insufficient for amount of credit requested
-__Excessive obligations in relation to income
-__Unable to verify income
-__Length of residence
-__Temporary residence
-__Unable to verify residence
-__No credit file
-__Limited credit experience
-__Poor credit performance with us
-__Delinquent past or present credit obligations with others
-__Collection action or judgment
-__Garnishment or attachment
-__Foreclosure or repossession
-__Bankruptcy
-__Number of recent inquiries on credit bureau report
-__Value or type of collateral not sufficient
-__Other, specify:______
+____Credit application incomplete
+____Insufficient number of credit references provided
+____Unacceptable type of credit references provided
+____Unable to verify credit references
+____Temporary or irregular employment
+____Unable to verify employment
+____Length of employment
+____Income insufficient for amount of credit requested
+____Excessive obligations in relation to income
+____Unable to verify income
+____Length of residence
+____Temporary residence
+____Unable to verify residence
+____No credit file
+____Limited credit experience
+____Poor credit performance with us
+____Delinquent past or present credit obligations with others
+____Collection action or judgment
+____Garnishment or attachment
+____Foreclosure or repossession
+____Bankruptcy
+____Number of recent inquiries on credit bureau report
+____Value or type of collateral not sufficient
+____Other, specify:____________
 Part II—Disclosure of Use of Information Obtained From an Outside Source
 This section should be completed if the credit decision was based in whole or in part on information that has been obtained from an outside source.
-__Our credit decision was based in whole or in part on information obtained in a report from the consumer reporting agency listed below. You have a right under the Fair Credit Reporting Act to know the information contained in your credit file at the consumer reporting agency. The reporting agency played no part in our decision and is unable to supply specific reasons why we have denied credit to you. You also have a right to a free copy of your report from the reporting agency, if you request it no later than 60 days after you receive this notice. In addition, if you find that any information contained in the report you receive is inaccurate or incomplete, you have the right to dispute the matter with the reporting agency.
+____Our credit decision was based in whole or in part on information obtained in a report from the consumer reporting agency listed below. You have a right under the Fair Credit Reporting Act to know the information contained in your credit file at the consumer reporting agency. The reporting agency played no part in our decision and is unable to supply specific reasons why we have denied credit to you. You also have a right to a free copy of your report from the reporting agency, if you request it no later than 60 days after you receive this notice. In addition, if you find that any information contained in the report you receive is inaccurate or incomplete, you have the right to dispute the matter with the reporting agency.
 Name:
 Address:
 [Toll-free] Telephone number
 [We also obtained your credit score from this consumer reporting agency and used it in making our credit decision. Your credit score is a number that reflects the information in your consumer report. Your credit score can change, depending on how the information in your consumer report changes.
-Your credit score:______
-Date:______
-Scores range from a low of______to a high of______
+Your credit score:____________
+Date:____________
+Scores range from a low of____________to a high of____________
 Key factors that adversely affected your credit score:
-______
-______
-______
-______
+____________
+____________
+____________
+____________
 [Number of recent inquiries on consumer report, as a key factor]
 [If you have any questions regarding your credit score, you should contact [entity that provided the credit score] at:
 Address:
 [Toll-free] Telephone number:
-__Our credit decision was based in whole or in part on information obtained from an affiliate or from an outside source other than a consumer reporting agency. Under the Fair Credit Reporting Act, you have the right to make a written request, no later than 60 days after you receive this notice, for disclosure of the nature of this information.
+____Our credit decision was based in whole or in part on information obtained from an affiliate or from an outside source other than a consumer reporting agency. Under the Fair Credit Reporting Act, you have the right to make a written request, no later than 60 days after you receive this notice, for disclosure of the nature of this information.
 If you have any questions regarding this notice, you should contact:
 Creditor's name:
 Creditor's address:
@@ -65,34 +65,34 @@ Form C-2—Sample Notice of Action Taken and Statement of Reasons
 Date
 Dear Applicant: Thank you for your recent application. Your request for [a loan/a credit card/an increase in your credit limit] was carefully considered, and we regret that we are unable to approve your application at this time, for the following reason(s):
 Your Income:
-__is below our minimum requirement.
-__is insufficient to sustain payments on the amount of credit requested.
-__could not be verified.
+____is below our minimum requirement.
+____is insufficient to sustain payments on the amount of credit requested.
+____could not be verified.
 Your Employment:
-__is not of sufficient length to qualify.
-__could not be verified.
+____is not of sufficient length to qualify.
+____could not be verified.
 Your Credit History:
-__of making payments on time was not satisfactory.
-__could not be verified.
+____of making payments on time was not satisfactory.
+____could not be verified.
 Your Application:
-__lacks a sufficient number of credit references.
-__lacks acceptable types of credit references.
-__reveals that current obligations are excessive in relation to income.
+____lacks a sufficient number of credit references.
+____lacks acceptable types of credit references.
+____reveals that current obligations are excessive in relation to income.
 Other:
 The consumer reporting agency contacted that provided information that influenced our decision in whole or in part was [name, address and [toll-free] telephone number of the reporting agency]. The reporting agency played no part in our decision and is unable to supply specific reasons why we have denied credit to you. You have a right under the Fair Credit Reporting Act to know the information contained in your credit file at the consumer reporting agency. You also have a right to a free copy of your report from the reporting agency, if you request it no later than 60 days after you receive this notice. In addition, if you find that any information contained in the report you receive is inaccurate or incomplete, you have the right to dispute the matter with the reporting agency. Any questions regarding such information should be directed to [consumer reporting agency]. If you have any questions regarding this letter, you should contact us at [creditor's name, address and telephone number].
 [We also obtained your credit score from this consumer reporting agency and used it in making our credit decision. Your credit score is a number that reflects the information in your consumer report. Your credit score can change, depending on how the information in your consumer report changes.
 Your credit score:
 Date:
-Scores range from a low of______to a high of______
+Scores range from a low of____________to a high of____________
 Key factors that adversely affected your credit score:
 [Number of recent inquiries on consumer report, as a key factor]
 [If you have any questions regarding your credit score, you should contact [entity that provided the credit score] at:
-Address:
-[Toll-free] Telephone number:__________]]
+ddress:
+[Toll-free] Telephone number:____________________]]
 Notice: The federal Equal Credit Opportunity Act prohibits creditors from discriminating against credit applicants on the basis of race, color, religion, national origin, sex, marital status, age (provided the applicant has the capacity to enter into a binding contract); because all or part of the applicant's income derives from any public assistance program; or because the applicant has in good faith exercised any right under the Consumer Credit Protection Act. The federal agency that administers compliance with this law concerning this creditor is (name and address as specified by the appropriate agency listed in appendix A).
 Form C-3—Sample Notice of Action Taken and Statement of Reasons [(Credit Scoring)]
 Date
-Dear Applicant: Thank you for your recent application for ____. We regret that we are unable to approve your request.
+Dear Applicant: Thank you for your recent application for ________. We regret that we are unable to approve your request.
 [Reasons for Denial of Credit]
 Your application was processed by a [credit scoring] system that assigns a numerical value to the various items of information we consider in evaluating an application. These numerical values are based upon the results of analyses of repayment histories of large numbers of customers.
 The information you provided in your application did not score a sufficient number of points for approval of the application. The reasons you did not score well compared with other applicants were
@@ -106,12 +106,12 @@ In evaluating your application the consumer reporting agency listed below provid
 We also obtained your credit score from this consumer reporting agency and used it in making our credit decision. Your credit score is a number that reflects the information in your consumer report. Your credit score can change, depending on how the information in your consumer report changes.
 Your credit score:
 Date:
-Scores range from a low of ____to a high of____
+Scores range from a low of ________to a high of________
 Key factors that adversely affected your credit score:
 [Number of recent inquiries on consumer report, as a key factor]
 [If you have any questions regarding your credit score, you should contact [entity that provided the credit score] at:
 Address:
-[Toll-free] Telephone number:__________]]
+[Toll-free] Telephone number:____________________]]
 If you have any questions regarding this letter, you should contact us at
 Creditor's Name:
 Address:
@@ -120,24 +120,24 @@ Sincerely,
 Notice: The federal Equal Credit Opportunity Act prohibits creditors from discriminating against credit applicants on the basis of race, color, religion, national origin, sex, marital status, age (with certain limited exceptions); because all or part of the applicant's income derives from any public assistance program; or because the applicant has in good faith exercised any right under the Consumer Credit Protection Act. The federal agency that administers compliance with this law concerning this creditor is (name and address as specified by the appropriate agency listed in appendix A).
 Form C-4—Sample Notice of Action Taken, Statement of Reasons and Counteroffer
 Date
-Dear Applicant: Thank you for your application for ____. We are unable to offer you credit on the terms that you requested for the following reason(s):
+Dear Applicant: Thank you for your application for ________. We are unable to offer you credit on the terms that you requested for the following reason(s):
 We can, however, offer you credit on the following terms:
-If this offer is acceptable to you, please notify us within [amount of time] at the following address: ____.
+If this offer is acceptable to you, please notify us within [amount of time] at the following address: ________.
 Our credit decision on your application was based in whole or in part on information obtained in a report from [name, address and [toll-free] telephone number of the consumer reporting agency]. You have a right under the Fair Credit Reporting Act to know the information contained in your credit file at the consumer reporting agency. The reporting agency played no part in our decision and is unable to supply specific reasons why we have denied credit to you. You also have a right to a free copy of your report from the reporting agency, if you request it no later than 60 days after you receive this notice. In addition, if you find that any information contained in the report you receive is inaccurate or incomplete, you have the right to dispute the matter with the reporting agency.
 [We also obtained your credit score from this consumer reporting agency and used it in making our credit decision. Your credit score is a number that reflects the information in your consumer report. Your credit score can change, depending on how the information in your consumer report changes.
 Your credit score:
 Date
-Scores range from a low of ______ to a high of ______
+Scores range from a low of ____________ to a high of ____________
 Key factors that adversely affected your credit score:
 [Number of recent inquiries on consumer report, as a key factor]
 [If you have any questions regarding your credit score, you should contact [entity that provided the credit score] at:
 Address:
 [Toll-free] Telephone
-number:__________]]
+number:____________________]]
 You should know that the federal Equal Credit Opportunity Act prohibits creditors, such as ourselves, from discriminating against credit applicants on the basis of their race, color, religion, national origin, sex, marital status, age (provided the applicant has the capacity to enter into a binding contract), because they receive income from a public assistance program, or because they may have exercised their rights under the Consumer Credit Protection Act. If you believe there has been discrimination in handling your application you should contact the [name and address of the appropriate federal enforcement agency listed in appendix A].
 Sincerely,
 Form C-5—Sample Disclosure of Right to Request Specific Reasons for Credit Denial Date
-Dear Applicant: Thank you for applying to us for ____.
+Dear Applicant: Thank you for applying to us for ________.
 After carefully reviewing your application, we are sorry to advise you that we cannot [open an account for you/grant a loan to you/increase your credit limit] at this time. If you would like a statement of specific reasons why your application was denied, please contact [our credit service manager] shown below within 60 days of the date of this letter. We will provide you with the statement of reasons within 30 days after receiving your request.
 Creditor's Name
 Address
@@ -149,12 +149,12 @@ Address
 [We also obtained your credit score from this consumer reporting agency and used it in making our credit decision. Your credit score is a number that reflects the information in your consumer report. Your credit score can change, depending on how the information in your consumer report changes.
 Your credit score:
 Date:
-Scores range from a low of ______ to a high of ______
+Scores range from a low of ____________ to a high of ____________
 Key factors that adversely affected your credit score:
 [Number of recent inquiries on consumer report, as a key factor]
 [If you have any questions regarding your credit score, you should contact [entity that provided the credit score] at:
 Address:
-[Toll-free] Telephone number:__________]]
+[Toll-free] Telephone number:____________________]]
 Sincerely,
 Notice: The federal Equal Credit Opportunity Act prohibits creditors from discriminating against credit applicants on the basis of race, color, religion, national origin, sex, marital status, age (provided the applicant has the capacity to enter into a binding contract); because all or part of the applicant's income derives from any public assistance program; or because the applicant has in good faith exercised any right under the Consumer Credit Protection Act. The federal agency that administers compliance with this law concerning this creditor is (name and address as specified by the appropriate agency listed in appendix A).
 Form C-6—Sample Notice of Incomplete Application and Request for Additional Information
@@ -162,8 +162,8 @@ Creditor's name
 Address
 Telephone number
 Date
-Dear Applicant: Thank you for your application for credit. The following information is needed to make a decision on your application: _____
-We need to receive this information by _____(date). If we do not receive it by that date, we will regrettably be unable to give further consideration to your credit request.
+Dear Applicant: Thank you for your application for credit. The following information is needed to make a decision on your application: __________
+We need to receive this information by __________(date). If we do not receive it by that date, we will regrettably be unable to give further consideration to your credit request.
 Sincerely,
 Form C-7—Sample Notice of Action Taken and Statement of Reasons (Business Credit)
 Creditor's Name
