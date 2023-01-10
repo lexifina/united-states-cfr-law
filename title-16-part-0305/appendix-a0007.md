@@ -1,20 +1,4 @@
-# Appendix A7 to Part 305—Refrigerator-Freezers With Automatic Defrost With Bottom-Mounted Freezer With Through-the-Door Ice Service
-Range Information
-Manufacturer's rated total refrigerated volume in cubic feet | Range of estimated annual operating costs (dollars/year) | Low | High
-Less than 10.5 | (*) | (*)
-10.5 to 12.4 | (*) | (*)
-12.5 to 14.4 | (*) | (*)
-14.5 to 16.4 | (*) | (*)
-16.5 to 18.4 | (*) | (*)
-18.5 to 20.4 | $77 | $83
-20.5 to 22.4 | 79 | 87
-22.5 to 24.4 | 80 | 91
-24.5 to 26.4 | 76 | 93
-26.5 to 28.4 | 74 | 95
-28.5 and over | 78 | 103
-(*) No data.
-At 87 FR 61468, Oct. 12, 2022, appendix A7 to Part 305 was revised, effective Jan. 10, 2023. For the convenience of the user, the revised text is set forth as follows:
-Appendix A7 to Part 305—Refrigerator-Freezers With Automatic Defrost With Bottom-Mounted Freezer With Through-The-Door Ice Service
+# Appendix A7 to Part 305—Refrigerator-Freezers With Automatic Defrost With Bottom-Mounted Freezer With Through-The-Door Ice Service
 Range Information
 Manufacturer's rated total refrigerated volume in cubic feet | Range of estimated annual energy costs (dollars/year) | Low | High
 Less than 10.5 | (*) | (*)
