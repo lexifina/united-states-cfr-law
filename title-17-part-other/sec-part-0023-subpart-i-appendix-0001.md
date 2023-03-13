@@ -1,17 +1,17 @@
-# Part 23, Subpart I, Appendix 1—Exhibits A-D
+# Part 23, Subpart I, Appendix 1—Exhibits A–D
 Exhibit A—Minimum Primary Economic Terms Data—Credit Swaps and Equity Swaps
 Data categories and fields for all swaps | Comment
 Asset Class | Field values: Credit, equity, FX, interest rates, other commodities.
-The Unique Swap Identifier for the swap | The USI is a unique identifier assigned to all swap transactions which identifies the transaction (the swap and its counterparties) uniquely throughout its duration.
-The Legal Entity Identifier of the reporting counterparty | As provided in § 45.6, or substitute identifier for a natural person.
+The Unique Transaction Identifier for the swap | The UTI is a unique identifier assigned to all swap transactions which identifies the transaction (the swap and its counterparties) uniquely throughout its duration.
+The Legal Entity Identifier or alternate identifier of the reporting counterparty | As provided in § 45.6 of this chapter.
 An indication of whether the reporting counterparty is a derivatives clearing organization with respect to the swap | Yes/No.
-The Legal Entity Identifier of the non-reporting party | As provided in § 45.6, or substitute identifier for a natural person.
+The Legal Entity Identifier or alternate identifier of the non-reporting party | As provided in § 45.6 of this chapter.
 The Unique Product Identifier assigned to the swap | As provided in § 45.7.
 If no Unique Product Identifier is available for the swap because the swap is not sufficiently standardized, the taxonomic description of the swap pursuant to the CFTC-approved product classification system
 If no CFTC-approved UPI and product classification system is yet available, the internal product identifier or product description used by the swap data repository
-An indication of the counterparty purchasing protection | Field values: LEI, or substitute identifier for a natural person.
-An indication of the counterparty selling protection | Field values: LEI, or substitute identifier for a natural person.
-Information identifying the reference entity | The entity that is the subject of the protection being purchased and sold in the swap. Field values: LEI, or substitute identifier for a natural person.
+An indication of the counterparty purchasing protection | Field values: LEI, or alternate identifier.
+An indication of the counterparty selling protection | Field values: LEI, or alternate identifier.
+Information identifying the reference entity | The entity that is the subject of the protection being purchased and sold in the swap. Field values: LEI, or alternate identifier.
 Contract type | E.g., swap, swaption, forward, option, basis swap, index swap, basket swap.
 Execution venue | The swap execution facility or designated contract market on or pursuant to the rules of which the swap was executed. Field values: LEI of the swap execution facility or designated contract market, or "off-facility" if not so executed.
 Start date | The date on which the swap starts or goes into effect.
@@ -28,10 +28,10 @@ Exhibit B—Minimum Primary Economic Terms Data—Foreign Exchange Transactions
 [Other than cross-currency swaps]
 Data fields for all swaps | Comment
 Asset Class | Field values: Credit, equity, FX, interest rates, other commodities.
-The Unique Swap Identifier for the swap | The USI is a unique identifier assigned to all swap transactions which identifies the transaction (the swap and its counterparties) uniquely throughout its duration.
-The Legal Entity Identifier of the reporting counterparty | As provided in § 45.6, or substitute identifier for a natural person.
+The Unique Transaction Identifier for the swap | The UTI is a unique identifier assigned to all swap transactions which identifies the transaction (the swap and its counterparties) uniquely throughout its duration.
+The Legal Entity Identifier or alternate identifier of the reporting counterparty | As provided in § 45.6 of this chapter.
 An indication of whether the reporting counterparty is a derivatives clearing organization with respect to the swap | Yes/No.
-The Legal Entity Identifier of the non-reporting party | As provided in § 45.6, or substitute identifier for a natural person.
+The Legal Entity Identifier or alternate identifier of the non-reporting party | As provided in § 45.6 of this chapter.
 The Unique Product Identifier assigned to the swap | As provided in § 45.7.
 If no Unique Product Identifier is available for the swap because the swap is not sufficiently standardized, the taxonomic description of the swap pursuant to the CFTC-approved product classification system
 If no CFTC-approved UPI and product classification system is yet available, the internal product identifier or product description used by the swap data repository
@@ -51,10 +51,10 @@ Exhibit C—Minimum Primary Economic Terms Data—Interest Rate Swaps
 [Including cross-currency swaps]
 Data fields for all swaps | Comment
 Asset Class | Field values: Credit, equity, FX, interest rates, other commodities.
-The Unique Swap Identifier for the swap | The USI is a unique identifier assigned to all swap transactions which identifies the transaction (the swap and its counterparties) uniquely throughout its duration.
-The Legal Entity Identifier of the reporting counterparty | As provided in § 45.6, or substitute identifier for a natural person.
+The Unique Transaction Identifier for the swap | The UTI is a unique identifier assigned to all swap transactions which identifies the transaction (the swap and its counterparties) uniquely throughout its duration.
+The Legal Entity Identifier or alternate identifier of the reporting counterparty | As provided in § 45.6 of this chapter.
 An indication of whether the reporting counterparty is a derivatives clearing organization with respect to the swap | Yes/No.
-The Legal Entity Identifier of the non-reporting counterparty | As provided in § 45.6, or substitute identifier for a natural person.
+The Legal Entity Identifier or alternate identifier of the non-reporting counterparty | As provided in § 45.6 of this chapter.
 The Unique Product Identifier assigned to the swap | As provided in § 45.7.
 If no Unique Product Identifier is available for the swap because the swap is not sufficiently standardized, the taxonomic description of the swap pursuant to the CFTC-approved product classification system
 If no CFTC-approved UPI and product classification system is yet available, the internal product identifier or product description used by the swap data repository
@@ -76,17 +76,17 @@ Fixed rate
 Fixed rate day count fraction | E.g., actual 360.
 Floating rate payment frequency
 Floating rate reset frequency
-Floating rate index name/rate period | E.g., USD-Libor-BBA.
+Floating rate index name/rate period | E.g., Fed Funds.
 Clearing exception or exemption type | The type of clearing exception or exemption being claimed. Field values: End user, Inter-affiliate or Cooperative.
 Indication of collateralization | Is the swap collateralized, and if so to what extent? Field values: Uncollateralized, partially collateralized, one-way collateralized, fully collateralized.
 Any other term(s) of the swap matched or affirmed by the counterparties in verifying the swap | E.g., early termination option clause. Use as many fields as required to report each such term.
 Exhibit D—Minimum Primary Economic Terms Data—Other Commodity Swaps
 Data field for all swaps | Comment
 Asset Class | Field values: Credit, equity, FX, interest rates, other commodities.
-The Unique Swap Identifier for the swap | The USI is a unique identifier assigned to all swap transactions which identifies the transaction (the swap and its counterparties) uniquely throughout its duration.
-The Legal Entity Identifier of the reporting counterparty | As provided in § 45.6, or substitute identifier for a natural person.
+The Unique Transaction Identifier for the swap | The UTI is a unique identifier assigned to all swap transactions which identifies the transaction (the swap and its counterparties) uniquely throughout its duration.
+The Legal Entity Identifier or alternate identifier of the reporting counterparty | As provided in § 45.6 of this chapter.
 An indication of whether the reporting counterparty is a derivatives clearing organization with respect to the swap | Yes/No.
-The Legal Entity Identifier of the non-reporting party | As provided in § 45.6, or substitute identifier for a natural person.
+The Legal Entity Identifier or alternate identifier of the non-reporting party | As provided in § 45.6 of this chapter.
 The Unique Product Identifier assigned to the swap | As provided in § 45.7.
 If no Unique Product Identifier is available for the swap because the swap is not sufficiently standardized, the taxonomic description of the swap pursuant to the CFTC-approved product classification system
 If no CFTC-approved UPI and product classification system is yet available, the internal product identifier or product description used by the swap data repository
@@ -94,8 +94,8 @@ Contract type | E.g., swap, swaption, option, basis swap, index swap.
 Execution venue | The swap execution facility or designated contract market on or pursuant to the rules of which the swap was executed. Field values: LEI of the swap execution facility or designated contract market, or "off-facility" if not so executed.
 Start date | The date on which the swap commences or goes into effect (e.g., in physical oil, the pricing start date).
 Maturity, termination, or end date | The date on which the swap expires or ends (e.g., in physical oil, the pricing end date).
-Buyer | The counterparty purchasing the product: (E.g., the payer of the fixed price (for a swap), or the payer of the floating price on the underlying swap (for a put swaption), or the payer of the fixed price on the underlying swap (for a call swaption). Field values: LEI, if available, or substitute identifier, for a natural person.
-Seller | The counterparty offering the product: (E.g., the payer of the floating price (for a swap), the payer of the fixed price on the underlying swap (for a put swaption), or the payer of the floating price on the underlying swap (for a call swaption). Field values: LEI, or substitute identifier, for a natural person.
+Buyer | The counterparty purchasing the product: (E.g., the payer of the fixed price (for a swap), or the payer of the floating price on the underlying swap (for a put swaption), or the payer of the fixed price on the underlying swap (for a call swaption). Field values: LEI, if available, or alternate identifier.
+Seller | The counterparty offering the product: (E.g., the payer of the floating price (for a swap), the payer of the fixed price on the underlying swap (for a put swaption), or the payer of the floating price on the underlying swap (for a call swaption). Field values: LEI, or alternate identifier.
 Quantity unit | The unit of measure applicable for the quantity on the swap. E.g., barrels, bushels, gallons, pounds, tons.
 Quantity | The amount of the commodity (the number of quantity units) quoted on the swap.
 Quantity frequency | The rate at which the quantity is quoted on the swap. E.g., hourly, daily, weekly, monthly.
