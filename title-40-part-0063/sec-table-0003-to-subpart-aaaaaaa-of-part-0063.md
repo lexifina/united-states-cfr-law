@@ -5,6 +5,6 @@ For * * * | You must use * * *
 3. Determining the gas molecular weight used for flow rate determination | EPA test method 3, 3A, 3B, as appropriate, in appendix A to part 60.
 4. Measuring the moisture content of the stack gas | EPA test method 4 in appendix A to part 60.
 5. Measuring the PM emissions | EPA test method 5A in appendix A to part 60.
-6. Measuring the PAH emissions | EPA test method 23 b with analysis by SW-846 Method 8270D.
+6. Measuring the PAH emissions | EPA test method 23.
 a The sampling locations must be located at the outlet of the process equipment (or control device, if applicable), prior to any releases to the atmosphere.
 b When using EPA Method 23, the toluene extraction step specified in section 3.1.2.1 of the method should be omitted.
