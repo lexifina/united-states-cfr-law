@@ -1,14 +1,15 @@
 # Appendix I to Part 1042—Summary of Previous Emission Standards
 The following standards apply to compression-ignition marine engines produced before the model years specified in § 1042.1:
 (a) Engines below 37 kW. Tier 1 and Tier 2 standards for engines below 37 kW originally adopted under 40 CFR part 89 apply as follows:
-Table 1 to Appendix I—Emission Standards for Engines Below 37 kW (g/kW-hr)
+Table 1 to Appendix I—Emission Standards for Engines Below 37 kW
+[g/kW-hr]
 Rated power (kW) | Tier | Model year | NMHC + NO X | CO | PM
 kW<8 | Tier 1 | 2000 | 10.5 | 8.0 | 1.0
 | Tier 2 | 2005 | 7.5 | 8.0 | 0.80
-8≤kW<19 | Tier 1 | 2000 | 9.5 | 6.6 | 0.80
+8≤k W<19 | Tier 1 | 2000 | 9.5 | 6.6 | 0.80
 | Tier 2 | 2005 | 7.5 | 6.6 | 0.80
-19≤kW<37 | Tier 1 | 1999 | 9.5 | 5.5 | 0.8
-| Tier 2 | 2004 | 7.5 | 5.5 | 0.6
+19≤ kW<37 | Tier 1 | 1999 | 9.5 | 5.5 | 0.80
+| Tier 2 | 2004 | 7.5 | 5.5 | 0.60
 (b) Engines at or above 37 kW. Tier 1 and Tier 2 standards for engines at or above 37 kW originally adopted under 40 CFR part 94 apply as follows:
 (1) Tier 1 standards. NO X emissions from model year 2004 and later engines with displacement of 2.5 or more liters per cylinder may not exceed the following values:
 (i) 17.0 g/kW-hr when maximum test speed is less than 130 rpm.
