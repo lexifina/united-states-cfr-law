@@ -1,4 +1,4 @@
-# Appendix to Part 60-20—Best Practices
+# Appendix to Part 60–20—Best Practices
 Best practices. Although not required by this part, following are best practices for contractors:
 (1) Avoiding the use of gender-specific job titles such as "foreman" or "lineman" where gender-neutral alternatives are available;
 (2) Designating single-user restrooms, changing rooms, showers, or similar single-user facilities as sex-neutral;
