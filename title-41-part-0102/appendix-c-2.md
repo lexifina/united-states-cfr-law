@@ -1,4 +1,4 @@
-# Appendix C to Part 102-37—Glossary of Terms for Determining Eligibility of Public Agencies and Nonprofit Organizations
+# Appendix C to Part 102–37—Glossary of Terms for Determining Eligibility of Public Agencies and Nonprofit Organizations
 The following is a glossary of terms for determining eligibility of public agencies and nonprofit organizations:
 Accreditation means the status of public recognition that an accrediting agency grants to an institution or program that meets the agency's standards and requirements.
 Accredited means approval by a recognized accrediting board or association on a regional, State, or national level, such as a State board of education or health; the American Hospital Association; a regional or national accrediting association for universities, colleges, or secondary schools; or another recognized accrediting association.
@@ -13,7 +13,7 @@ Education means a program(s) to develop and promote the training, general knowle
 Educational institution means an approved, accredited, or licensed public or nonprofit institution, facility, entity, or organization conducting educational programs or research for educational purposes, such as a child care center, school, college, university, school for the mentally or physically disabled, or an educational radio or television station.
 Educational radio or television station means a public or nonprofit radio or television station licensed by the Federal Communications Commission and operated exclusively for noncommercial educational purposes.
 Health center means an approved public or nonprofit facility that provides public health services, including related facilities such as diagnostic and laboratory facilities and clinics.
-Historic light station means a historic light station as defined under section 308(e)(2) of the National Historic Preservation Act 16 U.S.C. 470w-7(e)2), including a historic light station conveyed under subsection (b) of that section, notwithstanding the number of hours that the historic light station is open to the public.
+Historic light station means a historic light station as defined under section 308(e)(2) of the National Historic Preservation Act 16 U.S.C. 470w–7(e)2), including a historic light station conveyed under subsection (b) of that section, notwithstanding the number of hours that the historic light station is open to the public.
 Homeless individual means:
 (1) An individual who lacks a fixed, regular, and adequate nighttime residence, or who has a primary nighttime residence that is:
 (i) A supervised publicly or privately operated shelter designed to provide temporary living accommodations (including welfare hotels, congregate shelters, and transitional housing for the mentally ill);
