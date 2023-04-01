@@ -138,9 +138,9 @@ NEED1OldDS = the amount a tribe actually received in the FY prior to the introdu
 GAINSHR = a tribe's share of the total gains realized by all tribes that benefitted from the introduction of the new data source.
 TOTGAINYR1 = the sum of the amounts that tribes gain from the introduction of the new data source in year one.
 CONTRIB n = the size of the contribution that non-qualifying tribes give in each year n, where the n represents the number of years elapsed since the introduction of the new data source and equal to one in the first year.
-TOTPDADJ n = the total amount in each year n required to cover the cost of phase down adjustments in that year, i.e. ∑ PDADJ n.
+TOTPDADJ n = the total amount in each year n required to cover the cost of phase down adjustments in that year, i.e. S PDADJ n.
 The initial needs allocation for each tribe is adjusted based on the phase down adjustments and contribution amounts in the phase down schedule.
-NEED1PD = NEED1 +_PDADJ n − CONTRIB n.
+NEED1PD = NEED1 +__PDADJ n − CONTRIB n.
 Where:
 NEED1PD = a tribe's allocation under the need component after applying the phase down adjustment schedule.
 NEED1= the initial calculation of need in the current FY from step 6 above.
@@ -194,7 +194,7 @@ REPGRANTYR3 = Initial Allocation Amount in three years prior to current FY.
 OPMOD96 = funding received by tribe in FY 1996 for Operating Subsidy and Modernization.
 So the UDFFadj = REPGRANTaftUDFF − GRANT2 and UDFFadjTOT= Absolute value of the sum of UDFF adjustments for tribes subject to reduction.
 If UDFFtest is not equal to 1, tribes receive a portion of the funds recovered under the UDFF provision based on their share of total needs excluding any tribes with UDFFtest = 1. For these tribes, then:
-UDFFadj = (NEED1PD/∑ Need1PD) * UDFFadjTOT).
+UDFFadj = (NEED1PD/ S Need1PD) * UDFFadjTOT).
 REPGRANTaftUDFF = REPGRANT + UDFFadj.
 Where:
 UDFFadj = amount of the Undisbursed Fund Factor adjustments. Negative amount represents excess undisbursed funds. Positive represents amounts being transferred to other tribes without excess undisbursed funds.
@@ -211,7 +211,7 @@ MINGRTADJTEST = MINGRANT—(GRANT2 + UDFFADJ).
 If the Sum for all tribes of MINGRTADJTEST < MGHOLD, then:
 MINGRANTADJ = MINGRTADJTEST.
 If the Sum for all tribes of MINGRANTADJTEST > MGHOLD, then:
-MINGRANTADJ = MINGRANTADJTEST * (MGHOLD/∑ MINGRANTADJ)
+MINGRANTADJ = MINGRANTADJTEST * (MGHOLD/ S MINGRANTADJ)
 Where:
 GRANT2 is the approximate grant allocation in any given year for any given tribe.
 UDFFADJ = amount of UDFF adjustment.
