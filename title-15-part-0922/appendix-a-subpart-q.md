@@ -16,79 +16,101 @@ A. As defined by the specific lateral boundaries in B, and except for excluded a
 ER29NO99.000
 B. Lateral Closure Bounds for the Hawaiian Islands Humpback Whale National Marine Sanctuary Boundary (see Figure 2).
 ER29NO99.001
-Bound No.(Fig. 2) | Geographic name | No. ofpoints | Latitude | Longitude
-1 | Kailiu Pt., Kauai | 2 | 22°13′24.7″22°16′33.5″ | −159°34′52.2″−159°35′59.4″
-2 | Mokolea Pt., Kauai | 2 | 22°13′29.9″22°14′55.4″ | −159°22′55.8″-159°22′19.3″
-3 | Puaena Pt., N. Oahu | 2 | 21°38′24.6″21°36′8.4″ | −158°8′26.0″−158°6′24.5″
-4 | Mahie Pt., N. Oahu | 2 | 21°33′37.3″21°35′32.2″ | −157°51′51.9″−157°50′5.5″
-5 | Kapahulu Groin, S. Oahu | 3 | 21°15′5.7″21°16′6.1″ 21°16′6.2″ | −157°50′27.5″−157°49′25.7″ −157°49′23.8″
-6 | Makapuu Pt., S. Oahu | 2 | 21°18′39.6″21°19′44.7″ | −157°38′56.7″−157°35′46.1″
-7 | Ilio Pt, Molokai | 2 | 21°13′25.7″21°13′27.0″ | −157°18′45.8″−157°15′14.4″
-8 | Pailolo Channel, C. Halawa to Lipoa Pt. | 2 | 21°1′29.8″21°9′29.5″ | −156°38′22.0″−156°42′37.2″
-9 | Hanamanoia Lighthouse, Maui | 2 | 20°34′21.8″20°34′58.4″ | −156°26′51.1″−156°24′45.2″
-10 | 3 Nmi. closure around Kahoolawe | 51 | 20°35′58.1″20°35′59.9″ | −156°29′32.0″−156°29′33.0″
-| | | 20°36′3.9″ | −156°29′35.5″
-| | | 20°36′6.6″ | −156°29′36.9″
-| | | 20°36′16.3″ | −156°29′43.1″
-| | | 20°36′25.7″ | −156°29′49.9″
-| | | 20°36′34.6″ | −156°29′57.3″
-| | | 20°36′39.9″ | −156°30′2.2″
-| | | 20°36′43.8″ | −156°30′5.5″
-| | | 20°36′50.8″ | −156°30′12.1″
-| | | 20°36′59.0″ | −156°30′16.5″
-| | | 20°37′58.7″ | −156°30′22.7″
-| | | 20°37′18.1″ | −156°30′29.5″
-| | | 20°37′27.0″ | −156°30′36.8″
-| | | 20°37′35.5″ | −156°30′44.8″
-| | | 20°37′43.4″ | −156°30′53.4″
-| | | 20°37′50.9″ | −156°31′2.4″
-| | | 20°37′56.4″ | −156°31′10.0″
-| | | 20°37′59.0″ | −156°31′13.2″
-| | | 20°38′6.0″ | −156°31′22.7″
-| | | 20°38′8.6″ | −156°31′26.8″
-| | | 20°38′10.8″ | −156°31′29.9″
-| | | 20°38′17.2″ | −156°31′39.9″
-| | | 20°38′18.9″ | −156°31′43.0″
-| | | 20°38′23.4″ | −156°31′48.4″
-| | | 20°38′30.3″ | −156°31′58.0″
-| | | 20°38′36.6″ | −156°32′7.9″
-| | | 20°38′42.4″ | −156°32′18.3″
-| | | 20°38′43.4″ | −156°32′20.5″
-| | | 20°38′46.4″ | −156°32′25.9″
-| | | 20°38′51.5″ | −156°32′36.7″
-| | | 20°38′56.0″ | −156°32′47.7″
-| | | 20°38′59.8″ | −156°32′59.1″
-| | | 20°39′3.0″ | −156°33′10.7″
-| | | 20°39′4.0″ | −156°33′15.7″
-| | | 20°39′4.4″ | −156°33′17.0″
-| | | 20°39′5.3″ | −156°33′21.1″
-| | | 20°39′6.8″ | −156°33′28.7″
-| | | 20°39′8.6″ | −156°33′40.7″
-| | | 20°39′8.9″ | −156°33′44.4″
-| | | 20°39′9.7″ | −156°33′49.6″
-| | | 20°39′10.1″ | −156°33′53.8″
-| | | 20°39′11.0″ | −156°34′0.3″
-| | | 20°39′12.1″ | −156°34′12.4″
-| | | 20°39′12.5″ | −156°34′24.4″
-| | | 20°39′12.4″ | −156°34′25.4″
-| | | 20°39′12.6″ | −156°34′30.5″
-| | | 20°39′12.2″ | −156°34′42.6″
-| | | 20°39′11.8″ | −156°34′47.7″
-| | | 20°39′11.7″ | −156°34′48.9″
-| | | 20°39′11.3″ | −156°34′55.8″
-11 | Technical Cosure | 2 | 20°41′39.2″20°41′45.0″ | −156°37′7.5″−156°38′3.6″
-| North of Kahoolawe
-12 | Upolu Pt., Hawaii (Big Island) | 2 | 20°16′5.3″20°17′59.9″ | −155°51′0.5″−155°51′17.2″
-13 | Keahole Pt., Hawaii (Big Island) | 2 | 19°43′39.6″19°43′41.5″ | −156′3′42.7″−156°4′14.5″
-C. Excluded Ports and Harbors Bounds (see Figure 3).
-ER29NO99.002
-Bound No. (Fig.2) | Geographic Name | No. of Points | Latitude | Longitude
-14 | Kawaihae Harbor, Big Island exclusion | 2 | 20°2′14.3″20°2′25.3″ | −155°50′2.5″−155°49′57.7″
-15 | Haleolono Harbor, Molokai exclusion | 2 | 21°5′3.5″21°5′4.8″ | −157°14′58.6″−157°14′55.2″
-16 | Kaunakakai Harbor, Molokai exclusion | 4 | 21°5′13.9″21°4′49.2″ 21°4′38.5″ 21°5′7.4″ | −157°1′35.7″−157°1′58.3″ −157°1′41.2″ −157°1′15.0″
-17 | Kaumalapau Harbor, Lanai exclusion | 2 | 20°47′9.2″20°47′1.1″ | −156°59′32.2″−156°59′31.3″
-18 | Manele Harbor, Lanai exclusion | 2 | 20°44′33.2″20°44′35.2″ | −156°53′12.9″−156°53′14.1″
-19 | Lahaina Harbor, Maui exclusion | 2 | 20°52′18.3″20°52′18.8″ | −156°40′45.0″−156°40′44.0″
-20 | Maalaea Harbor, Maui exclusion | 2 | 20°47′32.1″20°47′24.8″ | −156°30′35.0″−156°30′39.6″
-21 | Western closure Kuapa Pond (Hawaii Kai), Oahu | 2 | 21°17′7.0″21°17′6.5″ | −157°43′7.7″−157°43′7.0″
-22 | Eastern closure Kuapa Pond (Hawaii Kai), Oahu | 2 | 21°16′53.3″21°16′51.9″ | −157°42′42.7″−157°42′40.3″
+Bound No. (fig. 2) | Geographic name | Number of points | Latitude | Longitude
+1a | Kailiu Pt., Kauai | 2 | 22.22353 | −159.58117
+1b | Kailiu Pt., Kauai | | 22.27597 | −159.59983
+2a | Mokolea Pt., Kauai | 2 | 22.22497 | −159.38217
+2b | Mokolea Pt., Kauai | | 22.24872 | −159.37203
+3a | Puaena Pt., N Oahu | 2 | 21.64017 | −158.14056
+3b | Puaena Pt., N Oahu | | 21.60233 | −158.10681
+4a | Mahie Pt., N Oahu | 2 | 21.56036 | −157.86442
+4b | Mahie Pt., N Oahu | | 21.59228 | −157.83486
+5a | Kapahulu Groin, S Oahu | 3 | 21.25158 | −157.84097
+5b | Kapahulu Groin, S Oahu | | 21.26836 | −157.82381
+5c | Kapahulu Groin, S Oahu | | 21.26839 | −157.82328
+6a | Makapuu Pt., S Oahu | 2 | 21.31100 | −157.64908
+6b | Makapuu Pt., S Oahu | | 21.32908 | −157.59614
+7a | Ilio Pt., Molokai | 2 | 21.22381 | −157.31272
+7b | Ilio Pt., Molokai | | 21.22417 | −157.25400
+8a | Pailolo Channel, C. Halawa to Lipoa Pt | 2 | 21.02494 | −156.63944
+8b | Pailolo Channel, C. Halaw to Lipoa Pt | | 21.15819 | −156.71033
+9a | Hanamanoia Lighthouse, Maui | 2 | 20.57272 | −156.44753
+9b | Hanamanoia Lighthouse, Maui | | 20.58289 | −156.41256
+10a | 3 Nmi. closure around Kahoolawe | 51 | 20.59947 | −156.49222
+10b | 3 Nmi. closure around Kahoolawe | | 20.59997 | −156.49250
+10c | 3 Nmi. closure around Kahoolawe | | 20.60108 | −156.49319
+10d | 3 Nmi. closure around Kahoolawe | | 20.60183 | −156.49358
+10e | 3 Nmi. closure around Kahoolawe | | 20.60453 | −156.49531
+10f | 3 Nmi. closure around Kahoolawe | | 20.60714 | −156.49719
+10g | 3 Nmi. closure around Kahoolawe | | 20.60961 | −156.49925
+10h | 3 Nmi. closure around Kahoolawe | | 20.61108 | −156.50061
+10i | 3 Nmi. closure around Kahoolawe | | 20.61217 | −156.50153
+10j | 3 Nmi. closure around Kahoolawe | | 20.61411 | −156.50336
+10k | 3 Nmi. closure around Kahoolawe | | 20.61639 | −156.50458
+10l | 3 Nmi. closure around Kahoolawe | | 20.63297 | −156.50631
+10m | 3 Nmi. closure around Kahoolawe | | 20.62169 | −156.50819
+10n | 3 Nmi. closure around Kahoolawe | | 20.62417 | −156.51022
+10o | 3 Nmi. closure around Kahoolawe | | 20.62653 | −156.51244
+10p | 3 Nmi. closure around Kahoolawe | | 20.62872 | −156.51483
+10q | 3 Nmi. closure around Kahoolawe | | 20.63081 | −156.51733
+10r | 3 Nmi. closure around Kahoolawe | | 20.63233 | −156.51944
+10s | 3 Nmi. closure around Kahoolawe | | 20.63306 | −156.52033
+10t | 3 Nmi. closure around Kahoolawe | | 20.63500 | −156.52297
+10u | 3 Nmi. closure around Kahoolawe | | 20.63572 | −156.52411
+10v | 3 Nmi. closure around Kahoolawe | | 20.63633 | −156.52497
+10w | 3 Nmi. closure around Kahoolawe | | 20.63811 | −156.52775
+10x | 3 Nmi. closure around Kahoolawe | | 20.63858 | −156.52861
+10y | 3 Nmi. closure around Kahoolawe | | 20.63983 | −156.53011
+10z | 3 Nmi. closure around Kahoolawe | | 20.64175 | −156.53278
+10aa | 3 Nmi. closure around Kahoolawe | | 20.64350 | −156.53553
+10bb | 3 Nmi. closure around Kahoolawe | | 20.64511 | −156.53842
+10cc | 3 Nmi. closure around Kahoolawe | | 20.64539 | −156.53903
+10dd | 3 Nmi. closure around Kahoolawe | | 20.64622 | −156.54053
+10ee | 3 Nmi. closure around Kahoolawe | | 20.64764 | −156.54353
+10ff | 3 Nmi. closure around Kahoolawe | | 20.64889 | −156.54658
+10gg | 3 Nmi. closure around Kahoolawe | | 20.64994 | −156.54975
+10hh | 3 Nmi. closure around Kahoolawe | | 20.65083 | −156.55297
+10ii | 3 Nmi. closure around Kahoolawe | | 20.65111 | −156.55436
+10jj | 3 Nmi. closure around Kahoolawe | | 20.65122 | −156.55472
+10kk | 3 Nmi. closure around Kahoolawe | | 20.65147 | −156.55586
+10ll | 3 Nmi. closure around Kahoolawe | | 20.65189 | −156.55797
+10mm | 3 Nmi. closure around Kahoolawe | | 20.65239 | −156.56131
+10nn | 3 Nmi. closure around Kahoolawe | | 20.65247 | −156.56233
+10oo | 3 Nmi. closure around Kahoolawe | | 20.65269 | −156.56378
+10pp | 3 Nmi. closure around Kahoolawe | | 20.65281 | −156.56494
+10qq | 3 Nmi. closure around Kahoolawe | | 20.65306 | −156.56675
+10rr | 3 Nmi. closure around Kahoolawe | | 20.65336 | −156.57011
+10ss | 3 Nmi. closure around Kahoolawe | | 20.65347 | −156.57344
+10tt | 3 Nmi. closure around Kahoolawe | | 20.65344 | −156.57372
+10uu | 3 Nmi. closure around Kahoolawe | | 20.65350 | −156.57514
+10vv | 3 Nmi. closure around Kahoolawe | | 20.65339 | −156.57850
+10ww | 3 Nmi. closure around Kahoolawe | | 20.65328 | −156.57992
+10xx | 3 Nmi. closure around Kahoolawe | | 20.65325 | −156.58025
+10yy | 3 Nmi. closure around Kahoolawe | | 20.65314 | −156.58217
+11a | Technical Closure | 2 | 20.69422 | −156.61875
+11b | Technical Closure | | 20.69583 | −156.63433
+12a | Upolu Pt., Hawaii (Big Island) | 2 | 20.26814 | −155.85014
+12b | Upolu Pt., Hawaii (Big Island) | | 20.29997 | −155.85478
+13a | Keahole Pt., Hawaii (Big Island) | 2 | 19.72767 | −156.06186
+13b | Keahole Pt., Hawaii (Big Island) | | 19.72819 | −156.07069
+Bound No. (fig.2) | Geographic name | Number of points | Latitude | Longitude
+14a | Kawaihae Harbor, Big Island exclusion | 2 | 20.03731 | −155.83403
+14b | Kawaihae Harbor, Big Island exclusion | | 20.04036 | −155.83269
+15a | Haleolono Harbor, Molokai exclusion | 2 | 21.08431 | −157.24961
+15b | Haleolono Harbor, Molokai exclusion | | 21.08467 | −157.24867
+16a | Kaunakakai Harbor, Molokai exclusion | 4 | 21.08719 | −157.02658
+16b | Kaunakakai Harbor, Molokai exclusion | | 21.08033 | −157.03286
+16c | Kaunakakai Harbor, Molokai exclusion | | 21.07736 | −157.02811
+16d | Kaunakakai Harbor, Molokai exclusion | | 21.08539 | −157.02083
+17a | Kaumalapau Harbor, Lanai exclusion | 2 | 20.78589 | −156.99228
+17b | Kaumalapau Harbor, Lanai exclusion | | 20.78364 | −156.99203
+18a | Manele Harbor, Lanai exclusion | 2 | 20.74256 | −156.88692
+18b | Manele Harbor, Lanai exclusion | | 20.74311 | −156.88725
+19a | Lahaina Harbor, Maui exclusion | 2 | 20.87175 | −156.67917
+19b | Lahaina Harbor, Maui exclusion | | 20.87189 | −156.67889
+20a | Maalaea Harbor, Maui exclusion | 2 | 20.79225 | −156.50972
+20b | Maalaea Harbor, Maui exclusion | | 20.79022 | −156.51100
+21a | Western closure Kuapa Pond (Hawaii Kai), Oahu | 2 | 21.28528 | −157.71881
+21b | Western closure Kuapa Pond (Hawaii Kai), Oahu | | 21.28514 | −157.71861
+22a | Eastern closure Kuapa Pond (Hawaii Kai), Oahu | 2 | 21.28147 | −157.71186
+22b | Eastern closure Kuapa Pond (Hawaii Kai), Oahu | | 21.28108 | −157.71119
