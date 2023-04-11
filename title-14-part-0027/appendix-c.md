@@ -23,7 +23,7 @@ C27.2 Applicable part 29 sections. The following sections of part 29 of this cha
 29.547(a) and (b)—Main and tail rotor structure.
 29.861(a)—Fire protection of structure, controls, and other parts.
 29.901(c)—Powerplant: Installation.
-29.903(b) (c) and (e)—Engines.
+29.903 (b) and (c)—Engines.
 29.908(a)—Cooling fans.
 29.917(b) and (c)(1)—Rotor drive system: Design.
 29.927(c)(1)—Additional tests.
