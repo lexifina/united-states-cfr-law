@@ -40,11 +40,16 @@ When required to have security personnel that have been trained, equipped, and q
 Definitions
 Terms defined in parts 50, 70, and 73 of this chapter have the same meaning when used in this appendix.
 Criteria
-I. Employment suitability and qualification.
-A. Suitability: 1. Prior to employment, or assignment to the security organization, an individual shall meet the following suitability criteria:
-a. Educational development—Possess a high school diploma or pass an equivalent performance examination designed to measure basic job-related mathematical, language, and reasoning skills, ability, and knowledge, required to perform security job duties.
-b. Felony convictions—Have no felony convictions involving the use of a weapon and no felony convictions that reflect on the individual's reliability.
-2. Prior to employment or assignment to the security organization in an armed capacity, the individual, in addition to (a) and (b) above, must be 21 years of age or older.
+A. Employment Suitability and Qualification.
+1. Suitability.
+(a) Before employment, or assignment to the security organization, an individual shall:
+(1) Possess a high school diploma or pass an equivalent performance examination designed to measure basic mathematical, language, and reasoning skills, abilities, and knowledge required to perform security duties and responsibilities;
+(2) Have attained the age of 21 for an armed capacity or the age of 18 for an unarmed capacity;
+(3) Not have any felony convictions that reflect on the individual's reliability; and
+(4) Not be disqualified, in accordance with applicable state or Federal law from possessing or using firearms or ammunition.
+(i) Licensees may use the information that has been obtained during the completion of the individual's background investigation for unescorted access to determine suitability; or
+(ii) Licensees may use the satisfactory completion of a firearms background check for the individual under § 73.17 of this part to also fulfill this requirement.
+(b) The qualification of each individual to perform assigned duties and responsibilities must be documented by a qualified training instructor and attested to by a security supervisor.
 B. Physical and mental qualifications. 1. Physical qualifications:
 a. Individuals whose security tasks and job duties are directly associated with the effective implementation of the licensee physical security and contingency plans shall have no physical weaknesses or abnormalities that would adversely affect their performance of assigned security job duties.
 b. In addition to a. above, guards, armed response personnel, armed escorts, and central alarm station operators shall successfully pass a physical examination administered by a licensed physician. The examination shall be designed to measure the individual's physical ability to perform assigned security job duties as identified in the licensee physical security and contingency plans. Armed personnel shall meet the following additional physical requirements:
