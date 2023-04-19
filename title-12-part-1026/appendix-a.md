@@ -1,6 +1,6 @@
 # Appendix A to Part 1026—Effect on State Laws
 Request for Determination
-A request for a determination that a state law is inconsistent or that a state law is substantially the same as the Act and regulation shall be in writing and addressed to the Executive Secretary, Bureau of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20006. The request shall be made pursuant to the procedures herein.
+A request for a determination that a state law is inconsistent or that a state law is substantially the same as the Act and regulation shall be in writing and addressed to the Executive Secretary, Bureau of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20552. The request shall be made pursuant to the procedures herein.
 Supporting Documents
 A request for a determination shall include the following items:
 (1) The text of the state statute, regulation, or other document that is the subject of the request.

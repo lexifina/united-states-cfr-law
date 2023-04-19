@@ -1,6 +1,6 @@
 # Appendix B to Part 1026—State Exemptions
 Application
-Any state may apply to the Bureau for a determination that a class of transactions subject to state law is exempt from the requirements of the Act and this part. An application shall be in writing and addressed to the Executive Secretary, Bureau of Consumer Financial Protection, 1700 G Street, NW., Washington, DC 20006, and shall be signed by the appropriate state official. The application shall be made pursuant to the procedures herein.
+Any state may apply to the Bureau for a determination that a class of transactions subject to state law is exempt from the requirements of the Act and this part. An application shall be in writing and addressed to the Executive Secretary, Bureau of Consumer Financial Protection, 1700 G Street, NW., Washington, DC 20552, and shall be signed by the appropriate state official. The application shall be made pursuant to the procedures herein.
 Supporting Documents
 An application shall be accompanied by:
 (1) The text of the state statute or regulation that is the subject of the application, and any other statute, regulation, or judicial or administrative opinion that implements, interprets, or applies it.
