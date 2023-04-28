@@ -49,7 +49,7 @@ CA | Fairchild Semiconductor Corp. (S San Jose) | South San Jose
 CA | Fresno Municipal Sanitary Landfill | Fresno
 CA | Frontier Fertilizer | Davis
 CA | Halaco Engineering Company | Oxnard
-CA | Hewlett-Packard (620-640 Page Mill Road) | Palo Alto
+CA | Hewlett-Packard (620–640 Page Mill Road) | Palo Alto
 CA | Industrial Waste Processing | Fresno
 CA | Intel Corp. (Mountain View Plant) | Mountain View
 CA | Intel Magnetics | Santa Clara
@@ -116,7 +116,7 @@ CO | Nelson Tunnel/Commodore Waste Rock | Creede
 CO | Standard Mine | Gunnison National Forest
 CO | Summitville Mine | Rio Grande County
 CO | Uravan Uranium Project (Union Carbide) | (former town of) Uravan | P*
-CO | Vasquez Boulevard and I-70 | Denver | P
+CO | Vasquez Boulevard and I–70 | Denver | P
 CT | Barkhamsted-New Hartford Landfill | Barkhamsted
 CT | Beacon Heights Landfill | Beacon Falls
 CT | Durham Meadows | Durham
@@ -131,11 +131,12 @@ CT | Solvents Recovery Service New England | Southington
 CT | Yaworski Waste Lagoon | Canterbury
 DE | Army Creek Landfill | New Castle County
 DE | Blades Groundwater | Blades
-DE | Chem-Solv, Inc | Cheswold
 DE | Delaware City PVC Plant | Delaware City
 DE | Delaware Sand & Gravel Landfill | New Castle County
 DE | Dover Gas Light Co | Dover
+DE | East Basin Road Groundwater | New Castle
 DE | E.I.Du Pont de Nemours (Newport Landfill) | Newport
+DE | Georgetown North Groundwater | Georgetown
 DE | Halby Chemical Co | New Castle
 DE | Harvey & Knott Drum, Inc | Kirkwood
 DE | Hockessin Groundwater | Hockessin
@@ -143,7 +144,7 @@ DE | Koppers Co., Inc. (Newport Plant) | Newport
 DE | NCR Corp. (Millsboro Plant) | Millsboro
 DE | Newark South Ground Water Plume | Newark
 DE | Standard Chlorine of Delaware, Inc | Delaware City
-DE | Tybouts Corner Landfill | New Castle County | S
+DE | Tybouts Corner Landfill | New Castle County | P
 FL | Agrico Chemical Co | Pensacola
 FL | Airco Plating Co | Miami
 FL | Alaric Area Ground Water Plume | Tampa
@@ -209,6 +210,7 @@ GU | Ordot Landfill | Guam | S
 HI | Del Monte Corp. (Oahu Plantation) | Honolulu County | P
 IA | Des Moines TCE | Des Moines
 IA | Fairfield Coal Gasification Plant | Fairfield
+IA | Highway 3 PCE | Le Mars
 IA | Lawrence Todtz Farm | Camanche
 IA | Mason City Coal Gasification Plant | Mason City
 IA | Midwest Manufacturing/North Farm | Kellogg | P
@@ -259,7 +261,7 @@ IL | Schroud Property | Chicago
 IL | Southeast Rockford Gd Wtr Contamination | Rockford | P
 IL | Tri-County Landfill/Waste Mgmt Illinois | South Elgin
 IL | Velsicol Chemical Corp. (Illinois) | Marshall
-IL | Wauconda Sand & Gravel | Wauconda
+IL | Wauconda Sand & Gravel | Wauconda | P
 IL | Woodstock Municipal Landfill | Woodstock
 IL | Yeoman Creek Landfill | Waukegan
 IN | American Chemical Service, Inc | Griffith
@@ -269,7 +271,7 @@ IN | Cam-Or Inc | Westville.
 IN | Cliff Drive Groundwater Contamination | Logansport
 IN | Conrail Rail Yard (Elkhart) | Elkhart
 IN | Continental Steel Corp | Kokomo
-IN | Douglass Road/Uniroyal, Inc., Landfill | Mishawaka | P
+IN | Douglas Road/Uniroyal, Inc., Landfill | Mishawaka
 IN | Elm Street Ground Water Contamination | Terre Haute
 IN | Envirochem Corp | Zionsville
 IN | Fisher-Calo | LaPorte
@@ -278,7 +280,7 @@ IN | Franklin Street Groundwater Contamination | Spencer
 IN | Galen Myers Dump/Drum Salvage | Osceola
 IN | Garden City Ground Water Plume | Garden City
 IN | Gary Development Company | Gary
-IN | Himco Dump | Elkhart
+IN | Himco Dump | Elkhart | P
 IN | Jacobsville Neighborhood Soil Contamination | Evansville
 IN | Keystone Corridor Ground Water Contamination | Indianapolis
 IN | Kokomo Contaminated Ground Water Plume | Kokomo
@@ -315,7 +317,6 @@ KS | Plating, Inc | Great Bend
 KS | Strother Field Industrial Park | Cowley County
 KS | Wright Ground Water Contamination | Wright
 KY | B.F. Goodrich | Calvert City
-KY | Brantley Landfill | Island
 KY | Caldwell Lace Leather Co., Inc | Auburn
 KY | Distler Brickyard | West Point
 KY | Distler Farm | Jefferson County
@@ -379,7 +380,6 @@ ME | Eastern Surplus | Meddybemps
 ME | Eastland Woolen Mill | Corinna | P
 ME | Keddy Mill | Windham
 ME | Leeds Metal | Leeds
-ME | McKin Co | Gray
 ME | Saco Municipal Landfill | Saco
 ME | West Site/Hows Corners | Plymouth
 ME | Winthrop Landfill | Winthrop
@@ -503,6 +503,7 @@ MO | Washington County Lead District—Richwoods | Richwoods
 MO | Westlake Landfill | Bridgeton
 MS | American Creosote Works, Inc | Louisville
 MS | Chemfax, Inc | Gulfport | P
+MS | Hercules Inc | Hattiesburg
 MS | Kerr-McGee Chemical Corp—Columbus | Columbus
 MS | Mississippi Phosphates Corporation | Pascagoula
 MS | Picayune Wood Treating | Picayune
@@ -575,6 +576,7 @@ NE | Ogallala Ground Water Contamination | Ogallala
 NE | Old HWY 275 and N 288th Street | Valley
 NE | Omaha Lead | Omaha/Douglas | P
 NE | Parkview Well | Grand Island
+NE | PCE—Carriage Cleaners | Bellevue
 NE | PCE Southeast Contamination | York
 NE | PCE/TCE Northeast Contamination | York
 NE | Sherwood Medical Co | Norfolk
@@ -656,6 +658,7 @@ NJ | Lang Property | Pemberton Township
 NJ | Lightman Drum Company | Winslow Township
 NJ | Lipari Landfill | Pitman
 NJ | Lone Pine Landfill | Freehold Township
+NJ | Lower Hackensack River | Bergen and Hudson Counties
 NJ | Mansfield Trail Dump | Byram Township
 NJ | Martin Aaron, Inc | Camden
 NJ | Matlack, Inc. | Woolwich Township
@@ -725,8 +728,9 @@ NV | Carson River Mercury Site | Lyon/Churchill Cnty
 NY | American Thermostat Co | South Cairo
 NY | Applied Environmental Services | Glenwood Landing
 NY | Arsenic Mine | Kent | A
-NY | Black River PCBs | Jefferson County.
+NY | Black River PCBs | Jefferson County
 NY | Brewster Well Field | Putnam County
+NY | Brillo Landfill | Victory
 NY | Byron Barrel & Drum | Byron
 NY | Carroll & Dubies Sewage Disposal | Port Jervis
 NY | Cayuga County Ground Water Contamination | Cayuga County
@@ -798,7 +802,7 @@ NY | Smithtown Ground Water Contamination | Smithtown
 NY | Solvent Savers | Lincklaen
 NY | Stanton Cleaners Area Ground Water Contamination | Great Neck
 NY | Tri-Cities Barrel Co., Inc | Port Crane
-NY | Vestal Water Supply Well 1-1 | Vestal
+NY | Vestal Water Supply Well 1–1 | Vestal
 NY | Volney Municipal Landfill | Town of Volney
 NY | Wappinger Creek | Dutchess County
 NY | Wolff-Alport Chemical Company | Ridgewood
@@ -831,7 +835,7 @@ OH | Reilly Tar & Chemical (Dover Plant) | Dover
 OH | Sanitary Landfill Co. (Industrial Waste) | Dayton
 OH | Skinner Landfill | West Chester
 OH | South Point Plant | South Point
-OH | Summit National | Deerfield Township
+OH | Summit National | Deerfield Township | P
 OH | TRW, Inc. (Minerva Plant) | Minerva
 OH | Valley Pike VOCs | Riverside
 OH | Van Dale Junkyard | Marietta
@@ -949,6 +953,7 @@ PR | Dorado Ground Water Contamination | Dorado
 PR | Fibers Public Supply Wells | Jobos
 PR | Juncos Landfill | Juncos
 PR | Maunabo Area Ground Water Contamination | Maunabo
+PR | Ochoa Fertilizer Co | Guánica
 PR | Papelera Puertorriquena, Inc | Utuado.
 PR | Pesticide Warehouse I | Arecibo
 PR | Pesticide Warehouse III | Manati.
@@ -980,7 +985,7 @@ SC | Elmore Waste Disposal | Greer
 SC | Galey and Lord Plant | Society Hill
 SC | Helena Chemical Co Landfill | Fairfax
 SC | Kalama Specialty Chemicals | Beaufort
-SC | Koppers Co., Inc. (Charleston Plant) | Charleston
+SC | Koppers Co., Inc (Charleston Plant) | Charleston | P
 SC | Leonard Chemical Co., Inc | Rock Hill
 SC | Lexington County Landfill Area | Cayce
 SC | Macalloy Corporation | North Charleston | P
@@ -1046,7 +1051,6 @@ TX | Northwest Odessa Groundwater | Odessa
 TX | Odessa Chromium #1 | Odessa
 TX | Patrick Bayou | Deer Park
 TX | Petro-Chemical Systems, (Turtle Bayou) | Liberty County
-TX | River City Metal Finishing | San Antonio
 TX | RSR Corp | Dallas | P
 TX | Rockwool Industries Inc | Bell County
 TX | Sandy Beach Road Ground Water Plume | Azle
@@ -1076,7 +1080,6 @@ VA | Arrowhead Associates/Scovill Corp | Montross
 VA | Atlantic Wood Industries, Inc | Portsmouth
 VA | Avtex Fibers, Inc | Front Royal
 VA | Buckingham County Landfill | Buckingham
-VA | C & R Battery Co., Inc | Chesterfield County
 VA | Chisman Creek | York County
 VA | Culpeper Wood Preservers, Inc | Culpeper
 VA | Former Nansemond Ordnance Depot | Suffolk | P
