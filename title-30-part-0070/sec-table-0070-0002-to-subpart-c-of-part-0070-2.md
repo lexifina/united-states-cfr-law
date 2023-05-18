@@ -1,5 +1,5 @@
-# Table 70-2 to Subpart C of Part 70—Excessive Concentration Values (ECV) Based on the Average of 5 or 15 Full-Shift CMDPSU/CPDM Concentration Measurements
-Applicable standard(mg/m3) | ECV (mg/m3) based on5-sample average | CMDPSU | CPDM | ECV (mg/m3) based on15-sample average | CMDPSU | CPDM
+# Table 70–2 to Subpart C of Part 70—Excessive Concentration Values (ECV) Based on the Average of 5 or 15 Full-Shift CMDPSU/CPDM Concentration Measurements
+Applicable standard (mg/m 3) | ECV (mg/m 3) based on 5-sample average | CMDPSU | CPDM | ECV (mg/m 3) based on 15-sample average | CMDPSU | CPDM
 2.0 | 2.15 | 2.12 | 2.09 | 2.07
 1.9 | 2.05 | 2.01 | 1.99 | 1.97
 1.8 | 1.94 | 1.91 | 1.89 | 1.87

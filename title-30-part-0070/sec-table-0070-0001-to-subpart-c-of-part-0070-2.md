@@ -1,5 +1,5 @@
-# Table 70-1 to Subpart C of Part 70—Excessive Concentration Values (ECV) Based on Single, Full-Shift CMDPSU/CPDM Concentration Measurements
-Applicable standard(mg/m3) | ECV (mg/m3) | CMDPSU | CPDM
+# Table 70–1 to Subpart C of Part 70—Excessive Concentration Values (ECV) Based on Single, Full-Shift CMDPSU/CPDM Concentration Measurements
+Applicable standard (mg/m 3) | ECV (mg/m 3) | CMDPSU | CPDM
 2.0 | 2.33 | 2.26
 1.9 | 2.22 | 2.15
 1.8 | 2.12 | 2.04
