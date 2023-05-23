@@ -1,5 +1,5 @@
-# Supplement No. 3 to Part 746—Countries Excluded From Certain License Requirements of § 746.8
-Countries listed in this supplement have committed to implementing substantially similar export controls on Russia and Belarus under their domestic laws and are consequently excluded from certain requirements in § 746.8 of the EAR, as described in § 746.8(a)(4) and (5). The Scope column of the following table identifies whether the country receives a full or partial exclusion. For countries with partial exclusions, the items for which such exclusions apply are listed in the Scope column.
+# Supplement No. 3 to Part 746—Countries Excluded from Certain License Requirements of §§ 746.6, 746.7, and 746.8
+Countries listed in this supplement have committed to implementing substantially similar export controls on Russia and Belarus, under their domestic laws and are consequently excluded from certain requirements in §§ 746.6 and 746.8 of the EAR, as described in §§ 746.6(a)(4) and 746.8(a)(4) and (5). In addition, these countries are excluded from the license requirements related to Iran in § 746.7, as described in § 746.7(a)(1)(iv) and (v). The Scope column of the following table identifies whether the country receives a full or partial exclusion. For countries with partial exclusions, the items for which such exclusions apply are listed in the Scope column.
 Country | Scope | Federal Register citation
 Australia | Full | 87 FR 12250, 3/3/2022.
 Austria | Full | 87 FR 12250, 3/3/2022.
@@ -37,4 +37,5 @@ South Korea | Full | 87 FR 13628, 3/10/2022.
 Spain | Full | 87 FR 12250, 3/3/2022.
 Sweden | Full | 87 FR 12250, 3/3/2022.
 Switzerland | Full | 87 FR 21555, 4/12/2022.
+Taiwan | Full | 87 FR 12183, 2/27/2023.
 United Kingdom | Full | 87 FR 12250, 3/3/2022.
