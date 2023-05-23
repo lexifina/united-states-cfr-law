@@ -1,5 +1,5 @@
-# Supplement No. 6 to Part 746—Items That Require a License for Export, Reexport, and Transfer (In-Country) to or Within Russia or Belarus Pursuant to § 746.5(a)(1)(iii)
-The items identified in this supplement are a subset of items that are otherwise designated as EAR99 under the Commerce Control List (CCL) in supplement no. 1 to part 774. These items may be useful for Russia's chemical and biological weapons production capabilities or may be diverted from Belarus to Russia for these activities of concern. These items consist of discrete chemicals, biologics, fentanyl and its precursors, and related equipment. BIS has specified Chemical Abstract Numbers (CAS) where applicable in this supplement to assist exporters, reexporters, and transferors in classifying these items. In addition, paragraph (g) of supplement no. 6 to part 746 identifies equipment and other items that BIS has determined are not manufactured in Russia or are otherwise important to Russia in developing advanced production and development capabilities to enable advanced manufacturing across a number of industries or may be diverted from Belarus to Russia for these activities of concern.
+# Supplement No. 6 to Part 746—Russian and Belarusian Industry Sector Sanctions Pursuant to § 746.5(a)(1)(iii)
+The items identified in this supplement are a subset of items that are otherwise designated as EAR99 under the Commerce Control List (CCL) in supplement no. 1 to part 774. These items may be useful for Russia's chemical and biological weapons production capabilities or may be diverted from Belarus to Russia for these or other activities of concern. These items consist of discrete chemicals, biologics, fentanyl and its precursors, and related equipment. BIS has specified Chemical Abstract Numbers (CAS) where applicable in this supplement to assist exporters, reexporters, and transferors in classifying these items. In addition, paragraph (g) of supplement no. 6 to part 746 identifies equipment and other items that BIS has determined are not manufactured in Russia or are otherwise important to Russia in developing advanced production and development capabilities to enable advanced manufacturing across a number of industries or may be diverted from Belarus to Russia for these or other activities of concern.
 (a) Chemicals in concentrations of 95% weight or greater, as follows:
 (1) Ethylene dichloride (CAS 107-06-2);
 (2) Nitromethane (CAS 75-52-5);
@@ -40,8 +40,12 @@ The items identified in this supplement are a subset of items that are otherwise
 (37) Sodium bromide (CAS 7647-15-6);
 (38) Sodium metal (CAS 7440-23-5);
 (39) Tributylamine (CAS 102-82-9);
-(40) Triethylamine (CAS 121-44-8); or
-(41) Trimethylamine (CAS 75-50-3).
+(40) Triethylamine (CAS 121-44-8);
+(41) Trimethylamine (CAS 75-50-3);
+(42) Lithium chloride (CAS 7447-41-8);
+(43) Lithium chloride hydrate (CAS 85144-11-2);
+(44) Lithium chloride monohydrate (CAS 16712-20-2); or
+(45) Lithium carbonate (CAS 554-13-2).
 (b) Chemicals in concentrations of 90% weight or greater, as follows:
 (1) Acetone (CAS 67-64-1);
 (2) Acetylene (CAS 74-86-2);
@@ -81,14 +85,14 @@ The items identified in this supplement are a subset of items that are otherwise
 (36) Tri-isobutyl phosphite (CAS 1606-96-8);
 (37) White phosphorus (CAS 12185-10-3); or
 (38) Yellow phosphorus (CAS 7723-14-0).
-(c) Fentanyl and its derivatives Alfentanil, Sufentanil, Remifentanil, Carfentanil, thiafentanil, and salts thereof.
+(c) Fentanyl and its derivatives Alfentanil, Sufentanil, Remifentanil, Carfentanil, thiafentanil and salts thereof.
 Note 1 to paragraph (c): The items in paragraph (c) are from the EU list, as X.C.IX.002.
 Note 2 to paragraph (c): Consistent with EU List X.C.IX.002, paragraph (c) does not control products identified as consumer goods packaged for retail sale for personal use or packaged for individual use.
 (d) Chemical precursors to Central Nervous System Acting Chemicals, as follows:
 (1) 4-anilino-N-phenethylpiperidine (CAS 21409-26-7);
 (2) N-phenethyl-4-piperidone (CAS 39742-60-4);
 (3) Tert-butyl 4-(phenylamino) piperidine-1-carboxylate (CAS 125541-22-2);
-(4) Norfentanyl (CAS 1609-66-1); or
+(4) N-phenyl-N-(piperidin-4-yl)propionamide (Norfentanyl) (CAS 1609-66-1); or
 (5) N-phenyl-4-piperidinamine (CAS 504-24-5).
 Note 3 to paragraph (d): The items in paragraph (d) are from the EU list, as X.C.IX.003.
 Note 4 to paragraph (d): Consistent with EU List X.C.IX.003, paragraph (d) does not control "chemical mixtures" containing one or more of the chemicals specified in paragraph (d) (and consistent with EU List entry X.C.IX.003) in which no individually specified chemical constitutes more than 1% by the weight of the mixture.
@@ -96,13 +100,15 @@ Note 5 to paragraph (d): Consistent with EU List X.C.IX.003, paragraph (d) does 
 (e) Biologics: This paragraph (e) identifies certain biologics and biological equipment. The control on these items is intended to hinder Russia bioweapons production capabilities.
 (1) Butyrylcholinesterase (BCHE);
 (2) Cell culture materials, including cell lines, vectors, plasmids, and cell culture media, n.e.s.;
-(3) Assay kits and reagents for nucleotide or peptide isolation, extraction, purification, or, n.e.s.;
-(4) Nucleotides, oligonucleotides, and reagents for oligonucleotide synthesis, n.e.s.; or
-(5) Amino acids, peptides, proteins, and resins and reagents for peptide synthesis, n.e.s.
-(f) Equipment: This paragraph (f) identifies additional equipment that BIS has determined is not manufactured in Russia. Therefore, the implementation of restrictive export controls on this equipment by the United States and our allies will economically impact Russia and significantly hinder Russia's CBW production capabilities.
-(1) Reaction vessels, Fermenters, agitators, heat exchangers, condensers, pumps (including single seal pumps), valves, storage tanks, containers, receivers, and distillation or absorption columns, n.e.s.;
-(2) Vacuum pumps with a manufacturer's specified maximum flow-rate greater than 1 m3/h (under standard temperature and pressure conditions), casings (pump bodies), preformed casing-liners, impellers, rotors, and jet pump nozzles designed for such pumps, in which all surfaces that come into direct contact with the chemicals being processed are made from controlled materials;
-(3) Laboratory equipment, including parts and accessories for such equipment, for the analysis or detection, destructive or non-destructive, of chemical substances, n.e.s.;
+(3) Assay kits and reagents for nucleotide or peptide isolation, extraction, or purification, n.e.s.;
+(4) Isolated or purified nucleotides and oligonucleotides, n.e.s.;
+(5) Isolated or purified amino acids, peptides and proteins, n.e.s.;
+(6) Reagents and materials for oligonucleotide synthesis, n.e.s.; or
+(7) Resins, reagents, and materials for peptide synthesis, n.e.s.
+(f) Equipment and consumable "materials. This paragraph (f) identifies additional equipment and consumable "materials" that BIS has determined are not manufactured in Russia. Therefore, the implementation of restrictive export controls on these items by the United States and our allies will economically impact Russia and significantly hinder Russia's CBW production capabilities.
+(1) Reaction vessels, agitators, heat exchangers, condensers, pumps (including single seal pumps), valves, storage tanks, containers, receivers, and distillation or absorption columns, n.e.s.;
+(2) Vacuum pumps with a manufacturer's specified maximum flow-rate greater than 1 m 3 /h (under standard temperature and pressure conditions), casings (pump bodies), preformed casing-liners, impellers, rotors, and jet pump nozzles designed for such pumps; n.e.s.;
+(3) Laboratory equipment, including "components," "parts," "accessories," and consumable "materials" for such equipment, for the analysis or detection, destructive or non-destructive, of chemical substances, n.e.s.;
 (4) Whole chlor-alkali electrolysis cells (mercury, diaphragm, and membrane) and "components" "specially designed" therefor as follows:
 (i) Electrodes;
 (ii) Diaphragms; and
@@ -113,26 +119,27 @@ Note 5 to paragraph (d): Consistent with EU List X.C.IX.003, paragraph (d) does 
 (8) Full face-mask air-purifying and air-supplying respirators n.e.s.;
 (9) Conventional or turbulent air-flow clean-air rooms and self-contained fan-HEPA filter units that may be used for P3 or P4 (BSL 3, BSL 4, L3, L4) containment facilities;
 (10) Microwave reactors;
-(11) Well plates;
+(11) Well plates and microarrays;
 (12) Fermenters and components therefor, n.e.s.;
-(13) Centrifuges capable of separating biological samples, with a maximum capacity of 5L, components and accessories therefor, n.e.s., including centrifuge tubes and concentrators;
-(14) Filtration equipment capable of use in handling biological materials, n.e.s.;
-(15) Nucleic acid synthesizers and assemblers, n.e.s.;
-(16) Polymerase chain reaction (PCR) instruments;
-(17) Robotic liquid handling instruments, n.e.s.;
-(18) Chromatography and spectrometry components, parts and accessories;
-(19) Nucleic acid sequencers, n.e.s.;
+(13) Centrifuges and ultracentrifuges capable of separating biological samples, with a maximum capacity of 5L, "components" and "accessories" therefor, n.e.s., including centrifuge tubes and concentrators;
+(14) Filtration equipment, "components," "parts," and "accessories," capable of use in handling biological materials, n.e.s.;
+(15) Nucleic acid synthesizers and assemblers, "components," "parts," and "accessories," n.e.s.;
+(16) Polymerase chain reaction (PCR) and quantitative PCR (qPCR) instruments "components," "parts," and "accessories;"
+(17) Robotic liquid handling instruments, "components," "parts," and "accessories," n.e.s.;
+(18) Chromatography and spectrometry "components," "parts," and "accessories," n.e.s.;
+(19) Nucleic acid sequencers, "components," "parts," and "accessories;"
 (20) Aerosol inhalation testing equipment, components, parts and accessories, n.e.s.;
 (21) Flow cytometry equipment, components, parts and accessories, n.e.s.;
-(22) Probe sonicators, cell disruptors and tissue homogenizers; or
-(23) 'Continuous flow reactors' and their 'modular components'.
-Technical Notes for paragraph (f)(23): 1. Consistent with EU List X.B.X.001, for purposes of paragraph (f)(23) 'continuous flow reactors' consist in plug and play systems where reactants are continuously fed into the reactor and the resultant product is collected at the outlet.
-2. Consistent with EU List X.B.X.001, for purposes of paragraph (f)(23) 'modular components' are fluidic modules, liquid pumps, valves, packed-bed modules, mixer modules, pressure gauges, liquid-liquid separators, etc.
+(22) Probe sonicators, cell disruptors and tissue homogenizers;
+(23) 'Continuous flow reactors' and their 'modular components,' "parts," and "accessories," n.e.s;
+Technical Notes for paragraph (f)(23): 1. Consistent with EU List X.B.X.001, for purposes of paragraph (f)(23) 'continuous flow reactors' consist of plug and play systems where reactants are continuously fed into the reactor and the resultant product is collected at the outlet. 2. Consistent with EU List X.B.X.001, for purposes of paragraph (f)(23) 'modular components' are fluidic modules, liquid pumps, valves, packed-bed modules, mixer modules, pressure gauges, liquid-liquid separators, etc.
+(24)—(26) [Reserved]
+(27) Peptide synthesizers, "components," "parts," and "accessories."
+Note 6 to paragraph (f): Consistent with the definitions in part 772 of the EAR, "components," "parts," "accessories," and "materials" include consumables.
 (g) Quantum computing and advanced manufacturing: This paragraph (g) identifies additional equipment and other items that are believed to not be manufactured in Russia or are otherwise important to Russia in developing advanced production and development capabilities.
 (1) 'Quantum Computers', and "specially designed" "electronic assemblies" and "components" therefor, as follows:
 (i) Quantum processing units, qubit circuits, and qubit devices;
 (ii) Quantum control "components" and quantum measurement devices.
-Note 6 to paragraph (g)(1): For purposes of this entry, 'Quantum Computers' perform computations that harness the collective properties of quantum states, such as superposition, interference and entanglement. It applies to circuit model (or gate-based) and adiabatic (or annealing).
 Note 7 to paragraph (g)(1): Quantum processing units, qubit circuits and qubit devices include but are not limited to semiconductor, superconducting, Ion Trap, photonic interaction, silicon/spin, cold atoms.
 Note 8 to paragraph (g)(1): Quantum control "components" and quantum measurement devices applies to items designed for calibrating, initializing, manipulating or measuring the resident qubits of a quantum computer.
 (2) 'Cryogenic refrigeration systems' designed to maintain temperatures below 1.1k for 48hrs or more and "specially designed" cryogenic refrigeration equipment and "components" as follows:
