@@ -18,25 +18,25 @@ Performance Specification 15—Performance Specification for Extractive FTIR Con
 Performance Specification 16—Specifications and Test Procedures for Predictive Emission Monitoring Systems in Stationary Sources
 Performance Specification 17 [Reserved]
 Performance Specification 18—Performance Specifications and Test Procedures for Gaseous Hydrogen Chloride (HCl) Continuous Emission Monitoring Systems at Stationary Sources
-PS-18—Appendix A Standard Addition Procedures
+PS–18—Appendix A Standard Addition Procedures
 Performance Specification 1—Specifications and Test Procedures for Continuous Opacity Monitoring Systems in Stationary Sources
 1.0 What Is the Purpose and Applicability of Performance Specification 1?
-Performance Specification 1 (PS-1) provides (1) requirements for the design, performance, and installation of a continuous opacity monitoring system (COMS) and (2) data computation procedures for evaluating the acceptability of a COMS. It specifies activities for two groups (1) the owner or operator and (2) the opacity monitor manufacturer.
-1.1 Measurement Parameter. PS-1 covers the instrumental measurement of opacity caused by attenuation of projected light due to absorption and scatter of the light by particulate matter in the effluent gas stream.
-1.2 What COMS must comply with PS-1? If you are an owner or operator of a facility with a COMS as a result of this Part, then PS-1 applies to your COMS if one of the following is true:
+Performance Specification 1 (PS–1) provides (1) requirements for the design, performance, and installation of a continuous opacity monitoring system (COMS) and (2) data computation procedures for evaluating the acceptability of a COMS. It specifies activities for two groups (1) the owner or operator and (2) the opacity monitor manufacturer.
+1.1 Measurement Parameter. PS–1 covers the instrumental measurement of opacity caused by attenuation of projected light due to absorption and scatter of the light by particulate matter in the effluent gas stream.
+1.2 What COMS must comply with PS–1? If you are an owner or operator of a facility with a COMS as a result of this Part, then PS–1 applies to your COMS if one of the following is true:
 (1) Your facility has a new COMS installed after February 6, 2001; or
 (2) Your COMS is replaced, relocated, or substantially refurbished (in the opinion of the regulatory authority) after February 6, 2001; or
-(3) Your COMS was installed before February 6, 2001 and is specifically required by regulatory action other than the promulgation of PS-1 to be recertified.
+(3) Your COMS was installed before February 6, 2001 and is specifically required by regulatory action other than the promulgation of PS–1 to be recertified.
 If you are an opacity monitor manufacturer, then paragraph 8.2 applies to you.
-1.3 Does PS-1 apply to a facility with an applicable opacity limit less than 10 percent? If you are an owner or operator of a facility with a COMS as a result of this Part and the applicable opacity limit is less than 10 percent, then PS-1 applies to your COMS as described in section 1.2; taking into account (through statistical procedures or otherwise) the uncertainties associated with opacity measurements, and following the conditions for attenuators selection for low opacity applications as outlined in section 8.1(3)(ii). At your option, you, the source owner or operator, may select to establish a reduced full scale range of no less than 50 percent opacity instead of the 80 percent as prescribed in section 3.5, if the applicable opacity limit for your facility is less than 10 percent. The EPA recognizes that reducing the range of the analyzer to 50 percent does not necessarily result in any measurable improvement in measurement accuracy at opacity levels less than 10 percent; however, it may allow improved chart recorder interpretation.
+1.3 Does PS–1 apply to a facility with an applicable opacity limit less than 10 percent? If you are an owner or operator of a facility with a COMS as a result of this Part and the applicable opacity limit is less than 10 percent, then PS–1 applies to your COMS as described in section 1.2; taking into account (through statistical procedures or otherwise) the uncertainties associated with opacity measurements, and following the conditions for attenuators selection for low opacity applications as outlined in section 8.1(3)(ii). At your option, you, the source owner or operator, may select to establish a reduced full scale range of no less than 50 percent opacity instead of the 80 percent as prescribed in section 3.5, if the applicable opacity limit for your facility is less than 10 percent. The EPA recognizes that reducing the range of the analyzer to 50 percent does not necessarily result in any measurable improvement in measurement accuracy at opacity levels less than 10 percent; however, it may allow improved chart recorder interpretation.
 1.4 What data uncertainty issues apply to COMS data? The measurement uncertainties associated with COMS data result from several design and performance factors including limitations on the availability of calibration attenuators for opacities less than about 6 percent (3 percent for single-pass instruments), calibration error tolerances, zero and upscale drift tolerances, and allowance for dust compensation that are significant relative to low opacity levels. The full scale requirements of this PS may also contribute to measurement uncertainty for opacity measurements where the applicable limits are below 10 percent opacity.
-2.0 What Are the Basic Requirements of PS-1?
-PS-1 requires (1) opacity monitor manufacturers comply with a comprehensive series of design and performance specifications and test procedures to certify opacity monitoring equipment before shipment to the end user, (2) the owner or operator to follow installation guidelines, and (3) the owner or operator to conduct a set of field performance tests that confirm the acceptability of the COMS after it is installed.
-2.1 ASTM D6216-12 (incorporated by reference, see § 60.17) is the reference for design specifications, manufacturer's performance specifications, and test procedures. The opacity monitor manufacturer must periodically select and test an opacity monitor, that is representative of a group of monitors produced during a specified period or lot, for conformance with the design specifications in ASTM D6216-12. The opacity monitor manufacturer must test each opacity monitor for conformance with the manufacturer's performance specifications in ASTM D6216-12. Note: If the initial certification of the opacity monitor occurred before November 14, 2018 using D6216-98, D6216-03, or D6216-07, it is not necessary to recertify using D6216-12.
+2.0 What Are the Basic Requirements of PS–1?
+PS–1 requires (1) opacity monitor manufacturers comply with a comprehensive series of design and performance specifications and test procedures to certify opacity monitoring equipment before shipment to the end user, (2) the owner or operator to follow installation guidelines, and (3) the owner or operator to conduct a set of field performance tests that confirm the acceptability of the COMS after it is installed.
+2.1 ASTM D6216–20 (IBR, see § 60.17) is the reference for design specifications, manufacturer's performance specifications, and test procedures. The opacity monitor manufacturer must periodically select and test an opacity monitor, that is representative of a group of monitors produced during a specified period or lot, for conformance with the design specifications in ASTM D6216–20. The opacity monitor manufacturer must test each opacity monitor for conformance with the manufacturer's performance specifications in ASTM D6216–20. Note: If the initial certification of the opacity monitor occurred before May 30, 2023, using D6216–98, D6216–03, D6216–07, or D6216–12, it is not necessary to recertify using D6216–20.
 2.2 section 8.1(2) provides guidance for locating an opacity monitor in vertical and horizontal ducts. You are encouraged to seek approval for the opacity monitor location from the appropriate regulatory authority prior to installation.
-2.3 After the COMS is installed and calibrated, the owner or operator must test the COMS for conformance with the field performance specifications in PS-1.
-3.0 What Special Definitions Apply to PS-1?
-3.1 All definitions and discussions from section 3 of ASTM D6216-12 are applicable to PS-1.
+2.3 After the COMS is installed and calibrated, the owner or operator must test the COMS for conformance with the field performance specifications in PS–1.
+3.0 What Special Definitions Apply to PS–1?
+3.1 All definitions and discussions from section 3 of ASTM D6216–20 are applicable to PS–1.
 3.2 Centroid Area. A concentric area that is geometrically similar to the stack or duct cross-section and is no greater than 1 percent of the stack or duct cross-sectional area.
 3.3 Data Recorder. That portion of the installed COMS that provides a permanent record of the opacity monitor output in terms of opacity. The data recorder may include automatic data reduction capabilities.
 3.4 External Audit Device. The inherent design, equipment, or accommodation of the opacity monitor allowing the independent assessment of the COMS's calibration and operation.
@@ -46,14 +46,14 @@ PS-1 requires (1) opacity monitor manufacturers comply with a comprehensive seri
 3.8 Secondary Attenuators. Those devices (glass or grid filter that reduce the transmission of light) calibrated against primary attenuators according to procedures in section 7.2.
 3.9 System Response Time. The amount of time the COMS takes to display 95 percent of a step change in opacity on the COMS data recorder.
 4.0 Interferences. Water Droplets
-5.0 What Do I Need To Know To Ensure the Safety of Persons Using PS-1?
-The procedures required under PS-1 may involve hazardous materials, operations, and equipment. PS-1 does not purport to address all of the safety problems associated with these procedures. Before performing these procedures, you must establish appropriate safety and health practices, and you must determine the applicable regulatory limitations. You should consult the COMS user's manual for specific precautions to take.
+5.0 What Do I Need To Know To Ensure the Safety of Persons Using PS–1?
+The procedures required under PS–1 may involve hazardous materials, operations, and equipment. PS–1 does not purport to address all of the safety problems associated with these procedures. Before performing these procedures, you must establish appropriate safety and health practices, and you must determine the applicable regulatory limitations. You should consult the COMS user's manual for specific precautions to take.
 6.0 What Equipment and Supplies Do I Need?
-6.1 Continuous Opacity Monitoring System. You, as owner or operator, are responsible for purchasing an opacity monitor that meets the specifications of ASTM D6216-12, including a suitable data recorder or automated data acquisition handling system. Example data recorders include an analog strip chart recorder or more appropriately an electronic data acquisition and reporting system with an input signal range compatible with the analyzer output.
-6.2 Calibration Attenuators. You, as owner or operator, are responsible for purchasing a minimum of three calibration attenuators that meet the requirements of PS-1. Calibration attenuators are optical filters with neutral spectral characteristics. Calibration attenuators must meet the requirements in section 7 and must be of sufficient size to attenuate the entire light beam received by the detector of the COMS. For transmissometers operating over a narrow bandwidth (e.g., laser), a calibration attenuator's value is determined for the actual operating wavelengths of the transmissometer. Some filters may not be uniform across the face. If errors result in the daily calibration drift or calibration error test, you may want to examine the across-face uniformity of the filter.
+6.1 Continuous Opacity Monitoring System. You, as owner or operator, are responsible for purchasing an opacity monitor that meets the specifications of ASTM D6216–20, including a suitable data recorder or automated data acquisition handling system. Example data recorders include an analog strip chart recorder or more appropriately an electronic data acquisition and reporting system with an input signal range compatible with the analyzer output.
+6.2 Calibration Attenuators. You, as owner or operator, are responsible for purchasing a minimum of three calibration attenuators that meet the requirements of PS–1. Calibration attenuators are optical filters with neutral spectral characteristics. Calibration attenuators must meet the requirements in section 7 and must be of sufficient size to attenuate the entire light beam received by the detector of the COMS. For transmissometers operating over a narrow bandwidth (e.g., laser), a calibration attenuator's value is determined for the actual operating wavelengths of the transmissometer. Some filters may not be uniform across the face. If errors result in the daily calibration drift or calibration error test, you may want to examine the across-face uniformity of the filter.
 6.3 Calibration Spectrophotometer. Whoever calibrates the attenuators must have a spectrophotometer that meets the following minimum design specifications:
 Parameter | Specification
-Wavelength range | 300-800 nm.
+Wavelength range | 300–800 nm.
 Detector angle of view | <10°.
 Accuracy | <0.5% transmittance, NIST traceable calibration.
 7.0 What Reagents and Standards Do I Need?
@@ -64,50 +64,50 @@ You will need to use attenuators (i.e., neutral density filters) to check the da
 (i) Use a spectrophotometer meeting the specifications of section 6.3 to calibrate the required filters. Verify the spectrophotometer calibration through use of a NIST 930D Standard Reference Material (SRM). A SRM 930D consists of three neutral density glass filters and a blank, each mounted in a cuvette. The wavelengths and temperature to be used in the calibration are listed on the NIST certificate that accompanies the reported values. Determine and record a transmittance of the SRM values at the NIST wavelengths (three filters at five wavelengths each for a total of 15 determinations). Calculate a percent difference between the NIST certified values and the spectrophotometer response. At least 12 of the 15 differences (in percent) must be within ±0.5 percent of the NIST SRM values. No difference can be greater than ±1.0 percent. Recalibrate the SRM or service the spectrophotometer if the calibration results fail the criteria.
 (ii) Scan the filter to be tested and the NIST blank from wavelength 380 to 780 nm, and record the spectrophotometer percent transmittance responses at 10 nm intervals. Test in this sequence: blank filter, tested filter, tested filter rotated 90 degrees in the plane of the filter, blank filter. Calculate the average transmittance at each 10 nm interval. If any pair of the tested filter transmittance values (for the same filter and wavelength) differ by more than ±0.25 percent, rescan the tested filter. If the filter fails to achieve this tolerance, do not use the filter in the calibration tests of the COMS.
 (iii) Correct the tested filter transmittance values by dividing the average tested filter transmittance by the average blank filter transmittance at each 10 nm interval.
-(iv) Calculate the weighted (to the response of the human eye), tested filter transmittance by multiplying the transmittance value by the corresponding response factor shown in table 1-1, to obtain the Source C Human Eye Response.
+(iv) Calculate the weighted (to the response of the human eye), tested filter transmittance by multiplying the transmittance value by the corresponding response factor shown in table 1–1, to obtain the Source C Human Eye Response.
 (v) Recalibrate the primary attenuators semi-annually if they are used for the required calibration error test. Recalibrate the primary attenuators annually if they are used only for calibration of secondary attenuators.
 7.2 Attenuators are designated secondary if the filter calibration is done using a laboratory-based transmissometer. Conduct the secondary attenuator calibration using a laboratory-based transmissometer calibrated as follows:
 (i) Use at least three primary filters of nominal luminous transmittance 50, 70 and 90 percent, calibrated as specified in section 7.1(2)(i), to calibrate the laboratory-based transmissometer. Determine and record the slope of the calibration line using linear regression through zero opacity. The slope of the calibration line must be between 0.99 and 1.01, and the laboratory-based transmissometer reading for each primary filter must not deviate by more than ±2 percent from the linear regression line. If the calibration of the laboratory-based transmissometer yields a slope or individual readings outside the specified ranges, secondary filter calibrations cannot be performed. Determine the source of the variations (either transmissometer performance or changes in the primary filters) and repeat the transmissometer calibration before proceeding with the attenuator calibration.
 (ii) Immediately following the laboratory-based transmissometer calibration, insert the secondary attenuators and determine and record the percent effective opacity value per secondary attenuator from the calibration curve (linear regression line).
 (iii) Recalibrate the secondary attenuators semi-annually if they are used for the required calibration error test.
-8.0 What Performance Procedures Are Required To Comply With PS-1?
+8.0 What Performance Procedures Are Required To Comply With PS–1?
 Procedures to verify the performance of the COMS are divided into those completed by the owner or operator and those completed by the opacity monitor manufacturer.
 8.1 What procedures must I follow as the Owner or Operator?
-(1) You must purchase an opacity monitor that complies with ASTM D6216-12 and obtain a certificate of conformance from the opacity monitor manufacturer.
+(1) You must purchase an opacity monitor that complies with ASTM D6216–20 and obtain a certificate of conformance from the opacity monitor manufacturer.
 (2) You must install the opacity monitor at a location where the opacity measurements are representative of the total emissions from the affected facility. You must meet this requirement by choosing a measurement location and a light beam path as follows:
 (i) Measurement Location. Select a measurement location that is (1) at least 4 duct diameters downstream from all particulate control equipment or flow disturbance, (2) at least 2 duct diameters upstream of a flow disturbance, (3) where condensed water vapor is not present, and (4) accessible in order to permit maintenance. Alternatively, you may select a measurement location specified in paragraph 8.1(2)(ii) or 8.1(2)(iii).
 (ii) Light Beam Path. Select a light beam path that passes through the centroidal area of the stack or duct. Also, you must follow these additional requirements or modifications for these measurement locations:
 If your measurement location is in a: | And is: | Then use a light beam path that is:
-1. Straight vertical section of stack or duct | Less than 4 equivalent diameters downstream from a bend | In the plane defined by the upstream bend (see figure 1-1).
-2. Straight vertical section of stack or duct | Less than 4 equivalent diameters upstream from a bend | In the plane defined by the downstream bend (see figure 1-2).
-3. Straight vertical section of stack or duct | Less than 4 equivalent diameters downstream and is also less than 1 diameter upstream from a bend | In the plane defined by the upstream bend (see figure 1-3).
-4. Horizontal section of stack or duct | At least 4 equivalent diameters downstream from a vertical bend | In the horizontal plane that is between 1/3 and 1/2 the distance up the vertical axis from the bottom of the duct (see figure 1-4).
-5. Horizontal section of duct | Less than 4 equivalent diameters downstream from a vertical bend | In the horizontal plane that is between 1/2 and 2/3 the distance up the vertical axis from the bottom of the duct for upward flow in the vertical section, and is between 1/3 and 1/2 the distance up the vertical axis from the bottom of the duct for downward flow (figure 1-5).
-(iii) Alternative Locations and Light Beam Paths. You may select locations and light beam paths, other than those cited above, if you demonstrate, to the satisfaction of the Administrator or delegated agent, that the average opacity measured at the alternative location or path is equivalent to the opacity as measured at a location meeting the criteria of sections 8.1(2)(i) and 8.1(2)(ii). The opacity at the alternative location is considered equivalent if (1) the average opacity value measured at the alternative location is within ±10 percent of the average opacity value measured at the location meeting the installation criteria, and (2) the difference between any two average opacity values is less than 2 percent opacity (absolute). You use the following procedure to conduct this demonstration: simultaneously measure the opacities at the two locations or paths for a minimum period of time (e.g., 180-minutes) covering the range of normal operating conditions and compare the results. The opacities of the two locations or paths may be measured at different times, but must represent the same process operating conditions. You may use alternative procedures for determining acceptable locations if those procedures are approved by the Administrator.
+1. Straight vertical section of stack or duct | Less than 4 equivalent diameters downstream from a bend | In the plane defined by the upstream bend (see figure 1–1).
+2. Straight vertical section of stack or duct | Less than 4 equivalent diameters upstream from a bend | In the plane defined by the downstream bend (see figure 1–2).
+3. Straight vertical section of stack or duct | Less than 4 equivalent diameters downstream and is also less than 1 diameter upstream from a bend | In the plane defined by the upstream bend (see figure 1–3).
+4. Horizontal section of stack or duct | At least 4 equivalent diameters downstream from a vertical bend | In the horizontal plane that is between 1/3 and 1/2 the distance up the vertical axis from the bottom of the duct (see figure 1–4).
+5. Horizontal section of duct | Less than 4 equivalent diameters downstream from a vertical bend | In the horizontal plane that is between 1/2 and 2/3 the distance up the vertical axis from the bottom of the duct for upward flow in the vertical section, and is between 1/3 and 1/2 the distance up the vertical axis from the bottom of the duct for downward flow (figure 1–5).
+(iii) Alternative Locations and Light Beam Paths. You may select locations and light beam paths, other than those cited in section 8.1(2)(ii) of this method, if you demonstrate, to the satisfaction of the Administrator or delegated agent, that the average opacity measured at the alternative location or path is equivalent to the opacity as measured at a location meeting the criteria of sections 8.1(2)(i) and (ii) of this method. The opacity at the alternative location is considered equivalent if (1) the average opacity value measured at the alternative location is within ±10 percent of the average opacity value measured at the location meeting the installation criteria, and (2) the difference between any two average opacity values is less than 2 percent opacity (absolute). You use the following procedure to conduct this demonstration: simultaneously measure the opacities at the two locations or paths for a minimum period of time (e.g., 180-minutes) covering the range of normal operating conditions and compare the results. You may use alternative procedures for determining acceptable locations if those procedures are approved by the Administrator.
 (3) Field Audit Performance Tests. After you install the COMS, you must perform the following procedures and tests on the COMS.
 (i) Optical Alignment Assessment. Verify and record that all alignment indicator devices show proper alignment. A clear indication of alignment is one that is objectively apparent relative to reference marks or conditions.
-(ii) Calibration Error Check. Conduct a three-point calibration error test using three calibration attenuators that produce outlet pathlength corrected, single-pass opacity values shown in ASTM D6216-12, section 7.5. If your applicable limit is less than 10 percent opacity, use attenuators as described in ASTM D6216-12, section 7.5 for applicable standards of 10 to 19 percent opacity. Confirm the external audit device produces the proper zero value on the COMS data recorder. Separately, insert each calibration attenuators (low, mid, and high-level) into the external audit device. While inserting each attenuator, (1) ensure that the entire light beam passes through the attenuator, (2) minimize interference from reflected light, and (3) leave the attenuator in place for at least two times the shortest recording interval on the COMS data recorder. Make a total of five nonconsecutive readings for each attenuator. At the end of the test, correlate each attenuator insertion to the corresponding value from the data recorder. Subtract the single-pass calibration attenuator values corrected to the stack exit conditions from the COMS responses. Calculate the arithmetic mean difference, standard deviation, and confidence coefficient of the five measurements value using equations 1-3, 1-4, and 1-5. Calculate the calibration error as the sum of the absolute value of the mean difference and the 95 percent confidence coefficient for each of the three test attenuators using equation 1-6. Report the calibration error test results for each of the three attenuators.
+(ii) Calibration Error Check. Conduct a three-point calibration error test using three calibration attenuators that produce outlet pathlength corrected, single-pass opacity values shown in ASTM D6216–20, section 7.5. If your applicable limit is less than 10 percent opacity, use attenuators as described in ASTM D6216–20, section 7.5 for applicable standards of 10 to 19 percent opacity. Confirm the external audit device produces the proper zero value on the COMS data recorder. Separately, insert each calibration attenuators (low, mid, and high-level) into the external audit device. While inserting each attenuator, (1) ensure that the entire light beam passes through the attenuator, (2) minimize interference from reflected light, and (3) leave the attenuator in place for at least two times the shortest recording interval on the COMS data recorder. Make a total of five nonconsecutive readings for each attenuator. At the end of the test, correlate each attenuator insertion to the corresponding value from the data recorder. Subtract the single-pass calibration attenuator values corrected to the stack exit conditions from the COMS responses. Calculate the arithmetic mean difference, standard deviation, and confidence coefficient of the five measurements value using equations 1–3, 1–4, and 1–5 of this method. Calculate the calibration error as the sum of the absolute value of the mean difference and the 95 percent confidence coefficient for each of the three test attenuators using equation 1–6 of this method. Report the calibration error test results for each of the three attenuators.
 (iii) System Response Time Check. Using a high-level calibration attenuator, alternately insert the filter five times and remove it from the external audit device. For each filter insertion and removal, measure the amount of time required for the COMS to display 95 percent of the step change in opacity on the COMS data recorder. For the upscale response time, measure the time from insertion to display of 95 percent of the final, steady upscale reading. For the downscale response time, measure the time from removal to display 5 percent of the initial upscale reading. Calculate the mean of the five upscale response time measurements and the mean of the five downscale response time measurements. Report both the upscale and downscale response times.
 (iv) Averaging Period Calculation and Recording Check. After the calibration error check, conduct a check of the averaging period calculation (e.g., 6-minute integrated average). Consecutively insert each of the calibration error check attenuators (low, mid, and high-level) into the external audit device for a period of two times the averaging period plus 1 minute (e.g., 13 minutes for a 6-minute averaging period). Compare the path length corrected opacity value of each attenuator to the valid average value calculated by the COMS data recording device for that attenuator.
 (4) Operational Test Period. Before conducting the operational testing, you must have successfully completed the field audit tests described in sections 8.1(3)(i) through 8.1(3)(iv). Then, you operate the COMS for an initial 168-hour test period while the source is operating under normal operating conditions. If normal operations contain routine source shutdowns, include the source's down periods in the 168-hour operational test period. However, you must ensure that the following minimum source operating time is included in the operational test period: (1) For a batch operation, the operational test period must include at least one full cycle of batch operation during the 168-hour period unless the batch operation is longer than 168 hours or (2) for continuous operating processes, the unit must be operating for at least 50 percent of the 168-hour period. Except during times of instrument zero and upscale calibration drift checks, you must analyze the effluent gas for opacity and produce a permanent record of the COMS output. During this period, you may not perform unscheduled maintenance, repair, or adjustment to the COMS. Automatic zero and calibration adjustments (i.e., intrinsic adjustments), made by the COMS without operator intervention or initiation, are allowable at any time. At the end of the operational test period, verify and record that the COMS optical alignment is still correct. If the test period is interrupted because of COMS failure, record the time when the failure occurred. After the failure is corrected, you restart the 168-hour period and tests from the beginning (0-hour). During the operational test period, perform the following test procedures:
-(i) Zero Calibration Drift Test. At the outset of the 168-hour operational test period and at each 24-hour interval, the automatic calibration check system must initiate the simulated zero device to allow the zero drift to be determined. Record the COMS response to the simulated zero device. After each 24-hour period, subtract the COMS zero reading from the nominal value of the simulated zero device to calculate the 24-hour zero drift (ZD). At the end of the 168-hour period, calculate the arithmetic mean, standard deviation, and confidence coefficient of the 24-hour ZDs using equations 1-3, 1-4, and 1-5. Calculate the sum of the absolute value of the mean and the absolute value of the confidence coefficient using equation 1-6, and report this value as the 24-hour ZD error.
-(ii) Upscale Calibration Drift Test. At each 24-hour interval after the simulated zero device value has been checked, check and record the COMS response to the upscale calibration device. After each 24-hour period, subtract the COMS upscale reading from the nominal value of the upscale calibration device to calculate the 24-hour calibration drift (CD). At the end of the 168-hour period, calculate the arithmetic mean, standard deviation, and confidence coefficient of the 24-hour CD using equations 1-3, 1-4, and 1-5. Calculate the sum of the absolute value of the mean and the absolute value of the confidence coefficient using equation 1-6, and report this value as the 24-hour CD error.
+(i) Zero Calibration Drift Test. At the outset of the 168-hour operational test period and at each 24-hour interval, the automatic calibration check system must initiate the simulated zero device to allow the zero drift to be determined. Record the COMS response to the simulated zero device. After each 24-hour period, subtract the COMS zero reading from the nominal value of the simulated zero device to calculate the 24-hour zero drift (ZD). At the end of the 168-hour period, calculate the arithmetic mean, standard deviation, and confidence coefficient of the 24-hour ZDs using equations 1–3, 1–4, and 1–5. Calculate the sum of the absolute value of the mean and the absolute value of the confidence coefficient using equation 1–6, and report this value as the 24-hour ZD error.
+(ii) Upscale Calibration Drift Test. At each 24-hour interval after the simulated zero device value has been checked, check and record the COMS response to the upscale calibration device. After each 24-hour period, subtract the COMS upscale reading from the nominal value of the upscale calibration device to calculate the 24-hour calibration drift (CD). At the end of the 168-hour period, calculate the arithmetic mean, standard deviation, and confidence coefficient of the 24-hour CD using equations 1–3, 1–4, and 1–5. Calculate the sum of the absolute value of the mean and the absolute value of the confidence coefficient using equation 1–6, and report this value as the 24-hour CD error.
 (5) Retesting. If the COMS fails to meet the specifications for the tests conducted under the operational test period, make the necessary corrections and restart the operational test period. Depending on the opinion of the enforcing agency, you may have to repeat some or all of the field audit tests.
 8.2 What are the responsibilities of the Opacity Monitor Manufacturer?
 You, the manufacturer, must carry out the following activities:
-(1) Conduct the verification procedures for design specifications in section 6 of ASTM D6216-12.
-(2) Conduct the verification procedures for performance specifications in section 7 of ASTM D6216-12.
-(3) Provide to the owner or operator, a report of the opacity monitor's conformance to the design and performance specifications required in sections 6 and 7 of ASTM D6216-12 in accordance with the reporting requirements of section 9 in ASTM D6216-12.
-9.0 What quality control measures are required by PS-1?
-Opacity monitor manufacturers must initiate a quality program following the requirements of ASTM D6216-12, section 8. The quality program must include (1) a quality system and (2) a corrective action program.
+(1) Conduct the verification procedures for design specifications in section 6 of ASTM D6216–20.
+(2) Conduct the verification procedures for performance specifications in section 7 of ASTM D6216–20.
+(3) Provide to the owner or operator a report of the opacity monitor's conformance to the design and performance specifications required in sections 6 and 7 of ASTM D6216–20 in accordance with the reporting requirements of section 9 in ASTM D6216–20.
+9.0 What quality control measures are required by PS–1?
+Opacity monitor manufacturers must initiate a quality program following the requirements of ASTM D6216–20, section 8. The quality program must include (1) a quality system and (2) a corrective action program.
 10.0 Calibration and Standardization [Reserved]
 11.0 Analytical Procedure [Reserved]
-12.0 What Calculations Are Needed for PS-1?
+12.0 What Calculations Are Needed for PS–1?
 12.1 Desired Attenuator Values. Calculate the desired attenuator value corrected to the emission outlet pathlength as follows:
-ER10AU00.008
+ER29MR23.007
 Where:
 OP 1 = Nominal opacity value of required low-, mid-, or high-range calibration attenuators.
-OP 2 = Desired attenuator opacity value from ASTM D6216-12, section 7.5 at the opacity limit required by the applicable subpart.
+OP 2 = Desired attenuator opacity value from ASTM D6216–20, section 7.5 at the opacity limit required by the applicable subpart of this part.
 L 1 = Monitoring pathlength.
 L 2 = Emission outlet pathlength.
 12.2 Luminous Transmittance Value of a Filter. Calculate the luminous transmittance of a filter as follows:
@@ -127,7 +127,7 @@ S d = Standard deviation of a data set.
 ER10AU00.013
 Where:
 CC = Confidence coefficient
-t 0.975 = t − value (see table 1-2).
+t 0.975 = t − value (see table 1–2).
 12.6 Calibration Error. Calculate the error (calibration error, zero drift error, and calibration drift error) as follows:
 ER10AU00.014
 Where:
@@ -150,9 +150,9 @@ L i = The specified wavelength at which the response g i is calculated at 20 nm 
 g i = The individual response value at L i.
 13.0 What Specifications Does a COMS Have to Meet for Certification?
 A COMS must meet the following design, manufacturer's performance, and field audit performance specifications:
-Note: If the initial certification of the opacity monitor occurred before November 14, 2018 using D6216-98, D6216-03, or D6216-07, it is not necessary to recertify using D6216-12.A. COMS must meet the following design, manufacturer's performance, and field audit performance specifications.
-13.1 Design Specifications. The opacity monitoring equipment must comply with the design specifications of ASTM D6216-12.
-13.2 Manufacturer's Performance Specifications. The opacity monitor must comply with the manufacturer's performance specifications of ASTM D6216-12.
+Note: If the initial certification of the opacity monitor occurred before November 14, 2018 using D6216–98, D6216–03, or D6216–07, it is not necessary to recertify using D6216–12.A. COMS must meet the following design, manufacturer's performance, and field audit performance specifications.
+13.1 Design Specifications. The opacity monitoring equipment must comply with the design specifications of ASTM D6216–20.
+13.2 Manufacturer's Performance Specifications. The opacity monitor must comply with the manufacturer's performance specifications of ASTM D6216–20.
 13.3 Field Audit Performance Specifications. The installed COMS must comply with the following performance specifications:
 (1) Optical Alignment. Objectively indicate proper alignment relative to reference marks (e.g., bull's-eye) or conditions.
 (2) Calibration Error. The calibration error must be ≤3 percent opacity for each of the three calibration attenuators.
@@ -163,17 +163,17 @@ Note: If the initial certification of the opacity monitor occurred before Novemb
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
 16.0 Which references are relevant to this method?
-1. Experimental Statistics. Department of Commerce. National Bureau of Standards Handbook 91. Paragraph 3-3.1.4. 1963. 3-31 p.
-2. Performance Specifications for Stationary Source Monitoring Systems for Gases and Visible Emissions, EPA-650/2-74-013, January 1974, U. S. Environmental Protection Agency, Research Triangle Park, NC.
-3. Koontz, E.C., Walton, J. Quality Assurance Programs for Visible Emission Evaluations. Tennessee Division of Air Pollution Control. Nashville, TN. 78th Meeting of the Air Pollution Control Association. Detroit, MI. June 16-21, 1985.
-4. Evaluation of Opacity CEMS Reliability and Quality Assurance Procedures. Volume 1. U. S. Environmental Protection Agency. Research Triangle Park, NC. EPA-340/1-86-009a.
+1. Experimental Statistics. Department of Commerce. National Bureau of Standards Handbook 91. Paragraph 3–3.1.4. 1963. 3–31 p.
+2. Performance Specifications for Stationary Source Monitoring Systems for Gases and Visible Emissions, EPA–650/2–74–013, January 1974, U. S. Environmental Protection Agency, Research Triangle Park, NC.
+3. Koontz, E.C., Walton, J. Quality Assurance Programs for Visible Emission Evaluations. Tennessee Division of Air Pollution Control. Nashville, TN. 78th Meeting of the Air Pollution Control Association. Detroit, MI. June 16–21, 1985.
+4. Evaluation of Opacity CEMS Reliability and Quality Assurance Procedures. Volume 1. U. S. Environmental Protection Agency. Research Triangle Park, NC. EPA–340/1–86–009a.
 5. Nimeroff, I. "Colorimetry Precision Measurement and Calibration." NBS Special Publication 300. Volume 9. June 1972.
-6. Technical Assistance Document: Performance Audit Procedures for Opacity Monitors. U. S. Environmental Protection Agency. Research Triangle Park, NC. EPA-600/8-87-025. April 1987.
-7. Technical Assistance Document: Performance Audit Procedures for Opacity Monitors. U. S. Environmental Protection Agency. Research Triangle Park, NC. EPA-450/4-92-010. April 1992.
-8. ASTM D6216-12: Standard Practice for Opacity Monitor Manufacturers to Certify Conformance with Design and Performance Specifications. ASTM. October 2012.
+6. Technical Assistance Document: Performance Audit Procedures for Opacity Monitors. U. S. Environmental Protection Agency. Research Triangle Park, NC. EPA–600/8–87–025. April 1987.
+7. Technical Assistance Document: Performance Audit Procedures for Opacity Monitors. U. S. Environmental Protection Agency. Research Triangle Park, NC. EPA–450/4–92–010. April 1992.
+8. ASTM D6216–20: Standard Practice for Opacity Monitor Manufacturers to Certify Conformance with Design and Performance Specifications. American Society for Testing and Materials (ASTM). September 2020.
 17.0 What tables and diagrams are relevant to this method?
 17.1 Reference Tables.
-Table 1-1—Source C, Human Eye Response Factor
+Table 1–1—Source C, Human Eye Response Factor
 Wavelength nanometers | Weighting factor a | Wavelength nanometers | Weighting factor a
 380 | 0 | 590 | 6627
 390 | 0 | 600 | 5316
@@ -197,7 +197,7 @@ Wavelength nanometers | Weighting factor a | Wavelength nanometers | Weighting f
 570 | 9147 | 780 | 0
 580 | 7992 | |
 1 Total of weighting factors = 100,000.
-Table 1-2 T Values
+Table 1–2 T Values
 n a | t 0.975 | n a | t 0.975 | n a | t 0.975
 2 | 12.706 | 7 | 2.447 | 12 | 2.201
 3 | 4.303 | 8 | 2.365 | 13 | 2.179
@@ -214,8 +214,8 @@ Performance Specification 2—Specifications and Test Procedures for SO 2 and NO
 1.0 Scope and Application
 1.1 Analytes
 Analyte | CAS Nos.
-Sulfur Dioxide (SO 2) | 7449-09-5
-Nitrogen Oxides (NO X) | 10102-44-0 (NO 2), 10024-97-2 (NO)
+Sulfur Dioxide (SO 2) | 7449–09–5
+Nitrogen Oxides (NO X) | 10102–44–0 (NO 2), 10024–97–2 (NO)
 1.2 Applicability.
 1.2.1 This specification is for evaluating the acceptability of SO 2 and NO X continuous emission monitoring systems (CEMS) at the time of installation or soon after and whenever specified in the regulations. The CEMS may include, for certain stationary sources, a diluent (O 2 or CO 2) monitor.
 1.2.2 This specification is not designed to evaluate the installed CEMS performance over an extended period of time nor does it identify specific calibration techniques and other auxiliary procedures to assess the CEMS performance. The source owner or operator is responsible to calibrate, maintain, and operate the CEMS properly. The Administrator may require, under section 114 of the Act, the operator to conduct CEMS performance evaluations at other times besides the initial test to evaluate the CEMS performance. See 40 CFR Part 60, § 60.13(c).
@@ -257,7 +257,7 @@ The procedures required under this performance specification may involve hazardo
 8.3 Calibration Drift Test Procedure.
 8.3.1 CD Test Period. While the affected facility is operating, determine the magnitude of the CD once each day (at 24-hour intervals) for 7 consecutive calendar days according to the procedure given in sections 8.3.2 through 8.3.4. Alternatively, the CD test may be conducted over 7 consecutive unit operating days.
 8.3.2 The purpose of the CD measurement is to verify the ability of the CEMS to conform to the established CEMS calibration used for determining the emission concentration or emission rate. Therefore, if periodic automatic or manual adjustments are made to the CEMS zero and calibration settings, conduct the CD test immediately before these adjustments, or conduct it in such a way that the CD can be determined.
-8.3.3 Conduct the CD test at the two points specified in section 6.1.2. Introduce to the CEMS the reference gases, gas cells, or optical filters (these need not be certified). Record the CEMS response and subtract this value from the reference value (see example data sheet in Figure 2-1).
+8.3.3 Conduct the CD test at the two points specified in section 6.1.2 of this method. Introduce to the CEMS the reference gases, gas cells, or optical filters (these need not be certified). When using reference gases, introduce the reference gas prior to any sample conditioning or filtration equipment and ensure that it passes through all filters, scrubbers, conditioners, and other monitor components used during normal sampling. The reference gas should pass through as much of the sampling probe as practical. Record the CEMS response and subtract this value from the reference value (see example data sheet in figure 2–1 of this method).
 8.4 Relative Accuracy Test Procedure.
 8.4.1 RA Test Period. Conduct the RA test according to the procedure given in sections 8.4.2 through 8.4.6 while the affected facility is operating at more than 50 percent of normal load, or as specified in an applicable subpart. The RA test may be conducted during the CD test period.
 8.4.2 Reference Methods. Unless otherwise specified in an applicable subpart of the regulations, Methods 3B, 4, 6, and 7, or their approved alternatives, are the reference methods for diluent (O 2 and CO 2), moisture, SO 2, and NO X, respectively.
@@ -277,9 +277,9 @@ Note: More than nine sets of RM tests may be performed. If this option is chosen
 11.0 Analytical Procedure
 Sample collection and analysis are concurrent for this Performance Specification (see section 8.0). Refer to the RM for specific analytical procedures.
 12.0 Calculations and Data Analysis
-Summarize the results on a data sheet similar to that shown in Figure 2-2 (in section 18.0).
+Summarize the results on a data sheet similar to that shown in Figure 2–2 (in section 18.0).
 12.1 All data from the RM and CEMS must be on a consistent dry basis and, as applicable, on a consistent diluent basis and in the units of the emission standard. Correct the RM and CEMS data for moisture and diluent as follows:
-12.1.1 Moisture Correction (as applicable). Correct each wet RM run for moisture with the corresponding Method 4 data; correct each wet CEMS run using the corresponding CEMS moisture monitor date using Equation 2-1.
+12.1.1 Moisture Correction (as applicable). Correct each wet RM run for moisture with the corresponding Method 4 data; correct each wet CEMS run using the corresponding CEMS moisture monitor date using Equation 2–1.
 ER17OC00.453
 12.1.2 Correction to Units of Standard (as applicable). Correct each dry RM run to the units of the emission standard with the corresponding Method 3B data; correct each dry CEMS run using the corresponding CEMS diluent monitor data as follows:
 12.1.2.1 Correct to Diluent Basis. The following is an example of concentration (ppm) correction to 7% oxygen.
@@ -296,21 +296,21 @@ ER17OC00.457
 12.4 Confidence Coefficient. Calculate the 2.5 percent error confidence coefficient (one-tailed), CC, as follows:
 ER17OC00.458
 Where:
-t 0.975 = t-value (see Table 2-1).
-12.5 Relative Accuracy. Calculate the RA of a set of data as follows:
-ER17OC00.459
+t 0.975 = t-value (see Table 2–1).
+12.5 Relative Accuracy. Calculate the RA, expressed as a percentage, of a set of data as follows:
+ER29MR23.008
 Where:
-|d | = Absolute value of the mean differences (from Equation 2-3).
-|CC| = Absolute value of the confidence coefficient (from Equation 2-3).
-RM = Average RM value. In cases where the average emissions for the test are less than 50 percent of the applicable standard, substitute the emission standard value in the denominator of Eq. 2-6 in place of RM. In all other cases, use RM.
+| d | = Absolute value of the mean differences (from equation 2–3 of this method).
+| CC | = Absolute value of the confidence coefficient (from equation 2–3 of this method).
+RM = Average RM value. In cases where the average emissions for the test are less than 50 percent of the applicable emission standard, substitute the applicable emission standard value in the denominator of equation 2–6 of this method in place of the average RM value. In all other cases, use RM.
 13.0 Method Performance
 13.1 Calibration Drift Performance Specification. The CEMS calibration must not drift or deviate from the reference value of the gas cylinder, gas cell, or optical filter by more than 2.5 percent of the span value. If the CEMS includes pollutant and diluent monitors, the CD must be determined separately for each in terms of concentrations (See Performance Specification 3 for the diluent specifications), and none of the CDs may exceed the specification.
 13.2 Relative Accuracy Performance Specification.
 | Calculate... | RA criteria (%)
-If average emissions during the RATA are ≥50% of emission standard | Use Eq. 2-6, with RM in the denominator | ≤20.0
-If average emissions during the RATA are <50% of emission standard | Use Eq. 2-6, emission standard in the denominator | ≤10.0
-For SO 2 emission standards ≤130 but ≥86 ng/J (0.30 and 0.20 lb/million Btu) | Use Eq. 2-6, emission standard in the denominator | ≤15.0
-For SO 2 emission standards <86 ng/J (0.20 lb/million Btu) | Use Eq. 2-6, emission standard in the denominator | ≤20.0
+If average emissions during the RATA are ≥50% of emission standard | Use Eq. 2–6, with RM in the denominator | ≤20.0
+If average emissions during the RATA are <50% of emission standard | Use Eq. 2–6, emission standard in the denominator | ≤10.0
+For SO 2 emission standards ≤130 but ≥86 ng/J (0.30 and 0.20 lb/million Btu) | Use Eq. 2–6, emission standard in the denominator | ≤15.0
+For SO 2 emission standards <86 ng/J (0.20 lb/million Btu) | Use Eq. 2–6, emission standard in the denominator | ≤20.0
 13.3 For instruments that use common components to measure more than one effluent gas constituent, all channels must simultaneously pass the RA requirement, unless it can be demonstrated that any adjustments made to one channel did not affect the others.
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
@@ -318,7 +318,7 @@ For SO 2 emission standards <86 ng/J (0.20 lb/million Btu) | Use Eq. 2-6, emissi
 Paragraphs 60.13(j)(1) and (2) of 40 CFR part 60 contain criteria for which the reference method procedure for determining relative accuracy (see section 8.4 of this Performance Specification) may be waived and the following procedure substituted.
 16.1 Conduct a complete CEMS status check following the manufacturer's written instructions. The check should include operation of the light source, signal receiver, timing mechanism functions, data acquisition and data reduction functions, data recorders, mechanically operated functions (mirror movements, zero pipe operation, calibration gas valve operations, etc.), sample filters, sample line heaters, moisture traps, and other related functions of the CEMS, as applicable. All parts of the CEMS shall be functioning properly before proceeding to the alternative RA procedure.
 16.2 Alternative RA Procedure.
-16.2.1 Challenge each monitor (both pollutant and diluent, if applicable) with cylinder gases of known concentrations or calibration cells that produce known responses at two measurement points within the ranges shown in Table 2-2 (Section 18).
+16.2.1 Challenge each monitor (both pollutant and diluent, if applicable) with cylinder gases of known concentrations or calibration cells that produce known responses at two measurement points within the ranges shown in Table 2–2 (Section 18).
 16.2.2 Use a separate cylinder gas (for point CEMS only) or calibration cell (for path CEMS or where compressed gas cylinders can not be used) for measurement points 1 and 2. Challenge the CEMS and record the responses three times at each measurement point. The Administrator may allow dilution of cylinder gas using the performance criteria in Test Method 205, 40 CFR Part 51, Appendix M. Use the average of the three responses in determining relative accuracy.
 16.2.3 Operate each monitor in its normal sampling mode as nearly as possible. When using cylinder gases, pass the cylinder gas through all filters, scrubbers, conditioners, and other monitor components used during normal sampling and as much of the sampling probe as practical. When using calibration cells, the CEMS components used in the normal sampling mode should not be by-passed during the RA determination. These include light sources, lenses, detectors, and reference cells. The CEMS should be challenged at each measurement point for a sufficient period of time to assure adsorption-desorption reactions on the CEMS surfaces have stabilized.
 16.2.4 Use cylinder gases that have been certified by comparison to National Institute of Standards and Technology (NIST) gaseous standard reference material (SRM) or NIST/EPA approved gas manufacturer's certified reference material (CRM) (See Reference 2 in section 17.0) following EPA Traceability Protocol Number 1 (See Reference 3 in section 17.0). As an alternative to Protocol Number 1 gases, CRM's may be used directly as alternative RA cylinder gases. A list of gas manufacturers that have prepared approved CRM's is available from EPA at the address shown in Reference 2. Procedures for preparation of CRM's are described in Reference 2.
@@ -333,12 +333,12 @@ AC = The known concentration/response of the cylinder gas or calibration cell.
 RA= d; ≤0.7 percent O 2 or CO 2, as applicable.
 Note: Waiver of the relative accuracy test in favor of the alternative RA procedure does not preclude the requirements to complete the CD tests nor any other requirements specified in an applicable subpart for reporting CEMS data and performing CEMS drift checks or audits.
 17.0 References
-1. Department of Commerce. Experimental Statistics. Handbook 91. Washington, D.C. p. 3-31, paragraphs 3-3.1.4.
-2. "A Procedure for Establishing Traceability of Gas Mixtures to Certain National Bureau of Standards Standard Reference Materials." Joint publication by NBS and EPA. EPA 600/7-81-010. Available from U.S. Environmental Protection Agency, Quality Assurance Division (MD-77), Research Triangle Park, North Carolina 27711.
-3. "Traceability Protocol for Establishing True Concentrations of Gases Used for Calibration and Audits of Continuous Source Emission Monitors. (Protocol Number 1)." June 1978. Protocol Number 1 is included in the Quality Assurance Handbook for Air Pollution Measurement Systems, Volume III, Stationary Source Specific Methods. EPA-600/4-77-027b. August 1977.
-4. "Gaseous Continuous Emission Monitoring Systems—Performance Specification Guidelines for SO 2, NO X, CO 2, O 2, and TRS." EPA-450/3-82-026. Available from the U.S. EPA, Emission Measurement Center, Emission Monitoring and Data Analysis Division (MD-19), Research Triangle Park, North Carolina 27711.
+1. Department of Commerce. Experimental Statistics. Handbook 91. Washington, D.C. p. 3–31, paragraphs 3–3.1.4.
+2. "A Procedure for Establishing Traceability of Gas Mixtures to Certain National Bureau of Standards Standard Reference Materials." Joint publication by NBS and EPA. EPA 600/7–81–010. Available from U.S. Environmental Protection Agency, Quality Assurance Division (MD–77), Research Triangle Park, North Carolina 27711.
+3. "Traceability Protocol for Establishing True Concentrations of Gases Used for Calibration and Audits of Continuous Source Emission Monitors. (Protocol Number 1)." June 1978. Protocol Number 1 is included in the Quality Assurance Handbook for Air Pollution Measurement Systems, Volume III, Stationary Source Specific Methods. EPA–600/4–77–027b. August 1977.
+4. "Gaseous Continuous Emission Monitoring Systems—Performance Specification Guidelines for SO 2, NO X, CO 2, O 2, and TRS." EPA–450/3–82–026. Available from the U.S. EPA, Emission Measurement Center, Emission Monitoring and Data Analysis Division (MD–19), Research Triangle Park, North Carolina 27711.
 18.0 Tables, Diagrams, Flowcharts, and Validation Data
-Table 2-1— t -Values
+Table 2–1— t -Values
 n a | t 0.975 | n a | t 0.975 | n a | t 0.975
 2 | 12.706 | 7 | 2.447 | 12 | 2.201
 3 | 4.303 | 8 | 2.365 | 13 | 2.179
@@ -346,10 +346,10 @@ n a | t 0.975 | n a | t 0.975 | n a | t 0.975
 5 | 2.776 | 10 | 2.262 | 15 | 2.145
 6 | 2.571 | 11 | 2.228 | 16 | 2.131
 a The values in this table are already corrected for n−1 degrees of freedom. Use n equal to the number of individual values.
-Table 2-2—Measurement Range
+Table 2–2—Measurement Range
 Measurement point | Pollutant monitor | Diluent monitor for | CO 2 | O 2
-1 | 20-30% of span value | 5-8% by volume | 4-6% by volume.
-2 | 50-60% of span value | 10-14% by volume | 8-12% by volume.
+1 | 20–30% of span value | 5–8% by volume | 4–6% by volume.
+2 | 50–60% of span value | 10–14% by volume | 8–12% by volume.
 ER30AU16.014
 ER30AU16.015
 a For Steam generators.
@@ -359,8 +359,8 @@ Performance Specification 3—Specifications and Test Procedures for O 2 and CO 
 1.0 Scope and Application
 1.1 Analytes.
 Analytes | CAS No.
-Carbon Dioxide (CO 2) | 124-38-9
-Oxygen (O 2) | 7782-44-7
+Carbon Dioxide (CO 2) | 124–38–9
+Oxygen (O 2) | 7782–44–7
 1.2 Applicability.
 1.2.1 This specification is for evaluating acceptability of O 2 and CO 2 continuous emission monitoring systems (CEMS) at the time of installation or soon after and whenever specified in an applicable subpart of the regulations. This specification applies to O 2 or CO 2 monitors that are not included under Performance Specification 2 (PS 2).
 1.2.2 This specification is not designed to evaluate the installed CEMS performance over an extended period of time, nor does it identify specific calibration techniques and other auxiliary procedures to assess the CEMS performance. The source owner or operator, is responsible to calibrate, maintain, and operate the CEMS properly. The Administrator may require, under section 114 of the Act, the operator to conduct CEMS performance evaluations at other times besides the initial test to evaluate the CEMS performance. See 40 CFR part 60, section 60.13(c).
@@ -384,12 +384,12 @@ Same as section 7.0 of PS2.
 11.0 Analytical Procedure
 Sample collection and analyses are concurrent for this performance specification (see section 8). Refer to the RM for specific analytical procedures.
 12.0 Calculations and Data Analysis
-Calculate the RA using equations 3-1 and 3-2. Summarize the results on a data sheet similar to that shown in Figure 2.2 of PS2.
+Calculate the RA using equations 3–1 and 3–2. Summarize the results on a data sheet similar to that shown in Figure 2.2 of PS2.
 ER14NO18.062
 ER14NO18.073
 13.0 Method Performance
 13.1 Calibration Drift Performance Specification. The CEMS calibration must not drift by more than 0.5 percent O 2 or CO 2 from the reference value of the gas, gas cell, or optical filter.
-13.2 CEMS Relative Accuracy Performance Specification. The RA of the CEMS must be no greater than 20.0 percent of the mean value of the reference method (RM) data when calculated using equation 3-1. The results are also acceptable if the result of Equation 3-2 is less than or equal to 1.0 percent O 2 (or CO 2).
+13.2 CEMS Relative Accuracy Performance Specification. The RA of the CEMS must be no greater than 20.0 percent of the mean value of the reference method (RM) data when calculated using equation 3–1. The results are also acceptable if the result of Equation 3–2 is less than or equal to 1.0 percent O 2 (or CO 2).
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
 16.0 References
@@ -399,7 +399,7 @@ Performance Specification 4—Specifications and Test Procedures for Carbon Mono
 1.0 Scope and Application
 1.1 Analytes.
 Analyte | CAS No.
-Carbon Monoxide (CO) | 630-08-0
+Carbon Monoxide (CO) | 630–08–0
 1.2 Applicability.
 1.2.1 This specification is for evaluating the acceptability of carbon monoxide (CO) continuous emission monitoring systems (CEMS) at the time of installation or soon after and whenever specified in an applicable subpart of the regulations. This specification was developed primarily for CEMS having span values of 1,000 ppmv CO.
 1.2.2 This specification is not designed to evaluate the installed CEMS performance over an extended period of time nor does it identify specific calibration techniques and other auxiliary procedures to assess CEMS performance. The source owner or operator, is responsible to calibrate, maintain, and operate the CEMS. The Administrator may require, under section 114 of the Act, the source owner or operator to conduct CEMS performance evaluations at other times besides the initial test to evaluate the CEMS performance. See 40 CFR part 60, section 60.13(c).
@@ -431,17 +431,17 @@ Same as section 12.0 of PS 2.
 15.0 Waste Management [Reserved]
 16.0 Alternative Procedures [Reserved]
 17.0 References
-1. Ferguson, B.B., R.E. Lester, and W.J. Mitchell. Field Evaluation of Carbon Monoxide and Hydrogen Sulfide Continuous Emission Monitors at an Oil Refinery. U.S. Environmental Protection Agency. Research Triangle Park, N.C. Publication No. EPA-600/4-82-054. August 1982. 100 p.
-2. "Gaseous Continuous Emission Monitoring Systems—Performance Specification Guidelines for SO 2, NO X, CO 2, O 2, and TRS." EPA-450/3-82-026. U.S. Environmental Protection Agency, Technical Support Division (MD-19), Research Triangle Park, NC 27711.
-3. Repp, M. Evaluation of Continuous Monitors for Carbon Monoxide in Stationary Sources. U.S. Environmental Protection Agency. Research Triangle Park, N.C. Publication No. EPA-600/2-77-063. March 1977. 155 p.
-4. Smith, F., D.E. Wagoner, and R.P. Donovan. Guidelines for Development of a Quality Assurance Program: Volume VIII—Determination of CO Emissions from Stationary Sources by NDIR Spectrometry. U.S. Environmental Protection Agency. Research Triangle Park, N.C. Publication No. EPA-650/4-74-005-h. February 1975. 96 p.
+1. Ferguson, B.B., R.E. Lester, and W.J. Mitchell. Field Evaluation of Carbon Monoxide and Hydrogen Sulfide Continuous Emission Monitors at an Oil Refinery. U.S. Environmental Protection Agency. Research Triangle Park, N.C. Publication No. EPA–600/4–82–054. August 1982. 100 p.
+2. "Gaseous Continuous Emission Monitoring Systems—Performance Specification Guidelines for SO 2, NO X, CO 2, O 2, and TRS." EPA–450/3–82–026. U.S. Environmental Protection Agency, Technical Support Division (MD–19), Research Triangle Park, NC 27711.
+3. Repp, M. Evaluation of Continuous Monitors for Carbon Monoxide in Stationary Sources. U.S. Environmental Protection Agency. Research Triangle Park, N.C. Publication No. EPA–600/2–77–063. March 1977. 155 p.
+4. Smith, F., D.E. Wagoner, and R.P. Donovan. Guidelines for Development of a Quality Assurance Program: Volume VIII—Determination of CO Emissions from Stationary Sources by NDIR Spectrometry. U.S. Environmental Protection Agency. Research Triangle Park, N.C. Publication No. EPA–650/4–74–005–h. February 1975. 96 p.
 18.0 Tables, Diagrams, Flowcharts, and Validation Data
 Same as section 18.0 of PS 2.
 Performance Specification 4A—Specifications and Test Procedures for Carbon Monoxide Continuous Emission Monitoring Systems in Stationary Sources
 1.0 Scope and Application
 1.1 Analytes.
 Analyte | CAS No.
-Carbon Monoxide (CO) | 630-80-0
+Carbon Monoxide (CO) | 630–80–0
 1.2 Applicability.
 1.2.1 This specification is for evaluating the acceptability of carbon monoxide (CO) continuous emission monitoring systems (CEMS) at the time of installation or soon after and whenever specified in an applicable subpart of the regulations. This specification was developed primarily for CEMS that comply with low emission standards (less than 200 ppmv).
 1.2.2 This specification is not designed to evaluate the installed CEMS performance over an extended period of time nor does it identify specific calibration techniques and other auxiliary procedures to assess CEMS performance. The source owner or operator is responsible to calibrate, maintain, and operate the CEMS. The Administrator may require, under section 114 of the Act, the source owner or operator to conduct CEMS performance evaluations at other times besides the initial test to evaluate CEMS performance. See 40 CFR Part 60, section 60.13(c).
@@ -484,48 +484,88 @@ Same as section 17 of PS 4.
 18.0 Tables, Diagrams, Flowcharts, and Validation Data
 Same as section 18.0 of PS 2.
 Performance Specification 4B—Specifications and Test Procedures for Carbon Monoxide and Oxygen Continuous Monitoring Systems in Stationary Sources
-a. Applicability and Principle
-1.1 Applicability. a. This specification is to be used for evaluating the acceptability of carbon monoxide (CO) and oxygen (O 2) continuous emission monitoring systems (CEMS) at the time of or soon after installation and whenever specified in the regulations. The CEMS may include, for certain stationary sources, (a) flow monitoring equipment to allow measurement of the dry volume of stack effluent sampled, and (b) an automatic sampling system.
-b. This specification is not designed to evaluate the installed CEMS' performance over an extended period of time nor does it identify specific calibration techniques and auxiliary procedures to assess the CEMS' performance. The source owner or operator, however, is responsible to properly calibrate, maintain, and operate the CEMS. To evaluate the CEMS' performance, the Administrator may require, under section 114 of the Act, the operator to conduct CEMS performance evaluations at times other than the initial test.
-c. The definitions, installation and measurement location specifications, test procedures, data reduction procedures, reporting requirements, and bibliography are the same as in PS 3 (for O 2) and PS 4A (for CO) except as otherwise noted below.
-1.2 Principle. Installation and measurement location specifications, performance specifications, test procedures, and data reduction procedures are included in this specification. Reference method tests, calibration error tests, calibration drift tests, and interferant tests are conducted to determine conformance of the CEMS with the specification.
-b. Definitions
-2.1 Continuous Emission Monitoring System (CEMS). This definition is the same as PS 2 section 2.1 with the following addition. A continuous monitor is one in which the sample to be analyzed passes the measurement section of the analyzer without interruption.
-2.2 Response Time. The time interval between the start of a step change in the system input and when the pollutant analyzer output reaches 95 percent of the final value.
-2.3 Calibration Error (CE). The difference between the concentration indicated by the CEMS and the known concentration generated by a calibration source when the entire CEMS, including the sampling interface is challenged. A CE test procedure is performed to document the accuracy and linearity of the CEMS over the entire measurement range.
-3. Installation and Measurement Location Specifications
-3.1 The CEMS Installation and Measurement Location. This specification is the same as PS 2 section 3.1 with the following additions. Both the CO and O 2 monitors should be installed at the same general location. If this is not possible, they may be installed at different locations if the effluent gases at both sample locations are not stratified and there is no in-leakage of air between sampling locations.
-3.1.1 Measurement Location. Same as PS 2 section 3.1.1.
-3.1.2 Point CEMS. The measurement point should be within or centrally located over the centroidal area of the stack or duct cross section.
-3.1.3 Path CEMS. The effective measurement path should: (1) Have at least 70 percent of the path within the inner 50 percent of the stack or duct cross sectional area, or (2) be centrally located over any part of the centroidal area.
-3.2 Reference Method (RM) Measurement Location and Traverse Points. This specification is the same as PS 2 section 3.2 with the following additions. When pollutant concentration changes are due solely to diluent leakage and CO and O 2 are simultaneously measured at the same location, one half diameter may be used in place of two equivalent diameters.
-3.3 Stratification Test Procedure. Stratification is defined as the difference in excess of 10 percent between the average concentration in the duct or stack and the concentration at any point more than 1.0 meter from the duct or stack wall. To determine whether effluent stratification exists, a dual probe system should be used to determine the average effluent concentration while measurements at each traverse point are being made. One probe, located at the stack or duct centroid, is used as a stationary reference point to indicate change in the effluent concentration over time. The second probe is used for sampling at the traverse points specified in Method 1 (40 CFR part 60 appendix A). The monitoring system samples sequentially at the reference and traverse points throughout the testing period for five minutes at each point.
-d. Performance and Equipment Specifications
-4.1 Data Recorder Scale. For O 2, same as specified in PS 3, except that the span must be 25 percent. The span of the O 2 may be higher if the O 2 concentration at the sampling point can be greater than 25 percent. For CO, same as specified in PS 4A, except that the low-range span must be 200 ppm and the high range span must be 3000 ppm. In addition, the scale for both CEMS must record all readings within a measurement range with a resolution of 0.5 percent.
-4.2 Calibration Drift. For O 2, same as specified in PS 3. For CO, the same as specified in PS 4A except that the CEMS calibration must not drift from the reference value of the calibration standard by more than 3 percent of the span value on either the high or low range.
-4.3 Relative Accuracy (RA). For O 2, same as specified in PS 3. For CO, the same as specified in PS 4A.
-4.4 Calibration Error (CE). The mean difference between the CEMS and reference values at all three test points (see Table I) must be no greater than 5 percent of span value for CO monitors and 0.5 percent for O 2 monitors.
-4.5 Response Time. The response time for the CO or O 2 monitor must not exceed 240 seconds.
-e. Performance Specification Test Procedure
-5.1 Calibration Error Test and Response Time Test Periods. Conduct the CE and response time tests during the CD test period.
-F. The CEMS Calibration Drift and Response Time Test Procedures
-The response time test procedure is given in PS 4A, and must be carried out for both the CO and O 2 monitors.
-7. Relative Accuracy and Calibration Error Test Procedures
-7.1 Calibration Error Test Procedure. Challenge each monitor (both low and high range CO and O 2) with zero gas and EPA Protocol 1 cylinder gases at three measurement points within the ranges specified in Table I.
-Table I. Calibration Error Concentration Ranges
-Measurement point | CO Low range (ppm) | CO High range (ppm) | O 2 (%)
-1 | 0-40 | 0-600 | 0-2
-2 | 60-80 | 900-1200 | 8-10
-3 | 140-160 | 2100-2400 | 14-16
+1.0 Scope and Application
+1.1. Analytes.
+Analyte | CAS No.
+Carbon Monoxide (CO) | 630–08–0
+Oxygen (O 2) | 7782–44–7
+1.2. Applicability.
+1.2.1. This specification is to be used for evaluating the acceptability of carbon monoxide (CO) and oxygen (O 2) continuous emission monitoring systems (CEMS) at the time of or soon after installation and whenever specified in this part. The CEMS may include, for certain stationary sources, (a) flow monitoring equipment to allow measurement of the dry volume of stack effluent sampled, and (b) an automatic sampling system.
+1.2.2. This specification is not designed to evaluate the installed CEMS' performance over an extended period of time, nor does it identify specific calibration techniques and auxiliary procedures to assess the CEMS' performance. The source owner or operator, however, is responsible to properly calibrate, maintain, and operate the CEMS. To evaluate the CEMS' performance, the Administrator may require, under section 114 of the Act, the operator to conduct CEMS performance evaluations at times other than the initial test.
+1.2.3. The definitions, installation, and measurement location specifications, test procedures, data reduction procedures, reporting requirements, and bibliography are the same as in Performance Specification (PS) 3 (for O 2) and PS 4A (for CO) of this appendix except as otherwise noted in this specification.
+2.0 Summary of Performance Specification
+Installation and measurement location specifications, performance specifications, test procedures, and data reduction procedures are included in this specification. Reference method tests, calibration error tests, calibration drift tests, and interferant tests are conducted to determine conformance of the CEMS with the specification.
+3.0 Definitions
+The definitions are the same as in section 3.0 of PS 2 with the following definitions added:
+3.1. Continuous Emission Monitoring System (CEMS). This definition is the same as section 3.0 of PS 2 with the following addition. A continuous monitor is one in which the sample to be analyzed passes the measurement section of the analyzer without interruption.
+3.2. Response Time (RT). The time interval between the start of a step change in the system input and when the pollutant analyzer output reaches 95 percent of the final value.
+3.3. Calibration Error (CE). The difference between the concentration indicated by the CEMS and the known concentration generated by a calibration source when the entire CEMS, including the sampling interface is challenged. A CE test procedure is performed to document the accuracy and linearity of the CEMS over the entire measurement range.
+4.0 Interferences [Reserved]
+5.0 Safety
+This performance specification may involve hazardous materials, operations, and equipment. This performance specification may not address all of the safety problems associated with its use. It is the responsibility of the user to establish appropriate safety and health practices and determine the applicable regulatory limitations prior to performing this performance specification. The CEMS user's manual should be consulted for specific precautions to be taken with regard to the analytical procedures.
+6.0 Equipment and Supplies
+Same as section 6.0 of PS 2, except for the following:
+6.1 Data Recorder Scale. For O 2, same as specified in PS 3, except that the span must be 25 percent. The span of the O 2 may be higher if the O 2 concentration at the sampling point can be greater than 25 percent. For CO, same as specified in PS 4A, except that the low-range span must be 200 ppm and the high range span must be 3000 ppm. In addition, the scale for both CEMS must record all readings within a measurement range with a resolution of 0.5 percent.
+7.0 Reagents and Standards
+8.0 Sample Collection, Preservation, Storage, and Transport
+8.1. Installation and Measurement Location Specifications.
+8.1.1. The CEMS Installation. This specification is the same as section 8.1.1 of PS 2 with the following additions. Both the CO and O 2 monitors should be installed at the same general location. If this is not possible, they may be installed at different locations if the effluent gases at both sample locations are not stratified and there is no in-leakage of air between sampling locations.
+8.1.2. Measurement Location. Same as section 8.1.2 of PS 2.
+8.1.2.1. Point CEMS. The measurement point should be within or centrally located over the centroidal area of the stack or duct cross section.
+8.1.2.2. Path CEMS. The effective measurement path should: (1) have at least 70 percent of the path within the inner 50 percent of the stack or duct cross sectional area, or (2) be centrally located over any part of the centroidal area.
+8.1.3. Reference Method (RM) Measurement Location and Traverse Points.
+This specification is the same as section 8.1.3 of PS 2 with the following additions. When pollutant concentration changes are due solely to diluent leakage and CO and O 2 are simultaneously measured at the same location, one half diameter may be used in place of two equivalent diameters.
+8.2 Pretest Preparation. Install the CEMS, prepare the RM test site according to the specifications in section 8.1 of this method, and prepare the CEMS for operation according to the manufacturer's written instructions.
+8.3 Stratification Test Procedure. Stratification is defined as the difference in excess of 10 percent between the average concentration in the duct or stack and the concentration at any point more than 1.0 meter from the duct or stack wall. To determine whether effluent stratification exists, a dual probe system should be used to determine the average effluent concentration while measurements at each traverse point are being made. One probe, located at the stack or duct centroid, is used as a stationary reference point to indicate change in the effluent concentration over time. The second probe is used for sampling at the traverse points specified in method 1 in appendix A to this part. The monitoring system samples sequentially at the reference and traverse points throughout the testing period for five minutes at each point.
+8.4 Calibration Drift (CD) Test Procedure. Same as section 8.3 in PS 2.
+Note: The CE and RT tests must be conducted during the CD test period.
+8.5 Calibration Error Test Procedure. Challenge each monitor (both low and high range CO and O 2) with zero gas and EPA Protocol 1 cylinder gases at three measurement points within the ranges specified in table 4B–1 of this method (in section 18.0).
 Operate each monitor in its normal sampling mode as nearly as possible. The calibration gas must be injected into the sample system as close to the sampling probe outlet as practical and should pass through all CEMS components used during normal sampling. Challenge the CEMS three non-consecutive times at each measurement point and record the responses. The duration of each gas injection should be sufficient to ensure that the CEMS surfaces are conditioned.
-7.1.1 Calculations. Summarize the results on a data sheet. Average the differences between the instrument response and the certified cylinder gas value for each gas. Calculate the CE results for the CO monitor according to:
-CE = | d/FS | × 100 (1)
-Where d is the mean difference between the CEMS response and the known reference concentration, and FS is the span value. The CE for the O 2 monitor is the average percent O 2 difference between the O 2 monitor and the certified cylinder gas value for each gas.
-7.2 Relative Accuracy Test Procedure. Follow the RA test procedures in PS 3 (for O 2) section 3 and PS 4A (for CO) section 4.
-7.3 Alternative RA Procedure. Under some operating conditions, it may not be possible to obtain meaningful results using the RA test procedure. This includes conditions where consistent, very low CO emission or low CO emissions interrupted periodically by short duration, high level spikes are observed. It may be appropriate in these circumstances to waive the RA test and substitute the following procedure.
-Conduct a complete CEMS status check following the manufacturer's written instructions. The check should include operation of the light source, signal receiver, timing mechanism functions, data acquisition and data reduction functions, data recorders, mechanically operated functions, sample filters, sample line heaters, moisture traps, and other related functions of the CEMS, as applicable. All parts of the CEMS must be functioning properly before the RA requirement can be waived. The instrument must also successfully passed the CE and CD specifications. Substitution of the alternate procedure requires approval of the Regional Administrator.
-8. Bibliography
-1. 40 CFR Part 266, Appendix IX, section 2, "Performance Specifications for Continuous Emission Monitoring Systems."
+8.6 Response Time Test Procedure. Same as section 8.3 in PS 4A and must be carried out for both the CO and O 2 monitors.
+8.7 Relative Accuracy Test Procedure. Sampling Strategy for Reference Method (RM) Tests, Number of RM Tests, and Correlation of RM and CEMS Data are the same as PS 2, sections 8.4.3, 8.4.4, and 8.4.5, respectively.
+9.0 Quality Control [Reserved]
+10.0 Calibration and Standardization [Reserved]
+11.0 Analytical Procedure
+Sample collection and analysis are concurrent for this performance specification (see section 8.0 of this method). Refer to the RM for specific analytical procedures.
+12.0 Calculation and Data Analysis
+Summarize the results on a data sheet as shown in figure 4B–1 of this method (in section 18.0).
+Calibration Error (CE) is the average the differences between the instrument response and the certified cylinder gas value for each gas. Calculate the CE results for the CO monitor according to:
+ER29MR23.009
+Where:
+d = mean difference between the CEMS response and the known reference concentration, and
+FS = span value.
+The CE for the O 2 monitor is the average percent O 2 difference between the O 2 monitor and the certified cylinder gas value for each gas.
+13.0 Method Performance
+13.1. Calibration Drift Performance Specification. For O 2, same as specified in PS 3. For CO, the same as specified in PS 4A except that the CEMS calibration must not drift from the reference value of the calibration standard by more than 3 percent of the span value on either the high or low range.
+13.2. Calibration Error (CE) Performance Specification. The mean difference between the CEMS and reference values at all three test points (see table 4B–1 of this method) must be no greater than 5 percent of span value for CO monitors and 0.5 percent for O 2 monitors.
+13.3. Response Time Performance Specification. The response time for the CO or O 2 monitor must not exceed 240 seconds.
+13.4. Relative Accuracy (RA) Performance Specification. For O 2, same as specified in PS 3. For CO, the same as specified in PS 4A.
+14.0 Pollution Prevention [Reserved]
+15.0 Waste Management [Reserved]
+16.0 Alternative Procedure
+Alternative RA Procedure. Under some operating conditions, it may not be possible to obtain meaningful results using the RA test procedure. This includes conditions where consistent, very low CO emission or low CO emissions interrupted periodically by short duration, high level spikes are observed. It may be appropriate in these circumstances to waive the RA test and substitute the following procedure.
+Conduct a complete CEMS status check following the manufacturer's written instructions. The check should include operation of the light source, signal receiver, timing mechanism functions, data acquisition and data reduction functions, data recorders, mechanically operated functions, sample filters, sample line heaters, moisture traps, and other related functions of the CEMS, as applicable. All parts of the CEMS must be functioning properly before the RA requirement can be waived. The instrument must also successfully pass the CE and CD specifications. Substitution of the alternate procedure requires approval of the Regional Administrator.
+17.0 Reference
+1. 40 CFR part 266, appendix IX, section 2, "Performance Specifications for Continuous Emission Monitoring Systems."
+18.0 Tables, Diagrams, Flowcharts, and Validation Data
+Table 4B–1—Calibration Error Concentration Range
+Measurement point | CO low range (ppm) | CO high range (ppm) | O 2 (%)
+1 | 0–40 | 0–600 | 0–2
+2 | 60–80 | 900–1,200 | 8–10
+3 | 140–160 | 2,100–2,400 | 14–16
+Figure 4B–1—Calibration Error Data Sheet
+Run No. | Calibration value | Monitor response | Difference | Zero | Mid | High
+1—Zero
+2—Mid
+3—High
+4—Mid
+5—Zero
+6—High
+7—Zero
+8—Mid
+9—High
+Mean Difference =
+Calibration Error = | % | % | %
 Performance Specification 5—Specifications and Test Procedures for TRS Continuous Emission Monitoring Systems in Stationary Sources
 1.0 Scope and Application
 1.1 Analytes.
@@ -561,7 +601,7 @@ Same as section 12.0 of PS 2.
 15.0 Waste Management [Reserved]
 16.0 Alternative Procedures [Reserved]
 17.0 References
-1. Department of Commerce. Experimental Statistics, National Bureau of Standards, Handbook 91. 1963. Paragraphs 3-3.1.4, p. 3-31.
+1. Department of Commerce. Experimental Statistics, National Bureau of Standards, Handbook 91. 1963. Paragraphs 3–3.1.4, p. 3–31.
 2. A Guide to the Design, Maintenance and Operation of TRS Monitoring Systems. National Council for Air and Stream Improvement Technical Bulletin No. 89. September 1977.
 3. Observation of Field Performance of TRS Monitors on a Kraft Recovery Furnace. National Council for Air and Stream Improvement Technical Bulletin No. 91. January 1978.
 18.0 Tables, Diagrams, Flowcharts, and Validation Data
@@ -586,9 +626,9 @@ Same as section 7.0 of PS 2.
 8.0 Sample Collection, Preservation, Storage, and Transport
 8.1 Calibration Drift Test Procedure.
 8.1.1 The CD measurements are to verify the ability of the CERMS to conform to the established CERMS calibrations used for determining the emission rate. Therefore, if periodic automatic or manual adjustments are made to the CERMS zero and calibration settings, conduct the CD tests immediately before these adjustments, or conduct them in such a way that CD can be determined.
-8.1.2 Conduct the CD tests for pollutant concentration at the two values specified in section 6.1.2 of PS 2. For other parameters that are selectively measured by the CERMS (e.g., velocity, pressure, flow rate), use two analogous values (e.g., Low: 0-20% of full scale, High: 50-100% of full scale). Introduce to the CERMS the reference signals (these need not be certified). Record the CERMS response to each and subtract this value from the respective reference value (see example data sheet in Figure 6-1).
+8.1.2 Conduct the CD tests for pollutant concentration at the two values specified in section 6.1.2 of PS 2. For other parameters that are selectively measured by the CERMS (e.g., velocity, pressure, flow rate), use two analogous values (e.g., Low: 0–20% of full scale, High: 50–100% of full scale). Introduce to the CERMS the reference signals (these need not be certified). Record the CERMS response to each and subtract this value from the respective reference value (see example data sheet in Figure 6–1).
 8.2 Relative Accuracy Test Procedure.
-8.2.1 Sampling Strategy for reference method (RM) Tests, Correlation of RM and CERMS Data, and Number of RM Tests are the same as PS 2, sections 8.4.3, 8.4.5, and 8.4.4, respectively. Summarize the results on a data sheet. An example is shown in Figure 6-1. The RA test may be conducted during the CD test period.
+8.2.1 Sampling Strategy for reference method (RM) Tests, Correlation of RM and CERMS Data, and Number of RM Tests are the same as PS 2, sections 8.4.3, 8.4.5, and 8.4.4, respectively. Summarize the results on a data sheet. An example is shown in Figure 6–1. The RA test may be conducted during the CD test period.
 8.2.2 Reference Methods. Unless otherwise specified in the applicable subpart of the regulations, the RM for the pollutant gas is the Appendix A method that is cited for compliance test purposes, or its approved alternatives. Methods 2, 2A, 2B, 2C, or 2D, as applicable, are the RMs for the determination of volumetric flow rate.
 9.0 Quality Control [Reserved]
 10.0 Calibration and Standardization [Reserved]
@@ -598,13 +638,13 @@ Same as section 11.0 of PS 2.
 Same as section 12.0 of PS 2.
 13.0 Method Performance
 13.1 Calibration Drift. Since the CERMS includes analyzers for several measurements, the CD shall be determined separately for each analyzer in terms of its specific measurement. The calibration for each analyzer associated with the measurement of flow rate shall not drift or deviate from each reference value of flow rate by more than 3 percent of the respective high-level reference value over the CD test period (e.g., seven-day) associated with the pollutant analyzer. The CD specification for each analyzer for which other PSs have been established (e.g., PS 2 for SO 2 and NO X), shall be the same as in the applicable PS.
-13.2 CERMS Relative Accuracy. Calculate the CERMS Relative Accuracy using Eq. 2-6 of section 12 of Performance Specification 2. The RA of the CERMS shall be no greater than 20 percent of the mean value of the RM's test data in terms of the units of the emission standard, or in cases where the average emissions for the test are less than 50 percent of the applicable standard, substitute the emission standard value in the denominator of Eq. 2-6 in place of the RM.
+13.2 CERMS Relative Accuracy. Calculate the CERMS Relative Accuracy (RA) expressed as a percentage using equation 2–6 of section 12 of PS 2. The RA of the CERMS shall be no greater than 20.0 percent in terms of the units of the emission standard. If the average emissions for the test are less than 50 percent of the applicable emission standard, you may elect to substitute the applicable emission standard value in the denominator of equation 2–6 in place of the average RM value; in this case, the RA of the CERMS shall be no greater than 10.0 percent consistent with section 13.2 of PS 2.
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
 16.0 Alternative Procedures
 Same as in section 16.0 of PS 2.
 17.0 References
-1. Brooks, E.F., E.C. Beder, C.A. Flegal, D.J. Luciani, and R. Williams. Continuous Measurement of Total Gas Flow Rate from Stationary Sources. U.S. Environmental Protection Agency. Research Triangle Park, North Carolina. Publication No. EPA-650/2-75-020. February 1975. 248 p.
+1. Brooks, E.F., E.C. Beder, C.A. Flegal, D.J. Luciani, and R. Williams. Continuous Measurement of Total Gas Flow Rate from Stationary Sources. U.S. Environmental Protection Agency. Research Triangle Park, North Carolina. Publication No. EPA–650/2–75–020. February 1975. 248 p.
 18.0 Tables, Diagrams, Flowcharts, and Validation Data
 Run No. | Date and time | Emission rate (kg/hr) a | CERMS | RMs | Difference (RMs-CERMS)
 1 | | | |
@@ -617,12 +657,12 @@ Run No. | Date and time | Emission rate (kg/hr) a | CERMS | RMs | Difference (RM
 8 | | | |
 9 | | | |
 a The RMs and CERMS data as corrected to a consistent basis (i.e., moisture, temperature, and pressure conditions).
-Figure 6-1—Emission Rate Determinations
+Figure 6–1—Emission Rate Determinations
 Performance Specification 7—Specifications and Test Procedures for Hydrogen Sulfide Continuous Emission Monitoring Systems in Stationary Sources
 1.0 Scope and Application
 1.1 Analytes.
 Analyte | CAS No.
-Hydrogen Sulfide | 7783-06-4
+Hydrogen Sulfide | 7783–06–4
 1.2 Applicability.
 1.2.1 This specification is to be used for evaluating the acceptability of hydrogen sulfide (H 2 S) continuous emission monitoring systems (CEMS) at the time of or soon after installation and whenever specified in an applicable subpart of the regulations.
 1.2.2 This specification is not designed to evaluate the installed CEMS performance over an extended period of time nor does it identify specific calibration techniques and other auxiliary procedures to assess CEMS performance. The source owner or operator, however, is responsible to calibrate, maintain, and operate the CEMS. To evaluate CEMS performance, the Administrator may require, under section 114 of the Act, the source owner or operator to conduct CEMS performance evaluations at other times besides the initial test. See section 60.13(c).
@@ -644,7 +684,7 @@ Same as section 7.0 of PS 2.
 8.2 Pretest Preparation. Same as section 8.2 of PS 2.
 8.3 Calibration Drift Test Procedure. Same as section 8.3 of PS 2.
 8.4 Relative Accuracy Test Procedure.
-8.4.1 Sampling Strategy for RM Tests, Number of RM Tests, Correlation of RM and CEMS Data, and Calculations. These are the same as that in PS-2, Sections 8.4.3 (except as specified below), 8.4.4, 8.4.5, and 8.4.6, respectively.
+8.4.1 Sampling Strategy for RM Tests, Number of RM Tests, Correlation of RM and CEMS Data, and Calculations. These are the same as that in PS–2, Sections 8.4.3 (except as specified below), 8.4.4, 8.4.5, and 8.4.6, respectively.
 8.4.2 Reference Methods. Unless otherwise specified in an applicable subpart of the regulation, Methods 11, 15, and 16 may be used for the RM for this PS.
 8.4.2.1 Sampling Time Per Run—Method 11. A sampling run, when Method 11 (integrated sampling) is used, shall consist of a single measurement for at least 10 minutes and 0.010 dscm (0.35 dscf). Each sample shall be taken at approximately 30-minute intervals.
 8.4.2.2 Sampling Time Per Run—Methods 15 and 16. The sampling run shall consist of two injections equally spaced over a 30-minute period following the procedures described in the particular method. Note: Caution! Heater or non-approved electrical probes should not be used around explosive or flammable sources.
@@ -660,9 +700,9 @@ Same as section 12.0 of PS 2.
 15.0 Waste Management [Reserved]
 16.0 References
 1. U.S. Environmental Protection Agency. Standards of Performance for New Stationary Sources; Appendix B; Performance Specifications 2 and 3 for SO 2, NO X, CO 2, and O 2 Continuous Emission Monitoring Systems; Final Rule. 48 CFR 23608. Washington, D.C. U.S. Government Printing Office. May 25, 1983.
-2. U.S. Government Printing Office. Gaseous Continuous Emission Monitoring Systems—Performance Specification Guidelines for SO 2, NO X, CO 2, O 2, and TRS. U.S. Environmental Protection Agency. Washington, D.C. EPA-450/3-82-026. October 1982. 26 p.
-3. Maines, G.D., W.C. Kelly (Scott Environmental Technology, Inc.), and J.B. Homolya. Evaluation of Monitors for Measuring H 2 S in Refinery Gas. Prepared for the U.S. Environmental Protection Agency. Research Triangle Park, N.C. Contract No. 68-02-2707. 1978. 60 p.
-4. Ferguson, B.B., R.E. Lester (Harmon Engineering and Testing), and W.J. Mitchell. Field Evaluation of Carbon Monoxide and Hydrogen Sulfide Continuous Emission Monitors at an Oil Refinery. Prepared for the U.S. Environmental Protection Agency. Research Triangle Park, N.C. Publication No. EPA-600/4-82-054. August 1982. 100 p.
+2. U.S. Government Printing Office. Gaseous Continuous Emission Monitoring Systems—Performance Specification Guidelines for SO 2, NO X, CO 2, O 2, and TRS. U.S. Environmental Protection Agency. Washington, D.C. EPA-450/3–82–026. October 1982. 26 p.
+3. Maines, G.D., W.C. Kelly (Scott Environmental Technology, Inc.), and J.B. Homolya. Evaluation of Monitors for Measuring H 2 S in Refinery Gas. Prepared for the U.S. Environmental Protection Agency. Research Triangle Park, N.C. Contract No. 68–02–2707. 1978. 60 p.
+4. Ferguson, B.B., R.E. Lester (Harmon Engineering and Testing), and W.J. Mitchell. Field Evaluation of Carbon Monoxide and Hydrogen Sulfide Continuous Emission Monitors at an Oil Refinery. Prepared for the U.S. Environmental Protection Agency. Research Triangle Park, N.C. Publication No. EPA–600/4–82–054. August 1982. 100 p.
 5. Letter to RAMCON Environmental Corp. from Robert Kellam, December 27, 1992.
 17.0 Tables, Diagrams, Flowcharts, and Validation Data
 Same as section 18.0 of PS 2.
@@ -761,9 +801,9 @@ d i = Individual difference between CEMS response and the known reference concen
 At a minimum, summarize in tabular form the results of the CD, response time, and CE test, as appropriate. Include all data sheets, calculations, CEMS data records, and cylinder gas or reference material certifications.
 ER30SE99.014
 9. References
-1. Measurement of Volatile Organic Compounds-Guideline Series. U.S. Environmental Protection Agency, Research Triangle Park, North Carolina, 27711, EPA-450/2-78-041, June 1978.
+1. Measurement of Volatile Organic Compounds-Guideline Series. U.S. Environmental Protection Agency, Research Triangle Park, North Carolina, 27711, EPA–450/2–78–041, June 1978.
 2. Traceability Protocol for Establishing True Concentrations of Gases Used for Calibration and Audits of Continuous Source Emission Monitors (Protocol No. 1). U.S. Environmental Protection Agency ORD/EMSL, Research Triangle Park, North Carolina, 27711, June 1978.
-3. Gasoline Vapor Emission Laboratory Evaluation-Part 2. U.S. Environmental Protection Agency, OAQPS, Research Triangle Park, North Carolina, 27711, EMB Report No. 76-GAS-6, August 1975.
+3. Gasoline Vapor Emission Laboratory Evaluation-Part 2. U.S. Environmental Protection Agency, OAQPS, Research Triangle Park, North Carolina, 27711, EMB Report No. 76–GAS–6, August 1975.
 Performance Specification 9—Specifications and Test Procedures for Gas Chromatographic Continuous Emission Monitoring Systems in Stationary Sources
 1.0 Scope and Application
 1.1 Applicability. These requirements apply to continuous emission monitoring systems (CEMSs) that use gas chromatography (GC) to measure gaseous organic compound emissions. The requirements include procedures intended to evaluate the acceptability of the CEMS at the time of its installation and whenever specified in regulations or permits. Quality assurance procedures for calibrating, maintaining, and operating the CEMS properly at all times are also given in this procedure.
@@ -786,15 +826,15 @@ The procedures required under this performance specification may involve hazardo
 7.0 Reagents and Standards
 7.1 Calibration Gases. Obtain three concentrations of calibration gases certified by the manufacturer to be accurate to within 2 percent of the value on the label. A gas dilution system may be used to prepare the calibration gases from a high concentration certified standard if the gas dilution system meets the requirements specified in Test Method 205, 40 CFR Part 51, Appendix M. The performance test specified in Test Method 205 shall be repeated quarterly, and the results of the Method 205 test shall be included in the report. The calibration gas concentration of each target analyte shall be as follows (measured concentration is based on the presurvey concentration determined in section 6.1).
 Note: If the low level calibration gas concentration falls at or below the limit of detection for the instrument for any target pollutant, a calibration gas with a concentration at 4 to 5 times the limit of detection for the instrument may be substituted for the low-level calibration gas listed in section 7.1.1.
-7.1.1 Low-level. 40-60 percent of measured concentration.
-7.1.2 Mid-level. 90-110 percent of measured concentration.
-7.1.3 High-level. 140-160 percent of measured concentration, or select highest expected concentration.
+7.1.1 Low-level. 40–60 percent of measured concentration.
+7.1.2 Mid-level. 90–110 percent of measured concentration.
+7.1.3 High-level. 140–160 percent of measured concentration, or select highest expected concentration.
 7.2 Performance Audit Gas. Performance Audit Gas is an independent cylinder gas or cylinder gas mixture. A certified EPA audit gas shall be used, when possible. A gas mixture containing all the target compounds within the calibration range and certified by EPA's Traceability Protocol for Assay and Certification of Gaseous Calibration Standards may be used when EPA performance audit materials are not available. If a certified EPA audit gas or a traceability protocol gas is not available, use a gas manufacturer standard accurate to 2 percent.
 8.0 Sample Collection, Preservation, Storage, and Transport
 8.1 Installation and Measurement Location Specifications. Install the CEMs in a location where the measurements are representative of the source emissions. Consider other factors, such as ease of access for calibration and maintenance purposes. The location should not be close to air in-leakages. The sampling location should be at least two equivalent duct diameters downstream from the nearest control device, point of pollutant generation, or other point at which a change in the pollutant concentration or emission rate occurs. The location should be at least 0.5 diameter upstream from the exhaust or control device. To calculate equivalent duct diameter, see section 12.2 of Method 1 (40 CFR Part 60, Appendix A). Sampling locations not conforming to the requirements in this section may be used if necessary upon approval of the Administrator.
 8.2 Pretest Preparation Period. Using the procedures described in Method 18
 (40 CFR Part 60, Appendix A), perform initial tests to determine GC conditions that provide good resolution and minimum analysis time for compounds of interest. Resolution interferences that may occur can be eliminated by appropriate GC column and detector choice or by shifting the retention times through changes in the column flow rate and the use of temperature programming.
-8.3 Seven (7)-Day Calibration Error (CE) Test Period. At the beginning of each 24-hour period, set the initial instrument set points by conducting a multi-point calibration for each compound. The multi-point calibration shall meet the requirements in sections 13.1, 13.2, and 13.3. Throughout the 24-hour period, sample and analyze the stack gas at the sampling intervals prescribed in the regulation or permit. At the end of the 24-hour period, inject the calibration gases at three concentrations for each compound in triplicate and determine the average instrument response. Determine the CE for each pollutant at each concentration using Equation 9-2. Each CE shall be ≤10 percent. Repeat this procedure six more times for a total of 7 consecutive days.
+8.3 Seven (7)-Day Calibration Error (CE) Test Period. At the beginning of each 24-hour period, set the initial instrument set points by conducting a multi-point calibration for each compound. The multi-point calibration shall meet the requirements in sections 13.1, 13.2, and 13.3. Throughout the 24-hour period, sample and analyze the stack gas at the sampling intervals prescribed in the regulation or permit. At the end of the 24-hour period, inject the calibration gases at three concentrations for each compound in triplicate and determine the average instrument response. Determine the CE for each pollutant at each concentration using Equation 9–2. Each CE shall be ≤10 percent. Repeat this procedure six more times for a total of 7 consecutive days.
 8.4 Performance Audit Test Periods. Conduct the performance audit once during the initial 7-day CE test and quarterly thereafter. Performance Audit Tests must be conducted through the entire sampling and analyzer system. Sample and analyze the EPA audit gas(es) (or the gas mixture) three times. Calculate the average instrument response. Results from the performance audit test must meet the requirements in sections 13.3 and 13.4.
 8.5 Reporting. Follow the reporting requirements of the applicable regulation or permit. If the reporting requirements include the results of this performance specification, summarize in tabular form the results of the CE tests. Include all data sheets, calculations, CEMS data records, performance audit results, and calibration gas concentrations and certifications.
 9.0 Quality Control [Reserved]
@@ -812,7 +852,7 @@ r 2 = Coefficient of determination.
 V = Sample system volume, in Liters, which is the volume inside the sample probe and tubing leading from the stack to the sampling loop.
 x = CEMS response.
 y = Actual value of calibration standard.
-12.2 Coefficient of Determination. Calculate r 2 using linear regression analysis and the average concentrations obtained at three calibration points as shown in Equation 9-1.
+12.2 Coefficient of Determination. Calculate r 2 using linear regression analysis and the average concentrations obtained at three calibration points as shown in Equation 9–1.
 ER17OC00.461
 12.3 Calibration Error Determination. Determine the percent calibration error (CE) at each concentration for each pollutant using the following equation.
 ER17OC00.462
@@ -820,26 +860,26 @@ ER17OC00.462
 ER17OC00.463
 13.0 Method Performance
 13.1 Calibration Error (CE). The CEMS must allow the determination of CE at all three calibration levels. The average CEMS calibration response must not differ by more than 10 percent of calibration gas value at each level after each 24-hour period and after any triplicate calibration response check.
-13.2 Calibration Precision and Linearity. For each triplicate injection at each concentration level for each target analyte, any one injection shall not deviate more than 5 percent from the average concentration measured at that level. When the CEMS response is evaluated over three concentration levels, the linear regression curve for each organic compound shall be determined using Equation 9-1 and must have an r 2 ≥0.995.
-13.3 Measurement Frequency. The sample to be analyzed shall flow continuously through the sampling system. The sampling system time constant shall be ≤5 minutes or the sampling frequency specified in the applicable regulation, whichever is less. Use Equation 9-3 to determine T. The analytical system shall be capable of measuring the effluent stream at the frequency specified in the appropriate regulation or permit.
-13.4 Audit Test Error. Determine the error for each average pollutant measurement using the Equation 9-2 in section 12.3. Each error shall be less than or equal to 10 percent of the cylinder gas certified value. Report the audit results including the average measured concentration, the error and the certified cylinder concentration of each pollutant as part of the reporting requirements in the appropriate regulation or permit.
+13.2 Calibration Precision and Linearity. For each triplicate injection at each concentration level for each target analyte, any one injection shall not deviate more than 5 percent from the average concentration measured at that level. When the CEMS response is evaluated over three concentration levels, the linear regression curve for each organic compound shall be determined using Equation 9–1 and must have an r 2 ≥0.995.
+13.3 Measurement Frequency. The sample to be analyzed shall flow continuously through the sampling system. The sampling system time constant shall be ≤5 minutes or the sampling frequency specified in the applicable regulation, whichever is less. Use Equation 9–3 to determine T. The analytical system shall be capable of measuring the effluent stream at the frequency specified in the appropriate regulation or permit.
+13.4 Audit Test Error. Determine the error for each average pollutant measurement using the Equation 9–2 in section 12.3. Each error shall be less than or equal to 10 percent of the cylinder gas certified value. Report the audit results including the average measured concentration, the error and the certified cylinder concentration of each pollutant as part of the reporting requirements in the appropriate regulation or permit.
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
 16.0 References [Reserved]
 17.0 Tables, Diagrams, Flowcharts, and Validation Data [Reserved]
 Performance Specification 11—Specifications and Test Procedures for Particulate Matter Continuous Emission Monitoring Systems at Stationary Sources
 1.0 What Are the Purpose and Applicability of Performance Specification 11?
-The purpose of Performance Specification 11 (PS-11) is to establish the initial installation and performance procedures that are required for evaluating the acceptability of a particulate matter (PM) continuous emission monitoring system (CEMS); it is not to evaluate the ongoing performance of your PM CEMS over an extended period of time, nor to identify specific calibration techniques and auxiliary procedures to assess CEMS performance. You will find procedures for evaluating the ongoing performance of a PM CEMS in Procedure 2 of Appendix F—Quality Assurance Requirements for Particulate Matter Continuous Emission Monitoring Systems Used at Stationary Sources.
-1.1 Under what conditions does PS-11 apply to my PM CEMS? The PS-11 applies to your PM CEMS if you are required by any provision of Title 40 of the Code of Federal Regulations (CFR) to install and operate PM CEMS.
-1.2 When must I comply with PS-11? You must comply with PS-11 when directed by the applicable rule that requires you to install and operate a PM CEMS.
+The purpose of Performance Specification 11 (PS–11) is to establish the initial installation and performance procedures that are required for evaluating the acceptability of a particulate matter (PM) continuous emission monitoring system (CEMS); it is not to evaluate the ongoing performance of your PM CEMS over an extended period of time, nor to identify specific calibration techniques and auxiliary procedures to assess CEMS performance. You will find procedures for evaluating the ongoing performance of a PM CEMS in Procedure 2 of Appendix F—Quality Assurance Requirements for Particulate Matter Continuous Emission Monitoring Systems Used at Stationary Sources.
+1.1 Under what conditions does PS–11 apply to my PM CEMS? The PS–11 applies to your PM CEMS if you are required by any provision of Title 40 of the Code of Federal Regulations (CFR) to install and operate PM CEMS.
+1.2 When must I comply with PS–11? You must comply with PS–11 when directed by the applicable rule that requires you to install and operate a PM CEMS.
 1.3 What other monitoring must I perform? To report your PM emissions in units of the emission standard, you may need to monitor additional parameters to correct the PM concentration reported by your PM CEMS. Your CEMS may include the components listed in paragraphs (1) through (3) of this section:
 (1) A diluent monitor (i.e., O 2, CO 2, or other CEMS specified in the applicable regulation), which must meet its own performance specifications (also found in this appendix),
 (2) Auxiliary monitoring equipment to allow measurement, determination, or input of the flue gas temperature, pressure, moisture content, and/or dry volume of stack effluent sampled, and
 (3) An automatic sampling system. The performance of your PM CEMS and the establishment of its correlation to manual reference method measurements must be determined in units of mass concentration as measured by your PM CEMS (e.g., milligrams per actual cubic meter (mg/acm) or milligrams per dry standard cubic meter (mg/dscm)).
-2.0 What Are the Basic Requirements of PS-11?
-The PS-11 requires you to perform initial installation and calibration procedures that confirm the acceptability of your CEMS when it is installed and placed into operation. You must develop a site-specific correlation of your PM CEMS response against manual gravimetric reference method measurements (including those made using EPA Methods 5, 5I, or 17).
+2.0 What Are the Basic Requirements of PS–11?
+The PS–11 requires you to perform initial installation and calibration procedures that confirm the acceptability of your CEMS when it is installed and placed into operation. You must develop a site-specific correlation of your PM CEMS response against manual gravimetric reference method measurements (including those made using EPA Methods 5, 5I, or 17).
 2.1 What types of PM CEMS technologies are covered? Several different types of PM CEMS technologies (e.g., light scattering, Beta attenuation, etc.) can be designed with in-situ or extractive sample gas handling systems. Each PM CEMS technology and sample gas handling technology has certain site-specific advantages. You should select and install a PM CEMS that is appropriate for the flue gas conditions at your source.
-2.2 How is PS-11 different from other performance specifications? The PS-11 is based on a technique of correlating PM CEMS responses relative to emission concentrations determined by the reference method. This technique is called "the correlation." This differs from CEMS used to measure gaseous pollutants that have available calibration gases of known concentration. Because the type and characteristics of PM vary from source to source, a single PM correlation, applicable to all sources, is not possible.
+2.2 How is PS–11 different from other performance specifications? The PS–11 is based on a technique of correlating PM CEMS responses relative to emission concentrations determined by the reference method. This technique is called "the correlation." This differs from CEMS used to measure gaseous pollutants that have available calibration gases of known concentration. Because the type and characteristics of PM vary from source to source, a single PM correlation, applicable to all sources, is not possible.
 2.3 How are the correlation data handled? You must carefully review your manual reference method data and your PM CEMS responses to include only valid, high-quality data. For the correlation, you must convert the manual reference method data to measurement conditions (e.g., wet or dry basis) that are consistent with your PM CEMS. Then, you must correlate the manual method and PM CEMS data in terms of the output as received from the monitor (e.g., milliamps). At the appropriate PM CEMS response specified in section 13.2 of this performance specification, you must calculate the confidence interval half range and tolerance interval half range as a percentage of the applicable PM concentration emission limit and compare the confidence interval and tolerance interval percentages with the performance criteria. Also, you must calculate the correlation coefficient and compare the correlation coefficient with the applicable performance criterion specified in section 13.2 of this performance specification.
 Situations may arise where you will need two or more correlations. If you need multiple correlations, you must collect sufficient data for each correlation, and each correlation must satisfy the performance criteria specified in section 13.2 of this performance specification.
 2.4 How do I design my PM CEMS correlation program? When planning your PM CEMS correlation effort, you must address each of the items in paragraphs (1) through (7) of this section to enhance the probability of success. You will find each of these elements further described in this performance specification or in the applicable reference method procedure.
@@ -859,7 +899,7 @@ Situations may arise where you will need two or more correlations. If you need m
 (iv) Calculate the correlation equation(s) as specified in section 12.3.
 (v) Calculate the correlation coefficient, confidence interval half range, and tolerance interval half range for the complete set of PM CEMS and reference method correlation data for comparison with the correlation performance criteria specified in section 13.2.
 2.5 What other procedures must I perform? Before conducting the initial correlation test, you must successfully complete a 7-day drift test (See section 8.5).
-3.0 What Special Definitions Apply to PS-11?
+3.0 What Special Definitions Apply to PS–11?
 3.1 "Appropriate Measurement Range of your PM CEMS" means a measurement range that is capable of recording readings over the complete range of your source's PM emission concentrations during routine operations. The appropriate range is determined during the pretest preparations as specified in section 8.4.
 3.2 "Appropriate Data Range for PM CEMS Correlation" means the data range that reflects the full range of your source's PM emission concentrations recorded by your PM CEMS during the correlation test planning period or other normal operations as defined in the applicable regulations.
 3.3 "Batch Sampling" means that gas is sampled on an intermittent basis and concentrated on a collection medium before intermittent analysis and follow-up reporting. Beta gauge PM CEMS are an example of batch sampling devices.
@@ -871,14 +911,14 @@ Situations may arise where you will need two or more correlations. If you need m
 3.9 "Data Recorder" means the portion of your CEMS that provides a permanent record of the monitor output in terms of response and status (flags). The data recorder may also provide automatic data reduction and CEMS control capabilities (see section 6.6).
 3.10 "Diluent Monitor and Other Auxiliary Data Monitor(s) (if applicable)" means the portion of your CEMS that provides the diluent gas concentration (such as O 2 or CO 2, as specified by the applicable regulations), temperature, pressure, and/or moisture content, and generates an output proportional to the diluent gas concentration or gas property.
 3.11 "Drift Check" means a check of the difference between your PM CEMS output readings and the established reference value of a reference standard or procedure after a stated period of operation during which no unscheduled maintenance, repair, or adjustment took place. The procedures used to determine drift are specific to the operating principles of your specific PM CEMS. A drift check includes both a zero drift check and an upscale drift check.
-3.12 "Exponential Correlation" means an exponential equation used to define the relationship between your PM CEMS output and the reference method PM concentration, as indicated by Equation 11-37.
+3.12 "Exponential Correlation" means an exponential equation used to define the relationship between your PM CEMS output and the reference method PM concentration, as indicated by Equation 11–37.
 3.13 "Flagged Data" means data marked by your CEMS indicating that the response value(s) from one or more CEMS subsystems is suspect or invalid or that your PM CEMS is not in source-measurement operating mode.
-3.14 "Linear Correlation" means a first-order mathematical relationship between your PM CEMS output and the reference method PM concentration that is linear in form, as indicated by Equation 11-3.
-3.15 "Logarithmic Correlation" means a first-order mathematical relationship between the natural logarithm of your PM CEMS output and the reference method PM concentration that is linear in form, as indicated by Equation 11-34.
+3.14 "Linear Correlation" means a first-order mathematical relationship between your PM CEMS output and the reference method PM concentration that is linear in form, as indicated by Equation 11–3.
+3.15 "Logarithmic Correlation" means a first-order mathematical relationship between the natural logarithm of your PM CEMS output and the reference method PM concentration that is linear in form, as indicated by Equation 11–34.
 3.16 "Low-Emitting Source" means a source that operated at no more than 50 percent of the emission limit during the most recent performance test, and, based on the PM CEMS correlation, the daily average emissions for the source, measured in the units of the applicable emission limit, have not exceeded 50 percent of the emission limit for any day since the most recent performance test.
 3.17 "Paired Trains" means two reference method trains that are used to conduct simultaneous measurements of PM concentrations. Guidance on the use of paired sampling trains can be found in the PM CEMS Knowledge Document (see section 16.5).
-3.18 "Polynomial Correlation" means a second-order equation used to define the relationship between your PM CEMS output and reference method PM concentration, as indicated by Equation 11-16.
-3.19 "Power Correlation" means an equation used to define a power function relationship between your PM CEMS output and the reference method concentration, as indicated by Equation 11-42.
+3.18 "Polynomial Correlation" means a second-order equation used to define the relationship between your PM CEMS output and reference method PM concentration, as indicated by Equation 11–16.
+3.19 "Power Correlation" means an equation used to define a power function relationship between your PM CEMS output and the reference method concentration, as indicated by Equation 11–42.
 3.20 "Reference Method" means the method defined in the applicable regulations, but commonly refers to those methods collectively known as EPA Methods 5, 5I, and 17 (for particulate matter), found in Appendix A of 40 CFR 60. Only the front half and dry filter catch portions of the reference method can be correlated to your PM CEMS output.
 3.21 "Reference Standard" means a reference material or procedure that produces a known and unchanging response when presented to the pollutant monitor portion of your CEMS. You must use these standards to evaluate the overall operation of your PM CEMS, but not to develop a PM CEMS correlation.
 3.22 "Response Time" means the time interval between the start of a step change in the system input and the time when the pollutant monitor output reaches 95 percent of the final value (see sections 6.5 and 13.3 for procedures and acceptance criteria).
@@ -897,8 +937,8 @@ Yes, condensible water droplets or condensible acid gas aerosols (i.e., those wi
 (1) No formation of new PM or deposition of PM occurs in sample delivery from the stack or duct; and
 (2) No condensate accumulates in the sample flow measurement apparatus.
 4.3 What PM CEMS measurement technologies should I use? You should use a PM CEMS measurement technology that is free of interferences from any condensible constituent in the flue gas.
-5.0 What Do I Need To Know To Ensure the Safety of Persons Using PS-11?
-People using the procedures required under PS-11 may be exposed to hazardous materials, operations, site conditions, and equipment. This performance specification does not purport to address all of the safety issues associated with its use. It is your responsibility to establish appropriate safety and health practices and determine the applicable regulatory limitations before performing these procedures. You must consult your CEMS user's manual and other reference materials recommended by the reference method for specific precautions to be taken.
+5.0 What Do I Need To Know To Ensure the Safety of Persons Using PS–11?
+People using the procedures required under PS–11 may be exposed to hazardous materials, operations, site conditions, and equipment. This performance specification does not purport to address all of the safety issues associated with its use. It is your responsibility to establish appropriate safety and health practices and determine the applicable regulatory limitations before performing these procedures. You must consult your CEMS user's manual and other reference materials recommended by the reference method for specific precautions to be taken.
 6.0 What Equipment and Supplies Do I Need?
 Different types of PM CEMS use different operating principles. You should select an appropriate PM CEMS based on your site-specific configurations, flue gas conditions, and PM characteristics.
 (1) Your PM CEMS must sample the stack effluent continuously or, for batch sampling PM CEMS, intermittently.
@@ -1006,14 +1046,14 @@ Specific analytical procedures are outlined in the applicable reference method(s
 12.0 What Calculations and Data Analyses Are Needed?
 You must determine the primary relationship for correlating the output from your PM CEMS to a PM concentration, typically in units of mg/acm or mg/dscm of flue gas, using the calculations and data analysis process in sections 12.2 and 12.3. You develop the correlation by performing an appropriate regression analysis between your PM CEMS response and your reference method data.
 12.1 How do I calculate upscale drift and zero drift? You must determine the difference in your PM CEMS output readings from the established reference values (zero and upscale check values) after a stated period of operation during which you performed no unscheduled maintenance, repair or adjustment.
-(1) Calculate the upscale drift (UD) using Equation 11-1:
+(1) Calculate the upscale drift (UD) using Equation 11–1:
 ER30AU16.017
 Where:
 UD = The upscale (high-level) drift of your PM CEMS in percent,
 R CEM = The measured PM CEMS response to the upscale reference standard,
 R U = The pre-established numerical value of the upscale reference standard, and
 R r = The response range of the analyzer.
-(2) Calculate the zero drift (ZD) using Equation 11-2:
+(2) Calculate the zero drift (ZD) using Equation 11–2:
 ER30AU16.018
 Where:
 ZD = The zero (low-level) drift of your PM CEMS in percent,
@@ -1028,64 +1068,64 @@ R r = The response range of the analyzer.
 12.3 How do I determine my PM CEMS correlation? To predict PM concentrations from PM CEMS responses, you must use the calculation method of least squares presented in paragraphs (1) through (5) of this section. When performing the calculations, each reference method PM concentration measurement must be treated as a discrete data point; if using paired sampling trains, do not average reference method data pairs for any test run.
 This performance specification describes procedures for evaluating five types of correlation models: linear, polynomial, logarithmic, exponential, and power. Procedures for selecting the most appropriate correlation model are presented in section 12.4 of this specification.
 (1) How do I evaluate a linear correlation for my correlation test data? To evaluate a linear correlation, follow the procedures described in paragraphs (1)(i) through (iv) of this section.
-(i) Calculate the linear correlation equation, which gives the predicted PM concentration () as a function of the PM CEMS response (x), as indicated by Equation 11-3:
+(i) Calculate the linear correlation equation, which gives the predicted PM concentration () as a function of the PM CEMS response (x), as indicated by Equation 11–3:
 ER12JA04.005
 Where:
 y = the predicted PM concentration,
-b 0 = the intercept for the correlation curve, as calculated using Equation 11-4,
-b 1 = the slope of the correlation curve, as calculated using Equation 11-6, and
+b 0 = the intercept for the correlation curve, as calculated using Equation 11–4,
+b 1 = the slope of the correlation curve, as calculated using Equation 11–6, and
 x = the PM CEMS response value.
-Calculate the y intercept (b 0) of the correlation curve using Equation 11-4:
+Calculate the y intercept (b 0) of the correlation curve using Equation 11–4:
 ER12JA04.006
 Where:
-x = the mean value of the PM CEMS response data, as calculated using Equation 11-5, and
-y = the mean value of the PM concentration data, as calculated using Equation 11-5:
+x = the mean value of the PM CEMS response data, as calculated using Equation 11–5, and
+y = the mean value of the PM concentration data, as calculated using Equation 11–5:
 ER12JA04.007
 Where:
 x i = the PM CEMS response value for run i,
 y i = the PM concentration value for run i, and
 n = the number of data points.
-Calculate the slope (b 1) of the correlation curve using Equation 11-6:
+Calculate the slope (b 1) of the correlation curve using Equation 11–6:
 ER12JA04.008
 Where:
-S xx, S xy = as calculated using Equation 11-7:
+S xx, S xy = as calculated using Equation 11–7:
 ER12JA04.009
-(ii) Calculate the half range of the 95 percent confidence interval (CI) for the predicted PM concentration () at the mean value of x, using Equation 11-8:
+(ii) Calculate the half range of the 95 percent confidence interval (CI) for the predicted PM concentration () at the mean value of x, using Equation 11–8:
 ER25MR09.063
 Where:
 CI = the half range of the 95 percent confidence interval for the predicted PM concentration at the mean x value,
 t df,1-a/2 = the value for the t statistic provided in Table 1 for df = (n - 2), and
-S L = the scatter or deviation of values about the correlation curve, which is determined using Equation 11-9:
+S L = the scatter or deviation of values about the correlation curve, which is determined using Equation 11–9:
 ER25MR09.064
-Calculate the confidence interval half range for the predicted PM concentration () at the mean x value as a percentage of the emission limit (CI%) using Equation 11-10:
+Calculate the confidence interval half range for the predicted PM concentration () at the mean x value as a percentage of the emission limit (CI%) using Equation 11–10:
 ER25MR09.065
 Where:
 CI = the half range of the 95 percent confidence interval for the predicted PM concentration at the mean x value, and
 EL = PM emission limit, as described in section 13.2.
-(iii) Calculate the half range of the tolerance interval (TI) for the predicted PM concentration () at the mean x value using Equation 11-11:
+(iii) Calculate the half range of the tolerance interval (TI) for the predicted PM concentration () at the mean x value using Equation 11–11:
 ER25MR09.066
 Where:
 TI = the half range of the tolerance interval for the predicted PM concentration () at the mean x value,
-k T = as calculated using Equation 11-12, and
-S L = as calculated using Equation 11-9:
+k T = as calculated using Equation 11–12, and
+S L = as calculated using Equation 11–9:
 ER25MR09.067
 Where:
 n′ = the number of test runs (n),
 u n′ = the tolerance factor for 75 percent coverage at 95 percent confidence provided in Table 1 for df = (n−2), and
 v df = the value from Table 1 for df = (n−2).
-Calculate the half range of the tolerance interval for the predicted PM concentration () at the mean x value as a percentage of the emission limit (TI%) using Equation 11-13:
+Calculate the half range of the tolerance interval for the predicted PM concentration () at the mean x value as a percentage of the emission limit (TI%) using Equation 11–13:
 ER25MR09.068
 Where:
 TI = the half range of the tolerance interval for the predicted PM concentration () at the mean x value, and
 EL = PM emission limit, as described in section 13.2.
-(iv) Calculate the linear correlation coefficient (r) using Equation 11-14:
+(iv) Calculate the linear correlation coefficient (r) using Equation 11–14:
 ER12JA04.016
 Where:
-S L = as calculated using Equation 11-9, and
-S y = as calculated using Equation 11-15:
+S L = as calculated using Equation 11–9, and
+S y = as calculated using Equation 11–15:
 ER12JA04.017
 (2) How do I evaluate a polynomial correlation for my correlation test data? To evaluate a polynomial correlation, follow the procedures described in paragraphs (2)(i) through (iv) of this section.
-(i) Calculate the polynomial correlation equation, which is indicated by Equation 11-16, using Equations 11-17 through 11-22:
+(i) Calculate the polynomial correlation equation, which is indicated by Equation 11–16, using Equations 11–17 through 11–22:
 ER25MR09.069
 Where:
 = the PM CEMS concentration predicted by the polynomial correlation equation, and
@@ -1096,98 +1136,98 @@ Where:
 X i = the PM CEMS response for run i,
 Y i = the reference method PM concentration for run i, and
 n = the number of test runs.
-Calculate the polynomial correlation curve coefficients (b 0, b 1, and b 2) using Equations 11-19 through 11-21, respectively:
+Calculate the polynomial correlation curve coefficients (b 0, b 1, and b 2) using Equations 11–19 through 11–21, respectively:
 ER25MR09.071
 Where:
 ER25MR09.072
-(ii) Calculate the 95 percent confidence interval half range (CI) by first calculating the C coefficients (C o to C 5) using Equations 11-23 and 11-24:
+(ii) Calculate the 95 percent confidence interval half range (CI) by first calculating the C coefficients (C o to C 5) using Equations 11–23 and 11–24:
 ER25MR09.073
 Where:
 ER25MR09.074
-Calculate Δ using Equation 11-25 for each x value:
+Calculate Δ using Equation 11–25 for each x value:
 ER25MR09.075
-Determine the x value that corresponds to the minimum value of Δ (Δ min). Determine the scatter or deviation of values about the polynomial correlation curve (S P) using Equation 11-26:
+Determine the x value that corresponds to the minimum value of Δ (Δ min). Determine the scatter or deviation of values about the polynomial correlation curve (S P) using Equation 11–26:
 ER25MR09.076
-Calculate the half range of the 95 percent confidence interval (CI) for the predicted PM concentration () at the x value that corresponds to Δ min using Equation 11-27:
+Calculate the half range of the 95 percent confidence interval (CI) for the predicted PM concentration () at the x value that corresponds to Δ min using Equation 11–27:
 ER25MR09.077
 Where:
-df = (n-3), and
+df = (n–3), and
 tdf = as listed in Table 1 (see section 17).
-Calculate the half range of the 95 percent confidence interval for the predicted PM concentration at the x value that corresponds to Δ min as a percentage of the emission limit (CI%) using Equation 11-28:
+Calculate the half range of the 95 percent confidence interval for the predicted PM concentration at the x value that corresponds to Δ min as a percentage of the emission limit (CI%) using Equation 11–28:
 ER25MR09.078
 Where:
 CI = the half range of the 95 percent confidence interval for the predicted PM concentration at the x value that corresponds to Δ min, and
 EL = PM emission limit, as described in section 13.2.
-(iii) Calculate the tolerance interval half range (TI) for the predicted PM concentration at the x value that corresponds to Δ min, as indicated in Equation 11-29 for the polynomial correlation, using Equations 11-30 and 11-31:
+(iii) Calculate the tolerance interval half range (TI) for the predicted PM concentration at the x value that corresponds to Δ min, as indicated in Equation 11–29 for the polynomial correlation, using Equations 11–30 and 11–31:
 ER25MR09.079
 Where:
 ER25MR09.080
-u n′ = the value indicated in Table 1 for df = (n′-3), and
+u n′ = the value indicated in Table 1 for df = (n′–3), and
 v df = the value indicated in Table 1 for df = (n′—3).
-Calculate the tolerance interval half range for the predicted PM concentration at the x value that corresponds to Δ min as a percentage of the emission limit (TI%) using Equation 11-32:
+Calculate the tolerance interval half range for the predicted PM concentration at the x value that corresponds to Δ min as a percentage of the emission limit (TI%) using Equation 11–32:
 ER25MR09.081
 Where:
 TI = the tolerance interval half range for the predicted PM concentration at the x value that corresponds to Δ min, and
 EL = PM emission limit, as described in section 13.2.
-(iv) Calculate the polynomial correlation coefficient (r) using Equation 11-33:
+(iv) Calculate the polynomial correlation coefficient (r) using Equation 11–33:
 ER25MR09.082
 Where:
-S P = as calculated using Equation 11-26, and
-S y = as calculated using Equation 11-15.
-(3) How do I evaluate a logarithmic correlation for my correlation test data? To evaluate a logarithmic correlation, which has the form indicated by Equation 11-34, follow the procedures described in paragraphs (3)(i) through (iii) of this section.
+S P = as calculated using Equation 11–26, and
+S y = as calculated using Equation 11–15.
+(3) How do I evaluate a logarithmic correlation for my correlation test data? To evaluate a logarithmic correlation, which has the form indicated by Equation 11–34, follow the procedures described in paragraphs (3)(i) through (iii) of this section.
 ER12JA04.034
-(i) Perform a logarithmic transformation of each PM CEMS response value (x values) using Equation 11-35:
+(i) Perform a logarithmic transformation of each PM CEMS response value (x values) using Equation 11–35:
 ER12JA04.035
 Where:
 x i ′ = is the transformed value of x i, and
 Ln(x i) = the natural logarithm of the PM CEMS response for run i.
-(ii) Using the values for x i ′ in place of the values for x i, perform the same procedures used to develop the linear correlation equation described in paragraph (1)(i) of this section. The resulting equation has the form indicated by Equation 11-36:
+(ii) Using the values for x i ′ in place of the values for x i, perform the same procedures used to develop the linear correlation equation described in paragraph (1)(i) of this section. The resulting equation has the form indicated by Equation 11–36:
 ER12JA04.036
 Where:
 x′ = the natural logarithm of the PM CEMS response, and the variables, b 0, and b 1 are as defined in paragraph (1)(i) of this section.
 (iii) Using the values for x i ′ in place of the values for x i, calculate the confidence interval half range at the mean x′ value as a percentage of the emission limit (CI%), the tolerance interval half range at the mean x′ value as a percentage of the emission limit (TI%), and the correlation coefficient (r) using the procedures described in paragraphs (1)(ii) through (iv) of this section.
-(4) How do I evaluate an exponential correlation for my correlation test data? To evaluate an exponential correlation, which has the form indicated by Equation 11-37, follow the procedures described in paragraphs (4)(i) through (v) of this section:
+(4) How do I evaluate an exponential correlation for my correlation test data? To evaluate an exponential correlation, which has the form indicated by Equation 11–37, follow the procedures described in paragraphs (4)(i) through (v) of this section:
 ER25MR09.083
-(i) Perform a logarithmic transformation of each PM concentration measurement (y values) using Equation 11-38:
+(i) Perform a logarithmic transformation of each PM concentration measurement (y values) using Equation 11–38:
 ER25MR09.084
 Where:
 y′ i = is the transformed value of y i, and
 Ln(y i) = the natural logarithm of the PM concentration measurement for run i.
-(ii) Using the values for y′ i in place of the values for y i, perform the same procedures used to develop the linear correlation equation described in paragraph (1)(i) of this section. The resulting equation will have the form indicated by Equation 11-39.
+(ii) Using the values for y′ i in place of the values for y i, perform the same procedures used to develop the linear correlation equation described in paragraph (1)(i) of this section. The resulting equation will have the form indicated by Equation 11–39.
 ER25MR09.085
 Where:
 ′ = the predicted log PM concentration value,
 b′ 0 = the natural logarithm of b 0, and the variables b 0, b 1, and x are as defined in paragraph (1)(i) of this section.
-(iii) Using the values for y ″ i in place of the values for y i, calculate the half range of the 95 percent confidence interval (CI′), as described in paragraph (1)(ii) of this section for CI. Note that CI′ is on the log scale. Next, calculate the upper and lower 95 percent confidence limits for the mean value y ′ using Equations 11-40 and 11-41:
+(iii) Using the values for y ″ i in place of the values for y i, calculate the half range of the 95 percent confidence interval (CI′), as described in paragraph (1)(ii) of this section for CI. Note that CI′ is on the log scale. Next, calculate the upper and lower 95 percent confidence limits for the mean value y ′ using Equations 11–40 and 11–41:
 ER25MR09.086
 ER25MR09.087
 Where:
 LCL′ = the lower 95 percent confidence limit for the mean value y ′,
 UCL′ = the upper 95 percent confidence limit for the mean value y ′,
 y ′ = the mean value of the log-transformed PM concentrations, and
-CI′ = the half range of the 95 percent confidence interval for the predicted PM concentration (′), as calculated in Equation 11-8.
-Calculate the half range of the 95 percent confidence interval (CI) on the original PM concentration scale using Equation 11-42:
+CI′ = the half range of the 95 percent confidence interval for the predicted PM concentration (′), as calculated in Equation 11–8.
+Calculate the half range of the 95 percent confidence interval (CI) on the original PM concentration scale using Equation 11–42:
 ER25MR09.088
 Where:
 CI = the half range of the 95 percent confidence interval on the original PM concentration scale, and UCL′ and LCL′ are as defined previously.
-Calculate the half range of the 95 percent confidence interval for the predicted PM concentration corresponding to the mean value of x as a percentage of the emission limit (CI%) using Equation 11-10.
-(iv) Using the values for y ′ i in place of the values for y i, calculate the half range tolerance interval (TI′), as described in paragraph (1)(iii) of this section for TI. Note that TI′ is on the log scale. Next, calculate the half range tolerance limits for the mean value y ′ using Equations 11-43 and 11-44:
+Calculate the half range of the 95 percent confidence interval for the predicted PM concentration corresponding to the mean value of x as a percentage of the emission limit (CI%) using Equation 11–10.
+(iv) Using the values for y ′ i in place of the values for y i, calculate the half range tolerance interval (TI′), as described in paragraph (1)(iii) of this section for TI. Note that TI′ is on the log scale. Next, calculate the half range tolerance limits for the mean value y ′ using Equations 11–43 and 11–44:
 ER25MR09.089
 ER25MR09.090
 Where:
 LTL′ = the lower 95 percent tolerance limit for the mean value y ′,
 UTL′ = the upper 95 percent tolerance limit for the mean value y ′,
 y ′, = the mean value of the log-transformed PM concentrations, and
-TI′ = the half range of the 95 percent tolerance interval for the predicted PM concentration (′), as calculated in Equation 11-11.
-Calculate the half range tolerance interval (TI) on the original PM concentration scale using Equation 11-45:
+TI′ = the half range of the 95 percent tolerance interval for the predicted PM concentration (′), as calculated in Equation 11–11.
+Calculate the half range tolerance interval (TI) on the original PM concentration scale using Equation 11–45:
 ER25MR09.091
 TI = the half range of the 95 percent tolerance interval on the original PM scale, and UTL′ and LTL′ are as defined previously.
-Calculate the tolerance interval half range for the predicted PM concentration corresponding to the mean value of x as a percentage of the emission limit (TI%) using Equation 11-13.
+Calculate the tolerance interval half range for the predicted PM concentration corresponding to the mean value of x as a percentage of the emission limit (TI%) using Equation 11–13.
 (v) Using the values for y ″ i in place of the values for y i, calculate the correlation coefficient (r) using the procedure described in paragraph (1)(iv) of this section.
-(5) How do I evaluate a power correlation for my correlation test data? To evaluate a power correlation, which has the form indicated by Equation 11-46, follow the procedures described in paragraphs (5)(i) through (v) of this section.
+(5) How do I evaluate a power correlation for my correlation test data? To evaluate a power correlation, which has the form indicated by Equation 11–46, follow the procedures described in paragraphs (5)(i) through (v) of this section.
 ER25MR09.092
-(i) Perform logarithmic transformations of each PM CEMS response (x values) and each PM concentration measurement (y values) using Equations 11-35 and 11-38, respectively.
-(ii) Using the values for x ″ i in place of the values for x i, and the values for y ″ i in place of the values for y i, perform the same procedures used to develop the linear correlation equation described in paragraph (1)(i) of this section. The resulting equation will have the form indicated by Equation 11-47:
+(i) Perform logarithmic transformations of each PM CEMS response (x values) and each PM concentration measurement (y values) using Equations 11–35 and 11–38, respectively.
+(ii) Using the values for x ″ i in place of the values for x i, and the values for y ″ i in place of the values for y i, perform the same procedures used to develop the linear correlation equation described in paragraph (1)(i) of this section. The resulting equation will have the form indicated by Equation 11–47:
 ER25MR09.093
 Where:
 ′ = the predicted log PM concentration value, and
@@ -1196,13 +1236,13 @@ b′ 0 = the natural logarithm of b 0, and the variables b 0, b 1, and x are as 
 (iii) Using the same procedure described for exponential models in paragraph (4)(iii) of this section, calculate the half range of the 95 percent confidence interval for the predicted PM concentration corresponding to the mean value of x′ as a percentage of the emission limit.
 (iv) Using the same procedure described for exponential models in paragraph (4)(iv) of this section, calculate the tolerance interval half range for the predicted PM concentration corresponding to the mean value of x′ as a percentage of the emission limit.
 (v) Using the values for y ′ i in place of the values for y i, calculate the correlation coefficient (r) using the procedure described in paragraph (1)(iv) of this section.
-Note: PS-11 does not address the application of correlation equations to calculate PM emission concentrations using PM CEMS response data during normal operations of a PM CEMS. However, we will provide guidance on the use of specific correlation models (i.e., logarithmic, exponential, and power models) to calculate PM concentrations in an operating PM CEMS in situations when the PM CEMS response values are equal to or less than zero, and the correlation model is undefined.
+Note: PS–11 does not address the application of correlation equations to calculate PM emission concentrations using PM CEMS response data during normal operations of a PM CEMS. However, we will provide guidance on the use of specific correlation models (i.e., logarithmic, exponential, and power models) to calculate PM concentrations in an operating PM CEMS in situations when the PM CEMS response values are equal to or less than zero, and the correlation model is undefined.
 12.4 Which correlation model should I use? Follow the procedures described in paragraphs (1) through (4) of this section to determine which correlation model you should use.
 (1) For each correlation model that you develop using the procedures described in section 12.3 of this specification, compare the confidence interval half range percentage, tolerance interval half range percentage, and correlation coefficient to the performance criteria specified in section 13.2 of this specification. You can use the linear, logarithmic, exponential, or power correlation model if the model satisfies all of the performance criteria specified in section 13.2 of this specification. However, to use the polynomial model you first must check that the polynomial correlation curve satisfies the criteria for minimum and maximum values specified in paragraph (3) of this section.
 (2) If you develop more than one correlation curve that satisfy the performance criteria specified in section 13.2 of this specification, you should use the correlation curve with the greatest correlation coefficient. If the polynomial model has the greatest correlation coefficient, you first must check that the polynomial correlation curve satisfies the criteria for minimum and maximum values specified in paragraph (3) of this section.
 (3) You can use the polynomial model that you develop using the procedures described in section 12.3(2) if the model satisfies the performance criteria specified in section 13.2 of this specification, and the minimum or maximum value of the polynomial correlation curve does not occur within the expanded data range. The minimum or maximum value of the polynomial correlation curve is the point where the slope of the curve equals zero. To determine if the minimum or maximum value occurs within the expanded data range, follow the procedure described in paragraphs (3)(i) through (iv) of this section.
 (i) Determine if your polynomial correlation curve has a minimum or maximum point by comparing the polynomial coefficient b 2 to zero. If b 2 is less than zero, the curve has a maximum value. If b 2 is greater than zero, the curve has a minimum value. (Note: If b 2 equals zero, the correlation curve is linear.)
-(ii) Calculate the minimum value using Equation 11-48.
+(ii) Calculate the minimum value using Equation 11–48.
 ER25MR09.106
 (iii) If your polynomial correlation curve has a minimum point, you must compare the minimum value to the minimum PM CEMS response used to develop the correlation curve. If the correlation curve minimum value is less than or equal to the minimum PM CEMS response value, you can use the polynomial correlation curve, provided the correlation curve also satisfies all of the performance criteria specified in section 13.2 of this specification. If the correlation curve minimum value is greater than the minimum PM CEMS response value, you cannot use the polynomial correlation curve to predict PM concentrations.
 (iv) If your polynomial correlation curve has a maximum, the maximum value must be greater than the allowable extrapolation limit. If your source is not a low-emitting source, as defined in section 3.16 of this specification, the allowable extrapolation limit is 125 percent of the highest PM CEMS response used to develop the correlation curve. If your source is a low-emitting source, the allowable extrapolation limit is 125 percent of the highest PM CEMS response used to develop the correlation curve or the PM CEMS response that corresponds to 50 percent of the emission limit, whichever is greater. If the polynomial correlation curve maximum value is greater than the extrapolation limit, and the correlation curve satisfies all of the performance criteria specified in section 13.2 of this specification, you can use the polynomial correlation curve to predict PM concentrations. If the correlation curve maximum value is less than the extrapolation limit, you cannot use the polynomial correlation curve to predict PM concentrations.
@@ -1215,13 +1255,13 @@ You must evaluate your PM CEMS based on the 7-day drift check, the accuracy of t
 (i) If your source is not a low-emitting source, as defined in section 3.16 of this specification, the correlation coefficient (r) must be greater than or equal to 0.85.
 (ii) If your source is a low-emitting source, as defined in section 3.16 of this specification, the correlation coefficient (r) must be greater than or equal to 0.75.
 (2) The confidence interval half range must satisfy the applicable criterion specified in paragraph (2)(i), (ii), or (iii) of this section, based on the type of correlation model.
-(i) For linear or logarithmic correlations, the 95 percent confidence interval half range at the mean PM CEMS response value from the correlation test must be within 10 percent of the PM emission limit value specified in the applicable regulation. Therefore, the CI% calculated using Equation 11-10 must be less than or equal to 10 percent.
-(ii) For polynomial correlations, the 95 percent confidence interval half range at the PM CEMS response value from the correlation test that corresponds to the minimum value for Δ must be within 10 percent of the PM emission limit value specified in the applicable regulation. Therefore, the CI% calculated using Equation 11-28 must be less than or equal to 10 percent.
-(iii) For exponential or power correlations, the 95 percent confidence interval half range at the mean of the logarithm of the PM CEMS response values from the correlation test must be within 10 percent of the PM emission limit value specified in the applicable regulation. Therefore, the CI% calculated using Equation 11-10 must be less than or equal to 10 percent.
+(i) For linear or logarithmic correlations, the 95 percent confidence interval half range at the mean PM CEMS response value from the correlation test must be within 10 percent of the PM emission limit value specified in the applicable regulation. Therefore, the CI% calculated using Equation 11–10 must be less than or equal to 10 percent.
+(ii) For polynomial correlations, the 95 percent confidence interval half range at the PM CEMS response value from the correlation test that corresponds to the minimum value for Δ must be within 10 percent of the PM emission limit value specified in the applicable regulation. Therefore, the CI% calculated using Equation 11–28 must be less than or equal to 10 percent.
+(iii) For exponential or power correlations, the 95 percent confidence interval half range at the mean of the logarithm of the PM CEMS response values from the correlation test must be within 10 percent of the PM emission limit value specified in the applicable regulation. Therefore, the CI% calculated using Equation 11–10 must be less than or equal to 10 percent.
 (3) The tolerance interval half range must satisfy the applicable criterion specified in paragraph (3)(i), (ii), or (iii) of this section, based on the type of correlation model.
-(i) For linear or logarithmic correlations, the half range tolerance interval with 95 percent confidence and 75 percent coverage at the mean PM CEMS response value from the correlation test must be within 25 percent of the PM emission limit value specified in the applicable regulation. Therefore, the TI% calculated using Equation 11-13 must be less than or equal to 25 percent.
-(ii) For polynomial correlations, the half range tolerance interval with 95 percent confidence and 75 percent coverage at the PM CEMS response value from the correlation test that corresponds to the minimum value for Δ must be within 25 percent of the PM emission limit value specified in the applicable regulation. Therefore, the TI% calculated using Equation 11-32 must be less than or equal to 25 percent.
-(iii) For exponential or power correlations, the half range tolerance interval with 95 percent confidence and 75 percent coverage at the mean of the logarithm of the PM CEMS response values from the correlation test must be within 25 percent of the PM emission limit value specified in the applicable regulation. Therefore, the TI% calculated using Equation 11-13 must be less than or equal to 25 percent.
+(i) For linear or logarithmic correlations, the half range tolerance interval with 95 percent confidence and 75 percent coverage at the mean PM CEMS response value from the correlation test must be within 25 percent of the PM emission limit value specified in the applicable regulation. Therefore, the TI% calculated using Equation 11–13 must be less than or equal to 25 percent.
+(ii) For polynomial correlations, the half range tolerance interval with 95 percent confidence and 75 percent coverage at the PM CEMS response value from the correlation test that corresponds to the minimum value for Δ must be within 25 percent of the PM emission limit value specified in the applicable regulation. Therefore, the TI% calculated using Equation 11–32 must be less than or equal to 25 percent.
+(iii) For exponential or power correlations, the half range tolerance interval with 95 percent confidence and 75 percent coverage at the mean of the logarithm of the PM CEMS response values from the correlation test must be within 25 percent of the PM emission limit value specified in the applicable regulation. Therefore, the TI% calculated using Equation 11–13 must be less than or equal to 25 percent.
 13.3 What are the sampling periods and cycle/response time? You must document and maintain the response time and any changes in the response time following installation.
 (1) If you have a batch sampling PM CEMS, you must evaluate the limits presented in paragraphs (1)(i) and (ii) of this section.
 (i) The response time of your PM CEMS, which is equivalent to the cycle time, must be no longer than 15 minutes. In addition, the delay between the end of the sampling time and reporting of the sample analysis must be no greater than 3 minutes. You must document any changes in the response time following installation.
@@ -1234,12 +1274,12 @@ You must evaluate your PM CEMS based on the 7-day drift check, the accuracy of t
 16.2 40 CFR 60, Appendix B, "Performance Specification 2—Specifications and Test Procedures for SO 2, and NO X, Continuous Emission Monitoring Systems in Stationary Sources."
 16.3 40 CFR 60, Appendix B, "Performance Specification 1—Specification and Test Procedures for Opacity Continuous Emission Monitoring Systems in Stationary Sources."
 16.4 40 CFR 60, Appendix A, "Method 1—Sample and Velocity Traverses for Stationary Sources."
-16.5 "Current Knowledge of Particulate Matter (PM) Continuous Emission Monitoring." EPA-454/R-00-039. U.S. Environmental Protection Agency, Research Triangle Park, NC. September 2000.
+16.5 "Current Knowledge of Particulate Matter (PM) Continuous Emission Monitoring." EPA–454/R–00–039. U.S. Environmental Protection Agency, Research Triangle Park, NC. September 2000.
 16.6 40 CFR 266, Appendix IX, section 2, "Performance Specifications for Continuous Emission Monitoring Systems."
 16.7 ISO 10155, "Stationary Source Emissions—Automated Monitoring of Mass Concentrations of Particles: Performance Characteristics, Test Procedures, and Specifications." American National Standards Institute, New York City. 1995.
 16.8 Snedecor, George W. and Cochran, William G. (1989), Statistical Methods, Eighth Edition, Iowa State University Press.
-16.9 Wallis, W. A. (1951) "Tolerance Intervals for Linear Regression," in Second Berkeley Symposium on Mathematical Statistics and Probability, ed. J. Neyman, Berkeley: University of California Press, pp. 43-51.
-17.0 What Reference Tables and Validation Data Are Relevant to PS-11?
+16.9 Wallis, W. A. (1951) "Tolerance Intervals for Linear Regression," in Second Berkeley Symposium on Mathematical Statistics and Probability, ed. J. Neyman, Berkeley: University of California Press, pp. 43–51.
+17.0 What Reference Tables and Validation Data Are Relevant to PS–11?
 Use the information in Table 1 for determining the confidence and tolerance interval half ranges. Use Table 2 to record your 7-day drift test data.
 Table 1—Factors for Calculation of Confidence and Tolerance Interval Half Ranges
 df | Student's t, t df | Tolerance interval with 75% coverage and 95% confidence level | v df (95%) | u n′ (75%) | k T
@@ -1321,7 +1361,7 @@ Upscale drift day # | Date and time | Upscale check value (R U) | PM CEMS respon
 7
 Performance Specification 12A—Specifications and Test Procedures for Total Vapor Phase Mercury Continuous Emission Monitoring Systems in Stationary Sources
 1.0 Scope and Application
-1.1 Analyte. The analyte measured by these procedures and specifications is total vapor phase mercury (Hg) in the flue gas, which represents the sum of elemental Hg (Hg°, CAS Number 7439-97-6) and oxidized forms of gaseous Hg (Hg +2), in concentration units of micrograms per cubic meter (µg/m 3).
+1.1 Analyte. The analyte measured by these procedures and specifications is total vapor phase mercury (Hg) in the flue gas, which represents the sum of elemental Hg (Hg°, CAS Number 7439–97–6) and oxidized forms of gaseous Hg (Hg +2), in concentration units of micrograms per cubic meter (µg/m 3).
 1.2 Applicability.
 1.2.1 This specification is for evaluating the acceptability of total vapor phase Hg continuous emission monitoring systems (CEMS) installed at stationary sources at the time of or soon after installation and whenever specified in the regulations. The Hg CEMS must be capable of measuring the total concentration in µg/m 3 of vapor phase Hg, regardless of speciation, and recording that concentration at standard conditions on a wet or dry basis. These specifications do not address measurement of particle bound Hg.
 1.2.2 This specification is not designed to evaluate an installed CEMS's performance over an extended period of time nor does it identify specific calibration techniques and auxiliary procedures to assess the CEMS's performance. The source owner or operator, however, is responsible to calibrate, maintain, and operate the CEMS properly. The Administrator may require, under section 114 of the Clean Air Act, the operator to conduct CEMS performance evaluations at other times besides the initial performance evaluation test. See §§ 60.13(c) and 63.8(e)(1).
@@ -1357,27 +1397,26 @@ The procedures required under this performance specification may involve hazardo
 8.0 Performance Specification Test Procedure
 8.1 Installation and Measurement Location Specifications.
 8.1.1 CEMS Installation. Install the CEMS at an accessible location downstream of all pollution control equipment. Place the probe outlet or other sampling interface at a point or location in the stack (or vent) representative of the stack gas concentration of Hg. Since the Hg CEMS sample system normally extracts gas from a single point in the stack, a location that has been shown to be free of stratification for Hg or, alternatively, SO 2 is recommended. If the cause of failure to meet the RA test requirement is determined to be the measurement location and a satisfactory correction technique cannot be established, the Administrator may require the CEMS to be relocated. Measurement locations and points or paths that are most likely to provide data that will meet the RA requirements are described in sections 8.1.2 and 8.1.3 below.
-8.1.2 Measurement Location. The measurement location should be (1) at least two equivalent diameters downstream of the nearest control device, point of pollutant generation or other point at which a change of pollutant concentration may occur, and (2) at least half an equivalent diameter upstream from the effluent exhaust. The equivalent duct diameter is calculated according to Method 1 in appendix A-1 to this part.
+8.1.2 Measurement Location. The measurement location should be (1) at least two equivalent diameters downstream of the nearest control device, point of pollutant generation or other point at which a change of pollutant concentration may occur, and (2) at least half an equivalent diameter upstream from the effluent exhaust. The equivalent duct diameter is calculated according to Method 1 in appendix A–1 to this part.
 8.1.3 Hg CEMS Sample Extraction Point. Use a sample extraction point either (1) no less than 1.0 meter from the stack or duct wall, or (2) within the centroidal velocity traverse area of the stack or duct cross section. This does not apply to cross-stack, in-situ measurement systems.
-8.2 Measurement Error (ME) Test Procedure. Sequentially inject each of at least three elemental Hg reference gases (zero, mid-level, and high level, as defined in section 7.1), three times each for a total of nine injections. Inject the gases in such a manner that the entire CEMS is challenged. Do not inject the same gas concentration twice in succession. At each reference gas concentration, determine the average of the three CEMS responses and subtract the average response from the reference gas value. Calculate the measurement error (ME) using Equation 12-1 by expressing the absolute value of the difference between the average CEMS response (A) and the reference gas value (R) as a percentage of the span (see example data sheet in Figure 12A-1). For each elemental Hg reference gas, the absolute value of the difference between the CEMS response and the reference value must not exceed 5 percent of the span value. If this specification is not met, identify and correct the problem before proceeding. Repeat the measurement error test procedure using oxidized Hg reference gases. For each oxidized Hg reference gas, the absolute value of the difference between the CEMS response and the reference value shall not exceed 10 percent of the span value. If this specification is not met, identify and correct the problem before proceeding.
+8.2 Measurement Error (ME) Test Procedure. Sequentially inject each of at least three elemental Hg reference gases (zero, mid-level, and high level, as defined in section 7.1), three times each for a total of nine injections. Inject the gases in such a manner that the entire CEMS is challenged. Do not inject the same gas concentration twice in succession. At each reference gas concentration, determine the average of the three CEMS responses and subtract the average response from the reference gas value. Calculate the measurement error (ME) using Equation 12–1 by expressing the absolute value of the difference between the average CEMS response (A) and the reference gas value (R) as a percentage of the span (see example data sheet in Figure 12A–1). For each elemental Hg reference gas, the absolute value of the difference between the CEMS response and the reference value must not exceed 5 percent of the span value. If this specification is not met, identify and correct the problem before proceeding. Repeat the measurement error test procedure using oxidized Hg reference gases. For each oxidized Hg reference gas, the absolute value of the difference between the CEMS response and the reference value shall not exceed 10 percent of the span value. If this specification is not met, identify and correct the problem before proceeding.
 ER09SE10.009
 8.3 Seven-Day Calibration Drift (CD) Test Procedure.
 8.3.1 CD Test Period. While the affected facility is operating normally, or as specified in an applicable regulation, determine the magnitude of the CD once each day (at 24-hour intervals, to the extent practicable) for 7 consecutive unit operating days according to the procedures in sections 8.3.2 and 8.3.3. The 7 consecutive unit operating days need not be 7 consecutive calendar days. Use either Hg° or HgCl 2 standards for this test.
 8.3.2 The purpose of the CD measurement is to verify the ability of the CEMS to conform to the established CEMS response used for determining emission concentrations or emission rates. Therefore, if periodic automatic or manual adjustments are made to the CEMS zero and upscale response settings, conduct the CD test immediately before these adjustments, or conduct it in such a way that the CD can be determined.
-8.3.3 Conduct the CD test using the zero gas specified and either the mid-level or high-level gas as specified in section 7.1. Sequentially introduce the reference gases to the CEMS at the sampling system of the CEMS immediately preceding the sample extraction filtration system. Record the CEMS response (A) for each reference gas and, using Equation 12A-2, subtract the corresponding reference value (R) from the CEMS value, and express the absolute value of the difference as a percentage of the span value (see also example data sheet in Figure 12A-2). For each reference gas, the absolute value of the difference between the CEMS response and the reference value must not exceed 5 percent of the span value. If these specifications are not met, identify and correct the problem before proceeding.
+8.3.3 Conduct the CD test using the zero gas specified and either the mid-level or high-level gas as specified in section 7.1. Sequentially introduce the reference gases to the CEMS at the sampling system of the CEMS immediately preceding the sample extraction filtration system. Record the CEMS response (A) for each reference gas and, using Equation 12A–2, subtract the corresponding reference value (R) from the CEMS value, and express the absolute value of the difference as a percentage of the span value (see also example data sheet in Figure 12A–2). For each reference gas, the absolute value of the difference between the CEMS response and the reference value must not exceed 5 percent of the span value. If these specifications are not met, identify and correct the problem before proceeding.
 ER09SE10.010
 8.4 Relative Accuracy (RA) Test Procedure.
 8.4.1 RA Test Period. Conduct the RA test according to the procedure given in sections 8.4.2 through 8.4.6 while the affected facility is operating normally, or as specified in an applicable subpart. The RA test may be conducted during the CD test period.
-8.4.2 Reference Methods (RM). Unless otherwise specified in an applicable subpart of the regulations, use Method 29, Method 30A, or Method 30B in appendix A-8 to this part or American Society of Testing and Materials (ASTM) Method D6784-02 (incorporated by reference, see § 60.17) as the RM for Hg concentration. For Method 29 and ASTM Method D6784-02 only, the filterable portion of the sample need not be included when making comparisons to the CEMS results. When Method 29, Method 30B, or ASTM D6784-02 is used, conduct the RM test runs with paired or duplicate sampling systems and use the average of the vapor phase Hg concentrations measured by the two trains. When Method 30A is used, paired sampling systems are not required. If the RM and CEMS measure on a different moisture basis, data derived with Method 4 in appendix A-3 to this part must also be obtained during the RA test.
+8.4.2 Reference Methods (RM). Unless otherwise specified in an applicable subpart of this part, use method 29, method 30A, or method 30B in appendix A–8 to this part or ASTM Method D6784–16 (IBR, see § 60.17) as the RM for Hg concentration. For method 29 and ASTM Method D6784–16 only, the filterable portion of the sample need not be included when making comparisons to the CEMS results. When method 29, method 30B, or ASTM D6784–16 is used, conduct the RM test runs with paired or duplicate sampling systems and use the average of the vapor phase Hg concentrations measured by the two trains. When method 30A is used, paired sampling systems are not required. If the RM and CEMS measure on a different moisture basis, data derived with method 4 in appendix A–3 to this part must also be obtained during the RA test.
 8.4.3 Sampling Strategy for RM Tests. Conduct the RM tests in such a way that they will yield results representative of the emissions from the source and can be compared to the CEMS data. The RM and CEMS locations need not be immediately adjacent. Locate the RM measurement points in accordance with section 8.1.3 of Performance Specification 2 (PS 2) in this appendix. It is preferable to conduct moisture measurements (if needed) and Hg measurements simultaneously, although moisture measurements that are taken within an hour of the Hg measurements may be used to adjust the Hg concentrations to a consistent moisture basis. In order to correlate the CEMS and RM data properly, note the beginning and end of each RM test period for each paired RM run (including the exact time of day) on the CEMS chart recordings or other permanent record of output.
-8.4.4 Number and Length of RM Test Runs. Conduct a minimum of nine RM test runs. When Method 29, Method 30B, or ASTM D6784-02 is used, only test runs for which the paired RM trains meet the relative deviation criteria (RD) of this PS must be used in the RA calculations. In addition, for Method 29 and ASTM D6784-02, use a minimum sample time of 2 hours and for Methods 30A and 30B use a minimum sample time of 30 minutes.
+8.4.4 Number and Length of RM Test Runs. Conduct a minimum of nine RM test runs. When method 29, method 30B, or ASTM D6784–16 is used, only test runs for which the paired RM trains meet the relative deviation criteria (RD) of this PS must be used in the RA calculations. In addition, for method 29 and ASTM D6784–16, use a minimum sample time of 2 hours and for methods 30A and 30B use a minimum sample time of 30 minutes.
 Note: More than nine sets of RM test runs may be performed. If this option is chosen, RM test run results may be excluded so long as the total number of RM test run results used to determine the CEMS RA is greater than or equal to nine. However, all data must be reported including the excluded test run data.
-8.4.5 Correlation of RM and CEMS Data. Correlate the CEMS and the RM test data as to the time and duration by first determining from the CEMS final output (the one used for reporting) the integrated average pollutant concentration for each RM test period. Consider system response time, if important, and confirm that the results are on a consistent moisture basis with the RM test. Then, compare each integrated CEMS value against the corresponding RM value. When Method 29, Method 30B, or ASTM D6784-02 is used, compare each CEMS value against the corresponding average of the paired RM values.
+8.4.5 Correlation of RM and CEMS Data. Correlate the CEMS and the RM test data as to the time and duration by first determining from the CEMS final output (the one used for reporting) the integrated average pollutant concentration for each RM test period. Consider system response time, if important, and confirm that the results are on a consistent moisture basis with the RM test. Then, compare each integrated CEMS value against the corresponding RM value. When method 29, method 30B, or ASTM D6784–16 is used, compare each CEMS value against the corresponding average of the paired RM values.
 8.4.6 Paired RM Outliers.
-8.4.6.1 When Method 29, Method 30B, or ASTM D6784-02 is used, outliers are identified through the determination of relative deviation (RD) of the paired RM tests. Data that do not meet the RD criteria must be flagged as a data quality problem and may not be used in the calculation of RA. The primary reason for performing paired RM sampling is to ensure the quality of the RM data. The percent RD of paired data is the parameter used to quantify data quality. Determine RD for paired data points as follows:
-ER09SE10.011
-Where:
-C a and C b are the Hg concentration values determined from the paired samples.
+8.4.6.1 When method 29, method 30B, or ASTM D6784–16 is used, outliers are identified through the determination of relative deviation (RD) of the paired RM tests. Data that do not meet the RD criteria must be flagged as a data quality problem and may not be used in the calculation of RA. The primary reason for performing paired RM sampling is to ensure the quality of the RM data. The percent RD of paired data is the parameter used to quantify data quality. Determine RD for paired data points as follows:
+ER29MR23.010
+Where C a and C b are the Hg concentration values determined from the paired samples.
 8.4.6.2 The minimum performance criteria for RM Hg data is that RD for any data pair must be ≤10 percent as long as the mean Hg concentration is greater than 1.0 µg/m 3. If the mean Hg concentration is less than or equal to 1.0 µg/m 3, the RD must be ≤20 percent or ≤0.2 µg/m 3 absolute difference. Pairs of RM data exceeding these RD criteria should be eliminated from the data set used to develop a Hg CEMS correlation or to assess CEMS RA.
 8.4.7 Calculate the mean difference between the RM and CEMS values in the units of micrograms per cubic meter (µg/m 3), the standard deviation, the confidence coefficient, and the RA according to the procedures in section 12.0.
 8.5 Reporting. At a minimum (check with the appropriate EPA Regional Office, State or local Agency for additional requirements, if any), summarize in tabular form the results of the CD tests, the linearity tests, and the RA test or alternative RA procedure, as appropriate. Include all data sheets, calculations, charts (records of CEMS responses), reference gas concentration certifications, and any other information necessary to confirm that the CEMS meets the performance criteria.
@@ -1386,11 +1425,11 @@ C a and C b are the Hg concentration values determined from the paired samples.
 11.0 Analytical Procedure
 For Method 30A, sample collection and analysis are concurrent. For the other RM, post-run sample analyses are performed. Refer to the RM employed for specific analytical procedures.
 12.0 Calculations and Data Analysis
-Calculate and summarize the RA test results on a data sheet similar to Figure 12A-3.
+Calculate and summarize the RA test results on a data sheet similar to Figure 12A–3.
 12.1 Consistent Basis. All data from the RM and CEMS must be compared in units of micrograms per standard cubic meter (µg/scm), on a consistent and identified moisture basis. The values must be standardized to 20 °C, 760 mm Hg.
-12.1.1 Moisture Correction (as applicable). If the RM and CEMS measure Hg on a different moisture basis, they will need to be corrected to a consistent basis. Use Equation 12A-4a to correct data from a wet basis to a dry basis.
+12.1.1 Moisture Correction (as applicable). If the RM and CEMS measure Hg on a different moisture basis, they will need to be corrected to a consistent basis. Use Equation 12A–4a to correct data from a wet basis to a dry basis.
 ER09SE10.012
-Use Equation 12A-4b to correct data from a dry basis to a wet basis.
+Use Equation 12A–4b to correct data from a dry basis to a wet basis.
 ER09SE10.013
 Where:
 B ws is the moisture content of the flue gas from Method 4, expressed as a decimal fraction (e.g., for 8.0 percent H 2 O, B ws = 0.08).
@@ -1405,13 +1444,13 @@ ER09SE10.016
 12.4 Relative Accuracy. Calculate the RA of a set of data as follows:
 ER09SE10.017
 Where:
-| d | = Absolute value of the mean of the differences (from Equation 12A-5)
-| CC | = Absolute value of the confidence coefficient (from Equation 12A-7)
+| d | = Absolute value of the mean of the differences (from Equation 12A–5)
+| CC | = Absolute value of the confidence coefficient (from Equation 12A–7)
 RM = Average reference method value
 13.0 Method Performance
 13.1 Measurement Error (ME). For Hg 0, the ME must not exceed 5 percent of the span value at the zero-, mid-, and high-level reference gas concentrations. For HgCl 2, the ME must not exceed 10 percent of the span value at the zero-, mid-, and high-level reference gas concentrations.
 13.2 Calibration Drift (CD). The CD must not exceed 5 percent of the span value on any of the 7 days of the CD test.
-13.3 Relative Accuracy (RA). The RA of the CEMS must be no greater than 20 percent of the mean value of the RM test data in terms of units of µg/scm. Alternatively, if the mean RM is less than 5.0 µg/scm, the results are acceptable if the absolute value of the difference between the mean RM and CEMS values does not exceed 1.0 µg/scm.
+13.3 Relative Accuracy (RA). The RA of the CEMS must be no greater than 20 percent of the mean value of the RM test data in terms of units of µg/scm. Alternatively, if the mean RM is less than 2.5 µg/scm, the results are acceptable if the absolute value of the difference between the mean RM and CEMS values added to the absolute value of the confidence coefficient from equation 12A–7 of this method does not exceed 0.5 µg/scm.
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
 16.0 Alternative Procedures [Reserved]
@@ -1420,17 +1459,17 @@ RM = Average reference method value
 17.2 40 CFR part 60, appendix A, "Method 29—Determination of Metals Emissions from Stationary Sources."
 17.3 40 CFR part 60, appendix A, "Method 30A—Determination of Total Vapor Phase Mercury Emissions From Stationary Sources (Instrumental Analyzer Procedure).
 17.4 40 CFR part 60, appendix A, "Method 30B—Determination of Total Vapor Phase Mercury Emissions From Coal-Fired Combustion Sources Using Carbon Sorbent Traps."
-17.5 ASTM Method D6784-02, "Standard Test Method for Elemental, Oxidized, Particle-Bound and Total Mercury in Flue Gas Generated from Coal-Fired Stationary Sources (Ontario Hydro Method)."
+17.5 ASTM Method D6784–16, "Standard Test Method for Elemental, Oxidized, Particle-Bound and Total Mercury in Flue Gas Generated from Coal-Fired Stationary Sources (Ontario Hydro Method)."
 18.0 Tables and Figures
-Table 12A-1—T-Values
+Table 12A–1—T-Values
 n a | t 0.975 | n a | t 0.975 | n a | t 0.975
 2 | 12.706 | 7 | 2.447 | 12 | 2.201
 3 | 4.303 | 8 | 2.365 | 13 | 2.179
 4 | 3.182 | 9 | 2.306 | 14 | 2.160
 5 | 2.776 | 10 | 2.262 | 15 | 2.145
 6 | 2.571 | 11 | 2.228 | 16 | 2.131
-a The values in this table are already corrected for n-1 degrees of freedom. Use n equal to the number of individual values.
-Figure 12A-1—ME Determination
+a The values in this table are already corrected for n–1 degrees of freedom. Use n equal to the number of individual values.
+Figure 12A–1—ME Determination
 | Date | Time | Reference gas value (µg/m 3) | CEMS measured value (µg/m 3) | Absolute difference (µg/m 3) | ME (% of span value)
 Zero level
 | Average
@@ -1438,36 +1477,36 @@ Mid level
 | Average
 High level
 | Average
-Figure 12A-2—7-Day Calibration Drift Determination
+Figure 12A–2—7-Day Calibration Drift Determination
 | Date | Time | Reference gas value (µg/m 3) | CEMS measured value (µg/m 3) | Absolute difference (µg/m 3) | CD (% of span value)
 Zero level
 Upscale (Mid or High)
-Figure 12A-3—Relative Accuracy Test Data
-Run No. | Date | Begin time | End time | RM value (µg/m 3) | CEMS value (µg/m 3) | Difference (µg/m 3) | Run used? (Yes/No) | RD 1
-1 | | | | | | |
-2 | | | | | | |
-3 | | | | | | |
-4 | | | | | | |
-5 | | | | | | |
-6 | | | | | | |
-7 | | | | | | |
-8 | | | | | | |
-9 | | | | | | |
-10 | | | | | | |
-11 | | | | | | |
-12 | | | | | | |
-Average Values | |
+Figure 12A–3—Relative Accuracy Test Data
+Run No. | Date | Begin time | End time | RM value (µg/m 3) | CEMS value (µg/m 3) | Difference (µg/m 3) | Run used? (yes/no) | RD 1
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Average Values
 Arithmetic Mean Difference:
 Standard Deviation:
 Confidence Coefficient:
 T-Value:
 % Relative Accuracy:
 | (RM) avg − (CEMS) avg |:
-1 Calculate the RD only if paired samples are taken using RM 30B, RM 29, or ASTM 6784-08. Express RD as a percentage or, for very low RM concentrations (≤1.0 µg/m 3), as the absolute difference between C a and C b.
+1 Calculate the RD only if paired samples are taken using RM 30B, RM 29, or ASTM D6784–16. Express RD as a percentage or, for very low RM concentrations (≤1.0 µg/m 3), as the absolute difference between C a and C b.
 Performance Specification 12B—Specifications and Test Procedures for Monitoring Total Vapor Phase Mercury Emissions From Stationary Sources Using a Sorbent Trap Monitoring System
 1.0 Scope and Application
-The purpose of Performance Specification 12B (PS 12B) is to establish performance benchmarks for, and to evaluate the acceptability of, sorbent trap monitoring systems used to monitor total vapor-phase mercury (Hg) emissions in stationary source flue gas streams. These monitoring systems involve continuous repetitive in-stack sampling using paired sorbent media traps with periodic analysis of the time-integrated samples. Persons using PS 12B should have a thorough working knowledge of Methods 1, 2, 3, 4, 5 and 30B in appendices A-1 through A-3 and A-8 to this part.
-1.1 Analyte. The analyte measured by these procedures and specifications is total vapor phase Hg in the flue gas, which represents the sum of elemental Hg (Hg 0, CAS Number 7439-97-6) and gaseous forms of oxidized Hg (i.e., Hg +2) in mass concentration units of micrograms per dry standard cubic meter (µg/dscm).
+The purpose of Performance Specification 12B (PS 12B) is to establish performance benchmarks for, and to evaluate the acceptability of, sorbent trap monitoring systems used to monitor total vapor-phase mercury (Hg) emissions in stationary source flue gas streams. These monitoring systems involve continuous repetitive in-stack sampling using paired sorbent media traps with periodic analysis of the time-integrated samples. Persons using PS 12B should have a thorough working knowledge of Methods 1, 2, 3, 4, 5 and 30B in appendices A–1 through A–3 and A–8 to this part.
+1.1 Analyte. The analyte measured by these procedures and specifications is total vapor phase Hg in the flue gas, which represents the sum of elemental Hg (Hg 0, CAS Number 7439–97–6) and gaseous forms of oxidized Hg (i.e., Hg +2) in mass concentration units of micrograms per dry standard cubic meter (µg/dscm).
 1.2 Applicability
 1.2.1 These procedures are only intended for use under relatively low particulate conditions (e.g., monitoring after all pollution control devices). This specification is for evaluating the acceptability of total vapor phase Hg sorbent trap monitoring systems installed at stationary sources at the time of, or soon after, installation and whenever specified in the regulations. The Hg monitoring system must be capable of measuring the total concentration of vapor phase Hg (regardless of speciation), in units of µg/dscm.
 1.2.2 This specification contains routine procedures and specifications designed to evaluate an installed sorbent trap monitoring system's performance over time; Procedure 5 of appendix F to this part contains additional procedures and specifications which may be required for long term operation. In addition, the source owner or operator is responsible to calibrate, maintain, and operate the monitoring system properly. The Administrator may require the owner or operator, under section 114 of the Clean Air Act, to conduct performance evaluations at other times besides the initial test to evaluate the CEMS performance. See § 60.13(c) and 63.8(e)(1).
@@ -1484,16 +1523,16 @@ Known volumes of flue gas are continuously extracted from a stack or duct throug
 The procedures required under this performance specification may involve hazardous materials, operations, and equipment. This performance specification may not address all of the safety problems associated with these procedures. It is the responsibility of the user to establish appropriate safety and health practices and determine the applicable regulatory limitations prior to performing these procedures.
 6.0 Equipment and Supplies
 6.1 Sorbent Trap Monitoring System Equipment Specifications.
-6.1.1 Monitoring System. The equipment described in Method 30B in appendix A-8 to this part must be used to continuously sample for Hg emissions, with the substitution of three-section traps in place of two-section traps, as described below. A typical sorbent trap monitoring system is shown in Figure 12B-1.
+6.1.1 Monitoring System. The equipment described in Method 30B in appendix A–8 to this part must be used to continuously sample for Hg emissions, with the substitution of three-section traps in place of two-section traps, as described below. A typical sorbent trap monitoring system is shown in Figure 12B–1.
 6.1.2 Three-Section Sorbent Traps. The sorbent media used to collect Hg must be configured in traps with three distinct and identical segments or sections, connected in series, to be separately analyzed. section 1 is designated for primary capture of gaseous Hg. section 2 is designated as a backup section for determination of vapor-phase Hg breakthrough. section 3 is designated for quality assurance/quality control (QA/QC) purposes. section 3 must be spiked with a known amount of gaseous Hg 0 prior to sampling and later analyzed to determine the spike (and hence sample) recovery efficiency.
 ER09SE10.005
 6.1.3 Gaseous Hg 0 Sorbent Trap Spiking System. A known mass of gaseous Hg 0 must be spiked onto section 3 of each sorbent trap prior to sampling. Any approach capable of quantitatively delivering known masses of Hg 0 onto sorbent traps is acceptable. Several technologies or devices are available to meet this objective. Their practicality is a function of Hg mass spike levels. For low levels, NIST-certified or NIST-traceable gas generators or tanks may be suitable, but will likely require long preparation times. A more practical, alternative system, capable of delivering almost any mass required, employs NIST-certified or NIST-traceable Hg salt solutions (e.g., Hg(NO 3) 2). With this system, an aliquot of known volume and concentration is added to a reaction vessel containing a reducing agent (e.g., stannous chloride); the Hg salt solution is reduced to Hg 0 and purged onto section 3 of the sorbent trap by using an impinger sparging system.
-6.1.4 Sample Analysis Equipment. Any analytical system capable of quantitatively recovering and quantifying total gaseous Hg from sorbent media is acceptable provided that the analysis can meet the performance criteria in Table 12B-1 in section 9 of this performance specification. Candidate recovery techniques include leaching, digestion, and thermal desorption. Candidate analytical techniques include ultraviolet atomic fluorescence (UV AF); ultraviolet atomic absorption (UV AA), with and without gold trapping; and in-situ X-ray fluorescence (XRF).
+6.1.4 Sample Analysis Equipment. Any analytical system capable of quantitatively recovering and quantifying total gaseous Hg from sorbent media is acceptable provided that the analysis can meet the performance criteria in Table 12B–1 in section 9 of this performance specification. Candidate recovery techniques include leaching, digestion, and thermal desorption. Candidate analytical techniques include ultraviolet atomic fluorescence (UV AF); ultraviolet atomic absorption (UV AA), with and without gold trapping; and in-situ X-ray fluorescence (XRF).
 7.0 Reagents and Standards
 Only NIST-certified or NIST-traceable calibration gas standards and reagents must be used for the tests and procedures required under this performance specification. The sorbent media may be any collection material (e.g., carbon, chemically treated filter, etc.) capable of quantitatively capturing and recovering for subsequent analysis, all gaseous forms of Hg in the emissions from the intended application. Selection of the sorbent media must be based on the material's ability to achieve the performance criteria contained in this method as well as the sorbent's vapor phase Hg capture efficiency for the emissions matrix and the expected sampling duration at the test site.
 8.0 Performance Specification Test Procedure
 8.1 Installation and Measurement Location Specifications.
-8.1.1 Selection of Monitoring Site. Sampling site information should be obtained in accordance with Method 1 in appendix A-1 to this part. Place the probe inlet at a point or location in the stack (or vent) downstream of all pollution control equipment and representative of the stack gas concentration of Hg. A location that has been shown to be free of stratification for Hg or, alternatively, SO 2 is recommended. An estimation of the expected stack Hg concentration is required to establish a target sample flow rate, total gas sample volume, and the mass of Hg 0 to be spiked onto section 3 of each sorbent trap.
+8.1.1 Selection of Monitoring Site. Sampling site information should be obtained in accordance with Method 1 in appendix A–1 to this part. Place the probe inlet at a point or location in the stack (or vent) downstream of all pollution control equipment and representative of the stack gas concentration of Hg. A location that has been shown to be free of stratification for Hg or, alternatively, SO 2 is recommended. An estimation of the expected stack Hg concentration is required to establish a target sample flow rate, total gas sample volume, and the mass of Hg 0 to be spiked onto section 3 of each sorbent trap.
 8.1.2 Pre-sampling Spiking of Sorbent Traps. Based on the estimated Hg concentration in the stack, the target sample rate and the target sampling duration, calculate the expected mass loading for section 1 of each sorbent trap (see section 12.1 of this performance specification). The pre-sampling spike to be added to section 3 of each sorbent trap must be within ±50 percent of the expected section 1 mass loading. Spike section 3 of each sorbent trap at this level, as described in section 6.1.3 of this performance specification. For each sorbent trap, keep a record of the mass of Hg 0 added to section 3. This record must include, at a minimum, the identification number of the trap, the date and time of the spike, the name of the analyst performing the procedure, the method of spiking, the mass of Hg 0 added to section 3 of the trap (µg), and the supporting calculations.
 8.1.3 Pre-monitoring Leak Check. Perform a leak check with the sorbent traps in place in the sampling system. Draw a vacuum in each sample train. Adjust the vacuum in each sample train to ~15″ Hg. Use the gas flow meter to determine leak rate. The leakage rate must not exceed 4 percent of the target sampling rate. Once the leak check passes this criterion, carefully release the vacuum in the sample train, then seal the sorbent trap inlet until the probe is ready for insertion into the stack or duct.
 8.1.4 Determination of Flue Gas Characteristics. Determine or measure the flue gas measurement environment characteristics (gas temperature, static pressure, gas velocity, stack moisture, etc.) in order to determine ancillary requirements such as probe heating requirements (if any), sampling rate, proportional sampling conditions, moisture management, etc.
@@ -1504,15 +1543,15 @@ Only NIST-certified or NIST-traceable calibration gas standards and reagents mus
 8.2.4 Essential Operating Data. Obtain and record any essential operating data for the facility during the test period, e.g., the barometric pressure for correcting the sample volume measured by a dry gas meter to standard conditions. At the end of the data collection period, record the final gas flow meter reading and the final values of all other essential parameters.
 8.2.5 Post-monitoring Leak Check. When the monitoring period is completed, turn off the sample pump, remove the probe/sorbent trap from the port and carefully re-plug the end of each sorbent trap. Perform a leak check with the sorbent traps in place, at the maximum vacuum reached during the monitoring period. Use the same general approach described in section 8.1.3 of this performance specification. Record the leakage rate and vacuum. The leakage rate must not exceed 4 percent of the average sampling rate for the monitoring period. Following the leak check, carefully release the vacuum in the sample train.
 8.2.6 Sample Recovery. Recover each sampled sorbent trap by removing it from the probe and seal both ends. Wipe any deposited material from the outside of the sorbent trap. Place the sorbent trap into an appropriate sample storage container and store/preserve it in an appropriate manner.
-8.2.7 Sample Preservation, Storage, and Transport. While the performance criteria of this approach provide for verification of appropriate sample handling, it is still important that the user consider, determine, and plan for suitable sample preservation, storage, transport, and holding times for these measurements. Therefore, procedures in recognized voluntary consensus standards such as those in ASTM D6911-03 "Standard Guide for Packaging and Shipping Environmental Samples for Laboratory Analysis" should be followed for all samples.
-8.2.8 Sample Custody. Proper procedures and documentation for sample chain of custody are critical to ensuring data integrity. Chain of custody procedures in recognized voluntary consensus standards such as those in ASTM D4840-99 "Standard Guide for Sample Chain-of-Custody Procedures" should be followed for all samples (including field samples and blanks).
+8.2.7 Sample Preservation, Storage, and Transport. While the performance criteria of this approach provide for verification of appropriate sample handling, it is still important that the user consider, determine, and plan for suitable sample preservation, storage, transport, and holding times for these measurements. Therefore, procedures in recognized voluntary consensus standards such as those in ASTM D6911–03 "Standard Guide for Packaging and Shipping Environmental Samples for Laboratory Analysis" should be followed for all samples.
+8.2.8 Sample Custody. Proper procedures and documentation for sample chain of custody are critical to ensuring data integrity. Chain of custody procedures in recognized voluntary consensus standards such as those in ASTM D4840–99 "Standard Guide for Sample Chain-of-Custody Procedures" should be followed for all samples (including field samples and blanks).
 8.3 Relative Accuracy (RA) Test Procedure
 8.3.1 For the initial certification of a sorbent trap monitoring system, a RA Test is required. Follow the basic RA test procedures and calculation methodology described in sections 8.4.1 through 8.4.7 and 12.4 of PS 12A in this appendix, replacing the term "CEMS" with "sorbent trap monitoring system".
-8.3.2 Special Considerations. The type of sorbent material used in the traps must be the same as that used for daily operation of the monitoring system; however, the size of the traps used for the RA test may be smaller than the traps used for daily operation of the system. Spike the third section of each sorbent trap with elemental Hg, as described in section 8.1.2 of this performance specification. Install a new pair of sorbent traps prior to each test run. For each run, the sorbent trap data must be validated according to the quality assurance criteria in Table 12B-1 in section 9.0, below.
+8.3.2 Special Considerations. The type of sorbent material used in the traps must be the same as that used for daily operation of the monitoring system; however, the size of the traps used for the RA test may be smaller than the traps used for daily operation of the system. Spike the third section of each sorbent trap with elemental Hg, as described in section 8.1.2 of this performance specification. Install a new pair of sorbent traps prior to each test run. For each run, the sorbent trap data must be validated according to the quality assurance criteria in Table 12B–1 in section 9.0, below.
 8.3.3 Acceptance Criteria. The RA of the sorbent trap monitoring system must be no greater than 20 percent of the mean value of the RM test data in terms of units of µg/scm. Alternatively, if the RM concentration is less than or equal to 5.0 µg/scm, then the RA results are acceptable if the absolute difference between the means of the RM and sorbent trap monitoring system values does not exceed 1.0 µg/scm.
 9.0 Quality Assurance and Quality Control (QA/QC)
-Table 12B-1 summarizes the QA/QC performance criteria that are used to validate the Hg emissions data from a sorbent trap monitoring system. Failure to achieve these performance criteria will result in invalidation of Hg emissions data, except where otherwise noted.
-Table 12B-1—QA/QC Criteria for Sorbent Trap Monitoring Systems
+Table 12B–1 summarizes the QA/QC performance criteria that are used to validate the Hg emissions data from a sorbent trap monitoring system. Failure to achieve these performance criteria will result in invalidation of Hg emissions data, except where otherwise noted.
+Table 12B–1—QA/QC Criteria for Sorbent Trap Monitoring Systems
 QA/QC test or specification | Acceptance criteria | Frequency | Consequences if not met
 Pre-test leak check | ≤4% of target sampling rate | Prior to monitoring | Monitoring must not commence until the leak check is passed.
 Post-test leak check | ≤4% of average sampling rate | After monitoring | Invalidate the data from the paired traps or, if certain conditions are met, report adjusted data from a single trap (see Section 12.8.3).
@@ -1524,7 +1563,7 @@ Paired sorbent trap agreement | ≤10% Relative Deviation (RD) if the average co
 Spike Recovery Study | Average recovery between 85% and 115% for each of the 3 spike concentration levels | Prior to analyzing field samples and prior to use of new sorbent media | Field samples must not be analyzed until the percent recovery criteria have been met.
 Multipoint analyzer calibration | Each analyzer reading within ±10% of true value and r 2 ≥ 0.99 | On the day of analysis, before analyzing any samples | Recalibrate until successful.
 Analysis of independent calibration standard | Within ±10% of true value | Following daily calibration, prior to analyzing field samples | Recalibrate and repeat independent standard analysis until successful.
-Spike recovery from section 3 of both sorbent traps | 75-125% of spike amount | Every sample | Invalidate the data from the paired traps or, if certain conditions are met, report adjusted data from a single trap (see Section 12.8.3).
+Spike recovery from section 3 of both sorbent traps | 75–125% of spike amount | Every sample | Invalidate the data from the paired traps or, if certain conditions are met, report adjusted data from a single trap (see Section 12.8.3).
 Relative Accuracy | RA ≤ 20.0% of RM mean value; or if RM mean value ≤5.0 µg/scm, absolute difference between RM and sorbent trap monitoring system mean values ≤1.0 µg/scm | RA specification must be met for initial certification | Data from the system are invalid until a RA test is passed.
 Gas flow meter calibration | An initial calibration factor (Y) has been determined at 3 settings; for mass flow meters, initial calibration with stack gas has been performed. For subsequent calibrations, Y within ±5% of average value from the most recent 3-point calibration | At 3 settings prior to initial use and at least quarterly at one setting thereafter | Recalibrate meter at 3 settings to determine a new value of Y.
 Temperature sensor calibration | Absolute temperature measured by sensor within ±1.5% of a reference sensor | Prior to initial use and at least quarterly thereafter | Recalibrate; sensor may not be used until specification is met.
@@ -1533,12 +1572,12 @@ Barometer calibration | Absolute pressure measured by instrument within ±10 mm 
 10.1 Gaseous and Liquid Standards. Only NIST certified or NIST-traceable calibration standards (i.e., calibration gases, solutions, etc.) must be used for the spiking and analytical procedures in this performance specification.
 10.2 Gas Flow Meter Calibration. The manufacturer or supplier of the gas flow meter should perform all necessary set-up, testing, programming, etc., and should provide the end user with any necessary instructions, to ensure that the meter will give an accurate readout of dry gas volume in standard cubic meters for the particular field application.
 10.2.1 Initial Calibration. Prior to its initial use, a calibration of the flow meter must be performed. The initial calibration may be done by the manufacturer, by the equipment supplier, or by the end user. If the flow meter is volumetric in nature (e.g., a dry gas meter), the manufacturer, equipment supplier, or end user may perform a direct volumetric calibration using any gas. For a mass flow meter, the manufacturer, equipment supplier, or end user may calibrate the meter using a bottled gas mixture containing 12 ±0.5% CO 2, 7 ±0.5% O 2, and balance N 2, or these same gases in proportions more representative of the expected stack gas composition. Mass flow meters may also be initially calibrated on-site, using actual stack gas.
-10.2.1.1 Initial Calibration Procedures. Determine an average calibration factor (Y) for the gas flow meter, by calibrating it at three sample flow rate settings covering the range of sample flow rates at which the sorbent trap monitoring system typically operates. Either the procedures in section 10.3.1 of Method 5 in appendix A-3 to this part or the procedures in section 16 of Method 5 in appendix A-3 to this part may be followed. If a dry gas meter is being calibrated, use at least five revolutions of the meter at each flow rate.
-10.2.1.2 Alternative Initial Calibration Procedures. Alternatively, the initial calibration of the gas flow meter may be performed using a reference gas flow meter (RGFM). The RGFM may be either: (1) A wet test meter calibrated according to section 10.3.1 of Method 5 in appendix A-3 to this part; (2) A gas flow metering device calibrated at multiple flow rates using the procedures in section 16 of Method 5 in appendix A-3 to this part; or (3) A NIST-traceable calibration device capable of measuring volumetric flow to an accuracy of 1 percent. To calibrate the gas flow meter using the RGFM, proceed as follows: While the sorbent trap monitoring system is sampling the actual stack gas or a compressed gas mixture that simulates the stack gas composition (as applicable), connect the RGFM to the discharge of the system. Care should be taken to minimize the dead volume between the sample flow meter being tested and the RGFM. Concurrently measure dry gas volume with the RGFM and the flow meter being calibrated for a minimum of 10 minutes at each of three flow rates covering the typical range of operation of the sorbent trap monitoring system. For each 10-minute (or longer) data collection period, record the total sample volume, in units of dry standard cubic meters (dscm), measured by the RGFM and the gas flow meter being tested.
+10.2.1.1 Initial Calibration Procedures. Determine an average calibration factor (Y) for the gas flow meter, by calibrating it at three sample flow rate settings covering the range of sample flow rates at which the sorbent trap monitoring system typically operates. Either the procedures in section 10.3.1 of Method 5 in appendix A–3 to this part or the procedures in section 16 of Method 5 in appendix A–3 to this part may be followed. If a dry gas meter is being calibrated, use at least five revolutions of the meter at each flow rate.
+10.2.1.2 Alternative Initial Calibration Procedures. Alternatively, the initial calibration of the gas flow meter may be performed using a reference gas flow meter (RGFM). The RGFM may be either: (1) A wet test meter calibrated according to section 10.3.1 of Method 5 in appendix A–3 to this part; (2) A gas flow metering device calibrated at multiple flow rates using the procedures in section 16 of Method 5 in appendix A–3 to this part; or (3) A NIST-traceable calibration device capable of measuring volumetric flow to an accuracy of 1 percent. To calibrate the gas flow meter using the RGFM, proceed as follows: While the sorbent trap monitoring system is sampling the actual stack gas or a compressed gas mixture that simulates the stack gas composition (as applicable), connect the RGFM to the discharge of the system. Care should be taken to minimize the dead volume between the sample flow meter being tested and the RGFM. Concurrently measure dry gas volume with the RGFM and the flow meter being calibrated for a minimum of 10 minutes at each of three flow rates covering the typical range of operation of the sorbent trap monitoring system. For each 10-minute (or longer) data collection period, record the total sample volume, in units of dry standard cubic meters (dscm), measured by the RGFM and the gas flow meter being tested.
 10.2.1.3 Initial Calibration Factor. Calculate an individual calibration factor Yi at each tested flow rate from section 10.2.1.1 or 10.2.1.2 of this performance specification (as applicable), by taking the ratio of the reference sample volume to the sample volume recorded by the gas flow meter. Average the three Yi values, to determine Y, the calibration factor for the flow meter. Each of the three individual values of Yi must be within ±0.02 of Y. Except as otherwise provided in sections 10.2.1.4 and 10.2.1.5 of this performance specification, use the average Y value from the three level calibration to adjust all subsequent gas volume measurements made with the gas flow meter.
 10.2.2 Initial On-Site Calibration Check. For a mass flow meter that was initially calibrated using a compressed gas mixture, an on-site calibration check must be performed before using the flow meter to provide data. While sampling stack gas, check the calibration of the flow meter at one intermediate flow rate typical of normal operation of the monitoring system. Follow the basic procedures in section 10.2.1.1 or 10.2.1.2 of this performance specification. If the onsite calibration check shows that the value of Yi, the calibration factor at the tested flow rate, differs by more than 5 percent from the value of Y obtained in the initial calibration of the meter, repeat the full 3-level calibration of the meter using stack gas to determine a new value of Y, and apply the new Y value to all subsequent gas volume measurements made with the gas flow meter.
 10.2.3 Ongoing Quality Control. Recalibrate the gas flow meter quarterly at one intermediate flow rate setting representative of normal operation of the monitoring system. Follow the basic procedures in section 10.2.1.1 or 10.2.1.2 of this performance specification. If a quarterly recalibration shows that the value of Yi, the calibration factor at the tested flow rate, differs from the current value of Y by more than 5 percent, repeat the full 3-level calibration of the meter to determine a new value of Y, and apply the new Y value to all subsequent gas volume measurements made with the gas flow meter.
-10.3 Calibration of Thermocouples and Other Temperature Sensors. Use the procedures and criteria in section 10.3 of Method 2 in appendix A-1 to this part to calibrate in- stack temperature sensors and thermocouples. Calibrations must be performed prior to initial use and at least quarterly thereafter. At each calibration point, the absolute temperature measured by the temperature sensor must agree to within ±1.5 percent of the temperature measured with the reference sensor, otherwise the sensor may not continue to be used.
+10.3 Calibration of Thermocouples and Other Temperature Sensors. Use the procedures and criteria in section 10.3 of Method 2 in appendix A–1 to this part to calibrate in- stack temperature sensors and thermocouples. Calibrations must be performed prior to initial use and at least quarterly thereafter. At each calibration point, the absolute temperature measured by the temperature sensor must agree to within ±1.5 percent of the temperature measured with the reference sensor, otherwise the sensor may not continue to be used.
 10.4 Barometer Calibration. Calibrate the barometer against another barometer that has a NIST-traceable calibration. This calibration must be performed prior to initial use and at least quarterly thereafter. At each calibration point, the absolute pressure measured by the barometer must agree to within ±10 mm Hg of the pressure measured by the NIST-traceable barometer, otherwise the barometer may not continue to be used.
 10.5 Calibration of Other Sensors and Gauges. Calibrate all other sensors and gauges according to the procedures specified by the instrument manufacturer(s).
 10.6 Analytical System Calibration. See section 11.1 of this performance specification.
@@ -1549,7 +1588,7 @@ The analysis of the Hg samples may be conducted using any instrument or technolo
 11.3 Spike Recovery Study. Before analyzing any field samples, the laboratory must demonstrate the ability to recover and quantify Hg from the sorbent media by performing the following spike recovery study for sorbent media traps spiked with elemental mercury. Using the procedures described in sections 6.2 and 12.1 of this performance specification, spike the third section of nine sorbent traps with gaseous Hg 0, i.e., three traps at each of three different mass loadings, representing the range of masses anticipated in the field samples. This will yield a 3 × 3 sample matrix. Prepare and analyze the third section of each spiked trap, using the techniques that will be used to prepare and analyze the field samples. The average recovery for each spike concentration must be between 85 and 115 percent. If multiple types of sorbent media are to be analyzed, a separate spike recovery study is required for each sorbent material. If multiple ranges are calibrated, a separate spike recovery study is required for each range.
 11.4 Field Sample Analyses. Analyze the sorbent trap samples following the same procedures that were used for conducting the spike recovery study. The three sections of each sorbent trap must be analyzed separately (i.e., section 1, then section 2, then section 3). Quantify the total mass of Hg for each section based on analytical system response and the calibration curve from section 11.1 of this performance specification. Determine the spike recovery from sorbent trap section 3. The spike recovery must be no less than 75 percent and no greater than 125 percent. To report the final Hg mass for each trap, add together the Hg masses collected in trap sections 1 and 2.
 12.0 Calculations, Data Reduction, and Data Analysis
-12.1 Calculation of Pre-Sampling Spiking Level. Determine sorbent trap section 3 spiking level using estimates of the stack Hg concentration, the target sample flow rate, and the expected monitoring period. Calculate M exp, the expected Hg mass that will be collected in section 1 of the trap, using Equation 12B-1. The pre-sampling spike must be within ±50 percent of this mass.
+12.1 Calculation of Pre-Sampling Spiking Level. Determine sorbent trap section 3 spiking level using estimates of the stack Hg concentration, the target sample flow rate, and the expected monitoring period. Calculate M exp, the expected Hg mass that will be collected in section 1 of the trap, using Equation 12B–1. The pre-sampling spike must be within ±50 percent of this mass.
 ER09SE10.018
 Where:
 M exp = Expected sample mass (µg)
@@ -1566,7 +1605,7 @@ R ref = Reference ratio of hourly stack gas flow rate to hourly sample flow rate
 Q ref = Average stack gas volumetric flow rate for first hour of collection period (scfh)
 F ref = Average sample flow rate for first hour of the collection period, in appropriate units (e.g., liters/min, cc/min, dscm/min)
 K = Power of ten multiplier, to keep the value of R ref between 1 and 100. The appropriate K value will depend on the selected units of measure for the sample flow rate.
-Then, for each subsequent hour of the data collection period, calculate ratio of the stack gas flow rate to the sample flow rate using Equation 12B-3:
+Then, for each subsequent hour of the data collection period, calculate ratio of the stack gas flow rate to the sample flow rate using Equation 12B–3:
 ER09SE10.020
 Where:
 R h = Ratio of hourly stack gas flow rate to hourly sample flow rate
@@ -1599,7 +1638,7 @@ RD = Relative deviation between the Hg concentrations from traps "a" and "b" (pe
 C a = Concentration of Hg for the collection period, for sorbent trap "a" (µg/dscm)
 C b = Concentration of Hg for the collection period, for sorbent trap "b" (µg/dscm)
 12.7 Calculation of Relative Accuracy. Calculate the relative accuracy as described in section 12.4 of PS 12A in this appendix.
-12.8 Data Reduction. Typical monitoring periods for normal, day-to-day operation of a sorbent trap monitoring system range from about 24 hours to 168 hours. For the required RA tests of the system, smaller sorbent traps are often used, and the "monitoring period" or time per run is considerably shorter (e.g., 1 hour or less). Generally speaking, to validate sorbent trap monitoring system data, the acceptance criteria for the following five QC specifications in Table 12B-1 above must be met for both traps: (a) the post-monitoring leak check; (b) the ratio of stack gas flow rate to sample flow rate; (c) section 2 breakthrough; (d) paired trap agreement; and (e) section 3 spike recovery.
+12.8 Data Reduction. Typical monitoring periods for normal, day-to-day operation of a sorbent trap monitoring system range from about 24 hours to 168 hours. For the required RA tests of the system, smaller sorbent traps are often used, and the "monitoring period" or time per run is considerably shorter (e.g., 1 hour or less). Generally speaking, to validate sorbent trap monitoring system data, the acceptance criteria for the following five QC specifications in Table 12B–1 above must be met for both traps: (a) the post-monitoring leak check; (b) the ratio of stack gas flow rate to sample flow rate; (c) section 2 breakthrough; (d) paired trap agreement; and (e) section 3 spike recovery.
 12.8.1 For routine day-to-day operation of a sorbent trap monitoring system, when both traps meet the acceptance criteria for all five QC specifications, the two measured Hg concentrations must be averaged arithmetically and the average value must be applied to each hour of the data collection period.
 12.8.2 To validate a RA test run, both traps must meet the acceptance criteria for all five QC specifications. However, as specified in section 12.8.3 below, for routine day-to-day operation of the monitoring system, a monitoring period may, in certain instances, be validated based on the results from one trap.
 12.8.3 For the routine, day-to-day operation of the monitoring system, when one of the two sorbent trap samples or sampling systems either: (a) Fails the post-monitoring leak check; or (b) has excessive section 2 breakthrough; or (c) fails to maintain the proper stack flow-to-sample flow ratio; or (d) fails to achieve the required section 3 spike recovery; or (e) is lost, broken, or damaged, provided that the other trap meets the acceptance criteria for all four of these QC specifications, the Hg concentration measured by the valid trap may be multiplied by a factor of 1.111 and then used for reporting purposes. Further, if both traps meet the acceptance criteria for all four of these QC specifications, but the acceptance criterion for paired trap agreement is not met, the owner or operator may report the higher of the two Hg concentrations measured by the traps, in lieu of invalidating the data from the paired traps.
@@ -1723,9 +1762,9 @@ where the bias, B, and the correction factor, CF, are given in section 12.1. For
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
 16.0 References
-1. Method 318, 40 CFR, Part 63, Appendix A (Draft), "Measurement of Gaseous Formaldehyde, Phenol and Methanol Emissions by FTIR Spectroscopy," EPA Contract No. 68D20163, Work Assignment 2-18, February, 1995.
+1. Method 318, 40 CFR, Part 63, Appendix A (Draft), "Measurement of Gaseous Formaldehyde, Phenol and Methanol Emissions by FTIR Spectroscopy," EPA Contract No. 68D20163, Work Assignment 2–18, February, 1995.
 2. "EPA Protocol for the Use of Extractive Fourier Transform Infrared (FTIR) Spectrometry in Analyses of Gaseous Emissions from Stationary Industrial Sources," February, 1995.
-3. "Measurement of Gaseous Organic and Inorganic Emissions by Extractive FTIR Spectroscopy," EPA Contract No. 68-D2-0165, Work Assignment 3-08.
+3. "Measurement of Gaseous Organic and Inorganic Emissions by Extractive FTIR Spectroscopy," EPA Contract No. 68–D2–0165, Work Assignment 3–08.
 4. "Method 301—Field Validation of Pollutant Measurement Methods from Various Waste Media," 40 CFR 63, App A.
 17.0 Tables, Diagrams, Flowcharts, and Validation Data
 Table 1—Arrangement of Validation Measurements for Statistical Analysis
@@ -1754,7 +1793,7 @@ n−1 a | t−value | n−1 a | t−value | n−1 a | t−value | n−1 a | t−
 a n is the number of independent pairs of measurements (a pair consists of one spiked and its corresponding unspiked measurement). Either discreet (independent) measurements in a single run, or run averages can be used.
 Performance Specification 16—Specifications and Test Procedures for Predictive Emission Monitoring Systems in Stationary Sources
 1.0 Scope and Application
-1.1 Does this performance specification apply to me? If you, the source owner or operator, intend to use (with any necessary approvals) a predictive emission monitoring system (PEMS) to show compliance with your emission limitation under 40 CFR 60, 61, or 63, you must use the procedures in this performance specification (PS) to determine whether your PEMS is acceptable for use in demonstrating compliance with applicable requirements. Use these procedures to certify your PEMS after initial installation and periodically thereafter to ensure the PEMS is operating properly. If your PEMS contains a diluent (O 2 or CO 2) measuring component and your emissions limitation is in units that require a diluent measurement (e.g. lbs/mm Btu), the diluent component must be tested as well. These specifications apply to PEMS that are installed under 40 CFR 60, 61, and 63 after the effective date of this performance specification. These specifications do not apply to parametric monitoring systems, these are covered under PS-17.
+1.1 Does this performance specification apply to me? If you, the source owner or operator, intend to use (with any necessary approvals) a predictive emission monitoring system (PEMS) to show compliance with your emission limitation under this part or 40 CFR part 61 or 63, you must use the procedures in this performance specification (PS) to determine whether your PEMS is acceptable for use in demonstrating compliance with applicable requirements. Use these procedures to certify your PEMS after initial installation and periodically thereafter to ensure the PEMS is operating properly. If your PEMS contains a diluent (O 2 or CO 2) measuring component, the diluent component must be tested as well. These specifications apply to PEMS that are installed under 40 CFR parts 60, 61, and 63 after April 24, 2009.
 1.1.1 How do I certify my PEMS after it is installed? PEMS must pass a relative accuracy (RA) test and accompanying statistical tests in the initial certification test to be acceptable for use in demonstrating compliance with applicable requirements. Ongoing quality assurance tests also must be conducted to ensure the PEMS is operating properly. An ongoing sensor evaluation procedure must be in place before the PEMS certification is complete. The amount of testing and data validation that is required depends upon the regulatory needs, i.e., whether precise quantification of emissions will be needed or whether indication of exceedances of some regulatory threshold will suffice. Performance criteria are more rigorous for PEMS used in determining continual compliance with an emission limit than those used to measure excess emissions. You must perform the initial certification test on your PEMS before reporting any PEMS data as quality-assured.
 1.1.2 Is other testing required after certification? After you initially certify your PEMS, you must pass additional periodic performance checks to ensure the long-term quality of data. These periodic checks are listed in the table in section 9. You are always responsible for properly maintaining and operating your PEMS.
 2.0 Summary of Performance Specification
@@ -1775,8 +1814,8 @@ The following definitions apply:
 3.8 Quarter means a quarter of a calendar year in which there are at least 168 unit operating hours.
 3.9 Reconciled Process Data means substitute data that are generated by a sensor evaluation system to replace that of a failed sensor. Reconciled process data may not be used without approval from the Administrator.
 3.10 Relative Accuracy means the accuracy of the PEMS when compared to a reference method (RM) at the source. The RA is the average difference between the pollutant PEMS and RM data for a specified number of comparison runs plus a 2.5 percent confidence coefficient, divided by the average of the RM tests. For a diluent PEMS, the RA may be expressed as a percentage of absolute difference between the PEMS and RM. Alternative specifications are given for units that have very low emissions.
-3.11 Relative Accuracy Audit means a quarterly audit of the PEMS against a portable analyzer meeting the requirements of ASTM D6522-00 or a RM for a specified number of runs. A RM may be used in place of the portable analyzer for the RAA.
-3.12 Relative Accuracy Test Audit means a RA test that is performed at least once every four calendar quarters after the initial certification test while the PEMS is operating at the normal operating level.
+3.11 Relative Accuracy Audit (RAA) means a quarterly audit of the PEMS against a portable analyzer meeting the requirements of ASTM D6522–00 or a RM for a specified number of runs. A RM may be used in place of the portable analyzer for the RAA.
+3.12 Relative Accuracy Test Audit (RATA) means a RA test that is performed at least once every four calendar quarters after the initial certification test. The RATA shall be conducted as described in section 8.2 of this method.
 3.13 Reference Value means a PEMS baseline value that may be established by RM testing under conditions when all sensors are functioning properly. This reference value may then be used in the sensor evaluation system or in adjusting new sensors.
 3.14 Sensor Evaluation System means the equipment or procedure used to periodically assess the quality of sensor input data. This system may be a sub-model that periodically cross-checks sensor inputs among themselves or any other procedure that checks sensor integrity at least daily (when operated for more than one hour in any calendar day).
 3.15 Sensors and Sensor Interface means the equipment that measures the process input signals and transports them to the emission prediction system.
@@ -1835,18 +1874,18 @@ Use the paired PEMS and RM data and the equations in section 12.2 to calculate t
 8.3.2 F-test. Perform a separate F-test for the RA paired data from each operating level to determine if the RM and PEMS variances differ by more than might be expected from chance. Use the equations in section 12.3.2.
 8.3.3 Correlation Analysis. Perform a correlation analysis using the RA paired data from all operating levels combined to determine how well the RM and PEMS correlate. Use the equations in section 12.3.3. The correlation is waived if the process cannot be varied to produce a concentration change sufficient for a successful correlation test because of its technical design. In such cases, should a subsequent RATA identify a variation in the RM measured values by more than 30 percent, the waiver will not apply, and a correlation analysis test must be performed at the next RATA.
 8.4 Reporting. Summarize in tabular form the results of the RA and statistical tests. Include all data sheets, calculations, and charts (records of PEMS responses) necessary to verify that your PEMS meets the performance specifications. Include in the report the documentation used to establish your PEMS parameter envelopes.
-8.5 Reevaluating Your PEMS After a Failed Test, Change in Operations, or Change in Critical PEMS Parameter. After initial certification, if your PEMS fails to pass a quarterly RAA or yearly RATA, or if changes occur or are made that could result in a significant change in the emission rate (e.g., turbine aging, process modification, new process operating modes, or changes to emission controls), your PEMS must be recertified using the tests and procedures in section 8.1. For example, if you initially developed your PEMS for the emissions unit operating at 80-100 percent of its range, you would have performed the initial test under these conditions. Later, if you wanted to operate the emission unit at 50-100 percent of its range, you must conduct another RA test and statistical tests, as applicable, to verify that the new conditions of 50-100 percent of range are functional. These tests must demonstrate that your PEMS provides acceptable data when operating in the new range or with the new critical PEMS parameter(s). The requirements of section 8.1 must be completed by the earlier of 60 unit operating days or 180 calendar days after the failed RATA or after the change that caused a significant change in emission rate.
+8.5 Reevaluating Your PEMS After a Failed Test, Change in Operations, or Change in Critical PEMS Parameter. After initial certification, if your PEMS fails to pass a quarterly RAA or yearly RATA, or if changes occur or are made that could result in a significant change in the emission rate (e.g., turbine aging, process modification, new process operating modes, or changes to emission controls), your PEMS must be recertified using the tests and procedures in section 8.1. For example, if you initially developed your PEMS for the emissions unit operating at 80–100 percent of its range, you would have performed the initial test under these conditions. Later, if you wanted to operate the emission unit at 50–100 percent of its range, you must conduct another RA test and statistical tests, as applicable, to verify that the new conditions of 50–100 percent of range are functional. These tests must demonstrate that your PEMS provides acceptable data when operating in the new range or with the new critical PEMS parameter(s). The requirements of section 8.1 must be completed by the earlier of 60 unit operating days or 180 calendar days after the failed RATA or after the change that caused a significant change in emission rate.
 9.0 Quality Control
 You must incorporate a QA plan beyond the initial PEMS certification test to verify that your system is generating quality-assured data. The QA plan must include the components of this section.
-9.1 QA/QC Summary. Conduct the applicable ongoing tests listed below.
+9.1 QA/QC Summary. Conduct the applicable ongoing tests listed in this section.
 Ongoing Quality Assurance Tests
 Test | PEMS regulatory purpose | Acceptability | Frequency
 Sensor Evaluation | All | | Daily.
-RAA | Compliance | 3-test avg ≤10% of simultaneous analyzer or RM average | Each quarter except quarter when RATA performed.
-RATA | All | Same as for RA in Sec. 13.1 | Yearly in quarter when RAA not performed.
+RAA | All | Same as for RA in section 13.5 of this method | Each quarter except quarter when RATA performed.
+RATA | All | Same as for RA in section 13.1 of this method | Yearly in quarter when RAA not performed.
 Bias Correction | All | If d avg ≤ |cc| | Bias test passed (no correction factor needed).
-PEMS Training | All | If F critical ≥F r ≥0.8 | Optional after initial and subsequent RATAs.
-Sensor Evaluation Alert Test (optional) | All | See Section 6.1.8 | After each PEMS training.
+PEMS Training | All | If F critical ≥ F, r ≥ 0.8 | Optional after initial and subsequent RATAs.
+Sensor Evaluation Alert Test (optional) | All | See section 6.1.8 of this method | After each PEMS training.
 9.2 Daily Sensor Evaluation Check. Your sensor evaluation system must check the integrity of each PEMS input at least daily.
 9.3 Quarterly Relative Accuracy Audits. In the first year of operation after the initial certification, perform a RAA consisting of at least three 30-minute portable analyzer or RM determinations each quarter a RATA is not performed. To conduct a RAA, follow the procedures in Section 8.2 for the relative accuracy test, except that only three sets of measurement data are required, and the statistical tests are not required. The average of the three or more portable analyzer or RM determinations must not exceed the limits given in Section 13.5. Report the data from all sets of measurement data. If a PEMS passes all quarterly RAAs in the first year and also passes the subsequent yearly RATA in the second year, you may elect to perform a single mid-year RAA in the second year in place of the quarterly RAAs. This option may be repeated, but only until the PEMS fails either a mid-year RAA or a yearly RATA. When such a failure occurs, you must resume quarterly RAAs in the quarter following the failure and continue conducting quarterly RAAs until the PEMS successfully passes both a year of quarterly RAAs and a subsequent RATA.
 9.4 Yearly Relative Accuracy Test. Perform a minimum 9-run RATA at the normal operating level on a yearly basis in the quarter that the RAA is not performed. The statistical tests in Section 8.3 are not required for the yearly RATA.
@@ -1873,41 +1912,41 @@ RAA = Relative accuracy audit.
 RM = Average RM value (or in the case of the RAA, the average portable analyzer value). In cases where the average emissions for the test are less than 50 percent of the applicable standard, substitute the emission standard value here in place of the average RM value.
 S d = Standard deviation of differences.
 S 2 = Variance of your PEMS or RM.
-t 0.025 = t-value for a one-sided, 97.5 percent confidence interval (see Table 16-1).
-12.2 Relative Accuracy Calculations. Calculate the mean of the RM values. Calculate the differences between the pairs of observations for the RM and the PEMS output sets. Finally, calculate the mean of the differences, standard deviation, confidence coefficient, and PEMS RA, using Equations 16-1, 16-2, 16-3, and 16-4, respectively. For compliance PEMS, calculate the RA at each test level. The PEMS must pass the RA criterion at each test level.
-12.2.1 Arithmetic Mean. Calculate the arithmetic mean of the differences between paired RM and PEMS observations using Equation 16-1.
+t 0.025 = t-value for a one-sided, 97.5 percent confidence interval (see Table 16–1).
+12.2 Relative Accuracy Calculations. Calculate the mean of the RM values. Calculate the differences between the pairs of observations for the RM and the PEMS output sets. Finally, calculate the mean of the differences, standard deviation, confidence coefficient, and PEMS RA, using Equations 16–1, 16–2, 16–3, and 16–4, respectively. For compliance PEMS, calculate the RA at each test level. The PEMS must pass the RA criterion at each test level.
+12.2.1 Arithmetic Mean. Calculate the arithmetic mean of the differences between paired RM and PEMS observations using Equation 16–1.
 ER25MR09.094
-12.2.2 Standard Deviation. Calculate the standard deviation of the differences using Equation 16-2 (positive square root).
+12.2.2 Standard Deviation. Calculate the standard deviation of the differences using Equation 16–2 (positive square root).
 ER25MR09.095
-12.2.3 Confidence Coefficient. Calculate the confidence coefficient using Equation 16-3 and Table 16-1 for n−1 degrees of freedom.
+12.2.3 Confidence Coefficient. Calculate the confidence coefficient using Equation 16–3 and Table 16–1 for n−1 degrees of freedom.
 ER25MR09.096
-12.2.4 Relative Accuracy. Calculate the RA of your data using Equation 16-4.
+12.2.4 Relative Accuracy. Calculate the RA of your data using Equation 16–4.
 ER25MR09.097
 12.3 Compliance PEMS Statistical Tests. If your PEMS will be used for continual compliance purposes, conduct the following tests using the information obtained during the RA tests. For the pollutant measurements at any one test level, if the mean value of the RM is less than either 10 ppm or 5 percent of the emission standard, all statistical tests are waived at that specific test level. For diluent measurements at any one test level, if the mean value of the RM is less than 3 percent of span, all statistical tests are waived for that specific test level.
-12.3.1 Bias Test. Conduct a bias test to determine if your PEMS is biased relative to the RM. Determine the PEMS bias by comparing the confidence coefficient obtained from Equation 16-3 to the arithmetic mean of the differences determined in Equation 16-1. If the arithmetic mean of the differences (d) is greater than the absolute value of the confidence coefficient (cc), your PEMS must incorporate a bias factor to adjust future PEMS values as in Equation 16-5.
+12.3.1 Bias Test. Conduct a bias test to determine if your PEMS is biased relative to the RM. Determine the PEMS bias by comparing the confidence coefficient obtained from Equation 16–3 to the arithmetic mean of the differences determined in Equation 16–1. If the arithmetic mean of the differences (d) is greater than the absolute value of the confidence coefficient (cc), your PEMS must incorporate a bias factor to adjust future PEMS values as in Equation 16–5.
 ER25MR09.098
 Where:
 ER25MR09.099
-12.3.2 F-test. Conduct an F-test for each of the three RA data sets collected at different test levels. Calculate the variances of the PEMS and the RM using Equation 16-6.
+12.3.2 F-test. Conduct an F-test for each of the three RA data sets collected at different test levels. Calculate the variances of the PEMS and the RM using Equation 16–6.
 ER25MR09.100
-Determine if the variance of the PEMS data is significantly different from that of the RM data at each level by calculating the F-value using Equation 16-7.
+Determine if the variance of the PEMS data is significantly different from that of the RM data at each level by calculating the F-value using Equation 16–7.
 ER25MR09.101
-Compare the calculated F-value with the critical value of F at the 95 percent confidence level with n-1 degrees of freedom. The critical value is obtained from Table 16-2 or a similar table for F-distribution. If the calculated F-value is greater than the critical value at any level, your proposed PEMS is unacceptable. For pollutant PEMS measurements, if the standard deviation of the RM is less than either 3 percent of the span or 5 ppm, use a RM standard deviation of either 5 ppm or 3 percent of span. For diluent PEMS measurements, if the standard deviation of the reference method is less than 3 percent of span, use a RM standard deviation of 3 percent of span.
-12.3.3 Correlation Analysis. Calculate the correlation coefficient either manually using Eq. 16-8, on a graph, or by computer using all of the paired data points from all operating levels. Your PEMS correlation must be 0.8 or greater to be acceptable. If during the initial certification test, your PEMS data are determined to be auto-correlated according to the procedures in 40 CFR 75.41(b)(2), or if the signal-to-noise ratio of the data is less than 4, then the correlation analysis is permanently waived.
+Compare the calculated F-value with the critical value of F at the 95 percent confidence level with n–1 degrees of freedom. The critical value is obtained from Table 16–2 or a similar table for F-distribution. If the calculated F-value is greater than the critical value at any level, your proposed PEMS is unacceptable. For pollutant PEMS measurements, if the standard deviation of the RM is less than either 3 percent of the span or 5 ppm, use a RM standard deviation of either 5 ppm or 3 percent of span. For diluent PEMS measurements, if the standard deviation of the reference method is less than 3 percent of span, use a RM standard deviation of 3 percent of span.
+12.3.3 Correlation Analysis. Calculate the correlation coefficient either manually using Eq. 16–8, on a graph, or by computer using all of the paired data points from all operating levels. Your PEMS correlation must be 0.8 or greater to be acceptable. If during the initial certification test, your PEMS data are determined to be auto-correlated according to the procedures in 40 CFR 75.41(b)(2), or if the signal-to-noise ratio of the data is less than 4, then the correlation analysis is permanently waived.
 ER25MR09.102
-12.4 Relative Accuracy Audit. Calculate the quarterly RAA using Equation 16-9.
+12.4 Relative Accuracy Audit. Calculate the quarterly RAA using Equation 16–9.
 ER27FE14.019
 13.0 Method Performance
-13.1 PEMS Relative Accuracy. The RA must not exceed 10 percent if the PEMS measurements are greater than 100 ppm or 0.2 lbs/mm Btu. The RA must not exceed 20 percent if the PEMS measurements are between 100 ppm (or 0.2 lb/mm Btu) and 10 ppm (or 0.05 lb/mm Btu). For measurements below 10 ppm, the absolute mean difference between the PEMS measurements and the RM measurements must not exceed 2 pppm. For diluent PEMS, an alternative criterion of ±1 percent absolute difference between the PEMS and RM may be used if less stringent.
+13.1 PEMS Relative Accuracy. The RA, calculated in units of the emission standard, must not exceed 10 percent if the PEMS measurements are greater than 100 ppm or 0.2 lbs/mm Btu. The RA must not exceed 20 percent if the PEMS measurements are between 100 ppm (or 0.2 lb/mm Btu) and 10 ppm (or 0.02 lb/mm Btu). For measurements below 10 ppm (or 0.02 lb/mm Btu), the absolute mean difference between the PEMS measurements and the RM measurements must not exceed 2 ppm (or 0.01 lb/mm Btu). For diluent only PEMS, an alternative criterion of ±1 percent absolute difference between the PEMS and RM may be used if less stringent.
 13.2 PEMS Bias. Your PEMS data is considered biased and must be adjusted if the arithmetic mean (d) is greater than the absolute value of the confidence coefficient (cc) in Equations 16.1 and 16.3. In such cases, a bias factor must be used to correct your PEMS data.
 13.3 PEMS Variance. Your calculated F-value must not be greater than the critical F-value at the 95-percent confidence level for your PEMS to be acceptable.
 13.4 PEMS Correlation. Your calculated r-value must be greater than or equal to 0.8 for your PEMS to be acceptable.
-13.5 Relative Accuracy Audits. The average of the three portable analyzer or RM determinations must not differ from the simultaneous PEMS average value by more than 10 percent of the analyzer or RM for concentrations greater than 100 ppm or 20 percent for concentrations between 100 and 20 ppm, or the test is failed. For measurements at 20 ppm or less, this difference must not exceed 2 ppm for a pollutant PEMS and 1 percent absolute for a diluents PEMS.
+13.5 Relative Accuracy Audits (RAA). The average of the three portable analyzer or RM determinations must not differ from the simultaneous PEMS average value by more than 10 percent of the analyzer or RM for concentrations greater than 100 ppm (or 0.2 lb/mm Btu) or 20 percent for concentrations between 100 ppm (or 0.2 lb/mm Btu) and 10 ppm (or 0.02 lb/mm Btu), or the test is failed. For measurements at 20 ppm (or 0.04 lb/mm Btu) or less, this difference must not exceed 2 ppm (or 0.01 lb/mm Btu) for a pollutant PEMS. For diluent PEMS, the difference must not exceed 1 percent.
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
 16.0 References [Reserved]
 17.0 Tables, Diagrams, Flowcharts, and Validation Data
-Table 16-1— t -Values for One-sided, 97.5 Percent Confidence Intervals for Selected Sample Sizes *
+Table 16–1— t -Values for One-sided, 97.5 Percent Confidence Intervals for Selected Sample Sizes *
 n−1 * | t-value | n−1 | t-value
 1 | 12.706 | 15 | 2.131
 2 | 4.303 | 16 | 2.120
@@ -1928,7 +1967,7 @@ ER25MR09.107
 Performance Specification 17 [Reserved]
 Performance Specification 18—Performance Specifications and Test Procedures for Gaseous Hydrogen Chloride (HCI) Continuous Emission Monitoring Systems at Stationary Sources
 1.0 Scope and Application
-1.1 Analyte. This performance specification (PS) is applicable for measuring gaseous concentrations of hydrogen chloride (HCl), CAS: 7647-01-0, on a continuous basis in the units of the applicable standard or in units that can be converted to units of the applicable standard(s).
+1.1 Analyte. This performance specification (PS) is applicable for measuring gaseous concentrations of hydrogen chloride (HCl), CAS: 7647–01–0, on a continuous basis in the units of the applicable standard or in units that can be converted to units of the applicable standard(s).
 1.2 Applicability.
 1.2.1 This specification is used to evaluate the acceptability of HCl continuous emission monitoring systems (CEMS) at the time of installation or soon after and whenever specified in the regulations. The specification includes requirements for initial acceptance including instrument accuracy and stability assessments and use of audit samples if they are available.
 1.2.2 The Administrator may require the operator, under section 114 of the Clean Air Act, to conduct CEMS performance evaluations at other times besides the initial test to evaluate the CEMS performance. See 40 CFR part 60, §§ 60.13(c) and 63.8(e)(1).
@@ -1939,11 +1978,11 @@ Performance Specification 18—Performance Specifications and Test Procedures fo
 2.0 Summary of Performance Specification
 2.1 This specification covers the procedures that each CEMS must meet during the performance evaluation test. Installation and measurement location specifications, data reduction procedures, and performance criteria are included.
 2.2 The technology used to measure gaseous HCl must provide a distinct response and address any appropriate interference correction(s). It must accurately measure gaseous HCl in a representative sample (path or point sampling) of stack effluent.
-2.3 The relative accuracy (RA) must be established against a reference method (RM) (e.g., Method 26A, Method 320, ASTM International (ASTM) D6348-12, including mandatory annexes, or Method 321 for Portland cement plants as specified by the applicable regulation or, if not specified, as appropriate for the source concentration and category). Method 26 may be approved as a RM by the Administrator on a case-by-case basis if not otherwise allowed or denied in an applicable regulation.
+2.3 The relative accuracy (RA) must be established against a reference method (RM) (e.g., Method 26A, Method 320, ASTM International (ASTM) D6348–12, including mandatory annexes, or Method 321 for Portland cement plants as specified by the applicable regulation or, if not specified, as appropriate for the source concentration and category). Method 26 may be approved as a RM by the Administrator on a case-by-case basis if not otherwise allowed or denied in an applicable regulation.
 2.4 A standard addition (SA) procedure using a reference standard is included in appendix A to this performance specification for use in verifying LOD. For extractive CEMS, where the SA is done by dynamic spiking (DS), the appendix A procedure is allowed as an option for assessing calibration drift and is also referenced by Procedure 6 of appendix F to this part for ongoing quality control tests.
 3.0 Definitions
 3.1 Beam attenuation is the reduction in electromagnetic radiation (light) throughput from the maximum beam intensity experienced during site specific CEMS operation.
-3.2 Beam intensity is the electromagnetic radiation (light) throughput for an IP-CEMS instrument measured following manufacturers specifications.
+3.2 Beam intensity is the electromagnetic radiation (light) throughput for an IP–CEMS instrument measured following manufacturers specifications.
 3.3 Calibration cell means a gas containment cell used with cross stack or integrated path (IP) CEMS for calibration and to perform many of the test procedures required by this performance specification. The cell may be a removable sealed cell or an evacuated and/or purged cell capable of exchanging reference and other calibration gases as well as zero gas standards. When charged, it contains a known concentration of HCl and/or interference gases. The calibration cell is filled with zero gas or removed from the optical path during stack gas measurement.
 3.4 Calibration drift (CD) means the absolute value of the difference between the CEMS output response and an upscale reference gas or a zero-level gas, expressed as a percentage of the span value, when the CEMS is challenged after a stated period of operation during which no unscheduled adjustments, maintenance or repairs took place.
 3.5 Centroidal area means a central area that is geometrically similar to the stack or duct cross section and is no greater than 10 percent of the stack or duct cross-sectional area.
@@ -1954,16 +1993,16 @@ Performance Specification 18—Performance Specifications and Test Procedures fo
 3.7 Diluent gas means a major gaseous constituent in a gaseous pollutant mixture. For combustion sources, either carbon dioxide (CO 2) or oxygen (O 2) or a combination of these two gases are the major gaseous diluents of interest.
 3.8 Dynamic spiking (DS) means the procedure where a known concentration of HCl gas is injected into the probe sample gas stream for extractive CEMS at a known flow rate to assess the performance of the measurement system in the presence of potential interference from the flue gas sample matrix.
 3.9 Independent measurement(s) means the series of CEMS data values taken during sample gas analysis separated by two times the procedure specific response time (RT) of the CEMS.
-3.10 Integrated path CEMS (IP-CEMS) means an in-situ CEMS that measures the gas concentration along an optical path in the stack or duct cross section.
+3.10 Integrated path CEMS (IP–CEMS) means an in-situ CEMS that measures the gas concentration along an optical path in the stack or duct cross section.
 3.11 Interference means a compound or material in the sample matrix other than HCl whose characteristics may bias the CEMS measurement (positively or negatively). The interference may not prevent the sample measurement, but could increase the analytical uncertainty in the measured HCl concentration through reaction with HCl or by changing the electronic signal generated during HCl measurement.
 3.12 Interference test means the test to detect CEMS responses to interferences that are not adequately accounted for in the calibration procedure and may cause measurement bias.
 3.13 Level of detection (LOD) means the lowest level of pollutant that the CEMS can detect in the presence of the source gas matrix interferents with 99 percent confidence.
 3.14 Liquid evaporative standard means a reference gas produced by vaporizing National Institute of Standards and Technology (NIST) traceable liquid standards of known HCl concentration and quantitatively diluting the resultant vapor with a carrier gas.
 3.15 Measurement error (ME) is the mean difference between the concentration measured by the CEMS and the known concentration of a reference gas standard, divided by the span, when the entire CEMS, including the sampling interface, is challenged.
 3.16 Optical path means the route light travels from the light source to the receiver used to make sample measurements.
-3.17 Path length means, for an extractive optical CEMS, the distance in meters of the optical path within a gas measurement cell. For an IP-CEMS, path length means the distance in meters of the optical path that passes through the source gas in the stack or duct.
-3.18 Point CEMS means a CEMS that measures the source gas concentration, either at a single point at the sampling probe tip or over a path length for IP-CEMS less than 10 percent of the equivalent diameter of the stack or duct cross section.
-3.19 Stack pressure measurement device means a NIST-traceable gauge or monitor that measures absolute pressure and conforms to the design requirements of ASME B40.100-2010, "Pressure Gauges and Gauge Attachments" (incorporated by reference—see § 60.17).
+3.17 Path length means, for an extractive optical CEMS, the distance in meters of the optical path within a gas measurement cell. For an IP–CEMS, path length means the distance in meters of the optical path that passes through the source gas in the stack or duct.
+3.18 Point CEMS means a CEMS that measures the source gas concentration, either at a single point at the sampling probe tip or over a path length for IP–CEMS less than 10 percent of the equivalent diameter of the stack or duct cross section.
+3.19 Stack pressure measurement device means a NIST-traceable gauge or monitor that measures absolute pressure and conforms to the design requirements of ASME B40.100–2010, "Pressure Gauges and Gauge Attachments" (incorporated by reference—see § 60.17).
 3.20 Reference gas standard means a NIST-traceable gas standard containing a known concentration of HCl certified in accordance with an EPA traceability protocol in section 7.1 of this PS.
 3.21 Relative accuracy (RA) means the absolute mean difference between the gas concentration or the emission rate determined by the CEMS and the value determined by the RM, plus the confidence coefficient of a series of nine test runs, divided by the average of the RM or the applicable emission standard.
 3.22 Response time (RT) means the time it takes for the measurement system, while operating normally at its target sample flow rate, dilution ratio, or data collection rate to respond to a known step change in gas concentration, either from a low- or zero-level to a high-level gas concentration or from a high-level to a low or zero-level gas concentration, and to read 95 percent of the change to the stable instrument response. There may be several RTs for an instrument related to different functions or procedures (e.g., DS, LOD, and ME).
@@ -1981,28 +2020,28 @@ Equipment and supplies for CEMS will vary depending on the measurement technolog
 6.3 HClAnalyzer. The portion of the CEMS that detects, quantifies and generates an output proportional to the sample gas HCl concentration.
 6.4 System Controller. The portion of the CEMS that provides control of the analyzer and other sub-systems (e.g., sample extraction, sample conditioning, reference gas) as necessary for continuous operation and periodic maintenance/QC activities.
 6.5 Data Recorder. The portion of the CEMS that provides a record of analyzer output. The data recorder may record other pertinent data such as effluent flow rates, various instrument temperatures or abnormal CEMS operation. The data recorder output range must include the full range of expected HCl concentration values in the gas stream to be sampled including zero and span value.
-6.6 Reference Gas System(s). Gas handling system(s) needed to introduce reference and other gases into the measurement system. For extractive CEMS, the system must be able to introduce gas flow sufficient to flood the sampling probe and prevent entry of gas from the effluent stream. For IP-CEMS, the system must be able to introduce a known concentration of HCl, at known cell length, pressure and temperature, into the optical path used to measure HCl gas concentration.
-6.7 Moisture Measurement System. If correction of the measured HCl emissions for moisture is required, you must install, operate, maintain, and quality assure a continuous moisture monitoring system for measuring and recording the moisture content of the flue gases. The following continuous moisture monitoring systems are acceptable: An FTIR system validated according to Method 301 or section 13.0 of Method 320 in appendix A to part 63 of this chapter; a continuous moisture sensor; an oxygen analyzer (or analyzers) capable of measuring O 2 both on a wet basis and on a dry basis; a stack temperature sensor and a moisture look-up table, i.e., a psychrometric chart (for saturated gas streams following wet scrubbers or other demonstrably saturated gas streams, only); or other continuous moisture measurement methods approved by the Administrator. Alternatively, for any type of fuel, you may determine an appropriate site-specific default moisture value (or values), using measurements made with Method 4—Determination of Moisture Content In Stack Gases, in appendix A-3 to of this part. If this option is selected, the site-specific moisture default value(s) must represent the fuel(s) or fuel blends that are combusted in the unit during normal, stable operation, and must account for any distinct difference(s) in the stack gas moisture content associated with different process operating conditions. At least nine Method 4 runs are required for determining each site-specific default moisture percentage. Calculate each site-specific default moisture value by taking the arithmetic average of the Method 4 runs. Each site-specific moisture default value shall be updated whenever the current value is non-representative, due to changes in unit or process operation, but in any event no less frequently than annually.
+6.6 Reference Gas System(s). Gas handling system(s) needed to introduce reference and other gases into the measurement system. For extractive CEMS, the system must be able to introduce gas flow sufficient to flood the sampling probe and prevent entry of gas from the effluent stream. For IP–CEMS, the system must be able to introduce a known concentration of HCl, at known cell length, pressure and temperature, into the optical path used to measure HCl gas concentration.
+6.7 Moisture Measurement System. If correction of the measured HCl emissions for moisture is required, you must install, operate, maintain, and quality assure a continuous moisture monitoring system for measuring and recording the moisture content of the flue gases. The following continuous moisture monitoring systems are acceptable: An FTIR system validated according to Method 301 or section 13.0 of Method 320 in appendix A to part 63 of this chapter; a continuous moisture sensor; an oxygen analyzer (or analyzers) capable of measuring O 2 both on a wet basis and on a dry basis; a stack temperature sensor and a moisture look-up table, i.e., a psychrometric chart (for saturated gas streams following wet scrubbers or other demonstrably saturated gas streams, only); or other continuous moisture measurement methods approved by the Administrator. Alternatively, for any type of fuel, you may determine an appropriate site-specific default moisture value (or values), using measurements made with Method 4—Determination of Moisture Content In Stack Gases, in appendix A–3 to of this part. If this option is selected, the site-specific moisture default value(s) must represent the fuel(s) or fuel blends that are combusted in the unit during normal, stable operation, and must account for any distinct difference(s) in the stack gas moisture content associated with different process operating conditions. At least nine Method 4 runs are required for determining each site-specific default moisture percentage. Calculate each site-specific default moisture value by taking the arithmetic average of the Method 4 runs. Each site-specific moisture default value shall be updated whenever the current value is non-representative, due to changes in unit or process operation, but in any event no less frequently than annually.
 7.0 Reagents and Standards
-7.1 Reference Gases. Reference gases (e.g., cylinder gases or liquid evaporative standards) used to meet the requirements of this PS must be NIST certified or NIST-traceable and vendor certified to ±5.0 percent accuracy. HCl cylinder gases must be certified according to Reference 5 in section 16 of this PS through a documented unbroken chain of comparisons each contributing to the reported uncertainty. Liquid evaporative standards must be certified using the gravimetrically-based procedures of the latest version of the EPA Traceability Protocol for Qualification and Certification of Evaporative HCl Gas Standards and Humidification of HCl Gas Standards from Cylinders (see EPA-HQ-OAR-2013-0696-0026.pdf).
+7.1 Reference Gases. Reference gases (e.g., cylinder gases or liquid evaporative standards) used to meet the requirements of this PS must be NIST certified or NIST-traceable and vendor certified to ±5.0 percent accuracy. HCl cylinder gases must be certified according to Reference 5 in section 16 of this PS through a documented unbroken chain of comparisons each contributing to the reported uncertainty. Liquid evaporative standards must be certified using the gravimetrically-based procedures of the latest version of the EPA Traceability Protocol for Qualification and Certification of Evaporative HCl Gas Standards and Humidification of HCl Gas Standards from Cylinders (see EPA–HQ–OAR–2013–0696–0026.pdf).
 7.2 Cylinder gas and/or liquid evaporative standards must be used within their certification periods.
 7.3 High concentration cylinder gas or liquid evaporative HCl standards may be diluted for use in this specification. You must document the quantitative introduction of HCl standards into the system using Method 205, found in 40 CFR part 51, appendix M, or other procedure approved by the Administrator.
 8.0 CEMS Measurement Location Specifications and Pretest Preparation
 8.1 Prior to the start of your initial PS tests, you must ensure that the CEMS is installed according to the manufacturer's specifications and the requirements in this section. You may use either point or IP sampling technology.
 8.2 CEMS Installation. Install the CEMS at an accessible location where the pollutant concentration or emission rate measurements are directly representative of the HCl emissions or can be corrected so as to be representative of the total emissions from the affected facility. The CEMS need not be installed at the same location as the relative accuracy test location. If you fail the RA requirements in this specification due to the CEMS measurement location and a satisfactory correction technique cannot be established, the Administrator may require the CEMS to be relocated.
 8.2.1 Single point sample gas extraction should be (1) no less than 1.0 m (3.3 ft.) from the stack or duct wall or (2) within the centroidal area of the stack or duct cross section.
-8.2.2 IP-CEMS measurements should (1) be conducted totally within the inner area bounded by a line 1.0 m (3.3 ft.) from the stack or duct wall, (2) have at least 70 percent of the path within the inner 50 percent of the stack or duct cross-sectional area, or (3) be located over any part of the centroidal area.
-8.2.2.1 You must measure the IP-CEMS path length from the inner flange of the sampling ports or the inner end of the instrument insertion into the stack cavity using a laser tape measure, mechanical measurement tape, or similar device accurate to ±1.5 mm (0.059 in).
-8.2.2.2 You must ensure that any purge flow used to protect IP-CEMS instrument windows from stack gas does not alter the measurement path length. Purge flow of less than or equal to 10 percent of the gas velocity in the duct meets this requirement.
+8.2.2 IP–CEMS measurements should (1) be conducted totally within the inner area bounded by a line 1.0 m (3.3 ft.) from the stack or duct wall, (2) have at least 70 percent of the path within the inner 50 percent of the stack or duct cross-sectional area, or (3) be located over any part of the centroidal area.
+8.2.2.1 You must measure the IP–CEMS path length from the inner flange of the sampling ports or the inner end of the instrument insertion into the stack cavity using a laser tape measure, mechanical measurement tape, or similar device accurate to ±1.5 mm (0.059 in).
+8.2.2.2 You must ensure that any purge flow used to protect IP–CEMS instrument windows from stack gas does not alter the measurement path length. Purge flow of less than or equal to 10 percent of the gas velocity in the duct meets this requirement.
 8.2.3 CEMS and Data Recorder Scale Check. After CEMS installation, record and document the measurement range of the HCl CEMS. The CEMS operating range and the range of the data recording device must encompass all potential and expected HCl concentrations, including the concentration equivalent to the applicable emission limit and the span value.
 9.0 Quality Control [Reserved]
 10.0 Calibration and Standardization [Reserved]
 11.0 Performance Specification Test Procedure
 After completing the CEMS installation, setup and calibration, you must complete the PS test procedures in this section. You must perform the following procedures and meet the performance requirements for the initial demonstration of your CEMS:
 a. Interference Test;
-b. Beam Intensity Test (IP-CEMS only);
-c. Temperature Verification Procedure (IP-CEMS only);
-d. Pressure Verification Procedure (IP-CEMS only);
+b. Beam Intensity Test (IP–CEMS only);
+c. Temperature Verification Procedure (IP–CEMS only);
+d. Pressure Verification Procedure (IP–CEMS only);
 e. Level of Detection Determination;
 f. Response Time Test;
 g. Measurement Error Test;
@@ -2015,7 +2054,7 @@ i. Relative Accuracy Test.
 11.1.4 Perform the interference check using an HCl reference gas concentration of approximately five times the LOD.
 11.1.5 Introduce the interference test gases listed in Table 1 in section 17.0 of this PS to the analyzer/conditioning system separately or in any combination. The interference test gases need not be of reference gas quality.
 11.1.5.1 For extractive CEMS, the interference test gases may be introduced directly into the inlet to the analyzer/conditioning system after the probe extension coupling.
-11.1.5.2 For IP-CEMS, the interference test gases may be added with the HCl in a calibration cell or separately in a temperature-controlled cell. The effective concentration of the gas in the cell must meet the requirements in Table 1 corrected for absolute pressure, temperature and the nominal stack sampling path length of the CEMS.
+11.1.5.2 For IP–CEMS, the interference test gases may be added with the HCl in a calibration cell or separately in a temperature-controlled cell. The effective concentration of the gas in the cell must meet the requirements in Table 1 corrected for absolute pressure, temperature and the nominal stack sampling path length of the CEMS.
 11.1.6 The interference test must be performed by combining an HCl reference gas with each interference test gas (or gas mixture). You must measure the baseline HCl response, followed by the response after adding the interference test gas(es) while maintaining a constant HCl concentration. You must perform each interference gas injection and evaluation in triplicate.
 Note: The baseline HCl gas may include interference gases at concentrations typical of ambient air (e.g., 21 percent O 2, 400 parts per million (ppm) CO 2, 2 percent H 2 O), but these concentrations must be brought to the concentrations listed in Table 1 when their interference effects are being evaluated.
 11.1.7 You should document the gas volume/rate, temperature, and pressure used to conduct the interference test. A gas blending system or manifold may be used.
@@ -2024,50 +2063,50 @@ Note: The baseline HCl gas may include interference gases at concentrations typi
 11.1.10 For each interference gas (or mixture), calculate the mean difference (ΔMC avg) between the measurement system responses with and without the interference test gas(es) using Equation 1 in section 12.2. Summarize the results following the format contained in Table 2 in section 17.
 11.1.11 Calculate the percent interference (I) for the gas runs using Equation 2 in section 12.2.
 11.1.12 The total interference response (i.e., the sum of the interference responses of all tested gaseous components) must not exceed the criteria set forth in section 13.5 of this PS.
-11.2 Beam Intensity Test for IP-CEMS
-11.2.1 For IP-CEMS, you must establish the tolerance of your system to beam intensity attenuation.
+11.2 Beam Intensity Test for IP–CEMS
+11.2.1 For IP–CEMS, you must establish the tolerance of your system to beam intensity attenuation.
 11.2.1.1 Your beam intensity test may be conducted in either a controlled environment or on-site during initial setup and demonstration of your CEMS.
 11.2.1.2 If you have multiple measurement systems with components of the same make and model numbers, you need only perform this attenuation check on one system and you may also rely on an attenuation test conducted by the manufacturer on a system having components of the same make and model(s) of the system that you use.
 11.2.2 Insert one or more neutral density filter(s) or otherwise attenuate the beam intensity by a known percentage (e.g., 90 percent of the beam intensity).
 11.2.3 Perform a high-level HCl reference gas measurement.
 11.2.4 Record and report the attenuated beam intensity, the measured HCl calibration gas concentration at full beam intensity, the measured HCl gas concentration with attenuated beam intensity, and the percent difference between the two HCl measurements with and without attenuation of the beam intensity. The percent difference must not exceed the criteria set forth in section 13.6 of this PS.
-11.2.5 In the future, you may not operate your IP-CEMS at a beam intensity lower than that established based on the attenuation used during this test. However, you may repeat the test to establish a lower beam intensity limit or level.
-11.3 Temperature Measurement Verification Procedure for IP-CEMS
+11.2.5 In the future, you may not operate your IP–CEMS at a beam intensity lower than that established based on the attenuation used during this test. However, you may repeat the test to establish a lower beam intensity limit or level.
+11.3 Temperature Measurement Verification Procedure for IP–CEMS
 11.3.1 Any measurement instrument or device that is used as a reference in verification of temperature measurement must have an accuracy that is traceable to NIST.
-11.3.2 You must verify the temperature sensor used in IP-CEMS measurements on-site as part of the initial installation and verification procedures.
+11.3.2 You must verify the temperature sensor used in IP–CEMS measurements on-site as part of the initial installation and verification procedures.
 11.3.3 Comparison to Calibrated Temperature Measurement Device.
-11.3.3.1 Place the sensor of a calibrated temperature reference device adjacent to the sensor used to measure stack temperature for your IP-CEMS. The calibrated temperature reference device must satisfy the accuracy requirements specified in Table 3 of this PS. The calibrated temperature reference device must also have a range equal to or greater than the range of your IP-CEMS temperature sensor.
-11.3.3.2 Allow sufficient time for the response of the calibrated temperature reference device to reach equilibrium. With the process and control device operating under normal conditions, concurrently record the temperatures measured by your IP-CEMS system (M t) and the calibrated temperature reference device (V t). You must meet the accuracy requirements specified in section 13.7 of this PS.
-11.3.3.3 If your IP-CEMS temperature sensor does not satisfy the accuracy requirement of this PS, check all system components and take any corrective action that is necessary to achieve the required minimum accuracy. Repeat this verification procedure until the accuracy requirement of this specification is satisfied.
-11.4 Pressure Measurement Verification Procedure for IP-CEMS
-11.4.1 For stack pressure measurement verification, you must select a NIST-traceable gauge or monitor that conforms to the design requirements of ASME B40.100-2010, "Pressure Gauges and Gauge Attachments," (incorporated by reference—see § 60.17) as a reference device.
-11.4.2 As an alternative for a calibrated pressure reference device with NIST-traceable accuracy, you may use a water-in-glass U-tube manometer to verify your IP-CEMS pressure measurement equipment, provided there is also an accurate measurement of absolute atmospheric pressure at the manometer location.
-11.4.3 Allow sufficient time for the response of the reference pressure measurement device to reach equilibrium. With the process and control device operating under normal conditions, concurrently record the pressures measured by your IP-CEMS system (M P) and the pressure reference device (V p). You must meet the accuracy requirements specified in section 13.8 of this PS.
-11.4.4 If your IP-CEMS pressure sensor does not satisfy the accuracy requirement of this PS, check all system components and take any corrective action that is necessary to achieve the required minimum accuracy. Repeat this verification procedure until the accuracy requirement of this specification is satisfied.
+11.3.3.1 Place the sensor of a calibrated temperature reference device adjacent to the sensor used to measure stack temperature for your IP–CEMS. The calibrated temperature reference device must satisfy the accuracy requirements specified in Table 3 of this PS. The calibrated temperature reference device must also have a range equal to or greater than the range of your IP–CEMS temperature sensor.
+11.3.3.2 Allow sufficient time for the response of the calibrated temperature reference device to reach equilibrium. With the process and control device operating under normal conditions, concurrently record the temperatures measured by your IP–CEMS system (M t) and the calibrated temperature reference device (V t). You must meet the accuracy requirements specified in section 13.7 of this PS.
+11.3.3.3 If your IP–CEMS temperature sensor does not satisfy the accuracy requirement of this PS, check all system components and take any corrective action that is necessary to achieve the required minimum accuracy. Repeat this verification procedure until the accuracy requirement of this specification is satisfied.
+11.4 Pressure Measurement Verification Procedure for IP–CEMS
+11.4.1 For stack pressure measurement verification, you must select a NIST-traceable gauge or monitor that conforms to the design requirements of ASME B40.100–2010, "Pressure Gauges and Gauge Attachments," (incorporated by reference—see § 60.17) as a reference device.
+11.4.2 As an alternative for a calibrated pressure reference device with NIST-traceable accuracy, you may use a water-in-glass U-tube manometer to verify your IP–CEMS pressure measurement equipment, provided there is also an accurate measurement of absolute atmospheric pressure at the manometer location.
+11.4.3 Allow sufficient time for the response of the reference pressure measurement device to reach equilibrium. With the process and control device operating under normal conditions, concurrently record the pressures measured by your IP–CEMS system (M P) and the pressure reference device (V p). You must meet the accuracy requirements specified in section 13.8 of this PS.
+11.4.4 If your IP–CEMS pressure sensor does not satisfy the accuracy requirement of this PS, check all system components and take any corrective action that is necessary to achieve the required minimum accuracy. Repeat this verification procedure until the accuracy requirement of this specification is satisfied.
 11.5 Level of Detection Determination
 11.5.1 You must determine the minimum amount of HCl that can be detected above the background in a representative gas matrix.
 11.5.2 You must perform the LOD determination in a controlled environment such as a laboratory or manufacturer's facility.
 11.5.3 You must add interference gases listed in Table 1 of this PS to a constant concentration of HCl reference gas.
 11.5.3.1 You may not use an effective reference HCl gas concentration greater than five times the estimated instrument LOD.
 11.5.3.2 For extractive CEMS, inject the HCl and interferents described in section 11.1.5 directly into the inlet to the analyzer.
-11.5.3.3 For IP-CEMS, the HCl and interference test gases may be added to a calibration cell or separately in a temperature-controlled cell that is part of the measurement path. The effective concentration of the gas in the cell must meet the requirements in Table 1 corrected for absolute pressure, temperature and the nominal stack sampling path length of the CEMS.
+11.5.3.3 For IP–CEMS, the HCl and interference test gases may be added to a calibration cell or separately in a temperature-controlled cell that is part of the measurement path. The effective concentration of the gas in the cell must meet the requirements in Table 1 corrected for absolute pressure, temperature and the nominal stack sampling path length of the CEMS.
 11.5.4 Collect seven or more consecutive measurements separated by twice the RT (described in section 11.6) to determine the LOD.
 11.5.5 Calculate the standard deviation of the measured values and define the LOD as three times the standard deviation of these measurements.
 11.5.5.1 The LOD for extractive units must be determined and reported in ppmv.
 11.5.5.2 The LOD for IP units must be determined and reported on a ppm-meter basis and the site- or installation-specific LOD must be calculated based on the actual measurement path length and gas density of the emissions at the specific site installation in ppmv.
 11.5.6 You must verify the controlled environment LOD of section 11.5.2 of this PS for your CEMS during initial setup and field certification testing. You must use the SA procedure in appendix A of this PS with the following exceptions:
 11.5.6.1 For the LOD verification in the field, you must make three independent SA measurements spiking the native source concentration by no more than three times the controlled environment LOD concentration determined in section 11.5.5.
-11.5.6.2 For extractive CEMS, you must perform the SA as a dynamic spike by passing the spiked source gas sample through all filters, scrubbers, conditioners and other monitoring system components used during normal sampling, and as much of the sampling probe as practical. For IP-CEMS, you must perform the SA procedure by adding or passing a known concentration reference gas into a calibration cell in the optical path of the CEMS; you must also include the source measurement optical path while performing the SA measurement.
-11.5.6.3 The amount detected, or standard addition response (SAR), is based on the average difference of the native HCl concentration in the stack or duct relative to the native stack concentration plus the SA. You must be able to detect the effective spike addition (ESA) above the native HCl present in the stack gas matrix. For extractive CEMS, the ESA is calculated using Equation A7 in appendix A of this PS. For IP-CEMS, the ESA is calculated as C i,eff using Equation 4 of this PS.
-11.5.6.4 For extractive CEMS, calculate the SAR using Equation A4 in appendix A of this PS. For IP-CEMS, calculate the SAR using Equation A8.
-11.5.6.5 If your system LOD field verification does not demonstrate a SAR greater than or equal to your initial controlled environment LOD, you must increase the SA concentration incrementally and repeat the field verification procedure until the SAR is equal to or greater than LOD. The site-specific standard addition detection level (SADL) is equal to the standard addition needed to achieve the acceptable SAR, and SADL replaces the controlled environment LOD. For extractive CEMS, the SADL is calculated as the ESA using Equation A7 in appendix A of this PS. For IP-CEMS, the SADL is the SA calculated using Equation A8 in appendix A of this PS. As described in section 13.1 of this PS, the LOD or the SADL that replaces an LOD must be less than 20 percent of the applicable emission limit.
-11.6 Response Time Determination. You must determine ME-, LOD- and SA-RT
-11.6.1 For ME- or LOD-RT, start the upscale RT determination by injecting zero gas into the measurement system as required by the procedures in section 11.7 or 11.5, respectively. You may use humidified zero gas. For standard addition RT, start the upscale RT determination by measuring the native stack gas concentration of HCl.
-11.6.1.1 For extractive CEMS measuring ME- or LOD-RT, the output has stabilized when there is no change greater than 1.0 percent of full scale for 30 seconds.
+11.5.6.2 For extractive CEMS, you must perform the SA as a dynamic spike by passing the spiked source gas sample through all filters, scrubbers, conditioners and other monitoring system components used during normal sampling, and as much of the sampling probe as practical. For IP–CEMS, you must perform the SA procedure by adding or passing a known concentration reference gas into a calibration cell in the optical path of the CEMS; you must also include the source measurement optical path while performing the SA measurement.
+11.5.6.3 The amount detected, or standard addition response (SAR), is based on the average difference of the native HCl concentration in the stack or duct relative to the native stack concentration plus the SA. You must be able to detect the effective spike addition (ESA) above the native HCl present in the stack gas matrix. For extractive CEMS, the ESA is calculated using Equation A7 in appendix A of this PS. For IP–CEMS, the ESA is calculated as C i,eff using Equation 4 of this PS.
+11.5.6.4 For extractive CEMS, calculate the SAR using Equation A4 in appendix A of this PS. For IP–CEMS, calculate the SAR using Equation A8.
+11.5.6.5 If your system LOD field verification does not demonstrate a SAR greater than or equal to your initial controlled environment LOD, you must increase the SA concentration incrementally and repeat the field verification procedure until the SAR is equal to or greater than LOD. The site-specific standard addition detection level (SADL) is equal to the standard addition needed to achieve the acceptable SAR, and SADL replaces the controlled environment LOD. For extractive CEMS, the SADL is calculated as the ESA using Equation A7 in appendix A of this PS. For IP–CEMS, the SADL is the SA calculated using Equation A8 in appendix A of this PS. As described in section 13.1 of this PS, the LOD or the SADL that replaces an LOD must be less than 20 percent of the applicable emission limit.
+11.6 Response Time Determination. You must determine ME-, LOD- and SA–RT
+11.6.1 For ME- or LOD–RT, start the upscale RT determination by injecting zero gas into the measurement system as required by the procedures in section 11.7 or 11.5, respectively. You may use humidified zero gas. For standard addition RT, start the upscale RT determination by measuring the native stack gas concentration of HCl.
+11.6.1.1 For extractive CEMS measuring ME- or LOD–RT, the output has stabilized when there is no change greater than 1.0 percent of full scale for 30 seconds.
 11.6.1.2 For standard addition RT that includes the stack gas matrix the final stable response may continue to vary by more than 1 percent, but may be considered stable if the variability is random and not continuously rising or falling.
 11.6.2 When the CEMS output has stabilized, record the response in ppmv and introduce an upscale (high level) or spike reference gas as required by the relevant procedure.
 11.6.3 Record the time (upscale RT) required to reach 95 percent of the change to the final stable value.
-11.6.4 Next, for ME or LOD RT, reintroduce the zero gas and record the time required to reach 95 percent of the change to the stable instrument response at the zero gas reading. For SA RT, introduce zero gas to the IP-CEMS cell or stop the spike gas flow to the extractive CEMS as required by the specified procedure and record the time required to reach 95 percent of the change to the stable instrument response of the native gas reading. This time is the downscale RT.
+11.6.4 Next, for ME or LOD RT, reintroduce the zero gas and record the time required to reach 95 percent of the change to the stable instrument response at the zero gas reading. For SA RT, introduce zero gas to the IP–CEMS cell or stop the spike gas flow to the extractive CEMS as required by the specified procedure and record the time required to reach 95 percent of the change to the stable instrument response of the native gas reading. This time is the downscale RT.
 (Note: For CEMS that perform a series of operations (purge, blow back, sample integration, analyze, etc.), you must start adding reference or zero gas immediately after these procedures are complete.)
 11.6.5 Repeat the entire procedure until you have three sets of data, then determine the mean upscale and mean downscale RTs for each relevant procedure. Report the greater of the average upscale or average downscale RTs as the RT for the system.
 11.7 Measurement Error (ME) Test
@@ -2081,9 +2120,9 @@ Note: The baseline HCl gas may include interference gases at concentrations typi
 11.7.2.6 At each reference gas concentration, determine the average of the three CEMS responses (MC l). Calculate the ME using Equation 3A in section 12.3.
 11.7.2.7 If you desire to determine the system RT during this test, you must inject zero gas immediately before and after each injection of the high-level gas standard.
 11.7.2.8 For non-dilution systems, you may adjust the system to maintain the correct flow rate at the analyzer during the test, but you may not make adjustments for any other purpose. For dilution systems, you must operate the measurement system at the appropriate dilution ratio during all system ME checks, and you may make only the adjustments necessary to maintain the proper ratio.
-11.7.3 IP-CEMS ME Test.
+11.7.3 IP–CEMS ME Test.
 11.7.3.1 Conduct a 3-level system ME test by individually adding the known concentrations of HCl reference gases into a calibration cell of known volume, temperature, pressure and path length.
-Note: The optical path used for IP-CEMS ME checks must include the native HCl measurement path. You must also collect native stack concentration HCl measurements before and after each HCl standard measurement. Bracketing HCl reference gas measurements with native stack HCl measurements must be used in the calculations in Equation 5 in section 12.4.2 to correct the upscale measurements for stack gas HCl concentration changes.
+Note: The optical path used for IP–CEMS ME checks must include the native HCl measurement path. You must also collect native stack concentration HCl measurements before and after each HCl standard measurement. Bracketing HCl reference gas measurements with native stack HCl measurements must be used in the calculations in Equation 5 in section 12.4.2 to correct the upscale measurements for stack gas HCl concentration changes.
 11.7.3.2 Introduce HCl reference gas into your calibration cell in a range of concentrations that produce responses equivalent to the source concentrations shown in Table 4 of this PS for your path length.
 11.7.3.3 Make triplicate measurements for each reference gas standard for a total of nine measurements. Introduce different calibration concentrations in any order but do not introduce the same reference gas concentration twice in succession.
 11.7.3.4 You must calculate the effective concentration (C i,eff) of the HCl reference gas equivalent to the stack concentration by correcting for calibration cell temperature, pressure, path length, line strength factor (LSF) and, if necessary, the native stack gas HCl concentration using Equation 4 in section 12.0.
@@ -2100,22 +2139,22 @@ Note: Automatic signal or mathematical processing of all measurement data to det
 11.8.5 Determine the magnitude of the CD at approximately 24-hour intervals, for 7 consecutive unit operating days. The 7 consecutive unit operating days need not be 7 consecutive calendar days.
 11.8.6 Record the CEMS response for single measurements of zero gas and mid-level reference gas. You may use Figure 2 in section 17 of this PS to record and report the results of your 7-day CD test.
 11.8.6.1 For extractive CEMS, calculate the CD using Equation 3B in section 12.3. Report the absolute value of the differences as a percentage of the span value.
-11.8.6.2 For IP-CEMS, you must include the source measurement optical path while performing the upscale CD measurement; you may exclude the source measurement optical path when determining the zero gas concentration. Calculate the CD for IP CEMS using equations 4, 5, 6B, and 7 in section 12.4.
+11.8.6.2 For IP–CEMS, you must include the source measurement optical path while performing the upscale CD measurement; you may exclude the source measurement optical path when determining the zero gas concentration. Calculate the CD for IP CEMS using equations 4, 5, 6B, and 7 in section 12.4.
 11.8.7 The zero-level and mid-level CD for each day must be less than 5.0 percent of the span value as specified in section 13.2 of this PS. You must meet this criterion for 7 consecutive operating days.
 11.8.8 Dynamic Spiking Option for Seven-Day CD Test. For extractive CEMS, you have the option to conduct a mid-level dynamic spiking procedure for each of the 7 days in lieu of the mid-level reference gas injection described in sections 11.8.2 and 11.8.3. If this option is selected, the daily zero CD check is still required.
 11.8.8.1 To conduct each of the seven daily mid-level dynamic spikes, you must use the DS procedure described in appendix A of this PS using a single spike of the mid-level reference gas (see Table 4).
 11.8.8.2 You must perform the dynamic spike procedure by passing the spiked source gas sample through all filters, scrubbers, conditioners and other monitoring system components used during normal sampling, and as much of the sampling probe as practical.
 11.8.8.3 Calculate the mid-level CD as a percent of span using Equation A6 of appendix A to this PS and calculate the zero drift using Equation 3B in section 12.3. Record and report the results as described in sections 11.8.6 and 11.8.7.
 11.9 Relative Accuracy Test
-11.9.1 Unless otherwise specified in an applicable regulation, use Method 26A in 40 CFR part 60, appendix A-8, Method 320 in 40 CFR part 63, appendix A, or ASTM D6348-12 including all annexes, as applicable, as the RMs for HCl measurement. Obtain and analyze RM audit samples, if they are available, concurrently with RM test samples according to the same procedure specified for performance tests in the general provisions of the applicable part. If Method 26 is not specified in an applicable subpart of the regulations, you may request approval to use Method 26 in appendix A-8 to this part as the RM on a site-specific basis under §§ 63.7(f) or 60.8(b). Other RMs for moisture, O 2, etc., may be necessary. Conduct the RM tests in such a way that they will yield results representative of the emissions from the source and can be compared to the CEMS data.
-11.9.1.1 When Method 26A is used as the RM, you must sample sufficient gas to reach three times your method detection limit for Method 26A in 40 CFR part 60, appendix A-8, or for a minimum of one hour, whichever is greater.
-11.9.1.2 When Method 320 or Method 321, both found in 40 CFR part 63, appendix A, or ASTM D6348-12, are used as the RM, you must collect gas samples that are at stack conditions (hot and wet) and you must traverse as required in section 11.9.3.
+11.9.1 Unless otherwise specified in an applicable regulation, use Method 26A in 40 CFR part 60, appendix A–8, Method 320 in 40 CFR part 63, appendix A, or ASTM D6348–12 including all annexes, as applicable, as the RMs for HCl measurement. Obtain and analyze RM audit samples, if they are available, concurrently with RM test samples according to the same procedure specified for performance tests in the general provisions of the applicable part. If Method 26 is not specified in an applicable subpart of the regulations, you may request approval to use Method 26 in appendix A–8 to this part as the RM on a site-specific basis under §§ 63.7(f) or 60.8(b). Other RMs for moisture, O 2, etc., may be necessary. Conduct the RM tests in such a way that they will yield results representative of the emissions from the source and can be compared to the CEMS data.
+11.9.1.1 When Method 26A is used as the RM, you must sample sufficient gas to reach three times your method detection limit for Method 26A in 40 CFR part 60, appendix A–8, or for a minimum of one hour, whichever is greater.
+11.9.1.2 When Method 320 or Method 321, both found in 40 CFR part 63, appendix A, or ASTM D6348–12, are used as the RM, you must collect gas samples that are at stack conditions (hot and wet) and you must traverse as required in section 11.9.3.
 11.9.2 Conduct the diluent (if applicable), moisture (if needed), and pollutant measurements simultaneously. However, diluent and moisture measurements that are taken within an hour of the pollutant measurements may be used to calculate dry pollutant concentration and emission rates.
 11.9.3 Reference Method Measurement Location and Traverse Point(s) Selection.
-11.9.3.1 Measurement Location. Select, as appropriate, an accessible RM measurement location at least two equivalent diameters downstream from the nearest control device, point of pollutant generation, or other point at which a change in the pollutant concentration or emission rate may occur, and at least one half equivalent diameter upstream from the effluent exhaust or a control device. When pollutant concentration changes are due solely to diluent leakage (e.g., air heater leakages) and pollutants and diluents are simultaneously measured at the same location, a half diameter may be used in lieu of two equivalent diameters. The equivalent duct diameter is calculated according to Method 1 in appendix A-1 to this part. The CEMS and RM sampling locations need not be the same.
-11.9.3.2 Traverse Point Selection. Select traverse points that assure acquisition of representative RM samples over the stack or duct cross section according to one of the following options: (a) sample at twelve traverse points located according to section 11.3 of Method 1 in appendix A-1 to this part, (b) sample at 6 Method 1 traverse points according to section 6.5.6(b)(1) of appendix A to part 75 of this chapter, or (c) sample at three points on a measurement line ("3-point long line") that passes through the centroidal area of the duct in the direction of any potential stratification. If this line interferes with the CEMS measurements, you may displace the line up to 20 cm (12 in.) or 5.0 percent of the equivalent diameter of the cross section, whichever is less, from the centroidal area. Locate the three traverse points at 16.7, 50.0, and 83.3 percent of the measurement line. Alternatively, you may conduct a stratification test following the procedures in sections 11.9.3.2.1 through 11.9.3.2.4 to justify sampling at a single point or three points located on the measurement line at 0.4, 1.2, and 2.0 m from the stack wall ("3-point short line"). Stratification testing must be conducted at the sampling location to be used for the RM measurements during the RA test and must be made during normal facility operating conditions. You must evaluate the stratification by measuring the gas on the same moisture basis as the HCl CEMS (wet or dry). Stratification testing must be repeated for each RA test program to justify single point or "3-point short line" sampling.
-11.9.3.2.1 Use a probe of appropriate length to measure the HCl concentration or an alternative analyte, as described in this section, using 12 traverse points located according to section 11.3 of Method 1 in appendix A-1 to 40 CFR part 60 for a circular stack or nine points at the centroids of similarly-shaped, equal area divisions of the cross section of a rectangular stack.
-11.9.3.2.2 You may substitute a stratification test for SO 2 for the HCl stratification test. If you select this option, you must follow the test procedures in Method 6C of appendix A-4 to 40 CFR part 60 or Method 320 of appendix A of 40 CFR part 63.
+11.9.3.1 Measurement Location. Select, as appropriate, an accessible RM measurement location at least two equivalent diameters downstream from the nearest control device, point of pollutant generation, or other point at which a change in the pollutant concentration or emission rate may occur, and at least one half equivalent diameter upstream from the effluent exhaust or a control device. When pollutant concentration changes are due solely to diluent leakage (e.g., air heater leakages) and pollutants and diluents are simultaneously measured at the same location, a half diameter may be used in lieu of two equivalent diameters. The equivalent duct diameter is calculated according to Method 1 in appendix A–1 to this part. The CEMS and RM sampling locations need not be the same.
+11.9.3.2 Traverse Point Selection. Select traverse points that assure acquisition of representative RM samples over the stack or duct cross section according to one of the following options: (a) sample at twelve traverse points located according to section 11.3 of Method 1 in appendix A–1 to this part, (b) sample at 6 Method 1 traverse points according to section 6.5.6(b)(1) of appendix A to part 75 of this chapter, or (c) sample at three points on a measurement line ("3-point long line") that passes through the centroidal area of the duct in the direction of any potential stratification. If this line interferes with the CEMS measurements, you may displace the line up to 20 cm (12 in.) or 5.0 percent of the equivalent diameter of the cross section, whichever is less, from the centroidal area. Locate the three traverse points at 16.7, 50.0, and 83.3 percent of the measurement line. Alternatively, you may conduct a stratification test following the procedures in sections 11.9.3.2.1 through 11.9.3.2.4 to justify sampling at a single point or three points located on the measurement line at 0.4, 1.2, and 2.0 m from the stack wall ("3-point short line"). Stratification testing must be conducted at the sampling location to be used for the RM measurements during the RA test and must be made during normal facility operating conditions. You must evaluate the stratification by measuring the gas on the same moisture basis as the HCl CEMS (wet or dry). Stratification testing must be repeated for each RA test program to justify single point or "3-point short line" sampling.
+11.9.3.2.1 Use a probe of appropriate length to measure the HCl concentration or an alternative analyte, as described in this section, using 12 traverse points located according to section 11.3 of Method 1 in appendix A–1 to 40 CFR part 60 for a circular stack or nine points at the centroids of similarly-shaped, equal area divisions of the cross section of a rectangular stack.
+11.9.3.2.2 You may substitute a stratification test for SO 2 for the HCl stratification test. If you select this option, you must follow the test procedures in Method 6C of appendix A–4 to 40 CFR part 60 or Method 320 of appendix A of 40 CFR part 63.
 11.9.3.2.3 Calculate the mean measured concentration for all sampling points (MN avg).
 11.9.3.2.4 Calculate the percent stratification (S t) of each traverse point using Equation 8 in section 12.5.
 11.9.3.2.5 The gas stream is considered to be unstratified and you may perform the RA testing at a single point that most closely matches the mean if the concentration at each traverse point differs from the mean concentration for all traverse points by: (a) No more than 5.0 percent of the mean concentration; or (b) 0.2 ppm (for HCl) or 3 ppm (for SO 2) absolute, whichever is less restrictive.
@@ -2125,12 +2164,12 @@ Note: Automatic signal or mathematical processing of all measurement data to det
 11.9.4 In order to correlate the CEMS and RM data properly, record the beginning and end of each RM run (including the time of day in hours, minutes, and seconds) using a clock synchronized with the CEM clock used to create a permanent time record with the CEMS output.
 11.9.5 You must conduct the RATA during representative process and control operating conditions or as specified in an applicable regulation, permit or subpart.
 11.9.6 Conduct a minimum of nine RM test runs. NOTE: More than nine RM test runs may be performed. If this option is chosen, up to three test run results may be excluded so long as the total number of test run results used to determine the CEMS RA is greater than or equal to nine. However, all data must be reported including the excluded test runs.
-11.9.7 Analyze the results from the RM test runs using Equations 9-14 in section 12.6. Calculate the RA between the CEMS results and the RM.
+11.9.7 Analyze the results from the RM test runs using Equations 9–14 in section 12.6. Calculate the RA between the CEMS results and the RM.
 11.10 Record Keeping and Reporting
 11.10.1 For systems that use a liquid evaporative standard generator to deliver HCl reference gas standards, record supporting data for these devices, including liquid feed calibrations, liquid standard concentration(s) and NIST-traceability, feed rate and gas flow calibrations for all diluent and HCl gas flows. All calibrations must include a stated uncertainty, and the combined uncertainty of the delivered HCl reference gas concentration must be calculated and reported.
-11.10.2 Record the results of the CD test, the RT test, the ME test, the RA test, and for IP-CEMS, the results of the beam intensity, temperature and pressure verification procedures. Also keep records of the RM and CEMS field data, calculations, and reference gas certifications necessary to confirm that the performance of the CEMS met the performance specifications.
+11.10.2 Record the results of the CD test, the RT test, the ME test, the RA test, and for IP–CEMS, the results of the beam intensity, temperature and pressure verification procedures. Also keep records of the RM and CEMS field data, calculations, and reference gas certifications necessary to confirm that the performance of the CEMS met the performance specifications.
 11.10.3 For systems that use Method 205 to prepare HCl reference gas standards, record results of Method 205 performance test field evaluation, reference gas certifications, and gas dilution system calibration.
-11.10.4 Record the LOD for the CEMS. For extractive CEMS, record the LOD in ppmv. For IP-CEMS, record the LOD on a ppm-meter basis along with a calculation of the installation specific LOD in ppmv. For both CEMS types, you must also record the field verified SADL.
+11.10.4 Record the LOD for the CEMS. For extractive CEMS, record the LOD in ppmv. For IP–CEMS, record the LOD on a ppm-meter basis along with a calculation of the installation specific LOD in ppmv. For both CEMS types, you must also record the field verified SADL.
 11.10.5 Record the results of the interference test.
 11.10.6 Report the results of all certification tests to the appropriate regulatory agency (or agencies), in hardcopy and/or electronic format, as required by the applicable regulation or permit.
 12.0 Calculations and Data Analysis
@@ -2139,26 +2178,26 @@ C i = Zero or HCl reference gas concentration used for test i (ppmv);
 C i,eff = Equivalent concentration of the reference gas value, C i, at the specified conditions (ppmv);
 CC = Confidence coefficient (ppmv);
 CD extractive = Calibration drift for extractive CEMS (percent);
-CD IP = Calibration drift for IP-CEMS (percent);
-CD 0 = Calibration drift at zero HCl concentrations for an IP-CEMS (percent);
+CD IP = Calibration drift for IP–CEMS (percent);
+CD 0 = Calibration drift at zero HCl concentrations for an IP–CEMS (percent);
 d avg = Mean difference between CEMS response and the reference gas (ppmv);
 d i = Difference of CEMS response and the RM value (ppmv);
 I = Total interference from major matrix stack gases, (percent);
-LSF = Line strength factor for IP-CEMS instrument specific correction for temperature and gas matrix effects derived from the HITRAN and/or manufacturer specific database (unitless);
+LSF = Line strength factor for IP–CEMS instrument specific correction for temperature and gas matrix effects derived from the HITRAN and/or manufacturer specific database (unitless);
 ΔMC avg = Average of the 3 absolute values of the difference between the measured HCl calibration gas concentrations with and without interference from selected stack gases (ppmv);
 MC i = Measured HCl reference gas concentration i (ppmv);
 MC i = Average of the measured HCl reference gas concentration i (ppmv);
 MC int = Measured HCl concentration of the HCl reference gas plus the individual or combined interference gases (ppmv);
 ME extractive = Measurement error for extractive CEMS (percent);
-ME IP = Measurement error for IP-CEMS (percent);
+ME IP = Measurement error for IP–CEMS (percent);
 MN avg = Average concentration at all sampling points (ppmv);
 MN bi = Measured native concentration bracketing each calibration check measurement (ppmv);
 MN i = Measured native concentration for test or run I (ppmv);
 n = Number of measurements in an average value;
 P stack = Absolute stack pressure (mm Hg)
-P reference = Absolute pressure of the calibration cell for IP-CEMS (mm Hg)
-PL Cell = Path length of IP-CEMS calibration cell (m);
-PL Stack = Path length of IP-CEMS stack optical path (m);
+P reference = Absolute pressure of the calibration cell for IP–CEMS (mm Hg)
+PL Cell = Path length of IP–CEMS calibration cell (m);
+PL Stack = Path length of IP–CEMS stack optical path (m);
 RA = Relative accuracy of CEMS compared to a RM (percent);
 RM i = RM concentration for test run i (ppmv);
 RM avg = Mean measured RM value (ppmv);
@@ -2166,9 +2205,9 @@ S = Span value (ppmv);
 S d = Standard deviation of the differences (ppmv);
 S ti = Stratification at traverse point i (percent);
 SADL = Standard addition detection level (ppmv);
-t 0.975 = One-sided t-value at the 97.5th percentile obtained from Table 5 in section 17.0 for n-1 measurements;
-T reference = Temperature of the calibration cell for IP-CEMS (degrees Kelvin);
-T stack = Temperature of the stack at the monitoring location for IP-CEM (degrees Kelvin).
+t 0.975 = One-sided t-value at the 97.5th percentile obtained from Table 5 in section 17.0 for n–1 measurements;
+T reference = Temperature of the calibration cell for IP–CEMS (degrees Kelvin);
+T stack = Temperature of the stack at the monitoring location for IP–CEM (degrees Kelvin).
 12.2 Calculate the difference between the measured HCl concentration with and without interferents for each interference gas (or mixture) for your CEMS as:
 ER19MY16.024
 Calculate the total percent interference as:
@@ -2178,22 +2217,22 @@ ER19MY16.026
 12.3 Calculate the ME or CD at Concentration i for an Extractive CEMS as:
 ER07JY15.070
 ER07JY15.071
-12.4 Calculate the ME or CD at Concentration i for IP-CEMS That Use a Calibration Cell as Follows:
+12.4 Calculate the ME or CD at Concentration i for IP–CEMS That Use a Calibration Cell as Follows:
 12.4.1 Calculate the equivalent concentration C i,eff using Equation 4:
 ER07JY15.072
 12.4.2 Calculate the average native concentration before and after each calibration check measurement as:
 ER07JY15.073
-12.4.3 Calculate the ME or CD at concentration i for an IP-CEM as:
+12.4.3 Calculate the ME or CD at concentration i for an IP–CEM as:
 ER07JY15.074
 ER07JY15.100
-12.4.4 Calculate the zero CD as a percent of span for an IP-CEMS as:
+12.4.4 Calculate the zero CD as a percent of span for an IP–CEMS as:
 ER19MY16.027
 12.5 Calculate the Percent Stratification at Each Traverse Point as:
 ER07JY15.076
 12.6 Calculate the RA Using RM and CEMS Data
 12.6.1 Determine the CEMS final integrated minute average pollutant concentration or emission rate for each RM test period. Consider system RT, if important, and confirm that the results have been corrected to the same moisture, temperature and diluent concentration basis.
-12.6.2 When Method 26A (or if approved for use, Method 26), found in 40 CFR part 60, appendix A-8 of this part, is used as the RM, compare each CEMS integrated average value against the corresponding RM value for identical test periods. Make these comparisons on the same basis (e.g., wet, dry, ppmv, or units of the standard). To convert results generate by Method 26A or 26 in mg/DSCM to ppmv, use the conversion factor 0.662 ppm/(mg/DSCM).
-12.6.3 If the RM is Method 320 or Method 321, found in 40 CFR part 63, appendix A, or ASTM D6348-12, make a direct comparison of the average RM results and CEMS average value for identical test periods.
+12.6.2 When Method 26A (or if approved for use, Method 26), found in 40 CFR part 60, appendix A–8 of this part, is used as the RM, compare each CEMS integrated average value against the corresponding RM value for identical test periods. Make these comparisons on the same basis (e.g., wet, dry, ppmv, or units of the standard). To convert results generate by Method 26A or 26 in mg/DSCM to ppmv, use the conversion factor 0.662 ppm/(mg/DSCM).
+12.6.3 If the RM is Method 320 or Method 321, found in 40 CFR part 63, appendix A, or ASTM D6348–12, make a direct comparison of the average RM results and CEMS average value for identical test periods.
 12.6.4 For each test run, calculate the arithmetic difference of the RM and CEMS results using Equation 9.
 ER07JY15.077
 12.6.5 Calculate the standard deviation of the differences (S d) of the CEMS measured and RM results using Equation 10.
@@ -2216,17 +2255,17 @@ ER07JY15.082
 13.4.3 The alternative calculated RA in paragraph 13.4.1 or 13.4.2 must be less than or equal to 15.0 percent.
 13.5 Interference Test.
 13.5.1 The sum of the interference response(s) from Equation 2 must not be greater than 2.5 percent of the calibration span or ±3.0 percent of the equivalent HCl concentration used for the interference test, whichever is less restrictive. The results are also acceptable if the sum of the interference response(s) does not exceed six times the LOD or 0.5 ppmv for a calibration span of 5 to 10 ppm, or 0.2 ppmv for a calibration span of less than 5 ppmv.
-13.6 IP-CEMS Beam Intensity Test. For IP-CEMS, the percent difference between the measured concentration with and without attenuation of the light source must not exceed ±3.0 percent.
-13.7 IP-CEMS Temperature Measurement Verification. Your temperature sensor satisfies the accuracy required if the absolute relative difference between measured value of stack temperature (M t) and the temperature value from the calibrated temperature reference device (V t) is ≤1.0 percent or if the absolute difference between M t and V t is ≤2.8 °C (5.0 °F), whichever is less restrictive.
-13.8 IP-CEMS Pressure Sensor Measurement Verification. Your pressure sensor satisfies the accuracy required if the absolute relative difference between the measured value of stack pressure (M P) and the pressure value from the calibrated pressure reference device (V P) is ≤5.0 percent or if the absolute difference between M p and V P is ≤0.12 kilopascals (0.5 inches of water column), whichever is less restrictive.
+13.6 IP–CEMS Beam Intensity Test. For IP–CEMS, the percent difference between the measured concentration with and without attenuation of the light source must not exceed ±3.0 percent.
+13.7 IP–CEMS Temperature Measurement Verification. Your temperature sensor satisfies the accuracy required if the absolute relative difference between measured value of stack temperature (M t) and the temperature value from the calibrated temperature reference device (V t) is ≤1.0 percent or if the absolute difference between M t and V t is ≤2.8 °C (5.0 °F), whichever is less restrictive.
+13.8 IP–CEMS Pressure Sensor Measurement Verification. Your pressure sensor satisfies the accuracy required if the absolute relative difference between the measured value of stack pressure (M P) and the pressure value from the calibrated pressure reference device (V P) is ≤5.0 percent or if the absolute difference between M p and V P is ≤0.12 kilopascals (0.5 inches of water column), whichever is less restrictive.
 14.0 Pollution Prevention [Reserved]
 15.0 Waste Management [Reserved]
 16.0 Bibliography
 1. Method 318—Extractive FTIR Method for the Measurement of Emissions From the Mineral Wool and Wool Fiberglass Industries, 40 CFR, part 63, subpart HHHHHHH, appendix A.
 2. "EPA Protocol for the Use of Extractive Fourier Transform Infrared (FTIR) Spectrometry in Analyses of Gaseous Emissions from Stationary Industrial Sources," February, 1995.
-3. "Measurement of Gaseous Organic and Inorganic Emissions by Extractive FTIR Spectroscopy," EPA Contract No. 68-D2-0165, Work Assignment 3-08.
+3. "Measurement of Gaseous Organic and Inorganic Emissions by Extractive FTIR Spectroscopy," EPA Contract No. 68–D2–0165, Work Assignment 3–08.
 4. "Method 301—Field Validation of Pollutant Measurement Methods from Various Waste Media," 40 CFR part 63, appendix A.
-5. EPA Traceability Protocol for Assay and Certification of Gaseous Calibration Standards, U.S. Environmental Protection Agency office of Research and Development, EPA/600/R-12/531, May 2012.
+5. EPA Traceability Protocol for Assay and Certification of Gaseous Calibration Standards, U.S. Environmental Protection Agency office of Research and Development, EPA/600/R–12/531, May 2012.
 17.0 Tables, Diagrams, Flowcharts, and Validation Data
 Table 1—Interference Test Gas Concentrations
 Potential interferent gas 1 | Approximate concentration (balance N 2)
@@ -2244,19 +2283,19 @@ N 2 | Balance. 2
 2 Gases for short path IP cell interference tests cannot be added above 100 percent stack equivalent concentration. Add these gases at the indicated percentages to make up the remaining cell volume.
 ER07JY15.083
 Table 3—Design Standards for Temperature Sensors
-If the sensor is a... | You can use the following design standards as guidance in selecting a sensor for your IP-CEMS
-1. Thermocouple | a. ASTM E235-88 (1996), "Specification for Thermocouples, Sheathed, Type K, for Nuclear or Other High-Reliability Applications."
-| b. ASTM E585/E585M-04, "Specification for Compacted Mineral-Insulated, Metal-Sheathed, Base Metal Thermocouple Cable."
-| c. ASTM E608/E608M-06, "Specification for Mineral-Insulated, Metal-Sheathed Base Metal Thermocouples."
-| d. ASTM E696-07, "Specification for Tungsten-Rhenium Alloy Thermocouple Wire."
-| e. ASTM E1129/E1129M-98 (2002), "Standard Specification for Thermocouple Connectors."
-| f. ASTM E1159-98 (2003), "Specification for Thermocouple Materials, Platinum-Rhodium Alloys, and Platinum."
-| g. ISA-MC96.1-1982, "Temperature Measurement Thermocouples."
-2. Resistance temperature detector | ASTM E1137/E1137M-04, "Standard Specification for Industrial Platinum Resistance Thermometers."
+If the sensor is a... | You can use the following design standards as guidance in selecting a sensor for your IP–CEMS
+1. Thermocouple | a. ASTM E235–88 (1996), "Specification for Thermocouples, Sheathed, Type K, for Nuclear or Other High-Reliability Applications."
+| b. ASTM E585/E585M–04, "Specification for Compacted Mineral-Insulated, Metal-Sheathed, Base Metal Thermocouple Cable."
+| c. ASTM E608/E608M–06, "Specification for Mineral-Insulated, Metal-Sheathed Base Metal Thermocouples."
+| d. ASTM E696–07, "Specification for Tungsten-Rhenium Alloy Thermocouple Wire."
+| e. ASTM E1129/E1129M–98 (2002), "Standard Specification for Thermocouple Connectors."
+| f. ASTM E1159–98 (2003), "Specification for Thermocouple Materials, Platinum-Rhodium Alloys, and Platinum."
+| g. ISA–MC96.1–1982, "Temperature Measurement Thermocouples."
+2. Resistance temperature detector | ASTM E1137/E1137M–04, "Standard Specification for Industrial Platinum Resistance Thermometers."
 Table 4—Performance Specification Test Zero and Reference Gas Ranges
 Test | Units | HCl Zero and Reference Gas Concentrations in Terms of Percent of Span a | Zero | Low Level | Mid Level | High Level | Section
-Calibration Drift | % of Span | <LOD | NA | 50-60 b | NA | 11.8
-Measurement Error | % of Span | NA | 20-30 | 50-60 | 80-100 | 11.7
+Calibration Drift | % of Span | <LOD | NA | 50–60 b | NA | 11.8
+Measurement Error | % of Span | NA | 20–30 | 50–60 | 80–100 | 11.7
 a Reference gas concentration must be NIST traceable. (see section 7.1)
 b Mid-level is required. For DS calibration drift option, choose a concentration that yields a value in this range at the analyzer.
 Table 5—Student's t-Values
@@ -2274,21 +2313,21 @@ n-1 a | t-value | n-1 a | t-value | n-1 a | t-value
 a The value n is the number of independent pairs of measurements. Either discrete (independent) measurements in a single run, or run averages can be used.
 ER07JY15.085
 ER07JY15.086
-PS-18 Appendix A Standard Addition Procedures
+PS–18 Appendix A Standard Addition Procedures
 1.0 Scope and Application
 1.1 This appendix to Performance Specification (PS) 18 describes the procedure and performance requirements for standard addition (SA) as a quality check for hydrogen chloride (HCl) continuous emission monitoring systems (CEMS).
 1.2 This appendix is applicable to quality checks of both extractive and integrated path (IP) technologies used to measure HCl emissions.
 1.3 For extractive CEMS, this procedure must be used, as a level of detection (LOD) verification of all field-installed CEMS. Additionally, it is allowed by Procedure 6 in appendix F to this part as an alternative to upscale calibration drift (CD) tests, cylinder gas audits and relative accuracy audits (RAAs), and may be used for quality assurance purposes under other applicable regulations or permits that require HCl monitoring.
-1.4 For IP-CEMS, this procedure must be used as a LOD verification of all field-installed CEMS.
+1.4 For IP–CEMS, this procedure must be used as a LOD verification of all field-installed CEMS.
 2.0 Summary of the Appendix for Standard Addition
-As used here, SA is a gas phase method of standard additions (either static or dynamic) used to verify the accuracy of CEMS measurements in the presence of the sample matrix. For extractive CEMS, it consists of spiking a known quantity of HCl dynamically into the measurement system as an addition to the native HCl and the native source gas matrix. For IP-CEMS, this procedure consists of introducing a known quantity of HCl into the optical path that also includes the native source gas.
-3.0 Definitions. (See PS-18 and Procedure 6 of Appendix F to Part 60 for the Definitions Used in This Appendix.)
-4.0 Interferences. Interferences are discussed in PS-18, section 4.0
+As used here, SA is a gas phase method of standard additions (either static or dynamic) used to verify the accuracy of CEMS measurements in the presence of the sample matrix. For extractive CEMS, it consists of spiking a known quantity of HCl dynamically into the measurement system as an addition to the native HCl and the native source gas matrix. For IP–CEMS, this procedure consists of introducing a known quantity of HCl into the optical path that also includes the native source gas.
+3.0 Definitions. (See PS–18 and Procedure 6 of Appendix F to Part 60 for the Definitions Used in This Appendix.)
+4.0 Interferences. Interferences are discussed in PS–18, section 4.0
 5.0 Safety. The procedures required under this appendix may involve hazardous materials, operations and equipment. This procedure may not address all of the safety problems associated with these procedures. You as the facility or operator must establish appropriate safety and health practices and determine the applicable regulatory limitations prior to performing these procedures. As the CEMS user, you should consult instrument operation manuals, material safety data sheets, compressed gas safety requirements, and other Occupational Safety and Health Administration regulations for specific precautions to be taken.
-6.0 Equipment and Supplies. An example of equipment and supplies is described in section 6 of PS-18.
-7.0 Reagents and Standards. SA materials must meet the requirements defined for reference gases in section 7 of PS-18 to perform this procedure with the following exception. You may use gases certified by the gas vendor to ±5 percent to perform the daily calibration drift assessment in section 4.1 of Procedure 6 in appendix F of this part.
-Note: For extractive CEMS the concentrations of reference gases required for SA are likely to be significantly higher than the concentration of reference gases associated with PS-18 requirements.
-8.0 Standard Addition and Dynamic Spiking Procedure. The standard addition procedure consists of measuring the native source gas concentration, addition of reference gas, and measurement of the resulting SA elevated source gas concentration. For extractive CEMS, HCl is spiked dynamically and thus, one must account for the dilution of sample gas from the addition of the HCl reference gas. For IP-CEMS, standard addition of an HCl reference gas is made by either adding an HCl reference gas to a flow through cell or inserting a sealed reference gas cell into the measurement path of the CEMS. The enclosed cell or a fixed cell must contain an HCl concentration that accounts for the difference in path length of the cell used for SA relative to the measurement path.
+6.0 Equipment and Supplies. An example of equipment and supplies is described in section 6 of PS–18.
+7.0 Reagents and Standards. SA materials must meet the requirements defined for reference gases in section 7 of PS–18 to perform this procedure with the following exception. You may use gases certified by the gas vendor to ±5 percent to perform the daily calibration drift assessment in section 4.1 of Procedure 6 in appendix F of this part.
+Note: For extractive CEMS the concentrations of reference gases required for SA are likely to be significantly higher than the concentration of reference gases associated with PS–18 requirements.
+8.0 Standard Addition and Dynamic Spiking Procedure. The standard addition procedure consists of measuring the native source gas concentration, addition of reference gas, and measurement of the resulting SA elevated source gas concentration. For extractive CEMS, HCl is spiked dynamically and thus, one must account for the dilution of sample gas from the addition of the HCl reference gas. For IP–CEMS, standard addition of an HCl reference gas is made by either adding an HCl reference gas to a flow through cell or inserting a sealed reference gas cell into the measurement path of the CEMS. The enclosed cell or a fixed cell must contain an HCl concentration that accounts for the difference in path length of the cell used for SA relative to the measurement path.
 8.1 SA Concentration and Measurement Replicates.
 8.1.1 You must inject HCl gas to create a measured concentration based on the requirements of the particular performance test (e.g., LOD verification, CD, DSA).
 8.1.2 Each dynamic spike (DS) or standard addition (SA) replicate consists of a measurement of the source emissions concentration of HCl (native stack concentration) with and without the addition of HCl. With a single CEMS, you must alternate the measurement of the native and SA-elevated source gas so that each measurement of SA-elevated source gas is immediately preceded and followed by a measurement of native stack gas. Introduce the SA gases in such a manner that the entire CEMS is challenged. Alternatively, you may use an independent continuous HCl monitor to measure the native source concentration before and after each standard addition as described in section 8.1.4.
@@ -2311,17 +2350,17 @@ Note: Measurements should agree within 5.0 percent or three times the level of d
 8.2.6 Repeat the collection of sample measurements in section 8.2.5 until you have data for each spike concentration including a final set of unspiked sample measurements according to section 8.2.5.3.
 8.2.7 Verify that the CEMS responded as expected for each spike gas injection, and that the data quality is not impacted by large shifts in the native source concentration. Discard and repeat any spike injections as necessary to generate a complete set of the required replicate spike measurements.
 8.2.8 Calculate the standard addition response (SAR) for extractive CEMS, using Equation A4 in section 11.2, of this appendix.
-8.2.9 If the DS results do not meet the specifications for the appropriate performance test in PS-18 or Procedure 6 of appendix F of this part, you must take corrective action and repeat the DS procedure.
-8.3 SA Procedure for IP-CEMS (Static Spiking).
-8.3.1 For IP-CEMS, you must make measurements of native source gas HCl concentration and an HCl standard addition using a calibration cell added to the optical measurement path.
+8.2.9 If the DS results do not meet the specifications for the appropriate performance test in PS–18 or Procedure 6 of appendix F of this part, you must take corrective action and repeat the DS procedure.
+8.3 SA Procedure for IP–CEMS (Static Spiking).
+8.3.1 For IP–CEMS, you must make measurements of native source gas HCl concentration and an HCl standard addition using a calibration cell added to the optical measurement path.
 8.3.2 Introduce zero gas into a calibration cell located in the optical measurement path of the instrument. Continue to flush the zero gas into the cell for at least the SA response time of your CEMS or until two consecutive measurements taken are within 5.0 percent, then collect two independent measurements. Alternatively you may measure native concentrations without the calibration cell in the optical path.
 8.3.3 Introduce the HCl spike gas into the calibration cell. Continue to flush the spike gas into the cell for at least the SA response time of your CEMS or until two consecutive measurements taken are within 5.0 percent of one another. Then collect two independent measurements of the SA addition to the native concentration. Alternatively you may insert a sealed calibration cell, containing HCl at the appropriate concentration, into the optical path to measure the SA addition to the native concentration.
 8.3.4 Repeat the collection of SA-elevated and native HCl measurements in sections 8.3.2 and 8.3.3 until you have data for each SA concentration. Then, make a final native HCl measurement. The measured concentrations must be corrected for calibration cell and stack temperature, pressure and stack measurement path length.
-8.3.5 Calculate the standard addition response (SAR) for an IP-CEMS, using Equation A8 in section 11.3 of this appendix.
-8.3.6 If the SA results do not meet the specifications for the appropriate performance test in PS-18 or Procedure 6 of appendix F of this part, you must take corrective action and repeat the SA procedure.
+8.3.5 Calculate the standard addition response (SAR) for an IP–CEMS, using Equation A8 in section 11.3 of this appendix.
+8.3.6 If the SA results do not meet the specifications for the appropriate performance test in PS–18 or Procedure 6 of appendix F of this part, you must take corrective action and repeat the SA procedure.
 9.0 Quality Control [Reserved]
 10.0 Calibration and Standardization [Reserved]
-11.0 Calculations and Data Analysis. Calculate the SA response for each measurement and its associated native HCl measurement(s), using equations in this section. (Note: For cases where the emission standard is expressed in units of lb/MMBtu or corrected to a specified O 2 or CO 2 concentration, an absolute accuracy specification based on a span at stack conditions may be calculated using the average concentration and applicable conversion factors. The appropriate procedures for use in cases where a percent removal standard is more restrictive than the emission standard are the same as in 40 CFR part 60, PS-2, sections 12 and 13.)
+11.0 Calculations and Data Analysis. Calculate the SA response for each measurement and its associated native HCl measurement(s), using equations in this section. (Note: For cases where the emission standard is expressed in units of lb/MMBtu or corrected to a specified O 2 or CO 2 concentration, an absolute accuracy specification based on a span at stack conditions may be calculated using the average concentration and applicable conversion factors. The appropriate procedures for use in cases where a percent removal standard is more restrictive than the emission standard are the same as in 40 CFR part 60, PS–2, sections 12 and 13.)
 11.1 Nomenclature.
 C spike = Actual HCl reference gas concentration spiked (e.g., bottle or reference gas concentration) ppmv;
 C tracer spiked = Tracer gas concentration injected with spike gas ("reference concentration") ppmv;
@@ -2353,7 +2392,7 @@ ER07JY15.091
 ER07JY15.092
 11.2.7 The effective spike addition (ESA) is the expected increase in the measured concentration as a result of injecting a spike. Calculate ESA using Equation A7:
 ER07JY15.093
-11.3 Standard Addition Response for IP-CEMS. If you use an IP-CEMS and a calibration cell, calculate the SA response using Equation A8.
+11.3 Standard Addition Response for IP–CEMS. If you use an IP–CEMS and a calibration cell, calculate the SA response using Equation A8.
 ER07JY15.094
 12.0 [Reserved]
 13. Tables and Figures.
