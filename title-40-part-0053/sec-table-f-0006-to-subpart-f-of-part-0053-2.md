@@ -1,5 +1,5 @@
-# Table F-6 to Subpart F of Part 53—Estimated Mass Concentration Measurement of PM 2.5 for Idealized Fine Aerosol Size Distribution
-Particle Aerodynamic Diameter (µm) | Test Sampler | Fractional Sampling Effectiveness | Interval Mass Concentration (µg/m3) | Estimated Mass Concentration Measurement (µg/m3) | Ideal Sampler | Fractional Sampling Effectiveness | Interval Mass Concentration (µg/m3) | Estimated Mass Concentration Measurement (µg/m3)
+# Table F–6 to Subpart F of Part 53—Estimated Mass Concentration Measurement of PM 2.5 for Idealized Fine Aerosol Size Distribution
+Particle Aerodynamic Diameter (µm) | Test Sampler | Fractional Sampling Effectiveness | Interval Mass Concentration (µg/m 3) | Estimated Mass Concentration Measurement (µg/m 3) | Ideal Sampler | Fractional Sampling Effectiveness | Interval Mass Concentration (µg/m 3) | Estimated Mass Concentration Measurement (µg/m 3)
 (1) | (2) | (3) | (4) | (5) | (6) | (7)
 <0.500 | 1.000 | 18.868 | | 1.000 | 18.868 | 18.868
 0.625 | | 13.412 | | 0.999 | 13.412 | 13.399
@@ -44,4 +44,4 @@ Particle Aerodynamic Diameter (µm) | Test Sampler | Fractional Sampling Effecti
 5.500 | | 0.098 | | 0.000000 | 0.098 | 0.000000
 5.625 | | 0.097 | | 0.000000 | 0.097 | 0.000000
 5.75 | | 0.096 | | 0.000000 | 0.096 | 0.000000
-| | Csam(exp)= | | | Cideal(exp)= | 78.539
+| | C sam(exp) = | | | C ideal(exp) = | 78.539

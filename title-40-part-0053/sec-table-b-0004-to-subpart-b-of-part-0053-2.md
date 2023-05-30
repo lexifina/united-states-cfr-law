@@ -1,5 +1,5 @@
-# Table B-4 to Subpart B of Part 53—Line Voltage and Room Temperature Test Conditions
-Test day | Linevoltage,1 rms | Roomtemperature,2 °C | Comments
+# Table B–4 to Subpart B of Part 53—Line Voltage and Room Temperature Test Conditions
+Test day | Line voltage, 1 rms | Room temperature, 2 °C | Comments
 0 | 115 | 25 | Initial set-up and adjustments.
 1 | 125 | 20
 2 | 105 | 20
