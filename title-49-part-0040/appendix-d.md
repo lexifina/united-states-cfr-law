@@ -1,18 +1,76 @@
-# Appendix D to Part 40—Report Format: Split Specimen Failure To Reconfirm
-Mail, fax, or submit electronically to:
-U.S. Department of Transportation, Office of Drug and Alcohol Policy and Compliance, W62-300, 1200 New Jersey Avenue SE., Washington, DC 20590, Fax: (202) 366-3897.Submit Electronically: https://www.transportation.gov/content/split-specimen-cancellation-notification-49-cfr-part-40187-appendix-d
-The following items are required on each report:
-1. MRO name, address, phone number, and fax number.
-2. Collection site name, address, and phone number.
-3. Date of collection.
-4. Specimen I.D. number.
-5. Laboratory accession number.
-6. Primary specimen laboratory name, address, and phone number.
-7. Date result reported or certified by primary laboratory.
-8. Split specimen laboratory name, address, and phone number.
-9. Date split specimen result reported or certified by split specimen laboratory.
-10. Primary specimen results (e.g., name of drug, adulterant) in the primary specimen.
-11. Reason for split specimen failure-to-reconfirm result (e.g., drug or adulterant not present, specimen invalid, split not collected, insufficient volume).
-12. Actions taken by the MRO (e.g., notified employer of failure to reconfirm and requirement for recollection).
-13. Additional information explaining the reason for cancellation.
-14. Name of individual submitting the report (if not the MRO)
+# Appendix D to Part 40—DOT Drug Testing Semi-Annual Laboratory Report to Employers
+The following items are required on each laboratory report:
+Reporting Period: (inclusive dates)
+Laboratory Identification: (name and address)
+Employer Identification: (name; may include Billing Code or ID code)
+C/TPA Identification: (where applicable; name and address)
+A. Urine Specimens
+1. Urine Specimen Results Reported (Total Number) By Test Reason
+(a) Pre-employment (number)
+(b) Post-Accident (number)
+(c) Random (number)
+(d) Reasonable Suspicion/Cause (number)
+(e) Return-to-Duty (number)
+(f) Follow-up (number)
+(g) Type of Test Not Noted on CCF (number)
+2. Urine Specimens Reported
+(a) Negative (number)
+(b) Negative and Dilute (number)
+3. Urine Specimens Reported as Rejected for Testing (Total Number) by Reason
+(a) Fatal flaw (number)
+(b) Uncorrected Flaw (number)
+4. Urine Specimens Reported as Positive (Total Number) by Drug
+(a) Marijuana Metabolite (number)
+(b) Cocaine Metabolite (number)
+(c) Opioids (number)
+(1) Codeine (number)
+(2) Morphine (number)
+(3) 6-AM (number)
+(4) Hydrocodone (number)
+(5) Hydromorphone (number)
+(6) Oxycodone (number)
+(7) Oxymorphone (number)
+(d) Phencyclidine (number)
+(e) Amphetamines (number)
+(1) Amphetamine (number)
+(2) Methamphetamine (number)
+(3) MDMA (number)
+(4) MDA (number)
+5. Urine Adulterated (Number)
+6. Urine Substituted (Number)
+7. Urine Invalid Result (Number)
+B. Oral Fluid Specimens
+1. Oral Fluid Specimen Results Reported (Total Number) by Test Reason
+(a) Pre-employment (number)
+(b) Post-Accident (number)
+(c) Random (number)
+(d) Reasonable Suspicion/Cause (number)
+(e) Return-to-Duty (number)
+(f) Follow-up (number)
+(g) Type of Test Not Noted on CCF (number)
+2. Oral Fluid Specimens Reported
+(a) Negative (number)
+(b) Negative and Dilute (number)
+3. Oral Fluid Specimens Reported as Rejected for Testing (Total Number) by Reason
+(a) Fatal flaw (number)
+(b) Uncorrected Flaw (number)
+4. Oral Fluid Specimens Reported as Positive (Total Number) by Drug
+(a) Marijuana (number)
+(b) Cocaine and/or Cocaine Metabolite (number)
+(c) Opioids (number)
+(1) Codeine (number)
+(2) Morphine (number)
+(3) 6-AM (number)
+(4) Hydrocodone (number)
+(5) Hydromorphone (number)
+(6) Oxycodone (number)
+(7) Oxymorphone (number)
+(d) Phencyclidine (number)
+(e) Amphetamines (number)
+(1) Amphetamine (number)
+(2) Methamphetamine (number)
+(3) MDMA (number)
+(4) MDA (number)
+5. Oral Fluid Adulterated (Number)
+6. Oral Fluid Substituted (Number)
+7. Oral Fluid Invalid Result (Number)
