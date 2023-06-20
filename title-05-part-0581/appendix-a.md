@@ -1,1333 +1,394 @@
 # Appendix A to Part 581—List of Agents Designated To Accept Legal Process
-[This appendix lists the agents designated to accept legal process for the Executive Branch of the United States, the United States Postal Service, the Postal Rate Commission, the District of Columbia, American Samoa, Guam, the Virgin Islands, and the Smithsonian Institution.]
+[This appendix lists the agents designated to accept legal process for the Executive Branch of the United States, the United States Postal Service, the Postal Regulatory Commission, the District of Columbia, American Samoa, Guam, the Virgin Islands, and the Smithsonian Institution.]
 I. Departments
 Department of Agriculture
-Office of the Secretary
-Office of the Deputy Secretary
-Office of the Under Secretaries
-Office of the Assistant Secretaries
-Director, Executive Resources and Services Division, Office of Personnel, Room 334 W—Administration Bldg., 14th St. and Independence Ave., SW., Washington, DC 20250, (202) 720-6047
-Office of Inspector General
-Chief Counsel to the Inspector General, Office of Inspector General, Room 27E—Administration Bldg., 14th St. and Independence Ave., SW., Washington, DC 20250, (202) 720-9110
-Administration
-Board of Contract Appeals
-Chief Financial Officer
-Judicial Officer
-Office of Administrative Law Judges
-Office of Budget and Program Analysis
-Office of Civil Rights Enforcement
-Office of Communications
-Office of Congressional and Intergovernmental Relations
-Office of the General Counsel
-Office of Information and Resources Management
-Office of Operations
-Office of Personnel
-Office of Small and Disadvantaged Business Utilization
-Chief, Employment and Compensation Branch, Office of Personnel—POD, Room 31W—Administration Bldg., 14th St. and Independence Ave., SW., Washington, DC 20250-9630, (202) 720-7797
-Chief Economist Office of risk Assessment and Cost-Benefit Analysis World Agricultural Outlook Board
-Chief, Economics and Statistics Operations Branch, Human Resources Division, Agricultural Research Service, Room 1424—South Bldg., 14th St. and Independence Ave., SW., Washington, DC 20250, (202) 720-7657
-Farm and Foreign Agricultural Services
-Consolidated Farm Service Agency
-Foreign Agricultural Service
-Chief, Employee and Labor Relations Branch, Human Resources Division, Consolidated Farm Service Agency, Room 6732—South Bldg., PO Box 2415, Washington, DC 20013, (202) 720-5964
-Federal Crop Insurance Corporation
-Chief, Labor Relations Branch, Federal Crop Insurance Corporation, Consolidated Farm Service Agency, Room 6732—South Bldg., 14th St. and Independence Ave., SW., Washington, DC 20250, (202) 720-5964
-Food, Nutrition, and Consumer Services
-Food and Consumer Service
-Senior Employee Relations Specialist, Employee Relations Division, Food and Consumer Service, 3101 Park Center Drive, Room 623, Alexandria, VA 22302, (703) 305-2374
-Marketing and Regulatory Programs
-Agricultural Marketing Service (except for employees of the Milk Marketing Administration)
-Animal and Plant Health Inspection Service
-Grain Inspection, Packers and Stockyards Administration
-Chief, Human Resources, USDA, APHIS, Butler Square West, 5th Floor, 100 North 6th Street, Minneapolis, MN 55403, (612) 370-2107
-Agricultural Marketing Service
-Milk Marketing Employees
-Personnel Management Specialist, Agricultural Marketing Service, DA, Room 2754—South Bldg., P.O. Box 96456, Washington, DC 20090-6456, (202) 720-7258
-Food Safety and Inspection Service
-Chief, Employee Relations Branch, Labor and Employee Relations Division, Food Safety and Inspection Service, Room 3175 South Building, 14th & Independence Avenue, SW., Washington, DC 20250-3700, 1-800-217-1886
-Rural Development
-Rural Housing Service
-Rural Business-Cooperative Service
-Rural Utilities Service
-Chief, Human Resources Programs Branch, Human Resources, Rural Development, 1400 Independence Avenue, SW., Stop 0730, Washington, DC 20250-0730, (202) 692-0194
-Rural Utilities Service
-Chief, Rural Utilities Service, Personnel Operations Branch, Human Relations Division, Rural Housing and Community Development Service, Room 4031—South Bldg., 14th St. and Independence Ave., SW., Washington, DC 20250-1382, (202) 720-1382
-Natural Resources and Environment
-Forest Service
-Washington Office
-Director, Personnel Management, 900 RP-E, PO Box 96090, Washington, DC 20090-6090, (703) 235-8102
-International Institute of Tropical Forestry
-Director, Call Box 25000, UPR Experimental Station Grounds, Rio Piedras, PR 00928-2500, (809) 766-5335
-Region 1
-Regional Forester, Regional Office, Federal Bldg., PO Box 7669, Missoula, MT 59807, (406) 329-3003
-Idaho
-Clearwater—Forest Supervisor, 12730 Highway 12, Orofino, ID 83544, (208) 476-4541
-Idaho Panhandle National Forests—Forest Supervisor, 1201 Ironwood Dr., Coeur d'Alene, ID 83814, (208) 765-7223
-Nez Perce—Forest Supervisor, Rt. 2, Box 475, Grangeville, ID 83530, (208) 983-1950
-Montana
-Beaverhead—Forest Supervisor, 420 Barrett St., Dillon, MT 59725-3572, (406) 683-3900
-Bitterroot—Forest Supervisor, 1801 N. 1st St., Hamilton, MT 59840, (406) 363-7121
-Custer—Forest Supervisor, Box 2556, Billings, MT 59103, (406) 657-6361
-Deerlodge—Forest Supervisor, Federal Bldg., Box 400, Butte, MT 59701, (406) 496-3400
-Flathead—Forest Supervisor, 1935 3rd Ave., E., Kalispell, MT 59901, (406) 755-5401
-Gallatin—Forest Supervisor, Federal Bldg., 10 E. Babcock Ave., Box 130, Bozeman, MT 59771, (406) 587-6701
-Helena—Forest Supervisor, 2880 Skyway Dr., Helena, MT 59601, (406) 449-5201
-Kootenai—Forest Supervisor, 506 Highway 2 W., Libby, MT 59923, (406) 293-6211
-Lewis and Clark—Forest Supervisor, PO Box 869, 1101 15th St. N., Great Falls, MT 59403, (406) 791-7700
-Lolo—Forest Supervisor, Bldg. 24, Ft. Missoula, Missoula, MT 59801, (406) 329-3750
-Region 2
-Regional Forester, Regional Office, 740 Simms St., Lakewood, CO 80255, (303) 275-5306
-Colorado
-Arapaho and Roosevelt—Forest Supervisor, 240 W. Prospect, Fort Collins, CO 80526, (303) 498-1100
-Grand Mesa, Uncompahgre, and Gunnison—Forest Supervisor, 2250 Highway 50, Delta, CO 81416, (303) 874-7691
-Pike and San Isabel—Forest Supervisor, 1920 Valley Dr., Pueblo, CO 81008, (719) 545-8737
-Rio Grande—Forest Supervisor, 1803 West Highway 160, Monte Vista, CO 81144, (719) 852-5941
-Routt—Forest Supervisor, 29587 W. US 40, Suite 20, Steamboat Springs, CO 80487-9550, (303) 879-1722
-San Juan—Forest Supervisor, 701 Camino Del Rico, Room 301, Durango, CO 81301, (303) 247-4874
-White River—Forest Supervisor, Old Federal Bldg., Box 948, Glenwood Springs, CO 81602, (303) 945-2521
-Nebraska
-Nebraska—Forest Supervisor, 125 N. Main St., Chadron, NE 69337, (308) 432-0300
-South Dakota
-Black Hills—Forest Supervisor, R.R. 2, Box 200, Custer, SD 57730-9504, (605) 673-2251
-Wyoming
-Bighorn—Forest Supervisor, 1969 So. Sheridan Ave., Sheridan, WY 82801, (307) 672-0751
-Medicine Bow—Forest Supervisor, 2468 Jackson St., Laramie, WY 82070-6535, (307) 745-8971
-Shoshone—Forest Supervisor, 808 Meadow Lane, Cody, WY 82414, (307) 527-6241
-Region 3
-Regional Forester, Regional Office, Federal Bldg., 517 Gold Ave., SW., Albuquerque, NM 87102, (505) 842-3380
-Arizona
-Apache—Sitgreaves—Forest Supervisor, Federal Bldg., Box 640, Springerville, AZ 85938, (602) 333-4301
-Coconino—Forest Supervisor, 2323 E. Greenlaw Lane, Flagstaff, AZ 86004, (602) 527-3600
-Coronado—Forest Supervisor, 300 W. Congress, Tucson, AZ 85701, (692) 670-4552
-Kaibab—Forest Supervisor, 800 S. 6th St., Williams, AZ 86046, (602) 635-2681
-Prescott—Forest Supervisor, 344 South Cortez, Prescott, AZ 86303, (602) 771-4700
-Tonto—Forest Supervisor, 2324 E. McDowell Rd., Phoenix, AZ 85006, (602) 225-5200
-New Mexico
-Carson—Forest Supervisor, 208 Cruz Alta Rd., PO Box 558, Taos, NM 87571, (505) 758-6200
-Cibola—Forest Supervisor, 2113 Osuna Rd., NE., Suite A, Albuquerque, NM 87113-1001, (505) 761-4650
-Gila—Forest Supervisor, 3005 E. Camino del Bosque, Silver City, NM 88061, (505) 388-8201
-Lincoln—Forest Supervisor, Federal Bldg., 1101 New York Ave., Alamogordo, NM 88310-6992, (505) 434-7200
-Santa Fe—Forest Supervisor, 1220 St. Francis Dr., Santa Fe, NM 87504, (505) 988-6940
-Region 4
-Regional Forester, Regional Office, Federal Bldg., 324 25th St., Ogden, UT 84401, (801) 625-5298
-Idaho
-Boise—Forest Supervisor, 1750 Front Street, Boise, ID 83702, (208) 364-4100
-Caribou—Forest Supervisor, 250 S. 4th Ave., Suite 282, Federal Bldg., Pocatello, ID 83201, (208) 236-7500
-Challis—Forest Supervisor, HC 63 Box 1671, F.S. Bldg., Challis, ID 83226, (208) 879-2285
-Payette—Forest Supervisor, Box 10206 or 106 W. Park, McCall, ID 83638, (208) 634-0700
-Salmon—Forest Supervisor, P.O. Box 729, Salmon, ID 83467-0729, (208) 765-2215
-Sawtooth—Forest Supervisor, 2647 Kimberly Rd. East, Twin Falls, ID 83301-7976, (208) 737-3200
-Targhee—Forest Supervisor, 420 N. Bridge St., P.O. Box 208, St. Anthony, ID 83445, (208) 624-3151
-Nevada
-Humboldt—Forest Supervisor, 976 Mountain City Highway, Elko, NV 89801, (702) 738-5171
-Toiyabe—Forest Supervisor, 1200 Franklin Way, Sparks, NV 89431, (702) 355-5300
-Utah
-Ashley—Forest Supervisor, 355 North Vernal Ave., Vernal, UT 84078, (801) 789-1181
-Dixie—Forest Supervisor, 82 No. 100 E. St., P.O. Box 580, Cedar City, UT 84721-0580, (801) 865-3700
-Fishlake—Forest Supervisor, 115 E. 900 N, Richfield, UT 84701, (801) 896-9233
-Manti—La Sal—Forest Supervisor, 599 W. Price River Drive, Price, UT 84501, (801) 637-2817
-Uinta—Forest Supervisor, 88 W. 100 N., Provo, UT 84601, (801) 342-5100
-Wasatch—Cache—Forest Supervisor, 8236 Federal Bldg., 125 S. State St., Salt Lake City, UT 84138, (801) 524-5030
-Wyoming
-Bridger—Teton—Forest Supervisor, F.S. Bldg., 340 N. Cache, Box 1888, Jackson, WY 83001, (307) 739-5500
-Region 5
-Regional Forester, Regional Office, 630 Sansome St., San Francisco, San Francisco, CA 94111, (415) 705-2856
-California
-Angeles—Forest Supervisor, 701 N. Santa Anita Ave., Arcadia, CA 91006, (818) 574-1613
-Cleveland—Forest Supervisor, 10845 Rancho Bernardo Rd., Suite 200, San Diego, CA 92127-2107, (619) 673-6180
-Eldorado—Forest Supervisor, 100 Forni Rd., Placerville, CA 95667, (916) 622-5062
-Inyo—Forest Supervisor, 873 North Main St., Bishop, CA 93514, (619) 873-2400
-Klamath—Forest Supervisor, 1312 Fairlane Rd., Yreka, CA 96097, (916) 842-6131
-Lassen—Forest Supervisor, 55 S. Sacramento St., Susanville, CA 96130, (916) 257-2151
-Los Padres—Forest Supervisor, 6144 Calle Real, Goleta, CA 93117, (805) 683-6711
-Mendocino—Forest Supervisor, 420 E. Laurel St., Willows, CA 95988, (916) 934-3316
-Modoc—Forest Supervisor, 800 W. 12th St., Alturas, CA 96101, (916) 233-5811
-Plumas—Forest Supervisor, 159 Lawrence St., Box 11500, Quincy, CA 95971-6025, (916) 283-2050
-San Bernardino—Forest Supervisor, 1824 S. Commercenter Cir., San Bernardino, CA 92408-3430, (909) 383-5588
-Sequoia—Forest Supervisor, 900 W. Grand Ave., Porterville, CA 93257-2035, (209) 784-1500
-Shasta—Trinity—Forest Supervisor, 2400 Washington Ave., Redding, CA 96001, (916) 246-5222
-Sierra—Forest Supervisor, 1600 Tollhouse Rd., Clovis, CA 93611, (209) 297-0706
-Six Rivers—Forest Supervisor, 1330 Bayshore Way, Eureka, CA 95501-3834, (707) 441-3517
-Stanislaus—Forest Supervisor, 19777 Greenley Rd., Sonora, CA 95370, (209) 532-3671
-Tahoe—Forest Supervisor, 631 Coyote St., PO Box 6003, Nevada City, CA 95959-6003, (916) 265-4531
-Region 6
-Regional Forester, Regional Office, 333 S.W. 1st Ave., PO Box 3623, Portland, OR 97208, (503) 326-3630
-Oregon
-Deschutes—Forest Supervisor, 1645 Highway 20 E., Bend, OR 97701, (503) 388-2715
-Fremont—Forest Supervisor, 524 North G St., Lakeview, OR 97630, (503) 947-2151
-Malheur—Forest Supervisor, 139 NE Dayton St., John Day, OR 97845, (503) 575-1731
-Mt. Hood—Forest Supervisor, 16400 Champion Way, Sandy, OR 97055, (503) 668-1613
-Ochoco—Forest Supervisor, Box 490, Prineville, OR 97754, (503) 447-6247
-Rogue River—Forest Supervisor, Federal Bldg., 333 W. 8th St., Box 520, Medford, OR 97501, (503) 776-3600
-Siskiyou—Forest Supervisor, Box 440, Grants Pass, OR 97526, (503) 471-6500
-Siuslaw—Forest Supervisor, Box 1148, Corvallis, OR 97339, (503) 750-7000
-Umatilla—Forest Supervisor, 2517 SW Hailey Ave., Pendleton, OR 97801, (503) 278-3721
-Umpqua—Forest Supervisor, Box 1008, Roseburg, OR 97470, (503) 672-6601
-Wallowa—Whitman—Forest Supervisor, Box 907, Baker City, OR 97814, (503) 523-6391
-Willamette—Forest Supervisor, Box 10607, Eugene, OR 97440, (503) 465-6521
-Winema—Forest Supervisor, 2819 Dahlia, Klamath Falls, OR 97601, (503) 883-6714
-Washington
-Colville—Forest Supervisor, 765 S. Main, Colville, WA 99114, (509) 684-7000
-Gifford Pinchot—Forest Supervisor, 6926 E. 4th Plain Blvd., Vancouver, WA 98668-8944, (206) 750-5000
-Mt. Baker—Snoqualmie—Forest Supervisor, 21905 64th Avenue West, Mountlake Terrace, WA 98043, (206) 744-3200
-Okanogan—Forest Supervisor, 1240 South Second Ave., Okanogan, WA 98840, (509) 826-3275
-Olympic—Forest Supervisor, 1835 Black Lake Blvd., SW., Olympia, WA 98512, (206) 956-2300
-Wenatchee—Forest Supervisor, 301 Yakima St., PO Box 811, Wenatchee, WA 98807, (509) 662-4335
-Region 8
-Regional Forester, Regional Office, 1720 Peachtree Rd., NW., Atlanta, GA 30367, (404) 347-3841
-Alabama
-National Forests in Alabama—Forest Supervisor, 2946 Chestnut St., Montgomery, AL 36107-3010, (205) 832-4470
-Arkansas
-Ouachita—Forest Supervisor, Box 1270, Federal Bldg., Hot Springs National Park, AR 71902, (501) 321-5200
-Ozark—St. Francis—Forest Supervisor, 605 West Main, Box 1008, Russellville, AR 72801, (501) 968-2354
-Florida
-National Forests in Florida—Forest Supervisor, Woodcrest Office Park, 325 John Knox Rd., Suite F-100, Tallahassee, FL 32303, (904) 681-7265
-Georgia
-Chattahoochee and Oconee—Forest Supervisor, 508 Oak St., NW., Gainesville, GA 30501, (404) 536-0541
-Kentucky
-Daniel Boone—Forest Supervisor, 100 Vaught Rd., Winchester, KY 40391, (606) 745-3100
-Louisiana
-Kisatchie—Forest Supervisor, 2500 Shreveport Hwy., PO Box 5500, Pineville, LA 71361-5500, (318) 473-7160
-Mississippi
-National Forests in Mississippi—Forest Supervisor, 100 W. Capital St., Suite 1141, Jackson, MS 39269, (601) 965-4391
-North Carolina
-National Forests in North Carolina—Forest Supervisor, Post and Otis Streets, PO Box 2750, Asheville, NC 28802, (704) 257-4200
-Puerto Rico and the Virgin Islands
-Caribbean National Forest—Forest Supervisor, Call Box 25000, Rio Piedras, PR 00928-2500, (809) 766-5335
-South Carolina
-Francis Marion and Sumter National Forests—Forest Supervisor, 4923 Broad River Rd., Columbia, SC 29212, (803) 765-5222
-Tennessee
-Cherokee—Forest Supervisor, 2800 N. Ocoee St., NE., PO Box 2010, Cleveland, TN 37320, (615) 476-9700
-Texas
-National Forests in Texas—Forest Supervisor, Homer Garrison Federal Bldg., 701 N. First St., Lufkin, TX 75901, (409) 639-8501
-Virginia
-George Washington—Forest Supervisor, PO Box 233, Harrison Plaza, Harrisonburg, VA 22801, (703) 433-2491
-Region 9
-Regional Forester, Regional Office, 310 W. Wisconsin Ave., Room 500, Milwaukee, WI 53203, (414) 297-3674
-Illinois
-Shawnee—Forest Supervisor, 901 S. Commercial St., Harrisburg, IL 62946, (618) 253-7114
-Indiana
-Hoosier—Forest Supervisor, 811 Constitution Ave., Bedford, IN 47421, (812) 275-5987
-Michigan
-Hiawatha—Forest Supervisor, 2727 N. Lincoln Rd., Escanaba, MI 49829, (906) 786-4062
-Huron—Manistee—Forest Supervisor, 421 S. Mitchell St., Cadillac, MI 49601, (616) 775-2421
-Ottawa—Forest Supervisor, 2100 E. Cloverland Dr., Ironwood, MI 49938, (906) 932-1330
-Minnesota
-Chippewa—Forest Supervisor, Rt. 3 Box 244, Cass Lake, MN 56633, (218) 335-8600
-Superior—Forest Supervisor, Box 338, Federal Bldg., 515 W. First St., Duluth, MN 55802, (218) 720-5324
-Missouri
-Mark Twain—Forest Supervisor, 401 Fairgrounds Rd., Rolla, MO 65401, (314) 364-4621
-New Hampshire and Maine, White Mountain—Forest Supervisor, Federal Bldg., 719 Main St., PO Box 638, Laconia, NH 03247, (603) 528-8721
-Ohio
-Wayne—Forest Supervisor, 219 Columbus Rd., Athens, OH 45701-1399, (614) 592-6644
-Pennsylvania
-Allegheny—Forest Supervisor, 222 Liberty St., Box 847, Warren, PA 16365, (814) 723-5150
-Vermont
-Green Mountain and Finger Lakes—Forest Supervisor, 231 N. Main St., Rutland, NY 05701, (802) 747-6700
-West Virginia
-Monongahela—Forest Supervisor, USDA Bldg., 200 Sycamore St., Elkins, WV 26241-3962, (304) 636-1800
-Wisconsin
-Chequamegon—Forest Supervisor, 1170 4th Ave. South, Park Falls, WI 54552, (715) 762-2461
-Nicolet—Forest Supervisor, Federal Bldg., 68 S. Stevens, Rhinelander, WI 54501, (715) 362-1300
-Region 10
-Regional Forester, Regional Office, Federal Office Bldg., Box 21628, Juneau, AK 99802-1628, (907) 586-8719
-Alaska
-Chugach—Forest Supervisor, 3301 C St., Suite 300, Anchorage, AK 99503-3998, (907) 271-2500
-Tongass—Chatham Area—Forest Supervisor, 204 Siginaka Way, Sitka, AK 99835, (907) 747-6671
-Tongass—Ketchikan Area—Forest Supervisor, Federal Bldg., Ketchikan, AK 99901, (907) 225-3101
-Tongass—Stikine Area—Forest Supervisor, Box 309, Petersburg, AK 99833, (907) 772-3841
-Forest and Range Experiment Stations
-Intermountain Research Station, Director, 324 25th Street, Ogden, UT 84401, (801) 625-5412
-North Central Forest Experiment Station, Director, 1992 Folwell Ave., St. Paul, MN 55108, (612) 649-5249
-Northeastern Forest Experiment Station, Director, 5 Radnor Corporate Center, Suite 200, PO Box 6775, Radnor, PA 19087-8775, (610) 975-4017
-Pacific Northwest Research Station, Director, PO Box 3890, Portland, OR 97208-3890, (503) 326-5640
-Pacific Southwest Forest and Range Experiment Station, Director, 800 Buchanan St., West Building, Albany, CA 94710-0011, (510) 559-6310
-Rocky Mountain Forest and Range Experiment Station, Director, 240 W. Prospect Rd., Fort Collins, CO 80526-2098, (303) 498-1126
-Southeastern Forest Experiment Station, Director, 200 Weaver Blvd., PO Box 2680, Ashville, NC 28802, (704) 257-4300
-Southern Forest Experiment Station, Director, T-10210, U.S. Postal Service Bldg., 701 Loyola Ave., New Orleans, LA 70113, (504) 589-3921
-Forest Products Laboratory, Director, One Gifford Pinchot Dr., Madison, WI 53705-2398, (608) 231-9318
-Northeastern Area State and Private Forestry, Director, 5 Radnor Corporate Center, Suite 200, PO Box 6775, Radnor, PA 19087-8775, (610) 975-4103
-Natural Resources Conservation Service
-Regional Administrative Officer, Natural Resources Conservation Service, Midwest Regional Office, 2820 Walton Commons West, Suite 123, Madison, WI 53704-6785, (608) 224-3000
-Regional Administrative Officer, Natural Resources Conservation Service, West Regional Office, 650 Capitol Mall, Room 6072, Sacramento, CA 95814, (916) 498-5240
-Regional Administrative Officer, Natural Resources Conservation Service, Southeast Regional Office, 1720 Peachtree Road, NW., Suite 716-N, Atlanta, GA 30309-2439, (404) 347-6153
-Regional Administrative Officer, Natural Resources Conservation Service, East Regional Office, 11710 Beltsville Drive, Suite 100, Calverton Office Bldg., #2, Beltsville, MD 20705, (301) 586-1328
-Regional Administrative Officer, Natural Resources Conservation Service, South Central Regional Office, PO Box 6459, Ft. Worth, TX 76115-0459, (817) 334-5258, ext. 3504
-Regional Administrative Officer, Natural Resources Conservation Service, Northern Plains Regional Office, 100 Centennial Mall North, Room 152, Lincoln, NE 68508-3866, (402) 437-5315
-Human Resources Officer, Natural Resources Conservation Service, National Business Management Center, Bldg. 23, 501 W. Felix Street, PO Box 6567, Ft. Worth, TX 76115, (817) 334-5427, ext. 3750
-Human Resources Officer, Natural Resources Conservation Service, PO Box 2890, Room 5215-South Bldg., Washington, DC 20013-2890, (202) 720-4264
-Human Resources Officer, Natural Resources Conservation Service, 665 Opelika Road, PO Box 311, Auburn, AL 36830-0311, (334) 887-4543
-Human Resources Officer, Natural Resources Conservation Service, 3003 N. Central Ave., Suite 800, Phoenix, AZ 85012-2945, (602) 280-8800
-Human Resources Officer, Natural Resources Conservation Service, 700 West Capitol Avenue, Federal Bldg., Room 5404, Little Rock, AR 72201-3225, (501) 324-5479
-Human Resources Officer, Natural Resources Conservation Service, 2121-C 2nd Street, Davis, CA 95616, (916) 757-8294
-Human Resources Officer, Natural Resources Conservation Services, 655 Parfet Street, Room E200C, Lakewood, CO 80215-5517, (303) 236-2891, ext. 219
-Human Resources Officer, Natural Resources Conservation Service, 16 Professional Park Road, Storrs, CT 06268-1299, (860) 487-4034
-Human Resources Officer, Natural Resources Conservation Service, 1203 College Park Drive, Suite 101, Dover, DE 19904-8713, (302) 678-4173
-Human Resources Officer, Natural Resources Conservation Service, 2614 NW 43rd Street, Gainesville, FL 32606, (352) 338-9525
-Human Resources Officer, Natural Resources Conservation Service, Federal Bldg., Box 13, 355 E. Hancock Avenue, Athens, GA 30601, (706) 546-2270
-Human Resources Officer, Natural Resources Conservation Service, 300 Ala Moana Blvd., Rm 4316, PO Box 50004, Honolulu, HI 96850-0002, (808) 541-1896
-Human Resources Officer, Natural Resources Conservation Service, 693 Federal Bldg., 210 Walnut Street, Des Moines, IA 50309, (515) 284-4588
-Human Resources Officer, Natural Resources Conservation Service, 3244 Elder Street, Room 124, Boise, ID 83705-4711, (208) 378-5712
-Human Resources Officer, Natural Resources Conservation Service, 1902 Fox Drive, Champaign, IL 61820, (217) 398-5288
-Human Resources Officer, Natural Resources Conservation Service, 6013 Lakeside Blvd., Indianapolis, IN 46278, (317) 290-3207, ext. 335
-Human Resources Officer, Natural Resources Conservation Service, 760 S. Broadway, Salina, KS 67401, (913) 823-4510
-Human Resources Officer, Natural Resources Conservation Service, 771 Corporate Drive, Suite 110, Lexington, KY 40503-5479, (606) 224-7353
-Human Resources Officer, Natural Resources Conservation Service, 3737 Government Street, Alexandria, LA 71302-3327, (318) 473-7786
-Human Resources Officer, Natural Resources Conservation Service, 451 West Street, Amherst, MA 01002-2955, (413) 253-4353
-Human Resources Officer, Natural Resources Conservation Service, John Hanson Business Center, 339 Busch's Frontage Road, Suite 301, Annapolis, MD 21401-5534, (410) 757-0861, ext. 337
-Human Resources Officer, Natural Resources Conservation Service, 5 Godfrey Drive, Orono, ME 04473, (207) 866-7245
-Human Resources Officer, Natural Resources Conservation Service, 1405 S. Harrison Road, Room 101, East Lansing, MI 48823-5243, (517) 337-6701, ext. 1233
-Human Resources Officer, Natural Resources Conservation Service, 600 FCS Bldg., 375 Jackson St., St. Paul, MN 55101-1854, (612) 290-3678
-Human Resources Officer, Natural Resources Conservation Service, 100 West Capitol Street, Federal Bldg., Suite 1321, Jackson, MS 39269, (601) 965-5183
-Human Resources Manager, Natural Resources Conservation Service, 601 Business Loop 70 West, Parkade Center, Suite 250, Columbia, MO 65203, (573) 876-0904
-Human Resources Manager, Natural Resources Conservation Service, Federal Building, Room 443, 10 East Babcock Street, Bozeman, MT 59715, (406) 587-6866
-Human Resources Manager, Natural Resources Conservation Service, 4405 Bland Road, Suite 205, Raleigh, NC 27609, (919) 873-2108
-Human Resources Manager, Natural Resources Conservation Service, 220 Rosser Avenue, P.O. Box 1458, Room 278, Bismarck, ND 58502-1458, (701) 250-4761
-Human Resources Manager, Natural Resources Conservation Service, 100 Centennial Mall, N., Federal Bldg., Room 152, Lincoln, NE 68508-3866, (402) 437-4057
-Human Resources Manager, Natural Resources Conservation Service, 2 Madbury Road, Federal Building, Durham, NH 03824-1499, (868) 686-7581
-Human Resources Manager, Natural Resources Conservation Service, 1370 Hamilton Street, Somerset, NJ 08873, (908) 246-1171, ext. 166
-Human Resources Manager, Natural Resources Conservation Service, 6200 Jefferson Street, NE., Albuquerque, NM 87109-3734, (505) 761-4409
-Human Resources Manager, Natural Resources Conservation Service, 5301 Longley Lane, Bldg. F, Suite 201, Reno, NV 89511, (702) 784-5867
-Human Resources Manager, Natural Resources Conservation Service, 441 South Salina Street, Suite 354, Syracuse, NY 13202-2450, (315) 477-6512
-Human Resources Manager, Natural Resources Conservation Service, 200 North High Street, Room 522, Columbus, OH 43215, (614) 469-6977
-Human Resources Manager, Natural Resources Conservation Service, 100 USDA, Suite 203, Stillwater, OK 74074-2655, (405) 742-1209
-Human Resources Manager, Natural Resources Conservation Service, 101 SW Main Street, Suite 1300, Portland, OR 97204, (503) 414-3211
-Human Resources Manager, Natural Resources Conservation Service, One Credit Union Place, Suite 340, Harrisburg, PA 17110-2993, (717) 782-3716
-Human Resources Manager, Natural Resources Conservation Service, 1835 Assembly Street, Room 950, Columbia, SC 29201, (803) 253-3920
-Human Resources Manager, Natural Resources Conservation Service, Federal Bldg., 200 4th St., SW., Huron, SD 57350-2475, (605) 352-1224
-Human Resources Manager, Natural Resources Conservation Service, 675 U.S. Courthouse, 801 Broadway, Nashville, TN 37203, (615) 736-5388
-Human Resources Manager, Natural Resources Conservation Service, W.R. Poage Federal Bldg., 101 South Main St., Temple, TX 76501-7682, (817) 774-1246
-Human Resources Manager, Natural Resources Conservation Service, 125 S. State Street, Room 4402, P.O. Box 11350, Salt Lake City, UT 84147, (801) 524-5068
-Human Resources Manager, Natural Resources Conservation Service, 69 Union Street, Winooski, VT 05404-1999, (802) 951-6795, ext. 223
-Human Resources Manager, Natural Resources Conservation Service, 1606 Santa Rosa Road, Culpeper Bldg., Suite 209, Richmond, VA 23229-5014, (804) 287-1625
-Human Resources Manager, Natural Resources Conservation Service, Rock Pointe Tower II, W. 316 Boone Avenue, Suite 450, Spokane, WA 99201-2348, (509) 353-2333
-Human Resources Manager, Natural Resources Conservation Service, 75 High Street, Room 301, Morgantown, WV 26505, (304) 291-4152, ext. 176
-Human Resources Manager, Natural Resources Conservation Service, 6515 Watts Road, Suite 200, Madison, WI 53719-2726, (608) 264-5341, ext. 161
-Human Resources Manager, Natural Resources Conservation Service, 100 East B Street, Room 3124, Casper, WY 82601-1911, (307) 261-6492
-Research, Education, and Economics
-Agricultural Research Service
-Cooperative State Research, Education, and Extension Service
-Economic Research Service
-National Agricultural Statistics Service
-Director, Human Resources Division, Administrative and Financial Management Staff, Agricultural Research Service, 5601 Sunnyside Avenue, Room 3-1145A, Beltsville, MD 20705-5101, (301) 504-1478
-National Appeals Division
-Administrative Officer, National Appeals Division, 3101 Park Center Drive, Room 1020, Alexandria, VA 22302, (703) 305-2566
+Office of the Secretary: USDA, Office of Human Resources Management—Executive Resources, 1400 Independence Ave. SW, Room 318 W, Whitten Bldg., Washington, DC 20250-1400, (202) 720-0027.
+Farm Production and Conservation: FPAC-BC, WDC (NHQ), Attn: FPAC HRD—Room 3223S, 1400 Independence Ave. SW, Washington, DC 20250, 855-344-4793, 833-528-1259 (fax).
+Farm Service Agency: FPAC-BC, WDC (NHQ), Attn: FPAC HRD—Room 3223S, 1400 Independence Ave. SW, Washington, DC 20250, 855-344-4793, 833-528-1259 (fax).
+Natural Resources Conservation Service: FPAC-BC, WDC (NHQ), Attn: FPAC HRD—Room 3223S, 1400 Independence Ave. SW, Washington, DC 20250, 855-344-4793, 833-528-1259 (fax).
+Risk Management Agency: FPAC-BC, WDC (NHQ), Attn: FPAC HRD—Room 3223S, 1400 Independence Ave. SW, Washington, DC 20250, 855-344-4793, 833-528-1259 (fax).
+FPAC Business Center: FPAC-BC, WDC (NHQ), Attn: FPAC HRD—Room 3223S, 1400 Independence Ave. SW, Washington, DC 20250, 855-344-4793, 833-528-1259 (fax).
+Food, Nutrition, and Consumer Services: Director, Human Resources Division, Food, Nutrition and Consumer Services, 1320 Braddock Pl., Alexandria, VA 22314, (844) 208-2364.
+Food Safety and Inspection Service: Chief, Financial Services, Food Safety and Inspection Service, 4520 114th Street, Urbandale, IA 50322, (833) 643-2258 or FSCGeneral@usda.gov.
+Marketing and Regulatory Programs: Chief, Human Resources, USDA, APHIS, 250 Marquette Avenue, Suite 410, Minneapolis, MN 55401, (612) 336-3317.
+Agricultural Marketing Services: Chief, Human Resources, USDA, APHIS, 250 Marquette Avenue, Suite 410, Minneapolis, MN 55401, (612) 336-3317.
+Agricultural Marketing Service—Milk Marketing Administration: Personnel Management Specialist, Agricultural Marketing Service, DA, Room 2548—South Bldg., Mail Stop 0228, 1400 Independence Ave. SW, Washington, DC 20250-0228, (202) 690-0212.
+Animal and Plant Health Inspection Service: Chief, Human Resources, USDA, APHIS, 250 Marquette Avenue, Suite 410, Minneapolis, MN 55401, (612) 336-3317.
+Forest Service: U.S. Forest Service, Human Resources Management, Attn: Pay and Leave, 4000 Masthead Street NE, Albuquerque, NM 87109, 877-372-7248.
+Research, Education, and Economics: Agricultural Research Service, Human Resources Division, 5601 Sunnyside Ave., Room 2-WS-1515, Stop—5101, Beltsville, MD 20705-5101, (301) 504-1357.
+Agricultural Research Service: Human Resources Division, 5601 Sunnyside Ave., Room 2-WS-1515, Stop—5101, Beltsville, MD 20705-5101, (301) 504-1357.
+Economic Research Service: Agricultural Research Service, Human Resources Division, 5601 Sunnyside Ave., Room 2-WS-1515, Stop—5101, Beltsville, MD 20705-5101, (301) 504-1357.
+National Agricultural Statistics Service: Agricultural Research Service, Human Resources Division, 5601 Sunnyside Ave., Room 2-WS-1515, Stop—5101, Beltsville, MD 20705-5101, (301) 504-1357.
+National Institute of Food and Agriculture: Agricultural Research Service, Human Resources Division, 5601 Sunnyside Ave., Room 2-WS-1515, Stop—5101, Beltsville, MD 20705-5101, (301) 504-1357.
+Office of the Chief Scientist: U.S. Department of Agriculture, 1400 Independence Ave. SW, Office of Human Resources Management, Room 318W, Washington, DC 20250, (202) 302-9509.
+Rural Development: Human Resources Office, 1400 Independence Ave. SW, Mail Stop 0730, Washington, DC 20250, (202) 720-2278.
+Rural Business—Cooperative Service: Human Resources Office, 1400 Independence Ave. SW, Mail Stop 0730, Washington, DC 20250, (202) 720-2278.
+Rural Housing Service: Human Resources Office, 1400 Independence Ave. SW, Mail Stop 0730, Washington, DC 20250, (202) 720-2278.
+Rural Utilities Service: Human Resources Office, 1400 Independence Ave. SW, Mail Stop 0730, Washington, DC 20250, (202) 720-2278.
+Rural Development Business Center: Human Resources Office, 1400 Independence Ave. SW, Mail Stop 0730, Washington, DC 20250, (202) 720-2278.
+Trade and Foreign Agricultural Affairs: Human Capital Management Division, 1400 Independence Ave. SW, Room 5071, Mail Stop 1001, Washington, DC 20250.
+Foreign Agricultural Service: Human Capital Management Division, 1400 Independence Ave. SW, Room 5071, Mail Stop 1001, Washington, DC 20250.
+Office of Budget and Program Analysis: USDA, Office of Human Resources Management—Payroll, 1400 Independence Ave. SW, Room 318 W, Whitten Bldg., Washington, DC 20250-1400, (202) 720-4175, HROperationspayroll@usda.gov.
+Office of the Chief Economist: USDA, Office of Human Resources Management—Payroll, 1400 Independence Ave. SW, Room 318 W, Whitten Bldg., Washington, DC 20250-1400, (202) 720-4175, HROperationspayroll@usda.gov.
+Office of the Chief Financial Officer: USDA, Office of the Chief Financial Officer, 13800 Old Gentilly Road, Modular Bldg. H-8, New Orleans, LA 70129, ocfo.fms.hr.services@usda.gov.
+Office of the Chief Information Officer: USDA, Office of Human Resources Management—Payroll, 1400 Independence Ave. SW, Room 318 W, Whitten Bldg., Washington, DC 20250-1400, (202) 720-4175, HROperationspayroll@usda.gov.
+Office of Civil Rights: USDA, Office of Human Resources Management—Payroll, 1400 Independence Ave. SW, Room 318 W, Whitten Bldg., Washington, DC 20250-1400, (202) 720-4175, HROperationspayroll@usda.gov.
+Office of Communications: USDA, Office of Human Resources Management—Payroll, 1400 Independence Ave. SW, Room 318 W, Whitten Bldg., Washington, DC 20250-1400, (202) 720-4175, HROperationspayroll@usda.gov.
+Office of the General Counsel: USDA, Office of Human Resources Management—Payroll, 1400 Independence Ave. SW, Room 318 W, Whitten Bldg., Washington, DC 20250-1400, (202) 720-4175, HROperationspayroll@usda.gov.
+Office of the General Counsel, Office of Ethics: USDA, Office of Human Resources Management—Payroll, 1400 Independence Ave. SW, Room 318 W, Whitten Bldg., Washington, DC 20250-1400, (202) 720-4175, HROperationspayroll@usda.gov.
+Office of Hearings and Appeals: USDA, Office of the Chief Financial Officer, 13800 Old Gentilly Road, Modular Bldg. H-8, New Orleans, LA 70129, ocfo.fms.hr.services@usda.gov.
+Office of Homeland Security: USDA, Office of Human Resources Management—Payroll, 1400 Independence Ave. SW, Room 318 W, Whitten Bldg., Washington, DC 20250-1400, (202) 720-4175, HROperationspayroll@usda.gov.
+Counsel to the Inspector General, Office of Inspector General: USDA, Whitten Buildinguiin1400 Independence Avenue SW, STOP 2308, Room 441-E, Washington, DC 20250-2308, (202) 720-9110.
+Office of Partnerships and Public Engagement: USDA, Office of Human Resources Management—Payroll, 1400 Independence Ave. SW, Room 318 W, Whitten Bldg., Washington, DC 20250-1400, (202) 720-4175, HROperationspayroll@usda.gov.
+Office of Small and Disadvantaged Business Utilization: USDA, Office of Human Resources Management—Payroll, 1400 Independence Ave. SW, Room 318 W, Whitten Bldg., Washington, DC 20250-1400, (202) 720-4175, HROperationspayroll@usda.gov.
+Departmental Administration: USDA, Office of Human Resources Management—Payroll, 1400 Independence Ave. SW, Room 318 W, Whitten Bldg., Washington, DC 20250-1400, (202) 720-4175, HROperationspayroll@usda.gov.
+Office of Contracting and Procurement: USDA, Office of Human Resources Management—Payroll, 1400 Independence Ave. SW, Room 318 W, Whitten Bldg., Washington, DC 20250-1400, (202) 720-4175, HROperationspayroll@usda.gov.
+Office of Customer Experience: USDA, Office of Human Resources Management—Payroll, 1400 Independence Ave. SW, Room 318 W, Whitten Bldg., Washington, DC 20250-1400, (202) 720-4175, HROperationspayroll@usda.gov.
+Office of Human Resources Management: USDA, Office of Human Resources Management—Payroll, 1400 Independence Ave. SW, Room 318 W, Whitten Bldg., Washington, DC 20250-1400, (202) 720-4175, HROperationspayroll@usda.gov.
+Office of Operations: USDA, Office of Human Resources Management—Payroll, 1400 Independence Ave. SW, Room 318 W, Whitten Bldg., Washington, DC 20250-1400, (202) 720-4175, HROperationspayroll@usda.gov.
+Office of Property and Environmental Management: USDA, Office of Human Resources Management—Payroll, 1400 Independence Ave. SW, Room 318 W, Whitten Bldg., Washington, DC 20250-1400, (202) 720-4175, HROperationspayroll@usda.gov.
+Office of Safety, Security, and Protection: USDA, Office of Human Resources Management—Payroll, 1400 Independence Ave. SW, Room 318 W, Whitten Bldg., Washington, DC 20250-1400, (202) 720-4175, HROperationspayroll@usda.gov.
 Department of Commerce
-1. Bureau of the Census and the Economics and Statistics Administration (ESA): For Census employee-obligors employed by Headquarters, a Regional Office, the Hagerstown Telephone Center and the Tucson Telephone Center; and for employee-obligors in ESA—Headquarters/Washington, DC offices only:
-Bureau of the Census, Human Resources Division, ATTN: Chief, Pay, Processing and Systems Branch, FOB #3, Room 3254, Washington, DC 20233, (301) 457-3710
-For employee-obligors employed by the Census Data Preparation Division:
-Bureau of the Census, Data Preparation Division, ATTN: Chief, Human Resources Branch, Bldg. 66, Room 113, Jeffersonville, IN 47132, (812) 218-3323
-2. Patent and Trademark Office (PTO): Human Resources Manager
-U.S. Patent and Trademark Office, Box 3, Washington, DC 20231, (703) 305-8221
-3. United States and Foreign Commercial Service (US&FCS): Personnel Officer
-Office of Foreign Service Personnel, Room 3815, 14th & Constitution Avenue, NW., Washington, DC 20230, (202) 482-3133
-4. International Trade Administration (ITA) (For employee-obligors of the Headquarters/Washington, DC offices only):
-Human Resources Manager, Personnel Management Division, Room 4809, 14th & Constitution Avenue, NW., Washington, DC 20230, (202) 482-3438
-5. National Institute of Standards and Technology (NIST), the Technology Administration (TA), and the National Technical Information Service (NTIS) (For NIST employee-obligors other than in Colorado and Hawaii; for employee-obligors employed by TA and NTIS):
-Personnel Officer, Office of Human Resources Management, Administration Building, Room A-123, Gaithersburg, MD 20899, (301) 975-3000
-6. Office of the Inspector General (OIG):
-Human Resources Manager, Resource Management Division, Room 7713, 14th & Constitution Avenue, NW., Washington, DC 20230, (202) 482-4948
-7. National Oceanic and Atmospheric Administration (NOAA) (For employee-obligors in the Headquarters/Washington, DC; the Silver Spring and Camp Springs, MD; and the Sterling, VA offices only): Chief
-Human Resources Services Division, NOAA, 1315 East-West Highway, Room 13619, Silver Spring, MD 20910, (301) 713-0524
-8. Office of the Secretary (O/S), Bureau of Economic Analysis (BEA), Bureau of Export Administration (BXA), Economic Development Administration (EDA), Minority Business Development Agency (MBDA), and National Telecommunications and Information Administration (NTIA) (For employee-obligors in Washington, DC metro area offices only):
-Human Resources Manager, Office of Personnel Operations, Office of the Secretary, Room 5005, 14th and Constitution Avenue, NW., Washington, DC 20230, (202) 482-3827
-9. Regional employees of NOAA, NIST, BXA, EDA, MBDA, ITA, NTIA, to the Human Resources Manager servicing the region or State in which they are employed, as follows:
-a. Central Region. For NOAA employee-obligors in the States of: Alabama, Arkansas, Florida, Georgia, Illinois, Indiana, Iowa, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, Ohio, Tennessee, and Wisconsin; for National Marine Fisheries Service employees in the states of North Carolina, South Carolina and Texas; and for National Weather Service employees in the States of Colorado, Kansas, Nebraska, North Dakota, South Dakota, and Wyoming; for employee-obligors in the BXA, EDA, MBDA, and ITA in the States of Alabama, Arkansas, Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, Nebraska, New York, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, and Wisconsin:
-Human Resources Manager, Central Administrative Support Center (CASC), Federal Building, Room 1736, 601 East 12th Street, Kansas City, MO 64106, (816) 426-2056
-b. Eastern Region. For NOAA employee-obligors in the States of: Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, Ohio, Pennsylvania, Rhode Island, South Carolina, Vermont, Virginia, West Virginia, Puerto Rico, and the Virgin Islands; for employee-obligors in the BXA, EDA, MBDA, and ITA in the States of Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, Pennsylvania, Rhode Island, South Carolina, Tennessee, Vermont, Virginia, Puerto Rico, and the Virgin Islands:
-Human Resources Manager, Eastern Administrative Support Center (EASC), NOAA EC, 200 World Trade Center, Norfolk, VA 23510, (757) 441-6517
-c. Mountain Region. For NOAA employee-obligors in the States of: Alaska, Colorado, Florida, Hawaii, Idaho, and Oklahoma, at the South Pole and in American Samoa; and for the National Weather Service employees in the States of Alabama, Arkansas, Florida, Georgia, Louisiana, Mississippi, New Mexico, Oklahoma, Tennessee, Texas and in Puerto Rico; for employee-obligors in BXA, EDA, MBDA, NIST, and NTIA in the States of Arkansas, Colorado, Hawaii, Iowa, Louisiana, Missouri, Montana, South Dakota, Texas, Utah and Wisconsin:
-Human Resources Office, Mountain Administrative Support Center (MASC), MC22A, 325 Broadway, Boulder, CO 80303-3328, (303) 497-3578
-d. Western Region. For NOAA employee-obligors in the States of Arizona, California, Montana, Nevada, Oregon, Utah, Washington, and the Trust Territories; for employee-obligors in BXA, EDA, MBDA, and ITA in the States of Arizona, California, Nevada, Oregon, Utah, Washington, and the Trust Territories:
-Human Resources Manager, Western Administrative Support Center (WASC), NOAA WC2, 7600 Sand Point Way, NE., Bin C15700, Seattle, WA 89115-0070, (206) 526-6057
-10. In cases where the name of the operating unit cannot be determined:
-Director for Human Resources Management, U.S. Department of Commerce, 14th and Constitution Avenue, NW., Room 5001, (202) 482-4807
+1. Bureau of the Census, Bureau of Economic Analysis (BEA), and the Office of the Under Secretary for Economic Affairs (OUS/EA): For Census employee-obligors employed by Census headquarters in Suitland, Maryland; for BEA employee-obligors, and OUS/EA employee-obligors and serviced by Enterprise Services: Enterprise Services Human Resource Service Center, 8400 Corporate Drive, Suite 300, Landover, MD 20785, (888) 316-2285.
+1.a. For employee-obligors employed by the Census National Processing Center and Tucson Telephone Center: Bureau of the Census, National Processing Center, ATTN: Chief, Employee and Labor Relations Section, Human Resources Branch, Bldg. 63A, Room 2, 1201 East 10th Street, Jeffersonville, IN 47132, (812) 218-3321, or by eFax at 812-218-3492.
+b. For employee-obligors employed by the Census Regional Offices:
+UPS and Fed Ex: Bureau of the Census, Human Resources Division ATTN: Chief, Information Services Branch, 4600 Silver Hill Road, Suitland, MD 20746, (301) 763-4748.
+Certified Mail and USPS: Bureau of the Census, Human Resources Division ATTN: Chief, Information Services Branch, 4600 Silver Hill Rd., Washington, DC 20233, (301) 763-4748.
+eFax: Bureau of the Census, HRD Call Center, 301-763-8466.
+2. Patent and Trademark Office (PTO): Human Resources Manager, U.S. Patent and Trademark Office, Box 3, Washington, DC 20231, (703) 305-8221.
+3. United States and Foreign Commercial Service (US&FCS): Personnel Officer, Office of Foreign Service Personnel, Room 3815, 14th Street & Constitution Avenue NW, Washington, DC 20230, (202) 482-3133.
+4. International Trade Administration (ITA) (For employee-obligors of the Headquarters/Washington, DC offices only): Human Resources Manager, Personnel Management Division, Room 4809, 14th Street & Constitution Avenue NW, Washington, DC 20230, (202) 482-3438.
+5. National Institute of Standards and Technology (NIST)and the National Technical Information Service (NTIS) (For NIST employee-obligors; for employee-obligors employed by NTIS): Personnel Officer, Office of Human Resources Management, Administration Building, Room A-123, Gaithersburg, MD 20899, (301) 975-3000.
+6. Office of the Inspector General (OIG): Human Resources Manager, Resource Management Division, Room 7713, 14th Street & Constitution Avenue NW, Washington, DC 20230, (202) 482-4948.
+7. National Oceanic and Atmospheric Administration (NOAA) (For employee-obligors in the Headquarters/Washington, DC; the Silver Spring and Camp Springs, MD; and the Sterling, VA offices only): Chief, Human Resources Services Division, NOAA, 1315 East-West Highway, Room 13619, Silver Spring, MD 20910, (301) 713-0524.
+8. Office of the Secretary (O/S), Bureau of Industry and Security (BIS), Economic Development Administration (EDA), Minority Business Development Agency (MBDA), and National Telecommunications and Information Administration (NTIA) (For employee-obligors in Washington, DC metro area offices only): Human Resources Manager, Office of Personnel Operations, Office of the Secretary, Room 5005, 14th Street and Constitution Avenue NW, Washington, DC 20230, (202) 482-3827.
+9. Regional employees of NOAA, NIST, BIS, EDA, MBDA, ITA, NTIA, to the Human Resources Manager servicing the region or state in which they are employed, as follows:
+a. Central Region. For NOAA employee-obligors in the states of: Alabama, Arkansas, Florida, Georgia, Illinois, Indiana, Iowa, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, Ohio, Tennessee, and Wisconsin; for National Marine Fisheries Service employees in the states of North Carolina, South Carolina and Texas; and for National Weather Service employees in the states of Colorado, Kansas, Nebraska, North Dakota, South Dakota, and Wyoming; for employee-obligors in the BIS, EDA, MBDA, and ITA in the states of Alabama, Arkansas, Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, Nebraska, New York, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, and Wisconsin: Human Resources Manager, Central Administrative Support Center (CASC), Federal Building, Room 1736, 601 East 12th Street, Kansas City, MO 64106, (816) 426-2056.
+b. Eastern Region. For NOAA employee-obligors in the states of: Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, Ohio, Pennsylvania, Rhode Island, South Carolina, Vermont, Virginia, West Virginia, Puerto Rico, and the Virgin Islands; for employee-obligors in the BIS, EDA, MBDA, and ITA in the states of Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, Pennsylvania, Rhode Island, South Carolina, Tennessee, Vermont, Virginia, Puerto Rico, and the Virgin Islands: Human Resources Manager, Eastern Administrative Support Center (EASC), NOAA EC, 200 World Trade Center, Norfolk, VA 23510, (757) 441-6517.
+c. Mountain Region. For NOAA employee-obligors in the states of: Alaska, Colorado, Florida, Hawaii, Idaho, and Oklahoma, at the South Pole and in American Samoa; and for the National Weather Service employees in the states of Alabama, Arkansas, Florida, Georgia, Louisiana, Mississippi, New Mexico, Oklahoma, Tennessee, Texas and in Puerto Rico; for employee-obligors in BIS, EDA, MBDA, NIST, and NTIA in the states of Arkansas, Colorado, Hawaii, Iowa, Louisiana, Missouri, Montana, South Dakota, Texas, Utah and Wisconsin: Human Resources Office, Mountain Administrative Support Center (MASC), MC22A, 325 Broadway, Boulder, CO 80303-3328, (303) 497-3578.
+d. Western Region. For NOAA employee-obligors in the states of Arizona, California, Montana, Nevada, Oregon, Utah, Washington, and the Trust Territories; for employee-obligors in BIS, EDA, MBDA, and ITA in the states of Arizona, California, Nevada, Oregon, Utah, Washington, and the Trust Territories: Human Resources Manager, Western Administrative Support Center (WASC), NOAA WC2, 7600 Sand Point Way NE, Bin C15700, Seattle, WA 89115-0070, (206) 526-6057.
+10. In cases where the name of the operating unit cannot be determined: Director for Human Resources Management, U.S. Department of Commerce, 14th Street and Constitution Avenue NW, Room 5001, (202) 482-4807.
+11. For employee-obligors employed by bureaus serviced by Enterprise Services (BIS, EDA, ITA, MBDA, NOAA, NTIA, and O/S): Enterprise Services Human Resource Service Center, 8400 Corporate Drive, Suite 300, Landover, MD 20785, (888) 316-2285.
 Department of Defense
-Unless specifically listed below, all military members (active, retired, reserve, and national guard), and all civilian employees of the Department of Defense:
-Assistant General Counsel for Garnishment Operations, Defense Finance and Accounting Service, Cleveland Center—Code L (DFAS-CL/L), P.O. Box 998002, Cleveland, OH 44199-8002, (216) 522-5301
+Unless specifically listed below, all military members (active, retired, reserve, and national guard), and all civilian employees of the Department of Defense: Defense Finance and Accounting Service, Office of General Counsel, Attn: Garnishment Law Directorate, P.O. Box 998002, Cleveland, OH 44199-8002, Fax: 216-367-3675; Toll-Free Fax: 877-622-5930, Phone: 888-332-7411.
 Army
-a. Civilian employees in Germany:
-Commander, 266th Theater Finance Corps, Attention: AEUCF-CPF, Unit 29001, APO AE 09007, 011-49-6221-57-7977/6044
-b. Nonappropriated fund civilian employees of the Army:
+a. Civilian employees in Germany: Commander, 266th Theater Finance Corps, Attention: AEUCF-CPF, Unit 29001, APO AE 09007, 011-49-6221-57-7977/6044.
+b. Non-appropriated fund civilian employees of the Army:
 Post Exchanges
-Army and Air Force Exchange Service, Attention: CM-C-RI, P.O. Box 660202, Dallas, TX 75266-0202, (214) 312-2011
+Department of Defense. Defense Finance and Accounting Service, Office of General Counsel, Attn: Garnishment Law Directorate, P.O. Box 998002, Cleveland, OH 44199-8002, Fax: 216-367-3675; Toll-Free Fax: 877-622-5930, Phone: 888-332-7411.
 Navy
-a. Military Sealift Command Pacific Mariners:
-Office of Counsel (Code N2), Military Sealift Command, Pacific, 280 Anchor Way, Suite 1W, Oakland, CA 94625-5010
-b. Military Sealift Command Atlantic Mariners:
-Office of Counsel, Military Sealift Command, Atlantic, Military Ocean Terminal, Building 42, Bayonne, NJ 07002-5399
-c. Nonappropriated fund civilian employees of Navy Exchanges or related nonappropriated fund instrumentalities administered by the Navy Resale Systems Office:
-Commanding Officer, Navy Exchange Service Command, 3280 Virginia Beach Blvd., Virginia Beach, VA 23452, (804) 631-3614
-d. Nonappropriated fund civilian employees at Navy clubs, messes or recreational facilities:
-Chief of Navy Personnel, Director, Morale, Welfare, and Recreation Division (MWR), Washington, DC 20370, (202) 433-3005
-e. Nonappropriated fund personnel of activities that fall outside the purview of the Chief of Navy Personnel or the Commanding Officer of the Navy Exchange Service Command, such as locally established morale, welfare and other social and hobby clubs, such process may be served on the commanding officer of the activity concerned.
+a. Military Sealift Command Pacific Mariners: Defense Finance and Accounting Service, Office of General Counsel, Attn: Garnishment Law Directorate, P.O. Box 998002, Cleveland, OH 44199-8002, Fax: 216-367-3675; Toll-Free Fax: 877-622-5930, Phone: 888-332-7411.
+b. Military Sealift Command Atlantic Mariners: Defense Finance and Accounting Service, Office of General Counsel, Attn: Garnishment Law Directorate, P.O. Box 998002, Cleveland, OH 44199-8002, Fax: 216-367-3675; Toll-Free Fax: 877-622-5930, Phone: 888-332-7411.
+c. Non-appropriated fund civilian employees of Navy Exchanges or related non-appropriated fund instrumentalities administered by the Navy Exchange Service Command: Chief Executive Officer, Navy Exchange Service Command, ATTN: Office of Counsel, 3280 Virginia Beach Blvd., Virginia Beach, VA 23452-5724, (757) 631-3617.
+d. Non-appropriated fund civilian employees at Navy clubs, messes or recreational facilities: Chief of Navy Personnel, Director, Morale, Welfare, and Recreation Division (MWR), Washington, DC 20370, (202) 433-3005.
+e. Non-appropriated fund personnel of activities that fall outside the purview of the Chief of Navy Personnel or the Chief Executive Officer of the Navy Exchange Service Command, such as locally established morale, welfare and other social and hobby clubs, such process may be served on the commanding officer of the activity concerned.
 Marine Corps
-Nonappropriated fund civilian employees, process may be served on the commanding officer of the activity concerned.
+Non-appropriated fund civilian employees, process may be served on the commanding officer of the activity concerned.
 Air Force
-a. Nonappropriated fund civilian employees of base exchanges:
-Army and Air Force Exchange Service, Attention: FA-F/R, PO Box 650038, Dallas, TX 75265-0038, (214) 312-2119
-b. Nonappropriated fund civilian employees of all other Air Force nonappropriated fund activities:
-Office of Legal Counsel, Air Force Services Agency, 10100 Reunion Place, Suite 503, San Antonio, TX 78216-4138, (210) 652-7051
+a. Non-appropriated fund civilian employees of base exchanges: Army and Air Force Exchange Service, Attention: FA-F/R, P.O. Box 650038, Dallas, TX 75265-0038, (214) 312-2119.
+b. Non-appropriated fund civilian employees of all other Air Force non-appropriated fund activities: Office of Legal Counsel, Air Force Services Agency, 10100 Reunion Place, Suite 503, San Antonio, TX 78216-4138, (210) 652-7051.
 Department of Education
-Assistant Secretary, Office of Management, FB-10, Room 2164, 600 Independence Avenue, SW., Washington, DC 20202-2110, (202) 401-0470
+Assistant Secretary, Office of Finance and Operations, Lyndon Baines Johnson Building—2nd Floor, 400 Maryland Avenue SW, Washington, DC 20202, (202) 401-3000.
 Department of Energy
-Power Administration
-1. Alaska Power Administration
-Administrator, Alaska Power Administration, Department of Energy, PO Box 020050, Juneau, AK 99802-0050, (907) 586-7405
-2. Bonneville Power Administration
-Chief, Payroll Section DSDP, Bonneville Power Administration, Department of Energy, 905 NE. 11th Avenue, Portland, OR 97232, (503) 230-3203
-3. Southeastern Power Administration
-Chief, Payroll Branch, Department of Energy, Forrestal Building, Room 1E-184, 1000 Independence Avenue, SW., Washington, DC 20585, (202) 586-5581
-4. Southwestern Power Administration
-Chief Counsel, Southwestern Power Administration, Department of Energy, PO Box Drawer 1619, Tulsa, OK 74101, (918) 581-7426
-5. Western Area Power Administration
-General Counsel, Western Area Power Administration, Department of Energy, PO Box 3402, Golden, CO 80401, (303) 231-1529
-Field Offices
-1. Albuquerque Operations Office
-Chief Counsel, Albuquerque Operations Office, Department of Energy, PO Box 5400, Albuquerque, NM 87115, (505) 844-7265
-2. Chicago Operations Office
-Chief Counsel, Chicago Operations Office, Department of Energy, 9800 South Cass Avenue, Argonne, IL 60439, (312) 972-2032
-3. Idaho Operations Office
-Financial Services Division-Payroll, 850 Energy Drive, Idaho Falls, ID 83401, (208) 526-0459
-4. Nevada Operations Office
-Chief, Payroll Branch, CR-431, Department of Energy, GTN Building, Room 259, Washington, DC 20585, (301) 903-4012
-5. Oak Ridge Operations Office
-Chief Counsel, Oak Ridge Operations Office, Department of Energy, P.O. Box 20001, Oak Ridge, TN 37831-8510, (615) 576-1200
-6. Richland Operations Office
-Chief Counsel, Richland Operations Office, Department of Energy, P.O. Box 550, Richland, WA 99352, (509) 376-7311
-7. Oakland Operations Office
-Director, Finance and Accounting Division, Department of Energy, 1301 Clay Street, Oakland, CA 94612-5208, (510) 637-1532
-8. Savannah River Operations Office
-Director, Financial Management and Program Support Division, Department of Energy, P.O. Box A, Aiken, SC 29802, (803) 725-5590
-9. Washington DC Headquarters, Pittsburgh Naval Reactors Office, Schenectady Naval Reactors Office, and All Other Organizations Within the Department of Energy
-Chief, Payroll Branch, CR-431, Department of Energy, GTN Building, Room E-259, Washington, DC 20585, (301) 903-4012
+Garnishment orders for civilian employees of the Department of Energy, other than those employed by the Bonneville Power Administration (BPA) and the Federal Energy Regulatory Commission (FERC), should be sent to: Defense Finance and Accounting Service, Office of General Counsel, Attn: Garnishment Law Directorate, P.O. Box 998002, Cleveland, OH 44199-8002, Fax: 216-367-3675; Toll-Free Fax: 877-622-5930, Phone: 888-332-7411.
+Garnishment orders for civilian employees of BPA and FERC should be sent to the addresses below:
+Bonneville Power Administration
+Chief, Payroll Section DSDP, Bonneville Power Administration, Department of Energy, 905 NE 11th Avenue, Portland, OR 97232, (503) 230-3203.
+Federal Energy Regulatory Commission
+Payroll Office, 888 First Street NE, Washington, DC 20246, (202) 502-8990.
 Department of Health and Human Services
-Garnishment Agent, Office of General Counsel, Room 5362—North Building, 330 Independence Ave., SW., Washington, DC 20201, (202) 619-0150
+Garnishment orders for civilian employees of the Department of Health and Human Services should be sent to: Defense Finance and Accounting Service, Office of General Counsel, Attn: Garnishment Law Directorate, P.O. Box 998002, Cleveland, OH 44199-8002, Fax: 216-367-3675; Toll-Free Fax: 877-622-5930, Phone: 888-332-7411.
+Department of Homeland Security
+For Department of Homeland Security Headquarters employees: Office of the Chief Human Capital Officer, HRMS/Payroll and Processing/Mailstop 0170, Department of Homeland Security, 6595 Springfield Center Drive, Springfield, VA 20598-0170.
+U.S. Citizenship and Immigration Services
+Financial Operations Center—Payroll, United States Citizenship and Immigration Services, 70 Kimball Avenue South Burlington, VT 05403, (802) 657-7860.
+United States Coast Guard
+Commanding Officer (LGL), Coast Guard Pay and Personnel Center, 444 SE Quincy Street, Topeka, KS 66683-3591, (785) 339-3595.
+U.S. Customs and Border Protection
+Chief, Payroll Branch, Finance and Accounting Division, 6650 Telecom Drive, Suite 100, Indianapolis, IN 46278, (317) 298-1305.
+Cybersecurity and Infrastructure Security Agency
+Unless an alternative means of service is specified at https://www.cisa.gov/contact-us, deliver service of process to: Office of the Chief Counsel, CISA-NGR STOP 0645 Cybersecurity and Infrastructure Security Agency, 1110 N Glebe Rd., Arlington, VA 20598-0645. To aid in prompt handling, parties are encouraged to also email a copy to CISA.OCC@cisa.dhs.gov.
+Federal Emergency Management Agency
+Director, Payroll and Processing Division, Office of the Chief Human Capital Officer, 500 C St. SW, Washington, DC 20472, (866) 896-8003.
+Federal Law Enforcement Training Center
+Chief Counsel, 1131 Chapel Crossing Road, Building 93, Glynco, GA 31524, (912) 267-244.
+United States Immigration and Customs Enforcement
+Office of Human Capital, Payroll Unit, 8222 N Belt Line Road, 2nd Floor, Irving, TX 75063.
+United States Secret Service
+U.S. Secret Service, 245 Murray Ln SW—BLDG T-5, Washington, DC 20223, (202) 406-5708.
+Transportation Security Administration
+TSA HR Service Center, 6363 Walker Lane, Suite #400, Alexandria, VA 22310.
 Department of Housing and Urban Development
-Director, Systems Support Division, Employee Service Center, 451 7th Street, SW., Room 2284, Washington, DC 20410, (202) 708-0241
+Director, Systems Support Division, Employee Service Center, 451 7th Street SW, Room 2284, Washington, DC 20410, (202) 708-0241.
 Department of the Interior
-Chief, Payroll Operations Division, Attn: Code D-2605, Bureau of Reclamation, Administrative Service Center, Department of the Interior, P.O. Box 272030, 7201 West Mansfield Avenue, Denver, CO 80227-9030, (303) 969-7739
+Chief, Payroll Operations Division, Attn: Code D-2605, Interior Business Center, Department of the Interior, P.O. Box 272030, Denver, CO 80227-9030, (303) 969-7739.
 Department of Justice
-Offices, Boards, and Divisions
-Personnel Group/Payroll Operations, 1331 Pennsylvania Avenue, NW., Suite 1170, Washington, DC 20530, (202) 514-6008
-Office of the Inspector General
-Personnel Division, 1425 New York Avenue, NW., Suite 7000, Washington, DC 20005, (202) 616-4501
-For employees of any office of a United States Attorney and for employees of the Executive Office for United States Attorneys:
-Assistant Director, Executive Office for United States Attorneys, Personnel Staff, Bicentennial Building, 600 E Street, NW., Room 8017, Washington, DC 20530
-United States Marshals Service
-Personnel Office, 600 Army Navy Drive, Room 850, Arlington, VA 22202-4210, (202) 307-9637
-Office of Justice Programs
-Office of Personnel, 633 Indiana Avenue, NW., Room 600, Washington, DC 20530, (202) 307-0730
-U.S. Trustees Programs
-Personnel Office, 901 E Street, NW., Room 770, Washington, DC 20530, (202) 616-1000
+Antitrust Division
+Executive Office, Personnel Section 450 5th Street NW, Room 3100, Washington, DC 20530, (202) 415-4163.
+Bureau of Alcohol, Tobacco, Firearms and Explosives
+Human Resources and Professional Development, 99 New York Ave. NE, Washington, DC 20226, (202) 344-5608.
+Bureau of Prisons (All Facilities)
+Human Resource Services Center, 346 Marine Forces Drive, Grand Prairie, TX 75051, (202) 235-7824.
+Civil Division
+Office of Human Resources, 1100 L Street NW, Room 2034, Washington, DC 20530, (202) 616-0353.
+Civil Rights Division
+Office of Human Resources and Security, 150 M Street NE, Room 6.1408, Washington, DC 20530, (202) 514-3934.
+Criminal Division
+Office of Administration, 1400 New York Ave. NW, 6th Floor, Room 629, Washington, DC 20005, (202) 514-0361.
 Drug Enforcement Administration
-Office of Personnel, Employee Relations Unit, 700 Army Navy Drive, Room 3164, Arlington, VA 22202-4210, (202) 307-1222
-Immigration and Naturalization Service
-Personnel Support, Immigration and Naturalization Service, 425 I Street, NW., Room 2038, Washington, DC 20536, (202) 514-2525
-Human Resources and Career Development, Immigration and Naturalization Service, One Federal Drive #400, Whipple Bldg., Fort Snelling, MN 55111, (612) 725-3211
-Human Resources and Career Development, Immigration and Naturalization Service, 70 Kimball Avenue, South Burlington, VT 05403, (802) 660-5137
-Human Resources and Career Development, Immigration and Naturalization Service, 7701 N. Stemmons Freeway, Dallas TX 75247, (214) 655-6032
-Personnel Office, Immigration and Naturalization Service, P.O. Box 30070, Laguna Niguel, CA 92607, (714) 643-4934
-Federal Prisons Systems, U.S. Penitentiary, Personnel Office, 1300 Metropolitan, Leavenworth, KS 66048, (913) 682-8700
-Federal Correctional Institution, Personnel Office, Route 37, Danbury, CT 06811, (203) 743-6471
-Personnel Office, 320 1st Street, NW., Room 161, Washington, DC 20534, (202) 307-3135
-U.S. Penitentiary, Personnel Office, Highway 63 South, Terre Haute, IN 47808, (812) 238-1531
-U.S. Penitentiary, Personnel Office, RD #5, Lewisburg, PA 17837, (717) 523-1251
-Federal Correctional Institution, Personnel Office, P.O. Box 1000, Anthony, NM 88021, (915) 886-3422
-Federal Correctional Institution, Personnel Office, Kettler River Road, Sandstone, MN 55072, (612) 245-2262
-U.S. Penitentiary, Personnel Office, 601 McDonough Blvd., SE., Atlanta, GA 30315, (404) 622-6241
-Federal Correctional Institution, Personnel Office, PO Box 9999, Milan, MI 48160, (313) 439-1511
-Federal Correctional Institution, Personnel Office, PO Box 888, Ashland, KY 41105, (606) 928-6414
-Federal Correctional Institution, Personnel Office, 501 Capital Cir., NE., Tallahassee, FL 32301, (904) 878-2173
-Federal Correctional Institution, Personnel Office, Greenbag Road, Morgantown, WV 26505, (304) 296-4416
-U.S. Medical Center, Federal Prison, Personnel Office, 1900 W. Sunshine, Springfield, MO 65808, (417) 862-7041
-Federal Correctional Institution, Personnel Office, 2113 N. HWY 175, Seagoville, TX 75159, (214) 287-2911
-Federal Correctional Institution, Personnel Office, 1000 River Road, Petersburg, VA 23804-1000, (804) 733-7881
-Federal Prison Camp, Personnel Office, Glen Ray Road, Box B, Alderson, WV 24910 (304) 445-2901
-U.S. Penitentiary, Personnel Office, 3901 Klein Blvd., Lompoc, CA 93436, (805) 735-3245
-Federal Correctional Institution, Personnel Office, Highway 66 West, El Reno, OK 73036, (405) 262-4875
-Federal Correctional Institution, Personnel Office, 9595 W. Quincy Avenue, Englewood, CO 80123, (303) 985-1566
-Federal Correctional Institution, Personnel Office, 1299 Seaside Avenue, Terminal Island, CA 90731, (310) 831-8961
-U.S. Penitentiary, Personnel Office, Rt. 5, P.O. Box 2000, Marion, IL 62959, (618) 964-1441
-Federal Correctional Institution, Personnel Office, 3150 Norton Road, Fort Worth, TX 76119, (817) 535-2111
-Metropolitan Correctional Center, Personnel Office, 150 Park Row, New York, NY 10007, (212) 791-9130
-Federal Correctional Institution, Personnel Office, P.O. Box 1000, Butner, NC 27509, (919) 575-4541
-Federal Correctional Institution, Personnel Office, RR #2, Box 820, Safford, AZ 85546, (602) 348-1337
-Bureau of Prisons, South Central Regional Office, Personnel Office, 4211 Cedar Springs, Suite 300, Dallas, TX 75219, (214) 767-9700
-Federal Correctional Institution, Personnel Office, Oxford, WI 53952, (608) 584-5511
-Federal Medical Center, Personnel Office, 3301 Leestown Road, Lexington, KY 40511, (606) 255-6812
-Federal Correctional Institution, Personnel Office, 5701 8th Street, Dublin, CA 94568, (510) 833-7500
-Federal Correctional Institution, Personnel Office, 8901 S. Wilmot Road, Tucson, AZ 85706, (602) 574-7100
-Bureau of Prisons, Personnel Office, SE Regional Office, 523 McDonough Blvd., SE., Atlanta, GA 30315, (404) 624-5252
-Bureau of Prisons, North Central Regional Office, Personnel Office, 4th & State Avenue, 8th Floor—Tower II, Kansas City, KS 66101-2492, (913) 551-1144
-Bureau of Prisons, Personnel Office, NE Region, U.S. Customs, 2nd & Chestnut, 7th Floor, Philadelphia, PA 19106, (215) 597-6302
-Bureau of Prisons, Personnel Office, W. Regional Office, 7950 Dublin Blvd., 3rd Floor, Dublin, CA 94568, (510) 803-4710
-Metropolitan Correctional Center, Personnel Office, 71 W. Van Buren Street, Chicago, IL 60605, (312) 322-0567
-Metropolitan Correctional Center, Personnel Office, 808 Union Street, San Diego, CA 92101, (619) 232-4311
-Metropolitan Correctional Center, Personnel Office, 15801 SW 137th Avenue, Miami, FL 33177, (305) 255-6788
-Federal Correctional Institution, Personnel Office, 1101 John A. Denie Road, Memphis, TN 38134, (901) 372-2269
-Federal Prison Camp, Personnel Office, P.O. Box 1000, Montgomery, PA 17752, (717) 547-1641
-Federal Correctional Institution, Personnel Office, P.O. Box 730, HWY 95, Bastrop, TX 78602-0730, (512) 321-3903
-Federal Prison Camp, Personnel Office, Eglin AFB, Eglin AFB, FL 32542, (904) 882-8522
-Federal Correctional Institution, Personnel Office, 565 E Renfroe Road, Talladega, AL 35160, (205) 362-0410
-Federal Prison Camp, Personnel Office, P.O. Box 500, Boron, CA 93516, (619) 762-5161
-Federal Correctional Institution, Personnel Office, 1900 Simler Avenue, Big Spring, TX 79720, (915) 263-8304
-Federal Correctional Institution, Personnel Office, P.O. Box 600, Otisville, NY 10963, (914) 386-5855
-Federal Correctional Institution, Personnel Office, P.O. Box 300, Raybrook, NY 12977, (518) 891-5400
-Federal Correctional Institution, Personnel Office, 37900 North 45th Avenue, Dept. 1680, Phoenix, AZ 85027, (602) 465-5112
-Federal Correctional Institution, Personnel Office, P.O. Box 5050, Oakdale, LA 71463, (318) 335-4070
-Federal Medical Center, Personnel Office, P.O. Box 4600, Rochester, MN 55903, (507) 287-0674
-Federal Correctional Institution, Personnel Office, P.O. Box 1000, Loretto, PA 15940, (814) 472-4140
-Federal Prison Camp, Personnel Office, Maxwell AFB, Montgomery, AL 36112, (205) 834-3681
-Federal Correctional Institution, Personnel Office, 3625 FCI Road, Marianna, FL 32446, (904) 526-6377
-Metropolitan Detention Center, Personnel Office, 535 N. Alameda Street, Los Angeles, CA 90012, (213) 485-0439
-Federal Prison Camp, Personnel Office, P.O. Box 680, Yankton, SD 57078, (605) 665-3265
-Federal Prison Camp, Personnel Office, Drawer 2197, Bryan, TX 77803, (409) 823-1879
-Federal Prison Camp, Personnel Office, Saufley Field, Pensacola, FL 32509, (904) 457-1911
-Federal Correctional Institution, Personnel Office, 3600 Guard Road, Lompoc, CA 93436, (805) 736-4154
-Federal Correctional Institution, Personnel Office, Box 5000, Bradford, PA 16701, (814) 362-8900
-Federal Prison Camp, Personnel Office, Seymour Johnson AFB, Goldsboro, NC 27533, (919) 735-9711
-Federal Prison Camp, Personnel Office, Nellis AFB, Nellis, NV 89191, (702) 644-5001
-Federal Correctional Institution, Personnel Office, P.O. Box 5001, Sheridan, OR 97378, (503) 843-4442
-Federal Correctional Institution, Personnel Office, 2600 Highway 301 South, Jesup, GA 31545, (912) 427-0870
-Federal Correctional Institution, Personnel Office, P.O. Box 280, Fairton, NJ 08320, (609) 453-4068
-Federal Prison Camp, Personnel Office, P.O. Box 1400, Duluth, MN 55814, (218) 722-8634
-Federal Prison Camp, Personnel Office, P.O. Box 16300, El Paso, TX 79906, (915) 540-6150
-Federal Correctional Institution, Personnel Office, P.O. Box 4000, Three Rivers, TX 78071, (512) 786-3576
-Federal Detention Center, Personnel Office, P.O. Box 5060, Oakdale, LA 71463, (318) 335-4070
-Federal Prison Camp, Personnel Office, 6696 Navy Road, Millington, TN 38053, (901) 872-2277
-Federal Medical Center, Personnel Office, P.O. Box 68, Carville, LA 70721, (504) 389-5044
-Federal Correctional Institution, Personnel Office, P.O. Box 789, Minersville, PA 17954, (717) 544-7121
-Federal Prison Camp, Personnel Office, Homestead, FL 33039, (305) 258-9676
-Federal Prison Camp, Personnel Office, Box 40150, Tyndall AFB, FL 32403, (904) 286-6777
-Metropolitan Detention Center, Personnel Office, P.O. Box 34028, Ft. Buchanan, PR 00934, (809) 749-4480
-Bureau of Prisons #580, Personnel Office, Management & Specialist Training Center, 791 Chambers Road, Aurora, CO 80011, (303) 361-0567
-LSCI, P.O. Box 1500, White Deer, PA 17887, (717) 547-1990
-Federal Correctional Institution, Personnel Office, Rt. 8 Box 58, Fox Hollow Road, Manchester, KY 40962, (606) 598-4153
-Metropolitan Detention Center, Personnel Office, 100 29th Street, Brooklyn, NY 11232, (718) 832-1039
-U.S. Penitentiary-High, 5880 State Hwy, 67 South, Florence, CO 81226, (719) 784-9454
-Federal Correctional Institution, Personnel Office, 5880 State Hwy, 67 South, Florence, Co 81226, (719) 784-9100
-Federal Correctional Institution, Personnel Office, P.O. Box 699, Estill, SC 29918, (803) 625-4607
-Federal Correctional Institution, Personnel Office, P.O. Box 2500, White Deer, PA 17887, (717) 547-7950
-Federal Detention Center, Personnel Office, 1638, Northwest 82nd Avenue, Miami, FL 33126, (305) 597-4884
-Bureau of Prisons, Personnel Office, Mid Atlantic Region, 10010 Junctions Dr., #100-N, Annapolis Junction, MD 20701, (301) 317-3199
-U.S. Penitentiary, Personnel Office, P.O. Box 3500, White Deer, PA 17887, (717) 547-0963
-North Central Regional Office, Personnel Office, 4th & State Ave., 8th Floor—Tower II, Kansas City, KS 66101-2492, (913) 551-1114
-Federal Prison Camp, Personnel Office, Glen Ray Road—Box B, Alderson, WV 24910-0700, (304) 445-2901
-Federal Correctional Complex, Personnel Office, P.O. Box 999, 904 NE 50th Way, Coleman, FL 33521-0999, (904) 748-0999
-Federal Correctional Institution, Personnel Office, Fort Dix, P.O. Box 38, Trenton, NJ 08640, (609) 723-1100
-Federal Medical Center, Personnel Office, P.O. Box 27066, J St., Bldg. 3000, Ft. Worth, TX 76127-7066, (817) 782-3834
-Federal Bureau of Investigation
-Chief, Payroll Administration and Processing Unit, Room 1885, 935 Pennsylvania Avenue, NW., Washington, DC 20535, (202) 324-5881.
+Compensation, Benefits and Processing Section, 8701 Morrissette Drive, HR/HRS, Springfield, VA 22152, (571) 776-2821.
+Environment & Natural Resources Division
+150 M Street NE, Room 2.1142, Washington, DC 20530, (202) 616-3359.
+Executive Office for Immigration Review
+Office of Human Resources, 5107 Leesburg Pike, 19th Floor, (703) 756-8061.
+Executive Office for United States Attorneys
+Human Resources, 175 N Street NE, Washington, DC 20530, (202) 252-5324.
+Federal Bureau of Investigations
+Human Resources Division, Payroll Management Unit, 935 Pennsylvania Avenue NW, Room 10997, Washington, DC 20535, (202) 324-3333.
+Justice Management Division (for All DOJ Components Not Otherwise Listed)
+JMD Human Resources Operations/Payroll, 145 N Street NE, Room 9W.1425, Washington, DC 20530, (202) 616-9008.
+Office of Justice Programs
+Office of Administration, Human Resources Division, 810 7th Street NW, Room 3300, Washington, DC 20531, (202) 307-0730.
+Office of the Inspector General
+M&P Office of Human Resources, 150 M Street, Suite 11.000, Washington, DC 20530, (202) 616-4522.
+Tax Division
+150 M Street NE, Suite 1.1330, Washington, DC 20530, (202) 616-1762.
+U.S. Marshals Service
+Human Resources Division, Office of Compensation, Benefits, and Processing, CG3 4th Floor, Room 4030, Arlington, VA 22202, (703) 740-1714.
 Department of Labor
-1. Payments to employees of the Department of Labor:
-Director, Office of Accounting, Department of Labor, 200 Constitution Avenue, NW., Washington, DC 20210, (202) 219-8314
-2. Process relating to those exceptional cases where there is money due and payable by the United States under the Longshoreman's Act should be directed to the:
-Associate Director for Longshore and Harbor Worker's Compensation, Department of Labor, 200 Constitution Avenue, NW., Washington, DC 20210, (202) 219-8721
-3. Process relating to benefits payable under the Federal Employees' Compensation Act should be directed to the appropriate district office of the Office of Workers' Compensation Programs:
-District No. 1
-District Director, Office of Workers' Compensation Programs, John F. Kennedy Building, Room 1800, Government Center, Boston, MA 12203, (617) 565-2137
-Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont
-District No. 2
-District Director, Office of Workers' Compensation Programs, 201 Varick Street, Room 750, P.O. Box 566, New York, NY 10014-0566, (212) 337-2075
-New Jersey, New York, Puerto Rico, and the Virgin Islands
-District No. 3
-District Director, Office of Workers' Compensation Programs, Gateway Building, 3535 Market Street, Philadelphia, PA 19104, (215) 596-1457
-Delaware, Pennsylvania, and West Virginia
-District No. 6
-District Director, Office of Workers' Compensation Programs, 214 N. Hogan Street, Suite 1026, Jacksonville, FL 32202, (904) 232-2821
-Alabama, Florida, Georgia, Kentucky, Mississippi, North Carolina, South Carolina, and Tennessee
-District No. 9
-District Director, Office of Workers' Compensation Programs, 1240 East 9th Street, Cleveland, OH 44199, (216) 522-3800
-Indiana, Michigan, and Ohio
-District No. 10
-District Director, Office of Workers' Compensation Programs, 230 S. Dearborn Street, 8th Floor, Chicago, IL 60604, (312) 353-5656
-Illinois, Minnesota, and Wisconsin
-District No. 11
-Regional Director, Office of Workers' Compensation Programs, 1910 Federal Office Building, 911 Walnut Street, Kansas City, MO 64106, (816) 426-2195
-Iowa, Kansas, Missouri, and Nebraska
-District No. 12
-District Director, Office of Workers' Compensation Programs, 1801 California Street, Suite 915, Denver, CO 80202, (303) 391-6000
-Colorado, Montana, North Dakota, South Dakota, Utah, and Wyoming
-District No. 13
-District Director, Office of Workers' Compensation Programs, 71 Stevenson Street, 2nd Floor, P.O. Box 3769, San Francisco, CA 94119-3769, (415) 744-6610
-Arizona, California, Hawaii, Guam, and Nevada
-District No. 14
-District Director, Office of Workers' Compensation Programs, 111 Third Avenue, Suite 615, Seattle, WA 98101, (206) 553-5508
-Alaska, Idaho, Oregon, and Washington
-District No. 16
-District Director, Office of Workers' Compensation Programs, 525 Griffin Street, Room 100, Dallas, TX 75202, (214) 767-2580
-Arkansas, Louisiana, New Mexico, Oklahoma, and Texas
-District No. 25
-District Director, Office of Workers' Compensation Programs, 800 N. Capitol Street, Room 800, Washington, DC 20211, (202) 724-0713
-District of Columbia, Maryland, and Virginia
-4. Process relating to claims arising out of the places set forth below and process seeking to attach Federal Employees' Compensation Act benefits payable to employees of the Department of Labor should be directed to the:
-Regional Director, Office of Workers' Compensation Programs, 1910 Federal Office Building, 911 Walnut Street, Kansas City, MO 64106, (816) 426-2195
+1. Payments to employees of the Department of Labor: Division Director, Office of Compensation and Processing, Department of Labor, 200 Constitution Avenue NW, N-4654, Washington, DC 20210, (202) 693-6856.
+2. Process relating to those exceptional cases where there is money due and payable by the United States under the Longshoreman's Act should be directed to the: Associate Director for Longshore and Harbor Worker's Compensation, Department of Labor, 200 Constitution Avenue NW, C-3516, Washington, DC 20210, (202) 219-8721.
+3. Process relating to benefits payable under the Federal Employees' Compensation Act should be directed to the Office of Workers' Compensation Programs:
+DFELHWC—FECA
+Fiscal Operations, Office of Workers' Compensation Programs, 2300 Main Street, Suite 10128, Kansas City, MO 64108-2416, (202) 513-6860.
 Department of State
-Executive Director (L/EX), Office of the legal Adviser, Department of State, 22nd and C Streets, NW., Room 5519A, Washington, DC 20520, (202) 647-8323
+The Executive Office, Office of the Legal Adviser, Suite 5.600, Department of State, 600 19th Street NW, Washington, DC 20522.
 Department of Transportation
 Office of the Secretary
-General Counsel, Department of Transportation, 400 7th Street, SW., Washington, DC 20590, (202) 366-4702
-Agent designated to accept legal process issued by courts in the District of Columbia:
-Assistant Chief Counsel, AGC-100, Department of Transportation, 701 Pennsylvania Avenue, NW., Suite 925, Washington, DC 20004, (202) 376-6416
-Agent designated to accept legal process issued by courts in the District of Columbia:
-Assistant Chief Counsel, MC-7, Department of Transportation, P.O. Box 25082, Oklahoma City, OK 73125, (405) 954-3296
-Agent designated to accept legal process issued by courts in the State of New Jersey:
-Assistant Chief Counsel, ACT-7, FAA Technical Center, Department of Transportation, Atlantic City, NJ 08405, (609) 485-7087
-United States Coast Guard
-Commanding Officer (LGL), Coast Guard Human Resources, Service and Information Center, 444 SE. Quincy Street, Topeka, KS 66683-3591, (785) 357-3595
+Assistant General Counsel for Litigation and Enforcement, C-30, U.S. Department of Transportation, 1200 New Jersey Avenue SE, Room W94-310, Washington, DC 20590, (202) 366-4713.
 Federal Aviation Administration
-1. Headquarters (Washington, DC) and overseas employees:
-Agent designated to accept legal process issued by courts in the District of Columbia:
-Assistant Chief Counsel, AGC-100, General Legal Services Division, Federal Aviation Administration, 400 Seventh Street, SW., Suite PL-200A, Washington, DC 20590, (202) 366-4099.
-Agent designated to accept legal process issued by courts in the State of Oklahoma:
-Assistant Chief Counsel, AMC-7, Federal Aviation Administration, P.O. Box 25082, Oklahoma City, OK 73125, (405) 954-3296.
-Agent designated to accept legal process issued by courts in the State of New Jersey:
-Assistant Chief Counsel, ACT-7, FAA Technical Center, Federal Aviation Administration, Atlantic City, NJ 08405, (609) 485-7087
-Agent designated to accept legal process issued by courts in the State of Alaska:
-Assistant Chief Counsel, AAL-7, Federal Aviation Administration, 222 West 7th Avenue, #14, Anchorage, AL 99533, (907) 271-5269
-Agent designated to accept legal process issued by courts in the States of Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, and Connecticut:
-Assistant Chief Counsel, ANE-7, Federal Aviation Administration, 12 New England Executive Park, Burlington, MA 01803, (617) 238-7040
-Agent designated to accept legal process issued by courts in the States of New York, Pennsylvania, Maryland, West Virginia, Delaware, and Virginia:
-Assistant Chief Counsel, AEA-7, Federal Aviation Administration, JFK International Airport, Fitzgerald Federal Building, Jamaica, NY 11430, (718) 553-1035
-Agent designated to accept legal process issued by courts in the States of Kentucky, Tennessee, North Carolina, South Carolina, Georgia, Florida, Alabama, and Mississippi:
-Assistant Chief Counsel, ASO-7, Federal Aviation Administration, P.O. Box 20636, Atlanta, GA 30320, (404) 763-7204
-Agent designated to accept legal process issued by courts in the States of Louisiana, Arkansas, Texas, and New Mexico:
-Assistant Chief Counsel, ASW-7, Federal Aviation Administration, 2601 Meacham Boulevard, Forth Worth, TX 76137-4298, (817) 222-5064
-Agent designated to accept legal process issued by courts in the States of Nebraska, Iowa, Missouri, and Kansas:
-Assistant Chief Counsel, ACE-7, Federal Aviation Administration, 601 East 12th Street, Federal Building, Kansas City, MO 64106, (816) 426-5446
-Agent designated to accept legal process issued by courts in the State of Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, North Dakota, and South Dakota:
-Assistant Chief Counsel, AGL-7, Federal Aviation Administration, O'Hare Lake Office Center, 2300 East Devon Avenue, Des Plaines, IL 60018, (708) 294-7108
-Agent designated to accept legal process issued by courts in the States of Colorado, Utah, Wyoming, Montana, Idaho, Oregon, and Washington:
-Assistant Chief Counsel, AMN-7, Federal Aviation Administration, 1601 Lind Avenue, SW., Renton, WA 98055-4056, (206) 227-2007
-Agent designated to accept legal process issued by courts in the States of Hawaii, Arizona, Nevada, and California:
-Assistant Chief Counsel, AWP, Federal Aviation Administration, PO Box 92007, World Postal Center, Los Angeles, CA 90009, (310) 297-1270
+Chief, Payroll Operations Division, Attn: Code D-2605, Interior Business Center, Department of the Interior, P.O. Box 272030, Denver, CO 80227-9030, (303) 969-7739.
 Department of the Treasury
 (1) Departmental Offices
-Assistant General Counsel (Administrative and General Law), Treasury Department, 1500 Pennsylvania Avenue, NW., Room 1410, Washington, DC 20220, (202) 622-0450
+Office of Human Resources, Treasury Department, 1500 Pennsylvania Avenue NW, Washington, DC 20220, (202) 622-0450.
 (2) Office of Foreign Assets Control
-Chief Counsel, Second Floor, Treasury Annex, 1500 Pennsylvania Avenue, NW., Washington, DC 20220, (202) 622-2410
-(3) Financial Management Service
-Chief Counsel, Financial Management Service, 401 14th Street, SW., Room 531, Washington, DC 20227, (202) 874-6680
+Chief Counsel, Second Floor, Treasury Annex/Freedman's Bank Building, 1500 Pennsylvania Avenue NW, Washington, DC 20220, (202) 622-2410.
+(3) Bureau of the Fiscal Service
+Human Capital Division, Room A4-H, Bureau of the Fiscal Service, P.O. Box 1328, Parkersburg WV 26106-1328, (304) 480-8303.
 (4) Internal Revenue Service
-Chief, Special Processing Unit, Garnishing Processing Center, 214 North Kanawha Street, Beckley, WV 25801, (304) 256-6200
-(5) Bureau of Alcohol, Tobacco & Firearms
-Chief Counsel, 650 Massachusetts Avenue, NW., Room 6100, Washington, DC 20226, (202) 927-7772
-(6) Bureau of the Public Debt
-Deputy Chief Counsel, Bureau of the Public Debt, Room 119, Hintgen Building, Parkersburg, WV 26106-1328, (304) 480-5192
-(7) Secret Service
-Legal Counsel, 1800 G Street, NW., Room 842, Washington, DC 20023, (202) 435-5771
-(8) Bureau of Engraving & Printing
-Legal Counsel, 14th & C Streets, NW., Room 306M, Washington, DC 20228, (202) 874-2500
-(9) Office of the Comptroller of the Currency
-Washington Headquarters.
-Director of Litigation, Office of the Comptroller of the Currency, 250 E Street SW., Washington, DC 20219-0001, (202) 874-5280
+Austin Payroll Center, P.O. Box 9002, Beckley, WV 25802-9002, (304) 254-5940.
+(5) Alcohol and Tobacco Tax and Trade Bureau
+Bureau of the Fiscal Service, Attention: Accounting Services Branch 2 Avery Street A3-G, P.O. Box 1328, Parkersburg, WV 26106-1328.
+(6) Financial Crimes Enforcement Network (FinCEN)
+Office of Human Resources, 2070 Chain Bridge Road, G99, Vienna, VA 22182, (703) 905-3591.
+(7) Office of the Inspector General
+Office of Human Resources, 875 15th Street NW, Suite 200, Washington, DC 20220, 202-927-5200.
+(8) Special Inspector General for Pandemic Recovery
+2051 Jamieson Avenue, Suite 600, Alexandria, VA 22314, (202) 695-0753.
+(9) Special Inspector General for the Troubled Asset Relief Program (SIGTARP)
+HR Office, 14509 Delcastle Dr., Bowie, MD 20721, (202) 538-4647, SIGTARPCareers@treasury.gov.
+(10) Treasury Inspector General for Tax Administration
+Bureau of Fiscal Service, Administrative Resource Center, Room A2-A, P.O. Box 1328, Parkersburg, WV 26106-1328, (304) 480—8000 Option 4, tigtaHRProcessing@fiscal.treasury.gov, Fax: (304) 480—8295.
+(11) Bureau of Engraving & Printing
+Chief Counsel, 14th & C Streets NW, Room 306M, Washington, DC 20228, (202) 874-2500.
+(12) Office of the Comptroller of the Currency
+Washington Headquarters
+Director of Litigation, Chief Counsel's Office, Office of the Comptroller of the Currency, 400 7th Street SW, Washington, DC 20219-0001, (202) 649-5400.
 District Offices
-District Counsel, Office of the Comptroller of the Currency, Northeasten District, 1114 Avenue of the Americas, Suite 3900, New York, NY 10036-7730, (212) 790-4010
-District Counsel, Office of the Comptroller of the Currency, Southeastern District, Marquis One Tower, Suite 600, 245 Peachtree Center Ave., NE., Atlanta, GA 30303-1223, (404) 588-4520
-District Counsel, Office of the Comptroller of the Currency, Central District, One Financial Place, Suite 2700, 440 South LaSalle St., Chicago, IL 60605-1073, (312) 663-8020
-District Counsel, Office of the Comptroller of the Currency, Midwestern District, 2345 Grand Avenue, Suit 700, Kansas City, MO 64108-2683, (816) 556-1870
-District Counsel, Office of the Comptroller of the Currency, Southwestern District, 1600 Lincoln Plaza, 500 North Akard Street, Dallas, TX 75201-3345, (214) 720-7012
-District Counsel, Office of the Comptroller of the Currency, Western District, 50 Fremont Street, Suite 3900, San Francisco, CA 94105-2292, (415) 545-5980
-(10) United States Mint
-Chief Counsel, 633 3rd Street, NW., Room 733, Washington, DC 20220, (202) 874-6040
-(11) Federal Law Enforcement Training Center
-Legal Counsel, Building 69, Glynco, GA 31524, (912) 267-2100
-(12) Customs Service
-Assistant Chief Counsel, PO Box 68914, Indianapolis, IN 46278, (317) 298-1233
-(13) Office of Thrift Supervision
-Chief Counsel, 1700 G Street, NW., Fifth Floor, Washington, DC 20552, (202) 906-6251
+District Counsel-Northeast, Office of the Comptroller of the Currency, 340 Madison Avenue, 5th Floor, New York, NY 10173, (212) 790-4000.
+District Counsel-Southern, Office of the Comptroller of the Currency, 500 North Akard Street, Suite 1600, Dallas, TX 75201-3323, (214) 720-0656.
+District Counsel-Central, Office of the Comptroller of the Currency, 425 South Financial Place, Suite 1700, Chicago, IL 60605-1073, (312) 360-8800.
+District Counsel-Western, Office of the Comptroller of the Currency, 1050 17th Street, Suite 1500, Denver, CO 80265-1050, (720) 475-7600.
+(13) United States Mint
+Chief Counsel, 801 Ninth Street NW, Washington, DC 20220, (202) 756-6468.
 Department of Veterans Affairs
-The fiscal officer at each Department of Veterans Affairs (VA) facility shall be the designated agent for VA employee obligers at that facility. When a facility at which an individual is employed does not have a fiscal officer, the address and telephone number listed is for the fiscal officer servicing such a facility. In those limited cases where a portion of VA service-connected benefits may be subject to garnishment, service of process, unless otherwise indicated below, should be made at the regional office nearest the veteran obligor's permanent residence.
-Alabama
-Fiscal Officer, Birmingham Medical Center, Send to: Fiscal Officer, VA Medical Center, 215 Perry Hill Road, Montgomery, AL 36193, (205) 272-4670, ext. 4709
-National Cemetery Area Office, 700 South 19th Street, Birmingham, AL 35233, (205) 939-2103
-Mobile Outpatient Clinic Substation, Send to: Fiscal Officer, VA Medical Center, Gulfport, MS 39501, (601) 863-1972, ext. 225
-Fiscal Officer, Montgomery Regional Office, 474 South Court Street, Montgomery, AL 36104, (205) 832-7172
-Fiscal Officer Montgomery Medical Center, 215 Perry Hill Road, Montgomery, AL 36109, (205) 272-4670, ext. 204
-Fiscal Officer, Tuscaloosa Medical Center, Tuscaloosa, AL 35401, (205) 553-3760
-Fiscal Officer, Tuskegee Medical Center, Tuskegee, AL 36083, (205) 727-0550, ext. 0622
-Alaska
-Fiscal Officer, Anchorage Regional Office, Outpatient Clinic, 235 East 8th Avenue, Anchorage, AK 99501, (907) 271-2250
-Juneau VA Office, Send to: Fiscal Officer, VA Regional Office, 235 East 8th Avenue, Anchorage, AK 99501, (907) 271-2250
-Sitka National Cemetery Area Office, Send to: Fiscal Officer, VA Regional Office, 235 East 8th Avenue, Anchorage, AK 99501, (907) 271-2250
-Arizona
-Cave Creek National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Seventh Street & Indian School Road, Phoenix, AZ 85012, (602) 277-5551
-Fiscal Officer, Phoenix Regional Office, 3225 North Central Avenue, Phoenix, AZ 85012, (606) 241-2735
-Fiscal Officer, Phoenix Medical Center, Seventh Street & Indian School Road, Phoenix, AZ 85012, (602) 277-5551
-Fiscal Officer, Prescott Medical Center, Prescott, AZ 86313, (602) 445-4860, ext. 264
-Prescott National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Prescott, AZ 86313, (602) 445-4860, ext. 264
-Fiscal Officer, Tucson Medical Center, Tucson, AZ 85723, (602) 792-1450, ext. 710
-Arkansas
-Fayetteville National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Fayetteville, AR 72701, (501) 443-4301
-Fiscal Officer, Fayetteville Medical Center, Fayetteville, AR 72701, (501) 443-4301
-Fort Smith National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Fayetteville, AR 72701, (501) 443-4301
-Fiscal Officer, Little Rock Regional Office, 1200 W. 3d Street, Little Rock, AR 72201, (501) 378-5142
-Fiscal Officer, John L. McClellan Memorial, Veterans Hospital, 4300 West 7th Street (04), Little Rock, AR 72205, (501) 661-1202, ext. 1310
-Fiscal Officer, VA Regional Office, Send to: VA Medical Center, 11000 N. College Avenue, Fayetteville, AR 72701, (501) 444-5007
-Fiscal Officer, VA Regional Office, Building 65, Fort Roots, PO Box 1280, North Little Rock, Little Rock, AR 72115, (501) 370-3741
-California
-Bell Supply Depot, Send to: Fiscal Officer, VA Supply Depot, PO Box 27, Hines, IL 60141, (312) 681-6800
-Fiscal Officer, Fresno Medical Center, 2615 East Clinton Avenue, Fresno, CA 94703, (209) 225-6100
-Fiscal Officer, Livermore Medical Center, Livermore, CA 94550, (415) 447-2560, ext. 317
-Fiscal Officer, Loma Linda Medical Center, 11201 Benton Street, Loma Linda, CA 92357, (714) 825-7084, ext. 2550/2551
-Fiscal Officer, Long Beach Medical Center, 5901 East Seventh Street, Long Beach, CA 90822, (213) 498-1313, ext. 2101
-Fiscal Officer, Los Angeles Regional Office, Federal Building, 11000 Wilshire Blvd., Los Angeles, CA 90024, (213) 209-7565
-Jurisdiction over the following counties in California: Inyo, Kern, Los Angeles, Orange, San Bernadino, San Luis Obispo, Santa Barbara and Ventura.
-Los Angeles Data Processing Center, Send to: Fiscal Officer, VA Regional Office, Federal Bldg., 11000 Wilshire Blvd., Los Angeles, CA 90024, (213) 209-7565
-Fiscal Officer, Los Angeles Medical Center—Brentwood Division, Los Angeles, CA 90073, (213) 478-3478
-Fiscal Officer, Los Angeles Medical Center—Wadsworth Division, Los Angeles, CA 90073, (213) 478-3478
-Fiscal Officer, Los Angeles Outpatient Clinic, 425 South Hill Street, Los Angeles, CA 90013, (213) 894-3870
-Los Angeles Regional Office of Audit, Send to: Fiscal Officer, VA Medical Center—Brentwood Division, Los Angeles, CA 90073, (213) 824-4402
-Los Angeles Field Office of Audit, Send to: Fiscal Officer, VA Medical Center—Wadsworth Division, Los Angeles, CA 90073, (213) 478-3478
-Los Angeles National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center—Brentwood Division, Los Angeles, CA 90073, (213) 478-3478
-Fiscal Officer, Martinez Medical Center, 150 Muir Rd., Martinez, CA 94553, (415) 228-6680, ext. 235
-Fiscal Officer, Palo Alto Medical Center, 3801 Miranda Avenue, Palo Alto, CA 94304, (415) 493-5000, ext. 5643
-Riverside National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center—Wadsworth Division, Los Angeles, CA 90073, (213) 478-3478
-San Bruno National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 4150 Clement Street, San Bruno, CA 94121, (415) 221-4810, ext. 315/316
-Fiscal Officer, San Diego Medical Center, 3350 La Jolla Village Drive, San Diego, CA 92161, (714) 453-7500, ext. 3351
-San Diego Outpatient Clinic, Send to: Fiscal Officer, VA Medical Center, 3350 La Jolla Village Drive, San Diego, CA 92161, (714) 453-7500, ext. 3351
-Fiscal Officer, San Diego Regional Office, 2022 Camino Del Rio North, San Diego, CA 92108, (714) 289-5703
-Jurisdiction over the following counties in California: Imperial, Riverside and San Diego
-San Francisco National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Officer, 4150 Clement Street, San Francisco, CA 94121, (415) 556-0483
-Fiscal Officer, San Francisco Regional Office, 211 Main Street, San Francisco, CA 94105, (415) 974-0160
-Jurisdiction over all counties in California except Inyo, Kern, Los Angeles, Orange, San Bernardino, San Luis Obispo, Santa Barbara, Ventura, Imperial, Riverside, San Diego, Alpine, Lassen, Modoc and Mono.
-Fiscal Officer, San Francisco Medical Center, 4150 Clement Street, San Francisco, CA 94121, (415) 221-4810, ext. 315/316
-Fiscal Officer, Sepulveda Medical Center, 16111 Plummer Street, Sepulveda, CA 91343, (818) 891-2377
-Colorado
-Fiscal Officer, Denver Regional Office, Denver Federal Center, Building 20, Denver, CO 80225, (303) 234-3920
-Fiscal Officer, Denver Medical Center, 1055 Clermont Street, Denver, CO 80220, (303) 393-2813
-Denver National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 1055 Clermont Street, Denver, CO 80220, (303) 393-2813
-Fort Logan National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 1055 Clermont Street, Denver, CO 80220, (303) 393-2813
-Fort Lyon National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Fort Lyon, CO 81038, (719) 384-3987
-Fiscal Officer, Fort Lyon Medical Center, Fort Lyon, CO 81038, (719) 384-3987
-Fiscal Officer, Grand Junction Medical Center, 2121 North Avenue, Grand Junction, CO 81501, (303) 242-0731, ext. 275
-Connecticut
-Fiscal Officer, Hartford Regional Office, 450 Main Street, Hartford, CT 06103, (203) 244-3217
-Fiscal Officer, Newington Medical Center, 555 Willard Avenue, Newington, CT 06111, (203) 666-6951, ext. 369
-Fiscal Officer, West Haven Medical Center, 950 Campbell Avenue, West Haven, CT 06516, (203) 932-5711, ext. 859
-Delaware
-Fiscal Officer, Wilmington Medical and Regional Office Center, 1601 Kirkwood Highway, Wilmington, DE 19805, (302) 633-5432
-District of Columbia
-Finance Division Chief (047H), Washington Central Office, 810 Vermont Avenue, NW., Room C-50, Washington, DC 20420, (202) 233-3901
-Washington Veterans Canteen Service Field Office, Send to: Finance Division Chief (047H), VA Central Office, 810 Vermont Avenue, NW., Room C-50, Washington, DC 20420, (202) 233-3901
-Fiscal Officer, Washington Regional Office, 941 North Capitol Street, NE., Washington, DC 20421, (202) 208-1349
-Jurisdiction over all foreign countries or overseas areas except Mexico, American Samoa, Guam, Midway, Wake, the Trust Territory of the Pacific Islands, the Virgin Islands and the Philippines. Also, jurisdiction over Prince George's and Montgomery Counties in Maryland; Fairfax and Arlington Counties and the cities of Alexandria, Fairfax and Falls Church in Virginia.
-Fiscal Officer, Washington Medical Center, 50 Irving Street, NW., Washington, DC 20422, (202) 745-8229
-Florida
-Fiscal Officer, Bay Pines Medical Center, National Cemetery Area Office, Bay Pines, FL 33504, (813) 398-9321
-Fiscal Officer, Gainesville Medical Center, Archer Road, Gainesville, FL 32601, (904) 376-1611, ext. 6685
-Jacksonville Outpatient Clinic Substation, Send to: Fiscal Officer, VA Medical Center, 1601 SW. Archer Road, Gainesville, FL 32602, (904) 376-1611, ext. 6685
-Jacksonville VA Office, Send to: Fiscal Officer, VA Regional Office, 144 First Avenue, South, St. Petersburg, FL 33731, (813) 893-3236
-Fiscal Officer, Lake City Medical Center, 801 South Marion Street, Lake City, FL 32055, (904) 755-3016
-Miami VA Office, Send to: Fiscal Officer, VA Regional Office, 144 First Avenue, South, St. Petersburg, FL 33731, (813) 893-3236
-Fiscal Officer, Miami Medical Center, 1201 Northwest 16th Street, Miami, FL 33125, (305) 324-4284
-Orlando Outpatient Clinic Substation, Send to: Fiscal Officer, VA Medical Center, 1300 North 30th Street, Tampa, FL 33612, (813) 971-4500
-Fiscal Officer, James A. Haley Veterans' Hospital, 13000 Bruce B. Downs Blvd., Tampa, FL 33612, (813) 972-7501
-Riviera Beach Outpatient Clinic Substation, Send to: Fiscal Officer, VA Medical Center, 1201 Northwest 16th Street, Miami, FL 33125, (305) 324-4284
-Pensacola National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Gulfport, MS 39501, (601) 863-1972, ext. 225
-St. Augustine National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Archer Road, Gainesville, FL 32602, (904) 376-1611, ext. 6685
-Fiscal Officer, St. Petersburg Regional Office, 144 First Avenue, South, St. Petersburg, FL 33612, (813) 893-3236
-Georgia
-Fiscal Officer, Atlanta Regional Office, 730 Peachtree Street, NE., Atlanta, GA 30365, (404) 347-5008
-Atlanta Veterans Canteen Service Field Office, Send to: Fiscal Officer, VA Medical Center, 1670 Clairmont Road, Decatur, GA 30033, (404) 321-6111
-Atlanta National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Office, 1670 Clairmont Road, Decatur, GA 30033, (404) 321-6111
-Atlanta Field Office of Audit, Send to: Fiscal Officer, VA Regional Office, 730 Peachtree Street, NE., Atlanta, GA 30301, (404) 347-5008
-Fiscal Officer, Augusta Medical Center, Augusta, GA 30904, (404) 733-4471, ext. 675/676
-Fiscal Officer, VA Medical Center, 2460 Wrightsboro Road, Augusta, GA 30910, (404) 724-5116
-Fiscal Officer, Decatur Medical Center, 1670 Clairmont Road, Decatur, GA 30033, (404) 321-6111, ext. 6320
-Fiscal Officer, Dublin Medical Center, Dublin, GA 31021, (912) 272-1210, ext. 373
-Marietta National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 1670 Clairmont Road, Decatur, GA 30033, (404) 321-6111
-Hawaii
-Fiscal Officer, Honolulu Regional Office, PO Box 50188, Honolulu, HI 96850, (808) 541-1490
-Jurisdiction over Islands of American Samoa, Guam, Wake, Midway and Trust Territory of the Pacific Islands
-Honolulu National Cemetery Area Office, Send to: Fiscal Officer, VA Regional Office, PO Box 50188, Honolulu, HI 96850, (808) 546-2109
-Idaho
-Fiscal Officer, Boise Medical Center, 500 West Fort Street, Boise, ID 83702, (208) 336-5100, ext. 7312
-Fiscal Officer, Boise Regional Office, Federal Bldg. & U.S. Courthouse, 550 West Fort Street, Box 044, Boise, ID 83724, (208) 334-1009
-Illinois
-Alton National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, St. Louis, MO 63125, (314) 894-4631
-AMF O'Hare Field Office of Audit, Send to: Fiscal Officer, VA Medical Center, Hines, IL 60141, (312) 343-7200, ext. 2481
-Fiscal Officer, Chicago Medical Center (Lakeside), 33 East Huron Street, Chicago, IL 60611, (312) 943-6600
-Fiscal Officer, Chicago Medical Center (West Side), 820 South Damen Avenue, Chicago, IL 60612, (312) 666-6500, ext. 3338
-Fiscal Officer, Chicago Regional Office, 536 South Clark Street, Chicago, IL 60680, (312) 886-9417
-Fiscal Officer, Danville Medical Center, 1900 E. Main Street, Danville, IL 61832, (217) 442-8000
-Danville National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 1900 E. Main Street, Danville, IL 61832, (217) 442-8000, ext. 210
-Fiscal Officer, Hines Medical Center, Hines, IL 60141, (312) 343-7200, ext. 2481
-Hines Marketing Center, Send to: Fiscal Officer, VA Supply Depot, PO Box 27, Hines, IL 60141, (312) 681-6800
-Fiscal Officer, Hines Supply Depot, PO Box 27, Hines, IL 60141, (312) 681-6800
-Fiscal Officer, Hines Data Processing Center, PO Box 66303, AMF O'Hare, Hines, IL 60666, (312) 681-6650
-Fiscal Officer, Marion Medical Center, Marion, IL 62959, (618) 997-5311
-Mound City National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 2401 West Main Street, Marion, IL 62959, (618) 997-5311
-Fiscal Officer, North Chicago Medical Center, North Chicago, IL 60064, (312) 689-1900
-Quincy National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Iowa City, IA 52240, (319) 338-0581, ext. 304
-Rock Island National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Iowa City, IA 52240, (319) 338-0581, ext. 304
-Springfield National Cemetery Area Officer, Send to: Fiscal Officer, VA Medical Center, 1900 E. Main Street, Danville, IL 61832, (217) 442-8000
-Indiana
-Evansville Outpatient Clinic Substation, Send to: Fiscal Officer, VA Medical Center, Marion, IL 62959, (618) 997-5311
-Fiscal Officer, Fort Wayne Medical Center, 1600 Randalia Drive, Fort Wayne, IN 46805, (219) 426-5431
-Fiscal Officer, Indianapolis Regional Office, 575 North Pennsylvania Street, Indianapolis, IN 46204, (317) 269-7840
-Fiscal Officer, Indianapolis Medical Center, 1481 West 10th Street, Indianapolis, IN 46202, (317) 635-7401, ext. 2363
-Indianapolis National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 1481 West 10th Street, Indianapolis, IN 46202, (317) 635-7401, ext. 2363
-Fiscal Officer, Marion Medical Center, Marion, IN 46952, (317) 674-3321, ext. 214
-Marion National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Marion, IN 46952, (317) 674-3321, ext. 211
-New Albany National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 800 Zorn Avenue, Louisville, KY 40202, (502) 895-3401
-Iowa
-Fiscal Officer, Des Moines Regional Office, 210 Walnut Street, Des Moines, IA 50309, (515) 284-4220
-Fiscal Officer, Des Moines Medical Center, 30th & Euclid Avenue, Des Moines, IA 50310, (515) 699-5999
-Fiscal Officer, Iowa City Medical Center, Iowa City, IA 52246, (319) 338-0581, ext. 7702
-Keokuk National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Iowa City, IA 52246, (319) 338-0581, ext. 7702
-Keokuk National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Iowa City, IA 52246, (319) 338-0581, ext. 7702
-Kansas
-Ft. Leavenworth National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Leavenworth, KS 66048, (913) 682-2000, ext. 214
-Ft. Scott National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Leavenworth, KS 66048, (913) 682-2000, ext. 214
-Leavenworth National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Leavenworth, KS 66048, (913) 682-2000, ext. 214
-Fiscal Officer, Leavenworth Medical Center, Leavenworth, KS 66048, (913) 682-2000, ext. 214
-Fiscal Officer, Topeka Medical Center, 2200 Gage Blvd., Topeka, KS 66622, (913) 272-3111, ext. 521
-Fiscal Officer, Wichita Medical Center, 5500 East Kellogg, Wichita, KA 67211 (316) 685-2221, ext. 256
-Wichita Regional Office, Send to: VA Medical Center, 5500 East Kellogg, Wichita, KS 67211, (316) 685-2111, ext. 256
-Process for VA service-connected benefits should also be sent to the Wichita Medical Center rather than to the Wichita Regional Office.
-Fiscal Officer, VA Regional Office, 901 George Washington Blvd, Wichita, KS 67211, (316) 269-6813
-Kentucky
-Danville National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Lexington, KY 40507, (606) 223-4511
-Fiscal Officer, Knoxville Medical Center, Knoxville, KY 50138, (515) 842-3101, ext. 241
-Lebanon National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Lexington, KY 40507, (606) 233-4511
-Lexington National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Lexington, KY 40507, (606) 233-4511
-Fiscal Officer, Lexington Medical Center, Lexington KY 40507, (606) 233-4511
-Fiscal Officer, Louisville Regional Office, 600 Federal Place, Louisville, KY 40202, (502) 582-6482
-Fiscal Officer, Louisville Medical Center, 800 Zorn Avenue, Louisville, KY 40202, (502) 895-3401, ext. 241
-Louisville National Cemetery Area Office (Zachry Taylor), Send to: Fiscal Officer, VA Medical Center, 800 Zorn Avenue, Louisville, KY 40202, (502) 895-3401, ext. 241
-Louisville National Cemetery Area Office (Cave Hill), Send to: Fiscal Officer, VA Medical Center, 800 Zorn Avenue, Louisville, KY 40202, (502) 895-3401, ext. 241
-Nancy National Cemetery Area Office, Send to: Fiscal Office, VA Medical Center, Lexington, KY 40507, (606) 233-4511
-Nicholasville National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Lexington, KY 40507, (606) 233-4511
-Perryville National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Lexington, KY 40507, (606) 233-4511
-Louisiana
-Fiscal Officer, Alexandria Medical Center, Alexandria LA 71303, (318) 473-0010, ext. 2281
-Baton Rouge National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 1601 Perdido Street, New Orleans, LA 70146, (504) 568-0811
-Fiscal Officer, New Orleans Regional Office, 701 Loyola Avenue, New Orleans, LA 70133, (504) 589-6604
-Fiscal Officer, New Orleans Medical Center, 1601 Perdido Street, New Orleans, LA 70146, (504) 568-0811
-Baton Rouge National Cemetery, 220 North 19th Street, Baton Rouge, LA 70806, (504) 389-0788
-Pineville National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Alexandria, LA 71301, (318) 442-0251
-Fiscal Officer, Shreveport Medical Center, 510 East Stoner Avenue, Shreveport, LA 71101, (318) 221-8411, ext. 722
-Shreveport VA Office, Send to: Fiscal Officer, VA Regional Officer, 701 Loyola Avenue, New Orleans, LA 70113, (504) 589-6604
-Port Hudson (Zachary) National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 1601 Perdido Street, New Orleans, LA 70146, (504) 568-0811
-Maine
-Portland VA Office, Send to: Fiscal Officer, VA Center, Togus, ME 04330, (207) 623-8411
-Fiscal Officer, Togus Medical & Regional Office Center, Togus, ME 04330, (207) 623-8411
-Togus National Cemetery Area Office, Send to: Fiscal Officer, VA Center, Togus, ME 04330, (207) 623-8411
-Maryland
-Annapolis National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 3900 Loch Raven Blvd., Baltimore, MD 21218, (301) 467-9932, ext. 5281/5282
-Fiscal Officer, Baltimore Regional Office, Federal Bldg., 31 Hopkins Plaza, Baltimore, MD 21201, (301) 962-4410
-Jurisdiction does not include Prince George's and Montgomery Counties which are included under the Washington, DC Regional Office
-Baltimore Outpatient Clinic, Send to: Fiscal Officer, VA Medical Center, 3900 Loch Raven Blvd., Baltimore, MD 21218, (301) 467-9932, ext. 5281/5282
-Fiscal Officer, Baltimore Medical Center, 3900 Loch Raven Blvd., Baltimore, MD 21218, (301) 467-9932, ext. 5281/5282
-Baltimore National Cemetery Area Office (Loudon Park), Send to: Fiscal Officer, VA Medical Center, 3900 Loch Raven Blvd., Baltimore, MD 21218, (301) 467-9932, ext. 5281/5282
-Fiscal Officer, Fort Howard Medical Center, Fort Howard, MD 21052, (301) 687-8768, ext. 328
-Hyattsville Field Office of Audit, Send to: Fiscal Division Chief (047H), VA Central Office, Room C-50, 810 Vermont Avenue, Washington, DC 20420, (202) 389-3901
-Fiscal Officer, Perry Point Medical Center, Perry Point, MD 21902, (301) 642-2411, ext. 5224/5225
-Massachusetts
-Fiscal Officer, Bedford Medical Center, 200 Springs Road, Bedford, MA 01730, (617) 275-7500
-Fiscal Officer, Boston Regional Office, John F. Kennedy Bldg., Room 400C, Government Center, Boston, MA, (617) 565-2616
-Jurisdiction over certain towns in Bristol and Plymouth Counties and the counties of Barnstable, Dukes and Nantucket is allocated to the Providence, Rhode Island Regional Office.
-Boston Outpatient Clinic, Send to: Fiscal Officer, VA Medical Center, 150 South Huntington Avenue, Boston, MA 02130, (617) 232-9500, ext. 427/420
-Fiscal Officer, Boston Medical Center, 150 South Huntington Avenue, Boston, MA 02130, (617) 232-9500, ext. 427/420
-Bourne National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Brockton, MA 02401, (617) 583-4500, ext. 266
-Fiscal Officer, Brockton Medical Center, Brockton, MA 02401 (617) 583-4500, ext. 266
-Lowell Outpatient Clinic Substation, Send to: Fiscal Officer, VA Medical Center, 150 South Huntington Avenue, Boston, MA 02130 (617) 322-9500, ext 427/420
-New Bedford Outpatient Clinic Substation, Send to: Fiscal Officer, VA Medical Center, Providence, RI 02908, (401) 273-7100
-Fiscal Officer, Northampton Medical Center, Northampton, MA 01060, (413) 584-4040
-Springfield Outpatient Clinic Substation, Send to: Fiscal Officer, VA Medical Center, Northampton, MA 01060, (413) 584-4040
-Springfield VA Office, Send to: Fiscal Officer, VA Regional Office, John F. Kennedy Bldg., Room 400C, Government Center, Boston, MA 02203, (617) 565-2616
-Fiscal Officer, West Roxbury Medical Center, 1400 Veterans of Foreign Wars Parkway, West Roxbury, MA 02132, (617) 323-7700, ext. 5650
-Worcester Outpatient Clinic Substation, Send to: Fiscal Officer, VA Medical Center, 1400 Veterans of Foreign Wars Parkway, West Roxbury, MA 02132, (617) 323-7700, ext. 5650
-Michigan
-Fiscal Officer, Allen Park Medical Center, Allen Park, MI 48101, (313) 562-6000, ext. 535
-Fiscal Officer, Ann Arbor Medical Center, 2215 Fuller Road, Ann Arbor, MI 48105, (313) 769-7100, ext. 288/289
-Fiscal Officer, Battle Creek Medical Center, Battle Creek, MI 49016, (616) 966-5600, ext. 3566
-Grand Rapids Outpatient Clinic Substation, Send to: Fiscal Officer, VA Medical Center, Battle Creek, MI 49016, (616) 966-5600, ext. 3566
-Fiscal Officer, Detroit Regional Office, 477 Michigan Avenue, Detroit, MI 48226, (313) 226-4190
-Fiscal Officer, Iron Mountain Medical Center, Iron Mountain, MI 49801, (906) 774-3300, ext. 308
-Fiscal Officer, Saginaw Medical Center, 1500 Weiss Street, Saginaw, MI 48602, (517) 793-2340, ext. 3061
-Minnesota
-Fiscal Officer, Minneapolis Medical Center, 54th & 48th Avenue, South Minneapolis, MN 55417, (612) 725-6767, ext. 6311
-Fiscal Officer, St. Cloud Medical Center, St. Cloud, MN 56301, (612) 252-1600, ext. 411
-Fiscal Officer, St. Paul Center (Regional Office), Federal Building, Ft. Snelling, St. Paul, MN 55111, (612) 725-4075
-Fiscal Officer, VA Medical Center, One Veterans Drive, Minneapolis, MN 55417, (612) 725-2150
-Jurisdiction over the counties of Becker, Beltrami, Clay, Clearwater, Kittson, Lake of the Woods, Mahnomen, Marshall, Norman, Otter Tail, Pennington, Polk, Red Lake, Roseau and Wilkin is allocated to the Fargo, North Dakota Center.
-St. Paul National Cemetery Area Office, Send to: VA Medical Center, 54th & 48th Avenue, South, Minneapolis, MN 55417, (612) 725-6767, ext. 6311
-St. Paul Data Processing Center, Send to: Fiscal Officer, VA Center, Federal Building, Ft. Snelling, St. Paul, MN 55111, (612) 725-3075
-St. Paul Outpatient Clinic, Send to: Fiscal Officer, VA Medical Center, 54th & 48th Avenue, Minneapolis, MN 55111, (612) 725-6767, ext. 6311
-Mississippi
-Biloxi National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Biloxi, MS 39531, (601) 863-1972, ext. 225
-Fiscal Officer, Biloxi Medical Center, Biloxi, MS 39531, (601) 863-1972, ext. 225
-Corrinth National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 1030 Jefferson Avenue, Memphis, TN 38104, (901) 523-8990
-Fiscal Officer, Gulfport Medical Center, Gulfport, MS 39601, (601) 863-1972, ext. 225
-Fiscal Officer, Jackson Medical Center, 1500 East Woodrow Wilson Drive, Jackson, MS 39216, (601) 362-4471, ext. 1281
-Fiscal Officer, VA Regional Office, Federal Building, 100 W. Capitol St., Suite 207, Jackson, MS 39269, (601) 965-4853
-Natchez National Cemetery, Send to: Fiscal Officer, VA Medical Center, 1500 E. Woodrow Wilson Dr., Jackson, MS 39216, (601) 362-4471, ext. 1281
-Process for VA service-connected benefits should also be sent to the Jackson Medical Center rather than to the Jackson Regional Office.
-Missouri
-Fiscal Officer, Columbia Medical Center, 800 Stadium Road, Columbia, MO 62501, (314) 443-2511
-Jefferson City National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 800 Stadium Road, Columbia, MO 65201, (314) 443-2511, ext. 6050
-Fiscal Officer, Kansas City Medical Center, 4801 Linwood Blvd., Kansas City, MO 64128, (816) 861-4700, ext. 214
-Fiscal Officer, Poplar Bluff Medical Center, Poplar Bluff, MO 63901, (314) 686-4151
-St. Louis National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, St. Louis, MO 63125, (314) 894-4931
-Fiscal Officer, St. Louis Regional Office, 1520 Market Street, St. Louis, MO 63103, (314) 539-3112
-Fiscal Officer, VA Medical Center, 1500 N. Westwood Blvd., Poplar Bluff, MO 63901, (314) 686-4151, ext. 265
-St. Louis Veterans Canteen Service Field Office, Send to: Fiscal Officer, VA Medical Center, St. Louis, MO 63125, (314) 894-4631
-Fiscal Officer, St. Louis Medical Center, St. Louis, MO 63125, (314) 894-4631
-St. Louis Records Processing Center, Send to: Fiscal Officer, VA Regional Office, 1520 Market Street, St. Louis, MO 63103, (314) 539-3112
-Springfield National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Fayetteville, AR 72701, (501) 443-4301
-Montana
-Fiscal Officer, Fort Harrison Medical & Regional Office Center, Fort Harrison, MT 59636, (406) 442-6410
-Fiscal Officer, Mile City Medical Center, 210 N. Broadwell, Miles City, MT 59301, (406) 232-3060
-Nebraska
-Fiscal Officer, Grand Island Medical Center, 2201 N. Broadwell, Grand Island, NE 68801, (308) 382-3660, ext. 244
-Fiscal Officer, Lincoln Regional Office, 100 Centennial Mall North, Lincoln NE 68510, (402) 437-5041
-Fiscal Officer, Lincoln Regional Office, 600 South 70th Street, Lincoln NE 68510, (402) 489-3802, ext. 332
-Maxwell National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Grand Island, NE 68801, (308) 382-3660, ext. 244
-Fiscal Officer, Omaha Medical Center, 4101 Woolworth Avenue, Omaha, NE, (402) 346-8800, ext. 4538
-Nevada
-Las Vegas Outpatient Clinic, Send to: Fiscal Officer, VA Medical Center, 1000 Locust Street, Reno, NV 89250, (702) 786-7200, ext. 244
-Fiscal Officer, Reno Regional Office, 1201 Terminal Way, Reno, NV (702) 784-5637
-Jurisdiction over the following counties in California: Alpine, Lassen, Modoc and Mono.
-Fiscal Officer, Reno Medical Center, 1000 Locust Street, Reno, NV 89520, (702) 786-7200, ext. 244
-Henderson Outpatient Clinic, Send to: Fiscal Officer, Reno Medical Center, 1000 Locust Street, Reno, NV 89520, (702) 786-7200, ext. 244
-New Hampshire
-Fiscal Officer, Manchester Regional Office, 275 Chestnut Street, Manchester, NH 03103, (603) 666-7638
-Fiscal Officer, Manchester Medical Center 718 Smyth Road, Manchester, NH 03104, (603) 624-4366
-New Jersey
-Beverly National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, University and Woodland Avenues, Philadelphia, PA 19104, (215) 382-2400, ext. 291/292
-Fiscal Officer, East Orange Medical Center, Tremont Avenue and So. Center Street, East Orange, NJ 07019, (201) 676-1000, ext. 1771
-Fiscal Officer, Lyons Medical Center, Lyons, NJ 07939, (201) 647-0180, ext. 4302
-Newark Outpatient Clinic, Send to: Fiscal Officer, VA Medical Center, Tremont Avenue and So. Center Street, East Orange, NJ 07019, (201) 676-1000, ext. 125
-Fiscal Officer, Newark Regional Office, 20 Washington Place, Newark, NJ 07102, (201) 645-3507
-Salem National Cemetery Area Office, Send to: Fiscal Officer, VA Center, 1601 Kirkwood Highway, Wilmington, DE 19805, (302) 994-2511
-Fiscal Officer, Somerville Supply Depot, Somerville, NJ 08876, (210) 725-2540
-New Mexico
-Fiscal Officer, Albuquerque Regional Office, 500 Gold Avenue, SW., Albuquerque, NM 87102, (505) 766-2204
-Fiscal Officer, Albuquerque Medical Center, 2100 Ridgecrest Drive, SE., Albuquerque NM 87108, (505) 265-1711
-Santa Fe National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 2100 Ridgecrest Drive, SE., Albuquerque, NM 87108, (505) 265-1711, ext. 2214
-New York
-Fiscal Officer, Albany Medical Center, 113 Holland Ave., Albany, NY 12202, (518) 462-3311, ext. 355
-Fiscal Officer, VA Medical Center, 800 Irving Center, Syracuse, NY 13210, (315) 476-7461, ext. 2358
-Albany VA Office, Send to: Fiscal Officer, VA Regional Office, 252 Seventh Avenue & 24th Street, New York, NY 10001, (211) 620-6293
-Fiscal Officer, Batavia Medical Center, Redfield Parkway, Batavia, NY 14020, (716) 345-7500, ext. 215
-Fiscal Officer, Bath Medical Center, Bath, NY 14810, (607) 776-2111, ext. 1502
-Fiscal Officer, Bronx Medical Center, 140 W. Kings Bridge Road, Bronx, NY 10408, (212) 584-9000, ext. 1502/1717
-Fiscal Officer, Brooklyn Medical Center, 800 Poly Place, Brooklyn, NY 11209, (718) 630-3542
-Brooklyn National Cemetery Area Office, Fiscal Officer, VA Medical Center, 800 Poly Place, Brooklyn, NY 11209, (718) 630-2541
-Brooklyn Outpatient Clinic, Send to: Fiscal Officer, VA Medical Center, 800 Poly Place, Brooklyn, NY 11209, (718) 630-3542
-Fiscal Officer, Buffalo Regional Office, 111 West Huron Street, Buffalo, NY 14202, (716) 846-5251
-Brooklyn Outpatient Clinic, Send to: Fiscal Officer, VA Medical Center, 800 Poly Place, Brooklyn, NY 11209, (718) 630-3542
-Fiscal Officer, Buffalo Regional Office, 111 West Huron Street, Buffalo, NY 14202, (716) 846-5251
-Jurisdiction over all counties in New York not listed under the New York Regional Office.
-Fiscal Officer, Buffalo Medical Center, 3495 Bailey Avenue, Buffalo, NY 14215, (716) 862-3335/(716) 834-9200, ext. 3335
-Calverton National Cemetery Area Office, Send to: Fiscal Office, VA Medical Center, Northport, NY 11768, (516) 261-4400, ext. 7101/7103
-Fiscal Officer, Canandiague Medical Center, Canandaigua, NY 14424, (716) 394-2000, ext. 3368
-Fiscal Officer, Castle Point Medical Center, Castle Point, NY 12511, (914) 882-5404
-Elmira National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Bath, NY 14810, (607) 776-2111
-Farmingdale National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Northport, NY 11768, (516) 261-4400, ext. 2462/2463
-Fiscal Officer, Montrose Medical Center, Montrose, NY 10548, (914) 737-4400, ext. 2463
-Fiscal Officer, New York Medical Center, First Avenue at East 24th Street, New York, NY 10010, (212) 686-7320
-New York Outpatient Clinic, Send to: Fiscal Officer, VA Medical Center, First Avenue at East 24th Street, New York, NY 10010, (212) 686-7320
-New York Prosthetics Center, Send to: Fiscal Officer, VA Regional Office, 252 Seventh Avenue, New York, NY 10001, (212) 620-6293
-Fiscal Officer, New York Regional Office, 252 Seventh Avenue at 24th Street, New York, NY 10001, (212) 620-6293
-Jurisdiction over the following counties in New York: Albany, Bronx, Clinton, Columbia, Delaware, Dutchess, Essex, Franklin, Fulton, Greene, Hamilton, Kings, Montgomery, Nassau, New York, Orange, Otsego, Putnam, Queens, Rensselaer, Richmond, Rockland, Saratoga, Schenectady, Schharie, Suffolk, Sullivan, Ulster, Warren, Washington and Westchester.
-New York Veterans Canteen Service Field Office, Send to: Fiscal Officer, VA Medical Center, First Avenue at East 24th Street, New York, NY 10010, (202) 686-7320
-Fiscal Officer, Northport Medical Center, Northport, NY 11768, (516) 261-4400, ext. 2462/2463
-Rochester VA Office, Send to: Fiscal Officer, VA Regional Office, 111 West Huron Street, Buffalo, NY 14202, (716) 846-5251
-Rochester Outpatient Clinic Substation, Send to: Fiscal Officer, VA Medical Center, Batavia, NY 14020, (716) 343-7500, ext. 215
-Fiscal Officer, Syracuse Medical Center, Irving Avenue & University Place, Syracuse, NY 13210, (315) 476-7461
-Syracuse VA Office, Send to: Fiscal Officer, VA Regional Office, 111 West Huron Street, Buffalo, NY 14202, (716) 846-5251
-North Carolina
-Fiscal Officer, Asheville Medical Center, 1100 Tunnel Road, Asheville, NC 28801, (704) 298-7911, ext. 5616
-Fiscal Officer, Durham Medical Center, 508 Fulton Street, Durham, NC 27705, (919) 671-6913
-Fiscal Officer, Fayetteville Medical Center, 2300 Ramsey Street, Fayetteville, NC 28301, (919) 488-2120
-New Bern National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 2300 Ramsey Street, Fayetteville, NC 28301, (919) 488-2120
-Raleigh National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 508 Fulton Street, Durham, NC 27705, (919) 286-0411, ext. 6469
-Fiscal Officer, Salisbury Medical Center, Salisbury, NC 28144, (704) 636-2351
-Salisbury National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Salisbury, NC 28144, (704) 636-2351
-Wilmington National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 2300 Ramsey Street, Fayetteville, NC 28301, (919) 488-2120
-Fiscal Officer, Winston-Salem Regional Office, 251 North Main Street, Winston-Salem, NC 27102 (919) 761-3513
-Winston-Salem Outpatient Regional Office, Send to: Fiscal Officer, VA Medical Center, Salisbury, NC 28144, (704) 636-2351
-North Dakota
-Fiscal Officer, Fargo Medical and Regional Office Center, 21st & Elm, Fargo, ND 58102, (701) 232-3241, ext. 249
-See listing under the St. Paul, Minnesota Center for the names of the counties in Minnesota which come under the jurisdiction of the Fargo, North Dakota Center.
-Ohio
-Fiscal Officer, Chillicothe Medical Center, 17273 State Route 104, Chillicothe, OH 45601, (614) 773-1141, ext. 203
-Fiscal Officer, Cincinnati Medical Center, 3200 Vine Street, Cincinnati, OH 45220, (513) 550-5040, ext. 4113
-Fiscal Officer, VA Medical Center, 2090 Kenny Road, Columbus, OH 43221, (614) 469-6712
-Cincinnati VA Office, Send to: Fiscal Officer, VA Regional Office, 1240 East Ninth Street, Cleveland, OH 44199, (216) 522-3540
-Fiscal Officer, Cleveland Regional Office, 1240 East Ninth Street, Cleveland, OH 44199, (216) 522-3540
-Fiscal Officer, Cleveland Medical Center, 10,000 Brecksville Rd, Brecksville, OH 44141, (216) 526-3030, ext. 7170
-Fiscal Officer, Columbus Outpatient Clinic, 456 Clinic Drive, Columbus, OH 43210, (614) 469-6712
-Columbus VA Office, Send to: Fiscal Officer, VA Regional Office, 1240 East Ninth Street, Cleveland, OH 44199, (216) 522-3540
-Dayton National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Dayton, OH 45248, (513) 268-6511, ext. 262-2157
-Fiscal Officer, VA Medical Center, 4100 W. Third Street, Dayton, OH 45428, (513) 262-2157
-Oklahoma
-Fort Gibson National Cemetery Area Office, Fiscal Officer, VA Medical Center, Memorial Station, Honor Heights Drive, Muskogee, OK 74401, (918) 683-3261, ext. 392
-Fiscal Officer, Muskogee Regional Office, 125 South Main Street, Muskogee, OK 74401, (918) 687-2169
-Fiscal Officer, Muskogee Medical Center, Memorial Station, Honor Heights Drive, Muskogee, OK 74401, (918) 683-3261, ext. 392
-Fiscal Officer, Oklahoma City Medical Center, 921 Northeast 13th Street, Oklahoma, OK 73104, (405) 272-9876, ext. 500
-Oklahoma City VA Office, Send to: Fiscal Officer, VA Regional Office, 125 South Main St., Muskogee, OK 74401, (908) 687-2169
-Oregon
-Portland National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 3710 SW U.S. Veterans Hospital Road, Portland, OR 97201, (503) 220-8262, ext. 6948
-Fiscal Officer, Portland Regional Office, 1220 SW 3rd Avenue, Portland, OR 97204, (503) 221-2521
-Fiscal Officer, Portland Medical Center, 3710 SW U.S. Veterans Hospital Road, Portland, OR 97201, (503) 220-8262, ext. 6948
-Portland Outpatient Clinic, Send to: Fiscal Officer, VA Medical Center, 3710 SW U.S. Veterans Hospital Road, Portland, OR 97210, (503) 222-9221, ext. 6984
-Fiscal Officer, VA Medical Center, Garden Valley Blvd., Roseburg, OR 97470, (503) 440-1000, ext. 4261
-Roseburg National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Garden Valley Blvd., Roseburg, OR 97470, (503) 672-4411
-Fiscal Officer, White City Domiciliary, White City, OR 97501, (503) 826-2111, ext. 241
-White City National Cemetery Area, Send to: Fiscal Officer, VA Office, Domiciliary, White City, OR 97503, (503) 826-2111, ext. 241
-Pennsylvania
-Fiscal Officer, Altoona Medical Center, Altoona, PA 16603, (814) 943-8164, ext. 7046
-Annville National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Lebanon, PA 17042, (717) 272-6621, ext. 229
-Fiscal Officer, VA Medical Center, Butler, PA, 16001, (412) 287-4781, ext. 4505
-Fiscal Officer, Coatsville Medical Center, Coatsville, PA 19320, (215) 384-7711, ext. 342
-Fiscal Officer, Erie Medical Center, 135 East 38th Street, Erie, PA 16501, (814) 868-8661
-Harrisburg Outpatient Clinic Substation, Fiscal Officer, VA Medical Center, Lebanon, PA 17042, (717) 272-6621, ext. 229
-Fiscal Officer, Lebanon Medical Center, Lebanon Medical Center, Lebanon, PA, 17042, (717) 272-6621, ext. 229
-Fiscal Officer, Philadelphia Center (Regional Office), PO Box 8079, Philadelphia, PA 19101, (215) 951-5321
-Jurisdiction over the following counties in Pennsylvania: Adams, Berks, Bradford, Bucks, Cameron, Carbon, Centre, Chester, Clinton, Columbia, Cumberland, Dauphin, Delaware, Franklin, Juniata, Lackawanna, Lancaster, Lebanon, Lehigh, Luzerne, Lycoming, Mifflin, Monroe, Montgomery, Montour, Northampton, Northumberland, Perry, Philadelphia, Pike, Potter, Schuylkill, Snyder, Sullivan, Susquehanna, Tioga, Union, Wayne, Wyoming and York.
-Philadelphia Data Processing Center, Send to: Fiscal Officer, VA Medical Center, P.O. Box 13399, Philadelphia, PA 19101, (215) 951-5321
-Philadelphia National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, University & Woodland Avenues, Philadelphia, PA 19104, (215) 951-5321
-Fiscal Officer, VA Medical Center, University & Woodland Avenues, Philadelphia, PA 19104, (125) 951-5321
-Fiscal Officer, Pittsburgh Regional Office, 1000 Liberty Avenue, Pittsburgh, PA 15222, (412) 644-4394
-Jurisdiction over all of the counties in Pennsylvania that are not listed under the Philadelphia Center (Regional Office) and jurisdiction over the following counties in West Virginia: Brooke, Hancock, Marshall and Ohio.
-Fiscal Officer, Pittsburgh Medical Center, Highland Drive, Pittsburgh, PA 15206, (412) 363-4900, ext. 4235
-Fiscal Officer, Pittsburgh Medical Center, University Drive C, Pittsburgh, PA 15240 (412) 683-3000, ext. 675
-Fiscal Officer, Wilkes-Barre Medical Center, 1111 East End Blvd., Wilkes-Barre, PA 18711, (717) 824-3521, ext. 7211
-Philippines
-Manila Regional Office Outpatient Clinic and Manila Regional Office Center
-For either of the above, send to:
-Director, Department of Veterans Affairs, APO, San Francisco, CA 96528, 011-632-521-7116, ext. 2560
-Puerto Rico
-Raymon National Cemetery Area Office, Send to: Fiscal Officer, VA Center, GPO, Box 4867, San Juan, PR 00936, (890) 766-5115
-Hato Regional Office, GPO, Box 4867, San Juan, PR 00936, (809) 766-5115
-Mayaguez Outpatient Clinic Substation, Send to: Fiscal Officer, VA Center, GPO, Box 4867, San Juan, PR 00936, (809) 763-0275
-Rio Piedras Medical and Regional Office Center, Send to: Fiscal Officer, VA Center, GPO, Box 4867, San Juan, PR 00936, (809) 758-7575, ext. 4953
-Fiscal Officer, VA Medical Center, One Veterans Plaza, San Juan, PR 00927-5800, (809) 766-5365/(809) 766-5953
-Rhode Island
-Fiscal Officer, Providence Regional Office, 321 South Main Street, Providence, RI 02903, (401) 528-4439
-Jurisdication over the following towns and counties in Massachusetts: all towns in Bristol County except Mansfield and Easton, the towns of Lakeville, Middleboro, Carver, Rochester. Mattapoisett, Marion, and Wareham in Plymouth County; and the counties of Dukes, Nantucket and Barnstable.
-Fiscal Officer, Providence Medical Center, Davis Park, Providence, RI 02908, (401) 475-3019
-South Carolina
-Beaufort National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 109 Bee Street, Charleston, SC 29403, (803) 577-5011, ext. 222
-Fiscal Officer, Charleston Medical Center, 109 Bee Street, Charleston, SC 29403, (803) 577-5011, ext. 222
-Fiscal Officer, Columbia Regional Office, 1801 Assembly Street, Columbia, SC 29201, (803) 765-5210
-Fiscal Officer, Columbia Medical Center, Columbia, SC 29201, (803) 776-4000, ext. 150
-Florence National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Columbia, SC 29201, (803) 776-4000, ext. 149
-Greenville Outpatient Clinic Substation, Send to: Fiscal Officer, VA Medical Center, Columbia, SC 29201, (803) 776-4000, ext. 149
-South Dakota
-Fort Meade National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Fort Meade, SD 57741 (605) 347-2511, ext. 272
-Fiscal Officer, VA Medical Center, Fort Meade, SD 57741 (605) 347-2511, ext. 272
-Hot Springs National Cemetery Area Office, Fiscal Officer, VA Medical Center, Hot Springs, SD 57747 (605) 745-4101, ext. 246
-Fiscal Officer, Hot Springs Medical Center, Hot Springs, SD 57747, (605) 745-4101
-Fiscal Officer, Sioux Falls Medical and Regional Office Center, PO Box 5046, Sioux Falls, SD 57117, (605) 333-6823
-Tennessee
-Chattanooga Outpatient Clinic Substation, Send to: Fiscal Officer, VA Medical Center, 1310 24th Avenue, South, Nashville, TN 37203, (615) 327-4651
-Chattanooga National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Murfreesboro, TN 37123, (615) 893-1360
-Knoxville National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Mountain Home, TN 37684, (615) 926-1171, ext. 7601
-Knoxville Outpatient Clinic Substation, Send to: Fiscal Officer, VA Medical Center, 1320 24th Avenue, South, Nashville, TN 37203, (615) 327-4651, ext. 553
-Madison National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 1320 24th Avenue, South, Nashville, TN 37203, (615) 327-4651, ext. 553
-Fiscal Officer, Memphis Medical Center, 1030 Jefferson Avenue, Memphis, TN 38104, (901) 523-8990, ext. 5838
-Memphis National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 1030 Jefferson Avenue, Memphis, TN 38104, (901) 523-8990, ext. 5838
-Fiscal Officer, Mountain Home Medical Center, Mountain Home, TN 37684, (615) 926-1171, ext. 7601
-Mountain Home National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Mountain Home, TN 37684, (615) 926-1171
-Fiscal Officer, Murfreesboro Medical Center, Murfreesboro, TN 37130, (615) 893-1360, ext. 3198
-Fiscal Officer, National Regional Office, 110 Ninth Avenue South, Nashville, TN 37203, (615) 736-5352
-Fiscal Officer, Medical Center, 1310 24th Avenue, South, Nashville, TN 37212, (615) 327-4751, ext. 5147
-Texas
-Fiscal Officer, Amarillo Medical Center, 6010 Amarillo Blvd. W., Amarillo, TX 79106, (806) 355-9703, ext. 7370
-Fiscal Officer, Austin Data Processing Center, 1615 East Woodward Street, Austin, TX 78772, (512) 482-4028
-Beaumont Outpatient Clinic Substation, Send to: Fiscal Officer, VA Medical Center, 2002 Holcombe Blvd., Houston, TX 77211, (713) 795-7493
-Fiscal Officer, Big Spring Medical Center, Big Spring, TX 79720, (915) 263-7361, ext. 326
-Fiscal Officer, Bonham Medical Center, East 96th & Lipscomb Street, Bonham, TX 75418, (218) 583-2111, ext. 240
-Corpus Christi Outpatient Clinic Substation, Send to: Fiscal Officer, VA Medical Center, 7400 Merton Minter Blvd., San Antonio, TX 78284, (512) 696-9660, ext. 5871
-Fiscal Officer, Dallas Medical Center, 4500 South Lancaster Road, Dallas, TX 75216, (214) 376-5451, ext. 5238
-Dallas VA Office, Send to: Fiscal Officer, VA Regional Office, 1400 North Valley Mills Drive, Waco, TX 76799, (817) 757-6454
-Fiscal Officer, El Paso Outpatient Clinic, 5919 Brook Hollow Drive, el Paso, TX 79925, (915) 579-7960
-Fort Bliss National Cemetery Area Office, Send to: Fiscal Officer, VA Outpatient Clinic, 5919 Brook Hollow Drive, El Paso, TX 79925, (915) 579-7960
-Fiscal Officer, Houston Medical Center, 2002 Holcombe Blvd., Houston, TX 77211, (713) 795-7493
-Fiscal Officer, Houston Regional Office, 2515 Murworth Drive, Houston, TX 77054, (713) 660-4121
-Jurisdiction over the country of Mexico and the following counties in Texas: Angelina, Aransas, Atascosa, Austin, Bandera, Bee, Bexar, Blanco, Brazoria, Brewster, Brooks, Caldwell, Calhoun, Cameron, Chambers, Colorado, Comal, Crockett, DeWitt, Dimmitt, Duval, Edwards, Fort Bend, Frio, Galveston, Gillespie, Goliad, Gonzales, Grimes, Guadalupe, Hardin, Harris, Hays, Hidalgo, Houston, Jackson, Jasper, Jefferson, Jim Hogg, Jim Wells, Karnes, Kenndall, Kennedy, Kerr, Kimble, Kinney, Kleberg, LaSalle, Lavaca, Liberty, Live Oak, McCulloch, McMullen, Mason, Matagorda, Maverick, Medina, Menard, Montgomery, Necogdoches, Newton, Nueces, Orange, Pecos, Polk, Real, Refugio, Sabine, San Augustine, San Jacinto, San Patrico, Schleicher, Shelby, Starr, Sutton, Terrell, Trinity, Tyler, Val Verde, Victoria, Walker, Waller, Washington, Webb, Wharton, Willacy, Wilson, Zapata and Zavala.
-Houston National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 2002 Holcombe Blvd., Houston, TX 77211, (713) 795-7493
-Fiscal Officer, Kerrville Medical Center, Kerrville, TX 78028, (512) 896-2020, ext. 300
-Kerrville National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Kerrville, TX 78028, (512) 896-2020, ext. 300
-Lubbock VA Office, Send to: Fiscal Officer, VA Regional Office, 1400 North Valley Mills Drive, Waco, TX 76799, (817) 657-6464, ext. 635
-Fiscal Officer, Lubbock Outpatient Clinic, 1205 Texas Avenue, Lubbock, TX 79401, (806) 762-7209
-Fiscal Officer, Marlin Medical Center, 1016 Ward Street, Marlin, TX 76661, (817) 883-3511, ext. 224
-McAllen Outpatient Clinic Substation, Send to: Fiscal Officer, VA Medical Center, 7400 Merton Minter Blvd., San Antonio, TX 78284, (512) 696-9660, ext. 5871
-Fiscal Officer, San Antonio Medical Center, 7400 Merton Minter Blvd., San Antonio, TX 78284, (512) 696-9660, ext. 5871
-San Antonio VA Office, Send to: Fiscal Officer, VA Regional Office, 2515 Murworth Drive, Houston, TX 77054 (713) 226-4185
-San Antonio National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 7400 Merton Minter Blvd., San Antonio, TX 78284, (512) 696-9660, ext. 5871
-San Antonio National Cemetery Area Office, (Fort Sam Houston), Send to: Fiscal Officer, VA Medical Center, 7400 Merton Minter Blvd., San Antonio, TX 78284, (512) 696-9660, ext. 5871
-Fiscal Officer, Temple Medical Center, Temple, TX 76501, (817) 778-4811
-Fiscal Officer, Waco Regional Office, 1400 North Valley Mills Drive, Waco, TX 76799, (817) 756-6454
-Jurisdiction over all counties in Texas not listed under the Houston Regional Office.
-Fiscal Officer, Waco Medical Center, Memorial Drive, Waco, TX 76703, (817) 752-6581
-Waco Outpatient Clinic, Send to: Fiscal Officer, VA Medical Center, Memorial Drive, Waco, TX 76703, (817) 752-6581
-Utah
-Fiscal Officer, Salt Lake City Regional Office, 125 South State Street, Salt Lake City, UT 84147, (801) 524-5361
-Fiscal Officer, Salt Lake City Medical Center, 500 Foothill Blvd., Salt Lake City, UT 85148, (810) 584-1213
-Vermont
-Fiscal Officer, White River Junction, Medical and Regional Office Center, White River Junction, VT 05001, (802) 295-9363, ext. 1034
-Virginia
-Alexandria National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 50 Irving Street, NW., Washington, DC 20422, (202) 745-8228
-Culpeper National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Martinsburg, WV 25401, (304) 263-0811, ext. 3176
-Danville National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Salem, VA 24153, (703) 982-2463
-Hopewell National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 1201 Broad Rock Road, Richmond, VA 23249, (804) 230-1304
-Leesburg National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 50 Irving Street, NW., Washington, DC 20422, (202) 745-8228
-Mechanicsville National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 1201 Broad Rock Road, Richmond, VA 23249, (804) 230-1304
-Fiscal Officer, Hampton Medical Center, Hampton, VA 23667, (804) 722-9961
-Hampton National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Hampton, VA 23667, (807) 722-9961
-Quantico National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 50 Irving Street, NW., Washington, DC 20422, (202) 745-8228
-Fiscal Officer, Richmond Medical Center, 1201 Broad Rock Road, Richmond, VA 23249, (804) 230-1304
-Richmond National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 1201 Broad Rock Road, Richmond, VA 23249, (804) 230-1304
-Fiscal Officer, Roanoke Regional Office, 210 Franklin Road, SW., Roanoke, VA 24011, (703) 982-6116
-Jurisdiction over Fairfax and Arlington Counties and the cities of Alexandria, Fairfax, and Falls Church is allocated to the Washington, DC Regional Office.
-Fiscal Officer, Salem Medical Center, Salem, VA 24153, (703) 982-2463
-Sandston national Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, 1201 Broad Rock Road, Richmond, VA 23249, (804) 231-9011, ext. 205
-Staunton National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Salem, VA 24135, (703) 982-2463
-Winchester National Cemetery Area Office, Send to: Fiscal Officer, VA Medical Center, Martinsburg, WV 25401, (304) 263-0811, ext. 3176
-Washington
-Fiscal Officer, American Lake Medical Center, Tacoma, WA 98493, (206) 582-8440, ext. 6049
-Fiscal Officer, Seattle Regional Office, 915 Second Avenue, Seattle, WA 98714, (206) 442-5025
-Fiscal Officer, Seattle Medical Center, 1160 S. Columbian Way, Seattle, WA 98198, (206) 764-2226
-Seattle Outpatient Clinic, Send to: Fiscal Officer, VA Medical Center, 1160 S. Columbia Way, Seattle, WA 98198, (206) 764-2226
-Fiscal Officer, Spokane Medical Center—North, 4815 Assembly Street, Spokane, WA 99205, (509) 327-0283, ext. 286
-Vancouver Medical Center, Send to: Fiscal Officer, VA Medical Center, 3710 SW U.S. Veterans Hospital Road, Portland, OR 97201, (503) 220-8262, ext. 6948
-West Virginia
-Fiscal Officer, Beckley Medical Center, 200 Veterans Avenue, Beckley, WV 25801, (304) 225-2121, ext. 4174
-Fiscal Officer, Clarksburg Medical Center, Clarksburg, WV 26301, (304) 623-3461, ext. 3389
-Grafton National Cemetery Area Office, Fiscal Officer, VA Medical Center, Clarksburg, WV 26301, (304) 623-3461, ext. 335
-Fiscal Officer, Huntington Regional Office, 640 Fourth Avenue, Huntington, WV 25701, (304) 529-5477.
-Jurisdiction over the counties of Brooke, Hancock, Marshall and Ohio is allocated to the Pittsburgh, Pennsylvania Regional Office.
-Fiscal Officer, Huntington Medical Center, 1540 Spring Valley Drive, Huntington, WV 25704, (304) 429-6741, ext. 2422
-Fiscal Officer, Martinsburg Medical Center, Martinsburg, WV 25401, (304) 263-0811, ext. 3176
-Wheeling Outpatient Clinic Substation, Fiscal Officer, VA Medical Center, University Drive C, Pittsburgh, PA 15240, (412) 683-7675
-Wisconsin
-Fiscal Officer, Madison Medical Center, 2500 Overlook Terrace, Madison, WI 53705, (608) 262-7050
-Fiscal Officer, Milwaukee (Wood) Regional Office, PO Box 6, Wood, WI 53193, (414) 671-8121
-Fiscal Officer, Tomah Medical Center, Tomah, WI 54660, (608) 372-1786
-Fiscal Officer, VA Medical Center, 5000 West National Avenue, Milwaukee, WI 53295, (414) 384-2000, ext. 2591
-Wood National Cemetery Area Office, Fiscal Officer, VA Medical Center, 5000 West National Avenue, Milwaukee, WI 53295, (414) 384-2000, ext. 2591
-Wyoming
-Fiscal Officer, Cheyenne Medical & Regional, Office Center, 2360 East Pershing Blvd., Cheyenne, WY 82001, (307) 672-7339
-Fiscal Officer, Sheridan Medical Center, Sheridan, WY 82801, (307) 672-3473
+Garnishment orders for civilian employees of the Department of Veterans Affairs should be sent to: Defense Finance and Accounting Service, Office of General Counsel, Attn: Garnishment Law Directorate, P.O. Box 998002, Cleveland, OH 44199-8002, Fax: 216-367-3675; Toll-Free Fax: 877-622-5930, Phone: 888-332-7411 (Those parties seeking offset of Veteran benefit payments pursuant to court and/or child support enforcement orders should contact the Veterans Benefits Administration at 1-800-827-1000 or https.www.benefits.va.gov/benefits/offices.asp for the appropriate service address of the Veterans Affairs Regional Office corresponding to the debtor's legal domicile).
 Social Security Administration
-1. For the garnishment of the remuneration of employees:
-Garnishment Agent, Office of the General Counsel, Room 611, Altmeyer Building, 6401 Security Blvd., Baltimore, MD 21235, (410) 965-4202
-Effective March 30, 1998, garnishment orders for employees of the Social Security Administration should be sent to:
-Chief, Payroll Operations Division, Attn.: Code D-2640, Bureau of Reclamation, Administrative Services Center, Department of the Interior, P.O. Box 272030, Denver, CO 80227-9030, (303) 969-7739
+1. For the garnishment of the remuneration of employees: Garnishment Agent, Office of the General Counsel, Room 611, Altmeyer Building, 6401 Security Blvd., Baltimore, MD 21235, (410) 965-4202.
+Effective March 30, 1998, garnishment orders for employees of the Social Security Administration should be sent to: Chief, Payroll Operations Division, Attn.: Code D-2640, Bureau of Reclamation, Administrative Services Center, Department of the Interior, P.O. Box 272030, Denver, CO 80227-9030, (303) 969-7739.
 2. For the garnishment of benefits under Title II of the Social Security Act, legal process may be served on the office manager at any Social Security District or Branch Office. The addresses and telephone numbers of Social Security District and Branch Offices may be found in the local telephone directory.
 II. Agencies
 (Unless otherwise indicated below, all agencies of the executive branch shall be subject to service of legal process brought for the enforcement of an individual's obligation to provide child support and/or make alimony payments where such service is sent by certified or registered mail, return receipt requested, or by personal service, upon the head of the agency.)
 Agency for International Development
-For employees of the Agency for International Development and the Trade and Development Program:
-Payroll Division, Office of Financial Management (FM/P), U.S. Agency for International Development, Room 403 SA-2, Washington, DC 20523, (202) 663-2011, (fax) (202) 663-2354
-Arms Control and Disarmament Agency
-General Counsel, Arms Control and Disarmament Agency, 320 21st Street, NW., Washington, DC 20451, (202) 647-3596
+For employees of the Agency for International Development: Chief, Payroll Division, United States Agency for International Development, 1300 Pennsylvania Avenue NW, Washington, DC 20523, (202) 916-4405, (202) 916-4956 (fax), payroll@usaid.gov.
 Central Intelligence Agency
-Office of Personnel Security, Attn: Chief, Special Activities Staff, Washington, DC 20505, (703) 482-1217
+Office of Personnel Security, Attn: Chief, Special Activities Staff, Washington, DC 20505, (703) 482-1217.
 Commission on Civil Rights
-Solicitor, Commission on Civil Rights, 624 9th Street, NW., Suite 632, Washington, DC 20425, (202) 376-8351
+Solicitor, Commission on Civil Rights, 624 9th Street NW, Suite 632, Washington, DC 20425, (202) 376-8351.
 Commodity Futures Trading Commission
-Director, Office of Personnel, Commodity Futures Trading Commission, Three Lafayette Center, Room 7200, 1155 21st Street, NW., Washington, DC 20581, (202) 418-5003
+Director, Office of Personnel, Commodity Futures Trading Commission, Three Lafayette Center, Room 7200, 1155 21st Street NW, Washington, DC 20581, (202) 418-5003.
+Consumer Financial Protection Bureau
+General Counsel, Consumer Financial Protection Bureau, 1700 G Street NW, Washington, DC 20552, (202) 435-5206.
 Consumer Product Safety Commission
-(Mail Service), General Counsel, Consumer Product Safety Commission, Washington, DC 20207-0001, (202) 504-0980
-(Personal Service), General Counsel, Consumer Product Safety Commission, 4330 East West Highway, Room 700, Bethesda, MD 20814-4408, (301) 504-0980
+(Mail Service), General Counsel, Consumer Product Safety Commission, Washington, DC 20207-0001, (202) 504-0980.
+(Personal Service), General Counsel, Consumer Product Safety Commission, 4330 East-West Highway, Room 700, Bethesda, MD 20814-4408, (301) 504-0980.
+Council of the Inspectors General on Integrity and Efficiency
+Interior Business Center, Department of the Interior, Chief, Payroll Operations Division, ATTN: D-2640, P.O. Box 272030, Denver, CO 80227-9030, (303) 969-7739.
 Environmental Protection Agency
-Chief, Headquarters Accounting Operations Branch, Financial Management Division (3303), Environmental Protection Agency, 401 M Street, SW., Washington, DC 20460, (202) 260-5116
+Department of the Interior, Interior Business Center, Debt Management Branch Attention: D-2640, 7201 W Mansfield Avenue, Denver, CO 80235, (866) 367-1272.
 Export-Import Bank of the United States
-General Counsel, Export-Import Bank of the United States, 811 Vermont Avenue, NW., Room 947, Washington, DC 20571, (202) 566-8334
+General Counsel, Export-Import Bank of the United States, 811 Vermont Avenue NW, Room 947, Washington, DC 20571, (202) 566-8334.
 Equal Employment Opportunity Commission
-Director, Financial Management Division, 1801 L Street, NW., Room 2002, Washington, DC 20507, (202) 663-4224
+Director, Finance and Systems Services Division, Room 4SE09E, 131 M Street NE, Washington, DC 20507, (202) 921-2869.
 Farm Credit Administration
-Chief, Fiscal Management Division, Farm Credit Administration, 1501 Farm Credit Drive, McLean, VA 22102-5090, (703) 883-4122
+Chief, Fiscal Management Division, Farm Credit Administration, 1501 Farm Credit Drive, McLean, VA 22102-5090, (703) 883-4122.
 Federal Deposit Insurance Corporation
-Counsel, Federal Deposit Insurance Corporation, 550 17th Street, NW., Washington, DC 20429, (202) 898-3686
+Counsel, Federal Deposit Insurance Corporation, 550 17th Street NW, Washington, DC 20429, (202) 898-3686.
 Federal Election Commission
-Accounting Officer, Federal Election Commission, 999 E Street, NW., Washington, DC 20463, (202) 376-5270
-Federal Emergency Management Agency
-Office of General Counsel, General Law Division, 500 C Street, SW., Washington, DC 20472, (202) 646-4105
+Accounting Officer, Federal Election Commission, 999 E Street NW, Washington, DC 20463, (202) 376-5270.
 Federal Labor Relations Authority
-Director of Personnel, Federal Labor Relations Authority, 607 14th Street, NW., Suite 430, Washington, DC 20424, (202) 482-6690
+Director of Personnel, Federal Labor Relations Authority, 607 14th Street NW, Suite 430, Washington, DC 20424, (202) 482-6690.
 Federal Maritime Commission
-Director of Personnel or Deputy Director of Personnel, Federal Maritime Commission, 800 North Capitol Street, NW., Washington, DC 20573, (202) 523-5773
+Director of Personnel or Deputy Director of Personnel, Federal Maritime Commission, 800 North Capitol Street NW, Washington, DC 20573, (202) 523-5773.
 Federal Mediation and Conciliation Service
-General Counsel, Federal Mediation and Conciliation Service, 2100 K Street, NW., Washington, DC 20427, (202) 653-5305
+General Counsel, Federal Mediation and Conciliation Service, 2100 K Street NW, Washington, DC 20427, (202) 653-5305.
 Federal Retirement Thrift Investment Board
-Payments to Board employees:
-Director of Administration, Federal Retirement Thrift Investment Board, 1250 H Street, NW., Washington, DC 20005, (202) 942-1670
-Benefits from the Thrift Savings Fund:
-General Counsel, Federal Retirement Thrift Investment Board, 1250 H Street, NW., Washington, DC 20005, (202) 942-1662
+Payments to Board employees: Director of Administration, Federal Retirement Thrift Investment Board, 1250 H Street NW, Washington, DC 20005, (202) 942-1670.
+Benefits from the Thrift Savings Fund: General Counsel, Federal Retirement Thrift Investment Board, 1250 H Street NW, Washington, DC 20005, (202) 942-1662.
 Federal Trade Commission
-Garnishment orders for employees of the Federal Trade Commission should be sent to:
-Chief, Payroll Operations Division, Attn.: Code D-2605, Bureau of Reclamation, Administrative Services Center, Department of the Interior, 7201 West Mansfield Avenue, Denver, CO 80227-9030, (303) 969-7739
+Garnishment orders for employees of the Federal Trade Commission should be sent to: Chief, Payroll Operations Division, Attn.: Code D-2605, Bureau of Reclamation, Administrative Services Center, Department of the Interior, 7201 West Mansfield Avenue, Denver, CO 80227-9030, (303) 969-7739.
 General Services Administration
 Director, Kansas City Finance Division—6BC, 1500 East Bannister Road—Room 1107, Kansas City, MO 64131, (816) 926-7625.
 Harry S. Truman Scholarship Foundation
-Chief, Payroll Operations Division, Attention: Mail Code 2640, National Business Center, Department of the Interior, P.O. Box 272030, Denver, CO 80227-9030, (303) 969-7739
+Chief, Payroll Operations Division, Attention: Mail Code 2640, National Business Center, Department of the Interior, P.O. Box 272030, Denver, CO 80227-9030, (303) 969-7739.
 Institute of Peace
-Garnishment orders for employees of the Institute of Peace should be sent to:
-General Services Administration, Director, Finance Division—(6BC), 1500 E. Bannister Road, Room 1107, Kansas City, MO 64131, (816) 926-1666
+Garnishment orders for employees of the Institute of Peace should be sent to: General Services Administration, Director, Finance Division—(6BC), 1500 E Bannister Road, Room 1107, Kansas City, MO 64131, (816) 926-1666.
 International Trade Commission
-Director, Office of Finance and Budget, 500 E Street, SW., Suite 316, Washington, DC 20436, (202) 205-2678
+Director, Office of Finance and Budget, 500 E Street SW, Suite 316, Washington, DC 20436, (202) 205-2678.
 Merit Systems Protection Board
-Director, Financial and Administrative, Management Division 1120 Vermont Avenue, NW., Washington, DC 20419, (202) 653-7263.
+Director, Financial and Administrative Management Division, 1615 M Street NW, Washington, DC 20419, (202) 653-7263.
 National Aeronautics and Space Administration
-NASA Headquarters
-Associate General Counsel (General), Attention: SN Code GG, NASA Headquarters, 300 E Street, SW., Washington, DC 20546, (202) 358-2465
-NASA Field Installations
-Chief Counsel, Ames Research Center, Moffett Field, CA 94035, (415) 694-5055
-Chief Counsel, Dryden Flight Research Center, Edwards, CA 93523, (805) 258-2827
-Chief Counsel, Goddard Space Flight Center, (including Wallops Flight Center), Greenbelt, MD 20771, (301) 286-9181
-Chief Counsel, Johnson Space Center, Houston, TX 77058, (713) 483-3021
-Chief Counsel, Kennedy Space Center, Kennedy Space Center, FL 32899, (407) 867-2550
-Chief Counsel, Langley Research Center, Hampton, VA 23665, (804) 864-3221
-Chief Counsel, Lewis Research Center, Cleveland, OH 44135, (216) 433-2318
-Chief Counsel, Marshall Space Flight center, Marshall Space Flight Center, AL 35812, (205) 544-0012
-Chief Counsel, John C. Stennis Space Center, Stennis Space Center, MS 39529-6000, (601) 688-2164
+Interior Business Center, Department of the Interior, Chief, Payroll Operations Division, ATTN: D-2640, P.O. Box 272030, Denver, CO 80227-9030, (303) 969-7739.
 National Archives and Records Administration
-General Counsel (NSL), Room 305 Archives Building, National Archives and Records Administration, 7th and Pennsylvania Avenue, NW., Washington, DC 20408, (202) 501-5535
+General Counsel (NGC), National Archives and Records Administration, Suite 3110, 8601 Adelphi Road, College Park, MD 20740, 301-837-1750.
 National Capital Planning Commission
-Administrative Officer, National Capital Planning Commission, 1325 G Street, NW., Washington, DC 20576, (202) 724-0170
+Administrative Officer, National Capital Planning Commission, 1325 G Street NW, Washington, DC 20576, (202) 724-0170.
 National Credit Union Administration
-General Counsel, Office of General Counsel, 1775 Duke Street, Alexandria, VA 22314-3428, (703) 518-6540
+General Counsel, Office of General Counsel, 1775 Duke Street, Alexandria, VA 22314-3428, (703) 518-6540.
 National Endowment for the Arts
-General Counsel, National Endowment for the Arts, 1100 Pennsylvania Avenue, NW., Room 522, Washington, DC 20506, (202) 682-5418
+General Counsel, National Endowment for the Arts, 1100 Pennsylvania Avenue NW, Room 522, Washington, DC 20506, (202) 682-5418.
 National Endowment for the Humanities
-General Counsel, National Endowment for the Humanities, Room 530, Old Post Office, 1100 Pennsylvania Avenue, NW., Washington, DC 20506, (202) 606-8322
+General Counsel, National Endowment for the Humanities, Room 530, Old Post Office, 1100 Pennsylvania Avenue NW, Washington, DC 20506, (202) 606-8322.
 National Labor Relations Board
-Director of Personnel, National Labor Relations Board, 1099 14th Street, NW., Room 6700, Washington, DC 20570-0001, (202) 273-3904
+Director of Personnel, National Labor Relations Board, 1099 14th Street NW, Room 6700, Washington, DC 20570-0001, (202) 273-3904.
 National Mediation Board
-Administrative Officer, National Mediation Board, 1301 K Street, NW., Suite 250 East, Washington, DC 20572, (202) 523-5950
+Administrative Officer, National Mediation Board, 1301 K Street NW, Suite 250 East, Washington, DC 20572, (202) 523-5950.
 National Railroad Adjustment Board
-Staff Director/Grievances, National Railroad Adjustment Board, 175 West Jackson Boulevard, Chicago, IL 60604, (312) 886-7300
+Staff Director/Grievances, National Railroad Adjustment Board, 175 West Jackson Boulevard, Chicago, IL 60604, (312) 886-7300.
 National Science Foundation
-General Counsel, 4201 Wilson Boulevard, Arlington, VA 22230, (703) 306-1060
+Human Resources Management, National Science Foundation, 2415 Eisenhower Avenue, Alexandria, VA 22314, (703) 292-5111.
 National Security Agency
-General Counsel, National Security Agency, 9800 Savage Road, Ft. Meade, MD 20755-6000, (301) 688-6054
+General Counsel, National Security Agency, 9800 Savage Road, Ft. Meade, MD 20755-6000, (301) 688-6054.
 National Transportation Safety Board
-Director, Personnel and Training Division, National Transportation Safety Board, 800 Independence Avenue, SW., Washington, DC 20594, ATTN: AD-30, (202) 382-6718
+Director, Personnel and Training Division, National Transportation Safety Board, ATTN: AD-30, 800 Independence Avenue SW, Washington, DC 20594, (202) 382-6718.
 Navajo and Hopi Indian Relocation Commission
-Attorney, Navajo and Hopi Indian Relocation Commission, 201 East Birch, Room 11, P.O. Box KK, Flagstaff, AZ 86002, (602) 779-2721
+Attorney, Navajo and Hopi Indian Relocation Commission, 201 East Birch, Room 11, P.O. Box KK, Flagstaff, AZ 86002, (602) 779-2721.
 Nuclear Regulatory Commission
-Controller, Nuclear Regulatory Commission, Washington, DC 20555, (301) 492-4750
+Comptroller, Nuclear Regulatory Commission, Washington, DC 20555, (301) 415-0667.
 Office of Personnel Management
-Payments to OPM employees:
-General Counsel, Office of Personnel Management, 1900 E Street, NW., Washington, DC 20415, (202) 606-1700
-Payments of retirement benefits under the Civil Service Retirement System and the Federal Employees Retirement System:
-Associate Director for Retirement and Insurance, Office of Personnel Management, Court Ordered Benefits Branch, PO Box 17, Washington, DC 20044, (202) 606-0218,
+Payments to OPM employees: Human Resources, Office of Personnel Management, 1900 E Street NW, Washington, DC 20415.
+Payments of retirement benefits under the Civil Service Retirement System and the Federal Employees Retirement System: Court Ordered Benefits Branch, ATTN: Garnishments, Office of Personnel Management, P.O. Box 17, Washington, DC 20044-0017, (202) 606-0222.
 Overseas Private Investment Corporation
-Director, Human Resources Management, Overseas Private Investment Corporation, 1100 New York Avenue, NW., Washington, DC 20527, (202) 336-8524
+Director, Human Resources Management, Overseas Private Investment Corporation, 1100 New York Avenue NW, Washington, DC 20527, (202) 336-8524.
 Panama Canal Commission
-Secretary, Office of the Secretary, International Square, 1825 I Street, NW., Suite 1050, Washington, DC 20006-5402, (202) 634-6441
+Secretary, Office of the Secretary, International Square, 1825 I Street NW, Suite 1050, Washington, DC 20006-5402, (202) 634-6441.
 Pension Benefit Guaranty Corporation
-General Counsel or Deputy General Counsel, 1200 K Street, NW., Washington, DC 20005-4026, (202) 326-4020
+Associate General Counsel, 445 12th Street SW, Washington, DC 20024, (202) 229-4400.
 Presidio Trust
-Chief, Payroll Operations Division, Attention: Mail Code 2640, National Business Center, Department of the Interior, P.O. Box 272030, Denver, CO, 80227-9030, (303) 969-7739
+Chief, Payroll Operations Division, Attention: Mail Code 2640, National Business Center, Department of the Interior, P.O. Box 272030, Denver, CO 80227-9030, (303) 969-7739.
 Railroad Retirement Board
-Deputy General Counsel, Bureau of Law, 844 North Rush Street, Chicago, IL 60611, (312) 751-4935
+General Counsel, 844 North Rush Street, Chicago, IL 60611, (312) 751-4948.
 Securities and Exchange Commission
-Branch Chief, Fiscal Operations, Office of the Comptroller, Securities and Exchange Commission, 450 Fifth Street, NW., Washington, DC 20549, (202) 942-0349
+Branch Chief, Employee Services, Office of Human Resources, Securities and Exchange Commission, 100 F Street NE, Washington, DC 20549, (202) 551-7500.
 Selective Service System
-General Counsel, 1515 Wilson Boulevard, Arlington, VA 22209-2425, (703) 235-2050,
+General Counsel, 1515 Wilson Boulevard, Arlington, VA 22209-2425, (703) 235-2050.
 Small Business Administration
-District Director, Birmingham District Office, 908 South 20th Street, Birmingham, AL 35205, (205) 254-1344
-District Director, Anchorage District Office, 1016 West 6th Avenue, Anchorage, AK 99501, (907) 271-4022
-District Director, Phoenix District Office, 3030 North Central Avenue, Phoenix, AZ 85012, (602) 261-3611
-District Director, Little Rock District Office, 611 Gaines Street, Little Rock, AR 72201, (501) 378-5871
-District Director, Los Angeles District Office, 350 S. Figueroa Street, Los Angeles, CA 90071, (213) 688-2956
-District Director, San Diego District Office, 880 Front Street, San Diego, CA 92188, (714) 291-5440
-District Director, San Francisco District Office, 211 Main Street, San Francisco, CA 94105, (415) 556-7490
-District Director, Denver District Office, 721 19th Street, Denver, CO 80202, (303) 837-2607
-District Director, Hartford District Office, One Financial Plaza, Hartford, CT 06106, (203) 244-3600
-District Director, Washington District Office, 1030 15th Street, NW., Washington DC 20417, (202) 655-4000
-District Director, Jacksonville District Office, 400 West Bay Street, Jacksonville, FL 32202, (904) 791-3782
-District Director, Miami District Office, 222 Ponce De Leon Blvd., Coral Gables, FL 33134, (305) 350-5521
-District Director, Atlanta District Office, 1720 Peachtree Street, NW., Atlanta, GA 30309, (404) 347-2441
-District Director, Honolulu District Office, 300 Ala Moana, Honolulu, HI 96850, (808) 546-8950
-District Director, Boise District Office, 1005 Main Street, Boise, ID 83701, (208) 384-1096
-District Director, Des Moines District Office, 210 Walnut Street, Des Moines, IA 50309, (515) 284-4433
-District Director, Chicago District Office, 219 South Dearborn Street, Chicago, IL 60604, (312) 353-4528
-District Director, Indianapolis District Office, 575 N. Pennsylvania Street, Indianapolis, IN 46204, (317) 269-7272
-District Director, Wichita District Office, 110 East Waterman Street, Wichita, KS 67202, (316) 267-6571
-District Director, Louisville District Office, 600 Federal Place, Louisville, KY 40201, (502) 582-5978
-District Director, New Orleans District Office, 1001 Howard Avenue, New Orleans, LA 70113, (504) 589-6685
-District Director, Augusta District Office, 40 Western Avenue, Augusta, ME 04330, (207) 622-6171
-District Director, Baltimore District Office, 8600 LaSalle Road, Towson, MD 21204, (301) 862-4392
-District Director, Boston District Office, 150 Causeway Street, Boston, MA 02114, (617) 223-2100
-District Director, Detroit District, 477 Michigan Avenue, Detroit, MI 48116, (313) 226-6075
-District Director, Minneapolis District Office, 12 South 6th Street, Minneapolis, MN 55402, (612) 725-2362
-District Director, Jackson District Office, 101 West Capitol Street, Suite 400, Jackson, MS 39201, (601) 965-5371
-District Director, Kansas City District Office, 1150 Grande Avenue, Kansas City, MO 64106, (816) 374-3416
-District Director, St. Louis District Office, One Mercantile Center, St. Louis, MO 63101, (314) 425-4191
-District Director, Helena District Office, 301 South Park Avenue, Helena, MT 59601, (406) 449-5381
-District Director, Omaha District Office, 19th & Farnum Street, Omaha, NE 68102, (404) 221-4691
-District Director, Las Vegas District Office, 301 East Stewart, Las Vegas, NV 89101, (702) 385-6611
-District Director, Concord District Office, 55 Pleasant Street, Concord, NH 03301, (603) 224-4041
-District Director, Newark District Office, 970 Broad Street, Newark, NJ 07102, (201) 645-2434
-District Director, Albuquerque District Office, 5000 Marble Avenue, NE., Albuquerque, NM 87110, (505) 766-3430
-District Director, New York District Office, 26 Federal Plaza, New York, NY 10007, (212) 264-4355
-District Director, Syracuse District Office, 100 South Clinton Street, Syracuse, NY 13260, (315) 423-5383
-District Director, Charlotte District Office, 230 South Tryon Street, Charlotte, NC 28202, (704) 371-6111
-District Director, Fargo District Office, 657 2nd Avenue, North, Fargo, ND 58108, (701) 237-5771
-District Director, Sioux Falls District Office, 101 South Main Avenue, Sioux Falls, SD 57102, (605) 336-2980
-District Director, Cleveland District Office, 1240 East 9th Street, Cleveland, OH 44199, (216) 522-4180
-District Director, Columbus District Office, 85 Marconi Boulevard, Columbus, OH 43215, (614) 469-6860
-District Director, Oklahoma City District Office, 200 NW. 5th Street, Oklahoma City, OK 73102, (405) 231-4301
-District Director, Portland District Office, 1220 SW. Third Avenue, Portland, OR 97204, (503) 221-2682
-District Director, Philadelphia District Office, 231 St. Asaphs Road, Bala Cynwyd, PA 19004, (215) 597-3311
-District Director, Pittsburgh District Office, 1000 Liberty Avenue, Pittsburgh, PA 15222, (412) 644-2780
-District Director, Hato Rey District Office, Chardon & Bolivia Streets, Hato Rey, PR 00918, (809) 753-4572
-District Director, Providence District Office, 57 Eddy Street, Providence, RI 02903, (401) 528-4580
-District Director, Columbia District Office, 1835 Assembly Street, Columbia, SC 29201, (803) 765-5376
-District Director, Nashville District Office, 404 James Robertson Parkway, Nashville, TN 37219, (615) 251-5881
-District Director, Dallas District Office, 1100 Commerce Street, Dallas, TX 75242, (214) 767-0605
-District Director, Houston District Office, 500 Dallas Street, Houston, TX 77002, (713) 226-4341
-District Director, Lower Rio Grande Valley District Office, 222 East Van Buren Street, Harlingen, TX 78550, (512) 423-4534
-District Director, Lubbock District Office, 1205 Texas Avenue, Lubbock, TX 79401, (806) 762-7466
-District Director, San Antonio District Office, 727 East Durango Street, San Antonio, TX 78206, (512) 229-6250
-District Director, Salt Lake City District Office, 125 South State Street, Salt Lake City, UT 84138, (314) 425-5800
-District Director, Montpelier District Office, 87 State Street, Montpelier, VT 05602, (802) 229-0538
-District Director, Richmond District Office, 400 North 8th Street, Richmond, VA 23240, (804) 782-2617
-District Director, Seattle District Office, 915 Second Avenue, Seattle, WA 98174, (206) 442-5534
-District Director, Spokane District Office, West 920 Riverside Avenue, Spokane, WA 99210, (509) 456-5310
-District Director, Clarksburg District Office, 109 North 3rd Street, Clarksburg, WV 26301, (304) 623-5631
-District Director, Madison District Office, 212 East Washington Avenue, Madison, WI 53703, (608) 264-5261
-District Director, Casper District Office, 100 East B Street, Casper, WY 82602, (307) 265-5266
+District Director, Birmingham District Office, 908 South 20th Street, Birmingham, AL 35205, (205) 254-1344.
+District Director, Anchorage District Office, 1016 West 6th Avenue, Anchorage, AK 99501, (907) 271-4022.
+District Director, Phoenix District Office, 3030 North Central Avenue, Phoenix, AZ 85012, (602) 261-3611.
+District Director, Little Rock District Office, 611 Gaines Street, Little Rock, AR 72201, (501) 378-5871.
+District Director, Los Angeles District Office, 350 S Figueroa Street, Los Angeles, CA 90071, (213) 688-2956.
+District Director, San Diego District Office, 880 Front Street, San Diego, CA 92188, (714) 291-5440.
+District Director, San Francisco District Office, 211 Main Street, San Francisco, CA 94105, (415) 556-7490.
+District Director, Denver District Office, 721 19th Street, Denver, CO 80202, (303) 837-2607.
+District Director, Hartford District Office, One Financial Plaza, Hartford, CT 06106, (203) 244-3600.
+District Director, Washington District Office, 1030 15th Street NW, Washington, DC 20417, (202) 655-4000.
+District Director, Jacksonville District Office, 400 West Bay Street, Jacksonville, FL 32202, (904) 791-3782.
+District Director, Miami District Office, 222 Ponce de Leon Blvd., Coral Gables, FL 33134, (305) 350-5521.
+District Director, Atlanta District Office, 1720 Peachtree Street NW, Atlanta, GA 30309, (404) 347-2441.
+District Director, Honolulu District Office, 300 Ala Moana Blvd., Honolulu, HI 96850, (808) 546-8950.
+District Director, Boise District Office, 1005 Main Street, Boise, ID 83701, (208) 384-1096.
+District Director, Des Moines District Office, 210 Walnut Street, Des Moines, IA 50309, (515) 284-4433.
+District Director, Chicago District Office, 219 South Dearborn Street, Chicago, IL 60604, (312) 353-4528.
+District Director, Indianapolis District Office, 575 N Pennsylvania Street, Indianapolis, IN 46204, (317) 269-7272.
+District Director, Wichita District Office, 110 East Waterman Street, Wichita, KS 67202, (316) 267-6571.
+District Director, Louisville District Office, 600 Federal Place, Louisville, KY 40201, (502) 582-5978.
+District Director, New Orleans District Office, 1001 Howard Avenue, New Orleans, LA 70113, (504) 589-6685.
+District Director, Augusta District Office, 40 Western Avenue, Augusta, ME 04330, (207) 622-6171.
+District Director, Baltimore District Office, 8600 LaSalle Road, Towson, MD 21204, (301) 862-4392.
+District Director, Boston District Office, 150 Causeway Street, Boston, MA 02114, (617) 223-2100.
+District Director, Detroit District, 477 Michigan Avenue, Detroit, MI 48116, (313) 226-6075.
+District Director, Minneapolis District Office, 12 South 6th Street, Minneapolis, MN 55402, (612) 725-2362.
+District Director, Jackson District Office, 101 West Capitol Street, Suite 400, Jackson, MS 39201, (601) 965-5371.
+District Director, Kansas City District Office, 1150 Grande Avenue, Kansas City, MO 64106, (816) 374-3416.
+District Director, St. Louis District Office, One Mercantile Center, St. Louis, MO 63101, (314) 425-4191.
+District Director, Helena District Office, 301 South Park Avenue, Helena, MT 59601, (406) 449-5381.
+District Director, Omaha District Office, 19th & Farnam Streets, Omaha, NE 68102, (404) 221-4691.
+District Director, Las Vegas District Office, 301 East Stewart Avenue, Las Vegas, NV 89101, (702) 385-6611.
+District Director, Concord District Office, 55 Pleasant Street, Concord, NH 03301, (603) 224-4041.
+District Director, Newark District Office, 970 Broad Street, Newark, NJ 07102, (201) 645-2434.
+District Director, Albuquerque District Office, 5000 Marble Avenue NE, Albuquerque, NM 87110, (505) 766-3430.
+District Director, New York District Office, 26 Federal Plaza, New York, NY 10007, (212) 264-4355.
+District Director, Syracuse District Office, 100 South Clinton Street, Syracuse, NY 13260, (315) 423-5383.
+District Director, Charlotte District Office, 230 South Tryon Street, Charlotte, NC 28202, (704) 371-6111.
+District Director, Fargo District Office, 657 2nd Avenue North, Fargo, ND 58108, (701) 237-5771.
+District Director, Sioux Falls District Office, 101 South Main Avenue, Sioux Falls, SD 57102, (605) 336-2980.
+District Director, Cleveland District Office, 1240 East 9th Street, Cleveland, OH 44199, (216) 522-4180.
+District Director, Columbus District Office, 85 Marconi Boulevard, Columbus, OH 43215, (614) 469-6860.
+District Director, Oklahoma City District Office, 200 NW 5th Street, Oklahoma City, OK 73102, (405) 231-4301.
+District Director, Portland District Office, 1220 SW Third Avenue, Portland, OR 97204, (503) 221-2682.
+District Director, Philadelphia District Office, 231 St. Asaphs Road, Bala Cynwyd, PA 19004, (215) 597-3311.
+District Director, Pittsburgh District Office, 1000 Liberty Avenue, Pittsburgh, PA 15222, (412) 644-2780.
+District Director, Hato Rey District Office, Chardon & Bolivia Streets, Hato Rey, PR 00918, (809) 753-4572.
+District Director, Providence District Office, 57 Eddy Street, Providence, RI 02903, (401) 528-4580.
+District Director, Columbia District Office, 1835 Assembly Street, Columbia, SC 29201, (803) 765-5376.
+District Director, Nashville District Office, 404 James Robertson Parkway, Nashville, TN 37219, (615) 251-5881.
+District Director, Dallas District Office, 1100 Commerce Street, Dallas, TX 75242, (214) 767-0605.
+District Director, Houston District Office, 500 Dallas Street, Houston, TX 77002, (713) 226-4341.
+District Director, Lower Rio Grande Valley District Office, 222 East Van Buren Street, Harlingen, TX 78550, (512) 423-4534.
+District Director, Lubbock District Office, 1205 Texas Avenue, Lubbock, TX 79401, (806) 762-7466.
+District Director, San Antonio District Office, 727 East Durango Street, San Antonio, TX 78206, (512) 229-6250.
+District Director, Salt Lake City District Office, 125 South State Street, Salt Lake City, UT 84138, (314) 425-5800.
+District Director, Montpelier District Office, 87 State Street, Montpelier, VT 05602, (802) 229-0538.
+District Director, Richmond District Office, 400 North 8th Street, Richmond, VA 23240, (804) 782-2617.
+District Director, Seattle District Office, 915 Second Avenue, Seattle, WA 98174, (206) 442-5534.
+District Director, Spokane District Office, West 920 Riverside Avenue, Spokane, WA 99210, (509) 456-5310.
+District Director, Clarksburg District Office, 109 North 3rd Street, Clarksburg, WV 26301, (304) 623-5631.
+District Director, Madison District Office, 212 East Washington Avenue, Madison, WI 53703, (608) 264-5261.
+District Director, Casper District Office, 100 East B Street, Casper, WY 82602, (307) 265-5266.
 Tennessee Valley Authority
-Payments to TVA employees:
-Chairman, Board of Directors, Tennessee Valley Authority, 400 West Summit Hill Drive, Knoxville, TN 37902, (423) 632-2101
-Payments of retirement benefits under the TVA Retirement System:
-Chairman, Board of Directors, TVA Retirement System, 500 West Summit Hill Drive, Knoxville, TN 37902, (423) 632-0202
+Payments to TVA employees: Chairman, Board of Directors, Tennessee Valley Authority, 400 West Summit Hill Drive, Knoxville, TN 37902, (423) 632-2101.
+Payments of retirement benefits under the TVA Retirement System: Chairman, Board of Directors, TVA Retirement System, 500 West Summit Hill Drive, Knoxville, TN 37902, (423) 632-0202.
 Trade and Development Agency
 Effective August 3, 1998, garnishment orders for employees of the United States Trade and Development Agency should be sent to: Chief, Payroll Operations Division, Attn.: Code D-2640, Bureau of Reclamation, Administrative Services Center, Department of the Interior, P.O. Box 272030, Denver, CO 80227-9030, (303) 969-7739.
-United States Information Agency
-Counsel, U.S. Information Agency, 301 4th Street, SW., Washington, DC 20547, (202) 485-7976
 United States Soldiers' & Airmen's Home
-Assistant General Counsel for Garnishment Operations, Defense Finance and Accounting Service, Cleveland Center, Code L (DFAS—CL/L), PO Box 998002, Cleveland, OH 44199-8002, (216) 522-5301
-III. United States Postal Service and Postal Rate Commission
-United States Postal Service and Postal Rate Commission
-Manager, Payroll Processing Branch, 1 Federal Drive, Ft. Snelling, MN 55111-9650, (612) 293-6300
+Defense Finance and Accounting Service, Office of General Counsel, Attn: Garnishment Law Directorate, P.O. Box 998002, Cleveland, OH 44199-8002, Fax: 216-367-3675; Toll-Free Fax: 877-622-5930, Phone: 888-332-7411.
+III. United States Postal Service and Postal Regulatory Commission
+United States Postal Service and Postal Regulatory Commission
+Manager, Payroll Operations, 2825 Lone Oak Parkway, Eagan, MN 55121-0650, (651) 406-3600.
 IV. The District of Columbia, American Samoa, Guam, and the Virgin Islands
 The District of Columbia
-Assistant City Administrator for Financial Management, The District Building, Room 412, 14th and Pennsylvania Avenue, NW, Washington, DC 20004, (202) 727-6979
+Assistant City Administrator for Financial Management, The District Building, Room 412, 14th Street and Pennsylvania Avenue NW, Washington, DC 20004, (202) 727-6979.
 American Samoa
-Director of Administrative Service, American Samoa government, Pago Pago, American Samoa 96799, (684) 633-4155
+Director of Administrative Service, American Samoa government, Pago Pago, American Samoa 96799, (684) 633-4155.
 Guam
-Attorney General, PO Box DA, Agana, Guam 96910, 472-6841 (Country Code 671)
+Attorney General, P.O. Box DA, Agana, Guam 96910, 472-6841 (Country Code 671).
 The Virgin Islands
-Attorney General, PO Box 280, St. Thomas, VI 00801, (809) 774-1163
+Attorney General, P.O. Box 280, St. Thomas, VI 00801, (809) 774-1163.
 V. Instrumentality
 Smithsonian Institution
-For service of process in garnishment proceedings for child support and/or alimony of present Smithsonian Institution employees:
-General Counsel, The Smithsonian Institution, MRC 012, 1000 Jefferson Drive, SW., Washington, DC 20560, (202) 357-2583
-For service of process in garnishment proceedings for child support and/or alimony involving retirement annuities of former trust fund employees of the Smithsonian Institution:
-General Counsel, Teachers Insurance and Annuity Association of America, College Retirement Equity Fund (TIAA/CREF), 730 Third Avenue, New York, NY 10017, (212) 490-9000
+For service of process in garnishment proceedings for child support and/or alimony of present Smithsonian Institution employees: Controller, Office of Finance and Accounting, Smithsonian Institution, P.O. Box 37012 MRC 1203, Washington, DC 20013-7012, (202) 633-7250
+For service of process in garnishment proceedings for child support and/or alimony involving retirement annuities of former trust fund employees of the Smithsonian Institution: General Counsel, Teachers Insurance and Annuity Association of America, College Retirement Equity Fund (TIAA/CREF), 730 Third Avenue, New York, NY 10017, (212) 490-9000
 VI. Executive Office of the President
 Executive Office of the President
-Garnishment orders for civilian employees of the Executive Office of the President should be sent to: Assistant General Counsel for Garnishment Operations, Defense Finance and Accounting Service, Cleveland Center—Code L (DFAS-CL/L), P.O. Box 998002, Cleveland, OH 44199-8002, (216) 522-5301.
+Garnishment orders for civilian employees of the Executive Office of the President should be sent to: Defense Finance and Accounting Service, Office of General Counsel, Attn: Garnishment Law Directorate, P.O. Box 998002, Cleveland, OH 44199-8002, Fax: 216-367-3675; Toll-Free Fax: 877-622-5930, Phone: 888-332-7411.
