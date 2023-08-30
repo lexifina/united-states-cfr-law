@@ -73,7 +73,7 @@ Test Condition 3 | 80 | 67 | 87 | 69 | Intermediate.
 Test Condition 4 | 80 | 67 | 82 | 65 | Low.
 4.1.2 Cooling capacity and power measurements. For single-speed units, measure the cooling mode cooling capacity (expressed in Btu/h), Capacity, and electrical power input (expressed in watts), P cool, in accordance with Section 6, Paragraphs 6.1 and 6.2 of AHAM RAC-1, respectively, and in accordance with ANSI/ASHRAE 16, including the references to ANSI/ASHRAE 41.2-1987 (RA 1992) and ANSI/ASHRAE 41.11-2014. For variable-speed room air conditioners, measure the condition-specific cooling capacity (expressed in Btu/h), Capacity tc, and electrical power input (expressed in watts), P tc, for each of the four cooling mode rating test conditions (tc), as required in Section 6, Paragraphs 6.1 and 6.2, respectively, of AHAM RAC-1, respectively, and in accordance with ANSI/ASHRAE 16, including the references to ANSI/ASHRAE 41.2-1987 (RA 1992) and ANSI/ASHRAE 41.11-2014.
 4.2 Standby and off modes. Establish the testing conditions set forth in section 3.2 of this appendix, ensuring the unit does not enter any active mode during the test. For a unit that drops from a higher power state to a lower power state as discussed in Section 5, Paragraph 5.1, Note 1 of IEC 62301, allow sufficient time for the room air conditioner to reach the lower power state before proceeding with the test measurement. Use the sampling method test procedure specified in Section 5, Paragraph 5.3.2 of IEC 62301 for testing all standby and off modes, with the following modifications: Allow the product to stabilize for 5 to 10 minutes and use an energy use measurement period of 5 minutes.
-4.2.1 If the unit has an inactive mode, as defined in section 2.14 of this appendix, as defined in section 2.17 of this appendix, measure and record the average inactive mode power, P ia, in watts.
+4.2.1 If the unit has an inactive mode, as defined in section 2.14 of this appendix, measure and record the average inactive mode power, Pia, in watts.
 4.2.2 If the unit has an off mode, as defined in section 2.17 of this appendix, measure and record the average off mode power, P om, in watts.
 5. Calculations
 5.1 Annual energy consumption in inactive mode and off mode. Calculate the annual energy consumption in inactive mode and off mode, AEC ia/om, expressed in kilowatt-hours per year (kWh/year).
@@ -97,7 +97,7 @@ Where:
 CEER = combined energy efficiency ratio, in Btu/Wh.
 Capacity = single-speed room air conditioner cooling capacity, in Btu/h, determined in section 4.1.2 of this appendix.
 AEC cool = single-speed room air conditioner annual energy consumption in cooling mode, in kWh/year, calculated in section 5.2.1 of this appendix.
-AEC ia/om = annual energy consumption in inactive mode or off mode, in kWh/year, calculated in section 5.1 of this appendix.
+AEC ia/om = annual energy consumption in inactive mode and off mode, in kWh/year, determined in section 5.1 of this appendix.
 0.75 as defined in section 5.2.1 of this appendix.
 5.3 Combined energy efficiency ratio for variable-speed room air conditioners. Calculate the combined energy efficiency ratio for variable-speed room air conditioners as follows:
 5.3.1 Weighted electrical power input. Calculate the weighted electrical power input in cooling mode, P wt, expressed in watts, as follows:
@@ -107,12 +107,12 @@ P wt = weighted electrical power input, in watts, in cooling mode.
 P tc = electrical power input, in watts, in cooling mode for each test condition in Table 1 of this appendix.
 W tc = weighting factors for each cooling mode test condition: 0.08 for test condition 1, 0.20 for test condition 2, 0.33 for test condition 3, and 0.39 for test condition 4. tc represents the cooling mode test condition: "1" for test condition 1 (95 °F condenser inlet dry-bulb temperature), "2" for test condition 2 (92 °F), "3" for test condition 3 (87 °F), and "4" for test condition 4 (82 °F).
 5.3.2 Theoretical comparable single-speed room air conditioner. Calculate the cooling capacity, expressed in Btu/h, and the electrical power input, expressed in watts, for a theoretical comparable single-speed room air conditioner at all cooling mode test conditions.
-Capacity ss_tc = Capacity 1 × (1 + (M c × (95−T tc)))
-P ss_tc = P 1 × (1−(M p × (95−T tc)))
+Capacity ss__tc = Capacity 1 × (1 + (M c × (95−T tc)))
+P ss__tc = P 1 × (1−(M p × (95−T tc)))
 Where:
-Capacity ss_tc = theoretical comparable single-speed room air conditioner cooling capacity, in Btu/h, calculated for each of the cooling mode test conditions in Table 1 of this appendix.
+Capacity ss__tc = theoretical comparable single-speed room air conditioner cooling capacity, in Btu/h, calculated for each of the cooling mode test conditions in Table 1 of this appendix.
 Capacity 1 = variable-speed room air conditioner unit's cooling capacity, in Btu/h, determined in section 4.1.2 of this appendix for test condition 1 in Table 1 of this appendix.
-P ss_tc = theoretical comparable single-speed room air conditioner electrical power input, in watts, calculated for each of the cooling mode test conditions in Table 1 of this appendix.
+P ss__tc = theoretical comparable single-speed room air conditioner electrical power input, in watts, calculated for each of the cooling mode test conditions in Table 1 of this appendix.
 P 1 = variable-speed room air conditioner unit's electrical power input, in watts, determined in section 4.1.2 of this appendix for test condition 1 in Table 1 of this appendix.
 M c = adjustment factor to determine the increased capacity at lower outdoor test conditions, 0.0099 per °F.
 M p = adjustment factor to determine the reduced electrical power input at lower outdoor test conditions, 0.0076 per °F.
@@ -133,11 +133,11 @@ AEC wt = weighted annual energy consumption in cooling mode for a variable-speed
 AEC tc = variable-speed room air conditioner unit's annual energy consumption, in kWh/year, in cooling mode for each test condition in Table 1 of this appendix, determined in section 5.3.3 of this appendix.
 W tc = weighting factors for each cooling mode test condition: 0.08 for test condition 1, 0.20 for test condition 2, 0.33 for test condition 3, and 0.39 for test condition 4.
 tc as explained in section 5.3.1 of this appendix.
-5.3.5 Theoretical comparable single-speed room air conditioner annual energy consumption in cooling mode at each cooling mode test condition. Calculate the annual energy consumption in cooling mode for a theoretical comparable single-speed room air conditioner for cooling mode under each test condition, AEC ss_tc, expressed in kWh/year.
-AEC ss_tc = 0.75 × P ss_tc
+5.3.5 Theoretical comparable single-speed room air conditioner annual energy consumption in cooling mode at each cooling mode test condition. Calculate the annual energy consumption in cooling mode for a theoretical comparable single-speed room air conditioner for cooling mode under each test condition, AEC ss__tc, expressed in kWh/year.
+AEC ss__tc = 0.75 × P ss__tc
 Where:
-AEC ss_tc = theoretical comparable single-speed room air conditioner annual energy consumption, in kWh/year, in cooling mode for each test condition in Table 1 of this appendix.
-P ss_tc = theoretical comparable single-speed room air conditioner electrical power input, in watts, in cooling mode for each test condition in Table 1 of this appendix, determined in section 5.3.2 of this appendix.
+AEC ss__tc = theoretical comparable single-speed room air conditioner annual energy consumption, in kWh/year, in cooling mode for each test condition in Table 1 of this appendix.
+P ss__tc = theoretical comparable single-speed room air conditioner electrical power input, in watts, in cooling mode for each test condition in Table 1 of this appendix, determined in section 5.3.2 of this appendix.
 0.75 as defined in section 5.2.1 of this appendix.
 tc as explained in section 5.3.1 of this appendix.
 5.3.6 Variable-speed room air conditioner combined energy efficiency ratio at each cooling mode test condition. Calculate the variable-speed room air conditioner unit's combined energy efficiency ratio, CEER tc, for each test condition, expressed in Btu/Wh.
@@ -146,33 +146,33 @@ Where:
 CEER tc = variable-speed room air conditioner unit's combined energy efficiency ratio, in Btu/Wh, for each test condition in Table 1 of this appendix.
 Capacity tc = variable-speed room air conditioner unit's cooling capacity, in Btu/h, for each test condition in Table 1 of this appendix, determined in section 4.1.2 of this appendix.
 AEC tc = variable-speed room air conditioner unit's annual energy consumption, in kWh/year, in cooling mode for each test condition in Table 1 of this appendix, determined in section 5.3.3 of this appendix.
-AEC ia/om = annual energy consumption in inactive mode of off mode, in kWh/year, determined in section 5.1 of this appendix.
+AEC ia/om = annual energy consumption in inactive mode and off mode, in kWh/year, determined in section 5.1 of this appendix.
 0.75 as defined in section 5.2.1 of this appendix.
 tc as explained in section 5.3.1 of this appendix.
-5.3.7 Theoretical comparable single-speed room air conditioner combined energy efficiency ratio. Calculate the combined energy efficiency ratio for a theoretical comparable single-speed room air conditioner, CEER ss_tc, for each test condition, expressed in Btu/Wh.
+5.3.7 Theoretical comparable single-speed room air conditioner combined energy efficiency ratio. Calculate the combined energy efficiency ratio for a theoretical comparable single-speed room air conditioner, CEER ss__tc, for each test condition, expressed in Btu/Wh.
 ER29MR21.004
 Where:
-CEER ss_tc = theoretical comparable single-speed room air conditioner combined energy efficiency ratio, in Btu/Wh, for each test condition in Table 1 of this appendix.
-Capacity ss_tc = theoretical comparable single-speed room air conditioner cooling capacity, in Btu/h, for each test condition in Table 1 of this appendix, determined in section 5.3.2 of this appendix.
-AEC ss_tc = theoretical comparable single-speed room air conditioner annual energy consumption, in kWh/year, in cooling mode for each test condition in Table 1 of this appendix, determined in section 5.3.5 of this appendix.
-AEC ia/om = annual energy consumption in inactive mode or off mode, in kWh/year, determined in section 5.1 of this appendix.
+CEER ss__tc = theoretical comparable single-speed room air conditioner combined energy efficiency ratio, in Btu/Wh, for each test condition in Table 1 of this appendix.
+Capacity ss__tc = theoretical comparable single-speed room air conditioner cooling capacity, in Btu/h, for each test condition in Table 1 of this appendix, determined in section 5.3.2 of this appendix.
+AEC ss__tc = theoretical comparable single-speed room air conditioner annual energy consumption, in kWh/year, in cooling mode for each test condition in Table 1 of this appendix, determined in section 5.3.5 of this appendix.
+AEC ia/om = annual energy consumption in inactive mode and off mode, in kWh/year, determined in section 5.1 of this appendix.
 0.75 as defined in section 5.2.1 of this appendix.
 tc as explained in section 5.3.1 of this appendix.
-5.3.8 Theoretical comparable single-speed room air conditioner adjusted combined energy efficiency ratio. Calculate the adjusted combined energy efficiency ratio, for a theoretical comparable single-speed room air conditioner, CEER ss_tc_adj, with cycling losses considered, for each test condition, expressed in Btu/Wh.
-CEER ss_tc_adj = CEER ss_tc × CLF tc
+5.3.8 Theoretical comparable single-speed room air conditioner adjusted combined energy efficiency ratio. Calculate the adjusted combined energy efficiency ratio, for a theoretical comparable single-speed room air conditioner, CEER ss__tc__adj, with cycling losses considered, for each test condition, expressed in Btu/Wh.
+CEER ss__tc__adj = CEER ss__tc × CLF tc
 Where:
-CEER ss_tc_adj = theoretical comparable single-speed room air conditioner adjusted combined energy efficiency ratio, in Btu/Wh, for each test condition in Table 1 of this appendix.
-CEER ss_tc = theoretical comparable single-speed room air conditioner combined energy efficiency ratio, in Btu/Wh, for each test condition in Table 1 of this appendix, determined in section 5.3.7 of this appendix.
+CEER ss__tc__adj = theoretical comparable single-speed room air conditioner adjusted combined energy efficiency ratio, in Btu/Wh, for each test condition in Table 1 of this appendix.
+CEER ss__tc = theoretical comparable single-speed room air conditioner combined energy efficiency ratio, in Btu/Wh, for each test condition in Table 1 of this appendix, determined in section 5.3.7 of this appendix.
 CLF tc = cycling loss factor for each test condition; 1 for test condition 1, 0.956 for test condition 2, 0.883 for test condition 3, and 0.810 for test condition 4.
 tc as explained in section 5.3.1 of this appendix.
-5.3.9 Weighted combined energy efficiency ratio. Calculate the weighted combined energy efficiency ratio for the variable-speed room air conditioner unit, CEER wt, and theoretical comparable single-speed room air conditioner, CEER ss_wt, expressed in Btu/Wh.
+5.3.9 Weighted combined energy efficiency ratio. Calculate the weighted combined energy efficiency ratio for the variable-speed room air conditioner unit, CEER wt, and theoretical comparable single-speed room air conditioner, CEER ss__wt, expressed in Btu/Wh.
 CEER wt = Σ tc CEER tc × W tc
-CEER ss_wt = Σ tc CEER ss_tc_adj × W tc
+CEER ss__wt = Σ tc CEER ss__tc__adj × W tc
 Where:
 CEER wt = variable-speed room air conditioner unit's weighted combined energy efficiency ratio, in Btu/Wh.
-CEER ss_wt = theoretical comparable single-speed room air conditioner weighted combined energy efficiency ratio, in Btu/Wh.
+CEER ss__wt = theoretical comparable single-speed room air conditioner weighted combined energy efficiency ratio, in Btu/Wh.
 CEER tc = variable-speed room air conditioner unit's combined energy efficiency ratio, in Btu/Wh, at each test condition in Table 1 of this appendix, determined in section 5.3.6 of this appendix.
-CEER ss_tc_adj = theoretical comparable single-speed room air conditioner adjusted combined energy efficiency ratio, in Btu/Wh, at each test condition in Table 1 of this appendix, determined in section 5.3.8 of this appendix.
+CEER ss__tc__adj = theoretical comparable single-speed room air conditioner adjusted combined energy efficiency ratio, in Btu/Wh, at each test condition in Table 1 of this appendix, determined in section 5.3.8 of this appendix.
 W tc as defined in section 5.3.4 of this appendix.
 tc as explained in section 5.3.1 of this appendix.
 5.3.10 Variable-speed room air conditioner performance adjustment factor. Calculate the variable-speed room air conditioner unit's performance adjustment factor, F p.
@@ -180,7 +180,7 @@ ER29MR21.005
 Where:
 F p = variable-speed room air conditioner unit's performance adjustment factor.
 CEER wt = variable-speed room air conditioner unit's weighted combined energy efficiency ratio, in Btu/Wh, determined in section 5.3.9 of this appendix.
-CEER ss_wt = theoretical comparable single-speed room air conditioner weighted combined energy efficiency ratio, in Btu/Wh, determined in section 5.3.9 of this appendix.
+CEER ss__wt = theoretical comparable single-speed room air conditioner weighted combined energy efficiency ratio, in Btu/Wh, determined in section 5.3.9 of this appendix.
 5.3.11 Variable-speed room air conditioner combined energy efficiency ratio. Calculate the combined energy efficiency ratio, CEER, expressed in Btu/Wh, for variable-speed air conditioners.
 CEER = CEER 1 × (1 + F p)
 Where:
