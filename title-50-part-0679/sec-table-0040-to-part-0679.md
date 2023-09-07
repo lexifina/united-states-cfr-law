@@ -1,7 +1,8 @@
 # Table 40 to Part 679—BSAI Halibut PSC Sideboard Limits for AFA Catcher/Processors and AFA Catcher Vessels
-In the following target species categories as defined in § 679.21(b)(1)(iii) and (e)(3)(iv)... | The AFA catcher/processor halibut PSC sideboard limit in metric tons is... | The AFAcatcher vessel halibut PSC sideboard limit in metric tons is...
+Table 40 to Part 679—BSAI Halibut PSC Sideboard Limits for AFA Catcher/Processors and AFA Catcher Vessels
+In the following target species categories as defined at § 679.21(b)(1)(iii) and (e)(3)(iv)... | The AFA catcher/processor halibut PSC sideboard limit in metric tons is... | The AFA catcher vessel halibut PSC sideboard limit in metric tons is...
 All target species categories | 286 | N/A
-Pacific cod trawl | N/A | 887
+Pacific cod trawl | N/A | N/A
 Pacific cod hook-and-line or pot | N/A | 2
 Yellowfin sole | N/A | 101
 Rock sole/flathead sole/"other flatfish" 1 | N/A | 228
