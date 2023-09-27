@@ -89,5 +89,4 @@ CHINA, PEOPLE'S REPUBLIC OF | Academy of Aerospace Solid Propulsion Technology (
 | Xi'an Xae Flying Aviation Manufacturing Technology Co., Ltd., No.12 Fengcheng Road, Xian 710018, Weiyang District, China | 85 FR 83799, 12/23/2020.
 | Xian Xr Aero- Components Co. Ltd., Hongqi East Road, Xian 710021, China | 85 FR 83799, 12/23/2020.
 | Yibin Sanjiang Machine Co., Ltd., No. 72 MinJiangBei Road, Yibin 64407, Sichuan, China | 85 FR 83799, 12/23/2020.
-| Zhejiang Perfect New Material Co., Ltd., No. 28, Dingsheng Road, Leidian Town, Deqing County, HuZhou City, China | 85 FR 83799, 12/23/2020.
 VENEZUELA | [Reserved] | [Reserved]
