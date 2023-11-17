@@ -21,7 +21,7 @@ Note to Supplement No. 6: While the items on this list are identified by ECCN ra
 (A) Specified by 2B001.a, 2B001.b.1, or 2B001.b.2, and having a "unidirectional positioning repeatability" equal to or less (better) than 0.9 µm along one or more linear axis;
 (B) Specified by 2B001.b.3, 2B001.d, 2B001.f or 2B003.
 (3) Category 3
-(i) 3A001.b.2—"Monolithic Microwave Integrated Circuit" ("MMIC") amplifiers that are any of the following:
+(i) 3A001.b.2 (including those described under 3A001.b.2 that are controlled by 3A001.z)—"Monolithic Microwave Integrated Circuit" ("MMIC") amplifiers that are any of the following:
 (A) Rated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz with a "fractional bandwidth" greater than 15%, and having any of the following:
 (A.1.) A peak saturated power output greater than 300 W (54.8 dBm) at any frequency exceeding 2.7 GHz up to and including 2.9 GHz;
 (A.2.) A peak saturated power output greater than 300 W (54.8 dBm) at any frequency exceeding 2.9 GHz up to and including 3.2 GHz;
@@ -30,7 +30,7 @@ Note to Supplement No. 6: While the items on this list are identified by ECCN ra
 (B) Rated for operation at frequencies exceeding 6.8 GHz up to and including 12 GHz with a "fractional bandwidth" greater than 10%, and having any of the following:
 (B.1) A peak saturated power output greater than 25 W (44 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz; or
 (B.2.) A peak saturated power output greater than 25 W (44 dBm) at any frequency exceeding 8.5 GHz up to and including 12 GHz.
-(ii) 3A001.b.3—Discrete microwave transistors that are any of the following:
+(ii) 3A001.b.3 (including those described under 3A001.b.3 that are controlled by 3A001.z)—Discrete microwave transistors that are any of the following:
 (A) Rated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz and having any of the following:
 (A.1.) A peak saturated power output greater than 600 W (57.8 dBm) at any frequency exceeding 2.7 GHz up to and including 2.9 GHz;
 (A.2.) A peak saturated power output greater than 600 W (57.8 dBm) at any frequency exceeding 2.9 GHz up to and including 3.2 GHz;
@@ -40,13 +40,11 @@ Note to Supplement No. 6: While the items on this list are identified by ECCN ra
 (B.1.) A peak saturated power output greater than 130 W (51.2 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz;
 (B.2.) A peak saturated power output greater than 60 W (47.8 dBm) at any frequency exceeding 8.5 GHz up to and including 12 GHz.
 (iii) 3A002.g.1.
-(iv) 3D001—"Software" "specially designed" for the "development" or "production" of equipment controlled under 3A001.b.2, 3A001.b.3, and 3A002.g.1.
-(v) 3E001—"Technology" according to the General Technology Note for the "development" or "production" of equipment controlled under 3A001.b.2, 3A001.b.3, and.3A002.g.1.
+(iv) 3D001—"Software" "specially designed" for the "development" or "production" of equipment controlled under 3A001.b.2, 3A001.b.3, equipment described under 3A001.b.2 or 3A001.b.3 that are controlled under 3A001.z, 3A002.g.1, and equipment described under 3A002.g.2 that are controlled under 3A002.z.
+(v) 3E001—"Technology" according to the General Technology Note for the "development" or "production" of equipment controlled under 3A001.b.2, 3A001.b.3, equipment described under 3A001.b.2 or 3A001.b.3 that are controlled under 3A001.z, 3A002.g.1, and equipment described under 3A002.g.2 that are controlled under 3A002.z.
 (4) Category 4
 (i) 4A001.a.2.
-(ii) 4D001—"Software" "specially designed" for the "development" or "production" of equipment controlled under ECCN 4A001.a.2 or for the "development" or "production" of
-"digital computers" having an 'Adjusted Peak Performance' ('APP') exceeding 16 Weighted TeraFLOPS (WT).
-(iii) 4E001—"Technology" according to the General Technology Note for the "development" or "production" of any of the following equipment or "software": equipment controlled under ECCN 4A001.a.2, "digital computers" having an 'Adjusted Peak Performance' ('APP') exceeding 16 Weighted TeraFLOPS (WT), or "software" controlled under the specific provisions of 4D001 described in this Supplement.
+(ii) [Reserved]
 (5) Category 5—Part 1
 (i) 5A001.b.3,.b.5, and.h.
 (ii) 5B001.a—Equipment and "specially designed" components or "accessories" therefor, "specially designed" for the "development" or "production" of equipment, functions or features controlled under 5A001.b.3, b.5, or.h.
