@@ -9,6 +9,7 @@ B. Mandatory grant programs.
 (4) Disallowances under Title III of the Older American Act.
 (5) Decisions relating to repayment and withholding under block grant programs as provided in 45 CFR 96.52.
 (6) Decisions relating to repayment and withholding under State Legalization Impact Assistance Grants as provided in 45 CFR 402.24 and 402.25.
+(7) Decisions relating to suspensions of procedural disenrollments and civil money penalties under 42 CFR 430.49(c).
 (b) In some of these disputes, there is an option for review by the head of the granting agency prior to appeal to the Board. Where an appellant has requested review by the agency head first, the "final written decision" required by § 16.3 for purposes of Board review will generally be the agency head's decision affirming the disallowance. If the agency head declines to review the disallowance or if the appellant withdraws its request for review by the agency head, the original disallowance decision is the "final written decision." In the latter cases, the 30-day period for submitting a notice of appeal begins with the date of receipt of the notice declining review or with the date of the withdrawal letter.
 C. Direct, discretionary project programs.
 (a) The Board reviews the following types of final written decisions in disputes arising in any HHS program authorizing the award of direct, discretionary project grants or cooperative agreements:
