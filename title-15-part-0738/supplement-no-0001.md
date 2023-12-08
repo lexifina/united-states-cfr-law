@@ -11,7 +11,7 @@ Argentina | X | | | | | X | | X | X | | X | X | | X
 Armenia | X | X | X | X | | X | X | X | X | X | | X | X
 Aruba | X | X | | X | | X | X | X | X | X | | X | | X
 Australia 3 | X | | | | | X | | X | X
-Austria 3 4 | X | | | | | X | | X | X | | | X | | X
+Austria 3 4 | X | | | | | X | | X | X | | | | |
 Azerbaijan | X | X | X | X | | X | X | X | X | X | | X | X
 Bahamas, The | X | X | | X | | X | X | X | X | X | X | X | | X
 Bahrain | X | X | X | X | | X | X | X | X | X | | X | | X
@@ -38,7 +38,7 @@ Cape Verde | X | X | | X | | X | X | X | X | X | | X | | X
 Central African Republic | X | X | | X | | X | X | X | X | X | | X | | X
 Chad | X | X | | X | | X | X | X | X | X | | X | | X
 Chile | X | X | | X | | X | X | X | X | X | X | X | | X
-China | X | X | X | X | | X | X | X | X | X | | X | | X
+China | X | X | X | X | X | X | X | X | X | X | | X | | X
 Colombia | X | X | | X | | X | X | X | X | X | X | X | | X
 Comoros | X | X | | X | | X | X | X | X | X | | X | | X
 Congo (Democratic Republic of the) 1 | X | X | | X | | X | X | X | X | X | | X | | X
@@ -62,7 +62,7 @@ Eritrea 1 | X | X | | X | | X | X | X | X | X | | X | | X
 Estonia 3 | X | | | | | X | | X | X | | | | |
 Ethiopia | X | X | | X | | X | X | X | X | X | | X | | X
 Fiji | X | X | | X | | X | X | X | X | X | | X | X | X
-Finland 3 4 | X | | | | | X | | X | X | | | X | | X
+Finland 3 4 | X | | | | | X | | X | X | | | | |
 France 3 | X | | | | | X | | X | X
 Gabon | X | X | | X | | X | X | X | X | X | | X | | X
 Gambia, The | X | X | | X | | X | X | X | X | X | | X | | X
@@ -83,7 +83,7 @@ India 7 | X | | | X | | X | | X | X | | | | |
 Indonesia | X | X | | X | | X | X | X | X | X | | X | | X
 Iran 1 | See part 746 of the EAR to determine whether a license is required in order to export or reexport to this destination.
 Iraq 1 | X | X | X | X | X | X | X | X | X | X | | X | X
-Ireland 3 4 | X | | | | | X | | X | X | | | X | | X
+Ireland 3 4 | X | | | | | X | | X | X | | | | |
 Israel | X | X | X | X | X | X | X | X | X | X | | X | | X
 Italy 3 | X | | | | | X | | X | X
 Jamaica | X | X | | X | | X | X | X | X | X | X | X | | X
@@ -93,7 +93,7 @@ Kazakhstan | X | X | X | | | X | X | X | X | X | | X | X
 Kenya | X | X | | X | | X | X | X | X | X | | X | | X
 Kiribati | X | X | | X | | X | X | X | X | X | | X | | X
 Korea, North 1 | See Sections 742.19 and 746.4 of the EAR to determine whether a license is required in order to export or reexport to this destination.
-Korea, South 3 4 | X | | | | | X | | X | X | | | X | | X
+Korea, South 3 4 | X | | | | | X | | X | X | | | | |
 Kosovo | X | X | | X | | X | X | X | X | X | | X | X | X
 Kuwait | X | X | X | X | | X | X | X | X | X | | X | | X
 Kyrgyzstan | X | X | X | X | | X | X | X | X | X | | X | X
@@ -103,10 +103,10 @@ Lebanon 1 | X | X | X | X | | X | X | X | X | X | | X | | X
 Lesotho | X | X | | X | | X | X | X | X | X | | X | | X
 Liberia | X | X | | X | | X | X | X | X | X | | X | | X
 Libya 1 | X | X | X | X | X | X | X | X | X | X | | X | | X
-Liechtenstein 5 | X | | | | | X | | X | X | | | X | | X |
+Liechtenstein 5 | X | | | | | X | | X | X | | | | | |
 Lithuania 3 | X | | | | | X | | X | X | | | | |
 Luxembourg 3 | X | | | | | X | | X | X
-Macau | X | X | X | X | | X | X | X | X | X | | X | | X
+Macau | X | X | X | X | X | X | X | X | X | X | | X | | X
 Macedonia (The Former Yugoslav Republic of) | X | X | | X | | X | X | X | X | X | | X | | X
 Madagascar | X | X | | X | | X | X | X | X | X | | X | | X
 Malawi | X | X | | X | | X | X | X | X | X | | X | | X
@@ -172,8 +172,8 @@ Sri Lanka | X | X | | X | | X | X | X | X | X | | X | | X
 Sudan 1 | X | X | | X | | X | X | X | X | X | | X | | X
 Suriname | X | X | | X | | X | X | X | X | X | X | X | | X
 Swaziland | X | X | | X | | X | X | X | X | X | | X | | X
-Sweden 3 4 | X | | | | | X | | X | X | | | X | | X
-Switzerland 3 4 | X | | | | | X | | X | X | | | X | | X
+Sweden 3 4 | X | | | | | X | | X | X | | | | |
+Switzerland 3 4 | X | | | | | X | | X | X | | | | |
 Syria | See § 746.9 of the EAR to determine whether a license is required in order to export or reexport to this destination.
 Taiwan | X | X | X | X | | X | X | X | X | X | | X | | X
 Tajikistan | X | X | X | X | | X | X | X | X | X | | X | X
