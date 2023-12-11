@@ -1,4 +1,4 @@
-# Figures 1–10 to Subpart A of Part 1211
+# Figures 1-10 to Subpart A of Part 1211
 ER07AP16.031
 ER07AP16.200
 ER07AP16.201
