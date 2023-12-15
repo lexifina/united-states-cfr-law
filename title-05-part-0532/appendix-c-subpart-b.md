@@ -108,8 +108,13 @@ Ouray
 San Juan
 San Miguel
 Utah:
+Garfield (Only includes the Bryce Canyon, Capitol Reef, and Canyonlands National Parks portions)
+Grand (Only includes the Arches and Canyonlands National Parks portions)
+Iron (Only includes the Cedar Breaks National Monument and Zion National Park portions)
 Kane
-San Juan (Does not include the Canyonlands National Park portion)
+San Juan
+Washington
+Wayne (Only includes the Capitol Reef and Canyonlands National Parks portions)
 Phoenix
 Survey Area
 Arizona:
@@ -398,7 +403,8 @@ Somerset
 Talbot
 Wicomico
 Worcester (Does not include the Assateague Island portion)
-District of Columbia, Washington, DC
+District of Columbia
+Washington, DC
 Survey Area
 District of Columbia:
 Washington, DC
@@ -425,12 +431,17 @@ St. Mary's
 Virginia (city):
 Fredericksburg
 Virginia (counties):
+Albemarle (Only includes the Shenandoah National Park portion)
+Augusta (Only includes the Shenandoah National Park portion)
 Clarke
 Culpeper
 Fauquier
+Greene (Only includes the Shenandoah National Park portion)
 King George
 Madison
+Page (Only includes the Shenandoah National Park portion)
 Rappahannock
+Rockingham (Only includes the Shenandoah National Park portion)
 Spotsylvania
 Stafford
 Warren
@@ -1385,7 +1396,7 @@ Baltimore
 Survey Area
 Maryland (city):
 Baltimore
-Maryland (counties)
+Maryland (counties):
 Anne Arundel
 Baltimore
 Carroll
@@ -1413,8 +1424,8 @@ Harrisonburg
 Winchester
 Virginia (counties):
 Frederick
-Page
-Rockingham
+Page (Does not include the Shenandoah National Park portion)
+Rockingham (Does not include the Shenandoah National Park portion)
 Shenandoah
 West Virginia:
 Hampshire
@@ -3825,6 +3836,7 @@ Harmon
 Jackson
 Jefferson
 Kiowa
+UTAH
 Utah
 Survey Area
 Utah:
@@ -3842,27 +3854,20 @@ Carbon
 Daggett
 Duchesne
 Emery
-Garfield
-Grand
-Iron
+Garfield (Does not include the Bryce Canyon, Capitol Reef, and Canyonlands National Parks portions)
+Grand (Does not include the Arches and Canyonlands National Parks portions)
+Iron (Does not include the Cedar Breaks National Monument and Zion National Park portions)
 Juab
 Millard
 Morgan
 Piute
 Rich
-San Juan (Only includes the Canyonlands National Park portion)
-Sanpete
 Sevier
+Sanpete
 Summit
 Uintah
 Wasatch
-Washington
-Wayne
-Colorado:
-Mesa
-Moffat
-Idaho:
-Franklin
+Wayne (Does not include the Capitol Reef and Canyonlands National Parks portions)
 Virginia
 Norfolk-Portsmouth-Newport News-Hampton
 Survey Area
@@ -3883,7 +3888,7 @@ York
 North Carolina:
 Currituck
 Area of Application. Survey area plus:
-Virginia (cities):
+Virginia (city):
 Franklin
 Virginia (counties):
 Accomack
@@ -3922,7 +3927,7 @@ Virginia (cities):
 Charlottesville
 Emporia
 Virginia (counties):
-Albemarle
+Albemarle (Does not include the Shenandoah National Park portion)
 Amelia
 Brunswick
 Buckingham
@@ -3931,7 +3936,7 @@ Charlotte
 Cumberland
 Essex
 Fluvanna
-Greene
+Greene (Does not include the Shenandoah National Park portion)
 Greensville
 King and Queen
 King William
@@ -3977,7 +3982,7 @@ Virginia (counties):
 Alleghany
 Amherst
 Appomattox
-Augusta
+Augusta (Does not include the Shenandoah National Park portion)
 Bath
 Bedford
 Bland

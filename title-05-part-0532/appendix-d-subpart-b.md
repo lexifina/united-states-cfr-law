@@ -100,6 +100,7 @@ California:
 Monterey
 Area of Application. Survey area plus:
 California:
+San Mateo
 Santa Clara
 Orange
 Survey Area
@@ -528,7 +529,7 @@ Macomb
 Survey Area
 Michigan:
 Macomb
-Area of Application. Survey area.
+Area of Application. Survey area plus:
 Michigan:
 Alpena
 Calhoun
@@ -543,6 +544,7 @@ Saginaw
 Washtenaw
 Wayne
 Ohio:
+Cuyahoga
 Lucas
 Ottawa
 MINNESOTA
@@ -724,6 +726,8 @@ Area of Application. Survey area plus:
 New York:
 Erie
 Genesee
+Ohio:
+Trumbull
 Pennsylvania:
 Erie
 Orange
@@ -826,26 +830,15 @@ Muskogee
 Pittsburg
 Tulsa
 PENNSYLVANIA
-Allegheny
-Survey Area
-Pennsylvania:
-Allegheny
-Area of Application. Survey area plus:
-Ohio:
-Cuyahoga
-Trumball
-Pennsylvania:
-Butler
-Westmoreland
-West Virginia:
-Harrison
 Cumberland
 Survey Area
 Pennsylvania:
 Cumberland
 Area of Application. Survey area plus:
 Pennsylvania:
+Allegheny
 Blair
+Butler
 Franklin
 York
 Survey Area
@@ -1013,9 +1006,9 @@ Uintah
 VIRGINIA
 Alexandria-Arlington-Fairfax
 Survey Area
-Virginia: (city)
+Virginia (city):
 Alexandria
-Virginia: (counties)
+Virginia (counties):
 Arlington
 Fairfax
 Area of Application. Survey area.
@@ -1068,6 +1061,8 @@ Prince William
 Area of Application. Survey area plus:
 Virginia:
 Fauquier
+West Virginia:
+Harrison
 WASHINGTON
 Kitsap
 Survey Area
