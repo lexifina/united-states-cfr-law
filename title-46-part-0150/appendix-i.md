@@ -63,6 +63,10 @@ Caustic soda, 50% or less (5) | Acrylonitrile/Styrene copolymer dispersion in Po
 | Propyl alcohol (20).
 | Propylene glycol (20).
 | Sodium chlorate solution (0).
+2,4, D Dimethyl amine salt (DMA 806) (0) | Acetone (18)
+| Ethyl Acrylate (14)
+| Methyl Alcohol (20)
+| Toluene (32)
 Dimethyl disulfide (alternately disulfide) (0) | Acrylates (14).
 | Alcohols, Glycols (20).
 | Aromatic Hydrocarbon Mixtures (32).
@@ -81,6 +85,14 @@ tert-Dodecanethiol (20) | Caustic soda solution (50%) (5).
 | Isopropylamine solution (70%) (7).
 | Polymethylene polyphenyl isocyanate (12).
 | Toluene diisocyanate (12).
+tert-Dodecanethiol (Sulfole 120) (0) | Acetone (18)
+| Ethyl Acrylate (14)
+| Methyl Alcohol (20)
+| Polymeric methylene diphenyl diisocyanate (Papi 27) (12)
+| Toluene (32)
+tert-Dodecanethiol (0) | All Chemicals in Group 33
+| Acetone (18)
+n-Dodecyl-mercaptan (0) | All chemicals in Group 33
 Dodecyl and Tetradecylamine mixture (7) | Tall oil, fatty acid (34).
 Ethylenediamine (7) | Bio-fuel blends of Gasoline and Ethyl alcohol (>25% but <99% by volume) (20).
 | Butyl alcohol (20).
@@ -101,6 +113,14 @@ Ethylenediamine (7) | Bio-fuel blends of Gasoline and Ethyl alcohol (>25% but <9
 | Methyl isobutyl ketone (18).
 | Propyl alcohol (20).
 | Propylene glycol (20).
+Hexamethylenediamine (7) | Ethyl Alcohol (Ethanol) (20)
+Hexamethylenediamine (molten) (HMD 98%, molten) (7) | n-Butyl Alcohol (20)
+| Isobutyl Alcohol (20)
+| Isopropyl Alcohol (20)
+Hexamethylenediamine solution (7) | CepSinol TM 1216 (Alcohols (C12+), primary, linear) (20).
+Hexamethylenediamine solution (HMD 90%) (7) | n-Butyl Alcohol (20)
+| Isobutyl Alcohol (20)
+| Isopropyl Alcohol (20)
 Lactic acid (0) | Acetic acid (4).
 | Benzene (32).
 | Ethanol (20).
@@ -109,6 +129,7 @@ Lactic acid (0) | Acetic acid (4).
 Oleum (0) | Hexane (31).
 | Dichloromethane (36).
 | Perchloroethylene (36).
+Phenol (90% hydrated) (21) | Toluene diisocyante (12)
 1,2-Propylene glycol (20) | Diethylenetriamine (7).
 | Polyethylene polyamines (7).
 | Triethylenetetramine (7).
@@ -120,6 +141,7 @@ Sodium dichromate solution (70% or less) (0) | Acetone (18).
 | Methyl alcohol (20).
 | Octene (all isomers) (30).
 | Phosphoric acid (1).
+Sodium hydrosulfide (alternatively hydrosulphide) solution (5) | Ethyl Alcohol (Ethanol) (20)
 Sodium hydrosulfide (alternately hydrosulphide) solution (45% or less) (5) | Isopropyl alcohol (20).
 | Methyl alcohol (20).
 Sodium Methylate 21-30% in methanol (0) | 1,2-Dichloropropane (36).
@@ -144,12 +166,32 @@ Sodium Methylate 21-30% in methanol (0) | 1,2-Dichloropropane (36).
 | Polyisobutenamine in aliphatic (C10-C14) solvent (7).
 | o-Toluidine (9).
 | Xylene (32).
+Sodium Methylate, 30% solution in Methanol (0) | n-Butyl Alcohol (20)
+| Decene (30)
+| Decyl Alcohol (20)
+| Dialkyl (C9-C10) phthalates (34)
+| Dichloromethane (36)
+| Ethanolamine (8) (including Monoethanolamine)
+| Hexene (all isomers) (30)
+| Methyl Isobutyl Ketone (18)
+| Olefin mixtures (C5-C15) (30)
+| Olefins (C13+ all isomers) (30)
+| Phenol (21)
+| n-Propyl Alcohol (20)
+| Propylheptanol (20)
+| C9-Resinfeed (32)
+| Sodium Borohydride (15% or less)/Sodium hydroxide solution (5)
+| Solvent Naphtha (33)
+| Styrene Monomer (30)
+| Toluene (32)
+| Xylenes (Incl. m- Xylene) (32)
 Sulfuric (alternately Sulphuric) acid (2) | Coconut oil (34).
 | Coconut oil, fatty acid (34).
 | Palm oil (34).
 | Soyabean oil (34).
 | Tallow (34).
 Sulfuric (alternately Sulphuric) acid, 98% or less (2) | Choice white grease tallow (34).
+Sulfuric (alternatively Sulphuric) acid (95-98%) (Group 2) | Methyl ester fatty acid (34) Soybean oil (34)
 Urea/Ammonium Nitrate solution (containing less than 1% free Ammonia) (43) | Magnesium chloride solutions (0).
 (b) The binary combinations listed below have been determined to be dangerously reactive, based either on data obtained in the literature or on laboratory testing that has been carried out in accordance with procedures prescribed in Appendix III. These combinations are exceptions to Figure 1 of part 150 (Compatibility Chart) and may not be stowed in adjacent tanks.
 Acetone cyanohydrin (0) is not compatible with Groups 1-12, 16, 17 or 22.
@@ -188,6 +230,7 @@ Fish oil (34) is not compatible with Sulfuric (alternately Sulphuric) acid (2).
 Formaldehyde (50% or more) in Methyl alcohol (over 30%) (19) is not compatible with Group 12, Isocyanates.
 Formic acid (4) is not compatible with Furfuryl alcohol (20).
 Furfuryl alcohol (20) is not compatible with Group 1, Non-Oxidizing Mineral Acids, or with Formic acid (4).
+Glycol Ethers (Group 40) are not compatible with Acrylonitrile (Group 15);
 1,6-Hexanediol distillation overheads (4) is not compatible with Group 3, Nitric Acids, or Group 9, Aromatic Amines.
 2-Hydroxyethyl acrylate (14) is not compatible with Groups 5, 6, or 12.
 Isophorone (18) is not compatible with Group 8, Alkanolamines.
@@ -219,6 +262,7 @@ Sulfuric (alternately Sulphuric) acid (2) is not compatible with Fish oil (34), 
 Tall oil fatty acid (Resin acids less than 20%) (34) is not compatible with Group 5, Caustics.
 Tallow fatty acid (34) is not compatible with Group 5, Caustics.
 Tetraethylenepentamine (7) is not compatible with Carbon tetrachloride, Group 36, Halogenated Hydrocarbons.
+Toluene diisocyanate (TDI) (12) is not compatible with Alkylbenzene sulphonic acid, sodium salt solution (Group 33), Calcium nitrate solutions (50% or less) (Group 34), Calcium nitrate/Magnesium nitrate/Potassium chloride solution (Group 34), Formaldehyde solutions (45% or less) (Group 19), Glutaraldehyde solutions (50% or less) (Group 19), Lactonitrile solution (80% or less) (Group 37), Nitrilotriacetic acid, trisodium salt solution (Group 34), Sodium acetate solutions (Group 34), Sodium sulphate solutions (Group 34), Polyferric sulphate solution (Group 34).
 1,1,1-Trichloroethane (36) is not compatible with Oleum (0).
 Trichloroethylene (36) is not compatible with Group 5, Caustics.
 1,2,3-Trichloropropane (36) is not compatible with Diethylenetriamine, Ethylenediamine, Ethyleaneamine EA 1302, or Triethylenetetramine, all Group 7, Aliphatic Amines.
