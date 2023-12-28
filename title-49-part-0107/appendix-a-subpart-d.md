@@ -235,8 +235,8 @@ A. Cigarette Lighters:
 B. Class 1—Explosives:
 1. Failure to mark the package with the EX number for each substance contained in the package or, alternatively, indicate the EX number for each substance in association with the description on the shipping description | 172.320 | $1,000.
 2. Offering an unapproved explosive for transportation: | 173.54, 173.56(b)
-a. Division 1.4 fireworks meeting the chemistry requirements of APA 87–1A or 87–1C | | $5,000.
-b. Division 1.3 fireworks meeting the chemistry requirements of APA 87–1B | | $7,500.
+a. Division 1.4 fireworks meeting the chemistry requirements of APA 87-1A or 87-1C | | $5,000.
+b. Division 1.3 fireworks meeting the chemistry requirements of APA 87-1B | | $7,500.
 c. All other explosives (including forbidden) | | $12,500 and up.
 3. Offering an unapproved explosive for transportation that minimally deviates from an approved design in a manner that does not impact safety: | 173.54, 173.56(b)
 a. Division 1.4 | | $3,000.
@@ -257,8 +257,8 @@ C. Class 7—Radioactive Materials:
 6. Failure to meet one or more of the general design requirements for a package used to ship a Class 7 material | 173.410 | $6,200.
 7. Failure to comply with the industrial packaging (IP) requirements when offering a Class 7 material for transportation | 173.411 | $6,200.
 8. Failure to provide a tamper-indicating device on a Type A package used to ship a Class 7 material | 173.412(a) | $5,000.
-9. Failure to meet the additional design requirements of a Type A package used to ship a Class 7 material | 173.412(b)–(i) | $6,200.
-10. Failure to meet the performance requirements for a Type A package used to ship a Class 7 material | 173.412(j)–(l) | $11,200.
+9. Failure to meet the additional design requirements of a Type A package used to ship a Class 7 material | 173.412(b)-(i) | $6,200.
+10. Failure to meet the performance requirements for a Type A package used to ship a Class 7 material | 173.412(j)-(l) | $11,200.
 11. Offering a DOT specification 7A packaging without maintaining complete documentation of tests and an engineering evaluation or comparative data: | 173.415(a), 173.461.
 a. Tests and evaluation not performed | | $13,500.
 b. Test performed but complete records not maintained | | $2,500 to $6,200.
@@ -378,7 +378,7 @@ b. Incomplete or inaccurate records | | $1,200 to $3,700.
 E. Cylinder Manufacturers & Rebuilders:
 1. Manufacturing, representing, marking, certifying, or selling a DOT high-pressure cylinder that was not inspected and verified by an approved independent inspection agency | 178.35 | $10,000 to $25,000.
 2. Failure to mark a registration number/symbol on a cylinder, when required | 178.35, Various | $1,000.
-3. Failure to mark the date of manufacture or lot number on a DOT–39 cylinder | 178.65(i) | $3,700.
+3. Failure to mark the date of manufacture or lot number on a DOT-39 cylinder | 178.65(i) | $3,700.
 4. Failure to have a chemical analysis performed in the U.S. for a material manufactured outside the U.S., without an approval | 107.807, 178.35 | $6,200.
 5. Failure to comply with defect and attachment requirements, safety device requirements, or marking requirements | 178.35(d), (e), (f) | $5,000.
 6. Failure to meet wall thickness requirements | Various | $9,300 to $18,700.
@@ -386,23 +386,23 @@ E. Cylinder Manufacturers & Rebuilders:
 8. Failure to conduct a complete visual internal examination | Various | $3,100 to $7,700.
 9. Failure to conduct a hydrostatic test, or conducting a hydrostatic test with inaccurate test equipment | Various | $3,100 to $7,700.
 10. Failure to conduct a flattening test | Various | $9,300 to $18,700.
-11. Failure to conduct a burst test on a DOT–2P, 2Q, 2S, or 39 cylinder | 178.33–8, 178.33a–8, 178.33b–8, 178.65(f)(2) | $6,200 to $18,700.
+11. Failure to conduct a burst test on a DOT-2P, 2Q, 2S, or 39 cylinder | 178.33-8, 178.33a-8, 178.33b-8, 178.65(f)(2) | $6,200 to $18,700.
 12. Failure to maintain required inspector's reports: | 178.35, Various.
 a. No reports at all | | $5,000.
 b. Incomplete or inaccurate reports | | $1,200 to $3,700.
 13. Failure to complete or retain manufacturer's reports | 178.35(g) | $6,200.
-14. Representing a DOT–4 series cylinder as repaired or rebuilt to the requirements of the HMR without being authorized by the Associate Administrator | 180.211(a) | $10,000 to $25,000.
+14. Representing a DOT-4 series cylinder as repaired or rebuilt to the requirements of the HMR without being authorized by the Associate Administrator | 180.211(a) | $10,000 to $25,000.
 F. Cargo Tank Motor Vehicles:
 1. Failure to maintain complete cargo tank test reports, as required: | 180.417(b), (c).
 a. No records | | $5,000.
 b. Incomplete records | | $1,200 to $3,700.
 2. Failure to have a cargo tank tested or inspected (e.g., visual, thickness, pressure, leakproofness) | 180.407(c) | $8,000 and up; increase by 25 percent for each additional.
 3. Failure to mark a cargo tank with test and inspection markings | 180.415 | $600 each item.
-4. Failure to retain a cargo tank's data report and Certificates or design certification | 178.320(b), 178.337–18, 178.338–19, 178.345–15 | $6,200.
+4. Failure to retain a cargo tank's data report and Certificates or design certification | 178.320(b), 178.337-18, 178.338-19, 178.345-15 | $6,200.
 5. Failure to mark a special permit number on a cargo tank. | 172.301(c) | $1,800.
 6. Constructing a cargo tank or cargo tank motor vehicle not in accordance with a special permit or design certification | 178.320(b), Special Permit | $13,500.
-7. Failure to mark manhole assemblies on a cargo tank motor vehicle manufactured after October 1, 2004 | 178.345–5(e) | $4,500.
-8. Failure to apply specification plate and name plate: | 178.337–17, 178.338–18, 178.345–14.
+7. Failure to mark manhole assemblies on a cargo tank motor vehicle manufactured after October 1, 2004 | 178.345-5(e) | $4,500.
+8. Failure to apply specification plate and name plate: | 178.337-17, 178.338-18, 178.345-14.
 a. No marking | | $4,500.
 b. Incomplete marking | | $600 per item.
 9. Failure to conduct monthly inspections and tests of discharge system in cargo tanks | 180.416(d) | $2,500.
@@ -421,13 +421,13 @@ G. Cylinder Requalification:
 12. Failure to notify the cylinder owner in writing when a cylinder has been condemned | 180.205(i)(2) | $1,200.
 13. Failure to perform hydrostatic retesting at the minimum specified test pressure | 180.209(a) | $2,600 to $6,500.
 14. Marking a star on a cylinder that does not qualify for that mark | 180.209(b) | $2,500 to $5,000.
-15. Marking a "+" sign on a cylinder without determining the average or minimum wall stress by calculation or reference to CGA Pamphlet C–5 | 173.302a(b) | $2,500 to $5,000.
+15. Marking a "+" sign on a cylinder without determining the average or minimum wall stress by calculation or reference to CGA Pamphlet C-5 | 173.302a(b) | $2,500 to $5,000.
 16. Marking a cylinder in or on the sidewall when not permitted by the applicable specification | 180.213(b) | $7,500 to $13,500.
 17. Failure to maintain legible markings on a cylinder | 180.213(b)(1) | $1,000.
 18. Marking a DOT 3HT cylinder with a steel stamp other than a low-stress steel stamp | 180.213(c)(2) | $7,500 to $13,500.
 19. Improper marking of the RIN or retest date on a cylinder | 180.213(d) | $1,000.
 20. Marking an FRP cylinder with steel stamps in the FRP area of the cylinder such that the integrity of the cylinder is compromised | Special Permit | $7,500 to $13,500.
-21. Failure to comply with eddy current examination requirements for DOT 3AL cylinders manufactured of aluminum alloy 6351–T6, when applicable | Appendix C to part 180 | $2,600 to $6,500.
+21. Failure to comply with eddy current examination requirements for DOT 3AL cylinders manufactured of aluminum alloy 6351-T6, when applicable | Appendix C to part 180 | $2,600 to $6,500.
 22. Failure to maintain current copies of the HMR, DOT special permits, and CGA Pamphlets applicable to inspection, retesting, and marking activities | 180.215(a) | $700 to $1,500.
 23. Failure to keep complete and accurate records of cylinder reinspection and retest: | 180.215(b).
 a. No records kept | | $5,000.
@@ -448,7 +448,7 @@ b. Packing Group II | | $3,000.
 c. Packing Group III | | $1,000.
 4. Transporting explosives in a motor vehicle containing metal or other articles or materials likely to damage the explosives or any package in which they are contained, without segregating in different parts of the load or securing them in place in or on the motor vehicle and separated by bulkheads or other suitable means to prevent damage | 177.835(i) | $6,500 and up.
 5. Failure to attend Class 1 explosive materials during transportation | 177.835(k) | $3,000.
-6. Transporting railway track torpedoes outside of flagging kits, in violation of DOT–E 7991 | 171.2(b), (e) | $8,700.
+6. Transporting railway track torpedoes outside of flagging kits, in violation of DOT-E 7991 | 171.2(b), (e) | $8,700.
 7. Failure to carry a hazmat registration letter or number in the transport vehicle | 107.620(b) | $1,000.
 8. Transporting Class 7 (radioactive) material having a total transport index greater than 50 | 177.842(a) | $6,200 and up.
 9. Transporting Class 7 (radioactive) material without maintaining the required separation distance | 177.842(b) | $6,200 and up.
@@ -468,7 +468,7 @@ A person who either receives hazardous materials from another company and reship
 Depending on all the circumstances, however, the person who originally prepared the shipment and placed it into transportation may have greater culpability for the noncompliance than the reshipper or carrier who reasonably relies on the shipment as received and does not open or alter the package before the shipment continues in transportation. PHMSA will consider the specific knowledge and expertise of all parties, as well as which party is responsible for compliance under the regulations, when evaluating the culpability of a reshipper or carrier. PHMSA recognizes that a reshipper or carrier may have reasonably relied upon information from the original shipper and may reduce the applicable baseline penalty amount up to 25 percent.
 B. Penalty Increases for Multiple Counts
 A main objective of PHMSA's enforcement program is to obtain compliance with the HMR and the correction of violations which, in many cases, have been part of a company's regular course of business. As such, there may be multiple instances of the same violation. Examples include a company shipping various hazardous materials in the same unauthorized packaging, shipping the same hazardous material in more than one type of unauthorized packaging, shipping hazardous materials in one or more packagings with the same marking errors, or using shipping papers with multiple errors.
-Under the Federal hazmat law, 49 U.S.C. 5123(a), each violation of the HMR and each day of a continuing violation (except for violations relating to packaging manufacture or qualification) is subject to a civil penalty of up to $96,624 or $225,455 for a violation occurring on or after January 6, 2023. As such, PHMSA generally will treat multiple occurrences that violate a single regulatory provision as separate violations and assess the applicable baseline penalty for each distinct occurrence of the violation. PHMSA will generally consider multiple shipments or, in the case of package testers, multiple package designs, to be multiple occurrences; and each shipment or package design may constitute a separate violation.
+Under the Federal hazmat law, 49 U.S.C. 5123(a), each violation of the HMR and each day of a continuing violation (except for violations relating to packaging manufacture or qualification) is subject to a civil penalty of up to $99,756 or $232,762 for a violation occurring on or after December 28, 2023. As such, PHMSA generally will treat multiple occurrences that violate a single regulatory provision as separate violations and assess the applicable baseline penalty for each distinct occurrence of the violation. PHMSA will generally consider multiple shipments or, in the case of package testers, multiple package designs, to be multiple occurrences; and each shipment or package design may constitute a separate violation.
 PHMSA, however, will exercise its discretion in each case to determine the appropriateness of combining into a single violation what could otherwise be alleged as separate violations and applying a single penalty for multiple counts or days of a violation, increased by 25 percent for each additional instance, as directed by 49 U.S.C. 5123(c). For example, PHMSA may treat a single shipment containing three items or packages that violate the same regulatory provision as a single violation and apply a single baseline penalty with a 50 percent increase for the two additional items or packages; and PHMSA may treat minor variations in a package design for a package tester as a single violation and apply a single baseline penalty with a 25 percent increase for each additional variation in design.
 When aggravating circumstances exist for a particular violation, PHMSA may handle multiple instances of a single regulatory violation separately, each meriting a separate baseline or increase the civil penalty by 25 percent for each additional instance. Aggravating factors may include increased safety risks, continued violation after receiving notice, or separate and distinct acts. For example, if the multiple occurrences each require their own distinct action, then PHMSA may count each violation separately (e.g., failure to obtain approvals for separate fireworks devices).
 C. Penalty Increases for Prior Violations
