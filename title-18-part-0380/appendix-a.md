@@ -38,8 +38,7 @@ Resource Report 6—Geological Resources
 1. Identify the location (by milepost) of mineral resources and any planned or active surface mines crossed by the proposed facilities. (§ 380.12(h)(1 & 2)).
 2. Identify any geologic hazards to the proposed facilities. (§ 380.12(h)(2))
 3. Discuss the need for and locations where blasting may be necessary in order to construct the proposed facilities. (§ 380.12(h)(3))
-4. For LNG projects in seismic areas, the materials required by "Data Requirements for the Seismic Review of LNG Facilities," NBSIR84-2833. (§ 380.12(h)(5))
-5. For underground storage facilities, how drilling activity by others within or adjacent to the facilities would be monitored, and how old wells would be located and monitored within the facility boundaries. (§ 380.12(h)(6))
+4. For underground storage facilities, how drilling activity by others within or adjacent to the facilities would be monitored, and how old wells would be located and monitored within the facility boundaries. (§ 380.12(h)(5))
 Resource Report 7—Soils
 1. Identify, describe, and group by milepost the soils affected by the proposed pipeline and aboveground facilities. (§ 380.12(i)(1))
 2. For aboveground facilities that would occupy sites over 5 acres, determine the acreage of prime farmland soils that would be affected by construction and operation. (§ 380.12(i)(2))
@@ -66,8 +65,8 @@ e. Aboveground facilities (§ 380.12(j)(1)).
 13. Demonstrate that applications for rights-of-way or other proposed land use have been or soon will be filed with Federal land-managing agencies with jurisdiction over land that would be affected by the project. (§ 380.12(j)(12))
 Resource Report 9—Air and Noise Quality
 1. Describe existing air quality in the vicinity of the project. (§ 380.12(k)(1))
-2. Quantify the existing noise levels (day-night sound level (Ldn) and other applicable noise parameters) at noise-sensitive areas and at other areas covered by relevant state and local noise ordinances. (§ 380.12(k)(2))
-3. Quantify existing and proposed emissions of compressor equipment, plus construction emissions, including nitrogen oxides (NOX) and carbon monoxide (CO), and the basis for these calculations. Summarize anticipated air quality impacts for the project. (§ 380.12(k)(3))
+2. Quantify the existing noise levels (day-night sound level (L dn) and other applicable noise parameters) at noise-sensitive areas and at other areas covered by relevant state and local noise ordinances. (§ 380.12(k)(2))
+3. Quantify existing and proposed emissions of compressor equipment, plus construction emissions, including nitrogen oxides (NO X) and carbon monoxide (CO), and the basis for these calculations. Summarize anticipated air quality impacts for the project. (§ 380.12(k)(3))
 4. Describe the existing compressor units at each station where new, additional, or modified compressor units are proposed, including the manufacturer, model number, and horsepower of the compressor units. For proposed new, additional, or modified compressor units include the horsepower, type, and energy source. (§ 380.12(k)(4)).
 5. Identify any nearby noise-sensitive area by distance and direction from the proposed compressor unit building/enclosure. (§ 380.12(k)(4))
 6. Identify any applicable state or local noise regulations. (§ 380.12(k)(4))
