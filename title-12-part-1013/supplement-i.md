@@ -48,19 +48,20 @@ i. Net increases. If the resulting amount calculated, after rounding, is greater
 ii. Net decreases. If the resulting amount calculated, after rounding, is equal to or less than the current threshold, then the threshold effective January 1 the following year will not change, but future increases will be calculated based on the amount that would have resulted.
 11. Threshold. For purposes of § 1013.2(e)(1), the threshold amount in effect during a particular period is the amount stated below for that period.
 i. Prior to July 21, 2011, the threshold amount is $25,000.
-ii. From July 21, 2011 through December 31, 2011, the threshold amount is $50,000.
-iii. From January 1, 2012 through December 31, 2012, the threshold amount is $51,800.
-iv. From January 1, 2013 through December 31, 2013, the threshold amount is $53,000.
-v. From January 1, 2014 through December 31, 2014, the threshold amount is $53,500.
-vi. From January 1, 2015 through December 31, 2015, the threshold amount is $54,600.
-vii. From January 1, 2016 through December 31, 2016, the threshold amount is $54,600.
-viii. From January 1, 2017 through December 31, 2017, the threshold amount is $54,600.
-ix. From January 1, 2018 through December 31, 2018, the threshold amount is $55,800.
-x. From January 1, 2019 through December 31, 2019, the threshold amount is $57,200.
-xi. From January 1, 2020 through December 31, 2020, the threshold amount is $58,300.
-xii. From January 1, 2021 through December 31, 2021, the threshold amount is $58,300.
-xiii. From January 1, 2022 through December 31, 2022, the threshold amount is $61,000.
-xiv. From January 1, 2023 through December 31, 2023, the threshold amount is $66,400.
+ii. From July 21, 2011, through December 31, 2011, the threshold amount is $50,000.
+iii. From January 1, 2012, through December 31, 2012, the threshold amount is $51,800.
+iv. From January 1, 2013, through December 31, 2013, the threshold amount is $53,000.
+v. From January 1, 2014, through December 31, 2014, the threshold amount is $53,500.
+vi. From January 1, 2015, through December 31, 2015, the threshold amount is $54,600.
+vii. From January 1, 2016, through December 31, 2016, the threshold amount is $54,600.
+viii. From January 1, 2017, through December 31, 2017, the threshold amount is $54,600.
+ix. From January 1, 2018, through December 31, 2018, the threshold amount is $55,800.
+x. From January 1, 2019, through December 31, 2019, the threshold amount is $57,200.
+xi. From January 1, 2020, through December 31, 2020, the threshold amount is $58,300.
+xii. From January 1, 2021, through December 31, 2021, the threshold amount is $58,300.
+xiii. From January 1, 2022, through December 31, 2022, the threshold amount is $61,000.
+xiv. From January 1, 2023, through December 31, 2023, the threshold amount is $66,400.
+xv. From January 1, 2024, through December 31, 2024, the threshold amount is $69,500.
 2(g) Lessee
 1. Guarantors. Guarantors are not lessees for purposes of the regulation.
 2(h) Lessor
