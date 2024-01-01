@@ -87,7 +87,7 @@ Scores range from a low of____________to a high of____________
 Key factors that adversely affected your credit score:
 [Number of recent inquiries on consumer report, as a key factor]
 [If you have any questions regarding your credit score, you should contact [entity that provided the credit score] at:
-ddress:
+Address:
 [Toll-free] Telephone number:____________________]]
 Notice: The federal Equal Credit Opportunity Act prohibits creditors from discriminating against credit applicants on the basis of race, color, religion, national origin, sex, marital status, age (provided the applicant has the capacity to enter into a binding contract); because all or part of the applicant's income derives from any public assistance program; or because the applicant has in good faith exercised any right under the Consumer Credit Protection Act. The federal agency that administers compliance with this law concerning this creditor is (name and address as specified by the appropriate agency listed in appendix A).
 Form C-3—Sample Notice of Action Taken and Statement of Reasons [(Credit Scoring)]
