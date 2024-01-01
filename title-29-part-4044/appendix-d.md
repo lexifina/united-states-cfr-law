@@ -1,18 +1,18 @@
-# Appendix D to Part 4044—Tables Used To Determine Expected Retirement Age
-Table I-23—Selection of Retirement Rate Category
-[For valuation dates in 2023 1]
-If participant reaches URA in year— | Participant's Retirement Rate Category is— | Low 2 if monthly benefit at URA is less than— | Medium 3 if monthly benefit at URA is— | From— | To— | High 4 if monthly benefit at URA is greater than—
-2024 | 745 | 745 | 3,146 | 3,146
-2025 | 762 | 762 | 3,218 | 3,218
-2026 | 779 | 779 | 3,292 | 3,292
-2027 | 797 | 797 | 3,368 | 3,368
-2028 | 816 | 816 | 3,445 | 3,445
-2029 | 834 | 834 | 3,524 | 3,524
-2030 | 854 | 854 | 3,605 | 3,605
-2031 | 873 | 873 | 3,688 | 3,688
-2032 | 893 | 893 | 3,773 | 3,773
-2033 or later | 914 | 914 | 3,860 | 3,860
-1 Applicable tables for valuation dates before 2023 are available on PBGC's website (www.pbgc.gov).
+# Appendix D to Part 4044—Tables Used to Determine Expected Retirement Age
+Table I-24—Selection of Retirement Rate Category
+[For valuation dates in 2024 1]
+If participant reaches URA in year— | Participant's retirement rate category is— | Low 2 if monthly benefit at URA is less than— | Medium 3 if monthly benefit at URA is— | From— | To— | High 4 if monthly benefit at URA is greater than—
+2025 | 802 | 802 | 3,388 | 3,388
+2026 | 821 | 821 | 3,466 | 3,466
+2027 | 839 | 839 | 3,546 | 3,546
+2028 | 859 | 859 | 3,627 | 3,627
+2029 | 879 | 879 | 3,711 | 3,711
+2030 | 899 | 899 | 3,796 | 3,796
+2031 | 919 | 919 | 3,883 | 3,883
+2032 | 941 | 941 | 3,973 | 3,973
+2033 | 962 | 962 | 4,064 | 4,064
+2034 or later | 984 | 984 | 4,157 | 4,157
+1 Applicable tables for valuation dates before 2024 are available on PBGC's website (www.pbgc.gov).
 2 Table II-A.
 3 Table II-B.
 4 Table II-C.
