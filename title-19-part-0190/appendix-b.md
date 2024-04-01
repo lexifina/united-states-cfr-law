@@ -117,7 +117,7 @@ The Applicant specifically agrees that it will:
 6. Keep a copy of this application and the letter of approval by CBP Headquarters on file for ready reference by employees and require all officials and employees concerned to familiarize themselves with the provisions of this application and that letter of approval; and
 7. Issue instructions to insure proper compliance with title 19, United States Code, section 1313, part 190 of the CBP Regulations and this application and letter of approval.
 DECLARATION OF OFFICIAL
-I declare that I have read this application for a specific manufacturing drawback ruling; that I know the averments and agreements contained herein are true and correct; and that my signature on this __ day of ____ 20__, makes this application binding on
+I declare that I have read this application for a specific manufacturing drawback ruling; that I know the averments and agreements contained herein are true and correct; and that my signature on this ____ day of ________ 20____, makes this application binding on
 (Name of Applicant Corporation, Partnership, or Sole Proprietorship)
 By 5
 (Signature and Title)
@@ -220,11 +220,9 @@ The Applicant specifically agrees that it will:
 6. Keep a copy of this application and the letter of approval by CBP Headquarters on file for ready reference by employees and require all officials and employees concerned to familiarize themselves with the provisions of this application and that letter of approval; and
 7. Issue instructions to insure proper compliance with title 19, United States Code, section 1313, part 190 of the CBP Regulations and this application and letter of approval.
 Declaration of Official
-I declare that I have read this application for a specific manufacturing drawback ruling; that I know the averments and agreements contained herein are true and correct; and that my signature on this __ day of ____ 20 __, makes this application binding on
+I declare that I have read this application for a specific manufacturing drawback ruling; that I know the averments and agreements contained herein are true and correct; and that my signature on this ____ day of ________ 20 ____, makes this application binding on
 (Name of Applicant Corporation, Partnership, or Sole Proprietorship)
 By 4
-_______
-4 Section 190.6(a) requires that applications for specific manufacturing drawback rulings be signed or electronically certified by any individual legally authorized to bind the person (or entity) for whom the application is signed or the owner of a sole proprietorship,
 (Signature and Title)
 (Print Name)
 IV. Format for Application for Specific Manufacturing Drawback Ruling Under 19 U.S.C. 1313(d)
@@ -236,10 +234,7 @@ NAME AND ADDRESS AND IRS NUMBER (WITH SUFFIX) OF APPLICANT
 LOCATION OF FACTORY
 (Provide the address of the factory(s) where the process of manufacture or production will take place. Indicate if the factory is a different legal entity from the applicant, and indicate if the applicant is operating under an Agent's general manufacturing drawback ruling.)
 PERSONS WHO WILL SIGN DRAWBACK DOCUMENTS
-(List persons legally authorized to bind the corporation who will sign drawback documents. Section 190.6 of the CBP Regulations permits only the president, vice president, secretary, treasurer, and any employee le-
-_______
-a full partner in a partnership, an individual acting on his or her own behalf, or, if a corporation, the president, a vice president, secretary, treasurer or employee legally authorized to bind the corporation. In addition, any employee of a business entity with a customs power of attorney filed may sign such an application, as may a licensed customs broker with a customs power of attorney.
-gally authorized to bind the corporation to sign for a corporation. In addition, a person within a business entity with a customs power of attorney for the company may sign. A customs power of attorney may also be given to a licensed customs broker. This heading should be changed to NAMES OF PARTNERS or PROPRIETOR in the case of a partnership or sole proprietorship, respectively (see footnote at end of this sample format for persons who may sign applications for specific manufacturing drawback rulings).)
+(List persons legally authorized to bind the corporation who will sign drawback documents. Section 190.6 of the CBP Regulations permits only the president, vice president, secretary, treasurer, and any employee legally authorized to bind the corporation to sign for a corporation. In addition, a person within a business entity with a customs power of attorney for the company may sign. A customs power of attorney may also be given to a licensed customs broker. This heading should be changed to NAMES OF PARTNERS or PROPRIETOR in the case of a partnership or sole proprietorship, respectively (see footnote at end of this sample format for persons who may sign applications for specific manufacturing drawback rulings).)
 GENERAL STATEMENT
 (The exact material placed under this heading in individual cases will vary, but it should include such information as the type of business in which the manufacturer is engaged, whether the manufacturer is manufacturing for its own account or is performing the operation on a toll basis (including commission or conversion basis) for the account of others, whether the manufacturer is a direct exporter of its products or sells or delivers them to others for export, and whether drawback will be claimed by the manufacturer or by others.)
 (If an agent is to be used, the applicant must state it will comply with T.D.s 55027(2) and 55207(1), and § 190.9, as applicable, and that its agent will submit a letter of notification of intent to operate under the general manufacturing drawback ruling for agents (see § 190.7 and Appendix A), or an application for a specific manufacturing drawback ruling (see § 190.8 and this Appendix B).)
@@ -297,7 +292,7 @@ The Applicant specifically agrees that it will:
 6. Keep a copy of this application and the letter of approval by CBP Headquarters on file for ready reference by employees and require all officials and employees concerned to familiarize themselves with the provisions of this application and that letter of approval; and
 7. Issue instructions to insure proper compliance with title 19, United States Code, section 1313, part 190 of the CBP Regulations and this application and letter of approval.
 DECLARATION OF OFFICIAL
-I declare that I have read this application for a specific manufacturing drawback ruling; that I know the averments and agreements contained herein are true and correct; and that my signature on this __ day of ____ 20 __, makes this application binding on
+I declare that I have read this application for a specific manufacturing drawback ruling; that I know the averments and agreements contained herein are true and correct; and that my signature on this ____ day of ________ 20 ____, makes this application binding on
 (Name of Applicant Corporation, Partnership, or Sole Proprietorship)
 By 2
 (Signature and Title)
@@ -371,7 +366,7 @@ The Applicant specifically agrees that it will:
 6. Keep a copy of this application and the letter of approval by CBP Headquarters on file for ready reference by employees and require all officials and employees concerned to familiarize themselves with the provisions of this application and that letter of approval; and
 7. Issue instructions to help ensure proper compliance with title 19, United States Code, section 1313, part 190 of the CBP Regulations and this application and letter of approval.
 DECLARATION OF OFFICIAL
-I declare that I have read this application for a specific manufacturing drawback ruling; that I know the averments and agreements contained herein are true and correct; and that my signature on this ____ day of ____ 20 __, makes this application binding on
+I declare that I have read this application for a specific manufacturing drawback ruling; that I know the averments and agreements contained herein are true and correct; and that my signature on this ________ day of ________ 20 ____, makes this application binding on
 (Name of Applicant Corporation, Partnership, or Sole Proprietorship)
 By 2
 (Signature and Title)
