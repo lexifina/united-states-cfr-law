@@ -245,3 +245,7 @@ October-December 2022 | 0.0390 | 1-20 | 0.0365 | >20 | N/A | N/A
 January-March 2023 | 0.0486 | 1-20 | 0.0470 | >20 | N/A | N/A
 April-June 2023 | 0.0538 | 1-20 | 0.0509 | >20 | N/A | N/A
 July-September 2023 | 0.0524 | 1-20 | 0.0458 | >20 | N/A | N/A
+October-December 2023 | 0.0506 | 1-20 | 0.0437 | >20 | N/A | N/A
+January-March 2024 | 0.0545 | 1-20 | 0.0522 | >20 | N/A | N/A
+April-June 2024 | 0.0550 | 1-20 | 0.0483 | >20 | N/A | N/A
+July 2024, other than July 31 | 0.0511 | 1-20 | 0.0483 | >20 | N/A | N/A
