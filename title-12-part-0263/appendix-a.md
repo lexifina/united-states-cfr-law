@@ -1,4 +1,5 @@
 # Appendix A to Part 263—Rules Applicable to Proceedings Initiated Before April 1, 2024
+Source: 88 FR 89923, Dec. 28, 2023, unless otherwise noted.
 Note: The content of this appendix reproduces the Uniform Rules of Practice and Procedure and Board Local Rules Supplementing the Uniform Rules in 12 CFR part 263, subparts A and B, respectively, as of April 1, 2024, and apply only to adjudicatory proceedings initiated before April 1, 2024. Proceedings initiated on or after April 1, 2024, are not governed by the version of the rules set out in this appendix. Cross-references to part 263 (as well as to included sections) in this appendix are to those provisions as contained within this appendix.
 Subpart A—Uniform Rules of Practice and Procedure
 263.1 Scope.
@@ -414,6 +415,3 @@ Unless otherwise ordered by the Board, administrative adjudications subject to s
 The Board may, in its discretion, designate itself, one or more of its members, or an authorized officer, to act as presiding officer in a formal hearing. In such a proceeding, proposed findings and conclusions, briefs, and other submissions by the parties permitted in subpart A shall be filed with the Secretary for consideration by the Board. Sections 263.38 and 263.39 of subpart A will not apply to proceedings conducted under this section.
 § 263.56 Initial licensing proceedings.
 Proceedings with respect to applications for initial licenses shall include, but not be limited to, applications for Board approval under section 3 of the BHC Act and section 10 of HOLA and such proceedings as may be ordered by the Board with respect to applications under section 18(c) of the FDIA. In such initial licensing proceedings, the procedures set forth in subpart A of this part shall apply, except that the Board may designate a Board Counsel to represent the Board in a nonadversary capacity for the purpose of developing for the record information relevant to the issues to be determined by the Presiding Officer and the Board. In such proceedings, Board Counsel shall be considered to be a decisional employee for purposes of §§ 263.9 and 263.40 of subpart A.
-FEDERAL DEPOSIT INSURANCE CORPORATION
-For the reasons set out in the joint preamble, the FDIC amends 12 CFR part 308 as follows.
-Effective Date Note: At 88 FR 89923, Dec. 28, 2023, appendix A was added, effective Apr. 1, 2024.
