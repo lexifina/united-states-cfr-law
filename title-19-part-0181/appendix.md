@@ -502,7 +502,7 @@ Period costs: (including $1,200 in excluded costs) | 3,200
 Other costs | 400
 Total cost of Good A and Good B | $9,000
 Under section 6(11)(b), the total cost of Good A and Good B is then reasonably allocated, in accordance with Schedule VII, to those goods. The costs are allocated in the following manner:
-| Allocated toGood A | Allocated toGood B
+| Allocated to Good A | Allocated to Good B
 Total cost ($9,000 for both Good A and Good B) | $5,220 | $3,780
 The excluded costs ($1,200) that are included in total cost allocated to Good A and Good B, in accordance with Schedule VII, are subtracted from that amount.
 | | Excluded Cost Allocated to Good A | Excluded Cost Allocated to Good B
@@ -780,11 +780,11 @@ For purposes of this part,
 (c) the United States, is the location at which the traced material is entered for any customs purpose, including entered for consumption, entered for warehouse or entered for transportation under bond, or admitted into a foreign trade zone;
 "refit" means a closure of a plant for a period of at least three consecutive months that is for purposes of plant conversion or retooling;
 "size category", with respect to a light-duty vehicle, means that the total of the interior volume for passengers and the interior volume for luggage is
-(a) 85 cubic feet (2.38 m3) or less,
-(b) more than 85 cubic feet (2.38 m3) but less than 100 cubic feet (2.80 m3),
-(c) 100 cubic feet (2.80 m3) or more but not more than 110 cubic feet (3.08 m3),
-(d) more than 110 cubic feet (3.08 m3) but less than 120 cubic feet (3.36 m3), or
-(e) 120 cubic feet (3.36 m3) or more;
+(a) 85 cubic feet (2.38 m 3) or less,
+(b) more than 85 cubic feet (2.38 m 3) but less than 100 cubic feet (2.80 m 3),
+(c) 100 cubic feet (2.80 m 3) or more but not more than 110 cubic feet (3.08 m 3),
+(d) more than 110 cubic feet (3.08 m 3) but less than 120 cubic feet (3.36 m 3), or
+(e) 120 cubic feet (3.36 m 3) or more;
 "traced material" means a material, produced outside the territories of the NAFTA countries, that is imported from outside the territories of the NAFTA countries and is, when imported, of a tariff provision listed in Schedule IV;
 "underbody" means the floor pan of a motor vehicle.
 SECTION 9. LIGHT-DUTY AUTOMOTIVE GOODS
@@ -1396,7 +1396,7 @@ SECTION 2.
 For purposes of Article 402(2) of the Agreement, as implemented by section 6(2) of this appendix, the transaction value of a good shall be the price actually paid or payable for the good, determined in accordance with section 3 and adjusted in accordance with section 4.
 SECTION 3.
 (1) The price actually paid or payable is the total payment made or to be made by the buyer to or for the benefit of the producer. The payment need not necessarily take the form of a transfer of money; it may be made by letters of credit or negotiable instruments. The payment may be made directly or indirectly to the producer. For an illustration of this, the settlement by the buyer, whether in whole or in part, of a debt owed by the producer is an indirect payment.
-(2) Activities undertaken by the buyer on the buyer's own account, other than those for which an adjustment is provided in section 4, shall not be considered to be an indirect payment, even though the activities might be regarded as being for the benefit of the producer. For an illustration of this, the buyer,by agreement with the producer, undertakes activities relating to the marketing of the good. The costs of such activities shall not be added to the price actually paid or payable.
+(2) Activities undertaken by the buyer on the buyer's own account, other than those for which an adjustment is provided in section 4, shall not be considered to be an indirect payment, even though the activities might be regarded as being for the benefit of the producer. For an illustration of this, the buyer, by agreement with the producer, undertakes activities relating to the marketing of the good. The costs of such activities shall not be added to the price actually paid or payable.
 (3) The transaction value shall not include the following charges or costs, provided that they are distinguished from the price actually paid or payable:
 (a) charges for construction, erection, assembly, maintenance or technical assistance related to the good undertaken after the good has been sold to the buyer; or
 (b) duties and taxes paid in the country in which the buyer is located with respect to the good.
@@ -1443,7 +1443,7 @@ and shall include the following costs that are recorded on the books of the buye
 (9) Where the elements referred to in subsections (1)(b)(ii) through (iv) were previously used by or on behalf of the buyer, the value of the elements shall be adjusted downward to reflect that use.
 (10) Where the elements referred to in subsections (1)(b)(ii) and (iii) were leased by the buyer or a person related to the buyer, the value of the elements shall be the cost of the lease as recorded on the books of the buyer or that related person.
 (11) No addition shall be made to the price actually paid or payable for the elements referred to in subsection (1)(b)(iv) that are available in the public domain, other than the cost of obtaining copies of them.
-(12) The producer shall choose the method of allocating to the good the value of the elements referred to in subsections (1)(b)(ii) through (iv), provided that the value is reasonably allocated to the good in a manner appropriate to the circumstances. The methods the producer may choose to allocate the value include allocating the value over the number of units produced up to the time of the first shipment or allocating the value over the entire anticipated production where contracts or firm commitments exist for that production. For an illustration of this, a buyer provides the producer with a mold to be used in the production of the good and contracts with the producer to buy 10,000 units of that good. By the time the first shipment of 1,000 units arrives, the producer has already produced 4,000 units. In these circumstances, the producer may choose to allocate the value of the mold over 4,000 unitsor 10,000 units but shall not choose to allocate the value of the elements to the first shipment of 1,000 units. The producer may choose to allocate the entire value of the elements to a single shipment of a good only where that single shipment comprises all of the units of the good acquired by the buyer under the contract or commitment for that number of units of the good between the producer and the buyer.
+(12) The producer shall choose the method of allocating to the good the value of the elements referred to in subsections (1)(b)(ii) through (iv), provided that the value is reasonably allocated to the good in a manner appropriate to the circumstances. The methods the producer may choose to allocate the value include allocating the value over the number of units produced up to the time of the first shipment or allocating the value over the entire anticipated production where contracts or firm commitments exist for that production. For an illustration of this, a buyer provides the producer with a mold to be used in the production of the good and contracts with the producer to buy 10,000 units of that good. By the time the first shipment of 1,000 units arrives, the producer has already produced 4,000 units. In these circumstances, the producer may choose to allocate the value of the mold over 4,000 units or 10,000 units but shall not choose to allocate the value of the elements to the first shipment of 1,000 units. The producer may choose to allocate the entire value of the elements to a single shipment of a good only where that single shipment comprises all of the units of the good acquired by the buyer under the contract or commitment for that number of units of the good between the producer and the buyer.
 (13) The addition for the royalties referred to in subsection (1)(c) shall be the payment for the royalties that is recorded on the books of the buyer, or where the payment for the royalties is recorded on the books of another person, the payment for the royalties that is recorded on the books of that other person.
 (14) The value of the proceeds referred to in subsection (1)(d) shall be the amount that is recorded for such proceeds on the books of the buyer or the producer.
 SCHEDULE III
@@ -1549,7 +1549,7 @@ ex 8519.81
 9401.20
 SCHEDULE V
 LIST OF AUTOMOTIVE COMPONENTS AND MATERIALS FOR THE PURPOSES OF SECTION 10 OF THE APPENDIX
-Item | Column Iautomotive components | Column IIlisted materials
+Item | Column I automotive components | Column II listed materials
 1. | Engines provided for in heading 8407 or 8408 | Cast blocks, cast heads, fuel nozzles, fuel injector pumps, glow plugs, turbochargers, superchargers, electronic engine controls, intake manifolds, exhaust manifolds, intake valves, exhaust valves, crankshafts, camshafts, alternators, starters, air cleaner assemblies, pistons, connecting rods and assemblies made therefrom, rotor assemblies for rotary engines, flywheels (for manual transmissions), flexplates (for automatic transmissions), oil pans, oil pumps, pressure regulators, water pumps, crankshaft gears, camshaft gears, radiator assemblies, charge-air coolers.
 2. | Gear boxes (transmissions) provided for in subheading 8708.40 | (a) For manual transmissions: transmission cases and clutch housings; clutches; internal shifting mechanisms; gear sets, synchronizers and shafts; and
 | | (b) For torque convertor type transmissions: transmission cases and convertor housings; torque convertor assemblies; gear sets and clutches; electronic transmission controls.
@@ -1821,8 +1821,7 @@ SECTION 1. Definitions.
 (1) For purposes of this Schedule, unless otherwise stated,
 "buying commissions" means fees paid by a producer to that producer's agent for the agent's services in representing the producer in the purchase of a material;
 "customs administration" refers to the customs administration of the NAFTA country into whose territory the good, in the production of which the material being valued is used, is imported;
-"materials of the same class or kind" means,
-with respect to materials being valued, materials that are within a group or range of materials that
+"materials of the same class or kind" means, with respect to materials being valued, materials that are within a group or range of materials that
 (a) is produced by a particular industry or industry sector, and
 (b) includes identical materials or similar materials;
 "producer" refers to
@@ -1903,8 +1902,7 @@ and shall include the following costs, that are recorded on the books of the pro
 (b) where such elements are provided by another person on behalf of the producer and the cost is not recorded on the books of the producer, the cost of those elements that is recorded on the books of that other person.
 (9) Where the elements referred to in subsections (1)(b)(ii) through (iv) were previously used by or on behalf of the producer, the value of the elements shall be adjusted downward to reflect that use.
 (10) Where the elements referred to in subsections (1)(b)(ii) and (iii) were leased by the producer or a person related to the producer, the value of the elements shall be the cost of the lease that is recorded on the books of the producer or that related person.
-(11) No addition shall be made to the price
-actually paid or payable for the elements referred to in subsection (1)(b)(iv) that are available in the public domain, other than the cost of obtaining copies of them.
+(11) No addition shall be made to the price actually paid or payable for the elements referred to in subsection (1)(b)(iv) that are available in the public domain, other than the cost of obtaining copies of them.
 (12) The producer shall choose the method of allocating to the material the value of the elements referred to in subsections (1)(b)(ii) through (iv), provided that the value is reasonably allocated to the material in a manner appropriate to the circumstances. The methods the producer may choose to allocate the value include allocating the value over the number of units produced up to the time of the first shipment or allocating the value over the entire anticipated production where contracts or firm commitments exist for that production. For an illustration of this, a producer provides the seller with a mold to be used in the production of the material and contracts with the seller to buy 10,000 units of that material. By the time the first shipment of 1,000 units arrives, the seller has already produced 4,000 units. In these circumstances, the producer may choose to allocate the value of the mold over 4,000 units or 10,000 units but shall not choose to allocate the value of the elements to the first shipment of 1,000 units. The producer may choose to allocate the entire value of the elements to a single shipment of material only where that single shipment comprises all of the units of the material acquired by the producer under the contract or commitment for that number of units of the material between the seller and the producer.
 (13) The addition for the royalties referred to in subsection (1)(c) shall be the payment for the royalties that is recorded on the books of the producer, or where the payment for the royalties is recorded on the books of another person, the payment for the royalties that is recorded on the books of that other person.
 (14) The value of the proceeds referred to in subsection (1)(d) shall be the amount that is recorded for such proceeds on the books of the producer or the seller.
@@ -1915,7 +1913,8 @@ SECTION 6.
 (4) If more than one transaction value of identical materials is found, the lowest such value shall be used to determine the value of the material under this section.
 SECTION 7.
 (1) If there is no transaction value under section 2(2) or the transaction value is unacceptable under section 2(3), and the value of the material cannot be determined under section 6, the value of the material, referred to in Article 402(9)(b) of the Agreement, as implemented by section 7(1)(b)(ii) of part IV of this appendix, shall be the transaction value of similar materials sold, at or about the same time as the material being valued was shipped to the producer, to a buyer located in the same country as the producer.
-(2) In applying this section, the transaction value of similar materials in a sale at the same commercial level and in substantially the same quantity of materials as the material being valued shall be used to determine the value of the material. Where no such sale is found, the transaction value of similar materials sold at a different commercial level or in different quantities, adjusted to take into account the differences attributable to the commercial level or quantity, shall be used, provided that such adjustments can be made on the basis of evidence that clearly establishes that the adjustment is reasonable and accurate, whether the adjustment leads to an increase or a decrease in the value.(3) A condition for adjustment under subsection (2) because of different commercial levels or different quantities is that such adjustment be made only on the basis of evidence that clearly establishes that an adjustment is reasonable and accurate. For an illustration of this, a bona fide price list contains prices for different quantities. If the material being valued consists of a shipment of 10 units and the only similar materials for which a transaction value exists involved a sale of 500 units, and it is recognized that the seller grants quantity discounts, the required adjustment may be accomplished by resorting to the seller's bona fide price list and using the price applicable to a sale of 10 units. This does not require that sales had to have been made in quantities of 10 as long as the price list has been established as being bona fide through sales at other quantities. In the absence of such an objective measure, however, the determination of a value under this section is not appropriate.
+(2) In applying this section, the transaction value of similar materials in a sale at the same commercial level and in substantially the same quantity of materials as the material being valued shall be used to determine the value of the material. Where no such sale is found, the transaction value of similar materials sold at a different commercial level or in different quantities, adjusted to take into account the differences attributable to the commercial level or quantity, shall be used, provided that such adjustments can be made on the basis of evidence that clearly establishes that the adjustment is reasonable and accurate, whether the adjustment leads to an increase or a decrease in the value.
+(3) A condition for adjustment under subsection (2) because of different commercial levels or different quantities is that such adjustment be made only on the basis of evidence that clearly establishes that an adjustment is reasonable and accurate. For an illustration of this, a bona fide price list contains prices for different quantities. If the material being valued consists of a shipment of 10 units and the only similar materials for which a transaction value exists involved a sale of 500 units, and it is recognized that the seller grants quantity discounts, the required adjustment may be accomplished by resorting to the seller's bona fide price list and using the price applicable to a sale of 10 units. This does not require that sales had to have been made in quantities of 10 as long as the price list has been established as being bona fide through sales at other quantities. In the absence of such an objective measure, however, the determination of a value under this section is not appropriate.
 (4) If more than one transaction value of similar materials is found, the lowest such value shall be used to determine the value of the material under this section.
 SECTION 8.
 If there is no transaction value under section 2(2) or the transaction value is unacceptable under section 2(3), and the value of the material cannot be determined under section 6 or 7, the value of the material, referred to in Article 402(9)(b) of the Agreement, as implemented by section 7(1)(b)(ii) of part IV of this appendix, shall be determined under section 9 or, when the value cannot be determined under that section, under section 10 except that, at the request of the producer, the order of application of sections 9 and 10 shall be reversed.
@@ -1999,7 +1998,7 @@ The following "examples" are based on the figures set out in the table below and
 (b) one unit of Materials A is used to produce one unit of Good A;
 (c) all other materials used in the production of Good A are originating materials; and
 (d) Good A is produced in a single plant.
-Date(M/D/Y) | Materials inventory(Receipts of materials A) | Quantity(units) | Unitcost * | Sales(Shipments of good A) | Quantity(units)
+Date (M/D/Y) | Materials inventory (Receipts of materials A) | Quantity (units) | Unit cost * | Sales (Shipments of good A) | Quantity (units)
 01/01/94 | 200 | $1.05
 01/03/94 | 1,000 | 1.00
 01/05/94 | 1,000 | 1.10
@@ -2024,7 +2023,7 @@ By applying the LIFO method:
 (4) 1,500 units of the 2,000 units of Materials A received on 01/16/94 and valued at $1.10 per unit are considered to have been used in the production of the 1,500 units of Good A shipped on 01/18/94; therefore, the value of non-originating materials used in the production of those goods is considered to be $1,650 (1,500 units × $1.10).
 Example 3: Rolling average method
 The following table identifies the average value of non-originating Materials A as determined under the rolling average method. For purposes of this example, a new average value of non-originating Materials A is calculated after each receipt.
-Materials inventory | | Date(M/D/Y) | Quantity(units) | Unit cost* | Total value
+Materials inventory | | Date (M/D/Y) | Quantity (units) | Unit cost* | Total value
 Beginning Inventory | 1/1/94 | 200 | $1.05 | $210
 Receipt | 1/3/94 | 1,000 | 1.00 | 1,000
 AVERAGE VALUE | | 1,200 | 1.008 | 1,210
@@ -2156,7 +2155,7 @@ The following "examples" are based on the figures set out in the table below and
 (c) Material A is only used in the production of Good A;
 (d) all other materials used in the production of Good A are originating materials; and
 (e) the producer of Good A exports all shipments of Good A to the territory of a NAFTA country.
-Date(M/D/Y) | Materials inventory(Receipts of material A) | Quantity(units) | Unit cost * | Total value | Sales(Shipments of good A) | Quantity(units)
+Date (M/D/Y) | Materials inventory (Receipts of material A) | Quantity (units) | Unit cost * | Total value | Sales (Shipments of good A) | Quantity (units)
 12/18/93 | 100 (O 1) | $1.00 | $100
 12/27/93 | 100 (N 2) | 1.10 | 110
 01/01/94 | 200 (OI 3)
@@ -2188,7 +2187,7 @@ By applying the LIFO method:
 (4) 900 units of the remaining 1,000 units of non-originating Material A that were received in materials inventory on 01/16/94 are considered to have been used in the production of the 900 units of Good A shipped on 01/23/94.
 Example 3: Average method
 Good A is subject to an applicable regional value-content requirement. Producer A is using the transaction value method to determine the regional value content of Good A. Producer A determines the average value of non-originating Material A and the ratio of originating Material A to total value of originating Material A and non-originating Material A in the following table.
-| Date(M/D/Y) | Materials inventory | (Receipts of material A) | Quantity(units) | Total value | Unit cost * | (Non-originating material) | Quantity(units) | Total value | Ratio | Sales(Shipments of good A) | Quantity(units)
+| Date (M/D/Y) | Materials inventory | (Receipts of material A) | Quantity (units) | Total value | Unit cost * | (Non-originating material) | Quantity (units) | Total value | Ratio | Sales (Shipments of good A) | Quantity (units)
 Receipt | 12/18/93 | 100 (O 1) | $100 | $1.00
 Receipt | 12/27/93 | 100 (N 2) | 110 | 1.10 | 100 | $110.00
 NEW AVERAGE INV. VALUE | | 200 (OI 3) | 210 | 1.05 | 100 | 105.00 | 0.50
@@ -2390,3 +2389,4 @@ For purposes of Generally Accepted Accounting Principles, the recognized consens
 (A) FASB Accounting Standards and Interpretations,
 (B) FASB Technical Bulletins, and
 (C) FASB Concepts Statements.
+[T.D. 95-68, 60 FR 46364, Sept. 6, 1995, as amended by T.D. 02-15, 67 FR 15482, Apr. 2, 2002; 67 FR 19810, Apr. 23, 2002; CBP Dec. 15-07, 80 FR 26830, May 11, 2015]
