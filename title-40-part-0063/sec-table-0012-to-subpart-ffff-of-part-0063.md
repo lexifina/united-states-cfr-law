@@ -78,7 +78,7 @@ Citation | Subject | Explanation
 63.9(h)(1)-(6) | Notification of Compliance Status | Yes, except § 63.9(h)(2)(i)(A) through (G) and (h)(2)(ii) do not apply because § 63.2520(d) specifies the required contents and due date of the notification of compliance status report.
 § 63.9(i) | Adjustment of Submittal Deadlines | Yes.
 § 63.9(j) | Change in previous information | Yes, for change in major source status, otherwise § 63.2520(e) specifies reporting requirements for process changes.
-§ 63.9(k) | Electronic reporting procedures | Yes, as specified in § 63.9(j).
+§ 63.9(k) | Electronic reporting procedures | Yes.
 § 63.10(a) | Recordkeeping/Reporting | Yes.
 § 63.10(b)(1) | Recordkeeping/Reporting | Yes.
 § 63.10(b)(2)(i) | Records related to startup and shutdown | No, see §§ 63.2450(e) and 63.2525 for recordkeeping requirements.
