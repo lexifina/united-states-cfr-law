@@ -40,8 +40,8 @@ Note to Supplement No. 6: While the items on this list are identified by ECCN ra
 (B.1.) A peak saturated power output greater than 130 W (51.2 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz;
 (B.2.) A peak saturated power output greater than 60 W (47.8 dBm) at any frequency exceeding 8.5 GHz up to and including 12 GHz.
 (iii) 3A002.g.1.
-(iv) 3D001—"Software" "specially designed" for the "development" or "production" of equipment controlled under 3A001.b.2, 3A001.b.3, equipment described under 3A001.b.2 or 3A001.b.3 that are controlled under 3A001.z, 3A002.g.1, and equipment described under 3A002.g.2 that are controlled under 3A002.z.
-(v) 3E001—"Technology" according to the General Technology Note for the "development" or "production" of equipment controlled under 3A001.b.2, 3A001.b.3, equipment described under 3A001.b.2 or 3A001.b.3 that are controlled under 3A001.z, 3A002.g.1, and equipment described under 3A002.g.2 that are controlled under 3A002.z.
+(iv) 3D001—"Software" "specially designed" for the "development" or "production" of equipment controlled under 3A001.b.2, 3A001.b.3, equipment described under 3A001.b.2 or 3A001.b.3 that are controlled under 3A001.z, and 3A002.g.1.
+(v) 3E001—"Technology" according to the General Technology Note for the "development" or "production" of equipment controlled under 3A001.b.2, 3A001.b.3, equipment described under 3A001.b.2 or 3A001.b.3 that are controlled under 3A001.z, and 3A002.g.1.
 (4) Category 4
 (i) 4A001.a.2.
 (ii) [Reserved]
