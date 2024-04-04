@@ -29,6 +29,7 @@ Citation | Subject | Brief description | Applies to subpart EEEE
 § 63.6(j) | Presidential Compliance Exemption | President may exempt any source from requirement to comply with this subpart | Yes.
 § 63.7(a)(2) | Performance Test Dates | Dates for conducting initial performance testing; must conduct 180 days after compliance date | Yes.
 § 63.7(a)(3) | Section 114 Authority | Administrator may require a performance test under CAA section 114 at any time | Yes.
+§ 63.7(a)(4) | Force Majeure—Performance Testing Delay | Requirements to claim a delay in conducting a performance test due to force majeure | Yes.
 § 63.7(b)(1) | Notification of Performance Test | Must notify Administrator 60 days before the test | Yes.
 § 63.7(b)(2) | Notification of Rescheduling | If you have to reschedule performance test, must notify Administrator of rescheduled date as soon as practicable and without delay | Yes.
 § 63.7(c) | Quality Assurance (QA)/Test Plan | Requirement to submit site-specific test plan 60 days before the test or on date Administrator agrees with; test plan approval procedures; performance audit requirements; internal and external QA procedures for testing | Yes.
@@ -70,7 +71,7 @@ Citation | Subject | Brief description | Applies to subpart EEEE
 § 63.9(h)(1)-(6) | Notification of Compliance Status | Contents due 60 days after end of performance test or other compliance demonstration, except for opacity/visible emissions, which are due 30 days after; when to submit to federal vs. state authority | Yes; however, (1) there are no opacity standards and (2) all initial Notification of Compliance Status, including all performance test data, are to be submitted at the same time, either within 240 days after the compliance date or within 60 days after the last performance test demonstrating compliance has been completed, whichever occurs first.
 § 63.9(i) | Adjustment of Submittal Deadlines | Procedures for Administrator to approve change in when notifications must be submitted | Yes.
 § 63.9(j) | Change in Previous Information | Must submit within 15 days after the change | Yes for change to major source status, other changes are reported in the first and subsequent compliance reports.
-§ 63.9(k) | Electronic reporting procedures | Procedure to report electronically for notification in § 63.9(j) | Yes, only as specified in § 63.9(j).
+§ 63.9(k) | Electronic reporting procedures | Procedure to report electronically for notifications and reports | Yes.
 § 63.10(a) | Recordkeeping/Reporting | Applies to all, unless compliance extension; when to submit to federal vs. state authority; procedures for owners of more than one source | Yes.
 § 63.10(b)(1) | Recordkeeping/Reporting | General requirements; keep all records readily available; keep for 5 years | Yes.
 § 63.10(b)(2)(i) | Records Related to Startup and Shutdown | Occurrence of each for operations (process equipment) | Yes, July 7, 2023. No, beginning on and after July 7, 2023.
