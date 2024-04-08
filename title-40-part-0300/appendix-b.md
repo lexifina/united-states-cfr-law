@@ -25,6 +25,7 @@ AZ | Hassayampa Landfill | Hassayampa
 AZ | Indian Bend Wash Area | Scottsdale/Tempe/Phoenix | P
 AZ | Iron King Mine—Humboldt Smelter | Dewey-Humboldt
 AZ | Litchfield Airport Area | Goodyear/Avondale
+AZ | Lukachukai Mountains Mining District | Cove, Navajo Nation
 AZ | Motorola, Inc. (52nd Street Plant) | Phoenix
 AZ | Tucson International Airport Area | Tucson
 CA | Advanced Micro Devices, Inc | Sunnyvale
@@ -49,7 +50,7 @@ CA | Fairchild Semiconductor Corp. (S San Jose) | South San Jose
 CA | Fresno Municipal Sanitary Landfill | Fresno
 CA | Frontier Fertilizer | Davis
 CA | Halaco Engineering Company | Oxnard
-CA | Hewlett-Packard (620–640 Page Mill Road) | Palo Alto
+CA | Hewlett-Packard (620-640 Page Mill Road) | Palo Alto
 CA | Industrial Waste Processing | Fresno
 CA | Intel Corp. (Mountain View Plant) | Mountain View
 CA | Intel Magnetics | Santa Clara
@@ -116,7 +117,7 @@ CO | Nelson Tunnel/Commodore Waste Rock | Creede
 CO | Standard Mine | Gunnison National Forest
 CO | Summitville Mine | Rio Grande County
 CO | Uravan Uranium Project (Union Carbide) | (former town of) Uravan | P*
-CO | Vasquez Boulevard and I–70 | Denver | P
+CO | Vasquez Boulevard and I-70 | Denver | P
 CT | Barkhamsted-New Hartford Landfill | Barkhamsted
 CT | Beacon Heights Landfill | Beacon Falls
 CT | Durham Meadows | Durham
@@ -212,6 +213,7 @@ IA | Des Moines TCE | Des Moines
 IA | Fairfield Coal Gasification Plant | Fairfield
 IA | Highway 3 PCE | Le Mars
 IA | Lawrence Todtz Farm | Camanche
+IA | Lot 46 Valley Gardens TCE | Des Moines
 IA | Mason City Coal Gasification Plant | Mason City
 IA | Midwest Manufacturing/North Farm | Kellogg | P
 IA | PCE Former Dry Cleaner | Atlantic
@@ -224,6 +226,7 @@ ID | Eastern Michaud Flats Contamination | Pocatello
 ID | Kerr-McGee Chemical Corp. (Soda Springs) | Soda Springs
 ID | Monsanto Chemical Co. (Soda Springs) | Soda Springs
 IL | Acme Solvent Reclaiming (Morristown Plant) | Morristown
+IL | Acme Steel Coke Plant | Chicago
 IL | Adams County Quincy Landfills 2&3 | Quincy
 IL | Amoco Chemicals (Joliet Landfill) | Joliet
 IL | ASARCO Taylor Springs | Taylor Springs
@@ -274,6 +277,7 @@ IN | Continental Steel Corp | Kokomo
 IN | Douglas Road/Uniroyal, Inc., Landfill | Mishawaka
 IN | Elm Street Ground Water Contamination | Terre Haute
 IN | Envirochem Corp | Zionsville
+IN | Federated Metals Corp Whiting | Hammond
 IN | Fisher-Calo | LaPorte
 IN | Fort Wayne Reduction Dump | Fort Wayne | P
 IN | Franklin Street Groundwater Contamination | Spencer
@@ -320,7 +324,6 @@ KY | B.F. Goodrich | Calvert City
 KY | Caldwell Lace Leather Co., Inc | Auburn
 KY | Distler Brickyard | West Point
 KY | Distler Farm | Jefferson County
-KY | Fort Hartford Coal Co. Stone Quarry | Olaton
 KY | Green River Disposal, Inc | Maceo
 KY | Maxey Flats Nuclear Disposal | Hillsboro
 KY | National Electric Coil/Cooper Industries | Dayhoit
@@ -330,10 +333,12 @@ LA | Agriculture Street Landfill | New Orleans | P
 LA | American Creosote DeRidder | DeRidder
 LA | American Creosote Works, Inc (Winnfield) | Winnfield
 LA | Bayou Bonfouca | Slidell
+LA | Capitol Lakes | Baton Rouge
 LA | Colonial Creosote | Bogalusa
 LA | Combustion, Inc | Denham Springs
 LA | Delta Shipyard | Houma
 LA | EVR-Wood Treating/Evangeline Refining Company | Jennings
+LA | Exide Baton Rouge | Baton Rouge
 LA | Madisonville Creosote Works | Madisonville
 LA | Marion Pressure Treating | Marion
 LA | Petro-Processors of Louisiana Inc | Scotlandville
@@ -384,7 +389,7 @@ ME | Saco Municipal Landfill | Saco
 ME | West Site/Hows Corners | Plymouth
 ME | Winthrop Landfill | Winthrop
 MI | Adam's Plating | Lansing
-MI | Aircraft Components (D & L Sales) | Benton Harbor | A
+MI | Aircraft Components (D & L Sales) | Benton Harbor | P
 MI | Albion-Sheridan Township Landfill | Albion
 MI | Allied Paper/Portage Ck/Kalamazoo River | Kalamazoo
 MI | American Anodco, Inc | Ionia
@@ -698,7 +703,7 @@ NJ | Syncon Resins | South Kearny
 NJ | U.S. Radium Corp | Orange | P
 NJ | Unimatic Manufacturing Corporation | Fairfield
 NJ | United States Avenue Burn | Gibbsboro
-NJ | Universal Oil Products (Chemical Division | East Rutherford
+NJ | Universal Oil Products (Chemical Division) | East Rutherford | P
 NJ | Ventron/Velsicol | Wood Ridge Borough
 NJ | Vineland Chemical Co., Inc | Vineland
 NJ | Waldick Aerospace Devices, Inc | Wall Township
@@ -753,7 +758,6 @@ NY | General Motors (Central Foundry Division) | Massena
 NY | Genzale Plating Co | Franklin Square
 NY | Goldisc Recordings, Inc | Holbrook
 NY | Gowanus Canal | Brooklyn
-NY | Haviland Complex | Town of Hyde Park
 NY | Hertel Landfill | Plattekill
 NY | Hooker (S Area) | Niagara Falls
 NY | Hooker Chemical/Ruco Polymer Corp | Hicksville
@@ -798,11 +802,10 @@ NY | Sealand Restoration, Inc | Lisbon
 NY | Shenandoah Road Ground Water Contamination | East Fishkill.
 NY | Sidney Landfill | Sidney
 NY | Sinclair Refinery | Wellsville
-NY | Smithtown Ground Water Contamination | Smithtown
 NY | Solvent Savers | Lincklaen
 NY | Stanton Cleaners Area Ground Water Contamination | Great Neck
 NY | Tri-Cities Barrel Co., Inc | Port Crane
-NY | Vestal Water Supply Well 1–1 | Vestal
+NY | Vestal Water Supply Well 1-1 | Vestal
 NY | Volney Municipal Landfill | Town of Volney
 NY | Wappinger Creek | Dutchess County
 NY | Wolff-Alport Chemical Company | Ridgewood
@@ -843,6 +846,7 @@ OH | West Troy Contaminated Aquifer | Troy
 OH | Zanesville Well Field | Zanesville
 OK | Double Eagle Refinery Co. | Oklahoma City
 OK | Eagle Industries | Midwest City
+OK | Fansteel Metals/FMRI | Muskogee | S
 OK | Fourth Street Abandoned Refinery | Okalahoma City
 OK | Hardage/Criner | Criner
 OK | Henryetta Iron and Metal | Henryetta
@@ -890,6 +894,7 @@ PA | Eastern Diversified Metals | Hometown
 PA | Elizabethtown Landfill | Elizabethtown
 PA | Fischer & Porter Co | Warminster
 PA | Foote Mineral Co | East Whiteland Township
+PA | Former Exide Technologies Laureldale | Laureldale
 PA | Franklin Slag Pile (MDC) | Philadelphia
 PA | Havertown PCP | Haverford
 PA | Heleva Landfill | North Whitehall Township
@@ -898,7 +903,7 @@ PA | Henderson Road | Upper Merion Township
 PA | Hunterstown Road | Straban Township
 PA | Industrial Lane | Williams Township
 PA | Jacks Creek/Sitkin Smelting and Refinery | Maitland
-PA | Jackson Ceramix | Falls Creek
+PA | Jackson Ceramix | Falls Creek | P
 PA | Keystone Sanitation Landfill | Union Township
 PA | Kimberton Site | Kimberton Borough
 PA | Lindane Dump | Harrison Township
@@ -1233,9 +1238,9 @@ FL | Cecil Field Naval Air Station | Jacksonville | P
 FL | Homestead Air Force Base | Homestead
 FL | Jacksonville Naval Air Station | Jacksonville
 FL | Pensacola Naval Air Station | Pensacola
-FL | Tyndall Air Force Base | Panama City
+FL | Tyndall Air Force Base | Panama City | P
 FL | Whiting Field Naval Air Station | Milton
-GA | Marine Corps Logistics Base | Albany
+GA | Marine Corps Logistics Base | Albany | P
 GA | Robins Air Force Base(Lf#4/Sludge Lagoon | Houston County
 GU | Andersen Air Force Base | Yigo
 HI | Naval Computer & Telecommunications Area | Oahu
@@ -1268,7 +1273,6 @@ MD | Indian Head Naval Surface Warfare Center | Indian Head
 MD | Patuxent River Naval Air Station | St. Mary's County
 ME | Brunswick Naval Air Station | Brunswick
 ME | Loring Air Force Base | Limestone
-ME | Portsmouth Naval Shipyard | Kittery
 MN | Naval Industrial Reserve Ordnance Plant | Fridley | P
 MN | New Brighton/Arden Hills/TCAAP (USARMY) | New Brighton | P
 MO | Lake City Army Ammu. Plant (NW Lagoon) | Independence
