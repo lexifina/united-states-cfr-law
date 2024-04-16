@@ -14,7 +14,7 @@ Travel Type | CONUS/Domestic | Travel within continental United States.
 | OCONUS/Domestic | Travel outside the continental United States.
 | Foreign | Travel to other countries.
 Leave Indicator | Annual, Sick, Other | Identifies leave type as the reason for an interruption of per diem entitlement.
-Official Station | City, State, Zip | The location where the employee regularly performs his or her duties or an invitational traveler's home or regular place of business. If the employee's work involves recurring travel or varies on a recurring basis, the location where the work activities of the employee's position of record are based is considered the employee's official station.
+Official Station | City, State, Zip | The location where the employee regularly performs their duties or an invitational traveler's home or regular place of business. If the employee's work involves recurring travel or varies on a recurring basis, the location where the work activities of the employee's position of record are based is considered the employee's official station.
 Residence | State, Zip, City | The geographical location where employee resides, if different from official station.
 Payment Method | EFT | Direct deposit via electronic funds transfer.
 | Treasury Check | Payment made by Treasury check.
@@ -28,8 +28,8 @@ Method Indicator | GTR | U.S. Government Transportation Request
 | Government Charge Card | In accordance with and as provided by agency guidelines
 | Cash |
 Transportation Payment Identification Number | Payment ID Number | A number that identifies the payment for the transportation tickets, according to agency guidelines, e.g., GTR number, Govt. contractor-issued charge card number
-Transportation Method Indicator | Air (other than coach-class) | Common carrier used as transportation to TDY location
-| Air (coach-class) |
+Transportation Method Indicator | Air (other than coach class) | Common carrier used as transportation to TDY location
+| Air (coach class) |
 | Non-contract Air, Train, Other |
 Transportation in Performance of TDY or While at the TDY Location | POV, Car rental, Taxi, TNC, Innovative mobility technology company, Other | Identifies transportation used while in the performance of TDY or while at the TDY location
 Travel Expense Information
@@ -42,8 +42,8 @@ Travel Advance | Advance Outstanding | The amount of travel advance outstanding,
 Subsistence | Actual Days | Total number of days the employee charged actual subsistence expenses
 | | The number of days must be expressed as a whole number
 | Total Actual Amount | Total amount of actual subsistence expenses claimed as authorized. Actual subsistence rate, per day, may not exceed the maximum subsistence expense rate established for official travel by the Federal Travel Regulation
-Transportation Method Cost | Air (other than coach-class) | The amount of money the transportation actually cost the traveler, entered according to method of transportation
-| Air (coach-class)
+Transportation Method Cost | Air (other than coach class) | The amount of money the transportation actually cost the traveler, entered according to method of transportation
+| Air (coach class)
 | Non-contract Air, Train
 | Other | Bus or other form of transportation
 Transportation in Performance of TDY or While at the TDY Location | POV mileage | Total number of miles driven in POV
