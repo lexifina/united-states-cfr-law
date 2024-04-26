@@ -70,6 +70,12 @@ D. Synthetic Organic Chemicals (SOCs)
 28. Polychlorinated biphenyls (PCBs) | 2 | 141.61(c) | 3 | 141.24(h)
 29. Simazine | 2 | 141.61(c) | 3 | 141.24(h)
 30. Toxaphene | 2 | 141.61(c) | 3 | 141.24(h)
+31. Hazard Index PFAS | 23 * 2 | 141.61(c) | 3 | 141.905(c)
+32. HFPO-DA | * 2 | 141.61(c) | 3 | 141.905(c)
+33. PFHxS | * 2 | 141.61(c) | 3 | 141.905(c)
+34. PFNA | * 2 | 141.61(c) | 3 | 141.905(c)
+35. PFOA | * 2 | 141.61(c) | 3 | 141.905(c)
+36. PFOS | * 2 | 141.61(c) | 3 | 141.905(c)
 E. Volatile Organic Chemicals (VOCs)
 1. Benzene | 2 | 141.61(a) | 3 | 141.24(f)
 2. Carbon tetrachloride | 2 | 141.61(a) | 3 | 141.24(f)
@@ -129,6 +135,7 @@ G. Other situations as determined by primacy agency | 21 1, 2, 3 | N/A | N/A | N
 Appendix A—Endnotes
 † Until March 31, 2016.
 ‡ Beginning April 1, 2016.
+* Beginning April 26, 2029.
 1. Violations and other situations not listed in this table (e.g., failure to prepare Consumer Confidence Reports), do not require notice, unless otherwise determined by the primacy agency. Primacy agencies may, at their option, also require a more stringent public notice tier (e.g., Tier 1 instead of Tier 2 or Tier 2 instead of Tier 3) for specific violations and situations listed in this Appendix, as authorized under § 141.202(a) and § 141.203(a).
 2. MCL—Maximum contaminant level, MRDL—Maximum residual disinfectant level, TT—Treatment technique
 3. The term Violations of National Primary Drinking Water Regulations (NPDWR) is used here to include violations of MCL, MRDL, treatment technique, monitoring, and testing procedure requirements.
@@ -151,3 +158,4 @@ Appendix A—Endnotes
 20. Other waterborne emergencies require a Tier 1 public notice under § 141.202(a) for situations that do not meet the definition of a waterborne disease outbreak given in 40 CFR 141.2 but that still have the potential to have serious adverse effects on health as a result of short-term exposure. These could include outbreaks not related to treatment deficiencies, as well as situations that have the potential to cause outbreaks, such as failures or significant interruption in water treatment processes, natural disasters that disrupt the water supply or distribution system, chemical spills, or unexpected loading of possible pathogens into the source water.
 21. Primacy agencies may place other situations in any tier they believe appropriate, based on threat to public health.
 22. Failure to collect three or more samples for Cryptosporidium analysis is a Tier 2 violation requiring special notice as specified in § 141.211. All other monitoring and testing procedure violations are Tier 3.
+23. Systems that violate the Hazard Index MCL and one or more individual MCLs based on the same contaminants may issue one notification to satisfy the public notification requirements for multiple violations pursuant to § 141.203.
