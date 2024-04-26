@@ -4,6 +4,7 @@ CWS Community Water System
 DBP Disinfection Byproduct
 EPA Environmental Protection Agency
 GWR Ground Water Rule
+HI Hazard Index
 HPC Heterotrophic Plate Count
 IESWTR Interim Enhanced Surface Water Treatment Rule
 IOC Inorganic Chemical
@@ -18,6 +19,7 @@ NTNCWS Non-Transient Non-Community Water System
 NTU Nephelometric Turbidity Unit
 OGWDW Office of Ground Water and Drinking Water
 OW Office of Water
+PFAS Per- and Polyfluoroalkyl Substances
 PN Public Notification
 PWS Public Water System
 SDWA Safe Drinking Water Act
