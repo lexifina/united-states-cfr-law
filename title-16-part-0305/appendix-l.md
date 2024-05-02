@@ -7,9 +7,12 @@ ER21DE11.065
 ER30OC19.005
 ER30OC19.006
 ER02NO15.002
-ER27MR15.000
-ER27MR15.001
-ER27MR15.002
+ER02FE24.000
+Prototype Label 8, Triangular Television Label
+ER02FE24.001
+Prototype Label 9, Horizontal Rectangular Television Label
+ER02FE24.002
+Prototype Label 10, Vertical Rectangular Television Label
 ER12OC22.006
 ER12OC22.007
 ER12OC22.008
@@ -26,8 +29,11 @@ ER23JY13.022
 ER23JY13.023
 ER23JY13.024
 ER30OC19.010
-ER27MR15.003
-ER27MR15.004
-ER27MR15.005
+ER02FE24.003
+Sample Label 14, Triangular Television Labels
+ER02FE24.004
+Sample Label 15, Vertical Television Labels
+ER02FE24.005
+Sample Label 16, Horizontal Television Labels
 ER28OC16.065
 ER23JY13.028
