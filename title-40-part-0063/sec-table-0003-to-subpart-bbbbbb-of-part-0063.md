@@ -108,3 +108,10 @@ Citation | Subject | Brief description | Applies to subpart BBBBBB
 § 63.13 | Addresses | Addresses where reports, notifications, and requests are sent | Yes.
 § 63.14 | Incorporations by Reference | Test methods incorporated by reference | Yes.
 § 63.15 | Availability of Information | Public and confidential information | Yes.
+At 89 FR 39386, May 8, 2024, part 63, subpart BBBBBB, table 3 was revised, effective July 8, 2024. For the convenience of the user, the revised text is set forth as follows:
+Table 3 to Subpart BBBBBB of Part 63—Emission Limitations and Requirements for Large Bulk Gasoline Terminals Based on Control System Used
+Table 3 to Subpart BBBBBB of Part 63—Emission Limitations and Requirements for Large Bulk Gasoline Terminals Based on Control System Used
+If you operate... | Then you must...
+1. A thermal oxidation system | (a) Reduce emissions of TOC to less than or equal to 35 mg/l of liquid product loaded into gasoline cargo tanks at the loading rack; and (b) Continuously meet the applicable operating limit as specified in § 63.11092(e)(2).
+2. A flare | Operate the flare following the applicable requirements specified in § 60.502a(c)(3) of this chapter.
+3. A carbon adsorption system, refrigerated condenser, or other vapor recovery system. | (a) Reduce emissions of TOC to less than or equal to 19,200 parts per million by volume as propane determined on a 3-hour rolling average considering all periods when the vapor recovery system is capable of processing gasoline vapors, including periods when liquid product is being loaded, during carbon bed regeneration, and when preparing the beds for reuse. (b) Operate the vapor recovery system to minimize air or nitrogen intrusion except as needed for the system to operate as designed for the purpose of removing VOC from the adsorption media or to break vacuum in the system and bring the system back to atmospheric pressure. Consistent with § 63.4, the use of diluents to achieve compliance with a relevant standard based on the concentration of a pollutant in the effluent discharged to the atmosphere is prohibited.
