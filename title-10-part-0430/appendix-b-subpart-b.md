@@ -38,8 +38,7 @@ Mid | Below standard reference temperature | Warmest | Below standard reference 
 | | | Above standard reference temperature | Model may not be certified as compliant with energy conservation standards based on testing of this unit. Confirm that unit meets product definition. If so, see section 6 of this appendix.
 5.3. Test Cycle Energy Calculations
 Section 5.8.2, Energy Consumption, of HRF-1-2019 applies to this test procedure, except as follows:
-(a) For freezers: To demonstrate compliance with the energy conservation standards at 10 CFR 430.32(a) applicable to products manufactured on or after September 15, 2014, IET, expressed in kilowatt-hours per cycle, equals 0.23 for a product with one or more automatic icemakers and otherwise equals 0 (zero).
-(b) In place of section 5.8.2.1.2 of HRF-1-2019, use the calculations provided in this section. For units with long-time automatic defrost control using the two-part test period, the test cycle energy shall be calculated as:
+(a) In place of section 5.8.2.1.2 of HRF-1-2019, use the calculations provided in this section. For units with long-time automatic defrost control using the two-part test period, the test cycle energy shall be calculated as:
 ER12OC21.007
 Where:
 ET = test cycle energy expended in kilowatt-hours per day;
@@ -50,7 +49,7 @@ EP2 = energy expended in kilowatt-hours during the second part of the test;
 T1 and T2 = length of time in minutes of the first and second test parts, respectively;
 CT = defrost timer run time or compressor run time between defrosts in hours required to go through a complete cycle, rounded to the nearest tenth of an hour;
 12 = factor to adjust for a 50-percent run time of the compressor in hours per day.
-(c) In place of sections 5.8.2.1.3 and 5.8.2.1.4 of HRF-1-2019, use the calculations provided in this section. For units with variable defrost control, the test cycle energy shall be calculated as set forth in section 5.3(a) of this appendix with the following addition:
+(b) In place of sections 5.8.2.1.3 and 5.8.2.1.4 of HRF-1-2019, use the calculations provided in this section. For units with variable defrost control, the test cycle energy shall be calculated as set forth in section 5.3(a) of this appendix with the following addition:
 CT shall be calculated equivalent to:
 ER12OC21.008
 Where:
@@ -58,5 +57,7 @@ CT L = the least or shortest compressor run time between defrosts used in the va
 CT M = the maximum compressor run time between defrosts in hours rounded to the nearest tenth of an hour (greater than CT L but not more than 96 hours);
 For variable defrost models with no values of CT L and CT M in the algorithm, the default values of 6 and 96 shall be used, respectively.
 F = ratio of per day energy consumption in excess of the least energy and the maximum difference in per-day energy consumption and is equal to 0.20.
+5.4. Icemaker Energy Use
+For freezers: To demonstrate compliance with the energy conservation standards at § 430.32(a) applicable to products manufactured on or after September 15, 2014, but before the compliance date of any amended standards published after January 1, 2022, IET, expressed in kilowatt-hours per cycle, equals 0.23 for a product with one or more automatic icemakers and otherwise equals 0 (zero). To demonstrate compliance with any amended standards published after January 1, 2022, IET, expressed in kilowatt-hours per cycle, is as defined in section 5.9.2.1 of HRF-1-2019.
 6. Test Procedure Waivers
 To the extent that the procedures contained in this appendix do not provide a means for determining the energy consumption of a basic model, a manufacturer must obtain a waiver under § 430.27 to establish an acceptable test procedure for each such basic model. Such instances could, for example, include situations where the test setup for a particular basic model is not clearly defined by the provisions of this appendix. For details regarding the criteria and procedures for obtaining a waiver, please refer to § 430.27.
