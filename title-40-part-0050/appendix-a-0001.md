@@ -1,4 +1,4 @@
-# Appendix A–1 to Part 50—Reference Measurement Principle and Calibration Procedure for the Measurement of Sulfur Dioxide in the Atmosphere (Ultraviolet Fluorescence Method)
+# Appendix A-1 to Part 50—Reference Measurement Principle and Calibration Procedure for the Measurement of Sulfur Dioxide in the Atmosphere (Ultraviolet Fluorescence Method)
 1.0 Applicability
 1.1 This ultraviolet fluorescence (UVF) method provides a measurement of the concentration of sulfur dioxide (SO 2) in ambient air for determining compliance with the national primary and secondary ambient air quality standards for sulfur oxides (sulfur dioxide) as specified in § 50.4, § 50.5, and § 50.17 of this chapter. The method is applicable to the measurement of ambient SO 2 concentrations using continuous (real-time) sampling. Additional quality assurance procedures and guidance are provided in part 58, appendix A, of this chapter and in Reference 3.
 2.0 Principle
@@ -44,8 +44,8 @@ Note: Additional information on calibration and pollutant standards is provided 
 5.0 Frequency of Calibration
 The frequency of calibration, as well as the number of points necessary to establish the calibration curve and the frequency of other performance checking will vary by analyzer; however, the minimum frequency, acceptance criteria, and subsequent actions are specified in Reference 3, Appendix D: Measurement Quality Objectives and Validation Template for SO 2 (page 9 of 30). The user's quality control program should provide guidelines for initial establishment of these variables and for subsequent alteration as operational experience is accumulated. Manufacturers of analyzers should include in their instruction/operation manuals information and guidance as to these variables and on other matters of operation, calibration, routine maintenance, and quality control.
 6.0 References for SO 2 Method
-1. H. Okabe, P. L. Splitstone, and J. J. Ball, "Ambient and Source SO 2 Detector Based on a Fluorescence Method", Journal of the Air Control Pollution Association, vol. 23, p. 514–516 (1973).
-2. F. P. Schwarz, H. Okabe, and J. K. Whittaker, "Fluorescence Detection of Sulfur Dioxide in Air at the Parts per Billion Level," Analytical Chemistry, vol. 46, pp. 1024–1028 (1974).
+1. H. Okabe, P. L. Splitstone, and J. J. Ball, "Ambient and Source SO 2 Detector Based on a Fluorescence Method", Journal of the Air Control Pollution Association, vol. 23, p. 514-516 (1973).
+2. F. P. Schwarz, H. Okabe, and J. K. Whittaker, "Fluorescence Detection of Sulfur Dioxide in Air at the Parts per Billion Level," Analytical Chemistry, vol. 46, pp. 1024-1028 (1974).
 3. QA Handbook for Air Pollution Measurement Systems—Volume II. Ambient Air Quality Monitoring Programs. U.S.
 ER22JN10.002
 ER22JN10.003

@@ -1,4 +1,4 @@
-# Appendix A–2 to Part 50—Reference Method for the Determination of Sulfur Dioxide in the Atmosphere (Pararosaniline Method)
+# Appendix A-2 to Part 50—Reference Method for the Determination of Sulfur Dioxide in the Atmosphere (Pararosaniline Method)
 1.0 Applicability.
 1.1 This method provides a measurement of the concentration of sulfur dioxide (SO 2) in ambient air for determining compliance with the primary and secondary national ambient air quality standards for sulfur oxides (sulfur dioxide) as specified in § 50.4 and § 50.5 of this chapter. The method is applicable to the measurement of ambient SO 2 concentrations using sampling periods ranging from 30 minutes to 24 hours. Additional quality assurance procedures and guidance are provided in part 58, appendixes A and B, of this chapter and in references 1 and 2.
 2.0 Principle.
@@ -16,7 +16,7 @@
 • The day-to-day variability between two or more laboratories (reproducibility) varies linearly with concentration from ±36.9 µg/m 3 at levels of 100 µg/m 3 to ±103.5 µ g/m 3 at levels of 400 µg/m 3.
 • The method has a concentration-dependent bias, which becomes significant at the 95 percent confidence level at the high concentration level. Observed values tend to be lower than the expected SO 2 concentration level.
 6.0 Stability.
-6.1 By sampling in a controlled temperature environment of 15° ±10 °C, greater than 98.9 percent of the SO 2 –TCM complex is retained at the completion of sampling. (15) If kept at 5 °C following the completion of sampling, the collected sample has been found to be stable for up to 30 days. (10) The presence of EDTA enhances the stability of SO 2 in the TCM solution and the rate of decay is independent of the concentration of SO 2. (16)
+6.1 By sampling in a controlled temperature environment of 15° ±10 °C, greater than 98.9 percent of the SO 2 -TCM complex is retained at the completion of sampling. (15) If kept at 5 °C following the completion of sampling, the collected sample has been found to be stable for up to 30 days. (10) The presence of EDTA enhances the stability of SO 2 in the TCM solution and the rate of decay is independent of the concentration of SO 2. (16)
 7.0 Apparatus.
 7.1 Sampling.
 7.1.1 Sample probe: A sample probe meeting the requirements of section 7 of 40 CFR part 58, appendix E (Teflon ® or glass with residence time less than 20 sec.) is used to transport ambient air to the sampling train location. The end of the probe should be designed or oriented to preclude the sampling of precipitation, large particles, etc. A suitable probe can be constructed from Teflon ® tubing connected to an inverted funnel.
@@ -97,14 +97,14 @@ This solution is stable for 30 days if kept at 5 °C. (16) If not kept at 5 °C,
 8.2.12.4 PRA assay procedure —The concentration of pararosaniline hydrochloride (PRA) need be assayed only once after purification. It is also recommended that commercial solutions of pararosaniline be assayed when first purchased. The assay procedure is as follows:(10)
 1. Prepare 1 M acetate-acetic acid buffer stock solution with a pH of 4.79 by dissolving 13.61 g of sodium acetate trihydrate in distilled water in a 100-mL volumetric flask. Add 5.70 mL of glacial acetic acid and dilute to volume with distilled water.
 2. Pipet 1 mL of the stock PRA solution obtained from the purification process or from a commercial source into a 100-mL volumetric flask and dilute to volume with distilled water.
-3. Transfer a 5–mL aliquot of the diluted PRA solution from 2. into a 50–mL volumetric flask. Add 5mL of 1 M acetate-acetic acid buffer solution from 1. and dilute the mixture to volume with distilled water. Let the mixture stand for 1 hour.
+3. Transfer a 5-mL aliquot of the diluted PRA solution from 2. into a 50-mL volumetric flask. Add 5mL of 1 M acetate-acetic acid buffer solution from 1. and dilute the mixture to volume with distilled water. Let the mixture stand for 1 hour.
 4. Measure the absorbance of the above solution at 540 nm with a spectrophotometer against a distilled water reference. Compute the percentage of nominal concentration of PRA by
 EC08NO91.005
 where:
 A = measured absorbance of the final mixture (absorbance units);
 W = weight in grams of the PRA dye used in the assay to prepare 50 mL of stock solution (for example, 0.100 g of dye was used to prepare 50 mL of solution in the purification procedure; when obtained from commercial sources, use the stated concentration to compute W; for 98% PRA, W =.098 g.); and
 K = 21.3 for spectrophotometers having a spectral bandwidth of less than 15 nm and a path length of 1 cm.
-8.2.13 Pararosaniline reagent: To a 250–mL volumetric flask, add 20 mL of stock PRA solution. Add an additional 0.2 mL of stock solution for each percentage that the stock assays below 100 percent. Then add 25 mL of 3 M phosphoric acid and dilute to volume with distilled water. The reagent is stable for at least 9 months. Store away from heat and light.
+8.2.13 Pararosaniline reagent: To a 250-mL volumetric flask, add 20 mL of stock PRA solution. Add an additional 0.2 mL of stock solution for each percentage that the stock assays below 100 percent. Then add 25 mL of 3 M phosphoric acid and dilute to volume with distilled water. The reagent is stable for at least 9 months. Store away from heat and light.
 9.0 Sampling Procedure.
 9.1 General Considerations. Procedures are described for short-term sampling (30-minute and 1-hour) and for long-term sampling (24-hour). Different combinations of absorbing reagent volume, sampling rate, and sampling time can be selected to meet special needs. For combinations other than those specifically described, the conditions must be adjusted so that linearity is maintained between absorbance and concentration over the dynamic range. Absorbing reagent volumes less than 10 mL are not recommended. The collection efficiency is above 98 percent for the conditions described; however, the efficiency may be substantially lower when sampling concentrations below 25 µγSO 2 /m 3.(8,9)
 9.2 30-Minute and 1-Hour Sampling. Place 10 mL of TCM absorbing reagent in a midget impinger and seal the impinger with a thin film of silicon stopcock grease (around the ground glass joint). Insert the sealed impinger into the sampling train as shown in Figure 1, making sure that all connections between the various components are leak tight. Greaseless ball joint fittings, heat shrinkable Teflon ® tubing, or Teflon ® tube fittings may be used to attain leakfree conditions for portions of the sampling train that come into contact with air containing SO 2. Shield the absorbing reagent from direct sunlight by covering the impinger with aluminum foil or by enclosing the sampling train in a light-proof box. Determine the flow rate according to Section 9.4.2. Collect the sample at 1 ±0.10 L/min for 30-minute sampling or 0.500 ±0.05 L/min for 1-hour sampling. Record the exact sampling time in minutes, as the sample volume will later be determined using the sampling flow rate and the sampling time. Record the atmospheric pressure and temperature.
@@ -233,7 +233,7 @@ A = corrected absorbance of the sample solution, from equation (10);
 A o = corrected absorbance of the reagent blank, using equation (10);
 B X = calibration factor equal to B s, B g, or B t depending on the calibration procedure used, the reciprocal of the slope of the calibration equation;
 V a = volume of absorber solution analyzed, mL;
-V b = total volume of solution in absorber (see 11.1–2), mL; and
+V b = total volume of solution in absorber (see 11.1-2), mL; and
 V std = standard air volume sampled, std L (from Section 12.2).
 Data Form
 [For hand calculations]
@@ -275,8 +275,8 @@ ER31AU93.023
 4. Transfer the elemental mercury that has settled to the bottom of the vessel to a storage container.
 5. The mercury can be sent to a mercury reclaiming plant. It must not be discarded.
 14.0 References for SO 2 Method.
-1. Quality Assurance Handbook for Air Pollution Measurement Systems, Volume I, Principles. EPA–600/9–76–005, U.S. Environmental Protection Agency, Research Triangle Park, NC 27711, 1976.
-2. Quality Assurance Handbook for Air Pollution Measurement Systems, Volume II, Ambient Air Specific Methods. EPA–600/4–77–027a, U.S. Environmental Protection Agency, Research Triangle Park, NC 27711, 1977.
+1. Quality Assurance Handbook for Air Pollution Measurement Systems, Volume I, Principles. EPA-600/9-76-005, U.S. Environmental Protection Agency, Research Triangle Park, NC 27711, 1976.
+2. Quality Assurance Handbook for Air Pollution Measurement Systems, Volume II, Ambient Air Specific Methods. EPA-600/4-77-027a, U.S. Environmental Protection Agency, Research Triangle Park, NC 27711, 1977.
 3. Dasqupta, P. K., and K. B. DeCesare. Stability of Sulfur Dioxide in Formaldehyde and Its Anomalous Behavior in Tetrachloromercurate (II). Submitted for publication in Atmospheric Environment, 1982.
 4. West, P. W., and G. C. Gaeke. Fixation of Sulfur Dioxide as Disulfitomercurate (II) and Subsequent Colorimetric Estimation. Anal. Chem., 28:1816, 1956.
 5. Ephraim, F. Inorganic Chemistry. P. C. L. Thorne and E. R. Roberts, Eds., 5th Edition, Interscience, 1948, p. 562.
@@ -288,12 +288,12 @@ ER31AU93.023
 11. Pate, J. B., B. E. Ammons, G. A. Swanson, and J. P. Lodge, Jr. Nitrite Interference in Spectrophotometric Determination of Atmospheric Sulfur Dioxide. Anal. Chem., 37:942, 1965.
 12. Zurlo, N., and A. M. Griffini. Measurement of the Sulfur Dioxide Content of the Air in the Presence of Oxides of Nitrogen and Heavy Metals. Medicina Lavoro, 53:330, 1962.
 13. Rehme, K. A., and F. P. Scaringelli. Effect of Ammonia on the Spectrophotometric Determination of Atmospheric Concentrations of Sulfur Dioxide. Anal. Chem., 47:2474, 1975.
-14. McCoy, R. A., D. E. Camann, and H. C. McKee. Collaborative Study of Reference Method for Determination of Sulfur Dioxide in the Atmosphere (Pararosaniline Method) (24-Hour Sampling). EPA–650/4–74–027, U.S. Environmental Protection Agency, Research Triangle Park, NC 27711, December 1973.
-15. Fuerst, R. G. Improved Temperature Stability of Sulfur Dioxide Samples Collected by the Federal Reference Method. EPA–600/4–78–018, U.S. Environmental Protection Agency, Research Triangle Park, NC 27711, April 1978.
+14. McCoy, R. A., D. E. Camann, and H. C. McKee. Collaborative Study of Reference Method for Determination of Sulfur Dioxide in the Atmosphere (Pararosaniline Method) (24-Hour Sampling). EPA-650/4-74-027, U.S. Environmental Protection Agency, Research Triangle Park, NC 27711, December 1973.
+15. Fuerst, R. G. Improved Temperature Stability of Sulfur Dioxide Samples Collected by the Federal Reference Method. EPA-600/4-78-018, U.S. Environmental Protection Agency, Research Triangle Park, NC 27711, April 1978.
 16. Scaringelli, F. P., L. Elfers, D. Norris, and S. Hochheiser. Enhanced Stability of Sulfur Dioxide in Solution. Anal. Chem., 42:1818, 1970.
-17. Martin, B. E. Sulfur Dioxide Bubbler Temperature Study. EPA–600/4–77–040, U.S. Environmental Protection Agency, Research Triangle Park, NC 27711, August 1977.
+17. Martin, B. E. Sulfur Dioxide Bubbler Temperature Study. EPA-600/4-77-040, U.S. Environmental Protection Agency, Research Triangle Park, NC 27711, August 1977.
 18. American Society for Testing and Materials. ASTM Standards, Water; Atmospheric Analysis. Part 23. Philadelphia, PA, October 1968, p. 226.
 19. O'Keeffe, A. E., and G. C. Ortman. Primary Standards for Trace Gas Analysis. Anal. Chem., 38:760, 1966.
 20. Scaringelli, F. P., S. A. Frey, and B. E. Saltzman. Evaluation of Teflon Permeation Tubes for Use with Sulfur Dioxide. Amer. Ind. Hygiene Assoc. J., 28:260, 1967.
 21. Scaringelli, F. P., A. E. O'Keeffe, E. Rosenberg, and J. P. Bell, Preparation of Known Concentrations of Gases and Vapors With Permeation Devices Calibrated Gravimetrically. Anal. Chem., 42:871, 1970.
-22. A Procedure for Establishing Traceability of Gas Mixtures to Certain National Bureau of Standards Standard Reference Materials. EPA–600/7–81–010, U.S. Environmental Protection Agency, Environmental Monitoring Systems Laboratory (MD–77), Research Triangle Park, NC 27711, January 1981.
+22. A Procedure for Establishing Traceability of Gas Mixtures to Certain National Bureau of Standards Standard Reference Materials. EPA-600/7-81-010, U.S. Environmental Protection Agency, Environmental Monitoring Systems Laboratory (MD-77), Research Triangle Park, NC 27711, January 1981.
