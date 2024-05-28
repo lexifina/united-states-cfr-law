@@ -1,4 +1,4 @@
-# Table C–2 to Subpart C of Part 53—Sequence of Test Measurements
+# Table C-2 to Subpart C of Part 53—Sequence of Test Measurements
 Measurement | Concentration range | First set | Second set
 1 | Low | Medium.
 2 | High | High.

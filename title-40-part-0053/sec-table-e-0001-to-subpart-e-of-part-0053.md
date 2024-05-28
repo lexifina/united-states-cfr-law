@@ -1,4 +1,4 @@
-# Table E–1 to Subpart E of Part 53—Summary of Test Requirements for Reference and Class I Equivalent Methods for PM 2.5 and PM 10–2.5
+# Table E-1 to Subpart E of Part 53—Summary of Test Requirements for Reference and Class I Equivalent Methods for PM 2.5 and PM 10-2.5
 Subpart E procedure | Performance test | Performance specification | Test conditions | Part 50, appendix L reference
 § 53.52 Sample leak check test | Sampler leak check facility | External leakage: 80 mL/min, max Internal leakage: 80 mL/min, max | Controlled leak flow rate of 80 mL/min | Sec. 7.4.6.
 § 53.53 Base flow rate test | Sample flow rate 1. Mean 2. Regulation 3. Meas accuracy 4. CV accuracy 5. Cut-off | 1. 16.67 ±5%, L/min 2. 2%, max 3. 2%, max 4. 0.3% max 5. Flow rate cut-off if flow rate deviates more than 10% from design flow rate for >60 ±30 seconds | (a) 6-hour normal operational test plus flow rate cut-off test (b) Normal conditions (c) Additional 55 mm Hg pressure drop to simulate loaded filter (d) Variable flow restriction used for cut-off test | Sec. 7.4.1. Sec. 7.4.2. Sec. 7.4.3. Sec. 7.4.4. Sec. 7.4.5.

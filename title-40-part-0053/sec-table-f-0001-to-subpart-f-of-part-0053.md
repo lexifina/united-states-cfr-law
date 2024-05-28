@@ -1,4 +1,4 @@
-# Table F–1 to Subpart F of Part 53—Performance Specifications for PM 2.5 Class II Equivalent Samplers
+# Table F-1 to Subpart F of Part 53—Performance Specifications for PM 2.5 Class II Equivalent Samplers
 Performance test | Specifications | Acceptance criteria
 § 53.62 Full Wind Tunnel Evaluation | Solid VOAG produced aerosol at 2 km/hr and 24 km/hr | Dp 50 = 2.5 µm ±0.2 µm Numerical Analysis Results: 95% ≤R c ≤105%.
 § 53.63 Wind Tunnel Inlet Aspiration Test | Liquid VOAG produced aerosol at 2 km/hr and 24 km/hr | Relative Aspiration: 95% ≤A ≤105%.

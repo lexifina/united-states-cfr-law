@@ -1,4 +1,4 @@
-# Figure F–1 to Subpart F of Part 53—Designation Testing Checklist
+# Figure F-1 to Subpart F of Part 53—Designation Testing Checklist
 DESIGNATION TESTING CHECKLIST FOR CLASS II
 __________ __________ __________
 Auditee Auditor signature Date

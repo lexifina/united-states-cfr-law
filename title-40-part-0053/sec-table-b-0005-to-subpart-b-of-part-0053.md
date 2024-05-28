@@ -1,4 +1,4 @@
-# Table B–5 to Subpart B of Part 53—Symbols and Abbreviations
+# Table B-5 to Subpart B of Part 53—Symbols and Abbreviations
 B L —Analyzer reading at the specified LDL test concentration for the LDL test.
 B Z —analyzer reading at 0 concentration for the LDL test.
 DM —Digital meter.

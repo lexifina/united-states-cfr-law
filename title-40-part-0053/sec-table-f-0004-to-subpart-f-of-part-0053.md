@@ -1,4 +1,4 @@
-# Table F–4 to Subpart F of Part 53—Estimated Mass Concentration Measurement of PM 2.5 for Idealized Coarse Aerosol Size Distribution
+# Table F-4 to Subpart F of Part 53—Estimated Mass Concentration Measurement of PM 2.5 for Idealized Coarse Aerosol Size Distribution
 Particle Aerodynamic Diameter (µm) | Test Sampler | Fractional Sampling Effectiveness | Interval Mass Concentration (µg/m 3) | Estimated Mass Concentration Measurement (µg/m 3) | Ideal Sampler | Fractional Sampling Effectiveness | Interval Mass Concentration (µg/m 3) | Estimated Mass Concentration Measurement (µg/m 3)
 (1) | (2) | (3) | (4) | (5) | (6) | (7)
 <0.500 | 1.000 | 6.001 | | 1.000 | 6.001 | 6.001

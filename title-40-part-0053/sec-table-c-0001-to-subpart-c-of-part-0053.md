@@ -1,4 +1,4 @@
-# Table C–1 to Subpart C of Part 53—Test Concentration Ranges, Number of Measurements Required, and Maximum Discrepancy Specifications
+# Table C-1 to Subpart C of Part 53—Test Concentration Ranges, Number of Measurements Required, and Maximum Discrepancy Specifications
 Pollutant | Concentration range, parts per million (ppm) | Simultaneous measurements required | 1-hour | First set | Second set | 24-hour | First set | Second set | Maximum discrepancy specification, parts per million
 Ozone | Low 0.06 to 0.10 | 5 | 6 | | | 0.02
 | Med. 0.15 to 0.25 | 5 | 6 | | | 0.03
