@@ -3,6 +3,7 @@ Gear Codes, Descriptions, and Use
 (X indicates where this code is used)
 Name of gear | Use alphabetic code to complete the following: | Alpha gear code | NMFS logbooks | Electronic check-in/ check-out | Use numeric code to complete the following: | Numeric gear code | IERS eLandings | ADF&G COAR
 NMFS AND ADF&G GEAR CODES
+Gillnet, drift | | | | 03 | X | X
 Hook-and-line | HAL | X | X | 61 | X | X
 Jig, mechanical | JIG | X | X | 26 | X | X
 Pot (includes longline pot and pot-and-line) | POT | X | X | 91 | X | X
@@ -18,7 +19,6 @@ Dredge | | 22 | X | X
 Dredge, hydro/mechanical | | 23 | X | X
 Fish ladder/raceway | | 77 | X | X
 Fish wheel | | 08 | X | X
-Gillnet, drift | | 03 | X | X
 Gillnet, herring | | 34 | X | X
 Gillnet, set | | 04 | X | X
 Gillnet, sunken | | 41 | X | X
