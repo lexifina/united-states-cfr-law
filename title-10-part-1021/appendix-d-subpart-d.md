@@ -22,7 +22,10 @@ Siting, construction, operation, and decommissioning of power reactors, nuclear 
 D5 [Reserved]
 D6 [Reserved]
 D7 Contracts, Policies, and Marketing and Allocation Plans for Electric Power
-Establishment and implementation of contracts, policies, and marketing and allocation plans related to electric power acquisition that involve (1) The interconnection of, or acquisition of power from, new generation resources greater than 50 average megawatts; (2) changes in the normal operating limits of generation resources greater than 50 average megawatts; or (3) service to discrete new loads of 10 average megawatts or more over a 12-month period.
+(a) Establishment and implementation of contracts, policies, and marketing and allocation plans related to electric power acquisition that involve:
+(1) The interconnection of, or acquisition of power from, new generation resources greater than 50 average megawatts, unless the generation resource is eligible for a categorical exclusion or was evaluated in an environmental assessment resulting in a finding of no significant impact;
+(2) Changes in the normal operating limits of generation resources greater than 50 average megawatts; or
+(3) Service to discrete new loads of 10 average megawatts or more over a 12-month period.
 D8 [Reserved]
 D9 [Reserved]
 D10 Treatment, Storage, and Disposal Facilities for High-Level Waste and Spent Nuclear Fuel

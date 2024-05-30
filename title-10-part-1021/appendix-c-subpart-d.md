@@ -21,13 +21,18 @@ C2 [Reserved]
 C3 Electric Power Marketing Rate Changes, Not Within Normal Operating Limits
 Rate changes for electric power, power transmission, and other products or services provided by Power Marketing Administrations that are based on changes in revenue requirements if the operations of generation projects would not remain within normal operating limits.
 C4 Upgrading, Rebuilding, or Construction of Powerlines
-Upgrading or rebuilding more than approximately 20 miles in length of existing powerlines; or construction of powerlines (1) More than approximately 10 miles in length outside previously disturbed or developed powerline or pipeline rights-of-way or (2) more than approximately 20 miles in length within previously disturbed or developed powerline or pipeline rights-of-way.
+(a) Upgrading or rebuilding existing powerlines when the action does not qualify for categorical exclusion B4.13; or construction of powerlines:
+(1) More than approximately 10 miles in length outside previously disturbed or developed powerline or pipeline rights-of-way; or
+(2) more than approximately 20 miles in length within previously disturbed or developed powerline or pipeline rights-of-way.
 C5 Vegetation Management Program
 Implementation of a Power Marketing Administration system-wide vegetation management program.
 C6 Erosion Control Program
 Implementation of a Power Marketing Administration system-wide erosion control program.
 C7 Contracts, Policies, and Marketing and Allocation Plans for Electric Power
-Establishment and implementation of contracts, policies, and marketing and allocation plans related to electric power acquisition that involve (1) The interconnection of, or acquisition of power from, new generation resources that are equal to or less than 50 average megawatts; (2) changes in the normal operating limits of generation resources equal to or less than 50 average megawatts; or (3) service to discrete new loads of less than10 average megawatts over a 12-month period.
+(a) Establishment and implementation of contracts, policies, and marketing and allocation plans related to electric power acquisition that involve:
+(1) The interconnection of, or acquisition of power from, new generation resources that are equal to or less than 50 average megawatts, unless the generation resource is eligible for a categorical exclusion;
+(2) Changes in the normal operating limits of generation resources equal to or less than 50 average megawatts; or
+(3) Service to discrete new loads of less than 10 average megawatts over a 12-month period.
 C8 Protection of Cultural Resources and Fish and Wildlife Habitat
 Large-scale activities undertaken to protect cultural resources (such as fencing, labeling, and flagging) or to protect, restore, or improve fish and wildlife habitat, fish passage facilities (such as fish ladders and minor diversion channels), or fisheries.
 C9 Wetlands Demonstration Projects
