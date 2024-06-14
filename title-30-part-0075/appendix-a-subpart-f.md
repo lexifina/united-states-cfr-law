@@ -1,8 +1,7 @@
 # Appendix A to Subpart F of Part 75—List of Permissible Electric Face Equipment Approved by the Bureau of Mines Prior to May 23, 1936
 Motor-Driven Mine Equipment
-(Approved Under Schedules 2, 2A, 2B, and 2C)
 Approval No. | Date
-Air Compressors
+Air Compressors |
 128 | March 21, 1927.
 128A | July 16, 1926.
 Coal Drills and Drilling Machines
