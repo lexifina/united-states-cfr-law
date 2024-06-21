@@ -1,7 +1,8 @@
 # Appendix A to Subpart E of Part 1068—Plans for Selective Enforcement Auditing
 The following tables describe sampling plans for selective enforcement audits, as described in § 1068.420:
 Table A-1—Sampling Plan Code Letter
-Projected family sales | Code letter 1 | Minimum number of tests | To pass | To fail | Maximum number of tests
+Projected family sales | Code letter 1 | Minimum number of tests | Maximum number of tests
+To pass | To fail
 20-50 | AA | 3 | 5 | 20
 20-99 | A | 4 | 6 | 30
 100-299 | B | 5 | 6 | 40
@@ -9,12 +10,13 @@ Projected family sales | Code letter 1 | Minimum number of tests | To pass | To 
 500 + | D | 5 | 6 | 60
 1 A manufacturer may optionally use either the sampling plan for code letter "AA" or sampling plan for code letter "A" for Selective Enforcement Audits of families with annual sales between 20 and 50 engines/equipment. Additionally, the manufacturer may switch between these plans during the audit.
 Table A-2—Sampling Plans for Different Engine Family Sales Volumes
-Stage a | AA | Pass # | Fail # | A | Pass # | Fail # | B | Pass # | Fail # | C | Pass # | Fail # | D | Pass # | Fail #
-1 | | | | | | | | |
-2 | | | | | | | | |
-3 | 0 | | | | | | | |
-4 | 0 | | 0 | | | | | |
-5 | 1 | 5 | 0 | | 0 | | 0 | | 0
+Stage a | AA | A | B | C | D
+Pass # | Fail # | Pass # | Fail # | Pass # | Fail # | Pass # | Fail # | Pass # | Fail #
+1 | | | | | | | | | |
+2 | | | | | | | | | |
+3 | 0 | | | | | | | | |
+4 | 0 | | 0 | | | | | | |
+5 | 1 | 5 | 0 | | 0 | | 0 | | 0 |
 6 | 1 | 6 | 1 | 6 | 1 | 6 | 0 | 6 | 0 | 6
 7 | 2 | 6 | 1 | 7 | 1 | 7 | 1 | 7 | 1 | 7
 8 | 2 | 7 | 2 | 7 | 2 | 7 | 2 | 7 | 2 | 8
