@@ -1,7 +1,7 @@
 # Appendix B to Part 192—Qualification of Pipe and Components
 I. List of Specifications
 A. Listed Pipe Specifications
-API Spec 5L—Steel pipe, "API Specification for Line Pipe" (incorporated by reference, see § 192.7).
+API Spec 5L—Steel pipe, "Line Pipe" (incorporated by reference, see § 192.7).
 ASTM A53/A53M—Steel pipe, "Standard Specification for Pipe, Steel Black and Hot-Dipped, Zinc-Coated, Welded and Seamless" (incorporated by reference, see § 192.7).
 ASTM A106/A-106M—Steel pipe, "Standard Specification for Seamless Carbon Steel Pipe for High Temperature Service" (incorporated by reference, see § 192.7).
 ASTM A333/A333M—Steel pipe, "Standard Specification for Seamless and Welded Steel Pipe for Low Temperature Service" (incorporated by reference, see § 192.7).
