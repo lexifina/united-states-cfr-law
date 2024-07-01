@@ -19,7 +19,6 @@ Atlantic and Gulf of Mexico bonnethead, Sphyrna tiburo
 Finetooth, Carcharhinus isodon
 C. Pelagic Sharks
 Blue, Prionace glauca
-Oceanic whitetip, Carcharhinus longimanus
 Porbeagle, Lamna nasus
 Shortfin mako, Isurus oxyrinchus
 Thresher, Alopias vulpinus
@@ -37,6 +36,7 @@ Galapagos, Carcharhinus galapagensis
 Longfin mako, Isurus paucus
 Narrowtooth, Carcharhinus brachyurus
 Night, Carcharhinus signatus
+Oceanic whitetip, Carcharhinus longimanus
 Sand tiger, Carcharias taurus
 Sevengill, Heptranchias perlo
 Sixgill, Hexanchus griseus
@@ -53,7 +53,6 @@ Bigeye tuna, Thunnus obesus
 Blue shark, Prionace glauca
 Bluefin tuna, Thunnus thynnus
 Dolphin fish, Coryphaena hippurus
-Oceanic whitetip shark, Carcharhinus longimanus
 Porbeagle shark, Lamna nasus
 Shortfin mako shark, Isurus oxyrinchus
 Skipjack tuna, Katsuwonus pelamis
