@@ -1,8 +1,36 @@
 # Appendix Y to Subpart B of Part 430—Uniform Test Method for Measuring the Energy Consumption of Battery Chargers
-Note: Manufacturers must use the results of testing under appendix Y to determine compliance with the relevant standard from § 430.32(z) as that standard appeared in the January 1, 2022, edition of 10 CFR parts 200–499. Specifically, before March 7, 2023 representations must be based upon results generated either under this appendix or under appendix Y as it appeared in the 10 CFR parts 200–499 edition revised as of January 1, 2022.
+Note 1: For all Battery Chargers, including UPSs, compliance with the relevant standard in § 430.32(z) or any representation must be based upon results generated under the corresponding appendix listed in the following table:
+| Battery chargers other than UPSs | UPS
+On or After July 3, 2024 and Before October 16, 2024 | Use appendix Y as it appeared on either March 7, 2023, or July 3, 2024 | Use appendix Y as it appeared on either March 7, 2023, or July 3, 2024
+On or After October 16, 2024 and Before compliance date of any new or amended standards published any time after September 2022 | Use appendix Y as it appeared on July 3, 2024. | Use appendix Y as it appeared on July 3, 2024.
+On or After compliance date of any new or amended standards published any time after September 2022 | Use appendix Y1 | Use appendix Y1.
 For any amended standards for battery chargers published after September 8, 2022, manufacturers must use the results of testing under appendix Y1 to determine compliance. Representations related to energy consumption must be made in accordance with the appropriate appendix that applies (i.e., appendix Y or appendix Y1) when determining compliance with the relevant standard. Manufacturers may also use appendix Y1 to certify compliance with amended standards, published after September 8, 2022, prior to the applicable compliance date for those standards.
+0. Incorporation by Reference
+DOE incorporated by reference in § 430.3 the entire test standard for IEC 62040-3 Ed. 3.0. However, only enumerated provisions of this standard are applicable to this appendix, as follows. In cases in which there is a conflict, the language of the test procedure in this appendix takes precedence over the referenced test standard.
+0.1 IEC 62040-3 Ed. 3.0:
+(a) Section 3.5, Specified values;
+(b) Section 3.5.49, total harmonic distortion;
+(c) Section 5, Electrical conditions, performance and declared values;
+(d) Section 5.2, UPS input specification, as specified in section 2.28.2 of this appendix;
+(e) Section 5.2.1, Conditions for normal mode of operation; Clause 5.2.1.a;
+(f) Clause 5.2.1.b;
+(g) Section 5.2.2, Conditions to be declared by the manufacturer; Clause 5.2.2.k;
+(h) Clause 5.2.2.l;
+(i) Clause 5.2.2.m;
+(j) Section 5.3, UPS output specification; Section 5.3.2, Characteristics to be declared by the manufacturer; Clause 5.3.2.b;
+(k) Clause 5.3.2.c;
+(l) Clause 5.3.2.d;
+(m) Clause 5.3.2.e;
+(n) Section 5.3.4.2, Input dependency AAA;
+(o) Section 6.2, Routine test procedure; Section 6.2.2, Electrical; Section 6.2.2.4, No load, as specified in section 4.3.3(c) of this appendix;
+(p) Section 6.2.2.7, AC input failure, as specified in Note to section 2.28.1 of this appendix;
+(q) Section 6.4, Type test procedure (electrical); Section 6.4.1, Input—AC input power compatibility; Section 6.4.1.2, Steady state input voltage tolerance and VI input independency, as specified in Note to section 2.28.3 of this appendix;
+(r) Section 6.4.1.3, Combined input voltage/frequency tolerance and VFI input independency, as specified in Note to section 2.28.2 of this appendix;
+(s) Annex G—AC input power failure—Test method;
+(t) Annex J—UPS efficiency and no load losses—Methods of measurement, as specified in sections 4.2.1 and 4.3.3 of this appendix.
+0.2 [Reserved]
 1. Scope
-This appendix provides the test requirements used to measure the energy consumption of battery chargers operating at either DC or United States AC line voltage (115V at 60Hz). This appendix also provides the test requirements used to measure the energy efficiency of uninterruptible power supplies as defined in section 2 of this appendix that utilize the standardized National Electrical Manufacturer Association (NEMA) plug, 1–15P or 5–15P, as specified in ANSI/NEMA WD 6–2016 (incorporated by reference, see § 430.3) and have an AC output. This appendix does not provide a method for testing back-up battery chargers.
+This appendix provides the test requirements used to measure the energy consumption of battery chargers operating at either DC or United States AC line voltage (115V at 60Hz). This appendix also provides the test requirements used to measure the energy efficiency of uninterruptible power supplies as defined in section 2 of this appendix that utilize the standardized National Electrical Manufacturer Association (NEMA) plug, 1-15P or 5-15P, as specified in ANSI/NEMA WD 6-2016 (incorporated by reference, see § 430.3) and have an AC output. This appendix does not provide a method for testing back-up battery chargers.
 2. Definitions
 The following definitions are for the purposes of explaining the terminology associated with the test method for measuring battery charger energy consumption. 1
 2.1. Active mode or charge mode is the state in which the battery charger system is connected to the main electricity supply, and the battery charger is delivering current, equalizing the cells, and performing other one-time or limited-time functions in order to bring the battery to a fully charged state.
@@ -40,14 +68,14 @@ ER01JN11.020
 (1) The battery charger is connected to the main electricity supply;
 (2) The battery is not connected to the charger; and
 (3) For battery chargers with manual on-off switches, all such switches are turned on.
-2.26. Total harmonic distortion (THD), expressed as a percent, is the root mean square (RMS) value of an AC signal after the fundamental component is removed and interharmonic components are ignored, divided by the RMS value of the fundamental component.
-2.27. Uninterruptible power supply or UPS means a battery charger consisting of a combination of convertors, switches and energy storage devices (such as batteries), constituting a power system for maintaining continuity of load power in case of input power failure.
-2.27.1. Voltage and frequency dependent UPS or VFD UPS means a UPS that produces an AC output where the output voltage and frequency are dependent on the input voltage and frequency. This UPS architecture does not provide corrective functions like those in voltage independent and voltage and frequency independent systems.
-Note to 2.27.1: VFD input dependency may be verified by performing the AC input failure test in section 6.2.2.7 of IEC 62040–3 Ed. 2.0 (incorporated by reference, see § 430.3) and observing that, at a minimum, the UPS switches from normal mode of operation to battery power while the input is interrupted.
-2.27.2. Voltage and frequency independent UPS or VFI UPS means a UPS where the device remains in normal mode producing an AC output voltage and frequency that is independent of input voltage and frequency variations and protects the load against adverse effects from such variations without depleting the stored energy source.
-Note to 2.27.2: VFI input dependency may be verified by performing the steady state input voltage tolerance test and the input frequency tolerance test in sections 6.4.1.1 and 6.4.1.2 of IEC 62040–3 Ed. 2.0 (incorporated by reference, see § 430.3) respectively and observing that, at a minimum, the UPS produces an output voltage and frequency within the specified output range when the input voltage is varied by ±10% of the rated input voltage and the input frequency is varied by ±2% of the rated input frequency.
-2.27.3. Voltage independent UPS or VI UPS means a UPS that produces an AC output within a specific tolerance band that is independent of under-voltage or over-voltage variations in the input voltage without depleting the stored energy source. The output frequency of a VI UPS is dependent on the input frequency, similar to a voltage and frequency dependent system.
-Note to 2.27.3: VI input dependency may be verified by performing the steady state input voltage tolerance test in section 6.4.1.1 of IEC 62040–3 Ed. 2.0 (incorporated by reference, see § 430.3) and ensuring that the UPS remains in normal mode with the output voltage within the specified output range when the input voltage is varied by ±10% of the rated input voltage.
+2.26. Total harmonic distortion (THD), expressed as a percent, is as defined in section 3.5.9 of IEC 62040-3 Ed. 3.0.
+2.27. Uninterruptible power supply or UPS means a battery charger consisting of a combination of convertors, switches and energy storage devices (such as batteries), constituting a power system for maintaining continuity of load power in case of AC input power failure.
+2.27.1. Voltage and frequency dependent UPS or VFD UPS means a UPS that protects the load from a complete loss of AC input power. The output of a VFD UPS is dependent on changes in voltage and frequency of the AC input power and is not intended to provide additional voltage corrective functions, such as those arising from the use of tapped transformers.
+Note to 2.27.1: VFD input dependency may be verified by performing the AC input failure test in section 6.2.2.7 of IEC 62040-3 Ed. 3.0 and observing that, at a minimum, the UPS switches from normal mode of operation to battery power while the input is interrupted.
+2.27.2. Voltage and frequency independent UPS or VFI UPS means a UPS that is independent of AC input power voltage and frequency variations as specified and declared in section 5.2 of IEC 62040-3 Ed. 3.0 and shall protect the load against adverse effects from such variations without discharging the energy storage device.
+Note to 2.27.2: VFI input dependency may be verified by performing the combined input voltage/frequency tolerance and VFI input independency test in section 6.4.1.3 of IEC 62040-3 Ed. 3.0 respectively and observing that, at a minimum, the UPS produces an output voltage and frequency within the specified output range when the input voltage is varied by ±10% of the rated input voltage and the input frequency is varied by ±2% of the rated input frequency.
+2.27.3. Voltage independent UPS or VI UPS means a UPS that protects the load as required for VFD and also from (a) under-voltage applied continuously to the input, and (b) over-voltage applied continuously to the input. The output voltage of a VI UPS shall remain within declared voltage limits (provided by voltage corrective functions, such as those arising from the use of active and/or passive circuits). The output voltage tolerance band shall be narrower than the input voltage tolerance band.
+Note to 2.27.3: VI input dependency may be verified by performing the steady state input voltage tolerance test in section 6.4.1.2 of IEC 62040-3 Ed. 3.0 and ensuring that the UPS remains in normal mode with the output voltage within the specified output range when the input voltage is varied by ±10% of the rated input voltage.
 2.28. Unit under test (UUT) in this appendix refers to the combination of the battery charger and battery being tested.
 3. Testing Requirements for all Battery Chargers Other Than Uninterruptible Power Supplies
 3.1. Standard Test Conditions
@@ -243,9 +271,9 @@ Table 3.3.3—Battery Charger Usage Profiles
 Product class | Number | Description | Measured battery energy (measured E batt) ** | Special characteristic or highest nameplate battery voltage | Hours per day *** | Active + maintenance (t a & m) | Standby (t sb) | Off (t off) | Charges (n) | Number per day | Threshold charge time * | Hours
 1 | Low-Energy | ≤5 Wh | Inductive Connection **** | 20.66 | 0.10 | 0.00 | 0.15 | 137.73
 2 | Low-Energy, Low-Voltage | <100 Wh | <4 V | 7.82 | 5.29 | 0.00 | 0.54 | 14.48
-3 | Low-Energy, Medium-Voltage | | 4–10 V | 6.42 | 0.30 | 0.00 | 0.10 | 64.20
+3 | Low-Energy, Medium-Voltage | | 4-10 V | 6.42 | 0.30 | 0.00 | 0.10 | 64.20
 4 | Low-Energy, High-Voltage | | >10 V | 16.84 | 0.91 | 0.00 | 0.50 | 33.68
-5 | Medium-Energy, Low-Voltage | 100–3000 Wh | <20 V | 6.52 | 1.16 | 0.00 | 0.11 | 59.27
+5 | Medium-Energy, Low-Voltage | 100-3000 Wh | <20 V | 6.52 | 1.16 | 0.00 | 0.11 | 59.27
 6 | Medium-Energy, High-Voltage | | ≥20 V | 17.15 | 6.85 | 0.00 | 0.34 | 50.44
 7 | High-Energy | >3000 Wh | | 8.14 | 7.30 | 0.00 | 0.32 | 25.44
 * If the duration of the charge test (minus 5 hours) as determined in section 3.3.2. of this appendix exceeds the threshold charge time, use equation (ii) to calculate UEC otherwise use equation (i).
@@ -263,7 +291,7 @@ All portions of the test must be carried out in a room with an air speed immedia
 The AC input voltage and frequency to the UPS during testing must be within 3 percent of the highest rated voltage and within 1 percent of the highest rated frequency of the device.
 4.2. Unit Under Test Setup Requirements
 4.2.1. General Setup
-Configure the UPS according to Annex J.2 of IEC 62040–3 Ed. 2.0 (incorporated by reference, see § 430.3) with the following additional requirements:
+Configure the UPS according to Annex J.2 of IEC 62040-3 Ed. 3.0 with the following additional requirements:
 (a) UPS Operating Mode Conditions. If the UPS can operate in two or more distinct normal modes as more than one UPS architecture, conduct the test in its lowest input dependency as well as in its highest input dependency mode where VFD represents the highest possible input dependency, followed by VI and then VFI.
 (b) Energy Storage System. The UPS must not be modified or adjusted to disable energy storage charging features. Minimize the transfer of energy to and from the energy storage system by ensuring the energy storage system is fully charged (at the start of testing) as follows:
 (1) If the UUT has a battery charge indicator, charge the battery for 5 hours after the UUT has indicated that it is fully charged.
@@ -305,7 +333,7 @@ ER12DE16.024
 If the percentage difference of Eff 1 and Eff 2 as described in the equation, is less than 1 percent, the product is at steady state.
 (f) If the percentage difference is greater than or equal to 1 percent, the product is not at steady state. Repeat the steps listed in paragraphs (c) to (e) of section 4.3.2 of this appendix until the product is at steady state.
 4.3.3. Power Measurements and Efficiency Calculations
-Measure input and output power of the UUT according to Section J.3 of Annex J of IEC 62040–3 Ed. 2.0 (incorporated by reference, see § 430.3), or measure the input and output energy of the UUT for efficiency calculations with the following exceptions:
+Measure input and output power of the UUT according to section J.3 of Annex J of IEC 62040-3 Ed. 3.0, or measure the input and output energy of the UUT for efficiency calculations with the following exceptions:
 (a) Test the UUT at the following reference test load conditions, in the following order: 100 percent, 75 percent, 50 percent, and 25 percent of the rated output power.
 (b) Perform the test at each of the reference test loads by simultaneously measuring the UUT's input and output power in Watts (W), or input and output energy in Watt-Hours (Wh) over a 15 minute test period at a rate of at least 1 Hz. Calculate the efficiency for that reference load using one of the following two equations:
 ER12DE16.025
@@ -318,6 +346,7 @@ Where:
 Eff n % = the efficiency at reference test load n %
 E out n % = the accumulated output energy at reference load n %
 E in n % = the accumulated input energy at reference load n %
+(c) For representations of no-load losses, measure the active power at the UPS input port with no load applied in accordance with section 6.2.2.4 of IEC 62040-3 Ed. 3.0.
 4.3.4. UUT Classification
 Optional Test for determination of UPS architecture. Determine the UPS architecture by performing the tests specified in the definitions of VI, VFD, and VFI (sections 2.28.1 through 2.28.3 of this appendix).
 4.3.5. Output Efficiency Calculation
