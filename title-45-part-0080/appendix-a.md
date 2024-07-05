@@ -154,6 +154,7 @@ Part 1. Assistance other than Continuing Assistance to States
 152. Grants to public or private non-profit agencies to carry on the Project Headstart Program (42 U.S.C. 2809(a)(1)).
 153. Project grants for new careers for the handicapped (29 U.S.C. 34(a)(2)(D)).
 154. Construction, demonstration, and training grants for university-affiliated facilities for persons with developmental disabilities (42 U.S.C. 2661-2666).
+155. Supplementary medical insurance benefits for the aged (Title XVIII, Part B, Social Security Act, 42 U.S.C. 1395j-1395w-6).
 Part 2. Continuing Assistance to State
 1. Grants to States for public library services and construction, interlibrary cooperation and specialized State library services for certain State institutions and the physically handicapped (20 U.S.C. 351-355).
 2. Grants to States for strengthening instruction in academic subjects (20 U.S.C. 441-444).
