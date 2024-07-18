@@ -13,26 +13,23 @@ As appropriate to the airplane and the operation involved, flight training for p
 I. Preflight:
 (a) Visual inspection of the exterior and interior of the airplane, the location of each item to be inspected, and the purpose for inspecting it. The visual inspection may be conducted using an approved pictorial means that realistically portrays the location and detail of visual inspection items and provides for the portrayal of normal and abnormal conditions | | I, T, U, C
 (b) Use of the prestart checklist, appropriate control system checks, starting procedures, radio and electronic equipment checks, and the selection of proper navigation and communications radio facilities and frequencies prior to flight | | | I, T, U, C
-(c)(1) Before March 12, 2019, taxiing, sailing, and docking procedures in compliance with instructions issued by ATC or by the person conducting the training | I, T, U, C
-(2) Taxiing. Beginning March 12, 2019, this maneuver includes the following:
-(i) Taxiing, sailing, and docking procedures in compliance with instructions issued by ATC or by the person conducting the training | I, T, U, C
-(ii) Use of airport diagram (surface movement chart) | I, T, U, C
-(iii) Obtaining appropriate clearance before crossing or entering active runways | I, T, U, C
-(iv) Observation of all surface movement guidance control markings and lighting | I, T, U, C
-(d)(1) Before March 12, 2019, pre-takeoff checks that include powerplant checks | | | I, T, U, C
-(2) Beginning March 12, 2019, pre-takeoff procedures that include powerplant checks, receipt of takeoff clearance and confirmation of aircraft location, and FMS entry (if appropriate) for departure runway prior to crossing hold short line for takeoff | | | I, T, U, C
+(c) Taxiing. This maneuver includes the following:
+(1) Taxiing, sailing, and docking procedures in compliance with instructions issued by ATC or by the person conducting the training | I, T, U, C
+(2) Use of airport diagram (surface movement chart) | I, T, U, C
+(3) Obtaining appropriate clearance before crossing or entering active runways | I, T, U, C
+(4) Observation of all surface movement guidance control markings and lighting | I, T, U, C
+(d) Pre-takeoff procedures that include powerplant checks, receipt of takeoff clearance and confirmation of aircraft location, and FMS entry (if appropriate) for departure runway prior to crossing hold short line for takeoff | | | I, T, U, C
 II. Takeoffs:
 Training in takeoffs must include the types and conditions listed below but more than one type may be combined where appropriate:
 (a) Normal takeoffs which, for the purpose of this maneuver, begin when the airplane is taxied into position on the runway to be used | I, T, U, C
 (b) Takeoffs with instrument conditions simulated at or before reaching an altitude of 100′ above the airport elevation | | | I, T, U, C
-(c)(1) Crosswind takeoffs | I, T, U, C
-(2) Beginning March 12, 2019, crosswind takeoffs including crosswind takeoffs with gusts if practicable under the existing meteorological, airport, and traffic conditions | I, T, U, C
+(c) Crosswind takeoffs, including crosswind takeoffs with gusts if practicable under the existing meteorological, airport, and traffic conditions | I, T, U, C
 (d) Takeoffs with a simulated failure of the most critical powerplant— | | | I, T, U, C
 (1) At a point after V1 and before V2 that in the judgment of the person conducting the training is appropriate to the airplane type under the prevailing conditions; or | | | I, T, U, C
 (2) At a point as close as possible after V1 when V1 and V2 or V1 and VR are identical; or | | | I, T, U, C
 (3) At the appropriate speed for nontransport category airplanes | | | I, T, U, C
 (e) Rejected takeoffs accomplished during a normal takeoff run after reaching a reasonable speed determined by giving due consideration to aircraft characteristics, runway length, surface conditions, wind direction and velocity, brake heat energy, and any other pertinent factors that may adversely affect safety or the airplane | | | I, T, U, C
-(f) Night takeoffs. For pilots in transition training, this requirement may be met during the operating experience required under § 121.434 by performing a normal takeoff at night when a check airman serving as PIC is occupying a pilot station | I, T, U, C
+(f) Night takeoffs. For pilots in transition training, this requirement may be met during the operating experience required under § 121.434 by performing a normal takeoff at night when a check pilot serving as PIC is occupying a pilot station | I, T, U, C
 III. Flight Maneuvers and Procedures:
 (a) Turns with and without spoilers | | | I, T, U, C
 (b) Tuck and Mach buffet | | | I, T, U, C
@@ -95,8 +92,7 @@ Training in landings and approaches to landings must include the types and condi
 (a) Normal landings | I, T, U, C
 (b) Landing and go around with the horizontal stabilizer out of trim | I, C | | T | U.
 (c) Landing in sequence from an ILS instrument approach | I | | T, U, C
-(d)(1) Crosswind landing | I, T, U, C
-(2) Beginning March 12, 2019, crosswind landing, including crosswind landings with gusts if practicable under the existing meteorological, airport, and traffic conditions | I, T, U, C
+(d) Crosswind landing, including crosswind landings with gusts if practicable under the existing meteorological, airport, and traffic conditions | I, T, U, C
 (e) Maneuvering to a landing with simulated powerplant failure, as follows:
 (1) For 3-engine airplanes, maneuvering to a landing with an approved procedure that approximates the loss of two powerplants (center and one outboard engine) | I, C | | T, U
 (2) For other multiengine airplanes, maneuvering to a landing with a simulated failure of 50 percent of available powerplants with the simulated loss of power on one side of the airplane | I, C | | T, U
@@ -104,4 +100,4 @@ Training in landings and approaches to landings must include the types and condi
 (g) Rejected landings that include a normal missed approach procedure after the landing is rejected. For the purpose of this maneuver the landing should be rejected at approximately 50 feet and approximately over the runway threshold | I | | T, U, C
 (h) Zero-flap landings if the Administrator finds that maneuver appropriate for training in the airplane | I, C | | T, U
 (i) Manual reversion | | | I, T, U, C
-(j) Night landings. For pilots in transition training, this requirement may be met during the operating experience required under § 121.434 by performing a normal landing at night when a check airman serving as PIC is occupying a pilot station | I, T, U, C
+(j) Night landings. For pilots in transition training, this requirement may be met during the operating experience required under § 121.434 by performing a normal landing at night when a check pilot serving as PIC is occupying a pilot station | I, T, U, C
