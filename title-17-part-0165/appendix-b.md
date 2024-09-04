@@ -14,7 +14,7 @@ ER30MY17.028
 Submission Procedures
 Questions concerning this form may be directed to Commodity Futures Trading Commission, Whistleblower Office, Three Lafayette Centre, 1155 21st Street NW., Washington, DC 20581.
 • If you are submitting information for the CFTC's whistleblower award program, you must submit your information using this Form TCR.
-• You may submit this form electronically, through the Web portal found on the CFTC's Web site at http://www.whistleblower.gov. You may also print this form and submit it by mail to Commodity Futures Trading Commission, Whistleblower Office, Three Lafayette Centre, 1155 21st Street, NW., Washington, DC 20581, or by facsimile to (202) 418-5975.
+• You may submit this form electronically, through the Web portal found on the CFTC's Web site at http://www.whistleblower.gov. You may also print this form and submit it by mail to Commodity Futures Trading Commission, Whistleblower Office at the Commission's Washington, DC headquarters, or by facsimile to (202) 418-5975.
 • You have the right to submit information anonymously. If you do not submit anonymously, please note that the CFTC is required by law to maintain the confidentiality of any information which could reasonably identify you, and will only reveal such information in limited and specifically-defined circumstances. See 7 U.S.C. 26(h)(2); 17 CFR 165.4. However, in order to receive a whistleblower award, you will need to be identified to select CFTC staff for a final eligibility determination, and in unusual circumstances, you may need to be identified publicly for trial. You should therefore provide some means for the CFTC's staff to contact you, such as a telephone number or an email address.
 Instructions for Completing Form TCR
 General
