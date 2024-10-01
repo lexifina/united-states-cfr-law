@@ -8,7 +8,7 @@ Required:
 a. The closure system must completely block highway traffic on all approach lanes to the crossing.
 b. The closure system must completely block adjacent pedestrian crossings.
 c. Public highway-rail grade crossings located within New Partial Quiet Zones shall be closed from 10 p.m. until 7 a.m. every day. Public highway-rail grade crossings located within Pre-Rule Partial Quiet Zones may only be closed during one period each 24 hours.
-d. Barricdes and signs used for closure of the roadway shall conform to the standards contained in the MUTCD.
+d. Barricades and signs used for closure of the roadway shall conform to the standards contained in the MUTCD.
 e. Daily activation and deactivation of the system is the responsibility of the public authority responsible for maintenance of the street or highway crossing the railroad tracks. The public authority may provide for third party activation and deactivation; however, the public authority shall remain fully responsible for compliance with the requirements of this part.
 f. The system must be tamper and vandal resistant to the same extent as other traffic control devices.
 g. The closure system shall be equipped with a monitoring device that contains an indicator which is visible to the train crew prior to entering the crossing. The indicator shall illuminate whenever the closure device is deployed.
