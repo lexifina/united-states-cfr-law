@@ -1,19 +1,17 @@
 # Appendix A to Part 25—Award Term
-I. System for Award Management and Universal Identifier Requirements
-A. Requirement for System for Award Management
-Unless you are exempted from this requirement under 2 CFR 25.110, you as the recipient must maintain current information in the SAM. This includes information on your immediate and highest level owner and subsidiaries, as well as on all of your predecessors that have been awarded a Federal contract or Federal financial assistance within the last three years, if applicable, until you submit the final financial report required under this Federal award or receive the final payment, whichever is later. This requires that you review and update the information at least annually after the initial registration, and more frequently if required by changes in your information or another Federal award term.
-B. Requirement for Unique Entity Identifier
-If you are authorized to make subawards under this Federal award, you:
-1. Must notify potential subrecipients that no entity (see definition in paragraph C of this award term) may receive a subaward from you until the entity has provided its Unique Entity Identifier to you.
-2. May not make a subaward to an entity unless the entity has provided its Unique Entity Identifier to you. Subrecipients are not required to obtain an active SAM registration, but must obtain a Unique Entity Identifier.
-C. Definitions
-For purposes of this term:
-1. System for Award Management (SAM) means the Federal repository into which a recipient must provide information required for the conduct of business as a recipient. Additional information about registration procedures may be found at the SAM internet site (currently at https://www.sam.gov).
-2. Unique Entity Identifier means the identifier assigned by SAM to uniquely identify business entities.
-3. Entity includes non-Federal entities as defined at 2 CFR 200.1 and also includes all of the following, for purposes of this part:
-a. A foreign organization;
-b. A foreign public entity;
-c. A domestic for-profit organization; and
-d. A Federal agency.
-4. Subaward has the meaning given in 2 CFR 200.1.
-5. Subrecipient has the meaning given in 2 CFR 200.1.
+I. System for Award Management (SAM.gov) and Universal Identifier Requirements
+(a) Requirement for System for Award Management. (1) Unless exempt from this requirement under 2 CFR 25.110, the recipient must maintain a current and active registration in SAM.gov. The recipient's registration must always be current and active until the recipient submits all final reports required under this Federal award or receives the final payment, whichever is later. The recipient must review and update its information in SAM.gov at least annually from the date of its initial registration or any subsequent updates to ensure it is current, accurate, and complete. If applicable, this includes identifying the recipient's immediate and highest-level owner and subsidiaries and providing information about the recipient's predecessors that have received a Federal award or contract within the last three years.
+(b) Requirement for Unique Entity Identifier (UEI). (1) If the recipient is authorized to make subawards under this Federal award, the recipient:
+(i) Must notify potential subrecipients that no entity may receive a subaward until the entity has provided its UEI to the recipient.
+(ii) Must not make a subaward to an entity unless the entity has provided its UEI to the recipient. Subrecipients are not required to complete full registration in SAM.gov to obtain a UEI.
+(c) Definitions. For the purposes of this award term:
+System for Award Management (SAM.gov) means the Federal repository into which a recipient must provide the information required for the conduct of business as a recipient. Additional information about registration procedures may be found in SAM.gov (currently at https://www.sam.gov).
+Unique entity identifier means the universal identifier assigned by SAM.gov to uniquely identify an entity.
+Entity is defined at 2 CFR 25.400 and includes all of the following types as defined in 2 CFR 200.1:
+(1) Non-Federal entity;
+(2) Foreign organization;
+(3) Foreign public entity;
+(4) Domestic for-profit organization; and
+(5) Federal agency.
+Subaward has the meaning given in 2 CFR 200.1.
+Subrecipient has the meaning given in 2 CFR 200.1.
