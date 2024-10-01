@@ -1,7 +1,7 @@
 # Appendix A to Part 223—Certification of Glazing Materials
 As provided in this part, certified glazing materials installed in locomotives, passenger cars, or cabooses must be certified by the glazing manufacturer in accordance with the following procedures:
 a. General Requirements
-(1) Each manufacturer that provides glazing materials, intended by the manufacturer for use in achieving compliance with the requirements of this part, shall certify that each type of glazing material being supplied for this purpose has been succcessfully tested in accordance with this appendix and that test verification data is available to a railroad or to FRA upon request.
+(1) Each manufacturer that provides glazing materials, intended by the manufacturer for use in achieving compliance with the requirements of this part, shall certify that each type of glazing material being supplied for this purpose has been successfully tested in accordance with this appendix and that test verification data is available to a railroad or to FRA upon request.
 (2) The test verification data shall contain all pertinent original data logs and documentation that the selection of material samples, test set-ups, test measuring devices, and test procedures were performed by qualified personnel using recognized and acceptable practices and in accordance with this appendix.
 b. Testing Requirements
 (1) The material to be tested (Target Material) shall be a full scale sample of the largest dimension intended to be produced and installed.
