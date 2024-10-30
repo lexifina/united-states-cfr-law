@@ -394,7 +394,7 @@ i. Annual and special meetings: FCUs are encouraged to provide a live webcast of
 Article V. Elections
 i. Eligibility requirements: The Act and the FCU Bylaws contain the only eligibility requirements for membership on an FCU's board of directors, which are as follows:
 (a) The individual must be a member of the FCU before distribution of ballots;
-(b) The individual cannot have been convicted of a crime involving dishonesty or breach of trust unless the NCUA Board has waived the prohibition for the conviction; and
+(b) The individual cannot have been convicted of a crime covered under section 205(d) of the Federal Credit Union Act (12 U.S.C. 1785(d)) unless the NCUA Board has waived the prohibition for the conviction; and
 (c) The individual meets the minimum age requirement established under Article V, § 7 of the FCU Bylaws.
 Anyone meeting the three eligibility requirements may run for a seat on the board of directors if properly nominated. It is the nominating committee's duty to ascertain that all nominated candidates, including those nominated by petition, meet the eligibility requirements.
 ii. Nomination criteria for nominating committee: The Act and the FCU Bylaws do not prohibit a board of directors from establishing reasonable criteria, in addition to the eligibility requirements, for a nominating committee to follow in making its nominations, such as financial experience, years of membership, or conflict of interest provisions. The board's nomination criteria, however, applies only to individuals nominated by the nominating committee; they cannot be imposed on individuals who meet the eligibility requirements and are properly nominated from the floor or by petition.
