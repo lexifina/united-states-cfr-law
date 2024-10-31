@@ -9,7 +9,7 @@ Asbestos NESHAPs Contact, Air & Waste Management Division, USEPA, Region II, 26 
 Region III
 Asbestos NESHAPs Contact, Air Management Division, USEPA, Region III, 841 Chestnut Street, Philadelphia, PA 19107, (215) 597-9325.
 Region IV
-Asbestos NESHAPs Contact, Air, Pesticide & Toxic Management, USEPA, Region IV, 345 Courtland Street, NE., Atlanta, GA 30365, (404) 347-4298.
+Asbestos NESHAPs Contact, Enforcement and Compliance Assurance Division, USEPA, Region IV, 61 Forsyth Street SW, Atlanta, Georgia 30303-8960, (404) 562-9900.
 Region V
 Asbestos NESHAPs Contact, Air Management Division, USEPA, Region V, 77 West Jackson Boulevard, Chicago, IL 60604, (312) 353-6793.
 Region VI

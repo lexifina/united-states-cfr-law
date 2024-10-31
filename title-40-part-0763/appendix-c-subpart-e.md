@@ -247,7 +247,7 @@ C. States seeking EPA approval or reapproval of accreditation programs shall sub
 EPA, Region 1, Asbestos Coordinator, 5 Post Office Square—Suite 100 (05-4), Boston, MA 02109-3912, (617) 918-1563.
 EPA, Region II, (MS-500), Asbestos Coordinator, 2890 Woodbridge Ave., Edison, NJ 08837-3679, (908) 321-6671.
 EPA, Region III, (3AT-33), Asbestos Coordinator, 841 Chestnut Bldg., Philadelphia, PA 19107, (215) 597-3160.
-EPA, Region IV, Asbestos Coordinator, 345 Courtland St., N.E., Atlanta, GA 30365, (404) 347-5014.
+EPA, Region IV, Asbestos Coordinator, 61 Forsyth Street SW, Atlanta, Georgia 30303-8960, (404) 562-9900.
 EPA, Region V, (SP-14J), Asbestos Coordinator, 77 W. Jackson Blvd., Chicago, IL 60604-3590, (312) 886-6003.
 EPA, Region VI, (ECD), Asbestos Coordinator, 1201 Elm Street, Suite 500, Dallas, TX 75270, (214) 655-2760.
 EPA, Region VII, (WWPD/TOPE), Asbestos Coordinator, U.S. Environmental Protection Agency, 11201 Renner Boulevard, Lenexa, Kansas 66219. (800) 223-0425 or (913) 551-7122.
