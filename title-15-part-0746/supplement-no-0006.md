@@ -1,5 +1,5 @@
-# Supplement No. 6 to Part 746—Russian and Belarusian Industry Sector Sanctions Pursuant to § 746.5(a)(1)(iii)
-The items identified in this supplement are a subset of items that are otherwise designated as EAR99 under the Commerce Control List (CCL) in supplement no. 1 to part 774. These items may be useful for Russia's chemical and biological weapons production capabilities or may be diverted from Belarus to Russia for these or other activities of concern. These items consist of discrete chemicals, biologics, fentanyl and its precursors, and related equipment. BIS has specified Chemical Abstract Numbers (CAS) where applicable in this supplement to assist exporters, reexporters, and transferors in classifying these items. In addition, paragraph (g) of supplement no. 6 to part 746 identifies equipment and other items that BIS has determined are not manufactured in Russia or are otherwise important to Russia in developing advanced production and development capabilities to enable advanced manufacturing across a number of industries or may be diverted from Belarus to Russia for these or other activities of concern.
+# Supplement No. 6 to Part 746—Russian and Belarusian Industry Sector Sanctions Pursuant to § 746.8(a)(6)
+The items identified in this supplement are a subset of items that are otherwise designated as EAR99 under the Commerce Control List (CCL) in supplement no. 1 to part 774. These items may be useful for Russia's chemical and biological weapons production capabilities or may be diverted from Belarus to Russia for these or other activities of concern. These items consist of discrete chemicals, biologics, fentanyl and its precursors, and related equipment. BIS has specified Chemical Abstract Numbers (CAS) where applicable in this supplement to assist exporters, reexporters, and transferors in classifying these items. In addition, paragraph (g) of supplement no. 6 to part 746 identifies equipment and other items that BIS has determined are not manufactured in Russia or are otherwise important to Russia in developing advanced production and development capabilities to enable advanced manufacturing across a number of industries or may be diverted from Belarus to Russia for these or other activities of concern. This supplement does not include any item that meets the definition of "medicine" in § 772.1 of the EAR.
 (a) Chemicals in concentrations of 95% weight or greater, as follows:
 (1) Ethylene dichloride (CAS 107-06-2);
 (2) Nitromethane (CAS 75-52-5);
@@ -177,3 +177,24 @@ Note 12 to paragraph (g)(8): 'Decapsulation' is the removal of a cap, lid, or en
 (9) "Software" "specially designed" or modified for the "development", "production" or "use" of the items specified in paragraphs (g)(1) through (8) of this supplement.
 (10) "Software" for Digital Twins (DT) of additive manufacture products or for the determination of the reliability of additive manufacture products.
 (11) "Technology" for the "development", "production" or "use" of the items specified in paragraphs (g)(1) through (10) of this supplement.
+(h) Riot Control Agents which are isomers of CS (o-Chlorobenzylidenemalononitrile or o-Chlorobenzalmalononitrile) (CAS 2698-41-1); CN (Phenylacyl chloride or w-Chloroacetophenone) (CAS 532-27-4); or Oleoresin Capsicum (CAS 8023-77-6) as follows:
+(1) 8-Methyl-N-vanillyl-trans-6-nonenamide (Capsaicin) (CAS 404-86-4);
+(2) 8-Methyl-N-vanillylnonamide (Dihydrocapsaicin) (CAS 19408-84-5);
+(3) N-Vanillylnonamide (Pseudocapsaicin, PAVA) (CAS 2444-46-4);
+(4) N-Vanillyl-9-methyldec-7-(E)-enamide (Homocapsaicin) (CAS 58493-48-4);
+(5) N-Vanillyl-9-methyldecanamide (Homodihydrocapsaicin) (CAS 20279-06-5);
+(6) N-Vanillyl-7-methyloctanamide (Nordihydrocapsaicin) (CAS 28789-35-7);
+(7) 2′-chloroacetophenone (CAS 2142-68-9);
+(8) 3′-chloroacetophenone (CAS 99-02-5);
+(9) α-chlorobenzylidenemalononitrile (CAS 18270-61-6); and
+(10) Cis-4-acetylaminodicyclohexylmethane (CAS 37794-87-9).
+(i) Pre-cursors for riot control agents and chloropicrin as follows:
+(1) Malononitrile (CAS 109-77-3);
+(2) 2-Chlorobenzaldehyde (CAS 89-98-5);
+(3) 2-Chlorobenzyl Alcohol (CAS 17849-38-6);
+(4) 2-Chlorobenzylamine (CAS 89-97-4);
+(5) Benzene, 1-chloro-2-(dimethoxymethyl) (CAS 70380-66-4);
+(6) Acetophenone (CAS 98-86-2);
+(7) Chloroacetyl Chloride (CAS 79-04-9);
+(8) Chloroform (CAS 67-66-3); and
+(9) o-Aminophenol (CAS 95-55-6).
