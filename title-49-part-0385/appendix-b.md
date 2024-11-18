@@ -59,9 +59,9 @@ B. Proposed Safety Rating
 (a) The proposed safety rating will appear on the CR. The following appropriate information will appear after the last entry on the CR, MCS-151, part B.
 "Your proposed safety rating is SATISFACTORY."
 OR
-"Your proposed safety rating is CONDITIONAL." The proposed safety rating will become the final safety rating 45 days after you receive this notice.
+"Your proposed safety rating is CONDITIONAL." The proposed safety rating will become the final safety rating 45 days after receipt of this notice.
 OR
-"Your proposed safety rating is UNSATISFACTORY." The proposed safety rating will become the final safety rating 45 days after you receive this notice
+"Your proposed safety rating is UNSATISFACTORY." The proposed safety rating will become the final safety rating 45 days after receipt of this notice
 (b) Proposed safety ratings of conditional or unsatisfactory will list the deficiencies discovered during the CR for which corrective actions must be taken.
 (c) Proposed unsatisfactory safety ratings will indicate that, if the unsatisfactory rating becomes final, the motor carrier will be subject to the provision of § 385.13, which prohibits motor carriers rated unsatisfactory from transporting hazardous materials requiring placarding or more than 15 passengers, including the driver.
 IV. Assignment of Final Rating/Motor Carrier Notification
