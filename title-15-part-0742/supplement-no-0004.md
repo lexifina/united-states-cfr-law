@@ -1,0 +1,34 @@
+# Supplement No. 4 to Part 742—Countries Excluded From Certain Semiconductor Manufacturing Equipment License Requirements
+Australia
+Austria
+Belgium
+Bulgaria
+Canada
+Croatia
+Czech Republic
+Denmark
+Estonia
+Finland
+France
+Germany
+Greece
+Hungary
+Iceland
+Ireland
+Italy
+Japan
+Latvia
+Lithuania
+Luxembourg
+Netherlands
+New Zealand
+Norway
+Poland
+Portugal
+Romania
+Slovakia
+Slovenia
+Spain
+Sweden
+Switzerland
+United Kingdom
