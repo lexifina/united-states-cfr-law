@@ -97,3 +97,273 @@ ER13MR23.004
 Effy HS = heating seasonal efficiency as defined in sections 11.2.11 (non-condensing systems), 11.3.11 (condensing systems), 11.4.11 (non-condensing modulating systems) and 11.5.11 (condensing modulating systems) of ASHRAE 103-2017, and is based on the assumptions that weatherized boilers are located outdoors and that non-weatherized boilers are installed indoors.
 10.1.3 Balance Point Temperature for Condensing Modulating Boilers. Calculate the balance point temperature (T C) for condensing, modulating boilers by using the following equation in place of that referenced by section 11.5.8.4 of ASHRAE 103-2017: T C =
 ER13MR23.005
+Where:
+T SH = typical average outdoor temperature at which a boiler starts operating, 65 °F
+T OA,T = the typical outdoor design temperature, 5 °F
+α = oversize factor, as defined in 11.4.8.2
+Q IN = steady-state nameplate maximum fuel input rate
+Q IN,R = steady-state reduced input fuel input rate
+L S,SSR = average sensible heat loss at steady state, reduced input operation
+L S,SS = average sensible heat loss at steady state, maximum input operation
+10.2 National average burner operating hours, average annual fuel energy consumption, and average annual auxiliary electrical energy consumption for gas or oil boilers.
+10.2.1 National average number of burner operating hours.
+10.2.1.1 For boilers equipped with single-stage controls, the national average number of burner operating hours is defined as:
+BOH SS = 2,080 (0.77) (A) [(Q OUT /1000)/(1+α)]−2,080 (B)
+Where:
+2,080 = national average heating load hours
+0.77 = adjustment factor to adjust the calculated design heating requirement and heating load hours to the actual heating load experienced by the heating system
+A = 100,000/[341,200 (y P PE + y IG PE IG + y BE) + (Q IN −Q P) Effy HS], for forced draft unit, indoors
+= 100,000/[341,200 (y P PE (1−Eff motor) + y IG PE IG + y BE) + (Q IN −Q P) Effy HS], for induced draft unit, indoors, and
+Q OUT = value as defined in section 11.2.8.1 of ASHRAE 103-2017.
+α = value as defined in section 11.2.8.2 of ASHRAE 103-2017.
+B = 2 Q P (Effy HS) (A)/100,000
+Where:
+Eff motor = nameplate power burner motor efficiency provided by the manufacturer,
+= 0.50, an assumed default power burner efficiency if not provided by the manufacturer.
+100,000 = factor that accounts for percent and kBtu
+y P = ratio of induced or forced draft blower on-time to average burner on-time, as follows:
+1 for units without post-purge;
+1 + (t P /t ON) for single stage boilers with post purge; or
+PE = all electrical power related to burner operation at full load steady-state operation, including electrical ignition device if energized, controls, gas valve or oil control valve, draft inducer, and boiler pump, as determined in section 8.2 of this appendix.
+y IG = ratio of burner interrupted ignition device on-time to average burner on-time, as follows:
+0 for burners not equipped with interrupted ignition device;
+(t IG /t ON) for single stage boilers
+PE IG = electrical input rate to the interrupted ignition device on burner (if employed), as defined in section 8.3 of this appendix
+y = ratio of pump on-time to average burner on-time, as follows:
+1 for boilers without a pump delay;
+1 + (t + /t ON) for single-stage boilers with pump delay;
+BE = circulating water pump electrical energy input rate at full-load steady-state operation as defined in section 8.2 of this appendix.
+t P = post-purge time as defined in section 8.5 of this appendix
+= 0 if t P is equal to or less than 30 seconds
+t IG = on-time of the burner interrupted ignition device, as defined in section 8.3 of this appendix
+Q IN = as defined in section 11.2.8.1 of ASHRAE 103-2017
+Q P = as defined in section 11.2.11 of ASHRAE 103-2017
+Effy HS = as defined in section 11.2.11 (non-condensing systems) or section 11.3.11.3 (condensing systems) of ASHRAE 103-2017, percent, and calculated on the basis of:
+indoor installation, for non-weatherized boilers; or outdoor installation, for boilers that are weatherized.
+2 = ratio of the average length of the heating season in hours to the average heating load hours
+t + = delay time between burner shutoff and the pump shutoff measured as defined in section 8.5 of this appendix.
+t ON = value as defined in Table 7 of ASHRAE 103-2017.
+10.2.1.2 For boilers equipped with two-stage or step-modulating controls, the national average number of burner operating hours at the reduced operating mode (BOH R) is defined as:
+BOH R = X R (2080)(0.77)[(Q OUT /1,000)/(1+α)](A R)−2080(B R)
+Where:
+X R = as defined in section 11.4.8.6 of SHRAE 103-2017
+2080 = as defined in section 10.2.1.1 of this appendix
+0.77 = as defined in section 10.2.1.1 of this appendix
+Q OUT = as defined in section 11.4.8.1.1 or 11.5.8.1.1 of ASHRAE 103-2017
+α = as defined in section 11.4.8.2 of ASHRAE 103-2017
+A R = 100,000/[341,200(y P,R PE R + y IG,R PE IG + y R BE R) + (Q IN,R −Q P) Effy U,R] for forced draft unit, indoors; and
+= 100,000/[341,200(y P,R PE R (1−Eff motor) + y IG,R PE IG + y R BE R) + (Q IN,R −Q P) Effy U,R] for induced draft unit, indoors
+B R = 2Q P (Effy U,R) (A R)/100,000
+100,000 = conversion factor accounting for percent and 1,000 Btu/kBtu
+341,200 = conversion factor accounting for percent and 3412 Btu/h/kW
+y P,R = 1 + (t p /t ON,R) for two-stage and step modulating boilers with post purge
+PE R = as defined in section 8.2 of this appendix and measured at the reduced fuel input rate
+y IG,R = t IG /t ON,R
+PE IG = as defined in section 8.3 of this appendix
+y R = 1 + (t +)/t ON,R for two-stage and step modulating boilers with fan delay
+BE R = as defined in section 8.2 of this appendix and measured at the reduced fuel input rate
+Q IN,R = as defined in section 11.4.8.1.2 of ASHRAE 103-2017
+Q P = as defined in section 11.4.12 of ASHRAE 103-2017
+Effy U,R = as defined in section 11.4.11.1 or 11.5.11.1 of ASHRAE 103-2017, and calculated on the basis of:
+indoor installation, for non-weatherized boilers; or
+outdoor installation, for boilers that are weatherized.
+Eff motor = nameplate power burner motor efficiency provided by the manufacturer,
+= 0.50, an assumed default power burner efficiency if not provided by the manufacturer.
+10.2.1.3 For boilers equipped with two-stage controls, the national average number of burner operating hours at the maximum operating mode (BOH H) is defined as:
+BOH H = X H (2080)(0.77)[(Q OUT /1,000)/(1+α)](A H)—2080(B H)
+Where:
+X H = as defined in section 11.4.8.5 of SHRAE 103-2017
+2080 = as defined in section 10.2.1.1 of this appendix
+0.77 = as defined in section 10.2.1.1 of this appendix
+Q OUT = as defined in section 11.4.8.1.1 or 11.5.8.1.1 ofASHRAE 103-2017
+α = as defined in section 11.4.8.2 of ASHRAE 103-2017
+A H = 100,000/[341,200(y P,H PE H + y IG,H PE IG + y H BE H) + (Q IN,H —Q P) Effy U,H] for forced draft unit, indoors; and
+= 100,000/[341,200(y P,H PE H (1—Eff motor) + y IG,H PE IG + y H BE H) + (Q IN,H —Q P) Effy U,H] for induced draft unit, indoors
+B H = 2Q P (Effy U,H) (A H)/100,000
+100,000 = conversion factor accounting for percent and 1,000 Btu/kBtu
+341,200 = conversion factor accounting for percent and 3412 Btu/h/kW
+y P,H = 1 + (t p /t ON,H) for two-stage and step modulating boilers with post purge
+PE H = as defined in section 8.2 of this appendix and measured at the maximum fuel input rate
+y IG,H = t IG /t ON,H
+PE IG = as defined in section 8.3 of this appendix
+y H = 1 + (t +)/t ON,H for two-stage and step modulating boilers with fan delay
+BE H = as defined in section 8.2 of this appendix and measured at the maximum fuel input rate
+Q IN,H = as defined in section 11.4.8.1.1 of ASHRAE 103-2017
+Q P = as defined in section 11.4.12 of ASHRAE 103-2017
+Effy U,H = as defined in section 11.4.11.2 or 11.5.11.2 of ASHRAE 103-2017, and calculated on the basis of:
+indoor installation, for non-weatherized boilers; or
+outdoor installation, for boilers that are weatherized.
+Eff motor = nameplate power burner motor efficiency provided by the manufacturer,
+= 0.50, an assumed default power burner efficiency if not provided by the manufacturer.
+10.2.1.4 For boilers equipped with step-modulating controls, the national average number of burner operating hours at the modulating operating mode (BOH M) is defined as:
+BOH M = X H (2080)(0.77)[(Q OUT /1,000)/(1+α)](A M)—2080(B M)
+Where:
+X H = as defined in section 11.4.8.5 of ASHRAE 103-2017
+2080 = as defined in section 10.2.1.1 of this appendix
+0.77 = as defined in section 10.2.1.1 of this appendix
+Q OUT = as defined in section 11.4.8.1.1 or 11.5.8.1.1 of ASHRAE 103-2017
+α = as defined in section 11.4.8.2 of ASHRAE 103-2017
+A M = 100,000/[341,200(y P,H PE H + y IG,H PE IG + y H BE H) + (Q IN,M —Q P) Effy U,M] for forced draft unit, indoors; and
+= 100,000/[341,200(y P,H PE H (1—Eff motor) + y IG,H PE IG + y H BE H) + (Q IN,M —Q P) Effy U,M] for induced draft unit, indoors
+B M = 2Q P (Effy U,M) (A M)/100,000
+100,000 = conversion factor accounting for percent and 1,000 Btu/kBtu
+341,200 = conversion factor accounting for percent and 3412 Btu/h/kW
+y P,H = 1 + (t p /t ON,H) for two-stage and step modulating boilers with post purge
+PE H = as defined in section 8.2 of this appendix and measured at the maximum fuel input rate
+y IG,H = t IG /t ON,H
+PE IG = as defined in section 8.3 of this appendix
+y H = 1 + (t +)/t ON,H for two-stage and step modulating boilers with fan delay
+BE H = as defined in section 8.2 of this appendix and measured at the maximum fuel input rate
+Q IN,M = (100)(Q OUT,M /Effy SS,M)
+Q OUT,M = as defined in section 11.4.8.9 or 11.5.8.9 of ASHRAE 103-2017
+Effy SS,M = value as defined in section 11.4.8.7 or 11.5.8.7 of ASHRAE 103-2017
+Q P = as defined in section 11.4.12 of ASHRAE 103-2017
+Effy U,M = as defined in section 11.4.9.2.3 or 11.5.9.2.3 of ASHRAE 103-2017, and calculated on the basis of:
+indoor installation, for non-weatherized boilers; or
+outdoor installation, for boilers that are weatherized.
+Eff motor = nameplate power burner motor efficiency provided by the manufacturer,
+= 0.50, an assumed default power burner efficiency if not provided by the manufacturer.
+10.2.2 Average annual fuel energy consumption for gas or oil fueled boilers.
+10.2.2.1 For boilers equipped with single-stage controls, the average annual fuel energy consumption (E F) is expressed in Btu per year and defined as:
+E F = BOH SS (Q IN − Q P) + 8,760 Q P
+Where:
+BOH SS = as defined in section 10.2.1.1 of this appendix
+Q IN = as defined in section 11.2.8.1 of ASHRAE 103-2017
+Q P = as defined in section 11.2.11 of ASHRAE 103-2017
+8,760 = total number of hours per year.
+10.2.2.2 For boilers equipped with either two-stage or step modulating controls, E F is defined as follows. For two-stage control:
+E F = (BOH H)(Q IN) + (BOH R)(Q IN,R) + [8760 − (BOH H + BOH R)]Q P
+For step-modulating control:
+E F = (BOH M)(Q IN,M) + (BOH R)(Q IN,R) + [8760 − (BOH H + BOH R)]Q P
+Where:
+BOH H = as defined in section 10.2.1.3 of this appendix
+BOH R = as defined in section 10.2.1.2 of this appendix
+BOH M = as defined in section 10.2.1.4 of this appendix
+Q IN = as defined in section 11.2.8.1 of ASHRAE 103-2017
+Q IN,R = as defined in section 11.4.8.1.2 of ASHRAE 103-2017
+Q IN,M = as defined in section 10.2.1.4 of this appendix
+8,760 = total number of hours per year
+Q P = as defined in section 11.2.11 of ASHRAE 103-2017.
+10.2.3 Average annual auxiliary electrical energy consumption for gas or oil-fueled boilers.
+10.2.3.1 For boilers equipped with single-stage controls, the average annual auxiliary electrical consumption (E AE) is expressed in kilowatt-hours and defined as:
+E AE = BOH SS (y P PE + y IG PE IG + yBE) + E SO
+Where:
+BOH SS = as defined in section 10.2.1.1 of this appendix
+y P = as defined in section 10.2.1.1 of this appendix
+PE = as defined in section 10.2.1.1 of this appendix
+y IG = as defined in section 10.2.1.1 of this appendix
+PE IG = as defined in section 10.2.1.1 of this appendix
+y = as defined in section 10.2.1.1 of this appendix
+BE = as defined in section 10.2.1.1 of this appendix
+E SO = as defined in section 10.7 of this appendix.
+10.2.3.2 For boilers equipped with two-stage controls, E AE is defined as:
+E AE = BOH R (y P,R PE R + y IG,R PE IG + y R BE R) + BOH H (y P,H PE H + y IG,H PE IG + y H BE H) + E SO
+Where:
+BOH R = as defined in section 10.2.1.2 of this appendix
+y P,R = as defined in section 10.2.1.2 of this appendix
+PE R = as defined in section 8.2 of this appendix and measured at the reduced fuel input rate
+y IG,R = as defined in section 10.2.1.2 of this appendix
+PE IG = as defined in section 10.2.1.1 of this appendix
+y R = as defined in section 10.2.1.2 of this appendix
+BE R = as defined in section 8.2 of this appendix and measured at the reduced fuel input rate
+BOH H = as defined in section 10.2.1.3 of this appendix
+PE H = as defined in section 8.2 of this appendix and measured at the maximum fuel input rate
+y P,H = as defined in section 10.2.1.3 of this appendix
+y IG,H = as defined in section 10.2.1.3 of this appendix
+BE H = as defined in section 8.2 of this appendix and measured at the maximum fuel input rate
+y H = as defined in section 10.2.1.3 of this appendix
+E SO = as defined in section 10.7 of this appendix.
+10.2.3.3 For boilers equipped with step-modulating controls, E AE is defined as:
+E AE = BOH R (y P,R PE R + y IG,R PE IG + y R BE R) + BOH M (y P,H PE H + y IG,H PE IG + y H BE H) + E SO
+Where:
+BOH R = as defined in section 10.2.1.2 of this appendix
+y P,R = as defined in section 10.2.1.2 of this appendix
+PE R = as defined in section 8.2 of this appendix and measured at the reduced fuel input rate
+y IG,R = as defined in section 10.2.1.2 of this appendix
+PE IG = as defined in section 10.2.1 of this appendix
+y R = as defined in section 10.2.1.2 of this appendix
+BE R = as defined in section 8.2 of this appendix and measured at the reduced fuel input rate
+BOH M = as defined in 10.2.1.4 of this appendix
+y P,H = as defined in section 10.2.1.3 of this appendix
+PE H = as defined in section 8.2 of this appendix and measured at the maximum fuel input rate
+y IG,H = as defined in section 10.2.1.3 of this appendix
+y H = as defined in section 10.2.1.3 of this appendix
+BE H = as defined in section 8.2 of this appendix and measured at the maximum fuel input rate
+E SO = as defined in section 10.7 of this appendix.
+10.3 Average annual electric energy consumption for electric boilers. For electric boilers, the average annual electrical energy consumption (E E) is expressed in kilowatt-hours and defined as:
+E E = 100 (2,080) (0.77) [Q OUT /(1+α)]/(3412 AFUE) + E SO
+Where:
+100 = to express a percent as a decimal
+2,080 = as defined in section 10.2.1.1 of this appendix
+0.77 = as defined in section 10.2.1.1 of this appendix
+Q OUT = as defined in section 11.2.8 of ASHRAE 103-2017
+α = as defined in section 11.2.8.2 of ASHRAE 103-2017
+3412 = conversion factor from kilowatt-hours to Btu
+AFUE = as defined in section 11.1 of ASHRAE 103-2017, in percent, and calculated on the basis of:
+indoor installation, for non-weatherized boilers; or
+outdoor installation, for boilers that are weatherized.
+E SO = as defined in section 10.7 of this appendix.
+10.4 Energy factor.
+10.4.1 Energy factor for gas or oil boilers. Calculate the energy factor, EF, for gas or oil boilers defined as, in percent:
+EF = (E F − 4,600 (Q P))(Effy HS)/(E F + 3,412 (E AE))
+Where:
+E F = average annual fuel consumption as defined in section 10.2.2 of this appendix
+4,600 = as defined in section 11.4.12 of ASHRAE 103-2017
+Q P = pilot fuel input rate determined in accordance with section 9.2 of ASHRAE 103-2017 in Btu/h
+Effy HS = annual fuel utilization efficiency as defined in sections 11.2.11, 11.3.11, 11.4.11 or 11.5.11 of ASHRAE 103-2017, in percent, and calculated on the basis of:
+indoor installation, for non-weatherized boilers; or
+outdoor installation, for boilers that are weatherized.
+3,412 = conversion factor from kW to Btu/h
+E AE = as defined in section 10.2.3 of this appendix.
+10.4.2 Energy factor for electric boilers. The energy factor, EF, for electric boilers is defined as:
+EF = AFUE
+Where:
+AFUE = annual fuel utilization efficiency as defined in section 10.3 of this appendix, in percent.
+10.5 Average annual energy consumption for boilers located in a different geographic region of the United States and in buildings with different design heating requirements.
+10.5.1 Average annual fuel energy consumption for gas or oil-fueled boilers located in a different geographic region of the United States and in buildings with different design heating requirements. For gas or oil-fueled boilers, the average annual fuel energy consumption for a specific geographic region and a specific typical design heating requirement (E FR) is expressed in Btu per year and defined as:
+E FR = (E F − 8,760 Q P) (HLH/2,080) + 8,760 Q P
+Where:
+E F = as defined in section 10.2.2 of this appendix
+8,760 = as defined in section 10.2.2 of this appendix
+Q P = as defined in section 11.2.11 of ASHRAE 103-2017
+HLH = heating load hours for a specific geographic region determined from the heating load hour map in Figure 1 of this appendix
+2,080 = as defined in section 10.2.1.1 of this appendix.
+10.5.2 Average annual auxiliary electrical energy consumption for gas or oil-fueled boilers located in a different geographic region of the United States and in buildings with different design heating requirements. For gas or oil-fueled boilers, the average annual auxiliary electrical energy consumption for a specific geographic region and a specific typical design heating requirement (E AER) is expressed in kilowatt-hours and defined as:
+E AER = (E AE −E SO) (HLH/2080) + E SOR
+Where:
+E AE = as defined in section 10.2.3 of this appendix
+E SO = as defined in section 10.7 of this appendix
+HLH = as defined in section 10.5.1 of this appendix
+2,080 = as defined in section 10.2.1.1 of this appendix
+E SOR = as defined in section 10.5.3 of this appendix.
+10.5.3 Average annual electric energy consumption for electric boilers located in a different geographic region of the United States and in buildings with different design heating requirements. For electric boilers, the average annual electric energy consumption for a specific geographic region and a specific typical design heating requirement (E ER) is expressed in kilowatt-hours and defined as:
+E ER = 100 (0.77) [Q OUT /(1+α)] HLH/(3.412 AFUE) + E SOR
+Where:
+100 = as defined in section 10.2.3 of this appendix
+0.77 = as defined in section 10.2.1.1 of this appendix
+Q OUT = as defined in section 11.2.8.1 of ASHRAE 103-2017
+α = as defined in section 11.2.8.2 of ASHRAE 103-2017
+HLH = as defined in section 10.5.1 of this appendix
+3.412 = as defined in section 10.2.3 of this appendix
+AFUE = as defined in section 10.2.3 of this appendix
+E SOR = E SO as defined in section 10.7 of this appendix, except that in the equation for E SO, the term BOH is multiplied by the expression (HLH/2080) to get the appropriate regional accounting of standby mode and off mode loss.
+10.6 [Reserved]
+10.7 Average annual electrical standby mode and off mode energy consumption. Calculate the annual electrical standby mode and off mode energy consumption (E SO) in kilowatt-hours, defined as:
+E SO = (P W,SB (4160−BOH) + 4600 P W,OFF) K
+Where:
+P W,SB = boiler standby mode power, in watts, as measured in section 8.9.1 of this appendix
+4,160 = average heating season hours per year
+BOH = total burner operating hours as calculated in section 10.2 of this appendix for gas or oil-fueled boilers. Where for gas or oil-fueled boilers equipped with single-stage controls, BOH = BOH SS; for gas or oil-fueled boilers equipped with two-stage controls, BOH = (BOH R + BOH H); and for gas or oil-fueled boilers equipped with step-modulating controls, BOH = (BOH R + BOH M). For electric boilers, BOH = 100(2080)(0.77)[Q OUT /(1+α)]/(E in 3412(AFUE))
+4,600 = as defined in section 11.4.12 of ASHRAE 103-2017
+P W,OFF = boiler off mode power, in watts, as measured in section 8.9.2 of this appendix
+K = 0.001 kWh/Wh, conversion factor from watt-hours to kilowatt-hours
+Where:
+100 = to express a percent as a decimal
+2,080 = as defined in section 10.2.1.1 of this appendix
+0.77 = as defined in section 10.2.1.1 of this appendix
+Q OUT = as defined in section 11.2.8 of ASHRAE 103-2017
+α = as defined in section 11.2.8.2 of ASHRAE 103-2017
+E in = steady-state electric rated power, in kilowatts, from section 9.3 of ASHRAE 103-2017
+3412 = as defined in section 10.3 of this appendix
+AFUE = as defined in section 11.1 of ASHRAE 103-2017 in percent.
+ER13MR23.006
