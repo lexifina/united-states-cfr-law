@@ -81,6 +81,30 @@ ER31JY15.009
 3.3 Case dimensions for whole-home dehumidifiers. Measure case dimensions using equipment with a resolution of no more than 0.1 in.
 4. Test Measurement
 4.1 Dehumidification mode.
+4.1.1 Portable dehumidifiers and whole-home dehumidifiers other than refrigerant-desiccant dehumidifiers. Measure the energy consumption in dehumidification mode, EDM, in kilowatt-hours (kWh), the average percent relative humidity, Ht, either as measured using a relative humidity sensor or using Tables 2 and 3 when using an aspirating psychrometer, and the product capacity, Ct, in pints per day (pints/day), in accordance with the test requirements specified in section 7, "Test Tolerances," section 8, "Capacity Test," and section 9, "Energy Consumption," of AHAM DH-1-2022, with two exceptions. First, the rating test period must be 2 hours. Second, maintain the standard test conditions as shown in Table 1.
+Table 1 to Paragraph 4.1.1.—Standard Test Conditions for Dehumidifier Testing
+Configuration | Dry-bulb temperature (°F) | Aspirating psychrometer wet-bulb temperature (°F) | Relative humidity sensor relative humidity (%)
+Portable dehumidifiers | 65 ± 2.0 | 56.6 ± 1.0 | 60 ± 2
+Whole-home dehumidifiers | 73 ± 2.0 | 63.6 ± 1.0 | 60 ± 2
+When using relative humidity and dry-bulb temperature sensors, for dehumidifiers with multiple process air intake grilles, average the measured relative humidities and average the measured dry-bulb temperatures to determine the overall intake air conditions.
+Table 2 to Paragraph 4.1.1.—Relative Humidity as a Function of Dry-Bulb and Wet-Bulb Temperatures for Portable Dehumidifiers
+Wet-bulb temperature (°F) | Dry-bulb temperature (°F) | 64.5 | 64.6 | 64.7 | 64.8 | 64.9 | 65 | 65.1 | 65.2 | 65.3 | 65.4 | 65.5
+56.3 | 60.32 | 59.94 | 59.57 | 59.17 | 58.8 | 58.42 | 58.04 | 57.67 | 57.3 | 56.93 | 56.56
+56.4 | 60.77 | 60.38 | 60 | 59.62 | 59.24 | 58.86 | 58.48 | 58.11 | 57.73 | 57.36 | 56.99
+56.5 | 61.22 | 60.83 | 60.44 | 60.06 | 59.68 | 59.3 | 58.92 | 58.54 | 58.17 | 57.8 | 57.43
+56.6 | 61.66 | 61.27 | 60.89 | 60.5 | 60.12 | 59.74 | 59.36 | 58.98 | 58.6 | 58.23 | 57.86
+56.7 | 62.4 | 61.72 | 61.33 | 60.95 | 60.56 | 60.18 | 59.8 | 59.42 | 59.04 | 58.67 | 58.29
+56.8 | 62.56 | 62.17 | 61.78 | 61.39 | 61 | 60.62 | 60.24 | 59.86 | 59.48 | 59.1 | 58.73
+56.9 | 63.01 | 62.62 | 62.23 | 61.84 | 61.45 | 61.06 | 60.68 | 60.3 | 59.92 | 59.54 | 59.16
+Table 3 to Paragraph 4.1.1.—Relative Humidity as a Function of Dry-Bulb and Wet-Bulb Temperatures for Whole-Home Dehumidifiers
+Wet-bulb temperature (°F) | Dry-bulb temperature (°F) | 72.5 | 72.6 | 72.7 | 72.8 | 72.9 | 73 | 73.1 | 73.2 | 73.3 | 73.4 | 73.5
+63.3 | 60.59 | 60.26 | 59.92 | 59.59 | 59.26 | 58.92 | 58.6 | 58.27 | 57.94 | 57.62 | 57.3
+63.4 | 60.98 | 60.64 | 60.31 | 59.75 | 59.64 | 59.31 | 58.98 | 58.65 | 58.32 | 58 | 57.67
+63.5 | 61.37 | 61.03 | 60.7 | 60.36 | 60.02 | 59.69 | 59.36 | 59.03 | 58.7 | 58.38 | 58.05
+63.6 | 61.76 | 61.42 | 61.08 | 60.75 | 60.41 | 60.08 | 59.74 | 59.41 | 59.08 | 58.76 | 58.43
+63.7 | 62.16 | 61.81 | 61.47 | 61.13 | 60.8 | 60.46 | 60.13 | 59.8 | 59.47 | 59.14 | 58.81
+63.8 | 62.55 | 62.2 | 61.86 | 61.52 | 61.18 | 60.85 | 60.51 | 60.18 | 59.85 | 59.52 | 59.19
+63.9 | 62.94 | 62.6 | 62.25 | 61.91 | 61.57 | 61.23 | 60.9 | 60.56 | 60.23 | 59.9 | 59.57
 4.1.2 Refrigerant-desiccant dehumidifiers. Establish the testing conditions set forth in section 3.1.2 of this appendix. Measure the energy consumption, EDM, in kWh, in accordance with the test requirements specified in section 8, "Capacity Test," and section 9, "Energy Consumption," respectively, of AHAM DH-1-2022, with the following exceptions and adjustments:
 (a) Each measurement of the temperature and relative humidity of the air entering the process air inlet duct and the reactivation air inlet must be within 73 °F ± 2.0 °F dry-bulb temperature and 60 percent ± 5 percent relative humidity, and the arithmetic average of the inlet test conditions over the test period shall be within 73 °F ± 0.5 °F dry-bulb temperature and 60 percent ± 2 percent relative humidity;
 (b) Disregard the instructions for psychrometer placement;
@@ -91,10 +115,7 @@ ER31JY15.009
 (i) Replace "Condensate collected (lb)" and "mlb", with the weight of condensate removed, W, as calculated in section 5.6 of this appendix; and
 (ii) Use the recorded relative humidities, not the tables in section 4.1.1 of this appendix, to determine average relative humidity.
 4.2 Off-cycle mode. Follow requirements for test measurement in off-cycle mode of operation in accordance with section 9.3.2 of AHAM DH-1-2022.
-4.2 Off-cycle mode. Establish the test conditions specified in section 3.1.1 or 3.1.2 of this appendix, but use the wattmeter specified in section 3.2.3 of this appendix. Begin the off-cycle mode test period immediately following the dehumidification mode test period. Adjust the setpoint higher than the ambient relative humidity to ensure the product will not enter dehumidification mode and begin the test when the compressor cycles off due to the change in setpoint. The off-cycle mode test period shall be 2 hours in duration, during which the power consumption is recorded at the same intervals as recorded for dehumidification mode testing. Measure and record the average off-cycle mode power of the dehumidifier, P OC, in watts.
 4.3 Inactive and off mode. Follow requirements for test measurement in inactive and off modes of operation in accordance with section 9.3.1 of AHAM DH-1-2022.
-4.3.1 If the dehumidifier has an inactive mode, as defined in section 2.10 of this appendix, but not an off mode, as defined in section 2.11 of this appendix, measure and record the average inactive mode power of the dehumidifier, P IA, in watts.
-4.3.2 If the dehumidifier has an off mode, as defined in section 2.11 of this appendix, measure and record the average off mode power of the dehumidifier, P OM, in watts.
 4.4 Product case volume for whole-home dehumidifiers. Measure the maximum case length, D L, in inches, the maximum case width, D W, in inches, and the maximum height, D H, in inches, exclusive of any duct collar attachments or other external components.
 5. Calculation of Derived Results From Test Measurements
 5.1 Corrected relative humidity. Calculate the average relative humidity, for portable and whole-home dehumidifiers, corrected for barometric pressure variations as:
