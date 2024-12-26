@@ -5,18 +5,13 @@ This appendix lists the wage area definitions for NAF employees. With a few exce
 (3) Area of application definition. Lists each county or independent city which, in addition to the survey area, is in the area of application.
 Definitions of Wage Areas and Wage Area Survey Areas
 ALABAMA
-Calhoun
+Madison
 Survey Area
 Alabama:
-Calhoun
+Madison
 Area of Application. Survey area plus:
 Alabama:
 Jefferson
-Madison
-Survey Area
-Alabama:
-Madison
-Area of Application. Survey area plus:
 Tennessee:
 Coffee
 Davidson
@@ -162,11 +157,10 @@ California:
 Ventura
 Area of Application. Survey area.
 COLORADO
-Arapahoe-Denver
+Arapahoe
 Survey Area
 Colorado:
 Arapahoe
-Denver
 Area of Application. Survey area plus:
 Colorado:
 Mesa
@@ -202,7 +196,9 @@ Washington, DC
 Survey Area
 District of Columbia:
 Washington, DC
-Area of Application. Survey area.
+Area of Application. Survey Area Plus:
+West Virginia:
+Berkeley
 FLORIDA
 Bay
 Survey Area
@@ -282,6 +278,8 @@ Survey Area
 Georgia:
 Cobb
 Area of Application. Survey area plus:
+Alabama:
+Calhoun
 Georgia:
 Bartow
 De Kalb
@@ -298,7 +296,7 @@ Survey Area
 Georgia:
 Dougherty
 Area of Application. Survey area.
-Houston
+HOUSTON
 Survey Area
 Georgia:
 Houston
@@ -309,7 +307,7 @@ Lowndes
 Survey Area
 Georgia:
 Lowndes
-Area of Application. Survey area plus.
+Area of Application. Survey area plus:
 Florida:
 Leon
 Richmond
@@ -471,8 +469,9 @@ Anne Arundel
 Area of Application. Survey area plus:
 Maryland: (city)
 Baltimore
-Maryland: (county)
+Maryland: (counties)
 Baltimore
+Frederick
 Charles-St. Mary's
 Survey Area
 Maryland:
@@ -483,10 +482,10 @@ Maryland:
 Calvert
 Virginia:
 King George
-Frederick
+Harford
 Survey Area
 Maryland:
-Frederick
+Harford
 Area of Application. Survey area plus:
 West Virginia:
 Berkeley
