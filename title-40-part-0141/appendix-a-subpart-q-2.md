@@ -1,16 +1,17 @@
 # Appendix A to Subpart Q of Part 141—NPDWR Violations and Other Situations Requiring Public Notice 1
-Contaminant | MCL/MRDL/TT violations 2 | Tier of public notice required | Citation | Monitoring & testing procedure violations | Tier of public notice required | Citation
-I. Violations of National Primary Drinking Water Regulations (NPDWR): 3
-A. Microbiological Contaminants
+Contaminant | MCL/MRDL/TT violations 2 | Monitoring & testing procedure violations
+Tier of public notice required | Citation | Tier of public notice required | Citation
+I. Violations of National Primary Drinking Water Regulations (NPDWR): 3 | | | |
+A. Microbiological Contaminants | | | |
 1.a Total coliform bacteria † | 2 | 141.63(a) | 3 | 141.21(a)-(e).
 1.b Total coliform (TT violations resulting from failure to perform assessments or corrective actions, monitoring violations, and reporting violations) ‡ | 2 | 141.860(b)(1) | 3 | 141.860(c)(1).
 | | | | 141.860(d)(1).
 1.c Seasonal system failure to follow State-approved start-up plan prior to serving water to the public or failure to provide certification to State ‡ | 2 | 141.860(b)(2) | 3 | 141.860(d)(3).
-2.a Fecal coliform/ E. coli † | 1 | 141.63(b) | 4 1,3 | 141.21(e)
+2.a Fecal coliform/E. coli † | 1 | 141.63(b) | 4 1,3 | 141.21(e)
 2.b E. coli (MCL, monitoring, and reporting violations) ‡ | 1 | 141.860 (a) | 3 | 141.860(c)(2)
 | | | | 141.860(d)(1).
 | | | | 141.860(d)(2).
-2.c E. coli (TT violations resulting from failure to perform level 2 Assessments or corrective action) ‡ | 2 | 141.860(b)(1)
+2.c E. coli (TT violations resulting from failure to perform level 2 Assessments or corrective action) ‡ | 2 | 141.860(b)(1) | |
 3. Turbidity MCL | 2 | 141.13(a) | 3 | 141.22
 4. Turbidity MCL (average of 2 days' samples >5 NTU) | 5 2, 1 | 141.13(b) | 3 | 141.22
 5. Turbidity (for TT violations resulting from a single exceedance of maximum allowable turbidity level) | 6 2, 1 | 141.71(a)(2), 141.71(c)(2)(i), 141.73(a)(2), 141.73 (b)(2), 141.73 (c)(2), 141.73(d), 141.173(a)(2), 141.173(b), 141.551(b) | 3 | 141.74(a)(1), 141.74(b)(2), 141.74(c)(1), 141.174, 141.560(a)-(c), 141.561.
@@ -20,7 +21,7 @@ A. Microbiological Contaminants
 9. Long Term 1 Enhanced Surface Water Treatment Rule violations | 2 | 141.500-141.553 | 3 | 141.530-141.544, 141.560-141.564.
 10. LT2ESWTR violations | 2 | 141.710-141.720 | 22 2, 3 | 141.701-141.705 and 141.708-141.709.
 11. Ground Water Rule violations | 2 | 141.404 | 3 | 141.402(h), 141.403(d).
-B. Inorganic Chemicals (IOCs)
+B. Inorganic Chemicals (IOCs) | | | |
 1. Antimony | 2 | 141.62(b) | 3 | 141.23(a), (c)
 2. Arsenic | 2 | 8 141.62(b) | 3 | 11 141.23(a), (c)
 3. Asbestos (fibers >10 µm) | 2 | 141.62(b) | 3 | 141.23(a)-(b)
@@ -36,10 +37,10 @@ B. Inorganic Chemicals (IOCs)
 13. Total Nitrate and Nitrite | 1 | 141.62(b) | 3 | 141.23(a)
 14. Selenium | 2 | 141.62(b) | 3 | 141.23(a), (c)
 15. Thallium | 2 | 141.62(b) | 3 | 141.23(a), (c)
-C. Lead and Copper Rule (Action Level for lead is 0.015 mg/L, for copper is 1.3 mg/L)
-1. Lead and Copper Rule (TT) | 2 | 141.80 (except 141.80(c))-141.84, 141.85(a)-(c) and (h), and 141.93 | 3 | 141.86-141.90
-2. Exceedance of the Action Level for lead | 1 | 141.80(c)
-D. Synthetic Organic Chemicals (SOCs)
+C. Lead and Copper Rule (Action Level for lead is 0.015 mg/L, for copper is 1.3 mg/L) | | | |
+1. Lead and Copper Rule (TT) | 2 | 141.80 (except paragraph (c)) through 141.84, 141.85(a) through (c) (except paragraphs (c)(3)), (h), and (j), and 141.93 | 3 | 141.86 through 141.90, 141.92.
+2. Exceedance of the Action Level for lead | 1 | 141.80(c) | |
+D. Synthetic Organic Chemicals (SOCs) | | | |
 1. 2,4-D | 2 | 141.61(c) | 3 | 141.24(h)
 2. 2,4,5-TP (Silvex) | 2 | 141.61(c) | 3 | 141.24(h)
 3. Alachlor | 2 | 141.61(c) | 3 | 141.24(h)
@@ -76,7 +77,7 @@ D. Synthetic Organic Chemicals (SOCs)
 34. PFNA | * 2 | 141.61(c) | 3 | 141.905(c)
 35. PFOA | * 2 | 141.61(c) | 3 | 141.905(c)
 36. PFOS | * 2 | 141.61(c) | 3 | 141.905(c)
-E. Volatile Organic Chemicals (VOCs)
+E. Volatile Organic Chemicals (VOCs) | | | |
 1. Benzene | 2 | 141.61(a) | 3 | 141.24(f)
 2. Carbon tetrachloride | 2 | 141.61(a) | 3 | 141.24(f)
 3. Chlorobenzene (monochlorobenzene) | 2 | 141.61(a) | 3 | 141.24(f)
@@ -98,12 +99,12 @@ E. Volatile Organic Chemicals (VOCs)
 19. Trichloroethylene | 2 | 141.61(a) | 3 | 141.24(f)
 20. Vinyl chloride | 2 | 141.61(a) | 3 | 141.24(f)
 21. Xylenes (total) | 2 | 141.61(a) | 3 | 141.24(f)
-F. Radioactive Contaminants
+F. Radioactive Contaminants | | | |
 1. Beta/photon emitters | 2 | 141.66(d) | 3 | 141.25(a) 141.26(b)
 2. Alpha emitters | 2 | 141.66(c) | 3 | 141.25(a) 141.26(a)
 3. Combined radium (226 and 228) | 2 | 141.66(b) | 3 | 141.25(a) 141.26(a)
 4. Uranium | 9 2 | 141.66(e) | 10 3 | 141.25(a) 141.26(a)
-G. Disinfection Byproducts (DBPs), Byproduct Precursors, Disinfectant Residuals. Where disinfection is used in the treatment of drinking water, disinfectants combine with organic and inorganic matter present in water to form chemicals called disinfection byproducts (DBPs). EPA sets standards for controlling the levels of disinfectants and DBPs in drinking water, including trihalomethanes (THMs) and haloacetic acids (HAAs). 13
+G. Disinfection Byproducts (DBPs), Byproduct Precursors, Disinfectant Residuals. Where disinfection is used in the treatment of drinking water, disinfectants combine with organic and inorganic matter present in water to form chemicals called disinfection byproducts (DBPs). EPA sets standards for controlling the levels of disinfectants and DBPs in drinking water, including trihalomethanes (THMs) and haloacetic acids (HAAs). 13 | | | |
 1. Total trihalomethanes (TTHMs) | 2 | 14 141.64(b) | 3 | 141.132(a)-(b), 141.600-141.605, 141.620-141.629
 2. Haloacetic Acids (HAA5) | 2 | 141.64(b) | 3 | 141.132(a)-(b), 141.600-141.605, 141.620-141.629
 3. Bromate | 2 | 141.64(a) | 3 | 141.132(a)-(b)
@@ -115,16 +116,16 @@ G. Disinfection Byproducts (DBPs), Byproduct Precursors, Disinfectant Residuals.
 9. Control of DBP precursors—TOC (TT) | 2 | 141.135(a)-(b) | 3 | 141.132(a), (d)
 10. Bench marking and disinfection profiling | N/A | N/A | 3 | 141.172 141.530-141.544.
 11. Development of monitoring plan | N/A | N/A | 3 | 141.132(f)
-H. Other Treatment Techniques
+H. Other Treatment Techniques | | | |
 1. Acrylamide (TT) | 2 | 141.111 | N/A | N/A
 2. Epichlorohydrin (TT) | 2 | 141.111 | N/A | N/A
-II. Unregulated Contaminant Monitoring: 17
+II. Unregulated Contaminant Monitoring: 17 | | | |
 A. Unregulated contaminants | N/A | N/A | 3 | 141.40
 B. Nickel | N/A | N/A | 3 | 141.23(c), (k)
-III. Public Notification for Variances and Exemptions:
+III. Public Notification for Variances and Exemptions: | | | |
 A. Operation under a variance or exemption | 3 | 18 1415, 1416, | N/A | N/A
 B. Violation of conditions of a variance or exemption | 2 | 1415, 1416, 19 142.307 | N/A | N/A
-IV. Other Situations Requiring Public Notification:
+IV. Other Situations Requiring Public Notification: | | | |
 A. Fluoride secondary maximum contaminant level (SMCL) exceedance | 3 | 143.3 | N/A | N/A
 B. Exceedance of nitrate MCL for non-community systems, as allowed by primacy agency | 1 | 141.11(d) | N/A | N/A
 C. Availability of unregulated contaminant monitoring data | 3 | 141.40 | N/A | N/A
@@ -142,7 +143,7 @@ Appendix A—Endnotes
 4. Failure to test for fecal coliform or E. coli is a Tier 1 violation if testing is not done after any repeat sample tests positive for coliform. All other total coliform monitoring and testing procedure violations are Tier 3.
 5. Systems that violate the turbidity MCL of 5 NTU based on an average of measurements over two consecutive days must consult with the primacy agency within 24 hours after learning of the violation. Based on this consultation, the primacy agency may subsequently decide to elevate the violation to Tier 1. If a system is unable to make contact with the primacy agency in the 24-hour period, the violation is automatically elevated to Tier 1.
 6. Systems with treatment technique violations involving a single exceedance of a maximum turbidity limit under the Surface Water Treatment Rule (SWTR), the Interim Enhanced Surface Water Treatment Rule (IESWTR), or the Long Term 1 Enhanced Surface Water Treatment Rule (LT1ESWTR) are required to consult with the primacy agency within 24 hours after learning of the violation. Based on this consultation, the primacy agency may subsequently decide to elevate the violation to Tier 1. If a system is unable to make contact with the primacy agency in the 24-hour period, the violation is automatically elevated to Tier 1.
-7. Most of the requirements of the Interim Enhanced Surface Water Treatment Rule (63 FR 69477) (§§ 141.170-141.171, 141.173-141.174) become effective January 1, 2002 for Subpart H systems (surface water systems and ground water systems under the direct influence of surface water) serving at least 10,000 persons. However, § 141.172 has some requirements that become effective as early as April 16, 1999. The Surface Water Treatment Rule remains in effect for systems serving at least 10,000 persons even after 2002; the Interim Enhanced Surface Water Treatment Rule adds additional requirements and does not in many cases supercede the SWTR.
+7. Most of the requirements of the Interim Enhanced Surface Water Treatment Rule (63 FR 69477) (§§ 141.170-141.171, 141.173-141.174) become effective January 1, 2002 for Subpart H systems (surface water systems and ground water systems under the direct influence of surface water) serving at least 10,000 persons. However, § 141.172 has some requirements that become effective as early as April 16, 1999. The Surface Water Treatment Rule remains in effect for systems serving at least 10,000 persons even after 2002; the Interim Enhanced Surface Water Treatment Rule adds additional requirements and does not in many cases supersede the SWTR.
 8. The arsenic MCL citations are effective January 23, 2006. Until then, the citations are § 141.11(b) and § 141.23(n).
 9. The uranium MCL Tier 2 violation citations are effective December 8, 2003 for all community water systems.
 10. The uranium Tier 3 violation citations are effective December 8, 2000 for all community water systems.
