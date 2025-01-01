@@ -19,7 +19,7 @@ Paragraph 34.203(b)(2)
 2. No increase in the CPI-W. If the CPI-W in effect on June 1 does not increase from the CPI-W in effect on June 1 of the previous year, the threshold amount effective the following January 1 through December 31 will not change from the previous year. When this occurs, for the years that follow, the threshold is calculated based on the annual percentage change in the CPI-W applied to the dollar amount that would have resulted, after rounding, if decreases and any subsequent increases in the CPI-W had been taken into account.
 i. Net increases. If the resulting amount calculated, after rounding, is greater than the current threshold, then the threshold effective January 1 the following year will increase accordingly.
 ii. Net decreases. If the resulting amount calculated, after rounding, is equal to or less than the current threshold, then the threshold effective January 1 the following year will not change, but future increases will be calculated based on the amount that would have resulted.
-3. Threshold. For purposes of § 34.203(b)(2), the threshold amount in effect during a particular period is the amount stated below for that period.
+3. Threshold. For purposes of § 34.203(b)(2), the threshold amount in effect during a particular period is the amount stated in the following for that period.
 i. From January 18, 2014, through December 31, 2014, the threshold amount is $25,000.
 ii. From January 1, 2015, through December 31, 2015, the threshold amount is $25,500.
 iii. From January 1, 2016, through December 31, 2016, the threshold amount is $25,500.
@@ -31,6 +31,7 @@ viii. From January 1, 2021, through December 31, 2021, the threshold amount is $
 ix. From January 1, 2022, through December 31, 2022, the threshold amount is $28,500.
 x. From January 1, 2023, through December 31, 2023, the threshold amount is $31,000.
 xi. From January 1, 2024, through December 31, 2024, the threshold amount is $32,400.
+xii. From January 1, 2025, through December 31, 2025, the threshold amount is $33,500.
 4. Qualifying for exemption—in general. A transaction is exempt under § 34.203(b)(2) if the creditor makes an extension of credit at consummation that is equal to or below the threshold amount in effect at the time of consummation.
 5. Qualifying for exemption—subsequent changes. A transaction does not meet the condition for an exemption under § 34.203(b)(2) merely because it is used to satisfy and replace an existing exempt loan unless the amount of the new extension of credit is equal to or less than the applicable threshold amount. For example, assume a closed-end loan that qualified for a § 34.203(b)(2) exemption at consummation in year one is refinanced in year ten and that the new loan amount is greater than the threshold amount in effect in year ten. In these circumstances, the creditor must comply with all of the applicable requirements of § 34.203 with respect to the year ten transaction if the original loan is satisfied and replaced by the new loan unless another exemption from the requirements of § 34.203 applies. See § 34.203(b) and (d)(7).
 Paragraph 34.203(b)(3).
