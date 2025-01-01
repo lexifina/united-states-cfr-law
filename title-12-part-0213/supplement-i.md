@@ -24,7 +24,7 @@ v. Market research or educational materials that do not solicit business.
 3. Persons covered. See the commentary to § 213.7(a).
 2(d) Closed-End Lease
 1. General. In closed-end leases, sometimes referred to as "walk-away" leases, the lessee is not responsible for the residual value of the leased property at the end of the lease term.
-2(e) Consumer Lease.
+2(e) Consumer Lease
 1. Primary purposes. A lessor must determine in each case if the leased property will be used primarily for personal, family, or household purposes. If a question exists as to the primary purpose for a lease, the fact that a lessor gives disclosures is not controlling on the question of whether the transaction is covered. The primary purpose of a lease is determined before or at consummation and a lessor need not provide Regulation M disclosures where there is a subsequent change in the primary use.
 2. Period of time. To be a consumer lease, the initial term of the lease must be more than four months. Thus, a lease of personal property for four months, three months or on a month-to-month or week-to-week basis (even though the lease actually extends beyond four months) is not a consumer lease and is not subject to the disclosure requirements of the regulation. However, a lease that imposes a penalty for not continuing the lease beyond four months is considered to have a term of more than four months. To illustrate:
 i. A three-month lease extended on a month-to-month basis and terminated after one year is not subject to the regulation.
@@ -46,7 +46,7 @@ iii. Propane gas service where the consumer must lease a propane tank to receive
 10. No increase in the CPI-W. If the CPI-W in effect on June 1 does not increase from the CPI-W in effect on June 1 of the previous year, the threshold amount effective the following January 1 through December 31 will not change from the previous year. When this occurs, for the years that follow, the threshold is calculated based on the annual percentage change in the CPI-W applied to the dollar amount that would have resulted, after rounding, if decreases and any subsequent increases in the CPI-W had been taken into account.
 i. Net increases. If the resulting amount calculated, after rounding, is greater than the current threshold, then the threshold effective January 1 the following year will increase accordingly.
 ii. Net decreases. If the resulting amount calculated, after rounding, is equal to or less than the current threshold, then the threshold effective January 1 the following year will not change, but future increases will be calculated based on the amount that would have resulted.
-11. Threshold. For purposes of § 213.2(e)(1), the threshold amount in effect during a particular period is the amount stated below for that period.
+11. Threshold. For purposes of § 213.2(e)(1), the threshold amount in effect during a particular period is the amount stated in the following for that period.
 i. Prior to July 21, 2011, the threshold amount is $25,000.
 ii. From July 21, 2011, through December 31, 2011, the threshold amount is $50,000.
 iii. From January 1, 2012, through December 31, 2012, the threshold amount is $51,800.
@@ -62,6 +62,7 @@ xii. From January 1, 2021, through December 31, 2021, the threshold amount is $5
 xiii. From January 1, 2022, through December 31, 2022, the threshold amount is $61,000.
 xiv. From January 1, 2023, through December 31, 2023, the threshold amount is $66,400.
 xv. From January 1, 2024, through December 31, 2024, the threshold amount is $69,500.
+xvi. From January 1, 2025, through December 31, 2025, the threshold amount is $71,900.
 2(g) Lessee
 1. Guarantors. Guarantors are not lessees for purposes of the regulation.
 2(h) Lessor
