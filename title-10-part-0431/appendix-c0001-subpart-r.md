@@ -220,6 +220,8 @@ Capacity, Condition A, Maximum Capacity | −22 | 5 | 90 | 75 | Maximum Capacity
 Off-Cycle, Condition A | | | 90 | 75 | Compressor Off.
 Notes:
 1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
+3.2.5 Test Operating Conditions for Two-Capacity Indoor Matched-Pair or Single-Packaged Refrigeration Systems
+For two-capacity indoor medium-temperature matched-pair or single-packaged refrigeration systems, conduct tests using the test conditions specified in table 15 of this appendix. For two-capacity indoor low-temperature matched-pair or single-packaged refrigeration systems, conduct tests using the test conditions specified in table 16 of this appendix.
 Table 15—Test Operating Conditions for Two-Capacity Medium-Temperature Indoor Matched-Pair or Single-Packaged Refrigeration Systems
 Test description | Unit cooler air entering dry-bulb, °F | Unit cooler air entering relative humidity, % | Condenser air entering dry-bulb, °F | Condenser air entering wet-bulb, °F | Compressor status
 Capacity, Condition A, Low Capacity | 35 | <50 | 90 | 1 75, 2 65 | Low Capacity.
