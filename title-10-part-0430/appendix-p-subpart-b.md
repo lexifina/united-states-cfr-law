@@ -52,5 +52,61 @@ Standby mode means the condition during the pool heating season in which the poo
 5.1.4 Hybrid pool heaters. [Reserved]
 5.2 Average annual fossil fuel energy for pool heaters. For electric resistance and electric heat pump pool heaters, the average annual fuel energy for pool heaters, E F = 0.
 For fossil fuel-fired pool heaters, the average annual fuel energy for pool heaters, E F, is defined as:
-E F = BOH Q IN + (POH−BOH) Q PR + (8760 − POH) Q off,R Where: BOH = average number of burner operating hours = 104 h, POH = average number of pool operating hours = 4,464 h, Q IN = input capacity, in Btu/h, calculated as the quantity CF x Q x H in the equation for thermal efficiency in section 2.10.1 of ANSI Z21.56 (incorporated by reference; see § 430.3) and divided by 0.5 h (For electric resistance and electric heat pump pool heaters, Q IN = 0.), Q PR = average energy consumption rate of continuously operating pilot light, if employed, = (Q P /1 h), Q P = energy consumption of continuously operating pilot light, if employed, as measured in section 4.2 of this appendix, in Btu, 8760 = number of hours in one year, Q off,R = average off mode fossil fuel energy consumption rate = Q off /(1 h), and Q off = off mode energy consumption as defined in section 4.3 of this appendix. 5.3 Average annual electrical energy consumption for pool heaters. The average annual electrical energy consumption for pool heaters, E AE, is expressed in Btu and defined as: (1) E AE = E AE,active + E AE,standby,off (2) E AE,active = BOH * PE (3) E AE,standby,off = (POH−BOH) P W,SB (Btu/h) + (8760−POH) P W,OFF (Btu/h) where: E AE,active = electrical consumption in the active mode, E AE,standby,off = auxiliary electrical consumption in the standby mode and off mode, PE = active electrical power, calculated as: = 2E c, for fossil fuel-fired heaters tested according to section 2.10.1 of ANSI Z21.56 and for electric resistance pool heaters, in Btu/h, = 3.412 PE aux,rated, for fossil fuel-fired heaters tested according to section 2.10.2 of ANSI Z21.56, in Btu/h, = E c,HP * (60/t HP), for electric heat pump pool heaters, in Btu/h. E c = electrical consumption in Btu per 30 min. This includes the electrical consumption (converted to Btus) of the pool heater and, if present, a recirculating pump during the 30-minute thermal efficiency test. The 30-minute thermal efficiency test is defined in section 2.10.1 of ANSI Z21.56 for fossil fuel-fired pool heaters and section 9.1.4 of ASHRAE 146 (incorporated by reference; see § 430.3) for electric resistance pool heaters. 2 = conversion factor to convert unit from per 30 min. to per h. PE aux,rated = nameplate rating of auxiliary electrical equipment of heater, in Watts E c,HP = electrical consumption of the electric heat pump pool heater (converted to equivalent unit of Btu), including the electrical energy to the recirculating pump if used, during the thermal efficiency test, as defined in section 9.1 of ASHRAE 146, in Btu. t HP = elapsed time of data recording during the thermal efficiency test on electric heat pump pool heater, as defined in section 9.1 of ASHRAE 146, in minutes. BOH = as defined in section 5.2 of this appendix, POH = as defined in section 5.2 of this appendix, P W,SB (Btu/h) = electrical energy consumption rate during standby mode expressed in Btu/h = 3.412 P W,SB, Btu/h, P W,SB = as defined in section 4.2 of this appendix, P W,OFF (Btu/h) = electrical energy consumption rate during off mode expressed in Btu/h = 3.412 P W,OFF, Btu/h, and P W,OFF = as defined in section 4.3 of this appendix. 5.4 Integrated thermal efficiency. 5.4.1 Calculate the seasonal useful output of the pool heater as:
-E OUT = BOH[(E t /100)(Q IN + PE)] where: BOH = as defined in section 5.2 of this appendix, E t = thermal efficiency as defined in section 5.1 of this appendix, Q IN = as defined in section 5.2 of this appendix, PE = as defined in section 5.3 of this appendix, and 100 = conversion factor, from percent to fraction. 5.4.2 Calculate the annual input to the pool heater as: E IN = E F + E AE where: E F = as defined in section 5.2 of this appendix, and E AE = as defined in section 5.3 of this appendix. 5.4.3 Calculate the pool heater integrated thermal efficiency (TE I) (in percent). TE I = 100(E OUT /E IN) where: E OUT = as defined in section 5.4.1 of this appendix, E IN = as defined in section 5.4.2 of this appendix, and 100 = conversion factor, from fraction to percent. 5.5 Output capacity for electric pool heaters. 5.5.1 Calculate the output capacity of an electric heat pump pool heater as: Q OUT,HP = k * W * (T ohp −T ihp) * (60/t HP) where k is the specific heat of water, W is the mass of water collected during the test, T ohp is the average outlet water temperature during the standard rating test, T ihp is the average inlet water temperature during the standard rating test, all as defined in section 11.2 of ASHRAE 146, and t HP is the elapsed time in minutes of data recording during the thermal efficiency test on electric heat pump pool heater, as defined in section 9.1 of ASHRAE 146. 5.5.2 Calculate the output capacity of an electric resistance pool heater as: Q OUT,ER = k * W * (T mo −T mi) * (60/30) where k is the specific heat of water, W is the mass of water collected during the test, T mo is the average outlet water temperature recorded during the primary test, and T mi is the average inlet water temperature record during the primary test, all as defined in section 11.1 of ASHRAE 146, and 60/30 is the conversion factor to convert unit from per 30 minutes to per hour. [80 FR 813, Jan. 6, 2015, as amended at 88 FR 34703, May 30, 2023]
+E F = BOH Q IN + (POH−BOH) Q PR + (8760 − POH) Q off,R
+Where:
+BOH = average number of burner operating hours = 104 h,
+POH = average number of pool operating hours = 4,464 h,
+Q IN = input capacity, in Btu/h, calculated as the quantity CF x Q x H in the equation for thermal efficiency in section 2.10.1 of ANSI Z21.56 (incorporated by reference; see § 430.3) and divided by 0.5 h (For electric resistance and electric heat pump pool heaters, Q IN = 0.),
+Q PR = average energy consumption rate of continuously operating pilot light, if employed, = (Q P /1 h),
+Q P = energy consumption of continuously operating pilot light, if employed, as measured in section 4.2 of this appendix, in Btu,
+8760 = number of hours in one year,
+Q off,R = average off mode fossil fuel energy consumption rate = Q off /(1 h), and
+Q off = off mode energy consumption as defined in section 4.3 of this appendix.
+5.3 Average annual electrical energy consumption for pool heaters. The average annual electrical energy consumption for pool heaters, E AE, is expressed in Btu and defined as:
+(1) E AE = E AE,active + E AE,standby,off
+(2) E AE,active = BOH * PE
+(3) E AE,standby,off = (POH−BOH) P W,SB (Btu/h) + (8760−POH) P W,OFF (Btu/h)
+where:
+E AE,active = electrical consumption in the active mode,
+E AE,standby,off = auxiliary electrical consumption in the standby mode and off mode,
+PE = active electrical power, calculated as:
+= 2E c, for fossil fuel-fired heaters tested according to section 2.10.1 of ANSI Z21.56 and for electric resistance pool heaters, in Btu/h,
+= 3.412 PE aux,rated, for fossil fuel-fired heaters tested according to section 2.10.2 of ANSI Z21.56, in Btu/h,
+= E c,HP * (60/t HP), for electric heat pump pool heaters, in Btu/h.
+E c = electrical consumption in Btu per 30 min. This includes the electrical consumption (converted to Btus) of the pool heater and, if present, a recirculating pump during the 30-minute thermal efficiency test. The 30-minute thermal efficiency test is defined in section 2.10.1 of ANSI Z21.56 for fossil fuel-fired pool heaters and section 9.1.4 of ASHRAE 146 (incorporated by reference; see § 430.3) for electric resistance pool heaters. 2 = conversion factor to convert unit from per 30 min. to per h.
+PE aux,rated = nameplate rating of auxiliary electrical equipment of heater, in Watts
+E c,HP = electrical consumption of the electric heat pump pool heater (converted to equivalent unit of Btu), including the electrical energy to the recirculating pump if used, during the thermal efficiency test, as defined in section 9.1 of ASHRAE 146, in Btu.
+t HP = elapsed time of data recording during the thermal efficiency test on electric heat pump pool heater, as defined in section 9.1 of ASHRAE 146, in minutes.
+BOH = as defined in section 5.2 of this appendix,
+POH = as defined in section 5.2 of this appendix,
+P W,SB (Btu/h) = electrical energy consumption rate during standby mode expressed in Btu/h = 3.412 P W,SB, Btu/h,
+P W,SB = as defined in section 4.2 of this appendix,
+P W,OFF (Btu/h) = electrical energy consumption rate during off mode expressed in Btu/h = 3.412 P W,OFF, Btu/h, and
+P W,OFF = as defined in section 4.3 of this appendix.
+5.4 Integrated thermal efficiency.
+5.4.1 Calculate the seasonal useful output of the pool heater as:
+E OUT = BOH[(E t /100)(Q IN + PE)]
+where:
+BOH = as defined in section 5.2 of this appendix,
+E t = thermal efficiency as defined in section 5.1 of this appendix,
+Q IN = as defined in section 5.2 of this appendix,
+PE = as defined in section 5.3 of this appendix, and
+100 = conversion factor, from percent to fraction.
+5.4.2 Calculate the annual input to the pool heater as:
+E IN = E F + E AE
+where:
+E F = as defined in section 5.2 of this appendix, and
+E AE = as defined in section 5.3 of this appendix.
+5.4.3 Calculate the pool heater integrated thermal efficiency (TE I) (in percent).
+TE I = 100(E OUT /E IN)
+where:
+E OUT = as defined in section 5.4.1 of this appendix,
+E IN = as defined in section 5.4.2 of this appendix, and
+100 = conversion factor, from fraction to percent.
+5.5 Output capacity for electric pool heaters.
+5.5.1 Calculate the output capacity of an electric heat pump pool heater as:
+Q OUT,HP = k * W * (T ohp −T ihp) * (60/t HP)
+where k is the specific heat of water, W is the mass of water collected during the test, T ohp is the average outlet water temperature during the standard rating test, T ihp is the average inlet water temperature during the standard rating test, all as defined in section 11.2 of ASHRAE 146, and t HP is the elapsed time in minutes of data recording during the thermal efficiency test on electric heat pump pool heater, as defined in section 9.1 of ASHRAE 146.
+5.5.2 Calculate the output capacity of an electric resistance pool heater as:
+Q OUT,ER = k * W * (T mo −T mi) * (60/30)
+where k is the specific heat of water, W is the mass of water collected during the test, T mo is the average outlet water temperature recorded during the primary test, and T mi is the average inlet water temperature record during the primary test, all as defined in section 11.1 of ASHRAE 146, and 60/30 is the conversion factor to convert unit from per 30 minutes to per hour.
