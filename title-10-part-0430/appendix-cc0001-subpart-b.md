@@ -42,42 +42,42 @@ Annualized Energy Efficiency Ratio means the energy efficiency of a portable air
 Follow requirements and instructions for test conduct and test setup in accordance with AHAM PAC-1-2022, section 7, excluding section 7.1.3, including references to ASHRAE 37-2009, sections 5.1 and 5.3, and IEC 62301 sections 4.2, 4.3.2, 4.4, and 5.2, and Annex D. If the portable air conditioner has network functions, disable all network functions throughout testing if possible. If an end-user cannot disable a network function or the product's user manual does not provide instruction for disabling a network function, test the unit with that network function in the factory default configuration for the duration of the test.
 3.1 Duct temperature measurements. Install any insulation and sealing provided by the manufacturer. For a dual-duct or single-duct unit, adhere four thermocouples per duct, spaced along the entire length equally, to the outer surface of the duct. Measure the surface temperatures of each duct. For a combined-duct unit, adhere sixteen thermocouples to the outer surface of the duct, spaced evenly around the circumference (four thermocouples, each 90 degrees apart, radially) and down the entire length of the duct (four sets of four thermocouples, evenly spaced along the entire length of the duct), ensuring that the thermocouples are spaced along the entire length equally, on the surface of the combined duct. Place at least one thermocouple preferably adjacent to, but otherwise as close as possible to, the condenser inlet aperture and at least one thermocouple on the duct surface preferably adjacent to, but otherwise as close as possible to, the condenser outlet aperture. Measure the surface temperature of the combined duct at each thermocouple. Temperature measurements must have an error no greater than ±0.5 °F over the range being measured.
 4. Test Measurement
-Follow requirements for test conduct in active and inactive modes of operation in accordance with AHAM PAC-1-2022, section 8, except section 8.1.b, including references to sections 5.4, 6.2, 6.3, 7.3, 7.7, 8.7, 9, 10, and 11 of ASHRAE 37-2009, referring to Figure 12 and Figure 12 Notes of ANSI/AMCA 210 to determine placement of static pressure taps, and including references to ASHRAE 41.1-1986 and ASHRAE 41.6-1994. When conducting cooling mode testing for a variable-speed dual-duct portable air conditioner, use test configurations 1C and 1E in Table 2 of AHAM PAC-1-2022. Conduct the first test in accordance with ambient conditions for test configuration 1C in Table 2 of AHAM PAC-1-2022, and measure cooling capacity (Capacity DD_95_Full) and input power (P DD_95_Full). Conduct the second test in accordance with the ambient conditions for test configuration 1E in Table 2 of AHAM PAC-1-2022, with the compressor speed set to low for the duration of cooling mode testing (in accordance with the manufacturer instructions as described in section 7.1.10), and measure cooling capacity (Capacity DD_83_Low) and input power (P DD_83_Low). When conducting standby power testing using the sampling method described in section 5.3.2 of IEC 62301, if the standby mode is cyclic and irregular or unstable, collect 10 cycles worth of data. As discussed in Paragraph 5.1, Note 1 of IEC 62301, allow sufficient time for the unit to reach the lowest power state before proceeding with the test measurement.
+Follow requirements for test conduct in active and inactive modes of operation in accordance with AHAM PAC-1-2022, section 8, except section 8.1.b, including references to sections 5.4, 6.2, 6.3, 7.3, 7.7, 8.7, 9, 10, and 11 of ASHRAE 37-2009, referring to Figure 12 and Figure 12 Notes of ANSI/AMCA 210 to determine placement of static pressure taps, and including references to ASHRAE 41.1-1986 and ASHRAE 41.6-1994. When conducting cooling mode testing for a variable-speed dual-duct portable air conditioner, use test configurations 1C and 1E in Table 2 of AHAM PAC-1-2022. Conduct the first test in accordance with ambient conditions for test configuration 1C in Table 2 of AHAM PAC-1-2022, and measure cooling capacity (CapacityDD_95_Full) and input power (PDD_95_Full). Conduct the second test in accordance with the ambient conditions for test configuration 1E in Table 2 of AHAM PAC-1-2022, with the compressor speed set to low for the duration of cooling mode testing (in accordance with the manufacturer instructions as described in section 7.1.10), and measure cooling capacity (CapacityDD_83_Low) and input power (PDD_83_Low). When conducting standby power testing using the sampling method described in section 5.3.2 of IEC 62301, if the standby mode is cyclic and irregular or unstable, collect 10 cycles worth of data. As discussed in Paragraph 5.1, Note 1 of IEC 62301, allow sufficient time for the unit to reach the lowest power state before proceeding with the test measurement.
 5. Calculation of Derived Results From Test Measurements
 Perform calculations from test measurements to determine Seasonally Adjusted Cooling Capacity (SACC) and Annualized Energy Efficiency Ratio (AEER) in accordance with AHAM PAC-1-2022, section 9 unless otherwise specified in this section.
 5.1 Adjusted Cooling Capacity. Calculate the adjusted cooling capacities at the 95 °F and 83 °F operating conditions specified below of the sample unit, in Btu/h, according to the following equations.
 For a single-duct single-speed unit:
-ACC 95 = Capacity SD − Q duct_SD − Q infiltration _95
-ACC 83 = 0.6000 × (Capacity SD − Q duct_SD − Q infiltration _95)
+ACC95 = CapacitySD − Qduct_SD − Qinfiltration_95
+ACC83 = 0.6000 × (CapacitySD − Qduct_SD − Qinfiltration_83)
 For a single-duct variable-speed unit:
-ACC 95 = Capacity SD_Full − Q duct_SD_Full − Q infiltration _95
-ACC 83 = Capacity SD_Low − Q duct_SD_Low − Q infiltration _83_Low
+ACC95 = CapacitySD_Full − Qduct_SD_Full − Qinfiltration_95
+ACC83 = CapacitySD_Low − Qduct_SD_Low − Qinfiltration_83_Low
 For a dual-duct single-speed unit:
-ACC 95 = Capacity DD _95 − Q duct_DD _95 − Q infiltration _95
-ACC 83 = 0.5363 × (Capacity DD _83 − Q duct_DD _83 − Q infiltration _83)
+ACC95 = CapacityDD_95_Full − Qduct_DD_95_Full − Qinfiltration_95
+ACC83 = 0.5363 × (CapacityDD_83 − Qduct_DD_83 − Qinfiltration_83)
 For a dual-duct variable-speed unit:
-ACC 95 = Capacity DD _95 _Full − Q duct_DD _95 _Full − Q infiltration _95
-ACC 83 = Capacity DD _ _Low − Q duct_DD _83 _Low − Q infiltration _83 _Low
+ACC95 = CapacityDD_95_Full − Qduct_DD_95_Full − Qinfiltration_95
+ACC83 = CapacityDD_Low − Qduct_DD_83_Low − Qinfiltration_83_Low
 Where:
-ACC 95 and ACC 83 = adjusted cooling capacity of the sample unit, in Btu/h, calculated from testing at:
+ACC95 and ACC 83 = adjusted cooling capacity of the sample unit, in Btu/h, calculated from testing at:
 For a single-duct single-speed unit, test configuration 2A in Table 2 of AHAM PAC-1-2022.
 For a single-duct variable-speed unit, test configurations 2B and 2C in Table 2 of AHAM PAC-1-2022.
 For a dual-duct single-speed unit, test configurations 1A and 1B in Table 2 of AHAM PAC-1-2022.
 For a dual-duct variable-speed unit: test configurations 1C and 1E in Table 2 of AHAM PAC-1-2022.
-Capacity SD, Capacity SD_Full, Capacity SD_Low, Capacity DD_95, Capacity DD_83, Capacity DD_95_Full, and Capacity DD_83_Low = cooling capacity, in Btu/h, measured in testing at test configuration 2A, 2B, 2C, 1A, 1B, 1C, and 1E of Table 2 in section 8.1 of AHAM PAC-1-2022, respectively.
-Q duct_SD, Q duct_SD_Full, Q duct_SD_Low, Q duct_DD_95, Q duct_DD_83, Q duct_DD_95_Full, and Q duct_DD_83_Low = duct heat transfer while operating in cooling mode for each duct configuration, compressor speed (where applicable) and temperature condition (where applicable), calculated in section 9.1 of AHAM PAC-1-2022, in Btu/h.
-Q infiltration_95, Q infiltration_83, and Q infiltration_83_Low = total infiltration air heat transfer in cooling mode, in Btu/h, for each of the following compressor speed and duct configuration combinations:
-For a single-duct single-speed unit, use Q infiltration_95 as calculated for a single-duct single-speed unit in section 9.2 of AHAM PAC-1-2022.
-For a single-duct variable-speed unit, use Q infiltration_95 and Q infiltration_83_Low as calculated for a single-duct variable-speed unit in section 9.2 of AHAM PAC-1-2022.
-For a dual-duct single-speed unit, use Q infiltration_95 and Q infiltration_83 as calculated for a dual-duct single-speed unit in section 9.2 of AHAM PAC-1-2022.
-For a dual-duct variable-speed unit, use Q infiltration_95 and Q infiltration_83_Low as calculated for a dual-duct variable-speed unit in section 9.2 of AHAM PAC-1-2022.
+CapacitySD, CapacitySD_Full, CapacitySD_Low, CapacityDD_95, CapacityDD_83, CapacityDD_95_Full, and CapacityDD_83_Low = cooling capacity, in Btu/h, measured in testing at test configuration 2A, 2B, 2C, 1A, 1B, 1C, and 1E of Table 2 in section 8.1 of AHAM PAC-1-2022, respectively.
+Qduct_SD, Qduct_SD_Full, Qduct_SD_Low, Qduct_DD_95, Qduct_DD_83, Qduct_DD_95_Full, and Qduct_DD_83_Low = duct heat transfer while operating in cooling mode for each duct configuration, compressor speed (where applicable) and temperature condition (where applicable), calculated in section 9.1 of AHAM PAC-1-2022, in Btu/h.
+Qinfiltration_95, Qinfiltration_83, and Qinfiltration_83_Low = total infiltration air heat transfer in cooling mode, in Btu/h, for each of the following compressor speed and duct configuration combinations:
+For a single-duct single-speed unit, use Qinfiltration_95 and Qinfiltration_83 as calculated for a single-duct single-speed unit in section 9.2 of AHAM PAC-1-2022.
+For a single-duct variable-speed unit, use Qinfiltration_95 and Qinfiltration_83_Low as calculated for a single-duct variable-speed unit in section 9.2 of AHAM PAC-1-2022.
+For a dual-duct single-speed unit, use Qinfiltration_95 and Qinfiltration_83 as calculated for a dual-duct single-speed unit in section 9.2 of AHAM PAC-1-2022.
+For a dual-duct variable-speed unit, use Qinfiltration_95 and Qinfiltration_83_Low as calculated for a dual-duct variable-speed unit in section 9.2 of AHAM PAC-1-2022.
 0.6000 and 0.5363 = empirically-derived load-based capacity adjustment factor for a single-duct and dual-duct single-speed unit, respectively, when operating at test conditions 2A and 1B.
 5.2 Seasonally Adjusted Cooling Capacity. Calculate the seasonally adjusted cooling capacity for the sample unit, SACC, in Btu/h, according to:
-SACC = ACC 95 × 0.144 + ACC 83 × 0.856
+SACC = ACC95 × 0.144 + ACC83 × 0.856
 Where:
-ACC 95 and ACC 83 = adjusted cooling capacities at the 95 °F and 83 °F outdoor temperature conditions, respectively, in Btu/h, calculated in section 5.1 of this appendix.
-0.144 = empirically-derived weighting factor for ACC 95.
-0.856 = empirically-derived weighting factor for ACC 83.
+ACC95 and ACC83 = adjusted cooling capacities at the 95 °F and 83 °F outdoor temperature conditions, respectively, in Btu/h, calculated in section 5.1 of this appendix.
+0.144 = empirically-derived weighting factor for ACC95.
+0.856 = empirically-derived weighting factor for ACC83.
 5.3 Annual Energy Consumption. Calculate the annual energy consumption in each operating mode, AECm, in kilowatt-hours per year (kWh/year). Use the following annual hours of operation for each mode:
 Table 1—Annual Operating Hours
 Operating mode | Annual operating hours
@@ -89,23 +89,21 @@ Off-Cycle, Variable-Speed | 0
 Total Cooling and Off-cycle Mode | 1,141
 Inactive or Off Mode | 1,844
 Calculate total annual energy consumption in all modes according to the following equations:
-AEC ia/om = P ia/om × t ia/om × k
+AECia/om = Pia/om × tia/om × k
 For a single-duct single-speed unit:
-AEC 95 = P SD_95 × t SD_95 × k
-ER15MY23.012
+AEC95 = PSD_95 × tSD_95 × k
 For a single-duct variable-speed unit:
-AEC 95 = P SD_Full × t SD_Full × k
-AEC 83 = P SD_Low × t SD_Low × k
+AEC95 = PSD_Full × tSD_Full × k
+AEC83 = PSD_Low × tSD_Low × k
 For a dual-duct single-speed unit:
-AEC 95 = P DD_95 × t DD_95 × k
-ER15MY23.013
+AEC95 = PDD_95 × tDD_95 × k
 For a dual-duct variable-speed unit:
-AEC 95 = P DD _95_ Full × t DD _95_ Full × k
-AEC 83 = P DD _83_ Low × t DD _83_ Low × k
+AEC95 = PDD_95_Full × tDD_95_Full × k
+AEC83 = PDD_83_Low × tDD_83_Low × k
 Where:
-AEC 95 and AEC 83 = total annual energy consumption attributed to all modes representative of either the 95 °F and 83 °F operating condition, respectively, in kWh/year.
-P m = average power in each mode, in watts, as determined in sections 4.1.1 and 4.1.2.
-t m = number of annual operating time in each mode, in hours.
+AEC95 and AEC83 = total annual energy consumption attributed to all modes representative of either the 95 °F and 83 °F operating condition, respectively, in kWh/year.
+Pm = average power in each mode, in watts, as determined in sections 4.1.1 and 4.1.2.
+tm = number of annual operating time in each mode, in hours.
 k = 0.001 kWh/Wh conversion factor from watt-hours to kilowatt-hours.
 0.82 = empirically-derived factor representing efficiency losses due to compressor cycling outside of fan operation for single-duct units
 0.77 = empirically-derived factor representing efficiency losses due to compressor cycling outside of fan operation for dual-duct units
@@ -118,11 +116,10 @@ m represents the operating mode:
 —"oc" corresponds to off-cycle,
 —"ia/om" corresponds to inactive or off mode,
 5.4 Annualized Cooling and Energy Ratio. Calculate the annualized energy efficiency ratio, AEER, in Btu/Wh, according to the following equation:
-ER15MY23.014
 Where:
 AEER = the annualized energy efficiency ratio of the sample unit in Btu/Wh.
-ACC 95 and ACC 83 = adjusted cooling capacity at the 95 °F and 83 °F outdoor temperature conditions, respectively, calculated in section 5.1 of this appendix.
-AEC 95, AEC 83, AEC oc, and AEC ia/om = total annual energy consumption attributed to all modes representative the 95 °F operating condition, the 83 °F operating condition, off-cycle mode, and inactive or off mode respectively, in kWh/year, calculated in section 5.3 of this appendix.
-t cm_95 = number of annual hours spent in cooling mode at the 95 °F operating condition, t DD_95 for dual-duct single-speed units, t DD_95_Full for dual-duct variable-speed units, t SD_95 for single-duct single-speed units, or t SD_Full for single-duct variable-speed units, defined in section 5.3 of this appendix.
+ACC95 and ACC83 = adjusted cooling capacity at the 95 °F and 83 °F outdoor temperature conditions, respectively, calculated in section 5.1 of this appendix.
+AEC95, AEC83, AECoc, and AECia/om = total annual energy consumption attributed to all modes representative the 95 °F operating condition, the 83 °F operating condition, off-cycle mode, and inactive or off mode respectively, in kWh/year, calculated in section 5.3 of this appendix.
+tcm_95 = number of annual hours spent in cooling mode at the 95 °F operating condition, tDD_95 for dual-duct single-speed units, tDD_95_Full for dual-duct variable-speed units, tSD_95 for single-duct single-speed units, or tSD_Full for single-duct variable-speed units, defined in section 5.3 of this appendix.
 164 = number of annual hours spent in cooling mode at the 95 °F operating condition, as shown in Table III.2
 977 = number of annual hours spent in cooling mode and off-cycle mode at the 83 °F operating condition, defined in section 5.3 of this appendix. 0.001 = kWh/Wh conversion factor for watt-hours to kilowatt-hours.

@@ -1,7 +1,7 @@
 # Appendix Y to Subpart B of Part 430—Uniform Test Method for Measuring the Energy Consumption of Battery Chargers
 Note 1: For all Battery Chargers, including UPSs, compliance with the relevant standard in § 430.32(z) or any representation must be based upon results generated under the corresponding appendix listed in the following table:
 | Battery chargers other than UPSs | UPS
-On or After July 3, 2024 and Before October 16, 2024 | Use appendix Y as it appeared on either March 7, 2023, or July 3, 2024 | Use appendix Y as it appeared on either March 7, 2023, or July 3, 2024
+On or After July 3, 2024 and Before October 16, 2024 | Use appendix Y as it appeared on either March 7, 2023, or July 3, 2024 | Use appendix Y as it appeared on either March 7, 2023, or July 3, 2024.
 On or After October 16, 2024 and Before compliance date of any new or amended standards published any time after September 2022 | Use appendix Y as it appeared on July 3, 2024. | Use appendix Y as it appeared on July 3, 2024.
 On or After compliance date of any new or amended standards published any time after September 2022 | Use appendix Y1 | Use appendix Y1.
 For any amended standards for battery chargers published after September 8, 2022, manufacturers must use the results of testing under appendix Y1 to determine compliance. Representations related to energy consumption must be made in accordance with the appropriate appendix that applies (i.e., appendix Y or appendix Y1) when determining compliance with the relevant standard. Manufacturers may also use appendix Y1 to certify compliance with amended standards, published after September 8, 2022, prior to the applicable compliance date for those standards.
@@ -11,7 +11,7 @@ DOE incorporated by reference in § 430.3 the entire test standard for IEC 62040
 (a) Section 3.5, Specified values;
 (b) Section 3.5.49, total harmonic distortion;
 (c) Section 5, Electrical conditions, performance and declared values;
-(d) Section 5.2, UPS input specification, as specified in section 2.28.2 of this appendix;
+(d) Section 5.2, UPS input specification, as specified in section 2.27.2 of this appendix;
 (e) Section 5.2.1, Conditions for normal mode of operation; Clause 5.2.1.a;
 (f) Clause 5.2.1.b;
 (g) Section 5.2.2, Conditions to be declared by the manufacturer; Clause 5.2.2.k;
@@ -23,9 +23,9 @@ DOE incorporated by reference in § 430.3 the entire test standard for IEC 62040
 (m) Clause 5.3.2.e;
 (n) Section 5.3.4.2, Input dependency AAA;
 (o) Section 6.2, Routine test procedure; Section 6.2.2, Electrical; Section 6.2.2.4, No load, as specified in section 4.3.3(c) of this appendix;
-(p) Section 6.2.2.7, AC input failure, as specified in Note to section 2.28.1 of this appendix;
-(q) Section 6.4, Type test procedure (electrical); Section 6.4.1, Input—AC input power compatibility; Section 6.4.1.2, Steady state input voltage tolerance and VI input independency, as specified in Note to section 2.28.3 of this appendix;
-(r) Section 6.4.1.3, Combined input voltage/frequency tolerance and VFI input independency, as specified in Note to section 2.28.2 of this appendix;
+(p) Section 6.2.2.7, AC input failure, as specified in Note to section 2.27.1 of this appendix;
+(q) Section 6.4, Type test procedure (electrical); Section 6.4.1, Input—AC input power compatibility; Section 6.4.1.2, Steady state input voltage tolerance and VI input independency, as specified in Note to section 2.27.3 of this appendix;
+(r) Section 6.4.1.3, Combined input voltage/frequency tolerance and VFI input independency, as specified in Note to section 2.27.2 of this appendix;
 (s) Annex G—AC input power failure—Test method;
 (t) Annex J—UPS efficiency and no load losses—Methods of measurement, as specified in sections 4.2.1 and 4.3.3 of this appendix.
 0.2 [Reserved]
@@ -35,7 +35,6 @@ This appendix provides the test requirements used to measure the energy consumpt
 The following definitions are for the purposes of explaining the terminology associated with the test method for measuring battery charger energy consumption. 1
 2.1. Active mode or charge mode is the state in which the battery charger system is connected to the main electricity supply, and the battery charger is delivering current, equalizing the cells, and performing other one-time or limited-time functions in order to bring the battery to a fully charged state.
 2.2. Active power or real power (P) means the average power consumed by a unit. For a two terminal device with current and voltage waveforms i(t) and v(t), which are periodic with period T, the real or active power P is:
-ER01JN11.020
 2.3. Ambient temperature is the temperature of the ambient air immediately surrounding the unit under test.
 2.4. Apparent power (S) is the product of root-mean-square (RMS) voltage and RMS current in volt-amperes (VA).
 2.5. Batch charger is a battery charger that charges two or more identical batteries simultaneously in a series, parallel, series-parallel, or parallel-series configuration. A batch charger does not have separate voltage or current regulation, nor does it have any separate indicators for each battery in the batch. When testing a batch charger, the term "battery" is understood to mean, collectively, all the batteries in the batch that are charged together. A charger can be both a batch charger and a multi-port charger or multi-voltage charger.
@@ -122,7 +121,8 @@ The UUT, including the battery charger and its associated battery, shall be new 
 (2) Multi-capacity if there are associated batteries or configurations of batteries that have different nameplate battery charge capacities.
 (d) The selected battery or batteries will be referred to as the "test battery" and will be used through the remainder of this test procedure.
 Table 3.2.1—Battery Selection for Testing
-Type of charger | Multi-voltage | Multi-port | Multi-capacity | Tests to perform | Battery selection (from all configurations of all associated batteries)
+Type of charger | Tests to perform
+Multi-voltage | Multi-port | Multi-capacity | Battery selection (from all configurations of all associated batteries)
 No | No | No | Any associated battery.
 No | No | Yes | Highest charge capacity battery.
 No | Yes | Yes or No | Use all ports. Use the maximum number of identical batteries with the highest nameplate battery charge capacity that the charger can accommodate.
@@ -153,19 +153,20 @@ Yes | Yes to either or both | Use all ports. Use the battery or configuration of
 3.3. Test Measurement
 The test sequence to measure the battery charger energy consumption is summarized in Table 3.3.1 of this appendix, and explained in detail in this appendix. Measurements shall be made under test conditions and with the equipment specified in sections 3.1 and 3.2 of this appendix.
 Table 3.3.1—Test Sequence
-Step/Description | Data taken? | Equipment needed | Test battery | Charger | Battery analyzer or constant- current load | AC power meter | Thermometer (for flooded lead-acid battery chargers only)
-1. Record general data on UUT; Section 3.3.1 | Yes | X | X
-2. Determine test duration; Section 3.3.2 | No
-3. Battery conditioning; Section 3.3.3 | No | X | X | X
-4. Prepare battery for charge test; Section 3.3.4 | No | X | X
+Step/Description | Data taken? | Equipment needed
+Test battery | Charger | Battery analyzer or constant- current load | AC power meter | Thermometer (for flooded lead-acid battery chargers only)
+1. Record general data on UUT; Section 3.3.1 | Yes | X | X | | |
+2. Determine test duration; Section 3.3.2 | No | | | | |
+3. Battery conditioning; Section 3.3.3 | No | X | X | X | |
+4. Prepare battery for charge test; Section 3.3.4 | No | X | X | | |
 5. Battery rest period; Section 3.3.5 | No | X | | | | X
-6. Conduct Charge Mode and Battery Maintenance Mode Test; Section 3.3.6 | Yes | X | X | | X
+6. Conduct Charge Mode and Battery Maintenance Mode Test; Section 3.3.6 | Yes | X | X | | X |
 7. Battery Rest Period; Section 3.3.7 | No | X | | | | X
-8. Battery Discharge Energy Test; Section 3.3.8 | Yes | X | | X
-9. Determining the Maintenance Mode Power; Section 3.3.9 | Yes | X | X | | X
-10. Calculating the 24-Hour Energy Consumption; Section 3.3.10 | No
-11. Standby Mode Test; Section 3.3.11 | Yes | | X | | X
-12. Off Mode Test; Section 3.3.12 | Yes | | X | | X
+8. Battery Discharge Energy Test; Section 3.3.8 | Yes | X | | X | |
+9. Determining the Maintenance Mode Power; Section 3.3.9 | Yes | X | X | | X |
+10. Calculating the 24-Hour Energy Consumption; Section 3.3.10 | No | | | | |
+11. Standby Mode Test; Section 3.3.11 | Yes | | X | | X |
+12. Off Mode Test; Section 3.3.12 | Yes | | X | | X |
 3.3.1. Recording General Data on the UUT
 The technician shall record:
 (a) The manufacturer and model of the battery charger;
@@ -180,7 +181,6 @@ The technician shall record:
 (1) If the battery charger has an indicator to show that the battery is fully charged, that indicator shall be used as follows: If the indicator shows that the battery is charged after 19 hours of charging, the test shall be terminated at 24 hours. Conversely, if the full-charge indication is not yet present after 19 hours of charging, the test shall continue until 5 hours after the indication is present.
 (2) If there is no indicator, but the manufacturer's instructions indicate that charging this battery or this capacity of battery should be complete within 19 hours, the test shall be for 24 hours. If the instructions indicate that charging may take longer than 19 hours, the test shall be run for the longest estimated charge time plus 5 hours.
 (3) If there is no indicator and no time estimate in the instructions, but the charging current is stated on the charger or in the instructions, calculate the test duration as the longer of 24 hours or:
-ER12DE16.027
 (b) If none of the above applies, the duration of the test shall be 24 hours.
 3.3.3. Battery Conditioning
 (a) No conditioning is to be done on lithium-ion batteries. The test technician shall proceed directly to battery preparation, section 3.3.4 of this appendix, when testing chargers for these batteries.
@@ -257,18 +257,18 @@ The off mode measurement depends on the configuration of the battery charger, as
 (2) If the product is powered through a detachable AC power cord and contains integrated power conversion and charging circuitry, then only the cord will remain connected to mains, and off mode power consumption will equal that of the AC power cord (i.e., zero watts).
 (3) If the product contains integrated power conversion and charging circuitry but is powered through a non-detachable AC power cord or plug blades, then no part of the system will remain connected to mains, and off mode measurement is not applicable.
 3.3.13. Unit Energy Consumption Calculation
-Unit energy consumption (UEC) shall be calculated for a battery charger using one of the two equations (equation (i) or equation (ii)) listed in this section. If a battery charger is tested and its charge duration as determined in section 3.3.2 of this appendix minus 5 hours is greater than the threshold charge time listed in Table 3.3.3 of this appendix (i.e. (t cd − 5) * n > t a&m), equation (ii) shall be used to calculate UEC; otherwise a battery charger's UEC shall be calculated using equation (i).
-ER08SE22.002
+Unit energy consumption (UEC) shall be calculated for a battery charger using one of the two equations (equation (i) or equation (ii)) listed in this section. If a battery charger is tested and its charge duration as determined in section 3.3.2 of this appendix minus 5 hours is greater than the threshold charge time listed in Table 3.3.3 of this appendix (i.e. (tcd − 5) * n > ta&m), equation (ii) shall be used to calculate UEC; otherwise a battery charger's UEC shall be calculated using equation (i).
 Where:
-E 24 = 24-hour energy as determined in section 3.3.10 of this appendix,
-Measured E batt = Measured battery energy as determined in section 3.3.8. of this appendix,
-P m = Maintenance mode power as determined in section 3.3.9. of this appendix,
-P sb = Standby mode power as determined in section 3.3.11. of this appendix,
-P off = Off mode power as determined in section 3.3.12. of this appendix,
-t cd = Charge test duration as determined in section 3.3.2. of this appendix, and
-t a&m, n, t sb, and t off, are constants used depending upon a device's product class and found in Table 3.3.3:
+E24 = 24-hour energy as determined in section 3.3.10 of this appendix,
+Measured Ebatt = Measured battery energy as determined in section 3.3.8. of this appendix,
+Pm = Maintenance mode power as determined in section 3.3.9. of this appendix,
+Psb = Standby mode power as determined in section 3.3.11. of this appendix,
+Poff = Off mode power as determined in section 3.3.12. of this appendix,
+tcd = Charge test duration as determined in section 3.3.2. of this appendix, and
+ta&m, n, tsb, and toff, are constants used depending upon a device's product class and found in Table 3.3.3:
 Table 3.3.3—Battery Charger Usage Profiles
-Product class | Number | Description | Measured battery energy (measured E batt) ** | Special characteristic or highest nameplate battery voltage | Hours per day *** | Active + maintenance (t a & m) | Standby (t sb) | Off (t off) | Charges (n) | Number per day | Threshold charge time * | Hours
+Product class | Hours per day *** | Charges (n) | Threshold charge time *
+Number | Description | Measured battery energy (measured Ebatt) ** | Special characteristic or highest nameplate battery voltage | Active + maintenance (ta&m) | Standby (tsb) | Off (toff) | Number per day | Hours
 1 | Low-Energy | ≤5 Wh | Inductive Connection **** | 20.66 | 0.10 | 0.00 | 0.15 | 137.73
 2 | Low-Energy, Low-Voltage | <100 Wh | <4 V | 7.82 | 5.29 | 0.00 | 0.54 | 14.48
 3 | Low-Energy, Medium-Voltage | | 4-10 V | 6.42 | 0.30 | 0.00 | 0.10 | 64.20
@@ -276,10 +276,7 @@ Product class | Number | Description | Measured battery energy (measured E batt)
 5 | Medium-Energy, Low-Voltage | 100-3000 Wh | <20 V | 6.52 | 1.16 | 0.00 | 0.11 | 59.27
 6 | Medium-Energy, High-Voltage | | ≥20 V | 17.15 | 6.85 | 0.00 | 0.34 | 50.44
 7 | High-Energy | >3000 Wh | | 8.14 | 7.30 | 0.00 | 0.32 | 25.44
-* If the duration of the charge test (minus 5 hours) as determined in section 3.3.2. of this appendix exceeds the threshold charge time, use equation (ii) to calculate UEC otherwise use equation (i).
-** Measured E batt = Measured battery energy as determined in section 3.3.8.
-*** If the total time does not sum to 24 hours per day, the remaining time is allocated to unplugged time, which means there is 0 power consumption and no changes to the UEC calculation needed.
-**** Fixed-location inductive wireless charger only.
+* If the duration of the charge test (minus 5 hours) as determined in section 3.3.2. of this appendix exceeds the threshold charge time, use equation (ii) to calculate UEC otherwise use equation (i). ** Measured Ebatt = Measured battery energy as determined in section 3.3.8. *** If the total time does not sum to 24 hours per day, the remaining time is allocated to unplugged time, which means there is 0 power consumption and no changes to the UEC calculation needed. **** Fixed-location inductive wireless charger only.
 4. Testing Requirements for Uninterruptible Power Supplies
 4.1. Standard Test Conditions
 4.1.1. Measuring Equipment
@@ -305,59 +302,53 @@ Configure the UPS according to Annex J.2 of IEC 62040-3 Ed. 3.0 with the followi
 4.3. Test Measurement and Calculation
 Efficiency can be calculated from either average power or accumulated energy.
 4.3.1. Average Power Calculations
-If efficiency calculation are to be made using average power, calculate the average power consumption (P avg) by sampling the power at a rate of at least 1 sample per second and computing the arithmetic mean of all samples over the time period specified for each test as follows:
-ER12DE16.021
+If efficiency calculation are to be made using average power, calculate the average power consumption (Pavg) by sampling the power at a rate of at least 1 sample per second and computing the arithmetic mean of all samples over the time period specified for each test as follows:
 Where:
-P avg = average power
-P i = power measured during individual measurement (i)
+Pavg = average power
+Pi = power measured during individual measurement (i)
 n = total number of measurements
 4.3.2. Steady State
 Operate the UUT and the load for a sufficient length of time to reach steady state conditions. To determine if steady state conditions have been attained, perform the following steady state check, in which the difference between the two efficiency calculations must be less than 1 percent:
-(a)(1) Simultaneously measure the UUT's input and output power for at least 5 minutes, as specified in section 4.3.1 of this appendix, and record the average of each over the duration as P avg__in and P avg__out, respectively. Or,
-(2) Simultaneously measure the UUT's input and output energy for at least 5 minutes and record the accumulation of each over the duration as E in and E out, respectively.
-(b) Calculate the UUT's efficiency, Eff 1, using one of the following two equations:
-ER12DE16.022
+(a)(1) Simultaneously measure the UUT's input and output power for at least 5 minutes, as specified in section 4.3.1 of this appendix, and record the average of each over the duration as Pavg__in and Pavg__out, respectively. Or,
+(2) Simultaneously measure the UUT's input and output energy for at least 5 minutes and record the accumulation of each over the duration as Ein and Eout, respectively.
+(b) Calculate the UUT's efficiency, Eff1, using one of the following two equations:
 Where:
 Eff is the UUT efficiency
-P avg__out is the average output power in watts
-P avg__in is the average input power in watts
-ER12DE16.023
+Pavg__out is the average output power in watts
+Pavg__in is the average input power in watts
 Where:
 Eff is the UUT efficiency
-E out is the accumulated output energy in watt-hours
-E in in the accumulated input energy in watt-hours
+Eout is the accumulated output energy in watt-hours
+Ein in the accumulated input energy in watt-hours
 (c) Wait a minimum of 10 minutes.
-(d) Repeat the steps listed in paragraphs (a) and (b) of section 4.3.2 of this appendix to calculate another efficiency value, Eff 2.
+(d) Repeat the steps listed in paragraphs (a) and (b) of section 4.3.2 of this appendix to calculate another efficiency value, Eff2.
 (e) Determine if the product is at steady state using the following equation:
-ER12DE16.024
-If the percentage difference of Eff 1 and Eff 2 as described in the equation, is less than 1 percent, the product is at steady state.
+If the percentage difference of Eff1 and Eff2 as described in the equation, is less than 1 percent, the product is at steady state.
 (f) If the percentage difference is greater than or equal to 1 percent, the product is not at steady state. Repeat the steps listed in paragraphs (c) to (e) of section 4.3.2 of this appendix until the product is at steady state.
 4.3.3. Power Measurements and Efficiency Calculations
 Measure input and output power of the UUT according to section J.3 of Annex J of IEC 62040-3 Ed. 3.0, or measure the input and output energy of the UUT for efficiency calculations with the following exceptions:
 (a) Test the UUT at the following reference test load conditions, in the following order: 100 percent, 75 percent, 50 percent, and 25 percent of the rated output power.
 (b) Perform the test at each of the reference test loads by simultaneously measuring the UUT's input and output power in Watts (W), or input and output energy in Watt-Hours (Wh) over a 15 minute test period at a rate of at least 1 Hz. Calculate the efficiency for that reference load using one of the following two equations:
-ER12DE16.025
 Where:
-Eff n % = the efficiency at reference test load n %
-P avg__out n % = the average output power at reference load n %
-P avg__in n % = the average input power at reference load n %
-ER12DE16.026
+Effn% = the efficiency at reference test load n%
+Pavg__out n% = the average output power at reference load n%
+Pavg__in n% = the average input power at reference load n%
 Where:
-Eff n % = the efficiency at reference test load n %
-E out n % = the accumulated output energy at reference load n %
-E in n % = the accumulated input energy at reference load n %
+Effn% = the efficiency at reference test load n%
+Eout n% = the accumulated output energy at reference load n%
+Ein n% = the accumulated input energy at reference load n%
 (c) For representations of no-load losses, measure the active power at the UPS input port with no load applied in accordance with section 6.2.2.4 of IEC 62040-3 Ed. 3.0.
-4.3.4. UUT Classification
-Optional Test for determination of UPS architecture. Determine the UPS architecture by performing the tests specified in the definitions of VI, VFD, and VFI (sections 2.28.1 through 2.28.3 of this appendix).
+4.3.4 UUT Classification
+Optional Test for determination of UPS architecture. Determine the UPS architecture by performing the tests specified in the definitions of VI, VFD, and VFI (sections 2.27.1 through 2.27.3 of this appendix).
 4.3.5. Output Efficiency Calculation
 (a) Use the load weightings from Table 4.3.1 to determine the average load adjusted efficiency as follows:
-ER12DE16.029
 Where:
-Eff avg = the average load adjusted efficiency
-t n % = the portion of time spent at reference test load n % as specified in Table 4.3.1
-Eff | n % = the measured efficiency at reference test load n %
+Effavg = the average load adjusted efficiency
+tn% = the portion of time spent at reference test load n% as specified in Table 4.3.1
+Eff|n% = the measured efficiency at reference test load n%
 Table 4.3.1—Load Weightings
-Rated output power (W) | UPS architecture | Portion of time spent at reference load | 25% | 50% | 75% | 100%
+Rated output power (W) | UPS architecture | Portion of time spent at reference load
+25% | 50% | 75% | 100%
 P ≤ 1500 W | VFD | 0.2 | 0.2 | 0.3 | 0.3
 | VI or VFI | 0 * | 0.3 | 0.4 | 0.3
 P > 1500 W | VFD, VI, or VFI | 0 * | 0.3 | 0.4 | 0.3
