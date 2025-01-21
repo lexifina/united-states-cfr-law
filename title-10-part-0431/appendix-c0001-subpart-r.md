@@ -80,54 +80,36 @@ Test conditions used to determine AWEF2 shall be as specified in Tables 4 throug
 For fixed-capacity high-temperature matched-pair or single-packaged refrigeration systems with indoor condensing units, conduct tests using the test conditions specified in table 2 of this appendix. For fixed-capacity high-temperature matched-pair or single-packaged refrigeration systems with outdoor condensing units, conduct tests using the test conditions specified in table 3 of this appendix. For high-temperature unit coolers tested alone, conduct tests using the test conditions specified in table 4 of this appendix.
 Table 2—Test Operating Conditions for Fixed-Capacity High-Temperature Indoor Matched Pair or Single-Packaged Refrigeration Systems
 Test description | Unit cooler air entering dry-bulb, °F | Unit cooler air entering relative humidity, % 1 | Condenser air entering dry-bulb, °F | Condenser air entering wet-bulb, °F | Compressor status | Test objective
-Off-Cycle Power | 55 | 55 | | | Compressor Off | Measure total input wattage during compressor off-cycle, (E cu,off + E F comp,off). 2
+Off-Cycle Power | 55 | 55 | | | Compressor Off | Measure total input wattage during compressor off-cycle, (E cu,off + E Fcomp,off). 2
 Refrigeration Capacity A | 55 | 55 | 90 | 3 75, 4 65 | Compressor On | Determine Net Refrigeration Capacity of Unit Cooler, input power, and EER at Test Condition.
-Notes:
-1 The test condition tolerance (maximum permissible variation of the average value of the measurement from the specified test condition) for relative humidity is 3%.
-2 Measure off-cycle power as described in sections C3 and C4.2 of AHRI 1250-2020.
-3 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
-4 Maximum allowable value for Single-Packaged Systems that do not use evaporative Dedicated Condensing Units, where all or part of the equipment is located in the outdoor room.
+Notes: 1 The test condition tolerance (maximum permissible variation of the average value of the measurement from the specified test condition) for relative humidity is 3%. 2 Measure off-cycle power as described in sections C3 and C4.2 of AHRI 1250-2020. 3 Required only for evaporative condensing units (e.g., incorporates a slinger ring). 4 Maximum allowable value for Single-Packaged Systems that do not use evaporative Dedicated Condensing Units, where all or part of the equipment is located in the outdoor room.
 Table 3—Test Operating Conditions for Fixed-Capacity High-Temperature Outdoor Matched-Pair or Single-Packaged Refrigeration Systems
 Test description | Unit cooler air entering dry-bulb, °F | Unit cooler air entering relative humidity, % 1 | Condenser air entering dry-bulb, °F | Condenser air entering wet-bulb, °F | Compressor status | Test objective
 Refrigeration Capacity A | 55 | 55 | 95 | 3 75, 4 68 | Compressor On | Determine Net Refrigeration Capacity of Unit Cooler, input power, and EER at Test Condition.
-Off-Cycle Power, Capacity A | 55 | 55 | 95 | 3 75, 4 68 | Compressor Off | Measure total input wattage during compressor off-cycle, (E cu,off + E F comp,off) 2.
+Off-Cycle Power, Capacity A | 55 | 55 | 95 | 3 75, 4 68 | Compressor Off | Measure total input wattage during compressor off-cycle, (E cu,off + E Fcomp,off) 2.
 Refrigeration Capacity B | 55 | 55 | 59 | 3 54, 4 46 | Compressor On | Determine Net Refrigeration Capacity of Unit Cooler and system input power at moderate condition.
-Off-Cycle Power, Capacity B | 55 | 55 | 59 | 3 54, 4 46 | Compressor Off | Measure total input wattage during compressor off-cycle, (E cu,off + E F comp,off) 2.
+Off-Cycle Power, Capacity B | 55 | 55 | 59 | 3 54, 4 46 | Compressor Off | Measure total input wattage during compressor off-cycle, (E cu,off + E Fcomp,off) 2.
 Refrigeration Capacity C | 55 | 55 | 35 | 3 34, 4 29 | Compressor On | Determine Net Refrigeration Capacity of Unit Cooler and system input power at cold condition.
-Off-Cycle Power, Capacity C | 55 | 55 | 35 | 3 34, 4 29 | Compressor Off | Measure total input wattage during compressor off-cycle, (E cu,off + E F comp,off) 2.
-Notes:
-1 The test condition tolerance (maximum permissible variation of the average value of the measurement from the specified test condition) for relative humidity is 3%.
-2 Measure off-cycle power as described in sections C3 and C4.2 of AHRI 1250-2020.
-3 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
-4 Maximum allowable value for Single-Packaged Systems that do not use evaporative Dedicated Condensing Units, where all or part of the equipment is located in the outdoor room.
+Off-Cycle Power, Capacity C | 55 | 55 | 35 | 3 34, 4 29 | Compressor Off | Measure total input wattage during compressor off-cycle, (E cu,off + E Fcomp,off) 2.
+Notes: 1 The test condition tolerance (maximum permissible variation of the average value of the measurement from the specified test condition) for relative humidity is 3%. 2 Measure off-cycle power as described in sections C3 and C4.2 of AHRI 1250-2020. 3 Required only for evaporative condensing units (e.g., incorporates a slinger ring). 4 Maximum allowable value for Single-Packaged Systems that do not use evaporative Dedicated Condensing Units, where all or part of the equipment is located in the outdoor room.
 Table 4—Test Operating Conditions for High-Temperature Unit Coolers
 Test description | Unit cooler air entering dry-bulb, °F | Unit cooler air entering relative humidity, % 1 | Suction dew point temp, °F 3 4 | Liquid inlet bubble point temperature, °F | Liquid inlet subcooling, °F | Compressor status | Test objective
-Off-Cycle | 55 | 55 | | 105 | 9 | Compressor Off | Measure unit cooler input wattage during compressor off-cycle, E F comp,off. 2
+Off-Cycle | 55 | 55 | | 105 | 9 | Compressor Off | Measure unit cooler input wattage during compressor off-cycle, E Fcomp,off. 2
 Refrigeration Capacity | 55 | 55 | 38 | 105 | 9 | Compressor On | Determine Net Refrigeration Capacity of Unit Cooler, input power, and EER at Test Condition.
-Notes:
-1 The test condition tolerance (maximum permissible variation of the average value of the measurement from the specified test condition) for relative humidity is 3%.
-2 Measure off-cycle power as described in sections C3 and C4.2 of AHRI 1250-2020.
-3 Superheat shall be set as indicated in the installation instructions. If no superheat specification is given a default superheat value of 6.5 °F shall be used.
-4 Suction Dew Point shall be measured at the Unit Cooler Exit.
-3.2.2 Test Operating Conditions for CO 2 Unit Coolers
-For medium-temperature CO 2 Unit Coolers, conduct tests using the test conditions specified in table 5 of this appendix. For low-temperature CO 2 Unit Coolers, conduct tests using the test conditions specified in table 6 of this appendix.
-Table 5—Test Operating Conditions 1 for Medium-Temperature CO 2 Unit Coolers
+Notes: 1 The test condition tolerance (maximum permissible variation of the average value of the measurement from the specified test condition) for relative humidity is 3%. 2 Measure off-cycle power as described in sections C3 and C4.2 of AHRI 1250-2020. 3 Superheat shall be set as indicated in the installation instructions. If no superheat specification is given a default superheat value of 6.5 °F shall be used. 4 Suction Dew Point shall be measured at the Unit Cooler Exit.
+3.2.2 Test Operating Conditions for CO2 Unit Coolers
+For medium-temperature CO2 Unit Coolers, conduct tests using the test conditions specified in table 5 of this appendix. For low-temperature CO2 Unit Coolers, conduct tests using the test conditions specified in table 6 of this appendix.
+Table 5—Test Operating Conditions 1 for Medium-Temperature CO2 Unit Coolers
 Test title | Unit cooler air entering dry-bulb, °F | Unit cooler air entering relative humidity, % | Suction dew point temp, 3 °F | Liquid inlet bubble point temperature, °F | Liquid inlet subcooling, °F | Compressor operating mode | Test objective
-Off-Cycle Power | 35 | <50 | | | | Compressor Off | Measure unit cooler input wattage during compressor off-cycle, E F comp,off 2.
+Off-Cycle Power | 35 | <50 | | | | Compressor Off | Measure unit cooler input wattage during compressor off-cycle, E Fcomp,off 2.
 Refrigeration Capacity, Ambient Condition A | 35 | <50 | 25 | 38 | 5 | Compressor On | Determine Net Refrigeration Capacity of Unit Cooler, q mix,rack
-Notes:
-1 Superheat shall be set as indicated in the installation instructions. If no superheat specification is given a default superheat value of 6.5 °F shall be used.
-2 Measure off-cycle power as described in sections C3 and C4.2 of AHRI 1250-2020.
-3 Suction Dew Point shall be measured at the Unit Cooler Exit conditions.
-Table 6—Test Operating Conditions for Low-Temperature CO 2 Unit Coolers
+Notes: 1 Superheat shall be set as indicated in the installation instructions. If no superheat specification is given a default superheat value of 6.5 °F shall be used. 2 Measure off-cycle power as described in sections C3 and C4.2 of AHRI 1250-2020. 3 Suction Dew Point shall be measured at the Unit Cooler Exit conditions.
+Table 6—Test Operating Conditions for Low-Temperature CO2 Unit Coolers
 Test title | Unit cooler air entering dry-bulb, °F | Unit cooler air entering relative humidity, % | Suction dew point temp, 2 °F | Liquid inlet bubble point temperature, °F | Liquid inlet subcooling, °F | Compressor operating mode | Test objective
-Off-Cycle Power | −10 | <50 | | | | Compressor Off | Measure unit cooler input wattage during compressor off-cycle, E F comp,off. 2
+Off-Cycle Power | −10 | <50 | | | | Compressor Off | Measure unit cooler input wattage during compressor off-cycle, E Fcomp,off. 2
 Refrigeration Capacity, Ambient Condition A | −10 | <50 | −20 | 38 | 5 | Compressor On | Determine Net Refrigeration Capacity of Unit Cooler, q mix,rack.
-Defrost | −10 | <50 | | | | Compressor Off | Test according to Appendix C Section C10 of AHRI 1250-2020, D F, Q DF.
-Notes:
-1 Superheat shall be set as indicated in the installation instructions. If no superheat specification is given a default superheat value of 6.5 °F shall be used.
-2 Measure off-cycle power as described in sections C3 and C4.2 of AHRI 1250-2020.
-3 Suction Dew Point shall be measured at the Unit Cooler Exit conditions.
+Defrost | −10 | <50 | | | | Compressor Off | Test according to Appendix C Section C10 of AHRI 1250-2020, D F,Q DF.
+Notes: 1 Superheat shall be set as indicated in the installation instructions. If no superheat specification is given a default superheat value of 6.5 °F shall be used. 2 Measure off-cycle power as described in sections C3 and C4.2 of AHRI 1250-2020. 3 Suction Dew Point shall be measured at the Unit Cooler Exit conditions.
 3.2.3 Test Operating Conditions for Two-Capacity Condensing Units Tested Alone
 For two-capacity medium-temperature outdoor condensing units tested alone, conduct tests using the test conditions specified in table 7 of this appendix. For two-capacity medium-temperature indoor condensing units tested alone, conduct tests using the test conditions specified in table 8 of this appendix. For two-capacity low-temperature outdoor condensing units tested alone, conduct tests using the test conditions specified in table 9 of this appendix. For two-capacity low-temperature indoor condensing units tested alone, conduct tests using the test conditions specified in table 10 of this appendix.
 Table 7—Test Operating Conditions for Two-Capacity Medium-Temperature Outdoor Dedicated Condensing Units
@@ -141,15 +123,13 @@ Off-Cycle, Condition B | | | 59 | 54 | Off.
 Capacity, Condition C, Low Capacity | 24 | 41 | 35 | 34 | Low Capacity, k=1.
 Capacity, Condition C, High Capacity | 23 | 41 | 35 | 34 | High Capacity, k=2.
 Off-Cycle, Condition C | | | 35 | 34 | Off.
-Notes:
-1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
+Notes: 1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
 Table 8—Test Operating Conditions for Two-Capacity Medium-Temperature Indoor Dedicated Condensing Units
 Test description | Suction dew point, °F | Return gas, °F | Condenser air entering dry-bulb, °F | Condenser air entering wet-bulb, °F 1 | Compressor status
 Capacity, Condition A, Low Capacity | 24 | 41 | 90 | 75 | Low Capacity, k=1.
 Capacity, Condition A, High Capacity | 23 | 41 | 90 | 75 | High Capacity, k=2.
 Off-Cycle, Condition A | | | 90 | 75 | Off.
-Notes:
-1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
+Notes: 1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
 Table 9—Test Operating Conditions for Two-Capacity Low-Temperature Outdoor Dedicated Condensing Units
 Test title | Suction dew point, °F | Return gas, °F | Condenser air entering dry-bulb, °F | Condenser air entering wet-bulb, °F 1 | Compressor operating mode
 Capacity, Condition A, Low Capacity | −22 | 5 | 95 | 75 | Low Capacity, k=1.
@@ -161,15 +141,13 @@ Off-Cycle, Condition B | | | 59 | 54 | Compressor Off.
 Capacity, Condition C, Low Capacity | −22 | 5 | 35 | 34 | Low Capacity, k=1.
 Capacity, Condition C, High Capacity | −22 | 5 | 35 | 34 | High Capacity, k=2.
 Off-Cycle, Condition C | | | 35 | 34 | Compressor Off.
-Notes:
-1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
+Notes: 1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
 Table 10—Test Operating Conditions for Two-Capacity Low-Temperature Indoor Dedicated Condensing Units
 Test title | Suction dew point, °F | Return gas, °F | Condenser air entering dry-bulb, °F | Condenser air entering wet-bulb, °F 1 | Compressor operating mode
 Capacity, Condition A, Low Capacity | −22 | 5 | 90 | 75 | Low Capacity, k=1.
 Capacity, Condition A, High Capacity | −22 | 5 | 90 | 75 | High Capacity, k=2.
 Off-Cycle, Condition A | | | 90 | 75 | Compressor Off.
-Notes:
-1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
+Notes: 1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
 3.2.4 Test Operating Conditions for Variable- or Multiple-Capacity Condensing Units Tested Alone
 For variable-capacity or multiple-capacity outdoor medium-temperature condensing units tested alone, conduct tests using the test conditions specified in table 11 of this appendix. For variable-capacity or multiple-capacity indoor medium-temperature condensing units tested alone, conduct tests using the test conditions specified in table 12 of this appendix. For variable-capacity or multiple-capacity outdoor low-temperature condensing units tested alone, conduct tests using the test conditions specified in table 13 of this appendix. For variable-capacity or multiple-capacity indoor low-temperature condensing units tested alone, conduct tests using the test conditions specified in table 14 of this appendix.
 Table 11—Test Operating Conditions for Variable- or Multiple-Capacity Medium-Temperature Outdoor Dedicated Condensing Units
@@ -186,16 +164,14 @@ Capacity, Condition C, Minimum Capacity | 24 | 41 | 35 | 34 | Minimum Capacity, 
 Capacity, Condition C, Intermediate Capacity | 24 | 41 | 35 | 34 | Intermediate Capacity, k=i.
 Capacity, Condition C, Maximum Capacity | 23 | 41 | 35 | 34 | Maximum Capacity, k=2.
 Off-Cycle, Condition C | | | 35 | 34 | Off.
-Notes:
-1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
+Notes: 1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
 Table 12—Test Operating Conditions for Variable- or Multiple-Capacity Medium-Temperature Indoor Dedicated Condensing Units
 Test description | Suction dew point, °F | Return gas, °F | Condenser air entering dry-bulb, °F | Condenser air entering wet-bulb, °F 1 | Compressor status
 Capacity, Condition A, Minimum Capacity | 24 | 41 | 90 | 75 | Minimum Capacity, k=1.
 Capacity, Condition A, Intermediate Capacity | 24 | 41 | 90 | 75 | Intermediate Capacity, k=i.
 Capacity, Condition A, Maximum Capacity | 23 | 41 | 90 | 75 | Maximum Capacity, k=2.
 Off-Cycle, Condition A | | | 90 | 75 | Off.
-Notes:
-1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
+Notes: 1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
 Table 13—Test Operating Conditions for Variable- or Multiple-Capacity Low-Temperature Outdoor Dedicated Condensing Units
 Test title | Suction dew point, °F | Return gas, °F | Condenser air entering dry-bulb, °F | Condenser air entering wet-bulb, °F 1 | Compressor operating mode
 Capacity, Condition A, Minimum Capacity | −22 | 5 | 95 | 75 | Minimum Capacity, k=1.
@@ -210,16 +186,14 @@ Capacity, Condition C, Minimum Capacity | −22 | 5 | 35 | 34 | Minimum Capacity
 Capacity, Condition C, Intermediate Capacity | −22 | 5 | 35 | 34 | Intermediate Capacity, k=i.
 Capacity, Condition C, Maximum Capacity | −22 | 5 | 35 | 34 | Maximum Capacity, k=2.
 Off-Cycle, Condition C | | | 35 | 34 | Compressor Off.
-Notes:
-1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
+Notes: 1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
 Table 14—Test Operating Conditions for Variable- or Multiple-Capacity Low-Temperature Indoor Dedicated Condensing Units
 Test title | Suction dew point, °F | Return gas, °F | Condenser air entering dry-bulb, °F | Condenser air entering wet-bulb, °F 1 | Compressor operating mode
 Capacity, Condition A, Minimum Capacity | −22 | 5 | 90 | 75 | Minimum Capacity, k=1.
 Capacity, Condition A, Intermediate Capacity | −22 | 5 | 90 | 75 | Intermediate Capacity, k=i.
 Capacity, Condition A, Maximum Capacity | −22 | 5 | 90 | 75 | Maximum Capacity, k=2.
 Off-Cycle, Condition A | | | 90 | 75 | Compressor Off.
-Notes:
-1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
+Notes: 1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
 3.2.5 Test Operating Conditions for Two-Capacity Indoor Matched-Pair or Single-Packaged Refrigeration Systems
 For two-capacity indoor medium-temperature matched-pair or single-packaged refrigeration systems, conduct tests using the test conditions specified in table 15 of this appendix. For two-capacity indoor low-temperature matched-pair or single-packaged refrigeration systems, conduct tests using the test conditions specified in table 16 of this appendix.
 Table 15—Test Operating Conditions for Two-Capacity Medium-Temperature Indoor Matched-Pair or Single-Packaged Refrigeration Systems
@@ -227,18 +201,14 @@ Test description | Unit cooler air entering dry-bulb, °F | Unit cooler air ente
 Capacity, Condition A, Low Capacity | 35 | <50 | 90 | 1 75, 2 65 | Low Capacity.
 Capacity, Condition A, High Capacity | 35 | <50 | 90 | 1 75, 2 65 | High Capacity.
 Off-Cycle, Condition A | 35 | <50 | 90 | 1 75, 2 65 | Off.
-Notes:
-1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
-2 Maximum allowable value for Single-Packaged Systems that do not use evaporative Dedicated Condensing Units, where all or part of the equipment is located in the outdoor room.
+Notes: 1 Required only for evaporative condensing units (e.g., incorporates a slinger ring). 2 Maximum allowable value for Single-Packaged Systems that do not use evaporative Dedicated Condensing Units, where all or part of the equipment is located in the outdoor room.
 Table 16—Test Operating Conditions for Two Capacity Low-Temperature Indoor Matched-Pair or Single-Packaged Refrigeration Systems
 Test description | Unit cooler air entering dry-bulb, °F | Unit cooler air entering relative humidity, % | Condenser air entering dry-bulb, °F | Maximum condenser air entering wet-bulb, °F | Compressor status
-Capacity, Condition A, Low Capacity | −10 | <50 | 90 | 1 75, 2 65 | Low Capacity.
+Capacity, Condition A, Low Capacity | −10 | <50 | 90 | 1 75, 265 | Low Capacity.
 Capacity, Condition A, High Capacity | −10 | <50 | 90 | 1 75, 2 65 | High Capacity.
 Off-Cycle, Condition A | −10 | <50 | 90 | 1 75, 2 65 | Off.
 Defrost | −10 | <50 | | | System Dependent.
-Notes:
-1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
-2 Maximum allowable value for Single-Packaged Systems that do not use evaporative Dedicated Condensing Units, where all or part of the equipment is located in the outdoor room.
+Notes: 1 Required only for evaporative condensing units (e.g., incorporates a slinger ring). 2 Maximum allowable value for Single-Packaged Systems that do not use evaporative Dedicated Condensing Units, where all or part of the equipment is located in the outdoor room.
 3.2.6 Test Conditions for Variable- or Multiple-Capacity Indoor Matched Pair or Single-Packaged Refrigeration Systems
 For variable- or multiple-capacity indoor medium-temperature matched-pair or single-packaged refrigeration systems, conduct tests using the test conditions specified in table 17 of this appendix. For variable- or multiple-capacity indoor low-temperature matched-pair or single-packaged refrigeration systems, conduct tests using the test conditions specified in table 18 of this appendix.
 Table 17—Test Operating Conditions for Variable- or Multiple-Capacity Medium-Temperature Indoor Matched-Pair or Single-Packaged Refrigeration Systems
@@ -247,9 +217,7 @@ Capacity, Condition A, Minimum Capacity | 35 | <50 | 90 | 1 75, 2 65 | Minimum C
 Capacity, Condition A, Intermediate Capacity | 35 | <50 | 90 | 1 75, 2 65 | Intermediate Capacity.
 Capacity, Condition A, High Capacity | 35 | <50 | 90 | 1 75, 1 65 | Maximum Capacity.
 Off-Cycle, Condition A | 35 | <50 | 90 | 1 75, 2 65 | Off.
-Notes:
-1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
-2 Maximum allowable value for Single-Packaged Systems that do not use evaporative Dedicated Condensing Units, where all or part of the equipment is located in the outdoor room.
+Notes: 1 Required only for evaporative condensing units (e.g., incorporates a slinger ring). 2 Maximum allowable value for Single-Packaged Systems that do not use evaporative Dedicated Condensing Units, where all or part of the equipment is located in the outdoor room.
 Table 18—Test Operating Conditions for Variable- or Multiple-Capacity Low-Temperature Indoor Matched-Pair or Single-Packaged Refrigeration Systems
 Test description | Unit cooler air entering dry-bulb, °F | Unit cooler air entering relative humidity, % | Condenser air entering dry-bulb, °F | Maximum condenser air entering wet-bulb, °F | Compressor status
 Capacity, Condition A, Minimum Capacity | −10 | <50 | 90 | 1 75, 2 65 | Minimum Capacity.
@@ -257,9 +225,7 @@ Capacity, Condition A, Intermediate Capacity | −10 | <50 | 90 | 1 75, 2 65 | I
 Capacity, Condition A, Maximum Capacity | −10 | <50 | 90 | 1 75, 2 65 | Maximum Capacity.
 Off-Cycle, Condition A | −10 | <50 | 90 | 1 75, 2 65 | Off.
 Defrost | −10 | <50 | | | System Dependent.
-Notes:
-1 Required only for evaporative condensing units (e.g., incorporates a slinger ring).
-2 Maximum allowable value for Single-Packaged Systems that do not use evaporative Dedicated Condensing Units, where all or part of the equipment is located in the outdoor room.
+Notes: 1 Required only for evaporative condensing units (e.g., incorporates a slinger ring). 2 Maximum allowable value for Single-Packaged Systems that do not use evaporative Dedicated Condensing Units, where all or part of the equipment is located in the outdoor room.
 3.3 Calculation for Walk-in Box Load
 3.3.1 For medium- and low-temperature refrigeration systems with indoor condensing units, calculate walk-in box loads for high and low load periods as a function of net capacity as described in section 6.2.1 of AHRI 1250-2020.
 3.3.2 For medium- and low-temperature refrigeration systems with outdoor condensing units, calculate walk-in box loads for high and low load periods as a function of net capacity and outdoor temperature as described in section 6.2.2 of AHRI 1250-2020.
@@ -270,260 +236,214 @@ Where q ss,A is the measured net capacity for Test Condition A.
 Calculations used to determine AWEF2 based on performance data obtained for testing shall be as specified in section 7 of AHRI 1250-2020 with modifications as indicated in sections 3.4.7 through 3.4.10 of this appendix. Calculations used to determine AWEF2 for refrigeration systems not specifically identified in sections 7.1.1 through 7.1.6 of AHRI 1250-2020 are enumerated in sections 3.4.1 through 3.4.6 and 3.4.11 through 3.4.14 of this appendix.
 3.4.1 Two-Capacity Condensing Units Tested Alone, Indoor
 3.4.1.1 Unit Cooler Power
-Calculate maximum-capacity unit cooler power during the compressor on period E F comp,on, in Watts, using Equation 130 of AHRI 1250-2020 for medium-temperature refrigeration systems and using Equation 173 of AHRI 1250-2020 for low-temperature refrigeration systems.
-Calculate unit cooler power during the compressor off period E F comp,off, in Watts, as 20 percent of the maximum-capacity unit cooler power during the compressor on period.
+Calculate maximum-capacity unit cooler power during the compressor on period E Fcomp,on, in Watts, using Equation 130 of AHRI 1250-2020 for medium-temperature refrigeration systems and using Equation 173 of AHRI 1250-2020 for low-temperature refrigeration systems.
+Calculate unit cooler power during the compressor off period E Fcomp,off, in Watts, as 20 percent of the maximum-capacity unit cooler power during the compressor on period.
 3.4.1.2 Defrost
-For freezer refrigeration systems, calculate defrost heat contribution Q DF in Btu/h and the defrost average power consumption D F in W as a function of steady-state maximum gross refrigeration capacity Q gross k =2, as specified in section C10.2.2 of Appendix C of AHRI 1250-2020.
+For freezer refrigeration systems, calculate defrost heat contribution Q DF in Btu/h and the defrost average power consumption D F in W as a function of steady-state maximum gross refrigeration capacity Q grossk=2, as specified in section C10.2.2 of Appendix C of AHRI 1250-2020.
 3.4.1.3 Net Capacity
-Calculate steady-state maximum net capacity, q ss k =2, and minimum net capacity, q ss k =1 as follows:
-q ss k =2 = Q gross k =2 − 3412 · E F comp,on
-q ss k =1 = Q gross k =1 − 3412 · 0.2 · E F comp,on
+Calculate steady-state maximum net capacity, q ssk=2, and minimum net capacity, q ssk=1 as follows:
+q ssk=2 = Q grossk=2 − 3412 · E Fcomp,on
+q ssk=1 = Q grossk=1 − 3412 · 0.2 · E Fcomp,on
 Where:
-Q gross k =2 and Q gross k =1 represent gross refrigeration capacity at maximum and minimum capacity, respectively.
+Q grossk=2 and Q grossk=1 represent gross refrigeration capacity at maximum and minimum capacity, respectively.
 3.4.1.4 Calculate average power input during the low load period as follows.
-If the low load period box load, BL L, plus defrost heat contribution, Q DF (only applicable for freezers), is less than the minimum net capacity q ss k =1:
-ER04MY23.032
+If the low load period box load, BL L, plus defrost heat contribution, Q DF (only applicable for freezers), is less than the minimum net capacity q ssk=1:
 Where:
-E ss k =1 is the steady state condensing unit power input for minimum-capacity operation.
+E ssk=1 is the steady state condensing unit power input for minimum-capacity operation.
 E cu,off is the condensing unit off-cycle power input, measured as described in section C3.5 of AHRI 1250-2020.
-If the low load period box load, BL L, plus defrost heat contribution, Q DF, (only applicable for freezers) is greater than the minimum net capacity q ss k =1:
-ER04MY23.033
+If the low load period box load, BL L, plus defrost heat contribution, Q DF, (only applicable for freezers) is greater than the minimum net capacity q ssk=1:
 3.4.1.5 Calculate average power input during the high load period as follows.
-ER04MY23.034
 3.4.1.6 Calculate the AWEF2 as follows:
-ER04MY23.035
 3.4.2 Variable-Capacity or Multistage Condensing Units Tested Alone, Indoor
 3.4.2.1 Unit Cooler Power
-Calculate maximum-capacity unit cooler power during the compressor on period E F comp,on as described in section 3.4.1.1 of this appendix.
-Calculate unit cooler power during the compressor off period E F comp,off, in Watts, as 20 percent of the maximum-capacity unit cooler power during the compressor on period.
+Calculate maximum-capacity unit cooler power during the compressor on period E Fcomp,on as described in section 3.4.1.1 of this appendix.
+Calculate unit cooler power during the compressor off period E Fcomp,off, in Watts, as 20 percent of the maximum-capacity unit cooler power during the compressor on period.
 3.4.2.2 Defrost
 Calculate Defrost parameters as described in section 4.4.1.2 of this appendix.
 3.4.2.3 Net Capacity
-Calculate steady-state maximum net capacity, q ss k =2, intermediate net capacity, q ss k=i, and minimum net capacity, q ss k =1 as follows:
-q ss k =2 = Q gross k =2 − 3412 · E F comp,on
-q ss k =2 = Q gross k =2 − 3412 · K f · E F comp,on
-q ss k =1 = Q gross k =1 − 3412 · 0.2 · E F comp,on
+Calculate steady-state maximum net capacity, q ssk=2, intermediate net capacity, q ssk=i, and minimum net capacity, q ssk=1 as follows:
+q ssk=2 = Q grossk=2 − 3412 · E Fcomp,on
+q ssk=2 = Q grossk=2 − 3412 · Kf · E Fcomp,on
+q ssk=1 = Q grossk=1 − 3412 · 0.2 · E Fcomp,on
 Where:
-Q gross k =2, Q gross k=i, Q gross, k =1, and represent gross refrigeration capacity at maximum, intermediate, and minimum capacity, respectively.
-K f is the unit cooler power coefficient for intermediate capacity operation, set equal to 0.2 to represent low-speed fan operation if the Duty Cycle for a Digital Compressor, the Speed Ratio for a Variable-Speed Compressor, or the Displacement Ratio for a Multi-Stage Compressor at Intermediate Capacity is 65% or less, and otherwise set equal to 1.0.
+Q grossk=2, Q grossk=i, Q gross,k=1, and represent gross refrigeration capacity at maximum, intermediate, and minimum capacity, respectively.
+Kf is the unit cooler power coefficient for intermediate capacity operation, set equal to 0.2 to represent low-speed fan operation if the Duty Cycle for a Digital Compressor, the Speed Ratio for a Variable-Speed Compressor, or the Displacement Ratio for a Multi-Stage Compressor at Intermediate Capacity is 65% or less, and otherwise set equal to 1.0.
 3.4.2.4 Calculate average power input during the low load period as follows.
-If the low load period box load, BL L, plus defrost heat contribution Q DF (only applicable for freezers) is less than the minimum net capacity q ss k =1:
-ER04MY23.036
+If the low load period box load, BL L, plus defrost heat contribution Q DF (only applicable for freezers) is less than the minimum net capacity q ssk=1:
 Where E cu,off, in W, is the condensing unit off-mode power consumption, measured as described in section C3.5 of AHRI 1250-2020.
-If the low load period box load BL L plus defrost heat contribution Q DF (only applicable for freezers) is greater than the minimum net capacity q ss k =1 and less than the intermediate net capacity q ss k=i:
-ER04MY23.037
+If the low load period box load BL L plus defrost heat contribution Q DF (only applicable for freezers) is greater than the minimum net capacity q ssk=1 and less than the intermediate net capacity q ssk=i:
 Where:
-EER k=1 is the minimum-capacity energy efficiency ratio, equal to q ss k =1 divided by E ss k =1 + 0.2 · E F comp,on; and
-EER k=i is the intermediate-capacity energy efficiency ratio, equal to q ss k=i divided by E ss k=i + K f · E F comp,on.
+EERk=1 is the minimum-capacity energy efficiency ratio, equal to q ssk=1 divided by E ssk=1 + 0.2 · E Fcomp,on; and
+EERk=i is the intermediate-capacity energy efficiency ratio, equal to q ssk=i divided by E ssk=i + Kf · E Fcomp,on.
 3.4.2.5 Calculate average power input during the high load period as follows:
-If the high load period box load, BL H, plus defrost heat contribution, Q DF (only applicable for freezers), is greater than the minimum net capacity q ss k =1 and less than the intermediate net capacity q ss k =i:
-ER04MY23.038
-If the high load period box load, BL H, plus defrost heat contribution, Q DF (only applicable for freezers), is greater than the intermediate net capacity, q ss k =i, and less than the maximum net capacity, q ss k =2:
-ER04MY23.039
+If the high load period box load, BL H, plus defrost heat contribution, Q DF (only applicable for freezers), is greater than the minimum net capacity q ssk=1 and less than the intermediate net capacity q ssk=i:
+If the high load period box load, BL H, plus defrost heat contribution, Q DF (only applicable for freezers), is greater than the intermediate net capacity, q ssk=i, and less than the maximum net capacity, q ssk=2:
 Where:
-EER k=2 is the maximum-capacity energy efficiency ratio, equal to q ss k =2 divided by E ss k =2 + E F comp,on
+EERk=2 is the maximum-capacity energy efficiency ratio, equal to q ssk=2 divided by E ssk=2 + E Fcomp,on
 3.4.2.6 Calculate the AWEF2 as follows.
-ER04MY23.040
 3.4.3 Two-Capacity Condensing Units Tested Alone, Outdoor
 3.4.3.1 Unit Cooler Power
-Calculate maximum-capacity unit cooler power during the compressor on period E F comp,on, in Watts, using Equation 153 of AHRI 1250-2020 for medium-temperature refrigeration systems and using Equation 196 of AHRI 1250-2020 for low-temperature refrigeration systems.
-Calculate unit cooler power during the compressor off period E F comp,off, in Watts, as 20 percent of the maximum-capacity unit cooler power during the compressor on period.
+Calculate maximum-capacity unit cooler power during the compressor on period E Fcomp,on, in Watts, using Equation 153 of AHRI 1250-2020 for medium-temperature refrigeration systems and using Equation 196 of AHRI 1250-2020 for low-temperature refrigeration systems.
+Calculate unit cooler power during the compressor off period E Fcomp,off, in Watts, as 20 percent of the maximum-capacity unit cooler power during the compressor on period.
 3.4.3.2 Defrost
 Calculate Defrost parameters as described in section 3.4.1.2 of this appendix.
 3.4.3.3 Condensing Unit Off-Cycle Power
-Calculate Condensing Unit Off-Cycle Power for temperature t j as follows.
-ER04MY23.041
-Where E cu,off,A and E cu,off,C are the Condensing Unit off-cycle power measurements for test conditions A and C, respectively, measured as described in section C3.5 of AHRI 1250-2020. If t j is greater than 35 °F and less than 59 °F, use Equation 157 of AHRI 1250-2020, and if t j is greater than or equal to 59 °F and less than 95 °F, use Equation 159 of AHRI 1250-2020.
+Calculate Condensing Unit Off-Cycle Power for temperature tj as follows.
+Where E cu,off,A and E cu,off,C are the Condensing Unit off-cycle power measurements for test conditions A and C, respectively, measured as described in section C3.5 of AHRI 1250-2020. If tj is greater than 35 °F and less than 59 °F, use Equation 157 of AHRI 1250-2020, and if tj is greater than or equal to 59 °F and less than 95 °F, use Equation 159 of AHRI 1250-2020.
 3.4.3.4 Net Capacity and Condensing Unit Power Input
-Calculate steady-state maximum net capacity, q ss k =2 (t j), and minimum net capacity, q ss k =1 (t j), and corresponding condensing unit power input levels E ss k =2 (t j) and E ss k =1 (t j) as a function of outdoor temperature t j as follows:
-If t j ≤ 59 °F:
-ER04MY23.042
-If 59 °F < t j:
-ER04MY23.043
+Calculate steady-state maximum net capacity, q ssk=2(tj), and minimum net capacity, q ssk=1(tj), and corresponding condensing unit power input levels E ssk=2(tj) and E ssk=1(tj) as a function of outdoor temperature tj as follows:
+If tj ≤ 59 °F:
+If 59 °F < tj:
 Where:
 The capacity level k can equal 1 or 2;
-Q gross,X k =2 and Q gross,X k =1 represent gross refrigeration capacity at maximum and minimum capacity, respectively, for test condition X, which can take on values A, B, or C;
-E ss,X k =2 and E ss,X k =1 represent condensing unit power input at maximum and minimum capacity, respectively for test condition X.
+Q gross,Xk=2 and Q gross,Xk=1 represent gross refrigeration capacity at maximum and minimum capacity, respectively, for test condition X, which can take on values A, B, or C;
+E ss,Xk=2 and E ss,Xk=1 represent condensing unit power input at maximum and minimum capacity, respectively for test condition X.
 3.4.3.5 Calculate average power input during the low load period as follows.
-Calculate the temperature, t IL, in the following equation which the low load period box load, BL L (t j), plus defrost heat contribution, Q DF (only applicable for freezers), is less than the minimum net capacity, q ss k =1 (t j), by solving the following equation for t IL:
-BL L (t IL) + Q DF = q ss k =1 (t IL)
-For t j < t IL:
-ER04MY23.044
-Where E cu,off (t j), in W, is the condensing unit off-mode power consumption for temperature t j, determined as indicated in section 3.4.3.3 of this appendix.
-For t j ≥ t IL:
-ER04MY23.045
+Calculate the temperature, tIL, in the following equation which the low load period box load, BL L(tj), plus defrost heat contribution, Q DF (only applicable for freezers), is less than the minimum net capacity, q ssk=1(tj), by solving the following equation for tIL:
+BL L(tIL) + Q DF = q ssk=1(tIL)
+For tj < tIL:
+Where E cu,off(tj), in W, is the condensing unit off-mode power consumption for temperature tj, determined as indicated in section 3.4.3.3 of this appendix.
+For tj ≥ tIL:
 3.4.3.6 Calculate average power input during the high load period as follows.
-Calculate the temperature, t IH, in the following equation which the high load period box load, BL H (t j), plus defrost heat contribution, Q DF (only applicable for freezers), is less than the minimum net capacity, q ss k =1 (t j), by solving the following equation for t IH:
-BL H (t IH) + Q DF = q ss k =1 (t IH)
-Calculate the temperature, t IIH, in the following equation which the high load period box load BL H (t j) plus defrost heat contribution Q DF (only applicable for freezers) is less than the maximum net capacity q ss k =2 (t j), by solving the following equation for t IIH:
-BL H (t IIH) + Q DF = q ss k =1 (t IIH)
-For t j < t IH:
-ER04MY23.046
-For t IH ≤ t j < t IIH:
-ER04MY23.047
-For t IIH ≤ t j:
-E H (t j) = (E ss k =2 (t j) + E F comp,on)
+Calculate the temperature, tIH, in the following equation which the high load period box load, BL H(tj), plus defrost heat contribution, Q DF (only applicable for freezers), is less than the minimum net capacity, q ssk=1(tj), by solving the following equation for tIH:
+BL H(tIH) + Q DF = q ssk=1(tIH)
+Calculate the temperature, tIIH, in the following equation which the high load period box load BL H(tj) plus defrost heat contribution Q DF (only applicable for freezers) is less than the maximum net capacity q ssk=2(tj), by solving the following equation for tIIH:
+BL H(tIIH) + Q DF = q ssk=1(tIIH)
+For tj < tIH:
+For tIH ≤ tj < tIIH:
+For tIIH ≤ tj:
+E H(tj) = (E ssk=2(tj) + E Fcomp,on)
 3.4.3.7 Calculate the AWEF2 as follows:
-ER04MY23.048
 3.4.4 Variable-Capacity or Multistage Condensing Units Tested Alone, Outdoor
 3.4.4.1 Unit Cooler Power
-Calculate maximum-capacity unit cooler power during the compressor on period E F comp,on as described in section 3.4.1.1 of this appendix.
-Calculate unit cooler power during the compressor off period E F comp,on, in Watts, as 20 percent of the maximum-capacity unit cooler power during the compressor on period.
+Calculate maximum-capacity unit cooler power during the compressor on period E Fcomp,on as described in section 3.4.1.1 of this appendix.
+Calculate unit cooler power during the compressor off period E Fcomp,on, in Watts, as 20 percent of the maximum-capacity unit cooler power during the compressor on period.
 3.4.4.2 Defrost
 Calculate Defrost parameters as described in section 3.4.1.2 of this appendix.
 3.4.4.3 Condensing Unit Off-Cycle Power
-Calculate Condensing Unit Off-Cycle Power for temperature, t j, as described in section 3.4.3.3 of this appendix.
+Calculate Condensing Unit Off-Cycle Power for temperature, tj, as described in section 3.4.3.3 of this appendix.
 3.4.4.4 Net Capacity and Condensing Unit Power Input
-Calculate steady-state maximum net capacity, q ss k =2 (t j), intermediate net capacity, q ss k =i (t j), and minimum net capacity, q ss k =1 (t j), and corresponding condensing unit power input levels E ss k =2 (t j), E ss k =i (t j), E ss k =1 (t j) and as a function of outdoor temperature, t j, as follows:
-If t j ≤ 59 °F:
-ER04MY23.049
-If 59 °F < t j:
-ER04MY23.050
+Calculate steady-state maximum net capacity, q ssk=2(tj), intermediate net capacity, q ssk=i(tj), and minimum net capacity, q ssk=1(tj), and corresponding condensing unit power input levels E ssk=2(tj), E ssk=i(tj), E ssk=1(tj) and as a function of outdoor temperature, tj, as follows:
+If tj ≤ 59 °F:
+If 59 °F < tj:
 Where:
 The capacity level k can equal 1, i, or 2;
-Q gross,X k =2, Q gross,X k=i and Q gross,X k =1 represent gross refrigeration capacity at maximum, intermediate, and minimum capacity, respectively, for test condition X, which can take on values A, B, or C;
-E ss,X k =2 and E ss,X k =1 represent condensing unit power input at maximum and minimum capacity, respectively for test condition X; and
-K f is the unit cooler power coefficient for intermediate capacity operation, set equal to 0.2 to represent low-speed fan operation if the Duty Cycle for a Digital Compressor, the Speed Ratio for a Variable-Speed Compressor, or the Displacement Ratio for a Multi-Stage Compressor at Intermediate Capacity is 65% or less, and otherwise set equal to 1.0.
+Q gross,Xk=2, Q gross,Xk=i and Q gross,Xk=1 represent gross refrigeration capacity at maximum, intermediate, and minimum capacity, respectively, for test condition X, which can take on values A, B, or C;
+E ss,Xk=2 and E ss,Xk=1 represent condensing unit power input at maximum and minimum capacity, respectively for test condition X; and
+Kf is the unit cooler power coefficient for intermediate capacity operation, set equal to 0.2 to represent low-speed fan operation if the Duty Cycle for a Digital Compressor, the Speed Ratio for a Variable-Speed Compressor, or the Displacement Ratio for a Multi-Stage Compressor at Intermediate Capacity is 65% or less, and otherwise set equal to 1.0.
 3.4.4.5 Calculate average power input during the low load period as follows.
-Calculate the temperature, t IL, in the following equation which the low load period box load BL L (t j) plus defrost heat contribution, Q DF (only applicable for freezers), is less than the minimum net capacity, q ss k =1 (t j), by solving the following equation for t IL:
-BL L (t IL) + Q DF = q ss k =1 (t IL)
-Calculate the temperature, t VL, in the following equation which the low load period box load, BL L (t j), plus defrost heat contribution, Q DF (only applicable for freezers), is less than the intermediate net capacity, q ss k =i (t j), by solving the following equation for t VL:
-BL L (t VL) + Q DF = q ss k =i (t VL)
-For t j < t IL:
-ER04MY23.051
-Where, E cu,off (t j) in W, is the condensing unit off-mode power consumption for temperature, t j, determined as indicated in section 3.4.3.3 of this appendix.
-For t IL ≤ t j < t VL:
-ER04MY23.052
-For t VL ≤ t j:
-ER04MY23.053
+Calculate the temperature, tIL, in the following equation which the low load period box load BL L(tj) plus defrost heat contribution, Q DF (only applicable for freezers), is less than the minimum net capacity, q ssk=1(tj), by solving the following equation for tIL:
+BL L(tIL) + Q DF = q ssk=1(tIL)
+Calculate the temperature, tVL, in the following equation which the low load period box load, BL L(tj), plus defrost heat contribution, Q DF (only applicable for freezers), is less than the intermediate net capacity, q ssk=i(tj), by solving the following equation for tVL:
+BL L(tVL) + Q DF = q ssk=i(tVL)
+For tj < tIL:
+Where, E cu,off(tj) in W, is the condensing unit off-mode power consumption for temperature, tj, determined as indicated in section 3.4.3.3 of this appendix.
+For tIL ≤ tj < tVL:
+For tVL ≤ tj:
 Where:
-EER k=2 (t j) is the minimum-capacity energy efficiency ratio, equal to q ss k =1 (t j) divided by E ss k =1 (t j) + 0.2 E F comp,on;
-EER k=i (t j) is the intermediate-capacity energy efficiency ratio, equal to q ss k =i (t j) divided by E ss k =i (t j) + K f · E F comp,on; and
-EER k=2 (t j) is the maximum-capacity energy efficiency ratio, equal to q ss k =2 (t j) divided by E ss k =2 (t j) + E F comp,on
+EERk=2(tj) is the minimum-capacity energy efficiency ratio, equal to q ssk=1(tj) divided by E ssk=1(tj) + 0.2 E Fcomp,on;
+EER k=i(tj) is the intermediate-capacity energy efficiency ratio, equal to q ssk=i(tj) divided by E ssk=i(tj) + Kf · E Fcomp,on; and
+EER k=2(tj) is the maximum-capacity energy efficiency ratio, equal to q ssk=2(tj) divided by E ssk=2(tj) + E Fcomp,on
 3.4.4.6 Calculate average power input during the high load period as follows.
-Calculate the temperature t VH in the following equation which the high load period box load BL H (t j) plus defrost heat contribution Q DF (only applicable for freezers) is less than the intermediate net capacity q ss k =i (t j), by solving the following equation for t VH:
-BL H (t VH) + Q DF = q ss k =i (t VH)
-Calculate the temperature t IIH in the following equation which the high load period box load BL H (t j) plus defrost heat contribution Q DF (only applicable for freezers) is less than the maximum net capacity q ss k =2 (t j), by solving the following equation for t IIH:
-BL H (t IIH) + Q DF = q ss k =2 (t IIH)
-For t j < t VH:
-ER04MY23.054
-For t VH ≤ t j < t IIH:
-ER04MY23.055
-For t IIH ≤ t j:
-E H (t j) = (E ss k =2 (t j) + E F comp,on)
+Calculate the temperature tVH in the following equation which the high load period box load BL H(tj) plus defrost heat contribution Q DF (only applicable for freezers) is less than the intermediate net capacity q ssk=i(tj), by solving the following equation for tVH:
+BL H(tVH) + Q DF = q ssk=i(tVH)
+Calculate the temperature tIIH in the following equation which the high load period box load BL H(tj) plus defrost heat contribution Q DF (only applicable for freezers) is less than the maximum net capacity q ssk=2(tj), by solving the following equation for tIIH:
+BL H(tIIH) + Q DF = q ssk=2(tIIH)
+For tj < tVH:
+For tVH ≤ tj < tIIH:
+For tIIH ≤ tj:
+E H(tj) = (E ssk=2 (tj) + E Fcomp,on)
 3.4.4.7 Calculate the AWEF2 as follows:
-ER04MY23.056
 3.4.5 Two-Capacity Indoor Matched Pairs or Single-Packaged Refrigeration Systems Other Than High-Temperature
 3.4.5.1 Defrost
 For freezer refrigeration systems, defrost heat contribution Q DF in Btu/h and the defrost average power consumption D F in W shall be as measured in accordance with section C10.2.1 of Appendix C of AHRI 1250-2020.
 3.4.5.2 Calculate average power input during the low load period as follows.
-If the low load period box load B L L plus defrost heat contribution Q DF (only applicable for freezers) is less than the minimum net capacity q ss k =1:
-ER04MY23.057
+If the low load period box load BL L plus defrost heat contribution Q DF (only applicable for freezers) is less than the minimum net capacity q ssk=1:
 Where:
-q ss k =1 and E ss k =1 are the steady state refrigeration system minimum net capacity, in Btu/h, and associated refrigeration system power input, in W, respectively, for minimum-capacity operation, measured as described in AHRI 1250-2020.
-E F comp,off and E cu,off, both in W, are the unit cooler and condensing unit, respectively, off-mode power consumption, measured as described in section C3.5 of AHRI 1250-2020.
-If the low load period box load B L L plus defrost heat contribution Q DF (only applicable for freezers) is greater than the minimum net capacity q ss k =1:
-ER04MY23.058
-Where q ss k =2 and E ss k =2 are the steady state refrigeration system maximum net capacity, in Btu/h, and associated refrigeration system power input, in W, respectively, for maximum-capacity operation, measured as described in AHRI 1250-2020.
+q ssk=1 and E ssk=1 are the steady state refrigeration system minimum net capacity, in Btu/h, and associated refrigeration system power input, in W, respectively, for minimum-capacity operation, measured as described in AHRI 1250-2020.
+E Fcomp,off and E cu,off, both in W, are the unit cooler and condensing unit, respectively, off-mode power consumption, measured as described in section C3.5 of AHRI 1250-2020.
+If the low load period box load BL L plus defrost heat contribution Q DF (only applicable for freezers) is greater than the minimum net capacity q ssk=1:
+Where q ssk=2 and E ssk=2 are the steady state refrigeration system maximum net capacity, in Btu/h, and associated refrigeration system power input, in W, respectively, for maximum-capacity operation, measured as described in AHRI 1250-2020.
 3.4.5.3 Calculate average power input during the high load period as follows.
-ER04MY23.059
 3.4.5.4 Calculate the AWEF2 as follows:
-ER04MY23.060
 3.4.6 Variable-Capacity or Multistage Indoor Matched Pairs or Single-Packaged Refrigeration Systems Other Than High-Temperature
 3.4.6.1 Defrost
 For freezer refrigeration systems, defrost heat contribution Q DF in Btu/h and the defrost average power consumption D F in W shall be as measured in accordance with section C10.2.1 of Appendix C of AHRI 1250-2020.
 3.4.6.2 Calculate average power input during the low load period as follows.
-If the low load period box load B L L plus defrost heat contribution Q DF (only applicable for freezers) is less than the minimum net capacity q ss k =1:
-ER04MY23.061
+If the low load period box load BL L plus defrost heat contribution Q DF (only applicable for freezers) is less than the minimum net capacity q ssk=1:
 Where:
-q ss k =1 and E ss k =1 are the steady state refrigeration system minimum net capacity, in Btu/h, and associated refrigeration system power input, in W, respectively, for minimum-capacity operation, measured as described in AHRI 1250-2020; and
-E F comp,off and E cu,off, both in W, are the unit cooler and condensing unit, respectively, off-mode power consumption, measured as described in section C3.5 of AHRI 1250-2020.
-If the low load period box load B L L plus defrost heat contribution Q DF (only applicable for freezers) is greater than the minimum net capacity and less than the intermediate net capacity q ss k=i:
-ER04MY23.062
+q ssk=1 and E ssk=1 are the steady state refrigeration system minimum net capacity, in Btu/h, and associated refrigeration system power input, in W, respectively, for minimum-capacity operation, measured as described in AHRI 1250-2020; and
+E Fcomp,off and E cu,off, both in W, are the unit cooler and condensing unit, respectively, off-mode power consumption, measured as described in section C3.5 of AHRI 1250-2020.
+If the low load period box load BL L plus defrost heat contribution Q DF (only applicable for freezers) is greater than the minimum net capacity and less than the intermediate net capacity q ssk=i:
 Where:
-EER k=1 is the minimum-capacity energy efficiency ratio, equal to q ss k =1 divided by E ss k =1;
-q ss k=i and E ss k=i are the steady state refrigeration system intermediate net capacity, in Btu/h, and associated refrigeration system power input, in W, respectively, for intermediate-capacity operation, measured as described in AHRI 1250-2020.
-EER k=i is the intermediate-capacity energy efficiency ratio, equal to q ss k=i divided by E ss k=i.
+EERk=1 is the minimum-capacity energy efficiency ratio, equal to q ssk=1divided by E ssk=1;
+q ssk=i and E ssk=i are the steady state refrigeration system intermediate net capacity, in Btu/h, and associated refrigeration system power input, in W, respectively, for intermediate-capacity operation, measured as described in AHRI 1250-2020.
+EERk=i is the intermediate-capacity energy efficiency ratio, equal to q ssk=i divided by E ssk=i.
 3.4.6.3 Calculate average power input during the high load period as follows.
-If the high load period box load B L H plus defrost heat contribution Q DF (only applicable for freezers) is greater than the minimum net capacity q ss k =1 and less than the intermediate net capacity q ss k=i:
-ER04MY23.063
-If the high load period box load B L H plus defrost heat contribution Q DF (only applicable for freezers) is greater than the intermediate net capacity q ss k=i and less than the maximum net capacity q ss k =2:
-ER04MY23.064
+If the high load period box load BL H plus defrost heat contribution Q DF (only applicable for freezers) is greater than the minimum net capacity q ssk=1 and less than the intermediate net capacity q ssk=i:
+If the high load period box load BL H plus defrost heat contribution Q DF (only applicable for freezers) is greater than the intermediate net capacity q ssk=i and less than the maximum net capacity q ssk=2:
 Where:
-q ss k =2 and E ss k =2 are the steady state refrigeration system maximum net capacity, in Btu/h, and associated refrigeration system power input, in W, respectively, for maximum-capacity operation, measured as described in AHRI 1250-2020; and
-EER k=2 is the maximum-capacity energy efficiency ratio, equal to q ss k =2 divided by E ss k =2.
+q ssk=2 and E ssk=2 are the steady state refrigeration system maximum net capacity, in Btu/h, and associated refrigeration system power input, in W, respectively, for maximum-capacity operation, measured as described in AHRI 1250-2020; and
+EER k=2 is the maximum-capacity energy efficiency ratio, equal to q ssk=2 divided by E ssk=2.
 3.4.6.4 Calculate the AWEF2 as follows.
-ER04MY23.065
 3.4.7 Variable-Capacity or Multistage Outdoor Matched Pairs or Single-Packaged Refrigeration Systems Other Than High-Temperature
 Calculate AWEF2 as described in section 7.6 of AHRI 1250-2020, with the following revisions.
 3.4.7.1 Condensing Unit Off-Cycle Power
-Calculate condensing unit off-cycle power for temperature t j as indicated in section 3.4.3.3 of this appendix. Replace the constant value E CU,off in Equations 55 and 70 of AHRI 1250-2020 with the values E CU,off (t j), which vary with outdoor temperature t j.
+Calculate condensing unit off-cycle power for temperature tj as indicated in section 3.4.3.3 of this appendix. Replace the constant value E CU,off in Equations 55 and 70 of AHRI 1250-2020 with the values E CU,off(tj), which vary with outdoor temperature tj.
 3.4.7.2 Unit Cooler Off-Cycle Power
-Set unit cooler Off-Cycle power E F comp,off equal to the average of the unit cooler off-cycle power measurements made for test conditions A, B, and C.
+Set unit cooler Off-Cycle power E Fcomp,off equal to the average of the unit cooler off-cycle power measurements made for test conditions A, B, and C.
 3.4.7.3 Average Power During the Low Load Period
-Calculate average power for intermediate-capacity compressor operation during the low load period E ss,L k=v (t j) as described in section 7.6 of AHRI 1250-2020, except that, instead of calculating intermediate-capacity compressor EER using Equation 77 of AHRI 1250-2020, calculate EER as follows.
-For t j < t VL:
-ER04MY23.066
-For t VL ≤ t j:
-ER04MY23.067
+Calculate average power for intermediate-capacity compressor operation during the low load period E ss,Lk=v(tj) as described in section 7.6 of AHRI 1250-2020, except that, instead of calculating intermediate-capacity compressor EER using Equation 77 of AHRI 1250-2020, calculate EER as follows.
+For tj < tVL:
+For tVL ≤ tj:
 Where:
-EER k=1 (t j) is the minimum-capacity energy efficiency ratio, equal to q ss k =1 (t j) divided by E ss k =1 (t j);
-EER k=i (t j) is the intermediate-capacity energy efficiency ratio, equal to q ss k=i (t j) divided by E ss k=i (t j); and
-EER k=2 (t j) is the maximum-capacity energy efficiency ratio, equal to q ss k =2 (t j) divided by E ss k=2 (t j)
+EERk=1(tj) is the minimum-capacity energy efficiency ratio, equal to q ssk=1(tj) divided by E ssk=1(tj);
+EERk=i(tj) is the intermediate-capacity energy efficiency ratio, equal to q ssk=i (tj) divided by E ssk=i(tj); and
+EERk=2(tj) is the maximum-capacity energy efficiency ratio, equal to q ssk=2(tj) divided by E ssk=2(tj)
 3.4.7.4 Average Power During the High Load Period
-Calculate average power for intermediate-capacity compressor operation during the high load period E ss,H k=v (t j) as described in section 7.6 of AHRI 1250-2020, except that, instead of calculating intermediate-capacity compressor EER using Equation 61 of AHRI 1250-2020, calculate EER as follows:
-For t j < t VH:
-ER04MY23.068
-For t VH ≤ t j:
-ER04MY23.069
+Calculate average power for intermediate-capacity compressor operation during the high load period E ss,Hk=v(tj) as described in section 7.6 of AHRI 1250-2020, except that, instead of calculating intermediate-capacity compressor EER using Equation 61 of AHRI 1250-2020, calculate EER as follows:
+For tj < tVH:
+For tVH ≤ tj:
 3.4.8 Two-Capacity Outdoor Matched Pairs or Single-Packaged Refrigeration Systems Other Than High-Temperature
-Calculate AWEF2 as described in section 7.5 of AHRI 1250-2020, with the following revisions for Condensing Unit Off-Cycle Power and Unit Cooler Off-Cycle Power. Calculate condensing unit off-cycle power for temperature t j as indicated in section 3.4.3.3 of this appendix. Replace the constant value E CU,off in Equations 13 and 29 of AHRI 1250-2020 with the values E CU,off (t j), which vary with outdoor temperature t j. Set unit cooler Off-Cycle power E F comp,off equal to the average of the unit cooler off-cycle power measurements made for test conditions A, B, and C.
+Calculate AWEF2 as described in section 7.5 of AHRI 1250-2020, with the following revisions for Condensing Unit Off-Cycle Power and Unit Cooler Off-Cycle Power. Calculate condensing unit off-cycle power for temperature tj as indicated in section 3.4.3.3 of this appendix. Replace the constant value E CU,off in Equations 13 and 29 of AHRI 1250-2020 with the values E CU,off(tj), which vary with outdoor temperature tj. Set unit cooler Off-Cycle power E Fcomp,off equal to the average of the unit cooler off-cycle power measurements made for test conditions A, B, and C.
 3.4.9 Single-Capacity Outdoor Matched Pairs or Single-Packaged Refrigeration Systems Other Than High-Temperature
-Calculate AWEF2 as described in section 7.4 of AHRI 1250-2020, with the following revision for Condensing Unit Off-Cycle Power and Unit Cooler Off-cycle Power. Calculate condensing unit off-cycle power for temperature t j as indicated in section 3.4.3.3 of this appendix. Replace the constant value E CU,off in Equations 13 of AHRI 1250-2020 with the values E CU,off (t j), which vary with outdoor temperature t j. Set unit cooler Off-Cycle power E F comp,off equal to the average of the unit cooler off-cycle power measurements made for test conditions A, B, and C.
+Calculate AWEF2 as described in section 7.4 of AHRI 1250-2020, with the following revision for Condensing Unit Off-Cycle Power and Unit Cooler Off-cycle Power. Calculate condensing unit off-cycle power for temperature tj as indicated in section 3.4.3.3 of this appendix. Replace the constant value E CU,off in Equations 13 of AHRI 1250-2020 with the values E CU,off(tj), which vary with outdoor temperature tj. Set unit cooler Off-Cycle power E Fcomp,off equal to the average of the unit cooler off-cycle power measurements made for test conditions A, B, and C.
 3.4.10 Single-Capacity Condensing Units, Outdoor
-Calculate AWEF2 as described in section 7.9 of AHRI 1250-2020, with the following revision for Condensing Unit Off-Cycle Power. Calculate condensing unit off-cycle power for temperature t j as indicated in section 3.4.3.3 of this appendix rather than as indicated in Equations 157, 159, 202, and 204 of AHRI 1250-2020.
+Calculate AWEF2 as described in section 7.9 of AHRI 1250-2020, with the following revision for Condensing Unit Off-Cycle Power. Calculate condensing unit off-cycle power for temperature tj as indicated in section 3.4.3.3 of this appendix rather than as indicated in Equations 157, 159, 202, and 204 of AHRI 1250-2020.
 3.4.11 High-Temperature Matched Pairs or Single-Packaged Refrigeration Systems, Indoor
 3.4.11.1 Calculate Load Factor LF as follows:
-ER04MY23.070
 Where:
 B L, in Btu/h is the non-equipment-related box load calculated as described in section 3.3.3 of this appendix;
-E F comp,off, in W, is the unit cooler off-cycle power consumption, equal to 0.1 times the unit cooler on-cycle power consumption; and
+E Fcomp,off, in W, is the unit cooler off-cycle power consumption, equal to 0.1 times the unit cooler on-cycle power consumption; and
 q ss,A, in Btu/h is the measured net capacity for test condition A.
 3.4.11.2 Calculate the AWEF2 as follows:
-ER04MY23.071
 Where:
 E ss,A, in W, is the measured system power input for test condition A; and
 E cu,off, in W, is the condensing unit off-cycle power consumption, measured as described in section C3.5 of AHRI 1250-2020.
 3.4.12 High-Temperature Matched Pairs or Single-Packaged Refrigeration Systems, Outdoor
-3.4.12.1 Calculate Load Factor LF(t j) for outdoor temperature t j as follows:
-ER04MY23.072
+3.4.12.1 Calculate Load Factor LF(tj) for outdoor temperature tj as follows:
 Where:
 B L, in Btu/h, is the non-equipment-related box load calculated as described in section 3.3.3 of this appendix;
-E F comp,off, in W, is the unit cooler off-cycle power consumption, equal to 0.1 times the unit cooler on-cycle power consumption; and
-q ss (t j), in Btu/h, is the net capacity for outdoor temperature t j, calculated as described in section 7.4.2 of AHRI 1250-2020.
+E Fcomp,off, in W, is the unit cooler off-cycle power consumption, equal to 0.1 times the unit cooler on-cycle power consumption; and
+q ss(tj), in Btu/h, is the net capacity for outdoor temperature tj, calculated as described in section 7.4.2 of AHRI 1250-2020.
 3.4.12.2 Calculate the AWEF2 as follows:
-ER04MY23.073
 Where:
-E ss (t j), in W, is the system power input for temperature t j, calculated as described in section 7.4.2 of AHRI 1250-2020;
-E cu,off, in W, is the condensing unit off-cycle power consumption, measured as described in section C3.5 of AHRI 1250-2020; and
-n j are the hours for temperature bin j.
+E ss(tj, in W, is the system power input for temperature tj, calculated as described in section 7.4.2 of AHRI 1250-2020;
+E cu,off(tj, in W, is the condensing unit off-cycle power consumption for temperature tj, determined as indicated in section 3.4.3.3 of this appendix; and
+nj are the hours for temperature bin j.
 3.4.13 High-Temperature Unit Coolers Tested Alone
 3.4.13.1 Calculate Refrigeration System Power Input as follows:
-ER04MY23.074
 Where:
 q mix,evap, in W, is the net evaporator capacity, measured as described in AHRI 1250-2020;
-E F comp,on, in W, is the unit cooler on-cycle power consumption; and
+E Fcomp,on, in W, is the unit cooler on-cycle power consumption; and
 EER, in W, equals
-ER04MY23.075
 3.4.13.2 Calculate the load factor LF as follows:
-ER04MY23.076
 Where:
 B L, in Btu/h, is the non-equipment-related box load calculated as described in section 3.3.3 of this appendix; and
-E F comp,off, in W, is the unit cooler off-cycle power consumption, equal to 0.1 times the unit cooler on-cycle power consumption.
+E Fcomp,off, in W, is the unit cooler off-cycle power consumption, equal to 0.1 times the unit cooler on-cycle power consumption.
 3.4.13.3 Calculate AWEF2 as follows:
-ER04MY23.077
-3.4.14 CO 2 Unit Coolers Tested Alone
-Calculate AWEF2 for CO 2 Unit Coolers Tested Alone using the calculations specified in in section 7.8 of AHRI 1250-2020 for calculation of AWEF2 for Unit Cooler Tested Alone.
+3.4.14 CO2 Unit Coolers Tested Alone
+Calculate AWEF2 for CO2 Unit Coolers Tested Alone using the calculations specified in in section 7.8 of AHRI 1250-2020 for calculation of AWEF2 for Unit Cooler Tested Alone.
 3.5 Test Method
 Test the Refrigeration System in accordance with AHRI 1250-2020 to determine refrigeration capacity and power input for the specified test conditions, with revisions and additions as described in this section.
 3.5.1 Chamber Conditioning Using the Unit Under Test
@@ -545,7 +465,8 @@ All dedicated condensing systems that do not use a flooded condenser design shal
 If the installation instructions give a specified range for superheat, sub-cooling, or refrigerant pressure, the average of the range shall be used as the refrigerant charging parameter target and the test condition tolerance shall be ±50 percent of the range. Perform charging of near-azeotropic and zeotropic refrigerants only with refrigerant in the liquid state. Once the correct refrigerant charge is determined, all tests shall run until completion without further modification.
 3.5.2.5.1. When charging or adjusting superheat/subcooling, use all pertinent instructions contained in the installation instructions to achieve charging parameters within the tolerances. However, in the event of conflicting charging information between installation instructions, follow the installation instruction hierarchy listed in section 3.5.2.4. Conflicting information is defined as multiple conditions given for charge adjustment where all conditions specified cannot be met. In the event of conflicting information within the same set of charging instructions (e.g., the installation instructions shipped with the dedicated condensing unit), follow the hierarchy in Table 19 for priority. Unless the installation instructions specify a different charging tolerance, the tolerances identified in table 19 of this appendix shall be used.
 Table 19—Test Condition Tolerances and Hierarchy for Refrigerant Charging and Setting of Refrigerant Conditions
-Priority | Fixed orifice | Parameter with installation instruction target | Tolerance | Expansion Valve | Parameter with installation instruction target | Tolerance
+Priority | Fixed orifice | Expansion Valve
+Parameter with installation instruction target | Tolerance | Parameter with installation instruction target | Tolerance
 1 | Superheat | ±2.0 °F | Subcooling | 10% of the Target Value; No less than ±0.5 °F, No more than ±2.0 °F
 2 | High Side Pressure or Saturation Temperature* | ±4.0 psi or ±1.0 °F | High Side Pressure or Saturation Temperature* | ±4.0 psi or ±1.0 °F
 3 | Low Side Pressure or Saturation Temperature* | ±2.0 psi or ±0.8 °F | Superheat | ±2.0 °F
@@ -567,7 +488,7 @@ If testing using either the indoor or outdoor air enthalpy method to measure the
 3.5.2.8. Defrost
 Use section C10.2.1 of Appendix C of AHRI 1250-2020 for defrost testing. The Test Room Conditioning Equipment requirement of section C10.2.1.1 of Appendix C of AHRI 1250-2020 does not apply.
 3.5.2.8.1 Adaptive Defrost
-When testing to certify compliance to the energy conservation standards, use N DF = 4, as instructed in section C10.2.1.7 or C10.2.2.1 of AHRI 1250-2020. When determining the represented value of the calculated benefit for the inclusion of adaptive defrost, use N DF = 2.5, as instructed in section C10.2.1.7 or C10.2.2.1 of AHRI 1250-2020.
+When testing to certify compliance to the energy conservation standards, use NDF = 4, as instructed in section C10.2.1.7 or C10.2.2.1 of AHRI 1250-2020. When determining the represented value of the calculated benefit for the inclusion of adaptive defrost, use NDF = 2.5, as instructed in section C10.2.1.7 or C10.2.2.1 of AHRI 1250-2020.
 3.5.2.8.2 Hot Gas Defrost
 When testing to certify compliance to the energy conservation standards, remove the hot gas defrost mechanical components and disconnect all such components from electrical power. Test the units as if they are electric defrost units, but do not conduct the defrost tests described in section C10.2.1 of AHRI 1250-2020. Use the defrost heat and power consumption values as described in section C10.2.2 of AHRI 1250-2020 for the AWEF2 calculations.
 3.5.2.9 Dedicated condensing units that are not matched for testing and are not single-packaged dedicated systems.
@@ -585,8 +506,7 @@ Hierarchy number | Method of test | Test hierarchy
 7 | Outdoor Room Calorimeter | Secondary.
 8 | Single-Packaged Refrigerant Enthalpy 1 | Secondary.
 9 | Compressor Calibration | Secondary.
-Notes:
-1 See description of the single-packaged refrigerant enthalpy method in section 3.5.2.10.1 of this appendix.
+Notes: 1 See description of the single-packaged refrigerant enthalpy method in section 3.5.2.10.1 of this appendix.
 3.5.2.10.1 Single-Packaged Refrigerant Enthalpy Method
 The single-packaged refrigerant enthalpy method shall follow the test procedure of the DX Calibrated Box method in AHRI 1250-2020, appendix C, section C8 for refrigerant-side measurements with the following modifications:
 3.5.2.10.1.1 Air-side measurements shall follow the requirements of the primary single-packaged method listed in table 20 of this appendix. The air-side measurements and refrigerant-side measurements shall be collected over the same intervals.
@@ -598,17 +518,17 @@ The single-packaged refrigerant enthalpy method shall follow the test procedure 
 3.5.2.10.1.4 Once these conditions have been achieved over an interval of at least 10 minutes, refrigerant charging equipment shall be removed and the official tests shall be conducted.
 3.5.2.10.1.5 The lengths of liquid line to be added shall be 5 feet maximum, not including the requisite flow meter. This maximum length applies to each circuit separately.
 3.5.2.10.1.6 Use section C9.2 of appendix C of AHRI 1250-2020 for allowable refrigeration capacity heat balance. Calculate the single-packaged refrigerant enthalpy (secondary) method test net capacity
-Q net,secondary as follows: Q net,secondary = Q ref-3.412 · E F comp,on −Q sploss
+Q net,secondary as follows: Q net,secondary = Q ref-3.412·E Fcomp,on−Q sploss
 Where:
 Q ref is the gross capacity;
-E F comp,on is the evaporator compartment on-cycle power, including evaporator fan power; and
+E Fcomp,on is the evaporator compartment on-cycle power, including evaporator fan power; and
 Q sploss is a duct loss calculation applied to the evaporator compartment of the single-packaged systems, which is calculated as indicated in the following equation.
-Q sploss = UA cond × (T evapside − T condside) + UA amb × (T evapside − T amb)
+Q sploss = UAcond × (Tevapside − Tcondside) + UAamb × (Tevapside − Tamb)
 Where:
-UA cond and UA amb are, for the condenser/evaporator partition and the evaporator compartment walls exposed to ambient air, respectively, the product of the overall heat transfer coefficient and surface area of the unit as manufactured, i.e. without external insulation that might have been added during the test. The areas shall be calculated based on measurements, and the thermal resistance values shall be based on insulation thickness and insulation material;
-T evapside is the air temperature in the evaporator compartment—the measured evaporator air inlet temperature may be used;
-T condside is the air temperature in the condenser compartment—the measured chamber ambient temperature may be used, or a measurement may be made using a temperature sensor placed inside the condenser box at least 6 inches distant from any part of the refrigeration system; and
-T amb is the air temperature outside the single-packaged system.
+UAcond and UAamb are, for the condenser/evaporator partition and the evaporator compartment walls exposed to ambient air, respectively, the product of the overall heat transfer coefficient and surface area of the unit as manufactured, i.e. without external insulation that might have been added during the test. The areas shall be calculated based on measurements, and the thermal resistance values shall be based on insulation thickness and insulation material;
+Tevapside is the air temperature in the evaporator compartment—the measured evaporator air inlet temperature may be used;
+Tcondside is the air temperature in the condenser compartment—the measured chamber ambient temperature may be used, or a measurement may be made using a temperature sensor placed inside the condenser box at least 6 inches distant from any part of the refrigeration system; and
+Tamb is the air temperature outside the single-packaged system.
 3.5.2.10.1.7 For multi-circuit single-packaged systems utilizing the single-packaged refrigerant enthalpy method, apply the test method separately for each circuit and sum the separately-calculated refrigerant-side gross refrigeration capacities.
 3.5.2.10.2 Calibrated Box Test Procedure
 3.5.2.10.2.1 Measurements. Refer to section C3 of AHRI 1250-2020 (including the applicable provisions of ASHRAE 41.1-2013, ASHRAE 41.3-2014, and ASHRAE 41.10-2013, as referenced in section C3 of AHRI 1250-2020) for requirements of air-side and refrigerant-side measurements.
@@ -617,19 +537,17 @@ T amb is the air temperature outside the single-packaged system.
 3.5.2.10.2. The temperature-controlled enclosure shall be of a size that will provide clearances of not less than 18 in at all sides, top and bottom, except that clearance of any one surface may be reduced to not less than 5.5 inches.
 3.5.2.10.2.5 The heat leakage of the calibrated box shall be noted in the test report.
 3.5.2.10.2.6 Refrigerant lines within the calibrated box shall be well insulated to avoid appreciable heat loss or gain.
-3.5.2.10.2.7 Instruments for measuring the temperature around the outside of the calibrated box to represent the enclosure temperature T en shall be located at the center of each wall, ceiling, and floor. Exception: in the case where a clearance around the outside of the calibrated box, as indicated in section 3.5.2.10.2.4 of this appendix, is reduced to less than 18 inches, the number of temperature measuring devices on the outside of that surface shall be increased to six, which shall be treated as a single temperature to be averaged with the temperature of each of the other five surfaces. The six temperature measuring instruments shall be located at the center of six rectangular sections of equal area. If the refrigeration system is mounted at the location that would cover the center of the face on which it is mounted, up to four temperature measurements shall be used on that face to represent its temperature. Each sensor shall be aligned with the center of the face's nearest outer edge and centered on the distance between that edge and the single-packaged unit (this is illustrated in figure C5 of this section when using surface temperature sensors), and they shall be treated as a single temperature to be averaged with the temperature of each of the other five surfaces. However, any of these sensors shall be omitted if either (a) the distance between the outer edge and the single-packaged unit is less than one foot or (b) if the sensor location would be within two feet of any of the foot square surfaces discussed in section 3.5.2.10.2.8 of this appendix representing a warm discharge air impingement area. In this case, the remaining sensors shall be used to represent the average temperature for the surface.
-3.5.2.10.2.8 One of the following two approaches shall be used for the box external temperature measurement. Box calibration and system capacity measurement shall both be done using the same one of these approaches. 1: Air temperature sensors. Each temperature sensor shall be at a distance of 6 inches from the calibrated box. If the clearance from a surface of the box (allowed for one surface only) is less than 12 inches, the temperature measuring instruments shall be located midway between the outer wall of the calibrated box and the adjacent surface. 2: Surface temperature sensors. Surface temperature sensors shall be mounted on the calibrated box surfaces to represent the enclosure temperature, T en.
+3.5.2.10.2.7 Instruments for measuring the temperature around the outside of the calibrated box to represent the enclosure temperature Ten shall be located at the center of each wall, ceiling, and floor. Exception: in the case where a clearance around the outside of the calibrated box, as indicated in section 3.5.2.10.2.4 of this appendix, is reduced to less than 18 inches, the number of temperature measuring devices on the outside of that surface shall be increased to six, which shall be treated as a single temperature to be averaged with the temperature of each of the other five surfaces. The six temperature measuring instruments shall be located at the center of six rectangular sections of equal area. If the refrigeration system is mounted at the location that would cover the center of the face on which it is mounted, up to four temperature measurements shall be used on that face to represent its temperature. Each sensor shall be aligned with the center of the face's nearest outer edge and centered on the distance between that edge and the single-packaged unit (this is illustrated in figure C5 of this section when using surface temperature sensors), and they shall be treated as a single temperature to be averaged with the temperature of each of the other five surfaces. However, any of these sensors shall be omitted if either (a) the distance between the outer edge and the single-packaged unit is less than one foot or (b) if the sensor location would be within two feet of any of the foot square surfaces discussed in section 3.5.2.10.2.8 of this appendix representing a warm discharge air impingement area. In this case, the remaining sensors shall be used to represent the average temperature for the surface.
+3.5.2.10.2.8 One of the following two approaches shall be used for the box external temperature measurement. Box calibration and system capacity measurement shall both be done using the same one of these approaches. 1: Air temperature sensors. Each temperature sensor shall be at a distance of 6 inches from the calibrated box. If the clearance from a surface of the box (allowed for one surface only) is less than 12 inches, the temperature measuring instruments shall be located midway between the outer wall of the calibrated box and the adjacent surface. 2: Surface temperature sensors. Surface temperature sensors shall be mounted on the calibrated box surfaces to represent the enclosure temperature, Ten.
 3.5.2.10.2.9 Additional surface temperature sensors may be used to measure external hot spots during refrigeration system testing. If this is done, two temperature sensors shall be used to measure the average temperature of the calibrated box surface covered by the condensing section—they shall be located centered on equal-area rectangles comprising the covered calibrated box surface whose common sides span the short dimension of this surface. Additional surface temperature sensors may be used to measure box surfaces on which warm condenser discharge air impinges. A pattern of square surfaces measuring one foot square shall be mapped out to represent the hot spot upon which the warm condenser air impinges. One temperature sensor shall be used to measure surface temperature at the center of each square (see figure C5 of this section). A drawing showing this pattern and identifying the surface temperature sensors shall be provided in the test report. The average surface temperature of the overall calibrated box outer surface during testing shall be calculated as follows.
-ER04MY23.078
 Where:
-A i is the surface area of the ith of the six calibrated box surfaces;
-T i is the average temperature measured for the ith surface;
-A j is half of the surface area of the calibrated box covered by the condensing section;
-T' j is the jth of the two temperature measurements underneath the condensing section;
-T 1 is the average temperature of the four or fewer measurements representing the temperature of the face on which the single-packaged system is mounted, prior to adjustments associated with hot spots based on measurements T j and/or T k;
-A k is the area of the kth of n 1-square-foot surfaces used to measure the condenser discharge impingement area hot spot; and,
-T" k is the kth of the n temperature measurements of the condenser discharge impingement area hot spot.
-ER04MY23.079
+Ai is the surface area of the ith of the six calibrated box surfaces;
+Ti is the average temperature measured for the ith surface;
+Aj is half of the surface area of the calibrated box covered by the condensing section;
+T'j is the jth of the two temperature measurements underneath the condensing section;
+T1 is the average temperature of the four or fewer measurements representing the temperature of the face on which the single-packaged system is mounted, prior to adjustments associated with hot spots based on measurements Tj and/or Tk;
+Ak is the area of the kth of n 1-square-foot surfaces used to measure the condenser discharge impingement area hot spot; and,
+T"k is the kth of the n temperature measurements of the condenser discharge impingement area hot spot.
 Figure C5: Illustration of Layout of Surface Temperature Sensors on Face of Calibrated Box on which Single-Packaged Dedicated System is Mounted when Using Section 3.5.2.10.2.7 of Appendix C to this Part.3.5.2.10.2.10 Heating means inside the calibrated box shall be shielded or installed in a manner to avoid radiation to the Single-Packaged Dedicated System, the temperature measuring instruments, and to the walls of the box. The heating means shall be constructed to avoid stratification of temperature, and suitable means shall be provided for distributing the temperature uniformly.
 3.5.2.10.2.11 The average air dry-bulb temperature in the calibrated box during Single-Packaged Dedicated System tests and calibrated box heat leakage tests shall be the average of eight temperatures measured at the corners of the box at a distance of 2 inches to 4 inches from the walls. The instruments shall be shielded from any cold or warm surfaces except that they shall not be shielded from the adjacent walls of the box. The Single-Packaged Dedicated System under test shall be mounted such that the temperature instruments are not in the direct air stream from the discharge of the Single-Packaged Dedicated System.
 3.5.2.10.2.12 Calibration of the Calibrated Box. Calibration of the Calibrated Box shall occur prior to installation of the Single-Packaged Dedicated System. This shall be done either (a) prior to cutting the opening needed to install the Single-Packaged Dedicated System, or (b) with an insulating panel with the same thickness and thermal resistance as the box wall installed in the opening intended for the Single-Packaged Dedicated System installation. Care shall be taken to avoid thermal shorts in the location of the opening either during calibration or during subsequent installation of the Single-Packaged Dedicated System. A calibration test shall be made for air movements comparable to those expected for Single-Packaged Dedicated System capacity measurement, i.e., with air volume flow rate within 10 percent of the air volume flow rate of the Single-Packaged Dedicated System evaporator.
@@ -641,9 +559,8 @@ Figure C5: Illustration of Layout of Surface Temperature Sensors on Face of Cali
 3.5.2.10.2.18 Data to be Measured and Recorded. Refer to Table C5 in section C6.2 of AHRI 1250-2020 for the required data that need to measured and recorded.
 3.5.2.10.2.19 Refrigeration Capacity Calculation.
 The heat leakage coefficient of the calibrated box is calculated by
-ER04MY23.080
 For each Dry Rating Condition, calculate the Net Capacity:
-q ss = K cb (T en − T cb) + 3.412 × E c
+q ss = Kcb (Ten−Tcb) + 3.412 × E c
 3.5.2.10.3 Detachable single-packaged systems shall be tested as single-packaged dedicated refrigeration systems.
 3.5.2.11 Variable-Capacity and Multiple-Capacity Dedicated Condensing Refrigeration Systems
 3.5.2.11.1 Manufacturer-Provided Equipment Overrides
