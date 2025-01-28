@@ -1,26 +1,26 @@
 # Appendix A to Part 1611—Income Level for Individuals Eligible for Assistance
-Legal Services Corporation 2024 Income Guidelines *
+Legal Services Corporation 2025 Income Guidelines *
 Size of household | 48 Contiguous states and the District of Columbia | Alaska | Hawaii
-1 | $18,825 | $23,513 | $21,638
-2 | 25,550 | 31,925 | 29,375
-3 | 32,275 | 40,338 | 37,113
-4 | 39,000 | 48,750 | 44,850
-5 | 45,725 | 57,163 | 52,588
-6 | 52,450 | 65,575 | 60,325
-7 | 59,175 | 73,988 | 68,063
-8 | 65,900 | 82,400 | 75,800
-For each additional member of the household in excess of 8, add: | 6,725 | 8,413 | 7,738
+1 | $19,563 | $24,438 | $22,488
+2 | 26,438 | 33,038 | 30,400
+3 | 33,313 | 41,638 | 38,313
+4 | 40,188 | 50,238 | 46,225
+5 | 47,063 | 58,838 | 54,138
+6 | 53,938 | 67,438 | 62,050
+7 | 60,813 | 76,038 | 69,963
+8 | 67,688 | 84,638 | 77,875
+For each additional member of the household in excess of 8, add: | 6,875 | 8,600 | 7,913
 * The figures in this table represent 125% of the Federal Poverty Guidelines by household size as determined by HHS.
 Reference Chart—200% of Federal Poverty Guidelines *
-Size of household | 48 Contiguous states and the District of Columbia | Alaska | Hawaii
-1 | $30,120 | $37,620 | $ 34,620
-2 | 40,880 | 51,080 | 47,000
-3 | 51,640 | 64,540 | 59,380
-4 | 62,400 | 78,000 | 71,760
-5 | 73,160 | 91,460 | 84,140
-6 | 83,920 | 104,920 | 96,520
-7 | 94,680 | 118,380 | 108,900
-8 | 105,440 | 131,840 | 121,280
-For each additional member of the household in excess of 8, add: | 10,760 | 13,460 | 12,380
+Size of household | 48 Contiguous States and the District of Columbia | Alaska | Hawaii
+1 | $31,300 | $39,100 | $ 35,980
+2 | 42,300 | 52,860 | 48,640
+3 | 53,300 | 66,620 | 61,300
+4 | 64,300 | 80,380 | 73,960
+5 | 75,300 | 94,140 | 86,620
+6 | 86,300 | 107,900 | 99,280
+7 | 97,300 | 121,660 | 111,940
+8 | 108,300 | 135,420 | 124,600
+For each additional member of the household in excess of 8, add: | 11,000 | 13,760 | 12,660
 * The figures in this table represent 200% of the Federal Poverty Guidelines by household size as determined by HHS.
 (Authority: 42 U.S.C. 2996g(e))
