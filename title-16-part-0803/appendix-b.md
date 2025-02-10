@@ -1,12 +1,1 @@
 # Appendix B to Part 803—Instructions to the Notification and Report Form for Certain Mergers and Acquisitions
-ER30JA23.014
-ER30JA23.015
-ER30JA23.016
-ER30JA23.017
-ER30JA23.018
-ER30JA23.019
-ER30JA23.020
-ER30JA23.021
-ER30JA23.022
-ER30JA23.023
-ER30JA23.024
