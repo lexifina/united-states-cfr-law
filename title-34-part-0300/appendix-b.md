@@ -13,7 +13,7 @@ Total number of eligible children | 320
 Federal Flow-Through Funds to Flintstone School District
 Total allocation to Flintstone | $152,500
 Calculating Proportionate Share:
-Total allocation to Flinstone | 152,500
+Total allocation to Flintstone | 152,500
 Divided by total number of eligible children | 320
 Average allocation per eligible child | 476.5625
 Multiplied by the number of parentally-placed children with disabilities | 20

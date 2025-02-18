@@ -1,4 +1,4 @@
-# Appendix E To Part 300—Local Educational Agency Maintenance of Effort Calculation Examples
+# Appendix E to Part 300—Local Educational Agency Maintenance of Effort Calculation Examples
 The following tables provide examples of calculating LEA MOE. Figures are in $10,000s. All references to a "fiscal year" in these tables refer to the fiscal year covering that school year, unless otherwise noted.
 Tables 1 through 4 provide examples of how an LEA complies with the Subsequent Years rule. In Table 1, for example, an LEA spent $1 million in Fiscal Year (FY) 2012-2013 on the education of children with disabilities. In the following year, the LEA was required to spend at least $1 million but spent only $900,000. In FY 2014-2015, therefore, the LEA was required to spend $1 million, the amount it was required to spend in FY 2013-2014, not the $900,000 it actually spent.
 Table 1—Example of Level of Effort Required To Meet MOE Compliance Standard in Year Following a Year in Which LEA Failed To Meet MOE Compliance Standard
