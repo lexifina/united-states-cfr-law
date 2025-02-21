@@ -1,0 +1,8 @@
+# Appendix E to Part 1—Government Money Market Fund Prospectus Provisions Acceptable for Compliance with § 1.25(c)(5)
+Upon receipt of a proper redemption request submitted in a timely manner and otherwise in accordance with the redemption procedures set forth in this prospectus, the [Name of Fund] will redeem the requested shares and make a payment to you in satisfaction thereof no later than the business day following the redemption request. The [Name of Fund] may postpone and/or suspend redemption and payment beyond one business day only as follows:
+a. For any period during which there is a non-routine closure of the Fedwire or applicable Federal Reserve Banks;
+b. For any period (1) during which the New York Stock Exchange is closed other than customary week-end and holiday closings or (2) during which trading on the New York Stock Exchange is restricted;
+c. For any period during which an emergency exists as a result of which (1) disposal of securities owned by the [Name of Fund] is not reasonably practicable or (2) it is not reasonably practicable for the [Name of Fund] to fairly determine the net asset value of shares of the [Name of Fund];
+d. For any period during which the Securities and Exchange Commission has, by rule or regulation, deemed that (1) trading shall be restricted or (2) an emergency exists;
+e. For any period that the Securities and Exchange Commission, may by order permit for your protection; or
+f. For any period during which the [Name of Fund,] as part of a necessary liquidation of the fund, has properly postponed and/or suspended redemption of shares and payment in accordance with federal securities laws.
