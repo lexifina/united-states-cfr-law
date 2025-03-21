@@ -8,8 +8,3 @@ Conditions
 4. The State shall coordinate the location and content of signing near the State line with the adjacent State.
 5. Signing and other identification of a future Interstate route segment must comply with the provisions of the Manual on Uniform Traffic Control Devices for Streets and Highways.
 6. The FHWA Division Office must confirm in advance that the above conditions have been met and approve the general locations of signs.
-Sign Details
-1. Signs may not be used to give directions and should be away from directional signs, particularly at interchanges.
-2. An Interstate shield may be located on a green informational sign of a few words. For example: Future Interstate Corridor or Future I-00 Corridor.
-3. The Interstate shield may not include the word "Interstate."
-4. The FHWA Division Office must approve the signs as to design, wording, and detailed location.
