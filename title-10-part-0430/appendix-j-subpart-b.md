@@ -61,17 +61,21 @@ Water efficiency ratio means the quotient of the weighted-average load size divi
 2.5.5 Water meter. A water meter must be installed in both the hot and cold water lines to measure water flow and/or water consumption. The water meters must have a resolution no larger than 0.1 gallons (0.4 liters) and a maximum error no greater than 2 percent for the water flow rates being measured. If the volume of hot water for any individual cycle within the energy test cycle is less than 0.1 gallons (0.4 liters), the hot water meter must have a resolution no larger than 0.01 gallons (0.04 liters).
 2.5.6 Water pressure gauge. A water pressure gauge must be installed in both the hot and cold water lines to measure water pressure. The water pressure gauges must have a resolution of 1 pound per square inch gauge (psig) (6.9 kPa) and a maximum error no greater than 5 percent of any measured value.
 2.6 Bone-dryer. The dryer used for drying the cloth to bone-dry must heat the test cloth load above 210 °F (99 °C).
-2.7 Test cloths. The test cloth material and dimensions must conform to the specifications in appendix J3 to this subpart. The energy test cloth and the energy stuffer cloths must be clean and must not be used for more than 60 test runs (after preconditioning as specified in section 5 of appendix J3 to this subpart). All energy test cloth must be permanently marked identifying the lot number of the material. Mixed lots of material must not be used for testing a clothes washer. The moisture absorption and retention must be evaluated for each new lot of test cloth using the standard extractor Remaining Moisture Content (RMC) procedure specified in appendix J3 to this subpart.
+2.7 Test cloths.
+2.7.1 Material Specifications. The energy test cloth and energy stuffer cloth material and dimensions must conform to the specifications in section 3 of appendix J3 to this subpart.
+2.7.2 Material Verification. The test cloth lot used to fabricate each piece of test cloth must conform with the material verification procedures specified in section 7 of appendix J3 to this subpart.
+2.7.3 RMC Correction Curve. The test cloth lot used for testing must have a remaining moisture content (RMC) correction curve determined, according to section 8 of appendix J3 to this subpart.
+2.7.4 Lot Identification. Each piece of test cloth must be clean and permanently marked identifying the lot number of the material. Mixed lots of material must not be used for testing a clothes washer.
+2.7.5 Pre-Conditioning. The test cloth must be pre-conditioned prior to first use as specified in section 5 of appendix J3 to this subpart.
+2.7.6 Lifetime. Each piece of test cloth must not be used for more than 60 test runs (after pre-conditioning).
 2.8 Test Loads.
 2.8.1 Test load sizes. Create small and large test loads as defined in Table 5.1 of this appendix based on the clothes container capacity as measured in section 3.1 of this appendix. Record the bone-dry weight for each test load.
 2.8.2 Test load composition. Test loads must consist primarily of energy test cloths and no more than five energy stuffer cloths per load to achieve the proper weight.
 2.9 Preparation and loading of test loads. Use the following procedures to prepare and load each test load for testing in section 3 of this appendix.
 2.9.1 Test loads for energy and water consumption measurements must be bone-dry prior to the first cycle of the test, and dried to a maximum of 104 percent of bone-dry weight for subsequent testing.
 2.9.2 Prepare the energy test cloths for loading by grasping them in the center, lifting, and shaking them to hang loosely, as illustrated in Figure 2.9.2 of this appendix.
-ER01JN22.000
 For all clothes washers, follow any manufacturer loading instructions provided to the user regarding the placement of clothing within the clothes container. In the absence of any manufacturer instructions regarding the placement of clothing within the clothes container, the following loading instructions apply.
 2.9.2.1 To load the energy test cloths in a top-loading clothes washer, arrange the cloths circumferentially around the axis of rotation of the clothes container, using alternating lengthwise orientations for adjacent pieces of cloth. Complete each cloth layer across its horizontal plane within the clothes container before adding a new layer. Figure 2.9.2.1 of this appendix illustrates the correct loading technique for a vertical-axis clothes washer.
-ER01JN22.001
 2.9.2.2 To load the energy test cloths in a front-loading clothes washer, grasp each test cloth in the center as indicted in section 2.9.2 of this appendix, and then place each cloth into the clothes container prior to activating the clothes washer.
 2.10 Clothes washer installation. Install the clothes washer in accordance with manufacturer's instructions.
 2.10.1 Water inlet connections. If the clothes washer has 2 water inlets, connect the inlets to the hot water and cold water supplies, in accordance with the manufacturer's instructions. If the clothes washer has only 1 water inlet, connect the inlet to the cold water supply, in accordance with the manufacturer's instructions. Use the water inlet hoses provided with the clothes washer; otherwise use commercially available water inlet hoses, not to exceed 72 inches in length, in accordance with manufacturer's instructions.
@@ -79,11 +83,6 @@ ER01JN22.001
 2.11 Clothes washer pre-conditioning. If the clothes washer has not been filled with water in the preceding 96 hours, or if it has not been in the test room at the specified ambient conditions for 8 hours, pre-condition it by running it through a cold rinse cycle and then draining it to ensure that the hose, pump, and sump are filled with water.
 2.12 Determining the energy test cycle.
 2.12.1 Automatic clothes washers. To determine the energy test cycle, evaluate the wash/rinse temperature selection flowcharts in the order in which they are presented in this section. Use the large load size to evaluate each flowchart. The determination of the energy test cycle must take into consideration all cycle settings available to the end user, including any cycle selections or cycle modifications provided by the manufacturer via software or firmware updates to the product, for the basic model under test. The energy test cycle does not include any cycle that is recommended by the manufacturer exclusively for cleaning, deodorizing, or sanitizing the clothes washer.
-ER01JN22.002
-ER01JN22.003
-ER01JN22.004
-ER01JN22.005
-ER01JN22.006
 2.12.2. Semi-automatic clothes washers. The energy test cycle for semi-automatic clothes washers includes only the Cold Wash/Cold Rinse ("Cold") test cycle. Energy and water use for all other wash/rinse temperature combinations are calculated numerically in section 3.4.2 of this appendix.
 3. Test Measurements
 3.1 Clothes container capacity. Measure the entire volume that a clothes load could occupy within the clothes container during active mode washer operation according to the following procedures:
@@ -91,9 +90,7 @@ ER01JN22.006
 3.1.2 Line the inside of the clothes container with a 2 mil thickness (0.051 mm) plastic bag. All clothes washer components that occupy space within the clothes container and that are recommended for use during a wash cycle must be in place and must be lined with a 2 mil thickness (0.051 mm) plastic bag to prevent water from entering any void space.
 3.1.3 Record the total weight of the machine before adding water.
 3.1.4 Fill the clothes container manually with either 60 °F ± 5 °F (15.6 °C ± 2.8 °C) or 100 °F ± 10 °F (37.8 °C ± 5.5 °C) water, with the door open. For a top-loading vertical-axis clothes washer, fill the clothes container to the uppermost edge of the rotating portion, including any balance ring. Figure 3.1.4.1 of this appendix illustrates the maximum fill level for top-loading clothes washers.
-ER01JN22.007
 For a front-loading horizontal-axis clothes washer, fill the clothes container to the highest point of contact between the door and the door gasket. If any portion of the door or gasket would occupy the measured volume space when the door is closed, exclude from the measurement the volume that the door or gasket portion would occupy. For a front-loading horizontal-axis clothes washer with a concave door shape, include any additional volume above the plane defined by the highest point of contact between the door and the door gasket, if that area can be occupied by clothing during washer operation. For a top-loading horizontal-axis clothes washer, include any additional volume above the plane of the door hinge that clothing could occupy during washer operation. Figure 3.1.4.2 of this appendix illustrates the maximum fill volumes for all horizontal-axis clothes washer types.
-ER01JN22.008
 For all clothes washers, exclude any volume that cannot be occupied by the clothing load during operation.
 3.1.5 Measure and record the weight of water, W, in pounds.
 3.1.6 Calculate the clothes container capacity as follows:
@@ -118,224 +115,226 @@ If the water fill level selector has more than two settings available for the wa
 3.2.3.2 Clothes washers with a fixed water fill control system. The water level is automatically determined by the water fill control system.
 3.2.3.3 Clothes washers with a user-adjustable adaptive water fill control system. For the large test load size, set the water fill selector to the setting that uses the most water. For the small test load size, set the water fill selector to the setting that uses the least water.
 3.2.3.4 Clothes washers with a non-user-adjustable adaptive water fill control system. The water level is automatically determined by the water fill control system.
-3.2.3.5 Clothes washers with multiple water fill control systems. If a clothes washer allows user selection among multiple water fill control systems, test all water fill control systems and, for each one, calculate the energy consumption (HE T, ME T, DE T, and E TLP) and water consumption (Q T) values as set forth in section 4 of this appendix. Then, calculate the average of the tested values (one from each water fill control system) for each variable (HE T, ME T, DE T, E TLP, and Q T) and use the average value for each variable in the final calculations in section 4 of this appendix.
+3.2.3.5 Clothes washers with multiple water fill control systems. If a clothes washer allows user selection among multiple water fill control systems, test all water fill control systems and, for each one, calculate the energy consumption (HET, MET, DET, and ETLP) and water consumption (QT) values as set forth in section 4 of this appendix. Then, calculate the average of the tested values (one from each water fill control system) for each variable (HET, MET, DET, ETLP, and QT) and use the average value for each variable in the final calculations in section 4 of this appendix.
 3.2.4 Manufacturer default settings. For clothes washers with electronic control systems, use the manufacturer default settings for any cycle selections, except for (1) the temperature selection, (2) the wash water fill levels, or (3) network settings. If the clothes washer has network capabilities, the network settings must be disabled throughout testing if such settings can be disabled by the end-user and the product's user manual provides instructions on how to do so. For all other cycle selections, the manufacturer default settings must be used for wash conditions such as agitation/tumble operation, soil level, spin speed, wash times, rinse times, optional rinse settings, water heating time for water heating clothes washers, and all other wash parameters or optional features applicable to that wash cycle. Any optional wash cycle feature or setting (other than wash/rinse temperature, water fill level selection, or network settings on clothes washers with network capabilities) that is activated by default on the wash cycle under test must be included for testing unless the manufacturer instructions recommend not selecting this option, or recommend selecting a different option, for washing normally soiled cotton clothing. For clothes washers with control panels containing mechanical switches or dials, any optional settings, except for the temperature selection or the wash water fill levels, must be in the position recommended by the manufacturer for washing normally soiled cotton clothing. If the manufacturer instructions do not recommend a particular switch or dial position to be used for washing normally soiled cotton clothing, the setting switch or dial must remain in its as-shipped position.
 3.2.5 For each wash cycle tested, include the entire active washing mode and exclude any delay start or cycle finished modes.
 3.2.6 Anomalous Test Cycles. If during a wash cycle the clothes washer: (a) Signals to the user by means of a visual or audio alert that an out-of-balance condition has been detected; or (b) terminates prematurely and thus does not include the agitation/tumble operation, spin speed(s), wash times, and rinse times applicable to the wash cycle under test, discard the test data and repeat the wash cycle. Document in the test report the rejection of data from any wash cycle during testing and the reason for the rejection.
 3.3 Test cycles for automatic clothes washers. Perform testing on each wash/rinse temperature selection available in the energy test cycle as defined in section 2.12.1 of this appendix. Test each load size as defined in section 2.8 of this appendix with its associated water fill level defined in section 3.2.3 of this appendix. Assign the bone-dry weight according to the value measured in section 2.8 of this appendix. Place the test load in the clothes washer and initiate the cycle under test. Measure the values for hot water consumption, cold water consumption, electrical energy consumption, and cycle time for the complete cycle. Record the weight of the test load immediately after completion of the cycle. Table 3.3 of this appendix provides the symbol definitions for each measured value.
 Table 3.3—Symbol Definitions of Measured Values for Automatic Clothes Washer Test Cycles
 Wash/rinse temperature selection | Load size | Bone-dry weight | Hot water | Cold water | Electrical energy | Cycle time | Cycle complete weight
-Extra-Hot/Cold | Large | WIx L | Hx L | Cx L | Ex L | Tx L | WCx L
-| Small | WIx S | Hx S | Cx S | Ex S | Tx S | WCx S
-Hot/Cold | Large | WIh L | Hh L | Ch L | Eh L | Th L | WCh L
-| Small | WIh S | Hh S | Ch S | Eh S | Th S | WCh S
-Warm/Cold * | Large | WIw L | Hw L | Cw L | Ew L | Tw L | WCw L
-| Small | WIw S | Hw S | Cw S | Ew S | Tw S | WCw S
-Warm/Warm * | Large | WIww L | Hww L | Cww L | Eww L | Tww L | WCww L
-| Small | WIww S | Hww S | Cww S | Eww S | Tww S | WCww S
-Cold/Cold | Large | WIc L | Hc L | Cc L | Ec L | Tc L | WCc L
-| Small | WIc S | Hc S | Cc S | Ec S | Tc S | WCc S
+Extra-Hot/Cold | Large | WIxL | HxL | CxL | ExL | TxL | WCxL
+| Small | WIxS | HxS | CxS | ExS | TxS | WCxS
+Hot/Cold | Large | WIhL | HhL | ChL | EhL | ThL | WChL
+| Small | WIhS | HhS | ChS | EhS | ThS | WChS
+Warm/Cold * | Large | WIwL | HwL | CwL | EwL | TwL | WCwL
+| Small | WIwS | HwS | CwS | EwS | TwS | WCwS
+Warm/Warm * | Large | WIwwL | HwwL | CwwL | EwwL | TwwL | WCwwL
+| Small | WIwwS | HwwS | CwwS | EwwS | TwwS | WCwwS
+Cold/Cold | Large | WIcL | HcL | CcL | EcL | TcL | WCcL
+| Small | WIcS | HcS | CcS | EcS | TcS | WCcS
 * If two cycles are tested to represent the Warm/Cold selection or the Warm/Warm selection, calculate the average of the two tested cycles and use that value for all further calculations.
 3.4 Test cycles for semi-automatic clothes washers.
 3.4.1 Test Measurements. Perform testing on each wash/rinse temperature selection available in the energy test cycle as defined in section 2.12.2 of this appendix. Test each load size as defined in section 2.8 of this appendix with the associated water fill level defined in section 3.2.3 of this appendix. Assign the bone-dry weight according to the value measured in section 2.8 of this appendix. Place the test load in the clothes washer and initiate the cycle under test. Measure the values for cold water consumption, electrical energy consumption, and cycle time for the complete cycle. Record the weight of the test load immediately after completion of the cycle. Table 3.4.1 of this appendix provides symbol definitions for each measured value for the Cold temperature selection.
 Table 3.4.1—Symbol Definitions of Measured Values for Semi-Automatic Clothes Washer Test Cycles
 Temperature selection | Load size | Bone-dry weight | Hot water | Cold water | Electrical energy | Cycle time | Cycle complete weight
-Cold | Large | WIc L | not measured | Cc L | Ec L | Tc L | WCc L
-| Small | WIc S | not measured | Cc S | Ec S | Tc S | WCc S
+Cold | Large | WIcL | not measured | CcL | EcL | TcL | WCcL
+| Small | WIcS | not measured | CcS | EcS | TcS | WCcS
 3.4.2 Calculation of Hot and Warm measured values. In lieu of testing, the measured values for the Hot and Warm cycles are calculated based on the measured values for the Cold cycle, as defined in section 3.4.1 of this appendix. Table 3.4.2 of this appendix provides the symbol definitions and calculations for each value for the Hot and Warm temperature selections.
 Table 3.4.2—Symbol Definitions and Calculation of Measured Values for Semi-Automatic Clothes Washer Test Cycles
 Temperature selection | Load Size | Bone-Dry weight | Hot water | Cold water | Electrical energy | Cycle time | Cycle complete weight
-Hot | Large | WIh L = WIc L | Hh L = Cc L | | Eh L = Ec L | Th L = Tc L | WCh L = WCc L
-| Small | WIh S = WIc S | Hh S = Cc S | | Eh S = Ec S | Th S = Tc S | WCh S = WCc S
-Warm | Large | WIw L = WIc L | Hw L = Cc L ÷ 2 | Cw L = Cc L ÷ 2 | Ew L = Ec L | Tw L = Tc L | WCw L = WCc L
-| Small | WIw S = WIc S | Hw S = Cc S ÷ 2 | Cw S = Cc S ÷ 2 | Ew S = Ec S | Tw S = Tc S | WCw S = WCc S
+Hot | Large | WIhL = WIcL | HhL = CcL | | EhL = EcL | ThL = TcL | WChL = WCcL
+| Small | WIhS = WIcS | HhS = CcS | | EhS = EcS | ThS = TcS | WChS = WCcS
+Warm | Large | WIwL = WIcL | HwL = CcL ÷ 2 | CwL = CcL ÷ 2 | EwL = EcL | TwL = TcL | WCwL = WCcL
+| Small | WIwS = WIcS | HwS = CcS ÷ 2 | CwS = CcS ÷ 2 | EwS = EcS | TwS = TcS | WCwS = WCcS
 3.5 Combined low-power mode power. Connect the clothes washer to a watt meter as specified in section 2.5.3 of this appendix. Establish the testing conditions set forth in sections 2.1, 2.4, and 2.10.2 of this appendix.
 3.5.1 Perform combined low-power mode testing after completion of an active mode wash cycle included as part of the energy test cycle; after removing the test load; without changing the control panel settings used for the active mode wash cycle; with the door closed; and without disconnecting the electrical energy supply to the clothes washer between completion of the active mode wash cycle and the start of combined low-power mode testing.
 3.5.2 For a clothes washer that takes some time to automatically enter a stable inactive mode or off mode state from a higher power state as discussed in Section 5, Paragraph 5.1, note 1 of IEC 62301, allow sufficient time for the clothes washer to automatically reach the default inactive/off mode state before proceeding with the test measurement.
-3.5.3 Once the stable inactive/off mode state has been reached, measure and record the default inactive/off mode power, P default, in watts, following the test procedure for the sampling method specified in Section 5, Paragraph 5.3.2 of IEC 62301.
-3.5.4 For a clothes washer with a switch, dial, or button that can be optionally selected by the end user to achieve a lower-power inactive/off mode state than the default inactive/off mode state measured in section 3.5.3 of this appendix, after performing the measurement in section 3.5.3 of this appendix, activate the switch, dial, or button to the position resulting in the lowest power consumption and repeat the measurement procedure described in section 3.5.3 of this appendix. Measure and record the lowest-power inactive/off mode power, P lowest, in Watts.
+3.5.3 Once the stable inactive/off mode state has been reached, measure and record the default inactive/off mode power, Pdefault, in watts, following the test procedure for the sampling method specified in Section 5, Paragraph 5.3.2 of IEC 62301.
+3.5.4 For a clothes washer with a switch, dial, or button that can be optionally selected by the end user to achieve a lower-power inactive/off mode state than the default inactive/off mode state measured in section 3.5.3 of this appendix, after performing the measurement in section 3.5.3 of this appendix, activate the switch, dial, or button to the position resulting in the lowest power consumption and repeat the measurement procedure described in section 3.5.3 of this appendix. Measure and record the lowest-power inactive/off mode power, Plowest, in Watts.
 3.6 Energy consumption for the purpose of determining the cycle selection(s) to be included in the energy test cycle. This section is implemented only in cases where the energy test cycle flowcharts in section 2.12.1 of this appendix require the determination of the wash/rinse temperature selection with the highest energy consumption.
 3.6.1 For the wash/rinse temperature selection being considered under this section, establish the testing conditions set forth in section 2 of this appendix. Select the applicable cycle selection and wash/rinse temperature selection. For all wash/rinse temperature selections, select the cycle settings as described in section 3.2 of this appendix.
-3.6.2 Measure each wash cycle's electrical energy consumption (E L) and hot water consumption (H L). Calculate the total energy consumption for each cycle selection (E TL), as follows:
-E TL = E L + (H L × T × K)
+3.6.2 Measure each wash cycle's electrical energy consumption (EL) and hot water consumption (HL). Calculate the total energy consumption for each cycle selection (ETL), as follows:
+ETL = EL + (HL × T × K)
 Where:
-E L is the electrical energy consumption, expressed in kilowatt-hours per cycle.
-H L is the hot water consumption, expressed in gallons per cycle.
+EL is the electrical energy consumption, expressed in kilowatt-hours per cycle.
+HL is the hot water consumption, expressed in gallons per cycle.
 T = nominal temperature rise = 65 °F (36.1 °C).
 K = Water specific heat in kilowatt-hours per gallon per degree F = 0.00240 kWh/gal − °F (0.00114 kWh/L − °C).
 4. Calculation of Derived Results From Test Measurements
 4.1 Hot water and machine electrical energy consumption of clothes washers.
-4.1.1 Per-cycle temperature-weighted hot water consumption for all load sizes tested. Calculate the per-cycle temperature-weighted hot water consumption for the large test load size, Vh L, and the small test load size, Vh S, expressed in gallons per cycle (or liters per cycle) and defined as:
-(a) Vh L = [Hx L × TUF X] + [Hh L × TUF h] + [Hw L × TUF w] + [Hww L × TUF ww] + [Hc L × TUF c]
-(b) Vh S = [Hx S × TUF X] + [Hh S × TUF h] + [Hw S × TUF w] + [Hww S × TUF ww] + [Hc S × TUF c]
+4.1.1 Per-cycle temperature-weighted hot water consumption for all load sizes tested. Calculate the per-cycle temperature-weighted hot water consumption for the large test load size, VhL, and the small test load size, VhS, expressed in gallons per cycle (or liters per cycle) and defined as:
+(a) VhL = [HxL × TUFX] + [HhL × TUFh] + [HwL × TUFw] + [HwwL × TUFww] + [HcL × TUFc]
+(b) VhS = [HxS × TUFX] + [HhS × TUFh] + [HwS × TUFw] + [HwwS × TUFww] + [HcS × TUFc]
 Where:
-Hx L, Hh L, Hw L, Hww L, Hc L, Hx S, Hh S, Hw S, Hww S, and Hc S are the hot water consumption values, in gallons per-cycle (or liters per cycle) as measured in section 3.3 of this appendix for automatic clothes washers or section 3.4 of this appendix for semi-automatic clothes washers.
-TUF X, TUF h, TUF w, TUF ww, and TUF c are temperature use factors for Extra-Hot Wash/Cold Rinse, Hot Wash/Cold Rinse, Warm Wash/Cold Rinse, Warm Wash/Warm Rinse, and Cold Wash/Cold Rinse temperature selections, respectively, as defined in Table 4.1.1 of this appendix.
+HxL, HhL, HwL, HwwL, HcL, HxS, HhS, HwS, HwwS, and HcS are the hot water consumption values, in gallons per-cycle (or liters per cycle) as measured in section 3.3 of this appendix for automatic clothes washers or section 3.4 of this appendix for semi-automatic clothes washers.
+TUFX, TUFh, TUFw, TUFww, and TUFc are temperature use factors for Extra-Hot Wash/Cold Rinse, Hot Wash/Cold Rinse, Warm Wash/Cold Rinse, Warm Wash/Warm Rinse, and Cold Wash/Cold Rinse temperature selections, respectively, as defined in Table 4.1.1 of this appendix.
 Table 4.1.1—Temperature Use Factors
-Wash/rinse temperature selections available in the energy test cycle | Clothes washers with cold rinse only | C/C | H/C C/C | H/C W/C C/C * | XH/C H/C C/C | XH/C H/C W/C C/C | Clothes washers with both cold and warm rinse | H/C W/C W/W C/C | XH/C H/C W/W C/C | XH/C H/C W/C W/W C/C
+Wash/rinse temperature selections available in the energy test cycle | Clothes washers with cold rinse only | Clothes washers with both cold and warm rinse
+C/C | H/C C/C | H/C W/C C/C * | XH/C H/C C/C | XH/C H/C W/C C/C | H/C W/C W/W C/C | XH/C H/C W/W C/C | XH/C H/C W/C W/W C/C
 TUFx (Extra-Hot/Cold) | | | | 0.14 | 0.05 | | 0.14 | 0.05
 TUFh (Hot/Cold) | | 0.63 | 0.14 | ** 0.49 | 0.09 | 0.14 | ** 0.22 | 0.09
 TUFw (Warm/Cold) | | | 0.49 | | 0.49 | 0.22 | | 0.22
 TUFww (Warm/Warm) | | | | | | 0.27 | 0.27 | 0.27
 TUFc (Cold/Cold) | 1.00 | 0.37 | 0.37 | 0.37 | 0.37 | 0.37 | 0.37 | 0.37
-* This column applies to all semi-automatic clothes washers.
-** On clothes washers with only two wash temperature selections <140 °F, the higher of the two wash temperatures is classified as a Hot Wash/Cold Rinse, in accordance with the wash/rinse temperature definitions within the energy test cycle.
-4.1.2 Total per-cycle hot water energy consumption for all load sizes tested. Calculate the total per-cycle hot water energy consumption for the large test load size, HE L, and the small test load size, HE S, expressed in kilowatt-hours per cycle and defined as:
-(a) HE L = [Vh L × T × K] = Total energy when the large test load is tested.
-(b) HE S = [Vh S × T × K] = Total energy when the small test load is tested.
+* This column applies to all semi-automatic clothes washers. ** On clothes washers with only two wash temperature selections <140 °F, the higher of the two wash temperatures is classified as a Hot Wash/Cold Rinse, in accordance with the wash/rinse temperature definitions within the energy test cycle.
+4.1.2 Total per-cycle hot water energy consumption for all load sizes tested. Calculate the total per-cycle hot water energy consumption for the large test load size, HEL, and the small test load size, HES, expressed in kilowatt-hours per cycle and defined as:
+(a) HEL = [VhL × T × K] = Total energy when the large test load is tested.
+(b) HES = [VhS × T × K] = Total energy when the small test load is tested.
 Where:
-Vh L and Vh S are defined in section 4.1.1 of this appendix.
+VhL and VhS are defined in section 4.1.1 of this appendix.
 T = Temperature rise = 65 °F (36.1 °C).
 K = Water specific heat in kilowatt-hours per gallon per degree F = 0.00240 kWh/gal − °F (0.00114 kWh/L − °C).
-4.1.3 Total weighted per-cycle hot water energy consumption. Calculate the total weighted per-cycle hot water energy consumption, HE T, expressed in kilowatt-hours per cycle and defined as:
-HE T = [HE L × LUF L] + [HE S × LUF S]
+4.1.3 Total weighted per-cycle hot water energy consumption. Calculate the total weighted per-cycle hot water energy consumption, HET, expressed in kilowatt-hours per cycle and defined as:
+HET = [HEL × LUFL] + [HES × LUFS]
 Where:
-HE L and HE S are defined in section 4.1.2 of this appendix.
-LUF L = Load usage factor for the large test load = 0.5.
-LUF S = Load usage factor for the small test load = 0.5.
-4.1.4 Total per-cycle hot water energy consumption using gas-heated or oil-heated water, for product labeling requirements. Calculate for the energy test cycle the per-cycle hot water consumption, HE TG, using gas-heated or oil-heated water, expressed in Btu per cycle (or megajoules per cycle) and defined as:
-HE TG = HE T × 1/e × 3412 Btu/kWh or HE TG = HE T × 1/e × 3.6 MJ/kWh.
+HEL and HES are defined in section 4.1.2 of this appendix.
+LUFL = Load usage factor for the large test load = 0.5.
+LUFS = Load usage factor for the small test load = 0.5.
+4.1.4 Total per-cycle hot water energy consumption using gas-heated or oil-heated water, for product labeling requirements. Calculate for the energy test cycle the per-cycle hot water consumption, HETG, using gas-heated or oil-heated water, expressed in Btu per cycle (or megajoules per cycle) and defined as:
+HETG = HET × 1/e × 3412 Btu/kWh or HETG = HET × 1/e × 3.6 MJ/kWh.
 Where:
 e = Nominal gas or oil water heater efficiency = 0.75.
-HE T = As defined in section 4.1.3 of this appendix.
-4.1.5 Per-cycle machine electrical energy consumption for all load sizes tested. Calculate the total per-cycle machine electrical energy consumption for the large test load size, ME L, and the small test load size, ME S, expressed in kilowatt-hours per cycle and defined as:
-(a) ME L = [Ex L × TUF X] + [Eh L × TUF h] + [Ew L × TUF w] + [Eww L × TUF ww] + [Ec L × TUF c]
-(b) ME S = [Ex S × TUF X] + [Eh S × TUF h] + [Ew S × TUF w] + [Eww S × TUF ww] + [Ec S × TUF c]
+HET = As defined in section 4.1.3 of this appendix.
+4.1.5 Per-cycle machine electrical energy consumption for all load sizes tested. Calculate the total per-cycle machine electrical energy consumption for the large test load size, MEL, and the small test load size, MES, expressed in kilowatt-hours per cycle and defined as:
+(a) MEL = [ExL × TUFX] + [EhL × TUFh] + [EwL × TUFw] + [EwwL × TUFww] + [EcL × TUFc]
+(b) MES = [ExS × TUFX] + [EhS × TUFh] + [EwS × TUFw] + [EwwS × TUFww] + [EcS × TUFc]
 Where:
-Ex L, Eh L, Ew L, Eww L, Ec L, Ex S, Eh S, Ew S, Eww S, and Ec S are the electrical energy consumption values, in kilowatt-hours per cycle as measured in section 3.3 of this appendix for automatic clothes washers or section 3.4 of this appendix for semi-automatic clothes washers.
-TUF X, TUF h, TUF w, TUF ww, and TUF c are defined in Table 4.1.1 of this appendix.
-4.1.6 Total weighted per-cycle machine electrical energy consumption. Calculate the total weighted per-cycle machine electrical energy consumption, ME T, expressed in kilowatt-hours per cycle and defined as:
-ME T = [ME L × LUF L] + [ME S × LUF S]
+ExL, EhL, EwL, EwwL, EcL, ExS, EhS, EwS, EwwS, and EcS are the electrical energy consumption values, in kilowatt-hours per cycle as measured in section 3.3 of this appendix for automatic clothes washers or section 3.4 of this appendix for semi-automatic clothes washers.
+TUFX, TUFh, TUFw, TUFww, and TUFc are defined in Table 4.1.1 of this appendix.
+4.1.6 Total weighted per-cycle machine electrical energy consumption. Calculate the total weighted per-cycle machine electrical energy consumption, MET, expressed in kilowatt-hours per cycle and defined as:
+MET = [MEL × LUFL] + [MES × LUFS]
 Where:
-ME L and ME S are defined in section 4.1.5 of this appendix.
-LUF L and LUF S are defined in section 4.1.3 of this appendix.
+MEL and MES are defined in section 4.1.5 of this appendix.
+LUFL and LUFS are defined in section 4.1.3 of this appendix.
 4.2 Water consumption of clothes washers.
-4.2.1 Per cycle total water consumption for each large load size tested. Calculate the per-cycle total water consumption of the large test load for the Extra-Hot Wash/Cold Rinse cycle, Qx L, Hot Wash/Cold Rinse cycle, Qh L, Warm Wash/Cold Rinse cycle, Qw L, Warm Wash/Warm Rinse cycle, Qww L, and Cold Wash/Cold Rinse cycle, Qc L, defined as:
-(a) Qx L = Hx L + Cx L
-(b) Qh L = Hh L + Ch L
-(c) Qw L = Hw L + Cw L
-(d) Qww L = Hww L + Cww L
-(e) Qc L = Hc L + Cc L
+4.2.1 Per cycle total water consumption for each large load size tested. Calculate the per-cycle total water consumption of the large test load for the Extra-Hot Wash/Cold Rinse cycle, QxL, Hot Wash/Cold Rinse cycle, QhL, Warm Wash/Cold Rinse cycle, QwL, Warm Wash/Warm Rinse cycle, QwwL, and Cold Wash/Cold Rinse cycle, QcL, defined as:
+(a) QxL = HxL + CxL
+(b) QhL = HhL + ChL
+(c) QwL = HwL + CwL
+(d) QwwL = HwwL + CwwL
+(e) QcL = HcL + CcL
 Where:
-Hx L, Hh L, Hw L, Hww L, Hc L, Cx L, Ch L, Cw L, Cww L, and Cc L are defined in section 3.3 of this appendix for automatic clothes washers or section 3.4 of this appendix for semi-automatic clothes washers.
-4.2.2 Per cycle total water consumption for each small load size tested. Calculate the per-cycle total water consumption of the small test load for the Extra-Hot Wash/Cold Rinse cycle, Qx S, Hot Wash/Cold Rinse cycle, Qh S, Warm Wash/Cold Rinse cycle, Qw S, Warm Wash/Warm Rinse cycle, Qww S, and Cold Wash/Cold Rinse cycle, Qc S, defined as:
-(a) Qx S = Hx S + Cx S
-(b) Qh S = Hh S + Ch S
-(c) Qw S = Hw S + Cw S
-(d) Qww S = Hww S + Cww S
-(e) Qc S = Hc S + Cc S
+HxL, HhL, HwL, HwwL, HcL, CxL, ChL, CwL, CwwL, and CcL are defined in section 3.3 of this appendix for automatic clothes washers or section 3.4 of this appendix for semi-automatic clothes washers.
+4.2.2 Per cycle total water consumption for each small load size tested. Calculate the per-cycle total water consumption of the small test load for the Extra-Hot Wash/Cold Rinse cycle, QxS, Hot Wash/Cold Rinse cycle, QhS, Warm Wash/Cold Rinse cycle, QwS, Warm Wash/Warm Rinse cycle, QwwS, and Cold Wash/Cold Rinse cycle, QcS, defined as:
+(a) QxS = HxS + CxS
+(b) QhS = HhS + ChS
+(c) QwS = HwS + CwS
+(d) QwwS = HwwS + CwwS
+(e) QcS = HcS + CcS
 Where:
-Hx S, Hh S, Hw S, Hww S, Hc S, Cx S, Ch S, Cw S, Cww S, and Cc S are defined in section 3.3 of this appendix for automatic clothes washers or section 3.4 of this appendix for semi-automatic clothes washers.
-4.2.3 Per-cycle total water consumption for all load sizes tested. Calculate the total per- cycle water consumption for the large test load size, Q L, and the small test load size, Q S, expressed in gallons per cycle (or liters per cycle) and defined as:
-(a) Q L = [Qx L × TUFx] + [Qh L × TUFh] + [Qw L × TUFw] + [Qww L × TUFww] + [Qc L × TUFc]
-(b) Q S = [Qx S × TUFx] + [Qh S × TUFh] + [Qw S × TUFw] + [Qww S × TUFww] + [Qc S × TUFc]
+HxS, HhS, HwS, HwwS, HcS, CxS, ChS, CwS, CwwS, and CcS are defined in section 3.3 of this appendix for automatic clothes washers or section 3.4 of this appendix for semi-automatic clothes washers.
+4.2.3 Per-cycle total water consumption for all load sizes tested. Calculate the total per-cycle water consumption for the large test load size, QL, and the small test load size, QS, expressed in gallons per cycle (or liters per cycle) and defined as:
+(a) QL = [QxL × TUFx] + [QhL × TUFh] + [QwL × TUFw] + [QwwL × TUFww] + [QcL × TUFc]
+(b) QS = [QxS × TUFx] + [QhS × TUFh] + [QwS × TUFw] + [QwwS × TUFww] + [QcS × TUFc]
 Where:
-Qx L, Qh L, Qw L, Qww L, and Qc L are defined in section 4.2.1 of this appendix.
-Qx S, Qh S, Qw S, Qww S, and Qc S are defined in section 4.2.2 of this appendix.
+QxL, QhL, QwL, QwwL, and QcL are defined in section 4.2.1 of this appendix.
+QxS, QhS, QwS, QwwS, and QcS are defined in section 4.2.2 of this appendix.
 TUFx, TUFh, TUFw, TUFww, and TUFc are defined in Table 4.1.1 of this appendix.
-4.2.4 Total weighted per-cycle water consumption. Calculate the total per-cycle water consumption, Q T, expressed in gallons per cycle (or liters per cycle) and defined as:
-Q T = [Q L × LUF L] + [Q S × LUF S]
+4.2.4 Total weighted per-cycle water consumption. Calculate the total per-cycle water consumption, QT, expressed in gallons per cycle (or liters per cycle) and defined as:
+QT = [QL × LUFL] + [QS × LUFS]
 Where:
-Q L and Q S are defined in section 4.2.3 of this appendix.
-LUF L and LUF S are defined in section 4.1.3 of this appendix.
+QL and QS are defined in section 4.2.3 of this appendix.
+LUFL and LUFS are defined in section 4.1.3 of this appendix.
 4.3 Remaining moisture content (RMC).
-4.3.1 Per cycle remaining moisture content for each large load size tested. Calculate the per-cycle remaining moisture content of the large test load for the Extra-Hot Wash/Cold Rinse cycle, RMCx L, Hot Wash/Cold Rinse cycle, RMCh L, Warm Wash/Cold Rinse cycle, RMCw L, Warm Wash/Warm Rinse cycle, RMCww L, and Cold Wash/Cold Rinse cycle, RMCc L, defined as:
-(a) RMCx L = (WCx L − WIx L)/WIx L
-(b) RMCh L = (WCh L − WIh L)/WIh L
-(c) RMCw L = (WCw L − WIw L)/WIw L
-(d) RMCww L = (WCww L − WIww L)/WIww L
-(e) RMCc L = (WCc L − WIc L)/WIc L
+4.3.1 Per cycle remaining moisture content for each large load size tested. Calculate the per-cycle remaining moisture content of the large test load for the Extra-Hot Wash/Cold Rinse cycle, RMCxL, Hot Wash/Cold Rinse cycle, RMChL, Warm Wash/Cold Rinse cycle, RMCwL, Warm Wash/Warm Rinse cycle, RMCwwL, and Cold Wash/Cold Rinse cycle, RMCcL, defined as:
+(a) RMCxL = (WCxL − WIxL)/WIxL
+(b) RMChL = (WChL − WIhL)/WIhL
+(c) RMCwL = (WCwL − WIwL)/WIwL
+(d) RMCwwL = (WCwwL − WIwwL)/WIwwL
+(e) RMCcL = (WCcL − WIcL)/WIcL
 Where:
-WCx L, WCh L, WCw L, WCww L, WCc L, WIx L, WIh L, WIw L, WIww L, and WIc L are the bone-dry weights and cycle completion weights as measured in section 3.3 of this appendix for automatic clothes washers or section 3.4 of this appendix for semi-automatic clothes washers.
-4.3.2 Per cycle remaining moisture content for each small load size tested. Calculate the per-cycle remaining moisture content of the small test load for the Extra-Hot Wash/Cold Rinse cycle, RMCx S, Hot Wash/Cold Rinse cycle, RMCh S, Warm Wash/Cold Rinse cycle, RMCw S, Warm Wash/Warm Rinse cycle, RMCww S, and Cold Wash/Cold Rinse cycle, RMCc S, defined as:
-(a) RMCx S = (WCx S —WIx S)/WIx S
-(b) RMCh S = (WCh S —WIh S)/WIh S
-(c) RMCw S = (WCw S —WIw S)/WIw S
-(d) RMCww S = (WCww S —WIww S)/WIww S
-(e) RMCc S = (WCc S —WIc S)/WIc S
+WCxL, WChL, WCwL, WCwwL, WCcL, WIxL, WIhL, WIwL, WIwwL, and WIcL are the bone-dry weights and cycle completion weights as measured in section 3.3 of this appendix for automatic clothes washers or section 3.4 of this appendix for semi-automatic clothes washers.
+4.3.2 Per cycle remaining moisture content for each small load size tested. Calculate the per-cycle remaining moisture content of the small test load for the Extra-Hot Wash/Cold Rinse cycle, RMCxS, Hot Wash/Cold Rinse cycle, RMChS, Warm Wash/Cold Rinse cycle, RMCwS, Warm Wash/Warm Rinse cycle, RMCwwS, and Cold Wash/Cold Rinse cycle, RMCcS, defined as:
+(a) RMCxS = (WCxS—WIxS)/WIxS
+(b) RMChS = (WChS—WIhS)/WIhS
+(c) RMCwS = (WCwS—WIwS)/WIwS
+(d) RMCwwS = (WCwwS—WIwwS)/WIwwS
+(e) RMCcS = (WCcS—WIcS)/WIcS
 Where:
-WCx S, WCh S, WCw S, WCww S, WCc S, WIx S, WIh S, WIw S, WIww S, and WIc S are the bone-dry weights and cycle completion weights as measured in section 3.3 of this appendix for automatic clothes washers or section 3.4 of this appendix for semi-automatic clothes washers.
-4.3.3 Per-cycle remaining moisture content for all load sizes tested. Calculate the per-cycle temperature-weighted remaining moisture content for the large test load size, RMC L, and the small test load size, RMC S, defined as:
-(a) RMC L = [RMCx L × TUF X] + [RMCh L × TUF h] + [RMCw L × TUF w] + [RMCww L × TUF ww] + [RMCc L × TUF c]
-(b) RMC S = [RMCx S × TUF X] + [RMCh S × TUF h] + [RMCw S × TUF w] + [RMCww S × TUF ww] + [RMCc S × TUF c]
+WCxS, WChS, WCwS, WCwwS, WCcS, WIxS, WIhS, WIwS, WIwwS, and WIcS are the bone-dry weights and cycle completion weights as measured in section 3.3 of this appendix for automatic clothes washers or section 3.4 of this appendix for semi-automatic clothes washers.
+4.3.3 Per-cycle remaining moisture content for all load sizes tested. Calculate the per-cycle temperature-weighted remaining moisture content for the large test load size, RMCL, and the small test load size, RMCS, defined as:
+(a) RMCL = [RMCxL × TUFX] + [RMChL × TUFh] + [RMCwL × TUFw] + [RMCwwL × TUFww] + [RMCcL × TUFc]
+(b) RMCS = [RMCxS × TUFX] + [RMChS × TUFh] + [RMCwS × TUFw] + [RMCwwS × TUFww] + [RMCcS × TUFc]
 Where:
-RMCx L, RMCh L, RMCw L, RMCww L, and RMCc L are defined in section 4.3.1 of this appendix.
-RMCx S, RMCh S, RMCw S, RMCww S, and RMCc S are defined in section 4.3.2 of this appendix.
-TUF X, TUF h, TUF w, TUF ww, and TUF c are defined in Table 4.1.1 of this appendix.
-4.3.4 Weighted per-cycle remaining moisture content. Calculate the weighted per-cycle remaining moisture content, RMC T, defined as:
-RMC T = [RMC L × LUF L] + [RMC S × LUF S]
+RMCxL, RMChL, RMCwL, RMCwwL, and RMCcL are defined in section 4.3.1 of this appendix.
+RMCxS, RMChS, RMCwS, RMCwwS, and RMCcS are defined in section 4.3.2 of this appendix.
+TUFX, TUFh, TUFw, TUFww, and TUFc are defined in Table 4.1.1 of this appendix.
+4.3.4 Weighted per-cycle remaining moisture content. Calculate the weighted per-cycle remaining moisture content, RMCT, defined as:
+RMCT = [RMCL × LUFL] + [RMCS × LUFS]
 Where:
-RMC L and RMC S are defined in section 4.3.3 of this appendix.
-LUF L and LUF S are defined in section 4.1.3 of this appendix.
-4.3.5 Apply the RMC correction curve as described in section 9 of appendix J3 to this subpart to calculate the corrected remaining moisture content, RMC corr, expressed as a percentage as follows:
-RMC corr = (A × RMC T + B) × 100%
+RMCL and RMCS are defined in section 4.3.3 of this appendix.
+LUFL and LUFS are defined in section 4.1.3 of this appendix.
+4.3.5 Apply the RMC correction curve as described in section 9 of appendix J3 to this subpart to calculate the corrected remaining moisture content, RMCcorr, expressed as a percentage as follows:
+RMCcorr = (A × RMCT + B) × 100%
 Where:
 A and B are the coefficients of the RMC correction curve as defined in section 8.7 of appendix J3 to this subpart.
-RMC T = As defined in section 4.3.4 of this appendix.
-4.4 Per-cycle energy consumption for removal of moisture from test load. Calculate the per-cycle energy required to remove the remaining moisture of the test load, DE T, expressed in kilowatt-hours per cycle and defined as:
-DE T = [(LUF L × Large test load weight) + (LUF S × Small test load weight)] × (RMC corr −2%) × (DEF) × (DUF)
+RMCT = As defined in section 4.3.4 of this appendix.
+4.4 Per-cycle energy consumption for removal of moisture from test load. Calculate the per-cycle energy required to remove the remaining moisture of the test load, DET, expressed in kilowatt-hours per cycle and defined as:
+DET = [(LUFL × Large test load weight) + (LUFS × Small test load weight)] × (RMCcorr−2%) × (DEF) × (DUF)
 Where:
-LUF L and LUF S are defined in section 4.1.3 of this appendix.
+LUFL and LUFS are defined in section 4.1.3 of this appendix.
 Large and small test load weights are defined in Table 5.1 of this appendix.
-RMC corr = As defined in section 4.3.5 of this appendix.
+RMCcorr = As defined in section 4.3.5 of this appendix.
 DEF = Nominal energy required for a clothes dryer to remove moisture from clothes = 0.5 kWh/lb (1.1 kWh/kg).
 DUF = Dryer usage factor, percentage of washer loads dried in a clothes dryer = 0.91.
 4.5 Cycle time.
-4.5.1 Per-cycle temperature-weighted cycle time for all load sizes tested. Calculate the per-cycle temperature-weighted cycle time for the large test load size, T L, and the small test load size, T S, expressed in minutes, and defined as:
-(a) T L = [Tx L × TUF X] + [Th L × TUF h] + [Tw L × TUF w] + [Tww L × TUF ww] + [Tc L × TUF c]
-(b) T S = [Tx S × TUF X] + [Th S × TUF h] + [Tw S × TUF w] + [Tww S × TUF ww] + [Tc S × TUF c]
+4.5.1 Per-cycle temperature-weighted cycle time for all load sizes tested. Calculate the per-cycle temperature-weighted cycle time for the large test load size, TL, and the small test load size, TS, expressed in minutes, and defined as:
+(a) TL = [TxL × TUFX] + [ThL × TUFh] + [TwL × TUFw] + [TwwL × TUFww] + [TcL × TUFc]
+(b) TS = [TxS × TUFX] + [ThS × TUFh] + [TwS × TUFw] + [TwwS × TUFww] + [TcS × TUFc]
 Where:
-Tx L, Th L, Tw L, Tww L, Tc L, Tx S, Th S, Tw S, Tww S, and Tc S are the cycle time values, in minutes as measured in section 3.3 of this appendix for automatic clothes washers or section 3.4 of this appendix for semi-automatic clothes washers.
-TUF X, TUF h, TUF w, TUF ww, and TUF c are temperature use factors for Extra-Hot Wash/Cold Rinse, Hot Wash/Cold Rinse, Warm Wash/Cold Rinse, Warm Wash/Warm Rinse, and Cold Wash/Cold Rinse temperature selections, respectively, as defined in Table 4.1.1 of this appendix.
-4.5.2 Total weighted per-cycle cycle time. Calculate the total weighted per-cycle cycle time, T T, expressed in minutes, rounded to the nearest minute, and defined as:
-T T = [T L × LUF L] + [T S × LUF S]
+TxL, ThL, TwL, TwwL, TcL, TxS, ThS, TwS, TwwS, and TcS are the cycle time values, in minutes as measured in section 3.3 of this appendix for automatic clothes washers or section 3.4 of this appendix for semi-automatic clothes washers.
+TUFX, TUFh, TUFw, TUFww, and TUFc are temperature use factors for Extra-Hot Wash/Cold Rinse, Hot Wash/Cold Rinse, Warm Wash/Cold Rinse, Warm Wash/Warm Rinse, and Cold Wash/Cold Rinse temperature selections, respectively, as defined in Table 4.1.1 of this appendix.
+4.5.2 Total weighted per-cycle cycle time. Calculate the total weighted per-cycle cycle time, TT, expressed in minutes, rounded to the nearest minute, and defined as:
+TT = [TL × LUFL] + [TS × LUFS]
 Where:
-T L and T S are defined in section 4.5.1 of this appendix.
-LUF L and LUF S are defined in section 4.1.3 of this appendix.
+TL and TS are defined in section 4.5.1 of this appendix.
+LUFL and LUFS are defined in section 4.1.3 of this appendix.
 4.6 Combined low-power mode energy consumption.
-4.6.1 Annual hours in default inactive/off mode. Calculate the annual hours spent in default inactive/off mode, S default, expressed in hours and defined as:
-S default = [8,760−(234 × T T /60)]/N
+4.6.1 Annual hours in default inactive/off mode. Calculate the annual hours spent in default inactive/off mode, Sdefault, expressed in hours and defined as:
+Sdefault = [8,760−(234 × TT/60)]/N
 Where:
-T T = As defined in section 4.5.2 of this appendix, in minutes.
+TT = As defined in section 4.5.2 of this appendix, in minutes.
 N = Number of inactive/off modes, defined as 1 if no optional lowest-power inactive/off mode is available; otherwise 2.
 8,760 = Total number of hours in a year.
 234 = Representative average number of clothes washer cycles in a year.
 60 = Conversion from minutes to hours.
-4.6.2 Per-cycle combined low-power mode energy consumption. Calculate the per-cycle combined low-power mode energy consumption, E TLP, expressed in kilowatt-hours per cycle and defined as:
-E TLP = [(P default × S default) + (P lowest × S lowest)] × K p /234
+4.6.2 Per-cycle combined low-power mode energy consumption. Calculate the per-cycle combined low-power mode energy consumption, ETLP, expressed in kilowatt-hours per cycle and defined as:
+ETLP = [(Pdefault × Sdefault) + (Plowest × Slowest)] × Kp/234
 Where:
-P default = Default inactive/off mode power, in watts, as measured in section 3.5.3 of this appendix.
-P lowest = Lowest-power inactive/off mode power, in watts, as measured in section 3.5.4 of this appendix for clothes washers with a switch, dial, or button that can be optionally selected by the end user to achieve a lower-power inactive/off mode than the default inactive/off mode; otherwise, P lowest = 0.
-S default = Annual hours in default inactive/off mode, as calculated in section 4.6.1 of this appendix.
-S lowest = Annual hours in lowest-power inactive/off mode, defined as 0 if no optional lowest-power inactive/off mode is available; otherwise equal to S default, as calculated in section 4.6.1 of this appendix.
-K p = Conversion factor of watt-hours to kilowatt-hours = 0.001.
+Pdefault = Default inactive/off mode power, in watts, as measured in section 3.5.3 of this appendix.
+Plowest = Lowest-power inactive/off mode power, in watts, as measured in section 3.5.4 of this appendix for clothes washers with a switch, dial, or button that can be optionally selected by the end user to achieve a lower-power inactive/off mode than the default inactive/off mode; otherwise, Plowest = 0.
+Sdefault = Annual hours in default inactive/off mode, as calculated in section 4.6.1 of this appendix.
+Slowest = Annual hours in lowest-power inactive/off mode, defined as 0 if no optional lowest-power inactive/off mode is available; otherwise equal to Sdefault, as calculated in section 4.6.1 of this appendix.
+Kp = Conversion factor of watt-hours to kilowatt-hours = 0.001.
 234 = Representative average number of clothes washer cycles in a year.
 4.7 Water efficiency ratio. Calculate the water efficiency ratio, WER, expressed in pounds per gallon per cycle (or kilograms per liter per cycle), as:
-WER = [(LUF L × Large test load weight) + (LUF S × Small test load weight)]/Q T
+WER = [(LUFL × Large test load weight) + (LUFS × Small test load weight)]/QT
 Where:
-LUF L and LUF S are defined in section 4.1.3 of this appendix.
+LUFL and LUFS are defined in section 4.1.3 of this appendix.
 Large and small test load weights are defined in Table 5.1 of this appendix.
-Q T = As defined in section 4.2.4 of this appendix.
+QT = As defined in section 4.2.4 of this appendix.
 4.8 Active-mode energy efficiency ratio. Calculate the active-mode energy efficiency ratio, AEER, expressed in pounds per kilowatt-hour per cycle (or kilograms per kilowatt-hour per cycle) and defined as:
-AEER = [(LUF L × Large test load weight) + (LUF S × Small test load weight)]/(ME T + HE T + DE T)
+AEER = [(LUFL × Large test load weight) + (LUFS × Small test load weight)]/(MET + HET + DET)
 Where:
-LUF L and LUF S are defined in section 4.1.3 of this appendix.
+LUFL and LUFS are defined in section 4.1.3 of this appendix.
 Large and small test load weights are defined in Table 5.1 of this appendix.
-ME T = As defined in section 4.1.6 of this appendix.
-HE T = As defined in section 4.1.3 of this appendix.
-DE T = As defined in section 4.4 of this appendix.
+MET = As defined in section 4.1.6 of this appendix.
+HET = As defined in section 4.1.3 of this appendix.
+DET = As defined in section 4.4 of this appendix.
 4.9 Energy efficiency ratio. Calculate the energy efficiency ratio, EER, expressed in pounds per kilowatt-hour per cycle (or kilograms per kilowatt-hour per cycle) and defined as:
-EER = [(LUF L × Large test load weight) + (LUF S × Small test load weight)]/(ME T + HE T + DE T + E TLP)
+EER = [(LUFL × Large test load weight) + (LUFS × Small test load weight)]/(MET + HET + DET + ETLP)
 Where:
-LUF L and LUF S are defined in section 4.1.3 of this appendix.
+LUFL and LUFS are defined in section 4.1.3 of this appendix.
 Large and small test load weights are defined in Table 5.1 of this appendix.
-ME T = As defined in section 4.1.6 of this appendix.
-HE T = As defined in section 4.1.3 of this appendix.
-DE T = As defined in section 4.4 of this appendix.
-E TLP = As defined in section 4.6.2 of this appendix.
+MET = As defined in section 4.1.6 of this appendix.
+HET = As defined in section 4.1.3 of this appendix.
+DET = As defined in section 4.4 of this appendix.
+ETLP = As defined in section 4.6.2 of this appendix.
 5. Test Loads
 Table 5.1—Test Load Sizes
-Container volume | cu. ft. | ≥ < | liter | ≥ < | Small load | lb | kg | Large load | lb | kg
+Container volume | Small load | Large load
+cu. ft. | liter | lb | kg | lb | kg
+≥ < | ≥ <
 0.00-0.80 | 0.00-22.7 | 3.00 | 1.36 | 3.00 | 1.36
 0.80-0.90 | 22.7-25.5 | 3.10 | 1.41 | 3.35 | 1.52
 0.90-1.00 | 25.5-28.3 | 3.20 | 1.45 | 3.70 | 1.68
@@ -409,5 +408,4 @@ Container volume | cu. ft. | ≥ < | liter | ≥ < | Small load | lb | kg | Larg
 7.70-7.80 | 218.0-220.9 | 9.30 | 4.22 | 24.90 | 11.29
 7.80-7.90 | 220.9-223.7 | 9.40 | 4.26 | 25.20 | 11.43
 7.90-8.00 | 223.7-226.5 | 9.50 | 4.31 | 25.50 | 11.57
-Notes: (1) All test load weights are bone-dry weights.
-(2) Allowable tolerance on the test load weights is ±0.10 lbs (0.05 kg).
+Notes: (1) All test load weights are bone-dry weights. (2) Allowable tolerance on the test load weights is ±0.10 lbs (0.05 kg).
