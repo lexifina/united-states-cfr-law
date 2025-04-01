@@ -308,7 +308,7 @@ F. Multiple Products
 Fractionation results in 17 products. In order to insure proper distribution of drawback to each of these products, the manufacturer or producer agrees to record the relative values at the time of separation. The entire period covered by an abstract is to be treated as the time of separation. The value per unit of each product will be the average market value for the abstract period.
 2. Producibility
 The manufacturer or producer can vary the proportionate quantity of each product. The manufacturer or producer understands that drawback is payable on exported products only to the extent that these products could have been produced from the designated merchandise. The records of the manufacturer or producer must show that all of the products exported, for which drawback will be claimed under this general manufacturing drawback ruling could, have been produced concurrently on a practical operating basis from the designated merchandise.
-The manufacturer or producer agrees to establish the amount to be designated by reference to the Industry Standards of Potential Production published in T.D. 66-16.2
+The manufacturer or producer agrees to establish the amount to be designated by reference to the Industry Standards of Potential Production published in T.D. 66-16. 2
 There are no valuable wastes as a result of the processing.
 G. Loss or Gain
 Because the manufacturer or producer keeps records on a volume basis rather than a weight basis, it is anticipated that the material balance will show a volume gain. For the same reason, it is possible that occasionally the material balance will show a volume loss. Fluctuations in type of crude used, together with the type of finished product desired make an estimate of an average volume gain meaningless. However, records will be kept to show the amount of loss or gain with respect to the production of export products.
@@ -343,13 +343,13 @@ ER18DE18.003
 Exhibit C—Inventory Control Sheet: ABC Oil Co., Inc.; Beaumont, Texas Refinery,
 Period From January 1, 2019 to January 31, 2019
 [All quantities exclude non-petroleum additives]
-| Aviation gasoline | Bbls. | Drawbackfactor | Residual oils | Bbls. | Drawbackfactor | Lubricating oils | Bbls. | Drawbackfactor | Petrochemicals, all other | Bbls. | Drawbackfactor
+| Aviation gasoline | Bbls. | Drawback factor | Residual oils | Bbls. | Drawback factor | Lubricating oils | Bbls. | Drawback factor | Petrochemicals, all other | Bbls. | Drawback factor
 (10) Opening Inventory | 11,218 | 1.00126 | 21,221 | .45962 | 9,242 | 4.52178 | 891 | 1.00244
 (11) Production | 108,269 | 1.01300 | 308,002 | .43642 | 292,492 | 4.64041 | 7,996 | 1.07895
 (11-A) Receipts
-(12) Exports | 11,218176 | 1.001261.01300 | 21,221104,397 | .45962.43642 | 8,774 | 4.52178 | 195 | 1.00244
-(13) Drawback Deliveries | | | | | | | 696319 | 1.002441.07895
-(14) Domestic Shipments | 97,863 | 1.01300 | 180,957 | .43642 | 468278,286 | 4.521784.64041 | 6,867 | 1.07895
+(12) Exports | 11,218 176 | 1.00126 1.01300 | 21,221 104,397 | .45962.43642 | 8,774 | 4.52178 | 195 | 1.00244
+(13) Drawback Deliveries | | | | | | | 696 319 | 1.00244 1.07895
+(14) Domestic Shipments | 97,863 | 1.01300 | 180,957 | .43642 | 468 278,286 | 4.52178 4.64041 | 6,867 | 1.07895
 (15) Closing Inventory | 10,230 | 1.01300 | 22,648 | .43642 | 14,206 | 4.64041 | 810 | 1.07895
 Line (10)—Opening inventory from previous period's closing inventory.
 Line (11)—From production period under consideration.
@@ -363,10 +363,10 @@ ER18DE18.005
 ER18DE18.006
 Exhibit E (Combination)—Producibility Test for Products Exported (Including Drawback Deliveries) ABC Oil Co., Inc.; Beaumont, Texas Refinery, Period from January 1, 2019 to January 31, 2019
 [Type and class of raw material designated—Crude, Class III]
-Product | Quantity in barrels | Industrystandard (%) | Quantity of rawmaterial of type and class designated needed to produce product per barrel | Drawbackfactor | Crude allowedfor drawback
+Product | Quantity in barrels | Industry standard (%) | Quantity of raw material of type and class designated needed to produce product per barrel | Drawback factor | Crude allowed for drawback
 (21) | (22) | (23) | (24) | (19) | (20)
-Aviation Gasoline 1 | 1 11,218 1176 | 4040 | 28,045440 | 1.001261.01300 | 11,232178
-Residual Oils 1 | 1 21,221 1 104,397 | 8383 | 25,567125,780 | .45962.43642 | 9,75445,561
+Aviation Gasoline 1 | 1 11,218 1 176 | 40 40 | 28,045 440 | 1.00126 1.01300 | 11,232 178
+Residual Oils 1 | 1 21,221 1 104,397 | 83 83 | 25,567 125,780 | .45962.43642 | 9,754 45,561
 Lubricating Oils 1 | 1 8,774 | 50 | 17,548 | 4.52178 | 39,674
 Petrochemicals, Other 1 | 1 195 | 29 | 672 | 1.00244 | 195
 Petrochemicals, Other 2 | 2 696 | 29 | 2,400 | 1.00244 | 698
@@ -383,7 +383,7 @@ I hereby certify that all the above drawback deliveries and products exported by
 ER18DE18.007
 Exhibit F—Designations for Drawback Claim, ABC Oil Co., Inc.; Beaumont, Texas Refinery
 [Period from January 1, 2019 to January 31, 2019]
-Entry No. | Date ofimportation | Kind of materials | Quantity of materials in barrels | Date received | Date consumed | Rate of duty
+Entry No. | Date of importation | Kind of materials | Quantity of materials in barrels | Date received | Date consumed | Rate of duty
 26192 | 04/13/17 | Class III Crude | 75,125 | 04/13/17 | May 2017 | $.1050
 23990 | 08/04/18 | ......do | 37,240 | 08/04/18 | Oct. 2018 | .1050
 22517 | 10/05/18 | ......do | 38,982 | 10/05/18 | Nov. 2018 | .1050
@@ -448,17 +448,17 @@ K. The sirup manufacture records must show the date of boiling, the period of th
 L. The refined sugar stock records must show the refinery serial manufacture number, the period of the melt, the date of manufacture, the grade of sugar produced, its polarization, the number and kind of packages, and the net weight. When soft sugars are manufactured, the commercial grade number and quantity of each must be shown.
 M. Each lot of hard or soft refined sugar and each lot of sirup manufactured, regardless of the character of the containers or vessels in which it is packed or stored, must be marked immediately with the date of manufacture and the refinery manufacture number applied to it in the refinery records provided for and shown in the abstract, as provided for in this general ruling, from such records. If all the sugar or sirup contained in any lot manufactured is not intended for exportation, only such of the packages as are intended for exportation need be marked as prescribed above, provided there is filed with the drawback office immediately after such marking a statement showing the date of manufacture, the refinery manufacture number, the number of packages marked, and the quantity of sugar or sirup contained therein. No drawback will be allowed in such case on any sugar or sirup in excess of the quantity shown on the statement as having been marked. If any packages of sugar or sirup so marked are repacked into other containers, the new containers must be marked with the marks which appeared on the original containers and a revised statement covering such repacking and remarking must be filed with the drawback office. If sirups from more than one lot are stored in the same tank, the refinery records must show the refinery manufacture number and the quantity of sirup from each lot contained in such tank.
 N. An abstract from the foregoing records covering manufacturing periods of not less than 1 month nor more than 3 months, unless a different period will have been authorized, must be filed when drawback is to be claimed on any part of the refined sugar or sirup manufactured during such period. Such abstract must be filed by each refiner with the drawback office where drawback claims are filed on the basis of this general ruling. Such abstract must consist of: (1) A raw stock record (accounting for Refiner's raw lot No., Import entry No., Packages No. and kind, Pounds, Polarization, By whom imported or withdrawn, Date of importation, Date of receipt by refiner, Date of melt, Importing carrier, Country of origin); (2) A melt record [number of pounds in each lot melted] (accounting for Lot No. Pounds, and Polarization degrees and pounds sucrose); (3) Sirup stock records (accounting for Date of boiling, Refinery serial manufacture No., Quantity of sirup in gallons, and Pounds sucrose contained therein); (4) Refined sugar stock record (accounting for Refinery serial production No., Date of manufacture, Hard or soft refined, Polarization and No., Net weight in pounds); (5) Recapitulation (consisting of (in pounds): (a) Sucrose in process at beginning of period, (b) sucrose melted during period, (c) sucrose in process at end of period, (d) sucrose used in manufacture, and (e) sucrose contained in manufacture, in which item (a) plus item (b), minus item (c), should equal item (d)); and (6) A statement as follows:
-I, ____, the ____ refiner at the ____ refinery of ____, located at ____, do solemnly and truly declare that each of the statements contained in the foregoing abstract is true to the best of my knowledge and belief and can be verified by the refinery records, which have been kept in accordance with Treasury Decision 83-59 and Appendix A of 19 CFR part 190 and which are at all times open to the inspection of CBP.
+I, ________, the ________ refiner at the ________ refinery of ________, located at ________, do solemnly and truly declare that each of the statements contained in the foregoing abstract is true to the best of my knowledge and belief and can be verified by the refinery records, which have been kept in accordance with Treasury Decision 83-59 and Appendix A of 19 CFR part 190 and which are at all times open to the inspection of CBP.
 Date
 Signature
-O. The refiner must file with each abstract a statement, showing the average market values of the products specified in the abstract and including a statement as follows: I, ____, (Official capacity) of the ____ (Refinery), do solemnly and truly declare that the values shown above are true to the best of my knowledge and belief, and can be verified by our records.
+O. The refiner must file with each abstract a statement, showing the average market values of the products specified in the abstract and including a statement as follows: I, ________, (Official capacity) of the ________ (Refinery), do solemnly and truly declare that the values shown above are true to the best of my knowledge and belief, and can be verified by our records.
 Date
 Signature
 P. At the end of each calendar month the refiner must furnish to the drawback office a statement showing the actual sales of sirup and the average market values of refined sugars for the calendar month.
 Q. The sucrose allowance to be applied to the various products based on the abstract and statement provided for in this general ruling will be in accordance with the example set forth in Treasury Decision 83-59.
 R. [Reserved]
 S. Drawback entries under this general ruling must state the polarization in degrees and the sucrose in pounds for the designated imported sugar. Drawback claims under this general ruling must include a statement as follows:
-I, ____, the ____ of ____, located at ____ declare that the sugar (or sirup) described in this entry, was manufactured by said company at its refinery at ____ and is part of the sugar (or sirup) covered by abstract No. __, filed at the port of ____; that, subject to 19 U.S.C. 1508 and 1313(t), the refinery and other records of the company verifying the statements contained in said abstract are now and at all times hereafter will be open to inspection by CBP. I further declare that the above-designated imported sugar (upon which the duties have been paid) was received by said company on ____ and was used in the manufacture of sugar and sirup during the period covered by abstract No. __, CBP No. __, on file with the port director at ____. I further declare that the sugar or sirup specified therein was exported as stated in the entry.
+I, ________, the ________ of ________, located at ________ declare that the sugar (or sirup) described in this entry, was manufactured by said company at its refinery at ________ and is part of the sugar (or sirup) covered by abstract No. ____, filed at the port of ________; that, subject to 19 U.S.C. 1508 and 1313(t), the refinery and other records of the company verifying the statements contained in said abstract are now and at all times hereafter will be open to inspection by CBP. I further declare that the above-designated imported sugar (upon which the duties have been paid) was received by said company on ________ and was used in the manufacture of sugar and sirup during the period covered by abstract No. ____, CBP No. ____, on file with the port director at ________. I further declare that the sugar or sirup specified therein was exported as stated in the entry.
 Date
 Signature
 T. General Statement. The refiner manufactures or produces for its own account. The refiner may manufacture or produce articles for the account of another or another manufacturer or producer may manufacture or produce for the refiner's account under contract within the principal and agency relationship outlined in T.D.s 55027(2) and 55207(1) (see § 190.9).
@@ -504,7 +504,9 @@ I. Procedures and Records Maintained
 Records, which may include records kept in the normal course of business, will be maintained to establish:
 1. The identity and 8-digit HTSUS classification of the designated merchandise;
 2. The quantity of merchandise of the designated merchandise 3 used to produce the exported articles;
+3 If claims are to be made on an "appearing in" basis, the remainder of this sentence should read "appearing in the exported articles produced."
 3. That, within 5 years of the date of importation of the designated merchandise, the manufacturer or producer used the merchandise to produce articles. During the same 5-year period, the manufacturer or producer produced 4 the exported articles.
+4 The date of production is the date an article is completed.
 To obtain drawback the claimant must establish that the completed articles were exported within 5 years after the importation of the imported merchandise. Records establishing compliance with these requirements will be available for audit by CBP during business hours. Drawback is not payable without proof of compliance.
 J. Inventory Procedures
 The inventory records of the manufacturer or producer must show how the drawback recordkeeping requirements set forth in 19 U.S.C. 1313(b) and part 190 of the CBP Regulations will be met, as discussed under the heading "Procedures and Records Maintained." If those records do not establish satisfaction of all legal requirements, drawback cannot be paid.
@@ -525,6 +527,7 @@ Imported merchandise or drawback products 1 to be designated as the basis for dr
 1. Granulated or liquid sugar for manufacturing, containing sugar solids of not less than 99.5 sugar degrees. | 1. Granulated or liquid sugar for manufacturing, containing sugar solids of less than 99.5 sugar degrees.
 2. Granulated or liquid sugar for manufacturing, containing sugar solids of not less than 99.5 sugar degrees. | 2. Granulated or liquid sugar for manufacturing, containing sugar solids of less than 99.5 sugar degrees.
 The sugars listed above test within three-tenths of a degree on the polariscope. Sugars in each column are completely interchangeable with the sugars directly opposite and designation will be made on this basis only. The designated sugar on which claims for drawback will be based will be classifiable under the same 8-digit HTSUS classification.
+1 Drawback products are those produced in the United States in accordance with the drawback law and regulations. Such products have "dual status" under section 1313(b). They may be designated as the basis for drawback and also may be deemed to be domestic merchandise.
 B. Exported Articles on Which Drawback Will Be Claimed
 Edible substances (including confectionery) and/or beverages and/or ingredients therefor.
 C. General Statement
@@ -547,7 +550,9 @@ I. Procedures and Records Maintained
 Records, which may include records kept in the normal course of business, will be maintained to establish:
 1. The identity and 8-digit HTSUS classification of the designated merchandise;
 2. The quantity of merchandise classifiable under the same 8-digit HTSUS classification as the designated merchandise 2 used to produce the exported articles;
+2 If claims are to be made on an "appearing in" basis, the remainder of this sentence should read "appearing in the exported articles produced."
 3. That, within 5 years of the date of importation of the designated merchandise, the manufacturer or producer used the merchandise to produce articles. During the same 5-year period, the manufacturer or producer produced 3 the exported articles.
+3 The date of production is the date an article is completed.
 To obtain drawback the claimant must establish that the completed articles were exported within 5 years after the importation of the imported merchandise. Records establishing compliance with these requirements will be available for audit by CBP during business hours. Drawback is not payable without proof of compliance.
 J. Inventory Procedures
 The inventory records of the manufacturer or producer, will show how the drawback recordkeeping requirements set forth in 19 U.S.C. 1313(b) and part 190 of the CBP Regulations will be met, as discussed under the heading "Procedures and Records Maintained." If those records do not establish satisfaction of all legal requirements, drawback cannot be paid.
@@ -564,6 +569,7 @@ The manufacturer or producer will:
 XIV. General Manufacturing Drawback Ruling Under 19 U.S.C. 1313(a) for Woven Piece Goods (T.D. 83-84)
 Drawback may be allowed under 19 U.S.C. 1313(a) upon the exportation of bleached, mercerized, printed, dyed, or redyed piece goods manufactured or produced by any one or a combination of the foregoing processes with the use of imported woven piece goods, subject to the following special requirements:
 A. Imported Merchandise or Drawback Products 1 Used
+1 Drawback products are those produced in the United States in accordance with the drawback law and regulations.
 Imported merchandise or drawback products (woven piece goods) are used in the manufacture of the exported articles upon which drawback claims will be based.
 B. Exported Articles on Which Drawback Will Be Claimed
 Exported articles on which drawback will be claimed must be manufactured in the United States using imported merchandise or drawback products.
@@ -582,6 +588,7 @@ H. Procedures and Records Maintained
 Records, which may include records kept in the normal course of business, will be maintained to establish:
 1. That the exported articles on which drawback is claimed were produced with the use of the imported merchandise; and
 2. The quantity of imported merchandise 2 used in producing the exported articles.
+2 If claims are to be made on an "appearing in" basis, the remainder of the sentence should read "appearing in the exported articles."
 To obtain drawback the claimant must establish that the completed articles were exported within 5 years after importation of the imported merchandise. Records establishing compliance with these requirements will be available for audit by CBP during business hours. Drawback is not payable without proof of compliance.
 I. Inventory Procedures
 The inventory records of the manufacturer or producer must show how the drawback recordkeeping requirements set forth in 19 U.S.C. 1313(a) and part 190 of the CBP Regulations will be met, as discussed under the heading "Procedures and Records Maintained". If those records do not establish satisfaction of all legal requirements, drawback cannot be paid.
