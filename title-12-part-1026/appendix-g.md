@@ -184,19 +184,9 @@ If all of the criteria above are met and you are still dissatisfied with the pur
 [Creditor Address]
 [[Creditor Web address]]
 While we investigate, the same rules apply to the disputed amount as discussed above. After we finish our investigation, we will tell you our decision. At that point, if we think you owe an amount and you do not pay we may report you as delinquent.
-ER22DE11.003
-ER22DE11.004
-ER22DE11.005
-ER22DE11.006
-ER22DE11.007
-ER22DE11.008
 G-10(B) APPLICATIONS AND SOLICITATIONS SAMPLE (CREDIT CARDS)
-ER15MR24.006
 G-10(C) APPLICATIONS AND SOLICITATIONS SAMPLE (CREDIT CARDS)
-ER15MR24.007
-ER22DE11.011A
 G-10(E) Applications and Solicitations Sample (Charge Cards)
-ER15MR24.008
 G-11—Applications and Solicitations Made Available to the General Public Model Clauses
 (a) Disclosure of Required Credit Information
 The information about the costs of the card described in this [application]/[solicitation] is accurate as of (month/year). This information may have changed after that date. To find out what may have changed, [call us at (telephone number)][write to us at (address)].
@@ -219,46 +209,23 @@ If we obtain insurance for your account from a different insurer, you may cancel
 G-13(B)—Change in Insurance Provider Model Form
 We have changed the insurer providing the coverage for your account. The new insurer's name and address are (name and address). A copy of the new policy or certificate is attached.
 You may cancel the insurance for your account.
-ER22DE11.012
-ER22DE11.013
-ER22DE11.014
-ER22DE11.015
-ER22DE11.016
-ER22DE11.017
-ER22DE11.018
-ER22DE11.019
 G-16(A) Debt Suspension Model Clause
 Please enroll me in the optional [insert name of program], and bill my account the fee of [how cost is determined]. I understand that enrollment is not required to obtain credit. I also understand that depending on the event, the protection may only temporarily suspend my duty to make minimum payments, not reduce the balance I owe. I understand that my balance will actually grow during the suspension period as interest continues to accumulate.
 [To Enroll, Sign Here]/[To Enroll, Initial Here]. X____________________
 G-16(B) Debt Suspension Sample
 Please enroll me in the optional [name of program], and bill my account the fee of $.83 per $100 of my month-end account balance. I understand that enrollment is not required to obtain credit. I also understand that depending on the event, the protection may only temporarily suspend my duty to make minimum payments, not reduce the balance I owe. I understand that my balance will actually grow during the suspension period as interest continues to accumulate.
 To Enroll, Initial Here. X____________________
-ER22DE11.020
 G-17(B) ACCOUNT-OPENING SAMPLE
-ER15MR24.009
 G-17(C) ACCOUNT-OPENING SAMPLE
-ER15MR24.010
-ER22DE11.023
 G-18(A) PERIODIC STATEMEMT TRANSACTIONS; INTEREST CHARGES; FEES SAMPLE
-ER15MR24.011
 G-18(B) LATE PAYMENT FEE SAMPLE
-ER15MR24.012
-ER22DE11.025
-ER22DE11.026A
 G-18(D) PERIODIC STATEMENT NEW BALANCE, DUE DATE, LATE PAYMENT AND MINIMUM PAYMENT SAMPLE (CREDIT CARDS)
-ER15MR24.013
 G-18(E) [Reserved]
 G-18(F) PERIODIC STATEMENT FORM
-ER15MR24.014
-ER15MR24.015
 G-18(G) PERIODIC STATEMENT FORM
-ER15MR24.016
-ER15MR24.017
 G-18(H)—Deferred Interest Periodic Statement Clause
 [You must pay your promotional balance in full by [date] to avoid paying accrued interest charges.]
-ER22DE11.031
 G-21 CHANGE-IN-TERMS SAMPLE (INCREASE IN FEES)
-ER15MR24.018
 G-24—Deferred Interest Offer Clauses
 (a) For Credit Card Accounts Under an Open-End (Not Home-Secured) Consumer Credit Plan
 [Interest will be charged to your account from the purchase date if the purchase balance is not paid in full within the/by [deferred interest period/date] or if you make a late payment.]
