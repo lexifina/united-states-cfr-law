@@ -13,7 +13,7 @@ Part 2(A)
 Part 2(B)
 For the preceding calendar quarter, provide the percentage of vessel capacity utilization for each party for each of its liner services that is covered by the agreement within the entire geographic scope of the agreement, corresponding to the figures used in part 2(A) of this section, stated separately for the U.S. inbound and outbound trades as applicable to the geographic scope of the agreement. For purposes of this Report, the percentage of vessel capacity utilization means a party's total volume of liner cargo, for each of its liner services that is covered by the agreement, carried on any vessel space counted under part 2(A) of this section, divided by its total vessel capacity as defined and derived in part 2(A) of this section, which quotient is multiplied by 100.
 Part 2(C)
-Provide a narrative statement on any significant reductions, to be implemented under the agreement, in the amounts of vessel capacity for the parties' liner services that are covered by the agreement within the entire geographic scope of the agreement. Specifically, explain the nature of and the reasons for the significant reduction and its effects on the liner service and the total amount of vessel capacity for such service that would be subject to the reduction. The narrative statement for part 2(C) of this section shall be submitted to the Director, Bureau of Trade Analysis, no later than 15 days after a significant reduction in the amount of vessel capacity has been agreed upon by the parties but prior to the implementation of the actual reduction under the agreement. For purposes of this part, a significant reduction refers to the removal from a liner service of vessels or vessel space for a fixed, seasonally planned, or indefinite period of time. A significant reduction excludes instances when vessels may be temporarily repositioned or shifted from one service to another, or when vessel space may be temporarily altered, or when vessels are removed from a liner service and vessels of similar or greater capacity are substituted. It also excludes operational changes in vessels or vessel space that would have little or no impact on the amount of vessel capacity offered in a liner service or a trade.
+Provide a narrative statement on any significant reductions, to be implemented under the agreement, in the amounts of vessel capacity for the parties' liner services that are covered by the agreement within the entire geographic scope of the agreement. Specifically, explain the nature of and the reasons for the significant reduction and its effects on the liner service and the total amount of vessel capacity for such service that would be subject to the reduction. The narrative statement for part 2(C) of this section shall be submitted to the Office of the General Counsel, no later than 15 days after a significant reduction in the amount of vessel capacity has been agreed upon by the parties but prior to the implementation of the actual reduction under the agreement. For purposes of this part, a significant reduction refers to the removal from a liner service of vessels or vessel space for a fixed, seasonally planned, or indefinite period of time. A significant reduction excludes instances when vessels may be temporarily repositioned or shifted from one service to another, or when vessel space may be temporarily altered, or when vessels are removed from a liner service and vessels of similar or greater capacity are substituted. It also excludes operational changes in vessels or vessel space that would have little or no impact on the amount of vessel capacity offered in a liner service or a trade.
 Part 2(D)
 Excluding those changes already reported in part 2(C) of this section, provide a narrative statement on any other significant changes, implemented under the agreement during the preceding calendar quarter, in the amounts of vessel capacity for the parties' liner services that are covered by the agreement within the entire geographic scope of the agreement. Specifically, explain the nature of and the reasons for the significant change and its effects on the liner service and the total amount of vessel capacity for such service that was subject to the change. For purposes of this part, a significant change refers to the addition to a liner service of vessels or vessel space for a fixed, seasonally planned, or indefinite period of time. A significant change excludes instances when vessels were temporarily repositioned or shifted from one service to another, or when vessel space was temporarily altered, or when vessels were removed from a liner service and vessels of similar capacity were substituted. It also excludes operational changes in vessels or vessel space that had little or no impact on the amount of vessel capacity offered in a liner service or a trade. If no significant change was implemented, it shall be noted with the term "none" in response to part 2(D) of this section.
 Part 3
@@ -67,7 +67,7 @@ FMC Number:
 Part 2 Vessel Capacity and Utilization
 Agreement-Wide Trade: U.S. Inbound (or Outbound) Name
 Time Period: [Calendar Quarter]
-| (A)Vessel capacity [TEUs or other units] | (B)Utilization [percent]
+| (A) Vessel capacity [TEUs or other units] | (B) Utilization [percent]
 Carrier A [Name]:
 Liner Service 1 [Name] | XX,XXX | XX
 Liner Service 2 | XX,XXX | XX
@@ -90,7 +90,7 @@ FMC Number:
 Part 2 Market Share
 Agreement-Wide Trade (or Sub-Trade): U.S. Inbound (or Outbound) Name
 Time Period: [Calendar Quarter]
-| TEUs[or other units] | Percent
+| TEUs [or other units] | Percent
 Agreement Market Share:
 Line A [Name] | X,XXX | XX
 Line B | X,XXX | XX
@@ -126,7 +126,7 @@ Etc....
 Part 5 Vessel Capacity and Utilization
 Agreement-Wide Trade: U.S. Inbound (or Outbound) Name
 Time Period: [Calendar Quarter]
-| (A)Vessel capacity [TEUs or other units] | (B)Utilization [percent]
+| (A) Vessel capacity [TEUs or other units] | (B) Utilization [percent]
 Carrier A [Name]:
 Liner Service 1 [Name] | XX,XXX | XX
 Liner Service 2 | XX,XXX | XX
