@@ -37,7 +37,7 @@ PC, P(CC|C), and P(FC|C) are direct outputs of the DOT prediction formulas.
 (g) Notice that the quantity [PC*P(FC|C)] represents the expected number of fatal collisions. Similarly, {PC*[P(CC|C)-P(FC|C)]} represents the expected number of injury collisions. These are then multiplied by their respective average number of fatalities and injuries (from the table above) to develop the number of expected casualties. The final parts of the expressions attach the dollar values for these casualties.
 (h) The Risk Index for a Crossing is the integer sum of the Predicted Cost of Fatalities and the Predicted Cost of Injuries.
 Nationwide Significant Risk Threshold
-The Nationwide Significant Risk Threshold is simply an average of the risk indexes for all of the gated public crossings nationwide where train horns are routinely sounded. This value will be recalculated annually and published in a notice in the Federal Register. For the most recent value of the Nationwide Significant Risk Threshold, please visit FRA's public Web site at http://www.fra.dot.gov.
+The Nationwide Significant Risk Threshold is simply an average of the risk indexes for all of the gated public crossings nationwide where train horns are routinely sounded. This value will be recalculated annually and published in a notice in the Federal Register. For the most recent value of the Nationwide Significant Risk Threshold, please visit FRA's public website at https://railroads.dot.gov/.
 Crossing Corridor Risk Index
 The Crossing Corridor Risk Index is the average of the risk indexes of all the public crossings in a defined rail corridor.
 Quiet Zone Risk Index
