@@ -2,11 +2,11 @@
 [Each fiscal year, the Governor's Representative for Highway Safety must sign these Certifications and Assurances affirming that the State complies with all requirements, including applicable Federal statutes and regulations, that are in effect during the grant period. Requirements that also apply to subrecipients are noted under the applicable caption.]
 State:
 Fiscal Year:
-By submitting an application for Federal grant funds under 23 U.S.C. Chapter 4 or Section 1906, Public Law 109–59, as amended by Section 25024, Public Law 117–58, the State Highway Safety Office acknowledges and agrees to the following conditions and requirements. In my capacity as the Governor's Representative for Highway Safety, I hereby provide the following Certifications and Assurances:
+By submitting an application for Federal grant funds under 23 U.S.C. Chapter 4 or Section 1906, Public Law 109-59, as amended by Section 25024, Public Law 117-58, the State Highway Safety Office acknowledges and agrees to the following conditions and requirements. In my capacity as the Governor's Representative for Highway Safety, I hereby provide the following Certifications and Assurances:
 General Requirements
 The State will comply with applicable statutes and regulations, including but not limited to:
 • 23 U.S.C. Chapter 4—Highway Safety Act of 1966, as amended;
-• Sec. 1906, Public Law 109–59, as amended by Sec. 25024, Public Law 117–58;
+• Sec. 1906, Public Law 109-59, as amended by Sec. 25024, Public Law 117-58;
 • 23 CFR part 1300—Uniform Procedures for State Highway Safety Grant Programs;
 • 2 CFR part 200—Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards;
 • 2 CFR part 1201—Department of Transportation, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards.
@@ -31,15 +31,11 @@ The State highway safety agency [and its subrecipients] will comply with all Fed
 • 49 CFR part 21 (entitled Non-discrimination in Federally-Assisted Programs of the Department of Transportation—Effectuation of Title VI of the Civil Rights Act of 1964);
 • 28 CFR 50.3 (U.S. Department of Justice Guidelines for Enforcement of Title VI of the Civil Rights Act of 1964);
 • The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, (42 U.S.C. 4601), (prohibits unfair treatment of persons displaced or whose property has been acquired because of Federal or Federal-aid programs and projects);
-• Federal-Aid Highway Act of 1973, (23 U.S.C. 324 et seq.), and Title IX of the Education Amendments of 1972, as amended (20 U.S.C. 1681–1683 and 1685–1686) (prohibit discrimination on the basis of sex);
+• Federal-Aid Highway Act of 1973, (23 U.S.C. 324 et seq.), and Title IX of the Education Amendments of 1972, as amended (20 U.S.C. 1681-1683 and 1685-1686) (prohibit discrimination on the basis of sex);
 • Section 504 of the Rehabilitation Act of 1973, (29 U.S.C. 794 et seq.), as amended, (prohibits discrimination on the basis of disability) and 49 CFR part 27;
 • The Age Discrimination Act of 1975, as amended, (42 U.S.C. 6101 et seq.), (prohibits discrimination on the basis of age);
-• The Civil Rights Restoration Act of 1987, (Pub. L. 100–209), (broadens scope, coverage and applicability of Title VI of the Civil Rights Act of 1964, The Age Discrimination Act of 1975 and Section 504 of the Rehabilitation Act of 1973, by expanding the definition of the terms "programs or activities" to include all of the programs or activities of the Federal aid recipients, subrecipients and contractors, whether such programs or activities are Federally-funded or not);
-• Titles II and III of the Americans with Disabilities Act (42 U.S.C. 12131–12189) (prohibits discrimination on the basis of disability in the operation of public entities, public and private transportation systems, places of public accommodation, and certain testing) and 49 CFR parts 37 and 38;
-• Executive Order 12898, Federal Actions to Address Environmental Justice in Minority Populations and Low-Income Populations (preventing discrimination against minority populations by discouraging programs, policies, and activities with disproportionately high and adverse human health or environmental effects on minority and low-income populations);
-• Executive Order 13166, Improving Access to Services for Persons with Limited English Proficiency (requiring that recipients of Federal financial assistance provide meaningful access for applicants and beneficiaries who have limited English proficiency (LEP));
-• Executive Order 13985, Advancing Racial Equity and Support for Underserved Communities through the Federal Government (advancing equity across the Federal Government); and
-• Executive Order 13988, Preventing and Combating Discrimination on the Basis of Gender Identity or Sexual Orientation (clarifying that sex discrimination includes discrimination on the grounds of gender identity or sexual orientation).
+• The Civil Rights Restoration Act of 1987, (Pub. L. 100-209), (broadens scope, coverage and applicability of Title VI of the Civil Rights Act of 1964, The Age Discrimination Act of 1975 and Section 504 of the Rehabilitation Act of 1973, by expanding the definition of the terms "programs or activities" to include all of the programs or activities of the Federal aid recipients, subrecipients and contractors, whether such programs or activities are Federally-funded or not);
+• Titles II and III of the Americans with Disabilities Act (42 U.S.C. 12131-12189) (prohibits discrimination on the basis of disability in the operation of public entities, public and private transportation systems, places of public accommodation, and certain testing) and 49 CFR parts 37 and 38;
 The preceding statutory and regulatory cites hereinafter are referred to as the "Acts" and "Regulations," respectively.
 General Assurances
 In accordance with the Acts, the Regulations, and other pertinent directives, circulars, policy, memoranda, and/or guidance, the Recipient hereby gives assurance that it will promptly take any measures necessary to ensure that:
@@ -49,7 +45,7 @@ Specific Assurances
 More specifically, and without limiting the above general Assurance, the Recipient agrees with and gives the following Assurances with respect to its Federally assisted Highway Safety Grant Program:
 1. The Recipient agrees that each "activity," "facility," or "program," as defined in § 21.23(b) and (e) of 49 CFR part 21 will be (with regard to an "activity") facilitated, or will be (with regard to a "facility") operated, or will be (with regard to a "program") conducted in compliance with all requirements imposed by, or pursuant to the Acts and the Regulations.
 2. The Recipient will insert the following notification in all solicitations for bids, Requests For Proposals for work, or material subject to the Acts and the Regulations made in connection with all Highway Safety Grant Programs and, in adapted form, in all proposals for negotiated agreements regardless of funding source:
-"The [name of Recipient], in accordance with the provisions of Title VI of the Civil Rights Act of 1964 (78 Stat. 252, 42 U.S.C 2000d to 2000d–4) and the Regulations, hereby notifies all bidders that it will affirmatively ensure that in any contract entered into pursuant to this advertisement, disadvantaged business enterprises will be afforded full and fair opportunity to submit bids in response to this invitation and will not be discriminated against on the grounds of race, color, or national origin in consideration for an award."
+"The [name of Recipient], in accordance with the provisions of Title VI of the Civil Rights Act of 1964 (78 Stat. 252, 42 U.S.C 2000d to 2000d-4) and the Regulations, hereby notifies all bidders that it will affirmatively ensure that in any contract entered into pursuant to this advertisement, disadvantaged business enterprises will be afforded full and fair opportunity to submit bids in response to this invitation and will not be discriminated against on the grounds of race, color, or national origin in consideration for an award."
 3. The Recipient will insert the clauses of appendix A and E of this Assurance (also referred to as DOT Order 1050.2A) 1 in every contract or agreement subject to the Acts and the Regulations.
 4. The Recipient will insert the clauses of appendix B of DOT Order 1050.2A, as a covenant running with the land, in any deed from the United States effecting or recording a transfer of real property, structures, use, or improvements thereon or interest therein to a Recipient.
 5. That where the Recipient receives Federal financial assistance to construct a facility, or part of a facility, the Assurance will extend to the entire facility and facilities operated in connection therewith.
@@ -82,7 +78,7 @@ e. Taking one of the following actions, within 30 days of receiving notice under
 2. Requiring such employee to participate satisfactorily in a drug abuse assistance or rehabilitation program approved for such purposes by a Federal, State, or local health, law enforcement, or other appropriate agency;
 f. Making a good faith effort to continue to maintain a drug-free workplace through implementation of all of the paragraphs above.
 Political Activity (Hatch Act) (Applies to Subrecipients as Well as States)
-The State will comply with provisions of the Hatch Act (5 U.S.C. 1501–1508), which limits the political activities of employees whose principal employment activities are funded in whole or in part with Federal funds.
+The State will comply with provisions of the Hatch Act (5 U.S.C. 1501-1508), which limits the political activities of employees whose principal employment activities are funded in whole or in part with Federal funds.
 Certification Regarding Federal Lobbying (Applies to Subrecipients as Well as States)
 Certification for Contracts, Grants, Loans, and Cooperative Agreements
 The undersigned certifies, to the best of his or her knowledge and belief, that:
