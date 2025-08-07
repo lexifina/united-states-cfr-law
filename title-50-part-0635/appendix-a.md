@@ -1,7 +1,7 @@
 # Appendix A to Part 635—Species Tables
 Table 1 of Appendix A to Part 635—Oceanic Sharks
 A. Large Coastal Sharks
-Atlantic and Gulf of Mexico blacktip, Carcharhinus limbatus
+Atlantic and Gulf of America blacktip, Carcharhinus limbatus
 Bull, Carcharhinus leucas
 Great hammerhead, Sphyrna mokarran
 Lemon, Negaprion brevirostris
@@ -13,9 +13,9 @@ Smooth hammerhead, Sphyrna zygaena
 Spinner, Carcharhinus brevipinna
 Tiger, Galeocerdo cuvier
 B. Small Coastal Sharks
-Atlantic and Gulf of Mexico Atlantic sharpnose, Rhizoprionodon terraenovae
-Atlantic and Gulf of Mexico blacknose, Carcharhinus acronotus
-Atlantic and Gulf of Mexico bonnethead, Sphyrna tiburo
+Atlantic and Gulf of America Atlantic sharpnose, Rhizoprionodon terraenovae
+Atlantic and Gulf of America blacknose, Carcharhinus acronotus
+Atlantic and Gulf of America bonnethead, Sphyrna tiburo
 Finetooth, Carcharhinus isodon
 C. Pelagic Sharks
 Blue, Prionace glauca
