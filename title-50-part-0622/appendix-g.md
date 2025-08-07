@@ -1,4 +1,2 @@
 # Appendix G to Part 622—Coastal Migratory Pelagics Zone Illustrations
-ER11AP17.000
-ER11AP17.001
-ER19FE19.022
+Figure 3 to Appendix G—Cobia Gulf Migratory Group/Zone

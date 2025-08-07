@@ -1,5 +1,5 @@
 # Appendix A to Part 622—Species Tables
-Table 1 to Appendix A to Part 622—Gulf of Mexico Reef Fish
+Table 1 to Appendix A to Part 622—Gulf Reef Fish
 Balistidae—Triggerfishes
 Gray triggerfish, Balistes capriscus
 Carangidae—Jacks
@@ -45,6 +45,7 @@ Bar jack, Caranx ruber
 Greater amberjack, Seriola dumerili
 Lesser amberjack, Seriola fasciata
 Almaco jack, Seriola rivoliana
+Banded rudderfish, Seriola zonata
 Ephippidae—Spadefishes
 Spadefish, Chaetodipterus faber
 Haemulidae—Grunts
