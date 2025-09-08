@@ -131,9 +131,9 @@ USFWS Form 3-177, if appropriate
 § 10.246 ATPDEA Textile Certificate of Origin
 § 10.248 ATPDEA Declaration of Compliance for Brassieres
 § 10.256 ATPDEA Non-textile Certificate of Origin
-† [§ 10.306 Evidence of direct shipment for CFTA]
-† [§ 10.307 Documents, etc. required for entries under CFTA Certificate of origin of CF 353]
-[†CFTA provisions are suspended while NAFTA remains in effect. See part 181]
+†[§ 10.306 Evidence of direct shipment for CFTA]
+†[§ 10.307 Documents, etc. required for entries under CFTA Certificate of origin of CF 353]
+[† CFTA provisions are suspended while USMCA remains in effect. See part 182.]
 § 10.410 US-CFTA Certification of origin and supporting records.
 § 10.512 SFTA records that the importer may have in support of a SFTA claim for preferential tariff treatment, including an importer's supporting statement if previously required by the port director or Center director before January 19, 2017 or the Center director on or after January 19, 2017.
 § 10.522 SFTA TPL Certificate of eligibility.
