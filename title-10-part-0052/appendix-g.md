@@ -86,7 +86,7 @@ ah. TR-0815-16497-NP-A, Safety Classification of Passive Nuclear Power Plant Ele
 ai. TR-0816-49833-NP, Fuel Storage Rack Analysis, November 2018, Revision 1.
 aj. TR-0816-50796-NP, Loss of Large Areas Due to Explosions and Fires Assessment, June 2019, Revision 1.
 ak. TR-0816-50797, Mitigation Strategies for Loss of All AC Power Event [NuScale Nonproprietary], October 2019, Revision 3.
-al. TR-0816-51127-NP, NuFuel-HTP2 TM Fuel and Control Rod Assembly Designs, December 2019, Revision 3.
+al. TR-0816-51127-NP, NuFuel-HTP2TM Fuel and Control Rod Assembly Designs, December 2019, Revision 3.
 am. TR-0818-61384-NP, Pipe Rupture Hazards Analysis, July 2019, Revision 2.
 an. TR-0915-17564-NP-A, Subchannel Analysis Methodology, February 2019, Revision 2.
 ao. TR-0915-17565-NP-A, Accident Source Term Methodology, February 2020, Revision 4.
@@ -127,7 +127,8 @@ a. A senior operator licensed pursuant to part 55 of this chapter shall be prese
 b. Licensees shall meet the following requirements:
 i. Each licensee shall meet the minimum licensed operator staffing requirements identified in Table 1:
 Table 1—Minimum Requirements per Shift for On-Site Staffing of NuScale Power Plants by Operators and Senior Operators Licensed Under 10 CFR Part 55
-Number of units operating (a nuclear power unit is considered to be operating when it is in MODE 1, 2, or 3 as defined by the unit's technical specifications) | Position | One to twelve units | One control room
+Number of units operating (a nuclear power unit is considered to be operating when it is in MODE 1, 2, or 3 as defined by the unit's technical specifications) | Position | One to twelve units
+One control room
 None | Senior operator Operator | 1 2
 One to twelve | Senior operator Operator | 3 3
 Source: Design Certification Application, Part 7, Section 6.1.3, "Requested Action."
@@ -191,7 +192,7 @@ D. Except under the change processes in Section VIII of this appendix, the Commi
 3. Provide additional or alternative design criteria, testing, analyses, acceptance criteria, or justification for structures, systems, and components or design features discussed in the generic DCD.
 E. The NRC will specify, at an appropriate time, the procedures to be used by an interested person who wishes to review portions of the design certification or references containing safeguards information or sensitive unclassified non-safeguards information (including proprietary information, such as trade secrets and commercial or financial information obtained from a person that are privileged or confidential (10 CFR 2.390 and 10 CFR part 9), and security-related information), for the purpose of participating in the hearing required by § 52.85, the hearing provided under § 52.103, or in any other proceeding relating to this appendix, in which interested persons have a right to request an adjudicatory hearing.
 VII. Duration of This Appendix
-This appendix may be referenced for a period of 15 years from February 21, 2023, except as provided for in §§ 52.55(b) and 52.57(b). This appendix remains valid for an applicant or licensee who references this appendix until the application is withdrawn or the license expires, including any period of extended operation under a renewed license.
+This appendix may be referenced for a period of 40 years from February 21, 2023, except as provided for in §§ 52.55(b) and 52.57(b). This appendix remains valid for an applicant or licensee who references this appendix until the application is withdrawn or the license expires, including any period of extended operation under a renewed license.
 VIII. Processes for Changes and Departures
 A. Tier 1 Information
 1. Generic changes to Tier 1 information are governed by the requirements in § 52.63(a)(1).

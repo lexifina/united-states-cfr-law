@@ -98,7 +98,7 @@ b. WCAP-17889-NP (APR1400-A-N-NR-17001-NP), Validation of SCALE 6.1.2 with 238-G
 B. An applicant or licensee referencing this appendix, in accordance with Section IV of this appendix, shall incorporate by reference and comply with the requirements of this appendix except as otherwise provided in this appendix.
 C. If there is a conflict between Tier 1 and Tier 2 of the DCD, then Tier 1 controls.
 D. If there is a conflict between the generic DCD and either the application for the design certification of the APR1400 design or "Final Safety Evaluation Report Related to Certification of the APR1400 Standard Design," then the generic DCD controls.
-E. Design activities for structures, systems, and components that are entirely outside the scope of this appendix may be performed using site characteristics, provided the design activities do not affect the DCD or conflict with the interface requirements.
+E. Design activities for structures, systems, and components that are wholly outside the scope of this appendix may be performed using site characteristics, provided the design activities do not affect the DCD or conflict with the interface requirements.
 IV. Additional Requirements and Restrictions
 A. An applicant for a COL that wishes to reference this appendix shall, in addition to complying with the requirements of §§ 52.77, 52.79, and 52.80, comply with the following requirements:
 1. Incorporate by reference, as part of its application, this appendix.
@@ -132,7 +132,7 @@ D. Except under the change processes in Section VIII of this appendix, the Commi
 3. Provide additional or alternative design criteria, testing, analyses, acceptance criteria, or justification for structures, systems, components, or design features discussed in the generic DCD.
 E. The NRC will specify, at an appropriate time, the procedures to be used by an interested person who wishes to review portions of the design certification or references containing safeguards information or sensitive unclassified non-safeguards information (including proprietary information, such as trade secrets and commercial or financial information obtained from a person that are privileged or confidential (10 CFR 2.390 and 10 CFR part 9), and security-related information), for the purpose of participating in the hearing required by § 52.85, the hearing provided under § 52.103, or in any other proceeding relating to this appendix, in which interested persons have a right to request an adjudicatory hearing.
 VII. Duration of This Appendix
-This appendix may be referenced for a period of 15 years from September 19, 2019, except as provided for in §§ 52.55(b) and 52.57(b). This appendix remains valid for an applicant or licensee who references this appendix until the application is withdrawn or the license expires, including any period of extended operation under a renewed license.
+This appendix may be referenced for a period of 40 years from September 19, 2019, except as provided for in §§ 52.55(b) and 52.57(b). This appendix remains valid for an applicant or licensee who references this appendix until the application is withdrawn or the license expires, including any period of extended operation under a renewed license.
 VIII. Processes for Changes and Departures
 A. Tier 1 Information
 1. Generic changes to Tier 1 information are governed by the requirements in § 52.63(a)(1).

@@ -25,20 +25,20 @@ III. Scope and Contents
 A. Incorporation by reference approval. The documents in Table 1 are approved for incorporation by reference by the Director of the Office of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain copies of the generic DCD from Jerald G. Head, Senior Vice President, Regulatory Affairs, GE-Hitachi Nuclear Energy, 3901 Castle Hayne Road, MC A-18, Wilmington, NC 28401, telephone: 1-910-819-5692. You can view the generic DCD online in the NRC Library at http://www.nrc.gov/reading-rm/adams.html. In ADAMS, search under the ADAMS Accession No. listed in Table 1. If you do not have access to ADAMS or if you have problems accessing documents located in ADAMS, contact the NRC's Public Document Room (PDR) reference staff at 1-800-397-4209, 1-301-415-3747, or by email at PDR.Resource@nrc.gov. These documents can also be viewed at the Federal rulemaking Web site, http://www.regulations.gov, by searching for documents filed under Docket ID NRC-2010-0135. Copies of these documents are available for examination and copying at the NRC's PDR located at Room O-1F21, One White Flint North, 11555 Rockville Pike, Rockville, Maryland 20852. Copies are also available for examination at the NRC Library located at Two White Flint North, 11545 Rockville Pike, Rockville, Maryland 20852, telephone: 301-415-5610, email: Library.Resource@nrc.gov. All approved material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 1-202-741-6030 or go to http://www.archives.gov/federal-register/cfr/ibrlocations.html.
 Table 1—Documents Approved for Incorporation by Reference
 Document No. | Document title | ADAMS Accession No.
-GE Hitachi:
+GE Hitachi: | |
 26A6642AB Rev. 10 | ESBWR Design Control Document, Revision 10, Tier 1, dated April 2014 | ML14104A929 (package)
 26A6642AB Rev. 10 | ESBWR Design Control Document, Revision 10, Tier 2, dated April 2014 | ML14104A929 (package)
-Bechtel Power Corporation:
+Bechtel Power Corporation: | |
 BC-TOP-3-A | "Tornado and Extreme Wind Design Criteria for Nuclear Power Plants," Topical Report, Revision 3, August 1974 | ML14093A218
 BC-TOP-9A | "Design of Structures for Missile Impact," Topical Report, Revision 2, September 1974 | ML14093A217
-General Electric:
+General Electric: | |
 GEZ-4982A | General Electric Large Steam Turbine Generator Quality Control Program, The STG Global Supply Chain Quality Management System (MFGGLO-GEZ-0010) Revision 1.2, February 7, 2006 | ML14093A215
-GE Nuclear Energy:
+GE Nuclear Energy: | |
 NEDO-11209-04A | "GE Nuclear Energy Quality Assurance Program Description," Class 1, Revision 8, March 31, 1989 | ML14093A209
 NEDO-31960-A | "BWR Owners' Group Long-Term Stability Solutions Licensing Methodology," Class I, November 1995 | ML14093A212
 NEDO-31960-A—Supplement 1 | "BWR Owners' Group Long-Term Stability Solutions Licensing Methodology," Class I, November 1995 | ML14093A211
 NEDO-32465-A | GE Nuclear Energy and BWR Owners' Group, "Reactor Stability Detect and Suppress Solutions Licensing Basis Methodology for Reload Applications," Class I, August 1996 | ML14093A210
-GE-Hitachi Nuclear Energy:
+GE-Hitachi Nuclear Energy: | |
 NEDO-33181 | "NP-2010 COL Demonstration Project Quality Assurance Plan," Revision 6, August 2009 | ML14248A297
 NEDO-33219 | "ESBWR Human Factors Engineering Functional Requirements Analysis Implementation Plan," Revision 4, Class I, February 2010 | ML100350104
 NEDO-33260 | "Quality Assurance Requirements for Suppliers of Equipment and Services to the GEH ESBWR Project," Revision 5, Class I, April 2008 | ML14248A648
@@ -92,7 +92,7 @@ D. Except under the change processes in Section VIII of this appendix, the Commi
 3. Provide additional or alternative design criteria, testing, analyses, acceptance criteria, or justification for structures, systems, components, or design features discussed in the generic DCD.
 E. The NRC will specify at an appropriate time the procedures to be used by an interested person who seeks to review portions of the design certification or references containing safeguards information or sensitive unclassified non-safeguards information (including proprietary information, such as trade secrets and commercial or financial information obtained from a person that are privileged or confidential (10 CFR 2.390 and 10 CFR part 9), and security-related information), for the purpose of participating in the hearing required by § 52.85, the hearing provided under § 52.103, or in any other proceeding relating to this appendix in which interested persons have a right to request an adjudicatory hearing.
 VII. Duration of This Appendix
-This appendix may be referenced for a period of 15 years from November 14, 2014, except as provided for in §§ 52.55(b) and 52.57(b). This appendix remains valid for an applicant or licensee who references this appendix until the application is withdrawn or the license expires, including any period of extended operation under a renewed license.
+This appendix may be referenced for a period of 40 years from November 14, 2014, except as provided for in §§ 52.55(b) and 52.57(b). This appendix remains valid for an applicant or licensee who references this appendix until the application is withdrawn or the license expires, including any period of extended operation under a renewed license.
 VIII. Processes for Changes and Departures
 A. Tier 1 information
 1. Generic changes to Tier 1 information are governed by the requirements in § 52.63(a)(1).
