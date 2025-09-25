@@ -1,28 +1,26 @@
-# Appendix A to Part 569—Executive Order 13894
-Executive Order 13894 of October 14, 2019
-Blocking Property and Suspending Entry of Certain Persons Contributing to the Situation in Syria
+# Appendix A to Part 569—Executive Order 13894, as Further Amended Executive Order 13894 of October 14, 2019, as Further Amended by Executive Order 14142 of January 15, 2025 and Executive Order 14312 of June 30, 2025 Blocking Property and Suspending Entry of Certain Persons Contributing to the Situation in Syria
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 et seq.) (NEA), section 212(f) of the Immigration and Nationality Act of 1952 (8 U.S.C. 1182(f)), and section 301 of title 3, United States Code,
-I, DONALD J. TRUMP, President of the United States of America, find that the situation in and in relation to Syria, and in particular the recent actions by the Government of Turkey to conduct a military offensive into northeast Syria, undermines the campaign to defeat the Islamic State of Iraq and Syria, or ISIS, endangers civilians, and further threatens to undermine the peace, security, and stability in the region, and thereby constitutes an unusual and extraordinary threat to the national security and foreign policy of the United States. I hereby declare a national emergency to deal with that threat. I hereby determine and order:
+I, DONALD J. TRUMP, President of the United States of America, find that the situation in and in relation to Syria undermines the campaign to defeat the Islamic State of Iraq and Syria, or ISIS, endangers civilians, and further threatens to undermine the peace, security, and stability in the region, and thereby constitutes an unusual and extraordinary threat to the national security and foreign policy of the United States. I hereby declare a national emergency to deal with that threat. I hereby determine and order:
 Section 1. (a) All property and interests in property that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of any United States person of the following persons are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in:
 (i) any person determined by the Secretary of the Treasury, in consultation with the Secretary of State:
 (A) to be responsible for or complicit in, or to have directly or indirectly engaged in, or attempted to engage in, any of the following in or in relation to Syria:
 (1) actions or policies that further threaten the peace, security, stability, or territorial integrity of Syria; or
 (2) the commission of serious human rights abuse;
-(B) to be a current or former official of the Government of Turkey;
-(C) to be any subdivision, agency, or instrumentality of the Government of Turkey;
-(D) to operate in such sectors of the Turkish economy as may be determined by the Secretary of the Treasury, in consultation with the Secretary of State;
-(E) to have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, any person whose property and interests in property are blocked pursuant to this order; or
-(F) to be owned or controlled by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to this order.
+(B) to be a former government official of the former regime of Bashar al-Assad or a person who acted for or on behalf of such an official;
+(C) to have engaged in, or attempted to engage in, activities or transactions that have materially contributed to, or pose a significant risk of materially contributing to, the illicit production and international illicit proliferation of captagon;
+(D) to be responsible for or complicit in, to have directly or indirectly engaged in, or to be responsible for ordering, controlling, or otherwise directing, instances in which a United States national ((i) as defined in 8 U.S.C. 1101(a)(22) or 8 U.S.C. 1408, or (ii) a lawful permanent resident with significant ties to the United States) went missing in Syria during the former regime of Bashar al-Assad;
+(E) to have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of,
+(1) the former regime of Bashar al-Assad;
+(2) any activity described in subsections (a)(i)(A)-(a)(i)(D) of this section; or
+(3) any person whose property and interests in property are blocked pursuant to this order;
+(F) to be owned or controlled by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to this order; or
+(G) to be an adult family member of a person designated under subsections (a)(i)(A)-(a)(i)(D) of this section.
 (b) The prohibitions in subsection (a) of this section apply except to the extent provided by statutes, or in regulations, orders, directives, or licenses that may be issued pursuant to this order, and notwithstanding any contract entered into or any license or permit granted before the date of this order.
-Sec. 2. (a) The Secretary of State, in consultation with the Secretary of the Treasury and other officials of the U.S. Government as appropriate, is hereby authorized to impose on a foreign person any of the sanctions described in subsections (b) and (c) of this section, upon determining that the person, on or after the date of this order:
-(i) is responsible for or complicit in, has directly or indirectly engaged in, or attempted to engage in, or financed, any of the following:
-(A) the obstruction, disruption, or prevention of a ceasefire in northern Syria;
-(B) the intimidation or prevention of displaced persons from voluntarily returning to their places of residence in Syria;
-(C) the forcible repatriation of persons or refugees to Syria; or
-(D) the obstruction, disruption, or prevention of efforts to promote a political solution to the conflict in Syria, including:
-(1) the convening and conduct of a credible and inclusive Syrian-led constitutional process under the auspices of the United Nations (UN);
-(2) the preparation for and conduct of UN-supervised elections, pursuant to the new constitution, that are free and fair and to the highest international standards of transparency and accountability; or
-(3) the development of a new Syrian government that is representative and reflects the will of the Syrian people;
+Sec. 2. (a) The Secretary of State, in consultation with the Secretary of the Treasury and other officials of the United States Government as appropriate, is hereby authorized to impose on a foreign person any of the sanctions described in subsections (b) and (c) of this section, upon determining that the person, on or after the date of this order:
+(i) is responsible for or complicit in, has directly or indirectly engaged in, or attempted to engage in, or financed the obstruction, disruption, or prevention of efforts to promote a Syria that is stable, unified, and at peace with itself and its neighbors, including:
+(A) the convening and conduct of a credible and inclusive Syrian-led constitutional process;
+(B) the preparation for and conduct of supervised elections, pursuant to the new constitution, that are free and fair and to the highest international standards of transparency and accountability; or
+(C) the development of a Syrian government that is representative and reflects the will of the Syrian people;
 (ii) is an adult family member of a person designated under subsection (a)(i) of this section; or
 (iii) is responsible for or complicit in, or has directly or indirectly engaged in, or attempted to engage in, the expropriation of property, including real property, for personal gain or political purposes in Syria.
 (b) When the Secretary of State, in accordance with the terms of subsection (a) of this section, has determined that a person meets any of the criteria described in that subsection and has selected one or more of the sanctions set forth below to impose on that person, the heads of relevant departments and agencies, in consultation with the Secretary of State, as appropriate, shall ensure that the following actions are taken where necessary to implement the sanctions selected by the Secretary of State:
@@ -53,7 +51,6 @@ Sec. 8. For the purposes of this order:
 (c) the term "knowingly," with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result;
 (d) the term "person" means an individual or entity;
 (e) the term "United States person" or "U.S. person" means any United States citizen, permanent resident alien, entity organized under the laws of the United States or any jurisdiction within the United States (including foreign branches), or any person in the United States; and
-(f) the term "Government of Turkey" means the Government of Turkey, any political subdivision, agency, or instrumentality thereof, or any person owned or controlled by or acting for or on behalf of the Government of Turkey.
 Sec. 9. For those persons whose property and interests in property are blocked pursuant to this order who might have a constitutional presence in the United States, I find that because of the ability to transfer funds or other assets instantaneously, prior notice to such persons of measures to be taken pursuant to this order would render those measures ineffectual. I therefore determine that for these measures to be effective in addressing the national emergency declared in this order, there need be no prior notice of a listing or determination made pursuant to this order.
 Sec. 10. The Secretary of the Treasury, in consultation with the Secretary of State, is hereby authorized to take such actions, including the promulgation of rules and regulations, and to employ all powers granted to the President by IEEPA as may be necessary to carry out the purposes of this order. The Secretary of the Treasury may, consistent with applicable law, redelegate any of these functions within the Department of the Treasury. All departments and agencies of the United States shall take all appropriate measures within their authority to implement this order.
 Sec. 11. The Secretary of the Treasury, in consultation with the Secretary of State, is hereby authorized to submit the recurring and final reports to the Congress on the national emergency declared in this order, consistent with section 401(c) of the NEA (50 U.S.C. 1641(c)), and section 204(c) of IEEPA (50 U.S.C. 1703(c)).
@@ -62,6 +59,3 @@ Sec. 12. (a) Nothing in this order shall be construed to impair or otherwise aff
 (ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-DONALD J. TRUMP
-THE WHITE HOUSE,
-October 14, 2019.
