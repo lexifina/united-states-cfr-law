@@ -348,7 +348,10 @@ LAKE
 Survey Area
 Illinois:
 Lake
-Area of Application. Survey area.
+Survey Area.
+Illinois:
+Lake
+Area of Application. Survey area plus:
 Illinois:
 Cook
 Rock Island
@@ -364,6 +367,7 @@ Wisconsin:
 Brown
 Dane
 Milwaukee
+Monroe
 St. Clair
 Survey Area
 Illinois:
@@ -374,11 +378,10 @@ Madison
 Williamson
 Indiana:
 Vanderburgh
-Missouri: (city)
+Missouri (City):
 St. Louis
-Missouri: (counties)
-Jefferson
-Pulaski
+Missouri (County):
+St. Louis
 KANSAS
 Leaven-Worth-Jackson-Johnson
 Survey Area
@@ -700,6 +703,7 @@ Albany
 Oneida
 Onondaga
 Ontario
+Saratoga
 Schenectady
 Steuben
 Kings-Queens
@@ -776,6 +780,10 @@ Survey Area
 North Dakota:
 Grand Forks
 Area of Application. Survey area plus:
+Minnesota:
+Hennepin
+Morrison
+Stearns
 North Dakota:
 Cass
 Cavalier
