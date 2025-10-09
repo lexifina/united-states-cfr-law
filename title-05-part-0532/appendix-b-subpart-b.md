@@ -3,9 +3,8 @@ This appendix shows the annual schedule of NAF wage surveys. It lists all States
 (1) The lead agency responsible for conducting the survey;
 (2) The month in which the survey will begin; and
 (3) Whether full-scale surveys will be conducted in odd or even numbered calendar years.
-State | Wage area | Beginning month ofsurvey | Calendar year of full-scale survey odd or even
-Alabama | Calhoun | April | Even.
-| Madison | April | Even.
+State | Wage area | Beginning month of survey | Calendar year of full-scale survey odd or even
+Alabama | Madison | April | Even.
 | Montgomery | April | Odd.
 Alaska | Anchorage | June | Even.
 Arizona | Maricopa | October | Even.
@@ -24,7 +23,7 @@ California | Kern | September | Odd.
 | Santa Barbara | September | Even.
 | Solano | September | Odd.
 | Ventura | September | Even.
-Colorado | Arapahoe-Denver | July | Even.
+Colorado | Arapahoe | July | Even.
 | El Paso | July | Even.
 Connecticut | New London | July | Even.
 Delaware | Kent | August | Odd.
@@ -60,13 +59,11 @@ Louisiana | Bossier-Caddo | March | Odd.
 Maine | York | October | Odd.
 Maryland | Anne Arundel | August | Even.
 | Charles-St. Mary's | August | Even.
-| Frederick | August | Even.
 | Harford | May | Even.
 | Montgomery-Prince George's | August | Even.
 Massachusetts | Hampden | October | Odd.
 | Middlesex | October | Odd.
 Michigan | Macomb | May | Odd.
-Minnesota | Hennepin | July | Odd.
 Mississippi | Harrison | March | Even.
 | Lauderdale | March | Odd.
 | Lowndes | March | Odd.
@@ -92,8 +89,7 @@ North Dakota | Grand Forks | July | Odd.
 Ohio | Greene-Montgomery | April | Odd.
 Oklahoma | Comanche | March | Even.
 | Oklahoma | March | Even.
-Pennsylvania | Allegheny | May | Odd.
-| Cumberland | May | Even.
+Pennsylvania | Cumberland | May | Even.
 | York | May | Even.
 Puerto Rico | Guaynabo-San Juan | February | Even.
 Rhode Island | Newport | July | Even.
