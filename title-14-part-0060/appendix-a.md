@@ -23,7 +23,7 @@ Table of Contents
 19. Automatic Loss of Qualification and Procedures for Restoration of Qualification (§ 60.27).
 20. Other Losses of Qualification and Procedures for Restoration of Qualification (§ 60.29).
 21. Record Keeping and Reporting (§ 60.31).
-22. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements (§ 60.33).
+22. [Reserved]
 23. Specific FFS Compliance Requirements (§ 60.35).
 24. [Reserved]
 25. FFS Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA) (§ 60.37).
@@ -344,9 +344,7 @@ Begin QPS Requirements
 a. FFS modifications can include hardware or software changes. For FFS modifications involving software programming changes, the record required by § 60.31(a)(2) must consist of the name of the aircraft system software, aerodynamic model, or engine model change, the date of the change, a summary of the change, and the reason for the change.
 b. If a coded form for record keeping is used, it must provide for the preservation and retrieval of information with appropriate security or controls to prevent the inappropriate alteration of such records after the fact.
 End QPS Requirements
-22. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements (§ 60.33)
-Begin Information
-No additional regulatory or informational material applies to § 60.33, Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements.
+22. [Reserved]
 23. Specific FFS Compliance Requirements (§ 60.35)
 No additional regulatory or informational material applies to § 60.35, Specific FFS Compliance Requirements.
 24. [Reserved]
@@ -375,103 +373,88 @@ d. Table A1B provides the tasks that the sponsor will examine to determine wheth
 e. Table A1C provides the functions that an instructor/check airman must be able to control in the simulator.
 f. It is not required that all of the tasks that appear on the List of Qualified Tasks (part of the SOQ) be accomplished during the initial or continuing qualification evaluation.
 End Information
-ER09DE22.000
-ER09DE22.001
-ER09DE22.002
-ER09DE22.003
-ER09DE22.004
-ER09DE22.005
-ER09DE22.006
-ER09DE22.007
-ER09DE22.008
-ER09DE22.009
-ER09DE22.010
-ER09DE22.011
-ER09DE22.012
-ER09DE22.013
-ER09DE22.014
-ER09DE22.015
-ER09DE22.016
 Table A1B—Table of Tasks vs. Simulator Level
-QPS requirements | Entry No. | Subjective requirements In order to be qualified at the simulator qualification level indicated, the simulator must be able to perform at least the tasks associated with that level of qualification. | Simulator levels | A | B | C | D | Information | Notes
+QPS requirements | Information
+Entry No. | Subjective requirements In order to be qualified at the simulator qualification level indicated, the simulator must be able to perform at least the tasks associated with that level of qualification. | Simulator levels | Notes
+A | B | C | D
 1. Preflight Procedures
-1.a. | Preflight Inspection (flight deck only) | X | X | X | X
-1.b. | Engine Start | X | X | X | X
-1.c. | Taxiing | | R | X | X
-1.d. | Pre-takeoff Checks | X | X | X | X
+1.a. | Preflight Inspection (flight deck only) | X | X | X | X |
+1.b. | Engine Start | X | X | X | X |
+1.c. | Taxiing | | R | X | X |
+1.d. | Pre-takeoff Checks | X | X | X | X |
 2. Takeoff and Departure Phase
-2.a. | Normal and Crosswind Takeoff | | R | X | X
-2.b. | Instrument Takeoff | X | X | X | X
-2.c. | Engine Failure During Takeoff | A | X | X | X
-2.d. | Rejected Takeoff | X | X | X | X
-2.e. | Departure Procedure | X | X | X | X
+2.a. | Normal and Crosswind Takeoff | | R | X | X |
+2.b. | Instrument Takeoff | X | X | X | X |
+2.c. | Engine Failure During Takeoff | A | X | X | X |
+2.d. | Rejected Takeoff | X | X | X | X |
+2.e. | Departure Procedure | X | X | X | X |
 3. Inflight Maneuvers
-3.a. | Steep Turns | X | X | X | X
-3.b. High Angle of Attack Maneuvers
-3.b.1 | Approaches to Stall | X | X | X | X
+3.a. | Steep Turns | X | X | X | X |
+3.b. High Angle of Attack Maneuvers | | | | | |
+3.b.1 | Approaches to Stall | X | X | X | X |
 3.b.2 | Full Stall | | | X | X | Stall maneuvers at angles of attack above the activation of the stall warning system.
 | | | | | | Required only for FSTDs qualified to conduct full stall training tasks as indicated on the Statement of Qualification.
-3.c. | Engine Failure—Multiengine Airplane | X | X | X | X
-3.d. | Engine Failure—Single-Engine Airplane | X | X | X | X
-3.e. | Specific Flight Characteristics incorporated into the user's FAA approved flight training program | A | A | A | A
+3.c. | Engine Failure—Multiengine Airplane | X | X | X | X |
+3.d. | Engine Failure—Single-Engine Airplane | X | X | X | X |
+3.e. | Specific Flight Characteristics incorporated into the user's FAA approved flight training program | A | A | A | A |
 3.f. | Recovery From Unusual Attitudes | X | X | X | X | Within the normal flight envelope supported by applicable simulation validation data.
 3.g. | Upset Prevention and Recovery Training (UPRT) | | | X | X | Upset recovery or unusual attitude training maneuvers within the FSTD's validation envelope that are intended to exceed pitch attitudes greater than 25 degrees nose up; pitch attitudes greater than 10 degrees nose down, and bank angles greater than 45 degrees.
 4. Instrument Procedures
-4.a. | Standard Terminal Arrival/Flight Management System Arrivals Procedures | X | X | X | X
-4.b. | Holding | X | X | X | X
-4.c. | Precision Instrument
+4.a. | Standard Terminal Arrival/Flight Management System Arrivals Procedures | X | X | X | X |
+4.b. | Holding | X | X | X | X |
+4.c. | Precision Instrument | | | | |
 4.c.1. | All Engines Operating | X | X | X | X | e.g., Autopilot, Manual (Flt. Dir. Assisted), Manual (Raw Data).
 4.c.2. | One Engine Inoperative | X | X | X | X | e.g., Manual (Flt. Dir. Assisted), Manual (Raw Data).
 4.d. | Non-Precision Instrument Approach | X | X | X | X | e.g., NDB, VOR, VOR/DME, VOR/TAC, RNAV, LOC, LOC/BC, ADF, and SDF.
 4.e. | Circling Approach | X | X | X | X | Specific authorization required.
-4.f. | Missed Approach
-4.f.1. | Normal | X | X | X | X
-4.f.2. | One Engine Inoperative | X | X | X | X
+4.f. | Missed Approach | | | | |
+4.f.1. | Normal | X | X | X | X |
+4.f.2. | One Engine Inoperative | X | X | X | X |
 5. Landings and Approaches to Landings
-5.a. | Normal and Crosswind Approaches and Landings | | R | X | X
-5.b. | Landing From a Precision/Non-Precision Approach | | R | X | X
-5.c. | Approach and Landing with (Simulated) Engine Failure—Multiengine Airplane | | R | X | X
-5.d. | Landing From Circling Approach | | R | X | X
-5.e. | Rejected Landing | X | X | X | X
-5.f. | Landing From a No Flap or a Nonstandard Flap Configuration Approach | | R | X | X
+5.a. | Normal and Crosswind Approaches and Landings | | R | X | X |
+5.b. | Landing From a Precision/Non-Precision Approach | | R | X | X |
+5.c. | Approach and Landing with (Simulated) Engine Failure—Multiengine Airplane | | R | X | X |
+5.d. | Landing From Circling Approach | | R | X | X |
+5.e. | Rejected Landing | X | X | X | X |
+5.f. | Landing From a No Flap or a Nonstandard Flap Configuration Approach | | R | X | X |
 6. Normal and Abnormal Procedures
-6.a. | Engine (including shutdown and restart) | X | X | X | X
-6.b. | Fuel System | X | X | X | X
-6.c. | Electrical System | X | X | X | X
-6.d. | Hydraulic System | X | X | X | X
-6.e. | Environmental and Pressurization Systems | X | X | X | X
-6.f. | Fire Detection and Extinguisher Systems | X | X | X | X
-6.g. | Navigation and Avionics Systems | X | X | X | X
-6.h. | Automatic Flight Control System, Electronic Flight Instrument System, and Related Subsystems | X | X | X | X
-6.i. | Flight Control Systems | X | X | X | X
-6.j. | Anti-ice and Deice Systems | X | X | X | X
-6.k. | Aircraft and Personal Emergency Equipment | X | X | X | X
+6.a. | Engine (including shutdown and restart) | X | X | X | X |
+6.b. | Fuel System | X | X | X | X |
+6.c. | Electrical System | X | X | X | X |
+6.d. | Hydraulic System | X | X | X | X |
+6.e. | Environmental and Pressurization Systems | X | X | X | X |
+6.f. | Fire Detection and Extinguisher Systems | X | X | X | X |
+6.g. | Navigation and Avionics Systems | X | X | X | X |
+6.h. | Automatic Flight Control System, Electronic Flight Instrument System, and Related Subsystems | X | X | X | X |
+6.i. | Flight Control Systems | X | X | X | X |
+6.j. | Anti-ice and Deice Systems | X | X | X | X |
+6.k. | Aircraft and Personal Emergency Equipment | X | X | X | X |
 7. Emergency Procedures
-7.a. | Emergency Descent (Max. Rate) | X | X | X | X
-7.b. | Inflight Fire and Smoke Removal | X | X | X | X
-7.c. | Rapid Decompression | X | X | X | X
-7.d. | Emergency Evacuation | X | X | X | X
+7.a. | Emergency Descent (Max. Rate) | X | X | X | X |
+7.b. | Inflight Fire and Smoke Removal | X | X | X | X |
+7.c. | Rapid Decompression | X | X | X | X |
+7.d. | Emergency Evacuation | X | X | X | X |
 8. Postflight Procedures
-8.a. | After-Landing Procedures | X | X | X | X
-8.b. | Parking and Securing | X | X | X | X
-"A"—indicates that the system, task, or procedure may be examined if the appropriate aircraft system or control is simulated in the FSTD and is working properly.
-"R"—indicates that the simulator may be qualified for this task for continuing qualification training.
-"X"—indicates that the simulator must be able to perform this task for this level of qualification.
+8.a. | After-Landing Procedures | X | X | X | X |
+8.b. | Parking and Securing | X | X | X | X |
+"A"—indicates that the system, task, or procedure may be examined if the appropriate aircraft system or control is simulated in the FSTD and is working properly. "R"—indicates that the simulator may be qualified for this task for continuing qualification training. "X"—indicates that the simulator must be able to perform this task for this level of qualification.
 Table A1C—Table of Simulator System Tasks
-QPS requirements | Entry No. | Subjective requirements In order to be qualified at the simulator qualification level indicated, the simulator must be able to perform at least the tasks associated with that level of qualification. | Simulator levels | A | B | C | D | Information | Notes
+QPS requirements | Information
+Entry No. | Subjective requirements In order to be qualified at the simulator qualification level indicated, the simulator must be able to perform at least the tasks associated with that level of qualification. | Simulator levels | Notes
+A | B | C | D
 1. Instructor Operating Station (IOS), as appropriate
-1.a. | Power switch(es) | X | X | X | X
+1.a. | Power switch(es) | X | X | X | X |
 1.b. | Airplane conditions | X | X | X | X | e.g., GW, CG, Fuel loading and Systems.
 1.c. | Airports/Runways | X | X | X | X | e.g., Selection, Surface, Presets, Lighting controls.
 1.d. | Environmental controls | X | X | X | X | e.g., Clouds, Visibility, RVR, Temp, Wind, Ice, Snow, Rain, and Windshear.
-1.e. | Airplane system malfunctions (Insertion/deletion) | X | X | X | X
-1.f. | Locks, Freezes, and Repositioning | X | X | X | X
+1.e. | Airplane system malfunctions (Insertion/deletion) | X | X | X | X |
+1.f. | Locks, Freezes, and Repositioning | X | X | X | X |
 2. Sound Controls
-2.a. | On/off/adjustment | X | X | X | X
+2.a. | On/off/adjustment | X | X | X | X |
 3. Motion/Control Loading System
-3.a. | On/off/emergency stop | X | X | X | X
+3.a. | On/off/emergency stop | X | X | X | X |
 4. Observer Seats/Stations
-4.a. | Position/Adjustment/Positive restraint system | X | X | X | X
+4.a. | Position/Adjustment/Positive restraint system | X | X | X | X |
 Attachment 2 to Appendix A to Part 60—FFS Objective Tests
 Table of Contents
 Paragraph No. | Title
@@ -530,40 +513,6 @@ Begin Information
 n. In those cases where the objective test results authorize a "snapshot test" or a "series of snapshot tests" results in lieu of a time-history result, the sponsor or other data provider must ensure that a steady state condition exists at the instant of time captured by the "snapshot." The steady state condition should exist from 4 seconds prior to, through 1 second following, the instant of time captured by the snap shot.
 o. For references on basic operating weight, see AC 120-27, "Aircraft Weight and Balance;" and FAA-H-8083-1, "Aircraft Weight and Balance Handbook."
 End Information
-ER09DE22.017
-ER09DE22.018
-ER09DE22.019
-ER09DE22.020
-ER09DE22.021
-ER09DE22.022
-ER09DE22.023
-ER09DE22.024
-ER09DE22.025
-ER09DE22.026
-ER09DE22.027
-ER09DE22.028
-ER09DE22.029
-ER09DE22.030
-ER09DE22.031
-ER09DE22.032
-ER09DE22.033
-ER09DE22.034
-ER09DE22.035
-ER09DE22.036
-ER09DE22.037
-ER09DE22.038
-ER09DE22.039
-ER09DE22.040
-ER09DE22.041
-ER09DE22.042
-ER09DE22.043
-ER09DE22.044
-ER09DE22.045
-ER09DE22.046
-ER09DE22.047
-ER09DE22.048
-ER09DE22.049
-ER09DE22.050
 Begin Information
 3. General
 a. If relevant winds are present in the objective data, the wind vector should be clearly noted as part of the data presentation, expressed in conventional terminology, and related to the runway being used for test near the ground.
@@ -575,20 +524,20 @@ a. General. The characteristics of an airplane flight control system have a majo
 (3) For airplanes with irreversible control systems, measurements may be obtained on the ground if proper pitot-static inputs are provided to represent airspeeds typical of those encountered in flight. Likewise, it may be shown that for some airplanes, takeoff, cruise, and landing configurations have like effects. Thus, one may suffice for another. In either case, engineering validation or airplane manufacturer rationale should be submitted as justification for ground tests or for eliminating a configuration. For FFSs requiring static and dynamic tests at the controls, special test fixtures will not be required during initial and upgrade evaluations if the QTG shows both test fixture results and the results of an alternate approach (e.g., computer plots that were produced concurrently and show satisfactory agreement). Repeat of the alternate method during the initial evaluation satisfies this test requirement.
 b. Control Dynamics Evaluation. The dynamic properties of control systems are often stated in terms of frequency, damping and a number of other classical measurements. In order to establish a consistent means of validating test results for FFS control loading, criteria are needed that will clearly define the measurement interpretation and the applied tolerances. Criteria are needed for underdamped, critically damped and overdamped systems. In the case of an underdamped system with very light damping, the system may be quantified in terms of frequency and damping. In critically damped or overdamped systems, the frequency and damping are not readily measured from a response time history. Therefore, the following suggested measurements may be used:
 (1) For Level C and D simulators. Tests to verify that control feel dynamics represent the airplane should show that the dynamic damping cycles (free response of the controls) match those of the airplane within specified tolerances. The Flight Standards Service recognizes that several different testing methods may be used to verify the control feel dynamic response. The responsible Flight Standards office will consider the merits of testing methods based on reliability and consistency. One acceptable method of evaluating the response and the tolerance to be applied is described below for the underdamped and critically damped cases. A sponsor using this method to comply with the QPS requirements should perform the tests as follows:
-(a) Underdamped response. Two measurements are required for the period, the time to first zero crossing (in case a rate limit is present) and the subsequent frequency of oscillation. It is necessary to measure cycles on an individual basis in case there are non-uniform periods in the response. Each period will be independently compared to the respective period of the airplane control system and, consequently, will enjoy the full tolerance specified for that period. The damping tolerance will be applied to overshoots on an individual basis. Care should be taken when applying the tolerance to small overshoots since the significance of such overshoots becomes questionable. Only those overshoots larger than 5 per cent of the total initial displacement should be considered. The residual band, labeled T(A d) on Figure A2A is ±5 percent of the initial displacement amplitude A d from the steady state value of the oscillation. Only oscillations outside the residual band are considered significant. When comparing FFS data to airplane data, the process should begin by overlaying or aligning the FFS and airplane steady state values and then comparing amplitudes of oscillation peaks, the time of the first zero crossing and individual periods of oscillation. The FFS should show the same number of significant overshoots to within one when compared against the airplane data. The procedure for evaluating the response is illustrated in Figure A2A.
+(a) Underdamped response. Two measurements are required for the period, the time to first zero crossing (in case a rate limit is present) and the subsequent frequency of oscillation. It is necessary to measure cycles on an individual basis in case there are non-uniform periods in the response. Each period will be independently compared to the respective period of the airplane control system and, consequently, will enjoy the full tolerance specified for that period. The damping tolerance will be applied to overshoots on an individual basis. Care should be taken when applying the tolerance to small overshoots since the significance of such overshoots becomes questionable. Only those overshoots larger than 5 per cent of the total initial displacement should be considered. The residual band, labeled T(Ad) on Figure A2A is ±5 percent of the initial displacement amplitude Ad from the steady state value of the oscillation. Only oscillations outside the residual band are considered significant. When comparing FFS data to airplane data, the process should begin by overlaying or aligning the FFS and airplane steady state values and then comparing amplitudes of oscillation peaks, the time of the first zero crossing and individual periods of oscillation. The FFS should show the same number of significant overshoots to within one when compared against the airplane data. The procedure for evaluating the response is illustrated in Figure A2A.
 (b) Critically damped and overdamped response. Due to the nature of critically damped and overdamped responses (no overshoots), the time to reach 90 percent of the steady state (neutral point) value should be the same as the airplane within ±10 percent. Figure A2B illustrates the procedure.
 (c) Special considerations. Control systems that exhibit characteristics other than classical overdamped or underdamped responses should meet specified tolerances. In addition, special consideration should be given to ensure that significant trends are maintained.
 (2) Tolerances.
 (a) The following table summarizes the tolerances, T, for underdamped systems, and "n" is the sequential period of a full cycle of oscillation. See Figure A2A of this attachment for an illustration of the referenced measurements.
-T(P 0) | ±10% of P 0.
-T(P 1) | ±20% of P 1.
-T(P 2) | ±30% of P 2.
-T(P n) | ±10(n + 1)% of P n.
-T(A n) | ±10% of A 1.
-T(A d) | ±5% of A d = residual band.
+T(P0) | ±10% of P0.
+T(P1) | ±20% of P1.
+T(P2) | ±30% of P2.
+T(Pn) | ±10(n + 1)% of Pn.
+T(An) | ±10% of A1.
+T(Ad) | ±5% of Ad = residual band.
 Significant overshoots, First overshoot and ±1 subsequent overshoots.
 (b) The following tolerance applies to critically damped and overdamped systems only. See Figure A2B for an illustration of the reference measurements:
-T(P 0) | ±10% of P 0
+T(P0) | ±10% of P0
 End Information
 Begin QPS Requirement
 c. Alternative method for control dynamics evaluation.
@@ -603,8 +552,6 @@ Note: Dynamic sweeps may be limited to forces not exceeding 100 lbs. (44.5 daN).
 End QPS Requirement
 Begin Information
 d. The FAA is open to alternative means such as the one described above. The alternatives should be justified and appropriate to the application. For example, the method described here may not apply to all manufacturers' systems and certainly not to aircraft with reversible control systems. Each case is considered on its own merit on an ad hoc basis. If the FAA finds that alternative methods do not result in satisfactory performance, more conventionally accepted methods will have to be used.
-ER09MY08.000
-ER09MY08.001
 5. Ground Effect
 a. For an FFS to be used for take-off and landing (not applicable to Level A simulators in that the landing maneuver may not be credited in a Level A simulator) it should reproduce the aerodynamic changes that occur in ground effect. The parameters chosen for FFS validation should indicate these changes.
 (1) A dedicated test should be provided that will validate the aerodynamic ground effect characteristics.
@@ -629,7 +576,7 @@ d. Objective Motion Cueing Test—Frequency Domain
 (3) This test is only required to be run once for the initial qualification of the FSTD and will not be required for continuing qualification purposes. The FAA will accept test results provided by the FSTD manufacturer as part of a Statement of Compliance confirming that the objective motion cueing tests were used to assist in the tuning of the FSTD's motion cueing algorithms.
 e. Motion Vibrations.
 (1) Presentation of results. The characteristic motion vibrations may be used to verify that the flight simulator can reproduce the frequency content of the airplane when flown in specific conditions. The test results should be presented as a Power Spectral Density (PSD) plot with frequencies on the horizontal axis and amplitude on the vertical axis. The airplane data and flight simulator data should be presented in the same format with the same scaling. The algorithms used for generating the flight simulator data should be the same as those used for the airplane data. If they are not the same then the algorithms used for the flight simulator data should be proven to be sufficiently comparable. As a minimum, the results along the dominant axes should be presented and a rationale for not presenting the other axes should be provided.
-(2) Interpretation of results. The overall trend of the PSD plot should be considered while focusing on the dominant frequencies. Less emphasis should be placed on the differences at the high frequency and low amplitude portions of the PSD plot. During the analysis, certain structural components of the flight simulator have resonant frequencies that are filtered and may not appear in the PSD plot. If filtering is required, the notch filter bandwidth should be limited to 1 Hz to ensure that the buffet feel is not adversely affected. In addition, a rationale should be provided to explain that the characteristic motion vibration is not being adversely affected by the filtering. The amplitude should match airplane data as described below. However, if the PSD plot was altered for subjective reasons, a rationale should be provided to justify the change. If the plot is on a logarithmic scale, it may be difficult to interpret the amplitude of the buffet in terms of acceleration. For example, a 1 × 10 −3 g-rms 2 /Hz would describe a heavy buffet and may be seen in the deep stall regime. Alternatively, a 1 × 10 −6 g-rms 2 /Hz buffet is almost not perceivable; but may represent a flap buffet at low speed. The previous two examples differ in magnitude by 1000. On a PSD plot this represents three decades (one decade is a change in order of magnitude of 10; and two decades is a change in order of magnitude of 100).
+(2) Interpretation of results. The overall trend of the PSD plot should be considered while focusing on the dominant frequencies. Less emphasis should be placed on the differences at the high frequency and low amplitude portions of the PSD plot. During the analysis, certain structural components of the flight simulator have resonant frequencies that are filtered and may not appear in the PSD plot. If filtering is required, the notch filter bandwidth should be limited to 1 Hz to ensure that the buffet feel is not adversely affected. In addition, a rationale should be provided to explain that the characteristic motion vibration is not being adversely affected by the filtering. The amplitude should match airplane data as described below. However, if the PSD plot was altered for subjective reasons, a rationale should be provided to justify the change. If the plot is on a logarithmic scale, it may be difficult to interpret the amplitude of the buffet in terms of acceleration. For example, a 1 × 10−3 g-rms 2/Hz would describe a heavy buffet and may be seen in the deep stall regime. Alternatively, a 1 × 10−6 g-rms 2/Hz buffet is almost not perceivable; but may represent a flap buffet at low speed. The previous two examples differ in magnitude by 1000. On a PSD plot this represents three decades (one decade is a change in order of magnitude of 10; and two decades is a change in order of magnitude of 100).
 Note: In the example, "g-rms 2 is the mathematical expression for "g's root mean squared."
 7. Sound System
 a. General. The total sound environment in the airplane is very complex, and changes with atmospheric conditions, airplane configuration, airspeed, altitude, and power settings. Flight deck sounds are an important component of the flight deck operational environment and provide valuable information to the flight crew. These aural cues can either assist the crew (as an indication of an abnormal situation), or hinder the crew (as a distraction or nuisance). For effective training, the flight simulator should provide flight deck sounds that are perceptible to the pilot during normal and abnormal operations, and comparable to those of the airplane. The flight simulator operator should carefully evaluate background noises in the location where the device will be installed. To demonstrate compliance with the sound requirements, the objective or validation tests in this attachment were selected to provide a representative sample of normal static conditions typically experienced by a pilot.
@@ -767,7 +714,6 @@ b. The VDR should identify (in matrix format) sources of data for all required t
 c. The Sample Validation Data Roadmap (VDR) for airplanes, shown in Table A2C, depicts a generic roadmap matrix identifying sources of validation data for an abbreviated list of tests. This document is merely a sample and does not provide actual data. A complete matrix should address all test conditions and provide actual data and data sources.
 d. Two examples of rationale pages are presented in Appendix F of the IATA "Flight Simulator Design and Performance Data Requirements." These illustrate the type of airplane and avionics configuration information and descriptive engineering rationale used to describe data anomalies or provide an acceptable basis for using alternative data for QTG validation requirements.
 End Information
-ER09MY08.002
 Begin Information
 13. Acceptance Guidelines for Alternative Engines Data.
 a. Background
@@ -796,18 +742,17 @@ Begin QPS Requirement
 Table A2D—Alternative Engine Validation Flight Tests
 Entry No. | Test description | | Alternative engine type | Alternative thrust rating 2
 1.b.1., 1.b.4. | Normal take-off/ground acceleration time and distance | X | X
-1.b.2. | V mcg, if performed for airplane certification | X | X
-1.b.5. 1.b.8. | Engine-out take-off Dynamic engine failure after take-off. | Either test may be performed | X
-1.b.7. | Rejected take-off if performed for airplane certification | X
-1.d.1. | Cruise performance | X
+1.b.2. | Vmcg, if performed for airplane certification | X | X
+1.b.5. 1.b.8. | Engine-out take-off Dynamic engine failure after take-off. | Either test may be performed | X |
+1.b.7. | Rejected take-off if performed for airplane certification | X |
+1.d.1. | Cruise performance | X |
 1.f.1., 1.f.2. | Engine acceleration and deceleration | X | X
 2.a.7. | Throttle calibration 1 | X | X
 2.c.1. | Power change dynamics (acceleration) | X | X
-2.d.1. | V mca if performed for airplane certification | X | X
+2.d.1. | Vmca if performed for airplane certification | X | X
 2.d.5. | Engine inoperative trim | X | X
 2.e.1. | Normal landing | X |
-1 Must be provided for all changes in engine type or thrust rating; see paragraph 13.c.(3).
-2 See paragraphs 13.c.(1) through 13.c.(3), for a definition of applicable thrust ratings.
+1 Must be provided for all changes in engine type or thrust rating; see paragraph 13.c.(3). 2 See paragraphs 13.c.(1) through 13.c.(3), for a definition of applicable thrust ratings.
 End QPS Requirement
 Begin Information
 14. Acceptance Guidelines for Alternative Avionics (Flight-Related Computers and Controllers)
@@ -845,8 +790,6 @@ j. Special measurements for instrument signals for flight simulators using a rea
 k. Recorded signals. The signals recorded to conduct the transport delay calculations should be explained on a schematic block diagram. The flight simulator manufacturer should also provide an explanation of why each signal was selected and how they relate to the above descriptions.
 l. Interpretation of results. Flight simulator results vary over time from test to test due to "sampling uncertainty." All flight simulators run at a specific rate where all modules are executed sequentially in the host computer. The flight controls input can occur at any time in the iteration, but these data will not be processed before the start of the new iteration. For example, a flight simulator running at 60 Hz may have a difference of as much as 16.67 msec between test results. This does not mean that the test has failed. Instead, the difference is attributed to variations in input processing. In some conditions, the host simulator and the visual system do not run at the same iteration rate, so the output of the host computer to the visual system will not always be synchronized.
 m. The transport delay test should account for both daylight and night modes of operation of the visual system. In both cases, the tolerances prescribed in Table A1A must be met and the motion response should occur before the end of the first video scan containing new information.
-ER09MY08.003
-ER09MY08.004
 Begin Information
 16. Continuing Qualification Evaluations—Validation Test Data Presentation
 a. Background
@@ -879,62 +822,64 @@ i. Synchronized video for the use of alternative data sources, procedures, and i
 (2) Sufficient size and incremental marking to allow similar measurement and comparison. The detail provided by the video should provide sufficient clarity and accuracy to measure the necessary parameter(s) to at least 1/2 of the tolerance authorized for the specific test being conducted and allow an integration of the parameter(s) in question to obtain a rate of change.
 End Information
 Table A2E—Alternative Data Sources, Procedures, and Instrumentation
-QPS REQUIREMENTS The standards in this table are required if the data gathering methods described in paragraph 9 of Appendix A are not used. | Table of objective tests | Test entry number and title | Sim level | A | B | Alternative data sources, procedures, and instrumentation | Information | Notes
-1.a.1. Performance. Taxi. Minimum Radius turn | X | X | TIR, AFM, or Design data may be used
+QPS REQUIREMENTS The standards in this table are required if the data gathering methods described in paragraph 9 of Appendix A are not used. | Information
+Table of objective tests | Sim level | Alternative data sources, procedures, and instrumentation | Notes
+Test entry number and title | A | B
+1.a.1. Performance. Taxi. Minimum Radius turn | X | X | TIR, AFM, or Design data may be used |
 1.a.2. Performance. Taxi Rate of Turn vs. Nosewheel Steering Angle | | X | Data may be acquired by using a constant tiller position, measured with a protractor or full rudder pedal application for steady state turn, and synchronized video of heading indicator. If less than full rudder pedal is used, pedal position must be recorded. | A single procedure may not be adequate for all airplane steering systems, therefore appropriate measurement procedures must be devised and proposed for the responsible Flight Standards office concurrence.
-1.b.1. Performance. Takeoff. Ground Acceleration Time and Distance | X | X | Preliminary certification data may be used. Data may be acquired by using a stop watch, calibrated airspeed, and runway markers during a takeoff with power set before brake release. Power settings may be hand recorded. If an inertial measurement system is installed, speed and distance may be derived from acceleration measurements
-1.b.2. Performance. Takeoff. Minimum Control Speed—ground (V mcg) using aerodynamic controls only (per applicable airworthiness standard) or low speed, engine inoperative ground control characteristics | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls | Rapid throttle reductions at speeds near V mcg may be used while recording appropriate parameters. The nosewheel must be free to caster, or equivalently freed of sideforce generation.
-1.b.3. Performance. Takeoff. Minimum Unstick Speed (V mu) or equivalent test to demonstrate early rotation takeoff characteristics | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and the force/position measurements of flight deck controls
-1.b.4. Performance. Takeoff. Normal Takeoff | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls. AOA can be calculated from pitch attitude and flight path
+1.b.1. Performance. Takeoff. Ground Acceleration Time and Distance | X | X | Preliminary certification data may be used. Data may be acquired by using a stop watch, calibrated airspeed, and runway markers during a takeoff with power set before brake release. Power settings may be hand recorded. If an inertial measurement system is installed, speed and distance may be derived from acceleration measurements |
+1.b.2. Performance. Takeoff. Minimum Control Speed—ground (Vmcg) using aerodynamic controls only (per applicable airworthiness standard) or low speed, engine inoperative ground control characteristics | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls | Rapid throttle reductions at speeds near Vmcg may be used while recording appropriate parameters. The nosewheel must be free to caster, or equivalently freed of sideforce generation.
+1.b.3. Performance. Takeoff. Minimum Unstick Speed (Vmu) or equivalent test to demonstrate early rotation takeoff characteristics | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and the force/position measurements of flight deck controls |
+1.b.4. Performance. Takeoff. Normal Takeoff | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls. AOA can be calculated from pitch attitude and flight path |
 1.b.5. Performance. Takeoff. Critical Engine Failure during Takeoff | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls | Record airplane dynamic response to engine failure and control inputs required to correct flight path.
 1.b.6. Performance. Takeoff. Crosswind Takeoff | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls | The "1:7 law" to 100 feet (30 meters) is an acceptable wind profile.
-1.b.7. Performance. Takeoff. Rejected Takeoff | X | X | Data may be acquired with a synchronized video of calibrated airplane instruments, thrust lever position, engine parameters, and distance (e.g., runway markers). A stop watch is required.
-1.c. 1. Performance. Climb. Normal Climb all engines operating. | X | X | Data may be acquired with a synchronized video of calibrated airplane instruments and engine power throughout the climb range
-1.c.2. Performance. Climb. One engine Inoperative Climb | X | X | Data may be acquired with a synchronized video of calibrated airplane instruments and engine power throughout the climb range
-1.c.4. Performance. Climb. One Engine Inoperative Approach Climb (if operations in icing conditions are authorized) | X | X | Data may be acquired with a synchronized video of calibrated airplane instruments and engine power throughout the climb range
-1.d.1. Cruise/Descent. Level flight acceleration. | X | X | Data may be acquired with a synchronized video of calibrated airplane instruments, thrust lever position, engine parameters, and elapsed time
-1.d.2. Cruise/Descent. Level flight deceleration. | X | X | Data may be acquired with a synchronized video of calibrated airplane instruments, thrust lever position, engine parameters, and elapsed time
-1.d.4. Cruise/Descent. Idle descent | X | X | Data may be acquired with a synchronized video of calibrated airplane instruments, thrust lever position, engine parameters, and elapsed time
-1.d.5. Cruise/Descent. Emergency Descent | X | X | Data may be acquired with a synchronized video of calibrated airplane instruments, thrust lever position, engine parameters, and elapsed time
-1.e.1. Performance. Stopping. Deceleration time and distance, using manual application of wheel brakes and no reverse thrust on a dry runway | X | X | Data may be acquired during landing tests using a stop watch, runway markers, and a synchronized video of calibrated airplane instruments, thrust lever position and the pertinent parameters of engine power
-1.e.2. Performance. Ground. Deceleration Time and Distance, using reverse thrust and no wheel brakes | X | X | Data may be acquired during landing tests using a stop watch, runway markers, and a synchronized video of calibrated airplane instruments, thrust lever position and pertinent parameters of engine power
-1.f.1. Performance. Engines. Acceleration | X | X | Data may be acquired with a synchronized video recording of engine instruments and throttle position
-1.f.2. Performance. Engines. Deceleration | X | X | Data may be acquired with a synchronized video recording of engine instruments and throttle position
-2.a.1.a. Handling Qualities. Static Control Checks. Pitch Controller Position vs. Force and Surface Position Calibration | X | X | Surface position data may be acquired from flight data recorder (FDR) sensor or, if no FDR sensor, at selected, significant column positions (encompassing significant column position data points), acceptable to the responsible Flight Standards office, using a control surface protractor on the ground. Force data may be acquired by using a hand held force gauge at the same column position data points. | For airplanes with reversible control systems, surface position data acquisition should be accomplished with winds less than 5 kts.
+1.b.7. Performance. Takeoff. Rejected Takeoff | X | X | Data may be acquired with a synchronized video of calibrated airplane instruments, thrust lever position, engine parameters, and distance (e.g., runway markers). A stop watch is required. |
+1.c. 1. Performance. Climb. Normal Climb all engines operating. | X | X | Data may be acquired with a synchronized video of calibrated airplane instruments and engine power throughout the climb range |
+1.c.2. Performance. Climb. One engine Inoperative Climb | X | X | Data may be acquired with a synchronized video of calibrated airplane instruments and engine power throughout the climb range |
+1.c.4. Performance. Climb. One Engine Inoperative Approach Climb (if operations in icing conditions are authorized) | X | X | Data may be acquired with a synchronized video of calibrated airplane instruments and engine power throughout the climb range |
+1.d.1. Cruise/Descent. Level flight acceleration. | X | X | Data may be acquired with a synchronized video of calibrated airplane instruments, thrust lever position, engine parameters, and elapsed time |
+1.d.2. Cruise/Descent. Level flight deceleration. | X | X | Data may be acquired with a synchronized video of calibrated airplane instruments, thrust lever position, engine parameters, and elapsed time |
+1.d.4. Cruise/Descent. Idle descent | X | X | Data may be acquired with a synchronized video of calibrated airplane instruments, thrust lever position, engine parameters, and elapsed time |
+1.d.5. Cruise/Descent. Emergency Descent | X | X | Data may be acquired with a synchronized video of calibrated airplane instruments, thrust lever position, engine parameters, and elapsed time |
+1.e.1. Performance. Stopping. Deceleration time and distance, using manual application of wheel brakes and no reverse thrust on a dry runway | X | X | Data may be acquired during landing tests using a stop watch, runway markers, and a synchronized video of calibrated airplane instruments, thrust lever position and the pertinent parameters of engine power |
+1.e.2. Performance. Ground. Deceleration Time and Distance, using reverse thrust and no wheel brakes | X | X | Data may be acquired during landing tests using a stop watch, runway markers, and a synchronized video of calibrated airplane instruments, thrust lever position and pertinent parameters of engine power |
+1.f.1. Performance. Engines. Acceleration | X | X | Data may be acquired with a synchronized video recording of engine instruments and throttle position |
+1.f.2. Performance. Engines. Deceleration | X | X | Data may be acquired with a synchronized video recording of engine instruments and throttle position |
+2.a.1.a.Handling Qualities. Static Control Checks. Pitch Controller Position vs. Force and Surface Position Calibration | X | X | Surface position data may be acquired from flight data recorder (FDR) sensor or, if no FDR sensor, at selected, significant column positions (encompassing significant column position data points), acceptable to the responsible Flight Standards office, using a control surface protractor on the ground. Force data may be acquired by using a hand held force gauge at the same column position data points. | For airplanes with reversible control systems, surface position data acquisition should be accomplished with winds less than 5 kts.
 2.a.2.a. Handling Qualities. Static Control Checks. Roll Controller Position vs. Force and Surface Position Calibration | X | X | Surface position data may be acquired from flight data recorder (FDR) sensor or, if no FDR sensor, at selected, significant wheel positions (encompassing significant wheel position data points), acceptable to the responsible Flight Standards office, using a control surface protractor on the ground. Force data may be acquired by using a hand held force gauge at the same wheel position data points. | For airplanes with reversible control systems, surface position data acquisition should be accomplished with winds less than 5 kts.
-2.a.3.a. Handling Qualities. Static Control Checks. Rudder Pedal Position vs. Force and Surface Position Calibration | X | X | Surface position data may be acquired from flight data recorder (FDR) sensor or, if no FDR sensor, at selected, significant rudder pedal positions (encompassing significant rudder pedal position data points), acceptable to the responsible Flight Standards office, using a control surface protractor on the ground. Force data may be acquired by using a hand held force gauge at the same rudder pedal position data points. | For airplanes with reversible control systems, surface position data acquisition should be accomplished with winds less than 5 kts.
-2.a.4. Handling Qualities. Static Control Checks. Nosewheel Steering Controller Force and Position | X | X | Breakout data may be acquired with a hand held force gauge. The remainder of the force to the stops may be calculated if the force gauge and a protractor are used to measure force after breakout for at least 25% of the total displacement capability
-2.a.5. Handling Qualities. Static Control Checks. Rudder Pedal Steering Calibration | X | X | Data may be acquired through the use of force pads on the rudder pedals and a pedal position measurement device, together with design data for nosewheel position
-2.a.6. Handling Qualities. Static Control Checks. Pitch Trim Indicator vs. Surface Position Calibration | X | X | Data may be acquired through calculations
-2.a.7. Handling qualities. Static control tests. Pitch trim rate | X | X | Data may be acquired by using a synchronized video of pitch trim indication and elapsed time through range of trim indication
-2.a.8. Handling Qualities. Static Control tests. Alignment of Flight deck Throttle Lever Angle vs. Selected engine parameter | X | X | Data may be acquired through the use of a temporary throttle quadrant scale to document throttle position. Use a synchronized video to record steady state instrument readings or hand-record steady state engine performance readings
-2.a.9. Handling qualities. Static control tests. Brake pedal position vs. force and brake system pressure calibration | X | X | Use of design or predicted data is acceptable. Data may be acquired by measuring deflection at "zero" and "maximum" and calculating deflections between the extremes using the airplane design data curve
-2.c.1. Handling qualities. Longitudinal control tests. Power change dynamics | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and throttle position
-2.c.2. Handling qualities. Longitudinal control tests. Flap/slat change dynamics | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and flap/slat position
-2.c.3. Handling qualities. Longitudinal control tests. Spoiler/speedbrake change dynamics | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and spoiler/speedbrake position
-2.c.4. Handling qualities. Longitudinal control tests. Gear change dynamics | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and gear position
-2.c.5. Handling qualities. Longitudinal control tests. Longitudinal trim | X | X | Data may be acquired through use of an inertial measurement system and a synchronized video of flight deck controls position (previously calibrated to show related surface position) and the engine instrument readings
-2.c.6. Handling qualities. Longitudinal control tests. Longitudinal maneuvering stability (stick force/g) | X | X | Data may be acquired through the use of an inertial measurement system and a synchronized video of calibrated airplane instruments; a temporary, high resolution bank angle scale affixed to the attitude indicator; and a wheel and column force measurement indication
-2.c.7. Handling qualities. Longitudinal control tests. Longitudinal static stability | X | X | Data may be acquired through the use of a synchronized video of airplane flight instruments and a hand held force gauge
+2.a.3.a.Handling Qualities. Static Control Checks. Rudder Pedal Position vs. Force and Surface Position Calibration | X | X | Surface position data may be acquired from flight data recorder (FDR) sensor or, if no FDR sensor, at selected, significant rudder pedal positions (encompassing significant rudder pedal position data points), acceptable to the responsible Flight Standards office, using a control surface protractor on the ground. Force data may be acquired by using a hand held force gauge at the same rudder pedal position data points. | For airplanes with reversible control systems, surface position data acquisition should be accomplished with winds less than 5 kts.
+2.a.4. Handling Qualities. Static Control Checks. Nosewheel Steering Controller Force and Position | X | X | Breakout data may be acquired with a hand held force gauge. The remainder of the force to the stops may be calculated if the force gauge and a protractor are used to measure force after breakout for at least 25% of the total displacement capability |
+2.a.5. Handling Qualities. Static Control Checks. Rudder Pedal Steering Calibration | X | X | Data may be acquired through the use of force pads on the rudder pedals and a pedal position measurement device, together with design data for nosewheel position |
+2.a.6. Handling Qualities. Static Control Checks. Pitch Trim Indicator vs. Surface Position Calibration | X | X | Data may be acquired through calculations |
+2.a.7. Handling qualities. Static control tests. Pitch trim rate | X | X | Data may be acquired by using a synchronized video of pitch trim indication and elapsed time through range of trim indication |
+2.a.8. Handling Qualities. Static Control tests. Alignment of Flight deck Throttle Lever Angle vs. Selected engine parameter | X | X | Data may be acquired through the use of a temporary throttle quadrant scale to document throttle position. Use a synchronized video to record steady state instrument readings or hand-record steady state engine performance readings |
+2.a.9. Handling qualities. Static control tests. Brake pedal position vs. force and brake system pressure calibration | X | X | Use of design or predicted data is acceptable. Data may be acquired by measuring deflection at "zero" and "maximum" and calculating deflections between the extremes using the airplane design data curve |
+2.c.1. Handling qualities. Longitudinal control tests. Power change dynamics | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and throttle position |
+2.c.2. Handling qualities. Longitudinal control tests. Flap/slat change dynamics | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and flap/slat position |
+2.c.3. Handling qualities. Longitudinal control tests. Spoiler/speedbrake change dynamics | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and spoiler/speedbrake position |
+2.c.4. Handling qualities. Longitudinal control tests. Gear change dynamics | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and gear position |
+2.c.5. Handling qualities. Longitudinal control tests. Longitudinal trim | X | X | Data may be acquired through use of an inertial measurement system and a synchronized video of flight deck controls position (previously calibrated to show related surface position) and the engine instrument readings |
+2.c.6. Handling qualities. Longitudinal control tests. Longitudinal maneuvering stability (stick force/g) | X | X | Data may be acquired through the use of an inertial measurement system and a synchronized video of calibrated airplane instruments; a temporary, high resolution bank angle scale affixed to the attitude indicator; and a wheel and column force measurement indication |
+2.c.7. Handling qualities. Longitudinal control tests. Longitudinal static stability | X | X | Data may be acquired through the use of a synchronized video of airplane flight instruments and a hand held force gauge |
 2.c.8. Handling qualities. Longitudinal control tests. Stall characteristics | X | X | Data may be acquired through a synchronized video recording of a stop watch and calibrated airplane airspeed indicator. Hand-record the flight conditions and airplane configuration | Airspeeds may be cross checked with those in the TIR and AFM.
-2.c.9. Handling qualities. Longitudinal control tests. Phugoid dynamics | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls
-2.c.10. Handling qualities. Longitudinal control tests. Short period dynamics | | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls
-2.d.1. Handling qualities. Lateral directional tests. Minimum control speed, air (V mca or V mci), per applicable airworthiness standard or Low speed engine inoperative handling characteristics in the air | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls
+2.c.9. Handling qualities. Longitudinal control tests. Phugoid dynamics | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls |
+2.c.10. Handling qualities. Longitudinal control tests. Short period dynamics | | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls |
+2.d.1. Handling qualities. Lateral directional tests. Minimum control speed, air (Vmca or Vmci), per applicable airworthiness standard or Low speed engine inoperative handling characteristics in the air | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls |
 2.d.2. Handling qualities. Lateral directional tests. Roll response (rate) | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck lateral controls | May be combined with step input of flight deck roll controller test, 2.d.3.
-2.d.3. Handling qualities. Lateral directional tests. Roll response to flight deck roll controller step input | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck lateral controls
-2.d.4. Handling qualities. Lateral directional tests. Spiral stability | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments; force/position measurements of flight deck controls; and a stop watch
+2.d.3. Handling qualities. Lateral directional tests. Roll response to flight deck roll controller step input | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck lateral controls |
+2.d.4. Handling qualities. Lateral directional tests. Spiral stability | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments; force/position measurements of flight deck controls; and a stop watch |
 2.d.5. Handling qualities. Lateral directional tests. Engine inoperative trim | X | X | Data may be hand recorded in-flight using high resolution scales affixed to trim controls that have been calibrated on the ground using protractors on the control/trim surfaces with winds less than 5 kts.OR Data may be acquired during second segment climb (with proper pilot control input for an engine-out condition) by using a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls | Trimming during second segment climb is not a certification task and should not be conducted until a safe altitude is reached.
-2.d.6. Handling qualities. Lateral directional tests. Rudder response | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of rudder pedals
-2.d.7. Handling qualities. Lateral directional tests. Dutch roll, (yaw damper OFF) | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls
-2.d.8. Handling qualities. Lateral directional tests. Steady state sideslip | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls Ground track and wind corrected heading may be used for sideslip angle.
-2.e.1. Handling qualities. Landings. Normal landing | | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls
-2.e.3. Handling qualities. Landings. Crosswind landing | | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls
-2.e.4. Handling qualities. Landings. One engine inoperative landing | | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and the force/position measurements of flight deck controls. Normal and lateral accelerations may be recorded in lieu of AOA and sideslip
-2.e.5. Handling qualities. Landings. Autopilot landing (if applicable) | | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls.Normal and lateral accelerations may be recorded in lieu of AOA and sideslip
-2.e.6. Handling qualities. Landings. All engines operating, autopilot, go around | | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls. Normal and lateral accelerations may be recorded in lieu of AOA and sideslip
-2.e.7. Handling qualities. Landings. One engine inoperative go around | | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls. Normal and lateral accelerations may be recorded in lieu of AOA and sideslip
-2.e.8. Handling qualities. Landings. Directional control (rudder effectiveness with symmetric thrust) | | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls. Normal and lateral accelerations may be recorded in lieu of AOA and sideslip
-2.e.9. Handling qualities. Landings. Directional control (rudder effectiveness with asymmetric reverse thrust) | | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls. Normal and lateral accelerations may be recorded in lieu of AOA and sideslip
+2.d.6. Handling qualities. Lateral directional tests. Rudder response | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of rudder pedals |
+2.d.7. Handling qualities. Lateral directional tests. Dutch roll, (yaw damper OFF) | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls |
+2.d.8. Handling qualities. Lateral directional tests. Steady state sideslip | X | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls Ground track and wind corrected heading may be used for sideslip angle. |
+2.e.1. Handling qualities. Landings. Normal landing | | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls |
+2.e.3. Handling qualities. Landings. Crosswind landing | | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls |
+2.e.4. Handling qualities. Landings. One engine inoperative landing | | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and the force/position measurements of flight deck controls. Normal and lateral accelerations may be recorded in lieu of AOA and sideslip |
+2.e.5. Handling qualities. Landings. Autopilot landing (if applicable) | | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls.Normal and lateral accelerations may be recorded in lieu of AOA and sideslip |
+2.e.6. Handling qualities. Landings. All engines operating, autopilot, go around | | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls. Normal and lateral accelerations may be recorded in lieu of AOA and sideslip |
+2.e.7. Handling qualities. Landings. One engine inoperative go around | | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls. Normal and lateral accelerations may be recorded in lieu of AOA and sideslip |
+2.e.8. Handling qualities. Landings. Directional control (rudder effectiveness with symmetric thrust) | | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls. Normal and lateral accelerations may be recorded in lieu of AOA and sideslip |
+2.e.9. Handling qualities. Landings. Directional control (rudder effectiveness with asymmetric reverse thrust) | | X | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls. Normal and lateral accelerations may be recorded in lieu of AOA and sideslip |
 2.f. Handling qualities. Ground effect. Test to demonstrate ground effect | | X | Data may be acquired by using calibrated airplane instruments, an inertial measurement system, and a synchronized video of calibrated airplane instruments and force/position measurements of flight deck controls |
 End Information
 Attachment 3 to Appendix A to Part 60—Simulator Subjective Evaluation
@@ -982,22 +927,10 @@ i. Previously qualified simulators with certain early generation Computer Genera
 (c) Link-Miles Image II and Image IIT
 (d) XKD displays (even though the XKD image generator is capable of generating blue colored lights, the display cannot accommodate that color).
 End Information
-ER20MY16.050
-ER20MY16.051
-ER20MY16.052
-ER20MY16.053
-ER20MY16.054
-ER20MY16.055
-ER20MY16.056
-ER20MY16.057
-ER20MY16.058
-ER20MY16.059
-ER20MY16.060
-ER20MY16.061
-ER20MY16.062
-ER20MY16.063
 Table A3C—Functions and Subjective Tests
-QPS requirements | Entry No. | Additional airport models beyond minimum required for qualification—Class II airport models | Simulator level | A | B | C | D
+QPS requirements
+Entry No. | Additional airport models beyond minimum required for qualification—Class II airport models | Simulator level
+A | B | C | D
 This table specifies the minimum airport model content and functionality necessary to add airport models to a simulator's model library, beyond those necessary for qualification at the stated level, without the necessity of further involvement of the responsible Flight Standards office or TPAA.
 Begin QPS Requirements
 1. | Airport model management. The following is the minimum airport model management requirements for simulators at Levels A, B, C, and D.
@@ -1036,7 +969,7 @@ Begin QPS Requirements
 3.d.1. | Edge | | | X | X
 3.d.2. | Centerline | X | X | X | X
 3.d.3. | Runway hold and ILS critical area lights | X | X | X | X
-4. | Required model correlation with other aspects of the airport environment simulation The following are the minimum model correlation tests that must be conducted for simulators at Levels A, B, C, and D.
+4. | Required model correlation with other aspects of the airport environment simulation The following are the minimum model correlation tests that must be conducted for simulators at Levels A, B, C, and D. | | | |
 4.a. | The airport model must be properly aligned with the navigational aids that are associated with operations at the "in-use" runway | X | X | X | X
 4.b. | Slopes in runways, taxiways, and ramp areas, if depicted in the visual scene, must not cause distracting or unrealistic effects | X | X | X | X
 5. | Correlation with airplane and associated equipment. The following are the minimum correlation comparisons that must be made for simulators at Levels A, B, C, and D.
@@ -1057,23 +990,20 @@ End QPS Requirements
 Begin Information
 8. | Sponsors are not required to provide every detail of a runway, but the detail that is provided must be correct within the capabilities of the system | X | X | X | X
 End Information
-ER20MY16.064
-ER20MY16.065
-ER20MY16.066
-ER20MY16.067
-ER20MY16.068
-ER20MY16.069
 Table A3E—Functions and Subjective Tests
-QPS Requirements | Entry No. | Sound system | Simulator level | A | B | C | D
+QPS Requirements
+Entry No. | Sound system | Simulator level
+A | B | C | D
 The following checks are performed during a normal flight profile with motion system ON.
 1. | Precipitation | | | X | X
 2. | Rain removal equipment. | | | X | X
 3. | Significant airplane noises perceptible to the pilot during normal operations | | | X | X
 4. | Abnormal operations for which there are associated sound cues including, engine malfunctions, landing gear/tire malfunctions, tail and engine pod strike and pressurization malfunction | | | X | X
-5. | Sound of a crash when the flight simulator is landed in excess of limitations | X | X
-ER20MY16.070
+5. | Sound of a crash when the flight simulator is landed in excess of limitations | X | X | |
 Table A3G—Functions and Subjective Tests
-QPS Requirements | Entry No. | Special effects | Simulator level | A | B | C | D
+QPS Requirements
+Entry No. | Special effects | Simulator level
+A | B | C | D
 Functions in this table are subject to evaluation only if appropriate for the airplane and/or the system is installed on the specific simulator.
 1. | Simulator Power Switch(es) | X | X | X | X
 2. | Airplane conditions
@@ -1083,7 +1013,7 @@ Functions in this table are subject to evaluation only if appropriate for the ai
 3. | Airports
 3.a. | Number and selection | X | X | X | X
 3.b. | Runway selection | X | X | X | X
-3.c. | Runway surface condition (e.g., rough, smooth, icy, wet) | X | X
+3.c. | Runway surface condition (e.g., rough, smooth, icy, wet) | X | X | |
 3.d. | Preset positions (e.g., ramp, gate, #1 for takeoff, takeoff position, over FAF) | X | X | X | X
 3.e. | Lighting controls | X | X | X | X
 4. | Environmental controls
@@ -1092,7 +1022,7 @@ Functions in this table are subject to evaluation only if appropriate for the ai
 4.c. | Temperature | X | X | X | X
 4.d. | Climate conditions (e.g., ice, snow, rain) | X | X | X | X
 4.e. | Wind speed and direction | X | X | X | X
-4.f. | Windshear | X | X
+4.f. | Windshear | X | X | |
 4.g. | Clouds (base and tops) | X | X | X | X
 5. | Airplane system malfunctions (Inserting and deleting malfunctions into the simulator) | X | X | X | X
 6. | Locks, Freezes, and Repositioning
@@ -1253,24 +1183,11 @@ i. Climb Performance. Select one or several of the following test cases:
 (1) Normal Climb—Climb while maintaining recommended speed profile and note fuel, distance and time.
 (2) Single Engine Climb—Trim aircraft in a zero wheel climb at V2.
 Note: Up to 5° bank towards the operating engine(s) is permissible. Climb for 3 minutes and note fuel, distance, and time. Increase speed toward en route climb speed and retract flaps. Climb for 3 minutes and note fuel, distance, and time. j. Systems Operation During Climb. Check normal operation and malfunctions as appropriate for the following systems: (1) Air conditioning/Pressurization/Ventilation. (2) Autoflight. (3) Communications. (4) Electrical. (5) Fuel. (6) Icing Systems. (7) Indicating and Recording Systems. (8) Navigation/FMS. (9) Pneumatics. k. Cruise Checks. Select one or several of the following test cases: (1) Cruise Performance. (2) High Speed/High Altitude Handling (check the following): (a) Overspeed warning. (b) High Speed buffet. (c) Aircraft control satisfactory. (d) Envelope limiting functions on Computer Controlled Aircraft. Reduce airspeed to below level flight buffet onset speed, start a turn, and check the following: (e) High Speed buffet increases with G loading. Reduce throttles to idle and start descent, deploy the speedbrake, and check the following: (f) Speedbrake indications. (g) Symmetrical deployment. (h) Airframe buffet. (i) Aircraft response hands off. (3) Yaw Damper Operation. Switch off yaw dampers and autopilot. Initiate a Dutch roll and check the following: (a) Aircraft dynamics. (b) Simulator motion effects. Switch on yaw dampers, re-initiate a Dutch roll and check the following: (c) Damped aircraft dynamics. (4) APU Operation. (5) Engine Gravity Feed. (6) Engine Shutdown and Driftdown Check: FMC operation Aircraft performance. (7) Engine Relight. l. Descent. Select one of the following test cases: (1) Normal Descent. Descend while maintaining recommended speed profile and note fuel, distance and time. (2) Cabin Depressurization/Emergency Descent. m. Medium Altitude Checks. Select one or several of the following test cases: (1) High Angle of Attack/Stall. Trim the aircraft at 1.4 Vs, establish 1 kt/sec 2 deceleration rate, and check the following— (a) System displays/operation satisfactory. (b) Handling characteristics satisfactory. (c) Stall and Stick shaker speed. (d) Buffet characteristics and onset speed. (e) Envelope limiting functions on Computer Controlled Aircraft. Recover to straight and level flight and check the following: (f) Handling characteristics satisfactory. (2) Turning Flight. Roll aircraft to left, establish a 30° to 45° bank angle, and check the following: (a) Stick force required, satisfactory. (b) Wheel requirement to maintain bank angle. (c) Slip ball response, satisfactory. (d) Time to turn 180°. Roll aircraft from 45° bank one way to 45° bank the opposite direction while maintaining altitude and airspeed—check the following: (e) Controllability during maneuver. (3) Degraded flight controls. (4) Holding Procedure (check the following:) (a) FMC operation. (b) Autopilot auto thrust performance. (5) Storm Selection (check the following:) (a) Weather radar controls. (b) Weather radar operation. (c) Visual scene corresponds with WXR pattern. (Fly through storm center, and check the following:) (d) Aircraft enters cloud. (e) Aircraft encounters representative turbulence. (f) Rain/hail sound effects evident. As aircraft leaves storm area, check the following: (g) Storm effects disappear. (6) TCAS (check the following:) (a) Traffic appears on visual display. (b) Traffic appears on TCAS display(s). As conflicting traffic approaches, take relevant avoiding action, and check the following: (c) Visual and TCAS system displays. n. Approach and Landing. Select one or several of the following test cases while monitoring flight control and hydraulic systems for normal operation and with malfunctions selected: (1) Flaps/Gear Normal Operation. Check the following: (a) Time for extension/retraction. (b) Buffet characteristics. (2) Normal Visual Approach and Landing. Fly a normal visual approach and landing—check the following: (a) Aircraft handling. (b) Spoiler operation. (c) Reverse thrust operation. (d) Directional control on the ground. (e) Touchdown cues for main and nosewheel. (f) Visual cues. (g) Motion cues. (h) Sound cues. (i) Brake and anti-skid operation. (3) Flaps/Gear Abnormal Operation or with hydraulic malfunctions. (4) Abnormal Wing Flaps/Slats Landing. (5) Manual Landing with Control Malfunction. (a) Aircraft handling. (b) Radio aids and instruments. (c) Airport model content and cues. (d) Motion cues. (e) Sound cues. (6) Non-precision Approach—All Engines Operating. (a) Aircraft handling. (b) Radio Aids and instruments. (c) Airport model content and cues. (d) Motion cues. (e) Sound cues. (7) Circling Approach. (a) Aircraft handling. (c) Radio Aids and instruments. (d) Airport model content and cues. (e) Motion cues. (f) Sound cues. (8) Non-precision Approach—One Engine Inoperative. (a) Aircraft handling. (b) Radio Aids and instruments. (c) Airport model content and cues. (d) Motion cues. (e) Sound cues. (9) One Engine Inoperative Go-around. (a) Aircraft handling. (b) Radio Aids and instruments. (c) Airport model content and cues. (d) Motion cues. (e) Sound cues. (10) CAT I Approach and Landing with raw-data ILS. (a) Aircraft handling. (b) Radio Aids and instruments. (c) Airport model content and cues. (d) Motion cues. (e) Sound cues. (11) CAT I Approach and Landing with Limiting Crosswind. (a) Aircraft handling. (b) Radio Aids and instruments. (c) Airport model content and cues. (d) Motion cues. (e) Sound cues. (12) CAT I Approach with Windshear. Check the following: (a) Controllable during windshear encounter. (b) Performance adequate when using correct techniques. (c) Windshear indications/warnings. (d) Motion cues (particularly turbulence). (13) CAT II Approach and Automatic Go-Around. (14) CAT III Approach and Landing—System Malfunctions. (15) CAT III Approach and Landing—1 Engine Inoperative. (16) GPWS evaluation. o. Visual Scene—In-Flight Assessment. Select three (3) different visual models and perform the following checks with "day," "dusk," and "night" (as appropriate) selected. Reposition the aircraft at or below 2000 feet within 10 nm of the airfield. Fly the aircraft around the airport environment and assess control of the visual system and evaluate the Airport model content as described below: (1) Visual Controls. (a) Daylight, Dusk, Night Scene Controls. (b) Environment Light Controls. (c) Runway Light Controls. (d) Taxiway Light Controls. (e) Approach Light Controls. (2) Airport model Content. (a) Airport environment for correct terrain and significant features. (b) Runways for correct markings, runway slope, directionality of runway lights. (c) Visual scene for quantization (aliasing), color, and occulting. Reposition the aircraft to a long, final approach for an "ILS runway." Select flight freeze when the aircraft is 5-statute miles (sm)/8-kilometers (km) out and on the glide slope. Check the following: (3) Airport model content. (a) Airfield features. (b) Approach lights. (c) Runway definition. (d) Runway definition. (e) Runway edge lights and VASI lights. (f) Strobe lights. Release flight freeze. Continue flying the approach with NP engaged. Select flight freeze when aircraft is 3 sm/5 km out and on the glide slope. Check the following: (4) Airport model Content. (a) Runway centerline light. (b) Taxiway definition and lights. Release flight freeze and continue flying the approach with A/P engaged. Select flight freeze when aircraft is 2 sm/3 km out and on the glide slope. Check the following: (5) Airport model content. (a) Runway threshold lights. (b) Touchdown zone lights. At 200 ft radio altitude and still on glide slope, select Flight Freeze. Check the following: (6) Airport model content. (a) Runway markings. Set the weather to Category I conditions and check the following: (7) Airport model content. (a) Visual ground segment. Set the weather to Category II conditions, release Flight Freeze, re-select Flight Freeze at 100 feet radio altitude, and check the following: (8) Airport model content. (a) Visual ground segment. Select night/dusk (twilight) conditions and check the following: (9) Airport model content. (a) Runway markings visible within landing light lobes. Set the weather to Category III conditions, release Flight Freeze, re-select Flight Freeze at 50 feet radio altitude and check the following: (10) Airport model content. (a) Visual ground segment. Set WX to a typical "missed approach? weather condition, release Flight Freeze, re-select Flight Freeze at 15 feet radio altitude, and check the following: (11) Airport model content. (a) Visual ground segment. When on the ground, stop the aircraft. Set 0 feet RVR, ensure strobe/beacon tights are switched on and check the following: (12) Airport model content. (a) Visual effect of strobe and beacon. Reposition to final approach, set weather to "Clear," continue approach for an automatic landing, and check the following: (13) Airport model content. (a) Visual cues during flare to assess sink rate. (b) Visual cues during flare to assess Depth perception. (c) Flight deck height above ground. After Landing Operations. (1) After Landing Checks. (2) Taxi back to gate. Check the following: (a) Visual model satisfactory. (b) Parking brake operation satisfactory. (3) Shutdown Checks. q. Crash Function. (1) Gear-up Crash. (2) Excessive rate of descent Crash. (3) Excessive bank angle Crash.
-ER09MY08.005
-ER09MY08.008
-ER09MY08.009
-ER09MY08.010
-ER09DE22.054
-ER09DE22.055
 Attachment 4 to Appendix A to Part 60—Figure A4D—Sample Qualification Test Guide Cover Page
 INFORMATION
-ER09DE22.056
 Attachment 4 to Appendix A to Part 60—Figure A4E—Sample Statement of Qualification—Certificate
 INFORMATION
-ER09DE22.127
-ER09MY08.014
-ER09MY08.015
-ER09MY08.016
-ER09MY08.017
 Attachment 4 to Appendix A to Part 60—Figure A4H [Reserved]
-ER09MY08.019
 Attachment 5 to Appendix A to Part 60—Simulator Qualification Requirements for Windshear Training Program Use
 Begin QPS Requirements
 1. Applicability
@@ -1511,7 +1428,6 @@ iii. Angle of attack and the stall identification angle of attack. See section A
 End QPS Requirements
 Begin Information
 An example FSTD "alpha/beta" envelope display and IOS feedback mechanism are shown below in Figure 1 and Figure 2. The following examples are provided as guidance material on one possible method to display the required UPRT feedback parameters on an IOS display. FSTD sponsors may develop other methods and feedback mechanisms that provide the required parameters and support the training program objectives.
-ER30MR16.116
 End Information
 Begin QPS Requirements
 C. Engine and Airframe Icing Evaluation (Table A1A, Section 2.j.)

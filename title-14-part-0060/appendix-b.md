@@ -23,7 +23,7 @@ Table of Contents
 19. Automatic Loss of Qualification and Procedures for Restoration of Qualification (§ 60.27).
 20. Other Losses of Qualification and Procedures for Restoration of Qualification (§ 60.29).
 21. Record Keeping and Reporting (§ 60.31).
-22. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements (§ 60.33).
+22. [Reserved]
 23. [Reserved]
 24. Levels of FTD.
 25. FTD Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA) (§ 60.37).
@@ -323,10 +323,7 @@ Begin QPS Requirements
 a. FTD modifications can include hardware or software changes. For FTD modifications involving software programming changes, the record required by § 60.31(a)(2) must consist of the name of the aircraft system software, aerodynamic model, or engine model change, the date of the change, a summary of the change, and the reason for the change.
 b. If a coded form for record keeping is used, it must provide for the preservation and retrieval of information with appropriate security or controls to prevent the inappropriate alteration of such records after the fact.
 End QPS Requirements
-22. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements (§ 60.33)
-Begin Information
-No additional regulatory or informational material applies to § 60.33, Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements.
-End Information
+22. [Reserved]
 23. [Reserved]
 24. Levels of FTD.
 Begin Information
@@ -362,37 +359,21 @@ d. Table B1B provides the tasks that the sponsor will examine to determine wheth
 e. Table B1C provides the functions that an instructor/check airman must be able to control in the simulator.
 f. It is not required that all of the tasks that appear on the List of Qualified Tasks (part of the SOQ) be accomplished during the initial or continuing qualification evaluation.
 End Information
-ER09DE22.057
-ER09DE22.058
-ER09DE22.059
-ER09DE22.060
-ER09DE22.061
-ER09DE22.062
-ER09DE22.063
-ER09DE22.064
-ER09DE22.065
-ER09DE22.066
-ER09DE22.067
-ER09DE22.068
-ER09DE22.069
-ER09DE22.070
-ER09DE22.071
-ER20MY16.091
-ER20MY16.092
-ER20MY16.093
 Table B1C—Table of FTD System Tasks QPS requirements
-QPS Requirements | Entry No. | Subjective Requirements In order to be qualified at the FTD qualification level indicated, the FTD must be able to perform at least the tasks associated with that level of qualification. | FTD level | 4 | 5 | 6 | Information | Notes
+QPS Requirements | Information
+Entry No. | Subjective Requirements In order to be qualified at the FTD qualification level indicated, the FTD must be able to perform at least the tasks associated with that level of qualification. | FTD level | Notes
+4 | 5 | 6
 1. Instructor Operating Station (IOS).
-1.a. | Power switch(es) | X | X | X
+1.a. | Power switch(es) | X | X | X |
 1.b. | Airplane conditions | A | X | X | e.g., GW, CG, Fuel loading, Systems, Ground Crew.
 1.c. | Airports/Runways | X | X | X | e.g., Selection and Presets; Surface and Lighting controls if equipped with a visual system.
 1.d. | Environmental controls | X | X | X | e.g., Temp, Wind.
-1.e. | Airplane system malfunctions (Insertion/deletion) | A | X | X
-1.f. | Locks, Freezes, and Repositioning | X | X | X
-1.g. | Sound Controls. (On/off/adjustment) | X | X | X
-1.h. | Motion/Control Loading System, as appropriate. On/off/emergency stop | A | A | A
+1.e. | Airplane system malfunctions (Insertion/deletion) | A | X | X |
+1.f. | Locks, Freezes, and Repositioning | X | X | X |
+1.g. | Sound Controls. (On/off/adjustment) | X | X | X |
+1.h. | Motion/Control Loading System, as appropriate. On/off/emergency stop | A | A | A |
 2. Observer Seats/Stations.
-2.a. | Position/Adjustment/Positive restraint system | X | X | X
+2.a. | Position/Adjustment/Positive restraint system | X | X | X |
 Note 1: An "A" in the table indicates that the system, task, or procedure, although not required to be present, may be examined if the appropriate system is in the FTD and is working properly.
 Attachment 2 to Appendix B to Part 60—Flight Training Device (FTD) Objective Tests
 Begin Information
@@ -433,35 +414,6 @@ Begin Information
 n. In those cases where the objective test results authorize a "snapshot test" or a "series of snapshot test results" in lieu of a time-history result, the sponsor or other data provider must ensure that a steady state condition exists at the instant of time captured by the "snapshot." The steady state condition must exist from 4 seconds prior to, through 1 second following, the instant of time captured by the snap shot.
 o. Refer to AC 120-27, "Aircraft Weight and Balance" and FAA-H-8083-1, "Aircraft Weight and Balance Handbook" for more information.
 End Information
-ER09DE22.072
-ER09DE22.073
-ER09DE22.074
-ER09DE22.075
-ER09DE22.076
-ER09DE22.077
-ER09DE22.078
-ER09DE22.079
-ER09DE22.080
-ER09DE22.081
-ER09DE22.082
-ER09DE22.083
-ER09DE22.084
-ER09DE22.085
-ER09DE22.086
-ER09DE22.087
-ER09DE22.088
-ER09DE22.089
-ER09DE22.090
-ER09DE22.091
-ER09DE22.092
-ER09DE22.093
-ER09DE22.094
-ER09DE22.095
-ER09DE22.096
-ER09DE22.097
-ER09DE22.098
-ER09DE22.099
-ER09DE22.100
 Begin Information
 3. For additional information on the following topics, please refer to Appendix A, Attachment 2, and the indicated paragraph within that attachment
 • Control Dynamics, paragraph 4.
@@ -488,18 +440,6 @@ End QPS Requirements
 Begin Information
 d. The reader is encouraged to consult the Airplane Flight Simulator Evaluation Handbook, Volumes I and II, published by the Royal Aeronautical Society, London, UK, and AC 25-7, Flight Test Guide for Certification of Transport Category Airplanes, and AC 23-8A, Flight Test Guide for Certification of Part 23 Airplanes, as amended, for references and examples regarding flight testing requirements and techniques.
 End Information
-ER20MY16.171
-ER20MY16.137
-ER20MY16.138
-ER20MY16.139
-ER20MY16.140
-ER20MY16.141
-ER20MY16.142
-ER20MY16.143
-ER20MY16.144
-ER20MY16.145
-ER20MY16.146
-ER20MY16.147
 End QPS Requirements
 Begin QPS Requirements
 5. Alternative Data Sources, Procedures, and Instrumentation: Level 6 FTD Only
@@ -519,36 +459,37 @@ g. Utilization of these alternate data sources, procedures, and instrumentation 
 h. The term "inertial measurement system" allows the use of a functional global positioning system (GPS).
 End Information
 Table B2F—Alternative Data Sources, Procedures, and Instrumentation Level 6 FTD
-QPS Requirements The standards in this table are required if the data gathering methods described in paragraph 9 of Appendix B are not used. | Objective test reference number and title | Alternative data sources, procedures, and instrumentation | Information | Notes
+QPS Requirements The standards in this table are required if the data gathering methods described in paragraph 9 of Appendix B are not used. | Information
+Objective test reference number and title | Alternative data sources, procedures, and instrumentation | Notes
 1.b.1. Performance. Takeoff. Ground acceleration time. | Data may be acquired through a synchronized video recording of a stop watch and the calibrated airplane airspeed indicator. Hand-record the flight conditions and airplane configuration | This test is required only if RTO is sought.
 1.b.7. Performance. Takeoff. Rejected takeoff. | Data may be acquired through a synchronized video recording of a stop watch and the calibrated airplane airspeed indicator. Hand-record the flight conditions and airplane configuration | This test is required only if RTO is sought.
-1.c.1. Performance. Climb. Normal climb all engines operating. | Data may be acquired with a synchronized video of calibrated airplane instruments and engine power throughout the climb range
-1.f.1. Performance. Engines. Acceleration | Data may be acquired with a synchronized video recording of engine instruments and throttle position
-1.f.2. Performance. Engines. Deceleration | Data may be acquired with a synchronized video recording of engine instruments and throttle position
+1.c.1. Performance. Climb. Normal climb all engines operating. | Data may be acquired with a synchronized video of calibrated airplane instruments and engine power throughout the climb range |
+1.f.1. Performance. Engines. Acceleration | Data may be acquired with a synchronized video recording of engine instruments and throttle position |
+1.f.2. Performance. Engines. Deceleration | Data may be acquired with a synchronized video recording of engine instruments and throttle position |
 2.a.1.a. Handling qualities. Static control tests. Pitch controller position vs. force and surface position calibration | Surface position data may be acquired from flight data recorder (FDR) sensor or, if no FDR sensor, at selected, significant column positions (encompassing significant column position data points), acceptable to the responsible Flight Standards office, using a control surface protractor on the ground. Force data may be acquired by using a hand held force gauge at the same column position data points. | For airplanes with reversible control systems, surface position data acquisition should be accomplished with winds less than 5 kts.
 2.a.2.a. Handling qualities. Static control tests. Wheel position vs. force and surface position calibration. | Surface position data may be acquired from flight data recorder (FDR) sensor or, if no FDR sensor, at selected, significant wheel positions (encompassing significant wheel position data points), acceptable to the responsible Flight Standards office, using a control surface protractor on the ground. Force data may be acquired by using a hand held force gauge at the same wheel position data points. | For airplanes with reversible control systems, surface position data acquisition should be accomplished with winds less than 5 kts.
 2.a.3.a. Handling qualities. Static control tests. Rudder pedal position vs. force and surface position calibration. | Surface position data may be acquired from flight data recorder (FDR) sensor or, if no FDR sensor, at selected, significant rudder pedal positions (encompassing significant rudder pedal position data points), acceptable to the responsible Flight Standards office, using a control surface protractor on the ground. Force data may be acquired by using a hand held force gauge at the same rudder pedal position data points. | For airplanes with reversible control systems, surface position data acquisition should be accomplished with winds less than 5 kts.
-2.a.4. Handling qualities. Static control tests. Nosewheel steering force. | Breakout data may be acquired with a hand held force gauge. The remainder of the force to the stops may be calculated if the force gauge and a protractor are used to measure force after breakout for at least 25% of the total displacement capability
-2.a.5. Handling qualities. Static control tests. Rudder pedal steering calibration. | Data may be acquired through the use of force pads on the rudder pedals and a pedal position measurement device, together with design data for nosewheel position
-2.a.6. Handling qualities. Static control tests. Pitch trim indicator vs. surface position calibration. | Data may be acquired through calculations
-2.a.8. Handling qualities. Static control tests. Alignment of power lever angle vs. selected engine parameter (e.g., EPR, N 1, Torque, Manifold pressure). | Data may be acquired through the use of a temporary throttle quadrant scale to document throttle position. Use a synchronized video to record steady state instrument readings or hand-record steady state engine performance readings
-2.a.9. Handling qualities. Static control tests. Brake pedal position vs. force. | Use of design or predicted data is acceptable. Data may be acquired by measuring deflection at "zero" and at "maximum."
+2.a.4. Handling qualities. Static control tests. Nosewheel steering force. | Breakout data may be acquired with a hand held force gauge. The remainder of the force to the stops may be calculated if the force gauge and a protractor are used to measure force after breakout for at least 25% of the total displacement capability |
+2.a.5. Handling qualities. Static control tests. Rudder pedal steering calibration. | Data may be acquired through the use of force pads on the rudder pedals and a pedal position measurement device, together with design data for nosewheel position |
+2.a.6. Handling qualities. Static control tests. Pitch trim indicator vs. surface position calibration. | Data may be acquired through calculations |
+2.a.8. Handling qualities. Static control tests. Alignment of power lever angle vs. selected engine parameter (e.g., EPR, N1, Torque, Manifold pressure). | Data may be acquired through the use of a temporary throttle quadrant scale to document throttle position. Use a synchronized video to record steady state instrument readings or hand-record steady state engine performance readings |
+2.a.9. Handling qualities. Static control tests. Brake pedal position vs. force. | Use of design or predicted data is acceptable. Data may be acquired by measuring deflection at "zero" and at "maximum." |
 2.c.1. Handling qualities. Longitudinal control tests. Power change force. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments, throttle position, and the force/position measurements of flight deck controls | Power change dynamics test is acceptable using the same data acquisition methodology.
 2.c.2. Handling qualities. Longitudinal control tests. Flap/slat change force. | Data may be acquired by using an inertial measurement system and a synchronized video of calibrated airplane instruments, flap/slat position, and the force/position measurements of flight deck controls | Flap/slat change dynamics test is acceptable using the same data acquisition methodology.
 2.c.4. Handling qualities. Longitudinal control tests. Gear change force. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments, gear position, and the force/position measurements of flight deck controls | Gear change dynamics test is acceptable using the same data acquisition methodology.
-2.c.5. Handling qualities. Longitudinal control tests. Longitudinal trim. | Data may be acquired through use of an inertial measurement system and a synchronized video of flight deck controls position (previously calibrated to show related surface position) and engine instrument readings
-2.c.6. Handling qualities. Longitudinal control tests. Longitudinal maneuvering stability (stick force/g). | Data may be acquired through the use of an inertial measurement system and a synchronized video of the calibrated airplane instruments; a temporary, high resolution bank angle scale affixed to the attitude indicator; and a wheel and column force measurement indication
-2.c.7. Handling qualities. Longitudinal control tests. Longitudinal static stability | Data may be acquired through the use of a synchronized video of the airplane flight instruments and a hand held force gauge
+2.c.5. Handling qualities. Longitudinal control tests. Longitudinal trim. | Data may be acquired through use of an inertial measurement system and a synchronized video of flight deck controls position (previously calibrated to show related surface position) and engine instrument readings |
+2.c.6. Handling qualities. Longitudinal control tests. Longitudinal maneuvering stability (stick force/g). | Data may be acquired through the use of an inertial measurement system and a synchronized video of the calibrated airplane instruments; a temporary, high resolution bank angle scale affixed to the attitude indicator; and a wheel and column force measurement indication |
+2.c.7. Handling qualities. Longitudinal control tests. Longitudinal static stability | Data may be acquired through the use of a synchronized video of the airplane flight instruments and a hand held force gauge |
 2.c.8. Handling qualities. Longitudinal control tests. Stall Warning (activation of stall warning device). | Data may be acquired through a synchronized video recording of a stop watch and the calibrated airplane airspeed indicator. Hand-record the flight conditions and airplane configuration | Airspeeds may be cross checked with those in the TIR and AFM.
-2.c.9.a. Handling qualities. Longitudinal control tests. Phugoid dynamics. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck controls
-2.c.10. Handling qualities. Longitudinal control tests. Short period dynamics. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck controls
-2.c.11. Handling qualities. Longitudinal control tests. Gear and flap/slat operating times. | May use design data, production flight test schedule, or maintenance specification, together with an SOC
-2.d.2. Handling qualities. Lateral directional tests. Roll response (rate). | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck lateral controls
-2.d.3. Handling qualities. Lateral directional tests. (a) Roll overshoot. OR (b) Roll response to flight deck roll controller step input. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck lateral controls
-2.d.4. Handling qualities. Lateral directional tests. Spiral stability. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments; the force/position measurements of flight deck controls; and a stop watch
-2.d.6.a. Handling qualities. Lateral directional tests. Rudder response. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments; the force/position measurements of rudder pedals
-2.d.7. Handling qualities. Lateral directional tests. Dutch roll, (yaw damper OFF). | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck controls
-2.d.8. Handling qualities. Lateral directional tests. Steady state sideslip. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck controls
+2.c.9.a. Handling qualities. Longitudinal control tests. Phugoid dynamics. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck controls |
+2.c.10. Handling qualities. Longitudinal control tests. Short period dynamics. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck controls |
+2.c.11. Handling qualities. Longitudinal control tests. Gear and flap/slat operating times. | May use design data, production flight test schedule, or maintenance specification, together with an SOC |
+2.d.2. Handling qualities. Lateral directional tests. Roll response (rate). | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck lateral controls |
+2.d.3. Handling qualities. Lateral directional tests. (a) Roll overshoot. OR (b) Roll response to flight deck roll controller step input. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck lateral controls |
+2.d.4. Handling qualities. Lateral directional tests. Spiral stability. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments; the force/position measurements of flight deck controls; and a stop watch |
+2.d.6.a. Handling qualities. Lateral directional tests. Rudder response. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments; the force/position measurements of rudder pedals |
+2.d.7. Handling qualities. Lateral directional tests. Dutch roll, (yaw damper OFF). | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck controls |
+2.d.8. Handling qualities. Lateral directional tests. Steady state sideslip. | Data may be acquired by using an inertial measurement system and a synchronized video of the calibrated airplane instruments and the force/position measurements of flight deck controls |
 Attachment 3 to Appendix B to Part 60—Flight Training Device (FTD) Subjective Evaluation
 Begin Information
 1. Discussion
@@ -557,7 +498,8 @@ b. All simulated airplane systems functions will be assessed for normal and, whe
 c. At the request of the TPAA, the Pilot may assess the FTD for a special aspect of a sponsor's training program during the functions and subjective portion of an evaluation. Such an assessment may include a portion of a specific operation (e.g., a Line Oriented Flight Training (LOFT) scenario) or special emphasis items in the sponsor's training program. Unless directly related to a requirement for the qualification level, the results of such an evaluation would not affect the qualification of the FTD.
 End Information
 Table B3A—Table of Functions and Subjective Tests Level 6 FTD
-QPS requirements | Entry No. | Operations tasks
+QPS requirements
+Entry No. | Operations tasks
 Tasks in this table are subject to evaluation if appropriate for the airplane system or systems simulated as indicated in the SOQ Configuration List as defined in Appendix B, Attachment 2 of this part.
 1. Preflight
 | Accomplish a functions check of all installed switches, indicators, systems, and equipment at all crewmembers' and instructors' stations, and determine that the flight deck (or flight deck area) design and functions replicate the appropriate airplane.
@@ -656,7 +598,8 @@ Tasks in this table are subject to evaluation if appropriate for the airplane sy
 11.b. | Adjustments.
 End QPS Requirements
 Table B3B—Table of Functions and Subjective Tests Level 5 FTD
-QPS requirements | Entry No. | Operations tasks Tasks in this table are subject to evaluation if appropriate for the airplane system or systems simulated as indicated in the SOQ Configuration List as defined in Appendix B, Attachment 2 of this part.
+QPS requirements
+Entry No. | Operations tasks Tasks in this table are subject to evaluation if appropriate for the airplane system or systems simulated as indicated in the SOQ Configuration List as defined in Appendix B, Attachment 2 of this part.
 1. Preflight
 | Accomplish a functions check of all installed switches, indicators, systems, and equipment at all crewmembers' and instructors' stations, and determine that the flight deck (or flight deck area) design and functions replicate the appropriate airplane.
 2. Surface Operations (pre-takeoff)
@@ -686,20 +629,6 @@ QPS requirements | Entry No. | Operations tasks Tasks in this table are subject 
 6.c. | Airplane system malfunctions (Installed systems).
 6.c.1. | Insertion/deletion.
 6.c.2. | Problem clear.
-ER09DE22.102
-ER20MY16.148
-ER20MY16.149
-ER20MY16.150
-ER20MY16.151
-ER20MY16.152
-ER20MY16.153
-ER20MY16.154
-ER20MY16.155
-ER20MY16.156
-ER20MY16.157
-ER20MY16.158
-ER20MY16.159
-ER30MR16.117
 Attachment 4 to Appendix B to Part 60—Sample Documents
 Begin Information
 Table of Contents
@@ -715,23 +644,10 @@ Figure B4H [Reserved]
 Figure B4I Sample MQTG Index of Effective FTD Directives
 Attachment 4 to Appendix B to Part 60—Figure B4A—Sample Letter, Request for Initial, Upgrade, or Reinstatement Evaluation
 Information
-ER09DE22.103
-ER09DE22.104
-ER09MY08.021
-ER09MY08.022
-ER09MY08.023
 Attachment 4 to Appendix B to Part 60—Figure B4C—Sample Letter of Compliance
 Information
-ER09DE22.105
 Attachment 4 to Appendix B to Part 60—Figure B4D—Sample Qualification Test Guide Cover Page
 Information
-ER09DE22.106
 Attachment 4 to Appendix B to Part 60— Figure B4E—Sample Statement of Qualification—Certificate
 Information
-ER09DE22.128
-ER09MY08.028
-ER09MY08.029
-ER09MY08.030
-ER09MY08.031
 Attachment 4 to Appendix B to Part 60—Figure B4H [Reserved]
-ER09MY08.033

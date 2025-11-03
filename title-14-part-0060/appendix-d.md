@@ -23,7 +23,7 @@ Table of Contents
 19. Automatic Loss of Qualification and Procedures for Restoration of Qualification (§ 60.27).
 20. Other Losses of Qualification and Procedures for Restoration of Qualification (§ 60.29).
 21. Recordkeeping and Reporting (§ 60.31).
-22. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements (§ 60.33).
+22. [Reserved]
 23. [Reserved]
 24. Levels of FTD.
 25. FTD Qualification on the Basis of a Bilateral Aviation Safety Agreement (BASA) (§ 60.37).
@@ -340,9 +340,7 @@ Begin QPS Requirements
 a. FTD modifications can include hardware or software changes. For FTD modifications involving software programming changes, the record required by § 60.31(a)(2) must consist of the name of the aircraft system software, aerodynamic model, or engine model change, the date of the change, a summary of the change, and the reason for the change.
 b. If a coded form for record keeping is used, it must provide for the preservation and retrieval of information with appropriate security or controls to prevent the inappropriate alteration of such records after the fact.
 End Information
-22. Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements (§ 60.33)
-Begin Information
-No additional regulatory or informational material applies to § 60.33, Applications, Logbooks, Reports, and Records: Fraud, Falsification, or Incorrect Statements
+22. [Reserved]
 23. [Reserved]
 End Information
 24. Levels of FTD
@@ -380,132 +378,138 @@ e. Table D1C provides the functions that an instructor/check airman must be able
 f. It is not required that all of the tasks that appear on the List of Qualified Tasks (part of the SOQ) be accomplished during the initial or continuing qualification evaluation.
 End Information
 Table D1A—Minimum FTD Requirements
-QPS requirements | Entry No. | General FTD requirements | FTD level | 4 | 5 | 6 | 7 | Information | Notes
+QPS requirements | Information
+Entry No. | General FTD requirements | FTD level | Notes
+4 | 5 | 6 | 7
 1. General Flight Deck Configuration.
 1.a. | The FTD must have a flight deck that is a replica of the helicopter, or set of helicopters simulated with controls, equipment, observable flight deck indicators, circuit breakers, and bulkheads properly located, functionally accurate and replicating the helicopter or set of helicopters. The direction of movement of controls and switches must be identical to that in the helicopter or set of helicopters. Crewmember seats must afford the capability for the occupant to be able to achieve the design "eye position." Equipment for the operation of the flight deck windows must be included, but the actual windows need not be operable. Those circuit breakers that affect procedures or result in observable flight deck indications must be properly located and functionally accurate. Fire axes, extinguishers, landing gear pins, and spare light bulbs must be available, and may be represented in silhouette, in the flight simulator. This equipment must be present as near as practical to the original position | | | X | X | For FTD purposes, the flight deck consists of all that space forward of a cross section of the flight deck at the most extreme aft setting of the pilots' seats including additional, required crewmember duty stations and those required bulkheads aft of the pilot seats. Bulkheads containing only items such as landing gear pin storage compartments, fire axes and extinguishers, spare light bulbs, and aircraft documents pouches are not considered essential and may be omitted. If omitted, these items, or the silhouettes of these items, may be placed on the wall of the simulator, or in any other location as near as practical to the original position of these items.
-1.b. | The FTD must have equipment (i.e., instruments, panels, systems, circuit breakers, and controls) simulated sufficiently for the authorized training/checking events to be accomplished. The installed equipment, must be located in a spatially correct configuration, and may be in a flight deck or an open flight deck area. Those circuit breakers that affect procedures or result in observable flight deck indications must be properly located and functionally accurate. Additional equipment required for the authorized training and checking events must be available in the FTD but may be located in a suitable location as near as practical to the spatially correct position. Actuation of this equipment must replicate the appropriate function in the helicopter. Fire axes, landing gear pins, and any similar purpose instruments need only be represented in silhouette | X | X
+1.b. | The FTD must have equipment (i.e., instruments, panels, systems, circuit breakers, and controls) simulated sufficiently for the authorized training/checking events to be accomplished. The installed equipment, must be located in a spatially correct configuration, and may be in a flight deck or an open flight deck area. Those circuit breakers that affect procedures or result in observable flight deck indications must be properly located and functionally accurate. Additional equipment required for the authorized training and checking events must be available in the FTD but may be located in a suitable location as near as practical to the spatially correct position. Actuation of this equipment must replicate the appropriate function in the helicopter. Fire axes, landing gear pins, and any similar purpose instruments need only be represented in silhouette | X | X | | |
 2. Programming.
-2.a. | The FTD must provide the proper effect of aerodynamic changes for the combinations of drag and thrust normally encountered in flight. This must include the effect of change in helicopter attitude, thrust, drag, altitude, temperature, and configuration. Levels 6 and 7 additionally require the effects of changes in gross weight and center of gravity.Level 5 requires only generic aerodynamic programming. An SOC is required | | X | X | X
-2.b. | The FTD must have the computer (analog or digital) capability (i.e., capacity, accuracy, resolution, and dynamic response) needed to meet the qualification level sought. An SOC is required | X | X | X | X
+2.a. | The FTD must provide the proper effect of aerodynamic changes for the combinations of drag and thrust normally encountered in flight. This must include the effect of change in helicopter attitude, thrust, drag, altitude, temperature, and configuration. Levels 6 and 7 additionally require the effects of changes in gross weight and center of gravity.Level 5 requires only generic aerodynamic programming. An SOC is required | | X | X | X |
+2.b. | The FTD must have the computer (analog or digital) capability (i.e., capacity, accuracy, resolution, and dynamic response) needed to meet the qualification level sought. An SOC is required | X | X | X | X |
 2.c. | Relative responses of the flight deck instruments must be measured by latency tests or transport delay tests, and may not exceed 150 milliseconds. The instruments must respond to abrupt input at the pilot's position within the allotted time, but not before the time that the helicopter or set of helicopters respond under the same conditions • Latency: The FTD instrument and, if applicable, the motion system and the visual system response must not be prior to that time when the helicopter responds and may respond up to 150 milliseconds after that time under the same conditions • Transport Delay: As an alternative to the Latency requirement, a transport delay objective test may be used to demonstrate that the FTD system does not exceed the specified limit. The sponsor must measure all the delay encountered by a step signal migrating from the pilot's control through all the simulation software modules in the correct order, using a handshaking protocol, finally through the normal output interfaces to the instrument display and, if applicable, the motion system, and the visual system | | X | X | X | The intent is to verify that the FTD provides instrument cues that are, within the stated time delays, like the helicopter responses. For helicopter response, acceleration in the appropriate, corresponding rotational axis is preferred.
 3. Equipment Operation.
-3.a. | All relevant instrument indications involved in the simulation of the helicopter must automatically respond to control movement or external disturbances to the simulated helicopter or set of helicopters; e.g., turbulence or winds | A | X | X | X
-3.b. | Navigation equipment must be installed and operate within the tolerances applicable for the helicopter or set of helicopters. Levels 6 and 7 must also include communication equipment (inter-phone and air/ground) like that in the helicopter. Level 5 only needs that navigation equipment necessary to fly an instrument approach | A | X | X | X
-3.c. | Installed systems must simulate the applicable helicopter system operation both on the ground and in flight. At least one helicopter system must be represented. Systems must be operative to the extent that applicable normal, abnormal, and emergency operating procedures included in the sponsor's training programs can be accomplished. Levels 6 and 7 must simulate all applicable helicopter flight, navigation, and systems operation. Level 5 must have functional flight and navigational controls, displays, and instrumentation | A | X | X | X
+3.a. | All relevant instrument indications involved in the simulation of the helicopter must automatically respond to control movement or external disturbances to the simulated helicopter or set of helicopters; e.g., turbulence or winds | A | X | X | X |
+3.b. | Navigation equipment must be installed and operate within the tolerances applicable for the helicopter or set of helicopters. Levels 6 and 7 must also include communication equipment (inter-phone and air/ground) like that in the helicopter. Level 5 only needs that navigation equipment necessary to fly an instrument approach | A | X | X | X |
+3.c. | Installed systems must simulate the applicable helicopter system operation both on the ground and in flight. At least one helicopter system must be represented. Systems must be operative to the extent that applicable normal, abnormal, and emergency operating procedures included in the sponsor's training programs can be accomplished. Levels 6 and 7 must simulate all applicable helicopter flight, navigation, and systems operation. Level 5 must have functional flight and navigational controls, displays, and instrumentation | A | X | X | X |
 3.d. | The lighting environment for panels and instruments must be sufficient for the operation being conducted | X | X | X | X | Back-lighted panels and instruments may be installed but are not required.
-3.e. | The FTD must provide control forces and control travel that correspond to the replicated helicopter or set of helicopters. Control forces must react in the same manner as in the helicopter or set of helicopters under the same flight conditions | | | X | X
-3.f. | The FTD must provide control forces and control travel of sufficient precision to manually fly an instrument approach. The control forces must react in the same manner as in the helicopter or set of helicopters under the same flight conditions | | X
+3.e. | The FTD must provide control forces and control travel that correspond to the replicated helicopter or set of helicopters. Control forces must react in the same manner as in the helicopter or set of helicopters under the same flight conditions | | | X | X |
+3.f. | The FTD must provide control forces and control travel of sufficient precision to manually fly an instrument approach. The control forces must react in the same manner as in the helicopter or set of helicopters under the same flight conditions | | X | | |
 4. Instructor or Evaluator Facilities.
 4.a. | In addition to the flight crewmember stations, suitable seating arrangements for an instructor/check airman and FAA Inspector must be available. These seats must provide adequate view of crewmember's panel(s) | X | X | X | X | These seats need not be a replica of an aircraft seat and may be as simple as an office chair placed in an appropriate position.
-4.b. | The FTD must have instructor controls that permit activation of normal, abnormal, and emergency conditions, as appropriate. Once activated, proper system operation must result from system management by the crew and not require input from the instructor controls. | X | X | X | X
+4.b. | The FTD must have instructor controls that permit activation of normal, abnormal, and emergency conditions, as appropriate. Once activated, proper system operation must result from system management by the crew and not require input from the instructor controls. | X | X | X | X |
 5. Motion System
-5.a. | A motion system may be installed in an FTD. If installed, the motion system operation must not be distracting. If a motion system is installed and additional training, testing, or checking credits are being sought, sensory cues must also be integrated. The motion system must respond to abrupt input at the pilot's position within the allotted time, but not before the time when the helicopter responds under the same conditions. The motion system must be measured by latency tests or transport delay tests and may not exceed 150 milliseconds. Instrument response must not occur prior to motion onset | X | X | X | X
+5.a. | A motion system may be installed in an FTD. If installed, the motion system operation must not be distracting. If a motion system is installed and additional training, testing, or checking credits are being sought, sensory cues must also be integrated. The motion system must respond to abrupt input at the pilot's position within the allotted time, but not before the time when the helicopter responds under the same conditions. The motion system must be measured by latency tests or transport delay tests and may not exceed 150 milliseconds. Instrument response must not occur prior to motion onset | X | X | X | X |
 5.b. | The FTD must have at least a vibration cueing system for characteristic helicopter vibrations noted at the pilot station(s) | | | | X | May be accomplished by a "seat shaker" or a bass speaker sufficient to provide the necessary cueing.
 6. Visual System
-6.a. | The FTD may have a visual system, if desired, although it is not required. If a visual system is installed, it must meet the following criteria:
-6.a.1. | The visual system must respond to abrupt input at the pilot's position. An SOC is required | X | X | X
-6.a.2. | The visual system must be at least a single channel, non-collimated display. An SOC is required | X | X | X
-6.a.3. | The visual system must provide at least a field-of-view of 18° vertical/24° horizontal for the pilot flying. An SOC is required | X | X | X
-6.a.4. | The visual system must provide for a maximum parallax of 10° per pilot. An SOC is required | X | X | X
-6.a.5. | The visual scene content may not be distracting. An SOC is required | X | X | X
-6.a.6. | The minimum distance from the pilot's eye position to the surface of a direct view display may not be less than the distance to any front panel instrument. An SOC is required | X | X | X
-6.a.7. | The visual system must provide for a minimum resolution of 5 arc-minutes for both computed and displayed pixel size. An SOC is required | X | X | X
-6.b. | If a visual system is installed and additional training, testing, or checking credits are being sought on the basis of having a visual system, a visual system meeting the standards set out for at least a Level A FFS (see Appendix A of this part) will be required. A "direct-view," non-collimated visual system (with the other requirements for a Level A visual system met) may be considered satisfactory for those installations where the visual system design "eye point" is appropriately adjusted for each pilot's position such that the parallax error is at or less than 10° simultaneously for each pilot. An SOC is required | X | X | X
+6.a. | The FTD may have a visual system, if desired, although it is not required. If a visual system is installed, it must meet the following criteria: | | | | |
+6.a.1. | The visual system must respond to abrupt input at the pilot's position. An SOC is required | X | X | X | |
+6.a.2. | The visual system must be at least a single channel, non-collimated display. An SOC is required | X | X | X | |
+6.a.3. | The visual system must provide at least a field-of-view of 18° vertical/24° horizontal for the pilot flying. An SOC is required | X | X | X | |
+6.a.4. | The visual system must provide for a maximum parallax of 10° per pilot. An SOC is required | X | X | X | |
+6.a.5. | The visual scene content may not be distracting. An SOC is required | X | X | X | |
+6.a.6. | The minimum distance from the pilot's eye position to the surface of a direct view display may not be less than the distance to any front panel instrument. An SOC is required | X | X | X | |
+6.a.7. | The visual system must provide for a minimum resolution of 5 arc-minutes for both computed and displayed pixel size. An SOC is required | X | X | X | |
+6.b. | If a visual system is installed and additional training, testing, or checking credits are being sought on the basis of having a visual system, a visual system meeting the standards set out for at least a Level A FFS (see Appendix A of this part) will be required. A "direct-view," non-collimated visual system (with the other requirements for a Level A visual system met) may be considered satisfactory for those installations where the visual system design "eye point" is appropriately adjusted for each pilot's position such that the parallax error is at or less than 10° simultaneously for each pilot. An SOC is required | X | X | X | |
 6.c. | The FTD must provide a continuous visual field-of-view of at least 146° horizontally and 36° vertically for both pilot seats, simultaneously. The minimum horizontal field-of-view coverage must be plus and minus one-half (1/2) of the minimum continuous field-of-view requirement, centered on the zero degree azimuth line relative to the aircraft fuselage. Additional horizontal field-of-view capability may be added at the sponsor's discretion provided the minimum field-of-view is retained. Capability for a field-of-view in excess of these minima is not required for qualification at Level 7. However, where specific tasks require extended fields of view beyond the 146° by 36° (e.g., to accommodate the use of "chin windows" where the accommodation is either integral with or separate from the primary visual system display), then such extended fields of view must be provided. An SOC is required and must explain the geometry of the installation. | | | | X | Optimization of the vertical field-of-view may be considered with respect to the specific helicopter flight deck cut-off angle. When considering the installation/use of augmented fields of view, as described here, it will be the responsibility of the sponsor to meet with the responsible Flight Standards office to determine the training, testing, checking, or experience tasks for which the augmented field-of-view capability may be critical to that approval.
 7. Sound System
-7.a. | The FTD must simulate significant flight deck sounds resulting from pilot actions that correspond to those heard in the helicopter | | | X | X
+7.a. | The FTD must simulate significant flight deck sounds resulting from pilot actions that correspond to those heard in the helicopter | | | X | X |
 Note: An "A" in the table indicates that the system, task, or procedure may be examined if the appropriate helicopter system or control is simulated in the FTD and is working properly.
 Table D1B—Minimum FTD Requirements
-QPS requirements | Entry No. | Subjective requirements The FTD must be able to perform the tasks associated with the level of qualification sought. | FTD level | 4 | 5 | 6 | 7 | Information | Notes
+QPS requirements | Information
+Entry No. | Subjective requirements The FTD must be able to perform the tasks associated with the level of qualification sought. | FTD level | Notes
+4 | 5 | 6 | 7
 1. Preflight Procedures
-1.a. | Preflight Inspection (Flight Deck Only) switches, indicators, systems, and equipment | A | A | X | X
-1.b. | APU/Engine start and run-up
-1.b.1. | Normal start procedures | A | A | X | X
-1.b.2. | Alternate start procedures | A | A | X | X
-1.b.3. | Abnormal starts and shutdowns (hot start, hung start) | A | A | X | X
-1.c. | Taxiing—Ground | | | | X
-1.d. | Taxiing—Hover | | | | X
-1.e. | Pre-takeoff Checks | A | A | X | X
+1.a. | Preflight Inspection (Flight Deck Only) switches, indicators, systems, and equipment | A | A | X | X |
+1.b. | APU/Engine start and run-up | | | | |
+1.b.1. | Normal start procedures | A | A | X | X |
+1.b.2. | Alternate start procedures | A | A | X | X |
+1.b.3. | Abnormal starts and shutdowns (hot start, hung start) | A | A | X | X |
+1.c. | Taxiing—Ground | | | | X |
+1.d. | Taxiing—Hover | | | | X |
+1.e. | Pre-takeoff Checks | A | A | X | X |
 2. Takeoff and Departure Phase
-2.a. | Normal takeoff
-2.a.1. | From ground | | | | X
-2.a.2. | From hover | | | | X
-2.a.3 | Running | | | | X
-2.b. | Instrument | | | X | X
-2.c. | Powerplant Failure During Takeoff | | | X | X
-2.d. | Rejected Takeoff | | | | X
-2.e. | Instrument Departure | | | X | X
+2.a. | Normal takeoff | | | | |
+2.a.1. | From ground | | | | X |
+2.a.2. | From hover | | | | X |
+2.a.3 | Running | | | | X |
+2.b. | Instrument | | | X | X |
+2.c. | Powerplant Failure During Takeoff | | | X | X |
+2.d. | Rejected Takeoff | | | | X |
+2.e. | Instrument Departure | | | X | X |
 3. Climb
-3.a. | Normal | | | X | X
-3.b. | Obstacle clearance | | | | X
-3.c. | Vertical | | | X | X
-3.d. | One engine inoperative | | | X | X
+3.a. | Normal | | | X | X |
+3.b. | Obstacle clearance | | | | X |
+3.c. | Vertical | | | X | X |
+3.d. | One engine inoperative | | | X | X |
 4. In-flight Maneuvers
-4.a. | Turns (timed, normal, steep) | | X | X | X
-4.b. | Powerplant Failure—Multiengine Helicopters | | | X | X
-4.c. | Powerplant Failure—Single-Engine Helicopters | | | X | X
-4.d. | Recovery From Unusual Attitudes | | | | X
-4.e. | Settling with Power | | | | X
+4.a. | Turns (timed, normal, steep) | | X | X | X |
+4.b. | Powerplant Failure—Multiengine Helicopters | | | X | X |
+4.c. | Powerplant Failure—Single-Engine Helicopters | | | X | X |
+4.d. | Recovery From Unusual Attitudes | | | | X |
+4.e. | Settling with Power | | | | X |
 5. Instrument Procedures
-5.a. | Instrument Arrival | | | X | X
-5.b. | Holding | | | X | X
-5.c. | Precision Instrument Approach
-5.c.1. | Normal—All engines operating | | X | X | X
-5.c.2. | Manually controlled—One or more engines inoperative | | | X | X
-5.d. | Non-precision Instrument Approach | | X | X | X
-5.e. | Missed Approach.
-5.e.1. | All engines operating | | | X | X
-5.e.2. | One or more engines inoperative | | | X | X
-5.e.3. | Stability augmentation system failure | | | X | X
+5.a. | Instrument Arrival | | | X | X |
+5.b. | Holding | | | X | X |
+5.c. | Precision Instrument Approach | | | | |
+5.c.1. | Normal—All engines operating | | X | X | X |
+5.c.2. | Manually controlled—One or more engines inoperative | | | X | X |
+5.d. | Non-precision Instrument Approach | | X | X | X |
+5.e. | Missed Approach. | | | | |
+5.e.1. | All engines operating | | | X | X |
+5.e.2. | One or more engines inoperative | | | X | X |
+5.e.3. | Stability augmentation system failure | | | X | X |
 6. Landings and Approaches to Landings
-6.a. | Visual Approaches (normal, steep, shallow) | | X | X | X
-6.b. | Landings.
-6.b.1. | Normal/crosswind.
-6.b.1.a. | Running | | | | X
-6.b.1.b. | From Hover | | | | X
-6.b.2. | One or more engines inoperative | | | | X
-6.b.3. | Rejected Landing | | | | X
+6.a. | Visual Approaches (normal, steep, shallow) | | X | X | X |
+6.b. | Landings. | | | | |
+6.b.1. | Normal/crosswind. | | | | |
+6.b.1.a. | Running | | | | X |
+6.b.1.b. | From Hover | | | | X |
+6.b.2. | One or more engines inoperative | | | | X |
+6.b.3. | Rejected Landing | | | | X |
 7. Normal and Abnormal Procedures
-7.a. | Powerplant | A | A | X | X
-7.b. | Fuel System | A | A | X | X
-7.c. | Electrical System | A | A | X | X
-7.d. | Hydraulic System | A | A | X | X
-7.e. | Environmental System(s) | A | A | X | X
-7.f. | Fire Detection and Extinguisher Systems | A | A | X | X
-7.g. | Navigation and Aviation Systems | A | A | X | X
-7.h. | Automatic Flight Control System, Electronic Flight Instrument System, and Related Subsystems | A | A | X | X
-7.i. | Flight Control Systems | A | A | X | X
-7.j. | Anti-ice and Deice Systems | A | A | X | X
-7.k. | Aircraft and Personal Emergency Equipment | A | A | X | X
-7.l. | Special Missions tasks (e.g., Night Vision goggles, Forward Looking Infrared System, External Loads and as listed on the SOQ.) | | | | X
+7.a. | Powerplant | A | A | X | X |
+7.b. | Fuel System | A | A | X | X |
+7.c. | Electrical System | A | A | X | X |
+7.d. | Hydraulic System | A | A | X | X |
+7.e. | Environmental System(s) | A | A | X | X |
+7.f. | Fire Detection and Extinguisher Systems | A | A | X | X |
+7.g. | Navigation and Aviation Systems | A | A | X | X |
+7.h. | Automatic Flight Control System, Electronic Flight Instrument System, and Related Subsystems | A | A | X | X |
+7.i. | Flight Control Systems | A | A | X | X |
+7.j. | Anti-ice and Deice Systems | A | A | X | X |
+7.k. | Aircraft and Personal Emergency Equipment | A | A | X | X |
+7.l. | Special Missions tasks (e.g., Night Vision goggles, Forward Looking Infrared System, External Loads and as listed on the SOQ.) | | | | X |
 8. Emergency procedures (as applicable)
-8.a. | Emergency Descent | | | X | X
-8.b. | Inflight Fire and Smoke Removal | | | X | X
-8.c. | Emergency Evacuation | | | X | X
-8.d. | Ditching | | | | X
-8.e. | Autorotative Landing | | | | X
-8.f. | Retreating blade stall recovery | | | | X
-8.g. | Mast bumping | | | | X
-8.h. | Loss of tail rotor effectiveness | | | X | X
+8.a. | Emergency Descent | | | X | X |
+8.b. | Inflight Fire and Smoke Removal | | | X | X |
+8.c. | Emergency Evacuation | | | X | X |
+8.d. | Ditching | | | | X |
+8.e. | Autorotative Landing | | | | X |
+8.f. | Retreating blade stall recovery | | | | X |
+8.g. | Mast bumping | | | | X |
+8.h. | Loss of tail rotor effectiveness | | | X | X |
 9. Postflight Procedures
-9.a. | After-Landing Procedures | A | A | X | X
-9.b. | Parking and Securing
-9.b.1. | Rotor brake operation | A | A | X | X
-9.b.2. | Abnormal/emergency procedures | A | A | X | X
+9.a. | After-Landing Procedures | A | A | X | X |
+9.b. | Parking and Securing | | | | |
+9.b.1. | Rotor brake operation | A | A | X | X |
+9.b.2. | Abnormal/emergency procedures | A | A | X | X |
 Note: An "A" in the table indicates that the system, task, or procedure may be examined if the appropriate aircraft system or control is simulated in the FTD and is working properly.
 Table D1C—Table of FTD System Tasks
-QPS requirements | Entry No. | Subjective requirements In order to be qualified at the FTD qualification level indicated, the FTD must be able to perform at least the tasks associate with that level of qualification. | FTD level | 4 | 5 | 6 | 7 | Information | Notes
+QPS requirements | Information
+Entry No. | Subjective requirements In order to be qualified at the FTD qualification level indicated, the FTD must be able to perform at least the tasks associate with that level of qualification. | FTD level | Notes
+4 | 5 | 6 | 7
 1. Instructor Operating Station (IOS)
-1.a. | Power switch(es) | A | X | X | X
+1.a. | Power switch(es) | A | X | X | X |
 1.b. | Helicopter conditions | A | A | X | X | e.g., GW, CG, Fuel loading, Systems, Ground. Crew.
 1.c. | Airports/Heliports/Helicopter Landing Areas | A | X | X | X | e.g., Selection, Surface, Presets, Lighting controls.
 1.d. | Environmental controls | A | X | X | X | e.g., Temp and Wind.
-1.e. | Helicopter system malfunctions (Insertion/deletion) | A | A | X | X
-1.f. | Locks, Freezes, and Repositioning (as appropriate) | A | X | X | X
-1.g. | Sound Controls. (On/off/adjustment) | | X | X | X
-1.h. | Motion/Control Loading System, as appropriate. On/off/emergency stop | | A | X | X
+1.e. | Helicopter system malfunctions (Insertion/deletion) | A | A | X | X |
+1.f. | Locks, Freezes, and Repositioning (as appropriate) | A | X | X | X |
+1.g. | Sound Controls. (On/off/adjustment) | | X | X | X |
+1.h. | Motion/Control Loading System, as appropriate. On/off/emergency stop | | A | X | X |
 2. Observer Seats/Stations
-2.a. | Position/Adjustment/Positive restraint system | A | X | X | X
+2.a. | Position/Adjustment/Positive restraint system | A | X | X | X |
 Note: An "A" in the table indicates that the system, task, or procedure may be examined if the appropriate simulator system or control is in the FTD and is working properly.
 Attachment 2 to Appendix D to Part 60—Flight Training Device (FTD) Objective Tests
 Begin Information
@@ -536,74 +540,76 @@ l. In those cases where the objective test results authorize a "snapshot test" o
 m. Refer to AC 120-27, Aircraft Weight and Balance; and FAA-H-8083-1, Aircraft Weight and Balance Handbook, for more information.
 End Information
 Table D2A—Flight Training Device (FTD) Objective Tests
-QPS requirements | Test | Entry No. | Title | Tolerances | Flight conditions | Test details | FTD level | 5 | 6 | 7 | Information | Notes
+QPS requirements | Information
+Test | Tolerances | Flight conditions | Test details | FTD level | Notes
+Entry No. | Title | 5 | 6 | 7
 1. | Performance
 1.a. | Engine Assessment.
 1.a.1. | Start Operations.
-1.a.1.a. | Engine start and acceleration (transient) | Light Off Time—±10% or ±1 sec. Torque—±5% Rotor Speed—±3% Fuel Flow—±10% Gas Generator Speed—±5% Power Turbine Speed—±5% Gas Turbine Temp—±30 °C | Ground with the Rotor Brake Used and Not Used | Record each engine start from the initiation of the start sequence to steady state idle and from steady state idle to operating RPM | | X | X
-1.a.1.b. | Steady State Idle and Operating RPM conditions | Torque—±3% Rotor Speed—±1.5% Fuel Flow—±5% Gas Generator Speed—±2% Power Turbine Speed—±2% Turbine Gas Temp—±20 °C | Ground | Record both steady state idle and operating RPM conditions. May be a series of snapshot tests | X | X | X
-1.a.2. | Power Turbine Speed Trim | ±10% of total change of power turbine speed; or ±0.5% change of rotor speed | Ground | Record engine response to trim system actuation in both directions | | X | X
-1.a.3. | Engine and Rotor Speed Governing | Torque—±5% Rotor Speed—±1.5% | Climb Descent | Record results using a step input to the collective. May be conducted concurrently with climb and descent performance tests | | X | X
+1.a.1.a. | Engine start and acceleration (transient) | Light Off Time—±10% or ±1 sec. Torque—±5% Rotor Speed—±3% Fuel Flow—±10% Gas Generator Speed—±5% Power Turbine Speed—±5% Gas Turbine Temp—±30 °C | Ground with the Rotor Brake Used and Not Used | Record each engine start from the initiation of the start sequence to steady state idle and from steady state idle to operating RPM | | X | X |
+1.a.1.b. | Steady State Idle and Operating RPM conditions | Torque—±3% Rotor Speed—±1.5% Fuel Flow—±5% Gas Generator Speed—±2% Power Turbine Speed—±2% Turbine Gas Temp—±20 °C | Ground | Record both steady state idle and operating RPM conditions. May be a series of snapshot tests | X | X | X |
+1.a.2. | Power Turbine Speed Trim | ±10% of total change of power turbine speed; or ±0.5% change of rotor speed | Ground | Record engine response to trim system actuation in both directions | | X | X |
+1.a.3. | Engine and Rotor Speed Governing | Torque—±5% Rotor Speed—±1.5% | Climb Descent | Record results using a step input to the collective. May be conducted concurrently with climb and descent performance tests | | X | X |
 1.b. | Reserved.
 1.c. | Takeoff.
-1.c.1. | All Engines | Airspeed—±3 kt, Altitude—±20 ft (6.1 m) Torque—±3%, Rotor Speed—±1.5%, Vertical Velocity—±100 fpm (0.50 m/sec) or 10%, Pitch Attitude—±1.5°, Bank Attitude—±2°, Heading—±2°, Longitudinal Control Position—±10%, Lateral Control Position—±10%, Directional Control Position—±10%, Collective Control Position—±10% | Ground/Takeoff and Initial Segment of Climb | Record results of takeoff flight path (running takeoff and takeoff from a hover). The criteria apply only to those segments at airspeeds above effective translational lift. Results must be recorded from the initiation of the takeoff to at least 200 ft (61 m) AGL | | | X
+1.c.1. | All Engines | Airspeed—±3 kt, Altitude—±20 ft (6.1 m) Torque—±3%, Rotor Speed—±1.5%, Vertical Velocity—±100 fpm (0.50 m/sec) or 10%, Pitch Attitude—±1.5°, Bank Attitude—±2°, Heading—±2°, Longitudinal Control Position—±10%, Lateral Control Position—±10%, Directional Control Position—±10%, Collective Control Position—±10% | Ground/Takeoff and Initial Segment of Climb | Record results of takeoff flight path (running takeoff and takeoff from a hover). The criteria apply only to those segments at airspeeds above effective translational lift. Results must be recorded from the initiation of the takeoff to at least 200 ft (61 m) AGL | | | X |
 1.c.2. through 1.c.3 | Reserved.
 1.d. | Hover.
-| Performance | Torque—±3%, Pitch Attitude—±1.5°, Bank Attitude—±1.5°, Longitudinal Control Position—±5%, Lateral Control Position—±5%, Directional Control Position—±5%, Collective Control Position—±5% | In Ground Effect (IGE); and Out of Ground Effect (OGE) | Record results for light and heavy gross weights. May be a series of snapshot tests | | | X
+| Performance | Torque—±3%, Pitch Attitude—±1.5°, Bank Attitude—±1.5°, Longitudinal Control Position—±5%, Lateral Control Position—±5%, Directional Control Position—±5%, Collective Control Position—±5% | In Ground Effect (IGE); and Out of Ground Effect (OGE) | Record results for light and heavy gross weights. May be a series of snapshot tests | | | X |
 1.e. | Vertical Climb.
-| Performance | Vertical Velocity—±100 fpm (0.50 m/sec) or ±10%, Directional Control Position—±5%, Collective Control Position—±5% | From OGE Hover | Record results for light and heavy gross weights. May be a series of snapshot tests | | | X
+| Performance | Vertical Velocity—±100 fpm (0.50 m/sec) or ±10%, Directional Control Position—±5%, Collective Control Position—±5% | From OGE Hover | Record results for light and heavy gross weights. May be a series of snapshot tests | | | X |
 1.f. | Level Flight.
 | Performance and Trimmed Flight Control Positions | Torque—±3% Pitch Attitude—±1.5° Sideslip Angle—±2° Longitudinal Control Position—±5% Lateral Control position—±5% Directional Control Position—±5% Collective Control Position—±5% | Cruise (Augmentation On and Off) | Record results for two gross weight and CG combinations with varying trim speeds throughout the airspeed envelope. May be a series of snapshot tests | X | X | X | This test validates performance at speeds above maximum endurance airspeed.
 1.g. | Climb.
-| Performance and Trimmed Flight Control Positions | Vertical Velocity—±100 fpm (61 m/sec) or ±10% Pitch Attitude—±1.5° Sideslip Angle—±2° Longitudinal Control Position—±5% Lateral Control Position—±5% Directional Control Position—±5% Collective Control Position—±5% | All engines operating One engine inoperative Augmentation System(s) On and Off | Record results for two gross weight and CG combinations. The data presented must be for normal climb power conditions. May be a series of snapshot tests | X | X | X
+| Performance and Trimmed Flight Control Positions | Vertical Velocity—±100 fpm (61 m/sec) or ±10% Pitch Attitude—±1.5° Sideslip Angle—±2° Longitudinal Control Position—±5% Lateral Control Position—±5% Directional Control Position—±5% Collective Control Position—±5% | All engines operating One engine inoperative Augmentation System(s) On and Off | Record results for two gross weight and CG combinations. The data presented must be for normal climb power conditions. May be a series of snapshot tests | X | X | X |
 1.h. | Descent.
-1.h.1. | Descent Performance and Trimmed Flight Control Positions | Torque—±3% Pitch Attitude—±1.5° Sideslip Angle—±2° Longitudinal Control Position—±5% Lateral Control Position—±5% Directional Control Position—±5% Collective Control Position—±5% | At or near 1,000 fpm (5 m/sec) rate of descent (RoD) at normal approach speed Augmentation System(s) On and Off | Record results for two gross weight and CG combinations. May be a series of snapshot tests | X | X | X
-1.h.2. | Autorotation Performance and Trimmed Flight Control Positions | Pitch Attitude—±1.5° Sideslip Angle—±2° Longitudinal Control Position—±5% Lateral Control Position—±5% Directional Control Position—±5% Collective Control Position—±5% | Steady descents. Augmentation System(s) On and Off | Record results for two gross weight conditions. Data must be recorded for normal operating RPM. (Rotor speed tolerance applies only if collective control position is full down.) Data must be recorded for speeds from 50 kts, ±5 kts through at least maximum glide distance airspeed. May be a series of snapshot tests | X | X | X
+1.h.1. | Descent Performance and Trimmed Flight Control Positions | Torque—±3% Pitch Attitude—±1.5° Sideslip Angle—±2° Longitudinal Control Position—±5% Lateral Control Position—±5% Directional Control Position—±5% Collective Control Position—±5% | At or near 1,000 fpm (5 m/sec) rate of descent (RoD) at normal approach speed Augmentation System(s) On and Off | Record results for two gross weight and CG combinations. May be a series of snapshot tests | X | X | X |
+1.h.2. | Autorotation Performance and Trimmed Flight Control Positions | Pitch Attitude—±1.5° Sideslip Angle—±2° Longitudinal Control Position—±5% Lateral Control Position—±5% Directional Control Position—±5% Collective Control Position—±5% | Steady descents. Augmentation System(s) On and Off | Record results for two gross weight conditions. Data must be recorded for normal operating RPM. (Rotor speed tolerance applies only if collective control position is full down.) Data must be recorded for speeds from 50 kts, ±5 kts through at least maximum glide distance airspeed. May be a series of snapshot tests | X | X | X |
 1.i. | Autorotation.
-| Entry | Rotor Speed—±3% Pitch Attitude ±2° Roll Attitude—±3° Yaw Attitude—±5° Airspeed—±5 kts. Vertical Velocity—±200 fpm (1.00 m/sec) or 10% | Cruise; or Climb | Record results of a rapid throttle reduction to idle. If accomplished in cruise, results must be for the maximum range airspeed. If accomplished in climb, results must be for the maximum rate of climb airspeed at or near maximum continuous power | | X | X
+| Entry | Rotor Speed—±3% Pitch Attitude ±2° Roll Attitude—±3° Yaw Attitude—±5° Airspeed—±5 kts. Vertical Velocity—±200 fpm (1.00 m/sec) or 10% | Cruise; or Climb | Record results of a rapid throttle reduction to idle. If accomplished in cruise, results must be for the maximum range airspeed. If accomplished in climb, results must be for the maximum rate of climb airspeed at or near maximum continuous power | | X | X |
 1.j. | Landing.
-1.j.1. | All Engines | Airspeed—±3 kts, Altitude—±20 ft (6.1 m) Torque—±3%, Rotor Speed—±1.5%, Pitch Attitude—±1.5°, Bank Attitude—±1.5°, Heading—±2°, Longitudinal Control Position—±10%, Lateral Control Position—±10%, Directional Control Position—±10%, Collective Control Position—±10% | Approach | Record results of the approach and landing profile (running landing or approach to a hover). The criteria apply only to those segments at airspeeds above effective translational lift. Record the results from 200 ft AGL (61 m) to the landing or to where the hover is established prior to landing | | | X
+1.j.1. | All Engines | Airspeed—±3 kts, Altitude—±20 ft (6.1 m) Torque—±3%, Rotor Speed—±1.5%, Pitch Attitude—±1.5°, Bank Attitude—±1.5°, Heading—±2°, Longitudinal Control Position—±10%, Lateral Control Position—±10%, Directional Control Position—±10%, Collective Control Position—±10% | Approach | Record results of the approach and landing profile (running landing or approach to a hover). The criteria apply only to those segments at airspeeds above effective translational lift. Record the results from 200 ft AGL (61 m) to the landing or to where the hover is established prior to landing | | | X |
 1.j.2. through 1.j.3 | Reserved.
 1.j.4. | Autorotational Landing. | Torque—±3%, Rotor Speed—±3%, Vertical Velocity—±100 fpm (0.50 m/sec) or 10%, Pitch Attitude—±2°, Bank Attitude—±2°, Heading—±5°, Longitudinal Control Position—±10%, Lateral Control Position—±10%, Directional Control Position—±10%, Collective Control Position—±10%. | Landing. | Record the results of an autorotational deceleration and landing from a stabilized autorotational descent, to touch down. | | | X | If flight test data containing all required parameters for a complete power-off landing is not available from the aircraft manufacturer for this test, and other qualified flight test personnel are not available to acquire this data, the sponsor must coordinate with the responsible Flight Standards office to determine if it would be appropriate to accept alternative testing means. Alternative approaches to this data acquisition that may be acceptable are: (1) a simulated autorotational flare and reduction of rate of descent (ROD) at altitude; or (2) a power-on termination following an autorotational approach and flare.
 2. | Handling Qualities
-2.a. | Control System Mechanical Characteristics. | Contact the responsible Flight Standards office for clarification of any issue regarding helicopters with reversible controls.
-2.a.1. | Cyclic | Breakout—±0.25 lbs (0.112 daN) or 25%. Force—±1.0 lb (0.224 daN) or 10% | Ground; Static conditions. Trim On and Off. Friction Off. Augmentation On and Off | Record results for an uninterrupted control sweep to the stops. (This test does not apply if aircraft hardware modular controllers are used.) | X | X | X
-2.a.2. | Collective and Pedals | Breakout—±0.5 lb (0.224 daN) or 25%. Force—±1.0 lb (0.224 daN) or 10% | Ground; Static conditions. Trim On and Off. Friction Off. Augmentation On and Off | Record results for an uninterrupted control sweep to the stops | X | X | X
-2.a.3. | Brake Pedal Force vs. Position | ±5 lbs (2.224 daN) or 10% | Ground; Static conditions | | X | X | X
-2.a.4. | Trim System Rate (all applicable systems) | Rate—±10% | Ground; Static conditions. Trim On. Friction Off | The tolerance applies to the recorded value of the trim rate | X | X | X
+2.a. | Control System Mechanical Characteristics. | Contact the responsible Flight Standards office for clarification of any issue regarding helicopters with reversible controls. | | | | | |
+2.a.1. | Cyclic | Breakout—±0.25 lbs (0.112 daN) or 25%. Force—±1.0 lb (0.224 daN) or 10% | Ground; Static conditions. Trim On and Off. Friction Off. Augmentation On and Off | Record results for an uninterrupted control sweep to the stops. (This test does not apply if aircraft hardware modular controllers are used.) | X | X | X |
+2.a.2. | Collective and Pedals | Breakout—±0.5 lb (0.224 daN) or 25%. Force—±1.0 lb (0.224 daN) or 10% | Ground; Static conditions. Trim On and Off. Friction Off. Augmentation On and Off | Record results for an uninterrupted control sweep to the stops | X | X | X |
+2.a.3. | Brake Pedal Force vs. Position | ±5 lbs (2.224 daN) or 10% | Ground; Static conditions | | X | X | X |
+2.a.4. | Trim System Rate (all applicable systems) | Rate—±10% | Ground; Static conditions. Trim On. Friction Off | The tolerance applies to the recorded value of the trim rate | X | X | X |
 2.a.5. | Control Dynamics (all axes) | ±10% of time for first zero crossing and ±10 (N + 1)% of period thereafter. ±10% of amplitude of first overshoot. ±20% of amplitude of 2nd and subsequent overshoots greater than 5% of initial displacement. ±1 overshoot | Hover/Cruise Trim On Friction Off | Results must be recorded for a normal control displacement in both directions in each axis, using 25% to 50% of full throw | | X | X | Control Dynamics for irreversible control systems may be evaluated in a ground/static condition. Refer to paragraph 3 of this attachment for additional information. "N" is the sequential period of a full cycle of oscillation.
-2.a.6. | Freeplay | ±0.10 in. (±2.5 mm) | Ground; Static conditions | Record and compare results for all controls | X | X | X
+2.a.6. | Freeplay | ±0.10 in. (±2.5 mm) | Ground; Static conditions | Record and compare results for all controls | X | X | X |
 2.b. | Low Airspeed Handling Qualities.
-2.b.1. | Trimmed Flight Control Positions | Torque ±3% Pitch Attitude ±1.5° Bank Attitude ±2° Longitudinal Control Position ±5% Lateral Control Position ±5% Directional Control Position ±5% Collective Control Position ±5% | Translational Flight IGE—Sideward, rearward, and forward flight. Augmentation On and Off | Record results for several airspeed increments to the translational airspeed limits and for 45 kts. forward airspeed. May be a series of snapshot tests | | | X
-2.b.2. | Critical Azimuth | Torque ±3% Pitch Attitude ±1.5°, Bank Attitude ±2°, Longitudinal Control Position ±5%, Lateral Control Position ±5%, Directional Control Position ±5%, Collective Control Position ±5% | Stationary Hover. Augmentation On and Off | Record results for three relative wind directions (including the most critical case) in the critical quadrant. May be a series of snapshot tests | | | X
+2.b.1. | Trimmed Flight Control Positions | Torque ±3% Pitch Attitude ±1.5° Bank Attitude ±2° Longitudinal Control Position ±5% Lateral Control Position ±5% Directional Control Position ±5% Collective Control Position ±5% | Translational Flight IGE—Sideward, rearward, and forward flight. Augmentation On and Off | Record results for several airspeed increments to the translational airspeed limits and for 45 kts. forward airspeed. May be a series of snapshot tests | | | X |
+2.b.2. | Critical Azimuth | Torque ±3% Pitch Attitude ±1.5°, Bank Attitude ±2°, Longitudinal Control Position ±5%, Lateral Control Position ±5%, Directional Control Position ±5%, Collective Control Position ±5% | Stationary Hover. Augmentation On and Off | Record results for three relative wind directions (including the most critical case) in the critical quadrant. May be a series of snapshot tests | | | X |
 2.b.3. | Control Response.
 2.b.3.a. | Longitudinal | Pitch Rate—±10% or ±2°/sec. Pitch Attitude Change—±10% or 1.5° | Hover. Augmentation On and Off | Record results for a step control input. The Off-axis response must show correct trend for unaugmented cases. This test must be conducted in a hover, in ground effect, without entering translational flight | | | X | This is a "short time" test.
 2.b.3.b. | Lateral | Roll Rate—±10% or ±3°/sec. Roll Attitude Change—±10% or ±3° | Hover Augmentation On and Off | Record results for a step control input. The Off-axis response must show correct trend for unaugmented cases | | | X | This is a "short time" test conducted in a hover, in ground effect, without entering translational flight, to provide better visual reference.
 2.b.3.c. | Directional | Yaw Rate—±10% or ±2°/sec. Heading Change—±10% or ±2° | Hover Augmentation On and Off | Record results for a step control input. The Off-axis response must show correct trend for unaugmented cases. This test must be conducted in a hover, in ground effect, without entering translational flight | | | X | This is a "short time" test.
-2.b.3.d. | Vertical | Normal Acceleration ±0.1g | Hover Augmentation On and Off | Record results for a step control input. The Off-axis response must show correct trend for unaugmented cases | | | X
+2.b.3.d. | Vertical | Normal Acceleration ±0.1g | Hover Augmentation On and Off | Record results for a step control input. The Off-axis response must show correct trend for unaugmented cases | | | X |
 2.c. | Longitudinal Handling Qualities.
-2.c.1. | Control Response | Pitch Rate—±10% or ±2°/sec. Pitch Attitude Change—±10% or ±1.5° | Cruise Augmentation On and Off | Results must be recorded for two cruise airspeeds to include minimum power required speed. Record data for a step control input. The Off-axis response must show correct trend for unaugmented cases | X | X | X
-2.c.2. | Static Stability | Longitudinal Control Position: ±10% of change from trim or ±0.25 in. (6.3 mm) or Longitudinal Control Force: ±0.5 lb. (0.223 daN) or ±10% | Cruise or Climb. Autorotation. Augmentation On and Off | Record results for a minimum of two speeds on each side of the trim speed. May be a series of snapshot tests | X | X | X
+2.c.1. | Control Response | Pitch Rate—±10% or ±2°/sec. Pitch Attitude Change—±10% or ±1.5° | Cruise Augmentation On and Off | Results must be recorded for two cruise airspeeds to include minimum power required speed. Record data for a step control input. The Off-axis response must show correct trend for unaugmented cases | X | X | X |
+2.c.2. | Static Stability | Longitudinal Control Position: ±10% of change from trim or ±0.25 in. (6.3 mm) or Longitudinal Control Force: ±0.5 lb. (0.223 daN) or ±10% | Cruise or Climb. Autorotation. Augmentation On and Off | Record results for a minimum of two speeds on each side of the trim speed. May be a series of snapshot tests | X | X | X |
 2.c.3. | Dynamic Stability.
 2.c.3.a. | Long Term Response | ±10% of calculated period. ±10% of time to 1/2 or double amplitude, or ±0.02 of damping ratio. For non-periodic responses, the time history must be matched within ±3° pitch; and ±5 kts airspeed over a 20 sec period following release of the controls | Cruise Augmentation On and Off | Record results for three full cycles (6 overshoots after input completed) or that sufficient to determine time to 1/2 or double amplitude, whichever is less. For non-periodic responses, the test may be terminated prior to 20 sec if the test pilot determines that the results are becoming uncontrollably divergent. Displace the cyclic for one second or less to excite the test. The result will be either convergent or divergent and must be recorded. If this method fails to excite the test, displace the cyclic to the predetermined maximum desired pitch attitude and return to the original position. If this method is used, record the results | X | X | X | The response for certain helicopters may be unrepeatable throughout the stated time. In these cases, the test should show at least that a divergence is identifiable. For example: Displacing the cyclic for a given time normally excites this test or until a given pitch attitude is achieved and then return the cyclic to the original position. For non-periodic responses, results should show the same convergent or divergent character as the flight test data.
 2.c.3.b. | Short Term Response | ±1.5° Pitch or ±2°/sec. Pitch Rate. ±0.1 g Normal Acceleration | Cruise or Climb. Augmentation On and Off | Record results for at least two airspeeds | | X | X | A control doublet inserted at the natural frequency of the aircraft normally excites this test. However, while input doublets are preferred over pulse inputs for Augmentation-Off tests, for Augmentation-On cases, when the short term response exhibits 1st-order or deadbeat characteristics, longitudinal pulse inputs may produce a more coherent response.
-2.c.4. | Maneuvering Stability | Longitudinal Control Position—±10% of change from trim or ±0.25 in. (6.3 mm) or Longitudinal Control Forces—±0.5 lb. (0.223 daN) or ±10% | Cruise or Climb. Augmentation On and Off | Record results for at least two airspeeds at 30°-45° bank angle. The force may be shown as a cross plot for irreversible systems. May be a series of snapshot tests | | X | X
+2.c.4. | Maneuvering Stability | Longitudinal Control Position—±10% of change from trim or ±0.25 in. (6.3 mm) or Longitudinal Control Forces—±0.5 lb. (0.223 daN) or ±10% | Cruise or Climb. Augmentation On and Off | Record results for at least two airspeeds at 30°-45° bank angle. The force may be shown as a cross plot for irreversible systems. May be a series of snapshot tests | | X | X |
 2.d. | Lateral and Directional Handling Qualities.
 2.d.1. | Control Response.
-2.d.1.a. | Lateral | Roll Rate—±10% or ±3°/sec. Roll Attitude Change—±10% or ±3° | Cruise Augmentation On and Offd | Record results for at least two airspeeds, including the speed at or near the minimum power required airspeed. Record results for a step control input. The Off-axis response must show correct trend for unaugmented cases | X | X | X
-2.d.1.b. | Directional | Yaw Rate—±10% or ±2°/sec. Yaw Attitude Change—±10% or ±2° | Cruise Augmentation On and Off | Record data for at least two Airspeeds, including the speed at or near the minimum power required airspeed. Record results for a step control input. The Off-axis response must show correct trend for unaugmented cases | X | X | X
+2.d.1.a. | Lateral | Roll Rate—±10% or ±3°/sec. Roll Attitude Change—±10% or ±3° | Cruise Augmentation On and Offd | Record results for at least two airspeeds, including the speed at or near the minimum power required airspeed. Record results for a step control input. The Off-axis response must show correct trend for unaugmented cases | X | X | X |
+2.d.1.b. | Directional | Yaw Rate—±10% or ±2°/sec. Yaw Attitude Change—±10% or ±2° | Cruise Augmentation On and Off | Record data for at least two Airspeeds, including the speed at or near the minimum power required airspeed. Record results for a step control input. The Off-axis response must show correct trend for unaugmented cases | X | X | X |
 2.d.2. | Directional Static Stability | Lateral Control Position—±10% of change from trim or ±0.25 in. (6.3 mm) or Lateral Control Force—±0.5 lb. (0.223 daN) or 10%. Roll Attitude—±1.5 Directional Control Position—±10% of change from trim or ±0.25 in. (6.3 mm) or Directional Control Force—±1 lb. (0.448 daN) or 10%. Longitudinal Control Position—±10% of change from trim or ±0.25 in. (6.3 mm). Vertical Velocity—±100 fpm (0.50m/sec) or 10% | Cruise; or Climb (may use Descent instead of Climb if desired) Augmentation On and Off | Record results for at least two sideslip angles on either side of the trim point. The force may be shown as a cross plot for irreversible systems. May be a series of snapshot tests | X | X | X | This is a steady heading sideslip test at a fixed collective position.
 2.d.3. | Dynamic Lateral and Directional Stability.
-2.d.3.a. | Lateral-Directional Oscillations | ±0.5 sec. or ±10% of period. ±10% of time to 1/2 or double amplitude or ±0.02 of damping ratio. ±20% or ±1 sec of time difference between peaks of bank and sideslip. For non-periodic responses, the time history must be matched within ±10 knots Airspeed; ±5°/s Roll Rate or ±5° Roll Attitude; ±4°/s Yaw Rate or ±4° Yaw Angle over a 20 sec period roll angle following release of the controls | Cruise or Climb Augmentation On and Off | Record results for at least two airspeeds. The test must be initiated with a cyclic or a pedal doublet input. Record results for six full cycles (12 overshoots after input completed) or that sufficient to determine time to 1/2 or double amplitude, whichever is less. The test may be terminated prior to 20 sec if the test pilot determines that the results are becoming uncontrollably divergent | X | X | X
-2.d.3.b. | Spiral Stability | ±2° or ±10% roll angle | Cruise or Climb. Augmentation On and Off | Record the results of a release from pedal only or cyclic only turns for 20 sec. Results must be recorded from turns in both directions. Terminate check at zero roll angle or when the test pilot determines that the attitude is becoming uncontrollably divergent | X | X | X
-2.d.3.c. | Adverse/Proverse Yaw | Correct Trend, ±2° transient sideslip angle | Cruise or Climb. Augmentation On and Off | Record the time history of initial entry into cyclic only turns, using only a moderate rate for cyclic input. Results must be recorded for turns in both directions | X | X | X
+2.d.3.a. | Lateral-Directional Oscillations | ±0.5 sec. or ±10% of period. ±10% of time to 1/2 or double amplitude or ±0.02 of damping ratio. ±20% or ±1 sec of time difference between peaks of bank and sideslip. For non-periodic responses, the time history must be matched within ±10 knots Airspeed; ±5°/s Roll Rate or ±5° Roll Attitude; ±4°/s Yaw Rate or ±4° Yaw Angle over a 20 sec period roll angle following release of the controls | Cruise or Climb Augmentation On and Off | Record results for at least two airspeeds. The test must be initiated with a cyclic or a pedal doublet input. Record results for six full cycles (12 overshoots after input completed) or that sufficient to determine time to 1/2 or double amplitude, whichever is less. The test may be terminated prior to 20 sec if the test pilot determines that the results are becoming uncontrollably divergent | X | X | X |
+2.d.3.b. | Spiral Stability | ±2° or ±10% roll angle | Cruise or Climb. Augmentation On and Off | Record the results of a release from pedal only or cyclic only turns for 20 sec. Results must be recorded from turns in both directions. Terminate check at zero roll angle or when the test pilot determines that the attitude is becoming uncontrollably divergent | X | X | X |
+2.d.3.c. | Adverse/Proverse Yaw | Correct Trend, ±2° transient sideslip angle | Cruise or Climb. Augmentation On and Off | Record the time history of initial entry into cyclic only turns, using only a moderate rate for cyclic input. Results must be recorded for turns in both directions | X | X | X |
 3. | Reserved
 4. | Visual System
-4.a. | Visual System Response Time: (Choose either test 4.a.1. or 4.a.2. to satisfy test 4.a., Visual System Response Time Test. This test is also sufficient for flight deck instrument response timing.) | |
+4.a. | Visual System Response Time: (Choose either test 4.a.1. or 4.a.2. to satisfy test 4.a., Visual System Response Time Test. This test is also sufficient for flight deck instrument response timing.) | | |
 4.a.1. | Latency.
-| | 150 ms (or less) after helicopter response | Takeoff, climb, and descent | One test is required in each axis (pitch, roll and yaw) for each of the three conditions (take-off, cruise, and approach or landing) | | | X
+| | 150 ms (or less) after helicopter response | Takeoff, climb, and descent | One test is required in each axis (pitch, roll and yaw) for each of the three conditions (take-off, cruise, and approach or landing) | | | X |
 4.a.2. | Transport Delay.
-| | 150 ms (or less) after controller movement | N/A | A separate test is required in each axis (pitch, roll, and yaw) | | | X
+| | 150 ms (or less) after controller movement | N/A | A separate test is required in each axis (pitch, roll, and yaw) | | | X |
 4.b. | Field-of-view.
 4.b.1. | Reserved.
 4.b.2. | Continuous visual field-of-view | Minimum continuous field-of-view providing 146° horizontal and 36° vertical field-of-view for each pilot simultaneously and any geometric error between the Image Generator eye point and the pilot eye point is 8° or less | N/A | An SOC is required and must explain the geometry of the installation. Horizontal field-of-view must not be less than a total of 146° (including not less than 73° measured either side of the center of the design eye point). Additional horizontal field-of-view capability may be added at the sponsor's discretion provided the minimum field-of-view is retained. Vertical field-of-view: Not less than a total of 36° measured from the pilot's and co-pilot's eye point | | | X | Horizontal field-of-view is centered on the zero degree azimuth line relative to the aircraft fuselage.
@@ -614,7 +620,7 @@ QPS requirements | Test | Entry No. | Title | Tolerances | Flight conditions | T
 4.f. | Light point size | Not greater than five (5) arc-minutes | N/A | An SOC is required and must include the relevant calculations | | | X | Light point size may be measured using a test pattern consisting of a centrally located single row of light points reduced in length until modulation is just discernible in each visual channel. A row of 48 lights will form a 4° angle or less.
 4.g. | Light point contrast ratio | | | | | | | A 1° spot photometer may be used to measure a square of at least 1° filled with light points (where light point modulation is just discernible) and compare the results to the measured adjacent background. During contrast ratio testing, simulator aft-cab and flight deck ambient light levels should be zero.
 4.g.1. | Reserved.
-4.g.2. | | Not less than 25:1 | N/A | An SOC is required and must include the relevant calculations | | | X
+4.g.2. | | Not less than 25:1 | N/A | An SOC is required and must include the relevant calculations | | | X |
 4.h. | Visual ground segment.
 | | The visible segment in the simulator must be within 20% of the segment computed to be visible from the helicopter flight deck. The tolerance(s) may be applied at either end or at both ends of the displayed segment. However, lights and ground objects computed to be visible from the helicopter flight deck at the near end of the visible segment must be visible in the simulator | Landing configuration, trimmed for appropriate airspeed, at 100 ft (30m) above the touchdown zone, on glide slope with an RVR value set at 1,200 ft (350m) | The QTG must contain relevant calculations and a drawing showing the data used to establish the helicopter location and the segment of the ground that is visible considering design eyepoint, helicopter attitude, flight deck cut-off angle, and a visibility of 1200 ft (350 m) RVR. Simulator performance must be measured against the QTG calculations. The data submitted must include at least the following: (1) Static helicopter dimensions as follows: (i) Horizontal and vertical distance from main landing gear (MLG) to glideslope reception antenna. (ii) Horizontal and vertical distance from MLG to pilot's eyepoint. (iii) Static flight deck cutoff angle. (2) Approach data as follows: (i) Identification of runway. (ii) Horizontal distance from runway threshold to glideslope intercept with runway. (iii) Glideslope angle. (iv) Helicopter pitch angle on approach. (3) Helicopter data for manual testing: (i) Gross weight. (ii) Helicopter configuration. (iii) Approach airspeed. If non-homogenous fog is used to obscure visibility, the vertical variation in horizontal visibility must be described and be included in the slant range visibility calculation used in the computations | | | X | Pre-position for this test is encouraged, but may be achieved via manual or autopilot control to the desired position.
 5. | Reserved
@@ -627,21 +633,20 @@ a. The characteristics of a helicopter flight control system have a major effect
 b. Control Dynamics Evaluations. The dynamic properties of control systems are often stated in terms of frequency, damping, and a number of other classical measurements which can be found in texts on control systems. In order to establish a consistent means of validating test results for FTD control loading, criteria are needed that will clearly define the interpretation of the measurements and the tolerances to be applied. Criteria are needed for both the underdamped system and the overdamped system, including the critically damped case. In the case of an underdamped system with very light damping, the system may be quantified in terms of frequency and damping. In critically damped or overdamped systems, the frequency and damping is not readily measured from a response time history. Therefore, some other measurement must be used.
 (1) Tests to verify that control feel dynamics represent the helicopter must show that the dynamic damping cycles (free response of the control) match that of the helicopter within specified tolerances. The method of evaluating the response and the tolerance to be applied are described below for the underdamped and critically damped cases.
 (a) Underdamped Response. Two measurements are required for the period, the time to first zero crossing (in case a rate limit is present) and the subsequent frequency of oscillation. It is necessary to measure cycles on an individual basis in case there are nonuniform periods in the response. Each period will be independently compared to the respective period of the helicopter control system and, consequently, will enjoy the full tolerance specified for that period.
-(b) The damping tolerance will be applied to overshoots on an individual basis. Care must be taken when applying the tolerance to small overshoots since the significance of such overshoots becomes questionable. Only those overshoots larger than 5 percent of the total initial displacement will be considered significant. The residual band, labeled T(A d) on Figure 1 of this attachment is ±5 percent of the initial displacement amplitude, A d, from the steady state value of the oscillation. Oscillations within the residual band are considered insignificant. When comparing simulator data to helicopter data, the process would begin by overlaying or aligning the simulator and helicopter steady state values and then comparing amplitudes of oscillation peaks, the time of the first zero crossing, and individual periods of oscillation. To be satisfactory, the simulator must show the same number of significant overshoots to within one when compared against the helicopter data. The procedure for evaluating the response is illustrated in Figure 1 of this attachment.
+(b) The damping tolerance will be applied to overshoots on an individual basis. Care must be taken when applying the tolerance to small overshoots since the significance of such overshoots becomes questionable. Only those overshoots larger than 5 percent of the total initial displacement will be considered significant. The residual band, labeled T(Ad) on Figure 1 of this attachment is ±5 percent of the initial displacement amplitude, Ad, from the steady state value of the oscillation. Oscillations within the residual band are considered insignificant. When comparing simulator data to helicopter data, the process would begin by overlaying or aligning the simulator and helicopter steady state values and then comparing amplitudes of oscillation peaks, the time of the first zero crossing, and individual periods of oscillation. To be satisfactory, the simulator must show the same number of significant overshoots to within one when compared against the helicopter data. The procedure for evaluating the response is illustrated in Figure 1 of this attachment.
 (c) Critically Damped and Overdamped Response. Due to the nature of critically damped responses (no overshoots), the time to reach 90 percent of the steady state (neutral point) value must be the same as the helicopter within ±10 percent. The simulator response must be critically damped also. Figure 2 of this attachment illustrates the procedure.
 (d) Special considerations. Control systems that exhibit characteristics other than classical overdamped or underdamped responses should meet specified tolerances. In addition, special consideration should be given to ensure that significant trends are maintained.
 (2) Tolerances.
 (a) The following summarizes the tolerances, "T" for underdamped systems, and "n" is the sequential period of a full cycle of oscillation. See Figure D2A of this attachment for an illustration of the referenced measurements.
-T(P 0) ±10% of P 0
-T(P 1) ±20% of P 1
-T(P 2) ±30% of P 2
-T(P n) ±10(n + 1)% of P n
-T(A n) ±10% of A 1
-T(A d) ±5% of A d = residual band
+T(P0) ±10% of P0
+T(P1) ±20% of P1
+T(P2) ±30% of P2
+T(Pn) ±10(n + 1)% of Pn
+T(An) ±10% of A1
+T(Ad) ±5% of Ad = residual band
 Significant overshoots First overshoot and ±1 subsequent overshoots
 (b) The following tolerance applies to critically damped and overdamped systems only. See Figure D2B for an illustration of the reference measurements:
-T(P 0) ±10% of P 0
-ER09MY08.053
+T(P0) ±10% of P0
 c. Alternative method for control dynamics evaluation.
 (1) An alternative means for validating control dynamics for aircraft with hydraulically powered flight controls and artificial feel systems is by the measurement of control force and rate of movement. For each axis of pitch, roll, and yaw, the control must be forced to its maximum extreme position for the following distinct rates. These tests are conducted under normal flight and ground conditions.
 (a) Static test—Slowly move the control so that a full sweep is achieved within 95-105 seconds. A full sweep is defined as movement of the controller from neutral to the stop, usually aft or right stop, then to the opposite stop, then to the neutral position.
@@ -693,7 +698,8 @@ d. At the request of the TPAA, the Pilot may assess the FTD for a special aspect
 e. The FAA intends to allow the use of Class III airport models on a limited basis when the sponsor provides the TPAA (or other regulatory authority) an appropriate analysis of the skills, knowledge, and abilities (SKAs) necessary for competent performance of the tasks in which this particular media element is used. The analysis should describe the ability of the FTD/visual media to provide an adequate environment in which the required SKAs are satisfactorily performed and learned. The analysis should also include the specific media element, such as the visual scene or airport model. Additional sources of information on the conduct of task and capability analysis may be found on the FAA's Advanced Qualification Program (AQP) Web site at: http://www.faa.gov/education_research/training/aqp.
 End Information
 Table D3A—Table of Functions and Subjective Tests Level 7 FTD
-QPS requirements | Entry No. | Operations tasks
+QPS requirements
+Entry No. | Operations tasks
 Tasks in this table are subject to evaluation if appropriate for the helicopter simulated as indicated in the SOQ Configuration List or a Level 7 FTD. Items not installed, not functional on the FTD, and not appearing on the SOQ Configuration List, are not required to be listed as exceptions on the SOQ.
 1. Preflight Procedures
 1.a. | Preflight Inspection (Flight Deck Only) switches, indicators, systems, and equipment.
@@ -895,7 +901,8 @@ Tasks in this table are subject to evaluation if appropriate for the helicopter 
 10.i.2. | Adjustments.
 * "Autopilot" means attitude retention mode of operation.
 Table D3B—Table of Functions and Subjective Tests Airport or Landing Area Content Requirements for Qualification at Level 7 FTD
-QPS requirements | Entry No. | Operations tasks
+QPS requirements
+Entry No. | Operations tasks
 This table specifies the minimum airport visual model content and functionality to qualify an FTD at the indicated level. This table applies only to the airport/helicopter landing area scenes required for FTD qualification.
 1. | Functional test content requirements for Level 7 FTDs. The following is the minimum airport/landing area model content requirement to satisfy visual capability tests, and provides suitable visual cues to allow completion of all functions and subjective tests described in this attachment for Level 7 FTDs.
 1.a. | A minimum of one (1) representative airport and one (1) representative helicopter landing area model. The airport and the helicopter landing area may be contained within the same visual model. If this option is selected, the approach path to the airport runway(s) and the approach path to the helicopter landing area must be different. The model(s) used to meet the following requirements may be demonstrated at either a fictional or a real-world airport or helicopter landing area, but each must be acceptable to the sponsor's TPAA, selectable from the IOS, and listed on the SOQ.
@@ -972,7 +979,8 @@ Begin Information
 10. | Sponsors are not required to provide every detail of a runway, but the detail that is provided should be correct within reasonable limits.
 End Information
 Table D3C—Table of Functions and Subjective Tests Level 7 FTD Visual Requirements Additional Visual Models Beyond Minimum Required for Qualification Class II Airport or Helicopter Landing Area Models
-QPS requirements | Entry No. | Operations tasks
+QPS requirements
+Entry No. | Operations tasks
 This table specifies the minimum airport or helicopter landing area visual model content and functionality necessary to add visual models to an FTD's visual model library (i.e., beyond those necessary for qualification at the stated level) without the necessity of further involvement of the responsible Flight Standards office or TPAA.
 1. | Visual scene management. The following is the minimum visual scene management requirements.
 1.a. | The installation and direction of the following lights must be replicated for the "in-use" surface:
@@ -1024,7 +1032,8 @@ Begin Information
 8. | Sponsors are not required to provide every detail of a runway or helicopter landing area, but the detail that is provided must be correct within the capabilities of the system.
 End Information
 Table D3D—Table of Functions And Subjective Tests Level 6 FTD
-QPS requirements | Entry No. | Operations tasks
+QPS requirements
+Entry No. | Operations tasks
 Tasks in this table are subject to evaluation if appropriate for the helicopter simulated as indicated in the SOQ Configuration List or for a Level 6 FTD. Items not installed or not functional on the FTD and not appearing on the SOQ Configuration List, are not required to be listed as exceptions on the SOQ.
 1. Preflight Procedures
 1.a. | Preflight Inspection (Flight Deck Only) switches, indicators, systems, and equipment.
@@ -1141,7 +1150,8 @@ Tasks in this table are subject to evaluation if appropriate for the helicopter 
 8.i.2. | Adjustments.
 * "Autopilot" means attitude retention mode of operation.
 Table D3E—Table of Functions and Subjective Tests Level 5 FTD
-QPS requirements | Entry No. | Operations tasks
+QPS requirements
+Entry No. | Operations tasks
 Tasks in this table are subject to evaluation if appropriate for the helicopter simulated as indicated in the SOQ Configuration List or for a Level 5 FTD. Items not installed or not functional on the FTD and not appearing on the SOQ Configuration List, are not required to be listed as exceptions on the SOQ.
 1. Preflight Procedures
 1.a. | Preflight Inspection (Flight Deck Only) switches, indicators, systems, and equipment.
@@ -1176,7 +1186,8 @@ Tasks in this table are subject to evaluation if appropriate for the helicopter 
 7.e.1. | Position.
 7.e.2. | Adjustments.
 Table D3F—Table of Functions and Subjective Tests Level 4 FTD
-QPS requirements | Entry No. | Operations tasks
+QPS requirements
+Entry No. | Operations tasks
 Tasks in this table are subject to evaluation if appropriate for the helicopter simulated as indicated in the SOQ Configuration List or for a Level 4 FTD. Items not installed or not functional on the FTD and not appearing on the SOQ Configuration List, are not required to be listed as exceptions on the SOQ.
 1. Preflight Procedures
 1.a. | Preflight Inspection (Flight Deck Only) switches, indicators, systems, and equipment.
@@ -1210,25 +1221,10 @@ Figure D4H [Reserved]
 Figure D4I Sample MQTG Index of Effective FTD Directives
 Attachment 4 to Appendix D to Part 60—Figure D4A—Sample Letter, Request for Initial, Upgrade, or Reinstatement Evaluation
 Information
-ER09DE22.121
-ER09DE22.122
-ER09MY08.055
-ER09MY08.056
-ER09MY08.057
 Attachment 4 to Appendix D to Part 60—Figure D4C—Sample Letter of Compliance
 Information
-ER09DE22.123
-ER09DE22.124
 Attachment 4 to Appendix D to Part 60—Figure D4D—Sample Qualification Test Guide Cover Page
 Information
-ER09DE22.125
-ER09DE22.126
 Attachment 4 to Appendix D to Part 60—Figure D4E—Sample Statement of Qualification—Certificate
 Information
-ER09DE22.130
-ER09MY08.061
-ER09MY08.062
-ER09MY08.063
-ER09MY08.064
 Attachment 4 to Appendix D to Part 60—Figure D4H [Reserved]
-ER09MY08.066
