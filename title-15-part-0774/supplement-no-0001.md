@@ -1,71 +1,76 @@
 # Supplement No. 1 to Part 774—The Commerce Control List
-Category 0—Nuclear Materials, Facilities, and Equipment [and Miscellaneous Items]
+Category 0—Nuclear Materials, Facilities, and Equipment, Firearms, Ammunition [and Miscellaneous Items]
 A. "End Items," "Equipment," "Accessories," "Attachments," "Parts," "Components," and "Systems"
 0A002 Power generating or propulsion equipment "specially designed" for use with space, marine or mobile "nuclear reactors". (These items are "subject to the ITAR." See 22 CFR parts 120 through 130.)
-0A501 Firearms (except 0A502 shotguns) and related commodities as follows (see List of Items controlled).
+0A501 Firearms (except 0A502 shotguns, 0A506 semi-automatic rifles, 0A507 semi-automatic pistols, and 0A508 semi-automatic shotguns) and related commodities (except semi-automatic related commodities enumerated or otherwise described in Eccn 0A509 for Eccns 0A506, 0A507, or 0A508) as follows (see List of Items controlled).
 License Requirements
 Reason for Control: NS, RS, FC, UN, AT
-Control(s) | Country chart (see supp. No. 1 to part 738)
-NS applies to entire entry except 0A501.y | NS Column 1
-RS applies to entire entry except 0A501.y | RS Column 1
-FC applies to entire entry except 0A501.y | FC Column 1
-UN applies to entire entry | See § 746.1 of the EAR for UN controls
-AT applies to entire entry | AT Column 1
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry except 0A501.y | NS Column 1.
+RS applies to entire entry except 0A501.y | RS Column 1.
+FC applies to entire entry except 0A501.y | FC Column 1.
+UN applies to entire entry | See § 746.1 of the EAR for UN controls.
+AT applies to entire entry | AT Column 1.
 License Requirement Note: In addition to using the Commerce Country Chart to determine license requirements, a license is required for exports and reexports of ECCN 0A501.y.7 firearms to the People's Republic of China.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: $500 for 0A501.c,.d, and.x.
 $500 for 0A501.c,.d,.e, and.x if the ultimate destination is Canada.
 GBS: N/A
 Special Conditions for STA
-STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in this entry.
+License Exception STA may not be used for ECCN 0A501.a,.b,.c,.d, or.e, to any of the destinations listed in Country Group A:5 or A:6 (See supplement no.1 to part 740 of the EAR). License Exception STA may not be used for any item in this entry to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR).
 List of Items Controlled
-Related Controls: (1) Firearms that are fully automatic, and magazines with a capacity of greater than 50 rounds, are "subject to the ITAR." (2) See ECCN 0A502 for shotguns and their "parts" and "components" that are subject to the EAR. Also see ECCN 0A502 for shot-pistols. (3) See ECCN 0A504 and USML Category XII for controls on optical sighting devices.
-Related Definitions: N/A
+Related Controls: (1) See USML Category I for firearms that are fully automatic, and certain related parts, components, accessories, and attachments (including magazines with a capacity of greater than 50 rounds). (2) See ECCN 0A506 for semi-automatic rifles. (3) See ECCN 0A507 for semi-automatic pistols. (4) See ECCN 0A508 for semi-automatic shotguns and ECCN 0A502 for certain "parts" and "components" for semi-automatic shotguns that are not controlled by 0A509.a or.c. (5) See ECCN 0A509 for enumerated or otherwise described "parts," "components," devices, "accessories," and "attachments" for ECCNs 0A506, 0A507, and 0A508. (6) See.d,.x, and.y of this entry for other "parts," "components," "accessories," and "attachments" "specially designed" for 0A506 and 0A507, or 0A508. (7) See ECCN 0A502 for non-automatic shotguns and their "parts" and "components" that are subject to the EAR and for certain "parts" and "components" for semi-automatic shotguns that are not controlled by 0A509.a or.c. (8) See ECCN 0A504 and USML Category XII for controls on optical sighting devices.
+Related Definitions: N/A.
 Items:
-a. Non-automatic and semi-automatic firearms equal to.50 caliber (12.7 mm) or less.
+a. Non-automatic and non-semi-automatic firearms equal to.50 caliber (12.7 mm) or less.
 Note 1 to paragraph 0A501.a: 'Combination pistols' are controlled under ECCN 0A501.a. A 'combination pistol' (a.k.a., a combination gun) has at least one rifled barrel and at least one smoothbore barrel (generally a shotgun style barrel).
-Technical Note to 0A501.a: Firearms described in 0A501.a includes those chambered for the.50 BMG cartridge.
+Note 2 to paragraph 0A501.a: Semi-automatic firearms equal to.50 caliber (12.7 mm) or less are controlled under ECCNs 0A506 and 0A507.
+Technical Note to 0A501.a: Firearms described in 0A501.a include those chambered for the.50 BMG cartridge.
 b. Non-automatic and non-semi-automatic rifles, carbines, revolvers or pistols with a caliber greater than.50 inches (12.7 mm) but less than or equal to.72 inches (18.0 mm).
-c. The following types of "parts" and "components" if "specially designed" for a commodity controlled by paragraph.a or.b of this entry, or USML Category I (unless listed in USML Category I(g) or (h)): Barrels, cylinders, barrel extensions, mounting blocks (trunnions), bolts, bolt carriers, operating rods, gas pistons, trigger housings, triggers, hammers/striker, sears, disconnectors, pistol grips that contain fire control "parts" or "components" (e.g., triggers, hammers/striker, sears, disconnectors) and buttstocks that contain fire control "parts" or "components."
+c. The following types of "parts" and "components" if "specially designed" for a commodity controlled by paragraph.a or.b of this entry or ECCNs 0A506 or 0A507, or USML Category I (unless otherwise enumerated or elsewhere specified on the USML or controlled under ECCN 0A509): Barrels, cylinders, barrel extensions, mounting blocks (trunnions), bolts, bolt carriers, operating rods, gas pistons, trigger housings, triggers, hammers/striker, sears, disconnectors, pistol grips that contain fire control "parts" or "components" (e.g., triggers, hammers/striker, sears, disconnectors) and buttstocks that contain fire control "parts" or "components."
 Technical Note to 0A501.c: Barrel blanks that have reached a stage in manufacturing in which they are either chambered or rifled are controlled by 0A501.c.
-d. Detachable magazines with a capacity of 17 to 50 rounds "specially designed" for a commodity controlled by paragraph.a or.b of this entry.
-Note 2 to paragraph 0A501.d: Magazines with a capacity of 16 rounds or less are controlled under 0A501.x; for magazines with a capacity greater than 50 rounds, see USML Category I.
+d. Detachable magazines with a capacity of 17 to 50 rounds "specially designed" for a commodity controlled by paragraph.a or.b of this entry or controlled by ECCNs 0A506 or 0A507.
+Note 3 to paragraph 0A501.d Magazines with a capacity of 16 rounds or less are controlled under 0A501.x; for magazines with a capacity greater than 50 rounds, see USML Category I. Magazines that hold only blank ammunition controlled under 0A505.d are controlled under 0A501.d or 0A501.x, depending on the magazine's capacity.
 e. Receivers (frames) and "complete breech mechanisms," including castings, forgings, stampings, or machined items thereof, "specially designed" for a commodity controlled by paragraph.a or.b of this entry.
-Note 3 to 0A501.e: Frames (receivers) under 0A501.e refers to any "part" or "component" of the firearm that has or is customarily marked with a serial number when required by law. This paragraph 0A501.e is synonymous with a "part" or "component" that is regulated by the Bureau of Alcohol, Tobacco, Firearms and Explosives (see 27 CFR parts 447, 478, and 479,) as a firearm.
+Note 4 to 0A501.e: Frames (receivers) under 0A501.e refers to any "part" or "component" of the firearm that has or is customarily marked with a serial number when required by law. This paragraph 0A501.e is synonymous with a "part" or "component" that is regulated by the Bureau of Alcohol, Tobacco, Firearms and Explosives (see 18 U.S.C. 921(a)(3); 27 CFR parts 447, 478, and 479,) as a firearm.
+Note 5 to 0A501.e: Frames (receivers) "specially designed" for semi-automatic firearms are controlled under ECCN 0A509.b or.c.
 f. through w. [Reserved]
-x. "Parts" and "components" that are "specially designed" for a commodity classified under paragraphs.a through.c of this entry or the USML and not elsewhere specified on the USML or CCL.
-y. Specific "parts," "components," "accessories" and "attachments" "specially designed" for a commodity subject to control in this ECCN or common to a defense article in USML Category I and not elsewhere specified in the USML or CCL as follows, and "parts," "components," "accessories," and "attachments" "specially designed" therefor.
+x. "Parts" and "components" that are "specially designed" for a commodity classified under paragraphs.a through.c of this entry, a commodity classified under ECCNs 0A506 or 0A507, or the USML and not elsewhere specified on the USML or CCL or controlled under ECCN 0A509.
+y. Specific "parts," "components," "accessories" and "attachments" "specially designed" for a commodity subject to control in this ECCN, ECCNs 0A506, 0A507, or common to a defense article in USML Category I and not elsewhere specified in the USML or CCL as follows, and "parts," "components," "accessories," and "attachments" "specially designed" therefor.
 y.1. Stocks (including adjustable, collapsible, blades and braces), grips, handguards, or forends, that do not contain any fire control "parts" or "components" (e.g., triggers, hammers/striker, sears, disconnectors);
-y.2 to y.5. [Reserved]
+y.2 through y.5. [Reserved]
 y.6. Bayonets; and
 y.7. Firearms manufactured from 1890 to 1898 and reproductions thereof.
-Technical Note 1 to 0A501: The controls on "parts" and "components" in ECCN 0A501 include those "parts" and "components" that are common to firearms described in ECCN 0A501 and to those firearms "subject to the ITAR."
+Technical Note 1 to 0A501: ECCN 0A501 includes "parts" and "components" that are not "subject to the ITAR" even though they are common to firearms described in ECCN 0A501 and to those firearms "subject to the ITAR."
 Technical Note 2 to 0A501: A receiver with any other controlled "part" or "component" (e.g., a barrel (0A501.c), or trigger guard (0A501.x), or stock (0A501.y.1)) is still controlled under 0A501.e.
-Note 4 to 0A501: Antique firearms (i.e., those manufactured before 1890) and reproductions thereof, muzzle loading and black powder firearms except those designs based on centerfire weapons of a post 1937 design, BB guns, pellet rifles, paint ball, and all other air rifles are EAR99 commodities.
-Note 5 to 0A501: Muzzle loading and black powder firearms with a caliber less than 20 mm that were manufactured post 1937 that are used for hunting or sporting purposes that were not "specially designed" for military use and are not "subject to the ITAR" nor controlled as shotguns under ECCN 0A502 are EAR99 commodities.
-Note 6 to 0A501: Scope mounts or accessory rails, iron sights, sling swivels, and butt plates or recoil pads are designated as EAR99. These commodities have been determined to no longer warrant being "specially designed" for purposes of ECCN 0A501.
-Note 7 to 0A501: A kit, including a replacement or repair kit, of firearms "parts" or "components" customarily sold and exported together takes on the classification of the most restrictive "part" or "component" that is included in the kit. For example, a kit containing 0A501.y and.x "parts," is controlled as a 0A501.x kit because the.x "part" is the most restrictive "part" included in the kit. A complete firearm disassembled in a kit form is controlled as a firearm under 0A501.a,.b, or.y.7.
-0A502 Shotguns; shotguns "parts" and "components," consisting of complete trigger mechanisms; magazines and magazine extension tubes; "complete breech mechanisms;" except equipment used to slaughter domestic animals or used exclusively to treat or tranquilize animals, and except arms designed solely for signal, flare, or saluting use.
+Technical Note 3 to 0A501: Blank firing adapters, which are attachments to semi-automatic and automatic firearms used in conjunction with blank cartridges for safety and functional reasons and used for firearm training purposes by police, military, sporting shooters, as well as in the movie industry, are designated as EAR99.
+Note 6 to 0A501: Antique firearms (i.e., those manufactured before 1890) and reproductions thereof, muzzle loading and black powder firearms except those designs based on centerfire weapons of a post 1937 design, BB guns, pellet rifles, paint ball, and all other air rifles are EAR99 commodities.
+Note 7 to 0A501: Muzzle loading and black powder firearms with a caliber less than 20 mm that were manufactured post 1937 that are used for hunting or sporting purposes that were not "specially designed" for military use and are not described on the USML nor controlled as shotguns under ECCN 0A502 are EAR99 commodities.
+Note 8 to 0A501: Scope mounts or accessory rails, iron sights, sling swivels, and butt plates or recoil pads that are subject to the EAR are designated as EAR99. These commodities have been determined to no longer warrant being "specially designed" for purposes of ECCN 0A501.
+Note 9 to 0A501: A kit, including a replacement or repair kit, of firearms "parts" or "components" customarily sold and exported together takes on the classification of the most restrictive "part" or "component" that is included in the kit. For example, a kit containing 0A501.y and.x "parts," is controlled as a 0A501.x kit because the.x "part" is the most restrictive "part" included in the kit. A complete 0A501 firearm disassembled in a kit form is controlled as a firearm under 0A501.a,.b, or.y.7.
+0A502 Shotguns; shotguns "parts" and "components," consisting of complete trigger mechanisms; magazines and magazine extension tubes; "complete breech mechanisms;" except: semi-automatic shotguns controlled under Eccn 0A508; certain "parts," components," devices, "accessories," and "attachments" for semi-automatic shotguns controlled under Eccn 0A509; equipment used to slaughter domestic animals or used exclusively to treat or tranquilize animals; and arms designed solely for signal, flare, or saluting use.
 License Requirements
-Reason for Control: RS, CC, FC, UN, AT, NS
-Control(s) | Country Chart (See Supp. No. 1 to part 738)
-NS applies to shotguns with a barrel length less than 18 inches (45.72 cm) | NS Column 1
-RS applies to shotguns with a barrel length less than 18 inches (45.72 cm) | RS Column 1
-FC applies to entire entry | FC Column 1
-CC applies to shotguns with a barrel length less than 24 in. (60.96 cm) and shotgun "components" controlled by this entry regardless of end user | CC Column 1
-CC applies to shotguns with a barrel length greater than or equal to 24 in. (60.96 cm), regardless of end user | CC Column 2
-CC applies to shotguns with a barrel length greater than or equal to 24 in. (60.96 cm) if for sale or resale to police or law enforcement | CC Column 3
-UN applies to entire entry | See § 746.1(b) of the EAR for UN controls
-AT applies to shotguns with a barrel length less than 18 inches (45.72 cm) | AT Column 1
+Reason for Control: RS, FC, CC, UN, AT, NS
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to shotguns with a barrel length less than 18 inches (45.72 cm) | NS Column 1.
+RS applies to shotguns with a barrel length less than 18 inches (45.72 cm) | RS Column 1.
+FC applies to entire entry | FC Column 1.
+CC applies to shotguns with a barrel length less than 24 in. (60.96 cm) and shotgun "components" controlled by this entry regardless of end user | CC Column 1.
+CC applies to shotguns with a barrel length greater than or equal to 24 in. (60.96 cm), regardless of end user | CC Column 2.
+CC applies to shotguns with a barrel length greater than or equal to 24 in. (60.96 cm) if for sale or resale to police or law enforcement | CC Column 3.
+UN applies to entire entry | See § 746.1(b) of the EAR for UN controls.
+AT applies to shotguns with a barrel length less than 18 inches (45.72 cm) | AT Column 1.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: $500 for 0A502 shotgun "parts" and "components," consisting of complete trigger mechanisms; magazines and magazine extension tubes. $500 for 0A502 shotgun "parts" and "components," consisting of complete trigger mechanisms; magazines and magazine extension tubes, "complete breech mechanisms" if the ultimate destination is Canada.
 GBS: N/A
+Special Conditions for STA
+License Exception STA may not be used for any shotguns with barrel length less than 18 inches controlled in 0A502, to any of the destinations listed in Country Group A:5 or A:6 (See supplement no.1 to part 740 of the EAR).
 List of Items Controlled
-Related Controls: Shotguns that are fully automatic are "subject to the ITAR."
-Related Definitions: N/A
+Related Controls: (1) See USML Category I for shotguns that are fully automatic. (2) See ECCN 0A508 for semi-automatic shotguns. (3) See ECCN 0A509 for enumerated or otherwise described "parts," "components," devices, "accessories," and "attachments" for ECCN 0A508. (4) See 0A501.d,.x, and.y for other "parts," "components," "accessories," and "attachments" "specially designed" for 0A508. (5) See ECCNs 0A501 for non-semi-automatic firearms, 0A506 for semi-automatic rifles, and 0A507 for semi-automatic pistols.
+Related Definitions: N/A.
 Items: The list of items controlled is contained in the ECCN heading.
 Note 1 to 0A502: Shotguns made in or before 1898 are considered antique shotguns and designated as EAR99.
-Technical Note: Shot pistols or shotguns that have had the shoulder stock removed and a pistol grip attached are controlled by ECCN 0A502. Slug guns are also controlled under ECCN 0A502.
+Technical Note: Non-automatic and non-semi-automatic shot pistols or shotguns that have had the shoulder stock removed and a pistol grip attached are controlled by ECCN 0A502. Non-automatic and non-semi-automatic slug guns are also controlled under ECCN 0A502.
 0A503 Discharge type arms; non-lethal or less-lethal grenades and projectiles, and "specially designed" "parts" and "components" of those projectiles; and devices to administer electric shock, for example, stun guns, shock batons, shock shields, electric cattle prods, immobilization guns and projectiles; except equipment used to slaughter domestic animals or used exclusively to treat or tranquilize animals, and except arms designed solely for signal, flare, or saluting use; and "specially designed" "parts" and "components," n.e.s.
 License Requirements
 Reason for Control: CC, UN
@@ -83,15 +88,15 @@ Items: The list of items controlled is contained in the ECCN heading.
 License Requirements
 Reason for Control: FC, RS, CC, UN
 Control(s) | Country chart (see Supp. No. 1 to part 738)
-RS applies to paragraph.i | RS Column 1
-FC applies to paragraphs.a,.b,.c,.d,.e,.g, and.i of this entry | FC Column 1
-CC applies to entire entry | CC Column 1
-UN applies to entire entry | See § 746.1(b) of the EAR for UN controls
+RS applies to paragraph.i | RS Column 1.
+FC applies to paragraphs.a,.b,.c,.d,.e,.g, and.i of this entry | FC Column 1.
+CC applies to entire entry | CC Column 1.
+UN applies to entire entry | See § 746.1(b) of the EAR for UN controls.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: $500 for 0A504.g.
 GBS: N/A
 List of Items Controlled
-Related Controls: (1) See USML Category XII(c) for sighting devices using second generation image intensifier tubes having luminous sensitivity greater than 350 µA/lm, or third generation or higher image intensifier tubes, that are "subject to the ITAR." (2) See USML Category XII(b) for laser aiming or laser illumination systems "subject to the ITAR." (3) Section 744.9 of the EAR imposes a license requirement on certain commodities described in 0A504 if being exported, reexported, or transferred (in-country) for use by a military end-user or for incorporation into an item controlled by ECCN 0A919.
+Related Controls: (1) See USML Category XII(c) for sighting devices using second generation image intensifier tubes having luminous sensitivity greater than 350 µA/lm, or third generation or higher image intensifier tubes, that are "subject to the ITAR." (2) See USML Category XII(b) for laser aiming or laser illumination systems "subject to the ITAR." (3) Section 744.9 of the EAR imposes a license requirement on certain commodities described in 0A504 if being exported, reexported, or transferred (in-country) for use by a military end user or for incorporation into an item controlled by ECCN 0A919.
 Related Definitions: N/A
 Items:
 a. Telescopic sights.
@@ -107,35 +112,127 @@ i. Riflescopes that were not "subject to the EAR" as of March 8, 2020 and are "s
 Note 2 to paragraph i: For purpose of the application of "specially designed" for the riflescopes controlled under 0A504.i, paragraph (a)(1) of the definition of "specially designed" in § 772.1 of the EAR is what is used to determine whether the riflescope is "specially designed."
 0A505 Ammunition as follows (see List of Items Controlled).
 License Requirements
-Reason for Control: NS, RS, CC, FC, UN, AT
-Control(s) | Country chart (see supp. No. 1 to part 738)
-NS applies to 0A505.a and.x | NS Column 1
-RS applies to 0A505.a and.x | RS Column 1
-CC applies to 0A505.b | CC Column 1
-FC applies to entire entry except 0A505.d | FC Column 1
-UN applies to entire entry | See § 746.1 of the EAR for UN controls
-AT applies to 0A505.a,.d, and.x | AT Column 1
+Reason for Control: NS, RS, FC, CC, UN, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to 0A505.a and.x | NS Column 1.
+RS applies to 0A505.a and.x | RS Column 1.
+FC applies to entire entry except 0A505.d | FC Column 1.
+CC applies to 0A505.b | CC Column 1.
+UN applies to entire entry | See § 746.1 of the EAR for UN controls.
+AT applies to 0A505.a,.d, and.x | AT Column 1.
 AT applies to 0A505.c | A license is required for items controlled by paragraph.c of this entry to North Korea for anti-terrorism reasons. The Commerce Country Chart is not designed to determine AT licensing requirements for this entry. See § 742.19 of the EAR for additional information.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
-LVS: $500 for items in 0A505.x, except $3,000 for items in 0A505.x that, immediately prior to March 9, 2020, were classified under 0A018.b. (i.e., "Specially designed" components and parts for ammunition, except cartridge cases, powder bags, bullets, jackets, cores, shells, projectiles, boosters, fuses and components, primers, and other detonating devices and ammunition belting and linking machines (all of which are "subject to the ITAR"). (See 22 CFR parts 120 through 130))
+LVS: $500 for items in 0A505.x, except $3,000 for items in 0A505.x that, immediately prior to March 9, 2020, were classified under 0A018.b. (i.e., "Specially designed" components and parts for ammunition, except cartridge cases, powder bags, bullets, jackets, cores, shells, projectiles, boosters, fuses and components, primers, and other detonating devices and ammunition belting and linking machines (all of which are "subject to the ITAR"). (See 22 CFR parts 120 through 130)).
 GBS: N/A
 Special Conditions for STA
-STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in 0A505.
+License Exception STA may not be used for ECCN 0A505, to any of the destinations listed in Country Group A:6 (See supplement no.1 to part 740 of the EAR).
 List of Items Controlled
-Related Controls: (1) Ammunition for modern heavy weapons such as howitzers, artillery, cannon, mortars and recoilless rifles as well as inherently military ammunition types such as ammunition preassembled into links or belts, caseless ammunition, tracer ammunition, ammunition with a depleted uranium projectile or a projectile with a hardened tip or core and ammunition with an explosive projectile are "subject to the ITAR." (2) Percussion caps, and lead balls and bullets, for use with muzzle-loading firearms are EAR99 items.
+Related Controls: (1) See USML Category III for ammunition for modern heavy weapons such as howitzers, artillery, cannon, mortars and recoilless rifles as well as inherently military ammunition types such as ammunition preassembled into links or belts, caseless ammunition, tracer ammunition, ammunition with a depleted uranium projectile or a projectile with a hardened tip or core and ammunition with an explosive projectile. (2) Percussion caps, and lead balls and bullets, for use with muzzle-loading firearms are EAR99 items. (3) See USML Category III for shotgun projectiles that are flechettes, incendiary, tracer, or explosive.
 Related Definitions: 'Marking rounds' are non-lethal, typically used for training purposes, and contain a dye or paint in a capsule that is not a chemical irritant.
 Items:
-a. Ammunition for firearms controlled by ECCN 0A501 or USML Category I and not enumerated in paragraph.b,.c, or.d of this entry or in USML Category III.
-b. Buckshot (No. 4.24" diameter and larger, any material) shotgun shells and shotgun shells that contain only, or are for the dispersion of chemical irritants.
+a. Ammunition for firearms controlled by ECCNs 0A501, 0A506, or 0A507 or USML Category I and not enumerated in paragraph.b,.c, or.d of this entry or described in USML Category III.
+b. Buckshot (No. 4.24" diameter and larger, any material) shotgun shells and shotgun shells that contain only buckshot, or are for the dispersion of chemical irritants.
 c. Shotgun shells (including less than lethal rounds) that do not contain buckshot; and "specially designed" "parts" and "components" of shotgun shells.
-d. Blank ammunition for firearms controlled by ECCNs 0A501 or 0A502 and not enumerated in USML Category III.
+d. Blank ammunition for firearms controlled by ECCNs 0A501, 0A502, 0A506, 0A507, or 0A508 and not described in USML Category III.
 Technical Note to 0A505.d: Includes 'marking rounds' that have paint/dye as the projectile.
 e. through w. [Reserved]
 x. "Parts" and "components" that are "specially designed" for a commodity subject to control in this ECCN or a defense article in USML Category III and not elsewhere specified on the USML or the CCL.
 Note 1 to 0A505.x: The controls on "parts" and "components" in this entry include Berdan and boxer primers, metallic cartridge cases, and standard metallic projectiles such as full metal jacket, lead core, copper projectiles, and frangible projectiles.
-Note 2 to 0A505.x: The controls on "parts" and "components" in this entry include those "parts" and "components" that are common to ammunition and ordnance described in this entry and to those enumerated in USML Category III.
-Note 3 to 0A505: Metal shot smaller than No. 4 Buckshot, empty and unprimed shotgun shells, shotgun wads, smokeless gunpowder, 'dummy rounds' and 'drill rounds' (unless linked or belted), not incorporating a lethal or non-lethal projectile(s) are designated EAR99. A 'dummy round' or 'drill round' is a round that is completely inert, (i.e., contains no primer, propellant, or explosive charge). It is typically used to check weapon function and for crew training.
-Note 4 to 0A505: Shotgun shells that contain two or more balls/shot larger than.24-inch are controlled under 0A505.b.
+Note 2 to 0A505: Metal shot smaller than No. 4 Buckshot, empty and unprimed shotgun shells, shotgun wads, smokeless gunpowder, 'dummy rounds' and 'drill rounds' (unless linked or belted), not incorporating a lethal or non-lethal projectile(s) are designated EAR99. A 'dummy round' or 'drill round' is a round that is completely inert, (i.e., contains no primer, propellant, or explosive charge). It is typically used to check weapon function and for crew training.
+Note 3 to 0A505: Shotgun shells that contain two or more balls/shot larger than.24-inch are controlled under 0A505.b.
+0A506 Semi-Automatic Rifles as follows (see List of Items Controlled).
+License Requirements
+Reason for Control: NS, RS, FC, UN, AT
+Control(s) | Country chart (See Supp. No. 1 to part 738)
+NS applies to entire entry | NS Column 1.
+RS applies to entire entry | RS Column 1.
+FC applies to entire entry | FC Column 1.
+UN applies to entire entry | See § 746.1 of the EAR for UN controls.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+LVS: N/A
+GBS: N/A
+Special Conditions for STA
+License Exception STA may not be used for ECCN 0A506, to any of the destinations listed in Country Group A:5 or A:6 (See supplement no.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: (1) See USML Category I for firearms that are fully automatic, and magazines with a capacity of greater than 50 rounds. (2) See ECCN 0A507 for semi-automatic pistols, excluding pistols built with, e.g., AR- or AK-style receivers (frames), which are controlled under ECCN 0A506. (3) See ECCN 0A508 for semi-automatic shotguns and ECCN 0A502 for certain "parts" and "components" for semi-automatic shotguns that are not controlled by 0A509.a or.c. (4) See ECCN 0A509 for enumerated or otherwise described "parts," "components," devices, "accessories," and "attachments" for ECCNs 0A506, 0A507, and 0A508. (5) See 0A501.c,.d,.x, and.y for other "parts," "components," "accessories," and "attachments" "specially designed" for 0A506 and 0A507, or 0A508. (6) See ECCN 0A501 for non-semi-automatic firearms (except 0A502 shotguns) and related commodities that are subject to the EAR. (7) See ECCN 0A502 for non-automatic shotguns and their "parts" and "components" that are subject to the EAR and certain "parts" and "components" for semi-automatic shotguns that are not controlled by 0A509.a or.c. (8) See ECCN 0A504 and USML Category XII for controls on optical sighting devices.
+Related Definitions: N/A
+Items:
+a. Semi-automatic centerfire (non-rimfire) rifles equal to.50 caliber (12.7 mm) or less.
+b. Semi-automatic rimfire rifles equal to.50 caliber (12.7 mm) or less.
+Note 1 to 0A506.a and.b: "Parts" and "components" that are "specially designed" for a commodity classified under.a or.b of this entry, except those controlled under ECCN 0A509, are controlled under ECCN 0A501.c,.d,.x, or.y.
+Technical Note 1 to 0A506: Firearms described in 0A506 include those chambered for the.50 BMG cartridge.
+Technical Note 2 to 0A506: Firearms described in 0A506 include pistols built with, e.g., AR- or AK-style receivers (frames).
+0A507 Semi-Automatic Pistols as follows (see List of Items Controlled).
+License Requirements
+Reason for Control: NS, RS, FC, UN, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | NS Column 1.
+RS applies to entire entry | RS Column 1.
+FC applies to entire entry | FC Column 1.
+UN applies to entire entry | See § 746.1 of the EAR for UN controls.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+LVS: N/A
+GBS: N/A
+Special Conditions for STA
+License Exception STA may not be used for ECCN 0A507, to any of the destinations listed in Country Group A:5 or A:6 (See supplement no.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: (1) See USML Category I for firearms that are fully automatic, and magazines with a capacity of greater than 50 rounds. (2) See ECCN 0A506 for semi-automatic rifles. (3) See ECCN 0A508 for semi-automatic shotguns and ECCN 0A502 for certain "parts" and "components" for semi-automatic shotguns that are not controlled by 0A509.a or.c. (4) See ECCN 0A509 for enumerated or otherwise described "parts," "components," devices, "accessories," and "attachments" for ECCNs 0A506, 0A507, and 0A508. (5) See ECCN 0A501.c,.d,.x, and.y for other "parts," "components," "accessories," and "attachments" "specially designed" for 0A506 and 0A507, or 0A508. (6) See ECCN 0A501 for non-semi-automatic firearms (except 0A502 shotguns) and related commodities that are subject to the EAR. (7) See ECCN 0A502 for non-automatic shotguns and their "parts" and "components" that are subject to the EAR and certain "parts" and "components" for semi-automatic shotguns that are not controlled by 0A509.a or.c. (8) See ECCN 0A504 and USML Category XII for controls on optical sighting devices.
+Related Definitions: N/A
+Items:
+a. Semi-automatic centerfire (non-rimfire) pistols equal to.50 caliber (12.7 mm) or less.
+b. Semi-automatic rimfire pistols equal to.50 caliber (12.7 mm) or less.
+Note 1 to 0A507.a and.b: "Parts" and "components" that are "specially designed" for a commodity classified under.a or.b of this entry, except those controlled under ECCN 0A509, are controlled under ECCN 0A501.c,.d,.x, or.y.
+Note 2 to 0A507: Firearms, including pistols, built with, e.g., AR- or AK-style receivers (frames) are controlled under ECCN 0A506.
+Technical Note to 0A507: Firearms described in 0A507 includes those chambered for the.50 BMG cartridge, including revolvers, or that may be developed to fire.50 BMG cartridges.
+0A508 Semi-Automatic Shotguns as follows (see List of Items Controlled).
+License Requirements
+Reason for Control: NS, RS, FC, CC, UN, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to semi-automatic shotguns with a barrel length less than 18 inches (45.72 cm) | NS Column 1.
+RS applies to semi-automatic shotguns with a barrel length less than 18 inches (45.72 cm) | RS Column 1.
+FC applies to entire entry | FC Column 1.
+CC applies to shotguns with a barrel length less than 24 in. (60.96 cm) and shotgun "components" controlled by this entry regardless of end user | CC Column 1.
+CC applies to shotguns with a barrel length greater than or equal to 24 in. (60.96 cm), regardless of end user | CC Column 2.
+CC applies to shotguns with a barrel length greater than or equal to 24 in. (60.96 cm) if for sale or resale to police or law enforcement | CC Column 3.
+UN applies to entire entry | See § 746.1 of the EAR for UN controls.
+AT applies to semi-automatic shotguns with a barrel length less than 18 inches (45.72 cm) | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+LVS: N/A
+GBS: N/A
+Special Conditions for STA
+License Exception STA may not be used for any shotguns with barrel length less than 18 inches controlled in 0A508, to any of the destinations listed in Country Group A:5 or A:6 (See supplement no.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: (1) See USML Category I for shotguns that are fully automatic. (2) See ECCN 0A502 for non-semi-automatic shotguns. (3) See ECCN 0A509 for enumerated or otherwise described "parts," "components," devices, "accessories," and "attachments" for ECCN 0A508. (4) See 0A501.d,.x, and.y for other "parts," "components," "accessories," and "attachments" "specially designed" for 0A508. (5) See ECCNs 0A501 for non-semi-automatic firearms, 0A506 for semi-automatic rifles, and 0A507 for semi-automatic pistols.
+Related Definitions: N/A
+Items:
+a. Semi-automatic centerfire (non-rimfire) shotguns.
+b. Semi-automatic rimfire shotguns.
+0A509 Certain "parts," "components," devices, "accessories," and "attachments" for items controlled under ECCNs 0A506, 0A507, and 0A508 as follows (see List of Items Controlled).
+License Requirements
+Reason for Control: NS, RS, FC, CC, UN, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry except 0A509.a for items for ECCN 0A502 or ECCN 0A508, and 0A509.d | NS Column 1.
+RS applies to entire entry except 0A509.a for items for ECCN 0A502 or ECCN 0A508, and 0A509.d | RS Column 1.
+FC applies to entire entry | FC Column 1.
+CC applies to 0A509.a for items for ECCN 0A502 or ECCN 0A508, and 0A509.d | CC Column 1.
+UN applies to entire entry | See § 746.1 of the EAR for UN controls.
+AT applies to entire entry except 0A509.a for items for ECCN 0A502 or ECCN 0A508, and 0A509.d | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+LVS: $500 for 0A509.a, $500 for 0A509.b,.c, and.d if the ultimate destination is Canada
+GBS: N/A
+Special Conditions for STA
+License Exception STA may not be used for ECCN 0A509, except for 0A509.a for items for ECCN 0A502 or ECCN 0A508, and 0A509.d, to any of the destinations listed in Country Group A:5 or A:6 (See supplement no.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: (1) See USML Category I for firearms that are fully automatic, and magazines with a capacity of greater than 50 rounds. (2) See ECCN 0A506 for semi-automatic rifles. (3) See ECCN 0A507 for semi-automatic pistols. (4) See ECCN 0A508 for semi-automatic shotguns and ECCN 0A502 for certain "parts" and "components" for semi-automatic shotguns that are not controlled by.a or.c of this entry. (5) See ECCN 0A501.c,.d,.x, and.y for other "parts," "components," "accessories," and "attachments" "specially designed" for 0A506 and 0A507, or 0A508. (6) See ECCN 0A501 for non-semi-automatic firearms (except 0A502 shotguns) and related commodities that are subject to the EAR. (7) See ECCN 0A502 for non-automatic shotguns and their "parts" and "components" that are subject to the EAR and certain "parts" and "components" for semi-automatic shotguns that are not controlled by.a or.d of this entry. (8) See ECCN 0A504 and USML Category XII for controls on optical sighting devices. (9) See USML Category I for similar items.
+Related Definitions: N/A
+Items:
+a. Any "part," "component," device, "attachment," or "accessory" not elsewhere specified on the USML that is designed or functions to convert a non-semi-automatic firearm controlled by 0A501 or 0A502 to semi-automatic or to accelerate the rate of fire of a semi-automatic firearm controlled by 0A506, 0A507, or 0A508.
+b. Receivers (frames), including castings, forgings, stampings, or machined items thereof, "specially designed" for an item controlled by ECCN 0A506.
+c. Receivers (frames), including castings, forgings, stampings, or machined items thereof, "specially designed" for an item controlled by ECCN 0A507.
+d. Receivers (frames) and "specially designed" "complete breech mechanisms" for a commodity controlled by ECCN 0A508.
+Note 1 to 0A509.b and.c: Receivers (frames) under 0A509.b and.c refers to any "part" or "component" of the firearm that has or is customarily marked with a serial number when required by law. Paragraph 0A509.b and.c are synonymous with a "part" or "component" that is regulated by the Bureau of Alcohol, Tobacco, Firearms and Explosives (see 18 U.S.C. 921(a)(3); 27 CFR parts 447, 478, and 479,) as a firearm. For 0A509.c, receivers (frames) includes chassis "components" that serve as the legal firearm (i.e., with modern pistols, the chassis itself is the serialized firearm).
 0A521 Any commodity subject to the EAR that is not listed elsewhere in the CCL, but which is controlled for export because it provides at least a significant military or intelligence advantage to the United States or for foreign policy reasons.
 0A521 commodities are subject to RS1 controls with no license exception eligibility other than License Exception GOV for U.S. Government personnel and agencies under § 740.11(b)(2)(ii) of the EAR, or an item-specific license exception identified in Supplement No. 5 to part 774 particular to an item covered under ECCN 0A521. The list of commodities determined to be classified under ECCN 0A521 controls is published in Supplement No. 5 to part 774. The license requirements and licensing policy relating to ECCN 0A521 are set forth in § 742.6(a)(8) of the EAR.
 0A602 Guns and Armament as follows (see List of Items Controlled).
@@ -152,7 +249,7 @@ GBS: N/A
 Special Conditions for STA
 STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in 0A602.
 List of Items Controlled
-Related Controls: (1) Modern heavy weapons such as howitzers, artillery, cannon, mortars, and recoilless rifles are "subject to the ITAR." (2) See ECCN 0A919 for foreign- made "military commodities" that incorporate more than a de minimis amount of U.S.-origin "600 series" items. (3) See ECCN 0A606 for engines that are "specially designed" for a self-propelled gun or howitzer subject to control under paragraph.a of this ECCN or USML Category VII.
+Related Controls: (1) Modern heavy weapons such as howitzers, artillery, cannon, mortars, and recoilless rifles are "subject to the ITAR." (2) See ECCN 0A919 for foreign-made "military commodities" that incorporate more than a de minimis amount of U.S.-origin "600 series" items. (3) See ECCN 0A606 for engines that are "specially designed" for a self-propelled gun or howitzer subject to control under paragraph.a of this ECCN or USML Category VII.
 Related Definitions: N/A
 Items:
 a. Guns and armament manufactured between 1890 and 1919.
@@ -362,7 +459,7 @@ Control(s): SS applies to entire entry. For licensing requirements (and possible
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 0A981 Equipment designed for the execution of human beings as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: CC
@@ -399,20 +496,21 @@ GBS: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 Note to ECCN 0A983. In this ECCN, "torture" has the meaning set forth in Section 2340(1) of Title 18, United States Code.
 0A998 Oil and gas exploration equipment, software, and data, as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: Foreign policy
-Control(s): | Country chart
-Russian industry sector sanction applies to entire entry | See § 746.5 for specific license requirements and license review policy.
-List Based License Exceptions (See Part 740 for a description of all license exceptions)
+Control(s) | Country chart
+Russian industry sector sanction applies to entire entry | See § 746.8 for specific license requirements and license review policy.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: a. Oil and gas exploration data, e.g., seismic analysis data.
+Items:
+a. Oil and gas exploration data, e.g., seismic analysis data.
 b. Hydraulic fracturing items, as follows:
 b.1. Hydraulic fracturing design and analysis software and data.
 b.2. Hydraulic fracturing 'proppant,' 'fracking fluid,' and chemical additives therefor.
@@ -432,10 +530,10 @@ Related Definitions: N/A
 Items: a. Ring Magnets;
 b. Reserved.
 B. "Test", "Inspection" and "Production Equipment"
-0B501 Test, inspection, and production "equipment" and related commodities for the "development" or "production" of commodities enumerated or otherwise described in ECCN 0A501 or USML Category I as follows (see List of Items Controlled).
+0B501 Test, inspection, and production "equipment" and related commodities for the "development" or "production" of commodities enumerated or otherwise described in ECCNs 0A501, 0A506, 0A507, or 0A509 or USML Category I as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, RS, UN, AT
-Control(s) | Country chart (see supp. No. 1 to part 738)
+Control(s) | Country chart (see Supp. No. 1 to part 738)
 NS applies to entire entry except equipment for ECCN 0A501.y | NS Column 1
 RS applies to entire entry except equipment for ECCN 0A501.y | RS Column 1
 UN applies to entire entry | See § 746.1 of the EAR for UN controls
@@ -453,7 +551,7 @@ a. Small arms chambering machines.
 b. Small arms deep hole drilling machines and drills therefor.
 c. Small arms rifling machines.
 d. Small arms boring/reaming machines.
-e. Production equipment (including dies, fixtures, and other tooling) "specially designed" for the "production" of the items controlled in 0A501.a through.x. or USML Category I.
+e. Production equipment (including dies, fixtures, and other tooling) "specially designed" for the "production" of the items controlled in 0A501.a through.x., 0A506, 0A507, 0A509, or USML Category I.
 0B505 Test, inspection, and production "equipment" and related commodities "specially designed" for the "development" or "production" of commodities enumerated or otherwise described in ECCN 0A505 or USML Category III, except equipment for the hand loading of cartridges and shotgun shells, as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, RS, UN, AT
@@ -649,36 +747,36 @@ List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
 Items: The List of Items Controlled is contained in the ECCN heading.
-0D501 "Software" "specially designed" for the "development," "production," operation, or maintenance of commodities controlled by 0A501 or 0B501.
+0D501 "Software" "specially designed" for the "development," "production," operation, or maintenance of commodities controlled by 0A501, 0A506, 0A507, 0A509 or 0B501.
 License Requirements
 Reason for Control: NS, RS, UN, AT
 Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to entire entry except "software" for commodities in ECCN 0A501.y or equipment in ECCN 0B501 for commodities in ECCN 0A501.y | NS Column 1
-RS applies to entire entry except "software" for commodities in ECCN 0A501.y or equipment in ECCN 0B501 for commodities in ECCN 0A501.y | RS Column 1
-UN applies to entire entry | See § 746.1 of the EAR for UN controls
-AT applies to entire entry | AT Column 1
+NS applies to entire entry except "software" for commodities in ECCN 0A501.y or equipment in ECCN 0B501 for commodities in ECCN 0A501.y | NS Column 1.
+RS applies to entire entry except "software" for commodities in ECCN 0A501.y or equipment in ECCN 0B501 for commodities in ECCN 0A501.y | RS Column 1.
+UN applies to entire entry | See § 746.1 of the EAR for UN controls.
+AT applies to entire entry | AT Column 1.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 TSR: N/A
 Special Conditions for STA
-STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any "software" in 0D501.
+License Exception STA may not be used for any "software" in ECCN 0D501, to any of the destinations listed in Country Group A:6 (See supplement no.1 to part 740 of the EAR).
 List of Items Controlled
-Related Controls: "Software" required for and directly related to articles enumerated in USML Category I is "subject to the ITAR".
+Related Controls: See USML Category I for "software" directly related to articles described in USML Category I.
 Related Definitions: N/A
 Items: The list of items controlled is contained in this ECCN heading.
 0D505 "Software" "specially designed" for the "development," "production," operation, or maintenance of commodities controlled by 0A505 or 0B505.
 License Requirements
 Reason for Control: NS, RS, UN, AT
 Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to "software" for commodities in ECCN 0A505.a and.x and equipment in ECCN 0B505.a.and.x | NS Column 1
-RS applies to "software" for commodities in ECCN 0A505.a and.x and equipment in ECCN 0B505.a and.x | RS Column 1
-UN applies to entire entry | See § 746.1 of the EAR for UN controls
-AT applies to "software" for commodities in ECCN 0A505.a,.d, or.x and equipment in ECCN 0B505.a,.d, or.x | AT Column 1
+NS applies to "software" for commodities in ECCN 0A505.a and.x and equipment in ECCN 0B505.a.and.x | NS Column 1.
+RS applies to "software" for commodities in ECCN 0A505.a and.x and equipment in ECCN 0B505.a and.x | RS Column 1.
+UN applies to entire entry | See § 746.1 of the EAR for UN controls.
+AT applies to "software" for commodities in ECCN 0A505.a,.d, or.x and equipment in ECCN 0B505.a,.d, or.x | AT Column 1.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 TSR: N/A
 Special Conditions for STA
-STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any "software" in 0D505.
+License Exception STA may not be used for any "software" in ECCN 0D505, to any of the destinations listed in Country Group A:6 (See supplement no.1 to part 740 of the EAR).
 List of Items Controlled
-Related Controls: "Software" required for and directly related to articles enumerated in USML Category III is "subject to the ITAR".
+Related Controls: See USML Category III for "software" directly related to articles described in USML Category III.
 Related Definitions: N/A
 Items: The list of items controlled is contained in this ECCN heading.
 0D521 Any software subject to the EAR that is not listed elsewhere in the CCL, but which is controlled for export because it provides at least a significant military or intelligence advantage to the United States or for foreign policy reasons.
@@ -813,45 +911,47 @@ List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
 Items: The List of Items Controlled is contained in the ECCN heading.
-0E501 "Technology" "required" for the "development," "production," operation, installation, maintenance, repair, or overhaul of commodities controlled by 0A501 or 0B501 as follows (see List of Items Controlled).
+0E501 "Technology" "required" for the "development," "production," operation, installation, maintenance, repair, or overhaul of commodities controlled by 0A501, 0A506, 0A507, 0A509, or 0B501 as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, RS, UN, AT
 Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to entire entry | NS Column 1
-RS applies to entire entry | RS Column 1
-UN applies to entire entry | See § 746.1 of the EAR for UN controls
-AT applies to entire entry | AT Column 1
+NS applies to entire entry | NS Column 1.
+RS applies to entire entry | RS Column 1.
+UN applies to entire entry | See § 746.1 of the EAR for UN controls.
+AT applies to entire entry | AT Column 1.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 TSR: N/A
 Special Conditions for STA
-STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any "technology" in ECCN 0E501.
+License Exception STA may not be used for any "technology" in ECCN 0E501, to any of the destinations listed in Country Group A:6 (See supplement no.1 to part 740 of the EAR).
 List of Items Controlled
-Related Controls: Technical data required for and directly related to articles enumerated in USML Category I are "subject to the ITAR."
+Related Controls: See USML Category I for technical data directly related to articles described in USML Category I.
 Related Definitions: N/A
 Items:
-a. "Technology" "required" for the "development" or "production" of commodities controlled by ECCN 0A501 (other than 0A501.y) or 0B501.
-b. "Technology" "required" for the operation, installation, maintenance, repair, or overhaul of commodities controlled by ECCN 0A501 (other than 0A501.y) or 0B501.
-0E502 "Technology" "required" for the "development" or "production" of commodities controlled by 0A502.
+a. "Technology" "required" for the "development" or "production" of commodities controlled by ECCN 0A501 (other than 0A501.y), 0A506, 0A507, 0A509, or 0B501.
+b. "Technology" "required" for the operation, installation, maintenance, repair, or overhaul of commodities controlled by ECCN 0A501 (other than 0A501.y), 0A506, 0A507, 0A509, or 0B501.
+0E502 "Technology" "required" for the "development" or "production" of commodities controlled by 0A502, 0A508, or 0A509.a or.d.
 License Requirements
 Reason for Control: CC, UN
 Control(s) | Country chart (see Supp. No. 1 to part 738)
-CC applies to entire entry | CC Column 1
-UN applies to entire entry | See § 746.1(b) of the EAR for UN controls
+CC applies to entire entry | CC Column 1.
+UN applies to entire entry | See § 746.1 of the EAR for UN controls.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 TSR: N/A
 List of Items Controlled
-Related Controls: Technical data required for and directly related to articles enumerated in USML Category I are "subject to the ITAR".
+Related Controls: See USML Category I for technical data directly related to articles described in USML Category I.
 Related Definitions: N/A
 Items: The list of items controlled is contained in the ECCN heading.
 0E504 "Technology" "required" for the "development" or "production" of commodities controlled by 0A504 that incorporate a focal plane array or image intensifier tube.
 License Requirements
 Reason for Control: RS, UN, AT
 Control(s) | Country chart (see Supp. No. 1 to part 738)
-RS applies to entire entry | RS Column 1
-UN applies to entire entry | See § 746.1(b) of the EAR for UN controls
-AT applies to entire entry | AT Column 1
+RS applies to entire entry | RS Column 1.
+UN applies to entire entry | See § 746.1(b) of the EAR for UN controls.
+AT applies to entire entry | AT Column 1.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 TSR: N/A
+Special Conditions for STA
+License Exception STA may not be used for "technology" in ECCN 0E504, to any of the destinations listed in Country Group A:5 or A:6 (See supplement no.1 to part 740 of the EAR).
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
@@ -859,18 +959,18 @@ Items: The list of items controlled is contained in the ECCN heading.
 0E505 "Technology" "required" for the "development," "production," operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by 0A505.
 License Requirements
 Reason for Control: NS, RS, UN, CC, AT
-Control(s) | Country chart (see supp. No. 1 to part 738)
-NS applies to "technology" for "development," "production," operation, installation, maintenance, repair, overhaul, or refurbishing commodities in 0A505.a and.x; for equipment for those commodities in 0B505; and for "software" for that equipment and those commodities in 0D505 | NS Column 1
-RS applies to "technology" for "development," "production," operation, installation, maintenance, repair, overhaul, or refurbishing commodities in 0A505.a and.x; for equipment for those commodities in 0B505 and for "software" for those commodities and that equipment in 0D505 | RS Column 1
-UN applies to entire entry | See § 746.1 of the EAR for UN controls
-CC applies to "technology" for the "development" or "production" of commodities in 0A505.b | CC Column 1
-AT applies to "technology" for "development," "production," operation, installation, maintenance, repair, overhaul, or refurbishing commodities in 0A505.a,.d, and.x | AT Column 1
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to "technology" for "development," "production," operation, installation, maintenance, repair, overhaul, or refurbishing commodities in 0A505.a and.x; for "equipment" for those commodities in 0B505; and for "software" for that "equipment" and those commodities in 0D505 | NS Column 1.
+RS applies to "technology" for "development," "production," operation, installation, maintenance, repair, overhaul, or refurbishing commodities in 0A505.a and.x; for "equipment" for those commodities in 0B505 and for "software" for those commodities and that equipment in 0D505 | RS Column 1.
+UN applies to entire entry | See § 746.1 of the EAR for UN controls.
+CC applies to "technology" for the "development" or "production" of commodities in 0A505.b | CC Column 1.
+AT applies to "technology" for "development," "production," operation, installation, maintenance, repair, overhaul, or refurbishing commodities in 0A505.a,.d, and.x | AT Column 1.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 TSR: N/A
 Special Conditions for STA
-STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any "technology" in 0E505.
+License Exception STA may not be used for any "technology" in ECCN 0E505, to any of the destinations listed in Country Group A:6 (See supplement no.1 to part 740 of the EAR).
 List of Items Controlled
-Related Controls: Technical data required for and directly related to articles enumerated in USML Category III are "subject to the ITAR".
+Related Controls: See USML Category III for technical data directly related to articles described in USML Category III.
 Related Definitions: N/A
 Items: The list of items controlled is contained in this ECCN heading.
 0E521 Any technology subject to the EAR that is not listed elsewhere in the CCL, but which is controlled for export because it provides at least a significant military or intelligence advantage to the United States or for foreign policy reasons.
@@ -1280,7 +1380,7 @@ GBS: N/A
 List of Items Controlled
 Related Controls: (1) This entry does not control depleted uranium in fabricated forms for use in munitions. See 22 CFR part 121 for depleted uranium "subject to the ITAR. (2) Depleted uranium that is not fabricated for use in munitions or fabricated into commodities solely to take advantage of its high density (e.g., aircraft, ship, or other counterweights) or in the forms listed in this entry are subject to the export licensing authority of the Nuclear Regulatory Commission. (See 10 CFR part 110.) (3) "Natural uranium" or "depleted uranium" or thorium in the form of metal, alloy, chemical compound or concentrate and any other material containing one or more of the foregoing are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110).
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 1A607 Military dissemination "equipment" for riot control agents, military detection and protection "equipment" for toxicological agents (including chemical, biological, and riot control agents), and related commodities (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, RS, AT, UN
@@ -1561,7 +1661,7 @@ GBS: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 1B117 Batch mixers having all of the following (see List of Items Controlled), and "specially designed" "parts" and "components" therefor.
 License Requirements
 Reason for Control: MT, AT
@@ -1815,22 +1915,23 @@ Related Controls: See ECCN 0A919 for foreign-made "military commodities" that in
 Related Definitions: N/A
 Items: a. Test, inspection, and "production" "equipment," not controlled by USML Category X(c), that is "specially designed" for the "development," "production," repair, overhaul, or refurbishing of commodities controlled by ECCN 1A613 or USML Category X.
 b. Plasma pressure compaction (P2C) "equipment" "specially designed" for the "production" of ceramic or composite body armor plates controlled by ECCN 1A613 or USML Category X.
-1B999 Specific Processing Equipment, n.e.s., as Follows (See List of Items Controlled).
+1B999 Specific processing equipment, n.e.s., as follows (see List of Items Controlled).
 License Requirements
-Reason for Control: AT, RS.
-Control(s) | Country Chart (See Supp. No. 1 to part 738)
+Reason for Control: RS, AT
+Control(s) | Country chart (see supp. no. 1 to part 738)
+RS applies to entire entry | A license is required for items controlled by this entry for export or reexport to Iraq or Pakistan or transfer within Iraq or Pakistan for regional stability reasons. The Commerce Country Chart is not designed to determine RS license requirements for this entry. See §§ 742.6 and 746.3 of the EAR for additional information.
 AT applies to entire entry | A license is required for items controlled by this entry to North Korea for anti-terrorism reasons. The Commerce Country Chart is not designed to determine AT license requirements for this entry. See § 742.19 of the EAR for additional information.
-RS applies to entire entry. | A license is required for items controlled by this entry for export or reexport to Iraq or transfer within Iraq for regional stability reasons. The Commerce Country Chart is not designed to determine RS license requirements for this entry. See §§ 742.6 and 746.3 of the EAR for additional information.
-List Based License Exceptions (See Part 740 for a description of all license exceptions)
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
-Related Controls: See also 1B001, 1B101, 1B201, 1B225 and 1D999.
+Related Controls: See also 1B001, 1B101, 1B201, 1B225, and 1D999
 Related Definitions: N/A
-Items: a. Electrolytic cells for fluorine production, n.e.s.;
-b. Particle accelerators;
-c. Industrial process control hardware/systems designed for power industries, n.e.s.;
-d. Freon and chilled water cooling systems capable of continuous cooling duties of 100,000 BTU/hr (29.3 kW) or greater;
+Items:
+a. Electrolytic cells for fluorine production, n.e.s.
+b. Particle accelerators.
+c. Industrial process control hardware/systems designed for power industries, n.e.s.
+d. Freon and chilled water cooling systems capable of continuous cooling duties of 100,000 BTU/hr (29.3 kW) or greater.
 e. Equipment for the production of structural composites, fibers, prepregs and preforms, n.e.s.
 C. "Materials"
 Technical Note: Metals and alloys: Unless provision to the contrary is made, the words "metals" and "alloys" in 1C001 to 1C011 cover crude and semi-fabricated forms, as follows: Crude forms: Anodes, balls, bars (including notched bars and wire bars), billets, blocks, blooms, brickets, cakes, cathodes, crystals, cubes, dice, grains, granules, ingots, lumps, pellets, pigs, powder, rondelles, shot, slabs, slugs, sponge, sticks; Semi-fabricated forms (whether or not coated, plated, drilled or punched): a. Wrought or worked materials fabricated by rolling, drawing, extruding, forging, impact extruding, pressing, graining, atomizing, and grinding, i.e.: angles, channels, circles, discs, dust, flakes, foils and leaf, forging, plate, powder, pressings and stampings, ribbons, rings, rods (including bare welding rods, wire rods, and rolled wire), sections, shapes, sheets, strip, pipe and tubes (including tube rounds, squares, and hollows), drawn or extruded wire; b. Cast material produced by casting in sand, die, metal, plaster or other types of molds, including high pressure castings, sintered forms, and forms made by powder metallurgy. The object of the control should not be defeated by the export of non-listed forms alleged to be finished products but representing in reality crude forms or semi-fabricated forms.
@@ -2696,36 +2797,17 @@ b. 'Deuterium' not for use in a nuclear reactor.
 1C350 Chemicals that may be used as precursors for toxic chemical agents (see List of Items Controlled).
 License Requirements
 Reason for Control: CB, CW, AT
-Control(s) | Country chart (See Supp. No. 1 to part 738)
-CB applies to entire entry | CB Column 2.
+Control(s) | Country chart (see supp. No. 1 to part 738)
+CB applies to entire entry CB Column 2.
 CW applies to 1C350.b and.c. The Commerce Country Chart is not designed to determine licensing requirements for items controlled for CW reasons. A license is required, for CW reasons, to export or reexport Schedule 2 chemicals and mixtures identified in 1C350.b to States not Party to the CWC (destinations not listed in Supplement No. 2 to part 745 of the EAR). A license is required, for CW reasons, to export Schedule 3 chemicals and mixtures identified in 1C350.c to States not Party to the CWC, unless an End-Use Certificate issued by the government of the importing country has been obtained by the exporter prior to export. A license is required, for CW reasons, to reexport Schedule 3 chemicals and mixtures identified in 1C350.c from a State not Party to the CWC to any other State not Party to the CWC. (See § 742.18 of the EAR for license requirements and policies for toxic and precursor chemicals controlled for CW reasons. See § 745.2 of the EAR for End-Use Certificate requirements that apply to exports of Schedule 3 chemicals to countries not listed in Supplement No. 2 to part 745 of the EAR.)
 AT applies to entire entry. The Commerce Country Chart is not designed to determine licensing requirements for items controlled for AT reasons in 1C350. A license is required, for AT reasons, to export or reexport items controlled by 1C350 to a country in Country Group E:1 of Supplement No. 1 to part 740 of the EAR. (See part 742 of the EAR for additional information on the AT controls that apply to Iran, North Korea, and Syria. See part 746 of the EAR for additional information on sanctions that apply to Iran, North Korea, and Syria.)
-License Requirement Notes
-1. SAMPLE SHIPMENTS: Subject to the following requirements and restrictions, a license is not required for sample shipments when the cumulative total of these shipments does not exceed a 55-gallon container or 200 kg of a single chemical to any one consignee during a calendar year. A consignee that receives a sample shipment under this exclusion may not resell, transfer, or reexport the sample shipment, but may use the sample shipment for any other legal purpose unrelated to chemical weapons.
-a. Chemicals Not Eligible
-A. [Reserved]
-B. CWC Schedule 2 chemicals (States not Party to the CWC). No CWC Schedule 2 chemical or mixture identified in 1C350.b is eligible for sample shipment to States not Party to the CWC (destinations not listed in Supplement No. 2 to part 745 of the EAR) without a license.
-b. Countries Not Eligible: Countries in Country Group E:1 of Supplement No. 1 to part 740 of the EAR are not eligible to receive sample shipments of any chemicals controlled by this ECCN without a license.
-c. Sample shipments that require an End-Use Certificate for CW reasons: No CWC Schedule 3 chemical or mixture identified in 1C350.c is eligible for sample shipment to States not Party to the CWC (destinations not listed in Supplement No. 2 to part 745 of the EAR) without a license, unless an End-Use Certificate issued by the government of the importing country is obtained by the exporter prior to export (see § 745.2 of the EAR for End-Use Certificate requirements).
-d. Sample shipments that require a license for reasons set forth elsewhere in the EAR: Sample shipments, as described in this Note 1, may require a license for reasons set forth elsewhere in the EAR. See, in particular, the end-use/end-user restrictions in part 744 of the EAR, and the restrictions that apply to embargoed countries in part 746 of the EAR.
-e. Annual report requirement. The exporter is required to submit an annual written report for shipments of samples made under this Note 1. The report must be on company letterhead stationery (titled "Report of Sample Shipments of Chemical Precursors" at the top of the first page) and identify the chemical(s), Chemical Abstract Service Registry (C.A.S.) number(s), quantity(ies), the ultimate consignee's name and address, and the date of export for all sample shipments that were made during the previous calendar year. The report must be submitted no later than February 28 of the year following the calendar year in which the sample shipments were made, to: U.S. Department of Commerce, Bureau of Industry and Security, 14th Street and Pennsylvania Ave. NW, Room 2099B, Washington, DC 20230, Attn: "Report of Sample Shipments of Chemical Precursors."
-2. MIXTURES:
-a. Mixtures that contain precursor chemicals identified in ECCN 1C350, in concentrations that are below the levels indicated in 1C350.b through.d, are controlled by ECCN 1C395 or 1C995 and are subject to the licensing requirements specified in those ECCNs.
-b. A license is not required under this ECCN for a mixture, when the controlled chemical in the mixture is a normal ingredient in consumer goods packaged for retail sale for personal use. Such consumer goods are designated EAR99. However, a license may be required for reasons set forth elsewhere in the EAR.
-Note to Mixtures:Calculation of concentrations of AG-controlled chemicals:
-a. Exclusion. No chemical may be added to the mixture (solution) for the sole purpose of circumventing the Export Administration Regulations;
-b. Percent Weight Calculation. When calculating the percentage, by weight, of ingredients in a chemical mixture, include all ingredients of the mixture, including those that act as solvents.
-3. COMPOUNDS. Compounds created with any chemicals identified in this ECCN 1C350 may be shipped NLR (No License Required), without obtaining an End-Use Certificate, unless those compounds are also identified in this entry or require a license for reasons set forth elsewhere in the EAR.
-4. TESTING KITS: Certain medical, analytical, diagnostic, and food testing kits containing small quantities of chemicals identified in this ECCN 1C350, are excluded from the scope of this ECCN and are controlled under ECCN 1C395 or 1C995. (Note that replacement reagents for such kits are controlled by this ECCN 1C350 if the reagents contain one or more of the precursor chemicals identified in 1C350 in concentrations equal to or greater than the control levels for mixtures indicated in 1C350.)
-Technical Notes:
-1. For purposes of this entry, a "mixture" is defined as a solid, liquid or gaseous product made up of two or more ingredients that do not react together under normal storage conditions.
-2. The scope of this control applicable to Hydrogen Fluoride (see 1C350.d.14 in the List of Items Controlled) includes its liquid, gaseous, and aqueous phases, and hydrates.
-3. Precursor chemicals in ECCN 1C350 are listed by name, Chemical Abstract Service (CAS) number and CWC Schedule (where applicable). Precursor chemicals of the same structural formula (e.g., hydrates, isotopically-labeled forms or all possible stereoisomers) are controlled by ECCN 1C350, regardless of name or CAS number. CAS numbers are shown to assist in identifying whether a particular precursor chemical or mixture is controlled under ECCN 1C350, irrespective of nomenclature. However, CAS numbers cannot be used as unique identifiers in all situations because some forms of the listed precursor chemical have different CAS numbers, and mixtures containing a precursor chemical listed in ECCN 1C350 may also have different CAS numbers.
-List Based License Exceptions (See Part 740 for a Description of all License Exceptions)
+License Requirement Notes 1. SAMPLE SHIPMENTS: Subject to the following requirements and restrictions, a license is not required for sample shipments when the cumulative total of these shipments does not exceed a 55-gallon container or 200 kg of a single chemical to any one consignee during a calendar year. A consignee that receives a sample shipment under this exclusion may not resell, transfer, or reexport the sample shipment, but may use the sample shipment for any other legal purpose unrelated to chemical weapons. a. Chemicals Not Eligible A. [Reserved] B. CWC Schedule 2 chemicals (States not Party to the CWC). No CWC Schedule 2 chemical or mixture identified in 1C350.b is eligible for sample shipment to States not Party to the CWC (destinations not listed in Supplement No. 2 to part 745 of the EAR) without a license. b. Countries Not Eligible: Countries in Country Group E:1 of Supplement No. 1 to part 740 of the EAR are not eligible to receive sample shipments of any chemicals controlled by this ECCN without a license. c. Sample shipments that require an End-Use Certificate for CW reasons: No CWC Schedule 3 chemical or mixture identified in 1C350.c is eligible for sample shipment to States not Party to the CWC (destinations not listed in Supplement No. 2 to part 745 of the EAR) without a license, unless an End-Use Certificate issued by the government of the importing country is obtained by the exporter prior to export (see § 745.2 of the EAR for End-Use Certificate requirements). d. Sample shipments that require a license for reasons set forth elsewhere in the EAR: Sample shipments, as described in this Note 1, may require a license for reasons set forth elsewhere in the EAR. See, in particular, the end-use/end-user restrictions in part 744 of the EAR, and the restrictions that apply to embargoed countries in part 746 of the EAR. e. Annual report requirement. The exporter is required to submit an annual written report for shipments of samples made under this Note 1. The report must be on company letterhead stationery (titled "Report of Sample Shipments of Chemical Precursors" at the top of the first page) and identify the chemical(s), Chemical Abstract Service Registry (C.A.S.) number(s), quantity(ies), the ultimate consignee's name and address, and the date of export for all sample shipments that were made during the previous calendar year. The report must be submitted no later than February 28 of the year following the calendar year in which the sample shipments were made, to: U.S. Department of Commerce, Bureau of Industry and Security, 14th Street and Pennsylvania Ave. NW, Room 2099B, Washington, DC 20230, Attn: "Report of Sample Shipments of Chemical Precursors." 2. MIXTURES: a. Mixtures that contain precursor chemicals identified in ECCN 1C350, in concentrations that are below the levels indicated in 1C350.b through.d, are controlled by ECCN 1C395 or 1C995 and are subject to the licensing requirements specified in those ECCNs. b. A license is not required under this ECCN for a mixture, when the controlled chemical in the mixture is a normal ingredient in consumer goods packaged for retail sale for personal use. Such consumer goods are designated EAR99. However, a license may be required for reasons set forth elsewhere in the EAR. Note to Mixtures: Calculation of concentrations of AG-controlled chemicals: a. Exclusion. No chemical may be added to the mixture (solution) for the sole purpose of circumventing the Export Administration Regulations; b. Percent Weight Calculation. When calculating the percentage, by weight, of ingredients in a chemical mixture, include all ingredients of the mixture, including those that act as solvents. 3. COMPOUNDS. Compounds created with any chemicals identified in this ECCN 1C350 may be shipped NLR (No License Required), without obtaining an End-Use Certificate, unless those compounds are also identified in this entry or require a license for reasons set forth elsewhere in the EAR. 4. TESTING KITS: Certain medical, analytical, diagnostic, and food testing kits containing small quantities of chemicals identified in this ECCN 1C350, are excluded from the scope of this ECCN and are controlled under ECCN 1C395 or 1C995. (Note that replacement reagents for such kits are controlled by this ECCN 1C350 if the reagents contain one or more of the precursor chemicals identified in 1C350 in concentrations equal to or greater than the control levels for mixtures indicated in 1C350.)
+Technical Notes: 1. For purposes of this entry, a "mixture" is defined as a solid, liquid or gaseous product made up of two or more ingredients that do not react together under normal storage conditions. 2. The scope of this control applicable to Hydrogen Fluoride (see 1C350.d.14 in the List of Items Controlled) includes its liquid, gaseous, and aqueous phases, and hydrates. 3. Precursor chemicals in ECCN 1C350 are listed by name, Chemical Abstract Service (CAS) number and CWC Schedule (where applicable). Precursor chemicals of the same structural formula (e.g., hydrates, isotopically-labeled forms or all possible stereoisomers) are controlled by ECCN 1C350, regardless of name or CAS number. CAS numbers are shown to assist in identifying whether a particular precursor chemical or mixture is controlled under ECCN 1C350, irrespective of nomenclature. However, CAS numbers cannot be used as unique identifiers in all situations because some forms of the listed precursor chemical have different CAS numbers, and mixtures containing a precursor chemical listed in ECCN 1C350 may also have different CAS numbers.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
-Related Controls: See USML Category XIV(c) for related chemicals "subject to the ITAR" (see 22 CFR parts 120 through 130).
+Related Controls: See USML Category XIV for related chemical agent binary precursors and key precursors "subject to the ITAR" (see 22 CFR parts 120 through 130).
 Related Definitions: See § 770.2(k) of the EAR for synonyms for the chemicals listed in this entry.
 Items:
 a. [Reserved]
@@ -2776,60 +2858,61 @@ d.7. (C.A.S. #2465-65-8) O,O-Diethyl phosphorothioate;
 d.8. (C.A.S. #108-18-9) Di-isopropylamine;
 d.9. (C.A.S. #124-40-3) Dimethylamine;
 d.10. (C.A.S. #506-59-2) Dimethylamine hydrochloride;
-d.11. (C.A.S. #762-77-6) Ethyl chlorofluorophosphate;
-d.12. (C.A.S. #1498-51-7) Ethyl dichlorophosphate;
-d.13. (C.A.S. #460-52-6) Ethyl difluorophosphate;
-d.14. (C.A.S. #7664-39-3) Hydrogen fluoride;
-d.15. (C.A.S. #3554-74-3) 3-Hydroxyl-1-methylpiperidine;
-d.16. (C.A.S. #76-89-1) Methyl benzilate;
-d.17. (C.A.S. #754-01-8) Methyl chlorofluorophosphate;
-d.18. (C.A.S. #677-24-7) Methyl dichlorophosphate;
-d.19. (C.A.S. #22382-13-4) Methyl difluorophosphate;
-d.20. (C.A.S. #14277-06-6) N,N Diethylacetamidine;
-d.21. (C.A.S. #53510-30-8) N,N-Diethylbutanamidine;
-d.22. (C.A.S. #90324-67-7) N,N-Diethylformamidine;
-d.23. (C.A.S. #1342789-47-2) N,N Diethylisobutanamidine;
-d.24. (C.A.S. #84764-73-8) N,N-Diethylpropanamidine;
-d.25. (C.A.S. #1315467-17-4) N,N-Diisopropylbutanamidine;
-d.26. (C.A.S. #857522-08-8) N,N-Diisopropylformamidine;
-d.27. (C.A.S. #2909-14-0) N,N-Dimethylacetamidine;
-d.28. (C.A.S. #1340437-35-5) N,N-Dimethylbutanamidine;
-d.29. (C.A.S. #44205-42-7) N,N-Dimethylformamidine;
-d.30. (C.A.S. #321881-25-8) N,N-Dimethylisobutanamidine;
-d.31. (C.A.S. #56776-14-8) N,N-Dimethylpropanamidine;
-d.32. (C.A.S. #1339586-99-0) N,N-Dipropylacetamidine;
-d.33. C.A.S. #1342422-35-8) N,N-Dipropylbutanamidine;
-d.34. (C.A.S. #48044-20-8) N,N-Dipropylformamidine;
-d.35. (C.A.S. #1342700-45-1) N,N-Dipropylisobutanamidine;
-d.36. (C.A.S. #1341496-89-6) N,N-Dipropylpropanamidine;
-d.37. (C.A.S. #1314-80-3) Phosphorus pentasulfide;
-d.38. (C.A.S. #75-97-8) Pinacolone;
-d.39. (C.A.S. #7789-29-9) Potassium bifluoride;
-d.40. (C.A.S. #151-50-8) Potassium cyanide;
-d.41. (C.A.S. #7789-23-3) Potassium fluoride;
-d.42. (C.A.S. #3731-38-2) 3-Quinuclidone;
-d.43. (C.A.S. #1333-83-1) Sodium bifluoride;
-d.44. (C.A.S. #143-33-9) Sodium cyanide;
-d.45. (C.A.S. #7681-49-4) Sodium fluoride;
-d.46. (C.A.S. #16893-85-9) Sodium hexafluorosilicate;
-d.47. (C.A.S. #1313-82-2) Sodium sulfide;
-d.48. (C.A.S. #637-39-8) Triethanolamine hydrochloride;
-d.49. (C.A.S. #116-17-6) Tri-isopropyl phosphite.
+d.11. (C.A.S. #142-84-7) Dipropylamine
+d.12. (C.A.S. #762-77-6) Ethyl chlorofluorophosphate;
+d.13. (C.A.S. #1498-51-7) Ethyl dichlorophosphate;
+d.14. (C.A.S. #460-52-6) Ethyl difluorophosphate;
+d.15. (C.A.S. #7664-39-3) Hydrogen fluoride;
+d.16. (C.A.S. #3554-74-3) 3-Hydroxyl-1-methylpiperidine;
+d.17. (C.A.S. #76-89-1) Methyl benzilate;
+d.18. (C.A.S. #754-01-8) Methyl chlorofluorophosphate;
+d.19. (C.A.S. #677-24-7) Methyl dichlorophosphate;
+d.20. (C.A.S. #22382-13-4) Methyl difluorophosphate;
+d.21. (C.A.S. #14277-06-6) N,N Diethylacetamidine;
+d.22. (C.A.S. #53510-30-8) N,N-Diethylbutanamidine;
+d.23. (C.A.S. #90324-67-7) N,N-Diethylformamidine;
+d.24. (C.A.S. #1342789-47-2) N,N Diethylisobutanamidine;
+d.25. (C.A.S. #84764-73-8) N,N-Diethylpropanamidine;
+d.26. (C.A.S. #1315467-17-4) N,N-Diisopropylbutanamidine;
+d.27. (C.A.S. #857522-08-8) N,N-Diisopropylformamidine;
+d.28. (C.A.S. #2909-14-0) N,N-Dimethylacetamidine;
+d.29. (C.A.S. #1340437-35-5) N,N-Dimethylbutanamidine;
+d.30. (C.A.S. #44205-42-7) N,N-Dimethylformamidine;
+d.31. (C.A.S. #321881-25-8) N,N-Dimethylisobutanamidine;
+d.32. (C.A.S. #56776-14-8) N,N-Dimethylpropanamidine;
+d.33. (C.A.S. #1339586-99-0) N,N-Dipropylacetamidine;
+d.34. C.A.S. #1342422-35-8) N,N-Dipropylbutanamidine;
+d.35. (C.A.S. #48044-20-8) N,N-Dipropylformamidine;
+d.36. (C.A.S. #1342700-45-1) N,N-Dipropylisobutanamidine;
+d.37. (C.A.S. #1341496-89-6) N,N-Dipropylpropanamidine;
+d.38. (C.A.S. #1314-80-3) Phosphorus pentasulfide;
+d.39. (C.A.S. #75-97-8) Pinacolone;
+d.40. (C.A.S. #7789-29-9) Potassium bifluoride;
+d.41. (C.A.S. #151-50-8) Potassium cyanide;
+d.42. (C.A.S. #7789-23-3) Potassium fluoride;
+d.43. (C.A.S. #3731-38-2) 3-Quinuclidone;
+d.44. (C.A.S. #1333-83-1) Sodium bifluoride;
+d.45. (C.A.S. #143-33-9) Sodium cyanide;
+d.46. (C.A.S. #7681-49-4) Sodium fluoride;
+d.47. (C.A.S. #16893-85-9) Sodium hexafluorosilicate;
+d.48. (C.A.S. #1313-82-2) Sodium sulfide;
+d.49. (C.A.S. #637-39-8) Triethanolamine hydrochloride;
+d.50. (C.A.S. #116-17-6) Tri-isopropyl phosphite.
 1C351 Human and animal pathogens and "toxins," as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: CB, CW, AT
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-CB applies to items controlled by 1C351.d.14 and.15 | CB Column 1
-CB applies to entire entry | CB Column 2
-CW applies to 1C351.d.14 and.d.15 and a license is required for CW reasons for all destinations, including Canada, as follows: CW applies to 1C351.d.14 for ricin in the form of (1) Ricinus communis AgglutininII (RCA II), also known as ricin D or Ricinus Communis LectinIII (RCL III) and (2) Ricinus communis LectinIV (RCL IV), also known as ricin E. CW applies to 1C351.d.15 for saxitoxin identified by C.A.S. #35523-89-8. See § 742.18 of the EAR for licensing information pertaining to chemicals subject to restriction pursuant to the Chemical Weapons Convention (CWC). The Commerce Country Chart is not designed to determine licensing requirements for items controlled for CW reasons.
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-AT applies to entire entry | AT Column 1
-License Requirement Notes: 1. All vaccines and 'immunotoxins' are excluded from the scope of this entry. Certain medical products and diagnostic and food testing kits that contain biological toxins controlled under 1C351.d, with the exception of toxins controlled for CW reasons under 1C351.d.14 or.d.15, are excluded from the scope of this entry. Vaccines, 'immunotoxins,' certain medical products, and diagnostic and food testing kits excluded from the scope of this entry are controlled under ECCN 1C991. 2. For the purposes of this entry, only saxitoxin is controlled under 1C351.d.15; other members of the paralytic shellfish poison family (e.g., neosaxitoxin) are designated EAR99. 3. Clostridium perfringens strains, other than the epsilon toxin-producing strains of Clostridium perfringens described in 1C351.c.12, are excluded from the scope of this entry, since they may be used as positive control cultures for food testing and quality control. 4. Unless specified elsewhere in this ECCN 1C351 (e.g., in License Requirement Notes 1-3), this ECCN controls all biological agents and "toxins," regardless of quantity or attenuation, that are identified in the List of Items Controlled for this ECCN, including small quantities or attenuated strains of select biological agents or "toxins" that are excluded from the lists of select biological agents or "toxins" by the Animal and Plant Health Inspection Service (APHIS), U.S. Department of Agriculture (USDA), or the Centers for Disease Control and Prevention (CDC), U.S. Department of Health and Human Services (HHS), in accordance with their regulations in 9 CFR part 121 and 42 CFR part 73, respectively. 5. Biological agents and pathogens are controlled under this ECCN 1C351 when they are an isolated live culture of a pathogen agent, or a preparation of a toxin agent that has been isolated or extracted from any source or material, including living material that has been deliberately inoculated or contaminated with the agent. Isolated live cultures of a pathogen agent include live cultures in dormant form or in dried preparations, whether the agent is natural, enhanced or modified.
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+CB applies to items controlled by 1C351.d.15 and.16 | CB Column 1.
+CB applies to entire entry | CB Column 2.
+CW applies to 1C351.d.15 and.d.16 and a license is required for CW reasons for all destinations, including Australia, Canada, and the United Kingdom, as follows: CW applies to 1C351.d.15 for ricin in the form of (1) Ricinus communis AgglutininII (RCA II), also known as ricin D or Ricinus Communis LectinIII (RCL III) and (2) Ricinus communis LectinIV (RCL IV), also known as ricin E. CW applies to 1C351.d.16 for saxitoxin identified by C.A.S. #35523-89-8. See § 742.18 of the EAR for licensing information pertaining to chemicals subject to restriction pursuant to the Chemical Weapons Convention (CWC). The Commerce Country Chart is not designed to determine licensing requirements for items controlled for CW reasons.
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+AT applies to entire entry | Column 1.
+License Requirement Notes 1. All vaccines and 'immunotoxins' are excluded from the scope of this entry. Certain medical products and diagnostic and food testing kits that contain biological toxins controlled under 1C351.d, with the exception of toxins controlled for CW reasons under 1C351.d.15 or.d.16, are excluded from the scope of this entry. Vaccines, 'immunotoxins', certain medical products, and diagnostic and food testing kits excluded from the scope of this entry are controlled under ECCN 1C991. 2. Clostridium perfringens strains, other than the epsilon toxin-producing strains of Clostridium perfringens described in 1C351.c.12, are excluded from the scope of this entry, since they may be used as positive control cultures for food testing and quality control. 3. Unless specified elsewhere in this ECCN 1C351 (e.g., in License Requirement Notes 1-3), this ECCN controls all biological agents and "toxins," regardless of quantity or attenuation, that are identified in the List of Items Controlled for this ECCN, including small quantities or attenuated strains of select biological agents or "toxins" that are excluded from the lists of select biological agents or "toxins" by the Animal and Plant Health Inspection Service (APHIS), U.S. Department of Agriculture (USDA), or the Centers for Disease Control and Prevention (CDC), U.S. Department of Health and Human Services (HHS), in accordance with their regulations in 9 CFR part 121 and 42 CFR part 73, respectively. 4. Biological agents and pathogens are controlled under this ECCN 1C351 when they are an isolated live culture of a pathogen agent, or a preparation of a toxin agent that has been isolated or extracted from any source or material, including living material that has been deliberately inoculated or contaminated with the agent. Isolated live cultures of a pathogen agent include live cultures in dormant form or in dried preparations, whether the agent is natural, enhanced or modified.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
-Related Controls: (1) Certain forms of ricin and saxitoxin in 1C351.d.14 and.d.15 are CWC Schedule 1 chemicals (see § 742.18 of the EAR). The U.S. Government must provide advance notification and annual reports to the OPCW of all exports of Schedule 1 chemicals. See § 745.1 of the EAR for notification procedures. See 22 CFR part 121, Category XIV and § 121.7 for CWC Schedule 1 chemicals that are "subject to the ITAR." (2) The Animal and Plant Health Inspection Service (APHIS), U.S. Department of Agriculture, and the Centers for Disease Control and Prevention (CDC), U.S. Department of Health and Human Services, maintain controls on the possession, use, and transfer within the United States of certain items controlled by this ECCN (for APHIS, see 7 CFR 331.3(b), 9 CFR 121.3(b), and 9 CFR 121.4(b); for CDC, see 42 CFR 73.3(b) and 42 CFR 73.4(b)). (3) See 22 CFR part 121, Category XIV(b), for modified biological agents and biologically derived substances that are "subject to the ITAR."
+Related Controls: (1) Certain forms of ricin and saxitoxin in 1C351.d.15 and.d.16 are CWC Schedule 1 chemicals (see § 742.18 of the EAR). The U.S. Government must provide advance notification and annual reports to the OPCW of all exports of Schedule 1 chemicals. See § 745.1 of the EAR for notification procedures. See 22 CFR part 121, Category XIV for CWC Schedule 1 chemicals that are "subject to the ITAR." (2) The Animal and Plant Health Inspection Service (APHIS), U.S. Department of Agriculture, and the Centers for Disease Control and Prevention (CDC), U.S. Department of Health and Human Services, maintain controls on the possession, use, and transfer within the United States of certain items controlled by this ECCN (for APHIS, see 7 CFR 331.3(b), 9 CFR 121.3(b), and 9 CFR 121.4(b); for CDC, see 42 CFR 73.3(b) and 42 CFR 73.4(b)). (3) See USML Category XIV for modified biological agents and biologically derived substances that are "subject to the ITAR" (see 22 CFR parts 120 through 130).
 Related Definitions: For the purposes of this entry, 'immunotoxins' are monoclonal antibodies linked to a toxin with the intention of destroying a specific target cell while leaving adjacent cells intact.
 Items:
 a. Viruses identified on the Australia Group (AG) "List of Human and Animal Pathogens and Toxins for Export Control," as follows:
@@ -2926,7 +3009,7 @@ c.22. Yersinia pestis.
 d. "Toxins" identified on the Australia Group (AG) "List of Human and Animal Pathogens and Toxins for Export Control," as follows, or their subunits:
 d.1. Abrin;
 d.2. Aflatoxins;
-d.3. Botulinum toxins;
+d.3. Botulinum neurotoxins;
 d.4. Brevetoxins;
 d.5. Clostridium perfringens alpha, beta 1, beta 2, epsilon and iota toxins;
 d.6. Conotoxins;
@@ -2935,32 +3018,35 @@ d.8. Gonyautoxins;
 d.9. HT-2 toxin;
 d.10. Microcystins (Cyanginosins);
 d.11. Modeccin;
-d.12. Nodularins;
-d.13. Palytoxin;
-d.14. Ricin;
-d.15. Saxitoxin;
-d.16. Shiga toxins (shiga-like toxins, verotoxins, and verocytotoxins);
-d.17. Staphylococcus aureus enterotoxins, hemolysin alpha toxin, and toxic shock syndrome toxin (formerly known as Staphylococcus enterotoxin F);
-d.18. T-2 toxin;
-d.19. Tetrodotoxin;
-d.20. Viscumin (Viscum album lectin 1); or
-d.21. Volkensin.
+d.12. Neosaxitoxin (NEO);
+d.13. Nodularins;
+d.14. Palytoxin;
+d.15. Ricin;
+d.16. Saxitoxin;
+d.17. Shiga toxins (shiga-like toxins, verotoxins, and verocytotoxins);
+d.18. Staphylococcus aureus enterotoxins, hemolysin alpha toxin, and toxic shock syndrome toxin (formerly known as Staphylococcus enterotoxin F);
+d.19. T-2 toxin;
+d.20. Tetrodotoxin;
+d.21. Viscumin (Viscum album lectin 1); or
+d.22. Volkensin.
 e. "Fungi", as follows:
 e.1. Coccidioides immitis; or
 e.2. Coccidioides posadasii.
 1C353 Genetic elements and genetically modified organisms, as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: CB, AT
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-CB applies to genetic elements of items controlled by 1C351.d.14 and.15 | CB Column 1
-CB applies to entire entry | CB Column 2
-AT applies to entire entry | AT Column 1
-License Requirements Notes: 1. Vaccines that contain genetic elements or genetically modified organisms identified in this ECCN are controlled by ECCN 1C991. 2. Unless specified elsewhere in this ECCN 1C353 (e.g., in License Requirement Note 1), this ECCN controls genetic elements or genetically modified organisms for all biological agents and "toxins," regardless of quantity or attenuation, that are identified in the List of Items Controlled for this ECCN, including genetic elements or genetically modified organisms for attenuated strains of select biological agents or "toxins" that are excluded from the lists of select biological agents or "toxins" by the Animal and Plant Health Inspection Service (APHIS), U.S. Department of Agriculture, or the Centers for Disease Control and Prevention (CDC), U.S. Department of Health and Human Services, in accordance with the APHIS regulations in 7 CFR part 331 and 9 CFR part 121 and the CDC regulations in 42 CFR part 73.
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+CB applies to genetic elements of items controlled by 1C351.d.15 and.16 | CB Column 1.
+CB applies to entire entry | CB Column 2.
+AT applies to entire entry | AT Column 1.
+License Requirements Notes:
+1. Vaccines that contain genetic elements or genetically modified organisms identified in this ECCN are controlled by ECCN 1C991.
+2. Unless specified elsewhere in this ECCN 1C353 (e.g., in License Requirement Note 1), this ECCN controls genetic elements or genetically modified organisms for all biological agents and "toxins," regardless of quantity or attenuation, that are identified in the List of Items Controlled for this ECCN, including genetic elements or genetically modified organisms for attenuated strains of select biological agents or "toxins" that are excluded from the lists of select biological agents or "toxins" by the Animal and Plant Health Inspection Service (APHIS), U.S. Department of Agriculture, or the Centers for Disease Control and Prevention (CDC), U.S. Department of Health and Human Services, in accordance with the APHIS regulations in 7 CFR part 331 and 9 CFR part 121 and the CDC regulations in 42 CFR part 73.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
-Related Controls: (1) The Animal and Plant Health Inspection Service (APHIS), U.S. Department of Agriculture, and the Centers for Disease Control and Prevention (CDC), U.S. Department of Health and Human Services, maintain controls on the possession, use, and transfer within the United States of certain items controlled by this ECCN, including (but not limited to) certain genetic elements, recombinant nucleic acids, and recombinant organisms associated with the agents or toxins in ECCN 1C351 or 1C354 (for APHIS, see 7 CFR 331.3(c), 9 CFR 121.3(c), and 9 CFR 121.4(c); for CDC, see 42 CFR 73.3(c) and 42 CFR 73.4(c)). (2) See 22 CFR part 121, Category XIV(b), for modified biological agents and biologically derived substances that are subject to the export licensing jurisdiction of the U.S. Department of State, Directorate of Defense Trade Controls.
+Related Controls: (1) The Animal and Plant Health Inspection Service (APHIS), U.S. Department of Agriculture, and the Centers for Disease Control and Prevention (CDC), U.S. Department of Health and Human Services, maintain controls on the possession, use, and transfer within the United States of certain items controlled by this ECCN, including (but not limited to) certain genetic elements, recombinant nucleic acids, and recombinant organisms associated with the agents or toxins in ECCN 1C351 or 1C354 (for APHIS, see 7 CFR 331.3(c), 9 CFR 121.3(c), and 9 CFR 121.4(c); for CDC, see 42 CFR 73.3(c) and 42 CFR 73.4(c)). (2) See USML Category XIV for modified biological agents and biologically derived substances that are "subject to the ITAR" (see 22 CFR parts 120 through 130).
 Related Definition: N/A
 Items:
 a. Any genetically modified organism that contains, or any genetic element that codes for, any of the following:
@@ -3163,7 +3249,7 @@ Control(s): SS applies to entire entry. For licensing requirements (and possible
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 1C983 Natural gas liquids and other natural gas derivatives listed in Supplement No. 1 to part 754 of the EAR that were produced or derived from the Naval Petroleum Reserves (NPR) or became available for export as a result of an exchange of any NPR produced or derived commodities.
 License Requirements
 Reason for Control: SS
@@ -3171,7 +3257,7 @@ Control(s): SS applies to entire entry. For licensing requirements (and possible
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 1C984 Manufactured gas and synthetic natural gas (except when commingled with natural gas and thus subject to export authorization from the Department of Energy) listed in Supplement No. 1 to part 754 of the EAR that were produced or derived from the Naval Petroleum Reserves (NPR) or became available for export as a result of an exchange of any NPR produced or derived commodities.
 License Requirements
 Reason for Control: SS
@@ -3179,7 +3265,7 @@ Control(s): SS applies to entire entry. For licensing requirements (and possible
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 1C988 Unprocessed western red cedar (thuja plicata) logs and timber, and rough, dressed and worked lumber containing wane, as described in § 754.4 of the EAR.
 License Requirements
 Reason for Control: SS
@@ -3187,7 +3273,7 @@ Control(s): SS applies to entire entry. For licensing requirements (and possible
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: For a non-exhaustive list of 10-digit Harmonized System-based Schedule B commodity numbers that may apply to unprocessed Western Red Cedar products subject to § 754.4 and related definitions, see Supplement No. 2 to part 754 of the EAR.
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 1C990 Fibrous and filamentary materials, not controlled by 1C010 or 1C210, for use in "composite" structures and with a specific modulus of 3.18 × 10 6 m or greater and a specific tensile strength of 7.62 × 10 4 m or greater.
 License Requirements
 Reason for Control: AT
@@ -3199,11 +3285,11 @@ GBS: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 1C991 Vaccines, immunotoxins, medical products, diagnostic and food testing kits, as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: CB, AT
-Control(s) | Country chart (See Supp. No. 1 to part 738)
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
 CB applies to 1C991.c | CB Column 3.
 AT applies to entire entry | AT Column 1.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
@@ -3222,27 +3308,28 @@ Technical Note: For purposes of the controls described in this ECCN, 'toxins' re
 a. Vaccines containing, or designed for use against, items controlled by ECCN 1C351, 1C353 or 1C354.
 b. Immunotoxins containing toxins controlled by 1C351.d;
 c. Medical products that contain any of the following:
-c.1. Toxins controlled by ECCN 1C351.d (except for botulinum toxins controlled by ECCN 1C351.d.3, conotoxins controlled by ECCN 1C351.d.6, or items controlled for CW reasons under ECCN 1C351.d.14 or.d.15); or
-c.2. Genetically modified organisms or genetic elements controlled by ECCN 1C353.a.3 (except for those that contain, or code for, botulinum toxins controlled by ECCN 1C351.d.3 or conotoxins controlled by ECCN 1C351.d.6);
+c.1. Toxins controlled by ECCN 1C351.d (except for botulinum neurotoxins controlled by ECCN 1C351.d.3, conotoxins controlled by ECCN 1C351.d.6, or items controlled for CW reasons under ECCN 1C351.d.15 or.d.16); or
+c.2. Genetically modified organisms or genetic elements controlled by ECCN 1C353.a.3 (except for those that contain, or code for, botulinum neurotoxins controlled by ECCN 1C351.d.3 or conotoxins controlled by ECCN 1C351.d.6);
 d. Medical products not controlled by 1C991.c that contain any of the following:
-d.1. Botulinum toxins controlled by ECCN 1C351.d.3;
+d.1. Botulinum neurotoxins controlled by ECCN 1C351.d.3;
 d.2. Conotoxins controlled by ECCN 1C351.d.6; or
-d.3. Genetically modified organisms or genetic elements controlled by ECCN 1C353.a.3 that contain, or code for, botulinum toxins controlled by ECCN 1C351.d.3 or conotoxins controlled by ECCN 1C351.d.6;
-e. Diagnostic and food testing kits containing toxins controlled by ECCN 1C351.d (except for items controlled for CW reasons under ECCN 1C351.d.14 or.d.15).
+d.3. Genetically modified organisms or genetic elements controlled by ECCN 1C353.a.3 that contain, or code for, botulinum neurotoxins controlled by ECCN 1C351.d.3 or conotoxins controlled by ECCN 1C351.d.6;
+e. Diagnostic and food testing kits containing toxins controlled by ECCN 1C351.d (except for items controlled for CW reasons under ECCN 1C351.d.15 or.d.16).
 1C992 Commercial charges and devices containing energetic materials, n.e.s. and nitrogen trifluoride in a gaseous state (see List of Items Controlled).
 License Requirements
 Reason for Control: AT, RS, foreign policy
 Control(s) | Country chart (see Supp. No. 1 to part 738)
-AT applies to entire entry | AT Column 1
+AT applies to entire entry | AT Column 1.
 RS applies to entire entry | A license is required for items controlled by this entry for export or reexport to Iraq and transfer within Iraq for regional stability reasons. The Commerce Country Chart is not designed to determine RS license requirements for this entry. See §§ 742.6 and 746.3 of the EAR for additional information.
-Russian industry sector sanctions apply to entire entry | See § 746.5 for specific license requirements and license review policy.
-List Based License Exceptions (See Part 740 for a description of all license exceptions)
+Russian industry sector sanctions apply to entire entry | See § 746.8 for specific license requirements and license review policy.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
-Related Controls: (1) Commercial charges and devices containing USML controlled energetic materials that exceed the quantities noted or that are not covered by this entry are controlled under ECCN 1C608. (2) Nitrogen trifluoride when not in a gaseous state is controlled under ECCN 1C608.
-Related Definitions: (1) Items controlled by this entry ECCN 1C992 are those materials not controlled by ECCN 1C608 and not "subject to the ITAR" (see 22 CFR Parts 120 through 130). (2) For purposes of this entry, the term "controlled materials" means controlled energetic materials (see ECCNs 1C011, 1C111, 1C239, and 1C608; see also 22 CFR 121.1, Category V). (3) The individual USML controlled energetic materials, even when compounded with other materials, remain "subject to the ITAR" when not incorporated into explosive devices or charges controlled by this entry. (4) Commercial prefabricated slurries and emulsions containing greater than 35% of USML controlled energetic materials are "subject to the ITAR" (see 22 CFR parts 120 through 130). (5) For purposes of this entry, the mass of aluminum powder, potassium perchlorate, and any of the substances listed in the note to the USML (see 22 CFR 121.12) (such as ammonium pictrate, black powder, etc.) contained in commercial explosive devices and in the charges are omitted when determining the total mass of controlled material.
-Items: a. Shaped charges "specially designed" for oil well operations, utilizing one charge functioning along a single axis, that upon detonation produce a hole, and
+Related Controls: (1) Commercial charges and devices "subject to the EAR," contain energetic materials described on the USML that exceed the quantities noted or that are not covered by this entry are controlled under ECCN 1C608. (2) Nitrogen trifluoride when not in a gaseous state is controlled under ECCN 1C608.
+Related Definitions: (1) Items controlled by this entry ECCN 1C992 are those materials not controlled by ECCN 1C608 and not "subject to the ITAR." (2) For purposes of this entry, the term "controlled materials" means controlled energetic materials (see ECCNs 1C011, 1C111, 1C239, and 1C608; see also 22 CFR 121.1, Category V). (3) The individual energetic materials described on the USML, even when compounded with other materials, remain "subject to the ITAR" when not incorporated into explosive devices or charges. (4) Commercial prefabricated slurries and emulsions containing greater than 35% of energetic materials described on the USML are "subject to the ITAR." (5) For purposes of this entry, the mass of aluminum powder, potassium perchlorate, and any of the substances listed in the note to the USML (see 22 CFR 121.12) (such as ammonium pictrate, black powder, etc.) contained in commercial explosive devices and in the charges are omitted when determining the total mass of controlled material.
+Items:
+a. Shaped charges "specially designed" for oil well operations, utilizing one charge functioning along a single axis, that upon detonation produce a hole, and
 a.1. Contain any formulation of controlled materials;
 a.2. Have only a uniform shaped conical liner with an included angle of 90 degrees or less;
 a.3. Contain more than 0.010 kg but less than or equal to 0.090 kg of controlled materials; and
@@ -3254,7 +3341,7 @@ e. Detonators (electric or nonelectric) and assemblies thereof, that contain les
 f. Igniters, that contain less than or equal to 0.01 kg of controlled materials;
 g. Oil well cartridges, that contain less than or equal to 0.015 kg of controlled energetic materials;
 h. Commercial cast or pressed boosters containing less than or equal to 1.0 kg of controlled materials;
-i. Commercial prefabricated slurries and emulsions containing less than or equal to 10.0 kg and less than or equal to thirty-five percent by weight of USML controlled materials;
+i. Commercial prefabricated slurries and emulsions containing less than or equal to 10.0 kg and less than or equal to thirty-five percent by weight of materials described on the USML;
 j. Cutters and severing tools containing less than or equal to 3.5 kg of controlled materials;
 k. Pyrotechnic devices when designed exclusively for commercial purposes (e.g., theatrical stages, motion picture special effects, and fireworks displays) and containing less than or equal to 3.0 kg of controlled materials; or
 l. Other commercial explosive devices and charges not controlled by 1C992.a through.k containing less than or equal to 1.0 kg of controlled materials.
@@ -3377,7 +3464,7 @@ Special Conditions for STA
 STA: License Exception STA may not be used to ship or transmit "software" for the "development" of organic "matrix", metal "matrix" or carbon "matrix" laminates or "composites" specified in ECCN 1A002 to any of the destinations listed in Country Group A:6 (See Supplement No. 1 to part 740 of the EAR).
 Related Controls: "Software" for items controlled by 1A102 are "subject to the ITAR" (see 22 CFR parts 120 through 130).
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 1D003 "Software" "specially designed" or modified to enable equipment to perform the functions of equipment controlled under 1A004.c or 1A004.d.
 License Requirements
 Reason for Control: NS, RS, AT
@@ -3406,7 +3493,7 @@ TSR: N/A
 List of Items Controlled
 Related Controls: See ECCN 1D608 for "software" for items classified under ECCN 1B608 that, immediately prior to July 1, 2014, were classified under 1B018.a.
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 1D101 "Software" "specially designed" or modified for the operation or maintenance of commodities controlled by 1B101, 1B102, 1B115, 1B117, 1B118, or 1B119.
 License Requirements
 Reason for Control: MT, NP, AT
@@ -3431,7 +3518,7 @@ TSR: N/A
 List of Items Controlled
 Related Controls: (1) This entry includes "software" "specially designed" for analysis of signature reduction. (2) For software that meets the definition of defense articles under 22 CFR 120.3 of the International Traffic in Arms Regulations (ITAR), which describes similar software that are "subject to the ITAR" (see 22 CFR parts 120 through 130, including USML Category XIII).
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 1D201 "Software" "specially designed" or modified for the "use" of items controlled by 1B201.
 License Requirements
 Reason for Control: NP, AT
@@ -3455,7 +3542,7 @@ TSR: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: See Section 772.1 of the EAR for the definitions of "software," "program," and "microprogram."
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 1D607 "Software" "specially designed" for the "development," "production," operation, or maintenance of items controlled by 1A607, 1B607 or 1C607 (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, RS, AT, UN
@@ -3521,7 +3608,7 @@ TSR: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 1D999 Specific Software, n.e.s., as Follows (See List of Items Controlled).
 License Requirements
 Reason for Control: AT
@@ -3538,15 +3625,15 @@ E. "Technology"
 1E001 "Technology" according to the General Technology Note for the "development" or "production" of items controlled by 1A002, 1A003, 1A004, 1A005, 1A006.b, 1A007, 1A008 1A101, 1A231, 1B (except 1B608, 1B613 or 1B999), or 1C (except 1C355, 1C608, 1C980 to 1C984, 1C988, 1C990, 1C991, 1C995 to 1C999).
 License Requirements
 Reason for Control: NS, MT, NP, CB, RS, AT
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to "technology" for items controlled by 1A002, 1A003, 1A005, 1A006.b, 1A007, 1B001 to 1B003, 1B018, 1C001 to 1C011, or 1C018 | NS Column 1
-NS applies to "technology" for items controlled by 1A004 | NS Column 2
-MT applies to "technology" for items controlled by 1A101, 1B001, 1B101, 1B102, 1B115 to 1B119, 1C001, 1C007, 1C011, 1C101, 1C102, 1C107, 1C111, 1C116, 1C117, or 1C118 for MT reasons | MT Column 1
-NP applies to "technology" for items controlled by 1A002, 1A007, 1A231, 1B001, 1B101, 1B201, 1B225, 1B226, 1B228 to 1B234, 1C002, 1C010, 1C111, 1C116, 1C202, 1C210, 1C216, 1C225 to 1C237, or 1C239 to 1C241 for NP reasons | NP Column 1
-CB applies to "technology" for items controlled by 1C351.d.14 and.15 and the 1C353 genetic elements of toxins in ECCN 1C351.d.14 and.15 | CB Column 1
-CB applies to "technology" for items controlled by 1C351, 1C353, or 1C354; and CB applies to "technology" for materials controlled by 1C350 and for chemical detection systems and dedicated detectors therefor, in 1A004.c, that also have the technical characteristics described in 2B351.a | CB Column 2
-RS applies to technology for equipment controlled in 1A004.d | RS Column 2
-AT applies to entire entry | AT Column 1
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+NS applies to "technology" for items controlled by 1A002, 1A003, 1A005, 1A006.b, 1A007, 1B001 to 1B003, 1B018, 1C001 to 1C011, or 1C018 | NS Column 1.
+NS applies to "technology" for items controlled by 1A004 | NS Column 2.
+MT applies to "technology" for items controlled by 1A101, 1B001, 1B101, 1B102, 1B115 to 1B119, 1C001, 1C007, 1C011, 1C101, 1C102, 1C107, 1C111, 1C116, 1C117, or 1C118 for MT reasons | MT Column 1.
+NP applies to "technology" for items controlled by 1A002, 1A007, 1A231, 1B001, 1B101, 1B201, 1B225, 1B226, 1B228 to 1B234, 1C002, 1C010, 1C111, 1C116, 1C202, 1C210, 1C216, 1C225 to 1C237, or 1C239 to 1C241 for NP reasons | NP Column 1.
+CB applies to "technology" for items controlled by 1C351.d.15 and.16 and the 1C353 genetic elements of toxins in ECCN 1C351.d.15 and.16 | CB Column 1.
+CB applies to "technology" for items controlled by 1C351, 1C353, or 1C354; and CB applies to "technology" for materials controlled by 1C350 and for chemical detection systems and dedicated detectors therefor, in 1A004.c, that also have the technical characteristics described in 2B351.a | CB Column 2.
+RS applies to technology for equipment controlled in 1A004.d | RS Column 2.
+AT applies to entire entry | AT Column 1.
 Reporting Requirements
 See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
@@ -3704,10 +3791,10 @@ Items: The list of items controlled is contained in the ECCN heading.
 1E351 "Technology" according to the "General Technology Note" for the disposal of chemicals or microbiological materials controlled by 1C350, 1C351, 1C353, or 1C354.
 License Requirements
 Reason for Control: CB, AT
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-CB applies to "technology" for the disposal of items controlled by 1C351.d.14 and.15 and the 1C353 genetic elements of toxins in ECCN 1C351.d.14 and.15 | CB Column 1
-CB applies to "technology" for the disposal of items controlled by 1C351, 1C353, or 1C354; and CB applies to "technology" for the disposal of items controlled by 1C350 | CB Column 2
-AT applies to entire entry | AT Column 1
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+CB applies to "technology" for the disposal of items controlled by 1C351.d.15 and.16 and the 1C353 genetic elements of toxins in ECCN 1C351.d.15 and.16 | CB Column 1.
+CB applies to "technology" for the disposal of items controlled by 1C351, 1C353, or 1C354; and CB applies to "technology" for the disposal of items controlled by 1C350 | CB Column 2.
+AT applies to entire entry | AT Column 1.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 TSR: N/A
 List of Items Controlled
@@ -4073,16 +4160,20 @@ d. Active magnetic bearing systems.
 e. Fabric-lined self-aligning or fabric-lined journal sliding bearings manufactured for use at operating temperatures below 219 K (−54 °C) or above 423 K (150 °C).
 2A992 Piping, fittings and valves made of, or lined with stainless, copper-nickel alloy or other alloy steel containing 10% or more nickel and/or chromium.
 License Requirements
-Reason for Control: AT
+Reason for Control: RS, AT
 Control(s) | Country chart (see supp. no. 1 to part 738)
-AT applies to entire entry | AT Column 1
-List Based License Exceptions (See part 740 for a Description of All License Exceptions)
+RS applies to entire entry | A license is required for items controlled by this entry for export or reexport to Pakistan or transfer within Pakistan for regional stability reasons. The Commerce Country Chart is not designed to determine RS license requirements for this entry. See § 742.6(a)(12) of the EAR for additional information.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
-Related Controls: (1) See ECCN 2D993 for software for items controlled under this entry. (2) See ECCNs 2E001 ("development"), 2E002 ("production"), and 2E993 ("use") for technology for items controlled under this entry. (3) Also see ECCNs 2A226, 2B350 and 2B999.
-Related Definitions: N/A
-Items: a. Pressure tube, pipe, and fittings of 200 mm (8 in.) or more inside diameter, and suitable for operation at pressures of 3.4 MPa (500 psi) or greater;
+Related Controls:
+(1) See ECCN 2D993 for software for items controlled under this entry.
+(2) See ECCNs 2E001 ("development"), 2E002 ("production"), and 2E993 ("use") for technology for items controlled under this entry.
+(3) Also see ECCNs 2A226, 2B350 and 2B999. Related Definitions: N/A
+Items:
+a. Pressure tube, pipe, and fittings of 200 mm (8 in.) or more inside diameter, and suitable for operation at pressures of 3.4 MPa (500 psi) or greater;
 b. Pipe valves having all of the following characteristics that are not controlled by ECCN 2B350.g:
 b.1. A pipe size connection of 200 mm (8 in.) or more inside diameter; and
 b.2. Rated at 10.3 MPa (1,500 psi) or more.
@@ -4108,7 +4199,7 @@ GBS: N/A
 List of Items Controlled
 Related Controls: See also 2D994 and 2E994.
 Related Definitions: 'Portable electric generators' - The generators that are in 2A994 are portable - 5,000 lbs. or less on wheels or transportable in a 2 1/2 ton truck without a special set up requirement.
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 2A999 Specific Processing Equipment, n.e.s., as Follows (See List of Items Controlled).
 License Requirements
 Reason for Control: AT
@@ -4129,8 +4220,7 @@ License Requirements
 Reason for Control: NS, NP, AT
 Control(s) | Country chart (See Supp. No. 1 to part 738)
 NS applies to entire entry | NS Column 2.
-NP applies to 2B001.a,.b,.c, and.d, EXCEPT: | NP Column 1.
-(1) turning machines under 2B001.a with a capacity no greater than 35 mm diameter; (2) bar machines (Swissturn), limited to machining only bar feed through, if maximum bar diameter is equal to or less than 42 mm and there is no capability of mounting chucks. (Machines may have drilling and/or milling capabilities for machining "parts" or "components" with diameters less than 42 mm); or (3) milling machines under 2B001.b with x-axis travel greater than two meters and overall positioning accuracy according to ISO 230/2 (2006) on the x-axis more (worse) than 22.5 µm.
+NP applies to 2B001.a,.b,.c, and.d, EXCEPT: (1) turning machines under 2B001.a with a capacity no greater than 35 mm diameter; (2) bar machines (Swissturn), limited to machining only bar feed through, if maximum bar diameter is equal to or less than 42 mm and there is no capability of mounting chucks. (Machines may have drilling and/or milling capabilities for machining "parts" or "components" with diameters less than 42 mm); or (3) milling machines under 2B001.b with x-axis travel greater than two meters and overall positioning accuracy according to ISO 230/2 (2006) on the x-axis more (worse) than 22.5 µm. | NP Column 1.
 AT applies to entire entry | AT Column 1.
 List Based License Exceptions (See Part 740 for a description of all license exceptions)
 LVS: N/A
@@ -4363,7 +4453,7 @@ a. Three or more axes which can be coordinated simultaneously for "contouring co
 b. A roller force more than 60 kN.
 Technical Note: For the purposes of 2B009, machines combining the function of spin-forming and flow-forming are regarded as flow-forming machines.
 2B018 Equipment on the Wassenaar Arrangement Munitions List.
-No commodities currently are controlled by this entry. Commodities formerly controlled by paragraphs.a through.d,.m, and.s of this entry are controlled in ECCN 0B606. Commodities formerly controlled by paragraphs.e through.l of this entry are controlled by ECCN 0B602. Commodities formerly controlled by paragraphs.o through.r of this entry are controlled by ECCN 0B501. Commodities formerly controlled by paragraph.n of this entry are controlled in ECCN 0B501 if they are "specially designed" for the "production" of the items controlled in ECCN 0A501.a through.x or USML Category I and controlled in ECCN 0B602 if they are of the kind exclusively designed for use in the manufacture of items in ECCN 0A602 or USML Category II.
+No commodities currently are controlled by this entry. Commodities formerly controlled by paragraphs.a through.d,.m, and.s of this entry are controlled in ECCN 0B606. Commodities formerly controlled by paragraphs.e through.l of this entry are controlled by ECCN 0B602. Commodities formerly controlled by paragraphs.o through.r of this entry are controlled by ECCN 0B501. Commodities formerly controlled by paragraph.n of this entry are controlled in ECCN 0B501 if they are "specially designed" for the "production" of the items controlled in ECCNs 0A501.a through.x, 0A506, 0A507, or 0A509 or USML Category I and controlled in ECCN 0B602 if they are of the kind exclusively designed for use in the manufacture of items in ECCN 0A602 or USML Category II.
 2B104 "Isostatic presses", other than those controlled by 2B004, having all of the following characteristics (see List of Items Controlled).
 License Requirements
 Reason for Control: MT, NP, AT
@@ -4902,21 +4992,23 @@ Note: See Categories V and XIV of the United States Munitions List for all chemi
 2B351 Toxic gas monitors and monitoring systems, and their dedicated detecting "parts" and "components" (i.e., detectors, sensor devices, and replaceable sensor cartridges), as follows, except those systems and detectors controlled by ECCN 1A004.c (see List of Items Controlled).
 License Requirements
 Reason for Control: CB, AT
-Control(s) | Country Chart (See Supp. No. 1 to part 738)
-CB applies to entire entry | CB Column 2
-AT applies to entire entry | AT Column 1
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+CB applies to entire entry | CB Column 2.
+AT applies to entire entry | AT Column 1.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
 Related Controls: See ECCN 2D351 for "software" for toxic gas monitors and monitoring systems, and their dedicated detecting "parts" and "components," controlled by this ECCN. Also see ECCN 1A004, which controls chemical detection systems and "specially designed" "parts" and "components" therefor that are "specially designed" or modified for detection or identification of chemical warfare agents, but not "specially designed" for military use, and ECCN 1A995, which controls certain detection equipment, "parts" and "components" not controlled by ECCN 1A004 or by this ECCN.
 Related Definitions: (1) For the purposes of this entry, the term "dedicated" means committed entirely to a single purpose or device. (2) For the purposes of this entry, the term "continuous operation" describes the capability of the equipment to operate on line without human intervention. The intent of this entry is to control toxic gas monitors and monitoring systems capable of collection and detection of samples in environments such as chemical plants, rather than those used for batch-mode operation in laboratories.
-Items: a. Designed for continuous operation and usable for the detection of chemical warfare agents or precursor chemicals controlled by 1C350 at concentrations of less than 0.3 mg/m 3; or
+Items:
+a. Designed for continuous operation and usable for the detection of chemical warfare agents or precursor chemicals controlled by 1C350 'minimum detection limit' of 0.3 mg/m 3; or
 b. Designed for the detection of cholinesterase-inhibiting activity.
+Technical note: The 'minimum detection limit' of toxic gas monitors or monitoring systems is the lowest detectable concentration of the analyte required to produce a signal greater than three times the standard deviation of the toxic gas monitor's or monitoring system's signal when measuring a blank sample. In the case of toxic gas monitors or monitoring systems having a deadband or programmed zero suppression, the 'minimum detection limit' is the lowest detectable concentration required to produce a reading.
 2B352 Equipment Capable of Use in Handling Biological Materials, as Follows (See List of Items Controlled).
 License Requirements
 Reason for Control: CB, AT
-Control(s) | Country chart (See Supp. No. 1 to part 738)
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
 CB applies to entire entry | CB Column 2.
 AT applies to entire entry | AT Column 1.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
@@ -4939,15 +5031,14 @@ b.2. Components designed for such fermenters, as follows:
 b.2.a. Cultivation chambers designed to be sterilized or disinfected in situ;
 b.2.b. Cultivation chamber holding devices; or
 b.2.c. Process control units capable of simultaneously monitoring and controlling two or more fermentation system parameters (e.g., temperature, pH, nutrients, agitation, dissolved oxygen, air flow, foam control).
-Technical Notes to 2B352.b:
-1. Fermenters include bioreactors (including single-use (disposable) bioreactors), chemostats and continuous-flow systems.
-2. Cultivation chamber holding devices controlled by 2B352.b.2.b include single-use cultivation chambers with rigid walls.
-c. Centrifugal separators capable of the continuous separation of pathogenic microorganisms, without the propagation of aerosols, and having all of the following characteristics:
-c.1. One or more sealing joints within the steam containment area;
-c.2. A flow rate greater than 100 liters per hour;
-c.3. "Parts" or "components" of polished stainless steel or titanium; and
-c.4. Capable of in-situ steam sterilization in a closed state.
-Technical Note to 2B352.c: Centrifugal separators include decanters.
+Technical Notes to 2B352.b: 1. Fermenters include bioreactors (including single-use (disposable) bioreactors), chemostats and continuous-flow systems. 2. Cultivation chamber holding devices controlled by 2B352.b.2.b include single-use cultivation chambers with rigid walls.
+c. Centrifugal separators capable of continuous separation, without the propagation of aerosols, having a flow rate greater than 100 liters per hour, as follows:
+c.1. Centrifugal separators having all of the following characteristics:
+c.1.a. One or more sealing joints within the steam containment area;
+c.1.b. Components of polished stainless steel or titanium; and
+c.1.c. Capable of in-situ steam sterilization in a closed state.
+c.2. Single-use centrifugal separators, in which all components that come in direct contact with the substances being processed are disposable or single-use.
+Technical Note to 2B352.c: Centrifugal separators and single-use centrifugal separators include decanters.
 d. Cross (tangential) flow filtration equipment and "accessories", as follows:
 d.1. Cross (tangential) flow filtration equipment capable of separation of microorganisms, viruses, toxins or cell cultures having all of the following characteristics:
 d.1.a. A total filtration area equal to or greater than 1 square meter (1 m 2); and
@@ -4979,15 +5070,45 @@ i. Spraying or fogging systems and "parts" and "components" therefor, as follows
 i.1. Complete spraying or fogging systems, "specially designed" or modified for fitting to aircraft, "lighter than air vehicles," or "UAVs," capable of delivering, from a liquid suspension, an initial droplet "VMD" of less than 50 microns at a flow rate of greater than 2 liters per minute;
 i.2. Spray booms or arrays of aerosol generating units, "specially designed" or modified for fitting to aircraft, "lighter than air vehicles," or "UAVs," capable of delivering, from a liquid suspension, an initial droplet "VMD" of less than 50 microns at a flow rate of greater than 2 liters per minute;
 i.3. Aerosol generating units "specially designed" for fitting to the systems as specified in paragraphs i.1 and i.2 of this ECCN.
-Technical Notes to 2B352.i:
-1. Aerosol generating units are devices "specially designed" or modified for fitting to aircraft and include nozzles, rotary drum atomizers and similar devices.
-2. This ECCN does not control spraying or fogging systems, "parts" and "components," as specified in 2B352.i, that are demonstrated not to be capable of delivering biological agents in the form of infectious aerosols.
-3. Droplet size for spray equipment or nozzles "specially designed" for use on aircraft or "UAVs" should be measured using either of the following methods (pending the adoption of internationally accepted standards):
-a. Doppler laser method,
-b. Forward laser diffraction method.
+Technical Notes to 2B352.i: 1. Aerosol generating units are devices "specially designed" or modified for fitting to aircraft and include nozzles, rotary drum atomizers and similar devices. 2. This ECCN does not control spraying or fogging systems, "parts" and "components," as specified in 2B352.i, that are demonstrated not to be capable of delivering biological agents in the form of infectious aerosols. 3. Droplet size for spray equipment or nozzles "specially designed" for use on aircraft or "UAVs" should be measured using either of the following methods (pending the adoption of internationally accepted standards): a. Doppler laser method, b. Forward laser diffraction method.
 j. Nucleic acid assemblers and synthesizers that are both:
 j.1 Partly or entirely automated; and
 j.2. Designed to generate continuous nucleic acids greater than 1.5 kilobases in length with error rates less than 5% in a single run.
+k. Peptide synthesizers that are both:
+k.1 Partly or entirely automated; and
+k.2 Capable of generating peptides at a 'system synthesis scale' of 1 mmol or greater.
+Technical Note to 2B352.k: 'System synthesis scale' denotes the maximum amount of peptide (mmol) that can be produced by the instrument using the largest compatible reaction vessels (L). For multiple peptides produced in parallel, this is the sum of the largest compatible reaction vessels (L).
+N.B. to paragraph.k: See ECCN 2B350 for other chemical reaction vessels or reactors.
+2B910 Additive manufacturing equipment, designed to produce metal or metal alloy components, having all of the following (see List of Items Controlled), and "specially designed" "components" therefor.
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+LVS: N/A
+GBS: N/A
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: For related "technology" see ECCN 2E910.
+Related Definitions: N/A
+Items:
+a. Having at least one of the following consolidation sources:
+a.1. "Laser";
+a.2. Electron beam; or
+a.3. Electric arc;
+b. Having a controlled process atmosphere of any of the following:
+b.1. Inert gas; or
+b.2. Vacuum (equal to or less than 100 Pa);
+c. Having any of the following 'in-process monitoring' equipment in a 'co-axial configuration' or 'paraxial configuration':
+c.1. Imaging camera with a peak response in the wavelength range exceeding 380 nm but not exceeding 14,000 nm;
+c.2. Pyrometer designed to measure temperatures greater than 1,273.15K (1,000 °C); or
+c.3. Radiometer or spectrometer with a peak response in the wavelength range exceeding 380 nm but not exceeding 3,000 nm; and
+d. A closed loop control system designed to modify the consolidation source parameters, build path, or equipment settings during the build cycle in response to feedback from 'in- process monitoring' equipment specified in 2B910.c.
+Technical Notes: For the purposes of 2B910: 1. 'In-process monitoring', also known as in-situ process monitoring, pertains to the observation and measurement of the additive manufacturing process including electromagnetic, or thermal, emissions from the melt pool. 2. 'Co-axial configuration', also known as on-axis or inline configuration, pertains to one or more sensors that are mounted in an optical path shared by the "laser" consolidation source. 3. 'Paraxial configuration' pertains to one or more sensors that are physically mounted onto or integrated into the "laser", electron beam, or electric arc consolidation source component. 4. For both 'co-axial configuration' and 'paraxial configuration', the field of view of the sensor(s) is fixed to the moving reference frame of the consolidation source and moves in the same scan trajectories of the consolidation source throughout the build process.
 2B991 Numerical control units for machine tools and "numerically controlled" machine tools, n.e.s. (see List of Items Controlled).
 License Requirements
 Reason for Control: AT
@@ -5102,32 +5223,34 @@ b.3. Cutting radius out-of-roundness less (better) than 0.002 mm TIR.
 c. "Specially designed" printed circuit boards with mounted "parts" or "components" capable of upgrading, according to the manufacturer's specifications, "numerical control" units, machine tools or feed-back devices to or above the levels specified in ECCNs 2B991, 2B993, 2B996, 2B997, or 2B998.
 2B999 Specific Processing Equipment, n.e.s., as Follows (See List of Items Controlled).
 License Requirements
-Reason for Control: AT
-Control(s):
-Country Chart. AT applies to entire entry. A license is required for items controlled by this entry to North Korea for anti-terrorism reasons. The Commerce Country Chart is not designed to determine AT licensing requirements for this entry. See § 742.19 of the EAR for additional information.
-List Based License Exceptions (See Part 740 for a description of all license exceptions)
+Reason for Control: RS, AT
+Control(s) | Country chart (see supp. no. 1 to part 738)
+RS applies to entire entry except 2B999.h.2 | A license is required for items controlled by this entry, other than 2B999.h.2, for export or reexport to Pakistan or transfer within Pakistan for regional stability reasons. The Commerce Country Chart is not designed to determine RS license requirements for this entry. See § 742.6(a)(12) of the EAR for additional information.
+AT applies to entire entry | A license is required for items controlled by this entry to North Korea for anti-terrorism reasons. The Commerce Country Chart is not designed to determine AT licensing requirements for this entry. See § 742.19 of the EAR for additional information.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
 Related Controls: (1) See also 1B233, 2A992, 2A993, 2B001.f, 2B004, 2B009, 2B104, 2B109, 2B204, 2B209, 2B228, 2B229, 2B231, and 2B350. (2) Certain nuclear related processing equipment is subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110).
 Related Definitions: N/A
-Items: a. Isostatic presses, n.e.s.;
-b. Bellows manufacturing equipment, including hydraulic forming equipment and bellows forming dies;
-c. Laser welding machines;
-d. MIG welders;
-e. E-beam welders;
-f. Monel equipment, including valves, piping, tanks and vessels;
-g. 304 and 316 stainless steel valves, piping, tanks and vessels;
+Items:
+a. Isostatic presses, n.e.s.
+b. Bellows manufacturing equipment, including hydraulic forming equipment and bellows forming dies.
+c. Laser welding machines.
+d. MIG welders.
+e. E-beam welders.
+f. Monel equipment, including valves, piping, tanks and vessels.
+g. 304 and 316 stainless steel valves, piping, tanks and vessels.
 Note: Fittings are considered part of "piping" for purposes of 2B999.g.
 h. Mining and drilling equipment, as follows:
-h.1. Large boring equipment capable of drilling holes greater than two feet in diameter;
-h.2. Large earth-moving equipment used in the mining industry;
-i. Electroplating equipment designed for coating parts with nickel or aluminum;
-j. Pumps designed for industrial service and for use with an electrical motor of 5 HP or greater;
-k. Vacuum valves, piping, flanges, gaskets and related equipment "specially designed" for use in high-vacuum service, n.e.s.;
-l. Spin forming and flow forming machines, n.e.s.;
-m. Centrifugal multiplane balancing machines, n.e.s.;
-n. Austenitic stainless steel plate, valves, piping, tanks and vessels.
+h.1. Large boring equipment capable of drilling holes greater than two feet in diameter.
+h.2. Large earth-moving equipment used in the mining industry.
+i. Electroplating equipment designed for coating parts with nickel or aluminum.
+j. Pumps designed for industrial service and for use with an electrical motor of 5 HP or greater.
+k. Vacuum valves, piping, flanges, gaskets and related equipment "specially designed" for use in high-vacuum service, n.e.s.
+l. Spin forming and flow forming machines, n.e.s.
+m. Centrifugal multiplane balancing machines, n.e.s.
+n. Austenitic stainless-steel plate, valves, piping, tanks and vessels.
 C. "Materials" [Reserved]
 D. "Software"
 2D001 "Software", other than that controlled by 2D002, as follows (See list of Items Controlled).
@@ -5255,6 +5378,22 @@ List of Items Controlled
 Related Controls: See ECCN 1E001 for "development" or "production "technology" for genetic elements controlled by ECCN 1C353.
 Related Definitions: See Section 772.1 of the EAR for the definitions of "software," "program," and "microprogram."
 Items: The list of items controlled is contained in the ECCN heading.
+2D910 "Software", not specified elsewhere, "specially designed" or modified for the "development" or "production" of equipment specified in ECCN 2B910.
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+TSR: N/A
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No. 1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: N/A
+Related Definitions: N/A
+Items: The list of items controlled is contained in the ECCN heading.
 2D983 "Software" "specially designed" or modified for the "development", "production" or "use" of equipment controlled by 2A983.
 License Requirements
 Reason for Control: RS, AT
@@ -5380,13 +5519,13 @@ The list of items controlled is contained in the ECCN heading.
 2E003 Other "technology", as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, AT
-Control(s) | Country chart (see supp. No. 1 to part 738)
-NS applies to entire entry | NS Column 1
-AT applies to entire entry | AT Column 1
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | NS Column 1.
+AT applies to entire entry | AT Column 1.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 TSR: Yes, except 2E003.b,.e and.f
 List of Items Controlled
-Related Controls: See 2E001, 2E002, and 2E101 for "development" and "use" technology for equipment that are designed or modified for densification of carbon-carbon composites, structural composite rocket nozzles and reentry vehicle nose tips.
+Related Controls: (1) See 2E001, 2E002, and 2E101 for "development" and "use" technology for equipment that are designed or modified for densification of carbon-carbon composites, structural composite rocket nozzles and reentry vehicle nose tips. (2) See 2E903 for "technology", not specified elsewhere, for the "development" or "production" of coating systems (as defined in 2E903).
 Related Definitions: N/A
 Items:
 a. [Reserved]
@@ -5396,13 +5535,12 @@ b.1.a. "Superplastic forming";
 b.1.b. "Diffusion bonding"; or
 b.1.c. 'Direct-acting hydraulic pressing';
 b.2. [Reserved]
-N.B.: For "technology" for metal-working manufacturing processes for gas turbine engines and components, see 9E003 and USML Category XIX
+N.B.: For "technology" for metal-working manufacturing processes for gas turbine engines and components, see 9E003 and USML Category XIX.
 Technical Note: For the purposes of 2E003.b.1.c, 'direct-acting hydraulic pressing' is a deformation process which uses a fluid-filled flexible bladder in direct contact with the workpiece.
 c. "Technology" for the "development" or "production" of hydraulic stretch-forming machines and dies therefor, for the manufacture of airframe structures;
 d. [Reserved]
 e. "Technology" for the "development" of integration "software" for incorporation of expert systems for advanced decision support of shop floor operations into "numerical control" units;
 f. "Technology" for the application of inorganic overlay coatings or inorganic surface modification coatings (specified in column 3 of the following table) to non-electronic substrates (specified in column 2 of the following table), by processes specified in column 1 of the following table and defined in the Technical Note.
-N.B. This table should be read to control the technology of a particular 'Coating Process' only when the resultant coating in column 3 is in a paragraph directly across from the relevant 'Substrate' under column 2. For example, Chemical Vapor Deposition (CVD) 'coating process' control the "technology" for a particular application of 'silicides' to 'Carbon-carbon, Ceramic and Metal "matrix" "composites" substrates, but are not controlled for the application of 'silicides' to 'Cemented tungsten carbide (16), Silicon carbide (18)' substrates. In the second case, the resultant coating is not listed in the paragraph under column 3 directly across from the paragraph under column 2 listing 'Cemented tungsten carbide (16), Silicon carbide (18)'.
 Category 2E—Materials Processing Table; Deposition Techniques
 1. Coating process (1) 1 | 2. Substrate | 3. Resultant coating
 A. Chemical Vapor Deposition (CVD) | "Superalloys" | Aluminides for internal passages
@@ -5467,21 +5605,7 @@ G. Ion Implantation | High temperature bearing steels | Additions of Chromium, T
 | Cemented tungsten carbide (16) | Carbides Nitrides
 1 The numbers in parenthesis refer to the Notes following this Table.
 Notes to Table on Deposition Techniques 1. The term 'coating process' includes coating repair and refurbishing as well as original coating. 2. The term 'alloyed aluminide coating' includes single or multiple-step coatings in which an element or elements are deposited prior to or during application of the aluminide coating, even if these elements are deposited by another coating process. It does not, however, include the multiple use of single-step pack cementation processes to achieve alloyed aluminides. 3. The term 'noble metal modified aluminide' coating includes multiple-step coatings in which the noble metal or noble metals are laid down by some other coating process prior to application of the aluminide coating. 4. The term 'mixtures thereof' includes infiltrated material, graded compositions, co-deposits and multilayer deposits and are obtained by one or more of the coating processes specified in the Table. 5. MCrAlX refers to a coating alloy where M equals cobalt, iron, nickel or combinations thereof and X equals hafnium, yttrium, silicon, tantalum in any amount or other intentional additions over 0.01% by weight in various proportions and combinations, except: a. CoCrAlY coatings which contain less than 22% by weight of chromium, less than 7% by weight of aluminum and less than 2% by weight of yttrium; b. CoCrAlY coatings which contain 22 to 24% by weight of chromium, 10 to 12% by weight of aluminum and 0.5 to 0.7% by weight of yttrium; or c. NiCrAlY coatings which contain 21 to 23% by weight of chromium, 10 to 12% by weight of aluminum and 0.9 to 1.1% by weight of yttrium. 6. The term 'aluminum alloys' refers to alloys having an ultimate tensile strength of 190 MPa or more measured at 293 K (20 °C). 7. The term 'corrosion resistant steel' refers to AISI (American Iron and Steel Institute) 300 series or equivalent national standard steels. 8. 'Refractory metals and alloys' include the following metals and their alloys: niobium (columbium), molybdenum, tungsten and tantalum. 9. 'Sensor window materials', as follows: alumina, silicon, germanium, zinc sulfide, zinc selenide, gallium arsenide, diamond, gallium phosphide, sapphire and the following metal halides: sensor window materials of more than 40 mm diameter for zirconium fluoride and hafnium fluoride. 10. Category 2 does not include "technology" for single-step pack cementation of solid airfoils. 11. 'Polymers', as follows: Polyimide, polyester, polysulfide, polycarbonates and polyurethanes. 12. 'Modified zirconia' refers to additions of other metal oxides, (e.g., calcia, magnesia, yttria, hafnia, rare earth oxides) to zirconia in order to stabilize certain crystallographic phases and phase compositions. Thermal barrier coatings made of zirconia, modified with calcia or magnesia by mixing or fusion, are not controlled. 13. 'Titanium alloys' refers only to aerospace alloys having an ultimate tensile strength of 900 MPa or more measured at 293 K (20 °C). 14. 'Low-expansion glasses' refers to glasses which have a coefficient of thermal expansion of 1 × 10 −7 K −1 or less measured at 293 K (20 °C). 15. 'Dielectric layers' are coatings constructed of multi-layers of insulator materials in which the interference properties of a design composed of materials of various refractive indices are used to reflect, transmit or absorb various wavelength bands. Dielectric layers refers to more than four dielectric layers or dielectric/metal "composite" layers. 16. 'Cemented tungsten carbide' does not include cutting and forming tool materials consisting of tungsten carbide/(cobalt, nickel), titanium carbide/(cobalt, nickel), chromium carbide/nickel-chromium and chromium carbide/nickel. 17. "Technology" for depositing diamond-like carbon on any of the following is not controlled: magnetic disk drives and heads, equipment for the manufacture of disposables, valves for faucets, acoustic diaphragms for speakers, engine parts for automobiles, cutting tools, punching-pressing dies, office automation equipment, microphones, medical devices or molds, for casting or molding of plastics, manufactured from alloys containing less than 5% beryllium. 18. 'Silicon carbide' does not include cutting and forming tool materials. 19. Ceramic substrates, as used in this entry, does not include ceramic materials containing 5% by weight, or greater, clay or cement content, either as separate constituents or in combination.
-Technical Note to Table on Deposition Techniques: Processes specified in Column 1 of the Table are defined as follows: a. Chemical Vapor Deposition (CVD) is an overlay coating or surface modification coating process wherein a metal, alloy, "composite", dielectric or ceramic is deposited upon a heated substrate. Gaseous reactants are decomposed or combined in the vicinity of a substrate resulting in the deposition of the desired elemental, alloy or compound material on the substrate. Energy for this decomposition or chemical reaction process may be provided by the heat of the substrate, a glow discharge plasma, or "laser" irradiation.
-Note 1: CVD includes the following processes: Directed gas flow out-of-pack deposition, pulsating CVD, controlled nucleation thermal decomposition (CNTD), plasma enhanced or plasma assisted CVD processes.
-Note 2: Pack denotes a substrate immersed in a powder mixture.
-Note 3: The gaseous reactants used in the out-of-pack process are produced using the same basic reactions and parameters as the pack cementation process, except that the substrate to be coated is not in contact with the powder mixture.
-b. Thermal Evaporation-Physical Vapor Deposition (TE-PVD) is an overlay coating process conducted in a vacuum with a pressure less than 0.1 Pa wherein a source of thermal energy is used to vaporize the coating material. This process results in the condensation, or deposition, of the evaporated species onto appropriately positioned substrates. The addition of gases to the vacuum chamber during the coating process to synthesize compound coatings is an ordinary modification of the process. The use of ion or electron beams, or plasma, to activate or assist the coating's deposition is also a common modification in this technique. The use of monitors to provide in-process measurement of optical characteristics and thickness of coatings can be a feature of these processes. Specific TE-PVD processes are as follows:
-1. Electron Beam PVD uses an electron beam to heat and evaporate the material which forms the coating;
-2. Ion Assisted Resistive Heating PVD employs electrically resistive heating sources in combination with impinging ion beam(s) to produce a controlled and uniform flux of evaporated coating species;
-3. "Laser" Vaporization uses either pulsed or continuous wave "laser" beams to vaporize the material which forms the coating;
-4. Cathodic Arc Deposition employs a consumable cathode of the material which forms the coating and has an arc discharge established on the surface by a momentary contact of a ground trigger. Controlled motion of arcing erodes the cathode surface creating a highly ionized plasma. The anode can be either a cone attached to the periphery of the cathode, through an insulator, or the chamber. Substrate biasing is used for non line-of-sight deposition;
-Note: This definition does not include random cathodic arc deposition with non-biased substrates. 5. Ion Plating is a special modification of a general TE-PVD process in which a plasma or an ion source is used to ionize the species to be deposited, and a negative bias is applied to the substrate in order to facilitate the extraction of the species from the plasma. The introduction of reactive species, evaporation of solids within the process chamber, and the use of monitors to provide in-process measurement of optical characteristics and thicknesses of coatings are ordinary modifications of the process. c. Pack Cementation is a surface modification coating or overlay coating process wherein a substrate is immersed in a powder mixture (a pack), that consists of: 1. The metallic powders that are to be deposited (usually aluminum, chromium, silicon or combinations thereof); 2. An activator (normally a halide salt); and 3. An inert powder, most frequently alumina.
-Note: The substrate and powder mixture is contained within a retort which is heated to between 1,030 K (757 °C) to 1,375 K (1,102 °C) for sufficient time to deposit the coating. d. Plasma Spraying is an overlay coating process wherein a gun (spray torch) which produces and controls a plasma accepts powder or wire coating materials, melts them and propels them towards a substrate, whereon an integrally bonded coating is formed. Plasma spraying constitutes either low pressure plasma spraying or high velocity plasma spraying.
-Note 1: Low pressure means less than ambient atmospheric pressure.
-Note 2: High velocity refers to nozzle-exit gas velocity exceeding 750 m/s calculated at 293 K (20 °C) at 0.1 MPa. e. Slurry Deposition is a surface modification coating or overlay coating process wherein a metallic or ceramic powder with an organic binder is suspended in a liquid and is applied to a substrate by either spraying, dipping or painting, subsequent air or oven drying, and heat treatment to obtain the desired coating. f. Sputter Deposition is an overlay coating process based on a momentum transfer phenomenon, wherein positive ions are accelerated by an electric field towards the surface of a target (coating material). The kinetic energy of the impacting ions is sufficient to cause target surface atoms to be released and deposited on an appropriately positioned substrate.
-Note 1: The Table refers only to triode, magnetron or reactive sputter deposition which is used to increase adhesion of the coating and rate of deposition and to radio frequency (RF) augmented sputter deposition used to permit vaporization of non-metallic coating materials.
-Note 2: Low-energy ion beams (less than 5 keV) can be used to activate the deposition. g. Ion Implantation is a surface modification coating process in which the element to be alloyed is ionized, accelerated through a potential gradient and implanted into the surface region of the substrate. This includes processes in which ion implantation is performed simultaneously with electron beam physical vapor deposition or sputter deposition.
+Technical Note to Table on Deposition Techniques: Processes specified in Column 1 of the Table are defined as follows: a. Chemical Vapor Deposition (CVD) is an overlay coating or surface modification coating process wherein a metal, alloy, "composite", dielectric or ceramic is deposited upon a heated substrate. Gaseous reactants are decomposed or combined in the vicinity of a substrate resulting in the deposition of the desired elemental, alloy or compound material on the substrate. Energy for this decomposition or chemical reaction process may be provided by the heat of the substrate, a glow discharge plasma, or "laser" irradiation. Note 1: CVD includes the following processes: Directed gas flow out-of-pack deposition, pulsating CVD, controlled nucleation thermal decomposition (CNTD), plasma enhanced or plasma assisted CVD processes. Note 2: Pack denotes a substrate immersed in a powder mixture. Note 3: The gaseous reactants used in the out-of-pack process are produced using the same basic reactions and parameters as the pack cementation process, except that the substrate to be coated is not in contact with the powder mixture. b. Thermal Evaporation-Physical Vapor Deposition (TE-PVD) is an overlay coating process conducted in a vacuum with a pressure less than 0.1 Pa wherein a source of thermal energy is used to vaporize the coating material. This process results in the condensation, or deposition, of the evaporated species onto appropriately positioned substrates. The addition of gases to the vacuum chamber during the coating process to synthesize compound coatings is an ordinary modification of the process. The use of ion or electron beams, or plasma, to activate or assist the coating's deposition is also a common modification in this technique. The use of monitors to provide in-process measurement of optical characteristics and thickness of coatings can be a feature of these processes. Specific TE-PVD processes are as follows: 1. Electron Beam PVD uses an electron beam to heat and evaporate the material which forms the coating; 2. Ion Assisted Resistive Heating PVD employs electrically resistive heating sources in combination with impinging ion beam(s) to produce a controlled and uniform flux of evaporated coating species; 3. "Laser" Vaporization uses either pulsed or continuous wave "laser" beams to vaporize the material which forms the coating; 4. Cathodic Arc Deposition employs a consumable cathode of the material which forms the coating and has an arc discharge established on the surface by a momentary contact of a ground trigger. Controlled motion of arcing erodes the cathode surface creating a highly ionized plasma. The anode can be either a cone attached to the periphery of the cathode, through an insulator, or the chamber. Substrate biasing is used for non line-of-sight deposition; Note: This definition does not include random cathodic arc deposition with non-biased substrates. 5. Ion Plating is a special modification of a general TE-PVD process in which a plasma or an ion source is used to ionize the species to be deposited, and a negative bias is applied to the substrate in order to facilitate the extraction of the species from the plasma. The introduction of reactive species, evaporation of solids within the process chamber, and the use of monitors to provide in-process measurement of optical characteristics and thicknesses of coatings are ordinary modifications of the process. c. Pack Cementation is a surface modification coating or overlay coating process wherein a substrate is immersed in a powder mixture (a pack), that consists of: 1. The metallic powders that are to be deposited (usually aluminum, chromium, silicon or combinations thereof); 2. An activator (normally a halide salt); and 3. An inert powder, most frequently alumina. Note: The substrate and powder mixture is contained within a retort which is heated to between 1,030 K (757 °C) to 1,375 K (1,102 °C) for sufficient time to deposit the coating. d. Plasma Spraying is an overlay coating process wherein a gun (spray torch) which produces and controls a plasma accepts powder or wire coating materials, melts them and propels them towards a substrate, whereon an integrally bonded coating is formed. Plasma spraying constitutes either low pressure plasma spraying or high velocity plasma spraying. > Note 1: Low pressure means less than ambient atmospheric pressure. Note 2: High velocity refers to nozzle-exit gas velocity exceeding 750 m/s calculated at 293 K (20 °C) at 0.1 MPa. e. Slurry Deposition is a surface modification coating or overlay coating process wherein a metallic or ceramic powder with an organic binder is suspended in a liquid and is applied to a substrate by either spraying, dipping or painting, subsequent air or oven drying, and heat treatment to obtain the desired coating. f. Sputter Deposition is an overlay coating process based on a momentum transfer phenomenon, wherein positive ions are accelerated by an electric field towards the surface of a target (coating material). The kinetic energy of the impacting ions is sufficient to cause target surface atoms to be released and deposited on an appropriately positioned substrate. Note 1: The Table refers only to triode, magnetron or reactive sputter deposition which is used to increase adhesion of the coating and rate of deposition and to radio frequency (RF) augmented sputter deposition used to permit vaporization of non-metallic coating materials. Note 2: Low-energy ion beams (less than 5 keV) can be used to activate the deposition. g. Ion Implantation is a surface modification coating process in which the element to be alloyed is ionized, accelerated through a potential gradient and implanted into the surface region of the substrate. This includes processes in which ion implantation is performed simultaneously with electron beam physical vapor deposition or sputter deposition.
 Accompanying Technical Information to Table on Deposition Techniques:
 1. Technical information for pretreatments of the substrates listed in the Table, as follows:
 a. Chemical stripping and cleaning bath cycle parameters, as follows:
@@ -5661,6 +5785,41 @@ List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
 Items: The lists of items controlled are contained in the ECCN headings.
+2E903 "Technology", not specified elsewhere, for the "development" or "production" of 'coating systems' having all of the following: (see List of Items Controlled).
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+TSR: N/A
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: N/A
+Related Definitions: N/A
+Items:
+a. Designed to protect ceramic "matrix" "composite" materials specified by ECCN 1C007 from corrosion; and
+b. Designed to operate at temperatures exceeding 1,373.15 K (1,100 °C).
+Technical Note: For the purposes of 2E903, 'coating systems' consist of one or more layers (e.g., bond, interlayer, top coat) of material deposited on the substrate.
+2E910 "Technology", not specified elsewhere, "specially designed" or modified for the "development" or "production" of equipment specified in ECCN 2B910.
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+TSR: N/A
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: N/A
+Related Definitions: N/A
+Items: The list of items controlled is contained in the ECCN heading.
 2E983 "Technology" "specially designed" or modified for the "development", "production" or "use" of equipment controlled by 2A983, or the "development" of software controlled by 2D983.
 License Requirements
 Reason for Control: RS, AT
@@ -5720,38 +5879,43 @@ Items: The list of items controlled is contained in the ECCN heading.
 EAR99 Items Subject to the EAR That Are Not Elsewhere Specified in This CCL Category or in Any Other Category in the CCL Are Designated by the Number EAR99.
 Category 3—Electronics
 A. "End Items," "Equipment,""Accessories," "Attachments," "Parts," "Components," and "Systems"
-Note 1: The control status of equipment and "components" described in 3A001 or 3A002, other than those described in 3A001.a.3 to 3A001.a.10, 3A001.a.12 to 3A001.a.14, or 3A001.b.12, which are "specially designed" for or which have the same functional characteristics as other equipment is determined by the control status of the other equipment.
-Note 2: The control status of integrated circuits described in 3A001.a.3 to 3A001.a.9, or 3A001.a.12 to 3A001.a.14 that are unalterably programmed or designed for a specific function for other equipment is determined by the control status of the other equipment.
-N.B.: When the manufacturer or applicant cannot determine the control status of the other equipment, the control status of the integrated circuits is determined in 3A001.a.3 to 3A001.a.9, or 3A001.a.12 to 3A001.a.14.
+Note 1: The control status of equipment and "components" described in 3A001(other than those described in 3A001.a.3 to 3A001.a.10, 3A001.a.12 to 3A001.a.14, 3A001.b.12, or 3A001.z), 3A002, 3A901, which are "specially designed" for or which have the same functional characteristics as other equipment is determined by the control status of the other equipment.
+Note 2: The control status of integrated circuits described in 3A001.a.3 to 3A001.a.9, 3A001.a.12 to 3A001.a.14, 3A001.z or 3A901 that are unalterably programmed or designed for a specific function for other equipment is determined by the control status of the other equipment.
+N.B.: When the manufacturer or applicant cannot determine the control status of the other equipment, the control status of the integrated circuits is determined in 3A001.a.3 to 3A001.a.9, or 3A001.a.12 to 3A001.a.14, 3A001.z and 3A901.
 Note 3: The status of wafers (finished or unfinished), in which the function has been determined, is to be evaluated against the parameters of items in 3A.
 3A001 Electronic items as follows (see List of Items Controlled).
 Reason for Control: NS, RS, MT, NP, AT
-Control(s) | Country chart (see supp. No. 1 to part 738)
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
 NS applies to "Monolithic Microwave Integrated Circuit" ("MMIC") amplifiers in 3A001.b.2 and discrete microwave transistors in 3A001.b.3, except those 3A001.b.2 and b.3 items being exported or reexported for use in civil telecommunications applications | NS Column 1.
-NS applies to entire entry, except 3A001.z | NS Column 2.
+NS applies to entire entry | NS Column 2.
 RS applies "Monolithic Microwave Integrated Circuit" ("MMIC") amplifiers in 3A001.b.2 and discrete microwave transistors in 3A001.b.3, except those 3A001.b.2 and b.3 items being exported or reexported for use in civil telecommunications applications | RS Column 1.
-RS applies to 3A001.z | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii) of the EAR.
-MT applies to 3A001.a.1.a and.z when usable in "missiles"; and to 3A001.a.5.a and.z when "designed or modified" for military use, hermetically sealed and rated for operation in the temperature range from below −54 °C to above +125 °C | MT Column 1.
-NP applies to pulse discharge capacitors in 3A001.e.2 and superconducting solenoidal electromagnets in 3A001.e.3 that meet or exceed the technical parameters in 3A201.a and 3A201.b, respectively | NP Column 1.
+RS applies to 3A001.z.1.a, z.2.a, z.3.a, z.4.a | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+RS applies to 3A001.z.1.b, z.2.b, z.3.b, z.4.b | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
+MT applies to 3A001.a.1.a when usable in "missiles"; and to 3A001.a.5.a when "designed or modified" for military use, hermetically sealed and rated for operation in the temperature range from below −54 °C to above +125 °C; and 3A001.z.2 | MT Column 1.
+NP applies to pulse discharge capacitors in 3A001.e.2 and superconducting solenoidal electromagnets in 3A001.e.3 that meet or exceed the technical parameters in 3A201.a and 3A201.b, respectively; and 3A001.z.3 | NP Column 1.
 AT applies to entire entry | AT Column 1.
 Reporting Requirements: See § 743.1 of the EAR for reporting requirements for exports under 3A001.b.2 or b.3 under License Exceptions, and Validated End-User authorizations.
-License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating "information security" functionality, and associated "software" and "technology" for the "production" or "development" of such microprocessors.
+License Requirements: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating "information security" functionality, and associated "software" and "technology" for the "production" or "development" of such microprocessors.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
-LVS: N/A for MT, NP or 3A001.z; N/A for "Monolithic Microwave Integrated Circuit" ("MMIC") amplifiers in 3A001.b.2 and discrete microwave transistors in 3A001.b.3, except those that are being exported or reexported for use in civil telecommunications applications.
+LVS: N/A for MT, NP; N/A for "Monolithic Microwave Integrated Circuit" ("MMIC") amplifiers in 3A001.b.2, discrete microwave transistors in 3A001.b.3, except those that are being exported or reexported for use in civil telecommunications applications; N/A for and 3A001.z.
 Yes for:
-$1500: 3A001.c
+$1500: 3A001.c.
 $3000: 3A001.b.1, b.2 (exported or reexported for use in civil telecommunications applications), b.3 (exported or reexported for use in civil telecommunications applications), b.9,.d,.e,.f, and.g.
-$5000: 3A001.a (except a.1.a and a.5.a when controlled for MT),.b.4 to b.7, and b.12.
-GBS: Yes for 3A001.a.1.b, a.2 to a.14 (except.a.5.a when controlled for MT), b.2 (exported or reexported for use in civil telecommunications applications), b.8 (except for "vacuum electronic devices" exceeding 18 GHz), b.9., b.10,.g, and.h, and.i.
-NAC: Yes, for 3A001.z; N/A for all other 3A001 commodities.
+$5000: 3A001.a (except a.1.a and a.5.a when controlled for MT), b.4 to b.7, and b.12.
+GBS: Yes for 3A001.a.1.b, a.2 to a.14 (except.a.5.a when controlled for MT), b.2 (exported or reexported for use in civil telecommunications applications), b.8 (except for "vacuum electronic devices" exceeding 18 GHz), b.9., b.10,.g,.h,.i, and z.1.b (exported or reexported for use in civil telecommunications applications).
+NAC/ACA: Yes, for 3A001.z.
+AIA: Yes for 3A001.z.1.a, z.2.a, z.3.a, z.4.a
+ACM: Yes for 3A001.z
+LPP: Yes for 3A001.z.1.a, z.2.a, z.3.a, z.4.a
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 3A001.z.
 Special Conditions for STA
-STA: License Exception STA may not be used to ship any item in 3A001.b.2 or b.3, except those that are being exported or reexported for use in civil telecommunications applications, to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No. 1 to part 740 of the EAR).
+STA: License Exception STA may not be used to ship any item in 3A001.b.2 or b.3, except those that are being exported or reexported for use in civil telecommunications applications, or 3A001.z to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No. 1 to part 740 of the EAR).
 List of Items Controlled
-Related Controls: (1) See Category XV of the USML for certain "space-qualified" electronics and Category XI of the USML for certain ASICs, 'transmit/receive modules,' or 'transmit modules' "subject to the ITAR" (see 22 CFR parts 120 through 130). (2) See also 3A090 (including Note 4 to 3A090), 3A101, 3A201, 3A611, 3A991, and 9A515.
+Related Controls: (1) See Category XV of the USML for certain "space-qualified" electronics and Category XI of the USML for certain ASICs, 'transmit/receive modules,' 'transmit modules,' or 'MMICs' "subject to the ITAR." (2) See also 3A090, 3A101, 3A201, 3A611, 3A901 for cryogenic CMOS integrated circuits and parametric signal amplifiers or quantum limited amplifiers not controlled by 3A001, 3A991, and 9A515.
 Related Definitions: 'Microcircuit' means a device in which a number of passive or active elements are considered as indivisibly associated on or within a continuous structure to perform the function of a circuit. For the purposes of integrated circuits in 3A001.a.1, 5 × 10 3 Gy(Si) = 5 × 10 5 Rads (Si); 5 × 10 6 Gy (Si)/s = 5 × 10 8 Rads (Si)/s.
 Items:
 a. General purpose integrated circuits, as follows:
-Note 1: Integrated circuits include the following types: — "Monolithic integrated circuits"; — "Hybrid integrated circuits"; — "Multichip integrated circuits"; — Film type integrated circuits, including silicon-on-sapphire integrated circuits"; — "Optical integrated circuits"; — "Three dimensional integrated circuits"; — "Monolithic Microwave Integrated Circuits" ("MMICs").
+Note 1: Integrated circuits include the following types: — "Monolithic integrated circuits"; — "Hybrid integrated circuits"; — "Multichip integrated circuits"; — "Film type integrated circuits", including silicon-on-sapphire integrated circuits; — "Optical integrated circuits"; — "Three dimensional integrated circuits"; — "Monolithic Microwave Integrated Circuits" ("MMICs").
 a.1. Integrated circuits designed or rated as radiation hardened to withstand any of the following:
 a.1.a. A total dose of 5 × 10 3 Gy (Si), or higher;
 a.1.b. A dose rate upset of 5 × 10 6 Gy (Si)/s, or higher; or
@@ -5762,6 +5926,7 @@ Technical Note: For the purposes of 3A001.a.2, 'non-volatile memories' are memor
 a.2.a. Rated for operation at an ambient temperature above 398 K (+125 °C);
 a.2.b. Rated for operation at an ambient temperature below 218 K (−55 °C); or
 a.2.c. Rated for operation over the entire ambient temperature range from 218 K (−55 °C) to 398 K (+125 °C);
+N.B.: For cryogenic CMOS integrated circuits not specified by 3A001.a.2, see 3A901.a.
 Note: 3A001.a.2 does not apply to integrated circuits designed for civil automobile or railway train applications.
 a.3. "Microprocessor microcircuits", "microcomputer microcircuits" and microcontroller microcircuits, manufactured from a compound semiconductor and operating at a clock frequency exceeding 40 MHz;
 Note: 3A001.a.3 includes digital signal processors, digital array processors and digital coprocessors.
@@ -5782,7 +5947,7 @@ a.5.b.2.a. An 'adjusted update rate' exceeding 1,250 MSPS but not exceeding 3,50
 a.5.b.2.a.1. A settling time less than 9 ns to arrive at or within 0.024% of full scale from a full scale step; or
 a.5.b.2.a.2. A 'Spurious Free Dynamic Range' (SFDR) greater than 68 dBc (carrier) when synthesizing a full scale analog signal of 100 MHz or the highest full scale analog signal frequency specified below 100 MHz; or
 a.5.b.2.b. An 'adjusted update rate' exceeding 3,500 MSPS;
-Technical Notes: For the purposes of 3A001.a.5.b: 1. 'Spurious Free Dynamic Range' (SFDR) is defined as the ratio of the RMS value of the carrier frequency (maximum signal component) at the input of the DAC to the RMS value of the next largest noise or harmonic distortion component at its output. 2. SFDR is determined directly from the specification table or from the characterization plots of SFDR versus frequency. 3. A signal is defined to be full scale when its amplitude is greater than -3 dBfs (full scale). 4. 'Adjusted update rate' for DACs is: a. For conventional (non-interpolating) DACs, the 'adjusted update rate' is the rate at which the digital signal is converted to an analog signal and the output analog values are changed by the DAC. For DACs where the interpolation mode may be bypassed (interpolation factor of one), the DAC should be considered as a conventional (non-interpolating) DAC. b. For interpolating DACs (oversampling DACs), the 'adjusted update rate' is defined as the DAC update rate divided by the smallest interpolating factor. For interpolating DACs, the 'adjusted update rate' may be referred to by different terms including: • input data rate • input word rate • input sample rate • maximum total input bus rate • maximum DAC clock rate for DAC clock input.
+Technical Notes: For the purposes of 3A001.a.5.b: 1. 'Spurious Free Dynamic Range' (SFDR) is defined as the ratio of the RMS value of the carrier frequency (maximum signal component) at the input of the DAC to the RMS value of the next largest noise or harmonic distortion component at its output. 2. SFDR is determined directly from the specification table or from the characterization plots of SFDR versus frequency. 3. A signal is defined to be full scale when its amplitude is greater than −3 dBfs (full scale). 4. 'Adjusted update rate' for DACs is: a. For conventional (non-interpolating) DACs, the 'adjusted update rate' is the rate at which the digital signal is converted to an analog signal and the output analog values are changed by the DAC. For DACs where the interpolation mode may be bypassed (interpolation factor of one), the DAC should be considered as a conventional (non-interpolating) DAC. b. For interpolating DACs (oversampling DACs), the 'adjusted update rate' is defined as the DAC update rate divided by the smallest interpolating factor. For interpolating DACs, the 'adjusted update rate' may be referred to by different terms including: • input data rate • input word rate • input sample rate • maximum total input bus rate • maximum DAC clock rate for DAC clock input
 a.6. Electro-optical and "optical integrated circuits", designed for "signal processing" and having all of the following:
 a.6.a. One or more than one internal "laser" diode;
 a.6.b. One or more than one internal light detecting element; and
@@ -5794,7 +5959,7 @@ Note: 3A001.a.7 includes: — Complex Programmable Logic Devices (CPLDs); — Fi
 N.B.: For integrated circuits having field programmable logic devices that are combined with an analog-to-digital converter, see 3A001.a.14.
 Technical Notes: For the purposes of 3A001.a.7: 1. Maximum number of digital input/outputs in 3A001.a.7.a is also referred to as maximum user input/outputs or maximum available input/outputs, whether the integrated circuit is packaged or bare die. 2. 'Aggregate one-way peak serial transceiver data rate' is the product of the peak serial one-way transceiver data rate times the number of transceivers on the FPGA.
 a.8. [Reserved]
-a.9. Neural network integrated circuits;
+a.9. [Reserved]
 a.10. Custom integrated circuits for which the function is unknown, or the control status of the equipment in which the integrated circuits will be used is unknown to the manufacturer, having any of the following:
 a.10.a. More than 1,500 terminals;
 a.10.b. A typical "basic gate propagation delay time" of less than 0.02 ns; or
@@ -5818,11 +5983,12 @@ a.14.a.5. A resolution of 16 bit or more with a "sample rate" greater than 180 M
 a.14.b. Any of the following:
 a.14.b.1. Storage of digitized data; or
 a.14.b.2. Processing of digitized data;
-N.B. 1: For analog-to-digital converter integrated circuits see 3A001.a.5.a.
-N.B. 2: For field programmable logic devices see 3A001.a.7.
+N.B.: 1: For analog-to-digital converter integrated circuits see 3A001.a.5.a.
+N.B.: 2: For field programmable logic devices see 3A001.a.7.
 Technical Notes: For the purposes of 3A001.a.14: 1. A resolution of n bit corresponds to a quantization of 2 n levels. 2. The resolution of the ADC is the number of bits of the digital output of the ADC that represents the measured analog input. Effective Number of Bits (ENOB) is not used to determine the resolution of the ADC. 3. For integrated circuits with non- interleaving "multiple channel ADCs", the "sample rate" is not aggregated and the "sample rate" is the maximum rate of any single channel. 4. For integrated circuits with "interleaved ADCs" or with "multiple channel ADCs" that are specified to have an interleaved mode of operation, the "sample rates" are aggregated and the "sample rate" is the maximum combined total rate of all of the interleaved channels.
 b. Microwave or millimeter wave items, as follows:
-Technical Note: For purposes of 3A001.b, the parameter peak saturated power output may also be referred to on product data sheets as output power, saturated power output, maximum power output, peak power output, or peak envelope power output.
+Technical Note: For the purposes of 3A001.b, the parameter peak saturated power output may also be referred to on product data sheets as output power, saturated power output, maximum power output, peak power output, or peak envelope power output.
+N.B.: For parametric signal amplifiers or Quantum-limited amplifiers (QLAs) not specified by 3A001.b, see ECCN 3A901.b.
 b.1. "Vacuum electronic devices" and cathodes, as follows:
 Note 1: 3A001.b.1 does not control "vacuum electronic devices" designed or rated for operation in any frequency band and having all of the following: a. Does not exceed 31.8 GHz; and b. Is "allocated by the ITU" for radio-communications services, but not for radio-determination.
 Note 2: 3A001.b.1 does not control non-"space-qualified" "vacuum electronic devices" having all the following: a. An average output power equal to or less than 50 W; and b. Designed or rated for operation in any frequency band and having all of the following: 1. Exceeds 31.8 GHz but does not exceed 43.5 GHz; and 2. Is "allocated by the ITU" for radio-communications services, but not for radio-determination.
@@ -5843,7 +6009,7 @@ b.1.b. Crossed-field amplifier "vacuum electronic devices" with a gain of more t
 b.1.c. Thermionic cathodes, designed for "vacuum electronic devices," producing an emission current density at rated operating conditions exceeding 5 A/cm 2 or a pulsed (non-continuous) current density at rated operating conditions exceeding 10 A/cm 2;
 b.1.d. "Vacuum electronic devices" with the capability to operate in a 'dual mode.'
 Technical Note: For the purposes of 3A001.b.1.d, 'dual mode' means the "vacuum electronic device" beam current can be intentionally changed between continuous-wave and pulsed mode operation by use of a grid and produces a peak pulse output power greater than the continuous-wave output power.
-b.2. "Monolithic Microwave Integrated Circuit" ("MMIC") amplifiers that are any of the following:
+b.2. "Monolithic Microwave Integrated Circuit" ("MMIC") amplifiers that any of the following:
 N.B.: For "MMIC" amplifiers that have an integrated phase shifter see 3A001.b.12.
 b.2.a. Rated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz with a "fractional bandwidth" greater than 15%, and having any of the following:
 b.2.a.1. A peak saturated power output greater than 75 W (48.75 dBm) at any frequency exceeding 2.7 GHz up to and including 2.9 GHz;
@@ -5925,12 +6091,12 @@ b.9.b. A volume less than the maximum rated power in Watts multiplied by 10 cm 3
 b.9.c. An "instantaneous bandwidth" greater than 1 octave (f max > 2f min) and having any of the following:
 b.9.c.1. For frequencies equal to or less than 18 GHz, an RF output power greater than 100 W; or
 b.9.c.2. A frequency greater than 18 GHz;
-Technical Notes: For the purposes of 3A001.b.9: 1. To calculate the volume in 3A001.b.9.b, the following example is provided: for a maximum rated power of 20 W, the volume would be: 20 W × 10 cm 3 /W = 200 cm 3. 2. The 'turn-on time' in 3A001.b.9.a refers to the time from fully-off to fully operational, i.e.,it includes the warm-up time of the MPM.
-b.10. Oscillators or oscillator assemblies, specified to operate with a single sideband (SSB) phase noise, in dBc/Hz, less (better) than −(126 + 20log 10 F−20log 10 f) anywhere within the range of 10 Hz ≤ F ≤ 10 kHz;
+Technical Notes: For the purposes of 3A001.b.9: 1. To calculate the volume in 3A001.b.9.b, the following example is provided: for a maximum rated power of 20 W, the volume would be: 20 W × 10 cm 3 /W = 200 cm 3. 2. The 'turn-on time' in 3A001.b.9.a refers to the time from fully-off to fully operational, i.e., it includes the warm-up time of the MPM.
+b.10. Oscillators or oscillator assemblies, specified to operate with a single sideband (SSB) phase noise, in dBc/Hz, less (better) than − (126 + 20log 10 F − 20log 10 f) anywhere within the range of 10 Hz ≤ F ≤ 10 kHz;
 Technical Note: For the purposes of 3A001.b.10, F is the offset from the operating frequency in Hz and f is the operating frequency in MHz.
 b.11. 'Frequency synthesizer' "electronic assemblies" having a "frequency switching time" as specified by any of the following:
 b.11.a. Less than 143 ps;
-b.11.b. Less than 100 ms for any frequency change exceeding 2.2 GHz within the synthesized frequency range exceeding 4.8 GHz but not exceeding 31.8 GHz;
+b.11.b. Less than 100 µs for any frequency change exceeding 2.2 GHz within the synthesized frequency range exceeding 4.8 GHz but not exceeding 31.8 GHz;
 b.11.c. [Reserved]
 b.11.d. Less than 500 µs for any frequency change exceeding 550 MHz within the synthesized frequency range exceeding 31.8 GHz but not exceeding 37 GHz;
 b.11.e. Less than 100 µs for any frequency change exceeding 2.2 GHz within the synthesized frequency range exceeding 37 GHz but not exceeding 75 GHz;
@@ -5938,18 +6104,18 @@ b.11.f. Less than 100 µs for any frequency change exceeding 5.0 GHz within the 
 b.11.g. Less than 1 ms within the synthesized frequency range exceeding 90 GHz;
 Technical Note: For the purposes of 3A001.b.11, a 'frequency synthesizer' is any kind of frequency source, regardless of the actual technique used, providing a multiplicity of simultaneous or alternative output frequencies, from one or more outputs, controlled by, derived from or disciplined by a lesser number of standard (or master) frequencies.
 N.B.: For general purpose "signal analyzers", signal generators, network analyzers and microwave test receivers, see 3A002.c, 3A002.d, 3A002.e and 3A002.f, respectively.
-b.12. 'Transmit/receive modules,' 'transmit/receive MMICs,' 'transmit modules,' and 'transmit MMICs,' rated for operation at frequencies above 2.7 GHz and having all of the following:
-b.12.a. A peak saturated power output (in watts), P sat, greater than 505.62 divided by the maximum operating frequency (in GHz) squared [P sat > 505.62 W * GHz 2 /f GHz 2] for any channel;
+b.12. 'Transmit/receive modules, 'transmit/receive MMICs, 'transmit modules,' and 'transmit MMICs,' rated for operation at frequencies above 2.7 GHz and having all of the following:
+b.12.a. A peak saturated power output (in watts), P sat, greater than 505.62 divided by the maximum operating frequency (in GHz) squared [P sat >505.62 W*GHz 2 /f GHz 2] for any channel;
 b.12.b. A "fractional bandwidth" of 5% or greater for any channel;
-b.12.c. Any planar side with length d (in cm) equal to or less than 15 divided by the lowest operating frequency in GHz [d ≤ 15cm * GHz * N/f GHz] where N is the number of transmit or transmit/receive channels; and
-b.12.d. An electronically variable phase shifter per channel.
-Technical Notes: For the purposes of 3A001.b.12: 1. A 'transmit/receive module' is a multifunction "electronic assembly" that provides bi-directional amplitude and phase control for transmission and reception of signals. 2. A 'transmit module' is an "electronic assembly" that provides amplitude and phase control for transmission of signals. 3. A 'transmit/receive MMIC' is a multifunction "MMIC" that provides bi-directional amplitude and phase control for transmission and reception of signals. 4. A 'transmit MMIC' is a "MMIC" that provides amplitude and phase control for transmission of signals. 5. 2.7 GHz should be used as the lowest operating frequency (f GHz) in the formula in 3A001.b.12.c for transmit/receive or transmit modules that have a rated operation range extending downward to 2.7 GHz and below [d ≤ 15cm * GHz * N/2.7 GHz]. 6. 3A001.b.12 applies to 'transmit/receive modules' or 'transmit modules' with or without a heat sink. The value of d in 3A001.b.12.c does not include any portion of the 'transmit/receive module' or 'transmit module' that functions as a heat sink. 7. 'Transmit/receive modules' or 'transmit modules,' 'transmit/receive MMICs' or 'transmit MMICs' may or may not have N integrated radiating antenna elements where N is the number of transmit or transmit/receive channels.
+b.12.c. Any planar side with length d (in cm) equal to or less than 15 divided by the lowest operating frequency in GHz [d ≤ 15cm*GHz*N/f GHz] where N is the number of transmit or transmit/receive channels; and
+b.12.d. An electronically variable phase shifter per channel;
+Technical Notes: For the purposes of 3A001.b.12: 1. A 'transmit/receive module' is a multifunction "electronic assembly" that provides bi-directional amplitude and phase control for transmission and reception of signals. 2. A 'transmit module' is an "electronic assembly" that provides amplitude and phase control for transmission of signals. 3. A 'transmit/receive MMIC' is a multifunction "MMIC" that provides bi-directional amplitude and phase control for transmission and reception of signals. 4. A 'transmit MMIC' is a "MMIC" that provides amplitude and phase control for transmission of signals. 5. 2.7 GHz should be used as the lowest operating frequency (f GHz) in the formula in 3A001.b.12.c for transmit/receive or transmit modules that have a rated operation range extending downward to 2.7 GHz and below [d≤15cm*GHz*N/2.7 GHz]. 6. 3A001.b.12 applies to 'transmit/receive modules' or 'transmit modules' with or without a heat sink. The value of d in 3A001.b.12.c does not include any portion of the 'transmit/receive module' or 'transmit module' that functions as a heat sink. 7. 'Transmit/receive modules' or 'transmit modules,' 'transmit/receive MMICs' or 'transmit MMICs' may or may not have N integrated radiating antenna elements where N is the number of transmit or transmit/receive channels.
 c. Acoustic wave devices as follows and "specially designed" "components" therefor:
 c.1. Surface acoustic wave and surface skimming (shallow bulk) acoustic wave devices, having any of the following:
 c.1.a. A carrier frequency exceeding 6 GHz;
 c.1.b. A carrier frequency exceeding 1 GHz, but not exceeding 6 GHz and having any of the following:
 c.1.b.1. A 'frequency side-lobe rejection' exceeding 65 dB;
-c.1.b.2. A product of the maximum delay time and the bandwidth (time in ms and bandwidth in MHz) of more than 100;
+c.1.b.2. A product of the maximum delay time and the bandwidth (time in µs and bandwidth in MHz) of more than 100;
 c.1.b.3. A bandwidth greater than 250 MHz; or
 c.1.b.4. A dispersive delay of more than 10 µs; or
 c.1.c. A carrier frequency of 1 GHz or less and having any of the following:
@@ -6015,7 +6181,15 @@ i.2.b. A 'Vπ' less than 5 V when measured at a frequency of more than 1 GHz.
 Note: 3A001.i includes electro-optic modulators having optical input and output connectors (e.g., fiber-optic pigtails).
 Technical Note: For the purposes of 3A001.i, a 'half-wave voltage' ('Vπ') is the applied voltage necessary to make a phase change of 180 degrees in the wavelength of light propagating through the optical modulator.
 j. through y. [Reserved]
-z. Any commodity described in 3A001 that meets or exceeds the performance parameters in 3A090.
+z. Any commodity described in 3A001 that meets or exceeds the performance parameters in 3A090, as follows:
+z.1.a "Monolithic Microwave Integrated Circuit" ("MMIC") amplifiers described in 3A001.b.2 and discrete microwave transistors in 3A001.b.3 that also meet or exceed the performance parameters in ECCN 3A090.a, except those 3A001.b.2 and b.3 items being exported or reexported for use in civil telecommunications applications;
+z.1.b "Monolithic Microwave Integrated Circuit" ("MMIC") amplifiers described in 3A001.b.2 and discrete microwave transistors in 3A001.b.3 that also meet or exceed the performance parameters in ECCN 3A090.b, except those 3A001.b.2 and b.3 items being exported or reexported for use in civil telecommunications applications;
+z.2.a Commodities that are described in 3A001.a.1.a when usable in "missiles" that also meet or exceed the performance parameters in ECCN 3A090.a; and to 3A001.a.5.a when "designed or modified" for military use, hermetically sealed and rated for operation in the temperature range from below −54 °C to above +125 °C and that also meet or exceed the performance parameters in ECCN 3A090.a;
+z.2.b Commodities that are described in 3A001.a.1.a when usable in "missiles" that also meet or exceed the performance parameters in ECCN 3A090.b; and to 3A001.a.5.a when "designed or modified" for military use, hermetically sealed and rated for operation in the temperature range from below −54 °C to above +125 °C and that also meet or exceed the performance parameters in ECCN 3A090.b;
+z.3.a. Pulse discharge capacitors described in 3A001.e.2 and superconducting solenoidal electromagnets in 3A001.e.3 that meet or exceed the technical parameters in 3A201.a and 3A201.b, respectively and that also meet or exceed the performance parameters in ECCN 3A090.a;
+z.3.b Pulse discharge capacitors described in 3A001.e.2 and superconducting solenoidal electromagnets in 3A001.e.3 that meet or exceed the technical parameters in 3A201.a and 3A201.b, respectively and that also meet or exceed the performance parameters in ECCN 3A090.b;
+z.4.a. All other commodities specified in this ECCN that meet or exceed the performance parameters of ECCN 3A090.a; or
+z.4.b All other commodities specified in this ECCN that meet or exceed the performance parameters of ECCN 3A090.b.
 3A002 General purpose "electronic assemblies," modules and equipment, as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, MT, AT
@@ -6126,30 +6300,57 @@ List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
 Items: The list of items controlled is contained in the ECCN heading.
+3A069 Specific Laboratory Equipment as Follows (See List of Items Controlled)
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+NS applies to entire entry | NS Column 2.
+RS applies to entire entry | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(12) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+LVS: N/A
+GBS: Yes, except N/A for destinations subject to the RS control in 3A999.
+List of Items Controlled
+Related Controls: See also 3A999 for specific processing equipment, n.e.s.. See also 3E069 for technology for the "development" and "production" of items detailed in 3A069.
+License Requirement Note: Excluded from the scope of this entry are flow cytometers and mass spectrometers that are devices, as defined in section 201(h) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 321(h), that have been authorized for marketing by the Food and Drug Administration under section 510(k), section 513, or section 515 of the FD&C Act, 21 U.S.C. 360(k), 21 U.S.C. 360c, 21 U.S.C. 360e, or are exempt from the requirement of premarket notification under section 510(k) of the FD&C Act, 21 U.S.C. 360(k), and that are included in a list required by section 510(j) of the FD&C Act, 21 U.S.C. 360(j).
+Related Definitions: N/A
+Items:
+a. Flow cytometers and cell sorters that are "specially designed" for spectral analysis or contain 26 or greater detectors or channels.
+b. Liquid chromatography mass spectrometry instruments (LC/MS and LC-MS/MS) "specially designed" for top-down proteomic analysis.
 3A090 Integrated circuits as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: RS, AT
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-RS applies to entire entry | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii) of the EAR.
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+RS applies to 3A090.a | To or within any destination worldwide, see § 742.6(a)(6)(iii)(A) of the EAR.
+RS applies to 3A090.b | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
+RS applies to 3A090.c | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(6)(i)(B) of the EAR.
 AT applies to entire entry | AT Column 1.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
-NAC: Yes, for 3A090.a, if the item is not designed or marketed for use in datacenters and has a `total processing performance' of 4800 or more; yes, for 3A090.b, if the item is designed or marketed for use in datacenters.
+NAC/ACA: Yes, for 3A090.a, if the item is not designed or marketed for use in datacenters and has a 'total processing performance' of 4800 or more; yes, for 3A090.b, if the item is designed or marketed for use in datacenters. N/A for 3A090.c.
+HBM: Yes, for 3A090.c. See § 740.25 of the EAR.
+AIA: Yes, for 3A090.a.
+ACM: Yes
+LPP: Yes, for 3A090.a.
 List of Items Controlled
 Related Controls: (1) See ECCNs 3D001, 3E001, 5D002.z, and 5D992.z for associated technology and software controls. (2) See ECCNs 3A001.z, 5A002.z, 5A004.z, and 5A992.z.
 Related Definitions: N/A
 Items:
 a. Integrated circuits having one or more digital processing units having either of the following:
-a.1. a 'total processing performance' of 4800 or more, or
-a.2. a 'total processing performance' of 1600 or more and a 'performance density' of 5.92 or more.
+a.1. A 'total processing performance' of 4800 or more; or
+a.2. A 'total processing performance' of 1600 or more and a 'performance density' of 5.92 or more.
+Note 1 to 3A090.a: When a "front-end fabricator" or "OSAT" company is seeking to export, reexport, or transfer (in-country) an "applicable advanced logic integrated circuit," there is a presumption that the item is 3A090.a and designed or marketed for datacenters. If the "front-end fabricator" or "OSAT" company cannot overcome this presumption, then it must comply with all license requirements applicable to items specified in 3A090.a. However, this presumption does not apply to any entity other than the "front-end fabricator" or "OSAT" company. A "front-end fabricator" or "OSAT" company can overcome this presumption in any of the following three ways outlined in paragraphs a. through c. of this Note 1. a. If the designer of the "applicable advanced logic integrated circuit" is an approved or authorized integrated circuit designer, then a datasheet or other attestation of the 'total processing performance' and the 'performance density' from the approved or authorized integrated circuit designer indicating that the IC is not specified in 3A090.a will overcome the presumption for the "front-end fabricator" or "OSAT" company that the IC is specified in ECCN 3A090.a. (1) Approved integrated circuit designers are listed in supplement no. 6 to this part of the EAR; (2) Prior to April 13, 2026, authorized integrated circuit designers include all integrated circuit designers: (i) Headquartered in Taiwan or a destination specified in Country Group A:1 or A:5, that are neither located in nor have an ultimate parent headquartered in Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR; and (ii) That have agreed to submit applicable information described in § 743.9(b) to the "front-end fabricator," which the "front-end fabricator" must then report to BIS. (3) After April 13, 2026, authorized integrated circuit designers include any integrated circuit designer that both meets the criteria specified in subparagraph (2) and has submitted an application to become an approved integrated circuit designer. However, any company deemed an authorized IC designer after April 13, 2026, will cease to be an authorized IC designer 180 days after the submission of its application to become an approved IC designer. b. If the integrated circuit die is packaged by the "front-end fabricator" at a location outside of Macau or a destination specified in Country Group D:5 in supplement no. 1 to part 740, then the attestation of the "front-end fabricator" that (a) the "aggregated approximated transistor count" of the final packaged IC is below 30 billion transistors, or (b) the final packaged IC does not contain high-bandwidth memory and that the "aggregated approximated transistor count" of the final packaged IC is below (i) 35 billion transistors for any exports, reexports, or transfers (in-country) completed in 2027; or (ii) 40 billion transistors for any exports, reexports, or transfers (in-country) completed in 2029 or thereafter, then this overcomes the presumption by the "front-end fabricator" or "OSAT" company that the IC is specified in ECCN 3A090.a. c. If the integrated circuit is packaged by an approved "OSAT" company listed in supplement no. 7 to part 740 of the EAR, then the attestation of the approved "OSAT" company that (a) the "aggregated approximated transistor count" of the final packaged IC is below 30 billion transistors, or (b) the final packaged IC does not contain high-bandwidth memory and that the "aggregated approximated transistor count" of the final packaged IC is below (i) 35 billion transistors for any exports, reexports, or transfers (in-country) completed in 2027; or (ii) 40 billion transistors for any exports, reexports, or transfers (in-country) completed in 2029 or thereafter, then this overcomes the presumption by the "front-end fabricator" or "OSAT" company that the IC is specified in ECCN 3A090.a. d. It is not sufficient for the "front-end fabricator" or "OSAT" company to confirm the ECCN by relying on the attestation of the end user or other party to the transaction, except under one of the three ways enumerated in paragraphs a. through c. of this note. In the absence of an attestation of the 'total processing performance' and the 'performance density' by an approved integrated circuit designer listed in supplement no. 6 to part 740 of the EAR, the "front-end fabricator" or "OSAT" company must presume that any logic integrated circuit produced using the "16/14 nanometer node" or below, or using a non-planar transistor architecture and destined for a commodity with an (a) "aggregated approximated transistor count" of the final packaged IC is below 30 billion transistors, or (b) the final packaged IC does not contain high-bandwidth memory and that the "aggregated approximated transistor count" of the final packaged IC is below (i) 35 billion transistors for any exports, reexports, or transfers (in-country) completed in 2027; or (ii) 40 billion transistors for any exports, reexports, or transfers (in-country) completed in 2029 or thereafter, or where the "aggregated approximated transistor count," of the final, packaged integrated circuit cannot be confirmed by the "front-end fabricator," or an approved "OSAT" company listed in supplement no. 7 to part 740 of the EAR, is specified in ECCN 3A090.a and designed or marketed for a datacenter.
+Technical Note 1 to 3A090.a: The 'approximated transistor count' of a die is the 'transistor density' of the die multiplied by the area of the die measured in square millimeters. The 'transistor density' of the die is the number of transistors that can be fabricated per square millimeter for the process node used to manufacture the die. To calculate the number of 'approximated transistor count' of a die, a "front end fabricator" or "OSAT" company has two options. First, the "front end fabricator" or "OSAT" company may take the transistor density of the process node used to manufacture the die and multiply this density by the area of the die. This number may be significantly higher than the true transistor count, but if the result is below the relevant transistor threshold, then the "front end fabricator" or "OSAT" company can be confident that the die in question will not exceed that threshold. Second, to adjudicate edge cases, the "front end fabricator" or "OSAT" company may use standard design verification tools to estimate the number of (both active and passive) transistors on the die using the GDS file.
 b. Integrated circuits having one or more digital processing units having either of the following:
-b.1. a 'total processing performance' of 2400 or more and less than 4800 and a 'performance density' of 1.6 or more and less than 5.92, or
-b.2. a 'total processing performance' of 1600 or more and a 'performance density' of 3.2 or more and less than 5.92.
-Note 1 to 3A090: Integrated circuits specified by 3A090 include graphical processing units (GPUs), tensor processing units (TPUs), neural processors, in-memory processors, vision processors, text processors, co-processors/accelerators, adaptive processors, field-programmable logic devices (FPLDs), and application-specific integrated circuits (ASICs). Examples of integrated circuits are in the Note to 3A001.a.
-Note 2 to 3A090: 3A090 does not apply to items that are not designed or marketed for use in datacenters and do not have a 'total processing performance' of 4800 or more. For integrated circuits that are not designed or marketed for use in datacenters and that have a 'total processing performance' of 4800 or more, see license exception NAC.
-Note 3 to 3A090: For ICs that are excluded from ECCN 3A090 under Note 2 or 3 to 3A090, those ICs are also not applicable for classifications made under ECCNs 3A001.z, 4A003.z, 4A004.z, 4A005.z, 4A090, 5A002.z, 5A004.z, 5A992.z, 5D002.z, or 5D992.z because those other CCL classifications are based on the incorporation of an IC that meets the control parameters under ECCN 3A090 or otherwise meets or exceeds the control parameters or ECCNs 3A090 or 4A090. See the Related Controls paragraphs of 3A001.z, 4A003.z, 4A004.z, 4A005.z, 4A090, 5A002.z, 5A004.z, 5A992.z, 5D002.z, or 5D992.z, which reference back to Note 4 to 3A090.
-Technical Notes: 1. 'Total processing performance' ('TPP') is 2 × 'MacTOPS' × 'bit length of the operation', aggregated over all processing units on the integrated circuit. a. For purposes of 3A090, 'MacTOPS' is the theoretical peak number of Tera (10 12) operations per second for multiply-accumulate computation (D = A × B + C). b. The 2 in the 'TPP' formula is based on industry convention of counting one multiply-accumulate computation, D = A × B + C, as 2 operations for purpose of datasheets. Therefore, 2 × MacTOPS may correspond to the reported TOPS or FLOPS on a datasheet. c. For purposes of 3A090, 'bit length of the operation' for a multiply-accumulate computation is the largest bit-length of the inputs to the multiply operation. d. Aggregate the TPPs for each processing unit on the integrated circuit to arrive at a total. 'TPP' = TPP1 + TPP2 +.... + TPPn (where n is the number or processing units on the integrated circuit). 2. The rate of 'MacTOPS' is to be calculated at its maximum value theoretically possible. The rate of 'MacTOPS' is assumed to be the highest value the manufacturer claims in annual or brochure for the integrated circuit. For example, the 'TPP' threshold of 4800 can be met with 600 tera integer operations (or 2 × 300 'MacTOPS') at 8 bits or 300 tera FLOPS (or 2 × 150 'MacTOPS') at 16 bits. If the IC is designed for MAC computation with multiple bit lengths that achieve different 'TPP' values, the highest 'TPP' value should be evaluated against parameters in 3A090. 3. For integrated circuits specified by 3A090 that provide processing of both sparse and dense matrices, the 'TPP' values are the values for processing of dense matrices (e.g., without sparsity). 4. 'Performance density' is 'TPP' divided by 'applicable die area'. For purposes of 3A090, 'applicable die area' is measured in millimeters squared and includes all die area of logic dies manufactured with a process node that uses a non-planar transistor architecture.
+b.1. A 'total processing performance' of 2400 or more and less than 4800 and a 'performance density' of 1.6 or more and less than 5.92, or
+b.2. A 'total processing performance' of 1600 or more and a 'performance density' of 3.2 or more and less than 5.92.
+Note 2 to 3A090.a and 3A090.b: 3A090.a and 3A090.b do not apply to items that are not designed or marketed for use in datacenters and do not have a 'total processing performance' of 4800 or more. For 3A090.a and 3A090.b items that are not designed or marketed for use in datacenters and that have a 'total processing performance' of 4800 or more, see license exceptions NAC and ACA.
+Note 3 to 3A090.a and 3A090.b: Integrated circuits specified by 3A090 include graphical processing units (GPUs), tensor processing units (TPUs), neural processors, in-memory processors, vision processors, text processors, co-processors/accelerators, adaptive processors, field-programmable logic devices (FPLDs), and application-specific integrated circuits (ASICs). Examples of integrated circuits are in the Note to 3A001.a.
+Note 4 to 3A090.a and 3A090.b: For integrated circuits that are excluded from ECCN 3A090 under Note 2 or 3 to 3A090, those ICs are also not applicable for classifications made under ECCNs 3A001.z, 4A003.z, 4A004.z, 4A005.z, 4A090, 5A002.z, 5A004.z, 5A992.z, 5D002.z, or 5D992.z because those other CCL classifications are based on the incorporation of an integrated circuit that meets the control parameters under ECCN 3A090 or otherwise meets or exceeds the control parameters or ECCNs 3A090 or 4A090. The performance parameters under ECCN 3A090.c are not used for determining whether an item is classified in a.z ECCN. See the Related Controls paragraphs of ECCNs 3A001.z, 4A003.z, 4A004.z, 4A005.z, 4A090, 5A002.z, 5A004.z, 5A992.z, 5D002.z, or 5D992.z.
+Technical Note 2 to 3A090.a and 3A090.b: 1. 'Total processing performance' ('TPP') is 2 × 'MacTOPS' × 'bit length of the operation', aggregated over all processing units on the integrated circuit. a. For purposes of 3A090, 'MacTOPS' is the theoretical peak number of Tera (10 12) operations per second for multiply-accumulate computation (D = A × B + C). b. The 2 in the 'TPP' formula is based on industry convention of counting one multiply-accumulate computation, D = A × B + C, as 2 operations for purpose of datasheets. Therefore, 2 × MacTOPS may correspond to the reported TOPS or FLOPS on a datasheet. c. For purposes of 3A090, 'bit length of the operation' for a multiply-accumulate computation is the largest bit-length of the inputs to the multiply operation. d. Aggregate the TPPs for each processing unit on the integrated circuit to arrive at a total. 'TPP' = TPP1 + TPP2 +.... + TPPn (where n is the number or processing units on the integrated circuit). 2. The rate of 'MacTOPS' is to be calculated at its maximum value theoretically possible. The rate of 'MacTOPS' is assumed to be the highest value the manufacturer claims in annual or brochure for the integrated circuit. For example, the 'TPP' threshold of 4800 can be met with 600 tera integer operations (or 2 × 300 'MacTOPS') at 8 bits or 300 tera FLOPS (or 2 × 150 'MacTOPS') at 16 bits. If the integrated circuit is designed for MAC computation with multiple bit lengths that achieve different 'TPP' values, the highest 'TPP' value should be evaluated against parameters in 3A090. 3. For integrated circuits specified by 3A090 that provide processing of both sparse and dense matrices, the 'TPP' values are the values for processing of dense matrices (e.g., without sparsity). 4. 'Performance density' is 'TPP' divided by 'applicable die area'. For purposes of 3A090, 'applicable die area' is measured in millimeters squared and includes all die area of logic dies manufactured with a process node that uses a non-planar transistor architecture.
+c. High bandwidth memory (HBM) having a 'memory bandwidth density' greater than 2 gigabytes per second per square millimeter.
+Technical Note 1 to 3A090.c: 'Memory bandwidth density' is the memory bandwidth measured in gigabytes per second divided by the area of the package or stack measured in square millimeters. In the case where a stack is contained in a package, use the memory bandwidth of the packaged device and the area of the package. High bandwidth memory (HBM) includes dynamic random access memory integrated circuits, regardless of whether they conform to the JEDEC standards for high bandwidth memory (HBM), provided they have a 'memory bandwidth density' greater than 2 gigabytes per second per square millimeter. This control does not cover co-packaged integrated circuits with both HBM and logic integrated circuit where the dominant function of the co-packaged integrated circuit is processing. It does include HBM permanently affixed to a logic integrated circuit designed as a control interface and incorporating a physical layer (PHY) function.
 3A101 Electronic equipment, devices, "parts" and "components," other than those controlled by 3A001, as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: MT, AT
@@ -6273,17 +6474,18 @@ c.3. Turn-on time of 1 µs or less.
 License Requirements
 Reason for Control: NP, AT, foreign policy
 Control(s) | Country chart (see Supp. No. 1 to part 738)
-NP applies to entire entry | NP Column 1
-AT applies to entire entry | AT Column 1
-Russian industry sector sanctions apply to entire entry | See § 746.5 for specific license requirements and license review policy.
-List Based License Exceptions (See Part 740 for a description of all license exceptions)
+NP applies to entire entry | NP Column 1.
+AT applies to entire entry | AT Column 1.
+Russian industry sector sanctions apply to entire entry | See § 746.8 for specific license requirements and license review policy.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
 Related Controls: (1) See ECCNs 3E001 and 1E001 ("development" and "production") and 3E201 and 1E201 ("use") for technology for items controlled under this entry. (2) See 1A007.a for explosive detonator firing sets designed to drive explosive detonators controlled by 1A007.b. (3) High explosives and related equipment for military use are "subject to the ITAR" (see 22 CFR parts 120 through 130).
 Related Definitions: N/A
 ECCN Controls: (1) Optically driven firing sets include both those employing laser initiation and laser charging. (2) Explosively driven firing sets include booth explosive ferroelectric and explosive ferromagnetic firing set types. (3) 3A229.b includes xenon flash-lamp drivers.
-Items: a. Detonator firing sets (initiation systems, firesets), including electronically-charged, explosively-driven and optically-driven firing sets designed to drive multiple controlled detonators controlled by 3A232;
+Items:
+a. Detonator firing sets (initiation systems, firesets), including electronically-charged, explosively-driven and optically-driven firing sets designed to drive multiple controlled detonators controlled by 3A232;
 b. Modular electrical pulse generators (pulsers) having all of the following characteristics:
 b.1. Designed for portable, mobile, or ruggedized use;
 b.2. Capable of delivering their energy in less than 15 µs into loads of less than 40 Ω (ohms);
@@ -6313,34 +6515,36 @@ b. "Pulse transition time" less than 500 ps.
 License Requirements
 Reason for Control: NP, AT, foreign policy
 Control(s) | Country chart (see Supp. No. 1 to part 738)
-NP applies to entire entry | NP Column 1
-AT applies to entire entry | AT Column 1
-Russian industry sector sanctions apply to entire entry | See § 746.5 for specific license requirements and license review policy.
-List Based License Exceptions (See Part 740 for a description of all license exceptions)
+NP applies to entire entry | NP Column 1.
+AT applies to entire entry | AT Column 1.
+Russian industry sector sanctions apply to entire entry | See § 746.8 for specific license requirements and license review policy.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
 Related Controls: See ECCNs 3E001 ("development" and "production") and 3E201 ("use") for technology for items controlled under this entry.
 Related Definitions: N/A
-Items: a. Designed for operation without an external vacuum system; and
+Items:
+a. Designed for operation without an external vacuum system; and
 b. Utilizing electrostatic acceleration to induce:
 b.1. A tritium-deuterium nuclear reaction; or
 b.2. A deuterium-deuterium nuclear reaction and capable of an output of 3 × 10 9 neutrons/s or greater.
 3A232 Detonators and multipoint initiation systems, as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: AT, RS, foreign policy
-Control(s) | Country chart (See Supp. No. 1 to part 738)
-NP applies to entire entry | NP Column 1
-AT applies to entire entry | AT Column 1
-Russian industry sector sanctions apply to entire entry | See § 746.5 for specific license requirements and license review policy.
-List Based License Exceptions (See Part 740 for a description of all license exceptions)
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NP applies to entire entry | NP Column 1.
+AT applies to entire entry | AT Column 1.
+Russian industry sector sanctions apply to entire entry | See § 746.8 for specific license requirements and license review policy.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
 Related Controls: (1) See ECCNs 0A604 and 1A007 for electrically driven explosive detonators. (2) See ECCNs 3E001 ("development" and "production") and 3E201 ("use") for technology for items controlled under this entry. (3) High explosives and related equipment for military use are "subject to the ITAR" (see 22 CFR parts 120 through 130).
 Related Definitions: N/A
 ECCN Controls: This entry does not control detonators using only primary explosives, such as lead azide.
-Items: a. [Reserved]
+Items:
+a. [Reserved]
 b. Arrangements using single or multiple detonators designed to nearly simultaneously initiate an explosive surface over an area greater than 5,000 mm 2 from a single firing signal with an initiation timing spread over the surface of less than 2.5 µs.
 Technical Note: The word initiator is sometimes used in place of the word detonator.
 3A233 Mass spectrometers, capable of measuring ions of 230 u or greater and having a resolution of better than 2 parts in 230, and ion sources therefor, excluding items that are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110).
@@ -6414,7 +6618,7 @@ y. Specific "parts," "components," "accessories," and "attachments" "specially d
 y.1. Electrical connectors;
 y.2. Electric fans;
 y.3. Heat sinks;
-y.4. Joy sticks;
+y.4. Joysticks;
 y.5. Mica paper capacitors;
 y.6. Microphones;
 y.7. Potentiometers;
@@ -6447,6 +6651,49 @@ y.33. Identification plates and nameplates;
 y.34. Knobs;
 y.35. Hydraulic, pneumatic, fuel and lubrication gauges.
 Note to ECCN 3A611: When applying the "specially designed" definition to determine whether a printed circuit board, populated circuit card assembly or multichip module is controlled by paragraph.g,.h,.y.15 or.y.16 of this entry, the layout of the board or assembly and the pattern and layout of the module are the only characteristics that need be evaluated under the "specially designed" definition.
+3A901 Electronic items, not specified by ECCN 3A001, as follows (see List of Items Controlled).
+Reason for Control: NS, RS, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+LVS: N/A
+GBS: N/A
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: For related "software" see ECCN 3D901 and for "technology" see ECCN 3E901.
+Related Definitions: N/A
+Items:
+a. Complementary Metal Oxide Semiconductor (CMOS) integrated circuits, not specified by 3A001.a.2, designed to operate at an ambient temperature equal to or less (better) than 4.5 K (−268.65 °C).
+Technical Note: For the purposes of 3A901.a, CMOS integrated circuits are also referred to as cryogenic CMOS or cryo-CMOS.
+b. Parametric signal amplifiers having all of the following:
+b.1. Designed for operation at an ambient temperature below 1 K (−272.15 °C);
+b.2. Designed for operation at any frequency from 2 GHz up to and including 15 GHz; and
+b.3. A noise figure less (better) than 0.015 dB at any frequency from 2 GHz up to and including 15 GHz at 1 K (−272.15 °C).
+Note: For the purposes of 3A901.b, parametric signal amplifiers include Travelling Wave Parametric Amplifiers (TWPAs).
+Technical Note: For the purposes of 3A901.b, parametric signal amplifiers may also be referred to as Quantum-limited amplifiers (QLAs).
+3A904 Cryogenic cooling systems and components, as follows (see List of Items Controlled).
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to the entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+LVS: N/A
+GBS: N/A
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No. 1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: See ECCN 3E901 for related technology controls for the "development" or "production" of this ECCN.
+Related Definitions: N/A
+Items:
+a. Systems rated to provide a cooling power greater than or equal to 600 µW at or below a temperature of 0.1 K (−273.05 °C) for a period of greater than 48 hours;
+b. Two-stage pulse tube cryocoolers rated to maintain a temperature below 4 K (−269.15 °C) and provide a cooling power greater than or equal to 1.5 W at or below a temperature of 4.2 K (−268.95 °C).
 3A980 Voice print identification and analysis equipment and "specially designed" "components" therefor, n.e.s.
 License Requirements
 Reason for Control: CC
@@ -6543,74 +6790,82 @@ p. Integrated circuits, n.e.s., having any of the following:
 p.1. A processing performance of 8 TOPS or more; or
 p.2. An aggregate bidirectional transfer rate over all inputs and outputs of 150 Gbyte/s or more to or from integrated circuits other than volatile memories.
 Technical Notes: For the purposes of 3A991.p: 1. This ECCN includes but is not limited to central processing units (CPU), graphics processing units (GPU), tensor processing units (TPU), neural processors, in-memory processors, vision processors, text processors, co-processors/accelerators, adaptive processors, and field-programmable logic devices (FPLDs). 2. TOPS is Tera Operations Per Second or 10 12 Operations per Second. 3. For purposes of 3A991.p, TOPS is 2 × 'MacTOPS' aggregated over all processing units on the integrated circuit. a. For purposes of 3A991.p, 'MacTOPS' is the theoretical peak number of Tera (10^12) operations per second for multiply-accumulate computation (D = A × B + C). b. The 2 in the formula is based on industry convention of counting one multiply-accumulate computation, D = A × B + C, as 2 operations for purpose of datasheets. Therefore, 2 × 'MacTOPS' may correspond to the reported TOPS or FLOPS on a datasheet.
-3A992 General purpose electronic equipment not controlled by 3A002.
+3A992 General purpose electronic equipment, not controlled by 3A002, as Follows (See List of Items Controlled).
 License Requirements
-Reason for Control: AT
-Control(s) | Country Chart (See Supp. No. 1 to part 738)
+Reason for Control: RS, AT
+Control(s) | Country chart (see supp. no. 1 to part 738)
+RS applies to entire entry. | A license is required for items controlled by this entry for export or reexport to Pakistan or transfer within Pakistan for regional stability reasons. The Commerce Country Chart is not designed to determine RS license requirements for this entry. See § 742.6(a)(12) of the EAR for additional information.
 AT applies to entire entry | AT Column 1.
-List Based License Exceptions (See Part 740 for a description of all license exceptions)
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: a. Electronic test equipment, n.e.s.
+Items:
+a. Electronic test equipment, n.e.s.
 b. Digital instrumentation magnetic tape data recorders having any of the following characteristics;
 b.1. A maximum digital interface transfer rate exceeding 60 Mbit/s and employing helical scan techniques;
 b.2. A maximum digital interface transfer rate exceeding 120 Mbit/s and employing fixed head techniques; or
-b.3. "Space qualified";
-c. Equipment, with a maximum digital interface transfer rate exceeding 60 Mbit/s, designed to convert digital video magnetic tape recorders for use as digital instrumentation data recorders;
-d. Non-modular analog oscilloscopes having a bandwidth of 1 GHz or greater;
+b.3. "Space qualified".
+c. Equipment, with a maximum digital interface transfer rate exceeding 60 Mbit/s, designed to convert digital video magnetic tape recorders for use as digital instrumentation data recorders.
+d. Non-modular analog oscilloscopes having a bandwidth of 1 GHz or greater.
 e. Modular analog oscilloscope systems having either of the following characteristics:
 e.1. A mainframe with a bandwidth of 1 GHz or greater; or
-e.2. Plug-in modules with an individual bandwidth of 4 GHz or greater;
-f. Analog sampling oscilloscopes for the analysis of recurring phenomena with an effective bandwidth greater than 4 GHz;
-g. Digital oscilloscopes and transient recorders, using analog-to-digital conversion techniques, capable of storing transients by sequentially sampling single-shot inputs at successive intervals of less than 1 ns (greater than 1 giga-sample per second), digitizing to 8 bits or greater resolution and storing 256 or more samples.
+e.2. Plug-in modules with an individual bandwidth of 4 GHz or greater.
+f. Analog sampling oscilloscopes for the analysis of recurring phenomena with an effective bandwidth greater than 4 GHz.
+g. Digital oscilloscopes and transient recorders, using analog-to-digital conversion techniques, capable of storing transients by sequentially sampling single-shot inputs at successive intervals of less than 1 ns (greater than 1 gigasample per second), digitizing to 8 bits or greater resolution and storing 256 or more samples.
 Note: This ECCN controls the following "specially designed" "parts" and "components" for analog oscilloscopes: 1. Plug-in units; 2. External amplifiers; 3. Pre-amplifiers; 4. Sampling devices; 5. Cathode ray tubes.
 3A999 Specific Processing Equipment, n.e.s., as Follows (See List of Items Controlled).
 License Requirements
-Reason for Control: AT
-Control(s):
-Country Chart. AT applies to entire entry. A license is required for items controlled by this entry to North Korea for anti-terrorism reasons. The Commerce Country Chart is not designed to determine AT licensing requirements for this entry. See § 742.19 of the EAR for additional information.
-List Based License Exceptions (See Part 740 for a description of all license exceptions)
+Reason for Control: RS, AT
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+RS applies to entire entry | A license is required for items controlled by this entry for export or reexport to Iraq or Pakistan or transfer within Iraq or Pakistan for regional stability reasons. The Commerce Country Chart is not designed to determine RS license requirements for this entry. See §§ 742.6 and 746.3 of the EAR for additional information.
+AT applies to entire entry | A license is required for items controlled by this entry to North Korea for anti-terrorism reasons. The Commerce Country Chart is not designed to determine AT licensing requirements for this entry. See § 742.19 of the EAR for additional information.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
-Related Controls: (1) See also 3A225 (for frequency changers capable of operating in the frequency range of 600 Hz and above), and 3A233. (2) Certain auxiliary systems, equipment, "parts" and "components" for isotope separation plants, made of or protected by UF 6 resistant materials are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110).
+Related Controls: (1) See also 3A225 (for frequency changers capable of operating in the frequency range of 600 Hz and above) and 3A233. (2) Certain auxiliary systems, equipment, "parts" and "components" for isotope separation plants made of or protected by UF 6 resistant materials are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110). (3) See also 3A069 for flow cytometers and cell sorters that are "specially designed" for spectral analysis or contain 26 or greater detectors or channels as well as liquid chromatography mass spectrometry instruments (LC/MS and LC-MS/MS) "specially designed" for top-down proteomic analysis.
 Related Definitions: N/A
-Items: a. Frequency changers capable of operating in the frequency range from 300 up to 600 Hz, n.e.s;
+Items:
+a. Frequency changers capable of operating in the frequency range from 300 up to 600 Hz, n.e.s;
 b. Mass spectrometers n.e.s;
 c. All flash x-ray machines, and "parts" or "components" of pulsed power systems designed thereof, including Marx generators, high power pulse shaping networks, high voltage capacitors, and triggers;
 d. Pulse amplifiers, n.e.s.;
 e. Electronic equipment for time delay generation or time interval measurement, as follows:
 e.1. Digital time delay generators with a resolution of 50 nanoseconds or less over time intervals of 1 microsecond or greater; or
 e.2. Multi-channel (three or more) or modular time interval meter and chronometry equipment with resolution of 50 nanoseconds or less over time intervals of 1 microsecond or greater;
-f. Chromatography and spectrometry analytical instruments.
+f. Chromatography and spectrometry analytical instruments, n.e.s.
 B. "Test", "Inspection" and "Production Equipment"
 3B001 Equipment for the manufacturing of semiconductor devices, materials, or related equipment, as follows (see List of Items Controlled) and "specially designed" "components" and "accessories" therefor.
 License Requirements
 Reason for Control: NS, RS, AT
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to 3B001.a.1 to a.3, b, e, f.1.a, f.2 to f.4, g to j | NS Column 2.
-NS applies to 3B001.a.4, c, d, f.1.b, k to p | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.4(a)(4) of the EAR.
-RS applies to 3B001.a.4, c, d, f.1.b, k to p | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(6) of the EAR.
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+NS applies to 3B001.c.1.a, 3B001.c.1.c, and 3B001.q | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to 3B001.c.1.a, 3B001.c.1.c, and 3B001.q | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+NS applies to 3B001.a.1 to a.3, b, e, f.2 to f.4, g to j | NS Column 2.
+NS applies to 3B001.a.4, c, d, f.1, f.5, f.6, k to n, p.2, p.4, r | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.4(a)(4) of the EAR.
+RS applies to 3B001.a.4, c, d, f.1, f.5, f.6, k to n, p.2, p.4, r | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(6) of the EAR.
 AT applies to entire entry | AT Column 1.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
-LVS: $500, except semiconductor manufacturing equipment specified in 3B001.a.4, c, d, f.1.b, k to p.
-GBS: Yes, except a.3 (molecular beam epitaxial growth equipment using gas sources),.e (automatic loading multi-chamber central wafer handling systems only if connected to equipment controlled by 3B001.a.3, or.f), and.f (lithography equipment).
+LVS: $500, except semiconductor manufacturing equipment specified in 3B001.a.4, c, d, f.1, f.5, f.6, k to n, p.2, p.4, r.
+GBS: Yes, except a.3 (molecular beam epitaxial growth equipment using gas sources), c.1.a (Equipment designed or modified for isotropic dry etching), c.1.c (Equipment designed or modified for anisotropic dry etching),.e (automatic loading multi-chamber central wafer handling systems only if connected to equipment controlled by 3B001.a.3, or.f),.f (lithography equipment) and.q ("EUV" masks and reticles designed for integrated circuits, not specified by 3B001.g, and having a mask "substrate blank" specified by 3B001.j).
+IEC: Yes, for 3B001.c.1.a, c.1.c, and.q, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship 3B001.c.1.a, c.1.c, and.q to any of the destinations listed in Country Group A:5 or A:6 (See supplement no. 1 to part 740 of the EAR).
 List of Items Controlled
-Related Controls: See also 3B991
+Related Controls: See also 3B903 and 3B991. See ECCNs 3D001, 3D992, 3E001, and 3E992 for related "software" and "technology" controls.
 Related Definitions: N/A
 Items:
 a. Equipment designed for epitaxial growth as follows:
 a.1. Equipment designed or modified to produce a layer of any material other than silicon with a thickness uniform to less than ±2.5% across a distance of 75 mm or more;
 Note: 3B001.a.1 includes atomic layer epitaxy (ALE) equipment.
-a.2. Metal Organic Chemical Vapor Deposition (MOCVD) reactors designed for compound semiconductor epitaxial growth of material having two or more of the following elements: aluminum, gallium, indium, arsenic, phosphorus, antimony, or nitrogen;
+a.2. Metal Organic Chemical Vapor Deposition (MOCVD) reactors designed for compound semiconductor epitaxial growth of material having two or more of the following elements: aluminum, gallium, indium, arsenic, phosphorus, antimony, oxygen, or nitrogen;
 a.3. Molecular beam epitaxial growth equipment using gas or solid sources;
-a.4. Equipment designed for silicon (Si), carbon doped silicon, silicon germanium (SiGe), or carbon doped SiGe epitaxial growth, and having all of the following:
-a.4.a. Multiple chambers and maintaining high vacuum (equal to or less than 0.01 Pa) or inert environment (water and oxygen partial pressure less than 0.01 Pa) between process steps;
-a.4.b. At least one preclean chamber designed to provide a surface preparation means to clean the surface of the wafer; and
-a.4.c. An epitaxial deposition operating temperature of 685 °C or below;
+a.4. Equipment designed for epitaxial growth of silicon (Si) or silicon germanium (SiGe), and having all of the following:
+a.4.a. At least one preclean chamber designed to provide a surface preparation means to clean the surface of the wafer; and
+a.4.b. An epitaxial deposition chamber designed to operate at a temperature equal to or below 958 K (685 °C).
 b. Semiconductor wafer fabrication equipment designed for ion implantation and having any of the following:
 b.1. [Reserved]
 b.2. Being designed and optimized to operate at a beam energy of 20 keV or more and a beam current of 10 mA or more for hydrogen, deuterium, or helium implant;
@@ -6620,32 +6875,39 @@ b.5. Being designed and optimized to operate at beam energy of 20 keV or more an
 c. Etch equipment.
 c.1. Equipment designed for dry etching as follows:
 c.1.a. Equipment designed or modified for isotropic dry etching, having a largest 'silicon germanium-to-silicon (SiGe:Si) etch selectivity' of greater than or equal to 100:1; or
-c.1.b. Equipment designed or modified for anisotropic etching of dielectric materials and enabling the fabrication of high aspect ratio features with aspect ratio greater than 30:1 and a lateral dimension on the top surface of less than 100 nm, and having all of the following:
-c.1.b.1. Radio Frequency (RF) power source(s) with at least one pulsed RF output; and
-c.1.b.2. One or more fast gas switching valve(s) with switching time less than 300 milliseconds; or
+c.1.b. [Reserved]
 c.1.c. Equipment designed or modified for anisotropic dry etching, having all of the following;
 c.1.c.1. Radio Frequency (RF) power source(s) with at least one pulsed RF output;
 c.1.c.2. One or more fast gas switching valve(s) with switching time less than 300 milliseconds; and
 c.1.c.3. Electrostatic chuck with twenty or more individually controllable variable temperature elements;
 c.2. Equipment designed for wet chemical processing and having a largest 'silicon germanium-to-silicon (SiGe:Si) etch selectivity' of greater than or equal to 100:1;
+c.3. Equipment designed for anisotropic dry etching having all of following:
+c.3.a Two or more RF independent sources;
+c.3.b Two or more independent gas sources;
+c.3.c 'Process uniformity tuning' for wafer thickness variation compensation; and
+c.3.d Through Silicon Via (TSV) reveal Endpoint Detection (EPD);
+c.4. Equipment designed for Through Silicon Via (TSV) etch having all of the following:
+c.4.a. Silicon etch rate greater than 7 microns per minute;
+c.4.b. Within wafer (WIW) etch depth non-uniformity of less than or equal 2 percent; and
+c.4.c. A Through Silicon Via (TSV) aspect ratio greater than or equal to 10:1.
 Note 1: 3B001.c includes etching by 'radicals', ions, sequential reactions, or non-sequential reaction.
 Note 2: 3B001.c.1.c includes etching using RF pulse excited plasma, pulsed duty cycle excited plasma, pulsed voltage on electrodes modified plasma, cyclic injection and purging of gases combined with a plasma, plasma atomic layer etching, or plasma quasi-atomic layer etching.
-Technical Notes: 1. For the purposes of 3B001.c, 'silicon germanium-to-silicon (SiGe:Si) etch selectivity' is measured for a Ge concentration of greater than or equal to 30% (Si0.70Ge0.30). 2. For the purposes of 3B001.c Note 1 and 3B001.d.14, 'radical' is defined as an atom, molecule, or ion that has an unpaired electron in an open electron shell configuration.
+Technical Notes: 1. For the purposes of 3B001.c, 'silicon germanium-to-silicon (SiGe:Si) etch selectivity' is measured for a Ge concentration of greater than or equal to 30% (Si 0.70 Ge 0.30). 2. For the purposes of 3B001.c Note 1 and 3B001.d.14, 'radical' is defined as an atom, molecule, or ion that has an unpaired electron in an open electron shell configuration. 3. For the purposes of 3B001.c.3, 'process uniformity tuning' is the process of compensating for incoming wafer thickness variations after grinding.
 d. Semiconductor manufacturing deposition equipment, as follows:
 d.1. Equipment designed for cobalt (Co) electroplating or cobalt electroless-plating deposition processes;
 Note: 3B001.d.1 controls semiconductor wafer processing equipment.
 d.2. Equipment designed for:
 d.2.a. Chemical vapor deposition of cobalt (Co) fill metal; or
 d.2.b. Selective bottom-up chemical vapor deposition of tungsten (W) fill metal;
-d.3. Equipment designed to fabricate a metal contact by multistep processing within a single chamber by performing all of the following:
+d.3. Semiconductor manufacturing equipment designed to fabricate a metal contact by multistep processing within a single chamber by performing all of the following:
 d.3.a. Deposition of a tungsten layer, using an organometallic compound, while maintaining the wafer substrate temperature greater than 100 °C and less than 500 °C; and
-d.3.b. A plasma process using hydrogen (H 2), including hydrogen and nitrogen (H 2 + N 2) or ammonia (NH 3);
-d.4. Equipment or systems designed for multistep processing in multiple chambers or stations and maintaining high vacuum (equal to or less than 0.01 Pa) or inert environment between process steps, as follows:
-d.4.a. Equipment designed to fabricate a metal contact by performing the following processes:
+d.3.b. Surface treatment plasma process using hydrogen (H2), hydrogen and nitrogen (H2+N2), or ammonia (NH3).
+d.4. Equipment or systems designed for multistep processing in multiple chambers or stations, as follows:
+d.4.a. Equipment designed to fabricate a metal contact by performing all of the following processes:
 d.4.a.1. Surface treatment plasma process using hydrogen (H 2), including hydrogen and nitrogen (H 2 + N 2) or ammonia (NH 3), while maintaining the wafer substrate at a temperature greater than 100 °C and less than 500 °C;
 d.4.a.2. Surface treatment plasma process using oxygen (O 2) or ozone (O 3), while maintaining the wafer substrate at a temperature greater than 40 °C and less than 500 °C; and
-d.4.a.3. Deposition of a tungsten layer while maintaining the wafer substrate temperature greater than 100 °C and less than 500 °C;
-d.4.b. Equipment designed to fabricate a metal contact by performing the following processes:
+d.4.a.3. Deposition of a tungsten (W) layer while maintaining the wafer substrate temperature greater than 100 °C and less than 500 °C;
+d.4.b. Equipment designed to fabricate a metal contact by performing all of the following processes:
 d.4.b.1 Surface treatment process using a remote plasma generator and an ion filter; and
 d.4.b.2. Deposition of a cobalt (Co) layer selectively onto copper (Cu) using an organometallic compound;
 Note: This control does not apply to equipment that is non-selective.
@@ -6655,61 +6917,59 @@ d.4.c.2. Deposition of a cobalt (Co) layer using a physical sputter deposition t
 d.4.c.3. Deposition of a cobalt (Co) layer using an organometallic compound and having a process pressure greater than 133.3 Pa and less than 13.33 kPa, while maintaining the wafer substrate at a temperature greater than 20 °C and less than 500 °C;
 d.4.d. Equipment designed to fabricate copper (Cu) interconnects by performing all of the following processes:
 d.4.d.1. Deposition of a cobalt (Co) or ruthenium (Ru) layer using an organometallic compound and having a process pressure greater than 133.3 Pa and less than 13.33 kPa, while maintaining the wafer substrate at a temperature greater than 20 °C and less than 500 °C; and
-d.4.d.2. Deposition of a copper layer using a physical vapor deposition technique and having a process pressure greater than 133.3 mPa and less than 13.33 kPa, while maintaining the wafer substrate at a temperature below 500 °C;
-d.5. Equipment designed for plasma enhanced chemical vapor deposition of carbon hard masks more than 100 nm thick and with stress less than 450 Mpa;
+d.4.d.2. Deposition of a copper layer using a physical vapor deposition technique and having a process pressure greater than 133.3 mPa and less than 13.33 Pa, while maintaining the wafer substrate at a temperature below 500 °C;
+d.5. Equipment designed for plasma enhanced chemical vapor deposition of carbon hard masks more than 2 um thick and with density of greater than 1.7g/cc;
 d.6. Atomic Layer Deposition (ALD) equipment designed for area selective deposition of a barrier or liner using an organometallic compound;
 Note: 3B001.d.6 includes equipment capable of area selective deposition of a barrier layer to enable fill metal contact to an underlying electrical conductor without a barrier layer at the fill metal via interface to an underlying electrical conductor.
 d.7. Equipment designed for Atomic Layer Deposition (ALD) of tungsten (W) to fill an entire interconnect or in a channel less than 40 nm wide, while maintaining the wafer substrate at a temperature less than 500 °C.
-d.8 Equipment designed for Atomic Layer Deposition (ALD) of 'work function metal' having all of the following:
+d.8. Equipment designed for Atomic Layer Deposition (ALD) of 'work function metal' having all of the following:
 d.8.a. More than one metal source of which one is designed for an aluminum (Al) precursor;
 d.8.b. Precursor vessel designed and enabled to operate at a temperature greater than 30 °C; and
 d.8.c. Designed for depositing a 'work function metal' having all of the following:
 d.8.c.1. Deposition of titanium-aluminum carbide (TiAlC); and
-d.8.c.2. Enabling a work function greater than 4.0eV;
+d.8.c.2. Enabling a work function greater than 4.0 eV;
 Technical Note: For the purposes of 3B001.d.8, 'work function metal' is a material that controls the threshold voltage of a transistor.
 d.9. Spatial Atomic Layer Deposition (ALD) equipment having a wafer support platform that rotates around an axis having any of the following:
 d.9.a. A spatial plasma enhanced atomic layer deposition mode of operation;
 d.9.b. A plasma source; or
 d.9.c. A plasma shield or means to confine the plasma to the plasma exposure process region;
 d.10. Equipment designed for Atomic Layer Deposition (ALD) or Chemical Vapor Deposition (CVD) of plasma enhanced of low fluorine tungsten (FW) (fluorine (F) concentration less than 10 19 atoms/cm 3) films;
-d.11. Equipment designed to deposit a metal layer, in a vacuum (equal to or less than 0.01 Pa) or inert gas environment, and having all of the following:
-d.11.a. A Chemical Vapor Deposition (CVD) or cyclic deposition process for depositing a tungsten nitride (WN) layer, while maintaining the wafer substrate at a temperature greater than 20 °C and less than 500 °C; and
-d.11.b. A Chemical Vapor Deposition (CVD) or cyclic deposition process for depositing a tungsten (W) layer having a process pressure greater than 133.3 Pa and less than 53.33 kPa, while maintaining the wafer substrate at a temperature greater than 20 °C and less than 500 °C.
-d.12. Equipment designed for depositing a metal layer, in a vacuum (equal to or less than 0.01 Pa) or inert gas environment, and having any of the following:
+d.11. [Reserved]
+d.12. Equipment designed for depositing a metal layer, and having any of the following:
 d.12.a. Selective tungsten (W) growth without a barrier; or
 d.12.b. Selective molybdenum (Mo) growth without a barrier;
 d.13. Equipment designed for depositing a ruthenium layer (Ru) using an organometallic compound, while maintaining the wafer substrate at a temperature greater than 20 °C and less than 500 °C;
 d.14. Equipment designed for deposition assisted by remotely generated 'radicals', enabling the fabrication of a silicon (Si) and carbon (C) containing film, and having all of the following properties of the deposited film:
-d.14.a. A dielectric constant (k) of less than 5.3;
-d.14.b. An aspect ratio greater than 5:1 in features with lateral openings of less than 70 nm; and
-d.14.c. A feature-to-feature pitch of less than 100 nm;
+d.14.a. A dielectric constant (k) of less than 4.4;
+d.14.b. In features with an aspect ratio greater than 5:1 with lateral openings of less than 35 nm; and
+d.14.c. A feature-to-feature pitch of less than 45 nm;
 d.15. Equipment designed for void free plasma enhanced deposition of a low-k dielectric layer in gaps between metal lines less than 25 nm and having an aspect ratio greater than or equal to 1:1 with a less than 3.3 dielectric constant;
-d.16. Equipment designed for deposition of a film, containing silicon and carbon, and having a dielectric constant (k) of less than 5.3, into lateral openings having widths of less than 70 nm and aspect ratios greater than 5:1 (depth: width) and a feature-to-feature pitch of less than 100 nm, while maintaining the wafer substrate at a temperature greater than 400 °C and less than 650 °C, and having all of the following:
-d.16.a. Boat designed to hold multiple vertically stacked wafers;
-d.16.b. Two or more vertical injectors; and
-d.16.c. A silicon source and propene are introduced to a different injector than a nitrogen source or an oxygen source;
+d.16. [Reserved]
+d.17. Equipment designed for plasma enhanced chemical vapor deposition (PECVD) or radical assisted chemical vapor deposition and UV curing in a single platform of a dielectric film, while maintaining a substrate temperature below 500 °C, having all of the following:
+d.17.a. A thickness of more than 6 nm and less than 20 nm on metal features having less than 24 nm pitch and having an aspect ratio equal to or greater than 1:1.8; and
+d.17.b. A dielectric constant less than 3.0;
+d.18. Equipment designed or modified for Atomic Layer Deposition (ALD) of molybdenum (Mo), ruthenium (Ru), or combinations Mo or Ru, and having all of the following:
+d.18.a. A metal precursor source designed or modified to operate at a temperature greater 75 °C; and
+d.18.b. A process chamber (module) using a reducing agent containing hydrogen (H) at a pressure greater than or equal to 30 Torr (4 kPa).
+Note: For the purposes of paragraph d.18.a, the metal precursor source need not be integrated with the equipment. The metal precursor could be delivered by an on-tool source or from a sub-fab source.
+d.19. Deposition equipment having direct-liquid injection of more than two metal precursors, designed or modified to deposit a conformal dielectric film with a dielectric constant (K) greater than 40 in features with aspect ratio greater than 200:1 in a single deposition chamber.
+d.20. Physical vapor deposition equipment having electromagnets for ion flux guidance, and "specially designed" to deposit tungsten (W) metal into features having an aspect ratio of 3:1 or greater.
 e. Automatic loading multi-chamber central wafer handling systems having all of the following:
-e.1. Interfaces for wafer input and output, to which more than two functionally different 'semiconductor process tools' controlled by 3B001.a.1, 3B001.a.2, 3B001.a.3 or 3B001.b are designed to be connected; and
+e.1. Interfaces for wafer input and output, to which more than two functionally different 'semiconductor process tools' controlled by 3B001.a,.b.,.c, and.d are designed to be connected; and
 e.2. Designed to form an integrated system in a vacuum environment for 'sequential multiple wafer processing';
 Note: 3B001.e does not control automatic robotic wafer handling systems "specially designed" for parallel wafer processing.
-Technical Notes: 1. For the purposes of 3B001.e, 'semiconductor process tools' refers to modular tools that provide physical processes for semiconductor production that are functionally different, such as deposition, implant or thermal processing. 2. For the purposes of 3B001.e, 'sequential multiple wafer processing' means the capability to process each wafer in different 'semiconductor process tools', such as by transferring each wafer from one tool to a second tool and on to a third tool with the automatic loading multi-chamber central wafer handling systems.
-f. Lithography equipment as follows:
+Technical Notes: 1. For the purposes of 3B001.e, 'semiconductor process tools' refers to modular tools that provide physical processes for semiconductor "production" that are functionally different, such as deposition, implant or thermal processing. 2. For the purposes of 3B001.e, 'sequential multiple wafer processing' means the capability to process each wafer in different 'semiconductor process tools', such as by transferring each wafer from one tool to a second tool and on to a third tool with the automatic loading multi-chamber central wafer handling systems.
+f. Lithography commodities as follows:
 f.1. Align and expose step and repeat (direct step on wafer) or step and scan (scanner) equipment for wafer processing using photo-optical or X-ray methods and having any of the following:
 f.1.a. A light source wavelength shorter than 193 nm; or
 f.1.b. A light source wavelength equal to or longer than 193 nm and having all of the following:
 f.1.b.1. The capability to produce a pattern with a "Minimum Resolvable Feature size" (MRF) of 45 nm or less; and
-f.1.b.2. Having any of the following:
-f.1.b.2.a. A maximum 'dedicated chuck overlay' value of less than or equal to 1.50 nm; or
-f.1.b.2.b. A maximum 'dedicated chuck overlay' value greater than 1.50 nm but less than or equal to 2.4 nm;
-Technical Notes: For the purposes of 3B001.f.1.b: 1. The 'Minimum Resolvable Feature size' (MRF), i.e.,resolution, is calculated by the following formula:
-|
-| (an exposure light source wavelength in nm) × (K factor)
-MRF | --------------------
-| maximum numerical aperture
-where, for the purposes of 3.B.1.f.1.b, the K factor = 0.25 'MRF' is also known as resolution.
-2. 'Dedicated chuck overlay' is the alignment accuracy of a new pattern to an existing pattern printed on a wafer by the same lithographic system. 'Dedicated chuck overlay' is also known as single machine overlay.
+f.1.b.2. A maximum 'dedicated chuck overlay' value of less than or equal to 1.50 nm;
+Technical Notes: For the purposes of 3B001.f.1.b: 1. The 'Minimum Resolvable Feature size' (MRF) (i.e., resolution) is calculated by the following formula:
+ER16JA25.003
+where, for the purposes of 3B001.f.1.b, the K factor = 0.25 'MRF' is also known as resolution. 2. 'Dedicated chuck overlay' is the alignment accuracy of a new pattern to an existing pattern printed on a wafer by the same lithographic system. 'Dedicated chuck overlay' is also known as single machine overlay.
 f.2. Imprint lithography equipment capable of production features of 45 nm or less;
-Note: 3B001.f.2 includes: —Micro contact printing tools —Hot embossing tools —Nano-imprint lithography tools —Step and flash imprint lithography (S-FIL) tools
+Note: 3B001.f.2 includes: — Micro contact printing tools — Hot embossing tools — Nano-imprint lithography tools — Step and flash imprint lithography (S-FIL) tools
 f.3. Equipment "specially designed" for mask making having all of the following:
 f.3.a. A deflected focused electron beam, ion beam or "laser" beam; and
 f.3.b. Having any of the following:
@@ -6721,9 +6981,13 @@ f.4.a. A deflected focused electron beam; and
 f.4.b. Having any of the following:
 f.4.b.1. A minimum beam size equal to or smaller than 15 nm; or
 f.4.b.2. An overlay error less than 27 nm (mean + 3 sigma);
+f.5. Imprint lithography equipment having an overlay accuracy less (better) than 1.5;
+f.6. Commodities not specified by 3B001.f.1, designed or modified to perform all of the following in or with deep-ultraviolet immersion photolithography equipment:
+f.6.a. Decrease the minimum resolvable feature specified by 3B001.f.1.b; and
+f.6.b. Decrease the maximum 'dedicated chuck overlay' of a deep-ultraviolet immersion lithography tool below or equal to 1.5 nm.
 g. Masks and reticles, designed for integrated circuits controlled by 3A001;
 h. Multi-layer masks with a phase shift layer not specified by 3B001.g and designed to be used by lithography equipment having a light source wavelength less than 245 nm;
-Note: 3B001.h. does not control multi-layer masks with a phase shift layer designed for the fabrication of memory devices not controlled by 3A001.
+Note: 3B001.h does not control multi-layer masks with a phase shift layer designed for the fabrication of memory devices not controlled by 3A001.
 N.B.: For masks and reticles, "specially designed" for optical sensors, see 6B002.
 i. Imprint lithography templates designed for integrated circuits by 3A001;
 j. Mask "substrate blanks" with multilayer reflector structure consisting of molybdenum and silicon, and having all of the following:
@@ -6733,31 +6997,33 @@ k. Equipment designed for ion beam deposition or physical vapor deposition of a 
 l. "EUV" pellicles;
 m. Equipment for manufacturing "EUV" pellicles;
 n. Equipment designed for coating, depositing, baking, or developing photoresist formulated for "EUV" lithography;
-o. Annealing equipment, operating in a vacuum (equal to or less than 0.01 Pa) environment, performing any of the following:
-o.1. Reflow of copper (Cu) to minimize or eliminate voids or seams in copper (Cu) metal interconnects; or
-o.2. Reflow of cobalt (Co) tungsten (W) fill metal to minimize or eliminate voids or seams;
+o. [Reserved]
 p. Removal and cleaning equipment as follows:
-p.1. Equipment designed for removing polymeric residue and copper oxide (CuO) film and enabling deposition of copper (Cu) metal in a vacuum (equal to or less than 0.01 Pa) environment;
+p.1. [Reserved]
 p.2. Single wafer wet cleaning equipment with surface modification drying; or
-p.3. Equipment designed for dry surface oxide removal preclean or dry surface decontamination.
-Note to 3B001.p.1 and p.3: These controls do not apply to deposition equipment.
+p.3. [Reserved]
+p.4. Equipment designed for single wafer cleaning using supercritical CO 2 or sublimation drying;
+q. "EUV" masks and "EUV" reticles, designed for integrated circuits, not specified by 3B001.g, and having a mask "substrate blank" specified by 3B001.j; or
+Technical Notes: For the purposes of 3B001.q, masks or reticles with a mounted pellicle are considered masks and reticles.
+r. Equipment designed for EUV 'pattern shaping.'
+Technical Note: For the purposes of 3B001.r, 'pattern shaping' is a deposition or removal process used to improve overall patterning by reshaping or trimming patterns produced using EUV lithography with non-vertical directed particles including ions, neutral particles, clusters, radicals, or light.
 3B002 Test or inspection equipment "specially designed" for testing or inspecting finished or unfinished semiconductor devices as follows (see List of Items Controlled) and "specially designed" "components" and "accessories" therefor.
 License Requirements
 Reason for Control: NS, RS, AT
-Control(s) | Country chart (see supp. No. 1 to part 738)
-NS applies to 3B002.a | NS Column 2.
-NS applies to 3B002.b and c | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.4(a)(4) of the EAR.
-RS applies to 3B002.b and c | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(6) of the EAR.
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to 3B002.a and b | NS Column 2.
+NS applies to 3B002.c | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.4(a)(4) of the EAR.
+RS applies to 3B002.c | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(6) of the EAR.
 AT applies to entire entry | AT Column 1.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
-LVS: $500, except semiconductor manufacturing equipment specified in 3B002.b and c.
+LVS: $500, except semiconductor manufacturing equipment specified in 3B002.c.
 GBS: Yes
 List of Items Controlled
-Related Controls: See also 3A999.a and 3B992
+Related Controls: See also 3A999.a, 3B992, and 3B993.
 Related Definitions: N/A
 Items:
-a. For testing S-parameters of items specified by 3A001.b.3;
-b. For testing microwave integrated circuits controlled by 3A001.b.2;
+a. For testing S-parameters of items specified by 3A001.b.3.
+b. For testing microwave integrated circuits controlled by 3A001.b.2.
 c. Inspection equipment designed for "EUV" mask blanks or "EUV" patterned masks.
 3B611 Test, inspection, and production commodities for military electronics, as follows (see List of Items Controlled).
 License Requirements
@@ -6778,25 +7044,70 @@ Related Definitions: N/A
 Items: a. Test, inspection, and production end items and equipment "specially designed" for the "development," "production," repair, overhaul or refurbishing of items controlled in ECCN 3A611 (except 3A611.y) or USML Category XI that are not enumerated in USML Category XI or controlled by another "600 series" ECCN.
 b. through w. [Reserved]
 x. "Parts," "components," "accessories" and "attachments" that are "specially designed" for a commodity listed in this entry and that are not enumerated on the USML or controlled by another "600 series" ECCN.
-3B991 Equipment, not controlled by 3B001 or 3B090, for the manufacture of electronic "parts," "components" and materials, and "specially designed" "parts," "components" and "accessories" therefor.
+3B903 Scanning Electron Microscope (SEM) equipment designed for imaging semiconductor devices or integrated circuits, having all of the following (See List of Items Controlled).
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to the entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+LVS: N/A
+GBS: N/A
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No. 1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: See ECCNs 3D901 for related "development" or "production" "software", ECCN 3E901 for related "development" and "production" "technology".
+Related Definition: N/A
+Items:
+a. Stage placement accuracy less (better) than 30 nm;
+b. Stage positioning measurement performed using laser interferometry;
+c. Position calibration within a field-of-view (FOV) based on laser interferometer length-scale measurement;
+d. Collection and storage of images having more than 2 x 10 8 pixels;
+e. FOV overlap of less than 5 percent in vertical and horizontal directions;
+f. Stitching overlap of FOV less than 50 nm; and
+g. Accelerating voltage more than 21 kV.
+Note 1: 3B903 includes SEM equipment designed for chip design recovery.
+Note 2: 3B903 does not apply to SEM equipment designed to accept a Semiconductor Equipment and Materials International (SEMI) standard wafer carrier, such as a 200 mm or larger Front Opening Unified Pod (FOUP).
+3B904 Cryogenic wafer probing "equipment", having all of the following (see List of Items Controlled).
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to the entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+LVS: N/A
+GBS: N/A
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No. 1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: See ECCN 3E901 for related technology controls for the "development" or "production" of this ECCN.
+Related Definitions: N/A
+Items:
+a. Designed to test devices at temperatures less than or equal to 4.5 K (−268.65 °C); and
+b. Designed to accommodate wafer diameters greater than or equal to 100 mm.
+3B991 Equipment not controlled by 3B001, 3B993, or 3B994, for the manufacture of electronic "parts," "components," and materials, and "specially designed" "parts," "components," and "accessories" therefor.
 License Requirements
 Reason for Control: AT
-Control(s) | Country chart (See Supp. No. 1 to part 738)
-AT applies to entire entry | AT Column 1
-List Based License Exceptions (See Part 740 for a description of all license exceptions)
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
 Related Controls: N/A
-Related Definitions: 'Sputtering' is an overlay coating process wherein positively charged ions are accelerated by an electric field towards the surface of a target (coating material). The kinetic energy of the impacting ions is sufficient to cause target surface atoms to be released and deposited on the substrate. (Note: Triode, magnetron or radio frequency sputtering to increase adhesion of coating and rate of deposition are ordinary modifications of the process.)
+Related Definitions: 'Sputtering' is an overlay coating process wherein positively charged ions are accelerated by an electric field towards the surface of a target (coating material). The kinetic energy of the impacting ions is sufficient to cause target surface atoms to be released and deposited on the substrate. Note: Triode, magnetron or radio frequency sputtering to increase adhesion of coating and rate of deposition are ordinary modifications of the process.
 Items:
-a. Equipment "specially designed" for the manufacture of electron tubes, optical elements and "specially designed" "parts" and "components" therefor controlled by 3A001 or 3A991;
-b. Equipment "specially designed" for the manufacture of semiconductor devices, integrated circuits and "electronic assemblies", as follows, and systems incorporating or having the characteristics of such equipment:
+a. Equipment "specially designed" for the manufacture of electron tubes, optical elements, and "specially designed" "parts" and "components" therefor controlled by 3A001 or 3A991;
+b. Equipment "specially designed" for the manufacture of semiconductor devices, integrated circuits and "electronic assemblies," as follows, and systems incorporating or having the characteristics of such equipment:
 Note: 3B991.b also controls equipment used or modified for use in the manufacture of other devices, such as imaging devices, electro-optical devices, acoustic-wave devices.
-b.1. Equipment for the processing of materials for the manufacture of devices, "parts" and "components" as specified in the heading of 3B991.b, as follows:
+b.1. Equipment for the processing of materials for the manufacture of devices, "parts," and "components" as specified in the heading of 3B991.b, as follows:
 Note: 3B991 does not control quartz furnace tubes, furnace liners, paddles, boats (except "specially designed" caged boats), bubblers, cassettes or crucibles "specially designed" for the processing equipment controlled by 3B991.b.1.
 b.1.a. Equipment for producing polycrystalline silicon and materials controlled by 3C001;
-b.1.b. Equipment "specially designed" for purifying or processing III/V and II/VI semiconductor materials controlled by 3C001, 3C002, 3C003, 3C004, or 3C005 except crystal pullers, for which see 3B991.b.1.c below;
+b.1.b. Equipment "specially designed" for purifying or processing III/V and II/VI semiconductor materials controlled by ECCNs 3C001, 3C002, 3C003, 3C004, or 3C005 except crystal pullers, for which see 3B991.b.1.c below;
 b.1.c. Crystal pullers and furnaces, as follows:
 Note: 3B991.b.1.c does not control diffusion and oxidation furnaces.
 b.1.c.1. Annealing or recrystallizing equipment other than constant temperature furnaces employing high rates of energy transfer capable of processing wafers at a rate exceeding 0.005 m 2 per minute;
@@ -6806,16 +7117,16 @@ b.1.c.2.b. Capable of operation at pressures above 2.5 × 10 5 Pa; or
 b.1.c.2.c. Capable of pulling crystals of a diameter exceeding 100 mm;
 b.1.d. "Stored program controlled" equipment for epitaxial growth having any of the following characteristics:
 b.1.d.1. Capable of producing silicon layer with a thickness uniform to less than ±2.5% across a distance of 200 mm or more;
-b.1.d.2. Capable of producing a layer of any material other than silicon with a thickness uniformity across the wafer of equal to or better than ± 3.5%; or
+b.1.d.2. Capable of producing a layer of any material other than silicon with a thickness uniformity across the wafer of equal to or better than ±3.5%; or
 b.1.d.3. Rotation of individual wafers during processing;
 b.1.e. Molecular beam epitaxial growth equipment;
 b.1.f. Magnetically enhanced 'sputtering' equipment with "specially designed" integral load locks capable of transferring wafers in an isolated vacuum environment;
-b.1.g. Equipment "specially designed" for ion implantation, ion-enhanced or photo-enhanced diffusion, having any of the following characteristics:
+b.1.g. Equipment "specially designed" for ion implantation, ion-enhanced, or photo-enhanced diffusion, having any of the following characteristics:
 b.1.g.1. Patterning capability;
 b.1.g.2. Beam energy (accelerating voltage) exceeding 200 keV;
 b.1.g.3 Optimized to operate at a beam energy (accelerating voltage) of less than 10 keV; or
 b.1.g.4. Capable of high energy oxygen implant into a heated "substrate";
-b.1.h. "Stored program controlled" equipment for the selective removal (etching) by means of anisotropic dry methods (e.g., plasma), as follows:
+b.1.h. "Stored program controlled" equipment for the selective removal (i.e., etching) by means of anisotropic dry methods (e.g., plasma), as follows:
 b.1.h.1. Batch types having either of the following:
 b.1.h.1.a. End-point detection, other than optical emission spectroscopy types; or
 b.1.h.1.b. Reactor operational (etching) pressure of 26.66 Pa or less;
@@ -6823,8 +7134,9 @@ b.1.h.2. Single wafer types having any of the following:
 b.1.h.2.a. End-point detection, other than optical emission spectroscopy types;
 b.1.h.2.b. Reactor operational (etching) pressure of 26.66 Pa or less; or
 b.1.h.2.c. Cassette-to-cassette and load locks wafer handling;
-Notes: 1. "Batch types" refers to machines not "specially designed" for production processing of single wafers. Such machines can process two or more wafers simultaneously with common process parameters, e.g., RF power, temperature, etch gas species, flow rates. 2. "Single wafer types" refers to machines "specially designed" for production processing of single wafers. These machines may use automatic wafer handling techniques to load a single wafer into the equipment for processing. The definition includes equipment that can load and process several wafers but where the etching parameters, e.g., RF power or end point, can be independently determined for each individual wafer.
-b.1.i. "Chemical vapor deposition" (CVD) equipment, e.g., plasma-enhanced CVD (PECVD) or photo-enhanced CVD, for semiconductor device manufacturing, having either of the following capabilities, for deposition of oxides, nitrides, metals or polysilicon:
+Note 1: "Batch types" refers to machines not "specially designed" for production processing of single wafers. Such machines can process two or more wafers simultaneously with common process parameters (e.g., RF power, temperature, etch gas species, flow rates).
+Note 2: "Single wafer types" refers to machines "specially designed" for production processing of single wafers. These machines may use automatic wafer handling techniques to load a single wafer into the equipment for processing. The definition includes equipment that can load and process several wafers but where the etching parameters (e.g., RF power or end point) can be independently determined for each individual wafer.
+b.1.i. "Chemical vapor deposition" (CVD) equipment (e.g., plasma-enhanced CVD (PECVD) or photo-enhanced CVD) for semiconductor device manufacturing, having either of the following capabilities, for deposition of oxides, nitrides, metals, or polysilicon:
 b.1.i.1. "Chemical vapor deposition" equipment operating below 10 5 Pa; or
 b.1.i.2. PECVD equipment operating either below 60 Pa (450 millitorr) or having automatic cassette-to-cassette and load lock wafer handling;
 Note: 3B991.b.1.i does not control low pressure "chemical vapor deposition" (LPCVD) systems or reactive "sputtering" equipment.
@@ -6841,7 +7153,7 @@ b.1.k.2. "Specially designed" equipment for achieving a surface roughness of the
 Note: 3B991.b.1.k does not control single-side lapping and polishing equipment for wafer surface finishing.
 b.1.l. Interconnection equipment which includes common single or multiple vacuum chambers "specially designed" to permit the integration of any equipment controlled by 3B991 into a complete system;
 b.1.m. "Stored program controlled" equipment using "lasers" for the repair or trimming of "monolithic integrated circuits" with either of the following characteristics:
-b.1.m.1. Positioning accuracy less than ± 1 micrometer; or
+b.1.m.1. Positioning accuracy less than ±1 micrometer; or
 b.1.m.2. Spot size (kerf width) less than 3 micrometer.
 b.2. Masks, mask "substrates," mask-making equipment and image transfer equipment for the manufacture of devices, "parts" and "components" as specified in the heading of 3B991, as follows:
 Note: The term "masks" refers to those used in electron beam lithography, X-ray lithography, and ultraviolet lithography, as well as the usual ultraviolet and visible photo-lithography.
@@ -6858,16 +7170,16 @@ b.2.d. Equipment or machines, as follows, for mask or reticle fabrication:
 b.2.d.1. Photo-optical step and repeat cameras capable of producing arrays larger than 100 mm x 100 mm, or capable of producing a single exposure larger than 6 mm x 6 mm in the image (i.e., focal) plane, or capable of producing line widths of less than 2.5 micrometer in the photoresist on the "substrate";
 b.2.d.2. Mask or reticle fabrication equipment using ion or "laser" beam lithography capable of producing line widths of less than 2.5 micrometer; or
 b.2.d.3. Equipment or holders for altering masks or reticles or adding pellicles to remove defects;
-Note: 3B991.b.2.d.1 and b.2.d.2 do not control mask fabrication equipment using photo-optical methods which was either commercially available before the 1st January, 1980, or has a performance no better than such equipment.
+Note: 3B991.b.2.d.1 and b.2.d.2 do not control mask fabrication equipment using photo-optical methods which was either commercially available before the 1st of January, 1980, or has a performance no better than such equipment.
 b.2.e. "Stored program controlled" equipment for the inspection of masks, reticles or pellicles with:
 b.2.e.1. A resolution of 0.25 micrometer or finer; and
 b.2.e.2. A precision of 0.75 micrometer or finer over a distance in one or two coordinates of 63.5 mm or more;
 Note: 3B991.b.2.e does not control general purpose scanning electron microscopes except when "specially designed" and instrumented for automatic pattern inspection.
-b.2.f. Align and expose equipment for wafer production using photo-optical or X-ray methods, e.g., lithography equipment, including both projection image transfer equipment and step and repeat (direct step on wafer) or step and scan (scanner) equipment, capable of performing any of the following functions:
+b.2.f. Align and expose equipment for wafer production using photo-optical or X-ray methods (e.g., lithography equipment) including both projection image transfer equipment and step and repeat (i.e., direct step on wafer) or step and scan (scanner) equipment, capable of performing any of the following functions:
 Note: 3B991.b.2.f does not control photo-optical contact and proximity mask align and expose equipment or contact image transfer equipment.
 b.2.f.1. Production of a pattern size of less than 2.5 micrometer;
-b.2.f.2. Alignment with a precision finer than ± 0.25 micrometer (3 sigma);
-b.2.f.3. Machine-to-machine overlay no better than ± 0.3 micrometer; or
+b.2.f.2. Alignment with a precision finer than ±0.25 micrometer (3 sigma);
+b.2.f.3. Machine-to-machine overlay no better than ±0.3 micrometer; or
 b.2.f.4. A light source wavelength shorter than 400 nm;
 b.2.g. Electron beam, ion beam or X-ray equipment for projection image transfer capable of producing patterns less than 2.5 micrometer;
 Note: For focused, deflected-beam systems(direct write systems), see 3B991.b.1.j or b.10.
@@ -6875,30 +7187,31 @@ b.2.h. Equipment using "lasers" for direct write on wafers capable of producing 
 b.3. Equipment for the assembly of integrated circuits, as follows:
 b.3.a. "Stored program controlled" die bonders having all of the following characteristics:
 b.3.a.1. "Specially designed" for "hybrid integrated circuits";
-b.3.a.2. X-Y stage positioning travel exceeding 37.5 x 37.5 mm; and
-b.3.a.3. Placement accuracy in the X-Y plane of finer than ± 10 micrometer;
+b.3.a.2. X-Y stage positioning travel exceeding 37.5 × 37.5 mm; and
+b.3.a.3. Placement accuracy in the X-Y plane of finer than ±10 micrometer;
 b.3.b. "Stored program controlled" equipment for producing multiple bonds in a single operation (e.g., beam lead bonders, chip carrier bonders, tape bonders);
 b.3.c. Semi-automatic or automatic hot cap sealers, in which the cap is heated locally to a higher temperature than the body of the package, "specially designed" for ceramic microcircuit packages controlled by 3A001 and that have a throughput equal to or more than one package per minute.
 Note: 3B991.b.3 does not control general purpose resistance type spot welders.
 b.4. Filters for clean rooms capable of providing an air environment of 10 or less particles of 0.3 micrometer or smaller per 0.02832 m 3 and filter materials therefor.
-3B992 Equipment not controlled by 3B002 for the inspection or testing of electronic "components" and materials, (see List of Items Controlled) and "specially designed" "parts," "components" and "accessories" therefor.
+3B992 Equipment not controlled by 3B002, 3B993, or 3B994, for the inspection or testing of electronic "components" and materials, (see List of Items Controlled) and "specially designed" "parts," "components" and "accessories" therefor.
 License Requirements
 Reason for Control: AT
-Control(s) | Country Chart (See Supp. No. 1 to part 738)
+Control(s) | Country chart (see Supp. No. 1 to part 738)
 AT applies to entire entry | AT Column 1.
-List Based License Exceptions (See Part 740 for a description of all license exceptions)
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
 Related Controls: See also 3A992.a.
 Related Definitions: N/A
-Items: a. Equipment "specially designed" for the inspection or testing of electron tubes, optical elements and "specially designed" "parts" and "components" therefor controlled by 3A001 or 3A991;
+Items:
+a. Equipment "specially designed" for the inspection or testing of electron tubes, optical elements and "specially designed" "parts" and "components" therefor controlled by 3A001 or 3A991;
 b. Equipment "specially designed" for the inspection or testing of semiconductor devices, integrated circuits and "electronic assemblies", as follows, and systems incorporating or having the characteristics of such equipment:
 Note: 3B992.b also controls equipment used or modified for use in the inspection or testing of other devices, such as imaging devices, electro-optical devices, acoustic-wave devices.
 b.1. "Stored program controlled" inspection equipment for the automatic detection of defects, errors or contaminants of 0.6 micrometer or less in or on processed wafers, "substrates", other than printed circuit boards or chips, using optical image acquisition techniques for pattern comparison;
 Note: 3B992.b.1 does not control general purpose scanning electron microscopes, except when "specially designed" and instrumented for automatic pattern inspection.
 b.2. "specially designed" "stored program controlled" measuring and analysis equipment, as follows:
-b.2.a. "specially designed" for the measurement of oxygen or carbon content in semiconductor materials;
+b.2.a. "specially designed" for the measurement of oxygen (O) or carbon (C) content in semiconductor materials;
 b.2.b. Equipment for line width measurement with a resolution of 1 micrometer or finer;
 b.2.c. "specially designed" flatness measurement instruments capable of measuring deviations from flatness of 10 micrometer or less with a resolution of 1 micrometer or finer.
 b.3. "Stored program controlled" wafer probing equipment having any of the following characteristics:
@@ -6911,7 +7224,7 @@ Technical Note: Discrete semiconductor devices include photocells and solar cell
 b.4.b. "Stored program controlled" equipment "specially designed" for testing integrated circuits and "electronic assemblies" thereof, capable of functional testing:
 b.4.b.1. At a 'pattern rate' exceeding 20 MHz; or
 b.4.b.2. At a 'pattern rate' exceeding 10 MHz but not exceeding 20 MHz and capable of testing packages of more than 68 terminals.
-Notes: 3B992.b.4.b does not control test equipment "specially designed" for testing: 1. memories; 2. "Assemblies" or a class of "electronic assemblies" for home and entertainment applications; and 3. Electronic "parts," "components," "assemblies" and integrated circuits not controlled by 3A001 or 3A991 provided such test equipment does not incorporate computing facilities with "user accessible programmability".
+Note: 3B992.b.4.b does not control test equipment "specially designed" for testing: 1. memories; 2. "Assemblies" or a class of "electronic assemblies" for home and entertainment applications; and 3. Electronic "parts," "components," "assemblies" and integrated circuits not controlled by 3A001 or 3A991 provided such test equipment does not incorporate computing facilities with "user accessible programmability."
 Technical Note: For purposes of 3B992.b.4.b, 'pattern rate' is defined as the maximum frequency of digital operation of a tester. It is therefore equivalent to the highest data rate that a tester can provide in non-multiplexed mode. It is also referred to as test speed, maximum digital frequency or maximum digital speed.
 b.4.c. Equipment "specially designed" for determining the performance of focal-plane arrays at wavelengths of more than 1,200 nm, using "stored program controlled" measurements or computer aided evaluation and having any of the following characteristics:
 b.4.c.1. Using scanning light spot diameters of less than 0.12 mm;
@@ -6928,28 +7241,145 @@ b.6.b. Digital-to-analog conversion accuracy exceeding 12 bit;
 b.7. Particle measuring systems employing "lasers" designed for measuring particle size and concentration in air having both of the following characteristics:
 b.7.a. Capable of measuring particle sizes of 0.2 micrometer or less at a flow rate of 0.02832 m 3 per minute or more; and
 b.7.b. Capable of characterizing Class 10 clean air or better.
+3B993 Specified semiconductor manufacturing equipment as follows (see list of items controls), and "specially designed" "components" and "accessories" therefor.
+License Requirements
+Reason for Control: RS, AT
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+RS applies to entire entry | See § 742.6(a)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+LVS: N/A
+GBS: N/A
+List of Items Controlled
+Related Controls: (1) See ECCNs 3D993 and 3E993 for associated "software" and "technology" controls. (2) For additional controls that apply to this ECCN, see also § 744.11(a)(2)(v) and § 744.23(a)(4) of the EAR.
+Related Definitions: N/A
+Items:
+a. [Reserved]
+b. Semiconductor wafer fabrication equipment for 300 mm wafers designed for ion implantation and having any of the following:
+b.1. Equipment designed for plasma doping, having all of the following:
+b.1.a. One or more Radio Frequency (RF) power source(s);
+b.1.b. One or more pulsed DC Power Source; and
+b.1.c. One or more n-type or p-type dopant implants.
+b.2 [Reserved]
+c. Etch equipment as follows:
+c.1. Equipment designed or modified for anisotropic etching of dielectric materials and enabling the fabrication of high aspect ratio features with aspect ratio greater than 30:1 and a lateral dimension on the top surface of less than 100 nm, and having all of the following:
+c.1.a. Radio Frequency (RF) power source(s) with at least one pulsed RF output; and
+c.1.b. One or more fast gas switching valve(s) with switching time less than 300 milliseconds.
+Note: 3B993.c.1 includes etching by 'radicals', ions, sequential reactions, or non-sequential reaction.
+Technical Note: For the purposes of the Note to 3B993.c.1, 'radical' is defined as an atom, molecule, or ion that has an unpaired electron in an open electron shell configuration.
+c.2. Equipment, not specified by 3B993.c.1, designed for anisotropic etching of dielectric material and enabling the fabrication of high aspect ratio features having all of the following:
+c.2.a. An aspect ratio greater than 30:1; and
+c.2.b. A lateral dimension on the top surface of less than 40 nm.
+Note: 3B993.c.2 does not apply to equipment designed for wafer diameters less than 300 mm.
+c.3. Equipment, not specified by 3B001.c.1.c, designed or modified for anisotropic dry etching, having all of the following:
+c.3.a. Radio Frequency (RF) power source(s) with at least one pulsed RF output;
+c.3.b. One or more fast gas switching valve(s) with switching time less than 500 milliseconds; and
+c.3.c. Electrostatic chuck with greater than or equal to 10 individually controllable variable temperature elements.
+d. Semiconductor manufacturing deposition equipment as follows:
+d.1. Equipment designed, not specified by 3B001.d.14, for deposition assisted by remotely generated 'radicals', enabling the fabrication of a silicon (Si) and carbon (C) containing film, and having all of the following properties of the deposited film:
+d.1.a. A dielectric constant (k) of less than 5.3;
+d.1.b. In features with an aspect ratio greater than 5:1 with lateral openings of less than 70 nm; and
+d.1.c. A feature-to-feature pitch of less than 100 nm.
+d.2. Equipment designed for deposition of a film, containing silicon and carbon, and having a dielectric constant (k) of less than 5.3, into lateral openings having widths of less than 70 nm and aspect ratios greater than 5:1 (depth: width) and a feature-to-feature pitch of less than 100 nm, while maintaining the wafer substrate at a temperature greater than 400 °C and less than 650 °C, and having all of the following:
+d.2.a. Boat designed to hold multiple vertically stacked wafers;
+d.2.b. Two or more vertical injectors; and
+d.2.c. A silicon source and propene are introduced to a different injector than a nitrogen source or an oxygen source.
+d.3. Equipment designed for chemical vapor deposition of a carbon material layer with a density more than 1.6 g/cm 3.
+d.4. Deposition equipment, not specified by 3B001.d.19, having direct-liquid injection of more than two metal precursors, designed or modified to deposit a conformal dielectric film with a dielectric constant (K) greater than 35 in features with aspect ratio greater than 50:1 in a single deposition chamber.
+e. [Reserved]
+f. Lithography commodities as follows:
+f.1. Align and expose step and repeat (direct step on wafer) or step and scan (scanner) lithography equipment for wafer processing using photo-optical or X-ray methods and having all of the following:
+f.1.a. [Reserved]
+f.1.b. A light source wavelength equal to or longer than 193 nm and having all of the following:
+f.1.b.1 The capability to produce a pattern with a 'Minimum Resolvable Feature size' ('MRF') of 45 nm or less; and
+f.1.b.2. A maximum 'dedicated chuck overlay' value greater than 1.50 nm and less than or equal to 2.40 nm.
+Technical Notes for paragraph 3B993.f.1: 1. The 'Minimum Resolvable Feature size' ('MRF') is calculated by the following formula:
+ER16JA25.004
+where, for the purposes of 3B993.f.1, the K factor = 0.25. 'MRF' is also known as resolution. 2. 'Dedicated chuck overlay' is the alignment accuracy of a new pattern to an existing pattern printed on a wafer by the same lithographic system. 'Dedicated chuck overlay' is also known as single machine overlay.
+f.2. Imprint lithography equipment having an overlay accuracy above 1.5 nm and less (better) than or equal to 4.0 nm.
+f.3. Commodities designed or modified to increase the number of wafers processed per hour, averaged over any time interval, by greater than 1%, of equipment specified in 3B001.f.1 or 3B993.f.1.
+f.4. Commodities not specified by 3B993.f.1 designed or modified to perform all of the following in or with deep-ultraviolet immersion photolithography equipment:
+f.4.a. Decrease the minimum resolvable feature specified by 3B993.f.1.b.1; and
+f.4.b. Decrease the maximum 'dedicated chuck overlay' of deep-ultraviolet immersion lithography equipment above 1.5 nm and below or equal to 2.4 nm.
+g. through n. [Reserved]
+o. Annealing equipment designed for 300 mm wafers as follows:
+o.1 Annealing equipment, operating in a vacuum (equal to or less than 0.01 Pa) environment, performing any of the following:
+o.1.a Reflow of copper (Cu) to minimize or eliminate voids or seams in copper (Cu) metal interconnects; or
+o.1.b Reflow of cobalt (Co) or tungsten (W) fill metal to minimize or eliminate voids or seams;
+o.2. Equipment designed to heat a semiconductor wafer to a temperature greater than 1000 °C (1832 °F) for a 'duration' less than 2 ms.
+Technical Note: For the purposes of 3B993.o.2, 'duration' is the period above stated temperature.
+p. Removal and cleaning equipment as follows:
+p.1. Equipment designed for removing polymeric residue and copper oxide (CuO) film and enabling deposition of copper (Cu) metal in a vacuum (equal to or less than 0.01 Pa) environment.
+p.2. [Reserved]
+p.3. Equipment designed for dry surface oxide removal preclean or dry surface decontamination.
+Note to 3B993.p.1 and p.3: These controls do not apply to deposition equipment.
+q. Inspection and metrology equipment as follows:
+q.1. Patterned wafer defect metrology or patterned wafer defect inspection equipment, designed or modified to accept wafers greater than or equal to 300 mm in diameter, and having all of the following:
+q.1.a. Designed or modified to detect defects having a size equal to or less than 21 nm; and
+q.1.b. Having any of the following:
+q.1.b.1. A light source with an optical wavelength less than 400 nm;
+q.1.b.2. An electron-beam source with a resolution less (better) than or equal to 1.65 nm;
+q.1.b.3. A Cold Field Emission (CFE) electron-beam source; or
+q.1.b.4. Two or more electron-beam sources.
+q.2. Metrology equipment as follows:
+q.2.a. Stand-alone equipment designed to measure wafer shape parameters prior to lithography exposure and utilize measurements to improve overlay or focus of a deep ultraviolet (DUV) lithography system having an immersion lens having a numerical aperture more than 1.3 or an Extreme Ultraviolet lithography (EUV) system; or
+q.2.b. Metrology equipment designed to measure focus or overlay after resist development or after etch on product wafers using image-based overlay or diffraction-based measurements techniques, with an overlay measurement accuracy less (better) than or equal to 0.5 nm having any of the following:
+q.2.b.1 designed for integration to a 'track'; or
+q.2.b.2 'fast wavelength switching functionality';
+Technical Notes: 1. For the purposes of 3B993.q.2, a 'track' is equipment designed for coating and developing photoresist formulated for lithography. 2. For the purposes of 3B993.q.2, 'fast wavelength switching functionality' is defined as having the ability the change the measurement wavelength and acquire a measurement in less than 25 ms.
+3B994 Semiconductor manufacturing equipment that enables "advanced-node integrated circuit" production, as follows (see list of items controls), and "specially designed" "components" and "accessories" therefor.
+License Requirements
+Reason for Control: RS, AT
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+RS applies to entire entry | See § 742.6(a)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+LVS: N/A
+GBS: N/A
+Special Conditions for STA
+STA: License Exception STA may not be used to ship or transmit commodities specified in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See supplement no.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: (1) See ECCNs 3D994 and 3E994 for associated software and technology controls. (2) For additional controls that apply to this ECCN, see also § 744.11(a)(2)(v) and § 744.23(a)(4) of the EAR.
+Related Definitions: N/A
+Items:
+Note for 3B994: Equipment specified in this ECCN 3B994 are limited to equipment designed for volume production, such as equipment designed to accept a SEMI standard wafer carrier such as a 200 mm or larger Front Opening Unified Pod or be connected to a multi-chamber wafer handling system.
+a. [Reserved]
+b. Semiconductor wafer fabrication equipment designed for ion implantation of 300mm wafers as follows:
+b.1. [Reserved]
+b.2. Ion implantation equipment as follows:
+b.2.a. Having all of the following:
+b.2.a.1. Beam current greater than 1uA and less than 5mA; and
+b.2.a.2. Beam energy greater than 5 keV and less than 300 keV; or
+b.2.b. Having all of the following:
+b.2.b.1. Beam current greater than 5 mA; and
+b.2.b.2. Beam energy less than 5 keV; or
+b.2.c. Having angular accuracy equal to or less (better) than 0.1 degrees.
+c. through p. [Reserved]
+q. Inspection and metrology equipment as follows:
+q.1. and q.2. [Reserved]
+q.3. Optical thin film metrology equipment or optical critical dimension metrology equipment designed for 300mm wafers and containing software designed for measuring non-planar transistors.
 C. "Materials"
 3C001 Hetero-epitaxial materials consisting of a "substrate" having stacked epitaxially grown multiple layers of any of the following (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, AT
-Control(s) | Country chart (See Supp. No. 1 to part 738)
+Control(s) | Country chart (see Supp. No. 1 to part 738)
 NS applies to entire entry | NS Column 2.
-AT applies to entire entry | AT Column 1.
 AT applies to entire entry | AT Column 1.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: $3,000
 GBS: N/A
 List of Items Controlled
-Related Controls: This entry does not control equipment or material whose functionality has been unalterably disabled.
+Related Controls: (1) This entry does not control equipment or material whose functionality has been unalterably disabled. (2) See also ECCNs 3C907 (Epitaxial materials), 3C908 (Fluorides, hydrides, chlorides, of silicon or germanium), and 3C909 (Silicon, silicon oxides, germanium or germanium oxides).
 Related Definitions: N/A
 Items:
 a. Silicon (Si);
 b. Germanium (Ge);
-c. Silicon Carbide (SiC);
-d. "III/V compounds" of gallium or indium;
-Note: 3C001.d does not apply to a "substrate" having one or more P-type epitaxial layers of Gallium Nitride (GaN), Indium Gallium Nitride (InGaN), Aluminum Gallium Nitride (AlGaN), Indium Aluminum Nitride (InAlN), Indium Aluminum Gallium Nitride (InAlGaN), Gallium Phosphide (GaP), Gallium Arsenide (GaAs), Aluminum Gallium Arsenide (AlGaAs), Indium Phosphide (InP), Indium Gallium Phosphide (InGaP), Aluminum Indium Phosphide (AlInP), or Indium Gallium Phosphide (InGaAlP), independent of the sequence of the elements, except if the P-type epitaxial layer is between N-type layers.
+c. Silicon Carbide (SiC); or
+d. "III/V compounds" of gallium or indium.
+Note: 3C001.d does not apply to a "substrate" having one or more P-type epitaxial layers of GaN, InGaN, AlGaN, InAlN, InAlGaN, GaP, GaAs, AlGaAs, InP, InGaP, AlInP or InGaAlP, independent of the sequence of the elements, except if the P-type epitaxial layer is between N-type layers.
 e. Gallium Oxide (Ga 2 O 3); or
 f. Diamond.
+N.B.: For materials having layers of isotopically enriched Silicon or Germanium isotopes, see 3C907.
 3C002 Resist materials as follows (see List of Items Controlled) and "substrates" coated with the following resists.
 License Requirements
 Reason for Control: NS, AT
@@ -7026,6 +7456,65 @@ Related Controls: See ECCN 3D001 for related "development" or "production" "soft
 Related Definition: N/A
 Items:
 The list of items controlled is contained in the ECCN heading.
+3C907 Epitaxial materials consisting of a "substrate" having at least one epitaxially grown layer of any of the following (see List of Items Controlled).
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to the entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry. | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+LVS: N/A
+GBS: N/A
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: See ECCN 3E901 for related technology controls for the "development" or "production" of this ECCN.
+Related Definitions: N/A
+Items:
+a. Silicon having an isotopic impurity less than 0.08% of silicon isotopes other than silicon-28 or silicon-30; or
+b. Germanium having an isotopic impurity less than 0.08% of germanium isotopes other than germanium-70, germanium-72, germanium-74, or germanium-76.
+3C908 Fluorides, hydrides, chlorides, of silicon or germanium, containing any of the following (See List of Items Controlled).
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+LVS: N/A
+GBS: N/A
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No. 1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: See ECCN 3E901 for related technology controls for the "development" or "production" of this ECCN.
+Related Definitions: N/A
+Items:
+a. Silicon having an isotopic impurity less than 0.08% of silicon isotopes other than silicon-28 or silicon-30; or
+b. Germanium having an isotopic impurity less than 0.08% of germanium isotopes other than germanium-70, germanium-72, germanium-74, or germanium-76.
+3C909 Silicon, silicon oxides, germanium or germanium oxides, containing any of the following (see List of Items Controlled).
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to the entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+LVS: N/A
+GBS: N/A
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls See ECCN 3E901 for related technology controls for the "development" or "production" of this ECCN.
+Related Definitions: N/A
+Items:
+a. Silicon having an isotopic impurity less than 0.08% of silicon isotopes other than silicon-28 or silicon-30; or
+b. Germanium having an isotopic impurity less than 0.08% of germanium isotopes other than germanium-70, germanium-72, germanium-74, or germanium-76.
+Note: 3C909 includes "substrates", lumps, ingots, boules and preforms.
+N.B.: For materials having layers of isotopically enriched silicon (Si) or germanium (Ge) isotopes, see 3C907.
 3C992 Positive resists designed for semiconductor lithography specially adjusted (optimized) for use at wavelengths between 370 and 193 nm.
 License Requirements
 Reason for Control: AT
@@ -7039,41 +7528,49 @@ Related Controls: N/A
 Related Definitions: N/A
 Items: The list of items controlled is contained in the ECCN heading.
 D. "Software"
-3D001 "Software" "specially designed" for the "development" or "production" of commodities controlled by 3A001.b to 3A002.h, 3A090, or 3B (except 3B991 and 3B992).
+3D001 "Software" "specially designed" for the "development" or "production" of commodities controlled by 3A001.b to 3A002.h, 3A090, or 3B (except 3B001.a.4, c, d, f.1, f.5, k to n, p.2, p.4, r, 3B002.c, 3B903, 3B904, 3B991, 3B992, 3B993, or 3B994).
 License Requirements
 Reason for Control: NS, RS, AT
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to "software" for commodities controlled by 3A001.b to 3A001.h, 3A002, and 3B (except 3B001.a.4, c, d, f.1.b, k to p, 3B002.b and c) | NS Column 1.
-NS applies to "software" for commodities controlled by 3B001.a.4, c, d, f.1.b, k to p, 3B002.b and c | To or within destinations specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR or Macau. See § 742.4(a)(4) of the EAR.
-RS applies to "software" for commodities controlled by 3A001.z and 3A090 | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii) of the EAR.
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+NS applies to "software" for equipment controlled by 3B001.q | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to "software" for equipment controlled by 3B001.q | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+NS applies to "software" for commodities controlled by 3A001.b to 3A001.h, 3A001.z, and 3B (except as specified in the heading) | NS Column 1.
+RS applies to "software" for commodities controlled by 3A001.z.1.a, z.2.a, z.3.a, z.4.a and 3A090.a | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+RS applies to "software" for commodities controlled by 3A001.z. 1.b, z.2.b, z.3.b, z.4.b and 3A090.b | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
+RS applies to "software" for commodities controlled by 3A090.c | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(6)(i) of the EAR.
 AT applies to entire entry | AT Column 1.
 Reporting Requirements
-See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, Special Comprehensive Licenses, and Validated End-User authorizations.
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
-TSR: Yes, except for "software" "specially designed" for the "development" or "production" of Traveling Wave Tube Amplifiers described in 3A001.b.8 having operating frequencies exceeding 18 GHz; or commodities specified in 3A001.z, 3A090, 3B001.a.4, c, d, f.1.b, k to p, and 3B002.b and c.
+TSR: Yes, except for "software" "specially designed" for the "development" or "production" of Traveling Wave Tube Amplifiers described in 3A001.b.8 having operating frequencies exceeding 18 GHz; or commodities specified in 3A090.
+AIA: Yes for "software" for commodities controlled by 3A001.z.1.a, z.2.a, z.3.a, z.4.a, and 3A090.a
+ACM: Yes for "software" for commodities controlled by 3A001.z
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 3D001 "software" for commodities controlled by 3A001.z and 3A090.
+IEC: Yes, for "software" for equipment controlled by 3B001.q, see § 740.2(a)(22) and § 740.24 of the EAR.
 Special Conditions for STA
-STA: License Exception STA may not be used to ship or transmit "software" "specially designed" for the "development" or "production" of equipment specified by 3A001.z, 3A090, 3A002.g.1, 3B001.a.4, a.2, c, d, f.1.b, k to p, or 3B002.b and c to any of the destinations listed in Country Group A:6 (See Supplement No. 1 to part 740 of the EAR).
+STA: License Exception STA may not be used to ship or transmit "software" "specially designed" for the "development" or "production" of equipment specified by 3A090.a or 3B001. q to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR); and 3A090.b or 3A002.g.1 to any of the destinations listed in Country Group A:6.
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items:
-The list of items controlled is contained in the ECCN heading.
-3D002 "Software" "specially designed" for the "use" of equipment controlled by 3B001.a to.f and.k to.p, or 3B002.
+Items: The list of items controlled is contained in the ECCN heading.
+3D002 "Software" "specially designed" for the "use" of equipment controlled by 3B001.a to.f, or 3B002.
 License Requirements
 Reason for Control: NS, RS, AT
 Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to entire entry, except "software" for 3B001.a.4 c, d, f.1.b, k to p, 3B002.b and c | NS Column 1.
-NS applies to "software" for 3B001.a.4, c, d, f.1.b, k to p, 3B002.b and c | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.4(a)(4) of the EAR.
-RS applies to "software" for 3B001.a.4, c, d, f.1.b, k to p, 3B002.b and c | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(6) of the EAR.
+NS applies to entire entry | NS Column 1.
+NS applies to "software" for equipment controlled by 3B001.c.1.a or c.1.c | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to "software" for equipment controlled by 3B001.c.1.a or c.1.c | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
 AT applies to entire entry | AT Column 1.
 License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating "information security" functionality, and associated "software" and "technology" for the "production" or "development" of such microprocessors.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 TSR: Yes, except N/A for RS.
+IEC: Yes, for "software" for equipment controlled by 3B001.c.1.a and 3B001.c.1.c, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship or transmit "software" "specially designed" for the "use" of equipment specified by 3B001.c.1.a or c.1.b to any of the destinations listed in Country Group A:5 or A:6 (See supplement no.1 to part 740 of the EAR)
 List of Items Controlled
 Related Controls: Also see 3D991.
 Related Definitions: N/A
-Items:
-The list of items controlled is contained in the ECCN heading.
+Items: The list of items controlled is contained in the ECCN heading.
 3D003 'Computational lithography' "software" "specially designed" for the "development" of patterns on "EUV"-lithography masks or reticles.
 License Requirements
 Reason for Control: NS, AT
@@ -7188,6 +7685,39 @@ a. "Software" "specially designed" for the "development," "production," operatio
 b. "Software" "specially designed" for the "development," "production," operation or maintenance of technology in ECCN 3E611.b.
 c. through x. [Reserved]
 y. "Software" "specially designed" for the "production," "development," operation or maintenance of commodities enumerated in ECCNs 3A611.y.
+3D901 "Software", not specified elsewhere, "specially designed" or modified for the "development" or "production" of items specified in ECCN 3A901.b, 3B903, or 3B904.
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+Special Reporting: Deemed exports and deemed reexports of "software" specified in this ECCN for commodities in ECCNs 3A901.b, and 3B904 are subject to reporting requirements in accordance with § 743.8 of the EAR.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+TSR: N/A
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: N/A
+Related Definitions: N/A
+Items: The list of items controlled is contained in the ECCN heading.
+3D907 "Software" designed to extract "GDSII" or equivalent standard layout data and perform layer-to-layer alignment from SEM images, and generate multi-layer "GDSII" data or the circuit netlist.
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to the entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+TSR: N/A
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: An example of an equivalent standard to "GDSII" would be Open Artwork System Interchange Standard (OASIS).
+Related Definitions: N/A
+Items: The list of items controlled is contained in the ECCN heading.
 3D980 "Software" "specially designed" for the "development," "production" or "use" of commodities controlled by 3A980 and 3A981.
 License Requirements
 Reason for Control: CC, AT
@@ -7212,35 +7742,98 @@ List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
 Items: The list of items controlled is contained in the ECCN heading.
+3D992 "Software" for the "development" or "production" of commodities specified in 3B001.a.4, c, d, f.1, f.5, f.6, k to n, p.2, p.4, r, or 3B002.c and "software" as follows (see List of Items Controlled).
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+NS applies to the entire entry | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.4(a)(4) of the EAR.
+RS applies to the entire entry | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(6)(i) of the EAR.
+NS applies to "software" for equipment controlled by 3B001.c.1.a or c.1.c | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to "software" for equipment controlled by 3B001.c.1.a or c.1.c | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+TSR: N/A
+IEC: Yes, for "software" for equipment controlled by 3B001.c.1.a and 3B001.c.1.c, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship or transmit "software" specified in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See supplement no.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: For additional controls that apply to this ECCN, see also § 744.11(a)(2)(v) and (a)(3) and § 744.23(a)(4)(iii) of the EAR.
+Related Definitions: N/A
+Items:
+a. "Software" "specially designed" for the "development" or "production," of commodities specified in 3B001.a.4, c, d, f.1, f.5, f.6, k to n, p.2, p.4, r, or 3B002.c.
+b. 'Electronic Computer-Aided Design' ('ECAD') "software" designed for the integration of multiple dies into a 'multi-chip' integrated circuit, and having all of the following:
+b.1. Floor planning; and
+b.2. Co-design or co-simulation of die and package.
+Technical Note: For the purposes of 3D992.b, 'multi-chip' includes multi-die and multi-chiplet.
+c. "Software" not specified by 3D992.a designed or modified to perform all of the following in or with deep-ultraviolet immersion photolithography equipment:
+c.1. Decrease the minimum resolvable feature specified by 3B001.f.1.b; and
+c.2. Decrease the maximum 'dedicated chuck overlay' of deep-ultraviolet immersion lithography equipment below or equal to 1.5 nm.
+3D993 "Software" for the "development" or "production" of commodities specified in 3B993 and "software" as follows (see List of Items Controlled).
+License Requirements
+Reason for Control: RS, AT
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+RS applies to entire entry | See § 742.6(a)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+TSR: N/A
+Special Conditions for STA
+STA: License Exception STA may not be used to ship or transmit "software" specified in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (see supplement no.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: For additional controls that apply to this ECCN, see also § 744.11(a)(2)(v) and (a)(3) and § 744.23(a)(4)(iii) of the EAR.
+Related Definitions: N/A
+Items:
+a. "Software" "specially designed" for the "development" or "production" of commodities specified in 3B993.
+b. 'Electronic Computer-Aided Design' ('ECAD') "software" designed or modified for the "development" or "production" of integrated circuits using multipatterning.
+c. 'Computational lithography' "software" designed or modified for the "development" or "production" of patterns on DUV lithography masks or reticles.
+Technical Note: For the purposes of 3D993, 'computational lithography' is the use of computer modelling to predict, correct, optimize and verify imaging performance of the lithography process over a range of patterns, processes, and system conditions.
+d. "Software" designed or modified to increase the number of wafers processed per hour, averaged over any time interval, by greater than 1%, of equipment specified in 3B001.f.1 or 3B993.f.1.
+e. "Software" not specified by 3D993.a designed or modified to perform all of the following in or with deep-ultraviolet immersion photolithography equipment:
+e.1. Decrease the minimum resolvable feature specified by 3B993.f.1.b.1; and
+e.2. Decrease the maximum 'dedicated chuck overlay' of deep-ultraviolet immersion lithography equipment above 1.5 nm and below or equal to 2.4 nm.
+3D994 "Software" "specially designed" for the "development" or "production" of commodities specified in 3B994 and "software" as follows (see List of Items Controlled).
+License Requirements
+Reason for Control: RS, AT
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+RS applies to entire entry | See § 742.6(a)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+TSR: N/A
+Special Conditions for STA
+STA: License Exception STA may not be used to ship or transmit "software" specified in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (see supplement no. 1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: For additional controls that apply to this ECCN, see also § 744.11(a)(2)(v) and (a)(3) and § 744.23(a)(4)(iii) of the EAR.
+Related Definitions: N/A
+Items: The list of items controlled is contained in the ECCN heading.
 E. "Technology"
-3E001 "Technology" according to the General Technology Note for the "development" or "production" of commodities controlled by 3A (except 3A980, 3A981, 3A991, 3A992, or 3A999), 3B (except 3B991 or 3B992) or 3C (except 3C992).
+Note 1 to Cat 3 Product Group E: 3E001 and 3E905 do not apply to 'Process Design Kits' ('PDKs') unless they include libraries implementing functions or technologies for items specified by 3A001.
+Technical Note: For the purposes of 3E001 and 3E905, a 'Process Design Kit' ('PDK') is a software tool provided by a semiconductor manufacturer to ensure that the required design practices and rules are taken into account in order to successfully produce a specific integrated circuit design in a specific semiconductor process, in accordance with technological and manufacturing constraints (each semiconductor manufacturing process has its particular 'PDK').
+3E001 "Technology" according to the General Technology Note for the "development" or "production" of commodities controlled by 3A (except 3A069, 3A901, 3A904, 3A980, 3A981, 3A991, 3A992, or 3A999), 3B (except 3B001.a.4, c, d, f.1, f.5, k to n, p.2, p.4, r, 3B002.c, 3B903, 3B904, 3B991, 3B992, 3B993, or 3B994) or 3C (except 3C907, 3C908, 3C909, or 3C992).
 License Requirements
 Reason for Control: NS, MT, NP, RS, AT
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to "technology" for commodities controlled by 3A001 (except 3A001.z), 3A002, 3A003, 3B001 (except 3B001 a.4, c, d, f.1.b, k to p), 3B002 (except 3B002.b and c), or 3C001 to 3C006 | NS Column 1.
-NS applies to "technology" for 3B001 a.4, c, d, f.1.b, k to p, 3B002.b and c | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.4(a)(4) of the EAR.
-MT applies to "technology" for commodities controlled by 3A001 (except for 3A001.z) or 3A101 for MT Reasons | MT Column 1.
-NP applies to "technology" for commodities controlled by 3A001 (except 3A001.z), 3A201, or 3A225 to 3A234 for NP reasons | NP Column 1.
-RS applies to "technology" for commodities controlled in 3A090, when exported from Macau or a destination specified in Country Group D:5 | Worldwide (See § 742.6(a)(6)(ii).
-RS applies to "technology" for commodities controlled by 3A001.z, 3A090 | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii) of the EAR.
-RS applies to "technology" for commodities controlled by 3B001.a.4, c, d, f.1.b, k to p, 3B002.b and c | To or within destinations specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR or Macau. See § 742.6(a)(6)(i) of the EAR.
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+NS applies to "technology" for commodities controlled by 3A001, 3A002, 3A003, 3B001 (except as noted in the heading), 3B002 (except 3B002.c), or 3C001 to 3C006 | NS Column 1.
+MT applies to "technology" for commodities controlled by 3A001 or 3A101 for MT Reasons | MT Column 1.
+NP applies to "technology" for commodities controlled by 3A001, 3A201, or 3A225 to 3A234 for NP reasons | NP Column 1.
+RS applies to "technology" for commodities controlled in 3A090, when exported from Macau or a destination specified in Country Group D:5 | Worldwide (see § 742.6(a)(6)(ii)).
+RS applies to "technology" for commodities controlled by 3A001.z, 3A090 (except for 3A090.c) | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii) of the EAR.
+RS applies to "technology" for commodities controlled by 3A090.c | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(6)(i)(B) of the EAR.
+RS applies to "technology" for commodities controlled by 3A001.a.15 or b.13, 3A004, 3B003, 3C007, 3C008, or 3C009 | RS Column 2.
 AT applies to entire entry | AT Column 1.
 License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating "information security" functionality, and associated "software" and "technology" for the "production" or "development" of such microprocessors.
 Reporting Requirements
-See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, Special Comprehensive Licenses, and Validated End-User authorizations.
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions and Validated End-User authorizations.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
-TSR: Yes, except N/A for MT, and "technology" for the "development" or "production" of: (a) vacuum electronic device amplifiers described in 3A001.b.8, having operating frequencies exceeding 19 GHz; (b) solar cells, coverglass-interconnect-cells or covered-interconnect-cells (CIC) "assemblies", solar arrays and/or solar panels described in 3A001.e.4; (c) "Monolithic Microwave Integrated Circuit" ("MMIC") amplifiers in 3A001.b.2; (d) discrete microwave transistors in 3A001.b.3; and (e) commodities described in 3A001.z, 3A090, 3B001.a.4, c, d, f.1.b, k to p, 3B002.b and c.
-Special Conditions for STA
-STA: License Exception STA may not be used to ship or transmit "technology" according to the General Technology Note for the "development" or "production" of equipment specified by ECCNs 3A002.g.1 or 3B001.a.2 to any of the destinations listed in Country Group A:6 (See Supplement No. 1 to part 740 of the EAR). License Exception STA may not be used to ship or transmit "technology" according to the General Technology Note for the "development" or "production" of components specified by ECCN 3A001.b.2, b.3, commodities specified in 3A001.z, 3A090, 3B001.a.4, c, d, f.1.b, k to p, or 3B002.b and c, to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No. 1 to part 740 of the EAR).
+TSR: Yes, except N/A for MT, and "technology" for the "development" or "production" of: (a) vacuum electronic device amplifiers described in 3A001.b.8, having operating frequencies exceeding 19 GHz; (b) solar cells, coverglass-interconnect-cells or covered-interconnect-cells (CIC) "assemblies," solar arrays and/or solar panels described in 3A001.e.4; (c) "Monolithic Microwave Integrated Circuit" ("MMIC") amplifiers in 3A001.b.2; (d) discrete microwave transistors in 3A001.b.3; and (e) commodities described in 3A090.
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 3E001 "technology" for commodities controlled by 3A001.z, 3A090.
+IEC: Yes, for "technology" for equipment controlled by 3B001.q, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for Strategic Trade Authorization (STA)
+STA: License Exception STA may not be used to ship or transmit "technology" according to the General Technology Note for the "development" or "production" of equipment specified by ECCNs 3A002.g.1 or 3B001.a.2 to any of the destinations listed in Country Group A:6 (see supplement no.1 to part 740 of the EAR). License Exception STA may not be used to ship or transmit "technology" according to the General Technology Note for the "development" or "production" of components specified by ECCN 3A001.b.2, b.3, commodities specified in 3A090, to any of the destinations listed in Country Group A:5 or A:6 (see supplement no. 1 to part 740 of the EAR).
 List of Items Controlled
-Related Controls: (1) "Technology" according to the General Technology Note for the "development" or "production" of certain "space-qualified" atomic frequency standards described in Category XV(e)(9), MMICs described in Category XV(e)(14), and oscillators described in Category XV(e)(15) of the USML are "subject to the ITAR" (see 22 CFR parts 120 through 130). See also 3E101, 3E201 and 9E515. (2) "Technology" for "development" or "production" of "Microwave Monolithic Integrated Circuits" ("MMIC") amplifiers in 3A001.b.2 is controlled in this ECCN 3E001; 5E001.d refers only to that additional "technology" "required" for telecommunications.
-Related Definition: N/A
-Items:
-The list of items controlled is contained in the ECCN heading.
+Related Controls: (1) "Technology" according to the General Technology Note for the "development" or "production" of certain "space-qualified" atomic frequency standards described in Category XV(e)(9), MMICs described in Category XV(e)(14), and oscillators described in Category XV(e)(15) of the USML are "subject to the ITAR" (see 22 CFR parts 120 through 130). See also ECCNs 3E101, 3E201 and 9E515. (2) "Technology" for "development" or "production" of "Microwave Monolithic Integrated Circuits" ("MMIC") amplifiers in 3A001.b.2 is controlled in this ECCN 3E001; 5E001.d refers only to that additional "technology" "required" for telecommunications.
+Related Definition: N/A.
+Items: The list of items controlled is contained in the ECCN heading.
 Note 1: 3E001 does not control "technology" for equipment or "components" controlled by 3A003.
-Note 2: 3E001 does not control "technology" for integrated circuits controlled by 3A001.a.3 to a.14 or.z, having all of the following: (a) Using "technology" at or above 0.130 µm; and (b) Incorporating multi-layer structures with three or fewer metal layers.
-Note 3: 3E001 does not apply to 'Process Design Kits' ('PDKs') unless they include libraries implementing functions or technologies for items specified by 3A001.
-Technical Note: For the purposes of 3E001 Note 3, a 'Process Design Kit' ('PDK') is a software tool provided by a semiconductor manufacturer to ensure that the required design practices and rules are taken into account in order to successfully produce a specific integrated circuit design in a specific semiconductor process, in accordance with technological and manufacturing constraints (each semiconductor manufacturing process has its particular 'PDK').
+Note 2: 3E001 does not control "technology" for integrated circuits controlled by 3A001.a.3 to a.14 or z, having all of the following: (a) Using "technology" at or above 0.130 µm; and (b) Incorporating multi-layer structures with three or fewer metal layers.
 3E002 "Technology" according to the General Technology Note other than that controlled in 3E001 for the "development" or "production" of a "microprocessor microcircuit", "micro-computer microcircuit" and microcontroller microcircuit core, having an arithmetic logic unit with an access width of 32 bits or more and any of the following features or characteristics (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, AT
@@ -7296,6 +7889,19 @@ Related Controls: N/A
 Related Definitions: For the purpose of 3E004, 'Site Front least sQuares Range' ('SFQR') is the range of maximum deviation and minimum deviation from front reference plane, calculated by least square method with all front surface data including site boundary within a site.
 Items:
 The list of items controlled is contained in the ECCN heading.
+3E069 "Technology" according to the General Technology Note for the "development" or "production" of items controlled by 3A069.
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | NS Column 2.
+RS applies to entire entry | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(13) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+TSR: Yes, except N/A for Macau, destinations in Country Group D:5, or destinations subject to the RS control in 3A999.
+List of Items Controlled
+Related Controls: N/A
+Related Definitions: N/A
+Items: The list of items controlled is contained in the ECCN heading.
 3E101 "Technology" according to the General Technology Note for the "use" of equipment or "software" controlled by 3A001.a.1 or.2, 3A101, or 3D101.
 License Requirements
 Reason for Control: MT, AT
@@ -7368,6 +7974,44 @@ b.1. Helix traveling wave tubes (TWTs);
 b.2. Transmit/receive or transmit modules.
 c. through x. [Reserved]
 y. "Technology" "required" for the "production," "development," operation, installation, maintenance, repair, overhaul, or refurbishing of commodities or software enumerated in ECCNs 3A611.y or 3D611.y.
+3E901 "Technology" according to the General Technology Note for the "development" or "production" of items controlled by ECCN 3A901, 3A904, 3B903, 3B904, 3C907, 3C908, or 3C909.
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to the entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+Special Reporting: Deemed exports and deemed reexports of "technology" specified in this ECCN are subject to reporting requirements in accordance with § 743.8 of the EAR.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+TSR: N/A
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: N/A
+Related Definitions: N/A
+Items:
+The list of items controlled is contained in the ECCN heading.
+3E905 "Technology" according to the General Technology Note for the "development" or "production" of integrated circuits or devices, using "Gate all-around Field-Effect Transistor" ("GAAFET") structures.
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to the entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+TSR: N/A
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+Note: See General Order No. 6 in supplement no. 1 to part 736 for additional authorization that may apply for exports, reexports, or transfers (in-country) of this item.
+List of Items Controlled
+Related Controls: 1. ECCN 3E905 applies to process "technology" exclusively for the "development" or "production" of GAAFET structures of integrated circuits at a semiconductor wafer production facility. ECCN 3E905 does not, for example, control an integrated circuit design such as the physical layout file in "GDSII" format or EDA tools, or any other technology used to produce the physical layout file for integrated circuit design. 2. ECCN 3E905 does not apply to vertical GAAFET architectures, e.g., those used for 3D NAND.
+Related Definitions: N/A
+Items: The list of items controlled is contained in the ECCN heading.
+Note 1: 3E905 includes 'process recipes'.
+Note 2: 3E905. does not apply for tool qualification or maintenance.
+Technical Note: For the purposes of Note 1 to 3E905, a 'process recipe' is a set of conditions and parameters for a particular process step.
 3E980 "Technology" "specially designed" for "development," "production" or "use" of commodities controlled by 3A980 and 3A981.
 License Requirements
 Reason for Control: CC, AT
@@ -7392,6 +8036,61 @@ List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
 Items: The list of items controlled is contained in the ECCN heading.
+3E992 "Technology" for the "production" or "development" of commodities specified in 3B001.a.4, c, d, f.1, f.5, f.6, k to n, p.2, p.4, r; and 3B002.c; and "technology" as follows (see List of Items Controlled).
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+NS applies to the entire entry | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.4(a)(4) of the EAR.
+RS applies to the entire entry | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(6)(i) of the EAR.
+NS applies to "software" for equipment controlled by 3B001.c.1.a or c.1.c | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to "software" for equipment controlled by 3B001.c.1.a or c.1.c | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+TSR: N/A
+IEC: Yes, for "technology" for equipment controlled by 3B001.c.1.a, and 3B001.c.1.c, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship or transmit "technology" specified in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (see supplement no. 1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: N/A
+Related Definitions: N/A
+Items:
+a. "Technology" "specially designed" for the "development" or "production" of commodities specified in 3B001.a.4, c, d, f.1, f.5, f.6, k to n, p.2, p.4, r; or 3B002.c.
+b. "Technology" not specified by 3E992.a designed or modified to perform all of the following in or with deep-ultraviolet immersion photolithography equipment:
+b.1. Decrease the minimum resolvable feature specified by 3B001.f.1.b; and
+b.2. Decrease the maximum 'dedicated chuck overlay' of deep-ultraviolet immersion lithography equipment below or equal to 1.5 nm.
+3E993 "Technology" for the "development" or "production" of commodities specified in 3B993; and "technology" as follows (see List of Items Controlled).
+License Requirements
+Reason for Control: RS, AT
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+RS applies to entire entry | See § 742.6(a)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+TSR: N/A
+Special Conditions for STA
+STA: License Exception STA may not be used to ship or transmit "technology" specified in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (see supplement no. 1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: For additional controls that apply to this ECCN, see also § 744.11(a)(2)(v) and (a)(3) and § 744.23(a)(4)(iii) of the EAR.
+Related Definitions: N/A
+Items:
+a. "Technology" "specially designed" for the "development" or "production" of commodities specified by 3B993.
+b. "Technology" designed or modified to increase the number of wafers processed per hour, averaged over any time interval, by greater than 1%, of equipment specified in 3B001.f.1 or 3B993.f.1.
+c. "Technology" not specified by 3E993.a designed or modified to perform all of the following in or with deep-ultraviolet immersion photolithography equipment:
+c.1. Decrease the minimum resolvable feature specified by 3B993.f.1.b.1; and
+c.2. Decrease the maximum 'dedicated chuck overlay' of a deep-ultraviolet immersion lithography equipment above 1.5 nm and below or equal to 2.4 nm.
+3E994 "Technology" "specially designed" for the "development" or "production" of commodities specified in 3B994 and "technology" as follows (see List of Items Controlled).
+License Requirements
+Reason for Control: RS, AT
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+RS applies to entire entry | See § 742.6(a)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+TSR: N/A
+Special Conditions for STA
+STA: License Exception STA may not be used to ship or transmit "technology" specified in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (see supplement no. 1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: For additional controls that apply to this ECCN, see also § 744.11(a)(2)(v) and (a)(3) and § 744.23(a)(4)(iii) of the EAR.
+Related Definitions: N/A
+Items: The list of items controlled is contained in the ECCN heading.
 EAR99 Items subject to the EAR that are not elsewhere specified in this CCL Category or in any other category in the CCL are designated by the number EAR99.
 Category 4—Computers
 Note 1: Computers, related equipment and "software" performing telecommunications or "local area network" functions must also be evaluated against the performance characteristics of Category 5, Part 1 (Telecommunications).
@@ -7401,56 +8100,63 @@ Note 4: Items in ECCNs 4A005, 4D001.a (for 4A005 or 4D004), 4D004, and "technolo
 N.B.: For the control status of "software" "specially designed" for packet switching, see ECCN 5D001. (Telecommunications).
 Technical Note: 'Main storage' is the primary storage for data or instructions for rapid access by a central processing unit. It consists of the internal storage of a "digital computer" and any hierarchical extension thereto, such as cache storage or non-sequentially accessed extended storage.
 A. "End Items", "Equipment", "Accessories", "Attachments", "Parts", "Components" and "Systems"
-4A001 Electronic computers and related equipment, having any of the following (see List of Items Controlled), and "electronic assemblies" and "specially designed" "components" therefore.
+4A001 Electronic computers and related equipment, having any of the following (see List of Items Controlled), and "electronic assemblies" and "specially designed" "components" therefor.
 License Requirements
 Reason for Control: NS, MT, AT, NP
-Control(s) | Country Chart (See Supp. No. 1 to part 738)
+Control(s) | Country chart (see Supp. No. 1 to part 738)
 NS applies to entire entry | NS Column 2.
 MT applies to items in 4A001.a when the parameters in 4A101 are met or exceeded | MT Column 1.
 AT applies to entire entry | AT Column 1.
-NP applies, unless a License Exception is available. See § 742.3(b) of the EAR for information on applicable licensing review policies.
-Reporting Requirements See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations
-List Based License Exceptions (See Part 740 for a description of all license exceptions)
-LVS: $5000 for 4A001.a; N/A for MT
+NP applies, unless a License Exception is available. See § 742.3(b) of the EAR for information on applicable licensing review policies | N/A.
+Reporting Requirements
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+LVS: $5000 for 4A001.a; N/A for MT.
 GBS: N/A
 Special Conditions for STA
-STA: License Exception STA may not be used to ship any commodity in 4A001.a.2 to any of the destinations listed in Country Group A:6 (See Supplement No. 1 to part 740 of the EAR).
+STA: License Exception STA may not be used to ship any commodity in 4A001.a.2 to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR).
 List of Items Controlled
-Related Controls: See also 4A101 and 4A994. Equipment designed or rated for transient ionizing radiation is "subject to the ITAR" (see 22 CFR parts 120 through 130).
+Related Controls: (1) See also 4A101 and 4A994. Equipment designed or rated for transient ionizing radiation is "subject to the ITAR" (see 22 CFR parts 120 through 130). (2) The act of incorporating a radiation hardened integrated circuit into a computer that is specified under ECCN 4A994 or designated as EAR99 does not, in and of itself, cause the computer to meet the parameters of ECCN paragraph 4A001.a.2.
 Related Definitions: For the purposes of integrated circuits in 4A001.a.2, 5 × 10 3 Gy(Si) = 5 × 10 5 Rads (Si); 5 × 10 6 Gy (Si)/s = 5 × 10 8 Rads (Si)/s.
-Items: a. "Specially designed" to have any of the following:
-a.1. Rated for operation at an ambient temperature below 228 K (−45 °C) or above 358 K (85 °C); or
-Note: 4A001.a.1 does not apply to computers "specially designed" for civil automobile, railway train or "civil aircraft" applications.
+Items:
+a. "Specially designed" to have any of the following:
+a.1. [Reserved]
 a.2. Radiation hardened to exceed any of the following specifications:
 a.2.a. A total dose of 5 × 10 3 Gy (Si);
 a.2.b. A dose rate upset of 5 × 10 6 Gy (Si)/s; or
-a.2.c. Single Event Upset of 1 × 10 − Error/bit/day;
+a.2.c. Single Event Upset of 1 × 10 − 8 Error/bit/day;
 Note: 4A001.a.2 does not apply to computers "specially designed" for "civil aircraft" applications.
 b. [Reserved]
 4A003 "Digital computers", "electronic assemblies", and related equipment therefor, as follows (see List of Items Controlled) and "specially designed" "components" therefor.
 License Requirements
 Reason for Control: NS, RS, CC, AT
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to 4A003.b and.c | NS Column 1.
-NS applies to 4A003.g | NS Column 2.
-RS applies to 4A003.z | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii) of the EAR.
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+NS applies to 4A003.b,.c, and.z.1 | NS Column 1.
+NS applies to 4A003.g and z.2 | NS Column 2.
+RS applies to 4A003.z.1.a, z.2.a | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+RS applies to 4A003.z.1.b, z.2.b | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
 CC applies to "digital computers" for computerized finger-print equipment | CC Column 1.
-AT applies to entire entry (refer to 4A994 for controls on "digital computers" with a APP >0.0128 but ≤70 WT) | AT Column 1.
+AT applies to entire entry (refer to 4A994 for controls on "digital computers" with an APP >0.0128 but ≤70 WT) | AT Column 1.
 Note: For all destinations, except those countries in Country Group E:1 or E:2 of Supplement No. 1 to part 740 of the EAR, no license is required (NLR) for computers with an "Adjusted Peak Performance" ("APP") not exceeding 70 Weighted TeraFLOPS (WT) and for "electronic assemblies" described in 4A003.c that are not capable of exceeding an "Adjusted Peak Performance" ("APP") exceeding 70 Weighted TeraFLOPS (WT) in aggregation, except certain transfers as set forth in § 746.3 (Iraq).
 Reporting Requirements
 Special Post Shipment Verification reporting and recordkeeping requirements for exports of computers to destinations in Computer Tier 3 may be found in § 743.2 of the EAR.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
-LVS: $5000; N/A for 4A003.b,.c, and.z.
+LVS: $5000; N/A for 4A003.b, c, and z.
 GBS: Yes, for 4A003.g and "specially designed" "parts" and "components" therefor, exported separately or as part of a system.
 APP: Yes, for computers controlled by 4A003.b, and "electronic assemblies" controlled by 4A003.c, to the exclusion of other technical parameters. See § 740.7 of the EAR.
-NAC: Yes, for 4A003.z; N/A for all other 4A003 commodities.
-Note to List Based License Exceptions: Related equipment specified under ECCN 4A003.g, z.2, or z.4 are eligible for License Exception GBS if all the following conditions are met: ▪ 1. The related equipment is exported, reexported, or transferred (in-country) as part of a computer system, ▪ 2. The computer system is either designated as NLR or eligible for License Exception APP, and ▪ 3. The related equipment is eligible for License Exception APP.
+NAC/ACA: Yes, for 4A003.z.
+AIA: Yes for 4A003.z.1.a, z.2.a
+ACM: Yes for 4A003.z
+LPP: Yes for 4A003.z.1.a, z.2.a
+Note to List Based License Exceptions: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 4A003.z.
 List of Items Controlled
-Related Controls: (1) See also ECCNs 4A090, 4A994 and 4A980. (2) See also Note 4 to ECCN 3A090.
+Related Controls: See also ECCNs 4A090, 4A994 and 4A980.
 Related Definitions: N/A
 Items:
 Note 1: 4A003 includes the following: — 'Vector processors' (as defined in Note 7 of the "Technical Note on "Adjusted Peak Performance" ("APP")"); — Array processors; — Digital signal processors; — Logic processors; — Equipment designed for "image enhancement."
-Note 2: The control status of the "digital computers" and related equipment described in 4A003 is determined by the control status of other equipment or systems provided: a. The "digital computers" or related equipment are essential for the operation of the other equipment or systems; b. The "digital computers" or related equipment are not a "principal element" of the other equipment or systems; and N.B. 1: The control status of "signal processing" or "image enhancement" equipment "specially designed" for other equipment with functions limited to those required for the other equipment is determined by the control status of the other equipment even if it exceeds the "principal element" criterion. N.B. 2: For the control status of "digital computers" or related equipment for telecommunications equipment, see Category 5, Part 1 (Telecommunications). c. The "technology" for the "digital computers" and related equipment is determined by 4E.
+Note 2: The control status of the "digital computers" and related equipment described in 4A003 is determined by the control status of other equipment or systems provided: a. The "digital computers" or related equipment are essential for the operation of the other equipment or systems; b. The "digital computers" or related equipment are not a "principal element" of the other equipment or systems; and
+N.B. 1: The control status of "signal processing" or "image enhancement" equipment "specially designed" for other equipment with functions limited to those required for the other equipment is determined by the control status of the other equipment even if it exceeds the "principal element" criterion.
+N.B. 2: For the control status of "digital computers" or related equipment for telecommunications equipment, see Category 5, Part 1 (Telecommunications). c. The "technology" for the "digital computers" and related equipment is determined by 4E.
 a. [Reserved]
 b. "Digital computers" having an "Adjusted Peak Performance" ("APP") exceeding 70 Weighted TeraFLOPS (WT);
 c. "Electronic assemblies" "specially designed" or modified to be capable of enhancing performance by aggregation of processors so that the "APP" of the aggregation exceeds the limit in 4A003.b.;
@@ -7458,37 +8164,47 @@ Note 1: 4A003.c applies only to "electronic assemblies" and programmable interco
 Note 2: 4A003.c does not control "electronic assemblies" "specially designed" for a product or family of products whose maximum configuration does not exceed the limit of 4A003.b.
 d. to f. [Reserved]
 N.B.: For "electronic assemblies," modules or equipment, performing analog-to-digital conversions, see 3A002.h.
-g. Equipment "specially designed" for aggregating the performance of "digital computers" by providing external interconnections which allow communications at unidirectonal data rates exceeding 2.0 Gbyte/s per link.
+g. Equipment "specially designed" for aggregating the performance of "digital computers" by providing external interconnections which allow communications at unidirectional data rates exceeding 2.0 Gbyte/s per link.
 Note: 4A003.g does not control internal interconnection equipment (e.g., backplanes, buses) passive interconnection equipment, "network access controllers" or "communication channel controllers".
 h. through y. [Reserved]
-z. Commodities specified in 4A003 that also meet or exceed the performance parameters in 4A090.
+z. Commodities specified in this ECCN 4A003 that also meet or exceed the performance parameters in 4A090.
+z.1.a. Commodities specified in 4A003.b or.c that also meet or exceed the performance parameters in ECCN 4A090.a;
+z.1.b Commodities specified in 4A003.b or.c that also meet or exceed the performance parameters in ECCN 4A090.b;
+z.2.a. Commodities specified in 4A003.g that also meet or exceed the performance parameters in ECCN 4A090a; or
+z.2.b Commodities specified in 4A003.g that also meet or exceed the performance parameters in ECCN 4A090.b.
 4A004 Computers as follows (see List of Items Controlled) and "specially designed" related equipment, "electronic assemblies" and "components" therefor.
 License Requirements
 Reason for Control: NS, RS, AT
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to entire entry (except 4A004.z) | NS Column 2.
-RS applies to 4A004.z | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii) of the EAR.
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | NS Column 2.
+RS applies to 4A004.z.1 | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+RS applies to 4A004.z.2 | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
 AT applies to entire entry | AT Column 1.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
-LVS: $5000; N/A 4A004.z
+LVS: $5000, N/A for 4A004.z
 GBS: N/A
-NAC: Yes, for 4A004.z; N/A for all other 4A004 commodities.
+NAC/ACA: Yes, for 4A004.z.
+AIA: Yes for 4A004.z.1
+LPP: Yes for 4A004.z.1
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 4A004.z.
 List of Items Controlled
-Related Controls: (1) See also ECCN 4A090. (2) See also Note 4 to ECCN 3A090.
+Related Controls: See also ECCN 4A090.
 Related Definitions: N/A
 Items:
 a. 'Systolic array computers';
 b. 'Neural computers';
 c. 'Optical computers'.
-Technical Notes: 1. For the purposes of 4A004.a, 'systolic array computers' are computers where the flow and modification of the data is dynamically controllable at the logic gate level by the user. 2. For the purposes of 4A004.b, 'neural computers' are computational devices designed or modified to mimic the behaviour of a neuron or a collection of neurons, i.e., computational devices which are distinguished by their hardware capability to modulate the weights and numbers of the interconnections of a multiplicity of computational components based on previous data. 3. For the purposes of 4A004.c, 'optical computers' are computers designed or modified to use light to represent data and whose computational logic elements are based on directly coupled optical devices.
+Technical Notes: 1. For the purposes of 4A004.a, 'systolic array computers' are computers where the flow and modification of the data is dynamically controllable at the logic gate level by the user. 2. For the purposes of 4A004.b, 'neural computers' are computational devices designed or modified to mimic the behavior of a neuron or a collection of neurons, i.e., computational devices which are distinguished by their hardware capability to modulate the weights and numbers of the interconnections of a multiplicity of computational components based on previous data. 3. For the purposes of 4A004.c, 'optical computers' are computers designed or modified to use light to represent data and whose computational logic elements are based on directly coupled optical devices.
 d. through y. [Reserved]
-z. Commodities that are described in 4A004 and that also meet or exceed the performance parameters in 4A090.
+z.1. Commodities that are described in 4A004 and that also meet or exceed the performance parameters in 4A090.a; or
+z.2 Commodities that are described in 4A004 and that also meet or exceed the performance parameters in 4A090.b.
 4A005 "Systems," "equipment," and "components" therefor, "specially designed" or modified for the generation, command and control, or delivery of "intrusion software" (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, RS, AT
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to entire entry (except 4A005.z) | NS Column 1.
-RS applies to items controlled by 4A005.z | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii) of the EAR.
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | NS Column 1.
+RS applies to items controlled by 4A005.z.1 | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+RS applies to items controlled by 4A005.z.2 | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
 AT applies to entire entry | AT Column 1.
 Reporting Requirements
 See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
@@ -7496,51 +8212,93 @@ List Based License Exceptions (See Part 740 for a Description of All License Exc
 LVS: N/A
 GBS: N/A
 APP: N/A
-ACE: Yes, except to Country Group E:1 or E:2 and for 4A005.z. See § 740.22 of the EAR for eligibility criteria.
-NAC: Yes, for 4A005.z; N/A for all other 4A005 commodities.
+ACE: Yes, except to Country Group E:1 or E:2. See § 740.22 of the EAR for eligibility criteria.
+NAC/ACA: Yes, for 4A005.z.
+AIA: Yes for 4A005.z.1
+ACM: Yes for 4A005.z
+LPP: Yes for 4A005.z.1
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 4A005.z.
 Special Conditions for STA
 STA: License Exception STA may not be used to ship items specified by ECCN 4A005.
 List of Items Controlled
-Related Controls: (1) Defense articles described in USML Category XI(b), and software directly related to a defense article, are "subject to the ITAR"; see § 120.33(a)(4). (2) See also ECCNs 4A090. (3) See also Note 4 to ECCN 3A090.
+Related Controls: (1) Defense articles described in USML Category XI(b), and software directly related to a defense article, are "subject to the ITAR" (see 22 CFR parts 120 through 130). (2) See also ECCN 4A090.
 Related Definitions: N/A
-Items:
-The list of items controlled is contained in the ECCN heading, except for the commodities controlled under 4A005.z.
+Items: The list of items controlled is contained in the ECCN heading, except for the commodities controlled under 4A005.z.
 a. through y. [Reserved]
-z. Commodities that are specified in 4A005 that also meet or exceed the performance parameters in 4A090.
+z.1. Commodities that are specified in 4A005 that also meet or exceed the performance parameters in 4A090.a.
+z.2 Commodities that are specified in 4A005 that also meet or exceed the performance parameters in 4A090.b.
 4A090 Computers as follows (see List of Items Controlled) and related equipment, "electronic assemblies," and "components" therefor.
 License Requirements
 Reason for Control: RS, AT
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-RS applies to entire entry | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii) of the EAR.
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+RS applies to 4A090.a | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+RS applies to 4A090.b | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
 AT applies to entire entry | AT Column 1.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
-NAC: Yes, for 4A090, if the item incorporates a 3A090.a IC that is not designed or marketed for use in datacenters and has a 'total processing performance' of 4800 or more, or if the 4A090 item incorporates a 3A090.b IC, if the item is designed or marketed for use in datacenters.
+NAC/ACA: Yes
+AIA: Yes for 4A090.a
+ACM: Yes
+LPP: Yes for 4A090.a
 List of Items Controlled
-Related Controls: (1) For associated "software" for commodities in this ECCN, see 4D090, 5D002.z, and 5D992.z and for associated "technology" for commodities in this ECCN, see 4E001. (2) Also ECCNs 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, and 5A992.z. (3) See also Note 4 to ECCN 3A090.
+Related Controls: (1) For associated "software" for commodities in this ECCN, see 4D090, 5D002.z, and 5D992.z and for associated "technology" for commodities in this ECCN, see 4E001. (2) Also ECCNs 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, and 5A992.z.
 Related Definitions: N/A
 Items:
-a. Computers, "electronic assemblies," and "components" containing integrated circuits, any of which meets or exceeds the limit in 3A090.a.
-Technical Note: For purposes of 4A090.a, computers include "digital computers," "hybrid computers," and analog computers.
-b. [Reserved]
+a. Computers, "electronic assemblies," and "components" containing integrated circuits, any of which meets or exceeds the limits in 3A090.a.
+b. Computers, "electronic assemblies," and "components" containing integrated circuits, any of which meets or exceeds the limits in 3A090.b.
+Technical Note: For purposes of 4A090.a and.b, computers include "digital computers," "hybrid computers," and analog computers.
 4A101 Analog computers, "digital computers" or digital differential analyzers, other than those controlled by 4A001 designed or modified for use in "missiles", having any of the following (see List of Items Controlled).
 License Requirements
 Reason for Control: MT, AT
-Control(s) | Country Chart (See Supp. No. 1 to part 738)
-MT applies to entire entry | MT Column 1
-AT applies to entire entry | AT Column 1
-List Based License Exceptions (See Part 740 for a description of all license exceptions)
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+MT applies to entire entry | MT Column 1.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
-Related Controls: N/A
+Related Controls: The act of incorporating a radiation hardened integrated circuit into a computer that is specified under ECCN 4A994 or designated as EAR99 does not, in and of itself, cause the computer to meet the parameters of ECCN paragraph 4A101.b.
 Related Definitions: N/A
-Items: a. Rated for continuous operation at temperatures from below 228 K (−45 °C) to above 328 K (+ 55 °C); or
+Items:
+a. Rated for continuous operation at temperatures from below 228 K (−45 °C) to above 328 K (+55 °C); or
 b. Designed as ruggedized or 'radiation hardened'.
-Note: 'Radiation hardened' means that the "part," "component" or equipment is designed or rated to withstand radiation levels which meet or exceed a total irradiation dose of 5 × 10 5 rads (Si).
+Note: For the purposes of 4A101, 'radiation hardened' means that the "part," "component" or equipment is designed or rated to withstand radiation levels which meet or exceed a total irradiation dose of 5 × 10 5 rads (Si).
 4A102 "Hybrid computers" "specially designed" for modelling, simulation or design integration of "missiles" or their subsystems. (These items are "subject to the ITAR." See 22 CFR parts 120 through 130.)
 4A611 Computers, and "parts," "components," "accessories," and "attachments" "specially designed" therefor, "specially designed" for a military application that are not enumerated in any USML category are controlled by ECCN 3A611.
+4A906 Quantum computers and related "electronic assemblies," and "components" therefor, as follows (see List of Items Controlled).
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to the entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+LVS: N/A
+GBS: N/A
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: See ECCN 4D906 for related "software" controls for the "development" or "production" of this ECCN. See ECCN 4E906 for related "technology" controls for the "development" or "production" of this ECCN.
+Related Definitions: N/A
+Items:
+a. Quantum computers, as follows:
+a.1. Quantum computers supporting 34 or more, but fewer than 100, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 10 −4;
+a.2. Quantum computers supporting 100 or more, but fewer than 200, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 10 −3;
+a.3. Quantum computers supporting 200 or more, but fewer than 350, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 2 × 10 −3;
+a.4. Quantum computers supporting 350 or more, but fewer than 500, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 3 × 10 −3;
+a.5. Quantum computers supporting 500 or more, but fewer than 700, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 4 × 10 −3;
+a.6. Quantum computers supporting 700 or more, but fewer than 1,100, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 5 × 10 −3;
+a.7. Quantum computers supporting 1,100 or more, but fewer than 2,000, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 6 × 10 −3;
+a.8. Quantum computers supporting 2,000 or more 'fully controlled', 'connected' and 'working' 'physical qubits';
+b. Qubit devices and qubit circuits, containing or supporting arrays of 'physical qubits', and "specially designed" for items specified by 4A906.a;
+c. Quantum control components and quantum measurement devices, "specially designed" for items specified by 4A906.a;
+Note 1: 4A906 applies to circuit model (or gate-based) and one-way (or measurement-based) quantum computers. This entry does not apply to adiabatic (or annealing) quantum computers.
+Note 2: Items specified by 4A906 may not necessarily physically contain any qubits. For example, quantum computers based on photonic schemes do not permanently contain a physical item that can be identified as a qubit. Instead, the photonic qubits are generated while the computer is operating and then later discarded.
+Note 3: Items specified by 4A906.b include semiconductor, superconducting, and photonic qubit chips and chip arrays; surface ion trap arrays; other qubit confinement technologies; and coherent interconnects between such items.
+Note 4: 4A906.c applies to items designed for calibrating, initializing, manipulating or measuring the resident qubits of a quantum computer.
+Technical Notes: For the purposes of 4A906: 1. A 'physical qubit' is a two-level quantum system used to represent the elementary unit of quantum logic by means of manipulations and measurements that are not error corrected. 'Physical qubits' are distinguished from logical qubits, in that logical qubits are error-corrected qubits comprised of many 'physical qubits'. 2. 'Fully controlled' means the 'physical qubit' can be calibrated, initialized, gated, and read out, as necessary. 3. 'Connected' means that two-qubit gate operations can be performed between any arbitrary pair of the available 'working' 'physical qubits'. This does not necessarily entail all-to-all connectivity. 4. 'Working' means that the 'physical qubit' performs universal quantum computational work according to the system specifications for qubit operational fidelity. 5. Supporting 34 or more 'fully controlled', 'connected', 'working' 'physical qubits' refers to the capability of a quantum computer to confine, control, measure and process the quantum information embodied in 34 or more 'physical qubits'. 6. 'C-NOT error' is the average physical gate error for the nearest-neighbor two-'physical qubit' Controlled-NOT (C-NOT) gates.
 4A980 Computers for fingerprint equipment, n.e.s.
 License Requirements
 Reason for Control: CC, AT
@@ -7595,26 +8353,31 @@ Note: The control status of "software" for equipment described in other Categori
 4D001 "Software" as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, RS, CC, AT
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to entire entry, except 4A003.z, 4A004.z, and 4A005.z | NS Column 1.
-RS applies to "software" for commodities controlled by 4A003.z, 4A004.z, and 4A005.z | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii) of the EAR.
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | NS Column 1.
+RS applies to "software" for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, and 4A005.z.1 | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+RS applies to "software" for commodities controlled by 4A003.z.1.b, z.2.b, 4A004.z.2, and 4A005.z.2 | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
 CC applies to "software" for computerized finger-print equipment controlled by 4A003 for CC reasons | CC Column 1.
 AT applies to entire entry | AT Column 1.
 Reporting Requirements
 See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
-TSR: Yes, except for "software" for the "development" or "production" of the following:
-(1) Commodities with an "Adjusted Peak Performance" ("APP") exceeding 29 WT; or
-(2) Commodities controlled by 4A003.z, 4A004.z, 4A005 or "software" controlled by 4D004.
-APP: Yes to specific countries (see § 740.7 of the EAR for eligibility criteria), except "software" for commodities controlled by 4A003.z, 4A004.z, and 4A005.z.
-ACE: (1) Yes for 4D001.a (for the "development", "production" or "use" of equipment or "software" specified in ECCN 4A005 or 4D004), except to Country Group E:1 or E:2. See § 740.22 of the EAR for eligibility criteria. (2) No for "software" for commodities controlled by 4A003.z, 4A004.z, and 4A005.z
+TSR: Yes, except for "software" for the following:
+(1) The "development" or "production" of commodities with an "Adjusted Peak Performance" ("APP") exceeding 29 WT;
+(2) The "development" or "production" of commodities controlled by 4A005 or "software" controlled by 4D004; or
+(3) Commodities controlled by 4A003.z, 4A004.z, and 4A005.z
+APP: Yes to specific countries (see § 740.7 of the EAR for eligibility criteria).
+ACE: Yes for 4D001.a (for the "development", "production" or "use" of equipment or "software" specified in ECCN 4A005 or 4D004), except to Country Group E:1 or E:2. See § 740.22 of the EAR for eligibility criteria.
+AIA: Yes for "software" for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, and 4A005.z.1
+ACM: Yes for "software" for commodities controlled by 4A003.z
+Note: See § 740.2(a)(9)(ii) for license exception restrictions for "software" for commodities controlled by 4A003.z, 4A004.z, and 4A005.z.
 Special Conditions for STA
-STA: License Exception STA may not be used to ship or transmit "software" "specially designed" or modified for the "development" or "production" of equipment specified by ECCN 4A001.a.2 or for the "development" or "production" of "digital computers" having an 'Adjusted Peak Performance' ('APP') exceeding 29 Weighted TeraFLOPS (WT) to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR); and may not be used to ship or transmit "software" specified in 4D001.a "specially designed" for the "development" or "production" of equipment specified by ECCN 4A003.z, 4A004.z, or 4A005 to any of the destinations listed in Country Group A:5 or A:6.
+STA: License Exception STA may not be used to ship or transmit "software" "specially designed" or modified for the "development" or "production" of equipment specified by ECCN 4A001.a.2 or for the "development" or "production" of "digital computers" having an 'Adjusted Peak Performance' ('APP') exceeding 29 Weighted TeraFLOPS (WT) to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR); may not be used to ship or transmit "software" specified in 4D001.a "specially designed" for the "development" or "production" of equipment specified by ECCN 4A005; and may not be used to ship or transmit "software" for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, and 4A005.z.1 to any of the destinations listed in Country Group A:5 or A:6.
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
 Items:
-a. "Software" "specially designed" or modified for the "development" or "production", of equipment or "software" controlled by 4A001, 4A003, 4A004, 4A005 or 4D (except 4D090, 4D980, 4D993 or 4D994).
+a. "Software" "specially designed" or modified for the "development" or "production", of equipment or "software" controlled by 4A001, 4A003, 4A004, 4A005 or 4D (except 4D090, 4D906, 4D980, 4D993 or 4D994).
 b. "Software", other than that controlled by 4D001.a, "specially designed" or modified for the "development" or "production" of equipment as follows:
 b.1. "Digital computers" having an "Adjusted Peak Performance" ("APP") exceeding 24 Weighted TeraFLOPS (WT);
 b.2. "Electronic assemblies" "specially designed" or modified for enhancing performance by aggregation of processors so that the "APP" of the aggregation exceeds the limit in 4D001.b.1.
@@ -7635,24 +8398,39 @@ Related Controls: Software described in USML Category XI(b), and software direct
 Related Definitions: N/A
 Items:
 The list of items controlled is contained in the ECCN heading.
-Note: 4D004 does not apply to "software" specially designed and limited to provide "software" updates or upgrades meeting all the following:
-a. The update or upgrade operates only with the authorization of the owner or administrator of the system receiving it; and
-b. After the update or upgrade, the "software" updated or upgraded is not any of the following:
-1. "Software" specified by 4D004; or
-2. "Intrusion software."
+Note: 4D004 does not apply to "software" specially designed and limited to provide "software" updates or upgrades meeting all the following: a. The update or upgrade operates only with the authorization of the owner or administrator of the system receiving it; and b. After the update or upgrade, the "software" updated or upgraded is not any of the following: 1. "Software" specified by 4D004; or 2. "Intrusion software."
 4D090 "Software" "specially designed" or modified for the "development" or "production," of computers and related equipment, "electronic assemblies," and "components" therefor specified in ECCN 4A090.
 License Requirements
 Reason for Control: RS, AT
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-RS applies to entire entry | China and Macau (See § 742.6(a)(6))
-AT applies to entire entry | AT Column 1
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+RS applies to "software" for commodities controlled by 4A090.a | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+RS applies to "software" for commodities controlled by 4A090.b | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
+AT applies to entire entry | AT Column 1.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 TSR: N/A
+AIA: Yes for commodities controlled by 4A090.a
+ACM: Yes
 List of Items Controlled
 Related Controls: For associated "technology" for software in this ECCN, see 4E001.
 Related Definitions: N/A
-Items:
-The list of items controlled is contained in the ECCN heading.
+Items: The list of items controlled is contained in the ECCN heading.
+4D906 "Software" "specially designed" or modified for the "development" or "production" of commodities controlled by 4A906.b or 4A906.c.
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to the entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+Special Reporting: Deemed exports and deemed reexports of "software" specified in this ECCN are subject to reporting requirements in accordance with § 743.8 of the EAR.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+TSR: N/A
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: See ECCN 4E906 for related "technology" controls for the "development" or "production" of this ECCN.
+Related Definitions: N/A
+Items: The list of items controlled is contained in the ECCN heading.
 4D980 "Software" "specially designed" for the "development," "production" or "use" of commodities controlled by 4A980.
 License Requirements
 Reason for Control: CC, AT
@@ -7694,34 +8472,75 @@ E. "Technology"
 4E001 "Technology" as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, MT, RS, CC, AT
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to entire entry, except for technology for 4A003.z, 4A004.z, 4A005.z, 4A090 or "software" specified by 4D001 (for 4A003.z, 4A004.z or 4A005.z), 4D090 | NS Column 1.
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+NS applies to entire entry, except for "technology" for 4A090 or "software" specified by 4D090 | NS Column 1.
 MT applies to "technology" for items controlled by 4A001.a and 4A101 for MT reasons | MT Column 1.
-RS applies to "technology" for commodities controlled by 4A003.z, 4A004.z, 4A005.z, 4A090 or "software" specified by 4D001 (for 4A003.z, 4A004.z, and 4A005.z), 4D090 | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii) of the EAR.
-CC applies to "software" for computerized finger-print equipment controlled by 4A003 (except 4A003.z) for CC reasons | CC Column 1.
+RS applies to "technology" for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, 4A005.z.1, 4A090.a or "software" specified by 4D001 (for 4A003.z.1.a, z.2.a, 4A004.z.1 and 4A005.z.1), or 4D090.a | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+RS applies to "technology" for commodities controlled by 4A003.z.1.b, z.2.b, 4A004.z.2, 4A005.z.2, 4A090.b or "software" specified by 4D001 (for 4A003.z.1.b, z.2.b, 4A004.z.2, and 4A005.z.2), or 4D090.b | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
+CC applies to "technology" for computerized finger-print equipment controlled by 4A003 for CC reasons | CC Column 1.
 AT applies to entire entry | AT Column 1.
 Reporting Requirements
 See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
-List Based License Exceptions (See Part 740 for Description of All License Exceptions)
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 TSR: Yes, except for the following:
 (1) "Technology" for the "development" or "production" of commodities with an "Adjusted Peak Performance" ("APP") exceeding 70 WT or for the "development" or "production" of commodities controlled by 4A005 or "software" controlled by 4D004;
 (2) "Technology" for the "development" of "intrusion software"; or
-(3) "Technology" for the "development" or "production" of commodities controlled by 4A003.z, 4A004.z, 4A005.z, 4A090 or "software" specified by 4D001 (for 4A003.z, 4A004.z, and 4A005.z), 4D090 when destined to destinations in Country Group D:1, D:4, or D:5 of supplement no. 1 to part 740 of the EAR.
-APP: Yes to specific countries (see § 740.7 of the EAR for eligibility criteria). No, for "technology" for the "development" or "production" of commodities controlled by 4A003.z, or "software" specified by 4D001 (for 4A003.z) when destined to destinations in Country Group D:1, D:4, or D:5 of supplement no. 1 to part 740 of the EAR.
-ACE: Yes for 4E001.a (for the "development", "production" or "use" of equipment or "software" specified in ECCN 4A005 (except 4A005.z to destinations in Country Group D:1, D:4, or D:5) or 4D004) and for 4E001.c, except to Country Group E:1 or E:2. See § 740.22 of the EAR for eligibility criteria.
+(3) "Technology" for commodities controlled by 4A003.z, 4A004.z, 4A005.z, 4A090 or "software" specified by 4D001 (for 4A003.z, 4A004.z, and 4A005.z), or 4D090
+APP: Yes, to specific countries (see § 740.7 of the EAR for eligibility criteria).
+ACE: Yes for 4E001.a (for the "development", "production" or "use" of equipment or "software" specified in ECCN 4A005 or 4D004); and for 4E001.c, except to Country Group E:1 or E:2. See § 740.22 of the EAR for eligibility criteria.
+AIA: Yes for "technology" for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, 4A005.z.1, 4A090.a or "software" specified by 4D001 (for 4A003.z.1.a, z.2.a, 4A004.z.1 and 4A005.z.1), or 4D090.a
+ACM: Yes for "technology" for commodities controlled by 4A003.z, 4A004.z, 4A005.z, 4A090 or "software" specified by 4D001 (for 4A003.z, 4A004.z and 4A005.z), or 4D090.
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for technology for.z paragraphs under ECCNs 4A003, 4A004, 4A005 or 4A090, or "software" specified by 4D001 (for 4A003.z, 4A004.z, 4A005.z, and 4A090).
 Special Conditions for STA
-STA: License Exception STA may not be used to ship or transmit "technology" according to the General Technology Note for the "development" or "production" of any of the following equipment or "software": a. Equipment specified by ECCN 4A001.a.2; b. "Digital computers" having an 'Adjusted Peak Performance' ('APP') exceeding 70 Weighted TeraFLOPS (WT); or c. "software" specified in the License Exception STA paragraph found in the License Exception section of ECCN 4D001 to any of the destinations listed in Country Group A:6 (See Supplement No. 1 to part 740 of the EAR); and may not be used to ship or transmit "technology" specified in 4E001.a (for the "development", "production" or "use" of equipment or "software" specified in ECCN 4A003.z, 4A004.z, 4A005, 4A090, or "software" specified by 4D001 (for 4A003.z, 4A004.z, and 4A005.z), 4D004, or 4D090); and 4E001.c to any of the destinations listed in Country Group A:5 or A:6.
+STA: License Exception STA may not be used to ship or transmit "technology" according to the General Technology Note for the "development" or "production" of any of the following equipment or "software": a. Equipment specified by ECCN 4A001.a.2; b. "Digital computers" having an 'Adjusted Peak Performance' ('APP') exceeding 70 Weighted TeraFLOPS (WT); c. "software" specified in the License Exception STA paragraph found in the License Exception section of ECCN 4D001; or "technology" for commodities controlled by 4A003.z.1.b, z.2.b, 4A004.z.2, 4A005.z.2, 4A090.b or "software" specified by 4D001 (for 4A003.z.1.b, z.2.b, 4A004.z.2, and 4A005.z.2), or 4D090.b to any of the destinations listed in Country Group A:6 (See Supplement No. 1 to part 740 of the EAR). License Exception STA may not be used to ship or transmit "technology" for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, 4A005.z.1, 4A090.a or "software" specified by 4D001 (for 4A003.z.1.a, z.2.a, 4A004.z.1 and 4A005.z.1), or 4D090.a to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No. 1 to part 740 of the EAR).
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
 Items:
-a. "Technology" according to the General Technology Note, for the "development", "production", or "use" of equipment or "software" controlled by 4A (except 4A980 or 4A994 and "use" of equipment controlled under 4A090 or "software" controlled under 4D001 (for 4A090)) or 4D (except 4D980, 4D993, 4D994 and "use" of software controlled under 4D090).
+a. "Technology" according to the General Technology Note, for the "development", "production", or "use" of equipment or "software" controlled by 4A (except 4A906, 4A980 or 4A994 and "use" of equipment controlled under 4A090) or 4D (except 4D906, 4D980, 4D993, 4D994 and "use" of software controlled under 4D090).
 b. "Technology" according to the General Technology Note, other than that controlled by 4E001.a, for the "development" or "production" of equipment as follows:
 b.1. "Digital computers" having an "Adjusted Peak Performance" ("APP") exceeding 24 Weighted TeraFLOPS (WT);
 b.2. "Electronic assemblies" "specially designed" or modified for enhancing performance by aggregation of processors so that the "APP" of the aggregation exceeds the limit in 4E001.b.1.
 c. "Technology" for the "development" of "intrusion software."
-Note 1: 4E001.a and 4E001.c do not apply to "vulnerability disclosure" or "cyber incident response".
-Note 2: Note 1 does not diminish national authorities' rights to ascertain compliance with 4E001.a and 4E001.c.
+Note 1: 4E001.a and.c do not apply to "vulnerability disclosure" or "cyber incident response".
+Note 2: Note 1 does not diminish national authorities' rights to ascertain compliance with 4E001.a and.c.
+4E091 'Parameters' for an artificial intelligence model trained utilizing 10 26 or more 'operations.'
+License Requirements
+Reason for Control: RS, AT
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+RS applies entire entry | To or within any destination worldwide. See § 742.6(a)(13).
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+TSR: N/A
+AIA: Yes
+ACM: No
+Special Conditions for STA
+STA: License Exception STA may not be used to ship or transmit "technology" specified by ECCN 4E091 to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: N/A
+Related Definition: N/A
+Items: The list of items controlled is contained in the ECCN heading.
+Technical Notes: For the purposes of 4E091: 1. 'Parameters' refers to any value learned during training (e.g., network weights, biases, etc.). 'Parameters' for an artificial intelligence model are also known as model weights. 2. 'Operations' refers to mathematical operations used for pre-training and any subsequent training, such as fine-tuning the pre-trained model, but does not include the collection and curation of the input training data. Training 'operations' should account for operations required to perform all steps in the pre-training and subsequent training process, including those for forward and backward propagation for all relevant layers, pooling, and convolutions, regardless of the implementation and hardware limitations, and applied to all relevant operations. For example, consider a model composed of a single densely connected layer with I input neurons, O output neurons, and no biases being trained with backpropagation. Such a model would have a total of N = I * O learned parameters. Each forward pass would require N multiply accumulate operations, or (assuming floating point arithmetic) 2N FLOP. Each backward pass would require 2N multiply accumulate operations, or 4N FLOP. Then, in total, each training data point would require 6N FLOP. Training on a data set of size D would require 6ND total FLOP. 3. If more than ten percent of the 'operations' involve training on data that was not "published" as defined in § 734.7(a) and was generated by a single data-generation model, then 'operations' the data-generation model used to generate the data should be counted, and if the data-generation model's 'parameters' were not "published," then the training 'operations' used to train the data-generating model should be counted as well. A single data-generation model includes variants of the same model, such as different checkpoints or fine-tuned variants. If multiple models with 'parameters' that were not "published" were used to generate data used for more than ten percent of the training 'operations,' then only the training 'operations' of the data-generation model using the most training 'operations' should be counted. No actual training 'operation' should be counted more than once, so if data-generation model A is used to train data-generation model B and data-generation model C, and models B and C are used to train model D, then the operations to train A are only added to the number of operations for model D once.
+Notes: 1. In accordance with § 734.7 of the EAR, 4E091 does not control the 'parameters' of any artificial intelligence model that have been "published" as defined in § 734.7(a). 4E091 also does not control the 'parameters' of any artificial intelligence model derived from a model whose parameters have been 'published,' except where the model has been derived using additional training 'operations' that constitute more than 2.5 × 10 25 'operations' or more than 25 percent of the training 'operations' defined in Note 2, whichever is higher. 2. 4E091 does not control the 'parameters' of any artificial intelligence model trained utilizing fewer 'operations' than the number needed, based on the most efficient "published" methods to train artificial intelligence models, to train an artificial intelligence model as capable, according to an aggregate of widely used benchmarks, as the most advanced artificial intelligence model that has been "published" as defined in § 734.7(a) of the EAR. To provide certainty for this exclusion, the number of 'operations' needed should not decrease with algorithmic improvements. 2.a. An exporter may determine whether an AI model falls within this exclusion by either: 2.a.1. Self classifying by relying on guidance published by BIS or technical opinions issued by the U.S. AI Safety Institute and the Department of Energy, should such opinions have been published, or 2.a.2. A classification request to BIS in accordance with the procedures in §§ 748.1 and 748.3 of the EAR.
+4E906 "Technology" according to the General Technology Note as follows (see List of Items Controlled).
+License Requirements
+Reason for Control: NS, RS, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+RS applies to the entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+AT applies to entire entry | AT Column 1.
+Special Reporting: Deemed exports and deemed reexports of "technology" specified in this ECCN are subject to reporting requirements in accordance with § 743.8 of the EAR.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+TSR: N/A
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+Special Conditions for STA
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+List of Items Controlled
+Related Controls: N/A
+Related Definitions: N/A
+Items:
+a. "Technology" for the "development" or "production" of items controlled by 4A906.b, 4A906.c, or 4D906;
+b. "Technology" for "use" of "software" controlled by 4D906.
 4E980 "Technology" for the "development," "production" or "use" of commodities controlled by 4A980.
 License Requirements
 Reason for Control: CC, AT
@@ -7781,25 +8600,21 @@ A. "End Items", "Equipment", "Accessories", "Attachments", "Parts", "Components"
 5A001 Telecommunications systems, equipment, "components" and "accessories," as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, SL, AT
-Control(s) | Country chart (see supp. No. 1 to part 738)
-NS applies to 5A001.a, b.5,.e,.f.3 and.h | NS Column 1
-NS applies to 5A001.b (except.b.5),.c,.d,.f (except f.3),.g, and.j | NS Column 2
-SL applies to 5A001.f.1 | A license is required for all destinations, as specified in § 742.13 of the EAR. Accordingly, a column specific to this control does not appear on the Commerce Country Chart (Supplement No. 1 to Part 738 of the EAR). Note to SL paragraph: This licensing requirement does not supersede, nor does it implement, construe or limit the scope of any criminal statute, including, but not limited to the Omnibus Safe Streets Act of 1968, as amended
-AT applies to entire entry | AT Column 1
+Control(s) | Country chart (see Supp. No.1 to part 738)
+NS applies to 5A001.a, b.5,.e,.f.3 and.h | NS Column 1.
+NS applies to 5A001.b (except.b.5),.c,.d,.f (except f.3),.g, and.j | NS Column 2.
+SL applies to 5A001.f.1 | A license is required for all destinations, as specified in § 742.13 of the EAR. Accordingly, a column specific to this control does not appear on the Commerce Country Chart (Supplement No. 1 to Part 738 of the EAR). Note to SL paragraph: This licensing requirement does not supersede, nor does it implement, construe or limit the scope of any criminal statute, including, but not limited to the Omnibus Safe Streets Act of 1968, as amended.
+AT applies to entire entry | AT Column 1.
 Reporting Requirements
 See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
-LVS: N/A for 5A001.a, b.5,.e, f.3 and.h;
-$5000 for 5A001.b.1,.b.2,.b.3,.b.6,.d, f.2, f.4, and.g;
-$3000 for 5A001.c.
+LVS: N/A for 5A001.a, b.5,.e, f.3 and.h; $5000 for 5A001.b.1,.b.2,.b.3,.b.6,.d, f.2, f.4, and.g; $3000 for 5A001.c.
 GBS: Yes, except 5A001.a, b.5, e, and h.
-ACE: Yes for 5A001.j, except to Country Group E:1 or E:2. See § 740.22 of the EAR for eligibility criteria
+ACE: Yes for 5A001.j, except to Country Group E:1 or E:2. See § 740.22 of the EAR for eligibility criteria.
 Special Conditions for STA
-STA: License Exception STA may not be used to ship any commodity in 5A001.j to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No. 1 to part 740 of the EAR), or any commodity in 5A001.b.3,.b.5 or.h to any of the destinations listed in Country Group A:6 (See Supplement No. 1 to part 740 of the EAR).
+STA: License Exception STA may not be used to ship any commodity in 5A001.j to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No. 1 to part 740 of the EAR), or any commodity in 5A001.b.3,.b.5 or.h to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR).
 List of Items Controlled
-Related Controls: (1) See USML Category XI for controls on direction-finding "equipment" including types of "equipment" in ECCN 5A001.e and any other military or intelligence electronic "equipment" that is "subject to the ITAR." (2) See USML Category XI(a)(4)(iii) for controls on electronic attack and jamming "equipment" defined in 5A001.f and.h that are subject to the ITAR. (3) See also ECCNs 5A101, 5A980, and 5A991.
-Related Definitions: N/A
-Items:
+Related Controls: (1) See USML Category XI for controls on direction-finding "equipment" including types of "equipment" in ECCN 5A001.e and any other military or intelligence electronic "equipment" that is "subject to the ITAR." (2) See USML Category XI(a)(4)(iii) for controls on electronic attack and jamming "equipment" defined in 5A001.f and.h that are subject to the ITAR. (3) The act of incorporating a radiation hardened integrated circuit into telecommunications equipment that is specified under ECCN 5A991 or designated as EAR99 does not, in and of itself, cause the telecommunications equipment to meet the specifications of ECCN paragraph 5A001.a.2. (4) See also ECCNs 5A101, 5A980, and 5A991.
 a. Any type of telecommunications equipment having any of the following characteristics, functions or features:
 a.1. "Specially designed" to withstand transitory electronic effects or electromagnetic pulse effects, both arising from a nuclear explosion;
 a.2. Specially hardened to withstand gamma, neutron or ion radiation;
@@ -7813,7 +8628,7 @@ b.1.b. Using an electromagnetic carrier frequency below 30 kHz; or
 b.1.c. Using electronic beam steering techniques; or
 b.1.d. Using "lasers" or light-emitting diodes (LEDs), with an output wavelength greater than 400 nm and less than 700 nm, in a "local area network";
 b.2. Being radio equipment operating in the 1.5 MHz to 87.5 MHz band and having all of the following:
-b.2.a. Automatically predicting and selecting frequencies and "total digital transfer rates" per channel to optimize the transmission; and
+b.2.a.. Automatically predicting and selecting frequencies and "total digital transfer rates" per channel to optimize the transmission; and
 b.2.b. Incorporating a linear power amplifier configuration having a capability to support multiple signals simultaneously at an output power of 1 kW or more in the frequency range of 1.5 MHz or more but less than 30 MHz, or 250 W or more in the frequency range of 30 MHz or more but not exceeding 87.5 MHz, over an "instantaneous bandwidth" of one octave or more and with an output harmonic and distortion content of better than −80 dB;
 b.3. Being radio equipment employing "spread spectrum" techniques, including "frequency hopping" techniques, not controlled in 5A001.b.4 and having any of the following:
 b.3.a. User programmable spreading codes; or
@@ -7825,7 +8640,7 @@ b.4.a. A bandwidth exceeding 500 MHz; or
 b.4.b. A "fractional bandwidth" of 20% or more;
 b.5. Being digitally controlled radio receivers having all of the following:
 b.5.a. More than 1,000 channels;
-b.5.b. A 'channel switching time ' of less than 1 ms;
+b.5.b. A 'channel switching time' of less than 1 ms;
 b.5.c. Automatic searching or scanning of a part of the electromagnetic spectrum; and
 b.5.d. Identification of the received signals or the type of transmitter; or
 Note: 5A001.b.5 does not control radio equipment "specially designed" for use with civil cellular radio-communications systems.
@@ -8036,7 +8851,7 @@ Control(s) | Country chart (see Supp. No. 1 to part 738)
 NS applies to entire entry | NS Column 1
 SL applies to the entire entry as applicable for equipment, functions, features, or characteristics controlled by 5A001.f.1 | A license is required for all destinations, as specified in § 742.13 of the EAR. Accordingly, a column specific to this control does not appear on the Commerce Country Chart (Supplement No. 1 to Part 738 of the EAR).
 | Note to SL paragraph: This licensing requirement does not supersede, nor does it implement, construe or limit the scope of any criminal statute, including, but not limited to the Omnibus Safe Streets Act of 1968, as amended.
-AT applies to entire entry | AT Column 1
+AT applies to entire entry | AT Column 1.
 Reporting Requirements
 See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
 List Based License Exceptions
@@ -8134,7 +8949,7 @@ a. "Technology" according to the General Technology Note for the "development", 
 b. Specific "technology", as follows:
 b.1. "Technology" "required" for the "development" or "production" of telecommunications equipment "specially designed" to be used on board satellites;
 b.2. "Technology" for the "development" or "use" of "laser" communication techniques with the capability of automatically acquiring and tracking signals and maintaining communications through exoatmosphere or sub-surface (water) media;
-b.3. "Technology" for the "development" of digital cellular radio base station receiving equipment whose reception capabilities that allow multi-band, multi-channel, multi-mode, multi-coding algorithm or multi-protocol operation can be modified by changes in "software";
+b.3. "Technology" for the "development" of digital cellular radio base station receiving equipment whose reception capabilities that allow multi-band, multi-channel, multi- mode, multi-coding algorithm or multi-protocol operation can be modified by changes in "software";
 b.4. "Technology" for the "development" of "spread spectrum" techniques, including "frequency hopping" techniques.
 Note: 5E001.b.4 does not apply to "technology" for the "development" of any of the following: a. Civil cellular radio-communications systems; or b. Fixed or mobile satellite Earth stations for commercial civil telecommunications.
 c. "Technology" according the General Technology Note for the "development" or "production" of any of the following:
@@ -8224,20 +9039,25 @@ I. Cryptographic "Information Security"
 5A002 "Information security" systems, equipment and "components," as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, RS, AT, EI
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to entire entry (except 5A002.z) | NS Column 1.
-RS applies to items controlled by 5A002.z | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii) of the EAR.
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | NS Column 1.
+RS applies to items controlled by 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+RS applies to items controlled by 5A002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
 AT applies to entire entry | AT Column 1.
 EI applies to entire entry | Refer to § 742.15 of the EAR.
 License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating "information security" functionality, and associated "software" and "technology" for the "production" or "development" of such microprocessors.
-List Based License Exceptions (See Part 740 for Description of All License Exceptions)
-LVS: Yes: $500 for "components," except for 5A002.z.
-N/A for systems and equipment.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+LVS: Yes: $500 for "components,"
+N/A for systems and equipment. N/A for 5A002.z.
 GBS: N/A
-ENC: Yes for certain EI controlled commodities, see § 740.17 of the EAR for eligibility, except for 5A002.z.
-NAC: Yes, for 5A002.z; N/A for all other 5A002 commodities.
+ENC: Yes for certain EI controlled commodities, see § 740.17 of the EAR for eligibility.
+NAC/ACA: Yes, for 5A002.z.1.b, z.2.b
+AIA: Yes 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a
+ACM: Yes for 5A002.z
+LPP: Yes for 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 5A002.z.
 List of Items Controlled
-Related Controls: (1) ECCN 5A002.a controls "components" providing the means or functions necessary for "information security." All such "components" are presumptively "specially designed" and controlled by 5A002.a. (2) See USML Categories XI (including XI(b)) and XIII(b) (including XIII(b)(2)) for controls on systems, equipment, and components described in 5A002.d or.e that are subject to the ITAR. (3) For "satellite navigation system" receiving equipment containing or employing decryption see 7A005, and for related decryption "software" and "technology" see 7D005 and 7E001. (4) Noting that items may be controlled elsewhere on the CCL, examples of items not controlled by ECCN 5A002.a.4 include the following: (a) An automobile where the only 'cryptography for data confidentiality' having a 'described security algorithm' is performed by a Category 5—Part 2 Note 3 eligible mobile telephone that is built into the car. In this case, secure phone communications support a non-primary function of the automobile but the mobile telephone (equipment), as a standalone item, is not controlled by ECCN 5A002 because it is excluded by the Cryptography Note (Note 3) (See ECCN 5A992.c). (b) An exercise bike with an embedded Category 5—Part 2 Note 3 eligible web browser, where the only controlled cryptography is performed by the web browser. In this case, secure web browsing supports a non-primary function of the exercise bike but the web browser ("software"), as a standalone item, is not controlled by ECCN 5D002 because it is excluded by the Cryptography Note (Note 3) (See ECCN 5D992.c). (5) After classification or self-classification in accordance with § 740.17(b) of the EAR, mass market encryption commodities that meet eligibility requirements are released from "EI" and "NS" controls. These commodities are designated 5A992.c. (6) See also ECCNs 3A090 (including Note 4 to ECCN 3A090), and 4A090.
+Related Controls: (1) ECCN 5A002.a controls "components" providing the means or functions necessary for "information security." All such "components" are presumptively "specially designed" and controlled by 5A002.a. (2) See USML Categories XI (including XI(b)) and XIII(b) (including XIII(b)(2)) for controls on systems, equipment, and components described in 5A002.d or.e that are "subject to the ITAR" (see 22 CFR parts 120 through 130). (3) For "satellite navigation system" receiving equipment containing or employing decryption see 7A005, and for related decryption "software" and "technology" see 7D005 and 7E001. (4) Noting that items may be controlled elsewhere on the CCL, examples of items not controlled by ECCN 5A002.a.4 include the following: (a) An automobile where the only 'cryptography for data confidentiality' having a 'described security algorithm' is performed by a Category 5—Part 2 Note 3 eligible mobile telephone that is built into the car. In this case, secure phone communications support a non-primary function of the automobile but the mobile telephone (equipment), as a standalone item, is not controlled by ECCN 5A002 because it is excluded by the Cryptography Note (Note 3) (See ECCN 5A992.c). (b) An exercise bike with an embedded Category 5—Part 2 Note 3 eligible web browser, where the only controlled cryptography is performed by the web browser. In this case, secure web browsing supports a non-primary function of the exercise bike but the web browser ("software"), as a standalone item, is not controlled by ECCN 5D002 because it is excluded by the Cryptography Note (Note 3) (See ECCN 5D992.c). (5) After classification or self-classification in accordance with § 740.17(b) of the EAR, mass market encryption commodities that meet eligibility requirements are released from "EI" and "NS" controls. These commodities are designated 5A992.c. (6) See also ECCNs 3A090 and 4A090.
 Related Definitions: N/A
 Items:
 a. Designed or modified to use 'cryptography for data confidentiality' having a 'described security algorithm', where that cryptographic capability is usable, has been activated, or can be activated by any means other than secure "cryptographic activation", as follows:
@@ -8253,12 +9073,13 @@ Technical Notes: 1. For the purposes of 5A002.a, 'cryptography for data confiden
 Technical Note: An algorithm described by Technical Note 2.c. may be referred to as being post-quantum, quantum-safe or quantum-resistant.
 Note 1: Details of items must be accessible and provided upon request, in order to establish any of the following: a. Whether the item meets the criteria of 5A002.a.1 to a.4; or b. Whether the cryptographic capability for data confidentiality specified by 5A002.a is usable without "cryptographic activation."
 Note 2: 5A002.a does not control any of the following items, or specially designed "information security" components therefor: a. Smart cards and smart card 'readers/writers' as follows: a.1. A smart card or an electronically readable personal document (e.g., token coin, e-passport) that meets any of the following: a.1.a. The cryptographic capability meets all of the following: a.1.a.1. It is restricted for use in any of the following: a.1.a.1.a. Equipment or systems, not described by 5A002.a.1 to a.4; a.1.a.1.b. Equipment or systems, not using 'cryptography for data confidentiality' having a 'described security algorithm'; or a.1.a.1.c. Equipment or systems, excluded from 5A002.a by entries b. to f. of this Note; and a.1.a.2. It cannot be reprogrammed for any other use; or a.1.b. Having all of the following: a.1.b.1. It is specially designed and limited to allow protection of 'personal data' stored within; a.1.b.2. Has been, or can only be, personalized for public or commercial transactions or individual identification; and a.1.b.3. Where the cryptographic capability is not user-accessible;
-Technical Note to paragraph a.1.b.1 of Note 2: For the purposes of 5A002.a Note 2.a.1.b.1, 'personal data' includes any data specific to a particular person or entity, such as the amount of money stored and data necessary for "authentication." a.2. 'Readers/writers' specially designed or modified, and limited, for items specified by paragraph a.1 of this Note;
+Technical Note to paragraph a.1.b.1 of Note 2: For the purposes of 5A002.a Note 2.-a.1.b.1, 'personal data' includes any data specific to a particular person or entity, such as the amount of money stored and data necessary for "authentication." a.2. 'Readers/writers' specially designed or modified, and limited, for items specified by paragraph a.1 of this Note;
 Technical Note to paragraph a.2 of Note 2: 'For the purposes of 5A002.a Note 2.a.2, 'readers/writers' include equipment that communicates with smart cards or electronically readable documents through a network. b. Cryptographic equipment specially designed and limited for banking use or 'money transactions';
-Technical Note to paragraph b. of Note 2: For the purposes of 5A002.a Note 2.b, 'money transactions' in 5A002 Note 2 paragraph b. includes the collection and settlement of fares or credit functions. c. Portable or mobile radiotelephones for civil use (e.g., for use with commercial civil cellular radio communication systems) that are not capable of transmitting encrypted data directly to another radiotelephone or equipment (other than Radio Access Network (RAN) equipment), nor of passing encrypted data through RAN equipment (e.g., Radio Network Controller (RNC) or Base Station Controller (BSC)); d. Cordless telephone equipment not capable of end-to-end encryption where the maximum effective range of unboosted cordless operation (i.e., a single, unrelayed hop between terminal and home base station) is less than 400 meters according to the manufacturer's specifications; e. Portable or mobile radiotelephones and similar client wireless devices for civil use, that implement only published or commercial cryptographic standards (except for anti-piracy functions, which may be non-published) and also meet the provisions of paragraphs a.2 to a.4 of the Cryptography Note (Note 3 in Category 5—Part 2), that have been customized for a specific civil industry application with features that do not affect the cryptographic functionality of these original non-customized devices; f. Items, where the "information security" functionality is limited to wireless "personal area network" functionality implementing only published or commercial cryptographic standards; g. Mobile telecommunications Radio Access Network (RAN) equipment designed for civil use, which also meet the provisions of paragraphs a.2 to a.4 of the Cryptography Note (Note 3 in Category 5—Part 2), having an RF output power limited to 0.1W (20 dBm) or less, and supporting 16 or fewer concurrent users; h. Routers, switches, gateways or relays, where the "information security" functionality is limited to the tasks of "Operations, Administration or Maintenance" ("OAM") implementing only published or commercial cryptographic standards; i. General purpose computing equipment or servers, where the "information security" functionality meets all of the following: i.1. Uses only published or commercial cryptographic standards; and i.2. Is any of the following: i.2.a. Integral to a CPU that meets the provisions of Note 3 in Category 5—Part 2; i.2.b. Integral to an operating system that is not specified by 5D002; or i.2.c. Limited to "OAM" of the equipment; or j. Items specially designed for a 'connected civil industry application', meeting all of the following: j.1. Being any of the following: j.1.a. A network-capable endpoint device meeting any of the following: j.1.a.1. The "information security" functionality is limited to securing 'non-arbitrary data' or the tasks of "Operations, Administration or Maintenance" ("OAM"); or j.1.a.2. The device is limited to a specific 'connected civil industry application'; or j.1.b. Networking equipment meeting all of the following: j.1.b.1. Being specially designed to communicate with the devices specified by paragraph j.1.a. above; and j.1.b.2. The "information security" functionality is limited to supporting the `connected civil industry application' of devices specified by paragraph j.1.a. above, or the tasks of "OAM" of this networking equipment or of other items specified by paragraph j. of this Note; and j.2. Where the "information security" functionality implements only published or commercial cryptographic standards, and the cryptographic functionality cannot easily be changed by the user.
+Technical Note to paragraph b. of Note 2: For the purposes of 5A002.a Note 2.b, 'money transactions' in 5A002 Note 2 paragraph b. includes the collection and settlement of fares or credit functions. c. Portable or mobile radiotelephones for civil use (e.g., for use with commercial civil cellular radio communication systems) that are not capable of transmitting encrypted data directly to another radiotelephone or equipment (other than Radio Access Network (RAN) equipment), nor of passing encrypted data through RAN equipment (e.g., Radio Network Controller (RNC) or Base Station Controller (BSC)); d. Cordless telephone equipment not capable of end-to-end encryption where the maximum effective range of unboosted cordless operation (i.e., a single, unrelayed hop between terminal and home base station) is less than 400 meters according to the manufacturer's specifications; e. Portable or mobile radiotelephones and similar client wireless devices for civil use, that implement only published or commercial cryptographic standards (except for anti-piracy functions, which may be non-published) and also meet the provisions of paragraphs a.2 to a.4 of the Cryptography Note (Note 3 in Category 5—Part 2), that have been customized for a specific civil industry application with features that do not affect the cryptographic functionality of these original non-customized devices; f. Items, where the "information security" functionality is limited to wireless "personal area network" functionality implementing only published or commercial cryptographic standards; g. Mobile telecommunications Radio Access Network (RAN) equipment designed for civil use, which also meet the provisions of paragraphs a.2 to a.4 of the Cryptography Note (Note 3 in Category 5—Part 2), having an RF output power limited to 0.1W (20 dBm) or less, and supporting 16 or fewer concurrent users; h. Routers, switches, gateways or relays, where the "information security" functionality is limited to the tasks of "Operations, Administration or Maintenance" ("OAM") implementing only published or commercial cryptographic standards; i. General purpose computing equipment or servers, where the "information security" functionality meets all of the following: i.1. Uses only published or commercial cryptographic standards; and i.2. Is any of the following: i.2.a. Integral to a CPU that meets the provisions of Note 3 in Category 5—Part 2; i.2.b. Integral to an operating system that is not specified by 5D002; or i.2.c. Limited to "OAM" of the equipment; or j. Items specially designed for a 'connected civil industry application', meeting all of the following: j.1. Being any of the following: j.1.a. A network-capable endpoint device meeting any of the following: j.1.a.1. The "information security" functionality is limited to securing 'non-arbitrary data' or the tasks of "Operations, Administration or Maintenance" ("OAM"); or j.1.a.2. The device is limited to a specific 'connected civil industry application'; or j.1.b. Networking equipment meeting all of the following: j.1.b.1. Being specially designed to communicate with the devices specified by paragraph j.1.a. above; and j.1.b.2. The "information security" functionality is limited to supporting the 'connected civil industry application' of devices specified by paragraph j.1.a. above, or the tasks of "OAM" of this networking equipment or of other items specified by paragraph j. of this Note; and j.2. Where the "information security" functionality implements only published or commercial cryptographic standards, and the cryptographic functionality cannot easily be changed by the user.
 Technical Notes: 1. For the purposes of 5A002.a Note 2.j, 'connected civil industry application' means a network-connected consumer or civil industry application other than "information security", digital communication, general purpose networking or computing. 2. For the purposes of 5A002.a Note 2.j.1.a.1, 'non-arbitrary data' means sensor or metering data directly related to the stability, performance or physical measurement of a system (e.g., temperature, pressure, flow rate, mass, volume, voltage, physical location, etc.), that cannot be changed by the user of the device.
 b. Being a 'cryptographic activation token';
-Technical Note: For the purposes of 5A002.b, a 'cryptographic activation token' is an item designed or modified for any of the following: 1. Converting, by means of "cryptographic activation", an item not specified by Category 5—Part 2 into an item specified by 5A002.a or 5D002.c.1, and not released by the Cryptography Note (Note 3 in Category 5—Part 2); or 2. Enabling by means of "cryptographic activation", additional functionality specified by 5A002.a of an item already specified by Category 5—Part 2; c. Designed or modified to use or perform "quantum cryptography";
+Technical Note: For the purposes of 5A002.b, a 'cryptographic activation token' is an item designed or modified for any of the following: 1. Converting, by means of "cryptographic activation", an item not specified by Category 5—Part 2 into an item specified by 5A002.a or 5D002.c.1, and not released by the Cryptography Note (Note 3 in Category 5—Part 2); or 2. Enabling by means of "cryptographic activation", additional functionality specified by 5A002.a of an item already specified by Category 5—Part 2;
+c. Designed or modified to use or perform "quantum cryptography";
 Technical Note: For the purposes of 5A002.c,"quantum cryptography" is also known as Quantum Key Distribution (QKD).
 d. Designed or modified to use cryptographic techniques to generate channelizing codes, scrambling codes or network identification codes, for systems using ultra-wideband modulation techniques and having any of the following:
 d.1. A bandwidth exceeding 500 MHz; or
@@ -8266,31 +9087,42 @@ d.2. A "fractional bandwidth" of 20% or more;
 e. Designed or modified to use cryptographic techniques to generate the spreading code for "spread spectrum" systems, not specified by 5A002.d, including the hopping code for "frequency hopping" systems.
 f. through y. [Reserved]
 z. Other commodities, as follows:
-z.1. Commodities that are described in 5A002.a and that also meet or exceed the performance parameters in 3A090 or 4A090;
-z.2. Commodities that are described in 5A002.b and that also meet or exceed the performance parameters in 3A090 or 4A090;
-z.3. Commodities that are described in 5A002.c and that also meet or exceed the performance parameters in 3A090 or 4A090;
-z.4. Commodities that are described in 5A002.d and that also meet or exceed the performance parameters in 3A090 or 4A090; or
-z.5. Commodities that are described in 5A002.e and that also meet or exceed the performance parameters in 3A090 or 4A090.
+z.1.a. Commodities that are described in 5A002.a and that also meet or exceed the performance parameters in 3A090.a or 4A090.a;
+z.1.b Commodities that are described in 5A002.a and that also meet or exceed the performance parameters in 3A090.b or 4A090.b;
+z.2.a Commodities that are described in 5A002.b and that also meet or exceed the performance parameters in 3A090.a or 4A090.a;
+z.2.b Commodities that are described in 5A002.b and that also meet or exceed the performance parameters in 3A090.b or 4A090.b;
+z.3.a Commodities that are described in 5A002.c and that also meet or exceed the performance parameters in 3A090.a or 4A090.a;
+z.3.b Commodities that are described in 5A002.c and that also meet or exceed the performance parameters in 3A090.b or 4A090.b;
+z.4.a Commodities that are described in 5A002.d and that also meet or exceed the performance parameters in 3A090.a or 4A090.a;
+z.4.b Commodities that are described in 5A002.d and that also meet or exceed the performance parameters in 3A090.b or 4A090.b;
+z.5.a Commodities that are described in 5A002.e and that also meet or exceed the performance parameters in 3A090.a or 4A090.a; or
+z.5.b Commodities that are described in 5A002.e and that also meet or exceed the performance parameters in 3A090.b or 4A090.b.
 5A992 Equipment not controlled by 5A002 (see List of Items Controlled)
 License Requirements
 Reason for Control: RS, AT
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-RS applies to items controlled by 5A992.z | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii) of the EAR.
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+RS applies to items controlled by 5A992.z.1 | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+RS applies to items controlled by 5A992.z.2 | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
 AT applies to entire entry | AT Column 1.
 License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating "information security" functionality, and associated "software" and "technology" for the "production" or "development" of such microprocessors.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
-NAC: Yes, for 5A992.z; N/A for all other 5A992 commodities.
+NAC/ACA: Yes, for 5A992.z.2; N/A for all other 5A992 commodities.
+AIA: Yes for 5A992.z.1
+ACM: Yes for 5A992.z
+LPP: Yes for 5A992.z.1
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 5A992.z.
 List of Items Controlled
-Related Controls: See also ECCNs 3A090 (including Note 4 to ECCN 3A090) and 4A090.
+Related Controls: See also ECCNs 3A090 and 4A090.
 Related Definitions: N/A
 Items:
 a. [Reserved]
 b. [Reserved]
 c. Commodities classified as mass market encryption commodities in accordance with § 740.17(b) of the EAR.
 d. through y. [Reserved]
-z. Commodities that are described in 5A992.c and that also meet or exceed the performance parameters in 3A090 or 4A090.
+z.1. Commodities that are described in 5A992.c and that also meet or exceed the performance parameters in 3A090.a or 4A090.a; or
+z.2 Commodities that are described in 5A992.c and that also meet or exceed the performance parameters in 3A090.b or 4A090.b.
 II. NON-CRYPTOGRAPHIC "INFORMATION SECURITY"
 5A003 "Systems," "equipment" and "components," for non-cryptographic "information security," as follows (see List of Items Controlled).
 License Requirements
@@ -8313,20 +9145,25 @@ III. DEFEATING, WEAKENING, OR BYPASSING "INFORMATION SECURITY"
 5A004 "Systems," "equipment" and "components" for defeating, weakening or bypassing "information security," as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, RS, AT, EI
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to entire entry (except 5A004.z) | NS Column 1.
-RS applies to items controlled by 5A004.z | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii) of the EAR.
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | NS Column 1.
+RS applies to items controlled by 5A004.z.1.a, z.2.a | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+RS applies to items controlled by 5A004.z.1.b, z.2.b | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
 AT applies to entire entry | AT Column 1.
 EI applies to entire entry | Refer to § 742.15 of the EAR.
-License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating "information security" functionality, and associated "software" and "technology" for the "production" or "development" of such microprocessors.
+License Requirements
+See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating "information security" functionality, and associated "software" and "technology" for the "production" or "development" of such microprocessors.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
-LVS: Yes: $500 for "components," except for 5A004.z.
-N/A for systems and equipment.
+LVS: Yes: $500 for "components"; N/A for 5A004.z. N/A for systems and equipment.
 GBS: N/A
-ENC: Yes for certain EI controlled commodities, except for 5A004.z. See § 740.17 of the EAR for eligibility.
-NAC: Yes, for 5A004.z; N/A for all other 5A004 commodities.
+ENC: Yes for certain EI controlled commodities. See § 740.17 of the EAR for eligibility.
+NAC/ACA: Yes, for 5A004.z.1.b, z.2.b
+AIA: Yes for 5A004.z.1.a, z.2.a
+ACM: Yes for 5A004.z
+LPP: Yes for 5A004.z.1.a, z.2.a
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 5A004.z.
 List of Items Controlled
-Related Controls: (1) ECCN 5A004.a controls "components" providing the means or functions necessary for "information security." All such "components" are presumptively "specially designed" and controlled by 5A004.a. (2) See also ECCNs 3A090 (including Note 4 to ECCN 3A090) and 4A090.
+Related Controls: (1) ECCN 5A004.a controls "components" providing the means or functions necessary for "information security." All such "components" are presumptively "specially designed" and controlled by 5A004.a. (2) See also ECCNs 3A090 and 4A090.
 Related Definitions: N/A
 Items:
 a. Designed or modified to perform 'cryptanalytic functions.'
@@ -8334,14 +9171,16 @@ Note: 5A004.a includes systems or equipment, designed or modified to perform 'cr
 Technical Note: For the purposes of 5A004.a, 'cryptanalytic functions' are functions designed to defeat cryptographic mechanisms in order to derive confidential variables or sensitive data, including clear text, passwords or cryptographic keys.
 b. Items, not specified by ECCNs 4A005 or 5A004.a, designed to perform all of the following:
 b.1. 'Extract raw data' from a computing or communications device; and
-b.2. Circumvent "authentication" or authorisation controls of the device, in order to perform the function described in 5A004.b.1.
+b.2. Circumvent "authentication" or authorization controls of the device, in order to perform the function described in 5A004.b.1.
 Technical Note: For the purposes of 5A004.b.1, 'extract raw data' from a computing or communications device means to retrieve binary data from a storage medium, e.g., RAM, flash or hard disk, of the device without interpretation by the device's operating system or filesystem.
 Note 1: 5A004.b does not apply to systems or equipment specially designed for the "development" or "production" of a computing or communications device.
 Note 2: 5A004.b does not include: a. Debuggers, hypervisors; b. Items limited to logical data extraction; c. Data extraction items using chip-off or JTAG; or d. Items specially designed and limited to jail-breaking or rooting.
 c. through y. [Reserved]
 z. Other commodities, as follows:
-z.1. Commodities that are described in 5A004.a and that also meet or exceed the performance parameters in 3A090 or 4A090; or
-z.2. Commodities that are described in 5A004.b and that also meet or exceed the performance parameters in 3A090 or 4A090.
+z.1.a Commodities that are described in 5A004.a and that also meet or exceed the performance parameters in 3A090.a or 4A090.a;
+z.1.b Commodities that are described in 5A004.a and that also meet or exceed the performance parameters in 3A090.b or 4A090.b;
+z.2.a Commodities that are described in 5A004.b and that also meet or exceed the performance parameters in 3A090.a or 4A090.a; or
+z.2.b Commodities that are described in 5A004.b and that also meet or exceed the performance parameters in 3A090.b or 4A090.b.
 B. Test, Inspection and "Production Equipment"
 5B002 "Information Security" test, inspection and "production" equipment, as follows (see List of Items Controlled).
 License Requirements
@@ -8364,18 +9203,22 @@ D. "Software"
 5D002 "Software" as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, RS, AT, EI
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to entire entry (except 5D002.z) | NS Column 1.
-RS applies to "software" controlled by 5D002.z | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii) of the EAR.
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | NS Column 1.
+RS applies to "software" controlled by 5D002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a, z.6.a, z.7.a, z.8.a, and z.9.a | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+RS applies to "software" controlled by 5D002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b, z.6.b, z.7.b, z.8.b, and z.9.b | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
 AT applies to entire entry | AT Column 1.
 EI applies to "software" in 5D002.a.1, a.3,.b, c.1 and c.3, for commodities or "software" controlled for EI reasons in ECCN 5A002, 5A004 or 5D002 | Refer to § 742.15 of the EAR. Note: Encryption software is controlled because of its functional capacity, and not because of any informational value of such software; such software is not accorded the same treatment under the EAR as other "software'; and for export licensing purposes, encryption software is treated under the EAR in the same manner as a commodity included in ECCN 5A002.
 License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating "information security" functionality, and associated "software" and "technology" for the "production" or "development" of such microprocessors.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 TSR: N/A
-ENC: Yes for certain EI controlled software, except for 5D002.z. See § 740.17 of the EAR for eligibility.
-NAC: Yes, for 5D002.z; N/A for all other 5D002 software.
+ENC: Yes for certain EI controlled software. See § 740.17 of the EAR for eligibility.
+NAC/ACA: Yes, for 5D002.z.
+AIA: Yes for 5D002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a, z.6.a, z.7.a, z.8.a, and z.9.a
+ACM: Yes for 5D002.z
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 5D002.z.
 List of Items Controlled
-Related Controls: (1) After classification or self-classification in accordance with § 740.17(b) of the EAR, mass market encryption software that meets eligibility requirements is released from "EI" and "NS" controls. This software is designated as 5D992.c. (2) See also ECCNs 3D001.z and 4D001.z. (3) See also Note 4 to ECCN 3A090.
+Related Controls: (1) After classification or self-classification in accordance with § 740.17(b) of the EAR, mass market encryption software that meets eligibility requirements is released from "EI" and "NS" controls. This software is designated as 5D992.c. (2) See also ECCNs 3D001 as it applies to "software" for commodities controlled by 3A001.z and 3A090, and 4D001 as it applies to "software" for commodities controlled by 4A003.z, 4A004.z, and 4A005.z.
 Related Definitions: 5D002.a controls "software" designed or modified to use "cryptography" employing digital or analog techniques to ensure "information security."
 Items:
 a. "Software" "specially designed" or modified for the "development," "production" or "use" of any of the following:
@@ -8397,47 +9240,65 @@ d. [Reserved]
 N.B.: See 5D002.b for items formerly specified in 5D002.d.
 e. through y. [Reserved]
 z. Other software, as follows:
-z.1. Software that is described in 5D002.a.1, and that also meet or exceed the performance parameters in 3D001 for 3A090 or 4D001 for 4A090;
-z.2. Software that is described in 5D002.a.2, and that also meet or exceed the performance parameters in 3D001 for 3A090 or 4D001 for 4A090;
-z.3. Software that is described in 5D002.a.3a, and that also meet or exceed the performance parameters in 3D001 for 3A090 or 4D001 for 4A090;
-z.4. Software that is described in 5D002.a.3.b, and that also meet or exceed the performance parameters in 3D001 for 3A090 or 4D001 for 4A090;
-z.5. Software that is described in 5D002.b and that also meet or exceed the performance parameters in 3D001 for 3A090 or 4D001 for 4A090;
-z.6 Software that is described in 5D002.c.1 and that also meet or exceed the performance parameters in 3D001 for 3A090 or 4D001 for 4A090;
-z.7 Software that is described in 5D002.c.2 and that also meet or exceed the performance parameters in 3D001 for 3A090 or 4D001 for 4A090;
-z.8 Software that is described in 5D002.c.3.a and that also meet or exceed the performance parameters in 3D001 for 3A090 or 4D001 for 4A090; or
-z.9 Software that is described in 5D002.c.3.b and that also meet or exceed the performance parameters in 3D001 for 3A090 or 4D001 for 4A090.
+z.1.a Software that is described in 5D002.a.1, and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a;
+z.1.b Software that is described in 5D002.a.1, and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b;
+z.2.a Software that is described in 5D002.a.2, and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a;
+z.2.b Software that is described in 5D002.a.2, and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b;
+z.3.a Software that is described in 5D002.a.3a, and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a;
+z.3.b Software that is described in 5D002.a.3a, and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b;
+z.4.a Software that is described in 5D002.a.3.b, and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a;
+z.4.b Software that is described in 5D002.a.3.b, and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b;
+z.5.a Software that is described in 5D002.b and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a;
+z.5.b Software that is described in 5D002.b and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b;
+z.6.a Software that is described in 5D002.c.1 and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a;
+z.6.b Software that is described in 5D002.c.1 and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b;
+z.7.a Software that is described in 5D002.c.2 and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a;
+z.7.b Software that is described in 5D002.c.2 and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b;
+z.8.a Software that is described in 5D002.c.3.a and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a;
+z.8.b Software that is described in 5D002.c.3.a and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b;
+z.9.a Software that is described in 5D002.c.3.b and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a; or
+z.9.b Software that is described in 5D002.c.3.b and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b.
 5D992 "Information Security" "software," not controlled by 5D002, as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: RS, AT
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-RS applies to "software" controlled by 5D992.z | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii) of the EAR.
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+RS applies to "software" controlled by 5D992.z.1 | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+RS applies to "software" controlled by 5D992.z.2 | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
 AT applies to entire entry | AT Column 1.
 License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating "information security" functionality, and associated "software" and "technology" for the "production" or "development" of such microprocessors.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 TSR: N/A
-NAC: Yes, for 5D992.z; N/A for all other 5D992.z software.
+NAC/ACA: Yes, for 5D992.z.
+AIA: Yes for 5D992.z.1
+ACM: Yes for 5D992.z
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 5D992.z.
 List of Items Controlled
-Related Controls: (1) This entry does not control "software" designed or modified to protect against malicious computer damage, e.g., viruses, where the use of "cryptography" is limited to authentication, digital signature and/or the decryption of data or files. (2) See also ECCNs 3D001.z and 4D001.z. (3) See also Note 4 to ECCN 3A090.
+Related Controls: (1) This entry does not control "software" designed or modified to protect against malicious computer damage, e.g., viruses, where the use of "cryptography" is limited to authentication, digital signature and/or the decryption of data or files. (2) See also ECCNs 3D001 as it applies to "software" for commodities controlled by 3A001.z and 3A090, and 4D001 as it applies to "software" for commodities controlled by 4A003.z, 4A004.z, and 4A005.z.
 Related Definitions: N/A
 Items:
 a. [Reserved]
 b. [Reserved]
 c. "Software" classified as mass market encryption software in accordance with § 740.17(b) of the EAR.
 d. through y. [Reserved]
-z. Other software that is described in 5D992 and that also meet or exceed the performance parameters in 3D001 for 3A090 or 4D001 for 4A090.
+z.1 Other software that is described in 5D992 and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a; or
+z.2 Other software that is described in 5D992 and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b.
 E. "Technology"
 5E002 "Technology" as follows (see List of Items Controlled).
 License Requirements
-Reason for Control: NS, AT, EI
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to entire entry (except "technology" for commodities controlled by 5A002.z or 5A004.z or "software" specified by 5D002 (for 5A002.z or 5A004.z commodities) | NS Column 1.
-RS applies to "technology" for commodities controlled by 5A002.z or 5A004.z or "software" specified by 5D002 (for 5A002.z or 5A004.z commodities) | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii) of the EAR.
+Reason for Control: NS, RS, AT, EI
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | NS Column 1.
+RS applies to "technology" for commodities controlled by 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a or "software" specified by 5D002 (for 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a commodities) | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+RS applies to "technology" for commodities controlled by 5A002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b or 5A004.z.1.b, z.2.b or "software" specified by 5D002 (for 5A002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b or 5A004.z.1.b, z.2.b commodities) | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
 AT applies to entire entry | AT Column 1.
 EI applies to "technology" in 5E002.a for commodities or "software" controlled for EI reasons in ECCNs 5A002, 5A004 or 5D002, and to "technology" in 5E002.b | Refer to § 742.15 of the EAR.
 License Requirements Notes: (1) See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating "information security" functionality, and associated "software" and "technology" for the "production" or "development" of such microprocessors. (2) When a person performs or provides technical assistance that incorporates, or otherwise draws upon, "technology" that was either obtained in the United States or is of U.S.-origin, then a release of the "technology" takes place. Such technical assistance, when rendered with the intent to aid in the "development" or "production" of encryption commodities or software that would be controlled for "EI" reasons under ECCN 5A002, 5A004 or 5D002, may require authorization under the EAR even if the underlying encryption algorithm to be implemented is from the public domain or is not of U.S.-origin.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 TSR: N/A
 ENC: Yes for certain EI controlled technology. See § 740.17 of the EAR for eligibility.
+AIA: Yes for "technology" for commodities controlled by 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a or "software" specified by 5D002 (for 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a commodities)
+ACM: Yes for "technology" for commodities controlled by 5A002.z or 5A004.z or "software" specified by 5D002 (for 5A002.z or 5A004.z commodities
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for technology for.z paragraphs under ECCNs 5A002, 5A004 or "software" specified by 5D002 (for 5A002.z or 5A004.z commodities).
 List of Items Controlled
 Related Controls: See also 5E992. This entry does not control "technology" "required" for the "use" of equipment excluded from control under the Related Controls paragraph or the Technical Notes in ECCN 5A002 or "technology" related to equipment excluded from control under ECCN 5A002.
 Related Definitions: N/A
@@ -8448,13 +9309,18 @@ b. "Technology" having the characteristics of a 'cryptographic activation token'
 Note: 5E002 includes "information security" technical data resulting from procedures carried out to evaluate or determine the implementation of functions, features or techniques specified in Category 5—Part 2.
 5E992 "Information Security" "technology" according to the General Technology Note, not controlled by 5E002, as follows (see List of Items Controlled).
 License Requirements
-Reason for Control: AT
-Control(s) | Country chart (see Supp. No. 1 to part 738)
-RS applies to "technology" for commodities controlled by 5A992.z or "software" controlled by 5D992.z | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii) of the EAR.
+Reason for Control: RS, AT
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+RS applies to "technology" for commodities controlled by 5A992.z.1 or "software" controlled by 5D992.z.1 | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+RS applies to "technology" for commodities controlled by 5A992.z.2 or "software" controlled by 5D992.z.2 | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
 AT applies to entire entry | AT Column 1.
 License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating "information security" functionality, and associated "software" and "technology" for the "production" or "development" of such microprocessors.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 TSR: N/A
+NAC/ACA: N/A
+AIA: Yes for "technology" for commodities controlled by 5A992.z.1 or "software" controlled by 5D992.z.1
+ACM: Yes for "technology" for commodities controlled by 5A992.z or "software" controlled by 5D992.z
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for technology for.z paragraphs under "technology" for commodities controlled by 5A992.z or "software" controlled by 5D992.z.
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
@@ -8690,9 +9556,7 @@ b.2.a. Providing output imaging data in digital format; and
 b.2.b. Having any of the following characteristics:
 b.2.b.1. "Space-qualified"; or
 b.2.b.2. Designed for airborne operation, using other than silicon detectors, and having an IFOV of less than 2.5 mrad (milliradians);
-Note: 6A002.b.1 does not control "monospectral imaging sensors" with a peak response in the wavelength range exceeding 300 nm but not exceeding 900 nm and only incorporating any of the following non-"space-qualified" detectors or non -"space-qualified" "focal plane arrays":
-a. Charge Coupled Devices (CCD) not designed or modified to achieve 'charge multiplication'; or
-b. Complementary Metal Oxide Semiconductor (CMOS) devices not designed or modified to achieve 'charge multiplication'.
+Note: 6A002.b.1 does not control "monospectral imaging sensors" with a peak response in the wavelength range exceeding 300 nm but not exceeding 900 nm and only incorporating any of the following non-"space-qualified" detectors or non -"space-qualified" "focal plane arrays": a. Charge Coupled Devices (CCD) not designed or modified to achieve 'charge multiplication'; or b. Complementary Metal Oxide Semiconductor (CMOS) devices not designed or modified to achieve 'charge multiplication'.
 c. 'Direct view' imaging equipment incorporating any of the following:
 c.1. Image intensifier tubes having the characteristics listed in 6A002.a.2.a or 6A002.a.2.b;
 c.2. "Focal plane arrays" having the characteristics listed in 6A002.a.3; or
@@ -8711,9 +9575,8 @@ f. 'Read-Out Integrated Circuits' ('ROIC') "specially designed" for "focal plane
 Note: 6A002.f does not apply to read-out integrated circuits "specially designed" for civil automotive applications.
 Technical Note: For the purposes of 6A002.f, a 'Read-Out Integrated Circuit' ('ROIC') is an integrated circuit designed to underlie or be bonded to a "focal plane array" ("FPA") and used to read-out (i.e., extract and register) signals produced by the detector elements. At a minimum the 'ROIC' reads the charge from the detector elements by extracting the charge and applying a multiplexing function in a manner that retains the relative spatial position and orientation information of the detector elements for processing inside or outside the 'ROIC'.
 6A003 Cameras, systems or equipment, and "components" therefor, as follows (see List of Items Controlled).
-License Requirements
 Reason for Control: NS, NP, RS, AT, UN
-Control(s) | Country chart (see supp. No. 1 to part 738)
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
 NS applies to entire entry | NS Column 2
 NP applies to cameras controlled by 6A003.a.3 or a.4 and to plug-ins in 6A003.a.6 for cameras controlled by 6A003.a.3 or a.4 | NP Column 1
 RS applies to 6A003.b.3, 6A003.b.4.a, 6A003.b.4.c and to items controlled in 6A003.b.4.b that have a frame rate greater than 60 Hz or that incorporate a focal plane array with more than 111,000 elements, or to items in 6A003.b.4.b when being exported or reexported to be embedded in a civil product. (But see § 742.6(a)(2)(iii) and (v) for certain exemptions) | RS Column 1
@@ -8724,13 +9587,13 @@ License Requirement Note: Commodities that are not subject to the ITAR but are o
 Reporting Requirements
 See § 743.3 of the EAR for thermal camera reporting for exports that are not authorized by an individually validated license of thermal imaging cameras controlled by ECCN 6A003.b.4.b to destinations in Country Group A:1 (see Supplement No. 1 to part 740 of the EAR), must be reported to BIS.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
-LVS: $1,500, except N/A for 6A003.a.3 through a.6, b.1, b.3 and b.4
+LVS: $1500, except N/A for 6A003.a.3 through a.6, b.1, b.3 and b.4.
 GBS: N/A
 Special Conditions for STA
-STA: License Exception STA may not be used to ship any commodity in 6A003.b.3 or b.4 to any of the destinations listed in Country Group A:6 (See Supplement No. 1 to part 740 of the EAR).
+STA: License Exception STA may not be used to ship any commodity in 6A003.b.3 or b.4 to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR).
 List of Items Controlled
-Related Controls: (1) See ECCNs 6E001 ("development"), 6E002 ("production"), and 6E201 ("use") for technology for items controlled under this entry. (2) Also see ECCN 6A203. (3) See ECCN 0A919 for foreign made military commodities that incorporate cameras described in 6A003. (4) Section 744.9 imposes a license requirement on cameras described in 6A003 if being exported, reexported, or transferred (in-country) for use by a military end-user or for incorporation into a commodity controlled by ECCN 0A919. (5) See USML Category XII(c) and (e) for cameras subject to the ITAR.
-Related Definitions: N/A.
+Related Controls: (1) See ECCNs 6E001 ("development"), 6E002 ("production"), and 6E201 ("use") for technology for items controlled under this entry. (2) Also see ECCN 6A203. (3) See ECCN 0A919 for foreign made military commodities that incorporate cameras described in 6A003. (4) Section 744.9 imposes a license requirement on cameras described in 6A003 if being exported, reexported, or transferred (in-country) for use by certain military end-users or for incorporation into a commodity controlled by ECCN 0A919. (5) See USML Category XII(c) and (e) for cameras subject to the ITAR. (6) Also see ECCN 6A293.
+Related Definitions: N/A
 Items:
 a. Instrumentation cameras and "specially designed" "components" therefor, as follows:
 Note: Instrumentation cameras, controlled by 6A003.a.3 to 6A003.a.5, with modular structures should be evaluated by their maximum capability, using plug-ins available according to the camera manufacturer's specifications.
@@ -8748,9 +9611,9 @@ b. Imaging cameras as follows:
 Note: 6A003.b does not control television or video cameras "specially designed" for television broadcasting.
 b.1. Video cameras incorporating solid state sensors, having a peak response in the wavelength range exceeding 10 nm, but not exceeding 30,000 nm and having all of the following:
 b.1.a. Having any of the following:
-b.1.a.1. More than 4 × 10 6 "active pixels" per solid state array for monochrome (black and white) cameras;
-b.1.a.2. More than 4 × 10 6 "active pixels" per solid state array for color cameras incorporating three solid state arrays; or
-b.1.a.3. More than 12 × 10 6 "active pixels" for solid state array color cameras incorporating one solid state array; and
+b.1.a.1. More than 4 x 10 6 "active pixels" per solid state array for monochrome (black and white) cameras;
+b.1.a.2. More than 4 x 10 6 "active pixels" per solid state array for color cameras incorporating three solid state arrays; or
+b.1.a.3. More than 12 x 10 6 "active pixels" for solid state array color cameras incorporating one solid state array; and
 b.1.b. Having any of the following:
 b.1.b.1. Optical mirrors controlled by 6A004.a.;
 b.1.b.2. Optical control equipment controlled by 6A004.d.; or
@@ -8760,17 +9623,17 @@ b.2. Scanning cameras and scanning camera systems, having all of the following:
 b.2.a. A peak response in the wavelength range exceeding 10 nm, but not exceeding 30,000 nm;
 b.2.b. Linear detector arrays with more than 8,192 elements per array; and
 b.2.c. Mechanical scanning in one direction;
-Note: 6A003.b.2 does not apply to scanning cameras and scanning camera systems, "specially designed" for any of the following: a. Industrial or civilian photocopiers; b. Image scanners "specially designed" for civil, stationary, close proximity scanning applications (e.g., reproduction of images or print contained in documents, artwork or photographs); or c. Medical equipment.
+Note: 6A003.b.2 does not apply to scanning cameras and scanning camera systems, "specially designed" for any of the following: a. Industrial or civilian photocopiers; b. Image scanners "specially designed" for civil, stationary, close proximity scanning applications (e.g., reproduction of images or print contained in documents, artwork, or photographs); or c. Medical equipment.
 b.3. Imaging cameras incorporating image intensifier tubes having the characteristics listed in 6A002.a.2.a or 6A002.a.2.b;
 b.4. Imaging cameras incorporating "focal plane arrays" having any of the following:
 b.4.a. Incorporating "focal plane arrays" controlled by 6A002.a.3.a to 6A002.a.3.e;
 b.4.b. Incorporating "focal plane arrays" controlled by 6A002.a.3.f; or
 b.4.c. Incorporating "focal plane arrays" controlled by 6A002.a.3.g;
 Note 1: Imaging cameras described in 6A003.b.4 include "focal plane arrays" combined with sufficient "signal processing" electronics, beyond the read out integrated circuit, to enable as a minimum the output of an analog or digital signal once power is supplied.
-Note 2: 6A003.b.4.a does not control imaging cameras incorporating linear "focal plane arrays" with 12 elements or fewer, not employing time-delay-and-integration within the element and designed for any of the following: a. Industrial or civilian intrusion alarm, traffic or industrial movement control or counting systems; b. Industrial equipment used for inspection or monitoring of heat flows in buildings, equipment or industrial processes; c. Industrial equipment used for inspection, sorting or analysis of the properties of materials; d. Equipment "specially designed" for laboratory use; or e. Medical equipment.
+Note 2: 6A003.b.4.a does not control imaging cameras incorporating linear "focal plane arrays" with 12 elements or fewer, not employing time-delay-and-integration within the element and designed for any of the following: a. Industrial or civilian intrusion alarm, traffic or industrial movement control or counting systems; b. Industrial equipment used for inspection or monitoring of heat flows in buildings, equipment, or industrial processes; c. Industrial equipment used for inspection, sorting or analysis of the properties of materials; d. Equipment "specially designed" for laboratory use; or e. Medical equipment.
 Note 3: 6A003.b.4.b does not control imaging cameras having any of the following: a. A maximum frame rate equal to or less than 9 Hz; b. Having all of the following: 1. Having a minimum horizontal or vertical 'Instantaneous-Field-of-View (IFOV)' of at least 2 mrad (milliradians); 2. Incorporating a fixed focal-length lens that is not designed to be removed; 3. Not incorporating a 'direct view' display; and
 Technical Note: For the purposes of 6A003.b.4 Note 3.b.3, 'direct view' refers to an imaging camera operating in the infrared spectrum that presents a visual image to a human observer using a near-to-eye micro display incorporating any light-security mechanism. 4. Having any of the following: a. No facility to obtain a viewable image of the detected field-of-view; or b. The camera is designed for a single kind of application and designed not to be user modified; or
-Technical Note: For the purposes of 6A003.b.4 Note 3.b.1, 'Instantaneous-Field-of-View (IFOV)' is the lesser figure of the 'Horizontal IFOV' or the 'Vertical IFOV'. 'Horizontal IFOV' = horizontal Field-of-View (FOV)/number of horizontal detector elements. 'Vertical IFOV' = vertical Field-of-View (FOV)/number of vertical detector elements. c. The camera is "specially designed" for installation into a civilian passenger land vehicle and having all of the following: 1. The placement and configuration of the camera within the vehicle are solely to assist the driver in the safe operation of the vehicle; 2. Is operable only when installed in any of the following: a. The civilian passenger land vehicle for which it was intended and the vehicle weighs less than 4,500 kg (gross vehicle weight); or b. A "specially designed", authorized maintenance test facility; and 3. Incorporates an active mechanism that forces the camera not to function when it is removed from the vehicle for which it was intended.
+Technical Note: For the purposes of 6A003.b.4 Note 3.b.1, 'Instantaneous-Field-of-View (IFOV)' is the lesser figure of the 'Horizontal IFOV' or the 'Vertical IFOV'. 'Horizontal IFOV' = horizontal Field-of-View (FOV)/number of horizontal detector elements 'Vertical IFOV'= vertical Field-of-View (FOV)/number of vertical detector elements. c. The camera is "specially designed" for installation into a civilian passenger land vehicle and having all of the following: 1. The placement and configuration of the camera within the vehicle are solely to assist the driver in the safe operation of the vehicle; 2. Is operable only when installed in any of the following: a. The civilian passenger land vehicle for which it was intended and the vehicle weighs less than 4,500 kg (gross vehicle weight); or b. A "specially designed", authorized maintenance test facility; and 3. Incorporates an active mechanism that forces the camera not to function when it is removed from the vehicle for which it was intended.
 Note: When necessary, details of the items will be provided, upon request, to the Bureau of Industry and Security in order to ascertain compliance with the conditions described in Note 3.b.4 and Note 3.c in this Note to 6A003.b.4.b.
 Note 4: 6A003.b.4.c does not apply to 'imaging cameras' having any of the following characteristics: a. Having all of the following: 1. Where the camera is "specially designed" for installation as an integrated component into indoor and wall-plug-operated systems or equipment, limited by design for a single kind of application, as follows: a. Industrial process monitoring, quality control, or analysis of the properties of materials; b. Laboratory equipment "specially designed" for scientific research; c. Medical equipment; d. Financial fraud detection equipment; and 2. Is only operable when installed in any of the following: a. The system(s) or equipment for which it was intended; or b. A "specially designed," authorized maintenance facility; and 3. Incorporates an active mechanism that forces the camera not to function when it is removed from the system(s) or equipment for which it was intended; b. Where the camera is "specially designed" for installation into a civilian passenger land vehicle or passenger and vehicle ferries and having all of the following: 1. The placement and configuration of the camera within the vehicle or ferry are solely to assist the driver or operator in the safe operation of the vehicle or ferry; 2. Is only operable when installed in any of the following: a. The civilian passenger land vehicle for which it was intended and the vehicle weighs less than 4,500 kg (gross vehicle weight); b. The passenger and vehicle ferry for which it was intended and having a length overall (LOA) 65 m or greater; or c. A "specially designed", authorized maintenance test facility; and 3. Incorporates an active mechanism that forces the camera not to function when it is removed from the vehicle for which it was intended; c. Limited by design to have a maximum "radiant sensitivity" of 10 mA/W or less for wavelengths exceeding 760 nm, having all of the following: 1. Incorporating a response limiting mechanism designed not to be removed or modified; and 2. Incorporates an active mechanism that forces the camera not to function when the response limiting mechanism is removed; and 3. Not "specially designed" or modified for underwater use; or d. Having all of the following: 1. Not incorporating a 'direct view' or electronic image display; 2. Has no facility to output a viewable image of the detected field of view; 3. The "focal plane array" is only operable when installed in the camera for which it was intended; and 4. The "focal plane array" incorporates an active mechanism that forces it to be permanently inoperable when removed from the camera for which it was intended.
 Note: When necessary, details of the item will be provided, upon request, to the Bureau of Industry and Security in order to ascertain compliance with the conditions described in Note 4 above.
@@ -9287,15 +10150,15 @@ b. Anode pulse rise time of less than 1 ns.
 License Requirements
 Reason for Control: NP, AT
 Control(s) | Country chart (see Supp. No. 1 to part 738)
-NP applies to entire entry | NP Column 1
-AT applies to entire entry | AT Column 1
-List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+NP applies to entire entry | NP Column 1.
+AT applies to entire entry | AT Column 1.
 LVS: N/A
 GBS: N/A
 List of Items Controlled
-Related Controls: (1) See ECCNs 6E001 ("development"), 6E002 ("production"), and 6E201 ("use") for technology for items controlled under this entry. (2) Also see ECCN 6A003.a.3, and a.4.
+Related Controls: (1) See ECCNs 6E001 ("development"), 6E002 ("production"), and 6E201 ("use") for technology for items controlled under this entry. (2) Also see ECCN 6A003.a.3 and a.4. (3) The act of incorporating a radiation hardened integrated circuit into a TV camera designated as EAR99 does not, in and of itself, cause the TV camera to meet the parameters of ECCN paragraph 6A203.d.
 Related Definitions: N/A
-Items: a. Streak cameras and "specially designed" components therefor, as follows:
+Items:
+a. Streak cameras and "specially designed" components therefor, as follows:
 a.1. Streak cameras with writing speeds greater than 0.5 mm/µs;
 a.2. Electronic streak cameras capable of 50 ns or less time resolution;
 a.3. Streak tubes for cameras described in 6A203.a.2;
@@ -9399,14 +10262,33 @@ Related Controls: See ECCNs 6E001 ("development"), 6E002 ("production"), and 6E2
 Related Definitions: N/A
 Items: a. Shock pressure gauges capable of measuring pressures greater than 10 GPa (100 kilobars), including gauges made with manganin, ytterbium, and polyvinylidene bifluoride (PVBF, PVF 2);
 b. Quartz pressure transducers for pressures greater than 10 GPa (100 kilobars).
+6A293 Cameras not classified ECCNs 6A003 or 6A203 with all the following characteristics: (see List of Items Controlled).
+License Requirements
+Reason for Control: NP, AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NP applies to entire entry | NP Column 1
+AT applies to entire entry | AT Column 1
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+LVS: N/A
+GBS: N/A
+Special Conditions for STA
+STA: License Exception STA (§ 740.20 of the EAR) may not be used for ECCN 6A293.
+List of Items Controlled
+Related Controls: See ECCNs 6A003 and 6A203.
+Related Definitions: N/A
+Items:
+a. Minimum exposure time of 1 microsecond or faster, and
+b. a throughput of 13.43 Giga Pixels/s or greater when taken at 205,000 frames/s.
+Technical Note: Throughput = Width (pixels) x Height (pixels) x Frames per Second. The width and Height in pixels are those that are achieved at 205,000 frames per second.
+Note: This entry includes cameras which may be referred to as high-speed digital imaging cameras, high-speed video cameras or slow-motion cameras or any other camera that meets these parameters.
 6A611 Acoustic systems and equipment, radar, and "parts," "components," "accessories," and "attachments" "specially designed" therefor, "specially designed" for a military application that are not enumerated in any USML category or other ECCN are controlled by ECCN 3A611. Military fire control, laser, imaging, and guidance equipment that are not enumerated in any USML category or ECCN are controlled by ECCN 7A611.
 6A991 Marine or terrestrial acoustic equipment, n.e.s., capable of detecting or locating underwater objects or features or positioning surface vessels or underwater vehicles; and "specially designed" "parts" and "components," n.e.s.
 License Requirements
 Reason for Control: AT, foreign policy
 Control(s) | Country chart (see Supp. No. 1 to part 738)
-AT applies to entire entry | AT Column 2
-Russian industry sector sanctions apply to entire entry | See § 746.5 for specific license requirements and license review policy.
-List Based License Exceptions (See Part 740 for a description of all license exceptions)
+AT applies to entire entry | AT Column 2.
+Russian industry sector sanctions apply to entire entry | See § 746.8 for specific license requirements and license review policy.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
@@ -9527,18 +10409,20 @@ f.2. An average or CW output power exceeding 1 W.
 g. Free electron "lasers".
 6A996 "Magnetometers" not controlled by ECCN 6A006, "Superconductive" electromagnetic sensors, and "specially designed" "components" therefor, as follows (see List of Items Controlled).
 License Requirements
-Reason for Control: AT
-Control(s) | Country Chart (See Supp. No. 1 to part 738)
-AT applies to entire entry | AT Column 1
-List Based License Exceptions (See Part 740 for a description of all license exceptions)
+Reason for Control: RS, AT
+Control(s) | Country chart (see supp. no. 1 to part 738)
+RS applies to entire entry. | A license is required for items controlled by this entry for export or reexport to Pakistan or transfer within Pakistan for regional stability reasons. The Commerce Country Chart is not designed to determine RS license requirements for this entry. See § 742.6(a)(12) of the EAR for additional information.
+AT applies to entire entry | AT Column 1.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: a. "Magnetometers", n.e.s., having a 'sensitivity' lower (better) than 1.0 nT (rms) per square root Hz.
+Items:
+a. "Magnetometers", n.e.s., having a 'sensitivity' lower (better) than 1.0 nT (rms) per square root Hz.
 Technical Note: For the purposes of 6A996, 'sensitivity' (noise level) is the root mean square of the device-limited noise floor which is the lowest signal that can be measured.
-b. "Superconductive" electromagnetic sensors, "components" manufactured from "superconductive" materials:
+b. "Superconductive" electromagnetic sensors, "components" manufactured from "superconductive" materials and having all the following:
 b.1. Designed for operation at temperatures below the "critical temperature" of at least one of their "superconductive" constituents (including Josephson effect devices or "superconductive" quantum interference devices (SQUIDS));
 b.2. Designed for sensing electromagnetic field variations at frequencies of 1 KHz or less; and
 b.3. Having any of the following characteristics:
@@ -9580,19 +10464,20 @@ c.1. Operates at a frequency of 94 GHz;
 c.2. An average output power of less than 20 mW;
 c.3. Radar beam width of 1 degree; and
 c.4. Operating range equal to or greater than 1500 m.
-6A999 Specific Processing Equipment, as Follows (See List of Items Controlled).
+6A999 Specific processing equipment, as follows (see List of Items Controlled).
 License Requirements
-Reason for Control: RS, AT
-Control(s) | Country chart (See Supp. No. 1 to part 738)
-RS applies to 6A999.c | RS Column 2
-AT applies to entire entry. A license is required for items controlled by this entry to North Korea for anti-terrorism reasons. The Commerce Country Chart is not designed to determine AT licensing requirements for this entry. See § 742.19 of the EAR for additional information.
-List Based License Exceptions (See Part 740 for a description of all license exceptions)
+Reason for Control: RS AT
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+RS applies to 6A999.c | RS Column 2.
+AT applies to entire entry | A license is required for items controlled by this entry to North Korea for anti-terrorism reasons. The Commerce Country Chart is not designed to determine AT licensing requirements for this entry. See § 742.19 of the EAR for additional information.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
-Related Controls: See also 6A203.
+Related Controls: (1) The act of incorporating a radiation hardened integrated circuit into a TV camera designated as EAR99 does not, in and of itself, cause the TV camera to meet the specifications of ECCN paragraph 6A999.b. (2) See also 6A203.
 Related Definitions: N/A
-Items: a. Seismic detection equipment not controlled in paragraph c.
+Items:
+a. Seismic detection equipment not controlled in paragraph c.
 b. Radiation hardened TV cameras, n.e.s.
 c. Seismic intrusion detection systems that detect, classify and determine the bearing on the source of a detected signal.
 B. "Test", "Inspection" and "Production Equipment"
@@ -9902,7 +10787,7 @@ TSR: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 6D103 "Software" that processes post-flight, recorded data, enabling determination of vehicle position throughout its flight path, "specially designed" or modified for "missiles".
 License Requirements
 Reason for Control: MT, AT
@@ -10159,7 +11044,7 @@ c. "Technology" for the "development" or "production" of cameras controlled by 6
 d. "Technology" "required" for the "development" or "production" of non-triaxial fluxgate "magnetometers" or non-triaxial fluxgate "magnetometer" systems, having any of the following:
 d.1. 'Sensitivity' lower (better) than 0.05 nT (rms) per square root Hz at frequencies of less than 1 Hz; or
 d.2. 'Sensitivity' lower (better) than 1 × 10 −3 nT (rms) per square root Hz at frequencies of 1 Hz or more.
-e. "Technology" "required" for the "development" or "production" of infrared up-conversion devices having all of the following:
+e. "Technology" "required" for the "development" or "production" of infrared up- conversion devices having all of the following:
 e.1. A response in the wavelength range exceeding 700 nm but not exceeding 1500 nm; and
 e.2. A combination of an infrared photodetector, light emitting diode (OLED), and nanocrystal to convert infrared light into visible light.
 Technical Note: For the purposes of 6E993, 'sensitivity' (or noise level) is the root mean square of the device-limited noise floor which is the lowest signal that can be measured.
@@ -10377,7 +11262,7 @@ List of Items Controlled
 Related Controls: (1) See USML Categories IV and XV for certain 'star trackers' that are "subject to the ITAR" (see 22 CFR parts 120 through 130). (2) This entry controls "specially designed" "parts" and "components" for gyro-astro compasses and other devices controlled by 7A004.
 Related Definitions: N/A
 Items: The list of items controlled is contained in the ECCN heading.
-7A105 Receiving equipment for `navigation satellite systems', having any of the following characteristics (see List of Items Controlled), and "specially designed" "parts" and "components" therefor.
+7A105 Receiving equipment for 'navigation satellite systems', having any of the following characteristics (see List of Items Controlled), and "specially designed" "parts" and "components" therefor.
 License Requirements
 Reason for Control: MT, AT
 Control(s) | Country chart (See Supp. No. 1 to part 738)
@@ -10388,7 +11273,7 @@ LVS: N/A
 GBS: N/A
 List of Items Controlled
 Related Controls: (1) See also 7A005, 7A611 and 7A994. (2) See USML Category XII(d) for GNSS receiving equipment subject to the ITAR and USML Category XI(c)(10) for antennae that are subject to the ITAR. (3) Items that otherwise would be covered by ECCN 7A105.b.2 are "subject to the ITAR" (see 22 CFR parts 120 through 130). (4) See USML Category XII(d) for GPS receiving equipment in 7A105.a, b.1 and b.3 that are subject to the ITAR.
-Related Definitions: `Navigation satellite systems' include Global Navigation Satellite Systems (GNSS; e.g. GPS, GLONASS, Galileo or BeiDou) and Regional Navigation Satellite Systems (RNSS; e.g. NavIC, QZSS).
+Related Definitions: 'Navigation satellite systems' include Global Navigation Satellite Systems (GNSS; e.g. GPS, GLONASS, Galileo or BeiDou) and Regional Navigation Satellite Systems (RNSS; e.g. NavIC, QZSS).
 Items: a. Designed or modified for use in "missiles"; or
 b. Designed or modified for airborne applications and having any of the following:
 b.1. Capable of providing navigation information at speeds in excess of 600 m/s;
@@ -10462,8 +11347,7 @@ License Requirements
 Reason for Control: AT
 Control(s) | Country chart (see supp. No. 1 to part 738)
 AT applies to entire entry | AT Column 1.
-License Requirement Notes:
-Typically commercially available GPS do not employ decryption or adaptive antenna and are classified as 7A994.
+License Requirement Notes: Typically commercially available GPS do not employ decryption or adaptive antenna and are classified as 7A994.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
@@ -10579,7 +11463,7 @@ GBS: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 C. "Materials" [Reserved]
 D. "Software"
 7D001 "Software" "specially designed" or modified for the "development" or "production" of equipment controlled by 7A (except 7A994) or 7B (except 7B994).
@@ -10588,14 +11472,14 @@ Reason for Control: NS, MT, RS, AT
 Control(s) | Country Chart (See Supp. No. 1 to part 738)
 NS applies to "software" for equipment controlled by 7A001 to 7A004, 7A006, 7A008, 7B001, 7B002 or 7B003 | NS Column 1.
 MT applies to "software" for equipment controlled for MT reasons. MT does not apply to "software" for equipment controlled by 7A008 | MT Column 1.
-RS applies to "software" for inertial navigation systems and inertial equipment, and "components" therefor, for "9A991.b aircraft" | RS Column 1
+RS applies to "software" for inertial navigation systems and inertial equipment, and "components" therefor, for "9A991.b aircraft" | RS Column 1.
 AT applies to entire entry | AT Column 1.
 List Based License Exceptions (See Part 740 for a description of all license exceptions)
 TSR: N/A
 List of Items Controlled
 Related Controls: (1) See also 7D101 and 7D994. (2) The "software" related to 7A003.b, 7A005, 7A103.b, 7A105, 7A106, 7A115, 7A116, 7A117, or 7B103 is "subject to the ITAR" (see 22 CFR parts 120 through 130). (3) "Software" for inertial navigation systems and inertial equipment and "parts" or "components" "specially designed" therefor that are directly related to defense articles and not "specially designed" for use on civil aircraft is "subject to the ITAR" (see 22 CFR parts 120 through 130).
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 7D002 "Source code" for the operation or maintenance of any inertial navigation equipment, including inertial equipment not controlled by 7A003 or 7A004, or Attitude and Heading Reference Systems ('AHRS').
 License Requirements
 Reason for Control: NS, MT, AT
@@ -10683,7 +11567,7 @@ TSR: N/A
 List of Items Controlled
 Related Controls: (1) The "software" related to 7A003.b, 7A005, 7A103.b, 7A105, 7A106, 7A115, 7A116, 7A117, or 7B103 is "subject to the ITAR" (see 22 CFR parts 120 through 130). (2) "Software" for inertial navigation systems and inertial equipment and "parts" and "components" "specially designed" therefor that are directly related to a defense article is "subject to the ITAR" (see 22 CFR parts 120 through 130).
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 7D102 Integration "software", as follows (See List of Items Controlled).
 License Requirements
 Reason for Control: MT, AT
@@ -10756,7 +11640,7 @@ Reason for Control: NS, MT, RS, AT
 Control(s) | Country Chart (See Supp. No. 1 to part 738)
 NS applies to "technology" for equipment controlled by 7A001 to 7A004, 7A006, 7A008 or 7B001 to 7B003 | NS Column 1.
 MT applies to technology for equipment controlled for MT reasons. MT does not apply to "technology" for equipment controlled by 7A008. MT does apply to "technology" for equipment specified in 7A001, 7A002 or 7A003.d that meets or exceeds parameters of 7A101, 7A102 or 7A103 | MT Column 1.
-RS applies to "technology" for inertial navigation systems or inertial equipment, and "components" therefor, for 9A991.b aircraft | RS Column 1
+RS applies to "technology" for inertial navigation systems or inertial equipment, and "components" therefor, for 9A991.b aircraft | RS Column 1.
 AT applies to entire entry | AT Column 1.
 Reporting Requirements See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
 List Based License Exceptions (See Part 740 for a description of all license exceptions)
@@ -10766,7 +11650,7 @@ STA: License Exception STA may not be used to ship or transmit any technology in
 List of Items Controlled
 Related Controls: (1) See also 7E102 and 7E994. (2) The "technology" related to 7A003.b, 7A005, 7A103.b, 7A105, 7A106, 7A115, 7A116, 7A117, or 7B103 is "subject to the ITAR" (see 22 CFR parts 120 through 130).
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 7E003 "Technology" according to the General Technology Note for the repair, refurbishing or overhaul of equipment controlled by 7A001 to 7A004.
 License Requirements
 Reason for Control: NS, MT, AT
@@ -10850,7 +11734,7 @@ TSR: N/A
 List of Items Controlled
 Related Controls: The "technology" related to 7A003.b, 7A005, 7A103.b, 7A105, 7A106, 7A115, 7A116, 7A117, 7B103, software specified in the Related Controls paragraph of ECCN 7D101, 7D102.a, or 7D103 is "subject to the ITAR" (see 22 CFR parts 120 through 130).
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 7E102 "Technology" for protection of avionics and electrical subsystems against electromagnetic pulse (EMP) and electromagnetic interference (EMI) hazards, from external sources, as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: MT, AT
@@ -10897,7 +11781,7 @@ TSR: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 EAR99 Items subject to the EAR that are not elsewhere specified in this CCL Category or in any other category in the CCL are designated by the number EAR99.
 Category 8—Marine
 A. "End Items", "Equipment", "Accessories", "Attachments", "Parts", "Components" and "Systems"
@@ -11133,15 +12017,16 @@ y.11. Audio selector panels.
 License Requirements
 Reason for Control: AT, Foreign policy
 Control(s) | Country chart (see Supp. No. 1 to part 738)
-AT applies to entire entry | AT Column 1
-Russian industry sector sanctions apply to entire entry | See § 746.5 for specific license requirements and license review policy.
-List Based License Exceptions (See Part 740 for a description of all license exceptions)
+AT applies to entire entry | AT Column 1.
+Russian industry sector sanctions apply to entire entry | See § 746.8 for specific license requirements and license review policy.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
 Related Controls: 1. See also 8A002. 2. Marine gas turbine engines are not controlled in paragraph.g of this entry. See ECCN 9A619 for possible controls on marine gas turbine engines specially designed for a military use. See ECCN 9A002 for possible controls on marine gas turbine engines not specially designed for a military use. Marine gas turbine engines subject to the EAR that are not controlled in ECCNs 9A002 or 9A619 are designated EAR99.
 Related Definitions: N/A
-Items: a. Underwater vision systems, as follows:
+Items:
+a. Underwater vision systems, as follows:
 a.1. Television systems (comprising camera, lights, monitoring and signal transmission equipment) having a limiting resolution when measured in air of more than 500 lines and "specially designed" or modified for remote operation with a submersible vehicle; or
 a.2. Underwater television cameras having a limiting resolution when measured in air of more than 700 lines;
 Technical Note: Limiting resolution in television is a measure of horizontal resolution usually expressed in terms of the maximum number of lines per picture height discriminated on a test chart, using IEEE Standard 208/1960 or any equivalent standard.
@@ -11276,7 +12161,7 @@ STA: License Exception STA may not be used to ship or transmit any software in t
 List of Items Controlled
 Related Controls: See also 8D992
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 8D609 "Software" "specially designed" for the "development," "production," operation or maintenance of commodities controlled by 8A609, 8B609, or 8C609 (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, RS, AT, UN
@@ -11328,13 +12213,13 @@ TSR: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 8D999 "Software" "specially designed" for the operation of unmanned submersible vehicles used in the oil and gas industry.
 License Requirements
 Reason for Control: Foreign policy
 Control(s) | Country chart (see Supp. No. 1 to part 738)
-Russian industry sector sanctions apply to entire entry | See § 746.5 for specific license requirements and license review policy.
-List Based License Exceptions (See Part 740 for a description of all license exceptions)
+Russian industry sector sanctions apply to entire entry | See § 746.8 for specific license requirements and license review policy.
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 TSR: N/A
 List of Items Controlled
 Related Controls: N/A
@@ -11439,7 +12324,7 @@ TSR: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 EAR99 Items subject to the EAR that are not elsewhere specified in this CCL Category or in any other category in the CCL are designated by the number EAR99.
 Category 9—Aerospace and Propulsion
 A. "End Items", "Equipment", "Accessories", "Attachments", "Parts", "Components" and "Systems"
@@ -11493,50 +12378,123 @@ Related Definition: N/A
 Items:
 a. Controlled by 9A001; or
 b. Whose design or production origins are either not from a Wassenaar Participating State (see Supplement No. 1 to part 743 of the EAR) or unknown to the manufacturer.
-9A004 Space launch vehicles and "spacecraft," "spacecraft buses", "spacecraft payloads", "spacecraft" on-board systems or equipment, terrestrial equipment, and air-launch platforms, and "sub-orbital craft", as follows (see List of Items Controlled).
+9A004 Space launch vehicles and "spacecraft," "spacecraft buses," "spacecraft payloads," "spacecraft" on-board systems or equipment, terrestrial equipment, and air-launch platforms, and "sub-orbital craft," as follows (see List of Items Controlled).
 License Requirements
-Reason for Control: NS, AT
+Reason for Control: NS, RS, AT
 Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to 9A004.g,.u,.v,.w and.x | NS Column 1.
-AT applies to 9A004.g,.u,.v,.w,.x and.y | AT Column 1.
-License Requirement Note: 9A004.b through.f, and.h are controlled under ECCN 9A515.
+NS applies to 9A004.g,.r,.u, and.w | NS Column 1.
+NS applies to 9A004.s,.v, and.x | NS Column 2.
+RS applies to 9A004.y | China, Russia, or Venezuela (see § 742.6(a)(7)).
+AT applies to 9A004.g,.s,.u,.v,.w,.x, and.y | AT Column 1.
+License Requirement Note: ECCN 9A004.a through.f apply to certain space launch vehicles, spacecraft, spacecraft buses, spacecraft payloads, on-board systems or equipment, and terrestrial equipment. They are described in ECCN 9A004.a through.f in order to harmonize 9A004 with the Wassenaar Arrangement Dual-Use List, even though the controls for these items are found under ECCN 9A515 and direct exporters, reexporters, and transferors to see USML Category IV for 9A004.a. See UMSL Category IV for 9A004.a. See ECCN 9A515 for 9A004.b through.f, and.h. See this ECCN 9A004 for.g,.h,.r, and.u through.y.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 List of Items Controlled
-Related Controls: (1) See also 9A104, 9A515, and 9B515. (2) See ECCNs 9E001 ("development") and 9E002 ("production") for technology for items controlled by this entry. (3) See USML Categories IV for the space launch vehicles and XV for other spacecraft that are "subject to the ITAR" (see 22 CFR parts 120 through 130).
+Related Controls: (1) See also 9A104, 9A515, and 9B515. (2) See ECCNs 9E001 ("development") and 9E002 ("production") for technology for items controlled by this entry. (3) See USML Categories IV for the space launch vehicles and XV for other spacecraft that are "subject to the ITAR."
 Related Definition: N/A
 Items:
-a. Space launch vehicles;
-b. "Spacecraft";
-c. "Spacecraft buses";
-d. "Spacecraft payloads" incorporating items specified by 3A001.b.1.a.4 or z (if also described in 3A001.b.1.a.4), 3A002.g, 5A001.a.1, 5A001.b.3, 5A002.c, z.3 or z.8, 5A002.e, z.5, 6A002.a.1, 6A002.a.2, 6A002.b, 6A002.d, 6A003.b, 6A004.c, 6A004.e, 6A008.d, 6A008.e, 6A008.k, 6A008.l or 9A010.c;
-e. On-board systems or equipment, specially designed for "spacecraft" and having any of the following functions:
-e.1. 'Command and telemetry data handling';
-Note: For the purpose of 9A004.e.1, 'command and telemetry data handling' includes bus data management, storage, and processing.
-e.2. 'Payload data handling'; or
-Note: For the purpose of 9A004.e.2, 'payload data handling' includes payload data management, storage, and processing.
-e.3. 'Attitude and orbit control';
-Note: For the purpose of 9A004.e.3, 'attitude and orbit control' includes sensing and actuation to determine and control the position and orientation of a "spacecraft".
-N.B.: Equipment specially designed for military use is "subject to the ITAR". See 22 CFR parts 120 through 130.
-f. Terrestrial equipment specially designed for "spacecraft", as follows:
+a. Space launch vehicles.
+b. "Spacecraft."
+c. "Spacecraft buses."
+d. "Spacecraft payloads" incorporating items specified by 3A001.b.1.a.4 or z (if also described in 3A001.b.1.a.4), 3A002.g, 5A001.a.1,.b.3, 5A002.c, z.3 or z.8,.e, z.5, 6A002.a.1, a.2,.b,.d, 6A003.b, 6A004.c,.e, 6A008.d,.e,.k,.l or 9A010.c.
+e. On-board systems or equipment, "specially designed" for "spacecraft" and having any of the following functions:
+e.1. 'Command and telemetry data handling;'
+Note 1 to 9A004.e.1: For the purpose of 9A004.e.1, 'command and telemetry data handling' includes bus data management, storage, and processing.
+e.2. 'Payload data handling;' or
+Note 2 to 9A004.e.2: For the purpose of 9A004.e.2, 'payload data handling' includes payload data management, storage, and processing.
+e.3. 'Attitude and orbit control;'
+Note 3 to 9A004.e.3: For the purpose of 9A004.e.3, 'attitude and orbit control' includes sensing and actuation to determine and control the position and orientation of a "spacecraft."
+f. Terrestrial equipment specially designed for "spacecraft," as follows:
 f.1. Telemetry and telecommand equipment "specially designed" for any of the following data processing functions:
-f.1.a. Telemetry data processing of frame synchronization and error corrections, for monitoring of operational status (also known as health and safe status) of the "spacecraft bus"; or
-f.1.b. Command data processing for formatting command data being sent to the "spacecraft" to control the "spacecraft bus";
-f.2. Simulators "specially designed" for `verification of operational procedures' of "spacecraft".
+f.1.a. Telemetry data processing of frame synchronization and error corrections, for monitoring of operational status (also known as health and safe status) of the "spacecraft bus;" or
+f.1.b. Command data processing for formatting command data being sent to the "spacecraft" to control the "spacecraft bus;"
+f.2. Simulators "specially designed" for 'verification of operational procedures' of "spacecraft".
 Technical Note: For the purposes of 9A004.f.2, 'verification of operational procedures' is any of the following: 1. Command sequence confirmation; 2. Operational training; 3. Operational rehearsals; or 4. Operational analysis.
-g. "Aircraft" "specially designed" or modified to be air-launch platforms for space launch vehicles or "sub-orbital craft".
-h. "Sub-orbital craft".
-i. through t. [RESERVED]
-u. The James Webb Space Telescope (JWST) being developed, launched, and operated under the supervision of the U.S. National Aeronautics and Space Administration (NASA).
-v. "Parts," "components," "accessories" and "attachments" that are "specially designed" for the James Webb Space Telescope and that are not:
-v.1. Enumerated or controlled in the USML;
+g. "Aircraft" "specially designed" or modified to be air-launch platforms for space launch vehicles or "sub-orbital craft."
+h. "Sub-orbital craft."
+i. through q. [Reserved]
+r. In-space habitats, other than the International Space Station (ISS).
+Note 4 to 9A004.r: In-space habitats are considered the commercial equivalent of a space station because it is used for persons conducting experiments or space tourism activities.
+s. "Parts," "components," "accessories," and "attachments" that are "specially designed" for in-space habitats in 9A004.r and that are NOT:
+s.1. Described on the USML;
+s.2. Described in ECCN 7A004 or 7A104;
+s.3. Described in an ECCN containing "space-qualified" as a control criterion (refer to 9A515.x.4); or
+s.4 Described in 9A001, 9A002, 9A003, 9A515, or 9A991.
+t. [Reserved]
+u. The James Webb Space Telescope (JWST) being operated under the supervision of the U.S. National Aeronautics and Space Administration (NASA).
+v. "Parts," "components," "accessories," and "attachments" that are "specially designed" for the James Webb Space Telescope and that are NOT:
+v.1. Described on the USML;
 v.2. Microelectronic circuits;
 v.3. Described in ECCN 7A004 or 7A104; or
-v.4. Described in an ECCN containing "space-qualified" as a control criterion (See ECCN 9A515.x.4).
-w. The International Space Station being developed, launched, and operated under the supervision of the U.S. National Aeronautics and Space Administration.
-x. "Parts," "components," "accessories" and "attachments" that are "specially designed" for the International Space Station.
-y. Items that would otherwise be within the scope of ECCN 9A004.v or.x but that have been identified in an interagency-cleared commodity classification (CCATS) pursuant to § 748.3(e) as warranting control in 9A004.y.
+v.4. Described in an ECCN containing "space-qualified" as a control criterion (refer to 9A515.x.4).
+w. The International Space Station being operated under the supervision of the U.S. National Aeronautics and Space Administration.
+x. "Parts," "components," "accessories," and "attachments" that are "specially designed" for the International Space Station.
+y. Items that would otherwise be within the scope of ECCN 9A004.s or.x but that have been identified in an interagency-cleared commodity classification (CCATS) pursuant to § 748.3(e) as warranting control in 9A004.y.
+y.1. Discrete electronic components not specified in 9A515.e;
+y.2. Thermistors for spacecraft applications;
+y.3. RF microwave bandpass ceramic filters (e.g., Dielectric Resonator Bandpass Filters);
+y.4. Hall effect sensors for spacecraft applications;
+y.5. Subminiature (SMA and SMP) plugs and connectors, TNC plugs and cable and connector assemblies with SMA plugs and connectors for spacecraft applications;
+y.6. Flight cable assemblies for spacecraft applications;
+y.7. Public address (PA) systems;
+y.8. Audio selector panels;
+y.9. Spacecraft crew, passenger, or participant lavatories and body waste management systems;
+y.10. Spacecraft crew, passenger, or participant hygiene facilities and systems;
+y.11. Spacecraft crew, passenger, or participant crew rest equipment or sleeping quarters;
+y.12. Spacecraft crew, passenger, or participant galleys or food preparation or serving systems;
+y.13. Spacecraft crew, passenger, or participant entertainment systems;
+y.14. Spacecraft crew, passenger, or participant exercise systems;
+y.15. Spacecraft crew, passenger, or participant laundry systems;
+y.16. Spacecraft crew, passenger, or participant safety systems not including launch abort systems/launch escape systems, ejector seats, spacesuits, flight suits, helmets, or parts and components therefor;
+y.17. Spacecraft crew, passenger, or participant storage units, facilities, or systems (for items related to human safety, welfare, and health);
+y.18. Spacecraft crew, passenger, or participant medical facilities or health-related systems for monitoring, evaluating, or assessing, or for providing treatments;
+y.19. Spacecraft crew, passenger, or participant information systems (e.g., personal laptops and phones);
+y.20. Name plates, identification plates, and identification systems;
+y.21. Internal, external, and emergency lighting systems;
+y.22. Humidity and CO 2 removal systems;
+y.23. Potable water storage systems;
+y.24. Water regeneration systems;
+y.25. Air filters, filter networks, or air quality systems;
+y.26. Space heaters, temperature sensors, or thermostats for human habitation;
+y.27. Environmental control systems for human habitation;
+y.28. Spacecraft environmental control systems (e.g., air conditioner, air distribution, air filtration and sanitation, CO 2 removal, cabin pressure control, dehumidifier, fire suppression system, nitrogen oxygen recharge system, heater systems, thermostats);
+y.29. Plant growth systems;
+y.30. Fire extinguishers;
+y.31. Flame, smoke, or CO 2 detectors;
+y.32. Fire suppression systems;
+y.33. Spacecraft crew, passenger, or participant seats and parts and components;
+y.34. Spaceflight crew, passenger, or participant ejection seat mounted survival aids;
+y.35. Spaceflight crew, passenger, or participant life rafts;
+y.36. Spacecraft crew, passenger, or participant locator beacons;
+y.37. Spacecraft crew, passenger, or participant mirrors;
+y.38. Spacecraft crew, passenger, or participant windows;
+y.39. Spacecraft locator beacons;
+y.40. Viewing windows on non-crewed spacecraft;
+y.41. Hydraulic, pneumatic, oil, fuel, gas, propellant, fluid, and thermal control fluid reservoirs, filters, filter assemblies, tubing, lines, hoses, check valves, and quick disconnects, and associated fittings, couplings, clamps, brackets, adapters, valves, gaskets, and shims;
+y.42. Gauges and indicators;
+y.43. Filtered and unfiltered panel knobs, indicators, annunciator panels, switches, buttons and dials;
+y.44. Energy dissipating pads for cargo or crew;
+y.45. Bracket adapters for bus and payload structures;
+y.46. Latches and hinges;
+y.47. Boom assemblies;
+y.48. Multiplexor and Demultiplexors (MUX & DEMUX);
+y.49. Switches, switch bank assemblies, beam select switches, transfer switch assemblies, switch matrices, thermal switches;
+y.50. Magnetic torque bars;
+y.51. Filters, filter networks;
+y.52. Network switches;
+y.53. Antenna feed horns;
+y.54. Diplexers, modulators, demodulators;
+y.55. Backshells, pins, and contacts;
+y.56. Measurement devices;
+y.57. Non Propulsive landing systems (e.g., skids, inflatable);
+y.58. Electrical connectors;
+y.59. Electric fans;
+y.60. Microphones;
+y.61. Speakers;
+y.62. Circuit breakers; and
+y.63. Printed circuit boards.
+Note 5 to 9A004: An item operating on any celestial body other than Earth is treated as if it is on Earth for classification purposes on the CCL.
 9A005 Liquid rocket propulsion systems containing any of the systems or "components," controlled by 9A006. (These items are "subject to the ITAR." See 22 CFR parts 120 through 130.)
 9A006 Systems, "components," "specially designed" for liquid rocket propulsion systems. (These items are "subject to the ITAR." See 22 CFR parts 120 through 130.)
 9A007 Solid rocket propulsion systems. (These items are "subject to the ITAR." See 22 CFR parts 120 through 130.)
@@ -11670,7 +12628,7 @@ GBS: N/A
 List of Items Controlled
 Related Controls: See also 1A002.
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 9A111 Pulse jet engines, usable in rockets, missiles, or unmanned aerial vehicles capable of achieving a "range" equal to or greater than 300 km, and "specially designed" "parts" and "components" therefor. (These items are "subject to the ITAR." See 22 CFR parts 120 through 130.)
 9A115 Apparatus, devices and vehicles, designed or modified for the transport, handling, control, activation and launching of rockets, missiles, and unmanned aerial vehicles capable of achieving a "range" equal to or greater than 300 km.
 License Requirements
@@ -11713,89 +12671,171 @@ Technical Notes: 1. An aerosol consists of particulate or liquids other than fue
 License Requirements
 Reason for Control: NS, RS, MT, AT
 Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to entire entry, except.e and.y | NS Column 1.
-RS applies to entire entry, except.e and.y | RS Column 1.
-RS applies to 9A515.e | RS Column 2.
-RS applies to 9A515.y, except to Russia for use in, with, or for the International Space Station (ISS), including launch to the ISS | China, Russia or Venezuela (see § 742.6(a)(7)).
+NS applies to entire entry, except.e,.x, and.y | NS Column 1.
+RS applies to entire entry, except.e,.x, and.y | RS Column 1.
 MT applies to microcircuits in 9A515.d and 9A515.e.2 when "usable in" "missiles" for protecting "missiles" against nuclear effects (e.g., Electromagnetic Pulse (EMP), X-rays, combined blast and thermal effects). MT also applies to 9A515.h when the total impulse capacity is equal to or greater than 8.41 × 10 5 newton seconds | MT Column 1.
+NS applies to 9A515.x | NS Column 2.
+RS applies to 9A515.e and.x | RS Column 2.
+RS applies to 9A515.y | China, Russia or Venezuela (see § 742.6(a)(7)).
 AT applies to entire entry | AT Column 1.
-License Requirement Note: The Commerce Country Chart is not used for determining license requirements for commodities classified in ECCN 9A515.a.1,.a.2,.a.3,.a.4, and.g. See § 742.6(a)(9), which specifies that such commodities are subject to a worldwide license requirement.
+License Requirement Notes: (1) The Commerce Country Chart is not used for determining license requirements for commodities classified in ECCN 9A515.a.1,.a.2,.a.3,.a.4, and.g. See § 742.6(a)(9), which specifies that such commodities are subject to a worldwide license requirement, except to Australia, Canada, and the United Kingdom. (2) ECCN 9A004.a through.f apply to certain space launch vehicles, spacecraft, spacecraft buses, spacecraft payloads, on-board systems or equipment, and terrestrial equipment. They are listed in ECCN 9A004.a through.f in order to harmonize 9A004 with the Wassenaar Arrangement Dual-Use List, even though the controls for these items are found under ECCN 9A515 and to direct exporters, reexporters, and transferors to s ee USML Category IV for 9A004.a. See UMSL Category IV for 9A004.a. See ECCN 9A515 for 9A004.b through.f, and.h. See this ECCN 9A004 for.g,.h,.r,.s, and.u through.y.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: $1500
 GBS: N/A
 Special Conditions for STA
-STA: (1) Paragraph (c)(1) of License Exception STA (§ 740.20(c)(1) of the EAR) may not be used for "spacecraft" in ECCNs 9A515.a.1,.a.2,.a.3, or.a.4, "sub-orbital craft," or items in 9A515.g, unless determined by BIS to be eligible for License Exception STA in accordance with § 740.20(g) (License Exception STA eligibility requests for certain 9x515 and "600 series" items). (2) License Exception STA may not be used if the "spacecraft" controlled in ECCN 9A515.a.1,.a.2,.a.3, or.a.4 contains a separable or removable propulsion system enumerated in USML Category IV(d)(2) or USML Category XV(e)(12) and designated MT. (3) Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in 9A515.
+STA: (1) Paragraph (c)(1) of License Exception STA (§ 740.20(c)(1) of the EAR) may not be used for "spacecraft" in ECCNs 9A515.a.1, a.2, a.3, or a.4, "sub-orbital craft," or items in 9A515.g, unless determined by BIS to be eligible for License Exception STA in accordance with § 740.20(g) (License Exception STA eligibility requests for certain 9x515 and "600 series" items). (2) License Exception STA may not be used if the "spacecraft" controlled in ECCN 9A515.a.1, a.2, a.3, or a.4 contains a separable or removable propulsion system described in USML Category IV(d)(2) or USML Category XV(e)(12) and designated MT. (3) Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in 9A515.
 List of Items Controlled
-Related Controls: Spacecraft, launch vehicles and related articles that are enumerated in the USML, and technical data (including "software") directly related thereto, and all services (including training) directly related to the integration of any satellite or spacecraft to a launch vehicle, including both planning and onsite support, or furnishing any assistance (including training) in the launch failure analysis or investigation for items in ECCN 9A515.a, are "subject to the ITAR." All other "spacecraft," as enumerated below and defined in § 772.1, are subject to the controls of this ECCN. See also ECCNs 3A001, 3A002, 3A991, 3A992, 6A002, 6A004, 6A008, and 6A998 for specific "space-qualified" items, 7A004 and 7A104 for star trackers, and 9A004 for the International Space Station (ISS), the James Webb Space Telescope (JWST), and "specially designed" "parts" and "components" therefor. See USML Category XI(c) for controls on certain "Monolithic Microwave Integrated Circuit" ("MMIC") amplifiers. See ECCN 9A610.g for pressure suits used for high altitude aircraft.
+Related Controls: Spacecraft, launch vehicles and related articles that are described on the USML, and technical data (including "software") directly related thereto, and all services (including training) directly related to the integration of any satellite or spacecraft to a launch vehicle, including both planning and onsite support, or furnishing any assistance (including training) in the launch failure analysis or investigation for items in ECCN 9A515.a, are "subject to the ITAR." All other "spacecraft," as enumerated below and defined in § 772.1, are subject to the controls of this ECCN. See also ECCNs 3A001, 3A002, 3A991, 3A992, 6A002, 6A004, 6A008, and 6A998 for specific "space-qualified" items, 7A004 and 7A104 for star trackers, and 9A004 for the International Space Station (ISS), the James Webb Space Telescope (JWST), and "specially designed" "parts" and "components" therefor. See USML Category XI(c) for controls on certain "Monolithic Microwave Integrated Circuit" ("MMIC") amplifiers. See ECCN 9A610.g for pressure suits used for high altitude aircraft.
 Related Definitions: 'Microcircuit' means a device in which a number of passive or active elements are considered as indivisibly associated on or within a continuous structure to perform the function of a circuit.
 Items:
 "Spacecraft" and other items described in ECCN 9A515 remain subject to the EAR even if exported, reexported, or transferred (in-country) with defense articles "subject to the ITAR" integrated into and included therein as integral parts of the item. In all other cases, such defense articles are subject to the ITAR. For example, a 9A515.a "spacecraft" remains "subject to the EAR" even when it is exported, reexported, or transferred (in-country) with a "hosted payload" described in USML Category XV(e)(17) incorporated therein. In all other cases, a "hosted payload" performing a function described in USML Category XV(a) always remains a USML item. The removal of the defense article subject to the ITAR from the spacecraft is a retransfer under the ITAR and would require an ITAR authorization, regardless of the CCL authorization the spacecraft is exported under. Additionally, transfer of technical data regarding the defense article subject to the ITAR integrated into the spacecraft would require an ITAR authorization.
-a. "Spacecraft," including satellites, and space vehicles and "sub-orbital craft," whether designated developmental, experimental, research or scientific, not enumerated in USML Category XV or described in ECCN 9A004.u or.w, that:
+a. "Spacecraft," including satellites, and space vehicles and "sub-orbital craft," whether designated developmental, experimental, research or scientific, not described in USML Category XV or described in ECCN 9A004.r,.u, or.w, that:
 a.1. Have electro-optical remote sensing capabilities and having a clear aperture greater than 0.35 meters, but less than or equal to 0.50 meters;
 a.2. Have remote sensing capabilities beyond NIR (i.e., SWIR, MWIR, or LWIR);
 a.3. Have radar remote sensing capabilities (e.g., AESA, SAR, or ISAR) having a center frequency equal to or greater than 1.0 GHz, but less than 10.0 GHz and having a bandwidth equal to or greater than 100 MHz, but less than 300 MHz;
 a.4. Provide space-based logistics, assembly, or servicing of another "spacecraft"; or
 a.5. Are not described in ECCN 9A515.a.1,.a.2,.a.3 or.a.4.
-Note: ECCN 9A515.a includes commercial communications satellites, remote sensing satellites, planetary rovers, planetary and interplanetary probes, in-space habitats, and "sub-orbital craft," not identified in ECCN 9A004 or USML Category XV(a).
-b. Ground control systems and training simulators "specially designed" for telemetry, tracking, and control of the "spacecraft" controlled in paragraphs 9A004.u or 9A515.a.
+Note 1 to 9A515: ECCN 9A515.a includes commercial communications satellites, remote sensing satellites, "sub-orbital craft," and planetary and interplanetary probes, not identified in ECCN 9A004 or USML Category XV(a).
+b. Equipment for telemetry, tracking, and control, as follows:
+b.1. Ground control systems and training simulators "specially designed" for telemetry, tracking, and control of the "spacecraft" controlled in paragraphs 9A004.u or 9A515.a;
+b.2. Terrestrial equipment "specially designed" for "spacecraft," as follows:
+b.2.a. Telemetry and telecommand equipment "specially designed" for any of the following data processing functions:
+b.2.a.1. Telemetry data processing of frame synchronization and error corrections, for monitoring of operational status (also known as health and safe status) of the "spacecraft bus;" or
+b.2.a.2. Command data processing for formatting command data being sent to the "spacecraft" to control the "spacecraft bus;"
+b.2.b. [Reserved]
+b.3. Simulators "specially designed" for 'verification of operational procedures' of "spacecraft."
+Technical Note: For the purposes of 9A515.b.3, 'verification of operational procedures' is any of the following: 1. Command sequence confirmation; 2. Operational training; 3. Operational rehearsals; or 4. Operational analysis.
 c. [Reserved]
 d. Microelectronic circuits (e.g., integrated circuits, microcircuits, or MOSFETs) and discrete electronic components rated, certified, or otherwise specified or described as meeting or exceeding all the following characteristics and that are "specially designed" for defense articles, "600 series" items, or items controlled by ECCNs 9A004.v or 9A515:
 d.1. A total dose of 5 × 10 5 Rads (Si) (5 × 10 3 Gy (Si));
 d.2. A dose rate upset threshold of 5 × 10 8 Rads (Si)/sec (5 × 10 6 Gy (Si)/sec);
 d.3. A neutron dose of 1 × 10 14 n/cm 2 (1 MeV equivalent);
-d.4. An uncorrected single event upset sensitivity of 1 × 10 −10 errors/bit/day or less, for the CRÈME-MC geosynchronous orbit, Solar Minimum Environment for heavy ion flux; and
-d.5. An uncorrected single event upset sensitivity of 1 × 10 −10 errors/part or less for a fluence of 1 × 10 7 protons/cm 2 for proton energy greater than 50 MeV.
-e. Microelectronic circuits (e.g., integrated circuits, microcircuits, or MOSFETs) and discrete electronic components that are rated, certified, or otherwise specified or described as meeting or exceeding the characteristics in either paragraph e.1 or e.2, AND "specially designed" for defense articles controlled by USML Category XV or items controlled by ECCNs 9A004.u or 9A515:
+d.4. An uncorrected single event upset sensitivity of 1 × 10 − 10 errors/bit/day or less, for the CRÈME-MC geosynchronous orbit, Solar Minimum Environment for heavy ion flux; and
+d.5. An uncorrected single event upset sensitivity of 1 × 10 − 10 errors/part or less for a fluence of 1 × 10 7 protons/cm 2 for proton energy greater than 50 MeV.
+e. Microelectronic circuits (e.g., integrated circuits, microcircuits, or MOSFETs) and discrete electronic components that are rated, certified, or otherwise specified or described as meeting or exceeding the characteristics in either paragraph e.1 or e.2, AND "specially designed" for defense articles described in USML Category XV or items controlled by ECCNs 9A004.u or 9A515:
 e.1. A total dose ≥1 × 10 5 Rads (Si) (1 × 10 3 Gy(Si)) and <5 × 10 5 Rads (Si) (5 × 10 3 Gy(Si)); and a single event effect (SEE) (i.e., single event latchup (SEL), single event burnout (SEB), or single event gate rupture (SEGR)) immunity to a linear energy transfer (LET) ≥80 MeV-cm 2 /mg; or
 e.2. A total dose ≥5 × 10 5 Rads (Si) (5 × 10 3 Gy (Si)) and not described in 9A515.d.
-Note 1 to 9A515.d and.e: Application specific integrated circuits (ASICs), integrated circuits developed and produced for a specific application or function, specifically designed or modified for defense articles and not in normal commercial use are controlled by Category XI(c) of the USML regardless of characteristics.
-Note 2 to 9A515.d and.e: See 3A001.a and.z for controls on radiation-hardened microelectronic circuits "subject to the EAR" that are not controlled by 9A515.d or 9A515.e.
-f. Pressure suits (i.e., space suits) capable of operating at altitudes 55,000 feet above sea level.
-g. Remote sensing components "specially designed" for "spacecraft" described in ECCNs 9A515.a.1 through 9A515.a.4 as follows:
+Note 2 to 9A515.d and.e: See USML Category XI for military electronics. See 3A611.f for PLDs and ASICs programmed for 600 series items.
+Note 3 to 9A515.d and.e: See 3A001.a and.z for controls on radiation-hardened microelectronic circuits "subject to the EAR" that are not controlled by 9A515.d or.e.
+f. Pressure suits (i.e., space suits) capable of operating at altitudes greater than or equal to 55,000 feet above sea level.
+g. Remote sensing components "specially designed" for "spacecraft" described in ECCNs 9A515.a.1 through.a.4 as follows:
 g.1. Space-qualified optics (i.e., lens, mirror, membrane having active properties (e.g., adaptive, deformable)) with the largest lateral clear aperture dimension equal to or less than 0.35 meters; or with the largest clear aperture dimension greater than 0.35 meters but less than or equal to 0.50 meters;
-g.2. Optical bench assemblies "specially designed" for ECCN 9A515.a.1, 9A515.a.2, 9A515.a.3, or 9A515.a.4 "spacecraft;" or
-g.3. Primary, secondary, or hosted payloads that perform a function of ECCN 9A515.a.1, 9A515.a.2, 9A515.a.3, or 9A515.a.4 "spacecraft."
+g.2. Optical bench assemblies "specially designed" for ECCN 9A515.a.1, a.2, a.3, or a.4 "spacecraft;" or
+g.3. Primary, secondary, or hosted payloads that perform a function of ECCN 9A515.a.1, a.2, a.3, or a.4 "spacecraft."
 h. Spacecraft thrusters using bi-propellants or mono-propellants that provide thrust equal to or less than 150 lbf (i.e., 667.23 N) vacuum thrust.
 i. through w. [RESERVED]
-x. "Parts," "components," "accessories" and "attachments" that are "specially designed" for defense articles controlled by USML Category XV or items controlled by 9A515, and that are NOT:
-x.1. Enumerated or controlled in the USML or elsewhere within ECCNs 9A515 or 9A004;
+w. "Parts," "components," "accessories," and "attachments" that would otherwise be within the scope of ECCN 9A515.x but that have been identified by the interagency as warranting control in 9A515.w, as follows:
+w.1. [Reserved]
+x. "Parts," "components," "accessories" and "attachments" that are "specially designed" for defense articles described in USML Category XV or items controlled by 9A515, and that are NOT:
+x.1. Described on the USML or elsewhere within ECCNs 9A515 or 9A004;
 x.2. Microelectronic circuits and discrete electronic components;
 x.3. Described in ECCNs 7A004 or 7A104;
-x.4. Described in an ECCN containing "space-qualified" as a control criterion (i.e., 3A001.b.1, 3A001.e.4 or.z, 3A002.g.1, 3A991.o, 3A992.b.3, 6A002.a.1, 6A002.b.2, 6A002.d.1, 6A004.c and.d, 6A008.j.1, 6A998.b, or 7A003.d.2);
+x.4. Described in an ECCN containing "space-qualified" as a control criterion (i.e., 3A001.b.1,.e.4 or.z, 3A002.g.1, 3A991.o, 3A992.b.3, 6A002.a.1,.b.2,.d.1, 6A004.c and.d, 6A008.j.1, 6A998.b, or 7A003.d.2);
 x.5. Microwave solid state amplifiers and microwave assemblies (refer to ECCN 3A001.b.4 and.z for controls on these items);
 x.6. Travelling wave tube amplifiers (refer to ECCN 3A001.b.8 and.z for controls on these items); or
 x.7. Elsewhere specified in ECCN 9A515.y.
-Note to 9A515.x: "Parts," "components," "accessories," and "attachments" specified in USML subcategory XV(e) or enumerated in other USML categories are subject to the controls of that paragraph or category.
+Note 4 to 9A515.x: "Parts," "components," "accessories," and "attachments" described on the USML, either in Category XV(e) or elsewhere, are subject to the ITAR.
+Note 5 to 9A515.b and.x: This note clarifies the scope of controls over baseband units (BBU). For purposes of 9A515.b and.x, a BBU means a device that interprets the original frequency range of a transmission signal. These devices are not controlled under 9A515.b or.x when they do not perform telemetry, track, and control.
 y. Items that would otherwise be within the scope of ECCN 9A515.x but that have been identified in an interagency-cleared commodity classification (CCATS) pursuant to § 748.3(e) as warranting control in 9A515.y.
 y.1. Discrete electronic components not specified in 9A515.e;
-y.2. Space grade or for spacecraft applications thermistors;
-y.3. Space grade or for spacecraft applications RF microwave bandpass ceramic filters (Dielectric Resonator Bandpass Filters);
-y.4. Space grade or for spacecraft applications hall effect sensors;
-y.5. Space grade or for spacecraft applications subminiature (SMA and SMP) plugs and connectors, TNC plugs and cable and connector assemblies with SMA plugs and connectors; and
-y.6. Space grade or for spacecraft applications flight cable assemblies.
+y.2. Thermistors for spacecraft applications;
+y.3. RF microwave bandpass ceramic filters (e.g., Dielectric Resonator Bandpass Filters);
+y.4. Hall effect sensors for spacecraft applications;
+y.5. Subminiature (SMA and SMP) plugs and connectors, TNC plugs and cable and connector assemblies with SMA plugs and connectors for spacecraft applications;
+y.6. Flight cable assemblies for spacecraft applications;
+y.7. Public address (PA) systems;
+y.8. Audio selector panels;
+y.9. Spacecraft crew, passenger, or participant lavatories and body waste management systems;
+y.10. Spacecraft crew, passenger, or participant hygiene facilities and systems;
+y.11. Spacecraft crew, passenger, or participant crew rest equipment or sleeping quarters;
+y.12. Spacecraft crew, passenger, or participant galleys or food preparation or serving systems;
+y.13. Spacecraft crew, passenger, or participant entertainment systems;
+y.14. Spacecraft crew, passenger, or participant exercise systems;
+y.15. Spacecraft crew, passenger, or participant laundry systems;
+y.16. Spacecraft crew, passenger, or participant safety systems, not including launch abort systems/launch escape systems, ejector seats, spacesuits, flight suits, helmets, or "parts" and "components" therefor;
+y.17. Spacecraft crew, passenger, or participant storage units, facilities, or systems (for items related to human safety, welfare, and health);
+y.18. Spacecraft crew, passenger, or participant medical facilities or health-related systems for monitoring, evaluating, or assessing, or for providing treatments;
+y.19. Spacecraft crew, passenger, or participant information systems (e.g., personal laptops and phones);
+y.20. Name plates, identification plates, and identification systems;
+y.21. Internal, external, and emergency lighting systems;
+y.22. Humidity and CO 2 removal systems;
+y.23. Potable water storage systems;
+y.24. Water regeneration systems;
+y.25. Air filters, filter networks, or air quality systems;
+y.26. Space heaters, temperature sensors, or thermostats for human habitation;
+y.27. Environmental control systems for human habitation;
+y.28. Spacecraft environmental control systems (e.g., air conditioner, air distribution, air filtration and sanitation, CO 2 removal, cabin pressure control, dehumidifier, fire suppression system, nitrogen oxygen recharge system, heater systems, thermostats);
+y.29. Plant growth systems;
+y.30. Fire extinguishers;
+y.31. Flame, smoke, or CO 2 detectors;
+y.32. Fire suppression systems;
+y.33. Spacecraft crew, passenger, or participant seats, other than ejection seats, and "parts" and "components;"
+y.34. Spaceflight crew, passenger, or participant ejection seat mounted survival aids;
+y.35. Spaceflight crew, passenger, or participant life rafts;
+y.36. Spacecraft crew, passenger, or participant locator beacons;
+y.37. Spacecraft crew, passenger, or participant mirrors;
+y.38. Spacecraft crew, passenger, or participant windows;
+y.39. Spacecraft locator beacons;
+y.40. Viewing windows on non-crewed spacecraft;
+y.41. Temperature sensors and pressure transducers;
+y.42. Thermal control pumps, accumulators, fluid filters and filter assemblies, control valves, heat exchangers, and radiators;
+y.43. Hydraulic, pneumatic, oil, fuel, gas, propellant, fluid, and thermal control fluid reservoirs, filters, filter assemblies, tubing, lines, hoses, check valves, and quick disconnects, and associated fittings, couplings, clamps, brackets, adapters, valves, gaskets, shims, and o-rings;
+y.44. Gauges and indicators;
+y.45. Filtered and unfiltered panel knobs, indicators, annunciator panels, switches, buttons and dials;
+y.46. Spacecraft tires and brake systems (does not include sintered mix or carbon/carbon materials);
+y.47. Bearings (e.g., Ball, roller, wheel);
+y.48. Energy dissipating pads for cargo or crew;
+y.49. Spacecraft bus structures;
+y.50. Bracket adapters for bus and payload structures;
+y.51. Latches and hinges;
+y.52. Boom assemblies;
+y.53. Cables, cable assemblies, and connectors;
+y.54. Batteries and associated battery management circuitry;
+y.55. Germanium coated polyimide tapes (e.g., Kapton tape);
+y.56. Multiplexors and Demultiplexors (MUX & DEMUX);
+y.57. Switches, switch bank assemblies, beam select switches, transfer switch assemblies, switch matrices, thermal switches;
+y.58. Magnetic torque bars;
+y.59. Filters, filter networks;
+y.60. Network switches;
+y.61. Reflectors, antennas;
+y.62. Antenna feed horns;
+y.63. Diplexers, modulators, demodulators;
+y.64. Second surface mirrors;
+y.65. Backshells, pins and contacts;
+y.66. Measurement devices;
+y.67. Electrical power distribution and control units;
+y.68. Electrical connectors;
+y.69. Non-propulsive landing systems (e.g., skids, inflatable);
+y.70. Electric fans;
+y.71. Microphones;
+y.72. Speakers;
+y.73. Circuit breakers; and
+y.74. Printed circuit boards "specially designed" for items classified under 9A515.y
+Note 6 to 9A515: An item operating on any celestial body other than Earth is treated as if it is on Earth for classification purposes on the CCL.
 9A604 Commodities related to launch vehicles, missiles, and rockets (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, RS, MT, AT, UN
-Control(s) | Country chart (See Supp. No. 1 to part 738)
-NS applies to entire entry | NS Column 1
-RS applies to entire entry | RS Column 1
-MT applies to 9A604.a,.c,.d, and.f | MT Column 1
-AT applies to entire entry | AT Column 1
-UN applies to entire entry | See § 746.1(b) for UN controls
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry | NS Column 1.
+RS applies to entire entry | RS Column 1.
+MT applies to 9A604.c,.d, and.f | MT Column 1.
+RS applies to 9A604.y | China, Russia, or Venezuela (see § 742.6(a)(7)).
+AT applies to entire entry | AT Column 1.
+UN applies to entire entry | See § 746.1(b) for UN controls.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 LVS: N/A
 GBS: N/A
 Special Conditions for STA
 STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in this ECCN 9A604.
 List of Items Controlled
-Related Controls: (1) Launch vehicles, missiles, and rockets are subject to the ITAR (see 22 CFR § 121.1, USML Category IV). (2) See ECCN 0A919 for foreign-made "military commodities" that incorporate more than a de minimis amount of U.S.-origin "600 series" controlled content.
+Related Controls: (1) Launch vehicles, missiles, and rockets are subject to the ITAR (see USML Category IV). (2) See ECCN 0A919 for foreign-made "military commodities" that incorporate more than a de minimis amount of U.S.-origin "600 series" controlled content. (3) Thermal batteries for USML Category IV items are subject to the ITAR (see USML Category XIII).
 Related Definitions: N/A
-Items: a. Thermal batteries "specially designed" for systems controlled under USML Category IV capable of a range equal to or greater than 300 km.
-b. Thermal batteries, except for thermal batteries controlled by 9A604.a, that are "specially designed" for systems controlled under USML Category IV.
-c. "Components" "specially designed" for ramjet, scramjet, pulse jet, or combined cycle engines controlled under USML Category IV, including devices to regulate combustion in such commodities.
-d. "Components" "specially designed" for hybrid rocket motors controlled under USML Category IV usable in rockets, missiles, or unmanned aerial vehicles capable of a range equal to or greater than 300 km.
-e. "Components" "specially designed" for pressure gain combustion-based propulsion systems controlled under USML Category IV.
-f. Composite structures, laminates and manufactures thereof "specially designed" for the following items controlled under USML Category IV:
+Items:
+a. through b. [Reserved]
+c. "Components" "specially designed" for ramjet, scramjet, pulse jet, or combined cycle engines described in USML Category IV, including devices to regulate combustion in such commodities.
+d. "Components" "specially designed" for hybrid rocket motors described in USML Category IV usable in rockets, missiles, or unmanned aerial vehicles capable of a range equal to or greater than 300 km.
+e. "Components" "specially designed" for pressure gain combustion-based propulsion systems described in USML Category IV.
+f. Composite structures, laminates and manufactures thereof "specially designed" for the following items described in USML Category IV:
 f.1. Systems capable of a range equal to or greater than 300 km;
 f.2. Individual rocket stages usable in 9A604.f.1. systems;
 f.3. Solid propellant rocket motors or hybrid rocket motors having a total impulse capacity equal to or greater than 8.41 × 10 5 Ns; or
@@ -11804,8 +12844,11 @@ f.5. Thrust vector control systems usable in rockets, space launch vehicles (SLV
 f.6. Re-entry vehicles or warhead heat shields usable in rockets, SLVs, and missiles capable of delivering at least a 500 kg payload to a range of at least 300 km.
 f.7. Safing, arming, fuzing, and firing components usable in rockets, SLVs, and missiles capable of delivering at least a 500 kg payload to a range of at least 300 km.
 g. through w. [Reserved]
-x. "Parts," "components," "accessories," and "attachments" that are "specially designed" for a commodity subject to control in paragraphs.a through.d of this ECCN, or a defense article controlled under USML Category IV, and not specified elsewhere on the USML.
+x. "Parts," "components," "accessories," and "attachments" that are "specially designed" for a commodity subject to control in paragraphs.a through.d of this ECCN, or a defense article described in USML Category IV, and not specified elsewhere on the USML or in 9A604.y.
 Note to 9A604.x: "Parts," "components," "accessories," and "attachments" specified in USML Category IV(h) are subject to the controls of that paragraph.
+y. Specific "parts," "components," "accessories," and "attachments" "specially designed" for a commodity subject to control in this entry, ECCN 9A604, or for a defense article in USML Category IV and not elsewhere specified on the USML or on the CCL, and other commodities, as follows, and "parts," "components," "accessories," and "attachments" "specially designed" therefor:
+y.1. "Parts" and minor "components" for landing leg assemblies; and
+y.2. [RESERVED]
 9A610 Military Aircraft and Related Commodities, Other Than Those Enumerated in 9A991.a (See List of Items Controlled).
 License Requirements
 Reason for Control: NS, RS, MT, AT, UN
@@ -11952,7 +12995,7 @@ GBS: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 9A990 Diesel engines, n.e.s., and tractors and "specially designed" "parts" and "components" therefor, n.e.s. (see List of Items Controlled).
 License Requirements
 Reason for Control: AT
@@ -12002,7 +13045,7 @@ GBS: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 B. "Test", "Inspection" and "Production Equipment"
 9B001 Manufacturing equipment, tooling or fixtures, as follows (See List of Items Controlled).
 License Requirements
@@ -12056,7 +13099,7 @@ GBS: Yes, except N/A for MT
 List of Items Controlled
 Related Controls: See also 9B115
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 9B004 Tools, dies or fixtures, for the solid state joining of "superalloy", titanium or intermetallic airfoil-to-disk combinations described in 9E003.a.3 or 9E003.a.6 for gas turbines.
 Reason for Control: NS, MT, AT
 Control(s) | Country Chart (See Supp. No. 1 to part 738)
@@ -12069,7 +13112,7 @@ GBS: Yes, except N/A for MT
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 9B005 On-line (real time) control systems, instrumentation (including sensors) or automated data acquisition and processing equipment, "specially designed" for use with any of the following (see List of Items Controlled).
 Reason for Control: NS, AT
 Control(s) | Country chart (see supp. No. 1 to part 738)
@@ -12099,7 +13142,7 @@ GBS: Yes
 List of Items Controlled
 Related Controls: See also 9B106. Note that some items in 9B006 may also be controlled under 9B106
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 9B007 Equipment "specially designed" for inspecting the integrity of rocket motors and using Non-Destructive Test (NDT) techniques other than planar x-ray or basic physical or chemical analysis.
 License Requirements
 Reason for Control: NS, MT, AT
@@ -12113,7 +13156,7 @@ GBS: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 9B008 Direct measurement wall skin friction transducers "specially designed" to operate at a test flow total (stagnation) temperature exceeding 833 K (560 °C)).
 License Requirements
 Reason for Control: NS, AT
@@ -12126,7 +13169,7 @@ GBS: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 9B009 Tooling "specially designed" for producing gas turbine engine powder metallurgy rotor "parts" or "components" having all of the following (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, AT
@@ -12359,7 +13402,7 @@ GBS: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 9B991 "Specially designed" "equipment," tooling or fixtures, not controlled by 9B001, for manufacturing or measuring gas turbine blades, vanes or tip shroud castings, as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: AT
@@ -12526,7 +13569,7 @@ TSR: N/A
 List of Items Controlled
 Related Controls: (1) See ECCN 9D610 for "software" related to aircraft, refuelers, ground equipment, parachutes, harnesses, instrument flight trainers and "parts," "accessories," and "attachments" for the forgoing that, immediately prior to October 15, 2013, were classified under 9A018.a.1,.a.3,.c,.d,.e, or.f. (2) See ECCN 9D619 for "software" related to military trainer aircraft turbo prop engines and "parts" and "components" therefor that, immediately prior to October 15, 2013, were classified under ECCN 9A018.a.2 or.a.3.
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 9D103 "Software" "specially designed" for modelling, simulation or design integration of "missiles," or the subsystems controlled by 9A005, 9A007, 9A009, 9A105, 9A106, 9A107, 9A108, 9A109, 9A116 or 9A119. (This entry is "subject to the ITAR." See 22 CFR parts 120 through 130.)
 9D104 "Software" specially designed or modified for the "use" of equipment controlled by ECCN 9A001, 9A012 (for MT controlled items only), 9A101 (except for items in 9A101.b that are "subject to the ITAR", see 22 CFR part 121), or 9A106.d.
 License Requirements
@@ -12545,20 +13588,22 @@ Note: For a manned aircraft converted to operate as an unmanned aerial vehicle s
 9D515 "Software" "specially designed" for the "development," "production," operation, installation, maintenance, repair, overhaul, or refurbishing of "spacecraft" and related commodities, as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, RS, AT
-Control(s) | Country Chart (See Supp. No. 1 to part 738)
-NS applies to entire entry except 9D515.y | NS Column 1
-RS applies to entire entry except 9D515.y | RS Column 1
-RS applies to 9D515.y, except to Russia for use in, with, or for the International Space Station (ISS), including launch to the ISS | China, Russia, or Venezuela (see *§ 742.6(a)(7))
-AT applies to entire entry | AT Column 1
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+NS applies to entire entry except 9D515.x and y | NS Column 1.
+RS applies to entire entry except 9D515.x and y | RS Column 1.
+NS applies to 9D515.x | NS Column 2.
+RS applies to 9D515.x | RS Column 2.
+RS applies to 9D515.y, except to Russia for use in, with, or for the International Space Station (ISS), including launch to the ISS | China, Russia, or Venezuela (see § 742.6(a)(7)).
+AT applies to entire entry | AT Column 1.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 TSR: N/A
 Special Conditions for STA
 STA: (1) Paragraph (c)(1) of License Exception STA (§ 740.20(c)(1) of the EAR) may not be used for 9D515.b,.d, or.e. (2) Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any "software" in 9D515.
 List of Items Controlled
-Related Controls: (1) "Software" directly related to articles enumerated in USML Category XV is subject to the control of USML paragraph XV(f). (2) See also ECCNs 3D001, 6D001, 6D002, and 6D991 for controls of specific "software" "specially designed" for certain "space-qualified" items. (3) For "software" for items listed in 9A004.d that are incorporated into "spacecraft payloads", see the appropriate "software" ECCN within those Categories.
+Related Controls: (1) "Software" directly related to articles described in USML Category XV is subject to the ITAR. (2) See also ECCNs 3D001, 6D001, 6D002, and 6D991 for controls of specific "software" "specially designed" for certain "space-qualified" items. (3) For "software" for items listed in 9A004.d that are incorporated into "spacecraft payloads", see the appropriate "software" ECCN within those Categories.
 Related Definitions: N/A
 Items:
-a. "Software" (other than "software" controlled in paragraphs.b,.d, or.e of this entry) "specially designed" for the "development," "production," operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by ECCN 9A515 (except 9A515.d or.e) or 9B515.
+a. "Software" (other than "software" controlled in paragraphs.b,.d, or.e of this entry) "specially designed" for the "development," "production," operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by ECCN 9A515 (except 9A515.d,.e, or.x) or 9B515.
 b. "Source code" that:
 b.1. Contains the algorithms or control principles (e.g., for clock management), precise orbit determination (e.g., for ephemeris or pseudo range analysis), signal construct (e.g., pseudo-random noise (PRN) anti-spoofing) "specially designed" for items controlled by ECCN 9A515;
 b.2. Is "specially designed" for the integration, operation, or control of items controlled by ECCN 9A515;
@@ -12569,7 +13614,8 @@ b.6. Is "specially designed "for built-in test and diagnostics for items control
 c. [Reserved]
 d. "Software" "specially designed" for the "development," "production," operation, failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.d.
 e. "Software" "specially designed" for the "development," "production," operation, failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.e.
-f. through x. [Reserved]
+f. through w. [Reserved]
+x. "Software" "specially designed" for the "development," "production," operation, failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.x.
 y. Specific "software" "specially designed" for the "development," "production," operation, or maintenance of commodities enumerated in ECCN 9A515.y.
 9D604 "Software" "specially designed" for the "development," "production," operation, or maintenance of commodities controlled by ECCN 9A604 or 9B604 (see List of Items Controlled).
 License Requirements
@@ -12684,7 +13730,7 @@ TSR: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 9D991 "Software", for the "development" or "production" of equipment controlled by 9A991 or 9B991.
 License Requirements
 Reason for Control: AT
@@ -12695,7 +13741,7 @@ TSR: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 E. "Technology"
 Note 1: "Development" or "production" "technology" controlled by 9E001 to 9E003 for gas turbine engines remains controlled when used for repair or overhaul. Excluded from 9E001 to 9E003 control are: technical data, drawings or documentation for maintenance activities directly associated with calibration, removal or replacement of damaged or unserviceable line replaceable units, including replacement of whole engines or engine modules.
 Note 2: USML Category XV(f) and ECCNs 9E001, 9E002 and 9E515 do not control the data transmitted to or from a satellite or "spacecraft," whether real or simulated, when limited to information about the health, operational status, or measurements or function of, or raw sensor output from, the "spacecraft," "spacecraft" payload(s), or its associated subsystems or components. Such information is not within the scope of information captured within the definition of "technology" in the EAR for purposes of Category 9 Product Group E. Examples of such information, which are commonly referred to as "housekeeping data," include (i) system, hardware, component configuration, and operation status information pertaining to temperatures, pressures, power, currents, voltages, and battery charges; (ii) "spacecraft" or payload orientation or position information, such as state vector or ephemeris information; (iii) payload raw mission or science output, such as images, spectra, particle measurements, or field measurements; (iv) command responses; (v) accurate timing information; and (vi) link budget data. The act of processing such telemetry data—i.e., converting raw data into engineering units or readable products—or encrypting it does not, in and of itself, cause the telemetry data to become subject to the ITAR or to ECCN 9E515 for purposes of 9A515, or to ECCNs 9E001 or 9E002 for purposes of 9A004. All classified technical data directly related to items controlled in USML Category XV or ECCNs 9A515, and defense services using the classified technical data remains subject to the ITAR. This note does not affect controls in USML XV(f), ECCN 9D515, or ECCN 9E515 on software source code or commands that control a "spacecraft," payload, or associated subsystems for purposes of 9A515. This note also does not affect controls in ECCNs 9D001, 9D002, 9E001, or 9E002 on software source code or commands that control a "spacecraft," payload, or associated subsystems for purposes of 9A004.
@@ -12739,9 +13785,9 @@ The list of items controlled is contained in the ECCN heading.
 License Requirements
 Reason for Control: NS, SI, AT
 Control(s) | Country chart (see supp. No. 1 to part 738)
-NS applies to entire entry | NS Column 1
+NS applies to entire entry | NS Column 1.
 SI applies to 9E003.a.1 through a.8,.h,.i, and.l | See § 742.14 of the EAR for additional information.
-AT applies to entire entry | AT Column 1
+AT applies to entire entry | AT Column 1.
 Reporting Requirements
 See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
@@ -12867,7 +13913,7 @@ TSR: N/A
 List of Items Controlled
 Related Controls: "Technology" that is required for items specified in ECCNs 9A101.b (except for items that are subject to the EAR), 9A104, 9A105, 9A106.a,.b, and.c, 9A107 to 9A109, 9A110 (for items that are "specially designed" for use in missile systems and subsystems), 9A111, 9A115 to 9A119, 9D103, and 9D105 is "subject to the ITAR" (see 22 CFR parts 120 through 130).
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 9E102 "Technology" according to the General Technology Note for the "use" of commodities or "software" controlled by ECCN 9A004 (except for items in 9A004 that are "subject to the ITAR," see 22 CFR part 121), 9A012, 9A101 (except for items in 9A101.b that are "subject to the ITAR," see 22 CFR part 121), 9A106.d or.e, 9A110 (for items that are "specially designed" for non-military unmanned aerial vehicles controlled by 9A012), 9B105, 9B106, 9B115, 9B116, 9D101, or 9D104.
 License Requirements
 Reason for Control: MT, AT
@@ -12879,32 +13925,35 @@ TSR: N/A
 List of Items Controlled
 Related Controls: (1) For the purpose of this entry, "use" "technology" is limited to items controlled for MT and their subsystems. (2) "Technology" for items specified in ECCNs 9A004 (except for items that are subject to the EAR), 9A005 to 9A011, 9A101.b (except for items that are subject to the EAR), 9A104, 9A105, 9A106.a,.b and.c, 9A107 to 9A109, 9A110 (for items that are "specially designed" for use in missile systems and subsystems), 9A111, 9A115 to 9A119, 9D103, and 9D105 is "subject to the ITAR" (see 22 CFR part 121).
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 9E515 "Technology" "required" for the "development," "production," operation, installation, repair, overhaul, or refurbishing of "spacecraft" and related commodities, as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: NS, MT, RS, AT
 Control(s) | Country chart (see Supp. No. 1 to part 738)
-NS applies to entire entry except 9E515.y | NS Column 1.
-MT applies to technology for items in 9A515.d, 9A515.e.2, 9A515.h, and 9B515.a controlled for MT reasons | MT Column 1.
-RS applies to entire entry except 9E515.y | RS Column 1.
+NS applies to entire entry except 9E515.x and.y | NS Column 1.
+RS applies to entire entry except 9E515.x and.y | RS Column 1.
+MT applies to technology for items in 9A515.d,.e.2,.h, and 9B515.a controlled for MT reasons | MT Column 1.
+NS applies to 9E515.x | NS Column 2.
+RS applies to 9E515.x | RS Column 2.
 RS applies to 9E515.y, except to Russia for use in, with, or for the International Space Station (ISS), including launch to the ISS | China, Russia, or Venezuela (see § 742.6(a)(7)).
 AT applies to entire entry | AT Column 1.
-License Requirement Note: The Commerce Country Chart is not used for determining license requirements for "technology" classified ECCN 9E515.f. See § 742.6(a)(9), which specifies that such "technology" is subject to a worldwide license requirement.
+License Requirement Note: The Commerce Country Chart is not used for determining license requirements for "technology" classified ECCN 9E515.f. See § 742.6(a)(9), which specifies that such "technology" is subject to a worldwide license requirement, except to Australia, Canada, and the United Kingdom.
 List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
 TSR: N/A
 Special Conditions for STA
 STA: (1) Paragraph (c)(1) of License Exception STA (§ 740.20(c)(1) of the EAR) may not be used for ECCN 9E515.b,.d,.e, or.f unless determined by BIS to be eligible for License Exception STA in accordance with § 740.20(g) (License Exception STA eligibility requests for certain 9x515 and "600 series" items). (2) Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any "technology" in 9E515.
 List of Items Controlled
-Related Controls: Technical data directly related to articles enumerated in USML Category XV are subject to the control of USML paragraph XV(f). See also ECCNs 3E001, 3E003, 6E001, and 6E002 for specific "space-qualified" items. See ECCNs 9E001 and 9E002 for technology for the International Space Station, the James Webb Space Telescope (JWST) and "parts," "components," "accessories," and "attachments" "specially designed" therefor. See USML category XV(f) for controls on technical data and defense services related to launch vehicle integration.
+Related Controls: Technical data directly related to articles described in USML Category XV are subject to the ITAR. See also ECCNs 3E001, 3E003, 6E001, and 6E002 for specific "space-qualified" items. See ECCNs 9E001 and 9E002 for technology for the International Space Station, the James Webb Space Telescope (JWST) and "parts," "components," "accessories," and "attachments" "specially designed" therefor. See USML Category XV for controls on technical data and defense services related to launch vehicle integration.
 Related Definitions: N/A
 Items:
-a. "Technology" "required" for the "development," "production," installation, repair (including on-orbit anomaly resolution and analysis beyond established procedures), overhaul, or refurbishing of commodities controlled by ECCN 9A515 (except 9A515.a.1,.a.2,.a.3,.a.4,.b,.d,.e, or.g), ECCN 9B515, or "software" controlled by ECCN 9D515.a.
+a. "Technology" "required" for the "development," "production," installation, repair (including on-orbit anomaly resolution and analysis beyond established procedures), overhaul, or refurbishing of commodities controlled by ECCN 9A515 (except 9A515.a.1, a.2, a.3, a.4,.b,.d,.e, or.g), ECCN 9B515, or "software" controlled by ECCN 9D515.a.
 b. "Technology" "required" for the "development," "production," failure analysis or anomaly resolution of software controlled by ECCN 9D515.b.
 c. [Reserved]
 d. "Technology" "required" for the "development," "production," operation, failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.d.
 e. "Technology" "required" for the "development," "production," failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.e.
-f. "Technology" "required" for the "development," "production," installation, repair (including on-orbit anomaly resolution and analysis beyond established procedures), overhaul, or refurbishing of commodities controlled by ECCN 9A515.a.1,.a.2,.a.3,.a.4, or.g.
-g. through x. [Reserved]
+f. "Technology" "required" for the "development," "production," installation, repair (including on-orbit anomaly resolution and analysis beyond established procedures), overhaul, or refurbishing of commodities controlled by ECCN 9A515.a.1, a.2, a.3, a.4, or.g.
+g. through w. [Reserved]
+x. "Technology" "required" for the "development," "production," operation, failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.x.
 y. Specific "technology" "required" for the "production," "development," operation, installation, maintenance, repair, overhaul, or refurbishing of commodities or software enumerated in ECCN 9A515.y or 9D515.y.
 Note 1: [Reserved]
 Note 2: Activities and technology/technical data directly related to or required for the spaceflight (e.g., sub-orbital, orbital, lunar, interplanetary, or otherwise beyond Earth orbit) passenger or participant experience, regardless of whether the passenger or participant experience is for space tourism, scientific or commercial research, commercial manufacturing/production activities, educational, media, or commercial transportation purposes, are not subject to the ITAR or the EAR. Such activities and technology/technical data include those directly related to or required for: (i) "Spacecraft" access, ingress, and egress, including the operation of all "spacecraft" doors, hatches, and airlocks; (ii) Physiological training (e.g., human-rated centrifuge training or parabolic flights, pressure suit or spacesuit training/operation); (iii) Medical evaluation or assessment of the spaceflight passenger or participant; (iv) Training for and operation by the passenger or participant of health and safety related hardware (e.g., seating, environmental control and life support, hygiene facilities, food preparation, exercise equipment, fire suppression, communications equipment, safety-related clothing or headgear) or emergency procedures; (v) Viewing of the interior and exterior of the spacecraft or terrestrial mock-ups; (vi) Observing "spacecraft" operations (e.g., pre-flight checks, landing, in-flight status); (vii) Training in "spacecraft" or terrestrial mock-ups for connecting to or operating passenger or participant equipment used for purposes other than operating the "spacecraft"; or (viii) Donning, wearing or utilizing the passenger's or participant's flight suit, pressure suit or spacesuit, and personal equipment.
@@ -13031,7 +14080,7 @@ TSR: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 9E991 "Technology", for the "development", "production" or "use" of equipment controlled by 9A991 or 9B991.
 License Requirements
 Reason for Control: AT
@@ -13042,7 +14091,7 @@ TSR: N/A
 List of Items Controlled
 Related Controls: N/A
 Related Definitions: N/A
-Items: The list of items controlled is contained in the ECCN heading
+Items: The list of items controlled is contained in the ECCN heading.
 9E993 Other "technology", not described by 9E003, as follows (see List of Items Controlled).
 License Requirements
 Reason for Control: AT
