@@ -6,7 +6,7 @@ Office of Business Liaison: Director
 Office of Public Affairs: Director; Deputy Director; Press Secretary; Deputy Press Secretary
 Assistant Secretary for Legislative and Intergovernmental Affairs; Deputy Assistant Secretary for Legislative and Intergovernmental Affairs
 Office of Inspector General: Freedom of Information Act Officer
-Office of the General Counsel: Deputy General Counsel; Assistant General Counsel for Litigation, Employment, and Oversight
+Office of the General Counsel: Deputy General Counsel; Deputy General Counsel for Administration; Assistant General Counsel for Employment, Litigation and Information
 Office of Executive Support: Director
 Office of Chief Information Officer: Director
 ASSISTANT SECRETARY FOR ADMINISTRATION
