@@ -1,5 +1,5 @@
 # Appendix E to Subpart UUUUU of Part 63—Data Elements
-1.0 You must record the electronic data elements in this appendix that apply to your compliance strategy under this subpart. The applicable data elements in sections 2 through 13 of this appendix must be reported in the quarterly compliance reports required under 40 CFR 63.10031(g), in an XML format prescribed by the Administrator, starting with a report that covers the first quarter of 2024. For stack tests used to demonstrate compliance, RATAs, PM CEMS correlations, RRAs and RCAs that are completed on and after January 1, 2024, the applicable data elements in sections 17 through 30 of this appendix must be reported in an XML format prescribed by the Administrator, and the information in section 31 of this appendix must be reported in as one or more PDF files.
+1.0 You must record the electronic data elements in this appendix that apply to your compliance strategy under this subpart. The applicable data elements in sections 2 through 13 of this appendix must be reported in the quarterly compliance reports required under § 63.10031(g), in a format specified by the Administrator, starting with a report that covers the first quarter of 2024. For stack tests used to demonstrate compliance, RATAs, PM CEMS correlations, RRAs and RCAs that are completed on and after January 1, 2024, the applicable data elements in sections 17 through 30 of this appendix must be reported in an XML format prescribed by the Administrator, and the information in section 31 of this appendix must be reported in as one or more PDF files.
 2.0 MATS Compliance Report Root Data Elements. You must record the following data elements and include them in each quarterly compliance report:
 2.1 Energy Information Administration's Office of Regulatory Information Systems (ORIS) Code;
 2.2 Facility Name;
@@ -37,7 +37,7 @@
 5.6 EPA Test Method 19 Equation (if applicable);
 5.7 Total Sampling Time; and
 5.8 Total Sample Volume.
-6.0 Conversion Parameters. For the parameters that are used to convert the pollutant concentration to units of the emission standard (including, as applicable, CO 2 or O 2 concentration, stack gas flow rate, stack gas moisture content, F-factors, and gross output), record:
+6.0 Conversion Parameters. For the parameters that are used to convert the pollutant concentration to units of the emission standard (including, as applicable, CO2 or O2 concentration, stack gas flow rate, stack gas moisture content, F-factors, and gross output), record:
 6.1 Parameter Type;
 6.2 Parameter Source; and
 6.3 Parameter Value, Including Units of Measure.
@@ -105,23 +105,23 @@
 13.5 If there were no deviations and/or no monitoring downtime during the quarter, record a statement to that effect.
 14.0 Reference Method Data Elements. For each of the following tests that is completed on and after January 1, 2024, you must record and report the applicable electronic data elements in sections 17 through 29 of this appendix, pertaining to the reference method(s) used for the test (see section 16 of this appendix).
 14.1 Each quarterly, annual, or triennial stack test used to demonstrate compliance (including 30- (or 90-) boiler operating day Hg LEE tests and PM tests used to set operating limits for PM CPMS);
-14.2 Each RATA of your Hg, HCl, HF, or SO 2 CEMS or each RATA of your Hg sorbent trap monitoring system; and
+14.2 Each RATA of your Hg, HCl, HF, or SO2 CEMS or each RATA of your Hg sorbent trap monitoring system; and
 14.3 Each correlation test, RRA and each RCA of your PM CEMS.
 15.0 You must report the applicable data elements for each test described in section 14 of this appendix in an XML format prescribed by the Administrator.
 15.1 For each stack test completed during a particular calendar quarter and contained in the quarterly compliance report, you must submit along with the quarterly compliance report, the data elements in sections 17 and 18 of this appendix (which are common to all tests) and the applicable data elements in sections 19 through 31 of this appendix associated with the reference method(s) used.
-15.2 For each RATA, PM CEMS correlation, RRA, or RCA, when you use the ECMPS Client Tool to report the test results as required under appendix A, B, or C to this subpart or, for SO 2 RATAs under part 75 of this chapter, you must submit along with the test results, the data elements in sections 17 and 18 of this appendix and, for each test run, the data elements in sections 19 through 30 of this appendix that are associated with the reference method(s) used.
+15.2 For each RATA, PM CEMS correlation, RRA, or RCA, when you use the ECMPS reporting tool to report the test results as required under appendix A, B, or C to this subpart or, for SO2 RATAs under part 75 of this chapter, you must submit along with the test results, the data elements in sections 17 and 18 of this appendix and, for each test run, the data elements in sections 19 through 30 of this appendix that are associated with the reference method(s) used.
 15.3 For each stack test, RATA, PM CEMS correlation, RRA, and RCA, you must also provide the information described in section 31 of this appendix as a PDF file, either along with the quarterly compliance report (for stack tests) or together with the test results reported under appendix A, B, or C to this subpart or part 75 of this chapter (for RATAs, RRAs, RCAs, or PM CEMS correlations).
-16.0 Applicable Reference Methods. One or more of the following EPA reference methods is needed for the tests described in sections 14.1 through 14.3 of this appendix: Method 1, 2, 3A, 4, 5, 5D, 6C, 26, 26A, 29, and/or 30B.
-16.1 Application of EPA test Methods 1 and 2. If you use periodic stack testing to comply with an output-based emissions limit, you must determine the stack gas flow rate during each performance test run in which EPA test Method 5, 5D, 26, 26A, 29, or 30B is used, in order to convert the measured pollutant concentration to units of the standard. For EPA test Methods 5, 5D, 26A and 29, which require isokinetic sampling, the delta-P readings made with the pitot tube and manometer at the EPA test Method 1 traverse points, taken together with measurements of stack gas temperature, pressure, diluent gas concentration (from a separate EPA test Method 3A or 3B test) and moisture, provide the necessary data for the EPA test Method 2 flow rate calculations. Note that even if you elect to comply with a heat input-based standard, when EPA test Method 5, 5D, 26A, or 29 is used, you must still use EPA test Method 2 to determine the average stack gas velocity (v s), which is needed for the percent isokinetic calculation. The EPA test Methods 26 and 30B do not require isokinetic sampling; therefore, when either of these methods is used, if the stack gas flow rate is needed to comply with the applicable output-based emissions limit, you must make a separate EPA test Method 2 determination during each test run.
-16.2 Application of EPA test Method 3A. If you elect to perform periodic stack testing to comply with a heat input-based emissions limit, a separate measurement of the diluent gas (CO 2 or O 2) concentration is required for each test run in which EPA test Method 5, 5D, 26, 26A, 29, or 30B is used, in order to convert the measured pollutant concentration to units of the standard. The EPA test Method 3A is the preferred CO 2 or O 2 test method, although EPA test Method 3B may be used instead. Diluent gas measurements are also needed for stack gas molecular weight determinations when using EPA test Method 2.
-16.3 Application of EPA test Method 4. For performance stack tests, depending on which equation is used to convert pollutant concentration to units of the standard, measurement of the stack gas moisture content, using EPA test Method 4, may also be required for each test run. The EPA test Method 4 moisture data are also needed for the EPA test Method 2 calculations (to determine the molecular weight of the gas) and for the RATA of an Hg CEMS that measures on a wet basis, when EPA test Method 30B is used. Other applications that require EPA test Method 4 moisture determinations include: RATAs of an SO 2 monitor, when the reference method and CEMS data are measured on a different moisture basis (wet or dry); conversion of wet-basis pollutant concentrations to the units of a heat input-based emissions limit when certain EPA test Method 19 equations are used (e.g., Eq. 19-3, 19-4, or 19-8); and stack gas molecular weight determinations. When EPA test Method 5, 5D, 26A, or 29 is used for the performance test, the EPA test Method 4 moisture determination may be made by using the water collected in the impingers together with data from the dry gas meter; alternatively, a separate EPA test Method 4 determination may be made. However, when EPA test Method 26 or 30B is used, EPA test Method 4 must be performed separately.
-16.4 Applications of EPA test Methods 5 and 5D. The EPA test Method 5 (or, if applicable 5D) must be used for the following applications: To demonstrate compliance with a filterable PM emissions limit; for PM tests used to set operating limits for PM CPMS; and for the initial correlations, RRAs and RCAs of a PM CEMS.
-16.5 Applications of EPA test Method 6C. If you elect to monitor SO 2 emissions from your coal-fired EGU as a surrogate for HCl, the SO 2 CEMS must be installed, certified, operated, and maintained according to 40 CFR part 75. Part 75 allows the use of EPA test Methods 6, 6A, 6B, and 6C for the required RATAs of the SO 2 monitor. However, in practice, only instrumental EPA test Method 6C is used.
+16.0 Applicable Reference Methods. One or more of the following EPA reference methods is needed for the tests described in sections 14.1 through 14.3 of this appendix: Method 1, 2, 3A, 4, 5, 5D, 5I, 6C, 26, 26A, 29, and/or 30B.
+16.1 Application of EPA test Methods 1 and 2. If you use periodic stack testing to comply with an output-based emissions limit, you must determine the stack gas flow rate during each performance test run in which EPA test Method 5, 5D, 5I, 26, 26A, 29, or 30B is used, in order to convert the measured pollutant concentration to units of the standard. For EPA test Methods 5, 5D, 5I, 26A and 29, which require isokinetic sampling, the delta-P readings made with the pitot tube and manometer at the EPA test Method 1 traverse points, taken together with measurements of stack gas temperature, pressure, diluent gas concentration (from a separate EPA test Method 3A or 3B test) and moisture, provide the necessary data for the EPA test Method 2 flow rate calculations. Note that even if you elect to comply with a heat input-based standard, when EPA test Method 5, 5D, 5I, 26A, or 29 is used, you must still use EPA test Method 2 to determine the average stack gas velocity (vs), which is needed for the percent isokinetic calculation. The EPA test Methods 26 and 30B do not require isokinetic sampling; therefore, when either of these methods is used, if the stack gas flow rate is needed to comply with the applicable output-based emissions limit, you must make a separate EPA test Method 2 determination during each test run.
+16.2 Application of EPA test Method 3A. If you elect to perform periodic stack testing to comply with a heat input-based emissions limit, a separate measurement of the diluent gas (CO2 or O2) concentration is required for each test run in which EPA test Method 5, 5D, 5I, 26, 26A, 29, or 30B is used, in order to convert the measured pollutant concentration to units of the standard. The EPA test Method 3A is the preferred CO2 or O2 test method, although EPA test Method 3B may be used instead. Diluent gas measurements are also needed for stack gas molecular weight determinations when using EPA test Method 2.
+16.3 Application of EPA test Method 4. For performance stack tests, depending on which equation is used to convert pollutant concentration to units of the standard, measurement of the stack gas moisture content, using EPA test Method 4, may also be required for each test run. The EPA test Method 4 moisture data are also needed for the EPA test Method 2 calculations (to determine the molecular weight of the gas) and for the RATA of an Hg CEMS that measures on a wet basis, when EPA test Method 30B is used. Other applications that require EPA test Method 4 moisture determinations include: RATAs of an SO2 monitor, when the reference method and CEMS data are measured on a different moisture basis (wet or dry); conversion of wet-basis pollutant concentrations to the units of a heat input-based emissions limit when certain EPA test Method 19 equations are used (e.g., Eq. 19-3, 19-4, or 19-8); and stack gas molecular weight determinations. When EPA test Method 5, 5D, 5I, 26A, or 29 is used for the performance test, the EPA test Method 4 moisture determination may be made by using the water collected in the impingers together with data from the dry gas meter; alternatively, a separate EPA test Method 4 determination may be made. However, when EPA test Method 26 or 30B is used, EPA test Method 4 must be performed separately.
+16.4 Applications of EPA test Methods 5, 5D, and 5I. The EPA test Method 5 (or, if applicable, 5D or 5I) must be used for the following applications: To demonstrate compliance with a filterable PM emissions limit; for PM tests used to set operating limits for PM CPMS; and for the initial correlations, RRAs and RCAs of a PM CEMS.
+16.5 Applications of EPA test Method 6C. If you elect to monitor SO2 emissions from your coal-fired EGU as a surrogate for HCl, the SO2 CEMS must be installed, certified, operated, and maintained according to 40 CFR part 75. Part 75 allows the use of EPA test Methods 6, 6A, 6B, and 6C for the required RATAs of the SO2 monitor. However, in practice, only instrumental EPA test Method 6C is used.
 16.6 Applications of EPA test Methods 26 and 26A. The EPA test Method 26A may be used for quarterly HCl or HF stack testing, or for the RATA of an HCl or HF CEMS. The EPA test Method 26 may be used for quarterly HCl or HF stack testing; however, for the RATAs of an HCl monitor that is following PS 18 and Procedure 6 in appendices B and F to part 60 of this chapter, EPA test Method 26 may only be used if approved upon request.
 16.7 Applications of EPA test Method 29. The EPA test Method 29 may be used for periodic performance stack tests to determine compliance with individual or total HAP metals emissions limits. For coal-fired EGUs, the total HAP emissions limits exclude Hg.
 16.8 Applications of EPA test Method 30B. The EPA test Method 30B is used for 30- (or 90-) boiler operating day Hg LEE tests and RATAs of Hg CEMS and sorbent trap monitoring systems, and it may be used for quarterly Hg stack testing (oil-fired EGUs, only).
-17.0 Facility and Test Company Information. In accordance with 40 CFR 63.7(e)(3), a test is defined as three or more runs of one or more EPA Reference Method(s) conducted to measure the amount of a specific regulated pollutant, pollutants, or surrogates being emitted from a particular EGU (or group of EGUs that share a common stack), and to satisfy requirements of this subpart. On or after January 1, 2024, you must report the data elements in sections 17 and 18, each time that you complete a required performance stack test, RATA, PM CEMS correlation, RRA, or RCA at the affected EGU(s), using EPA test Method 5, 5B, 5D, 6C, 26, 26A, 29, or 30B. You must also report the applicable data elements in sections 19 through 25 of this appendix for each test. If any separate, corresponding EPA test Method 2, 3A, or 4 test is conducted in order to convert a pollutant concentration to the units of the applicable emission standard given in Table 1 or Table 2 of this subpart or to convert pollutant concentration from wet to dry basis (or vice-versa), you must also report the applicable data elements in sections 26 through 31 of this appendix.
-The applicable data elements in sections 17 through 31 of this appendix must be submitted separately, in XML format, along with the quarterly Compliance Report (for stack tests) or along with the electronic test results submitted to the ECMPS Client Tool (for CMS performance evaluations). The Electronic Reporting Tool (ERT) or an equivalent schema can be utilized to create this XML file. Note: Ideally, for all of the tests completed at a given facility in a particular calendar quarter, the applicable data elements in sections 17 through 31 of this appendix should be submitted together in one XML file. However, as shown in Table 8 to this subpart, the timelines for submitting stack test results and CMS performance evaluations are not identical. Therefore, for calendar quarters in which both types of tests are completed, it may not be possible to submit the applicable data elements for all of those tests in a single XML file; separate submittals may be necessary to meet the applicable reporting deadlines.
+17.0 Facility and Test Company Information. In accordance with § 63.7(e)(3), a test is defined as three or more runs of one or more EPA Reference Method(s) conducted to measure the amount of a specific regulated pollutant, pollutants, or surrogates being emitted from a particular EGU (or group of EGUs that share a common stack), and to satisfy requirements of this subpart. On or after January 1, 2024, you must report the data elements in sections 17 and 18, each time that you complete a required performance stack test, RATA, PM CEMS correlation, RRA, or RCA at the affected EGU(s), using EPA test Method 5, 5B, 5D, 5I, 6C, 26, 26A, 29, or 30B. You must also report the applicable data elements in sections 19 through 25 of this appendix for each test. If any separate, corresponding EPA test Method 2, 3A, or 4 test is conducted in order to convert a pollutant concentration to the units of the applicable emission standard given in table 1 or table 2 of this subpart or to convert pollutant concentration from wet to dry basis (or vice-versa), you must also report the applicable data elements in sections 26 through 31 of this appendix.
+The applicable data elements in sections 17 through 31 of this appendix must be submitted separately, in XML format, along with the quarterly Compliance Report (for stack tests) or along with the electronic test results submitted to the ECMPS reporting tool (for CMS performance evaluations). The Electronic Reporting Tool (ERT) or an equivalent schema can be utilized to create this XML file. Note: Ideally, for all of the tests completed at a given facility in a particular calendar quarter, the applicable data elements in sections 17 through 31 of this appendix should be submitted together in one XML file. However, as shown in table 8 to this subpart, the timelines for submitting stack test results and CMS performance evaluations are not identical. Therefore, for calendar quarters in which both types of tests are completed, it may not be possible to submit the applicable data elements for all of those tests in a single XML file; separate submittals may be necessary to meet the applicable reporting deadlines.
 17.1 Part;
 17.2 Subpart;
 17.3 ORIS Code;
@@ -154,7 +154,7 @@ The applicable data elements in sections 17 through 31 of this appendix must be 
 18.4 Area of Stack;
 18.5 Control Device Code; and
 18.6 Control Device Description.
-19.0 Run-Level and Lab Data Elements for EPA test Methods 5, 5B, 5D, 26A, and 29. You must report the appropriate Source ID (i.e., Data Element 18.1) and the following data elements, as applicable, for each run of each performance stack test, PM CEMS correlation test, RATA, RRA, or RCA conducted using isokinetic EPA test Method 5, 5B, 5D, or 26A. If your EGU is oil-fired and you use EPA test Method 26A to conduct stack tests for both HCl and HF, you must report these data elements separately for each pollutant. When you use EPA test Method 29 to measure the individual HAP metals, total filterable HAP metals and total HAP metals, report only the run-level data elements (19.1, 19.3 through 19.30, and 19.38 through 19.41), and the point-level and lab data elements in sections 20 and 21 of this appendix:
+19.0 Run-Level and Lab Data Elements for EPA test Methods 5, 5B, 5D, 5I, 26A, and 29. You must report the appropriate Source ID (i.e., Data Element 18.1) and the following data elements, as applicable, for each run of each performance stack test, PM CEMS correlation test, RATA, RRA, or RCA conducted using isokinetic EPA test Method 5, 5B, 5D, 5I, or 26A. If your EGU is oil-fired and you use EPA test Method 26A to conduct stack tests for both HCl and HF, you must report these data elements separately for each pollutant. When you use EPA test Method 29 to measure the individual HAP metals, total filterable HAP metals and total HAP metals, report only the run-level data elements (sections 19.1, 19.3 through 19.30, and 19.38 through 19.41 of this appendix), and the point-level and lab data elements in sections 20 and 21 of this appendix:
 19.1 Test Number;
 19.2 Pollutant Name;
 19.3 EPA Test Method;
@@ -169,12 +169,12 @@ The applicable data elements in sections 17 through 31 of this appendix must be 
 19.12 Barometric Pressure;
 19.13 Static Pressure;
 19.14 Cumulative Elapsed Sampling Time;
-19.15 Percent O 2;
-19.16 Percent CO 2;
+19.15 Percent O2;
+19.16 Percent CO2;
 19.17 Pitot Tube ID;
 19.18 Pitot Tube Calibration Coefficient;
 19.19 Nozzle Calibration Diameter;
-19.20 F-Factor (F d, F w, or F c);
+19.20 F-Factor (Fd, Fw, or Fc);
 19.21 Calibration Coefficient of Dry Gas Meter (Y);
 19.22 Total Volume of Liquid Collected in Impingers and Silica Gel;
 19.23 Percent Moisture—Actual;
@@ -198,7 +198,7 @@ The applicable data elements in sections 17 through 31 of this appendix must be 
 19.41 Process Parameter Unit of Measure;
 19.42 Converted Concentration for PM CEMS only; and
 19.43 Converted Concentration Units (units of correlation for PM CEMS).
-20.0 Point-Level Data Elements for EPA test Methods 5, 5B, 5D, 26A, & 29. To link the point-level data with the run data in the xml schema, you must report the Source ID (i.e., Data Element 18.1), EPA Test Method (Data Element 19.3), Run Number (Data Element 19.4), and Run Begin Date (Data Element 19.8) with the following point-level data elements for each run of each performance stack test, PM CEMS correlation test, RATA, RRA, or RCA conducted using isokinetic EPA test Method 5, 5B, 5D, 26A, or 29. Note that these data elements are required for all EPA test Method 29 applications, whether the method is being used to measure the total or individual HAP metals concentrations:
+20.0 Point-Level Data Elements for EPA test Methods 5, 5B, 5D, 5I, 26A, & 29. To link the point-level data with the run data in the xml schema, you must report the Source ID (i.e., Data Element 18.1), EPA Test Method (Data Element 19.3), Run Number (Data Element 19.4), and Run Begin Date (Data Element 19.8) with the following point-level data elements for each run of each performance stack test, PM CEMS correlation test, RATA, RRA, or RCA conducted using isokinetic EPA test Method 5, 5B, 5D, 5I, 26A, or 29. Note that these data elements are required for all EPA test Method 29 applications, whether the method is being used to measure the total or individual HAP metals concentrations:
 20.1 Traverse Point ID;
 20.2 Stack Temperature;
 20.3 Differential Pressure Reading (ΔP);
@@ -281,10 +281,10 @@ The applicable data elements in sections 17 through 31 of this appendix must be 
 22.14 Calibration Coefficient of Dry Gas Meter (Y);
 22.15 Initial Reading of Dry Gas Meter Volume (dcf);
 22.16 Final Reading of Dry Gas Meter Volume (dcf);
-22.17 Percent O 2;
-22.18 Percent CO 2;
+22.17 Percent O2;
+22.18 Percent CO2;
 22.19 Type of Fuel;
-22.20 F-Factor (F d, F w, or F c);
+22.20 F-Factor (Fd, Fw, or Fc);
 22.21 Pollutant Mass Collected (value);
 22.22 Pollutant Mass Units of Measure;
 22.23 Detection Limit Flag;
@@ -313,8 +313,8 @@ The applicable data elements in sections 17 through 31 of this appendix must be 
 24.10 Run End Date;
 24.11 Run End Time (clock time end);
 24.12 Barometric Pressure;
-24.13 Percent O 2;
-24.14 Percent CO 2;
+24.13 Percent O2;
+24.14 Percent CO2;
 24.15 Cumulative Elapsed Sampling Time;
 24.16 Calibration Coefficient of Dry Gas Meter Box A (Y);
 24.17 Initial Reading of Dry Gas Meter Volume (A);
@@ -343,7 +343,7 @@ The applicable data elements in sections 17 through 31 of this appendix must be 
 24.40 Method Detection Limit;
 24.41 Percent Spike Recovery;
 24.42 Type of Fuel;
-24.43 F-Factor (F d, F w, or F c);
+24.43 F-Factor (Fd, Fw, or Fc);
 24.44 Compliance Limit Basis (heat input or electrical output);
 24.45 Heat Input or Electrical Output Unit of Measure;
 24.46 Process Parameter (value);
@@ -356,7 +356,7 @@ The applicable data elements in sections 17 through 31 of this appendix must be 
 25.3 Sample Flow Rate (A) (L/min);
 25.4 Dry Gas Meter Temperature (B); and
 25.5 Sample Flow Rate (B) (L/min).
-26.0 Pre-Run Data Elements for EPA test Methods 3A and 6C. You must report the Source ID (i.e., Data Element 18.1) and the following pre-run data elements for each SO 2 RATA using instrumental EPA test Method 6C, and for each instrumental EPA test Method 3A O 2 or CO 2 test that is performed to convert a pollutant concentration to the units of measure of the applicable emission unit of standard in Table 1 or 2 of this subpart:
+26.0 Pre-Run Data Elements for EPA test Methods 3A and 6C. You must report the Source ID (i.e., Data Element 18.1) and the following pre-run data elements for each SO2 RATA using instrumental EPA test Method 6C, and for each instrumental EPA test Method 3A O2 or CO2 test that is performed to convert a pollutant concentration to the units of measure of the applicable emission unit of standard in Table 1 or 2 of this subpart:
 26.1 Test Number;
 26.2 EPA Test Method;
 26.3 Calibration Gas Cylinder Analyte;
@@ -380,7 +380,7 @@ The applicable data elements in sections 17 through 31 of this appendix must be 
 26.21 High-Level Gas Response;
 26.22 High-Level Calibration Error; and
 26.23 High-Level APS Flag.
-27.0 Run-Level Data Elements for EPA test Methods 3A and 6C. You must report the Source ID (i.e., Data Element 18.1) and following run-level data elements for each run of each SO 2 RATA using instrumental EPA test Method 6C, and for each run of each corresponding instrumental EPA test Method 3A test that is performed to convert a pollutant concentration to the applicable emission unit of standard in Table 1 or 2 of this subpart:
+27.0 Run-Level Data Elements for EPA test Methods 3A and 6C. You must report the Source ID (i.e., Data Element 18.1) and following run-level data elements for each run of each SO2 RATA using instrumental EPA test Method 6C, and for each run of each corresponding instrumental EPA test Method 3A test that is performed to convert a pollutant concentration to the applicable emission unit of standard in Table 1 or 2 of this subpart:
 27.1 Test Number;
 27.2 Pollutant or Analyte Name;
 27.3 EPA Test Method;
@@ -411,7 +411,7 @@ The applicable data elements in sections 17 through 31 of this appendix must be 
 27.28 Post-Run Upscale (mid or high) Drift;
 27.29 Post-Run Upscale (mid or high) Drift APS Flag;
 27.30 Unadjusted Raw Emissions Average Concentration;
-27.31 Calculated Average Concentration, Adjusted for Bias (C gas);
+27.31 Calculated Average Concentration, Adjusted for Bias (Cgas);
 27.32 Concentration Units of Measure (Dry or wet);
 27.33 Type of Fuel;
 27.34 Process Parameter (value); and
@@ -429,8 +429,8 @@ The applicable data elements in sections 17 through 31 of this appendix must be 
 28.10 Pitot Tube Calibration Coefficient;
 28.11 Barometric Pressure;
 28.12 Static Pressure;
-28.13 Percent O 2;
-28.14 Percent CO 2;
+28.13 Percent O2;
+28.14 Percent CO2;
 28.15 Percent Moisture—actual;
 28.16 Dry Molecular Weight of Stack Gas;
 28.17 Wet Molecular Weight of Stack Gas;
@@ -456,4 +456,4 @@ The applicable data elements in sections 17 through 31 of this appendix must be 
 30.13 Initial Reading of Dry Gas Meter Volume (dcf);
 30.14 Final Reading of Dry Gas Meter Volume (dcf); and
 30.15 Dry Gas Meter Temperature (average).
-31.0 Other Information for Each Test or Test Series. You must provide each test included in the XML data file described in this appendix with supporting documentation, in a PDF file submitted concurrently with the XML file, such that all the data required to be reported by 40 CFR 63.7(g) are provided. That supporting data include but are not limited to diagrams showing the location of the test site and the sampling points, laboratory report(s) including analytical calibrations, calibrations of source sampling equipment, calibration gas cylinder certificates, raw instrumental data, field data sheets, quality assurance data (e.g. field recovery spikes) and any required audit results and stack testers' credentials (if applicable). The applicable data elements in 40 CFR 63.10031(f)(6)(i) through (xii) of this section must be entered into ECMPS with each PDF submittal; the test number(s) (see 40 CFR 63.10031(f)(6)(xi)) must be included. The test number(s) must match the test number(s) in sections 19 through 31 of this appendix (as applicable).
+31.0 Other Information for Each Test or Test Series. You must provide each test included in the data file described in this appendix with supporting documentation, in a PDF file submitted concurrently with the data file, such that all the data required to be reported by § 63.7(g) are provided. That supporting data include but are not limited to diagrams showing the location of the test site and the sampling points, laboratory report(s) including analytical calibrations, calibrations of source sampling equipment, calibration gas cylinder certificates, raw instrumental data, field data sheets, quality assurance data (e.g., field recovery spikes) and any required audit results and stack testers' credentials (if applicable). The applicable data elements in § 63.10031(f)(6)(i) through (xii) must be entered into the ECMPS reporting tool with each PDF submittal; the test number(s) (see § 63.10031(f)(6)(xi)) must be included. The test number(s) must match the test number(s) in sections 19 through 31 of this appendix (as applicable).
