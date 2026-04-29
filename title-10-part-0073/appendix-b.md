@@ -38,7 +38,7 @@ Security personnel who are responsible for the protection of special nuclear mat
 These general criteria establish requirements for the selection, training, equipping, testing, and qualification of individuals who will be responsible for protecting special nuclear materials, nuclear facilities, and nuclear shipments.
 When required to have security personnel that have been trained, equipped, and qualified to perform assigned security job duties in accordance with the criteria in this appendix, the licensee must establish, maintain, and follow a plan that shows how the criteria will be met. The plan must be submitted to the NRC for approval and must be implemented within 30 days after approval by the NRC unless otherwise specified by the NRC in writing.
 Definitions
-Terms defined in parts 50, 70, and 73 of this chapter have the same meaning when used in this appendix.
+Terms defined in parts 50, 53, 70, and 73 of this chapter have the same meaning when used in this appendix.
 Criteria
 A. Employment Suitability and Qualification.
 1. Suitability.
@@ -196,8 +196,7 @@ C. Shotgun—Guards, armed escorts, and armed response personnel assigned to use
 Range | Position | No. Rounds 1 | Target 2
 15 yds | Hip fire point | 4 | B-27
 25 yds | Shoulder | 4 | B-27
-1 The 4 rounds shall be fired at 4 separate targets within 10 seconds using 00 gauge (9 pellet) shotgun shells.
-2 As set forth by the National Rifle Association (NRA) in its official rules and regulations, "NRA Target Manufacturers Index," December 1976. The Index has been approved for incorporation by reference by the Director of the Federal Register. A copy of the index is available for inspection at the NRC Library, 11545 Rockville Pike, Rockville, Maryland 20852-2738.
+1 The 4 rounds shall be fired at 4 separate targets within 10 seconds using 00 gauge (9 pellet) shotgun shells. 2 As set forth by the National Rifle Association (NRA) in its official rules and regulations, "NRA Target Manufacturers Index," December 1976. The Index has been approved for incorporation by reference by the Director of the Federal Register. A copy of the index is available for inspection at the NRC Library, 11545 Rockville Pike, Rockville, Maryland 20852-2738.
 To qualify the individual shall be required to place 50 percent of all pellets (36 pellets) within the black silhouette.
 D. Requalification—Individuals shall be weapons requalified at least every 12 months in accordance with the NRC approved licensee training and qualifications plan, and in accordance with the requirements stated in A, B, and C of this section.
 V. Guard, armed response personnel, and armed escort equipment.
