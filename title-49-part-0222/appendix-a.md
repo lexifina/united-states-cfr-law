@@ -45,6 +45,8 @@ d. Crossing warning systems must be activated by use of constant warning time de
 e. Crossing warning systems must be equipped with power-out indicators. Note: Requirements d and e apply only to New Quiet Zones and New Partial Quiet Zones. Constant warning time devices and power-out indicators are not required to be added to existing warning systems in Pre-Rule Quiet Zones or Pre-Rule Partial Quiet Zones. However, if existing automatic warning device systems in Pre-Rule Quiet Zones and Pre-Rule Partial Quiet Zones are renewed, or new automatic warning device systems are installed, power-out indicators and constant warning time devices are required, unless existing conditions at the crossing would prevent the proper operation of the constant warning devices.
 f. The gap between the lowered gate and the curb or channelization device must be one foot or less, measured horizontally across the road from the end of the lowered gate to the curb or channelization device or to a point over the curb edge or channelization device. The gate and the curb top or channelization device do not have to be at the same elevation.
 g. "Break-away" channelization devices must be frequently monitored to replace broken elements.
+Recommended:
+a. The use of non-traversable curbs at speeds up to 45 mph should incorporate appropriate engineering controls such as those recommended by organizations such as the American Association of State Highway and Transportation Officials.
 4. One Way Street with Gate(s): Gate(s) must be installed such that all approaching highway lanes to the public highway-rail grade crossing are completely blocked.
 Effectiveness:.82.
 Required:
