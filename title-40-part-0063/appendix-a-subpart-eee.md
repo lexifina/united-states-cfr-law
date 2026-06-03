@@ -15,7 +15,7 @@ b. Because the control and corrective action function encompasses a variety of p
 2.4 Zero Drift (ZD). The difference in CEMS output readings at the zero pollutant level after a stated period of operation during which no unscheduled maintenance, repair, or adjustment took place.
 2.5 Calibration Standard. Calibration standards produce a known and unchanging response when presented to the pollutant analyzer portion of the CEMS, and are used to calibrate the drift or response of the analyzer.
 2.6 Relative Accuracy Test Audit (RATA). Comparison of CEMS measurements to reference method measurements in order to evaluate relative accuracy following procedures and specification given in the appropriate performance specification.
-2.7 Absolute Calibration Audit (ACA). Equivalent to calibration error (CE) test defined in the appropriate performance specification using NIST traceable calibration standards to challenge the CEMS and assess accuracy.
+2.7 Absolute Calibration Audit (ACA). Equivalent to calibration error (CE) test defined in the appropriate performance specification using EPA traceability protocol calibration gases to challenge the CEMS and assess accuracy.
 2.8 Rolling Average. The average emissions, based on some (specified) time period, calculated every minute from a one-minute average of four measurements taken at 15-second intervals.
 3. QA/QC Requirements
 3.1 QC Requirements. a. Each owner or operator must develop and implement a QC program. At a minimum, each QC program must include written procedures describing in detail complete, step-by-step procedures and operations for the following activities.
@@ -43,9 +43,9 @@ b. Whenever excessive inaccuracies occur for two consecutive quarters, the curre
 4.2 Recording Requirements for Automatic ZD and CD Adjusting Monitors. Monitors that automatically adjust the data to the corrected calibration values must record the unadjusted concentration measurement prior to resetting the calibration, if performed, or record the amount of the adjustment.
 4.3 Daily System Audit. The audit must include a review of the calibration check data, an inspection of the recording system, an inspection of the control panel warning lights, and an inspection of the sample transport and interface system (e.g., flowmeters, filters, etc.) as appropriate.
 4.4 Data Recording and Reporting. All measurements from the CEMS must be retained in the operating record for at least 5 years.
-5. Performance Evaluation for CO, O 2, and HC CEMS
-Carbon Monoxide (CO), Oxygen (O 2), and Hydrocarbon (HC) CEMS. An Absolute Calibration Audit (ACA) must be conducted quarterly, and a Relative Accuracy Test Audit (RATA) (if applicable, see sections 5.1 and 5.2 of this method) must be conducted yearly. When a performance test is also required under § 63.1207 to document compliance with emission standards, the RATA must coincide with the performance test. The audits must be conducted as follows.
-5.1 Relative Accuracy Test Audit (RATA). This requirement applies to O 2 and CO CEMS. The RATA must be conducted at least yearly. Conduct the RATA as described in the RA test procedure (or alternate procedures section) described in the applicable performance specifications. In addition, analyze the appropriate performance audit samples received from the EPA as described in the applicable sampling methods.
+5. Performance Evaluation for CO, O2, and HC CEMS
+Carbon Monoxide (CO), Oxygen (O2), and Hydrocarbon (HC) CEMS. An Absolute Calibration Audit (ACA) must be conducted quarterly, and a Relative Accuracy Test Audit (RATA) (if applicable, see sections 5.1 and 5.2 of this appendix) must be conducted annually. When a comprehensive performance test is also required under § 63.1207 to document compliance with emission standards, the RATA must occur within 180 days prior to the start of the comprehensive performance test. The audits must be conducted as follows.
+5.1 Relative Accuracy Test Audit (RATA). This requirement applies to O2 and CO CEMS. The RATA must be conducted at least annually. Conduct the RATA as described in the RA test procedure (or alternate procedures section) described in the applicable Performance Specifications. In addition, analyze the appropriate performance audit samples received from the EPA as described in the applicable sampling methods.
 5.2 Absolute Calibration Audit (ACA). The ACA must be conducted at least quarterly except in a quarter when a RATA (if applicable, see section 5.1 of this method) is conducted instead. Conduct an ACA as described in the calibration error (CE) test procedure described in the applicable performance specifications.
 5.3 Excessive Audit Inaccuracy. If the RA from the RATA or the CE from the ACA exceeds the criteria in the applicable performance specifications, hazardous waste burning must cease immediately. Hazardous waste burning cannot resume until the owner or operator takes corrective measures and audit the CEMS with a RATA to document that the CEMS is operating within the specifications.
 6. Other Requirements
@@ -58,41 +58,36 @@ Total hydrocarbons | 8A
 6.2 Downtime due to Calibration. Facilities may continue to burn hazardous waste for a maximum of 20 minutes while calibrating the CEMS. If all CEMS are calibrated at once, the facility must have twenty minutes to calibrate all the CEMS. If CEMS are calibrated individually, the facility must have twenty minutes to calibrate each CEMS. If the CEMS are calibrated individually, other CEMS must be operational while the individual CEMS is being calibrated.
 6.3 Span of the CEMS.
 6.3.1 CO CEMS. The CO CEM must have two ranges, a low range with a span of 200 ppmv and a high range with a span of 3000 ppmv at an oxygen correction factor of 1. A one-range CEM may be used, but it must meet the performance specifications for the low range in the specified span of the low range.
-6.3.2 O 2 CEMS. The O 2 CEM must have a span of 25 percent. The span may be higher than 25 percent if the O 2 concentration at the sampling point is greater than 25 percent.
+6.3.2 O2 CEMS. The O2 CEM must have a span of 25 percent. The span may be higher than 25 percent if the O2 concentration at the sampling point is greater than 25 percent.
 6.3.3 HC CEMS. The HC CEM must have a span of 100 ppmv, expressed as propane, at an oxygen correction factor of 1.
 6.3.4 CEMS Span Values. When the Oxygen Correction Factor is Greater than 2. When an owner or operator installs a CEMS at a location of high ambient air dilution, i.e., where the maximum oxygen correction factor as determined by the permitting agency is greater than 2, the owner or operator must install a CEM with a lower span(s), proportionate to the larger oxygen correction factor, than those specified above.
-6.3.5 Use of Alternative Spans. Owner or operators may request approval to use alternative spans and ranges to those specified. Alternate spans must be approved in writing in advance by the Administrator. In considering approval of alternative spans and ranges, the Administrator will consider that measurements beyond the span will be recorded as values at the maximum span for purposes of calculating rolling averages.
+6.3.5 Use of Alternative Spans. Owner or operators may request approval to use alternative spans and ranges to those specified. Alternate spans must be approved in writing in advance by the Administrator according to § 63.8(f). In considering approval of alternative spans and ranges, the Administrator will consider that measurements beyond the span will be recorded as values at the maximum span for purposes of calculating rolling averages.
 6.3.6 Documentation of Span Values. The span value must be documented by the CEMS manufacturer with laboratory data.
-6.4.1 Moisture Correction. Method 4 of appendix A, part 60 of this chapter, must be used to determine moisture content of the stack gasses.
+6.4.1 Moisture Correction. EPA Method 4 of appendix A-3 to part 60 of this chapter must be used to determine moisture content of the stack gases. Alternatively, you may petition the Administrator per § 63.8 to use either a moisture monitoring system or default moisture value(s).
 6.4.2 Oxygen Correction Factor. Measured pollutant levels must be corrected for the amount of oxygen in the stack according to the following formula:
-ER30SE99.022
 Where:
-P c = concentration of the pollutant or standard corrected to 7 percent oxygen, dry basis;
-P m = measured concentration of the pollutant, dry basis;
+Pc = concentration of the pollutant or standard corrected to 7 percent oxygen, dry basis;
+Pm = measured concentration of the pollutant, dry basis;
 E = volume fraction of oxygen in the combustion air fed into the device, on a dry basis (normally 21 percent or 0.21 if only air is fed);
 Y = measured fraction of oxygen on a dry basis at the sampling point.
 The oxygen correction factor is:
-ER30SE99.023
 6.4.3 Temperature Correction. Correction values for temperature are obtainable from standard reference materials.
 6.5 Rolling Average. A rolling average is the arithmetic average of all one-minute averages over the averaging period.
 6.5.1 One-Minute Average for CO and HHC CEMS. One-minute averages are the arithmetic average of the four most recent 15-second observations and must be calculated using the following equation:
-ER10JY00.004
 Where:
 c = the one minute average
-c i = a fifteen-second observation from the CEM
+ci = a fifteen-second observation from the CEM
 Fifteen second observations must not be rounded or smoothed. Fifteen-second observations may be disregarded only as a result of a failure in the CEMS and allowed in the source's quality assurance plan at the time of the CEMS failure. One-minute averages must not be rounded, smoothed, or disregarded.
 6.5.2 Ten Minute Rolling Average Equation. The ten minute rolling average must be calculated using the following equation:
-ER30SE99.025
 Where:
-C RA = The concentration of the standard, expressed as a rolling average
+CRA = The concentration of the standard, expressed as a rolling average
 c i = a one minute average
 6.5.3 Hourly Rolling Average Equation for CO and THC CEMS and Operating Parameter Limits. The rolling average, based on a specific number integer of hours, must be calculated using the following equation:
-ER30SE99.026
 Where:
-c RA = The concentration of the standard, expressed as a rolling average
+cRA = The concentration of the standard, expressed as a rolling average
 c i = a one minute average
-6.5.4 Averaging Periods for CEMS other than CO and THC. The averaging period for CEMS other than CO and THC CEMS must be calculated as a rolling average of all one-hour values over the averaging period. An hourly average is comprised of 4 measurements taken at equally spaced time intervals, or at most every 15 minutes. Fewer than 4 measurements might be available within an hour for reasons such as facility downtime or CEMS calibration. If at least two measurements (30 minutes of data) are available, an hourly average must be calculated. The n -hour rolling average is calculated by averaging the n most recent hourly averages.
-6.6 Units of the Standards for the Purposes of Recording and Reporting Emissions. Emissions must be recorded and reported expressed after correcting for oxygen, temperature, and moisture. Emissions must be reported in metric, but may also be reported in the English system of units, at 7 percent oxygen, 20 °C, and on a dry basis.
-6.7 Rounding and Significant Figures. Emissions must be rounded to two significant figures using ASTM procedure E–29–90 or its successor. Rounding must be avoided prior to rounding for the reported value.
+6.5.4 Averaging Periods for CEMS other than CO and THC. The averaging period for CEMS other than CO and THC CEMS must be calculated as a rolling average of all one-hour values over the averaging period. An hourly average is comprised of 4 measurements taken at equally spaced time intervals, or at most every 15 minutes. Fewer than 4 measurements might be available within an hour for reasons such as facility downtime or CEMS calibration. If at least two measurements (30 minutes of data) are available, an hourly average must be calculated. The n-hour rolling average is calculated by averaging the n most recent hourly averages.
+6.6 Units of the Standards for the Purposes of Recording and Reporting Emissions. Emissions must be recorded and reported after correcting for oxygen, temperature, and moisture. Emissions must be reported in metric, but may also be reported in the English system of units, at 7 percent oxygen, 20 °C, and on a dry basis.
+6.7 Rounding and Significant Figures. Emissions must be rounded to two significant figures. Rounding must be avoided prior to rounding for the reported value.
 7. Bibliography
 1. 40 CFR part 60, appendix F, "Quality Assurance Procedures: Procedure 1. Quality Assurance Requirements for Gas continuous Emission Monitoring Systems Used For Compliance Determination".
