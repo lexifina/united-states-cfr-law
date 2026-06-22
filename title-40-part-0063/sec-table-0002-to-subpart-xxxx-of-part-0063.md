@@ -1,6 +1,0 @@
-# Table 2 to Subpart XXXX of Part 63—Emission Limits for Tire Cord Production Affected Sources
-As stated in § 63.5986, you must comply with the emission limits for tire cord production affected sources in the following table:
-For each... | You must meet the following emission limits.
-1. Option 1.a (production-based option)—Existing tire cord production affected source | Emissions must not exceed 280 grams HAP per megagram (0.56 pounds per ton) of fabric processed at the tire cord production affected source.
-2. Option 1.b (production-based option)—New or reconstructed tire cord production affected source | Emissions must not exceed 220 grams HAP per megagram (0.43 pounds per ton) of fabric processed at the tire cord production affected source.
-3. Option 2 (HAP constituent option)—Existing, new or reconstructed tire cord production affected source | a. Emissions of each HAP in Table 16 to this subpart must not exceed 1,000 grams HAP per megagram (2 pounds per ton) of total coatings used at the tire cord production affected source, andb. Emissions of each HAP not in Table 16 to this subpart must not exceed 10,000 grams HAP per megagram (20 pounds per ton) of total coatings used at the tire cord production affected source.

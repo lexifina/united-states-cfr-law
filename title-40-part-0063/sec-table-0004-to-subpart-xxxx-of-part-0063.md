@@ -1,8 +1,0 @@
-# Table 4 to Subpart XXXX of Part 63—Operating Limits for Puncture Sealant Application Control Devices
-As stated in § 63.5988(b), you must comply with the operating limits for puncture sealant application affected sources in the following table unless you are meeting Option 2 (HAP constituent option) limits in Table 3 to this subpart:
-For each... | You must...
-1. Thermal oxidizer to which puncture sealant application spray booth emissions are ducted | Maintain the daily average firebox secondary chamber temperature within the operating range established during the performance test.
-2. Carbon adsorber (regenerative) to which puncture sealant application spray booth emissions are ducted | a. Maintain the total regeneration mass, volumetric flow, and carbon bed temperature at the operating range established during the performance test.b. Reestablish the carbon bed temperature to the levels established during the performance test within 15 minutes of each cooling cycle.
-3. Other type of control device to which puncture sealant application spray booth emissions are ducted | Maintain your operating parameter(s) within the range(s) established during the performance test and according to your monitoring plan.
-4. Permanent total enclosure capture system | a. Maintain the face velocity across any NDO at least at the levels established during the performance test.b. Maintain the size of NDO, the number of NDO, and their proximity to HAP emission sources consistent with the parameters established during the performance test.
-5. Other capture system | Maintain the operating parameters within the range(s) established during the performance test and according to your monitoring plan.
