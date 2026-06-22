@@ -68,195 +68,193 @@ Variable-speed means capable of automatically adjusting the compressor speed bas
 4. Test Measurement
 4.1 Cooling Mode
 Note: For the purposes of this cooling mode test procedure, evaporator inlet air is considered the "indoor air" of the conditioned space and condenser inlet air is considered the "outdoor air" outside of the conditioned space.
-4.1.1 Single-Speed Cooling Mode Test. For single-speed portable air conditioners, measure the indoor room cooling capacity and overall power input in cooling mode in accordance with sections 7.1.b and 7.1.c of ANSI/AHAM PAC-1-2015, respectively, including the references to sections 5.4, 7.3, 7.6, 7.7, and 11 of ASHRAE 37-2009. Determine the test duration in accordance with section 8.7 of ASHRAE 37-2009, including the reference to section 9.2 of the same standard, referring to Figure 12 and the Figure 12 Notes of ANSI/AMCA 210 to determine placement of static pressure taps, and including references to ASHRAE 41.1-1986 and ASHRAE 41.6-1994. Disregard the test conditions in Table 3 of ANSI/AHAM PAC-1-2015. Instead, apply the test conditions for single-duct and dual-duct portable air conditioners presented in Table 1 of this appendix. For single-duct units, measure the indoor room cooling capacity, Capacity SD, and overall power input in cooling mode, P SD, in accordance with the ambient conditions for test condition 1.C, presented in Table 1 of this appendix. For dual-duct units, measure the indoor room cooling capacity and overall power input twice, first in accordance with ambient conditions for test condition 1.A (Capacity 95, P 95), and then in accordance with test condition 1.B (Capacity 83, P 83), both presented in Table 1 of this appendix. For the remainder of this test procedure, test combined-duct single-speed portable air conditioners following any instruction for dual-duct single-speed portable air conditioners, unless otherwise specified.
+4.1.1 Single-Speed Cooling Mode Test. For single-speed portable air conditioners, measure the indoor room cooling capacity and overall power input in cooling mode in accordance with sections 7.1.b and 7.1.c of ANSI/AHAM PAC-1-2015, respectively, including the references to sections 5.4, 7.3, 7.6, 7.7, and 11 of ASHRAE 37-2009. Determine the test duration in accordance with section 8.7 of ASHRAE 37-2009, including the reference to section 9.2 of the same standard, referring to Figure 12 and the Figure 12 Notes of ANSI/AMCA 210 to determine placement of static pressure taps, and including references to ASHRAE 41.1-1986 and ASHRAE 41.6-1994. Disregard the test conditions in Table 3 of ANSI/AHAM PAC-1-2015. Instead, apply the test conditions for single-duct and dual-duct portable air conditioners presented in Table 1 of this appendix. For single-duct units, measure the indoor room cooling capacity, CapacitySD, and overall power input in cooling mode, PSD, in accordance with the ambient conditions for test condition 1.C, presented in Table 1 of this appendix. For dual-duct units, measure the indoor room cooling capacity and overall power input twice, first in accordance with ambient conditions for test condition 1.A (Capacity95, P95), and then in accordance with test condition 1.B (Capacity83, P83), both presented in Table 1 of this appendix. For the remainder of this test procedure, test combined-duct single-speed portable air conditioners following any instruction for dual-duct single-speed portable air conditioners, unless otherwise specified.
 Table 1—Single-Speed Evaporator (Indoor) and Condenser (Outdoor) Inlet Test Conditions
-Test condition | Evaporator inlet air, °F (°C) | Dry bulb | Wet bulb | Condenser inlet air, °F (°C) | Dry bulb | Wet bulb
+Test condition | Evaporator inlet air, °F (°C) | Condenser inlet air, °F (°C)
+Dry bulb | Wet bulb | Dry bulb | Wet bulb
 1.A | 80 (26.7) | 67 (19.4) | 95 (35.0) | 75 (23.9)
 1.B | 80 (26.7) | 67 (19.4) | 83 (28.3) | 67.5 (19.7)
 1.C | 80 (26.7) | 67 (19.4) | 80 (26.7) | 67 (19.4)
-4.1.2 Variable-Speed Cooling Mode Test. For variable-speed portable air conditioners, measure the indoor room cooling capacity and overall power input in cooling mode in accordance with sections 7.1.b and 7.1.c of ANSI/AHAM PAC-1-2015, respectively, including the references to sections 5.4, 7.3, 7.6, 7.7, and 11 of ASHRAE 37-2009, except as detailed below. Determine the test duration in accordance with section 8.7 of ASHRAE 37-2009, including the reference to section 9.2 of the same standard. Disregard the test conditions in Table 3 of ANSI/AHAM PAC-1-2015. Instead, apply the test conditions for single-duct and dual-duct portable air conditioners presented in Table 2 of this appendix. For a single-duct unit, measure the indoor room cooling capacity and overall power input in cooling mode twice, first in accordance with the ambient conditions and compressor speed settings for test condition 2.D (Capacity SD_Full, P SD_Full), and then in accordance with the ambient conditions for test condition 2.E (Capacity SD_Low, P SD_Low), both presented in Table 2 of this appendix. For dual-duct units, measure the indoor room cooling capacity and overall power input three times, first in accordance with ambient conditions for test condition 2.A (Capacity 95_Full, P 95_Full), second in accordance with the ambient conditions for test condition 2.B (Capacity 83_Full, P 83_Full), and third in accordance with the ambient conditions for test condition 2.C (Capacity 83_Low, P 83_Low), each presented in Table 2 of this appendix. For the remainder of this test procedure, test combined-duct variable-speed portable air conditioners following any instruction for dual-duct variable-speed portable air conditioners, unless otherwise specified. For test conditions 2.A, 2.B, and 2.D, achieve the full compressor speed with user controls, as defined in section 2.13 of this appendix. For test conditions 2.C and 2.E, set the required compressor speed in accordance with instructions the manufacturer provided to DOE.
+4.1.2 Variable-Speed Cooling Mode Test. For variable-speed portable air conditioners, measure the indoor room cooling capacity and overall power input in cooling mode in accordance with sections 7.1.b and 7.1.c of ANSI/AHAM PAC-1-2015, respectively, including the references to sections 5.4, 7.3, 7.6, 7.7, and 11 of ASHRAE 37-2009, except as detailed below. Determine the test duration in accordance with section 8.7 of ASHRAE 37-2009, including the reference to section 9.2 of the same standard. Disregard the test conditions in Table 3 of ANSI/AHAM PAC-1-2015. Instead, apply the test conditions for single-duct and dual-duct portable air conditioners presented in Table 2 of this appendix. For a single-duct unit, measure the indoor room cooling capacity and overall power input in cooling mode twice, first in accordance with the ambient conditions and compressor speed settings for test condition 2.D (CapacitySD_Full, PSD_Full), and then in accordance with the ambient conditions for test condition 2.E (CapacitySD_Low, PSD_Low), both presented in Table 2 of this appendix. For dual-duct units, measure the indoor room cooling capacity and overall power input three times, first in accordance with ambient conditions for test condition 2.A (Capacity95_Full, P95_Full), second in accordance with the ambient conditions for test condition 2.B (Capacity83_Full, P83_Full), and third in accordance with the ambient conditions for test condition 2.C (Capacity83_Low, P83_Low), each presented in Table 2 of this appendix. For the remainder of this test procedure, test combined-duct variable-speed portable air conditioners following any instruction for dual-duct variable-speed portable air conditioners, unless otherwise specified. For test conditions 2.A, 2.B, and 2.D, achieve the full compressor speed with user controls, as defined in section 2.13 of this appendix. For test conditions 2.C and 2.E, set the required compressor speed in accordance with instructions the manufacturer provided to DOE.
 Table 2—Variable-Speed Evaporator (Indoor) and Condenser (Outdoor) Inlet Test Conditions
-Test condition | Evaporator inlet air °F (°C) | Dry bulb | Wet bulb | Condenser inlet air °F (°C) | Dry bulb | Wet bulb | Compressor speed
+Test condition | Evaporator inlet air °F (°C) | Condenser inlet air °F (°C) | Compressor speed
+Dry bulb | Wet bulb | Dry bulb | Wet bulb
 2.A | 80 (26.7) | 67 (19.4) | 95 (35.0) | 75 (23.9) | Full.
 2.B | 80 (26.7) | 67 (19.4) | 83 (28.3) | 67.5 (19.7) | Full.
 2.C | 80 (26.7) | 67 (19.4) | 83 (28.3) | 67.5 (19.7) | Low.
 2.D | 80 (26.7) | 67 (19.4) | 80 (26.7) | 67 (19.4) | Full.
 2.E | 80 (26.7) | 67 (19.4) | 80 (26.7) | 67 (19.4) | Low.
 4.1.3. Duct Heat Transfer
-Throughout the cooling mode test, measure the surface temperature of the condenser exhaust duct and condenser inlet duct, where applicable. Calculate the average temperature at each thermocouple placement location. Then calculate the average surface temperature of each duct. For single-duct and dual-duct units, calculate the average of the four average temperature measurements taken on the duct. For combined-duct units, calculate the average of the sixteen average temperature measurements taken on the duct. Calculate the surface area (A duct_j) of each duct according to:
-A duct_j = Cj × Lj
+Throughout the cooling mode test, measure the surface temperature of the condenser exhaust duct and condenser inlet duct, where applicable. Calculate the average temperature at each thermocouple placement location. Then calculate the average surface temperature of each duct. For single-duct and dual-duct units, calculate the average of the four average temperature measurements taken on the duct. For combined-duct units, calculate the average of the sixteen average temperature measurements taken on the duct. Calculate the surface area (Aduct_j) of each duct according to:
+Aduct_j = Cj × Lj
 Where:
 Cj = the circumference of duct "j", including any manufacturer-supplied insulation, measured by wrapping a flexible measuring tape, or equivalent, around the outside of a combined duct, making sure the tape is on the outermost ridges or, alternatively, if the duct has a circular cross-section, by multiplying the outer diameter by 3.14.
 Lj = the extended length of duct "j" while under test.
 j represents the condenser exhaust duct for single-duct units, the condenser exhaust duct and the condenser inlet duct for dual-duct units, and the combined duct for combined-duct units.
 Calculate the total heat transferred from the surface of the duct(s) to the indoor conditioned space while operating in cooling mode at each test condition, as follows:
 For single-duct single-speed portable air conditioners:
-Q duct_SD = 3 × A duct_j × (T duct_j − T ei)
+Qduct_SD = 3 × Aduct_j × (Tduct_j−Tei)
 For dual-duct single-speed portable air conditioners:
-Q duct_DD_95 = Σ j {3 × A duct_j × (T duct_95_j −T ei)}
-Q duct_DD_83 = Σ j {3 × A duct_j × (T duct_83_j −T ei)}
+Qduct_DD_95 = Σj{3 × Aduct_j × (Tduct_95_j−Tei)}
+Qduct_DD_83 = Σj{3 × Aduct_j × (Tduct_83_j−Tei)}
 For single-duct variable-speed portable air conditioners:
-Q duct_SD_Full = 3 × A duct × (T duct_Full_j − T ei)
-Q duct_SD_Low = 3 × A duct × (T duct_Low_j − T ei)
+Qduct_SD_Full = 3 × Aduct × (Tduct_Full_j−Tei)
+Qduct_SD_Low = 3 × Aduct × (Tduct_Low_j−Tei)
 For dual-duct variable-speed portable air conditioners:
-Q duct_DD_95_Full = Σ j {3 × A duct_j × (T duct_Full_95_j −T ei)}
-Q duct_DD_83_Full = Σ j {3 × A duct_j × (T duct_Full_83_j −T ei)}
-Q duct_DD_83_Low = Σ j {3 × A duct_j × (T duct_Low_83_j —T ei)}
+Qduct_DD_95_Full = Σj{3 × Aduct_j × (Tduct_Full_95_j−Tei)}
+Qduct_DD_83_Full = Σj{3 × Aduct_j × (Tduct_Full_83_j−Tei)}
+Qduct_DD_83_Low = Σj{3 × Aduct_j × (Tduct_Low_83_j—Tei)}
 Where:
-Q duct_SD = the total heat transferred from the duct to the indoor conditioned space in cooling mode, in Btu/h, when tested at Test Condition 1.C.
-Q duct_DD_95 and Q duct_DD_83 = the total heat transferred from the ducts to the indoor conditioned space in cooling mode, in Btu/h, when tested at Test Conditions 1.A and 1.B, respectively.
-Q duct_SD_Full and Q duct_SD_Low = the total heat transferred from the duct to the indoor conditioned space in cooling mode, in Btu/h, when tested at Test Conditions 2.D and 2.E, respectively.
-Q duct_DD_95_Full, Q duct_DD_83_Full, and Q duct_DD_83_Low = the total heat transferred from the ducts to the indoor conditioned space in cooling mode, in Btu/h, when tested at Test Condition 2.A, Test Condition 2.B, and Test Condition 2.C, respectively.
+Qduct_SD = the total heat transferred from the duct to the indoor conditioned space in cooling mode, in Btu/h, when tested at Test Condition 1.C.
+Qduct_DD_95 and Qduct_DD_83 = the total heat transferred from the ducts to the indoor conditioned space in cooling mode, in Btu/h, when tested at Test Conditions 1.A and 1.B, respectively.
+Qduct_SD_Full and Qduct_SD_Low = the total heat transferred from the duct to the indoor conditioned space in cooling mode, in Btu/h, when tested at Test Conditions 2.D and 2.E, respectively.
+Qduct_DD_95_Full, Qduct_DD_83_Full, and Qduct_DD_83_Low = the total heat transferred from the ducts to the indoor conditioned space in cooling mode, in Btu/h, when tested at Test Condition 2.A, Test Condition 2.B, and Test Condition 2.C, respectively.
 3 = empirically-derived convection coefficient in Btu/h per square foot per °F.
-A duct_j = surface area of the duct "j", as calculated in this section, in square feet.
-T duct_j = average surface temperature for duct "j" of single-duct single-speed portable air conditioners, in °F, as measured at Test Condition 1.C.
-T duct_95_j and T duct_83_j = average surface temperature for duct "j" of dual-duct single-speed portable air conditioners, in °F, as measured at Test Conditions 1.A and 1.B, respectively.
-T duct_Full_j and T duct_Low_j = average surface temperature for duct "j" of single-duct variable-speed portable air conditioners, in °F, as measured at Test Conditions 2.D and 2.E, respectively.
-T duct_Full_95_j, T duct_Full_83_j, and T duct_Low_83_j = average surface temperature for duct "j" of dual-duct variable-speed portable air conditioners, in °F, as measured at Test Conditions 2.A, 2.B, and 2.C, respectively.
+Aduct_j = surface area of the duct "j", as calculated in this section, in square feet.
+Tduct_j = average surface temperature for duct "j" of single-duct single-speed portable air conditioners, in °F, as measured at Test Condition 1.C.
+Tduct_95_j and Tduct_83_j = average surface temperature for duct "j" of dual-duct single-speed portable air conditioners, in °F, as measured at Test Conditions 1.A and 1.B, respectively.
+Tduct_Full_j and Tduct_Low_j = average surface temperature for duct "j" of single-duct variable-speed portable air conditioners, in °F, as measured at Test Conditions 2.D and 2.E, respectively.
+Tduct_Full_95_j, Tduct_Full_83_j, and Tduct_Low_83_j = average surface temperature for duct "j" of dual-duct variable-speed portable air conditioners, in °F, as measured at Test Conditions 2.A, 2.B, and 2.C, respectively.
 j represents the condenser exhaust duct for single-duct units, the condenser exhaust duct and the condenser inlet duct for dual-duct units, and the combined duct for combined-duct units.
-T ei = average evaporator inlet air dry-bulb temperature, as measured in section 4.1 of this appendix, in °F.
+Tei = average evaporator inlet air dry-bulb temperature, as measured in section 4.1 of this appendix, in °F.
 4.1.4. Infiltration Air Heat Transfer.
 Calculate the sample unit's heat contribution from infiltration air into the conditioned space for each cooling mode test as follows:
 Calculate the dry air mass flow rate of infiltration air, which affects the sensible and latent components of heat contribution from infiltration air, according to the following equations.
 For a single-duct single-speed unit:
-ER15MY23.000
 For a dual-duct single-speed unit:
-ER15MY23.001
 For a single-duct variable-speed unit:
-ER15MY23.002
 For a dual-duct variable-speed unit:
-ER15MY23.003
 Where:
 m SD, m SD_Full, and m SD_Low = dry air mass flow rate of infiltration air for single-duct portable air conditioners, in pounds per minute (lb/m) when tested at Test Conditions 1.C, 2.D, and 2.E, respectively.
 m 95, m 83, m 95_Full, m 83_Full, and m 83_Low = dry air mass flow rate of infiltration air for dual-duct portable air conditioners, in lb/m, when tested at Test Conditions 1.A, 1.B, 2.A, 2.B, and 2.C, respectively.
-V co_SD, V co_SD_Full, V co_SD_Low, V co_95, V co_83, V co_95_Full, V co_83_Full, and V co_83_Low = average volumetric flow rate of the condenser outlet air, in cubic feet per minute (cfm), as measured at Test Conditions 1.C, 2.D, 2.E, 1.A, 1.B, 2.A, 2.B, and 2.C, respectively, as required in sections 4.1.1 and 4.1.2 of this appendix.
-V ci_95, V ci_83, V ci_95_Full, V ci_83_Full, and V ci_83_Low = average volumetric flow rate of the condenser inlet air, in cfm, as measured at Test Conditions 1.A, 1.B, 2.A, 2.B, and 2.C, respectively, as required in sections 4.1.1 and 4.1.2 of this appendix.
-ρ co_SD, ρ co_SD_Full, ρ co_SD_Low, ρ co_95, ρ co_83, ρ co_95_Full, ρ co_83_Full, and ρ co_83_Low = average density of the condenser outlet air, in pounds mass per cubic foot (lb m /ft 3), as measured at Test Conditions 1.C, 2.D, 2.E, 1.A, 1.B, 2.A, 2.B, and 2.C, respectively, as required in sections 4.1.1 and 4.1.2 of this appendix.
-ρ ci_95, ρ ci_83, ρ ci_95_Full, ρ ci_83_Full, and ρ ci_83_Low = average density of the condenser inlet air, in lb m /ft 3, as measured at Test Conditions 1.A, 1.B, 2.A, 2.B, and 2.C, respectively, as required in sections 4.1.1 and 4.1.2 of this appendix.
-ω co_SD, ω co_SD_Full, ω co_SD_Low, ω co_95, ω co_83, ω co_95_Full, ω co_83_Full, and ω co_83_Low = average humidity ratio of condenser outlet air, in pounds mass of water vapor per pounds mass of dry air (lb w /lb da), as measured at Test Conditions 1.C, 2.D, 2.E, 1.A, 1.B, 2.A, 2.B, and 2.C, respectively, as required in sections 4.1.1 and 4.1.2 of this appendix.
-ω ci_95, ω ci_83, ω ci_95_Full, ω ci_83_Full, and ω ci_83_Low = average humidity ratio of condenser inlet air, in lb w /lb da, as measured at Test Conditions 1.A, 1.B, 2.A, 2.B, and 2.C, respectively, as required in sections 4.1.1 and 4.1.2 of this appendix.
+Vco_SD, Vco_SD_Full, Vco_SD_Low, Vco_95, Vco_83, Vco_95_Full, Vco_83_Full, and Vco_83_Low = average volumetric flow rate of the condenser outlet air, in cubic feet per minute (cfm), as measured at Test Conditions 1.C, 2.D, 2.E, 1.A, 1.B, 2.A, 2.B, and 2.C, respectively, as required in sections 4.1.1 and 4.1.2 of this appendix.
+Vci_95, Vci_83, Vci_95_Full, Vci_83_Full, and Vci_83_Low = average volumetric flow rate of the condenser inlet air, in cfm, as measured at Test Conditions 1.A, 1.B, 2.A, 2.B, and 2.C, respectively, as required in sections 4.1.1 and 4.1.2 of this appendix.
+ρco_SD, ρco_SD_Full, ρco_SD_Low, ρco_95, ρco_83, ρco_95_Full, ρco_83_Full, and ρco_83_Low = average density of the condenser outlet air, in pounds mass per cubic foot (lbm/ft 3), as measured at Test Conditions 1.C, 2.D, 2.E, 1.A, 1.B, 2.A, 2.B, and 2.C, respectively, as required in sections 4.1.1 and 4.1.2 of this appendix.
+ρci_95, ρci_83, ρci_95_Full, ρci_83_Full, and ρci_83_Low = average density of the condenser inlet air, in lbm/ft 3, as measured at Test Conditions 1.A, 1.B, 2.A, 2.B, and 2.C, respectively, as required in sections 4.1.1 and 4.1.2 of this appendix.
+ωco_SD, ωco_SD_Full, ωco_SD_Low, ωco_95, ωco_83, ωco_95_Full, ωco_83_Full, and ωco_83_Low = average humidity ratio of condenser outlet air, in pounds mass of water vapor per pounds mass of dry air (lbw/lbda), as measured at Test Conditions 1.C, 2.D, 2.E, 1.A, 1.B, 2.A, 2.B, and 2.C, respectively, as required in sections 4.1.1 and 4.1.2 of this appendix.
+ωci_95, ωci_83, ωci_95_Full, ωci_83_Full, and ωci_83_Low = average humidity ratio of condenser inlet air, in lbw/lbda, as measured at Test Conditions 1.A, 1.B, 2.A, 2.B, and 2.C, respectively, as required in sections 4.1.1 and 4.1.2 of this appendix.
 Calculate the sensible component of infiltration air heat contribution according to the following equations.
 For single-duct single-speed units:
-Q s_SD_95 = m SD × 60 × [c p_da × (95−80) + (c p_wv × (0.0141 × 95 − 0.0112 × 80))]
-Q s_SD_83 = m SD × 60 × [(c p_da × (83 − 80) + (c p_wv × (0.01086 × 83 − 0.0112 × 80))]
+Qs_SD_95 = m SD × 60 × [cp_da × (95−80) + (cp_wv × (0.0141 × 95 − 0.0112 × 80))]
+Qs_SD_83 = m SD × 60 × [(cp_da × (83 − 80) + (cp_wv × (0.01086 × 83 − 0.0112 × 80))]
 For dual-duct single-speed units:
-Q s_DD_95 = m 95 × 60 × [c p_da × (95 − 80) + (c p_wv × (0.0141 × 95 − 0.0112 × 80))]
-Q s_DD_83 = m 83 × 60 × [(c p_da × (83 − 80) + (c p_wv × (0.01086 × 83 − 0.0112 × 80))]
+Qs_DD_95 = m 95 × 60 × [cp_da × (95 − 80) + (cp_wv × (0.0141 × 95 − 0.0112 × 80))]
+Qs_DD_83 = m 83 × 60 × [(cp_da × (83 − 80) + (cp_wv × (0.01086 × 83 − 0.0112 × 80))]
 For single-duct variable-speed units:
-Q s_SD_95_Full = m SD_Full × 60 × [c p_da × (95 − 80) + (c p_wv × (0.0141 × 95 − 0.0112 × 80))]
-Q s_SD_83_Full = m SD_Full × 60 × [(c p_da × (83 − 80) + (c p_wv × (0.01086 × 83 − 0.0112 × 80))]
-Q s_SD_83_Low = m SD_Low × 60 × [(c p_da × (83 − 80) + (c p_wv × (0.01086 × 83 − 0.0112 × 80))]
+Qs_SD_95_Full = m SD_Full × 60 × [cp_da × (95 − 80) + (cp_wv × (0.0141 × 95 − 0.0112 × 80))]
+Qs_SD_83_Full = m SD_Full × 60 × [(cp_da × (83 − 80) + (cp_wv × (0.01086 × 83 − 0.0112 × 80))]
+Qs_SD_83_Low = m SD_Low × 60 × [(cp_da × (83 − 80) + (cp_wv × (0.01086 × 83 − 0.0112 × 80))]
 For dual-duct variable-speed units:
-Q s_DD_95_Full = m 95_Full × 60 × [c p_da × (95 − 80) + (c p_wv × (0.0141 × 95 − 0.0112 × 80))]
-Q s_DD_83_Full = m 83_Full × 60 × [(c p_da × (83 − 80) + (c p_wv × (0.01086 × 83 − 0.0112 × 80))]
-Q s_DD_83_Low = m 83_Low × 60 × [(c p_da × (83 − 80) + (c p_wv × (0.01086 × 83 − 0.0112 × 80))]
+Qs_DD_95_Full = m 95_Full × 60 × [cp_da × (95 − 80) + (cp_wv × (0.0141 × 95 − 0.0112 × 80))]
+Qs_DD_83_Full = m 83_Full × 60 × [(cp_da × (83 − 80) + (cp_wv × (0.01086 × 83 − 0.0112 × 80))]
+Qs_DD_83_Low = m 83_Low × 60 × [(cp_da × (83 − 80) + (cp_wv × (0.01086 × 83 − 0.0112 × 80))]
 Where:
-Q s_SD_95, Q s_SD_83, Q s_DD_95, and Q s_DD_83 = sensible heat added to the room by infiltration air, in Btu/h, for each duct configuration and temperature condition.
-Q s_SD_95_Full, Q s_SD_83_Full, Q s_SD_83_Low, Q s_DD_95_Full, Q s_DD_83_Full, and Q s_DD_83_Low = sensible heat added to the room by infiltration air, in Btu/h, for each duct configuration, temperature condition, and compressor speed.
+Qs_SD_95, Qs_SD_83, Qs_DD_95, and Qs_DD_83 = sensible heat added to the room by infiltration air, in Btu/h, for each duct configuration and temperature condition.
+Qs_SD_95_Full, Qs_SD_83_Full, Qs_SD_83_Low, Qs_DD_95_Full, Qs_DD_83_Full, and Qs_DD_83_Low = sensible heat added to the room by infiltration air, in Btu/h, for each duct configuration, temperature condition, and compressor speed.
 m SD, m 95, and m 83 = dry air mass flow rate of infiltration air for single-speed portable air conditioners, in lb/m, as calculated in section 4.1.4 of this appendix.
 m SD_95_Full, m SD_83_Low, m 95_Full and m 83_Low = dry air mass flow rate of infiltration air for variable-speed portable air conditioners, in lb/m, as calculated in section 4.1.4 of this appendix.
-c p_da = specific heat of dry air, 0.24 Btu/(lbm °F).
-c p_wv = specific heat of water vapor, 0.444 Btu/(lbm °F).
+cp_da = specific heat of dry air, 0.24 Btu/(lbm °F).
+cp_wv = specific heat of water vapor, 0.444 Btu/(lbm °F).
 80 = indoor chamber dry-bulb temperature, in °F.
 95 = infiltration air dry-bulb temperature for Test Conditions 1.A and 2.A, in °F.
 83 = infiltration air dry-bulb temperature for Test Conditions 1.B, 2.B, and 2.C, in °F.
-0.0141 = humidity ratio of the dry-bulb infiltration air for Test Conditions 1.A and 2.A, in lb w /lb da.
-0.01086 = humidity ratio of the dry-bulb infiltration air for Test Conditions 1.B, 2.B, and 2.C, in lb w /lb da.
-0.0112 = humidity ratio of the indoor chamber air, in lb w /lb da (ω indoor).
+0.0141 = humidity ratio of the dry-bulb infiltration air for Test Conditions 1.A and 2.A, in lbw/lbda.
+0.01086 = humidity ratio of the dry-bulb infiltration air for Test Conditions 1.B, 2.B, and 2.C, in lbw/lbda.
+0.0112 = humidity ratio of the indoor chamber air, in lbw/lbda (ωindoor).
 60 = conversion factor from minutes to hours.
 Calculate the latent heat contribution of the infiltration air according to the following equations. For a single-duct single-speed unit:
-Q l_SD_95 = m SD × 60 × 1061 × (0.0141 − 0.0112)
-Q l_SD_83 = m SD × 60 × 1061 × (0.01086 − 0.0112)
+Ql_SD_95 = m SD × 60 × 1061 × (0.0141 − 0.0112)
+Ql_SD_83 = m SD × 60 × 1061 × (0.01086 − 0.0112)
 For a dual-duct single-speed unit:
-Q l_DD_95 = m 95 × 60 × 1061 × (0.0141 − 0.0112)
-Q l_DD_83 = m 83 × 60 × 1061 × (0.01086 − 0.0112)
+Ql_DD_95 = m 95 × 60 × 1061 × (0.0141 − 0.0112)
+Ql_DD_83 = m 83 × 60 × 1061 × (0.01086 − 0.0112)
 For a single-duct variable-speed unit:
-Q l_SD_95_Full = m SD_Full × 60 × 1061 × (0.0141 − 0.0112)
-Q l_SD_83_Full = m SD_Full × 60 × 1061 × (0.01086 − 0.0112)
-Q l_SD_83_Low = m SD_Low × 60 × 1061 × (0.01086 − 0.0112)
+Ql_SD_95_Full = m SD_Full × 60 × 1061 × (0.0141 − 0.0112)
+Ql_SD_83_Full = m SD_Full × 60 × 1061 × (0.01086 − 0.0112)
+Ql_SD_83_Low = m SD_Low × 60 × 1061 × (0.01086 − 0.0112)
 For a dual-duct variable-speed unit:
-Q l_DD_95_Full = m 95_Full × 60 × 1061 × (0.0141 − 0.0112)
-Q l_DD_83_Full = m 83_Full × 60 × 1061 × (0.01086 − 0.0112)
-Q l_DD_83_Low = m 83_Low × 60 × 1061 × (0.01086 − 0.0112)
+Ql_DD_95_Full = m 95_Full × 60 × 1061 × (0.0141 − 0.0112)
+Ql_DD_83_Full = m 83_Full × 60 × 1061 × (0.01086 − 0.0112)
+Ql_DD_83_Low = m 83_Low × 60 × 1061 × (0.01086 − 0.0112)
 Where:
-Q l_SD_95, Q l_SD_83, Q l_DD_95, and Q l_DD_83 = latent heat added to the room by infiltration air, in Btu/h, for each duct configuration and temperature condition.
-Q l_SD_95_Full, Q l_SD_83_Full, Q l_SD_Low, Q l_DD_95_Full, Q l_DD_83_Full, and Q l_DD_83_Low = latent heat added to the room by infiltration air, in Btu/h, for each duct configuration, temperature condition, and compressor speed.
+Ql_SD_95, Ql_SD_83, Ql_DD_95, and Ql_DD_83 = latent heat added to the room by infiltration air, in Btu/h, for each duct configuration and temperature condition.
+Ql_SD_95_Full, Ql_SD_83_Full, Ql_SD_Low, Ql_DD_95_Full, Ql_DD_83_Full, and Ql_DD_83_Low = latent heat added to the room by infiltration air, in Btu/h, for each duct configuration, temperature condition, and compressor speed.
 m SD, m 95, and m 83 = dry air mass flow rate of infiltration air for portable air conditioners, in lb/m, when tested at Test Conditions 1.C, 1.A, and 1.B, respectively, as calculated in section 4.1.4 of this appendix.
 m SD_Full, m SD_Low, m 95_Full, m 83_Full and m 83_Low = dry air mass flow rate of infiltration air for portable air conditioners, in lb/m, when tested at Test Conditions 2.D, 2.E, 2.A, 2.B, and 2.C, respectively, as calculated in section 4.1.4 of this appendix.
-1061 = latent heat of vaporization for water vapor, in Btu/lb m (H fg).
-0.0141 = humidity ratio of the dry-bulb infiltration air for Test Conditions 1.A and 2.A, in lb w /lb da.
-0.01086 = humidity ratio of the dry-bulb infiltration air for Test Conditions 1.B, 2.B, and 2.C, in lb w /lb da.
-0.0112 = humidity ratio of the indoor chamber air, in lb w /lb da.
+1061 = latent heat of vaporization for water vapor, in Btu/lbm (Hfg).
+0.0141 = humidity ratio of the dry-bulb infiltration air for Test Conditions 1.A and 2.A, in lbw/lbda.
+0.01086 = humidity ratio of the dry-bulb infiltration air for Test Conditions 1.B, 2.B, and 2.C, in lbw/lbda.
+0.0112 = humidity ratio of the indoor chamber air, in lbw/lbda.
 60 = conversion factor from minutes to hours.
 Calculate the total heat contribution of the infiltration air at each test condition by adding the sensible and latent heat according to the following equations.
 For a single-duct single-speed unit:
-Q infiltration_SD_95 = Q s_SD_95 + Q l_SD_95
-Q infiltration_SD_83 = Q s_SD_83 + Q l_SD_83
+Qinfiltration_SD_95 = Qs_SD_95 + Ql_SD_95
+Qinfiltration_SD_83 = Qs_SD_83 + Ql_SD_83
 For a dual-duct single-speed unit:
-Q infiltration_DD_95 = Q s_DD_95 + Q l_DD_95
-Q infiltration_DD_83 = Q s_DD_83 + Q l_DD_83
+Qinfiltration_DD_95 = Qs_DD_95 + Ql_DD_95
+Qinfiltration_DD_83 = Qs_DD_83 + Ql_DD_83
 For a single-duct variable-speed unit:
-Q infiltration_SD_95_Full = Q s_SD_95_Full + Q l_SD_95_Full
-Q infiltration_SD_83_Full = Q s_SD_83_Full + Q l_SD_83_Full
-Q infiltration_SD_83_Low = Q s_SD_83_Low + Q l_SD_83_Low
+Qinfiltration_SD_95_Full = Qs_SD_95_Full + Ql_SD_95_Full
+Qinfiltration_SD_83_Full = Qs_SD_83_Full + Ql_SD_83_Full
+Qinfiltration_SD_83_Low = Qs_SD_83_Low + Ql_SD_83_Low
 For a dual-duct variable-speed unit:
-Q infiltration_DD_95_Full = Q s_DD_95_Full + Q l_DD_95_Full
-Q infiltration_DD_83_Full = Q s_DD_83_Full + Q l_DD_83_Full
-Q infiltration_DD_83_Low = Q s_DD_83_Low + Q l_DD_83_Low
+Qinfiltration_DD_95_Full = Qs_DD_95_Full + Ql_DD_95_Full
+Qinfiltration_DD_83_Full = Qs_DD_83_Full + Ql_DD_83_Full
+Qinfiltration_DD_83_Low = Qs_DD_83_Low + Ql_DD_83_Low
 Where:
-Q infiltration_SD_95, Q infiltration_SD_83, Q infiltration_DD_95, Q infiltration_DD_83 = total infiltration air heat in cooling mode, in Btu/h, for each duct configuration and temperature condition.
-Q infiltration_SD_95_Full, Q infiltration_SD_83_Full, Q infiltration_SD_83_Low, Q infiltration_DD_95_Full, Q infiltration_DD_83_Full, and Q infiltration_DD_83_Low = total infiltration air heat in cooling mode, in Btu/h, for each duct configuration, temperature condition, and compressor speed.
-Q s_SD_95, Q s_SD_83, Q s_DD_95, and Q s_DD_83 = sensible heat added to the room by infiltration air, in Btu/h, for each duct configuration, temperature condition, and compressor speed.
-Q s_SD_95_Full, Q s_SD_83_Full, Q s_SD_83_Low, Q s_DD_95_Full, Q s_DD_83_Full, and Q s_DD_83_Low = sensible heat added to the room by infiltration air, in Btu/h, for each duct configuration, temperature condition, and compressor speed.
-Q l_SD_95, Q l_SD_83, Q l_DD_95, and Q l_DD_83 = latent heat added to the room by infiltration air, in Btu/h, for each duct configuration, and temperature condition.
-Q l_SD_95_Full, Q l_SD_83_Full, Q l_SD_83_Low, Q l_DD_95_Full, Q l_DD_83_Full, and Q l_DD_83_Low = latent heat added to the room by infiltration air, in Btu/h, for each duct configuration, temperature condition, and compressor speed.
-4.2 Off-cycle mode. Establish the test conditions specified in section 3.1.1 of this appendix for off-cycle mode and use the wattmeter specified in section 3.2.3 of this appendix (but do not use the duct measurements in section 3.1.1.6). Begin the off-cycle mode test period 5 minutes following the cooling mode test period. Adjust the setpoint higher than the ambient temperature to ensure the product will not enter cooling mode and begin the test 5 minutes after the compressor cycles off due to the change in setpoint. Do not change any other control settings between the end of the cooling mode test period and the start of the off-cycle mode test period. The off-cycle mode test period must be 2 hours in duration, during which period, record the power consumption at the same intervals as recorded for cooling mode testing. Measure and record the average off-cycle mode power of the portable air conditioner, P oc, in watts.
+Qinfiltration_SD_95, Qinfiltration_SD_83, Qinfiltration_DD_95, Qinfiltration_DD_83 = total infiltration air heat in cooling mode, in Btu/h, for each duct configuration and temperature condition.
+Qinfiltration_SD_95_Full, Qinfiltration_SD_83_Full, Qinfiltration_SD_83_Low, Qinfiltration_DD_95_Full, Qinfiltration_DD_83_Full, and Qinfiltration_DD_83_Low = total infiltration air heat in cooling mode, in Btu/h, for each duct configuration, temperature condition, and compressor speed.
+Qs_SD_95, Qs_SD_83, Qs_DD_95, and Qs_DD_83 = sensible heat added to the room by infiltration air, in Btu/h, for each duct configuration, temperature condition, and compressor speed.
+Qs_SD_95_Full, Qs_SD_83_Full, Qs_SD_83_Low, Qs_DD_95_Full, Qs_DD_83_Full, and Qs_DD_83_Low = sensible heat added to the room by infiltration air, in Btu/h, for each duct configuration, temperature condition, and compressor speed.
+Ql_SD_95, Ql_SD_83, Ql_DD_95, and Ql_DD_83 = latent heat added to the room by infiltration air, in Btu/h, for each duct configuration, and temperature condition.
+Ql_SD_95_Full, Ql_SD_83_Full, Ql_SD_83_Low, Ql_DD_95_Full, Ql_DD_83_Full, and Ql_DD_83_Low = latent heat added to the room by infiltration air, in Btu/h, for each duct configuration, temperature condition, and compressor speed.
+4.2 Off-cycle mode. Establish the test conditions specified in section 3.1.1 of this appendix for off-cycle mode and use the wattmeter specified in section 3.2.3 of this appendix (but do not use the duct measurements in section 3.1.1.6). Begin the off-cycle mode test period 5 minutes following the cooling mode test period. Adjust the setpoint higher than the ambient temperature to ensure the product will not enter cooling mode and begin the test 5 minutes after the compressor cycles off due to the change in setpoint. Do not change any other control settings between the end of the cooling mode test period and the start of the off-cycle mode test period. The off-cycle mode test period must be 2 hours in duration, during which period, record the power consumption at the same intervals as recorded for cooling mode testing. Measure and record the average off-cycle mode power of the portable air conditioner, Poc, in watts.
 4.3 Standby mode and off mode. Establish the testing conditions set forth in section 3.2 of this appendix, ensuring that the unit does not enter any active modes during the test. As discussed in Paragraph 5.1, Note 1 of IEC 62301, allow sufficient time for the unit to reach the lowest power state before proceeding with the test measurement. Follow the test procedure specified in Paragraph 5.3.2 of IEC 62301 for testing in each possible mode as described in sections 4.3.1 and 4.3.2 of this appendix. If the standby mode is cyclic and irregular or unstable, collect 10 cycles worth of data.
-4.3.1 If the portable air conditioner has an inactive mode, as defined in section 2.6 of this appendix, but not an off mode, as defined in section 2.8 of this appendix, measure and record the average inactive mode power of the portable air conditioner, P ia, in watts.
-4.3.2 If the portable air conditioner has an off mode, as defined in section 2.8 of this appendix, measure and record the average off mode power of the portable air conditioner, P om, in watts.
+4.3.1 If the portable air conditioner has an inactive mode, as defined in section 2.6 of this appendix, but not an off mode, as defined in section 2.8 of this appendix, measure and record the average inactive mode power of the portable air conditioner, Pia, in watts.
+4.3.2 If the portable air conditioner has an off mode, as defined in section 2.8 of this appendix, measure and record the average off mode power of the portable air conditioner, Pom, in watts.
 5. Calculation of Derived Results From Test Measurements
 5.1 Adjusted Cooling Capacity
 5.1.1 Single-Speed Adjusted Cooling Capacity. For a single-speed portable air conditioner, calculate the adjusted cooling capacity at each outdoor temperature operating condition, in Btu/h, according to the following equations.
 For a single-duct single-speed portable air conditioner unit:
-ACC SD_95_SS = Capacity SD − Q duct_SD − Q inflitration_SD_95
-ACC SD_83_SS = Capacity SD − Q duct_SD − Q inflitration_SD_83
+ACCSD_95_SS = CapacitySD − Qduct_SD − Qinflitration_SD_95
+ACCSD_83_SS = CapacitySD − Qduct_SD − Qinflitration_SD_83
 For a dual-duct single-speed portable air conditioner unit:
-ACC DD_95_SS = Capacity 95 − Q duct_DD_95 − Q inflitration_DD_95
-ACC DD_83_SS = Capacity 83 − Q duct_DD_83 − Q inflitration_DD_83
+ACCDD_95_SS = Capacity95 − Qduct_DD_95 − Qinflitration_DD_95
+ACCDD_83_SS = Capacity83 − Qduct_DD_83 − Qinflitration_DD_83
 Where:
-Capacity SD, Capacity 95, and Capacity 83 = cooling capacity for each duct configuration or temperature condition measured in section 4.1.1 of this appendix.
-Q duct_SD, Q duct_DD_95, and Q duct_DD_83 = duct heat transfer for each duct configuration or temperature condition while operating in cooling mode, calculated in section 4.1.3 of this appendix.
-Q infiltration_SD_95, Q infiltration_SD_83, Q infiltration_DD_95, Q infiltration_DD_83 = total infiltration air heat transfer in cooling mode for each duct configuration and temperature condition, calculated in section 4.1.4 of this appendix.
+CapacitySD, Capacity95, and Capacity83 = cooling capacity for each duct configuration or temperature condition measured in section 4.1.1 of this appendix.
+Qduct_SD, Qduct_DD_95, and Qduct_DD_83 = duct heat transfer for each duct configuration or temperature condition while operating in cooling mode, calculated in section 4.1.3 of this appendix.
+Qinfiltration_SD_95, Qinfiltration_SD_83, Qinfiltration_DD_95, Qinfiltration_DD_83 = total infiltration air heat transfer in cooling mode for each duct configuration and temperature condition, calculated in section 4.1.4 of this appendix.
 5.1.2 Variable-Speed Adjusted Cooling Capacity. For variable-speed portable air conditioners, calculate the adjusted cooling capacity at each outdoor temperature operating condition, in Btu/h, according to the following equations:
 For a single-duct variable-speed portable air conditioner unit:
-ACC SD_ 95 = Capacity SD_Full − Q duct_SD_Full − Q inflitration_SD_95_Full
-ACC SD_ 83_ Full = Capacity SD_Full − Q duct_SD_Full − Q inflitration_SD_ 83_ Full
-ACC SD_ 83_ Low = Capacity SD_Low − Q duct_SD_Low − Q inflitration_SD_ 83 _Low
+ACCSD_95 = CapacitySD_Full − Qduct_SD_Full − Qinflitration_SD_95_Full
+ACCSD_83_Full = CapacitySD_Full − Qduct_SD_Full − Qinflitration_SD_83_Full
+ACCSD_83_Low = CapacitySD_Low − Qduct_SD_Low − Qinflitration_SD_83_Low
 For a dual-duct variable-speed portable air conditioner unit:
-ACC DD_ 95 = Capacity DD_ 95_ Full − Q duct_DD_ 95_ Full − Q inflitration_DD_ 95_ Full
-ACC DD_ 83_ Full = Capacity DD_ 83_ Full − Q duct_DD_ 83_ Full − Q inflitration_DD_ 83_ Full
-ACC DD_ 83_ Low = Capacity DD_ 83_ Low − Q duct_DD_ 83_ Low − Q inflitration_DD_ 83_ Low
+ACCDD_95 = CapacityDD_95_Full − Qduct_DD_95_Full − Qinflitration_DD_95_Full
+ACCDD_83_Full = CapacityDD_83_Full − Qduct_DD_83_Full − Qinflitration_DD_83_Full
+ACCDD_83_Low = CapacityDD_83_Low − Qduct_DD_83_Low − Qinflitration_DD_83_Low
 Where:
-Capacity SD_Full, Capacity SD_Low, Capacity DD_95_Full, Capacity DD_83_Full, and Capacity DD_83_Low = cooling capacity in Btu/h for each duct configuration, temperature condition (where applicable), and compressor speed, as measured in section 4.1.2 of this appendix.
-Q duct_SD_Full, Q duct_SD_Low, Q duct_DD_95_Full, Q duct_DD_83_Full, and Q duct_DD_83_Low = combined duct heat transfer for each duct configuration, temperature condition (where applicable), and compressor speed, as calculated in section 4.1.3 of this appendix.
-Q infiltration_SD_95_Full, Q infiltration_SD_83_Full, Q infiltration_SD_83_Low, Q infiltration_DD_95_Full, Q infiltration_DD_83_Full, and Q infiltration_DD_83_Low = total infiltration air heat transfer in cooling mode for each duct configuration, temperature condition, and compressor speed, as calculated in section 4.1.4 of this appendix.
+CapacitySD_Full, CapacitySD_Low, CapacityDD_95_Full, CapacityDD_83_Full, and CapacityDD_83_Low = cooling capacity in Btu/h for each duct configuration, temperature condition (where applicable), and compressor speed, as measured in section 4.1.2 of this appendix.
+Qduct_SD_Full, Qduct_SD_Low, Qduct_DD_95_Full, Qduct_DD_83_Full, and Qduct_DD_83_Low = combined duct heat transfer for each duct configuration, temperature condition (where applicable), and compressor speed, as calculated in section 4.1.3 of this appendix.
+Qinfiltration_SD_95_Full, Qinfiltration_SD_83_Full, Qinfiltration_SD_83_Low, Qinfiltration_DD_95_Full, Qinfiltration_DD_83_Full, and Qinfiltration_DD_83_Low = total infiltration air heat transfer in cooling mode for each duct configuration, temperature condition, and compressor speed, as calculated in section 4.1.4 of this appendix.
 5.2 Seasonally Adjusted Cooling Capacity
 5.2.1 Calculate the unit's seasonally adjusted cooling capacity, SACC, in Btu/h, according to the following equations:
 For a single-speed portable air conditioner unit:
-SACC SD = ACC SD_ 95_ SS × 0.2 + ACC SD_ 83_ SS × 0.8
-SACC DD = ACC DD_ 95_ SS × 0.2 + ACC SD_ 83_ SS × 0.8
+SACCSD = ACCSD_95_SS × 0.2 + ACCSD_83_SS × 0.8
+SACCDD = ACCDD_95_SS × 0.2 + ACCSD_83_SS × 0.8
 For a variable-speed portable air conditioner unit:
-SACC SD = ACC SD_ 95 × 0.2 + ACC SD_ 83_ Low × 0.8
-SACC DD = ACC DD_ 95 × 0.2 + ACC DD_ 83_ Low × 0.8
+SACCSD = ACCSD_95 × 0.2 + ACCSD_83_Low × 0.8
+SACCDD = ACCDD_95 × 0.2 + ACCDD_83_Low × 0.8
 Where:
-ACC SD_95_SS, ACC SD_83_SS, ACC DD_95_SS, and ACC DD_83_SS = adjusted cooling capacity for single-speed portable air conditioners for each duct configuration and temperature condition, in Btu/h, calculated in section 5.1.1 of this appendix.
-ACC SD_95, ACC SD_83_Low, ACC DD_95, and ACC DD_83_Low = adjusted cooling capacity for variable-speed portable air conditioners for each duct configuration, temperature condition, and compressor speed, in Btu/h, calculated in section 5.1.2 of this appendix.
+ACCSD_95_SS, ACCSD_83_SS, ACCDD_95_SS, and ACCDD_83_SS = adjusted cooling capacity for single-speed portable air conditioners for each duct configuration and temperature condition, in Btu/h, calculated in section 5.1.1 of this appendix.
+ACCSD_95, ACCSD_83_Low, ACCDD_95, and ACCDD_83_Low = adjusted cooling capacity for variable-speed portable air conditioners for each duct configuration, temperature condition, and compressor speed, in Btu/h, calculated in section 5.1.2 of this appendix.
 0.2 = weighting factor for the 95 °F test condition.
 0.8 = weighting factor for the 83 °F test condition.
-5.2.2 For variable-speed portable ACs determine a Full-Load Seasonally Adjusted Cooling Capacity (SACC Full_SD for single-speed units and SACC Full_DD for dual-duct units) using the following formulas:
-SACC Full_SD = ACC SD_ 95 × 0.2 + ACC SD_ 83_ Full × 0.8
-SACC Full_DD = ACC DD_ 95 × 0.2 + ACC DD_ 83_ Full × 0.8
-ACC SD_95, ACC SD_83_Full, ACC DD_95, and ACC DD_83_Full = adjusted cooling capacity for variable-speed portable air conditioners for each duct configuration, temperature condition, and compressor speed (where applicable), in Btu/h, calculated in section 5.1.2 of this appendix.
+5.2.2 For variable-speed portable ACs determine a Full-Load Seasonally Adjusted Cooling Capacity (SACCFull_SD for single-speed units and SACCFull_DD for dual-duct units) using the following formulas:
+SACCFull_SD = ACCSD_95 × 0.2 + ACCSD_83_Full × 0.8
+SACCFull_DD = ACCDD_95 × 0.2 + ACCDD_83_Full × 0.8
+ACCSD_95, ACCSD_83_Full, ACCDD_95, and ACCDD_83_Full = adjusted cooling capacity for variable-speed portable air conditioners for each duct configuration, temperature condition, and compressor speed (where applicable), in Btu/h, calculated in section 5.1.2 of this appendix.
 0.2 = weighting factor for the 95 °F test condition.
 0.8 = weighting factor for the 83 °F test condition.
 5.3 Annual Energy Consumption. Calculate the sample unit's annual energy consumption in each operating mode according to the equation below. For each operating mode, use the following annual hours of operation and equation:
@@ -266,133 +264,125 @@ Single speed (single- or dual-duct) | Cooling Mode: Test Conditions 1.A, 1.B, an
 all | Off-Cycle | oc | 880
 all | Inactive or Off | ia or om | 1,355
 1 These operating mode hours are for the purposes of calculating annual energy consumption under different ambient conditions and are not a division of the total cooling mode operating hours. The total cooling mode operating hours are 750 hours.
-AEC m = P m × t m × 0.001
+AECm = Pm × tm × 0.001
 Where:
-AEC m = annual energy consumption in the operating mode, in kWh/year.
+AECm = annual energy consumption in the operating mode, in kWh/year.
 m represents the operating mode as shown in the table above with each operating mode's respective subscript.
-P m = average power in the operating mode, in watts, as determined in sections 4.1.1 and 4.1.2.
-t m = number of annual operating time in each operating mode, in hours.
+Pm = average power in the operating mode, in watts, as determined in sections 4.1.1 and 4.1.2.
+tm = number of annual operating time in each operating mode, in hours.
 0.001 kWh/Wh = conversion factor from watt-hours to kilowatt-hours.
 Calculate the sample unit's total annual energy consumption in off-cycle mode and inactive or off mode as follows:
-ER15MY23.004
 Where:
-AEC T = total annual energy consumption attributed to off-cycle mode and inactive or off mode, in kWh/year;
-AEC m = total annual energy consumption in the operating mode, in kWh/year.
+AECT = total annual energy consumption attributed to off-cycle mode and inactive or off mode, in kWh/year;
+AECm = total annual energy consumption in the operating mode, in kWh/year.
 ncm represents the following two non-cooling operating modes: off-cycle mode and inactive or off mode.
 5.4 Combined Energy Efficiency Ratio
 5.4.1 Combined Energy Efficiency Ratio for Single-Speed Portable Air Conditioners.
 Using the annual operating hours established in section 5.3 of this appendix, calculate the combined energy efficiency ratio, CEER, in Btu/Wh, for single-speed portable air conditioners according to the following equation, as applicable:
-ER15MY23.005
 Where:
-CEER SD and CEER DD = combined energy efficiency ratio for a single-duct unit and dual-duct unit, respectively, in Btu/Wh.
-ACC SD_95_SS, ACC SD_83_SS, ACC DD_95_SS, ACC DD_83_SS = adjusted cooling capacity for each duct configuration and temperature condition, in Btu/h, calculated in section 5.1 of this appendix.
-AEC SD, AEC DD_95 and AEC DD_83 = annual energy consumption in cooling mode for each duct configuration and temperature condition, in kWh/year, calculated in section 5.3 of this appendix.
-AEC T = total annual energy consumption attributed to all modes except cooling, in kWh/year, calculated in section 5.3 of this appendix.
+CEERSD and CEERDD = combined energy efficiency ratio for a single-duct unit and dual-duct unit, respectively, in Btu/Wh.
+ACCSD_95_SS, ACCSD_83_SS, ACCDD_95_SS, ACCDD_83_SS = adjusted cooling capacity for each duct configuration and temperature condition, in Btu/h, calculated in section 5.1 of this appendix.
+AECSD, AECDD_95 and AECDD_83 = annual energy consumption in cooling mode for each duct configuration and temperature condition, in kWh/year, calculated in section 5.3 of this appendix.
+AECT = total annual energy consumption attributed to all modes except cooling, in kWh/year, calculated in section 5.3 of this appendix.
 0.750 = number of cooling mode hours per year, 750, multiplied by the conversion factor for watt-hours to kilowatt-hours, 0.001 kWh/Wh.
 0.2 = weighting factor for the 95 °F dry-bulb outdoor condition test.
 0.8 = weighting factor for the 83 °F dry-bulb outdoor condition test.
 5.4.2 Unadjusted Combined Energy Efficiency Ratio for Variable-Speed Portable Air Conditioners.
-For a variable-speed portable air conditioner, calculate the unit's unadjusted combined energy efficiency ratio, CEER UA, in Btu/Wh, as follows:
+For a variable-speed portable air conditioner, calculate the unit's unadjusted combined energy efficiency ratio, CEERUA, in Btu/Wh, as follows:
 For single-duct variable-speed portable air conditioners:
-ER15MY23.006
 For dual-duct variable-speed portable air conditioners:
-ER15MY23.007
 Where:
-CEER SD_UA, and CEER DD_UA = unadjusted combined energy efficiency ratio for a single-duct and dual-duct sample unit, in Btu/Wh, respectively.
-ACC SD_95, ACC SD_83_Low, ACC DD_95, and ACC DD_83 = adjusted cooling capacity for each duct configuration, temperature condition, and compressor speed, as calculated in section 5.1.2 of this appendix, in Btu/h.
-AEC SD_Full, AEC SD_Low, AEC DD_95_Full, and AEC DD_83_Low = annual energy consumption for each duct configuration, temperature condition, and compressor speed in cooling mode operation, as calculated in section 5.3 of this appendix, in kWh/year.
-AEC ia/om = annual energy consumption attributed to inactive or off mode, in kWh/year, calculated in section 5.3 of this appendix.
+CEERSD_UA, and CEERDD_UA = unadjusted combined energy efficiency ratio for a single-duct and dual-duct sample unit, in Btu/Wh, respectively.
+ACCSD_95, ACCSD_83_Low, ACCDD_95, and ACCDD_83 = adjusted cooling capacity for each duct configuration, temperature condition, and compressor speed, as calculated in section 5.1.2 of this appendix, in Btu/h.
+AECSD_Full, AECSD_Low, AECDD_95_Full, and AECDD_83_Low = annual energy consumption for each duct configuration, temperature condition, and compressor speed in cooling mode operation, as calculated in section 5.3 of this appendix, in kWh/year.
+AECia/om = annual energy consumption attributed to inactive or off mode, in kWh/year, calculated in section 5.3 of this appendix.
 0.750 = number of cooling mode hours per year, 750, multiplied by the conversion factor for watt-hours to kilowatt-hours, 0.001 kWh/Wh.
 0.2 = weighting factor for the 95 °F dry-bulb outdoor temperature operating condition.
 0.8 = weighting factor for the 83 °F dry-bulb outdoor temperature operating condition.
 5.5 Adjustment of the Combined Energy Efficiency Ratio. Adjust the sample unit's unadjusted combined energy efficiency ratio as follows.
 5.5.1 Theoretical Comparable Single-Speed Portable Air Conditioner Cooling Capacity and Power at the Lower Outdoor Temperature Operating Condition. Calculate the cooling capacity without and with cycling losses, in British thermal units per hour (Btu/h), and electrical power input, in watts, for a single-duct or dual-duct theoretical comparable single-speed portable air conditioner at an 83 °F outdoor dry-bulb outdoor temperature operating condition according to the following equations:
 For a single-duct theoretical comparable single speed portable air conditioner:
-Capacity SD_83_SS = Capacity SD_Full
-Capacity SD_83_SS_CF = Capacity SD_Full × 0.82
-P SD_83_SS = P SD_Full
+CapacitySD_83_SS = CapacitySD_Full
+CapacitySD_83_SS_CF = CapacitySD_Full × 0.82
+PSD_83_SS = PSD_Full
 For a dual-duct theoretical comparable single speed portable air conditioner:
-Capacity DD_83_SS = Capacity 83_Full
-Capacity DD_83_SS_CF = Capacity 83_Full × 0.77
-P DD_83_SS = P 83_Full
+CapacityDD_83_SS = Capacity83_Full
+CapacityDD_83_SS_CF = Capacity83_Full × 0.77
+PDD_83_SS = P83_Full
 Where:
-Capacity SD_83_SS and Capacity DD_83_SS = cooling capacity of a single-duct and dual-duct theoretical comparable single-speed portable air conditioner, calculated for the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E and 2.B, respectively), in Btu/h.
-Capacity SD_83_SS_CF and Capacity DD_83_SS_CF = cooling capacity of a single-duct and dual-duct theoretical comparable single-speed portable air conditioner with cycling losses, in Btu/h, calculated for the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E and 2.B, respectively).
-Capacity SD_Full and Capacity 83_Full = cooling capacity of the sample unit, measured in section 4.1.2 of this appendix at Test Conditions 2.D and 2.B, in Btu/h.
-P SD_83_SS and P DD_83_SS = power input of a single-duct and dual-duct theoretical comparable single-speed portable air conditioner calculated for the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E and 2.B, respectively), in watts.
-P SD_Full and P 83_Full = electrical power input of the sample unit, measured in section 4.1.2 of this appendix at Test Conditions 2.D and 2.B, in watts.
+CapacitySD_83_SS and CapacityDD_83_SS = cooling capacity of a single-duct and dual-duct theoretical comparable single-speed portable air conditioner, calculated for the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E and 2.B, respectively), in Btu/h.
+CapacitySD_83_SS_CF and CapacityDD_83_SS_CF = cooling capacity of a single-duct and dual-duct theoretical comparable single-speed portable air conditioner with cycling losses, in Btu/h, calculated for the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E and 2.B, respectively).
+CapacitySD_Full and Capacity83_Full = cooling capacity of the sample unit, measured in section 4.1.2 of this appendix at Test Conditions 2.D and 2.B, in Btu/h.
+PSD_83_SS and PDD_83_SS = power input of a single-duct and dual-duct theoretical comparable single-speed portable air conditioner calculated for the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E and 2.B, respectively), in watts.
+PSD_Full and P83_Full = electrical power input of the sample unit, measured in section 4.1.2 of this appendix at Test Conditions 2.D and 2.B, in watts.
 0.82 = empirically-derived cycling factor for the 83 °F dry-bulb outdoor temperature operating condition for single-duct units.
 0.77 = empirically-derived cycling factor for the 83 °F dry-bulb outdoor temperature operating condition for dual-duct units.
 5.5.2 Duct Heat Transfer for a Theoretical Comparable Single-Speed Portable Air Conditioner at the Lower Outdoor Temperature Operating Condition. Calculate the duct heat transfer to the conditioned space for a single-duct or dual-duct theoretical comparable single-speed portable air conditioner at the 83 °F dry-bulb outdoor temperature operating condition as follows:
 For a single-duct theoretical comparable single-speed portable air conditioner:
-Q duct_SD_83_SS = Q duct_SD_Full
+Qduct_SD_83_SS = Qduct_SD_Full
 For a dual-duct theoretical comparable single-speed portable air conditioner:
-Q duct_DD_83_SS = Q duct_DD_83_Full
+Qduct_DD_83_SS = Qduct_DD_83_Full
 Where:
-Q duct_SD_83_SS and Q duct_DD_83_SS = total heat transferred from the condenser exhaust duct to the indoor conditioned space in cooling mode, for single-duct and dual-duct theoretical comparable single-speed portable air conditioners, respectively, at the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E and 2.B, respectively), in Btu/h.
-Q duct_SD_Full and Q duct_DD_83_Full = the total heat transferred from the duct to the indoor conditioned space in cooling mode, when tested at Test Conditions 2.D and 2.B, respectively, as calculated in section 4.1.3 of this appendix, in Btu/h.
+Qduct_SD_83_SS and Qduct_DD_83_SS = total heat transferred from the condenser exhaust duct to the indoor conditioned space in cooling mode, for single-duct and dual-duct theoretical comparable single-speed portable air conditioners, respectively, at the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E and 2.B, respectively), in Btu/h.
+Qduct_SD_Full and Qduct_DD_83_Full = the total heat transferred from the duct to the indoor conditioned space in cooling mode, when tested at Test Conditions 2.D and 2.B, respectively, as calculated in section 4.1.3 of this appendix, in Btu/h.
 5.5.3 Infiltration Air Heat Transfer for a Theoretical Comparable Single-Speed Portable Air Conditioner at the Lower Outdoor Temperature Operating Condition. Calculate the total heat contribution from infiltration air for a single-duct or dual-duct theoretical comparable single-speed portable air conditioner at the 83 °F dry-bulb outdoor temperature operating condition, as follows:
 For a single-duct theoretical comparable single-speed portable air conditioner:
-Q infiltration_SD_83_SS = Q infiltration_SD_83_Full
+Qinfiltration_SD_83_SS = Qinfiltration_SD_83_Full
 For a dual-duct theoretical comparable single-speed portable air conditioner:
-Q infiltration_DD_83_SS = Q infiltration_DD_83_Full
+Qinfiltration_DD_83_SS = Qinfiltration_DD_83_Full
 Where:
-Q infiltration_SD_83_SS and Q infiltration_DD_83_SS = total infiltration air heat in cooling mode for a single-duct and dual-duct theoretical comparable single-speed portable air conditioner, respectively at the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E and 2.B, respectively), in Btu/h.
-Q infiltration_SD_83_Full and Q infiltration_DD_83_Full = total infiltration air heat transfer of the sample unit in cooling mode for each duct configuration, temperature condition, and compressor speed, as calculated in section 4.1.4 of this appendix, in Btu/h.
+Qinfiltration_SD_83_SS and Qinfiltration_DD_83_SS = total infiltration air heat in cooling mode for a single-duct and dual-duct theoretical comparable single-speed portable air conditioner, respectively at the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E and 2.B, respectively), in Btu/h.
+Qinfiltration_SD_83_Full and Qinfiltration_DD_83_Full = total infiltration air heat transfer of the sample unit in cooling mode for each duct configuration, temperature condition, and compressor speed, as calculated in section 4.1.4 of this appendix, in Btu/h.
 5.5.4 Adjusted Cooling Capacity for a Theoretical Comparable Single-Speed Portable Air Conditioner at the Lower Outdoor Temperature Operating Condition. Calculate the adjusted cooling capacity without and with cycling losses for a single-duct or dual-duct theoretical comparable single-speed portable air conditioner at the 83 °F dry-bulb outdoor temperature operating condition, in Btu/h, according to the following equations:
 For a single-duct theoretical comparable single-speed portable air conditioner:
-ACC SD_83_SS = Capacity SD_83_SS − Q duct_SD_83_SS − Q infiltration_SD_83_SS
-ACC SD_83_SS_CF = Capacity SD_83_SS_CF − Q duct_SD_83_SS − Q infiltration_SD_83_SS
+ACCSD_83_SS = CapacitySD_83_SS − Qduct_SD_83_SS − Qinfiltration_SD_83_SS
+ACCSD_83_SS_CF = CapacitySD_83_SS_CF − Qduct_SD_83_SS − Qinfiltration_SD_83_SS
 For a dual-duct theoretical comparable single-speed portable air conditioner:
-ACC DD__83_SS = Capacity 83_SS − Q duct_DD_83_SS − Q infiltration_DD_83_SS
-ACC DD_83_SS_CF = Capacity DD_83_SS_CF − Q duct_DD_83_SS − Q infiltration_DD_83_SS
+ACCDD__83_SS = Capacity83_SS − Qduct_DD_83_SS − Qinfiltration_DD_83_SS
+ACCDD_83_SS_CF = CapacityDD_83_SS_CF − Qduct_DD_83_SS − Qinfiltration_DD_83_SS
 Where:
-ACC SD_83_SS, ACC SD_83_SS_CF, ACC DD_83_SS, and ACC DD_83_SS_CF = adjusted cooling capacity for a single-duct and dual-duct theoretical comparable single-speed portable air conditioner at the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E and 2.B, respectively) without and with cycling losses, respectively, in Btu/h.
-Capacity SD_83_SS and Capacity SD_83_SS_CF = cooling capacity of a single-duct theoretical comparable single-speed portable air conditioner without and with cycling losses, respectively, at Test Conditions 2.E and 2.B (the 83 °F dry-bulb outdoor temperature operating condition), respectively, calculated in section 5.5.1 of this appendix, in Btu/h.
-Capacity DD_83_SS and Capacity DD_83_SS_CF = cooling capacity of a dual-duct theoretical comparable single-speed portable air conditioner without and with cycling losses, respectively, at Test Conditions 2.E and 2.B (the 83 °F dry-bulb outdoor temperature operating condition), respectively, calculated in section 5.5.1 of this appendix, in Btu/h.
-Q duct_SD_83_SS and Q duct_DD_83_SS = total heat transferred from the ducts to the indoor conditioned space in cooling mode for a single-duct and dual-duct theoretical comparable single-speed portable air conditioner, at Test Conditions 2.E and 2.B (the 83 °F dry-bulb outdoor temperature operating condition), respectively, calculated in section 5.5.2 of this appendix, in Btu/h.
-Q infiltration_SD_83_SS and Q infiltration_DD_83_SS = total infiltration air heat in cooling mode for a single-duct and dual-duct theoretical comparable single-speed portable air conditioner, respectively, at Test Conditions 2.E and 2.B (the 83 °F dry-bulb outdoor temperature operating condition), respectively, calculated in section 5.5.3 of this appendix, in Btu/h.
+ACCSD_83_SS, ACCSD_83_SS_CF, ACCDD_83_SS, and ACCDD_83_SS_CF = adjusted cooling capacity for a single-duct and dual-duct theoretical comparable single-speed portable air conditioner at the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E and 2.B, respectively) without and with cycling losses, respectively, in Btu/h.
+CapacitySD_83_SS and CapacitySD_83_SS_CF = cooling capacity of a single-duct theoretical comparable single-speed portable air conditioner without and with cycling losses, respectively, at Test Conditions 2.E and 2.B (the 83 °F dry-bulb outdoor temperature operating condition), respectively, calculated in section 5.5.1 of this appendix, in Btu/h.
+CapacityDD_83_SS and CapacityDD_83_SS_CF = cooling capacity of a dual-duct theoretical comparable single-speed portable air conditioner without and with cycling losses, respectively, at Test Conditions 2.E and 2.B (the 83 °F dry-bulb outdoor temperature operating condition), respectively, calculated in section 5.5.1 of this appendix, in Btu/h.
+Qduct_SD_83_SS and Qduct_DD_83_SS = total heat transferred from the ducts to the indoor conditioned space in cooling mode for a single-duct and dual-duct theoretical comparable single-speed portable air conditioner, at Test Conditions 2.E and 2.B (the 83 °F dry-bulb outdoor temperature operating condition), respectively, calculated in section 5.5.2 of this appendix, in Btu/h.
+Qinfiltration_SD_83_SS and Qinfiltration_DD_83_SS = total infiltration air heat in cooling mode for a single-duct and dual-duct theoretical comparable single-speed portable air conditioner, respectively, at Test Conditions 2.E and 2.B (the 83 °F dry-bulb outdoor temperature operating condition), respectively, calculated in section 5.5.3 of this appendix, in Btu/h.
 5.5.5 Annual Energy Consumption in Cooling Mode for a Theoretical Comparable Single-Speed Portable Air Conditioner at the Lower Outdoor Temperature Operating Condition. Calculate the annual energy consumption in cooling mode for a single-duct or dual-duct theoretical comparable single-speed portable air conditioner at the 83 °F dry-bulb outdoor temperature operating condition, in kWh/year, according to the following equations:
 For a single-duct theoretical comparable single-speed portable air conditioner:
-AEC SD_83_SS = P SD_83_SS × 0.750
+AECSD_83_SS = PSD_83_SS × 0.750
 For a dual-duct theoretical comparable single-speed portable air conditioner:
-AEC DD_83_SS = P DD_83_SS × 0.750
+AECDD_83_SS = PDD_83_SS × 0.750
 Where:
-AEC SD_83_SS and AEC DD_83_SS = annual energy consumption for a single-duct and dual-duct theoretical comparable single-speed portable air conditioner, respectively, in cooling mode at the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E and 2.B, respectively), in kWh/year.
-P SD_83_SS and P DD_83_SS = electrical power input for a single-duct and dual-duct theoretical comparable single-speed portable air conditioner, respectively, at the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E and 2.B, respectively) as calculated in section 5.5.1 of this appendix, in watts.
+AECSD_83_SS and AECDD_83_SS = annual energy consumption for a single-duct and dual-duct theoretical comparable single-speed portable air conditioner, respectively, in cooling mode at the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E and 2.B, respectively), in kWh/year.
+PSD_83_SS and PDD_83_SS = electrical power input for a single-duct and dual-duct theoretical comparable single-speed portable air conditioner, respectively, at the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E and 2.B, respectively) as calculated in section 5.5.1 of this appendix, in watts.
 0.750 = number of cooling mode hours per year, 750, multiplied by the conversion factor for watt-hours to kilowatt-hours, 0.001 kWh/Wh.
-5.5.6 Combined Energy Efficiency Ratio for a Theoretical Comparable Single-Speed Portable Air Conditioner. Calculate the combined energy efficiency ratios for a theoretical comparable single-speed portable air conditioner without cycling losses, CEER SD_SS and CEER DD_SS, and with cycling losses, CEER SD_SS_CF and CEER DD_SS_CF, in Btu/Wh, according to the following equations:
+5.5.6 Combined Energy Efficiency Ratio for a Theoretical Comparable Single-Speed Portable Air Conditioner. Calculate the combined energy efficiency ratios for a theoretical comparable single-speed portable air conditioner without cycling losses, CEERSD_SS and CEERDD_SS, and with cycling losses, CEERSD_SS_CF and CEERDD_SS_CF, in Btu/Wh, according to the following equations:
 For a single-duct portable air conditioner:
-ER15MY23.008
 For a dual-duct portable air conditioner:
-ER15MY23.009
 Where:
-CEER SD_SS and CEER SD_CF_SS = combined energy efficiency ratio for a single-duct theoretical comparable single-speed portable air conditioner without and with cycling losses, respectively, in Btu/Wh.
-CEER DD_SS and CEER DD_CF_SS = combined energy efficiency ratio for a dual-duct theoretical comparable single-speed portable air conditioner without and with cycling losses, respectively, in Btu/Wh.
-ACC SD_95 and ACC DD_95 = adjusted cooling capacity of the sample unit, as calculated in section 5.1.2 of this appendix, when tested at Test Conditions 2.D and 2.A, respectively, in Btu/h.
-ACC SD_83_SS and ACC SD_83_SS_CF = adjusted cooling capacity for a single-duct theoretical comparable single-speed portable air conditioner at the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E) without and with cycling losses, respectively, as calculated in section 5.5.4 of this appendix, in Btu/h.
-ACC DD_83_SS and ACC DD_83_SS_CF = adjusted cooling capacity for a dual-duct theoretical comparable single-speed portable air conditioner at the 83 °F dry-bulb outdoor temperature operating condition (Test Condition 2.B) without and with cycling losses, respectively, as calculated in section 5.5.4 of this appendix, in Btu/h.
-AEC SD_Full = annual energy consumption of the single-duct sample unit, as calculated in section 5.4.2.1 of this appendix, in kWh/year.
-AEC DD_95_Full = annual energy consumption for the dual-duct sample unit, as calculated in section 5.4.2.1 of this appendix, in kWh/year.
-AEC SD_83_SS and AEC DD_83_SS = annual energy consumption for a single-duct and dual-duct theoretical comparable single-speed portable air conditioner, respectively, in cooling mode at the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E and 2.B, respectively), calculated in section 5.5.5 of this appendix, in kWh/year.
-AEC T = total annual energy consumption attributed to all operating modes except cooling for the sample unit, calculated in section 5.3 of this appendix, in kWh/year.
+CEERSD_SS and CEERSD_CF_SS = combined energy efficiency ratio for a single-duct theoretical comparable single-speed portable air conditioner without and with cycling losses, respectively, in Btu/Wh.
+CEERDD_SS and CEERDD_CF_SS = combined energy efficiency ratio for a dual-duct theoretical comparable single-speed portable air conditioner without and with cycling losses, respectively, in Btu/Wh.
+ACCSD_95 and ACCDD_95 = adjusted cooling capacity of the sample unit, as calculated in section 5.1.2 of this appendix, when tested at Test Conditions 2.D and 2.A, respectively, in Btu/h.
+ACCSD_83_SS and ACCSD_83_SS_CF = adjusted cooling capacity for a single-duct theoretical comparable single-speed portable air conditioner at the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E) without and with cycling losses, respectively, as calculated in section 5.5.4 of this appendix, in Btu/h.
+ACCDD_83_SS and ACCDD_83_SS_CF = adjusted cooling capacity for a dual-duct theoretical comparable single-speed portable air conditioner at the 83 °F dry-bulb outdoor temperature operating condition (Test Condition 2.B) without and with cycling losses, respectively, as calculated in section 5.5.4 of this appendix, in Btu/h.
+AECSD_Full = annual energy consumption of the single-duct sample unit, as calculated in section 5.4.2.1 of this appendix, in kWh/year.
+AECDD_95_Full = annual energy consumption for the dual-duct sample unit, as calculated in section 5.4.2.1 of this appendix, in kWh/year.
+AECSD_83_SS and AECDD_83_SS = annual energy consumption for a single-duct and dual-duct theoretical comparable single-speed portable air conditioner, respectively, in cooling mode at the 83 °F dry-bulb outdoor temperature operating condition (Test Conditions 2.E and 2.B, respectively), calculated in section 5.5.5 of this appendix, in kWh/year.
+AECT = total annual energy consumption attributed to all operating modes except cooling for the sample unit, calculated in section 5.3 of this appendix, in kWh/year.
 0.750 as defined previously in this section.
 0.2 = weighting factor for the 95 °F dry-bulb outdoor temperature operating condition.
 0.8 = weighting factor for the 83 °F dry-bulb outdoor temperature operating condition.
-5.5.7 Performance Adjustment Factor. Calculate the sample unit's performance adjustment factor, F p, as follows:
+5.5.7 Performance Adjustment Factor. Calculate the sample unit's performance adjustment factor, Fp, as follows:
 For a single-duct unit:
-ER15MY23.010
 For a dual-duct unit:
-ER15MY23.011
 Where:
-CEER SD_SS and CEER SD_SS_CF = combined energy efficiency ratio for a single-duct theoretical comparable single-speed portable air conditioner without and with cycling losses considered, respectively, calculated in section 5.5.6 of this appendix, in Btu/Wh.
-CEER DD_SS and CEER DD_SS_CF = combined energy efficiency ratio for a dual-duct theoretical comparable single-speed portable air conditioner without and with cycling losses considered, respectively, calculated in section 5.5.6 of this appendix, in Btu/Wh.
+CEERSD_SS and CEERSD_SS_CF = combined energy efficiency ratio for a single-duct theoretical comparable single-speed portable air conditioner without and with cycling losses considered, respectively, calculated in section 5.5.6 of this appendix, in Btu/Wh.
+CEERDD_SS and CEERDD_SS_CF = combined energy efficiency ratio for a dual-duct theoretical comparable single-speed portable air conditioner without and with cycling losses considered, respectively, calculated in section 5.5.6 of this appendix, in Btu/Wh.
 5.5.8 Single-Duct and Dual-Duct Variable-Speed Portable Air Conditioner Combined Energy Efficiency Ratio. Calculate the sample unit's final combined energy efficiency ratio, CEER, in Btu/Wh, as follows:
 For a single-duct portable air conditioner:
-CEER SD = CEER SD_UA × (1 + F p_SD)
+CEERSD = CEERSD_UA × (1 + Fp_SD)
 For a dual-duct portable air conditioner:
-CEER DD = CEER DD_UA × (1 + F p_DD)
+CEERDD = CEERDD_UA × (1 + Fp_DD)
 Where:
-CEER SD and CEER DD = combined energy efficiency ratio for a single-duct and dual-duct sample unit, in Btu/Wh, respectively.
-CEER SD_UA and CEER DD_UA = unadjusted combined energy efficiency ratio for a single-duct and dual-duct sample unit, respectively, calculated in section 5.4.2.1 of this appendix, in Btu/Wh.
-F p_SD and F p_DD = single-duct and dual-duct sample unit's performance adjustment factor, respectively, calculated in section 5.5.7 of this appendix.
+CEERSD and CEERDD = combined energy efficiency ratio for a single-duct and dual-duct sample unit, in Btu/Wh, respectively.
+CEERSD_UA and CEERDD_UA = unadjusted combined energy efficiency ratio for a single-duct and dual-duct sample unit, respectively, calculated in section 5.4.2.1 of this appendix, in Btu/Wh.
+Fp_SD and Fp_DD = single-duct and dual-duct sample unit's performance adjustment factor, respectively, calculated in section 5.5.7 of this appendix.
