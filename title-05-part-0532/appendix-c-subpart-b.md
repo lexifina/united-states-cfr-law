@@ -1,37 +1,31 @@
 # Appendix C to Subpart B of Part 532—Appropriated Fund Wage and Survey Areas
-This appendix lists the wage area definitions for appropriated fund employees. With a few exceptions, each area is defined in terms of county units, independent cities, or, in the New England States, of entire township or city units. Each wage area definition consists of:
-(1) Wage area title. Wage areas usually carry the title of the principal city in the area. Sometimes, however, the area title reflects a broader geographic area, such as Wyoming or Eastern Tennessee.
-(2) Survey area definition. Lists each county, independent city, or township in the survey area.
-(3) Area of application definition. Lists each county, independent city, or township which, in addition to the survey area, is in the area of application.
-Definitions of Wage and Wage Survey Areas
-Alabama
-Anniston-Gadsden
+This appendix lists the wage area definitions for appropriated fund employees. With a few exceptions, each area is defined in terms of county units, independent cities, or a similar geographic entity. Each wage area definition consists of:
+(1) Wage area title. Wage areas usually carry the title of the principal city in the area. Sometimes, however, the area title reflects a broader geographic area, such as Combined Statistical Area or Metropolitan Statistical Area.
+(2) Survey area definition. Lists each county, independent city, or a similar geographic entity in the survey area.
+(3) Area of application definition. Lists each county, independent city, or a similar geographic entity which, in addition to the survey area, is in the area of application.
+Definitions of Wage Areas and Wage Area Survey Areas
+ALABAMA
+Birmingham-Cullman-Talladega
 Survey Area
 Alabama:
-Calhoun
-Etowah
-Talladega
-Area of Application. Survey area plus:
-Alabama:
-Cherokee
-Clay
-Cleburne
-De Kalb
-Randolph
-Birmingham
-Survey Area
-Alabama:
+Calhoun (effective for wage surveys beginning in January 2028)
+Etowah (effective for wage surveys beginning in January 2028)
 Jefferson
 St. Clair
 Shelby
+Talladega (effective for wage surveys beginning in January 2028)
 Tuscaloosa
 Walker
 Area of Application. Survey area plus:
 Alabama:
 Bibb
 Blount
+Calhoun (effective until January 2028)
 Chilton
+Clay
+Coosa
 Cullman
+Etowah (effective until January 2028)
 Fayette
 Greene
 Hale
@@ -39,6 +33,8 @@ Lamar
 Marengo
 Perry
 Pickens
+Talladega (effective until January 2028)
+Winston
 Dothan
 Survey Area
 Alabama:
@@ -66,28 +62,41 @@ Morgan
 Area of Application. Survey area plus:
 Alabama:
 Colbert
+DeKalb
 Franklin
-Jackson
 Lauderdale
 Lawrence
 Marion
-Winston
 Tennessee:
-Franklin
 Giles
-Lawrence
 Lincoln
-Moore
 Wayne
-Alaska
+Montgomery-Selma
 Survey Area
-Alaska:
+Alabama:
+Autauga
+Elmore
+Montgomery
+Area of Application. Survey area plus:
+Alabama:
+Bullock
+Butler
+Crenshaw
+Dallas
+Lowndes
+Pike
+Wilcox
+ALASKA
+Anchorage
+Survey Area
+Alaska: (boroughs and the areas within a 24-kilometer (15-mile) radius of their corporate city limits)
 Anchorage
 Fairbanks
-Juneau (and the areas within a 24-kilometer (15-mile) radius of their corporate city limits)
-Area of Application.
+Juneau
+Area of Application. Survey area plus:
+Alaska:
 State of Alaska (except special area schedules)
-Arizona
+ARIZONA
 Northeastern Arizona
 Survey Area
 Arizona:
@@ -95,7 +104,6 @@ Apache
 Coconino
 Navajo
 New Mexico:
-McKinley
 San Juan
 Area of Application. Survey area plus:
 Colorado:
@@ -134,9 +142,10 @@ Cochise
 Graham
 Greenlee
 Santa Cruz
-Arkansas
+ARKANSAS
 Little Rock
 Survey Area
+Arkansas:
 Jefferson
 Pulaski
 Saline
@@ -149,8 +158,8 @@ Boone
 Bradley
 Calhoun
 Chicot
-Clay
 Clark
+Clay
 Cleburne
 Cleveland
 Conway
@@ -193,7 +202,7 @@ Van Buren
 White
 Woodruff
 Yell
-California
+CALIFORNIA
 Fresno
 Survey Area
 California:
@@ -202,21 +211,30 @@ Kings
 Tulare
 Area of Application. Survey area plus:
 California:
-Kern (Does not include China Lake Naval Weapons Center, Edwards Air Force Base, and portions occupied by Federal activities in Boron (City))
-Madera (Does not include Devils Postpile National Monument and Yosemite National Park portions)
+Madera
+Mariposa
+Tuolumne (Only includes the Yosemite National Park portion)
 Los Angeles
 Survey Area
 California:
+Kern (effective for wage surveys beginning in November 2026)
 Los Angeles
+Orange (effective for wage surveys beginning in November 2026)
+Riverside (effective for wage surveys beginning in November 2026)
+San Bernardino (effective for wage surveys beginning in November 2026)
+Santa Barbara (effective for wage surveys beginning in November 2026)
+Ventura (effective for wage surveys beginning in November 2026)
 Area of Application. Survey area plus:
 California:
-Inyo (Includes the China Lake Naval Weapons Center portion only)
-Kern (Includes the China Lake Naval Weapons Center, Edwards Air Force Base, and portions occupied by Federal activities at Boron (City) only)
-Orange
-Riverside (Includes the Joshua Tree National Monument portion only)
-San Bernardino (All of San Bernardino County except that portion occupied by, and south and west of, the Angeles and San Bernardino National Forests)
-Ventura
-Sacramento
+Inyo (Only includes the China Lake Naval Weapons Center portion)
+Kern (effective until November 2026)
+Orange (effective until November 2026)
+Riverside (effective until November 2026)
+San Bernardino (effective until November 2026)
+Santa Barbara (effective until November 2026)
+San Luis Obispo
+Ventura (effective until November 2026)
+Sacramento-Roseville
 Survey Area
 California:
 Placer
@@ -226,11 +244,9 @@ Yolo
 Yuba
 Area of Application. Survey area plus:
 California:
-Alpine
 Amador
 Butte
 Colusa
-Del Norte
 El Dorado
 Glenn
 Humboldt
@@ -243,63 +259,44 @@ Sierra
 Siskiyou
 Tehama
 Trinity
-Salinas-Monterey
-Survey Area
-California:
-Monterey
-Area of Application. Survey area.
-San Bernardino-Riverside-Ontario
-Survey Area
-California:
-Riverside (Does not include the Joshua Tree National Monument portion)
-San Bernardino (Only that portion occupied by, and south and west of the Angeles and San Bernardino National Forests)
-Area of Application. Survey area.
 San Diego
 Survey Area
 California:
 San Diego
+Arizona:
+Yuma (effective for wage surveys beginning in September 2027)
 Area of Application. Survey area plus:
-California:
-Imperial
 Arizona:
 La Paz
-Yuma
-San Francisco
+Yuma (effective until September 2027)
+California:
+Imperial
+San Jose-San Francisco-Oakland
+Survey Area
 California:
 Alameda
 Contra Costa
 Marin
+Monterey (effective for wage surveys beginning in October 2027)
 Napa
+San Joaquin (effective for wage surveys beginning in October 2027)
 San Francisco
 San Mateo
 Santa Clara
 Solano
 Area of Application. Survey area plus:
 California:
+Calaveras
 Mendocino
+Merced
+Monterey (effective until October 2027)
 San Benito
+San Joaquin (effective until October 2027)
 Santa Cruz
 Sonoma
-Santa Barbara
-Survey Area
-California:
-Santa Barbara
-Area of Application. Survey area plus:
-California:
-San Luis Obispo
-Stockton
-Survey Area
-Calfornia:
-San Joaquin
-Area of Application. Survey area plus:
-California:
-Calaveras
-Madera (Only includes Yosemite National Park portion)
-Mariposa
-Merced
 Stanislaus
-Tuolumne
-Colorado
+Tuolumne (Does not include the Yosemite National Park portion)
+COLORADO
 Denver
 Survey Area
 Colorado:
@@ -321,6 +318,7 @@ Grand
 Jackson
 Lake
 Larimer
+Lincoln
 Logan
 Morgan
 Park
@@ -353,66 +351,58 @@ Crowley
 Custer
 Delta
 Fremont
-Gunnison (Does not include the Curecanti National Recreation Area portion)
+Gunnison (does not includes the Curecanti National Recreation Area portion)
 Hinsdale
 Huerfano
 Kiowa
 Kit Carson
 Las Animas
-Lincoln
 Mineral
 Otero
 Prowers
 Rio Grande
 Saguache
-Connecticut
-New Haven—Hartford
+CONNECTICUT
+New Haven-Hartford
 Survey Area
 Connecticut:
 Hartford
 New Haven
-Area of application. Survey area plus:
+New London (effective for wage surveys beginning in April 2027)
+Massachusetts:
+Hampden (effective for wage surveys beginning in April 2027)
+Hampshire (effective for wage surveys beginning in April 2027)
+Area of Application. Survey area plus:
 Connecticut:
-Fairfield
 Litchfield
 Middlesex
+New London (effective until April 2027)
 Tolland
-New London
-Survey Area
-Connecticut:
-New London
-Area of application. Survey area.
-Delaware
-Wilmington
-Survey Area
-Delaware:
-Kent
-New Castle
-Maryland:
-Cecil
-New Jersey:
-Salem
-Area of Application. Survey area plus:
-Delaware:
-Sussex
-Maryland:
-Caroline
-Dorchester
-Kent
-Somerset
-Talbot
-Wicomico
-Worcester (Does not include the Assateague Island portion)
-District of Columbia
-Washington, DC
+Windham
+Massachusetts:
+Franklin
+Hampden (effective until April 2027)
+Hampshire (effective until April 2027)
+DISTRICT OF COLUMBIA
+Washington-Baltimore-Arlington
 Survey Area
 District of Columbia:
 Washington, DC
-Maryland:
+Maryland (city):
+Baltimore (effective for wage surveys beginning in July 2027)
+Maryland (counties):
+Anne Arundel (effective for wage surveys beginning in July 2027)
+Baltimore (effective for wage surveys beginning in July 2027)
+Carroll (effective for wage surveys beginning in July 2027)
 Charles
 Frederick
+Harford (effective for wage surveys beginning in July 2027)
+Howard (effective for wage surveys beginning in July 2027)
 Montgomery
 Prince George's
+Washington (effective for wage surveys beginning in July 2027)
+Pennsylvania:
+Franklin (effective for wage surveys beginning in July 2027)
 Virginia (cities):
 Alexandria
 Fairfax
@@ -422,53 +412,92 @@ Manassas Park
 Virginia (counties):
 Arlington
 Fairfax
+King George (effective for wage surveys beginning in July 2027)
 Loudoun
 Prince William
+West Virginia:
+Berkeley (effective for wage surveys beginning in July 2027)
 Area of Application. Survey area plus:
-Maryland:
+Maryland (city):
+Baltimore (effective until July 2027)
+Maryland (counties):
+Allegany
+Anne Arundel (effective until July 2027)
+Baltimore (effective until July 2027)
 Calvert
+Caroline
+Carroll (effective until July 2027)
+Dorchester
+Garrett
+Harford (effective until July 2027)
+Howard (effective until July 2027)
+Kent
+Queen Anne's
 St. Mary's
-Virginia (city):
+Talbot
+Washington (effective until July 2027)
+Pennsylvania:
+Adams (Only includes the Raven Rock Mountain Complex)
+Franklin (effective until July 2027)
+Fulton
+Virginia (cities):
 Fredericksburg
+Harrisonburg
+Staunton
+Waynesboro
+Winchester
 Virginia (counties):
 Albemarle (Only includes the Shenandoah National Park portion)
-Augusta (Only includes the Shenandoah National Park portion)
+Augusta
+Caroline
 Clarke
 Culpeper
 Fauquier
+Frederick
 Greene (Only includes the Shenandoah National Park portion)
-King George
+King George (effective until July 2027)
 Madison
-Page (Only includes the Shenandoah National Park portion)
+Orange
+Page
 Rappahannock
-Rockingham (Only includes the Shenandoah National Park portion)
+Rockingham
+Shenandoah
 Spotsylvania
 Stafford
 Warren
+Westmoreland
 West Virginia:
+Berkeley (effective until July 2027)
+Hampshire
+Hardy
 Jefferson
-Florida
-Cocoa Beach-Melbourne
+Mineral
+Morgan
+FLORIDA
+Cocoa-Beach
 Survey Area
 Florida:
 Brevard
-Area of Application. Survey area plus:
-Florida:
-Indian River
+Area of Application. Survey area.
 Jacksonville
 Survey Area
 Florida:
 Alachua
 Baker
 Clay
+Columbia (effective for wage surveys beginning in January 2027)
 Duval
 Nassau
+Orange (effective for wage surveys beginning in January 2027)
 St. Johns
+Sumter (effective for wage surveys beginning in January 2027)
+Georgia:
+Camden
 Area of Application. Survey area plus:
 Florida:
 Bradford
 Citrus
-Columbia
+Columbia (effective until January 2027)
 Dixie
 Flagler
 Gilchrist
@@ -478,22 +507,23 @@ Lake
 Levy
 Madison
 Marion
-Orange
+Orange (effective until January 2027)
 Osceola
+Polk
 Putnam
 Seminole
-Sumter
+Sumter (effective until January 2027)
 Suwannee
 Taylor
 Union
 Volusia
 Georgia:
-Camden
 Charlton
-Miami
+Miami-Port St. Lucie-Fort Lauderdale
 Survey Area
 Florida:
 Miami-Dade
+Palm Beach (effective for wage surveys beginning in May 2027)
 Area of Application. Survey area plus:
 Florida:
 Broward
@@ -501,10 +531,12 @@ Collier
 Glades
 Hendry
 Highlands
+Indian River
+Lee
 Martin
 Monroe
 Okeechobee
-Palm Beach
+Palm Beach (effective until May 2027)
 St. Lucie
 Panama City
 Survey Area
@@ -523,15 +555,14 @@ Leon
 Liberty
 Wakulla
 Washington
+Georgia:
+Decatur
 Pensacola
 Survey Area
 Florida:
 Escambia
 Santa Rosa
 Area of Application. Survey area plus:
-Florida
-Okaloosa
-Walton
 Alabama:
 Baldwin
 Clarke
@@ -541,6 +572,9 @@ Escambia
 Mobile
 Monroe
 Washington
+Florida:
+Okaloosa
+Walton
 Tampa-St. Petersburg
 Survey Area
 Florida:
@@ -553,13 +587,8 @@ Charlotte
 De Soto
 Hardee
 Hernando
-Lee
 Manatee
-Polk
 Sarasota
-Georgia
-Albany
-Survey Area
 Georgia:
 Colquitt
 Dougherty
@@ -577,23 +606,30 @@ Calhoun
 Clinch
 Coffee
 Cook
-Decatur
 Echols
 Grady
 Irwin
 Lanier
 Lowndes
+Quitman
 Randolph
+Schley
 Sumter
 Terrell
 Thomas
 Tift
 Turner
 Ware
+Webster
 Atlanta
 Survey Area
+Alabama:
+Lee (effective for wage surveys beginning in May 2027)
+Macon (effective for wage surveys beginning in May 2027)
+Russell (effective for wage surveys beginning in May 2027)
 Georgia:
 Butts
+Chattahoochee (effective for wage surveys beginning in May 2027)
 Cherokee
 Clayton
 Cobb
@@ -604,20 +640,31 @@ Forsyth
 Fulton
 Gwinnett
 Henry
+Muscogee (effective for wage surveys beginning in May 2027)
 Newton
 Paulding
 Rockdale
 Walton
 Area of Application. Survey area plus:
+Alabama:
+Chambers
+Cherokee
+Cleburne
+Lee (effective until May 2027)
+Macon (effective until May 2027)
+Randolph
+Russell (effective until May 2027)
+Tallapoosa
 Georgia:
 Banks
 Barrow
 Bartow
 Carroll
-Chattooga
+Chattahoochee (effective until May 2027)
 Clarke
 Coweta
 Dawson
+Elbert
 Fannin
 Floyd
 Franklin
@@ -627,27 +674,35 @@ Greene
 Habersham
 Hall
 Haralson
+Harris
+Hart
 Heard
 Jackson
 Jasper
 Lamar
 Lumpkin
 Madison
+Marion
 Meriwether
 Morgan
-Murray
+Muscogee (effective until May 2027)
 Oconee
 Oglethorpe
 Pickens
 Pike
 Polk
+Putnam
 Rabun
 Spalding
 Stephens
+Stewart
+Talbot
+Taliaferro
 Towns
+Troup
 Union
+Upson
 White
-Whitfield
 Augusta
 Survey Area
 Georgia:
@@ -659,14 +714,11 @@ Aiken
 Area of Application. Survey area plus:
 Georgia:
 Burke
-Elbert
 Emanuel
 Glascock
-Hart
 Jefferson
 Jenkins
 Lincoln
-Taliaferro
 Warren
 Wilkes
 South Carolina:
@@ -675,40 +727,6 @@ Bamberg
 Barnwell
 Edgefield
 McCormick
-Columbus
-Survey Area
-Alabama:
-Autauga
-Elmore
-Lee
-Macon
-Montgomery
-Russell
-Georgia
-Chattahoochee
-Columbus
-Area of Application. Survey area plus:
-Alabama:
-Bullock
-Butler
-Chambers
-Coosa
-Crenshaw
-Dallas
-Lowndes
-Pike
-Tallapoosa
-Wilcox
-Georgia:
-Harris
-Marion
-Quitman
-Schley
-Stewart
-Talbot
-Taylor
-Troup
-Webster
 Macon
 Survey Area
 Georgia:
@@ -733,10 +751,9 @@ Monroe
 Montgomery
 Peach
 Pulaski
-Putnam
+Taylor
 Telfair
 Treutlen
-Upson
 Washington
 Wheeler
 Wilcox
@@ -747,6 +764,8 @@ Bryan
 Chatham
 Effingham
 Liberty
+South Carolina:
+Beaufort (effective for wage surveys beginning in May 2027)
 Area of Application. Survey area plus:
 Georgia:
 Appling
@@ -765,9 +784,10 @@ Tattnall
 Toombs
 Wayne
 South Carolina:
-Beaufort (The portion south of Broad River)
+Beaufort (effective until May 2027)
 Hampton
 Jasper
+HAWAII
 Hawaii
 Survey Area
 Hawaii:
@@ -775,9 +795,9 @@ Honolulu
 Area of Application. Survey area plus:
 Hawaii:
 Hawaii
-Kauai (Kauai county includes the islands of Kauai and Niihau)
-Maui (Maui county includes the islands of Maui, Molokai, Lanai and Kohoolawe)
-Idaho
+Kauai (includes the islands of Kauai and Niihau)
+Maui (includes the islands of Maui, Molokai, Lanai, and Kahoolawe)
+IDAHO
 Boise
 Survey Area
 Idaho:
@@ -816,8 +836,8 @@ Teton
 Twin Falls
 Valley
 Washington
-Illinois
-Central Illinois
+ILLINOIS
+Bloomington-Pontiac
 Survey Area
 Illinois:
 Champaign
@@ -836,13 +856,16 @@ Douglas
 Edgar
 Ford
 Jasper
+Livingston
 Logan
 McLean
 Macon
+Morgan
 Moultrie
 Piatt
+Scott
 Shelby
-Chicago
+Chicago-Naperville
 Survey Area
 Illinois:
 Cook
@@ -854,15 +877,15 @@ Will
 Area of Application. Survey area plus:
 Illinois:
 Boone
+Bureau
 De Kalb
 Grundy
 Iroquois
 Kankakee
 Kendall
 La Salle
-Lee
-Livingston
 Ogle
+Putnam
 Stephenson
 Winnebago
 Indiana:
@@ -875,30 +898,16 @@ Pulaski
 Starke
 Wisconsin:
 Kenosha
-Indiana
-Bloomington-Bedford-Washington
+INDIANA
+Evansville-Henderson
 Survey Area
 Indiana:
 Daviess
 Greene
 Knox
-Lawrence
 Martin
-Monroe
 Orange
 Area of Application. Survey area plus:
-Indiana:
-Crawford
-Dubois
-Gibson
-Jackson
-Owen
-Perry
-Pike
-Posey
-Spencer
-Vanderburgh
-Warrick
 Illinois:
 Edwards
 Gallatin
@@ -907,12 +916,21 @@ Lawrence
 Richland
 Wabash
 White
+Indiana:
+Crawford
+Dubois
+Gibson
+Perry
+Pike
+Posey
+Spencer
+Vanderburgh
+Warrick
 Kentucky:
 Crittenden
 Daviess
 Hancock
 Henderson
-Livingston
 McLean
 Ohio
 Union
@@ -923,50 +941,49 @@ Indiana:
 Adams
 Allen
 DeKalb
-Grant
 Huntington
 Wells
 Area of Application. Survey area plus:
 Indiana:
-Blackford
-Case
+Cass
 Elkhart
 Fulton
 Jay
 Kosciusko
-Lagrange
+LaGrange
 Marshall
-Miami
 Noble
 St. Joseph
 Steuben
 Wabash
-White
 Whitley
 Ohio:
-Allen
 Defiance
 Henry
-Mercer
 Paulding
 Putnam
-Van Wert
 Williams
-Indianapolis
+Indianapolis-Carmel-Muncie
 Survey Area
 Indiana:
 Boone
+Grant (effective for wage surveys beginning in October 2026)
 Hamilton
 Hancock
 Hendricks
 Johnson
+Lawrence (effective for wage surveys beginning in October 2026)
 Marion
+Miami (effective for wage surveys beginning in October 2026)
+Monroe (effective for wage surveys beginning in October 2026)
 Morgan
 Shelby
+Vigo (effective for wage surveys beginning in October 2026)
 Area of Application. Survey area plus:
 Indiana:
 Bartholomew
 Benton
+Blackford
 Brown
 Carroll
 Clay
@@ -975,20 +992,30 @@ Decatur
 Delaware
 Fayette
 Fountain
+Grant (effective until October 2026)
 Henry
 Howard
+Jackson
+Jennings
+Lawrence (effective until October 2026)
 Madison
+Miami (effective until October 2026)
+Monroe (effective until October 2026)
 Montgomery
+Owen
 Parke
 Putnam
+Randolph
 Rush
 Sullivan
 Tippecanoe
 Tipton
 Vermillion
-Vigo
+Vigo (effective until October 2026)
 Warren
-Iowa
+Wayne
+White
+IOWA
 Cedar Rapids-Iowa City
 Survey Area
 Iowa:
@@ -1022,14 +1049,35 @@ Van Buren
 Wapello
 Washington
 Winneshiek
-Davenport-Rock Island-Moline
+Davenport-Moline
 Survey Area
-Iowa:
-Scott
 Illinois:
 Henry
 Rock Island
-Area of Application. Survey area plus
+Iowa:
+Scott
+Area of Application. Survey area plus:
+Illinois:
+Brown
+Carroll
+Cass
+Fulton
+Hancock
+Henderson
+Jo Daviess
+Knox
+Lee
+McDonough
+Marshall
+Mason
+Mercer
+Peoria
+Schuyler
+Stark
+Tazewell
+Warren
+Whiteside
+Woodford
 Iowa:
 Clinton
 Des Moines
@@ -1038,29 +1086,6 @@ Jackson
 Lee
 Louisa
 Muscatine
-Illinois:
-Adams
-Brown
-Bureau
-Carroll
-Cass
-Fulton
-Hancock
-Henderson
-Jo Daviess
-Knox
-McDonough
-Marshall
-Mason
-Mercer
-Peoria
-Putnam
-Schuyler
-Stark
-Tazewell
-Warren
-Whiteside
-Woodford
 Des Moines
 Survey Area
 Iowa:
@@ -1101,14 +1126,12 @@ Webster
 Winnebago
 Worth
 Wright
-Kansas
-Topeka
+KANSAS
+Manhattan
 Survey Area
 Kansas:
 Geary
-Jefferson
-Osage
-Shawnee
+Riley (effective for wage surveys beginning in November 2027)
 Area of Application. Survey area plus:
 Kansas:
 Brown
@@ -1116,7 +1139,6 @@ Clay
 Cloud
 Coffey
 Dickinson
-Jackson
 Lyon
 Marshall
 Morris
@@ -1124,9 +1146,8 @@ Nemaha
 Ottawa
 Pottawatomie
 Republic
-Riley
+Riley (effective until November 2027)
 Saline
-Webaunsee
 Washington
 Wichita
 Survey Area
@@ -1203,7 +1224,7 @@ Wallace
 Wichita
 Wilson
 Woodson
-Kentucky
+KENTUCKY
 Lexington
 Survey Area
 Kentucky:
@@ -1243,12 +1264,10 @@ Mercer
 Montgomery
 Morgan
 Nicholas
-Owen
 Owsley
 Perry
 Powell
 Pulaski
-Robertson
 Rockcastle
 Rowan
 Taylor
@@ -1258,16 +1277,20 @@ Whitley
 Wolfe
 Louisville
 Survey Area
+Indiana:
+Clark
+Floyd
+Jefferson
 Kentucky:
 Bullitt
 Hardin
 Jefferson
 Oldham
-Indiana:
-Clark
-Floyd
-Jefferson
 Area of Application. Survey area plus:
+Indiana:
+Harrison
+Scott
+Washington
 Kentucky:
 Breckinridge
 Grayson
@@ -1279,12 +1302,7 @@ Nelson
 Shelby
 Spencer
 Trimble
-Indiana:
-Harrison
-Jennings
-Scott
-Washington
-Louisiana
+LOUISIANA
 Lake Charles-Alexandria
 Survey Area
 Louisiana:
@@ -1346,12 +1364,12 @@ West Baton Rouge
 West Feliciana
 Shreveport
 Survey Area
-Louisiana: (parishes)
+Louisiana:
 Bossier
 Caddo
 Webster
 Area of Application. Survey area plus:
-Louisiana: (parishes)
+Louisiana:
 Bienville
 Claiborne
 De Soto
@@ -1365,13 +1383,12 @@ Richland
 Union
 West Carroll
 Texas:
-Cherokee
 Gregg
 Harrison
 Panola
 Rusk
 Upshur
-Maine
+MAINE
 Augusta
 Survey Area
 Maine:
@@ -1379,7 +1396,7 @@ Kennebec
 Knox
 Lincoln
 Area of Application. Survey area.
-Central and Northern Maine
+Central And Northern Maine
 Survey Area
 Maine:
 Aroostook
@@ -1391,288 +1408,68 @@ Piscataquis
 Somerset
 Waldo
 Washington
-Maryland
-Baltimore
+MASSACHUSETTS
+Boston-Worcester-Providence
 Survey Area
-Maryland (city):
-Baltimore
-Maryland (counties):
-Anne Arundel
-Baltimore
-Carroll
-Harford
-Howard
-Area of Application. Survey area plus:
-Maryland:
-Queen Anne's
-Hagerstown-Martinsburg-Chambersburg
-Survey Area
-Maryland:
-Washington
-Pennsylvania:
-Franklin
-West Virginia:
-Berkeley
-Area of Application. Survey area plus:
-Maryland:
-Allegany
-Garrett
-Pennsylvania:
-Fulton
-Virginia (cities):
-Harrisonburg
-Winchester
-Virginia (counties):
-Frederick
-Page (Does not include the Shenandoah National Park portion)
-Rockingham (Does not include the Shenandoah National Park portion)
-Shenandoah
-West Virginia:
-Hampshire
-Hardy
-Mineral
-Morgan
-Massachusetts
-Boston
-Survey Area
-Massachusetts:
-The following cities and towns in:
-Essex County
-Beverly
-Boxford
-Danvers
-Hamilton
-Lynn
-Lynnfield
-Manchester
-Marblehead
-Middleton
-Nahant
-Peabody
-Salem
-Saugus
-South Hamilton
-Swampscott
-Topsfield
-Wenham
-Middlesex County
-Acton
-Arlington
-Ashland
-Bedford
-Belmont
-Boxborough
-Burlington
-Cambridge
-Carlisle
-Concord
-Everett
-Framingham
-Holliston
-Lexington
-Lincoln
-Malden
-Medford
-Melrose
-Natick
-Newton
-North Reading
-North Wilmington
-Reading
-Sherborn
-Somerville
-Stoneham
-Sudbury
-Wakefield
-Waltham
-Watertown
-Wayland
-West Concord
-Weston
-Wilmington
-Winchester
-Woburn
-Norfolk County
-Bellingham
-Braintree
-Brookline
-Canton
-Cohasset
-Dedham
-Dover
-East Walpole
-Foxborough
-Franklin
-Harding
-Holbrook
-Islington
-Medfield
-Medway
-Millis
-Milton
-Needham
-Norfolk
-North Cohasset
-Norwood
-Quincy
-Randolph
-Sharon
-South Walpole
-Stoughton
-Walpole
-Wellesley
-Westwood
-Weymouth
-Wrentham
-Plymouth County
-Abington
-Duxbury
-Hanover
-Hanson
-Hingham
-Hull
-Kingston
-Marshfield
-Marshfield Hills
-North Scituate
-Norwell
-Oceanbluff
-Pembroke
-Rockland
-Scituate
-Shore Acres
-South Duxbury
-South Hingham
-West Hanover
-Suffolk County
-Area of Application. Survey area plus:
+Maine:
+Androscoggin (effective for wage surveys beginning in August 2026)
+Cumberland (effective for wage surveys beginning in August 2026)
+Sagadahoc (effective for wage surveys beginning in August 2026)
+York (effective for wage surveys beginning in August 2026)
 Massachusetts:
 Barnstable
+Bristol (effective for wage surveys beginning in August 2026)
+Essex
+Middlesex
+Norfolk
+Plymouth
+Suffolk
+Worcester (effective for wage surveys beginning in August 2026)
+New Hampshire:
+Rockingham (effective for wage surveys beginning in August 2026)
+Strafford (effective for wage surveys beginning in August 2026)
+Rhode Island:
+Bristol (effective for wage surveys beginning in August 2026)
+Kent (effective for wage surveys beginning in August 2026)
+Newport (effective for wage surveys beginning in August 2026)
+Providence (effective for wage surveys beginning in August 2026)
+Washington (effective for wage surveys beginning in August 2026)
+Area of Application. Survey area plus:
+Maine:
+Androscoggin (effective until August 2026)
+Cumberland (effective until August 2026)
+Franklin
+Oxford
+Sagadahoc (effective until August 2026)
+York (effective until August 2026)
+Massachusetts:
+Bristol (effective until August 2026)
 Dukes
 Nantucket
-Plymouth (non-survey area part)
-The following cities and towns in:
-Bristol County
-Easton
-Essex County
-Andover
-Essex
-Gloucester
-Ipswich
-Lawrence
-Methuen
-Rockport
-Rowley
-Middlesex County
-Ayer
-Billerica
-Chelmsford
-Dracut
-Dunstable
-Groton
-Hopkinton
-Hudson
-Littleton
-Lowell
-Marlborough
-Maynard
-Pepperell
-Stow
-Tewksbury
-Tyngsborough
-Westford
-Norfolk County
-Avon
-Central and Western Massachusetts
-Survey Area
-Massachusetts:
-The following cities and towns in:
-Hampden County
-Agawam
-Chicopee
-East Longmeadow
-Feeding Hills
-Hampden
-Holyoke
-Longmeadow
-Ludlow
-Monson
-Palmer
-Southwick
-Springfield
-Three Rivers
-Westfield
-West Springfield
-Wilbraham
-Hampshire County
-Easthampton
-Granby
-Hadley
-Northampton
-South Hadley
-Worcester County
-Warren
-West Warren
-Area of Application. Survey area plus:
-Connecticut
-Windham
-Massachusetts:
-Berkshire
-Franklin
-Worcester (except Blackstone and Millville)
-The following cities and towns in:
-Hampden County
-Blandford
-Brimfield
-Chester
-Granville
-Holland
-Montgomery
-Russell
-Tolland
-Wales
-Hampshire County
-Amherst
-Belchertown
-Chesterfield
-Cummington
-Goshen
-Hatfield
-Huntington
-Middlefield
-Pelham
-Plainfield
-Southampton
-Ware
-Westhampton
-Williamsburg
-Worthington
-Middlesex County
-Ashby
-Shirley
-Townsend
+Worcester (effective until August 2026)
 New Hampshire:
 Belknap
 Carroll
 Cheshire
+Coos
 Grafton
 Hillsborough
 Merrimack
+Rockingham (effective until August 2026)
+Strafford (effective until August 2026)
 Sullivan
+Rhode Island:
+Bristol (effective until August 2026)
+Kent (effective until August 2026)
+Newport (effective until August 2026)
+Providence (effective until August 2026)
+Washington (effective until August 2026)
 Vermont:
-Addison
-Bennington
-Caledonia
-Essex
-Lamoille
 Orange
-Orleans
-Rutland
-Washington
 Windham
 Windsor
-Michigan
-Detroit
+MICHIGAN
+Detroit-Warren-Ann Arbor
 Survey Area
 Michigan:
 Lapeer
@@ -1680,7 +1477,10 @@ Livingston
 Macomb
 Oakland
 St. Clair
+Washtenaw (effective for wage surveys beginning in January 2027)
 Wayne
+Ohio:
+Lucas (effective for wage surveys beginning in January 2027)
 Area of Application. Survey area plus:
 Michigan:
 Arenac
@@ -1694,6 +1494,7 @@ Gratiot
 Huron
 Ingham
 Isabella
+Jackson
 Lenawee
 Midland
 Monroe
@@ -1701,11 +1502,10 @@ Saginaw
 Sanilac
 Shiawassee
 Tuscola
-Washtenaw
+Washtenaw (effective until January 2027)
 Ohio:
 Fulton
-Lucas
-Ottawa
+Lucas (effective until January 2027)
 Wood
 Northwestern Michigan
 Survey Area
@@ -1748,6 +1548,9 @@ Presque Isle
 Roscommon
 Schoolcraft
 Wexford
+Wisconsin:
+Florence
+Marinette
 Southwestern Michigan
 Survey Area
 Michigan:
@@ -1763,7 +1566,6 @@ Branch
 Cass
 Hillsdale
 Ionia
-Jackson
 Kent
 Lake
 Mason
@@ -1775,7 +1577,7 @@ Oceana
 Osceola
 Ottawa
 St. Joseph
-Minnesota
+MINNESOTA
 Duluth
 Survey Area
 Minnesota:
@@ -1786,7 +1588,7 @@ Douglas
 Area of Application. Survey area plus:
 Minnesota:
 Aitkin
-Becker (Including the White Earth Indian Reservation portion only)
+Becker (only includes the White Earth Indian Reservation portion)
 Beltrami
 Cass
 Clearwater
@@ -1798,7 +1600,6 @@ Koochiching
 Lake
 Lake of the Woods
 Mahnomen
-Pine
 Wisconsin:
 Ashland
 Bayfield
@@ -1814,8 +1615,10 @@ Carver
 Chisago
 Dakota
 Hennepin
+Morrison (effective for wage surveys beginning in April 2027)
 Ramsey
 Scott
+Stearns (effective for wage surveys beginning in April 2027)
 Washington
 Wright
 Wisconsin:
@@ -1844,17 +1647,18 @@ McLeod
 Martin
 Meeker
 Mille Lacs
-Morrison
+Morrison (effective until April 2027)
 Mower
 Nicollet
 Olmsted
+Pine
 Pope
 Redwood
 Renville
 Rice
 Sherburne
 Sibley
-Stearns
+Stearns (effective until April 2027)
 Steele
 Stevens
 Swift
@@ -1864,11 +1668,12 @@ Wabasha
 Wadena
 Waseca
 Watonwan
+Winona
 Yellow Medicine
 Wisconsin:
 Pierce
 Polk
-Mississippi
+MISSISSIPPI
 Biloxi
 Survey Area
 Mississippi:
@@ -1916,7 +1721,7 @@ Survey Area
 Alabama:
 Choctaw
 Mississippi:
-Forest
+Forrest
 Lamar
 Lauderdale
 Area of Application. Survey area plus:
@@ -1935,7 +1740,7 @@ Newton
 Perry
 Wayne
 Northern Mississippi
-Survey Area
+Survey area
 Mississippi:
 Clay
 Grenada
@@ -1957,7 +1762,7 @@ Itawamba
 Lafayette (Does not include the Holly Springs National Forest portion)
 Montgomery
 Noxubee
-Pontotoc (Does not include the Holly Spring National Forest portion)
+Pontotoc (Does not include the Holly Springs National Forest portion)
 Prentiss
 Quitman
 Sunflower
@@ -1968,17 +1773,21 @@ Washington
 Webster
 Winston
 Yalobusha
-Missouri
+MISSOURI
 Kansas City
 Survey Area
 Kansas:
+Jefferson (effective for wage surveys beginning in October 2026)
 Johnson
 Leavenworth
+Osage (effective for wage surveys beginning in October 2026)
+Shawnee (effective for wage surveys beginning in October 2026)
 Wyandotte
 Missouri:
 Cass
 Clay
 Jackson
+Johnson (effective for wage surveys beginning in October 2026)
 Platte
 Ray
 Area of Application. Survey area plus:
@@ -1990,8 +1799,13 @@ Bourbon
 Doniphan
 Douglas
 Franklin
+Jackson
+Jefferson (effective until October 2026)
 Linn
 Miami
+Osage (effective until October 2026)
+Shawnee (effective until October 2026)
+Wabaunsee
 Missouri:
 Adair
 Andrew
@@ -2002,16 +1816,14 @@ Caldwell
 Carroll
 Chariton
 Clinton
-Cooper
 Daviess
-De Kalb
+DeKalb
 Gentry
 Grundy
 Harrison
 Henry
 Holt
-Howard
-Johnson
+Johnson (effective until October 2026)
 Lafayette
 Linn
 Livingston
@@ -2031,15 +1843,18 @@ Clinton
 Madison
 Monroe
 St. Clair
-Missouri: (city)
+Williamson (effective for wage surveys beginning in October 2026)
+Missouri (city):
 St. Louis
-Missouri: (counties)
+Missouri (counties):
+Boone (effective for wage surveys beginning in October 2026)
 Franklin
 Jefferson
 St. Charles
 St. Louis
 Area of Application. Survey area plus:
 Illinois:
+Adams
 Alexander
 Bond
 Calhoun
@@ -2055,34 +1870,36 @@ Jersey
 Johnson
 Macoupin
 Marion
-Massac
 Montgomery
-Morgan
 Perry
 Pike
 Pope
 Pulaski
 Randolph
 Saline
-Scott
 Union
 Washington
 Wayne
-Williamson
+Williamson (effective until October 2026)
 Missouri:
 Audrain
 Bollinger
-Boone
+Boone (effective until October 2026)
 Callaway
 Cape Girardeau
 Clark
 Cole
+Cooper
 Crawford
 Gasconade
+Howard
+Iron
 Knox
 Lewis
 Lincoln
+Madison
 Marion
+Mississippi
 Moniteau
 Monroe
 Montgomery
@@ -2094,6 +1911,7 @@ Randolph
 St. Francois
 Ste. Genevieve
 Scotland
+Scott
 Shelby
 Warren
 Washington
@@ -2124,13 +1942,10 @@ Dent
 Douglas
 Hickory
 Howell
-Iron
 Jasper
 Lawrence
-Madison
 Maries
 Miller
-Mississippi
 Morgan
 New Madrid
 Newton
@@ -2140,7 +1955,6 @@ Polk
 Reynolds
 Ripley
 St. Clair
-Scott
 Shannon
 Stoddard
 Stone
@@ -2149,13 +1963,14 @@ Texas
 Vernon
 Wayne
 Wright
+MONTANA
 Montana
 Survey Area
 Montana:
 Cascade
 Lewis and Clark
 Yellowstone
-Area of Application. Survey area plus:
+Area of Applicaton. Survey area plus:
 Montana:
 Beaverhead
 Big Horn
@@ -2214,16 +2029,40 @@ Wyoming:
 Big Horn
 Park
 Teton
-Nebraska
+NEBRASKA
 Omaha
 Survey Area
+Iowa:
+Pottawattamie
 Nebraska:
 Douglas
 Lancaster
 Sarpy
+Area of Applicaton. Survey area plus:
 Iowa:
-Pottawattamie
-Area of Application. Survey area plus:
+Adams
+Audubon
+Buena Vista
+Cass
+Cherokee
+Clay
+Crawford
+Fremont
+Harrison
+Ida
+Mills
+Monona
+Montgomery
+O'Brien
+Page
+Palo Alto
+Plymouth
+Pocahontas
+Sac
+Shelby
+Sioux
+Taylor
+Woodbury
 Nebraska:
 Adams
 Antelope
@@ -2304,57 +2143,39 @@ Wayne
 Webster
 Wheeler
 York
-Iowa:
-Adams
-Audubon
-Buena Vista
-Cass
-Cherokee
-Clay
-Crawford
-Fremont
-Harrison
-Ida
-Mills
-Monona
-Montgomery
-O'Brien
-Page
-Palo Alto
-Plymouth
-Pocahontas
-Sac
-Shelby
-Sioux
-Taylor
-Woodbury
-South Dakota
+South Dakota:
 Union
-Nevada
+NEVADA
 Las Vegas
 Survey Area
 Nevada:
 Clark
 Nye
-Area of Application. Survey area plus:
-Nevada:
-Esmeralda
-Lincoln
+Area of Applicaton. Survey area plus:
 Arizona:
 Mohave
 California:
-Inyo (Excludes the China Lake Naval Weapons Center portion only)
+Inyo (Does not include the China Lake Naval Weapons Center portion.)
+Nevada:
+Esmeralda
+Lincoln
 Reno
 Survey Area
+California:
+Lassen (effective for wage surveys beginning in March 2026)
 Nevada:
 Lyon
 Mineral
 Storey
 Washoe
-Area of Application. Survey area plus:
-Nevada (cities):
+Area of Applicaton. Survey area plus:
+California:
+Alpine
+Lassen (effective until March 2026)
+Mono (Does not cover locations where the Bridgeport, CA, special schedule applies)
+Nevada (city):
 Carson City
-Nevada (counties):
+Nevada (county):
 Churchill
 Douglas
 Elko
@@ -2363,52 +2184,12 @@ Humboldt
 Lander
 Pershing
 White Pine
-California:
-Lassen
-Madera (Includes only the Devils Postpile National Monument portion)
-Mono (Does not cover locations to which Bridgeport, Calif, special schedule applies)
-New Hampshire
-Portsmouth
-Survey Area
-Maine:
-Androscoggin
-Cumberland
-Sagadahoc
-York
-Massachusetts:
-The following cities and towns in:
-Essex County
-Amesbury
-Georgetown
-Groveland
-Haverhill
-Merrimac
-Newbury
-Newburyport
-North Andover
-Salisbury
-South Byfield
-West Newbury
-New Hampshire:
-Rockingham (except the following cities and towns: Newton, Plaistow, Salem, and Westville)
-Strafford
-Area of Application. Survey area plus:
-Maine
-Franklin
-Oxford
-New Hampshire
-Coos
-The following cities and towns in:
-Rockingham County
-Newton
-Plaistow
-Salem
-Westville
-New Mexico
-Albuquerque
+NEW MEXICO
+Albuquerque-Santa Fe-Los Alamos
 Survey Area
 New Mexico:
 Bernalillo
+McKinley (effective for wage surveys beginning in April 2027)
 Sandoval
 Area of Application. Survey area plus:
 New Mexico:
@@ -2419,21 +2200,22 @@ Curry
 De Baca
 Guadalupe
 Harding
-Lincoln (Does not include White Sands Missile Range portion)
+Lincoln (Does not include the White Sands Missile Range portion)
 Los Alamos
+McKinley (effective until April 2027)
 Mora
 Quay
 Rio Arriba
 Roosevelt
 San Miguel
 Santa Fe
-Socorro (Does not include White Sands Missile Range portion)
+Socorro (Does not include the White Sands Missile Range portion)
 Taos
 Torrance
 Union
 Valencia
-New York:
-Albany-Schenectady-Troy
+NEW YORK
+Albany-Schenectady
 Survey Area
 New York:
 Albany
@@ -2441,16 +2223,21 @@ Montgomery
 Rensselaer
 Saratoga
 Schenectady
-Area of Application. Survey area plus:
+Area of Applicaton. Survey area plus:
+Massachusetts:
+Berkshire
 New York:
 Columbia
 Delaware
 Fulton
 Greene
+Hamilton
 Schoharie
-Ulster
 Warren
 Washington
+Vermont:
+Bennington
+Rutland
 Buffalo
 Survey Area
 New York:
@@ -2458,26 +2245,32 @@ Erie
 Niagara
 Area of Application. Survey area plus:
 New York:
+Allegany
 Cattaraugus
 Chautauqua
+Wyoming
 Pennsylvania:
 Elk (Only includes the Allegheny National Forest portion)
 Forest (Only includes the Allegheny National Forest portion)
 McKean
 Warren
-New York
+New York-Newark
 Survey Area
 New Jersey:
 Bergen
+Burlington (Only includes the Joint Base McGuire-Dix-Lakehurst portion)
 Essex
 Hudson
 Middlesex
+Monmouth (effective for wage surveys beginning in January 2028)
 Morris
+Ocean (effective for wage surveys beginning in January 2028)
 Passaic
 Somerset
 Union
 New York:
 Bronx
+Dutchess (effective for wage surveys beginning in January 2028)
 Kings
 Nassau
 New York
@@ -2485,20 +2278,32 @@ Orange
 Queens
 Suffolk
 Westchester
+Pennsylvania:
+Monroe (effective for wage surveys beginning in January 2028)
 Area of Application. Survey area plus:
+Connecticut:
+Fairfield
 New Jersey:
-Burlington (Joint Base McGuire-Dix-Lakehurst portion only)
 Hunterdon
-Monmouth
-Ocean
+Mercer
+Monmouth (effective until January 2028)
+Ocean (effective until January 2028)
 Sussex
+Warren
 New York:
-Dutchess
+Dutchess (effective until January 2028)
 Putnam
 Richmond
 Rockland
-Pennsylvania
+Sullivan
+Ulster
+Pennsylvania:
+Carbon
+Lehigh
+Monroe (effective until January 2028)
+Northampton
 Pike
+Wayne
 Northern New York
 Survey Area
 New York:
@@ -2514,6 +2319,13 @@ Area of Application. Survey area plus:
 New York:
 Essex
 Lewis
+Vermont:
+Addison
+Caledonia
+Essex
+Lamoille
+Orleans
+Washington
 Rochester
 Survey Area
 New York:
@@ -2525,12 +2337,10 @@ Steuben
 Wayne
 Area of Application. Survey area plus:
 New York:
-Allegany
 Chemung
 Genesee
 Schuyler
 Seneca
-Wyoming
 Yates
 Pennsylvania:
 Tioga
@@ -2548,11 +2358,10 @@ Broome
 Cayuga
 Chenango
 Cortland
-Hamilton
 Otsego
 Tioga
 Tompkins
-North Carolina
+NORTH CAROLINA
 Asheville
 Survey Area
 North Carolina:
@@ -2563,16 +2372,11 @@ Madison
 Transylvania
 Area of Application. Survey area plus:
 North Carolina:
-Alexander
 Avery
-Burke
-Caldwell
-Catawba
 Cherokee
 Clay
 Graham
 Jackson
-McDowell
 Macon
 Mitchell
 Polk
@@ -2599,8 +2403,8 @@ Chatham
 Davidson
 Davie
 Edgecombe
-Franklin
 Forsyth
+Franklin
 Granville
 Guilford
 Halifax
@@ -2626,7 +2430,7 @@ South Carolina:
 Dillon
 Marion
 Marlboro
-Charlotte
+Charlotte-Concord
 Survey Area
 North Carolina:
 Cabarrus
@@ -2636,10 +2440,15 @@ Rowan
 Union
 Area of Application. Survey area plus:
 North Carolina:
+Alexander
 Anson
+Burke
+Caldwell
+Catawba
 Cleveland
 Iredell
 Lincoln
+McDowell
 Stanly
 Wilkes
 South Carolina:
@@ -2664,19 +2473,18 @@ Area of Application. Survey area plus:
 North Carolina:
 Beaufort
 Bertie
-Dare
 Duplin
 Greene
-Hertford
 Hyde
 Martin
 Pitt
-Tyrrell
 Washington
-South Carolina:
-Horry
+NORTH DAKOTA
 North Dakota
 Survey Area
+Minnesota:
+Clay
+Polk
 North Dakota:
 Burleigh
 Cass
@@ -2687,10 +2495,17 @@ Morton
 Oliver
 Traill
 Ward
-Minnesota:
-Clay
-Polk
 Area of Application. Survey area plus:
+Minnesota:
+Becker (does not include the White Earth Indian Reservation portion)
+Kittson
+Marshall
+Norman
+Otter Tail
+Pennington
+Red Lake
+Roseau
+Wilkin
 North Dakota:
 Adams
 Barnes
@@ -2711,7 +2526,7 @@ Grant
 Griggs
 Hettinger
 Kidder
-La Moure
+LaMoure
 Logan
 McHenry
 McIntosh
@@ -2736,17 +2551,7 @@ Towner
 Walsh
 Wells
 Williams
-Minnesota:
-Becker (Excluding the White Earth Indian Reservation portion)
-Kittson
-Marshall
-Norman
-Otter Tail
-Pennington
-Red Lake
-Roseau
-Wilkin
-Ohio
+OHIO
 Cincinnati
 Survey Area
 Indiana:
@@ -2759,7 +2564,7 @@ Ohio:
 Clermont
 Hamilton
 Warren
-Area of Application: Survey area plus:
+Area of Application. Survey area plus:
 Indiana:
 Franklin
 Ohio
@@ -2771,19 +2576,24 @@ Bracken
 Carroll
 Gallatin
 Grant
+Lewis
 Mason
+Owen
 Pendleton
+Robertson
 Ohio:
 Adams
 Brown
 Butler
+Clinton
 Highland
-Cleveland
+Cleveland-Akron-Canton
 Survey Area
 Ohio:
 Cuyahoga
 Geauga
 Lake
+Mahoning (effective for wage surveys beginning in April 2027)
 Medina
 Area of Application. Survey area plus:
 Ohio:
@@ -2791,20 +2601,23 @@ Ashland
 Ashtabula
 Carroll
 Columbiana
+Coshocton
+Crawford
 Erie
+Holmes
 Huron
 Lorain
-Mahoning
+Mahoning (effective until April 2027)
+Ottawa
 Portage
+Richland
 Sandusky
-Seneca
 Stark
 Summit
 Trumbull
+Tuscarawas
 Wayne
-Pennsylvania
-Mercer
-Columbus
+Columbus-Marion-Zanesville
 Survey Area
 Ohio:
 Delaware
@@ -2813,26 +2626,31 @@ Franklin
 Licking
 Madison
 Pickaway
+Ross (effective for wage surveys beginning in January 2027)
 Area of Application. Survey area plus:
 Ohio:
-Coshocton
-Crawford
+Athens
 Fayette
 Guernsey
 Hancock
 Hardin
 Hocking
-Holmes
 Knox
+Logan
 Marion
+Morgan
 Morrow
 Muskingum
+Noble
 Perry
-Richland
-Ross
+Pike
+Ross (effective until January 2027)
+Seneca
 Union
+Vinton
 Wyandot
 Dayton
+Survey Area
 Ohio:
 Champaign
 Clark
@@ -2841,16 +2659,14 @@ Miami
 Montgomery
 Preble
 Area of Application. Survey area plus:
-Indiana:
-Randolph
-Wayne
 Ohio:
+Allen
 Auglaize
-Clinton
 Darke
-Logan
+Mercer
 Shelby
-Oklahoma
+Van Wert
+OKLAHOMA
 Oklahoma City
 Survey Area
 Oklahoma:
@@ -2865,9 +2681,7 @@ Alfalfa
 Atoka
 Beckham
 Blaine
-Bryan
 Caddo
-Carter
 Coal
 Custer
 Dewey
@@ -2882,7 +2696,6 @@ Johnston
 Kingfisher
 Lincoln
 Logan
-Love
 Major
 Marshall
 Murray
@@ -2925,7 +2738,7 @@ Delaware
 Haskell
 Kay
 Latimer
-LeFlore
+Le Flore
 McCurtain
 McIntosh
 Nowata
@@ -2936,8 +2749,8 @@ Pawnee
 Pushmataha
 Sequoyah
 Washington
-Oregon
-Portland
+OREGON
+Portland-Vancouver-Salem
 Survey Area
 Oregon:
 Clackamas
@@ -2949,10 +2762,12 @@ Washington:
 Clark
 Area of Application. Survey area plus:
 Oregon:
+Benton
 Clatsop
 Columbia
 Gilliam
 Hood River
+Linn
 Sherman
 Tillamook
 Wasco
@@ -2960,7 +2775,6 @@ Yamhill
 Washington:
 Cowlitz
 Klickitat
-Pacific
 Skamania
 Wahkiakum
 Southwestern Oregon
@@ -2970,8 +2784,9 @@ Douglas
 Jackson
 Lane
 Area of Application. Survey area plus:
+California:
+Del Norte
 Oregon:
-Benton
 Coos
 Crook
 Curry
@@ -2981,34 +2796,38 @@ Josephine
 Klamath
 Lake
 Lincoln
-Linn
-Pennsylvania
-Harrisburg
+PENNSYLVANIA
+Harrisburg-York-Lebanon
 Survey Area
 Pennsylvania:
 Cumberland
 Dauphin
 Lebanon
+Union (effective for wage surveys beginning in May 2026)
 York
 Area of Application. Survey area plus:
 Pennsylvania:
-Adams
-Berks
+Adams (Does not include the Raven Rock Mountain Complex)
+Clinton
 Juniata
 Lancaster
-Lycoming (Allenwood Federal Prison Camp portion only)
+Lycoming
 Mifflin
-Northumberland
 Perry
-Schuylkill
 Snyder
-Union
-Philadelphia
+Union (effective until May 2026)
+Philadelphia-Reading-Camden
 Survey Area
+Delaware:
+Kent (effective for wage surveys beginning in October 2027)
+New Castle (effective for wage surveys beginning in October 2027)
+Maryland:
+Cecil (effective for wage surveys beginning in October 2027)
 New Jersey:
 Burlington (Excluding the Joint Base McGuire-Dix-Lakehurst portion)
 Camden
 Gloucester
+Salem (effective for wage surveys beginning in October 2027)
 Pennsylvania:
 Bucks
 Chester
@@ -3016,22 +2835,30 @@ Delaware
 Montgomery
 Philadelphia
 Area of Application. Survey area plus:
+Delaware:
+Kent (effective until October 2027)
+New Castle (effective until October 2027)
+Sussex
+Maryland:
+Cecil (effective until October 2027)
+Somerset
+Wicomico
+Worcester (Does not include the Assateague Island portion)
 New Jersey:
 Atlantic
 Cape May
 Cumberland
-Mercer
-Warren
+Salem (effective until October 2027)
 Pennsylvania:
-Carbon
-Lehigh
-Northampton
+Berks
+Schuylkill
 Pittsburgh
 Survey Area
 Pennsylvania:
 Allegheny
 Beaver
 Butler
+Cambria (effective for wage surveys beginning in July 2027)
 Washington
 Westmoreland
 Area of Application. Survey area plus:
@@ -3039,17 +2866,15 @@ Ohio:
 Belmont
 Harrison
 Jefferson
-Tuscarawas
 Pennsylvania:
 Armstrong
 Bedford
 Blair
-Cambria
+Cambria (effective until July 2027)
 Cameron
 Centre
 Clarion
 Clearfield
-Clinton
 Crawford
 Elk (Does not include the Allegheny National Forest portion)
 Erie
@@ -3060,6 +2885,7 @@ Huntingdon
 Indiana
 Jefferson
 Lawrence
+Mercer
 Potter
 Somerset
 Venango
@@ -3073,135 +2899,32 @@ Survey Area
 Pennsylvania:
 Lackawanna
 Luzerne
-Monroe
 Area of Application. Survey area plus:
-New York
-Sullivan
 Pennsylvania:
 Bradford
 Columbia
-Lycoming (Excluding Allenwood Federal Prison Camp)
 Montour
+Northumberland
 Sullivan
 Susquehanna
-Wayne
 Wyoming
+PUERTO RICO
 Puerto Rico
 Survey Area
 Puerto Rico (Municipios):
-San Juan
-Bayamon
-Canovanas
+Bayamón
+Canóvanas
 Carolina
-Catano
+Cataño
 Guaynabo
 Humacao
-Loiza
+Loíza
+San Juan
 Toa Baja
 Trujillo Alto
-Area of Application: Puerto Rico
-Rhode Island
-Narragansett Bay
-Survey Area
-Rhode Island:
-Bristol
-Newport
-The following cities and towns in:
-Kent County
-Anthony
-Coventry
-East Greenwich
-Greene
-Warwick
-West Warwick
-Providence County
-Ashton
-Burrillville
-Central Falls
-Cranston
-Cumberland
-Cumberland Hill
-East Providence
-Esmond
-Forestdale
-Greenville
-Harrisville
-Johnston
-Lincoln
-Manville
-Mapleville
-North Providence
-North Smithfield
-Oakland
-Pascoag
-Pawtucket
-Providence
-Saylesville
-Slatersville
-Smithfield
-Valley Falls
-Wallum Lake
-Woonsocket
-Washington County
-Davisville
-Galilee
-Lafayette
-Narragansett
-North Kingstown
-Point Judith
-Quonset Point
-Saunderstown
-Slocum
-Massachusetts:
-The following cities and towns in:
-Bristol County
-Attleboro
-Fall River
-North Attleboro
-Rehoboth
-Seekonk
-Somerset
-Swansea
-Westport
-Norfolk County
-Caryville
-Plainville
-South Bellingham
-Worcester County
-Blackstone
-Millville
-Area of Application. Survey area plus:
-Rhode Island:
-The following cities and towns in:
-Kent County
-West Greenwich
-Providence County
-Foster
-Glocester
-Scituate
-Washington County
-Charlestown
-Exeter
-Hopkinton
-New Shoreham
-Richmond
-South Kingstown
-Westerly
-Massachusetts:
-The following cities and towns in:
-Bristol County
-Acushnet
-Berkley
-Dartmouth
-Dighton
-Fairhaven
-Freetown
-Mansfield
-New Bedford
-Norton
-Raynham
-Taunton
-South Carolina
+Area of Application.
+Puerto Rico
+SOUTH CAROLINA
 Charleston
 Survey Area
 South Carolina:
@@ -3210,9 +2933,9 @@ Charleston
 Dorchester
 Area of Application. Survey area plus:
 South Carolina:
-Beaufort (The portion north of Broad River)
 Colleton
 Georgetown
+Horry
 Williamsburg
 Columbia
 Survey Area
@@ -3242,12 +2965,25 @@ Pickens
 Saluda
 Spartanburg
 Union
-South Dakota
+SOUTH DAKOTA
 Eastern South Dakota
 Survey Area
 South Dakota:
 Minnehaha
 Area of Application. Survey area plus:
+Iowa:
+Dickinson
+Emmet
+Lyon
+Osceola
+Minnesota:
+Jackson
+Lincoln
+Lyon
+Murray
+Nobles
+Pipestone
+Rock
 South Dakota:
 Aurora
 Beadle
@@ -3303,20 +3039,7 @@ Turner
 Walworth
 Yankton
 Ziebach
-Iowa:
-Dickinson
-Emmet
-Lyon
-Osceola
-Minnesota:
-Jackson
-Lincoln
-Lyon
-Murray
-Nobles
-Pipestone
-Rock
-Tennessee
+TENNESSEE
 Eastern Tennessee
 Survey Area
 Tennessee:
@@ -3331,6 +3054,13 @@ Virginia (counties):
 Scott
 Washington
 Area of Application. Survey area plus:
+Kentucky:
+Harlan
+Letcher
+North Carolina:
+Alleghany
+Ashe
+Watauga
 Tennessee:
 Cocke
 Greene
@@ -3343,13 +3073,6 @@ Lee
 Russell
 Smyth
 Tazewell
-North Carolina:
-Alleghany
-Ashe
-Watauga
-Kentucky:
-Harlan
-Letcher
 Memphis
 Survey Area
 Arkansas:
@@ -3369,14 +3092,14 @@ Poinsett
 St. Francis
 Mississippi:
 Benton
-Lafayette (Holly Springs National Forest portion only)
+Lafayette (Only includes the Holly Springs National Forest portion)
 Marshall
 Panola
-Pontotoc (Holly Springs National Forest portion only)
+Pontotoc (Only includes the Holly Springs National Forest portion)
 Tate
 Tippah
 Tunica
-Union (Holly Springs National Forest portion only)
+Union (Only includes the Holly Springs National Forest portion)
 Missouri:
 Dunklin
 Pemiscot
@@ -3397,6 +3120,8 @@ McNairy
 Obion
 Nashville
 Survey Area
+Kentucky:
+Christian
 Tennessee:
 Cheatham
 Davidson
@@ -3407,9 +3132,47 @@ Rutherford
 Sumner
 Williamson
 Wilson
-Kentucky:
-Christian
 Area of Application. Survey area plus:
+Alabama:
+Jackson
+Georgia:
+Catossa
+Chattooga
+Dade
+Murray
+Walker
+Whitfield
+Illinois:
+Massac
+Kentucky:
+Adair
+Allen
+Ballard
+Barren
+Butler
+Caldwell
+Calloway
+Carlisle
+Clinton
+Cumberland
+Edmonson
+Fulton
+Graves
+Hickman
+Hopkins
+Livingston
+Logan
+Lyon
+McCracken
+Marshall
+Metcalfe
+Monroe
+Muhlenberg
+Russell
+Simpson
+Todd
+Trigg
+Warren
 Tennessee:
 Anderson
 Bedford
@@ -3426,6 +3189,7 @@ Cumberland
 Decatur
 DeKalb
 Fentress
+Franklin
 Grainger
 Grundy
 Hamblen
@@ -3438,6 +3202,7 @@ Humphreys
 Jackson
 Jefferson
 Knox
+Lawrence
 Lewis
 Loudon
 McMinn
@@ -3447,6 +3212,7 @@ Marshall
 Maury
 Meigs
 Monroe
+Moore
 Morgan
 Overton
 Perry
@@ -3466,39 +3232,7 @@ Van Buren
 Warren
 Weakley
 White
-Kentucky:
-Adair
-Allen
-Ballard
-Barren
-Butler
-Caldwell
-Calloway
-Carlisle
-Clinton
-Cumberland
-Edmonson
-Fulton
-Graves
-Hickman
-Hopkins
-Logan
-Lyon
-McCracken
-Marshall
-Metcalfe
-Monroe
-Muhlenberg
-Russell
-Simpson
-Todd
-Trigg
-Warren
-Georgia:
-Catossa
-Dade
-Walker
-Texas
+TEXAS
 Austin
 Survey Area
 Texas:
@@ -3517,28 +3251,30 @@ Lee
 Llano
 Mason
 San Saba
-Corpus Christi
+Corpus Christi-Kingsville-Alice
 Survey Area
 Texas:
+Hidalgo (effective for wage surveys beginning in June 2026)
 Nueces
 San Patricio
 Area of Application. Survey area plus:
 Texas:
 Aransas
 Bee
-Brooks (Effective as of the first day of the first applicable pay period beginning on or after April 17, 1996.)
+Brooks
 Calhoun
-Cameron (Effective as of the first day of the first applicable pay period beginning on or after April 17, 1996.)
+Cameron
+Duval
 Goliad
-Hidalgo (Effective as of the first day of the first applicable pay period beginning on or after April 17, 1996.)
+Hidalgo (effective until June 2026)
 Jim Wells
-Kenedy (Effective as of the first day of the first applicable pay period beginning on or after April 17, 1996.)
+Kenedy
 Kleberg
 Live Oak
 Refugio
-Starr (Effective as of the first day of the first applicable pay period beginning on or after April 17, 1996.)
+Starr
 Victoria
-Willacy (Effective as of the first day of the first applicable pay period beginning on or after April 17, 1996.)
+Willacy
 Dallas-Fort Worth
 Survey Area
 Texas:
@@ -3555,12 +3291,18 @@ Rockwall
 Tarrant
 Wise
 Area of Application. Survey area plus:
+Oklahoma:
+Bryan
+Carter
+Love
 Texas:
+Cherokee
 Cooke
 Delta
 Erath
 Fannin
 Henderson
+Hill
 Hopkins
 Hunt
 Jack
@@ -3586,10 +3328,10 @@ Chaves
 Eddy
 Grant
 Hidalgo
-Lincoln (Only White Sands Missile Range portion)
+Lincoln (Only includes the White Sands Missile Range portion)
 Luna
 Sierra
-Socorro (Only White Sands Missile Range portion)
+Socorro (Only includes the White Sands Missile Range portion)
 Texas:
 Culberson
 Hudspeth
@@ -3641,9 +3383,8 @@ Area of Application. Survey area plus:
 Texas:
 Atascosa
 Bandera
-De Witt
+DeWitt
 Dimmit
-Duval
 Edwards
 Frio
 Gillespie
@@ -3666,12 +3407,19 @@ Zapata
 Zavala
 Texarkana
 Survey Area
-Texas:
-Bowie
 Arkansas:
 Little River
 Miller
+Texas:
+Bowie
 Area of Application. Survey area plus:
+Arkansas:
+Columbia
+Hempstead
+Howard
+Lafayette
+Nevada
+Sevier
 Texas:
 Camp
 Cass
@@ -3680,13 +3428,6 @@ Marion
 Morris
 Red River
 Titus
-Arkansas:
-Columbia
-Hempstead
-Howard
-Lafayette
-Nevada
-Sevier
 Waco
 Survey Area
 Texas:
@@ -3702,7 +3443,6 @@ Burleson
 Falls
 Freestone
 Hamilton
-Hill
 Lampasas
 Leon
 Limestone
@@ -3721,6 +3461,12 @@ Nolan
 Taylor
 Tom Green
 Area of Application. Survey area plus:
+New Mexico:
+Lea
+Oklahoma:
+Beaver
+Cimarron
+Texas
 Texas:
 Andrews
 Armstrong
@@ -3805,24 +3551,24 @@ Ward
 Wheeler
 Winkler
 Yoakum
-Oklahoma:
-Beaver
-Cimarron
-Texas
-New Mexico:
-Lea
-Wichita Falls, Texas—Southwestern Oklahoma
+Wichita Falls, Texas-Southwestern Oklahoma
 Survey Area
-Texas:
-Archer
-Clay
-Wichita
 Oklahoma:
 Comanche
 Cotton
 Stephens
 Tillman
+Texas:
+Archer
+Clay
+Wichita
 Area of Application. Survey area plus:
+Oklahoma:
+Greer
+Harmon
+Jackson
+Jefferson
+Kiowa
 Texas:
 Baylor
 Foard
@@ -3830,12 +3576,6 @@ Hardeman
 Knox
 Wilbarger
 Young
-Oklahoma:
-Greer
-Harmon
-Jackson
-Jefferson
-Kiowa
 UTAH
 Utah
 Survey Area
@@ -3847,6 +3587,11 @@ Tooele
 Utah
 Weber
 Area of Application. Survey area plus:
+Colorado:
+Mesa
+Moffat
+Idaho:
+Franklin
 Utah:
 Beaver
 Cache
@@ -3862,49 +3607,13 @@ Millard
 Morgan
 Piute
 Rich
-Sevier
 Sanpete
+Sevier
 Summit
 Uintah
 Wasatch
 Wayne (Does not include the Capitol Reef and Canyonlands National Parks portions)
-Virginia
-Norfolk-Portsmouth-Newport News-Hampton
-Survey Area
-Virginia (cities):
-Chesapeake
-Hampton
-Newport News
-Norfolk
-Poquoson
-Portsmouth
-Suffolk
-Virginia Beach
-Williamsburg
-Virginia (counties):
-Gloucester
-James City
-York
-North Carolina:
-Currituck
-Area of Application. Survey area plus:
-Virginia (city):
-Franklin
-Virginia (counties):
-Accomack
-Isle of Wight
-Mathews
-Northampton
-Southampton
-Surry
-North Carolina:
-Camden
-Chowan
-Gates
-Pasquotank
-Perquimans
-Maryland:
-Assateague Island part of Worcester
+VIRGINIA
 Richmond
 Survey Area
 Virginia (cities):
@@ -3931,7 +3640,6 @@ Albemarle (Does not include the Shenandoah National Park portion)
 Amelia
 Brunswick
 Buckingham
-Caroline
 Charlotte
 Cumberland
 Essex
@@ -3942,17 +3650,14 @@ King and Queen
 King William
 Lancaster
 Louisa
-Lunenberg
+Lunenburg
 Mecklenburg
-Middlesex
 Nelson
 Northumberland
 Nottoway
-Orange
 Prince Edward
 Richmond
 Sussex
-Westmoreland
 Roanoke
 Survey Area
 Virginia (cities):
@@ -3966,23 +3671,17 @@ Montgomery
 Roanoke
 Area of Application. Survey area plus:
 Virginia (cities):
-Bedford
 Buena Vista
-Clifton Forge
 Covington
 Danville
 Galax
 Lexington
 Lynchburg
 Martinsville
-South Boston
-Staunton
-Waynesboro
 Virginia (counties):
 Alleghany
 Amherst
 Appomattox
-Augusta (Does not include the Shenandoah National Park portion)
 Bath
 Bedford
 Bland
@@ -3999,23 +3698,66 @@ Pittsylvania
 Pulaski
 Rockbridge
 Wythe
-Washington
-Seattle-Everett-Tacoma
+Virginia Beach-Chesapeake
+Survey Area
+North Carolina:
+Currituck
+Pasquotank (effective for wage surveys beginning in May 2026)
+Virginia (cities):
+Chesapeake
+Hampton
+Newport News
+Norfolk
+Poquoson
+Portsmouth
+Suffolk
+Virginia Beach
+Williamsburg
+Virginia (counties):
+Gloucester
+James City
+York
+Area of Application. Survey area plus:
+Maryland:
+Worcester (Only includes the Assateague Island portion)
+North Carolina:
+Camden
+Chowan
+Dare
+Gates
+Hertford
+Pasquotank (effective until May 2026)
+Perquimans
+Tyrrell
+Virginia (city):
+Franklin
+Virginia (counties):
+Accomack
+Isle of Wight
+Mathews
+Middlesex
+Northampton
+Southampton
+Surry
+WASHINGTON
+Seattle-Tacoma
 Survey Area
 Washington:
+Island (effective for wage surveys beginning in September 2026)
 King
 Kitsap
 Pierce
 Snohomish
 Area of Application. Survey area plus:
 Washington:
-Chelan (North Cascades Park section only)
+Chelan (Only includes the North Cascades National Park section)
 Clallam
 Grays Harbor
-Island
+Island (effective until September 2026)
 Jefferson
 Lewis
 Mason
+Pacific
 San Juan
 Skagit
 Thurston
@@ -4072,8 +3814,14 @@ Okanogan
 Pend Oreille
 Stevens
 Whitman
+WEST VIRGINIA
 West Virginia
 Survey Area
+Kentucky:
+Boyd
+Greenup
+Ohio:
+Lawrence
 West Virginia:
 Cabell
 Harrison
@@ -4082,12 +3830,28 @@ Marion
 Monongalia
 Putnam
 Wayne
-Ohio:
-Lawrence
-Kentucky:
-Boyd
-Greenup
 Area of Application. Survey area plus:
+Kentucky:
+Carter
+Elliott
+Floyd
+Johnson
+Lawrence
+Magoffin
+Martin
+Pike
+Ohio:
+Gallia
+Jackson
+Meigs
+Monroe
+Scioto
+Washington
+Virginia (city):
+Norton
+Virginia (counties):
+Dickenson
+Wise
 West Virginia:
 Barbour
 Boone
@@ -4127,34 +3891,7 @@ Wetzel
 Wirt
 Wood
 Wyoming
-Ohio:
-Athens
-Gallia
-Jackson
-Meigs
-Monroe
-Morgan
-Noble
-Pike
-Scioto
-Vinton
-Washington
-Kentucky:
-Carter
-Elliott
-Floyd
-Johnson
-Lawrence
-Lewis
-Magoffin
-Martin
-Pike
-Virginia (city):
-Norton (Effective as of April 17, 1996)
-Virginia (counties):
-Dickenson
-Wise
-Wisconsin
+WISCONSIN
 Madison
 Survey Area
 Wisconsin:
@@ -4163,18 +3900,16 @@ Area of Application. Survey area plus:
 Wisconsin:
 Adams
 Columbia
-Dodge
 Grant
 Green
 Green Lake
 Iowa
-Jefferson
 Lafayette
 Marquette
 Rock
 Sauk
 Waushara
-Milwaukee
+Milwaukee-Racine-Waukesha
 Survey Area
 Wisconsin:
 Milwaukee
@@ -4185,13 +3920,17 @@ Area of Application. Survey area plus:
 Wisconsin:
 Brown
 Calumet
+Dodge
 Door
 Fond du Lac
+Jefferson
 Kewaunee
 Manitowoc
+Menominee
 Oconto
 Outagamie
 Racine
+Shawano
 Sheboygan
 Walworth
 Winnebago
@@ -4206,61 +3945,39 @@ Trempealeau
 Area of Application. Survey area plus:
 Minnesota:
 Houston
-Winona
 Wisconsin:
 Barron
 Buffalo
 Clark
 Crawford
 Dunn
-Florence
 Forest
 Jackson
 Juneau
 Langlade
 Lincoln
 Marathon
-Marinette
-Menominee
 Oneida
 Pepin
 Portage
 Price
 Richland
 Rusk
-Shawano
 Taylor
 Vernon
 Vilas
 Waupaca
 Wood
+WYOMING
 Wyoming
 Survey Area
+South Dakota:
+Pennington
 Wyoming:
 Albany
 Laramie
 Natrona
-South Dakota:
-Pennington
-Area of application. Survey area plus:
-Wyoming:
-Campbell
-Carbon
-Converse
-Crook
-Fremont
-Goshen
-Hot Springs
-Johnson
-Lincoln
-Niobrara
-Platte
-Sheridan
-Sublette
-Sweetwater
-Uinta
-Washakie
-Weston
+Area of Application. Survey area plus:
 Nebraska:
 Banner
 Box Butte
@@ -4281,5 +3998,23 @@ Harding
 Jackson
 Lawrence
 Meade
+Oglala Lakota
 Perkins
-Shannon
+Wyoming:
+Campbell
+Carbon
+Converse
+Crook
+Fremont
+Goshen
+Hot Springs
+Johnson
+Lincoln
+Niobrara
+Platte
+Sheridan
+Sublette
+Sweetwater
+Uinta
+Washakie
+Weston
