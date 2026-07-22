@@ -121,7 +121,7 @@ TSA HR Service Center, 6363 Walker Lane, Suite #400, Alexandria, VA 22310.
 Department of Housing and Urban Development
 Director, Systems Support Division, Employee Service Center, 451 7th Street SW, Room 2284, Washington, DC 20410, (202) 708-0241.
 Department of the Interior
-Chief, Payroll Operations Division, Attn: Code D-2605, Interior Business Center, Department of the Interior, P.O. Box 272030, Denver, CO 80227-9030, (303) 969-7739.
+U.S. Department of the Interior, Interior Business Center, Attn: Debt Management Branch, D-2640, P.O. Box 25365, Denver, CO 80225; (303) 969-7739.
 Department of Justice
 Antitrust Division
 Executive Office, Personnel Section 450 5th Street NW, Room 3100, Washington, DC 20530, (202) 415-4163.
@@ -167,7 +167,7 @@ Department of Transportation
 Office of the Secretary
 Assistant General Counsel for Litigation and Enforcement, C-30, U.S. Department of Transportation, 1200 New Jersey Avenue SE, Room W94-310, Washington, DC 20590, (202) 366-4713.
 Federal Aviation Administration
-Chief, Payroll Operations Division, Attn: Code D-2605, Interior Business Center, Department of the Interior, P.O. Box 272030, Denver, CO 80227-9030, (303) 969-7739.
+U.S. Department of the Interior, Interior Business Center, Attn: Debt Management Branch, D-2640, P.O. Box 25365, Denver, CO 80225; (303) 969-7739.
 Department of the Treasury
 (1) Departmental Offices
 Office of Human Resources, Treasury Department, 1500 Pennsylvania Avenue NW, Washington, DC 20220, (202) 622-0450.
@@ -204,9 +204,7 @@ Chief Counsel, 801 Ninth Street NW, Washington, DC 20220, (202) 756-6468.
 Department of Veterans Affairs
 Garnishment orders for civilian employees of the Department of Veterans Affairs should be sent to: Defense Finance and Accounting Service, Office of General Counsel, Attn: Garnishment Law Directorate, P.O. Box 998002, Cleveland, OH 44199-8002, Fax: 216-367-3675; Toll-Free Fax: 877-622-5930, Phone: 888-332-7411 (Those parties seeking offset of Veteran benefit payments pursuant to court and/or child support enforcement orders should contact the Veterans Benefits Administration at 1-800-827-1000 or https.www.benefits.va.gov/benefits/offices.asp for the appropriate service address of the Veterans Affairs Regional Office corresponding to the debtor's legal domicile).
 Social Security Administration
-1. For the garnishment of the remuneration of employees: Garnishment Agent, Office of the General Counsel, Room 611, Altmeyer Building, 6401 Security Blvd., Baltimore, MD 21235, (410) 965-4202.
-Effective March 30, 1998, garnishment orders for employees of the Social Security Administration should be sent to: Chief, Payroll Operations Division, Attn.: Code D-2640, Bureau of Reclamation, Administrative Services Center, Department of the Interior, P.O. Box 272030, Denver, CO 80227-9030, (303) 969-7739.
-2. For the garnishment of benefits under Title II of the Social Security Act, legal process may be served on the office manager at any Social Security District or Branch Office. The addresses and telephone numbers of Social Security District and Branch Offices may be found in the local telephone directory.
+1. For the garnishment of the remuneration of employees: U.S. Department of the Interior, Interior Business Center, Attn: Debt Management Branch, D-2640, P.O. Box 25365, Denver, CO 80225; (303) 969-7739.
 II. Agencies
 (Unless otherwise indicated below, all agencies of the executive branch shall be subject to service of legal process brought for the enforcement of an individual's obligation to provide child support and/or make alimony payments where such service is sent by certified or registered mail, return receipt requested, or by personal service, upon the head of the agency.)
 Agency for International Development
@@ -223,9 +221,9 @@ Consumer Product Safety Commission
 (Mail Service), General Counsel, Consumer Product Safety Commission, Washington, DC 20207-0001, (202) 504-0980.
 (Personal Service), General Counsel, Consumer Product Safety Commission, 4330 East-West Highway, Room 700, Bethesda, MD 20814-4408, (301) 504-0980.
 Council of the Inspectors General on Integrity and Efficiency
-Interior Business Center, Department of the Interior, Chief, Payroll Operations Division, ATTN: D-2640, P.O. Box 272030, Denver, CO 80227-9030, (303) 969-7739.
+U.S. Department of the Interior, Interior Business Center, Attn: Debt Management Branch, D-2640, P.O. Box 25365, Denver, CO 80225; (303) 969-7739.
 Environmental Protection Agency
-Department of the Interior, Interior Business Center, Debt Management Branch Attention: D-2640, 7201 W Mansfield Avenue, Denver, CO 80235, (866) 367-1272.
+U.S. Department of the Interior, Interior Business Center, Attn: Debt Management Branch, D-2640, P.O. Box 25365, Denver, CO 80225; (303) 969-7739.
 Export-Import Bank of the United States
 General Counsel, Export-Import Bank of the United States, 811 Vermont Avenue NW, Room 947, Washington, DC 20571, (202) 566-8334.
 Equal Employment Opportunity Commission
@@ -246,11 +244,11 @@ Federal Retirement Thrift Investment Board
 Payments to Board employees: Director of Administration, Federal Retirement Thrift Investment Board, 1250 H Street NW, Washington, DC 20005, (202) 942-1670.
 Benefits from the Thrift Savings Fund: General Counsel, Federal Retirement Thrift Investment Board, 1250 H Street NW, Washington, DC 20005, (202) 942-1662.
 Federal Trade Commission
-Garnishment orders for employees of the Federal Trade Commission should be sent to: Chief, Payroll Operations Division, Attn.: Code D-2605, Bureau of Reclamation, Administrative Services Center, Department of the Interior, 7201 West Mansfield Avenue, Denver, CO 80227-9030, (303) 969-7739.
+U.S. Department of the Interior, Interior Business Center, Attn: Debt Management Branch, D-2640, P.O. Box 25365, Denver, CO 80225; (303) 969-7739.
 General Services Administration
 Director, Kansas City Finance Division—6BC, 1500 East Bannister Road—Room 1107, Kansas City, MO 64131, (816) 926-7625.
 Harry S. Truman Scholarship Foundation
-Chief, Payroll Operations Division, Attention: Mail Code 2640, National Business Center, Department of the Interior, P.O. Box 272030, Denver, CO 80227-9030, (303) 969-7739.
+U.S. Department of the Interior, Interior Business Center, Attn: Debt Management Branch, D-2640, P.O. Box 25365, Denver, CO 80225; (303) 969-7739.
 Institute of Peace
 Garnishment orders for employees of the Institute of Peace should be sent to: General Services Administration, Director, Finance Division—(6BC), 1500 E Bannister Road, Room 1107, Kansas City, MO 64131, (816) 926-1666.
 International Trade Commission
@@ -258,7 +256,7 @@ Director, Office of Finance and Budget, 500 E Street SW, Suite 316, Washington, 
 Merit Systems Protection Board
 Director, Financial and Administrative Management Division, 1615 M Street NW, Washington, DC 20419, (202) 653-7263.
 National Aeronautics and Space Administration
-Interior Business Center, Department of the Interior, Chief, Payroll Operations Division, ATTN: D-2640, P.O. Box 272030, Denver, CO 80227-9030, (303) 969-7739.
+U.S. Department of the Interior, Interior Business Center, Attn: Debt Management Branch, D-2640, P.O. Box 25365, Denver, CO 80225; (303) 969-7739.
 National Archives and Records Administration
 General Counsel (NGC), National Archives and Records Administration, Suite 3110, 8601 Adelphi Road, College Park, MD 20740, 301-837-1750.
 National Capital Planning Commission
@@ -295,7 +293,7 @@ Secretary, Office of the Secretary, International Square, 1825 I Street NW, Suit
 Pension Benefit Guaranty Corporation
 Associate General Counsel, 445 12th Street SW, Washington, DC 20024, (202) 229-4400.
 Presidio Trust
-Chief, Payroll Operations Division, Attention: Mail Code 2640, National Business Center, Department of the Interior, P.O. Box 272030, Denver, CO 80227-9030, (303) 969-7739.
+U.S. Department of the Interior, Interior Business Center, Attn: Debt Management Branch, D-2640, P.O. Box 25365, Denver, CO 80225; (303) 969-7739.
 Railroad Retirement Board
 General Counsel, 844 North Rush Street, Chicago, IL 60611, (312) 751-4948.
 Securities and Exchange Commission
@@ -369,10 +367,14 @@ District Director, Casper District Office, 100 East B Street, Casper, WY 82602, 
 Tennessee Valley Authority
 Payments to TVA employees: Chairman, Board of Directors, Tennessee Valley Authority, 400 West Summit Hill Drive, Knoxville, TN 37902, (423) 632-2101.
 Payments of retirement benefits under the TVA Retirement System: Chairman, Board of Directors, TVA Retirement System, 500 West Summit Hill Drive, Knoxville, TN 37902, (423) 632-0202.
+The Defense Nuclear Facilities Safety Board
+U.S. Department of the Interior, Interior Business Center, Attn: Debt Management Branch, D-2640, P.O. Box 25365, Denver, CO 80225; (303) 969-7739.
 Trade and Development Agency
-Effective August 3, 1998, garnishment orders for employees of the United States Trade and Development Agency should be sent to: Chief, Payroll Operations Division, Attn.: Code D-2640, Bureau of Reclamation, Administrative Services Center, Department of the Interior, P.O. Box 272030, Denver, CO 80227-9030, (303) 969-7739.
+U.S. Department of the Interior, Interior Business Center, Attn: Debt Management Branch, D-2640, P.O. Box 25365, Denver, CO 80225; (303) 969-7739.
 United States Soldiers' & Airmen's Home
 Defense Finance and Accounting Service, Office of General Counsel, Attn: Garnishment Law Directorate, P.O. Box 998002, Cleveland, OH 44199-8002, Fax: 216-367-3675; Toll-Free Fax: 877-622-5930, Phone: 888-332-7411.
+U.S. Election Assistance Commission
+U.S. Department of the Interior, Interior Business Center, Attn: Debt Management Branch, D-2640, P.O. Box 25365, Denver, CO 80225; (303) 969-7739.
 III. United States Postal Service and Postal Regulatory Commission
 United States Postal Service and Postal Regulatory Commission
 Manager, Payroll Operations, 2825 Lone Oak Parkway, Eagan, MN 55121-0650, (651) 406-3600.
