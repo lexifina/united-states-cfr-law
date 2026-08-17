@@ -1,0 +1,5 @@
+# Appendix A to Subpart C of Part 910—Disclosure Certification Statement
+All disclosures required under this subpart must include the following certification statement:
+"I understand that this Disclosure is required to obtain funding from the U.S. Government. I, [Full Name and Title], certify to the best of my knowledge and belief that the information contained in this Disclosure Statement is true, complete, and accurate. I understand that any false, fictitious, or fraudulent information, misrepresentations, half-truths, or omissions of any material fact, may subject me to criminal, civil or administrative penalties for fraud, false statements, false claims, or otherwise. (18 U.S.C. 287, 1001, and 1031, and 31 U.S.C. 3729-3733 and 3801-3812). I further understand and agree that:
+(1) The statements and representations made herein are material to the U.S. Government's funding decision, and
+(2) I have a responsibility to update the disclosures during the period of performance of the Federal financial assistance award should circumstances change which impact the responses provided above."
