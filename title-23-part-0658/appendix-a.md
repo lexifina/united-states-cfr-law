@@ -24,7 +24,7 @@ AL 21 | US 431 Anniston | Jacksonville.
 AL 67 | I-65 Priceville | US 72 Alt. W. of Decatur.
 AL 79 | I-59 Birmingham | Pinson.
 AL 152 | US 231 N. Int. Montgomery | I-65 N. Int. Montgomery.
-AL 210 | Dothan Circle (Beltway)
+AL 210 | Dothan Circle (Beltway) |
 AL 248 | US 84 Enterprise | Ft. Rucker.
 AL 249 | Ft. Rucker | US 231.
 Alaska
@@ -98,7 +98,7 @@ CA 170 | US 101 | I-5 Los Angeles.
 CA 198 | I-5 Coalinga | CA 99 Visalia.
 CA 215 | I-15 N. of Temecula | CA 60 Riverside.
 CA 905 (Old CA 117) | I-5 | I-805 San Diego.
-Note: I-580 Oakland—All vehicles over 41/2 tons (except passenger buses and stages) are prohibited on MacArthur Freeway between Grand Avenue and the north city limits of San Leandro. (Excepted under 23 CFR 658.11(f)).
+Note: I-580 Oakland—All vehicles over 4 1/2 tons (except passenger buses and stages) are prohibited on MacArthur Freeway between Grand Avenue and the north city limits of San Leandro. (Excepted under 23 CFR 658.11(f)).
 Colorado
 No additional routes have been federally designated; under State law STAA-dimensioned commercial vehicles may legally operate on all highways which, prior to June 1, 1991, were designated as Federal-aid primary highways.
 Connecticut
@@ -223,7 +223,7 @@ IL 53 | Army Trail Rd. Addison | IL 68 Arlington Heights.
 IL 92 | I-280 Rock Island | US 67 Rock Island.
 IL 336 | IL 57 Fall Creek | US 24 NE. of Quincy.
 IL 394 | IL 1 Goodenow | I-80/94/294 S. Holland.
-IL Toll Hwys | All Routes
+IL Toll Hwys | All Routes |
 Indiana
 No additional routes have been federally designated; under State law STAA-dimensioned commercial vehicles may legally operate on all highways which, prior to June 1, 1991, were designated as Federal-aid primary highways.
 Iowa
@@ -759,6 +759,7 @@ Berkshire Conn. (NY 912M) | I-87 Exit 21A S. of Albany | I-90 Exit B1.
 Inner Loop (NY 940T) | I-490 W. Int. Rochester | I-490 E. Int. Rochester.
 Walden Avenue (NY 952Q) | I-90 Exit 52 | NY 277 Cheektowaga.
 Sheridan Boulevard (NY 895) | I-278 Bruckner Expressway | I-95 Cross Bronx Expressway.
+Business Loop 81 (BL 81) | I-81 Southern Interchange, Syracuse | NY481/I-81 Northern Interchange, Cicero.
 North Carolina
 I-40 Conn | US 19/23/74 Clyde | I-40 W. of Clyde.
 I-95 BR | I-95 S. of Fayetteville | I-95 N. of Fayetteville.
