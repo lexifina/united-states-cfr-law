@@ -48,24 +48,24 @@ Description of Defects
 (A)(1) Flanges 7/8″ or less at 3/8″ above the tread;
 (2) Flanges 13/16″ or less at 3/8″ above the tread;
 (3) Flanges 3/4″ or less at 3/8″ above the tread;
-(B)(1) Flange is 11/2″ or more from the tread to top of flange;
-(2) Flange is 15/8″ or more from the tread to top of flange;
-(3) Flange is 13/4″.
+(B)(1) Flange is 1 1/2″ or more from the tread to top of flange;
+(2) Flange is 1 5/8″ or more from the tread to top of flange;
+(3) Flange is 1 3/4″.
 (C)(1) Rim thickness is 11/16″ or less;
 (2) Rim thickness is 5/8″ or less;
 (3) Rim thickness is 9/16″ or less;
 (D) Wheel cracked or broken in: (1) rim, (2) flange, (3) plate or (4) hub area.
 (E) Wheel chip or gouge in flange:
-(1) 11/2″ length and 1/2″ in width or more;
-(2) 15/8″ length and 5/8″ in width or more;
-(3) 13/4″ in length and 3/4″ in width or more.
+(1) 1 1/2″ length and 1/2″ in width or more;
+(2) 1 5/8″ length and 5/8″ in width or more;
+(3) 1 3/4″ in length and 3/4″ in width or more.
 (F) Wheel has slid flat spot or shelled spot:
-(1) 21/2″ in length or more;
+(1) 2 1/2″ in length or more;
 (2) Has two adjoining flat spots each of which is 2″ in length or greater;
 (3) A single flat spot 3″ in length or more;
-(4) Has two adjoining flat spots one of which is at least 2″ in length and the other is 21/2″ or greater.
+(4) Has two adjoining flat spots one of which is at least 2″ in length and the other is 2 1/2″ or greater.
 (G) Has a loose wheel.
-(H) Overheated with discoloration extending: (1) More than 4″; (2) 41/2″ or more.
+(H) Overheated with discoloration extending: (1) More than 4″; (2) 4 1/2″ or more.
 (I) A welded wheel on car that is not moving for repairs.
 215.105 Defective Axle.
 (A) Cracked or broken:
@@ -129,11 +129,11 @@ Description of Defects
 (E) Truck bolster and center plate interference preventing rotation.
 (F) Has broken beam shelf supports worn so that shelf will not support beam.
 215.121 Defective car body.
-(A) Improper clearance—less than 21/2″ from top of rail.
+(A) Improper clearance—less than 2 1/2″ from top of rail.
 (B) Center sill is:
 (1) Broken;
 (2) Cracked more than 6″;
-(3) Bent or buckled more than 21/2″ in any 6-foot length.
+(3) Bent or buckled more than 2 1/2″ in any 6-foot length.
 (C) Coupler carrier is:
 (1) Broken;
 (2) Missing;
@@ -176,7 +176,7 @@ Description of Defects
 (A) Broken.
 (B) Inoperative.
 (C) Missing parts.
-215.203 Operating a restricted car, except under conditions approved by FRA.
+2215.203 Improperly operating a restricted car.
 Stenciling
 215.301 Failure to stencil car number and built date on freight car as required.
 215.303 Failure to stencil restricted car as required.
