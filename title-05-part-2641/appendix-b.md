@@ -103,7 +103,7 @@ Federal Transit Administration.
 Maritime Administration.
 National Highway Traffic Safety Administration.
 Pipeline and Hazardous Materials Safety Administration (effective December 29, 2016).
-Saint Lawrence Seaway Development Corporation.
+Great Lakes St. Lawrence Seaway Development Corporation (formerly Saint Lawrence Seaway Development Corporation).
 Parent: Department of the Treasury
 Components
 Alcohol and Tobacco Tax and Trade Bureau (effective November 23, 2004).
