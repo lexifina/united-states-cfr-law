@@ -142,7 +142,6 @@ Note: The calibration solutions in this section employ 100-mL volumes. For deter
 9.3.1.2 If the concentration of OX is not being checked against a regulatory limit, the spike shall be at the concentration of the precision and recovery standard (PAR; Section 7.12.4) or at one to five times higher than the background concentration determined in Section 9.3.2, whichever concentration is higher.
 9.3.2 Analyze one sample out of each batch of 10 samples from each site to determine the background concentration of AOX. If necessary, prepare a solution of 2,4,6-trichlorophenol appropriate to produce a level in the sample one to five times the background concentration. Spike two additional sample aliquots with spiking solution and analyze them to determine the concentration after spiking.
 9.3.2.1 Compute the percent recovery of each analyte in each aliquot:
-ER15ap98.018
 9.3.2.2 Compute the relative percent difference (RPD) between the two results (not between the two recoveries) as described in Section 12.4.
 9.3.2.3 If the RPD is less than 20%, and the recoveries for the MS and MSD are within the range of 78 to 116%, the results are acceptable.
 9.3.2.4 If the RPD is greater than 20%, analyze two aliquots of the precision and recovery standard (PAR).
@@ -206,7 +205,7 @@ ER15ap98.018
 11.0 Procedure
 11.1 Sample dilution: Many samples will contain high concentrations of halide. If analyzed without dilution, the micro-coulometer can be overloaded, resulting in frequent cell cleaning and downtime. The following guidance is provided to assist in estimating dilution levels.
 11.1.1 Paper and pulp mills that employ chlorine bleaching: Samples from pulp mills that use a chlorine bleaching process may overload the micro-coulometer. To prevent system overload, the maximum volume suggested for paper industry samples that employ halide in the bleaching process is 100 mL. An adsorption volume as small as 25 mL may be used, provided the concentration of AOX in the sample can be measured reliably, as defined by the requirements in Section 9.11. To minimize volumetric error, an adsorption volume less than 25 mL may not be used. If AOX cannot be measured reliably in a 100-mL sample volume, a sample volume to a maximum of 1000 mL must be used. The sample and adsorption volumes are suggested for paper industry samples employing chlorine compounds in the bleaching process:
-Paper or pulp mill stream | Samplevolume (mL)* | Adsorption volume (mL)
+Paper or pulp mill stream | Sample volume (mL)* | Adsorption volume (mL)
 Evaporator condensate | 100.0 | 100
 Process water | 100.0 | 100
 Pulp mill effluent | 30.0 | 50
@@ -272,25 +271,21 @@ Note: Because it will be necessary to rinse the pipet or micro-syringe (Section 
 11.5.4 Duplicate analyses of the PAR standard used for calibration verification (Section 9.10) are not required.
 12.0 Data Analysis and Calculations
 12.1 Batch Adsorption Method: Calculate the blank-subtracted concentration of adsorbable organic halide detected in each sample (in micrograms of chloride per liter) using the following equation:
-ER15ap98.019
 Where:
 C=µg Cl− from micro-coulometer for the sample
 B=µg Cl− from micro-coulometer for the reagent water blank (Section 9.4.1)
 V = volume of sample in liters
 This calculation is performed for each of the two dilution levels analyzed for each sample.
 12.2 Column Adsorption Method: Calculate the blank-subtracted concentration of adsorbable organic halide detected in each sample (in micrograms of chloride per liter) using the following equation:
-ER15ap98.020
 C1=µg Cl− from micro-coulometer for first column from the sample
 C2=µg Cl− from micro-coulometer for second column from the sample
 B1=µg from micro-coulometer for first column from the reagent water blank (Section 9.4.1)
 B2=µg Cl− from micro-coulometer for second column from the reagent water blank (Section 9.4.1)
 V = volume of sample in liters
 12.3 Percent breakthrough: For each sample analyzed by the column method, calculate the percent breakthrough of halide from the first column to the second column, using the following equation:
-ER15ap98.021
 12.3.1 For samples to be reported for regulatory compliance purposes, the percent breakthrough must be less than or equal to 25% for both of the two analyses performed on each sample (see Section 11.5).
 12.3.2 If the breakthrough exceeds 25%, dilute the affected sample further, maintaining the amount of halide at least three times higher than the level of blank, and reanalyze the sample. Ensure that the sample is also analyzed at a second level of dilution that is at least a factor of 2 different (and still higher than three times the blank).
 12.4 Relative percent difference (RPD): Calculate the relative percent difference between the results of the two analyses of each sample, using the following equation:
-ER15ap98.022
 12.5 High concentrations of AOX: If the amount of halide from either analysis exceeds the calibration range, dilute the sample and reanalyze, maintaining at least a factor of 2 difference in the dilution levels of the two portions of the sample used.
 12.6 Low concentrations of AOX: The blank-subtracted final result from the batch procedure or the sum of the blank-subtracted results from the two carbon columns should be significantly above the level of the blank.
 12.6.1 If the instrument response for a sample exceeds the instrument response for the blank by a factor of at least 3, the result is acceptable.
@@ -321,10 +316,6 @@ The specifications contained in this method are based on data from a single labo
 16.12 "Methods 330.4 and 330.5 for Total Residual Chlorine," USEPA, EMSL-Cincinnati, Cincinnati, OH 45268, EPA-4-79-020 (March 1979).
 16.13 "Validation of Method 1650: Determination of Organic Halide," Analytical Technologies Inc., ERCE Contract 87-3410, November 15, 1990. Available from the EPA Sample Control Center, DynCorp, 300 N. Lee St., Alexandria, VA 22314 (703-519-1140).
 17.0 Figures
-ER15ap98.023
-ER15ap98.024
-ER15ap98.025
-ER15ap98.026
 18.0 Glossary of Definitions and Purposes
 These definitions and purposes are specific to this method but have been conformed to common usage as much as possible.
 18.1 Units of weight and measure and their abbreviations.
@@ -538,23 +529,20 @@ Ry = the isotope ratio measured for the labeled compound.
 Rm = the isotope ratio of an analytical mixture of pollutant and labeled compounds.
 The m/z's are selected such that Rx>Ry. If Rm is not between 2Ry and 0.5Rx, the method does not apply and the sample is analyzed by the internal standard method.
 10.4.3 Capillary columns sometimes separate the pollutant-labeled pair when deuterium labeled compounds are used, with the labeled compound eluted first (Figure 2). For this case,
-ER15ap98.028
 10.4.4 When the pollutant-labeled pair is not separated (as occurs with carbon-13-labeled compounds), or when another labeled compound with interfering spectral masses overlaps the pollutant (a case which can occur with isomeric compounds), it is necessary to determine the contributions of the pollutant and labeled compound to the respective EICP areas. If the peaks are separated well enough to permit the data system or operator to remove the contributions of the compounds to each other, the equations in Section 10.4.3 apply. This usually occurs when the height of the valley between the two GC peaks at the same m/z is less than 70 to 90% of the height of the shorter of the two peaks. If significant GC and spectral overlap occur, RR is computed using the following equation:
-ER15ap98.029
 Where:
-R x is measured as shown in figure 3A,
-R y is measured as shown in figure 3B,
-R m is measured as shown in figure 3C.
+Rx is measured as shown in figure 3A,
+Ry is measured as shown in figure 3B,
+Rm is measured as shown in figure 3C.
 For example, Rx = 46100/4780 = 9.644; Ry = 2650/43600 = 0.0608; Rm = 49200/48300 = 1.1019; thus, RR = 1.114. 10.4.5 To calibrate the analytical system by isotope dilution, analyze a 1-µL aliquot of each of the calibration standards (Section 7.13) using the procedure in Section 12. Compute the RR at each concentration.
 10.4.6 Linearity: If the ratio of relative response to concentration for any compound is constant (less than 20% coefficient of variation) over the five-point calibration range, an averaged relative response/concentration ratio may be used for that compound; otherwise, the complete calibration curve for that compound shall be used over the five-point calibration range.
 10.5 Calibration by internal standard: The method contains two types of internal standards, the sample matrix internal standard (SMIS) and the instrument internal standard (IIS), and they are used for different quantitative purposes. The 3,4,5-trichlorophenol sample matrix internal standard (SMIS) is used for measurement of all pollutants with no labeled analog and when the criteria for isotope dilution (Section 10.4) cannot be met. The 2,2′-difluorobiphenyl instrument internal standard (IIS) is used for determination of the labeled compounds and the SMIS. The results are used for intralaboratory statistics (Sections 9.4.4 and 9.6.3).
 10.5.1 Response factors: Calibration requires the determination of response factors (RF) for both the pollutants with no labeled analog and for the labeled compounds and the SMIS. The response factor is defined by the following equation:
-ER15ap98.030
 Where:
-A s = the area of the characteristic mass for the compound in the daily standard.
-A is = the area of the characteristic mass for the internal standard.
-C is = the concentration of the internal standard (µg/mL).
-C s = is the concentration of the compound in the calibration standard (µg/mL).
+As = the area of the characteristic mass for the compound in the daily standard.
+Ais = the area of the characteristic mass for the internal standard.
+Cis = the concentration of the internal standard (µg/mL).
+Cs = is the concentration of the compound in the calibration standard (µg/mL).
 When this equation is used to determine the response factors for pollutant compounds without labeled analogs, use the area (Ais) and concentration (Cis) of 3,4,5-trichlorophenol (SMIS) as the internal standard. When this equation is used to determine the response factors for the labeled analogs and the SMIS, use the area (Ais) and concentration (Cis) of 2,2′-difluorobiphenyl as the internal standard.
 10.5.2 The response factor is determined for at least five concentrations appropriate to the response of each compound (Section 7.13); nominally, 5, 10, 20, 50, and 100 µg/mL. The amount of SMIS added to each solution is the same (25 µg/mL) so that Cis remains constant. Likewise, the concentration of IIS is constant in each solution. The area ratio (As/Ais) is plotted versus the concentration ratio (Cs/Cis) for each compound in the standard to produce a calibration curve.
 10.5.3 Linearity: If the response factor (RF) for any compound is constant (less than 35% coefficient of variation) over the five-point calibration range, an averaged response factor may be used for that compound; otherwise, the complete calibration curve for that compound shall be used over the five-point range.
@@ -635,7 +623,6 @@ Some samples may contain high levels (>1000 µg/L) of the compounds of interest,
 14.1.4 The m/z's present in the mass spectrum from the component in the sample that are not present in the reference mass spectrum shall be accounted for by contaminant or background ions. If the mass spectrum is contaminated, an experienced spectrometrist (Section 1.4) shall determine the presence or absence of the compound.
 14.2 Quantitative determination by isotope dilution: By adding a known amount of a labeled compound to every sample prior to derivatization and extraction, correction for recovery of the pollutant can be made because the pollutant and its labeled analog exhibit the same effects upon derivatization, extraction, concentration, and gas chromatography. Relative response (RR) values for sample mixtures are used in conjunction with calibration curves described in Section 10.4 to determine concentrations directly, so long as labeled compound spiking levels are constant. For the phenol example given in Figure 1 (Section 10.4.1), RR would be equal to 1.114. For this RR value, the phenol calibration curve given in Figure 1 indicates a concentration of 27 µg/mL in the sample extract (Cex).
 14.2.1 Compute the concentration in the extract using the response ratio determined from calibration data (Section 10.4) and the following equation:
-ER15ap98.031
 Where:
 Cex = concentration of the pollutant in the extract.
 An = area of the characteristic m/z for the pollutant.
@@ -644,7 +631,6 @@ Al = area of the characteristic m/z for the labeled compound.
 RR = response ratio from the initial calibration.
 14.2.2 For the IPR (Section 9.3.2) and OPR (Section 9.6), compute the percent recovery of each pollutant using the equation in Section 14.6. The percent recovery is used for the evaluation of method and laboratory performance, in the form of IPR (Section 9.3.2) and OPR (Section 9.6).
 14.3 Quantitative determination by internal standard: Compute the concentration using the response factor determined from calibration data (Section 10.5) and the following equation:
-ER15ap98.032
 Where:
 Cex = concentration of the pollutant in the extract.
 As = area of the characteristic m/z for the pollutant.
@@ -656,14 +642,12 @@ For the IPR (Section 9.3.2) and OPR (Section 9.6), compute the percent recovery 
 Note: Separate calibration curves will be required for samples with and without the addition of ascorbic acid, and also for both extraction procedures (stir-bar and separatory funnel) where applicable.
 14.4 Compute the concentration of the labeled compounds and the SMIS using the equation in Section 14.3, but using the area and concentration of the 2,2′-difluorobiphenyl as the internal standard, and the area of the labeled compound or SMIS as As.
 14.5 Compute the concentration of each pollutant compound in the sample using the following equation:
-ER15ap98.033
 Where:
 Cs = Concentration of the pollutant in the sample.
 Cex = Concentration of the pollutant in the extract.
 Vex = Volume of the concentrated extract (typically 0.5 mL).
 Vo = Volume of the original sample in liters.
 14.6 Compute the recovery of each labeled compound and the SMIS as the ratio of concentration (or amount) found to the concentration (or amount) spiked, using the following equation:
-ER15ap98.034
 These percent recoveries are used to assess method performance according to Sections 9 and 13.
 14.7 If the EICP area at the quantitation m/z for any compound exceeds the calibration range of the system, three approaches are used to obtain results within the calibration range.
 14.7.1 If the recoveries of all the labeled compounds in the original sample aliquot meet the limits in Table 5, then the extract of the sample may be diluted by a maximum of a factor of 10, and the diluted extract reanalyzed.
@@ -698,84 +682,81 @@ These percent recoveries are used to assess method performance according to Sect
 18.12 "Determination of Chlorophenolics by GCMS, Development of Method 1653," Analytical Technologies, Inc., Prepared for W. A. Telliard, Industrial Technology Division (WH-552), USEPA, 401 M St., SW., Washington, DC 20460 (May 1991).
 19.0 Tables and Figures
 Table 1—Chlorophenolic Compounds Determined by GCMS Using Isotope Dilution and Internal Standard Techniques
-Compound | Pollutant | CAS registry | EPA-EGD | Labeled compound | Analog | CAS registry | EPA-EGD
-4-chlorophenol | 106-48-9 | 1001
+Compound | Pollutant | Labeled compound
+CAS registry | EPA-EGD | Analog | CAS registry | EPA-EGD
+4-chlorophenol | 106-48-9 | 1001 | | |
 2,4-dichlorophenol | 120-83-2 | 1002 | d3 | 93951-74-7 | 1102
-2,6-dichlorophenol | 87-65-0 | 1003
-2,4,5-trichlorophenol | 95-95-4 | 1004
-2,4,6-trichlorophenol | 88-06-2 | 1005
-2,3,4,6-tetrachlorophenol | 58-90-2 | 1006
+2,6-dichlorophenol | 87-65-0 | 1003 | | |
+2,4,5-trichlorophenol | 95-95-4 | 1004 | | |
+2,4,6-trichlorophenol | 88-06-2 | 1005 | | |
+2,3,4,6-tetrachlorophenol | 58-90-2 | 1006 | | |
 pentachlorophenol | 87-86-5 | 1007 | 13C6 | 85380-74-1 | 1107
 4-chloroguaiacol | 16766-30-6 | 1008 | 13C6 | 136955-39-0 | 1108
-3,4-dichloroguaiacol | 77102-94-4 | 1009
-4,5-dichloroguaiacol | 2460-49-3 | 1010
-4,6-dichloroguaiacol | 16766-31-7 | 1011
-3,4,5-trichloroguaiacol | 57057-83-7 | 1012
-3,4,6-trichloroguaiacol | 60712-44-9 | 1013
+3,4-dichloroguaiacol | 77102-94-4 | 1009 | | |
+4,5-dichloroguaiacol | 2460-49-3 | 1010 | | |
+4,6-dichloroguaiacol | 16766-31-7 | 1011 | | |
+3,4,5-trichloroguaiacol | 57057-83-7 | 1012 | | |
+3,4,6-trichloroguaiacol | 60712-44-9 | 1013 | | |
 4,5,6-trichloroguaiacol | 2668-24-8 | 1014 | 13C6 | 136955-40-3 | 1114
 tetrachloroguaiacol | 2539-17-5 | 1015 | 13C6 | 136955-41-4 | 1115
-4-chlorocatechol | 2138-22-9 | 1016
-3,4-dichlorocatechol | 3978-67-4 | 1017
-3,6-dichlorocatechol | 3938-16-7 | 1018
+4-chlorocatechol | 2138-22-9 | 1016 | | |
+3,4-dichlorocatechol | 3978-67-4 | 1017 | | |
+3,6-dichlorocatechol | 3938-16-7 | 1018 | | |
 4,5-dichlorocatechol | 3428-24-8 | 1019 | 13C6 | 136955-42-5 | 1119
-3,4,5-trichlorocatechol | 56961-20-7 | 1020
-3,4,6-trichlorocatechol | 32139-72-3 | 1021
+3,4,5-trichlorocatechol | 56961-20-7 | 1020 | | |
+3,4,6-trichlorocatechol | 32139-72-3 | 1021 | | |
 tetrachlorocatechol | 1198-55-6 | 1022 | 13C6 | 136955-43-6 | 1122
 5-chlorovanillin | 19463-48-0 | 1023 | 13C6 | 136955-44-7 | 1123
-6-chlorovanillin | 18268-76-3 | 1024
-5,6-dichlorovanillin | 18268-69-4 | 1025
-2-chlorosyringaldehyde | 76341-69-0 | 1026
-2,6-dichlorosyringaldehyde | 76330-06-8 | 1027
-trichlorosyringol | 2539-26-6 | 1028
-Sample matrix internal standard (SMIS)
-3,4,5-trichlorophenol | 609-19-8 | 184
-Instrument internal standard (IIS)
-2,2′-difluorobiphenyl | 388-82-9 | 164
+6-chlorovanillin | 18268-76-3 | 1024 | | |
+5,6-dichlorovanillin | 18268-69-4 | 1025 | | |
+2-chlorosyringaldehyde | 76341-69-0 | 1026 | | |
+2,6-dichlorosyringaldehyde | 76330-06-8 | 1027 | | |
+trichlorosyringol | 2539-26-6 | 1028 | | |
+Sample matrix internal standard (SMIS) | | | | |
+3,4,5-trichlorophenol | 609-19-8 | 184 | | |
+Instrument internal standard (IIS) | | | | |
+2,2′-difluorobiphenyl | 388-82-9 | 164 | | |
 Table 2—Gas Chromatography and Method Detection Limits for Chlorophenolics
-EGD No. 1 | Compound | Retention time mean (sec) 2 | EGDref No. | RRTwindow 3 | Minimum level 4 (µg/L) | MDL 5 (µg/L)
+EGD No. 1 | Compound | Retention time mean (sec) 2 | EGD ref No. | RRT window 3 | Minimum level 4 (µg/L) | MDL 5 (µg/L)
 1001 | 4-chlorophenol | 691 | 184 | 0.651-0.681 | 1.25 | 1.11
 1003 | 2,6-dichlorophenol | 796 | 184 | 0.757-0.779 | 2.5 | 1.39
-1102 | 2,4-dichlorophenol-d3 | 818 | 164 | 0.986-0.998
+1102 | 2,4-dichlorophenol-d3 | 818 | 164 | 0.986-0.998 | |
 1202 | 2,4-dichlorophenol | 819 | 1102 | 0.997-1.006 | 2.5 | 0.15
-164 | 2,2′-difluorobiphenyl (I.S.) | 825 | 164 | 1.000
-1108 | 4-chloroguaiacol-13C6 | 900 | 164 | 1.077-1.103
+164 | 2,2′-difluorobiphenyl (I.S.) | 825 | 164 | 1.000 | |
+1108 | 4-chloroguaiacol- 13C6 | 900 | 164 | 1.077-1.103 | |
 1208 | 4-chloroguaiacol | 900 | 1108 | 0.998-1.002 | 1.25 | 0.09
 1005 | 2,4,6-trichlorophenol | 920 | 184 | 0.879-0.895 | 2.5 | 0.71
 1004 | 2,4,5-trichlorophenol | 979 | 184 | 0.936-0.952 | 2.5 | 0.57
 1016 | 4-chlorocatechol | 1004 | 184 | 0.961-0.975 | 1.25 | 0.59
 1011 | 4,6-dichloroguaiacol | 1021 | 184 | 0.979-0.991 | 2.5 | 0.45
 1009 | 3,4-dichloroguaiacol | 1029 | 184 | 0.986-0.998 | 2.5 | 0.52
-184 | 3,4,5-trichlorophenol (I.S.) | 1037 | 164 | 1.242-1.272
+184 | 3,4,5-trichlorophenol (I.S.) | 1037 | 164 | 1.242-1.272 | |
 1010 | 4,5-dichloroguaiacol | 1071 | 184 | 1.026-1.040 | 2.5 | 0.52
 1018 | 3,6-dichlorocatechol | 1084 | 184 | 1.037-1.053 | 2.5 | 0.57
 1006 | 2,3,4,6-tetrachlorophenol | 1103 | 184 | 1.050-1.078 | 2.5 | 0.38
-1123 | 5-chlorovanillin-13C6 | 1111 | 164 | 1.327-1.367
+1123 | 5-chlorovanillin- 13C6 | 1111 | 164 | 1.327-1.367 | |
 1223 | 5-chlorovanillin | 1111 | 1123 | 0.998-1.001 | 2.5 | 1.01
 1013 | 3,4,6-trichloroguaiacol | 1118 | 184 | 1.066-1.090 | 2.5 | 0.46
 1024 | 6-chlorovanillin | 1122 | 184 | 1.070-1.094 | 2.5 | 0.94
 1017 | 3,4-dichlorocatechol | 1136 | 184 | 1.083-1.105 | 2.5 | 0.60
-1119 | 4,5-dichlorocatechol-13C6 | 1158 | 164 | 1.384-1.424
+1119 | 4,5-dichlorocatechol- 13C6 | 1158 | 164 | 1.384-1.424 | |
 1219 | 4,5-dichlorocatechol | 1158 | 1119 | 0.998-1.001 | 2.5 | 0.24
 1012 | 3,4,5-trichloroguaiacol | 1177 | 184 | 1.120-1.160 | 2.5 | 0.49
-1114 | 4,5,6-trichloroguaiacol-13C6 | 1208 | 164 | 1.444-1.484
+1114 | 4,5,6-trichloroguaiacol- 13C6 | 1208 | 164 | 1.444-1.484 | |
 1214 | 4,5,6-trichloroguaiacol | 1208 | 1114 | 0.998-1.002 | 2.5 | 0.25
 1021 | 3,4,6-trichlorocatechol | 1213 | 184 | 1.155-1.185 | 5.0 | 0.44
 1025 | 5,6-dichlorovanillin | 1246 | 184 | 1.182-1.222 | 5.0 | 0.80
 1026 | 2-chlorosyringaldehyde | 1255 | 184 | 1.190-1.230 | 2.5 | 0.87
-1107 | pentachlorophenol-13C6 | 1267 | 164 | 1.511-1.561
+1107 | pentachlorophenol- 13C6 | 1267 | 164 | 1.511-1.561 | |
 1207 | pentachlorophenol | 1268 | 1107 | 0.998-1.002 | 5.0 | 0.28
 1020 | 3,4,5-trichlorocatechol | 1268 | 184 | 1.208-1.238 | 5.0 | 0.53
-1115 | tetrachloroguaiacol-13C6 | 1289 | 164 | 1.537-1.587
+1115 | tetrachloroguaiacol- 13C6 | 1289 | 164 | 1.537-1.587 | |
 1215 | tetrachloroguaiacol | 1290 | 1115 | 0.998-1.002 | 5.0 | 0.23
 1028 | trichlorosyringol | 1301 | 184 | 1.240-1.270 | 2.5 | 0.64
-1122 | tetrachlorocatechol-13C6 | 1365 | 164 | 1.630-1.690
+1122 | tetrachlorocatechol- 13C6 | 1365 | 164 | 1.630-1.690 | |
 1222 | tetrachlorocatechol | 1365 | 1122 | 0.998-1.002 | 5.0 | 0.76
 1027 | 2,6-dichlorosyringaldehyde | 1378 | 184 | 1.309-1.349 | 5.0 | 1.13
-1 Four digit numbers beginning with 10 indicate a pollutant quantified by the internal standard method; four digit numbers beginning with 11 indicate a labeled compound quantified by the internal standard method; four digit numbers beginning with 12 indicate a pollutant quantified by isotope dilution.
-2 The retention times in this column are based on data from a single laboratory (reference 12), utilizing the GC conditions in Section 11.
-3 Relative retention time windows are estimated from EPA Method 1625.
-4 The minimum level (ML) is defined as the level at which the entire analytical system must give a recognizable signal and acceptable calibration point for the analyte. It is equivalent to the concentration of the lowest calibration standard, assuming that all method-specified sample weights, volumes, and cleanup procedures have been employed.
-5 40 CFR part 136, appendix B; from reference 2.
+1 Four digit numbers beginning with 10 indicate a pollutant quantified by the internal standard method; four digit numbers beginning with 11 indicate a labeled compound quantified by the internal standard method; four digit numbers beginning with 12 indicate a pollutant quantified by isotope dilution. 2 The retention times in this column are based on data from a single laboratory (reference 12), utilizing the GC conditions in Section 11. 3 Relative retention time windows are estimated from EPA Method 1625. 4 The minimum level (ML) is defined as the level at which the entire analytical system must give a recognizable signal and acceptable calibration point for the analyte. It is equivalent to the concentration of the lowest calibration standard, assuming that all method-specified sample weights, volumes, and cleanup procedures have been employed. 5 40 CFR part 136, appendix B; from reference 2.
 Table 3—DFTPP Mass Intensity Specifications 1
 Mass | Intensity required
 51 | 8 to 82% of m/z 198.
@@ -829,58 +810,52 @@ tetrachlorocatechol−13C6 | 254
 2-chlorosyringaldehyde | 216
 2,6-dichlorosyringaldehyde | 250
 trichlorosyringol | 256
-Sample Matrix Internal Standard (SMIS)
+Sample Matrix Internal Standard (SMIS) |
 3,4,5-trichlorophenol | 196
-Instrument Internal Standard (IIS)
+Instrument Internal Standard (IIS) |
 2,2′-difluorobiphenyl | 190
 Table 5—Acceptance Criteria for Performance Tests 1
-EGD No. 2 | Compound | Test conc. 3 (µg/mL) | Initial precision and recovery sec. 9.3.2 (percent) | s | X | Ongoing recovery sec. 9.6 (percent) | Labeled compound and SMIS recovery sec. 9.4 and 14.6 | With ascorbic acid P (%) | Without ascorbic acid P (%)
-1001 | 4-chlorophenol | 25 | 64 | 72-144 | 40-236
-1202 | 2,4-dichlorophenol | 50 | 14 | 84-120 | 84-118
+EGD No. 2 | Compound | Test conc. 3 (µg/mL) | Initial precision and recovery sec. 9.3.2 (percent) | Ongoing recovery sec. 9.6 (percent) | Labeled compound and SMIS recovery sec. 9.4 and 14.6
+s | X | With ascorbic acid P (%) | Without ascorbic acid P (%)
+1001 | 4-chlorophenol | 25 | 64 | 72-144 | 40-236 | |
+1202 | 2,4-dichlorophenol | 50 | 14 | 84-120 | 84-118 | |
 1102 | 2,4-dichlorophenol-d3 | 25 | 54 | 64-160 | 56-170 | 58-135 | 27-143
-1003 | 2,6-dichlorophenol | 50 | 20 | 66-148 | 58-170
-1004 | 2,4,5-trichlorophenol | 50 | 14 | 78-140 | 82-128
-1005 | 2,4,6-trichlorophenol | 50 | 20 | 72-142 | 72-146
-1006 | 2,3,4,6-tetrachlorophenol | 50 | 14 | 80-132 | 82-132
-1207 | pentachlorophenol | 100 | 6 | 90-111 | 84-120
-1107 | pentachlorophenol-13C6 | 25 | 21 | 58-169 | 61-157 | 8-143 | 27-167
-1208 | 4-chloroguaiacol | 25 | 20 | 88-120 | 88-120
-1108 | 4-chloroguaiacol-13C6 | 25 | 104 | 68-148 | 64-152 | 59-121 | 43-168
-1009 | 3,4-dichloroguaiaco 4 | 50 | 18 | 80-126 | 82-126
-1010 | 4,5-dichloroguaiacol | 50 | 14 | 82-121 | 80-128
-1011 | 4,6-dichloroguaiacol | 50 | 16 | 82-126 | 86-120
-1012 | 3,4,5-trichloroguaiacol | 50 | 16 | 78-130 | 80-134
-1013 | 3,4,6-trichloroguaiacol | 50 | 16 | 64-152 | 74-140
-1214 | 4,5,6-trichloroguaiacol | 50 | 14 | 92-106 | 88-116
-1114 | 4,5,6-trichloroguaiacol-13C6 | 25 | 48 | 66-146 | 74-140 | 48-131 | 51-139
-1215 | tetrachloroguaiacol | 100 | 7 | 84-115 | 81-126
-1115 | tetrachloroguaiacol-13C6 | 25 | 22 | 57-173 | 65-161 | 35-120 | 27-161
-1016 | 4-chlorocatechol | 25 | 48 | 76-140 | 80-124
-1017 | 3,4-dichlorocatechol | 50 | 24 | 66-154 | 78-134
-1018 | 3,6-dichlorocatechol | 50 | 16 | 78-136 | 84-126
-1219 | 4,5-dichlorocatechol | 50 | 8 | 84-118 | 86-122
-1119 | 4,5-dichlorocatechol-13C6 | 25 | 78 | 68-144 | 66-142 | 33-129 | 0-190
-1020 | 3,4,5-trichlorocatechol | 100 | 17 | 60-166 | 72-128
-1021 | 3,4,6-trichlorocatechol 4 | 100 | 17 | 74-138 | 64-149
-1222 | tetrachlorocatechol | 100 | 29 | 46-234 | 81-132
-1122 | tetrachlorocatechol-13C6 | 25 | 39 | 48-227 | 63-152 | 14-118 | 0-184
-1223 | 5-chlorovanillin | 50 | 20 | 94-208 | 84-118
-1123 | 5-chlorovanillin-13C6 | 25 | 84 | 68-160 | 70-144 | 51-126 | 32-254
-1024 | 6-chlorovanillin | 50 | 22 | 82-128 | 80-126
-1025 | 5,6-dichlorovanillin | 100 | 9 | 67-146 | 77-140
-1026 | 2-chlorosyringaldehyde | 50 | 28 | 76-130 | 72-156
+1003 | 2,6-dichlorophenol | 50 | 20 | 66-148 | 58-170 | |
+1004 | 2,4,5-trichlorophenol | 50 | 14 | 78-140 | 82-128 | |
+1005 | 2,4,6-trichlorophenol | 50 | 20 | 72-142 | 72-146 | |
+1006 | 2,3,4,6-tetrachlorophenol | 50 | 14 | 80-132 | 82-132 | |
+1207 | pentachlorophenol | 100 | 6 | 90-111 | 84-120 | |
+1107 | pentachlorophenol- 13C6 | 25 | 21 | 58-169 | 61-157 | 8-143 | 27-167
+1208 | 4-chloroguaiacol | 25 | 20 | 88-120 | 88-120 | |
+1108 | 4-chloroguaiacol- 13C6 | 25 | 104 | 68-148 | 64-152 | 59-121 | 43-168
+1009 | 3,4-dichloroguaiaco 4 | 50 | 18 | 80-126 | 82-126 | |
+1010 | 4,5-dichloroguaiacol | 50 | 14 | 82-121 | 80-128 | |
+1011 | 4,6-dichloroguaiacol | 50 | 16 | 82-126 | 86-120 | |
+1012 | 3,4,5-trichloroguaiacol | 50 | 16 | 78-130 | 80-134 | |
+1013 | 3,4,6-trichloroguaiacol | 50 | 16 | 64-152 | 74-140 | |
+1214 | 4,5,6-trichloroguaiacol | 50 | 14 | 92-106 | 88-116 | |
+1114 | 4,5,6-trichloroguaiacol- 13C6 | 25 | 48 | 66-146 | 74-140 | 48-131 | 51-139
+1215 | tetrachloroguaiacol | 100 | 7 | 84-115 | 81-126 | |
+1115 | tetrachloroguaiacol- 13C6 | 25 | 22 | 57-173 | 65-161 | 35-120 | 27-161
+1016 | 4-chlorocatechol | 25 | 48 | 76-140 | 80-124 | |
+1017 | 3,4-dichlorocatechol | 50 | 24 | 66-154 | 78-134 | |
+1018 | 3,6-dichlorocatechol | 50 | 16 | 78-136 | 84-126 | |
+1219 | 4,5-dichlorocatechol | 50 | 8 | 84-118 | 86-122 | |
+1119 | 4,5-dichlorocatechol- 13C6 | 25 | 78 | 68-144 | 66-142 | 33-129 | 0-190
+1020 | 3,4,5-trichlorocatechol | 100 | 17 | 60-166 | 72-128 | |
+1021 | 3,4,6-trichlorocatechol 4 | 100 | 17 | 74-138 | 64-149 | |
+1222 | tetrachlorocatechol | 100 | 29 | 46-234 | 81-132 | |
+1122 | tetrachlorocatechol- 13C6 | 25 | 39 | 48-227 | 63-152 | 14-118 | 0-184
+1223 | 5-chlorovanillin | 50 | 20 | 94-208 | 84-118 | |
+1123 | 5-chlorovanillin- 13C6 | 25 | 84 | 68-160 | 70-144 | 51-126 | 32-254
+1024 | 6-chlorovanillin | 50 | 22 | 82-128 | 80-126 | |
+1025 | 5,6-dichlorovanillin | 100 | 9 | 67-146 | 77-140 | |
+1026 | 2-chlorosyringaldehyde | 50 | 28 | 76-130 | 72-156 | |
 1027 | 2,6-dichlorosyringaldehyde | 100 | 14 | 82-129 | 60-183 | |
-1028 | trichlorosyringol | 50 | 18 | 76-136 | 66-174
+1028 | trichlorosyringol | 50 | 18 | 76-136 | 66-174 | |
 Sample Matrix Internal Standard
 184 | 3,4,5-trichlorophenol | 100 | 47 | 62-185 | 68-144 | 56-116 | 24-167
-1 Specifications derived from multi-laboratory testing of draft method.
-2 Four-digit numbers beginning with 10 indicate a pollutant quantified by the internal standard method; four-digit numbers beginning with 11 indicate a labeled compound quantified by the internal standard method; four-digit numbers beginning with 12 indicate a pollutant quantified by isotope dilution.
-3 Test concentrations are in units of µg/mL.
-4 Specification derived from isomer.
-ER15ap98.035
-ER15ap98.036
-ER15ap98.037
-ER15ap98.038
+1 Specifications derived from multi-laboratory testing of draft method. 2 Four-digit numbers beginning with 10 indicate a pollutant quantified by the internal standard method; four-digit numbers beginning with 11 indicate a labeled compound quantified by the internal standard method; four-digit numbers beginning with 12 indicate a pollutant quantified by isotope dilution. 3 Test concentrations are in units of µg/mL. 4 Specification derived from isomer.
 20.0 Glossary of Definitions and Purposes
 These definitions and purposes are specific to this method but have been conformed to common usage as much as possible.
 20.1 Units of weight and measure and their abbreviations
