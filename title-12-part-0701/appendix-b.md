@@ -55,7 +55,7 @@ The business plan should contain, at a minimum, the following elements:
 • Continuity plan for directors, committee members and management staff;
 • Operating facilities, to include office space/equipment and supplies, safeguarding of assets, insurance coverage, etc.;
 • Type of record-keeping and data processing system;
-• Detailed semiannual pro forma financial statements (balance sheet, income and expense projections) for 1st and 2nd year, including assumptions— e.g., loan and dividend rates;
+• Detailed semiannual pro forma financial statements (balance sheet, income and expense projections) for 1st and 2nd year, including assumptions—e.g., loan and dividend rates;
 • Plans for operating independently;
 • Written policies (shares, lending, investments, funds management, capital accumulation, dividends, collections, etc.);
 • Source of funds to pay expenses during initial months of operation, including any subsidies, assistance, etc., and terms or conditions of such resources; and
@@ -154,7 +154,7 @@ A geographic limitation is not a requirement for a single occupational common bo
 • Employees of ABC Corporation who are supervised from * * *;
 • Employees of ABC Corporation who are headquartered in * * *; and/or
 • Employees of ABC Corporation who work in the United States.
-The corporation or other legal entity (i.e., the employer) may also be included in the common bond— e.g., "ABC Corporation." The corporation or legal entity will be defined in the last clause in Section 5 of the credit union's charter.
+The corporation or other legal entity (i.e., the employer) may also be included in the common bond—e.g., "ABC Corporation." The corporation or legal entity will be defined in the last clause in Section 5 of the credit union's charter.
 A charter applicant must provide documentation to establish that the single occupational common bond requirement has been met.
 Some examples of valid single occupational common bonds are:
 • Employees of the Hunt Manufacturing Company who work in West Chester, Pennsylvania. (common bond—same employer with geographic definition);
@@ -309,7 +309,7 @@ A single associational federal credit union may include in its field of membersh
 • Employees of the association (for example, employees of the labor union or employees of the church); and
 • The association.
 Generally, a single associational common bond does not include a geographic definition and can operate nationally. However, a proposed or existing federal credit union may limit its field of membership to a single association or geographic area. NCUA may impose a geographic limitation if it is determined that the applicant credit union does not have the ability to serve a larger group or there are other operational concerns. All single associational common bonds should include a definition of the group that may be served based on the association's charter, bylaws, and any other equivalent documentation.
-Applicants for a single associational common bond federal credit union charter or a field of membership amendment to include an association must provide, at the request of NCUA, a copy of the association's charter, bylaws, or other equivalent documentation, including any legal documents required by the state or other governing authority. The associational sponsor itself may also be included in the field of membership— e.g., "Sprocket Association"—and will be shown in the last clause of the field of membership.
+Applicants for a single associational common bond federal credit union charter or a field of membership amendment to include an association must provide, at the request of NCUA, a copy of the association's charter, bylaws, or other equivalent documentation, including any legal documents required by the state or other governing authority. The associational sponsor itself may also be included in the field of membership—e.g., "Sprocket Association"—and will be shown in the last clause of the field of membership.
 III.A.1.a—Threshold Requirement Regarding the Purpose for Which an Associational Group Is Formed and the Totality of the Circumstances Criteria
 As a threshold matter, when reviewing an application to include an association in a federal credit union's field of membership, NCUA will determine if the association has been formed primarily for the purpose of expanding credit union membership. If NCUA makes such a determination, then the analysis ends and the association is denied inclusion in the federal credit union's field of membership. If NCUA determines that the association was formed to serve some other separate function as an organization, then NCUA will apply the following totality of the circumstances test to determine if the association satisfies the associational common bond requirements. The totality of the circumstances test consists of the following factors:
 1. Whether the association provides opportunities for members to participate in the furtherance of the goals of the association;
@@ -1065,52 +1065,50 @@ In order for the conversion to be completed, the following steps are necessary:
 • If the state credit union is to be federally insured, the Office of Credit Union Resources and Expansion Director will issue a new insurance certificate.
 APPENDIX 1 GLOSSARY
 These definitions apply only for use with this Manual. Definitions are not intended to be all inclusive or comprehensive. This Manual, the Federal Credit Union Act, and NCUA Rules and Regulations, as well as state laws, may be used for further reference.
-Adequately capitalized —A credit union is considered "adequately capitalized" when it meets the "adequately capitalized" definition in Part 702 of NCUA's Rules and Regulations. A multiple common bond credit union must be "adequately capitalized" in order to add new groups to its charter. The Office of Credit Union Resources and Expansion director, with input from the appropriate regional director or Office of National Examinations and Supervision Director, may determine that a less than "adequately capitalized" credit union can qualify for an expansion if it is making reasonable progress toward becoming "adequately capitalized," and the addition of the group would not adversely affect the credit union's capitalization level.
-Affinity —A relationship upon which a community charter is based. Acceptable affinities include living, working, worshiping, or attending school in a community.
-Appeal —The right of a credit union or charter applicant to request a formal review of the Office of Credit Union Resources and Expansion, regional director's or Office of National Examinations and Supervision Director's adverse decision by the National Credit Union Administration Board.
-Associational common bond —A common bond comprised of members and employees of a recognized association. It includes individuals (natural persons) and/or groups (non-natural persons) whose members participate in activities developing common loyalties, mutual benefits, and mutual interests.
-Business plan —Plan submitted by a charter applicant or existing federal credit union addressing the economic advisability of a proposed charter or field of membership addition.
-Charter —The document which authorizes a group to operate as a credit union and defines the fundamental limits of its operating authority, generally including the persons the credit union is permitted to accept for membership. Charters are issued by the National Credit Union Administration for federal credit unions and by the designated state chartering authority for credit unions organized under the laws of that state.
-Common bond —The characteristic or combination of characteristics which distinguishes a particular group of persons from the general public. There are two common bonds which can serve as a basis for a group forming a federal credit union or being included in an existing federal credit union's field of membership: Occupational—employment by the same company, related companies or in a trade, industry, or profession (TIP); and associational—membership in the same association.
-Community credit union —A credit union whose field of membership consists of persons who live, work, worship, or attend school in the same well-defined local community, neighborhood, or rural district.
-Credit union —A member-owned, not-for-profit cooperative financial institution formed to permit those in the field of membership specified in the charter to save, borrow, and obtain related financial services.
-Economic advisability —An overall evaluation of the credit union's or charter applicant's ability to operate successfully.
-Emergency merger —Pursuant to Section 205(h) of the Federal Credit Union Act, authority of NCUA to merge two credit unions without regard to common bond policy.
-Exclusionary clause —A limitation, written in a credit union's charter, which precludes the credit union from serving a portion of a group which otherwise could be included in its field of membership.
-Federal share insurance —Insurance coverage provided by the National Credit Union Share Insurance Fund and administered by the National Credit Union Administration. Coverage is provided for qualified accounts in all federal credit unions and participating state credit unions.
-Field of membership —The persons (including organizations and other legal entities) a credit union is permitted to accept for membership.
-Household —Persons living in the same residence maintaining a single economic unit.
-Housekeeping Amendment —A field of membership amendment to delete groups, change group names, change group locations, remove exclusionary clauses, and to add other persons eligible for credit union membership by virtue of their close relationship to a common bond group or the community for community charters.
-Immediate family member —A spouse, child, sibling, parent, grandparent, or grandchild. This includes stepparents, stepchildren, stepsiblings, and adoptive relationships.
-In danger of insolvency —In making the determination that a particular credit union is in danger of insolvency, NCUA will establish that the credit union falls into one or more of the following categories:
+Adequately capitalized—A credit union is considered "adequately capitalized" when it meets the "adequately capitalized" definition in Part 702 of NCUA's Rules and Regulations. A multiple common bond credit union must be "adequately capitalized" in order to add new groups to its charter. The Office of Credit Union Resources and Expansion director, with input from the appropriate regional director or Office of National Examinations and Supervision Director, may determine that a less than "adequately capitalized" credit union can qualify for an expansion if it is making reasonable progress toward becoming "adequately capitalized," and the addition of the group would not adversely affect the credit union's capitalization level.
+Affinity—A relationship upon which a community charter is based. Acceptable affinities include living, working, worshiping, or attending school in a community.
+Appeal—The right of a credit union or charter applicant to request a formal review of the Office of Credit Union Resources and Expansion, regional director's or Office of National Examinations and Supervision Director's adverse decision by the National Credit Union Administration Board.
+Associational common bond—A common bond comprised of members and employees of a recognized association. It includes individuals (natural persons) and/or groups (non-natural persons) whose members participate in activities developing common loyalties, mutual benefits, and mutual interests.
+Business plan—Plan submitted by a charter applicant or existing federal credit union addressing the economic advisability of a proposed charter or field of membership addition.
+Charter—The document which authorizes a group to operate as a credit union and defines the fundamental limits of its operating authority, generally including the persons the credit union is permitted to accept for membership. Charters are issued by the National Credit Union Administration for federal credit unions and by the designated state chartering authority for credit unions organized under the laws of that state.
+Common bond—The characteristic or combination of characteristics which distinguishes a particular group of persons from the general public. There are two common bonds which can serve as a basis for a group forming a federal credit union or being included in an existing federal credit union's field of membership: Occupational—employment by the same company, related companies or in a trade, industry, or profession (TIP); and associational—membership in the same association.
+Community credit union—A credit union whose field of membership consists of persons who live, work, worship, or attend school in the same well-defined local community, neighborhood, or rural district.
+Credit union—A member-owned, not-for-profit cooperative financial institution formed to permit those in the field of membership specified in the charter to save, borrow, and obtain related financial services.
+Economic advisability—An overall evaluation of the credit union's or charter applicant's ability to operate successfully.
+Emergency merger—Pursuant to Section 205(h) of the Federal Credit Union Act, authority of NCUA to merge two credit unions without regard to common bond policy.
+Exclusionary clause—A limitation, written in a credit union's charter, which precludes the credit union from serving a portion of a group which otherwise could be included in its field of membership.
+Federal share insurance—Insurance coverage provided by the National Credit Union Share Insurance Fund and administered by the National Credit Union Administration. Coverage is provided for qualified accounts in all federal credit unions and participating state credit unions.
+Field of membership—The persons (including organizations and other legal entities) a credit union is permitted to accept for membership.
+Household—Persons living in the same residence maintaining a single economic unit.
+Housekeeping Amendment—A field of membership amendment to delete groups, change group names, change group locations, remove exclusionary clauses, and to add other persons eligible for credit union membership by virtue of their close relationship to a common bond group or the community for community charters.
+Immediate family member—A spouse, child, sibling, parent, grandparent, or grandchild. This includes stepparents, stepchildren, stepsiblings, and adoptive relationships.
+In danger of insolvency—In making the determination that a particular credit union is in danger of insolvency, NCUA will establish that the credit union falls into one or more of the following categories:
 1. The credit union's net worth is declining at a rate that will render it insolvent within 30 months. In projecting future net worth, NCUA may rely on data in addition to Call Report data. The trend must be supported by at least 12 months of historic data.
 2. The credit union's net worth is declining at a rate that will take it under two percent (2%) net worth within 18 months. In projecting future net worth, NCUA may rely on data in addition to Call Report data. The trend must be supported by at least 12 months of historic data.
 3. The credit union's net worth, as self-reported on its Call Report, is significantly undercapitalized, and NCUA determines that there is no reasonable prospect of the credit union becoming adequately capitalized in the succeeding 36 months. In making its determination on the prospect of achieving adequate capitalization, NCUA will assume that, if adverse economic conditions are affecting the value of the credit union's assets and liabilities, including property values and loan delinquencies related to unemployment, these adverse conditions will not further deteriorate.
 4. The credit union has been granted or received assistance under section 208 of the Federal Credit Union Act, 12 U.S.C. 1788, in the 15 months prior to the Region's determination that the credit union is in danger of insolvency.
-Letter of Understanding and Agreement —Agreement between NCUA and federal credit union officials not to engage in certain activities and/or to establish reasonable operational goals. These are normally entered into with new charter applicants for a limited time.
-Mentor —An individual who provides guidance and assistance to newly chartered, small, or low-income credit unions. All new federal credit unions are encouraged to establish a mentor relationship with a trained, experienced credit union individual or an existing credit union.
-Metropolitan Statistical Area —The Office of Management and Budget defines a metropolitan statistical area as an urbanized area that has at least one urbanized area in excess of 50,000 and "comprises the central county or counties containing the core, plus adjacent outlying counties having a high degree of social and economic integration with the central county as measured through commuting."
-Merger —Absorption by one credit union of all of the assets, liabilities and equity of another credit union. Mergers must be approved by the National Credit Union Administration and by the appropriate state regulator whenever a state credit union is involved.
-Multiple common bond credit union —A credit union whose field of membership consists of more than one group, each of which has a common bond of occupation or association.
-Occupational common bond —Employment by the same entity or related entities or a Trade, Industry, or Profession.
-Once a member, always a member —A provision of the Federal Credit Union Act which permits an individual to remain a member of the credit union until he or she chooses to withdraw or is expelled from the membership of the credit union. Under this provision, leaving a group that is named in the credit union's charter does not terminate an individual's membership in the credit union.
-Organizations of such persons —An organization or organizations composed exclusively of persons who are within the field of membership of the credit union.
-Overlap —The situation which results when a group is eligible for membership in more than one credit union.
-Primary potential members —Members or employees who belong to an associational or occupational group.
-Purchase and assumption —Purchase of all or part of the assets of and assumption of all or part of the liabilities of one credit union by another credit union. The purchased and assumed credit union must first be placed into involuntary liquidation.
-Service area —The area that can reasonably be served by the service facilities accessible to the groups within the field of membership.
-Service facility —A place where shares are accepted for members' accounts, loan applications are accepted or loans are disbursed. This definition includes a credit union-owned branch, a mobile branch, an office operated on a regularly scheduled weekly basis, a credit union-owned ATM, or a credit union-owned electronic facility that meets, at a minimum, these requirements. A service facility also includes a shared branch or a shared branch network location, including a shared ATM or other electronic facility, if a credit union participates in a shared branching network. For purposes of serving an underserved area: (1) A service facility is a place where shares are accepted for members' accounts, loan applications are accepted, and loans are disbursed; and (2) a service facility does not include an ATM or shared ATM.
+Letter of Understanding and Agreement—Agreement between NCUA and federal credit union officials not to engage in certain activities and/or to establish reasonable operational goals. These are normally entered into with new charter applicants for a limited time.
+Mentor—An individual who provides guidance and assistance to newly chartered, small, or low-income credit unions. All new federal credit unions are encouraged to establish a mentor relationship with a trained, experienced credit union individual or an existing credit union.
+Metropolitan Statistical Area—The Office of Management and Budget defines a metropolitan statistical area as an urbanized area that has at least one urbanized area in excess of 50,000 and "comprises the central county or counties containing the core, plus adjacent outlying counties having a high degree of social and economic integration with the central county as measured through commuting."
+Merger—Absorption by one credit union of all of the assets, liabilities and equity of another credit union. Mergers must be approved by the National Credit Union Administration and by the appropriate state regulator whenever a state credit union is involved.
+Multiple common bond credit union—A credit union whose field of membership consists of more than one group, each of which has a common bond of occupation or association.
+Occupational common bond—Employment by the same entity or related entities or a Trade, Industry, or Profession.
+Once a member, always a member—A provision of the Federal Credit Union Act which permits an individual to remain a member of the credit union until he or she chooses to withdraw or is expelled from the membership of the credit union. Under this provision, leaving a group that is named in the credit union's charter does not terminate an individual's membership in the credit union.
+Organizations of such persons—An organization or organizations composed exclusively of persons who are within the field of membership of the credit union.
+Overlap—The situation which results when a group is eligible for membership in more than one credit union.
+Primary potential members—Members or employees who belong to an associational or occupational group.
+Purchase and assumption—Purchase of all or part of the assets of and assumption of all or part of the liabilities of one credit union by another credit union. The purchased and assumed credit union must first be placed into involuntary liquidation.
+Service area—The area that can reasonably be served by the service facilities accessible to the groups within the field of membership.
+Service facility—A place where shares are accepted for members' accounts, loan applications are accepted or loans are disbursed. This definition includes a credit union-owned branch, a mobile branch, an office operated on a regularly scheduled weekly basis, a credit union-owned ATM, or a credit union-owned electronic facility that meets, at a minimum, these requirements. A service facility also includes a shared branch or a shared branch network location, including a shared ATM or other electronic facility, if a credit union participates in a shared branching network. For purposes of serving an underserved area: (1) A service facility is a place where shares are accepted for members' accounts, loan applications are accepted, and loans are disbursed; and (2) a service facility does not include an ATM or shared ATM.
 The credit union's internet website is not a service facility.
-Single associational common bond credit union —A credit union whose field of membership includes members and employees of a recognized association.
-Single common bond credit union —A credit union whose field of membership consists of one group which has a common bond of occupation or association.
-Single occupational common bond credit union —A credit union whose field of membership consists of employees of the same entity or related entities or part of a Trade, Industry, or Profession (TIP).
-Spin-off —The transfer of a portion of the field of membership, assets, liabilities, shares, and capital of one credit union to a new or existing credit union.
-Subscribers —For a federal credit union, at least seven individuals who sign the charter application and pledge at least one share.
-Trade, Industry, or Profession (TIP) —A single occupational common bond credit union based on employment in a trade, industry, or profession including employment at any number of corporations or other legal entities that while not under common ownership—have a common bond by virtue of producing similar products, providing similar services, or participating in the same type of business.
-Underserved community —A local community, neighborhood, or rural district that is an "investment area" as defined in Section 103(16) of the Community Development Banking and Financial Institutions Act of 1994. The area must also be underserved based on other NCUA and federal banking agency data.
-Unsafe or unsound practice —Any action, or lack of action, which would result in an abnormal risk or loss to the credit union, its members, or the National Credit Union Share Insurance Fund.
-ER07DE16.000
-ER07DE16.001
+Single associational common bond credit union—A credit union whose field of membership includes members and employees of a recognized association.
+Single common bond credit union—A credit union whose field of membership consists of one group which has a common bond of occupation or association.
+Single occupational common bond credit union—A credit union whose field of membership consists of employees of the same entity or related entities or part of a Trade, Industry, or Profession (TIP).
+Spin-off—The transfer of a portion of the field of membership, assets, liabilities, shares, and capital of one credit union to a new or existing credit union.
+Subscribers—For a federal credit union, at least seven individuals who sign the charter application and pledge at least one share.
+Trade, Industry, or Profession (TIP)—A single occupational common bond credit union based on employment in a trade, industry, or profession including employment at any number of corporations or other legal entities that while not under common ownership—have a common bond by virtue of producing similar products, providing similar services, or participating in the same type of business.
+Underserved community—A local community, neighborhood, or rural district that is an "investment area" as defined in Section 103(16) of the Community Development Banking and Financial Institutions Act of 1994. The area must also be underserved based on other NCUA and federal banking agency data.
+Unsafe or unsound practice—Any action, or lack of action, which would result in an abnormal risk or loss to the credit union, its members, or the National Credit Union Share Insurance Fund.
 Appendix 3
 NCUA Offices
 Office of Credit Union Resources and Expansion (CURE)
@@ -1137,75 +1135,6 @@ Phone: 602-302-6000
 Fax: 602-302-6024
 Email: WesternMail@NCUA.GOV
 States in the Western Region include: Alaska, Arizona, California, Colorado, Hawaii, Idaho, Illinois, Iowa, Kansas, Minnesota, Missouri, Montana, Nebraska, New Mexico, North Dakota, Nevada, Oregon, South Dakota, Utah, Washington, Wisconsin, and Wyoming, as well as Guam.
-ER07DE16.003
-ER07DE16.004
-ER07DE16.005
-ER07DE16.006
-ER07DE16.007
-ER07DE16.008
-ER07DE16.009
-ER07DE16.010
-ER07DE16.011
-ER07DE16.012
-ER07DE16.013
-ER07DE16.014
-ER07DE16.015
-ER07DE16.016
-ER07DE16.017
-ER07DE16.018
-ER07DE16.019
-ER07DE16.020
-ER07DE16.021
-ER07DE16.022
-ER07DE16.023
-ER07DE16.024
-ER07DE16.025
-ER07DE16.026
-ER07DE16.027
-ER07DE16.028
-ER07DE16.029
-ER07DE16.030
-ER07DE16.031
-ER07DE16.032
-ER07DE16.033
-ER07DE16.034
-ER07DE16.035
-ER07DE16.036
-ER07DE16.037
-ER07DE16.038
-ER07DE16.039
-ER07DE16.040
-ER07DE16.041
-ER07DE16.042
-ER07DE16.043
-ER07DE16.044
-ER07DE16.045
-ER07DE16.046
-ER07DE16.047
-ER07DE16.048
-ER07DE16.049
-ER07DE16.050
-ER07DE16.051
-ER07DE16.052
-ER07DE16.053
-ER07DE16.054
-ER07DE16.055
-ER07DE16.056
-ER07DE16.057
-ER07DE16.058
-ER07DE16.059
-ER07DE16.060
-ER07DE16.061
-ER07DE16.062
-ER07DE16.063
-ER07DE16.064
-ER07DE16.065
-ER07DE16.066
-ER07DE16.067
-ER07DE16.068
-ER07DE16.069
-ER07DE16.070
-ER07DE16.071
 Appendix 5
 Trades Associations
 Credit Union National Association (CUNA)
@@ -1220,9 +1149,3 @@ www.nascus.org
 Inclusiv
 https://www.inclusiv.org/
 39 Broadway, Suite 2140, New York, NY 10006-3063, 212-809-1850
-ER28JN18.001
-ER28JN18.002
-ER28JN18.003
-ER28JN18.004
-ER28JN18.005
-ER28JN18.006
