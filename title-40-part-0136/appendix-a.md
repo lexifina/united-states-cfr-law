@@ -98,7 +98,6 @@ Vinyl chloride | 39715 | 75-01-4
 7.4.1 Prepare calibration standards at a minimum of three concentration levels for each parameter of interest as described in Section 7.3.1.
 7.4.2 Prepare a spiking solution containing each of the internal standards using the procedures described in Sections 6.5 and 6.6. It is recommended that the secondary dilution standard be prepared at a concentration of 15 µg/mL of each internal standard compound. The addition of 10 µL of this standard to 5.0 mL of sample or calibration standard would be equivalent to 30 µg/L.
 7.4.3 Analyze each calibration standard according to Section 10, adding 10 µL of internal standard spiking solution directly to the syringe (Section 10.4). Tabulate peak height or area responses against concentration for each compound and internal standard, and calculate response factors (RF) for each compound using Equation 1.
-EC15NO91.094
 Equation 1
 where:
 As = Response for the parameter to be measured.
@@ -142,7 +141,7 @@ Note: The frequency for the required analysis of a QC check standard will depend
 8.4.1 Prepare the QC check standard by adding 10 µL of QC check sample concentrate (Section 8.2.1 or 8.3.2) to 5 mL of reagent water. The QC check standard needs only to contain the parameters that failed criteria in the test in Section 8.3.
 8.4.2 Analyze the QC check standard to determine the concentration measured (A) of each parameter. Calculate each percent recovery (Ps) as 100 (A/T)%, where T is the true value of the standard concentration.
 8.4.3 Compare the percent recovery (Ps) for each parameter with the corresponding QC acceptance criteria found in Table 2. Only parameters that failed the test in Section 8.3 need to be compared with these criteria. If the recovery of any such parameter falls outside the designated range, the laboratory performance for that parameter is judged to be out of control, and the problem must be immediately identified and corrected. The analytical result for that parameter in the unspiked sample is suspect and may not be reported for regulatory compliance purposes.
-8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P−2sp to P + 2sp. If p = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
+8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P −2sp to P + 2sp. If p = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
 8.6 It is recommended that the laboratory adopt additional quality assurance practices for use with this method. The specific practices that are most productive depend upon the needs of the laboratory and the nature of the samples. Field duplicates may be analyzed to assess the precision of the environmental measurements. When doubt exists over the identification of a peak on the chromatogram, confirmatory techniques such as gas chromatography with a dissimilar column, specific element detector, or mass spectrometer must be used. Whenever possible, the laboratory should analyze standard reference materials and participate in relevant performance evaluation studies.
 8.7 The analyst should monitor both the performance of the analytical system and the effectiveness of the method in dealing with each sample matrix by spiking each sample, standard, and reagent water blank with surrogate halocarbons. A combination of bromochloromethane, 2-bromo-1-chloropropane, and 1,4-dichlorobutane is recommended to encompass the range of the temperature program used in this method. From stock standard solutions prepared as in Section 6.5, add a volume to give 750 µg of each surrogate to 45 mL of reagent water contained in a 50-mL volumetric flask, mix and dilute to volume for a concentration of 15 ng/µL. Add 10 µL of this surrogate spiking solution directly into the 5-mL syringe with every sample and reference standard analyzed. Prepare a fresh surrogate spiking solution on a weekly basis. If the internal standard calibration procedure is being used, the surrogate compounds may be added directly to the internal standard spiking solution (Section 7.4.2).
 9. Sample Collection, Preservation, and Handling
@@ -166,7 +165,6 @@ Note: The frequency for the required analysis of a QC check standard will depend
 11.1.1 If the external standard calibration procedure is used, calculate the concentration of the parameter being measured from the peak response using the calibration curve or calibration factor determined in Section 7.3.2.
 11.1.2 If the internal standard calibration procedure is used, calculate the concentration in the sample using the response factor (RF) determined in Section 7.4.3 and Equation 2.
 Equation 2
-EC15NO91.095
 where:
 As = Response for the parameter to be measured.
 Ais = Response for the internal standard.
@@ -189,7 +187,8 @@ References
 10. "Method Validation Data for EPA Method 601," Memorandum from B. Potter, U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268, November 10, 1983.
 11. Bellar, T. A., Unpublished data, U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268, 1981.
 Table 1—Chromatographic Conditions and Method Detection Limits
-Parameter | Retention time (min) | Column 1 | Column 2 | Method detection limit (µg/L)
+Parameter | Retention time (min) | Method detection limit (µg/L)
+Column 1 | Column 2
 Chloromethane | 1.50 | 5.28 | 0.08
 Bromomethane | 2.17 | 7.05 | 1.18
 Dichlorodifluoromethane | 2.62 | nd | 1.81
@@ -219,9 +218,7 @@ Chlorobenzene | 24.2 | 18.8 | 0.25
 1,3-Dichlorobenzene | 34.0 | 22.4 | 0.32
 1,2-Dichlorobenzene | 34.9 | 23.5 | 0.15
 1,4-Dichlorobenzene | 35.4 | 22.3 | 0.24
-Column 1 conditions: Carbopack B (60/80 mesh) coated with 1% SP-1000 packed in an 8 ft × 0.1 in. ID stainless steel or glass column with helium carrier gas at 40 mL/min flow rate. Column temperature held at 45 °C for 3 min then programmed at 8 °C/min to 220 °C and held for 15 min.
-Column 2 conditions: Porisil-C (100/120 mesh) coated with n-octane packed in a 6 ft × 0.1 in. ID stainless steel or glass column with helium carrier gas at 40 mL/min flow rate. Column temperature held at 50 °C for 3 min then programmed at 6 °C/min to 170 °C and held for 4 min.
-nd = not determined.
+Column 1 conditions: Carbopack B (60/80 mesh) coated with 1% SP-1000 packed in an 8 ft × 0.1 in. ID stainless steel or glass column with helium carrier gas at 40 mL/min flow rate. Column temperature held at 45 °C for 3 min then programmed at 8 °C/min to 220 °C and held for 15 min. Column 2 conditions: Porisil-C (100/120 mesh) coated with n-octane packed in a 6 ft × 0.1 in. ID stainless steel or glass column with helium carrier gas at 40 mL/min flow rate. Column temperature held at 50 °C for 3 min then programmed at 6 °C/min to 170 °C and held for 4 min. nd = not determined.
 Table 2—Calibration and QC Acceptance Criteria—Method 601 a
 Parameter | Range for Q (µg/L) | Limit for s (µg/L) | Range for X (µg/L) | Range P, Ps (%)
 Bromodichloromethane | 15.2-24.8 | 4.3 | 10.7-32.0 | 42-172
@@ -252,31 +249,25 @@ Tetrachloroethene | 14.0-26.0 | 5.4 | 8.1-29.6 | 26-162
 Trichloroethene | 15.4-24.6 | 4.2 | 9.2-26.6 | 35-146
 Trichlorofluoromethane | 13.3-26.7 | 6.0 | 7.4-28.1 | 21-156
 Vinyl chloride | 13.7-26.3 | 5.7 | 8.2-29.9 | 28-163
-a Criteria were calculated assuming a QC check sample concentration of 20 µg/L.
-Q = Concentration measured in QC check sample, in µg/L (Section 7.5.3).
-s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4).
-X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4).
-P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2).
-D = Detected; result must be greater than zero.
-Note: These criteria are based directly upon the method performance data in Table 3. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 3.
+a Criteria were calculated assuming a QC check sample concentration of 20 µg/L. Q = Concentration measured in QC check sample, in µg/L (Section 7.5.3). s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4). X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4). P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2). D = Detected; result must be greater than zero. Note: These criteria are based directly upon the method performance data in Table 3. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 3.
 Table 3—Method Accuracy and Precision as Functions of Concentration—Method 601
 Parameter | Accuracy, as recovery, X′ (µg/L) | Single analyst precision, sr′ (µg/L) | Overall precision, S′ (µg/L)
 Bromodichloromethane | 1.12C−1.02 | 0.11X + 0.04 | 0.20X + 1.00
 Bromoform | 0.96C−2.05 | 0.12X + 0.58 | 0.21X + 2.41
 Bromomethane | 0.76C−1.27 | 0.28X + 0.27 | 0.36X + 0.94
 Carbon tetrachloride | 0.98C−1.04 | 0.15X + 0.38 | 0.20X + 0.39
-Chlorobenzene | 1.00C−1.23 | 0.15X−0.02 | 0.18X + 1.21
-Choroethane | 0.99C−1.53 | 0.14X−0.13 | 0.17X + 0.63
+Chlorobenzene | 1.00C−1.23 | 0.15X −0.02 | 0.18X + 1.21
+Choroethane | 0.99C−1.53 | 0.14X −0.13 | 0.17X + 0.63
 2-Chloroethylvinyl ether a | 1.00C | 0.20X | 0.35X
-Chloroform | 0.93C−0.39 | 0.13X + 0.15 | 0.19X−0.02
-Chloromethane | 0.77C + 0.18 | 0.28X−0.31 | 0.52X + 1.31
+Chloroform | 0.93C−0.39 | 0.13X + 0.15 | 0.19X −0.02
+Chloromethane | 0.77C + 0.18 | 0.28X −0.31 | 0.52X + 1.31
 Dibromochloromethane | 0.94C + 2.72 | 0.11X + 1.10 | 0.24X + 1.68
 1,2-Dichlorobenzene | 0.93C + 1.70 | 0.20X + 0.97 | 0.13X + 6.13
 1,3-Dichlorobenzene | 0.95C + 0.43 | 0.14X + 2.33 | 0.26X + 2.34
 1,4-Dichlorobenzene | 0.93C−0.09 | 0.15X + 0.29 | 0.20X + 0.41
 1,1-Dichloroethane | 0.95C−1.08 | 0.09X + 0.17 | 0.14X + 0.94
 1,2-Dichloroethane | 1.04C−1.06 | 0.11X + 0.70 | 0.15X + 0.94
-1,1-Dichloroethene | 0.98C−0.87 | 0.21X−0.23 | 0.29X−0.40
+1,1-Dichloroethene | 0.98C−0.87 | 0.21X −0.23 | 0.29X −0.40
 trans-1,2-Dichloroethene | 0.97C−0.16 | 0.11X + 1.46 | 0.17X + 1.46
 1,2-Dichloropropane a | 1.00C | 0.13X | 0.23X
 cis-1,3-Dichloropropene a | 1.00C | 0.18X | 0.32X
@@ -285,20 +276,11 @@ Methylene chloride | 0.91C−0.93 | 0.11X + 0.33 | 0.21X + 1.43
 1,1,2,2-Tetrachloroethene | 0.95C + 0.19 | 0.14X + 2.41 | 0.23X + 2.79
 Tetrachloroethene | 0.94C + 0.06 | 0.14X + 0.38 | 0.18X + 2.21
 1,1,1-Trichloroethane | 0.90C−0.16 | 0.15X + 0.04 | 0.20X + 0.37
-1,1,2-Trichloroethane | 0.86C + 0.30 | 0.13X−0.14 | 0.19X + 0.67
-Trichloroethene | 0.87C + 0.48 | 0.13X−0.03 | 0.23X + 0.30
+1,1,2-Trichloroethane | 0.86C + 0.30 | 0.13X −0.14 | 0.19X + 0.67
+Trichloroethene | 0.87C + 0.48 | 0.13X −0.03 | 0.23X + 0.30
 Trichlorofluoromethane | 0.89C−0.07 | 0.15X + 0.67 | 0.26X + 0.91
 Vinyl chloride | 0.97C−0.36 | 0.13X + 0.65 | 0.27X + 0.40
-X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L.
-sn′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L.
-S1 = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L.
-C = True value for the concentration, in µg/L.
-X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
-a Estimates based upon the performance in a single laboratory. 10
-EC02JY92.000
-EC02JY92.001
-EC02JY92.002
-EC02JY92.003
+X ′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L. sn′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L. S 1 = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L. C = True value for the concentration, in µg/L. X = Average recovery found for measurements of samples containing a concentration of C, in µg/L. a Estimates based upon the performance in a single laboratory. 10
 Method 602—Purgeable Aromatics
 1. Scope and Application
 1.1 This method covers the determination of various purgeable aromatics. The following parameters may be determined by this method:
@@ -415,7 +397,7 @@ Note: The frequency for the required analysis of a QC check standard will depend
 8.4.1 Prepare the QC check standard by adding 10 µL of QC check sample concentrate (Section 8.2.1 or 8.3.2) to 5 mL of reagent water. The QC check standard needs only to contain the parameters that failed criteria in the test in Section 8.3.
 8.4.2 Analyze the QC check standard to determine the concentration measured (A) of each parameter. Calculate each percent recovery (Ps) as 100 (A/T)%, where T is the true value of the standard concentration.
 8.4.3 Compare the percent recovery (Ps) for each parameter with the corresponding QC acceptance criteria found in Table 2. Only parameters that failed the test in Section 8.3 need to be compared with these criteria. If the recovery of any such parameter falls outside the designated range, the laboratory performance for that parameter is judged to be out of control, and the problem must be immediately identified and corrected. The analytical result for that parameter in the unspiked sample is suspect and may not be reported for regulatory compliance purposes.
-8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P−2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
+8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P −2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
 8.6 It is recommended that the laboratory adopt additional quality assurance practices for use with this method. The specific practices that are most productive depend upon the needs of the laboratory and the nature of the samples. Field duplicates may be analyzed to assess the precision of the environmental measurements. When doubt exists over the identification of a peak on the chromatogram, confirmatory techniques such as gas chromatography with a dissimilar column, specific element detector, or mass spectrometer must be used. Whenever possible, the laboratory should analyze standard reference materials and participate in relevant performance evaluation studies.
 8.7 The analyst should monitor both the performance of the analytical system and the effectiveness of the method in dealing with each sample matrix by spiking each sample, standard, and reagent water blank with surrogate compounds (e.g. α, α, α,-trifluorotoluene) that encompass the range of the temperature program used in this method. From stock standard solutions prepared as in Section 6.6, add a volume to give 750 µg of each surrogate to 45 mL of reagent water contained in a 50-mL volumetric flask, mix and dilute to volume for a concentration of 15 mg/µL. Add 10 µL of this surrogate spiking solution directly into the 5-mL syringe with every sample and reference standard analyzed. Prepare a fresh surrogate spiking solution on a weekly basis. If the internal standard calibration procedure is being used, the surrogate compounds may be added directly to the internal standard spiking solution (Section 7.4.2).
 9. Sample Collection, Preservation, and Handling
@@ -438,7 +420,6 @@ Note: The frequency for the required analysis of a QC check standard will depend
 11.1 Determine the concentration of individual compounds in the sample.
 11.1.1 If the external standard calibration procedure is used, calculate the concentration of the parameter being measured from the peak response using the calibration curve or calibration factor determined in Section 7.3.2.
 11.1.2 If the internal standard calibration procedure is used, calculate the concentration in the sample using the response factor (RF) determined in Section 7.4.3 and Equation 2.
-EC15NO91.096
 Equation 2
 where:
 As = Response for the parameter to be measured.
@@ -460,7 +441,8 @@ References
 8."Methods 330.4 (Titrimetric, DPD-FAS) and 330.5 (Spectrophotometric, DPD) for Chlorine, Total Residual," Methods for Chemical Analysis of Water and Wastes, EPA-600/4-79-020, U.S. Environmental Protection Agency, Office of Research and Development, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268. March 1979.
 9. "EPA Method Study 25, Method 602, Purgeable Aromatics," EPA 600/4-84-042, National Technical Information Service, PB84-196682, Springfield, Virginia 22161, May 1984.
 Table 1—Chromatographic Conditions and Method Detection Limits
-Parameter | Retention time (min) | Column 1 | Column 2 | Method detection limit (µg/L)
+Parameter | Retention time (min) | Method detection limit (µg/L)
+Column 1 | Column 2
 Benzene | 3.33 | 2.75 | 0.2
 Toluene | 5.75 | 4.25 | 0.2
 Ethylbenzene | 8.25 | 6.25 | 0.2
@@ -468,8 +450,7 @@ Chlorobenzene | 9.17 | 8.02 | 0.2
 1,4-Dichlorobenzene | 16.8 | 16.2 | 0.3
 1,3-Dichlorobenzene | 18.2 | 15.0 | 0.4
 1,2-Dichlorobenzene | 25.9 | 19.4 | 0.4
-Column 1 conditions: Supelcoport (100/120 mesh) coated with 5% SP-1200/1.75% Bentone-34 packed in a 6 ft × 0.085 in. ID stainless steel column with helium carrier gas at 36 mL/min flow rate. Column temperature held at 50 °C for 2 min then programmed at 6 °C/min to 90 °C for a final hold.
-Column 2 conditions: Chromosorb W-AW (60/80 mesh) coated with 5% 1,2,3-Tris(2-cyanoethyoxy)propane packed in a 6 ft × 0.085 in. ID stainless steel column with helium carrier gas at 30 mL/min flow rate. Column temperature held at 40 °C for 2 min then programmed at 2 °C/min to 100 °C for a final hold.
+Column 1 conditions: Supelcoport (100/120 mesh) coated with 5% SP-1200/1.75% Bentone-34 packed in a 6 ft × 0.085 in. ID stainless steel column with helium carrier gas at 36 mL/min flow rate. Column temperature held at 50 °C for 2 min then programmed at 6 °C/min to 90 °C for a final hold. Column 2 conditions: Chromosorb W-AW (60/80 mesh) coated with 5% 1,2,3-Tris(2-cyanoethyoxy)propane packed in a 6 ft × 0.085 in. ID stainless steel column with helium carrier gas at 30 mL/min flow rate. Column temperature held at 40 °C for 2 min then programmed at 2 °C/min to 100 °C for a final hold.
 Table 2—Calibration and QC Acceptance Criteria—Method 602 a
 Parameter | Range for Q (µg/L) | Limit for s (µg/L) | Range for X (µg/L) | Range for P, Ps(%)
 Benzene | 15.4-24.6 | 4.1 | 10.0-27.9 | 39-150
@@ -479,30 +460,17 @@ Chlorobenzene | 16.1-23.9 | 3.5 | 12.7-25.4 | 55-135
 1,4-Dichlorobenzene | 13.9-26.1 | 5.5 | 11.6-25.5 | 42-143
 Ethylbenzene | 12.6-27.4 | 6.7 | 10.0-28.2 | 32-160
 Toluene | 15.5-24.5 | 4.0 | 11.2-27.7 | 46-148
-Q = Concentration measured in QC check sample, in µg/L (Section 7.5.3).
-s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4).
-X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4).
-Ps, P = Percent recovery measured (Section 8.3.2, Section 8.4.2).
-a Criteria were calculated assuming a QC check sample concentration of 20 µg/L.
-Note: These criteria are based directly upon the method performance data in Table 3. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 3.
+Q = Concentration measured in QC check sample, in µg/L (Section 7.5.3). s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4). X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4). Ps, P = Percent recovery measured (Section 8.3.2, Section 8.4.2). a Criteria were calculated assuming a QC check sample concentration of 20 µg/L. Note: These criteria are based directly upon the method performance data in Table 3. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 3.
 Table 3—Method Accuracy and Precision as Functions of Concentration—Method 602
 Parameter | Accuracy, as recovery, X′ (µg/L) | Single analyst precision, s′ (µg/L) | Overall precision, S′ (µg/L)
 Benzene | 0.92C + 0.57 | 0.09X + 0.59 | 0.21X + 0.56
 Chlorobenzene | 0.95C + 0.02 | 0.09X + 0.23 | 0.17X + 0.10
-1,2-Dichlorobenzene | 0.93C + 0.52 | 0.17X−0.04 | 0.22X + 0.53
-1,3-Dichlorobenzene | 0.96C−0.05 | 0.15X−0.10 | 0.19X + 0.09
+1,2-Dichlorobenzene | 0.93C + 0.52 | 0.17X −0.04 | 0.22X + 0.53
+1,3-Dichlorobenzene | 0.96C−0.05 | 0.15X −0.10 | 0.19X + 0.09
 1,4-Dichlorobenzene | 0.93C−0.09 | 0.15X + 0.28 | 0.20X + 0.41
 Ethylbenzene | 0.94C + 0.31 | 0.17X + 0.46 | 0.26X + 0.23
 Toluene | 0.94C + 0.65 | 0.09X + 0.48 | 0.18X + 0.71
-X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L.
-S′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in X µg/L.
-S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L.
-C = True value for the Concentration, in µg/L.
-X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
-EC02JY92.004
-EC02JY92.005
-EC02JY92.006
-EC02JY92.007
+X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L. S′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in X µg/L. S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L. C = True value for the Concentration, in µg/L. X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
 Method 603—Acrolein and Acrylonitrile
 1. Scope and Application
 1.1 This method covers the determination of acrolein and acrylonitrile. The following parameters may be determined by this method:
@@ -610,7 +578,7 @@ Note: The frequency for the required analysis of a QC check standard will depend
 8.4.1 Prepare the QC check standard by adding 10 µL of QC check sample concentrate (Section 8.2.1 or 8.3.2) to 5 mL of reagent water. The QC check standard needs only to contain the parameters that failed criteria in the test in Section 8.3.
 8.4.2 Analyze the QC check standard to determine the concentration measured (A) of each parameter. Calculate each percent recovery (Ps) as 100 (A/T)%, where T is the true value of the standard concentration.
 8.4.3 Compare the percent recovery (Ps) for each parameter with the corresponding QC acceptance criteria found in Table 3. Only parameters that failed the test in Section 8.3 need to be compared with these criteria. If the recovery of any such parameter falls outside the designated range, the laboratory performance for that parameter is judged to be out of control, and the problem must be immediately identified and corrected. The analytical result for that parameter in the unspiked sample is suspect and may not be reported for regulatory compliance purposes.
-8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P−2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
+8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P −2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
 8.6 It is recommended that the laboratory adopt additional quality assurance practices for use with this method. The specific practices that are most productive depend upon the needs of the laboratory and the nature of the samples. Field duplicates may be analyzed to assess the precision of the environmental measurements. When doubt exists over the identification of a peak on the chromatogram, confirmatory techniques such as gas chromatography with a dissimilar column or mass spectrometer must be used. Whenever possible, the laboratory should analyze standard reference materials and participate in relevant performance evaluation studies.
 9. Sample Collection, Preservation, and Handling
 9.1 All samples must be iced or refrigerated from the time of collection until analysis. If the sample contains free or combined chlorine, add sodium thiosulfate preservative (10 mg/40 mL is sufficient for up to 5 ppm Cl2) to the empty sample bottle just prior to shipping to the sampling site. EPA Methods 330.4 and 330.5 may be used for measurement of residual chlorine. 8 Field test kits are available for this purpose.
@@ -632,7 +600,6 @@ Note: The frequency for the required analysis of a QC check standard will depend
 11.1 Determine the concentration of individual compounds in the sample.
 11.1.1 If the external standard calibration procedure is used, calculate the concentration of the parameter being measured from the peak response using the calibration curve or calibration factor determined in Section 7.3.2.
 11.1.2 If the internal standard calibration procedure is used, calculate the concentration in the sample using the response factor (RF) determined in Section 7.4.3 and Equation 2.
-EC15NO91.097
 Equation 2
 where:
 As = Response for the parameter to be measured.
@@ -654,11 +621,11 @@ References
 8. "Methods 330.4 (Titrimetric, DPD-FAS) and 330.5 (Spectrophotometric, DPD) for Chlorine, Total Residual," Methods for Chemical Analysis of Water and Wastes, EPA-600/4-79-020, U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268, March 1979.
 9. "Evaluation of Method 603 (Modified)," EPA-600/4-84-ABC, National Technical Information Service, PB84-, Springfield, Virginia 22161, Nov. 1984.
 Table 1—Chromatographic Conditions and Method Detection Limits
-Parameter | Retention time (min) | Column 1 | Column 2 | Method detection limit (µg/L)
+Parameter | Retention time (min) | Method detection limit (µg/L)
+Column 1 | Column 2
 Acrolein | 10.6 | 8.2 | 0.7
 Acrylonitrile | 12.7 | 9.8 | 0.5
-Column 1 conditions: Porapak-QS (80/100 mesh) packed in a 10 ft × 2 mm ID glass or stainless steel column with helium carrier gas at 30 mL/min flow rate. Column temperature held isothermal at 110 °C for 1.5 min (during desorption), then heated as rapidly as possible to 150 °C and held for 20 min; column bakeout at 190 °C for 10 min. 9
-Column 2 conditions: Chromosorb 101 (60/80 mesh) packed in a 6 ft. × 0.1 in. ID glass or stainless steel column with helium carrier gas at 40 mL/min flow rate. Column temperature held isothermal at 80 °C for 4 min, then programmed at 50 °C/min to 120 °C and held for 12 min.
+Column 1 conditions: Porapak-QS (80/100 mesh) packed in a 10 ft × 2 mm ID glass or stainless steel column with helium carrier gas at 30 mL/min flow rate. Column temperature held isothermal at 110 °C for 1.5 min (during desorption), then heated as rapidly as possible to 150 °C and held for 20 min; column bakeout at 190 °C for 10 min. 9 Column 2 conditions: Chromosorb 101 (60/80 mesh) packed in a 6 ft. × 0.1 in. ID glass or stainless steel column with helium carrier gas at 40 mL/min flow rate. Column temperature held isothermal at 80 °C for 4 min, then programmed at 50 °C/min to 120 °C and held for 12 min.
 Table 2—Single Laboratory Accuracy and Precision—Method 603
 Parameter | Sample matrix | Spike conc. (µg/L) | Average recovery (µg/L) | Standard deviation (µg/L) | Average percent recovery
 Acrolein | RW | 5.0 | 5.2 | 0.2 | 104
@@ -673,22 +640,12 @@ Acrylonitrile | RW | 5.0 | 4.2 | 0.2 | 84
 | POTW | 100.0 | 101.3 | 1.5 | 101
 | IW | 10.0 | 9.1 | 0.8 | 91
 | IW | 100.0 | 104.0 | 3.2 | 104
-RW = Reagent water.
-POTW = Prechlorination secondary effluent from a municipal sewage treatment plant.
-IW = Industrial wastewater containing an unidentified acrolein reactant.
+RW = Reagent water. POTW = Prechlorination secondary effluent from a municipal sewage treatment plant. IW = Industrial wastewater containing an unidentified acrolein reactant.
 Table 3—Calibration and QC Acceptance Criteria—Method 603 a
 Parameter | Range for Q (µg/L) | Limit for S (µg/L) | Range for X (µg/L) | Range for P, Ps (%)
 Acrolein | 45.9-54.1 | 4.6 | 42.9-60.1 | 88-118
 Acrylonitrile | 41.2-58.8 | 9.9 | 33.1-69.9 | 71-135
-a = Criteria were calculated assuming a QC check sample concentration of 50 µg/L. 9
-Q = Concentration measured in QC check sample, in µg/L (Section 7.5.3).
-s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4).
-X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4).
-P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2).
-EC02JY92.008
-EC02JY92.009
-EC02JY92.010
-EC02JY92.011
+a = Criteria were calculated assuming a QC check sample concentration of 50 µg/L. 9 Q = Concentration measured in QC check sample, in µg/L (Section 7.5.3). s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4). X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4). P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2).
 Method 604—Phenols
 1. Scope and Application
 1.1 This method covers the determination of phenol and certain substituted phenols. The following parameters may be determined by this method:
@@ -764,7 +721,7 @@ Note: This chemical is highly toxic.
 6.14.3 Stock standard solutions must be replaced after six months, or sooner if comparison with check standards indicates a problem.
 6.15 Quality control check sample concentrate—See Section 8.2.1.
 7. Calibration
-7.1 To calibrate the FIDGC for the anaylsis of underivatized phenols, establish gas chromatographic operating conditions equivalent to those given in Table 1. The gas chromatographic system can be calibrated using the external standard technique (Section 7.2) or the internal standard technique (Section 7.3).
+7.1 To calibrate the FIDGC for the analysis of underivatized phenols, establish gas chromatographic operating conditions equivalent to those given in Table 1. The gas chromatographic system can be calibrated using the external standard technique (Section 7.2) or the internal standard technique (Section 7.3).
 7.2 External standard calibration procedure for FIDGC:
 7.2.1 Prepare calibration standards at a minimum of three concentration levels for each parameter of interest by adding volumes of one or more stock standards to a volumetric flask and diluting to volume with 2-propanol. One of the external standards should be at a concentration near, but above, the MDL (Table 1) and the other concentrations should correspond to the expected range of concentrations found in real samples or should define the working range of the detector.
 7.2.2 Using injections of 2 to 5 µl, analyze each calibration standard according to Section 11 and tabulate peak height or area responses against the mass injected. The results can be used to prepare a calibration curve for each compound. Alternatively, if the ratio of response to amount injected (calibration factor) is a constant over the working range (<10% relative standard deviation, RSD), linearity through the origin can be assumed and the average ratio or calibration factor can be used in place of a calibration curve.
@@ -816,7 +773,7 @@ Note: The frequency for the required analysis of a QC check standard will depend
 8.4.1 Prepare the QC check standard by adding 1.0 mL of QC check sample concentrate (Section 8.2.1 or 8.3.2) to 1 L of reagent water. The QC check standard needs only to contain the parameters that failed criteria in the test in Section 8.3.
 8.4.2 Analyze the QC check standard to determine the concentration measured (A) of each parameter. Calculate each percent recovery (Ps) as 100 (A/T)%, where T is the true value of the standard concentration.
 8.4.3 Compare the percent recovery (Ps) for each parameter with the corresponding QC acceptance criteria found in Table 3. Only parameters that failed the test in Section 8.3 need to be compared with these criteria. If the recovery of any such parameter falls outside the designated range, the laboratory performance for that parameter is judged to be out of control, and the problem must be immediately identified and corrected. The analytical result for that parameter in the unspiked sample is suspect and may not be reported for regulatory compliance purposes.
-8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P−2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
+8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P −2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
 8.6. It is recommended that the laboratory adopt additional quality assurance practices for use with this method. The specific practices that are most productive depend upon the needs of the laboratory and the nature of the samples. Field duplicates may be analyzed to assess the precision of the environmental measurements. When doubt exists over the identification of a peak on the chromatogram, confirmatory techniques such as gas chromatography with a dissimilar column, specific element detector, or mass spectrometer must be used. Whenever possible, the laboratory should analyze standard reference materials and participate in relevant performance evaluation studies.
 9. Sample Collection, Preservation, and Handling
 9.1 Grab samples must be collected in glass containers. Conventional sampling practices 9 should be followed, except that the bottle must not be prerinsed with sample before collection. Composite samples should be collected in refrigerated glass containers in accordance with the requirements of the program. Automatic sampling equipment must be as free as possible of Tygon tubing and other potential sources of contamination.
@@ -858,7 +815,6 @@ Note: The frequency for the required analysis of a QC check standard will depend
 13. Calculations
 13.1 Determine the concentration of individual compounds in the sample analyzed by FIDGC (without derivatization) as indicated below.
 13.1.1 If the external standard calibration procedure is used, calculate the amount of material injected from the peak response using the calibration curve or calibration factor determined in Section 7.2.2. The concentration in the sample can be calculated from Equation 2.
-EC15NO91.098
 Equation 2
 where:
 A = Amount of material injected (ng).
@@ -866,7 +822,6 @@ Vi = Volume of extract injected (µL).
 Vt = Volume of total extract (µL).
 Vs = Volume of water extracted (mL).
 13.1.2 If the internal standard calibration procedure is used, calculate the concentration in the sample using the response factor (RF) determined in Section 7.3.2 and Equation 3.
-EC15NO91.099
 Equation 3
 where:
 As = Response for the parameter to be measured.
@@ -874,7 +829,6 @@ Ais = Response for the internal standard.
 Is = Amount of internal standard added to each extract (µg).
 Vo = Volume of water extracted (L).
 13.2 Determine the concentration of individual compounds in the sample analyzed by derivatization and ECDGC according to Equation 4.
-EC15NO91.100
 Equation 4
 where:
 A = Mass of underivatized phenol represented by area of peak in sample chromatogram, determined from calibration curve in Section 7.5.3 (ng).
@@ -918,7 +872,8 @@ Pentachlorophenol | 12.42 | 7.4
 4-Nitrophenol | 24.25 | 2.8
 Column conditions: Supelcoport (80/100 mesh) coated with 1% SP-1240DA packed in a 1.8 m long × 2 mm ID glass column with nitrogen carrier gas at 30 mL/min flow rate. Column temperature was 80 °C at injection, programmed immediately at 8 °C/min to 150 °C final temperature. MDL were determined with an FID.
 Table 2—Silica Gel Fractionation and Electron Capture Gas Chromatography of PFBB Derivatives
-Parent compound | Percent recovery by fraction a | 1 | 2 | 3 | 4 | Retention time (min) | Method detection limit (µg/L)
+Parent compound | Percent recovery by fraction a | Retention time (min) | Method detection limit (µg/L)
+1 | 2 | 3 | 4
 2-Chlorophenol | | 90 | 1 | | 3.3 | 0.58
 2-Nitrophenol | | | 9 | 90 | 9.1 | 0.77
 Phenol | | 90 | 10 | | 1.8 | 2.2
@@ -928,12 +883,7 @@ Phenol | | 90 | 10 | | 1.8 | 2.2
 4-Chloro-3-methylphenol | | 84 | 14 | | 4.8 | 1.8
 Pentachlorophenol | 75 | 20 | | | 28.8 | 0.59
 4-Nitrophenol | | | 1 | 90 | 14.0 | 0.70
-Column conditions: Chromosorb W-AW-DMCS (80/100 mesh) coated with 5% OV-17 packed in a 1.8 m long × 2.0 mm ID glass column with 5% methane/95% argon carrier gas at 30 mL/min flow rate. Column temperature held isothermal at 200 °C. MDL were determined with an ECD.
-a Eluant composition:
-Fraction 1—15% toluene in hexane.
-Fraction 2—40% toluene in hexane.
-Fraction 3—75% toluene in hexane.
-Fraction 4—15% 2-propanol in toluene.
+Column conditions: Chromosorb W-AW-DMCS (80/100 mesh) coated with 5% OV-17 packed in a 1.8 m long × 2.0 mm ID glass column with 5% methane/95% argon carrier gas at 30 mL/min flow rate. Column temperature held isothermal at 200 °C. MDL were determined with an ECD. a Eluant composition: Fraction 1—15% toluene in hexane. Fraction 2—40% toluene in hexane. Fraction 3—75% toluene in hexane. Fraction 4—15% 2-propanol in toluene.
 Table 3—QC Acceptance Criteria—Method 604
 Parameter | Test conc. (µg/L) | Limit for s (µg/L) | Range for X (µg/L) | Range for P, Ps (percent)
 4-Chloro-3-methylphenol | 100 | 16.6 | 56.7-113.4 | 49-122
@@ -947,30 +897,21 @@ Parameter | Test conc. (µg/L) | Limit for s (µg/L) | Range for X (µg/L) | Ran
 Pentachlorophenol | 100 | 32.4 | 56.7-113.5 | 36-134
 Phenol | 100 | 14.1 | 32.4-100.0 | 23-108
 2,4,6-Trichlorophenol | 100 | 16.6 | 60.8-110.4 | 53-119
-s—Standard deviation of four recovery measurements, in µg/L (Section 8.2.4).
-X—Average recovery for four recovery measurements, in µg/L (Section 8.2.4).
-P, Ps—Percent recovery measured (Section 8.3.2, Section 8.4.2).
-Note: These criteria are based directly upon the method performance data in Table 4. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 4.
+s—Standard deviation of four recovery measurements, in µg/L (Section 8.2.4). X —Average recovery for four recovery measurements, in µg/L (Section 8.2.4). P, Ps—Percent recovery measured (Section 8.3.2, Section 8.4.2). Note: These criteria are based directly upon the method performance data in Table 4. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 4.
 Table 4—Method Accuracy and Precision as Functions of Concentration—Method 604
 Parameter | Accuracy, as recovery, X′ (µg/L) | Single Analyst precision, sr′ (µg/L) | Overall precision, S′ (µg/L)
-4-Chloro-3-methylphenol | 0.87C-1.97 | 0.11X-0.21 | 0.16X + 1.41
+4-Chloro-3-methylphenol | 0.87C-1.97 | 0.11X -0.21 | 0.16X + 1.41
 2-Chlorophenol | 0.83C-0.84 | 0.18X + 0.20 | 0.21X + 0.75
-2,4-Dichlorophenol | 0.81C + 0.48 | 0.17X-0.02 | 0.18X + 0.62
-2,4-Dimethylphenol | 0.62C-1.64 | 0.30X-0.89 | 0.25X + 0.48
+2,4-Dichlorophenol | 0.81C + 0.48 | 0.17X -0.02 | 0.18X + 0.62
+2,4-Dimethylphenol | 0.62C-1.64 | 0.30X -0.89 | 0.25X + 0.48
 4,6-Dinitro-2-methylphenol | 0.84C-1.01 | 0.15X + 1.25 | 0.19X + 5.85
-2,4-Dinitrophenol | 0.80C-1.58 | 0.27X-1.15 | 0.29X + 4.51
+2,4-Dinitrophenol | 0.80C-1.58 | 0.27X -1.15 | 0.29X + 4.51
 2-Nitrophenol | 0.81C-0.76 | 0.15X + 0.44 | 0.14X + 3.84
 4-Nitrophenol | 0.46C + 0.18 | 0.17X + 2.43 | 0.19X + 4.79
-Pentachlorophenol | 0.83C + 2.07 | 0.22X-0.58 | 0.23X + 0.57
-Phenol | 0.43C + 0.11 | 0.20X-0.88 | 0.17X + 0.77
+Pentachlorophenol | 0.83C + 2.07 | 0.22X -0.58 | 0.23X + 0.57
+Phenol | 0.43C + 0.11 | 0.20X -0.88 | 0.17X + 0.77
 2,4,6-Trichlorophenol | 0.86C-0.40 | 0.10X + 0.53 | 0.13X + 2.40
-X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L.
-sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L.
-S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L.
-C = True value for the concentration, in µg/L.
-X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
-EC02JY92.012
-EC02JY92.013
+X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L. sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L. S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L. C = True value for the concentration, in µg/L. X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
 Method 605—Benzidines
 1. Scope and Application
 1.1 This method covers the determination of certain benzidines. The following parameters can be determined by this method:
@@ -1073,7 +1014,7 @@ Note: The frequency for the required analysis of a QC check standard will depend
 8.4.1 Prepare the QC check standard by adding 1.0 mL of QC check sample concentrate (Sections 8.2.1 or 8.3.2) to 1 L of reagent water. The QC check standard needs only to contain the parameters that failed criteria in the test in Section 8.3.
 8.4.2 Analyze the QC check standard to determine the concentration measured (A) of each parameter. Calculate each percent recovery (Ps) as 100 (A/T)%, where T is the true value of the standard concentration.
 8.4.3 Compare the percent recovery (Ps) for each parameter with the corresponding QC acceptance criteria found in Table 2. Only parameters that failed the test in Section 8.3 need to be compared with these criteria. If the recovery of any such parameter falls outside the designated range, the laboratory performance for that parameter is judged to be out of control, and the problem must be immediately identified and corrected. The analytical result for that parameter in the unspiked sample is suspect and may not be reported for regulatory compliance purposes.
-8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P−2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
+8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P −2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
 8.6 It is recommended that the laboratory adopt additional quality assurance practices for use with this method. The specific practices that are most productive depend upon the needs of the laboratory and the nature of the samples. Field duplicates may be analyzed to assess the precision of the environmental measurements. When doubt exists over the identification of a peak on the chromatogram, confirmatory techniques such as HPLC with a dissimilar column, gas chromatography, or mass spectrometer must be used. Whenever possible, the laboratory should analyze standard reference materials and participate in relevant performance evaluation studies.
 9. Sample Collection, Preservation, and Handling
 9.1 Grab samples must be collected in glass containers. Conventional sampling practices 8 should be followed, except that the bottle must not be prerinsed with sample before collection. Composite samples should be collected in refrigerated glass containers in accordance with the requirements of the program. Automatic sampling equipment must be as free as possible of Tygon tubing and other potential sources of contamination.
@@ -1106,7 +1047,6 @@ Note: The frequency for the required analysis of a QC check standard will depend
 13. Calculations
 13.1 Determine the concentration of individual compounds in the sample.
 13.1.1 If the external standard calibration procedure is used, calculate the amount of material injected from the peak response using the calibration curve or calibration factor determined in Section 7.2.2. The concentration in the sample can be calculated from Equation 2.
-EC15NO91.101
 Equation 2
 where:
 A = Amount of material injected (ng).
@@ -1114,7 +1054,6 @@ Vi = Volume of extract injected (µL).
 Vt = Volume of total extract (µL).
 Vs = Volume of water extracted (mL).
 13.1.2 If the internal standard calibration procedure is used, calculate the concentration in the sample using the response factor (RF) determined in Section 7.3.2 and Equation 3.
-EC15NO91.102
 Equation 3
 where:
 As = Response for the parameter to be measured.
@@ -1147,21 +1086,12 @@ Table 2—QC Acceptance Criteria—Method 605
 Parameter | Test conc. (µg/L) | Limit for s (µg/L) | Range for X (µg/L) | Range for P, Ps (percent)
 Benzidine | 50 | 18.7 | 9.1-61.0 | D-140
 3.3′-Dichlorobenzidine | 50 | 23.6 | 18.7-50.0 | 5-128
-s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4).
-X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4).
-P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2).
-D = Detected; result must be greater than zero.
-Note: These criteria are based directly upon the method performance data in Table 3. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 3.
+s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4). X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4). P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2). D = Detected; result must be greater than zero. Note: These criteria are based directly upon the method performance data in Table 3. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 3.
 Table 3—Method Accuracy and Precision as Functions of Concentration—Method 605
 Parameter | Accuracy, as recovery, X′(µg/L) | Single analyst precision, sr′ (µg/L) | Overall precision, S′ (µg/L)
 Benzidine | 0.70C + 0.06 | 0.28X + 0.19 | 0.40X + 0.18
-3,3′-Dichlorobenzidine | 0.66C + 0.23 | 0.39X−0.05 | 0.38X + 0.02
-X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L.
-sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L.
-S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L.
-C = True value for the concentration, in µg/L.
-X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
-EC02JY92.014
+3,3′-Dichlorobenzidine | 0.66C + 0.23 | 0.39X −0.05 | 0.38X + 0.02
+X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L. sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L. S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L. C = True value for the concentration, in µg/L. X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
 Method 606—Phthalate Ester
 1. Scope and Application
 1.1 This method covers the determination of certain phthalate esters. The following parameters can be determined by this method:
@@ -1267,7 +1197,7 @@ Note: The frequency for the required analysis of a QC check standard will depend
 8.4.1 Prepare the QC check standard by adding 1.0 mL of QC check sample concentrate (Section 8.2.1 or 8.3.2) to 1 L of reagent water. The QC check standard needs only to contain the parameters that failed criteria in the test in Section 8.3.
 8.4.2 Analyze the QC check standard to determine the concentration measured (A) of each parameter. Calculate each percent recovery (Ps) as 100 (A/T)%, where T is the true value of the standard concentration.
 8.4.3 Compare the percent recovery (Ps) for each parameter with the corresponding QC acceptance criteria found in Table 2. Only parameters that failed the test in Section 8.3 need to be compared with these criteria. If the recovery of any such parameter falls outside the designated range, the laboratory performance for that parameter is judged to be out of control, and the problem must be immediately identified and corrected. The analytical result for that parameter in the unspiked sample is suspect and may not be reported for regulatory compliance purposes.
-8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P−2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
+8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P −2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
 8.6 It is recommended that the laboratory adopt additional quality assurance practices for use with this method. The specific practices that are most productive depend upon the needs of the laboratory and the nature of the samples. Field duplicates may be analyzed to assess the precision of the environmental measurements. When doubt exists over the identification of a peak on the chromatogram, confirmatory techniques such as gas chromatography with a dissimilar column, specific element detector, or mass spectrometer must be used. Whenever possible, the laboratory should analyze standard reference materials and participate in relevant performance evaluation studies.
 9. Sample Collection, Preservation, and Handling
 9.1 Grab samples must be collected in glass containers. Conventional sampling practices 10 should be followed, except that the bottle must not be prerinsed with sample before collection. Composite samples should be collected in refrigerated glass containers in accordance with the requirements of the program. Automatic sampling equipment must be as free as possible of Tygon tubing and other potential sources of contamination.
@@ -1305,7 +1235,6 @@ Note: The frequency for the required analysis of a QC check standard will depend
 13. Calculations
 13.1 Determine the concentration of individual compounds in the sample.
 13.1.1 If the external standard calibration procedure is used, calculate the amount of material injected from the peak response using the calibration curve or calibration factor determined in Section 7.2.2. The concentration in the sample can be calculated from Equation 2.
-EC15NO91.103
 Equation 2
 where:
 A = Amount of material injected (ng).
@@ -1313,7 +1242,6 @@ Vi = Volume of extract injected (µL).
 Vt = Volume of total extract (µL).
 Vs = Volume of water extracted (mL).
 13.1.2 If the internal standard calibration procedure is used, calculate the concentration in the sample using the response factor (RF) determined in Section 7.3.2 and Equation 3.
-EC15NO91.104
 Equation 3
 where:
 As = Response for the parameter to be measured.
@@ -1340,16 +1268,15 @@ References
 12. "Method Detection Limit and Analytical Curve Studies, EPA Methods 606, 607, and 608," Special letter report for EPA Contract 68-03-2606, U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268, June 1980.
 13. "EPA Method Study 16 Method 606 (Phthalate Esters)," EPA 600/4-84-056, National Technical Information Service, PB84-211275, Springfield, Virginia 22161, June 1984.
 Table 1—Chromatographic Conditions and Method Detection Limits
-Parameter | Retention time (min) | Column 1 | Column 2 | Method detection limit (µg/L)
+Parameter | Retention time (min) | Method detection limit (µg/L)
+Column 1 | Column 2
 Dimethyl phthalate | 2.03 | 0.95 | 0.29
 Diethyl phthalate | 2.82 | 1.27 | 0.49
 Di-n-butyl phthalate | 8.65 | 3.50 | 0.36
 Butyl benzyl phthalate | a 6.94 | a 5.11 | 0.34
 Bis(2-ethylhexyl) phthalate | a 8.92 | a 10.5 | 2.0
 Di-n-octyl phthalate | a 16.2 | a 18.0 | 3.0
-Column 1 conditions: Supelcoport (100/120 mesh) coated with 1.5% SP-2250/1.95% SP-2401 packed in a 1.8 m long × 4 mm ID glass column with 5% methane/95% argon carrier gas at 60 mL/min flow rate. Column temperature held isothermal at 180 °C, except where otherwise indicated.
-Column 2 conditions: Supelcoport (100/120 mesh) coated with 3% OV-1 packed in a 1.8 m long × 4 mm ID glass column with 5% methane/95% argon carrier gas at 60 mL/min flow rate. Column temperature held isothermal at 200 °C, except where otherwise indicated.
-a 220 °C column temperature.
+Column 1 conditions: Supelcoport (100/120 mesh) coated with 1.5% SP-2250/1.95% SP-2401 packed in a 1.8 m long × 4 mm ID glass column with 5% methane/95% argon carrier gas at 60 mL/min flow rate. Column temperature held isothermal at 180 °C, except where otherwise indicated. Column 2 conditions: Supelcoport (100/120 mesh) coated with 3% OV-1 packed in a 1.8 m long × 4 mm ID glass column with 5% methane/95% argon carrier gas at 60 mL/min flow rate. Column temperature held isothermal at 200 °C, except where otherwise indicated. a 220 °C column temperature.
 Table 2—QC Acceptance Criteria—Method 606
 Parameter | Test conc. (µg/L) | Limit for s (µg/L) | Range for X (µg/L) | Range for P, Ps (percent)
 Bis(2-ethylhexyl) phthalate | 50 | 38.4 | 1.2-55.9 | D-158
@@ -1358,26 +1285,16 @@ Di-n-butyl phthalate | 25 | 8.9 | 10.3-29.6 | 23-136
 Diethyl phthalate | 25 | 9.0 | 1.9-33.4 | D-149
 Dimethyl phathalate | 25 | 9.5 | 1.3-35.5 | D-156
 Di-n-octyl phthalate | 50 | 13.4 | D-50.0 | D-114
-s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4).
-X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4).
-P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2).
-D = Detected; result must be greater than zero.
-Note: These criteria are based directly upon the method performance data in Table 3. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 3.
+s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4). X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4). P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2). D = Detected; result must be greater than zero. Note: These criteria are based directly upon the method performance data in Table 3. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 3.
 Table 3—Method Accuracy and Precision as Functions of Concentration—Method 606
 Parameter | Accuracy, as recovery, X′ (µg/L) | Single analyst precision, sr′ (µg/L) | Overall precision, S′ (µg/L)
-Bis(2-ethylhexyl) phthalate | 0.53C + 2.02 | 0.80X−2.54 | 0.73X−0.17
+Bis(2-ethylhexyl) phthalate | 0.53C + 2.02 | 0.80X −2.54 | 0.73X −0.17
 Butyl benzyl phthalate | 0.82C + 0.13 | 0.26X + 0.04 | 0.25X + 0.07
 Di-n-butyl phthalate | 0.79C + 0.17 | 0.23X + 0.20 | 0.29X + 0.06
 Diethyl phthalate | 0.70C + 0.13 | 0.27X + 0.05 | 0.45X + 0.11
 Dimethyl phthalate | 0.73C + 0.17 | 0.26X + 0.14 | 0.44X + 0.31
 Di-n-octyl phthalate | 0.35C−0.71 | 0.38X + 0.71 | 0.62X + 0.34
-X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L.
-sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L.
-S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L.
-C = True value for the concentration, in µg/L.
-X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
-EC02JY92.015
-EC02JY92.016
+X ′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L. sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L. S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L. C = True value for the concentration, in µg/L. X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
 Method 607—Nitrosamines
 1. Scope and Application
 1.1 This method covers the determination of certain nitrosamines. The following parameters can be determined by this method:
@@ -1486,7 +1403,7 @@ Note: The frequency for the required analysis of a QC check standard will depend
 8.4.1 Prepare the QC check standard by adding 1.0 mL of QC check sample concentrate (Section 8.2.1 or 8.3.2) to 1 L of reagent water. The QC check standard needs only to contain the parameters that failed criteria in the test in Section 8.3.
 8.4.2 Analyze the QC check standard to determine the concentration measured (A) of each parameter. Calculate each percent recovery (Ps) as 100 (A/T)%, where T is the true value of the standard concentration.
 8.4.3 Compare the percent recovery (Ps) for each parameter with the corresponding QC acceptance criteria found in Table 2. Only parameters that failed the test in Section 8.3 need to be compared with these criteria. If the recovery of any such parameter falls outside the designated range, the laboratory performance for that parameter is judged to be out of control, and the problem must be immediately identified and corrected. The analytical result for that parameter in the unspiked sample is suspect and may not be reported for regulatory compliance purposes.
-8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P−2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
+8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P −2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
 8.6 It is recommended that the laboratory adopt additional quality assurance practices for use with this method. The specific practices that are most productive depend upon the needs of the laboratory and the nature of the samples. Field duplicates may be analyzed to assess the precision of the environmental measurements. When doubt exists over the identification of a peak on the chromatogram, confirmatory techniques such as gas chromatography with a dissimilar column, specific element detector, or mass spectrometer must be used. Whenever possible, the laboratory should analyze standard reference materials and participate in relevant performance evaluation studies.
 9. Sample Collection, Preservation, and Handling
 9.1 Grab samples must be collected in glass containers. Conventional sampling practices 19 should be followed, except that the bottle must not be prerinsed with sample before collection. Composite samples should be collected in refrigerated glass containers in accordance with the requirements of the program. Automatic sampling equipment must be as free as possible of Tygon tubing and other potential sources of contamination.
@@ -1531,7 +1448,6 @@ mL graduated cylinder. Record the sample volume to the nearest 5 mL.
 13. Calculations
 13.1 Determine the concentration of individual compounds in the sample.
 13.1.1 If the external standard calibration procedure is used, calculate the amount of material injected from the peak response using the calibration curve or calibration factor determined in Section 7.2.2. The concentration in the sample can be calculated from Equation 2.
-EC15NO91.105
 Equation 2
 where:
 A = Amount of material injected (ng).
@@ -1539,7 +1455,6 @@ Vi = Volume of extract injected (µL).
 Vt = Volume of total extract (µL).
 Vs = Volume of water extracted (mL).
 13.1.2 If the internal standard calibration procedure is used, calculate the concentration in the sample using the response factor (RF) determined in Section 7.3.2 and Equation 3.
-EC15NO91.106
 Equation 3
 where:
 As = Response for the parameter to be measured.
@@ -1576,37 +1491,24 @@ References
 22. "Method Detection Limit and Analytical Curve Studies EPA Methods 606, 607, and 608," Special letter report for EPA Contract 68-03-2606, U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268, June 1980.
 23. "EPA Method Study 17 Method 607—Nitrosamines," EPA 600/4-84-051, National Technical Information Service, PB84-207646, Springfield, Virginia 22161, June 1984.
 Table 1—Chromatographic Conditions and Method Detection Limits
-Parameter | Retention time (min) | Column 1 | Column 2 | Method detection limit (µg/L)
+Parameter | Retention time (min) | Method detection limit (µg/L)
+Column 1 | Column 2
 N-Nitrosodimethylamine | 4.1 | 0.88 | 0.15
 N-Nitrosodi-n-propylamine | 12.1 | 4.2 | .46
 N-Nitrosodiphenylamine a | b 12.8 | c 6.4 | .81
-Column 1 conditions: Chromosorb W-AW (80/100 mesh) coated with 10% Carbowax 20 M/2% KOH packed in a 1.8 m long × 4mm ID glass column with helium carrier gas at 40 mL/min flow rate. Column temperature held isothermal at 110 °C, except where otherwise indicated.
-Column 2 conditions: Supelcoport (100/120 mesh) coated with 10% SP-2250 packed in a 1.8 m long × 4 mm ID glass column with helium carrier gas at 40 mL/min flow rate. Column temperature held isothermal at 120 °C, except where otherwise indicated.
-a Measured as diphenylamine.
-b 220 °C column temperature.
-c 210 °C column temperature.
+Column 1 conditions: Chromosorb W-AW (80/100 mesh) coated with 10% Carbowax 20 M/2% KOH packed in a 1.8 m long × 4mm ID glass column with helium carrier gas at 40 mL/min flow rate. Column temperature held isothermal at 110 °C, except where otherwise indicated. Column 2 conditions: Supelcoport (100/120 mesh) coated with 10% SP-2250 packed in a 1.8 m long × 4 mm ID glass column with helium carrier gas at 40 mL/min flow rate. Column temperature held isothermal at 120 °C, except where otherwise indicated. a Measured as diphenylamine. b 220 °C column temperature. c 210 °C column temperature.
 Table 2—QC Acceptance Criteria—Method 607
 Parameter | Test conc. (µg/L) | Limit for s (µg/L) | Range for X (µg/L) | Range for P, Ps (percent)
 N-Nitrosodimethylamine | 20 | 3.4 | 4.6-20.0 | 13-109
 N-Nitrosodiphenyl | 20 | 6.1 | 2.1-24.5 | D-139
 N-Nitrosodi-n-propylamine | 20 | 5.7 | 11.5-26.8 | 45-146
-s = Standard deviation for four recovery measurements, in µg/L (Section 8.2.4).
-X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4).
-P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2).
-D = Detected; result must be greater than zero.
-Note: These criteria are based directly upon the method performance data in Table 3. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 3.
+s = Standard deviation for four recovery measurements, in µg/L (Section 8.2.4). X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4). P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2). D = Detected; result must be greater than zero. Note: These criteria are based directly upon the method performance data in Table 3. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 3.
 Table 3—Method Accuracy and Precision as Functions of Concentration—Method 607
 Parameter | Accuracy, as recovery, X′ (µg/L) | Single analyst precision, sr′ (µg/L) | Overall precision, S′ (µg/L)
-N-Nitrosodimethylamine | 0.37C + 0.06 | 0.25X−0.04 | 0.25X + 0.11
-N-Nitrosodiphenylamine | 0.64C + 0.52 | 0.36X−1.53 | 0.46X−0.47
+N-Nitrosodimethylamine | 0.37C + 0.06 | 0.25X −0.04 | 0.25X + 0.11
+N-Nitrosodiphenylamine | 0.64C + 0.52 | 0.36X −1.53 | 0.46X −0.47
 N-Nitrosodi-n-propylamine | 0.96C−0.07 | 0.15X + 0.13 | 0.21X + 0.15
-X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L.
-sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L.
-S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L.
-C = True value for the concentration, in µg/L.
-X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
-EC02JY92.017
-EC02JY92.018
+X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L. sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L. S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L. C = True value for the concentration, in µg/L. X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
 Method 608.3—Organochlorine Pesticides And PCBs By GC/HSD
 1. Scope and Application
 1.1 This method is for determination of organochlorine pesticides and polychlorinated biphenyls (PCBs) in industrial discharges and other environmental samples by gas chromatography (GC) combined with a halogen-specific detector (HSD; e.g., electron capture, electrolytic conductivity), as provided under 40 CFR 136.1. This revision is based on a previous protocol (Reference 1), on the revision promulgated October 26, 1984, on an inter-laboratory method validation study (Reference 2), and on EPA Method 1656 (Reference 16). The analytes that may be qualitatively and quantitatively determined using this method and their CAS Registry numbers are listed in Table 1.
@@ -1751,8 +1653,8 @@ Note: The standards and final sample extracts must be prepared in the same final
 6.8.1.1 Unless stated otherwise in this method, store non-aqueous standards in fluoropolymer-lined screw-cap, or heat-sealed, glass containers, in the dark at −20 to −10 °C. Store aqueous standards; e.g., the aqueous LCS (section 8.4), in the dark at ≤6 °C, but do not freeze.
 6.8.1.2 Standards prepared by the laboratory may be stored for up to one year, except when comparison with QC check standards indicates that a standard has degraded or become more concentrated due to evaporation, or unless the laboratory has data on file to prove stability for a longer period. Commercially prepared standards may be stored until the expiration date provided by the vendor, except when comparison with QC check standards indicates that a standard has degraded or become more concentrated due to evaporation, or unless the laboratory has data from the vendor on file to prove stability for a longer period.
 6.8.2 Calibration solutions—It is necessary to prepare calibration solutions for the analytes of interest (section 1.4) only using an appropriate solvent (isooctane or hexane may be used). Whatever solvent is used, both the calibration standards and the final sample extracts must use the same solvent. Other analytes may be included as desired.
-6.8.2.1 Prepare calibration standards for the single-component analytes of interest and surrogates at a minimum of three concentration levels (five are suggested) by adding appropriate volumes of one or more stock standards to volumetric flasks. One of the calibration standards should be at a concentration at or below the ML specified in Table 1, or 2, or as specified by a regulatory/control authority or in a permit. The ML value may be rounded to a whole number that is more convenient for preparing the standard, but must not exceed the ML value listed in Tables 1 or 2 for those analytes which list ML values. Alternatively, the laboratory may establish an ML for each analyte based on the concentration of the lowest calibration standard in a series of standards produced by the laboratory or obtained from a commercial vendor, again, provided that the ML does not exceed the ML in Table 1 and 2, and provided that the resulting calibration meets the acceptance criteria in section 7.5.2 based on the RSD, RSE, or R2.
-(a) The other concentrations should correspond to the expected range of concentrations found in real samples or should define the working range of the GC system. A minimum of six concentration levels is required for a second order, non-linear (e.g., quadratic; ax2 + bx + c = 0) calibration (section 7.5.2 or 7.6.2). Calibrations higher than second order are not allowed. A separate standard near the MDL may be analyzed as a check on sensitivity, but should not be included in the linearity assessment. The solvent for the standards must match the final solvent for the sample extracts (e.g., isooctane or hexane).
+6.8.2.1 Prepare calibration standards for the single-component analytes of interest and surrogates at a minimum of three concentration levels (five are suggested) by adding appropriate volumes of one or more stock standards to volumetric flasks. One of the calibration standards should be at a concentration at or below the ML specified in Table 1, or 2, or as specified by a regulatory/control authority or in a permit. The ML value may be rounded to a whole number that is more convenient for preparing the standard, but must not exceed the ML value listed in Tables 1 or 2 for those analytes which list ML values. Alternatively, the laboratory may establish an ML for each analyte based on the concentration of the lowest calibration standard in a series of standards produced by the laboratory or obtained from a commercial vendor, again, provided that the ML does not exceed the ML in Table 1 and 2, and provided that the resulting calibration meets the acceptance criteria in section 7.5.2 based on the RSD, RSE, or R 2.
+(a) The other concentrations should correspond to the expected range of concentrations found in real samples or should define the working range of the GC system. A minimum of six concentration levels is required for a second order, non-linear (e.g., quadratic; ax 2 + bx + c = 0) calibration (section 7.5.2 or 7.6.2). Calibrations higher than second order are not allowed. A separate standard near the MDL may be analyzed as a check on sensitivity, but should not be included in the linearity assessment. The solvent for the standards must match the final solvent for the sample extracts (e.g., isooctane or hexane).
 Note: The option for non-linear calibration may be necessary to address specific instrumental techniques. However, it is not EPA's intent to allow non-linear calibration to be used to compensate for detector saturation or to avoid proper instrument maintenance.
 (b) Given the number of analytes included in this method, it is highly likely that some will coelute on one or both of the GC columns used for the analysis. Divide the analytes into two or more groups and prepare separate calibration standards for each group, at multiple concentrations (e.g., a five-point calibration will require ten solutions to cover two groups of analytes). Table 7 provides information on dividing the target analytes into separate calibration mixtures that should minimize or eliminate co-elutions. This table is provided solely as guidance, based on the GC columns suggested in this method. If an analyte listed in Table 7 is not an analyte of interest in a given laboratory setting, then it need not be included in a calibration mixture.
 Note: Many commercially available standards are divided into separate mixtures to address this issue.
@@ -1774,16 +1676,14 @@ Note: Some commercially available standards are divided into separate mixtures t
 7.4 For each analyte, compute, record, and store, as a function of the concentration injected, the retention time and peak area on each column/detector system. If multi-component analytes are to be analyzed, store the retention time and peak area for the three to five exclusive (unique large) peaks for each PCB or technical chlordane. Use four to six peaks for toxaphene.
 7.5 External standard calibration.
 7.5.1 From the calibration data (Section 7.4), calculate the calibration factor (CF) for each analyte at each concentration according to the following equation:
-ER28AU17.000
 Where:
 Cs = Concentration of the analyte in the standard (ng/mL)
 As = Peak height or area
 For multi-component analytes, choose a series of characteristic peaks for each analyte (3 to 5 for each Aroclor, 4 to 6 for toxaphene) and calculate individual calibration factors for each peak. Alternatively, for toxaphene, sum the areas of all of the peaks in the standard chromatogram and use the summed area to determine the calibration factor. (If this alternative is used, the same approach must be used to quantitate the analyte in the samples.)
-7.5.2 Calculate the mean (average) and relative standard deviation (RSD) of the calibration factors. If the RSD is less than 20%, linearity through the origin can be assumed and the average CF can be used for calculations. Alternatively, the results can be used to fit a linear or quadratic regression of response, As, vs. concentration Cs. If used, the regression must be weighted inversely proportional to concentration. The coefficient of determination (R2) of the weighted regression must be greater than 0.920. Alternatively, the relative standard error (Reference 10) may be used as an acceptance criterion. As with the RSD, the RSE must be less than 20%. If an RSE less than 20% cannot be achieved for a quadratic regression, system performance is unacceptable and the system must be adjusted and re-calibrated.
+7.5.2 Calculate the mean (average) and relative standard deviation (RSD) of the calibration factors. If the RSD is less than 20%, linearity through the origin can be assumed and the average CF can be used for calculations. Alternatively, the results can be used to fit a linear or quadratic regression of response, As, vs. concentration Cs. If used, the regression must be weighted inversely proportional to concentration. The coefficient of determination (R 2) of the weighted regression must be greater than 0.920. Alternatively, the relative standard error (Reference 10) may be used as an acceptance criterion. As with the RSD, the RSE must be less than 20%. If an RSE less than 20% cannot be achieved for a quadratic regression, system performance is unacceptable and the system must be adjusted and re-calibrated.
 Note: Regression calculations are not included in this method because the calculations are cumbersome and because many GC/ECD data systems allow selection of weighted regression for calibration and calculation of analyte concentrations.
 7.6 Internal standard calibration.
 7.6.1 From the calibration data (Section 7.4), calculate the response factor (RF) for each analyte at each concentration according to the following equation:
-ER28AU17.001
 Where:
 As = Response for the analyte to be measured.
 Ais = Response for the internal standard.
@@ -1861,10 +1761,8 @@ Note: To maintain the validity of the test and re-test, system maintenance and/o
 8.3 Matrix spike and matrix spike duplicate (MS/MSD)—The purpose of the MS/MSD requirement is to provide data that demonstrate the effectiveness of the method as applied to the samples in question by a given laboratory, and both the data user (discharger, permittee, regulated entity, regulatory/control authority, customer, other) and the laboratory share responsibility for provision of such data. The data user should identify the sample and the analytes of interest (section 1.4) to be spiked and provide sufficient sample volume to perform MS/MSD analyses. The laboratory must, on an ongoing basis, spike at least 5% of the samples in duplicate from each discharge being monitored to assess accuracy (recovery and precision). If direction cannot be obtained from the data user, the laboratory must spike at least one sample in duplicate per extraction batch of up to 20 samples with the analytes in Table 1. Spiked sample results should be reported only to the data user whose sample was spiked, or as requested or required by a regulatory/control authority, or in a permit.
 8.3.1. If, as in compliance monitoring, the concentration of a specific analyte will be checked against a regulatory concentration limit, the concentration of the spike should be at that limit; otherwise, the concentration of the spike should be one to five times higher than the background concentration determined in section 8.3.2, at or near the midpoint of the calibration range, or at the concentration in the LCS (section 8.4) whichever concentration would be larger. When no information is available, the mid-point of the calibration may be used.
 8.3.2 Analyze one sample aliquot to determine the background concentration (B) of the each analyte of interest. If necessary to meet the requirement in section 8.3.1, prepare a new check sample concentrate (section 8.2.1) appropriate for the background concentration. Spike and analyze two additional sample aliquots of the same volume as the original sample, and determine the concentrations after spiking (A1 and A2) of each analyte. Calculate the percent recoveries (P1 and P2) as:
-ER28AU17.002
 where T is the known true value of the spike.
 Also calculate the relative percent difference (RPD) between the concentrations (A1 and A2):
-ER28AU17.003
 8.3.3 Compare the percent recoveries (P1 and P2) and the RPD for each analyte in the MS/MSD aliquots with the corresponding QC acceptance criteria for recovery (P) and RPD in Table 4.
 (a) If any individual P falls outside the designated range for recovery in either aliquot, or the RPD limit is exceeded, the result for the analyte in the unspiked sample is suspect and may not be reported or used for permitting or regulatory compliance. See section 8.1.7 for disposition of failures.
 (b) For analytes in Table 2 not listed in Table 4, QC acceptance criteria must be developed by the laboratory. EPA has provided guidance for development of QC acceptance criteria (References 12 and 13).
@@ -1872,7 +1770,6 @@ ER28AU17.003
 8.4 Laboratory control sample (LCS)—A QC check sample (laboratory control sample, LCS; on-going precision and recovery sample, OPR) containing each single-component analyte of interest (section 1.4) must be extracted, concentrated, and analyzed with each extraction batch of up to 20 samples (section 3.1) to demonstrate acceptable recovery of the analytes of interest from a clean sample matrix. If multi-peak analytes are required, extract and prepare at least one as an LCS for each batch. Alternatively, the laboratory may set up a program where multi-peak LCS is rotated with a single-peak LCS.
 8.4.1 Prepare the LCS by adding QC check sample concentrate (sections 6.8.3 and 8.2.1) to reagent water. Include all analytes of interest (section 1.4) in the LCS. The volume of reagent water must be the same as the nominal volume used for the sample, the DOC (Section 8.2), the blank (section 8.5), and the MS/MSD (section 8.3). Also add a volume of the surrogate solution (section 6.8.6).
 8.4.2 Analyze the LCS prior to analysis of samples in the extraction batch (Section 3.1). Determine the concentration (A) of each analyte. Calculate the percent recovery as:
-ER28AU17.004
 where T is the true value of the concentration in the LCS.
 8.4.3 For each analyte, compare the percent recovery (P) with its corresponding QC acceptance criterion in Table 4. For analytes of interest in Table 2 not listed in Table 4, use the QC acceptance criteria developed for the MS/MSD (section 8.3.3.2), or limits based on laboratory control charts. If the recoveries for all analytes of interest fall within the designated ranges, analysis of blanks and field samples may proceed. If any individual recovery falls outside the range, proceed according to section 8.4.4.
 Note: The large number of analytes in Tables 1 and 2 present a substantial probability that one or more will fail the acceptance criteria when all analytes are tested simultaneously. Because a re-test is allowed in event of failure (sections 8.1.7 and 8.4.4), it may be prudent to extract and analyze two LCSs together and evaluate results of the second analysis against the QC acceptance criteria only if an analyte fails the first test.
@@ -1996,7 +1893,6 @@ Note: If using other GC columns or stationary phases, these resolution criteria 
 13.5 Decomposition of DDT and endrin—If DDT, endrin, or their breakdown products are to be determined, this test must be performed prior to calibration verification (section 13.6). DDT decomposes to DDE and DDD. Endrin decomposes to endrin aldehyde and endrin ketone.
 13.5.1 Inject 1 µL of the DDT and endrin decomposition solution (section 6.8.7). As noted in section 6.8.7, other injection volumes may be used as long as the concentrations of DDT and endrin in the solution are adjusted to introduce the masses of the two analytes into the instrument that are listed in section 6.8.7.
 13.5.2 Measure the areas of the peaks for DDT, DDE, DDD, endrin, endrin aldehyde, and endrin ketone in the chromatogram and calculate the percent breakdown as shown in the equations below:
-ER28AU17.005
 13.5.3 Both the % breakdown of DDT and of endrin must be less than 20%, otherwise the system is not performing acceptably for DDT and endrin. In this case, repair the GC column system that failed and repeat the performance tests (sections 13.2 to 13.6) until the specification is met.
 Note: DDT and endrin decomposition are usually caused by accumulations of particulates in the injector and in the front end of the column. Cleaning and silanizing the injection port liner, and breaking off a short section of the front end of the column will usually eliminate the decomposition problem. Either of these corrective actions may affect retention times, GC resolution, and calibration linearity.
 13.6 Calibration verification.
@@ -2026,13 +1922,11 @@ Note: Procedures for establishing retention time windows from other sources may 
 14.5.3 If the RT for the analyte is shifted slightly later on one column and earlier on the other, and the surrogates have not shifted, it is highly unlikely that the analyte is present, because shifts nearly always occur in the same direction on both columns.
 15. Quantitative Determination
 15.1 External standard quantitation—Calculate the concentration of the analyte in the extract using the calibration curve or average calibration factor determined in calibration (section 7.5.2) and the following equation:
-ER28AU17.006
 where:
 Cex = Concentration of the analyte in the extract (ng/mL)
 As = Peak height or area for the analyte in the standard or sample
 CF = Calibration factor, as defined in Section 7.5.1
 15.2 Internal standard quantitation—Calculate the concentration of the analyte in the extract using the calibration curve or average response factor determined in calibration (section 7.6.2) and the following equation:
-ER28AU17.007
 where:
 Cex = Concentration of the analyte in the extract (ng/mL)
 As = Peak height or area for the analyte in the standard or sample
@@ -2040,7 +1934,6 @@ Cis = Concentration of the internal standard (ng/mL)
 Ais = Area of the internal standard
 RF = Response factor, as defined in section 7.6.1
 15.3 Calculate the concentration of the analyte in the sample using the concentration in the extract, the extract volume, the sample volume, and the dilution factor, per the following equation:
-ER28AU17.008
 where:
 Cs = Concentration of the analyte in the sample (µg/L)
 Vex = Final extract volume (mL)
@@ -2063,7 +1956,6 @@ and the factor of 1,000 in the denominator converts the final units from ng/L to
 Note: Dichlone and kepone do not elute from the DB-1701 column and must be confirmed on a DB-5 column, or by GC/MS.
 15.7 Quantitative information that may aid in the confirmation of the presence of an analyte.
 15.7.1 As noted in Section 14.3, the relative agreement between the numerical results from the two GC columns may be used to support the identification of the target analyte by providing evidence that co-eluting interferences are not present at the retention time of the target analyte. Calculate the percent difference (%D) between the results for the analyte from both columns, as follows:
-ER28AU17.009
 In general, if the %D of the two results is less than 50% (e.g., a factor of 2), then the pesticide is present. This %D is generous and allows for the pesticide that has the largest measurement error.
 Note: Laboratories may employ metrics less than 50% for this comparison, including those specified in other analytical methods for these pesticides (e.g., CLP or SW-846).
 15.7.2 If the amounts do not agree, and the RT data indicate the presence of the analyte (per Section 14), it is likely that a positive interference is present on the column that yielded the higher result. That interferent may be represented by a separate peak on the other column that does not coincide with the retention time of any of the target analytes. If the interfering peak is evident on the other column, report the result from that column and advise the data user that the interference resulted in a %D value greater than 50%. If an interferent is not identifiable on the second column, then the results must be reported as "not detected" at the lower concentration. In this event, the pesticide is not confirmed and the reporting limit is elevated. See section 8.1.7 for disposition of problem results.
@@ -2128,86 +2020,81 @@ Endrin | 72-20-8 | 6 | 18
 Endrin aldehyde | 7421-93-4 | 23 | 70
 Heptachlor | 76-44-8 | 3 | 9
 Heptachlor epoxide | 1024-57-3 | 83 | 249
-1 All analytes in this table are Priority Pollutants (40 CFR part 423, appendix A).
-2 40 CFR part 136, appendix B, June 30, 1986.
-3 ML = Minimum Level—see Glossary for definition and derivation, calculated as 3 times the MDL.
-4 MDL based on the MDL for Chlordane.
+1 All analytes in this table are Priority Pollutants (40 CFR part 423, appendix A). 2 40 CFR part 136, appendix B, June 30, 1986. 3 ML = Minimum Level—see Glossary for definition and derivation, calculated as 3 times the MDL. 4 MDL based on the MDL for Chlordane.
 Table 2—Additional Analytes
 Analyte | CAS No. | MDL 3 (ng/L) | ML 4 (ng/L)
-Acephate | 30560-19-1
-Alachlor | 15972-60-8
-Atrazine | 1912-24-9
-Benfluralin (Benefin) | 1861-40-1
-Bromacil | 314-40-9
-Bromoxynil octanoate | 1689-99-2
-Butachlor | 23184-66-9
-Captafol | 2425-06-1
-Captan | 133-06-2
-Carbophenothion (Trithion) | 786-19-6
-Chlorobenzilate | 510-15-6
-Chloroneb (Terraneb) | 2675-77-6
-Chloropropylate (Acaralate) | 5836-10-2
-Chlorothalonil | 1897-45-6
-Cyanazine | 21725-46-2
-DCPA (Dacthal) | 1861-32-1
-2,4′-DDD | 53-19-0
-2,4′-DDE | 3424-82-6
-2,4′-DDT | 789-02-6
-Diallate (Avadex) | 2303-16-4
-1,2-Dibromo-3-chloropropane (DBCP) | 96-12-8
-Dichlone | 117-80-6
-Dichloran | 99-30-9
-Dicofol | 115-32-2
-Endrin ketone | 53494-70-5
-Ethalfluralin (Sonalan) | 55283-68-6
-Etridiazole | 2593-15-9
-Fenarimol (Rubigan) | 60168-88-9
-Hexachlorobenzene 1 | 118-74-1
-Hexachlorocyclopentadiene 1 | 77-47-4
-Isodrin | 465-73-6
-Isopropalin (Paarlan) | 33820-53-0
-Kepone | 143-50-0
-Methoxychlor | 72-43-5
-Metolachlor | 51218-45-2
-Metribuzin | 21087-64-9
-Mirex | 2385-85-5
-Nitrofen (TOK) | 1836-75-5
-cis-Nonachlor | 5103-73-1
-trans-Nonachlor | 39765-80-5
-Norfluorazon | 27314-13-2
-Octachlorostyrene | 29082-74-4
-Oxychlordane | 27304-13-8
-PCNB (Pentachloronitrobenzene) | 82-68-8
-Pendamethalin (Prowl) | 40487-42-1
-cis-Permethrin | 61949-76-6
-trans-Permethrin | 61949-77-7
-Perthane (Ethylan) | 72-56-0
-Propachlor | 1918-16-7
-Propanil | 709-98-8
-Propazine | 139-40-2
-Quintozene | 82-68-8
-Simazine | 122-34-9
-Strobane | 8001-50-1
-Technazene | 117-18-0
-Technical Chlordane 2 |
-Terbacil | 5902-51-2
-Terbuthylazine | 5915-41-3
+Acephate | 30560-19-1 | |
+Alachlor | 15972-60-8 | |
+Atrazine | 1912-24-9 | |
+Benfluralin (Benefin) | 1861-40-1 | |
+Bromacil | 314-40-9 | |
+Bromoxynil octanoate | 1689-99-2 | |
+Butachlor | 23184-66-9 | |
+Captafol | 2425-06-1 | |
+Captan | 133-06-2 | |
+Carbophenothion (Trithion) | 786-19-6 | |
+Chlorobenzilate | 510-15-6 | |
+Chloroneb (Terraneb) | 2675-77-6 | |
+Chloropropylate (Acaralate) | 5836-10-2 | |
+Chlorothalonil | 1897-45-6 | |
+Cyanazine | 21725-46-2 | |
+DCPA (Dacthal) | 1861-32-1 | |
+2,4′-DDD | 53-19-0 | |
+2,4′-DDE | 3424-82-6 | |
+2,4′-DDT | 789-02-6 | |
+Diallate (Avadex) | 2303-16-4 | |
+1,2-Dibromo-3-chloropropane (DBCP) | 96-12-8 | |
+Dichlone | 117-80-6 | |
+Dichloran | 99-30-9 | |
+Dicofol | 115-32-2 | |
+Endrin ketone | 53494-70-5 | |
+Ethalfluralin (Sonalan) | 55283-68-6 | |
+Etridiazole | 2593-15-9 | |
+Fenarimol (Rubigan) | 60168-88-9 | |
+Hexachlorobenzene 1 | 118-74-1 | |
+Hexachlorocyclopentadiene 1 | 77-47-4 | |
+Isodrin | 465-73-6 | |
+Isopropalin (Paarlan) | 33820-53-0 | |
+Kepone | 143-50-0 | |
+Methoxychlor | 72-43-5 | |
+Metolachlor | 51218-45-2 | |
+Metribuzin | 21087-64-9 | |
+Mirex | 2385-85-5 | |
+Nitrofen (TOK) | 1836-75-5 | |
+cis-Nonachlor | 5103-73-1 | |
+trans-Nonachlor | 39765-80-5 | |
+Norfluorazon | 27314-13-2 | |
+Octachlorostyrene | 29082-74-4 | |
+Oxychlordane | 27304-13-8 | |
+PCNB (Pentachloronitrobenzene) | 82-68-8 | |
+Pendamethalin (Prowl) | 40487-42-1 | |
+cis-Permethrin | 61949-76-6 | |
+trans-Permethrin | 61949-77-7 | |
+Perthane (Ethylan) | 72-56-0 | |
+Propachlor | 1918-16-7 | |
+Propanil | 709-98-8 | |
+Propazine | 139-40-2 | |
+Quintozene | 82-68-8 | |
+Simazine | 122-34-9 | |
+Strobane | 8001-50-1 | |
+Technazene | 117-18-0 | |
+Technical Chlordane 2 | | |
+Terbacil | 5902-51-2 | |
+Terbuthylazine | 5915-41-3 | |
 Toxaphene 1 | 8001-35-2 | 240 | 720
-Trifluralin | 1582-09-8
-PCB-1016 1 | 12674-11-2
-PCB-1221 1 | 11104-28-2
-PCB-1232 1 | 11141-16-5
+Trifluralin | 1582-09-8 | |
+PCB-1016 1 | 12674-11-2 | |
+PCB-1221 1 | 11104-28-2 | |
+PCB-1232 1 | 11141-16-5 | |
 PCB-1242 1 | 53469-21-9 | 65 | 95
-PCB-1248 1 | 12672-29-6
-PCB-1254 1 | 11097-69-1
-PCB-1260 1 | 11096-82-5
-PCB-1268 | 11100-14-4
-1 Priority Pollutants (40 CFR part 423, appendix A).
-2 Technical Chlordane may be used in cases where historical reporting has only been for this form of Chlordane.
-3 40 CFR part 136, appendix B, June 30, 1986.
-4 ML = Minimum Level—see Glossary for definition and derivation, calculated as 3 times the MDL.
+PCB-1248 1 | 12672-29-6 | |
+PCB-1254 1 | 11097-69-1 | |
+PCB-1260 1 | 11096-82-5 | |
+PCB-1268 | 11100-14-4 | |
+1 Priority Pollutants (40 CFR part 423, appendix A). 2 Technical Chlordane may be used in cases where historical reporting has only been for this form of Chlordane. 3 40 CFR part 136, appendix B, June 30, 1986. 4 ML = Minimum Level—see Glossary for definition and derivation, calculated as 3 times the MDL.
 Table 3—Example Retention Times 1
-Analyte | Retention time(min) 2 | DB-608 | DB-1701
+Analyte | Retention time (min) 2
+DB-608 | DB-1701
 Acephate | 5.03 | (3)
 Trifluralin | 5.16 | 6.79
 Ethalfluralin | 5.28 | 6.49
@@ -2263,12 +2150,12 @@ Endrin ketone | 23.00 | 21.79
 Fenarimol | 24.53 | 23.79
 cis-Permethrin | 25.00 | 23.59
 trans-Permethrin | 25.62 | 23.92
-PCB-1016
-PCB-1221
-PCB-1232
-PCB-1242
-PCB-1248
-PCB-1254
+PCB-1016 | |
+PCB-1221 | |
+PCB-1232 | |
+PCB-1242 | |
+PCB-1248 | |
+PCB-1254 | |
 PCB-1260 (5 peaks) | 15.44 | 14.64
 | 15.73 | 15.36
 | 16.94 | 16.53
@@ -2279,15 +2166,9 @@ Toxaphene (5 peaks) | 16.60 | 16.60
 | 18.11 | 17.92
 | 19.46 | 18.73
 | 19.69 | 19.00
-1 Data from EPA Method 1656 (Reference 16).
-2 Columns: 30-m long x 0.53-mm ID fused-silica capillary; DB-608, 0.83 µm; and DB-1701, 1.0 µm.
-Conditions suggested to meet retention times shown: 150 °C for 0.5 minute, 150-270 °C at 5 °C/min, and 270 °C until trans-Permethrin elutes.
-Carrier gas flow rates approximately 7 mL/min.
-3 Does not elute from DB-1701 column at level tested.
-4 Not recovered from water at the levels tested.
-5 Dichlone and Kepone do not elute from the DB-1701 column and should be confirmed on DB-5.
+1 Data from EPA Method 1656 (Reference 16). 2 Columns: 30-m long x 0.53-mm ID fused-silica capillary; DB-608, 0.83 µm; and DB-1701, 1.0 µm. Conditions suggested to meet retention times shown: 150 °C for 0.5 minute, 150-270 °C at 5 °C/min, and 270 °C until trans-Permethrin elutes. Carrier gas flow rates approximately 7 mL/min. 3 Does not elute from DB-1701 column at level tested. 4 Not recovered from water at the levels tested. 5 Dichlone and Kepone do not elute from the DB-1701 column and should be confirmed on DB-5.
 Table 4—QC Acceptance Criteria
-Analyte | Calibration verification(%) | Testconcentration (µg/L) | Limit for s(% SD) | Range for X (%) | Range for P(%) | MaximumMS/MSD RPD (%)
+Analyte | Calibration verification (%) | Test concentration (µg/L) | Limit for s (% SD) | Range for X (%) | Range for P (%) | Maximum MS/MSD RPD (%)
 Aldrin | 75-125 | 2.0 | 25 | 54-130 | 42-140 | 35
 alpha-BHC | 69-125 | 2.0 | 28 | 49-130 | 37-140 | 36
 beta-BHC | 75-125 | 2.0 | 38 | 39-130 | 17-147 | 44
@@ -2313,12 +2194,9 @@ PCB-1242 | 75-125 | 50.0 | 26 | 50-139 | 39-150 | 29
 PCB-1248 | 75-125 | 50.0 | 32 | 58-140 | 38-158 | 35
 PCB-1254 | 75-125 | 50.0 | 34 | 44-130 | 29-140 | 45
 PCB-1260 | 75-125 | 50.0 | 28 | 37-130 | 8-140 | 38
-S = Standard deviation of four recovery measurements for the DOC (section 8.2.4).
-X = Average of four recovery measurements for the DOC (section 8.2.4).
-P = Recovery for the LCS (section 8.4.3).
-Note: These criteria were developed from data in Table 5 (Reference 2). Where necessary, limits for recovery have been broadened to assure applicability to concentrations below those in Table 5.
+S = Standard deviation of four recovery measurements for the DOC (section 8.2.4). X = Average of four recovery measurements for the DOC (section 8.2.4). P = Recovery for the LCS (section 8.4.3). Note: These criteria were developed from data in Table 5 (Reference 2). Where necessary, limits for recovery have been broadened to assure applicability to concentrations below those in Table 5.
 Table 5—Precision and Recovery as Functions of Concentration
-Analyte | Recovery, X′(µg/L) | Single analystprecision, sr′ (µg/L) | Overallprecision, S′ (µg/L)
+Analyte | Recovery, X′ (µg/L) | Single analyst precision, sr′ (µg/L) | Overall precision, S′ (µg/L)
 Aldrin | 0.81C + 0.04 | 0.16(X) − 0.04 | 0.20(X) − 0.01
 alpha-BHC | 0.84C + 0.03 | 0.13(X) + 0.04 | 0.23(X) − 0.00
 beta-BHC | 0.81C + 0.07 | 0.22(X) − 0.02 | 0.33(X) − 0.05
@@ -2345,36 +2223,34 @@ PCB-1254 | 0.76C + 2.07 | 0.15(X) + 1.66 | 0.17(X) + 3.62
 PCB-1260 | 0.66C + 3.76 | 0.22(X) − 2.37 | 0.39(X) − 4.86
 X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L.
 Table 6—Distribution of Chlorinated Pesticides and PCBs Into Florisil® Column Fractions
-Analyte | Percent Recovery by Fraction 1 | 1 | 2 | 3
-Aldrin | 100
-alpha-BHC | 100
-beta-BHC | 97
-delta-BHC | 98
-gamma-BHC (Lindane) | 100
-Chlordane | 100
-4,4′-DDD | 99
-4,4′-DDE | | 98
-4,4′-DDT | 100
-Dieldrin | 0 | 100
-Endosulfan I | 37 | 64
+Analyte | Percent Recovery by Fraction 1
+1 | 2 | 3
+Aldrin | 100 | |
+alpha-BHC | 100 | |
+beta-BHC | 97 | |
+delta-BHC | 98 | |
+gamma-BHC (Lindane) | 100 | |
+Chlordane | 100 | |
+4,4′-DDD | 99 | |
+4,4′-DDE | | 98 |
+4,4′-DDT | 100 | |
+Dieldrin | 0 | 100 |
+Endosulfan I | 37 | 64 |
 Endosulfan II | 0 | 7 | 91
 Endosulfan sulfate | 0 | 0 | 106
-Endrin | 4 | 96
+Endrin | 4 | 96 |
 Endrin aldehyde | 0 | 68 | 26
-Heptachlor | 100
-Heptachlor epoxide | 100
-Toxaphene | 96
-PCB-1016 | 97
-PCB-1221 | 97
-PCB-1232 | 95 | 4
-PCB-1242 | 97
-PCB-1248 | 103
-PCB-1254 | 90
-PCB-1260\
-1 Eluant composition:
-Fraction 1—6% ethyl ether in hexane.
-Fraction 2—15% ethyl ether in hexane.
-Fraction 3—50% ethyl ether in hexane.
+Heptachlor | 100 | |
+Heptachlor epoxide | 100 | |
+Toxaphene | 96 | |
+PCB-1016 | 97 | |
+PCB-1221 | 97 | |
+PCB-1232 | 95 | 4 |
+PCB-1242 | 97 | |
+PCB-1248 | 103 | |
+PCB-1254 | 90 | |
+PCB-1260 | | |
+1 Eluant composition: Fraction 1—6% ethyl ether in hexane. Fraction 2—15% ethyl ether in hexane. Fraction 3—50% ethyl ether in hexane.
 Table 7—Suggested Calibration Groups 1
 Analyte
 Calibration Group 1:
@@ -2448,8 +2324,6 @@ Propanil
 Propazine
 1 The analytes may be organized in other calibration groups, provided that there are no coelution problems and that all QC requirements are met.
 22. Figures
-ER28AU17.010
-ER28AU17.011
 23. Glossary
 These definitions and purposes are specific to this method but have been conformed to common usage to the extent possible.
 23.1 Units of weight and measure and their abbreviations.
@@ -2581,7 +2455,6 @@ Nitrobenzene | 34447 | 98-95-3
 7.3.1 Prepare calibration standards at a minimum of three concentration levels for each parameter of interest by adding volumes of one or more stock standards to a volumetric flash. To each calibration standard, add a known constant amount of one or more internal standards, and dilute to volume with hexane. One of the standards should be at a concentration near, but above, the MDL and the other concentrations should correspond to the expected range of concentrations found in real samples or should define the working range of the detector.
 7.3.2 Using injections of 2 to 5 µL, analyze each calibration standard according to Section 12 and tabulate peak height or area responses against concentration for each compound and internal standard. Calculate response factors (RF) for each compound using Equation 1.
 Equation 1.
-EC15NO91.110
 where:
 As = Response for the parameter to be measured.
 Ais = Response for the internal standard.
@@ -2610,14 +2483,14 @@ If the RF value over the working range is a constant (<10% RSD), the RF can be a
 8.3.1.2 If the concentration of a specific parameter in the sample is not being checked against a limit specific to that parameter, the spike should be at the test concentration in Section 8.2.2 or 1 to 5 times higher than the background concentration determined in Section 8.3.2, whichever concentration would be larger.
 8.3.1.3 If it is impractical to determile background levels before spiking (e.g., maximum holding times will be exceeded), the spike concentration should be (1) the regulatory concentration limit, if any; or, if none (2) the larger of either 5 times higher than the expected background concentration or the test concentration in Section 8.2.2.
 8.3.2 Analyze one sample aliquot to determine the background concentration (B) of each parameter. If necessary, prepare a new QC check sample concentrate (Section 8.2.1) appropriate for the background concentrations in the sample. Spike a second sample aliquot with 1.0 mL of the QC check sample concentrate and analyze it to determine the concentration after spiking (A) of each parameter. Calculate each percent recovery (P) as 100 (A−B)%/T, where T is the known true value of the spike.
-8.3.3 Compare the percent recovery (P) for each parameter with the corresponding QC acceptance criteria found in Table 2. These acceptance criteria were calculated to include an allowance for error in measurement of both the background and spike concentrations, assuming a spike to background ratio of 5:1. This error will be accounted for to the extent that the analyst's spike to background ratio approaches 5:1. 7 If spiking was performed at a concentration lower than the test concentration in Section 8.2.2, the analyst must use either the QC acceptance criteria in Table 2, or optional QC acceptance criteria calculated for the specific spike concentration. To calculate optional acceptance criteria for the recovery of a parameter: (1) Calculate accuracy (X′) using the equation in Table 3, substituting the spike concentration (T) for C; (2) calculate overall precision (S′) using the equation in Table 3, substituting X′ for X8; (3) calculate the range for recovery at the spike concentration as (100 X′/T) ±2.44 (100 S′/T)%. 7
+8.3.3 Compare the percent recovery (P) for each parameter with the corresponding QC acceptance criteria found in Table 2. These acceptance criteria were calculated to include an allowance for error in measurement of both the background and spike concentrations, assuming a spike to background ratio of 5:1. This error will be accounted for to the extent that the analyst's spike to background ratio approaches 5:1. 7 If spiking was performed at a concentration lower than the test concentration in Section 8.2.2, the analyst must use either the QC acceptance criteria in Table 2, or optional QC acceptance criteria calculated for the specific spike concentration. To calculate optional acceptance criteria for the recovery of a parameter: (1) Calculate accuracy (X′) using the equation in Table 3, substituting the spike concentration (T) for C; (2) calculate overall precision (S′) using the equation in Table 3, substituting X′ for X 8; (3) calculate the range for recovery at the spike concentration as (100 X′/T) ±2.44 (100 S′/T)%. 7
 8.3.4 If any individual P falls outside the designated range for recovery, that parameter has failed the acceptance criteria. A check standard containing each parameter that failed the criteria must be analyzed as described in Section 8.4.
 8.4. If any parameter fails the acceptance criteria for recovery in Section 8.3, a QC check standard containing each parameter that failed must be prepared and analyzed.
 Note: The frequency for the required analysis of a QC check standard will depend upon the number of parameters being simultaneously tested, the complexity of the sample matrix, and the performance of the laboratory.
 8.4.1 Prepare the QC check standard by adding 1.0 mL of QC check sample concentrate (Section 8.2.1 or 8.3.2) to 1 L of reagent water. The QC check standard needs only to contain the parameters that failed criteria in the test in Section 8.3.
 8.4.2 Analyze the QC check standard to determine the concentration measured (A) of each parameter. Calculate each percent recovery (Ps) as 100 (A/T)%, where T is the true value of the standard concentration.
 8.4.3 Compare the percent recovery (Ps) for each parameter with the corresponding QC acceptance criteria found in Table 2. Only parameters that failed the test in Section 8.3 need to be compared with these criteria. If the recovery of any such parameter falls outside the designated range, the laboratory performance for that parameter is judged to be out of control, and the problem must be immediately identified and corrected. The analytical result for that parameter in the unspiked sample is suspect and may not be reported for regulatory compliance purposes.
-8.5 As part of QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P−2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
+8.5 As part of QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P −2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
 8.6 It is recommended that the laboratory adopt additional quality assurance practices for use with this method. The specific practices that are most productive depend upon the needs of the laboratory and the nature of the samples. Field duplicates may be analyzed to assess the precision of the environmental measurements. When doubt exists over the identification of a peak on the chromatogram, confirmatory techniques such as gas chromatography with a dissimilar column, specific element detector, or mass spectrometer must be used. Whenever possible, the laboratory should analyze standard reference materials and participate in relevant performance evaluation studies.
 9. Sample Collection, Preservation, and Handling
 9.1 Grab samples must be collected in glass containers. Conventional sampling practices 8 should be followed, except that the bottle must not be prerinsed with sample before collection. Composite samples should be collected in refrigerated glass containers in accordance with the requirements of the program. Automatic sampling equipment must be as free as possible of Tygon tubing and other potential sources of contamination.
@@ -2651,7 +2524,6 @@ Note: The frequency for the required analysis of a QC check standard will depend
 13. Calculations
 13.1 Determine the concentration of individual compounds in the sample.
 13.1.1 If the external standard calibration procedure is used, calculate the amount of material injected from the peak response using the calibration curve or calibration factor determined in Section 7.2.2. The concentration in the sample can be calculated from Equation 2.
-EC15NO91.111
 Equation 2
 where:
 A = Amount of material injected (ng).
@@ -2659,7 +2531,6 @@ Vi = Volume of extract injected (µL).
 Vt = Volume of total extract (µL).
 Vs = Volume of water extracted (mL).
 13.1.2 If the internal standard calibration procedure is used, calculate the concentration in the sample using the response factor (RF) determined in Section 7.3.2 and Equation 3.
-EC15NO91.112
 Equation 3
 where:
 As = Response for the parameter to be measured.
@@ -2684,39 +2555,29 @@ References
 10. "Determination of Method Detection Limit and Analytical Curve for EPA Method 609—Nitroaromatics and Isophorone," Special letter report for EPA Contract 68-03-2624, U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268, June 1980.
 11. "EPA Method Study 19, Method 609 (Nitroaromatics and Isophorone)," EPA 600/4-84-018, National Technical Information Service, PB84-176908, Springfield, Virginia 22161, March 1984.
 Table 1—Chromatographic Conditions and Method Detection Limits
-Parameter | Retention time (min) | Col. 1 | Col. 2 | Method detection limit (µg/L) | ECDGC | FIDGC
+Parameter | Retention time (min) | Method detection limit (µg/L)
+Col. 1 | Col. 2 | ECDGC | FIDGC
 Nitrobenzene | 3.31 | 4.31 | 13.7 | 3.6
 2,6-Dinitrotoluene | 3.52 | 4.75 | 0.01 | −
 Isophorone | 4.49 | 5.72 | 15.7 | 5.7
 2,4-Dinitrotoluene | 5.35 | 6.54 | 0.02 | −
-Column 1 conditions: Gas-Chrom Q (80/100 mesh) coated with 1.95% QF-1/1.5% OV-17 packed in a 1.2 m long × 2 mm or 4 mm ID glass column. A 2 mm ID column and nitrogen carrier gas at 44 mL/min flow rate were used when determining isophorone and nitrobenzene by FIDGC. The column temperature was held isothermal at 85 °C. A 4 mm ID column and 10% methane/90% argon carrier gas at 44 mL/min flow rate were used when determining the dinitrotoluenes by ECDGC. The column temperature was held isothermal at 145 °C.
-Column 2 conditions: Gas-Chrom Q (80/100 mesh) coated with 3% OV-101 packed in a 3.0 m long × 2 mm or 4 mm ID glass column. A 2 mm ID column and nitrogen carrier gas at 44 mL/min flow rate were used when determining isophorone and nitrobenzene by FIDGC. The column temperature was held isothermal at 100 °C. A 4 mm ID column and 10% methane/90% argon carrier gas at 44 mL/min flow rate were used when determining the dinitrotoluenes by ECDGC. The column temperature was held isothermal at 150 °C.
+Column 1 conditions: Gas-Chrom Q (80/100 mesh) coated with 1.95% QF-1/1.5% OV-17 packed in a 1.2 m long × 2 mm or 4 mm ID glass column. A 2 mm ID column and nitrogen carrier gas at 44 mL/min flow rate were used when determining isophorone and nitrobenzene by FIDGC. The column temperature was held isothermal at 85 °C. A 4 mm ID column and 10% methane/90% argon carrier gas at 44 mL/min flow rate were used when determining the dinitrotoluenes by ECDGC. The column temperature was held isothermal at 145 °C. Column 2 conditions: Gas-Chrom Q (80/100 mesh) coated with 3% OV-101 packed in a 3.0 m long × 2 mm or 4 mm ID glass column. A 2 mm ID column and nitrogen carrier gas at 44 mL/min flow rate were used when determining isophorone and nitrobenzene by FIDGC. The column temperature was held isothermal at 100 °C. A 4 mm ID column and 10% methane/90% argon carrier gas at 44 mL/min flow rate were used when determining the dinitrotoluenes by ECDGC. The column temperature was held isothermal at 150 °C.
 Table 2—QC Acceptance Criteria—Method 609
 Parameter | Test Conc. (µg/L) | Limit for s (µg/L) | Range for X (µg/L) | Range for P, Ps (%)
 2,4-Dinitrotoluene | 20 | 5.1 | 3.6-22.8 | 6-125
 2,6-Dinitrotoluene | 20 | 4.8 | 3.8-23.0 | 8-126
 Isophorone | 100 | 32.3 | 8.0-100.0 | D-117
 Nitrobenzene | 100 | 33.3 | 25.7-100.0 | 6-118
-s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4).
-X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4).
-P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2).
-D = Detected; result must be greater than zero.
-Note: These criteria are based directly upon the method performance data in Table 3. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 3.
+s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4). X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4). P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2). D = Detected; result must be greater than zero. Note: These criteria are based directly upon the method performance data in Table 3. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 3.
 Table 3—Method Accuracy and Precision as Functions of Concentration—Method 609
 Parameter | Accuracy, as recovery, X′ (µg/L) | Single analyst precision, sr′ (µg/L) | Overall precision, S′ (µg/L)
-2,4-Dinitro-
-toluene | 0.65C + 0.22 | 0.20X + 0.08 | 0.37X−0.07
-2,6-Dinitro-
-toluene | 0.66C + 0.20 | 0.19X + 0.06 | 0.36X−0.00
+2,4-Dinitro- | | |
+toluene | 0.65C + 0.22 | 0.20X + 0.08 | 0.37X −0.07
+2,6-Dinitro- | | |
+toluene | 0.66C + 0.20 | 0.19X + 0.06 | 0.36X −0.00
 Isophorone | 0.49C + 2.93 | 0.28X + 2.77 | 0.46X + 0.31
-Nitrobenzene | 0.60C + 2.00 | 0.25X + 2.53 | 0.37X−0.78
-X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L.
-sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L.
-S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L.
-C = True value for the concentration, in µg/L.
-X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
-EC02JY92.029
-EC02JY92.030
+Nitrobenzene | 0.60C + 2.00 | 0.25X + 2.53 | 0.37X −0.78
+X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L. sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L. S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L. C = True value for the concentration, in µg/L. X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
 Method 610—Polynuclear Aromatic Hydrocarbons
 1. Scope and Application
 1.1 This method covers the determination of certain polynuclear aromatic hydrocarbons (PAH). The following parameters can be determined by this method:
@@ -2798,7 +2659,6 @@ Pyrene | 34469 | 129-00-0
 7.3 Internal standard calibration procedure—To use this approach, the analyst must select one or more internal standards that are similar in analytical behavior to the compounds of interest. The analyst must further demonstrate that the measurement of the internal standard is not affected by method or matrix interferences. Because of these limitations, no internal standard can be suggested that is applicable to all samples.
 7.3.1 Prepare calibration standards at a minimum of three concentration levels for each parameter of interest by adding volumes of one or more stock standards to a volumetric flask. To each calibration standard, add a known constant amount of one or more internal standards, and dilute to volume with acetonitrile. One of the standards should be at a concentration near, but above, the MDL and the other concentrations should correspond to the expected range of concentrations found in real samples or should define the working range of the detector.
 7.3.2 Using injections of 5 to 25 µL for HPLC and 2 to 5 µL for GC, analyze each calibration standard according to Section 12 or 13, as appropriate. Tabulate peak height or area responses against concentration for each compound and internal standard. Calculate response factors (RF) for each compound using Equation 1.
-EC15NO91.113
 Equation 1
 where:
 As = Response for the parameter to be measured.
@@ -2839,7 +2699,7 @@ Note: The frequency for the required analysis of a QC check standard will depend
 8.4.1 Prepare the QC check standard by adding 1.0 mL of QC check sample concentrate (Section 8.2.1 or 8.3.2) to 1 L of reagent water. The QC check standard needs only to contain the parameters that failed criteria in the test in Section 8.3.
 8.4.2 Analyze the QC check standard to determine the concentration measured (A) of each parameter. Calculate each percent recovery (Ps) as 100 (A/T)%, where T is the true value of the standard concentration.
 8.4.3 Compare the percent recovery (Ps) for each parameter with the corresponding QC acceptance criteria found in Table 3. Only parameters that failed the test in Section 8.3 need to be compared with these criteria. If the recovery of any such parameter falls outside the designated range, the laboratory performance for that parameter is judged to be out of control, and the problem must be immediately identified and corrected. The analytical result for that parameter in the unspiked sample is suspect and may not be reported for regulatory compliance purposes.
-8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P-2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
+8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P -2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
 8.6 It is recommended that the laboratory adopt additional quality assurance practices for use with this method. The specific practices that are most productive depend upon the needs of the laboratory and the nature of the samples. Field duplicates may be analyzed to assess the precision of the environmental measurements. When doubt exists over the identification of a peak on the chromatogram, confirmatory techniques such as gas chromatography with a dissimilar column, specific element detector, or mass spectrometer must be used. Whenever possible, the laboratory should analyze standard reference materials and participate in relevant performance evaluation studies.
 9. Sample Collection, Preservation, and Handling
 9.1 Grab samples must be collected in glass containers. Conventional sampling practices 8 should be followed, except that the bottle must not be prerinsed with sample before collection. Composite samples should be collected in refrigerated glass containers in accordance with the requirements of the program. Automatic sampling equipment must be as free as possible of Tygon tubing and other potential sources of contamination.
@@ -2883,7 +2743,6 @@ Note: The frequency for the required analysis of a QC check standard will depend
 14. Calculations
 14.1 Determine the concentration of individual compounds in the sample.
 14.1.1 If the external standard calibration procedure is used, calculate the amount of material injected from the peak response using the calibration curve or calibration factor determined in Section 7.2.2. The concentration in the sample can be calculated from Equation 2.
-EC15NO91.114
 Equation 2
 where:
 A = Amount of material injected (ng).
@@ -2891,7 +2750,6 @@ Vi = Volume of extract injected (µL).
 Vt = Volume of total extract (µL).
 Vs = Volume of water extracted (mL).
 13.1.2 If the internal standard calibration procedure is used, calculate the concentration in the sample using the response factor (RF) determined in Section 7.3.2 and Equation 3.
-EC15NO91.115
 Equation 3
 where:
 As = Response for the parameter to be measured.
@@ -2934,8 +2792,7 @@ Benzo(a)pyrene | 33.9 | 25.9 | 0.023
 Dibenzo(a,h)anthracene | 35.7 | 27.4 | 0.030
 Benzo(ghi)perylene | 36.3 | 27.8 | 0.076
 Indeno(1,2,3-cd)pyrene | 37.4 | 28.7 | 0.043
-HPLC column conditions: Reverse phase HC-ODS Sil-X, 5 micron particle size, in a 25 cm × 2.6 mm ID stainless steel column. Isocratic elution for 5 min. using acetonitrile/water (4 + 6), then linear gradient elution to 100% acetonitrile over 25 min. at 0.5 mL/min flow rate. If columns having other internal diameters are used, the flow rate should be adjusted to maintain a linear velocity of 2 mm/sec.
-a The MDL for naphthalene, acenaphthylene, acenaphthene, and fluorene were determined using a UV detector. All others were determined using a fluorescence detector.
+HPLC column conditions: Reverse phase HC-ODS Sil-X, 5 micron particle size, in a 25 cm × 2.6 mm ID stainless steel column. Isocratic elution for 5 min. using acetonitrile/water (4 + 6), then linear gradient elution to 100% acetonitrile over 25 min. at 0.5 mL/min flow rate. If columns having other internal diameters are used, the flow rate should be adjusted to maintain a linear velocity of 2 mm/sec. a The MDL for naphthalene, acenaphthylene, acenaphthene, and fluorene were determined using a UV detector. All others were determined using a fluorescence detector.
 Table 2—Gas Chromatographic Conditions and Retention Times
 Parameter | Retention time (min)
 Naphthalene | 4.5
@@ -2973,13 +2830,9 @@ Indeno(1,2,3-cd)pyrene | 10 | 3.0 | 1.2-10.0 | D-116
 Naphthalene | 100 | 40.7 | 21.5-100.0 | D-122
 Phenanthrene | 100 | 37.7 | 8.4-133.7 | D-155
 Pyrene | 10 | 3.4 | 1.4-12.1 | D-140
-s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4).
-X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4).
-P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2).
-D = Detected; result must be greater than zero.
-Note: These criteria are based directly upon the method performance data in Table 4. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 4.
+s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4). X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4). P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2). D = Detected; result must be greater than zero. Note: These criteria are based directly upon the method performance data in Table 4. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 4.
 Table 4—Method Accuracy and Precision as Functions of Concentration—Method 610
-Parameter | Accuracy, as recovery, X′ (µg/L) | Single analyst precision, sr′ (µg/L) | Overall precision, S′(µg/L)
+Parameter | Accuracy, as recovery, X′ (µg/L) | Single analyst precision, sr′ (µg/L) | Overall precision, S′ (µg/L)
 Acenaphthene | 0.52C + 0.54 | 0.39X + 0.76 | 0.53X + 1.32
 Acenaphthylene | 0.69C − 1.89 | 0.36X + 0.29 | 0.42X + 0.52
 Anthracene | 0.63C − 1.26 | 0.23X + 1.16 | 0.41X + 0.45
@@ -2996,14 +2849,7 @@ Indeno(1,2,3-cd)pyrene | 0.54C + 0.06 | 0.29X + 0.02 | 0.42X + 0.01
 Naphthalene | 0.57C − 0.70 | 0.39X − 0.18 | 0.41X + 0.74
 Phenanthrene | 0.72C − 0.95 | 0.29X + 0.05 | 0.47X − 0.25
 Pyrene | 0.69C − 0.12 | 0.25X + 0.14 | 0.42X − 0.00
-X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L.
-sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L.
-S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L.
-C = True value for the concentration, in µg/L.
-X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
-EC02JY92.031
-EC02JY92.032
-EC02JY92.033
+X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L. sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L. S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L. C = True value for the concentration, in µg/L. X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
 Method 611—Haloethers
 1. Scope and Application
 1.1 This method covers the determination of certain haloethers. The following parameters can be determined by this method:
@@ -3070,7 +2916,6 @@ Bis(2-chloroethoxy) methane | 34278 | 111-91-1
 7.3 Internal standard calibration procedure—To use this approach, the analyst must select one or more internal standards that are similar in analytical behavior to the compounds of interest. The analyst must further demonstrate that the measurement of the internal standard is not affected by method or matrix interferences. Because of these limitations, no internal standard can be suggested that is applicable to all samples.
 7.3.1 Prepare calibration standards at a minimum of three concentration levels for each parameter of interest by adding volumes of one or more stock standards to a volumetric flask. To each calibration standard, add a known constant amount of one or more internal standards, and dilute to volume with hexane. One of the standards should be at a concentration near, but above, the MDL and the other concentrations should correspond to the expected range of concentrations found in real samples or should define the working range of the detector.
 7.3.2 Using injections of 2 to 5 µL, analyze each calibration standard according to Section 12 and tabulate peak height or area responses against concentration for each compound and internal standard. Calculate response factors (RF) for each compound using Equation 1.
-EC15NO91.116
 Equation 1
 where:
 As = Response for the parameter to be measured.
@@ -3108,7 +2953,7 @@ Note: The frequency for the required analysis of a QC check standard will depend
 8.4.1 Prepare the QC check standard by adding 1.0 m/L of QC check sample concentrate (Section 8.2.1 or 8.3.2) to 1 L of reagent water. The QC check standard needs only to contain the parameters that failed criteria in the test in Section 8.3.
 8.4.2 Analyze the QC check standard to determine the concentration measured (A) of each parameter. Calculate each percent recovery (Ps) as 100 (A/T)%, where T is the true value of the standard concentration.
 8.4.3 Compare the percent recovery (Ps) for each parameter with the corresponding QC acceptance criteria found in Table 2. Only parameters that failed the test in Section 8.3 need to be compared with these criteria. If the recovery of any such parameter falls outside the designated range, the laboratory performance for that parameter is judged to be out of control, and the problem must be immediately identified and corrected. The analytical result for that parameter in the unspiked sample is suspect and may not be reported for regulatory compliance purposes.
-8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P-2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
+8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the standard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P -2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment for each parameter on a regular basis (e.g. after each five to ten new accuracy measurements).
 8.6 It is recommended that the laboratory adopt additional quality assurance practices for use with this method. The specific practices that are most productive depend upon the needs of the laboratory and the nature of the samples. Field duplicates may be analyzed to assess the precision of the environmental measurements. When doubt exists over the identification of a peak on the chromatogram, confirmatory techniques such as gas chromatography with a dissimilar column, specific element detector, or mass spectrometer must be used. Whenever possible, the laboratory should analyze standard reference materials and participate in relevant performance evaluation studies.
 9. Sample Collection, Preservation, and Handling
 9.1 Grab samples must be collected in glass containers. Conventional sampling practices 9 should be followed, except that the bottle must not be prerinsed with sample before collection. Composite samples should be collected in refrigerated glass containers in accordance with the requirements of the program. Automatic sampling equipment must be as free as possible of Tygon tubing and other potential sources of contamination.
@@ -3143,7 +2988,6 @@ Note: Some of the haloethers are very volatile and significant losses will occur
 13. Calculations
 13.1 Determine the concentration of individual compounds in the sample.
 13.1.1 If the external standard calibration procedure is used, calculate the amount of material injected from the peak response using the calibration curve or calibration factor determined in Section 7.2.2. The concentration in the sample can be calculated from Equation 2.
-EC15NO91.117
 Equation 2
 where:
 A = Amount of material injected (ng).
@@ -3151,7 +2995,6 @@ Vi = Volume of extract injected (µL).
 Vt = Volume of total extract (µL).
 Vs = Volume of water extracted (mL).
 13.1.2 If the internal standard calibration procedure is used, calculate the concentration in the sample using the response factor (RF) determined in Section 7.3.2 and Equation 3.
-EC15NO91.118
 Equation 3
 where:
 As = Response for the parameter to be measured.
@@ -3177,14 +3020,14 @@ References
 11. Burke, J.A. "Gas Chromatography for Pesticide Residue Analysis; Some Practical Aspects," Journal of the Association of Official Analytical Chemists, 48, 1037 (1965).
 12. "EPA Method Study 21, Method 611, Haloethers," EPA 600/4-84-052, National Technical Information Service, PB84-205939, Springfield, Virginia 22161, June 1984.
 Table 1—Chromatographic Conditions and Methods Detection Limits
-Parameters | Retention time (min) | Column 1 | Column 2 | Method detection limit (µ/L)
+Parameters | Retention time (min) | Method detection limit (µ/L)
+Column 1 | Column 2
 Bis(2-chloroisopropyl) ether | 8.4 | 9.7 | 0.8
 Bis(2-chloroethyl) ether | 9.3 | 9.1 | 0.3
 Bis(2-chloroethoxy) methane | 13.1 | 10.0 | 0.5
 4-Chlorophenyl ether | 19.4 | 15.0 | 3.9
 4-Bromophenyl phenyl ether | 21.2 | 16.2 | 2.3
-Column 1 conditions: Supelcoport (100/120 mesh) coated with 3% SP-1000 packed in a 1.8 m long × 2 mm ID glass column with helium carrier gas at 40 mL/min. flow rate. Column temperature held at 60 °C for 2 min. after injection then programmed at 8 °C/min. to 230 °C and held for 4 min. Under these conditions the retention time for Aldrin is 22.6 min.
-Column 2 conditions: Tenax-GC (60/80 mesh) packed in a 1.8 m long × 2mm ID glass column with helium carrier gas at 40 mL/min. flow rate. Column temperature held at 150 °C for 4 min. after injection then programmed at 16 °C/min. to 310 °C. Under these conditions the retention time for Aldrin is 18.4 min.
+Column 1 conditions: Supelcoport (100/120 mesh) coated with 3% SP-1000 packed in a 1.8 m long × 2 mm ID glass column with helium carrier gas at 40 mL/min. flow rate. Column temperature held at 60 °C for 2 min. after injection then programmed at 8 °C/min. to 230 °C and held for 4 min. Under these conditions the retention time for Aldrin is 22.6 min. Column 2 conditions: Tenax-GC (60/80 mesh) packed in a 1.8 m long × 2mm ID glass column with helium carrier gas at 40 mL/min. flow rate. Column temperature held at 150 °C for 4 min. after injection then programmed at 16 °C/min. to 310 °C. Under these conditions the retention time for Aldrin is 18.4 min.
 Table 2—QC Acceptance Criteria—Method 611
 Parameter | Test conc. (µg/L) | Limit for s (µg/L) | Range for X (µg/L) | Range for P, Ps percent
 Bis (2-chloroethyl)ether | 100 | 26.3 | 26.3-136.8 | 11-152
@@ -3192,11 +3035,7 @@ Bis (2-chloroethoxy)methane | 100 | 25.7 | 27.3-115.0 | 12-128
 Bis (2-chloroisopropyl)ether | 100 | 32.7 | 26.4-147.0 | 9-165
 4-Bromophenyl phenyl ether | 100 | 39.3 | 7.6-167.5 | D-189
 4-Chlorophenyl phenyl ether | 100 | 30.7 | 15.4-152.5 | D-170
-s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4).
-X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4).
-P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2).
-D = Detected; result must be greater than zero.
-Note: These criteria are based directly upon the method performance data in Table 3. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 3.
+s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4). X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4). P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2). D = Detected; result must be greater than zero. Note: These criteria are based directly upon the method performance data in Table 3. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 3.
 Table 3—Method Accuracy and Precision as Functions of Concentration—Method 611
 Parameter | Accuracy, as recovery, X′ (µg/L) | Single analyst precision, sr′ (µg/L) | Overall precision, S′ (µg/L)
 Bis(2-chloroethyl) ether | 0.81C + 0.54 | 0.19X + 0.28 | 0.35X + 0,36
@@ -3204,13 +3043,7 @@ Bis(2-chloroethoxy) methane | 0.71C + 0.13 | 0.20X + 0.15 | 0.33X + 0.11
 Bis(2-chloroisopropyl) ether | 0.85C + 1.67 | 0.20X + 1.05 | 0.36X + 0.79
 4-Bromophenyl phenyl ether | 0.85C + 2.55 | 0.25X + 0.21 | 0.47X + 0.37
 4-Chlorophenyl phenyl ether | 0.82C + 1.97 | 0.18X + 2.13 | 0.41X + 0.55
-X′ = Expected recovery for one or more measuremelts of a sample containing a concentration of C, in µg/L.
-sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L.
-S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L.
-C = True value for the concentration, in µg/L.
-X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
-EC02JY92.034
-EC02JY92.035
+X′ = Expected recovery for one or more measuremelts of a sample containing a concentration of C, in µg/L. sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L. S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L. C = True value for the concentration, in µg/L. X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
 Method 612—Chlorinated Hydrocarbons
 1. Scope and Application
 1.1 This method covers the determination of certain chlorinated hydrocarbons. The following parameters can be determined by this method:
@@ -3276,7 +3109,6 @@ Hexachloroethane | 34396 | 67-72-1
 7.3 Internal standard calibration procedure—To use this approach, the analyst must select one or more internal standards that are similar in analytical behavior to the compounds of interest. The analyst must further demonstrate that the measurement of the internal standard is not affected by method or matrix interferences. Because of these limitations, no internal standard can be suggested that is applicable to all samples.
 7.3.1 Prepare calibration standards at a minimum of three concentration levels for each parameter of interest by adding volumes of one or more stock standards to a volumetric flask. To each calibration standard, add a known constant amount of one or more internal standards, and dilute to volume with isooctane. One of the standards should be at a concentration near, but above, the MDL and the other concentrations should correspond to the expected range of concentrations found in real samples or should define the working range of the detector.
 7.3.2 Using injections of 2 to 5 µL, analyze each calibration standard according to Section 12 and tabulate peak height or area responses against concentration for each compound and internal standard. Calculate response factors (RF) for each compound using Equation 1.
-EC15NO91.119
 Equation 1
 where:
 As = Response for the parameter to be measured.
@@ -3352,7 +3184,6 @@ Note: The dichloribenzenes have a sufficiently high volatility that significant 
 13. Calculations
 13.1 Determine the concentration of individual compounds in the sample.
 13.1.1 If the external standard calibration procedure is used, calculate the amount of material injected from the peak response using the calibration curve or calibration factor determined in Section 7.2.2. The concentration in the sample can be calculated from Equation 2.
-EC15NO91.120
 Equation 2
 where:
 A = Amount of material injected (ng).
@@ -3360,7 +3191,6 @@ Vi = Volume of extract injected (µL).
 Vt = Volume of total extract (µL).
 Vs = Volume of water extracted (mL).
 13.1.2 If the internal standard calibration procedure is used, calculate the concentration in the sample using the response factor (RF) determined in Section 7.3.2 and Equation 3.
-EC15NO91.121
 Equation 3
 where:
 As = Response for the parameter to be measured.
@@ -3386,7 +3216,8 @@ References
 11. "EPA Method Study Method 612—Chlorinated Hydrocarbons," EPA 600/4-84-039, National Technical Information Service, PB84-187772, Springfield, Virginia 22161, May 1984.
 12. "Method Performance for Hexachlorocyclopentadiene by Method 612," Memorandum from R. Slater, U.S. Environmental Protection Agency, Environmental Monitoring and Support Laboratory, Cincinnati, Ohio 45268, December 7, 1983.
 Table 1—Chromatographic Conditions and Method Detection Limits
-Parameter | Retention time (min) | Column 1 | Column 2 | Method detection limit (µg/L)
+Parameter | Retention time (min) | Method detection limit (µg/L)
+Column 1 | Column 2
 1,3-Dichlorobenzene | 4.5 | 6.8 | 1.19
 Hexachloroethane | 4.9 | 8.3 | 0.03
 1,4-Dichlorobenzene | 5.2 | 7.6 | 1.34
@@ -3396,12 +3227,7 @@ Hexachlorobutadiene | 7.7 | 20.0 | 0.34
 Hexachlorocyclopentadiene | nd | c 16.5 | 0.40
 2-Chloronaphthalene | a 2.7 | b 3.6 | 0.94
 Hexachlorobenzene | a 5.6 | b 10.1 | 0.05
-Column 1 conditions: Supelcoport (100/120 mesh) coated with 1% SP-1000 packed in a 1.8 m × 2 mm ID glass column with 5% methane/95% argon carrier gas at 25 mL/min. flow rate. Column temperature held isothermal at 65 °C, except where otherwise indicated.
-Column 2 conditions: Supelcoport (80/100 mesh) coated with 1.5% OV-1/2.4% OV-225 packed in a 1.8 m × 2 mm ID glass column with 5% methane/95% argon carrier gas at 25 mL/min. flow rate. Column temperature held isothermal at 75 °C, except where otherwise indicated.
-nd = Not determined.
-a 150 °C column temperature.
-b 165 °C column temperature.
-c 100 °C column temperature.
+Column 1 conditions: Supelcoport (100/120 mesh) coated with 1% SP-1000 packed in a 1.8 m × 2 mm ID glass column with 5% methane/95% argon carrier gas at 25 mL/min. flow rate. Column temperature held isothermal at 65 °C, except where otherwise indicated. Column 2 conditions: Supelcoport (80/100 mesh) coated with 1.5% OV-1/2.4% OV-225 packed in a 1.8 m × 2 mm ID glass column with 5% methane/95% argon carrier gas at 25 mL/min. flow rate. Column temperature held isothermal at 75 °C, except where otherwise indicated. nd = Not determined. a 150 °C column temperature. b 165 °C column temperature. c 100 °C column temperature.
 Table 2—QC Acceptance Criteria—Method 612
 Parameter | Test conc. (µg/L) | Limit for s (µg/L) | Range for X (µg/L) | Range for P, Ps (percent)
 2-Chloronaphthalene | 100 | 37.3 | 29.5-126.9 | 9-148
@@ -3413,30 +3239,19 @@ Hexachlorobutadiene | 10 | 2.2 | D-12.7 | D-139
 Hexachlorocyclopentadiene | 10 | 2.5 | D-10.4 | D-111
 Hexachloroethane | 10 | 3.3 | 2.4-12.3 | 8-139
 1,2,4-Trichlorobenzene | 100 | 31.6 | 20.2-133.7 | 5-149
-s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4).
-X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4).
-P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2).
-D = Detected; result must be greater than zero.
-Note: These criteria are based directly upon the method performance data in Table 3. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 3.
+s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4). X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4). P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2). D = Detected; result must be greater than zero. Note: These criteria are based directly upon the method performance data in Table 3. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 3.
 Table 3—Method Accuracy and Precision as Functions of Concentration—Method 612
 Parameter | Acccuracy, as recovery, X′ (µg/L) | Single analyst precision, sr′ (µg/L) | Overall precision, S′ (µg/L)
-2-Chloronaphthalene | 0.75C + 3.21 | 0.28X−1.17 | 0.38X−1.39
-1,2-Dichlorobenzene | 0.85C−0.70 | 0.22X−2.95 | 0.41X−3.92
-1,3-Dichlorobenzene | 0.72C + 0.87 | 0.21X−1.03 | 0.49X−3.98
-1,4-Dichlorobenzene | 0.72C + 2.80 | 0.16X−0.48 | 0.35X−0.57
-Hexachlorobenzene | 0.87C−0.02 | 0.14X + 0.07 | 0.36X−0.19
-Hexachlorobutadiene | 0.61C + 0.03 | 0.18X + 0.08 | 0.53X−0.12
+2-Chloronaphthalene | 0.75C + 3.21 | 0.28X −1.17 | 0.38X −1.39
+1,2-Dichlorobenzene | 0.85C−0.70 | 0.22X −2.95 | 0.41X −3.92
+1,3-Dichlorobenzene | 0.72C + 0.87 | 0.21X −1.03 | 0.49X −3.98
+1,4-Dichlorobenzene | 0.72C + 2.80 | 0.16X −0.48 | 0.35X −0.57
+Hexachlorobenzene | 0.87C−0.02 | 0.14X + 0.07 | 0.36X −0.19
+Hexachlorobutadiene | 0.61C + 0.03 | 0.18X + 0.08 | 0.53X −0.12
 Hexachlorocyclopentadiene a | 0.47C | 0.24X | 0.50X
-Hexachloroethane | 0.74C−0.02 | 0.23X + 0.07 | 0.36X−0.00
-1,2,4-Trichlorobenzene | 0.76C + 0.98 | 0.23X−0.44 | 0.40X−1.37
-X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L.
-sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L.
-S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L.
-C = True value for the concentration, in µg/L.
-X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
-a Estimates based upon the performance in a single laboratory. 12
-EC02JY92.036
-EC02JY92.037
+Hexachloroethane | 0.74C−0.02 | 0.23X + 0.07 | 0.36X −0.00
+1,2,4-Trichlorobenzene | 0.76C + 0.98 | 0.23X −0.44 | 0.40X −1.37
+X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L. sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L. S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L. C = True value for the concentration, in µg/L. X = Average recovery found for measurements of samples containing a concentration of C, in µg/L. a Estimates based upon the performance in a single laboratory. 12
 Method 613—2,3,7,8-Tetrachlorodibenzo-p-Dioxin
 1. Scope and Application
 1.1 This method covers the determination of 2,3,7,8-tetrachlorodibenzo-p-dioxin (2,3,7,8-TCDD). The following parameter may be determined by this method:
@@ -3518,7 +3333,6 @@ Clothing should be collected in plastic bags. Persons who convey the bags and la
 7.1 Establish gas chromatograhic operating conditions equivalent to those given in Table 1 and SIM conditions for the mass spectrometer as described in Section 12.2 The GC/MS system must be calibrated using the internal standard technique.
 7.1.1 Using stock standards, prepare calibration standards that will allow measurement of relative response factors of at least three concentration ratios of 2,3,7,8-TCDD to internal standard. Each calibration standard must be prepared to contain the internal standard at a concentration of 25 ng/mL. If any interferences are contributed by the internal standard at m/z 320 and 322, its concentration may be reduced in the calibration standards and in the internal standard spiking solution (Section 6.10). One of the calibration standards should contain 2,3,7,8-TCDD at a concentration near, but above, the MDL and the other 2,3,7,8-TCDD concentrations should correspond to the expected range of concentrations found in real samples or should define the working range of the GC/MS system.
 7.1.2 Using injections of 2 to 5 µL, analyze each calibration standardaccording to Section 12 and tabulate peak height or area response against the concentration of 2,3,7,8-TCDD and internal standard. Calculate response factors (RF) for 2,3,7,8-TCDD using Equation 1.
-EC15NO91.122
 Equation 1
 where:
 As = SIM response for 2,3,7,8-TCDD m/z 320.
@@ -3555,7 +3369,7 @@ Note: The frequency for the required analysis of a QC check standard will depend
 8.4.1 Prepare the QC check standard by adding 1.0 mL of QC check sample concentrate (Section 8.2.1 or 8.3.2) to 1 L of reagent water.
 8.4.2 Analyze the QC check standard to determine the concentration measured (A) of 2,3,7,8-TCDD. Calculate the percent recovery (Ps) as 100 (A/T)%, where T is the true value of the standard concentration.
 8.4.3 Compare the percent recovery (Ps) with the corresponding QC acceptance criteria found in Table 2. If the recovery of 2,3,7,8-TCDD falls outside the designated range, the laboratory performance is judged to be out of control, and the problem must be immediately identified and corrected. The analytical result for 2,3,7,8-TCDD in the unspiked sample is suspect and may not be reported for regulatory compliance purposes.
-8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the spandard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P−2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment on a regular basis (e.g. after each five to ten new accuracy measurements).
+8.5 As part of the QC program for the laboratory, method accuracy for wastewater samples must be assessed and records must be maintained. After the analysis of five spiked wastewater samples as in Section 8.3, calculate the average percent recovery (P) and the spandard deviation of the percent recovery (sp). Express the accuracy assessment as a percent recovery interval from P −2sp to P + 2sp. If P = 90% and sp = 10%, for example, the accuracy interval is expressed as 70-110%. Update the accuracy assessment on a regular basis (e.g. after each five to ten new accuracy measurements).
 8.6 It is recommended that the laboratory adopt additional quality assurance practices for use with this method. The specific practices that are most productive depend upon the needs of the laboratory and the nature of the samples. Field duplicates may be analyzed to assess the precision of the environmental measurements. Whenever possible, the laboratory should analyze standard reference materials and participate in relevant performance evaluation studies.
 9. Sample Collection, Preservation, and Handling
 9.1 Grab samples must be collected in glass containers. Conventional sampling practices 12 should be followed, except that the bottle must not be prerinsed with sample before collection. Composite samples should be collected in refrigerated glass containers in accordance with the requirements of the program. Automatic sampling equipment must be as free as possible of Tygon tubing and other potential sources of contamination.
@@ -3610,7 +3424,6 @@ Adjust the extract volume to 1.0 mL with hexane. Stopper the concentrator tube a
 12.10 In those circumstances where these procedures do not yield a definitive conclusion, the use of high resolution mass spectrometry is suggested. 5
 13. Calculations
 13.1 Calculate the concentration of 2,3,7,8-TCDD in the sample using the response factor (RF) determined in Section 7.1.2 and Equation 2.
-EC15NO91.123
 Equation 2
 where:
 As = SIM response for 2,3,7,8-TCDD at m/z 320.
@@ -3645,18 +3458,11 @@ Column conditions: SP-2330 coated on a 60 m long × 0.25 mm ID glass column with
 Table 2—QC Acceptance Criteria—Method 613
 Parameter | Test conc. (µg/L) | Limit for s (µg/L) | Range for X (µg/L) | Range for P, Ps (%)
 2,3,7,8-TCDD | 0.100 | 0.0276 | 0.0523-0.1226 | 45-129
-s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4).
-X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4).
-P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2).
-Note: These criteria are based directly upon the method performance data in Table 3. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 3.
+s = Standard deviation of four recovery measurements, in µg/L (Section 8.2.4). X = Average recovery for four recovery measurements, in µg/L (Section 8.2.4). P, Ps = Percent recovery measured (Section 8.3.2, Section 8.4.2). Note: These criteria are based directly upon the method performance data in Table 3. Where necessary, the limits for recovery have been broadened to assure applicability of the limits to concentrations below those used to develop Table 3.
 Table 3—Method Accuracy and Precision as Functions of Concentration—Method 613
 Parameter | Accuracy, as recovery, X″ (µg/L) | Single analyst, precision, sr″ (µ/L) | Overall precision, S″ (µ/g/L)
 2,3,7,8-TCDD | 0.86C + 0.00145 | 0.13X + 0.00129 | 0.19X + 0.00028
-X′ = Expected recovery for one or more measurements. of a sample containing a concentration of C, in µg/L.
-sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L.
-S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L.
-C = True value for the concentration, in µg/L.
-X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
+X′ = Expected recovery for one or more measurements. of a sample containing a concentration of C, in µg/L. sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L. S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L. C = True value for the concentration, in µg/L. X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
 Method 624.1—Purgeables by GC/MS
 1. Scope and Application
 1.1 This method is for determination of purgeable organic pollutants in industrial discharges and other environmental samples by gas chromatography combined with mass spectrometry (GC/MS), as provided under 40 CFR 136.1. This revision is based on previous protocols (References 1—3), on the revision promulgated October 26, 1984, and on an interlaboratory method validation study (Reference 4). Although this method was validated through an interlaboratory study conducted in the early 1980s, the fundamental chemistry principles used in this method remain sound and continue to apply.
@@ -3737,7 +3543,7 @@ Note: 2-Chloroethylvinyl ether has been shown to be stable for as long as one mo
 7.3.1.3 Prepare a stock standard solution for each internal standard in methanol as described in Section 6.5, and prepare a solution for spiking the internal standards into all blanks, LCSs, and MS/MSDs. Prepare the spiking solution such that spiking a small volume will result in a constant concentration of the internal standards. For example, add 10 µL of a spiking solution containing the internal standards at a concentration of 15 µg/mL in methanol to a 5-mL aliquot of water to produce a concentration of 30 µg/L for each internal standard. Other concentrations may be used. The internal standard solution and the surrogate standard spiking solution (Section 6.7) may be combined, if desired. Store per section 6.5.4.
 7.3.2 Calibration.
 7.3.2.1 Calibration standards.
-7.3.2.1.1 Prepare calibration standards at a minimum of five concentration levels for each analyte of interest by adding appropriate volumes of one or more stock standards to a fixed volume (e.g., 40 mL) of reagent water in volumetric glassware. Fewer levels may be necessary for some analytes based on the sensitivity of the MS, but no fewer than 3 levels may be used, and only the highest or lowest point(s) may be dropped from the calibration. One of the calibration standards should be at a concentration at or below the ML or as specified by a regulatory/control authority or in a permit. The ML value may be rounded to a whole number that is more convenient for preparing the standard, but must not exceed the ML values listed in Table 1 for those analytes which list ML values. Alternatively, the laboratory may establish the ML for each analyte based on the concentration of the lowest calibration standard in a series of standards produced in the laboratory or obtained from a commercial vendor, again, provided that the ML value does not exceed the MLs in Table 1, and provided that the resulting calibration meets the acceptance criteria in Section 7.3.4, based on the RSD, RSE, or R2. The concentrations of the higher standards should correspond to the expected range of concentrations found in real samples, or should define the working range of the GC/MS system for full-scan and/or SIM operation, as appropriate. A minimum of six concentration levels is required for a second order, non-linear (e.g., quadratic; ax2 + bx + c = 0) calibration. Calibrations higher than second order are not allowed.
+7.3.2.1.1 Prepare calibration standards at a minimum of five concentration levels for each analyte of interest by adding appropriate volumes of one or more stock standards to a fixed volume (e.g., 40 mL) of reagent water in volumetric glassware. Fewer levels may be necessary for some analytes based on the sensitivity of the MS, but no fewer than 3 levels may be used, and only the highest or lowest point(s) may be dropped from the calibration. One of the calibration standards should be at a concentration at or below the ML or as specified by a regulatory/control authority or in a permit. The ML value may be rounded to a whole number that is more convenient for preparing the standard, but must not exceed the ML values listed in Table 1 for those analytes which list ML values. Alternatively, the laboratory may establish the ML for each analyte based on the concentration of the lowest calibration standard in a series of standards produced in the laboratory or obtained from a commercial vendor, again, provided that the ML value does not exceed the MLs in Table 1, and provided that the resulting calibration meets the acceptance criteria in Section 7.3.4, based on the RSD, RSE, or R 2. The concentrations of the higher standards should correspond to the expected range of concentrations found in real samples, or should define the working range of the GC/MS system for full-scan and/or SIM operation, as appropriate. A minimum of six concentration levels is required for a second order, non-linear (e.g., quadratic; ax 2 + bx + c = 0) calibration. Calibrations higher than second order are not allowed.
 7.3.2.1.2 To each calibration standard or standard mixture, add a known constant volume of the internal standard spiking solution (section 7.3.1.3) and surrogate standard spiking solution (section 6.7) or the combined internal standard solution and surrogate spiking solution (section 7.3.1.3). Aqueous standards may be stored up to 24 hours, if held in sealed vials with zero headspace. If not so stored, they must be discarded after one hour.
 7.3.2.2 Prior to analysis of the calibration standards, analyze the BFB standard (section 6.8) and adjust the scan rate of the MS to produce a minimum of 5 mass spectra across the BFB GC peak, but do not exceed 2 seconds per scan. Adjust instrument conditions until the BFB criteria in Table 4 are met. Once the scan conditions are established, they must be used for analyses of all standards, blanks, and samples.
 Note: The BFB spectrum may be evaluated by summing the intensities of the m/z's across the GC peak, subtracting the background at each m/z in a region of the chromatogram within 20 scans of but not including any part of the BFB peak. The BFB spectrum may also be evaluated by fitting a Gaussian to each m/z and using the intensity at the maximum for each Gaussian, or by integrating the area at each m/z and using the integrated areas. Other means may be used for evaluation of the BFB spectrum so long as the spectrum is not distorted to meet the criteria in Table 4.
@@ -3745,13 +3551,12 @@ Note: The BFB spectrum may be evaluated by summing the intensities of the m/z's 
 7.3.2.4 For SIM operation, determine the analytes in each descriptor, the quantitation m/z for each analyte (the quantitation m/z can be the same as for full-scan operation; Section 7.3.2.3), the dwell time on each m/z for each analyte, and the beginning and ending retention time for each descriptor. Analyze the verification standard in scan mode to verify m/z's and establish retention times for the analytes. There must be a minimum of two m/z's for each analyte to assure analyte identification. To maintain sensitivity, the number of m/z's in a descriptor should be limited. For example, for a descriptor with 10 m/z's and a chromatographic peak width of 5 sec, a dwell time of 100 ms at each m/z would result in a scan time of 1 second and provide 5 scans across the GC peak. The quantitation m/z will usually be the most intense peak in the mass spectrum. The quantitation m/z and dwell time may be optimized for each analyte. The acquisition table used for SIM must take into account the mass defect (usually less than 0.2 Dalton) that can occur at each m/z monitored. Refer to the footnotes to Table 3 for establishing operating conditions and to section 7.3.2.2 for establishing scan conditions.
 7.3.2.5 For combined scan and SIM operation, set up the scan segments and descriptors to meet requirements in sections 7.3.2.2-7.3.2.4. Analyze unfamiliar samples in the scan mode to assure that the analytes of interest are determined.
 7.3.3 Analyze each calibration standard according to Section 10 and tabulate the area at the quantitation m/z against concentration for each analyte of interest, surrogate, and internal standard. Calculate the response factor (RF) for each compound at each concentration using Equation 1.
-ER28AU17.012
 Where:
 As = Area of the characteristic m/z for the analyte to be measured.
 Ais = Area of the characteristic m/z for the internal standard.
 Cis = Concentration of the internal standard (µg/L).
 Cs = Concentration of the analyte to be measured (µg/L).
-7.3.4 Calculate the mean (average) and relative standard deviation (RSD) of the response factors. If the RSD is less than 35%, the RF can be assumed to be invariant and the average RF can be used for calculations. Alternatively, the results can be used to fit a linear or quadratic regression of response ratios, As/Ais, vs. concentration ratios Cs/Cis. If used, the regression must be weighted inversely proportional to concentration (1/C). The coefficient of determination (R2) of the weighted regression must be greater than 0.920 (this value roughly corresponds to the RSD limit of 35%). Alternatively, the relative standard error (Reference 10) may be used as an acceptance criterion. As with the RSD, the RSE must be less than 35%. If an RSE less than 35% cannot be achieved for a quadratic regression, system performance is unacceptable, and the system must be adjusted and re-calibrated.
+7.3.4 Calculate the mean (average) and relative standard deviation (RSD) of the response factors. If the RSD is less than 35%, the RF can be assumed to be invariant and the average RF can be used for calculations. Alternatively, the results can be used to fit a linear or quadratic regression of response ratios, As/Ais, vs. concentration ratios Cs/Cis. If used, the regression must be weighted inversely proportional to concentration (1/C). The coefficient of determination (R 2) of the weighted regression must be greater than 0.920 (this value roughly corresponds to the RSD limit of 35%). Alternatively, the relative standard error (Reference 10) may be used as an acceptance criterion. As with the RSD, the RSE must be less than 35%. If an RSE less than 35% cannot be achieved for a quadratic regression, system performance is unacceptable, and the system must be adjusted and re-calibrated.
 Note: Using capillary columns and current instrumentation, it is quite likely that a laboratory can calibrate the target analytes in this method and achieve a linearity metric (either RSD or RSE) well below 35%. Therefore, laboratories are permitted to use more stringent acceptance criteria for calibration than described here, for example, to harmonize their application of this method with those from other sources.
 7.4 Calibration verification—Because the analytical system is calibrated by purge of the analytes from water, calibration verification is performed using the laboratory control sample (LCS). See section 8.4 for requirements for calibration verification using the LCS, and the Glossary for further definition.
 8. Quality Control
@@ -3873,7 +3678,6 @@ Note: Retention time windows other than ± 10 seconds may be appropriate dependi
 12.2 Structural isomers that produce very similar mass spectra should be identified as individual isomers if they have sufficiently different gas chromatographic retention times. Sufficient gas chromatographic resolution is achieved if the height of the valley between two isomer peaks is less than 50% of the average of the two peak heights. Otherwise, structural isomers are identified as isomeric pairs. The resolution should be verified on the mid-point concentration of the initial calibration as well as the laboratory designated continuing calibration verification level if closely eluting isomers are to be reported.
 13. Calculations
 13.1 When an analyte has been identified, quantitation of that analyte is based on the integrated abundance from the EICP of the primary characteristic m/z in Table 5 or 6. Calculate the concentration using the response factor (RF) determined in section 7.3.3 and Equation 2. If a calibration curve was used, calculate the concentration using the regression equation for the curve. If the concentration of an analyte exceeds the calibration range, dilute the sample by the minimum amount to bring the concentration into the calibration range, and re-analyze. Determine a dilution factor (DF) from the amount of the dilution. For example, if the extract is diluted by a factor of 2, DF = 2.
-ER28AU17.013
 Where:
 Cs = Concentration of the analyte in the sample, and the other terms are as defined in Section 7.3.3.
 13.2 Reporting of results
@@ -3916,29 +3720,29 @@ As noted in section 1.4.1, EPA has promulgated this method at 40 CFR part 136 fo
 18. Tables
 Table 1—Purgeables 1
 Analyte | CAS Registry No. | MDL (µg/L) 2 | ML (µg/L) 3
-Acrolein | 107-02-8
-Acrylonitrile | 107-13-1
+Acrolein | 107-02-8 | |
+Acrylonitrile | 107-13-1 | |
 Benzene | 71-43-2 | 4.4 | 13.2
 Bromodichloromethane | 75-27-4 | 2.2 | 6.6
 Bromoform | 75-25-2 | 4.7 | 14.1
-Bromomethane | 74-83-9
+Bromomethane | 74-83-9 | |
 Carbon tetrachloride | 56-23-5 | 2.8 | 8.4
 Chlorobenzene | 108-90-7 | 6.0 | 18.0
-Chloroethane | 75-00-3
-2-Chloroethylvinyl ether | 110-75-8
+Chloroethane | 75-00-3 | |
+2-Chloroethylvinyl ether | 110-75-8 | |
 Chloroform | 67-66-3 | 1.6 | 4.8
-Chloromethane | 74-87-3
+Chloromethane | 74-87-3 | |
 Dibromochloromethane | 124-48-1 | 3.1 | 9.3
-1,2-Dichlorobenzene | 95-50-1
-1,3-Dichlorobenzene | 541-73-1
-1,4-Dichlorobenzene | 106-46-7
+1,2-Dichlorobenzene | 95-50-1 | |
+1,3-Dichlorobenzene | 541-73-1 | |
+1,4-Dichlorobenzene | 106-46-7 | |
 1,1-Dichloroethane | 75-34-3 | 4.7 | 14.1
 1,2-Dichloroethane | 107-06-2 | 2.8 | 8.4
 1,1-Dichloroethene | 75-35-4 | 2.8 | 8.4
 trans-1,2-Dichloroethene | 156-60-5 | 1.6 | 4.8
 1,2-Dichloropropane | 78-87-5 | 6.0 | 18.0
 cis-1,3-Dichloropropene | 10061-01-5 | 5.0 | 15.0
-trans-1,3-Dichloropropene | 10061-02-6
+trans-1,3-Dichloropropene | 10061-02-6 | |
 Ethyl benzene | 100-41-4 | 7.2 | 21.6
 Methylene chloride | 75-09-2 | 2.8 | 8.4
 1,1,2,2-Tetrachloroethane | 79-34-5 | 6.9 | 20.7
@@ -3947,10 +3751,8 @@ Toluene | 108-88-3 | 6.0 | 18.0
 1,1,1-Trichloroethane | 71-55-6 | 3.8 | 11.4
 1,1,2-Trichloroethane | 79-00-5 | 5.0 | 15.0
 Trichloroethene | 79-01-6 | 1.9 | 5.7
-Vinyl chloride | 75-01-4
-1 All the analytes in this table are Priority Pollutants (40 CFR part 423, appendix A).
-2 MDL values from the 1984 promulgated version of Method 624.
-3 ML = Minimum Level—see Glossary for definition and derivation.
+Vinyl chloride | 75-01-4 | |
+1 All the analytes in this table are Priority Pollutants (40 CFR part 423, appendix A). 2 MDL values from the 1984 promulgated version of Method 624. 3 ML = Minimum Level—see Glossary for definition and derivation.
 Table 2—Additional Purgeables
 Analyte | CAS Registry
 Acetone 1 | 67-64-1
@@ -4060,11 +3862,9 @@ p-Xylene 3 | 106-42-3
 m+o-Xylene 3 | 179601-22-0
 m+p-Xylene 3 | 179601-23-1
 o+p-Xylene 3 | 136777-61-2
-1 Determined at a purge temperature of 80 °C.
-2 May be detectable at a purge temperature of 80 °C.
-3 Determined in combination separated by GC column. Most GC columns will resolve o-xylene from m+p-xylene. Report using the CAS number for the individual xylene or the combination, as determined.
+1 Determined at a purge temperature of 80 °C. 2 May be detectable at a purge temperature of 80 °C. 3 Determined in combination separated by GC column. Most GC columns will resolve o-xylene from m+p-xylene. Report using the CAS number for the individual xylene or the combination, as determined.
 Table 3—Example Retention Times
-Analyte | Retention time(min)
+Analyte | Retention time (min)
 Chloromethane | 3.68
 Vinyl chloride | 3.92
 Bromomethane | 4.50
@@ -4124,11 +3924,7 @@ Bromofluorobenzene | 18.80
 1,1,2,2-Tetrachloroethane | 18.98
 1,2,3-Trichloropropane | 19.08
 trans-1,4-Dichloro-2-butene | 19.12
-Column: 75 m x 0.53 mm ID x 3.0 µm wide-bore DB-624
-Conditions: 40 °C for 4 min, 9 °C/min to 200 °C, 20 °C/min (or higher) to 250 °C, hold for 20 min at 250 °C to remove water.
-Carrier gas flow rate: 6-7 mL/min at 40 °C.
-Inlet split ratio: 3:1.
-Interface split ratio: 7:2.
+Column: 75 m x 0.53 mm ID x 3.0 µm wide-bore DB-624 Conditions: 40 °C for 4 min, 9 °C/min to 200 °C, 20 °C/min (or higher) to 250 °C, hold for 20 min at 250 °C to remove water. Carrier gas flow rate: 6-7 mL/min at 40 °C. Inlet split ratio: 3:1. Interface split ratio: 7:2.
 Table 4—BFB Key m/z Abundance Criteria 1
 m/z | Abundance criteria
 50 | 15-40% of m/z 95.
@@ -4142,28 +3938,28 @@ m/z | Abundance criteria
 177 | 5-9% of m/z 176.
 1 Abundance criteria are for a quadrupole mass spectrometer. Alternative tuning criteria from other published EPA reference methods may be used, provided method performance is not adversely affected. Alternative tuning criteria specified by an instrument manufacturer may also be used for another type of mass spectrometer, or for an alternative carrier gas, provided method performance is not adversely affected.
 Table 5—Suggested Surrogate and Internal Standards
-Analyte | Retention time (min) 1 | Primary m/z | Secondarym/z's
-Benzene-d6 | 10.95 | 84
+Analyte | Retention time (min) 1 | Primary m/z | Secondary m/z's
+Benzene-d6 | 10.95 | 84 |
 4-Bromofluorobenzene | 18.80 | 95 | 174, 176
 Bromochloromethane | 9.88 | 128 | 49, 130, 51
 2-Bromo-1-chloropropane | 14.80 | 77 | 79, 156
-2-Butanone-d5 | 9.33 | 77
-Chloroethane-d5 | 4.63 | 71
-Chloroform-13C | 10.00 | 86
-1,2-Dichlorobenzene-d4 | | 152
+2-Butanone-d5 | 9.33 | 77 |
+Chloroethane-d5 | 4.63 | 71 |
+Chloroform- 13C | 10.00 | 86 |
+1,2-Dichlorobenzene-d4 | | 152 |
 1,4-Dichlorobutane | 18.57 | 55 | 90, 92
-1,2-Dichloroethane-d4 | 10.88 | 102
-1,1-Dichloroethene-d2 | 6.30 | 65
-1,2-Dichloropropane-d6 | 12.27 | 67
-trans-1,3-Dichloropropene-d4 | 14.50 | 79
+1,2-Dichloroethane-d4 | 10.88 | 102 |
+1,1-Dichloroethene-d2 | 6.30 | 65 |
+1,2-Dichloropropane-d6 | 12.27 | 67 |
+trans-1,3-Dichloropropene-d4 | 14.50 | 79 |
 1,4-Difluorobenzene | | 114 | 63, 88
-Ethylbenzene-d10 | 16.77 | 98
+Ethylbenzene-d10 | 16.77 | 98 |
 Fluorobenzene | | 96 | 70
-2-Hexanone-d5 | 15.30 | 63
-Pentafluorobenzene | | 168
-1,1,2,2-Tetrachloroethane-d2 | 18.93 | 84
-Toluene-d8 | 14.13 | 100
-Vinyl chloride-d3 | 3.87 | 65
+2-Hexanone-d5 | 15.30 | 63 |
+Pentafluorobenzene | | 168 |
+1,1,2,2-Tetrachloroethane-d2 | 18.93 | 84 |
+Toluene-d8 | 14.13 | 100 |
+Vinyl chloride-d3 | 3.87 | 65 |
 1 For chromatographic conditions, see the footnote to Table 3.
 Table 6—Characteristic m/z's for Purgeable Organics
 Analyte | Primary m/z | Secondary m/z's
@@ -4186,7 +3982,7 @@ Bromodichloromethane | 83 | 127, 85, and 129.
 1,2-Dichloropropane | 63 | 112, 65, and 114.
 trans-1,3-Dichloropropene | 75 | 77.
 Trichloroethene | 130 | 95, 97, and 132.
-Benzene | 78
+Benzene | 78 |
 Dibromochloromethane | 127 | 129, 208, and 206.
 1,1,2-Trichloroethane | 97 | 83, 85, 99, 132, and 134.
 cis-1,3-Dichloropropene | 75 | 77.
@@ -4201,64 +3997,56 @@ Ethyl benzene | 106 | 91.
 1,2-Dichlorobenzene | 146 | 148 and 111.
 1,4-Dichlorobenzene | 146 | 148 and 111.
 Table 7—LCS (Q), DOC (s and X), and MS/MSD (P and RPD) Acceptance Criteria 1
-Analyte | Range for Q(%) | Limit for s(%) | Range for X (%) | Range for P1, P2 (%) | Limit for RPD
+Analyte | Range for Q (%) | Limit for s (%) | Range for X (%) | Range for P1, P2 (%) | Limit for RPD
 Acrolein | 60-140 | 30 | 50-150 | 40-160 | 60
 Acrylonitrile | 60-140 | 30 | 50-150 | 40-160 | 60
 Benzene | 65-135 | 33 | 75-125 | 37-151 | 61
-Benzene-d6 | | |
+Benzene-d6 | | | | |
 Bromodichloromethane | 65-135 | 34 | 50-140 | 35-155 | 56
 Bromoform | 70-130 | 25 | 57-156 | 45-169 | 42
 Bromomethane | 15-185 | 90 | D-206 | D-242 | 61
-2-Butanone-d5 | | |
+2-Butanone-d5 | | | | |
 Carbon tetrachloride | 70-130 | 26 | 65-125 | 70-140 | 41
 Chlorobenzene | 65-135 | 29 | 82-137 | 37-160 | 53
 Chloroethane | 40-160 | 47 | 42-202 | 14-230 | 78
-Chloroethane-d5 | | |
+Chloroethane-d5 | | | | |
 2-Chloroethylvinyl ether | D-225 | 130 | D-252 | D-305 | 71
 Chloroform | 70-135 | 32 | 68-121 | 51-138 | 54
-Chloroform-13C | | |
+Chloroform- 13C | | | | |
 Chloromethane | D-205 | 472 | D-230 | D-273 | 60
 Dibromochloromethane | 70-135 | 30 | 69-133 | 53-149 | 50
 1,2-Dichlorobenzene | 65-135 | 31 | 59-174 | 18-190 | 57
-1,2-Dichlorobenzene-d4 | | |
+1,2-Dichlorobenzene-d4 | | | | |
 1,3-Dichlorobenzene | 70-130 | 24 | 75-144 | 59-156 | 43
 1,4-Dichlorobenzene | 65-135 | 31 | 59-174 | 18-190 | 57
 1,1-Dichloroethane | 70-130 | 24 | 71-143 | 59-155 | 40
 1,2-Dichloroethane | 70-130 | 29 | 72-137 | 49-155 | 49
-1,2-Dichloroethane-d4 | | |
+1,2-Dichloroethane-d4 | | | | |
 1,1-Dichloroethene | 50-150 | 40 | 19-212 | D-234 | 32
-1,1-Dichloroethene-d2 | | |
+1,1-Dichloroethene-d2 | | | | |
 trans-1,2-Dichloroethene | 70-130 | 27 | 68-143 | 54-156 | 45
 1,2-Dichloropropane | 35-165 | 69 | 19-181 | D-210 | 55
-1,2-Dichloropropane-d6 | | |
+1,2-Dichloropropane-d6 | | | | |
 cis-1,3-Dichloropropene | 25-175 | 79 | 5-195 | D-227 | 58
 trans-1,3-Dichloropropene | 50-150 | 52 | 38-162 | 17-183 | 86
-trans-1,3-Dichloropropene-d4 | | |
+trans-1,3-Dichloropropene-d4 | | | | |
 Ethyl benzene | 60-140 | 34 | 75-134 | 37-162 | 63
-2-Hexanone-d5 | | |
+2-Hexanone-d5 | | | | |
 Methylene chloride | 60-140 | 192 | D-205 | D-221 | 28
 1,1,2,2-Tetrachloroethane | 60-140 | 36 | 68-136 | 46-157 | 61
-1,1,2,2-Tetrachloroethane-d2 | | |
+1,1,2,2-Tetrachloroethane-d2 | | | | |
 Tetrachloroethene | 70-130 | 23 | 65-133 | 64-148 | 39
 Toluene | 70-130 | 22 | 75-134 | 47-150 | 41
-Toluene-d8 | | |
+Toluene-d8 | | | | |
 1,1,1-Trichloroethane | 70-130 | 21 | 69-151 | 52-162 | 36
 1,1,2-Trichloroethane | 70-130 | 27 | 75-136 | 52-150 | 45
 Trichloroethene | 65-135 | 29 | 75-138 | 70-157 | 48
 Trichlorofluoromethane | 50-150 | 50 | 45-158 | 17-181 | 84
 Vinyl chloride | 5-195 | 100 | D-218 | D-251 | 66
-Vinyl chloride-d3
-1 Criteria were calculated using an LCS concentration of 20 µg/L.
-Q = Percent recovery in calibration verification/LCS (section 8.4).
-s = Standard deviation of percent recovery for four recovery measurements (section 8.2.4).
-X = Average percent recovery for four recovery measurements (section 8.2.4).
-P = Percent recovery for the MS or MSD (section 8.3.3).
-D = Detected; result must be greater than zero.
-Notes:
-1. Criteria for pollutants are based upon the method performance data in Reference 4. Where necessary, limits have been broadened to assure applicability to concentrations below those used to develop Table 7.
-2. Criteria for surrogates are from EPA CLP SOM01.2D.
+Vinyl chloride-d3 | | | | |
+1 Criteria were calculated using an LCS concentration of 20 µg/L. Q = Percent recovery in calibration verification/LCS (section 8.4). s = Standard deviation of percent recovery for four recovery measurements (section 8.2.4). X = Average percent recovery for four recovery measurements (section 8.2.4). P = Percent recovery for the MS or MSD (section 8.3.3). D = Detected; result must be greater than zero. Notes: 1. Criteria for pollutants are based upon the method performance data in Reference 4. Where necessary, limits have been broadened to assure applicability to concentrations below those used to develop Table 7. 2. Criteria for surrogates are from EPA CLP SOM01.2D.
 Table 8—Recovery and Precision as Functions of Concentration
-Analyte | Recovery, X′(µg/L) | Single analyst precision, sr′(µg/L) | Overallprecision, S′ (µg/L)
+Analyte | Recovery, X′ (µg/L) | Single analyst precision, sr′ (µg/L) | Overall precision, S′ (µg/L)
 Benzene | 0.93C+2.00 | 20.26 X−1.74 | 0.25 X−1.33
 Bromodichloromethane | 1.03C−1.58 | 0.15 X+0.59 | 0.20 X+1.13
 Bromoform | 1.18C−2.35 | 0.12 X+0.36 | 0.17 X+1.38
@@ -4290,13 +4078,7 @@ Toluene | 0.98C+2.03 | 0.15 X−0.71 | 0.22 X−1.71
 Trichloroethene | 1.04C+2.27 | 0.13 X+0.36 | 0.12 X+0.59
 Trichlorofluoromethane | 0.99C+0.39 | 0.33 X−1.48 | 0.34 X−0.39
 Vinyl chloride | 1.00C | 0.48 X | 0.65 X
-X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L.
-Sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L.
-S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L.
-C = True value for the concentration, in µg/L.
-X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
-a Estimates based upon the performance in a single laboratory (References 4 and 16).
-b Due to coelutions, performance statements for these isomers are based upon the sums of their concentrations.
+X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L. Sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L. S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L. C = True value for the concentration, in µg/L. X = Average recovery found for measurements of samples containing a concentration of C, in µg/L. a Estimates based upon the performance in a single laboratory (References 4 and 16). b Due to coelutions, performance statements for these isomers are based upon the sums of their concentrations.
 19. Glossary
 These definitions and purposes are specific to this method, but have been conformed to common usage to the extent possible.
 19.1 Units of weight and measure and their abbreviations.
@@ -4474,7 +4256,7 @@ Note: Sulfur does not readily dissolve in methylene chloride, but is soluble in 
 7. Calibration
 7.1 Establish operating conditions equivalent to those in the footnote to Table 4 or 5 for the base/neutral or acid fraction, respectively. If a combined base/neutral/acid fraction will be analyzed, use the conditions in the footnote to Table 4. Alternative temperature program and flow rate conditions may be used. It is necessary to calibrate the GC/MS for the analytes of interest (Section 1.3) only.
 7.2 Internal standard calibration.
-7.2.1 Prepare calibration standards for the analytes of interest and surrogates at a minimum of five concentration levels by adding appropriate volumes of one or more stock standards to volumetric flasks. One of the calibration standards should be at a concentration at or below the ML specified in Table 1, 2, or 3, or as specified by a regulatory/control authority or in a permit. The ML value may be rounded to a whole number that is more convenient for preparing the standard, but must not exceed the ML in Table 1, 2, or 3 for those analytes which list ML values. Alternatively, the laboratory may establish a laboratory ML for each analyte based on the concentration in a nominal whole-volume sample that is equivalent to the concentration of the lowest calibration standard in a series of standards produced in the laboratory or obtained from a commercial vendor. The laboratory's ML must not exceed the ML in Table 1, 2, or 3, and the resulting calibration must meet the acceptance criteria in Section 7.2.3, based on the RSD, RSE, or R2. The concentrations of the other calibration standards should correspond to the expected range of concentrations found in real samples or should define the working range of the GC/MS system for full-scan and/or SIM operation, as appropriate. A minimum of six concentration levels is required for a second order, non-linear (e.g., quadratic; ax2 + bx + c = 0) calibration (section 7.2.3). Calibrations higher than second order are not allowed. To each calibration standard or standard mixture, add a known constant volume of the internal standard solution (section 6.9), and dilute to volume with methylene chloride.
+7.2.1 Prepare calibration standards for the analytes of interest and surrogates at a minimum of five concentration levels by adding appropriate volumes of one or more stock standards to volumetric flasks. One of the calibration standards should be at a concentration at or below the ML specified in Table 1, 2, or 3, or as specified by a regulatory/control authority or in a permit. The ML value may be rounded to a whole number that is more convenient for preparing the standard, but must not exceed the ML in Table 1, 2, or 3 for those analytes which list ML values. Alternatively, the laboratory may establish a laboratory ML for each analyte based on the concentration in a nominal whole-volume sample that is equivalent to the concentration of the lowest calibration standard in a series of standards produced in the laboratory or obtained from a commercial vendor. The laboratory's ML must not exceed the ML in Table 1, 2, or 3, and the resulting calibration must meet the acceptance criteria in Section 7.2.3, based on the RSD, RSE, or R 2. The concentrations of the other calibration standards should correspond to the expected range of concentrations found in real samples or should define the working range of the GC/MS system for full-scan and/or SIM operation, as appropriate. A minimum of six concentration levels is required for a second order, non-linear (e.g., quadratic; ax 2 + bx + c = 0) calibration (section 7.2.3). Calibrations higher than second order are not allowed. To each calibration standard or standard mixture, add a known constant volume of the internal standard solution (section 6.9), and dilute to volume with methylene chloride.
 Note: The large number of analytes in Tables 1 through 3 may not be soluble or stable in a single solution; multiple solutions may be required if a large number of analytes are to be determined simultaneously.
 7.2.1.1 Prior to analysis of the calibration standards, inject the DFTPP standard (Section 6.10) and adjust the scan rate of the mass spectrometer to produce a minimum of 5 mass spectra across the DFTPP GC peak. Adjust instrument conditions until the DFTPP criteria in Table 9A or 9B are met. Calculate peak tailing factors for benzidine and pentachlorophenol. Calculation of the tailing factor is illustrated in Figure 1. The tailing factor for benzidine and pentachlorophenol must be <2; otherwise, adjust instrument conditions and either replace the column or break off a short section of the front end of the column, and repeat the test. Once the scan conditions are established, they must be used for analyses of all standards, blanks, and samples.
 Note: The DFTPP spectrum may be evaluated by summing the intensities of the m/z's across the GC peak, subtracting the background at each m/z in a region of the chromatogram within 20 scans of but not including any part of, the DFTPP peak. The DFTPP spectrum may also be evaluated by fitting a Gaussian to each m/z and using the intensity at the maximum for each Gaussian or by integrating the area at each m/z and using the integrated areas. Other means may be used for evaluation of the DFTPP spectrum so long as the spectrum is not distorted to meet the criteria in Table 9A or 9B.
@@ -4482,13 +4264,12 @@ Note: The DFTPP spectrum may be evaluated by summing the intensities of the m/z'
 7.2.1.3 For SIM operation, determine the analytes in each descriptor, the quantitation m/z for each analyte (the quantitation m/z can be the same as for full-scan operation; section 7.2.1.2), the dwell time on each m/z for each analyte, and the beginning and ending retention time for each descriptor. Analyze the verification standard in scan mode to verify m/z's and establish retention times for the analytes. There must be a minimum of two m/z's for each analyte to assure analyte identification. To maintain sensitivity, the number of m/z's in a descriptor should be limited. For example, for a descriptor with 10 m/z's and a chromatographic peak width of 5 sec, a dwell time of 100 ms at each m/z would result in a scan time of 1 second and provide 5 scans across the GC peak. The quantitation m/z will usually be the most intense peak in the mass spectrum. The quantitation m/z and dwell time may be optimized for each analyte. The acquisition table used for SIM must take into account the mass defect (usually less than 0.2 Dalton) that can occur at each m/z monitored. Refer to the footnotes to Table 4 or 5 for establishing operating conditions and to section 7.2.1.1 for establishing scan conditions.
 7.2.1.4 For combined scan and SIM operation, set up the scan segments and descriptors to meet requirements in sections 7.2.1.1-7.2.1.3. Analyze unfamiliar samples in the scan mode to assure that the analytes of interest are determined.
 7.2.2 Analyze each calibration standard according to section 12 and tabulate the area at the quantitation m/z against concentration for each analyte of interest, surrogate, and internal standard. If an interference is encountered, use a secondary m/z (Table 4 or 5) for quantitation. Calculate a response factor (RF) for each analyte of interest at each concentration using Equation 1.
-ER28AU17.014
 where:
 As = Area of the characteristic m/z for the analyte of interest or surrogate.
 Ais = Area of the characteristic m/z for the internal standard.
 Cis = Concentration of the internal standard (µg/mL).
 Cs = Concentration of the analyte of interest or surrogate (µg/mL).
-7.2. Calculate the mean (average) and relative standard deviation (RSD) of the responses factors. If the RSD is less than 35%, the RF can be assumed to be invariant and the average RF can be used for calculations. Alternatively, the results can be used to fit a linear or quadratic regression of response ratios, As/Ais, vs. concentration ratios Cs/Cis. If used, the regression must be weighted inversely proportional to concentration. The coefficient of determination (R2; Reference 10) of the weighted regression must be greater than 0.920 (this value roughly corresponds to the RSD limit of 35%). Alternatively, the relative standard error (Reference 11) may be used as an acceptance criterion. As with the RSD, the RSE must be less than 35%. If an RSE less than 35% cannot be achieved for a quadratic regression, system performance is unacceptable and the system must be adjusted and re-calibrated.
+7.2. Calculate the mean (average) and relative standard deviation (RSD) of the responses factors. If the RSD is less than 35%, the RF can be assumed to be invariant and the average RF can be used for calculations. Alternatively, the results can be used to fit a linear or quadratic regression of response ratios, As/Ais, vs. concentration ratios Cs/Cis. If used, the regression must be weighted inversely proportional to concentration. The coefficient of determination (R 2; Reference 10) of the weighted regression must be greater than 0.920 (this value roughly corresponds to the RSD limit of 35%). Alternatively, the relative standard error (Reference 11) may be used as an acceptance criterion. As with the RSD, the RSE must be less than 35%. If an RSE less than 35% cannot be achieved for a quadratic regression, system performance is unacceptable and the system must be adjusted and re-calibrated.
 Note: Using capillary columns and current instrumentation, it is quite likely that a laboratory can calibrate the target analytes in this method and achieve a linearity metric (either RSD or RSE) well below 35%. Therefore, laboratories are permitted to use more stringent acceptance criteria for calibration than described here, for example, to harmonize their application of this method with those from other sources.
 7.3 Calibration verification—The RF or calibration curve must be verified immediately after calibration and at the beginning of each 12-hour shift, by analysis of a standard at or near the concentration of the mid-point calibration standard (section 7.2.1). The standard(s) must be obtained from a second manufacturer or a manufacturer's batch prepared independently from the batch used for calibration. Traceability must be to a national standard, when available. Include the surrogates (section 6.8) in this solution. It is necessary to verify calibration for the analytes of interest (section 1.3) only.
 Note: The 12-hour shift begins after the DFTPP (section 13.1) and DDT/endrin tests (if DDT and endrin are to be determined), and after analysis of the calibration verification standard. The 12-hour shift ends 12 hours later. The DFTPP, DDT/endrin, and calibration verification tests are outside of the 12-hour shift.
@@ -4667,7 +4448,6 @@ Note: If an additional compound (Table 3) is to be determined; sulfur is to be r
 13.8 Decomposition of DDT and endrin—If DDT and/or endrin are to be determined, this test must be performed prior to calibration verification (section 13.4). The QC acceptance criteria (section 13.8.3) must be met before analyzing samples for DDE and/or Endrin. DDT decomposes to DDE and DDD. Endrin decomposes to endrin aldehyde and endrin ketone.
 13.8.1 Inject 1 µL of the DDT and endrin decomposition solution (section 6.14). As noted in section 6.14, other injection volumes may be used as long as the concentrations of DDT and endrin in the solution are adjusted to introduce the masses of the two analytes into the instrument that are listed in section 6.14.
 13.8.2 Measure the areas of the peaks for DDT, DDE, DDD, Endrin, Endrin aldehyde, and Endrin ketone. Calculate the percent breakdown as shown in the equations below:
-ER28AU17.015
 13.8.3 Both the % breakdown of DDT and of Endrin must be less than 20%, otherwise the system is not performing acceptably for DDT and endrin. In this case, repair the GC column system that failed and repeat the performance tests (sections 13.2 to 13.6) until the specification is met.
 Note: DDT and endrin decomposition are usually caused by accumulation of particulates in the injector and in the front end of the column. Cleaning and silanizing the injection port liner, and breaking off a short section of the front end of the column will usually eliminate the decomposition problem. Either of these corrective actions may affect retention times, GC resolution, and calibration linearity.
 14. Qualitative Identification
@@ -4679,11 +4459,9 @@ Note: Retention time windows other than ± 10 seconds may be appropriate dependi
 14.2 Structural isomers that produce very similar mass spectra should be identified as individual isomers if they have sufficiently different gas chromatographic retention times. Sufficient gas chromatographic resolution is achieved if the height of the valley between two isomer peaks is less than 50% of the average of the two peak heights. Otherwise, structural isomers are identified as isomeric pairs.
 15. Calculations
 15.1 When an analyte has been identified, quantitation of that analyte is based on the integrated abundance from the EICP of the primary characteristic m/z in Table 4 or 5. Calculate the concentration in the extract using the response factor (RF) determined in Section 7.2.2 and Equation 2. If the concentration of an analyte exceeds the calibration range, dilute the extract by the minimum amount to bring the concentration into the calibration range, and re-analyze the extract. Determine a dilution factor (DF) from the amount of the dilution. For example, if the extract is diluted by a factor of 2, DF = 2.
-ER28AU17.016
 where:
 Cex = Concentration of the analyte in the extract, in µg/mL, and the other terms are as defined in section 7.2.2.
 Calculate the concentration of the analyte in the sample using the concentration in the extract, the extract volume, the sample volume, and the dilution factor, per Equation 3:
-ER28AU17.017
 where:
 Csamp = Concentration of the analyte in the sample
 Cex = Concentration of the analyte in the extract, in µg/mL
@@ -4771,11 +4549,7 @@ N-Nitrosodi-n-propylamine 3 | 621-64-7 | — | —
 Phenanthrene | 85-01-8 | 5.4 | 16.2
 Pyrene | 129-00-0 | 1.9 | 5.7
 1,2,4-Trichlorobenzene | 120-82-1 | 1.9 | 5.7
-1 All analytes in this table are Priority Pollutants (40 CFR part 423, appendix A).
-2 Included for tailing factor testing.
-3 See section 1.2.
-4 MDL values from the 1984 promulgated version of Method 625.
-5 ML = Minimum Level—see Glossary for definition and derivation.
+1 All analytes in this table are Priority Pollutants (40 CFR part 423, appendix A). 2 Included for tailing factor testing. 3 See section 1.2. 4 MDL values from the 1984 promulgated version of Method 625. 5 ML = Minimum Level—see Glossary for definition and derivation.
 Table 2—Acid Extractables 1
 Analyte | CAS registry | MDL 3 (ug/L) | ML 4 (ug/L)
 4-Chloro-3-methylphenol | 59-50-7 | 3.0 | 9.0
@@ -4789,342 +4563,333 @@ Analyte | CAS registry | MDL 3 (ug/L) | ML 4 (ug/L)
 Pentachlorophenol 2 | 87-86-5 | 3.6 | 10.8
 Phenol | 108-95-2 | 1.5 | 4.5
 2,4,6-Trichlorophenol | 88-06-2 | 2.7 | 8.1
-1 All analytes in this table are Priority Pollutants (40 CFR part 423, appendix A).
-2 See section 1.2; included for tailing factor testing.
-3 MDL values from the 1984 promulgated version of Method 625.
-4 ML = Minimum Level—see Glossary for definition and derivation.
+1 All analytes in this table are Priority Pollutants (40 CFR part 423, appendix A). 2 See section 1.2; included for tailing factor testing. 3 MDL values from the 1984 promulgated version of Method 625. 4 ML = Minimum Level—see Glossary for definition and derivation.
 Table 3—Additional Extractable Analytes 1 2
 Analyte | CAS registry | MDL 7 (ug/L) | ML 8 (ug/L)
-Acetophenone | 98-86-2
-2-Acetylaminofluorene | 53-96-3
-1-Acetyl-2-thiourea | 591-08-2
-Alachlor | 15972-60-8
+Acetophenone | 98-86-2 | |
+2-Acetylaminofluorene | 53-96-3 | |
+1-Acetyl-2-thiourea | 591-08-2 | |
+Alachlor | 15972-60-8 | |
 Aldrin 3 | 309-00-2 | 1.9 | 5.7
-Ametryn | 834-12-8
-2-Aminoanthraquinone | 117-79-3
-Aminoazobenzene | 60-09-3
-4-Aminobiphenyl | 92-67-1
-3-Amino-9-ethylcarbazole | 132-32-1
-Anilazine | 101-05-3
-Aniline | 62-53-3
-o-Anisidine | 90-04-0
-Aramite | 140-57-8
-Atraton | 1610-17-9
-Atrazine | 1912-24-9
-Azinphos-methyl | 86-50-0
-Barban | 101-27-9
-Benzanthrone | 82-05-3
-Benzenethiol | 108-98-5
-Benzoic acid | 65-85-0
-2,3-Benzofluorene | 243-17-4
-p-Benzoquinone | 106-51-4
-Benzyl alcohol | 100-51-6
-alpha-BHC 3 4 | 319-84-6
+Ametryn | 834-12-8 | |
+2-Aminoanthraquinone | 117-79-3 | |
+Aminoazobenzene | 60-09-3 | |
+4-Aminobiphenyl | 92-67-1 | |
+3-Amino-9-ethylcarbazole | 132-32-1 | |
+Anilazine | 101-05-3 | |
+Aniline | 62-53-3 | |
+o-Anisidine | 90-04-0 | |
+Aramite | 140-57-8 | |
+Atraton | 1610-17-9 | |
+Atrazine | 1912-24-9 | |
+Azinphos-methyl | 86-50-0 | |
+Barban | 101-27-9 | |
+Benzanthrone | 82-05-3 | |
+Benzenethiol | 108-98-5 | |
+Benzoic acid | 65-85-0 | |
+2,3-Benzofluorene | 243-17-4 | |
+p-Benzoquinone | 106-51-4 | |
+Benzyl alcohol | 100-51-6 | |
+alpha-BHC 3 4 | 319-84-6 | |
 beta-BHC 3 | 319-85-7 | 3.1 | 9.3
 gamma-BHC (Lindane) 3 4 | 58-89-8 | 4.2 | 12.6
-delta-BHC 3 | 319-86-8
-Biphenyl | 92-52-4
-Bromacil | 314-40-9
-2-Bromochlorobenzene | 694-80-4
-3-Bromochlorobenzene | 108-39-2
-Bromoxynil | 1689-84-5
-Butachlor | 2318-4669
-Butylate | 2008-41-5
-n-C10 (n-decane) | 124-18-5
-n-C12 (n-undecane) | 112-40-2
-n-C14 (n-tetradecane) | 629-59-4
-n-C16 (n-hexadecane) | 544-76-3
-n-C18 (n-octadecane) | 593-45-3
-n-C20 (n-eicosane) | 112-95-8
-n-C22 (n-docosane) | 629-97-0
-n-C24 (n-tetracosane) | 646-31-1
-n-C26 (n-hexacosane) | 630-01-3
-n-C28 (n-octacosane) | 630-02-4
-n-C30 (n-triacontane) | 638-68-6
-Captafol | 2425-06-1
-Captan | 133-06-2
-Carbaryl | 63-25-2
-Carbazole | 86-74-8
-Carbofuran | 1563-66-2
-Carboxin | 5234-68 -4
-Carbophenothion | 786-19-6
-Chlordane 3 5 | 57-74-9
+delta-BHC 3 | 319-86-8 | |
+Biphenyl | 92-52-4 | |
+Bromacil | 314-40-9 | |
+2-Bromochlorobenzene | 694-80-4 | |
+3-Bromochlorobenzene | 108-39-2 | |
+Bromoxynil | 1689-84-5 | |
+Butachlor | 2318-4669 | |
+Butylate | 2008-41-5 | |
+n-C10 (n-decane) | 124-18-5 | |
+n-C12 (n-undecane) | 112-40-2 | |
+n-C14 (n-tetradecane) | 629-59-4 | |
+n-C16 (n-hexadecane) | 544-76-3 | |
+n-C18 (n-octadecane) | 593-45-3 | |
+n-C20 (n-eicosane) | 112-95-8 | |
+n-C22 (n-docosane) | 629-97-0 | |
+n-C24 (n-tetracosane) | 646-31-1 | |
+n-C26 (n-hexacosane) | 630-01-3 | |
+n-C28 (n-octacosane) | 630-02-4 | |
+n-C30 (n-triacontane) | 638-68-6 | |
+Captafol | 2425-06-1 | |
+Captan | 133-06-2 | |
+Carbaryl | 63-25-2 | |
+Carbazole | 86-74-8 | |
+Carbofuran | 1563-66-2 | |
+Carboxin | 5234-68 -4 | |
+Carbophenothion | 786-19-6 | |
+Chlordane 3 5 | 57-74-9 | |
 bis(2-Chloroethyl) ether 3 4 | 111-44-4 | 5.7 | 17.1
-Chloroneb | 2675-77-6
-4-Chloroaniline | 106-47-8
-Chlorobenzilate | 510-15-6
-Chlorfenvinphos | 470-90-6
-4-Chloro-2-methylaniline | 95-69-2
-3-(Chloromethyl)pyridine hydrochloride | 6959-48-4
-4-Chloro-2-nitroaniline | 89-63-4
-Chlorpropham | 101-21-3
-Chlorothalonil | 1897-45-6
-1-Chloronaphthalene | 90-13-1
-3-Chloronitrobenzene | 121-73-3
-4-Chloro-1,2-phenylenediamine | 95-83-0
-4-Chloro-1,3-phenylenediamine | 5131-60-2
-2-Chlorobiphenyl | 2051-60-7
-Chlorpyrifos | 2921-88-2
-Coumaphos | 56-72-4
-m + p-Cresol | 65794-96-9
-o-Cresol | 95-48-7
-p-Cresidine | 120-71-8
-Crotoxyphos | 7700-17-6
-2-Cyclohexyl-4,6-dinitro-phenol | 131-89-5
-Cyanazine | 21725-46-2
-Cycloate | 1134-23-2
-p-Cymene | 99-87-6
-Dacthal (DCPA) | 1861-32-1
+Chloroneb | 2675-77-6 | |
+4-Chloroaniline | 106-47-8 | |
+Chlorobenzilate | 510-15-6 | |
+Chlorfenvinphos | 470-90-6 | |
+4-Chloro-2-methylaniline | 95-69-2 | |
+3-(Chloromethyl)pyridine hydrochloride | 6959-48-4 | |
+4-Chloro-2-nitroaniline | 89-63-4 | |
+Chlorpropham | 101-21-3 | |
+Chlorothalonil | 1897-45-6 | |
+1-Chloronaphthalene | 90-13-1 | |
+3-Chloronitrobenzene | 121-73-3 | |
+4-Chloro-1,2-phenylenediamine | 95-83-0 | |
+4-Chloro-1,3-phenylenediamine | 5131-60-2 | |
+2-Chlorobiphenyl | 2051-60-7 | |
+Chlorpyrifos | 2921-88-2 | |
+Coumaphos | 56-72-4 | |
+m + p-Cresol | 65794-96-9 | |
+o-Cresol | 95-48-7 | |
+p-Cresidine | 120-71-8 | |
+Crotoxyphos | 7700-17-6 | |
+2-Cyclohexyl-4,6-dinitro-phenol | 131-89-5 | |
+Cyanazine | 21725-46-2 | |
+Cycloate | 1134-23-2 | |
+p-Cymene | 99-87-6 | |
+Dacthal (DCPA) | 1861-32-1 | |
 4,4'-DDD 3 | 72-54-8 | 2.8 | 8.4
 4,4'-DDE 3 | 72-55-9 | 5.6 | 16.8
 4,4'-DDT 3 | 50-29-3 | 4.7 | 14.1
-Demeton-O | 298-03-3
-Demeton-S | 126-75-0
-Diallate (cis or trans) | 2303-16-4
-2,4-Diaminotoluene | 95-80-7
-Diazinon | 333-41-5
-Dibenz(a,j)acridine | 224-42-0
-Dibenzofuran | 132-64-9
-Dibenzo(a,e)pyrene | 192-65-4
-Dibenzothiophene | 132-65-0
-1,2-Dibromo-3-chloropropane | 96-12-8
-3,5-Dibromo-4-hydroxybenzonitrile | 1689-84-5
-2,6-Di-tert-butyl-p-benzoquinone | 719-22-2
-Dichlone | 117-80-6
-2,3-Dichloroaniline | 608-27-5
-2,3-Dichlorobiphenyl | 16605-91-7
-2,6-Dichloro-4-nitroaniline | 99-30-9
-2,3-Dichloronitrobenzene | 3209-22-1
-1,3-Dichloro-2-propanol | 96-23-1
-2,6-Dichlorophenol | 120-83-2
-Dichlorvos | 62-73-7
-Dicrotophos | 141-66-2
+Demeton-O | 298-03-3 | |
+Demeton-S | 126-75-0 | |
+Diallate (cis or trans) | 2303-16-4 | |
+2,4-Diaminotoluene | 95-80-7 | |
+Diazinon | 333-41-5 | |
+Dibenz(a,j)acridine | 224-42-0 | |
+Dibenzofuran | 132-64-9 | |
+Dibenzo(a,e)pyrene | 192-65-4 | |
+Dibenzothiophene | 132-65-0 | |
+1,2-Dibromo-3-chloropropane | 96-12-8 | |
+3,5-Dibromo-4-hydroxybenzonitrile | 1689-84-5 | |
+2,6-Di-tert-butyl-p-benzoquinone | 719-22-2 | |
+Dichlone | 117-80-6 | |
+2,3-Dichloroaniline | 608-27-5 | |
+2,3-Dichlorobiphenyl | 16605-91-7 | |
+2,6-Dichloro-4-nitroaniline | 99-30-9 | |
+2,3-Dichloronitrobenzene | 3209-22-1 | |
+1,3-Dichloro-2-propanol | 96-23-1 | |
+2,6-Dichlorophenol | 120-83-2 | |
+Dichlorvos | 62-73-7 | |
+Dicrotophos | 141-66-2 | |
 Dieldrin 3 | 60-57-1 | 2.5 | 7.5
-1,2:3,4-Diepoxybutane | 1464-53-5
-Di(2-ethylhexyl) adipate | 103-23-1
-Diethylstilbestrol | 56-53-1
-Diethyl sulfate | 64-67-5
-Dilantin (5,5-Diphenylhydantoin) | 57-41-0
-Dimethoate | 60-51-5
-3,3′-Dimethoxybenzidine | 119-90-4
-Dimethylaminoazobenzene | 60-11-7
-7,12-Dimethylbenz(a)anthracene | 57-97-6
-3,3′-Dimethylbenzidine | 119-93-7
-N,N-Dimethylformamide | 68-12-2
-3,6-Dimethylphenathrene | 1576-67-6
-alpha, alpha-Dimethylphenethylamine | 122-09-8
-Dimethyl sulfone | 67-71-0
-1,2-Dinitrobenzene | 528-29-0
-1,3-Dinitrobenzene | 99-65-0
-1,4-Dinitrobenzene | 100-25-4
-Dinocap | 39300-45-3
-Dinoseb | 88-85-7
-Diphenylamine | 122-39-4
-Diphenyl ether | 101-84-8
-1,2-Diphenylhydrazine | 122-66-7
-Diphenamid | 957-51-7
-Diphenyldisulfide | 882-33-7
-Disulfoton | 298-04-4
-Disulfoton sulfoxide | 2497-07-6
-Disulfoton sulfone | 2497-06-5
-Endosulfan I 4 | 959-98-8
-Endosulfan II 3 4 | 33213-65-9
+1,2:3,4-Diepoxybutane | 1464-53-5 | |
+Di(2-ethylhexyl) adipate | 103-23-1 | |
+Diethylstilbestrol | 56-53-1 | |
+Diethyl sulfate | 64-67-5 | |
+Dilantin (5,5-Diphenylhydantoin) | 57-41-0 | |
+Dimethoate | 60-51-5 | |
+3,3′-Dimethoxybenzidine | 119-90-4 | |
+Dimethylaminoazobenzene | 60-11-7 | |
+7,12-Dimethylbenz(a)anthracene | 57-97-6 | |
+3,3′-Dimethylbenzidine | 119-93-7 | |
+N,N-Dimethylformamide | 68-12-2 | |
+3,6-Dimethylphenathrene | 1576-67-6 | |
+alpha, alpha-Dimethylphenethylamine | 122-09-8 | |
+Dimethyl sulfone | 67-71-0 | |
+1,2-Dinitrobenzene | 528-29-0 | |
+1,3-Dinitrobenzene | 99-65-0 | |
+1,4-Dinitrobenzene | 100-25-4 | |
+Dinocap | 39300-45-3 | |
+Dinoseb | 88-85-7 | |
+Diphenylamine | 122-39-4 | |
+Diphenyl ether | 101-84-8 | |
+1,2-Diphenylhydrazine | 122-66-7 | |
+Diphenamid | 957-51-7 | |
+Diphenyldisulfide | 882-33-7 | |
+Disulfoton | 298-04-4 | |
+Disulfoton sulfoxide | 2497-07-6 | |
+Disulfoton sulfone | 2497-06-5 | |
+Endosulfan I 4 | 959-98-8 | |
+Endosulfan II 3 4 | 33213-65-9 | |
 Endosulfan sulfate 3 | 1031-07-8 | 5.6 | 16.8
-Endrin 3 4 | 72-20-8
-Endrin aldehyde 3 4 | 7421-93-4
-Endrin ketone 3 4 | 53494-70-5
-EPN | 2104-64-5
-EPTC | 759-94-4
-Ethion | 563-12-2
-Ethoprop | 13194-48-4
-Ethyl carbamate | 51-79-6
-Ethyl methanesulfonate | 65-50-0
-Ethylenethiourea | 96-45-7
-Etridiazole | 2593-15-9
-Ethynylestradiol-3-methyl ether | 72-33-3
-Famphur | 52-85-7
-Fenamiphos | 22224-92-6
-Fenarimol | 60168-88-9
-Fensulfothion | 115-90-2
-Fenthion | 55-38-9
-Fluchloralin | 33245-39-5
-Fluridone | 59756-60-4
+Endrin 3 4 | 72-20-8 | |
+Endrin aldehyde 3 4 | 7421-93-4 | |
+Endrin ketone 3 4 | 53494-70-5 | |
+EPN | 2104-64-5 | |
+EPTC | 759-94-4 | |
+Ethion | 563-12-2 | |
+Ethoprop | 13194-48-4 | |
+Ethyl carbamate | 51-79-6 | |
+Ethyl methanesulfonate | 65-50-0 | |
+Ethylenethiourea | 96-45-7 | |
+Etridiazole | 2593-15-9 | |
+Ethynylestradiol-3-methyl ether | 72-33-3 | |
+Famphur | 52-85-7 | |
+Fenamiphos | 22224-92-6 | |
+Fenarimol | 60168-88-9 | |
+Fensulfothion | 115-90-2 | |
+Fenthion | 55-38-9 | |
+Fluchloralin | 33245-39-5 | |
+Fluridone | 59756-60-4 | |
 Heptachlor 3 | 76-44-8 | 1.9 | 5.7
 Heptachlor epoxide 3 | 1024-57-3 | 2.2 | 6.6
-2,2′,3,3′,4,4′,6-Heptachlorobiphenyl | 52663-71-5
-2,2′,4,4′,5′,6-Hexachlorobiphenyl | 60145-22-4
-Hexachlorocyclopentadiene 3 4 | 77-47-4
-Hexachlorophene | 70-30-4
-Hexachloropropene | 1888-71-7
-Hexamethylphosphoramide | 680-31-9
-Hexanoic acid | 142-62-1
-Hexazinone | 51235-04-2
-Hydroquinone | 123-31-9
-Isodrin | 465-73-6
-2-Isopropylnaphthalene | 2027-17-0
-Isosafrole | 120-58-1
-Kepone | 143-50-0
-Leptophos | 21609-90-5
-Longifolene | 475-20-7
-Malachite green | 569-64-2
-Malathion | 121-75-5
-Maleic anhydride | 108-31-6
-Merphos | 150-50-5
-Mestranol | 72-33-3
-Methapyrilene | 91-80-5
-Methoxychlor | 72-43-5
-2-Methylbenzothioazole | 120-75-2
-3-Methylcholanthrene | 56-49-5
-4,4′-Methylenebis(2-chloroaniline) | 101-14-4
-4,4′-Methylenebis(N,N-dimethylaniline) | 101-61-1
-4,5-Methylenephenanthrene | 203-64-5
-1-Methylfluorene | 1730-37-6
-Methyl methanesulfonate | 66-27-3
-2-Methylnaphthalene | 91-57-6
-Methylparaoxon | 950-35-6
-Methyl parathion | 298-00-0
-1-Methylphenanthrene | 832-69-9
-2-(Methylthio)benzothiazole | 615-22-5
-Metolachlor | 5218-45-2
-Metribuzin | 21087-64-9
-Mevinphos | 7786-34-7
-Mexacarbate | 315-18-4
-MGK 264 | 113-48-4
-Mirex | 2385-85-5
-Molinate | 2212-67-1
-Monocrotophos | 6923-22-4
-Naled | 300-76-5
-Napropamide | 15299-99-7
-1,4-Naphthoquinone | 130-15-4
-1-Naphthylamine | 134-32-7
-2-Naphthylamine | 91-59-8
-1,5-Naphthalenediamine | 2243-62-1
-Nicotine | 54-11-5
-5-Nitroacenaphthene | 602-87-9
-2-Nitroaniline | 88-74-4
-3-Nitroaniline | 99-09-2
-4-Nitroaniline | 100-01-6
-5-Nitro-o-anisidine | 99-59-2
-4-Nitrobiphenyl | 92-93-3
-Nitrofen | 1836-75-5
-5-Nitro-o-toluidine | 99-55-8
-Nitroquinoline-1-oxide | 56-57-5
-N-Nitrosodi-n-butylamine 4 | 924-16-3
-N-Nitrosodiethylamine 4 | 55-18-5
-N-Nitrosodimethylamine 3 4 | 62-75-9
-N-Nitrosodiphenylamine 3 4 | 86-30-6
-N-Nitrosomethylethylamine 4 | 10595-95-6
-N-Nitrosomethylphenylamine 4 | 614-00-6
-N-Nitrosomorpholine 4 | 59-89-2
-N-Nitrosopiperidine 4 | 100-75-5
-N-Nitrosopyrrolidine 4 | 930-55-2
-trans-Nonachlor | 39765-80-5
-Norflurazon | 27314-13-2
-2,2′,3,3′,4,5′,6,6′-Octachlorobiphenyl | 40186-71-8
-Octamethyl pyrophosphoramide | 152-16-9
-4,4'-Oxydianiline | 101-80-4
-Parathion | 56-38-2
-PCB-1016 3 5 | 12674-11-2
+2,2′,3,3′,4,4′,6-Heptachlorobiphenyl | 52663-71-5 | |
+2,2′,4,4′,5′,6-Hexachlorobiphenyl | 60145-22-4 | |
+Hexachlorocyclopentadiene 3 4 | 77-47-4 | |
+Hexachlorophene | 70-30-4 | |
+Hexachloropropene | 1888-71-7 | |
+Hexamethylphosphoramide | 680-31-9 | |
+Hexanoic acid | 142-62-1 | |
+Hexazinone | 51235-04-2 | |
+Hydroquinone | 123-31-9 | |
+Isodrin | 465-73-6 | |
+2-Isopropylnaphthalene | 2027-17-0 | |
+Isosafrole | 120-58-1 | |
+Kepone | 143-50-0 | |
+Leptophos | 21609-90-5 | |
+Longifolene | 475-20-7 | |
+Malachite green | 569-64-2 | |
+Malathion | 121-75-5 | |
+Maleic anhydride | 108-31-6 | |
+Merphos | 150-50-5 | |
+Mestranol | 72-33-3 | |
+Methapyrilene | 91-80-5 | |
+Methoxychlor | 72-43-5 | |
+2-Methylbenzothioazole | 120-75-2 | |
+3-Methylcholanthrene | 56-49-5 | |
+4,4′-Methylenebis(2-chloroaniline) | 101-14-4 | |
+4,4′-Methylenebis(N,N-dimethylaniline) | 101-61-1 | |
+4,5-Methylenephenanthrene | 203-64-5 | |
+1-Methylfluorene | 1730-37-6 | |
+Methyl methanesulfonate | 66-27-3 | |
+2-Methylnaphthalene | 91-57-6 | |
+Methylparaoxon | 950-35-6 | |
+Methyl parathion | 298-00-0 | |
+1-Methylphenanthrene | 832-69-9 | |
+2-(Methylthio)benzothiazole | 615-22-5 | |
+Metolachlor | 5218-45-2 | |
+Metribuzin | 21087-64-9 | |
+Mevinphos | 7786-34-7 | |
+Mexacarbate | 315-18-4 | |
+MGK 264 | 113-48-4 | |
+Mirex | 2385-85-5 | |
+Molinate | 2212-67-1 | |
+Monocrotophos | 6923-22-4 | |
+Naled | 300-76-5 | |
+Napropamide | 15299-99-7 | |
+1,4-Naphthoquinone | 130-15-4 | |
+1-Naphthylamine | 134-32-7 | |
+2-Naphthylamine | 91-59-8 | |
+1,5-Naphthalenediamine | 2243-62-1 | |
+Nicotine | 54-11-5 | |
+5-Nitroacenaphthene | 602-87-9 | |
+2-Nitroaniline | 88-74-4 | |
+3-Nitroaniline | 99-09-2 | |
+4-Nitroaniline | 100-01-6 | |
+5-Nitro-o-anisidine | 99-59-2 | |
+4-Nitrobiphenyl | 92-93-3 | |
+Nitrofen | 1836-75-5 | |
+5-Nitro-o-toluidine | 99-55-8 | |
+Nitroquinoline-1-oxide | 56-57-5 | |
+N-Nitrosodi-n-butylamine 4 | 924-16-3 | |
+N-Nitrosodiethylamine 4 | 55-18-5 | |
+N-Nitrosodimethylamine 3 4 | 62-75-9 | |
+N-Nitrosodiphenylamine 3 4 | 86-30-6 | |
+N-Nitrosomethylethylamine 4 | 10595-95-6 | |
+N-Nitrosomethylphenylamine 4 | 614-00-6 | |
+N-Nitrosomorpholine 4 | 59-89-2 | |
+N-Nitrosopiperidine 4 | 100-75-5 | |
+N-Nitrosopyrrolidine 4 | 930-55-2 | |
+trans-Nonachlor | 39765-80-5 | |
+Norflurazon | 27314-13-2 | |
+2,2′,3,3′,4,5′,6,6′-Octachlorobiphenyl | 40186-71-8 | |
+Octamethyl pyrophosphoramide | 152-16-9 | |
+4,4'-Oxydianiline | 101-80-4 | |
+Parathion | 56-38-2 | |
+PCB-1016 3 5 | 12674-11-2 | |
 PCB-1221 3 5 | 11104-28-2 | 30 | 90
-PCB-1232 3 5 | 11141-16-5
-PCB-1242 3 5 | 53469-21-9
-PCB-1248 3 5 | 12672-29-6
+PCB-1232 3 5 | 11141-16-5 | |
+PCB-1242 3 5 | 53469-21-9 | |
+PCB-1248 3 5 | 12672-29-6 | |
 PCB-1254 3 5 | 11097-69-1 | 36 | 108
-PCB-1260 3 5 | 11098-82-5
-PCB-1268 3 5 | 11100-14-4
-Pebulate | 1114-71-2
-Pentachlorobenzene | 608-93-5
-Pentachloronitrobenzene | 82-68-8
-2,2′,3,4′,6-Pentachlorobiphenyl | 68194-05-8
-Pentachloroethane | 76-01-7
-Pentamethylbenzene | 700-12-9
-Perylene | 198-55-0
-Phenacetin | 62-44-2
-cis-Permethrin | 61949-76-6
-trans-Permethrin | 61949-77-7
-Phenobarbital | 50-06-6
-Phenothiazene | 92-84-2
-1,4-Phenylenediamine | 624-18-0
-1-Phenylnaphthalene | 605-02-7
-2-Phenylnaphthalene | 612-94-2
-Phorate | 298-02-2
-Phosalone | 2310-18-0
-Phosmet | 732-11-6
-Phosphamidon | 13171-21-6
-Phthalic anhydride | 85-44-9
-alpha-Picoline (2-Methylpyridine) | 109-06-8
-Piperonyl sulfoxide | 120-62-7
-Prometon | 1610-18-0
-Prometryn | 7287-19-6
-Pronamide | 23950-58-5
-Propachlor | 1918-16-7
-Propazine | 139-40-2
-Propylthiouracil | 51-52-5
-Pyridine | 110-86-1
-Resorcinol (1,3-Benzenediol) | 108-46-3
-Safrole | 94-59-7
-Simazine | 122-34-9
-Simetryn | 1014-70-6
-Squalene | 7683-64-9
-Stirofos | 22248-79-9
-Strychnine | 57-24-9
-Styrene 9 | 100-42-5
-Sulfallate | 95-06-7
-Tebuthiuron | 34014-18-1
-Terbacil | 5902-51-2
-Terbufos | 13071-79-9
-Terbutryn | 886-50-0
-alpha-Terpineol | 98-55-5
-1,2,4,5-Tetrachlorobenzene | 95-94-3
-2,2′,4,4′-Tetrachlorobiphenyl | 2437-79-8
-2,3,7,8-Tetrachlorodibenzo-p-dioxin | 1746-01-6
-2,3,4,6-Tetrachlorophenol | 58-90-2
-Tetrachlorvinphos | 22248-79-9
-Tetraethyl dithiopyrophosphate | 3689-24-5
-Tetraethyl pyrophosphate | 107-49-3
-Thianaphthene (2,3-Benzothiophene) | 95-15-8
-Thioacetamide | 62-55-5
-Thionazin | 297-97-2
-Thiophenol (Benzenethiol) | 108-98-5
-Thioxanthone | 492-22-8
-Toluene-1,3-diisocyanate | 26471-62-5
-Toluene-2,4-diisocyanate | 584-84-9
-o-Toluidine | 95-53-4
-Toxaphene 3 5 | 8001-35-2
-Triadimefon | 43121-43-3
-1,2,3-Trichlorobenzene | 87-61-6
-2,4,5-Trichlorobiphenyl | 15862-07-4
-2,3,6-Trichlorophenol | 933-75-5
-2,4,5-Trichlorophenol | 95-95-4
-Tricyclazole | 41814-78-2
-Trifluralin | 1582-09-8
-1,2,3-Trimethoxybenzene | 634-36-6
-2,4,5-Trimethylaniline | 137-17-7
-Trimethyl phosphate | 512-56-1
-Triphenylene | 217-59-4
-Tripropyleneglycolmethyl ether | 20324-33-8
-1,3,5-Trinitrobenzene | 99-35-4
-Tris(2,3-dibromopropyl) phosphate | 126-72-7
-Tri-p-tolyl phosphate | 78-32-0
-O,O,O-Triethyl phosphorothioate | 126-68-1
-Trithiane | 291-29-4
-Vernolate | 1929-77-7
-1 Compounds that have been demonstrated amenable to extraction and gas chromatography.
-2 Determine each analyte in the fraction that gives the most accurate result.
-3 Priority Pollutant (40 CFR part 423, appendix A).
-4 See section 1.2.
-5 These compounds are mixtures of various isomers.
-6 Detected as azobenzene.
-7 MDL values from the 1984 promulgated version of Method 625.
-8 ML = Minimum Level—see Glossary for definition and derivation.
-9 Styrene may be susceptible to losses during sampling, preservation, and/or extraction of full-volume (1 L) water samples. However, styrene is not regulated at 40 CFR part 136, and it is also listed as an analyte in EPA Method 624.1 and EPA Method 1625C, where such losses may be less than using Method 625.1.
+PCB-1260 3 5 | 11098-82-5 | |
+PCB-1268 3 5 | 11100-14-4 | |
+Pebulate | 1114-71-2 | |
+Pentachlorobenzene | 608-93-5 | |
+Pentachloronitrobenzene | 82-68-8 | |
+2,2′,3,4′,6-Pentachlorobiphenyl | 68194-05-8 | |
+Pentachloroethane | 76-01-7 | |
+Pentamethylbenzene | 700-12-9 | |
+Perylene | 198-55-0 | |
+Phenacetin | 62-44-2 | |
+cis-Permethrin | 61949-76-6 | |
+trans-Permethrin | 61949-77-7 | |
+Phenobarbital | 50-06-6 | |
+Phenothiazene | 92-84-2 | |
+1,4-Phenylenediamine | 624-18-0 | |
+1-Phenylnaphthalene | 605-02-7 | |
+2-Phenylnaphthalene | 612-94-2 | |
+Phorate | 298-02-2 | |
+Phosalone | 2310-18-0 | |
+Phosmet | 732-11-6 | |
+Phosphamidon | 13171-21-6 | |
+Phthalic anhydride | 85-44-9 | |
+alpha-Picoline (2-Methylpyridine) | 109-06-8 | |
+Piperonyl sulfoxide | 120-62-7 | |
+Prometon | 1610-18-0 | |
+Prometryn | 7287-19-6 | |
+Pronamide | 23950-58-5 | |
+Propachlor | 1918-16-7 | |
+Propazine | 139-40-2 | |
+Propylthiouracil | 51-52-5 | |
+Pyridine | 110-86-1 | |
+Resorcinol (1,3-Benzenediol) | 108-46-3 | |
+Safrole | 94-59-7 | |
+Simazine | 122-34-9 | |
+Simetryn | 1014-70-6 | |
+Squalene | 7683-64-9 | |
+Stirofos | 22248-79-9 | |
+Strychnine | 57-24-9 | |
+Styrene 9 | 100-42-5 | |
+Sulfallate | 95-06-7 | |
+Tebuthiuron | 34014-18-1 | |
+Terbacil | 5902-51-2 | |
+Terbufos | 13071-79-9 | |
+Terbutryn | 886-50-0 | |
+alpha-Terpineol | 98-55-5 | |
+1,2,4,5-Tetrachlorobenzene | 95-94-3 | |
+2,2′,4,4′-Tetrachlorobiphenyl | 2437-79-8 | |
+2,3,7,8-Tetrachlorodibenzo-p-dioxin | 1746-01-6 | |
+2,3,4,6-Tetrachlorophenol | 58-90-2 | |
+Tetrachlorvinphos | 22248-79-9 | |
+Tetraethyl dithiopyrophosphate | 3689-24-5 | |
+Tetraethyl pyrophosphate | 107-49-3 | |
+Thianaphthene (2,3-Benzothiophene) | 95-15-8 | |
+Thioacetamide | 62-55-5 | |
+Thionazin | 297-97-2 | |
+Thiophenol (Benzenethiol) | 108-98-5 | |
+Thioxanthone | 492-22-8 | |
+Toluene-1,3-diisocyanate | 26471-62-5 | |
+Toluene-2,4-diisocyanate | 584-84-9 | |
+o-Toluidine | 95-53-4 | |
+Toxaphene 3 5 | 8001-35-2 | |
+Triadimefon | 43121-43-3 | |
+1,2,3-Trichlorobenzene | 87-61-6 | |
+2,4,5-Trichlorobiphenyl | 15862-07-4 | |
+2,3,6-Trichlorophenol | 933-75-5 | |
+2,4,5-Trichlorophenol | 95-95-4 | |
+Tricyclazole | 41814-78-2 | |
+Trifluralin | 1582-09-8 | |
+1,2,3-Trimethoxybenzene | 634-36-6 | |
+2,4,5-Trimethylaniline | 137-17-7 | |
+Trimethyl phosphate | 512-56-1 | |
+Triphenylene | 217-59-4 | |
+Tripropyleneglycolmethyl ether | 20324-33-8 | |
+1,3,5-Trinitrobenzene | 99-35-4 | |
+Tris(2,3-dibromopropyl) phosphate | 126-72-7 | |
+Tri-p-tolyl phosphate | 78-32-0 | |
+O,O,O-Triethyl phosphorothioate | 126-68-1 | |
+Trithiane | 291-29-4 | |
+Vernolate | 1929-77-7 | |
+1 Compounds that have been demonstrated amenable to extraction and gas chromatography. 2 Determine each analyte in the fraction that gives the most accurate result. 3 Priority Pollutant (40 CFR part 423, appendix A). 4 See section 1.2. 5 These compounds are mixtures of various isomers. 6 Detected as azobenzene. 7 MDL values from the 1984 promulgated version of Method 625. 8 ML = Minimum Level—see Glossary for definition and derivation. 9 Styrene may be susceptible to losses during sampling, preservation, and/or extraction of full-volume (1 L) water samples. However, styrene is not regulated at 40 CFR part 136, and it is also listed as an analyte in EPA Method 624.1 and EPA Method 1625C, where such losses may be less than using Method 625.1.
 Table 4—Chromatographic Conditions and Characteristic m/z's for Base/Neutral Extractables
-Analyte | Retention time(sec) 1 | Characteristic m/z's | Electron impact ionization | Primary | Second | Second | Chemical ionization | Methane | Methane | Methane
-N-Nitrosodimethylamine | 385 | 42 | 74 | 44 |
+Analyte | Retention time (sec) 1 | Characteristic m/z's
+Electron impact ionization | Chemical ionization
+Primary | Second | Second | Methane | Methane | Methane
+N-Nitrosodimethylamine | 385 | 42 | 74 | 44 | | |
 bis(2-Chloroethyl) ether | 704 | 93 | 63 | 95 | 63 | 107 | 109
 bis(2-Chloroisopropyl) ether | 799 | 45 | 77 | 79 | 77 | 135 | 137
 Hexachloroethane | 823 | 117 | 201 | 199 | 199 | 201 | 203
-N-Nitrosodi-n-propylamine | 830 | 130 | 42 | 101 |
+N-Nitrosodi-n-propylamine | 830 | 130 | 42 | 101 | | |
 Nitrobenzene | 849 | 77 | 123 | 65 | 124 | 152 | 164
 Isophorone | 889 | 82 | 95 | 138 | 139 | 167 | 178
 bis(2-Chloroethoxy) methane | 939 | 93 | 95 | 123 | 65 | 107 | 137
@@ -5139,61 +4904,60 @@ Dimethyl phthalate | 1273 | 163 | 194 | 164 | 151 | 163 | 164
 Acenaphthene | 1304 | 154 | 153 | 152 | 154 | 155 | 183
 2,4-Dinitrotoluene | 1364 | 165 | 63 | 182 | 183 | 211 | 223
 Fluorene | 1401 | 166 | 165 | 167 | 166 | 167 | 195
-4-Chlorophenyl phenyl ether | 1409 | 204 | 206 | 141 |
+4-Chlorophenyl phenyl ether | 1409 | 204 | 206 | 141 | | |
 Diethyl phthalate | 1414 | 149 | 177 | 150 | 177 | 223 | 251
 N-Nitrosodiphenylamine | 1464 | 169 | 168 | 167 | 169 | 170 | 198
 4-Bromophenyl phenyl ether | 1498 | 248 | 250 | 141 | 249 | 251 | 277
-alpha-BHC | 1514 | 183 | 181 | 109 |
+alpha-BHC | 1514 | 183 | 181 | 109 | | |
 Hexachlorobenzene | 1522 | 284 | 142 | 249 | 284 | 286 | 288
-beta-BHC | 1544 | 183 | 181 | 109 |
-gamma-BHC | 1557 | 181 | 183 | 109 |
+beta-BHC | 1544 | 183 | 181 | 109 | | |
+gamma-BHC | 1557 | 181 | 183 | 109 | | |
 Phenanthrene | 1583 | 178 | 179 | 176 | 178 | 179 | 207
 Anthracene | 1592 | 178 | 179 | 176 | 178 | 179 | 207
-delta-BHC | 1599 | 183 | 109 | 181 |
-Heptachlor | 1683 | 100 | 272 | 274 |
+delta-BHC | 1599 | 183 | 109 | 181 | | |
+Heptachlor | 1683 | 100 | 272 | 274 | | |
 Di-n-butyl phthalate | 1723 | 149 | 150 | 104 | 149 | 205 | 279
-Aldrin | 1753 | 66 | 263 | 220 |
+Aldrin | 1753 | 66 | 263 | 220 | | |
 Fluoranthene | 1817 | 202 | 101 | 100 | 203 | 231 | 243
-Heptachlor epoxide | 1820 | 353 | 355 | 351 |
-gamma-Chlordane | 1834 | 373 | 375 | 377 |
+Heptachlor epoxide | 1820 | 353 | 355 | 351 | | |
+gamma-Chlordane | 1834 | 373 | 375 | 377 | | |
 Pyrene | 1852 | 202 | 101 | 100 | 203 | 231 | 243
-Benzidine2 | 1853 | 184 | 92 | 185 | 185 | 213 | 225
-alpha-Chlordane | 1854 | 373 | 375 | 377 |
-Endosulfan I | 1855 | 237 | 339 | 341 |
-4,4′-DDE | 1892 | 246 | 248 | 176 |
-Dieldrin | 1907 | 79 | 263 | 279 |
-Endrin | 1935 | 81 | 263 | 82 |
-Endosulfan II | 2014 | 237 | 339 | 341 |
-4,4′-DDD | 2019 | 235 | 237 | 165 |
-Endrin aldehyde | 2031 | 67 | 345 | 250 |
+Benzidine 2 | 1853 | 184 | 92 | 185 | 185 | 213 | 225
+alpha-Chlordane | 1854 | 373 | 375 | 377 | | |
+Endosulfan I | 1855 | 237 | 339 | 341 | | |
+4,4′-DDE | 1892 | 246 | 248 | 176 | | |
+Dieldrin | 1907 | 79 | 263 | 279 | | |
+Endrin | 1935 | 81 | 263 | 82 | | |
+Endosulfan II | 2014 | 237 | 339 | 341 | | |
+4,4′-DDD | 2019 | 235 | 237 | 165 | | |
+Endrin aldehyde | 2031 | 67 | 345 | 250 | | |
 Butyl benzyl phthalate | 2060 | 149 | 91 | 206 | 149 | 299 | 327
-Endosulfan sulfate | 2068 | 272 | 387 | 422 |
-4,4′-DDT | 2073 | 235 | 237 | 165 |
+Endosulfan sulfate | 2068 | 272 | 387 | 422 | | |
+4,4′-DDT | 2073 | 235 | 237 | 165 | | |
 Chrysene | 2083 | 228 | 226 | 229 | 228 | 229 | 257
-3,3′-Dichlorobenzidine | 2086 | 252 | 254 | 126 |
+3,3′-Dichlorobenzidine | 2086 | 252 | 254 | 126 | | |
 Benzo(a)anthracene | 2090 | 228 | 229 | 226 | 228 | 229 | 257
-bis(2-Ethylhexyl) phthalate | 2124 | 149 | 167 | 279 | 149
-Di-n-octyl phthalate | 2240 | 149 | 43 | 57 |
+bis(2-Ethylhexyl) phthalate | 2124 | 149 | 167 | 279 | 149 | |
+Di-n-octyl phthalate | 2240 | 149 | 43 | 57 | | |
 Benzo(b)fluoranthene | 2286 | 252 | 253 | 125 | 252 | 253 | 281
 Benzo(k)fluoranthene | 2293 | 252 | 253 | 125 | 252 | 253 | 281
 Benzo(a)pyrene | 2350 | 252 | 253 | 125 | 252 | 253 | 281
 Indeno(1,2,3-cd) pyrene | 2650 | 276 | 138 | 277 | 276 | 277 | 305
 Dibenz(a,h)anthracene | 2660 | 278 | 139 | 279 | 278 | 279 | 307
 Benzo(ghi)perylene | 2750 | 276 | 138 | 277 | 276 | 277 | 305
-Toxaphene | | 159 | 231 | 233 |
-PCB 1016 | | 224 | 260 | 294 |
-PCB 1221 | | 190 | 224 | 260 |
-PCB 1232 | | 190 | 224 | 260 |
-PCB 1242 | | 224 | 260 | 294 |
-PCB 1248 | | 294 | 330 | 262 |
-PCB 1254 | | 294 | 330 | 362 |
-PCB 1260 | | 330 | 362 | 394
-1 Column: 30 m x 0.25 mm ID; 94% methyl, 5% phenyl, 1% vinyl bonded phase fused silica capillary.
-Conditions: 5 min at 30 °C; 30-280 at 8 °C per min; isothermal at 280 °C until benzo(ghi)perylene elutes.
-Gas velocity: 30 cm/sec at 30 °C (at constant pressure).
-2 See section 1.2; included for tailing factor testing.
+Toxaphene | | 159 | 231 | 233 | | |
+PCB 1016 | | 224 | 260 | 294 | | |
+PCB 1221 | | 190 | 224 | 260 | | |
+PCB 1232 | | 190 | 224 | 260 | | |
+PCB 1242 | | 224 | 260 | 294 | | |
+PCB 1248 | | 294 | 330 | 262 | | |
+PCB 1254 | | 294 | 330 | 362 | | |
+PCB 1260 | | 330 | 362 | 394 | | |
+1 Column: 30 m x 0.25 mm ID; 94% methyl, 5% phenyl, 1% vinyl bonded phase fused silica capillary. Conditions: 5 min at 30 °C; 30-280 at 8 °C per min; isothermal at 280 °C until benzo(ghi)perylene elutes. Gas velocity: 30 cm/sec at 30 °C (at constant pressure). 2 See section 1.2; included for tailing factor testing.
 Table 5—Chromatographic Conditions and Characteristic m/z's for Acid Extractables
-Analyte | Retention Time(sec) 1 | Characteristic m/z's | Electron impact ionization | Prime | Second | Second | Chemical ionization | Methane | Methane | Methane
+Analyte | Retention Time (sec) 1 | Characteristic m/z's
+Electron impact ionization | Chemical ionization
+Prime | Second | Second | Methane | Methane | Methane
 2-Chlorophenol | 705 | 128 | 64 | 130 | 129 | 131 | 157
 Phenol | 700 | 94 | 65 | 66 | 95 | 123 | 135
 2-Nitrophenol | 900 | 139 | 65 | 109 | 140 | 168 | 122
@@ -5205,11 +4969,9 @@ Phenol | 700 | 94 | 65 | 66 | 95 | 123 | 135
 4-Nitrophenol | 1354 | 65 | 139 | 109 | 140 | 168 | 122
 2-Methyl-4,6-dinitrophenol | 1435 | 198 | 182 | 77 | 199 | 227 | 239
 Pentachlorophenol | 1561 | 266 | 264 | 268 | 267 | 265 | 269
-Column: 30 m x 0.25 mm ID; 94% methyl, 5% phenyl, 1% vinyl bonded phase fused silica capillary.
-Conditions: 5 min at 30 °C; 30-250 at 8 °C per min; isothermal at 280 °C until pentachlorophenol elutes.
-Gas velocity: 30 cm/sec at 30 °C (at constant pressure).
+Column: 30 m x 0.25 mm ID; 94% methyl, 5% phenyl, 1% vinyl bonded phase fused silica capillary. Conditions: 5 min at 30 °C; 30-250 at 8 °C per min; isothermal at 280 °C until pentachlorophenol elutes. Gas velocity: 30 cm/sec at 30 °C (at constant pressure).
 Table 6—QC Acceptance Criteria—Method 625 1
-Analyte | Range for Q(%) 2 | Limit for s(%) 3 | Range for X (%) 3 | Range forP1, P2(%) 3 | Limit forRPD (%)
+Analyte | Range for Q (%) 2 | Limit for s (%) 3 | Range for X (%) 3 | Range for P1, P2(%) 3 | Limit for RPD (%)
 Acenaphthene | 70-130 | 29 | 60-132 | 47-145 | 48
 Acenaphthylene | 60-130 | 45 | 54-126 | 33-145 | 74
 Aldrin | 7-152 | 39 | 7-152 | D-166 | 81
@@ -5271,17 +5033,9 @@ Pyrene | 70-130 | 30 | 70-120 | 52-120 | 49
 Pentachlorophenol | 42-152 | 52 | 38-152 | 14-176 | 86
 Phenol | 48-130 | 39 | 17-120 | 5-120 | 64
 2,4,6-Trichlorophenol | 69-130 | 35 | 52-129 | 37-144 | 58
-1 Acceptance criteria are based upon method performance data in Table 7 and from EPA Method 1625. Where necessary, limits for recovery have been broadened to assure applicability to concentrations below those used to develop Table 7.
-2 Test concentration = 100 µg/mL.
-3 Test concentration = 100 µg/L.
-Q = Calibration verification (sections 7.3.1 and 13.4).
-s = Standard deviation for four recovery measurements in the DOC test (section 8.2.4).
-X = Average recovery for four recovery measurements in the DOC test (section 8.2.4).
-P1, P2 = MS/MSD recovery (section 8.3.2, section 8.4.2).
-RPD = MS/MSD relative percent difference (RPD; section 8.3.3).
-D = Detected; result must be greater than zero.
+1 Acceptance criteria are based upon method performance data in Table 7 and from EPA Method 1625. Where necessary, limits for recovery have been broadened to assure applicability to concentrations below those used to develop Table 7. 2 Test concentration = 100 µg/mL. 3 Test concentration = 100 µg/L. Q = Calibration verification (sections 7.3.1 and 13.4). s = Standard deviation for four recovery measurements in the DOC test (section 8.2.4). X = Average recovery for four recovery measurements in the DOC test (section 8.2.4). P1, P2 = MS/MSD recovery (section 8.3.2, section 8.4.2). RPD = MS/MSD relative percent difference (RPD; section 8.3.3). D = Detected; result must be greater than zero.
 Table 7—Precision and Recovery as Functions of Concentration—Method 625 1
-Analyte | Recovery, X′(µg/L) | Single analystprecision, sr′ (µg/L) | Overallprecision, S′ (µg/L)
+Analyte | Recovery, X′ (µg/L) | Single analyst precision, sr′ (µg/L) | Overall precision, S′ (µg/L)
 Acenaphthene | 0.96C + 0.19 | 0.15 X−0.12 | 0.21 X−0.67
 Acenaphthylene | 0.89C + 0.74 | 0.24 X−1.06 | 0.26 X−0.54
 Aldrin | 0.78C + 1.66 | 0.27 X−1.28 | 0.43 X + 1.13
@@ -5343,52 +5097,48 @@ Pyrene | 0.84C−0.16 | 0.16 X + 0.06 | 0.15 X + 0.31
 Pentachlorophenol | 0.93C + 1.99 | 0.24 X + 3.03 | 0.30 X + 4.33
 Phenol | 0.43C + 1.26 | 0.26 X + 0.73 | 0.35 X + 0.58
 2,4,6-Trichlorophenol | 0.91C−0.18 | 0.16 X + 2.22 | 0.22 X + 1.81
-1 Regressions based on data from Reference 2.
-X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L.
-sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L.
-S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L.
-C = True value for the concentration, in µg/L.
-X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
+1 Regressions based on data from Reference 2. X′ = Expected recovery for one or more measurements of a sample containing a concentration of C, in µg/L. sr′ = Expected single analyst standard deviation of measurements at an average concentration found of X, in µg/L. S′ = Expected interlaboratory standard deviation of measurements at an average concentration found of X, in µg/L. C = True value for the concentration, in µg/L. X = Average recovery found for measurements of samples containing a concentration of C, in µg/L.
 Table 8—Suggested Internal and Surrogate Standards
-Base/neutral fraction | Range for surrogate recovery (%) 1 | Calibration verification | Recovery from samples
+Base/neutral fraction | Range for surrogate recovery (%) 1
+Calibration verification | Recovery from samples
 Acenaphthalene-d8 | 66-152 | 33-168
 Acenaphthene-d10 | 71-141 | 30-180
-Aniline-d5
+Aniline-d5 | |
 Anthracene-d10 | 58-171 | 23-142
 Benzo(a)anthracene-d12 | 28-357 | 22-329
 Benzo(a)pyrene-d12 | 32-194 | 32-194
 4-Chloroaniline-d4 | 1-145 | 1-145
 bis(2-Chloroethyl) ether-d8 | 52-194 | 25-222
 Chrysene-d12 | 23-290 | 23-290
-Decafluorobiphenyl
-4,4′-Dibromobiphenyl
-4,4′-Dibromooctafluorobiphenyl
+Decafluorobiphenyl | |
+4,4′-Dibromobiphenyl | |
+4,4′-Dibromooctafluorobiphenyl | |
 1,4-Dichlorobenzene-d4 | 65-153 | 11-245
-2,2′-Difluorobiphenyl
+2,2′-Difluorobiphenyl | |
 Dimethyl phthalate-d6 | 47-211 | 1-500
 Fluoranthene-d10 | 47-215 | 30-187
 Fluorene-d10 | 61-164 | 38-172
-4-Fluoroaniline
-1-Fluoronaphthalene
-2-Fluoronaphthalene
+4-Fluoroaniline | |
+1-Fluoronaphthalene | |
+2-Fluoronaphthalene | |
 2-Methylnaphthalene-d10 | 50-150 | 50-150
 Naphthalene-d8 | 71-141 | 22-192
 Nitrobenzene-d5 | 46-219 | 15-314
-2,3,4,5,6-Pentafluorobiphenyl
-Perylene-d12
+2,3,4,5,6-Pentafluorobiphenyl | |
+Perylene-d12 | |
 Phenanthrene-d10 | 67-149 | 34-168
 Pyrene-d10 | 48-210 | 28-196
-Pyridine-d5
-Acid fraction
+Pyridine-d5 | |
+Acid fraction | |
 2-Chlorophenol-d4 | 55-180 | 33-180
 2,4-Dichlorophenol-d3 | 64-157 | 34-182
 4,6-Dinitro-2-methylphenol-d2 | 56-177 | 22-307
-2-Fluorophenol
+2-Fluorophenol | |
 4-Methylphenol-d8 | 25-111 | 25-111
 2-Nitrophenol-d4 | 61-163 | 37-163
 4-Nitrophenol-d4 | 35-287 | 6-500
-Pentafluorophenol
-2-Perfluoromethylphenol
+Pentafluorophenol | |
+2-Perfluoromethylphenol | |
 Phenol-d5 | 48-208 | 8-424
 1 Recovery from samples is the wider of the criteria in the CLP SOW for organics or in Method 1625.
 Table 9A—DFTPP Key m/z's and Abundance Criteria for Quadrupole Instruments 1
@@ -5422,8 +5172,6 @@ m/z | Abundance criteria
 443 | 15-24 percent of m/z 442.
 1 Criteria in these tables are for quadrupole and time-of-flight instruments. Alternative tuning criteria from other published EPA reference methods may be used provided method performance is not adversely affected. Alternative tuning criteria specified by an instrument manufacturer may also be used for another type of mass spectrometer, or for an alternative carrier gas, provided method performance is not adversely affected.
 21. Figures
-ER28AU17.018
-ER28AU17.019
 22. Glossary
 These definitions and purposes are specific to this method but have been conformed to common usage to the extent possible.
 22.1 Units of weight and measure and their abbreviations.
@@ -5625,10 +5373,10 @@ Note: Baking glass wool may cause active sites that will irreversibly adsorb CDD
 7.10.1 All CDDs/CDFs—From stock solutions, or from purchased mixtures, prepare this solution to contain the labeled compounds in nonane at the concentrations shown in Table 3. This solution is diluted with acetone prior to use (Section 7.10.3).
 7.10.2 If only 2,3,7,8-TCDD and 2,3,7,8-TCDF are to be determined, prepare the labeled-compound solution to contain these compounds only. This solution is diluted with acetone prior to use (Section 7.10.3).
 7.10.3 Dilute a sufficient volume of the labeled compound solution (Section 7.10.1 or 7.10.2) by a factor of 50 with acetone to prepare a diluted spiking solution. Each sample requires 1.0 mL of the diluted solution, but no more solution should be prepared than can be used in one day.
-7.11 Cleanup Standard—Prepare 37Cl4-2,3,7,8-TCDD in nonane at the concentration shown in Table 3. The cleanup standard is added to all extracts prior to cleanup to measure the efficiency of the cleanup process.
+7.11 Cleanup Standard—Prepare 37Cl 4-2,3,7,8-TCDD in nonane at the concentration shown in Table 3. The cleanup standard is added to all extracts prior to cleanup to measure the efficiency of the cleanup process.
 7.12 Internal Standard(s).
-7.12.1 All CDDs/CDFs—Prepare the internal standard solution to contain 13C12-1,2,3,4-TCDD and 13C2-1,2,3,7,8,9-HxCDD in nonane at the concentration shown in Table 3.
-7.12.2 If only 2,3,7,8-TCDD and 2,3,7,8-TCDF are to be determined, prepare the internal standard solution to contain 13C12-1,2,3,4-TCDD only.
+7.12.1 All CDDs/CDFs—Prepare the internal standard solution to contain 13C 12-1,2,3,4-TCDD and 13C 2-1,2,3,7,8,9-HxCDD in nonane at the concentration shown in Table 3.
+7.12.2 If only 2,3,7,8-TCDD and 2,3,7,8-TCDF are to be determined, prepare the internal standard solution to contain 13C 12-1,2,3,4-TCDD only.
 7.13 Calibration Standards (CS1 through CS5)—Combine the solutions in Sections 7.9 through 7.12 to produce the five calibration solutions shown in Table 4 in nonane. These solutions permit the relative response (labeled to native) and response factor to be measured as a function of concentration. The CS3 standard is used for calibration verification (VER). If only 2,3,7,8-TCDD and 2,3,7,8-TCDF are to be determined, combine the solutions appropriate to these compounds.
 7.14 Precision and Recovery (PAR) Standard—Used for determination of initial (Section 9.2) and ongoing (Section 15.5) precision and recovery. Dilute 10 µL of the precision and recovery standard (Section 7.9.1 or 7.9.2) to 2.0 mL with acetone for each sample matrix for each sample batch. One mL each are required for the blank and OPR with each matrix in each batch.
 7.15 GC Retention Time Window Defining Solution and Isomer Specificity Test Standard—Used to define the beginning and ending retention times for the dioxin and furan isomers and to demonstrate isomer specificity of the GC columns employed for determination of 2,3,7,8-TCDD and 2,3,7,8-TCDF. The standard must contain the compounds listed in Table 5 (CIL EDF—4006, or equivalent), at a minimum. It is not necessary to monitor the window-defining compounds if only 2,3,7,8-TCDD and 2,3,7,8-TCDF are to be determined. In this case, an isomer-specificity test standard containing the most closely eluted isomers listed in Table 5 (CIL EDF-4033, or equivalent) may be used.
@@ -5736,7 +5484,6 @@ Note: Excessive PFK (or any other reference substance) may cause noise problems 
 10.5 Calibration by Isotope Dilution—Isotope dilution calibration is used for the 15 2,3,7,8-substituted CDDs/CDFs for which labeled compounds are added to samples prior to extraction. The reference compound for each CDD/CDF compound is shown in Table 2.
 10.5.1 A calibration curve encompassing the concentration range is prepared for each compound to be determined. The relative response (RR) (labeled to native) vs. concentration in standard solutions is plotted or computed using a linear regression. Relative response is determined according to the procedures described below. Five calibration points are employed.
 10.5.2 The response of each CDD/CDF relative to its labeled analog is determined using the area responses of both the primary and secondary exact m/z's specified in Table 8, for each calibration standard, as follows:
-ER15SE97.002
 where:
 A1n and A2n = The areas of the primary and secondary m/z's for the CDD/CDF.
 A1l and A2l = The areas of the primary and secondary m/z's for the labeled compound.
@@ -5746,7 +5493,6 @@ Cn = The concentration of the native compound in the calibration standard (Table
 10.5.4 Linearity—If the relative response for any compound is constant (less than 20% coefficient of variation) over the five-point calibration range, an averaged relative response may be used for that compound; otherwise, the complete calibration curve for that compound shall be used over the five-point calibration range.
 10.6 Calibration by Internal Standard—The internal standard method is applied to determination of 1,2,3,7,8,9-HxCDD (Section 17.1.2), OCDF (Section 17.1.1), the non 2,3,7,8-substituted compounds, and to the determination of labeled compounds for intralaboratory statistics (Sections 9.4 and 15.5.4).
 10.6.1 Response factors—Calibration requires the determination of response factors (RF) defined by the following equation:
-ER15SE97.003
 where:
 A1s and A2s = The areas of the primary and secondary m/z's for the CDD/CDF.
 A1is and A2is = The areas of the primary and secondary m/z's for the internal standard.
@@ -5779,12 +5525,10 @@ Note: This aliquot is used for determining the solids content of the sample, not
 11.2.1.2 Filter 10.0 ±0.02 mL of well-mixed sample through the filter.
 11.2.1.3 Dry the filter a minimum of 12 hours at 110 ±5 °C and cool in a dessicator.
 11.2.1.4 Calculate percent solids as follows:
-ER15SE97.004
 11.2.2 Non-aqueous liquids, solids, semi-solid samples, and multi-phase samples in which the main phase is not aqueous; but not tissues.
 11.2.2.1 Weigh 5-10 g of sample to three significant figures in a tared beaker.
 11.2.2.2 Dry a minimum of 12 hours at 110 ±5 °C, and cool in a dessicator.
 11.2.2.3 Calculate percent solids as follows:
-ER15SE97.005
 11.3 Determination of Particle Size.
 11.3.1 Spread the dried sample from Section 11.2.2.2 on a piece of filter paper or aluminum foil in a fume hood or glove box.
 11.3.2 Estimate the size of the particles in the sample. If the size of the largest particles is greater than 1 mm, the particle size must be reduced to 1 mm or less prior to extraction using the procedures in Section 11.7.
@@ -5891,7 +5635,6 @@ Note: Do not disturb the silica layer throughout the extraction process.
 12.4.1.9.1 Redissolve the residue in the receiver in hexane and spike 1.0 mL of the cleanup standard (Section 7.11) into the solution.
 12.4.1.9.2 Transfer the residue/hexane to the anthropogenic isolation column (Section 13.7.1) or bottle for the acidified silica gel batch cleanup (Section 13.7.2), retaining the boiling chips in the concentration apparatus. Use several rinses to assure that all material is transferred. If necessary, sonicate or heat the receiver slightly to assure that all material is re-dissolved. Allow the receiver to dry. Weigh the receiver and boiling chips.
 12.4.1.9.3 Calculate the lipid content to the nearest three significant figures as follows:
-ER15SE97.006
 12.4.1.9.4 It is not necessary to determine the lipid content of the blank, IPR, or OPR aliquots.
 12.4.2 HCl digestion/extraction and concentration (References 23-26).
 12.4.2.1 Add 200 mL of 6 N HCl and 200 mL of methylene chloride:hexane (1:1) to the sample and QC aliquots (Section 11.8.4).
@@ -6078,7 +5821,6 @@ A CDD, CDF, or labeled compound is identified in a standard, blank, or sample wh
 16.6 If the criteria for identification in Sections 16.1 through 16.5 are not met, the CDD or CDF has not been identified and the results may not be reported for regulatory compliance purposes. If interferences preclude identification, a new aliquot of sample must be extracted, further cleaned up, and analyzed.
 17.0 Quantitative Determination
 17.1 Isotope Dilution Quantitation—By adding a known amount of a labeled compound to every sample prior to extraction, correction for recovery of the CDD/CDF can be made because the CDD/CDF and its labeled analog exhibit similar effects upon extraction, concentration, and gas chromatography. Relative response (RR) values are used in conjunction with the initial calibration data described in Section 10.5 to determine concentrations directly, so long as labeled compound spiking levels are constant, using the following equation:
-ER15SE97.007
 where:
 Cex = The concentration of the CDD/CDF in the extract, and the other terms are as defined in Section 10.5.2.
 17.1.1 Because of a potential interference, the labeled analog of OCDF is not added to the sample. Therefore, OCDF is quantitated against labeled OCDD. As a result, the concentration of OCDF is corrected for the recovery of the labeled OCDD. In instances where OCDD and OCDF behave differently during sample extraction, concentration, and cleanup procedures, this may decrease the accuracy of the OCDF results. However, given the low toxicity of this compound relative to the other dioxins and furans, the potential decrease in accuracy is not considered significant.
@@ -6086,20 +5828,16 @@ Cex = The concentration of the CDD/CDF in the extract, and the other terms are a
 17.1.3 Any peaks representing non-2,3,7,8-substituted CDDs/CDFs are quantitated using an average of the response factors from all of the labeled 2,3,7,8-isomers at the same level of chlorination.
 17.2 Internal Standard Quantitation and Labeled Compound Recovery.
 17.2.1 Compute the concentrations of 1,2,3,7,8,9-HxCDD, OCDF, the 13C-labeled analogs and the 37C-labeled cleanup standard in the extract using the response factors determined from the initial calibration data (Section 10.6) and the following equation:
-ER15SE97.008
 where:
 Cex = The concentration of the CDD/CDF in the extract, and the other terms are as defined in Section 10.6.1.
 Note: There is only one m/z for the 37Cl-labeled standard.
 17.2.2 Using the concentration in the extract determined above, compute the percent recovery of the 13C-labeled compounds and the 37C-labeled cleanup standard using the following equation:
-ER15SE97.009
 17.3 The concentration of a CDD/CDF in the solid phase of the sample is computed using the concentration of the compound in the extract and the weight of the solids (Section 11.5.1), as follows:
-ER15SE97.010
 where:
 Cex = The concentration of the compound in the extract.
 Vex = The extract volume in mL.
 Ws = The sample weight (dry weight) in kg.
 17.4 The concentration of a CDD/CDF in the aqueous phase of the sample is computed using the concentration of the compound in the extract and the volume of water extracted (Section 11.4 or 11.5), as follows:
-ER15SE97.011
 where:
 Cex = The concentration of the compound in the extract.
 Vex = The extract volume in mL.
@@ -6174,56 +5912,47 @@ Method performance was validated and performance specifications were developed u
 23.0 Tables and Figures
 Table 1—Chlorinated Dibenzo-p-Dioxins and Furans Determined by Isotope Dilution and Internal Standard High Resolution Gas Chromatography (HRGC)/High Resolution Mass Spectrometry (HRMS)
 CDDs/CDFs 1 | CAS registry | Labeled analog | CAS registry
-2,3,7,8-TCDD | 1746-01-6 | 13C12-2,3,7,8-TCDD 37Cl4-2,3,7,8-TCDD | 76523-40-585508-50-5
-Total TCDD | 41903-57-5
+2,3,7,8-TCDD | 1746-01-6 | 13C12-2,3,7,8-TCDD 37Cl4-2,3,7,8-TCDD | 76523-40-5 85508-50-5
+Total TCDD | 41903-57-5 | |
 2,3,7,8-TCDF | 51207-31-9 | 13C12-2,3,7,8-TCDF | 89059-46-1
-Total-TCDF | 55722-27-5
+Total-TCDF | 55722-27-5 | |
 1,2,3,7,8-PeCDD | 40321-76-4 | 13C12-1,2,3,7,8-PeCDD | 109719-79-1
-Total-PeCDD | 36088-22-9
+Total-PeCDD | 36088-22-9 | |
 1,2,3,7,8-PeCDF | 57117-41-6 | 13C12-1,2,3,7,8-PeCDF | 109719-77-9
 2,3,4,7,8-PeCDF | 57117-31-4 | 13C12-2,3,4,7,8-PeCDF | 116843-02-8
-Total-PeCDF | 30402-15-4
+Total-PeCDF | 30402-15-4 | |
 1,2,3,4,7,8-HxCDD | 39227-28-6 | 13C12-1,2,3,4,7,8-HxCDD | 109719-80-4
 1,2,3,6,7,8-HxCDD | 57653-85-7 | 13C12-1,2,3,6,7,8-HxCDD | 109719-81-5
 1,2,3,7,8,9-HxCDD | 19408-74-3 | 13C12-1,2,3,7,8,9-HxCDD | 109719-82-6
-Total-HxCDD | 34465-46-8
+Total-HxCDD | 34465-46-8 | |
 1,2,3,4,7,8-HxCDF | 70648-26-9 | 13C12-1,2,3,4,7,8-HxCDF | 114423-98-2
 1,2,3,6,7,8-HxCDF | 57117-44-9 | 13C12-1,2,3,6,7,8-HxCDF | 116843-03-9
 1,2,3,7,8,9-HxCDF | 72918-21-9 | 13C12-1,2,3,7,8,9-HxCDF | 116843-04-0
 2,3,4,6,7,8-HxCDF | 60851-34-5 | 13C12-2,3,4,6,7,8-HxCDF | 116843-05-1
-Total-HxCDF | 55684-94-1
+Total-HxCDF | 55684-94-1 | |
 1,2,3,4,6,7,8-HpCDD | 35822-46-9 | 13C12-1,2,3,4,6,7,8-HpCDD | 109719-83-7
-Total-HpCDD | 37871-00-4
+Total-HpCDD | 37871-00-4 | |
 1,2,3,4,6,7,8-HpCDF | 67562-39-4 | 13C12-1,2,3,4,6,7,8-HpCDF | 109719-84-8
 1,2,3,4,7,8,9-HpCDF | 55673-89-7 | 13C12-1,2,3,4,7,8,9-HpCDF | 109719-94-0
-Total-HpCDF | 38998-75-3
+Total-HpCDF | 38998-75-3 | |
 OCDD | 3268-87-9 | 13C12-OCDD | 114423-97-1
-OCDF | 39001-02-0 | Not used
-1 Chlorinated dibenzo-p-dioxins and chlorinated dibenzofurans.
-TCDD = Tetrachlorodibenzo-p-dioxin.
-TCDF = Tetrachlorodibenzofuran.
-PeCDD = Pentachlorodibenzo-p-dioxin.
-PeCDF = Pentachlorodibenzofuran.
-HxCDD = Hexachlorodibenzo-p-dioxin.
-HxCDF = Hexachlorodibenzofuran.
-HpCDD = Heptachlorodibenzo-p-dioxin.
-HpCDF = Heptachlorodibenzofuran.
-OCDD = Octachlorodibenzo-p-dioxin.
-OCDF = Octachlorodibenzofuran.
+OCDF | 39001-02-0 | Not used |
+1 Chlorinated dibenzo-p-dioxins and chlorinated dibenzofurans. TCDD = Tetrachlorodibenzo-p-dioxin. TCDF = Tetrachlorodibenzofuran. PeCDD = Pentachlorodibenzo-p-dioxin. PeCDF = Pentachlorodibenzofuran. HxCDD = Hexachlorodibenzo-p-dioxin. HxCDF = Hexachlorodibenzofuran. HpCDD = Heptachlorodibenzo-p-dioxin. HpCDF = Heptachlorodibenzofuran. OCDD = Octachlorodibenzo-p-dioxin. OCDF = Octachlorodibenzofuran.
 Table 2—Retention Time References, Quantitation References, Relative Retention Times, and Minimum Levels for CDDS and DCFS
-CDD/CDF | Retention time and quantitationreference | Relative retention time | Minimum level 1 | Water (pg/L; ppq) | Solid (ng/kg; ppt) | Extract (pg/µL; ppb)
+CDD/CDF | Retention time and quantitation reference | Relative retention time | Minimum level 1
+Water (pg/L; ppq) | Solid (ng/kg; ppt) | Extract (pg/µL; ppb)
 Compounds using 13 C12-1,2,3,4-TCDD as the Injection Internal Standard
 2,3,7,8-TCDF | 13 C12-2,3,7,8-TCDF | 0.999-1.003 | 10 | 1 | 0.5
 2,3,7,8-TCDD | 13 C12-2,3,7,8-TCDD | 0.999-1.002 | 10 | 1 | 0.5
 1,2,3,7,8-Pe | 13 C12-1,2,3,7,8-PeCDF | 0.999-1.002 | 50 | 5 | 2.5
 2,3,4,7,8-PeCDF | 13 C12-2,3,4,7,8-PeCDF | 0.999-1.002 | 50 | 5 | 2.5
 1,2,3,7,8-PeCDD | 13 C12-1,2,3,7,8-PeCDD | 0.999-1.002 | 50 | 5 | 2.5
-13 C12-2,3,7,8-TCDF | 13 C12-1,2,3,4-TCDD | 0.923-1.103
-13 C12-2,3,7,8-TCDD | 13 C12-1,2,3,4-TCDD | 0.976-1.043
-13 C12-2,3,7,8-TCDD | 13 C12-1,2,3,4-TCDD | 0.989-1.052
-13 C12-1,2,3,7,8-PeCDF | 13 C12-1,2,3,4-TCDD | 1.000-1.425
-13 C12-2,3,4,7,8-PeCDF | 13 C12-1,2,3,4-TCDD | 1.001-1.526
-13 C12-1,2,3,7,8-PeCDF | 13 C12-1,2,3,4-TCDD | 1.000-1.567
+13 C12-2,3,7,8-TCDF | 13 C12-1,2,3,4-TCDD | 0.923-1.103 | | |
+13 C12-2,3,7,8-TCDD | 13 C12-1,2,3,4-TCDD | 0.976-1.043 | | |
+13 C12-2,3,7,8-TCDD | 13 C12-1,2,3,4-TCDD | 0.989-1.052 | | |
+13 C12-1,2,3,7,8-PeCDF | 13 C12-1,2,3,4-TCDD | 1.000-1.425 | | |
+13 C12-2,3,4,7,8-PeCDF | 13 C12-1,2,3,4-TCDD | 1.001-1.526 | | |
+13 C12-1,2,3,7,8-PeCDF | 13 C12-1,2,3,4-TCDD | 1.000-1.567 | | |
 Compounds using 13 C12-1,2,3,7,8,9-HxCDD as the Injection Internal Standard
 1,2,3,4,7,8-HxCDF | 13 C12-1,2,3,4,7,8-HxCDF | 0.999-1.001 | 50 | 5 | 2.5
 1,2,3,6,7,8-HxCDF | 13 C12-1,2,3,6,7,8-HxCDF | 0.997-1.005 | 50 | 5 | 2.5
@@ -6237,17 +5966,16 @@ Compounds using 13 C12-1,2,3,7,8,9-HxCDD as the Injection Internal Standard
 1,2,3,4,6,7,8-HpCDD | 13 C12-1,2,3,4,6,7,8-HpCDD | 0.999-1.001 | 50 | 5 | 2.5
 OCDF | 13 C12-OCDD | 0.999-1.001 | 100 | 10 | 5.0
 OCDD | 13 C12-OCDD | 0.999-1.001 | 100 | 10 | 5.0
-1,2,3,4,6,7,8,-HxCDF | 13 C12-1,2,3,7,8,9-HpCDD | 0.949-0.975
-13 C121,2,3,7,8,9-HxCDF | 13 C12-1,2,3,7,8,9-HpCDD | 0.977-1.047
-13 C122,3,4,6,7,8,-HxCDF | 13 C12-1,2,3,7,8,9-HpCDD | 0.959-1.021
-13 C121,2,3,4,7,8,-HxCDF | 13 C12-1,2,3,7,8,9-HpCDD | 0.977-1.000
-13 C121,2,3,6,7,8,-HxCDF | 13 C12-1,2,3,7,8,9-HpCDD | 0.981-1.003
-13 C121,2,3,4,6,7,8-HxCDF | 13 C12-1,2,3,7,8,9-HpCDD | 1.043-1.085
-13 C121,2,3,4,7,8,9-HxCDF | 13 C12-1,2,3,7,8,9-HpCDD | 1.057-1.151
-13 C121,2,3,4,6,7,8-HxCDF | 13 C12-1,2,3,7,8,9-HpCDD | 1.086-1.110
-13 C12OCDD | 13 C12-1,2,3,7,8,9-HpCDD | 1.032-1.311
-1 The Minimum Level (ML) for each analyte is defined as the level at which the entire analytical system must give a recognizable signal and acceptable calibration point. It is equivalent to the concentration of the lowest calibration standard, assuming that all method-specified sample weights, volumes, and cleanup procedures have been employed.
-2 The retention time reference for 1,2,3,7,8,9-HxCDD is 13C12-1,2,3,6,7,8-HxCDD, and 1,2,3,7,8,9-HxCDD is quantified using the averaged responses for 13C12-1,2,3,4,7,8-HxCDD and 13C12-1,2,3,6,7,8-HxCDD.
+1,2,3,4,6,7,8,-HxCDF | 13 C12-1,2,3,7,8,9-HpCDD | 0.949-0.975 | | |
+13 C121,2,3,7,8,9-HxCDF | 13 C12-1,2,3,7,8,9-HpCDD | 0.977-1.047 | | |
+13 C122,3,4,6,7,8,-HxCDF | 13 C12-1,2,3,7,8,9-HpCDD | 0.959-1.021 | | |
+13 C121,2,3,4,7,8,-HxCDF | 13 C12-1,2,3,7,8,9-HpCDD | 0.977-1.000 | | |
+13 C121,2,3,6,7,8,-HxCDF | 13 C12-1,2,3,7,8,9-HpCDD | 0.981-1.003 | | |
+13 C121,2,3,4,6,7,8-HxCDF | 13 C12-1,2,3,7,8,9-HpCDD | 1.043-1.085 | | |
+13 C121,2,3,4,7,8,9-HxCDF | 13 C12-1,2,3,7,8,9-HpCDD | 1.057-1.151 | | |
+13 C121,2,3,4,6,7,8-HxCDF | 13 C12-1,2,3,7,8,9-HpCDD | 1.086-1.110 | | |
+13 C12OCDD | 13 C12-1,2,3,7,8,9-HpCDD | 1.032-1.311 | | |
+1 The Minimum Level (ML) for each analyte is defined as the level at which the entire analytical system must give a recognizable signal and acceptable calibration point. It is equivalent to the concentration of the lowest calibration standard, assuming that all method-specified sample weights, volumes, and cleanup procedures have been employed. 2 The retention time reference for 1,2,3,7,8,9-HxCDD is 13C12-1,2,3,6,7,8-HxCDD, and 1,2,3,7,8,9-HxCDD is quantified using the averaged responses for 13C12-1,2,3,4,7,8-HxCDD and 13C12-1,2,3,6,7,8-HxCDD.
 Table 3—Concentration of Stock and Spiking Solutions Containing CDDS/CDFS and Labeled Compounds
 CDD/CDF | Labeled compound stock solution 1 (ng/mL) | Labeled compound spiking solution 2 (ng/mL) | PAR stock solution 3 (ng/mL) | PAR spiking solution 4 (ng/mL)
 2,3,7,8-TCDD | | | 40 | 0.8
@@ -6267,34 +5995,29 @@ CDD/CDF | Labeled compound stock solution 1 (ng/mL) | Labeled compound spiking s
 1,2,3,4,7,8,9-HpCDF | | | 200 | 4
 OCDD | | | 400 | 8
 OCDF | | | 400 | 8
-13C12-2,3,7,8-TCDD | 100 | 2
-13C12-2,3,7,8-TCDF | 100 | 2
-13C12-1,2,3,7,8-PeCDD | 100 | 2
-13C12-1,2,3,7,8-PeCDF | 100 | 2
-13C12-2,3,4,7,8-PeCDF | 100 | 2
-13C12-1,2,3,4,7,8-HxCDD | 100 | 2
-13C12-1,2,3,6,7,8-HxCDD | 100 | 2
-13C12-1,2,3,4,7,8-HxCDF | 100 | 2
-13C12-1,2,3,6,7,8-HxCDF | 100 | 2
-13C12-1,2,3,7,8,9-HxCDF | 100 | 2
-13C12-2,3,4,6,7,8-HxCDF | 100 | 2
-13C12-1,2,3,4,6,7,8-HpCDD | 100 | 2
-13C12-1,2,3,4,6,7,8-HpCDF | 100 | 2
-13C12-1,2,3,4,7,8,9-HpCDF | 100 | 2
-13C12-OCDD | 200 | 4
-Cleanup Standard 5
-37Cl4-2,3,7,8-TCDD | 0.8
-Internal Standards 6
-13C12-1,2,3,4-TCDD | 200
-13C12-1,2,3,7,8,9-HxCDD | 200
-1 Section 7.10—prepared in nonane and diluted to prepare spiking solution.
-2 Section 7.10.3—prepared in acetone from stock solution daily.
-3 Section 7.9—prepared in nonane and diluted to prepare spiking solution.
-4 Section 7.14—prepared in acetone from stock solution daily.
-5 Section 7.11—prepared in nonane and added to extract prior to cleanup.
-6 Section 7.12—prepared in nonane and added to the concentrated extract immediately prior to injection into the GC (Section 14.2).
+13C12-2,3,7,8-TCDD | 100 | 2 | |
+13C12-2,3,7,8-TCDF | 100 | 2 | |
+13C12-1,2,3,7,8-PeCDD | 100 | 2 | |
+13C12-1,2,3,7,8-PeCDF | 100 | 2 | |
+13C12-2,3,4,7,8-PeCDF | 100 | 2 | |
+13C12-1,2,3,4,7,8-HxCDD | 100 | 2 | |
+13C12-1,2,3,6,7,8-HxCDD | 100 | 2 | |
+13C12-1,2,3,4,7,8-HxCDF | 100 | 2 | |
+13C12-1,2,3,6,7,8-HxCDF | 100 | 2 | |
+13C12-1,2,3,7,8,9-HxCDF | 100 | 2 | |
+13C12-2,3,4,6,7,8-HxCDF | 100 | 2 | |
+13C12-1,2,3,4,6,7,8-HpCDD | 100 | 2 | |
+13C12-1,2,3,4,6,7,8-HpCDF | 100 | 2 | |
+13C12-1,2,3,4,7,8,9-HpCDF | 100 | 2 | |
+13C12-OCDD | 200 | 4 | |
+Cleanup Standard 5 | | | |
+37Cl4-2,3,7,8-TCDD | 0.8 | | |
+Internal Standards 6 | | | |
+13C12-1,2,3,4-TCDD | 200 | | |
+13C12-1,2,3,7,8,9-HxCDD | 200 | | |
+1 Section 7.10—prepared in nonane and diluted to prepare spiking solution. 2 Section 7.10.3—prepared in acetone from stock solution daily. 3 Section 7.9—prepared in nonane and diluted to prepare spiking solution. 4 Section 7.14—prepared in acetone from stock solution daily. 5 Section 7.11—prepared in nonane and added to extract prior to cleanup. 6 Section 7.12—prepared in nonane and added to the concentrated extract immediately prior to injection into the GC (Section 14.2).
 Table 4—Concentration of CDDS/CDFS in Calibration and Calibration Verification Solutions 1 (Section 15.3)
-| CDD/CDF | CS2(ng/mL) | CS3(ng/mL) | CS4(ng/mL) | CS5(ng/mL)
+| CDD/CDF | CS2 (ng/mL) | CS3 (ng/mL) | CS4 (ng/mL) | CS5 (ng/mL)
 2,3,7,8-TCDD | 0.5 | 2 | 10 | 40 | 200
 2,3,7,8-TCDF | 0.5 | 2 | 10 | 40 | 200
 1,2,3,7,8-PeCDD | 2.5 | 10 | 50 | 200 | 1000
@@ -6326,13 +6049,14 @@ OCDF | 5.0 | 20 | 100 | 400 | 2000
 13 C12-1,2,3,4,6,7,8-HpCDF | 100 | 100 | 100 | 100 | 100
 13 C12-1,2,3,4,7,8,9-Hp CDF | 100 | 100 | 100 | 100 | 100
 13 C12-OCDD | 200 | 200 | 200 | 200 | 200
-Cleanup Standard:
+Cleanup Standard: | | | | |
 37 C14-2,3,7,8-TCDD | 0.5 | 2 | 10 | 40 | 200
-Internal Standards:
+Internal Standards: | | | | |
 13 C12-1,2,3,4-TCDD | 100 | 100 | 100 | 100 | 100
 13 C12-1,2,3,7,8,9-HxCDD | 100 | 100 | 100 | 100 | 100
 Table 5—GC Retention Time Window Defining Solution and Isomer Specificity Test Standard (Section 7.15)
-DB-5 column GC retention-time window defining solution | CDD/CDF | First eluted | Last eluted
+DB-5 column GC retention-time window defining solution
+CDD/CDF | First eluted | Last eluted
 TCDF | 1,3,6,8- | 1,2,8,9-
 TCDD | 1,3,6,8- | 1,2,8,9-
 PeCDF | 1,3,4,6,8- | 1,2,3,8,9-
@@ -6350,7 +6074,8 @@ DB-225 Column TCDF Isomer Specificity Test Standard
 2,3,7,8-TCDF
 1,2,3,9-TCDF
 Table 6—Acceptance Criteria for Performance Tests When All CDDS/CDFS Are Tested 1
-CDD/CDF | Test conc. (ng/mL) | IPR 2 3 | s(ng/mL) | X(ng/mL) | OPR(ng/mL) | VER(ng/mL)
+CDD/CDF | Test conc. (ng/mL) | IPR 2 3 | OPR (ng/mL) | VER (ng/mL)
+s (ng/mL) | X (ng/mL)
 2,3,7,8-TCDD | 10 | 2.8 | 8.3-12.9 | 6.7-15.8 | 7.8-12.9
 2,3,7,8-TCDF | 10 | 2.0 | 8.7-13.7 | 7.5-15.8 | 8.4-12.0
 1,2,3,7,8-PeCDD | 50 | 7.5 | 38-66 | 35-71 | 39-65
@@ -6384,21 +6109,19 @@ OCDF | 100 | 27 | 74-146 | 63-170 | 63-159
 13C12-1,2,3,4,7,8,9-HpCDF | 100 | 40 | 28-141 | 20-186 | 77-129
 13C12-OCDD | 200 | 95 | 41-276 | 26-397 | 96-415
 37Cl4-2,3,7,8-TCDD | 10 | 3.6 | 3.9-15.4 | 3.1-19.1 | 7.9-12.7
-1 All specifications are given as concentration in the final extract, assuming a 20 µL volume.
-2 s = standard deviation of the concentration.
-3 X = average concentration.
+1 All specifications are given as concentration in the final extract, assuming a 20 µL volume. 2 s = standard deviation of the concentration. 3 X = average concentration.
 Table 6a—Acceptance Criteria for Performance Tests When Only Tetra Compounds are Tested 1
-CDD/CDF | Test Conc. (ng/mL) | IPR 2 3 | s (ng/mL) | X (ng/mL) | OPR(ng/mL) | VER(ng/mL)
+CDD/CDF | Test Conc. (ng/mL) | IPR 2 3 | OPR (ng/mL) | VER (ng/mL)
+s (ng/mL) | X (ng/mL)
 2,3,7,8-TCDD | 10 | 2.7 | 8.7-12.4 | 7.314.6 | 8.2-12.3
 2,3,7,8-TCDF | 10 | 2.0 | 9.1-13.1 | 8.0-14.7 | 8.6-11.6
 13C12-2,3,7,8-TCDD | 100 | 35 | 32-115 | 25-141 | 85-117
 13C12-2,3,7,8-TCDF | 100 | 34 | 35-99 | 26-126 | 76-131
 37Cl4-2,3,7,8-TCDD | 10 | 3.4 | 4.5-13.4 | 3.7-15.8 | 8.3-12.1
-1 All specifications are given as concentration in the final extract, assuming a 20 µL volume.
-2 s = standard deviation of the concentration.
-3 X = average concentration.
+1 All specifications are given as concentration in the final extract, assuming a 20 µL volume. 2 s = standard deviation of the concentration. 3 X = average concentration.
 Table 7—Labeled Compounds Recovery in Samples When all CDDS/CDFS are Tested
-Compound | Test conc. (ng/mL) | Labeled compoundrecovery | (ng/mL) 1 | (%)
+Compound | Test conc. (ng/mL) | Labeled compound recovery
+(ng/mL) 1 | (%)
 13C12-2,3,7,8-TCDD | 100 | 25-164 | 25-164
 13C12-2,3,7,8-TCDF | 100 | 24-169 | 24-169
 13C12-1,2,3,7,8-PeCDD | 100 | 25-181 | 25-181
@@ -6417,7 +6140,8 @@ Compound | Test conc. (ng/mL) | Labeled compoundrecovery | (ng/mL) 1 | (%)
 37Cl4-2,3,7,8-TCDD | 10 | 3.5-19.7 | 35-197
 1 Specification given as concentration in the final extract, assuming a 20-µL volume.
 Table 7a—Labeled Compound Recovery in Samples When Only Tetra Compounds are Tested
-Compound | Test conc. (ng/mL) | Labeled compoundrecovery | (ng/mL) 1 | (%)
+Compound | Test conc. (ng/mL) | Labeled compound recovery
+(ng/mL) 1 | (%)
 13C12-2,3,7,8-TCDD | 100 | 31-137 | 31-137
 13C12-2,3,7,8-TCDF | 100 | 29-140 | 29-140
 37Cl4-2,3,7,8-TCDD | 10 | 4.2-16.4 | 42-164
@@ -6457,16 +6181,16 @@ Descriptor | Exact M/Z 1 | M/Z type | Elemental composition | Substance 2
 | 403.8529 | M = 4 | 13C12H2 35Cl4 37Cl2O2 | HxCDD 3
 | 430.9729 | QC | C9F17 | PFK
 | 445.7555 | M = 4 | C12H2 35Cl6 37Cl2O | OCDPE
-4 | 407.7818 | M = 2 | C12H35Cl6 37ClO | HpCDF
-| 409.7789 | M = 4 | C12H35Cl5 37Cl2O | HpCDF
-| 417.8253 | M | 13C12H35Cl7O | HpCDF 3
-| 419.8220 | M = 2 | 13C12H35Cl6 37ClO | HpCDF 3
-| 423.7766 | M = 2 | C12H35Cl6 37ClO2 | HpCDD
-| 425.7737 | M = 4 | C12H35Cl5 37Cl2O2 | HpCDD
+4 | 407.7818 | M = 2 | C12H 35Cl6 37ClO | HpCDF
+| 409.7789 | M = 4 | C12H 35Cl5 37Cl2O | HpCDF
+| 417.8253 | M | 13C12H 35Cl7O | HpCDF 3
+| 419.8220 | M = 2 | 13C12H 35Cl6 37ClO | HpCDF 3
+| 423.7766 | M = 2 | C12H 35Cl6 37ClO2 | HpCDD
+| 425.7737 | M = 4 | C12H 35Cl5 37Cl2O2 | HpCDD
 | 430.9729 | Lock | C9F17 | PFK
-| 435.8169 | M = 2 | 13C12H35Cl6 37ClO2 | HpCDD 3
-| 437.8140 | M = 4 | 13C12H35Cl5 37Cl2O2 | HpCDD 3
-| 479.7165 | M = 4 | C12H35Cl7 37Cl2O | NCDPE
+| 435.8169 | M = 2 | 13C12H 35Cl6 37ClO2 | HpCDD 3
+| 437.8140 | M = 4 | 13C12H 35Cl5 37Cl2O2 | HpCDD 3
+| 479.7165 | M = 4 | C12H 35Cl7 37Cl2O | NCDPE
 5 | 441.7428 | M = 2 | C12 35Cl7 37ClO | OCDF
 | 442.9728 | Lock | C10F17 | PFK
 | 443.7399 | M = 4 | C12 35Cl6 37Cl2O | OCDF
@@ -6475,34 +6199,10 @@ Descriptor | Exact M/Z 1 | M/Z type | Elemental composition | Substance 2
 | 469.7779 | M = 2 | 13C12 35Cl7 37ClO2 | OCDD 3
 | 471.7750 | M = 4 | 13C12 35Cl6 37Cl2O2 | OCDD 3
 | 513.6775 | M = 4 | C12 35Cl8 37Cl2O | DCDPE
-1 Nuclidic masses used:
-H = 1.007825.
-O = 15.994915.
-C = 12.00000.
-35Cl = 34.968853.
-13C = 13.003355.
-37Cl = 36.965903.
-F = 18.9984.
-2 TCDD = Tetrachlorodibenzo-p-dioxin.
-PeCDD = Pentachlorodibenzo-p-dioxin.
-HxCDD = Hexachlorodibenzo-p-dioxin.
-HpCDD = Heptachlorodibenzo-p-dioxin.
-OCDD = Octachlorodibenzo-p-dioxin.
-HxCDPE = Hexachlorodiphenyl ether.
-OCDPE = Octachlorodiphenyl ether.
-DCDPE = Decachlorodiphenyl ether.
-TCDF = Tetrachlorodibenzofuran.
-PeCDF = Pentachlorodibenzofuran.
-HxCDF = Hexachlorodibenzofuran.
-HpCDF = Heptachlorodibenzofuran.
-OCDF = Octachlorodibenzofuran.
-HpCDPE = Heptachlorodiphenyl ether.
-NCDPE = Nonachlorodiphenyl ether.
-PFK = Perfluorokerosene.
-3 Labeled compound.
-4 There is only one m/z for 37Cl4-2,3,7,8,-TCDD (cleanup standard).
+1 Nuclidic masses used: H = 1.007825. O = 15.994915. C = 12.00000. 35Cl = 34.968853. 13C = 13.003355. 37Cl = 36.965903. F = 18.9984. 2 TCDD = Tetrachlorodibenzo-p-dioxin. PeCDD = Pentachlorodibenzo-p-dioxin. HxCDD = Hexachlorodibenzo-p-dioxin. HpCDD = Heptachlorodibenzo-p-dioxin. OCDD = Octachlorodibenzo-p-dioxin. HxCDPE = Hexachlorodiphenyl ether. OCDPE = Octachlorodiphenyl ether. DCDPE = Decachlorodiphenyl ether. TCDF = Tetrachlorodibenzofuran. PeCDF = Pentachlorodibenzofuran. HxCDF = Hexachlorodibenzofuran. HpCDF = Heptachlorodibenzofuran. OCDF = Octachlorodibenzofuran. HpCDPE = Heptachlorodiphenyl ether. NCDPE = Nonachlorodiphenyl ether. PFK = Perfluorokerosene. 3 Labeled compound. 4 There is only one m/z for 37Cl4-2,3,7,8,-TCDD (cleanup standard).
 Table 9—Theoretical Ion Abundance Ratios and QC Limits
-Number of chlorine atoms | M/Z's forming ratio | Theoretical ratio | QC limit 1 | Lower | Upper
+Number of chlorine atoms | M/Z's forming ratio | Theoretical ratio | QC limit 1
+Lower | Upper
 4 2 | M/(M = 2) | 0.77 | 0.65 | 0.89
 5 | (M = 2)/(M = 4) | 1.55 | 1.32 | 1.78
 6 | (M = 2)/(M = 4) | 1.24 | 1.05 | 1.43
@@ -6510,49 +6210,37 @@ Number of chlorine atoms | M/Z's forming ratio | Theoretical ratio | QC limit 1 
 7 | (M = 2)/(M = 4) | 1.05 | 0.88 | 1.20
 7 4 | M/(M = 2) | 0.44 | 0.37 | 0.51
 8 | (M = 2)/(M = 4) | 0.89 | 0.76 | 1.02
-1 QC limits represent ±15% windows around the theoretical ion abundance ratios.
-2 Does not apply to 37Cl4-2,3,7,8-TCDD (cleanup standard).
-3 Used for 13C12-HxCDF only.
-4 Used for 13C12-HpCDF only.
+1 QC limits represent ±15% windows around the theoretical ion abundance ratios. 2 Does not apply to 37Cl4-2,3,7,8-TCDD (cleanup standard). 3 Used for 13C12-HxCDF only. 4 Used for 13C12-HpCDF only.
 Table 10—Suggested Sample Quantities To Be Extracted for Various Matrices 1
 Sample Matrix 2 | Example | Percent solids | Phase | Quantity extracted
-Single-phase:
+Single-phase: | | | |
 Aqueous | Drinking water | <1 | (3) | 1000 mL.
-| Groundwater
-| Treated wastewater
+| Groundwater | | |
+| Treated wastewater | | |
 Solid | Dry soil | >20 | Solid | 10 g.
-| Compost
-| Ash
+| Compost | | |
+| Ash | | |
 Organic | Waste solvent | <1 | Organic | 10 g.
-| Waste oil
-| Organic polymer
+| Waste oil | | |
+| Organic polymer | | |
 Tissue | Fish | | Organic | 10 g.
-| Human adipose
-Multi-phase:
-Liquid/Solid:
+| Human adipose | | |
+Multi-phase: | | | |
+Liquid/Solid: | | | |
 Aqueous/Solid | Wet soil | 1-30 | Solid | 10 g.
-| Untreated effluent
-| Digested municipal sludge
-| Filter cake
-| Paper pulp
+| Untreated effluent | | |
+| Digested municipal sludge | | |
+| Filter cake | | |
+| Paper pulp | | |
 Organic/solid | Industrial sludge | 1-100 | Both | 10 g.
-| Oily waste
-Liquid/Liquid:
+| Oily waste | | |
+Liquid/Liquid: | | | |
 Aqueous/organic | In-process effluent | <1 | Organic | 10 g.
-| Untreated effluent
-| Drum waste
+| Untreated effluent | | |
+| Drum waste | | |
 Aqueous/organic/solid | Untreated effluent | >1 | Organic and solid | 10 g.
-| Drum waste
-1 The quantity of sample to be extracted is adjusted to provide 10 g of solids (dry weight). One liter of aqueous samples containing 1% solids will contain 10 g of solids. For aqueous samples containing greater than 1% solids, a lesser volume is used so that 10 g of solids (dry weight) will be extracted.
-2 The sample matrix may be amorphous for some samples. In general, when the CDDs/CDFs are in contact with a multiphase system in which one of the phases is water, they will be preferentially dispersed in or adsorbed on the alternate phase because of their low solubility in water.
-3 Aqueous samples are filtered after spiking with the labeled compounds. The filtrate and the materials trapped on the filter are extracted separately, and the extracts are combined for cleanup and analysis.
-ER15SE97.012
-ER15SE97.013
-ER15SE97.014
-ER15SE97.015
-ER15SE97.016
-ER15SE97.017
-ER15SE97.018
+| Drum waste | | |
+1 The quantity of sample to be extracted is adjusted to provide 10 g of solids (dry weight). One liter of aqueous samples containing 1% solids will contain 10 g of solids. For aqueous samples containing greater than 1% solids, a lesser volume is used so that 10 g of solids (dry weight) will be extracted. 2 The sample matrix may be amorphous for some samples. In general, when the CDDs/CDFs are in contact with a multiphase system in which one of the phases is water, they will be preferentially dispersed in or adsorbed on the alternate phase because of their low solubility in water. 3 Aqueous samples are filtered after spiking with the labeled compounds. The filtrate and the materials trapped on the filter are extracted separately, and the extracts are combined for cleanup and analysis.
 24.0 Glossary of Definitions and Purposes
 These definitions and purposes are specific to this method but have been conformed to common usage as much as possible.
 24.1 Units of weight and Measure and Their Abbreviations.
@@ -6815,7 +6503,7 @@ References
 10. "Colby, B.N., Beimer, R.G., Rushneck, D.R., and Telliard, W.A., "Isotope Dilution Gas Chromatography-Mass Spectrometry for the Determination of Priority Pollutants in Industrial Effluents," USEPA, Effluent Guidelines Division, Washington, DC 20460 (1980).
 Table 1—Volatile Organic Compounds Analyzed by Isotope Dilution Gc/MS
 Compound | Storet | CAS registry | EPA-EGD | NPDES
-Acetone | 81552 | 67-64-1 | 516 V
+Acetone | 81552 | 67-64-1 | 516 V |
 Acrolein | 34210 | 107-02-8 | 002 V | 001 V
 Acrylonitrile | 34215 | 107-13-1 | 003 V | 002 V
 Benzene | 34030 | 71-43-2 | 004 V | 003 V
@@ -6834,13 +6522,13 @@ Dibromochloromethane | 32105 | 124-48-1 | 051 V | 008 V
 1,1-dichloroethene | 34501 | 75-35-4 | 029 V | 016 V
 Trans-1,2-dichloroethane | 34546 | 156-60-5 | 030 V | 026 V
 1,2-dichloropropane | 34541 | 78-87-5 | 032 V | 017 V
-Cis-1,3-dichloropropene | 34704 | 10061-01-5
-Trans-1,3-dichloropropene | 34699 | 10061-02-6 | 033 V
-Diethyl ether | 81576 | 60-29-7 | 515 V
-P-dioxane | 81582 | 123-91-1 | 527 V
+Cis-1,3-dichloropropene | 34704 | 10061-01-5 | |
+Trans-1,3-dichloropropene | 34699 | 10061-02-6 | 033 V |
+Diethyl ether | 81576 | 60-29-7 | 515 V |
+P-dioxane | 81582 | 123-91-1 | 527 V |
 Ethylbenzene | 34371 | 100-41-4 | 038 V | 019 V
 Methylene chloride | 34423 | 75-09-2 | 044 V | 022 V
-Methyl ethyl ketone | 81595 | 78-93-3 | 514 V
+Methyl ethyl ketone | 81595 | 78-93-3 | 514 V |
 1,1,2,2-tetrachloroethane | 34516 | 79-34-5 | 015 V | 023 V
 Tetrachlorethene | 34475 | 127-18-4 | 085 V | 024 V
 Toluene | 34010 | 108-88-3 | 086 V | 025 V
@@ -6915,9 +6603,7 @@ EGD No. (1) | Compound | Ref EGD No. | Mean retention time (sec) | Minimum level
 238 | Ethylbenzene-d10 | 183 | 1802 | 10
 338 | Ethylbenzene | 238 | 1820 | 10
 185 | Bromofluorobenzene | 183 | 1985 | 10
-(1) Reference numbers beginning with 0, 1 or 5 indicate a pollutant quantified by the internal standard method; reference numbers beginning with 2 or 6 indicate a labeled compound quantified by the internal standard method; reference numbers beginning with 3 or 7 indicate a pollutant quantified by isotope dilution.
-(2) This is a minimum level at which the analytical system shall give recognizable mass spectra (background corrected) and acceptable calibration points. Column: 2.4m (8 ft) × 2 mm i.d. glass, packed with one percent SP-1000 coated on 60/80 Carbopak B. Carrier gas: helium at 40 mL/min. Temperature program: 3 min at 45 °C, 8 °C per min to 240 °C, hold at 240 °C for 15 minutes.
-Note: The specifications in this table were developed from data collected from three wastewater laboratories.
+(1) Reference numbers beginning with 0, 1 or 5 indicate a pollutant quantified by the internal standard method; reference numbers beginning with 2 or 6 indicate a labeled compound quantified by the internal standard method; reference numbers beginning with 3 or 7 indicate a pollutant quantified by isotope dilution. (2) This is a minimum level at which the analytical system shall give recognizable mass spectra (background corrected) and acceptable calibration points. Column: 2.4m (8 ft) × 2 mm i.d. glass, packed with one percent SP-1000 coated on 60/80 Carbopak B. Carrier gas: helium at 40 mL/min. Temperature program: 3 min at 45 °C, 8 °C per min to 240 °C, hold at 240 °C for 15 minutes. Note: The specifications in this table were developed from data collected from three wastewater laboratories.
 Table 3—BFB Mass-Intensity Specifications
 Mass | Intensity required
 50 | 15 to 40 percent of mass 95.
@@ -6926,8 +6612,8 @@ Mass | Intensity required
 96 | 5 to 9 percent of mass 95.
 173 | <2 percent of mass 174.
 174 | >50 percent of mass 95.
-175 | 5 to 9 percent of mass 174
-176 | 95 to 101 percent of mass 174
+175 | 5 to 9 percent of mass 174.
+176 | 95 to 101 percent of mass 174.
 177 | 5 to 9 percent of mass 176.
 Table 4—Volatile Organic Compound Characteristic Masses
 Labeled compound | Analog | Primary m/z's
@@ -6965,7 +6651,9 @@ Toluene | d8 | 92/99
 Trichloroethene | 13C | 95/133
 Vinyl chloride | d3 | 62/65
 Table 5—Acceptance Criteria for Performance Tests
-Compound | Acceptance criteria at 20 µg/L | Initial precision and accuracy section 8.2.3 | s (µg/L) | X (µg/L) | Labeled compound recovery sec. 8.3 and 14.2 | P (percent) | On-going accuracy sec. 11.5 | R (µg/L)
+Compound | Acceptance criteria at 20 µg/L
+Initial precision and accuracy section 8.2.3 | Labeled compound recovery sec. 8.3 and 14.2 | On-going accuracy sec. 11.5
+s (µg/L) | X (µg/L) | P (percent) | R (µg/L)
 Acetone | Note 1
 Acrolein | Note 2
 Acrylonitrile | Note 2
@@ -6999,12 +6687,7 @@ Toluene | 6.3 | 14.5-28.7 | 4-193 | 6-33
 1,1,2-trichloroethane | 7.1 | 11.8-29.7 | 21-184 | 9-32
 Trichloroethene | 8.9 | 16.6-29.5 | 35-196 | 12-34
 Vinyl chloride | 27.9 | d-58.5 | ns-452 | d-65
-d = detected; result must be greater than zero.
-ns = no specification; limit would be below detection limit.
-Note 1: Specifications not available for these compounds at time of release of this method.
-Note 2: Specifications not developed for these compounds; use method 603.
-EC02JY92.055
-EC02JY92.056
+d = detected; result must be greater than zero. ns = no specification; limit would be below detection limit. Note 1: Specifications not available for these compounds at time of release of this method. Note 2: Specifications not developed for these compounds; use method 603.
 Method 1625 Revision B—Semivolatile Organic Compounds by Isotope Dilution GC/MS
 1. Scope and Application
 1.1 This method is designed to determine the semivolatile toxic organic pollutants associated with the 1976 Consent Decree and additional compounds amenable to extraction and analysis by capillary column gas chromatography-mass spectrometry (GC/MS).
@@ -7209,32 +6892,32 @@ Benzo(b)fluoranthene | 34230 | 205-99-2 | 074 B | 007 B
 Benzo(k)fluoranthene | 34242 | 207-08-9 | 075 B | 009 B
 Benzo(a)pyrene | 34247 | 50-32-8 | 073 B | 006 B
 Benzo(ghi)perylene | 34521 | 191-24-2 | 079 B | 008 B
-Biphenyl (Appendix C) | 81513 | 92-52-4 | 512 B
+Biphenyl (Appendix C) | 81513 | 92-52-4 | 512 B |
 Bis(2-chloroethyl) ether | 34273 | 111-44-4 | 018 B | 011 B
 Bis(2-chloroethyoxy)methane | 34278 | 111-91-1 | 043 B | 010 B
 Bis(2-chloroisopropyl) ether | 34283 | 108-60-1 | 042 B | 012 B
 Bis(2-ethylhexyl) phthalate | 39100 | 117-81-7 | 066 B | 013 B
 4-bromophenyl phenyl ether | 34636 | 101-55-3 | 041 B | 014 B
 Butyl benzyl phthalate | 34292 | 85-68-7 | 067 B | 015 B
-n-C10 (Appendix C) | 77427 | 124-18-5 | 517 B
-n-C12 (Appendix C) | 77588 | 112-40-2 | 506 B
-n-C14 (Appendix C) | 77691 | 629-59-4 | 518 B
-n-C16 (Appendix C) | 77757 | 544-76-3 | 519 B
-n-C18 (Appendix C) | 77804 | 593-45-3 | 520 B
-n-C20 (Appendix C) | 77830 | 112-95-8 | 521 B
-n-C22 (Appendix C) | 77859 | 629-97-0 | 522 B
-n-C24 (Appendix C) | 77886 | 646-31-1 | 523 B
-n-C26 (Appendix C) | 77901 | 630-01-3 | 524 B
-n-C28 (Appendix C) | 78116 | 630-02-4 | 525 B
-n-C30 (Appendix C) | 78117 | 638-68-6 | 526 B
-Carbazole (4c) | 77571 | 86-74-8 | 528 B
+n-C10 (Appendix C) | 77427 | 124-18-5 | 517 B |
+n-C12 (Appendix C) | 77588 | 112-40-2 | 506 B |
+n-C14 (Appendix C) | 77691 | 629-59-4 | 518 B |
+n-C16 (Appendix C) | 77757 | 544-76-3 | 519 B |
+n-C18 (Appendix C) | 77804 | 593-45-3 | 520 B |
+n-C20 (Appendix C) | 77830 | 112-95-8 | 521 B |
+n-C22 (Appendix C) | 77859 | 629-97-0 | 522 B |
+n-C24 (Appendix C) | 77886 | 646-31-1 | 523 B |
+n-C26 (Appendix C) | 77901 | 630-01-3 | 524 B |
+n-C28 (Appendix C) | 78116 | 630-02-4 | 525 B |
+n-C30 (Appendix C) | 78117 | 638-68-6 | 526 B |
+Carbazole (4c) | 77571 | 86-74-8 | 528 B |
 2-chloronaphthalene | 34581 | 91-58-7 | 020 B | 016 B
 4-chlorophenyl phenyl ether | 34641 | 7005-72-3 | 040 B | 017 B
 Chrysene | 34320 | 218-01-9 | 076 B | 018 B
-P-cymene (Appendix C) | 77356 | 99-87-6 | 513 B
+P-cymene (Appendix C) | 77356 | 99-87-6 | 513 B |
 Dibenzo(a,h)anthracene | 34556 | 53-70-3 | 082 B | 019 B
-Dibenzofuran (Appendix C and 4c) | 81302 | 132-64-9 | 505 B
-Dibenzothiophene (Synfuel) | 77639 | 132-65-0 | 504 B
+Dibenzofuran (Appendix C and 4c) | 81302 | 132-64-9 | 505 B |
+Dibenzothiophene (Synfuel) | 77639 | 132-65-0 | 504 B |
 Di-n-butyl phthalate | 39110 | 84-74-2 | 068 B | 026 B
 1,2-dichlorobenzene | 34536 | 95-50-1 | 025 B | 020 B
 1,3-dichlorobenzene | 34566 | 541-73-1 | 026 B | 021 B
@@ -7246,8 +6929,8 @@ Dimethyl phthalate | 34341 | 131-11-3 | 071 B | 025 B
 2,4-dinitrotoluene | 34611 | 121-14-2 | 035 B | 027 B
 2,6-dinitrotoluene | 34626 | 606-20-2 | 036 B | 028 B
 Di-n-octyl phthalate | 34596 | 117-84-0 | 069 B | 029 B
-Diphenylamine (Appendix C) | 77579 | 122-39-4 | 507 B
-Diphenyl ether (Appendix C) | 77587 | 101-84-8 | 508 B
+Diphenylamine (Appendix C) | 77579 | 122-39-4 | 507 B |
+Diphenyl ether (Appendix C) | 77587 | 101-84-8 | 508 B |
 1,2-diphenylhydrazine | 34346 | 122-66-7 | 037 B | 030 B
 Fluoranthene | 34376 | 206-44-0 | 039 B | 031 B
 Fluorene | 34381 | 86-73-7 | 080 B | 032 B
@@ -7258,18 +6941,18 @@ Hexachlorocyclopentadiene | 34386 | 77-47-4 | 053 B | 035 B
 Indeno(1,2,3-cd)pyrene | 34403 | 193-39-5 | 083 B | 037 B
 Isophorone | 34408 | 78-59-1 | 054 B | 038 B
 Naphthalene | 34696 | 91-20-3 | 055 B | 039 B
-B-naphthylamine (Appendix C) | 82553 | 91-59-8 | 502 B
+B-naphthylamine (Appendix C) | 82553 | 91-59-8 | 502 B |
 Nitrobenzene | 34447 | 98-95-3 | 056 B | 040 B
 N-nitrosodimethylamine | 34438 | 62-75-9 | 061 B | 041 B
 N-nitrosodi-n-propylamine | 34428 | 621-64-7 | 063 B | 042 B
 N-nitrosodiphenylamine | 34433 | 86-30-3 | 062 B | 043 B
 Phenanthrene | 34461 | 85-01-8 | 081 B | 044 B
 Phenol | 34694 | 108-95-2 | 065 A | 010 A
-a-Picoline (Synfuel) | 77088 | 109-06-89 | 503 B
+a-Picoline (Synfuel) | 77088 | 109-06-89 | 503 B |
 Pyrene | 34469 | 129-00-0 | 084 B | 045 B
-styrene (Appendix C) | 77128 | 100-42-5 | 510 B
-a-terpineol (Appendix C) | 77493 | 98-55-5 | 509 B
-1,2,3-trichlorobenzene (4c) | 77613 | 87-61-6 | 529 B
+styrene (Appendix C) | 77128 | 100-42-5 | 510 B |
+a-terpineol (Appendix C) | 77493 | 98-55-5 | 509 B |
+1,2,3-trichlorobenzene (4c) | 77613 | 87-61-6 | 529 B |
 1,2,4-trichlorobenzene | 34551 | 120-82-1 | 008 B | 046 B
 Table 2—Acid Extractable Compounds
 Compound | STORET | CAS registry | EPA-EGD | NPDES
@@ -7281,11 +6964,12 @@ Compound | STORET | CAS registry | EPA-EGD | NPDES
 2-nitrophenol | 34591 | 88-75-5 | 057 A | 006 A
 4-nitrophenol | 34646 | 100-02-7 | 058 A | 007 A
 Pentachlorophenol | 39032 | 87-86-5 | 064 A | 009 A
-2,3,6-trichlorophenol (4c) | 77688 | 93-37-55 | 530 A
-2,4,5-trichlorophenol (4c) | | 95-95-4 | 531 A
+2,3,6-trichlorophenol (4c) | 77688 | 93-37-55 | 530 A |
+2,4,5-trichlorophenol (4c) | | 95-95-4 | 531 A |
 2,4,6-trichlorophenol | 34621 | 88-06-2 | 021 A | 011 A
 Table 3—Gas Chromatography of Base/Neutral Extractable Compounds
-EGD No. 1 | Compound | Retention time | Mean (sec) | EGD Ref | Relative | Detection limit 2 (µg/L)
+EGD No. 1 | Compound | Retention time | Detection limit 2 (µg/L)
+Mean (sec) | EGD Ref | Relative
 164 | 2,2′-difluorobiphenyl (int std) | 1163 | 164 | 1.000-1.000 | 10
 061 | N-nitrosodimethylamine | 385 | 164 | ns | 50
 603 | alpha picoline-d7 | 417 | 164 | 0.326-0.393 | 50
@@ -7415,16 +7099,10 @@ EGD No. 1 | Compound | Retention time | Mean (sec) | EGD Ref | Relative | Detect
 082 | Dibenzo(a,h)anthracene | 2660 | 164 | ns | 20
 279 | Benzo(ghi)perylene-d12 | 2741 | 164 | 2.187-2.524 | 20
 379 | Benzo(ghi)perylene | 2750 | 279 | 1.001-1.006 | 20
-1 Reference numbers beginning with 0, 1 or 5 indicate a pollutant quantified by the internal standard method; reference numbers beginning with 2 or 6 indicate a labeled compound quantified by the internal standard method; reference numbers beginning with 3 or 7 indicate a pollutant quantified by isotope dilution.
-2 This is a minimum level at which the entire GC/MS system must give recognizable mass spectra (background corrected) and acceptable calibration points.
-3 Detected as azobenzene.
-4 Detected as diphenylamine.
-ns = specification not available at time of release of method.
-Column: 30 ±2 m × 0.25 ±0.02 mm i.d. 94% methyl, 4% phenyl, 1% vinyl bonded phase fused silica capillary.
-Temperature program: 5 min at 30 °C; 30 - 280 °C at 8 °C per min; isothermal at 280 °C until benzo(ghi)perylene elutes.
-Gas velocity: 30 ±5 cm/sec.
+1 Reference numbers beginning with 0, 1 or 5 indicate a pollutant quantified by the internal standard method; reference numbers beginning with 2 or 6 indicate a labeled compound quantified by the internal standard method; reference numbers beginning with 3 or 7 indicate a pollutant quantified by isotope dilution. 2 This is a minimum level at which the entire GC/MS system must give recognizable mass spectra (background corrected) and acceptable calibration points. 3 Detected as azobenzene. 4 Detected as diphenylamine. ns = specification not available at time of release of method. Column: 30 ±2 m × 0.25 ±0.02 mm i.d. 94% methyl, 4% phenyl, 1% vinyl bonded phase fused silica capillary. Temperature program: 5 min at 30 °C; 30 - 280 °C at 8 °C per min; isothermal at 280 °C until benzo(ghi)perylene elutes. Gas velocity: 30 ±5 cm/sec.
 Table 4—Gas Chromatography of Acid Extractable Compounds
-EGD No. 1 | Compound | Retention time | Mean (sec) | EGD Ref | Relative | Detection limit 2 (µg/L)
+EGD No. 1 | Compound | Retention time | Detection limit 2 (µg/L)
+Mean (sec) | EGD Ref | Relative
 164 | 2,2′-difluorobiphenyl (int std) | 1163 | 164 | 1.000-1.000 | 10
 224 | 2-chlorophenol-d4 | 701 | 164 | 0.587-0.618 | 10
 324 | 2-chlorophenol | 705 | 224 | 0.997-1.010 | 10
@@ -7446,12 +7124,7 @@ EGD No. 1 | Compound | Retention time | Mean (sec) | EGD Ref | Relative | Detect
 360 | 2-methyl-4,6-dinitrophenol | 1435 | 260 | 1.000-1.002 | 20
 264 | Pentachlorophenol-13C6 | 1559 | 164 | 1.320-1.363 | 50
 364 | Pentachlorophenol | 1561 | 264 | 0.998-1.002 | 50
-1 Reference numbers beginning with 0, 1 or 5 indicate a pollutant quantified by the internal standard method; reference numbers beginning with 2 or 6 indicate a labeled compound quantified by the internal standard method; reference numbers beginning with 3 or 7 indicate a pollutant quantified by isotope dilution.
-2 This is a minimum level at which the entire GC/MS system must give recognizable mass spectra (background corrected) and acceptable calibration points.
-ns = specification not available at time of release of method.
-Column: 30 ±2m × 0.25 ±0.02mm i.d. 94% methyl, 4% phenyl, 1% vinyl bonded phase fused silica capillary.
-Temperature program: 5 min at 30 °C; 8 °C/min. to 250 °C or until pentachlorophenol elutes.
-Gas velocity: 30 ±5 cm/sec.
+1 Reference numbers beginning with 0, 1 or 5 indicate a pollutant quantified by the internal standard method; reference numbers beginning with 2 or 6 indicate a labeled compound quantified by the internal standard method; reference numbers beginning with 3 or 7 indicate a pollutant quantified by isotope dilution. 2 This is a minimum level at which the entire GC/MS system must give recognizable mass spectra (background corrected) and acceptable calibration points. ns = specification not available at time of release of method. Column: 30 ±2m × 0.25 ±0.02mm i.d. 94% methyl, 4% phenyl, 1% vinyl bonded phase fused silica capillary. Temperature program: 5 min at 30 °C; 8 °C/min. to 250 °C or until pentachlorophenol elutes. Gas velocity: 30 ±5 cm/sec.
 Table 5—DFTPP Mass Intensity Specifications
 Mass | Intensity required
 51 | 30-60 percent of mass 198.
@@ -7461,8 +7134,8 @@ Mass | Intensity required
 197 | Less than 1 percent of mass 198.
 199 | 5-9 percent of mass 198.
 275 | 10-30 percent of mass 198.
-365 | greater than 1 percent of mass 198
-441 | present and less than mass 443
+365 | greater than 1 percent of mass 198.
+441 | present and less than mass 443.
 442 | 40-100 percent of mass 198.
 443 | 17-23 percent of mass 442.
 Table 6—Base/Neutral Extractable Compound Characteristic Masses
@@ -7538,8 +7211,7 @@ Styrene | d5 | 104/109
 a-terpineol | d3 | 59/62
 1,2,3-trichlorobenzene | d3 | 180/183
 1,2,4-trichlorobenzene | d3 | 180/183
-1 Detected as azobenzene.
-2 Detected as diphenylamine.
+1 Detected as azobenzene. 2 Detected as diphenylamine.
 Table 7—Acid Extractable Compound Characteristic Masses
 Compound | Labeled analog | Primary m/z
 4-chloro-3-methylphenol | d2 | 107/109
@@ -7554,7 +7226,9 @@ Pentachlorophenol | 13C6 | 266/272
 2,4,5-trichlorophenol | d2 | 196/200
 2,4,6-trichlorophenol | d2 | 196/200
 Table 8—Acceptance Criteria for Performance Tests
-EGD No. 1 | Compound | Acceptance criteria | Initial precision and accuracy section 8.2.3 (µg/L) | s | X | Labeled compound recovery sec. 8.3 and 14.2 P (percent) | Calibration verification sec. 12.5 (µg/mL) | On-going accuracy sec. 11.6 R (µg/L)
+EGD No. 1 | Compound | Acceptance criteria
+Initial precision and accuracy section 8.2.3 (µg/L) | Labeled compound recovery sec. 8.3 and 14.2 P (percent) | Calibration verification sec. 12.5 (µg/mL) | On-going accuracy sec. 11.6 R (µg/L)
+s | X
 301 | Acenaphthene | 21 | 79-134 | | 80-125 | 72-144
 201 | Acenaphthene-d10 | 38 | 38-147 | 20-270 | 71-141 | 30-180
 377 | Acenaphtylene | 38 | 69-186 | | 60-166 | 61-207
@@ -7703,12 +7377,7 @@ EGD No. 1 | Compound | Acceptance criteria | Initial precision and accuracy sect
 531 | 2,4,5-trichlorophenol (4c)* | 30 | 58-137 | | 56-180 | 51-153
 321 | 2,4,6-trichlorophenol | 57 | 59-205 | | 81-123 | 48-244
 221 | 2,4,6-trichlorophenol-d2 | 47 | 43-183 | 21-363 | 69-144 | 34-226
-1 Reference numbers beginning with 0, 1 or 5 indicate a pollutant quantified by the internal standard method; reference numbers beginning with 2 or 6 indicate a labeled compound quantified by the internal standard method; reference numbers beginning with 3 or 7 indicate a pollutant quantified by isotope dilution.
-* Measured by internal standard; specification derived from related compound.
-ns = no specification; limit is outside the range that can be measured reliably.
-EC02JY92.057
-EC02JY92.058
-EC02JY92.059
+1 Reference numbers beginning with 0, 1 or 5 indicate a pollutant quantified by the internal standard method; reference numbers beginning with 2 or 6 indicate a labeled compound quantified by the internal standard method; reference numbers beginning with 3 or 7 indicate a pollutant quantified by isotope dilution. * Measured by internal standard; specification derived from related compound. ns = no specification; limit is outside the range that can be measured reliably.
 Attachment 1 to Method 1625
 Introduction
 To support measurement of several semivolatile pollutants, EPA has developed this attachment to EPA Method 1625B. 1 The modifications listed in this attachment are approved only for monitoring wastestreams from the Centralized Waste Treatment Point Source Category (40 CFR part 437) and the Landfills Point Source Category (40 CFR part 445). EPA Method 1625B (the Method) employs sample extraction with methylene chloride followed by analysis of the extract using capillary column gas chromatography-mass spectrometry (GC/MS). This attachment addresses the addition of the semivolatile pollutants listed in Tables 1 and 2 to all applicable standard, stock, and spiking solutions utilized for the determination of semivolatile organic compounds by EPA Method 1625B.
@@ -7733,62 +7402,49 @@ Section 10.1.3 The precision and recovery standard must include the analytes lis
 Section 12.5 Additional QC requirements for calibration verification are supplied in Table 7 of this attachment.
 Section 12.7 Additional QC requirements for ongoing precision and recovery are supplied in Table 7 of this attachment.
 Table 1—Base/Neutral Extractable Compounds
-Compound | Pollutant | CASRegistry | EPA-EGD
+Compound | Pollutant
+CAS Registry | EPA-EGD
 acetophenone 1 | 98-86-2 | 758
 aniline 2 | 62-53-3 | 757
 -2,3-dichloroaniline 1 | 608-27-5 | 578
 -o-cresol 1 | 95-48-7 | 771
 pyridine 2 | 110-86-1 | 1330
-CAS = Chemical Abstracts Registry.
-EGD = Effluent Guidelines Division.
-1 Analysis of this pollutant is approved only for the Centralized Waste Treatment industry.
-2 Analysis of this pollutant is approved only for the Centralized Waste Treatment and Landfills industries.
+CAS = Chemical Abstracts Registry. EGD = Effluent Guidelines Division. 1 Analysis of this pollutant is approved only for the Centralized Waste Treatment industry. 2 Analysis of this pollutant is approved only for the Centralized Waste Treatment and Landfills industries.
 Table 2—Acid Extractable Compounds
-Compound | Pollutant | CASRegistry | EPA-EGD
+Compound | Pollutant
+CAS Registry | EPA-EGD
 p-cresol 1 | 106-44-5 | 1744
-CAS = Chemical Abstracts Registry.
-EGD = Effluent Guidelines Division.
-1 Analysis of this pollutant is approved only for the Centralized Waste Treatment and Landfills industries.
+CAS = Chemical Abstracts Registry. EGD = Effluent Guidelines Division. 1 Analysis of this pollutant is approved only for the Centralized Waste Treatment and Landfills industries.
 Table 3—Gas Chromatography 1 of Base/Neutral Extractable Compounds
-EGD No. | Compound | Retention time 2 | Mean(sec) | EGD Ref | Relative | Minimumlevel 3 (µg/L) | EGD No. | Compound | Retention time 2 | Mean(sec) | EGD Ref | Relative | Minimum level 3 (µg/L)
+EGD No. | Compound | Retention time 2 | Minimum level 3 (µg/L) | EGD No. | Compound | Retention time 2 | Minimum level 3 (µg/L)
+Mean (sec) | EGD Ref | Relative | Mean (sec) | EGD Ref | Relative
 758 | acetophenone 4 | 818 | 658 | 1.003-1.005 | 10
 757 | aniline 5 | 694 | 657 | 0.994-1.023 | 10
 578 | 2,3-dichloroaniline 4 | 1160 | 164 | 1.003-1.007 | 10
 771 | o-cresol 4 | 814 | 671 | 1.005-1.009 | 10
 1330 | pyridine 5 | 378 | 1230 | 1.005-1.011 | 10
-EGD = Effluent Guidelines Division.
-1 The data presented in this table were obtained under the chromatographic conditions given in the footnote to Table 3 of EPA Method 1625B.
-2 Retention times are approximate and are intended to be consistent with the retention times for the analytes in EPA Method 1625B.
-3 See the definition in footnote 2 to Table 3 of EPA Method 1625B.
-4 Analysis of this pollutant is approved only for the Centralized Waste Treatment industry.
-5 Analysis of this pollutant is approved only for the Centralized Waste Treatment and Landfills industries.
+EGD = Effluent Guidelines Division. 1 The data presented in this table were obtained under the chromatographic conditions given in the footnote to Table 3 of EPA Method 1625B. 2 Retention times are approximate and are intended to be consistent with the retention times for the analytes in EPA Method 1625B. 3 See the definition in footnote 2 to Table 3 of EPA Method 1625B. 4 Analysis of this pollutant is approved only for the Centralized Waste Treatment industry. 5 Analysis of this pollutant is approved only for the Centralized Waste Treatment and Landfills industries.
 Table 4—Gas Chromatography 1 of Acid Extractable Compounds
-EGD No. | Compound | Retention time 2 | Mean(sec) | EGD Ref | Relative | Minimumlevel (µ/L) 3
+EGD No. | Compound | Retention time 2 | Minimum level (µ/L) 3
+Mean (sec) | EGD Ref | Relative
 1744 | p-cresol 4 | 834 | 1644 | 1.004-1.008 | 20
-EGD = Effluent Guidelines Division.
-1 The data presented in this table were obtained under the chromatographic conditions given in the footnote to Table 4 of EPA Method 1625B.
-2 Retention times are approximate and are intended to be consistent with the retention times for the analytes in EPA Method 1625B.
-3 See the definition in footnote 2 to Table 4 of EPA Method 1625B.
-4 Analysis of this pollutant is approved only for the Centralized Waste Treatment and Landfills industries.
+EGD = Effluent Guidelines Division. 1 The data presented in this table were obtained under the chromatographic conditions given in the footnote to Table 4 of EPA Method 1625B. 2 Retention times are approximate and are intended to be consistent with the retention times for the analytes in EPA Method 1625B. 3 See the definition in footnote 2 to Table 4 of EPA Method 1625B. 4 Analysis of this pollutant is approved only for the Centralized Waste Treatment and Landfills industries.
 Table 5—Base/Neutral Extractable Compound Characteristic m/z's
-Compound | Labeled Analog | Primarym/z 1
+Compound | Labeled Analog | Primary m/z 1
 acetophenone 2 | d5 | 105/110
 aniline 3 | d7 | 93/100
 o-cresol 2 | d7 | 108/116
 2,3-dichloroaniline 2 | n/a | 161
 pyridine 3 | d5 | 79/84
-m/z = mass to charge ratio.
-1 Native/labeled.
-2 Analysis of this pollutant is approved only for the Centralized Waste Treatment industry.
-3 Analysis of this pollutant is approved only for the Centralized Waste Treatment and Landfills industries.
+m/z = mass to charge ratio. 1 Native/labeled. 2 Analysis of this pollutant is approved only for the Centralized Waste Treatment industry. 3 Analysis of this pollutant is approved only for the Centralized Waste Treatment and Landfills industries.
 Table 6—Acid Extractable Compound Characteristic m/z's
-Compound | Labeled Analog | Primarym/z 1
+Compound | Labeled Analog | Primary m/z 1
 p-cresol 2 | d7 | 108/116
-m/z = mass to charge ratio.
-1 Native/labeled.
-2 Analysis of this pollutant is approved only for the Centralized Waste Treatment and Landfills industries.
+m/z = mass to charge ratio. 1 Native/labeled. 2 Analysis of this pollutant is approved only for the Centralized Waste Treatment and Landfills industries.
 Table 7—Acceptance Criteria for Performance Tests
-EGD No. | Compound | Acceptance criteria | Initial precision and accuracy section 8.2(µg/L) | s(µg/L) | X | Labeled compound recovery sec. 8.3 and 14.2 P(percent) | Calibration verification sec. 12.5µg/mL) | On-going accuracy sec. 12.7 R(µg/L)
+EGD No. | Compound | Acceptance criteria | Calibration verification sec. 12.5 µg/mL) | On-going accuracy sec. 12.7 R (µg/L)
+Initial precision and accuracy section 8.2 (µg/L) | Labeled compound recovery sec. 8.3 and 14.2 P (percent)
+s (µg/L) | X
 758 | acetophenone 1 | 34 | 44-167 | | 85-115 | 45-162
 658 | acetophenone-d 5 1 | 51 | 23-254 | 45-162 | 85-115 | 22-264
 757 | aniline 2 | 32 | 30-171 | | 85-115 | 33-154
@@ -7800,9 +7456,4 @@ EGD No. | Compound | Acceptance criteria | Initial precision and accuracy sectio
 578 | 2,3-dichloroaniline 1 | 13 | 40-160 | | 85-115 | 44-144
 1330 | pyridine 2 | 28 | 10-421 | | 83-117 | 18-238
 1230 | pyridine-d 5 2 | ns | 7-392 | 19-238 | 85-115 | 4-621
-s = Standard deviation of four recovery measurements.
-X = Average recovery for four recovery measurements.
-EGD = Effluent Guidelines Division.
-ns = no specification; limit is outside the range that can be measured reliably.
-1 Analysis of this pollutant is approved only for the Centralized Waste Treatment industry.
-2 Analysis of this pollutant is approved only for the Centralized Waste Treatment and Landfills industries.
+s = Standard deviation of four recovery measurements. X = Average recovery for four recovery measurements. EGD = Effluent Guidelines Division. ns = no specification; limit is outside the range that can be measured reliably. 1 Analysis of this pollutant is approved only for the Centralized Waste Treatment industry. 2 Analysis of this pollutant is approved only for the Centralized Waste Treatment and Landfills industries.
