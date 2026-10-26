@@ -40,11 +40,9 @@ A. Method 1 for Calculating and Applying an Annual Trigger (T)
 (2) Calculate M−1 as the median of the baseline data which are less than or equal to the sample median M.
 (3) Calculate the interquartile range, R = (M1 − M−1).
 (4) The annual trigger for baseline (Tb) is calculated as:
-ER23JA02.002
 where n is the number of baseline loading observations.
 (5) To compare baseline loading data to observations from the annual monitoring period, repeat steps 1-3 for the set of monitoring observations. Label the results of the calculations M′ and R′. Let m be the number of monitoring observations.
 (6) The subtle trigger (Tm) of the monitoring data is calculated as:
-ER23JA02.003
 (7) If Tm >Tb, the median loading of the monitoring observations has exceeded the baseline loading.
 B. Method 2 for Calculating and Applying an Annual Trigger (T)
 Method 2 applies the Wilcoxon-Mann-Whitney test to determine whether the median loading of the monitoring observations has exceeded the baseline median. No baseline value T is calculated.
@@ -70,10 +68,9 @@ MONITORING RANKS
 Sum of Ranks for Baseline is Sn = 143.5, critical value is Cn, m = 99.
 (3) Critical Values for the Wilcoxon-Mann-Whitney Test
 (a) When n and m are less than 21, use Table 1.
-In order to find the appropriate critical value, match column with correct n (number of baseline observations) to row with correct m (number of monitoring observations)*.
-Table 1—Critical Values (C) of the Wilcoxon-Mann-Whitney Test
-(for a one-sided test at the 0.001 significance level)
-nm | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20
+In order to find the appropriate critical value, match column with correct n (number of baseline observations) to row with correct m (number of monitoring observations).*
+Table 1—Critical Values (C) of the Wilcoxon-Mann-Whitney Test (for a one-sided test at the 0.001 significance level)
+n m | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20
 10 | 66 | 79 | 93 | 109 | 125 | 142 | 160 | 179 | 199 | 220 | 243
 11 | 68 | 82 | 96 | 112 | 128 | 145 | 164 | 183 | 204 | 225 | 248
 12 | 70 | 84 | 99 | 115 | 131 | 149 | 168 | 188 | 209 | 231 | 253
@@ -86,9 +83,6 @@ nm | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20
 19 | 85 | 101 | 119 | 137 | 156 | 176 | 197 | 220 | 243 | 268 | 293
 20 | 88 | 104 | 121 | 140 | 160 | 180 | 202 | 224 | 248 | 273 | 299
 (b) When n or m is greater than 20 and there are few ties, calculate an approximate critical value using the following formula and round the result to the next larger integer. Let N = n + m.
-ER23JA02.004
 For example, this calculation provides a result of 295.76 for n = m = 20, and a result of 96.476 for n = m = 12. Rounding up produces approximate critical values of 296 and 97.
 (c) When n or m is greater than 20 and there are many ties, calculate an approximate critical value using the following formula and round the result to the next larger integer. Let S be the sum of the squares of the ranks or average ranks of all N observations. Let N = n + m.
-ER23JA02.005
 In the preceding formula, calculate V using
-ER23JA02.006
