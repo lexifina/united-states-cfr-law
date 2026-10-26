@@ -39,4 +39,3 @@ Insular
 27. Hawaiian Islands.
 28. Western Pacific Island.
 29. Eastern Pacific Island.
-EC12SE91.000
