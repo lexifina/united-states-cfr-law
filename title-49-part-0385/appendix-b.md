@@ -49,7 +49,8 @@ A. Rating Table
 (a) The ratings for the six factors are then entered into a rating table which establishes the motor carrier's safety rating.
 (b) The FMCSA has developed a computerized rating formula for assessing the information obtained from the CR document and is using that formula in assigning a safety rating.
 Motor Carrier Safety Rating Table
-Factor ratings | Unsatisfactory | Conditional | Overall Safety rating
+Factor ratings | Overall Safety rating
+Unsatisfactory | Conditional
 0 | 2 or fewer | Satisfactory
 0 | more than 2 | Conditional
 1 | 2 or fewer | Conditional
