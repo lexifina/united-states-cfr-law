@@ -130,7 +130,6 @@ The manufacturer or producer must:
 6. Issue instructions to help ensure proper compliance with 19, United States Code, § 1313, part 190 of the CBP Regulations and this general ruling.
 V. General Manufacturing Drawback Ruling Under 19 U.S.C. 1313(b) for Component Parts (T.D. 81-300)
 A. Same 8-Digit HTSUS Classification (Parallel Columns)
-|
 Imported merchandise or drawback products 1 to be designated as the basis for drawback on the exported products | Duty-paid, duty-free, or domestic merchandise classifiable under the same 8-digit HTSUS subheading number as that designated which will be used in the production of the exported products.
 Component parts identified by individual part numbers and 8-digit HTSUS subheading number | Component parts classifiable under the same 8-digit HTSUS subheading number and identified with the same individual part numbers as those in the column immediately to the left.
 The designated components must be manufactured in accordance with the same specifications and from the same materials, and must be identified by the same 8-digit HTSUS classification and part number as the substituted components. Further, the designated and substituted components are used interchangeably in the manufacture of the exported articles upon which drawback will be claimed. Specifications or drawings will be maintained and made available for review by CBP Officials.
@@ -235,7 +234,6 @@ The manufacturer or producer will:
 6. Issue instructions to insure proper compliance with 19, United States Code, § 1313, part 190 of the CBP Regulations and this general ruling.
 VIII. General Manufacturing Drawback Ruling Under 19 U.S.C. 1313(b) for Orange Juice (T.D. 85-110)
 A. Same 8-Digit HTSUS Classification (Parallel Columns)
-|
 Imported merchandise or drawback products 1 to be designated as the basis for drawback on the exported products | Duty-paid, duty-free, or domestic merchandise, classifiable under the same 8-digit HTSUS subheading number as that designated which will be used in the production of the exported products.
 Concentrated orange juice for manufacturing (of not less than 55° Brix), as defined in the standard of identity of the Food and Drug Administration (21 CFR 146.53), which meets the Grade A standard of the U.S. Dept. of Agriculture (7 CFR 52.1557, Table IV) | Concentrated orange juice for manufacturing as described in the left-hand parallel column.
 The imported merchandise designated on drawback claims must be classifiable under the same 8-digit HTSUS classification as the merchandise used in producing the exported articles on which drawback is claimed.
@@ -277,7 +275,6 @@ The manufacturer or producer will:
 6. Issue instructions to insure proper compliance with title 19, United States Code, section 1313, part 190 of the CBP Regulations and this general ruling.
 IX. General Manufacturing Drawback Ruling Under 19 U.S.C. 1313(b) for Petroleum or Petroleum Derivatives (T.D. 84-49)
 A. Same 8-Digit HTSUS Classification (Parallel Columns)
-|
 Imported merchandise or drawback products 1 to be designated as the basis for drawback on the exported products | Duty-paid, duty-free, or domestic merchandise, classifiable under the same 8-digit HTSUS subheading number as that designated which will be used in the production of the exported products.
 B. Exported Articles Produced From Fractionation
 1. Motor Gasoline
@@ -338,58 +335,35 @@ The manufacturer or producer specifically agrees that it will:
 4. Keep this application current by reporting promptly to the drawback office which liquidates its claims any changes in the information required by the General Instructions of this Appendix (I. General Instructions, 1 through 10), the corporate name, or corporate organization by succession or reincorporation;
 5. Keep a copy of this general ruling on file for ready reference by employees and require all officials and employees concerned to familiarize themselves with the provisions of this general ruling; and
 6. Issue instructions to insure proper compliance with title 19, United States Code, section 1313, part 190 of the CBP Regulations and this general ruling.
-ER18DE18.002
-ER18DE18.003
-Exhibit C—Inventory Control Sheet: ABC Oil Co., Inc.; Beaumont, Texas Refinery,
-Period From January 1, 2019 to January 31, 2019
-[All quantities exclude non-petroleum additives]
-| Aviation gasoline | Bbls. | Drawback factor | Residual oils | Bbls. | Drawback factor | Lubricating oils | Bbls. | Drawback factor | Petrochemicals, all other | Bbls. | Drawback factor
+Exhibit C—Inventory Control Sheet: ABC Oil Co., Inc.; Beaumont, Texas Refinery, Period From January 1, 2019 to January 31, 2019 [All quantities exclude non-petroleum additives]
+| Aviation gasoline | Residual oils | Lubricating oils | Petrochemicals, all other
+Bbls. | Drawback factor | Bbls. | Drawback factor | Bbls. | Drawback factor | Bbls. | Drawback factor
 (10) Opening Inventory | 11,218 | 1.00126 | 21,221 | .45962 | 9,242 | 4.52178 | 891 | 1.00244
 (11) Production | 108,269 | 1.01300 | 308,002 | .43642 | 292,492 | 4.64041 | 7,996 | 1.07895
-(11-A) Receipts
+(11-A) Receipts | | | | | | | |
 (12) Exports | 11,218 176 | 1.00126 1.01300 | 21,221 104,397 | .45962.43642 | 8,774 | 4.52178 | 195 | 1.00244
 (13) Drawback Deliveries | | | | | | | 696 319 | 1.00244 1.07895
 (14) Domestic Shipments | 97,863 | 1.01300 | 180,957 | .43642 | 468 278,286 | 4.52178 4.64041 | 6,867 | 1.07895
 (15) Closing Inventory | 10,230 | 1.01300 | 22,648 | .43642 | 14,206 | 4.64041 | 810 | 1.07895
-Line (10)—Opening inventory from previous period's closing inventory.
-Line (11)—From production period under consideration.
-Line (11-A)—Product received from other sources.
-Line (12)—From earliest on hand (inventory or production). Totals from drawback entry or entries recapitulated (see column 18).
-Line (13)—Deliveries for export or for designation against further manufacture—earliest on hand after exports are deducted.
-Line (14)—From earliest on hand after lines (12) and (13) are deducted.
-Line (15)—Balance on hand.
-ER18DE18.004
-ER18DE18.005
-ER18DE18.006
-Exhibit E (Combination)—Producibility Test for Products Exported (Including Drawback Deliveries) ABC Oil Co., Inc.; Beaumont, Texas Refinery, Period from January 1, 2019 to January 31, 2019
-[Type and class of raw material designated—Crude, Class III]
+Line (10)—Opening inventory from previous period's closing inventory. Line (11)—From production period under consideration. Line (11-A)—Product received from other sources. Line (12)—From earliest on hand (inventory or production). Totals from drawback entry or entries recapitulated (see column 18). Line (13)—Deliveries for export or for designation against further manufacture—earliest on hand after exports are deducted. Line (14)—From earliest on hand after lines (12) and (13) are deducted. Line (15)—Balance on hand.
+Exhibit E (Combination)—Producibility Test for Products Exported (Including Drawback Deliveries) ABC Oil Co., Inc.; Beaumont, Texas Refinery, Period from January 1, 2019 to January 31, 2019 [Type and class of raw material designated—Crude, Class III]
 Product | Quantity in barrels | Industry standard (%) | Quantity of raw material of type and class designated needed to produce product per barrel | Drawback factor | Crude allowed for drawback
 (21) | (22) | (23) | (24) | (19) | (20)
-Aviation Gasoline 1 | 1 11,218 1 176 | 40 40 | 28,045 440 | 1.00126 1.01300 | 11,232 178
+Aviation Gasoline 1 | 1 11,218 1176 | 40 40 | 28,045 440 | 1.00126 1.01300 | 11,232 178
 Residual Oils 1 | 1 21,221 1 104,397 | 83 83 | 25,567 125,780 | .45962.43642 | 9,754 45,561
 Lubricating Oils 1 | 1 8,774 | 50 | 17,548 | 4.52178 | 39,674
 Petrochemicals, Other 1 | 1 195 | 29 | 672 | 1.00244 | 195
 Petrochemicals, Other 2 | 2 696 | 29 | 2,400 | 1.00244 | 698
 Petrochemicals, Other 2 | 2 319 | 29 | 1,100 | 1.07895 | 344
 Total | 146,996 | | | | 107,636
-1 Exports.
-2 Drawback deliveries.
-A—Crude allowed (column 20: 107,636 bbls. (106,594 for export, plus 1,042 for drawback deliveries)).
-B—Total quantity exported (including drawback deliveries) (column 22): 146,996.
-C—Largest quantity of raw material needed to produce an individual exported product (see column 24): 151,347.
-D—The excess of raw material over the largest of lines A, B, or C, required to produce concurrently on a practical operating basis, using the most efficient processing equipment existing within the domestic industry, the exported articles (including drawback deliveries) in the quantities exported (or delivered): None.
-E—Minimum quantity of raw material required to be designated (which is A, B, or C, whichever is largest, plus D, if applicable): 151,347 bbs.
-I hereby certify that all the above drawback deliveries and products exported by the Beaumont refinery of ABC Oil Co., Inc. during the period from January 1, 2019 to January 31, 2019, could have been produced concurrently on a practical operating basis from 151,347 barrels of imported Class III crude against which drawback is claimed.
-ER18DE18.007
-Exhibit F—Designations for Drawback Claim, ABC Oil Co., Inc.; Beaumont, Texas Refinery
-[Period from January 1, 2019 to January 31, 2019]
+1 Exports. 2 Drawback deliveries. A—Crude allowed (column 20: 107,636 bbls. (106,594 for export, plus 1,042 for drawback deliveries)). B—Total quantity exported (including drawback deliveries) (column 22): 146,996. C—Largest quantity of raw material needed to produce an individual exported product (see column 24): 151,347. D—The excess of raw material over the largest of lines A, B, or C, required to produce concurrently on a practical operating basis, using the most efficient processing equipment existing within the domestic industry, the exported articles (including drawback deliveries) in the quantities exported (or delivered): None. E—Minimum quantity of raw material required to be designated (which is A, B, or C, whichever is largest, plus D, if applicable): 151,347 bbs. I hereby certify that all the above drawback deliveries and products exported by the Beaumont refinery of ABC Oil Co., Inc. during the period from January 1, 2019 to January 31, 2019, could have been produced concurrently on a practical operating basis from 151,347 barrels of imported Class III crude against which drawback is claimed.
+Exhibit F—Designations for Drawback Claim, ABC Oil Co., Inc.; Beaumont, Texas Refinery [Period from January 1, 2019 to January 31, 2019]
 Entry No. | Date of importation | Kind of materials | Quantity of materials in barrels | Date received | Date consumed | Rate of duty
 26192 | 04/13/17 | Class III Crude | 75,125 | 04/13/17 | May 2017 | $.1050
 23990 | 08/04/18 | ......do | 37,240 | 08/04/18 | Oct. 2018 | .1050
 22517 | 10/05/18 | ......do | 38,982 | 10/05/18 | Nov. 2018 | .1050
 X. General Manufacturing Drawback Ruling Under 19 U.S.C. 1313(b) for Piece Goods (T.D. 83-73)
 A. Same 8-Digit HTSUS Classification (Parallel Columns)
-|
 Imported merchandise or drawback products 1 to be designated as the basis for drawback on the exported products. | Duty-paid, duty-free or domestic merchandise classifiable under the same 8-digit HTSUS subheading number as that designated which will be used in the production of the exported products.
 Piece goods. | Piece goods.
 The piece goods used in manufacture will be classifiable under the same 8-digit HTSUS classification as the piece goods designated as the basis of claim for drawback, and are used interchangeably without change in manufacturing processes or resultant products (including, if applicable, multiple products), or wastes. Some tolerances between imported-designated piece goods and the used-exported piece goods will be permitted to accommodate variations which are normally found in piece goods. These tolerances are no greater than the tolerances generally allowed in the industry for piece goods classifiable under the same 8-digit HTSUS classification as follows:
@@ -480,7 +454,6 @@ Y. General requirements. The refiner will:
 6. Issue instructions to insure proper compliance with title 19, United States Code, section 1313, part 190 of the CBP Regulations and this general ruling.
 XII. General Manufacturing Drawback Ruling Under 19 U.S.C. 1313(b) for Steel (T.D. 81-74)
 A. Same 8-Digit HTSUS Classification (Parallel Columns)
-|
 Imported merchandise or drawback products 1 to be designated as the basis for drawback on the exported products. | Duty-paid, duty-free or domestic merchandise classifiable under the same 8-digit HTSUS subheading number as that designated which will be used in the production of the exported products.
 Steel of one general class, e.g., an ingot, falling within on SAE, AISI, or ASTM 2 specification and, if the specification contains one or more grades, falling within one grade of the specification. | Steel of the same general class, specification, and grade as the steel in the column immediately to the left hereof.
 1. The duty-paid, duty-free, or domestic steel used instead of the imported, duty-paid steel (or drawback products) will be interchangeable for manufacturing purposes with the duty-paid steel. To be interchangeable a steel must be able to be used in place of the substituted steel without any additional processing step in the manufacture of the article on which drawback is to be claimed.
@@ -504,9 +477,7 @@ I. Procedures and Records Maintained
 Records, which may include records kept in the normal course of business, will be maintained to establish:
 1. The identity and 8-digit HTSUS classification of the designated merchandise;
 2. The quantity of merchandise of the designated merchandise 3 used to produce the exported articles;
-3 If claims are to be made on an "appearing in" basis, the remainder of this sentence should read "appearing in the exported articles produced."
 3. That, within 5 years of the date of importation of the designated merchandise, the manufacturer or producer used the merchandise to produce articles. During the same 5-year period, the manufacturer or producer produced 4 the exported articles.
-4 The date of production is the date an article is completed.
 To obtain drawback the claimant must establish that the completed articles were exported within 5 years after the importation of the imported merchandise. Records establishing compliance with these requirements will be available for audit by CBP during business hours. Drawback is not payable without proof of compliance.
 J. Inventory Procedures
 The inventory records of the manufacturer or producer must show how the drawback recordkeeping requirements set forth in 19 U.S.C. 1313(b) and part 190 of the CBP Regulations will be met, as discussed under the heading "Procedures and Records Maintained." If those records do not establish satisfaction of all legal requirements, drawback cannot be paid.
@@ -522,12 +493,10 @@ The manufacturer or producer will:
 6. Issue instructions to insure proper compliance with title 19, United States Code, section 1313, part 190 of the CBP Regulations and this general ruling.
 XIII. General Manufacturing Drawback Ruling Under 19 U.S.C. 1313(b) for Sugar (T.D. 81-92)
 A. Same 8-Digit HTSUS Classification (Parallel Columns)
-|
 Imported merchandise or drawback products 1 to be designated as the basis for drawback on the exported products. | Duty-paid, duty-free or domestic merchandise classifiable under the same 8-digit HTSUS subheading number as that designated which will be used in the production of the exported products.
 1. Granulated or liquid sugar for manufacturing, containing sugar solids of not less than 99.5 sugar degrees. | 1. Granulated or liquid sugar for manufacturing, containing sugar solids of less than 99.5 sugar degrees.
 2. Granulated or liquid sugar for manufacturing, containing sugar solids of not less than 99.5 sugar degrees. | 2. Granulated or liquid sugar for manufacturing, containing sugar solids of less than 99.5 sugar degrees.
 The sugars listed above test within three-tenths of a degree on the polariscope. Sugars in each column are completely interchangeable with the sugars directly opposite and designation will be made on this basis only. The designated sugar on which claims for drawback will be based will be classifiable under the same 8-digit HTSUS classification.
-1 Drawback products are those produced in the United States in accordance with the drawback law and regulations. Such products have "dual status" under section 1313(b). They may be designated as the basis for drawback and also may be deemed to be domestic merchandise.
 B. Exported Articles on Which Drawback Will Be Claimed
 Edible substances (including confectionery) and/or beverages and/or ingredients therefor.
 C. General Statement
@@ -550,9 +519,7 @@ I. Procedures and Records Maintained
 Records, which may include records kept in the normal course of business, will be maintained to establish:
 1. The identity and 8-digit HTSUS classification of the designated merchandise;
 2. The quantity of merchandise classifiable under the same 8-digit HTSUS classification as the designated merchandise 2 used to produce the exported articles;
-2 If claims are to be made on an "appearing in" basis, the remainder of this sentence should read "appearing in the exported articles produced."
 3. That, within 5 years of the date of importation of the designated merchandise, the manufacturer or producer used the merchandise to produce articles. During the same 5-year period, the manufacturer or producer produced 3 the exported articles.
-3 The date of production is the date an article is completed.
 To obtain drawback the claimant must establish that the completed articles were exported within 5 years after the importation of the imported merchandise. Records establishing compliance with these requirements will be available for audit by CBP during business hours. Drawback is not payable without proof of compliance.
 J. Inventory Procedures
 The inventory records of the manufacturer or producer, will show how the drawback recordkeeping requirements set forth in 19 U.S.C. 1313(b) and part 190 of the CBP Regulations will be met, as discussed under the heading "Procedures and Records Maintained." If those records do not establish satisfaction of all legal requirements, drawback cannot be paid.
@@ -569,7 +536,6 @@ The manufacturer or producer will:
 XIV. General Manufacturing Drawback Ruling Under 19 U.S.C. 1313(a) for Woven Piece Goods (T.D. 83-84)
 Drawback may be allowed under 19 U.S.C. 1313(a) upon the exportation of bleached, mercerized, printed, dyed, or redyed piece goods manufactured or produced by any one or a combination of the foregoing processes with the use of imported woven piece goods, subject to the following special requirements:
 A. Imported Merchandise or Drawback Products 1 Used
-1 Drawback products are those produced in the United States in accordance with the drawback law and regulations.
 Imported merchandise or drawback products (woven piece goods) are used in the manufacture of the exported articles upon which drawback claims will be based.
 B. Exported Articles on Which Drawback Will Be Claimed
 Exported articles on which drawback will be claimed must be manufactured in the United States using imported merchandise or drawback products.
@@ -588,7 +554,6 @@ H. Procedures and Records Maintained
 Records, which may include records kept in the normal course of business, will be maintained to establish:
 1. That the exported articles on which drawback is claimed were produced with the use of the imported merchandise; and
 2. The quantity of imported merchandise 2 used in producing the exported articles.
-2 If claims are to be made on an "appearing in" basis, the remainder of the sentence should read "appearing in the exported articles."
 To obtain drawback the claimant must establish that the completed articles were exported within 5 years after importation of the imported merchandise. Records establishing compliance with these requirements will be available for audit by CBP during business hours. Drawback is not payable without proof of compliance.
 I. Inventory Procedures
 The inventory records of the manufacturer or producer must show how the drawback recordkeeping requirements set forth in 19 U.S.C. 1313(a) and part 190 of the CBP Regulations will be met, as discussed under the heading "Procedures and Records Maintained". If those records do not establish satisfaction of all legal requirements, drawback cannot be paid.
