@@ -51,7 +51,7 @@ Exception: Slopes not steeper than 1:48 shall be permitted.
 307 Protruding Objects
 307.1 General. Protruding objects shall comply with 307.
 307.2 Protrusion Limits. Objects with leading edges more than 27 inches (685 mm) and not more than 80 inches (2030 mm) above the finish floor or ground shall protrude 4 inches (100 mm) maximum horizontally into the circulation path.
-Exception: Handrails shall be permitted to protrude 41/2 inches (115 mm) maximum.
+Exception: Handrails shall be permitted to protrude 4 1/2 inches (115 mm) maximum.
 307.3 Post-Mounted Objects. Freestanding objects mounted on posts or pylons shall overhang circulation paths 12 inches (305 mm) maximum when located 27 inches (685 mm) minimum and 80 inches (2030 mm) maximum above the finish floor or ground. Where a sign or other obstruction is mounted between posts or pylons and the clear distance between the posts or pylons is greater than 12 inches (305 mm), the lowest edge of such sign or obstruction shall be 27 inches (685 mm) maximum or 80 inches (2030 mm) minimum above the finish floor or ground.
 Exception: The sloping portions of handrails serving stairs and ramps shall not be required to comply with 307.3.
 307.4 Vertical Clearance. Vertical clearance shall be 80 inches (2030 mm) high minimum. Guardrails or other barriers shall be provided where the vertical clearance is less than 80 inches (2030 mm) high. The leading edge of such guardrail or barrier shall be located 27 inches (685 mm) maximum above the finish floor or ground.
@@ -107,27 +107,25 @@ Exceptions: 1. In alterations, a projection of 5/8 inch (16 mm) maximum into the
 Exception: Entry doors to hospital patient rooms shall not be required to provide the clearance beyond the latch side of the door.
 404.2.4.1 Swinging Doors and Gates. Swinging doors and gates shall have maneuvering clearances complying with Table 404.2.4.1.
 Table 404.2.4.1—Maneuvering Clearances at Manual Swinging Doors and Gates
-Type of use | Approach direction | Door or gate side | Minimum maneuvering clearance | Perpendicular to doorway | Parallel to doorway(beyond latch side unless noted)
+Type of use | Minimum maneuvering clearance
+Approach direction | Door or gate side | Perpendicular to doorway | Parallel to doorway (beyond latch side unless noted)
 From front | Pull | 60 inches (1525 mm) | 18 inches (455 mm).
-From front | Push | 48 inches (1220 mm) | 0 inches (0 mm).1
+From front | Push | 48 inches (1220 mm) | 0 inches (0 mm). 1
 From hinge side | Pull | 60 inches (1525 mm) | 36 inches (915 mm).
 From hinge side | Pull | 54 inches (1370 mm) | 42 inches (1065 mm).
-From hinge side | Push | 42 inches (1065 mm) 2 | 22 inches (560 mm).3
+From hinge side | Push | 42 inches (1065 mm) 2 | 22 inches (560 mm). 3
 From latch side | Pull | 48 inches (1220 mm) 4 | 24 inches (610 mm).
 From latch side | Push | 42 inches (1065 mm) 4 | 24 inches (610 mm).
-1 Add 12 inches (305 mm) if closer and latch are provided.
-2 Add 6 inches (150 mm) if closer and latch are provided.
-3 Beyond hinge side.
-4 Add 6 inches (150 mm) if closer is provided.
+1 Add 12 inches (305 mm) if closer and latch are provided. 2 Add 6 inches (150 mm) if closer and latch are provided. 3 Beyond hinge side. 4 Add 6 inches (150 mm) if closer is provided.
 404.2.4.2 Doorways without Doors or Gates, Sliding Doors, and Folding Doors. Doorways less than 36 inches (915 mm) wide without doors or gates, sliding doors, or folding doors shall have maneuvering clearances complying with Table 404.2.4.2.
 Table 404.2.4.2—Maneuvering Clearances at Doorways Without Doors or Gates, Manual Sliding Doors, and Manual Folding Doors
-Approach direction | Minimum maneuvering clearance | Perpendicular to doorway | Parallel to doorway(beyond stop/latch side unless noted)
+Approach direction | Minimum maneuvering clearance
+Perpendicular to doorway | Parallel to doorway (beyond stop/latch side unless noted)
 From Front | 48 inches (1220 mm) | 0 inches (0 mm).
 From side 1 | 42 inches (1065 mm) | 0 inches (0 mm).
-From pocket/hinge side | 42 inches (1065 mm) | 22 inches (560 mm).2
+From pocket/hinge side | 42 inches (1065 mm) | 22 inches (560 mm). 2
 From stop/latch side | 42 inches (1065 mm) | 24 inches (610 mm).
-1 Doorway with no door only.
-2 Beyond pocket/hinge side.
+1 Doorway with no door only. 2 Beyond pocket/hinge side.
 404.2.4.3 Recessed Doors and Gates. Maneuvering clearances for forward approach shall be provided when any obstruction within 18 inches (455 mm) of the latch side of a doorway projects more than 8 inches (205 mm) beyond the face of the door, measured perpendicular to the face of the door or gate.
 404.2.4.4 Floor or Ground Surface. Floor or ground surface within required maneuvering clearances shall comply with 302. Changes in level are not permitted.
 Exceptions: 1. Slopes not steeper than 1:48 shall be permitted.
@@ -224,7 +222,7 @@ Exceptions: 1. Destination-oriented elevators shall not be required to comply wi
 407.2.2.1 Visible and Audible Signals. A visible and audible signal shall be provided at each hoistway entrance to indicate which car is answering a call and the car's direction of travel. Where in-car signals are provided, they shall be visible from the floor area adjacent to the hall call buttons.
 Exceptions: 1. Visible and audible signals shall not be required at each destination-oriented elevator where a visible and audible signal complying with 407.2.2 is provided indicating the elevator car designation information.
 2. In existing elevators, a signal indicating the direction of car travel shall not be required.
-407.2.2.2 Visible Signals. Visible signal fixtures shall be centered at 72 inches (1830 mm) minimum above the finish floor or ground. The visible signal elements shall be 21/2 inches (64 mm) minimum measured along the vertical centerline of the element. Signals shall be visible from the floor area adjacent to the hall call button.
+407.2.2.2 Visible Signals. Visible signal fixtures shall be centered at 72 inches (1830 mm) minimum above the finish floor or ground. The visible signal elements shall be 2 1/2 inches (64 mm) minimum measured along the vertical centerline of the element. Signals shall be visible from the floor area adjacent to the hall call button.
 Exceptions: 1. Destination-oriented elevators shall be permitted to have signals visible from the floor area adjacent to the hoistway entrance.
 2. Existing elevators shall not be required to comply with 407.2.2.2.
 407.2.2.3 Audible Signals. Audible signals shall sound once for the up direction and twice for the down direction, or shall have verbal annunciators that indicate the direction of elevator car travel. Audible signals shall have a frequency of 1500 Hz maximum. Verbal annunciators shall have a frequency of 300 Hz minimum and 3000 Hz maximum. The audible signal and verbal annunciator shall be 10 dB minimum above ambient, but shall not exceed 80 dB, measured at the hall call button.
@@ -253,15 +251,15 @@ Exception: In existing elevators, a power-operated car door complying with 404.2
 407.4.1 Car Dimensions. Inside dimensions of elevator cars and clear width of elevator doors shall comply with Table 407.4.1.
 Exception: Existing elevator car configurations that provide a clear floor area of 16 square feet (1.5 m2) minimum and also provide an inside clear depth 54 inches (1370 mm) minimum and a clear width 36 inches (915 mm) minimum shall be permitted.
 Table 407.4.1—Elevator Car Dimensions
-Door location | Minimum dimensions | Door clear width | Inside car, side to side | Inside car, back wall to front return | Inside car, back wall toinside face of door
+Door location | Minimum dimensions
+Door clear width | Inside car, side to side | Inside car, back wall to front return | Inside car, back wall to inside face of door
 Centered | 42 inches (1065 mm) | 80 inches (2030 mm) | 51 inches (1295 mm) | 54 inches (1370 mm).
 Side (off-centered) | 36 inches (915 mm) 1 | 68 inches (1725 mm) | 51 inches (1295 mm) | 54 inches (1370 mm).
-Any | 36 inches (915 mm)1 | 54 inches (1370 mm) | 80 inches (2030 mm) | 80 inches (2030 mm).
-Any | 36 inches (915 mm) 1 | 60 inches (1525 mm) 2 | 60 inches (1525 mm) 2 | 60 inches (1525 mm).2
-1 A tolerance of minus 5/8 inch (16 mm) is permitted.
-2 Other car configurations that provide a turning space complying with 304 with the door closed shall be permitted.
+Any | 36 inches (915 mm) 1 | 54 inches (1370 mm) | 80 inches (2030 mm) | 80 inches (2030 mm).
+Any | 36 inches (915 mm) 1 | 60 inches (1525 mm) 2 | 60 inches (1525 mm) 2 | 60 inches (1525 mm). 2
+1 A tolerance of minus 5/8 inch (16 mm) is permitted. 2 Other car configurations that provide a turning space complying with 304 with the door closed shall be permitted.
 407.4.2 Floor Surfaces. Floor surfaces in elevator cars shall comply with 302 and 303.
-407.4.3 Platform to Hoistway Clearance. The clearance between the car platform sill and the edge of any hoistway landing shall be 11/4; inch (32 mm) maximum.
+407.4.3 Platform to Hoistway Clearance. The clearance between the car platform sill and the edge of any hoistway landing shall be 1 1/4; inch (32 mm) maximum.
 407.4.4 Leveling. Each car shall be equipped with a self-leveling feature that will automatically bring and maintain the car at floor landings within a tolerance of 1/2 inch (13 mm) under rated loading to zero loading conditions.
 407.4.5 Illumination. The level of illumination at the car controls, platform, car threshold and car landing sill shall be 5 foot candles (54 lux) minimum.
 407.4.6 Elevator Car Controls. Where provided, elevator car controls shall comply with 407.4.6 and 309.4.
@@ -313,7 +311,7 @@ Exception: For elevators other than destination-oriented elevators that have a r
 408.4 Elevator Cars. Elevator cars shall comply with 408.4.
 408.4.1 Car Dimensions and Doors. Elevator cars shall provide a clear width 42 inches (1065 mm) minimum and a clear depth 54 inches (1370 mm) minimum. Car doors shall be positioned at the narrow ends of cars and shall provide 32 inches (815 mm) minimum clear width.
 Exceptions: 1. Cars that provide a clear width 51 inches (1295 mm) minimum shall be permitted to provide a clear depth 51 inches (1295 mm) minimum provided that car doors provide a clear opening 36 inches (915 mm) wide minimum.
-2. Existing elevator cars shall be permitted to provide a clear width 36 inches (915 mm) minimum, clear depth 54 inches (1370 mm) minimum, and a net clear platform area 15 square feet (1.4 m2) minimum.
+2. Existing elevator cars shall be permitted to provide a clear width 36 inches (915 mm) minimum, clear depth 54 inches (1370 mm) minimum, and a net clear platform area 15 square feet (1.4 m 2) minimum.
 408.4.2 Floor Surfaces. Floor surfaces in elevator cars shall comply with 302 and 303.
 408.4.3 Platform to Hoistway Clearance. The platform to hoistway clearance shall comply with 407.4.3.
 408.4.4 Leveling. Elevator car leveling shall comply with 407.4.4.
@@ -332,7 +330,7 @@ Exception: In elevator cars with more than one opening, hoistway doors and gates
 409.4 Elevator Cars. Private residence elevator cars shall comply with 409.4.
 409.4.1 Inside Dimensions of Elevator Cars. Elevator cars shall provide a clear floor space of 36 inches (915 mm) minimum by 48 inches (1220 mm) minimum and shall comply with 305.
 409.4.2 Floor Surfaces. Floor surfaces in elevator cars shall comply with 302 and 303.
-409.4.3 Platform to Hoistway Clearance. The clearance between the car platform and the edge of any landing sill shall be 11/2 inch (38 mm) maximum.
+409.4.3 Platform to Hoistway Clearance. The clearance between the car platform and the edge of any landing sill shall be 1 1/2 inch (38 mm) maximum.
 409.4.4 Leveling. Each car shall automatically stop at a floor landing within a tolerance of 1/2 inch (13 mm) under rated loading to zero loading conditions.
 409.4.5 Illumination Levels. Elevator car illumination shall comply with 407.4.5.
 409.4.6 Car Controls. Elevator car control buttons shall comply with 409.4.6, 309.3, 309.4, and shall be raised or flush.
@@ -347,7 +345,7 @@ Exception: In elevator cars with more than one opening, hoistway doors and gates
 410.1 General. Platform lifts shall comply with ASME A18.1 (1999 edition or 2003 edition) (incorporated by reference, see "Referenced Standards" in Chapter 1). Platform lifts shall not be attendant operated and shall provide unassisted entry and exit from the lift.
 410.2 Floor Surfaces. Floor surfaces in platform lifts shall comply with 302 and 303.
 410.3 Clear Floor Space. Clear floor space in platform lifts shall comply with 305.
-410.4 Platform to Runway Clearance. The clearance between the platform sill and the edge of any runway landing shall be 11/4 inch (32 mm) maximum.
+410.4 Platform to Runway Clearance. The clearance between the platform sill and the edge of any runway landing shall be 1 1/4 inch (32 mm) maximum.
 410.5 Operable Parts. Controls for platform lifts shall comply with 309.
 410.6 Doors and Gates. Platform lifts shall have low-energy power operated doors or gates complying with 404.3. Doors shall remain open for 20 seconds minimum. End doors and gates shall provide a clear width 32 inches (815 mm) minimum. Side doors and gates shall provide a clear width 42 inches (1065 mm) minimum.
 Exception: Platform lifts serving two landings maximum and having doors or gates on opposite sides shall be permitted to have self-closing manual doors or gates.
@@ -385,7 +383,7 @@ Exception: Slopes not steeper than 1:48 shall be permitted.
 504.3 Open Risers. Open risers are not permitted.
 504.4 Tread Surface. Stair treads shall comply with 302. Changes in level are not permitted.
 Exception: Treads shall be permitted to have a slope not steeper than 1:48.
-504.5 Nosings. The radius of curvature at the leading edge of the tread shall be 1/2 inch (13 mm) maximum. Nosings that project beyond risers shall have the underside of the leading edge curved or beveled. Risers shall be permitted to slope under the tread at an angle of 30 degrees maximum from vertical. The permitted projection of the nosing shall extend 11/2 inches (38 mm) maximum over the tread below.
+504.5 Nosings. The radius of curvature at the leading edge of the tread shall be 1/2 inch (13 mm) maximum. Nosings that project beyond risers shall have the underside of the leading edge curved or beveled. Risers shall be permitted to slope under the tread at an angle of 30 degrees maximum from vertical. The permitted projection of the nosing shall extend 1 1/2 inches (38 mm) maximum over the tread below.
 504.6 Handrails. Stairs shall have handrails complying with 505.
 504.7 Wet Conditions. Stair treads and landings subject to wet conditions shall be designed to prevent the accumulation of water.
 505 Handrails
@@ -395,13 +393,13 @@ Exception: In assembly areas, handrails shall not be required on both sides of a
 505.3 Continuity. Handrails shall be continuous within the full length of each stair flight or ramp run. Inside handrails on switchback or dogleg stairs and ramps shall be continuous between flights or runs.
 Exception: In assembly areas, handrails on ramps shall not be required to be continuous in aisles serving seating.
 505.4 Height. Top of gripping surfaces of handrails shall be 34 inches (865 mm) minimum and 38 inches (965 mm) maximum vertically above walking surfaces, stair nosings, and ramp surfaces. Handrails shall be at a consistent height above walking surfaces, stair nosings, and ramp surfaces.
-505.5 Clearance. Clearance between handrail gripping surfaces and adjacent surfaces shall be 11/2 inches (38 mm) minimum.
-505.6 Gripping Surface. Handrail gripping surfaces shall be continuous along their length and shall not be obstructed along their tops or sides. The bottoms of handrail gripping surfaces shall not be obstructed for more than 20 percent of their length. Where provided, horizontal projections shall occur 11/2 inches (38 mm) minimum below the bottom of the handrail gripping surface.
+505.5 Clearance. Clearance between handrail gripping surfaces and adjacent surfaces shall be 1 1/2 inches (38 mm) minimum.
+505.6 Gripping Surface. Handrail gripping surfaces shall be continuous along their length and shall not be obstructed along their tops or sides. The bottoms of handrail gripping surfaces shall not be obstructed for more than 20 percent of their length. Where provided, horizontal projections shall occur 1 1/2 inches (38 mm) minimum below the bottom of the handrail gripping surface.
 Exceptions: 1. Where handrails are provided along walking surfaces with slopes not steeper than 1:20, the bottoms of handrail gripping surfaces shall be permitted to be obstructed along their entire length where they are integral to crash rails or bumper guards.
 2. The distance between horizontal projections and the bottom of the gripping surface shall be permitted to be reduced by 1/8 inch (3.2 mm) for each 1/2 inch (13 mm) of additional handrail perimeter dimension that exceeds 4 inches (100 mm).
 505.7 Cross Section. Handrail gripping surfaces shall have a cross section complying with 505.7.1 or 505.7.2.
-505.7.1 Circular Cross Section. Handrail gripping surfaces with a circular cross section shall have an outside diameter of 11/4 inches (32 mm) minimum and 2 inches (51 mm) maximum.
-505.7.2 Non-Circular Cross Sections. Handrail gripping surfaces with a noncircular cross section shall have a perimeter dimension of 4 inches (100 mm) minimum and 61/4 inches (160 mm) maximum, and a cross-section dimension of 21/4 inches (57 mm) maximum.
+505.7.1 Circular Cross Section. Handrail gripping surfaces with a circular cross section shall have an outside diameter of 1 1/4 inches (32 mm) minimum and 2 inches (51 mm) maximum.
+505.7.2 Non-Circular Cross Sections. Handrail gripping surfaces with a noncircular cross section shall have a perimeter dimension of 4 inches (100 mm) minimum and 6 1/4 inches (160 mm) maximum, and a cross-section dimension of 2 1/4 inches (57 mm) maximum.
 505.8 Surfaces. Handrail gripping surfaces and any surfaces adjacent to them shall be free of sharp or abrasive elements and shall have rounded edges.
 505.9 Fittings. Handrails shall not rotate within their fittings.
 505.10 Handrail Extensions. Handrail gripping surfaces shall extend beyond and in the same direction of stair flights and ramp runs in accordance with 505.10.
@@ -417,7 +415,7 @@ Chapter 6: Plumbing Elements and Facilities
 602 Drinking Fountains
 602.1 General. Drinking fountains shall comply with 307 and 602.
 602.2 Clear Floor Space. Units shall have a clear floor or ground space complying with 305 positioned for a forward approach and centered on the unit. Knee and toe clearance complying with 306 shall be provided.
-Exception: A parallel approach complying with 305 shall be permitted at units for children's use where the spout is 30 inches (760 mm) maximum above the finish floor or ground and is 31/2 inches (90 mm) maximum from the front edge of the unit, including bumpers.
+Exception: A parallel approach complying with 305 shall be permitted at units for children's use where the spout is 30 inches (760 mm) maximum above the finish floor or ground and is 3 1/2 inches (90 mm) maximum from the front edge of the unit, including bumpers.
 602.3 Operable Parts. Operable parts shall comply with 309.
 602.4 Spout Height. Spout outlets shall be 36 inches (915 mm) maximum above the finish floor or ground.
 602.5 Spout Location. The spout shall be located 15 inches (380 mm) minimum from the vertical support and 5 inches (125 mm) maximum from the front edge of the unit, including bumpers.
@@ -473,11 +471,11 @@ Exception: Toe clearance at the front partition is not required in a compartment
 604.9.3 Height. The height of water closets shall be 11 inches (280 mm) minimum and 17 inches (430 mm) maximum measured to the top of the seat. Seats shall not be sprung to return to a lifted position.
 604.9.4 Grab Bars. Grab bars for water closets shall comply with 604.5.
 604.9.5 Flush Controls. Flush controls shall be hand operated or automatic. Hand operated flush controls shall comply with 309.2 and 309.4 and shall be installed 36 inches (915 mm) maximum above the finish floor. Flush controls shall be located on the open side of the water closet except in ambulatory accessible compartments complying with 604.8.2.
-604.9.6 Dispensers. Toilet paper dispensers shall comply with 309.4 and shall be 7 inches (180 mm) minimum and 9 inches (230 mm) maximum in front of the water closet measured to the centerline of the dispenser. The outlet of the dispenser shall be 14 inches (355 mm) minimum and 19 inches (485 mm) maximum above the finish floor. There shall be a clearance of 11/2 inches (38 mm) minimum below the grab bar. Dispensers shall not be of a type that controls delivery or that does not allow continuous paper flow.
+604.9.6 Dispensers. Toilet paper dispensers shall comply with 309.4 and shall be 7 inches (180 mm) minimum and 9 inches (230 mm) maximum in front of the water closet measured to the centerline of the dispenser. The outlet of the dispenser shall be 14 inches (355 mm) minimum and 19 inches (485 mm) maximum above the finish floor. There shall be a clearance of 1 1/2 inches (38 mm) minimum below the grab bar. Dispensers shall not be of a type that controls delivery or that does not allow continuous paper flow.
 604.9.7 Toilet Compartments. Toilet compartments shall comply with 604.8.
 605 Urinals
 605.1 General. Urinals shall comply with 605.
-605.2 Height and Depth. Urinals shall be the stall-type or the wall-hung type with the rim 17 inches (430 mm) maximum above the finish floor or ground. Urinals shall be 131/2 inches (345 mm) deep minimum measured from the outer face of the urinal rim to the back of the fixture.
+605.2 Height and Depth. Urinals shall be the stall-type or the wall-hung type with the rim 17 inches (430 mm) maximum above the finish floor or ground. Urinals shall be 13 1/2 inches (345 mm) deep minimum measured from the outer face of the urinal rim to the back of the fixture.
 605.3 Clear Floor Space. A clear floor or ground space complying with 305 positioned for forward approach shall be provided.
 605.4 Flush Controls. Flush controls shall be hand operated or automatic. Hand operated flush controls shall comply with 309.
 606 Lavatories and Sinks
@@ -543,10 +541,10 @@ Exception: A threshold 2 inches (51 mm) high maximum shall be permitted in trans
 609 Grab Bars
 609.1 General. Grab bars in toilet facilities and bathing facilities shall comply with 609.
 609.2 Cross Section. Grab bars shall have a cross section complying with 609.2.1 or 609.2.2.
-609.2.1 Circular Cross Section. Grab bars with circular cross sections shall have an outside diameter of 11/4 inches (32 mm) minimum and 2 inches (51 mm) maximum.
+609.2.1 Circular Cross Section. Grab bars with circular cross sections shall have an outside diameter of 1 1/4 inches (32 mm) minimum and 2 inches (51 mm) maximum.
 609.2.2 Non-Circular Cross Section. Grab bars with non-circular cross sections shall have a cross-section dimension of 2 inches (51 mm) maximum and a perimeter dimension of 4 inches (100 mm) minimum and 4.8 inches (120 mm) maximum.
-609.3 Spacing. The space between the wall and the grab bar shall be 11/2 inches (38 mm). The space between the grab bar and projecting objects below and at the ends shall be 11/2 inches (38 mm) minimum. The space between the grab bar and projecting objects above shall be 12 inches (305 mm) minimum.
-Exception: The space between the grab bars and shower controls, shower fittings, and other grab bars above shall be permitted to be 11/2 inches (38 mm) minimum.
+609.3 Spacing. The space between the wall and the grab bar shall be 1 1/2 inches (38 mm). The space between the grab bar and projecting objects below and at the ends shall be 1 1/2 inches (38 mm) minimum. The space between the grab bar and projecting objects above shall be 12 inches (305 mm) minimum.
+Exception: The space between the grab bars and shower controls, shower fittings, and other grab bars above shall be permitted to be 1 1/2 inches (38 mm) minimum.
 609.4 Position of Grab Bars. Grab bars shall be installed in a horizontal position, 33 inches (840 mm) minimum and 36 inches (915 mm) maximum above the finish floor measured to the top of the gripping surface, except that at water closets for children's use complying with 604.9, grab bars shall be installed in a horizontal position 18 inches (455 mm) minimum and 27 inches (685 mm) maximum above the finish floor measured to the top of the gripping surface. The height of the lower grab bar on the back wall of a bathtub shall comply with 607.4.1.1 or 607.4.2.1.
 609.5 Surface Hazards. Grab bars and any wall or other surfaces adjacent to grab bars shall be free of sharp or abrasive elements and shall have rounded edges.
 609.6 Fittings. Grab bars shall not rotate within their fittings.
@@ -556,8 +554,8 @@ Exception: The space between the grab bars and shower controls, shower fittings,
 610.1 General. Seats in bathtubs and shower compartments shall comply with 610.
 610.2 Bathtub Seats. The top of bathtub seats shall be 17 inches (430 mm) minimum and 19 inches (485 mm) maximum above the bathroom finish floor. The depth of a removable in-tub seat shall be 15 inches (380 mm) minimum and 16 inches (405 mm) maximum. The seat shall be capable of secure placement. Permanent seats at the head end of the bathtub shall be 15 inches (380 mm) deep minimum and shall extend from the back wall to or beyond the outer edge of the bathtub.
 610.3 Shower Compartment Seats. Where a seat is provided in a standard roll-in shower compartment, it shall be a folding type, shall be installed on the side wall adjacent to the controls, and shall extend from the back wall to a point within 3 inches (75 mm) of the compartment entry. Where a seat is provided in an alternate roll-in type shower compartment, it shall be a folding type, shall be installed on the front wall opposite the back wall, and shall extend from the adjacent side wall to a point within 3 inches (75 mm) of the compartment entry. In transfer-type showers, the seat shall extend from the back wall to a point within 3 inches (75 mm) of the compartment entry. The top of the seat shall be 17 inches (430 mm) minimum and 19 inches (485 mm) maximum above the bathroom finish floor. Seats shall comply with 610.3.1 or 610.3.2.
-610.3.1 Rectangular Seats. The rear edge of a rectangular seat shall be 21/2 inches (64 mm) maximum and the front edge 15 inches (380 mm) minimum and 16 inches (405 mm) maximum from the seat wall. The side edge of the seat shall be 11/2 inches (38 mm) maximum from the adjacent wall.
-610.3.2 L-Shaped Seats. The rear edge of an L-shaped seat shall be 21/2 inches (64 mm) maximum and the front edge 15 inches (380 mm) minimum and 16 inches (405 mm) maximum from the seat wall. The rear edge of the "L" portion of the seat shall be 11/2 inches (38 mm) maximum from the wall and the front edge shall be 14 inches (355 mm) minimum and 15 inches (380 mm) maximum from the wall. The end of the "L" shall be 22 inches (560 mm) minimum and 23 inches maximum (585 mm) from the main seat wall.
+610.3.1 Rectangular Seats. The rear edge of a rectangular seat shall be 2 1/2 inches (64 mm) maximum and the front edge 15 inches (380 mm) minimum and 16 inches (405 mm) maximum from the seat wall. The side edge of the seat shall be 1 1/2 inches (38 mm) maximum from the adjacent wall.
+610.3.2 L-Shaped Seats. The rear edge of an L-shaped seat shall be 2 1/2 inches (64 mm) maximum and the front edge 15 inches (380 mm) minimum and 16 inches (405 mm) maximum from the seat wall. The rear edge of the "L" portion of the seat shall be 1 1/2 inches (38 mm) maximum from the wall and the front edge shall be 14 inches (355 mm) minimum and 15 inches (380 mm) maximum from the wall. The end of the "L" shall be 22 inches (560 mm) minimum and 23 inches maximum (585 mm) from the main seat wall.
 610.4 Structural Strength. Allowable stresses shall not be exceeded for materials used when a vertical or horizontal force of 250 pounds (1112 N) is applied at any point on the seat, fastener, mounting device, or supporting structure.
 611 Washing Machines and Clothes Dryers
 611.1 General. Washing machines and clothes dryers shall comply with 611.
@@ -590,7 +588,7 @@ Exception: Where separate raised and visual characters with the same information
 703.3 Braille. Braille shall be contracted (Grade 2) and shall comply with 703.3 and 703.4.
 703.3.1 Dimensions and Capitalization. Braille dots shall have a domed or rounded shape and shall comply with Table 703.3.1. The indication of an uppercase letter or letters shall only be used before the first word of sentences, proper nouns and names, individual letters of the alphabet, initials, and acronyms.
 Table 703.3.1—Braille Dimensions
-Measurement range | Minimum in inchesMaximum in inches
+Measurement range | Minimum in inches Maximum in inches
 Dot base diameter | 0.059 (1.5 mm) to 0.063 (1.6 mm).
 Distance between two dots in the same cell 1 | 0.090 (2.3 mm) to 0.100 (2.5 mm).
 Distance between corresponding dots in adjacent cells 1 | 0.241 (6.1 mm) to 0.300 (7.6 mm).
@@ -852,7 +850,7 @@ Exception: Where sign space is limited, characters shall not be required to exce
 810.9 Escalators. Where provided, escalators shall comply with the sections 6.1.3.5.6 and 6.1.3.6.5 of ASME A17.1 (incorporated by reference, see "Referenced Standards" in Chapter 1) and shall have a clear width of 32 inches (815 mm) minimum.
 Exception: Existing escalators in key stations shall not be required to comply with 810.9.
 810.10 Track Crossings. Where a circulation path serving boarding platforms crosses tracks, it shall comply with 402.
-Exception: Openings for wheel flanges shall be permitted to be 21/2 inches (64 mm) maximum.
+Exception: Openings for wheel flanges shall be permitted to be 2 1/2 inches (64 mm) maximum.
 811 Storage
 811.1 General. Storage shall comply with 811.
 811.2 Clear Floor or Ground Space. A clear floor or ground space complying with 305 shall be provided.
@@ -874,7 +872,7 @@ Exception: Dining surfaces and work surfaces that are used primarily by children
 903.1 General. Benches shall comply with 903.
 903.2 Clear Floor or Ground Space. Clear floor or ground space complying with 305 shall be provided and shall be positioned at the end of the bench seat and parallel to the short axis of the bench.
 903.3 Size. Benches shall have seats that are 42 inches (1065 mm) long minimum and 20 inches (510 mm) deep minimum and 24 inches (610 mm) deep maximum.
-903.4 Back Support. The bench shall provide for back support or shall be affixed to a wall. Back support shall be 42 inches (1065 mm) long minimum and shall extend from a point 2 inches (51 mm) maximum above the seat surface to a point 18 inches (455 mm) minimum above the seat surface. Back support shall be 21/2 inches (64 mm) maximum from the rear edge of the seat measured horizontally.
+903.4 Back Support. The bench shall provide for back support or shall be affixed to a wall. Back support shall be 42 inches (1065 mm) long minimum and shall extend from a point 2 inches (51 mm) maximum above the seat surface to a point 18 inches (455 mm) minimum above the seat surface. Back support shall be 2 1/2 inches (64 mm) maximum from the rear edge of the seat measured horizontally.
 903.5 Height. The top of the bench seat surface shall be 17 inches (430 mm) minimum and 19 inches (485 mm) maximum above the finish floor or ground.
 903.6 Structural Strength. Allowable stresses shall not be exceeded for materials used when a vertical or horizontal force of 250 pounds (1112 N) is applied at any point on the seat, fastener, mounting device, or supporting structure.
 903.7 Wet Locations. Where installed in wet locations, the surface of the seat shall be slip resistant and shall not accumulate water.
@@ -1002,7 +1000,7 @@ Exceptions: 1. Where the surface of the accessible route, clear floor or ground 
 2. Transfer systems complying with 1008.3 shall be permitted to connect elevated play components in water.
 1008.2.4 Clear Width. Accessible routes connecting play components shall provide a clear width complying with 1008.2.4.
 1008.2.4.1 Ground Level. At ground level, the clear width of accessible routes shall be 60 inches (1525 mm) minimum.
-Exceptions: 1. In play areas less than 1000 square feet (93 m2), the clear width of accessible routes shall be permitted to be 44 inches (1120 mm) minimum, if at least one turning space complying with 304.3 is provided where the restricted accessible route exceeds 30 feet (9145 mm) in length.
+Exceptions: 1. In play areas less than 1000 square feet (93 m 2), the clear width of accessible routes shall be permitted to be 44 inches (1120 mm) minimum, if at least one turning space complying with 304.3 is provided where the restricted accessible route exceeds 30 feet (9145 mm) in length.
 2. The clear width of accessible routes shall be permitted to be 36 inches (915 mm) minimum for a distance of 60 inches (1525 mm) maximum provided that multiple reduced width segments are separated by segments that are 60 inches (1525 mm) wide minimum and 60 inches (1525 mm) long minimum.
 1008.2.4.2 Elevated. The clear width of accessible routes connecting elevated play components shall be 36 inches (915 mm) minimum.
 Exceptions: 1. The clear width of accessible routes connecting elevated play components shall be permitted to be reduced to 32 inches (815 mm) minimum for a distance of 24 inches (610 mm) maximum provided that reduced width segments are separated by segments that are 48 inches (1220 mm) long minimum and 36 inches (915 mm) wide minimum.
@@ -1091,7 +1089,7 @@ Exceptions: 1. Where individual outdoor constructed features are altered and the
 Table 1011.2.1—Clear Ground Space
 Outdoor constructed feature | Minimum size and location
 Picnic tables | 36 inches (915 mm) on all usable sides of the table measured from the back edge of the benches.
-Fire rings, grills, fireplaces, and woodstoves | 48 inches (1220 mm) by 48 inches (1220 mm) on all usable sides of the fire ring, grill, fireplace, and woodstoveCenter the space on each usable side of the grill, fireplace, and woodstove.
+Fire rings, grills, fireplaces, and woodstoves | 48 inches (1220 mm) by 48 inches (1220 mm) on all usable sides of the fire ring, grill, fireplace, and woodstove Center the space on each usable side of the grill, fireplace, and woodstove.
 Trash and recycling receptacles | 36 inches (915 mm) by 48 inches (1220 mm) positioned for forward approach to the receptacle opening; or 30 inches (760 mm) by 60 inches (1525 mm) positioned for a parallel approach to the receptacle opening.
 Water hydrants | 72 inches (1830 mm) by 48 inches (1220 mm) with the long side of the space adjoining or overlapping an outdoor recreation access route or trail, as applicable, or another clear ground space.
 | Locate the space so that the water spout is 11 inches (280 mm) minimum and 12 inches (305 mm) maximum from the rear center of the long side of the space.
@@ -1102,7 +1100,7 @@ Outdoor rinsing showers | 60 inches (1525 mm) by 60 inches (1525 mm) centered on
 | Locate the space so that the shower pedestal or wall with the shower head are at the rear end of the space.
 Benches | 36 inches (915 mm) by 48 inches (1220 mm) positioned near the bench with one side of the space adjoining an outdoor recreation access route or trail, as applicable.
 | The clear ground space shall not overlap the outdoor recreation access route or trail, or another clear ground space.
-Viewing Scopes | 36 inches (915 mm) by 48 inches (1220 mm) positioned for forward approach to the viewing scope.Provide knee and toe clearance complying with 306 under the viewing scope.
+Viewing Scopes | 36 inches (915 mm) by 48 inches (1220 mm) positioned for forward approach to the viewing scope. Provide knee and toe clearance complying with 306 under the viewing scope.
 | Locate the space so that the eyepiece is centered on the space.
 1011.2.2 Surface. The surface of the clear ground space shall be firm and stable.
 1011.2.3 Slope. The slope of the clear ground space surface shall not be steeper than 1:48 in any direction.
@@ -1187,7 +1185,8 @@ Exception: Where the surface is other than asphalt, concrete, or boards, obstacl
 1016.7 Slopes. The slopes of outdoor recreation access routes shall comply with 1016.7.
 1016.7.1 Maximum Running Slope and Segment Length. The running slope of any segment of an outdoor recreation access route shall not be steeper than 1:10 (10%). Where the running slope of a segment of an outdoor recreation access route is steeper than 1:20 (5%), the maximum length of the segment shall be in accordance with Table 1016.7.1, and a resting interval complying with 1016.8 shall be provided at the top and bottom of each segment.
 Table 1016.7.1—Maximum Running Slope and Segment Length
-Running slope of outdoor recreation access route segment | Steeper than | But not steeper than | Maximum length of segment
+Running slope of outdoor recreation access route segment | Maximum length of segment
+Steeper than | But not steeper than
 1:20 (5%) | 1:12 (8.33%) | 50 feet (15 m).
 1:12 (8.33%) | 1:10 (10%) | 30 feet (9 m).
 1016.7.2 Cross Slope. The cross slope shall not be steeper than 1:48.
@@ -1215,7 +1214,8 @@ Exception: Where the surface is other than asphalt, concrete, or boards, tread o
 1017.7 Slopes. The slopes of trails shall comply with 1017.7.
 1017.7.1 Maximum Running Slope and Segment Length. Not more than 30 percent of the total length of a trail shall have a running slope steeper than 1:12 (8.33%). The running slope of any segment of a trail shall not be steeper than 1:8 (12%). Where the running slope of a segment of a trail is steeper than 1:20 (5%), the maximum length of the segment shall be in accordance with Table 1017.7.1, and a resting interval complying with 1017.8 shall be provided at the top and bottom of each segment.
 Table 1017.7.1—Maximum Running Slope and Segment Length
-Running slope of trail segment | Steeper than | But not steeper than | Maximum length of segment
+Running slope of trail segment | Maximum length of segment
+Steeper than | But not steeper than
 1:20 (5%) | 1:12 (8.33%) | 200 feet (61 m).
 1:12 (8.33%) | 1:10 (10%) | 30 feet (9 m).
 1:10 (10%) | 1:8 (12%) | 10 feet (3050 mm).
@@ -1252,7 +1252,8 @@ Exception: Where the surface is other than asphalt, concrete, or boards, obstacl
 1018.7 Slopes. The slopes of beach access routes shall comply with 1018.7.
 1018.7.1 Maximum Running Slope and Segment Length. The running slope of any segment of a beach access route shall not be steeper than 1:10 (10%). Where the running slope of a segment of a beach access route is steeper than 1:20 (5%), the maximum length of the segment shall be in accordance with Table 1018.7.1, and a resting interval complying with 1018.8 shall be provided at the top and bottom of each segment.
 Table 1018.7.1—Maximum Running Slope and Segment Length
-Running slope of beach access route segment | Steeper than | But not steeper than | Maximum length of segment
+Running slope of beach access route segment | Maximum length of segment
+Steeper than | But not steeper than
 1:20 (5%) | 1:12 (8.33%) | 50 feet (15 m).
 1:12 (8.33%) | 1:10 (10%) | 30 feet (9 m).
 1018.7.2 Cross Slope. The cross slope shall not be steeper than 1:48.
@@ -1274,7 +1275,3 @@ Exception: Where the surface is other than concrete, asphalt, or boards, cross s
 • National Historic Preservation Act (16 U.S.C. 470 et seq.);
 • Wilderness Act (16 U.S.C. 1131 et seq.); or
 • Other federal, state, or local law the purpose of which is to preserve threatened or endangered species; the environment; or archaeological, cultural, historical, or other significant natural features.
-ER12NO13.166
-ER12NO13.167
-ER12NO13.168
-ER12NO13.169
