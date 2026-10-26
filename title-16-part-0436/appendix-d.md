@@ -1,7 +1,6 @@
 # Appendix D to Part 436—Sample Item 20(3) Table—Status of Franchise Outlets
 Status of Franchise Outlets
-For years 2004 to 2006
-Column 1State | Column 2Year | Column 3Outlets at Start of Year | Column 4Outlets Opened | Column 5Terminations | Column 6Non-Renewals | Column 7Reacquired by Franchisor | Column 8Ceased Operations-Other Reasons | Column 9Outlets at End of the Year
+Column 1 State | Column 2 Year | Column 3 Outlets at Start of Year | Column 4 Outlets Opened | Column 5 Terminations | Column 6 Non-Renewals | Column 7 Reacquired by Franchisor | Column 8 Ceased Operations-Other Reasons | Column 9 Outlets at End of the Year
 AL | 2004 | 10 | 2 | 1 | 0 | 0 | 1 | 10
 | 2005 | 11 | 5 | 0 | 1 | 0 | 0 | 15
 | 2006 | 15 | 4 | 1 | 0 | 1 | 2 | 15

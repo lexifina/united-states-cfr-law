@@ -1,7 +1,6 @@
 # Appendix B to Part 436—Sample Item 20(1) Table—Systemwide Outlet Summary
 Systemwide Outlet Summary
-For years 2004 to 2006
-Column 1Outlet Type | Column 2Year | Column 3Outlets at the Start of the Year | Column 4Outlets at the End of the Year | Column 5Net Change
+Column 1 Outlet Type | Column 2 Year | Column 3 Outlets at the Start of the Year | Column 4 Outlets at the End of the Year | Column 5 Net Change
 Franchised | 2004 | 859 | 1,062 | + 203
 | 2005 | 1,062 | 1,296 | + 234
 | 2006 | 1,296 | 2,720 | + 1,424
