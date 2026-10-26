@@ -11,7 +11,7 @@ v. Substitution of the words "credit" and "creditor" or "finance" and "finance c
 vi. Including pre-printed lists of the sources of consumer reports or consumer reporting agencies in a "check-the-box" format.
 vii. Including the name of the consumer, transaction identification numbers, a date, and other information that will assist in identifying the transaction to which the form pertains.
 viii. Including the name of an agent, such as an auto dealer or other party, when providing the "Name of the Entity Providing the Notice."
-ix. Until January 1, 2013, substituting "For more information about credit reports and your rights under Federal law, visit the Federal Reserve Board's Web site at www.federalreserve.gov, or the Federal Trade Commission's Web site at www.ftc.gov." for "For more information about credit reports and your rights under Federal law, visit the Consumer Financial Protection Bureau's Web site at www.consumerfinance.gov /learnmore."
+ix. Until January 1, 2013, substituting "For more information about credit reports and your rights under Federal law, visit the Federal Reserve Board's Web site at www.federalreserve.gov, or the Federal Trade Commission's Web site at www.ftc.gov." for "For more information about credit reports and your rights under Federal law, visit the Consumer Financial Protection Bureau's Web site at www.consumerfinance.gov/learnmore."
 b. Unacceptable changes include, for example:
 i. Providing model forms on register receipts or interspersed with other disclosures.
 ii. Eliminating empty lines and extra spaces between sentences within the same section.
@@ -23,16 +23,3 @@ H-4 Model form for credit score disclosure exception for loans not secured by re
 H-5 Model form for credit score disclosure exception for loans where credit score is not available.
 H-6 Model form for risk-based pricing notice with credit score information.
 H-7 Model form for account review risk-based pricing notice with credit score information.
-ER21DE11.004
-ER21DE11.005
-ER21DE11.006
-ER21DE11.007
-ER21DE11.008
-ER21DE11.009
-ER21DE11.010
-ER21DE11.011
-ER21DE11.012
-ER21DE11.013
-ER21DE11.014
-ER21DE11.015
-ER21DE11.016
