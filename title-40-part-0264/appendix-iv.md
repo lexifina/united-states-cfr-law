@@ -1,21 +1,16 @@
 # Appendix IV to Part 264—Cochran's Approximation to the Behrens-Fisher Students' t-test
 Using all the available background data (nb readings), calculate the background mean (Xb) and background variance (sb2). For the single monitoring well under investigation (nm reading), calculate the monitoring mean (Xm) and monitoring variance (sm2).
 For any set of data (X1, X2,..., Xn) the mean is calculated by:
-EC15NO91.174
 and the variance is calculated by:
-EC15NO91.175
 where "n" denotes the number of observations in the set of data.
 The t-test uses these data summary measures to calculate a t-statistic (t*) and a comparison t-statistic (tc). The t* value is compared to the tc value and a conclusion reached as to whether there has been a statistically significant change in any indicator parameter.
 The t-statistic for all parameters except pH and similar monitoring parameters is:
-er26oc93.011
 If the value of this t-statistic is negative then there is no significant difference between the monitoring data and background data. It should be noted that significantly small negative values may be indicative of a failure of the assumption made for test validity or errors have been made in collecting the background data.
 The t-statistic (tc), against which t* will be compared, necessitates finding tb and tm from standard (one-tailed) tables where,
 tb = t-tables with (nb−1) degrees of freedom, at the 0.05 level of significance.
 tm = t-tables with (nm−1) degrees of freedom, at the 0.05 level of significance.
 Finally, the special weightings Wb and Wm are defined as:
-EC15NO91.176
 and so the comparison t-statistic is:
-EC15NO91.177
 The t-statistic (t*) is now compared with the comparison t-statistic (tc) using the following decision-rule:
 If t* is equal to or larger than tc, then conclude that there most likely has been a significant increase in this specific parameter.
 If t* is less than tc, then conclude that most likely there has not been a change in this specific parameter.
