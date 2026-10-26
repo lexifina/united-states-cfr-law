@@ -18,4 +18,3 @@ The entire apparatus for this test is shown in Figure 1 of this appendix. The te
 (f) A plastic plug matching the inner diameter of the glass tube is then placed on top of the disk;
 (g) The glass tube assembly is placed under the compression rod, and compression is applied by means of the weight on the metal lever rod. The sample is compressed for one minute; and
 (h) The dynamite sample is then removed from the glass tube and weighed to determine the percent of weight loss.
-EC02MR91.067
