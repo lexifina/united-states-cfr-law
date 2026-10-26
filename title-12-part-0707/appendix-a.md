@@ -123,9 +123,7 @@ APY Earned = 100 [(1 + 21/2,000)(365/91)−1]
 APY Earned = 4.28%.
 B. Special formula for use where periodic statement is sent more often than the period for which dividends are compounded.
 Credit unions that use the daily balance method to accrue dividends and that issue periodic statements more often than the period for which dividends are compounded shall use the following special formula:
-er27se93.000
 The following definition applies for use in this formula (all other terms are defined under Part II):
 "Compounding" is the number of days in each compounding period.
 Assume a credit union calculates dividends for the statement period using the daily balance method, pays a 5.00% dividend rate, compounded annually, and provides periodic statements for each monthly cycle. The account has a daily balance of $1000.00 for a 30-day statement period. The dividend earned of $4.11 for the period, and the annual percentage yield earned (using the special formula above) is 5.00%:
-er27se93.001
 APY Earned = 5.00%.
