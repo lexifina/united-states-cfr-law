@@ -1,12 +1,5 @@
 # Appendix to Part 1016—Model Privacy Form
 A. The Model Privacy Form
-ER21DE11.058
-ER21DE11.059
-ER21DE11.060
-ER21DE11.061
-ER21DE11.062
-ER21DE11.063
-ER21DE11.064
 B. General Instructions
 1. How the Model Privacy Form Is Used
 (a) The model form may be used, at the option of a financial institution, including a group of financial institutions that use a common privacy notice, to meet the content requirements of the privacy notice and opt-out notice set forth in §§ 1016.6 and 1016.7 of this part.
