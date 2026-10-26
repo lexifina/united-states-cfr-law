@@ -14,7 +14,7 @@ Isolated. Not readily accessible to persons unless special means for access are 
 Statistical sparkover voltage. A transient overvoltage level that produces a 97.72-percent probability of sparkover (that is, two standard deviations above the voltage at which there is a 50-percent probability of sparkover).
 Statistical withstand voltage. A transient overvoltage level that produces a 0.14-percent probability of sparkover (that is, three standard deviations below the voltage at which there is a 50-percent probability of sparkover).
 B. Installations energized at 50 to 300 volts. The hazards posed by installations energized at 50 to 300 volts are the same as those found in many other workplaces. That is not to say that there is no hazard, but the complexity of electrical protection required does not compare to that required for high-voltage systems. The employee must avoid contact with the exposed parts, and the protective equipment used (such as rubber insulating gloves) must provide insulation for the voltages involved.
-C. Exposed energized parts over 300 volts AC. Paragraph (c)(1)(i) of § 1926.960 requires the employer to establish minimum approach distances no less than the distances computed by Table V-2 for ac systems so that employees can work safely without risk of sparkover.2
+C. Exposed energized parts over 300 volts AC. Paragraph (c)(1)(i) of § 1926.960 requires the employer to establish minimum approach distances no less than the distances computed by Table V-2 for ac systems so that employees can work safely without risk of sparkover. 2
 Unless the employee is using electrical protective equipment, air is the insulating medium between the employee and energized parts. The distance between the employee and an energized part must be sufficient for the air to withstand the maximum transient overvoltage that can reach the worksite under the working conditions and practices the employee is using. This distance is the minimum air insulation distance, and it is equal to the electrical component of the minimum approach distance.
 Normal system design may provide or include a means (such as lightning arrestors) to control maximum anticipated transient overvoltages, or the employer may use temporary devices (portable protective gaps) or measures (such as preventing automatic circuit breaker reclosing) to achieve the same result. Paragraph (c)(1)(ii) of § 1926.960 requires the employer to determine the maximum anticipated per-unit transient overvoltage, phase-to-ground, through an engineering analysis or assume a maximum anticipated per-unit transient overvoltage, phase-to-ground, in accordance with Table V-8, which specifies the following maximums for ac systems:
 72.6 to 420.0 kilovolts | 3.5 per unit.
@@ -26,7 +26,7 @@ III. Determination of Minimum Approach Distances for AC Voltages Greater Than 30
 A. Voltages of 301 to 5,000 volts. Test data generally forms the basis of minimum air insulation distances. The lowest voltage for which sufficient test data exists is 5,000 volts, and these data indicate that the minimum air insulation distance at that voltage is 20 millimeters (1 inch). Because the minimum air insulation distance increases with increasing voltage, and, conversely, decreases with decreasing voltage, an assumed minimum air insulation distance of 20 millimeters will protect against sparkover at voltages of 301 to 5,000 volts. Thus, 20 millimeters is the electrical component of the minimum approach distance for these voltages.
 B. Voltages of 5.1 to 72.5 kilovolts. For voltages from 5.1 to 72.5 kilovolts, the Occupational Safety and Health Administration bases the methodology for calculating the electrical component of the minimum approach distance on Institute of Electrical and Electronic Engineers (IEEE) Standard 4-1995, Standard Techniques for High-Voltage Testing. Table 1 lists the critical sparkover distances from that standard as listed in IEEE Std 516-2009, IEEE Guide for Maintenance Methods on Energized Power Lines.
 Table 1—Sparkover Distance for Rod-to-Rod Gap
-60 Hz rod-to-rod sparkover(kV peak) | Gap spacing from IEEE Std 4-1995(cm)
+60 Hz rod-to-rod sparkover (kV peak) | Gap spacing from IEEE Std 4-1995 (cm)
 25 | 2
 36 | 3
 46 | 4
@@ -50,42 +50,43 @@ Source: IEEE Std 516-2009.
 To use this table to determine the electrical component of the minimum approach distance, the employer must determine the peak phase-to-ground transient overvoltage and select a gap from the table that corresponds to that voltage as a withstand voltage rather than a critical sparkover voltage. To calculate the electrical component of the minimum approach distance for voltages between 5 and 72.5 kilovolts, use the following procedure:
 1. Divide the phase-to-phase voltage by the square root of 3 to convert it to a phase-to-ground voltage.
 2. Multiply the phase-to-ground voltage by the square root of 2 to convert the rms value of the voltage to the peak phase-to-ground voltage.
-3. Multiply the peak phase-to-ground voltage by the maximum per-unit transient overvoltage, which, for this voltage range, is 3.0, as discussed later in this appendix. This is the maximum phase-to-ground transient overvoltage, which corresponds to the withstand voltage for the relevant exposure.3
+3. Multiply the peak phase-to-ground voltage by the maximum per-unit transient overvoltage, which, for this voltage range, is 3.0, as discussed later in this appendix. This is the maximum phase-to-ground transient overvoltage, which corresponds to the withstand voltage for the relevant exposure. 3
 4. Divide the maximum phase-to-ground transient overvoltage by 0.85 to determine the corresponding critical sparkover voltage. (The critical sparkover voltage is 3 standard deviations (or 15 percent) greater than the withstand voltage.)
 5. Determine the electrical component of the minimum approach distance from Table 1 through interpolation.
 Table 2 illustrates how to derive the electrical component of the minimum approach distance for voltages from 5.1 to 72.5 kilovolts, before the application of any altitude correction factor, as explained later.
 Table 2—Calculating the Electrical Component of MAD—751 V to 72.5 kV
-Step | Maximum system phase-to-phase voltage (kV) | 15 | 36 | 46 | 72.5
+Step | Maximum system phase-to-phase voltage (kV)
+15 | 36 | 46 | 72.5
 1. Divide by √3 | 8.7 | 20.8 | 26.6 | 41.9
 2. Multiply by √2 | 12.2 | 29.4 | 37.6 | 59.2
 3. Multiply by 3.0 | 36.7 | 88.2 | 112.7 | 177.6
 4. Divide by 0.85 | 43.2 | 103.7 | 132.6 | 208.9
-5. Interpolate from Table 1 | 3 + (7.2/10)*1 | 14 + (8.7/9)*2 | 20 + (12.6/23)*5 | 35 + (16.9/26)*5
+5. Interpolate from Table 1 | 3 + (7.2/10) 1 | 14 + (8.7/9)*2 | 20 + (12.6/23)*5 | 35 + (16.9/26)*5
 Electrical component of MAD (cm) | 3.72 | 15.93 | 22.74 | 38.25
 C. Voltages of 72.6 to 800 kilovolts. For voltages of 72.6 kilovolts to 800 kilovolts, this subpart bases the electrical component of minimum approach distances, before the application of any altitude correction factor, on the following formula:
 Equation 1—For voltages of 72.6 kV to 800 kV
-D = 0.3048(C + a)V L-G T
+D = 0.3048(C + a)VL-GT
 Where:
 D = Electrical component of the minimum approach distance in air in meters;
 C = a correction factor associated with the variation of gap sparkover with voltage;
 a = A factor relating to the saturation of air at system voltages of 345 kilovolts or higher; 4
-V L-G = Maximum system line-to-ground rms voltage in kilovolts—it should be the "actual" maximum, or the normal highest voltage for the range (for example, 10 percent above the nominal voltage); and
+VL-G = Maximum system line-to-ground rms voltage in kilovolts—it should be the "actual" maximum, or the normal highest voltage for the range (for example, 10 percent above the nominal voltage); and
 T = Maximum transient overvoltage factor in per unit.
 In Equation 1, C is 0.01: (1) For phase-to-ground exposures that the employer can demonstrate consist only of air across the approach distance (gap) and (2) for phase-to-phase exposures if the employer can demonstrate that no insulated tool spans the gap and that no large conductive object is in the gap. Otherwise, C is 0.011.
 In Equation 1, the term a varies depending on whether the employee's exposure is phase-to-ground or phase-to-phase and on whether objects are in the gap. The employer must use the equations in Table 3 to calculate a. Sparkover test data with insulation spanning the gap form the basis for the equations for phase-to-ground exposures, and sparkover test data with only air in the gap form the basis for the equations for phase-to-phase exposures. The phase-to-ground equations result in slightly higher values of a, and, consequently, produce larger minimum approach distances, than the phase-to-phase equations for the same value of VPeak.
-ER11AP14.036
-In Equation 1, T is the maximum transient overvoltage factor in per unit. As noted earlier, § 1926.960(c)(1)(ii) requires the employer to determine the maximum anticipated per-unit transient overvoltage, phase-to-ground, through an engineering analysis or assume a maximum anticipated per-unit transient overvoltage, phase-to-ground, in accordance with Table V-8. For phase-to-ground exposures, the employer uses this value, called T L-G, as T in Equation 1. IEEE Std 516-2009 provides the following formula to calculate the phase-to-phase maximum transient overvoltage, T L-L, from T L-G:
-T L-L = 1.35T L-G + 0.45.
+In Equation 1, T is the maximum transient overvoltage factor in per unit. As noted earlier, § 1926.960(c)(1)(ii) requires the employer to determine the maximum anticipated per-unit transient overvoltage, phase-to-ground, through an engineering analysis or assume a maximum anticipated per-unit transient overvoltage, phase-to-ground, in accordance with Table V-8. For phase-to-ground exposures, the employer uses this value, called TL-G, as T in Equation 1. IEEE Std 516-2009 provides the following formula to calculate the phase-to-phase maximum transient overvoltage, TL-L, from TL-G:
+TL-L = 1.35TL-G + 0.45.
 For phase-to-phase exposures, the employer uses this value as T in Equation 1.
 D. Provisions for inadvertent movement. The minimum approach distance must include an "adder" to compensate for the inadvertent movement of the worker relative to an energized part or the movement of the part relative to the worker. This "adder" must account for this possible inadvertent movement and provide the worker with a comfortable and safe zone in which to work. Employers must add the distance for inadvertent movement (called the "ergonomic component of the minimum approach distance") to the electrical component to determine the total safe minimum approach distances used in live-line work.
 The Occupational Safety and Health Administration based the ergonomic component of the minimum approach distance on response time-distance analysis. This technique uses an estimate of the total response time to a hazardous incident and converts that time to the distance traveled. For example, the driver of a car takes a given amount of time to respond to a "stimulus" and stop the vehicle. The elapsed time involved results in the car's traveling some distance before coming to a complete stop. This distance depends on the speed of the car at the time the stimulus appears and the reaction time of the driver.
 In the case of live-line work, the employee must first perceive that he or she is approaching the danger zone. Then, the worker responds to the danger and must decelerate and stop all motion toward the energized part. During the time it takes to stop, the employee will travel some distance. This is the distance the employer must add to the electrical component of the minimum approach distance to obtain the total safe minimum approach distance.
-At voltages from 751 volts to 72.5 kilovolts,5 the electrical component of the minimum approach distance is smaller than the ergonomic component. At 72.5 kilovolts, the electrical component is only a little more than 0.3 meters (1 foot). An ergonomic component of the minimum approach distance must provide for all the worker's unanticipated movements. At these voltages, workers generally use rubber insulating gloves; however, these gloves protect only a worker's hands and arms. Therefore, the energized object must be at a safe approach distance to protect the worker's face. In this case, 0.61 meters (2 feet) is a sufficient and practical ergonomic component of the minimum approach distance.
+At voltages from 751 volts to 72.5 kilovolts, 5 the electrical component of the minimum approach distance is smaller than the ergonomic component. At 72.5 kilovolts, the electrical component is only a little more than 0.3 meters (1 foot). An ergonomic component of the minimum approach distance must provide for all the worker's unanticipated movements. At these voltages, workers generally use rubber insulating gloves; however, these gloves protect only a worker's hands and arms. Therefore, the energized object must be at a safe approach distance to protect the worker's face. In this case, 0.61 meters (2 feet) is a sufficient and practical ergonomic component of the minimum approach distance.
 For voltages between 72.6 and 800 kilovolts, employees must use different work practices during energized line work. Generally, employees use live-line tools (hot sticks) to perform work on energized equipment. These tools, by design, keep the energized part at a constant distance from the employee and, thus, maintain the appropriate minimum approach distance automatically.
 The location of the worker and the type of work methods the worker is using also influence the length of the ergonomic component of the minimum approach distance. In this higher voltage range, the employees use work methods that more tightly control their movements than when the workers perform work using rubber insulating gloves. The worker, therefore, is farther from the energized line or equipment and must be more precise in his or her movements just to perform the work. For these reasons, this subpart adopts an ergonomic component of the minimum approach distance of 0.31 m (1 foot) for voltages between 72.6 and 800 kilovolts.
 Table 4 summarizes the ergonomic component of the minimum approach distance for various voltage ranges.
 Table 4—Ergonomic Component of Minimum Approach Distance
-Voltage range (kV) | Distance | m | ft
+Voltage range (kV) | Distance
+m | ft
 0.301 to 0.750 | 0.31 | 1.0
 0.751 to 72.5 | 0.61 | 2.0
 72.6 to 800 | 0.31 | 1.0
@@ -96,9 +97,8 @@ The ergonomic component of the minimum approach distance accounts for errors in 
 • reach for and handle tools, material, and equipment passed to him or her, and
 • adjust tools, and replace components on them, when necessary during the work procedure.
 The training of qualified employees required under § 1926.950, and the job planning and briefing required under § 1926.952, must address selection of a proper working position.
-ER11AP14.037
 E. Miscellaneous correction factors. Changes in the air medium that forms the insulation influences the strength of an air gap. A brief discussion of each factor follows.
-1. Dielectric strength of air. The dielectric strength of air in a uniform electric field at standard atmospheric conditions is approximately 3 kilovolts per millimeter.6 The pressure, temperature, and humidity of the air, the shape, dimensions, and separation of the electrodes, and the characteristics of the applied voltage (wave shape) affect the disruptive gradient.
+1. Dielectric strength of air. The dielectric strength of air in a uniform electric field at standard atmospheric conditions is approximately 3 kilovolts per millimeter. 6 The pressure, temperature, and humidity of the air, the shape, dimensions, and separation of the electrodes, and the characteristics of the applied voltage (wave shape) affect the disruptive gradient.
 2. Atmospheric effect. The empirically determined electrical strength of a given gap is normally applicable at standard atmospheric conditions (20 °C, 101.3 kilopascals, 11 grams/cubic centimeter humidity). An increase in the density (humidity) of the air inhibits sparkover for a given air gap. The combination of temperature and air pressure that results in the lowest gap sparkover voltage is high temperature and low pressure. This combination of conditions is not likely to occur. Low air pressure, generally associated with high humidity, causes increased electrical strength. An average air pressure generally correlates with low humidity. Hot and dry working conditions normally result in reduced electrical strength. The equations for minimum approach distances in Table V-2 assume standard atmospheric conditions.
 3. Altitude. The reduced air pressure at high altitudes causes a reduction in the electrical strength of an air gap. An employer must increase the minimum approach distance by about 3 percent per 300 meters (1,000 feet) of increased altitude for altitudes above 900 meters (3,000 feet). Table V-4 specifies the altitude correction factor that the employer must use in calculating minimum approach distances.
 IV. Determining Minimum Approach Distances
@@ -108,7 +108,7 @@ A. Factors Affecting Voltage Stress at the Worksite
 In developing requirements for minimum approach distances, the Occupational Safety and Health Administration considered the most common wave shapes and the magnitude of transient overvoltages found on electric power generation, transmission, and distribution systems. The equations in Table V-2 for minimum approach distances use per-unit maximum transient overvoltages, which are relative to the nominal maximum voltage of the system. For example, a maximum transient overvoltage value of 3.0 per unit indicates that the highest transient overvoltage is 3.0 times the nominal maximum system voltage.
 3. Typical magnitude of overvoltages. Table 5 lists the magnitude of typical transient overvoltages.
 Table 5—Magnitude of Typical Transient Overvoltages
-Cause | Magnitude(per unit)
+Cause | Magnitude (per unit)
 Energized 200-mile line without closing resistors | 3.5
 Energized 200-mile line with one-step closing resistor | 2.1
 Energized 200-mile line with multistep resistor | 2.5
@@ -131,30 +131,27 @@ C. Methods of Controlling Possible Transient Overvoltage Stress Found on a Syste
 2. Operation of circuit breakers. 7 The maximum transient overvoltage that can reach the worksite is often the result of switching on the line on which employees are working. Disabling automatic reclosing during energized line work, so that the line will not be reenergized after being opened for any reason, limits the maximum switching surge overvoltage to the larger of the opening surge or the greatest possible fault-generated surge, provided that the devices (for example, insertion resistors) are operable and will function to limit the transient overvoltage and that circuit breaker restrikes do not occur. The employer must ensure the proper functioning of insertion resistors and other overvoltage-limiting devices when the employer's engineering analysis assumes their proper operation to limit the overvoltage level. If the employer cannot disable the reclosing feature (because of system operating conditions), other methods of controlling the switching surge level may be necessary.
 Transient surges on an adjacent line, particularly for double circuit construction, may cause a significant overvoltage on the line on which employees are working. The employer's engineering analysis must account for coupling to adjacent lines.
 3. Surge arresters. The use of modern surge arresters allows a reduction in the basic impulse-insulation levels of much transmission system equipment. The primary function of early arresters was to protect the system insulation from the effects of lightning. Modern arresters not only dissipate lightning-caused transients, but may also control many other system transients caused by switching or faults.
-The employer may use properly designed arresters to control transient overvoltages along a transmission line and thereby reduce the requisite length of the insulator string and possibly the maximum transient overvoltage on the line.8
+The employer may use properly designed arresters to control transient overvoltages along a transmission line and thereby reduce the requisite length of the insulator string and possibly the maximum transient overvoltage on the line. 8
 4. Switching Restrictions. Another form of overvoltage control involves establishing switching restrictions, whereby the employer prohibits the operation of circuit breakers until certain system conditions are present. The employer restricts switching by using a tagging system, similar to that used for a permit, except that the common term used for this activity is a "hold-off" or "restriction." These terms indicate that the restriction does not prevent operation, but only modifies the operation during the live-work activity.
 D. Minimum Approach Distance Based on Control of Maximum Transient Overvoltage at the Worksite
 When the employer institutes control of maximum transient overvoltage at the worksite by installing portable protective gaps, the employer may calculate the minimum approach distance as follows:
-Step 1. Select the appropriate withstand voltage for the protective gap based on system requirements and an acceptable probability of gap sparkover.9
-Step 2. Determine a gap distance that provides a withstand voltage 10 greater than or equal to the one selected in the first step.11
-Step 3. Use 110 percent of the gap's critical sparkover voltage to determine the phase-to-ground peak voltage at gap sparkover (V PPG Peak).
+Step 1. Select the appropriate withstand voltage for the protective gap based on system requirements and an acceptable probability of gap sparkover. 9
+Step 2. Determine a gap distance that provides a withstand voltage 10 greater than or equal to the one selected in the first step. 11
+Step 3. Use 110 percent of the gap's critical sparkover voltage to determine the phase-to-ground peak voltage at gap sparkover (VPPG Peak).
 Step 4. Determine the maximum transient overvoltage, phase-to-ground, at the worksite from the following formula:
-ER11AP14.038
 Step 5. Use this value of T 12 in the equation in Table V-2 to obtain the minimum approach distance. If the worksite is no more than 900 meters (3,000 feet) above sea level, the employer may use this value of T to determine the minimum approach distance from Table 7 through Table 14.
 Note: All rounding must be to the next higher value (that is, always round up).
 Sample protective gap calculations.
 Problem: Employees are to perform work on a 500-kilovolt transmission line at sea level that is subject to transient overvoltages of 2.4 p.u. The maximum operating voltage of the line is 550 kilovolts. Determine the length of the protective gap that will provide the minimum practical safe approach distance. Also, determine what that minimum approach distance is.
 Step 1. Calculate the smallest practical maximum transient overvoltage (1.25 times the crest phase-to-ground voltage): 13
-ER11AP14.039
 This value equals the withstand voltage of the protective gap.
 Step 2. Using test data for a particular protective gap, select a gap that has a critical sparkover voltage greater than or equal to:
 561kV ÷ 0.85 = 660kV
 For example, if a protective gap with a 1.22-m (4.0-foot) spacing tested to a critical sparkover voltage of 665 kilovolts (crest), select this gap spacing.
-Step 3. The phase-to-ground peak voltage at gap sparkover (V PPG Peak) is 110 percent of the value from the previous step:
+Step 3. The phase-to-ground peak voltage at gap sparkover (VPPG Peak) is 110 percent of the value from the previous step:
 665kV × 1.10 = 732kV
 This value corresponds to the withstand voltage of the electrical component of the minimum approach distance.
 Step 4. Use this voltage to determine the worksite value of T:
-ER11AP14.040
 Step 5. Use this value of T in the equation in Table V-2 to obtain the minimum approach distance, or look up the minimum approach distance in Table 7 through Table 14:
 MAD = 2.29m(7.6ft)
 E. Location of Protective Gaps
@@ -168,7 +165,8 @@ However, due to system stability considerations, it may not always be feasible t
 V. Minimum Approach-Distance Tables
 A. Legacy tables. Employers may use the minimum approach distances in Table 6 until March 31, 2015.
 Table 6—Minimum Approach Distances Until March 31, 2015
-Voltage rangephase to phase (kV) | Phase-to-ground exposure | m | ft | Phase-to-phase exposure | m | ft
+Voltage range phase to phase (kV) | Phase-to-ground exposure | Phase-to-phase exposure
+m | ft | m | ft
 2.1 to 15.0 | 0.64 | 2.1 | 0.61 | 2.0
 15.1 to 35.0 | 0.71 | 2.3 | 0.71 | 2.3
 35.1 to 46.0 | 0.76 | 2.5 | 0.76 | 2.5
@@ -183,7 +181,8 @@ Voltage rangephase to phase (kV) | Phase-to-ground exposure | m | ft | Phase-to-
 * The minimum approach distance may be the shortest distance between the energized part and the grounded surface.
 B. Alternative minimum approach distances. Employers may use the minimum approach distances in Table 7 through Table 14 provided that the employer follows the notes to those tables.
 Table 7—AC Minimum Approach Distances—72.6 to 121.0 kV
-T (p.u.) | Phase-to-ground exposure | m | ft | Phase-to-phase exposure | m | ft
+T (p.u.) | Phase-to-ground exposure | Phase-to-phase exposure
+m | ft | m | ft
 1.5 | 0.67 | 2.2 | 0.84 | 2.8
 1.6 | 0.69 | 2.3 | 0.87 | 2.9
 1.7 | 0.71 | 2.3 | 0.90 | 3.0
@@ -206,7 +205,8 @@ T (p.u.) | Phase-to-ground exposure | m | ft | Phase-to-phase exposure | m | ft
 3.4 | 1.11 | 3.6 | 1.39 | 4.6
 3.5 | 1.13 | 3.7 | 1.42 | 4.7
 Table 8—AC Minimum Approach Distances—121.1 to 145.0 kV
-T (p.u.) | Phase-to-ground rxposure | m | ft | Phase-to-phase rxposure | m | ft
+T (p.u.) | Phase-to-ground rxposure | Phase-to-phase rxposure
+m | ft | m | ft
 1.5 | 0.74 | 2.4 | 0.95 | 3.1
 1.6 | 0.76 | 2.5 | 0.98 | 3.2
 1.7 | 0.79 | 2.6 | 1.02 | 3.3
@@ -229,7 +229,8 @@ T (p.u.) | Phase-to-ground rxposure | m | ft | Phase-to-phase rxposure | m | ft
 3.4 | 1.27 | 4.2 | 1.60 | 5.2
 3.5 | 1.30 | 4.3 | 1.64 | 5.4
 Table 9—AC Minimum Approach Distances—145.1 to 169.0 kV
-T (p.u.) | Phase-to-ground exposure | m | ft | Phase-to-phase exposure | m | ft
+T (p.u.) | Phase-to-ground exposure | Phase-to-phase exposure
+m | ft | m | ft
 1.5 | 0.81 | 2.7 | 1.05 | 3.4
 1.6 | 0.84 | 2.8 | 1.09 | 3.6
 1.7 | 0.87 | 2.9 | 1.13 | 3.7
@@ -252,7 +253,8 @@ T (p.u.) | Phase-to-ground exposure | m | ft | Phase-to-phase exposure | m | ft
 3.4 | 1.43 | 4.7 | 1.88 | 6.2
 3.5 | 1.46 | 4.8 | 1.94 | 6.4
 Table 10—AC Minimum Approach Distances—169.1 to 242.0 kV
-T (p.u.) | Phase-to-ground exposure | m | ft | Phase-to-phase exposure | m | ft
+T (p.u.) | Phase-to-ground exposure | Phase-to-phase exposure
+m | ft | m | ft
 1.5 | 1.02 | 3.3 | 1.37 | 4.5
 1.6 | 1.06 | 3.5 | 1.43 | 4.7
 1.7 | 1.11 | 3.6 | 1.48 | 4.9
@@ -275,7 +277,8 @@ T (p.u.) | Phase-to-ground exposure | m | ft | Phase-to-phase exposure | m | ft
 3.4 | 1.95 | 6.4 | 2.97 | 9.7
 3.5 | 2.01 | 6.6 | 3.08 | 10.1
 Table 11—AC Minimum Approach Distances—242.1 to 362.0 kV
-T (p.u.) | Phase-to-ground exposure | m | ft | Phase-to-phase exposure | m | ft
+T (p.u.) | Phase-to-ground exposure | Phase-to-phase exposure
+m | ft | m | ft
 1.5 | 1.37 | 4.5 | 1.99 | 6.5
 1.6 | 1.44 | 4.7 | 2.13 | 7.0
 1.7 | 1.51 | 5.0 | 2.27 | 7.4
@@ -298,7 +301,8 @@ T (p.u.) | Phase-to-ground exposure | m | ft | Phase-to-phase exposure | m | ft
 3.4 | 3.27 | 10.7 | 5.32 | 17.5
 3.5 | 3.41 | 11.2 | 5.52 | 18.1
 Table 12—AC Minimum Approach Distances—362.1 to 420.0 kV
-T (p.u.) | Phase-to-ground exposure | m | ft | Phase-to-phase exposure | m | ft
+T (p.u.) | Phase-to-ground exposure | Phase-to-phase exposure
+m | ft | m | ft
 1.5 | 1.53 | 5.0 | 2.40 | 7.9
 1.6 | 1.62 | 5.3 | 2.58 | 8.5
 1.7 | 1.70 | 5.6 | 2.75 | 9.0
@@ -321,7 +325,8 @@ T (p.u.) | Phase-to-ground exposure | m | ft | Phase-to-phase exposure | m | ft
 3.4 | 4.07 | 13.4 | 6.56 | 21.5
 3.5 | 4.25 | 13.9 | 6.81 | 22.3
 Table 13—AC Minimum Approach Distances—420.1 to 550.0 kV
-T (p.u.) | Phase-to-ground exposure | m | ft | Phase-to-phase exposure | m | ft
+T (p.u.) | Phase-to-ground exposure | Phase-to-phase exposure
+m | ft | m | ft
 1.5 | 1.95 | 6.4 | 3.46 | 11.4
 1.6 | 2.11 | 6.9 | 3.73 | 12.2
 1.7 | 2.28 | 7.5 | 4.02 | 13.2
@@ -339,7 +344,8 @@ T (p.u.) | Phase-to-ground exposure | m | ft | Phase-to-phase exposure | m | ft
 2.9 | 4.81 | 15.8 | 7.88 | 25.9
 3.0 | 5.07 | 16.6 | 8.24 | 27.0
 Table 14—AC Minimum Approach Distances—550.1 to 800.0 kV
-T (p.u.) | Phase-to-ground exposure | m | ft | Phase-to-phase exposure | m | ft
+T (p.u.) | Phase-to-ground exposure | Phase-to-phase exposure
+m | ft | m | ft
 1.5 | 3.16 | 10.4 | 5.97 | 19.6
 1.6 | 3.46 | 11.4 | 6.43 | 21.1
 1.7 | 3.78 | 12.4 | 6.92 | 22.7
@@ -351,7 +357,4 @@ T (p.u.) | Phase-to-ground exposure | m | ft | Phase-to-phase exposure | m | ft
 2.3 | 6.02 | 19.8 | 10.16 | 33.3
 2.4 | 6.44 | 21.1 | 10.76 | 35.3
 2.5 | 6.88 | 22.6 | 11.38 | 37.3
-Notes to Table 7 through Table 14:
-1. The employer must determine the maximum anticipated per-unit transient overvoltage, phase-to-ground, through an engineering analysis, as required by § 1926.960(c)(1)(ii), or assume a maximum anticipated per-unit transient overvoltage, phase-to-ground, in accordance with Table V-8.
-2. For phase-to-phase exposures, the employer must demonstrate that no insulated tool spans the gap and that no large conductive object is in the gap.
-3. The worksite must be at an elevation of 900 meters (3,000 feet) or less above sea level.
+Notes to Table 7 through Table 14: 1. The employer must determine the maximum anticipated per-unit transient overvoltage, phase-to-ground, through an engineering analysis, as required by § 1926.960(c)(1)(ii), or assume a maximum anticipated per-unit transient overvoltage, phase-to-ground, in accordance with Table V-8. 2. For phase-to-phase exposures, the employer must demonstrate that no insulated tool spans the gap and that no large conductive object is in the gap. 3. The worksite must be at an elevation of 900 meters (3,000 feet) or less above sea level.

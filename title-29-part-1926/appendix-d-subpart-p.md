@@ -38,8 +38,3 @@ A trench is dug in Type B soil that does not require sheeting, 13 feet deep and 
 (8) See appendix C for timber specifications.
 (9) Wales are calculated for simple span conditions.
 (10) See appendix D, item (d), for basis and limitations of the data.
-EC30OC91.038
-EC30OC91.039
-EC30OC91.040
-EC30OC91.041
-EC30OC91.042

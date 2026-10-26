@@ -76,9 +76,3 @@ Use of Tables C-2.1 through C-2.3 would follow the same procedures.
 5. If the vertical distance from the center of the lowest crossbrace to the bottom of the trench exceeds two and one-half feet, uprights shall be firmly embedded or a mudsill shall be used. Where uprights are embedded, the vertical distance from the center of the lowest crossbrace to the bottom of the trench shall not exceed 36 inches. When mudsills are used, the vertical distance shall not exceed 42 inches. Mudsills are wales that are installed at the toe of the trench side.
 6. Trench jacks may be used in lieu of or in combination with timber crossbraces.
 7. Placement cf crossbraces. When the vertical spacing of crossbraces is four feet, place the top crossbrace no more than two feet below the top of the trench. When the vertical spacing of crossbraces is five feet, place the top crossbrace no more than 2.5 feet below the top of the trench.
-EC30OC91.032
-EC30OC91.033
-EC30OC91.034
-EC30OC91.035
-EC30OC91.036
-EC30OC91.037
