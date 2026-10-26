@@ -12,10 +12,6 @@ Submission of Data
 This form will be available electronically from the Department of Transportation's website at www.dot.gov. Air carriers are asked to return the completed form by certified mail to: Chief Financial Officer, Transportation Security Administration, Department of Transportation, 400 Seventh Street SW, Washington, DC 20590. Please also submit the same information in Microsoft Word either on a computer disk or by e-mail to TSA-Fees@ost.dot.gov.
 Confidentiality of Data
 Consistent with 49 CFR § 1511.5(f), information submitted in Appendix A is deemed to be Sensitive Security Information and will be so protected from public disclosure under 49 U.S.C. 40119(b). In addition, confidential business information and economic information provided in Appendix A will be protected from public disclosure, as appropriate, under 5 U.S.C. § 552 (the Freedom of Information Act), 14 CFR § 302.12, and 18 U.S.C. § 1905. Requests for confidentiality must be filed with the Office of the General Counsel, Department of Transportation (C-10), 400 Seventh Street, SW, Room 10102, Washington, DC 20590.
-ER20FE02.007
-ER20FE02.008
-ER20FE02.009
-ER20FE02.010
 Supporting Notes
 a. These are costs that the air carrier incurred directly. Includes costs incurred for air carrier personnel salaries and benefits, equipment owned, leased or rented directly by that air carrier and any other costs directly incurred.
 b. These are costs that the air carrier incurred through contracts with security firms. Includes personnel, equipment and other costs incurred through contracts with third party security companies.
@@ -55,5 +51,3 @@ c. These are costs that the air carrier incurred through other means. Includes c
 33. All costs associated with the recruitment of screening personnel and supervisors. Includes signing bonuses, travel, and other recruitment expenses.
 34. Any costs incurred for fees charged by other organizations for the management of contracts for the screening of persons and property.
 35. Any costs incurred not elsewhere specified during calendar year 2000 for the screening of passengers and property. These costs should be itemized on a separate sheet. Includes any fines or monetary penalties incurred for screening as well as any profit/bonuses paid to contractors for screening services not included elsewhere on the form.
-ER20FE02.011
-ER20FE02.012
