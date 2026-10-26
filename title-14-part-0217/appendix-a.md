@@ -14,7 +14,8 @@ SQ—Singapore Airlines
 LAX—Los Angeles, USA
 NRT—Tokyo-Narita, Japan
 SIN—Singapore, Singapore
-A-3—Airport code | Origin | A-4—Airport code | Destination | A-5—Service class(mark an X) | F | G | L | P | Q | By aircraft type— | B-1—Aircraft type code | B-2—Revenue aircraft departures | B-3—Revenue passengers transported | B-4—Revenue freight transported (kg) | Sum of all aircraft types— | C-1—Total revenuepassengers in market | C-2—Total revenue freight in market (kg)
+A-3—Airport code | A-4—Airport code | A-5—Service class (mark an X) | By aircraft type— | Sum of all aircraft types—
+Origin | Destination | F | G | L | P | Q | B-1—Aircraft type code | B-2— Revenue aircraft departures | B-3— Revenue passengers transported | B-4— Revenue freight transported (kg) | C-1—Total revenue passengers in market | C-2—Total revenue freight in market (kg)
 LAX | NRT | X | | | | | 8161 | 12 | 2400 | 4800 | 400 | 500
 LAX | SIN | X | | | | | | | | | 2000 | 4300
 (2) SQ flight #15 LAX—HNL—TPE—SIN. This is an example of two U.S. points, an intermediate third country, and a homeland point. Information is reportable on only the on-flight markets and nonstop segments that consist of one or both U.S. points.
@@ -23,7 +24,8 @@ LAX—Los Angeles, USA
 HNL—Honolulu, USA
 TPE—Taipei, Taiwan
 SIN—Singapore, Singapore
-A-3—Airport code | Origin | A-4—Airport code | Destination | A-5—Service class(mark an X) | F | G | L | P | Q | By aircraft type— | B-1—Aircraft type code | B-2—Revenue aircraft departures | B-3—Revenue passengers transported | B-4—Revenue freight transported (kg) | Sum of all aircraft types— | C-1—Total revenuepassengers in market | C-2—Total revenue freight in market (kg)
+A-3—Airport code | A-4—Airport code | A-5—Service class (mark an X) | By aircraft type— | Sum of all aircraft types—
+Origin | Destination | F | G | L | P | Q | B-1—Aircraft type code | B-2— Revenue aircraft departures | B-3— Revenue passengers transported | B-4— Revenue freight transported (kg) | C-1—Total revenue passengers in market | C-2—Total revenue freight in market (kg)
 LAX | HNL | X | | | | | 8161 | 12 | 2700 | 5300 | 0 | 0
 LAX | TPE | X | | | | | | | | | 700 | 1300
 LAX | SIN | X | | | | | | | | | 2000 | 4000
@@ -36,7 +38,8 @@ VVI—Santa Cruz-Viru Viru, Bolivia
 MAO—Manaus, Brazil
 CCS—Caracas, Venezuela
 MIA—Miami, USA
-A-3—Airport code | Origin | A-4—Airport code | Destination | A-5—Service class(mark an X) | F | G | L | P | Q | By aircraft type— | B-1—Aircraft type code | B-2—Revenue aircraft departures | B-3—Revenue passengers transported | B-4—Revenue freight transported (kg) | Sum of all aircraft types— | C-1—Total revenuepassengers in market | C-2—Total revenue freight in market (kg)
+A-3—Airport code | A-4—Airport code | A-5—Service class (mark an X) | By aircraft type— | Sum of all aircraft types—
+Origin | Destination | F | G | L | P | Q | B-1—Aircraft type code | B-2— Revenue aircraft departures | B-3— Revenue passengers transported | B-4— Revenue freight transported (kg) | C-1—Total revenue passengers in market | C-2—Total revenue freight in market (kg)
 CCS | MIA | X | | | | | 8161 | 31 | 6900 | 71000 | 0 | 0
 LPB | MIA | X | | | | | | | | | 1100 | 20000
 VVI | MIA | X | | | | | | | | | 4000 | 30000
@@ -47,7 +50,8 @@ TLV—Tel Aviv, Israel
 AMS—Amsterdam, Netherlands
 ORD—Chicago, USA
 LAX—Los Angeles, USA
-A-3—Airport code | Origin | A-4—Airport code | Destination | A-5—Service class(mark an X) | F | G | L | P | Q | By aircraft type— | B-1—Aircraft type code | B-2—Revenue aircraft departures | B-3—Revenue passengers transported | B-4—Revenue freight transported (kg) | Sum of all aircraft types— | C-1—Total revenuepassengers in market | C-2—Total revenue freight in market (kg)
+A-3—Airport code | A-4—Airport code | A-5—Service class (mark an X) | By aircraft type— | Sum of all aircraft types—
+Origin | Destination | F | G | L | P | Q | B-1—Aircraft type code | B-2— Revenue aircraft departures | B-3— Revenue passengers transported | B-4— Revenue freight transported (kg) | C-1—Total revenue passengers in market | C-2—Total revenue freight in market (kg)
 AMS | ORD | X | | | | | 8161 | 1 | 350 | 10000 | 50 | 1500
 TLV | ORD | X | | | | | | | | | 150 | 4000
 TLV | LAX | X | | | | | | | | | 125 | 3000
@@ -60,7 +64,8 @@ BNE—Brisbane, Australia
 CNS—Cairns, Australia
 HNL—Honolulu, USA
 YVR—Vancouver, Canada
-A-3—Airport code | Origin | A-4—Airport code | Destination | A-5—Service class(mark an X) | F | G | L | P | Q | By aircraft type— | B-1—Aircraft type code | B-2—Revenue aircraft departures | B-3—Revenue passengers transported | B-4—Revenue freight transported (kg) | Sum of all aircraft types— | C-1—Total revenuepassengers in market | C-2—Total revenue freight in market (kg)
+A-3—Airport code | A-4—Airport code | A-5—Service class (mark an X) | By aircraft type— | Sum of all aircraft types—
+Origin | Destination | F | G | L | P | Q | B-1—Aircraft type code | B-2— Revenue aircraft departures | B-3— Revenue passengers transported | B-4— Revenue freight transported (kg) | C-1—Total revenue passengers in market | C-2—Total revenue freight in market (kg)
 CNS | HNL | X | | | | | 8161 | 5 | 2200 | 41000 | 400 | 8000
 SYD | HNL | X | | | | | | | | | 600 | 10000
 BNE | HNL | X | | | | | | | | | 600 | 9000
@@ -70,14 +75,16 @@ JL—Japan Air Lines
 HKG—Hong Kong, Hong Kong
 NRT—Tokyo-Narita, Japan
 SFO—San Francisco, USA
-A-3—Airport code | Origin | A-4—Airport code | Destination | A-5—Service class(mark an X) | F | G | L | P | Q | By aircraft type— | B-1—Aircraft type code | B-2—Revenue aircraft departures | B-3—Revenue passengers transported | B-4—Revenue freight transported (kg) | Sum of all aircraft types— | C-1—Total revenuepassengers in market | C-2—Total revenue freight in market (kg)
+A-3—Airport code | A-4—Airport code | A-5—Service class (mark an X) | By aircraft type— | Sum of all aircraft types—
+Origin | Destination | F | G | L | P | Q | B-1—Aircraft type code | B-2— Revenue aircraft departures | B-3— Revenue passengers transported | B-4— Revenue freight transported (kg) | C-1—Total revenue passengers in market | C-2—Total revenue freight in market (kg)
 NRT | SFO | X | | | | | 8161 | 3 | 1200 | 18000 | 1200 | 18000
 (7) JL flight #001 SFO-NRT-HKG. This flight is the reverse sequence of flight #002 above; it requires a nonstop segment entry covering SFO-NRT, and a single on-flight market entry also for SFO-NRT. In this case, the on flight traffic enplaned at SFO and destined for HKG, a beyond homeland point, shall be included in the SFO-NRT entry; a separate SFO-HKG entry is not required.
 JL—Japan Air Lines
 SFO—San Francisco, USA
 NRT—Tokyo-Narita, Japan
 HKG—Hong Kong, Hong Kong
-A-3—Airport code | Origin | A-4—Airport code | Destination | A-5—Service class(mark an X) | F | G | L | P | Q | By aircraft type— | B-1—Aircraft type code | B-2—Revenue aircraft departures | B-3—Revenue passengers transported | B-4—Revenue freight transported (kg) | Sum of all aircraft types— | C-1—Total revenuepassengers in market | C-2—Total revenue freight in market (kg)
+A-3—Airport code | A-4—Airport code | A-5—Service class (mark an X) | By aircraft type— | Sum of all aircraft types—
+Origin | Destination | F | G | L | P | Q | B-1—Aircraft type code | B-2— Revenue aircraft departures | B-3— Revenue passengers transported | B-4— Revenue freight transported (kg) | C-1—Total revenue passengers in market | C-2—Total revenue freight in market (kg)
 SFO | NRT | X | | | | | 8161 | 1 | 400 | 20000 | 400 | 20000
 (8) BA flight #5 LHR-ANC-NRT-OSA. This example contains a single homeland point and a single U.S. point followed by two third country points. It is necessary to report the nonstop segments into and out of the U.S., and all three of the on-flight markets which have the U.S. point ANC as either an origin or destination.
 BA—British Airways
@@ -85,7 +92,8 @@ LHR—London, England
 ANC—Anchorage, USA
 NRT—Tokyo-Narita, Japan
 OSA—Osaka, Japan
-A-3—Airport code | Origin | A-4—Airport code | Destination | A-5—Service class(mark an X) | F | G | L | P | Q | By aircraft type— | B-1—Aircraft type code | B-2—Revenue aircraft departures | B-3—Revenue passengers transported | B-4—Revenue freight transported (kg) | Sum of all aircraft types— | C-1—Total revenuepassengers in market | C-2—Total revenue freight in market (kg)
+A-3—Airport code | A-4—Airport code | A-5—Service class (mark an X) | By aircraft type— | Sum of all aircraft types—
+Origin | Destination | F | G | L | P | Q | B-1—Aircraft type code | B-2— Revenue aircraft departures | B-3— Revenue passengers transported | B-4— Revenue freight transported (kg) | C-1—Total revenue passengers in market | C-2—Total revenue freight in market (kg)
 LHR | ANC | X | | | | | 8161 | 10 | 3000 | 50000 | 100 | 1000
 ANC | NRT | X | | | | | 8161 | 10 | 3150 | 55000 | 100 | 2500
 ANC | OSA | X | | | | | | | | | 150 | 1500
