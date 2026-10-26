@@ -1,16 +1,4 @@
 # Appendix B to Part 165—Form TCR and Form WP-APP
-ER30MY17.017
-ER30MY17.018
-ER30MY17.019
-ER30MY17.020
-ER30MY17.021
-ER30MY17.022
-ER30MY17.023
-ER30MY17.024
-ER30MY17.025
-ER30MY17.026
-ER30MY17.027
-ER30MY17.028
 Submission Procedures
 Questions concerning this form may be directed to Commodity Futures Trading Commission, Whistleblower Office, Three Lafayette Centre, 1155 21st Street NW., Washington, DC 20581.
 • If you are submitting information for the CFTC's whistleblower award program, you must submit your information using this Form TCR.
@@ -83,11 +71,6 @@ Section G: Privacy Notice and Whistleblower's Declaration
 You must sign this Declaration if you are submitting this information pursuant to the CFTC whistleblower program and wish to be considered for an award. If you are submitting your information using the electronic version of Form TCR through the CFTC's web portal, you must check the box to agree with the declaration. If you are submitting your information anonymously, you must still sign this Declaration (using the term "anonymous") or check the box as appropriate, and, if you are represented by an attorney, you must provide your attorney with the original of this signed form, or maintain a copy for your own records.
 Section H: Counsel Certification
 If you are submitting this information pursuant to the CFTC whistleblower program and you are doing so anonymously through an attorney, your attorney must sign the Counsel Certification Section. If your attorney is submitting your information using the electronic version of Form TCR through the CFTC's web portal, he/she must check the box to agree with the certification. If you are represented in this matter but you are not submitting your information pursuant to the CFTC whistleblower program, your attorney does not need to sign this Certification or check the box.
-ER30MY17.029
-ER30MY17.030
-ER30MY17.031
-ER30MY17.032
-ER30MY17.033
 Privacy Act Statement
 This notice is given under the Privacy Act of 1974. The Privacy Act requires that the Commodity Futures Trading Commission (CFTC) inform individuals of the following when asking for information. The solicitation of this information is authorized under the Commodity Exchange Act, 7 U.S.C. 1 et seq. The information provided will enable the CFTC to determine the whistleblower award claimant's eligibility for payment of an award pursuant to Section 23 of the Commodity Exchange Act and Part 165 of the CFTC's regulations. This information will be used to investigate and prosecute violations of the Commodity Exchange Act and the CFTC's regulations. This information may be disclosed to federal, state, local or foreign agencies or other authorities responsible for investigating, prosecuting, enforcing or implementing laws, rules or regulations implicated by the information consistent with the confidentiality requirements set forth in Section 23 of the Commodity Exchange Act and Part 165 of the CFTC's regulations. The information will be maintained and additional disclosures may be made in accordance with System of Records Notices CFTC-49, "Whistleblower Records" (exempted), CFTC-10, "Investigatory Records" (exempted), and CFTC-16, "Enforcement Case Files." The CFTC requests the last four digits of the claimant's Social Security Number for use as an individual identifier to administer and manage the whistleblower award program. Executive Order 9397 (November 22, 1943) allows federal agencies to use the Social Security Number as an individual identifier. Furnishing the information is voluntary. However, if an individual is providing information for the whistleblower award program, not providing required information may result in the individual not being eligible for award consideration.
 Questions concerning this form may be directed to Commodity Futures Trading Commission, Whistleblower Office, Three Lafayette Centre, 1155 21st Street NW., Washington, DC 20581.
