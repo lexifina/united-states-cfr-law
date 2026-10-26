@@ -1,5 +1,4 @@
 # Appendix B to Part 49—Confidentiality Arrangement for Appropriate Domestic Regulators and Appropriate Foreign Regulators to Obtain Access to Swap Data Maintained by Swap Data Respositories Pursuant to §§ 49.17(d)(6) and 49.18(a)
-ER25NO20.042
 The U.S. Commodity Futures Trading Commission ("CFTC") and the [name of foreign/domestic regulator ("ABC")] (each an "Authority" and collectively the "Authorities") have entered into this Confidentiality Arrangement ("Arrangement") in connection with [whichever is applicable] [CFTC Regulation 49.17(b)(1)[(i)-(vi)]/the determination order issued by the CFTC to [ABC] ("Order")] and any request for swap data by [ABC] to any swap data repository ("SDR") registered or provisionally registered with the CFTC.
 Article One: General Provisions
 1. ABC is permitted to request and receive swap data directly from an SDR ("Swap Data") on the terms and subject to the conditions of this Arrangement.
@@ -29,7 +28,7 @@ Article Three: Administrative Provisions
 14. The text of this Arrangement will be executed in English, and may be made available to the public.
 15. On the date this Arrangement is signed by the Authorities, it will become effective and may be provided to any SDR that holds and maintains Swap Data that falls within the scope of ABC's jurisdiction.
 16. This Arrangement will expire 30 days after any Authority gives written notice to the other Authority of its intention to terminate the Arrangement. In the event of termination of this Arrangement, Confidential Information will continue to remain confidential and will continue to be covered by this Arrangement.
-This Arrangement is executed in duplicate, this __ __day of __ __.
+This Arrangement is executed in duplicate, this ____day of ____.
 [name of Chairman] [name of signatory]
 Chairman, [title]
 U.S. Commodity Futures Trading Commission [name of foreign/domestic regulator]

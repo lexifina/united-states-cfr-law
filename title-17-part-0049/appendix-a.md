@@ -18,10 +18,6 @@ APPLICATION AMENDMENTS
 2. When filing this Form SDR for purposes of amending a pending application, an Applicant must re-file the entire Cover Sheet, amended if necessary, include an executing signature, and attach thereto revised Exhibits or other materials marked to show any amendments. The submission of an amendment to a pending application represents that all unamended items and Exhibits remain true, current, and complete as previously filed.
 WHERE TO FILE
 This Form SDR shall be filed electronically with the Secretary of the Commission in the manner specified by the Commission.
-ER25NO20.038
-ER25NO20.039
-ER25NO20.040
-ER25NO20.041
 EXHIBITS INSTRUCTIONS
 The following Exhibits must be included as part of Form SDR and filed with the Commission by each Applicant seeking registration as a swap data repository pursuant to section 21 of the Act and the Commission's regulations thereunder. Such Exhibits must be labeled according to the items specified in this Form SDR. If any Exhibit is inapplicable, please specify the Exhibit letter and indicate by "none," "not applicable," or "N/A," as appropriate. The Applicant must identify with particularity the information in these Exhibits that will be subject to a request for confidential treatment and supporting documentation for such request pursuant to Commission Regulations § 40.8 and § 145.9.
 If the Applicant is a newly formed enterprise and does not have the financial statements required pursuant to Items 27 and 28 of this form, the Applicant should provide pro forma financial statements for the most recent six months or since inception, whichever is less.
