@@ -78,7 +78,8 @@ Table 1—Takeoff Limitations
 (a) Curtiss C-46 certificated for maximum weight of 45,000 pounds.
 (1) Effective length of runway required when effective length is determined in accordance with § 121.171 (distance to accelerate to 93 knots TIAS and stop, with zero wind and zero gradient). (Factor = 1.00)
 [Distance in feet]
-Standard altitude in feet | Airplane weight in pounds | 39,000 | 42,000 | 45,000 1
+Standard altitude in feet | Airplane weight in pounds
+39,000 | 42,000 | 45,000 1
 S.L | 4,110 | 4,290 | 4,570
 1,000 | 4,250 | 4,440 | 4,720
 2,000 | 4,400 | 4,600 | 4,880
@@ -91,7 +92,8 @@ S.L | 4,110 | 4,290 | 4,570
 1 Ref. Fig. 1(a)(1) for weight and distance for altitudes above 7,000′.
 (2) Actual length of runway required when effective length, considering obstacles, is not determined (distance to accelerate to 93 knots TIAS and stop, divided by the factor 0.85).
 [Distance in feet]
-Standard altitude in feet | Airplane weight in pounds | 39,000 | 42,000 | 45,000 1
+Standard altitude in feet | Airplane weight in pounds
+39,000 | 42,000 | 45,000 1
 S.L | 4,830 | 5,050 | 5,370
 1,000 | 5,000 | 5,230 | 5,550
 2,000 | 5,170 | 5,410 | 5,740
@@ -105,7 +107,8 @@ S.L | 4,830 | 5,050 | 5,370
 (b) Curtiss C-46 certificated for maximum weight 48,000 pounds.
 (1) Effective length of runway required when effective length is determined in accordance with § 121.171 (distance to accelerate to 93 knots TIAS and stop, with zero wind and zero gradient). (Factor = 1.00)
 [Distance in feet]
-Standard altitude in feet | Airplane weight in pounds | 39,000 | 42,000 | 45,000 | 48,000 1
+Standard altitude in feet | Airplane weight in pounds
+39,000 | 42,000 | 45,000 | 48,000 1
 S.L | 4,110 | 4,290 | 4,570 | 4,950
 1,000 | 4,250 | 4,440 | 4,720 | 5,130
 2,000 | 4,400 | 4,600 | 4,880 | 5,300
@@ -118,7 +121,8 @@ S.L | 4,110 | 4,290 | 4,570 | 4,950
 1 Ref. Fig. 1(b)(1) for weight and distance for altitudes above 6,000′.
 (2) Actual length of runway required when effective length, considering obstacles, is not determined (distance to accelerate to 93 knots TIAS and stop, divided by the factor 0.85).
 [Distance in feet]
-Standard altitude in feet | Airplane weight in pounds | 39,000 | 42,000 | 45,000 | 48,000 1
+Standard altitude in feet | Airplane weight in pounds
+39,000 | 42,000 | 45,000 | 48,000 1
 S.L | 4,830 | 5,050 | 5,370 | 5,830
 1,000 | 5,000 | 5,230 | 5,550 | 6,030
 2,000 | 5,170 | 5,410 | 5,740 | 6,230
@@ -139,8 +143,7 @@ Weight (pounds) | Terrain clearance (feet) 1 | Blower setting
 41,000 | 9,600 | Do.
 40,000 | 11,000 | Do.
 39,000 | 12,300 | Do.
-1 Highest altitude of terrain over which airplanes may be operated in compliance with § 121.201.
-Ref. Fig. 2(a).
+1 Highest altitude of terrain over which airplanes may be operated in compliance with § 121.201. Ref. Fig. 2(a).
 (b) Curtiss model C-46 certificated for maximum weight of 48,000 pounds or with engine installation approved for 2,550 revolutions per minute (1,700 brake horsepower). Maximum continuous power in low blower (based on a climb speed of 113 knots (TIAS)).
 Weight (pounds) | Terrain clearance (feet) 1 | Blower setting
 48,000 | 5,850 | Low.
@@ -153,14 +156,14 @@ Weight (pounds) | Terrain clearance (feet) 1 | Blower setting
 43,000 | 10,800 | Do.
 42,000 | 12,500 | Do.
 41,000 | 13,000 | Do.
-1 Highest altitude of terrain over which airplanes may be operated in compliance with § 121.201.
-Ref. Fig. 2(b).
+1 Highest altitude of terrain over which airplanes may be operated in compliance with § 121.201. Ref. Fig. 2(b).
 Table 3—Landing Limitations
 (a) Intended Destination.
 Effective length of runway required for intended destination when effective length is determined in accordance with § 121.171 with zero wind and zero gradient.
 (1) Curtiss model C-46 certificated for maximum weight of 45,000 pounds. (0.60 factor)
 Distance in feet
-Standard altitude in feet | Airplane weight in pounds and approach speeds 1 in knots | 40,000 | V 50 | 42,000 | V 50 | 44,000 | V 50 | 45,000 | V 50
+Standard altitude in feet | Airplane weight in pounds and approach speeds 1 in knots
+40,000 | V50 | 42,000 | V50 | 44,000 | V50 | 45,000 | V50
 S.L | 4,320 | 86 | 4,500 | 88 | 4,700 | 90 | 4,800 | 91
 1,000 | 4,440 | 86 | 4,620 | 88 | 4,830 | 90 | 4,930 | 91
 2,000 | 4,550 | 86 | 4,750 | 88 | 4,960 | 90 | 5,050 | 91
@@ -170,11 +173,11 @@ S.L | 4,320 | 86 | 4,500 | 88 | 4,700 | 90 | 4,800 | 91
 6,000 | 5,040 | 86 | 5,270 | 88 | 5,550 | 90 | 5,600 | 91
 7,000 | 5,170 | 86 | 5,410 | 88 | 5,650 | 90 | 5,750 | 91
 8,000 | 5,310 | 86 | 5,550 | 88 | 5,800 | 90 | 5,900 | 91
-1 Steady approach speed through 50-foot height TIAS denoted by symbol V 50.
-Ref. Fig. 3(a)(1).
+1 Steady approach speed through 50-foot height TIAS denoted by symbol V50. Ref. Fig. 3(a)(1).
 (2) Curtiss model C-46 certificated for maximum weight of 48,000 pounds. 1 (0.60 factor.)
 Distance in feet
-Standard altitude in feet | Airplane weight in pounds and approach speeds 2 in knots | 42,000 | V 50 | 44,000 | V 50 | 46,000 | V 50 | 43,000 | V 50
+Standard altitude in feet | Airplane weight in pounds and approach speeds 2 in knots
+42,000 | V50 | 44,000 | V50 | 46,000 | V50 | 43,000 | V50
 S.L | 3,370 | 80 | 3,490 | 82 | 3,620 | 84 | 3,740 | 86
 1,000 | 3,460 | 80 | 3,580 | 82 | 3,710 | 84 | 3,830 | 86
 2,000 | 3,540 | 80 | 3,670 | 82 | 3,800 | 84 | 3,920 | 86
@@ -184,14 +187,13 @@ S.L | 3,370 | 80 | 3,490 | 82 | 3,620 | 84 | 3,740 | 86
 6,000 | 3,890 | 80 | 4,040 | 82 | 4,180 | 84 | 4,320 | 86
 7,000 | 3,980 | 80 | 4,140 | 82 | 4,280 | 84 | 4,440 | 86
 8,000 | 4,080 | 80 | 4,240 | 82 | 4,390 | 84 | 4,550 | 86
-1 For use with Curtiss model C-46 airplanes when approved for this weight.
-2 Steady approach speed through 50 height knots TIAS denoted by symbol V 503.
-Ref. Fig. 3(a)(2).
+1 For use with Curtiss model C-46 airplanes when approved for this weight. 2 Steady approach speed through 50 height knots TIAS denoted by symbol V503. Ref. Fig. 3(a)(2).
 (b) Alternate Airports.
 Effective length of runway required when effective length is determined in accordance with § 121.171 with zero wind and zero gradient.
 (1) Curtiss model C-46 certificated for maximum weight of 45,000 pounds. (0.70 factor.)
 Distance in feet
-Standard altitude in feet | Airplane weight in pounds and approach speeds 1 in knots | 40,000 | V 50 | 42,000 | V 50 | 44,000 | V 50 | 45,000 | V 50
+Standard altitude in feet | Airplane weight in pounds and approach speeds 1 in knots
+40,000 | V50 | 42,000 | V50 | 44,000 | V50 | 45,000 | V50
 S.L | 3,700 | 86 | 3,860 | 88 | 4,030 | 90 | 4,110 | 91
 1,000 | 3,800 | 86 | 3,960 | 88 | 4,140 | 90 | 4,220 | 91
 2,000 | 3,900 | 86 | 4,070 | 88 | 4,250 | 90 | 4,340 | 91
@@ -201,11 +203,11 @@ S.L | 3,700 | 86 | 3,860 | 88 | 4,030 | 90 | 4,110 | 91
 6,000 | 4,330 | 86 | 4,510 | 88 | 4,710 | 90 | 4,800 | 91
 7,000 | 4,430 | 86 | 4,630 | 88 | 4,840 | 90 | 4,930 | 91
 8,000 | 4,550 | 86 | 4,750 | 88 | 4,970 | 90 | 5,060 | 91
-1 Steady approach speed through 50 foot-height-knots TIAS denoted by symbol V 50.
-Ref. Fig. 3(b)(1).
+1 Steady approach speed through 50 foot-height-knots TIAS denoted by symbol V50. Ref. Fig. 3(b)(1).
 (2) Curtiss model C-46 certificated for maximum weight of 48,000 pounds. 1 (0.70 factor.)
 Distance in feet
-Standard altitude in feet | Airplane weight in pounds and approach speeds 2 in knots | 42,000 | V 50 | 44,000 | V 50 | 46,000 | V 50 | 48,000 | V 50
+Standard altitude in feet | Airplane weight in pounds and approach speeds 2 in knots
+42,000 | V50 | 44,000 | V50 | 46,000 | V50 | 48,000 | V50
 S.L | 2,890 | 80 | 3,000 | 82 | 3,110 | 84 | 3,220 | 86
 1,000 | 2,960 | 80 | 3,070 | 82 | 3,180 | 84 | 3,280 | 86
 2,000 | 3,040 | 80 | 3,150 | 82 | 3,260 | 84 | 3,360 | 86
@@ -215,13 +217,12 @@ S.L | 2,890 | 80 | 3,000 | 82 | 3,110 | 84 | 3,220 | 86
 6,000 | 3,330 | 80 | 3,460 | 82 | 3,580 | 84 | 3,700 | 86
 7,000 | 3,420 | 80 | 3,540 | 82 | 3,670 | 84 | 3,800 | 86
 8,000 | 3,500 | 80 | 3,630 | 82 | 3,760 | 84 | 3,900 | 86
-1 For use with Curtiss model C-46 airplanes when approved for this weight.
-2 Steady approach speed through 50 foot-height-knots TIAS denoted by symbol V 50.
-Ref. Fig. 3(b)(2).
+1 For use with Curtiss model C-46 airplanes when approved for this weight. 2 Steady approach speed through 50 foot-height-knots TIAS denoted by symbol V50. Ref. Fig. 3(b)(2).
 (c) Actual length of runway required when effective length, considering obstacles, is not determined in accordance with § 121.171.
 (1) Curtiss model C-46 certificated for maximum weight of 45,000 pounds. (0.55 factor.)
 Distance in feet
-Standard altitude in feet | Airplane weight in pounds and approach speeds 1 in knots | 40,000 | V 50 | 42,000 | V 50 | 44,000 | V 50 | 45,000 | V 50
+Standard altitude in feet | Airplane weight in pounds and approach speeds 1 in knots
+40,000 | V50 | 42,000 | V50 | 44,000 | V50 | 45,000 | V50
 S.L | 4,710 | 86 | 4,910 | 88 | 5,130 | 90 | 5,230 | 91
 1,000 | 4,840 | 86 | 5,050 | 88 | 5,270 | 90 | 5,370 | 91
 2,000 | 4,960 | 86 | 5,180 | 88 | 5,410 | 90 | 5,510 | 91
@@ -231,11 +232,11 @@ S.L | 4,710 | 86 | 4,910 | 88 | 5,130 | 90 | 5,230 | 91
 6,000 | 5,500 | 86 | 5,740 | 88 | 6,000 | 90 | 6,110 | 91
 7,000 | 5,640 | 86 | 5,900 | 88 | 6,170 | 90 | 6,280 | 91
 8,000 | 5,790 | 86 | 6,050 | 88 | 6,340 | 90 | 6,450 | 91
-1 Steady approach speed through 50 foot-height-knots TIAS denoted by symbol V 50.
-Ref. Fig. 3(c)(1).
+1 Steady approach speed through 50 foot-height-knots TIAS denoted by symbol V50. Ref. Fig. 3(c)(1).
 (2) Curtiss C-46 certificated for maximum weight of 48,000 pounds. 1 (0.55 factor.)
 Distance in feet
-Standard altitude in feet | Airplane weight in pounds and approach speeds 2 in knots | 42,000 | V 50 | 44,000 | V 50 | 46,000 | V 50 | 48,000 | V 50
+Standard altitude in feet | Airplane weight in pounds and approach speeds 2 in knots
+42,000 | V50 | 44,000 | V50 | 46,000 | V50 | 48,000 | V50
 S.L | 3,680 | 80 | 3,820 | 82 | 3,960 | 84 | 4,090 | 86
 1,000 | 3,770 | 80 | 3,910 | 82 | 4,050 | 84 | 4,180 | 86
 2,000 | 3,860 | 80 | 4,000 | 82 | 4,140 | 84 | 4,280 | 86
@@ -245,20 +246,4 @@ S.L | 3,680 | 80 | 3,820 | 82 | 3,960 | 84 | 4,090 | 86
 6,000 | 4,240 | 80 | 4,400 | 82 | 4,560 | 84 | 4,710 | 86
 7,000 | 4,350 | 80 | 4,510 | 82 | 4,670 | 84 | 4,840 | 86
 8,000 | 4,450 | 80 | 4,620 | 82 | 4,790 | 84 | 4,960 | 86
-1 For use with Curtiss model C-46 airplanes when approved for this weight.
-2 Steady approach speed through 50 foot-height-knots TIAS denoted by symbol V 50.
-Ref. Fig. 3(c)(2).
-EC26SE91.009
-EC26SE91.010
-EC26SE91.011
-EC26SE91.012
-EC26SE91.013
-EC26SE91.014
-EC26SE91.015
-EC26SE91.016
-EC26SE91.017
-EC26SE91.018
-EC26SE91.019
-EC26SE91.020
-EC26SE91.021
-EC26SE91.022
+1 For use with Curtiss model C-46 airplanes when approved for this weight. 2 Steady approach speed through 50 foot-height-knots TIAS denoted by symbol V50. Ref. Fig. 3(c)(2).
