@@ -10,7 +10,7 @@ C. Exposure to impulsive or impact noise should not exceed 140 dB peak sound pre
 D. Any time that an employee spends deadheading shall be included in the calculation of the noise dose.
 E. A table relating dose and TWA is given in Section II of this Appendix.
 Table A-1 1
-A-weighted sound level, L(decibel) | Durationpermitted T (hour)
+A-weighted sound level, L (decibel) | Duration permitted T (hour)
 80 | 32
 81 | 27.9
 82 | 24.3
@@ -65,14 +65,13 @@ A-weighted sound level, L(decibel) | Durationpermitted T (hour)
 140 | 0.078
 1 Numbers above 115 dB(A) are italicized to indicate that they are noise levels that are not permitted. The italicized numbers are included only because they are sometimes necessary for the computation of noise dose.
 In the above table the duration permitted, T, is computed by
-ER27OC06.004
 where L is the measured A-weighted sound level.
 II. Conversion Between "Dose" and "8-Hour Time-Weighted Average" Sound Level
 A. Compliance with subpart B of part 227 is determined by the amount of exposure to noise in the workplace. The amount of such exposure is usually measured with a dosimeter which gives a readout in terms of "dose." In order to better understand the requirements of the regulation, dosimeter readings can be converted to an "8-hour TWA."
 B. In order to convert the reading of a dosimeter into TWA, see Table A-2, below. This table applies to dosimeters that are set by the manufacturer to calculate dose or percent exposure according to the relationships in Table A-1. So, for example, a dose of 91 percent over an eight-hour day results in a TWA of 89.3 dB, and a dose of 50 percent corresponds to a TWA of 85 dB.
 C. If the dose as read on the dosimeter is less than or greater than the values found in Table A-2, the TWA may be calculated by using the formula: TWA = 16.61 log10 (D/100) + 90 where TWA = 8-hour time-weighted average sound level and D = accumulated dose in percent exposure.
 Table A-2—Conversion From "Percent Noise Exposure" or "Dose" to "8-Hour Time-Weighted Average Sound Level" (TWA)
-Dose or percent noiseexposure | TWA
+Dose or percent noise exposure | TWA
 10 | 73.4
 15 | 76.3
 20 | 78.4
