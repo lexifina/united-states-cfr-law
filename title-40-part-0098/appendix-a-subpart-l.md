@@ -5,27 +5,23 @@
 (i) Where the measured quantity is a mass, the error in the mass must be equated to the accuracy or precision (whichever is larger) of the flowmeter, scale, or combination of volumetric and density measurements at the flow rate or mass measured.
 (ii) Where the measured quantity is a concentration of a stream component, the error of the concentration must be equated to the accuracy or precision (whichever is larger) with which you estimate the mean concentration of that stream component, accounting for the variability of the process, the frequency of the measurements, and the accuracy or precision (whichever is larger) of the analytical technique used to measure the concentration at the concentration measured. If the variability of process measurements is used to estimate the error, this variability shall be assumed to account both for the variability of the process and the precision of the analytical technique. Use standard statistical techniques such as the student's t distribution to estimate the error of the mean of the concentration measurements as a function of process variability and frequency of measurement.
 (iii) Equation L-1 of this section provides the general formula for calculating the absolute errors of sums and differences where the sum, S, is the summation of variables measured, a, b, c, etc. (e.g., S = a + b + c):
-ER11DE14.005
 Where:
 eSA = Absolute error of the sum, expressed as one half of a 95 percent confidence interval.
 ea = Relative error of a, expressed as one half of a 95 percent confidence interval.
 eb = Relative error of b, expressed as one half of a 95 percent confidence interval.
 ec = Relative error of c, expressed as one half of a 95 percent confidence interval.
 (iv) Equation L-2 of this section provides the general formula for calculating the relative errors of sums and differences:
-ER11DE14.006
 Where:
 eSR = Relative error of the sum, expressed as one half of a 95 percent confidence interval.
 eSA = Absolute error of the sum, expressed as one half of a 95 percent confidence interval.
 a + b + c = Sum of the variables measured.
 (v) Equation L-3 of this section provides the general formula for calculating the absolute errors of products (e.g., flow rates of GHGs calculated as the product of the flow rate of the stream and the concentration of the GHG in the stream), where the product, P, is the result of multiplying the variables measured, a, b, c, etc. (e.g., P = a*b*c):
-ER11DE14.007
 Where:
 ePA = Absolute error of the product, expressed as one half of a 95 percent confidence interval.
 ea = Relative error of a, expressed as one half of a 95 percent confidence interval.
 eb = Relative error of b, expressed as one half of a 95 percent confidence interval.
 ec = Relative error of c, expressed as one half of a 95 percent confidence interval.
 (vi) Equation L-4 of this section provides the general formula for calculating the relative errors of products:
-ER11DE14.008
 Where:
 ePR = Relative error of the product, expressed as one half of a 95 percent confidence interval.
 ePA = Absolute error of the product, expressed as one half of a 95 percent confidence interval.
@@ -33,7 +29,6 @@ a*b*c = Product of the variables measured.
 (vii) Calculate the absolute error of the emissions estimate in terms of CO2e by performing a preliminary estimate of the annual CO2e emissions of the process using the method in paragraph (b)(1)(viii) of this section. Multiply this result by the relative error calculated for the mass of fluorine emitted from the process in Equation L-6 of this section.
 (viii) To estimate the annual CO2e emissions of the process for use in the error estimate, apply the methods set forth in paragraphs (b)(2) through (7) and (b)(9) through (16) of this section to representative process measurements. If these process measurements represent less than one year of typical process activity, adjust the estimated emissions to account for one year of typical process activity. To estimate the terms FERd, FEP, and FEBk for use in the error estimate for Equations L-11, L-12, and L-13 of this section, you must either use emission testing, monitoring of emitted streams, and/or engineering calculations or assessments, or in the alternative assume that all fluorine is emitted in the form of the fluorinated GHG that has the highest GWP among the fluorinated GHGs that occur in more than trace concentrations in the process. To convert the fluorinated GHG emissions to CO2e, use Equation A-1 of § 98.2. For fluorinated GHGs whose GWPs are not listed in Table A-1 to subpart A of this part, use a default GWP of 2,000.
 (2) The total mass of each fluorinated GHG emitted annually from each fluorinated gas production and each fluorinated GHG transformation process must be estimated by using Equation L-5 of this section.
-ER11DE14.009
 Where:
 EFGHGf = Total mass of each fluorinated GHG f emitted annually from production or transformation process i (metric tons).
 ERp-FGHGf = Total mass of fluorinated GHG reactant f emitted from production process i over the period p (metric tons, calculated in Equation L-11 of this section).
@@ -41,7 +36,6 @@ EPp-FGHGf = Total mass of the fluorinated GHG product f emitted from production 
 EBp-FGHGf = Total mass of fluorinated GHG by-product f emitted from production process i over the period p (metric tons, calculated in Equation L-13 of this section).
 n = Number of concentration and flow measurement periods for the year.
 (3) The total mass of fluorine emitted from process i over the period p must be estimated at least monthly by calculating the difference between the total mass of fluorine in the reactant(s) (or inputs, for processes that do not involve a chemical reaction) and the total mass of fluorine in the product (or outputs, for processes that do not involve a chemical reaction), accounting for the total mass of fluorine in any destroyed or recaptured streams that contain reactants, products, or by-products (or inputs or outputs). This calculation must be performed using Equation L-6 of this section. An element other than fluorine may be used in the mass-balance equation, provided the element occurs in all of the fluorinated GHGs fed into or generated by the process. In this case, the mass fractions of the element in the reactants, products, and by-products must be calculated as appropriate for that element.
-ER11DE14.010
 Where:
 EF = Total mass of fluorine emitted from process i over the period p (metric tons).
 Rd = Total mass of the fluorine-containing reactant d that is fed into process i over the period p (metric tons).
@@ -51,7 +45,6 @@ MFFP = Mass fraction of fluorine in the product, calculated in Equation L-15 of 
 FD = Total mass of fluorine in destroyed or recaptured streams from process i containing fluorine-containing reactants, products, and by-products over the period p, calculated in Equation L-7 of this section.
 v = Number of fluorine-containing reactants fed into process i.
 (4) The mass of total fluorine in destroyed or recaptured streams containing fluorine-containing reactants, products, and by-products must be estimated at least monthly using Equation L-7 of this section unless you use the alternative approach provided in paragraph (b)(15) of this section.
-ER11DE14.011
 Where:
 FD = Total mass of fluorine in destroyed or recaptured streams from process i containing fluorine-containing reactants, products, and by-products over the period p.
 Pj = Mass of the fluorine-containing product removed from process i in stream j and destroyed over the period p (calculated in Equation L-8 or L-9 of this section).
@@ -66,20 +59,17 @@ x = Number of streams recaptured in process i.
 u = Number of fluorine-containing by-products generated in process i.
 v = Number of fluorine-containing reactants fed into process i.
 (5) The mass of each fluorinated GHG removed from process i in stream j and destroyed over the period p (i.e., Pj, Bkj, or Rdj, as applicable) must be estimated by applying the destruction efficiency (DE) of the device that has been demonstrated for the fluorinated GHG f to fluorinated GHG f using Equation L-8 of this section:
-ER11DE14.012
 Where:
 MFGHGfj = Mass of fluorinated GHG f removed from process i in stream j and destroyed over the period p. (This may be Pj, Bkj, or Rdj, as applicable.)
 DEFGHGf = Destruction efficiency of the device that has been demonstrated for fluorinated GHG f in stream j (fraction).
 CFGHGfj = Concentration (mass fraction) of fluorinated GHG f in stream j removed from process i and fed into the destruction device over the period p. If this concentration is only a trace concentration, cF-GHGfj is equal to zero.
 Sj = Mass removed in stream j from process i and fed into the destruction device over the period p (metric tons).
 (6) The mass of each fluorine-containing compound that is not a fluorinated GHG and that is removed from process i in stream j and destroyed over the period p (i.e., Pj, Bkj, or Rdj, as applicable) must be estimated using Equation L-9 of this section.
-ER11DE14.013
 Where:
 MFCgj = Mass of non-GHG fluorine-containing compound g removed from process i in stream j and destroyed over the period p. (This may be Pj, Bkj, or Rdj, as applicable).
 cFCgj = Concentration (mass fraction) of non-GHG fluorine-containing compound g in stream j removed from process i and fed into the destruction device over the period p. If this concentration is only a trace concentration, cFCgj is equal to zero.
 Sj = Mass removed in stream j from process i and fed into the destruction device over the period p (metric tons).
 (7) The mass of fluorine-containing by-product k removed from process i in stream l and recaptured over the period p must be estimated using Equation L-10 of this section:
-ER11DE14.014
 Where:
 Bkl = Mass of fluorine-containing by-product k removed from process i in stream l and recaptured over the period p (metric tons).
 cBkl = Concentration (mass fraction) of fluorine-containing by-product k in stream l removed from process i and recaptured over the period p. If this concentration is only a trace concentration, cBkl is equal to zero.
@@ -89,7 +79,6 @@ Sl = Mass removed in stream l from process i and recaptured over the period p (m
 (ii) For other vents, including vents from processes that emit less than 25,000 metric tons CO2e, you must characterize emissions as specified in § 98.124(b)(5).
 (iii) For fluorine emissions that are not accounted for by vent estimates, you must characterize emissions as specified in § 98.124(b)(6).
 (9) The total mass of fluorine-containing reactant d emitted must be estimated at least monthly based on the total fluorine emitted and the fraction that consists of fluorine-containing reactants using Equation L-11 of this section. If the fluorine-containing reactant d is a non-GHG, you may assume that FERd is zero.
-ER11DE14.015
 Where:
 ER-ip = Total mass of fluorine-containing reactant d that is emitted from process i over the period p (metric tons).
 FERd = The fraction of the mass emitted that consists of the fluorine-containing reactant d.
@@ -102,7 +91,6 @@ MFFBk = Mass fraction of fluorine in by-product k, calculation in Equation L-16 
 u = Number of fluorine-containing by-products generated in process i.
 v = Number of fluorine-containing reactants fed into process i.
 (10) The total mass of fluorine-containing product emitted must be estimated at least monthly based on the total fluorine emitted and the fraction that consists of fluorine-containing products using Equation L-12 of this section. If the fluorine-containing product is a non-GHG, you may assume that FEP is zero.
-ER11DE14.016
 Where:
 EP-ip = Total mass of fluorine-containing product emitted from process i over the period p (metric tons).
 FEP = The fraction of the mass emitted that consists of the fluorine-containing product.
@@ -115,7 +103,6 @@ MFFBk = Mass fraction of fluorine in by-product k, calculation in Equation L-16 
 u = Number of fluorine-containing by-products generated in process i.
 v = Number of fluorine-containing reactants fed into process i.
 (11) The total mass of fluorine-containing by-product k emitted must be estimated at least monthly based on the total fluorine emitted and the fraction that consists of fluorine-containing by-products using Equation L-13 of this section. If fluorine-containing by-product k is a non-GHG, you may assume that FEBk is zero.
-ER11DE14.017
 Where:
 EBk-ip = Total mass of fluorine-containing by-product k emitted from process i over the period p (metric tons).
 FEBk = The fraction of the mass emitted that consists of fluorine-containing by-product k.
@@ -128,28 +115,24 @@ MFFBk = Mass fraction of fluorine in by-product k, calculation in Equation L-16 
 u = Number of fluorine-containing by-products generated in process i.
 v = Number of fluorine-containing reactants fed into process i.
 (12) The mass fraction of fluorine in reactant d must be estimated using Equation L-14 of this section:
-ER11DE14.018
 Where:
 MFFRd = Mass fraction of fluorine in reactant d (fraction).
 MFRd = Moles fluorine per mole of reactant d.
 AWF = Atomic weight of fluorine.
 MWRd = Molecular weight of reactant d.
 (13) The mass fraction of fluorine in the product must be estimated using Equation L-15 of this section:
-ER11DE14.019
 Where:
 MFFP = Mass fraction of fluorine in the product (fraction).
 MFP = Moles fluorine per mole of product.
 AWF = Atomic weight of fluorine.
 MWP = Molecular weight of the product produced.
 (14) The mass fraction of fluorine in by-product k must be estimated using Equation L-16 of this section:
-ER11DE14.020
 Where:
 MFFBk = Mass fraction of fluorine in the product (fraction).
 MFBk = Moles fluorine per mole of by-product k.
 AWF = Atomic weight of fluorine.
 MWBk = Molecular weight of by-product k.
 (15) Alternative for determining the mass of fluorine destroyed or recaptured. As an alternative to using Equation L-7 of this section as provided in paragraph (b)(4) of this section, you may estimate at least monthly the total mass of fluorine in destroyed or recaptured streams containing fluorine-containing compounds (including all fluorine-containing reactants, products, and byproducts) using Equation L-17 of this section.
-ER11DE14.021
 Where:
 FD = Total mass of fluorine in destroyed or recaptured streams from process i containing fluorine-containing reactants, products, and by-products over the period p.
 DEavgj = Weighted average destruction efficiency of the destruction device for the fluorine-containing compounds identified in destroyed stream j under § 98.124(b)(4)(ii) and (5)(ii) (calculated in Equation L-18 of this section)(fraction).
@@ -160,7 +143,6 @@ Sl = Mass removed in stream l from process i and recaptured over the period p.
 q = Number of streams destroyed in process i.
 x = Number of streams recaptured in process i.
 (16) Weighted average destruction efficiency. For purposes of Equation L-17 of this section, calculate the weighted average destruction efficiency applicable to a destroyed stream using Equation L-18 of this section.
-ER11DE14.022
 Where:
 DEavgj = Weighted average destruction efficiency of the destruction device for the fluorine-containing compounds identified in destroyed stream j under 98.124(b)(4)(ii) or (b)(5)(ii), as appropriate.
 DEFGHGf = Destruction efficiency of the device that has been demonstrated for fluorinated GHG f in stream j (fraction).
@@ -186,7 +168,7 @@ y = Number of non-GHG fluorine-containing compounds in destroyed stream j.
 (3) Concentration measurements for use with § 98.123(b)(15). If you use § 98.123(b)(15) to estimate the mass of fluorine in destroyed or recaptured streams, measure the concentrations listed in paragraphs (b)(3)(i) and (ii) of this section at least once each calendar month during which the process is operating, on a schedule to ensure that the measurements are representative of the full range of process conditions (e.g., catalyst age). Measure more frequently if this is necessary to meet the error criteria in § 98.123(b)(1). Use equipment and methods (e.g., gas chromatography) that comply with paragraph (e) of this section and that have an accuracy and precision that allow the facility to meet the error criteria in § 98.123(b)(1). Only fluorine-containing reactants, products, and by-products that occur in a stream in greater than trace concentrations must be monitored under this paragraph.
 (i) The concentration (mass fraction) of total fluorine in each stream that is fed into the destruction device.
 (ii) The concentration (mass fraction) of total fluorine in each stream that is recaptured.
-(4) Emissions characterization: process vents emitting 25,000 metric tons CO 2 e or more. To characterize emissions from any process vent emitting 25,000 metric tons CO2e or more, comply with paragraphs (b)(4)(i) through (b)(4)(v) of this section, as appropriate. Only fluorine-containing reactants, products, and by-products that occur in a stream in greater than trace concentrations must be monitored under this paragraph.
+(4) Emissions characterization: process vents emitting 25,000 metric tons CO2e or more. To characterize emissions from any process vent emitting 25,000 metric tons CO2e or more, comply with paragraphs (b)(4)(i) through (b)(4)(v) of this section, as appropriate. Only fluorine-containing reactants, products, and by-products that occur in a stream in greater than trace concentrations must be monitored under this paragraph.
 (i) Uncontrolled emissions. If emissions from the process vent are not routed through a destruction device, sample and analyze emissions at the process vent or stack or sample and analyze emitted streams before the process vent. If the process has more than one operating scenario, you must either perform the emission characterization for each operating scenario or perform the emission characterization for the operating scenario that is expected to have the largest emissions and adjust the emission characterization for other scenarios using engineering calculations and assessments as specified in § 98.123(c)(4). To perform the characterization, take three samples under conditions that are representative for the operating scenario. Measure the concentration of each fluorine-containing compound in each sample. Use equipment and methods that comply with paragraph (e) of this section. Calculate the average concentration of each fluorine-containing compound across all three samples.
 (ii) Controlled emissions using § 98.123(b)(15). If you use § 98.123(b)(15) to estimate the total mass of fluorine in destroyed or recaptured streams, and if the emissions from the process vent are routed through a destruction device, characterize emissions as specified in paragraph (b)(4)(i) of this section before the destruction device. Apply the destruction efficiency demonstrated for each fluorinated GHG in the destroyed stream to that fluorinated GHG. Exclude from the characterization fluorine-containing compounds that are not fluorinated GHGs.
 (iii) Controlled emissions using § 98.123(b)(4). If you use § 98.123(b)(4) to estimate the mass of fluorine in destroyed or recaptured streams, and if the emissions from the process vent are routed through a destruction device, characterize the process vent's emissions monthly (or more frequently) using the monthly (or more frequent) measurements under paragraphs (b)(1)(iii) and (b)(2)(i) through (iii) of this section. Apply the destruction efficiency demonstrated for each fluorinated GHG in the destroyed stream to that fluorinated GHG. Exclude from the characterization fluorine-containing compounds that are not fluorinated GHGs.
@@ -194,7 +176,7 @@ y = Number of non-GHG fluorine-containing compounds in destroyed stream j.
 (A) 10-year revision. Repeat the emission characterization every 10 years. In the calculations under § 98.123, apply the revised emission characterization to the process activity that occurs after the revision.
 (B) Operating scenario change that affects the emission characterization. For planned operating scenario changes, you must estimate and compare the emission calculation factors for the changed operating scenario and for the original operating scenario whose process vent specific emission factor was measured. Use the engineering calculations and assessments specified in § 98.123(c)(4). If the share of total fluorine-containing compound emissions represented by any fluorinated GHG changes under the changed operating scenario by 15 percent or more of the total, relative to the previous operating scenario (this includes the cumulative change in the emission calculation factor since the last emissions test), you must repeat the emission characterization. Perform the emission characterization before February 28 of the year that immediately follows the change. In the calculations under § 98.123, apply the revised emission characterization to the process activity that occurs after the operating scenario change.
 (v) Subsequent measurements. If a process vent with fluorinated GHG emissions less than 25,000 metric tons CO2e, per § 98.123(c)(2), is later found to have fluorinated GHG emissions of 25,000 metric tons CO2e or greater, you must perform an emission characterization under this paragraph during the following year.
-(5) Emissions characterization: Process vents emitting less than 25,000 metric tons CO 2 e. To characterize emissions from any process vent emitting less than 25,000 metric tons CO2e, comply with paragraphs (b)(5)(i) through (iii) of this section, as appropriate. Only fluorine-containing reactants, products, and by-products that occur in a stream in greater than trace concentrations must be monitored under this paragraph.
+(5) Emissions characterization: Process vents emitting less than 25,000 metric tons CO2e. To characterize emissions from any process vent emitting less than 25,000 metric tons CO2e, comply with paragraphs (b)(5)(i) through (iii) of this section, as appropriate. Only fluorine-containing reactants, products, and by-products that occur in a stream in greater than trace concentrations must be monitored under this paragraph.
 (i) Uncontrolled emissions. If emissions from the process vent are not routed through a destruction device, emission measurements must consist of sampling and analysis of emissions at the process vent or stack, sampling and analysis of emitted streams before the process vent, previous test results, provided the tests are representative of current operating conditions of the process, or bench-scale or pilot-scale test data representative of the process operating conditions.
 (ii) Controlled emissions using § 98.123(b)(15). If you use § 98.123(b)(15) to estimate the total mass of fluorine in destroyed or recaptured streams, and if the emissions from the process vent are routed through a destruction device, characterize emissions as specified in paragraph (b)(5)(i) of this section before the destruction device. Apply the destruction efficiency demonstrated for each fluorinated GHG in the destroyed stream to that fluorinated GHG. Exclude from the characterization fluorine-containing compounds that are not fluorinated GHGs.
 (iii) Controlled emissions using § 98.123(b)(4). If you use § 98.123(b)(4) to estimate the mass of fluorine in destroyed or recaptured streams, and if the emissions from the process vent are routed through a destruction device, characterize the process vent's emissions monthly (or more frequently) using the monthly (or more frequent) measurements under paragraphs (b)(1)(iii) and (b)(2)(i) through (iii) of this section. Apply the destruction efficiency demonstrated for each fluorinated GHG in the destroyed stream to that fluorinated GHG. Exclude from the characterization fluorine-containing compounds that are not fluorinated GHGs.
