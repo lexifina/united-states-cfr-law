@@ -1,18 +1,16 @@
 # Appendix B to Part 33—Certification Standard Atmospheric Concentrations of Rain and Hail
 Figure B1, Table B1, Table B2, Table B3, and Table B4 specify the atmospheric concentrations and size distributions of rain and hail for establishing certification, in accordance with the requirements of § 33.78(a)(2). In conducting tests, normally by spraying liquid water to simulate rain conditions and by delivering hail fabricated from ice to simulate hail conditions, the use of water droplets and hail having shapes, sizes and distributions of sizes other than those defined in this appendix B, or the use of a single size or shape for each water droplet or hail, can be accepted, provided that applicant shows that the substitution does not reduce the severity of the test.
-ER26MR98.000
 Table B1—Certification Standard Atmospheric Rain Concentrations
-Altitude (feet) | Rain water content (RWC)(grams water/meter 3 air)
+Altitude (feet) | Rain water content (RWC) (grams water/meter 3 air)
 0 | 20.0
 20,000 | 20.0
 26,300 | 15.2
 32,700 | 10.8
 39,300 | 7.7
 46,000 | 5.2
-RWC values at other altitudes may be determined by linear interpolation.
-Note: Source of data—Results of the Aerospace Industries Association (AIA) Propulsion Committee Study, Project PC 338-1, June 1990.
+RWC values at other altitudes may be determined by linear interpolation. Note: Source of data—Results of the Aerospace Industries Association (AIA) Propulsion Committee Study, Project PC 338-1, June 1990.
 Table B2—Certification Standard Atmospheric Hail Concentrations
-Altitude (feet) | Hail water content (HWC)(grams water/meter 3 air)
+Altitude (feet) | Hail water content (HWC) (grams water/meter 3 air)
 0 | 6.0
 7,300 | 8.9
 8,500 | 9.4
@@ -26,8 +24,7 @@ Altitude (feet) | Hail water content (HWC)(grams water/meter 3 air)
 24,300 | 4.4
 29,000 | 3.3
 46,000 | 0.2
-HWC values at other altitudes may be determined by linear interpolation. The hail threat below 7,300 feet and above 29,000 feet is based on linearly extrapolated data.
-Note: Source of data—Results of the Aerospace Industries Association (AIA Propulsion Committee (PC) Study, Project PC 338-1, June 1990.
+HWC values at other altitudes may be determined by linear interpolation. The hail threat below 7,300 feet and above 29,000 feet is based on linearly extrapolated data. Note: Source of data—Results of the Aerospace Industries Association (AIA Propulsion Committee (PC) Study, Project PC 338-1, June 1990.
 Table B3—Certification Standard Atmospheric Rain Droplet Size Distribution
 Rain droplet diameter (mm) | Contribution total RWC (%)
 0-0.49 | 0
@@ -45,8 +42,7 @@ Rain droplet diameter (mm) | Contribution total RWC (%)
 6.00-6.49 | 0.50
 6.50-7.00 | 0.25
 Total | 100.00
-Median diameter of rain droplets in 2.66 mm
-Note: Source of data—Results of the Aerospace Industries Association (AIA Propulsion Committee (PC) Study, Project PC 338-1, June 1990.
+Median diameter of rain droplets in 2.66 mm Note: Source of data—Results of the Aerospace Industries Association (AIA Propulsion Committee (PC) Study, Project PC 338-1, June 1990.
 Table B4—Certification Standard Atmospheric Hail Size Distribution
 Hail diameter (mm) | Contribution total HWC (%)
 0-4.9 | 0
@@ -61,5 +57,4 @@ Hail diameter (mm) | Contribution total HWC (%)
 45.0-49.9 | 0.75
 50.0-55.0 | 0.25
 Total | 100.00
-Median diameter of hail is 16 mm
-Note: Source of data—Results of the Aerospace Industries Association (AIA Propulsion Committee (PC) Study, Project PC 338-1, June 1990.
+Median diameter of hail is 16 mm Note: Source of data—Results of the Aerospace Industries Association (AIA Propulsion Committee (PC) Study, Project PC 338-1, June 1990.
