@@ -326,15 +326,16 @@ a. Disturbances. Significant fault (±1 scale division); and
 b. Influence Factors. See Table 1 in section 4.2.1.2.
 4.2.1.2 Increasing and Decreasing Load and Shift Tests. Increasing and decreasing load and shift tests conducted in a laboratory or on a scale installed on a vessel while the vessel is tied up at a dock and is not under power at sea, see Table 1 as follows:
 Table 1—Influence Factors
-Test load in scale divisions (d) | Class III 1 | Class IIII | Maximum permissible error (d)
-0 <m2 ≤500 | 0 <m ≤50 | 0.5
+Test load in scale divisions (d) | Maximum permissible error (d)
+Class III 1 | Class IIII
+0 <m 2 ≤500 | 0 <m ≤50 | 0.5
 500 <m ≤2000 | 50 <m ≤200 | 1.0
 2000 <m | 200 <m | 1.5
-1 Scale accuracy classes are defined in section 4.2.2, table 2.
-2 Mass or weight of the test load in scale divisions.
+1 Scale accuracy classes are defined in section 4.2.2, table 2. 2 Mass or weight of the test load in scale divisions.
 4.2.2 Accuracy Classes. Scales are divided into two accuracy classes, class III and class IIII. The accuracy class of a scale is designated by the manufacturer. The design of each accuracy class with respect to number of scale divisions (n) and the value of the scale division (d) is specified according to table 2:
 Table 2—Accuracy Classes
-Accuracy class | Value of scale division (d) | Number of scale divisions (n) | Minimum | Maximum
+Accuracy class | Value of scale division (d) | Number of scale divisions (n)
+Minimum | Maximum
 III | 5 g or greater | 500 | 10,000
 IIII | 5 g or greater | 100 | 1,000
 4.2.3 Minimum Load: For a Class III scale, 20d; for a Class IIII scale, 10d.
