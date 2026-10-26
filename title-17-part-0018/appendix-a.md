@@ -1,6 +1,5 @@
 # Appendix A to Part 18—Form 40
 Note: This Appendix is a representation of the final reporting form, which will be submitted in an electronic format pursuant to the rules in part 18, either via the Commission's web portal or via XML-based, secure FTP transmission.
-ER18NO13.030
 General Instructions
 Who Must File a Form 40—17 CFR 18.04(a) requires every person who owns or controls a reportable position to file a Form 40—Statement of Reporting Trader with the Commission. 17 CFR 18.04(b) requires every volume threshold account controller, person who owns a volume threshold account, reportable sub-account controller, and person who owns a reportable sub-account to file a Form 40—Statement of Reporting Trader with the Commission. 17 CFR 20.5 requires every person subject to books or records under 17 CFR 20.6 to file a 40S filing 3 with the Commission.
 When to file—A reporting trader must file a Form 40 on call by the Commission or its designee.
@@ -252,12 +251,12 @@ Signature/Authentication, Name, and Date
 Signature/Electronic Authentication:
 By checking this box and submitting this form (or by clicking "submit," "send," or any other analogous transmission command if transmitting electronically), I certify that I am duly authorized by the reporting trader identified below to provide the information and representations submitted on this Form 40, and that the information and representations are true and correct.
 Reporting Trader Authorized Representative (Name and Position):
-__________ (Name)
-__________ (Position)
+____________________ (Name)
+____________________ (Position)
 Submitted on behalf of:
-_____ (Reporting Trader Name)
+__________ (Reporting Trader Name)
 Date of Submission:
-__________
+____________________
 Supplemental List I: List of Business Sectors and Subsectors
 Business Sector
 Subsector
