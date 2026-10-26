@@ -1,7 +1,0 @@
-# Table 1 to Subpart TTTT a of Part 60—CO 2 Emission Standards for Affected Stationary Combustion Turbines That Commenced Construction or Reconstruction After May 23, 2023 (Gross or Net Energy Output-Based Standards Applicable as Approved by the Administrator)
-[Note: Numerical values of 1,000 or greater have a minimum of 3 significant figures and numerical values of less than 1,000 have a minimum of 2 significant figures]
-Affected EGU category | CO 2 emission standard
-Base load combustion turbines | For 12-operating month averages beginning before January 2032, 360 to 560 kg CO 2 /MWh (800 to 1,250 lb CO 2 /MWh) of gross energy output; or 370 to 570 kg CO 2 /MWh (820 to 1,280 lb CO 2 /MWh) of net energy output as determined by the procedures in § 60.5525a.
-| For 12-operating month averages beginning after December 2031, 43 to 67 kg CO 2 /MWh (100 to 150 lb CO 2 /MWh) of gross energy output; or 42 to 64 kg CO 2 /MWh (97 to 139 lb CO 2 /MWh) of net energy output as determined by the procedures in § 60.5525a.
-Intermediate load combustion turbines | 530 to 710 kg CO 2 /MWh (1,170 to 1,560 lb CO 2 /MWh) of gross energy output; or 540 to 700 kg CO 2 /MWh (1,190 to 1,590 lb CO 2 /MWh) of net energy output as determined by the procedures in § 60.5525a.
-Low load combustion turbines | Between 50 to 69 kg CO 2 /GJ (120 to 160 lb CO 2 /MMBtu) of heat input as determined by the procedures in § 60.5525a.
