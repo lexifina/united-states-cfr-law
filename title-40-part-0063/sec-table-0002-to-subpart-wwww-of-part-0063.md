@@ -1,9 +1,0 @@
-# Table 2 to Subpart WWWW of Part 63—Compliance Dates for New and Existing Reinforced Plastic Composites Facilities
-As required in §§ 63.5800 and 63.5840 you must demonstrate compliance with the standards by the dates in the following table:
-If your facility is... | And... | Then you must comply by this date...
-1. An existing source | a. Is a major source on or before the publication date of this subpart | April 21, 2006.
-2. An existing source that is an area source | Becomes a major source after the publication date of this subpart | 3 years after becoming a major source or April 21, 2006, whichever is later.
-3. An existing source, and emits less than 100 tpy of organic HAP from the combination of all centrifugal casting and continuous lamination/casting operations at the time of initial compliance with this subpart | Subsequently increases its actual organic HAP emissions to 100 tpy or more from these operations, which requires that the facility must now comply with the standards in § 63.5805(b) | 3 years of the date your semi-annual compliance report indicates your facility meets or exceeds the 100 tpy threshold.
-4. A new source | Is a major source at startup | Upon startup or April 21, 2003, whichever is later.
-5. A new source | Is an area source at startup and becomes a major source | Immediately upon becoming a major source.
-6. A new source, and emits less than 100 tpy of organic HAP from the combination of all open molding, centrifugal casting, continuous lamination/casting, pultrusion, SMC and BMC manufacturing, and mixing operations at the time of initial compliance with this subpart | Subsequently increases its actual organic HAP emissions to 100 tpy or more from the combination of these operations, which requires that the facility must now meet the standards in § 63.5805(d) | 3 years from the date that your semi-annual compliance report indicates your facility meets or exceeds the 100 tpy threshold.

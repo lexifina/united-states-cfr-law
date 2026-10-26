@@ -95,7 +95,7 @@ Mid-level standard = 0.20 ppmv
 High-level standard = 0.32 ppmv
 Span value = 0.40 ppmv
 12.2 Estimate Tracer Gas Injection Rate for the Given Span. To estimate the minimum and maximum tracer gas injection rate, assume a worst case capture efficiency of 80 percent, and calculate the tracer gas flow rate based on known or measured parameters. To estimate the minimum tracer gas injection rate, assume that the MML concentration (10 times the IR detection limit in this example) is desired at the measurement location. The following equation can be used to estimate the minimum tracer gas injection rate:
-((QT-MIN × 0.8)/QE) × (CT ÷ 100) × 106 = MML
+((QT-MIN × 0.8)/QE) × (CT ÷ 100) × 10 6 = MML
 QT-MIN = 1.25 × MML × (QE/CT) × 10−4
 Where:
 QT-MIN = minimum volumetric flow rate of tracer gas injected, standard cubic feet per minute (scfm);
@@ -105,7 +105,7 @@ MML = minimum measured level, ppmv = 10 × IRDL (for this example);
 IRDL = IR detection limit, ppmv.
 Standard conditions: 20 °C, 760 millimeters of mercury (mm Hg).
 To estimate the maximum tracer gas injection rate, assume that the span value is desired at the measurement location. The following equation can be used to estimate the maximum tracer gas injection rate:
-((QT-MAX × 0.8)/QE) × (CT ÷ 100) × 106 = span value
+((QT-MAX × 0.8)/QE) × (CT ÷ 100) × 10 6 = span value
 QT-MAX = 1.25 × span value × (QE/CT) × 10−4
 Where:
 QT-MAX = maximum volumetric flow rate of tracer gas injected, scfm;
@@ -170,8 +170,6 @@ Table 1 to Appendix A—Summary of Critical Physical Measurements for Enclosure 
 Measurement | Measurement instrumentation | Measurement frequency | Measurement site
 Tracer gas injection rate | Mass flow meter, volumetric flow meter or critical orifice | Continuous | Injection manifolds (cylinder gas).
 Tracer gas concentration at control device inlet | Infrared Spectrometer or GC/ECD | Continuous (at least one reading per minute) for a minimum of 20 minutes | Inlet duct to the control device (outlet duct of enclosure).
-Volumetric air flow rate | EPA Methods 1, 2, 3, 4 (40 CFR part 60, appendix A)• Velocity sensor (Manometer/Pitot tube) • Thermocouple | Each test run for velocity (minimum); Daily for moisture and molecular weight | Inlet duct to the control device (outlet duct of enclosure).
-| • Midget Impinger sampler
-| • Orsat or Fyrite
-ER72AD04.008
-ER72AD04.009
+Volumetric air flow rate | EPA Methods 1, 2, 3, 4 (40 CFR part 60, appendix A) • Velocity sensor (Manometer/Pitot tube) • Thermocouple | Each test run for velocity (minimum); Daily for moisture and molecular weight | Inlet duct to the control device (outlet duct of enclosure).
+| • Midget Impinger sampler | |
+| • Orsat or Fyrite | |

@@ -27,7 +27,7 @@ Formaldehyde will react with sodium sulfite to form the sulfite addition product
 2.3.3 Add 10-15 drops of thymolphthalein indicator to the chilled solution. If the solution remains clear, add 0.1 N NaOH until the solution turns blue; then add 0.1 N HCl back to the colorless endpoint. If the solution turns blue upon adding the indicator, add 0.1 N HCl to the colorless endpoint.
 2.3.4 On the analytical balance, accurately weigh the amount of resin indicated under the "Resin Sample Size" chart (see below) as follows.
 Resin Sample Size
-Approximate free HCHO(percent) | Sample weight(gram(s))
+Approximate free HCHO (percent) | Sample weight (gram(s))
 <0.5 | 10
 0.5-1.0 | 5
 1.0-3.0 | 2
@@ -41,7 +41,6 @@ Approximate free HCHO(percent) | Sample weight(gram(s))
 2.3.6 Repeat the test in triplicate.
 2.4 Calculation.
 2.4.1 The percent free-formaldehyde (%HCHO) is calculated as follows:
-ER11AP02.024
 2.4.2 Compute the average percent free-formaldehyde of the three tests.
 (Note: If the results of the three tests are not within a range of ±0.5 percent or if the average of the three tests does not meet expected limits, carry out Part B and then repeat Part A.)
 3.0 Part B—Standard Check
@@ -81,7 +80,6 @@ Note: All reagents must be American Chemical Society analytical reagent grade or
 3.5.1.3 To the stirring Na2SO3 solution, pipette in 10.0 mL of Formaldehyde Standard Solution. The pH should rise sharply to about 12.
 3.5.1.4 Using the pH meter as a continuous monitor, titrate the solution back to the original exact pH using 0.100 N HCl. Record the milliliters of HCl used as titrant. (Note: Approximately 30 to 35 mL of HCl will be required.)
 3.5.1.5 Calculate the concentration of the Formaldehyde Standard Solution using the equation as follows:
-ER11AP02.025
 3.6 Procedure.
 3.6.1 Prepare a sufficient quantity of crushed ice for three determinations (two trays of cubes).
 3.6.2 Put 70 cc of 1 M Na2SO3 solution into a 400-mL beaker. Begin stirring and add approximately 100 g of crushed ice and 2 g NaCl. Maintain 0 °C during the test, adding ice as necessary.
@@ -96,7 +94,6 @@ ER11AP02.025
 3.6.6 Repeat the test in triplicate.
 3.7 Calculation for Formaldehyde Standard Solution.
 3.7.1 The percent free-formaldehyde (% HCHO) is calculated as follows:
-ER11AP02.026
 3.7.2 The range of the results of three tests should be no more than ±5 percent of the actual Formaldehyde Standard Solution concentration. Report results to two decimal places.
 3.8 Reference.
 West Coast Adhesive Manufacturers Trade Association Test 10.1.

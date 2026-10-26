@@ -24,7 +24,6 @@
 3.4 Determine the mass fraction of total volatile hydrocarbon (TVHi) in each coating, thinner, additive, or cleaning material, i, used during each test run using Method 24. The mass fraction of total volatile hydrocarbon equals the weight fraction volatile matter (Wv in Method 24) minus the weight fraction water (Ww in Method 24), if any, present in the coating. The ASTM Method D6053-00, "Standard Test Method for Determination of Volatile Organic Compound (VOC) Content of Electrical Insulating Varnishes" (incorporated by reference, see § 63.14), may be used as an alternative to Method 24 for magnet wire enamels. The specimen size for testing magnet wire enamels with ASTM Method D6053-00 must be 2.0 ±0.1 grams.
 3.5 Determine the volume (VOLi) or mass (MASSi) of each coating, thinner, additive, or cleaning material, i, used during each test run.
 3.6 Calculate the total volatile hydrocarbon input (TVHCinlet) to the control device during each test run, as carbon, using Equation 1:
-ER02JA04.028
 where:
 TVHi = Mass fraction of TVH in coating, thinner, additive, or cleaning material, i, used in the coating operation during the test run.
 VOLi = Volume of coating, thinner, additive, or cleaning material, i, used in the coating operation during the test run, liters.
@@ -34,7 +33,6 @@ n = Number of coating, thinner, additive, and cleaning materials used in the coa
 3.7 If the mass, MASSi, of each coating, solvent, additive, or cleaning material, i, used during the test run is measured directly then MASSi can be substituted for VOLi × Di in Equation 1 in section 3.6.
 3.8 Determine the TVHC output (TVHCoutlet) from the control device, as carbon, during each test run using the methods in § 63.3966(a) and the procedure for determining Mfo in § 63.3966(d). TVHCoutlet equals Mfo times the length of the test run in hours.
 3.9 Determine the control device efficiency (DRE) for each test run using Equation 2:
-ER02JA04.029
 3.10 The efficiency of the control device is the average of the three individual test run values determined in section 3.9.
 3.11 As an alternative to establishing and monitoring the destruction efficiency operating parameters for catalytic oxidizers in § 63.3967(b), the monitoring described in sections 3.12 and 3.13 may be used for magnet wire coating machines equipped with catalytic oxidizers.
 3.12 During the performance test, you must monitor and record the temperature either just before or just after the catalyst bed at least once every 15 minutes during each of the three test runs. Use the data collected during the performance test to calculate and record the average temperature either just before or just after the catalyst bed during the performance test. This is the minimum operating limit for your catalytic oxidizer and for the catalytic oxidizers in identical or very similar magnet wire coating machines represented by the tested magnet wire coating machine.

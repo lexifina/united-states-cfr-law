@@ -18,6 +18,5 @@ S = theoretical mass of compound spiked into spiked sample (µ g).
 In order for the chosen method to be acceptable for a compound, 0.70≤R≤1.30 (R in this case is an average value of all the spiked and unspiked sample set R values). If the average R value does not meet this criterion for a target compound, the chosen method is not acceptable for that compound, and therefore another method shall be evaluated for acceptance (by repeating the procedures outlined above with another method).
 3.2. Records and Reports
 Report the average R value in the test report and correct all reported measurements made with the method with the calculated R value for that compound by using the following equation:
-ER01JY96.048
 3.3. Optional Correction Step
 If the applicable regulation allows for correction of the mass of the compound in the waste by a published fm value, multiply the reported result calculated above with the appropriate fm value for that compound.

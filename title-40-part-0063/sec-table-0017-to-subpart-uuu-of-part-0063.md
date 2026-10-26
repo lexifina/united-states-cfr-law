@@ -1,5 +1,0 @@
-# Table 17 to Subpart UUU of Part 63—Continuous Monitoring Systems for Organic HAP Emissions From Catalytic Reforming Units
-As stated in § 63.1566(b)(1), you shall meet each requirement in the following table that applies to you.
-For each applicable process vent for a new or existing catalytic reforming unit... | If you use this type of control device... | You shall install and operate this type of continuous monitoring system...
-1. Option 1: Vent to a flare | Flare | On and after January 30, 2019, the monitoring systems required in §§ 63.670 and 63.671. Prior to January 30, 2019, monitoring device such as a thermocouple, an ultraviolet beam sensor, or infrared sensor to continuously detect the presence of a pilot flame, or the monitoring systems required in §§ 63.670 and 63.671.
-2. Option 2: percent reduction or concentration limit. | Thermal incinerator, process heater or boiler with a design heat input capacity under 44 MW, or process heater or boiler in which all vent streams are not introduced into the flame zone | Continuous parameter monitoring systems to measure and record the combustion zone temperature.

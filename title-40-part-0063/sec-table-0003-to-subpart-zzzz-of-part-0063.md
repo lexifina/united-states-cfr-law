@@ -1,9 +1,0 @@
-# Table 3 to Subpart ZZZZ of Part 63—Subsequent Performance Tests
-As stated in §§ 63.6615 and 63.6620, you must comply with the following subsequent performance test requirements:
-For each... | Complying with the requirement to... | You must...
-1. New or reconstructed 2SLB stationary RICE >500 HP located at major sources; new or reconstructed 4SLB stationary RICE ≥250 HP located at major sources; and new or reconstructed CI stationary RICE >500 HP located at major sources | Reduce CO emissions and not using a CEMS | Conduct subsequent performance tests semiannually.1
-2. 4SRB stationary RICE ≥5,000 HP located at major sources | Reduce formaldehyde emissions | Conduct subsequent performance tests semiannually.1
-3. Stationary RICE >500 HP located at major sources and new or reconstructed 4SLB stationary RICE 250≤HP≤500 located at major sources | Limit the concentration of formaldehyde in the stationary RICE exhaust | Conduct subsequent performance tests semiannually.1
-4. Existing non-emergency, non-black start CI stationary RICE >500 HP that are not limited use stationary RICE | Limit or reduce CO emissions and not using a CEMS | Conduct subsequent performance tests every 8,760 hours or 3 years, whichever comes first.
-5. Existing non-emergency, non-black start CI stationary RICE >500 HP that are limited use stationary RICE | Limit or reduce CO emissions and not using a CEMS | Conduct subsequent performance tests every 8,760 hours or 5 years, whichever comes first.
-1 After you have demonstrated compliance for two consecutive tests, you may reduce the frequency of subsequent performance tests to annually. If the results of any subsequent annual performance test indicate the stationary RICE is not in compliance with the CO or formaldehyde emission limitation, or you deviate from any of your operating limitations, you must resume semiannual performance tests.

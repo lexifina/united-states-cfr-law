@@ -45,23 +45,23 @@ Standard laboratory safety procedures should be used when conducting this test. 
 6. Equipment and Supplies
 Note: Mention of trade names or specific products or suppliers does not constitute an endorsement by the Environmental Protection Agency.
 6.1 Required Equipment.
-6.1.1 Balance enclosure.1
-6.1.2 Two (2) laboratory balances—accurate to ±0.01g.2
-6.1.3 Stop watch or balance data recording output to data logger with accuracy ±1 second.3
-6.1.4 Thermometer—accurate to ±2.0 °F(±1.0 °C).4
-6.1.5 A lipped pan large enough to hold the cut glass without coming into contact with the vertical sides, e.g. a pizza pan.5
-6.1.6 Mylar film sufficient to cover the bottom of the pan.6
-6.1.7 Tape to keep the Mylar from shifting in the bottom of the pan.7
-6.1.8 Plastic tri-corner beakers of equivalent—250 ml to 400 ml capacity.8
-6.1.9 Eye dropper or pipette.9
-6.1.10 Disposable resin application roller, 3/16″-3/4″ diameter × 3″-6″ roller length.10
+6.1.1 Balance enclosure. 1
+6.1.2 Two (2) laboratory balances—accurate to ±0.01g. 2
+6.1.3 Stop watch or balance data recording output to data logger with accuracy ±1 second. 3
+6.1.4 Thermometer—accurate to ±2.0 °F(±1.0 °C). 4
+6.1.5 A lipped pan large enough to hold the cut glass without coming into contact with the vertical sides, e.g. a pizza pan. 5
+6.1.6 Mylar film sufficient to cover the bottom of the pan. 6
+6.1.7 Tape to keep the Mylar from shifting in the bottom of the pan. 7
+6.1.8 Plastic tri-corner beakers of equivalent—250 ml to 400 ml capacity. 8
+6.1.9 Eye dropper or pipette. 9
+6.1.10 Disposable resin application roller, 3/16″- 3/4″ diameter × 3″-6″ roller length. 10
 6.1.11 Hygrometer or psychrometer 11 accurate to ±5 percent
-6.1.12 Insulating board, (Teflon, cardboard, foam board etc.) to prevent the balance from becoming a heat sink.12
+6.1.12 Insulating board, (Teflon, cardboard, foam board etc.) to prevent the balance from becoming a heat sink. 12
 6.2 Optional Equipment.
 6.2.1 Laboratory balance—accurate to ±.01g with digital output, such as an RS-232 bi-directional interface 13 for use with automatic data recording devices.
 6.2.2 Computer with recording software configured to link to balance digital output. Must be programmed to record data at the minimum intervals required for manual data acquisition.
 6.3 Supplies.
-6.3.1 Chopped strand mat—1.5 oz/ft.2 14
+6.3.1 Chopped strand mat—1.5 oz/ft. 2 14
 7. Reagents and Standards
 7.1 Initiator. The initiator type, brand, and concentration will be specified by resin manufacturer, or as required by production operation.
 7.2 Polyester or vinyl ester resin.
@@ -79,7 +79,7 @@ Careful attention to the prescribed test procedure, routing equipment calibratio
 11.1.2 The bottom of the aluminum pan is covered with the Mylar film. The film is held in position with tape or by friction between the pan and the film.
 11.1.3 The resin and pan are brought to room temperature. This test temperature must be between 70 °F and 80 °F. The testing temperature cannot vary more than ±2 °F during the measurement of test runs. Temperature shall be recorded at the same time weight is recorded on suppressed and non-suppressed test data sheets, shown in Table 17.1.
 11.1.4 The relative humidity may not change more than ±15 percent during the test runs. This is determined by recording the relative humidity in the vicinity of the test chamber at the beginning and end of an individual test run. This data is recorded on the test data sheets shown in Table 17.1.
-11.1.5 Two plies of nominal 1.5 oz/ft2 chopped strand mat (CSM) are cut into a square or rectangle with the minimum surface area of 60 square inches (i.e. a square with a side dimension of 7.75 inches).
+11.1.5 Two plies of nominal 1.5 oz/ft 2 chopped strand mat (CSM) are cut into a square or rectangle with the minimum surface area of 60 square inches (i.e. a square with a side dimension of 7.75 inches).
 11.1.6 The appropriate resin application roller is readily available.
 11.2 Resin Gel Time/Initiator Percentage
 11.2.1 Previous testing has indicated that resin gel time influences the emissions from composite production. The testing indicated that longer the gel times led to higher emissions. There are a number of factors that influence gel time including initiator type, initiator brand, initiator level, temperature and resin additives. Under actual usage conditions a molder will adjust the initiator to meet a gel time requirement. In this test procedure, the vapor suppressed and non-vapor suppressed resin systems will be adjusted to the same gel time by selecting the appropriate initiator level for each.
@@ -102,7 +102,7 @@ Careful attention to the prescribed test procedure, routing equipment calibratio
 11.3.11 A stopwatch is started from zero.
 11.3.12 The initial laminate weight is recorded.
 11.3.13 The plate is removed from balance to enable roll-out of the laminate.
-11.3.14 The wet laminate is rolled with the resin application roller to completely distribute the resin, saturate the chopped strand mat, and eliminate air voids. Roll-out time should be in the range of 2 to 316 minutes and vary less than ±10 percent of the average time required for the complete set of six suppressed and six non-suppressed runs.
+11.3.14 The wet laminate is rolled with the resin application roller to completely distribute the resin, saturate the chopped strand mat, and eliminate air voids. Roll-out time should be in the range of 2 to 3 16 minutes and vary less than ±10 percent of the average time required for the complete set of six suppressed and six non-suppressed runs.
 11.3.15 Record the rollout end time (time from start to completion of rollout).
 11.3.16 Place the resin application roller on the edge of the plate when rollout is completed.
 11.3.17 Place the plate back on the balance pan. Immediately record the weight.
@@ -123,7 +123,7 @@ Careful attention to the prescribed test procedure, routing equipment calibratio
 11.4.13 Record the weight of the resin ans single ply of CSM (L1). The initial laminate weight equals L1 plus the weight of second glass layer.
 11.4.14 Replace the second layer of fiberglass.
 11.4.15 Remove the plate from the balance to allow roll-out of the laminate.
-11.4.16 Roll the wet laminate with the resin application roller to completely distribute the resin, saturate the chopped strand mat, and eliminate air voids. Roll-out time should be in the range of 2 to 316 minutes and vary less than ±10 percent of the average time required for the complete set of six suppressed and six non-suppressed runs.
+11.4.16 Roll the wet laminate with the resin application roller to completely distribute the resin, saturate the chopped strand mat, and eliminate air voids. Roll-out time should be in the range of 2 to 3 16 minutes and vary less than ±10 percent of the average time required for the complete set of six suppressed and six non-suppressed runs.
 11.4.17 Record the roll-out end time (time from start to completion of rollout).
 11.4.18 Place the resin application roller on the edge of the plate when rollout is completed.
 11.4.19 Place the plate back on the balance pan. The initial weight is recorded immediately.
@@ -139,7 +139,6 @@ Careful attention to the prescribed test procedure, routing equipment calibratio
 11.5.8 The filler content for each test of a test set must be within ±5 percent of the average filler content for the complete set of six suppressed and six non-suppressed runs. Refer to 12.2.
 11.6 Resin Application Pour Pattern:
 11.6.1 To facilitate the distribution of resin across the chopped strand mat, and to provide consistency from test to test, a uniform pour pattern should be used. A typical pour pattern is shown below:
-ER21AP03.009
 11.6.2 The resin is to be evenly distributed across the entire surface of the chopped strand mat using the resin application roller to achieve a wet look across the surface of the laminate. Pushing excess resin off the reinforcement and onto the Mylar sheet should be avoided. No resin is to be pushed more than 1/2 inch beyond the edge of the glass mat. If excess resin is pushed further from the glass mat, it will void the test run. As part of this process, typical visible air voids are to be eliminated by the rollout process. If the pour pattern is different from the above, it must be recorded and attached to test data sheet 17.1.
 12. Data Analysis and Calculations
 12.1 Data Analysis:
@@ -167,11 +166,10 @@ Emissions weight loss (g) = Initial resin weight (g)−Final resin weight (g)
 12.2.7 % Emission weight loss:
 % Emission Weight Loss = (Emission weight loss (g) Initial resin weight (g) × 100
 12.2.8 Average % Emission Weight Loss (assuming six test runs):
-ER21AP03.010
 12.2.9 VSE Factor calculation:
 VSE Factor = 1 −(Average % VS Emission Weight Loss/Average NVS Emission Weight Loss)
 Table 12.1—Example Calculation
-Test # | % VSweight loss | % NVSweight loss
+Test # | % VS weight loss | % NVS weight loss
 1 | 6.87 | 10.86
 2 | 6.76 | 11.23
 3 | 5.80 | 12.02
@@ -194,7 +192,8 @@ The bias of this test method has not been determined.
 13.2.1 Subsequent to the initial development of this test protocol by the Composites Fabricators Association, a series of tests were conducted in three different laboratory facilities. The purpose of this round robin testing was to verify the precision of the test method in various laboratories. Each laboratory received a sample of an orthophthalic polyester resin from the same production batch, containing 48 per cent styrene by weight. Each testing site was also provided with the same vapor suppressant additive. The suppressant manufacturer specified the percentage level of suppressant additive. The resin manufacturer specified the type and level of initiator required to produce a 20 minute gel time. The target glass content was 30 percent by weight.
 13.2.2 Each laboratory independently conducted the VSE test according to this method. A summary of the results is included in Table 13.1.
 Table 13.1—Round Robin Testing Results
-| Test Lab 1 | NVS | VS | Test Lab 2 | NVS | S | Test Lab 3 | NVS | VS
+| Test Lab 1 | Test Lab 2 | Test Lab 3
+NVS | VS | NVS | S | NVS | VS
 Average percent WT Loss | 4.24 | 1.15 | 4.69 | 1.84 | 5.73 | 1.61
 Standard Deviation | 0.095 | 0.060 | 0.002 | 0.002 | 0.020 | 0.003
 VSE Factor | | 0.730 | | 0.607 | | 0.720
@@ -231,33 +230,30 @@ The spent and waste materials generated during this test are disposed according 
 6. Second Evaluation of the CFA's New Proposed Vapor Suppressant Effectiveness Test, Technical Service Request #: ED-02-98, BYK Chemie, 1/26/99
 17. Data Sheets and Figures
 17.1 This data sheet, or a similar data sheet, is used to record the test data for filled, unfilled, suppressed and non-suppressed tests. If additional time is required, the data sheet may be extended.
-ER21AP03.011
-ER21AP03.012
 17.2 Data Acceptance Criteria Worksheet:
 The following worksheet is used to determine the quality of collected data (i.e. insure the data collected all meets acceptance criteria)
 Table 17.2—Data Acceptance Criteria Worksheet
-Test No. | Temperature | Min | Max | Delta | Laminate roll out time, min | Relative humidity, % | Initial | Final | Resin weight, (g) | Glass content, % | Resin distribution | Meets criteria Y/N
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-Average
-Criteria | ±2 °F | ±10% of Average | ±15 of Average | ±15 of Average | ±10% of Avg. | ±10% of Avg. | <1/2 inch off mat | All Y
+Test No. | Temperature | Laminate roll out time, min | Relative humidity, % | Resin weight, (g) | Glass content, % | Resin distribution | Meets criteria Y/N
+Min | Max | Delta | Initial | Final
+1 | | | | | | | | | |
+2 | | | | | | | | | |
+3 | | | | | | | | | |
+4 | | | | | | | | | |
+5 | | | | | | | | | |
+6 | | | | | | | | | |
+7 | | | | | | | | | |
+8 | | | | | | | | | |
+9 | | | | | | | | | |
+10 | | | | | | | | | |
+11 | | | | | | | | | |
+12 | | | | | | | | | |
+Average | | | | | | | |
+Criteria | ±2 °F | ±10% of Average | ±15 of Average | ±15 of Average | ±10% of Avg. | ±10% of Avg. | < 1/2 inch off mat | All Y | |
 17.3 VSE Factor Calculation
 Table 17.3—Calculations Worksheet
-Vapor suppressed | Test # | % Weight loss | Non-vapor suppressed | Test # | % Weight loss
-Average Weight Loss
-VSE Factor
+Vapor suppressed | Non-vapor suppressed
+Test # | % Weight loss | Test # | % Weight loss
+Average Weight Loss | | |
+VSE Factor | |
 VSE Factor = 1—(% Average Weight Loss VS/ % Average Weight LossNVS)
 17.4 Figures
-ER21AP03.013
-ER21AP03.014
-ER21AP03.015

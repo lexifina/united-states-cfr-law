@@ -7,7 +7,7 @@ fbio = The fraction of organic compounds in the wastewater biodegraded in a biol
 Fe = The fraction of applicable organic compounds emitted from the wastewater to the atmosphere.
 K1 = First-order biodegradation rate constant, L/g mixed liquor volatile suspended solids (MLVSS)-hr
 KL = Liquid-phase mass transfer coefficient, m/s
-Ks = Monod biorate constant at half the maximum rate, g/m3
+Ks = Monod biorate constant at half the maximum rate, g/m 3
 III. Test Procedure for Determination of fbio for Nonthoroughly Mixed Open Biological Treatment Units Under Unsafe Sampling Conditions
 This test procedure is used under unsafe sampling conditions that do not permit practicable sampling of open biological treatment units within the unit itself, but rather relies on sampling at the inlet and outlet locations of the unit. This procedure may be used only under unsafe sampling conditions to estimate fbio. Once the unsafe conditions have passed, then the formal compliance demonstration procedures of fbio based upon measurements within the open biological treatment unit must be completed.
 A. Overview of Estimation Procedure
@@ -63,13 +63,3 @@ A QA/QC plan outlining the procedures used to determine the measured inlet and o
 (8) A description of the equations used and their solutions for sampling and analysis, including a reference to any software used for calculations and/or curve-fitting.
 IV. Calculation of Individual fbio (Unsafe Sampling Conditions)
 Use Form 1 with your zone concentration information to estimate the value of f bio under unsafe sampling conditions. Form 1 uses measured concentrations of HAP in the unit inlet and outlet, and Form 1 also uses the estimated concentrations in each zone of the unit obtained from Form 2. This procedure may be used on an open biological treatment unit that has defined zones within the unit. Use Form 1 to determine fbio for each open biological treatment unit as it exists under subpart S of part 63. The first step in using Form 1 is to calculate KL for each zone in the unit using Form 4. Form 7 must also be used if submerged aeration is used. After KL is determined using field data, obtain the concentrations of the HAP in each zone. In this alternative procedure for unsafe sampling conditions, the actual measured concentrations of the HAP in each zone are replaced with the zone concentrations that are estimated with Form 2. After KL and the zone concentrations are determined, Form 1 is used to estimate the overall unit Fe and fbio for methanol.
-ER22DE00.040
-ER22DE00.041
-ER22DE00.042
-ER22DE00.043
-ER22DE00.044
-ER22DE00.045
-ER22DE00.046
-ER22DE00.047
-ER22DE00.048
-ER22DE00.049

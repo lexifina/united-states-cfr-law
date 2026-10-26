@@ -1,6 +1,0 @@
-# Table 1 a to Subpart ZZZZ of Part 63—Emission Limitations for Existing, New, and Reconstructed Spark Ignition, 4SRB Stationary RICE >500 HP Located at a Major Source of HAP Emissions
-As stated in §§ 63.6600 and 63.6640, you must comply with the following emission limitations at 100 percent load plus or minus 10 percent for existing, new and reconstructed 4SRB stationary RICE >500 HP located at a major source of HAP emissions:
-For each... | You must meet the following emission limitation, except during periods of startup... | During periods of startup you must...
-1. 4SRB stationary RICE | a. Reduce formaldehyde emissions by 76 percent or more. If you commenced construction or reconstruction between December 19, 2002 and June 15, 2004, you may reduce formaldehyde emissions by 75 percent or more until June 15, 2007 or | Minimize the engine's time spent at idle and minimize the engine's startup time at startup to a period needed for appropriate and safe loading of the engine, not to exceed 30 minutes, after which time the non-startup emission limitations apply. 1
-| b. Limit the concentration of formaldehyde in the stationary RICE exhaust to 350 ppbvd or less at 15 percent O 2
-1 Sources can petition the Administrator pursuant to the requirements of 40 CFR 63.6(g) for alternative work practices.

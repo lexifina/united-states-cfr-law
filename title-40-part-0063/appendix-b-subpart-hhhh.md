@@ -25,7 +25,6 @@ The purpose of this test is to determine the loss-on-ignition (LOI) of wet-forme
 4.9 Remove each crucible, and test each sample separately from the desiccator, and immediately weigh each sample to the nearest 0.001 g. Record this weight as the ignited mass, B. (Note 2: When it is known that no ash residue separates from the test sample during the weighing and igniting processes, you may weigh the sample separately without the crucible. When this occurs, the tare mass (T) equals zero. With appropriate care, you can dry and weigh a single piece of mat and place with tongs into the ignition oven on appropriate refractory supports. When the ignition time is over, remove the sample as an intact fragile web and weigh it directly on a pan balance.)
 5.0 Calculation
 5.1 Calculate the LOI for each sample as follows:
-ER11AP02.027
 Where:
 A = initial mass of crucible and sample before ignition (g);
 B = mass of crucible and glass residue after ignition (g); and

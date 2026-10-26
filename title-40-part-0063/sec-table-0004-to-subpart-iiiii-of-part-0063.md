@@ -1,6 +1,0 @@
-# Table 4 to Subpart IIIII of Part 63—Work Practice Standards—Requirements for Mercury Liquid Collection
-As stated in § 63.8192, you must meet the work practice standards in the following table:
-You must collect liquid mercury from... | At the following intervals | When collecting the mercury, you must meet these requirements
-1. Open-top containers | a. At least once each 72 hours | i. If you spill liquid mercury during collection or transport, you must take the action specified in Table 3 to this subpart for liquid mercury spills and accumulations | ii. From the time that you collect liquid mercury into a temporary container until the time that you store the liquid mercury, you must keep it covered by an aqueous liquid | iii. Within 4 hours from the time you collect the liquid mercury, you must transfer it from each temporary container to a storage container that meets the specifications in Table 1 to this subpart.
-2. Vessels, low point drains, mercury knock-out pots, and other closed mercury collection points | a. At least once each week | See 1.a.i through iii above.
-3. All other equipment | a. Whenever maintenance activities require the opening of the equipment | See 1.a.i. through iii above.

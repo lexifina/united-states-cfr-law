@@ -37,7 +37,7 @@ Total chlorides | 16887-00-6 | <2 % of span.
 6.1.4 Analyzer. An XRF spectrometer to determine the analyte concentration in the prepared sample. The analyzer must meet the applicable performance specifications in section 13.
 6.1.5 Data Recorder. A digital recorder or personal computer for recording measurement data. The data recorder resolution (i.e., readability) must be 0.5 percent of span. Alternatively, a digital or analog meter having a resolution of 0.5 percent of span may be used to obtain the analyzer responses and the readings may be recorded manually.
 7.0 Reagents and Standards.
-7.1 Calibration Standards. The calibration standards for the analyzer must be prepared catalyst samples or other material of similar particle size and matrix as the catalyst samples to be tested that have known concentrations of the analytes of interest. Preparation (grinding/milling/fusion) of the calibration standards should follow the same processes used to prepare the catalyst samples to be tested. The calibration standards values must be established as the average of a minimum of three analyses using an approved EPA or ASTM method with instrument analyzer calibrations traceable to the U.S. National Institute of Standards and Technology (NIST), if available. The maximum percent deviation of the triplicate calibration standard analyses should agree within 10 percent of the average value for the triplicate analysis (see Figure 1). If the calibration analyses do not meet this criteria, the calibration standards must be re-analyzed. If unacceptable variability persists, new calibration standards must be prepared. Approved methods for the calibration standard analyses include, but are not limited to, EPA Methods 6010B, 6020, 7520, or 7521 of SW-846.1 Use a minimum of four calibration standards as specified below (see Figure 1):
+7.1 Calibration Standards. The calibration standards for the analyzer must be prepared catalyst samples or other material of similar particle size and matrix as the catalyst samples to be tested that have known concentrations of the analytes of interest. Preparation (grinding/milling/fusion) of the calibration standards should follow the same processes used to prepare the catalyst samples to be tested. The calibration standards values must be established as the average of a minimum of three analyses using an approved EPA or ASTM method with instrument analyzer calibrations traceable to the U.S. National Institute of Standards and Technology (NIST), if available. The maximum percent deviation of the triplicate calibration standard analyses should agree within 10 percent of the average value for the triplicate analysis (see Figure 1). If the calibration analyses do not meet this criteria, the calibration standards must be re-analyzed. If unacceptable variability persists, new calibration standards must be prepared. Approved methods for the calibration standard analyses include, but are not limited to, EPA Methods 6010B, 6020, 7520, or 7521 of SW-846. 1 Use a minimum of four calibration standards as specified below (see Figure 1):
 7.1.1 High-Range Calibration Standard. Concentration equivalent to 80 to 100 percent of the span. The concentration of the high-range calibration standard should exceed the maximum concentration anticipated in the catalyst samples.
 7.1.2 Mid-Range Calibration Standard. Concentration equivalent to 40 to 60 percent of the span.
 7.1.3 Low-Range Calibration Standard. Concentration equivalent to 1 to 20 percent of the span. The concentration of the low-range calibration standard should be selected so that it is less than either one-fourth of the applicable concentration limit or of the lowest concentration anticipated in the catalyst samples.
@@ -61,14 +61,12 @@ Total chlorides | 16887-00-6 | <2 % of span.
 12.0 Data Analysis and Calculations.
 Carry out the following calculations, retaining at least one extra significant figure beyond that of the acquired data. Round off figures after final calculation.
 12.1 Drift. Calculate the zero and calibration drift for the tests described in sections 9.2 and 9.3 (see also Figure 2) as follows:
-ER09FE05.010
 Where:
 CurrentAnalyzerCal.Response = Instrument response for current QC sample analyses;
 InitialCal.Response = Initial instrument response for calibration standard;
 QC Value = QC metric (zero drift or calibration drift), percent of span;
 Span = Span of the monitoring system.
 12.2 Analyzer Accuracy. Calculate the analyzer accuracy error for the tests described in section 9.4 (see also Figure 2) as follows:
-ER09FE05.011
 Where:
 Accuracy Value = Percent difference of instrument response to the ideal response for the accuracy assessment standard;
 CurrentAnalyzerCal.Response = Instrument response for current QC sample analyses;
@@ -85,18 +83,16 @@ IdealCal.Response = Ideal instrument response for the accuracy assessment standa
 17.0 References.
 1. U.S. Environmental Protection Agency. 1998. Test Methods for Evaluating Solid Waste, Physical/Chemical Methods. EPA Publication No. SW-846, Revision 5 (April 1998). Office of Solid Waste, Washington, DC.
 18.0 Tables, Diagrams, Flowcharts, and Validation Data.
-Date: | Analytic Method Used: | | Zero a | Low-Range b | Mid-Range c | High-Range d | Accuracy Std e
-Sample Run:
-1
-2
-3
-Average
-Maximum Percent Deviation
-a Average must be less than 0.25 percent of span.
-b Average must be 1 to 20 percent of span.
-c Average must be 40 to 60 percent of span.
-d Average must be 80 to 100 percent of span.
-e Average must be 20 to 80 percent of span.
+Date:
+Analytic Method Used:
+| Zero a | Low-Range b | Mid-Range c | High-Range d | Accuracy Std e
+Sample Run: | | | | |
+1 | | | | |
+2 | | | | |
+3 | | | | |
+Average | | | | |
+Maximum Percent Deviation | | | | |
+a Average must be less than 0.25 percent of span. b Average must be 1 to 20 percent of span. c Average must be 40 to 60 percent of span. d Average must be 80 to 100 percent of span. e Average must be 20 to 80 percent of span.
 Figure 1. Data Recording Sheet for Analysis of Calibration Samples.
 Source Identification:
 Run Number:
@@ -104,8 +100,8 @@ Test Personnel:
 Span:
 Date:
 | Initial calibration response | Current analyzer calibration response | Drift (percent of span)
-Zero Standard
-Mid-range Standard
+Zero Standard | | |
+Mid-range Standard | | |
 | Ideal calibration response | Current analyzer calibration response | Accuracy error (percent of ideal)
-Accuracy Standard
+Accuracy Standard | | |
 Figure 2. Data Recording Sheet for System Calibration Drift Data.

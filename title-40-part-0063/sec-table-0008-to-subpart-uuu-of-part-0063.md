@@ -1,5 +1,0 @@
-# Table 8 to Subpart UUU of Part 63—Organic HAP Emission Limits for Catalytic Cracking Units
-As stated in § 63.1565(a)(1), you shall meet each emission limitation in the following table that applies to you.
-For each new and existing catalytic cracking unit... | You shall meet the following emission limit for each catalystregenerator vent...
-1. Subject to the NSPS for carbon monoxide (CO) in 40 CFR 60.103 or 60.102a(b)(4) | CO emissions from the catalyst regenerator vent or CO boiler serving the catalytic cracking unit must not exceed 500 parts per million volume (ppmv) (dry basis).
-2. Not subject to the NSPS for CO in 40 CFR 60.103 or 60.102a(b)(4) | a. CO emissions from the catalyst regenerator vent or CO boiler serving the catalytic cracking unit must not exceed 500 ppmv (dry basis).b. If you use a flare to meet the CO limit, then on and after January 30, 2019, the flare must meet the requirements of § 63.670. Prior to January 30, 2019, the flare must meet the requirements for control devices in § 63.11(b) and visible emissions must not exceed a total of 5 minutes during any 2 consecutive hours, or the flare must meet the requirements of § 63.670.

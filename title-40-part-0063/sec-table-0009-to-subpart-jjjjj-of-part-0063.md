@@ -1,5 +1,0 @@
-# Table 9 to Subpart JJJJJ of Part 63—Requirements for Reports
-As stated in § 63.8485, you must submit each report that applies to you according to the following table:
-You must submit... | The report must contain... | You must submit the report...
-1. A compliance report. | a. If there are no deviations from any emission limitations (emission limits, operating limits) that apply to you, a statement that there were no deviations from the emission limitations during the reporting period. If there were no periods during which the CMS was out-of-control as specified in your OM&M plan, a statement that there were no periods during which the CMS was out-of-control during the reporting period | Semiannually according to the requirements in § 63.8485(b).
-| b. If you have a deviation from any emission limitation (emission limit, operating limit) during the reporting period, the report must contain the information in § 63.8485(c)(9). If there were periods during which the CMS was out-of-control, as specified in your OM&M plan, the report must contain the information in § 63.8485(d) | Semiannually according to the requirements in § 63.8485(b).

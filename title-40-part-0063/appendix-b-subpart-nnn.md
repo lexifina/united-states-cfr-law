@@ -50,7 +50,6 @@ ii. If the milliliters of titrant are less than 5 mL or greater than 30 mL, rees
 5.5 Add 50 mL of the hydroxylamine hydrochloride solution, measured with a graduated cylinder. Start the timer.
 5.6 Stir for 5 minutes. Titrate to pH 4.0 with standardized 1.0 N sodium hydroxide. Record the milliliters of titrant and the normality.
 6. Calculations
-ER14JN99.042
 7. Method Precision and Accuracy
 Test values should conform to the following statistical precision:
 Variance = 0.005

@@ -35,7 +35,6 @@ Two types of batch tests which may be used to determine kinetic parameters are: 
 For both batch test approaches, a biomass sample from the activated sludge unit of interest is collected, aerated, and stored for no more than 4 hours prior to testing. To collect sufficient data when biodegradation is rapid, it may be necessary to dilute the biomass sample. If the sample is to be diluted, the biomass sample shall be diluted using treated effluent from the activated sludge unit of interest to a concentration such that the biodegradation test will last long enough to make at least six concentration measurements. It is recommended that the tests not be terminated until the compound concentration falls below the limit of quantitation (LOQ). Measurements that are below the LOQ should not be used in the data analysis. Biomass concentrations shall be determined using standard methods for measurement of mixed liquor volatile suspended solids (MLVSS) (reference 5).
 The change in concentration of a test compound may be monitored by either measuring the concentration in the liquid or in the reactor headspace. The analytical technique chosen for the test should be as sensitive as possible. For the batch test procedures described in this section, equilibrium conditions must exist between the liquid and gas phases of the experiments because the data analysis procedures are based on this premise. To use the headspace sampling approach, the reactor headspace must be in equilibrium with the liquid so that the headspace concentrations can be correlated with the liquid concentrations. Before the biodegradation testing is conducted, the equilibrium assumption must be verified. A discussion of the equilibrium assumption verification is given below in sections D.1 and D.2 since different approaches are required for the two types of batch tests.
 To determine biodegradation kinetic parameters in a batch test, it is important to choose an appropriate initial substrate (compound(s) of interest) concentration for the test. The outcome of the batch experiment may be influenced by the initial substrate (SO) to biomass (XO) ratio (see references 3, 4, and 6). This ratio is typically measured in chemical oxygen demand (COD) units. When the SO/XO ratio is low, cell multiplication and growth in the batch test is negligible and the kinetics measured by the test are representative of the kinetics in the activated sludge unit of interest. The SO/XO ratio for a batch test is determined with the following equation:
-ER17JA97.034
 Where:
 SO/XO = initial substrate to biomass ratio on a COD basis
 Si = initial substrate concentration in COD units (g COD/L)
@@ -44,7 +43,6 @@ X = biomass concentration in the batch test (g MLVSS/L)
 For the batch tests described in this section, the SO/XO ratio (on a COD basis) must be initially less than 0.5.
 1. Aerated Reactor Test. An aerated draft tube reactor may be used for the biokinetics testing (as an example see Figure 2 of appendix C). Other aerated reactor configurations may also be used. Air is bubbled through a porous frit at a rate sufficient to aerate and keep the reactor uniformly mixed. Aeration rates typically vary from 50 to 200 ml/min for a 1 liter system. A mass flow rate controller is used to carefully control the air flow rate because it is important to have an accurate measure of this rate. The dissolved oxygen (DO) concentration in the system must not fall below 2 mg/liter so that the biodegradation observed will not be DO-limited. Once the air flow rate is established, the test mixture (or compound) of interest is then injected into the reactor and the concentration of the compound(s) is monitored over time. Concentrations may be monitored in the liquid or in the headspace. A minimum of six samples shall be taken over the period of the test. However, it is necessary to collect samples until the compound concentration falls below the LOQ. If liquid samples are collected, they must be small enough such that the liquid volume in the batch reactor does not change by more than 10%.
 Before conducting experiments with biomass, it is necessary to verify the equilibrium assumption. The equilibrium assumption can be verified by conducting a stripping experiment using the effluent (no biomass) from the activated sludge unit of interest. Effluent is filtered with a 0.45 um or smaller filter and placed in the draft tube reactor. Air is sparged into the system and the compound concentration in the liquid or headspace is monitored over time. This test with no biomass may provide an estimate of the Henry's law constant. If the system is at equilibrium, the Henry's law constant may be estimated with the following equation:
-ER17JA97.035
 Where:
 C = cencentration at time, t (min)
 CO = concentration at t = 0
@@ -54,7 +52,6 @@ Keq = Henry's law constant (mg/L-gas)/(mg/L-liquid)
 t = time (min)
 A plot of—ln(C/Co) as a function of t will have a slope equal to GKeq/V. The equilibrium assumption can be verified by comparing the experimentally determined Keq for the system to literature values of the Henry's Law constant (including those listed in this appendix). If Keq does not match the Henry's law constant, Keq shall be determined from analysis of the headspace and liquid concentration in a batch system.
 The concentration of a compound decreases in the bioreactor due to both biodegradation and stripping. Biodegradation processes are typically described with a Monod model. This model and a stripping expression are combined to give a mass balance for the aerated draft tube reactor):
-ER17JA97.036
 Where:
 s = test compound concentration, mg/liter
 G = volumetric gas flow rate, liters/hr
@@ -64,7 +61,6 @@ X = biomass concentration (g MLVSS/liter)
 Qm = maximum rate of substrate removal, mg/g MLVSS/hr
 KS = Monod biorate constant at half the maximum rate, mg/liter
 Equation App. C-3 can be integrated to obtain the following equation:
-ER22JA01.162
 Where:
 A = GKeqKs + QmVX
 B = GKeq
@@ -77,7 +73,6 @@ The final result of the batch testing is the measurement of a biorate that can b
 2. Sealed Reactor Test. This test uses a closed system to prevent losses of the test compound by volatilization. This test may be conducted using a serum bottle or a sealed draft tube reactor (for an example see Figure 3 of appendix C). Since no air is supplied, it is necessary to ensure that sufficient oxygen is present in the system. The DO concentration in the system must not fall below 2 mg/liter so that the biodegradation observed will not be DO-limited. As an alternative, oxygen may be supplied by electrolysis as needed to maintain the DO concentration above 2 mg/liter. The reactor contents must be uniformly mixed, by stirring or agitation using a shaker or similar apparatus. The test mixture (or compound) of interest is injected into the reactor and the concentration is monitored over time. A minimum of six samples shall be taken over the period of the test. However, it is necessary to monitor the concentration until it falls below the LOQ.
 The equilibrium assumption must be verified for the batch reactor system. In this case, Keq may be determined by simultaneously measuring gas and liquid phase concentrations at different times within a given experiment. A constant ratio of gas/liquid concentrations indicates that equilibrium conditions are present and Keq is not a function of concentration. This ratio is then taken as the Keq for the specific compound in the test. It is not necessary to measure Keq for each experiment. If the ratio is not constant, the equilibrium assumption is not valid and it is necessary to (1) increase mixing energy for the system and retest for the equilibrium assumption, or (2) use a different type of test (for example, a collapsible volume reactor).
 The concentration of a compound decreases in the bioreactor due to biodegradation according to Equation App. C-5:
-ER17JA97.038
 Where:
 s = test compound concentration (mg/liters)
 Vl = the average liquid volume in the reactor (liters)
@@ -89,7 +84,6 @@ t = time (hours)
 X = biomass concentration (g ML VSS/liter)
 so = test compound concentration at time t = 0
 Equation App. C-5 can be solved analytically to give:
-ER22JA01.163
 This equation is used along with the substrate concentration versus time data to determine the best fit parameters (Qm and Ks) to describe the biodegradation process in the sealed reactor.
 If the sealed reactor test is used, Form X is used to determine the headspace correction factor. The disappearance of a compound in the sealed reactor test is slowed because a fraction of the compound is not available for biodegradation because it is present in the headspace. If the compound is almost entirely in the liquid phase, the headspace correction factor is approximately one. If the headspace correction factor is substantially less than one, improved mass transfer or reduced headspace may improve the accuracy of the sealed reactor test. A preliminary sealed reactor test must be conducted to test the equilibrium assumption. As the compound of interest is degraded, simultaneous headspace and liquid samples should be collected and Form X should be used to evaluate Keq. The ratio of headspace to liquid concentrations must be constant in order to confirm that equilibrium conditions exist. If equilibrium conditions are not present, additional mixing or an alternate reactor configuration may be required.
 The compound-specific biorate constants are then calculated using Form XII. For the sealed reactor test, a stripping rate constant of zero and the headspace correction factor that was determined from Form X are entered on Form XII. The sealed reactor test may then be run, measuring the concentrations of each compound of interest as a function of time. If headspace concentrations are measured instead of liquid concentrations, then the corresponding liquid concentrations are calculated from the headspace measurements using Keq from Form X and entered on Form XII.
@@ -116,7 +110,6 @@ Reference 8 "Technical Support Document for the Evaluation of Aerobic Biological
 The estimated mass transfer coefficient for each compound in each zone is obtained from Form II using the characteristics of each zone. A computer model may be used. If the Water7 model or the most recent update to this model is used, then use Form II-A to calculate KL. The TOXCHEM or BASTE model may also be used to calculate KL for the biological treatment unit, with the stipulations listed in Procedure 304B. Compound concentration measurements for each zone are used in Form XIII to calculate the fbio. A copy of Form XIII is completed for each of the compounds of concern treated in the biological unit.
 IV. Calculation of Fbio
 At this point, the individual fbios determined by the previously explained procedures must be summed to obtain the total Fbio. To determine the Fbio multiply each compound specific fbio by the compound-specific average mass flow rate of the organic compound in the wastewater stream (see regulation for instruction on calculation of average mass flow rate). Sum these products and divide by the total wastewater stream average mass flow rate of organic compounds.
-ER17JA97.040
 M = compound specific average mass flow rate of the organic compounds in the wastewater (Mg/Yr)
 n = number of organic compounds in the wastewater
 The Fbio is then used in the applicable compliance equations in the regulation to determine if biodegradation may be used to comply with the treatment standard without covering and venting to an air pollution control device.
@@ -214,25 +207,3 @@ Compound | HL @ 25 °C (atm/mole frac) | HL @ 100 °C (atm/mole frac)
 123 m-Xylene | 4.13e + 02 | 3.25e + 03
 124 o-Xylene | 2.71e + 02 | 2.55e + 03
 125 p-Xylene | 4.13e + 02 | 3.20e + 03
-ER22JA01.164
-ER17JA97.042
-ER17JA97.043
-ER17JA97.044
-ER17JA97.045
-ER17JA97.046
-ER17JA97.047
-ER17JA97.048
-ER17JA97.049
-ER17JA97.050
-ER17JA97.051
-ER17JA97.052
-ER17JA97.053
-ER17JA97.054
-ER17JA97.055
-ER17JA97.056
-ER17JA97.057
-ER17JA97.058
-ER17JA97.059
-ER17JA97.060
-ER17JA97.061
-ER22JA01.165

@@ -13,10 +13,7 @@
 2.8 Alternative test methods for measuring VOC concentration must include a three-point calibration of the gas analysis instrument in the expected concentration range.
 3. Data Quality Objective Approach
 3.1 The purpose of the DQO is to allow sources to use alternative CE protocols and test methods while ensuring reasonable precision consistent with pertinent requirements of the Clean Air Act. In addition to the general criteria described in section 2, the specific DQO criterion is that the width of the two-sided 95 percent confidence interval of the mean measured value must be less than or equal to 10 percent of the mean measured value (see Figure 1). This ensures that 95 percent of the time, when the DQO is met, the actual CE value will be ±5 percent of the mean measured value (assuming that the test protocol is unbiased).
-EC01MY92.047
 3.2 The DQO calculation is made as follows using Equations 1 and 2:
-ER24MY06.004
-ER24MY06.005
 Where:
 a = Distance from the average measured CE value to the endpoints of the 95-percent (two-sided) confidence interval for the measured value.
 n = Number of valid test runs.
@@ -48,8 +45,6 @@ Number of valid test runs, n | t0.975 | t0.90
 20 | 2.093 | 1.328
 21 | 2.086 | 1.325
 3.3 The sample standard deviation and average CE value are calculated using Equations 3 and 4 as follows:
-er30my96.024
-er30my96.025
 3.4 The DQO criteria are achieved when all of the general criteria in section 2 are achieved and P ≤5 percent (i.e., the specific DQO criterion is achieved). In order to meet this objective, facilities may have to conduct more than three test runs. Examples of calculating P, given a finite number of test runs, are shown below. (For purposes of this example it is assumed that all of the general criteria are met.)
 3.5 Facility A conducted a CE test using a traditional liquid/gas mass balance and submitted the following results and the calculations shown in Equations 5 and 6:
 Run | CE
@@ -61,8 +56,6 @@ n = 3
 t0.975 = 4.30
 xavg = 100.8
 s = 4.51
-er30my96.026
-er30my96.027
 3.6 Since the facility did not meet the specific DQO criterion, they ran three more test runs.
 Run | CE
 4 | 93.2
@@ -73,8 +66,6 @@ n = 6
 t0.975 = 2.57
 xavg = 96.6
 s = 6.11
-ER30MY96.028
-ER30MY96.029
 3.8 The facility still did not meet the specific DQO criterion. They ran three more test runs with the following results:
 Run | CE
 7 | 92.9
@@ -85,8 +76,6 @@ n = 9
 t0.975 = 2.31
 xavg = 95.7
 s = 5.33
-ER30MY96.030
-ER30MY96.031
 3.10 Based on these results, the specific DQO criterion is satisfied. Since all of the general criteria were also satisfied, the average CE from the nine test runs can be used to determine compliance.
 4. Lower Confidence Limit Approach
 4.1 The purpose of the LCL approach is to provide sources, that may be performing much better than their applicable regulatory requirement, a screening option by which they can demonstrate compliance. The approach uses less precise methods and avoids additional test runs which might otherwise be needed to meet the specific DQO criterion while still being assured of correctly demonstrating compliance. It is designed to reduce "false positive" or so called "Type II errors" which may erroneously indicate compliance where more variable test methods are employed. Because it encourages CE performance greater than that required in exchange for reduced compliance demonstration burden, the sources that successfully use the LCL approach could produce emission reductions beyond allowable emissions. Thus, it could provide additional benefits to the environment as well.
@@ -97,7 +86,6 @@ ER30MY96.031
 4.6 The purpose of the requirement in Section 4.5 is to protect against protocols and test methods which may be inherently biased high. This is important because it is impossible to have an actual CE greater than 100 percent and the LCL approach only looks at the lower end variability of the test results. This is different from the DQO which allows average CE values up to 105 percent because the DQO sets both upper and lower limits on test variability.
 4.7 If at any point during testing the results meet the DQO, the average CE can be used for demonstrating compliance with the applicable regulatory requirement. Similarly, if the average CE is below 100 percent then the LCL can be used for demonstrating compliance with the applicable regulatory requirement without regard to the DQO.
 4.8 The LCL is calculated at an 80 percent (two-sided) confidence level as follows using Equation 11:
-ER24MY06.006
 Where:
 LC1 = LCL at an 80-percent (two-sided) confidence level.
 n = Number of valid test runs.
@@ -116,7 +104,6 @@ n = 3
 t0.90 = 1.886
 xavg = 94.1
 s = 3.55
-ER30MY96.033
 4.12 Since the LC1 of 90.23 percent is above the applicable regulatory requirement of 85 percent then the facility is in compliance. The facility must continue to accept the LC1 of 90.23 percent as its CE value until a new series of valid tests is conducted. (The data generated by Facility B do not meet the specific DQO criterion.)
 5. Recommended Reporting for Alternative CE Protocols
 5.1 If a facility chooses to use alternative CE protocols and test methods that satisfy either the DQO or LCL and the additional criteria in section 4., the following information should be submitted with each test report to the appropriate regulatory agency:

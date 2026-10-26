@@ -1,6 +1,0 @@
-# Table 16 to Subpart UUU of Part 63—Operating Limits for Organic HAP Emissions From Catalytic Reforming Units
-As stated in § 63.1566(a)(2), you shall meet each operating limit in the following table that applies to you.
-For each new or existing catalytic reforming unit... | For this type of control device... | You shall meet this operating limit during initial catalyst depressuring and purging operations...
-1. Option 1: Vent to flare | Flare | On and after January 30, 2019, the flare must meet the requirements of § 63.670. Prior to January 30, 2019, the flare pilot light must be present at all times and the flare must be operating at all times that emissions may be vented to it, or the flare must meet the requirements of § 63.670.
-2. Option 2: Percent reduction or concentration limit | a. Thermal incinerator, boiler or process heater with a design heat input capacity under 44 MW, or boiler or process heater in which all vent streams are not introduced into the flame zone | The daily average combustion zone temperature must not fall below the limit established during the performance test.
-| b. No control device | Operate at all times according to your operation, maintenance, and monitoring plan regarding minimum catalyst purging conditions that must be met prior to allowing uncontrolled purge releases.

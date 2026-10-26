@@ -1,7 +1,0 @@
-# Table 12 to Subpart G of Part 63—Monitoring Requirements for Treatment Processes
-To comply with | Parameters to be monitored | Frequency | Methods
-1. Required mass removal of Table 8 and/or Table 9 compound(s) from wastewater treated in a properly operated biological treatment unit, § 63.138(f), and § 63.138(g) | Appropriate parameters as specified in § 63.143(c) and approved by permitting authority | Appropriate frequency as specified in § 63.143 and approved by permitting authority | Appropriate methods as specified in § 63.143 and as approved by permitting authority.
-2. Steam stripper | (i) Steam flow rate; and | Continuously | Integrating steam flow monitoring device equipped with a continuous recorder.
-| (ii) Wastewater feed mass flow rate; and | Continuously | Liquid flow meter installed at stripper influent and equipped with a continuous recorder.
-| (iii) Wastewater feed temperature; or(iv) Column operating temperature | Continuously | (A) Liquid temperature monitoring device installed at stripper influent and equipped with a continuous or recorder; or(B) Liquid temperature monitoring device installed in the column top tray liquid phase (i.e., at the downcomer) and equipped with a continuous recorder.
-3. Other treatment processes or alternative monitoring parameters to those listed in item 2 of this table | Other parameters may be monitored upon approval from the Administrator with the requirements specified in § 63.151(f)

@@ -64,23 +64,20 @@ The owner or operator shall develop and implement a quality assurance/quality co
 9.1 Design and operate the EtO CEMS to complete a minimum of one cycle of operation (sampling, analyzing, and data recording) for each successive 15-minute period.
 9.2 Reduce the EtO concentration data to hourly averages in accordance with § 60.13(h)(2) of this chapter.
 9.3 Convert each hourly average EtO concentration to an EtO mass emission rate (lb/hr) using an equation that has the general form of equation A-1 of this appendix:
-ER05AP24.045
 Where:
-E ho = EtO mass emission rate for the hour, lb/hr
+Eho = EtO mass emission rate for the hour, lb/hr
 K = Units conversion constant, 1.144E-10 lb/scf-ppbv,
 Ch = Hourly average EtO concentration, ppbv,
-Q h = Stack gas volumetric flow rate for the hour, scfh.
+Qh = Stack gas volumetric flow rate for the hour, scfh.
 (Note: Use unadjusted flow rate values; bias adjustment is not required.)
 9.4 Use equation A-2 of this appendix to calculate the daily total EtO emissions. Report each daily total to the same precision as the most stringent standard that applies to any affected source exhausting to the emission stream (e.g., if the emission stream includes contributions from an SCV and ARV subject to 99.99% and 99.9% emission reduction standards, respectively, report to four significant figures), expressed in scientific notation.
-ER05AP24.046
 Where:
-E day = Total daily EtO emissions, lb.
-E ho = Hourly EtO emission rate for unit or stack sampling hour "h" in the averaging period, from equation A-1 of this appendix, lb/hr.
+Eday = Total daily EtO emissions, lb.
+Eho = Hourly EtO emission rate for unit or stack sampling hour "h" in the averaging period, from equation A-1 of this appendix, lb/hr.
 9.5 Use equation A-3 of this appendix to calculate the 30-operating day rolling total EtO emissions. Report each 30-operating day rolling total to the same precision as the most stringent standard that applies to any affected source exhausting to the emission stream (e.g., if the emission stream includes contributions from an SCV and ARV subject to 99.99% and 99.9% emission reduction standards, respectively, report to four significant figures), expressed in scientific notation.
-ER05AP24.047
 Where:
-E 30day = Total EtO emissions during the 30-operating day, lb.
-E day,i = Total daily EtO emissions, in lbs, for each operating day i from equation A-2 of this appendix, lb.
+E30day = Total EtO emissions during the 30-operating day, lb.
+Eday,i = Total daily EtO emissions, in lbs, for each operating day i from equation A-2 of this appendix, lb.
 i = Operating day index.
 10. Recordkeeping Requirements
 10.1 For each EtO CEMS installed at an affected source, and for any other monitoring system(s) needed to convert pollutant concentrations to units of the applicable emissions limit, the owner or operator must maintain a file of all measurements, data, reports, and other information required by this appendix in a form suitable for inspection, for 5 years from the date of each record, in accordance with § 63.367. The file shall contain the information in paragraphs 10.1.1 through 10.1.8 of this section.
