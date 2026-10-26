@@ -5,7 +5,6 @@ I25.1 General.
 I25.2 Definitions.
 (a) Automatic Takeoff Thrust Control System (ATTCS). An ATTCS is defined as the entire automatic system used on takeoff, including all devices, both mechanical and electrical, that sense engine failure, transmit signals, actuate fuel controls or power levers or increase engine power by other means on operating engines to achieve scheduled thrust or power increases, and furnish cockpit information on system operation.
 (b) Critical Time Interval. When conducting an ATTCS takeoff, the critical time interval is between V1 minus 1 second and a point on the minimum performance, all-engine flight path where, assuming a simultaneous occurrence of an engine and ATTCS failure, the resulting minimum flight path thereafter intersects the Part 25 required actual flight path at no less than 400 feet above the takeoff surface. This time interval is shown in the following illustration:
-EC28SE91.082
 I25.3 Performance and System Reliability Requirements.
 The applicant must comply with the performance and ATTCS reliability requirements as follows:
 (a) An ATTCS failure or a combination of failures in the ATTCS during the critical time interval:

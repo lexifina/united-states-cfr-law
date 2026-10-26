@@ -54,13 +54,15 @@ The following data must be used when conducting a flammability exposure analysis
 (B) UFL at sea level = flash point temperature of the fuel at sea level plus 63.5 °F. UFL decreases from the sea level value with increasing altitude at a rate of 1 °F per 512 feet.
 (4) For each flight analyzed, a separate random number must be generated for each of the three parameters (ground ambient temperature, cruise ambient temperature, and fuel flash point) using the Gaussian distribution defined in Table 1 of this appendix.
 Table 1.—Gaussian Distribution for Ground Ambient Temperature, Cruise Ambient Temperature, and Fuel Flash Point
-Parameter | Temperature in deg F | Ground ambient temperature | Cruise ambient temperature | Fuel flash point (FP)
+Parameter | Temperature in deg F
+Ground ambient temperature | Cruise ambient temperature | Fuel flash point (FP)
 Mean Temp | 59.95 | −70 | 120
 Neg 1 std dev | 20.14 | 8 | 8
 Pos 1 std dev | 17.28 | 8 | 8
 (b) The Flight Length Distribution defined in Table 2 must be used in the Monte Carlo analysis.
 Table 2.—Flight Length Distribution
-Flight length (NM) | From | To | Airplane maximum range—nautical miles (NM) | 1000 | 2000 | 3000 | 4000 | 5000 | 6000 | 7000 | 8000 | 9000 | 10000
+Flight length (NM) | Airplane maximum range—nautical miles (NM)
+From | To | 1000 | 2000 | 3000 | 4000 | 5000 | 6000 | 7000 | 8000 | 9000 | 10000
 | | Distribution of flight lengths (percentage of total)
 0 | 200 | 11.7 | 7.5 | 6.2 | 5.5 | 4.7 | 4.0 | 3.4 | 3.0 | 2.6 | 2.3
 200 | 400 | 27.3 | 19.9 | 17.0 | 15.2 | 13.2 | 11.4 | 9.7 | 8.5 | 7.5 | 6.7
@@ -123,12 +125,12 @@ negative 1 std dev | 20.55
 positive 1 std dev | 13.21
 (4) The outside ambient air temperature (OAT) overnight temperature drop is to be chosen as a random value from the following Gaussian curve:
 Table 4.—Outside Air Temperature (OAT) Drop
-Parameter | OAT droptemperature °F
+Parameter | OAT drop temperature °F
 Mean Temp | 12.0
 1 std dev | 6.0
 (d) Number of Simulated Flights Required in Analysis. In order for the Monte Carlo analysis to be valid for showing compliance with the fleet average and warm day flammability exposure requirements, the applicant must run the analysis for a minimum number of flights to ensure that the fleet average and warm day flammability exposure for the fuel tank under evaluation meets the applicable flammability limits defined in Table 5 of this appendix.
 Table 5.—Flammability Exposure Limit
-Minimum number of flights in Monte Carlo analysis | Maximumacceptable Monte Carlo average fuel tank flammability exposure (percent) to meet 3 percent requirements | Maximumacceptable Monte Carlo average fuel tank flammability exposure (percent) to meet 7 percent part 26 requirements
+Minimum number of flights in Monte Carlo analysis | Maximum acceptable Monte Carlo average fuel tank flammability exposure (percent) to meet 3 percent requirements | Maximum acceptable Monte Carlo average fuel tank flammability exposure (percent) to meet 7 percent part 26 requirements
 10,000 | 2.91 | 6.79
 100,000 | 2.98 | 6.96
 1,000,000 | 3.00 | 7.00

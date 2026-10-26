@@ -7,7 +7,7 @@ In this Appendix icing conditions are defined by the parameters of altitude, ver
 (2) Maximum vertical extent: 12,000 feet.
 (3) Horizontal extent: Standard distance of 17.4 nautical miles.
 (4) Total liquid water content.
-Note: Liquid water content (LWC) in grams per cubic meter (g/m3) based on horizontal extent standard distance of 17.4 nautical miles.
+Note: Liquid water content (LWC) in grams per cubic meter (g/m 3) based on horizontal extent standard distance of 17.4 nautical miles.
 (5) Drop diameter distribution: Figure 2.
 (6) Altitude and temperature envelope: Figure 3.
 (b) Freezing Rain (Conditions with spectra maximum drop diameters greater than 500 µm):
@@ -15,7 +15,7 @@ Note: Liquid water content (LWC) in grams per cubic meter (g/m3) based on horizo
 (2) Maximum vertical extent: 7,000 ft.
 (3) Horizontal extent: Standard distance of 17.4 nautical miles.
 (4) Total liquid water content.
-Note: LWC in grams per cubic meter (g/m3) based on horizontal extent standard distance of 17.4 nautical miles.
+Note: LWC in grams per cubic meter (g/m 3) based on horizontal extent standard distance of 17.4 nautical miles.
 (5) Drop Diameter Distribution: Figure 5.
 (6) Altitude and temperature envelope: Figure 6.
 (c) Horizontal extent.
@@ -24,13 +24,6 @@ S = 1.266 − 0.213 log10(H)
 Where:
 S = Liquid Water Content Scale Factor (dimensionless) and
 H = horizontal extent in nautical miles
-ER04NO14.001
-ER04NO14.002
-ER04NO14.003
-ER04NO14.004
-ER04NO14.005
-ER04NO14.006
-ER04NO14.007
 PART II—AIRFRAME ICE ACCRETIONS FOR SHOWING COMPLIANCE WITH SUBPART B OF THIS PART
 (a) General. The most critical ice accretion in terms of airplane performance and handling qualities for each flight phase must be used to show compliance with the applicable airplane performance and handling qualities requirements for icing conditions contained in subpart B of this part. Applicants must demonstrate that the full range of atmospheric icing conditions specified in part I of this Appendix have been considered, including drop diameter distributions, liquid water content, and temperature appropriate to the flight conditions (for example, configuration, speed, angle of attack, and altitude).
 (1) For an airplane certified in accordance with § 25.1420(a)(1), the ice accretions for each flight phase are defined in part II, paragraph (b) of this Appendix.
