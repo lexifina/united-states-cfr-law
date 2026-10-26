@@ -26,4 +26,3 @@ Line 13. Report the total amount paid for nonresidential reestablishment expense
 Line 14. Report the total sum costs of nonresidential relocation expenses and payments (excluding agency administrative expenses) in Lines 12 and 13.
 Part D. Relocation Appeals
 Line 15. Report the total number of relocation appeals filed during the fiscal year by aggrieved persons (residential and nonresidential).
-ER03MY24.000
