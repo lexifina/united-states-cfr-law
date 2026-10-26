@@ -22,15 +22,3 @@ H-4 Model form for credit score disclosure exception for loans not secured by re
 H-5 Model form for credit score disclosure exception for loans where credit score is not available.
 H-6 Model form for risk-based pricing notice with credit score information
 H-7 Model form for account review risk-based pricing notice with credit score information
-ER15JA10.000
-ER15JA10.001
-ER15JA10.002
-ER15JA10.003
-ER15JA10.004
-ER15JA10.005
-ER15JA10.006
-ER15JA10.007
-ER15JY11.000
-ER15JY11.001
-ER15JY11.002
-ER15JY11.003
