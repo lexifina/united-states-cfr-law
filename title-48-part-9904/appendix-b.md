@@ -7,8 +7,7 @@ Operating results for the A Division are given in Table VII. Facilities capital 
 The example is based on a single set of illustrative contract cost data given in Table VIII. Since two methods, the "regular" and the "alternative" method, are potentially available for computing cost of money on facilities capital items two sets of different results can be considered.
 In addition, total cost input is used in the example as the allocation base for the G&A expense. Two variations of this example have been prepared to illustrate the impact of excluding or including cost of money from total cost input. Variation I, summarized in Table XIII, excludes cost of money from the cost input allocation base. Variation II, summarized in Tables XVII and XVIII, includes cost of money in the cost input allocation base.
 Throughout the example, where appropriate, cross references have been made to the text of the relevant parts of the Standard.
-Variation I—Total Cost Input Allocation Base Excludes Cost of Money
-Table I—Net Book Value of Home Office Facilities Capital
+Variation I—Total Cost Input Allocation Base Excludes Cost of Money Table I—Net Book Value of Home Office Facilities Capital
 | Dec. 31, 1974 | Dec. 31, 1975
 Administrative computer center facilities capital | $550,000 | $450,000
 Other home office facilities capital | 420,000 | 380,000
@@ -19,45 +18,49 @@ Administrative computer center facilities capital | $500,000
 Other home office facilities capital | 400,000
 Total | 900,000
 The above averages are based on data in Table I computed in accordance with the criteria in Instructions for Form CASB CMF (Recorded, Leased Property, Corporate).
-$970,000 + $830,000 = $1,800,000 1 2 = $900,000
+$970,000 + $830,000 = $1,800,000 12 = $900,000
 Table III—Home Office Depreciation and Amortization for 1975
 Administrative computer center facilities capital | $100,000
 Other home office facilities capital | 40,000
 Total | 140,000
 Table IV—Allocation of ABC Home Office Expenses to Divisions (Business Units)
-| Total expense | Allocation of business units | A | B | C
-Administrative computer center | $1,800,000 | $900,000 | $900,000
+| Total expense | Allocation of business units
+A | B | C
+Administrative computer center | $1,800,000 | $900,000 | $900,000 |
 Other home office | 4,800,000 | 2,400,000 | 1,200,000 | 1,200,000
 Total | 6,600,000 | 3,300,000 | 2,100,000 | 1,200,000
 The above allocation is carried out in accordance with CAS 403. The expense allocated to individual business units above includes depreciation and amortization as reflected in Table V.
 Table V—Depreciation and Amortization Component of ABC Home Office Expense
-| Total depreciation and amortization expense | Allocation of business units | A | B | C
-Administrative computer center | $100,000 | $50,000 | $50,000
+| Total depreciation and amortization expense | Allocation of business units
+A | B | C
+Administrative computer center | $100,000 | $50,000 | $50,000 |
 Other home office | 40,000 | 20,000 | 10,000 | 10,000
 Total | 140,000 | 70,000 | 60,000 | 10,000
 Table VI—Allocation of Home Office Facilities Capital to Business Units
 (a) Depreciation and amortization allocation in Table V converted to percentages.
-| Total depreciation and amoritzation expense (in percent) | Allocation of business units (in percent) | A | B | C
-Administrative computer center | 100 | 50 | 50
+| Total depreciation and amoritzation expense (in percent) | Allocation of business units (in percent)
+A | B | C
+Administrative computer center | 100 | 50 | 50 |
 Other home office | 100 | 50 | 25 | 25
 (b) Application of percentages in (a) to average net book values in Table II, in accordance with criteria in Instructions for Form CASB CMF (Recorded, Leased Property, Corporate).
-| Total net book value | Allocation of business units | A | B | C
-Administrative computer center facilities capital | $500,000 | $250,000 | $250,000
+| Total net book value | Allocation of business units
+A | B | C
+Administrative computer center facilities capital | $500,000 | $250,000 | $250,000 |
 Other home office facilities capital | 400,000 | 200,000 | 100,000 | $100,000
 Total | 900,000 | 450,000 | 350,000 | 100,000
 Table VII—"A" Division 1975 Operating Results
 | Total cost input and other work G.&A. | Fixed-price CAS-covered contract | Cost reimbursement CAS-covered contracts | Commercial and other work
-Direct material:
+Direct material: | | | |
 Purchased parts | $2,000,000 | $100,000 | $100,000 | $1,800,000
 Subcontract items | 21,530,000 | 11,750,000 | 7,205,000 | 2,575,000
 Total | 23,530,000 | 11,850,000 | 7,305,000 | 4,375,000
-Director labor and overhead:
-Engineering labor | 2,000,000 | 1,500,000 | 500,000
-Engineering overhead (80 pct of direct engineering labor) | 1,600,000 | 1,200,000 | 400,000
+Director labor and overhead: | | | |
+Engineering labor | 2,000,000 | 1,500,000 | 500,000 |
+Engineering overhead (80 pct of direct engineering labor) | 1,600,000 | 1,200,000 | 400,000 |
 Manufacturing labor | 3,000,000 | 1,200,000 | 200,000 | 1,600,000
 Manufacturing overhead (200 pct of direct management labor) | 6,000,000 | 2,400,000 | 400,000 | 3,200,000
-Other direct charges:
-Technical computer center direct charge 2,280 h at $250/h | 570,000 | 200,000 | 370,000
+Other direct charges: | | | |
+Technical computer center direct charge 2,280 h at $250/h | 570,000 | 200,000 | 370,000 |
 Total cost input (excluding cost of money) | 36,700,000 | 18,350,000 | 9,175,000 | 9,175,000
 G. & A. (8.99 pct of cost input) | 3,300,000 | 1,650,000 | 825,000 | 825,000
 Total | 40,000,000 | 20,000,000 | 10,000,000 | 10,000,000
@@ -80,8 +83,8 @@ Manufacturing overhead | 4,500,000 | 900,000
 Technical computer center | 450,000 | 90,000
 Occupancy | 3,000,000 | 200,000
 Facilities capital recorded by division A (see Form CASB CMF instructions for description of recorded) | 8,270,000 | 1,230,000
-Allocated from home office, table VI | 450,000
-Total division A | 8,720,000
+Allocated from home office, table VI | 450,000 |
+Total division A | 8,720,000 |
 Table X—Allocation of Undistributed Facilities Capital
 (a) Occupancy Pool Assets. Total occupancy pool expenses are assumed to be $1,000,000 of which $200,000 is depreciation per Table IX. Allocation of the $3,000,000 net book value of assets per Table IX is performed on the basis of floor space utilization.
 Indirect cost pool | Occupancy expense and depreciation allocation | Percent of total floor space utilized | Asset allocation
@@ -105,10 +108,7 @@ Engineering | $600,000 | $156,000 | $756,000
 Manufacturing | 2,250,000 | | 2,250,000
 Technical computer center (direct charge to contracts) | | 444,000 | 444,000
 Total | 2,850,000 | 600,000 | 3,450,000
-EC02FE91.070
-EC02FE91.071
-Table XIII—Summary of Cost of Money Computation on Facilities Capital
-[Cost of money excluded from total cost input]
+Table XIII—Summary of Cost of Money Computation on Facilities Capital [Cost of money excluded from total cost input]
 Allocation base | Allocated to contract, table VIII | Computation using regular facilities, capital cost of money factor, table XI | Amount | Computation using alternative facilities capital, cost of money factor, table XI | Amount
 Engineering labor | $330,000 | 0.04304 | $14,203 | 0.0128 | $4,244
 Manufacturing labor | 1,210,000 | .18 | 217,800 | .12 | 145,200
@@ -116,20 +116,16 @@ Technical computer time | 1 280 | 15.57895 | 4,362 | |
 Cost input | $5,369,000 | .00098 | 5,261 | .00850 | 45,636
 Total cost of money on facilities capital | | | 241,626 | | 195,060
 1 Hours.
-Variation II—Total Cost Input Allocation Base Includes Cost of Money
-Table XIV—Recomputation of "A" Division Total Cost Input To Reflect Inclusion of Cost of Money
-(a) Regular method:
+Variation II—Total Cost Input Allocation Base Includes Cost of Money Table XIV—Recomputation of "A" Division Total Cost Input To Reflect Inclusion of Cost of Money
+(a) Regular method: |
 Total cost input per table VII | $36,700,000
 Cost of money applicable to facilities capital identified with overhead pools per subtotal in column 5, table XV | 661,600
 Total cost input including cost of money | 37,361,600
-(b) Alternative method:
+(b) Alternative method: |
 Total cost input per table VII | 36,700,000
 Cost of money applicable to facilities capital identified with overhead pools per subtotal in column 5, table XVI | 385,600
 Total cost input including cost of money | 37,085,900
-EC02FE91.072
-EC02FE91.073
-Table XVII—Summary of Cost of Money Computation on Facilities Capital
-[Cost of money included in total cost input—regular method]
+Table XVII—Summary of Cost of Money Computation on Facilities Capital [Cost of money included in total cost input—regular method]
 Allocation base | Allocated to contract, table VIII | Computation using regular facilities, capital cost of money factor, table XV | Amount
 Engineering labor | $330,000 | 0.04304 | $14,203
 Manufacturing labor | 1,210,000 | .18 | 217,800
@@ -140,8 +136,7 @@ Cost input, table VIII | 5,369,000 | |
 Cost input including cost of money | 5,605,365 | .00096 | 5,381
 Total cost of money on facilities capital | | | 241,674
 1 Hours.
-Table XVIII—Summary of Cost of Money Computation on Facilities Capital
-[Cost of money included in total cost input—alternative method]
+Table XVIII—Summary of Cost of Money Computation on Facilities Capital [Cost of money included in total cost input—alternative method]
 Allocation base | Allocated to contract, table VIII | Computation using alternative facilities, capital cost of money factor, table XVI | Amount
 Engineering labor | $330,000 | 0.0128 | $4,224
 Manufacturing labor | 1,210,000 | .12 | 145,200
