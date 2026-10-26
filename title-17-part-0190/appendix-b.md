@@ -15,23 +15,5 @@ Framework 1—Special Distribution of Customer Funds When the Cross-Margining Ac
 (ii) If the XM shortfall as a percentage of the segregation requirement for the XM pool is greater than the non-XM shortfall as a percentage of the segregation requirement for the non-XM pool, non-XM customer net equity claims will be paid pro rata out of the available non-XM pool, and XM customer net equity claims will be paid pro rata out of the available XM pool.
 (4) In this way, non-XM customers will never be adversely affected by an XM shortfall.
 (g) The following examples illustrate the operation of this framework 1. The examples assume that the FCM has two futures customers, one with exclusively XM accounts and one with exclusively non-XM accounts.
-ER13AP21.010
-ER13AP21.011
 Framework 2—Special Allocation of Shortfall to Customer Claims When Customer Funds for Futures Contracts and Cleared Swaps Customer Collateral are Held in a Depository Outside of the United States or in a Foreign Currency
 The Commission has established the following allocation convention with respect to futures customer funds (as § 1.3 of this chapter defines such term) and Cleared Swaps Customer Collateral (as § 22.1 of this chapter defines such term) (both of which are customer funds (as § 1.3 of this chapter defines such term) that are segregated pursuant to the Act and Commission rules thereunder), which applies in certain circumstances when futures customer funds or Cleared Swaps Customer Collateral are held by a futures commission merchant in a depository outside the United States ("U.S.") or in a foreign currency. If a futures commission merchant enters into bankruptcy and maintains futures customer funds or Cleared Swaps Customer Collateral in a depository outside the U.S. or in a depository located in the U.S. in a currency other than U.S. dollars, the trustee shall use the following allocation procedures to calculate the claim of each public customer in the futures account class or each public customer in the cleared swaps account class, as applicable, when a sovereign action of a foreign government or court has occurred that contributes to shortfalls in the amounts of futures customer funds or Cleared Swaps Customer Collateral. In the event a sovereign action creates or contributes to a shortfall in customer property, applying the allocation convention will result in a reallocation of distributions of futures customer funds or Cleared Swaps Collateral to take into account the impact of the sovereign action. For purposes of this bankruptcy convention, sovereign action of a foreign government or court would include, but not be limited to, the application or enforcement of statutes, rules, regulations, interpretations, advisories, decisions, or orders, formal or informal, by a Federal, state, or provincial executive, legislature, judiciary, or government agency. The trustee should perform the allocation procedures separately with respect to each public customer in the futures account class or cleared swaps account class.
-ER13AP21.012
-ER13AP21.013
-ER13AP21.014
-ER13AP21.015
-ER13AP21.016
-ER13AP21.017
-ER13AP21.018
-ER13AP21.019
-ER13AP21.020
-ER13AP21.021
-ER13AP21.022
-ER13AP21.023
-ER13AP21.024
-ER13AP21.025
-ER13AP21.026
-ER13AP21.027
