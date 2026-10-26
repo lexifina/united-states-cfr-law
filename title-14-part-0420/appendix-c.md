@@ -9,7 +9,7 @@
 Table C-1—Overflight Analysis Data Requirements
 Data category | Data item | Data source
 Population Data | Total population within a populated area (N) | Within 100 nm of the launch point: U.S. census data at the census block-group level. Downrange from 100 nm beyond the launch point, world population data are available from:
-| Total landmass area within the populated area (A) | Carbon Dioxide Information Analysis Center (CDIAC) Oak Ridge National LaboratoryDatabase—Global Population Distribution (1990), Terrestrial Area and Country Name Information on a One by One Degree Grid Cell Basis (DB1016 (8-1996)
+| Total landmass area within the populated area (A) | Carbon Dioxide Information Analysis Center (CDIAC) Oak Ridge National Laboratory Database—Global Population Distribution (1990), Terrestrial Area and Country Name Information on a One by One Degree Grid Cell Basis (DB1016 (8-1996)
 Launch Vehicle Data | Failure probability—Pf = 0.10 | N/A.
 | Effective casualty area (Ac) | See table C-3.
 | Overflight dwell time | Determined by range from the launch point or trajectory used by applicant.
@@ -21,7 +21,6 @@ Launch Vehicle Data | Failure probability—Pf = 0.10 | N/A.
 (4) The Pi computations do not directly account for populated areas whose areas are bisected by an appendix A flight corridor centerline or an appendix B nominal trajectory ground trace. Accordingly, an applicant must evaluate Pi for each of the bi-sections as two separate populated areas, as shown in figure C-4, which shows one bi-section to the left of an appendix A flight corridor's centerline and one to its right.
 (5) Probability of impact (Pi) computations for a populated area in an appendix A flight corridor. An applicant shall compute Pi for each populated area using the following method:
 (i) For the launch and downrange areas, but not for a final stage impact dispersion area for a guided suborbital launch vehicle, an applicant shall compute Pi for each populated area using the following equation:
-ER19oc00.094
 where:
 x1, x2 = closest and farthest downrange distance (nm) along the flight corridor centerline to the populated area (see figure C-1)
 y1, y2 = closest and farthest cross range distance (nm) to the populated area measured from the flight corridor centerline (see figure C-1)
@@ -31,7 +30,7 @@ Pf = probability of failure = 0.10
 R = IIP range rate (nm/sec) (see table C-2)
 C = 643 seconds (constant)
 Table C-2—IIP Range Rate vs. IIP Range
-IIP range(nm) | IIP range rate(nm/s)
+IIP range (nm) | IIP range rate (nm/s)
 0-75 | 0.75
 76-300 | 1.73
 301-900 | 4.25
@@ -42,62 +41,51 @@ IIP range(nm) | IIP range rate(nm/s)
 4501-5250 | 154.95
 (ii) For each populated area within a final stage impact dispersion area, an applicant shall compute Pi using the following method:
 (A) An applicant shall estimate the probability of final stage impact in the x and y sectors of each populated area within the final stage impact dispersion area using equations C2 and C3:
-ER19oc00.095
 where:
 X1, X2 = closest and farthest downrange distance, measured along the flight corridor centerline, measured from the nominal impact point to the populated area (see figure C-3)
 σx = one-third of the impact dispersion radius (see figure C-3)
 exp = exponential function (e x)
-ER19oc00.096
 where:
 y1, y2 = closest and farthest cross range distance to the populated area measured from the flight corridor centerline (see figure C-3)
 σy = one-third of the impact dispersion radius (see figure C-3)
 exp = exponential function (e x)
 (B) If a populated area intersects the impact dispersion area boundary so that the x2 or y2 distance would otherwise extend outside the impact dispersion area, the x2 or y2 distance should be set equal to the impact dispersion area radius. The x2 distance for populated area A in figure C-3 is an example. If a populated area intersects the flight azimuth, an applicant shall solve equation C3 by obtaining the solution in two parts. An applicant shall determine, first, the probability between y1 = 0 and y2 = a and, second, the probability between y1 = 0 and y2 = b, as depicted in figure C-4. The probability Py is then equal to the sum of the probabilities of the two parts. If a populated area intersects the line that is normal to the flight azimuth on the impact point, an applicant shall solve equation C2 by obtaining the solution in two parts in the same manner as with the values of x.
 (C) An applicant shall calculate the probability of impact for each populated area using equation C4 below:
-ER19oc00.097
 where: Ps = 1−Pf = 0.90
-ER19oc00.098
 (6) Probability of impact computations for a populated area in an appendix B flight corridor. An applicant shall compute Pi using the following method:
 (i) For the launch and downrange areas, but not for a final stage impact dispersion area for a guided suborbital launch vehicle, an applicant shall compute Pi for each populated area using the following equation:
-ER19OC00.099
 where:
 y1,y2 = closest and farthest cross range distance (nm) to a populated area measured from the nominal trajectory IIP ground trace (see figure C-2)
 σy = one-third of the cross range distance (nm) from nominal trajectory to the flight corridor boundary (see figure C-2)
-exp = exponential function (ex)
+exp = exponential function (e x)
 Pf = probability of failure = 0.10
 t = flight time from lift-off to orbital insertion (seconds)
 td = overflight dwell time (seconds)
 (ii) For each populated area within a final stage impact dispersion area, an applicant shall compute Pi using the following method:
 (A) An applicant shall estimate the probability of final stage impact in the x and y sectors of each populated area within the final stage impact dispersion area using equations C6 and C7:
-ER19OC00.100
 where:
 x1, x2 = closest and farthest downrange distance, measured along nominal trajectory IIP ground trace, measured from the nominal impact point to the populated area (see figure C-3)
 σx = one-third of the impact dispersion radius (see figure C-3)
-exp = exponential function (ex)
-ER19OC00.105
+exp = exponential function (e x)
 where:
 y1, y2 = closest and farthest cross range distance to the populated area measured from the nominal trajectory IIP ground trace (see figure C-3)
 σy = one-third of the impact dispersion radius (see figure C-3)
-exp = exponential function (ex)
+exp = exponential function (e x)
 (B) If a populated area intersects the impact dispersion area boundary so that the x2 or y2 distance would otherwise extend outside the impact dispersion area, the x2 or y2 distance should be set equal to the impact dispersion area radius. The x2 distance for populated area A in figure C-3 is an example. If a populated area intersects the flight azimuth, an applicant shall solve equation C7 by obtaining the solution in two parts. An applicant shall determine, first, the probability between y1 = 0 and y2 = a and, second, the probability between y1 = 0 and y2 = b, as depicted in figure C-4. The probability Py is then equal to the sum of the probabilities of the two parts. If a populated area intersects the line that is normal to the flight azimuth on the impact point, an applicant shall solve equation C6 by obtaining the solution in two parts in a similar manner with the values of x.
 (C) An applicant shall calculate the probability of impact for each populated area using equation C8 below:
-ER19OC00.106
 where: Ps = 1−Pf = 0.90
-ER19OC00.107
-ER19OC00.108
 (7) Using the Pi calculated in either subparagraph (c)(5) or (6) of this paragraph, an applicant shall calculate the casualty expectancy for each populated area within the flight corridor in accordance with equation C9. Eck is the casualty expectancy for a given populated area as shown in equation C9, where individual populated areas are designated with the subscript "k".
-ER19OC00.109
 where:
 Ac = casualty area (from table C-3)
 Ak = populated area
 Nk = population in Ak
 Table C-3—Effective Casualty Area (Miles 2) as a Function of IIP Range (NM)
-Orbital launch vehicles | Instantaneous impact point range (nautical miles) | Small | Medium | Medium large | Large | Suborbital launchvehicles | Guided
+Orbital launch vehicles | Suborbital launch vehicles
+Instantaneous impact point range (nautical miles) | Small | Medium | Medium large | Large | Guided
 0-49 | 3.14 × 10−2 | 1.28 × 10−1 | 4.71 × 10−2 | 8.59 × 10−2 | 4.3 × 10−1
 50-1749 | 2.47 × 10−2 | 2.98 × 10−2 | 9.82 × 10−3 | 2.45 × 10−2 | 1.3 × 10−1
 1750-5000 | 3.01 × 10−4 | 5.52 × 10−3 | 7.82 × 10−3 | 1.14 × 10−2 | 3.59 × 10−6
 (8) An applicant shall estimate the total corridor risk using the following summation of risk:
-ER19OC00.110
 (9) Alternative casualty expectancy (EC) analyses. An applicant may employ specified variations to the analysis defined by subparagraphs (c)(1)-(8). Those variations are identified in subparagraphs (9)(i) through (vi) of this paragraph. Subparagraphs (i) through (iv) permit an applicant to make conservative assumptions that would lead to an overestimation of the corridor EC compared with the analysis defined by subparagraphs (c)(1)-(8). In subparagraphs (v) and (vi), an applicant that would otherwise fail the analysis prescribed by subparagraphs (c)(1)-(8) may avoid (c)(1)-(8)'s overestimation of the probability of impact in each populated area. An applicant employing a variation shall identify the variation used, show and discuss the specific assumptions made to modify the analysis defined by subparagraphs (c)(1)-(8), and demonstrate how each assumption leads to overestimation of the corridor EC compared with the analysis defined by subparagraphs (c)(1)-(c)(8).
 (i) Assume that Px and Py have a value of 1.0 for all populated areas.
 (ii) Combine populated areas into one or more larger populated areas, and use a population density for the combined area or areas equal to the most densely populated area.

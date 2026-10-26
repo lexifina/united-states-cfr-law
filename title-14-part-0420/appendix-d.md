@@ -14,19 +14,16 @@
 (2) An applicant shall define an overflight exclusion zone as a circle with a radius of 1600 feet centered on the launch point.
 (3) An applicant shall define an impact dispersion area for each stage of the suborbital launch vehicle chosen in accordance with subparagraph (b)(1) in accordance with the following:
 (i) An applicant shall calculate the impact range for the final launch vehicle stage (Dn). An applicant shall set Dn equal to the last stage apogee altitude (Hn) multiplied by an impact range factor [IP(Hn)] in accordance with the following:
-ER19OC00.111
 where:
 IP(Hn) = 0.4 for an apogee less than 100 km, and
 IP(Hn) = 0.7 for an apogee of 100 km or greater.
 (ii) An applicant shall calculate the impact range for each intermediate stage (Di), where i ε {1, 2, 3,... (n− 1)}, and where n is the total number of launch vehicle stages. Using the apogee altitude (Hi) of each intermediate stage, an applicant shall use equation D1 to compute the impact range of each stage by substituting Hi for Hn. An applicant shall use the impact range factors provided by equation D1.
 (iii) An applicant shall calculate the impact dispersion radius for the final launch vehicle stage (Rn). An applicant shall set Rn equal to the last stage apogee altitude (Hn) multiplied by an impact dispersion factor [DISP(Hn)] in accordance with the following:
-ER19Oc00.112
 where:
 DISP(Hn) = 0.4 for an apogee less than 100 km, and
 DISP(Hn) = 0.7 for an apogee of 100 km or greater.
 (iv) An applicant shall calculate the impact dispersion radius for each intermediate stage (Ri), where i ε {1, 2, 3,... (n− 1)} and where n is the total number of launch vehicle stages. Using the apogee altitude (Hi) of each intermediate stage, an applicant shall use equation D2 to compute an impact dispersion radius of each stage by substituting Hi for Hn. An applicant shall use the dispersion factors provided by equation D2.
 (4) An applicant shall display an overflight exclusion zone, each intermediate and final stage impact point (Di through Dn), and each impact dispersion area for the intermediate and final launch vehicle stages on maps in accordance with paragraph (b)(2).
-ER19Oc00.113
 (d) Evaluate the Overflight Exclusion Zone and Impact Dispersion Areas
 (1) An applicant shall evaluate the overflight exclusion zone and each impact dispersion area for the presence of any populated areas. If an applicant determines that no populated area is located within the overflight exclusion zone or any impact dispersion area, then no additional steps are necessary.
 (2) If a populated area is located in an overflight exclusion zone, an applicant may modify its proposal or demonstrate that there are times when no people are present or that the applicant has an agreement in place to evacuate the public from the overflight exclusion zone during a launch.
@@ -35,40 +32,33 @@ ER19Oc00.113
 (1) An applicant shall estimate the expected average number of casualties, EC, within the impact dispersion areas according to the following method:
 (i) An applicant shall calculate the Ec by summing the impact risk for the impact dispersion areas of the final launch vehicle stage and all intermediate stages. An applicant shall estimate Ec for the impact dispersion area of each stage by using equations D3 through D7 for each of the populated areas located within the impact dispersion areas.
 (ii) An applicant shall estimate the probability of impacting inside the X and Y sectors of each populated area within each impact dispersion area using equations D3 and D4:
-ER19Oc00.114
 where:
 x1, x2 = closest and farthest downrange distance to populated area (see figure D-2)
 σx = one-third of the impact dispersion radius (see figure D-2)
-exp = exponential function (ex)
-ER19Oc00.115
+exp = exponential function (e x)
 where:
 y1, y2 = closest and farthest cross range distance to the populated area (see figure D-2)
 σy = one-third of the impact dispersion radius (see figure D-2)
-exp = exponential function (ex)
-ER19Oc00.116
+exp = exponential function (e x)
 (iii) If a populated area intersects the impact dispersion area boundary so that the x2 or y2 distance would otherwise extend outside the impact dispersion area, the x2 or y2 distance should be set equal to the impact dispersion area radius. The x2 distance for populated area A in figure D-2 is an example.
 (iv) If a populated area intersects the flight azimuth, an applicant shall solve equation D4 by obtaining the solution in two parts. An applicant shall determine, first, the probability between y1 = 0 and y2 = a and, second, the probability between y1 = 0 and y2 = b, as depicted in figure D-3. The probability Py is then equal to the sum of the probabilities of the two parts. If a populated area intersects the line that is normal to the flight azimuth on the impact point, an applicant shall solve equation D3 by obtaining the solution in two parts in the same manner as with the values of x.
-ER19Oc00.117
 (v) An applicant shall calculate the probability of impact (Pi) for each populated area using the following equation:
-ER19Oc00.118
 where:
 Ps = probability of success = 0.98
-(vi) An applicant shall calculate the casualty expectancy for each populated area. Ec k is the casualty expectancy for a given populated area as shown in equation D6, where individual populated areas are designated with the subscript "k".
-ER19Oc00.119
+(vi) An applicant shall calculate the casualty expectancy for each populated area. Eck is the casualty expectancy for a given populated area as shown in equation D6, where individual populated areas are designated with the subscript "k".
 where:
 k { {1, 2, 3,..., n}
 Ac = casualty area (from table D-1)
 Ak = populated area
 Nk = population in Ak
 Table D-1—Effective Casualty Area (Ac) vs. Impact Range
-Impact range (nm) | Effective casualty area(miles2)
+Impact range (nm) | Effective casualty area (miles 2)
 0-4 | 9 × 10−3
 5-49 | 9 × 10−3
 50-1,749 | 1.1 × 10−5
 1,750-4,999 | 3.6 × 10−6
 5,000-more | 3.6 × 10−6
 (vii) An applicant shall estimate the total risk using the following summation of risk:
-ER19OC00.120
 (viii) Alternative casualty expectancy (Ec) analysis. An applicant may employ specified variations to the analysis defined by subparagraphs (d)(1)(i)-(vii). Those variations are identified in subparagraphs (viii)(A) through (F) of this paragraph. Subparagraphs (A) through (D) permit an applicant to make conservative assumptions that would lead to an overestimation of Ec compared with the analysis defined by subparagraphs (d)(1)(i)-(vii). In subparagraphs (E) and (F), an applicant that would otherwise fail the analysis prescribed by subparagraphs (d)(1)(i)-(vii) may avoid (d)(1)(i)-(vii)'s overestimation of the probability of impact in each populated area. An applicant employing a variation shall identify the variation used, show and discuss the specific assumptions made to modify the analysis defined by subparagraphs (d)(1)(i)-(vii), and demonstrate how each assumption leads to overestimation of the corridor Ec compared with the analysis defined by subparagraphs (d)(1)(i)-(vii).
 (A) Assume that Px and Py have a value of 1.0 for all populated areas.
 (B) Combine populated areas into one or more larger populated areas, and use a population density for the combined area or areas equal to the most densely populated area.
