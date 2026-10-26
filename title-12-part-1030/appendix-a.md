@@ -40,7 +40,7 @@ APY=5.65%
 D. Tiered-Rate Accounts (Different Rates Apply to Specified Balance Levels)
 For accounts in which two or more interest rates paid on the account are applicable to specified balance levels, the institution must calculate the annual percentage yield in accordance with the method described below that it uses to calculate interest. In all cases, an annual percentage yield (or a range of annual percentage yields, if appropriate) must be disclosed for each balance tier.
 For purposes of the examples discussed below, assume the following:
-Interest rate(percent) | Deposit balance required to earn rate
+Interest rate (percent) | Deposit balance required to earn rate
 5.25 | Up to but not exceeding $2,500.
 5.50 | Above $2,500 but not exceeding $15,000.
 5.75 | Above $15,000.
@@ -114,9 +114,7 @@ APY Earned=100 [(1+21/2,000) (365/91)−1]
 APY Earned=4.28%
 B. Special Formula for Use Where Periodic Statement Is Sent More Often Than the Period for Which Interest Is Compounded
 Institutions that use the daily balance method to accrue interest and that issue periodic statements more often than the period for which interest is compounded shall use the following special formula:
-ER03JY19.001
 The following definition applies for use in this formula (all other terms are defined under part II):
 "Compounding" is the number of days in each compounding period.
 Assume an institution calculates interest for the statement period using the daily balance method, pays a 5.00% interest rate, compounded annually, and provides periodic statements for each monthly cycle. The account has a daily balance of $1,000 for a 30-day statement period. The interest earned is $4.11 for the period, and the annual percentage yield earned (using the special formula above) is 5.00%:
-ER03JY19.002
 APY Earned=5.00%
