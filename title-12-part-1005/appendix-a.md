@@ -142,36 +142,18 @@ If you need more information about our error-resolution procedures, call us at [
 (c) Warning regarding unverified prepaid accounts (§ 1005.18(e)(3)).
 It is important to register your prepaid account as soon as possible. Until you register your account and we verify your identity, we are not required to research or resolve any errors regarding your account. To register your account, go to [internet address] or call us at [telephone number]. We will ask you for identifying information about yourself (including your full name, address, date of birth, and [Social Security Number] [government-issued identification number]), so that we can verify your identity.
 A-8—Model Clause for Electronic Collection of Returned Item Fees (§ 1005.3(b)(3))
-If your payment is returned unpaid, you authorize [us/name of person collecting the fee electronically] to make a one-time electronic fund transfer from your account to collect a fee of [$____]. [If your payment is returned unpaid, you authorize [us/name of person collecting the fee electronically] to make a one-time electronic fund transfer from your account to collect a fee. The fee will be determined [by]/[as follows]:
-ER27DE11.000
-ER22NO16.005
-ER22NO16.006
-ER22NO16.007
-ER22NO16.008
-ER22NO16.009
-ER22NO16.010
+If your payment is returned unpaid, you authorize [us/name of person collecting the fee electronically] to make a one-time electronic fund transfer from your account to collect a fee of [$________]. [If your payment is returned unpaid, you authorize [us/name of person collecting the fee electronically] to make a one-time electronic fund transfer from your account to collect a fee. The fee will be determined [by]/[as follows]:
 A-11 through A-29 [Reserved]
 A-30(a)—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(1))
-ER22MY13.242
 A-30(b)—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(1))
-ER22MY13.243
 A-30(c)—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(1))
-ER22MY13.244
 A-30(d)—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(1))
-ER22MY13.245
 A-31—Model Form for Receipts for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(2))
-ER18SE14.015
 A-32—Model Form for Combined Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(3))
-ER22MY13.247
-ER22MY13.248
 A-33—Model Form for Pre-Payment Disclosures for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(1))
-ER22MY13.249
 A-34—Model Form for Receipts for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(2))
-ER22MY13.250
 A-35—Model Form for Combined Disclosures for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(3))
-ER22MY13.251
 A-36—Model Form for Error Resolution and Cancellation Disclosures (Long) (§ 1005.31(b)(4))
-ER22MY13.252
 A-37—Model Form for Error Resolution and Cancellation Disclosures (Short)
 (§ 1005.31(b)(2)(iv) and (b)(2)(vi))
 You have a right to dispute errors in your transaction. If you think there is an error, contact us within 180 days at [insert telephone number] or [insert website]. You can also contact us for a written explanation of your rights.
@@ -180,11 +162,6 @@ For questions or complaints about [insert name of remittance transfer provider],
 State Regulatory Agency, 800-111-2222, www.stateregulatoryagency.gov
 Consumer Financial Protection Bureau, 855-411-2372, 855-729-2372 (TTY/TDD), www.consumerfinance.gov
 A-38—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency—Spanish (§ 1005.31(b)(1))
-ER22MY13.254
 A-39—Model Form for Receipts for Remittance Transfers Exchanged into Local Currency—Spanish (§ 1005.31(b)(2))
-ER22MY13.255
-ER22MY13.256
 A-40—Model Form for Combined Disclosures for Remittance Transfers Exchanged into Local Currency—Spanish (§ 1005.31(b)(3))
-ER18SE14.016
 A-41—Model Form for Error Resolution and Cancellation Disclosures (Long)—Spanish (§ 1005.31(b)(4))
-ER22MY13.258
