@@ -11,17 +11,16 @@ Figure No. | Title
 8 | Typical threaded straight stuffing box and packing gland lead entrance with provision for hose conduit.
 9 | Typical slip-fit straight-type and angle-type stuffing box and packing gland lead entrance.
 10 | Typical slip-fit angle-type stuffing box and packing gland lead entrance and typical plug for spare lead entrance hole.
-EC22OC91.024
 Figure 2—Sample Bill of Material
-B. of M. No. ____
-Date ______
+B. of M. No. ________
+Date ____________
 Revision
 Date
-1. ______
-2. ______
-3. ______
-4. ______
-5. ______
+1. ____________
+2. ____________
+3. ____________
+4. ____________
+5. ____________
 Bill of Material (Electrical)
 (Manufacturing Company)
 Model:
@@ -30,51 +29,51 @@ Approval 2G-
 Motor:
 (Manufacturing Company)
 Frame
-___ Hp., ___ Volts, ___ Ph.,
-___ Cy., ___ R.P.M.
-X/P__________(Date).
-______(Date) Extension.
+______ Hp., ______ Volts, ______ Ph.,
+______ Cy., ______ R.P.M.
+X/P____________________(Date).
+____________(Date) Extension.
 Starter:
 (Manufacturing Company)
 Model
-____Hp., ____Volts.
+________Hp., ________Volts.
 X/P
 (Date)
-______ Extension.
+____________ Extension.
 (Date)
 Cable—Motor to Starter:
-Cond. No. ___, ___″
-O.D., ___′ Long
+Cond. No. ______, ______″
+O.D., ______′ Long
 Hose—Motor to Starter Cable:
-___″ I.D., ___″ O.D., ___ ′ Long
+______″ I.D., ______″ O.D., ______ ′ Long
 Portable (Trailing) Cable—
 Type:
-Cond. No. ___, ___″
-O.D., ___′ Long
+Cond. No. ______, ______″
+O.D., ______′ Long
 Hose—for Portable Cable:
-___″ I.D., ___″ O.D., ___′ Long
+______″ I.D., ______″ O.D., ______′ Long
 Hose Clamps—
-2 for Motor-Starter Hose conduit ___″ D
-1 for Portable Cable Hose conduit __″ D*
+2 for Motor-Starter Hose conduit ______″ D
+1 for Portable Cable Hose conduit ____″ D*
 *Only when short length of hose is used. Trolley Tap—
 (Manufacturing Company)
-Model ______________ with ___-ampere fuse.
+Model ____________________________ with ______-ampere fuse.
 Rail Clamps, 2.
-1 Ground Clamp, Cat. No. ___
+1 Ground Clamp, Cat. No. ______
 (Manufacturing Company)
-1 Return Power Conductor, Cat. No. ___
+1 Return Power Conductor, Cat. No. ______
 (Manufacturing Company)
 or—as Optional
-Plug on outby end of potable cable for insertion into receptacle on distribution box or equivalent with short-circuit protective device set at ___ amperes.
+Plug on outby end of potable cable for insertion into receptacle on distribution box or equivalent with short-circuit protective device set at ______ amperes.
 Static-free Belt
 Model
 Style
-Catalog No. ___,
+Catalog No. ______,
 (Manufacturing Company)
 Guard for Belt—
 Material
-Overall Dimensions ___″ Long × ___″
-Wide × ___″ High
+Overall Dimensions ______″ Long × ______″
+Wide × ______″ High
 Note: The foregoing is intended as a guide. Additional electrical components used shall be completely identified.
 Figure 3—Material To Be Included With the Operating Instructions—on or With the Wiring Diagram Submitted to Each Customer
 (Sometimes referred to as "Caution Statement")
@@ -86,30 +85,30 @@ To retain "permissibility" of this equipment the following conditions shall be s
 4. Renewals and repairs. Inspections, repairs, or renewals of electrical parts shall not be made unless the portable cable is disconnected from the circuit furnishing power, and the cable shall not be connected again until all parts are properly reassembled. Special care shall be taken in making renewals or repairs. Leave no parts off. Use replacement parts exactly like those furnished by the manufacturer. When any lead entrance is disturbed, the original leads or exact duplicates thereof shall be used and stuffing boxes shall be repacked in the approved manner.
 5. Cable requirements. A flame-resistant portable cable bearing a MSHA assigned identification number, adequately protected by an automatic circuit-interrupting device shall be used. Special care shall be taken in handling the cable to guard against mechanical injury and wear. Splices in portable cables shall be made in a workmanlike manner, mechanically strong, and well insulated. Not more than five temporary splices are permitted in a portable cable regardless of length. Connections and wiring to the outby end of the cable shall be in accordance with recognized standards of safety.
 Figure 4—Sample Factory Inspection Form
-Date ______
-Inspector ____________
+Date ____________
+Inspector ________________________
 machine
 Designation:
-Type: ______ Serial No.
+Type: ____________ Serial No.
 motor
 Manufacturer:
-Serial No.: ___ Type:
+Serial No.: ______ Type:
 Frame:
-Hp.__ F.L. Speed:__ Volts:__ Amps._
-Winding: ___ X/P No. ___ (or parts list designation).
+Hp.____ F.L. Speed:____ Volts:____ Amps.__
+Winding: ______ X/P No. ______ (or parts list designation).
 starter
 Manufacturer:
-Serial No. ___ Type:
-Hp. ___ Volts: ___ X/P No. ___ (or parts list designation).
-Short-circuit protection ___ amps.
-Overload-current protection ___ amps.
+Serial No. ______ Type:
+Hp. ______ Volts: ______ X/P No. ______ (or parts list designation).
+Short-circuit protection ______ amps.
+Overload-current protection ______ amps.
 portable cable
-Manufacturer: _________________
-Type: ______ Conductors: _______
-Length: ___ O.D. ___ MSHA No. ____
+Manufacturer: __________________________________
+Type: ____________ Conductors: ______________
+Length: ______ O.D. ______ MSHA No. ________
 Is all wiring around machine adequately protected from mechanical damage?
-By hose conduit_____, Troughs
-Metal tubing _____, Other
+By hose conduit__________, Troughs
+Metal tubing __________, Other
 By removal of all sharp corners or edges?
 Is wiring separated from hydraulic components?
 Is an adequate insulated strain clamp provided for the portable cable?
@@ -118,11 +117,5 @@ Are lockwashers (or equivalent) provided for all explosion-proof enclosure faste
 Are all plane joints securely fastened so that an 0.005-inch feeler gage cannot be inserted?
 Are all threaded covers secured?
 How?
-Are all electrical connections secure ____and properly insulated where necessary?
+Are all electrical connections secure ________and properly insulated where necessary?
 Note: Add appropriate material for each explosion-proof enclosure when more than a motor and starter are on a machine.
-EC22OC91.014
-EC22OC91.015
-EC22OC91.016
-EC22OC91.017
-EC22OC91.018
-EC22OC91.019

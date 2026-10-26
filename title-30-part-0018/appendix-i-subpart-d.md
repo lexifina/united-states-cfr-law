@@ -49,7 +49,8 @@ Conductor size—AWG or MCM | 3-conductor types G-GC and SIIC-GC 2,000 volts | 3
 300 | 275 | 275
 350 | 305 | 305
 Table 4—Nominal Diameters of Round Cables With Tolerances in Inches—600 Volts
-Conductor size—AWG or MCM | Single conductor | 2-conductor | Types W & G twisted | Type PG, 2 power | Type PCG, 3 power, ground | 3-conductor | Types W & G | Type PG, 3 power, ground | Type PCG, 3 power, 2 control, ground | 4-conductor—Types W & G | 5-conductor—Types W & G | 6-conductor | Type w | Tolerance
+Conductor size—AWG or MCM | Single conductor | 2-conductor | 3-conductor | 4-conductor—Types W & G | 5-conductor—Types W & G | 6-conductor
+Types W & G twisted | Type PG, 2 power | Type PCG, 3 power, ground | Types W & G | Type PG, 3 power, ground | Type PCG, 3 power, 2 control, ground | Type w | Tolerance
 8 | 0.44 | 0.81 | 0.84 | 0.94 | 0.91 | 0.93 | 1.03 | 0.99 | 1.07 | 1.18 | ±0.03
 6 | .51 | .93 | .93 | .98 | 1.01 | 1.03 | 1.18 | 1.10 | 1.21 | 1.31 | ±.03
 4 | .57 | 1.08 | 1.08 | 1.10 | 1.17 | 1.20 | 1.29 | 1.27 | 1.40 | 1.52 | ±.03
@@ -67,24 +68,29 @@ Conductor size—AWG or MCM | Single conductor | 2-conductor | Types W & G twist
 450 | 1.26 | 2.67 | | | 2.94 | | | 3.26 | | | ±.06
 500 | 1.31 | 2.76 | | | 3.03 | | | 3.40 | | | ±.06
 Table 5—Nominal Dimensions of Flat Cables With Tolerances in Inches—600 Volts
-Conductor size—AWG | 2-conductor | Type W | Major | O.D. | Tolerance | Minor | O.D. | Tolerance | Type G | Major | O.D. | Tolerance | Minor | O.D. | Tolerance | 3-conductor—Type G | Major | O.D. | Tolerance | Minor | O.D. | Tolerance
-8 | 0.84 | ±0.04 | 0.51 | ±0.03
+Conductor size—AWG | 2-conductor | 3-conductor—Type G
+Type W | Type G | Major | Minor
+Major | Minor | Major | Minor | O.D. | Tolerance | O.D. | Tolerance
+O.D. | Tolerance | O.D. | Tolerance | O.D. | Tolerance | O.D. | Tolerance
+8 | 0.84 | ±0.04 | 0.51 | ±0.03 | | | | | | | |
 6 | .93 | ±.04 | .56 | ±.03 | 1.02 | ±.04 | 0.56 | ±.03 | 1.65 | ±0.06 | 0.67 | ±0.05
 4 | 1.05 | ±.04 | .61 | ±.03 | 1.15 | ±.04 | .61 | ±.03 | 1.85 | ±.06 | .75 | ±.05
 3 | 1.14 | ±.04 | .68 | ±.03 | 1.26 | ±.04 | .68 | ±.03 | 1.99 | ±.06 | .77 | ±.05
 2 | 1.24 | ±.04 | .73 | ±.03 | 1.35 | ±.04 | .73 | ±.06 | 2.10 | ±.06 | .81 | ±.05
 1 | 1.40 | ±.04 | .81 | ±.03 | 1.55 | ±.04 | .81 | ±.03 | 2.43 | ±.06 | .97 | ±.05
-1/0 | 1.51 | ±.04 | .93 | ±.03 | 1.67 | ±.04 | .93 | ±.03
-2/0 | 1.63 | ±.04 | .99 | ±.03 | 1.85 | ±.04 | .99 | ±.03
-3/0 | 1.77 | ±.04 | 1.03 | ±.03 | 2.00 | ±.04 | 1.03 | ±.03
-4/0 | 1.89 | ±.04 | 1.10 | ±.03 | 2.10 | ±.04 | 1.10 | ±.03
+1/0 | 1.51 | ±.04 | .93 | ±.03 | 1.67 | ±.04 | .93 | ±.03 | | | |
+2/0 | 1.63 | ±.04 | .99 | ±.03 | 1.85 | ±.04 | .99 | ±.03 | | | |
+3/0 | 1.77 | ±.04 | 1.03 | ±.03 | 2.00 | ±.04 | 1.03 | ±.03 | | | |
+4/0 | 1.89 | ±.04 | 1.10 | ±.03 | 2.10 | ±.04 | 1.10 | ±.03 | | | |
 Table 6—Nominal Diameters of Heavy Jacketed Cords With Tolerances In Inches—600 Volts
-Conductor size—AWG | 2-conductor | Diameter | Tolerance | 3-conductor | Diameter | Tolerance | 4-conductor | Diameter | Tolerance | 5-conductor | Diameter | Tolerance | 6-conductor | Diameter | Tolerance | 7-conductor | Diameter | Tolerance
+Conductor size—AWG | 2-conductor | 3-conductor | 4-conductor | 5-conductor | 6-conductor | 7-conductor
+Diameter | Tolerance | Diameter | Tolerance | Diameter | Tolerance | Diameter | Tolerance | Diameter | Tolerance | Diameter | Tolerance
 14 | 0.64 | ±0.02 | 0.67 | ±0.02 | 0.71 | ±0.02 | 0.78 | ±0.03 | 0.83 | ±0.03 | 0.89 | ±0.03
 12 | .68 | ±.02 | .72 | ±.03 | .76 | ±.03 | .83 | ±.03 | .89 | ±.03 | .98 | ±.03
 10 | .73 | ±.03 | .80 | ±.03 | .84 | ±.03 | .90 | ±.03 | 1.00 | ±.03 | 1.07 | ±.03
 Table 7—Nominal Diameters of Three-Conductor Portable Power Cables With Tolerances in Inches—601 to 5,000 Volts
-Conductor size—AWG or MCM | Type G-GC (nonshielded) 2,000 volts | Diameter | Tolerance | Type SHC-GC (shielded overall) 2,000 volts | Diameter | Tolerance | Type SHD-GC (individually shielded power conductors) 2,001-3,000 volts | Diameter | Tolerance | Type SHD-GC (individually shielded power conductors) 3,001-5,000 volts | Diameter | Tolerance
+Conductor size—AWG or MCM | Type G-GC (nonshielded) 2,000 volts | Type SHC-GC (shielded overall) 2,000 volts | Type SHD-GC (individually shielded power conductors) 2,001-3,000 volts | Type SHD-GC (individually shielded power conductors) 3,001-5,000 volts
+Diameter | Tolerance | Diameter | Tolerance | Diameter | Tolerance | Diameter | Tolerance
 6 | 1.25 | + 0.10, −0.06 | 1.39 | + 0.11, −0.07 | 1.62 | + 0.13, −0.08 | 1.78 | + 0.14, −0.09
 4 | 1.40 | +.11, −.07 | 1.55 | +.12, −.08 | 1.77 | +.14, −.09 | 1.90 | +.15, −.10
 3 | 1.48 | +.12, −.07 | 1.62 | +.13, −.08 | 1.84 | +.15, −.09 | 1.98 | +.16, −.10
@@ -138,9 +144,10 @@ Conductor size—AWG or MCM | Max. allowable length (feet) | Normal ampacity at 
 500 | 1,000 | 320 | .050
 1 Fuses shall not be used for short-circuit protection of these cables. Circuit breakers shall be used with the instantaneous trip settings not to exceed the values given in Table 8.
 Table 10—High Voltage Trailing Cable Ampacities and Outside Diameters
-Power conductor | Size AWG or kcmil | Ampacity * | Amperes per conductor | Outside diameter **(inches) | SHD-GC 2001 to 5000 volts | SHD-CGC 2001 to 5000 volts | SHD-PCG 2001 to 5000 volts
-6 | 93 | 1.56 | 1.62
-4 | 122 | 1.68 | 1.73
+Power conductor | Ampacity * | Outside diameter ** (inches)
+Size AWG or kcmil | Amperes per conductor | SHD-GC 2001 to 5000 volts | SHD-CGC 2001 to 5000 volts | SHD-PCG 2001 to 5000 volts
+6 | 93 | 1.56 | 1.62 |
+4 | 122 | 1.68 | 1.73 |
 3 | 140 | 1.78 | 1.82 | 1.94
 2 | 159 | 1.87 | 1.91 | 2.03
 1 | 184 | 1.95 | 1.98 | 2.12
@@ -148,9 +155,8 @@ Power conductor | Size AWG or kcmil | Ampacity * | Amperes per conductor | Outsi
 2/0 | 243 | 2.20 | 2.20 | 2.40
 3/0 | 279 | 2.36 | 2.36 | 2.58
 4/0 | 321 | 2.50 | 2.50 | 2.76
-250 | 355 | 2.69 | 2.69
-300 | 398 | 2.81 | 2.81
-350 | 435 | 2.95 | 2.95
-500 | 536 | 3.31 | 3.31
-* These ampacities are based on single isolated conductor in air, operated with open-circuited shield for a 90 °C conductor temperature and an ambient temperature of 40 °C.
-** Tolerances for the outside diameter are + 8%/−5%.
+250 | 355 | 2.69 | 2.69 |
+300 | 398 | 2.81 | 2.81 |
+350 | 435 | 2.95 | 2.95 |
+500 | 536 | 3.31 | 3.31 |
+* These ampacities are based on single isolated conductor in air, operated with open-circuited shield for a 90 °C conductor temperature and an ambient temperature of 40 °C. ** Tolerances for the outside diameter are + 8%/−5%.
