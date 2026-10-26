@@ -1,11 +1,4 @@
 # Appendix A to Part 61
-EC01MY92.015
-EC01MY92.016
-EC01MY92.017
-EC01MY92.018
-EC01MY92.019
-EC01MY92.020
-EC01MY92.021
 II. Waiver Requests
 A. Waiver of Compliance. Owners or operators of sources unable to operate in compliance with the National Emission Standards for Hazardous Air Pollutants prior to 90 days after the effective date of any standards or amendments which require the submission of such information may request a waiver of compliance from the Administrator of the U.S. Environmental Protection Agency for the time period necessary to install appropriate control devices or make modifications to achieve compliance. The Administrator may grant a waiver of compliance with the standard for a period not exceeding two years from the effective date of the hazardous pollutant standards, if he finds that such period is necessary for the installation of controls and that steps will be taken during the period of the waiver to assure that the health of persons will be protected from imminent endangerment.
 The report information provided in Section I must accompany this application. Applications should be sent to the appropriate EPA regional office.
@@ -15,7 +8,6 @@ a. Describe the proposed type of control device to be added or modification to b
 b. Describe the measures that will be taken during the waiver period to assure that the health of persons will be protected from imminent endangerment. (Use additional sheets if necessary.)
 3. Increments of Progress—Specify the dates by which the following increments of progress will be met.
 Date by which contracts for emission control systems or process modifications will be awarded; or date by which orders will be issued for the purchase of the component parts to accomplish emission control or process modification.
-EC01MY92.022
 B. Waiver of Emission Tests. A waiver of emission testing may be granted to owners or operators of sources subject to emission testing if, in the judgment of the Administrator of the Environmental Protection Agency the emissions from the source comply with the appropriate standard or if the owners or operators of the source have requested a waiver of compliance or have been granted a waiver of compliance.
 This application should accompany the report information provided in Section I.
 1. Reason—State the reasons for requesting a waiver of emission testing. If the reason stated is that the emissions from the source are within the prescribed limits, documentation of this condition must be attached.

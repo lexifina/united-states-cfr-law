@@ -3,7 +3,6 @@ Procedure 1—Determination of Adequate Chromatographic Peak Resolution
 In this method of dealing with resolution, the extent to which one chromatographic peak overlaps another is determined.
 For convenience, consider the range of the elution curve of each compound as running from −2σ to + 2σ. This range is used in other resolution criteria, and it contains 95.45 percent of the area of a normal curve. If two peaks are separated by a known distance, b, one can determine the fraction of the area of one curve that lies within the range of the other. The extent to which the elution curve of a contaminant compound overlaps the curve of a compound that is under analysis is found by integrating the contaminant curve over the limits b−2σs to b + 2σs, where σs is the standard deviation of the sample curve.
 This calculation can be simplified in several ways. Overlap can be determined for curves of unit area; then actual areas can be introduced. Desired integration can be resolved into two integrals of the normal distribution function for which there are convenient calculation programs and tables. An example would be Program 15 in Texas Instruments Program Manual ST1, 1975, Texas Instruments, Inc., Dallas, Texas 75222.
-EC01MY92.034
 In judging the suitability of alternate GC columns or the effects of altering chromatographic conditions, one can employ the area overlap as the resolution parameter with a specific maximum permissible value.
 The use of Gaussian functions to describe chromatographic elution curves is widespread. However, some elution curves are highly asymmetric. In cases where the sample peak is followed by a contaminant that has a leading edge that rises sharply but the curve then tails off, it may be possible to define an effective width for tc as "twice the distance from the leading edge to a perpendicular line through the maxim of the contaminant curve, measured along a perpendicular bisection of that line."
 Procedure 2—Procedure for Field Auditing GC Analysis
@@ -39,12 +38,12 @@ b. Cylinder pressure before audit, psi | |
 c. Cylinder pressure after audit, psi | |
 d. Measured concentration, ppm Injection #1* Injection #2* Average | |
 e. Actual audit concentration, ppm (Part A, 6e) | |
-f. Audit accuracy:1
+f. Audit accuracy: 1 | |
 Low Conc. Cylinder | |
 High Conc. Cylinder | |
-Percent 1 accuracy=
-Measured Conc. − Actual Conc.
-________________ × 100
-Actual Conc.
+Percent 1 accuracy= | |
+Measured Conc. − Actual Conc. | |
+________________ × 100 | |
+Actual Conc. | |
 g. Problems detected (if any) | |
 1 Results of two consecutive injections that meet the sample analysis criteria of the test method.

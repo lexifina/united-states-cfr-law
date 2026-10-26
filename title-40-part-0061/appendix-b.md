@@ -27,16 +27,16 @@ Mercury (Hg) | 7439-97-6 | Dependent upon recorder and spectrophotometer.
 Particulate and gaseous Hg emissions are withdrawn isokinetically from the source and collected in acidic iodine monochloride (ICl) solution. The Hg collected (in the mercuric form) is reduced to elemental Hg, which is then aerated from the solution into an optical cell and measured by atomic absorption spectrophotometry.
 3.0 Definitions [Reserved]
 4.0 Interferences
-4.1 Sample Collection. Sulfur dioxide (SO 2) reduces ICl and causes premature depletion of the ICl solution.
+4.1 Sample Collection. Sulfur dioxide (SO2) reduces ICl and causes premature depletion of the ICl solution.
 4.2 Sample Analysis.
-4.2.1 ICl concentrations greater than 10 −4 molar inhibit the reduction of the Hg (II) ion in the aeration cell.
+4.2.1 ICl concentrations greater than 10−4 molar inhibit the reduction of the Hg (II) ion in the aeration cell.
 4.2.2 Condensation of water vapor on the optical cell windows causes a positive interference.
 5.0 Safety
 5.1 Disclaimer. This method may involve hazardous materials, operations, and equipment. This test method does not purport to address all of the safety problems associated with its use. It is the responsibility of the user of this test method to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to performing this test method.
 5.2 Corrosive Reagents. The following reagents are hazardous. Personal protective equipment and safe procedures are useful in preventing chemical splashes. If contact occurs, immediately flush with copious amounts of water for at least 15 minutes. Remove clothing under shower and decontaminate. Treat residual chemical burn as thermal burn.
 5.2.1 Hydrochloric Acid (HCl). Highly toxic and corrosive. Causes severe damage to tissues. Vapors are highly irritating to eyes, skin, nose, and lungs, causing severe damage. May cause bronchitis, pneumonia, or edema of lungs. Exposure to concentrations of 0.13 to 0.2 percent can be lethal to humans in a few minutes. Provide ventilation to limit exposure. Reacts with metals, producing hydrogen gas.
-5.2.2 Nitric Acid (HNO 3). Highly corrosive to eyes, skin, nose, and lungs. Vapors cause bronchitis, pneumonia, or edema of lungs. Reaction to inhalation may be delayed as long as 30 hours and still be fatal. Provide ventilation to limit exposure. Strong oxidizer. Hazardous reaction may occur with organic materials such as solvents.
-5.2.3 Sulfuric Acid (H 2 SO 4). Rapidly destructive to body tissue. Will cause third degree burns. Eye damage may result in blindness. Inhalation may be fatal from spasm of the larynx, usually within 30 minutes. 3 mg/m 3 will cause lung damage. 1 mg/m 3 for 8 hours will cause lung damage or, in higher concentrations, death. Provide ventilation to limit inhalation. Reacts violently with metals and organics.
+5.2.2 Nitric Acid (HNO3). Highly corrosive to eyes, skin, nose, and lungs. Vapors cause bronchitis, pneumonia, or edema of lungs. Reaction to inhalation may be delayed as long as 30 hours and still be fatal. Provide ventilation to limit exposure. Strong oxidizer. Hazardous reaction may occur with organic materials such as solvents.
+5.2.3 Sulfuric Acid (H2SO4). Rapidly destructive to body tissue. Will cause third degree burns. Eye damage may result in blindness. Inhalation may be fatal from spasm of the larynx, usually within 30 minutes. 3 mg/m 3 will cause lung damage. 1 mg/m 3 for 8 hours will cause lung damage or, in higher concentrations, death. Provide ventilation to limit inhalation. Reacts violently with metals and organics.
 6.0 Equipment and Supplies.
 6.1 Sample Collection. A schematic of the sampling train used in performing this method is shown in Figure 101-1; it is similar to the Method 5 sampling train. The following items are required for sample collection:
 6.1.1 Probe Nozzle, Pitot Tube, Differential Pressure Gauge, Metering System, Barometer, and Gas Density Determination Equipment. Same as Method 5, Sections 6.1.1.1, 6.1.1.3, 6.1.1.4, 6.1.1.9, 6.1.2, and 6.1.3, respectively.
@@ -78,28 +78,28 @@ Note: Do not use metal probe liners.
 7.0 Reagents and Standards
 Unless otherwise indicated, all reagents must conform to the specifications established by the Committee on Analytical Reagents of the American Chemical Society; where such specifications are not available, use the best available grade.
 7.1 Sample Collection. The following reagents are required for sample collection:
-7.1.1 Water. Deionized distilled, to conform to ASTM D 1193-77 or 91 (incorporated by reference—see § 61.18), Type 1. If high concentrations of organic matter are not expected to be present, the analyst may eliminate the KMnO 4 test for oxidizable organic matter. Use this water in all dilutions and solution preparations.
-7.1.2 Nitric Acid, 50 Percent (v/v). Mix equal volumes of concentrated HNO 3 and water, being careful to add the acid to the water slowly.
+7.1.1 Water. Deionized distilled, to conform to ASTM D 1193-77 or 91 (incorporated by reference—see § 61.18), Type 1. If high concentrations of organic matter are not expected to be present, the analyst may eliminate the KMnO4 test for oxidizable organic matter. Use this water in all dilutions and solution preparations.
+7.1.2 Nitric Acid, 50 Percent (v/v). Mix equal volumes of concentrated HNO3 and water, being careful to add the acid to the water slowly.
 7.1.3 Silica Gel. Indicating type, 6- to 16-mesh. If previously used, dry at 175 °C (350 °F) for 2 hours. The tester may use new silica gel as received.
 7.1.4 Potassium Iodide (KI) Solution, 25 Percent. Dissolve 250 g of KI in water, and dilute to 1 liter.
-7.1.5 Iodine Monochloride Stock Solution, 1.0 M. To 800 ml of 25 percent KI solution, add 800 ml of concentrated HCl. Cool to room temperature. With vigorous stirring, slowly add 135 g of potassium iodate (KIO 3), and stir until all free iodine has dissolved. A clear orange-red solution occurs when all the KIO 3 has been added. Cool to room temperature, and dilute to 1800 ml with water. Keep the solution in amber glass bottles to prevent degradation.
+7.1.5 Iodine Monochloride Stock Solution, 1.0 M. To 800 ml of 25 percent KI solution, add 800 ml of concentrated HCl. Cool to room temperature. With vigorous stirring, slowly add 135 g of potassium iodate (KIO3), and stir until all free iodine has dissolved. A clear orange-red solution occurs when all the KIO3 has been added. Cool to room temperature, and dilute to 1800 ml with water. Keep the solution in amber glass bottles to prevent degradation.
 7.1.6 Absorbing Solution, 0.1 M ICl. Dilute 100 ml of the 1.0 M ICl stock solution to 1 liter with water. Keep the solution in amber glass bottles and in darkness to prevent degradation. This reagent is stable for at least two months.
 7.2 Sample Preparation and Analysis. The following reagents and standards are required for sample preparation and analysis:
 7.2.1 Reagents.
-7.2.1.1 Tin (II) Solution. Prepare fresh daily, and keep sealed when not being used. Completely dissolve 20 g of tin (II) chloride (or 25 g of tin (II) sulfate) crystals (Baker Analyzed reagent grade or any other brand that will give a clear solution) in 25 ml of concentrated HCl. Dilute to 250 ml with water. Do not substitute HNO 3, H 2 SO 4, or other strong acids for the HCl.
-7.2.1.2 Sulfuric Acid, 5 Percent (v/v). Dilute 25 ml of concentrated H 2 SO 4 to 500 ml with water.
+7.2.1.1 Tin (II) Solution. Prepare fresh daily, and keep sealed when not being used. Completely dissolve 20 g of tin (II) chloride (or 25 g of tin (II) sulfate) crystals (Baker Analyzed reagent grade or any other brand that will give a clear solution) in 25 ml of concentrated HCl. Dilute to 250 ml with water. Do not substitute HNO3, H2SO4, or other strong acids for the HCl.
+7.2.1.2 Sulfuric Acid, 5 Percent (v/v). Dilute 25 ml of concentrated H2SO4 to 500 ml with water.
 7.2.2 Standards
-7.2.2.1 Hg Stock Solution, 1 mg Hg/ml. Prepare and store all Hg standard solutions in borosilicate glass containers. Completely dissolve 0.1354 g of Hg (II) chloride in 75 ml of water in a 100-ml glass volumetric flask. Add 10 ml of concentrated HNO 3, and adjust the volume to exactly 100 ml with water. Mix thoroughly. This solution is stable for at least one month.
-7.2.2.2 Intermediate Hg Standard Solution, 10 µg Hg/ml. Prepare fresh weekly. Pipet 5.0 ml of the Hg stock solution (Section 7.2.2.1) into a 500-ml glass volumetric flask, and add 20 ml of the 5 percent H 2 SO 4 solution. Dilute to exactly 500 ml with water. Thoroughly mix the solution.
-7.2.2.3 Working Hg Standard Solution, 200 ng Hg/ml. Prepare fresh daily. Pipet 5.0 ml of the intermediate Hg standard solution (Section 7.2.2.2) into a 250-ml volumetric glass flask. Add 10 ml of the 5 percent H 2 SO 4 and 2 ml of the 0.1 M ICl absorbing solution taken as a blank (Section 8.7.4.3), and dilute to 250 ml with water. Mix thoroughly.
+7.2.2.1 Hg Stock Solution, 1 mg Hg/ml. Prepare and store all Hg standard solutions in borosilicate glass containers. Completely dissolve 0.1354 g of Hg (II) chloride in 75 ml of water in a 100-ml glass volumetric flask. Add 10 ml of concentrated HNO3, and adjust the volume to exactly 100 ml with water. Mix thoroughly. This solution is stable for at least one month.
+7.2.2.2 Intermediate Hg Standard Solution, 10 µg Hg/ml. Prepare fresh weekly. Pipet 5.0 ml of the Hg stock solution (Section 7.2.2.1) into a 500-ml glass volumetric flask, and add 20 ml of the 5 percent H2SO4 solution. Dilute to exactly 500 ml with water. Thoroughly mix the solution.
+7.2.2.3 Working Hg Standard Solution, 200 ng Hg/ml. Prepare fresh daily. Pipet 5.0 ml of the intermediate Hg standard solution (Section 7.2.2.2) into a 250-ml volumetric glass flask. Add 10 ml of the 5 percent H2SO4 and 2 ml of the 0.1 M ICl absorbing solution taken as a blank (Section 8.7.4.3), and dilute to 250 ml with water. Mix thoroughly.
 8.0 Sample Collection, Preservation, Transport, and Storage
 Because of the complexity of this method, testers should be trained and experienced with the test procedures to ensure reliable results. Since the amount of Hg that is collected generally is small, the method must be carefully applied to prevent contamination or loss of sample.
 8.1 Pretest Preparation. Follow the general procedure outlined in Method 5, Section 8.1, except omit Sections 8.1.2 and 8.1.3.
 8.2 Preliminary Determinations. Follow the general procedure outlined in Method 5, Section 8.2, with the exception of the following:
 8.2.1 Select a nozzle size based on the range of velocity heads to assure that it is not necessary to change the nozzle size in order to maintain isokinetic sampling rates below 28 liters/min (1.0 cfm).
-8.2.2 Perform test runs such that samples are obtained over a period or periods that accurately determine the maximum emissions that occur in a 24-hour period. In the case of cyclic operations, run sufficient tests for the accurate determination of the emissions that occur over the duration of the cycle. A minimum sample time of 2 hours is recommended. In some instances, high Hg or high SO 2 concentrations make it impossible to sample for the desired minimum time. This is indicated by reddening (liberation of free iodine) in the first impinger. In these cases, the sample run may be divided into two or more subruns to ensure that the absorbing solution is not depleted.
+8.2.2 Perform test runs such that samples are obtained over a period or periods that accurately determine the maximum emissions that occur in a 24-hour period. In the case of cyclic operations, run sufficient tests for the accurate determination of the emissions that occur over the duration of the cycle. A minimum sample time of 2 hours is recommended. In some instances, high Hg or high SO2 concentrations make it impossible to sample for the desired minimum time. This is indicated by reddening (liberation of free iodine) in the first impinger. In these cases, the sample run may be divided into two or more subruns to ensure that the absorbing solution is not depleted.
 8.3 Preparation of Sampling Train.
-8.3.1 Clean all glassware (probe, impingers, and connectors) by rinsing with 50 percent HNO 3, tap water, 0.1 M ICl, tap water, and finally deionized distilled water. Place 100 ml of 0.1 M ICl in each of the first three impingers. Take care to prevent the absorbing solution from contacting any greased surfaces. Place approximately 200 g of preweighed silica gel in the fourth impinger. More silica gel may be used, but care should be taken to ensure that it is not entrained and carried out from the impinger during sampling. Place the silica gel container in a clean place for later use in the sample recovery. Alternatively, determine and record the weight of the silica gel plus impinger to the nearest 0.5 g.
+8.3.1 Clean all glassware (probe, impingers, and connectors) by rinsing with 50 percent HNO3, tap water, 0.1 M ICl, tap water, and finally deionized distilled water. Place 100 ml of 0.1 M ICl in each of the first three impingers. Take care to prevent the absorbing solution from contacting any greased surfaces. Place approximately 200 g of preweighed silica gel in the fourth impinger. More silica gel may be used, but care should be taken to ensure that it is not entrained and carried out from the impinger during sampling. Place the silica gel container in a clean place for later use in the sample recovery. Alternatively, determine and record the weight of the silica gel plus impinger to the nearest 0.5 g.
 8.3.2 Install the selected nozzle using a Viton A O-ring when stack temperatures are less than 260 °C (500 °F). Use a fiberglass string gasket if temperatures are higher. See APTD-0576 (Reference 3 in Method 5) for details. Other connecting systems using either 316 stainless steel or Teflon ferrules may be used. Mark the probe with heat-resistant tape or by some other method to denote the proper distance into the stack or duct for each sampling point.
 8.3.3 Assemble the train as shown in Figure 101-1, using (if necessary) a very light coat of silicone grease on all ground glass joints. Grease only the outer portion (see APTD-0576) to avoid the possibility of contamination by the silicone grease.
 Note: An empty impinger may be inserted between the third impinger and the silica gel to remove excess moisture from the sample stream.
@@ -127,7 +127,7 @@ Section | Quality control measure | Effect
 9.2 Volume Metering System Checks. Same as Method 5, Section 9.2.
 10.0 Calibration and Standardizations
 Note: Maintain a laboratory log of all calibrations.
-10.1 Before use, clean all glassware, both new and used, as follows: brush with soap and tap water, liberally rinse with tap water, soak for 1 hour in 50 percent HNO 3, and then rinse with deionized distilled water.
+10.1 Before use, clean all glassware, both new and used, as follows: brush with soap and tap water, liberally rinse with tap water, soak for 1 hour in 50 percent HNO3, and then rinse with deionized distilled water.
 10.2 Sampling Equipment. Calibrate the sampling equipment according to the procedures outlined in the following sections of Method 5: Section 10.1 (Probe Nozzle), Section 10.2 (Pitot Tube Assembly), Section 10.3 (Metering System), Section 10.5 (Temperature Sensors), Section 10.6 (Barometer).
 10.3 Aeration System Flow Rate Meter. Assemble the aeration system as shown in Figure 101-5. Set the outlet pressure on the aeration gas cylinder regulator to a minimum pressure of 500 mm Hg (10 psi), and use the flow metering valve and a bubble flowmeter or wet-test meter to obtain a flow rate of 1.5 ±0.1 liters/min (0.053 ±0.0035 cfm) through the aeration cell. After the calibration of the aeration system flow rate meter is complete, remove the bubble flowmeter from the system.
 10.4 Optical Cell Heating System. Using a 50-ml graduated cylinder, add 50 ml of water to the bottle section of the aeration cell, and attach the bottle section to the bubbler section of the cell. Attach the aeration cell to the optical cell and while aerating at 1.5 ±0.1 liters/min (0.053 ±0.0035 cfm), determine the minimum variable transformer setting necessary to prevent condensation of moisture in the optical cell and in the connecting tubing. (This setting should not exceed 20 volts.)
@@ -146,7 +146,7 @@ Note: To prevent Hg carryover from one sample to another, do not close the aerat
 11.1 Sample Loss Check. Check the liquid level in each container to see whether liquid was lost during transport. If a noticeable amount of leakage occurred, either void the sample or use methods subject to the approval of the Administrator to account for the losses.
 11.2 Sample Preparation. Treat each sample as follows:
 11.2.1 Container No. 1 (Impingers and Probe). Carefully transfer the contents of Container No. 1 into a 1000-ml volumetric flask, and adjust the volume to exactly 1000 ml with water.
-11.2.2 Dilutions. Pipet a 2-ml aliquot from the diluted sample from Section 11.2.1 into a 250-ml volumetric flask. Add 10 ml of 5 percent H 2 SO 4, and adjust the volume to exactly 250 ml with water. This solution is stable for at least 72 hours.
+11.2.2 Dilutions. Pipet a 2-ml aliquot from the diluted sample from Section 11.2.1 into a 250-ml volumetric flask. Add 10 ml of 5 percent H2SO4, and adjust the volume to exactly 250 ml with water. This solution is stable for at least 72 hours.
 Note: The dilution factor will be 250/2 for this solution.
 11.3 Analysis. Calibrate the analytical equipment and develop a calibration curve as outlined in Sections 10.3 through 10.6.
 11.3.1 Mercury Samples. Repeat the procedure used to establish the calibration curve with an appropriately sized aliquot (1 to 5 ml) of the diluted sample (from Section 11.2.2) until two consecutive peak heights agree within 3 percent of their average value. The peak maximum of an aliquot (except the 5-ml aliquot) must be greater than 10 percent of the recorder full scale. If the peak maximum of a 1.0-ml aliquot is off scale on the recorder, further dilute the original source sample to bring the Hg concentration into the calibration range of the spectrophotometer.
@@ -156,29 +156,27 @@ Note: The dilution factor will be 250/2 for this solution.
 12.0 Data Analysis and Calculations
 Carry out calculations, retaining at least one extra decimal significant figure beyond that of the acquired data. Round off figures only after the final calculation. Other forms of the equations may be used as long as they give equivalent results.
 12.1 Average Dry Gas Meter Temperature and Average Orifice Pressure Drop, Dry Gas Volume, Volume of Water Vapor Condensed, Moisture Content, and Isokinetic Variation. Same as Method 5, Sections 12.2 through 12.5 and 12.11, respectively.
-12.2 Stack Gas Velocity. Using the data from this test and Equation 2-9 of Method 2, calculate the average stack gas velocity v s.
+12.2 Stack Gas Velocity. Using the data from this test and Equation 2-9 of Method 2, calculate the average stack gas velocity vs.
 12.3 Total Mercury.
 12.3.1 For each source sample, correct the average maximum absorbance of the two consecutive samples whose peak heights agree within 3 percent of their average for the contribution of the solution blank (see Section 10.6.3). Use the calibration curve and these corrected averages to determine the final total weight of Hg in ng in the aeration cell for each source sample.
-12.3.2 Correct for any dilutions made to bring the sample into the working range of the spectrophotometer. Then calculate the Hg in the original solution, m Hg, as follows:
-ER17oc00.491
+12.3.2 Correct for any dilutions made to bring the sample into the working range of the spectrophotometer. Then calculate the Hg in the original solution, mHg, as follows:
 Where:
-C Hg(AC) = Total ng of Hg in aliquot analyzed (reagent blank subtracted).
+CHg(AC) = Total ng of Hg in aliquot analyzed (reagent blank subtracted).
 DF = Dilution factor for the Hg-containing solution (before adding to the aeration cell; e.g., DF = 250/2 if the source samples were diluted as described in Section 11.2.2).
-V f = Solution volume of original sample, 1000 ml for samples diluted as described in Section 11.2.1.
-10 −3 = Conversion factor, µg/ng.
+Vf = Solution volume of original sample, 1000 ml for samples diluted as described in Section 11.2.1.
+10−3 = Conversion factor, µg/ng.
 S = Aliquot volume added to aeration cell, ml.
 12.4 Mercury Emission Rate. Calculate the daily Hg emission rate, R, using Equation 101-2. For continuous operations, the operating time is equal to 86,400 seconds per day. For cyclic operations, use only the time per day each stack is in operation. The total Hg emission rate from a source will be the summation of results from all stacks.
-ER17oc00.492
 Where:
-K 1 = 0.3858 °K/mm Hg for metric units.
-K 1 = 17.64 °R/in. Hg for English units.
-K 3 = 10 −6 g/µg for metric units.
-= 2.2046 "× 10 −9 lb/µg for English units.
-P s = Absolute stack gas pressure, mm Hg (in. Hg).
+K1 = 0.3858 °K/mm Hg for metric units.
+K1 = 17.64 °R/in. Hg for English units.
+K3 = 10−6 g/µg for metric units.
+= 2.2046 "× 10−9 lb/µg for English units.
+Ps = Absolute stack gas pressure, mm Hg (in. Hg).
 t = Daily operating time, sec/day.
-T s = Absolute average stack gas temperature, °K (°R).
-V m(std) = Dry gas sample volume at standard conditions, scm (scf).
-V w(std) = Volume of water vapor at standard conditions, scm (scf).
+Ts = Absolute average stack gas temperature, °K (°R).
+Vm(std) = Dry gas sample volume at standard conditions, scm (scf).
+Vw(std) = Volume of water vapor at standard conditions, scm (scf).
 12.5 Determination of Compliance. Each performance test consists of three repetitions of the applicable test method. For the purpose of determining compliance with an applicable national emission standard, use the average of the results of all repetitions.
 13.0 Method Performance
 The following estimates are based on collaborative tests, wherein 13 laboratories performed duplicate analyses on two Hg-containing samples from a chlor-alkali plant and on one laboratory-prepared sample of known Hg concentration. The sample concentrations ranged from 2 to 65 µg Hg/ml.
@@ -197,8 +195,8 @@ Same as Method 5, Section 17.0, References 1-3, 5, and 6, with the addition of t
 4. Mark, L.S. Mechanical Engineers' Handbook. McGraw-Hill Book Co., Inc. New York, NY. 1951.
 5. Western Precipitation Division of Joy Manufacturing Co. Methods for Determination of Velocity, Volume, Dust and Mist Content of Gases. Bulletin WP-50. Los Angeles, CA. 1968.
 6. Perry, J.H. Chemical Engineers' Handbook. McGraw-Hill Book Co., Inc. New York, NY. 1960.
-7. Shigehara, R.T., W.F. Todd, and W.S. Smith. Significance of Errors in Stack Sampling Measurements. Stack Sampling News. 1 (3):6-18. September 1973.
-8. Smith, W.S., R.T. Shigehara, and W.F. Todd. A Method of Interpreting Stack Sampling Data. Stack Sampling News. 1 (2):8-17. August 1973.
+7. Shigehara, R.T., W.F. Todd, and W.S. Smith. Significance of Errors in Stack Sampling Measurements. Stack Sampling News. 1(3):6-18. September 1973.
+8. Smith, W.S., R.T. Shigehara, and W.F. Todd. A Method of Interpreting Stack Sampling Data. Stack Sampling News. 1(2):8-17. August 1973.
 9. Standard Method for Sampling Stacks for Particulate Matter. In: 1971 Annual Book of ASTM Standards, Part 23. ASTM Designation D 2928-71. Philadelphia, PA 1971.
 10. Vennard, J.K. Elementary Fluid Mechanics. John Wiley and Sons, Inc. New York. 1947.
 11. Mitchell, W.J. and M.R. Midgett. Improved Procedure for Determining Mercury Emissions from Mercury Cell Chlor-Alkali Plants. J. APCA. 26:674-677. July 1976.
@@ -207,11 +205,6 @@ Same as Method 5, Section 17.0, References 1-3, 5, and 6, with the addition of t
 14. Klein, R. and C. Hach. Standard Additions: Uses and Limitation in Spectrophotometric Measurements. Amer. Lab. 9:21. 1977.
 15. Perkin Elmer Corporation. Analytical Methods for Atomic Absorption Spectrophotometry. Norwalk, Connecticut. September 1976.
 18.0 Tables, Diagrams, Flowcharts, and Validation Data
-ER17OC00.493
-ER17OC00.494
-ER17OC00.495
-ER17OC00.496
-ER17OC00.497
 Method 101A—Determination of Particulate and Gaseous Mercury Emissions From Sewage Sludge Incinerators
 Note: This method does not include all of the specifications (e.g., equipment and supplies) and procedures (e.g., sampling and analytical) essential to its performance. Some material is incorporated by reference from methods in appendix A to 40 CFR part 60 and in this part. Therefore, to obtain reliable results, persons using this method should also have a thorough knowledge of at least the following additional test methods: Methods 1, Method 2, Method 3, and Method 5 of part 60 (appendix A), and Method 101 part 61 (appendix B).
 1.0 Scope and Application
@@ -221,18 +214,18 @@ Mercury (Hg) | 7439-97-6 | Dependent upon spectrophotometer and recorder.
 1.2 Applicability. This method is applicable for the determination of Hg emissions from sewage sludge incinerators and other sources as specified in an applicable subpart of the regulations.
 1.3 Data Quality Objectives. Adherence to the requirements of this method will enhance the quality of the data obtained from air pollutant sampling methods.
 2.0 Summary of Method
-2.1 Particulate and gaseous Hg emissions are withdrawn isokinetically from the source and are collected in acidic potassium permanganate (KMnO 4) solution. The Hg collected (in the mercuric form) is reduced to elemental Hg, which is then aerated from the solution into an optical cell and measured by atomic absorption spectrophotometry.
+2.1 Particulate and gaseous Hg emissions are withdrawn isokinetically from the source and are collected in acidic potassium permanganate (KMnO4) solution. The Hg collected (in the mercuric form) is reduced to elemental Hg, which is then aerated from the solution into an optical cell and measured by atomic absorption spectrophotometry.
 3.0 Definitions. [Reserved]
 4.0 Interferences
-4.1 Sample Collection. Excessive oxidizable organic matter in the stack gas prematurely depletes the KMnO 4 solution and thereby prevents further collection of Hg.
+4.1 Sample Collection. Excessive oxidizable organic matter in the stack gas prematurely depletes the KMnO4 solution and thereby prevents further collection of Hg.
 4.2 Analysis. Condensation of water vapor on the optical cell windows causes a positive interference.
 5.0 Safety
 5.1 Disclaimer. This method may involve hazardous materials, operations, and equipment. This test method may not address all of the safety problems associated with its use. It is the responsibility of the user of this test method to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to performing this test method.
 5.2 Corrosive Reagents. The following reagents are hazardous. Personal protective equipment and safe procedures are useful in preventing chemical splashes. If contact occurs, immediately flush with copious amounts of water for at least 15 minutes. Remove clothing under shower and decontaminate. Treat residual chemical burns as thermal burns.
 5.2.1 Hydrochloric Acid (HCl). Highly toxic. Vapors are highly irritating to eyes, skin, nose, and lungs, causing severe damage. May cause bronchitis, pneumonia, or edema of lungs. Exposure to concentrations of 0.13 to 0.2 percent can be lethal to humans in a few minutes. Provide ventilation to limit exposure. Reacts with metals, producing hydrogen gas.
-5.2.2 Nitric Acid (HNO 3). Highly corrosive to eyes, skin, nose, and lungs. Vapors cause bronchitis, pneumonia, or edema of lungs. Reaction to inhalation may be delayed as long as 30 hours and still be fatal. Provide ventilation to limit exposure. Strong oxidizer. Hazardous reaction may occur with organic materials such as solvents.
-5.2.3 Sulfuric acid (H 2 SO 4). Rapidly destructive to body tissue. Will cause third degree burns. Eye damage may result in blindness. Inhalation may be fatal from spasm of the larynx, usually within 30 minutes. May cause lung tissue damage with edema. 3 mg/m 3 will cause lung damage in uninitiated. 1 mg/m 3 for 8 hours will cause lung damage or, in higher concentrations, death. Provide ventilation to limit inhalation. Reacts violently with metals and organics.
-5.3 Chlorine Evolution. Hydrochloric acid reacts with KMnO 4 to liberate chlorine gas. Although this is a minimal concern when small quantities of HCl (5-10 ml) are used in the impinger rinse, a potential safety hazard may still exist. At sources that emit higher concentrations of oxidizable materials (e.g., power plants), more HCl may be required to remove the larger amounts of brown deposit formed in the impingers. In such cases, the potential safety hazards due to sample container pressurization are greater, because of the larger volume of HCl rinse added to the recovered sample. These hazards are eliminated by storing and analyzing the HCl impinger wash separately from the permanganate impinger sample.
+5.2.2 Nitric Acid (HNO3). Highly corrosive to eyes, skin, nose, and lungs. Vapors cause bronchitis, pneumonia, or edema of lungs. Reaction to inhalation may be delayed as long as 30 hours and still be fatal. Provide ventilation to limit exposure. Strong oxidizer. Hazardous reaction may occur with organic materials such as solvents.
+5.2.3 Sulfuric acid (H2SO4). Rapidly destructive to body tissue. Will cause third degree burns. Eye damage may result in blindness. Inhalation may be fatal from spasm of the larynx, usually within 30 minutes. May cause lung tissue damage with edema. 3 mg/m 3 will cause lung damage in uninitiated. 1 mg/m 3 for 8 hours will cause lung damage or, in higher concentrations, death. Provide ventilation to limit inhalation. Reacts violently with metals and organics.
+5.3 Chlorine Evolution. Hydrochloric acid reacts with KMnO4 to liberate chlorine gas. Although this is a minimal concern when small quantities of HCl (5-10 ml) are used in the impinger rinse, a potential safety hazard may still exist. At sources that emit higher concentrations of oxidizable materials (e.g., power plants), more HCl may be required to remove the larger amounts of brown deposit formed in the impingers. In such cases, the potential safety hazards due to sample container pressurization are greater, because of the larger volume of HCl rinse added to the recovered sample. These hazards are eliminated by storing and analyzing the HCl impinger wash separately from the permanganate impinger sample.
 6.0 Equipment and Supplies
 6.1 Sample Collection and Sample Recovery. Same as Method 101, Sections 6.1 and 6.2, respectively, with the following exceptions:
 6.1.1 Probe Liner. Same as in Method 101, Section 6.1.2, except that if a filter is used ahead of the impingers, the probe heating system must be used to minimize the condensation of gaseous Hg.
@@ -248,30 +241,30 @@ Mercury (Hg) | 7439-97-6 | Dependent upon spectrophotometer and recorder.
 7.0 Reagents and Standards
 Unless otherwise indicated, it is intended that all reagents conform to the specifications established by the Committee on Analytical Reagents of the American Chemical Society, where such specifications are available; otherwise, use the best available grade.
 7.1 Sample Collection and Recovery. The following reagents are required for sample collection and recovery:
-7.1.1 Water. Deionized distilled, to conform to ASTM D 1193-77 or 91 Type 1. If high concentrations of organic matter are not expected to be present, the analyst may eliminate the KMnO 4 test for oxidizable organic matter. Use this water in all dilutions and solution preparations.
-7.1.2 Nitric Acid, 50 Percent (V/V). Mix equal volumes of concentrated HNO 3 and water, being careful to add the acid to the water slowly.
+7.1.1 Water. Deionized distilled, to conform to ASTM D 1193-77 or 91 Type 1. If high concentrations of organic matter are not expected to be present, the analyst may eliminate the KMnO4 test for oxidizable organic matter. Use this water in all dilutions and solution preparations.
+7.1.2 Nitric Acid, 50 Percent (V/V). Mix equal volumes of concentrated HNO3 and water, being careful to add the acid to the water slowly.
 7.1.3 Silica Gel. Indicating type, 6 to 16 mesh. If previously used, dry at 175 °C (350 °F) for 2 hours. New silica gel may be used as received.
 7.1.4 Filter (Optional). Glass fiber filter, without organic binder, exhibiting at least 99.95 percent efficiency on 0.3-μm dioctyl phthalate smoke particles. The filter in cases where the gas stream contains large quantities of particulate matter, but blank filters should be analyzed for Hg content.
-7.1.5 Sulfuric Acid, 10 Percent (V/V). Carefully add and mix 100 ml of concentrated H 2 SO 4 to 900 ml of water.
-7.1.6 Absorbing Solution, 4 Percent KMnO 4 (W/V). Prepare fresh daily. Dissolve 40 g of KMnO 4 in sufficient 10 percent H 2 SO 4 to make 1 liter. Prepare and store in glass bottles to prevent degradation.
+7.1.5 Sulfuric Acid, 10 Percent (V/V). Carefully add and mix 100 ml of concentrated H2SO4 to 900 ml of water.
+7.1.6 Absorbing Solution, 4 Percent KMnO4 (W/V). Prepare fresh daily. Dissolve 40 g of KMnO4 in sufficient 10 percent H2SO4 to make 1 liter. Prepare and store in glass bottles to prevent degradation.
 7.1.7 Hydrochloric Acid, 8 N. Carefully add and mix 67 ml of concentrated HCl to 33 ml of water.
 7.2 Sample Analysis. The following reagents and standards are required for sample analysis:
 7.2.1 Water. Same as in Section 7.1.1.
-7.2.2 Tin (II) Solution. Prepare fresh daily, and keep sealed when not being used. Completely dissolve 20 g of tin (II) chloride (or 25 g of tin (II) sulfate) crystals (Baker Analyzed reagent grade or any other brand that will give a clear solution) in 25 ml of concentrated HCl. Dilute to 250 ml with water. Do not substitute HNO 3 H2SO 4, or other strong acids for the HCl.
+7.2.2 Tin (II) Solution. Prepare fresh daily, and keep sealed when not being used. Completely dissolve 20 g of tin (II) chloride (or 25 g of tin (II) sulfate) crystals (Baker Analyzed reagent grade or any other brand that will give a clear solution) in 25 ml of concentrated HCl. Dilute to 250 ml with water. Do not substitute HNO3 H2SO4, or other strong acids for the HCl.
 7.2.3 Sodium Chloride-Hydroxylamine Solution. Dissolve 12 g of sodium chloride and 12 g of hydroxylamine sulfate (or 12 g of hydroxylamine hydrochloride) in water and dilute to 100 ml.
 7.2.4 Hydrochloric Acid, 8 N. Same as Section 7.1.7.
-7.2.5 Nitric Acid, 15 Percent (V/V). Carefully add 15 ml HNO 3 to 85 ml of water.
+7.2.5 Nitric Acid, 15 Percent (V/V). Carefully add 15 ml HNO3 to 85 ml of water.
 7.2.6 Antifoam B Silicon Emulsion. J.T. Baker Company (or equivalent).
-7.2.7 Mercury Stock Solution, 1 mg Hg/ml. Prepare and store all Hg standard solutions in borosilicate glass containers. Completely dissolve 0.1354 g of Hg (II) chloride in 75 ml of water. Add 10 ml of concentrated HNO 3, and adjust the volume to exactly 100 ml with water. Mix thoroughly. This solution is stable for at least one month.
-7.2.8 Intermediate Hg Standard Solution, 10 µg/ml. Prepare fresh weekly. Pipet 5.0 ml of the Hg stock solution (Section 7.2.7) into a 500 ml volumetric flask, and add 20 ml of 15 percent HNO 3 solution. Adjust the volume to exactly 500 ml with water. Thoroughly mix the solution.
-7.2.9 Working Hg Standard Solution, 200 ng Hg/ml. Prepare fresh daily. Pipet 5.0 ml from the "Intermediate Hg Standard Solution" (Section 7.2.8) into a 250-ml volumetric flask. Add 5 ml of 4 percent KMnO 4 absorbing solution and 5 ml of 15 percent HNO 3. Adjust the volume to exactly 250 ml with water. Mix thoroughly.
-7.2.10 Potassium Permanganate, 5 Percent (W/V). Dissolve 5 g of KMnO 4 in water and dilute to 100 ml.
+7.2.7 Mercury Stock Solution, 1 mg Hg/ml. Prepare and store all Hg standard solutions in borosilicate glass containers. Completely dissolve 0.1354 g of Hg (II) chloride in 75 ml of water. Add 10 ml of concentrated HNO3, and adjust the volume to exactly 100 ml with water. Mix thoroughly. This solution is stable for at least one month.
+7.2.8 Intermediate Hg Standard Solution, 10 µg/ml. Prepare fresh weekly. Pipet 5.0 ml of the Hg stock solution (Section 7.2.7) into a 500 ml volumetric flask, and add 20 ml of 15 percent HNO3 solution. Adjust the volume to exactly 500 ml with water. Thoroughly mix the solution.
+7.2.9 Working Hg Standard Solution, 200 ng Hg/ml. Prepare fresh daily. Pipet 5.0 ml from the "Intermediate Hg Standard Solution" (Section 7.2.8) into a 250-ml volumetric flask. Add 5 ml of 4 percent KMnO4 absorbing solution and 5 ml of 15 percent HNO3. Adjust the volume to exactly 250 ml with water. Mix thoroughly.
+7.2.10 Potassium Permanganate, 5 Percent (W/V). Dissolve 5 g of KMnO4 in water and dilute to 100 ml.
 7.2.11 Filter. Whatman No. 40, or equivalent.
 8.0 Sample Collection, Preservation, Transport, and Storage
 Same as Method 101, Section 8.0, with the exception of the following:
-8.1 Preliminary Determinations. Same as Method 101, Section 8.2, except that the liberation of free iodine in the first impinger due to high Hg or sulfur dioxide concentrations is not applicable. In this method, high oxidizable organic content may make it impossible to sample for the desired minimum time. This problem is indicated by the complete bleaching of the purple color of the KMnO 4 solution. In cases where an excess of water condensation is encountered, collect two runs to make one sample, or add an extra impinger in front of the first impinger (also containing acidified KMnO 4 solution).
+8.1 Preliminary Determinations. Same as Method 101, Section 8.2, except that the liberation of free iodine in the first impinger due to high Hg or sulfur dioxide concentrations is not applicable. In this method, high oxidizable organic content may make it impossible to sample for the desired minimum time. This problem is indicated by the complete bleaching of the purple color of the KMnO4 solution. In cases where an excess of water condensation is encountered, collect two runs to make one sample, or add an extra impinger in front of the first impinger (also containing acidified KMnO4 solution).
 8.2 Preparation of Sampling Train. Same as Method 101, Section 8.3, with the exception of the following:
-8.2.1 In this method, clean all the glass components by rinsing with 50 percent HNO 3, tap water, 8 N HCl, tap water, and finally with deionized distilled water. Then place 50 ml of absorbing solution in the first impinger and 100 ml in each of the second and third impingers.
+8.2.1 In this method, clean all the glass components by rinsing with 50 percent HNO3, tap water, 8 N HCl, tap water, and finally with deionized distilled water. Then place 50 ml of absorbing solution in the first impinger and 100 ml in each of the second and third impingers.
 8.2.2 If a filter is used, use a pair of tweezers to place the filter in the filter holder. Be sure to center the filter, and place the gasket in the proper position to prevent the sample gas stream from bypassing the filter. Check the filter for tears after assembly is completed. Be sure also to set the filter heating system at the desired operating temperature after the sampling train has been assembled.
 8.3 Sampling Train Operation. In addition to the procedure outlined in Method 101, Section 8.5, maintain a temperature around the filter (if applicable) of 120 ±14 °C (248 ±25 °F).
 8.4 Sample Recovery. Same as Method 101, Section 8.7, with the exception of the following:
@@ -286,7 +279,7 @@ Note: If a filter is used, remove the filter from its holder as outlined under S
 8.4.3 Container No. 2 (Silica Gel). Same as Method 5, Section 8.7.6.3.
 8.4.4 Container No. 3 (Filter). If a filter was used, carefully remove it from the filter holder, place it in a 100-ml glass sample bottle, and add 20 to 40 ml of absorbing solution. If it is necessary to fold the filter, be sure that the particulate cake is inside the fold. Carefully transfer to the 100-ml sample bottle any particulate matter and filter fibers that adhere to the filter holder gasket by using a dry Nylon bristle brush and a sharp-edged blade. Seal the container. Label the container to identify its contents clearly. Mark the height of the fluid level to allow subsequent determination of whether leakage has occurred during transport.
 8.4.5 Container No. 4 (Filter Blank). If a filter was used, treat an unused filter from the same filter lot as that used for sampling according to the procedures outlined in Section 8.4.4.
-8.4.6 Container No. 5 (Absorbing Solution Blank). Place 650 ml of 4 percent KMnO 4 absorbing solution in a 1000-ml sample bottle. Seal the container.
+8.4.6 Container No. 5 (Absorbing Solution Blank). Place 650 ml of 4 percent KMnO4 absorbing solution in a 1000-ml sample bottle. Seal the container.
 8.4.7 Container No. 6 (HCl Rinse Blank). Place 200 ml of water in a 1000-ml sample bottle, and add 25 ml of 8 N HCl carefully with stirring. Seal the container. Only one blank sample per 3 runs is required.
 9.0 Quality Control
 9.1 Miscellaneous Quality Control Measures.
@@ -308,15 +301,15 @@ Note: Always add the Hg-containing solution to the aeration cell after the 25 ml
 11.1 Sample Loss Check. Check the liquid level in each container to see if liquid was lost during transport. If a noticeable amount of leakage occurred, either void the sample or use methods subject to the approval of the Administrator to account for the losses.
 11.2 Sample Preparation. Treat sample containers as follows:
 11.2.1 Containers No. 3 and No. 4 (Filter and Filter Blank).
-11.2.1.1 If a filter is used, place the contents, including the filter, of Containers No. 3 and No. 4 in separate 250-ml beakers, and heat the beakers on a steam bath until most of the liquid has evaporated. Do not heat to dryness. Add 20 ml of concentrated HNO 3 to the beakers, cover them with a watch glass, and heat on a hot plate at 70 °C (160 °F) for 2 hours. Remove from the hot plate.
+11.2.1.1 If a filter is used, place the contents, including the filter, of Containers No. 3 and No. 4 in separate 250-ml beakers, and heat the beakers on a steam bath until most of the liquid has evaporated. Do not heat to dryness. Add 20 ml of concentrated HNO3 to the beakers, cover them with a watch glass, and heat on a hot plate at 70 °C (160 °F) for 2 hours. Remove from the hot plate.
 11.2.1.2 Filter the solution from digestion of the Container No. 3 contents through Whatman No. 40 filter paper, and save the filtrate for addition to the Container No. 1 filtrate as described in Section 11.2.2. Discard the filter paper.
 11.2.1.3 Filter the solution from digestion of the Container No. 4 contents through Whatman No. 40 filter paper, and save the filtrate for addition to Container No. 5 filtrate as described in Section 11.2.3 below. Discard the filter paper.
 11.2.2 Container No. 1 (Impingers, Probe, and Filter Holder) and, if applicable, No. 1A (HCl rinse).
-11.2.2.1 Filter the contents of Container No. 1 through Whatman No. 40 filter paper into a 1 liter volumetric flask to remove the brown manganese dioxide (MnO 2) precipitate. Save the filter for digestion of the brown MnO 2 precipitate. Add the sample filtrate from Container No. 3 to the 1-liter volumetric flask, and dilute to volume with water. If the combined filtrates are greater than 1000 ml, determine the volume to the nearest ml and make the appropriate corrections for blank subtractions. Mix thoroughly. Mark the filtrate as analysis Sample No. A.1 and analyze for Hg within 48 hr of the filtration step. Place the saved filter, which was used to remove the brown MnO 2 precipitate, into an appropriate sized container. In a laboratory hood, add 25 ml of 8 N HCl to the filter and allow to digest for a minimum of 24 hours at room temperature.
-11.2.2.2 Filter the contents of Container 1A through Whatman No. 40 filter paper into a 500-ml volumetric flask. Then filter the digestate of the brown MnO 2 precipitate from Container No. 1 through Whatman No. 40 filter paper into the same 500-ml volumetric flask, and dilute to volume with water. Mark this combined 500 ml dilute solution as analysis Sample No. A.2. Discard the filters.
+11.2.2.1 Filter the contents of Container No. 1 through Whatman No. 40 filter paper into a 1 liter volumetric flask to remove the brown manganese dioxide (MnO2) precipitate. Save the filter for digestion of the brown MnO2 precipitate. Add the sample filtrate from Container No. 3 to the 1-liter volumetric flask, and dilute to volume with water. If the combined filtrates are greater than 1000 ml, determine the volume to the nearest ml and make the appropriate corrections for blank subtractions. Mix thoroughly. Mark the filtrate as analysis Sample No. A.1 and analyze for Hg within 48 hr of the filtration step. Place the saved filter, which was used to remove the brown MnO2 precipitate, into an appropriate sized container. In a laboratory hood, add 25 ml of 8 N HCl to the filter and allow to digest for a minimum of 24 hours at room temperature.
+11.2.2.2 Filter the contents of Container 1A through Whatman No. 40 filter paper into a 500-ml volumetric flask. Then filter the digestate of the brown MnO2 precipitate from Container No. 1 through Whatman No. 40 filter paper into the same 500-ml volumetric flask, and dilute to volume with water. Mark this combined 500 ml dilute solution as analysis Sample No. A.2. Discard the filters.
 11.2.3 Container No. 5 (Absorbing Solution Blank) and No. 6 (HCl Rinse Blank).
 11.2.3.1 Treat Container No. 5 as Container No. 1 (as described in Section 11.2.2), except substitute the filter blank filtrate from Container No. 4 for the sample filtrate from Container No. 3, and mark as Sample A.1 Blank.
-11.2.3.2 Treat Container No. 6 as Container No. 1A, (as described in Section 11.2.2, except substitute the filtrate from the digested blank MnO 2 precipitate for the filtrate from the digested sample MnO 2 precipitate, and mark as Sample No. A.2 Blank.
+11.2.3.2 Treat Container No. 6 as Container No. 1A, (as described in Section 11.2.2, except substitute the filtrate from the digested blank MnO2 precipitate for the filtrate from the digested sample MnO2 precipitate, and mark as Sample No. A.2 Blank.
 Note: When analyzing samples A.1 Blank and HCl A.2 Blank, always begin with 10 ml aliquots. This applies specifically to blank samples.
 11.3 Analysis. Calibrate the analytical equipment and develop a calibration curve as outlined in Section 10.0.
 11.3.1 Mercury Samples. Then repeat the procedure used to establish the calibration curve with appropriately sized aliquots (1 to 10 ml) of the samples (from Sections 11.2.2 and 11.2.3) until two consecutive peak heights agree within 3 percent of their average value. If the 10 ml sample is below the detectable limit, use a larger aliquot (up to 20 ml), but decrease the volume of water added to the aeration cell accordingly to prevent the solution volume from exceeding the capacity of the aeration bottle. If the peak maximum of a 1.0 ml aliquot is off scale, further dilute the original sample to bring the Hg concentration into the calibration range of the spectrophotometer. If the Hg content of the absorbing solution and filter blank is below the working range of the analytical method, use zero for the blank.
@@ -325,35 +318,32 @@ Note: When analyzing samples A.1 Blank and HCl A.2 Blank, always begin with 10 m
 12.0 Data Analysis and Calculations
 Note: Carry out calculations, retaining at least one extra decimal significant figure beyond that of the acquired data. Round off figures only after the final calculation. Other forms of the equations may be used as long as they give equivalent results.
 12.1 Nomenclature.
-C (fltr)Hg = Total ng of Hg in aliquot of KMnO 4 filtrate and HNO 3 digestion of filter analyzed (aliquot of analysis Sample No. A.1).
-C (fltr blk)Hg = Total ng of Hg in aliquot of KMnO 4 blank and HNO 3 digestion of blank filter analyzed (aliquot of analysis Sample No. A.1 blank).
-C (HC1 blk)Hg = Total ng of Hg analyzed in aliquot of the 500-ml analysis Sample No. HCl A.2 blank.
-C (HCl)Hg = Total ng of Hg analyzed in the aliquot from the 500-ml analysis Sample No. HCl A.2.
+C(fltr)Hg = Total ng of Hg in aliquot of KMnO4 filtrate and HNO3 digestion of filter analyzed (aliquot of analysis Sample No. A.1).
+C(fltr blk)Hg = Total ng of Hg in aliquot of KMnO4 blank and HNO3 digestion of blank filter analyzed (aliquot of analysis Sample No. A.1 blank).
+C(HC1 blk)Hg = Total ng of Hg analyzed in aliquot of the 500-ml analysis Sample No. HCl A.2 blank.
+C(HCl)Hg = Total ng of Hg analyzed in the aliquot from the 500-ml analysis Sample No. HCl A.2.
 DF = Dilution factor for the HCl-digested Hg-containing solution, Analysis Sample No. "HCl A.2."
-DF blk = Dilution factor for the HCl-digested Hg containing solution, Analysis Sample No. "HCl A.2 blank." (Refer to sample No. "HCl A.2" dilution factor above.)
-m (fltr)Hg = Total blank corrected µg of Hg in KMnO 4 filtrate and HNO 3 digestion of filter sample.
-m (HCl)Hg = Total blank corrected µg of Hg in HCl rinse and HCl digestate of filter sample.
-m Hg = Total blank corrected Hg content in each sample, µg.
+DFblk = Dilution factor for the HCl-digested Hg containing solution, Analysis Sample No. "HCl A.2 blank." (Refer to sample No. "HCl A.2" dilution factor above.)
+m(fltr)Hg = Total blank corrected µg of Hg in KMnO4 filtrate and HNO3 digestion of filter sample.
+m(HCl)Hg = Total blank corrected µg of Hg in HCl rinse and HCl digestate of filter sample.
+mHg = Total blank corrected Hg content in each sample, µg.
 S = Aliquot volume of sample added to aeration cell, ml.
-S blk = Aliquot volume of blank added to aeration cell, ml.
-Vf (blk) = Solution volume of blank sample, 1000 ml for samples diluted as described in Section 11.2.2.
-V f(fltr) = Solution volume of original sample, normally 1000 ml for samples diluted as described in Section 11.2.2.
-V f(HCl) = Solution volume of original sample, 500 ml for samples diluted as described in Section 11.2.1.
-10 −3 = Conversion factor, µg/ng.
+Sblk = Aliquot volume of blank added to aeration cell, ml.
+Vf(blk) = Solution volume of blank sample, 1000 ml for samples diluted as described in Section 11.2.2.
+Vf(fltr) = Solution volume of original sample, normally 1000 ml for samples diluted as described in Section 11.2.2.
+Vf(HCl) = Solution volume of original sample, 500 ml for samples diluted as described in Section 11.2.1.
+10−3 = Conversion factor, µg/ng.
 12.2 Average Dry Gas Meter Temperature and Average Orifice Pressure Drop, Dry Gas Volume, Volume of Water Vapor Condensed, Moisture Content, Isokinetic Variation, and Stack Gas Velocity and Volumetric Flow Rate. Same as Method 5, Sections 12.2 through 12.5, 12.11, and 12.12, respectively.
 12.3 Total Mercury.
 12.3.1 For each source sample, correct the average maximum absorbance of the two consecutive samples whose peak heights agree within 3 percent of their average for the contribution of the blank. Use the calibration curve and these corrected averages to determine the final total weight of Hg in ng in the aeration cell for each source sample.
 12.3.2 Correct for any dilutions made to bring the sample into the working range of the spectrophotometer.
-ER17OC00.498
-Note: This dilution factor applies only to the intermediate dilution steps, since the original sample volume [(V f) HCL] of "HCl A.2" has been factored out in the equation along with the sample aliquot (S). In Eq. 101A-1, the sample aliquot, S, is introduced directly into the aeration cell for analysis according to the procedure outlined in Section 11.3.1. A dilution factor is required only if it is necessary to bring the sample into the analytical instrument's calibration range.
+Note: This dilution factor applies only to the intermediate dilution steps, since the original sample volume [(Vf)HCL] of "HCl A.2" has been factored out in the equation along with the sample aliquot (S). In Eq. 101A-1, the sample aliquot, S, is introduced directly into the aeration cell for analysis according to the procedure outlined in Section 11.3.1. A dilution factor is required only if it is necessary to bring the sample into the analytical instrument's calibration range.
 Note: The maximum allowable blank subtraction for the HCl is the lesser of the two following values: (1) the actual blank measured value (analysis Sample No. HCl A.2 blank), or (2) 5% of the Hg content in the combined HCl rinse and digested sample (analysis Sample No. HCl A.2).
-ER17OC00.499
 Note: The maximum allowable blank subtraction for the HCl is the lesser of the two following values: (1) the actual blank measured value (analysis Sample No. "A.1 blank"), or (2) 5% of the Hg content in the filtrate (analysis Sample No. "A.1").
-ER17OC00.500
 12.3 Mercury Emission Rate. Same as Method 101, Section 12.3.
 12.4 Determination of Compliance. Same as Method 101, Section 12.4.
 13.0 Method Performance
-13.1 Precision. Based on eight paired-train tests, the intra-laboratory standard deviation was estimated to be 4.8 µg/ml in the concentration range of 50 to 130 µg/m 3.
+13.1 Precision. Based on eight paired-train tests, the intra-laboratory standard deviation was estimated to be 4.8 µg/ml in the concentration range of 50 to 130 µg/m3.
 13.2 Bias. [Reserved]
 13.3 Range. After initial dilution, the range of this method is 20 to 800 ng Hg/ml. The upper limit can be extended by further dilution of the sample.
 14.0 Pollution Prevention [Reserved]
@@ -404,16 +394,15 @@ Same as Method 101, Section 8.0, with the exception of the following:
 8.1.1 If a nomograph is used, take special care in the calculation of the molecular weight of the stack gas and in the setting of the nomograph to maintain isokinetic conditions during sampling (Sections 8.1.1.1 through 8.1.1.3 below).
 8.1.1.1 Calibrate the meter box orifice. Use the techniques described in APTD-0576 (see Reference 9 in Section 17.0 of Method 5 of appendix A to part 60). Calibration of the orifice meter at flow conditions that simulate the conditions at the source is suggested. Calibration should either be done with hydrogen or with some other gas having a similar Reynolds Number so that there is similarity between the Reynolds Numbers during calibration and during sampling. Alternative mercury-free thermometers may be used if the thermometers are, at a minimum, equivalent in terms of performance or suitably effective for the specific temperature measurement application.
 8.1.1.2 The nomograph described in APTD-0576 cannot be used to calculate the C factor because the nomograph is designed for use when the stack gas dry molecular weight is 29 ±4. Instead, the following calculation should be made to determine the proper C factor:
-ER17OC00.501
 Where:
-B ws = Fraction by volume of water vapor in the stack gas.
-C p = Pitot tube calibration coefficient, dimensionless.
-M d = Dry molecular weight of stack gas, lb/lb-mole.
-P s = Absolute pressure of stack gas, in. Hg.
-P m = Absolute pressure of gas at the meter, in. Hg.
-T m = Absolute temperature of gas at the orifice, °R.
-ΔH @ = Meter box calibration factor obtained in Section 8.1.1.1, in. H 2 O.
-0.00154 = (in. H 2 O/°R).
+Bws = Fraction by volume of water vapor in the stack gas.
+Cp = Pitot tube calibration coefficient, dimensionless.
+Md = Dry molecular weight of stack gas, lb/lb-mole.
+Ps = Absolute pressure of stack gas, in. Hg.
+Pm = Absolute pressure of gas at the meter, in. Hg.
+Tm = Absolute temperature of gas at the orifice, °R.
+ΔH@ = Meter box calibration factor obtained in Section 8.1.1.1, in. H2O.
+0.00154 = (in. H2O/°R).
 Note: This calculation is left in English units, and is not converted to metric units because nomographs are based on English units.
 8.1.1.3 Set the calculated C factor on the operating nomograph, and select the proper nozzle diameter and K factor as specified in APTD-0576. If the C factor obtained in Section 8.1.1.2 exceeds the values specified on the existing operating nomograph, expand the C scale logarithmically so that the values can be properly located.
 8.1.2 If a calculator is used to set isokinetic rates, it is suggested that the isokinetic equation presented in Reference 13 in Section 17.0 of Method 101 be consulted.
@@ -474,7 +463,7 @@ Beryllium (Be) | 7440-41-7 | Dependent upon analytical procedure used.
 8.0 Sample Collection, Preservation, Transport, and Storage
 Guidelines for source testing are detailed in the following sections. These guidelines are generally applicable; however, most sample sites differ to some degree and temporary alterations such as stack extensions or expansions often are required to insure the best possible sample site. Further, since Be is hazardous, care should be taken to minimize exposure. Finally, since the total quantity of Be to be collected is quite small, the test must be carefully conducted to prevent contamination or loss of sample.
 8.1 Selection of a Sampling Site and Number of Sample Runs. Select a suitable sample site that is as close as practicable to the point of atmospheric emission. If possible, stacks smaller than one foot in diameter should not be sampled.
-8.1.1 Ideal Sampling Site. The ideal sampling site is at least eight stack or duct diameters downstream and two diameters upstream from any flow disturbance such as a bend, expansion or contraction. For rectangular cross sections, use Equation 103-1 in Section 12.2 to determine an equivalent diameter, D e.
+8.1.1 Ideal Sampling Site. The ideal sampling site is at least eight stack or duct diameters downstream and two diameters upstream from any flow disturbance such as a bend, expansion or contraction. For rectangular cross sections, use Equation 103-1 in Section 12.2 to determine an equivalent diameter, De.
 8.1.2 Alternate Sampling Site. Some sampling situations may render the above sampling site criteria impractical. In such cases, select an alternate site no less than two diameters downstream and one-half diameter upstream from any point of flow disturbance. Additional sample runs are recommended at any sample site not meeting the criteria of Section 8.1.1.
 8.1.3 Number of Sample Runs Per Test. Three sample runs constitute a test. Conduct each run at one of three different points. Select three points that proportionately divide the diameter, or are located at 25, 50, and 75 percent of the diameter from the inside wall. For horizontal ducts, sample on a vertical line through the centroid. For rectangular ducts, sample on a line through the centroid and parallel to a side. If additional sample runs are performed per Section 8.1.2, proportionately divide the duct to accommodate the total number of runs.
 8.2 Measurement of Stack Conditions. Using the equipment described in Section 6.2, measure the stack gas pressure, moisture, and temperature to determine the molecular weight of the stack gas. Sound engineering estimates may be made in lieu of direct measurements. Describe the basis for such estimates in the test report.
@@ -496,26 +485,23 @@ Guidelines for source testing are detailed in the following sections. These guid
 Make the necessary preparation of samples and analyze for Be. Any currently acceptable method (e.g., atomic absorption, spectrographic, fluorometric, chromatographic) may be used.
 12.0 Data Analysis and Calculations
 12.1 Nomenclature.
-A s (avg) = Stack area, m 2 (ft 2).
+As(avg) = Stack area, m 2 (ft 2).
 L = Length.
 R = Be emission rate, g/day.
-V s (avg) = Average stack gas velocity, m/sec (ft/sec).
-V total = Total volume of gas sampled, m 3 (ft 3).
+Vs(avg) = Average stack gas velocity, m/sec (ft/sec).
+Vtotal = Total volume of gas sampled, m 3 (ft 3).
 W = Width.
-W t = Total weight of Be collected, mg.
-10 −6 = Conversion factor, g/µg.
+Wt = Total weight of Be collected, mg.
+10−6 = Conversion factor, g/µg.
 86,400 = Conversion factor, sec/day.
 12.2 Calculate the equivalent diameter, De, for a rectangular cross section as follows:
-ER17OC00.502
 12.3 Calculate the Be emission rate, R, in g/day for each stack using Equation 103-2. For cyclic operations, use only the time per day each stack is in operation. The total Be emission rate from a source is the summation of results from all stacks.
-ER17OC00.503
 12.4 Test Report. Prepare a test report that includes as a minimum: A detailed description of the sampling train used, results of the procedural check described in Section 10.1 with all data and calculations made, all pertinent data taken during the test, the basis for any estimates made, isokinetic sampling calculations, and emission results. Include a description of the test site, with a block diagram and brief description of the process, location of the sample points in the stack cross section, and stack dimensions and distances from any point of disturbance.
 13.0 Method Performance. [Reserved]
 14.0 Pollution Prevention. [Reserved]
 15.0 Waste Management. [Reserved]
 16.0 References. [Reserved]
 17.0 Tables, Diagrams, Flow Charts, and Validation Data
-ER17OC00.504
 Method 104—Determination of Beryllium Emissions From Stationary Sources
 Note: This method does not include all of the specifications (e.g., equipment and supplies) and procedures (e.g., sampling and analytical) essential to its performance. Some material is incorporated by reference from methods in appendix A to 40 CFR part 60. Therefore, to obtain reliable results, persons using this method should have a thorough knowledge of at least the following additional test methods: Method 1, Method 2, Method 3, and Method 5 in appendix A, part 60.
 1.0 Scope and Application
@@ -532,9 +518,9 @@ Beryllium (Be) | 7440-41-7 | Dependent upon recorder and spectrophotometer.
 5.0 Safety
 5.1 Disclaimer. This method may involve hazardous materials, operations, and equipment. This test method may not address all of the safety problems associated with its use. It is the responsibility of the user of this test method to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to performing this test method.
 5.2 Corrosive reagents. The following reagents are hazardous. Personal protective equipment and safe procedures are useful in preventing chemical splashes. If contact occurs, immediately flush with copious amounts of water at least 15 minutes. Remove clothing under shower and decontaminate. Treat residual chemical burn as thermal burn.
-5.2.1 Hydrochloric Acid (HC l). Highly toxic. Vapors are highly irritating to eyes, skin, nose, and lungs, causing severe damage. May cause bronchitis, pneumonia, or edema of lungs. Exposure to concentrations of 0.13 to 0.2 percent can be lethal to humans in a few minutes. Provide ventilation to limit exposure. Reacts with metals, producing hydrogen gas.
-5.2.2 Hydrogen Peroxide (H 2 O 2). Irritating to eyes, skin, nose, and lungs.
-5.2.3 Nitric Acid (HNO 3). Highly corrosive to eyes, skin, nose, and lungs. Vapors cause bronchitis, pneumonia, or edema of lungs. Reaction to inhalation may be delayed as long as 30 hours and still be fatal. Provide ventilation to limit exposure. Strong oxidizer. Hazardous reaction may occur with organic materials such as solvents.
+5.2.1 Hydrochloric Acid (HCl). Highly toxic. Vapors are highly irritating to eyes, skin, nose, and lungs, causing severe damage. May cause bronchitis, pneumonia, or edema of lungs. Exposure to concentrations of 0.13 to 0.2 percent can be lethal to humans in a few minutes. Provide ventilation to limit exposure. Reacts with metals, producing hydrogen gas.
+5.2.2 Hydrogen Peroxide (H2O2). Irritating to eyes, skin, nose, and lungs.
+5.2.3 Nitric Acid (HNO3). Highly corrosive to eyes, skin, nose, and lungs. Vapors cause bronchitis, pneumonia, or edema of lungs. Reaction to inhalation may be delayed as long as 30 hours and still be fatal. Provide ventilation to limit exposure. Strong oxidizer. Hazardous reaction may occur with organic materials such as solvents.
 5.2.4 Sodium Hydroxide (NaOH). Causes severe damage to eyes and skin. Inhalation causes irritation to nose, throat, and lungs. Reacts exothermically with limited amounts of water.
 5.3 Beryllium is hazardous, and precautions should be taken to minimize exposure.
 6.0 Equipment and Supplies
@@ -563,12 +549,12 @@ Note: Unless otherwise indicated, it is intended that all reagents conform to th
 7.2.1 Wash Acid, 50 Percent (V/V) Hydrochloric Acid (HCl). Mix equal volumes of concentrated HCl and water, being careful to add the acid slowly to the water.
 7.3 Sample Preparation and Analysis. The following reagents and standards and standards are needed for sample preparation and analysis:
 7.3.1 Water. Same as in Section 7.1.
-7.3.2. Perchloric Acid (HClO 4). Concentrated (70 percent V/V).
-7.3.3 Nitric Acid (HNO 3). Concentrated.
+7.3.2. Perchloric Acid (HClO4). Concentrated (70 percent V/V).
+7.3.3 Nitric Acid (HNO3). Concentrated.
 7.3.4 Beryllium Powder. Minimum purity 98 percent.
-7.3.5 Sulfuric Acid (H 2 SO 4) Solution, 12 N. Dilute 33 ml of concentrated H 2 SO 4 to 1 liter with water.
+7.3.5 Sulfuric Acid (H2SO4) Solution, 12 N. Dilute 33 ml of concentrated H2SO4 to 1 liter with water.
 7.3.6 Hydrochloric Acid Solution, 25 Percent HCl (V/V).
-7.3.7 Stock Beryllium Standard Solution, 10 µg Be/ml. Dissolve 10.0 mg of Be in 80 ml of 12 N H 2 SO 4 in a 1000-ml volumetric flask. Dilute to volume with water. This solution is stable for at least one month. Equivalent strength Be stock solutions may be prepared from Be salts such as BeCl 2 and Be(NO 3) 2 (98 percent minimum purity).
+7.3.7 Stock Beryllium Standard Solution, 10 µg Be/ml. Dissolve 10.0 mg of Be in 80 ml of 12 N H2SO4 in a 1000-ml volumetric flask. Dilute to volume with water. This solution is stable for at least one month. Equivalent strength Be stock solutions may be prepared from Be salts such as BeCl2 and Be(NO3)2 (98 percent minimum purity).
 7.3.8 Working Beryllium Standard Solution, 1 µg Be/ml. Dilute a 10 ml aliquot of the stock beryllium standard solution to 100 ml with 25 percent HCl solution to give a concentration of 1 mg/ml. Prepare this dilute stock solution fresh daily.
 8.0 Sample Collection, Preservation, Transport, and Storage
 The amount of Be that is collected is generally small, therefore, it is necessary to exercise particular care to prevent contamination or loss of sample.
@@ -588,7 +574,7 @@ Note: An empty impinger may be inserted between the third impinger and the silic
 8.5.2 Container No. 2. Place the contents (measured to 1 ml) of the first three impingers into a glass sample bottle. Use the procedures outlined in Section 8.7.6.2 of Method 5, where applicable, to rinse the probe nozzle, probe fitting, probe liner, filter holder, and all glassware between the filter holder and the back half of the third impinger with water. Repeat this procedure with acetone. Place both water and acetone rinse solutions in the sample bottle with the contents of the impingers.
 8.5.3 Container No. 3. Same as Method 5, Section 8.7.6.3.
 8.6 Blanks.
-8.6.1 Water Blank. Save a portion of the water as a blank. Take 200 ml directly from the wash bottle being used and place it in a plastic sample container labeled "H 2 O blank."
+8.6.1 Water Blank. Save a portion of the water as a blank. Take 200 ml directly from the wash bottle being used and place it in a plastic sample container labeled "H2O blank."
 8.6.2 Filter. Save two filters from each lot of filters used in sampling. Place these filters in a container labeled "filter blank."
 8.7 Post-test Glassware Rinsing. If an additional test is desired, the glassware can be carefully double rinsed with water and reassembled. However, if the glassware is out of use more than 2 days, repeat the initial acid wash procedure.
 9.0 Quality Control
@@ -608,11 +594,11 @@ Note: Maintain a laboratory log of all calibrations.
 11.0 Analytical Procedure
 11.1 Sample Loss Check. Prior to analysis, check the liquid level in Container No. 2. Note on the analytical data sheet whether leakage occurred during transport. If a noticeable amount of leakage occurred, either void the sample or take steps, subject to the approval of the Administrator, to adjust the final results.
 11.2 Glassware Cleaning. Before use, clean all glassware according to the procedure of Section 8.3.1.
-11.3 Sample Preparation. The digestion of Be samples is accomplished in part in concentrated HClO 4.
-Note: The sample must be heated to light brown fumes after the initial HNO3 addition; otherwise, dangerous perchlorates may result from the subsequent HClO 4 digestion. HClO 4 should be used only under a hood.
-11.3.1 Container No. 1. Transfer the filter and any loose particulate matter from Container No. 1 to a 150-ml beaker. Add 35 ml concentrated HNO 3. To oxidize all organic matter, heat on a hotplate until light brown fumes are evident. Cool to room temperature, and add 5 ml 12 N H 2 SO 4 and 5 ml concentrated HClO 4.
-11.3.2 Container No. 2. Place a portion of the water and acetone sample into a 150 ml beaker, and put on a hotplate. Add portions of the remainder as evaporation proceeds and evaporate to dryness. Cool the residue, and add 35 ml concentrated HNO 3. To oxidize all organic matter, heat on a hotplate until light brown fumes are evident. Cool to room temperature, and add 5 ml 12 N H 2 SO 4 and 5 ml concentrated HClO 4. Then proceed with step 11.3.4.
-11.3.3 Final Sample Preparation. Add the sample from Section 11.3.2 to the 150-ml beaker from Section 11.3.1. Replace on a hotplate, and evaporate to dryness in a HClO 4 hood. Cool the residue to room temperature, add 10.0 ml of 25 percent V/V HCl, and mix to dissolve the residue.
+11.3 Sample Preparation. The digestion of Be samples is accomplished in part in concentrated HClO4.
+Note: The sample must be heated to light brown fumes after the initial HNO3 addition; otherwise, dangerous perchlorates may result from the subsequent HClO4 digestion. HClO4 should be used only under a hood.
+11.3.1 Container No. 1. Transfer the filter and any loose particulate matter from Container No. 1 to a 150-ml beaker. Add 35 ml concentrated HNO3. To oxidize all organic matter, heat on a hotplate until light brown fumes are evident. Cool to room temperature, and add 5 ml 12 N H2SO4 and 5 ml concentrated HClO4.
+11.3.2 Container No. 2. Place a portion of the water and acetone sample into a 150 ml beaker, and put on a hotplate. Add portions of the remainder as evaporation proceeds and evaporate to dryness. Cool the residue, and add 35 ml concentrated HNO3. To oxidize all organic matter, heat on a hotplate until light brown fumes are evident. Cool to room temperature, and add 5 ml 12 N H2SO4 and 5 ml concentrated HClO4. Then proceed with step 11.3.4.
+11.3.3 Final Sample Preparation. Add the sample from Section 11.3.2 to the 150-ml beaker from Section 11.3.1. Replace on a hotplate, and evaporate to dryness in a HClO4 hood. Cool the residue to room temperature, add 10.0 ml of 25 percent V/V HCl, and mix to dissolve the residue.
 11.3.4 Filter and Water Blanks. Cut each filter into strips, and treat each filter individually as directed in Section 11.3.1. Treat the 200-ml water blank as directed in Section 11.3.2. Combine and treat these blanks as directed in Section 11.3.3.
 11.4 Spectrophotometer Preparation. Turn on the power; set the wavelength, slit width, and lamp current; and adjust the background corrector as instructed by the manufacturer's manual for the particular atomic absorption spectrophotometer. Adjust the burner and flame characteristics as necessary.
 11.5 Analysis. Calibrate the analytical equipment and develop a calibration curve as outlined in Sections 10.4 and 10.5.
@@ -623,20 +609,19 @@ Note: The sample must be heated to light brown fumes after the initial HNO3 addi
 12.0 Data Analysis and Calculations
 Carry out calculations, retaining at least one extra decimal significant figure beyond that of the acquired data. Round off figures only after the final calculation. Other forms of the equations may be used as long as they give equivalent results.
 12.1 Nomenclature.
-K 1 = 0.3858 °K/mm Hg for metric units.
+K1 = 0.3858 °K/mm Hg for metric units.
 = 17.64 °R/in. Hg for English units.
-K 3 = 10 −6 g/µg for metric units.
-= 2.2046 × 10 −9 lb/µg for English units.
-m Be = Total weight of beryllium in the source sample.
-P s = Absolute stack gas pressure, mm Hg (in. Hg).
+K3 = 10−6 g/µg for metric units.
+= 2.2046 × 10−9 lb/µg for English units.
+mBe = Total weight of beryllium in the source sample.
+Ps = Absolute stack gas pressure, mm Hg (in. Hg).
 t = Daily operating time, sec/day.
-T s = Absolute average stack gas temperature, °K (°R).
-V m(std) = Dry gas sample volume at standard conditions, scm (scf).
-V w(std) = Volume of water vapor at standard conditions, scm (scf).
+Ts = Absolute average stack gas temperature, °K (°R).
+Vm(std) = Dry gas sample volume at standard conditions, scm (scf).
+Vw(std) = Volume of water vapor at standard conditions, scm (scf).
 12.2 Average Dry Gas Meter Temperature and Average Orifice Pressure Drop, Dry Gas Volume, Volume of Water Vapor Condensed, Moisture Content, Isokinetic Variation, and Stack Gas Velocity and Volumetric Flow Rate. Same as Method 5, Sections 12.2 through 12.5, 12.11, and 12.12, respectively.
 12.3 Total Beryllium. For each source sample, correct the average maximum absorbance of the two consecutive samples whose peak heights agree within 3 percent of their average for the contribution of the solution blank (see Sections 11.3.4 and 11.5.2). Correcting for any dilutions if necessary, use the calibration curve and these corrected averages to determine the total weight of Be in each source sample.
 12.4 Beryllium Emission Rate. Calculate the daily Hg emission rate, R, using Equation 104-1. For continuous operations, the operating time is equal to 86,400 seconds per day. For cyclic operations, use only the time per day each stack is in operation. The total Hg emission rate from a source will be the summation of results from all stacks.
-ER17OC00.505
 12.5 Determination of Compliance. Each performance test consists of three sample runs. For the purpose of determining compliance with an applicable national emission standard, use the average of the results of all sample runs.
 13.0 Method Performance. [Reserved]
 14.0 Pollution Prevention. [Reserved]
@@ -662,14 +647,14 @@ Mercury (Hg) | 7439-97-6 | Dependent upon spectrophotometer and recorder.
 1.2 Applicability. This method is applicable for the determination of total organic and inorganic Hg content in sewage sludges.
 1.3 Data Quality Objectives. Adherence to the requirements of this method will enhance the quality of the data obtained from air pollutant sampling methods.
 2.0 Summary of Method
-2.1 Time-composite sludge samples are withdrawn from the conveyor belt subsequent to dewatering and before incineration or drying. A weighed portion of the sludge is digested in aqua regia and is oxidized by potassium permanganate (KMnO 4). Mercury in the digested sample is then measured by the conventional spectrophotometric cold-vapor technique.
+2.1 Time-composite sludge samples are withdrawn from the conveyor belt subsequent to dewatering and before incineration or drying. A weighed portion of the sludge is digested in aqua regia and is oxidized by potassium permanganate (KMnO4). Mercury in the digested sample is then measured by the conventional spectrophotometric cold-vapor technique.
 3.0 Definitions [Reserved]
 4.0 Interferences [Reserved]
 5.0 Safety
 5.1 Disclaimer. This method may involve hazardous materials, operations, and equipment. This test method may not address all of the safety problems associated with its use. It is the responsibility of the user of this test method to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to performing this test method.
 5.2 Corrosive Reagents. The following reagents are hazardous. Personal protective equipment and safe procedures are useful in preventing chemical splashes. If contact occurs, immediately flush with copious amounts of water at least 15 minutes. Remove clothing under shower and decontaminate. Treat residual chemical burn as thermal burn.
 5.2.1 Hydrochloric Acid (HCl). Highly toxic. Vapors are highly irritating to eyes, skin, nose, and lungs, causing severe damage. May cause bronchitis, pneumonia, or edema of lungs. Exposure to concentrations of 0.13 to 0.2 percent can be lethal to humans in a few minutes. Provide ventilation to limit exposure. Reacts with metals, producing hydrogen gas.
-5.2.2 Nitric Acid (HNO 3). Highly corrosive to eyes, skin, nose, and lungs. Vapors cause bronchitis, pneumonia, or edema of lungs. Reaction to inhalation may be delayed as long as 30 hours and still be fatal. Provide ventilation to limit exposure. Strong oxidizer. Hazardous reaction may occur with organic materials such as solvents.
+5.2.2 Nitric Acid (HNO3). Highly corrosive to eyes, skin, nose, and lungs. Vapors cause bronchitis, pneumonia, or edema of lungs. Reaction to inhalation may be delayed as long as 30 hours and still be fatal. Provide ventilation to limit exposure. Strong oxidizer. Hazardous reaction may occur with organic materials such as solvents.
 6.0 Equipment and Supplies
 6.1 Sample Collection and Mixing. The following items are required for collection and mixing of the sludge samples:
 6.1.1 Container. Plastic, 50-liter.
@@ -688,7 +673,7 @@ Mercury (Hg) | 7439-97-6 | Dependent upon spectrophotometer and recorder.
 Note: Unless otherwise indicated, it is intended that all reagents conform to the specifications established by the Committee on Analytical Reagents of the American Chemical Society, where such specifications are available; otherwise, use the best available grade.
 7.1 Sample Analysis. Same as Method 101A, Section 7.2, with the following additions and exceptions:
 7.1.1 Hydrochloric Acid. The concentrated HCl specified in Method 101A, Section 7.2.4, is not required.
-7.1.2 Aqua Regia. Prepare immediately before use. Carefully add one volume of concentrated HNO 3 to three volumes of concentrated HCl.
+7.1.2 Aqua Regia. Prepare immediately before use. Carefully add one volume of concentrated HNO3 to three volumes of concentrated HCl.
 8.0 Sample Collection, Preservation, Storage, and Transport
 8.1 Sludge Sampling. Withdraw equal volume increments of sludge [for a total of at least 15 liters (16 quarts)] at intervals of 30 min over an 8-hr period, and combine in a rigid plastic container.
 8.2 Sludge Mixing. Transfer the entire 15-liter sample to a mortar mixer. Mix the sample for a minimum of 30 min at 30 rpm. Take six 100-ml portions of sludge, and combine in a 2-liter blender. Blend sludge for 5 min; add water as necessary to give a fluid consistency. Immediately after stopping the blender, withdraw four 20-ml portions of blended sludge, and place them in separate, tared 125-ml Erlenmeyer flasks. Reweigh each flask to determine the exact amount of sludge added.
@@ -708,30 +693,26 @@ Same as Method 101A, Section 10.2.
 11.4 Analysis for Mercury. Analyze the three aqua regia-digested samples using the procedures outlined in Method 101A, Section 11.0.
 12.0 Data Analysis and Calculations
 12.1 Nomenclature.
-C m = Concentration of Hg in the digested sample, µg/g.
-F sb = Weight fraction of solids in the blended sludge.
-F sm = Weight fraction of solids in the collected sludge after mixing.
+Cm = Concentration of Hg in the digested sample, µg/g.
+Fsb = Weight fraction of solids in the blended sludge.
+Fsm = Weight fraction of solids in the collected sludge after mixing.
 M = Hg content of the sewage sludge (on a dry basis), µg/g.
 m = Mass of Hg in the aliquot of digested sample analyzed, µg.
 n = number of digested samples (specified in Section 11.2 as three).
-V a = Volume of digested sample analyzed, ml.
-V s = Volume of digested sample, ml.
-W b = Weight of empty sample beaker, g.
-W bs = Weight of sample beaker and sample, g.
-W bd = Weight of sample beaker and sample after drying, g.
-W f = Weight of empty sample flask, g.
-W fd = Weight of sample flask and sample after drying, g.
-W fs = Weight of sample flask and sample, g.
+Va = Volume of digested sample analyzed, ml.
+Vs = Volume of digested sample, ml.
+Wb = Weight of empty sample beaker, g.
+Wbs = Weight of sample beaker and sample, g.
+Wbd = Weight of sample beaker and sample after drying, g.
+Wf = Weight of empty sample flask, g.
+Wfd = Weight of sample flask and sample after drying, g.
+Wfs = Weight of sample flask and sample, g.
 12.2 Mercury Content of Digested Sample (Wet Basis).
 12.2.1 For each sample analyzed for Hg content, calculate the arithmetic mean maximum absorbance of the two consecutive samples whose peak heights agree ±3 percent of their average. Correct this average value for the contribution of the blank. Use the calibration curve and these corrected averages to determine the final Hg concentration in the solution cell for each sludge sample.
 12.2.2 Calculate the average Hg concentration of the digested samples by correcting for any dilutions made to bring the sample into the working range of the spectrophotometer and for the weight of the sludge portion digested, using Equation 105-1.
-ER17OC00.506
 12.3 Solids Content of Blended Sludge. Determine the solids content of the blended sludge using Equation 105-2.
-ER17OC00.507
 12.4 Solids Content of Bulk Sample (before blending but, after mixing in mortar mixer). Determine the solids content of each 100 ml aliquot (Section 11.3), and average the results.
-ER17OC00.508
 12.5 Mercury Content of Bulk Sample (Dry Basis). Average the results from the three samples from each 8-hr composite sample, and calculate the Hg concentration of the composite sample on a dry basis.
-ER17OC00.509
 13.0 Method Performance
 13.1 Range. The range of this method is 0.2 to 5 micrograms per gram; it may be extended by increasing or decreasing sample size.
 14.0 Pollution Prevention. [Reserved]
@@ -750,7 +731,7 @@ Method 106—Determination of Vinyl Chloride Emissions From Stationary Sources
 1.0 Scope and Application
 1.1 Analytes.
 Analyte | CAS No. | Sensitivity
-Vinyl Chloride (CH 2:CHCl) | 75-01-4 | Dependent upon analytical equipment.
+Vinyl Chloride (CH2:CHCl) | 75-01-4 | Dependent upon analytical equipment.
 1.2 Applicability. This method is applicable for the determination of vinyl chloride emissions from ethylene dichloride, vinyl chloride, and polyvinyl chloride manufacturing processes. This method does not measure vinyl chloride contained in particulate matter.
 1.3 Data Quality Objectives. Adherence to the requirements of this method will enhance the quality of the data obtained from air pollutant sampling methods.
 2.0 Summary of Method
@@ -806,7 +787,7 @@ Note: The following items are required only if the optional standard gas prepara
 7.2.3.2 Verification of Manufacturer's Calibration Standards. Before using a standard, the manufacturer shall verify each calibration standard (a) by comparing it to gas mixtures prepared (with 99 mole percent vinyl chloride) in accordance with the procedure described in Section 7.2.1 or (b) calibrating it against vinyl chloride cylinder Standard Reference Materials (SRM's) prepared by the National Institute of Standards and Technology, if such SRM's are available. The agreement between the initially determined concentration value and the verification concentration value must be ±5 percent. The manufacturer must reverify all calibration standards on a time interval consistent with the shelf life of the cylinder standards sold.
 8.0 Sample Collection, Preservation, Storage, and Transport
 Note: Performance of this method should not be attempted by persons unfamiliar with the operation of a gas chromatograph (GC) nor by those who are unfamiliar with source sampling, because knowledge beyond the scope of this presentation is required.
-8.1 Bag Leak-Check. The following leak-check procedure is recommended, but not required, prior to sample collection. The post-test leak-check procedure is mandatory. Connect a water manometer and pressurize the bag to 5 to 10 cm H 2 O (2 to 4 in. H 2 O). Allow to stand for 10 min. Any displacement in the water manometer indicates a leak. Also, check the rigid container for leaks in this manner.
+8.1 Bag Leak-Check. The following leak-check procedure is recommended, but not required, prior to sample collection. The post-test leak-check procedure is mandatory. Connect a water manometer and pressurize the bag to 5 to 10 cm H2O (2 to 4 in. H2O). Allow to stand for 10 min. Any displacement in the water manometer indicates a leak. Also, check the rigid container for leaks in this manner.
 Note: An alternative leak-check method is to pressurize the bag to 5 to 10 cm H2O and allow it to stand overnight. A deflated bag indicates a leak. For each sample bag in its rigid container, place a rotameter in line between the bag and the pump inlet. Evacuate the bag. Failure of the rotameter to register zero flow when the bag appears to be empty indicates a leak.
 8.2 Sample Collection. Assemble the sample train as shown in Figure 106-1. Join the quick connects as illustrated, and determine that all connection between the bag and the probe are tight. Place the end of the probe at the centroid of the stack and start the pump with the needle valve adjusted to yield a flow that will fill over 50 percent of bag volume in the specific sample period. After allowing sufficient time to purge the line several times, change the vacuum line from the container to the bag and evacuate the bag until the rotameter indicates no flow. Then reposition the sample and vacuum lines and begin the actual sampling, keeping the rate proportional to the stack velocity. At all times, direct the gas exiting the rotameter away from sampling personnel. At the end of the sample period, shut off the pump, disconnect the sample line from the bag, and disconnect the vacuum line from the bag container. Protect the bag container from sunlight.
 8.3 Sample Storage. Keep the sample bags out of direct sunlight. When at all possible, analysis is to be performed within 24 hours, but in no case in excess of 72 hours of sample collection. Aluminized Mylar bag samples must be analyzed within 24 hours.
@@ -818,28 +799,26 @@ Section | Quality control measure | Effect
 Note: Maintain a laboratory log of all calibrations.
 10.1 Preparation of Vinyl Chloride Standard Gas Mixtures. (Optional Procedure-delete if cylinder standards are used.) Evacuate a 16-inch square Tedlar bag that has passed a leak-check (described in Section 8.1) and meter in 5.0 liters of nitrogen. While the bag is filling, use the 0.5-ml syringe to inject 250 µl of 99.9 + percent vinyl chloride gas through the wall of the bag. Upon withdrawing the syringe, immediately cover the resulting hole with a piece of adhesive tape. The bag now contains a vinyl chloride concentration of 50 ppmv. In a like manner use the 50 µl syringe to prepare gas mixtures having 10-and 5-ppmv vinyl chloride concentrations. Place each bag on a smooth surface and alternately depress opposite sides of the bag 50 times to further mix the gases. These gas mixture standards may be used for 10 days from the date of preparation, after which time new gas mixtures must be prepared. (Caution: Contamination may be a problem when a bag is reused if the new gas mixture standard is a lower concentration than the previous gas mixture standard.)
 10.2 Determination of Vinyl Chloride Retention Time. (This section can be performed simultaneously with Section 10.3.) Establish chromatograph conditions identical with those in Section 11.3. Determine proper attenuator position. Flush the sampling loop with helium or nitrogen and activate the sample valve. Record the injection time, sample loop temperature, column temperature, carrier gas flow rate, chart speed, and attenuator setting. Record peaks and detector responses that occur in the absence of vinyl chloride. Maintain conditions with the equipment plumbing arranged identically to Section 11.2, and flush the sample loop for 30 seconds at the rate of 100 ml/min with one of the vinyl chloride calibration mixtures. Then activate the sample valve. Record the injection time. Select the peak that corresponds to vinyl chloride. Measure the distance on the chart from the injection time to the time at which the peak maximum occurs. This quantity divided by the chart speed is defined as the retention time. Since other organics may be present in the sample, positive identification of the vinyl chloride peak must be made.
-10.3 Preparation of Chromatograph Calibration Curve. Make a GC measurement of each gas mixture standard (described in Section 7.2.3 or 10.1) using conditions identical to those listed in Sections 11.2 and 11.3. Flush the sampling loop for 30 seconds at the rate of 100 ml/min with one of the standard mixtures, and activate the sample valve. Record the concentration of vinyl chloride injected (C c), attenuator setting, chart speed, peak area, sample loop temperature, column temperature, carrier gas flow rate, and retention time. Record the barometric pressure. Calculate A c, the peak area multiplied by the attenuator setting. Repeat until two consecutive injection areas are within 5 percent, then plot the average of those two values versus C c. When the other standard gas mixtures have been similarly analyzed and plotted, draw a straight line through the points derived by the least squares method. Perform calibration daily, or before and after the analysis of each emission test set of bag samples, whichever is more frequent. For each group of sample analyses, use the average of the two calibration curves which bracket that group to determine the respective sample concentrations. If the two calibration curves differ by more than 5 percent from their mean value, then report the final results by both calibration curves.
+10.3 Preparation of Chromatograph Calibration Curve. Make a GC measurement of each gas mixture standard (described in Section 7.2.3 or 10.1) using conditions identical to those listed in Sections 11.2 and 11.3. Flush the sampling loop for 30 seconds at the rate of 100 ml/min with one of the standard mixtures, and activate the sample valve. Record the concentration of vinyl chloride injected (Cc), attenuator setting, chart speed, peak area, sample loop temperature, column temperature, carrier gas flow rate, and retention time. Record the barometric pressure. Calculate Ac, the peak area multiplied by the attenuator setting. Repeat until two consecutive injection areas are within 5 percent, then plot the average of those two values versus Cc. When the other standard gas mixtures have been similarly analyzed and plotted, draw a straight line through the points derived by the least squares method. Perform calibration daily, or before and after the analysis of each emission test set of bag samples, whichever is more frequent. For each group of sample analyses, use the average of the two calibration curves which bracket that group to determine the respective sample concentrations. If the two calibration curves differ by more than 5 percent from their mean value, then report the final results by both calibration curves.
 11.0 Analytical Procedure
-11.2 Sample Recovery. With a new piece of Teflon tubing identified for that bag, connect a bag inlet valve to the gas chromatograph sample valve. Switch the valve to receive gas from the bag through the sample loop. Arrange the equipment so the sample gas passes from the sample valve to 100-ml/min rotameter with flow control valve followed by a charcoal tube and a 1-in. H 2 O pressure gauge. Maintain the sample flow either by a vacuum pump or container pressurization if the collection bag remains in the rigid container. After sample loop purging is ceased, allow the pressure gauge to return to zero before activating the gas sampling valve.
+11.2 Sample Recovery. With a new piece of Teflon tubing identified for that bag, connect a bag inlet valve to the gas chromatograph sample valve. Switch the valve to receive gas from the bag through the sample loop. Arrange the equipment so the sample gas passes from the sample valve to 100-ml/min rotameter with flow control valve followed by a charcoal tube and a 1-in. H2O pressure gauge. Maintain the sample flow either by a vacuum pump or container pressurization if the collection bag remains in the rigid container. After sample loop purging is ceased, allow the pressure gauge to return to zero before activating the gas sampling valve.
 11.3 Analysis.
-11.3.1 Set the column temperature to 100 °C (210 °F) and the detector temperature to 150 °C (300 °F). When optimum hydrogen and oxygen (or air) flow rates have been determined, verify and maintain these flow rates during all chromatography operations. Using helium or nitrogen as the carrier gas, establish a flow rate in the range consistent with the manufacturer's requirements for satisfactory detector operation. A flow rate of approximately 40 ml/min should produce adequate separations. Observe the base line periodically and determine that the noise level has stabilized and that base line drift has ceased. Purge the sample loop for 30 seconds at the rate of 100 ml/min, shut off flow, allow the sample loop pressure to reach atmospheric pressure as indicated by the H 2 O manometer, then activate the sample valve. Record the injection time (the position of the pen on the chart at the time of sample injection), sample number, sample loop temperature, column temperature, carrier gas flow rate, chart speed, and attenuator setting. Record the barometric pressure. From the chart, note the peak having the retention time corresponding to vinyl chloride as determined in Section 10.2. Measure the vinyl chloride peak area, A m, by use of a disc integrator, electronic integrator, or a planimeter. Measure and record the peak heights, H m. Record A m and retention time. Repeat the injection at least two times or until two consecutive values for the total area of the vinyl chloride peak agree within 5 percent of their average. Use the average value for these two total areas to compute the bag concentration.
-11.3.2 Compare the ratio of H m to A m for the vinyl chloride sample with the same ratio for the standard peak that is closest in height. If these ratios differ by more than 10 percent, the vinyl chloride peak may not be pure (possibly acetaldehyde is present) and the secondary column should be employed (see Section 6.3.2.2).
-11.4 Determination of Bag Water Vapor Content. Measure the ambient temperature and barometric pressure near the bag. From a water saturation vapor pressure table, determine and record the water vapor content of the bag, B wb, as a decimal figure. (Assume the relative humidity to be 100 percent unless a lesser value is known.)
+11.3.1 Set the column temperature to 100 °C (210 °F) and the detector temperature to 150 °C (300 °F). When optimum hydrogen and oxygen (or air) flow rates have been determined, verify and maintain these flow rates during all chromatography operations. Using helium or nitrogen as the carrier gas, establish a flow rate in the range consistent with the manufacturer's requirements for satisfactory detector operation. A flow rate of approximately 40 ml/min should produce adequate separations. Observe the base line periodically and determine that the noise level has stabilized and that base line drift has ceased. Purge the sample loop for 30 seconds at the rate of 100 ml/min, shut off flow, allow the sample loop pressure to reach atmospheric pressure as indicated by the H2O manometer, then activate the sample valve. Record the injection time (the position of the pen on the chart at the time of sample injection), sample number, sample loop temperature, column temperature, carrier gas flow rate, chart speed, and attenuator setting. Record the barometric pressure. From the chart, note the peak having the retention time corresponding to vinyl chloride as determined in Section 10.2. Measure the vinyl chloride peak area, Am, by use of a disc integrator, electronic integrator, or a planimeter. Measure and record the peak heights, Hm. Record Am and retention time. Repeat the injection at least two times or until two consecutive values for the total area of the vinyl chloride peak agree within 5 percent of their average. Use the average value for these two total areas to compute the bag concentration.
+11.3.2 Compare the ratio of Hm to Am for the vinyl chloride sample with the same ratio for the standard peak that is closest in height. If these ratios differ by more than 10 percent, the vinyl chloride peak may not be pure (possibly acetaldehyde is present) and the secondary column should be employed (see Section 6.3.2.2).
+11.4 Determination of Bag Water Vapor Content. Measure the ambient temperature and barometric pressure near the bag. From a water saturation vapor pressure table, determine and record the water vapor content of the bag, Bwb, as a decimal figure. (Assume the relative humidity to be 100 percent unless a lesser value is known.)
 12.0 Calculations and Data Analysis
 12.1 Nomenclature.
-A m = Measured peak area.
-A f = Attenuation factor.
-B wb = Water vapor content of the bag sample, as analyzed, volume fraction.
-C b = Concentration of vinyl chloride in the bag, ppmv.
-C c = Concentration of vinyl chloride in the standard sample, ppmv.
-P i = Laboratory pressure at time of analysis, mm Hg.
-P r = Reference pressure, the laboratory pressure recorded during calibration, mm Hg.
-T i = Absolute sample loop temperature at the time of analysis, °K (°R).
-T r = Reference temperature, the sample loop temperature recorded during calibration, °K (°R).
-12.2 Sample Peak Area. Determine the sample peak area, A c, as follows:
-ER17OC00.510
-12.3 Vinyl Chloride Concentration. From the calibration curves prepared in Section 10.3, determine the average concentration value of vinyl chloride, C c, that corresponds to A c, the sample peak area. Calculate the concentration of vinyl chloride in the bag, C b, as follows:
-ER17OC00.511
+Am = Measured peak area.
+Af = Attenuation factor.
+Bwb = Water vapor content of the bag sample, as analyzed, volume fraction.
+Cb = Concentration of vinyl chloride in the bag, ppmv.
+Cc = Concentration of vinyl chloride in the standard sample, ppmv.
+Pi = Laboratory pressure at time of analysis, mm Hg.
+Pr = Reference pressure, the laboratory pressure recorded during calibration, mm Hg.
+Ti = Absolute sample loop temperature at the time of analysis, °K (°R).
+Tr = Reference temperature, the sample loop temperature recorded during calibration, °K (°R).
+12.2 Sample Peak Area. Determine the sample peak area, Ac, as follows:
+12.3 Vinyl Chloride Concentration. From the calibration curves prepared in Section 10.3, determine the average concentration value of vinyl chloride, Cc, that corresponds to Ac, the sample peak area. Calculate the concentration of vinyl chloride in the bag, Cb, as follows:
 13.0 Method Performance
 13.1 Analytical Range. This method is designed for the 0.1 to 50 parts per million by volume (ppmv) range. However, common gas chromatograph (GC) instruments are capable of detecting 0.02 ppmv vinyl chloride. With proper calibration, the upper limit may be extended as needed.
 14.0 Pollution Prevention, [Reserved]
@@ -850,13 +829,12 @@ ER17OC00.511
 3. Midwest Research Institute. Standardization of Stationary Source Emission Method for Vinyl Chloride. U.S. Environmental Protection Agency, Research Triangle Park, N.C. Publication No. EPA-600/4-77-026. May 1977.
 4. Scheil, G. and M.C. Sharp. Collaborative Testing of EPA Method 106 (Vinyl Chloride) that Will Provide for a Standardized Stationary Source Emission Measurement Method. U.S. Environmental Protection Agency, Research Triangle Park, N.C. Publication No. EPA 600/4-78-058. October 1978.
 17.0 Tables, Diagrams Flowcharts, and Validation Data.
-ER17OC00.512
 Method 107—Determination of Vinyl Chloride Content of In-Process Wastewater Samples, and Vinyl Chloride Content of Polyvinyl Chloride Resin Slurry, Wet Cake, and Latex Samples
 Note: Performance of this method should not be attempted by persons unfamiliar with the operation of a gas chromatograph (GC) nor by those who are unfamiliar with source sampling, because knowledge beyond the scope of this presentation is required. This method does not include all of the specifications (e.g., equipment and supplies) and procedures (e.g., sampling and analytical) essential to its performance. Some material is incorporated by reference from other methods in this part. Therefore, to obtain reliable results, persons using this method should have a thorough knowledge of at least the following additional test methods: Method 106.
 1.0 Scope and Application
 1.1 Analytes.
 Analyte | CAS No. | Sensitivity
-Vinyl Chloride (CH 2:CHCl) | 75-01-4 | Dependent upon analytical equipment.
+Vinyl Chloride (CH2:CHCl) | 75-01-4 | Dependent upon analytical equipment.
 1.2 Applicability. This method is applicable for the determination of the vinyl chloride monomer (VCM) content of in-process wastewater samples, and the residual vinyl chloride monomer (RCVM) content of polyvinyl chloride (PVC) resins, wet, cake, slurry, and latex samples. It cannot be used for polymer in fused forms, such as sheet or cubes. This method is not acceptable where methods from section 304(h) of the Clean Water Act, 33 U.S.C. 1251 et seq. (the Federal Water Pollution Control Amendments of 1972 as amended by the Clean Water Act of 1977) are required.
 1.3 Data Quality Objectives. Adherence to the requirements of this method will enhance the quality of the data obtained from air pollutant sampling methods.
 2.0 Summary of Method
@@ -903,9 +881,9 @@ Section | Quality control measure | Effect
 10.3 | Chromatograph calibration | Ensure precision and accuracy of chromatograph.
 10.0 Calibration and Standardization
 Note: Maintain a laboratory log of all calibrations.
-10.1 Preparation of Standards. Calibration standards are prepared as follows: Place 100 µl or about two equal drops of distilled water in the sample vial, then fill the vial with the VCM/nitrogen standard, rapidly seat the septum, and seal with the aluminum cap. Use a 1/8 -in. stainless steel line from the cylinder to the vial. Do not use rubber or Tygon tubing. The sample line from the cylinder must be purged (into a properly vented hood) for several minutes prior to filling the vials. After purging, reduce the flow rate to between 500 and 1000 cc/min. Place end of tubing into vial (near bottom). Position a septum on top of the vial, pressing it against the 1/8 -in. filling tube to minimize the size of the vent opening. This is necessary to minimize mixing air with the standard in the vial. Each vial is to be purged with standard for 90 seconds, during which time the filling tube is gradually slid to the top of the vial. After the 90 seconds, the tube is removed with the septum, simultaneously sealing the vial. Practice will be necessary to develop good technique. Rubber gloves should be worn during the above operations. The sealed vial must then be pressurized for 60 seconds using the vial prepressurizer. Test the vial for leakage by placing a drop of water on the septum at the needle hole. Prepressurization of standards is not required unless samples have been prepressurized.
+10.1 Preparation of Standards. Calibration standards are prepared as follows: Place 100 µl or about two equal drops of distilled water in the sample vial, then fill the vial with the VCM/nitrogen standard, rapidly seat the septum, and seal with the aluminum cap. Use a 1/8-in. stainless steel line from the cylinder to the vial. Do not use rubber or Tygon tubing. The sample line from the cylinder must be purged (into a properly vented hood) for several minutes prior to filling the vials. After purging, reduce the flow rate to between 500 and 1000 cc/min. Place end of tubing into vial (near bottom). Position a septum on top of the vial, pressing it against the 1/8-in. filling tube to minimize the size of the vent opening. This is necessary to minimize mixing air with the standard in the vial. Each vial is to be purged with standard for 90 seconds, during which time the filling tube is gradually slid to the top of the vial. After the 90 seconds, the tube is removed with the septum, simultaneously sealing the vial. Practice will be necessary to develop good technique. Rubber gloves should be worn during the above operations. The sealed vial must then be pressurized for 60 seconds using the vial prepressurizer. Test the vial for leakage by placing a drop of water on the septum at the needle hole. Prepressurization of standards is not required unless samples have been prepressurized.
 10.2 Analyzer Calibration. Calibration is to be performed each 8-hour period the chromatograph is used. Alternatively, calibration with duplicate 50-, 500-, 2,000-, and 4,000-ppm standards (hereafter described as a four-point calibration) may be performed on a monthly basis, provided that a calibration confirmation test consisting of duplicate analyses of an appropriate standard is performed once per plant shift, or once per chromatograph carrousel operation (if the chromatograph operation is less frequent than once per shift). The criterion for acceptance of each calibration confirmation test is that both analyses of 500-ppm standards [2,000-ppm standards if dispersion resin (excluding latex resin) samples are being analyzed] must be within 5 percent of the most recent four-point calibration curve. If this criterion is not met, then a complete four-point calibration must be performed before sample analyses can proceed.
-10.3 Preparation of Chromatograph Calibration Curve. Prepare two vials each of 50-, 500-, 2,000-, and 4,000-ppm standards. Run the calibration samples in exactly the same manner as regular samples. Plot A s, the integrator area counts for each standard sample, versus C c, the concentration of vinyl chloride in each standard sample. Draw a straight line through the points derived by the least squares method.
+10.3 Preparation of Chromatograph Calibration Curve. Prepare two vials each of 50-, 500-, 2,000-, and 4,000-ppm standards. Run the calibration samples in exactly the same manner as regular samples. Plot As, the integrator area counts for each standard sample, versus Cc, the concentration of vinyl chloride in each standard sample. Draw a straight line through the points derived by the least squares method.
 11.0 Analytical Procedure
 11.1 Preparation of Equipment. Install the chromatographic column and condition overnight at 160 °C (320 °F). In the first operation, Porapak columns must be purged for 1 hour at 230 °C (450 °F).
 Do not connect the exit end of the column to the detector while conditioning. Hydrogen and air to the detector must be turned off while the column is disconnected.
@@ -913,13 +891,12 @@ Do not connect the exit end of the column to the detector while conditioning. Hy
 11.2.1. Nitrogen Carrier Gas. Set regulator on cylinder to read 50 psig. Set regulator on chromatograph to produce a flow rate of 30.0 cc/min. Accurately measure the flow rate at the exit end of the column using the soap film flowmeter and a stopwatch, with the oven and column at the analysis temperature. After the instrument program advances to the "B" (backflush) mode, adjust the nitrogen pressure regulator to exactly balance the nitrogen flow rate at the detector as was obtained in the "A" mode.
 11.2.2. Vial Prepressurizer Nitrogen.
 11.2.2.1 After the nitrogen carrier is set, solve the following equation and adjust the pressure on the vial prepressurizer accordingly.
-ER17OC00.599
 Where:
-T 1 = Ambient temperature, °K (°R).
-T 2 = Conditioning bath temperature, °K (°R).
-P 1 = Gas chromatograph absolute dosing pressure (analysis mode), k Pa.
-P w1 = Water vapor pressure 525.8 mm Hg @ 90 °C.
-P w2 = Water vapor pressure 19.8 mm Hg @ 22 °C.
+T1 = Ambient temperature, °K (°R).
+T2 = Conditioning bath temperature, °K (°R).
+P1 = Gas chromatograph absolute dosing pressure (analysis mode), k Pa.
+Pw1 = Water vapor pressure 525.8 mm Hg @ 90 °C.
+Pw2 = Water vapor pressure 19.8 mm Hg @ 22 °C.
 7.50 = mm Hg per k Pa.
 10 kPa = Factor to adjust the prepressurized pressure to slightly less than the dosing pressure.
 11.2.2.2 Because of gauge errors, the apparatus may over-pressurize the vial. If the vial pressure is at or higher than the dosing pressure, an audible double injection will occur. If the vial pressure is too low, errors will occur on resin samples because of inadequate time for head-space gas equilibrium. This condition can be avoided by running several standard gas samples at various pressures around the calculated pressure, and then selecting the highest pressure that does not produce a double injection. All samples and standards must be pressurized for 60 seconds using the vial prepressurizer. The vial is then placed into the 90 °C conditioning bath and tested for leakage by placing a drop of water on the septum at the needle hole. A clean, burr-free needle is mandatory.
@@ -942,7 +919,7 @@ P w2 = Water vapor pressure 19.8 mm Hg @ 22 °C.
 11.7.1 Resin Samples. The weight of the resin used must be between 0.1 and 4.5 grams. An exact weight must be obtained (within ±1 percent) for each sample. In the case of suspension resins, a volumetric cup can be prepared for holding the required amount of sample. When the cup is used, open the sample bottle, and add the cup volume of resin to the tared sample vial (tared, including septum and aluminum cap). Obtain the exact sample weight, add 100 ml or about two equal drops of water, and immediately seal the vial. Report this value on the data sheet; it is required for calculation of RVCM. In the case of dispersion resins, the cup cannot be used. Weigh the sample in an aluminum dish, transfer the sample to the tared vial, and accurately weigh it in the vial. After prepressurization of the samples, condition them for a minimum of 1 hour in the 90 °C (190 °F) bath. Do not exceed 5 hours. Prepressurization is not required if the sample weight, as analyzed, does not exceed 0.2 gram. It is also not required if solution of the prepressurization equation yields an absolute prepressurization value that is within 30 percent of the atmospheric pressure.
 Note: Some aluminum vial caps have a center section that must be removed prior to placing into sample tray. If the cap is not removed, the injection needle will be damaged.
 11.7.2 Suspension Resin Slurry and Wet Cake Samples. Decant the water from a wet cake sample, and turn the sample bottle upside down onto a paper towel. Wait for the water to drain, place approximately 0.2 to 4.0 grams of the wet cake sample in a tared vial (tared, including septum and aluminum cap) and seal immediately. Then determine the sample weight (1 percent). All samples weighing over 0.2 gram, must be prepressurized prior to conditioning for 1 hour at 90 °C (190 °F), except as noted in Section 11.7.1. A sample of wet cake is used to determine total solids (TS). This is required for calculating the RVCM.
-11.7.3 Dispersion Resin Slurry and Latex Samples.The materials should not be filtered. Sample must be thoroughly mixed. Using a tared vial (tared, including septum and aluminum cap) add approximately eight drops (0.25 to 0.35 g) of slurry or latex using a medicine dropper. This should be done immediately after mixing. Seal the vial as soon as possible. Determine sample weight (1 percent). Condition the vial for 1 hour at 90 °C (190 °F) in the analyzer bath. Determine the TS on the slurry sample (Section 11.10).
+11.7.3 Dispersion Resin Slurry and Latex Samples. The materials should not be filtered. Sample must be thoroughly mixed. Using a tared vial (tared, including septum and aluminum cap) add approximately eight drops (0.25 to 0.35 g) of slurry or latex using a medicine dropper. This should be done immediately after mixing. Seal the vial as soon as possible. Determine sample weight (1 percent). Condition the vial for 1 hour at 90 °C (190 °F) in the analyzer bath. Determine the TS on the slurry sample (Section 11.10).
 11.7.4 In-process Wastewater Samples. Using a tared vial (tared, including septum and aluminum cap) quickly add approximately 1 cc of water using a medicine dropper. Seal the vial as soon as possible. Determine sample weight (1 percent). Condition the vial for 1 hour at 90 °C (190 °F) in the analyzer bath.
 11.8 Preparation of Sample Turntable.
 11.8.1 Before placing any sample into turntable, be certain that the center section of the aluminum cap has been removed. The numbered sample vials should be placed in the corresponding numbered positions in the turntable. Insert samples in the following order:
@@ -957,31 +934,28 @@ Note: Some aluminum vial caps have a center section that must be removed prior t
 11.10 Determination of Total Solids. For wet cake, slurry, resin solution, and PVC latex samples, determine TS for each sample by accurately weighing approximately 3 to 4 grams of sample in an aluminum pan before and after placing in a draft oven (105 to 110 °C (221 to 230 °F)). Samples must be dried to constant weight. After first weighing, return the pan to the oven for a short period of time, and then reweigh to verify complete dryness. The TS are then calculated as the final sample weight divided by initial sample weight.
 12.0 Calculations and Data Analysis
 12.1 Nomenclature.
-A s = Chromatogram area counts of vinyl chloride for the sample, area counts.
-A s = Chromatogram area counts of vinyl chloride for the sample.
-C c = Concentration of vinyl chloride in the standard sample, ppm.
-K p = Henry's Law Constant for VCM in PVC 90 °C, 6.52 × 10 −6 g/g/mm Hg.
-K w = Henry's Law Constant for VCM in water 90 °C, 7 × 10 −7 g/g/mm Hg.
-M v = Molecular weight of VCM, 62.5 g/mole.
+As = Chromatogram area counts of vinyl chloride for the sample, area counts.
+As = Chromatogram area counts of vinyl chloride for the sample.
+Cc = Concentration of vinyl chloride in the standard sample, ppm.
+Kp = Henry's Law Constant for VCM in PVC 90 °C, 6.52 × 10−6 g/g/mm Hg.
+Kw = Henry's Law Constant for VCM in water 90 °C, 7 × 10−7 g/g/mm Hg.
+Mv = Molecular weight of VCM, 62.5 g/mole.
 m = Sample weight, g.
-P a = Ambient atmospheric pressure, mm Hg.
+Pa = Ambient atmospheric pressure, mm Hg.
 R = Gas constant, (62360 3 ml) (mm Hg)/(mole)(°K).
-R f = Response factor in area counts per ppm VCM.
-R s = Response factor, area counts/ppm.
-T l = Ambient laboratory temperature, °K.
+Rf = Response factor in area counts per ppm VCM.
+Rs = Response factor, area counts/ppm.
+Tl = Ambient laboratory temperature, °K.
 TS = Total solids expressed as a decimal fraction.
-T 2 = Equilibrium temperature, °K.
-V g = Volume of vapor phase, ml.
-ER17OC00.513
-V v = Vial volume, 3 ml.
+T2 = Equilibrium temperature, °K.
+Vg = Volume of vapor phase, ml.
+Vv = Vial volume, 3 ml.
 1.36 = Density of PVC at 90 °C, g/ 3 ml.
 0.9653 = Density of water at 90 °C, g/ 3 ml.
-12.2 Response Factor. If the calibration curve described in Section 10.3 passes through zero, an average response factor, R f, may be used to facilitate computation of vinyl chloride sample concentrations.
-12.2.1 To compute R f, first compute a response factor, R s, for each sample as follows:
-ER17OC00.514
-12.2.2 Sum the individual response factors, and calculate R f. If the calibration curve does not pass through zero, use the calibration curve to determine each sample concentration.
-12.3 Residual Vinyl Chloride Monomer Concentration, (C rvc) or Vinyl Chloride Monomer Concentration. Calculate C rvc in ppm or mg/kg as follows:
-ER07OC20.011
+12.2 Response Factor. If the calibration curve described in Section 10.3 passes through zero, an average response factor, Rf, may be used to facilitate computation of vinyl chloride sample concentrations.
+12.2.1 To compute Rf, first compute a response factor, Rs, for each sample as follows:
+12.2.2 Sum the individual response factors, and calculate Rf. If the calibration curve does not pass through zero, use the calibration curve to determine each sample concentration.
+12.3 Residual Vinyl Chloride Monomer Concentration, (Crvc) or Vinyl Chloride Monomer Concentration. Calculate Crvc in ppm or mg/kg as follows:
 Note: Results calculated using these equations represent concentration based on the total sample. To obtain results based on dry PVC content, divide by TS.
 13.0 Method Performance
 13.1 Range and Sensitivity. The lower limit of detection of vinyl chloride will vary according to the sampling and chromatographic system. The system should be capable of producing a measurement for a 50-ppm vinyl chloride standard that is at least 10 times the standard deviation of the system background noise level.
@@ -999,7 +973,7 @@ Method 107A—Determination of Vinyl Chloride Content of Solvents, Resin-Solvent
 Introduction
 Performance of this method should not be attempted by persons unfamiliar with the operation of a gas chromatograph (GC) or by those who are unfamiliar with source sampling because knowledge beyond the scope of this presentation is required. Care must be exercised to prevent exposure of sampling personnel to vinyl chloride, a carcinogen.
 1. Applicability and Principle
-1.1 Applicability. This is an alternative method and applies to the measurement of the vinyl chloride content of solvents, resin solvent solutions, polyvinyl chloride (PVC) resin, wet cake slurries, latex, and fabricated resin samples. This method is not acceptable where methods from Section 304(h) of the Clean Water Act, 33 U.S.C. 1251 et seq., (the Federal Water Pollution Control Act Amendments of 1972 as amended by the Clean Water Act of 1977) are required.
+1.1 Applicability. This is an alternative method and applies to the measurement of the vinyl chloride content of solvents, resin solvent solutions, polyvinyl chloride (PVC) resin, wet cake slurries, latex, and fabricated resin samples. This method is not acceptable where methods from Section 304(h) of the Clean Water Act, 33 U.S.C. 1251et seq., (the Federal Water Pollution Control Act Amendments of 1972 as amended by the Clean Water Act of 1977) are required.
 1.2 Principle. The basis for this method lies in the direct injection of a liquid sample into a chromatograph and the subsequent evaporation of all volatile material into the carrier gas stream of the chromatograph, thus permitting analysis of all volatile material including vinyl chloride.
 2. Range and Sensitivity
 The lower limit of detection of vinyl chloride in dry PVC resin is 0.2 ppm. For resin solutions, latexes, and wet resin, this limit rises inversely as the nonvolatile (resin) content decreases.
@@ -1043,7 +1017,6 @@ Use only reagents that are of chromatograph grade.
 7.1.3 Air. Zero grade.
 7.1.4 Tetrahydrofuran (THF). Reagent grade.
 Analyze the THF by injecting 10 microliters into the prepared gas chromatograph. Compare the THF chromatogram with that shown in Figure 107A-1. If the chromatogram is comparable to A, the THF should be sparged with pure nitrogen for approximately 2 hours using the fritted glass sparger to attempt to remove the interfering peak. Reanalyze the sparged THF to determine whether the THF is acceptable for use. If the scan is comparable to B, the THF should be acceptable for use in the analysis.
-EC01MY92.030
 7.1.5 N, N-Dimethylacetamide (DMAC). Spectrographic grade. For use in place of THF.
 7.2 Calibration. The following item is required:
 7.2.1 Vinyl Chloride 99.9 Percent. Ideal Gas Products lecture bottle, or equivalent. For preparation of standard solutions.
@@ -1088,24 +1061,20 @@ Pipet 50-, 10-, 5-, 1-, 0.5-, and 0.1-ml aliquots of the approximately 1,000 ppm
 9.2 Preparation of Chromatograph Calibration Curve.
 Obtain the GC for each of the six final solutions prepared in Section 9.1 by using the procedure in Section 8.3.2. Prepare a chart plotting peak height obtained from the chromatogram of each solution versus the known concentration. Draw a straight line through the points derived by the least squares method.
 10. Calculations
-10.1 Response Factor. From the calibration curve described in Section 9.2, select the value of C c that corresponds to H c for each sample. Compute the response factor, R f, for each sample as follows:
-EC15NO91.075
+10.1 Response Factor. From the calibration curve described in Section 9.2, select the value of Cc that corresponds to Hc for each sample. Compute the response factor, Rf, for each sample as follows:
 where:
-R f = Chromatograph response factor, ppm/mm.
-C c = Concentration of vinyl chloride in the standard sample, ppm.
-H c = Peak height of the standard sample, mm.
-10.2 Residual vinyl chloride monomer concentration (C rvc) or vinyl chloride monomer concentration in resin:
-EC15NO91.076
+Rf = Chromatograph response factor, ppm/mm.
+Cc = Concentration of vinyl chloride in the standard sample, ppm.
+Hc = Peak height of the standard sample, mm.
+10.2 Residual vinyl chloride monomer concentration (Crvc) or vinyl chloride monomer concentration in resin:
 Where:
-C rvc = Concentration of residual vinyl chloride monomer, ppm.
-H s = Peak height of sample, mm.
-R f = Chromatograph response factor.
+Crvc = Concentration of residual vinyl chloride monomer, ppm.
+Hs = Peak height of sample, mm.
+Rf = Chromatograph response factor.
 10.3 Samples containing volatile material, i.e., resin solutions, wet resin, and latexes:
-EC15NO91.077
 where:
 TS = Total solids in the sample, weight fraction.
 10.4 Samples of solvents and in process wastewater:
-EC15NO91.078
 Where:
 0.888 = Specific gravity of THF.
 11. Bibliography
@@ -1127,8 +1096,8 @@ Analysis for As by flame AAS is sensitive to the chemical composition and to the
 5.1 This method may involve hazardous materials, operations, and equipment. This test method may not address all of the safety problems associated with its use. It is the responsibility of the user to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to performing this test method.
 5.2 Corrosive reagents. The following reagents are hazardous. Personal protective equipment and safe procedures that prevent chemical splashes are recommended. If contact occurs, immediately flush with copious amounts of water for at least 15 minutes. Remove clothing under shower and decontaminate. Treat residual chemical burns as thermal burns.
 5.2.1 Hydrochloric Acid (HCl). Highly corrosive liquid with toxic vapors. Vapors are highly irritating to eyes, skin, nose, and lungs, causing severe damage. May cause bronchitis, pneumonia, or edema of lungs. Exposure to concentrations of 0.13 to 0.2 percent can be lethal to humans in a few minutes. Provide ventilation to limit exposure. Reacts with metals, producing hydrogen gas.
-5.2.2 Hydrogen Peroxide (H 2 O 2). Very harmful to eyes. 30% H 2 O 2 can burn skin, nose, and lungs.
-5.2.3 Nitric Acid (HNO 3). Highly corrosive to eyes, skin, nose, and lungs. Vapors are highly toxic and can cause bronchitis, pneumonia, or edema of lungs. Reaction to inhalation may be delayed as long as 30 hours and still be fatal. Provide ventilation to limit exposure. Strong oxidizer. Hazardous reaction may occur with organic materials such as solvents.
+5.2.2 Hydrogen Peroxide (H2O2). Very harmful to eyes. 30% H2O2 can burn skin, nose, and lungs.
+5.2.3 Nitric Acid (HNO3). Highly corrosive to eyes, skin, nose, and lungs. Vapors are highly toxic and can cause bronchitis, pneumonia, or edema of lungs. Reaction to inhalation may be delayed as long as 30 hours and still be fatal. Provide ventilation to limit exposure. Strong oxidizer. Hazardous reaction may occur with organic materials such as solvents.
 5.2.4 Sodium Hydroxide (NaOH). Causes severe damage to eyes and skin. Inhalation causes irritation to nose, throat, and lungs. Reacts exothermically with small amounts of water.
 6.0 Equipment and Supplies
 6.1 Sample Collection. A schematic of the sampling train used in performing this method is shown in Figure 108-1; it is similar to the Method 5 sampling train of 40 CFR part 60, appendix A. The following items are required for sample collection:
@@ -1151,27 +1120,27 @@ Analysis for As by flame AAS is sensitive to the chemical composition and to the
 7.0 Reagents and Standards
 Unless otherwise indicated, it is intended that all reagents conform to the specifications established by the Committee on Analytical Reagents of the American Chemical Society, where such specifications are available; otherwise, use the best available grade.
 7.1 The following reagents are required for sample collection:
-7.1.1 Filters. Same as Method 5, Section 7.1.1, except that the filters need not be unreactive to SO 2.
+7.1.1 Filters. Same as Method 5, Section 7.1.1, except that the filters need not be unreactive to SO2.
 7.1.2 Silica Gel, Crushed Ice, and Stopcock Grease. Same as Method 5, Sections 7.1.2, 7.1.4, and 7.1.5, respectively.
-7.1.3 Water. Deionized distilled to meet ASTM D 1193-77 or 91 (incorporated by reference-see § 61.18), Type 3. When high concentrations of organic matter are not expected to be present, the KMnO 4 test for oxidizable organic matter may be omitted.
+7.1.3 Water. Deionized distilled to meet ASTM D 1193-77 or 91 (incorporated by reference-see § 61.18), Type 3. When high concentrations of organic matter are not expected to be present, the KMnO4 test for oxidizable organic matter may be omitted.
 7.2 Sample Recovery.
 7.2.1 0.1 N NaOH. Dissolve 4.00 g of NaOH in about 500 ml of water in a 1-liter volumetric flask. Then, dilute to exactly 1.0 liter with water.
 7.3 Analysis. The following reagents and standards are required for analysis:
 7.3.1 Water. Same as Section 7.1.3.
 7.3.2 Sodium Hydroxide, 0.1 N. Same as in Section 7.2.1.
-7.3.3 Sodium Borohydride (NaBH 4), 5 Percent Weight by Volume (W/V). Dissolve 50.0 g of NaBH 4 in about 500 ml of 0.1 N NaOH in a 1-liter volumetric flask. Then, dilute to exactly 1.0 liter with 0.1 N NaOH.
+7.3.3 Sodium Borohydride (NaBH4), 5 Percent Weight by Volume (W/V). Dissolve 50.0 g of NaBH4 in about 500 ml of 0.1 N NaOH in a 1-liter volumetric flask. Then, dilute to exactly 1.0 liter with 0.1 N NaOH.
 7.3.4 Hydrochloric Acid, Concentrated.
 7.3.5 Potassium Iodide (KI), 30 Percent (W/V). Dissolve 300 g of KI in 500 ml of water in a 1 liter volumetric flask. Then, dilute to exactly 1.0 liter with water.
 7.3.6 Nitric Acid, Concentrated.
-7.3.7 Nitric Acid, 0.8 N. Dilute 52 ml of concentrated HNO 3 to exactly 1.0 liter with water.
-7.3.8 Nitric Acid, 50 Percent by Volume (V/V). Add 50 ml concentrated HNO 3 to 50 ml water.
-7.3.9 Stock Arsenic Standard, 1 mg As/ml. Dissolve 1.3203 g of primary standard grade As 2 O 3 in 20 ml of 0.1 N NaOH in a 150 ml beaker. Slowly add 30 ml of concentrated HNO 3. Heat the resulting solution and evaporate just to dryness. Transfer the residue quantitatively to a 1-liter volumetric flask, and dilute to 1.0 liter with water.
-7.3.10 Arsenic Working Solution, 1.0 µg As/ml. Pipet exactly 1.0 ml of stock arsenic standard into an acid-cleaned, appropriately labeled 1-liter volumetric flask containing about 500 ml of water and 5 ml of concentrated HNO 3. Dilute to exactly 1.0 liter with water.
+7.3.7 Nitric Acid, 0.8 N. Dilute 52 ml of concentrated HNO3 to exactly 1.0 liter with water.
+7.3.8 Nitric Acid, 50 Percent by Volume (V/V). Add 50 ml concentrated HNO3 to 50 ml water.
+7.3.9 Stock Arsenic Standard, 1 mg As/ml. Dissolve 1.3203 g of primary standard grade As2O3 in 20 ml of 0.1 N NaOH in a 150 ml beaker. Slowly add 30 ml of concentrated HNO3. Heat the resulting solution and evaporate just to dryness. Transfer the residue quantitatively to a 1-liter volumetric flask, and dilute to 1.0 liter with water.
+7.3.10 Arsenic Working Solution, 1.0 µg As/ml. Pipet exactly 1.0 ml of stock arsenic standard into an acid-cleaned, appropriately labeled 1-liter volumetric flask containing about 500 ml of water and 5 ml of concentrated HNO3. Dilute to exactly 1.0 liter with water.
 7.3.11 Air. Suitable quality for AAS analysis.
 7.3.12 Acetylene. Suitable quality for AAS analysis.
-7.3.13 Nickel Nitrate, 5 Percent Ni (W/V). Dissolve 24.780 g of nickel nitrate hexahydrate [Ni(NO 3) 2 6H 2 O] in water in a 100-ml volumetric flask, and dilute to 100 ml with water.
+7.3.13 Nickel Nitrate, 5 Percent Ni (W/V). Dissolve 24.780 g of nickel nitrate hexahydrate [Ni(NO3)26H2O] in water in a 100-ml volumetric flask, and dilute to 100 ml with water.
 7.3.14 Nickel Nitrate, 1 Percent Ni (W/V). Pipet 20 ml of 5 percent nickel nitrate solution into a 100-ml volumetric flask, and dilute to exactly 100 ml with water.
-7.3.15 Hydrogen Peroxide, 3 Percent by Volume. Pipet 50 ml of 30 percent H 2 O 2 into a 500-ml volumetric flask, and dilute to exactly 500 ml with water.
+7.3.15 Hydrogen Peroxide, 3 Percent by Volume. Pipet 50 ml of 30 percent H2O2 into a 500-ml volumetric flask, and dilute to exactly 500 ml with water.
 8.0 Sample Collection, Preservation, Transport, and Storage
 8.1 Pretest Preparation. Follow the general procedure given in Method 5, Section 8.1, except the filter need not be weighed, and the 200 ml of 0.1N NaOH and Container 4 should be tared to within 0.5 g.
 8.2 Preliminary Determinations. Follow the general procedure given in Method 5, Section 8.2, except select the nozzle size to maintain isokinetic sampling rates below 28 liters/min (1.0 cfm).
@@ -1190,7 +1159,7 @@ Note: Measure and record the total amount of 0.1 N NaOH used for rinsing under S
 8.7.1.6 Wipe the ball joints of the glassware connecting the impingers and the back half of the filter holder free of silicone grease, and rinse each piece of glassware twice with 0.1 N NaOH; transfer this rinse into Container Number 4. (DO NOT RINSE or brush the glass-fritted filter support.) Mark the height of the fluid level to determine whether leakage occurs during transport. Label the container to identify clearly its contents.
 8.8 Blanks.
 8.8.1 Sodium Hydroxide. Save a portion of the 0.1 N NaOH used for cleanup as a blank. Take 200 ml of this solution directly from the wash bottle being used and place it in a plastic sample container labeled "NaOH blank."
-8.8.2 Water. Save a sample of the water, and place it in a container labeled "H 2 O blank."
+8.8.2 Water. Save a sample of the water, and place it in a container labeled "H2O blank."
 8.8.3 Filter. Save two filters from each lot of filters used in sampling. Place these filters in a container labeled "filter blank."
 9.0 Quality Control
 9.1 Miscellaneous Quality Control Measures.
@@ -1203,73 +1172,67 @@ Section | Quality control measure | Effect
 Note: Maintain a laboratory log of all calibrations.
 10.1 Sampling Equipment. Same as Method 5, Section 10.0.
 10.2 Preparation of Standard Solutions.
-10.2.1 For the high level procedure, pipet 1, 3, 5, 8, and 10 ml of the 1.0 mg As/ml stock solution into separate 100 ml volumetric flasks, each containing 5 ml of concentrated HNO 3. Dilute to the mark with water.
+10.2.1 For the high level procedure, pipet 1, 3, 5, 8, and 10 ml of the 1.0 mg As/ml stock solution into separate 100 ml volumetric flasks, each containing 5 ml of concentrated HNO3. Dilute to the mark with water.
 10.2.2 For the low level vapor generator procedure, pipet 1, 2, 3, and 5 ml of 1.0 µg As/ml standard solution into separate reaction tubes. Dilute to the mark with water.
-10.2.3 For the low level graphite furnace procedure, pipet 1, 5, 10 and 15 ml of 1.0 µg As/ml standard solution into separate flasks along with 2 ml of the 5 percent nickel nitrate solution and 10 ml of the 3 percent H 2 O 2 solution. Dilute to the mark with water.
-10.3 Calibration Curve. Analyze a 0.8 N HNO 3 blank and each standard solution according to the procedures outlined in section 11.4.1. Repeat this procedure on each standard solution until two consecutive peaks agree within 3 percent of their average value. Subtract the average peak height (or peak area) of the blank—which must be less than 2 percent of recorder full scale—from the averaged peak height of each standard solution. If the blank absorbance is greater than 2 percent of full-scale, the probable cause is As contamination of a reagent or carry-over of As from a previous sample. Prepare the calibration curve by plotting the corrected peak height of each standard solution versus the corresponding final total As weight in the solution.
+10.2.3 For the low level graphite furnace procedure, pipet 1, 5, 10 and 15 ml of 1.0 µg As/ml standard solution into separate flasks along with 2 ml of the 5 percent nickel nitrate solution and 10 ml of the 3 percent H2O2 solution. Dilute to the mark with water.
+10.3 Calibration Curve. Analyze a 0.8 N HNO3 blank and each standard solution according to the procedures outlined in section 11.4.1. Repeat this procedure on each standard solution until two consecutive peaks agree within 3 percent of their average value. Subtract the average peak height (or peak area) of the blank—which must be less than 2 percent of recorder full scale—from the averaged peak height of each standard solution. If the blank absorbance is greater than 2 percent of full-scale, the probable cause is As contamination of a reagent or carry-over of As from a previous sample. Prepare the calibration curve by plotting the corrected peak height of each standard solution versus the corresponding final total As weight in the solution.
 10.4 Spectrophotometer Calibration Quality Control. Calculate the least squares slope of the calibration curve. The line must pass through the origin or through a point no further from the origin than ±2 percent of the recorder full scale. Multiply the corrected peak height by the reciprocal of the least squares slope to determine the distance each calibration point lies from the theoretical calibration line. The difference between the calculated concentration values and the actual concentrations (e.g., 1, 3, 5, 8, and 10 mg As for the high-level procedure) must be less than 7 percent for all standards.
 Note: For instruments equipped with direct concentration readout devices, preparation of a standard curve will not be necessary. In all cases, follow calibration and operational procedures in the manufacturers' instruction manual.
 11.0 Analytical Procedure
 11.1 Sample Loss Check. Prior to analysis, check the liquid level in Containers Number 2 and Number 4. Note on the analytical data sheet whether leakage occurred during transport. If a noticeable amount of leakage occurred, either void the sample or take steps, subject to the approval of the Administrator, to adjust the final results.
 11.2 Sample Preparation.
-11.2.1 Container Number 1 (Filter). Place the filter and loose particulate matter in a 150 ml beaker. Also, add the filtered solid material from Container Number 2 (see Section 11.2.2). Add 50 ml of 0.1 N NaOH. Then stir and warm on a hot plate at low heat (do not boil) for about 15 minutes. Add 10 ml of concentrated HNO 3, bring to a boil, then simmer for about 15 minutes. Filter the solution through a glass fiber filter. Wash with hot water, and catch the filtrate in a clean 150 ml beaker. Boil the filtrate, and evaporate to dryness. Cool, add 5 ml of 50 percent HNO 3, and then warm and stir. Allow to cool. Transfer to a 50-ml volumetric flask, dilute to volume with water, and mix well.
+11.2.1 Container Number 1 (Filter). Place the filter and loose particulate matter in a 150 ml beaker. Also, add the filtered solid material from Container Number 2 (see Section 11.2.2). Add 50 ml of 0.1 N NaOH. Then stir and warm on a hot plate at low heat (do not boil) for about 15 minutes. Add 10 ml of concentrated HNO3, bring to a boil, then simmer for about 15 minutes. Filter the solution through a glass fiber filter. Wash with hot water, and catch the filtrate in a clean 150 ml beaker. Boil the filtrate, and evaporate to dryness. Cool, add 5 ml of 50 percent HNO3, and then warm and stir. Allow to cool. Transfer to a 50-ml volumetric flask, dilute to volume with water, and mix well.
 11.2.2 Container Number 2 (Probe Wash).
 11.2.2.1 Filter (using a glass fiber filter) the contents of Container Number 2 into a 200 ml volumetric flask. Combine the filtered (solid) material with the contents of Container Number 1 (Filter).
-11.2.2.2 Dilute the filtrate to exactly 200 ml with water. Then pipet 50 ml into a 150 ml beaker. Add 10 ml of concentrated HNO 3, bring to a boil, and evaporate to dryness. Allow to cool, add 5 ml of 50 percent HNO 3, and then warm and stir. Allow the solution to cool, transfer to a 50-ml volumetric flask, dilute to volume with water, and mix well.
-11.2.3 Container Number 4 (Impinger Solution). Transfer the contents of Container Number 4 to a 500 ml volumetric flask, and dilute to exactly 500-ml with water. Pipet 50 ml of the solution into a 150-ml beaker. Add 10 ml of concentrated HNO 3, bring to a boil, and evaporate to dryness. Allow to cool, add 5 ml of 50 percent HNO 3, and then warm and stir. Allow the solution to cool, transfer to a 50-ml volumetric flask, dilute to volume with water, and mix well.
+11.2.2.2 Dilute the filtrate to exactly 200 ml with water. Then pipet 50 ml into a 150 ml beaker. Add 10 ml of concentrated HNO3, bring to a boil, and evaporate to dryness. Allow to cool, add 5 ml of 50 percent HNO3, and then warm and stir. Allow the solution to cool, transfer to a 50-ml volumetric flask, dilute to volume with water, and mix well.
+11.2.3 Container Number 4 (Impinger Solution). Transfer the contents of Container Number 4 to a 500 ml volumetric flask, and dilute to exactly 500-ml with water. Pipet 50 ml of the solution into a 150-ml beaker. Add 10 ml of concentrated HNO3, bring to a boil, and evaporate to dryness. Allow to cool, add 5 ml of 50 percent HNO3, and then warm and stir. Allow the solution to cool, transfer to a 50-ml volumetric flask, dilute to volume with water, and mix well.
 11.2.4 Filter Blank. Cut each filter into strips, and treat each filter individually as directed in Section 11.2.1, beginning with the sentence, "Add 50 ml of 0.1 N NaOH."
 11.2.5 Sodium Hydroxide and Water Blanks. Treat separately 50 ml of 0.1 N NaOH and 50 ml water, as directed under Section 11.2.3, beginning with the sentence, "Pipet 50 ml of the solution into a 150-ml beaker."
 11.3 Spectrophotometer Preparation. Turn on the power; set the wavelength, slit width, and lamp current. Adjust the background corrector as instructed by the manufacturer's manual for the particular atomic absorption spectrophotometer. Adjust the burner and flame characteristics as necessary.
 11.4 Analysis. Calibrate the analytical equipment and develop a calibration curve as outlined in Sections 10.2 through 10.4.
-11.4.1 Arsenic Samples. Analyze an appropriately sized aliquot of each diluted sample (from Sections 11.2.1 through 11.2.3) until two consecutive peak heights agree within 3 percent of their average value. If applicable, follow the procedures outlined in Section 11.4.1.1. If the sample concentration falls outside the range of the calibration curve, make an appropriate dilution with 0.8 N HNO 3 so that the final concentration falls within the range of the curve. Using the calibration curve, determine the arsenic concentration in each sample fraction.
+11.4.1 Arsenic Samples. Analyze an appropriately sized aliquot of each diluted sample (from Sections 11.2.1 through 11.2.3) until two consecutive peak heights agree within 3 percent of their average value. If applicable, follow the procedures outlined in Section 11.4.1.1. If the sample concentration falls outside the range of the calibration curve, make an appropriate dilution with 0.8 N HNO3 so that the final concentration falls within the range of the curve. Using the calibration curve, determine the arsenic concentration in each sample fraction.
 Note: Because instruments vary between manufacturers, no detailed operating instructions will be given here. Instead, the instrument manufacturer's detailed operating instructions should be followed.
 11.4.1.1 Arsenic Determination at Low Concentration. The lower limit of flame AAS is 10 µg As/ml. If the arsenic concentration of any sample is at a lower level, use the graphite furnace or vapor generator which is available as an accessory component. Flame, graphite furnace, or vapor generators may be used for samples whose concentrations are between 10 and 30 µg/ml. Follow the manufacturer's instructions in the use of such equipment.
-11.4.1.1.1 Vapor Generator Procedure. Place a sample containing between 0 and 5 µg of arsenic in the reaction tube, and dilute to 15 ml with water. Since there is some trial and error involved in this procedure, it may be necessary to screen the samples by conventional atomic absorption until an approximate concentration is determined. After determining the approximate concentration, adjust the volume of the sample accordingly. Pipet 15 ml of concentrated HCl into each tube. Add 1 ml of 30 percent KI solution. Place the reaction tube into a 50 °C (120 °F) water bath for 5 minutes. Cool to room temperature. Connect the reaction tube to the vapor generator assembly. When the instrument response has returned to baseline, inject 5.0 ml of 5 percent NaBH 4, and integrate the resulting spectrophotometer signal over a 30-second time period.
-11.4.1.1.2 Graphite Furnace Procedure. Dilute the digested sample so that a 5 ml aliquot contains less than 1.5 µg of arsenic. Pipet 5 ml of this digested solution into a 10-ml volumetric flask. Add 1 ml of the 1 percent nickel nitrate solution, 0.5 ml of 50 percent HNO 3, and 1 ml of the 3 percent hydrogen peroxide and dilute to 10 ml with water. The sample is now ready for analysis.
-11.4.1.2 Run a blank (0.8 N HNO 3) and standard at least after every five samples to check the spectrophotometer calibration. The peak height of the blank must pass through a point no further from the origin than ±2 percent of the recorder full scale. The difference between the measured concentration of the standard (the product of the corrected average peak height and the reciprocal of the least squares slope) and the actual concentration of the standard must be less than 7 percent, or recalibration of the analyzer is required.
+11.4.1.1.1 Vapor Generator Procedure. Place a sample containing between 0 and 5 µg of arsenic in the reaction tube, and dilute to 15 ml with water. Since there is some trial and error involved in this procedure, it may be necessary to screen the samples by conventional atomic absorption until an approximate concentration is determined. After determining the approximate concentration, adjust the volume of the sample accordingly. Pipet 15 ml of concentrated HCl into each tube. Add 1 ml of 30 percent KI solution. Place the reaction tube into a 50 °C (120 °F) water bath for 5 minutes. Cool to room temperature. Connect the reaction tube to the vapor generator assembly. When the instrument response has returned to baseline, inject 5.0 ml of 5 percent NaBH4, and integrate the resulting spectrophotometer signal over a 30-second time period.
+11.4.1.1.2 Graphite Furnace Procedure. Dilute the digested sample so that a 5 ml aliquot contains less than 1.5 µg of arsenic. Pipet 5 ml of this digested solution into a 10-ml volumetric flask. Add 1 ml of the 1 percent nickel nitrate solution, 0.5 ml of 50 percent HNO3, and 1 ml of the 3 percent hydrogen peroxide and dilute to 10 ml with water. The sample is now ready for analysis.
+11.4.1.2 Run a blank (0.8 N HNO3) and standard at least after every five samples to check the spectrophotometer calibration. The peak height of the blank must pass through a point no further from the origin than ±2 percent of the recorder full scale. The difference between the measured concentration of the standard (the product of the corrected average peak height and the reciprocal of the least squares slope) and the actual concentration of the standard must be less than 7 percent, or recalibration of the analyzer is required.
 11.4.1.3 Determine the arsenic concentration in the filter blank (i.e., the average of the two blank values from each lot).
 11.4.2 Container Number 3 (Silica Gel). This step may be conducted in the field. Weigh the spent silica gel (or silica gel plus impinger) to the nearest 0.5 g; record this weight.
 11.5 Check for matrix effects on the arsenic results. Same as Method 12, Section 11.5.
 12.0 Data Analysis and Calculations
 12.1 Nomenclature
-B ws = Water in the gas stream, proportion by volume.
-C a = Concentration of arsenic as read from the standard curve, µg/ml.
-C s = Arsenic concentration in stack gas, dry basis, converted to standard conditions, g/dsm 3 (gr/dscf).
-E a = Arsenic mass emission rate, g/hr (lb/hr).
-F d = Dilution factor (equals 1 if the sample has not been diluted).
+Bws = Water in the gas stream, proportion by volume.
+Ca = Concentration of arsenic as read from the standard curve, µg/ml.
+Cs = Arsenic concentration in stack gas, dry basis, converted to standard conditions, g/dsm 3 (gr/dscf).
+Ea = Arsenic mass emission rate, g/hr (lb/hr).
+Fd = Dilution factor (equals 1 if the sample has not been diluted).
 I = Percent of isokinetic sampling.
-m bi = Total mass of all four impingers and contents before sampling, g.
-m fi = Total mass of all four impingers and contents after sampling, g.
-m n = Total mass of arsenic collected in a specific part of the sampling train, µg.
-m t = Total mass of arsenic collected in the sampling train, µg.
-T m = Absolute average dry gas meter temperature (see Figure 108-2), °K (°R).
-V m = Volume of gas sample as measured by the dry gas meter, dry basis, m 3 (ft 3).
-V m(std) = Volume of gas sample as measured by the dry gas meter, corrected to standard conditions, m 3 (ft 3).
-V n = Volume of solution in which the arsenic is contained, ml.
-V w(std) = Volume of water vapor collected in the sampling train, corrected to standard conditions, m 3 (ft 3).
-ΔH = Average pressure differential across the orifice meter (see Figure 108-2), mm H 2 O (in. H 2 O).
-12.2 Average Dry Gas Meter Temperatures (T m) and Average Orifice Pressure Drop (ΔH). See data sheet (Figure 108-2).
-12.3 Dry Gas Volume. Using data from this test, calculate V m(std) according to the procedures outlined in Method 5, Section 12.3.
+mbi = Total mass of all four impingers and contents before sampling, g.
+mfi = Total mass of all four impingers and contents after sampling, g.
+mn = Total mass of arsenic collected in a specific part of the sampling train, µg.
+mt = Total mass of arsenic collected in the sampling train, µg.
+Tm = Absolute average dry gas meter temperature (see Figure 108-2), °K (°R).
+Vm = Volume of gas sample as measured by the dry gas meter, dry basis, m 3 (ft 3).
+Vm(std) = Volume of gas sample as measured by the dry gas meter, corrected to standard conditions, m 3 (ft 3).
+Vn = Volume of solution in which the arsenic is contained, ml.
+Vw(std) = Volume of water vapor collected in the sampling train, corrected to standard conditions, m 3 (ft 3).
+ΔH = Average pressure differential across the orifice meter (see Figure 108-2), mm H2O (in. H2O).
+12.2 Average Dry Gas Meter Temperatures (Tm) and Average Orifice Pressure Drop (ΔH). See data sheet (Figure 108-2).
+12.3 Dry Gas Volume. Using data from this test, calculate Vm(std) according to the procedures outlined in Method 5, Section 12.3.
 12.4 Volume of Water Vapor.
-ER17OC00.516
 Where:
-K 2 = 0.001334 m 3 /g for metric units.
-= 0.047012 ft 3 /g for English units.
+K2 = 0.001334 m 3/g for metric units.
+= 0.047012 ft 3/g for English units.
 12.5 Moisture Content.
-ER17OC00.517
 12.6 Amount of Arsenic Collected.
 12.6.1 Calculate the amount of arsenic collected in each part of the sampling train, as follows:
-ER17OC00.518
 12.6.2 Calculate the total amount of arsenic collected in the sampling train as follows:
-ER17OC00.519
 12.7 Calculate the arsenic concentration in the stack gas (dry basis, adjusted to standard conditions) as follows:
-ER17OC00.520
 Where:
-K 3 = 10 −6 g/µg for metric units
-= 1.54 × 10 −5 gr/µg for English units
+K3 = 10−6 g/µg for metric units
+= 1.54 × 10−5 gr/µg for English units
 12.8 Stack Gas Velocity and Volumetric Flow Rate. Calculate the average stack gas velocity and volumetric flow rate using data obtained in this method and the equations in Sections 12.2 and 12.3 of Method 2.
 12.9 Pollutant Mass Rate. Calculate the arsenic mass emission rate as follows:
-ER17OC00.521
 12.10 Isokinetic Variation. Same as Method 5, Section 12.11.
 13.0 Method Performance
 13.1 Sensitivity. The lower limit of flame AAS 10 µg As/ml. The analytical procedure includes provisions for the use of a graphite furnace or vapor generator for samples with a lower arsenic concentration.
@@ -1288,8 +1251,6 @@ Same as References 1 through 9 of Method 5, Section 17.0, with the addition of t
 2. Standard Specification for Reagent Water. In: Annual Book of American Society for Testing and Materials Standards. Part 31: Water, Atmospheric Analysis. American Society for Testing and Materials. Philadelphia, PA. 1974. pp. 40-42.
 3. Stack Sampling Safety Manual (Draft). U.S. Environmental Protection Agency, Office of Air Quality Planning and Standard, Research Triangle Park, NC. September 1978.
 18.0 Tables, Diagrams, Flowcharts, and Validation Data
-ER17OC00.522
-ER17OC00.523
 Method 108A—Determination of Arsenic Content in Ore Samples From Nonferrous Smelters
 Note: This method does not include all of the specifications (e.g., equipment and supplies) and procedures (e.g., sampling and analytical) essential to its performance. Some material is incorporated by reference from other methods in appendix A to 40 CFR part 60. Therefore, to obtain reliable results, persons using this method should have a thorough knowledge of Method 12.
 1.0 Scope and Application
@@ -1308,8 +1269,8 @@ Analysis for As by flame AAS is sensitive to the chemical composition and to the
 5.2 Corrosive Reagents. The following reagents are hazardous. Personal protective equipment and safe procedures that prevent chemical splashes are recommended. If contact occurs, immediately flush with copious amounts of water for at least 15 minutes. Remove clothing under shower and decontaminate. Treat residual chemical burns as thermal burns.
 5.2.1 Hydrochloric Acid (HCl). Highly corrosive liquid with toxic vapors. Vapors are highly irritating to eyes, skin, nose, and lungs, causing severe damage. May cause bronchitis, pneumonia, or edema of lungs. Exposure to concentrations of 0.13 to 0.2 percent can be lethal to humans in a few minutes. Provide ventilation to limit exposure. Reacts with metals, producing hydrogen gas.
 5.2.2 Hydrofluoric Acid (HF). Highly corrosive to eyes, skin, nose, throat, and lungs. Reaction to exposure may be delayed by 24 hours or more. Provide ventilation to limit exposure.
-5.2.3 Hydrogen Peroxide (H 2 O 2). Very harmful to eyes. 30% H 2 O 2 can burn skin, nose, and lungs.
-5.2.4 Nitric Acid (HNO 3). Highly corrosive to eyes, skin, nose, and lungs. Vapors are highly toxic and can cause bronchitis, pneumonia, or edema of lungs. Reaction to inhalation may be delayed as long as 30 hours and still be fatal. Provide ventilation to limit exposure. Strong oxidizer. Hazardous reaction may occur with organic materials such as solvents.
+5.2.3 Hydrogen Peroxide (H2O2). Very harmful to eyes. 30% H2O2 can burn skin, nose, and lungs.
+5.2.4 Nitric Acid (HNO3). Highly corrosive to eyes, skin, nose, and lungs. Vapors are highly toxic and can cause bronchitis, pneumonia, or edema of lungs. Reaction to inhalation may be delayed as long as 30 hours and still be fatal. Provide ventilation to limit exposure. Strong oxidizer. Hazardous reaction may occur with organic materials such as solvents.
 5.2.5 Sodium Hydroxide (NaOH). Causes severe damage to eyes and skin. Inhalation causes irritation to nose, throat, and lungs. Reacts exothermically with limited amounts of water.
 6.0 Equipment and Supplies
 6.1 Sample Collection and Preparation. The following items are required for sample collection and preparation:
@@ -1326,14 +1287,14 @@ Analysis for As by flame AAS is sensitive to the chemical composition and to the
 7.0 Reagents and Standards.
 Unless otherwise indicated, it is intended that all reagents conform to the specifications established by the Committee on Analytical Reagents of the American Chemical Society, where such specifications are available; otherwise, use the best available grade.
 7.1 Sample Collection and Preparation. The following reagents are required for sample collection and preparation:
-7.1.1 Water. Deionized distilled to meet ASTM D 1193-77 or 91 Type 3 (incorporated by reference—See § 61.18). When high concentrations of organic matter are not expected to be present, the KMnO 4 test for oxidizable organic matter may be omitted. Use in all dilutions requiring water.
+7.1.1 Water. Deionized distilled to meet ASTM D 1193-77 or 91 Type 3 (incorporated by reference—See § 61.18). When high concentrations of organic matter are not expected to be present, the KMnO4 test for oxidizable organic matter may be omitted. Use in all dilutions requiring water.
 7.1.2 Nitric Acid Concentrated.
-7.1.3 Nitric Acid, 0.5 N. In a 1-liter volumetric flask containing water, add 32 ml of concentrated HNO 3 and dilute to volume with water.
+7.1.3 Nitric Acid, 0.5 N. In a 1-liter volumetric flask containing water, add 32 ml of concentrated HNO3 and dilute to volume with water.
 7.1.4 Hydrofluoric Acid, Concentrated.
-7.1.5 Potassium Chloride (KCl) Solution, 10 percent weight by volume (W/V). Dissolve 10 g KCl in water, add 3 ml concentrated HNO 3, and dilute to 100 ml.
+7.1.5 Potassium Chloride (KCl) Solution, 10 percent weight by volume (W/V). Dissolve 10 g KCl in water, add 3 ml concentrated HNO3, and dilute to 100 ml.
 7.1.6 Filter. Teflon filters, 3-micron porosity, 47-mm size. (Available from Millipore Co., type FS, Catalog Number FSLW04700.)
-7.1.7 Sodium Borohydride (NaBH 4), 5 Percent (W/V). Dissolve 50.0 g of NaBH 4 in about 500 ml of 0.1 N NaOH in a 1-liter volumetric flask. Then, dilute to exactly 1.0 liter with 0.1 N NaOH.
-7.1.8 Nickel Nitrate, 5 Percent Ni (W/V). Dissolve 24.780 g of nickel nitrate hexahydrate [Ni(NO 3) 2 6H 2 O] in water in a 100-ml volumetric flask, and dilute to 100 ml with water.
+7.1.7 Sodium Borohydride (NaBH4), 5 Percent (W/V). Dissolve 50.0 g of NaBH4 in about 500 ml of 0.1 N NaOH in a 1-liter volumetric flask. Then, dilute to exactly 1.0 liter with 0.1 N NaOH.
+7.1.8 Nickel Nitrate, 5 Percent Ni (W/V). Dissolve 24.780 g of nickel nitrate hexahydrate [Ni(NO3)2 6H2O] in water in a 100-ml volumetric flask, and dilute to 100 ml with water.
 7.1.9 Nickel Nitrate, 1 Percent Ni (W/V). Pipet 20 ml of 5 percent nickel nitrate solution into a 100-ml volumetric flask, and dilute to 100 ml with water.
 7.2 Analysis. The following reagents and standards are required for analysis:
 7.2.2 Sodium Hydroxide, 0.1 N. Dissolve 2.00 g of NaOH in water in a 500-ml volumetric flask. Dilute to volume with water.
@@ -1341,8 +1302,8 @@ Unless otherwise indicated, it is intended that all reagents conform to the spec
 7.2.4 Potassium Chloride Solution, 10 percent. Same as in Section 7.1.5.
 7.2.5 Hydrochloric Acid, Concentrated.
 7.2.6 Potassium Iodide (KI), 30 Percent (W/V). Dissolve 300 g of KI in about 500 ml of water in a 1-liter volumetric flask. Then, dilute to exactly 1.0 liter with water.
-7.2.7 Hydrogen Peroxide, 3 Percent by Volume. Pipet 50 ml of 30 percent H 2 O 2 into a 500-ml volumetric flask, and dilute to exactly 500 ml with water.
-7.2.8 Stock Arsenic Standard, 1 mg As/ml. Dissolve 1.3203 g of primary grade As 2 O 3 in 20 ml of 0.1 N NaOH. Slowly add 30 ml of concentrated HNO 3, and heat in an oven at 105 °C (221 °F) for 2 hours. Allow to cool, and dilute to 1 liter with deionized distilled water.
+7.2.7 Hydrogen Peroxide, 3 Percent by Volume. Pipet 50 ml of 30 percent H2O2 into a 500-ml volumetric flask, and dilute to exactly 500 ml with water.
+7.2.8 Stock Arsenic Standard, 1 mg As/ml. Dissolve 1.3203 g of primary grade As2O3 in 20 ml of 0.1 N NaOH. Slowly add 30 ml of concentrated HNO3, and heat in an oven at 105 °C (221 °F) for 2 hours. Allow to cool, and dilute to 1 liter with deionized distilled water.
 7.2.9 Nitrous Oxide. Suitable quality for AAS analysis.
 7.2.10 Acetylene. Suitable quality for AAS analysis.
 7.2.11 Quality Assurance Audit Samples. When making compliance determinations, and upon availability, audit samples may be obtained from the appropriate EPA regional Office or from the responsible enforcement authority.
@@ -1356,28 +1317,27 @@ Section | Quality control measure | Effect
 11.5 | Check for matrix effects | Eliminate matrix effects.
 10.0 Calibration and Standardizations
 Note: Maintain a laboratory log of all calibrations.
-10.1 Preparation of Standard Solutions. Pipet 1, 5, 10, and 25 ml of the stock As solution into separate 100-ml volumetric flasks. Add 10 ml KCl solution and dilute to the mark with 0.5 N HNO 3. This will give standard concentrations of 10, 50, 100, and 250 µg As/ml. For low-level arsenic samples that require the use of a graphite furnace or vapor generator, follow the procedures in Section 11.3:1. Dilute 10 ml of KCl solution to 100 ml with 0.5 N HNO 3 and use as a reagent blank.
+10.1 Preparation of Standard Solutions. Pipet 1, 5, 10, and 25 ml of the stock As solution into separate 100-ml volumetric flasks. Add 10 ml KCl solution and dilute to the mark with 0.5 N HNO3. This will give standard concentrations of 10, 50, 100, and 250 µg As/ml. For low-level arsenic samples that require the use of a graphite furnace or vapor generator, follow the procedures in Section 11.3:1. Dilute 10 ml of KCl solution to 100 ml with 0.5 N HNO3 and use as a reagent blank.
 10.2 Calibration Curve. Analyze the reagent blank and each standard solution according to the procedures outlined in Section 11.3. Repeat this procedure on each standard solution until two consecutive peaks agree within 3 percent of their average value. Subtract the average peak height (or peak area) of the blank—which must be less than 2 percent of recorder full scale—from the averaged peak heights of each standard solution. If the blank absorbance is greater than 2 percent of full-scale, the probable cause is Hg contamination of a reagent or carry-over of As from a previous sample. Prepare the calibration curve by plotting the corrected peak height of each standard solution versus the corresponding final total As weight in the solution.
 10.3 Spectrophotometer Calibration Quality Control. Calculate the least squares slope of the calibration curve. The line must pass through the origin or through a point no further from the origin than ±2 percent of the recorder full scale. Multiply the corrected peak height by the reciprocal of the least squares slope to determine the distance each calibration point lies from the theoretical calibration line. The difference between the calculated concentration values and the actual concentrations must be less than 7 percent for all standards.
 Note: For instruments equipped with direct concentration readout devices, preparation of a standard curve will not be necessary. In all cases, follow calibration and operational procedures in the manufacturer's instruction manual.
 11.0 Analytical Procedure
-11.1 Sample Preparation. Weigh 50 to 500 mg of finely pulverized sample to the nearest 0.1 mg. Transfer the sample into the Teflon cup of the digestion bomb, and add 2 ml each of concentrated HNO 3 and HF. Seal the bomb immediately to prevent the loss of any volatile arsenic compounds that may form. Heat in an oven at 105 °C (221 °F) for 2 hours. Remove the bomb from the oven and allow to cool. Using a Teflon filter, quantitatively filter the digested sample into a 50-ml polypropylene volumetric flask. Rinse the bomb three times with small portions of 0.5 N HNO 3, and filter the rinses into the flask. Add 5 ml of KCl solution to the flask, and dilute to 50 ml with 0.5 N HNO 3.
+11.1 Sample Preparation. Weigh 50 to 500 mg of finely pulverized sample to the nearest 0.1 mg. Transfer the sample into the Teflon cup of the digestion bomb, and add 2 ml each of concentrated HNO3 and HF. Seal the bomb immediately to prevent the loss of any volatile arsenic compounds that may form. Heat in an oven at 105 °C (221 °F) for 2 hours. Remove the bomb from the oven and allow to cool. Using a Teflon filter, quantitatively filter the digested sample into a 50-ml polypropylene volumetric flask. Rinse the bomb three times with small portions of 0.5 N HNO3, and filter the rinses into the flask. Add 5 ml of KCl solution to the flask, and dilute to 50 ml with 0.5 N HNO3.
 11.2 Spectrophotometer Preparation.
 11.2.1 Turn on the power; set the wavelength, slit width, and lamp current. Adjust the background corrector as instructed by the manufacturer's manual for the particular atomic absorption spectrophotometer. Adjust the burner and flame characteristics as necessary.
 11.2.2 Develop a spectrophotometer calibration curve as outlined in Sections 10.2 and 10.3.
-11.3 Arsenic Determination. Analyze an appropriately sized aliquot of each diluted sample (from Section 11.1) until two consecutive peak heights agree within 3 percent of their average value. If applicable, follow the procedures outlined in Section 11.3.1. If the sample concentration falls outside the range of the calibration curve, make an appropriate dilution with 0.5 N HNO 3 so that the final concentration falls within the range of the curve. Using the calibration curve, determine the As concentration in each sample.
+11.3 Arsenic Determination. Analyze an appropriately sized aliquot of each diluted sample (from Section 11.1) until two consecutive peak heights agree within 3 percent of their average value. If applicable, follow the procedures outlined in Section 11.3.1. If the sample concentration falls outside the range of the calibration curve, make an appropriate dilution with 0.5 N HNO3 so that the final concentration falls within the range of the curve. Using the calibration curve, determine the As concentration in each sample.
 Note: Because instruments vary between manufacturers, no detailed operating instructions will be given here. Instead, the instrument manufacturer's detailed operating instructions should be followed.
 11.3.1 Arsenic Determination at Low Concentration. The lower limit of flame AAS is 10 µg As/ml. If the arsenic concentration of any sample is at a lower level, use the vapor generator or graphite furnace which is available as an accessory component. Flame, graphite furnace, or vapor generators may be used for samples whose concentrations are between 10 and 30 µg/ml. Follow the manufacturer's instructions in the use of such equipment.
-11.3.1.1 Vapor Generator Procedure. Place a sample containing between 0 and 5 µg of arsenic in the reaction tube, and dilute to 15 ml with water. Since there is some trial and error involved in this procedure, it may be necessary to screen the samples by conventional AAS until an approximate concentration is determined. After determining the approximate concentration, adjust the volume of the sample accordingly. Pipet 15 ml of concentrated HCl into each tube. Add 1 ml of 30 percent KI solution. Place the reaction tube into a 50 °C (120 °F) water bath for 5 minutes. Cool to room temperature. Connect the reaction tube to the vapor generator assembly. When the instrument response has returned to baseline, inject 5.0 ml of 5 percent NaBH 4 and integrate the resulting spectrophotometer signal over a 30-second time period.
-11.3.1.2 Graphite Furnace Procedure. Pipet 5 ml of the digested solution into a 10-ml volumetric flask. Add 1 ml of the 1 percent nickel nitrate solution, 0.5 ml of 50 percent HNO 3, and 1 ml of the 3 percent H 2 O 2, and dilute to 10 ml with water. The sample is now ready to inject in the furnace for analysis.
+11.3.1.1 Vapor Generator Procedure. Place a sample containing between 0 and 5 µg of arsenic in the reaction tube, and dilute to 15 ml with water. Since there is some trial and error involved in this procedure, it may be necessary to screen the samples by conventional AAS until an approximate concentration is determined. After determining the approximate concentration, adjust the volume of the sample accordingly. Pipet 15 ml of concentrated HCl into each tube. Add 1 ml of 30 percent KI solution. Place the reaction tube into a 50 °C (120 °F) water bath for 5 minutes. Cool to room temperature. Connect the reaction tube to the vapor generator assembly. When the instrument response has returned to baseline, inject 5.0 ml of 5 percent NaBH4 and integrate the resulting spectrophotometer signal over a 30-second time period.
+11.3.1.2 Graphite Furnace Procedure. Pipet 5 ml of the digested solution into a 10-ml volumetric flask. Add 1 ml of the 1 percent nickel nitrate solution, 0.5 ml of 50 percent HNO3, and 1 ml of the 3 percent H2O2, and dilute to 10 ml with water. The sample is now ready to inject in the furnace for analysis.
 11.4 Run a blank and standard at least after every five samples to check the spectrophotometer calibration. The peak height of the blank must pass through a point no further from the origin than ±2 percent of the recorder full scale. The difference between the measured concentration of the standard (the product of the corrected average peak height and the reciprocal of the least squares slope) and the actual concentration of the standard must be less than 7 percent, or recalibration of the analyzer is required.
 11.5 Mandatory Check for Matrix Effects on the Arsenic Results. Same as Method 12, Section 11.5.
 12.0 Data Analysis and Calculations
 12.1 Calculate the percent arsenic in the ore sample as follows:
-ER17OC00.524
 Where:
-C a = Concentration of As as read from the standard curve, µg/ml.
-F d = Dilution factor (equals to 1 if the sample has not been diluted).
+Ca = Concentration of As as read from the standard curve, µg/ml.
+Fd = Dilution factor (equals to 1 if the sample has not been diluted).
 W = Weight of ore sample analyzed, mg.
 5 = (50 ml sample "100)/(10 3 µg/mg).
 13.0 Method Performance
@@ -1413,8 +1373,8 @@ Analysis for As by flame AAS is sensitive to the chemical composition and to the
 5.2 Corrosive Reagents. The following reagents are hazardous. Personal protective equipment and safe procedures that prevent chemical splashes are recommended. If contact occurs, immediately flush with copious amounts of water for at least 15 minutes. Remove clothing under shower and decontaminate. Treat residual chemical burns as thermal burns.
 5.2.1 Hydrochloric acid (HCl). Highly corrosive liquid with toxic vapors. Vapors are highly irritating to eyes, skin, nose, and lungs, causing severe damage. May cause bronchitis, pneumonia, or edema of lungs. Exposure to concentrations of 0.13 to 0.2 percent can be lethal to humans in a few minutes. Provide ventilation to limit exposure. Reacts with metals, producing hydrogen gas.
 5.2.2 Hydrofluoric Acid (HF). Highly corrosive to eyes, skin, nose, throat, and lungs. Reaction to exposure may be delayed by 24 hours or more. Provide ventilation to limit exposure.
-5.2.3 Nitric Acid (HNO 3). Highly corrosive to eyes, skin, nose, and lungs. Vapors are highly toxic and can cause bronchitis, pneumonia, or edema of lungs. Reaction to inhalation may be delayed as long as 30 hours and still be fatal. Provide ventilation to limit exposure. Strong oxidizer. Hazardous reaction may occur with organic materials such as solvents.
-5.2.4 Perchloric Acid (HClO 4). Corrosive to eyes, skin, nose, and throat. Provide ventilation to limit exposure. Very strong oxidizer. Keep separate from water and oxidizable materials to prevent vigorous evolution of heat, spontaneous combustion, or explosion. Heat solutions containing HClO 4 only in hoods specifically designed for HClO 4.
+5.2.3 Nitric Acid (HNO3). Highly corrosive to eyes, skin, nose, and lungs. Vapors are highly toxic and can cause bronchitis, pneumonia, or edema of lungs. Reaction to inhalation may be delayed as long as 30 hours and still be fatal. Provide ventilation to limit exposure. Strong oxidizer. Hazardous reaction may occur with organic materials such as solvents.
+5.2.4 Perchloric Acid (HClO4). Corrosive to eyes, skin, nose, and throat. Provide ventilation to limit exposure. Very strong oxidizer. Keep separate from water and oxidizable materials to prevent vigorous evolution of heat, spontaneous combustion, or explosion. Heat solutions containing HClO4 only in hoods specifically designed for HClO4.
 6.0 Equipment and Supplies
 6.1 Sample Preparation. The following items are required for sample preparation:
 6.1.1 Teflon Beakers. 150-ml.
@@ -1439,7 +1399,7 @@ Unless otherwise indicated, it is intended that all reagents conform to the spec
 7.1.5 Hydrochloric Acid, Concentrated.
 7.2 Analysis. The following reagents and standards are required for analysis:
 7.2.1 Water. Same as in Section 7.1.1.
-7.2.2 Stock Arsenic Standard, 1.0 mg As/ml. Dissolve 1.3203 g of primary grade As 2 0 3 [dried at 105 °C (221 °F)] in a 400-ml beaker with 10 ml of HNO 3 and 5 ml of HCl. Cover with a watch glass, and heat gently until dissolution is complete. Add 10 ml of HNO 3 and 25 ml of HClO 4, evaporate to strong fumes of HClO 4, and reduce to about 20 ml volume. Cool, add 100 ml of water and 100 ml of HCl, and transfer quantitatively to a 1-liter volumetric flask. Dilute to volume with water and mix.
+7.2.2 Stock Arsenic Standard, 1.0 mg As/ml. Dissolve 1.3203 g of primary grade As203 [dried at 105 °C (221 °F)] in a 400-ml beaker with 10 ml of HNO3 and 5 ml of HCl. Cover with a watch glass, and heat gently until dissolution is complete. Add 10 ml of HNO3 and 25 ml of HClO4, evaporate to strong fumes of HClO4, and reduce to about 20 ml volume. Cool, add 100 ml of water and 100 ml of HCl, and transfer quantitatively to a 1-liter volumetric flask. Dilute to volume with water and mix.
 7.2.3 Acetylene. Suitable quality for AAS analysis.
 7.2.4 Air. Suitable quality for AAS analysis.
 8.0 Sample Collection, Preservation, Transport, and Storage
@@ -1450,12 +1410,12 @@ Section | Quality control measure | Effect
 11.4 | Check for matrix effects | Eliminate matrix effects.
 10.0 Calibration and Standardization
 Note: Maintain a laboratory log of all calibrations.
-10.1 Preparation of Standard Solutions. Pipet 1, 5, 10, and 25 ml of the stock As solution into separate 100-ml volumetric flasks. Add 2 ml of HClO 4, 10 ml of HCl, and dilute to the mark with water. This will provide standard concentrations of 10, 50, 100, and 250 µg As/ml.
+10.1 Preparation of Standard Solutions. Pipet 1, 5, 10, and 25 ml of the stock As solution into separate 100-ml volumetric flasks. Add 2 ml of HClO4, 10 ml of HCl, and dilute to the mark with water. This will provide standard concentrations of 10, 50, 100, and 250 µg As/ml.
 10.2 Calibration Curve and Spectrophotometer Calibration Quality Control. Same as Method 108A, Sections 10.2 and 10.3
 11.0 Analytical Procedure
-11.1 Sample Preparation. Weigh 100 to 1000 mg of finely pulverized sample to the nearest 0.1 mg. Transfer the sample to a 150-ml Teflon beaker. Dissolve the sample by adding 15 ml of HNO 3, 10 ml of HCl, 10 ml of HF, and 10 ml of HClO 4 in the exact order as described, and let stand for 10 minutes. In a HClO 4 fume hood, heat on a hot plate until 2-3 ml of HClO 4 remain, then cool. Add 20 ml of water and 10 ml of HCl. Cover and warm until the soluble salts are in solution. Cool, and transfer quantitatively to a 100-ml volumetric flask. Dilute to the mark with water.
+11.1 Sample Preparation. Weigh 100 to 1000 mg of finely pulverized sample to the nearest 0.1 mg. Transfer the sample to a 150-ml Teflon beaker. Dissolve the sample by adding 15 ml of HNO3, 10 ml of HCl, 10 ml of HF, and 10 ml of HClO4 in the exact order as described, and let stand for 10 minutes. In a HClO4 fume hood, heat on a hot plate until 2-3 ml of HClO4 remain, then cool. Add 20 ml of water and 10 ml of HCl. Cover and warm until the soluble salts are in solution. Cool, and transfer quantitatively to a 100-ml volumetric flask. Dilute to the mark with water.
 11.2 Spectrophotometer Preparation. Same as in Method 108A, Section 11.2.
-11.3 Arsenic Determination. If the sample concentration falls outside the range of the calibration curve, make an appropriate dilution with 2 percent HClO 4 /10 percent HCl (prepared by diluting 2 ml concentrated HClO 4 and 10 ml concentrated HCl to 100 ml with water) so that the final concentration falls within the range of the curve. Using the calibration curve, determine the As concentration in each sample.
+11.3 Arsenic Determination. If the sample concentration falls outside the range of the calibration curve, make an appropriate dilution with 2 percent HClO4/10 percent HCl (prepared by diluting 2 ml concentrated HClO4 and 10 ml concentrated HCl to 100 ml with water) so that the final concentration falls within the range of the curve. Using the calibration curve, determine the As concentration in each sample.
 Note: Because instruments vary between manufacturers, no detailed operating instructions will be given here. Instead, the instrument manufacturer's detailed operating instructions should be followed.
 Run a blank and standard at least after every five samples to check the spectrophotometer calibration. The peak height of the blank must pass through a point no further from the origin than ±2 percent of the recorder full scale. The difference between the measured concentration of the standard (the product of the corrected average peak height and the reciprocal of the least squares slope) and the actual concentration of the standard must be less than 7 percent, or recalibration of the analyzer is required.
 11.4 Mandatory Check for Matrix Effects on the Arsenic Results. Same as Method 12, Section 11.5.
@@ -1485,9 +1445,9 @@ Arsenic bound in ore samples is liberated by acid digestion and analyzed by the 
 5.2 Corrosive Reagents. The following reagents are hazardous. Personal protective equipment and safe procedures that prevent chemical splashes are recommended. If contact occurs, immediately flush with copious amounts of water for at least 15 minutes. Remove clothing under shower and decontaminate. Treat residual chemical burns as thermal burns.
 5.2.1 Hydrochloric Acid (HCl). Highly corrosive liquid with toxic vapors. Vapors are highly irritating to eyes, skin, nose, and lungs, causing severe damage. May cause bronchitis, pneumonia, or edema of lungs. Exposure to concentrations of 0.13 to 0.2 percent can be lethal to humans in a few minutes. Provide ventilation to limit exposure. Reacts with metals, producing hydrogen gas.
 5.2.2 Hydrofluoric Acid (HF). Highly corrosive to eyes, skin, nose, throat, and lungs. Reaction to exposure may be delayed by 24 hours or more. Provide ventilation to limit exposure.
-5.2.3 Nitric Acid (HNO 4). Highly corrosive to eyes, skin, nose, and lungs. Vapors are highly toxic and can cause bronchitis, pneumonia, or edema of lungs. Reaction to inhalation may be delayed as long as 30 hours and still be fatal. Provide ventilation to limit exposure. Strong oxidizer. Hazardous reaction may occur with organic materials such as solvents.
-5.2.4 Perchloric Acid (HClO 4). Corrosive to eyes, skin, nose, and throat. Provide ventilation to limit exposure. Very strong oxidizer. Keep separate from water and oxidizable materials to prevent vigorous evolution of heat, spontaneous combustion, or explosion. Heat solutions containing HClO 4 only in hoods specifically designed for HClO 4.
-5.2.5 Sulfuric acid (H 2 SO 4). Rapidly destructive to body tissue. Will cause third degree burns. Eye damage may result in blindness. Inhalation may be fatal from spasm of the larynx, usually within 30 minutes. May cause lung tissue damage with edema. 3 mg/m 3 will cause lung damage in uninitiated. 1 mg/m 3 for 8 hours will cause lung damage or, in higher concentrations, death. Provide ventilation to limit inhalation. Reacts violently with metals and organics.
+5.2.3 Nitric Acid (HNO4). Highly corrosive to eyes, skin, nose, and lungs. Vapors are highly toxic and can cause bronchitis, pneumonia, or edema of lungs. Reaction to inhalation may be delayed as long as 30 hours and still be fatal. Provide ventilation to limit exposure. Strong oxidizer. Hazardous reaction may occur with organic materials such as solvents.
+5.2.4 Perchloric Acid (HClO4). Corrosive to eyes, skin, nose, and throat. Provide ventilation to limit exposure. Very strong oxidizer. Keep separate from water and oxidizable materials to prevent vigorous evolution of heat, spontaneous combustion, or explosion. Heat solutions containing HClO4 only in hoods specifically designed for HClO4.
+5.2.5 Sulfuric acid (H2SO4). Rapidly destructive to body tissue. Will cause third degree burns. Eye damage may result in blindness. Inhalation may be fatal from spasm of the larynx, usually within 30 minutes. May cause lung tissue damage with edema. 3 mg/m 3 will cause lung damage in uninitiated. 1 mg/m 3 for 8 hours will cause lung damage or, in higher concentrations, death. Provide ventilation to limit inhalation. Reacts violently with metals and organics.
 6.0 Equipment and Supplies
 6.1 Sample Preparation. The following items are required for sample preparation:
 6.1.1 Analytical Balance. To measure to within 0.1 mg.
@@ -1502,24 +1462,24 @@ Arsenic bound in ore samples is liberated by acid digestion and analyzed by the 
 7.0 Reagents and Standards
 Unless otherwise indicated, it is intended that all reagents conform to the specifications established by the Committee on Analytical Reagents of the American Chemical Society, where such specifications are available; otherwise, use the best available grade.
 7.1 Sample Preparation. The following reagents are required for sample preparation:
-7.1.1 Water. Deionized distilled to meet ASTM D 1193-77 or 91 Type 3 (incorporated by reference—see § 61.18). When high concentrations of organic matter are not expected to be present, the KMnO 4 test for oxidizable organic matter may be omitted. Use in all dilutions requiring water.
+7.1.1 Water. Deionized distilled to meet ASTM D 1193-77 or 91 Type 3 (incorporated by reference—see § 61.18). When high concentrations of organic matter are not expected to be present, the KMnO4 test for oxidizable organic matter may be omitted. Use in all dilutions requiring water.
 7.1.2 Nitric Acid, Concentrated.
 7.1.3 Hydrofluoric Acid, Concentrated.
 7.1.4 Sulfuric Acid, Concentrated.
 7.1.5 Perchloric Acid, 70 Percent.
 7.1.6 Hydrochloric Acid, Concentrated.
 7.1.7 Dilute Hydrochloric Acid. Add one part concentrated HCl to nine parts water.
-7.1.8 Hydrazine Sulfate ((NH 2) 2 ·H 2 SO 4).
+7.1.8 Hydrazine Sulfate ((NH2)2·H2SO4).
 7.1.9 Potassium Bromide (KBr).
 7.1.10 Bromine Water, Saturated.
 7.2 Analysis. The following reagents and standards are required for analysis:
 7.2.1 Water. Same as in Section 7.1.1.
 7.2.2 Methyl Orange Solution, 1 g/liter.
-7.2.3 Ammonium Molybdate Solution, 5 g/liter. Dissolve 0.5 g (NH 4)Mo 7 O 24 ·4H 2 O in water in a 100-ml volumetric flask, and dilute to the mark. This solution must be freshly prepared.
-7.2.4 Standard Arsenic Solution, 10 µg As/ml. Dissolve 0.13203 g of As 2 O 3 in 100 ml HCl in a 1-liter volumetric flask. Add 200 ml of water, cool, dilute to the mark with water, and mix. Transfer 100 ml of this solution to a 1-liter volumetric flask, add 40 ml HCl, cool, dilute to the mark, and mix.
-7.2.5 Hydrazine Sulfate Solution, 1 g/liter. Dissolve 0.1 g of [(NH 2) 2 ·H 2 SO 4] in water, and dilute to 100 ml in a volumetric flask. This solution must be freshly prepared.
-7.2.6 Potassium Bromate (KBrO 3) Solution, 0.03 Percent Weight by Volume (W/V). Dissolve 0.3 g KBrO 3 in water, and dilute to 1 liter with water.
-7.2.7 Ammonium Hydroxide (NH 4 OH), Concentrated.
+7.2.3 Ammonium Molybdate Solution, 5 g/liter. Dissolve 0.5 g (NH4)Mo7O24·4H2O in water in a 100-ml volumetric flask, and dilute to the mark. This solution must be freshly prepared.
+7.2.4 Standard Arsenic Solution, 10 µg As/ml. Dissolve 0.13203 g of As2O3 in 100 ml HCl in a 1-liter volumetric flask. Add 200 ml of water, cool, dilute to the mark with water, and mix. Transfer 100 ml of this solution to a 1-liter volumetric flask, add 40 ml HCl, cool, dilute to the mark, and mix.
+7.2.5 Hydrazine Sulfate Solution, 1 g/liter. Dissolve 0.1 g of [(NH2)2·H2SO4] in water, and dilute to 100 ml in a volumetric flask. This solution must be freshly prepared.
+7.2.6 Potassium Bromate (KBrO3) Solution, 0.03 Percent Weight by Volume (W/V). Dissolve 0.3 g KBrO3 in water, and dilute to 1 liter with water.
+7.2.7 Ammonium Hydroxide (NH4OH), Concentrated.
 7.2.8 Boiling Granules.
 7.2.9 Hydrochloric Acid, 50 percent by volume. Dilute equal parts concentrated HCl with water.
 8.0 Sample Collection, Preservation, Transport, and Storage
@@ -1529,19 +1489,19 @@ Section | Quality control measure | Effect
 10.2 | Calibration curve preparation | Ensure linearity of spectrophotometric response to standards.
 10.0 Calibration and Standardizations
 Note: Maintain a laboratory log of all calibrations.
-10.1 Preparation of Standard Solutions. Transfer 1.0, 2.0, 4.0, 8.0, 12.0, 16.0, and 20.0 ml of standard arsenic solution (10 µg/ml) to each of seven 50-ml volumetric flasks. Dilute to 20 ml with dilute HCl. Add one drop of methyl orange solution and neutralize to the yellow color with dropwise addition of NH 4 OH. Just bring back to the red color by dropwise addition of dilute HCl, and add 10 ml in excess. Proceed with the color development as described in Section 11.2.
+10.1 Preparation of Standard Solutions. Transfer 1.0, 2.0, 4.0, 8.0, 12.0, 16.0, and 20.0 ml of standard arsenic solution (10 µg/ml) to each of seven 50-ml volumetric flasks. Dilute to 20 ml with dilute HCl. Add one drop of methyl orange solution and neutralize to the yellow color with dropwise addition of NH4OH. Just bring back to the red color by dropwise addition of dilute HCl, and add 10 ml in excess. Proceed with the color development as described in Section 11.2.
 10.2 Calibration Curve. Plot the spectrophotometric readings of the calibration solutions against µg As per 50 ml of solution. Use this curve to determine the As concentration of each sample.
 10.3 Spectrophotometer Calibration Quality Control. Calculate the least squares slope of the calibration curve. The line must pass through the origin or through a point no further from the origin than ±2 percent of the recorder full scale. Multiply the corrected peak height by the reciprocal of the least squares slope to determine the distance each calibration point lies from the theoretical calibration line. The difference between the calculated concentration values and the actual concentrations must be less than 7 percent for all standards.
 11.0 Analytical Procedure
 11.1 Sample Preparation.
-11.1.1 Weigh 1.0 g of finely pulverized sample to the nearest 0.1 mg. Transfer the sample to a 300 ml Erlenmeyer flask and add 15 ml of HNO 3, 4 ml HCl, 2 ml HF, 3 ml HClO 4, and 15 ml H 2 SO 4, in the order listed. In a HClO 4 fume hood, heat on a hot plate to decompose the sample. Then heat while swirling over an open flame until dense white fumes evolve. Cool, add 15 ml of water, swirl to hydrate the H 2 SO 4 completely, and add several boiling granules. Cool to room temperature.
+11.1.1 Weigh 1.0 g of finely pulverized sample to the nearest 0.1 mg. Transfer the sample to a 300 ml Erlenmeyer flask and add 15 ml of HNO3, 4 ml HCl, 2 ml HF, 3 ml HClO4, and 15 ml H2SO4, in the order listed. In a HClO4 fume hood, heat on a hot plate to decompose the sample. Then heat while swirling over an open flame until dense white fumes evolve. Cool, add 15 ml of water, swirl to hydrate the H2SO4 completely, and add several boiling granules. Cool to room temperature.
 11.1.2 Add 1 g of KBr, 1 g hydrazine sulfate, and 50 ml HCl. Immediately attach the distillation head with thermometer and dip the side arm into a 50-ml graduated cylinder containing 25 ml of water and 2 ml of bromine water. Keep the graduated cylinder immersed in a beaker of cold water during distillation. Distill until the temperature of the vapor in the flask reaches 107 °C (225 °F). When distillation is complete, remove the flask from the hot plate, and simultaneously wash down the side arm with water as it is removed from the cylinder.
-11.1.3 If the expected arsenic content is in the range of 0.0020 to 0.10 percent, dilute the distillate to the 50-ml mark of the cylinder with water, stopper, and mix. Transfer a 5.0-ml aliquot to a 50-ml volumetric flask. Add 10 ml of water and a boiling granule. Place the flask on a hot plate, and heat gently until the bromine is expelled and the color of methyl orange indicator persists upon the addition of 1 to 2 drops. Cool the flask to room temperature. Neutralize just to the yellow color of the indicator with dropwise additions of NH 4 OH. Bring back to the red color by dropwise addition of dilute HCl, and add 10 ml excess. Proceed with the molybdenum blue color development as described in Section 11.2.
-11.1.4 If the expected arsenic content is in the range of 0.0002 to 0.0010 percent As, transfer either the entire initial distillate or the measured remaining distillate from Section 11.1.2 to a 250-ml beaker. Wash the cylinder with two successive portions of concentrated HNO 3, adding each portion to the distillate in the beaker. Add 4 ml of concentrated HClO 4, a boiling granule, and cover with a flat watch glass placed slightly to one side. Boil gently on a hot plate until the volume is reduced to approximately 10 ml. Add 3 ml of HNO 3, and continue the evaporation until HClO 4 is refluxing on the beaker cover. Cool briefly, rinse the underside of the watch glass and the inside of the beaker with about 3-5 ml of water, cover, and continue the evaporation to expel all but 2 ml of the HClO 4.
-Note: If the solution appears cloudy due to a small amount of antimony distilling over, add 4 ml of 50 percent HCl and 5 ml of water, cover, and warm gently until clear. If cloudiness persists, add 5 ml of HNO 3 and 2 ml H 2 SO 4. Continue the evaporation of volatile acids to solubilize the antimony until dense white fumes of H 2 SO 4 appear. Retain at least 1 ml of the H 2 SO 4.
-11.1.5 To the 2 ml of HClO 4 solution or 1 ml of H 2 SO 4 solution, add 15 ml of water, boil gently for 2 minutes, and then cool. Proceed with the molybdenum blue color development by neutralizing the solution directly in the beaker just to the yellow indicator color by dropwise addition of NH 4 OH. Obtain the red color by dropwise addition of dilute HCl. Transfer the solution to a 50-ml volumetric flask. Rinse the beaker successively with 10 ml of dilute HCl, followed by several small portions of water. At this point the volume of solution in the flask should be no more than 40 ml. Continue with the color development as described in Section 11.2.
+11.1.3 If the expected arsenic content is in the range of 0.0020 to 0.10 percent, dilute the distillate to the 50-ml mark of the cylinder with water, stopper, and mix. Transfer a 5.0-ml aliquot to a 50-ml volumetric flask. Add 10 ml of water and a boiling granule. Place the flask on a hot plate, and heat gently until the bromine is expelled and the color of methyl orange indicator persists upon the addition of 1 to 2 drops. Cool the flask to room temperature. Neutralize just to the yellow color of the indicator with dropwise additions of NH4OH. Bring back to the red color by dropwise addition of dilute HCl, and add 10 ml excess. Proceed with the molybdenum blue color development as described in Section 11.2.
+11.1.4 If the expected arsenic content is in the range of 0.0002 to 0.0010 percent As, transfer either the entire initial distillate or the measured remaining distillate from Section 11.1.2 to a 250-ml beaker. Wash the cylinder with two successive portions of concentrated HNO3, adding each portion to the distillate in the beaker. Add 4 ml of concentrated HClO4, a boiling granule, and cover with a flat watch glass placed slightly to one side. Boil gently on a hot plate until the volume is reduced to approximately 10 ml. Add 3 ml of HNO3, and continue the evaporation until HClO4 is refluxing on the beaker cover. Cool briefly, rinse the underside of the watch glass and the inside of the beaker with about 3-5 ml of water, cover, and continue the evaporation to expel all but 2 ml of the HClO4.
+Note: If the solution appears cloudy due to a small amount of antimony distilling over, add 4 ml of 50 percent HCl and 5 ml of water, cover, and warm gently until clear. If cloudiness persists, add 5 ml of HNO3 and 2 ml H2SO4. Continue the evaporation of volatile acids to solubilize the antimony until dense white fumes of H2SO4 appear. Retain at least 1 ml of the H2SO4.
+11.1.5 To the 2 ml of HClO4 solution or 1 ml of H2SO4 solution, add 15 ml of water, boil gently for 2 minutes, and then cool. Proceed with the molybdenum blue color development by neutralizing the solution directly in the beaker just to the yellow indicator color by dropwise addition of NH4OH. Obtain the red color by dropwise addition of dilute HCl. Transfer the solution to a 50-ml volumetric flask. Rinse the beaker successively with 10 ml of dilute HCl, followed by several small portions of water. At this point the volume of solution in the flask should be no more than 40 ml. Continue with the color development as described in Section 11.2.
 11.2 Analysis.
-11.2.1 Add 1 ml of KBrO 3 solution to the flask and heat on a low-temperature hot plate to about 50 °C (122 °F) to oxidize the arsenic and methyl orange. Add 5.0 ml of ammonium molybdate solution to the warm solution and mix. Add 2.0 ml of hydrazine sulfate solution, dilute until the solution comes within the neck of the flask, and mix. Place the flask in a 400 ml beaker, 80 percent full of boiling water, for 10 minutes. Enough heat must be supplied to prevent the water bath from cooling much below the boiling point upon inserting the volumetric flask. Remove the flask, cool to room temperature, dilute to the mark, and mix.
+11.2.1 Add 1 ml of KBrO3 solution to the flask and heat on a low-temperature hot plate to about 50 °C (122 °F) to oxidize the arsenic and methyl orange. Add 5.0 ml of ammonium molybdate solution to the warm solution and mix. Add 2.0 ml of hydrazine sulfate solution, dilute until the solution comes within the neck of the flask, and mix. Place the flask in a 400 ml beaker, 80 percent full of boiling water, for 10 minutes. Enough heat must be supplied to prevent the water bath from cooling much below the boiling point upon inserting the volumetric flask. Remove the flask, cool to room temperature, dilute to the mark, and mix.
 11.2.2 Transfer a suitable portion of the reference solution to an absorption cell, and adjust the spectrophotometer to the initial setting using a light band centered at 660 nm. While maintaining this spectrophotometer adjustment, take the readings of the calibration solutions followed by the samples.
 12.0 Data Analysis and Calculations
 Same as in Method 108A, Section 12.0.
@@ -1550,7 +1510,7 @@ Same as in Method 108A, Section 12.0.
 15.0 Waste Management. [Reserved]
 16.0 References
 1. Ringwald, D. Arsenic Determination on Process Materials from ASARCO's Copper Smelter in Tacoma, Washington. Unpublished Report. Prepared for the Emission Measurement Branch, Technical Support Division, U.S. Environmental Protection Agency, Research Triangle Park, North Carolina. August 1980. 35 pp.
-17.0 Tables, Diagrams, Flowcharts, and Validation Data ER17OC00.525
+17.0 Tables, Diagrams, Flowcharts, and Validation Data
 Method 111—Determination of Polonium-210 Emissions From Stationary Sources
 Note: This method does not include all of the specifications (e.g., equipment and supplies) and procedures (e.g., sampling and analytical) essential to its performance. Some material is incorporated by reference from methods in appendix A to 40 CFR part 60. Therefore, to obtain reliable results, persons using this method should have a thorough knowledge of at least the following additional test methods: Method 1, Method 2, Method 3, and Method 5.
 1.0 Scope and Application
@@ -1568,8 +1528,8 @@ A particulate matter sample, collected according to Method 5, is analyzed for po
 5.2 Corrosive Reagents. The following reagents are hazardous. Personal protective equipment and safe procedures are useful in preventing chemical splashes. If contact occurs, immediately flush with copious amounts of water at least 15 minutes. Remove clothing under shower and decontaminate. Treat residual chemical burns as thermal burns.
 5.2.1 Hydrochloric Acid (HCl). Highly corrosive liquid with toxic vapors. Vapors are highly irritating to eyes, skin, nose, and lungs, causing severe damage. May cause bronchitis, pneumonia, or edema of lungs. Exposure to concentrations of 0.13 to 0.2 percent can be lethal to humans in a few minutes. Provide ventilation to limit exposure. Reacts with metals, producing hydrogen gas.
 5.2.2 Hydrofluoric Acid (HF). Highly corrosive to eyes, skin, nose, throat, and lungs. Reaction to exposure may be delayed by 24 hours or more. Provide ventilation to limit exposure.
-5.2.3 Nitric Acid (HNO 3). Highly corrosive to eyes, skin, nose, and lungs. Vapors cause bronchitis, pneumonia, or edema of lungs. Reaction to inhalation may be delayed as long as 30 hours and still be fatal. Provide ventilation to limit exposure. Strong oxidizer. Hazardous reaction may occur with organic materials such as solvents.
-5.2.4 Perchloric Acid (HClO 4). Corrosive to eyes, skin, nose, and throat. Provide ventilation to limit exposure. Keep separate from water and oxidizable materials to prevent vigorous evolution of heat, spontaneous combustion, or explosion. Heat solutions containing HClO 4 only in hoods specifically designed for HClO 4.
+5.2.3 Nitric Acid (HNO3). Highly corrosive to eyes, skin, nose, and lungs. Vapors cause bronchitis, pneumonia, or edema of lungs. Reaction to inhalation may be delayed as long as 30 hours and still be fatal. Provide ventilation to limit exposure. Strong oxidizer. Hazardous reaction may occur with organic materials such as solvents.
+5.2.4 Perchloric Acid (HClO4). Corrosive to eyes, skin, nose, and throat. Provide ventilation to limit exposure. Keep separate from water and oxidizable materials to prevent vigorous evolution of heat, spontaneous combustion, or explosion. Heat solutions containing HClO4 only in hoods specifically designed for HClO4.
 6.0 Equipment and Supplies
 6.1 Alpha Spectrometry System. Consisting of a multichannel analyzer, biasing electronics, silicon surface barrier detector, vacuum pump and chamber.
 6.2 Constant Temperature Bath at 85 °C (185 °F).
@@ -1593,14 +1553,14 @@ A particulate matter sample, collected according to Method 5, is analyzed for po
 7.0 Reagents and Standards
 Unless otherwise indicated, it is intended that all reagents conform to the specifications established by the Committee on Analytical Reagents of the American Chemical Society, where such specifications are available; otherwise, use the best available grade.
 7.1 Ascorbic Acid.
-7.2 Ammonium Hydroxide (NH 4 OH), 15 M.
+7.2 Ammonium Hydroxide (NH4OH), 15 M.
 7.3 Water. Deionized distilled, to conform to ASTM D 1193-77 or 91 (incorporated by reference—see § 61.18), Type 3. Use in all dilutions requiring water.
-7.4 Ethanol (C 2 H 5 OH), 95 percent.
+7.4 Ethanol (C2H5OH), 95 percent.
 7.5 Hydrochloric Acid, 12 M.
 7.6 Hydrochloric Acid, 1 M. Dilute 83 ml of the 12 M HCl to 1 liter with distilled water.
 7.7 Hydrofluoric Acid, 29 M.
 7.8 Hydrofluoric Acid, 3 M. Dilute 52 ml of the 29 M HF to 500 ml with distilled water. Use a plastic graduated cylinder and storage bottle.
-7.9 Lanthanum Carrier, 0.1 mg La +3 /ml. Dissolve 0.078 gram lanthanum nitrate, La(NO 3) 3 ·6H 2 O in 250 ml of 1 M HCl.
+7.9 Lanthanum Carrier, 0.1 mg La+3/ml. Dissolve 0.078 gram lanthanum nitrate, La(NO3)3·6H2O in 250 ml of 1 M HCl.
 7.10 Nitric Acid, 16 M.
 7.11 Perchloric Acid, 12 M.
 7.12 Polonium-209 Solution.
@@ -1618,14 +1578,14 @@ Section | Quality control measure | Effect
 11.1, 11.2 | Determination of procedure background and instrument background | Minimize background effects.
 10.0 Calibration and Standardization
 10.1 Standardization of Alpha Spectrometry System.
-10.1.1 Add a quantity of the actinide standard solution to a 100 ml volumetric flask so that the final concentration when diluted to a volume of 100 ml will be approximately 1 p Ci/ml.
-10.1.2 Add 10 ml of 16 M HNO 3 and dilute to 100 ml with water.
+10.1.1 Add a quantity of the actinide standard solution to a 100 ml volumetric flask so that the final concentration when diluted to a volume of 100 ml will be approximately 1 pCi/ml.
+10.1.2 Add 10 ml of 16 M HNO3 and dilute to 100 ml with water.
 10.1.3 Add 20 ml of 1 M HCl to each of six 150 ml beakers. Add 1.0 ml of lanthanum carrier, 0.1 mg lanthanum per ml, to the acid solution in each beaker.
 10.1.4 Add 1.0 ml of the 1 pCi/ml working solution (from Section 10.1.1) to each beaker. Add 5.0 ml of 3 M HF to each beaker.
 10.1.5 Cover beakers and allow solutions to stand for a minimum of 30 minutes. Filter the contents of each beaker through a separate filter membrane using the suction filter apparatus. After each filtration, wash the filter membrane with 10 ml of distilled water and 5 ml of ethanol, and allow the filter membrane to air dry on the filter apparatus.
 10.1.6 Carefully remove the filter membrane and mount it, filtration side up, with double-side tape on the inner surface of a planchet. Place planchet in an alpha spectrometry system and count each planchet for 1000 minutes.
 10.1.7 Calculate the counting efficiency of the detector for each aliquot of the 1 pCi/ml actinide working solution using Eq. 111-1 in Section 12.2.
-10.1.8 Determine the average counting efficiency of the detector, E c, by calculating the average of the six determinations.
+10.1.8 Determine the average counting efficiency of the detector, Ec, by calculating the average of the six determinations.
 10.2 Preparation of Standardized Solution of Polonium-209.
 10.2.1 Add a quantity of the Po-209 solution to a 100 ml volumetric flask so that the final concentration when diluted to a 100 ml volume will be approximately 1 pCi/ml.
 10.2.2 Follow the procedures outlined in Sections 10.1.2 through 10.1.6, except substitute 1.0 ml of polonium-209 tracer solution (Section 10.2.1) and 3.0 ml of 15 M ammonium hydroxide for the 1 pCi/ml actinide working solution and the 3 M HF, respectively.
@@ -1635,7 +1595,7 @@ Section | Quality control measure | Effect
 10.3.1 Add a quantity of the actinide standard solution to a 100 ml volumetric flask so that the final concentration when diluted to a 100 ml volume will be approximately 100 pCi/ml.
 10.3.2 Follow the procedures outlined in Sections 10.1.2 through 10.1.6, except substitute the 100 pCi/ml actinide working solution for the 1 pCi/ml solution, place the planchet in an internal proportional counter (instead of an alpha spectrometry system), and count for 100 minutes (instead of 1000 minutes).
 10.3.3 Calculate the counting efficiency of the internal proportional counter for each aliquot of the 100 pCi/ml actinide working solution using Eq. 111-3 in 12.4.
-10.3.4 Determine the average counting efficiency of the internal proportional counter, E I, by averaging the results of the six determinations.
+10.3.4 Determine the average counting efficiency of the internal proportional counter, EI, by averaging the results of the six determinations.
 11.0 Analytical Procedure
 Note: Perform duplicate analyses of all samples, including background counts and Method 5 samples. Duplicate measurements are considered acceptable when the difference between them is less than two standard deviations as described in EPA 600/4-77-001 or subsequent revisions.
 11.1 Determination of Procedure Background. Background counts used in all equations are determined by performing the specific analysis required using the analytical reagents only. All procedure background counts and sample counts for the internal proportional counter should utilize a counting time of 100 minutes; for the alpha spectrometry system, 1000 minutes. These background counts should be performed no less frequently than once per 10 sample analyses.
@@ -1643,13 +1603,13 @@ Note: Perform duplicate analyses of all samples, including background counts and
 11.4 Sample Preparation. Treat the Method 5 samples [i.e., the glass fiber filter (Container No. 1) and the acetone rinse (Container No. 2)] as follows:
 11.4.1 Container No. 1. Transfer the filter and any loose particulate matter from the sample container to a 150-ml Teflon beaker.
 11.4.2 Container No. 2. Note the level of liquid in the container, and confirm on the analysis sheet whether leakage occurred during transport. If a noticeable amount of leakage has occurred, either void the sample or use methods, subject to the approval of the Administrator, to correct the final results. Transfer the contents to a 400-ml glass beaker. Add polonium-209 tracer solution to the glass beaker in an amount approximately equal to the amount of polonium-210 expected in the total particulate sample. Record the activity of the tracer solution added. Add 16 M nitric acid to the beaker to digest and loosen the residue.
-11.4.3 Transfer the contents of the glass beaker to the Teflon beaker containing the glass fiber filter. Rinse the glass beaker with 16 M HNO 3. If necessary, reduce the volume in the beaker by evaporation until all of the nitric acid HNO 3 from the glass beaker has been transferred to the Teflon beaker.
+11.4.3 Transfer the contents of the glass beaker to the Teflon beaker containing the glass fiber filter. Rinse the glass beaker with 16 M HNO3. If necessary, reduce the volume in the beaker by evaporation until all of the nitric acid HNO3 from the glass beaker has been transferred to the Teflon beaker.
 11.4.4 Add 30 ml of 29 M HF to the Teflon beaker and evaporate to near dryness on a hot plate in a properly operating hood.
 Note: Do not allow the residue to go to dryness and overheat; this will result in loss of polonium.
 11.4.5 Repeat step 11.4.4 until the filter is dissolved.
-11.4.6 Add 100 ml of 16 M HNO 3 to the residue in the Teflon beaker and evaporate to near dryness.
+11.4.6 Add 100 ml of 16 M HNO3 to the residue in the Teflon beaker and evaporate to near dryness.
 Note: Do not allow the residue to go to dryness.
-11.4.7 Add 50 ml of 16 M HNO 3 and 10 ml of 12 M perchloric acid to the Teflon beaker and heat until dense fumes of perchloric acid are evolved.
+11.4.7 Add 50 ml of 16 M HNO3 and 10 ml of 12 M perchloric acid to the Teflon beaker and heat until dense fumes of perchloric acid are evolved.
 11.4.8 Repeat steps 11.4.4 to 11.4.7 as necessary until sample is completely dissolved.
 11.4.9 Add 10 ml of 12 M HCl to the Teflon beaker and evaporate to dryness. Repeat additions and evaporations several times.
 11.4.10 Transfer the sample to a 250-ml volumetric flask and dilute to volume with 3 M HCl.
@@ -1673,75 +1633,66 @@ Note: Aliquot volume may require a larger container.
 12.0 Data Analysis and Calculations.
 12.1 Nomenclature.
 A = Picocuries of polonium-210 in the Method 5 sample (from Section 12.8).
-A A = Picocuries of actinide added.
-A L = Volume of sample aliquot used, in ml (specified in Section 11.5.1 as 1 ml).
-A S = Aliquot to be analyzed, in ml.
-B B = Procedure background counts measured in polonium-209 spectral region.
-B T = Polonium-209 tracer counts in sample.
-C T = Total counts in polonium-210 spectral region.
-D = Decay correction for time "t" (in days) from sample collection to sample counting, given by: D = e −0.005t
-E C = Average counting efficiency of detector (from Section 10.1.8), as counts per disintegration.
-E Ci = Counting efficiency of the detector for aliquot i of the actinide working solution, counts per disintegration.
-E I = Average counting efficiency of the internal proportional counter, as determined in Section 10.3.4, counts per disintegration.
-E Ii = Counting efficiency of the internal proportional counter for aliquot i of the 100 pCi/ml actinide working solution, counts per disintegration.
-E Y = The fraction of polonium-209 recovered on the planchet (from Section 12.7).
+AA = Picocuries of actinide added.
+AL = Volume of sample aliquot used, in ml (specified in Section 11.5.1 as 1 ml).
+AS = Aliquot to be analyzed, in ml.
+BB = Procedure background counts measured in polonium-209 spectral region.
+BT = Polonium-209 tracer counts in sample.
+CT = Total counts in polonium-210 spectral region.
+D = Decay correction for time "t" (in days) from sample collection to sample counting, given by: D = e−0.005t
+EC = Average counting efficiency of detector (from Section 10.1.8), as counts per disintegration.
+ECi = Counting efficiency of the detector for aliquot i of the actinide working solution, counts per disintegration.
+EI = Average counting efficiency of the internal proportional counter, as determined in Section 10.3.4, counts per disintegration.
+EIi = Counting efficiency of the internal proportional counter for aliquot i of the 100 pCi/ml actinide working solution, counts per disintegration.
+EY = The fraction of polonium-209 recovered on the planchet (from Section 12.7).
 F= Average activity of polonium-209 in sample (from Section 10.2.4), in pCi.
-F i = activity of aliquot i of the polonium-209 tracer solution, in pCi.
+Fi = activity of aliquot i of the polonium-209 tracer solution, in pCi.
 L = Dilution factor (unitless). This is the volume of sample solution prepared (specified as 250 ml in Section 11.1.10) divided by the volume of the aliquot of sample solution analyzed for polonium-210 (from Section 11.7.1).
-M i = Phosphorous rock processing rate of the source being tested, during run i, Mg/hr.
-M k = Phosphate rock processed annually by source k, in Mg/yr.
+Mi = Phosphorous rock processing rate of the source being tested, during run i, Mg/hr.
+Mk = Phosphate rock processed annually by source k, in Mg/yr.
 n = Number of calciners at the elemental phosphorus plant.
 P = Total activity of sample solution from Section 11.4.10, in pCi (see Eq. 111-4).
-Q sd = Volumetric flow rate of effluent stream, as determined by Method 2, in dscm/hr.
+Qsd = Volumetric flow rate of effluent stream, as determined by Method 2, in dscm/hr.
 S = Annual polonium-210 emissions from the entire facility, in curies/yr.
-V m(std) = Volume of air sample, as determined by Method 5, in dscm.
-X k = Emission rate from source k, from Section 12.10, in curies/Mg.
-10 −12 = Curies per picocurie.
+Vm(std) = Volume of air sample, as determined by Method 5, in dscm.
+Xk = Emission rate from source k, from Section 12.10, in curies/Mg.
+10−12 = Curies per picocurie.
 2.22 = Disintegrations per minute per picocurie.
 250 = Volume of solution from Section 11.4.10, in ml.
 12.2 Counting Efficiency. Calculate the counting efficiency of the detector for each aliquot of the 1 pCi/ml actinide working solution using Eq. 111-1.
-ER17OC00.526
 Where:
-C B = Background counts in same peak area as C S.
-C S = Gross counts in actinide peak.
+CB = Background counts in same peak area as CS.
+CS = Gross counts in actinide peak.
 T = Counting time in minutes, specified in Section 10.1.6 as 1000 minutes.
 12.3 Polonium-209 Tracer Solution Activity. Calculate the activity of each aliquot of the polonium-209 tracer solution using Eq. 111-2.
-ER17OC00.527
 Where:
-C B = Background counts in the 4.88 MeV region of spectrum the in the counting time T.
-C S = Gross counts of polonium-209 in the 4.88 MeV region of the spectrum in the counting time T.
+CB = Background counts in the 4.88 MeV region of spectrum the in the counting time T.
+CS = Gross counts of polonium-209 in the 4.88 MeV region of the spectrum in the counting time T.
 T = Counting time, specified in Section 10.1.6 as 1000 minutes.
 12.4 Control Efficiency of Internal Proportional Counter. Calculate the counting efficiency of the internal proportional counter for each aliquot of the 100 pCi/ml actinide working solution using Eq. 111-3.
-ER17OC00.528
 Where:
-C B = Gross counts of procedure background.
-C S = Gross counts of standard.
+CB = Gross counts of procedure background.
+CS = Gross counts of standard.
 T = Counting time in minutes, specified in Section 10.3.2 as 100 minutes.
 12.5 Calculate the activity of the sample using Eq. 111-4.
-ER17OC00.529
 Where:
-C B = Total counts of procedure background. (See Section 11.1).
-C S = Total counts of screening sample.
+CB = Total counts of procedure background. (See Section 11.1).
+CS = Total counts of screening sample.
 T = Counting time for sample and background (which must be equal), in minutes (specified in Section 11.5.3 as 100 minutes).
 12.6 Aliquot Volume. Determine the aliquot volume of the sample solution from Section 11.4.10 to be analyzed for polonium-210, such that the aliquot contains an activity between 1 and 4 picocuries using Eq. 111-5.
-ER17OC00.530
-12.7 Polonium-209 Recovery. Calculate the fraction of polonium-209 recovered on the planchet, E Y, using Eq. 111-6.
-ER17OC00.531
+12.7 Polonium-209 Recovery. Calculate the fraction of polonium-209 recovered on the planchet, EY, using Eq. 111-6.
 Where:
 T = Counting time, specified in Section 11.1 as 1000 minutes.
 12.8 Polonium-210 Activity. Calculate the activity of polonium-210 in the Method 5 sample (including glass fiber filter and acetone rinse) using Eq. 111-7.
-ER17OC00.532
 Where:
-C B = Procedure background counts in polonium-210 spectral region.
+CB = Procedure background counts in polonium-210 spectral region.
 T = Counting time, specified in Section 11.1 as 1000 minutes for all alpha spectrometry sample and background counts.
 12.9 Emission Rate from Each Stack.
-12.9.1 For each test run, i, on a stack, calculate the measured polonium-210 emission rate, R Si, using Eq. 111-8.
-ER17OC00.533
-12.9.2 Determine the average polonium-210 emission rate from the stack, R S, by taking the sum of the measured emission rates for all runs, and dividing by the number of runs performed.
+12.9.1 For each test run, i, on a stack, calculate the measured polonium-210 emission rate, RSi, using Eq. 111-8.
+12.9.2 Determine the average polonium-210 emission rate from the stack, RS, by taking the sum of the measured emission rates for all runs, and dividing by the number of runs performed.
 12.9.3 Repeat steps 12.9.1 and 12.9.2 for each stack of each calciner.
-12.10 Emission Rate from Each Source. Determine the total polonium-210 emission rate, X k, from each source, k, by taking the sum of the average emission rates from all stacks to which the source exhausts.
+12.10 Emission Rate from Each Source. Determine the total polonium-210 emission rate, Xk, from each source, k, by taking the sum of the average emission rates from all stacks to which the source exhausts.
 12.11 Annual Polonium-210 Emission Rate from Entire Facility. Determine the annual elemental phosphorus plant emissions of polonium-210, S, using Eq. 111-9.
-ER17OC00.534
 13.0 Method Performance. [Reserved]
 14.0 Pollution Prevention. [Reserved]
 15.0 Waste Management. [Reserved]
@@ -1860,7 +1811,7 @@ Cs-137 | G-1, G-2, G-3, G-4
 Fe-55 | B-5, G-1
 Fe-59 | G-1, G-2, G-3, G-4
 Ga-67 | G-1, G-2, G-3, G-4
-H-3 (H 2 O) | B-5
+H-3 (H2O) | B-5
 H-3 (gas) | B-1
 I-123 | G-1, G-2, G-3, G-4
 I-125 | G-1
@@ -1961,24 +1912,23 @@ This appendix describes the monitoring methods which must be used in determining
 (a) The radon-222 concentration shall be continuously measured at each mine vent whenever the mine ventilation system is operational.
 (b) Each mine vent exhaust flow rate shall be measured at least 4 times per year.
 (c) A weekly radon-222 emission rate for the mine shall be calculated and recorded weekly as follows:
-A w = C 1 Q 1 T 1 + C 2 Q 2 T 2 +... C i Q i T i
+Aw= C1Q1T1 + C2Q2T2 +... CiQiTi
 Where:
-A w = Total radon-222 emitted from the mine during week (Ci)
-C i = Average radon-222 concentration in mine vent i(Ci/m 3)
-Q i = Volumetric flow rate from mine vent i(m 3 /hr)
-T i = Hours of mine ventilation system operation during week for mine vent i(hr)
+Aw = Total radon-222 emitted from the mine during week (Ci)
+Ci = Average radon-222 concentration in mine vent i(Ci/m 3)
+Qi = Volumetric flow rate from mine vent i(m 3/hr)
+Ti = Hours of mine ventilation system operation during week for mine vent i(hr)
 (d) The annual radon-222 emission rate is the sum of the weekly emission rates during a calendar year.
 1.1.2 Periodic Measurement. This method is applicable only to mines that continuously operate their ventilation system except for extended shutdowns. Mines which start up and shut down their ventilation system frequently must use the continuous measurement method describe in Section 1.1.1 above. Emission rates determined using periodic measurements shall be measured and calculated as follows:
 (a) The radon-222 shall be continuously measured at each mine vent for at least one week every three months.
 (b) Each mine vent exhaust flow rate shall be measured at least once during each of the radon-222 measurement periods.
 (c) A weekly radon-222 emission rate shall be calculated for each weekly period according to the method described in Section 1.1.1. In this calculation T = 168 hr.
 (d) The annual radon-222 emission rate from the mine should be calculated as follows:
-EC15NO91.090
 Where:
-A y = Annual radon-222 emission rate from the mine(Ci)
-A wi = Weekly radon-222 emission rate during the measurement period i (Ci)
+Ay = Annual radon-222 emission rate from the mine(Ci)
+Awi = Weekly radon-222 emission rate during the measurement period i (Ci)
 n = Number of weekly measurement periods per year
-W s = Number of weeks during the year that the mine ventilation system is shut down in excess of 7 consecutive days, i.e. the sum of the number of weeks each shut down exceeds 7 days
+Ws = Number of weeks during the year that the mine ventilation system is shut down in excess of 7 consecutive days, i.e. the sum of the number of weeks each shut down exceeds 7 days
 1.2 Test Methods and Procedures
 Each underground mine required to test its emissions, unless an equivalent or alternative method has been approved by the Administrator, shall use the following test methods:
 1.2.1 Test Method 1 of appendix A to part 60 shall be used to determine velocity traverses. The sampling point in the duct shall be either the centroid of the cross section or the point of average velocity.
@@ -2009,12 +1959,11 @@ For a mill tailings pile after disposal which consists of only one region a mini
 2.1.7 Calculations. The mean radon flux for each region of the pile and for the total pile shall be calculated and reported as follows:
 (a) The individual radon flux calculations shall be made as provided in appendix A EPA 86 (1). The mean radon flux for each region of the pile shall be calculated by summing all individual flux measurements for the region and dividing by the total number of flux measurements for the region.
 (b) The mean radon flux for the total uranium mill tailings pile shall be calculated as follows.
-EC15NO91.091
 Where:
-J s = Mean flux for the total pile (pCi/m 2 -s)
-J i = Mean flux measured in region i (pCi/m 2 -s)
-A i = Area of region i (m 2)
-A t = Total area of the pile (m 2)
+Js = Mean flux for the total pile (pCi/m 2-s)
+Ji = Mean flux measured in region i (pCi/m 2-s)
+Ai = Area of region i (m 2)
+At = Total area of the pile (m 2)
 2.1.8 Reporting. The results of individual flux measurements, the approximate locations on the pile, and the mean radon flux for each region and the mean radon flux for the total stack shall be included in the emission test report. Any condition or unusual event that occurred during the measurements that could significantly affect the results should be reported.
 3.0 Radon-222 Emissions from Phosphogypsum Stacks.
 3.1 Measurement and Calculation of the Mean Radon Flux. Radon flux measurements shall be made on phosphogypsum stacks as described below:
@@ -2041,12 +1990,11 @@ A minimum of 300 measurements are required. A stack that has no water cover can 
 3.1.7 Calculations. The mean radon flux for each region of the phosphogypsum stack and for the total stack shall be calculated and reported as follows:
 (a) The individual radon flux calculations shall be made as provided in appendix A EPA 86 (1). The mean radon flux for each region of the stack shall be calculated by summing all individual flux measurements for the region and dividing by the total number of flux measurements for the region.
 (b) The mean radon flux for the total phosphogypsum stack shall be calculated as follows.
-EC15NO91.092
 Where:
-J s = Mean flux for the total stack (pCi/m 2 -s)
-J i = Mean flux measured in region i (pCi/m 2 -s)
-A i = Area of region i (m 2)
-A t = Total area of the stack
+Js = Mean flux for the total stack (pCi/m 2-s)
+Ji = Mean flux measured in region i (pCi/m 2-s)
+Ai = Area of region i (m 2)
+At = Total area of the stack
 3.1.8 Reporting. The results of individual flux measurements, the approximate locations on the stack, and the mean radon flux for each region and the mean radon flux for the total stack shall be included in the emission test report. Any condition or unusual event that occurred during the measurements that could significantly affect the results should be reported.
 4.0 Quality Assurance Procedures for Measuring Rn-222 Flux
 A. Sampling Procedures
@@ -2066,7 +2014,7 @@ The radioactivity of two standard charcoal sources, each containing a carefully 
 D. Internal Quality Control Checks and Frequency
 The charcoal from every tenth exposed canister shall be recounted. Five percent of the samples analyzed shall be either blanks (charcoal having no radioactivity added) or samples spiked with known quantities of radium-226.
 E. Data Precision, Accuracy, and Completeness
-The precision, accuracy, and completeness of measurements and analyses shall be within the following limits for samples measuring greater than 1.0 pCi/m 2 −s.
+The precision, accuracy, and completeness of measurements and analyses shall be within the following limits for samples measuring greater than 1.0 pCi/m 2−s.
 (a) Precision: 10%
 (b) Accuracy: ±10%
 (c) Completeness: at least 85% of the measurements must yield useable results.
