@@ -28,15 +28,3 @@ The following standards are established in accordance with section 402(f)(1)(D) 
 (iv) A calibration check shall be performed on the instrument each day before use, using a volume source of at least three liters, accurate to within ±1 percent of full scale. The volume calibration shall be performed in accordance with the method described in paragraph (1)(vii) of this Appendix. Accuracy of the time measurement used in determining the FEV1 shall be checked using the manufacturer's stated procedure and shall be within ±3 percent of actual. The procedure described in the Appendix shall be performed as well as any other procedures suggested by the manufacturer of the spirometer being used.
 (v)(A) The first step in evaluating a spirogram for the FVC and FEV1 shall be to determine whether or not the patient has performed the test properly or as described in (2)(ii) of this Appendix. The largest recorded FVC and FEV1, corrected to BTPS, shall be used in the analysis.
 (B) Only MVV maneuvers which demonstrate consistent effort for at least 12 seconds shall be considered acceptable. The largest accumulated volume for a 12 second period corrected to BTPS and multiplied by five or the largest accumulated volume for a 15 second period corrected to BTPS and multiplied by four is to be reported as the MVV.
-EC05OC91.000
-EC05OC91.001
-EC05OC91.002
-EC05OC91.003
-EC05OC91.004
-EC05OC91.005
-EC05OC91.006
-EC05OC91.007
-EC05OC91.008
-EC05OC91.009
-EC05OC91.010
-EC05OC91.011
