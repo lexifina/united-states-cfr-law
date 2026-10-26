@@ -1,5 +1,4 @@
 # Appendix D to Subpart A of Part 230—Federal-Aid Highway Construction Summary of Employment Data (Form PR-1392)
-EC14OC91.001
 General Information and Instructions
 This form is to be developed from the "Contractor's Annual EEO Report." This data is to be compiled by the State and submitted annually. It should reflect the total employment on all Federal-Aid Highway Projects in the State as of July 31st. The staffing figures to be reported should represent the project work force on board in all or any part of the last payroll period preceding the end of July. The staffing figures to be reported in Table A should include journey-level men and women, apprentices, and on-the-job trainees. Staffing figures to be reported in Table B should include only apprentices and on-the-job trainees as indicated.
 Entries made for "Job Categories" are to be confined to the listing shown. Miscellaneous job classifications are to be incorporated in the most appropriate category listed on the form. All employees on projects should thus be accounted for.
