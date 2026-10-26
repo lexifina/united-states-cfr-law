@@ -29,11 +29,11 @@ Some of these services may not be available at all terminals.
 (2) Electronic check conversion. You may authorize a merchant or other payee to make a one-time electronic payment from your checking account using information from your check to:
 (i) Pay for purchases.
 (ii) Pay bills.
-(3) Limitations on frequency of transfers—(i) You may make only [insert number, e.g., 3] cash withdrawals from our terminals each [insert time period, e.g., week].
+(3) Limitations on frequency of transfers. (i) You may make only [insert number, e.g., 3] cash withdrawals from our terminals each [insert time period, e.g., week].
 (ii) You can use your telephone bill-payment service to pay [insert number] bills each [insert time period] [telephone call].
 (iii) You can use our point-of-sale transfer service for [insert number] transactions each [insert time period].
 (iv) For security reasons, there are limits on the number of transfers you can make using our [terminals] [telephone bill-payment service] [point-of-sale transfer service].
-(4) Limitations on dollar amounts of transfers—(i) You may withdraw up to [insert dollar amount] from our terminals each [insert time period] time you use the [card] [code].
+(4) Limitations on dollar amounts of transfers. (i) You may withdraw up to [insert dollar amount] from our terminals each [insert time period] time you use the [card] [code].
 (ii) You may buy up to [insert dollar amount] worth of goods or services each [insert time period] time you use the [card] [code] in our point-of-sale transfer service.
 (e) Fees (§ 205.7(b)(5))—(1) Per transfer charge. We will charge you [insert dollar amount] for each transfer you make using our [automated teller machines] [telephone bill-payment service] [point-of-sale transfer service].
 (2) Fixed charge. We will charge you [insert dollar amount] each [insert time period] for our [automated teller machine service] [telephone bill-payment service] [point-of-sale transfer service].
@@ -117,6 +117,5 @@ We will tell you the results within three business days after completing our inv
 You may ask for copies of the documents that we used in our investigation.
 If you need more information about our error-resolution procedures, call us at [telephone number] [the telephone number shown above] [or visit [Internet address]].
 A-8 Model Clause for Electronic Collection of Returned Item Fees (§ 205.3(b)(3))
-If your payment is returned unpaid, you authorize [us/ name of person collecting the fee electronically] to make a one-time electronic fund transfer from your account to collect a fee of [$__]. [If your payment is returned unpaid, you authorize [us/ name of person collecting the fee electronically] to make a one-time electronic fund transfer from your account to collect a fee. The fee will be determined [by]/ [as follows]: [________].]
+If your payment is returned unpaid, you authorize [us/ name of person collecting the fee electronically] to make a one-time electronic fund transfer from your account to collect a fee of [$____]. [If your payment is returned unpaid, you authorize [us/ name of person collecting the fee electronically] to make a one-time electronic fund transfer from your account to collect a fee. The fee will be determined [by]/ [as follows]: [________________].]
 A-9 Model Consent Form for Overdraft Services (§ 205.17)
-ER17NO09.010
