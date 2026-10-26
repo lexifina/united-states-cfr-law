@@ -43,53 +43,38 @@ Sec. A150.101 Noise contours and land usages.
 (3) The Ldn 70 dB noise contour and data related to Ldn 70 dB contour. When determinations on land use compatibility using Table 1 differ between Ldn 65-70 dB and the Ldn 70-75 dB, determinations should either use the more conservative Ldn 70-75 dB column or reflect determinations based on local needs and values.
 (4) Estimates of the number of people residing within the Ldn 65, 70, and 75 dB contours.
 Table 1—Land Use Compatibility* With Yearly Day-Night Average Sound Levels
-Land use | Yearly day-night average sound level (Ldn) in decibels | Below 65 | 65-70 | 70-75 | 75-80 | 80-85 | Over 85
-Residential
+Land use | Yearly day-night average sound level (Ldn) in decibels
+Below 65 | 65-70 | 70-75 | 75-80 | 80-85 | Over 85
+Residential | | | | | |
 Residential, other than mobile homes and transient lodgings | Y | N(1) | N(1) | N | N | N
 Mobile home parks | Y | N | N | N | N | N
 Transient lodgings | Y | N(1) | N(1) | N(1) | N | N
-Public Use
+Public Use | | | | | |
 Schools | Y | N(1) | N(1) | N | N | N
 Hospitals and nursing homes | Y | 25 | 30 | N | N | N
 Churches, auditoriums, and concert halls | Y | 25 | 30 | N | N | N
 Governmental services | Y | Y | 25 | 30 | N | N
 Transportation | Y | Y | Y(2) | Y(3) | Y(4) | Y(4)
 Parking | Y | Y | Y(2) | Y(3) | Y(4) | N
-Commercial Use
+Commercial Use | | | | | |
 Offices, business and professional | Y | Y | 25 | 30 | N | N
 Wholesale and retail—building materials, hardware and farm equipment | Y | Y | Y(2) | Y(3) | Y(4) | N
 Retail trade—general | Y | Y | 25 | 30 | N | N
 Utilities | Y | Y | Y(2) | Y(3) | Y(4) | N
 Communication | Y | Y | 25 | 30 | N | N
-Manufacturing and Production
+Manufacturing and Production | | | | | |
 Manufacturing, general | Y | Y | Y(2) | Y(3) | Y(4) | N
 Photographic and optical | Y | Y | 25 | 30 | N | N
 Agriculture (except livestock) and forestry | Y | Y(6) | Y(7) | Y(8) | Y(8) | Y(8)
 Livestock farming and breeding | Y | Y(6) | Y(7) | N | N | N
 Mining and fishing, resource production and extraction | Y | Y | Y | Y | Y | Y
-Recreational
+Recreational | | | | | |
 Outdoor sports arenas and spectator sports | Y | Y(5) | Y(5) | N | N | N
 Outdoor music shells, amphitheaters | Y | N | N | N | N | N
 Nature exhibits and zoos | Y | Y | N | N | N | N
 Amusements, parks, resorts and camps | Y | Y | Y | N | N | N
 Golf courses, riding stables and water recreation | Y | Y | 25 | 30 | N | N
-Numbers in parentheses refer to notes.
-*The designations contained in this table do not constitute a Federal determination that any use of land covered by the program is acceptable or unacceptable under Federal, State, or local law. The responsibility for determining the acceptable and permissible land uses and the relationship between specific properties and specific noise contours rests with the local authorities. FAA determinations under part 150 are not intended to substitute federally determined land uses for those determined to be appropriate by local authorities in response to locally determined needs and values in achieving noise compatible land uses.
-Key to Table 1
-SLUCM = Standard Land Use Coding Manual.
-Y (Yes) = Land Use and related structures compatible without restrictions.
-N (No) = Land Use and related structures are not compatible and should be prohibited.
-NLR = Noise Level Reduction (outdoor to indoor) to be achieved through incorporation of noise attenuation into the design and construction of the structure.
-25, 30, or 35 = Land use and related structures generally compatible; measures to achieve NLR of 25, 30, or 35 dB must be incorporated into design and construction of structure.
-Notes for Table 1
-(1) Where the community determines that residential or school uses must be allowed, measures to achieve outdoor to indoor Noise Level Reduction (NLR) of at least 25 dB and 30 dB should be incorporated into building codes and be considered in individual approvals. Normal residential construction can be expected to provide a NLR of 20 dB, thus, the reduction requirements are often stated as 5, 10 or 15 dB over standard construction and normally assume mechanical ventilation and closed windows year round. However, the use of NLR criteria will not eliminate outdoor noise problems.
-(2) Measures to achieve NLR 25 dB must be incorporated into the design and construction of portions of these buildings where the public is received, office areas, noise sensitive areas or where the normal noise level is low.
-(3) Measures to achieve NLR of 30 dB must be incorporated into the design and construction of portions of these buildings where the public is received, office areas, noise sensitive areas or where the normal noise level is low.
-(4) Measures to achieve NLR 35 dB must be incorporated into the design and construction of portions of these buildings where the public is received, office areas, noise sensitive areas or where the normal level is low.
-(5) Land use compatible provided special sound reinforcement systems are installed.
-(6) Residential buildings require an NLR of 25.
-(7) Residential buildings require an NLR of 30.
-(8) Residential buildings not permitted.
+Numbers in parentheses refer to notes. *The designations contained in this table do not constitute a Federal determination that any use of land covered by the program is acceptable or unacceptable under Federal, State, or local law. The responsibility for determining the acceptable and permissible land uses and the relationship between specific properties and specific noise contours rests with the local authorities. FAA determinations under part 150 are not intended to substitute federally determined land uses for those determined to be appropriate by local authorities in response to locally determined needs and values in achieving noise compatible land uses. Key to Table 1 SLUCM = Standard Land Use Coding Manual. Y (Yes) = Land Use and related structures compatible without restrictions. N (No) = Land Use and related structures are not compatible and should be prohibited. NLR = Noise Level Reduction (outdoor to indoor) to be achieved through incorporation of noise attenuation into the design and construction of the structure. 25, 30, or 35 = Land use and related structures generally compatible; measures to achieve NLR of 25, 30, or 35 dB must be incorporated into design and construction of structure. Notes for Table 1 (1) Where the community determines that residential or school uses must be allowed, measures to achieve outdoor to indoor Noise Level Reduction (NLR) of at least 25 dB and 30 dB should be incorporated into building codes and be considered in individual approvals. Normal residential construction can be expected to provide a NLR of 20 dB, thus, the reduction requirements are often stated as 5, 10 or 15 dB over standard construction and normally assume mechanical ventilation and closed windows year round. However, the use of NLR criteria will not eliminate outdoor noise problems. (2) Measures to achieve NLR 25 dB must be incorporated into the design and construction of portions of these buildings where the public is received, office areas, noise sensitive areas or where the normal noise level is low. (3) Measures to achieve NLR of 30 dB must be incorporated into the design and construction of portions of these buildings where the public is received, office areas, noise sensitive areas or where the normal noise level is low. (4) Measures to achieve NLR 35 dB must be incorporated into the design and construction of portions of these buildings where the public is received, office areas, noise sensitive areas or where the normal level is low. (5) Land use compatible provided special sound reinforcement systems are installed. (6) Residential buildings require an NLR of 25. (7) Residential buildings require an NLR of 30. (8) Residential buildings not permitted.
 Sec. A150.103 Use of computer prediction model.
 (a) The airport operator shall acquire the aviation operations data necessary to develop noise exposure contours using an FAA approved methodology or computer program, such as the Integrated Noise Model (INM) for airports or the Heliport Noise Model (HNM) for heliports. In considering approval of a methodology or computer program, key factors include the demonstrated capability to produce the required output and the public availability of the program or methodology to provide interested parties the opportunity to substantiate the results.
 (b) Except as provided in paragraph (c) of this section, the following information must be obtained for input to the calculation of noise exposure contours:
@@ -116,19 +101,14 @@ Yearly Day-Night Average Sound Level | Ldn
 Sound Exposure Level | LAE
 Sec. A150.205 Mathematical computations.
 (a) Average sound level must be computed in accordance with the following formula:
-EC15SE91.000
 where T is the length of the time period, in seconds, during which the average is taken; LA(t) is the instantaneous time varying A-weighted sound level during the time period T.
 Note: When a noise environment is caused by a number of identifiable noise events, such as aircraft flyovers, average sound level may be conveniently calculated from the sound exposure levels of the individual events occurring within a time period T:
-EC15SE91.001
 where LAEi is the sound exposure level of the i-th event, in a series of n events in time period T, in seconds.
 Note: When T is one hour, LT is referred to as one-hour average sound level. (b) Day-night average sound level (individual day) must be computed in accordance with the following formula:
-ER10FE03.003
 Time is in seconds, so the limits shown in hours and minutes are actually interpreted in seconds. It is often convenient to compute day-night average sound level from the one-hour average sound levels obtained during successive hours.
 (c) Yearly day-night average sound level must be computed in accordance with the following formula:
-EC15SE91.003
 where Ldni is the day-night average sound level for the i-th day out of one year.
 (d) Sound exposure level must be computed in accordance with the following formula:
-EC15SE91.004
 where to is one second and LA(t) is the time-varying A-weighted sound level in the time interval t1 to t2.
 The time interval should be sufficiently large that it encompasses all the significant sound of a designated event.
 The requisite integral may be approximated with sufficient accuracy by integrating LA(t) over the time interval during which LA(t) lies within 10 decibels of its maximum value, before and after the maximum occurs.
