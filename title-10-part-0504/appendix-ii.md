@@ -3,12 +3,10 @@
 The fuel price and inflation indices will change yearly with the publication of the AEO. Revisions shall become effective after final publication. However, the relevant set of parameters for a specific petition for exemption will be the set in effect at the time the petition is submitted or the set in effect at the time a decision is rendered, whichever is more favorable to the petitioner.
 (b) Computation of Fuel Price and Inflation Indices. (1) the Petitioner is responsible for computing the annual fuel price and inflation indices by using Equation II-1 and Equation II-2, respectively. The petitioner may compute the fuel price index specified in Equation II-1 or use his own price index. However, if he uses his own price index, the source or the derivation of the index must be fully documented and be contained in the evidential summary.
 EQ II-2 is:
-EC01OC91.007
 where:
 PXVi = The fuel price index for each fuel in year i. P i = Price of fuel in year i.
 P o = Price of fuel in base year.
 EQ II-2 is:
-EC01OC91.008
 where:
 IX i = The inflation index in year i.
 GX i = The NIPA GNP price deflator for year i.

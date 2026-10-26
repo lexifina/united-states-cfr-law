@@ -1,6 +1,5 @@
 # Appendix I to Part 504—Procedures for the Computation of the Real Cost of Capital
 (a) The firm's real after-tax weighted average marginal cost of capital (K) is computed with equation 1.
-EC01OC91.003
 The terms in equation 1 are defined as follows:
 Wd = Fraction of existing capital structure which is debt.
 Wp = Fraction of existing capital structure which is preferred equity.
@@ -23,13 +22,11 @@ R f = The risk free interest rate—the average of the most recent auction rates
 B = The "beta" coefficient—the relationship between the excess return on common stock and the excess return on the S&P 500 composite index, and
 R m = The mean excess return on the S&P 500 composite index—the mean of the difference between the return on the S&P 500 composite index and the risk free interest rate for the years 1926-1976 as computed by Ibbotson and Sinquefield(1)—9.2%
 (B) The "beta" coefficient is computed with regression analysis techniques. The regression equation is Equation 3.
-(R e t − R f t) = A + B(R m t − R f t) + e t
+(R et − R ft) = A + B(R mt − R ft) + e t
 Eq. 3
 where
-EC01OC91.004
 Rft = The risk free interest rate in month t—the average of the yields on 13-week treasury bills auctioned in month t.(2)
 A = A constant which should not be significantly different than zero.
-EC01OC91.005
 e t = The error in month t.
 PRCC t = Closing market prices of the firm's common stock at the end of month t fully adjusted for splits and stock dividends.
 DIVRATE t = The sum of the dividends paid in the fiscal year which contain month t.
@@ -47,7 +44,6 @@ Example of using alternate parameters that closely correspond to those above are
 Footnotes
 (1) Ibbotson, R.E. and R.A. Sinquefield, Stocks, Bonds, Bills, and Inflation, Charlottesville, Va.: The Financial Analysts Research Foundation, 1977, cited by Ernst & Whinney, Costs of Capital and Rates of Return for Industrial Firms and Class A&B Electric Utility Firms, June 1979, p. 3-8.
 (2) As an option, R f t can be developed with the following equation:
-EC01OC91.006
 where:
 D t = The average annual yield on three month U.S. Treasury bills reported in the Survey of Current Business auctioned in month t—which is reported using the bank discount method.
 N = Number of days to maturity.
