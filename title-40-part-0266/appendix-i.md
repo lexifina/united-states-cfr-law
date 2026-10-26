@@ -1,6 +1,5 @@
 # Appendix I to Part 266—Tier I and Tier II Feed Rate and Emissions Screening Limits for Metals
-Table I-A—Tier I and Tier II Feed Rate and Emissions Screening Limits for Noncarcinogenic Metals for Facilities in Noncomplex Terrain
-[Values for urban areas]
+Table I-A—Tier I and Tier II Feed Rate and Emissions Screening Limits for Noncarcinogenic Metals for Facilities in Noncomplex Terrain [Values for urban areas]
 Terrain adjusted eff. stack ht. (m) | Antimony (g/hr) | Barium (g/hr) | Lead (g/hr) | Mercury (g/hr) | Silver (g/hr) | Thallium (g/hr)
 4 | 6.0E + 01 | 1.0E + 04 | 1.8E + 01 | 6.0E + 01 | 6.0E + 02 | 6.0E + 01
 6 | 6.8E + 01 | 1.1E + 04 | 2.0E + 01 | 6.8E + 01 | 6.8E + 02 | 6.8E + 01
@@ -34,8 +33,7 @@ Terrain adjusted eff. stack ht. (m) | Antimony (g/hr) | Barium (g/hr) | Lead (g/
 110 | 4.6E + 03 | 7.8E + 05 | 1.4E + 03 | 4.6E + 03 | 4.6E + 04 | 4.6E + 03
 115 | 5.4E + 03 | 8.6E + 05 | 1.6E + 03 | 5.4E + 03 | 5.4E + 04 | 5.4E + 03
 120 | 6.0E + 03 | 1.0E + 06 | 1.8E + 03 | 6.0E + 03 | 6.0E + 04 | 6.0E + 03
-Table I-B—Tier i and Tier II Feed Rate and Emissions Screening Limits for Noncarcinogenic Metals for Facilities in Noncomplex Terrain
-[Values for rural areas]
+Table I-B—Tier i and Tier II Feed Rate and Emissions Screening Limits for Noncarcinogenic Metals for Facilities in Noncomplex Terrain [Values for rural areas]
 Terrain adjusted eff. stack ht. (m) | Antimony (g/hr) | Barium (g/hr) | Lead (g/hr) | Mercury (g/hr) | Silver (g/hr) | Thallium (g/hr)
 4 | 3.1E + 01 | 5.2E + 03 | 9.4E + 00 | 3.1E + 01 | 3.1E + 02 | 3.1E + 01
 6 | 3.6E + 01 | 6.0E + 03 | 1.1E + 01 | 3.6E + 01 | 3.6E + 02 | 3.6E + 01
@@ -70,7 +68,8 @@ Terrain adjusted eff. stack ht. (m) | Antimony (g/hr) | Barium (g/hr) | Lead (g/
 115 | 2.6E + 04 | 4.4E + 06 | 7.8E + 03 | 2.6E + 04 | 2.6E + 05 | 2.6E + 04
 120 | 3.1E + 04 | 5.0E + 06 | 9.2E + 03 | 3.1E + 04 | 3.1E + 05 | 3.1E + 04
 Table I-C—Tier I and Tier II Feed Rate and Emissions Screening Limits for Noncarcinogenic Metals for Facilities in Complex Terrain
-Values for urban and rural areas | Terrain adjusted eff. stack ht. (m) | Antimony (g/hr) | Barium (g/hr) | Lead (g/hr) | Mercury (g/hr) | Silver (g/hr) | Thallium (g/hr)
+Values for urban and rural areas
+Terrain adjusted eff. stack ht. (m) | Antimony (g/hr) | Barium (g/hr) | Lead (g/hr) | Mercury (g/hr) | Silver (g/hr) | Thallium (g/hr)
 4 | 1.4E + 01 | 2.4E + 03 | 4.3E + 00 | 1.4E + 01 | 1.4E + 02 | 1.4E + 01
 6 | 2.1E + 01 | 3.5E + 03 | 6.2E + 00 | 2.1E + 01 | 2.1E + 02 | 2.1E + 01
 8 | 3.0E + 01 | 5.0E + 03 | 9.2E + 00 | 3.0E + 01 | 3.0E + 02 | 3.0E + 01
@@ -104,7 +103,8 @@ Values for urban and rural areas | Terrain adjusted eff. stack ht. (m) | Antimon
 115 | 2.1E + 03 | 3.6E + 05 | 6.4E + 02 | 2.1E + 03 | 2.1E + 04 | 2.1E + 03
 120 | 2.4E + 03 | 4.0E + 05 | 7.2E + 02 | 2.4E + 03 | 2.4E + 04 | 2.4E + 03
 Table I-D—Tier I and Tier II Feed Rate and Emissions Screening Limits for Carcinogenic Metals for Facilities in Noncomplex Terrain
-Values for use in urban areas | Terrain adjusted eff. stack ht. (m) | Arsenic (g/hr) | Cadmium (g/hr) | Chromium (g/hr) | Beryllium (g/hr) | Values for use in rural areas | Arsenic (g/hr) | Cadmium (g/hr) | Chromium (g/hr) | Beryllium (g/hr)
+Values for use in urban areas | Values for use in rural areas
+Terrain adjusted eff. stack ht. (m) | Arsenic (g/hr) | Cadmium (g/hr) | Chromium (g/hr) | Beryllium (g/hr) | Arsenic (g/hr) | Cadmium (g/hr) | Chromium (g/hr) | Beryllium (g/hr)
 4 | 4.6E−01 | 1.1E + 00 | 1.7E−01 | 8.2E−01 | 2.4E−01 | 5.8E−01 | 8.6E−02 | 4.3E−01
 6 | 5.4E−01 | 1.3E + 00 | 1.9E−01 | 9.4E−01 | 2.8E−01 | 6.6E−01 | 1.0E−01 | 5.0E−01
 8 | 6.0E−01 | 1.4E + 00 | 2.2E−01 | 1.1E + 00 | 3.2E−01 | 7.6E−01 | 1.1E−01 | 5.6E−01
@@ -138,7 +138,8 @@ Values for use in urban areas | Terrain adjusted eff. stack ht. (m) | Arsenic (g
 115 | 4.0E + 01 | 9.6E + 01 | 1.5E + 01 | 7.2E + 01 | 2.0E + 02 | 4.8E + 02 | 7.2E + 01 | 3.6E + 02
 120 | 4.6E + 01 | 1.1E + 02 | 1.7E + 01 | 8.2E + 01 | 2.4E + 02 | 5.8E + 02 | 8.6E + 01 | 4.3E + 02
 Table I-E—Tier I and Tier II Feed Rate and Emissions Screening Limits for Carcinogenic Metals for Facilities in Complex Terrain
-Values for use in urban and rural areas | Terrain adjusted eff. stack ht. (m) | Arsenic (g/hr) | Cadmium (g/hr) | Chromium (g/hr) | Beryllium (g/hr)
+Values for use in urban and rural areas
+Terrain adjusted eff. stack ht. (m) | Arsenic (g/hr) | Cadmium (g/hr) | Chromium (g/hr) | Beryllium (g/hr)
 4 | 1.1E−01 | 2.6E−01 | 4.0E−02 | 2.0E−01
 6 | 1.6E−01 | 3.9E−01 | 5.8E−02 | 2.9E−01
 8 | 2.4E−01 | 5.8E−01 | 8.6E−02 | 4.3E−01

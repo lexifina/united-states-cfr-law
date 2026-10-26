@@ -74,16 +74,16 @@ Section 2.0 Performance Specifications for Continuous Emission Monitoring System
 Table 2.1-1 summarizes the performance specifications for the CEMSs. Two sets of standards for CO are given; one for low-range and another for high-range measurements. The high-range specifications relate to measurement and quantification of short duration high concentration peaks, while the low-range specifications relate to the overall average operating condition of the burning device. The dual-range specifications can be met by using (1) one analyzer for each range, (2) a dual range unit, or (3) a single measurement range instrument capable of meeting both specifications with a single unit. Adjustments cannot be made to the analyzer between determinations of low- and high-level accuracy within the single measurement range. In the second case, when the concentration exceeds the span of the lower range, the data acquisition system recorder shall switch to the high range automatically.
 2.1.4.1 CEMS Span Value. In order to measure high and low concentrations with the same or similar degree of accuracy, the maximum ranges (span values) are specified for low and high range analyzers. The span values are listed in Table 2.1-2. Tier I and Tier II format definitions are established in 40 CFR part 266, subpart H.
 Table 2.1-1—Performance Specifications of CO and O2 Monitors
-Parameter | CO monitors | Low range | High range | O2 monitors
+Parameter | CO monitors | O2 monitors
+Low range | High range
 Calibration drift 24 hours | <6 ppm 1 | <90 ppm | <0.5% O2
 Calibration error | <10 ppm 1 | <150 ppm | <0.5% O2
 Response time | <2 min | <2 min | <2 min
 Relative accuracy 2 | (3) | (3) | (incorporated in CO RA calculation)
-1 For Tier II, CD and CE are <3% and <5% or twice the permit limit, respectively.
-2 Expressed as the sum of the mean absolute value plus the 95% confidence interval of a series of measurements.
-3 The greater of 10% of PTM or 10 ppm.
+1 For Tier II, CD and CE are <3% and <5% or twice the permit limit, respectively. 2 Expressed as the sum of the mean absolute value plus the 95% confidence interval of a series of measurements. 3 The greater of 10% of PTM or 10 ppm.
 Table 2.1-2—CEMS Span Values for CO and O2 Monitors
-| CO monitors | Low range (ppm) | High range (ppm) | O2 monitors (percent)
+| CO monitors | O2 monitors (percent)
+Low range (ppm) | High range (ppm)
 Tier I rolling average format | 200 | 3,000 | 25
 Tier II rolling average format | 2 × permit limit | 3,000 | 25
 2.1.4.2 Daily Calibration Gas Values. The owner or operator must choose calibration gas concentrations (or calibration filters for in-situ systems) that include zero and high-level calibration values for the daily calibration checks. For a single measurement range monitor, three CO calibration gas concentrations (or calibration filters for in-situ systems) shall be used, i.e., the zero and high-level concentrations of the low-range CO analyzer and the high-level concentration of the high-range CO analyzer.
@@ -91,7 +91,7 @@ Tier II rolling average format | 2 × permit limit | 3,000 | 25
 2.1.4.2.2 The high-level concentration for the CO or O2 analyzer shall be between 50 and 90 percent of the span value, i.e., 100-180 ppm for the low-range CO analyzer, 1500-2700 ppm for the high-range CO analyzer, and 12.5-22.5 percent O2 for the O2 analyzer.
 2.1.4.3 Data Recorder Scale. The strip chart recorder, computer, or digital recorder must be capable of recording all readings within the CEMS's measurement range and shall have a resolution of 0.5 percent of span value, i.e., 1 ppm CO for low-range CO analyzer, 15 ppm CO for high-range CO analyzer, and 0.1 percent O2 for the O2 analyzer.
 2.1.4.4 Response Time. The response time for the CO or O2 monitor shall not exceed 2 minutes to achieve 95 percent of the final stable value.
-2.1.4.5 Calibration Drift. The CEMS must allow the determination of CD at the zero and high-level values. The CD must be determined separately for CO and O2 monitors in terms of concentration. The CO CEMS calibration response must not drift or deviate from the reference value of the calibration gas (or calibration filters for in-situ systems) by more than 3 percent of the span value after each 24-hour period of the 7-day test, i.e., 6 ppm CO for the low-range analyzer (Tier I) and 90 ppm for the high-range analyzer, at both zero and high levels. The O2 monitor calibration response must not drift or deviate from the reference value by more than 0.5 percent O2 at both zero and high ­levels.
+2.1.4.5 Calibration Drift. The CEMS must allow the determination of CD at the zero and high-level values. The CD must be determined separately for CO and O2 monitors in terms of concentration. The CO CEMS calibration response must not drift or deviate from the reference value of the calibration gas (or calibration filters for in-situ systems) by more than 3 percent of the span value after each 24-hour period of the 7-day test, i.e., 6 ppm CO for the low-range analyzer (Tier I) and 90 ppm for the high-range analyzer, at both zero and high levels. The O2 monitor calibration response must not drift or deviate from the reference value by more than 0.5 percent O2 at both zero and high levels.
 2.1.4.6 Relative Accuracy. The result of the RA test of the CO CEMS (which incorporates the O2 monitor) must be no greater than 10 percent of the mean value of the PTM results or must be within 10 ppm CO of the PTM results, whichever is less restrictive. The ppm CO concentration shall be corrected to 7 percent O2 before calculating the RA.
 2.1.4.7 Calibration Error. The mean difference between the CEMS and reference values at all three test points (see Table 2.1-3) must be no greater than 5 percent of span value for CO monitors (i.e., 10 ppm CO for low range Tier I CO analyzers and 150 ppm CO for high range CO analyzers) and 0.5 percent for O2 analyzers.
 2.1.4.8 Measurement and Recording Frequency. The sample to be analyzed shall pass through the measurement section of the analyzer without interruption. The detector shall measure the sample concentration at least once every 15 seconds. An average emission rate shall be computed and recorded at least once every 60 seconds.
@@ -112,19 +112,21 @@ Tier II rolling average format | 2 × permit limit | 3,000 | 25
 2.1.6.3 Calibration Error Test Procedure.
 2.1.6.3.1 Sampling Strategy. Challenge each monitor (both low- and high-range CO and O2) with zero gas and EPA Protocol 1 cylinder gases at three measurement points within the ranges specified in Table 2.1-3.
 Table 2.1-3—Calibration Error Concentration Ranges for Tier I
-Measurement point | GAS Concentration Ranges | CO, ppm | Low range 1 | High range | O2, percent
+Measurement point | GAS Concentration Ranges
+CO, ppm | O2, percent
+Low range 1 | High range
 1 | 0-40 | 0-600 | 0-2
 2 | 60-80 | 900-1200 | 8-10
 3 | 140-160 | 2100-2400 | 14-16
 1 For Tier II, the CE specifications for the low-range CO CEMS are 0-20%, 30-40%, and 70-80% of twice the permit limit.
-EC06NO91.005 Figure 2.1-1 Calibration Drift Determination
+Figure 2.1-1 Calibration Drift Determination
 2.1.6.3.1.1 If a single measurement range is used, the calibration gases used in the daily CD checks (if they are Protocol 1 cylinder gases and meet the criteria in section 2.1.6.3.1) may be used for determining CE.
 2.1.6.3.1.2 Operate each monitor in its normal sampling mode as nearly as possible. The calibration gas shall be injected into the sample system as close to the sampling probe outlet as practical and should pass through all CEMS components used during normal sampling. Challenge the CEMS three non-consecutive times at each measurement point and record the responses. The duration of each gas injection should be sufficient to ensure that the CEMS surfaces are conditioned.
 2.1.6.3.2 Calculations. Summarize the results on a data sheet. An example data sheet is shown in Figure 2.1-2. Average the differences between the instrument response and the certified cylinder gas value for each gas. Calculate three CE results (five CE results for a single-range CO CEMS) according to Equation 5 (section 2.1.7.5). No confidence coefficient is used in CE calculations.
 2.1.6.4 Relative Accuracy Test Procedure.
 2.1.6.4.1 Sampling Strategy for PTM tests. Conduct the PTM tests in such a way that they will yield measurements representative of the emissions from the source and can be correlated to the CEMS data. Although it is preferable to conduct the CO, diluent, and moisture (if needed) simultaneously, moisture measurements that are taken within a 60-minute period which includes the simultaneous CO and O2 measurements may be used to calculate the dry CO concentration.
 Note: At times, CEMS RA tests may be conducted during incinerator performance tests. In these cases, PTM results obtained during CEMS RA tests may be used to determine compliance with incinerator emissions limits as long as the source and test conditions are consistent with the applicable regulations.
-EC06NO91.006 Figure 2.1-2 Calibration Error Determination
+Figure 2.1-2 Calibration Error Determination
 2.1.6.4.2 Performance Test Methods.
 2.1.6.4.2.1 Unless otherwise specified in the regulations, method 3 or 3A and method 10, 10A, or 10B (40 CFR part 60, appendix A) are the test methods for O2 and CO, respectively. Make a sample traverse of at least 21 minutes, sampling for 7 minutes at each of three traverse points (see section 3.2).
 2.1.6.4.2.2 When the installed CEMS uses a nondispersive infrared (NDIR) analyzer, method 10 shall use the alternative interference trap specified in section 10.1 of the method. An option, which may be approved by the Administrator in certain cases, would allow the test to be conducted using method 10 without the interference trap. Under this option, a laboratory interference test is performed for the analyzer prior to the field test. The laboratory interference test includes the analysis of SO2, NO, and CO2 calibration gases over the range of expected effluent concentrations. Acceptable performance is indicated if the CO analyzer response to each of the gases is less than 1 percent of the applicable measurement range of the analyzer.
@@ -133,15 +135,11 @@ EC06NO91.006 Figure 2.1-2 Calibration Error Determination
 2.1.6.4.5 Calculations. Summarize the results on a data sheet. Calculate the mean of the PTM values and calculate the arithmetic differences between the PTM and the CEMS data sets. The mean of the differences, standard deviation, confidence coefficient, and CEMS RA should be calculated using Equations 1 through 4.
 2.1.7 Equations
 2.1.7.1 Arithmetic Mean (d). Calculate d of the difference of a data set using Equation 1.
-EC06NO91.007
 where:
 n = Number of data points.
-EC06NO91.025
 When the mean of the differences of pairs of data is calculated, correct the data for moisture, if applicable.
 2.1.7.2 Standard Deviation (Sd). Calculate Sd using Equation 2.
-EC06NO91.008
 2.1.7.3 Confidence Coefficient (CC). Calculate the 2.5 percent error CC (one-tailed) using Equation 3.
-EC06NO91.009
 where:
 t0.975 = t-value (see Table 2.1-4).
 Table 2.1-4—t-Values
@@ -153,13 +151,11 @@ n a | t0.975 | n a | t0.975 | n a | t0.975
 6 | 2.571 | 11 | 2.228 | 16 | 2.131
 a The values in this table are already corrected for n−1 degrees of freedom. Use n equal to the number of individual values.
 2.1.7.4 Relative Accuracy. Calculate the RA of a set of data using Equation 4.
-EC06NO91.010
 where:
-| d| = Absolute value of the mean of the differences (Equation 1).
+| d | = Absolute value of the mean of the differences (Equation 1).
 | CC| = Absolute value of the confidence coefficient (Equation 3).
-PTM = Average reference value.
+P TM = Average reference value.
 2.1.7.5 Calibration Error. Calculate CE using Equation 5.
-EC06NO91.011
 where:
 d = Mean difference between CEMS response and the known reference concentration.
 2.1.8 Reporting
@@ -240,9 +236,6 @@ Note: Mention of trade names or specific products does not constitute endorsemen
 2.2.6.3 Calibration Error Test Procedure.
 2.2.6.3.1 Sampling Strategy. Challenge the CEMS with zero gas and EPA Protocol 1 cylinder gases at measurement points within the ranges specified in section 2.2.4.7.
 2.2.6.3.1.1 The daily calibration gases, if Protocol 1, may be used for this test.
-EC01AU92.013
-EC01AU92.014
-EC01AU92.015
 2.2.9 Quality Assurance (QA)
 Proper calibration, maintenance, and operation of the CEMS is the responsibility of the owner or operator. The owner or operator must establish a QA program to evaluate and monitor CEMS performance. As a minimum, the QA program must include:
 2.2.9.1 A daily calibration check for each monitor. The calibration must be adjusted if the check indicates the instrument's CD exceeds 3 ppm. The gases shall be injected as close to the probe as possible to provide a check of the entire sampling system. If an alternative calibration procedure is desired (e.g., direct injections or gas cells), subject to Administrator approval, the adequacy of this alternative procedure may be demonstrated during the initial 7-day CD test. Periodic comparisons of the two procedures are suggested.
@@ -288,8 +281,7 @@ Other HxCDFs | 0
 2378-HpCDFs | 0.01
 Other HpCDFs | 0
 OCDF | 0.001
-Reference: Adapted from NATO/CCMS, 1988a.
-1 Interim Procedures for Estimating Risks Associated with Exposures to Mixtures of Chlorinated Dibenzo-p-Dioxins and Dibenzofurans (CDDs and CDFs) 1989 Update EPA/625/3-89/016, March 1989.
+Reference: Adapted from NATO/CCMS, 1988a. 1 Interim Procedures for Estimating Risks Associated with Exposures to Mixtures of Chlorinated Dibenzo-p-Dioxins and Dibenzofurans (CDDs and CDFs) 1989 Update EPA/625/3-89/016, March 1989.
 Section 5.0 Hazardous Waste Combustion Air Quality Screening Procedure
 The HWCAQSP is a combined calculation/reference table approach for conservatively estimating short-term and annual average facility impacts for stack emissions. The procedure is based on extensive short-term modeling of 11 generic source types and on a set of adjustment factors for estimating annual average concentrations from short-term concentrations. Facility impacts may be determined based on the selected worst-case stack or on multiple stacks, in which the impacts from each stack are estimated separately and then added to produce the total facility impact.
 This procedure is most useful for facilities with multiple stacks, large source-to-property boundary distances, and complex terrain between 1 and 5 km from the facility. To ensure a sufficient degree of conservatism, the HWCAQSP may not be used if any of the five screening procedure limitations listed below are true:
@@ -321,26 +313,26 @@ Step 10. Multiple Stack Method
 Step 1: Define Source Characteristics
 Provide the following source data: 2
 Stack Data: | Stack No. 1 | Stack No. 2 | Stack No. 3
-Physical stack height (m) | ____ | ____ | ____
-Exhaust temperature (°K) | ____ | ____ | ____
-Flow rate (m3/sec) | ____ | ____ | ____
+Physical stack height (m) | ________ | ________ | ________
+Exhaust temperature (°K) | ________ | ________ | ________
+Flow rate (m 3/sec) | ________ | ________ | ________
 Nearby Building Dimensions
 Consider all buildings within five building heights or five maximum projected widths of the stack(s). For the building with the greatest height, fill in the spaces below.
 Building Height (m)
 Maximum projected building width (m)
 Nearby Terrain Data
 Determine maximum terrain rise for the following three distance ranges from the facility (not required if the highest stack is less than 10 m in height):
-____(m) | ____(m) | ____(m)
+________(m) | ________(m) | ________(m)
 0-0.5 km | 0-2.5 km | 0-5 km
 Distance from facility to nearest shoreline (km)
 Valley width (km)
 Step 2: Determine the Applicability of the Screening Procedure
 Fill in the following data:
 | Yes | No
-Is the facility in a valley <km in width? | ___ | ___
-Is the terrain rise within 1 km of the facility greater than the physical stack height of the tallest stack? (Only applies to stacks ≤20 meters in height) | ___ | ___
-Is the distance to the nearest shoreline <5 km? (Only applies to facilities with stacks ≤20 meters in height) | ___ | ___
-For the building listed in Step 1, is the closest property boundary <5 times the building height or <5 times the maximum projected building width? (Only applies to facilities with a stack height <2.5 times the building height) | ___ | ___
+Is the facility in a valley <km in width? | ______ | ______
+Is the terrain rise within 1 km of the facility greater than the physical stack height of the tallest stack? (Only applies to stacks ≤20 meters in height) | ______ | ______
+Is the distance to the nearest shoreline <5 km? (Only applies to facilities with stacks ≤20 meters in height) | ______ | ______
+For the building listed in Step 1, is the closest property boundary <5 times the building height or <5 times the maximum projected building width? (Only applies to facilities with a stack height <2.5 times the building height) | ______ | ______
 If the answer is "no" to all the preceding questions, then the HWCAQSP is acceptable. If the answer to any question is "yes", the procedure is not acceptable.
 Step 3: Select the Worst-Case Stack
 If the facility has several stacks, a worst-case stack must be chosen to conservatively represent release conditions at the facility. Follow the steps below to identify the worst-case stack.
@@ -349,15 +341,15 @@ K = HVT
 where:
 K = an arbitrary parameter accounting for the relative influence of the stack height and plume rise.
 H = Physical stack height (m)
-V = Flow rate (m3/sec)
+V = Flow rate (m 3/sec)
 T = Exhaust temperature (°K)
 Complete the following table to compute the "K" value for each stack:
-Stack No. | Stack height (m) | × | Flow rate (m3/sec) | × | Exit temp (°K) | = | K
-1 | _________ | × | __________ | × | _________ | = | _________
-2 | _________ | × | __________ | × | _________ | = | _________
-3 | _________ | × | __________ | × | _________ | = | _________
+Stack No. | Stack height (m) | × | Flow rate (m 3/sec) | × | Exit temp (°K) | = | K
+1 | __________________ | × | ____________________ | × | __________________ | = | __________________
+2 | __________________ | × | ____________________ | × | __________________ | = | __________________
+3 | __________________ | × | ____________________ | × | __________________ | = | __________________
 Select the stack with the lowest "K" value. This is the worst-case stack that will be used for Steps 4 through 9.
-Worst-Case Stack is identified as Stack No. ___
+Worst-Case Stack is identified as Stack No. ______
 Step 4: Verify Good Engineering Practice (GEP) Criteria
 Confirm that the selected worst-case stack meets Good Engineering Practice (GEP) criteria. The stack height to be used in the subsequent steps of this procedure must not be greater than the maximum GEP. Maximum and minimum GEP stack heights are defined as follows:
 CEP (minimum) = H + (1.5 × L)
@@ -366,12 +358,12 @@ where:
 H = height of the building selected in Step 1 measured from ground level elevation at the base of the stack
 L = the lesser dimension of the height or projected width of the building selected in Step 1
 Record the following data for the worst-case stack:
-Stack height (m)=_____
-H(m)=_____
-L(m)=_____
+Stack height (m)=__________
+H(m)=__________
+L(m)=__________
 Then compute the following:
-GEP (minimum) (m)=_____
-GEP (maximum) (m)=_____
+GEP (minimum) (m)=__________
+GEP (maximum) (m)=__________
 • If the physical height of the worst-case stack exceeds the maximum GEP, then use the maximum GEP stack height for the subsequent steps of this analysis;
 • If the physical height of the worst-case stack is less than the minimum GEP, then use generic source number 11 as the selected source for further analysis and proceed directly to Step 6;
 • If the physical height of the worst-case stack is between the minimum and maximum GEP, then use the actual physical stack height for the subsequent steps of this analysis.
@@ -379,16 +371,17 @@ Step 5: Determine the Effective Stack Height and the Terrain-Adjusted Effective 
 The effective stack height is an important factor in dispersion modeling. The effective stack height is the physical height of the stack plus plume rise. As specified in Step 4, the stack height used to estimate the effective stack height must not exceed GEP requirements. Plume rise is a function of the stack exit gas temperature and flow rate.
 In this analysis, the effective stack height is used to select the generic source that represents the dispersion characteristics of the facility. For facilities located in flat terrain and for all facilities with worst-case stacks less than or equal to 10 meters in height, generic source numbers are selected strictly on the basis of effective stack height. In all other cases, the effective stack height is further adjusted to take into account the terrain rise near the facility. This "terrain-adjusted effective stack height" (TAESH) is then used to select the generic source number that represents the dispersion characteristics of the facility. Follow the steps below to identify the effective stack height, the TAESH (where applicable), and the corresponding generic source number.
 (A) Go to Table 5.0-1 and find the plume rise value corresponding to the stack temperature and exit flow rate for the worst-case stack determined in Step 3.
-Plume rise=____(m)
+Plume rise=________(m)
 (B) Add the plume rise to the GEP stack height of the worst-case stack determined in Steps 3 and 4.
 GEP stack height (m) | + | Plume rise (m) | = | Effective stack height (m)
-____ | + | ____ | = | ____
+________ | + | ________ | = | ________
 (C) Go to the first column of Table 5.0-2 and identify the range of effective stack heights that includes the effective stack height estimated in Step 5(B). Record the generic source number that corresponds to this range.
-Generic source number=_____
+Generic source number=__________
 (D) If the source is located in flat terrain 3, or if the generic source number identified in Step 5(C) above is 1 or 11 (regardless of terrain classification), use the generic source number determined in Step 5(C) and proceed directly to Step 6. Otherwise, continue to Step 5(E).
 (E) For those situations where the conditions in Step 5(D) do not apply, the effective stack height must be adjusted for terrain. The TAESH for each distance range is computed by subtracting the terrain rise within the distance range from the effective stack height. 4
 Table 5.0-1—Estimated Plume Rise (in Meters) Based on Stack Exit Flow Rate and Gas Temperature
-Exhaust Temperature (°K) | Flow rate (m3/s) | <325 | 325-349 | 350-399 | 400-449 | 450-499 | 500-599 | 600-699 | 700-799 | 800-999 | 1000-1499 | >1499
+Exhaust Temperature (°K)
+Flow rate (m 3/s) | <325 | 325-349 | 350-399 | 400-449 | 450-499 | 500-599 | 600-699 | 700-799 | 800-999 | 1000-1499 | >1499
 <0.5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 0.5-0.9 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1
 1.0-1.9 | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 3 | 3 | 3 | 4
@@ -443,29 +436,29 @@ A2 | Agricultural | Rural
 A3 | Undeveloped (Grasses/Weeds) | Rural
 A4 | Undeveloped (Heavily Wooded) | Rural
 A5 | Water Surfaces | Rural
-1 EPA, Guideline on Air Quality Models (Revised), EPA-450/2-78-027R, Office of Air Quality Planning and Standards, Research Triangle Park, North Carolina, July, 1986.
-2 Auer, August H. Jr., "Correlation of Land Use and Cover with meteorological Anomalies," Journal of Applied Meteorology, pp. 636-643, 1978.
+1 EPA, Guideline on Air Quality Models (Revised), EPA-450/2-78-027R, Office of Air Quality Planning and Standards, Research Triangle Park, North Carolina, July, 1986. 2 Auer, August H. Jr., "Correlation of Land Use and Cover with meteorological Anomalies," Journal of Applied Meteorology, pp. 636-643, 1978.
 Distance range (km) | Effective stack—height (m) [see step 5(B)] | − | Maximum terrain—rise (m) (see step 1) | = | TAESH(m)
-0.0-0.5 | ____ | - | ____ | = | ____
->0.5-2.5 | ____ | - | ____ | = | ____
->2.5-5.0 | ____ | - | ____ | = | ____
+0.0-0.5 | ________ | - | ________ | = | ________
+>0.5-2.5 | ________ | - | ________ | = | ________
+>2.5-5.0 | ________ | - | ________ | = | ________
 If the terrain rise for any of the distance ranges is greater than the effective stack height, set the TAESH equal to zero and use generic source number 1 for that distance range.
 Record the generic source numbers from Table 5.0-2 based on each of the TAESH values.
 Distance range (km) | Generic source No. (after terrain adjustment)
-0.0-0.5 | ______
->0.5-2.5 | ______
->2.5-5.0 | ______
+0.0-0.5 | ____________
+>0.5-2.5 | ____________
+>2.5-5.0 | ____________
 Step 6: Classify the Site as Urban or Rural
 (A) Classify the land use near the facility as either urban or rural by determining the percentage of urban land use types (as defined in Table 3; for further guidance see the footnoted references) that fall within 3 km of the facility. 5
 Method Used to Estimate Percent Urban Land Use: | Visual | Planimeter
-| ___ | ___
+| ______ | ______
 Estimated Percentages | Urban | Rural
-| ___ | ___
+| ______ | ______
 If the urban land use percentage is less than or equal to 30 percent based on a visual estimate, or 50 percent based on a planimeter, the local land use is considered rural. Otherwise, the local land use is considered urban.
 Classification | Urban | Rural
-(check applicable space) | ___ | ___
+(check applicable space) | ______ | ______
 (B) Based on the TAESH and the urban/rural classification of surrounding land use, use the following table to determine the threshold distance between any stack and the nearest facility boundary.
-Terrain adjusted effective stack height range (m) | Distance (m) | Urban | Rural
+Terrain adjusted effective stack height range (m) | Distance (m)
+Urban | Rural
 1-9.9 | 200 | 200
 10-14.9 | 200 | 250
 15-19.9 | 200 | 250
@@ -478,20 +471,20 @@ Terrain adjusted effective stack height range (m) | Distance (m) | Urban | Rural
 113 + | 700 | 2500
 Record the following information:
 Threshold distance from the table
-(m): __
-Minimum distance from any stack to property boundary (m): __
+(m): ____
+Minimum distance from any stack to property boundary (m): ____
 If the minimum distance between any stack and the nearest facility boundary is greater than the threshold distance, the surrounding buffer distance is considered significant and the facility is likely to benefit from use of the HWCAQSP relative to the Tier I and II limits (see discussion of benefits from using HWCAQSP in Introduction section).
 Step 7: Determine Maximum Dispersion Coefficients
 (A) Determine maximum average hourly dispersion coefficients. Based on the results of Step 6(A), select either Table 5.0-4 (urban) or Table 5.0-5 (rural) to determine the maximum average hourly dispersion coefficient. 6 For flat terrain [defined in Step 5(D)] and for all sites with generic source numbers 1 or 11, use Step 7(A) (1). For rolling or complex terrain (excluding generic sources numbers 1 and 11), use Step 7(A) (2).
 (1) Search down the appropriate generic source number column [based on Step 5(C)], beginning at the minimum fenceline distance listed in Step 6(B). 7 Record the maximum average hourly dispersion coefficient encountered.
-Maximum Average Hourly Dispersion Coefficient=__(µg/m3/g/sec)
+Maximum Average Hourly Dispersion Coefficient=____(µg/m 3/g/sec)
 (2) For each of the three distance-based generic source numbers listed in Step 5(E), search down the appropriate generic source number columns, beginning at the minimum fenceline distance listed in Step 6(B). Note that different columns may be used for each of the three distance ranges if there is a need for terrain adjustment. Record the maximum dispersion coefficient for each generic source number.
-Distance range (km) | Generic source No. [from Step 5(E)] | Maximum dispersion coefficient (µg/m3/m/sec)
-0.0-0.5 | ____ | ____
->0.5-2.5 | ____ | ____
->2.5-5.0 | ____ | ____
->5.0-20.0 | ____ | ____
-Table 5.0-4—ISCST Predicted Maximum Concentrations (µg/m3) a for Hazardous Waste Combustors Using Urban Conditions
+Distance range (km) | Generic source No. [from Step 5(E)] | Maximum dispersion coefficient (µg/m 3/m/sec)
+0.0-0.5 | ________ | ________
+>0.5-2.5 | ________ | ________
+>2.5-5.0 | ________ | ________
+>5.0-20.0 | ________ | ________
+Table 5.0-4—ISCST Predicted Maximum Concentrations (µg/m 3) a for Hazardous Waste Combustors Using Urban Conditions
 Distance (KM) | Generic Source #1 (<10M) | Generic Source #2 (10M) | Generic Source #3 (15M) | Generic Source #4 (20M) | Generic Source #5 (25M) | Generic Source #6 (31M) | Generic Source #7 (42M) | Generic Source #8 (53M) | Generic Source #9 (65M) | Generic Source #10 (113M) | Generic Source #11 (Downwash)
 0.20 | 680.1 | 517.5 | 368.7 | 268.7 | 168.5 | 129.8 | 63.4 | 30.1 | 18.4 | 1.6 | 662.3
 0.25 | 521.9 | 418.2 | 303.7 | 232.6 | 163.0 | 124.2 | 67.6 | 38.5 | 19.8 | 3.2 | 500.0
@@ -534,7 +527,7 @@ Distance (KM) | Generic Source #1 (<10M) | Generic Source #2 (10M) | Generic Sou
 15.00 | 17.6 | 17.6 | 17.6 | 17.6 | 17.6 | 17.6 | 17.6 | 17.6 | 17.6 | 17.6 | 17.6
 20.00 | 15.0 | 15.0 | 15.0 | 15.0 | 15.0 | 15.0 | 15.0 | 15.0 | 15.0 | 15.01 | 15.0
 a Based on a 1 Gram/Second Emission Rate
-Table 5.0-5—ISCST Predicted Maximum Concentrations (µg/m3) a for Hazardous Waste Combustors Using Rural Conditions
+Table 5.0-5—ISCST Predicted Maximum Concentrations (µg/m 3) a for Hazardous Waste Combustors Using Rural Conditions
 Distance (KM) | Generic source #1 (<10M) | Generic source #2 (10M) | Generic source #3 (15M) | Generic source #4 (20M) | Generic source #5 (25M) | Generic source #6 (31M) | Generic source #7 (42M) | Generic source #8 (53M) | Generic source #9 (65M) | Generic source #10 (113M) | Generic source #11 (Downwash)
 0.20 | 1771.1 | 670.3 | 308.6 | 176.8 | 102.8 | 76.5 | 28.0 | 10.1 | 3.5 | 0.0 | 1350.8
 0.25 | 1310.6 | 678.4 | 316.9 | 183.6 | 104.6 | 71.8 | 38.0 | 17.6 | 7.9 | 0.2 | 1227.3
@@ -579,11 +572,11 @@ Distance (KM) | Generic source #1 (<10M) | Generic source #2 (10M) | Generic sou
 a Based on a 1 Gram/Second Emission Rate
 (B) Determine annual/hourly ratio for rural analysis. The maximum average annual dispersion coefficient is approximated by multiplying the maximum hourly dispersion coefficient (identified in Step 7(A)) by the appropriate ratio selection from Table 5.0-6. The generic source number(s) [from Steps 5(C) or 5(E)], urban/rural designation (from Step 6), and the terrain type are used to select the appropriate scaling factor. Use the noncomplex terrain designation for all sources located in flat terrain, for all sources where the physical stack height of the worst-case stack is less than or equal to 10 m, for all sources where the worst-case stack is less than the minimum GEP, and for those sources where all of the TAESH values in Step 5(E) are greater than zero. Use the complex terrain designation in all other situations.
 (C) Determine maximum average annual dispersion coefficient. The maximum average annual dispersion coefficient is determined by multiplying the maximum hourly dispersion coefficient (Step 7(A)) by its corresponding annual/hourly ratio (Step 7(B)).
-Terrain | Distance from stack (m) | Generic source No. | Maximum hourly dispersion coefficient (>g/m3/g/sec) | Annual hourly ratio | Maximum annual dispersion coefficient (>g/m3/g/sec) 1
-Flat | 0-20.0
-| 0-0.5
-| ≤0.5-2.5
-Rolling or Complex | ≤2.5-5.0≤5.0-20.0
+Terrain | Distance from stack (m) | Generic source No. | Maximum hourly dispersion coefficient (>g/m 3/g/sec) | Annual hourly ratio | Maximum annual dispersion coefficient (>g/m 3/g/sec) 1
+Flat | 0-20.0 | | | |
+| 0-0.5 | | | |
+| ≤0.5-2.5 | | | |
+Rolling or Complex | ≤2.5-5.0 ≤5.0-20.0 | | | |
 1 Maximum hourly dispersion coefficient times annual/hourly ratio.
 Step 8: Estimate Maximum Ambient Air Concentrations—see procedures prescribed in subpart H of 40 CFR part 266.
 Step 9: Determine Compliance with Regulatory Limits—see procedures prescribed in subpart H of 40 CFR part 266.
@@ -591,21 +584,20 @@ Step 10: Multiple Stack Method (Optional)
 This option is a special case procedure that may be helpful when (1) the facility exceeded the regulatory limits for one or more pollutants, as detailed in Step 9, and (2) the facility has multiple stacks with substantially different emission rates and effective release heights. Only those pollutants that fail the Step 9 screening limits need to be addressed in this exercise.
 This procedure assesses the environmental impacts from each stack and then sums the results to estimate total impacts. This option is conceptually the same as the basic approach (Steps 1 through 9) and does not involve complex calculations. However, it is more time-consuming and is recommended only if the basic approach fails to meet the risk criteria. The procedure is outlined below.
 (A) Compute effective stack heights for each stack. 8
-Stack No. | GEP stack height (m) | Flow rate (m3/sec) | Exit temp (°K) | Plume rise (m) | Effective stack height (m)
-1 | ____ | ____ | ____ | ____ | ____
-2 | ____ | ____ | ____ | ____ | ____
-3 | ____ | ____ | ____ | ____ | ____
+Stack No. | GEP stack height (m) | Flow rate (m 3/sec) | Exit temp (°K) | Plume rise (m) | Effective stack height (m)
+1 | ________ | ________ | ________ | ________ | ________
+2 | ________ | ________ | ________ | ________ | ________
+3 | ________ | ________ | ________ | ________ | ________
 Add an additional page if more than three stacks are involved. Circle the maximum and minimum effective stack heights.
 (B) Determine if this multiple-stack screening procedure will likely produce less conservative results than the procedure in Steps 1 through 9. To do this, compute the ratio of maximum-to-minimum effective stack height:
-EC06NO91.012
 If the above ratio is greater than 1.25, proceed with the remaining steps. Otherwise, this option is less likely to significantly reduce the degree of conservatism in the screening method.
 (C) Determine if terrain adjustment is needed and select generic source numbers. Select the shortest stack height and maximum terrain rise out to 5 km from Step 1 and determine if the facility is in flat terrain.
 Shortest stack height (m)=
 Maximum terrain rise in meters out to 5 km=
-EC06NO91.013
 If the value above is greater than 10 percent, the terrain is considered nonflat; proceed to Step 10(D). If the ratio is less than or equal to 10 percent, the terrain is considered flat. Identify the generic source numbers based on effective stack heights computed in Step 10(A). Refer to Table 5.0-2 provided earlier to identify generic source numbers. Record the generic source numbers identified and proceed to Step 10(F).
-| Stack No. | 1 | 2 | 3
-Generic Source Numbers | __ | __ | __
+| Stack No.
+1 | 2 | 3
+Generic Source Numbers | ____ | ____ | ____
 (D) Compute the TAESH and select generic source numbers (four sources located in nonflat terrain).
 1. Compute the TAESH for all remaining stacks using the following equation:
 HE−TR = TAESH
@@ -614,7 +606,9 @@ HE = effective stack height (m)
 TR = maximum terrain rise for each distance range (m)
 TAESH = terrain-adjusted effective stack height (m)
 Use the Table Below To Calculate the TAESH for Each Stack 9
-Distance Range (km) | Stack No. | 0-0.5 | HE | - | TR | = | TAESH | >0.5-2.5 | HE | - | TR | = | TAESH | >2.5-5.0 | HE | - | TR | = | TAESH
+Distance Range (km) | Stack No.
+0-0.5 | >0.5-2.5 | >2.5-5.0
+HE | - | TR | = | TAESH | HE | - | TR | = | TAESH | HE | - | TR | = | TAESH
 1 | | - | | = | | | - | | = | | | - | | = |
 2 | | - | | = | | | - | | = | | | - | | = |
 3 | | - | | = | | | - | | = | | | - | | = |
@@ -627,33 +621,32 @@ Stack No. | 0-0.5 km | >0.5-2.5 km | >2.5-5.0 km
 2 | | |
 3 | | |
 (E) Identify maximum average hourly dispersion coefficients. Based on the land use classification of the site (e.g., urban or rural), use either Table 5.0-4 or Table 5.0-5 to determine the appropriate dispersion coefficient for each distance range for each stack. Begin at the minimum fenceline distance indicated in Step 7(B) and record on Worksheet 5.0-1 the dispersion coefficient for each stack/distance range. For stacks located in facilities in flat terrain, the generic source numbers were computed in Step 10(C). For stacks located in facilities in rolling and complex terrain, the generic source numbers were computed in Step 10(D). For flat terrain applications and for stacks with a physical height of less than or equal to 10 meters, only one generic source number is used per stack for all distance ranges. For other situations up to three generic source numbers may be needed per stack (i.e., a unique generic source number per distance range). In Tables 5.0-4 and 5.0-5, the dispersion coefficients for distances of 6 km to 20 km are the same for all generic source numbers in order to conservatively represent terrain beyond 5 km (past the limits of the terrain analysis).
-EC01AU92.033
 (F) Estimate maximum hourly ambient air concentrations. In this step, pollutant-specific emission rates are multiplied by appropriate dispersion coefficients to estimate ambient air concentrations. For each stack, emissions are multiplied by the dispersion coefficient selected in Step 10(E) and summed across all stacks to estimate ambient air concentrations at various distances from the facility. From these summed concentrations, the maximum hourly ambient air concentration is selected. First, select the maximum emission rate of the pollutant. 11 Record these data in the spaces provided below. 12
 Maximum Annual Emission Rates (g/sec)
 Pollutant | Stack 1 | Stack 2 | Stack 3
 Complete a separate copy of Worksheet 5.0-2 for each pollutant and select the highest hourly concentration from the summation column at the far right of the worksheet. Record the maximum hourly air concentration for each pollutant analyzed (add additional lines if needed):
 Pollutant | Maximum hourly air concentration
-EC01AU92.034
-EC01AU92.035
-EC01AU92.036
 (G) Determine the complex/noncomplex designation for each stack. For each stack, subtract the maximum terrain rise within 5 km of the site from the physical stack height and designate the stack as either complex or noncomplex. If the stack height minus the maximum terrain rise (within 5 km) is greater than zero or if the stack is less than 10 meters in physical height, then assign the stack a noncomplex designation. If the stack height minus the maximum terrain rise (within 5 km) is less than or equal to zero, then assign the stack a complex designation.
 Perform the following computation for each stack and record the information in the spaces provided. Check in the spaces provided whether the stack designation is complex or noncomplex.
 Stack No. | Stack height (m) | | Maximum terrain rise (m) | | | Complex | Noncomplex
-1 | | - | | = | (m)
-2 | | - | | = | (m)
-3 | | - | | = | (m)
+1 | | - | | = | (m) | |
+2 | | - | | = | (m) | |
+3 | | - | | = | (m) | |
 (H) Identify annual/hourly ratios. Extract the annual/hourly ratios for each stack by referring to Table 5.0-6. Generic source numbers (from Steps 10(C) or 10(D), urban/rural designation (from Step 6)), and complex or noncomplex terrain designations (from Step 10(G)) are used to select the appropriate scaling factor needed to convert hourly maximum concentrations to estimates of annual average concentrations.
 Complete the following table: 13
-Stack No. | Generic source No. steps 10 (C or D) | Distance ranges (km) | 0-0.5 | >0.5-2.5 | >2.5-5.0 | Annual/hourly ratio (from table 5.0-6) | Distance ranges (km) | 0-0.5 | >0.5-2.5 | >2.5-5.0
-1 | _____ | _____ | _____ | _____ | _____ | _____
-2 | _____ | _____ | _____ | _____ | _____ | _____
-3 | _____ | _____ | _____ | _____ | _____ | _____
+Stack No. | Generic source No. steps 10 (C or D) | Annual/hourly ratio (from table 5.0-6)
+Distance ranges (km) | Distance ranges (km)
+0-0.5 | >0.5-2.5 | >2.5-5.0 | 0-0.5 | >0.5-2.5 | >2.5-5.0
+1 | __________ | __________ | __________ | __________ | __________ | __________
+2 | __________ | __________ | __________ | __________ | __________ | __________
+3 | __________ | __________ | __________ | __________ | __________ | __________
 (I) Select the highest annual/hourly ratio among all of the stacks, 14 and then estimate the maximum annual average ambient air concentrations for each pollutant by completing the following table, where:
-C = Maximum total hourly ambient air concentration (µg/m3) for pollutant "N" from Step 10(F),
-Ca = Maximum annual average air concentration for pollutant "N" (µg/m3),
+C = Maximum total hourly ambient air concentration (µg/m 3) for pollutant "N" from Step 10(F),
+Ca = Maximum annual average air concentration for pollutant "N" (µg/m 3),
 R = Annual/hourly ratio.
 Table 5.0-6—95th Percentile of Annual/Hourly Ratios
-Noncomplex Terrain | Source | Urban | Rural | Complex Terrain | Source | Urban | Rural
+Noncomplex Terrain | Complex Terrain
+Source | Urban | Rural | Source | Urban | Rural
 1 | 0.019 | 0.014 | 1 | 0.020 | 0.053
 2 | 0.033 | 0.019 | 2 | 0.020 | 0.053
 3 | 0.031 | 0.018 | 3 | 0.030 | 0.057
@@ -665,9 +658,9 @@ Noncomplex Terrain | Source | Urban | Rural | Complex Terrain | Source | Urban |
 9 | 0.029 | 0.011 | 9 | 0.026 | 0.024
 10 | 0.029 | 0.008 | 10 | 0.017 | 0.013
 11 | 0.018 | 0.015 | 11 | 0.020 | 0.053
-Pollutant | Ca(μg/m3) | × | R | = | Ca(μg/m3)
-____ | __ | × | __ | = | __
-____ | __ | × | __ | = | __
+Pollutant | Ca(μg/m 3) | × | R | = | Ca(μg/m 3)
+________ | ____ | × | ____ | = | ____
+________ | ____ | × | ____ | = | ____
 (J) Use the maximum annual average concentrations from Step 10(I) to determine compliance with regulatory requirements.
 Section 6.0 Simplified Land Use Classification Procedure for Compliance With Tier I and Tier II Limits
 6.1 Introduction
@@ -688,15 +681,13 @@ A2 | Agricultural | Rural.
 A3 | Undeveloped (Grasses/Weeds) | Rural.
 A4 | Undeveloped (Heavily Wooded) | Rural.
 A5 | Water Surfaces | Rural.
-1 EPA, Guideline on Air Quality Models (Revised), EPA-450/2-78-027R, Office of Air Quality Planning and Standards, Research Triangle Park, North Carolina, July, 1986.
-2 Auer, August H. Jr., "Correlation of Land Use and Cover with Meteorological Anomalies," Journal of Applied Meteorology, pp. 636-643, 1978.
+1 EPA, Guideline on Air Quality Models (Revised), EPA-450/2-78-027R, Office of Air Quality Planning and Standards, Research Triangle Park, North Carolina, July, 1986. 2 Auer, August H. Jr., "Correlation of Land Use and Cover with Meteorological Anomalies," Journal of Applied Meteorology, pp. 636-643, 1978.
 6.2 Simplified Land Use Process
 The land use approach considers four primary land use types: industrial (I), commercial (C), residential (R), and agricultural (A). Within these primary classes, subclasses are identified, as shown in table 6.0-1. The goal is to estimate the percentage of the area within a 3-km radius that is urban type and the percentage that is rural type. Industrial and commercial areas are classified as urban; agricultural areas are classified as rural.
 The delineation of urban and rural areas, however, can be more difficult for the residential type areas shown in table 6.0-1. The degree of resolution shown in table 6.0-1 for residential areas often cannot be identified without conducting site area inspections and/or referring to zoning maps. This process can require extensive analysis, which, for many applications, can be greatly streamlined without sacrificing confidence in selecting the appropriate urban or rural classification.
 The fundamental simplifying assumption is based on the premise that many applications will have clear-cut urban/rural designations, i.e., most will be in rural settings that can be definitively characterized through a brief review of topographical maps. The color coding on USGS topographical maps provides the most effective means of simplifying the typing scheme. The suggested typing designations for the color codes found on topographical maps are as follows:
 Green Wooded areas (rural).
 White White areas generally will be treated as rural. This code applies to areas that are unwooded and do not have densely packed structures which would require the pink code (house omission tint). Parks, industrial areas, and unforested rural land will appear as white on the topographical maps. Of these categories, only the industrial areas could potentially be classified as urban based on EPA 1986 or Auer 1978. Industrial areas can be easily identified in most cases by the characteristics shown in Figure 6.0-1. For this simplified procedure, white areas that have an industrial classification will be treated as urban areas.
-EC01AU92.037
 Section 7.0 Statistical Methodology for Bevill Residue Determinations
 This section describes the statistical comparison of waste-derived residue to normal residue for use in determining eligibility for the Bevill exemption under 40 CFR 266.112.
 7.1 Comparison of Waste-Derived Residue to Normal Residue
@@ -710,7 +701,7 @@ where
 X = mean of the normal residue concentrations, X = X i/n,
 K = coefficient for sample size n, 95% confidence and 95% proportion,
 S = standard deviation of the normal residue concentrations,
-S = (Σ(Xi − X)2/(n − 1))0.5, and
+S = (Σ(Xi − X) 2/(n − 1)) 0. 5, and
 n = sample size.
 The values of K at the 95% confidence and 95% proportion, and sample size n are given in Table 7.0-1.
 For example, a normal residue test results in 10 samples with the following analytical results for toxic constituent A:
@@ -770,7 +761,8 @@ EPA's default assumptions for APCS RE for metals are shown in Table 8.1-1. The d
 The volatility of a metal depends on the temperature, the thermal input, the chlorine content of the waste, and the identity and concentration of the metal. Metals that do not vaporize at combustion zone temperatures are classified as "nonvolatile". Such metals typically enter the APCS in the form of large particles that are removed relatively easily. Metals that vaporize in the combustion zone and condense before entering the APCS are classified as "volatile". Such metals typically enter the APCS in the form of very fine, submicron particles that are rather inefficiently removed in many APCSs. Metals that vaporize in the combustion zone and do not condense before entering the APCS are classified as "very volatile". Such metals enter the APCS in the form of a vapor that is very inefficiently removed in many APCSs.
 Typically, BIFs have combustion zone temperatures high enough to vaporize any hazardous metal at concentrations sufficient to exceed risk-based emission limits. For this reason, the default assumption is that there are no nonvolatile metals. Tables 8.1-2 and 8.1-3 are used to determine whether metals are classified as "volatile" or "very volatile" depending on the temperature entering the APCS, the thermal input, and whether the waste is chlorinated or nonchlorinated.
 Table 8.1-1—Air Pollution Control Systems (APCS) and Their Conservatively Estimated Efficiencies for Controlling Toxic Metals (%)
-APCS | Metal Volatility | Nonvolatile | Volatile | Very Volatile
+APCS | Metal Volatility
+Nonvolatile | Volatile | Very Volatile
 WS | 40 | 30 | 20
 VS-20 | 80 | 75 | 20
 VS-60 | 87 | 75 | 40
@@ -794,7 +786,8 @@ FF = Fabric Filter (Baghouse)
 SD = Spray Dryer (Wet/Dry Scrubber)
 WESP = Wet Electrostatic Precipitator
 Table 8.1-2—Temperature (F) Entering APCS Above Which Metals Are Classified as Very Volatile in Combustion of Nonchlorinated Wastes
-Metal | Name | Symbol | Thermal Input (MMBtu/hr) 1 | 1 | 10 | 100 | 1000 | 10000
+Metal | Thermal Input (MMBtu/hr) 1
+Name | Symbol | 1 | 10 | 100 | 1000 | 10000
 Arsenic | As | 320 | 280 | 240 | 200 | 160
 Cadmium | Cd | 1040 | 940 | 860 | 780 | 720
 Chromium | Cr | 2000 | 1760 | 1580 | 1420 | 1380
@@ -805,10 +798,10 @@ Lead | Pb | 1280 | 1180 | 1080 | 1000 | 920
 Mercury | Hg | 340 | 300 | 260 | 220 | 180
 Silver | Ag | 1820 | 1640 | 1480 | 1340 | 1220
 Thallium | Tl | 900 | 800 | 700 | 620 | 540
-1 Interpolation of thermal input is not allowed. If a BIF fires between two ranges, the APCS temperature under the higher thermal input must be used.
-Example: For a BIF firing 10-100 MMBtu/hr, Mercury is considered very volatile at APCS temperatures above 260 F and volatile at APCS temperatures of 260 F and below.
+1 Interpolation of thermal input is not allowed. If a BIF fires between two ranges, the APCS temperature under the higher thermal input must be used. Example: For a BIF firing 10-100 MMBtu/hr, Mercury is considered very volatile at APCS temperatures above 260 F and volatile at APCS temperatures of 260 F and below.
 Table 8.1-3—Temperature (F) Entering APCS Above Which Metals Are Classified as Very Volatile In Combustion of Chlorinated Wastes
-Metal | Name | Symbol | Thermal Input (MMBtu/hr) 1 | 1 | 10 | 100 | 1000 | 10000
+Metal | Thermal Input (MMBtu/hr) 1
+Name | Symbol | 1 | 10 | 100 | 1000 | 10000
 Arsenic | As | 320 | 280 | 240 | 200 | 160
 Cadmium | Cd | 1040 | 940 | 860 | 780 | 720
 Chromium | Cr | >140 | >140 | >140 | >140 | >140
@@ -819,8 +812,7 @@ Lead | Pb | >140 | >140 | >140 | >140 | >140
 Mercury | Hg | 340 | 300 | 260 | 220 | 180
 Silver | Ag | 1080 | 940 | 840 | 740 | 660
 Thallium | Tl | 900 | 800 | 700 | 620 | 540
-1 Interpolation of thermal input is not allowed. If a BIF fires between two ranges, the APCS temperature under the higher thermal input must be used.
-Example: For a BIF firing 10-100 MMBtu/hr, Mercury is considered very volatile at APCS temperatures above 260 F and volatile at APCS temperatures of 260 F and below.
+1 Interpolation of thermal input is not allowed. If a BIF fires between two ranges, the APCS temperature under the higher thermal input must be used. Example: For a BIF firing 10-100 MMBtu/hr, Mercury is considered very volatile at APCS temperatures above 260 F and volatile at APCS temperatures of 260 F and below.
 A waste is considered chlorinated if chlorine is present in concentrations greater than 0.1 percent by weight. In the EPA guidance document "Guidance for Metals and Hydrogen Chloride Controls for Hazardous Waste Incinerators, Volume IV of the Hazardous Waste Incineration Guidance Series,"(1) one percent is used for the chlorinated/nonchlorinated cutoff. However, best engineering judgement, based on examination of pilot-scale data reported by Carroll et al. (2) on the effects of waste chlorine content on metals emissions, suggests that the 1 percent cutoff may not be sufficiently conservative.
 Tables 8.1-2 and 8.1-3 were compiled based on equilibrium calculations. Metals are classified as very volatile at all temperatures above the temperature at which the vapor pressure of the metal is greater than 10 percent of the vapor pressure that results in emissions exceeding the most conservative risk-based emissions limits.
 8.2 APCS RE Default Values for HCl and Cl2
@@ -829,7 +821,8 @@ Removal efficiency of Cl2 for most types of APCS is generally minimal. Therefore
 8.3 APCS RE Default Values for Ash
 Default assumptions for APCS RE for PM are also shown in Table 8.1-4. These figures are conservative estimates of PM removal efficiencies for different types of APCSs. They are identical to the figures in the Nonvolatile APCS RE column for hazardous metals presented in Table 8.1-1 because the same collection mechanisms and collection efficiencies that apply to nonvolatile metals also apply to PM.
 Table 8.2-1—Air Pollution Control Systems (APCS) and Their Conservatively Estimated Efficiencies for Removing Hydrogen Chloride (HCl) and Particulate Matter (PM) (%)
-APCD | HCl | Cement kilns | Other BIFs | PM
+APCD | HCl
+Cement kilns | Other BIFs | PM
 WS | 97 | 97 | 40
 VS-20 | 97 | 97 | 80
 VS-60 | 98 | 98 | 87
@@ -906,34 +899,29 @@ The viability of this method depends on three fundamental assumptions:
 (2) The metal concentrations in the collected kiln dust can be accurately and representatively measured.
 (3) The facility will remain in compliance with the applicable particulate matter (PM) emission standard.
 Given these assumptions. metal emissions can be related to the measured concentrations in the collected kiln dust by the following equation:
-EC06NO91.014
 Where:
 ME is the metal emitted;
 PME is the particulate matter emitted;
 DMC is the metal concentration in the collected kiln dust; and
 EF is the enrichment factor, which is the ratio of the metal concentration in the emitted particulate matter to the metal concentration in the collected kiln dust.
 This equation can be rearranged to calculate a maximum allowable dust metal concentration limit (DMCL) by assuming worst-case conditions that: metal emissions are at the Tier III (or Tier II) limit (see 40 CFR 266.106), and that particulate emissions are at the particulate matter limit (PML):
-EC06NO91.015
-The enrichment factor used in the above equation must be determined experimentally from a minimum of 10 tests in which metal concentrations are measured in kiln dust and stack samples taken simultaneously. This approach provides a range of enrichment factors that can be inserted into a statistical distribution (t-distribution) to determine EF95 % and EF99 %. EF95 % is the value at which there is a 95% confidence level that the enrichment factor is below this value at any given time. Similarly, EF99 % is the value at which there is a 99% confidence level that the enrichment factor is below this value at any given time. EF95 % is used to calculate the "violation" dust metal concentration limit (DMCLv):
-EC06NO91.016
+The enrichment factor used in the above equation must be determined experimentally from a minimum of 10 tests in which metal concentrations are measured in kiln dust and stack samples taken simultaneously. This approach provides a range of enrichment factors that can be inserted into a statistical distribution (t-distribution) to determine EF95% and EF99%. EF95% is the value at which there is a 95% confidence level that the enrichment factor is below this value at any given time. Similarly, EF99% is the value at which there is a 99% confidence level that the enrichment factor is below this value at any given time. EF95% is used to calculate the "violation" dust metal concentration limit (DMCLv):
 If the kiln dust metal concentration is just above this "violation" limit, and the PM emissions are at the PM emissions limit, there is a 5% chance that the metal emissions are above the Tier III limit. In such a case, the facility would be in violation of the metals standard.
-To provide a margin of safety, a second, more conservative kiln dust metal concentration limit is also used. This "conservative" dust metal concentration limit (DMCLc) is calculated using a "safe" enrichment factor (SEF). If EF99 % is greater than two times the value of EF95 %, the "safe" enrichment factor can be calculated using Equation 4a:
-SEF≥2 EF95 % (4a)
-If EF99 % is not greater than two times the value of EF95 %, the "safe" enrichment factor can be calculated using Equation 4b:
-SEF≥EF99 % (4b)
+To provide a margin of safety, a second, more conservative kiln dust metal concentration limit is also used. This "conservative" dust metal concentration limit (DMCLc) is calculated using a "safe" enrichment factor (SEF). If EF99% is greater than two times the value of EF95%, the "safe" enrichment factor can be calculated using Equation 4a:
+SEF≥2 EF95% (4a)
+If EF99% is not greater than two times the value of EF95%, the "safe" enrichment factor can be calculated using Equation 4b:
+SEF≥EF99% (4b)
 In cases where the enrichment factor cannot be determined because the kiln dust metal concentration is nondetectable, the "safe" enrichment factor is as follows:
 SEF = 100 (4c)
 For all cases, the "conservative" dust metal concentration limit is calculated using the following equation:
-EC06NO91.017
 If the kiln dust metal concentration at a facility is just above the "conservative" limit based on that "safe" enrichment factor provided in Equation 4a, and the PM emissions are at the PM emissions limit, there is a 5% chance that the metal emissions are above one-half the Tier III limit. If the kiln dust metal concentration at the facility is just above the "conservative" limit based on the "safe" enrichment factor provided in Equation 4b, and the PM emissions are at the PM emissions limit, there is a 1% chance that the metal emissions are above the Tier III limit. In either case, the facility would be unacceptably close to a violation. If this situation occurs more than 5% of the time, the facility would be required to rerun the series of 10 tests to determine the enrichment factor. To avoid this expense, the facility would be advised to reduce its metals feedrates or to take other appropriate measures to maintain its kiln dust metal concentrations in compliance with the "conservative" dust metal concentration limits.
-In cases where the enrichment factor cannot be determined because the kiln dust metal concentration is nondetectable, and thus no EF95 % exists, the "violation" dust metal concentration limit is set at ten times the "conservative" limit:
+In cases where the enrichment factor cannot be determined because the kiln dust metal concentration is nondetectable, and thus no EF95% exists, the "violation" dust metal concentration limit is set at ten times the "conservative" limit:
 DMCLv = 10 × DMCLc (6)
 10.4 Overview
 The flowchart for implementing the method is shown in Figure 10.4-1. The general procedure is as follows:
 • Follow the certification of precompliance procedures described in subsection 10.6 (to comply with 40 CFR 266.103(b)).
 • For each metal of concern, perform a series of tests to establish the relationship (enrichment factor) between the concentration of emitted metal and the metal concentration in the collected kiln dust.
 • Use the demonstrated enrichment factor, in combination with the Tier III (or Tier II) metal emission limit and the most stringent applicable particulate emission limit, to calculate the "violation" and "conservative" dust metal concentration limits. Include this information with the certification of compliance under 40 CFR 266.103(c).
-EC01AU92.042
 • Perform daily and/or weekly monitoring of the cement kiln dust metal concentration to ensure (with appropriate QA/QC) that the metal concentration does not exceed either limit.
 —If the cement kiln dust metal concentration exceeds the "conservative" limit more than 5% of the time (i.e., more than three failures in last 60 tests), the series of tests to determine the enrichment factor must be repeated.
 —If the cement kiln dust metal concentration exceeds the "violation" limit, a violation has occurred.
@@ -957,7 +945,7 @@ A step-by-step description for implementing the method is provided below:
 —Stack sampling must be conducted with the multiple metals train according to procedures provided in section 10.3 of this Methods Manual.
 —Kiln dust sampling must be conducted as follows:
 —Follow appropriate sampling and analytical procedures such as those described in the waste analysis plan as they pertain to the condition and accessibility of the dust.
-—Samples should be representative of the last ESP or Fabric Filter in the APCS ­series.
+—Samples should be representative of the last ESP or Fabric Filter in the APCS series.
 • The feedrates of hazardous metals in all pumpable hazardous waste streams and in all hazardous waste streams must be monitored during these tests. It is recommended (but not required) that the feedrates of hazardous metals in all feedstreams also be monitored.
 • At least ten single (noncomposited) runs are required during the tests.
 —The facility must follow a normal schedule of kiln dust recharging for all of the tests.
@@ -966,33 +954,33 @@ A step-by-step description for implementing the method is provided below:
 • Verify that compliance emission limits are not exceeded.
 —Metal emissions must not exceed Tier III (or Tier II) limits.
 —PM emissions must not exceed the most stringent of applicable PM standards (or an optional self-imposed particulate standard).
-• The facility must generate normal, marketable product using normal raw materials and fuels under normal operating conditions (for parameters other than those specified under this method) when these tests are ­conducted.
+• The facility must generate normal, marketable product using normal raw materials and fuels under normal operating conditions (for parameters other than those specified under this method) when these tests are conducted.
 • Chromium must be treated as a special case:
 —The enrichment factor for total chromium is calculated in the same way as the enrichment factor for other metals (i.e., the enrichment factor is the ratio of the concentration of total chromium in the emitted particulate matter to the concentration of total chromium in the collected kiln dust).
 —The enrichment factor for hexavalent chromium (if measured) is defined as the ratio of the concentration of hexavalent chromium in the emitted particulate matter to the concentration of total chromium in the collected kiln dust.
-(3) Use the enrichment factors measured in Step 2 to determine EF95 %, EF99 %, and SEF.
-• Calculate EF95 % and EF99 % according to the t-distribution as described in Appendix A
+(3) Use the enrichment factors measured in Step 2 to determine EF95%, EF99%, and SEF.
+• Calculate EF95% and EF99% according to the t-distribution as described in Appendix A
 • Calculate SEF by
-—Equation 4a if EF95 % is determinable and if EF99 % is greater than two times EF95 %,
-—Equation 4b if EF95 % is determinable and if EF99 % is not greater than two times EF95 %,
-—Equation 4c if EF95 % is not determinable.
+—Equation 4a if EF95% is determinable and if EF99% is greater than two times EF95%,
+—Equation 4b if EF95% is determinable and if EF99% is not greater than two times EF95%,
+—Equation 4c if EF95% is not determinable.
 The facility may choose to set an even more conservative SEF to give itself a larger margin of safety between the point where corrective action is necessary and the point where a violation occurs.
 (4) Prepare certification of compliance.
 • Calculate the "conservative" dust metal concentration limit (DMCLc) using Equation 5.
 —Chromium is treated as a special case. The "conservative" kiln dust chromium concentration limit is set for total chromium, not for hexavalent chromium. The limit for total chromium must be calculated using the Tier III (or Tier II) metal limit for hexavalent chromium.
 —If the stack samples described in Step 2 were analyzed for hexavalent chromium, the SEF based on the hexavalent chromium enrichment factors (as defined in Step 2) must be used in this calculation.
 —If the stack samples were not analyzed for hexavalent chromium, then the SEF based on the total chromium enrichment factor must be used in this calculation.
-• Calculate the "violation" dust metal concentration limit (DMCLv) using Equation 3 if EF95 % is determinable, or using Equation 6 if EF95 % is not determinable.
+• Calculate the "violation" dust metal concentration limit (DMCLv) using Equation 3 if EF95% is determinable, or using Equation 6 if EF95% is not determinable.
 —Chromium is treated as a special case. The "violation" kiln dust chromium concentration limit is set for total chromium, not for hexavalent chromium. The limit for total chromium must be calculated using the Tier III (or Tier II) metal limit for hexavalent chromium.
-—If the stack samples taken in Step 2 were analyzed for hexavalent chromium, the EF95 % based on the hexavalent chromium enrichment factor (as defined in Step 2) should be used in this calculation.
-—If the stack samples were not analyzed for hexavalent chromium, the EF95 % based on the total chromium enrichment factor must be used in this calculation.
+—If the stack samples taken in Step 2 were analyzed for hexavalent chromium, the EF95% based on the hexavalent chromium enrichment factor (as defined in Step 2) should be used in this calculation.
+—If the stack samples were not analyzed for hexavalent chromium, the EF95% based on the total chromium enrichment factor must be used in this calculation.
 • Submit certification of compliance.
 • Steps 2-4 must be repeated for recertification, which is required once every 3 years (see § 266.103(d)).
 (5) Monitor metal concentrations in kiln dust for continuing compliance, and maintain compliance with all compliance limits for the duration of interim status.
 • Metals to be monitored during compliance testing are classified as either "critical" or "noncritical" metals.
 —All metals must initially be classified as "critical" metals and be monitored on a daily basis.
 —A "critical" metal may be reclassified as a "noncritical" metal if its concentration in the kiln dust remains below 10% of its "conservative" kiln dust metal concentration limit for 30 consecutive daily samples. "Noncritical" metals must be monitored on a weekly basis.
-—A "noncritical" metal must be reclassified as a "critical" metal if its concentration in the kiln dust is above 10% of its "conservative" kiln dust metal concentration limit for any single daily or weekly ­sample.
+—A "noncritical" metal must be reclassified as a "critical" metal if its concentration in the kiln dust is above 10% of its "conservative" kiln dust metal concentration limit for any single daily or weekly sample.
 • Noncompliance with the sampling and analysis schedule prescribed by this method is a violation of the metals controls under § 266.103.
 • Follow the sampling, compositing, and analytical procedures described in this method and in other appropriate methods, as they pertain to the condition and accessibility of the kiln dust.
 • Follow the same procedures and sample at the same locations as were used for kiln dust samples collected to determine the enrichment factors (as discussed in Step 2).
@@ -1018,8 +1006,8 @@ The facility may choose to set an even more conservative SEF to give itself a la
 —It must generate normal marketable product from normal raw materials during the tests.
 (7) Conduct a statistical test to determine if the enrichment factors measured in the quarterly verification tests have increased significantly from the enrichment factors determined in the tests conducted in Step 2. The enrichment factors have increased significantly if all three of the following criteria are met:
 • By applying the t-test described in appendix A, it is determined that the enrichment factors measured in the quarterly tests are not taken from the same population as the enrichment factors measured in the Step 2 tests;
-• The EF95 % calculated for the combined data sets (i.e., the quarterly test data and the original Step 2 test data) according to the t-distribution (described in appendix A) is more than 10% higher than the EF95 % based on the enrichment factors previously measured in Step 2; and
-• The highest measured kiln dust metal concentration recorded in the previous quarter is more than 10% of the "violation" kiln dust concentration limit that would be calculated from the combined EF95 %.
+• The EF95% calculated for the combined data sets (i.e., the quarterly test data and the original Step 2 test data) according to the t-distribution (described in appendix A) is more than 10% higher than the EF95% based on the enrichment factors previously measured in Step 2; and
+• The highest measured kiln dust metal concentration recorded in the previous quarter is more than 10% of the "violation" kiln dust concentration limit that would be calculated from the combined EF95%.
 If the enrichment factors have increased significantly, the tests to determine the enrichment factors must be repeated (refer to Step 11). If the enrichment factors have not increased significantly, continue to use the kiln dust metal concentration limits based on the enrichment factors previously measured in Step 2, and continue with the daily and/or weekly monitoring described in Step 5.
 (8) If the "conservative" kiln dust metal concentration limit was exceeded for any metal in any single analysis of the "required" kiln dust sample, the "spare" samples corresponding to the same period may be analyzed to determine if the exceedance was due to a sampling or analysis error.
 • If no "spare" samples were taken, refer to Step 9.
@@ -1055,7 +1043,6 @@ The flowchart for implementing the precompliance procedures is shown in Figure 1
 —Analysis of hazardous waste feedstreams.
 —Daily and/or weekly monitoring of kiln dust concentrations for continuing compliance.
 (2) Determine the "safe" enrichment factor for precompliance. In this context, the "safe" enrichment factor is a conservatively high estimate of the enrichment factor (the ratio of the emitted metal concentration to the metal concentration in the collected kiln dust). The "safe" enrichment factor must be calculated from either conservative default values, or engineering judgement.
-EC01AU92.043
 • Conservative default values for the "safe" enrichment factor are as follows:
 —SEF = 10 for all hazardous metals except mercury. SEF = 10 for antimony, arsenic, barium, beryllium, cadmium, chromium, lead, silver, and thallium.
 —SEF = 100 for mercury.
@@ -1073,7 +1060,7 @@ Examples of situations where the use of engineering judgement is appropriate inc
 • Metals to be monitored during precompliance testing are classified as either "critical" or "noncritical" metals.
 —All metals must initially be classified as "critical" metals and be monitored on a daily basis.
 —A "critical" metal may be reclassified as a "noncritical" metal if its concentration in the kiln dust remains below 10% of its "conservative" kiln dust metal concentration limit for 30 consecutive daily samples. "Noncritical" metals must be monitored on a weekly basis, at a minimum.
-—A "noncritical" metal must be reclassified as a "critical" metal if its concentration in the kiln dust is above 10% of its "conservative" kiln dust metal concentration limit for any single daily or weekly ­sample.
+—A "noncritical" metal must be reclassified as a "critical" metal if its concentration in the kiln dust is above 10% of its "conservative" kiln dust metal concentration limit for any single daily or weekly sample.
 • It is a violation if the facility fails to analyze the kiln dust for any "critical" metal on any single day or for any "noncritical" metal during any single week, when hazardous waste is burned.
 • Follow the sampling, compositing, and analytical procedures described in this method and in other appropriate methods as they pertain to the condition and accessibility of the kiln dust.
 • Samples must be collected at least once every 8 hours, and a daily composite must be prepared according to appropriate procedures.
@@ -1111,21 +1098,17 @@ Examples of situations where the use of engineering judgement is appropriate inc
 • Meanwhile, the facility must continue with daily kiln dust metals monitoring (Step 5).
 Appendix A to Appendix IX to Part 266—Statistics
 A.1 Determination of Enrichment Factor
-After at least 10 initial emissions tests are performed, an enrichment factor for each metal must be determined. At the 95% confidence level, the enrichment factor, EF95 %, is based on the test results and is statistically determined so there is only a 5% chance that the enrichment factor at any given time will be larger than EF95 %. Similarly, at the 99% confidence level, the enrichment factor, EF99 %, is statistically determined so there is only a 1% chance that the enrichment factor at any given time will be larger than EF99 %.
-For a large number of samples (n >30), EF95 % is based on a normal distribution, and is equal to:
-EF 95 %=EF + z c σ (1)
+After at least 10 initial emissions tests are performed, an enrichment factor for each metal must be determined. At the 95% confidence level, the enrichment factor, EF95%, is based on the test results and is statistically determined so there is only a 5% chance that the enrichment factor at any given time will be larger than EF95%. Similarly, at the 99% confidence level, the enrichment factor, EF99%, is statistically determined so there is only a 1% chance that the enrichment factor at any given time will be larger than EF99%.
+For a large number of samples (n >30), EF95% is based on a normal distribution, and is equal to:
+EF95%=EF + zc σ (1)
 where:
-EC06NO91.018
-EC06NO91.019
 For a 95% confidence level, zc is equal to 1.645.
-For a small number of samples (n<30), EF95 % is based on the t-distribution and is equal to:
-EF 95 %=EF + t c S (4)
+For a small number of samples (n<30), EF95% is based on the t-distribution and is equal to:
+EF95%=EF + tc S (4)
 where the standard deviation, S, is defined as:
-EC06NO91.020
 tc is a function of the number of samples and the confidence level that is desired. It increases in value as the sample size decreases and the confidence level increases. The 95% confidence level is used in this method to calculate the "violation" kiln dust metal concentration limit; and the 99% confidence level is sometimes used to calculate the "conservative" kiln dust metal concentration limit. Values of tc are shown in table A-1 for various degrees of freedom (degrees of freedom = sample size−1) at the 95% and 99% confidence levels. As the sample size approaches infinity, the normal distribution is approached.
 A.2 Comparison of Enrichment Factor Groups
 To determine if the enrichment factors measured in the quarterly tests are significantly different from the enrichment factors determined in the initial Step 2 tests, the t-test is used. In this test, the value tmeas:
-EC06NO91.021
 Table A-1—t-Distribution
 n-1 or n1 + n2−2 | t.95 | t.99
 1 | 6.31 | 31.82
@@ -1154,12 +1137,10 @@ n-1 or n1 + n2−2 | t.95 | t.99
 60 | 1.67 | 2.39
 120 | 1.66 | 2.36
 ∞ | 1.645 | 2.33
-EC06NO91.022
 is compared to tcrit at the desired confidence level. The 95% confidence level is used in this method. Values of tcrit are shown in table A-1 for various degrees of freedom (degrees of freedom n1 + n2−2) at the 95% and 99% confidence levels. If tmeas is greater than tcrit, it can be concluded with 95% confidence that the two groups are not from the same population.
 A.3 Rejection of Data
 If the concentration of any hazardous metal in the "required" kiln dust sample exceeds the kiln dust metal concentration limit, the "spare" samples are analyzed. If the average of the combined "required" and "spare" values is still above the limit, a statistical test is used to decide if the upper value can be rejected.
 The "Q-test" is used to determine if a data point can be rejected. The difference between the questionable result and its neighbor is divided by the spread of the entire data set. The resulting ratio, Qmeas, is then compared with rejection values that are critical for a particular degree of confidence, where Qmeas is:
-EC06NO91.023
 The 90% confidence level for data rejection is used in this method. Table A-2 provides the values of Qcrit at the 90% confidence level. If Qmeas is larger than Qcrit, the data point can be discarded. Only one data point from a sample group can be rejected using this method.
 Table A-2—Critical Values for Use in the Q-Test
 n | Qcrit

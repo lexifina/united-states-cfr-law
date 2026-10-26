@@ -1,5 +1,6 @@
 # Appendix II to Part 266—Tier I Feed Rate Screening Limits for Total Chlorine
-Terrain-adjusted effective stack height (m) | Noncomplex Terrain | Urban (g/hr) | Rural (g/hr) | Complex Terrain | (g/hr)
+Terrain-adjusted effective stack height (m) | Noncomplex Terrain | Complex Terrain
+Urban (g/hr) | Rural (g/hr) | (g/hr)
 4 | 8.2E + 01 | 4.2E + 01 | 1.9E + 01
 6 | 9.1E + 01 | 4.8E + 01 | 2.8E + 01
 8 | 1.0E + 02 | 5.3E + 01 | 4.1E + 01

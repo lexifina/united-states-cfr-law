@@ -1,5 +1,7 @@
 # Appendix III to Part 266—Tier II Emission Rate Screening Limits for Free Chlorine and Hydrogen Chloride
-Terrain-adjusted effective stack height (m) | Noncomplex terrain | Values for urban areas | Cl2 (g/hr) | HCl (g/hr) | Values for rural areas | Cl2 (g/hr) | HCl (g/hr) | Complex terrain | Values for use in urban and rural areas | Cl2 (g/hr) | HCl (g/hr)
+Terrain-adjusted effective stack height (m) | Noncomplex terrain | Complex terrain
+Values for urban areas | Values for rural areas | Values for use in urban and rural areas
+Cl2 (g/hr) | HCl (g/hr) | Cl2 (g/hr) | HCl (g/hr) | Cl2 (g/hr) | HCl (g/hr)
 4 | 8.2E + 01 | 1.4E + 03 | 4.2E + 01 | 7.3E + 02 | 1.9E + 01 | 3.3E + 02
 6 | 9.1E + 01 | 1.6E + 03 | 4.8E + 01 | 8.3E + 02 | 2.8E + 01 | 4.9E + 02
 8 | 1.0E + 02 | 1.8E + 03 | 5.3E + 01 | 9.2E + 02 | 4.1E + 01 | 7.1E + 02
