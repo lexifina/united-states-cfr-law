@@ -1,7 +1,1 @@
 # Appendix C to Part 623—Agreement for Loan of US Army Materiel (DA Form 4881-R)
-EC24OC91.013
-EC24OC91.014
-EC24OC91.015
-EC24OC91.016
-EC24OC91.017
-EC24OC91.018
