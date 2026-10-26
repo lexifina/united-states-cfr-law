@@ -34,20 +34,20 @@ If the facility does not meet the substantial harm criteria listed in Attachment
 4.0 References
 Chow, V.T. 1959. Open Channel Hydraulics. McGraw Hill.
 USCG IFR (58 FR 7353, February 5, 1993). This document is available through EPA's rulemaking docket as noted in appendix E to this part, section 13.
-Attachments to Appendix C ER30JN00.061
+Attachments to Appendix C
 Attachment C-II—Certification of the Applicability of the Substantial Harm Criteria
 Facility Name:
 Facility Address:
 1. Does the facility transfer oil over water to or from vessels and does the facility have a total oil storage capacity greater than or equal to 42,000 gallons?
-Yes ___ No ___
+Yes ____ No ____
 2. Does the facility have a total oil storage capacity greater than or equal to 1 million gallons and does the facility lack secondary containment that is sufficiently large to contain the capacity of the largest aboveground oil storage tank plus sufficient freeboard to allow for precipitation within any aboveground oil storage tank area?
-Yes ___ No ___
+Yes ____ No ____
 3. Does the facility have a total oil storage capacity greater than or equal to 1 million gallons and is the facility located at a distance (as calculated using the appropriate formula in Attachment C-III to this appendix or a comparable formula 1) such that a discharge from the facility could cause injury to fish and wildlife and sensitive environments? For further description of fish and wildlife and sensitive environments, see Appendices I, II, and III to DOC/NOAA's "Guidance for Facility and Vessel Response Plans: Fish and Wildlife and Sensitive Environments" (see appendix E to this part, section 13, for availability) and the applicable Area Contingency Plan.
-Yes ___ No ___
+Yes ____ No ____
 4. Does the facility have a total oil storage capacity greater than or equal to 1 million gallons and is the facility located at a distance (as calculated using the appropriate formula in Attachment C-III to this appendix or a comparable formula 1) such that a discharge from the facility would shut down a public drinking water intake? 2
-Yes ___ No ___
+Yes ____ No ____
 5. Does the facility have a total oil storage capacity greater than or equal to 1 million gallons and has the facility experienced a reportable oil discharge in an amount greater than or equal to 10,000 gallons within the last 5 years?
-Yes ___ No ___
+Yes ____ No ____
 Certification
 I certify under penalty of law that I have personally examined and am familiar with the information submitted in this document, and that based on my inquiry of those individuals responsible for obtaining this information, I believe that the submitted information is true, accurate, and complete.
 Signature
@@ -70,25 +70,24 @@ v: the velocity of the river/navigable water of concern (in ft/sec) as determine
 t: the time interval specified in Table 3 based upon the type of water body and location (in hours); and
 c: constant conversion factor 0.68 secω mile/hrω ft (3600 sec/hr ÷ 5280 ft/mile).
 2.2 Chezy-Manning's equation is used to determine velocity:
-v = 1.5/n × r2/3 × s1/2; where
+v = 1.5/n × r 2/3 × s 1/2; where
 v = the velocity of the river of concern (in ft/sec);
 n = Manning's Roughness Coefficient from Table 1 of this attachment;
 r = the hydraulic radius; the hydraulic radius can be approximated for parabolic channels by multiplying the average mid-channel depth of the river (in feet) by 0.667 (sources for obtaining the mid-channel depth are listed in Table 2 of this attachment); and
 s = the average slope of the river (unitless) obtained from U.S. Geological Survey topographic maps at the address listed in Table 2 of this attachment.
-Table 1—Manning's Roughness Coefficient for Natural Streams
-[Note: Coefficients are presented for high flow rates at or near flood stage.]
+Table 1—Manning's Roughness Coefficient for Natural Streams [Note: Coefficients are presented for high flow rates at or near flood stage.]
 Stream description | Roughness coefficient (n)
-Minor Streams (Top Width <100 ft.)
-Clean:
+Minor Streams (Top Width <100 ft.) |
+Clean: |
 Straight | 0.03
 Winding | 0.04
-Sluggish (Weedy, deep pools):
+Sluggish (Weedy, deep pools): |
 No trees or brush | 0.06
 Trees and/or brush | 0.10
-Major Streams (Top Width >100 ft.)
-Regular section:
+Major Streams (Top Width >100 ft.) |
+Regular section: |
 (No boulders/brush) | 0.035
-Irregular section:
+Irregular section: |
 (Brush) | 0.05
 Table 2—Sources of r and s for the Chezy-Manning Equation
 All of the charts and related publications for navigational waters may be ordered from:
@@ -180,8 +179,8 @@ The average mid-channel depth is found by averaging the mid-channel depth for ea
 Solving:
 r = 0.667 × 20 feet = 13.33 feet
 Solve for v using:
-v = 1.5/n × r2/3 × s1/2:
-v = [1.5/0.035] × (13.33)2/3 × (1.3 × 10−4)1/2
+v = 1.5/n × r 2/3 × s 1/2:
+v = [1.5/0.035] × (13.33) 2/3 × (1.3 × 10−4) 1/2
 v = 2.73 feet/second
 (2) Find t from Table 3 of this attachment. The Monongahela River's resource response time is 27 hours.
 (3) Solve for planning distance, d:
@@ -193,15 +192,15 @@ Therefore, 50 miles downstream is the appropriate planning distance for this fac
 3.1 For bodies of water including lakes or ponds that do not have a measurable velocity, the spreading of the oil over the surface must be considered. Owners or operators of facilities located next to still water bodies may use a comparable means of calculating the planning distance. If a comparable formula is used, documentation of the reliability and analytical soundness of the comparable calculation must be attached to the response plan cover sheet.
 3.2 Example of the Planning Distance Calculation for Oil Transport on Still Water. To assist those facilities which could potentially discharge into a still body of water, the following analysis was performed to provide an example of the type of formula that may be used to calculate the planning distance. For this example, a worst case discharge of 2,000,000 gallons is used.
 (1) The surface area in square feet covered by an oil discharge on still water, A1, can be determined by the following formula, 2 where V is the volume of the discharge in gallons and C is a constant conversion factor:
-A1 = 105 × V3/4 × C
+A1 = 10 5 × V 3/4 × C
 C = 0.1643
-A1 = 105 × (2,000,000 gallons)3/4 × (0.1643)
-A1 = 8.74 × 108 ft2
+A1 = 10 5 × (2,000,000 gallons) 3/4 × (0.1643)
+A1 = 8.74 × 10 8 ft 2
 (2) The spreading formula is based on the theoretical condition that the oil will spread uniformly in all directions forming a circle. In reality, the outfall of the discharge will direct the oil to the surface of the water where it intersects the shoreline. Although the oil will not spread uniformly in all directions, it is assumed that the discharge will spread from the shoreline into a semi-circle (this assumption does not account for winds or wave action).
-(3) The area of a circle=† r2
+(3) The area of a circle=† r 2
 (4) To account for the assumption that oil will spread in a semi-circular shape, the area of a circle is divided by 2 and is designated as A2.
-A2 = († r2)/2
-Solving for the radius, r, using the relationship A1 = A2: 8.74 × 108 ft2 = (†2)/2
+A2 = († r 2)/2
+Solving for the radius, r, using the relationship A1 = A2: 8.74 × 10 8 ft 2 = († 2)/2
 Therefore, r = 23,586 ft
 r = 23,586 ft ÷ 5,280 ft/mile = 4.5 miles
 Assuming a 20 knot wind under storm conditions:
@@ -247,4 +246,3 @@ D4 = Distance from the nearest opportunity for discharge, X2, to fish and wildli
 5.6 A facility that is located at a distance greater than 0.5 mile from a navigable water must also calculate a planning distance (D3) if it is in close proximity (i.e., D1 is less than 0.5 mile and other factors are conducive to oil travel over land) to storm drains that flow to navigable waters. Factors to be considered in assessing oil transport over land to storm drains shall include the topography of the surrounding area, drainage patterns, man-made barriers (excluding secondary containment structures), and soil distribution and porosity. Storm drains or concrete drainage channels that are located in close proximity to the facility can provide a direct pathway to navigable waters, regardless of the length of the drainage pipe. If D1 is less than or equal to 0.5 mile, a discharge from the facility could pose substantial harm because the time to travel the distance from the storm drain to the navigable water (D2) is virtually instantaneous.
 5.7 A facility's proximity to fish and wildlife and sensitive environments not bordering a navigable water, as depicted as D4 in Figure C-I of this attachment, must also be considered, regardless of the distance from the facility to navigable waters. Factors to be considered in assessing oil transport over land to fish and wildlife and sensitive environments should include the topography of the surrounding area, drainage patterns, man-made barriers (excluding secondary containment structures), and soil distribution and porosity.
 5.8 If a facility is not found to pose substantial harm to fish and wildlife and sensitive environments not bordering navigable waters via oil transport on land, then supporting documentation should be maintained at the facility. However, such documentation should be submitted with the response plan if a facility is found to pose substantial harm.
-EC01MR92.010

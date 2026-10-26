@@ -64,7 +64,7 @@
 5.1 A facility owner or operator shall identify and ensure the availability of, by contract or other approved means as described in § 112.2, sufficient response resources to respond to the worst case discharge of oil to the maximum extent practicable. Sections 7 and 10 of this appendix describe the method to determine the necessary response resources. Worksheets are provided as Attachments E-1 and E-2 at the end of this appendix to simplify the procedures involved in calculating the planning volume for response resources for the worst case discharge.
 5.2 Complexes that are regulated by EPA and the USCG must also consider planning for the worst case discharge at the transportation-related portion of the facility. The USCG requires that transportation-related facility owners or operators use a different calculation for the worst case discharge in the revisions to 33 CFR part 154. Owners or operators of complex facilities that are regulated by EPA and the USCG must compare both calculations of worst case discharge derived by EPA and the USCG and plan for whichever volume is greater.
 5.3 Oil discharge response resources identified in the response plan and available, by contract or other approved means as described in § 112.2, to meet the applicable worst case discharge planning volume must be located such that they are capable of arriving at the scene of a discharge within the times specified for the applicable response tier listed as follows
-| Tier 1(in hours) | Tier 2(in hours) | Tier 3(in hours)
+| Tier 1 (in hours) | Tier 2 (in hours) | Tier 3 (in hours)
 Higher volume port areas | 6 | 30 | 54
 Great Lakes | 12 | 36 | 60
 All other river and canal, inland, and nearshore areas | 12 | 36 | 60
@@ -231,12 +231,15 @@ Appointments to review the docket can be made by calling 703-603-9232. Docket ho
 (3) ASTM Standards. ASTM F 715, ASTM F 989, ASTM F 631-99, ASTM F 808-83 (1999). The ASTM standards are available from the American Society for Testing and Materials, 100 Barr Harbor Drive, West Conshohocken, PA 19428-2959.
 (4) Response Plans for Marine Transportation-Related Facilities, Interim Final Rule. Published by USCG, DOT at 58 FR 7330-76, February 5, 1993.
 Table 1 to Appendix E—Response Resource Operating Criteria
-Oil Recovery Devices | Operating environment | Significant wave height 1 | Sea state
+Oil Recovery Devices
+Operating environment | Significant wave height 1 | Sea state
 Rivers and Canals | ≤1 foot | 1
 Inland | ≤3 feet | 2
 Great Lakes | ≤4 feet | 2-3
 Ocean | ≤6 feet | 3-4
-Boom | Boom property | Use | Rivers and canals | Inland | Great Lakes | Ocean
+Boom
+Boom property | Use
+Rivers and canals | Inland | Great Lakes | Ocean
 Significant Wave Height 1 | ≤1 | ≤3 | ≤4 | ≤6
 Sea State | 1 | 2 | 2-3 | 3-4
 Boom height—inches (draft plus freeboard) | 6-18 | 18-42 | 18-42 | ≥42
@@ -246,21 +249,22 @@ Skirt Fabric Tensile Strength—pounds | 200 | 300 | 300 | 500
 Skirt Fabric Tear Strength—pounds | 100 | 100 | 100 | 125
 1 Oil recovery devices and boom shall be at least capable of operating in wave heights up to and including the values listed in Table 1 for each operating environment.
 Table 2 to Appendix E—Removal Capacity Planning Table for Petroleum Oils
-Spill location | Sustainability of on-water oil recovery | Oil group 1 | Rivers and canals | 3 days | Percent natural dissipation | Percent recovered floating oil | Percent oil onshore | Nearshore/Inland/Great Lakes | 4 days | Percent natural dissipation | Percent recovered floating oil | Percent oil onshore
+Spill location | Rivers and canals | Nearshore/Inland/Great Lakes
+Sustainability of on-water oil recovery | 3 days | 4 days
+Oil group 1 | Percent natural dissipation | Percent recovered floating oil | Percent oil onshore | Percent natural dissipation | Percent recovered floating oil | Percent oil onshore
 1—Non-persistent oils | 80 | 10 | 10 | 80 | 20 | 10
 2—Light crudes | 40 | 15 | 45 | 50 | 50 | 30
 3—Medium crudes and fuels | 20 | 15 | 65 | 30 | 50 | 50
 4—Heavy crudes and fuels | 5 | 20 | 75 | 10 | 50 | 70
-1 The response resource considerations for non-petroleum oils other than animal fats and vegetable oils are outlined in section 7.7 of this appendix.
-Note: Group 5 oils are defined in section 1.2.8 of this appendix; the response resource considerations are outlined in section 7.6 of this appendix.
+1 The response resource considerations for non-petroleum oils other than animal fats and vegetable oils are outlined in section 7.7 of this appendix. Note: Group 5 oils are defined in section 1.2.8 of this appendix; the response resource considerations are outlined in section 7.6 of this appendix.
 Table 3 to Appendix E—Emulsification Factors for Petroleum Oil Groups 1
-Non-Persistent Oil:
+Non-Persistent Oil: |
 Group 1 | 1.0
-Persistent Oil:
+Persistent Oil: |
 Group 2 | 1.8
 Group 3 | 2.0
 Group 4 | 1.4
-Group 5 oils are defined in section 1.2.7 of this appendix; the response resource considerations are outlined in section 7.6 of this appendix.
+Group 5 oils are defined in section 1.2.7 of this appendix; the response resource considerations are outlined in section 7.6 of this appendix. |
 1 See sections 1.2.2 and 1.2.7 of this appendix for group designations for non-persistent and persistent oils, respectively.
 Table 4 to Appendix E—On-Water Oil Recovery Resource Mobilization Factors
 Operating area | Tier 1 | Tier 2 | Tier 3
@@ -269,39 +273,29 @@ Inland/Nearshore Great Lakes | 0.15 | 0.25 | 0.40
 Note: These mobilization factors are for total resources mobilized, not incremental response resources.
 Table 5 to Appendix E—Response Capability Caps by Operating Area
 | Tier 1 | Tier 2 | Tier 3
-February 18, 1993:
+February 18, 1993: | | |
 All except Rivers & Canals, Great Lakes | 10K bbls/day | 20K bbls/day | 40K bbls/day.
 Great Lakes | 5K bbls/day | 10K bbls/day | 20K bbls/day.
 Rivers & Canals | 1.5K bbls/day | 3.0K bbls/day | 6.0K bbls/day.
-February 18, 1998:
+February 18, 1998: | | |
 All except Rivers & Canals, Great Lakes | 12.5K bbls/day | 25K bbls/day | 50K bbls/day.
 Great Lakes | 6.35K bbls/day | 12.3K bbls/day | 25K bbls/day.
 Rivers & Canals | 1.875K bbls/day | 3.75K bbls/day | 7.5K bbls/day.
-February 18, 2003:
+February 18, 2003: | | |
 All except Rivers & Canals, Great Lakes | TBD | TBD | TBD.
 Great Lakes | TBD | TBD | TBD.
 Rivers & Canals | TBD | TBD | TBD.
-Note: The caps show cumulative overall effective daily recovery capacity, not incremental increases.
-TBD = To Be Determined.
+Note: The caps show cumulative overall effective daily recovery capacity, not incremental increases. TBD = To Be Determined.
 Table 6 to Appendix E—Removal Capacity Planning Table for Animal Fats and Vegetable Oils
-Spill location | Sustainability of on-water oil recovery | Oil group 1 | Rivers and canals | 3 days | Percent natural loss | Percent recovered floating oil | Percent recovered oil from onshore | Nearshore/Inland/Great Lakes | 4 days | Percent natural loss | Percent recovered floating oil | Percent recovered oil from onshore
+Spill location | Rivers and canals | Nearshore/Inland/Great Lakes
+Sustainability of on-water oil recovery | 3 days | 4 days
+Oil group 1 | Percent natural loss | Percent recovered floating oil | Percent recovered oil from onshore | Percent natural loss | Percent recovered floating oil | Percent recovered oil from onshore
 Group A | 40 | 15 | 45 | 50 | 20 | 30
 Group B | 20 | 15 | 65 | 30 | 20 | 50
-1 Substances with a specific gravity greater than 1.0 generally sink below the surface of the water. Response resource considerations are outlined in section 10.6 of this appendix. The owner or operator of the facility is responsible for determining appropriate response resources for Group C oils including locating oil on the bottom or suspended in the water column; containment boom or other appropriate methods for containing oil that may remain floating on the surface; and dredges, pumps, or other equipment to recover animal fats or vegetable oils from the bottom and shoreline.
-Note: Group C oils are defined in sections 1.2.1 and 1.2.9 of this appendix; the response resource procedures are discussed in section 10.6 of this appendix.
+1 Substances with a specific gravity greater than 1.0 generally sink below the surface of the water. Response resource considerations are outlined in section 10.6 of this appendix. The owner or operator of the facility is responsible for determining appropriate response resources for Group C oils including locating oil on the bottom or suspended in the water column; containment boom or other appropriate methods for containing oil that may remain floating on the surface; and dredges, pumps, or other equipment to recover animal fats or vegetable oils from the bottom and shoreline. Note: Group C oils are defined in sections 1.2.1 and 1.2.9 of this appendix; the response resource procedures are discussed in section 10.6 of this appendix.
 Table 7 to Appendix E—Emulsification Factors for Animal Fats and Vegetable Oils
-Oil Group 1:
+Oil Group 1: |
 Group A | 1.0
 Group B | 2.0
-1 Substances with a specific gravity greater than 1.0 generally sink below the surface of the water. Response resource considerations are outlined in section 10.6 of this appendix. The owner or operator of the facility is responsible for determining appropriate response resources for Group C oils including locating oil on the bottom or suspended in the water column; containment boom or other appropriate methods for containing oil that may remain floating on the surface; and dredges, pumps, or other equipment to recover animal fats or vegetable oils from the bottom and shoreline.
-Note: Group C oils are defined in sections 1.2.1 and 1.2.9 of this appendix; the response resource procedures are discussed in section 10.6 of this appendix.
+1 Substances with a specific gravity greater than 1.0 generally sink below the surface of the water. Response resource considerations are outlined in section 10.6 of this appendix. The owner or operator of the facility is responsible for determining appropriate response resources for Group C oils including locating oil on the bottom or suspended in the water column; containment boom or other appropriate methods for containing oil that may remain floating on the surface; and dredges, pumps, or other equipment to recover animal fats or vegetable oils from the bottom and shoreline. Note: Group C oils are defined in sections 1.2.1 and 1.2.9 of this appendix; the response resource procedures are discussed in section 10.6 of this appendix.
 Attachments to Appendix E
-ER30JN00.062
-ER30JN00.063
-ER30JN00.064
-ER30JN00.065
-ER30JN00.066
-ER30JN00.067
-ER30JN00.068
-ER30JN00.069
-ER30JN00.070

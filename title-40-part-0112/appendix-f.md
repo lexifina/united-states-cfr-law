@@ -45,7 +45,6 @@ Table of Contents
 (A) Owners or operators of facilities regulated under this part which pose a threat of substantial harm to the environment by discharging oil into or on navigable waters or adjoining shorelines are required to prepare and submit facility-specific response plans to EPA in accordance with the provisions in this appendix. This appendix further describes the required elements in § 112.20(h).
 (B) Response plans must be sent to the appropriate EPA Regional office. Figure F-1 of this Appendix lists each EPA Regional office and the address where owners or operators must submit their response plans. Those facilities deemed by the Regional Administrator (RA) to pose a threat of significant and substantial harm to the environment will have their plans reviewed and approved by EPA. In certain cases, information required in the model response plan is similar to information currently maintained in the facility's Spill Prevention, Control, and Countermeasures (SPCC) Plan as required by 40 CFR 112.3. In these cases, owners or operators may reproduce the information and include a photocopy in the response plan.
 (C) A complex may develop a single response plan with a set of core elements for all regulating agencies and separate sections for the non-transportation-related and transportation-related components, as described in § 112.20(h). Owners or operators of large facilities that handle, store, or transport oil at more than one geographically distinct location (e.g., oil storage areas at opposite ends of a single, continuous parcel of property) shall, as appropriate, develop separate sections of the response plan for each storage area.
-EC01MR92.015
 1.1 Emergency Response Action Plan
 Several sections of the response plan shall be co-located for easy access by response personnel during an actual emergency or oil discharge. This collection of sections shall be called the Emergency Response Action Plan. The Agency intends that the Action Plan contain only as much information as is necessary to combat the discharge and be arranged so response actions are not delayed. The Action Plan may be arranged in a number of ways. For example, the sections of the Emergency Response Action Plan may be photocopies or condensed versions of the forms included in the associated sections of the response plan. Each Emergency Response Action Plan section may be tabbed for quick reference. The Action Plan shall be maintained in the front of the same binder that contains the complete response plan or it shall be contained in a separate binder. In the latter case, both binders shall be kept together so that the entire plan can be accessed by the qualified individual and appropriate spill response personnel. The Emergency Response Action Plan shall be made up of the following sections:
 1. Qualified Individual Information (Section 1.2) partial
@@ -113,25 +112,25 @@ Facility Identification Number:
 Date and Time of Each NRC Notification:
 Organization | Phone No.
 1. National Response Center (NRC): | 1-800-424-8802
-2. Qualified Individual:
-Evening Phone:
-3. Company Response Team:
-Evening Phone:
-4. Federal On-Scene Coordinator (OSC) and/or Regional Response Center (RRC):
-Evening Phone(s):
-Pager Number(s):
-5. Local Response Team (Fire Dept./Cooperatives):
-6. Fire Marshall:
-Evening Phone:
-7. State Emergency Response Commission (SERC):
-Evening Phone:
-8. State Police:
-9. Local Emergency Planning Committee (LEPC):
-10. Local Water Supply System:
-Evening Phone:
-11. Weather Report:
-12. Local Television/Radio Station for Evacuation Notification:
-13. Hospitals:
+2. Qualified Individual: |
+Evening Phone: |
+3. Company Response Team: |
+Evening Phone: |
+4. Federal On-Scene Coordinator (OSC) and/or Regional Response Center (RRC): |
+Evening Phone(s): |
+Pager Number(s): |
+5. Local Response Team (Fire Dept./Cooperatives): |
+6. Fire Marshall: |
+Evening Phone: |
+7. State Emergency Response Commission (SERC): |
+Evening Phone: |
+8. State Police: |
+9. Local Emergency Planning Committee (LEPC): |
+10. Local Water Supply System: |
+Evening Phone: |
+11. Weather Report: |
+12. Local Television/Radio Station for Evacuation Notification: |
+13. Hospitals: |
 Spill Response Notification Form
 Reporter's Last Name:
 First:
@@ -197,25 +196,25 @@ Size (length): ____ ft.
 Containment Area: ____ sq. ft.
 Storage Location:
 3. Chemicals Stored (Dispersants listed on EPA's NCP Product Schedule)
-Type | Amount | Datepurchased | Treatment capacity | Storagelocation
+Type | Amount | Date purchased | Treatment capacity | Storage location
 Were appropriate procedures used to receive approval for use of dispersants in accordance with the NCP (40 CFR 300.910) and the Area Contingency Plan (ACP), where applicable?___ (Y/N).
 Name and State of On-Scene Coordinator (OSC) authorizing use: ___.
 Date Authorized: ___.
 4. Dispersant Dispensing Equipment—Operational Status: ___.
-Type and year | Capacity | Storagelocation | Response time(minutes)
+Type and year | Capacity | Storage location | Response time (minutes)
 5. Sorbents—Operational Status:
 Type and Year Purchased:
 Amount:
 Absorption Capacity (gal.):
 Storage Location(s):
 6. Hand Tools—Operational Status:
-Type and year | Quantity | Storagelocation
+Type and year | Quantity | Storage location
 7. Communication Equipment (include operating frequency and channel and/or cellular phone numbers)—Operational Status: ___
 Type and year | Quantity | Storage location/number
 8. Fire Fighting and Personnel Protective Equipment—Operational Status: ___
-Type and year | Quantity | Storagelocation
+Type and year | Quantity | Storage location
 9. Other (e.g., Heavy Equipment, Boats and Motors)—Operational Status: ___
-Type and year | Quantity | Storagelocation
+Type and year | Quantity | Storage location
 1.3.3 Response Equipment Testing/Deployment
 Date of Last Update:____
 Response Equipment Testing and Deployment Drill Log
@@ -226,34 +225,31 @@ Deployment Frequency:
 Oil Spill Removal Organization Certification (if applicable):
 1.3.4 Personnel
 Date of Last Update:____
-Emergency Response Personnel
-Company Personnel
+Emergency Response Personnel Company Personnel
 Name | Phone 1 | Response time | Responsibility during response action | Response training type/date
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
+1. | | | |
+2. | | | |
+3. | | | |
+4. | | | |
+5. | | | |
+6. | | | |
+7. | | | |
+8. | | | |
+9. | | | |
+10. | | | |
+11. | | | |
+12. | | | |
 1 Phone number to be used when person is not on-site.
-Emergency Response Contractors
-Date of Last Update: ____
+Emergency Response Contractors Date of Last Update: ____
 Contractor | Phone | Response time | Contract responsibility 1
-1.
-2.
-3.
-4.
+1. | | |
+2. | | |
+3. | | |
+4. | | |
 1 Include evidence of contracts/agreements with response contractors to ensure the availability of personnel and response equipment.
-Facility Response Team
-Date of Last Update:____
+Facility Response Team Date of Last Update:____
 Team member | Response time (minutes) | Phone or pager number (day/evening)
-Qualified Individual:
+Qualified Individual: | |
 | | /
 | | /
 | | /
@@ -311,13 +307,10 @@ The Tank and Surface Impoundment (SI) forms, or their equivalent, that are part 
 (b) Day-to-day operations that may present a risk of discharging oil or releasing a hazardous substance. These activities include scheduled venting, piping repair or replacement, valve maintenance, transfer of tank contents from one tank to another, etc. (not including transportation-related activities). Estimate the volume of material involved in these operations, if the exact volume cannot be determined.
 (c) The secondary containment volume associated with each tank and/or transfer point at the facility. The numbering scheme developed on the tables, or an equivalent system, must be used to identify each containment area. Capacities must be listed for each individual unit (tanks, slumps, drainage traps, and ponds), as well as the facility total.
 (d) Normal daily throughput for the facility and any effect on potential discharge volumes that a negative or positive change in that throughput may cause.
-Hazard Identification Tanks 1
-Date of Last Update: ____
+Hazard Identification Tanks 1 Date of Last Update: ____
 Tank No. | Substance Stored (Oil and Hazardous Substance) | Quantity Stored (gallons) | Tank Type/Year | Maximum Capacity (gallons) | Failure/Cause
-1 Tank = any container that stores oil.
-Attach as many sheets as necessary.
-Hazard Identification Surface Impoundments (SIs)
-Date of Last Update: ____
+1 Tank = any container that stores oil. Attach as many sheets as necessary.
+Hazard Identification Surface Impoundments (SIs) Date of Last Update: ____
 SI No. | Substance Stored | Quantity Stored (gallons) | Surface Area/Year | Maximum Capacity (gallons) | Failure/Cause
 Attach as many sheets as necessary.
 1.4.2 Vulnerability Analysis
@@ -399,8 +392,8 @@ Oil Spill Response—Immediate Actions
 3. Shut off ignition sources | Motors, electrical circuits, open flames, etc.
 4. Initiate containment | Around the tank and/or in the water with oil boom.
 5. Notify NRC | 1-800-424-8802
-6. Notify OSC
-7. Notify, as appropriate
+6. Notify OSC |
+7. Notify, as appropriate |
 Source: FOSS, Oil Spill Response—Emergency Procedures, Revised December 3, 1992.
 1.7.2 Disposal Plans
 1.7.2.1 Facility owners or operators must describe how and where the facility intends to recover, reuse, decontaminate, or dispose of materials after a discharge has taken place. The appropriate permits required to transport or dispose of recovered materials according to local, State, and Federal requirements must be addressed. Materials that must be accounted for in the disposal plan, as appropriate, include:
@@ -413,10 +406,10 @@ Source: FOSS, Oil Spill Response—Emergency Procedures, Revised December 3, 199
 (7) Spent chemicals.
 1.7.2.2 These plans must be prepared in accordance with Federal (e.g., the Resource Conservation and Recovery Act [RCRA]), State, and local regulations, where applicable. A copy of the disposal plans from the facility's SPCC Plan may be inserted with this section, including any diagrams in those plans.
 Material | Disposal facility | Location | RCRA permit/manifest
-1.
-2.
-3.
-4.
+1. | | |
+2. | | |
+3. | | |
+4. | | |
 1.7.3 Containment and Drainage Planning
 A proper plan to contain and control a discharge through drainage may limit the threat of harm to human health and the environment. This section shall describe how to contain and control a discharge through drainage, including:
 (1) The available volume of containment (use the information presented in section 1.4.1 of the response plan);
@@ -468,8 +461,7 @@ Response Equipment Checklist
 5. Actual use/testing (last test date and frequency of testing); and
 6. Shelf life (present age, expected replacement date).
 Please note any discrepancies between this list and the available response equipment.
-Response Equipment Inspection Log
-[Use section 1.3.2 of the response plan as a checklist]
+Response Equipment Inspection Log [Use section 1.3.2 of the response plan as a checklist]
 Inspector | Date | Comments
 1.8.1.3 Secondary Containment Inspection
 Inspect the secondary containment (as described in sections 1.4.1 and 1.7.2 of the response plan), checking the following:
@@ -648,7 +640,7 @@ North American Industrial Classification System (NAICS) Code: 1
 Maximum Oil Storage Capacity (Gallons):
 Worst Case Oil Discharge Amount (Gallons):
 Facility Distance to Navigable Water. Mark the appropriate line.
-0-1/4 mile __ 1/4-1/2 mile __ 1/2-1 mile __ >1 mile __
+0- 1/4 mile __ 1/4- 1/2 mile __ 1/2-1 mile __ >1 mile __
 Applicability of Substantial Harm Criteria
 Does the facility transfer oil over-water 2 to or from vessels and does the facility have a total oil storage capacity greater than or equal to 42,000 gallons?
 Yes
