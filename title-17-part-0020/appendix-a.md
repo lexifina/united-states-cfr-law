@@ -19,7 +19,7 @@ Total Notional Quantity = 6 months * 100,000 bbls/month = 600,000 bbls
 Therefore 600,000 bbls/1,000 bbls/contract = 600 futures equivalent contracts
 Total number of days in swap term = 31 + 28 + 31 + 30 + 31 + 30 = 181
 Futures Equivalent Position of Swap on January 1
-Dates swap in force | Referent futures month | Fraction of days | Company Aposition (long) † | Company Bposition (short) †
+Dates swap in force | Referent futures month | Fraction of days | Company A position (long) † | Company B position (short) †
 January 1—January 22 | February | 22/181 | 73 | −73
 January 23—February 22 | March | 31/181 | 103 | −103
 February 23—March 22 | April | 28/181 | 93 | −93
@@ -35,7 +35,7 @@ Total Notional Quantity = Remaining swap term * 100,000 bbls/month = 596,685 bbl
 Therefore 596,685 bbls/1,000 bbls/contract = 597 futures equivalent contracts
 Total number of days = 30 + 28 + 31 + 30 + 31 + 30 = 180
 Futures Equivalent Position of Swap on January 2 (Example 1 Continued)
-Dates swap in force | Referent futures month | Fraction of days | Company Aposition (long) † | Company Bposition (short) †
+Dates swap in force | Referent futures month | Fraction of days | Company A position (long) † | Company B position (short) †
 January 2—January 22 | February | 21/180 | 70 | −70
 January 23—February 22 | March | 31/180 | 103 | −103
 February 23—March 22 | April | 28/180 | 93 | −93
@@ -64,7 +64,7 @@ Total Notional Quantity = 6 contract months * 1,000,000 bushels/month = 6,000,00
 Therefore 6,000,000 bushels/5,000 bushels/contract = 1,200 futures equivalent contracts
 Total days = 31 + 28 + 31 + 30 + 31 + 30 = 181
 Futures Equivalent Position of Swap on January 1
-Dates swap in force | Referent futures month | Fraction of days | Company Aposition (long) † | Company Bposition (short) †
+Dates swap in force | Referent futures month | Fraction of days | Company A position (long) † | Company B position (short) †
 January 1-March 14 | March | 73/181 | 483 | −483
 March 15-May 14 | May | 61/181 | 404 | −404
 May 15-June 30 | July | 47/181 | 311 | −311
@@ -89,7 +89,7 @@ Total Notional Quantity = 2 quarters * 84 million = 168 million gallons
 Therefore 168 million/42,000 gallons/futures contract = 4,000 futures equivalent contracts
 Total number of days = 31 + 28 + 31 + 30 + 31 + 30 = 181
 Futures Equivalent Position of Swap on January 1
-Dates swap in force | Referent futures month | Fraction of days | Company Aposition (long) † | Company Bposition (short) †
+Dates swap in force | Referent futures month | Fraction of days | Company A position (long) † | Company B position (short) †
 January 1-March 31 | April | 90/181 | 1989 | −1989
 April 1-June 30 | July | 91/181 | 2011 | −2011
 Total | | 181/181 | 4000 | −4000
@@ -113,7 +113,7 @@ Total Notional Quantity = 6 months * 100,000 bbls/month = 600,000 bbls
 Therefore 600,000 bbls/1,000 bbls/contract = 600 futures equivalent contracts
 Total number of days = 31 + 28 + 31 + 30 + 31 + 30 = 181
 Futures Equivalent Position of Swap on January 1
-Dates swap in force | Fraction of days | Applicablenext to expire futures month | Company Aposition (long) † | Company Bposition (short) † | Applicable deferred futures month | Company Aposition (short) † | Company Bposition (long) †
+Dates swap in force | Fraction of days | Applicable next to expire futures month | Company A position (long) † | Company B position (short) † | Applicable deferred futures month | Company A position (short) † | Company B position (long) †
 January 1—January 22 | 22/181 | February | 73 | −73 | March | −73 | 73
 January 23—February 22 | 31/181 | March | 103 | −103 | April | −103 | 103
 February 23—March 22 | 28/181 | April | 93 | −93 | May | −93 | 93
@@ -142,7 +142,7 @@ Total Notional Quantity for each leg = 1 month * 31 days/month * 10,000 MMBtu/da
 Therefore 310,000 MMBtu/10,000 MMBtu/contract = 31 futures equivalent contracts
 Total number of days = 31
 Futures Equivalent Position of Swap on January 1
-Dates swap in force | Fractionof days | Referentfutures month | Company Aposition in Columbia Gulf, Mainline Midpoint ("Midpoint") natural gas (long) MMBtu | Company APosition in NYMEX (Henry Hub) natural gas futures (short) | Company Bposition in Columbia Gulf, Mainline Midpoint ("Midpoint") natural gas (short) MMBtu | Company Bposition in NYMEX (Henry Hub) natural gas futures (long)
+Dates swap in force | Fraction of days | Referent futures month | Company A position in Columbia Gulf, Mainline Midpoint ("Midpoint") natural gas (long) MMBtu | Company A Position in NYMEX (Henry Hub) natural gas futures (short) | Company B position in Columbia Gulf, Mainline Midpoint ("Midpoint") natural gas (short) MMBtu | Company B position in NYMEX (Henry Hub) natural gas futures (long)
 January 1—January 28 | 28/31 | February | ††† | −28 | ††† | 28
 January 29—January 31 | 3/31 | March | | −3 | | 3
 Total | 31/31 | | | −31 | | 31
@@ -169,13 +169,14 @@ Total Notional Quantity = 1 month * 100,000 bbls/month = 100,000 bbls
 Therefore 100,000 bbls/1,000 bbls/contract = 100 futures equivalent contracts
 Total number of days = 31
 Gross Position on January 1
-Dates swap in force | Referent futures month | Fraction ofdays | Company Aposition (long) † | Company Bposition (short) †
+Dates swap in force | Referent futures month | Fraction of days | Company A position (long) † | Company B position (short) †
 July 1 -July 22 | August | 22/31 | 70 | −70
 July 23—July 31 | September | 9/31 | 29 | −29
 Total | | 31/31 | 99 | −99
 † Contracts rounded to the nearest integer.
 Delta†† Adjusted Position and Futures Equivalent Position on January 1
-Date | August | Delta | Position | September | Delta | Position
+Date | August | September
+Delta | Position | Delta | Position
 January 1 | .2 | 14 | .2 | 5
 †† Deltas should be calculated in an economically reasonable and analytically supportable basis.
 Example 7—WTI Collar Swap
@@ -200,15 +201,19 @@ Total Notional Quantity = 1 month * 100,000 bbls/month = 100,000 bbls
 Therefore 100,000 bbls/1,000 bbls/contract = 100 futures equivalent contracts
 Total number of days = 31
 Gross Position on January 1
-Dates swap in force | Referent futures month | Fractionof days | Company Aposition | Call | Put | Company Bposition | Call | Put
+Dates swap in force | Referent futures month | Fraction of days | Company A position | Company B position
+Call | Put | Call | Put
 July 1-July 22 | August | 22/31 | 70.97 | 70.97 | −70.97 | −70.97
 July 23-July 31 | September | 9/31 | 29.03 | 29.03 | −29.03 | −29.03
 Total | | 31/31 | 100 | 100 | −100 | −100
 Company (A) Delta† Adjusted Position on January 1
-Date | August | Long call | Delta | Position | Short put | Delta | Position | September | Long call | Delta | | Short put | Delta | Position
+Date | August | September
+Long call | Short put | Long call | Short put
+Delta | Position | Delta | Position | Delta | | Delta | Position
 January 1 | .7 | 49 | .3 | −21 | .7 | 20 | .3 | −8
 † Deltas should be calculated in an economically reasonable and analytically supportable basis.
 Futures Equivalent Position on January 1
-Date | August †† | Long | Short | September †† | Long | Short
+Date | August †† | September ††
+Long | Short | Long | Short
 January 1 | 70 | 0 | 28 | 0
 †† Contracts rounded to the nearest integer.
