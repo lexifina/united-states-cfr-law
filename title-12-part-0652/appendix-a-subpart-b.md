@@ -52,7 +52,7 @@ X4: Loan size variable | 4.55390 | <0.0001
 X5: D/A ratio | 2.49482 | <0.0000
 i. The low p-values on each coefficient indicate a highly significant relationship between the probability ratio of loan-loss frequency and the respective independent variables. Other goodness-of-fit indicators are:
 Hosmer and Lemeshow goodness-of-fit p-value | 0.1718
-Max-rescaled R2 | 0.2015
+Max-rescaled R 2 | 0.2015
 Concordant | 85.2%
 Disconcordant | 12.0%
 Tied | 2.8%
@@ -105,13 +105,14 @@ You must calculate the age-adjusted loss rates for these loans that include adju
 a. For loans in which the seller retains a subordinated interest, subtract from the total estimated age-adjusted dollar losses on the pool the amount equal to current unpaid principal times the subordinated interest percentage.
 b. Some pools of loans underlying specific transactions could include loan collateral volume pledged to Farmer Mac in excess of Farmer Mac's guarantee amount ("overcollateral"). Overcollateral can be either: (i) Contractually required according to the terms of the transaction, or (ii) not contractually required, but pledged in addition to the contractually required amount at the discretion of the counterparty, often for purposes of administrative convenience regarding the collateral substitution process, or (iii) both (i) and (ii).
 1. If a pool of loans includes collateral pledged in excess of the guaranteed amount, you must adjust the age-adjusted, loan-level dollar losses by a factor equal to the ratio of the guarantee amount to total submitted collateral. For example, consider a pool of two loans serving as security for a Farmer Mac guarantee on a note with a total issuance face value of $2 million and on which the counterparty has submitted 10-percent overcollateral. The two loans in the example have the following characteristics and adjustments.
-Loan | Originationbalance | Age-adjusted loss rate(percent) | Estimated age-adjusted losses | Guarantee amount scaling adjustment(2/2.2) (Percent) | Losses adjusted for overcollateral
+Loan | Origination balance | Age-adjusted loss rate (percent) | Estimated age-adjusted losses | Guarantee amount scaling adjustment (2/2.2) (Percent) | Losses adjusted for overcollateral
 1 | $1,080,000 | 7.0 | $75,600 | 90.91 | $68,727
 2 | 1,120,000 | 5.0 | 56,000 | 90.91 | 50,909
 2. If a pool of loans includes collateral pledged in excess of the guaranteed amount that is required under the terms of the transaction, you must further adjust the dollar losses as follows. Calculate the total losses on the subject portfolio of loans after age adjustments and any adjustments related to total submitted overcollateral as described in "1." above. Calculate the total dollar amount of contractually required overcollateral in the subject pool. Subtract the total dollars of contractually required overcollateral from the adjusted total losses on the subject pool. If the result is less than or equal to zero, input a loss rate of zero for this transaction pool in the Data Inputs worksheet of the RBCST. A new category must be created for each such transaction in the RBCST. If the loss rate after subtracting contractually required overcollateral is greater than zero, proceed to additional adjustment for the risk-reducing effects of the counterparty's general obligation described in "3." below.
 3. Loans with a positive loss estimate remaining after adjustments in "1." and "2." above are further adjusted for the security provided by the general obligation of the counterparty. To make this adjustment in our example, multiply the estimated dollar losses remaining after adjustments in "1." and "2." above by the appropriate general obligation adjustment (GOA) factor based on the counterparty's whole-letter issuer credit rating by a nationally recognized statistical rating organization (NRSRO) and the ratio of the counterparty's concentration of risk in the same industry sector as the loans backing the AgVantage Plus volume, as determined by the Director.
-A. The Director will make final determinations of concentration ratios on a case-by-case basis by using publicly reported data on counterparty portfolios, non-public data submitted and certified by Farmer Mac as part of its RBCST submissions, and will generally recognize rural electric cooperatives and rural telephone cooperatives as separate rural utility sectors. The following table sets forth the GOA factors and their components by whole-letter credit rating (Adjustment Factor = Default Rate × Severity Rate × 3), which may be further adjusted for industry sector concentration by the Director.15
-A | Whole-letterrating | B | Default rate(percent) | C | Severity rate(percent) | D | V3.0 GOA factor(percent) | E | V4.0 GOAfactors (D × 3) (percent) | F | Concentrationratio (e.g., 25%) (percent) | G | Factor withconcentration adjustment 1− ((1−E) × (1−F)) (percent)
+A. The Director will make final determinations of concentration ratios on a case-by-case basis by using publicly reported data on counterparty portfolios, non-public data submitted and certified by Farmer Mac as part of its RBCST submissions, and will generally recognize rural electric cooperatives and rural telephone cooperatives as separate rural utility sectors. The following table sets forth the GOA factors and their components by whole-letter credit rating (Adjustment Factor = Default Rate × Severity Rate × 3), which may be further adjusted for industry sector concentration by the Director. 15
+A | B | C | D | E | F | G
+Whole-letter rating | Default rate (percent) | Severity rate (percent) | V3.0 GOA factor (percent) | V4.0 GOA factors (D × 3) (percent) | Concentration ratio (e.g., 25%) (percent) | Factor with concentration adjustment 1− ((1−E) × (1−F)) (percent)
 AAA | 0.897 | 54 | 0.48 | 1.41 | 25.00 | 26.06
 AA | 2.294 | 54 | 1.24 | 3.70 | 25.00 | 27.78
 A | 2.901 | 54 | 1.57 | 5.13 | 25.00 | 28.84
@@ -245,13 +246,13 @@ FCA Whole-Letter Credit Ratings Mapped to Rating Agency Credit Ratings
 FCA Ratings Category | AAA | AA | A | BBB | Below BBB and Unrated.
 Standard & Poor's Long-Term | AAA | AA | A | BBB | Below BBB and Unrated.
 Fitch Long-Term | AAA | AA | A | BBB | Below BBB and Unrated.
-Standard & Poor's Short-Term | A-1 + SP-1 + | A-1SP-1 | A-2SP-2 | A-3 | SP-3, B, or Below and Unrated.
+Standard & Poor's Short-Term | A-1 + SP-1 + | A-1 SP-1 | A-2 SP-2 | A-3 | SP-3, B, or Below and Unrated.
 Fitch Short-Term | F-1 + | F-1 | F-2 | F-3 | Below F-3 and Unrated.
-Moody's | | Prime-MIG12VMIg1 | Prime-2 MIG2 VMIG2 | Prime-3 MIG3 VMIG3 | Not Prime, SG and Unrated.
-Fitch Bank Ratings | A | BA/B | CB/C | DC/D | E.D/E.
+Moody's | | Prime-MIG12 VMIg1 | Prime-2 MIG2 VMIG2 | Prime-3 MIG3 VMIG3 | Not Prime, SG and Unrated.
+Fitch Bank Ratings | A | B A/B | C B/C | D C/D | E. D/E.
 Moody's Bank Financial Strength Rating | A | B | C | D | E.
 Farmer Mac RBCST Maximum Haircut by Ratings Classification
-Ratings classification | Non-programinvestment counterparties (excluding derivatives) (percent)
+Ratings classification | Non-program investment counterparties (excluding derivatives) (percent)
 Cash | 0.00
 AAA | 1.41
 AA | 3.70
