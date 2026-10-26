@@ -1,5 +1,8 @@
 # Appendix A to Part 12—Public Benefit Allowance for Transfer of Surplus Federal Real Property for Educational Purposes 1
-Classification | Percent allowed | Basic public benefit allowance | Organization allowances | Accreditation | Federal impact | Public service training | Hardship | Inadequacy of existing school plant facilities | 10-25% | 26-50% | 51-100% | Utilization allowances | Introduction of new instructional programs | Student health and welfare | Research | Service to handicapped | Maximum public benefit allowance 4
+Classification | Percent allowed
+Basic public benefit allowance | Organization allowances | Utilization allowances | Maximum public benefit allowance 4
+Accreditation | Federal impact | Public service training | Hardship | Inadequacy of existing school plant facilities | Introduction of new instructional programs | Student health and welfare | Research | Service to handicapped
+10-25% | 26-50% | 51-100%
 Elementary or high schools | 70 | | 10 | 10 | 10 | 10 | 20 | 30 | 10 | 10 | 10 | 10 | 100
 Colleges or Universities | 50 | 20 | | 10 | 10 | 10 | 20 | 30 | 10 | 10 | 10 | 10 | 100
 Specialized schools | 70 | | | 10 | 10 | 10 | 20 | 30 | 10 | 10 | 10 | 10 | 100
@@ -7,9 +10,7 @@ Public libraries or educational museums | 2 100 | | | | | | | | | | | | 2 100
 School outdoor education | 40 | | | | | | | | 10 | 3 10 | 10 | | 70
 Central administrative and/or service centers | 80 | | | | | | | | | | | | 80
 Non-profit educational research organizations | 50 | 20 | | 10 | | | | | 10 | 10 | | 10 | 100
-2 Applicable when this is the primary use to be made of the property. The public benefit allowance for the overall program is applicable when such facilities are conveyed as a minor component of other facilities.
-3 This 10% may include an approvable recreation program which will be accessible to the public and entirely compatible with, but subordinate to, the educational program.
-4 This column establishes the maximum discount from the fair market value for payment due from the transferee at the time of the transfer. This column does not apply for purposes of ranking applicants to determine to which applicant the property will be transferred. Competitive rankings are based on the absolute total of public benefit allowance points and are not limited to the 100% ceiling.
+2 Applicable when this is the primary use to be made of the property. The public benefit allowance for the overall program is applicable when such facilities are conveyed as a minor component of other facilities. 3 This 10% may include an approvable recreation program which will be accessible to the public and entirely compatible with, but subordinate to, the educational program. 4 This column establishes the maximum discount from the fair market value for payment due from the transferee at the time of the transfer. This column does not apply for purposes of ranking applicants to determine to which applicant the property will be transferred. Competitive rankings are based on the absolute total of public benefit allowance points and are not limited to the 100% ceiling.
 Description of Terms Used in This Appendix
 Elementary or High School means an elementary school (including a kindergarten), high school, junior high school, junior-senior high school or elementary or secondary school system, that provides elementary or secondary education as determined under State law. However, it does not include a nursery school even though it may operate as part of a school system.
 College or University means a non-profit or public university or college, including a junior college, that provides postsecondary education.
