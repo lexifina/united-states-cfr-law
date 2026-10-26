@@ -141,7 +141,6 @@ These modifications are not considered deviations subject to (48 CFR) AIDAR 701.
 14. FAR Clauses to be incorporated by reference in Personal Services Contracts.
 10. Form USAID 1420-36, "Cover Page" and "Schedule".
 Contract With a U.S. Citizen or U.S. Resident Alien for Personal Services Abroad—Form AID 1420-36A (11/96) (Cover Page)
-ER23JY97.000
 Privacy Act Statement
 This information is provided pursuant to Public Law 93-579 (Privacy Act of 1974), December 31, 1974, for individuals who complete this form.
 The Executive Office of the President, Office of Management and Budget has required that all departments and agencies comply with the reporting requirements of Section 6041 of the Internal Revenue Code, Section 6041 states that all departments and agencies making payments totalling $600 or more in one year to a recipient for services provided must be reported to the Internal Revenue Service (IRS). The SSN and all financial numbers will be disclosed to U.S. Agency for International Development (USAID) payroll office personnel and personnel in the Department of the Treasury, Division of Disbursements. USAID will use this SSN to complete Form W-2 of the Code on employee compensation. Disclosure by the personal services contractor of the SSN is necessary to obtain the services, benefits or processes provided by this contract. Disclosure of the SSN may be made outside USAID (a) pursuant to any applicable routine use listed in USAID's Notice for implementing the Privacy Act as published in the Federal Register or (b) when disclosure by virtue of a contract being a public document after signatures is authorized under the Freedom of Information Act.
@@ -155,7 +154,7 @@ Article IV—Costs Reimbursable and Logistic Support
 Article V—Precontract Expenses
 Article VI—Additional Clauses
 General Provisions:
-The following provisions numbered as shown below omitting number(s) ___, are the General Provisions (GPs) of this Contract:
+The following provisions numbered as shown below omitting number(s) ______, are the General Provisions (GPs) of this Contract:
 1. Definitions
 2. Laws and Regulations Applicable Abroad
 3. Physical Fitness and Health Room Privileges
@@ -193,41 +192,41 @@ A. General statement of the purpose of the contract.
 B. Statement of duties to be performed.
 C. Any USAID consultation or orientation.)
 Article II—Period of Service Overseas
-Within ___ days after written notice from the Contracting Officer that all clearances, including the doctor's statement of medical opinion required under General Provision Clause 4, have been received or unless another date is specified by the Contracting Officer in writing, the contractor shall proceed to ___ where he/she shall promptly commence performance of the duties specified above. The contractor's period of service overseas shall be approximately ___ in ___. (Specify time of duties in each location as well as authorized stopovers with purpose of each.)
+Within ______ days after written notice from the Contracting Officer that all clearances, including the doctor's statement of medical opinion required under General Provision Clause 4, have been received or unless another date is specified by the Contracting Officer in writing, the contractor shall proceed to ______ where he/she shall promptly commence performance of the duties specified above. The contractor's period of service overseas shall be approximately ______ in ______. (Specify time of duties in each location as well as authorized stopovers with purpose of each.)
 Article III—Contractor's Compensation and Reimbursement in U.S. Dollars
 A. Except to the extent reimbursement is payable in the currency of the Cooperating Country pursuant to Article IV, USAID shall pay the contractor compensation after it has accrued and reimburse him/her in U.S. dollars for necessary and reasonable costs actually incurred by him/her in the performance of this contract within the categories listed in paragraph C, below, and subject to the conditions and limitations applicable thereto as set out herein and in the attached General Provisions (GP).
-B. The amount budgeted and available as personal compensation to the contractor is calculated to cover a calendar period of approximately ___ (days) (weeks) (months) (years) which is to include:
+B. The amount budgeted and available as personal compensation to the contractor is calculated to cover a calendar period of approximately ______ (days) (weeks) (months) (years) which is to include:
 (1) vacation, sick, and home leave which may be earned during the contractor's tour of duty (GP Clause 5);
-(2) ___ days for authorized travel (GP Clause 10); and
-(3) ___ days for orientation and consultation in the United States (GP Clause 23).
-C. Allowable Costs: 1. Compensation at the rate of $___ per (year) (month) (week) (day). Adjustments in compensation (pay) for periods when the contractor is not in compensable pay status shall be calculated as follows:
-Rate of $___ per (day) (hour).
-Contingency for Compensation (Pay Comparability) Adjustments. $___.
-Annual Salary increase (3%) $___.
-2. Overtime (Unless specifically authorized in the Schedule of this contract, no overtime hours shall be allowed hereunder.) $___.
-* 3. Overseas Differential (Ref. GP Clause No. 6.) Rate $___ and Contingency $___ = Total $___.
-** 4. Allowances in Cooperating Country (Ref. GP Clause 6.) $___.
-** 5. Travel and Transportation (Ref. GP Clause 10.) (Includes the value of GTRs furnished by the Government, not payable to contractor). $___.
-a. United States $___
-b. International $___
-c. Cooperating and Third Country $___
-Subtotal Item 5 $___
+(2) ______ days for authorized travel (GP Clause 10); and
+(3) ______ days for orientation and consultation in the United States (GP Clause 23).
+C. Allowable Costs: 1. Compensation at the rate of $______ per (year) (month) (week) (day). Adjustments in compensation (pay) for periods when the contractor is not in compensable pay status shall be calculated as follows:
+Rate of $______ per (day) (hour).
+Contingency for Compensation (Pay Comparability) Adjustments. $______.
+Annual Salary increase (3%) $______.
+2. Overtime (Unless specifically authorized in the Schedule of this contract, no overtime hours shall be allowed hereunder.) $______.
+* 3. Overseas Differential (Ref. GP Clause No. 6.) Rate $______ and Contingency $______ = Total $______.
+** 4. Allowances in Cooperating Country (Ref. GP Clause 6.) $______.
+** 5. Travel and Transportation (Ref. GP Clause 10.) (Includes the value of GTRs furnished by the Government, not payable to contractor). $______.
+a. United States $______
+b. International $______
+c. Cooperating and Third Country $______
+Subtotal Item 5 $______
 ** 6. Subsistence or Per Diem (Ref. GP Clause 10.)
-a. Untied States $___
-b. International $___
-c. Cooperating and Third Country $___.
-Subtotal Item 6 $___
+a. Untied States $______
+b. International $______
+c. Cooperating and Third Country $______.
+Subtotal Item 6 $______
 7. Other Direct Costs.
-a. Health and Life Insturance $___
-b. Precontract Costs, passport, visa, inoculations, etc. (Ref. GP Clause 8.) $___
-c. Physical Examination (Ref. GP Clause 3.) $___
-d. Communications, Miscellaneous. $___
-Subtotal Item 7 $___
-8. F.I.C.A.-U.S.G. Contribution (not payable to contractor). $___
+a. Health and Life Insturance $______
+b. Precontract Costs, passport, visa, inoculations, etc. (Ref. GP Clause 8.) $______
+c. Physical Examination (Ref. GP Clause 3.) $______
+d. Communications, Miscellaneous. $______
+Subtotal Item 7 $______
+8. F.I.C.A.-U.S.G. Contribution (not payable to contractor). $______
 D. Maximum U.S.-Dollar Obligation:
-In no event shall the maximum U.S.-dollar obligation under this contract exceed $___. Contractor shall keep a close account of all obligations he/she incurs and accrues hereunder and promptly notify the Contracting Officer whenever in his/her opinion the said maximum is not sufficient to cover all compensation and costs reimbursable in U.S. dollars which he/she anticipates under the contract.
+In no event shall the maximum U.S.-dollar obligation under this contract exceed $______. Contractor shall keep a close account of all obligations he/she incurs and accrues hereunder and promptly notify the Contracting Officer whenever in his/her opinion the said maximum is not sufficient to cover all compensation and costs reimbursable in U.S. dollars which he/she anticipates under the contract.
 Article IV—Costs Reimbursable and Logistic Support
-A. General: The contractor shall be provided with or reimbursed in local currency (___) for the following:
+A. General: The contractor shall be provided with or reimbursed in local currency (______) for the following:
 [Complete]
 B. Method of Payment of Local Currency Costs: Those contract costs which are specified as local currency costs in paragraph A above, if not furnished in kind by the cooperating government or the Mission, shall be paid to the contractor in a manner adapted to the local situation, based on vouchers submitted in accordance with General Provision Clause 11. The documentation for such costs shall be on such forms and in such manner as the Mission Director shall prescribe.
 [Complete]
@@ -235,13 +234,13 @@ Article V—Precontract Expenses
 No expense incurred before execution of this contract will be reimbursed unless such expense was incurred after receipt and acceptance of a precontract expense letter issued to the contractor by the Contracting Officer, and then only in accordance with the provisions and limitations contained in such letter. The rights and obligations created by such letter shall be considered as merged into this contract.
 Article VI—Additional Clauses
 (Additional Schedule Clauses may be added such as the implementation of General Provisions or Additional Clauses.)
-11. Optional Schedule With a U.S. Citizen or U.S. Resident Alien
-A U.S. Citizen or a U.S. Resident Alien PSC Contract No. ___
+11.Optional Schedule With a U.S. Citizen or U.S. Resident Alien
+A U.S. Citizen or a U.S. Resident Alien PSC Contract No. ______
 Table of Contents
 (Optional Schedule)
 (Use of the Optional Schedule is not mandatory. It is intended to serve as an alternate procedure for OE funded U.S. PSCs or U.S. Resident Alien PSCs. The Schedule is for use when the Contracting Officer anticipates incremental recurring cost funded contracts.
 Use of the Optional Schedule eliminates the need to amend the contract each time funds are obligated. However, the Contracting Officer is required to amend each contract not less than twice during a 12 month period to ensure that the contract record of obligations is up to date and agrees with the figures in the master funding document.)
-The Schedule on pages ___ thru ___ consists of this Table of Contents and the following Articles:
+The Schedule on pages ______ thru ______ consists of this Table of Contents and the following Articles:
 Article I—Statement of Duties
 Article II—Period of Service Overseas
 Article III—Contractor's Compensation and Reimbursement in U.S. Dollars
@@ -249,7 +248,7 @@ Article IV—Costs Reimbursable and Logistic Support
 Article V—Precontract Expenses
 Article VI—Additional Clauses
 General Provisions:
-The following provisions, numbered as shown below, omitting number(s) ___, are the General Provisions (GP) of this Contract:
+The following provisions, numbered as shown below, omitting number(s) ______, are the General Provisions (GP) of this Contract:
 1. Definitions
 2. Laws and Regulations Applicable Abroad
 3. Physical Fitness and Health Room Privileges
@@ -286,44 +285,44 @@ A. General statement of the purpose of the contract.
 B. Statement of duties to be performed.
 C. Any USAID consultation or orientation.)
 Article II—Period of Service Overseas.
-Within ___ days after written notice form the Contracting Officer that all clearances, including the doctor's statement of medical opinion required under General Provision Clause 3, have been received or unless another date is specified by the Contracting Officer in writing, the contractor shall proceed to ___ where he/she shall promptly commence performance of the duties specified above. The contractor's period of service overseas shall be approximately ___ in ___. (Specify time of duties in each location as well as authorized stopovers with purpose of each.)
+Within ______ days after written notice form the Contracting Officer that all clearances, including the doctor's statement of medical opinion required under General Provision Clause 3, have been received or unless another date is specified by the Contracting Officer in writing, the contractor shall proceed to ______ where he/she shall promptly commence performance of the duties specified above. The contractor's period of service overseas shall be approximately ______ in ______. (Specify time of duties in each location as well as authorized stopovers with purpose of each.)
 Article III—Contractor's Compensation and Reimbursement in U.S. Dollars.
 A. Except to the extent reimbursement is payable in the currency of the Cooperating Country pursuant to Article IV, USAID shall pay the contractor compensation after it has accrued and reimburse him/her in U.S. dollars for necessary and reasonable costs actually incurred by him/her in the performance of this contract within the categories listed in paragraph C, below, and subject to the conditions and limitations applicable thereto as set out herein and in the attached General Provisions (GP).
-B. The amount budgeted and available as personal compensation to the contractor is calculated to cover a calendar period of approximately ___ (days) (weeks) (months) (years) which is to include:
+B. The amount budgeted and available as personal compensation to the contractor is calculated to cover a calendar period of approximately ______ (days) (weeks) (months) (years) which is to include:
 1. Vacation, sick, and home leave which may be earned during the contractor's tour of duty (GP Clause 5);
-2. ___ days for authorized travel (GP Clause 10); and
-3. ___ days for orientation and consultation in the United States (GP Clause 23).
+2. ______ days for authorized travel (GP Clause 10); and
+3. ______ days for orientation and consultation in the United States (GP Clause 23).
 C. Allowable Costs: 1. The following illustrative budget details allowable costs under this contract and provides estimated incremental recurrent cost funding in the total amount shown. Additional funds for the full term of this contract will be provided by the preparation of a master PSC funding document issued by the Mission Controller for the purpose of providing additional funding for a specific period. The master PSC funding document will be attached to this contract and will form a part of the executed contract while also serving to amend the budget.
-2. Compensation at the rate of $___ per (year) (month) (week) (day). Adjustments in compensation (pay) for periods when the contractor is not in compensable pay status shall be calculated as follows:
-Rate of $___ per (day) (hour).
-Contingency for Compensation (Pay Comparability Adjustments.) $___
-Annual Salary increase (3%) $___
-3. Overtime (Unless specifically authorized in the Schedule of this contract, no overtime hours shall be allowed hereunder.) $___
-* 4. Overseas Differential (Ref. GP Clause No. 6.) Rate $___ and Contingency $___ = Total $___.
-** 5. Allowances in Cooperating Country (Ref. GP Clause 6.) $___
-** 6. Travel and Transportation (Ref. GP Clause 10.) (Includes the value of GTRs furnished by the Government, not payable to contractor). $___.
-a. United States $___
-b. International $___
-c. Cooperating and Third Country $___
-Subtotal Item 6 $___
+2. Compensation at the rate of $______ per (year) (month) (week) (day). Adjustments in compensation (pay) for periods when the contractor is not in compensable pay status shall be calculated as follows:
+Rate of $______ per (day) (hour).
+Contingency for Compensation (Pay Comparability Adjustments.) $______
+Annual Salary increase (3%) $______
+3. Overtime (Unless specifically authorized in the Schedule of this contract, no overtime hours shall be allowed hereunder.) $______
+* 4. Overseas Differential (Ref. GP Clause No. 6.) Rate $______ and Contingency $______ = Total $______.
+** 5. Allowances in Cooperating Country (Ref. GP Clause 6.) $______
+** 6. Travel and Transportation (Ref. GP Clause 10.) (Includes the value of GTRs furnished by the Government, not payable to contractor). $______.
+a. United States $______
+b. International $______
+c. Cooperating and Third Country $______
+Subtotal Item 6 $______
 **7. Subsistence or Per Diem (Ref. GP Clause 10.)
-a. United States $___
-b. International $___
-c. Cooperating and Third Country $___
-Subtotal Item 7 $___
+a. United States $______
+b. International $______
+c. Cooperating and Third Country $______
+Subtotal Item 7 $______
 **8. Other Direct Costs
-a. Health and Life Insurance (Ref. GP Clause 9.) $___
-b. Precontract Costs, passport, visa, inoculations, etc. (Ref. GP Clause 8.) $___
-c. Physical Examination (Ref. GP Clause 3.) $___
-d. Communications, Miscellaneous Subtotal Item 8 $___
-9. F.I.C.A.—U.S.G. contribution (not payable to contractor). $___
-D. Maximum U.S.-Dollar Obligation: In no event shall the maximum U.S.-dollar obligation under this contract exceed $___.
+a. Health and Life Insurance (Ref. GP Clause 9.) $______
+b. Precontract Costs, passport, visa, inoculations, etc. (Ref. GP Clause 8.) $______
+c. Physical Examination (Ref. GP Clause 3.) $______
+d. Communications, Miscellaneous Subtotal Item 8 $______
+9. F.I.C.A.—U.S.G. contribution (not payable to contractor). $______
+D. Maximum U.S.-Dollar Obligation: In no event shall the maximum U.S.-dollar obligation under this contract exceed $______.
 E. Salary changes and personnel-related contract actions will be made by processing the same forms as used in making such changes and actions for direct-hire employees. When issued by the Contracting Officer, the forms utilized will be attached to the contract and will form a part of the contract terms and conditions.
 F. Any adjustment or increase in the compensation granted to direct-hire employees will be allowed for in PSCs subject to the availability of funds. Such an adjustment will be effected by a mass pay adjustment notice from the Contracting Officer, which will be attached to the contract and form a part of the executed contract.
 G. At the end of each year of satisfactory service, PSC contractors will be eligible to receive an increase equal to 3% pending availability of funds provided their services have been satisfactory. Such increase will be effected by the execution of an SF-1126, payroll change slip which is to be attached to each contract and each action forms a part of the official contract file.
 H. The master PSC funding document may not exceed the term or estimated total cost of this contract. Notwithstanding that additional funds are obligated under this contract through the issuance and attachment of the master PSC funding document, all other contract terms and conditions remain in full effect.
 Article IV—Costs Reimbursable and Logistic Support
-A. General: The contractor shall be provided with or reimbursed in local currency (___) for the following:
+A. General: The contractor shall be provided with or reimbursed in local currency (______) for the following:
 [Complete]
 B. Method of Payment of Local Currency Costs: Those contract costs which are specified as local currency costs in paragraph A above, if not furnished in kind by the cooperating government or the Mission, shall be paid to the contractor in a manner adapted to the local situation, based on vouchers submitted in accordance with General Provision Clause 12. The documentation for such costs shall be on such forms and in such manner as the Mission Director shall prescribe.
 Article V—Precontract Expenses
@@ -520,7 +519,7 @@ If requested by the contractor and authorized in writing by the Contracting Offi
 (l) Transportation of Motor Vehicles, Personal Effects and Household Goods. (1) Transportation costs will be paid on the same basis as for USAID direct-hire employees serving the same length tour of duty, as authorized in the schedule. Transportation, including packing and crating costs, will be paid for shipping from the point of origin in the United States (or other location as approved by the Contracting Officer) to post of duty in the Cooperating Country and return to point of origin in the United States (or other location as approved by the Contracting Officer) of one privately-owned vehicle for the contractor, personal effects of the contractor and authorized dependents, and household goods of the contractor not to exceed the limitations in effect for such shipments for USAID direct-hire employees in accordance with the Foreign Service Travel Regulations in effect at the time shipment is made. These limitations may be obtained from the Contracting Officer.
 (2) The cost of transporting motor vehicles and household goods shall not exceed the cost of packing, crating, and transportation by surface common carrier. In the event that the carrier does not require boxing or crating of motor vehicles for shipment to the Cooperating Country, the cost of boxing or crating is not reimbursable. The transportation of a privately owned motor vehicle for a contractor may be authorized as a replacement of the last such motor vehicle shipped under this contract for such contractor when the Mission Director determines, in advance, and so notifies the contractor in writing, that the replacement is necessary for reasons not due to the negligence or malfeasance of the contractor. The determination shall be made under the same rules and regulations that apply to authorized Mission U.S. citizen direct-hire employees.
 (m) Unaccompanied Baggage. Unaccompanied baggage is considered to be those personal belongings needed by the traveler immediately upon arrival of the contractor and dependents, and consideration should be given to advance shipments of unaccompanied baggage. The contractor will be reimbursed for costs of shipment of unaccompanied baggage (in addition to the weight allowance for household effects) not to exceed the limitations in effect for USAID direct-hire employees in accordance with the Foreign Service Travel Regulations as in effect when shipment is made. These limitations are available from the Contracting Officer. This unaccompanied baggage may be shipped as air freight by the most direct route between authorized points of origin and destination regardless of the modes of travel used. This provision is applicable to home leave travel when authorized by the terms of this contract.
-(n) International Ocean Transportation —(1)(i) Transportation of things. Where U.S. flag vessels are not available, or their use would result in a significant delay, the contractor may obtain a release from the requirement to use U.S. flag vessels from the Transportation Division, Office of Acquisition and Assistance, U.S. Agency for International Development, Washington, D.C. 20523-1419, or the Mission Director, as appropriate, giving the basis for the request.
+(n) International Ocean Transportation—(1)(i) Transportation of things. Where U.S. flag vessels are not available, or their use would result in a significant delay, the contractor may obtain a release from the requirement to use U.S. flag vessels from the Transportation Division, Office of Acquisition and Assistance, U.S. Agency for International Development, Washington, D.C. 20523-1419, or the Mission Director, as appropriate, giving the basis for the request.
 (ii) Transportation of persons. Where U.S. flag vessels are not available, or their use would result in a significant delay, the contractor may obtain a release from the requirement to use U.S. flag vessels from the Contracting Officer or the Mission Director, as appropriate.
 (2) Transportation of foreign-made vehicles. Reimbursement of the costs of transporting a foreign-made motor vehicle will be made in accordance with the provisions of the Foreign Service Travel Regulations.
 (3) Reduced rates on U.S.-flag carriers are in effect for shipments of household goods and personal effects of USAID contractors between certain locations. These reduced rates are available provided the shipper furnishes to the carrier at the time of the issuance of the Bill of Lading documentary evidence that the shipment is for the account of USAID. The Contracting Officer will, on request, furnish to the contractor current information concerning the availability of a reduced rate with respect to any proposed shipment. The contractor will not be reimbursed for shipments of household goods or personal effects in amounts in excess of the reduced rates which are available in accordance with the foregoing.

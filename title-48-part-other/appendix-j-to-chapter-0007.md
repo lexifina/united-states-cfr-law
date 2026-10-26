@@ -36,7 +36,7 @@ e. Services which involve security classified material.
 (4) Exceptions. The Assistant Administrator, Bureau for Management (AA/M) must approve exceptions to the limitations in (b)(3). Approval of an exception by the AA/M is not required when the Director, Bureau for Management, Office of Acquisition and Assistance (M/OAA Director) designates a cooperating country national personal services contractor as a contracting officer or an agreement officer.
 (c) Conditions of Employment. (1) General. For the purpose of any law administered by the U.S. Office of Personnel Management (OPM), USAID personal services contractors are not to be regarded as employees of the U.S. Government, are not included under any retirement or pension program of the U.S. Government, and are not eligible for the Incentive-Awards Program covered by Uniform Department of State/USAID regulations. Each USAID Mission is expected to participate in an interagency Mission incentive awards program. Additionally, CCN and TCN personal services contractors are eligible to receive certain USAID monetary and non-monetary incentive awards as authorized under this section. See paragraph (3) of this section for incentive awards.
 (2) Compensation. (i) It is USAID's general policy (see AIDAR 722.170) that PSC compensation may not, without the approval of the Mission Director or Assistant Administrator, exceed the prevailing compensation paid to personnel performing comparable work in the cooperating country. Compensation for CCN or TCN personal services contractors set in accordance with the provisions of 4(c)(2)(ii) below satisfies this requirement.
-(ii) In accordance with Section 408(a)(1) of the Foreign Service Act of 1980, a local compensation plan forms the basis for all compensation payments to CCNs and TCNs. The plan is each post's official system of position classification and pay, which consists of the local salary schedule including salary rates, statements that authorize fringe benefit payments, and other pertinent facets of compensation for CCNs and TCNs.Compensation for PSCs will be in accordance with the local compensation plan, to the extent that it covers employees of the type or category being employed, unless the Mission Director determines otherwise. If the Mission Director determines that compensation in accordance with the local plan would be inappropriate in a particular instance, then compensation will be set in accordance with (in order of preference):
+(ii) In accordance with Section 408(a)(1) of the Foreign Service Act of 1980, a local compensation plan forms the basis for all compensation payments to CCNs and TCNs. The plan is each post's official system of position classification and pay, which consists of the local salary schedule including salary rates, statements that authorize fringe benefit payments, and other pertinent facets of compensation for CCNs and TCNs. Compensation for PSCs will be in accordance with the local compensation plan, to the extent that it covers employees of the type or category being employed, unless the Mission Director determines otherwise. If the Mission Director determines that compensation in accordance with the local plan would be inappropriate in a particular instance, then compensation will be set in accordance with (in order of preference):
 (A) Any other Mission policies on CCN or TCN personal services contractor compensation; or
 (B) Section 4 of Appendix D of this chapter, entitled, "Policy," sections (c) "Withholdings and Fringe Benefits," (d) "Resident Hire U.S. Personal Services Contractors," (e) "Determining Salary for Personal Services Contractors," (f) "Incentive Awards," (g) "Annual Salary Increase," (h) "Pay Comparability Adjustment," and (i) "Subcontracting. When compensation is set in accordance with this exception, the record shall be documented in writing with a justification prepared by the requesting office and approved by the Mission Director.
 (iii) The earning of leave (annual and sick), allowances and differential (if applicable), salaries and all other related benefits cannot be enumerated in this appendix as they vary from Mission to Mission and are based upon the local compensation plan for each Mission.
@@ -113,11 +113,10 @@ The prescribed Contract Cover Page, Contract Schedules, General Provisions and F
 13. FAR Clauses to be incorporated in full text as well as by reference in Personal Services Contracts.
 9. "Cover page" for a Contract With a Cooperating Country National or With a Third Country National for Personal Services.
 —AID Form 1420-36B (11/96)
-ER11AU97.005
 10. "Schedule" for a Contract With a Cooperating Country National or Third Country National Personal Services Contracts
-Contract No.___
+Contract No.______
 Table of Contents
-The Schedule on pages ___ through ___ consists of this Table of Contents, the following Articles, and General Provisions:
+The Schedule on pages ______ through ______ consists of this Table of Contents, the following Articles, and General Provisions:
 Article I Statement of Duties
 Article II Period of Service
 Article III Contractor's Compensation and Reimbursement
@@ -125,7 +124,7 @@ Article IV Costs Reimbursable and Logistic Support
 Article V Precontract Expenses
 Article VI Additional Clauses
 General Provisions
-The following provisions, numbered as shown below, omitting number(s) ___, are the General Provisions (GPs) of this Contract:
+The following provisions, numbered as shown below, omitting number(s) ______, are the General Provisions (GPs) of this Contract:
 1. Definitions
 2. Compliance with Applicable Laws and Regulations
 3. Physical Fitness
@@ -156,38 +155,38 @@ A. General statement of the purpose of the contract.
 B. Statement of duties to be performed.
 C. Orientation or training to be provided by USAID.]
 Article II—Period of Service
-Within ___ days after written notice from the Contracting Officer that all clearances, including the statement of medical opinion required under General Provision Clause 3, have been received, unless another date is specified by the contracting officer in writing, the contractor shall proceed to ___ and shall promptly commence performance of the duties specified above. The contractor's period of service shall be approximately ___ in ___. (Specify time of duties in each location.)
+Within ______ days after written notice from the Contracting Officer that all clearances, including the statement of medical opinion required under General Provision Clause 3, have been received, unless another date is specified by the contracting officer in writing, the contractor shall proceed to ______ and shall promptly commence performance of the duties specified above. The contractor's period of service shall be approximately ______ in ______. (Specify time of duties in each location.)
 Article III—Contractor's Compensation and Reimbursement
 A. Except as reimbursement may be specifically authorized by the Mission Director or contracting officer, USAID shall pay the contractor compensation after it has accrued and make reimbursements, if any are due, in currency of the post or for necessary and reasonable costs actually incurred in the performance of this contract within the categories listed in Paragraph D, below, and subject to the conditions and limitations applicable thereto as set out herein and in the attached General Provisions (GPs).
-B. The amount budgeted and available as personal compensation to the contractor is calculated to cover a calendar period of approximately ___ (days) (weeks) (months) (years) (which is to include) (1) vacation and sick leave which may be earned during contractor's tour of duty (GP Clause No. 6), (2) ___ days for authorized travel (GP Clause 9), and (3) ___ days for orientation and consultation if required by the Statement of Duties.
-C. The contractor shall earn vacation leave at the rate of ___ days per year under the contract (provided the contract is in force for at least 90 days) and shall earn sick leave at the rate of ___ days per year under the contract.
+B. The amount budgeted and available as personal compensation to the contractor is calculated to cover a calendar period of approximately ______ (days) (weeks) (months) (years) (which is to include) (1) vacation and sick leave which may be earned during contractor's tour of duty (GP Clause No. 6), (2) ______ days for authorized travel (GP Clause 9), and (3) ______ days for orientation and consultation if required by the Statement of Duties.
+C. The contractor shall earn vacation leave at the rate of ______ days per year under the contract (provided the contract is in force for at least 90 days) and shall earn sick leave at the rate of ______ days per year under the contract.
 D. Allowable Costs.
-1. Compensation at the rate of LC ___ per (year) (month) (week) (day), equivalent to Grade FSN-___/___ in accordance with the Mission's Local Compensation Plan. If during the effective period of this contract the Local Compensation Plan is revised, contractor's compensation will be revised accordingly and contractor will be notified in writing by the contracting officer. Adjustments in compensation for periods when the contractor is not in compensable pay status shall be calculated as follows: Rate of LC ___ per (day) (hour).
-LC ___
+1. Compensation at the rate of LC ______ per (year) (month) (week) (day), equivalent to Grade FSN-______/______ in accordance with the Mission's Local Compensation Plan. If during the effective period of this contract the Local Compensation Plan is revised, contractor's compensation will be revised accordingly and contractor will be notified in writing by the contracting officer. Adjustments in compensation for periods when the contractor is not in compensable pay status shall be calculated as follows: Rate of LC ______ per (day) (hour).
+LC ______
 2. Overtime (Unless specifically authorized in the Schedule of this contract, no overtime hours shall be allowed hereunder.)
 3. Travel and Transportation (Ref. GP Clause 9). (Includes the value of TRs furnished by the Government, not payable to contractor).
-a. United States—$___
-b. International—$___
-c. Cooperating and Third Country—$___, LC ___
-Subtotals Item 3—$___, LC ___
+a. United States—$______
+b. International—$______
+c. Cooperating and Third Country—$______, LC ______
+Subtotals Item 3—$______, LC ______
 4. Subsistence or Per Diem (Ref. GP Clause 9).
-a. United States—$___
-b. International—$___
-c. Cooperating and Third Country—$___, LC___
-Subtotals Item 4—$___, LC___
+a. United States—$______
+b. International—$______
+c. Cooperating and Third Country—$______, LC______
+Subtotals Item 4—$______, LC______
 5. Other Direct Costs
-a. Physical Examination (Ref. GP Clause 3)—LC___
-b. Miscellaneous—LC___
-Subtotal Item—LC___
-Total Estimated Costs (Lines 1 thru 5) $___ LC ___
+a. Physical Examination (Ref. GP Clause 3)—LC______
+b. Miscellaneous—LC______
+Subtotal Item—LC______
+Total Estimated Costs (Lines 1 thru 5) $______ LC ______
 E. Maximum U.S. Dollar and Local Currency Obligation.
-In no event shall the maximum U.S. Dollar obligation under this contract exceed $___ nor shall the maximum local currency obligation exceed LC ___. Contractor shall keep a close account of all obligations incurred and accrued hereunder and promptly notify the contracting officer whenever it appears that the said maximum is not sufficient to cover all compensation and costs reimbursable which are anticipated under the contract.
+In no event shall the maximum U.S. Dollar obligation under this contract exceed $______ nor shall the maximum local currency obligation exceed LC ______. Contractor shall keep a close account of all obligations incurred and accrued hereunder and promptly notify the contracting officer whenever it appears that the said maximum is not sufficient to cover all compensation and costs reimbursable which are anticipated under the contract.
 F. Under the Joint Incentive Awards Program for FSN monetary awards will be made pending availability of funds. The increase for the award will be effected by the execution of an SF-1126 which will be attached to the contract and will form a part of the contract. In no event may costs under the contract exceed the total amount obligated.
 Meritorious Step Increases for FSN PSCs may be authorized provided the granting of such increase is the general practice locally.
 Article IV—Costs Reimbursable And Logistic Support
 A. General.
 The contractor shall be provided with or reimbursed in local currency
-(___) for the following: [Complete]
+(______) for the following: [Complete]
 B. Method of Payment of Local Currency Costs.
 Those contract costs which are specified as local currency costs in Paragraph A, above, if not furnished in kind by the cooperating government or the Mission, shall be paid to the contractor in a manner adapted to the local situation, based on vouchers submitted in accordance with GP Clause 10. The documentation for such costs shall be on such forms and in such manner as the Mission Director shall prescribe.
 C. Cooperating or U.S. Government Furnished Equipment and Facilities.
@@ -197,12 +196,12 @@ No expense incurred before signing of this contract will be reimbursed unless su
 Article VI—Additional Clauses
 [Additional Schedule Clauses may be added to meet specific requirements of an individual contract.]
 11. Optional Schedule for a Contract With a Cooperating Country National or Third Country National Personal Services Contracts
-Contract No. ___
+Contract No. ______
 Table of Contents
 (Optional Schedule)
 [Use of the Optional Schedule is not mandatory. It is intended to serve as an alternate procedure for OE funded Cooperating Country National and Third Country National PSCs. The schedule was developed for use when the Contracting Officer anticipates incremental recurring cost funded contracts.
 It should be noted that use of the Optional Schedule eliminates the need to amend the contract each time funds are obligated. However, Contracting Officer is required to amend each contract not less than twice during a 12 month period to ensure that the contract record of obligations is up to date and agrees with the figures in the master funding document.]
-The Schedule on pages ___ through ___ consists of this Table of Contents and the following Articles:
+The Schedule on pages ______ through ______ consists of this Table of Contents and the following Articles:
 Article I Statement of Duties
 Article II Period of Service
 Article III Contractor's Compensation and Reimbursement
@@ -210,7 +209,7 @@ Article IV Costs Reimbursable and Logistic Support
 Article V Precontract Expenses
 Article VI Additional Clauses
 General Provisions
-The following provisions, numbered as shown below, omitting number(s) ___, are the General Provisions (GPs) of this contract.
+The following provisions, numbered as shown below, omitting number(s) ______, are the General Provisions (GPs) of this contract.
 1. Definitions
 2. Compliance with Applicable Laws and Regulations
 3. Physical Fitness
@@ -242,28 +241,28 @@ Employment under this contract is of a continuing nature. Its duration is expect
 Within 10 days after written notice from the Contracting Offices that all clearances have been received, unless another date is specified by the Contracting Officer in writing, the contractor shall proceed to (name place) and shall promptly commence performance of the duties specified in Article I of this contract. The contractor's period of service shall be approximately (specify duration from date to date).
 Article III—Contractor's Compensation and Reimbursement
 A. Except as reimbursement may be specifically authorized by the Mission Director or Contracting Officer, USAID shall pay the contractor compensation after it has accrued and make reimbursements, if any are due in currency of the cooperating country (LC) in accordance with the prevailing practice of the post or for necessary and reasonable costs actually incurred in the performance of this contract within the categories listed in paragraph E, below, and subject to the conditions and limitations applicable thereto as set out herein and in the attached General Provisions (GPs).
-B. The amount budgeted and available as personal compensation to the contractor is calculated to cover a calendar period of approximately ___ (days) (weeks) (months) (years) (which is to include) (1) vacation and sick leave which may be earned during the contractor's tour of duty (GP Clause No. 6), (2) ___ days for authorized travel (GP Clause 9), and (3) ___ days for orientation and consultation if required by the Statement of Duties.
-C. The contractor shall earn vacation leave at the rate of ___ days per year under the contract (provided the contract is in force for at least 90 days) and shall earn sick leave at the rate of ___ days per year under the contract.
+B. The amount budgeted and available as personal compensation to the contractor is calculated to cover a calendar period of approximately ______ (days) (weeks) (months) (years) (which is to include) (1) vacation and sick leave which may be earned during the contractor's tour of duty (GP Clause No. 6), (2) ______ days for authorized travel (GP Clause 9), and (3) ______ days for orientation and consultation if required by the Statement of Duties.
+C. The contractor shall earn vacation leave at the rate of ______ days per year under the contract (provided the contract is in force for at least 90 days) and shall earn sick leave at the rate of ______ days per year under the contract.
 D. All employee rights and benefits from the previous contract or employment, i.e., accumulated annual and sick leave balances, original service computation dates, reserve fund contributions, accumulated compensatory time, social security contributions, seniority and longevity bonuses are considered allowable costs and as a continuation as long as the break in service does not exceed three days.
 E. Allowable Costs.
 1. The following illustrative budget details allowable costs under this contract and provides estimated incremental recurrent cost funding in the total amount shown. Additional funds for the full term of this contract will be provided by the preparation of a master PSC funding document issued by the Mission Controller for the purpose of providing additional funding for a specific period. The master PSC funding document will be attached to this contract and will form a part of the executed contract while also serving to amend the budget.
 2. Overtime (Unless specifically authorized in the Schedule of this contract, no overtime hours shall be allowed hereunder.)
-LC___
+LC______
 3. Travel and Transportation (Ref. GP Clause 9). (Includes the value of TRs furnished by the Government, not payable to contractor).
-a. United States—$___
-b. International—$___
-c. Cooperating and Third Country—$___, LC ___
-Subtotals Item 3—$___, LC ___
+a. United States—$______
+b. International—$______
+c. Cooperating and Third Country—$______, LC ______
+Subtotals Item 3—$______, LC ______
 4. Subsistence or Per Diem (Ref. GP Clause 9.)
-a. United States—$___
-b. International—$___
-c. Cooperating and Third Country—$___, LC ___
-Subtotals Item 4—$___, LC ___
+a. United States—$______
+b. International—$______
+c. Cooperating and Third Country—$______, LC ______
+Subtotals Item 4—$______, LC ______
 5. Other Direct Costs.
-a. Physical Examination (Ref. GP Clause 3)—$___, LC ___
-b. Miscellaneous—$___, LC ___
-Subtotals Item 5—$___, LC ___
-Total Estimated Costs (Lines 1 thru 5) $___, LC ___
+a. Physical Examination (Ref. GP Clause 3)—$______, LC ______
+b. Miscellaneous—$______, LC ______
+Subtotals Item 5—$______, LC ______
+Total Estimated Costs (Lines 1 thru 5) $______, LC ______
 F. Allowable costs compensation and all terms and benefits of employment under this contract will be in accordance with the Mission's local compensation plan. Salary changes and personnel-related contract actions will be made by processing the same forms as used in making such changes and actions for direct-hire FSN employees. When issued by the Contracting Officer, the forms utilized will be attached to the contract and will form a part of the contract terms and conditions.
 Any adjustment or increase in the compensation granted to direct-hire employees under the local compensation plan will be allowed for in PSCs subject to the availability of funds. Such an adjustment will be effected by a mass pay adjustment notice from the Contracting Officer, which will be attached to the contract and form a part of the executed contract.
 At the end of each year of satisfactory service, PSC contractors will be eligible to receive an increase equal to one annual step increase as shown in the local compensation plan, pending availability for funds. Such increase will be effected by the execution of an SF-1126, Payroll Change Slip which is to be attached to each contract and each action forms a part of the official contract file.
@@ -273,7 +272,7 @@ The master PSC funding document may not exceed the term or estimated total cost 
 Article IV—Costs Reimbursable and Logistic Support
 A. General.
 The contractor shall be provided with or reimbursed in local currency
-___ for the following: [Complete]
+______ for the following: [Complete]
 B. Method of Payment of Local Currency Costs.
 Those contract costs which are specified as local currency costs in Paragraph A, above, if not furnished in kind by the cooperating government or the Mission, shall be paid to the contractor in a manner adapted to the local situation, based on vouchers submitted in accordance with GP Clause 10. The documentation for such costs shall be on such forms and in such manner as the Mission Director shall prescribe.
 C. Cooperating or U.S. Government Furnished Equipment and Facilities.
