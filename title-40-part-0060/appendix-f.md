@@ -1,7 +1,7 @@
 # Appendix F to Part 60—Quality Assurance Procedures
 Procedure 1. Quality Assurance Requirements for Gas Continuous Emission Monitoring Systems Used for Compliance Determination
 1. Applicability and Principle
-1.1 Applicability. Procedure 1 is used to evaluate the effectiveness of quality control (QC) and quality assurance (QA) procedures and the quality of data produced by any continuous emission monitoring system (CEMS) that is used for determining compliance with the emission standards on a continuous basis as specified in the applicable regulation. The CEMS may include pollutant (e.g., S0 2 and N0 x) and diluent (e.g., 0 2 or C0 2) monitors.
+1.1 Applicability. Procedure 1 is used to evaluate the effectiveness of quality control (QC) and quality assurance (QA) procedures and the quality of data produced by any continuous emission monitoring system (CEMS) that is used for determining compliance with the emission standards on a continuous basis as specified in the applicable regulation. The CEMS may include pollutant (e.g., S02 and N0x) and diluent (e.g., 02 or C02) monitors.
 This procedure specifies the minimum QA requirements necessary for the control and assessment of the quality of CEMS data submitted to the Environmental Protection Agency (EPA). Source owners and operators responsible for one or more CEMS's used for compliance monitoring must meet these minimum requirements and are encouraged to develop and implement a more extensive QA program or to continue such programs where they already exist.
 Data collected as a result of QA and QC measures required in this procedure are to be submitted to the Agency. These data are to be used by both the Agency and the CEMS operator in assessing the effectiveness of the CEMS QC and QA procedures in the maintenance of acceptable CEMS operation and valid emission data.
 Appendix F, Procedure 1 is applicable December 4, 1987. The first CEMS accuracy assessment shall be a relative accuracy test audit (RATA) (see section 5) and shall be completed by March 4, 1988 or the date of the initial performance test required by the applicable regulation, whichever is later.
@@ -9,7 +9,7 @@ Appendix F, Procedure 1 is applicable December 4, 1987. The first CEMS accuracy 
 Because the control and corrective action function encompasses a variety of policies, specifications, standards, and corrective measures, this procedure treats QC requirements in general terms to allow each source owner or operator to develop a QC system that is most effective and efficient for the circumstances.
 2. Definitions
 2.1 Continuous Emission Monitoring System. The total equipment required for the determination of a gas concentration or emission rate.
-2.2 Diluent Gas. A major gaseous constituent in a gaseous pollutant mixture. For combustion sources, CO 2 and O 2 are the major gaseous constituents of interest.
+2.2 Diluent Gas. A major gaseous constituent in a gaseous pollutant mixture. For combustion sources, CO2 and O2 are the major gaseous constituents of interest.
 2.3 Span Value. The upper limit of a gas concentration measurement range that is specified for affected source categories in the applicable subpart of the regulation.
 2.4 Zero, Low-Level, and High-Level Values. The CEMS response values related to the source specific span value. Determination of zero, low-level, and high-level values is defined in the appropriate PS in appendix B of this part.
 2.5 Calibration Drift (CD). The difference in the CEMS output reading from a reference value after a period of operation during which no unscheduled maintenance, repair or adjustment took place. The reference value may be supplied by a cylinder gas, gas cell, or optical filter and need not be certified.
@@ -33,10 +33,12 @@ These written procedures must be kept on record and available for inspection by 
 4.4 Data Recording and Reporting. As required in § 60.7(d) of this regulation (40 CFR part 60), all measurements from the CEMS must be retained on file by the source owner for at least 2 years. However, emission data obtained on each successive day while the CEMS is out-of-control may not be included as part of the minimum daily data requirement of the applicable subpart [e.g., § 60.47a(f)] nor be used in the calculation of reported emissions for that period.
 5. Data Accuracy Assessment
 5.1 Auditing Requirements. Each CEMS must be audited at least once each calendar quarter. Successive quarterly audits shall occur no closer than 2 months. The audits shall be conducted as follows:
-5.1.1 Relative Accuracy Test Audit (RATA). The RATA must be conducted at least once every four calendar quarters, except as otherwise noted in section 5.1.4 of this appendix. Conduct the RATA as described for the RA test procedure in the applicable PS in appendix B (e.g., PS 2 for SO 2 and NO X). In addition, analyze the appropriate performance audit samples received from EPA as described in the applicable sampling methods (e.g., Methods 6 and 7).
+5.1.1 Relative Accuracy Test Audit (RATA). The RATA must be conducted at least once every four calendar quarters, except as otherwise noted in section 5.1.4 of this appendix. Conduct the RATA as described for the RA test procedure in the applicable PS in appendix B (e.g., PS 2 for SO2 and NOX). In addition, analyze the appropriate performance audit samples received from EPA as described in the applicable sampling methods (e.g., Methods 6 and 7).
 5.1.2 Cylinder Gas Audit (CGA). If applicable, a CGA may be conducted in three of four calendar quarters, but in no more than three quarters in succession.
 To conduct a CGA: (1) Challenge the CEMS (both pollutant and diluent portions of the CEMS, if applicable) with an audit gas of known concentration at two points within the following ranges:
-Audit point | Audit range | Pollutant monitors | Diluent monitors for— | CO 2 | O 2
+Audit point | Audit range
+Pollutant monitors | Diluent monitors for—
+CO2 | O2
 1 | 20 to 30% of span value | 5 to 8% by volume | 4 to 6% by volume.
 2 | 50 to 60% of span value | 10 to 14% by volume | 8 to 12% by volume.
 Introduce each of the audit gases, three times each for a total of six challenges. Introduce the gases in such a manner that the entire CEMS is challenged. Do not introduce the same gas concentration twice in succession.
@@ -63,12 +65,11 @@ For diluent monitors, ±15 percent of the average audit value.
 6. Calculations for CEMS Data Accuracy
 6.1 RATA RA Calculation. Follow the equations described in section 8 of appendix B, PS 2 to calculate the RA for the RATA. The RATA must be calculated in units of the applicable emission standard (e.g., ng/J).
 6.2 RAA Accuracy Calculation. Use equation 1-1 of this method to calculate the accuracy for the RAA. The RAA must be calculated in the units of the applicable emission standard.
-6.3 CGA Accuracy Calculation. Use Equation 1-1 to calculate the accuracy for the CGA, which is calculated in units of the appropriate concentration (e.g., ppm SO 2 or percent O 2). Each component of the CEMS must meet the acceptable accuracy requirement.
-EC16NO91.240
+6.3 CGA Accuracy Calculation. Use Equation 1-1 to calculate the accuracy for the CGA, which is calculated in units of the appropriate concentration (e.g., ppm SO2 or percent O2). Each component of the CEMS must meet the acceptable accuracy requirement.
 where:
 A = Accuracy of the CEMS, percent.
-C m = Average CEMS response during audit in units of applicable standard or appropriate concentration.
-C a = Average audit value (CGA certified value or three-run average for RAA) in units of applicable standard or appropriate concentration.
+Cm = Average CEMS response during audit in units of applicable standard or appropriate concentration.
+Ca = Average audit value (CGA certified value or three-run average for RAA) in units of applicable standard or appropriate concentration.
 6.4 Example Accuracy Calculations. Example calculations for the RATA, RAA, and CGA are available in Citation 3.
 7. Reporting Requirements
 At the reporting interval specified in the applicable regulation, report for each CEMS the accuracy results from section 6 and the CD assessment results from section 4. Report the drift and accuracy information as a Data Assessment Report (DAR), and include one copy of this DAR for each quarterly audit with the report of emissions required under the applicable subparts of this part.
@@ -95,9 +96,9 @@ Model no.
 CEMS serial no.
 CEMS type (e.g., in situ)
 CEMS sampling location (e.g., control device outlet)
-CEMS span values as per the applicable regulation: ____________ (e.g., SO 2 ________ ppm, NO X ________ ppm). ________________
+CEMS span values as per the applicable regulation: ____________ (e.g., SO2 ________ ppm, NOX ________ ppm). ________________
 I. Accuracy assessment results (Complete A, B, or C below for each CEMS or for each pollutant and diluent analyzer, as applicable.) If the quarterly audit results show the CEMS to be out-of-control, report the results of both the quarterly audit and the audit following corrective action showing the CEMS to be operating properly.
-A. Relative accuracy test audit (RATA) for ________ (e.g., SO 2 in ng/J).
+A. Relative accuracy test audit (RATA) for ________ (e.g., SO2 in ng/J).
 1. Date of audit ________.
 2. Reference methods (RM's) used ________ (e.g., Methods 3 and 6).
 3. Average RM value ________ (e.g., ng/J, mg/dsm 3, or percent volume).
@@ -111,16 +112,16 @@ b. Audit sample number (1) ________ (2) ________
 c. Results (mg/dsm 3) (1) ________ (2) ________
 d. Actual value (mg/dsm 3)* (1) ________ (2) ________
 e. Relative error* (1) ________ (2) ________
-B. Cylinder gas audit (CGA) for ________ (e.g., SO 2 in ppm).
+B. Cylinder gas audit (CGA) for ________ (e.g., SO2 in ppm).
 | Audit point 1 | Audit point 2 |
-1. Date of audit
-2. Cylinder ID number
-3. Date of certification
+1. Date of audit | | |
+2. Cylinder ID number | | |
+3. Date of certification | | |
 4. Type of certification | | | (e.g., EPA Protocol 1 or CRM).
 5. Certified audit value | | | (e.g., ppm).
 6. CEMS response value | | | (e.g., ppm).
 7. Accuracy | | | percent.
-C. Relative accuracy audit (RAA) for ________ (e.g., SO 2 in ng/J).
+C. Relative accuracy audit (RAA) for ________ (e.g., SO2 in ng/J).
 1. Date of audit ________.
 2. Reference methods (RM's) used ________ (e.g., Methods 3 and 6).
 3. Average RM value ________ (e.g., ng/J).
@@ -145,7 +146,7 @@ A. Out-of-control periods.
 B. Corrective action taken
 Procedure 2—Quality Assurance Requirements for Particulate Matter Continuous Emission Monitoring Systems at Stationary Sources
 1.0 What Are the Purpose and Applicability of Procedure 2?
-The purpose of Procedure 2 is to establish the minimum requirements for evaluating the effectiveness of quality control (QC) and quality assurance (QA) procedures and the quality of data produced by your particulate matter (PM) continuous emission monitoring system (CEMS). Procedure 2 applies to PM CEMS used for continuously determining compliance with emission standards or operating permit limits as specified in an applicable regulation or permit. Other QC procedures may apply to diluent (e.g., O 2) monitors and other auxiliary monitoring equipment included with your CEMS to facilitate PM measurement or determination of PM concentration in units specified in an applicable regulation.
+The purpose of Procedure 2 is to establish the minimum requirements for evaluating the effectiveness of quality control (QC) and quality assurance (QA) procedures and the quality of data produced by your particulate matter (PM) continuous emission monitoring system (CEMS). Procedure 2 applies to PM CEMS used for continuously determining compliance with emission standards or operating permit limits as specified in an applicable regulation or permit. Other QC procedures may apply to diluent (e.g., O2) monitors and other auxiliary monitoring equipment included with your CEMS to facilitate PM measurement or determination of PM concentration in units specified in an applicable regulation.
 1.1 What measurement parameter does Procedure 2 address? Procedure 2 covers the instrumental measurement of PM as defined by your source's applicable reference method (no Chemical Abstract Service number assigned).
 1.2 For what types of devices must I comply with Procedure 2? You must comply with Procedure 2 for the total equipment that:
 (1) We require you to install and operate on a continuous basis under the applicable regulation, and
@@ -264,37 +265,32 @@ Audit point | Audit range
 Sample collection and analysis are concurrent for this procedure. You must refer to the appropriate reference method for the specific analytical procedures.
 12.0 What Calculations and Data Analysis Must I Perform for my PM CEMS?
 (1) How do I determine RCA and RRA acceptability? You must plot each of your PM CEMS and reference method data sets from an RCA or RRA on a graph based on your PM CEMS correlation line to determine if the criteria in paragraphs 10.4(5) or (6), respectively, are met.
-(2) How do I calculate ACA accuracy? You must use either Equation 2-1a or 2-1b to calculate ACA accuracy for each of the three audit points. However, when calculating ACA accuracy for the first audit point (0 to 20 percent of measurement range), you must use Equation 2-1b to calculate ACA accuracy if the reference standard value (R v) equals zero.
-ER25MR09.104
+(2) How do I calculate ACA accuracy? You must use either Equation 2-1a or 2-1b to calculate ACA accuracy for each of the three audit points. However, when calculating ACA accuracy for the first audit point (0 to 20 percent of measurement range), you must use Equation 2-1b to calculate ACA accuracy if the reference standard value (Rv) equals zero.
 Where:
 ACA Accuracy = The ACA accuracy at each audit point, in percent,
-R CEM = Your PM CEMS response to the reference standard, and
-R V = The reference standard value.
-ER25MR09.105
+RCEM = Your PM CEMS response to the reference standard, and
+RV = The reference standard value.
 Where:
 ACA Accuracy = The ACA accuracy at each audit point, in percent,
-C CEM = The PM concentration that corresponds to your PM CEMS response to the reference standard, as calculated using the correlation equation for your PM CEMS,
-C RV = The PM concentration that corresponds to the reference standard value in units consistent with C CEM, and
-C s = The PM concentration that corresponds to the applicable emission limit in units consistent with C CEM.
+CCEM = The PM concentration that corresponds to your PM CEMS response to the reference standard, as calculated using the correlation equation for your PM CEMS,
+CRV = The PM concentration that corresponds to the reference standard value in units consistent with CCEM, and
+Cs = The PM concentration that corresponds to the applicable emission limit in units consistent with CCEM.
 (3) How do I calculate daily upscale and zero drift? You must calculate the upscale drift using Equation 2-2 and the zero drift using Equation 2-3:
-ER30AU16.019
 Where:
 UD = The upscale drift of your PM CEMS, in percent,
-R CEM = Your PM CEMS response to the upscale check value,
-R U = The upscale check value, and
-R r = The response range of the analyzer.
-ER30AU16.020
+RCEM = Your PM CEMS response to the upscale check value,
+RU = The upscale check value, and
+Rr = The response range of the analyzer.
 Where:
 ZD = The zero (low-level) drift of your PM CEMS, in percent,
-R CEM = Your PM CEMS response of the zero check value,
-R L = The zero check value, and
-R r = The response range of the analyzer.
+RCEM = Your PM CEMS response of the zero check value,
+RL = The zero check value, and
+Rr = The response range of the analyzer.
 (4) How do I calculate SVA accuracy? You must use Equation 2-4 to calculate the accuracy, in percent, for each of the three SVA tests or the daily sample volume check:
-ER30AU16.021
 Where:
 SVA Accuracy = The SVA accuracy at each audit point, in percent,
-V M = Sample gas volume determined/reported by your PM CEMS (e.g., dscm), and
-V R = Sample gas volume measured by the independent calibrated reference device (e.g., dscm) for the SVA or the reference value for the daily sample volume check.
+VM = Sample gas volume determined/reported by your PM CEMS (e.g., dscm), and
+VR = Sample gas volume measured by the independent calibrated reference device (e.g., dscm) for the SVA or the reference value for the daily sample volume check.
 Note: Before calculating SVA accuracy, you must correct the sample gas volumes measured by your PM CEMS and the independent calibrated reference device to the same basis of temperature, pressure, and moisture content. You must document all data and calculations.
 13.0 Method Performance [Reserved]
 14.0 Pollution Prevention [Reserved]
@@ -398,7 +394,7 @@ Procedure 4. [Reserved]
 Procedure 5. Quality Assurance Requirements for Vapor Phase Mercury Continuous Emissions Monitoring Systems and Sorbent Trap Monitoring Systems Used for Compliance Determination at Stationary Sources
 1.0 Applicability and Principle
 1.1 Applicability. The purpose of Procedure 5 is to establish the minimum requirements for evaluating the effectiveness of quality control (QC) and quality assurance (QA) procedures as well as the quality of data produced by vapor phase mercury (Hg) continuous emissions monitoring systems (CEMS) and sorbent trap monitoring systems. Procedure 5 applies to Hg CEMS and sorbent trap monitoring systems used for continuously determining compliance with emission standards or operating permit limits as specified in an applicable regulation or permit. Other QA/QC procedures may apply to other auxiliary monitoring equipment that may be needed to determine Hg emissions in the units of measure specified in an applicable permit or regulation.
-Procedure 5 covers the measurement of Hg emissions as defined in Performance Specification 12A (PS 12A) and Performance Specification 12B (PS 12B) in appendix B to this part, i.e., total vapor phase Hg representing the sum of the elemental (Hg°, CAS Number 7439-97-6) and oxidized (Hg +2) forms of gaseous Hg.
+Procedure 5 covers the measurement of Hg emissions as defined in Performance Specification 12A (PS 12A) and Performance Specification 12B (PS 12B) in appendix B to this part, i.e., total vapor phase Hg representing the sum of the elemental (Hg°, CAS Number 7439-97-6) and oxidized (Hg+2) forms of gaseous Hg.
 Procedure 5 specifies the minimum requirements for controlling and assessing the quality of Hg CEMS and sorbent trap monitoring system data submitted to EPA or a delegated permitting authority. You must meet these minimum requirements if you are responsible for one or more Hg CEMS or sorbent trap monitoring systems used for compliance monitoring. We encourage you to develop and implement a more extensive QA program or to continue such programs where they already exist.
 You must comply with the basic requirements of Procedure 5 immediately following successful completion of the initial performance test described in PS 12A or PS 12B in appendix B to this part (as applicable).
 1.2 Principle. The QA procedures consist of two distinct and equally important functions. One function is the assessment of the quality of the Hg CEMS or sorbent trap monitoring system data by estimating accuracy. The other function is the control and improvement of the quality of the CEMS or sorbent trap monitoring system data by implementing QC policies and corrective actions. These two functions form a control loop: When the assessment function indicates that the data quality is inadequate, the quality control effort must be increased until the data quality is acceptable. In order to provide uniformity in the assessment and reporting of data quality, this procedure explicitly specifies assessment methods for calibration drift, system integrity, and accuracy. Several of the procedures are based on those of PS 12A and PS 12B in appendix B to this part. Because the control and corrective action function encompasses a variety of policies, specifications, standards, and corrective measures, this procedure treats QC requirements in general terms to allow each source owner or operator to develop a QC system that is most effective and efficient for the circumstances.
@@ -411,7 +407,7 @@ You must comply with the basic requirements of Procedure 5 immediately following
 2.3 Span Value means the measurement range as specified for the affected source category in the applicable regulation and/or monitoring performance specification.
 2.4 Zero, Mid-Level, and High Level Values means the reference gas concentrations used for calibration drift assessments and system integrity checks on a Hg CEMS, expressed as percentages of the span value (see section 7.1 of PS 12A in appendix B to this part).
 2.5 Calibration Drift (CD) means the absolute value of the difference between the CEMS output response and either the upscale elemental Hg reference gas or the zero-level elemental Hg reference gas, expressed as a percentage of the span value, when the entire CEMS, including the sampling interface, is challenged after a stated period of operation during which no unscheduled maintenance, repair, or adjustment took place.
-2.6 System Integrity (SI) Check means a test procedure assessing transport and measurement of oxidized Hg by a Hg CEMS. In particular, system integrity is expressed as the absolute value of the difference between the CEMS output response and the reference value of either a mid- or high-level mercuric chloride (HgCl 2) reference gas, as a percentage of span, when the entire CEMS, including the sampling interface, is challenged.
+2.6 System Integrity (SI) Check means a test procedure assessing transport and measurement of oxidized Hg by a Hg CEMS. In particular, system integrity is expressed as the absolute value of the difference between the CEMS output response and the reference value of either a mid- or high-level mercuric chloride (HgCl2) reference gas, as a percentage of span, when the entire CEMS, including the sampling interface, is challenged.
 2.7 Relative Accuracy (RA) means the absolute mean difference between the pollutant concentrations determined by a continuous monitoring system (e.g., Hg CEMS or sorbent trap monitoring system) and the values determined by a reference method (RM) plus the 2.5 percent error confidence coefficient of a series of tests divided by the mean of the RM tests. Alternatively, for sources with an average RM concentration less than 5.0 micrograms per standard cubic meter (µg/scm), the RA may be expressed as the absolute value of the difference between the mean CEMS and RM values.
 2.8 Relative Accuracy Test Audit (RATA) means an audit test procedure consisting of at least nine runs, in which the accuracy of the total vapor phase Hg concentrations measured by a CEMS or sorbent trap monitoring system is evaluated by comparison against concurrent measurements made with a reference test method.
 2.9 Quarterly Gas Audit (QGA) means an audit procedure in which the accuracy of the total vapor phase Hg concentrations measured by a CEMS is evaluated by challenging the CEMS with a zero and two upscale reference gases.
@@ -432,7 +428,7 @@ These written procedures must be kept on record and available for inspection by 
 4.3 Criteria for Excessive CD. If either the zero (or low-level) or high-level CD result exceeds twice the applicable drift specification in section 13.2 of PS 12A in appendix B to this part for five, consecutive, daily periods, the CEMS is out-of-control. If either the zero (or low-level) or high-level CD result exceeds four times the applicable drift specification in PS 12A during any CD check, the CEMS is out-of-control. If the CEMS is out-of-control, take necessary corrective action. Following corrective action, repeat the CD checks.
 4.3.1 Out-Of-Control Period Definition. The beginning of the out-of-control period is the time corresponding to the completion of the fifth, consecutive, daily CD check with a CD in excess of two times the allowable limit, or the time corresponding to the completion of the daily CD check preceding the daily CD check that results in a CD in excess of four times the allowable limit. The end of the out-of-control period is the time corresponding to the completion of the CD check following corrective action that results in the CD's at both the zero (or low-level) and high-level measurement points being within the corresponding allowable CD limit (i.e., either two times or four times the allowable limit in the applicable PS in appendix B).
 4.3.2 CEMS Data Status During Out-of-Control Period. During the period the CEMS is out-of-control, the CEMS data may not be used either to determine compliance with an emission limit or to meet a minimum data availability requirement specified in an applicable regulation or permit.
-4.4 Weekly System Integrity Check. At least once every 7 operating days, using the procedure described in section 8.3.3 of Performance Specification 12A in appendix B to this part, source owners and operators of Hg CEMS must use a single mid- or high-level oxidized Hg (mercuric chloride, HgCl 2) reference gas to assess transport and measurement of oxidized mercury. The absolute value of the difference between the Hg CEMS output response and the reference gas must be less than or equal to 10.0 percent of the reference gas value or 0.8 µg/scm.
+4.4 Weekly System Integrity Check. At least once every 7 operating days, using the procedure described in section 8.3.3 of Performance Specification 12A in appendix B to this part, source owners and operators of Hg CEMS must use a single mid- or high-level oxidized Hg (mercuric chloride, HgCl2) reference gas to assess transport and measurement of oxidized mercury. The absolute value of the difference between the Hg CEMS output response and the reference gas must be less than or equal to 10.0 percent of the reference gas value or 0.8 µg/scm.
 5.0 Data Accuracy Assessment
 5.1 Hg CEMS Audit Requirements. For each Hg CEMS, an accuracy audit must be performed at least once each calendar quarter. Successive quarterly audits must, to the extent practicable, be performed no less than 2 months apart. The audits must be conducted as follows:
 5.1.1 Relative Accuracy Test Audit (RATA). A RATA of the Hg CEMS must be conducted at least once every four calendar quarters, except as otherwise noted in section 5.1.4 of this appendix. Perform the RATA as described in section 8.5 of PS 12A in appendix B to this part. Calculate the results according to section 12.4 of PS 12A.
@@ -441,7 +437,7 @@ Audit point | Audit range
 1 | 20 to 30% of span value.
 2 | 50 to 60% of span value.
 Sequentially inject each of the three audit gases (zero and two upscale), three times each for a total of nine injections. Inject the gases in such a manner that the entire CEMS is challenged. Do not inject the same gas concentration twice in succession.
-Use elemental Hg and oxidized Hg (mercuric chloride, HgCl 2) audit gases that are National Institute of Standards and Technology (NIST)-certified or NIST-traceable following an EPA Traceability Protocol. If audit gas cylinders are used, do not dilute gas when challenging the Hg CEMS. For each reference gas concentration, determine the average of the three CEMS responses and subtract the average response from the reference gas value. Calculate the measurement error at each gas level using Equation 12A-1 in section 8.2 of PS 12A.
+Use elemental Hg and oxidized Hg (mercuric chloride, HgCl2) audit gases that are National Institute of Standards and Technology (NIST)-certified or NIST-traceable following an EPA Traceability Protocol. If audit gas cylinders are used, do not dilute gas when challenging the Hg CEMS. For each reference gas concentration, determine the average of the three CEMS responses and subtract the average response from the reference gas value. Calculate the measurement error at each gas level using Equation 12A-1 in section 8.2 of PS 12A.
 5.1.3 Relative Accuracy Audit (RAA). As an alternative to the QGA, a RAA may be conducted in three of four calendar quarters, but in no more than three quarters in succession. To conduct a RAA, follow the RATA test procedures in section 8.5 of PS 12A in appendix B to this part, except that only three test runs are required. Calculate the relative accuracy according to equation 1-1 of Procedure 1 of this appendix.
 5.1.4 Alternative Quarterly Audits. Alternative quarterly audit procedures may be used as approved by the Administrator for three of four calendar quarters. One RATA is required at least every four calendar quarters, except in the case where the affected facility is off-line (does not operate) in the fourth calendar quarter since the quarter of the previous RATA. In that case, the RATA must be performed in the quarter in which the unit recommences operation. Also, quarterly gas audits (or RAAs, if applicable) are not required for calendar quarters in which the affected facility does not operate.
 5.2 Sorbent Trap Monitoring System Audit Requirements. For each sorbent trap monitoring system, a RATA must be conducted at least once every four calendar quarters, except as otherwise noted in section 5.1.4 of this appendix. Perform the RATA as described in section 8.3 of PS 12B in appendix B to this part. Calculate the results according to section 12.4 of PS 12A.
@@ -501,7 +497,6 @@ See PS-18 of this subpart for the primary definitions used in this Procedure.
 4.1.5.2 Record and report the results of this procedure as you would for a daily calibration. The 'above span' response check is successful if the value measured by the CEMS is within 20 percent of the certified value of the reference gas.
 4.1.5.3 If the 'above span' response check is conducted during the period when measured emissions are above span and there is a failure to collect at least one data point in an hour due to the response check duration, then determine the emissions average for that missed hour as the average of hourly averages for the hour preceding the missed hour and the hour following the missed hour.
 4.1.5.4 In the event that the 'above span' response check is not successful (i.e., the CEMS measured value is not within 20 percent of the certified value of the reference gas), then you must normalize the one-hour average stack gas values measured above the span during the 24-hour period preceding or following the 'above span' response check for reporting based on the CEMS response to the reference gas as shown in Eq. 6-1:
-ER07JY15.096
 4.2 Beam Intensity Requirement for HCl IP-CEMS.
 4.2.1 Beam Intensity Measurement. If you use a HCl IP-CEMS, you must quantify and record the beam intensity of the IP-CEMS in appropriate units at least once daily (approximately 24 hours apart) according to manufacturer's specifications and procedures.
 4.2.2 Out of Control Criteria for Excessive Beam Intensity Loss. If the beam intensity falls below the level established for the operation range determined following the procedures in section 11.2 of PS-18 of this part, then your CEMS is out-of-control. This quality check is independent of whether the CEMS daily CD is acceptable. If your CEMS is out-of-control, take necessary corrective action. You have the option to repeat the beam intensity test procedures in section 11.2 of PS-18 to expand the acceptable range of acceptable beam intensity. Following corrective action, repeat the beam intensity check.
@@ -534,7 +529,7 @@ Audit point | Audit range
 5.3.4 Criteria for Excessive Quarterly and Yearly Audit Inaccuracy. Unless specified otherwise in the applicable regulation or permit, the criteria for excessive inaccuracy are:
 5.3.4.1 For the RATA, the CEMS must meet the RA specifications in section 13.4 of PS-18 in appendix B to this part.
 5.3.4.2 For the CGA, the accuracy must not exceed 5.0 percent of the span value at the zero gas and the mid- and high-level reference gas concentrations.
-5.3.4.3 For the RAA, the RA must not exceed 20.0 percent of the RM avg as calculated using Equation 6-2 in section 6.2 of this procedure whether calculated in units of HCl concentration or in units of the emission standard. In cases where the RA is calculated on a concentration (ppmv) basis, if the average HCl concentration measured by the RM during the test is less than 75 percent of the HCl concentration equivalent to the applicable standard, you may substitute the equivalent emission standard value (in ppmvw) in the denominator of Equation 6-2 in the place of RM avg and the result of this alternative calculation of RA must not exceed 15.0 percent.
+5.3.4.3 For the RAA, the RA must not exceed 20.0 percent of the RMavg as calculated using Equation 6-2 in section 6.2 of this procedure whether calculated in units of HCl concentration or in units of the emission standard. In cases where the RA is calculated on a concentration (ppmv) basis, if the average HCl concentration measured by the RM during the test is less than 75 percent of the HCl concentration equivalent to the applicable standard, you may substitute the equivalent emission standard value (in ppmvw) in the denominator of Equation 6-2 in the place of RMavg and the result of this alternative calculation of RA must not exceed 15.0 percent.
 5.3.4.4 For DSA, the accuracy must not exceed 5.0 percent of the span value at the zero gas and the mid- and high-level reference gas concentrations or 20.0 percent of the applicable emission standard, whichever is greater.
 5.3.4.5 For the gas temperature measurement audit, the CEMS must satisfy the requirements in section 13.7 in PS-18 of appendix B to this part.
 5.3.4.6 For the gas pressure measurement audit, the CEMS must satisfy the requirements in section 13.8 in PS-18 of appendix B to this part.
@@ -546,14 +541,12 @@ Audit point | Audit range
 6.0 Calculations for CEMS Data Accuracy
 6.1 RATA RA Calculation. Follow Equations 9 through 14 in section 12 of PS-18 in appendix B to this part to calculate the RA for the RATA. The RATA must be calculated either in units of the applicable emission standard or in concentration units (ppmv).
 6.2 RAA Accuracy Calculation. Use Equation 6-2 to calculate the accuracy for the RAA. The RA may be calculated in concentration units (ppmv) or in the units of the applicable emission standard.
-ER07JY15.097
 Where:
 RA = Accuracy of the CEMS (percent)
-MN avg = Average measured CEMS response during the audit in units of applicable standard or appropriate concentration.
-RM avg = Average reference method value in units of applicable standard or appropriate concentration.
+MNavg = Average measured CEMS response during the audit in units of applicable standard or appropriate concentration.
+RMavg = Average reference method value in units of applicable standard or appropriate concentration.
 6.3 CGA Accuracy Calculation. For each gas concentration, determine the average of the three CEMS responses and subtract the average response from the audit gas value. For extractive CEMS, calculate the ME at each gas level using Equation 3A in section 12.3 of PS-18 in appendix B to this part. For IP-CEMS, calculate the ME at each gas level using Equation 6A in section 12.4.3 of PS-18 in appendix B to this part.
 6.4 DSA Accuracy Calculation. DSA accuracy is calculated as a percent of span. To calculate the DSA accuracy for each upscale spike concentration, first calculate the DSE using Equation A5 in appendix A of PS-18 in appendix B to this part. Then use Equation 6-3 to calculate the average DSA accuracy for each upscale spike concentration. To calculate DSA accuracy at the zero level, use equation 3A in section 12.3 of PS-18 in appendix B to this part.
-ER07JY15.098
 7.0 Reporting Requirements
 At the reporting interval specified in the applicable regulation or permit, report for each CEMS the quarterly and annual accuracy audit results from section 6 and the daily assessment results from section 4. Unless otherwise specified in the applicable regulation or permit, include all data sheets, calculations, CEMS data records (i.e., charts, records of CEMS responses), reference gas certifications and reference method results necessary to confirm that the performance of the CEMS met the performance specifications.
 7.1 Unless otherwise specified in the applicable regulations or permit, report the daily assessments (CD and beam intensity) and accuracy audit information at the interval for emissions reporting required under the applicable regulations or permits.
@@ -608,7 +601,6 @@ See PS-19 in appendix B to this part for the primary definitions used in this Pr
 4.1.5.2 Record and report the results of this procedure as you would for a daily calibration. The 'above span' response check is successful if the value measured by the CEMS is within 20 percent of the certified value of the reference gas.
 4.1.5.3 If the 'above span' response check is conducted during the period when measured emissions are above span and there is a failure to collect at least one data point in an hour due to the response check duration, then determine the emissions average for that missed hour as the average of hourly averages for the hour preceding the missed hour and the hour following the missed hour.
 4.1.5.4 In the event that the 'above span' response check is not successful (i.e., the CEMS measured value is not within 20 percent of the certified value of the reference gas), then you must normalize the one-hour average stack gas values measured above the span during the 24-hour period preceding or following the 'above span' response check for reporting based on the CEMS response to the reference gas as shown in Eq. 7-1:
-ER05AP24.025
 4.2 Out of Control Period Duration for Daily Assessments. The beginning of the out-of-control period is the hour in which the owner or operator conducts a daily performance check (e.g., calibration drift) that indicates an exceedance of the performance requirements established under this procedure. The end of the out-of-control period is the completion of daily assessment of the same type following corrective actions, which shows that the applicable performance requirements have been met.
 4.3 CEMS Data Status During Out-of-Control Period. During the period the CEMS is out-of- control, the CEMS data may not be used in calculating compliance with an emissions limit nor be counted towards meeting minimum data availability as required and described in the applicable regulation or permit.
 5.0 Data Accuracy Assessment
@@ -634,7 +626,7 @@ Audit point | Audit range
 5.2.4 Criteria for Excessive Quarterly and Yearly Audit Inaccuracy. Unless specified otherwise in the applicable regulation or permit, the criteria for excessive inaccuracy are:
 5.2.4.1 For the RATA, the CEMS must meet the RA specifications in section 13.4 of PS-19 in appendix B to this part.
 5.2.4.2 For the CGA, the accuracy must not exceed 10.0 percent of the span value at the zero gas and the mid- and high-level reference gas concentrations.
-5.2.4.3 For the RAA, the RA must not exceed 20.0 percent of the RMavg as calculated using equation 7-2 in section 6.2 of this procedure whether calculated in units of EtO concentration or in units of the emission standard. In cases where the RA is calculated on a concentration (ppbv) basis, if the average EtO concentration measured by the RM during the test is less than 75 percent of the EtO concentration equivalent to the applicable standard, you may substitute the equivalent emission standard value (in ppbw) in the denominator of equation 7-2 in the place of RM avg and the result of this alternative calculation of RA must not exceed 15.0 percent.
+5.2.4.3 For the RAA, the RA must not exceed 20.0 percent of the RMavg as calculated using equation 7-2 in section 6.2 of this procedure whether calculated in units of EtO concentration or in units of the emission standard. In cases where the RA is calculated on a concentration (ppbv) basis, if the average EtO concentration measured by the RM during the test is less than 75 percent of the EtO concentration equivalent to the applicable standard, you may substitute the equivalent emission standard value (in ppbw) in the denominator of equation 7-2 in the place of RMavg and the result of this alternative calculation of RA must not exceed 15.0 percent.
 5.2.4.4 For DSA, the accuracy must not exceed 5.0 percent of the span value at the zero gas and the mid- and high-level reference gas concentrations or 20.0 percent of the applicable emission standard, whichever is greater.
 5.3 Criteria for Acceptable QC Procedures. Repeated excessive inaccuracies (i.e., out-of-control conditions resulting from the quarterly or yearly audits) indicate that the QC procedures are inadequate or that the CEMS is incapable of providing quality data. Therefore, whenever excessive inaccuracies occur for two consecutive quarters, you must revise the QC procedures (see section 3.0) or modify or replace the CEMS.
 5.4 Criteria for Optional QA Test Frequency. If all the quality criteria are met in sections 4 and 5 of this procedure, the CEMS is in-control.
@@ -644,14 +636,12 @@ Audit point | Audit range
 6.0 Calculations for CEMS Data Accuracy
 6.1 RATA RA Calculation. Follow equations 9 through 14 in section 12 of PS-19 in appendix B to this part to calculate the RA for the RATA. The RATA must be calculated either in units of the applicable emission standard or in concentration units (ppbv).
 6.2 RAA Accuracy Calculation. Use equation 7-2 to calculate the accuracy for the RAA. The RA may be calculated in concentration units (ppmv) or in the units of the applicable emission standard.
-ER05AP24.026
 Where:
 RA = Accuracy of the CEMS (percent)
-MN avg = Average measured CEMS response during the audit in units of applicable standard or appropriate concentration.
-RM avg = Average reference method value in units of applicable standard or appropriate concentration.
+MNavg = Average measured CEMS response during the audit in units of applicable standard or appropriate concentration.
+RMavg = Average reference method value in units of applicable standard or appropriate concentration.
 6.3 CGA Accuracy Calculation. For each gas concentration, determine the average of the three CEMS responses and subtract the average response from the audit gas value. For extractive CEMS, calculate the ME at each gas level using equation 3A in section 12.3 of PS-19 of appendix B to this part.
 6.4 DSA Accuracy Calculation. DSA accuracy is calculated as a percent of span. To calculate the DSA accuracy for each upscale spike concentration, first calculate the DSE using equation A5 in appendix A of PS-19 in appendix B to this part. Then use equation 7-3 to calculate the average DSA accuracy for each upscale spike concentration. To calculate DSA accuracy at the zero level, use equation 3A in section 12.3 of PS-19 in appendix B to this part.
-ER05AP24.027
 7.0 Reporting Requirements
 At the reporting interval specified in the applicable regulation or permit, report for each CEMS the quarterly and annual accuracy audit results from section 6 and the daily assessment results from section 4. Unless otherwise specified in the applicable regulation or permit, include all data sheets, calculations, CEMS data records (i.e., charts, records of CEMS responses), reference gas certifications and reference method results necessary to confirm that the performance of the CEMS met the performance specifications.
 7.1 Unless otherwise specified in the applicable regulations or permit, report the daily assessments (CD and beam intensity) and accuracy audit information at the interval for emissions reporting required under the applicable regulations or permits.

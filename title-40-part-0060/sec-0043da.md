@@ -17,9 +17,7 @@
 (g) Compliance with the emission limitation and percent reduction requirements under this section are both determined on a 30-day rolling average basis except as provided under paragraph (c) of this section.
 (h) When different fuels are combusted simultaneously, the applicable standard is determined by proration using the following formula:
 (1) If emissions of SO2 to the atmosphere are greater than 260 ng/J (0.60 lb/MMBtu) heat input
-ER13JN07.008
 (2) If emissions of SO2 to the atmosphere are equal to or less than 260 ng/J (0.60 lb/MMBtu) heat input:
-ER13JN07.009
 Where: Es = Prorated SO2 emission limit (ng/J heat input); %Ps = Percentage of potential SO2 emission allowed; x = Percentage of total heat input derived from the combustion of liquid or gaseous fuels (excluding solid-derived fuels); and y = Percentage of total heat input derived from the combustion of solid fuel (including solid-derived fuels).
 (i) Except as provided in paragraphs (j) and (k) of this section, on and after the date on which the initial performance test is completed or required to be completed under § 60.8, whichever date comes first, no owner or operator of an affected facility for which construction, reconstruction, or modification commenced after February 28, 2005, but before May 4, 2011, shall cause to be discharged into the atmosphere from that affected facility, any gases that contain SO2 in excess of the applicable emissions limit specified in paragraphs (i)(1) through (3) of this section.
 (1) For an affected facility which commenced construction, any gases that contain SO2 in excess of either:

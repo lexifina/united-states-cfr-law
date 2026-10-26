@@ -10,7 +10,6 @@
 (3) Method 9 of appendix A of this part and the procedures in § 60.11 shall be used to determine opacity.
 (c) The owner or operator shall determine compliance with the SO2 standards in § 60.43Da as follows:
 (1) The percent of potential SO2 emissions (%Ps) to the atmosphere shall be computed using the following equation:
-ER13JN07.015
 Where: %Ps = Percent of potential SO2 emissions, percent; %Rf = Percent reduction from fuel pretreatment, percent; and %Rg = Percent reduction by SO2 control system, percent.
 (2) The procedures in Method 19 of appendix A of this part may be used to determine percent reduction (%Rf) of sulfur by such processes as fuel pretreatment (physical coal cleaning, hydrodesulfurization of fuel oil, etc.), coal pulverizers, and bottom and fly ash interactions. This determination is optional.
 (3) The procedures in Method 19 of appendix A of this part shall be used to determine the percent SO2 reduction (%Rg) of any SO2 control system. Alternatively, a combination of an "as fired" fuel monitor and emission rates measured after the control system, following the procedures in Method 19 of appendix A of this part, may be used if the percent reduction is calculated using the average emission rate from the SO2 control device and the average SO2 input rate from the "as fired" fuel analysis for 30 successive boiler operating days.
