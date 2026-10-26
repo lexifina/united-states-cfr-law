@@ -1,10 +1,11 @@
 # Appendix B to Part 1200—Highway Safety Program Cost Summary (HS-217)
-State _____
-Number _____
-Date _____
-Program area | Approved program costs | State/local funds | Federally funded programs | Previous balance | Increase/(Decrease) | Current Balance | Federal share to local
-Total NHTSA | | | | |
-Total FHWA | | | | |
+State __________
+Number __________
+Date __________
+Program area | Approved program costs | State/local funds | Federally funded programs | Federal share to local
+Previous balance | Increase/(Decrease) | Current Balance
+Total NHTSA | | | | | |
+Total FHWA | | | | | |
 Total NHTSA & FHWA | | | | | |
 State Official Authorized Signature:
 Name:
@@ -14,7 +15,7 @@ Federal Official Authorized Signature:
 NHTSA Name:
 Title:
 Date:
-Effective Date: This form is to be used to provide funding documentation for grant programs under Title 23, United States Code. A federal agency may not conduct or sponsor, and a person is not required to respond to, nor shall a person be subject to a penalty for failure to comply with a collection of information subject to the requirements of the Paperwork Reduction Act unless that collection of information displays a current valid OMB Control Number. The OMB Control Number for this information collection is _______. Public reporting for this collection of information is estimated to be approximately 30 minutes per response, including the time for reviewing instructions and completing the form. All responses to this collection of information are required to obtain or retain benefits. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden to: Information Collection Clearance Officer, National Highway Traffic Safety Administration, 1200 New Jersey Avenue SE., Washington DC 20590.
+Effective Date: This form is to be used to provide funding documentation for grant programs under Title 23, United States Code. A federal agency may not conduct or sponsor, and a person is not required to respond to, nor shall a person be subject to a penalty for failure to comply with a collection of information subject to the requirements of the Paperwork Reduction Act unless that collection of information displays a current valid OMB Control Number. The OMB Control Number for this information collection is ______________. Public reporting for this collection of information is estimated to be approximately 30 minutes per response, including the time for reviewing instructions and completing the form. All responses to this collection of information are required to obtain or retain benefits. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden to: Information Collection Clearance Officer, National Highway Traffic Safety Administration, 1200 New Jersey Avenue SE., Washington DC 20590.
 INSTRUCTIONS FOR PROGRAM COST SUMMARY
 State—The State submitting the HS Form-217
 Number—Each HS-217 will be in sequential order by fiscal year (e.g., 99-01, 99-02, etc.)
