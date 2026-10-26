@@ -1,12 +1,5 @@
 # Appendix A to Part 332—Model Privacy Form
 A. The Model Privacy Form
-ER01DE09.014
-ER01DE09.015
-ER01DE09.016
-ER01DE09.017
-ER01DE09.018
-ER01DE09.019
-ER01DE09.020
 B. General Instructions
 1. How the Model Privacy Form Is Used
 (a) The model form may be used, at the option of a financial institution, including a group of financial institutions that use a common privacy notice, to meet the content requirements of the privacy notice and opt-out notice set forth in §§ 332.6 and 332.7 of this part.
@@ -44,7 +37,7 @@ Insert the name of the financial institution providing the notice or a common id
 (b) General instructions for the "What?" box. (1) The bulleted list identifies the types of personal information that the institution collects and shares. All institutions must use the term "Social Security number" in the first bullet.
 (2) Institutions must use five (5) of the following terms to complete the bulleted list: income; account balances; payment history; transaction history; transaction or loss history; credit history; credit scores; assets; investment experience; credit-based insurance scores; insurance claim history; medical information; overdraft history; purchase history; account transactions; risk tolerance; medical-related debts; credit card or other debt; mortgage rates and payments; retirement assets; checking account information; employment information; wire transfer instructions.
 (c) General instructions for the disclosure table. The left column lists reasons for sharing or using personal information. Each reason correlates to a specific legal provision described in paragraph C.2(d) of this Instruction. In the middle column, each institution must provide a "Yes" or "No" response that accurately reflects its information sharing policies and practices with respect to the reason listed on the left. In the right column, each institution must provide in each box one of the following three (3) responses, as applicable, that reflects whether a consumer can limit such sharing: "Yes" if it is required to or voluntarily provides an opt-out; "No" if it does not provide an opt-out; or "We don't share" if it answers "No" in the middle column. Only the sixth row ("For our affiliates to market to you") may be omitted at the option of the institution. See paragraph C.2(d)(6) of this Instruction.
-(d) Specific disclosures and corresponding legal provisions. (1) For our everyday business purposes. This reason incorporates sharing information under §§ 332.14 and 332.15 and with service providers pursuant to § 332.13 of this part other than the purposes specified in paragraphs C.2(d)(2) or C.2(d)(3) of these Instructions.
+(d) Specific disclosures and corresponding legal provisions—(1) For our everyday business purposes. This reason incorporates sharing information under §§ 332.14 and 332.15 and with service providers pursuant to § 332.13 of this part other than the purposes specified in paragraphs C.2(d)(2) or C.2(d)(3) of these Instructions.
 (2) For our marketing purposes. This reason incorporates sharing information with service providers by an institution for its own marketing pursuant to § 332.13 of this part. An institution that shares for this reason may choose to provide an opt-out.
 (3) For joint marketing with other financial companies. This reason incorporates sharing information under joint marketing agreements between two or more financial institutions and with any service provider used in connection with such agreements pursuant to § 332.13 of this part. An institution that shares for this reason may choose to provide an opt-out.
 (4) For our affiliates' everyday business purposes—information about transactions and experiences. This reason incorporates sharing information specified in sections 603(d)(2)(A)(i) and (ii) of the FCRA. An institution that shares for this reason may choose to provide an opt-out.
