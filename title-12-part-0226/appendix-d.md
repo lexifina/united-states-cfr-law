@@ -10,6 +10,3 @@ B. If interest is payable on the entire commitment amount without regard to the 
 1. Estimated interest—Assume that the entire commitment amount is outstanding at the contract interest rate for the entire construction period.
 2. Estimated annual percentage rate—Assume a single payment loan that matures at the end of the construction period. The finance charge is the sum of the estimated interest and any prepaid finance charge. The amount financed for computation purposes is determined by subtracting any prepaid finance charge from one-half of the commitment amount.
 3. Repayment schedule—Interest payments shall be disclosed in making the repayment schedule disclosure under § 226.18(g).
-EC27SE91.000
-EC27SE91.001
-EC27SE91.002

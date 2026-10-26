@@ -52,7 +52,7 @@ G-1—Balance Computation Methods Model Clauses (Home-Equity Plans)
 (a) Adjusted balance method
 We figure [a portion of] the finance charge on your account by applying the periodic rate to the "adjusted balance" of your account. We get the "adjusted balance" by taking the balance you owed at the end of the previous billing cycle and subtracting [any unpaid finance charges and] any payments and credits received during the present billing cycle.
 (b) Previous balance method
-We figure [a portion of] the finance charge on your account by applying the periodic rate to the amount you owe at the beginning of each billing cycle [minus any unpaid finance charges]. We do not subtract any payments or credits received during the billing cycle. [The amount of payments and credits to your account this billing cycle was $ ___.]
+We figure [a portion of] the finance charge on your account by applying the periodic rate to the amount you owe at the beginning of each billing cycle [minus any unpaid finance charges]. We do not subtract any payments or credits received during the billing cycle. [The amount of payments and credits to your account this billing cycle was $ ______.]
 (c) Average daily balance method (excluding current transactions)
 We figure [a portion of] the finance charge on your account by applying the periodic rate to the "average daily balance" of your account (excluding current transactions). To get the "average daily balance" we take the beginning balance of your account each day and subtract any payments or credits [and any unpaid finance charges]. We do not add in any new [purchases/advances/loans]. This gives us the daily balance. Then, we add all the daily balances for the billing cycle together and divide the total by the number of days in the billing cycle. This gives us the "average daily balance."
 (d) Average daily balance method (including current transactions)
@@ -184,16 +184,6 @@ If all of the criteria above are met and you are still dissatisfied with the pur
 [Creditor Address]
 [[Creditor Web address]]
 While we investigate, the same rules apply to the disputed amount as discussed above. After we finish our investigation, we will tell you our decision. At that point, if we think you owe an amount and you do not pay we may report you as delinquent.
-EC27SE91.006
-EC27SE91.007
-EC27SE91.008
-EC27SE91.009
-EC27SE91.010
-ER22FE10.000
-ER29JN10.000
-ER29JN10.001
-ER22FE10.003
-ER29JN10.002
 G-11—Applications and Solicitations Made Available to the General Public Model Clauses
 (a) Disclosure of Required Credit Information
 The information about the costs of the card described in this [application]/[solicitation] is accurate as of (month/year). This information may have changed after that date. To find out what may have changed, [call us at (telephone number)][write to us at (address)].
@@ -203,55 +193,27 @@ G-12 [Reserved]
 G-13(A)—Change in Insurance Provider Model Form (Combined Notice)
 The credit card account you have with us is insured. This is to notify you that we plan to replace your current coverage with insurance coverage from a different insurer.
 If we obtain insurance for your account from a different insurer, you may cancel the insurance.
-[Your premium rate will increase to $ __ per __.]
+[Your premium rate will increase to $ ____ per ____.]
 [Your coverage will be affected by the following:
-[] The elimination of a type of coverage previously provided to you. [(explanation)] [See __ of the attached policy for details.]
-[] A lowering of the age at which your coverage will terminate or will become more restrictive. [(explanation)] [See __ of the attached policy or certificate for details.]
-[] A decrease in your maximum insurable loan balance, maximum periodic benefit payment, maximum number of payments, or any other decrease in the dollar amount of your coverage or benefits. [(explanation)] [See __ of the attached policy or certificate for details.]
-[] A restriction on the eligibility for benefits for you or others. [(explanation)] [See __ of the attached policy or certificate for details.]
-[] A restriction in the definition of "disability" or other key term of coverage. [(explanation)] [See __ of the attached policy or certificate for details.]
-[] The addition of exclusions or limitations that are broader or other than those under the current coverage. [(explanation)] [See __ of the attached policy or certificate for details.]
-[] An increase in the elimination (waiting) period or a change to nonretroactive coverage. [(explanation)] [See __ of the attached policy or certificate for details).]
+[] The elimination of a type of coverage previously provided to you. [(explanation)] [See ____ of the attached policy for details.]
+[] A lowering of the age at which your coverage will terminate or will become more restrictive. [(explanation)] [See ____ of the attached policy or certificate for details.]
+[] A decrease in your maximum insurable loan balance, maximum periodic benefit payment, maximum number of payments, or any other decrease in the dollar amount of your coverage or benefits. [(explanation)] [See ____ of the attached policy or certificate for details.]
+[] A restriction on the eligibility for benefits for you or others. [(explanation)] [See ____ of the attached policy or certificate for details.]
+[] A restriction in the definition of "disability" or other key term of coverage. [(explanation)] [See ____ of the attached policy or certificate for details.]
+[] The addition of exclusions or limitations that are broader or other than those under the current coverage. [(explanation)] [See ____ of the attached policy or certificate for details.]
+[] An increase in the elimination (waiting) period or a change to nonretroactive coverage. [(explanation)] [See ____ of the attached policy or certificate for details).]
 [The name and mailing address of the new insurer providing the coverage for your account is (name and address).]
 G-13(B)—Change in Insurance Provider Model Form
 We have changed the insurer providing the coverage for your account. The new insurer's name and address are (name and address). A copy of the new policy or certificate is attached.
 You may cancel the insurance for your account.
-EC27SE91.016
-EC27SE91.017
-EC27SE91.018
-EC27SE91.019
-EC27SE91.020
-EC27SE91.021
-EC27SE91.022
 G-16(A) Debt Suspension Model Clause
 Please enroll me in the optional [insert name of program], and bill my account the fee of [how cost is determined]. I understand that enrollment is not required to obtain credit. I also understand that depending on the event, the protection may only temporarily suspend my duty to make minimum payments, not reduce the balance I owe. I understand that my balance will actually grow during the suspension period as interest continues to accumulate.
 [To Enroll, Sign Here]/[To Enroll, Initial Here]. X
 G-16(B) Debt Suspension Sample
 Please enroll me in the optional [name of program], and bill my account the fee of $.83 per $100 of my month-end account balance. I understand that enrollment is not required to obtain credit. I also understand that depending on the event, the protection may only temporarily suspend my duty to make minimum payments, not reduce the balance I owe. I understand that my balance will actually grow during the suspension period as interest continues to accumulate.
 To Enroll, Initial Here. X
-ER22FE10.005
-ER29JN10.003
-ER29JN10.004
-ER22FE10.008
-ER22FE10.009
-ER29JN10.005
-ER22FE10.011
-ER22FE10.012
-ER22FE10.013
-ER29JN10.006
-ER22FE10.015
-ER29JN10.007
-ER29JN10.008
-ER22FE10.018
-ER29JN10.009
-ER29JN10.010
 G-18(H)—Deferred Interest Periodic Statement Clause
 [You must pay your promotional balance in full by [date] to avoid paying accrued interest charges.]
-ER22FE10.021
-ER29JN10.011
-ER29JN10.012
-ER22FE10.024
-ER22FE10.025
 G-24—Deferred Interest Offer Clauses
 (a) For Credit Card Accounts Under an Open-End (Not Home-Secured) Consumer Credit Plan
 [Interest will be charged to your account from the purchase date if the purchase balance is not paid in full within the/by [deferred interest period/date] or if you make a late payment.]
@@ -266,15 +228,15 @@ If you want over-the-limit coverage and to allow us to authorize transactions th
 —Call us at [telephone number];
 —Visit [Web site]; or
 —Check or initial the box below, and return the form to us at [address].
-_ I want over-the-limit coverage. I understand that if I go over my credit limit, my APRs may be increased and I will be charged a fee of up to $35. [I have the right to cancel this coverage at any time.]
-[_ I do not want over-the-limit coverage. I understand that transactions that exceed my credit limit will not be authorized.]
+__ I want over-the-limit coverage. I understand that if I go over my credit limit, my APRs may be increased and I will be charged a fee of up to $35. [I have the right to cancel this coverage at any time.]
+[__ I do not want over-the-limit coverage. I understand that transactions that exceed my credit limit will not be authorized.]
 Printed Name:
 Date:
 [Account Number]:
 G-25(B)—Revocation Notice for Periodic Statement Regarding Over-the-Credit Limit Transactions
 You currently have over-the-credit limit coverage on your account, which means that we pay transactions that cause you go to over your credit limit. If you do go over your credit limit, we will charge you a fee of up to $35. We may also increase your APRs. To remove over-the-credit-limit coverage from your account, call us at 1-800-xxxxxxx or visit [insert web site]. [You may also write us at: [insert address].]
 [You may also check or initial the box below and return this form to us at: [insert address].
-_ I want to cancel over-the-limit coverage for my account.
+__ I want to cancel over-the-limit coverage for my account.
 Printed Name:
 Date:
 [Account Number]:

@@ -23,17 +23,13 @@ j = The number of unit-periods until the jth advance.
 n = The number of unit-periods between consummation and repayment of the debt.
 Pn = Min (Baln, Valn). This is the maximum amount that the creditor can be repaid at the specified loan term.
 Baln = Loan balance at time of repayment, including all costs and fees incurred by the consumer (including any shared appreciation or shared equity amount) compounded to time n at the creditor's contract rate of interest.
-Valn = Val0 (1 + σ)y, where Val0 is the property value at consummation, σ is the assumed annual rate of appreciation for the dwelling, and y is the number of years in the assumed term. Valn must be reduced by the amount of any equity reserved for the consumer by agreement between the parties, or by 7 percent (or the amount or percentage specified in the credit agreement), if the amount required to be repaid is limited to the net proceeds of sale.
+Valn = Val0 (1 + σ) y, where Val0 is the property value at consummation, σ is the assumed annual rate of appreciation for the dwelling, and y is the number of years in the assumed term. Valn must be reduced by the amount of any equity reserved for the consumer by agreement between the parties, or by 7 percent (or the amount or percentage specified in the credit agreement), if the amount required to be repaid is limited to the net proceeds of sale.
 σ = The summation operator.
 Symbols used in the examples shown in this appendix are defined as follows:
-ER24MR95.015
-ER24MR95.007
 w = The number of unit-periods per year.
 I = wi × 100 = the nominal total annual loan cost rate.
 (7) General equation. The total annual loan cost rate for a reverse mortgage transaction must be determined by first solving the following formula, which sets forth the relationship between the advances to the consumer and the amount owed to the creditor under the terms of the reverse mortgage agreement for the loan cost rate per unit-period (the loan cost rate per unit-period is then multiplied by the number of unit-periods per year to obtain the total annual loan cost rate I; that is, I = wi):
-ER24MR95.008
 (8) Solution of general equation by iteration process. (i) The general equation in paragraph (b)(7) of this appendix, when applied to a simple transaction for a reverse mortgage loan of equal monthly advances of $350 each, and with a total amount owed of $14,313.08 at an assumed repayment period of two years, takes the special form:
-ER24MR95.009
 Using the iteration procedures found in steps 1 through 4 of (b)(9)(i) of appendix J of this part, the total annual loan cost rate, correct to two decimals, is 48.53%.
 (ii) In using these iteration procedures, it is expected that calculators or computers will be programmed to carry all available decimals throughout the calculation and that enough iterations will be performed to make virtually certain that the total annual loan cost rate obtained, when rounded to two decimals, is correct. Total annual loan cost rates in the examples below were obtained by using a 10-digit programmable calculator and the iteration procedure described in appendix J of this part.
 (9) Assumption for discretionary cash advances. If the consumer controls the timing of advances made after consummation (such as in a credit line arrangement), the creditor must use the general formula in paragraph (b)(7) of this appendix. The total annual loan cost rate shall be based on the assumption that 50 percent of the principal loan amount is advanced at closing, or in the case of an open-end transaction, at the time the consumer becomes obligated under the plan. Creditors shall assume the advances are made at the interest rate then in effect and that no further advances are made to, or repayments made by, the consumer during the term of the transaction or plan.
@@ -47,7 +43,6 @@ Estimated time of repayment (based on life expectancy of a consumer at age 78): 
 Appraised value of dwelling at consummation: $100,000
 Assumed annual dwelling appreciation rate: 4%
 P10 = Min (103,385.84, 137,662.72)
-ER29SE95.004
 i =.1317069438
 Total annual loan cost rate (100(.1317069438 × 1)) = 13.17%
 (2) Monthly advance beginning at consummation.
@@ -57,7 +52,6 @@ Contract interest rate: 9.00%
 Estimated time of repayment (based on life expectancy of a consumer at age 78): 10 years
 Appraised value of dwelling at consummation: $100,000
 Assumed annual dwelling appreciation rate: 8%
-ER24MR95.011
 Total annual loan cost rate (100(.009061140 × 12)) = 10.87%
 (3) Lump sum advance at consummation and monthly advances thereafter.
 Lump sum advance to consumer at consummation: $10,000
@@ -67,7 +61,6 @@ Contract rate of interest: 8.5%
 Estimated time of repayment (based on life expectancy of a consumer at age 75): 12 years
 Appraised value of dwelling at consummation: $100,000
 Assumed annual dwelling appreciation rate: 8%
-ER24MR95.012
 Total annual loan cost rate (100(.007708844 × 12)) = 9.25%
 (d) Reverse mortgage model form and sample form—(1) Model form.
 Total Annual Loan Cost Rate
@@ -88,10 +81,11 @@ Other Charges:
 Mortgage insurance:
 Shared Appreciation:
 Repayment Limits
-Assumed annual appreciation | Total annual loan cost rate | 2-year loan term | []-year loan term] | []-year loan term | []-year loan term
-0% | | []
-4% | | []
-8% | | []
+Assumed annual appreciation | Total annual loan cost rate
+2-year loan term | []-year loan term] | []-year loan term | []-year loan term
+0% | | [] | |
+4% | | [] | |
+8% | | [] | |
 The cost of any reverse mortgage loan depends on how long you keep the loan and how much your house appreciates in value. Generally, the longer you keep a reverse mortgage, the lower the total annual loan cost rate will be.
 This table shows the estimated cost of your reverse mortgage loan, expressed as an annual rate. It illustrates the cost for three [four] loan terms: 2 years, [half of life expectancy for someone your age,] that life expectancy, and 1.4 times that life expectancy. The table also shows the cost of the loan, assuming the value of your home appreciates at three different rates: 0%, 4% and 8%.
 The total annual loan cost rates in this table are based on the total charges associated with this loan. These charges typically include principal, interest, closing costs, mortgage insurance premiums, annuity costs, and servicing costs (but not costs when you sell the home).
@@ -117,7 +111,8 @@ Mortgage insurance: None
 Shared Appreciation: None
 Repayment Limits
 Net proceeds estimated at 93% of projected home sale
-Assumed annual appreciation | Total annual loan cost rate | 2-year loan term | [6-year loan term] | 12-year loan term | 17-year loan term
+Assumed annual appreciation | Total annual loan cost rate
+2-year loan term | [6-year loan term] | 12-year loan term | 17-year loan term
 0% | 39.00% | [14.94%] | 9.86% | 3.87%
 4% | 39.00% | [14.94%] | 11.03% | 10.14%
 8% | 39.00% | [14.94%] | 11.03% | 10.20%

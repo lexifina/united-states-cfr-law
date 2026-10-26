@@ -30,13 +30,3 @@ The term of the transaction begins on the date of its consummation, except that 
 (vii) In a single advance, single payment transaction in which the term is less than a year and is not equal to a whole number of months, the number of unit-periods in the term shall be 1, and the number of unit-periods per year shall be 365 divided by the number of days in the term.
 (6) Percentage Rate for a Fraction of a Unit-period
 The percentage rate of finance charge for a fraction (less than 1) of a unit-period shall be equal to such fraction multiplied by the percentage rate of finance charge per unit-period.
-EC27SE91.038
-EC27SE91.039
-EC27SE91.040
-EC27SE91.041
-EC27SE91.042
-EC27SE91.043
-EC27SE91.044
-EC27SE91.045
-EC27SE91.046
-EC27SE91.047
