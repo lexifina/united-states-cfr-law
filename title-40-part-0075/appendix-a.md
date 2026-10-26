@@ -21,9 +21,7 @@ In implementing sections 2.1.1 through 2.1.6 of this appendix, set the measureme
 Determine, as indicated in sections 2.1.1.1 through 2.1.1.5 of this appendix the span value(s) and range(s) for an SO2 pollutant concentration monitor so that all potential and expected concentrations can be accurately measured and recorded. Note that if a unit exclusively combusts fuels that are very low sulfur fuels (as defined in § 72.2 of this chapter), the SO2 monitor span requirements in § 75.11(e)(3)(iv) apply in lieu of the requirements of this section.
 2.1.1.1 Maximum Potential Concentration
 (a) Make an initial determination of the maximum potential concentration (MPC) of SO2 by using Equation A-1a or A-1b. Base the MPC calculation on the maximum percent sulfur and the minimum gross calorific value (GCV) for the highest-sulfur fuel to be burned. The maximum sulfur content and minimum GCV shall be determined from all available fuel sampling and analysis data for that fuel from the previous 12 months (minimum), excluding clearly anomalous fuel sampling values. If both the fuel sulfur content and the GCV are routinely determined from each fuel sample, the owner or operator may, as an alternative to using the highest individual percent sulfur and lowest individual GCV values in the MPC calculation, pair the sulfur content and GCV values from each sample analysis and calculate the ratio of percent sulfur to GCV (i.e., %S/GCV) for each pair of values. If this option is selected, the MPC shall be calculated using the highest %S/GCV ratio in Equation A-1a or A-1b. If the designated representative certifies that the highest-sulfur fuel is never burned alone in the unit during normal operation but is always blended or co-fired with other fuel(s), the MPC may be calculated using a best estimate of the highest sulfur content and lowest gross calorific value expected for the blend or fuel mixture and inserting these values into Equation A-1a or A-1b. Derive the best estimate of the highest percent sulfur and lowest GCV for a blend or fuel mixture from weighted-average values based upon the historical composition of the blend or mixture in the previous 12 (or more) months. If insufficient representative fuel sampling data are available to determine the maximum sulfur content and minimum GCV, use values from contract(s) for the fuel(s) that will be combusted by the unit in the MPC calculation.
-ER26MY99.000
 or
-ER26MY99.001
 Where,
 MPC = Maximum potential concentration (ppm, wet basis). (To convert to dry basis, divide the MPC by 0.9.)
 MEC = Maximum expected concentration (ppm, wet basis). (To convert to dry basis, divide the MEC by 0.9).
@@ -31,8 +29,8 @@ MEC = Maximum expected concentration (ppm, wet basis). (To convert to dry basis,
 %O2w = Minimum oxygen concentration, percent wet basis, under typical operating conditions.
 %CO2w = Maximum carbon dioxide concentration, percent wet basis, under typical operating conditions.
 GCV = Minimum gross calorific value of the fuel or blend to be combusted, based on historical fuel sampling and analysis data or, if applicable, based on the fuel contract specifications (Btu/lb). If based on fuel sampling and analysis, the GCV shall be determined according to the applicable method in paragraph (c) of section 2.1.1.1.
-11.32 × 106 = Oxygen-based conversion factor in Btu/lb (ppm)/%.
-66.93 × 106 = Carbon dioxide-based conversion factor in Btu/lb (ppm)/%.
+11.32 × 10 6 = Oxygen-based conversion factor in Btu/lb (ppm)/%.
+66.93 × 10 6 = Carbon dioxide-based conversion factor in Btu/lb (ppm)/%.
 Note: All percent values to be inserted in the equations of this section are to be expressed as a percentage, not a fractional value (e.g., 3, not.03).
 (b) Alternatively, if a certified SO2 CEMS is already installed, the owner or operator may make the initial MPC determination based upon quality-assured historical data recorded by the CEMS. For the purposes of this section, 2.1.1.1, a "certified" CEMS means a CEM system that has met the applicable certification requirements of either: This part, or part 60 of this chapter, or a State CEM program, or the source operating permit. If this option is chosen, the MPC shall be the maximum SO2 concentration observed during the previous 720 (or more) quality-assured monitor operating hours when combusting the highest-sulfur fuel (or highest-sulfur blend if fuels are always blended or co-fired) that is to be combusted in the unit or units monitored by the SO2 monitor. For units with SO2 emission controls, the certified SO2 monitor used to determine the MPC must be located at or before the control device inlet. Report the MPC and the method of determination in the monitoring plan required under § 75.53. Note that the initial MPC value is subject to periodic review under section 2.1.1.5 of this appendix. If an MPC value is found to be either inappropriately high or low, the MPC shall be adjusted in accordance with section 2.1.1.5, and corresponding span and range adjustments shall be made, if necessary.
 (c) When performing fuel sampling to determine the MPC, use ASTM Methods: ASTM D129-00, ASTM D240-00, ASTM D1552-01, ASTM D2622-98, ASTM D3176-89 (Reapproved 2002), ASTM D3177-02 (Reapproved 2007), ASTM D4239-02, ASTM D4294-98, ASTM D5865-01a, or ASTM D5865-10 (all incorporated by reference under § 75.6).
@@ -40,7 +38,6 @@ Note: All percent values to be inserted in the equations of this section are to 
 (a) Make an initial determination of the maximum expected concentration (MEC) of SO2 whenever: (a) SO2 emission controls are used; or (b) both high-sulfur and low-sulfur fuels (e.g., high-sulfur coal and low-sulfur coal or different grades of fuel oil) or high-sulfur and low-sulfur fuel blends are combusted as primary or backup fuels in a unit without SO2 emission controls. For units with SO2 emission controls, use Equation A-2 to make the initial MEC determination. When high-sulfur and low-sulfur fuels or blends are burned as primary or backup fuels in a unit without SO2 controls, use Equation A-1a or A-1b to calculate the initial MEC value for each fuel or blend, except for: (1) the highest-sulfur fuel or blend (for which the MPC was previously calculated in section 2.1.1.1 of this appendix); (2) fuels or blends that are very low sulfur fuels (as defined in § 72.2 of this chapter); or (3) fuels or blends that are used only for unit startup. Each initial MEC value shall be documented in the monitoring plan required under § 75.53. Note that each initial MEC value is subject to periodic review under section 2.1.1.5 of this appendix. If an MEC value is found to be either inappropriately high or low, the MEC shall be adjusted in accordance with section 2.1.1.5, and corresponding span and range adjustments shall be made, if necessary.
 (b) For each MEC determination, substitute into Equation A-1a or A-1b the highest sulfur content and minimum GCV value for that fuel or blend, based upon all available fuel sampling and analysis results from the previous 12 months (or more), or, if fuel sampling data are unavailable, based upon fuel contract(s).
 (c) Alternatively, if a certified SO2 CEMS is already installed, the owner or operator may make the initial MEC determination(s) based upon historical monitoring data. For the purposes of this section, 2.1.1.2, a "certified" CEMS means a CEM system that has met the applicable certification requirements of either: This part, or part 60 of this chapter, or a State CEM program, or the source operating permit. If this option is chosen for a unit with SO2 emission controls, the MEC shall be the maximum SO2 concentration measured downstream of the control device outlet by the CEMS over the previous 720 (or more) quality-assured monitor operating hours with the unit and the control device both operating normally. For units that burn high- and low-sulfur fuels or blends as primary and backup fuels and have no SO2 emission controls, the MEC for each fuel shall be the maximum SO2 concentration measured by the CEMS over the previous 720 (or more) quality-assured monitor operating hours in which that fuel or blend was the only fuel being burned in the unit.
-ER26MY99.002
 Where:
 MEC = Maximum expected concentration (ppm).
 MPC = Maximum potential concentration (ppm), as determined by Eq. A-1a or A-1b in section 2.1.1.1 of this appendix.
@@ -84,7 +81,6 @@ Roof-fired (vertically-fired) dry bottom, cell burners, arch-fired | 975
 Cyclone, wall-fired wet bottom, wet bottom turbo-fired | 1200
 Others | (1)
 1 As approved by the Administrator.
-ER12JN02.008
 2.1.2.2 Maximum Expected Concentration
 (a) Make an initial determination of the maximum expected concentration (MEC) of NOX during normal operation for affected units with add-on NOX controls of any kind (e.g., steam injection, water injection, SCR, or SNCR) and for turbines that use dry low-NOX technology. Determine a separate MEC value for each type of fuel (or blend) combusted in the unit, except for fuels that are only used for unit startup and/or flame stabilization. Calculate the MEC of NOX using Equation A-2, if applicable, inserting the maximum potential concentration, as determined using the procedures in section 2.1.2.1 of this appendix. Where Equation A-2 is not applicable, set the MEC either by: (1) measuring the NOX concentration using the testing procedures in this section; (2) using historical CEM data over the previous 720 (or more) quality-assured monitor operating hours; or (3) if the unit has add-on NOX controls or uses dry low NOX technology, and has a federally-enforceable permit limit for NOX concentration, the permit limit may be used as the MEC. Include in the monitoring plan for the unit each MEC value and the method by which the MEC was determined. Note that each initial MEC value is subject to periodic review under section 2.1.2.5 of this appendix. If an MEC value is found to be either inappropriately high or low, the MEC shall be adjusted in accordance with section 2.1.2.5, and corresponding span and range adjustments shall be made, if necessary.
 (b) If NOX emission testing is used to determine the MEC value(s), the MEC for each type of fuel (or blend) shall be based upon testing at minimum load, normal load, and maximum load. At least three tests of 20 minutes (minimum) duration, using at least three traverse points, shall be performed at each load, using Method 7E from appendix A to part 60 of this chapter (Note: Method 20 from appendix A to part 60 may be used for gas turbines instead of Method 7E). The test must be performed at a time when all NOX control devices and methods used to reduce NOX emissions (if applicable) are operating properly. The testing shall be conducted downstream of all NOX controls. The highest point NOX concentration (e.g., the highest one-minute average) recorded during any of the test runs shall be the MEC.
@@ -120,16 +116,14 @@ The MPC and MEC values for diluent monitors are subject to the same periodic rev
 2.1.4 Flow Monitors
 Select the full-scale range of the flow monitor so that it is consistent with section 2.1 of this appendix and can accurately measure all potential volumetric flow rates at the flow monitor installation site.
 2.1.4.1 Maximum Potential Velocity and Flow Rate
-For this purpose, determine the span value of the flow monitor using the following procedure. Calculate the maximum potential velocity (MPV) using Equation A-3a or A-3b or determine the MPV (wet basis) from velocity traverse testing using Reference Method 2 (or its allowable alternatives) in appendix A to part 60 of this chapter. If using test values, use the highest average velocity (determined from the Method 2 traverses) measured at or near the maximum unit operating load (or, for units that do not produce electrical or thermal output, at the normal process operating conditions corresponding to the maximum stack gas flow rate). Express the MPV in units of wet standard feet per minute (fpm). For the purpose of providing substitute data during periods of missing flow rate data in accordance with §§ 75.31 and 75.33 and as required elsewhere in this part, calculate the maximum potential stack gas flow rate (MPF) in units of standard cubic feet per hour (scfh), as the product of the MPV (in units of wet, standard fpm) times 60, times the cross-sectional area of the stack or duct (in ft2) at the flow monitor location.
-ER26MY99.003
+For this purpose, determine the span value of the flow monitor using the following procedure. Calculate the maximum potential velocity (MPV) using Equation A-3a or A-3b or determine the MPV (wet basis) from velocity traverse testing using Reference Method 2 (or its allowable alternatives) in appendix A to part 60 of this chapter. If using test values, use the highest average velocity (determined from the Method 2 traverses) measured at or near the maximum unit operating load (or, for units that do not produce electrical or thermal output, at the normal process operating conditions corresponding to the maximum stack gas flow rate). Express the MPV in units of wet standard feet per minute (fpm). For the purpose of providing substitute data during periods of missing flow rate data in accordance with §§ 75.31 and 75.33 and as required elsewhere in this part, calculate the maximum potential stack gas flow rate (MPF) in units of standard cubic feet per hour (scfh), as the product of the MPV (in units of wet, standard fpm) times 60, times the cross-sectional area of the stack or duct (in ft 2) at the flow monitor location.
 or
-ER26MY99.004
 Where:
 MPV = maximum potential velocity (fpm, standard wet basis).
 Fd = dry-basis F factor (dscf/mmBtu) from Table 1, Appendix F to this part.
 Fc = carbon-based F factor (scf CO2/mmBtu) from Table 1, Appendix F to this part.
 Hf = maximum heat input (mmBtu/minute) for all units, combined, exhausting to the stack or duct where the flow monitor is located.
-A = inside cross sectional area (ft2) of the flue at the flow monitor location.
+A = inside cross sectional area (ft 2) of the flue at the flow monitor location.
 %O2d = maximum oxygen concentration, percent dry basis, under normal operating conditions.
 %CO2d = minimum carbon dioxide concentration, percent dry basis, under normal operating conditions.
 %H2O = maximum percent flue gas moisture content under normal operating conditions.
@@ -352,7 +346,6 @@ The following methods are from appendix A to part 60 of this chapter, and are th
 7. Calculations
 7.1 Linearity Check
 Analyze the linearity data for pollutant concentration and CO2 or O2 monitors as follows. Calculate the percentage error in linearity based upon the reference value at the low-level, mid-level, and high-level concentrations specified in section 6.2 of this appendix. Perform this calculation once during the certification test. Use the following equation to calculate the error in linearity for each reference value.
-EC01SE92.114
 (Eq. A-4)
 where,
 LE = Percentage Linearity error, based upon the reference value.
@@ -361,7 +354,6 @@ A = Average of the monitoring system responses.
 7.2 Calibration Error
 7.2.1 Pollutant Concentration and Diluent Monitors
 For each reference value, calculate the percentage calibration error based upon instrument span for daily calibration error tests using the following equation:
-EC01SE92.115
 (Eq. A-5)
 where,
 CE = Calibration error as a percentage of the span of the instrument.
@@ -370,7 +362,6 @@ A = Actual monitoring system response to the calibration gas.
 S = Span of the instrument, as specified in section 2 of this appendix.
 7.2.2 Flow Monitor Calibration Error
 For each reference value, calculate the percentage calibration error based upon span using the following equation:
-ER17MY95.007
 where:
 CE = Calibration error as a percentage of span.
 R = Low or high level reference value specified in section 2.2.2.1 of this appendix.
@@ -380,14 +371,11 @@ S = Flow monitor calibration span value as determined under section 2.1.4.2 of t
 Analyze the relative accuracy test audit data from the reference method tests for SO2 and CO2 emissions concentration monitors, CO2 or O2 monitors used for heat input rate determination, NOX concentration monitoring systems used to determine NOX mass emissions under subpart H of this part, and flow monitors using the following procedures. Summarize the results on a data sheet. An example is shown in Figure 2. Calculate the mean of the monitor or monitoring system measurement values. Calculate the mean of the reference method values. Using data from the automated data acquisition and handling system, calculate the arithmetic differences between the reference method and monitor measurement data sets. Then calculate the arithmetic mean of the difference, the standard deviation, the confidence coefficient, and the monitor or monitoring system relative accuracy using the following procedures and equations.
 7.3.1 Arithmetic Mean
 Calculate the arithmetic mean of the differences of a data set as follows:
-ER28MR11.000
 7.3.2 Standard Deviation
 Calculate the standard deviation, Sd, of a data set as follows:
-EC01SE92.117
 (Eq. A-8)
 7.3.3 Confidence Coefficient
 Calculate the confidence coefficient (one-tailed), cc, of a data set as follows.
-EC01SE92.118
 (eq. A-9)
 where,
 t0.025 = t value (see table 7-1).
@@ -406,11 +394,10 @@ n-1 | t0.025 | n-1 | t0.025 | n-1 | t0.025
 11 | 2.201 | 22 | 2.074 | >60 | 1.960
 7.3.4 Relative Accuracy
 Calculate the relative accuracy of a data set using the following equation.
-EC01SE92.119
 (Eq. A-10)
 where,
 RM = Arithmetic mean of the reference method values.
-|d| = The absolute value of the mean difference between the reference method values and the corresponding continuous emission monitoring system values.
+|d | = The absolute value of the mean difference between the reference method values and the corresponding continuous emission monitoring system values.
 |cc| = The absolute value of the confidence coefficient.
 7.4 Relative Accuracy for NOX-diluent Continuous Emission Monitoring Systems
 Analyze the relative accuracy test audit data from the reference method tests for NOX-diluent continuous emissions monitoring system as follows.
@@ -433,15 +420,13 @@ Calculate the confidence coefficient, cc, of the data set using equation A-9.
 If, for the relative accuracy test audit data set being tested, the mean difference, d, is less than or equal to the absolute value of the confidence coefficient, | cc |, the monitor or monitoring system has passed the bias test. If the mean difference, d, is greater than the absolute value of the confidence coefficient, √ cc √, the monitor or monitoring system has failed to meet the bias test requirement.
 7.6.5 Bias Adjustment
 (a) If the monitor or monitoring system fails to meet the bias test requirement, adjust the value obtained from the monitor using the following equation:
-ER26MY99.005
 Where:
 CEMi Monitor = Data (measurement) provided by the monitor at time i.
 CEMi Adjusted = Data value, adjusted for bias, at time i.
 BAF = Bias adjustment factor, defined by:
-ER26MY99.006
 Where:
 BAF = Bias adjustment factor, calculated to the nearest thousandth.
-d= Arithmetic mean of the difference obtained during the failed bias test using Equation A-7.
+d = Arithmetic mean of the difference obtained during the failed bias test using Equation A-7.
 CEMavg = Mean of the data values provided by the monitor during the failed bias test.
 (b) For single-load RATAs of SO2 pollutant concentration monitors, NOX concentration monitoring systems, and NOX-diluent monitoring systems, and for the single-load flow RATAs required or allowed under section 6.5.2 of this appendix and sections 2.3.1.3(b) and 2.3.1.3(c) of appendix B to this part, the appropriate BAF is determined directly from the RATA results at normal load, using Equation A-12. Notwithstanding, when a NOX concentration CEMS or an SO2 CEMS or a NOX-diluent CEMS installed on a low-emitting affected unit (i.e., average SO2 or NOX concentration during the RATA ≤250 ppm or average NOX emission rate ≤0.200 lb/mmBtu) meets the normal 10.0 percent relative accuracy specification (as calculated using Equation A-10) or the alternate relative accuracy specification in section 3.3 of this appendix for low-emitters, but fails the bias test, the BAF may either be determined using Equation A-12, or a default BAF of 1.111 may be used.
 (c) For 2-load or 3-load flow RATAs, when only one load level (low, mid or high) has been designated as normal under section 6.5.2.1 of this appendix and the bias test is passed at the normal load level, apply a BAF of 1.000 to the subsequent flow rate data. If the bias test is failed at the normal load level, use Equation A-12 to calculate the normal load BAF and then perform an additional bias test at the second most frequently-used load level, as determined under section 6.5.2.1 of this appendix. If the bias test is passed at this second load level, apply the normal load BAF to the subsequent flow rate data. If the bias test is failed at this second load level, use Equation A-12 to calculate the BAF at the second load level and apply the higher of the two BAFs (either from the normal load level or from the second load level) to the subsequent flow rate data.
@@ -451,14 +436,12 @@ CEMavg = Mean of the data values provided by the monitor during the failed bias 
 (g) For units that do not produce electrical or thermal output, the provisions of paragraphs (a) through (f) of this section apply, except that the terms, "single-load", "2-load", "3-load", and "load level" shall be replaced, respectively, with the terms, "single-level", "2-level", "3-level", and "operating level".
 7.7 Reference Flow-to-Load Ratio or Gross Heat Rate
 (a) Except as provided in section 7.8 of this appendix, the owner or operator shall determine Rref, the reference value of the ratio of flow rate to unit load, each time that a passing flow RATA is performed at a load level designated as normal in section 6.5.2.1 of this appendix. The owner or operator shall report the current value of Rref in the electronic quarterly report required under § 75.64 and shall also report the completion date of the associated RATA. If two load levels have been designated as normal under section 6.5.2.1 of this appendix, the owner or operator shall determine a separate Rref value for each of the normal load levels. The reference flow-to-load ratio shall be calculated as follows:
-ER26MY99.007
 Where:
 Rref = Reference value of the flow-to-load ratio, from the most recent normal-load flow RATA, scfh/megawatts, scfh/1000 lb/hr of steam, or scfh/(mmBtu/hr of steam output).
 Qref = Average stack gas volumetric flow rate measured by the reference method during the normal-load RATA, scfh.
 Lavg = Average unit load during the normal-load flow RATA, megawatts, 1000 lb/hr of steam, or mmBtu/hr of thermal output.
 (b) In Equation A-13, for a common stack, determine Lavg by summing, for each RATA run, the operating loads of all units discharging through the common stack, and then taking the arithmetic average of the summed loads. For a unit that discharges its emissions through multiple stacks, either determine a single value of Qref for the unit or a separate value of Qref for each stack. In the former case, calculate Qref by summing, for each RATA run, the volumetric flow rates through the individual stacks and then taking the arithmetic average of the summed RATA run flow rates. In the latter case, calculate the value of Qref for each stack by taking the arithmetic average, for all RATA runs, of the flow rates through the stack. For a unit with a multiple stack discharge configuration consisting of a main stack and a bypass stack (e.g., a unit with a wet SO2 scrubber), determine Qref separately for each stack at the time of the normal load flow RATA. Round off the value of Rref to two decimal places.
 (c) In addition to determining Rref or as an alternative to determining Rref, a reference value of the gross heat rate (GHR) may be determined. In order to use this option, quality-assured diluent gas (CO2 or O2) must be available for each hour of the most recent normal-load flow RATA. The reference value of the GHR shall be determined as follows:
-ER26MY99.008
 Where:
 (GHR)ref = Reference value of the gross heat rate at the time of the most recent normal-load flow RATA, Btu/kwh, Btu/lb steam load, or Btu heat input/mmBtu steam output.
 (Heat Input)avg = Average hourly heat input during the normal-load flow RATA, as determined using the applicable equation in appendix F to this part, mmBtu/hr. For multiple stack configurations, if the reference GHR value is determined separately for each stack, use the hourly heat input measured at each stack. If the reference GHR is determined at the unit level, sum the hourly heat inputs measured at the individual stacks.
@@ -469,79 +452,78 @@ Lavg = Average unit load during the normal-load flow RATA, megawatts, 1000 lb/hr
 (b) Units that do not produce electrical output (in megawatts) or thermal output (in klb of steam per hour) are exempted from the flow-to-load ratio test requirements of section 7.7 of this appendix and section 2.2.5 of appendix B to this part.
 Figure 1 to Appendix A—Linearity Error Determination
 Day | Date and time | Reference value | Monitor value | Difference | Percent of reference value
-Low-level:
-Mid-level:
-High-level:
+Low-level: | | | | |
+Mid-level: | | | | |
+High-level: | | | | |
 Figure 2 to Appendix A—Relative Accuracy Determination (Pollutant Concentration Monitors)
-Run No. | Date and time | SO2 (ppm c) | RM a | M b | Diff | Date and time | CO2 (Pollutant) (ppm c) | RM a | M b | Diff
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-Arithmetic Mean Difference (Eq. A-7). Confidence Coefficient (Eq. A-9). Relative Accuracy (Eq. A-10).
-a RM means "reference method data."
-b M means "monitor data."
-c Make sure the RM and M data are on a consistent basis, either wet or dry.
+Run No. | Date and time | SO2 (ppm c) | Date and time | CO2 (Pollutant) (ppm c)
+RM a | M b | Diff | RM a | M b | Diff
+1 | | | | | | | |
+2 | | | | | | | |
+3 | | | | | | | |
+4 | | | | | | | |
+5 | | | | | | | |
+6 | | | | | | | |
+7 | | | | | | | |
+8 | | | | | | | |
+9 | | | | | | | |
+10 | | | | | | | |
+11 | | | | | | | |
+12 | | | | | | | |
+Arithmetic Mean Difference (Eq. A-7). Confidence Coefficient (Eq. A-9). Relative Accuracy (Eq. A-10). | | | |
+a RM means "reference method data." b M means "monitor data." c Make sure the RM and M data are on a consistent basis, either wet or dry.
 Figure 3 to Appendix A—Relative Accuracy Determination (Flow Monitors)
-Run No. | Date and time | Flow rate (Low) (scf/hr)* | RM | M | Diff | Date and time | Flow rate (Normal) (scf/hr)* | RM | M | Diff | Date and time | Flow rate (High) (scf/hr)* | RM | M | Diff
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-Arithmetic Mean Difference (Eq. A-7). Confidence Coefficient (Eq. A-9). Relative Accuracy (Eq. A-10).
+Run No. | Date and time | Flow rate (Low) (scf/hr)* | Date and time | Flow rate (Normal) (scf/hr)* | Date and time | Flow rate (High) (scf/hr)*
+RM | M | Diff | RM | M | Diff | RM | M | Diff
+1 | | | | | | | | | | | |
+2 | | | | | | | | | | | |
+3 | | | | | | | | | | | |
+4 | | | | | | | | | | | |
+5 | | | | | | | | | | | |
+6 | | | | | | | | | | | |
+7 | | | | | | | | | | | |
+8 | | | | | | | | | | | |
+9 | | | | | | | | | | | |
+10 | | | | | | | | | | | |
+11 | | | | | | | | | | | |
+12 | | | | | | | | | | | |
+Arithmetic Mean Difference (Eq. A-7). Confidence Coefficient (Eq. A-9). Relative Accuracy (Eq. A-10). | | | | | | |
 * Make sure the RM and M data are on a consistent basis, either wet or dry.
 Figure 4 to Appendix A—Relative Accuracy Determination (NOX/Diluent Combined System)
-Run No. | Date and time | Reference method data | NOX() a | O2/CO2% | NOX system (lb/mmBtu) | RM | M | Difference
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-Arithmetic Mean Difference (Eq. A-7). Confidence Coefficient (Eq. A-9). Relative Accuracy (Eq. A-10).
+Run No. | Date and time | Reference method data | NOX system (lb/mmBtu)
+NOX() a | O2/CO2% | RM | M | Difference
+1 | | | | | |
+2 | | | | | |
+3 | | | | | |
+4 | | | | | |
+5 | | | | | |
+6 | | | | | |
+7 | | | | | |
+8 | | | | | |
+9 | | | | | |
+10 | | | | | |
+11 | | | | | |
+12 | | | | | |
+Arithmetic Mean Difference (Eq. A-7). Confidence Coefficient (Eq. A-9). Relative Accuracy (Eq. A-10). | | |
 a Specify units: ppm, lb/dscf, mg/dscm.
 Figure 5—Cycle Time
 Date of test
 Component/system ID#:
 Analyzer type
 Serial Number
-High level gas concentration: ___ ppm/% (circle one)
-Zero level gas concentration: ___ ppm/% (circle one)
-Analyzer span setting: ___ ppm/% (circle one)
+High level gas concentration: ______ ppm/% (circle one)
+Zero level gas concentration: ______ ppm/% (circle one)
+Analyzer span setting: ______ ppm/% (circle one)
 Upscale:
-Stable starting monitor value: ___ ppm/% (circle one)
-Stable ending monitor reading: ___ ppm/% (circle one)
-Elapsed time: ___ seconds
+Stable starting monitor value: ______ ppm/% (circle one)
+Stable ending monitor reading: ______ ppm/% (circle one)
+Elapsed time: ______ seconds
 Downscale:
-Stable starting monitor value: ___ ppm/% (circle one)
-Stable ending monitor value: ___ ppm/% (circle one)
-Elapsed time: ___ seconds
-Component cycle time= ___ seconds
-System cycle time= ___ seconds
-ER24JA08.000
-ER24JA08.001
+Stable starting monitor value: ______ ppm/% (circle one)
+Stable ending monitor value: ______ ppm/% (circle one)
+Elapsed time: ______ seconds
+Component cycle time= ______ seconds
+System cycle time= ______ seconds
 A. To determine the upscale cycle time (Figure 6a), measure the flue gas emissions until the response stabilizes. Record the stabilized value (see section 6.4 of this appendix for the stability criteria).
 B. Inject a high-level calibration gas into the port leading to the calibration cell or thimble (Point B). Allow the analyzer to stabilize. Record the stabilized value.
 C. Determine the step change. The step change is equal to the difference between the final stable calibration gas value (Point D) and the stabilized stack emissions value (Point A).

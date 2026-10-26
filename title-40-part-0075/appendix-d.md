@@ -33,7 +33,6 @@ For the purposes of initial certification, each fuel flowmeter used to meet the 
 (2) Normal minimum unit operating load,
 (3) A load point approximately equally spaced between the full and minimum unit operating loads, and
 (b) Calculate the flowmeter accuracy at each of the three flow levels using the following equation:
-ER26MY99.012
 Where:
 ACC = Flowmeter accuracy at a particular load level, as a percentage of the upper range value.
 R = Average of the three flow measurements of the reference flowmeter.
@@ -43,27 +42,25 @@ URV = Upper range value of fuel flowmeter being tested (i.e. maximum measurable 
 2.1.5.3 If the flowmeter accuracy exceeds the specification in section 2.1.5 of this appendix, the flowmeter does not qualify for use for this appendix. Either recalibrate the flowmeter until the flowmeter accuracy is within the performance specification, or replace the flowmeter with another one that is demonstrated to meet the performance specification. Substitute for fuel flow rate using the missing data procedures in section 2.4.2 of this appendix until quality-assured fuel flow data become available.
 2.1.5.4 For purposes of initial certification, when a flowmeter is tested against a reference fuel flow rate (i.e., fuel flow rate from another fuel flowmeter under section 2.1.5.2 of this appendix or flow rate from a procedure performed according to a standard incorporated by reference under section 2.1.5.1 of this appendix), report the results of flowmeter accuracy tests in a manner consistent with Table D-1.
 Table D-1—Table of Flowmeter Accuracy Results
-Test number:____ Test completion date 1:__________ Test completion time 1:______
-Reinstallation date 2 (for testing under 2.1.5.1 only):__________ Reinstallation time 2:______
+Test number:________ Test completion date 1:____________________ Test completion time 1:____________
+Reinstallation date 2 (for testing under 2.1.5.1 only):____________________ Reinstallation time 2:____________
 Unit or pipe ID: Component/System ID:
 Flowmeter serial number: Upper range value:
 Units of measure for flowmeter and reference flow readings:
-Measurement level (percent of URV) | Run No. | Time of run (HHMM) | Candidate flowmeter reading | Reference flow reading | Percentaccuracy (percent of URV)
+Measurement level (percent of URV) | Run No. | Time of run (HHMM) | Candidate flowmeter reading | Reference flow reading | Percent accuracy (percent of URV)
 Low (Minimum) level | 1 | | | |
-__ percent 3 of URV | 2 | | | |
+____ percent 3 of URV | 2 | | | |
 | 3 | | | |
 | Average | | | |
 Mid-level | 1 | | | |
-__ percent 3 of URV | 2 | | | |
+____ percent 3 of URV | 2 | | | |
 | 3 | | | |
 | Average | | | |
 High (Maximum) level | 1 | | | |
-__ percent 3 of URV | 2 | | | |
+____ percent 3 of URV | 2 | | | |
 | 3 | | | |
 | Average | | | |
-1 Report the date, hour, and minute that all test runs were completed.
-2 For laboratory tests not performed inline, report the date and hour that the fuel flowmeter was reinstalled following the test.
-3 It is required to test at least at three different levels: (1) normal full unit operating load, (2) normal minimum unit operating load, and (3) a load point approximately equally spaced between the full and minimum unit operating loads.
+1 Report the date, hour, and minute that all test runs were completed. 2 For laboratory tests not performed inline, report the date and hour that the fuel flowmeter was reinstalled following the test. 3 It is required to test at least at three different levels: (1) normal full unit operating load, (2) normal minimum unit operating load, and (3) a load point approximately equally spaced between the full and minimum unit operating loads.
 2.1.6 Quality Assurance
 (a) Test the accuracy of each fuel flowmeter prior to use under this part and at least once every four fuel flowmeter QA operating quarters, as defined in § 72.2 of this chapter, thereafter. Notwithstanding these requirements, no more than 20 successive calendar quarters shall elapse after the quarter in which a fuel flowmeter was last tested for accuracy without a subsequent flowmeter accuracy test having been conducted. Test the flowmeter accuracy more frequently if required by manufacturer specifications.
 (b) Except for orifice-, nozzle-, and venturi-type flowmeters, perform the required flowmeter accuracy testing using the procedures in either section 2.1.5.1 or section 2.1.5.2 of this appendix. Each fuel flowmeter must meet the accuracy specification in section 2.1.5 of this appendix.
@@ -74,7 +71,6 @@ __ percent 3 of URV | 2 | | | |
 2.1.6.1 Transmitter or Transducer Accuracy Test for Orifice-, Nozzle-, and Venturi-Type Flowmeters
 (a) Calibrate the differential pressure transmitter or transducer, static pressure transmitter or transducer, and temperature transmitter or transducer, as applicable, using equipment that has a current certificate of traceability to NIST standards. Check the calibration of each transmitter or transducer by comparing its readings to that of the NIST traceable equipment at least once at each of the following levels: the zero-level and at least two other upscale levels (e.g., "mid" and "high"), such that the full range of transmitter or transducer readings corresponding to normal unit operation is represented. For temperature transmitters, the zero and upscale levels may correspond to fixed reference points, such as the freezing point or boiling point of water.
 (b) Calculate the accuracy of each transmitter or transducer at each level tested, using the following equation:
-ER26MY99.013
 Where:
 ACC = Accuracy of the transmitter or transducer as a percentage of full-scale.
 R = Reading of the NIST traceable reference value (in milliamperes, inches of water, psi, or degrees).
@@ -84,29 +80,27 @@ FS = Full-scale range of the transmitter or transducer being tested (in milliamp
 2.1.6.2 Recordkeeping for Transmitter or Transducer Accuracy Results
 (a) Record the accuracy of the orifice, nozzle, or venturi meter or its individual transmitters or transducers and keep this information in a file at the site or other location suitable for inspection.
 Table D-2—Table of Flowmeter Transmitter or Transducer Accuracy Results
-Test number:____ Test completion date: __________ Unit or pipe ID: ______
+Test number:________ Test completion date: ____________________ Unit or pipe ID: ____________
 Flowmeter serial number: Component/System ID:
 Full-scale value: Units of measure: 3
 Transducer/Transmitter Type (check one):
-__ Differential Pressure
-__ Static Pressure
-__ Temperature
+____ Differential Pressure
+____ Static Pressure
+____ Temperature
 Measurement level (percent of full-scale) | Run number (if multiple runs) 2 | Run time (HHMM) | Transmitter/transducer input (pre-calibration) | Expected transmitter/transducer output (reference) | Actual transmitter/transducer output 3 | Percent accuracy (percent of full-scale)
-Low (Minimum) level
-__ percent 1 of full-scale |
-Mid-level
-__ percent1 of full-scale |
-(If tested at more than 3 levels)
-2nd Mid-level
-__ percent 1 of full-scale |
-(If tested at more than 3 levels)
-3rd Mid-level
-__ percent 1 of full-scale |
-High (Maximum) level
-__ percent 1 of full-scale |
-1 At a minimum, it is required to test at zero-level and at least two other levels across the range of the transmitter or transducer readings corresponding to normal unit operation.
-2 It is required to test at least once at each level.
-3 Use the same units of measure for all readings (e.g., use degrees (°), inches of water (in H2O), pounds per square inch (psi), or milliamperes (ma) for both transmitter or transducer readings and reference readings).
+Low (Minimum) level | | | | | |
+____ percent 1 of full-scale | | | | | |
+Mid-level | | | | | |
+____ percent 1 of full-scale | | | | | |
+(If tested at more than 3 levels) | | | | | |
+2nd Mid-level | | | | | |
+____ percent 1 of full-scale | | | | | |
+(If tested at more than 3 levels) | | | | | |
+3rd Mid-level | | | | | |
+____ percent 1 of full-scale | | | | | |
+High (Maximum) level | | | | | |
+____ percent 1 of full-scale | | | | | |
+1 At a minimum, it is required to test at zero-level and at least two other levels across the range of the transmitter or transducer readings corresponding to normal unit operation. 2 It is required to test at least once at each level. 3 Use the same units of measure for all readings (e.g., use degrees (°), inches of water (in H2O), pounds per square inch (psi), or milliamperes (ma) for both transmitter or transducer readings and reference readings).
 (b)-(c) [Reserved]
 2.1.6.3 Failure of Transducer(s) or Transmitter(s)
 If, during a transmitter or transducer accuracy test conducted according to section 2.1.6.1 of this appendix, the flowmeter accuracy specification of 2.0 percent is not met at any of the levels tested, repair or replace transmitter(s) or transducer(s) as necessary until the flowmeter accuracy specification has been achieved at all levels. (Note that only transmitters or transducers which are repaired or replaced need to be re-tested; however, the re-testing is required at all three measurement levels, to ensure that the flowmeter accuracy specification is met at each level). The fuel flowmeter is "out-of-control" and data from the flowmeter are considered invalid, beginning with the date and hour of the failed accuracy test and continuing until the date and hour of completion of a successful transmitter or transducer accuracy test at all levels. In addition, if, during normal operation of the fuel flowmeter, one or more transmitters or transducers malfunction, data from the fuel flowmeter shall be considered invalid from the hour of the transmitter or transducer failure until the hour of completion of a successful 3-level transmitter or transducer accuracy test. During fuel flowmeter out-of-control periods, provide data from another fuel flowmeter that meets the requirements of § 75.20(d) and section 2.1.5 of this appendix, or substitute for fuel flow rate using the missing data procedures in section 2.4.2 of this appendix. Record and report test data and results, consistent with sections 2.1.6.1 and 2.1.6.2 of this appendix and § 75.59.
@@ -124,14 +118,12 @@ If, during a transmitter or transducer accuracy test conducted according to sect
 The procedures of this section may be used as an optional supplement to the quality assurance procedures in section 2.1.5.1, 2.1.5.2, 2.1.6.1, or 2.1.6.4 of this appendix when conducting periodic quality assurance testing of a certified fuel flowmeter. Note, however, that these procedures may not be used unless the 168-hour baseline data requirement of section 2.1.7.1 of this appendix has been met. If, following a flowmeter accuracy test or (if applicable) a flowmeter transmitter test and primary element inspection, the procedures of this section are performed during each subsequent fuel flowmeter QA operating quarter, as defined in § 72.2 of this chapter (excluding the quarter(s) in which the baseline data are collected), then these procedures may be used to meet the requirement for periodic quality assurance for a period of up to 20 calendar quarters from the previous periodic quality assurance procedure(s) performed according to sections 2.1.5.1, 2.1.5.2, or 2.1.6.1 through 2.1.6.4 of this appendix. The procedures of this section are not required for any quarter in which a flowmeter accuracy test or (if applicable) a transmitter accuracy test and a primary element inspection, are conducted. Notwithstanding the requirements of § 75.57(a), when using the procedures of this section, keep records of the test data and results from the previous flowmeter accuracy test under section 2.1.5.1 or 2.1.5.2 of this appendix, records of the test data and results from the previous transmitter or transducer accuracy test under section 2.1.6.1 of this appendix for orifice-, nozzle-, and venturi-type fuel flowmeters, and records of the previous visual inspection of the primary element required under section 2.1.6.4 of this appendix for orifice-, nozzle-, and venturi-type fuel flowmeters until the next flowmeter accuracy test, transmitter accuracy test, or visual inspection is performed, even if the previous flowmeter accuracy test, transmitter accuracy test, or visual inspection was performed more than three years previously.
 2.1.7.1 Baseline Flow Rate-to-Load Ratio or Heat Input-to-Load Ratio
 (a) Determine Rbase, the baseline value of the ratio of fuel flow rate to unit load, following each successful periodic quality assurance procedure performed according to sections 2.1.5.1, 2.1.5.2, or 2.1.6.1 and 2.1.6.4 of this appendix. Establish a baseline period of data consisting, at a minimum, of 168 hours of quality-assured fuel flowmeter data. Baseline data collection shall begin with the first hour of fuel flowmeter operation following completion of the most recent quality assurance procedure(s), during which only the fuel measured by the fuel flowmeter is combusted (e.g., only gas, only residual oil, or only diesel fuel is combusted by the unit). During the baseline data collection period, the owner or operator may exclude as non-representative any hour in which the unit is "ramping" up or down, (i.e., the load during the hour differs by more than 15.0 percent from the load in the previous or subsequent hour) and may exclude any hour in which the unit load is in the lower 25.0 percent of the range of operation, as defined in section 6.5.2.1 of appendix A to this part (unless operation in this lower 25.0 percent of the range is considered normal for the unit). The baseline data must be obtained no later than the end of the fourth calendar quarter following the calendar quarter of the most recent quality assurance procedure for that fuel flowmeter. For orifice-, nozzle-, and venturi-type fuel flowmeters, if the fuel flow-to-load ratio is to be used as a supplement both to the transmitter accuracy test under section 2.1.6.1 of this appendix and to primary element inspections under section 2.1.6.4 of this appendix, then the baseline data must be obtained after both procedures are completed and no later than the end of the fourth calendar quarter following the calendar quarter in which both procedures were completed. From these 168 (or more) hours of baseline data, calculate the baseline fuel flow rate-to-load ratio as follows:
-ER26MY99.014
 where:
 Rbase = Value of the fuel flow rate-to-load ratio during the baseline period; 100 scfh/MWe, 100 scfh/klb per hour steam load, or 100 scfh/mmBtu per hour thermal output for gas-firing; (lb/hr)/MWe, (lb/hr)/klb per hour steam load, or (lb/hr)/mmBtu per hour thermal output for oil-firing.
 Qbase = Arithmetic average fuel flow rate measured by the fuel flowmeter during the baseline period, 100 scfh for gas-firing and lb/hr for oil-firing.
 Lavg = Arithmetic average unit load during the baseline period, megawatts, 1000 lb/hr of steam, or mmBtu/hr thermal output.
 (b) In Equation D-1b, for a fuel flowmeter installed on a common pipe header, Lavg is the sum of the operating loads of all units that received fuel through the common pipe header during the baseline period, divided by the total number of hours of fuel flow rate data collected during the baseline period. For a unit that receives the same type of fuel through multiple pipes, Qbase is the sum of the fuel flow rates during the baseline period from all of the pipes, divided by the total number of hours of fuel flow rate data collected during the baseline period. Round off the value of Rbase to the nearest tenth.
 (c) Alternatively, a baseline value of the gross heat rate (GHR) may be determined in lieu of Rbase. The baseline value of the GHR, GHRbase, shall be determined as follows:
-ER26MY99.015
 Where:
 (GHR)base = Baseline value of the gross heat rate during the baseline period, Btu/kwh, Btu/lb steam load, or 1000mmBtu heat input/mmBtu thermal output.
 (Heat Input)avg = Average (mean) hourly heat input rate recorded by the fuel flowmeter during the baseline period, as determined using the average fuel flow rate and the fuel GCV in the applicable equation in appendix F to this part, mmBtu/hr.
@@ -140,14 +132,12 @@ Lavg = Average (mean) unit load during the baseline period, megawatts, 1000 lb/h
 (e) If a unit co-fires different fuels (e.g., oil and natural gas) as its normal mode of operation, the gross heat rate option in paragraph (c) of this section may be used to determine a value of (GHR)base, as follows. Derive the baseline data during co-fired hours. Then, use Equation D-1c to calculate (GHR)base, making sure that each hourly unit heat input rate used to calculate (Heat Input)avg includes the contribution of each type of fuel.
 2.1.7.2 Data Preparation and Analysis
 (a) Evaluate the fuel flow rate-to-load ratio (or GHR) for each fuel flowmeter QA operating quarter, as defined in § 72.2 of this chapter. At the end of each fuel flowmeter QA operating quarter, use Equation D-1d in this appendix to calculate Rh, the hourly fuel flow-to-load ratio, for every quality-assured hourly average fuel flow rate obtained with a certified fuel flowmeter. Alternatively, the owner or operator may exclude non-representative hours from the data analysis, as described in section 2.1.7.3 of this appendix, prior to calculating the values of Rh.
-ER26MY99.016
 where:
 Rh = Hourly value of the fuel flow rate-to-load ratio; 100 scfh/MWe, (lb/hr)/MWe, 100 scfh/1000 lb/hr of steam load, (lb/hr)/1000 lb/hr of steam load, 100 scfh/(mmBtu/hr of steam load), or (lb/hr)/(mmBtu/hr thermal output).
 Qh = Hourly fuel flow rate, as measured by the fuel flowmeter, 100 scfh for gas-firing or lb/hr for oil-firing.
 Lh = Hourly unit load, megawatts, 1000 lb/hr of steam, or mmBtu/hr thermal output.
 (b) For a fuel flowmeter installed on a common pipe header, Lh shall be the sum of the hourly operating loads of all units that receive fuel through the common pipe header. For a unit that receives the same type of fuel through multiple pipes, Qh will be the sum of the fuel flow rates from all of the pipes. Round off each value of Rh to the nearest tenth.
 (c) Alternatively, calculate the hourly gross heat rates (GHR) in lieu of the hourly flow-to-load ratios. If this option is selected, calculate each hourly GHR value as follows:
-ER26MY99.017
 Where:
 (GHR)h = Hourly value of the gross heat rate, Btu/kwh, Btu/lb steam load, or mmBtu heat input/mmBtu thermal output.
 (Heat Input)h = Hourly heat input rate, as determined using the hourly fuel flow rate and the fuel GCV in the applicable equation in appendix F to this part, mmBtu/hr.
@@ -156,14 +146,12 @@ Lh = Hourly unit load, megawatts, 1000 lb/hr of steam, or mmBtu/hr thermal outpu
 (1) Perform a separate data analysis for each fuel flowmeter system following the procedures of this section. Base each analysis on a minimum of 168 hours of data. If, for a particular fuel flowmeter system, fewer than 168 hourly flow-to-load ratios (or GHR values) are available, or, if the baseline data collection period is still in progress at the end of the quarter and fewer than four calendar quarters have elapsed since the quarter in which the last successful fuel flowmeter system accuracy test was performed, a flow-to-load (or GHR) evaluation is not required for that flowmeter system for that calendar quarter. A one-quarter extension of the deadline for the next fuel flowmeter system accuracy test may be claimed for a quarter in which there is insufficient hourly data available to analyze or a quarter that ends with the baseline data collection period still in progress.
 (2) For a unit that normally co-fires different types of fuel (e.g., oil and natural gas), include the contribution of each type of fuel in the value of (Heat Input)h, when using Equation D-1e.
 (e) For each hourly flow-to-load ratio or GHR value, calculate the percentage difference (percent Dh) from the baseline fuel flow-to-load ratio using Equation D-1f.
-ER26MY99.018
 Where:
 %Dh = Absolute value of the percentage difference between the hourly fuel flow rate-to-load ratio and the baseline value of the fuel flow rate-to-load ratio (or hourly and baseline GHR).
 Rh = The hourly fuel flow rate-to-load ratio (or GHR).
 Rbase = The value of the fuel flow rate-to-load ratio (or GHR) from the baseline period, determined in accordance with section 2.1.7.1 of this appendix.
 (f) Consistently use Rbase and Rh in Equation D-1f if the fuel flow-to-load ratio is being evaluated, and consistently use (GHR)base and (GHR)h in Equation D-1f if the gross heat rate is being evaluated.
 (g) Next, determine the arithmetic average of all of the hourly percent difference (percent Dh) values using Equation D-1g, as follows:
-ER26MY99.019
 Where:
 Ef = Quarterly average percentage difference between hourly flow rate-to-load ratios and the baseline value of the fuel flow rate-to-load ratio (or hourly and baseline GHR).
 %Dh = Percentage difference between the hourly fuel flow rate-to-load ratio and the baseline value of the fuel flow rate-to-load ratio (or hourly and baseline GHR).
@@ -182,10 +170,8 @@ q = Number of hours used in fuel flow-to-load (or GHR) evaluation.
 2.1.7.5 Test Results
 Report the results of each quarterly flow rate-to-load (or GHR) evaluation, as determined from Equation D-1g, in the electronic quarterly report required under § 75.64. Table D-3 is provided as a reference on the type of information to be recorded under § 75.59 and reported under § 75.64.
 Table D-3—Baseline Information and Test Results For Fuel Flow-to-Load Test
-ER12JN02.012
 2.2 Oil Sampling and Analysis
 Perform sampling and analysis of oil to determine the following fuel properties for each type of oil combusted by a unit: percentage of sulfur by weight in the oil; gross calorific value (GCV) of the oil; and, if necessary, the density of the oil. Use the sulfur content, density, and gross calorific value, determined under the provisions of this section, to calculate SO2 mass emission rate and heat input rate for each fuel using the applicable procedures of section 3 of this appendix. The designated representative may petition for reduced GCV and or density sampling under § 75.66 if the fuel combusted has a consistent and relatively non-variable GCV or density.
-ER12JN02.013
 2.2.1 When combusting oil, use one of the following methods to sample the oil (see Table D-4): sample from the storage tank for the unit after each addition of oil to the storage tank, in accordance with section 2.2.4.2 of this appendix; or sample from the fuel lot in the shipment tank or container upon receipt of each oil delivery or from the fuel lot in the oil supplier's storage container, in accordance with section 2.2.4.3 of this appendix; or use the flow proportional sampling methodology in section 2.2.3 of this appendix; or use the daily manual sampling methodology in section 2.2.4.1 of this appendix. For purposes of this appendix, a fuel lot of oil is the mass or volume of product oil from one source (supplier or pretreatment facility), intended as one shipment or delivery (e.g., ship load, barge load, group of trucks, discrete purchase of diesel fuel through pipeline, etc.). A storage tank is a container at a plant holding oil that is actually combusted by the unit, such that no blending of any other fuel with the fuel in the storage tank occurs from the time that the fuel lot is transferred to the storage tank to the time when the fuel is combusted in the unit.
 2.2.2 [Reserved]
 2.2.3 Flow Proportional Sampling
@@ -213,9 +199,6 @@ Take a manual sample after each addition of oil to the storage tank. Do not blen
 2.3 SO2 Emissions From Combustion of Gaseous Fuels
 (a) Account for the hourly SO2 mass emissions due to combustion of gaseous fuels for each hour when gaseous fuels are combusted by the unit using the procedures in this section.
 (b) The procedures in sections 2.3.1 and 2.3.2 of this appendix, respectively, may be used to determine SO2 mass emissions from combustion of pipeline natural gas and natural gas, as defined in § 72.2 of this chapter. The procedures in section 2.3.3 of this appendix may be used to account for SO2 mass emissions from any gaseous fuel combusted by a unit. For each type of gaseous fuel, the appropriate sampling frequency and the sulfur content and GCV values used for calculations of SO2 mass emission rates are summarized in the following Table D-5.
-ER12JN02.014
-ER12JN02.015
-ER12JN02.016
 2.3.1 Pipeline Natural Gas Combustion
 The owner or operator may determine the SO2 mass emissions from the combustion of a fuel that meets the definition of pipeline natural gas, in § 72.2 of this chapter, using the procedures of this section.
 2.3.1.1 SO2 Emission Rate
@@ -242,14 +225,13 @@ The owner or operator may determine the SO2 mass emissions from the combustion o
 2.3.2.1 SO2 Emission Rate
 The owner or operator may account for SO2 emissions either by using a default SO2 emission rate, as determined under section 2.3.2.1.1 of this appendix, or by daily sampling of the gas sulfur content using the procedures of section 2.3.3 of this appendix. For each affected unit using a default SO2 emission rate, the owner or operator must provide documentation that the fuel combusted is actually natural gas according to the procedures in section 2.3.2.4 of this appendix.
 2.3.2.1.1 In lieu of daily sampling of the sulfur content of the natural gas, the owner or operator may either use the total sulfur content specified in a contract or tariff sheet as the SO2 default emission rate or may calculate the default SO2 emission rate based on fuel sampling results, using Equation D-1h. In Equation D-1h, the total sulfur content and GCV values shall be determined in accordance with Table D-5 of this appendix. Round off the calculated SO2 default emission rate to the nearest 0.0001 lb/mmBtu.
-ER12JN02.017
 Where:
 ER = Default SO2 emission rate for natural gas combustion, lb/mmBtu.
 Stotal = Total sulfur content of the natural gas, gr/100scf.
 GCV = Gross calorific value of the natural gas, Btu/100scf.
 7000 = Conversion of grains/100scf to lb/100scf.
 2.0 = Ratio of lb SO2/lb S.
-106 = Conversion factor (Btu/mmBtu).
+10 6 = Conversion factor (Btu/mmBtu).
 2.3.2.1.2 [Reserved]
 2.3.2.2 Hourly Heat Input Rate
 Calculate hourly heat input rate for natural gas combustion, in mmBtu/hr, using the procedures in section 3.4.1 of this appendix. Use the measured fuel flow rate from section 2.1 of this appendix and the gross calorific value from section 2.3.4.2 of this appendix in the calculations.
@@ -320,7 +302,6 @@ For reporting purposes, apply the results of the required periodic fuel samples 
 When data from the procedures of this part are not available, provide substitute data using the following procedures.
 2.4.1 Missing Data for Oil and Gas Samples
 When fuel sulfur content, gross calorific value or, when necessary, density data are missing or invalid for an oil or gas sample taken according to the procedures in section 2.2.3, 2.2.4.1, 2.2.4.2, 2.2.4.3, 2.2.5, 2.2.6, 2.2.7, 2.3.3.1.2, or 2.3.4 of this appendix, then substitute the maximum potential sulfur content, density, or gross calorific value of that fuel from Table D-6 of this appendix. Except for the annual samples of fuel sulfur content required under sections 2.3.1.4(e), 2.3.2.4(e) and 2.3.6(b)(5) of this appendix, the missing data values in Table D-6 shall be reported whenever the results of a required sample of sulfur content, GCV or density is missing or invalid in the current calendar year, irrespective of which reporting option is selected (i.e., actual value, contract value or highest value from the previous year). For the annual samples of fuel sulfur content required under sections 2.3.1.4(e), 2.3.2.4(e) and 2.3.6(b)(5) of this appendix, if a valid annual sample has not been obtained by the end of a particular calendar year, the appropriate missing data value in Table D-6 shall be reported, beginning with the first unit operating hour in the next calendar year. The substitute data value(s) shall be used until the next valid sample for the missing parameter(s) is obtained. Note that only actual sample results shall be used to determine the "highest value from the previous year" when that reporting option is used; missing data values shall not be used in the determination.
-ER12JN02.018
 2.4.2 Missing Data Procedures for Fuel Flow Rate
 Whenever data are missing from any primary fuel flowmeter system (as defined in § 72.2 of this chapter) and there is no backup system available to record the fuel flow rate, use the procedures in sections 2.4.2.2 and 2.4.2.3 of this appendix to account for the flow rate of fuel combusted at the unit for each hour during the missing data period. Alternatively, for a fuel flowmeter system used to measure the fuel combusted by a peaking unit, the simplified fuel flow missing data procedure in section 2.4.2.1 of this appendix may be used. Before using the procedures in sections 2.4.2.2 and 2.4.2.3 of this appendix, establish load ranges for the unit using the procedures of section 2 in appendix C to this part, except for units that do not produce electrical output (i.e., megawatts) or thermal output (e.g., klb of steam per hour). The owner or operator of a unit that does not produce electrical or thermal output shall either perform missing data substitution without segregating the fuel flow rate data into bins, or may petition the Administrator under § 75.66 for permission to segregate the data into operational bins. When load ranges are used for fuel flow rate missing data purposes, separate, fuel-specific databases shall be created and maintained. A database shall be kept for each type of fuel combusted in the unit, for the hours in which the fuel is combusted alone in the unit. An additional database shall be kept for each type of fuel, for the hours in which it is co-fired with any other type(s) of fuel(s).
 2.4.2.1 Simplified Fuel Flow Rate Missing Data Procedure for Peaking Units
@@ -342,7 +323,6 @@ For missing data periods that occur when two or more different types of fuel are
 Calculate hourly SO2 mass emission rate from combustion of oil fuel using the procedures in section 3.1 of this appendix. Calculate hourly SO2 mass emission rate from combustion of gaseous fuel using the procedures in section 3.3 of this appendix. (Note: the SO2 mass emission rates in sections 3.1 and 3.3 are calculated such that the rate, when multiplied by unit operating time, yields the hourly SO2 mass emissions for a particular fuel for the unit.) Calculate hourly heat input rate for both oil and gaseous fuels using the procedures in section 3.4 of this appendix. Calculate total SO2 mass emissions and heat input for each hour, each quarter and the year to date using the procedures under section 3.5 of this appendix. Where an oil flowmeter records volumetric flow rate, use the calculation procedures in section 3.2 of this appendix to calculate the mass flow rate of oil.
 3.1 SO2 Mass Emission Rate Calculation for Oil
 3.1.1 Use Equation D-2 to calculate SO2 mass emission rate per hour (lb/hr):
-ER26MY99.021
 Where:
 SO2rate-oil = Hourly mass emission rate of SO2 emitted from combustion of oil, lb/hr.
 OILrate = Mass rate of oil consumed per hr during combustion, lb/hr.
@@ -353,14 +333,12 @@ OILrate = Mass rate of oil consumed per hr during combustion, lb/hr.
 3.2.1 Where the oil flowmeter records volumetric flow rate rather than mass flow rate, calculate and record the oil mass flow rate for each hourly period using hourly oil flow rate measurements and the density or specific gravity of the oil sample.
 3.2.2 Convert density, specific gravity, or API gravity of the oil sample to density of the oil sample at the sampling location's temperature using ASTM D1250-07, Standard Guide for Use of the Petroleum Measurement Tables (incorporated by reference under (§ 75.6 of this part).
 3.2.3 Where density of the oil is determined by the applicable ASTM procedures from section 2.2.6 of this appendix, use Equation D-3 to calculate the rate of the mass of oil consumed (in lb/hr):
-ER26MY99.022
 Where:
 OILrate = Mass rate of oil consumed per hr, lb/hr.
 Voil-rate = Volume rate of oil consumed per hr, measured in scf/hr, gal/hr, barrels/hr, or m 3/hr.
-Doil = Density of oil, measured in lb/scf, lb/gal, lb/barrel, or lb/m3.
+Doil = Density of oil, measured in lb/scf, lb/gal, lb/barrel, or lb/m 3.
 3.3 SO2 Mass Emission Rate Calculation for Gaseous Fuels
 3.3.1 Use Equation D-4 to calculate the SO2 mass emission rate when using the optional gas sampling and analysis procedures in sections 2.3.1 and 2.3.2 of this appendix, or the required gas sampling and analysis procedures in section 2.3.3 of this appendix. Total sulfur content of a fuel must be determined using the procedures of 2.3.3.1.2 of this appendix:
-ER12JN02.019
 Where:
 SO2rate-gas = Hourly mass rate of SO2 emitted due to combustion of gaseous fuel, lb/hr.
 GASrate = Hourly metered flow rate of gaseous fuel combusted, 100 scf/hr.
@@ -368,7 +346,6 @@ Sgas = Sulfur content of gaseous fuel, in grain/100 scf.
 2.0 = Ratio of lb SO2/lb S.
 7000 = Conversion of grains/100 scf to lb/100 scf.
 3.3.2 Use Equation D-5 to calculate the SO2 mass emission rate when using a default emission rate from section 2.3.1.1 or 2.3.2.1.1 of this appendix:
-ER26MY99.024
 where:
 SO2rate = Hourly mass emission rate of SO2 from combustion of a gaseous fuel, lb/hr.
 ER = SO2 emission rate from section 2.3.1.1 or 2.3.2.1.1, of this appendix, lb/mmBtu.
@@ -378,14 +355,12 @@ HIrate = Hourly heat input rate of a gaseous fuel, calculated using procedures i
 3.4.1 Heat Input Rate for Gaseous Fuels
 (a) Determine total hourly gas flow or average hourly gas flow rate with a fuel flowmeter in accordance with the requirements of section 2.1 of this appendix and the fuel GCV in accordance with the requirements of section 2.3.4 of this appendix. If necessary perform the 720-hour test under section 2.3.5 to determine the appropriate fuel GCV sampling frequency.
 (b) Then, use Equation D-6 to calculate heat input rate from gaseous fuels for each hour.
-ER26MY99.025
 Where:
 HIrate-gas = Hourly heat input rate from combustion of the gaseous fuel, mmBtu/hr.
 GASrate = Average volumetric flow rate of fuel, for the portion of the hour in which the unit operated, 100 scf/hr.
 GCVgas = Gross calorific value of gaseous fuel, Btu/100 scf.
 10 6 = Conversion of Btu to mmBtu.
 (c) Note that when fuel flow is measured on an hourly totalized basis (e.g. a fuel flowmeter reports totalized fuel flow for each hour), before Equation D-6 can be used, the total hourly fuel usage must be converted from units of 100 scf to units of 100 scf/hr using Equation D-7:
-ER26MY99.026
 Where:
 GASrate = Average volumetric flow rate of fuel for the portion of the hour in which the unit operated, 100 scf/hr.
 GASunit = Total fuel combusted during the hour, 100 scf.
@@ -393,14 +368,12 @@ t = Unit operating time, hour or fraction of an hour (in equal increments that c
 3.4.2 Heat Input Rate From the Combustion of Oil
 (a) Determine total hourly oil flow or average hourly oil flow rate with a fuel flowmeter, in accordance with the requirements of section 2.1 of this appendix. Determine oil GCV according to the requirements of section 2.2 of this appendix.
 Then, use Equation D-8 to calculate hourly heat input rate from oil for each hour:
-ER26MY99.027
 Where:
 HIrate-oil = Hourly heat input rate from combustion of oil, mmBtu/hr.
 OILrate = Mass rate of oil consumed per hour, as determined using procedures in section 3.2.3 of this appendix, in lb/hr, tons/hr, or kg/hr.
 GCVoil = Gross calorific value of oil, Btu/lb, Btu/ton, or Btu/kg.
-106 = Conversion of Btu to mmBtu.
+10 6 = Conversion of Btu to mmBtu.
 (b) Note that when fuel flow is measured on an hourly totalized basis (e.g., a fuel flowmeter reports totalized fuel flow for each hour), before equation D-8 can be used, the total hourly fuel usage must be converted from units of lb to units of lb/hr, using equation D-9:
-ER26MY99.028
 Where:
 OILrate = Average fuel flow rate for the portion of the hour which the unit operated in lb/hr.
 OILunit = Total fuel combusted during the hour, lb.
@@ -414,33 +387,28 @@ Equation D-11 [Reserved]
 (c) Use the total apportioned fuel flow calculated from Equation F-21a or F-21b to calculate the hourly unit heat input rate, using Equations D-6 and D-7 (for gas) or Equations D-8 and D-9 (for oil).
 3.5 Conversion of Hourly Rates to Hourly, Quarterly, and Year-to-Date Totals
 3.5.1 Hourly SO2 Mass Emissions from the Combustion of all Fuels. Determine the total mass emissions for each hour from the combustion of all fuels using Equation D-12 (On and after January 1, 2009, determine the total mass emission rate (in lbs/hr) for each hour from the combustion of all fuels by dividing Equation D-12 by the actual unit operating time for the hour):
-ER24JA08.019
 Where:
 MSO2-hr = Total mass of SO2 emissions from all fuels combusted during the hour, lb.
 SO2 rate−I = SO2 mass emission rate for each type of gas or oil fuel combusted during the hour, lb/hr.
 ti = Time each gas or oil fuel was combusted for the hour (fuel usage time), fraction of an hour (in equal increments that can range from one hundredth to one quarter of an hour, at the option of the owner or operator).
 3.5.2 Quarterly Total SO2 Mass Emissions
 Sum the hourly SO2 mass emissions in lb as determined from Equation D-12 for all hours in a quarter using Equation D-13:
-ER26MY99.032
 Where:
 MSO2-qtr = Total mass of SO2 emissions from all fuels combusted during the quarter, tons.
 MSO2-hr = Hourly SO2 mass emissions determined using Equation D-12, lb.
 2000= Conversion factor from lb to tons.
 3.5.3 Year to Date SO2 Mass Emissions
 Calculate and record SO2 mass emissions in the year to date using Equation D-14:
-ER26MY99.033
 Where:
 MSO2-YTD = Total SO2 mass emissions for the year to date, tons.
 MSO2-qtr = Total SO2 mass emissions for the quarter, tons.
 3.5.4 Hourly Total Heat Input Rate and Heat Input from the Combustion of all Fuels
 3.5.4.1 Determine the total heat input in mmBtu for each hour from the combustion of all fuels using Equation D-15:
-ER26MY99.034
 Where:
 HIhr = Total heat input from all fuels combusted during the hour, mmBtu.
 HIrate-i = Heat input rate for each type of gas or oil combusted during the hour, mmBtu/hr.
 ti = Time each gas or oil fuel was combusted for the hour (fuel usage time), fraction of an hour (in equal increments that can range from one hundredth to one quarter of an hour, at the option of the owner or operator).
 3.5.4.2 For reporting purposes, determine the heat input rate to each unit, in mmBtu/hr, for each hour from the combustion of all fuels using Equation D-15a:
-ER12JN02.020
 Where:
 HIrate-hr = Total heat input rate from all fuels combusted during the hour, mmBtu/hr.
 HIrate-i = Heat input rate for each type of gas or oil combusted during the hour, mmBtu/hr.
@@ -448,13 +416,11 @@ ti = Time each gas or oil fuel was combusted for the hour (fuel usage time), fra
 tu = Unit operating time
 3.5.5 Quarterly Heat Input
 Sum the hourly heat input values determined from equation D-15 for all hours in a quarter using Equation D-16:
-ER12JN02.021
 Where:
 HIqtr = Total heat input from all fuels combusted during the quarter, mmBtu.
 HIqtr = Hourly heat input determined using Equation D-15, mmBtu.
 3.5.6 Year-to-Date Heat Input
 Calculate and record the total heat input in the year to date using Equation D-17.
-ER26MY99.036
 HIYTD = Total heat input for the year to date, mmBtu.
 HIqtr = Total heat input for the quarter, mmBtu.
 3.6 Records and Reports

@@ -55,7 +55,6 @@ Provide substitute data for each unit electing to use this alternative procedure
 3. Calculations
 3.1 Heat Input
 Calculate the total heat input by summing the product of heat input rate and fuel usage time of each fuel, as in the following equation:
-ER26MY99.037
 Where:
 HT = Total heat input of fuel flow or a combination of fuel flows to a unit, mmBtu.
 HIfuel 1,2,3,...last = Heat input rate from each fuel, in mmBtu/hr as determined using Equation F-19 or F-20 in section 5.5 of appendix F to this part, mmBtu/hr.
@@ -70,7 +69,6 @@ Report the quarterly average emission rate (lb/mmBtu) as required in subpart G o
 3.3.3 Annual Average NOX Emission Rate
 Report the average emission rate (lb/mmBtu) for the calendar year as required in subpart G of this part. Calculate the average NOX emission rate according to equation F-10 in appendix F of this part.
 3.3.4 Average NOX Emission Rate During Co-firing of Fuels
-ER26MY99.038
 Where:
 Eh = NOX emission rate for the unit for the hour, lb/mmBtu.
 Ef = NOX emission rate for the unit for a given fuel at heat input rate HIf, lb/mmBtu.

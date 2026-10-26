@@ -4,7 +4,6 @@ The procedures in this appendix may be used to estimate CO2 mass emissions disch
 2. Procedures for Estimating CO2 Emissions From Combustion
 Use the following procedures to estimate daily CO2 mass emissions from the combustion of fossil fuels. The optional procedure in section 2.3 of this appendix may also be used for an affected gas-fired unit. For an affected unit that combusts any nonfossil fuels (e.g., bark, wood, residue, or refuse), either use a CO2 continuous emission monitoring system or apply to the Administrator for approval of a unit-specific method for determining CO2 emissions.
 2.1 Use the following equation to calculate daily CO2 mass emissions (in tons/day) from the combustion of fossil fuels. Where fuel flow is measured in a common pipe header (i.e., a pipe carrying fuel for multiple units), the owner or operator may use the procedures in section 2.1.2 of appendix D of this part for combining or apportioning emissions, except that the term "SO2 mass emissions" is replaced with the term "CO2 mass emissions."
-ER17MY95.021
 Where:
 Wco2 = CO2 emitted from combustion, tons/day.
 MWc = Molecular weight of carbon (12.0).
@@ -17,7 +16,6 @@ Wc = Carbon burned, lb/day, determined using fuel sampling and analysis and fuel
 2.2.1 Determine the ash content of the weekly sample of coal using ASTM D3174-00, "Standard Test Method for Ash in the Analysis Sample of Coal and Coke from Coal" (incorporated by reference under § 75.6 of this part).
 2.2.2 Sample and analyze the carbon content of the fly-ash according to ASTM D5373-02 (Reapproved 2007), Standard Test Methods for Instrumental Determination of Carbon, Hydrogen, and Nitrogen in Laboratory Samples of Coal and Coke" (incorporated by reference under § 75.6 of this part).
 2.2.3 Discount the estimate of daily CO2 mass emissions from the combustion of coal given by equation G-1 by the percent carbon retained in the ash using the following equation:
-EC01SE92.133
 (Eq. G-2)
 where,
 WNCO2 = Net CO2 mass emissions discharged to the atmosphere, tons/day.
@@ -28,14 +26,13 @@ A% = Ash content of the coal sample, percent by weight.
 C% = Carbon content of ash, percent by weight.
 WCOAL = Feed rate of coal from company records, tons/day.
 2.2.4 The daily CO2 mass emissions from combusting coal may be adjusted to account for carbon retained in the ash using the following equation:
-W NCO2 =.99 W CO2
+WNCO2 =.99 WCO2
 (Eq. G-3)
 where,
 WNCO2 = Net CO2 mass emissions from the combustion of coal discharged to the atmosphere, tons/day.
 .99 = Average fraction of coal converted into CO2 upon combustion.
 WCO2 = Daily CO2 mass emissions from the combustion of coal calculated by equation G-1, tons/day.
 2.3 In lieu of using the procedures, methods, and equations in section 2.1 of this appendix, the owner or operator of an affected gas-fired or oil-fired unit (as defined under § 72.2 of this chapter) may use the following equation and records of hourly heat input to estimate hourly CO2 mass emissions (in tons).
-ER17MY95.022
 (Eq. G-4)
 Where:
 WCO2 = CO2 emitted from combustion, tons/hr.
@@ -47,7 +44,6 @@ Uf = 1/385 scf CO2/lb-mole at 14.7 psia and 68 °F.
 When the affected unit has a wet flue gas desulfurization system, is a fluidized bed boiler, or uses other emission controls with sorbent injection, use either a CO2 continuous emission monitoring system or an O2 monitor and a flow monitor, or use the procedures, methods, and equations in sections 3.1 through 3.2 of this appendix to determine daily CO2 mass emissions from the sorbent (in tons).
 3.1 When limestone is the sorbent material, use the equations and procedures in either section 3.1.1 or 3.1.2 of this appendix.
 3.1.1 Use the following equation to estimate daily CO2 mass emissions from sorbent (in tons).
-EC01SE92.134
 (Eq. G-5)
 where,
 SECO2 = CO2 emitted from sorbent, tons/day.
@@ -56,7 +52,6 @@ Fu = 1.00, the calcium to sulfur stoichiometric ratio.
 MWCO2 = Molecular weight of carbon dioxide (44).
 MWCaCO3 = Molecular weight of calcium carbonate (100).
 3.1.2 In lieu of using Equation G-5, any owner or operator who operates and maintains a certified SO2-diluent continuous emission monitoring system (consisting of an SO2 pollutant concentration monitor and an O2 or CO2 diluent gas monitor), for measuring and recording SO2 emission rate (in lb/mmBtu) at the outlet to the emission controls and who uses the applicable procedures, methods, and equations such as those in EPA Method 19 in appendix A to part 60 of this chapter to estimate the SO2 emissions removal efficiency of the emission controls, may use the following equations to estimate daily CO2 mass emissions from sorbent (in tons).
-EC01SE92.135
 (Eq. G-6)
 where,
 SECO2 = CO2 emitted from sorbent, tons/day.
@@ -65,7 +60,6 @@ MWSO2 = Molecular weight of sulfur dioxide (64).
 WSO2 = Sulfur dioxide removed, lb/day, as calculated below using Eq. G-7.
 Fu = 1.0, the calcium to sulfur stoichiometric ratio.
 and
-ER17MY95.023
 (Eq. G-7)
 where:
 WSO2 = Weight of sulfur dioxide removed, lb/day.
@@ -89,6 +83,5 @@ Use the following procedures to substitute for missing fuel analytical data used
 Use the following procedures to substitute for missing carbon content data.
 5.2.1 In all cases (i.e., for weekly coal samples or composite oil samples from continuous sampling, for oil samples taken from the storage tank after transfer of a new delivery of fuel, for as-delivered samples of oil, diesel fuel, or gaseous fuel delivered in lots, and for gaseous fuel that is supplied by a pipeline and sampled monthly, daily or hourly for gross calorific value) when carbon content data is missing, report the appropriate default value from Table G-1.
 5.2.2 The missing data values in Table G-1 shall be reported whenever the results of a required sample of fuel carbon content are either missing or invalid. The substitute data value shall be used until the next valid carbon content sample is obtained.
-ER12JN02.024
 5.3 Gross Calorific Value Data
 For a gas-fired unit using the procedures of section 2.3 of this appendix to determine CO2 emissions, substitute for missing gross calorific value data used to calculate heat input by following the missing data procedures for gross calorific value in section 2.4 of appendix D to this part.
