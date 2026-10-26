@@ -39,5 +39,3 @@ Vf = Speed of both objects after collision = m1*V0/(m1 + m2).
 m1 = Mass of initially moving object.
 m2 = Mass of initially standing object.
 (Figure 2 shows as an example a cab car or an MU locomotive having a weight of 100,000 pounds and the impact object having a weight of 14,000 pounds, so that a minimum speed of 17.1 mph would satisfy the collision-energy requirement.)
-ER08JA10.005
-ER08JA10.006
