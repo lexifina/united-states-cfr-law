@@ -17,7 +17,6 @@
 (1) Inspectors spend a significant amount of time in indirect work to support their inspection activities, much of which cannot be allocated to any one client.
 (2) Not all 2,087 annual paid hours are available as work hours because training, providing technical assistance, leave, and other indirect work activities reduce the work time that may be directly billed. Consequently, the hourly cost per inspector must be adjusted upwards by an indirect work factor. The calculation of an indirect work factor is discussed in paragraph (f) of this appendix.
 (f)(1) The indirect work factor is determined using the following formula:
-ER19AP95.000
 where:
 a = indirect work rate, and
 b = leave usage (total leave hours divided by total hours available for work.
