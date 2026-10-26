@@ -4,8 +4,8 @@ The following test procedure is utilized to evaluate the efficiency of equipment
 The test stand refrigeration system required for this procedure is constructed with standard equipment utilized in currently produced household refrigerator and freezer products. The procedure also accounts for compressor oils that might be added to or removed from the test stand compressor or any compressor used in the recovery system.
 I. Test Stand
 Test stands are constructed in accordance with the following standards.
-1. Evaporator—5/16 in. outside dia. with 30 cu. in. volume.
-2. Condenser—1/4 in. outside dia. with 20 cu. in volume.
+1. Evaporator— 5/16 in. outside dia. with 30 cu. in. volume.
+2. Condenser— 1/4 in. outside dia. with 20 cu. in volume.
 3. Suction line capillary heat exchanger—appropriate for compressor used.
 4. An 800-950 Btu/hr high side case (rotary) compressor; or (depending on the test senario);
 5. An 800-9500 Btu/hr low side case (reciprocating) compressor.
@@ -46,23 +46,15 @@ III. Test Procedure
 IV. Calculations
 A. For Five (5) Consecutive Recoveries
 Refrigerant Recoverable equals the summation of charged test stand weights minus original test stand weights.
-82-412a.eps
 Oil Loss equals the net weight of oil added to and removed from the recovery device and/or transfer device.
-82-412b.eps
 Refrigerant Recovered equals the final weight of shipping containers minus the initial weight of final shipping containers, plus final recovery system weight, minus original recovery system weight, plus the net value of all additions and removals of oil from the recovery and transfer devices.
-en30au93.001
 n = number of shipping containers used.
 Recovery Efficiency equals Refrigerant Recovered divided by Refrigerant Recoverable times 100%.
-en30au93.002
 B. For Individual Recoveries
 Refrigerant Recoverable equals the charged test stand weight minus the original test stand weight.
-en30au93.003
 Refrigerant Recovered equals the final weight of the shipping container minus the initial weight of the shipping container plus the final weight of the recovery system minus the original recovery system weight.
-en30au93.004
 Recovery Efficiency equals Refrigerant Recovered divided by Refrigerant Recoverable times 100 percent.
-en30au93.005
 C. Calculation of a Statistically Significant Number of Recoveries
-en30au93.006
 Where:
 Nadd = the number of additional samples required to achieve 90% confidence.
 sd = Standard deviation, or (X/(N−1) 5)

@@ -23,7 +23,7 @@ Section 4. General Equipment Requirements
 4.2 Filter Replacement. The equipment shall indicate when any filter/drier(s) needs replacement. This requirement can be met by use of a moisture transducer and indicator light, by use of a sight glass/moisture indicator or by some measurement of the amount of refrigerant processed such as a flow meter or hour meter. Written instructions such as "to change the filter every 181 kg, or every 30 days" shall not be acceptable except for equipment in large systems where the liquid recovery rate is greater than 11.3 kg/min where the filter/drier(s) would be changed for every job.
 4.3 Purge of Non-Condensable. If non-condensables are purged, the equipment shall either automatically purge non-condensables or provide indicating means to guide the purge process.
 4.4 Purge Loss. The total refrigerant loss due to purging non-condensables, draining oil and clearing refrigerant (see 9.5) shall be less than 3% (by weight) of total processed refrigerant.
-4.5 Permeation Rate. High pressure hose assemblies 5/8 in. [16 mm] nominal and smaller shall not exceed a permeation rate of 3.9 g/cm2/yr (internal surface) at a temperature of 48.8 °C. Hose assemblies that UL recognized as having passed ANSI/UL 1963 requirements shall be accepted without testing. See 7.1.4.
+4.5 Permeation Rate. High pressure hose assemblies 5/8 in. [16 mm] nominal and smaller shall not exceed a permeation rate of 3.9 g/cm 2/yr (internal surface) at a temperature of 48.8 °C. Hose assemblies that UL recognized as having passed ANSI/UL 1963 requirements shall be accepted without testing. See 7.1.4.
 4.6 Clearing Trapped Refrigerant. For equipment rated for more than one refrigerant, the manufacturer shall provide a method and instructions which will accomplish connections and clearing within 15 minutes. Special equipment, other than a vacuum pump or manifold gauge set shall be furnished. The clearing procedure shall not rely upon the storage cylinder below saturated pressure conditions at ambient temperature.
 4.7 Temperature. The equipment shall be evaluated at 24 °C with additional limited evaluation at 40 °C. Normal operating conditions range from 10 °C to 40 °C.
 4.8 Exemptions. Equipment intended for recovery only shall be exempt from 4.2 and 4.3.
@@ -44,15 +44,12 @@ Table 1—Standard Contaminated Refrigerant Samples
 Moisture Content: ppm by Weight of Pure refrigerant | 100 | 80 | 30 | 200 | 100 | 85 | 200 | 200 | 200 | 200 | 30
 Particulate Content: ppm by Weight of Pure Refrigerant Characterized by 1 | 80 | 80 | NA | 80 | 80 | 80 | 80 | 80 | 80 | 80 | NA
 Acid Content: ppm by Weight of Pure Refrigerant—(mg KOH per kg Refrigerant) Characterized by 2 | 500 | 100 | NA | 500 | 400 | 200 | 500 | 100 | 100 | 100 | NA
-Mineral Oil Content:
+Mineral Oil Content: | | | | | | | | | | |
 % by Weight of Pure Refrigerant | 20 | 5 | NA | 5 | 20 | 20 | 20 | 5 | 5 | 5 | NA
-Viscosity (SUS) | 300 | 150 | | 300 | 300 | 300 | 300 | 150 3 | 150 | 150
+Viscosity (SUS) | 300 | 150 | | 300 | 300 | 300 | 300 | 150 3 | 150 | 150 |
 Non-Condensable Gases (Air Content): % by Volume | NA | 3 | 3 | 3 | NA | 3 | NA | 3 | 3 | 3 | 3
-1 Particulate content shall consist of inert materials and shall comply with particulate requirements in appendix B.
-2 Acid consists of 60% oleic acid and 40% hydrochloric acid on a total number basis.
-3 Synthetic ester-based oil.
-ER24JY03.007
-6.3 Size. The size of the mixing chamber shall be a minimum of.09 m3. The bottom port and the refrigerant feed shall depend on the size of the equipment. Typically, the mixing valves and piping shall be 9.5 mm. For large equipment to be used on chillers, the minimum inside diameter of ports, valves and pipings shall be the smaller of the manufacturer's recommendation or 37 mm.
+1 Particulate content shall consist of inert materials and shall comply with particulate requirements in appendix B. 2 Acid consists of 60% oleic acid and 40% hydrochloric acid on a total number basis. 3 Synthetic ester-based oil.
+6.3 Size. The size of the mixing chamber shall be a minimum of.09 m 3. The bottom port and the refrigerant feed shall depend on the size of the equipment. Typically, the mixing valves and piping shall be 9.5 mm. For large equipment to be used on chillers, the minimum inside diameter of ports, valves and pipings shall be the smaller of the manufacturer's recommendation or 37 mm.
 6.4 System Dependent Equipment Test Apparatus. This test apparatus is to be used for final recovery vacuum rating of all system dependent equipment.
 6.4.1 Test Setup. The test apparatus shown in Figure 2 consists of a complete refrigeration system. The manufacturer shall identify the refrigerants to be tested. The test apparatus can be modified to facilitate operation or testing of the system dependent equipment if the modifications to the apparatus are specifically described within the manufacturer's literature. (See Figure 2.) A 6.3 mm balance line shall be connected across the test apparatus between the high and low-pressure sides, with an isolation valve located at the connection to the compressor high side. A 6.3 mm access port with a valve core shall be located in the balance line for the purpose of measuring final recovery vacuum at the conclusion of the test.
 Section 7. Performance Testing
@@ -67,7 +64,6 @@ Section 7. Performance Testing
 7.4 Recovery Tests (Recovery and Recovery/Recycle Equipment).
 7.4.1 Determining Recovery Rates. The liquid and vapor refrigerant recovery rates shall be measured during the first test batch for each refrigerant (see 9.1, 9.2 and 9.4). Equipment preparation and recovery cylinder changeover shall not be included in elapsed time measurements for determining vapor recovery rate and liquid refrigerant recovery rate. Operations such as subcooling the recovery cylinder shall be included. Recovery cylinder shall be the same size as normally furnished or specified in the instructions by the equipment manufacturer. Oversized tanks shall not be permitted.
 7.4.1.1 Liquid Refrigerant Recovery Rate. If elected, the recovery rate using the liquid refrigerant feed means (see 6.2.5) shall be determined. After the equipment reaches stabilized conditions of condensing temperature and/or recovery cylinder pressure, the recovery process shall be stopped and an initial weight shall be taken of the mixing chamber (see 9.2). The recovery process shall be continued for a period of time sufficient to achieve the accuracy in 9.4. The recovery process shall be stopped and a final weight shall be taken of the mixing chamber.
-ER24JY03.008
 7.4.1.2 Vapor Refrigerant Recovery Rate. If elected, the average vapor flow rate shall be measured to accuracy requirements in clause 9.4 under conditions with no liquid refrigerant in the mixing chamber. The liquid recovery feed means shall be used. At initial conditions of saturated vapor at the higher of 24 °C or the boiling temperature (100 kPa absolute pressure), the weight of the mixing chamber and the pressure shall be recorded. At final conditions representing pressure in the mixing chamber of 10% of the initial condition, but not less than the final recovery vacuum (see 9.6) nor more than 100 kPa, measure the weight of the mixing chamber and the elapsed time.
 7.4.1.3 High Temperature Vapor Recovery Rate. Applicable for equipment having at least one designated refrigerant (see 11.2) with a boiling point between −50 °C and +10 °C. Measure the rate for R-22, or the refrigerant with the lowest boiling point if R-22 is not a designated refrigerant. Repeat the test in 7.4.1.2 at saturated conditions at 40 °C and continue to operate equipment to assure it will achieve the final recovery vacuum (see 7.4.3).
 7.4.2 Recovery Operation. This test is for determining the final recovery vacuum and the ability to remove contaminants as appropriate. If equipment is rated for liquid recovery (see 7.4.1.3), liquid recovery feed means described in 6.2.5 shall be used. If not, vapor recovery means described in 6.2.3 or 6.2.4 shall be used. Continue recovery operation until all liquid is removed from the test apparatus and vapor is removed to the point where equipment shuts down by automatic means or is manually shut off per operating instructions.
@@ -130,7 +126,7 @@ e. Recycle Flow Rate
 f. Residual Trapped Refrigerant
 g. Quantity Recycled
 Table 2—Performance
-Parameter/Type of equipment | Recovery | Recovery/Recycle | Recycle | Systemdependent equipment
+Parameter/Type of equipment | Recovery | Recovery/Recycle | Recycle | System dependent equipment
 Liquid Refrigerant Recovery Rate | (1) | (1) | N/A | N/A
 Vapor Refrigerant Recovery Rate | (1) | (1) | N/A | N/A
 High Temp. Vapor Recovery Rate | (1) | (1) | N/A | N/A
@@ -139,21 +135,16 @@ Recycle Flow Rate | N/A | (X) | (X) | N/A
 Refrigerant Loss | (3) | (X) | (X) | (3)
 Residual Trapped Refrigerant | (2) | (2) | (2) | (2)
 Quantity Recycled | N/A | (X) | (X) | N/A
-X Mandatory rating.
-1 For a recovery or recovery/recycle unit, one must rate either liquid refrigerant recovery rate or vapor refrigerant recovery rate or one can rate for both. If rating only the one, the other shall be indicated by N/A, "not applicable."
-2 Mandatory rating for equipment tested for multiple refrigerants.
-3 Mandatory rating if multiple refrigerants, oil separation or non-condensable purge are rated.
-Note: For recovery equipment, these parameters are optional. If not rated use N/A, "not applicable."
+X Mandatory rating. 1 For a recovery or recovery/recycle unit, one must rate either liquid refrigerant recovery rate or vapor refrigerant recovery rate or one can rate for both. If rating only the one, the other shall be indicated by N/A, "not applicable." 2 Mandatory rating for equipment tested for multiple refrigerants. 3 Mandatory rating if multiple refrigerants, oil separation or non-condensable purge are rated. Note: For recovery equipment, these parameters are optional. If not rated use N/A, "not applicable."
 Table 3—Contaminants
-Contaminant/Type of equipment | Recovery | Recovery/Recycle | Recycle | Systemdependent equipment
+Contaminant/Type of equipment | Recovery | Recovery/Recycle | Recycle | System dependent equipment
 Moisture Content | (*) | (X) | (X) | N/A
 Chloride Ions | (*) | (X) | (X) | N/A
 Acidity | (*) | (X) | (X) | N/A
 High Boiling Residue | (*) | (X) | (X) | N/A
 Particulates | (*) | (X) | (X) | N/A
 Non-Condensables | (*) | (X) | (X) | N/A
-* For recovery equipment, these parameters are optional. If not rated, use N/A, "not applicable."
-X Mandatory rating.
+* For recovery equipment, these parameters are optional. If not rated, use N/A, "not applicable." X Mandatory rating.
 Attachment 1 to Appendix B2 to Subpart F of Part 82—References
 Listed here are all standards, handbooks, and other publications essential to the formation and implementation of the standard. All references in this appendix are considered as part of this standard.
 • ANSI/UL Standard 1963, Refrigerant Recovery/Recycling Equipment, First Edition, 1989, American National Standards Institute/Underwriters Laboratories, Inc.

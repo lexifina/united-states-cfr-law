@@ -23,14 +23,13 @@ Section 4. General Equipment Requirements
 4.2 Filter Replacement. The equipment shall indicate when any filter/drier(s) needs replacement. This requirement can be met by use of a moisture transducer and indicator light, by use of a sight glass/moisture indicator, or by some measurement of the amount of refrigerant processed such as a flow meter or hour meter. The equipment manufacturer must provide maximum quantity recycled or filter change interval in its written instructions.
 4.3 Purge of Non-Condensable. If non-condensables are purged, the equipment shall either automatically purge non-condensables or provide an indicating means to guide the purge process. Recycling equipment must provide purge means.
 4.4 Purge Loss. The total refrigerant loss due to purging non-condensables, draining oil, and clearing refrigerant (see Section 9.5) shall be less than 3 percent (by weight) of total processed refrigerant.
-4.5 Permeation Rate. High pressure hose assemblies 5/8 in. (16 mm) nominal and smaller shall not exceed a permeation rate of 3.9 g/cm2/yr (internal surface) at a temperature of 48.8 °C. Hose assemblies that UL recognized as having passed UL 1963, 2011 requirements shall be accepted without testing. See Section 7.1.4 of this appendix.
+4.5 Permeation Rate. High pressure hose assemblies 5/8 in. (16 mm) nominal and smaller shall not exceed a permeation rate of 3.9 g/cm 2/yr (internal surface) at a temperature of 48.8 °C. Hose assemblies that UL recognized as having passed UL 1963, 2011 requirements shall be accepted without testing. See Section 7.1.4 of this appendix.
 4.6 Clearing Trapped Refrigerant. For equipment rated for more than one refrigerant, the manufacturer shall provide a method and instructions which will accomplish connections and clearing within 15 minutes. Special equipment, other than a vacuum pump or manifold gauge set, shall be furnished. The clearing procedure shall not rely upon the storage cylinder below saturated pressure conditions at ambient temperature.
 4.7 Temperature. The equipment shall be evaluated at 24 °C with additional limited evaluation at 40 °C. Normal operating conditions range from 10 °C to 40 °C.
 4.8 Exemptions. Equipment intended for recovery only shall be exempt from Sections 4.2 and 4.3.
 Section 5. Contaminated Refrigerants
 5.1 Sample Characteristics. The standard contaminated refrigerant sample shall have the characteristics specified in Table 1, except as provided in Section 5.2 of this appendix. Testing shall be conducted at an ambient temperature of 24 °C ± 1 °C except high temperature vapor recovery shall be 40 °C ± 1 °C.
 5.2 Recovery-only Testing. Recovery equipment not rated for removal of contaminants shall be tested with new or reclaimed refrigerant.
-ER18NO16.093
 Section 6. Test Apparatus
 6.1 General Recommendations. The recommended test apparatus is described in the following paragraphs. If alternate test apparatus are employed, the user shall be able to demonstrate that they produce results equivalent to the specified reference apparatus.
 6.2 Self-Contained Equipment Test Apparatus. The apparatus, shown in Figure 1, shall consist of:
@@ -40,13 +39,11 @@ Section 6. Test Apparatus
 6.2.4 Alternative Vapor Feed. An alternative method for vapor feed shall be to pass the refrigerant through a boiler and then through an automatic pressure regulating valve set at different saturation pressures, moving from saturated pressure at 24 °C to final pressure of recovery.
 6.2.5 Liquid Feed. Liquid refrigerant feed consisting of control valves, sampling port, and piping.
 6.2.6 Instrumentation. Instrumentation capable of measuring weight, temperature, pressure, and refrigerant loss, as required.
-ER18NO16.094
 6.3 Size. The size of the mixing chamber and filling storage cylinder used during testing shall correspond to the size of the equipment being tested per Section 6.3.1 or 6.3.2:
-6.3.1 For equipment utilizing nominal 1/4″ or 3/8″ flare ports and hoses, the mixing chamber shall be 0.09 m3 and all ports, valves, mixing valves, and piping shall be 1/2″ or larger, reduced down to the port size of the equipment by fittings at the connection ports of the mixing chamber. The filling storage cylinder used during testing shall be a nominal 50-pound water capacity DOT 4Bx cylinder with 1/4″ flare liquid and vapor ports.
-6.3.2 For equipment utilizing 1/2″ or larger flare ports and hoses, the mixing chamber shall be 0.45 m3 (or nominal 1000-pound water capacity DOT 4Bx cylinder) and all ports, valves, mixing valves, and piping shall be 11/2″ or larger, reduced down to the port size of the equipment by fittings at the connection ports of the mixing chamber. The filling storage cylinder used during testing shall be a nominal 1000-pound water capacity DOT 4Bx cylinder with liquid and vapor ports, valves and piping sized 3/4″ NPT and reduced or increased to the port size of the equipment by fittings at the connection ports of the filling storage cylinder.
+6.3.1 For equipment utilizing nominal 1/4″ or 3/8″ flare ports and hoses, the mixing chamber shall be 0.09 m 3 and all ports, valves, mixing valves, and piping shall be 1/2″ or larger, reduced down to the port size of the equipment by fittings at the connection ports of the mixing chamber. The filling storage cylinder used during testing shall be a nominal 50-pound water capacity DOT 4Bx cylinder with 1/4″ flare liquid and vapor ports.
+6.3.2 For equipment utilizing 1/2″ or larger flare ports and hoses, the mixing chamber shall be 0.45 m 3 (or nominal 1000-pound water capacity DOT 4Bx cylinder) and all ports, valves, mixing valves, and piping shall be 1 1/2″ or larger, reduced down to the port size of the equipment by fittings at the connection ports of the mixing chamber. The filling storage cylinder used during testing shall be a nominal 1000-pound water capacity DOT 4Bx cylinder with liquid and vapor ports, valves and piping sized 3/4″ NPT and reduced or increased to the port size of the equipment by fittings at the connection ports of the filling storage cylinder.
 6.4 System Dependent Equipment Test Apparatus. This test apparatus is to be used for final recovery vacuum rating of all system dependent equipment.
 6.4.1 Test Setup. The test apparatus shown in Figure 2 consists of a complete refrigeration system. The manufacturer shall identify the refrigerants to be tested. The test apparatus can be modified to facilitate operation or testing of the system dependent equipment if the modifications to the apparatus are specifically described within the manufacturer's literature. A 6.3 mm balance line shall be connected across the test apparatus between the high- and low-pressure sides, with an isolation valve located at the connection to the compressor high side. A 6.3 mm access port with a valve core shall be located in the balance line for the purpose of measuring final recovery vacuum at the conclusion of the test.
-ER18NO16.095
 Section 7. Performance Testing Procedures
 7.1 General Testing.
 7.1.1 Temperatures. Testing shall be conducted at an ambient temperature of 24 °C ± 1 °C except high temperature vapor recovery shall be at 40 °C ± 1 °C. The evaporator conditions of Section 6.2.3 shall be maintained as long as liquid refrigerant remains in the mixing chamber.
@@ -125,9 +122,10 @@ f. Recycle Flow Rate, kg/min
 g. Refrigerant Loss, kg
 h. Residual Trapped Refrigerant, kg
 i. Quantity of Refrigerant Processed at Rated Conditions, kg
-Table 2—Performance Ratings for Refrigerant Recovery and Recovery/Recycling Equipment 4 5
-Parameter | Type of equipment | Recovery | Recovery/recycling | Recycling | Systemdependent equipment
-Liquid Refrigerant Recovery Rate, kg/min | X 1 4 | X1 | N/A 5 | N/A
+Table 2—Performance Ratings for Refrigerant Recovery and Recovery/Recycling Equipment 4,5
+Parameter | Type of equipment
+Recovery | Recovery/ recycling | Recycling | System dependent equipment
+Liquid Refrigerant Recovery Rate, kg/min | X 1,4 | X 1 | N/A 5 | N/A
 Vapor Refrigerant Recovery Rate, kg/min | X 1 | X 1 | N/A | N/A
 High Temperature Vapor Recovery Rate, kg/min | X 1 | X 1 | N/A | N/A
 Push/Pull Liquid Recovery Rate, kg/min | X 1 | X 1 | N/A | N/A
@@ -136,21 +134,17 @@ Recycle Flow Rate, kg/min | N/A | X | X | N/A
 Refrigerant Loss, kg | X 2 | X | X | X 3
 Residual Trapped Refrigerant, kg | X 3 | X 2 | X 2 | X 2
 Quantity of Refrigerant Processed at Rated Conditions, kg | N/A | X | X | N/A
-1 For a recovery or recovery/recycle unit, one must rate either liquid refrigerant recovery rate or vapor refrigerant recovery rate or one can rate for both. If rating only one, the other shall be indicated by N/A, "not applicable."
-2 Mandatory rating if multiple refrigerants, oil separation or non-condensable purge are rated.
-3 Mandatory rating for equipment tested for multiple refrigerants.
-4 "X" denotes mandatory rating or equipment requirements.
-5 "N/A" indicates "Not Applicable" for a parameter that does not have a rating.
+1 For a recovery or recovery/recycle unit, one must rate either liquid refrigerant recovery rate or vapor refrigerant recovery rate or one can rate for both. If rating only one, the other shall be indicated by N/A, "not applicable." 2 Mandatory rating if multiple refrigerants, oil separation or non-condensable purge are rated. 3 Mandatory rating for equipment tested for multiple refrigerants. 4 "X" denotes mandatory rating or equipment requirements. 5 "N/A" indicates "Not Applicable" for a parameter that does not have a rating.
 Table 3—Contaminant Removal Ratings for Refrigerant Recovery and Recovery/Recycling Equipment 1 2
-Contaminant | Type of equipment | Recovery | Recovery/recycling | Recycling | Systemdependent equipment
+Contaminant | Type of equipment
+Recovery | Recovery/ recycling | Recycling | System dependent equipment
 Moisture Content, ppm by weight | N/A 2 | X 1 | X | N/A
 Chloride Ions, pass/fail | N/A | X | X | N/A
 Acid Content, ppm by weight | N/A | X | X | N/A
 High Boiling Residue, % by volume | N/A | X | X | N/A
 Particulates/solids, pass/fail | N/A | X | X | N/A
 Non-condensables, % by volume | N/A | X | X | N/A
-1 "X" denotes mandatory rating.
-2 "N/A" indicates "Not Applicable" for a parameter that does not have a rating.
+1 "X" denotes mandatory rating. 2 "N/A" indicates "Not Applicable" for a parameter that does not have a rating.
 Section 12. References
 Listed here are all standards, handbooks, and other publications essential to the formation and implementation of the standard. All references in this appendix are considered as part of this standard.
 • UL 1963, Standard for Safety Refrigerant Recovery/Recycling Equipment, Fourth Edition (with revisions through October 13, 2013), dated June 1, 2011, (incorporated by reference, see § 82.168).
@@ -163,7 +157,7 @@ Section 13.0. Particulate Used in Standard Contaminated Refrigerant Sample
 13.1.2 Preparation of Particulate Materials. To prepare the blend of contaminant per ANSI/ASHRAE Standard 63.2-1996 (RA 2010), first wet screen a quantity of coarse air cleaner dust on a 200-mesh screen (particle retention 74 µm). This is done by placing a portion of the dust on a 200-mesh screen and running water through the screen while stirring the dust with the fingers. The fine contaminant particles passing through the screen are discarded. The larger than 200-mesh particles collected on the screen are removed and dried for one hour at 110 °C. The blend of standard contaminant is prepared by mixing 50 percent by weight of coarse air cleaner dust as received (after drying for one hour at 110 °C) with 50 percent by weight of the larger than 200-mesh screened dust.
 13.1.3 Particle Size Analysis. The coarse air cleaner dust as received and the blend used as the standard contaminant have the following approximate particle size analysis:
 Table B1—Weight Percentage in Various µm Size Ranges for Particle Size Analysis
-Size range(µm) | Asreceived (wt %) | Blend(wt %)
+Size range (µm) | As received (wt %) | Blend (wt %)
 0-5 | 12 | 6
 5-10 | 12 | 6
 10-20 | 14 | 7

@@ -91,7 +91,7 @@ The test method shall be gas chromatography with a thermal conductivity detector
 5.11 All Other Volatile Impurities and/or Other Refrigerants.
 5.11.1 Method. The amount of volatile impurities including other refrigerants in the subject refrigerant shall be determined by gas chromatography as described in 2008 Appendix C to AHRI Standard 700-2014 (incorporated by reference, see § 82.168).
 5.11.2 Limits. The test sample shall not contain more than 0.5 percent by weight of volatile impurities including other refrigerants as shown in Tables 1A, 1B, 1C, 2A, 2B and 3.
-5.12 Total C 3, C 4 and C 5 Polyolefins in Hydrocarbon Refrigerants.
+5.12 Total C3, C4 and C5 Polyolefins in Hydrocarbon Refrigerants.
 5.12.1 Method. The amount of polyolefin impurities in the hydrocarbon shall be determined by gas chromatography as described in GPA Standard 2177-13 (incorporated by reference, see § 82.168).
 5.12.2 Limits. The test sample shall not contain more than 0.05 percent by weight in the hydrocarbon sample as shown in Tables 1B and 2B. Report the results as "pass" or "fail."
 5.13 Sulfur Odor in Hydrocarbon Refrigerants.
@@ -99,21 +99,6 @@ The test method shall be gas chromatography with a thermal conductivity detector
 5.13.2 Limits. The test sample paper shall not emit a residual sulfur odor as shown in Tables 1B and 2B.
 Section 6. Reporting Procedure
 6.1 Reporting Procedure. The source (manufacturer, reclaimer, or repackager) of the packaged refrigerant shall be identified. The refrigerant shall be identified by its accepted refrigerant number and/or its chemical name. Maximum allowable levels of contaminants are shown in Tables 1A, 1B, 1C, 2A, 2B, and 3. Test results shall be tabulated in a similar manner.
-ER18NO16.078
-ER18NO16.079
-ER18NO16.080
-ER18NO16.081
-ER18NO16.082
-ER18NO16.083
-ER18NO16.084
-ER18NO16.085
-ER18NO16.086
-ER18NO16.087
-ER18NO16.088
-ER18NO16.089
-ER18NO16.090
-ER18NO16.091
-ER18NO16.092
 Section 7.0 References—Normative
 Listed here are all standards, handbooks, and other publications essential to the formation and implementation of the standard. All references in this appendix are considered as part of this standard.
 ANSI/ASHRAE Standard 34-2013, Designation and Safety Classification of Refrigerants, with Addenda, American National Standards Institute/American Society of Heating, Refrigerating, and Air-Conditioning Engineers.

@@ -133,7 +133,6 @@ This test procedure and the requirement are used for evaluation of the equipment
 8.10.4 This test shall be conducted at 21 and 49 °C and may be performed in conjunction with the testing defined in Section 8.6. The equipment shall process at least 13.6 kg of standard contaminated refrigerant for this test.
 8.11 Sample Requirements.
 8.11.1 The sample shall be tested as defined in 8.7, 8.8, 8.9, and 8.10 at ambient temperatures of 10, 21, and 49 °C (50, 70, and 120 °F) as defined in 8.6.1.
-EC01MY92.106
 Recommended Service Procedure for the Containment of R-12
 1. Scope
 During service of mobile air-conditioning systems, containment of the refrigerant is important. This procedure provides service guidelines for technicians when repairing vehicles and operating equipment defined in SAE J1990.

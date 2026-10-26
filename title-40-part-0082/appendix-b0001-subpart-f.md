@@ -33,30 +33,26 @@ Section 4. General Equipment Requirements
 4.7.1 Equpment intended for recovery only shall be exempt from sections 4.2 and 4.3.
 Table 1—Standard Contaminated Refrigerant Samples
 | R11 | R12 | R13 | R22 | R113 | R114 | R123 | R134a | R500 | R502 | R503
-Moisture content:
+Moisture content: | | | | | | | | | | |
 PPM by weight of pure refrigerant | 100 | 80 | 30 | 200 | 100 | 85 | 100 | 200 | 200 | 200 | 30
-Particulate content:
+Particulate content: | | | | | | | | | | |
 PPM by weight of pure refrigerant characterized by 1 | 80 | 80 | 80 | 80 | 80 | 80 | 80 | 80 | 80 | 80 | 80
-Acid content:
+Acid content: | | | | | | | | | | |
 PPM by weight of pure refrigerant—(mg KOH per kg refrig.) characterized by 2 | 500 | 100 | NA | 500 | 400 | 200 | 500 | 100 | 100 | 100 | NA
-Mineral oil content:
+Mineral oil content: | | | | | | | | | | |
 % by weight of pure refrigerant | 20 | 5 | NA | 5 | 20 | 20 | 20 | 5 | 5 | 5 | NA
-Viscosity (SUS) | 300 | 150 | | 300 | 300 | 300 | 300 | 150 | 150 | 150
-Non condensable gases air content % volume3 > | NA | 3 | 3 | 3 | NA | 3 | 3 | 3 | 3 | 3 | 3
-1 Particulate content shall consist of inert materials and shall comply with particulate requirements in ASHRAE Standard 63.2, "Method of Testing of Filtration Capacity of Refrigerant Liquid Line Filters and Filter Driers."
-2 Acid consists of 60% oleic acid and 40% hydrochloric acid on a total number basis.
-3 Synthetic ester based oil.
+Viscosity (SUS) | 300 | 150 | | 300 | 300 | 300 | 300 | 150 | 150 | 150 |
+Non condensable gases air content % volume 3 > | NA | 3 | 3 | 3 | NA | 3 | 3 | 3 | 3 | 3 | 3
+1 Particulate content shall consist of inert materials and shall comply with particulate requirements in ASHRAE Standard 63.2, "Method of Testing of Filtration Capacity of Refrigerant Liquid Line Filters and Filter Driers." 2 Acid consists of 60% oleic acid and 40% hydrochloric acid on a total number basis. 3 Synthetic ester based oil.
 Section 5. Contaminated Refrigerants
 5.1 The standard contaminated refrigerant sample shall have the characteristics specified in Table 1, except as provided in 5.2
 5.2 Recovery equipment not rated for any specific contaminant can be tested with new or reclaimed refrigerant.
 Section 6. Test Apparatus
-6.1 Self Contained Equipment Test Apparatus. The apparatus as shown in Figure 1 consists of a 3 cubic foot [0.085 m3] mixing chamber with a conical-shaped bottom, although a larger mixing chamber is permissible. The size of the mixing chamber depends upon the size of the equipment. The outlet at the bottom of the cone and all restrictions and valves for liquid and vapor refrigerant lines in the test apparatus shall be a minimum of 0.375 in. [9.5 mm] inside diameter or equivalent. The minimum inside diameter for large equipment for use on chillers shall be 1.5 in. [38 mm.]. The mixing chamber shall contain various ports for receiving liquid refrigerant, oil, and contaminants. A recirculating line connected from the bottom outlet through a recirculating pump and then to a top vapor port shall be provided for stirring of the mixture. Isolation valves may be required for the pump. Alternative stirring means may be used if demonstrated to be equally effective.
+6.1 Self Contained Equipment Test Apparatus. The apparatus as shown in Figure 1 consists of a 3 cubic foot [0.085 m 3] mixing chamber with a conical-shaped bottom, although a larger mixing chamber is permissible. The size of the mixing chamber depends upon the size of the equipment. The outlet at the bottom of the cone and all restrictions and valves for liquid and vapor refrigerant lines in the test apparatus shall be a minimum of 0.375 in. [9.5 mm] inside diameter or equivalent. The minimum inside diameter for large equipment for use on chillers shall be 1.5 in. [38 mm.]. The mixing chamber shall contain various ports for receiving liquid refrigerant, oil, and contaminants. A recirculating line connected from the bottom outlet through a recirculating pump and then to a top vapor port shall be provided for stirring of the mixture. Isolation valves may be required for the pump. Alternative stirring means may be used if demonstrated to be equally effective.
 6.1.1 For liquid refrigerant feed, the liquid valve is opened. For vapor refrigerant feed, the vapor valve is opened and refrigerant passes through an evaporator coil. Flow is controlled by a thermostatic expansion valve to create 5 F [3 °C] superheat at an evaporator temperature of 70 F ±3 F[21 °C±2°]. The evaporator coil or equivalent evaporator means shall be either sized large enough for the largest system or be sized for each system.
 6.1.2 An alternative method for vapor refrigerant feed is to pass through a boiler and then an automatic pressure regulating valve set at refrigerant saturation pressure at 75 F ±3 F [24 °C ±2 °C].
 6.2 System Dependent Equipment Test Apparatus. This test apparatus is to be used for final recovery vacuum rating of all system dependent equipment.
 6.2.1 The test apparatus shown in Figure 2 consists of a complete refrigeration system. The manufacturer shall identify the refrigerants to be tested. The test apparatus can be modified to facilitate operation or testing of the system dependent equipment if the modifications to the apparatus are specifically described within the manufacturer's literature. (See Figure 2.) A 1/4 inch [6.3 mm] balance line shall be connected across the test apparatus between the high and low pressure sides, with an isolation valve located at the connection to the compressor high side. A 1/4 inch [6.3 mm] access port with a valve core shall be located in the balance line for the purpose of measuring final recovery vacuum at the conclusion of the test.
-EC01MY92.107
-EC01MY92.108
 Section 7. Performance Testing
 7.1 Contaminant removal and performance testing shall be conducted at 75 F ±2 F [23.9 °C ±1.1 °C].
 7.1.1 The equipment shall be prepared for operation per the instruction manual.
@@ -131,9 +127,7 @@ Vapor refrigerant recovery rate | (2) | (2) | N/A | N/A
 Final recovery vacuum | (1) | (1) | N/A | (1)
 Recycle rate | N/A | (1) | (1) | N/A
 Refrigerant loss due to non-condensable purging | (3) | (1) | (1) | N/A
-1 Mandatory rating.
-2 For a recovery or recovery/recycle unit, one must rate for either liquid feed only or vapor feed only or can rate for both. If rating only the one, the other shall be indicated by "N/A."
-3 For Recovery Equipment, these parameters are optional. If not rated, use N/A.
+1 Mandatory rating. 2 For a recovery or recovery/recycle unit, one must rate for either liquid feed only or vapor feed only or can rate for both. If rating only the one, the other shall be indicated by "N/A." 3 For Recovery Equipment, these parameters are optional. If not rated, use N/A.
 Table 3—Contaminants
 Contaminant/type of equipment | Recovery | Recovery/recycle | Recycle | System dependent equipment
 Moisture content | (*) | x | x | NA.
@@ -142,8 +136,7 @@ Acidity | (*) | x | x | NA.
 High boiling residue | (*) | x | x | NA.
 Particulates | (*) | x | x | NA.
 Non-condensables | (*) | x | x | NA.
-* For Recovery Equipment, these parameters are optional. If not rated, use N/A.
-x Mandatory rating.
+* For Recovery Equipment, these parameters are optional. If not rated, use N/A. x Mandatory rating.
 Section 10. Tolerances
 10.1 Any equipment tested shall produce contaminant levels not higher than the published ratings. The liquid refrigerant recovery rate, vapor refrigerant recovery rate, final recovery vacuum and recycle rate shall not be less than the published ratings.
 Section 11. Product Labelling
