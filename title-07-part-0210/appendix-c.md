@@ -6,20 +6,17 @@
 3. For the purpose of this appendix the following definitions apply:
 (a) "CN label" is a food product label that contains a CN label statement and CN logo as defined in paragraph 3 (b) and (c) below.
 (b) The "CN logo" (as shown below) is a distinct border which is used around the edges of a "CN label statement" as defined in paragraph 3(c).
-EC17SE91.000
 (c) The "CN label statement" includes the following:
 (1) The product identification number (assigned by FNS),
 (2) The statement of the product's contribution toward meal pattern requirements of 7 CFR 210.10, § 220.8 or § 220.8a, whichever is applicable, §§ 225.20, and 226.20. The statement shall identify the contribution of a specific portion of a meat/meat alternate product toward the meat/meat alternate, bread/bread alternate, and/or vegetable/fruit component of the meal pattern requirements. For juice drinks and juice drink products the statement shall identify their contribution toward the vegetable/fruit component of the meal pattern requirements,
 (3) Statement specifying that the use of the CN logo and CN statement was authorized by FNS, and
 (4) The approval date.
 For example:
-EC17SE91.001
 (d) Federal inspection means inspection of food products by FSIS, AMS or USDC.
 4. Food processors or manufacturers may use the CN label statement and CN logo as defined in paragraph 3 (b) and (c) under the following terms and conditions:
 (a) The CN label must be reviewed and approved at the national level by FNS and appropriate USDA or USDC Federal agency responsible for the inspection of the product.
 (b) The CN labeled product must be produced under Federal inspection by USDA or USDC. The Federal inspection must be performed in accordance with an approved partial or total quality control program or standards established by the appropriate Federal inspection service.
 (c) The CN label statement must be printed as an integral part of the product label along with the product name, ingredient listing, the inspection shield or mark for the appropriate inspection program, the establishment number where appropriate, and the manufacturer's or distributor's name and address. The inspection marking for CN labeled non-meat, non-poultry, and non-seafood products with the exception of juice drinks and juice drink products is established as follows:
-EC17SE91.002
 (d) Yields for determining the product's contribution toward meal pattern requirements must be calculated using the Food Buying Guide for Child Nutrition Programs (Program AID Number 1331).
 5. In the event a company uses the CN logo and CN label statement inappropriately, the company will be directed to discontinue the use of the logo and statement and the matter will be referred to the appropriate agency for action to be taken against the company.
 6. Products that bear a CN label statement as set forth in paragraph 3(c) carry a warranty. This means that if a food service authority participating in the Child Nutrition Programs purchases a CN labeled product and uses it in accordance with the manufacturer's directions, the school or institution will not have an audit claim filed against it for the CN labeled product for noncompliance with the meal pattern requirements of 7 CFR 210.10, § 220.8 or § 220.8a, whichever is applicable, §§ 225.20, and 226.20. If a State or Federal auditor finds that a product that is CN labeled does not actually meet the meal pattern requirements claimed on the label, the auditor will report this finding to FNS. FNS will prepare a report of the findings and send it to the appropriate divisions of FSIS and AMS of the USDA, National Marine Fisheries Services of the USDC, Food and Drug Administration, or the Department of Justice for action against the company. Any or all of the following courses of action may be taken:

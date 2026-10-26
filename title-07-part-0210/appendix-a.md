@@ -17,7 +17,6 @@ I. Enriched Macaroni Products with Fortified Protein
 (F) The value of the most limiting amino acid (the ratio of the amino acid in the test food over the amino acid value from the pattern) is multiplied by the percent of digestibility of the protein. The resulting number is the PDCAAS.
 (G) The PDCAAS of food mixtures must be calculated from data for the amino acid composition and digestibility of the individual components by means of a weighted average procedure. An example for calculating a PDCAAS for a food mixture of varying protein sources is shown in section 8.0 of the FAO/WHO report cited in paragraph 3.(a)(2)(i)(A) under Enriched Macaroni Products with Fortified Protein in this appendix.
 (H) For the purpose of this regulation, each 100 grams of the product (on a 13 percent moisture basis) must contain protein in amounts which is equivalent to that provided by 20 grams of protein with a quality of not less than 95 percent casein. The equivalent grams of protein required per 100 grams of product (on a 13 percent moisture basis) would be determined by the following equation:
-ER07OC94.022
 X = grams of protein required per 100 grams of product
 a = 20 grams (amount of protein if casein)
 b =.95 [95% × 1 (PDCAAS of casein)
