@@ -30,13 +30,3 @@ The term of the transaction begins on the date of its consummation, except that 
 (vii) In a single advance, single payment transaction in which the term is less than a year and is not equal to a whole number of months, the number of unit-periods in the term shall be 1, and the number of unit-periods per year shall be 365 divided by the number of days in the term.
 (6) Percentage Rate for a Fraction of a Unit-Period
 The percentage rate of finance charge for a fraction (less than 1) of a unit-period shall be equal to such fraction multiplied by the percentage rate of finance charge per unit-period.
-ER22DE11.062
-ER22DE11.063
-ER22DE11.064
-ER22DE11.065
-ER22DE11.066
-ER22DE11.067
-ER22DE11.068
-ER22DE11.069
-ER22DE11.070
-ER22DE11.071

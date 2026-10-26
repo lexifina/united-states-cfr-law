@@ -11,7 +11,6 @@ B. If interest is payable on the entire commitment amount without regard to the 
 2. Estimated annual percentage rate—Assume a single payment loan that matures at the end of the construction period. The finance charge is the sum of the estimated interest and any prepaid finance charge. The amount financed for computation purposes is determined by subtracting any prepaid finance charge from one-half of the commitment amount.
 3. Repayment schedule—Interest payments shall be disclosed in making the repayment schedule disclosure under § 1026.18(g).
 4. Amount financed—The amount financed for disclosure purposes is the entire commitment amount less any prepaid finance charge.
-ER22DE11.000
 Part II—Construction and Permanent Financing Disclosed as One Transaction
 A. The creditor shall estimate the interest payable during the construction period to be included in the total finance charge as follows:
 1. If interest is payable only on the amount actually advanced for the time it is outstanding, assume that one-half of the commitment amount is outstanding at the contract interest rate for the entire construction period.
@@ -24,5 +23,3 @@ C. The creditor shall disclose the repayment schedule as follows:
 1. For loans under paragraph A.1 of part II, other than loans that are subject to § 1026.19(e) and (f), without reflecting the number or amounts of payments of interest only that are made during the construction period. The fact that interest payments must be made and the timing of such payments shall be disclosed.
 2. For loans under paragraph A.2 of part II and loans under paragraph A.1 of part II that are subject to § 1026.19(e) and (f), including any payments of interest only that are made during the construction period.
 D. The creditor shall disclose the amount financed as the entire commitment amount less any prepaid finance charge.
-ER22DE11.001
-ER22DE11.002
