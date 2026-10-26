@@ -13,9 +13,7 @@ A. As defined by the specific lateral boundaries in B, and except for excluded a
 3. To the 100-fathom (183 meter) isobath from Cape Halawa, Molokai, south and westward to Ilio Point, Molokai; southwestward to include Penguin Banks; eastward along the east side of Lanai; to the waters seaward of the three nautical mile limit north of Kahoolawe, to the Hanamanoia Lighthouse on Maui, and northward along the shoreline to Lipoa Point, Maui;
 4. To the deep water area of Pailolo Channel from Cape Halawa, Molokai, to Lipoa Point, Maui, and southward;
 5. To the 100-fathom (183 meter) isobath from Upolu Point southward to Keahole Point, Hawaii.
-ER29NO99.000
 B. Lateral Closure Bounds for the Hawaiian Islands Humpback Whale National Marine Sanctuary Boundary (see Figure 2).
-ER29NO99.001
 Bound No. (fig. 2) | Geographic name | Number of points | Latitude | Longitude
 1a | Kailiu Pt., Kauai | 2 | 22.22353 | −159.58117
 1b | Kailiu Pt., Kauai | | 22.27597 | −159.59983
