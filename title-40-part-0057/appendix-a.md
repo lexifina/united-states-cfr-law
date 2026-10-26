@@ -69,9 +69,9 @@ Forecast smelting charges for integrated smelters can be computed from forecast 
 2.4 EPA Furnished Forecast Data. In making projection for the period 1984 through 1990, applicants must, except as noted below, use the indices provided by EPA. The table below presents yearly values for each index (expressed as annual percentage rates of change) to be used by smelters applying for an NSO before January 1, 1985. If forecasts are needed for 1991 and EPA has not provided new forecasts, applicants should use the Data Resources, Inc. forecasts for 1991 (Docket Item No. IV-A-6c) and the average of CRU's forecasts for 1989 and 1990 (expressed in 1991 dollars).
 | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990
 Copper smelting charge 1 (cents per pound) | 14.5 | 14.6 | 16.0 | 15.3 | 15.3 | 15.5 | 15.4
-Annual Percentage Rates of Change
+Annual Percentage Rates of Change | | | | | | |
 Wages | 5.0 | 5.7 | 5.8 | 6.1 | 6.4 | 6.7 | 7.0
-Energy prices:
+Energy prices: | | | | | | |
 Electricity | 7.0 | 8.8 | 8.1 | 8.3 | 7.1 | 4.9 | 5.5
 Natural gas | 3.6 | 5.7 | 9.3 | 8.7 | 9.2 | 8.0 | 8.4
 Coal | 5.1 | 7.0 | 8.9 | 9.0 | 9.7 | 9.7 | 9.7
@@ -112,7 +112,6 @@ The components are calculated as follows.
 (b) Interest Rate. The 20 year Treasury bond yield to maturity plus a risk premium of 3.0 percent.
 (c) Source of the 20 Year Treasury bond yield. Federal Reserve Bulletin, most recent monthly issue. Use the average yield for the most recent full month.
 2.6.2 Discount Factor. The discount factor corresponding to the weighted average cost of capital for any forecast year is computed according to the following equation:
-ec09no91.029
 where
 DF = discount factor
 R = weighted average cost of capital
@@ -617,159 +616,156 @@ Name
 Title
 Signature
 Date
-Schedule A.1—Historical Revenue Data
-[Smelter identification]
+Schedule A.1—Historical Revenue Data [Smelter identification]
 | Line | 1979 | 1980 | 1981 | 1982 | 1983
-A. Copper product sales:
+A. Copper product sales: | | | | | |
 1. Total quantity sold | 01 | | | | |
-2. Unaffiliated customer sales:
+2. Unaffiliated customer sales: | | | | | |
 a. Quantity sold | 2 | | | | |
 b. Operating revenue | 03 | | | | |
 c. Average unit price | 04 | | | | |
 d. Average product grade | 05 | | | | |
-3. Affiliated customers sales:
+3. Affiliated customers sales: | | | | | |
 a. Quantity sold | 06 | | | | |
 b. Operating revenue | 07 | | | | |
 c. Average unit price | 08 | | | | |
 d. Average product grade | 09 | | | | |
-4. Adjusted copper revenues:
+4. Adjusted copper revenues: | | | | | |
 a. Total copper revenues | 10 | | | | |
 b. Transfer price adjustment | 11 | | | | |
 c. Other revenue adjustments | 12 | | | | |
 d. Adjusted copper revenues | 13 | | | | |
-B. Lead product sales:
+B. Lead product sales: | | | | | |
 1. Total quantity sold | 14 | | | | |
-2. Unaffiliated customer sales:
+2. Unaffiliated customer sales: | | | | | |
 a. Quantity sold | 15 | | | | |
 b. Operating revenue | 16 | | | | |
 c. Average unit price | 17 | | | | |
 d. Average product grade | 18 | | | | |
-3. Affiliated customer sales:
+3. Affiliated customer sales: | | | | | |
 a. Quantity sold | 19 | | | | |
 b. Operating revenue | 20 | | | | |
 c. Average unit price | 21 | | | | |
 d. Average product grade | 22 | | | | |
-4. Adjusted lead revenues:
+4. Adjusted lead revenues: | | | | | |
 a. Total lead revenues | 23 | | | | |
 b. Transfer price adjustment | 24 | | | | |
 c. Other revenue adjustments | 25 | | | | |
 d. Adjusted lead revenues | 26 | | | | |
-C. Zinc product sales:
+C. Zinc product sales: | | | | | |
 1. Total quantity sold | 27 | | | | |
-2. Unaffiliated customer sales:
+2. Unaffiliated customer sales: | | | | | |
 a. Quantity sold | 28 | | | | |
 b. Operating revenue | 29 | | | | |
 c. Average unit price | 30 | | | | |
 d. Average product grade | 31 | | | | |
-3. Affiliated customer sales:
+3. Affiliated customer sales: | | | | | |
 a. Quantity sold | 32 | | | | |
 b. Operating revenue | 33 | | | | |
 c. Average unit price | 34 | | | | |
 d. Average product grade | 35 | | | | |
-4. Adjusted zinc revenues:
+4. Adjusted zinc revenues: | | | | | |
 a. Total zinc revenues | 36 | | | | |
 b. Transfer price adjustment | 37 | | | | |
 c. Other revenue adjustments | 38 | | | | |
 d. Adjusted zinc revenues | 39 | | | | |
-D. Molybdenum or other nonferrous metal sales:
+D. Molybdenum or other nonferrous metal sales: | | | | | |
 1. Total quantity sold | 40 | | | | |
-2. Unaffiliated customer sales:
+2. Unaffiliated customer sales: | | | | | |
 a. Quantity sold | 41 | | | | |
 b. Operating revenue | 42 | | | | |
 c. Average unit price | 43 | | | | |
 d. Average product grade | 44 | | | | |
-3. Affiliated customer sales:
+3. Affiliated customer sales: | | | | | |
 a. Quantity sold | 45 | | | | |
 b. Operating revenue | 46 | | | | |
 c. Average unit price | 47 | | | | |
 d. Average product grade | 48 | | | | |
-4. Adjusted molybdenum or other nonferrous metal revenues:
+4. Adjusted molybdenum or other nonferrous metal revenues: | | | | | |
 a. Total molybdenum or other nonferrous metal revenues | 49 | | | | |
 b. Transfer price adjustment | 50 | | | | |
 c. Other revenue adjustments | 51 | | | | |
 d. Adjusted molybdenum or other nonferrous metal revenues | 52 | | | | |
 E. Primary metal revenues | 53 | | | | |
-F. Tolling service revenues:
+F. Tolling service revenues: | | | | | |
 1. Total toll concentrates processed | 54 | | | | |
-2. Unaffiliated customer revenues:
+2. Unaffiliated customer revenues: | | | | | |
 a. Concentrates processed | 55 | | | | |
 b. Operating revenue | 56 | | | | |
 c. Average unit price | 57 | | | | |
 d. Average product grade | 58 | | | | |
-3. Affiliated customer revenues:
+3. Affiliated customer revenues: | | | | | |
 a. Concentrates processed | 59 | | | | |
 b. Operating revenue | 60 | | | | |
 c. Average unit price | 61 | | | | |
 d. Average product grade | 62 | | | | |
-4. Adjusted tolling service revenues:
+4. Adjusted tolling service revenues: | | | | | |
 a. Total tolling service revenue | 63 | | | | |
 b. Transfer price adjustment | 64 | | | | |
 c. Other revenue adjustments | 65 | | | | |
 d. Adjusted tolling service revenues | 66 | | | | |
-G. Coproduct and byproduct sales:
+G. Coproduct and byproduct sales: | | | | | |
 1. Total coproduct revenues | 67 | | | | |
-2. Total byproduct revenues:
+2. Total byproduct revenues: | | | | | |
 a. Pollution control facilities | 68 | | | | |
 b. Other smelter processing | 69 | | | | |
 3. Total coproduct and byproduct revenues | 70 | | | | |
-Schedule A.2—Historical Cost Data
-[Smelter identification]
+Schedule A.2—Historical Cost Data [Smelter identification]
 | Line | 1979 | 1980 | 1981 | 1982 | 1983
-A. Concentrate costs:
+A. Concentrate costs: | | | | | |
 1. Total quantity purchased | 01 | | | | |
-2. Unaffiliated purchases:
+2. Unaffiliated purchases: | | | | | |
 a. Quantity purchased | 02 | | | | |
 b. Concentrate cost | 03 | | | | |
 c. Average unit price | 04 | | | | |
 d. Average concentrate grade | 05 | | | | |
-3. Affiliated purchases:
+3. Affiliated purchases: | | | | | |
 a. Quantity purchased | 06 | | | | |
 b. Concentrate cost | 07 | | | | |
 c. Average unit price | 08 | | | | |
 d. Average concentrate grade | 09 | | | | |
-4. Adjusted concentrate costs:
+4. Adjusted concentrate costs: | | | | | |
 a. Total concentrate costs | 10 | | | | |
 b. Transfer price adjustment | 11 | | | | |
 c. Other cost adjustments | 12 | | | | |
 d. Adjusted concentrate cost | 13 | | | | |
-B. Production labor cost:
+B. Production labor cost: | | | | | |
 1. Direct labor hours | 14 | | | | |
 2. Average hourly wage rate | 15 | | | | |
 3. Total wage payments | 16 | | | | |
 4. Supplemental employee benefits | 17 | | | | |
 5. Total production labor cost | 18 | | | | |
-C. Energy costs:
-1. Electricity:
+C. Energy costs: | | | | | |
+1. Electricity: | | | | | |
 a. Quantity in kilowatt hours | 19 | | | | |
 b. Price per kwh | 20 | | | | |
 c. Total electricity payments | 21 | | | | |
-2. Natural gas:
+2. Natural gas: | | | | | |
 a. Quantity in mcf | 22 | | | | |
 b. Price per mcf | 23 | | | | |
 c. Total natural gas payments | 24 | | | | |
-3. Coal:
+3. Coal: | | | | | |
 a. Quantity in tons | 25 | | | | |
 b. Price per ton | 26 | | | | |
 c. Total coal payments | 27 | | | | |
-4. Fuel oil:
+4. Fuel oil: | | | | | |
 a. Quantity in gallons | 28 | | | | |
 b. Price per gallon | 29 | | | | |
 c. Total fuel oil payments | 30 | | | | |
-5. Other (specify):
+5. Other (specify): | | | | | |
 a. Quantity (specific units) | 31 | | | | |
 b. Price per unit | 32 | | | | |
 c. Total payments | 33 | | | | |
 6. Total energy costs | 34 | | | | |
-Schedule A.3—Historical Profit and Loss Summary
-[Smelter identification]
+Schedule A.3—Historical Profit and Loss Summary [Smelter identification]
 | Line | 1979 | 1980 | 1981 | 1982 | 1983
-A. Operating revenues:
+A. Operating revenues: | | | | | |
 1. Primary metal sales | 01 | | | | |
 2. Coproduct and byproduct sales | 02 | | | | |
 3. Tolling service revenues | 03 | | | | |
 4. Other operating revenues | 04 | | | | |
 5. Total operating revenues | 05 | | | | |
-B. Cost of sales:
+B. Cost of sales: | | | | | |
 1. Concentrates processed | 06 | | | | |
 2. Other materials | 07 | | | | |
 3. Production labor | 08 | | | | |
@@ -779,37 +775,36 @@ B. Cost of sales:
 7. Other production costs | 12 | | | | |
 8. Total cost of sales | 13 | | | | |
 C. Gross operating profit | 14 | | | | |
-D. Other operating expenses:
+D. Other operating expenses: | | | | | |
 1. Selling general and administrative | 15 | | | | |
 2. Taxes, other than income tax | 16 | | | | |
 3. Research costs | 17 | | | | |
-4. Depreciation and amortization:
+4. Depreciation and amortization: | | | | | |
 a. Pollution control facilities | 18 | | | | |
 b. Other smelter facilities | 19 | | | | |
 5. Interest on short term debt | 20 | | | | |
 6. Miscellaneous operating expenses | 21 | | | | |
 7. Total other operating expenses | 22 | | | | |
 E. Income from operations | 23 | | | | |
-F. Other income and (expense):
+F. Other income and (expense): | | | | | |
 1. Gain/(loss) on disposition of property | 24 | | | | |
 2. Miscellaneous other income and (expense) | 25 | | | | |
 3. Total other income and (expense) | 26 | | | | |
 G. Net taxable income | 27 | | | | |
-Schedule A.4—Historical Capital Investment Summary
-[Smelter identification]
+Schedule A.4—Historical Capital Investment Summary [Smelter identification]
 | Line | 1979 | 1980 | 1981 | 1982 | 1983
-A. Current assets:
+A. Current assets: | | | | | |
 1. Cash on hand and deposit | 01 | | | | |
 2. Temporary cash investments | 02 | | | | |
-3. Trade receivables, net:
+3. Trade receivables, net: | | | | | |
 a. Unaffiliated customers | 03 | | | | |
 b. Affiliated customers | 04 | | | | |
-4. Inventories:
+4. Inventories: | | | | | |
 a. Raw materials and products | 05 | | | | |
 b. Other materials and supplies | 06 | | | | |
 5. Other current assets | 07 | | | | |
 6. Total current assets | 08 | | | | |
-B. Property, plant and equipment:
+B. Property, plant and equipment: | | | | | |
 1. Land | 09 | | | | |
 2. Buildings and improvements | 10 | | | | |
 3. Machinery and equipment | 11 | | | | |
@@ -821,8 +816,8 @@ B. Property, plant and equipment:
 9. Net smelter investment | 17 | | | | |
 C. Other noncurrent assets | 18 | | | | |
 D. Total smelter capital investment | 19 | | | | |
-E. Current liabilities:
-1. Trade accounts and notes payable:
+E. Current liabilities: | | | | | |
+1. Trade accounts and notes payable: | | | | | |
 a. Unaffiliated suppliers | 20 | | | | |
 b. Affiliated suppliers | 21 | | | | |
 2. Other expense accruals | 22 | | | | |
@@ -830,145 +825,63 @@ b. Affiliated suppliers | 21 | | | | |
 4. Other current liabilities | 24 | | | | |
 5. Total current liabilities | 25 | | | | |
 F. Net smelter capital investment | 26 | | | | |
-Schedule B—Pre-Control Revenue Forecast
-[Smelter identification]
+Schedule B—Pre-Control Revenue Forecast [Smelter identification]
 | Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990
-A. Forecast smelter revenues—unaffiliated parties:
+A. Forecast smelter revenues—unaffiliated parties: | | | | | | | |
 1. Concentrates processed | 01 | | | | | | |
 2. Smelting charge | 02 | | | | | | |
 3. Total smelter revenues | 03 | | | | | | |
 4. Average product grade | 04 | | | | | | |
-B. Forecast smelter revenues—affiliated parties:
+B. Forecast smelter revenues—affiliated parties: | | | | | | | |
 1. Concentrates processed | 05 | | | | | | |
 2. Smelting charge | 06 | | | | | | |
 3. Total smelter revenues | 07 | | | | | | |
 4. Average product grade | 08 | | | | | | |
-C. Forecast co-product and by-product sales:
+C. Forecast co-product and by-product sales: | | | | | | | |
 1. Total co-product revenues | 09 | | | | | | |
-2. Total by-product revenues from:
+2. Total by-product revenues from: | | | | | | | |
 a. Pollution control facilities | 10 | | | | | | |
 b. Other smelter processing | 11 | | | | | | |
 3. Total co-product and by-product revenues | 12 | | | | | | |
-Schedule B.2—Pre-Control Cost Forecast
-[Smelter identification]
+Schedule B.2—Pre-Control Cost Forecast [Smelter identification]
 | Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990
-A. Forecast production labor cost:
+A. Forecast production labor cost: | | | | | | | |
 1. Direct labor hours | 01 | | | | | | |
 2. Average hourly wage rate | 02 | | | | | | |
 3. Total wage payments | 03 | | | | | | |
 4. Supplemental employee benefits | 04 | | | | | | |
 5. Total production labor cost | 05 | | | | | | |
-B. Forecast energy costs:
-1. Electricity:
+B. Forecast energy costs: | | | | | | | |
+1. Electricity: | | | | | | | |
 a. Quantity in kilowatt hours | 06 | | | | | | |
 b. Price per kwh | 07 | | | | | | |
 c. Total electricity payments | 08 | | | | | | |
-2. Natural gas:
+2. Natural gas: | | | | | | | |
 a. Quantity in mcf | 09 | | | | | | |
 b. Price per mcf | 10 | | | | | | |
 c. Total natural gas payments | 11 | | | | | | |
-3. Coal:
+3. Coal: | | | | | | | |
 a. Quantity in tons | 12 | | | | | | |
 b. Price per ton | 13 | | | | | | |
 c. Total coal payments | 14 | | | | | | |
-4. Fuel oil:
+4. Fuel oil: | | | | | | | |
 a. Quantity in gallons | 15 | | | | | | |
 b. Price per gallon | 16 | | | | | | |
 c. Total fuel oil payments | 17 | | | | | | |
-5. Other (specify):
+5. Other (specify): | | | | | | | |
 a. Quantity (specific units) | 18 | | | | | | |
 b. Price per unit | 19 | | | | | | |
 c. Total payments | 20 | | | | | | |
 6. Total energy costs | 21 | | | | | | |
-Schedule B.3—Pre-Control Forecast Profit and Loss Summary
-[Smelter identification]
+Schedule B.3—Pre-Control Forecast Profit and Loss Summary [Smelter identification]
 | Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990
-A. Forecast operating revenues:
-1. Smelter revenues—unaffiliated parties | 01 | | | | | | |
-2. Smelter revenues—affiliated parties | 02 | | | | | | |
-3. Co-product and by-product sales | 03 | | | | | | |
-4. Other operating revenues | 04 | | | | | | |
-5. Total operating revenues | 05 | | | | | |
-B. Forecast cost of sales:
-1. Material costs | 06 | | | | | | |
-2. Production labor costs | 07 | | | | | |
-3. Energy costs | 08 | | | | | | |
-4. Pollution control costs | 09 | | | | | | |
-5. Production overhead | 10 | | | | | | |
-6. Other production costs | 11 | | | | | | |
-7. Total cost of sales | 12 | | | | | | |
-C. Forecast gross operating profit | 13 | | | | | | |
-D. Forecast other operating expenses:
-1. Selling, general and administrative expenses | 14 | | | | | | |
-2. Taxes, other than income tax | 15 | | | | | | |
-3. Research costs | 16 | | | | | | |
-4. Depreciation and amortization:
-a. Pollution control facilities | 17 | | | | | | |
-b. Other smelter facilities | 18 | | | | | | |
-5. Interest | 19 | | | | | | |
-6. Miscellaneous operating expenses | 20 | | | | | | |
-7. Total other operating expenses | 21 | | | | | | |
-E. Forecast income from operations | 22 | | | | | | |
-Schedule B.4—Constant Controls Revenue Forecast
-[Smelter identification]
-| Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990
-A. Forecast smelter revenues—unaffiliated parties:
-1. Concentrates processed | 01 | | | | | | |
-2. Smelting charge | 02 | | | | | | |
-3. Total smelter revenues | 03 | | | | | | |
-4. Average product grade | 04 | | | | | | |
-B. Forecast smelter revenues—affiliated parties:
-1. Concentrates processed | 05 | | | | | | |
-2. Smelting charge | 06 | | | | | | |
-3. Total smelter revenues | 07 | | | | | | |
-4. Average product grade | 08
-C. Forecast co-product and by-product sales:
-1. Total co-product revenues | 09 | | | | | | |
-2. Total by-product revenues from:
-a. Pollution control facilities | 10 | | | | | | |
-b. Other smelter processing | 11 | | | | | | |
-3. Total co-product and by-product revenues | 12 | | | | | | |
-Schedule B.5—Constant Controls Cost Forecast
-[Smelter identification]
-| Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990
-A. Forecast production labor cost:
-1. Direct labor hours | 01 | | | | | | |
-2. Average hourly wage rate | 02 | | | | | | |
-3. Total wage payments | 03 | | | | | | |
-4. Supplemental employee benefits | 04 | | | | | | |
-5. Total production labor cost | 05 | | | | | | |
-B. Forecast energy costs:
-1. Electricity:
-a. Quantity in kilowatt hours | 06 | | | | | | |
-b. Price per kwh | 07 | | | | | | |
-c. Total electricity payments | 08 | | | | | | |
-2. Natural gas:
-a. Quantity in mcf | 09 | | | | | | |
-b. Price per mcf | 10 | | | | | | |
-c. Total natural gas payments | 11 | | | | | | |
-3. Coal:
-a. Quantity in tons | 12 | | | | | | |
-b. Price per ton | 13 | | | | | | |
-c. Total coal payments | 14 | | | | | | |
-4. Fuel oil:
-a. Quantity in gallons | 15 | | | | | | |
-b. Price per gallon | 16 | | | | | | |
-c. Total fuel oil payments | 17 | | | | | | |
-5. Other (specify):
-a. Quantity (specific units) | 18 | | | | | | |
-b. Price per unit | 19 | | | | | | |
-c. Total payments | 20 | | | | | | |
-6. Total energy costs | 21 | | | | | | |
-Schedule B.6—Constant Controls Profit and Loss Summary for the Profit Protection Test
-[Smelter identification]
-| Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990
-A. Forecast operating revenues:
+A. Forecast operating revenues: | | | | | | | |
 1. Smelter revenues—unaffiliated parties | 01 | | | | | | |
 2. Smelter revenues—affiliated parties | 02 | | | | | | |
 3. Co-product and by-product sales | 03 | | | | | | |
 4. Other operating revenues | 04 | | | | | | |
 5. Total operating revenues | 05 | | | | | | |
-B. Forecast cost of sales:
+B. Forecast cost of sales: | | | | | | | |
 1. Material costs | 06 | | | | | | |
 2. Production labor costs | 07 | | | | | | |
 3. Energy costs | 08 | | | | | | |
@@ -977,21 +890,96 @@ B. Forecast cost of sales:
 6. Other production costs | 11 | | | | | | |
 7. Total cost of sales | 12 | | | | | | |
 C. Forecast gross operating profit | 13 | | | | | | |
-D. Forecast other operating expenses:
+D. Forecast other operating expenses: | | | | | | | |
 1. Selling, general and administrative expenses | 14 | | | | | | |
 2. Taxes, other than income tax | 15 | | | | | | |
 3. Research costs | 16 | | | | | | |
-4. Depreciation and amortization:
+4. Depreciation and amortization: | | | | | | | |
 a. Pollution control facilities | 17 | | | | | | |
 b. Other smelter facilities | 18 | | | | | | |
 5. Interest | 19 | | | | | | |
 6. Miscellaneous operating expenses | 20 | | | | | | |
 7. Total other operating expenses | 21 | | | | | | |
 E. Forecast income from operations | 22 | | | | | | |
-Schedule B.7—Profit Protection Test
-[Smelter identification]
+Schedule B.4—Constant Controls Revenue Forecast [Smelter identification]
+| Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990
+A. Forecast smelter revenues—unaffiliated parties: | | | | | | | |
+1. Concentrates processed | 01 | | | | | | |
+2. Smelting charge | 02 | | | | | | |
+3. Total smelter revenues | 03 | | | | | | |
+4. Average product grade | 04 | | | | | | |
+B. Forecast smelter revenues—affiliated parties: | | | | | | | |
+1. Concentrates processed | 05 | | | | | | |
+2. Smelting charge | 06 | | | | | | |
+3. Total smelter revenues | 07 | | | | | | |
+4. Average product grade | 08 | | | | | | |
+C. Forecast co-product and by-product sales: | | | | | | | |
+1. Total co-product revenues | 09 | | | | | | |
+2. Total by-product revenues from: | | | | | | | |
+a. Pollution control facilities | 10 | | | | | | |
+b. Other smelter processing | 11 | | | | | | |
+3. Total co-product and by-product revenues | 12 | | | | | | |
+Schedule B.5—Constant Controls Cost Forecast [Smelter identification]
+| Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990
+A. Forecast production labor cost: | | | | | | | |
+1. Direct labor hours | 01 | | | | | | |
+2. Average hourly wage rate | 02 | | | | | | |
+3. Total wage payments | 03 | | | | | | |
+4. Supplemental employee benefits | 04 | | | | | | |
+5. Total production labor cost | 05 | | | | | | |
+B. Forecast energy costs: | | | | | | | |
+1. Electricity: | | | | | | | |
+a. Quantity in kilowatt hours | 06 | | | | | | |
+b. Price per kwh | 07 | | | | | | |
+c. Total electricity payments | 08 | | | | | | |
+2. Natural gas: | | | | | | | |
+a. Quantity in mcf | 09 | | | | | | |
+b. Price per mcf | 10 | | | | | | |
+c. Total natural gas payments | 11 | | | | | | |
+3. Coal: | | | | | | | |
+a. Quantity in tons | 12 | | | | | | |
+b. Price per ton | 13 | | | | | | |
+c. Total coal payments | 14 | | | | | | |
+4. Fuel oil: | | | | | | | |
+a. Quantity in gallons | 15 | | | | | | |
+b. Price per gallon | 16 | | | | | | |
+c. Total fuel oil payments | 17 | | | | | | |
+5. Other (specify): | | | | | | | |
+a. Quantity (specific units) | 18 | | | | | | |
+b. Price per unit | 19 | | | | | | |
+c. Total payments | 20 | | | | | | |
+6. Total energy costs | 21 | | | | | | |
+Schedule B.6—Constant Controls Profit and Loss Summary for the Profit Protection Test [Smelter identification]
+| Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990
+A. Forecast operating revenues: | | | | | | | |
+1. Smelter revenues—unaffiliated parties | 01 | | | | | | |
+2. Smelter revenues—affiliated parties | 02 | | | | | | |
+3. Co-product and by-product sales | 03 | | | | | | |
+4. Other operating revenues | 04 | | | | | | |
+5. Total operating revenues | 05 | | | | | | |
+B. Forecast cost of sales: | | | | | | | |
+1. Material costs | 06 | | | | | | |
+2. Production labor costs | 07 | | | | | | |
+3. Energy costs | 08 | | | | | | |
+4. Pollution control costs | 09 | | | | | | |
+5. Production overhead | 10 | | | | | | |
+6. Other production costs | 11 | | | | | | |
+7. Total cost of sales | 12 | | | | | | |
+C. Forecast gross operating profit | 13 | | | | | | |
+D. Forecast other operating expenses: | | | | | | | |
+1. Selling, general and administrative expenses | 14 | | | | | | |
+2. Taxes, other than income tax | 15 | | | | | | |
+3. Research costs | 16 | | | | | | |
+4. Depreciation and amortization: | | | | | | | |
+a. Pollution control facilities | 17 | | | | | | |
+b. Other smelter facilities | 18 | | | | | | |
+5. Interest | 19 | | | | | | |
+6. Miscellaneous operating expenses | 20 | | | | | | |
+7. Total other operating expenses | 21 | | | | | | |
+E. Forecast income from operations | 22 | | | | | | |
+Schedule B.7—Profit Protection Test [Smelter identification]
 | Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990 | Total
-A. Pre-control case:
+A. Pre-control case: | | | | | | | | |
 1. Net income from operations | 01 | | | | | | | | XXXX
 2. Discount factors | 02 | | | | | | | | XXXX
 3. Present value of future net income | 03 | | | | | | | | XXXX
@@ -1000,7 +988,7 @@ A. Pre-control case:
 6. Present value of horizon value | 06 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
 7. Present value of future net income | 07 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
 8. Total present value | 08 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
-B. Constant controls case:
+B. Constant controls case: | | | | | | | | |
 1. Net income from operations | 09 | | | | | | | | XXXX
 2. Discount factors | 10 | | | | | | | | XXXX
 3. Present value of future net income | 11 | | | | | | | | XXXX
@@ -1010,16 +998,15 @@ B. Constant controls case:
 7. Present value of future net income | 15 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
 8. Total present value | 16 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
 C. Ratio of total present value of constant controls case to total, present value of base case | 17 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
-Schedule C.1—Constant Controls Profit and Loss Summary for the Rate of Return Test
-[Smelter identification]
+Schedule C.1—Constant Controls Profit and Loss Summary for the Rate of Return Test [Smelter identification]
 | Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990
-A. Forecast operating revenues:
+A. Forecast operating revenues: | | | | | | | |
 1. Smelter revenues—unaffilated parties | 01 | | | | | | |
 2. Smelter revenues—affiliated parties | 02 | | | | | | |
 3. Co-product and by-product sales | 03 | | | | | | |
 4. Other operating revenues | 04 | | | | | | |
 5. Total operating revenues | 05 | | | | | | |
-B. Forecast cost of sales:
+B. Forecast cost of sales: | | | | | | | |
 1. Material costs | 06 | | | | | | |
 2. Production labor costs | 07 | | | | | | |
 3. Energy costs | 08 | | | | | | |
@@ -1028,11 +1015,11 @@ B. Forecast cost of sales:
 6. Other production costs | 11 | | | | | | |
 7. Total cost of sales | 12 | | | | | | |
 C. Forecast gross operating profit | 13 | | | | | | |
-D. Forecast other operating expenses:
+D. Forecast other operating expenses: | | | | | | | |
 1. Selling, general and administrative expenses | 14 | | | | | | |
 2. Taxes, other than income tax | 15 | | | | | | |
 3. Research costs | 16 | | | | | | |
-4. Depreciation and amortization
+4. Depreciation and amortization | | | | | | | |
 a. Pollution control facilities | 17 | | | | | | |
 b. Other smelter facilities | 18 | | | | | | |
 5. Interest on short-term debt | 19 | | | | | | |
@@ -1041,8 +1028,7 @@ b. Other smelter facilities | 18 | | | | | | |
 E. Forecast income from operations | 22 | | | | | | |
 F. Forecast income taxes | 23 | | | | | | |
 G. Forecast net income from operations | 24 | | | | | | |
-Schedule C.2—Constant Controls Sustaining Capital Investment Forecast
-[Smelter identification]
+Schedule C.2—Constant Controls Sustaining Capital Investment Forecast [Smelter identification]
 Sustaining capital | Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990
 1. Land | 01 | | | | | | |
 2. Buildings and improvements | 02 | | | | | | |
@@ -1051,21 +1037,20 @@ Sustaining capital | Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990
 5. Pollution control facilities | 05 | | | | | | |
 6. Other fixed assets | 06 | | | | | | |
 7. Total smelter sustaining capital | 07 | | | | | | |
-Schedule C.3—Historical Capital Investment in Constant Dollars
-[Smelter identification]
+Schedule C.3—Historical Capital Investment in Constant Dollars [Smelter identification]
 Items from 1983 balance sheet | Line | Nominal dollars | Constant dollars
-A. Current assets:
+A. Current assets: | | |
 1. Cash on hand and deposit | 01 | |
 2. Temporary cash investments | 02 | |
-3. Trade receivables, net:
+3. Trade receivables, net: | | |
 a. Unaffiliated customers | 03 | |
 b. Affiliated customers | 04 | |
-4. Inventories:
+4. Inventories: | | |
 a. Raw materials and products | 05 | |
 b. Other materials and supplies | 06 | |
 5. Other current assets | 07 | |
 6. Total current assets | 08 | |
-B. Property, plant and equipment:
+B. Property, plant and equipment: | | |
 1. Land | 09 | |
 2. Buildings and improvements | 10 | |
 3. Machinery and equipment | 11 | |
@@ -1077,8 +1062,8 @@ B. Property, plant and equipment:
 9. Net smelter investment | 17 | |
 C. Other noncurrent assets | 18 | |
 D. Total smelter capital investment | 19 | |
-E. Current liabilities:
-1. Trade accounts and notes payable:
+E. Current liabilities: | | |
+1. Trade accounts and notes payable: | | |
 a. Unaffiliated suppliers | 20 | |
 b. Affiliated suppliers | 21 | |
 2. Other expense accruals | 22 | |
@@ -1086,23 +1071,22 @@ b. Affiliated suppliers | 21 | |
 4. Other current liabilities | 24 | |
 5. Total current liabilities | 25 | |
 F. Net smelter capital investment | 26 | |
-Schedule C.4—Rate of Return Test
-[Smelter identification]
+Schedule C.4—Rate of Return Test [Smelter identification]
 | Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990 | Total
-A. Operating cash flow projection:
+A. Operating cash flow projection: | | | | | | | | |
 1. Net income from operations | 01 | | | | | | | | XXXX
-2. Depreciation and amortization:
+2. Depreciation and amortization: | | | | | | | | |
 a. Pollution control facilities | 02 | | | | | | | | XXXX
 b. Other smelter facilities | 03 | | | | | | | | XXXX
 3. Operating cash flow | 04 | | | | | | | | XXXX
-4. Capital expenditure projections:
+4. Capital expenditure projections: | | | | | | | | |
 a. Constant controls | 05 | | | | | | | | XXXX
 b. Sustaining capital | 06 | | | | | | | | XXXX
 c. Total | 07 | | | | | | | | XXXX
 5. Net cash flow projections | 08 | | | | | | | | XXXX
 6. Discount factors | 09 | | | | | | | | XXXX
 7. Present value of future cash flows | 10 | | | | | | | | XXXX
-B. Net present value:
+B. Net present value: | | | | | | | | |
 1. Horizon value | 11 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
 2. Discount factor | 12 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
 3. Present value of horizon value | 13 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
@@ -1110,22 +1094,22 @@ B. Net present value:
 5. Total present value | 15 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
 6. Net smelter capital investment in constant dollars | 16 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
 7. Net present value | 17 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
-Schedule C.5—Horizon Value of Cash Flows
-[Smelter identification]
-| Line | Final forecast years | 1989 | 1990 | Horizon years | 1991 | 1992 | 1993 | 1994 | 1995 | Total
-A. Depreciation-free horizon value:
+Schedule C.5—Horizon Value of Cash Flows [Smelter identification]
+| Line | Final forecast years | Horizon years
+1989 | 1990 | 1991 | 1992 | 1993 | 1994 | 1995 | Total
+A. Depreciation-free horizon value: | | | | | | | | |
 1. Net cash flow projections | 01 | | | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX
-2. Depreciation tax savings:
+2. Depreciation tax savings: | | | | | | | | |
 a. Depreciation and amortization | 02 | | | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX
 b. Marginal tax rate | 03 | | | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX
 c. Tax savings | 04 | | | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX
-3. Depreciation-free net cash flows:
+3. Depreciation-free net cash flows: | | | | | | | | |
 a. Nominal dollar values | 05 | | | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX
 b. 1990 dollar values | 06 | | | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX
 c. Average | 07 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
 4. Horizon factor | 08 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
 5. Depreciation-free horizon value | 09 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
-B. Depreciation tax savings over the horizon period:
+B. Depreciation tax savings over the horizon period: | | | | | | | | |
 1. Depreciation and amortization | 10 | XXXX | XXXX | | | | | | XXXX
 2. Marginal tax rate | 11 | XXXX | XXXX | | | | | | XXXX
 3. Tax savings | 12 | XXXX | XXXX | | | | | | XXXX
@@ -1133,66 +1117,63 @@ B. Depreciation tax savings over the horizon period:
 5. Present value of tax savings | 14 | XXXX | XXXX | | | | | | XXXX
 6. Total present value of tax savings | 15 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
 C. Horizon Value | 16 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
-Schedule D.1—Interim Controls Revenue Forecast
-[Smelter Identification]
+Schedule D.1—Interim Controls Revenue Forecast [Smelter Identification]
 | Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990
-A. Forecast smelter revenues—unaffiliated parties:
+A. Forecast smelter revenues—unaffiliated parties: | | | | | | | |
 1. Concentrates processed | 01 | | | | | | |
 2. Smelting charge | 02 | | | | | | |
 3. Total smelter revenues | 03 | | | | | | |
 4. Average product grade | 04 | | | | | | |
-B. Forecast smelter revenues—affiliated parties:
+B. Forecast smelter revenues—affiliated parties: | | | | | | | |
 1. Concentrates processed | 05 | | | | | | |
 2. Smelting charge | 06 | | | | | | |
 3. Total smelter revenues | 07 | | | | | | |
 4. Average product grade | 08 | | | | | | |
-C. Forecast co-product and by-product sales:
+C. Forecast co-product and by-product sales: | | | | | | | |
 1. Total co-product revenues | 09 | | | | | | |
-2. Total by-product revenues from:
+2. Total by-product revenues from: | | | | | | | |
 a. Pollution control facilities | 10 | | | | | | |
 b. Other smelter processing | 11 | | | | | | |
 3. Total co-product and by-product revenues: | 12 | | | | | | |
-Schedule D.2—Interim Controls Cost Forecast
-[Smelter Identification]
+Schedule D.2—Interim Controls Cost Forecast [Smelter Identification]
 | Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990
-A. Forecast production labor cost:
+A. Forecast production labor cost: | | | | | | | |
 1. Direct labor hours | 01 | | | | | | |
 2. Average hourly wage rate | 02 | | | | | | |
 3. Total wage payments | 03 | | | | | | |
 4. Supplemental employee benefits | 04 | | | | | | |
 5. Total production labor cost | 05 | | | | | | |
-B. Forecast energy costs:
-1. Electricity:
+B. Forecast energy costs: | | | | | | | |
+1. Electricity: | | | | | | | |
 a. Quantity in kilowatt hours | 06 | | | | | | |
 b. Price per kwh | 07 | | | | | | |
 c. Total electricity payments | 08 | | | | | | |
-2. Natural gas:
+2. Natural gas: | | | | | | | |
 a. Quantity in mcf | 09 | | | | | | |
 b. Price per mcf | 10 | | | | | | |
 c. Total natural gas payments | 11 | | | | | | |
-3. Coal:
+3. Coal: | | | | | | | |
 a. Quantity in tons | 12 | | | | | | |
 b. Price per ton | 13 | | | | | | |
 c. Total coal payments | 14 | | | | | | |
-4. Fuel oil:
+4. Fuel oil: | | | | | | | |
 a. Quantity in gallons | 15 | | | | | | |
 b. Price per gallon | 16 | | | | | | |
 c. Total fuel oil payments | 17 | | | | | | |
-5. Other (specify):
+5. Other (specify): | | | | | | | |
 a. Quantity (specific units) | 18 | | | | | | |
 b. Price per unit | 18 | | | | | | |
 c. Total payments | 20 | | | | | | |
 6. Total energy costs | 21 | | | | | | |
-Schedule D.3—Interim Controls Forecast Profit and Loss Summary
-[Smelter identification]
+Schedule D.3—Interim Controls Forecast Profit and Loss Summary [Smelter identification]
 | Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990
-A. Forecast operating revenues:
+A. Forecast operating revenues: | | | | | | | |
 1. Smelter revenues—unaffiliated parties | 01 | | | | | | |
 2. Smelter revenues—affiliated parties | 02 | | | | | | |
 3. Co-product and by-product sales | 03 | | | | | | |
 4. Other operating revenues | 04 | | | | | | |
 5. Total operating revenues | 05 | | | | | | |
-B. Forecast cost of sales:
+B. Forecast cost of sales: | | | | | | | |
 1. Material costs | 06 | | | | | | |
 2. Production labor costs | 07 | | | | | | |
 3. Energy costs | 08 | | | | | | |
@@ -1201,11 +1182,11 @@ B. Forecast cost of sales:
 6. Other production costs | 11 | | | | | | |
 7. Total cost of sales | 12 | | | | | | |
 C. Forecast gross operating profit | 13 | | | | | | |
-D. Forecast other operating expenses:
+D. Forecast other operating expenses: | | | | | | | |
 1. Selling, general and administrative expenses | 14 | | | | | | |
 2. Taxes, other than income tax | 15 | | | | | | |
 3. Research costs | 16 | | | | | | |
-4. Depreciation and amortization:
+4. Depreciation and amortization: | | | | | | | |
 a. Pollution control facilities | 17 | | | | | | |
 b. Other smelter facilities | 18 | | | | | | |
 5. Interest on short-term debt | 19 | | | | | | |
@@ -1214,8 +1195,7 @@ b. Other smelter facilities | 18 | | | | | | |
 E. Forecast income from operations | 22 | | | | | | |
 F. Forecast income taxes | 23 | | | | | | |
 G. Forecast net income from operations | 24 | | | | | | |
-Schedule D.4—Interim Control Sustaining Capital Investment Forecast
-[Smelter identification]
+Schedule D.4—Interim Control Sustaining Capital Investment Forecast [Smelter identification]
 Sustaining capital | Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990
 1. Land | 01 | | | | | | |
 2. Buildings and improvements | 02 | | | | | | |
@@ -1224,11 +1204,11 @@ Sustaining capital | Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990
 5. Pollution control facilities | 05 | | | | | | |
 6. Other fixed assets | 06 | | | | | | |
 7. Total smelter sustaining capital | 07 | | | | | | |
-Schedule D.5—Cash Proceeds From Liquidation
-[Smelter identification]
-| Line | (1) Estimated Liquidation value | (2) Reported net book value | (3) Total gain (loss) | Gain (loss) subject to taxation as— | (4) Ordinary income | (5) Capital gain
+Schedule D.5—Cash Proceeds From Liquidation [Smelter identification]
+| Line | (1) Estimated Liquidation value | (2) Reported net book value | (3) Total gain (loss) | Gain (loss) subject to taxation as—
+(4) Ordinary income | (5) Capital gain
 A. Total current assets | 01 | | | XXXXX | XXXXX | XXXXX
-B. Property, plant and equipment:
+B. Property, plant and equipment: | | | | | |
 1. Land | 02 | | | | |
 2. Buildings and improvements | 03 | | | | |
 3. Machinery and equipment | 04 | | | | |
@@ -1245,24 +1225,23 @@ H. Net Taxable Gain (or loss) | 14 | XXXXX | XXXXX | XXXXX | |
 I. Income tax rate | 15 | XXXXX | XXXXX | XXXXX | |
 J. Income tax on gain (loss) | 16 | XXXXX | XXXXX | XXXXX | |
 K. After tax cash proceeds from liquidation | 17 | | XXXXX | XXXXX | XXXXX | XXXXX
-Schedule D.6—Permanent Waiver From Interim Controls Test
-[Smelter identification]
+Schedule D.6—Permanent Waiver From Interim Controls Test [Smelter identification]
 | Line | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990 | Total
-A. Operating Cash flow projection:
+A. Operating Cash flow projection: | | | | | | | | |
 1. Net income from operations | 01 | | | | | | | | XXXX
 2. Net income adjustments | 02 | | | | | | | | XXXX
-3. Depreciation and amortization:
+3. Depreciation and amortization: | | | | | | | | |
 a. Pollution control facilities | 03 | | | | | | | | XXXX
 b. Other smelter facilities | 04 | | | | | | | | XXXX
 4. Operating cash flow | 05 | | | | | | | | XXXX
-5. Capital expenditure projections:
+5. Capital expenditure projections: | | | | | | | | |
 a. Interim controls | 06 | | | | | | | | XXXX
 b. Sustaining capital | 07 | | | | | | | | XXXX
 c. Total | 08 | | | | | | | | XXXX
 6. Net cash flow projections | 09 | | | | | | | | XXXX
 7. Discount factors | 10 | | | | | | | | XXXX
 8. Present value of future cash flows | 11 | | | | | | | | XXXX
-B. Net present value:
+B. Net present value: | | | | | | | | |
 1. Horizon value | 12 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
 2. Discount factor | 13 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
 3. Present value of horizon value | 14 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
@@ -1270,22 +1249,22 @@ B. Net present value:
 5. Total present value | 16 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
 6. Current salvage value | 17 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
 7. Net present value | 18 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
-Schedule D.7—Horizon Value of Cash Flows
-[Smelter identification]
-| Line | Final forecast years | 1989 | 1990 | Horizon years | 1991 | 1992 | 1993 | 1994 | 1995 | Total
-A. Depreciation-free horizon value:
+Schedule D.7—Horizon Value of Cash Flows [Smelter identification]
+| Line | Final forecast years | Horizon years | Total
+1989 | 1990 | 1991 | 1992 | 1993 | 1994 | 1995
+A. Depreciation-free horizon value: | | | | | | | | |
 1. Net cash flow projections | 01 | | | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX
-2. Depreciation tax savings:
+2. Depreciation tax savings: | | | | | | | | |
 a. Depreciation and amortization | 02 | | | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX
 b. Marginal tax rate | 03 | | | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX
 c. Tax savings | 04 | | | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX
-3. Depreciation-free net cash flows:
+3. Depreciation-free net cash flows: | | | | | | | | |
 a. Nominal dollar values | 05 | | | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX
 b. 1990 dollar values | 06 | | | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX
 c. Average | 07 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
 4. Horizon factor | 08 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
 5. Depreciation-free horizon value | 09 | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
-B. Depreciation tax savings over the horizon period:
+B. Depreciation tax savings over the horizon period: | | | | | | | | |
 1. Depreciation and amortization | 10 | XXXX | XXXX | | | | | | XXXX
 2. Marginal tax rate | 11 | XXXX | XXXX | | | | | | XXXX
 3. Tax savings | 12 | XXXX | XXXX | | | | | | XXXX
