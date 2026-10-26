@@ -1,10 +1,1 @@
 # Appendix 1 to Part 46—Tables of Minimum Primary Economic Terms Data For Pre-Enactment and Transition Swaps
-ER12JN12.009
-ER12JN12.010
-ER12JN12.011
-ER12JN12.012
-ER12JN12.013
-ER12JN12.014
-ER12JN12.015
-ER12JN12.016
-ER12JN12.017
