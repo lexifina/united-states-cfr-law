@@ -36,9 +36,7 @@ A. For all the base levels except the base level which includes 4,000 pound, man
 4,500 lb/A3 transmission | 13.2203 mpg.
 5,000 lb/A3 transmission | 10.6006 mpg.
 B. Since data from more than one vehicle configuration are included in the 4,000-pound, manual four-speed transmission base level, this fuel economy is harmonically averaged in proportion to the percentage of total sales of all vehicle configurations tested within that base level represented by each vehicle configuration tested within that base level.
-ER27DE06.083
 Base level: M4 transmission, 4000 pounds:
-ER27DE06.084
 Therefore, the 4000 pound, M4 transmission fuel economy is 14.6840 miles per gallon.
 Note that the car line of the test vehicle using a given engine makes no difference—only the weight and transmission do.
 Step IV. For each model type offered by the manufacturer with that basic engine, determine the sales fraction represented by each inertia weight/transmission class combination and the corresponding fuel economy.
@@ -57,14 +55,9 @@ Castor | A3 | 0.2000 at 4,500 lb | 13.2203
 | | 0.8000 at 5,000 lb | 10.6006
 Step V. Determine fuel economy for each model type (that is, car line/basic engine/transmission class combination).
 Ajax, 3.0 liter, 6 cylinder, A3 transmission, model type MPG is calculated as follows:
-ER27DE06.085
 Similarly, Ajax and Dodo 3.0 liter, 6 cylinder, M4 model type MPG is calculated as follows:
-ER27DE06.086
 Dodo 3.0 liter, 6 cylinder, A3 model type MPG is calculated as follows:
-ER27DE06.087
-Boredom III 3.0 liter 6 cylinder M4 model type MPG = 14.6840 mpg, which rounds to 15 mi./gal1
+Boredom III 3.0 liter 6 cylinder M4 model type MPG = 14.6840 mpg, which rounds to 15 mi./gal 1
 Boredom III 3.0 liter, 6 cylinder, A3 model type MPG is calculated as follows:
-ER27DE06.088
 Castor 3.0 liter, 6 cylinder, A3 model type MPG is calculated as follows:
-ER27DE06.089
 Note that even though no Dodo was actually tested, this approach permits its fuel economy figure to be estimated, based on the inertia weight distribution of projected Dodo sales within a specific engine and transmission grouping.

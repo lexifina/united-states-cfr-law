@@ -1,25 +1,15 @@
 # Appendix VI to Part 600—Sample Fuel Economy Labels and Style Guidelines for 2013 and Later Model Years
 This appendix illustrates label content and format for 2013 and later model years. Manufacturers must make a good faith effort to conform to these templates and follow these formatting specifications. EPA will make available electronic files for creating labels.
 A. Gasoline-Fueled Vehicles, Including Hybrid Gasoline-Electric Vehicles With No Plug-In Capabilities
-ER06JY11.046
 B. Gasoline-Fueled Vehicles, Including Hybrid Gasoline-Electric Vehicles with No Plug-In Capabilities, with Gas Guzzler Tax
-ER06JY11.047
 C. Diesel-Fueled Vehicles, Including Hybrid Diesel-Electric Vehicles with No Plug-In Capabilities
-ER06JY11.048
 D. Dual Fuel Vehicle Label (Ethanol/Gasoline)
-ER06JY11.049
 E. Dual Fuel Vehicle Label (Ethanol/Gasoline) with Optional Display of Driving Range Values
-ER06JY11.050
 F. Hydrogen Fuel Cell Vehicle Label
-ER06JY11.051
 G. Natural Gas Vehicle Label
-ER06JY11.052
 H. Plug-in Hybrid Electric Vehicle Label, Series PHEV
-ER06JY11.053
 I. Plug-in Hybrid Electric Vehicle Label, Blended PHEV
-ER06JY11.054
 J. Electric Vehicle Label
-ER06JY11.055
 K. Style Guidelines
 (a) Fuel economy labels must be printed on white or very light paper. Any label markings for which colors are not specified must be in black and white as shown. Some portions of the label must be filled with a blue or blue-shaded color as specified in subpart D of this part. Use the color blue defined in CMYK values of 40c-10m-0y-0k, or it may be specified as Pantone 283.
 (b) Use a Univers font from Adobe or another source that properly reproduces the labels as shown in the samples. Use Light (L), Roman (R), Bold (B) or Black (Bl) font weights as noted. Font size is shown in points, followed by leading specifications in points to indicate line spacing (if applicable). Use white characters in black fields; use black characters in all other places. Unless noted otherwise, text is left-justified with a 1.6 millimeter margin. Some type may need tracking adjustments to fit in the designated space.
@@ -28,5 +18,3 @@ K. Style Guidelines
 (2) Each rectangular shape or area, including the overall label outline, has an upper left corner that is square (0 radius). All other corners have a 3.2 millimeter radius.
 (d) Fuel and vehicle icons, range and slider bars, and agency names and logos are available electronically.
 (e) The following figures illustrate the formatting specifications:
-ER06JY11.056
-ER06JY11.057
