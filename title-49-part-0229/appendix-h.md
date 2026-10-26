@@ -19,7 +19,6 @@ III. Procedures for Measurement
 (B) Centered in the middle of the cab between the right and left seats, and 56 inches above the floor;
 (C) 30 inches above the center of the right seat; and
 (D) One foot (0.3 meters) from the center of the back interior wall of the cab and 56 inches above the floor. See Figure 1.
-ER27OC06.005
 (5) The observer shall stand as far from the microphone as possible. No more than two people (tester, observers or crew members) shall be inside the cab during measurements.
 (6) The locomotive shall be tested under self-loading conditions if so equipped. If the locomotive is not equipped with self load, the locomotive shall be tested with no-load (No-load defined as maximum RPM—no electric load) and an adjustment of 3 dB added to the measured level.
 (7) The sound level shall be recorded at the highest horsepower or throttle setting.
