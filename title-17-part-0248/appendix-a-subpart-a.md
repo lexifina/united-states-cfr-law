@@ -3,13 +3,6 @@ A. Any person may view and print this form at: http://www.sec.gov/about/forms/se
 B. Use of Form S-P by brokers, dealers, and investment companies, and investment advisers registered with the Commission constitutes compliance with the notice content requirements of §§ 248.6 and 248.7 of this part.
 FORM S-P—Model Privacy Form
 A. The Model Privacy Form
-ER01DE09.049
-ER01DE09.050
-ER01DE09.051
-ER01DE09.052
-ER01DE09.053
-ER01DE09.054
-ER01DE09.055
 B. General Instructions
 1. How the Model Privacy Form is Used
 (a) The model form may be used, at the option of a financial institution, including a group of financial institutions that use a common privacy notice, to meet the content requirements of the privacy notice and opt-out notice set forth in §§ 248.6 and 248.7 of this part.
