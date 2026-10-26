@@ -1,11 +1,5 @@
 # Appendix A to Part 313—Model Privacy Form
 A. The Model Privacy Form
-ER01DE09.035
-ER01DE09.036
-ER01DE09.037
-ER01DE09.038
-ER01DE09.039
-ER01DE09.041
 1. How the Model Privacy Form is Used
 (a) The model form may be used, at the option of a financial institution, including a group of financial institutions that use a common privacy notice, to meet the content requirements of the privacy notice and opt-out notice set forth in §§ 313.6 and 313.7 of this part.
 (b) The model form is a standardized form, including page layout, content, format, style, pagination, and shading. Institutions seeking to obtain the safe harbor through use of the model form may modify it only as described in these Instructions.
