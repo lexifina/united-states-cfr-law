@@ -55,5 +55,4 @@ Secured Liabilities at Failure
 Federal home loan bank advances, secured federal funds purchased and repurchase agreements are assumed to be fully secured. Foreign deposits are treated as fully secured because of the potential for ring fencing.
 Loss Severity Ratio Calculation
 The FDIC's loss given failure (LGD) is calculated as:
-ER25FE11.013
 An end-of-quarter loss severity ratio is LGD divided by total domestic deposits at quarter-end and the loss severity measure for the scorecard is an average of end-of-period loss severity ratios for three most recent quarters.
