@@ -465,8 +465,8 @@ Decay product: Isotope formed by the radioactive decay of some other isotope. Th
 Detection Limit (DL): Lowest amount that can be distinguished from the normal random "noise" of an analytical instrument or method. For HRS purposes, the detection limit used is the method detection limit (MDL) or, for real-time field instruments, the detection limit of the instrument as used in the field.
 Dilution weight: Parameter in the HRS surface water migration pathway that reduces the point value assigned to targets as the flow or depth of the relevant surface water body increases. [unitless].
 Distance weight: Parameter in the HRS air migration pathway, ground water migration pathway, and the soil exposure component of the soil exposure and subsurface intrusion pathway that reduces the point value assigned to targets as their distance increases from the site. [unitless].
-Distribution coefficient (K d): Measure of the extent of partitioning of a substance between geologic materials (for example, soil, sediment, rock) and water (also called partition coefficient). The distribution coefficient is used in the HRS in evaluating the mobility of a substance for the ground water migration pathway. [ml/g].
-ED 10 (10 percent effective dose): Estimated dose associated with a 10 percent increase in response over control groups. For HRS purposes, the response considered is cancer. [milligrams toxicant per kilogram body weight per day (mg/kg-day)].
+Distribution coefficient (Kd): Measure of the extent of partitioning of a substance between geologic materials (for example, soil, sediment, rock) and water (also called partition coefficient). The distribution coefficient is used in the HRS in evaluating the mobility of a substance for the ground water migration pathway. [ml/g].
+ED10 (10 percent effective dose): Estimated dose associated with a 10 percent increase in response over control groups. For HRS purposes, the response considered is cancer. [milligrams toxicant per kilogram body weight per day (mg/kg-day)].
 Food and Drug Administration Action Level (FDAAL): Under section 408 of the Federal Food, Drug and Cosmetic Act, as amended, concentration of a poisonous or deleterious substance in human food or animal feed at or above which FDA will take legal action to remove adulterated products from the market. Only FDAALs established for fish and shellfish apply in the HRS.
 Half-life: Length of time required for an initial concentration of a substance to be halved as a result of loss through decay. The HRS considers five decay processes for assigning surface water persistence: Biodegradation, hydrolysis, photolysis, radioactive decay, and volatilization. The HRS considers two decay processes for assigning subsurface intrusion degradation: Biodegradation and hydrolysis.
 Hazardous substance: CERCLA hazardous substances, pollutants, and contaminants as defined in CERCLA sections 101(14) and 101(33), except where otherwise specifically noted in the HRS.
@@ -479,10 +479,10 @@ HRS "site score": Composite of the four HRS pathway scores.
 Henry's law constant: Measure of the volatility of a substance in a dilute solution of water at equilibrium. It is the ratio of the vapor pressure exerted by a substance in the gas phase over a dilute aqueous solution of that substance to its concentration in the solution at a given temperature. For HRS purposes, use the value reported at or near 25 °C. [atmosphere-cubic meters per mole (atm-m 3/mol)].
 Hydrolysis: Chemical reaction of a substance with water.
 Indoor air: The air present within a structure.
-Inhalation Unit Risk (IUR): The upper-bound excess lifetime cancer risk estimated to result from continuous exposure to an agent (i.e., hazardous substance) at a concentration of 1µg/m3 in air.
+Inhalation Unit Risk (IUR): The upper-bound excess lifetime cancer risk estimated to result from continuous exposure to an agent (i.e., hazardous substance) at a concentration of 1µg/m 3 in air.
 Karst: Terrain with characteristics of relief and drainage arising from a high degree of rock solubility in natural waters. The majority of karst occurs in limestones, but karst may also form in dolomite, gypsum, and salt deposits. Features associated with karst terrains typically include irregular topography, sinkholes, vertical shafts, abrupt ridges, caverns, abundant springs, and/or disappearing streams. Karst aquifers are associated with karst terrain.
-LC 50 (lethal concentration, 50 percent): Concentration of a substance in air [typically micrograms per cubic meter (µg/m3)] or water [typically micrograms per liter (µg/l)] that kills 50 percent of a group of exposed organisms. The LC50 is used in the HRS in assessing acute toxicity.
-LD 50 (lethal dose, 50 percent): Dose of a substance that kills 50 percent of a group of exposed organisms. The LD50 is used in the HRS in assessing acute toxicity [milligrams toxicant per kilogram body weight (mg/kg)].
+LC50 (lethal concentration, 50 percent): Concentration of a substance in air [typically micrograms per cubic meter (µg/m 3)] or water [typically micrograms per liter (µg/l)] that kills 50 percent of a group of exposed organisms. The LC50 is used in the HRS in assessing acute toxicity.
+LD50 (lethal dose, 50 percent): Dose of a substance that kills 50 percent of a group of exposed organisms. The LD50 is used in the HRS in assessing acute toxicity [milligrams toxicant per kilogram body weight (mg/kg)].
 Maximum Contaminant Level (MCL): Under section 1412 of the Safe Drinking Water Act, as amended, the maximum permissible concentration of a substance in water that is delivered to any user of a public water supply.
 Maximum Contaminant Level Goal (MCLG): Under section 1412 of the Safe Drinking Water Act, as amended, a nonenforceable concentration for a substance in drinking water that is protective of adverse human health effects and allows an adequate margin of safety.
 Method Detection Limit (MDL): Lowest concentration of analyte that a method can detect reliably in either a sample or blank.
@@ -490,8 +490,8 @@ Mixed radioactive and other hazardous substances: Material containing both radio
 National Ambient Air Quality Standards (NAAQS): Primary standards for air quality established under sections 108 and 109 of the Clean Air Act, as amended.
 National Emission Standards for Hazardous Air Pollutants (NESHAPs): Standards established for substances listed under section 112 of the Clean Air Act, as amended. Only those NESHAPs promulgated in ambient concentration units apply in the HRS.
 Non-Aqueous Phase Liquid (NAPL): Contaminants and substances that are water-immiscible liquids composed of constituents with varying degrees of water solubility.
-Octanol-water partition coefficient (K ow [or P]): Measure of the extent of partitioning of a substance between water and octanol at equilibrium. The Kow is determined by the ratio between the concentration in octanol divided by the concentration in water at equilibrium. [unitless].
-Organic carbon partition coefficient (K oc): Measure of the extent of partitioning of a substance, at equilibrium, between organic carbon in geologic materials and water. The higher the Koc, the more likely a substance is to bind to geologic materials than to remain in water. [ml/g].
+Octanol-water partition coefficient (Kow [or P]): Measure of the extent of partitioning of a substance between water and octanol at equilibrium. The Kow is determined by the ratio between the concentration in octanol divided by the concentration in water at equilibrium. [unitless].
+Organic carbon partition coefficient (Koc): Measure of the extent of partitioning of a substance, at equilibrium, between organic carbon in geologic materials and water. The higher the Koc, the more likely a substance is to bind to geologic materials than to remain in water. [ml/g].
 Photolysis: Chemical reaction of a substance caused by direct absorption of solar energy (direct photolysis) or caused by other substances that absorb solar energy (indirect photolysis).
 Preferential subsurface intrusion pathways: Subsurface features such as animal burrows, cracks in walls, spaces around utility lines, or drains through which a hazardous substance moves more easily into a regularly occupied structure.
 Radiation: Particles (alpha, beta, neutrons) or photons (x- and gamma-rays) emitted by radionuclides.
@@ -516,7 +516,7 @@ Source: Any area where a hazardous substance has been deposited, stored, dispose
 Subslab: The area immediately beneath a regularly occupied structure with a basement foundation or a slab-on-grade foundation. Subslab samples are collected to determine the concentration of hazardous substances in the soil gas beneath a home or building.
 Subsurface intrusion: The migration of hazardous substances from the unsaturated zone and/or ground water into overlying structures.
 Target distance limit: Maximum distance over which targets for the site are evaluated. The target distance limit varies by HRS pathway.
-Unit risk: The upper-bound excess lifetime cancer risk estimated to result from continuous exposure to an agent (i.e., hazardous substance) at a concentration of 1 µg/L in water, or 1 µg/m3 in air.
+Unit risk: The upper-bound excess lifetime cancer risk estimated to result from continuous exposure to an agent (i.e., hazardous substance) at a concentration of 1 µg/L in water, or 1 µg/m 3 in air.
 Unsaturated zone: The portion of subsurface between the land surface and the zone of saturation. It extends from the ground surface to the top of the shallowest ground water table (excluding localized or perched water).
 Uranium Mill Tailings Radiation Control Act (UMTRCA) Standards: Standards for radionuclides established under sections 102, 104, and 108 of the Uranium Mill Tailings Radiation Control Act, as amended.
 Vapor pressure: Pressure exerted by the vapor of a substance when it is in equilibrium with its solid or liquid form at a given temperature. For HRS purposes, use the value reported at or near 25 °C. [atmosphere or torr].
@@ -544,7 +544,6 @@ Or the descriptors:
 The ground water and air migration pathways use single threat evaluations, while the surface water migration and soil exposure and subsurface intrusion pathways use multiple threat evaluations. Three threats are evaluated for the surface water migration pathway: Drinking water, human food chain, and environmental. These threats are evaluated for two separate migration components—overland/flood migration and ground water to surface water migration. Two components are evaluated for the soil exposure and subsurface intrusion pathway: Soil exposure and subsurface intrusion. The soil exposure component evaluates two threats: Resident population and nearby population, and the subsurface intrusion component is a single threat evaluation.
 The HRS is structured to provide a parallel evaluation for each of these pathways, components, and threats. This section focuses on these parallel evaluations, starting with the calculation of the HRS site score and the individual pathway scores.
 2.1.1 Calculation of HRS site score. Scores are first calculated for the individual pathways as specified in sections 2 through 7 and then are combined for the site using the following root-mean-square equation to determine the overall HRS site score, which ranges from 0 to 100:
-ER09JA17.062
 2.1.2 Calculation of pathway score. Table 2-1, which is based on the air migration pathway, illustrates the basic parameters used to calculate a pathway score. As Table 2-1 shows, each pathway (component or threat) score is the product of three "factor categories": Likelihood of release, waste characteristics, and targets. (The soil exposure and subsurface intrusion pathway uses likelihood of exposure rather than likelihood of release.) Each of the three factor categories contains a set of factors that are assigned numerical values and combined as specified in sections 2 through 7. The factor values are rounded to the nearest integer, except where otherwise noted.
 2.1.3 Common evaluations. Evaluations common to all four HRS pathways include:
 • Characterizing sources.
@@ -552,35 +551,34 @@ ER09JA17.062
 —Identifying hazardous substances associated with each source (or area of observed contamination, or observed exposure, or subsurface contamination).
 —Identifying hazardous substances available to a pathway.
 Table 2-1—Sample Pathway Scoresheet
-Factor category | Maximum value | Valueassigned
+Factor category | Maximum value | Value assigned
 Likelihood of Release
-1. Observed Release | 550
-2. Potential to Release | 500
-3. Likelihood of Release (higher of lines 1 and 2) | 550
+1. Observed Release | 550 |
+2. Potential to Release | 500 |
+3. Likelihood of Release (higher of lines 1 and 2) | 550 |
 Waste Characteristics
-4. Toxicity/Mobility | (a)
-5. Hazardous Waste Quantity | (a)
-6. Waste Characteristics | 100
+4. Toxicity/Mobility | (a) |
+5. Hazardous Waste Quantity | (a) |
+6. Waste Characteristics | 100 |
 Targets
-7. Nearest Individual
-7a. Level I | 50
-7b. Level II | 45
-7c. Potential Contamination | 20
-7d. Nearest Individual (higher of lines 7a, 7b, or 7c) | 50
-8. Population | (b)
-8a. Level I | (b)
-8b. Level II | (b)
-8c. Potential Contamination | (b)
-8d. Total Population (lines 8a+8b+8c)
-9. Resources | 5
-10. Sensitive Environments | (b)
-10a. Actual Contamination | (b)
-10b. Potential Environments | (b)
-10c. Sensitive Environments (lines 10a+10b) | (b)
-11. Targets (lines 7d+8d+9+10c) | (b)
-12. Pathway Score is the product of Likelihood of Release, Waste Characteristics, and Targets, divided by 82,500. Pathway scores are limited to a maximum of 100 points
-a Maximum value applies to waste characteristics category. The product of lines 4 and 5 is used in Table 2-7 to derive the value for the waste characteristics factor category.
-b There is no limit to the human population or sensitive environments factor values. However, the pathway score based solely on sensitive environments is limited to a maximum of 60 points.
+7. Nearest Individual | |
+7a. Level I | 50 |
+7b. Level II | 45 |
+7c. Potential Contamination | 20 |
+7d. Nearest Individual (higher of lines 7a, 7b, or 7c) | 50 |
+8. Population | (b) |
+8a. Level I | (b) |
+8b. Level II | (b) |
+8c. Potential Contamination | (b) |
+8d. Total Population (lines 8a+8b+8c) | |
+9. Resources | 5 |
+10. Sensitive Environments | (b) |
+10a. Actual Contamination | (b) |
+10b. Potential Environments | (b) |
+10c. Sensitive Environments (lines 10a+10b) | (b) |
+11. Targets (lines 7d+8d+9+10c) | (b) |
+12. Pathway Score is the product of Likelihood of Release, Waste Characteristics, and Targets, divided by 82,500. Pathway scores are limited to a maximum of 100 points | |
+a Maximum value applies to waste characteristics category. The product of lines 4 and 5 is used in Table 2-7 to derive the value for the waste characteristics factor category. b There is no limit to the human population or sensitive environments factor values. However, the pathway score based solely on sensitive environments is limited to a maximum of 60 points.
 • Scoring likelihood of release (or likelihood of exposure) factor category.
 —Scoring observed release (or observed exposure or observed contamination).
 —Scoring potential to release when there is no observed release.
@@ -602,23 +600,26 @@ Section 2 focuses on evaluations common at the pathway, component, and threat le
 Table 2-2 presents a sample worksheet for source characterization.
 2.2.1 Identify sources. For the three migration pathways, identify the sources at the site that contain hazardous substances. Identify the migration pathway(s) to which each source applies. For the soil exposure and subsurface intrusion pathway, identify areas of observed contamination, areas of observed exposure, and/or areas of subsurface contamination at the site (see sections 5.1.0 and 5.2.0).
 Table 2-2—Sample Source Characterization Worksheet
-Source: __
+Source: ____
 A. Source dimensions and hazardous waste quantity.
-Hazardous constituent quantity: __
-Hazardous wastestream quantity: __
-Volume: __
-Area: __
-Area of observed contamination: __
-Area of observed exposure: __
-Area of subsurface contamination: __
+Hazardous constituent quantity: ____
+Hazardous wastestream quantity: ____
+Volume: ____
+Area: ____
+Area of observed contamination: ____
+Area of observed exposure: ____
+Area of subsurface contamination: ____
 B. Hazardous substances associated with the source.
-Hazardous substance | Available to pathway | Air | Gas | Particulate | Ground Water(GW) | Surface Water(SW) | Overland/flood | GW to SW | Soil Exposure/Subsurface Intrusion (SESSI) | Soilexposure | Resident | Nearby | Subsurface Intrusion | Area ofobserved exposure | Area ofsubsurface contamination
+Hazardous substance | Available to pathway
+Air | Ground Water (GW) | Surface Water (SW) | Soil Exposure/Subsurface Intrusion (SESSI)
+Gas | Particulate | Overland/flood | GW to SW | Soil exposure | Subsurface Intrusion
+Resident | Nearby | Area of observed exposure | Area of subsurface contamination
 2.2.2 Identify hazardous substances associated with a source. For each of the three migration pathways, consider those hazardous substances documented in a source (for example, by sampling, labels, manifests, oral or written statements) to be associated with that source when evaluating each pathway. In some instances, a hazardous substance can be documented as being present at a site (for example, by labels, manifests, oral or written statements), but the specific source(s) containing that hazardous substance cannot be documented. For the three migration pathways, in those instances when the specific source(s) cannot be documented for a hazardous substance, consider the hazardous substance to be present in each source at the site, except sources for which definitive information indicates that the hazardous substance was not or could not be present.
 For an area of observed contamination in the soil exposure component of the soil exposure and subsurface intrusion pathway, consider only those hazardous substances that meet the criteria for observed contamination for that area (see section 5.1.0) to be associated with that area when evaluating the pathway.
 For an area of observed exposure or area of subsurface contamination (see section 5.2.0) in the subsurface intrusion component of the soil exposure and subsurface intrusion pathway, consider only those hazardous substances that:
 • Meet the criteria for observed exposure, or
-• Meet the criteria for observed release in an area of subsurface contamination and have a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10− 5 atm-m3/mol, or
-• Meet the criteria for an observed release in a structure within, or in a sample from below, an area of observed exposure and have a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10− 5 atm-m3/mol.
+• Meet the criteria for observed release in an area of subsurface contamination and have a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10− 5 atm-m 3/mol, or
+• Meet the criteria for an observed release in a structure within, or in a sample from below, an area of observed exposure and have a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10− 5 atm-m 3/mol.
 2.2.3 Identify hazardous substances available to a pathway. In evaluating each migration pathway, consider the following hazardous substances available to migrate from the sources at the site to the pathway:
 • Ground water migration.
 —Hazardous substances that meet the criteria for an observed release (see section 2.3) to ground water.
@@ -641,26 +642,23 @@ In evaluating the soil exposure and subsurface intrusion pathway, consider the f
 —All hazardous substances that meet the criteria for observed contamination at areas with an attractiveness/accessibility factor value greater than 0 (see section 5.1.2.1.1).
 • Subsurface intrusion component.
 —All hazardous substances that meet the criteria for observed exposure at the site (see section 5.2.0).
-—All hazardous substances with a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10− 5 atm-m3/mol that meet the criteria for an observed release in an area of subsurface contamination (see section 5.2.0).
+—All hazardous substances with a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10− 5 atm-m 3/mol that meet the criteria for an observed release in an area of subsurface contamination (see section 5.2.0).
 —All hazardous substances that meet the criteria for an observed release in a structure within, or in a sample from below, an area of observed exposure (see section 5.2.0).
 2.3 Likelihood of release. Likelihood of release is a measure of the likelihood that a waste has been or will be released to the environment. The likelihood of release factor category is assigned the maximum value of 550 for a migration pathway whenever the criteria for an observed release are met for that pathway. If the criteria for an observed release are met, do not evaluate potential to release for that pathway. When the criteria for an observed release are not met, evaluate potential to release for that pathway, with a maximum value of 500. The evaluation of potential to release varies by migration pathway (see sections 3, 4 and 6).
 Establish an observed release either by direct observation of the release of a hazardous substance into the media being evaluated (for example, surface water) or by chemical analysis of samples appropriate to the pathway being evaluated (see sections 3, 4 and 6). The minimum standard to establish an observed release by chemical analysis is analytical evidence of a hazardous substance in the media significantly above the background level. Further, some portion of the release must be attributable to the site. Use the criteria in Table 2-3 as the standard for determining analytical significance. (The criteria in Table 2-3 are also used in establishing observed contamination for the soil exposure component and for establishing areas of observed exposure and areas of subsurface contamination in the subsurface intrusion component of the soil exposure and subsurface intrusion pathway, see section 5.1.0 and section 5.2.0). Separate criteria apply to radionuclides (see section 7.1.1).
 Table 2-3—Observed Release Criteria for Chemical Analysis
-Sample Measurement < Sample Quantitation Limit.a
+Sample Measurement < Sample Quantitation Limit. a
 No observed release is established.
-Sample Measurement ≥ Sample Quantitation Limit.a
+Sample Measurement ≥ Sample Quantitation Limit. a
 An observed release is established as follows:
-• If the background concentration is not detected (or is less than the detection limit), an observed release is established when the sample measurement equals or exceeds the sample quantitation limit.a
+• If the background concentration is not detected (or is less than the detection limit), an observed release is established when the sample measurement equals or exceeds the sample quantitation limit. a
 • If the background concentration equals or exceeds the detection limit, an observed release is established when the sample measurement is 3 times or more above the background concentration.
-a If the sample quantitation limit (SQL) cannot be established, determine if there is an observed release as follows:
-—If the sample analysis was performed under the EPA Contract Laboratory Program, use the EPA contract-required quantitation limit (CRQL) in place of the SQL.
-—If the sample analysis is not performed under the EPA Contract Laboratory Program, use the detection limit (DL) in place of the SQL.
+a If the sample quantitation limit (SQL) cannot be established, determine if there is an observed release as follows: —If the sample analysis was performed under the EPA Contract Laboratory Program, use the EPA contract-required quantitation limit (CRQL) in place of the SQL. —If the sample analysis is not performed under the EPA Contract Laboratory Program, use the detection limit (DL) in place of the SQL.
 2.4 Waste characteristics. The waste characteristics factor category includes the following factors: Hazardous waste quantity, toxicity, and as appropriate to the pathway or threat being evaluated, mobility, persistence, degradation, and/or bioaccumulation (or ecosystem bioaccumulation) potential.
 2.4.1 Selection of substance potentially posing greatest hazard. For all pathways (components and threats), select the hazardous substance potentially posing the greatest hazard for the pathway (component or threat) and use that substance in evaluating the waste characteristics category of the pathway (component or threat). For the three migration pathways (and threats), base the selection of this hazardous substance on the toxicity factor value for the substance, combined with its mobility, persistence, and/or bioaccumulation (or ecosystem bioaccumulation) potential factor values, as applicable to the migration pathway (or threat). For the soil exposure component of the soil exposure and subsurface intrusion pathway, base the selection on the toxicity factor alone. For the subsurface intrusion component of the soil exposure and subsurface intrusion pathway, base the selection on the toxicity factor value for the substance, combined with its degradation factor value. Evaluation of the toxicity factor is specified in section 2.4.1.1. Use and evaluation of the mobility, persistence, degradation, and/or bioaccumulation (or ecosystem bioaccumulation) potential factors vary by pathway (component or threat) and are specified under the appropriate pathway (component or threat) section. Section 2.4.1.2 identifies the specific factors that are combined with toxicity in evaluating each pathway (component or threat).
 2.4.1.1 Toxicity factor. Evaluate toxicity for those hazardous substances at the site that are available to the pathway being scored. For all pathways and threats, except the surface water environmental threat, evaluate human toxicity as specified below. For the surface water environmental threat, evaluate ecosystem toxicity as specified in section 4.1.4.2.1.1.
 Establish human toxicity factor values based on quantitative dose-response parameters for the following three types of toxicity:
 • Cancer—Use slope factors (also referred to as cancer potency factors) combined with weight-of-evidence ratings for carcinogenicity for all exposure routes except inhalation. Use inhalation unit risk (IUR) for inhalation exposure. If an inhalation unit risk or a slope factor is not available for a substance, use its ED10 value to estimate a slope factor as follows:
-ER09JA17.063
 • Noncancer toxicological responses of chronic exposure—use reference dose (RfD) or reference concentration (RfC) values as applicable.
 • Noncancer toxicological responses of acute exposure—use acute toxicity parameters, such as the LD50.
 Assign human toxicity factor values to a hazardous substance using Table 2-4, as follows:
@@ -669,39 +667,39 @@ Assign human toxicity factor values to a hazardous substance using Table 2-4, as
 • If neither an RfD/RfC nor slope factor/inhalation unit risk value is available, assign the hazardous substance an overall toxicity factor value from Table 2-4 based solely on acute toxicity. That is, consider acute toxicity in Table 2-4 only when both RfD/RfC and slope factor/IUR values are not available.
 • If neither an RfD/RfC, nor slope factor/inhalation unit risk, nor acute toxicity value is available, assign the hazardous substance an overall toxicity factor value of 0 and use other hazardous substances for which information is available in evaluating the pathway.
 Table 2-4—Toxicity Factor Evaluation
-| Assignedvalue
+| Assigned value
 Chronic Toxicity (Human)
-Reference dose (RfD) (mg/kg-day):
+Reference dose (RfD) (mg/kg-day): |
 RfD < 0.0005 | 10,000
 0.0005 ≤ RfD < 0.005 | 1,000
 0.005 ≤ RfD < 0.05 | 100
 0.05 ≤ RfD < 0.5 | 10
 0.5 ≤ RfD | 1
 RfD not available | 0
-Reference concentration (RfC) (mg/m3):
+Reference concentration (RfC) (mg/m 3): |
 RfC < 0.0001 | 10,000
 0.0001 ≤ RfC < 0.006 | 1,000
 0.006 ≤ RfC < 0.2 | 100
 0.2 ≤ RfC < 2.0 | 10
 2.0 ≤ RfC | 1
 RfC not available | 0
-Carcinogenicity (human) | A or Carcinogenic to humans | B or Likely to be carcinogenicto humans | C or Suggestive evidence ofcarcinogenic potential | Assignedvalue
-Weight-of-evidence a /Slope factor (mg/kg-day) −1
+Carcinogenicity (human)
+A or Carcinogenic to humans | B or Likely to be carcinogenic to humans | C or Suggestive evidence of carcinogenic potential | Assigned value
+Weight-of-evidence a/Slope factor (mg/kg-day)−1
 0.5 ≤ SF b | 5 ≤ SF | 50 ≤ SF | 10,000
 0.05 ≤ SF < 0.5 | 0.5 ≤ SF < 5 | 5 ≤ SF < 50 | 1,000
 SF < 0.05 | 0.05 ≤ SF < 0.5 | 0.5 ≤ SF < 5 | 100
 | SF < 0.05 | SF < 0.5 | 10
 Slope factor not available | Slope factor not available | Slope factor not available | 0
-Weight-of-evidence a /Inhalation unit risk (µg/m 3)
+Weight-of-evidence a/Inhalation unit risk (µg/m 3)
 0.00004 ≤ IUR c | 0.0004 ≤ IUR | 0.004 ≤ IUR | 10,000
 0.00001 ≤ IUR < 0.00004 | 0.0001 ≤ IUR < 0.0004 | 0.001 ≤ IUR < 0.004 | 1,000
 IUR < 0.00001 | 0.00001 ≤ IUR < 0.0001 | 0.0001 ≤ IUR < 0.001 | 100
 | < 0.00001 | IUR < 0.0001 | 10
 Inhalation unit risk not available | Inhalation unit risk not available | Inhalation unit risk not available | 0
-a A, B, and C, as well as Carcinogenic to humans, Likely to be carcinogenic to humans, and Suggestive evidence of carcinogenic potential refer to weight-of-evidence categories. Assign substances with a weight-of-evidence category of D (inadequate evidence of carcinogenicity) or E (evidence of lack of carcinogenicity), as well as inadequate information to assess carcinogenic potential and not likely to be carcinogenic to humans a value of 0 for carcinogenicity.
-b SF = Slope factor.
-c IUR = Inhalation Unit Risk.
-Acute Toxicity (human) | Oral LD50 (mg/kg) | Dermal LD50 (mg/kg) | Dust or mist LC50 (mg/l) | Gas or vapor LC50 (ppm) | Assigned value
+a A, B, and C, as well as Carcinogenic to humans, Likely to be carcinogenic to humans, and Suggestive evidence of carcinogenic potential refer to weight-of-evidence categories. Assign substances with a weight-of-evidence category of D (inadequate evidence of carcinogenicity) or E (evidence of lack of carcinogenicity), as well as inadequate information to assess carcinogenic potential and not likely to be carcinogenic to humans a value of 0 for carcinogenicity. b SF = Slope factor. c IUR = Inhalation Unit Risk.
+Acute Toxicity (human)
+Oral LD50 (mg/kg) | Dermal LD50 (mg/kg) | Dust or mist LC50 (mg/l) | Gas or vapor LC50 (ppm) | Assigned value
 LD50 < 5 | LD50 < 2 | LC50 < 0.2 | LC50 < 20 | 1,000
 5 ≤ LD50 < 50 | 2 ≤ LD50 < 20 | 0.2 ≤ LC50 < 2 | 20 ≤ LC50 <200 | 100
 50 ≤ LD50 < 500 | 20 ≤ LD50 < 200 | 2 ≤ LC50 <20 | 200 ≤ LC50 <2,000 | 10
@@ -729,16 +727,16 @@ For the soil exposure and subsurface intrusion pathway, determine toxicity and t
 • Soil exposure and subsurface intrusion—subsurface intrusion component.
 —Determine a combined human toxicity/degradation factor value for each hazardous substance being evaluated that:
 ▪ Meets the criteria for observed exposure, or
-▪ Meets the criteria for observed release in an area of subsurface contamination and has a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10−5 atm-m3/mol, or
-▪ Meets the criteria for an observed release in a structure within, or in a sample from below, an area of observed exposure and has a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10−5 atm-m3/mol.
+▪ Meets the criteria for observed release in an area of subsurface contamination and has a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10−5 atm-m 3/mol, or
+▪ Meets the criteria for an observed release in a structure within, or in a sample from below, an area of observed exposure and has a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10−5 atm-m 3/mol.
 —Select the hazardous substance with the highest combined factor value and use that substance in evaluating the waste characteristics factor category (see sections 5.2.1.2.1 and 5.2.1.2).
 2.4.2 Hazardous waste quantity. Evaluate the hazardous waste quantity factor by first assigning each source (or area of observed contamination, area of observed exposure, or area of subsurface contamination) a source hazardous waste quantity value as specified below. Sum these values to obtain the hazardous waste quantity factor value for the pathway being evaluated.
 In evaluating the hazardous waste quantity factor for the three migration pathways, allocate hazardous substances and hazardous wastestreams to specific sources in the manner specified in section 2.2.2, except: Consider hazardous substances and hazardous wastestreams that cannot be allocated to any specific source to constitute a separate "unallocated source" for purposes of evaluating only this factor for the three migration pathways. Do not, however, include a hazardous substance or hazardous wastestream in the unallocated source for a migration pathway if there is definitive information indicating that the substance or wastestream could only have been placed in sources with a containment factor value of 0 for that migration pathway.
 In evaluating the hazardous waste quantity factor for the soil exposure component of the soil exposure and subsurface intrusion pathway, allocate to each area of observed contamination only those hazardous substances that meet the criteria for observed contamination for that area of observed contamination and only those hazardous wastestreams that contain hazardous substances that meet the criteria for observed contamination for that area of observed contamination. Do not consider other hazardous substances or hazardous wastestreams at the site in evaluating this factor for the soil exposure component of the soil exposure and subsurface intrusion pathway.
 In evaluating the hazardous waste quantity factor for the subsurface intrusion component of the soil exposure and subsurface intrusion pathway, allocate to each area of observed exposure or area of subsurface contamination only those hazardous substances and hazardous wastestreams that contain hazardous substances that:
 • Meet the criteria for observed exposure, or
-• Meet the criteria for observed release in an area of subsurface contamination and have a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10−5 atm-m3/mol, or
-• Meet the criteria for an observed release in a structure within, or in a sample from below, an area of observed exposure and have a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10−5 atm-m3/mol.
+• Meet the criteria for observed release in an area of subsurface contamination and have a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10−5 atm-m 3/mol, or
+• Meet the criteria for an observed release in a structure within, or in a sample from below, an area of observed exposure and have a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10−5 atm-m 3/mol.
 Do not consider other hazardous substances or hazardous wastestreams at the site in evaluating this factor for the subsurface intrusion component of the soil exposure and subsurface intrusion pathway. When determining the hazardous waste quantity for multi-subunit structures, use the procedures identified in section 5.2.1.2.2.
 2.4.2.1 Source hazardous waste quantity. For each of the three migration pathways, assign a source hazardous waste quantity value to each source (including the unallocated source) having a containment factor value greater than 0 for the pathway being evaluated. Consider the unallocated source to have a containment factor value greater than 0 for each migration pathway.
 For the soil exposure component of the soil exposure and subsurface intrusion pathway, assign a source hazardous waste quantity value to each area of observed contamination, as applicable to the threat being evaluated.
@@ -764,29 +762,26 @@ Based on this mass, designated as C, assign a value for hazardous constituent qu
 If the hazardous constituent quantity for the source (or area of observed contamination or area of observed exposure) is adequately determined (that is, the total mass of all CERCLA hazardous substances in the source and releases from the source [or in the area of observed contamination or area of observed exposure] is known or is estimated with reasonable confidence), do not evaluate the other three measures discussed below. Instead assign these other three measures a value of 0 for the source (or area of observed contamination or area of observed exposure) and proceed to section 2.4.2.1.5.
 If the hazardous constituent quantity is not adequately determined, assign the source (or area of observed contamination or area of observed exposure) a value for hazardous constituent quantity based on the available data and proceed to section 2.4.2.1.2.
 Table 2-5—Hazardous Waste Quantity Evaluation Equations
-Tier | Measure | Units | Equationfor assigning value a
+Tier | Measure | Units | Equation for assigning value a
 A | Hazardous constituent quantity (C) | lb | C.
 B b | Hazardous wastestream quantity (W) | lb | W/5,000.
-C b | Volume (V)
-| Landfill | yd3 | V/2,500.
-| Surface impoundment | yd3 | V/2.5.
-| Surface impoundment (buried/backfilled) | yd3 | V/2.5.
+C b | Volume (V) | |
+| Landfill | yd 3 | V/2,500.
+| Surface impoundment | yd 3 | V/2.5.
+| Surface impoundment (buried/backfilled) | yd 3 | V/2.5.
 | Drums c | gallon | V/500.
-| Tanks and containers other than drums | yd3 | V/2.5.
-| Contaminated soil | yd3 | V/2,500.
-| Pile | yd3 | V/2.5.
-| Other | yd3 | V/2.5.
-D b | Area (A)
-| Landfill | ft2 | A/3,400.
-| Surface impoundment | ft2 | A/13.
-| Surface impoundment (buried/backfilled) | ft2 | A/13.
-| Land treatment | ft2 | A/270.
-| Pile d | ft2 | A/13.
-| Contaminated soil | ft2 | A/34,000.
-a Do not round to nearest integer.
-b Convert volume to mass when necessary: 1 ton = 2,000 pounds = 1 cubic yard = 4 drums = 200 gallons.
-c If actual volume of drums is unavailable, assume 1 drum=50 gallons.
-d Use land surface area under pile, not surface area of pile.
+| Tanks and containers other than drums | yd 3 | V/2.5.
+| Contaminated soil | yd 3 | V/2,500.
+| Pile | yd 3 | V/2.5.
+| Other | yd 3 | V/2.5.
+D b | Area (A) | |
+| Landfill | ft 2 | A/3,400.
+| Surface impoundment | ft 2 | A/13.
+| Surface impoundment (buried/backfilled) | ft 2 | A/13.
+| Land treatment | ft 2 | A/270.
+| Pile d | ft 2 | A/13.
+| Contaminated soil | ft 2 | A/34,000.
+a Do not round to nearest integer. b Convert volume to mass when necessary: 1 ton = 2,000 pounds = 1 cubic yard = 4 drums = 200 gallons. c If actual volume of drums is unavailable, assume 1 drum=50 gallons. d Use land surface area under pile, not surface area of pile.
 2.4.2.1.2 Hazardous wastestream quantity. Evaluate hazardous wastestream quantity for the source (or area of observed contamination or area of observed exposure) based on the mass of hazardous wastestreams plus the mass of any additional CERCLA pollutants and contaminants (as defined in CERCLA section 101[33], as amended) that are allocated to the source (or area of observed contamination or area of observed exposure). For a wastestream that consists solely of a hazardous waste listed pursuant to section 3001 of RCRA, as amended or that consists solely of a RCRA hazardous waste that exhibits the characteristics identified under section 3001 of RCRA, as amended, include the mass of that entire hazardous waste in the evaluation of this measure.
 Based on this mass, designated as W, assign a value for hazardous wastestream quantity as follows:
 • For the migration pathways, assign the source a value for hazardous wastestream quantity using the Tier B equation of Table 2-5.
@@ -814,8 +809,7 @@ Hazardous waste quantity value | Assigned value
 Greater than 100 to 10,000 | 100
 Greater than 10,000 to 1,000,000 | 10,000
 Greater than 1,000,000 | 1,000,000
-a If the hazardous waste quantity value is greater than 0, but less than 1, round it to 1 as specified in text.
-b For the pathway, if hazardous constituent quantity is not adequately determined, assign a value as specified in the text; do not assign the value of 1.
+a If the hazardous waste quantity value is greater than 0, but less than 1, round it to 1 as specified in text. b For the pathway, if hazardous constituent quantity is not adequately determined, assign a value as specified in the text; do not assign the value of 1.
 For a migration pathway, if the hazardous constituent quantity is adequately determined (see section 2.4.2.1.1) for all sources (or all portions of sources and releases remaining after a removal action), assign the value from Table 2-6 as the hazardous waste quantity factor value for the pathway. If the hazardous constituent quantity is not adequately determined for one or more sources (or one or more portions of sources or releases remaining after a removal action) assign a factor value as follows:
 • If any target for that migration pathway is subject to Level I or Level II concentrations (see section 2.5), assign either the value from Table 2-6 or a value of 100, whichever is greater, as the hazardous waste quantity factor value for that pathway.
 • If none of the targets for that pathway is subject to Level I or Level II concentrations, assign a factor value as follows:
@@ -833,26 +827,26 @@ For the subsurface intrusion component of the soil exposure and subsurface intru
 —If the value that would be assigned from Table 2-6 without consideration of the removal or other temporary response action would be less than 100, assign a value of 10 as the hazardous waste quantity factor value for the component.
 • Otherwise, if none of the targets for the subsurface intrusion component is subject to Level I or Level II concentrations and there has not been a removal action, assign a value from Table 2-6 or a value of 10, whichever is greater.
 2.4.3 Waste characteristics factor category value. Determine the waste characteristics factor category value as specified in section 2.4.3.1 for all pathways and threats, except the surface water-human food chain threat and the surface water-environmental threat. Determine the waste characteristics factor category value for these latter two threats as specified in section 2.4.3.2.
-2.4.3.1 Factor category value. For the pathway (component or threat) being evaluated, multiply the toxicity or combined factor value, as appropriate, from section 2.4.1.2 and the hazardous waste quantity factor value from section 2.4.2.2, subject to a maximum product of 1x108. Based on this waste characteristics product, assign a waste characteristics factor category value to the pathway (component or threat) from Table 2-7.
+2.4.3.1 Factor category value. For the pathway (component or threat) being evaluated, multiply the toxicity or combined factor value, as appropriate, from section 2.4.1.2 and the hazardous waste quantity factor value from section 2.4.2.2, subject to a maximum product of 1x10 8. Based on this waste characteristics product, assign a waste characteristics factor category value to the pathway (component or threat) from Table 2-7.
 Table 2-7—Waste Characteristics Factor Category Values
-Waste characteristics product | Assignedvalue
+Waste characteristics product | Assigned value
 0 | 0
 Greater than 0 to less than 10 | 1
-10 to less than 1x102 | 2
-1x102 to less than 1x103 | 3
-1x103 to less than 1x104 | 6
-1x104 to less than 1x105 | 10
-1x105 to less than 1x106 | 18
-1x106 to less than 1x107 | 32
-1x107 to less than 1x108 | 56
-1x108 to less than 1x109 | 100
-1x109 to less than 1x1010 | 180
-1x1010 to less than 1x1011 | 320
-1x1011 to less than 1x1012 | 560
-1x1012 | 1,000
+10 to less than 1x10 2 | 2
+1x10 2 to less than 1x10 3 | 3
+1x10 3 to less than 1x10 4 | 6
+1x10 4 to less than 1x10 5 | 10
+1x10 5 to less than 1x10 6 | 18
+1x10 6 to less than 1x10 7 | 32
+1x10 7 to less than 1x10 8 | 56
+1x10 8 to less than 1x10 9 | 100
+1x10 9 to less than 1x10 10 | 180
+1x10 10 to less than 1x10 11 | 320
+1x10 11 to less than 1x10 12 | 560
+1x10 12 | 1,000
 2.4.3.2 Factor category value, considering bioaccumulation potential. For the surface water-human food chain threat and the surface water-environmental threat, multiply the toxicity or combined factor value, as appropriate, from section 2.4.1.2 and the hazardous waste quantity factor value from section 2.4.2.2, subject to:
-• A maximum product of 1x1012, and
-• A maximum product exclusive of the bioaccumulation (or ecosystem bioaccumulation) potential factor of 1x108.
+• A maximum product of 1x10 12, and
+• A maximum product exclusive of the bioaccumulation (or ecosystem bioaccumulation) potential factor of 1x10 8.
 Based on the total waste characteristics product, assign a waste characteristics factor category value to these threats from Table 2-7.
 2.5 Targets. The types of targets evaluated include the following:
 • Individual (factor name varies by pathway, component, and threat).
@@ -899,13 +893,11 @@ Treat sets of samples that are not comparable separately and make a separate com
 Select the benchmark(s) applicable to the pathway (component or threat) being evaluated as specified in sections 3 through 6. Compare the concentration of each hazardous substance from the sampling location to its benchmark concentration(s) for that pathway (component or threat). Use only those samples and only those hazardous substances in the sample that meet the criteria for an observed release (or observed contamination or observed exposure) for the pathway, except: Tissue samples from aquatic human food chain organisms may be used as specified in sections 4.1.3.3 and 4.2.3.3. If the concentration of any applicable hazardous substance from any sample equals or exceeds its benchmark concentration, consider the sampling location to be subject to Level I concentrations for that pathway (or threat). If more than one benchmark applies to the hazardous substance, assign Level I if the concentration of the hazardous substance equals or exceeds the lowest applicable benchmark concentration.
 If no hazardous substance individually equals or exceeds its benchmark concentration, but more than one hazardous substance either meets the criteria for an observed release (or observed contamination or observed exposure) for the sample (or comparable samples) or is eligible to be evaluated for a tissue sample (see sections 4.1.3.3 and 4.2.3.3), calculate the indices I and J specified below based on these hazardous substances.
 For those hazardous substances that are carcinogens (that is, those having either a carcinogen weight-of-evidence classification of A, B, or C or a weight-of-evidence classification of carcinogenic to humans, likely to be carcinogenic to humans, or suggestive evidence of carcinogenic potential), calculate an index I for the sample location as follows:
-ER09JA17.064
 Where:
 Ci = Concentration of hazardous substance i in sample (or highest concentration of hazardous substance i from among comparable samples).
 SCi = Screening concentration for cancer corresponding to that concentration that corresponds to its 10−6 individual cancer risk for applicable exposure (inhalation or oral) for hazardous substance i.
 n = Number of applicable hazardous substances in sample (or comparable samples) that are carcinogens and for which an SCi is available.
 For those hazardous substances for which an RfD or RfC is available, calculate an index J for the sample location as follows:
-ER09JA17.065
 Where:
 Cj = Concentration of hazardous substance j in sample (or highest concentration of hazardous substance j from among comparable samples).
 CRj = Screening concentration for noncancer toxicological responses corresponding to RfD or RfC for applicable exposure (inhalation or oral) for hazardous substance j.
@@ -915,7 +907,6 @@ See sections 7.3.1 and 7.3.2 for criteria for determining the level of contamina
 3.0 Ground Water Migration Pathway
 Evaluate the ground water migration pathway based on three factor categories: likelihood of release, waste characteristics, and targets. Figure 3-1 indicates the factors included within each factor category.
 Determine the ground water migration pathway score (Sgw) in terms of the factor category values as follows:
-EC15NO91.145
 where:
 LR = Likelihood of release factor category value.
 WC = Waste characteristics factor category value.
@@ -923,39 +914,36 @@ T = Targets factor category value.
 SF = Scaling factor.
 Table 3-1 outlines the specific calculation procedure.
 Calculate a separate ground water migration pathway score for each aquifer, using the factor category values for that aquifer for likelihood of release, waste characteristics, and targets. In doing so, include both the targets using water from that aquifer and the targets using water from all overlying aquifers through which the hazardous substances would migrate to reach the aquifer being evaluated. Assign the highest ground water migration pathway score that results for any aquifer as the ground water migration pathway score for the site.
-EC02AU92.005
 Table 3-1—Ground Water Migration Pathway Scoresheet
 Factor categories and factors | Maximum value | Value assigned
-Likelihood of Release to an Aquifer:
-1. Observed Release | 550 | ___
-2. Potential to Release:
-2a. Containment | 10 | ___
-2b. Net Precipitation | 10 | ___
-2c. Depth to Aquifer | 5 | ___
-2d. Travel Time | 35 | ___
-2e. Potential to Release [lines 2a(2b + 2c + 2d)] | 500 | ___
-3. Likelihood of Release (higher of lines 1 and 2e) | 550 | ___
-Waste Characteristics:
-4. Toxicity/Mobility | (a) | ___
-5. Hazardous Waste Quantity | (a) | ___
-6. Waste Characteristics | 100 | ___
-Targets:
-7. Nearest Well | 50 | ___
-8. Population:
-8a. Level I Concentrations | (b) | ___
-8b. Level II Concentrations | (b) | ___
-8c. Potential Contamination | (b) | ___
-8d. Population (lines 8a + 8b + 8c) | (b) | ___
-9. Resources | 5 | ___
-10. Wellhead Protection Area | 20 | ___
-11. Targets (lines 7 + 8d + 9 + 10) | (b) | ___
-Ground Water Migration Score for an Aquifer:
-12. Aquifer Score [(lines 3 × 6 × 11) / 82,500] c | 100 | ___
-Ground Water Migration Pathway Score:
-13. Pathway Score (Sgw), (highest value from line 12 for all aquifers evaluated) c | 100 | ___
-a Maximum value applies to waste characteristics category.
-b Maximum value not applicable.
-c Do not round to nearest integer.
+Likelihood of Release to an Aquifer: | |
+1. Observed Release | 550 | ______
+2. Potential to Release: | |
+2a. Containment | 10 | ______
+2b. Net Precipitation | 10 | ______
+2c. Depth to Aquifer | 5 | ______
+2d. Travel Time | 35 | ______
+2e. Potential to Release [lines 2a(2b + 2c + 2d)] | 500 | ______
+3. Likelihood of Release (higher of lines 1 and 2e) | 550 | ______
+Waste Characteristics: | |
+4. Toxicity/Mobility | (a) | ______
+5. Hazardous Waste Quantity | (a) | ______
+6. Waste Characteristics | 100 | ______
+Targets: | |
+7. Nearest Well | 50 | ______
+8. Population: | |
+8a. Level I Concentrations | (b) | ______
+8b. Level II Concentrations | (b) | ______
+8c. Potential Contamination | (b) | ______
+8d. Population (lines 8a + 8b + 8c) | (b) | ______
+9. Resources | 5 | ______
+10. Wellhead Protection Area | 20 | ______
+11. Targets (lines 7 + 8d + 9 + 10) | (b) | ______
+Ground Water Migration Score for an Aquifer: | |
+12. Aquifer Score [(lines 3 × 6 × 11) / 82,500] c | 100 | ______
+Ground Water Migration Pathway Score: | |
+13. Pathway Score (Sgw), (highest value from line 12 for all aquifers evaluated) c | 100 | ______
+a Maximum value applies to waste characteristics category. b Maximum value not applicable. c Do not round to nearest integer.
 3.0.1 General considerations
 3.0.1.1 Ground water target distance limit. The target distance limit defines the maximum distance from the sources at the site over which targets are evaluated. Use a target distance limit of 4 miles for the ground water migration pathway, except when aquifer discontinuities apply (see section 3.0.1.2.2). Furthermore, consider any well with an observed release from a source at the site (see section 3.1.1) to lie within the target distance limit of the site, regardless of the well's distance from the sources at the site.
 For sites that consist solely of a contaminated ground water plume with no identified source, begin measuring the 4-mile target distance limit at the center of the area of observed ground water contamination. Determine the area of observed ground water contamination based on available samples that meet the criteria for an observed release.
@@ -970,7 +958,7 @@ When an aquifer discontinuity is established within the 4-mile target distance l
 • Chemical analysis—an analysis of ground water samples from the aquifer indicates that the concentration of hazardous substance(s) has increased significantly above the background concentration for the site (see section 2.3). Some portion of the significant increase must be attributable to the site to establish the observed release, except: when the source itself consists of a ground water plume with no identified source, no separate attribution is required.
 If an observed release can be established for the aquifer, assign the aquifer an observed release factor value of 550, enter this value in table 3-1, and proceed to section 3.1.3. If an observed release cannot be established for the aquifer, assign an observed release factor value of 0, enter this value in table 3-1, and proceed to section 3.1.2.
 3.1.2 Potential to release. Evaluate potential to release only if an observed release cannot be established for the aquifer. Evaluate potential to release based on four factors: containment, net precipitation, depth to aquifer, and travel time. For sources overlying karst terrain, give any karst aquifer that underlies any portion of the sources at the site special consideration in evaluating depth to aquifer and travel time, as specified in sections 3.1.2.3 and 3.1.2.4.
-3.1.2.1 Containment. Assign a containment factor value from table 3-2 to each source at the site. Select the highest containment factor value assigned to those sources with a source hazardous waste quantity value of 0.5 or more (see section 2.4.2.1.5). (Do not include this minimum size requirement in evaluating any other factor of this pathway.) Assign this highest value as the containment factor value for the aquifer being evaluated. Enter this value in Table ­3-1.
+3.1.2.1 Containment. Assign a containment factor value from table 3-2 to each source at the site. Select the highest containment factor value assigned to those sources with a source hazardous waste quantity value of 0.5 or more (see section 2.4.2.1.5). (Do not include this minimum size requirement in evaluating any other factor of this pathway.) Assign this highest value as the containment factor value for the aquifer being evaluated. Enter this value in Table 3-1.
 If no source at the site meets the minimum size requirement, then select the highest value assigned to the sources at the site and assign it as the containment factor value for the aquifer being evaluated. Enter this value in table 3-1.
 3.1.2.2 Net precipitation. Assign a net precipitation factor value to the site. Figure 3-2 provides computed net precipitation factor values, based on site location. Where necessary, determine the net precipitation factor value as follows:
 • Determine monthly precipitation and monthly evapotranspiration:
@@ -978,42 +966,42 @@ If no source at the site meets the minimum size requirement, then select the hig
 -When local data are not available, use monthly averages from the nearest National Oceanographic and Atmospheric Administration weather station that is in a similar geographic setting.
 Table 3-2—Containment Factor Values for Ground Water Migration Pathway
 Source | Assigned value
-All Sources (Except Surface Impoundments, Land Treatment, Containers, and Tanks)
+All Sources (Except Surface Impoundments, Land Treatment, Containers, and Tanks) |
 Evidence of hazardous substance migration from source area (i.e., source area includes source and any associated containment structures) | 10
 No liner | 10
-No evidence of hazardous substance migration from source area, a liner, and:
+No evidence of hazardous substance migration from source area, a liner, and: |
 (a) None of the following present: (1) maintained engineered cover, or (2) functioning and maintained run-on control system and runoff management system, or (3) functioning leachate collection and removal system immediately above liner | 10
 (b) Any one of the three items in (a) present | 9
 (c) Any two of the items in (a) present | 7
 (d) All three items in (a) present plus a functioning ground water monitoring system | 5
 (e) All items in (d) present, plus no bulk or non-containerized liquids nor materials containing free liquids deposited in source area | 3
-No evidence of hazardous substance migration from source area, double liner with functioning leachate collection and removal system above and between liners, functioning ground water monitoring system, and:
+No evidence of hazardous substance migration from source area, double liner with functioning leachate collection and removal system above and between liners, functioning ground water monitoring system, and: |
 (f) Only one of the following deficiencies present in containment: (1) bulk or noncontainerized liquids or materials containing free liquids deposited in source area, or (2) no or nonfunctioning or nonmaintained run-on control system and runoff management system, or (3) no or nonmaintained engineered cover | 3
 (g) None of the deficiencies in (f) present | 0
 Source area inside or under maintained intact structure that provides protection from precipitation so that neither runoff nor leachate is generated, liquids or materials containing free liquids not deposited in source area, and functioning and maintained run-on control present | 0
-Surface Impoundment
+Surface Impoundment |
 Evidence of hazardous substance migration from surface impoundment | 10
 No liner | 10
 Free liquids present with either no diking, unsound diking, or diking that is not regularly inspected and maintained | 10
-No evidence of hazardous substance migration from surface impoundment, free liquids present, sound diking that is regularly inspected and maintained, adequate freeboard, and:
+No evidence of hazardous substance migration from surface impoundment, free liquids present, sound diking that is regularly inspected and maintained, adequate freeboard, and: |
 (a) Liner | 9
 (b) Liner with functioning leachate collection and removal system below liner, and functioning ground water monitoring system | 5
 (c) Double liner with functioning leachate collection and removal system between liners, and functioning ground water monitoring system | 3
 No evidence of hazardous substance migration from surface impoundment and all free liquids eliminated at closure (either by removal of liquids or solidification of remaining wastes and waste residues) | Evaluate using All sources criteria (with no bulk or free liquid deposited).
-Land Treatment
+Land Treatment |
 Evidence of hazardous substance migration from land treatment zone | 10
 No functioning, maintained, run-on control and runoff management system | 10
-No evidence of hazardous substance migration from land treatment zone and:
+No evidence of hazardous substance migration from land treatment zone and: |
 (a) Functioning and maintained run-on control and runoff management system | 7
 (b) Functioning and maintained run-on control and runoff management system, and vegetative cover established over entire land treatment area | 5
 (c) Land treatment area maintained in compliance with 40 CFR 264.280 | 0
-Containers
+Containers |
 All containers buried | Evaluate using All sources criteria.
 Evidence of hazardous substance migration from container area (i.e., container area includes containers and any associated containment structures) | 10
 No liner (or no essentially impervious base) under container area. | 10
 No diking (or no similar structure) surrounding container area | 10
 Diking surrounding container area unsound or not regularly inspected and maintained | 10
-No evidence of hazardous substance migration from container area, container area surrounded by sound diking that is regularly inspected and maintained, and:
+No evidence of hazardous substance migration from container area, container area surrounded by sound diking that is regularly inspected and maintained, and: |
 (a) Liner (or essentially impervious base) under container area | 9
 (b) Essentially impervious base under container area with liquids collection and removal system | 7
 (c) Containment system includes essentially impervious base, liquids collection system, sufficient capacity to contain 10 percent of volume of all containers, and functioning and maintained run-on control; plus functioning ground water monitoring system, and spilled or leaked hazardous substances and accumulated precipitation removed in timely manner to prevent overflow of collection system, at least weekly inspection of containers, hazardous substances in leaking or deteriorating containers transferred to containers in good condition, and containers sealed except when waste is added or removed | 5
@@ -1021,29 +1009,26 @@ No evidence of hazardous substance migration from container area, container area
 (e) Same as (d) except: double liner under container area with functioning leachate collection and removal system between liners | 3
 Containers inside or under maintained intact structure that provides protection from precipitation so that neither runoff nor leachate would be generated from any unsealed or ruptured containers, liquids or materials containing free liquids not deposited in any container, and functioning and maintained run-off control present | 0
 No evidence of hazardous substance migration from container area, containers leaking, and all free liquids eliminated at closure (either by removal of liquid or solidification of remaining wastes and waste residues) | Evaluate using All sources criteria (with no bulk or free liquid deposited).
-Tank
+Tank |
 Below-ground tank | Evaluate using All sources criteria.
 Evidence of hazardous substance migration from tank area (i.e., tank area includes tank, ancillary equipment such as piping, and any associated containment structures) | 10
 Tank and ancillary equipment not provided with secondary containment (e.g., liner under tank area, vault system, double wall) | 10
 No diking (or no similar structure) surrounding tank and ancillary equipment | 10
 Diking surrounding tank and ancillary equipment unsound or not regularly inspected and maintained | 10
-No evidence of hazardous substance migration from tank area, tank and ancillary equipment surrounded by sound diking that is regularly inspected and maintained, and:
+No evidence of hazardous substance migration from tank area, tank and ancillary equipment surrounded by sound diking that is regularly inspected and maintained, and: |
 (a) Tank and ancillary equipment provided with secondary containment | 9
 (b) Tank and ancillary equipment provided with secondary containment with leak detection and collection system | 7
 (c) Tank and ancillary equipment provided with secondary containment system that detects and collects spilled or leaked hazardous substances and accumulated precipitation and has sufficient capacity to contain 110 percent of volume of largest tank within containment area, spilled or leaked hazardous substances and accumulated precipitation removed in timely manner, at least weekly inspection of tank and secondary containment system, all leaking or unfit-for-use tank systems promptly responded to, and functioning ground water monitoring system | 5
 (d) Containment system has sufficient capacity to hold volume of all tanks within tank containment area and to provide adequate freeboard, single liner under that containment area with functioning leachate collection and removal system below liner, and functioning ground water monitoring system | 5
 (e) Same as (d) except: double liner under tank containment area with functioning leachate collection and removal system between liners | 3
 Tank is above ground, and inside or under maintained intact structure that provides protection from precipitation so that neither runoff nor leachate would be generated from any material released from tank, liquids or materials containing free liquids not deposited in any tank, and functioning and maintained run-on control present | 0
-EC02AU92.006
-EC02AU92.007
 -When measured monthly evapotranspiration is not available, calculate monthly potential evapotranspiration (Ei) as follows:
 Ei = 0.6 Fi (10 Ti/I) a
 where:
 Ei = Monthly potential evapotranspiration (inches) for month i.
 Fi = Monthly latitude adjusting value for month i.
 Ti = Mean monthly temperature (°C) for month i.
-EC15NO91.146
-a = 6.75 × 10−7 I3−7.71 × 10−5 I2 +
+a = 6.75 × 10−7 I 3−7.71 × 10−5 I 2 +
 1.79 × 10−2 I + 0.49239
 Select the latitude adjusting value for each month from table 3-3. For latitudes lower than 50° North or 20° South, determine the monthly latitude adjusting value by interpolation.
 • Calculate monthly net precipitation by subtracting monthly evapotranspiration (or monthly potential evapotranspiration) from monthly precipitation. If evapotranspiration (or potential evapotranspiration) exceeds precipitation for a month, assign that month a net precipitation value of 0.
@@ -1051,7 +1036,8 @@ Select the latitude adjusting value for each month from table 3-3. For latitudes
 • Based on the annual net precipitation, assign a net precipitation factor value from table 3-4.
 Enter the value assigned from Figure 3-2 or from table 3-4, as appropriate, in table 3-1.
 Table 3-3—Monthly Latitude Adjusting Values a
-Latitude b (degrees) | Month | Jan. | Feb. | March | April | May | June | July | August | Sept. | Oct. | Nov. | Dec.
+Latitude b (degrees) | Month
+Jan. | Feb. | March | April | May | June | July | August | Sept. | Oct. | Nov. | Dec.
 ≥50 N | 0.74 | 0.78 | 1.02 | 1.15 | 1.33 | 1.36 | 1.37 | 1.25 | 1.06 | 0.92 | 0.76 | 0.70
 45 N | 0.80 | 0.81 | 1.02 | 1.13 | 1.28 | 1.29 | 1.31 | 1.21 | 1.04 | 0.94 | 0.79 | 0.75
 40 N | 0.84 | 0.83 | 1.03 | 1.11 | 1.24 | 1.25 | 1.27 | 1.18 | 1.04 | 0.96 | 0.83 | 0.81
@@ -1062,8 +1048,7 @@ Latitude b (degrees) | Month | Jan. | Feb. | March | April | May | June | July |
 0 | 1.04 | 0.94 | 1.04 | 1.01 | 1.04 | 1.01 | 1.04 | 1.04 | 1.01 | 1.04 | 1.01 | 1.04
 10 S | 1.08 | 0.97 | 1.05 | 0.99 | 1.00 | 0.96 | 1.00 | 1.02 | 1.00 | 1.06 | 1.05 | 1.09
 20 S | 1.14 | 0.99 | 1.05 | 0.97 | 0.96 | 0.91 | 0.95 | 0.99 | 1.00 | 1.08 | 1.09 | 1.15
-a Do not round to nearest integer.
-b For unlisted latitudes lower than 50° North or 20° South, determine the latitude adjusting value by interpolation.
+a Do not round to nearest integer. b For unlisted latitudes lower than 50° North or 20° South, determine the latitude adjusting value by interpolation.
 Table 3-4—Net Precipitation Factor Values
 Net precipitation (inches) | Assigned value
 0 | 0
@@ -1095,13 +1080,13 @@ Sands; sandy silts; sediments that are predominantly sand; highly permeable till
 Gravel; clean sand; highly permeable fractured igneous and metamorphic rocks; permeable basalt; karst limestones and dolomites | 10−2
 a Do not round to nearest integer.
 Table 3-7—Travel Time Factor Values a
-Hydraulic conductivity (cm/sec) | Thickness of lowest hydraulic conductivity layer(s) b (feet) | Greater than 3 to 5 | Greater than 5 to 100 | Greater than 100 to 500 | Greater than 500
+Hydraulic conductivity (cm/sec) | Thickness of lowest hydraulic conductivity layer(s) b (feet)
+Greater than 3 to 5 | Greater than 5 to 100 | Greater than 100 to 500 | Greater than 500
 Greater than or equal to 10−3 | 35 | 35 | 35 | 25
 Less than 10−3 to 10−5 | 35 | 25 | 15 | 15
 Less than 10−5 to 10−7 | 15 | 15 | 5 | 5
 Less than 10−7 | 5 | 5 | 1 | 1
-a If depth to aquifer is 10 feet or less or if, for the interval being evaluated, all layers that underlie a portion of the sources at the site are karst, assign a value of 35.
-b Consider only layers at least 3 feet thick. Do not consider layers or portions of layers within the first 10 feet of the depth to the aquifer.
+a If depth to aquifer is 10 feet or less or if, for the interval being evaluated, all layers that underlie a portion of the sources at the site are karst, assign a value of 35. b Consider only layers at least 3 feet thick. Do not consider layers or portions of layers within the first 10 feet of the depth to the aquifer.
 Determine travel time only at locations within 2 miles of the sources at the site, except: if observed ground water contamination attributable to sources at the site extends more than 2 miles beyond these sources, use any location within the limits of this observed ground water contamination when evaluating the travel time factor for any aquifer that does not have an observed release. If the necessary subsurface geologic information is available at multiple locations, evaluate the travel time factor at each location. Use the location having the highest travel time factor value to assign the factor value for the aquifer. Enter this value in table 3-1.
 3.1.2.5 Calculation of potential to release factor value. Sum the factor values for net precipitation, depth to aquifer, and travel time, and multiply this sum by the factor value for containment. Assign this product as the potential to release factor value for the aquifer. Enter this value in table 3-1.
 3.1.3 Calculation of likelihood of release factor category value. If an observed release is established for an aquifer, assign the observed release factor value of 550 as the likelihood of release factor category value for that aquifer. Otherwise, assign the potential to release factor value for that aquifer as the likelihood of release value. Enter the value assigned in table 3-1.
@@ -1115,15 +1100,14 @@ Determine travel time only at locations within 2 miles of the sources at the sit
 • For any hazardous substance that does not meet the criteria for an observed release by chemical analysis to at least one of the aquifers, assign that hazardous substance a mobility factor value from table 3-8 for the aquifer being evaluated, based on its water solubility and distribution coefficient (Kd).
 • If the hazardous substance cannot be assigned a mobility factor value because data on its water solubility or distribution coefficient are not available, use other hazardous substances for which information is available in evaluating the pathway.
 Table 3-8—Ground Water Mobility Factor Values a
-Water solubility (mg/l) | Distribution coefficient (Kd) (ml/g) | Karst c | ≤10 | >10 to 1,000 | >1,000
+Water solubility (mg/l) | Distribution coefficient (Kd) (ml/g)
+Karst c | ≤10 | >10 to 1,000 | >1,000
 Present as liquid b | 1 | 1 | 0.01 | 0.0001
 Greater than 100 | 1 | 1 | 0.01 | 0.0001
 Greater than 1 to 100 | 0.2 | 0.2 | 0.002 | 2 × 10−5
 Greater than 0.01 to 1 | 0.002 | 0.002 | 2 × 10−5 | 2 × 10−7
 Less than or equal to 0.01 | 2 × 10−5 | 2 × 10−5 | 2 × 10−7 | 2 × 10−9
-a Do not round to nearest integer.
-b Use if the hazardous substance is present or deposited as a liquid.
-c Use if the entire interval from the source to the aquifer being evaluated is karst.
+a Do not round to nearest integer. b Use if the hazardous substance is present or deposited as a liquid. c Use if the entire interval from the source to the aquifer being evaluated is karst.
 • If none of the hazardous substances eligible to be evaluated can be assigned a mobility factor value, use a default value of 0.002 as the mobility factor value for all these hazardous substances.
 Determine the water solubility to be used in table 3-8 for the hazardous substance as follows (use this same water solubility for all aquifers):
 • For any hazardous substance that does not meet the criteria for an observed release by chemical analysis, if the hazardous substance is present or deposited as a liquid, use the water solubility category "Present as Liquid" in table 3-8 to assign the mobility factor value to that hazardous substance.
@@ -1148,7 +1132,8 @@ fs = Sorbent content (fraction of clays plus organic carbon) in the subsurface.
 -Calculate the geometric mean of the upper and lower Kd range values. Use this geometric mean as the distribution coefficient in assigning the hazardous substance a mobility factor value from table 3-8.
 3.2.1.3 Calculation of toxicity/mobility factor value. Assign each hazardous substance a toxicity/mobility factor value from table 3-9, based on the values assigned to the hazardous substance for the toxicity and mobility factors. Use the hazardous substance with the highest toxicity/mobility factor value for the aquifer being evaluated to assign the value to the toxicity/mobility factor for that aquifer. Enter this value in table 3-1.
 Table 3-9—Toxicity/Mobility Factor Values a
-Mobility factor value | Toxicity factor value | 10,000 | 1,000 | 100 | 10 | 1 | 0
+Mobility factor value | Toxicity factor value
+10,000 | 1,000 | 100 | 10 | 1 | 0
 1.0 | 10,000 | 1,000 | 100 | 10 | 1 | 0
 0.2 | 2,000 | 200 | 20 | 2 | 0.2 | 0
 0.01 | 100 | 10 | 1 | 0.1 | 0.01 | 0
@@ -1159,7 +1144,7 @@ Mobility factor value | Toxicity factor value | 10,000 | 1,000 | 100 | 10 | 1 | 
 2 × 10−9 | 2 × 10−5 | 2 × 10−6 | 2 × 10−7 | 2 × 10−8 | 2 × 10−9 | 0
 a Do not round to nearest integer.
 3.2.2 Hazardous waste quantity. Assign a hazardous waste quantity factor value for the ground water pathway (or aquifer) as specified in section 2.4.2. Enter this value in table 3-1.
-3.2.3 Calculation of waste characteristics factor category value. Multiply the toxicity/mobility and hazardous waste quantity factor values, subject to a maximum product of 1 × 108. Based on this product, assign a value from table 2-7 (section 2.4.3.1) to the waste characteristics factor category. Enter this value in table 3-1.
+3.2.3 Calculation of waste characteristics factor category value. Multiply the toxicity/mobility and hazardous waste quantity factor values, subject to a maximum product of 1 × 10 8. Based on this product, assign a value from table 2-7 (section 2.4.3.1) to the waste characteristics factor category. Enter this value in table 3-1.
 3.3 Targets. Evaluate the targets factor category for an aquifer based on four factors: nearest well, population, resources, and Wellhead Protection Area. Evaluate these four factors based on targets within the target distance limit specified in section 3.0.1.1 and the aquifer boundaries specified in section 3.0.1.2. Determine the targets to be included in evaluating these factors for an aquifer as specified in section 3.0.
 3.3.1 Nearest well. In evaluating the nearest well factor, include both the drinking water wells drawing from the aquifer being evaluated and those drawing from overlying aquifers as specified in section 3.0. Include standby wells in evaluating this factor only if they are used for drinking water supply at least once every year.
 If there is an observed release by direct observation for a drinking water well within the target distance limit, assign Level II concentrations to that well. However, if one or more samples meet the criteria for an observed release for that well, determine if that well is subject to Level I or Level II concentrations as specified in sections 2.5.1 and 2.5.2. Use the health-based benchmarks from table 3-10 in determining the level of contamination.
@@ -1206,30 +1191,28 @@ Assign distance-weighted population values from table 3-12 to this population as
 • Use the "Karst" portion of table 3-12 to assign values only for that portion of the population served by points of withdrawal that draw drinking water from a karst aquifer that underlies any portion of the sources at the site.
 -For this portion of the population, determine the number of people included within each "Karst" distance category in table 3-12.
 Table 3-12—Distance-Weighted Population Values for Potential Contamination Factor for Ground Water Migration Pathway a
-Distance category (miles) | Number of people within the distance category | 0 | 1 to 10 | 11 to 30 | 31 to 100 | 101 to 300 | 301 to 1,000 | 1,001 to 3,000 | 3,001 to 10,000 | 10,001 to 30,000 | 30,001 to 100,000 | 100,001 to 300,000 | 300,001 to 1,000,000 | 1,000,001 to 3,000,000
-Other Than Karst b:
+Distance category (miles) | Number of people within the distance category
+0 | 1 to 10 | 11 to 30 | 31 to 100 | 101 to 300 | 301 to 1,000 | 1,001 to 3,000 | 3,001 to 10,000 | 10,001 to 30,000 | 30,001 to 100,000 | 100,001 to 300,000 | 300,001 to 1,000,000 | 1,000,001 to 3,000,000
+Other Than Karst b: | | | | | | | | | | | | |
 0 to 1/4 | 0 | 4 | 17 | 53 | 164 | 522 | 1,633 | 5,214 | 16,325 | 52,137 | 163,246 | 521,360 | 1,632,455
 Greater than 1/4 to 1/2 | 0 | 2 | 11 | 33 | 102 | 324 | 1,013 | 3,233 | 10,122 | 32,325 | 101,213 | 323,243 | 1,012,122
 Greater than 1/2 to 1 | 0 | 1 | 5 | 17 | 52 | 167 | 523 | 1,669 | 5,224 | 16,684 | 52,239 | 166,835 | 522,385
 Greater than 1 to 2 | 0 | 0.7 | 3 | 10 | 30 | 94 | 294 | 939 | 2,939 | 9,385 | 29,384 | 93,845 | 293,842
 Greater than 2 to 3 | 0 | 0.5 | 2 | 7 | 21 | 68 | 212 | 678 | 2,122 | 6,778 | 21,222 | 67,777 | 212,219
 Greater than 3 to 4 | 0 | 0.3 | 1 | 4 | 13 | 42 | 131 | 417 | 1,306 | 4,171 | 13,060 | 41,709 | 130,596
-Karst c:
+Karst c: | | | | | | | | | | | | |
 0 to 1/4 | 0 | 4 | 17 | 53 | 164 | 522 | 1,633 | 5,214 | 16,325 | 52,137 | 163,246 | 521,360 | 1,632,455
 Greater than 1/4 to 1/2 | 0 | 2 | 11 | 33 | 102 | 324 | 1,013 | 3,233 | 10,122 | 32,325 | 101,213 | 323,243 | 1,012,122
 Greater than 1/2 to 1 | 0 | 2 | 9 | 26 | 82 | 261 | 817 | 2,607 | 8,163 | 26,068 | 81,623 | 260,680 | 816,227
 Greater than 1 to 2 | 0 | 2 | 9 | 26 | 82 | 261 | 817 | 2,607 | 8,163 | 26,068 | 81,623 | 260,680 | 816,227
 Greater than 2 to 3 | 0 | 2 | 9 | 26 | 82 | 261 | 817 | 2,607 | 8,163 | 26,068 | 81,623 | 260,680 | 816,227
 Greater than 3 to 4 | 0 | 2 | 9 | 26 | 82 | 261 | 817 | 2,607 | 8,163 | 26,068 | 81,623 | 260,680 | 816,227
-a Round the number of people present within a distance category to nearest integer. Do not round the assigned distance-weighted population value to nearest integer.
-b Use for all aquifers, except karst aquifers underlying any portion of the sources at the site.
-c Use only for karst aquifers underlying any portion of the sources at the site.
+a Round the number of people present within a distance category to nearest integer. Do not round the assigned distance-weighted population value to nearest integer. b Use for all aquifers, except karst aquifers underlying any portion of the sources at the site. c Use only for karst aquifers underlying any portion of the sources at the site.
 -Assign a distance-weighted population value for each distance category based on the number of people included within the distance category.
 • Use the "Other Than Karst" portion of table 3-12 for the remainder of the population served by points of withdrawal subject to potential contamination.
 -For this portion of the population, determine the number of people included within each "Other Than Karst" distance category in table 3-12.
 -Assign a distance-weighted population value for each distance category based on the number of people included within the distance category.
 Calculate the value for the potential contamination factor (PC) as follows:
-EC15NO91.147
 where:
 Wi = Distance-weighted population from "Other Than Karst" portion of table 3-12 for distance category i.
 Ki = Distance-weighted population from "Karst" portion of table 3-12 for distance category i.
@@ -1307,7 +1290,6 @@ For these contaminated sediment sites, include only those targets (for example, 
 • If a target is located, partially or wholly, within the target distance limit for the watershed, but not within the area of observed sediment contamination, evaluate it as subject to potential contamination.
 4.1.1.3 Evaluation of overland/flood migration component. Evaluate the drinking water threat, human food chain threat, and environmental threat for each watershed for this component based on three factor categories: likelihood of release, waste characteristics, and targets. Figure 4-1 indicates the factors included within each factor category for each type of threat.
 Determine the overland/flood migration component score (Sof) for a watershed in terms of the factor category values as follows:
-EC15NO91.148
 where:
 LRi = Likelihood of release factor category value for threat i (that is, drinking water, human food chain, or environmental threat).
 WCi = Waste characteristics factor category value for threat i.
@@ -1315,78 +1297,75 @@ Ti = Targets factor category value for threat i.
 SF = Scaling factor.
 Table 4-1 outlines the specific calculation procedure.
 If the site is in only one watershed, assign the overland/flood migration score for that watershed as the overland/flood migration component score for the site.
-EC02AU92.008
 Table 4-1—Surface Water Overland/Flood Migration Component Scoresheet
 Factor categories and factors | Maximum value | Value assigned
-Drinking Water Threat
-Likelihood of Release:
-1. Observed Release | 550 | ___
-2. Potential to Release by Overland Flow:
-2a. Containment | 10 | ___
-2b. Runoff | 25 | ___
-2c. Distance to Surface Water | 25 | ___
-2d. Potential to Release by Overland Flow (lines 2a[2b + 2c]) | 500 | ___
-3. Potential to Release by Flood:
-3a. Containment (Flood) | 10 | ___
-3b. Flood Frequency | 50 | ___
-3c. Potential to Release by Flood (lines 3a × 3b) | 500 | ___
-4. Potential to Release (lines 2d + 3c, subject to a maximum of 500) | 500 | ___
-5. Likelihood of Release (higher of lines 1 and 4) | 550 | ___
-Waste Characteristics:
-6. Toxicity/Persistence | (a) | ___
-7. Hazardous Waste Quantity | (a) | ___
-8. Waste Characteristics | 100 | ___
-Targets:
-9. Nearest Intake | 50 | ___
+Drinking Water Threat | |
+Likelihood of Release: | |
+1. Observed Release | 550 | ______
+2. Potential to Release by Overland Flow: | |
+2a. Containment | 10 | ______
+2b. Runoff | 25 | ______
+2c. Distance to Surface Water | 25 | ______
+2d. Potential to Release by Overland Flow (lines 2a[2b + 2c]) | 500 | ______
+3. Potential to Release by Flood: | |
+3a. Containment (Flood) | 10 | ______
+3b. Flood Frequency | 50 | ______
+3c. Potential to Release by Flood (lines 3a × 3b) | 500 | ______
+4. Potential to Release (lines 2d + 3c, subject to a maximum of 500) | 500 | ______
+5. Likelihood of Release (higher of lines 1 and 4) | 550 | ______
+Waste Characteristics: | |
+6. Toxicity/Persistence | (a) | ______
+7. Hazardous Waste Quantity | (a) | ______
+8. Waste Characteristics | 100 | ______
+Targets: | |
+9. Nearest Intake | 50 | ______
 10. Population | |
-10a. Level I Concentrations | (b) | ___
-10b. Level II Concentrations | (b) | ___
-10c. Potential Contamination | (b) | ___
-10d. Population (lines 10a + 10b + 10c) | (b) | ___
-11. Resources | 5 | ___
-12. Targets (lines 9 + 10d + 11) | (b) | ___
-Drinking Water Threat Score:
-13. Drinking Water Threat Score ([lines 5 × 8 × 12]/82,500, subject to a maximum of 100) | 100 | ___
-Human Food Chain Threat
-Likelihood of Release:
-14. Likelihood of Release (same value as line 5) | 550 | ___
-Waste Characteristics:
-15. Toxicity/Persistence/Bioaccumulation | (a) | ___
-16. Hazardous Waste Quantity | (a) | ___
-17. Waste Characteristics | 1,000 | ___
-Targets:
-18. Food Chain Individual | 50 | ___
+10a. Level I Concentrations | (b) | ______
+10b. Level II Concentrations | (b) | ______
+10c. Potential Contamination | (b) | ______
+10d. Population (lines 10a + 10b + 10c) | (b) | ______
+11. Resources | 5 | ______
+12. Targets (lines 9 + 10d + 11) | (b) | ______
+Drinking Water Threat Score: | |
+13. Drinking Water Threat Score ([lines 5 × 8 × 12]/82,500, subject to a maximum of 100) | 100 | ______
+Human Food Chain Threat | |
+Likelihood of Release: | |
+14. Likelihood of Release (same value as line 5) | 550 | ______
+Waste Characteristics: | |
+15. Toxicity/Persistence/Bioaccumulation | (a) | ______
+16. Hazardous Waste Quantity | (a) | ______
+17. Waste Characteristics | 1,000 | ______
+Targets: | |
+18. Food Chain Individual | 50 | ______
 19. Population | |
-19a. Level I Concentrations | (b) | ___
-19b. Level II Concentrations | (b) | ___
-19c. Potential Human Food Chain Contamination | (b) | ___
-19d. Population (lines 19a + 19b + 19c) | (b) | ___
-20. Targets (lines 18 + 19d) | (b) | ___
-Human Food Chain Threat Score:
-21. Human Food Chain Threat Score ([lines 14 × 17 × 20]/82,500, subject to a maximum of 100) | 100 | ___
-Environmental Threat
-Likelihood of Release:
-22. Likelihood of Release (same value as line 5) | 550 | ___
-Waste Characteristics:
-23. Ecosystem Toxicity/Persistence/Bioaccumulation | (a) | ___
-24. Hazardous Waste Quantity | (a) | ___
-25. Waste Characteristics | 1,000
-Targets:
-26. Sensitive Environments
-26a. Level I Concentrations | (b) | ___
-26b. Level II Concentrations | (b) | ___
-26c. Potential Contamination | (b) | ___
-26d. Sensitive Environments (lines 26a + 26b + 26c) | (b)
-27. Targets (value from line 26d) | (b)
-Environmental Threat Score:
-28. Environmental Threat Score ([lines 22 × 25 × 27]/82,500, subject to a maximum of 60) | 60 | ___
-Surface Water Overland/Flood Migration Component Score for a Watershed
-29. Watershed Score c (lines 13 + 21 + 28, subject to a maximum of 100) | 100 | ___
-Surface Water Overland/Flood Migration Component Score
-30. Component Score (Sof) c (highest score from line 29 for all watersheds evaluated, subject to a maximum of 100) | 100 | ___
-a Maximum value applies to waste characteristics category.
-b Maximum value not applicable.
-c Do not round to nearest integer.
+19a. Level I Concentrations | (b) | ______
+19b. Level II Concentrations | (b) | ______
+19c. Potential Human Food Chain Contamination | (b) | ______
+19d. Population (lines 19a + 19b + 19c) | (b) | ______
+20. Targets (lines 18 + 19d) | (b) | ______
+Human Food Chain Threat Score: | |
+21. Human Food Chain Threat Score ([lines 14 × 17 × 20]/82,500, subject to a maximum of 100) | 100 | ______
+Environmental Threat | |
+Likelihood of Release: | |
+22. Likelihood of Release (same value as line 5) | 550 | ______
+Waste Characteristics: | |
+23. Ecosystem Toxicity/Persistence/Bioaccumulation | (a) | ______
+24. Hazardous Waste Quantity | (a) | ______
+25. Waste Characteristics | 1,000 |
+Targets: | |
+26. Sensitive Environments | |
+26a. Level I Concentrations | (b) | ______
+26b. Level II Concentrations | (b) | ______
+26c. Potential Contamination | (b) | ______
+26d. Sensitive Environments (lines 26a + 26b + 26c) | (b) |
+27. Targets (value from line 26d) | (b) |
+Environmental Threat Score: | |
+28. Environmental Threat Score ([lines 22 × 25 × 27]/82,500, subject to a maximum of 60) | 60 | ______
+Surface Water Overland/Flood Migration Component Score for a Watershed | |
+29. Watershed Score c (lines 13 + 21 + 28, subject to a maximum of 100) | 100 | ______
+Surface Water Overland/Flood Migration Component Score | |
+30. Component Score (Sof) c (highest score from line 29 for all watersheds evaluated, subject to a maximum of 100) | 100 | ______
+a Maximum value applies to waste characteristics category. b Maximum value not applicable. c Do not round to nearest integer.
 If the site is in more than one watershed:
 • Calculate a separate overland/flood migration component score for each watershed, using likelihood of release, waste characteristics, and targets applicable to each watershed.
 • Select the highest overland/flood migration component score from the watersheds evaluated and assign it as the overland/flood migration component score for the site.
@@ -1418,35 +1397,35 @@ A source meets the minimum size requirement if its source hazardous waste quanti
 4.1.2.1.2.1.2 Runoff. Evaluate runoff based on three components: rainfall, drainage area, and soil group.
 Table 4-2—Containment Factor Values for Surface Water Migration Pathway
 Source | Assigned value
-All Sources (Except Surface Impoundments, Land Treatment, Containers, and Tanks)
+All Sources (Except Surface Impoundments, Land Treatment, Containers, and Tanks) |
 Evidence of hazardous substance migration from source area (i.e., source area includes source and any associated containment structures). | 10
-No evidence of hazardous substance migration from source area and:
+No evidence of hazardous substance migration from source area and: |
 (a) Neither of the following present: (1) maintained engineered cover, or (2) functioning and maintained run-on control system and runoff management system | 10
 (b) Any one of the two items in (a) present | 9
 (c) Any two of the following present: (1) maintained engineered cover, or (2) functioning and maintained run-on control system and runoff management system, or (3) liner with functioning leachate collection and removal system immediately above liner | 7
 (d) All items in (c) present | 5
 (e) All items in (c) present, plus no bulk or non-containerized liquids nor materials containing free liquids deposited in source area. | 3
-No evidence of hazardous substance migration from source area, double liner with functioning leachate collection and removal system above and between liners, and:
+No evidence of hazardous substance migration from source area, double liner with functioning leachate collection and removal system above and between liners, and: |
 (f) Only one of the following deficiencies present in containment: (1) bulk or noncontainerized liquids or materials containing free liquids deposited in source area, or (2) no or nonfunctioning or nonmaintained run-on control system and runoff management system, or (3) no or nonmaintained engineered cover | 3
 (g) None of the deficiencies in (f) present. | 0
-Source area inside or under maintained intact structure that provides protection from precipitation so that neither runoff nor leachate is generated, liquids or materials containing free liquids not deposited in source area, and functioning and maintained run-on control present
-Surface Impoundment
+Source area inside or under maintained intact structure that provides protection from precipitation so that neither runoff nor leachate is generated, liquids or materials containing free liquids not deposited in source area, and functioning and maintained run-on control present |
+Surface Impoundment |
 Evidence of hazardous substance migration from surface impoundment | 10
 Free liquids present with either no diking, unsound diking, or diking that is not regularly inspected and maintained | 10
-No evidence of hazardous substance migration from surface impoundment, free liquids present, sound diking that is regularly inspected and maintained, adequate freeboard, and:
+No evidence of hazardous substance migration from surface impoundment, free liquids present, sound diking that is regularly inspected and maintained, adequate freeboard, and: |
 (a) No liner | 9
 (b) Liner | 7
 (c) Liner with functioning leachate collection and removal system below liner | 5
 (d) Double liner with functioning leachate collection and removal system between liners | 3
 No evidence of hazardous substance migration from surface impoundment and all free liquids eliminated at closure (either by removal of liquids or solidification of remaining wastes and waste residues) | Evaluate using All Sources criteria (with no bulk or free liquids deposited).
-Land Treatment
+Land Treatment |
 Evidence of hazardous substance migration from land treatment zone | 10
 No functioning and maintained run-on control and runoff management system | 10
-No evidence of hazardous substance migration from land treatment zone and:
+No evidence of hazardous substance migration from land treatment zone and: |
 (a) Functioning and maintained run-on control and runoff management system | 7
 (b) Functioning and maintained run-on control and runoff management system, and vegetative cover established over entire land treatment area | 5
 (c) Land treatment area maintained in compliance with 40 CFR 264.280 | 0
-Containers
+Containers |
 All containers buried | Evaluate using All Sources criteria.
 Evidence of hazardous substance migration from container area (i.e., container area includes containers and any associated containment structures) | 10
 No diking (or no similar structure) surrounding container area | 10
@@ -1459,13 +1438,13 @@ No evidence of hazardous substance migration from container area, container area
 (d) Same as (c) except: double liner under container area with functioning leachate collection and removal system between liners | 3
 Containers inside or under maintained intact structure that provides protection from precipitation so that neither runoff nor leachate would be generated from any unsealed or ruptured containers, liquids or materials containing free liquids not deposited in any container, and functioning and maintained run-on control present | 0
 No evidence of hazardous substance migration from container area, containers leaking, and all free liquids eliminated at closure (either by removal of liquids or solidification of remaining wastes and waste residues) | Evaluate using All Sources criteria (with no bulk or free liquids deposited).
-Tank
+Tank |
 Below-ground tank | Evaluate using All Sources criteria
 Evidence of hazardous substance migration from tank area (i.e., tank area includes tank, ancillary equipment such as piping, and any associated containment structures) | 10
 No diking (or no similar structure) surrounding tank and ancillary equipment | 10
 Diking surrounding tank and ancillary equipment unsound or not regularly inspected and maintained | 10
 No evidence of hazardous substance migration from tank area and tank and ancillary equipment surrounded by sound diking that is regularly inspected and maintained | 9
-No evidence of hazardous substance migration from tank area, tank and ancillary equipment surrounded by sound diking that is regularly inspected and maintained, and:
+No evidence of hazardous substance migration from tank area, tank and ancillary equipment surrounded by sound diking that is regularly inspected and maintained, and: |
 (a) Tank and ancillary equipment provided with secondary containment (e.g., liner under tank area, vault system, double-wall) with leak detection and collection system | 7
 (b) Tank and ancillary equipment provided with secondary containment system that detects and collects spilled or leaked hazardous substances and accumulated precipitation and has sufficient capacity to contain 110 percent of volume of largest tank within containment area, spilled or leaked hazardous substances and accumulated precipitation removed in a timely manner, at least weekly inspection of tank and secondary containment system, and all leaking or unfit-for-use tank systems promptly responded to | 5
 (c) Containment system has sufficient capacity to hold total volume of all tanks within the tank containment area and to provide adequate freeboard, and single liner under tank containment area with functioning leachate collection and removal system below liner | 5
@@ -1490,7 +1469,8 @@ Medium-textured soils with moderate infiltration rates (for example, sandy loams
 Moderately fine-textured soils with low infiltration rates (for example, silty loams, silts, sandy clay loams) | C
 Fine-textured soils with very low infiltration rates (for example, clays, sandy clays, silty clay loams, clay loams, silty clays); or impermeable surfaces (for example, pavement) | D
 Table 4-5—Rainfall/Runoff Values
-2-Year, 24-hour rainfall (inches) | Soil group designation | A | B | C | D
+2-Year, 24-hour rainfall (inches) | Soil group designation
+A | B | C | D
 Less than 1.0 | 0 | 0 | 2 | 3
 1.0 to less than 1.5 | 0 | 1 | 2 | 3
 1.5 to less than 2.0 | 0 | 2 | 3 | 4
@@ -1499,7 +1479,8 @@ Less than 1.0 | 0 | 0 | 2 | 3
 3.0 to less than 3.5 | 2 | 3 | 4 | 5
 3.5 or greater | 3 | 4 | 5 | 6
 Table 4-6—Runoff Factor Values
-Drainage area value | Rainfall/runoff value | 0 | 1 | 2 | 3 | 4 | 5 | 6
+Drainage area value | Rainfall/runoff value
+0 | 1 | 2 | 3 | 4 | 5 | 6
 1 | 0 | 0 | 0 | 1 | 1 | 1 | 1
 2 | 0 | 0 | 1 | 1 | 2 | 3 | 4
 3 | 0 | 0 | 1 | 3 | 7 | 11 | 15
@@ -1539,7 +1520,6 @@ Enter this highest potential to release by flood factor value for the watershed 
 4.1.2.2.1.1 Toxicity. Assign a toxicity factor value to each hazardous substance as specified in section 2.4.1.1.
 4.1.2.2.1.2 Persistence. Assign a persistence factor value to each hazardous substance. In assigning this value, evaluate persistence based primarily on the half-life of the hazardous substance in surface water and secondarily on the sorption of the hazardous substance to sediments. The half-life in surface water is defined for HRS purposes as the time required to reduce the initial concentration in surface water by one-half as a result of the combined decay processes of biodegradation, hydrolysis, photolysis, and volatilization. Sorption to sediments is evaluated for the HRS based on the logarithm of the n-octanol-water partition coefficient (log Kow) of the hazardous substance.
 Estimate the half-life (t1/2) of a hazardous substance as follows:
-EC15NO91.149
 where:
 h = Hydrolysis half-life.
 b = Biodegradation half-life.
@@ -1554,13 +1534,13 @@ If a half-life can be estimated for a hazardous substance:
 -If there are no drinking water intakes and no specified resource intakes and points of use, but there is another type of resource listed in section 4.1.2.3.3 (for example, the water is usable for drinking water purposes even though not used), select the portion of table 4-10 based on the nearest point of this resource in the manner specified for drinking water intakes.
 Table 4-10—Persistence Factor Values—Half-Life
 Surface water category | Substance half-life (days) | Assigned value a
-Rivers, oceans, coastal tidal waters, and Great Lakes | Less than or equal to 0.2Greater than 0.2 to 0.5 Greater than 0.5 to 1.5 Greater than 1.5 | 0.00070.07 0.4 1
-Lakes | Less than or equal to 0.02Greater than 0.02 to 2 Greater than 2 to 20 Greater than 20 | 0.00070.07 0.4 1
+Rivers, oceans, coastal tidal waters, and Great Lakes | Less than or equal to 0.2 Greater than 0.2 to 0.5 Greater than 0.5 to 1.5 Greater than 1.5 | 0.0007 0.07 0.4 1
+Lakes | Less than or equal to 0.02 Greater than 0.02 to 2 Greater than 2 to 20 Greater than 20 | 0.0007 0.07 0.4 1
 a Do not round to nearest integer.
 If a half-life cannot be estimated for a hazardous substance from available data, use the following default procedure to assign a persistence factor value to that hazardous substance:
 • For those hazardous substances that are metals (or metalloids), assign a persistence factor value of 1 as a default for all surface water bodies.
 • For other hazardous substances (both organic and inorganic), assign a persistence factor value of 0.4 as a default for rivers, oceans, coastal tidal waters, and Great Lakes, and a persistence factor value of 0.07 as a default for lakes. Select the appropriate value in the same manner specified for using table 4-10.
-Use the persistence factor value assigned based on half-life or the default procedure unless the hazardous substance can be assigned a higher factor value from Table ­4-11, based on its Log Kow. If a higher value can be assigned from table 4-11, assign this higher value as the persistence factor value for the hazardous substance.
+Use the persistence factor value assigned based on half-life or the default procedure unless the hazardous substance can be assigned a higher factor value from Table 4-11, based on its Log Kow. If a higher value can be assigned from table 4-11, assign this higher value as the persistence factor value for the hazardous substance.
 Table 4-11—Persistence Factor Values—Log Kow
 Log Kow | Assigned value a
 Less than 3.5 | 0.0007
@@ -1570,9 +1550,10 @@ Greater than 4.5 | 1
 a Use for lakes, rivers, oceans, coastal tidal waters, and Great Lakes. Do not round to nearest integer.
 4.1.2.2.1.3 Calculation of toxicity/persistence factor value. Assign each hazardous substance a toxicity/persistence factor value from table 4-12, based on the values assigned to the hazardous substance for the toxicity and persistence factors. Use the hazardous substance with the highest toxicity/persistence factor value for the watershed to assign the toxicity/persistence factor value for the drinking water threat for the watershed. Enter this value in table 4-1.
 4.1.2.2.2 Hazardous waste quantity. Assign a hazardous waste quantity factor value for the watershed as specified in section 2.4.2. Enter this value in table 4-1.
-4.1.2.2.3 Calculation of drinking water threat-waste characteristics factor category value. Multiply the toxicity/persistence and hazardous waste quantity factor values for the watershed, subject to a maximum product of 1 × 108. Based on this product, assign a value from table 2-7 (section 2.4.3.1) to the drinking water threat-waste characteristics factor category for the watershed. Enter this value in table 4-1.
+4.1.2.2.3 Calculation of drinking water threat-waste characteristics factor category value. Multiply the toxicity/persistence and hazardous waste quantity factor values for the watershed, subject to a maximum product of 1 × 10 8. Based on this product, assign a value from table 2-7 (section 2.4.3.1) to the drinking water threat-waste characteristics factor category for the watershed. Enter this value in table 4-1.
 Table 4-12—Toxicity/Persistence Factor Values a
-Persistence factor value | Toxicity factor value | 10,000 | 1,000 | 100 | 10 | 1 | 0
+Persistence factor value | Toxicity factor value
+10,000 | 1,000 | 100 | 10 | 1 | 0
 1.0 | 10,000 | 1,000 | 100 | 10 | 1 | 0
 0.4 | 4,000 | 400 | 40 | 4 | 0.4 | 0
 0.07 | 700 | 70 | 7 | 0.7 | 0.07 | 0
@@ -1588,7 +1569,8 @@ Assign the nearest intake factor a value as follows and enter the value in table
 • If none of these drinking water intakes is subject to Level I or Level II concentrations, determine the nearest of these drinking water intakes, as measured from the probable point of entry (or from the point where measurement begins for contaminated sediments with no identified source). Assign a dilution weight from table 4-13 to this intake, based on the type of surface water body in which it is located. Multiply this dilution weight by 20, round the product to the nearest integer, and assign it as the factor value.
 Assign the dilution weight from table 4-13 as follows:
 Table 4-13—Surface Water Dilution Weights
-Type of surface water body a | Descriptor | Flow characteristics | Assigned dilution weight b
+Type of surface water body a | Assigned dilution weight b
+Descriptor | Flow characteristics
 Minimal stream | Less than 10 cfs c | 1
 Small to moderate stream | 10 to 100 cfs | 0.1
 Moderate to large stream | Greater than 100 to 1,000 cfs | 0.01
@@ -1600,11 +1582,7 @@ Shallow ocean zone e or Great Lake | Flow not applicable, depth less than 20 fee
 Moderate depth ocean zone e or Great Lake | Flow not applicable, depth 20 to 200 feet | 0.00001
 Deep ocean zone e or Great Lake | Flow not applicable, depth greater than 200 feet | 0.000005
 3-mile mixing zone in quiet flowing river | 10 cfs or greater | 0.5
-a Treat each lake as a separate type of water body and assign a dilution weight as specified in text.
-b Do not round to nearest integer.
-c cfs = cubic feet per second.
-d Embayments, harbors, sounds, estuaries, back bays, lagoons, wetlands, etc., seaward from mouths of rivers and landward from baseline of Territorial Sea.
-e Seaward from baseline of Territorial Sea. This baseline represents the generalized U.S. coastline. It is parallel to the seaward limit of the Territorial Sea and other maritime limits such as the inner boundary of the Federal fisheries jurisdiction and the limit of States jurisdiction under the Submerged Lands Act, as amended.
+a Treat each lake as a separate type of water body and assign a dilution weight as specified in text. b Do not round to nearest integer. c cfs = cubic feet per second. d Embayments, harbors, sounds, estuaries, back bays, lagoons, wetlands, etc., seaward from mouths of rivers and landward from baseline of Territorial Sea. e Seaward from baseline of Territorial Sea. This baseline represents the generalized U.S. coastline. It is parallel to the seaward limit of the Territorial Sea and other maritime limits such as the inner boundary of the Federal fisheries jurisdiction and the limit of States jurisdiction under the Submerged Lands Act, as amended.
 • For a river (that is, surface water body types specified in table 4-13 as minimal stream through very large river), assign a dilution weight based on the average annual flow in the river at the intake. If available, use the average annual discharge as defined in the U.S. Geological Survey Water Resources Data Annual Report. Otherwise, estimate the average annual flow.
 • For a lake, assign a dilution weight as follows:
 -For a lake that has surface water flow entering the lake, assign a dilution weight based on the sum of the average annual flows for the surface water bodies entering the lake up to the point of the intake.
@@ -1633,7 +1611,8 @@ For the potential contamination factor, use population ranges in evaluating the 
 4.1.2.3.2.3 Level II concentrations. Sum the number of people served by drinking water from intakes subject to Level II concentrations. Do not include people already counted under the Level I concentrations factor. Assign this sum as the value for this factor. Enter this value in table 4-1.
 4.1.2.3.2.4 Potential contamination. For each applicable type of surface water body in table 4-14, first determine the number of people served by drinking water from intakes subject to potential contamination in that type of surface water body. Do not include those people already counted under the Level I and Level II concentrations factors.
 Table 4-14—Dilution-Weighted Population Values for Potential Contamination Factor For Surface Water Migration Pathway a
-Type of surface water body b | Number of people | 0 | 1 to 10 | 11 to 30 | 31 to 100 | 101 to 300 | 301 to 1,000 | 1,001 to 3,000 | 3,001 to 10,000 | 10,001 to 30,000 | 30,001 to 100,000 | 100,001 to 300,000 | 300,001 to 1,000,000 | 1,000,001 to 3,000,000 | 3,000,001 to 10,000,000
+Type of surface water body b | Number of people
+0 | 1 to 10 | 11 to 30 | 31 to 100 | 101 to 300 | 301 to 1,000 | 1,001 to 3,000 | 3,001 to 10,000 | 10,001 to 30,000 | 30,001 to 100,000 | 100,001 to 300,000 | 300,001 to 1,000,000 | 1,000,001 to 3,000,000 | 3,000,001 to 10,000,000
 Minimal stream (<10 cfs) | 0 | 4 | 17 | 53 | 164 | 522 | 1,633 | 5,214 | 16,325 | 52,137 | 163,246 | 521,360 | 1,632,455 | 5,213,590
 Small to moderate stream (10 to 100 cfs) | 0 | 0.4 | 2 | 5 | 16 | 52 | 163 | 521 | 1,633 | 5,214 | 16,325 | 52,136 | 163,245 | 521,359
 Moderate to large stream (>100 to 1,000 cfs) | 0 | 0.04 | 0.2 | 0.5 | 2 | 5 | 16 | 52 | 163 | 521 | 1,633 | 5,214 | 16,325 | 52,136
@@ -1644,11 +1623,9 @@ Shallow ocean zone or Great Lake (depth <20 feet) | 0 | 0 | 0.002 | 0.005 | 0.02
 Moderate ocean zone or Great Lake (depth 20 to 200 feet) | 0 | 0 | 0 | 0.001 | 0.002 | 0.005 | 0.02 | 0.05 | 0.2 | 0.5 | 2 | 5 | 16 | 52
 Deep ocean zone or Great Lakes (depth >200 feet) | 0 | 0 | 0 | 0 | 0.001 | 0.003 | 0.008 | 0.03 | 0.08 | 0.3 | 1 | 3 | 8 | 26
 3-mile mixing zone in quiet flowing river (≥10 cfs) | 0 | 2 | 9 | 26 | 82 | 261 | 817 | 2,607 | 8,163 | 26,068 | 81,623 | 260,680 | 816,227 | 2,606,795
-a Round the number of people to nearest integer. Do not round the assigned dilution-weighted population value to nearest integer.
-b Treat each lake as a separate type of water body and assign it a dilution-weighted population value using the surface water body type with the same dilution-weighted from table 4-13 as the lake. If drinking water is withdrawn from coastal tidal water or the ocean, assign a dilution-weighted population value to it using the surface water body type with the same dilution weight from table 4-13 as the coastal tidal water or the ocean zone.
+a Round the number of people to nearest integer. Do not round the assigned dilution-weighted population value to nearest integer. b Treat each lake as a separate type of water body and assign it a dilution-weighted population value using the surface water body type with the same dilution-weighted from table 4-13 as the lake. If drinking water is withdrawn from coastal tidal water or the ocean, assign a dilution-weighted population value to it using the surface water body type with the same dilution weight from table 4-13 as the coastal tidal water or the ocean zone.
 For each type of surface water body, assign a dilution-weighted population value from table 4-14, based on the number of people included for that type of surface water body. (Note that the dilution-weighted population values in table 4-14 incorporate the dilution weights from table 4-13. Do not multiply the values from table 4-14 by these dilution weights.)
 Calculate the value for the potential contamination factor (PC) for the watershed as follows:
-EC15NO91.150
 where:
 Wi = Dilution-weighted population from table 4-14 for surface water body type i.
 n = Number of different surface water body types in the watershed.
@@ -1683,8 +1660,7 @@ If BCF data are available for any aquatic human food chain organism for the subs
 • If, however, some of the fisheries being evaluated are in fresh water and some are in salt water, or if any are in brackish water, use the BCF data that yield the higher factor value to assign the bioaccumulation potential factor value to the hazardous substance.
 • If BCF data are available for either fresh water or salt water, but not for both, use the available BCF data to assign the bioaccumulation potential factor value to the hazardous substance.
 If BCF data are not available for the hazardous substance, use log Kow data to assign a bioaccumulation potential factor value to organic substances, but not to inorganic substances. If BCF data are not available, and if either log Kow data are not available, the log Kow is available but exceeds 6.0, or the substance is an inorganic substance, use water solubility data to assign a bioaccumulation potential factor value.
-Table 4-15—Bioaccumulation Potential Factor Values a
-If bioconcentration factor (BCF) data are available for any aquatic human food chain organism, assign a value as follows: b
+Table 4-15—Bioaccumulation Potential Factor Values a If bioconcentration factor (BCF) data are available for any aquatic human food chain organism, assign a value as follows: b
 BCF | Assigned value
 Greater than or equal to 10,000 | 50,000
 1,000 to less than 10,000 | 5,000
@@ -1708,34 +1684,34 @@ Less than 25 | 50,000
 Greater than 500 to 1,500 | 500
 Greater than 1,500 | 0.5
 If none of these data are available, assign a value of 0.5.
-a Do not round to nearest integer.
-b See text for use of freshwater and saltwater BCF data.
+a Do not round to nearest integer. b See text for use of freshwater and saltwater BCF data.
 Do not distinguish between fresh water and salt water in assigning the bioaccumulation potential factor value based on log Kow or water solubility data.
 If none of these data are available, assign the hazardous substance a bioaccumulation potential factor value of 0.5.
 4.1.3.2.1.4 Calculation of toxicity/persistence/bioaccumulation factor value. Assign each hazardous substance a toxicity/persistence factor value from table 4-12, based on the values assigned to the hazardous substance for the toxicity and persistence factors. Then assign each hazardous substance a toxicity/persistence/bioaccumulation factor value from table 4-16, based on the values assigned for the toxicity/persistence and bioaccumulation potential factors. Use the hazardous substance with the highest toxicity/persistence/bioaccumulation factor value for the watershed to assign the value to this factor. Enter this value in table 4-1.
 Table 4-16—Toxicity/Persistence/Bioaccumulation Factor Values a
-Toxicity persistence factor value | Bioaccumulation potential factor value | 50,000 | 5,000 | 500 | 50 | 5 | 0.5
-10,000 | 5 × 108 | 5 × 107 | 5 × 106 | 5 × 105 | 5 × 104 | 5,000
-4,000 | 2 × 108 | 2 × 107 | 2 × 106 | 2 × 105 | 2 × 104 | 2,000
-1,000 | 5 × 107 | 5 × 106 | 5 × 105 | 5 × 104 | 5,000 | 500
-700 | 3.5 × 107 | 3.5 × 106 | 3.5 × 105 | 3.5 × 104 | 3,500 | 350
-400 | 2 × 107 | 2 × 106 | 2 × 105 | 2 × 104 | 2,000 | 200
-100 | 5 × 106 | 5 × 105 | 5 × 104 | 5,000 | 500 | 50
-70 | 3.5 × 106 | 3.5 × 105 | 3.5 × 104 | 3,500 | 350 | 35
-40 | 2 × 106 | 2 × 105 | 2 × 104 | 2,000 | 200 | 20
-10 | 5 × 105 | 5 × 104 | 5,000 | 500 | 50 | 5
-7 | 3.5 × 105 | 3.5 × 104 | 3,500 | 350 | 35 | 3.5
-4 | 2 × 105 | 2 × 104 | 2,000 | 200 | 20 | 2
-1 | 5 × 104 | 5,000 | 500 | 50 | 5 | 0.5
-0.7 | 3.5 × 104 | 3,500 | 350 | 35 | 3.5 | 0.35
-0.4 | 2 × 104 | 2,000 | 200 | 20 | 2 | 0.2
+Toxicity persistence factor value | Bioaccumulation potential factor value
+50,000 | 5,000 | 500 | 50 | 5 | 0.5
+10,000 | 5 × 10 8 | 5 × 10 7 | 5 × 10 6 | 5 × 10 5 | 5 × 10 4 | 5,000
+4,000 | 2 × 10 8 | 2 × 10 7 | 2 × 10 6 | 2 × 10 5 | 2 × 10 4 | 2,000
+1,000 | 5 × 10 7 | 5 × 10 6 | 5 × 10 5 | 5 × 10 4 | 5,000 | 500
+700 | 3.5 × 10 7 | 3.5 × 10 6 | 3.5 × 10 5 | 3.5 × 10 4 | 3,500 | 350
+400 | 2 × 10 7 | 2 × 10 6 | 2 × 10 5 | 2 × 10 4 | 2,000 | 200
+100 | 5 × 10 6 | 5 × 10 5 | 5 × 10 4 | 5,000 | 500 | 50
+70 | 3.5 × 10 6 | 3.5 × 10 5 | 3.5 × 10 4 | 3,500 | 350 | 35
+40 | 2 × 10 6 | 2 × 10 5 | 2 × 10 4 | 2,000 | 200 | 20
+10 | 5 × 10 5 | 5 × 10 4 | 5,000 | 500 | 50 | 5
+7 | 3.5 × 10 5 | 3.5 × 10 4 | 3,500 | 350 | 35 | 3.5
+4 | 2 × 10 5 | 2 × 10 4 | 2,000 | 200 | 20 | 2
+1 | 5 × 10 4 | 5,000 | 500 | 50 | 5 | 0.5
+0.7 | 3.5 × 10 4 | 3,500 | 350 | 35 | 3.5 | 0.35
+0.4 | 2 × 10 4 | 2,000 | 200 | 20 | 2 | 0.2
 0.07 | 3,500 | 350 | 35 | 3.5 | 0.35 | 0.035
 0.007 | 350 | 35 | 3.5 | 0.35 | 0.035 | 0.0035
 0.0007 | 35 | 3.5 | 0.35 | 0.035 | 0.0035 | 0.00035
 0 | 0 | 0 | 0 | 0 | 0 | 0
 a Do not round to nearest integer.
 4.1.3.2.2 Hazardous waste quantity. Assign the same factor value for hazardous waste quantity for the watershed as would be assigned in section 4.1.2.2.2 for the drinking water threat. Enter this value in table 4-1.
-4.1.3.2.3 Calculation of human food chain threat-waste characteristics factor category value. For the hazardous substance selected for the watershed in section 4.1.3.2.1.4, use its toxicity/persistence factor value and bioaccumulation potential factor value as follows to assign a value to the waste characteristics factor category. First, multiply the toxicity/persistence factor value and the hazardous waste quantity factor value for the watershed, subject to a maximum product of 1 × 108. Then multiply this product by the bioaccumulation potential factor value for this hazardous substance, subject to a maximum product of 1 × 1012. Based on this second product, assign a value from Table ­2-7 (section 2.4.3.1) to the human food chain threat-waste characteristics factor category for the watershed. Enter this value in table 4-1.
+4.1.3.2.3 Calculation of human food chain threat-waste characteristics factor category value. For the hazardous substance selected for the watershed in section 4.1.3.2.1.4, use its toxicity/persistence factor value and bioaccumulation potential factor value as follows to assign a value to the waste characteristics factor category. First, multiply the toxicity/persistence factor value and the hazardous waste quantity factor value for the watershed, subject to a maximum product of 1 × 10 8. Then multiply this product by the bioaccumulation potential factor value for this hazardous substance, subject to a maximum product of 1 × 10 12. Based on this second product, assign a value from Table 2-7 (section 2.4.3.1) to the human food chain threat-waste characteristics factor category for the watershed. Enter this value in table 4-1.
 4.1.3.3 Human food chain threat-targets. Evaluate two target factors for each watershed: food chain individual and population. For both factors, determine whether the target fisheries are subject to actual or potential human food chain contamination.
 Consider a fishery (or portion of a fishery) within the target distance limit of the watershed to be subject to actual human food chain contamination if any of the following apply:
 • A hazardous substance having a bioaccumulation potential factor value of 500 or greater is present either in an observed release by direct observation to the watershed or in a surface water or sediment sample from the watershed at a level that meets the criteria for an observed release to the watershed from the site, and at least a portion of the fishery is within the boundaries of the observed release (that is, it is located either at the point of direct observation or at or between the probable point of entry and the most distant sampling point establishing the observed release).
@@ -1780,14 +1756,13 @@ Greater than 100 to 1,000 | 0.3
 Greater than 1,000 to 10,000 | 3
 Greater than 10,000 to 100,000 | 31
 Greater than 100,000 to 1,000,000 | 310
-Greater than 106 to 107 | 3,100
-Greater than 107 to 108 | 31,000
-Greater than 108 to 109 | 310,000
-Greater than 109 | 3,100,000
+Greater than 10 6 to 10 7 | 3,100
+Greater than 10 7 to 10 8 | 31,000
+Greater than 10 8 to 10 9 | 310,000
+Greater than 10 9 | 3,100,000
 a Do not round to nearest integer.
 4.1.3.3.2.3 Potential human food chain contamination. Determine those fisheries (or portions of fisheries) within the watershed that are subject to potential human food chain contamination. Do not include those fisheries (or portion of fisheries) already counted under the Level I or Level II concentrations factors.
 Calculate the value for the potential human food chain contamination factor (PF) for the watershed as follows:
-EC15NO91.151
 where:
 Pi = Human food chain population value for fishery i.
 Di = Dilution weight from table 4-13 for fishery i.
@@ -1819,8 +1794,7 @@ With regard to the AWQC, AALAC, or LC50 selected for assigning the ecosystem tox
 • If values for the selected AWQC, AALAC, or LC50 are available for both fresh water and marine water for the hazardous substance, use the value that corresponds to the type of water body (that is, fresh water or salt water) in which the sensitive environments are located to assign the ecosystem toxicity factor value to the hazardous substance.
 • If, however, some of the sensitive environments being evaluated are in fresh water and some are in salt water, or if any are in brackish water, use the value (fresh water or marine) that yields the higher factor value to assign the ecosystem toxicity factor value to the hazardous substance.
 • If a value for the selected AWQC, AALAC, or LC50 is available for either fresh water or marine water, but not for both, use the available one to assign an ecosystem toxicity factor value to the hazardous substance.
-Table 4-19—Ecosystem Toxicity Factor Values
-If an EPA chronic AWQC a or AALAC b is available, assign a value as follows: c
+Table 4-19—Ecosystem Toxicity Factor Values If an EPA chronic AWQC a or AALAC b is available, assign a value as follows: c
 EPA chronic AWQC or AALAC | Assigned value
 Less than 1 µg/l | 10,000
 1 to 10 µg/l | 1,000
@@ -1834,52 +1808,52 @@ Less than 100 µg/l | 10,000
 Greater than 1,000 to 10,000 µg/l | 100
 Greater than 10,000 to 100,000 µg/l | 10
 Greater than 100,000 µg/l | 1
-If neither an EPA chronic or acute AWQC nor EPA chronic or acute AALAC is available, assign a value from the LC 50 as follows:
+If neither an EPA chronic or acute AWQC nor EPA chronic or acute AALAC is available, assign a value from the LC50 as follows:
 LC50 | Assigned value
 Less than 100 µg/l | 10,000
 100 to 1,000 µg/l | 1,000
 Greater than 1,000 to 10,000 µg/l | 100
 Greater than 10,000 to 100,000 µg/l | 10
 Greater than 100,000 µg/l | 1
-If none of the AWQCs and AALACs nor the LC 50 is available, assign a value of 0.
-a AWQC—Ambient Water Quality Criteria.
-b AALAC—Ambient Aquatic Life Advisory Concentrations.
-c Use the AWQC value in preference to the AALAC when both are available. See text for use of fresh water and marine values.
+If none of the AWQCs and AALACs nor the LC50 is available, assign a value of 0.
+a AWQC—Ambient Water Quality Criteria. b AALAC—Ambient Aquatic Life Advisory Concentrations. c Use the AWQC value in preference to the AALAC when both are available. See text for use of fresh water and marine values.
 4.1.4.2.1.2 Persistence. Assign a persistence factor value to each hazardous substance as specified in section 4.1.2.2.1.2, except: use the predominant water category (that is lakes; or rivers, oceans, coastal tidal waters, or Great Lakes) between the probable point of entry and the nearest sensitive environment (not the nearest drinking water or resources intake) along the hazardous substance migration path for the watershed to determine which portion of table 4-10 to use. Determine the predominant water category based on distance as specified in section 4.1.2.2.1.2. For contaminated sediments with no identified source, use the point where measurement begins rather than the probable point of entry.
 4.1.4.2.1.3 Ecosystem bioaccumulation potential. Assign an ecosystem bioaccumulation potential factor value to each hazardous substance in the same manner specified for the bioaccumulation potential factor in section 4.1.3.2.1.3, except:
 • Use BCF data for all aquatic organisms, not just for aquatic human food chain organisms.
 • Use the BCF data that corresponds to the type of water body (that is, fresh water or salt water) in which the sensitive environments (not fisheries) are located.
-4.1.4.2.1.4 Calculation of ecosystem toxicity/persistence/bioaccumulation factor value. Assign each hazardous substance an ecosystem toxicity/persistence factor value from table 4-20, based on the values assigned to the hazardous substance for the ecosystem toxicity and persistence factors. Then assign each hazardous substance an ecosystem toxicity/persistence/bioaccumulation factor value from table ­4-21, based on the values assigned for the ecosystem toxicity/persistence and ecosystem bioaccumulation potential factors. Select the hazardous substance with the highest ecosystem toxicity/persistence/bioaccumulation factor value for the watershed and use it to assign the value to this factor. Enter this value in table 4-1.
+4.1.4.2.1.4 Calculation of ecosystem toxicity/persistence/bioaccumulation factor value. Assign each hazardous substance an ecosystem toxicity/persistence factor value from table 4-20, based on the values assigned to the hazardous substance for the ecosystem toxicity and persistence factors. Then assign each hazardous substance an ecosystem toxicity/persistence/bioaccumulation factor value from table 4-21, based on the values assigned for the ecosystem toxicity/persistence and ecosystem bioaccumulation potential factors. Select the hazardous substance with the highest ecosystem toxicity/persistence/bioaccumulation factor value for the watershed and use it to assign the value to this factor. Enter this value in table 4-1.
 Table 4-20—Ecosystem Toxicity/Persistence Factor Values a
-Persistence factor value | Ecosystem toxicity factor value | 10,000 | 1,000 | 100 | 10 | 1 | 0
+Persistence factor value | Ecosystem toxicity factor value
+10,000 | 1,000 | 100 | 10 | 1 | 0
 1.0 | 10,000 | 1,000 | 100 | 10 | 1 | 0
 0.4 | 4,000 | 400 | 40 | 4 | 0.4 | 0
 0.07 | 700 | 70 | 7 | 0.7 | 0.07 | 0
 0.0007 | 7 | 0.7 | 0.07 | 0.007 | 0.0007 | 0
 a Do not round to nearest integer.
 Table 4-21—Ecosystem Toxicity/Persistence/Bioaccumulation Factor Values a
-Ecosystem toxicity persistence factor value | Ecosystem bioaccumulation potential factor value | 50,000 | 5,000 | 500 | 50 | 5 | 0.5
-10,000 | 5 × 108 | 5 × 107 | 5 × 106 | 5 × 105 | 5 × 104 | 5,000
-4,000 | 2 × 108 | 2 × 107 | 2 × 106 | 2 × 105 | 2 × 104 | 2,000
-1,000 | 5 × 107 | 5 × 106 | 5 × 105 | 5 × 104 | 5,000 | 500
-700 | 3.5 × 107 | 3.5 × 106 | 3.5 × 105 | 3.5 × 104 | 3,500 | 350
-400 | 2 × 107 | 2 × 106 | 2 × 105 | 2 × 104 | 2,000 | 200
-100 | 5 × 106 | 5 × 105 | 5 × 104 | 5,000 | 500 | 50
-70 | 3.5 × 106 | 3.5 × 105 | 3.5 × 104 | 3,500 | 350 | 35
-40 | 2 × 106 | 2 × 105 | 2 × 104 | 2,000 | 200 | 20
-10 | 5 × 105 | 5 × 104 | 5,000 | 500 | 50 | 5
-7 | 3.5 × 105 | 3.5 × 104 | 3,500 | 350 | 35 | 3.5
-4 | 2 × 105 | 2 × 104 | 2,000 | 200 | 20 | 2
-1 | 5 × 104 | 5,000 | 500 | 50 | 5 | 0.5
-0.7 | 3.5 × 104 | 3,500 | 350 | 35 | 3.5 | 0.35
-0.4 | 2 × 104 | 2,000 | 200 | 20 | 2 | 0.2
+Ecosystem toxicity persistence factor value | Ecosystem bioaccumulation potential factor value
+50,000 | 5,000 | 500 | 50 | 5 | 0.5
+10,000 | 5 × 10 8 | 5 × 10 7 | 5 × 10 6 | 5 × 10 5 | 5 × 10 4 | 5,000
+4,000 | 2 × 10 8 | 2 × 10 7 | 2 × 10 6 | 2 × 10 5 | 2 × 10 4 | 2,000
+1,000 | 5 × 10 7 | 5 × 10 6 | 5 × 10 5 | 5 × 10 4 | 5,000 | 500
+700 | 3.5 × 10 7 | 3.5 × 10 6 | 3.5 × 10 5 | 3.5 × 10 4 | 3,500 | 350
+400 | 2 × 10 7 | 2 × 10 6 | 2 × 10 5 | 2 × 10 4 | 2,000 | 200
+100 | 5 × 10 6 | 5 × 10 5 | 5 × 10 4 | 5,000 | 500 | 50
+70 | 3.5 × 10 6 | 3.5 × 10 5 | 3.5 × 10 4 | 3,500 | 350 | 35
+40 | 2 × 10 6 | 2 × 10 5 | 2 × 10 4 | 2,000 | 200 | 20
+10 | 5 × 10 5 | 5 × 10 4 | 5,000 | 500 | 50 | 5
+7 | 3.5 × 10 5 | 3.5 × 10 4 | 3,500 | 350 | 35 | 3.5
+4 | 2 × 10 5 | 2 × 10 4 | 2,000 | 200 | 20 | 2
+1 | 5 × 10 4 | 5,000 | 500 | 50 | 5 | 0.5
+0.7 | 3.5 × 10 4 | 3,500 | 350 | 35 | 3.5 | 0.35
+0.4 | 2 × 10 4 | 2,000 | 200 | 20 | 2 | 0.2
 0.07 | 3,500 | 350 | 35 | 3.5 | 0.35 | 0.035
 0.007 | 350 | 35 | 3.5 | 0.35 | 0.035 | 0.0035
 0.0007 | 35 | 3.5 | 0.35 | 0.035 | 0.0035 | 0.00035
 0 | 0 | 0 | 0 | 0 | 0 | 0
 a Do not round to nearest integer.
 4.1.4.2.2 Hazardous waste quantity. Assign the same factor value for hazardous waste quantity for the watershed as would be assigned in section 4.1.2.2.2 for the drinking water threat. Enter this value in table 4-1.
-4.1.4.2.3 Calculation of environmental threat-waste characteristics factor category value. For the hazardous substance selected for the watershed in section 4.1.4.2.1.4, use its ecosystem toxicity/persistence factor value and ecosystem bioaccumulation potential factor value as follows to assign a value to the waste characteristics factor category. First, multiply the ecosystem toxicity/persistence factor value and the hazardous waste quantity factor value for the watershed, subject to a maximum product of 1 × 108. Then multiply this product by the ecosystem bioaccumulation potential factor value for this hazardous substance, subject to a maximum product of 1 × 1012. Based on this second product, assign a value from Table ­2-7 (section 2.4.3.1) to the environmental threat-waste characteristics factor category for the watershed. Enter this value in table 4-1.
+4.1.4.2.3 Calculation of environmental threat-waste characteristics factor category value. For the hazardous substance selected for the watershed in section 4.1.4.2.1.4, use its ecosystem toxicity/persistence factor value and ecosystem bioaccumulation potential factor value as follows to assign a value to the waste characteristics factor category. First, multiply the ecosystem toxicity/persistence factor value and the hazardous waste quantity factor value for the watershed, subject to a maximum product of 1 × 10 8. Then multiply this product by the ecosystem bioaccumulation potential factor value for this hazardous substance, subject to a maximum product of 1 × 10 12. Based on this second product, assign a value from Table 2-7 (section 2.4.3.1) to the environmental threat-waste characteristics factor category for the watershed. Enter this value in table 4-1.
 Table 4-22—Ecological-Based Benchmarks for Hazardous Substances in Surface Water
 • Concentration corresponding to EPA Ambient Water Quality Criteria (AWQC) for protection of aquatic life (fresh water or marine).
 • Concentration corresponding to EPA Ambient Aquatic Life Advisory Concentrations (AALAC).
@@ -1891,44 +1865,36 @@ Table 4-22—Ecological-Based Benchmarks for Hazardous Substances in Surface Wat
 Table 4-23—Sensitive Environments Rating Values
 Sensitive environment | Assigned value
 Critical habitat a for Federal designated endangered or threatened species | 100
-Marine Sanctuary
-National Park
-Designated Federal Wilderness Area
-Areas identified under Coastal Zone Management Act b
-Sensitive areas identified under National Estuary Program c or Near Coastal Waters Program d
-Critical areas identified under the Clean Lakes Program e
-National Monument f
-National Seashore Recreational Area
-National Lakeshore Recreational Area
+Marine Sanctuary |
+National Park |
+Designated Federal Wilderness Area |
+Areas identified under Coastal Zone Management Act b |
+Sensitive areas identified under National Estuary Program c or Near Coastal Waters Program d |
+Critical areas identified under the Clean Lakes Program e |
+National Monument f |
+National Seashore Recreational Area |
+National Lakeshore Recreational Area |
 Habitat known to be used by Federal designated or proposed endangered or threatened species | 75
-National Preserve
-National or State Wildlife Refuge
-Unit of Coastal Barrier Resources System
-Coastal Barrier (undeveloped)
-Federal land designated for protection of natural ecosystems
-Administratively Proposed Federal Wilderness Area
-Spawning areas critical g for the maintenance of fish/shellfish species within river, lake, or coastal tidal waters
-Migratory pathways and feeding areas critical for maintenance of anadromous fish species within river reaches or areas in lakes or coastal tidal waters in which the fish spend extended periods of time
-Terrestrial areas utilized for breeding by large or dense aggregations of animals h
-National river reach designated as Recreational
+National Preserve |
+National or State Wildlife Refuge |
+Unit of Coastal Barrier Resources System |
+Coastal Barrier (undeveloped) |
+Federal land designated for protection of natural ecosystems |
+Administratively Proposed Federal Wilderness Area |
+Spawning areas critical g for the maintenance of fish/shellfish species within river, lake, or coastal tidal waters |
+Migratory pathways and feeding areas critical for maintenance of anadromous fish species within river reaches or areas in lakes or coastal tidal waters in which the fish spend extended periods of time |
+Terrestrial areas utilized for breeding by large or dense aggregations of animals h |
+National river reach designated as Recreational |
 Habitat known to be used by State designated endangered or threatened species | 50
-Habitat known to be used by species under review as to its Federal endangered or threatened status
-Coastal Barrier (partially developed)
-Federal designated Scenic or Wild River
+Habitat known to be used by species under review as to its Federal endangered or threatened status |
+Coastal Barrier (partially developed) |
+Federal designated Scenic or Wild River |
 State land designated for wildlife or game management | 25
-State designated Scenic or Wild River
-State designated Natural Areas
-Particular areas, relatively small in size, important to maintenance of unique biotic communities
+State designated Scenic or Wild River |
+State designated Natural Areas |
+Particular areas, relatively small in size, important to maintenance of unique biotic communities |
 State designated areas for protection or maintenance of aquatic life i | 5
-a Critical habitat as defined in 50 CFR 424.02.
-b Areas identified in State Coastal Zone Management plans as requiring protection because of ecological value.
-c National Estuary Program study areas (subareas within estuaries) identified in Comprehensive Conservation and Management Plans as requiring protection because they support critical life stages of key estuarine species (Section 320 of Clean Water Act, as amended).
-d Near Coastal Waters as defined in Sections 104(b)(3), 304(1), 319, and 320 of Clean Water Act, as amended.
-e Clean Lakes Program critical areas (subareas within lakes, or in some cases entire small lakes) identified by State Clean Lake Plans as critical habitat (Section 314 of Clean Water Act, as amended).
-f Use only for air migration pathway.
-g Limit to areas described as being used for intense or concentrated spawning by a given species.
-h For the air migration pathway, limit to terrestrial vertebrate species. For the surface water migration pathway, limit to terrestrial vertebrate species with aquatic or semiaquatic foraging habits.
-i Areas designated under Section 305(a) of Clean Water Act, as amended.
+a Critical habitat as defined in 50 CFR 424.02. b Areas identified in State Coastal Zone Management plans as requiring protection because of ecological value. c National Estuary Program study areas (subareas within estuaries) identified in Comprehensive Conservation and Management Plans as requiring protection because they support critical life stages of key estuarine species (Section 320 of Clean Water Act, as amended). d Near Coastal Waters as defined in Sections 104(b)(3), 304(1), 319, and 320 of Clean Water Act, as amended. e Clean Lakes Program critical areas (subareas within lakes, or in some cases entire small lakes) identified by State Clean Lake Plans as critical habitat (Section 314 of Clean Water Act, as amended). f Use only for air migration pathway. g Limit to areas described as being used for intense or concentrated spawning by a given species. h For the air migration pathway, limit to terrestrial vertebrate species. For the surface water migration pathway, limit to terrestrial vertebrate species with aquatic or semiaquatic foraging habits. i Areas designated under Section 305(a) of Clean Water Act, as amended.
 Table 4-24—Wetlands Rating Values for Surface Water Migration Pathway
 Total length of wetlands a (miles) | Assigned value
 Less than 0.1 | 0
@@ -1952,7 +1918,6 @@ Estimate the total length of wetlands along the hazardous substance migration pa
 • For rivers, use the length of the wetlands contiguous to the in-water segment of the hazardous substance migration path (that is, wetland frontage).
 • For lakes, oceans, coastal tidal waters, and Great Lakes, use the length of the wetlands along the shoreline within the target distance limit (that is, wetland frontage along the shoreline).
 Calculate the Level I concentrations factor value (SH) for the watershed as follows:
-EC15NO91.152
 where:
 WH = Value assigned from table 4-24 to wetlands along the area of Level I concentrations.
 Si = Value(s) assigned from table 4-23 to sensitive environment i.
@@ -1962,7 +1927,6 @@ Enter the value assigned in table 4-1.
 For those sensitive environments that are wetlands, assign an additional value from table 4-24. In assigning a value from table 4-24, include only those portions of wetlands located along the hazardous substance migration path in the area of Level II concentrations, as specified in section 4.1.4.3.1.1.
 Estimate the total length of wetlands along the hazardous substance migration path (that is, wetland frontage) in the area of Level II concentrations and assign a value from table 4-24 based on this total length. Estimate this length as specified in section 4.1.4.3.1.1, except: for an isolated wetland or for a wetland where the probable point of entry to surface water is in the wetland, use the perimeter of that portion of the wetland subject to Level II (not Level I) concentrations as the length.
 Calculate the Level II concentrations value (SL) for the watershed as follows:
-EC15NO91.153
 where:
 WL = Value assigned from table 4-24 to wetlands along the area of Level II concentrations.
 Si = Value(s) assigned from table 4-23 to sensitive environment i.
@@ -1972,9 +1936,7 @@ Enter the value assigned in table 4-1.
 For each type of surface water body in table 4-13 (section 4.1.2.3.1), sum the value(s) assigned from table 4-23 to the sensitive environments along that type of surface water body, except: do not use the surface water body type "3-mile mixing zone in quiet flowing river." If a sensitive environment is along two or more types of surface water bodies (for example, Wildlife Refuge contiguous to both a moderate stream and a large river), assign the sensitive environment only to that surface water body type having the highest dilution weight value from table 4-13.
 For those sensitive environments that are wetlands, assign an additional value from table 4-24. In assigning a value from table 4-24, include only those portions of wetlands located along the hazardous substance migration path in the area of potential contamination, as specified in section 4.1.4.3.1.1. Aggregate these wetlands by type of surface water body, except: do not use the surface water body type "3-mile mixing zone in quiet flowing river." Treat the wetlands aggregated within each type of surface water body as separate sensitive environments solely for purposes of applying table 4-24. Estimate the total length of the wetlands within each surface water body type as specified in section 4.1.4.3.1.1, except: for an isolated wetland or for a wetland where the probable point of entry to surface water is in the wetland, use the perimeter of that portion of the wetland subject to potential contamination (or the portion of that perimeter that is within the target distance limit) as the length. Assign a separate value from table 4-24 for each type of surface water body in the watershed.
 Calculate the potential contamination factor value (SP) for the watershed as follows:
-EC15NO91.154
 where:
-EC15NO91.155
 Sij = Value(s) assigned from table 4-23 to sensitive environment i in surface water body type j.
 n = Number of sensitive environments from table 4-23 subject to potential contamination.
 Wj = Value assigned from table 4-24 for wetlands along the area of potential contamination in surface water body type j.
@@ -2004,9 +1966,7 @@ If the hazardous substance meets the section 4.1.2.1.1 criteria for an observed 
 4.2.1.4 Target distance limit. Determine the target distance limit for each watershed as specified in section 4.1.1.2, except: do not extend the target distance limit to a sample location beyond 15 miles unless at least one hazardous substance in a sample from that location meets the criteria in section 4.2.1.3 for an observed release to the surface water in-water segment.
 Determine the targets eligible to be evaluated for each watershed and establish whether these targets are subject to actual or potential contamination as specified in section 4.1.1.2, except: do not establish actual contamination based on a sample location unless at least one hazardous substance in a sample from that location meets the criteria in section 4.2.1.3 for an observed release to the surface water in-water segment.
 4.2.1.5 Evaluation of ground water to surface water migration component. Evaluate the drinking water threat, human food chain threat, and environmental threat for each watershed for this component based on three factor categories: likelihood of release, waste characteristics, and targets. Figure 4-2 indicates the factors included within each factor category for each type of threat.
-EC02AU92.009
 Determine the ground water to surface water migration component score (Sgs) for a watershed in terms of the factor category values as follows:
-EC15NO91.156
 where:
 LRi = Likelihood of release factor category value for threat i (that is, drinking water, human food chain, or environmental threat).
 WCi = Waste characteristics factor category value for threat i.
@@ -2019,70 +1979,68 @@ If the site is in more than one watershed:
 • Select the highest ground water to surface water migration component score from the watersheds evaluated and assign it as the ground water to surface water migration component score for the site.
 Table 4-25—Ground Water to Surface Water Migration Component Scoresheet
 Factor categories and factors | Maximum value | Value assigned
-Drinking Water Threat
-Likelihood of Release to Aquifer:
-1. Observed Release | 550 | ___
-2. Potential to Release:
-2a. Containment | 10 | ___
-2b. Net Precipitation | 10 | ___
-2c. Depth to Aquifer | 5 | ___
-2d. Travel Time | 35 | ___
-2e. Potential to Release (lines 2a[2b + 2c + 2d]) | 500 | ___
-3. Likelihood of Release (higher of lines 1 and 2e) | 550 | ___
-Waste Characteristics:
-4. Toxicity/Mobility/Persistence | (a) | ___
-5. Hazardous Waste Quantity | (a) | ___
-6. Waste Characteristics | 100 | ___
-Targets:
-7. Nearest Intake | 50 | ___
-8. Population
-8a. Level I Concentrations | (b) | ___
-8b. Level II Concentrations | (b) | ___
-8c. Potential Contamination | (b) | ___
-8d. Population (lines 8a + 8b + 8c) | | ___
-9. Resources | 5 | ___
-10. Targets (lines 7 + 8d + 9) | (b) | ___
-Drinking Water Threat Score:
-11. Drinking Water Threat Score ([lines 3 × 6 × 10]/82,500, subject to a maximum of 100) | 100 | ___
-Human Food Chain Threat
-Likelihood of Release:
-12. Likelihood of Release (same value as line 3) | 550 | ___
-Waste Characteristics:
-13. Toxicity/Mobility/Persistence/Bioaccumulation | (a) | ___
-14. Hazardous Waste Quantity | (a) | ___
-15. Waste Characteristics | 1,000 | ___
-Targets:
-16. Food Chain Individual | 50 | ___
-17. Population:
-17a. Level I Concentrations | (b) | ___
-17b. Level II Concentrations | (b) | ___
-17c. Potential Human Food Chain Contamination | (b) | ___
-17d. Population (lines 17a + 17b + 17c) | (b) | ___
-18. Targets (Lines 16 + 17d) | (b) | ___
-Human Food Chain Threat Score:
-19. Human Food Chain Threat Score ([lines 12 × 15 × 18]/82,500, subject to a maximum of 100) | 100 | ___
-Environmental Threat
-Likelihood of Release:
-20. Likelihood of Release (same value as line 3) | 550 | ___
-Waste Characteristics:
-21. Ecosystem Toxicity/Mobility/Persistence/Bioaccumulation | (a) | ___
-22. Hazardous Waste Quantity | (a) | ___
-23. Waste Characteristics | 1,000 | ___
-Targets:
-24. Sensitive Environments:
-24a. Level I Concentrations | (b) | ___
-24b. Level II Concentrations | (b) | ___
-24c. Potential Contamination | (b) | ___
-24d. Sensitive Environments (lines 24a + 24b + 24c) | (b) | ___
-25. Targets (value from line 24d) | (b) | ___
-Environmental Threat Score:
-26. Environmental Threat Score ([lines 20 × 23 × 25]/82,500, subject to a maximum of 60) | 60 | ___
-Ground Water to Surface Water Migration Component Score for a Watershed
-27. Watershed Score c (lines 11 + 19 + 26, subject to a maximum of 100) | 100 | ___
-28. Component Score (Sgs) c (highest score from Line 27 for all watersheds evaluated, subject to a maximum of 100) | 100 | ___
-a Maximum value applies to waste characteristics category.
-b Maximum value not applicable.
-c Do not round to nearest integer.
+Drinking Water Threat | |
+Likelihood of Release to Aquifer: | |
+1. Observed Release | 550 | ______
+2. Potential to Release: | |
+2a. Containment | 10 | ______
+2b. Net Precipitation | 10 | ______
+2c. Depth to Aquifer | 5 | ______
+2d. Travel Time | 35 | ______
+2e. Potential to Release (lines 2a[2b + 2c + 2d]) | 500 | ______
+3. Likelihood of Release (higher of lines 1 and 2e) | 550 | ______
+Waste Characteristics: | |
+4. Toxicity/Mobility/Persistence | (a) | ______
+5. Hazardous Waste Quantity | (a) | ______
+6. Waste Characteristics | 100 | ______
+Targets: | |
+7. Nearest Intake | 50 | ______
+8. Population | |
+8a. Level I Concentrations | (b) | ______
+8b. Level II Concentrations | (b) | ______
+8c. Potential Contamination | (b) | ______
+8d. Population (lines 8a + 8b + 8c) | | ______
+9. Resources | 5 | ______
+10. Targets (lines 7 + 8d + 9) | (b) | ______
+Drinking Water Threat Score: | |
+11. Drinking Water Threat Score ([lines 3 × 6 × 10]/82,500, subject to a maximum of 100) | 100 | ______
+Human Food Chain Threat | |
+Likelihood of Release: | |
+12. Likelihood of Release (same value as line 3) | 550 | ______
+Waste Characteristics: | |
+13. Toxicity/Mobility/Persistence/Bioaccumulation | (a) | ______
+14. Hazardous Waste Quantity | (a) | ______
+15. Waste Characteristics | 1,000 | ______
+Targets: | |
+16. Food Chain Individual | 50 | ______
+17. Population: | |
+17a. Level I Concentrations | (b) | ______
+17b. Level II Concentrations | (b) | ______
+17c. Potential Human Food Chain Contamination | (b) | ______
+17d. Population (lines 17a + 17b + 17c) | (b) | ______
+18. Targets (Lines 16 + 17d) | (b) | ______
+Human Food Chain Threat Score: | |
+19. Human Food Chain Threat Score ([lines 12 × 15 × 18]/82,500, subject to a maximum of 100) | 100 | ______
+Environmental Threat | |
+Likelihood of Release: | |
+20. Likelihood of Release (same value as line 3) | 550 | ______
+Waste Characteristics: | |
+21. Ecosystem Toxicity/Mobility/Persistence/Bioaccumulation | (a) | ______
+22. Hazardous Waste Quantity | (a) | ______
+23. Waste Characteristics | 1,000 | ______
+Targets: | |
+24. Sensitive Environments: | |
+24a. Level I Concentrations | (b) | ______
+24b. Level II Concentrations | (b) | ______
+24c. Potential Contamination | (b) | ______
+24d. Sensitive Environments (lines 24a + 24b + 24c) | (b) | ______
+25. Targets (value from line 24d) | (b) | ______
+Environmental Threat Score: | |
+26. Environmental Threat Score ([lines 20 × 23 × 25]/82,500, subject to a maximum of 60) | 60 | ______
+Ground Water to Surface Water Migration Component Score for a Watershed | |
+27. Watershed Score c (lines 11 + 19 + 26, subject to a maximum of 100) | 100 | ______
+28. Component Score (Sgs) c (highest score from Line 27 for all watersheds evaluated, subject to a maximum of 100) | 100 | ______
+a Maximum value applies to waste characteristics category. b Maximum value not applicable. c Do not round to nearest integer.
 4.2.2 Drinking water threat. Evaluate the drinking water threat for each watershed based on three factor categories: likelihood of release, waste characteristics, and targets.
 4.2.2.1 Drinking water threat-likelihood of release. Evaluate the likelihood of release factor category for each watershed in terms of an observed release factor or a potential to release factor.
 4.2.2.1.1 Observed release. Establish an observed release to the uppermost aquifer as specified in section 3.1.1. If an observed release can be established for the uppermost aquifer, assign an observed release factor value of 550 to that watershed, enter this value in table 4-25, and proceed to section 4.2.2.1.3. If no observed release can be established, assign an observed release factor value of 0, enter this value in table 4-25, and proceed to section 4.2.2.1.2.
@@ -2097,10 +2055,11 @@ c Do not round to nearest integer.
 4.2.2.2.1.3 Persistence. Assign a surface water persistence factor value to each hazardous substance as specified in section 4.1.2.2.1.2.
 4.2.2.2.1.4 Calculation of toxicity/mobility/persistence factor value. First, assign each hazardous substance a toxicity/mobility factor value from table 3-9 (section 3.2.1.3), based on the values assigned to the hazardous substance for the toxicity and mobility factors. Then assign each hazardous substance a toxicity/mobility/persistence factor value from table 4-26, based on the values assigned for the toxicity/mobility and persistence factors. Use the substance with the highest toxicity/mobility/ persistence factor value for the watershed to assign the value to this factor. Enter this value in table 4-25.
 4.2.2.2.2 Hazardous waste quantity. Assign the same factor value for hazardous waste quantity for the watershed as would be assigned for the uppermost aquifer in section 3.2.2. Enter this value in table 4-25.
-4.2.2.2.3 Calculation of drinking water threat-waste characteristics factor category value. Multiply the toxicity/mobility/persistence and hazardous waste quantity factor values for the watershed, subject to a maximum product of 1 × 108. Based on this product, assign a value from table 2-7 (section 2.4.3.1) to the drinking water threat-waste characteristics factor category for the watershed. Enter this value in table 4-25.
+4.2.2.2.3 Calculation of drinking water threat-waste characteristics factor category value. Multiply the toxicity/mobility/persistence and hazardous waste quantity factor values for the watershed, subject to a maximum product of 1 × 10 8. Based on this product, assign a value from table 2-7 (section 2.4.3.1) to the drinking water threat-waste characteristics factor category for the watershed. Enter this value in table 4-25.
 4.2.2.3 Drinking water threat-targets. Evaluate the targets factor category for each watershed based on three factors: nearest intake, population, and resources.
 Table 4-26—Toxicity/Mobility/Persistence Factor Values a
-Toxicity/mobility factor value | Persistence factor value | 1.0 | 0.4 | 0.07 | 0.0007
+Toxicity/mobility factor value | Persistence factor value
+1.0 | 0.4 | 0.07 | 0.0007
 10,000 | 10,000 | 4,000 | 700 | 7
 2,000 | 2,000 | 800 | 140 | 1.4
 1,000 | 1,000 | 400 | 70 | 0.7
@@ -2144,35 +2103,35 @@ Greater than 270 to 306 | 0.8
 Greater than 306 to 342 | 0.9
 Greater than 342 to 360 | 1.0
 a Do not round to nearest integer.
-EC02AU92.010
 Table 4-28—Toxicity/Mobility/Persistence/Bioaccumulation Factor Values a
-Toxicity/mobility/persistence factor value | Bioaccumlation potential factor value | 50,000 | 5,000 | 500 | 50 | 5 | 0.5
-10,000 | 5 × 108 | 5 × 107 | 5 × 106 | 5 × 105 | 5 × 104 | 5,000
-4,000 | 2 × 108 | 2 × 107 | 2 × 106 | 2 × 105 | 2 × 104 | 2,000
-2,000 | 1 × 108 | 1 × 107 | 1 × 106 | 1 × 105 | 1 × 104 | 1,000
-1,000 | 5 × 107 | 5 × 106 | 5 × 105 | 5 × 104 | 5,000 | 500
-800 | 4 × 107 | 4 × 106 | 4 × 105 | 4 × 104 | 4,000 | 400
-700 | 3.5 × 107 | 3.5 × 106 | 3.5 × 105 | 3.5 × 104 | 3,500 | 350
-400 | 2 × 107 | 2 × 106 | 2 × 105 | 2 × 104 | 2,000 | 200
-200 | 1 × 107 | 1 × 106 | 1 × 105 | 1 × 104 | 1,000 | 100
-140 | 7 × 106 | 7 × 105 | 7 × 104 | 7,000 | 700 | 70
-100 | 5 × 106 | 5 × 105 | 5 × 104 | 5,000 | 500 | 50
-80 | 4 × 106 | 4 × 105 | 4 × 104 | 4,000 | 400 | 40
-70 | 3.5 × 106 | 3.5 × 105 | 3.5 × 104 | 3,500 | 350 | 35
-40 | 2 × 106 | 2 × 105 | 2 × 104 | 2,000 | 200 | 20
-20 | 1 × 106 | 1 × 105 | 1 × 104 | 1,000 | 100 | 10
-14 | 7 × 105 | 7 × 104 | 7,000 | 700 | 70 | 7
-10 | 5 × 105 | 5 × 104 | 5,000 | 500 | 50 | 5
-8 | 4 × 105 | 4 × 104 | 4,000 | 400 | 40 | 4
-7 | 3.5 × 105 | 3.5 × 104 | 3,500 | 350 | 35 | 3.5
-4 | 2 × 105 | 2 × 104 | 2,000 | 200 | 20 | 2
-2 | 1 × 105 | 1 × 104 | 1,000 | 100 | 10 | 1
-1.4 | 7 × 104 | 7,000 | 700 | 70 | 7 | 0.7
-1.0 | 5 × 104 | 5,000 | 500 | 50 | 5 | 0.5
-0.8 | 4 × 104 | 4,000 | 400 | 40 | 4 | 0.4
-0.7 | 3.5 × 104 | 3,500 | 350 | 35 | 3.5 | 0.35
-0.4 | 2 × 104 | 2,000 | 200 | 20 | 2 | 0.2
-0.2 | 1 × 104 | 1,000 | 100 | 10 | 1 | 0.1
+Toxicity/mobility/persistence factor value | Bioaccumlation potential factor value
+50,000 | 5,000 | 500 | 50 | 5 | 0.5
+10,000 | 5 × 10 8 | 5 × 10 7 | 5 × 10 6 | 5 × 10 5 | 5 × 10 4 | 5,000
+4,000 | 2 × 10 8 | 2 × 10 7 | 2 × 10 6 | 2 × 10 5 | 2 × 10 4 | 2,000
+2,000 | 1 × 10 8 | 1 × 10 7 | 1 × 10 6 | 1 × 10 5 | 1 × 10 4 | 1,000
+1,000 | 5 × 10 7 | 5 × 10 6 | 5 × 10 5 | 5 × 10 4 | 5,000 | 500
+800 | 4 × 10 7 | 4 × 10 6 | 4 × 10 5 | 4 × 10 4 | 4,000 | 400
+700 | 3.5 × 10 7 | 3.5 × 10 6 | 3.5 × 10 5 | 3.5 × 10 4 | 3,500 | 350
+400 | 2 × 10 7 | 2 × 10 6 | 2 × 10 5 | 2 × 10 4 | 2,000 | 200
+200 | 1 × 10 7 | 1 × 10 6 | 1 × 10 5 | 1 × 10 4 | 1,000 | 100
+140 | 7 × 10 6 | 7 × 10 5 | 7 × 10 4 | 7,000 | 700 | 70
+100 | 5 × 10 6 | 5 × 10 5 | 5 × 10 4 | 5,000 | 500 | 50
+80 | 4 × 10 6 | 4 × 10 5 | 4 × 10 4 | 4,000 | 400 | 40
+70 | 3.5 × 10 6 | 3.5 × 10 5 | 3.5 × 10 4 | 3,500 | 350 | 35
+40 | 2 × 10 6 | 2 × 10 5 | 2 × 10 4 | 2,000 | 200 | 20
+20 | 1 × 10 6 | 1 × 10 5 | 1 × 10 4 | 1,000 | 100 | 10
+14 | 7 × 10 5 | 7 × 10 4 | 7,000 | 700 | 70 | 7
+10 | 5 × 10 5 | 5 × 10 4 | 5,000 | 500 | 50 | 5
+8 | 4 × 10 5 | 4 × 10 4 | 4,000 | 400 | 40 | 4
+7 | 3.5 × 10 5 | 3.5 × 10 4 | 3,500 | 350 | 35 | 3.5
+4 | 2 × 10 5 | 2 × 10 4 | 2,000 | 200 | 20 | 2
+2 | 1 × 10 5 | 1 × 10 4 | 1,000 | 100 | 10 | 1
+1.4 | 7 × 10 4 | 7,000 | 700 | 70 | 7 | 0.7
+1.0 | 5 × 10 4 | 5,000 | 500 | 50 | 5 | 0.5
+0.8 | 4 × 10 4 | 4,000 | 400 | 40 | 4 | 0.4
+0.7 | 3.5 × 10 4 | 3,500 | 350 | 35 | 3.5 | 0.35
+0.4 | 2 × 10 4 | 2,000 | 200 | 20 | 2 | 0.2
+0.2 | 1 × 10 4 | 1,000 | 100 | 10 | 1 | 0.1
 0.14 | 7,000 | 700 | 70 | 7 | 0.7 | 0.07
 0.1 | 5,000 | 500 | 50 | 5 | 0.5 | 0.05
 0.08 | 4,000 | 400 | 40 | 4 | 0.4 | 0.04
@@ -2224,7 +2183,6 @@ a Do not round to nearest integer.
 4.2.2.3.2.2 Level II concentrations. Assign a value to this factor as specified in section 4.1.2.3.2.3.
 4.2.2.3.2.3 Potential contamination. For each applicable type of surface water body in table 4-14, determine the dilution-weighted population value as specified in section 4.1.2.3.2.4. Select the appropriate dilution weight adjustment value from table 4-27 as specified in section 4.2.2.3.1.
 Calculate the value for the potential contamination factor (PC) for the watershed as follows:
-EC15NO91.157
 where:
 A = Dilution weight adjustment value from table 4-27.
 Wi = Dilution-weighted population from table 4-14 for surface water body type i.
@@ -2244,7 +2202,7 @@ If PC is less than 1, do not round it to the nearest integer; if PC is 1 or more
 4.2.3.2.1.4 Bioaccumulation potential. Assign a bioaccumulation potential factor value to each hazardous substance as specified in section 4.1.3.2.1.3.
 4.2.3.2.1.5 Calculation of toxicity/mobility/persistence/ bioaccumulation factor value. Assign each hazardous substance a toxicity/mobility factor value from table 3-9 (section 3.2.1.3), based on the values assigned to the hazardous substance for the toxicity and mobility factors. Then assign each hazardous substance a toxicity/mobility/persistence factor value from table 4-26, based on the values assigned for the toxicity/mobility and persistence factors. Then assign each hazardous substance a toxicity/mobility/persistence/bioaccumulation factor value from table 4-28. Use the substance with the highest toxicity/mobility/persistence/bioaccumulation factor value for the watershed to assign the value to this factor for the watershed. Enter this value in table 4-25.
 4.2.3.2.2 Hazardous waste quantity. Assign the same factor value for hazardous waste quantity for the watershed as would be assigned in section 4.2.2.2.2 for the drinking water threat. Enter this value in table 4-25.
-4.2.3.2.3 Calculation of human food chain threat-waste characteristics factor category value. For the hazardous substance selected for the watershed in section 4.2.3.2.1.5, use its toxicity/mobility/ persistence factor value and bioaccumulation potential factor value as follows to assign a value to the waste characteristics factor category. First, multiply the toxicity/mobility/persistence factor value and the hazardous waste quantity factor value for the watershed, subject to a maximum product of 1 × 108. Then multiply this product by the bioaccumulation potential factor value for this hazardous substance, subject to a maximum product of 1 × 1012. Based on this second product, assign a value from table 2-7 (section 2.4.3.1) to the human food chain threat-waste characteristics factor category for the watershed. Enter this value in table 4-25.
+4.2.3.2.3 Calculation of human food chain threat-waste characteristics factor category value. For the hazardous substance selected for the watershed in section 4.2.3.2.1.5, use its toxicity/mobility/ persistence factor value and bioaccumulation potential factor value as follows to assign a value to the waste characteristics factor category. First, multiply the toxicity/mobility/persistence factor value and the hazardous waste quantity factor value for the watershed, subject to a maximum product of 1 × 10 8. Then multiply this product by the bioaccumulation potential factor value for this hazardous substance, subject to a maximum product of 1 × 10 12. Based on this second product, assign a value from table 2-7 (section 2.4.3.1) to the human food chain threat-waste characteristics factor category for the watershed. Enter this value in table 4-25.
 4.2.3.3 Human food chain threat-targets. Evaluate two target factors for the watershed: food chain individual and population.
 For both factors, determine whether the target fisheries are subject to Level I concentrations, Level II concentrations, or potential human food chain contamination. Determine which applies to each fishery (or portion of a fishery) as specified in section 4.1.3.3, subject to the restrictions specified in sections 4.2.1.3 and 4.2.1.4.
 4.2.3.3.1 Food chain individual. Assign a value to the food chain individual factor as specified in section 4.1.3.3.1 with the following modification. When a dilution weight is used, multiply the appropriate dilution weight from table 4-13 by the adjustment value selected from table 4-27, as specified in section 4.2.2.3.1. Use the resulting product, not the value from table 4-13, as the dilution weight in assigning the factor value. Do not round this product to the nearest integer. Enter the value assigned in table 4-25.
@@ -2265,7 +2223,8 @@ For both factors, determine whether the target fisheries are subject to Level I 
 4.2.4.2.1.4 Ecosystem bioaccumulation potential. Assign an ecosystem bioaccumulation potential factor value to each hazardous substance as specified in section 4.1.4.2.1.3.
 4.2.4.2.1.5 Calculation of ecosystem toxicity/mobility/persistence/ bioaccumulation factor value. Assign each hazardous substance an ecosystem toxicity/mobility factor value from table 3-9 (section 3.2.1.3), based on the values assigned to the hazardous substance for the ecosystem toxicity and mobility factors. Then assign each hazardous substance an ecosystem toxicity/mobility/persistence factor value from table 4-29, based on the values assigned for the ecosystem toxicity/mobility and persistence factors. Then assign each hazardous substance an ecosystem toxicity/mobility/persistence/bioaccumulation factor value from table 4-30, based on the values assigned for the ecosystem toxicity/mobility/persistence and ecosystem bioaccumulation potential factors. Select the substance with the highest ecosystem toxicity/mobility/persistence/bioaccumulation factor value for the watershed and use it to assign the value to this factor for the watershed. Enter this value in table 4-25.
 Table 4-29—Ecosystem Toxicity/Mobility/Persistence Factor Values a
-Ecosystem toxicity/mobility factor value | Persistence factor value | 1.0 | 0.4 | 0.07 | 0.0007
+Ecosystem toxicity/mobility factor value | Persistence factor value
+1.0 | 0.4 | 0.07 | 0.0007
 10,000 | 10,000 | 4,000 | 700 | 7
 2,000 | 2,000 | 800 | 140 | 1.41,000
 1,000 | 1,000 | 400 | 70 | 0.7
@@ -2291,33 +2250,34 @@ Ecosystem toxicity/mobility factor value | Persistence factor value | 1.0 | 0.4 
 0 | 0 | 0 | 0 | 0
 a Do not round to nearest integer.
 Table 4-30—Ecosystem Toxicity/Mobility/Persistence/Bioaccumulation Factor Values a
-Ecosystem toxicity/mobility/persistence factor value | Ecosystem bioaccumulation potential factor value | 50,000 | 5,000 | 500 | 50 | 5 | 0.5
-10,000 | 5 × 108 | 5 × 107 | 5 × 106 | 5 × 105 | 5 × 104 | 5,000
-4,000 | 2 × 108 | 2 × 107 | 2 × 106 | 2 × 105 | 2 × 104 | 2,000
-2,000 | 1, × 108 | 1 × 107 | 1 × 106 | 1 × 105 | 1 × 104 | 1,000
-1,000 | 5 × 107 | 5 × 106 | 5 × 105 | 5 × 104 | 5,000 | 500
-800 | 4 × 107 | 4 × 106 | 4 × 105 | 4 × 104 | 4,000 | 400
-700 | 3.5 × 107 | 3.5 × 106 | 3.5 × 105 | 3.5 × 104 | 3,500 | 350
-400 | 2 × 107 | 2 × 106 | 2 × 105 | 2 × 104 | 2,000 | 200
-200 | 1 × 107 | 1 × 106 | 1 × 105 | 1 × 104 | 1,000 | 100
-140 | 7 × 106 | 7 × 105 | 7 × 104 | 7,000 | 700 | 70
-100 | 5 × 106 | 5 × 105 | 5 × 104 | 5,000 | 500 | 50
-80 | 4 × 106 | 4 × 105 | 4 × 104 | 4,000 | 400 | 40
-70 | 3.5 × 106 | 3.5 × 105 | 3.5 × 104 | 3,500 | 350 | 35
-40 | 2 × 106 | 2 × 105 | 2 × 104 | 2,000 | 200 | 20
-20 | 1 × 106 | 1 × 105 | 1 × 104 | 1,000 | 100 | 10
-14 | 7 × 105 | 7 × 104 | 7,000 | 700 | 70 | 7
-10 | 5 × 105 | 5 × 104 | 5,000 | 500 | 50 | 5
-8 | 4 × 105 | 4 × 104 | 4,000 | 400 | 40 | 4
-7 | 3.5 × 105 | 3.5 × 104 | 3,500 | 350 | 35 | 3.5
-4 | 2 × 105 | 2 × 104 | 2,000 | 200 | 20 | 2
-2 | 1 × 105 | 1 × 104 | 1,000 | 100 | 10 | 1
-1.4 | 7 × 104 | 7,000 | 700 | 70 | 7 | 0.7
-1.0 | 5 × 104 | 5,000 | 500 | 50 | 5 | 0.5
-0.8 | 4 × 104 | 4,000 | 400 | 40 | 4 | 0.4
-0.7 | 3.5 × 104 | 3,500 | 350 | 35 | 3.5 | 0.35
-0.4 | 2 × 104 | 2,000 | 200 | 20 | 2 | 0.2
-0.2 | 1 × 104 | 1,000 | 100 | 10 | 1 | 0.1
+Ecosystem toxicity/mobility/persistence factor value | Ecosystem bioaccumulation potential factor value
+50,000 | 5,000 | 500 | 50 | 5 | 0.5
+10,000 | 5 × 10 8 | 5 × 10 7 | 5 × 10 6 | 5 × 10 5 | 5 × 10 4 | 5,000
+4,000 | 2 × 10 8 | 2 × 10 7 | 2 × 10 6 | 2 × 10 5 | 2 × 10 4 | 2,000
+2,000 | 1, × 10 8 | 1 × 10 7 | 1 × 10 6 | 1 × 10 5 | 1 × 10 4 | 1,000
+1,000 | 5 × 10 7 | 5 × 10 6 | 5 × 10 5 | 5 × 10 4 | 5,000 | 500
+800 | 4 × 10 7 | 4 × 10 6 | 4 × 10 5 | 4 × 10 4 | 4,000 | 400
+700 | 3.5 × 10 7 | 3.5 × 10 6 | 3.5 × 10 5 | 3.5 × 10 4 | 3,500 | 350
+400 | 2 × 10 7 | 2 × 10 6 | 2 × 10 5 | 2 × 10 4 | 2,000 | 200
+200 | 1 × 10 7 | 1 × 10 6 | 1 × 10 5 | 1 × 10 4 | 1,000 | 100
+140 | 7 × 10 6 | 7 × 10 5 | 7 × 10 4 | 7,000 | 700 | 70
+100 | 5 × 10 6 | 5 × 10 5 | 5 × 10 4 | 5,000 | 500 | 50
+80 | 4 × 10 6 | 4 × 10 5 | 4 × 10 4 | 4,000 | 400 | 40
+70 | 3.5 × 10 6 | 3.5 × 10 5 | 3.5 × 10 4 | 3,500 | 350 | 35
+40 | 2 × 10 6 | 2 × 10 5 | 2 × 10 4 | 2,000 | 200 | 20
+20 | 1 × 10 6 | 1 × 10 5 | 1 × 10 4 | 1,000 | 100 | 10
+14 | 7 × 10 5 | 7 × 10 4 | 7,000 | 700 | 70 | 7
+10 | 5 × 10 5 | 5 × 10 4 | 5,000 | 500 | 50 | 5
+8 | 4 × 10 5 | 4 × 10 4 | 4,000 | 400 | 40 | 4
+7 | 3.5 × 10 5 | 3.5 × 10 4 | 3,500 | 350 | 35 | 3.5
+4 | 2 × 10 5 | 2 × 10 4 | 2,000 | 200 | 20 | 2
+2 | 1 × 10 5 | 1 × 10 4 | 1,000 | 100 | 10 | 1
+1.4 | 7 × 10 4 | 7,000 | 700 | 70 | 7 | 0.7
+1.0 | 5 × 10 4 | 5,000 | 500 | 50 | 5 | 0.5
+0.8 | 4 × 10 4 | 4,000 | 400 | 40 | 4 | 0.4
+0.7 | 3.5 × 10 4 | 3,500 | 350 | 35 | 3.5 | 0.35
+0.4 | 2 × 10 4 | 2,000 | 200 | 20 | 2 | 0.2
+0.2 | 1 × 10 4 | 1,000 | 100 | 10 | 1 | 0.1
 0.14 | 7,000 | 700 | 70 | 7 | 0.7 | 0.07
 0.1 | 5,000 | 500 | 50 | 5 | 0.5 | 0.05
 0.08 | 4,000 | 400 | 40 | 4 | 0.4 | 0.04
@@ -2365,7 +2325,7 @@ Ecosystem toxicity/mobility/persistence factor value | Ecosystem bioaccumulation
 0 | 0 | 0 | 0 | 0 | 0 | 0
 a Do not round to nearest integer.
 4.2.4.2.2 Hazardous waste quantity. Assign the same factor value for hazardous waste quantity for the watershed as would be assigned in section 4.2.2.2.2 for the drinking water threat. Enter this value in table 4-25.
-4.2.4.2.3 Calculation of environmental threat-waste characteristics factor category value. For the hazardous substance selected for the watershed in section 4.2.4.2.1.5, use its ecosystem toxicity/mobility/persistence factor value and ecosystem bioaccumulation potential factor value as follows to assign a value to the waste characteristics factor category. First, multiply the ecosystem toxicity/mobility/persistence factor value and the hazardous waste quantity factor value for the watershed, subject to a maximum product of 1 × 108. Then multiply this product by the ecosystem bioaccumulation potential factor value for this hazardous substance, subject to a maximum product of 1 × 1012. Based on this product, assign a value from table 2-7 (section 2.4.3.1) to the environmental threat-waste characteristics category for the watershed. Enter the value in table 4-25.
+4.2.4.2.3 Calculation of environmental threat-waste characteristics factor category value. For the hazardous substance selected for the watershed in section 4.2.4.2.1.5, use its ecosystem toxicity/mobility/persistence factor value and ecosystem bioaccumulation potential factor value as follows to assign a value to the waste characteristics factor category. First, multiply the ecosystem toxicity/mobility/persistence factor value and the hazardous waste quantity factor value for the watershed, subject to a maximum product of 1 × 10 8. Then multiply this product by the ecosystem bioaccumulation potential factor value for this hazardous substance, subject to a maximum product of 1 × 10 12. Based on this product, assign a value from table 2-7 (section 2.4.3.1) to the environmental threat-waste characteristics category for the watershed. Enter the value in table 4-25.
 4.2.4.3 Environmental threat-targets. Evaluate the environmental threat-targets factor category for a watershed using one factor: sensitive environments.
 4.2.4.3.1 Sensitive environments. Evaluate sensitive environments for the watershed based on three factors: Level I concentrations, Level II concentrations, and potential contamination. Determine which applies to each sensitive environment as specified in section 4.1.4.3.1, except: use only those samples from the surface water in-water segment and only those hazardous substances in such samples that meet the conditions in sections 4.2.1.3 and 4.2.1.4.
 4.2.4.3.1.1 Level I concentrations. Assign a value to this factor as specified in section 4.1.4.3.1.1. Enter this value in table 4-25.
@@ -2383,10 +2343,8 @@ a Do not round to nearest integer.
 • Soil exposure component (see section 5.1).
 • Subsurface intrusion component (see section 5.2).
 Score one or both components considering their relative importance. If only one component is scored, assign its score as the soil exposure and subsurface intrusion pathway score. If both components are scored, sum the two scores and assign it as the soil exposure and subsurface intrusion pathway score, subject to a maximum of 100.
-ER09JA17.066
 5.1 Soil exposure component. Evaluate the soil exposure component based on two threats: Resident population threat and nearby population threat. Evaluate both threats based on three factor categories: Likelihood of exposure, waste characteristics, and targets. Figure 5-1 indicates the factors included within each factor category for each type of threat.
 Determine the soil exposure component score (Sse) in terms of the factor category values as follows:
-ER09JA17.067
 Where:
 LEi = Likelihood of exposure factor category value for threat i (that is, resident population threat or nearby population threat).
 WCi = Waste characteristics factor category value for threat i.
@@ -2394,47 +2352,44 @@ Ti = Targets factor category value for threat i.
 SF = Scaling factor.
 Table 5-1 outlines the specific calculation procedure.
 Table 5-1—Soil Exposure Component Scoresheet
-Factor categories and factors | Maximum value | Valueassigned
+Factor categories and factors | Maximum value | Value assigned
 Resident Population Threat
-Likelihood of Exposure:
-1. Likelihood of Exposure | 550
-Waste Characteristics:
-2. Toxicity | (a)
-3. Hazardous Waste Quantity | (a)
-4. Waste Characteristics | 100
-Targets:
-5. Resident Individual | 50
-6. Resident Population:
-6a. Level I Concentrations | (b)
-6b. Level II Concentrations | (b)
-6c. Resident Population (lines 6a + 6b) | (b)
-7. Workers | 15
-8. Resources | 5
-9. Terrestrial Sensitive Environments | (c)
-10. Targets (lines 5 + 6c + 7 + 8 + 9) | (b)
-Resident Population Threat Score:
-11. Resident Population Threat (lines 1 × 4 × 10) | (b)
+Likelihood of Exposure: | |
+1. Likelihood of Exposure | 550 |
+Waste Characteristics: | |
+2. Toxicity | (a) |
+3. Hazardous Waste Quantity | (a) |
+4. Waste Characteristics | 100 |
+Targets: | |
+5. Resident Individual | 50 |
+6. Resident Population: | |
+6a. Level I Concentrations | (b) |
+6b. Level II Concentrations | (b) |
+6c. Resident Population (lines 6a + 6b) | (b) |
+7. Workers | 15 |
+8. Resources | 5 |
+9. Terrestrial Sensitive Environments | (c) |
+10. Targets (lines 5 + 6c + 7 + 8 + 9) | (b) |
+Resident Population Threat Score: | |
+11. Resident Population Threat (lines 1 × 4 × 10) | (b) |
 Nearby Population Threat
-Likelihood of Exposure:
-12. Attractiveness/Accessibility | 100
-13. Area of Contamination | 100
-14. Likelihood of Exposure | 500
-Waste Characteristics:
-15. Toxicity | (a)
-16. Hazardous Waste Quantity | (a)
-17. Waste Characteristics | 100
-Targets:
-18. Nearby Individual | 1
-19. Population Within 1 Mile | (b)
-20. Targets (lines 18 + 19) | (b)
-Nearby Population Threat Score:
-21. Nearby Population Threat (lines 14 × 17 × 20) | (b)
-Soil Exposure Component Score:
-22. Soil Exposure Component Score d (Sse), (lines [11 + 21]/82,500, subject to a maximum of 100) | 100
-a Maximum value applies to waste characteristics category.
-b Maximum value not applicable.
-c No specific maximum value applies to factor. However, pathway score based solely on terrestrial sensitive environments is limited to maximum of 60.
-d Do not round to nearest integer.
+Likelihood of Exposure: | |
+12. Attractiveness/Accessibility | 100 |
+13. Area of Contamination | 100 |
+14. Likelihood of Exposure | 500 |
+Waste Characteristics: | |
+15. Toxicity | (a) |
+16. Hazardous Waste Quantity | (a) |
+17. Waste Characteristics | 100 |
+Targets: | |
+18. Nearby Individual | 1 |
+19. Population Within 1 Mile | (b) |
+20. Targets (lines 18 + 19) | (b) |
+Nearby Population Threat Score: | |
+21. Nearby Population Threat (lines 14 × 17 × 20) | (b) |
+Soil Exposure Component Score: | |
+22. Soil Exposure Component Score d (Sse), (lines [11 + 21]/82,500, subject to a maximum of 100) | 100 |
+a Maximum value applies to waste characteristics category. b Maximum value not applicable. c No specific maximum value applies to factor. However, pathway score based solely on terrestrial sensitive environments is limited to maximum of 60. d Do not round to nearest integer.
 5.1.0 General considerations. Evaluate the soil exposure component based on areas of observed contamination:
 • Consider observed contamination to be present at sampling locations where analytic evidence indicates that:
 —A hazardous substance attributable to the site is present at a concentration significantly above background levels for the site (see Table 2-3 in section 2.3 for the criteria for determining analytical significance), and
@@ -2460,25 +2415,21 @@ If not, assign the resident population threat a value of 0, enter this value in 
 • Use the area measure (see section 2.4.2.1.4), not the volume measure, for all other types of areas of observed contamination, even if their volume is known.
 Enter the value assigned in Table 5-1.
 Table 5-2—Hazardous Waste Quantity Evaluation Equations for Soil Exposure Component
-Tier | Measure | Units | Equation forassigning value a
+Tier | Measure | Units | Equation for assigning value a
 A | Hazardous Constituent Quantity (C) | lb | C.
-Bb | Hazardous Wastestream Quantity (W) | lb | W/5,000.
-C b | Volume (V)
-| Surface Impoundment c | yd3 | V/2.5.
+B b | Hazardous Wastestream Quantity (W) | lb | W/5,000.
+C b | Volume (V) | |
+| Surface Impoundment c | yd 3 | V/2.5.
 | Drums d | gallon | V/500.
 | Tanks and Containers Other Than Drums | yd 3 | V/2.5.
-D b | Area (A)
+D b | Area (A) | |
 | Landfill | ft 2 | A/34,000.
 | Surface Impoundment | ft 2 | A/13.
 | Surface Impoundment (Buried/backfilled) | ft 2 | A/13.
 | Land treatment | ft 2 | A/270.
 | Pile e | ft 2 | A/34.
 | Contaminated Soil | ft 2 | A/34,000.
-a Do not round nearest integer.
-b Convert volume to mass when necessary: 1 ton = 2,000 pounds = 1 cubic yard = 4 drums = 200 gallons.
-c Use volume measure only for surface impoundments containing hazardous substances present as liquids. Use area measures in Tier D for dry surface impoundments and for buried/backfilled surface impoundments.
-d If actual volume of drums is unavailable, assume 1 drum = 50 gallons.
-e Use land surface area under pile, not surface area of pile.
+a Do not round nearest integer. b Convert volume to mass when necessary: 1 ton = 2,000 pounds = 1 cubic yard = 4 drums = 200 gallons. c Use volume measure only for surface impoundments containing hazardous substances present as liquids. Use area measures in Tier D for dry surface impoundments and for buried/backfilled surface impoundments. d If actual volume of drums is unavailable, assume 1 drum = 50 gallons. e Use land surface area under pile, not surface area of pile.
 5.1.1.2.3 Calculation of waste characteristics factor category value. Multiply the toxicity and hazardous waste quantity factor values, subject to a maximum product of 1 × 10 8. Based on this product, assign a value from Table 2-7 (section 2.4.3.1) to the waste characteristics factor category. Enter this value in Table 5-1.
 5.1.1.3 Targets. Evaluate the targets factor category for the resident population threat based on five factors: Resident individual, resident population, workers, resources, and terrestrial sensitive environments.
 In evaluating the targets factor category for the resident population threat, count only the following as targets:
@@ -2516,27 +2467,24 @@ Greater than 1,000 | 15
 Enter the value assigned in Table 5-1.
 5.1.1.3.5 Terrestrial sensitive environments. Assign value(s) from Table 5-5 to each terrestrial sensitive environment that meets the eligibility criteria of section 5.1.1.3.
 Calculate a value (ES) for terrestrial sensitive environments as follows:
-ER09JA17.068
 Where:
 Si = Value(s) assigned from Table 5-5 to terrestrial sensitive environment i.
 n = Number of terrestrial sensitive environments meeting section 5.1.1.3 criteria.
 Because the pathway score based solely on terrestrial sensitive environments is limited to a maximum of 60, determine the value for the terrestrial sensitive environments factor as follows:
 Table 5-5—Terrestrial Sensitive Environments Rating Values
-Terrestrial sensitive environments | Assignedvalue
+Terrestrial sensitive environments | Assigned value
 Terrestrial critical habitat a for Federal designated endangered or threatened species | 100
-National ParkDesignated Federal Wilderness Area National Monument
+National Park Designated Federal Wilderness Area National Monument |
 Terrestrial habitat known to be used by Federal designated or proposed threatened or endangered species | 75
-National Preserve (terrestrial) National or State Terrestrial Wildlife Refuge Federal land designated for protection of natural ecosystems Administratively proposed Federal Wilderness Area Terrestrial areas utilized for breeding by large or dense aggregations of animals b
+National Preserve (terrestrial) National or State Terrestrial Wildlife Refuge Federal land designated for protection of natural ecosystems Administratively proposed Federal Wilderness Area Terrestrial areas utilized for breeding by large or dense aggregations of animals b |
 Terrestrial habitat known to be used by State designated endangered or threatened species | 50
-Terrestrial habitat known to be used by species under review as to its Federal designated endangered or threatened status
+Terrestrial habitat known to be used by species under review as to its Federal designated endangered or threatened status |
 State lands designated for wildlife or game management | 25
-State designated Natural AreasParticular areas, relatively small in size, important to maintenance of unique biotic communities
-a Critical habitat as defined in 50 CFR 424.02.
-b Limit to vertebrate species.
+State designated Natural Areas Particular areas, relatively small in size, important to maintenance of unique biotic communities |
+a Critical habitat as defined in 50 CFR 424.02. b Limit to vertebrate species.
 • Multiply the values assigned to the resident population threat for likelihood of exposure (LE), waste characteristics (WC), and ES. Divide the product by 82,500.
 —If the result is 60 or less, assign the value ES as the terrestrial sensitive environments factor value.
 —If the result exceeds 60, calculate a value EC as follows:
-ER09JA17.069
 Assign the value EC as the terrestrial sensitive environments factor value. Do not round this value to the nearest integer.
 Enter the value assigned for the terrestrial sensitive environments factor in Table 5-1.
 5.1.1.3.6 Calculation of resident population targets factor category value. Sum the values for the resident individual, resident population, workers, resources, and terrestrial sensitive environments factors. Do not round to the nearest integer. Assign this sum as the targets factor category value for the resident population threat. Enter this value in Table 5-1.
@@ -2547,7 +2495,7 @@ Do not consider areas of observed contamination that have an attractiveness/acce
 5.1.2.1.1 Attractiveness/accessibility. Assign a value for attractiveness/accessibility from Table 5-6 to each area of observed contamination, excluding any land used for residences. Select the highest value assigned to the areas evaluated and use it as the value for the attractiveness/accessibility factor. Enter this value in Table 5-1.
 5.1.2.1.2 Area of contamination. Evaluate area of contamination based on the total area of the areas of observed contamination at the site. Count only the area(s) that meet the criteria in section 5.1.0 and that receive an attractiveness/accessibility value greater than 0. Assign a value to this factor from Table5-7. Enter this value in Table 5-1.
 Table 5-6—Attractiveness/Accessibility Values
-Area of observed contamination | Assignedvalue
+Area of observed contamination | Assigned value
 Designated recreational area | 100
 Regularly used for public recreation (for example, fishing, hiking, softball) | 75
 Accessible and unique recreational area (for example, vacant lots in urban area) | 75
@@ -2557,7 +2505,7 @@ Accessible, with no public recreation use | 10
 Surrounded by maintained fence or combination of maintained fence and natural barriers | 5
 Physically inaccessible to public, with no evidence of public recreation use | 0
 Table 5-7—Area of Contamination Factor Values
-Total area of the areas of observed contamination (square feet) | Assignedvalue
+Total area of the areas of observed contamination (square feet) | Assigned value
 Less than or equal to 5,000 | 5
 Greater than 5,000 to 125,000 | 20
 Greater than 125,000 to 250,000 | 40
@@ -2566,7 +2514,8 @@ Greater than 375,000 to 500,000 | 80
 Greater than 500,000 | 100
 5.1.2.1.3 Likelihood of exposure factor category value. Assign a value from Table 5-8 to the likelihood of exposure factor category, based on the values assigned to the attractiveness/accessibility and area of contamination factors. Enter this value in Table 5-1.
 Table 5-8—Nearby Population Likelihood of Exposure Factor Values
-Area of contamination factor value | Attractiveness/accessibility factor value | 100 | 75 | 50 | 25 | 10 | 5 | 0
+Area of contamination factor value | Attractiveness/accessibility factor value
+100 | 75 | 50 | 25 | 10 | 5 | 0
 100 | 500 | 500 | 375 | 250 | 125 | 50 | 0
 80 | 500 | 375 | 250 | 125 | 50 | 25 | 0
 60 | 375 | 250 | 125 | 50 | 25 | 5 | 0
@@ -2576,12 +2525,12 @@ Area of contamination factor value | Attractiveness/accessibility factor value |
 5.1.2.2 Waste characteristics. Evaluate waste characteristics based on two factors: toxicity and hazardous waste quantity. Evaluate only those hazardous substances that meet the criteria for observed contamination (see section 5.1.0) at areas that can be assigned an attractiveness/accessibility factor value greater than 0.
 5.1.2.2.1 Toxicity. Assign a toxicity factor value as specified in section 2.4.1.1 to each hazardous substance meeting the criteria in section 5.1.2.2. Use the hazardous substance with the highest toxicity factor value to assign the value to the toxicity factor for the nearby population threat. Enter this value in Table 5-1.
 5.1.2.2.2 Hazardous waste quantity. Assign a value to the hazardous waste quantity factor as specified in section 5.1.1.2.2, except: consider only those areas of observed contamination that can be assigned an attractiveness/accessibility factor value greater than 0. Enter the value assigned in Table 5-1.
-5.1.2.2.3 Calculation of waste characteristics factor category value. Multiply the toxicity and hazardous waste quantity factor values, subject to a maximum product of 1 × 108. Based on this product, assign a value from Table 2-7 (section 2.4.3.1) to the waste characteristics factor category. Enter this value in Table 5-1.
+5.1.2.2.3 Calculation of waste characteristics factor category value. Multiply the toxicity and hazardous waste quantity factor values, subject to a maximum product of 1 × 10 8. Based on this product, assign a value from Table 2-7 (section 2.4.3.1) to the waste characteristics factor category. Enter this value in Table 5-1.
 5.1.2.3 Targets. Evaluate the targets factory category for the nearby population threat based on two factors: nearby individual and population within a 1-mile travel distance from the site.
 5.1.2.3.1 Nearby individual. If one or more persons meet the section 5.1.1.3 criteria for a resident individual, assign this factor a value of 0. Enter this value in Table 5-1.
 If no person meets the criteria for a resident individual, determine the shortest travel distance from the site to any residence or school. In determining the travel distance, measure the shortest overland distance an individual would travel from a residence or school to the nearest area of observed contamination for the site with an attractiveness/accessibility factor value greater than 0. If there are no natural barriers to travel, measure the travel distance as the shortest straight-line distance from the residence or school to the area of observed contamination. If natural barriers exist (for example, a river), measure the travel distance as the shortest straight-line distance from the residence or school to the nearest crossing point and from there as the shortest straight-line distance to the area of observed contamination. Based on the shortest travel distance, assign a value from Table 5-9 to the nearest individual factor. Enter this value in Table 5-1.
 Table 5-9—Nearby Individual Factor Values
-Travel distance for nearbyindividual (miles) | Assigned value
+Travel distance for nearby individual (miles) | Assigned value
 Greater than 0 to 1/4 | a 1
 Greater than 1/4 to 1 | 0
 a Assign a value of 0 if one or more persons meet the section 5.1.1.3 criteria for resident individual.
@@ -2589,13 +2538,13 @@ a Assign a value of 0 if one or more persons meet the section 5.1.1.3 criteria f
 In estimating residential population, when the estimate is based on the number of residences, multiply each residence by the average number of persons per residence for the county in which the residence is located.
 Based on the number of people included within a travel distance category, assign a distance-weighted population value for that travel distance from Table 5-10.
 Calculate the value for the population within 1 mile factor (PN) as follows:
-ER09JA17.070
 Where:
 Wi=Distance-weighted population value from Table 5-10 for travel distance category i.
 If PN is less than 1, do not round it to the nearest integer; if PN is 1 or more, round to the nearest integer. Enter this value in Table 5-1.
 5.1.2.3.3 Calculation of nearby population targets factor category value. Sum the values for the nearby individual factor and the population within 1 mile factor. Do not round this sum to the nearest integer. Assign this sum as the targets factor category value for the nearby population threat. Enter this value in Table 5-1.
 Table 5-10—Distance Weighted Population Values for Nearby Population Threat a
-Travel distance category (miles) | Number of people within the travel distance category | 0 | 1 to 10 | 11 to 30 | 31 to 100 | 101 to 300 | 301 to 1,000 | 1,001 to 3,000 | 3,001 to 10,000 | 10,001 to 30,000 | 30,001 to 100,000 | 100,001 to 300,000 | 300,001 to 1,000,000
+Travel distance category (miles) | Number of people within the travel distance category
+0 | 1 to 10 | 11 to 30 | 31 to 100 | 101 to 300 | 301 to 1,000 | 1,001 to 3,000 | 3,001 to 10,000 | 10,001 to 30,000 | 30,001 to 100,000 | 100,001 to 300,000 | 300,001 to 1,000,000
 Greater than 0 to 1/4 | 0 | 0.1 | 0.4 | 1.0 | 4 | 13 | 41 | 130 | 408 | 1,303 | 4,081 | 13,034
 Greater than 1/4 to 1/2 | 0 | 0.05 | 0.2 | 0.7 | 2 | 7 | 20 | 65 | 204 | 652 | 2,041 | 6,517
 Greater than 1/2 to 1 | 0 | 0.02 | 0.1 | 0.3 | 1 | 3 | 10 | 33 | 102 | 326 | 1,020 | 3,258
@@ -2604,7 +2553,6 @@ a Round the number of people present within a travel distance category to neares
 5.1.3 Calculation of soil exposure component score. Sum the resident population threat score and the nearby population threat score, and divide the sum by 82,500. Assign the resulting value, subject to a maximum of 100, as the soil exposure component score (Sse). Enter this score in Table 5-1.
 5.2 Subsurface intrusion component. Evaluate the subsurface intrusion component based on three factor categories: likelihood of exposure, waste characteristics, and targets. Figure 5-1 indicates the factors included within each factor category for the subsurface intrusion component.
 Determine the component score (Sssi) in terms of the factor category values as follows:
-ER09JA17.071
 Where:
 LE=Likelihood of exposure factor category value.
 WC=Waste characteristics factor category value.
@@ -2612,37 +2560,35 @@ T=Targets factor category value.
 SF=Scaling factor.
 Table 5-11 outlines the specific calculation procedure.
 Table 5-11—Subsurface Intrusion Component Scoresheet
-Factor categories and factors | Maximumvalue | Valueassigned
-Subsurface Intrusion Component:
-Likelihood of Exposure:
-1. Observed Exposure | 550
-2. Potential for Exposure
-2a. Structure Containment | 10
-2b. Depth to contamination | 10
-2c. Vertical Migration | 15
-2d. Vapor Migration Potential | 25
-3. Potential for Exposure (lines 2a * (2b + 2c + 2d), subject to a maximum of 500) | 500
-4. Likelihood of Exposure (higher of lines 1 or 3) | 550
-Waste Characteristics:
-5. Toxicity/Degradation | (a)
-6. Hazardous Waste Quantity | (a)
-7. Waste Characteristics (subject to a maximum of 100) | 100
-Targets:
-8. Exposed Individual | 50
-9. Population:
-9a. Level I Concentrations | (b)
-9b. Level II Concentrations | (b)
-9c. Population within an Area of Subsurface Contamination | (b)
-9d. Total Population (lines 9a + 9b + 9c) | (b)
-10. Resources | 5
-11. Targets (lines 8 + 9d + 10) | (b)
-Subsurface Intrusion Component Score:
-12. Subsurface Intrusion Component (lines 4 × 7 × 11)/82,500 c (subject to a maximum of 100) | 100
-Soil Exposure and Subsurface Intrusion Pathway Score:
-13. Soil Exposure Component + Subsurface Intrusion Component (subject to a maximum of 100) | 100
-a Maximum value applies to waste characteristics category.
-b Maximum value not applicable.
-c Do not round to the nearest integer.
+Factor categories and factors | Maximum value | Value assigned
+Subsurface Intrusion Component: | |
+Likelihood of Exposure: | |
+1. Observed Exposure | 550 |
+2. Potential for Exposure | |
+2a. Structure Containment | 10 |
+2b. Depth to contamination | 10 |
+2c. Vertical Migration | 15 |
+2d. Vapor Migration Potential | 25 |
+3. Potential for Exposure (lines 2a * (2b + 2c + 2d), subject to a maximum of 500) | 500 |
+4. Likelihood of Exposure (higher of lines 1 or 3) | 550 |
+Waste Characteristics: | |
+5. Toxicity/Degradation | (a) |
+6. Hazardous Waste Quantity | (a) |
+7. Waste Characteristics (subject to a maximum of 100) | 100 |
+Targets: | |
+8. Exposed Individual | 50 |
+9. Population: | |
+9a. Level I Concentrations | (b) |
+9b. Level II Concentrations | (b) |
+9c. Population within an Area of Subsurface Contamination | (b) |
+9d. Total Population (lines 9a + 9b + 9c) | (b) |
+10. Resources | 5 |
+11. Targets (lines 8 + 9d + 10) | (b) |
+Subsurface Intrusion Component Score: | |
+12. Subsurface Intrusion Component (lines 4 × 7 × 11)/82,500 c (subject to a maximum of 100) | 100 |
+Soil Exposure and Subsurface Intrusion Pathway Score: | |
+13. Soil Exposure Component + Subsurface Intrusion Component (subject to a maximum of 100) | 100 |
+a Maximum value applies to waste characteristics category. b Maximum value not applicable. c Do not round to the nearest integer.
 5.2.0 General considerations. The subsurface intrusion component evaluates the threats from hazardous substances that have or could intrude into regularly occupied structures from the subsurface. Evaluate the subsurface intrusion component based on the actual or potential intrusion of hazardous substances into all regularly occupied structures that have structure containment values greater than zero and meet the criteria identified in the section below as being either in an area of observed exposure or in an area of subsurface contamination. These structures may or may not have subunits. Subunits are partitioned areas within a structure with separate heating, ventilating, and air conditioning (HVAC) systems or distinctly different air exchange rates. Subunits include regularly occupied partitioned tenant spaces such as office suites, apartments, condos, common or shared areas, and portions of residential, commercial or industrial structures with separate heating, ventilating, and air conditioning (HVAC) systems.
 In evaluating the subsurface intrusion component, consider the following:
 • Area(s) of observed exposure: An area of observed exposure is delineated by regularly occupied structures with documented contamination meeting observed exposure criteria; an area of observed exposure includes regularly occupied structures with samples meeting observed exposure criteria or inferred to be within an area of observed exposure based on samples meeting observed exposure criteria (see section 5.2.1.1.1 Observed exposure). Establish areas of observed exposure as follows:
@@ -2653,9 +2599,9 @@ In evaluating the subsurface intrusion component, consider the following:
 —Exclude those areas that contain structures meeting the criteria defined as an area of observed exposure.
 —Consider both the sampling location(s) with subsurface contamination meeting observed release criteria from the site and the area lying between such locations to be an area of subsurface contamination (i.e., inferred to be in an area of subsurface contamination). If sufficient data is available and state of the science shows there is no unacceptable risk due to subsurface intrusion into a regularly occupied structure located within an area of subsurface contamination, that structure can be excluded from the area of subsurface contamination.
 —Evaluate an area of subsurface contamination based on hazardous substances that:
-▪ Meet the criteria for observed exposure of a chemical that has a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10− 5 atm-m3/mol, or
-▪ Meet the criteria for observed release in an area of subsurface contamination and have a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10− 5 atm-m3/mol, or
-▪ Meet the criteria for an observed release in a structure within, or in a sample from below, an area of observed exposure and have a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10− 5 atm-m3/mol.
+▪ Meet the criteria for observed exposure of a chemical that has a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10− 5 atm-m 3/mol, or
+▪ Meet the criteria for observed release in an area of subsurface contamination and have a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10− 5 atm-m 3/mol, or
+▪ Meet the criteria for an observed release in a structure within, or in a sample from below, an area of observed exposure and have a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10− 5 atm-m 3/mol.
 —Evaluate all structures with no subunits that have containment factor values greater than zero, and not documented to meet observed exposure criteria to be in an area of subsurface contamination if they are lying between locations of subsurface intrusion samples meeting observed release criteria.
 —Evaluate multi-subunit structures as follows:
 ▪ If an observed exposure has been documented based on a gaseous indoor air sample, consider all regularly occupied subunit(s), if any, on the level immediately above the level where an observed exposure has been documented (or has been inferred to be within an area of observed exposure), to be within an area of subsurface contamination. If sufficient data is available and state of the science shows there is no unacceptable risk due to subsurface intrusion on the level immediately above the level where an observed exposure has been documented (or has been inferred to be within an area of observed exposure) that level can be excluded from the area of subsurface contamination.
@@ -2675,7 +2621,7 @@ If there is no area of observed exposure and no area of subsurface contamination
 —Analysis of indoor samples indicates that the concentration of hazardous substance(s) is significantly above the background concentration for the site for that type of sample (see section 2.3).
 —Some portion of the significant increase above background must be attributable to the site to establish the observed exposure. Documentation of this attribution should account for possible concentrations of the hazardous substance(s) in outdoor air or from materials found in the regularly occupied structure, and should provide a rationale for the increase being from subsurface intrusion.
 If observed exposure can be established in a regularly occupied structure, assign an observed exposure factor value of 550, enter this value in Table 5-11, and proceed to section 5.2.1.1.3. If no observed exposure can be established, assign an observed exposure factor value of 0, enter this value in Table 5-11, and proceed to section 5.2.1.1.2.
-5.2.1.1.2 Potential for exposure. Evaluate potential for exposure only if an observed exposure cannot be established, but an area of subsurface contamination has been delineated. Evaluate potential for exposure based only on the presence of hazardous substances with a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10− 5 atm-m3/mol. Evaluate potential for exposure for each area of subsurface contamination based on four factors: Structure containment (see section 5.2.1.1.2.1), depth to contamination (see section 5.2.1.1.2.2), vertical migration (see section 5.2.1.1.2.3) and vapor migration potential (see section 5.2.1.1.2.4). For each area of subsurface contamination, assign the highest value for each factor. If information is insufficient to calculate any single factor value used to calculate the potential for exposure factor values at an identified area of subsurface contamination, information collected for another area of subsurface contamination at the site may be used when evaluating potential for exposure. Calculate the potential for exposure value for the site as specified in section 5.2.1.1.2.5.
+5.2.1.1.2 Potential for exposure. Evaluate potential for exposure only if an observed exposure cannot be established, but an area of subsurface contamination has been delineated. Evaluate potential for exposure based only on the presence of hazardous substances with a vapor pressure greater than or equal to one torr or a Henry's constant greater than or equal to 10− 5 atm-m 3/mol. Evaluate potential for exposure for each area of subsurface contamination based on four factors: Structure containment (see section 5.2.1.1.2.1), depth to contamination (see section 5.2.1.1.2.2), vertical migration (see section 5.2.1.1.2.3) and vapor migration potential (see section 5.2.1.1.2.4). For each area of subsurface contamination, assign the highest value for each factor. If information is insufficient to calculate any single factor value used to calculate the potential for exposure factor values at an identified area of subsurface contamination, information collected for another area of subsurface contamination at the site may be used when evaluating potential for exposure. Calculate the potential for exposure value for the site as specified in section 5.2.1.1.2.5.
 5.2.1.1.2.1 Structure containment. Calculate containment for eligible hazardous substances within this component as directed in Table 5-12 and enter this value into Table 5-11. Assign each regularly occupied structure within an area of subsurface contamination the highest appropriate structure containment value from Table 5-12 and use the regularly occupied structure at the site with the highest structure containment value in performing the potential for exposure calculation. For all regularly occupied structures with unknown containment features assign a structure containment value of greater than zero for the purposes of evaluating targets (see section 5.2.1.3).
 Table 5-12—Structure Containment
 No. | Evidence of structure containment | Assigned value
@@ -2691,15 +2637,14 @@ No. | Evidence of structure containment | Assigned value
 5.2.1.1.2.2 Depth to contamination. Assign each area of subsurface contamination a depth to contamination based on the least depth to either contaminated crawl space or subsurface media underlying a regularly occupied structure. Measure this depth to contamination based on the distance between the lowest point of a regularly occupied structure to the highest known point of hazardous substances eligible to be evaluated. Use any regularly occupied structure within an area of subsurface contamination with a structure containment factor value greater than zero. Subtract from the depth to contamination the thickness of any subsurface layer composed of features that would allow channelized flow (e.g., karst, lava tubes, open fractures, as well as manmade preferential pathways such as utility conduits or drainage systems).
 Based on this calculated depth, assign a factor value from Table 5-13. If the necessary information is available at multiple locations, calculate the depth to contamination at each location. Use the location having the least depth to contamination to assign the factor value. Enter this value in Table 5-11.
 Table 5-13—Depth to Contamination
-Depth range 1 2 | Depth tocontamination assigned value
+Depth range 1 2 | Depth to contamination assigned value
 0 to <10 ft (Including subslab and semi-enclosed or enclosed crawl space contamination) | 10
 >10 to 20 ft | 8
 >20 to 50 ft | 6
 >50 to 100 ft | 4
 >100 to 150 ft | 2
 >150 ft | 0
-1 If any part of the subsurface profile has channelized flow features, assign that portion of the subsurface profile a depth of 0.
-2 Measure elevation below any regularly occupied structure within an area of subsurface contamination at a site. Select the regularly occupied structure with the least depth to contamination below a structure.
+1 If any part of the subsurface profile has channelized flow features, assign that portion of the subsurface profile a depth of 0. 2 Measure elevation below any regularly occupied structure within an area of subsurface contamination at a site. Select the regularly occupied structure with the least depth to contamination below a structure.
 5.2.1.1.2.3 Vertical migration. Evaluate the vertical migration factor for each area of subsurface contamination based on the geologic materials in the interval between the lowest point of a regularly occupied structure and the highest known point of hazardous substances in the subsurface. Use any regularly occupied structure either within an area of subsurface contamination or overlying subsurface soil gas or ground water contamination. Assign a value to the vertical migration factor as follows:
 • If the depth to contamination (see section 5.2.1.1.2.2) is 10 feet or less, assign a value of 15.
 • If the depth to contamination is greater than 10 feet, do not consider layers or portions of layers within the first 10 feet of the depth to contamination (as assigned in section 5.2.1.1.2.2).
@@ -2710,19 +2655,19 @@ Depth range 1 2 | Depth tocontamination assigned value
 —Assign a value from Table 5-15 to the vertical migration factor, based on the thickness and assigned porosity/permeability value of the lowest effective porosity/permeability layer(s).
 Determine vertical migration only at locations within an area of subsurface contamination at the site. If the necessary subsurface geologic information is available at multiple locations, evaluate the vertical migration factor at each location. Use the location having the highest vertical migration factor value to assign the factor value. Enter this value in Table 5-11.
 Table 5-14—Effective Porosity/Permeability of Geologic Materials
-Type of material | Hydraulic conductivity(cm/sec) | Assignedporosity/ permeability value
+Type of material | Hydraulic conductivity (cm/sec) | Assigned porosity/ permeability value
 Gravel; clean sand; highly permeable fractured igneous and metamorphic rocks; permeable basalt; karst limestones and dolomites | Greater than or equal to 1 × 10− 3 | 1
 Sand; sandy clays; sandy loams; loamy sands; sandy silts; sediments that are predominantly sand; highly permeable till (coarse-grained, unconsolidated or compact and highly fractured); peat; moderately permeable limestones and dolomites (no karst); moderately permeable sandstone; moderately permeable fractured igneous and metamorphic rocks | Less than 1 × 10− 3 | 2
 Silt; loams; silty loams; loesses; silty clays; sediments that are predominantly silts; moderately permeable till (fine-grained, unconsolidated till, or compact till with some fractures); low permeability limestones and dolomites (no karst); low permeability sandstone; low permeability fractured igneous and metamorphic rocks | Less than 1 × 10− 5 | 3
 Clay; low permeability till (compact unfractured till); shale; unfractured metamorphic and igneous rocks | Less than 1 × 10− 7 | 4
 Table 5-15—Vertical Migration Factor Values a
-Assigned porosity/permeability value | Thickness of lowest porosity layer(s) b (feet) | 0 to 5 | Greater than5 to 10 | Greater than 10 to 20 | Greater than 20 to 50 | Greater than 50 to 100 | Greater than 100 to 150
+Assigned porosity/permeability value | Thickness of lowest porosity layer(s) b (feet)
+0 to 5 | Greater than 5 to 10 | Greater than 10 to 20 | Greater than 20 to 50 | Greater than 50 to 100 | Greater than 100 to 150
 1 | 15 | 15 | 14 | 11 | 8 | 6
 2 | 15 | 14 | 12 | 9 | 6 | 4
 3 | 15 | 13 | 10 | 7 | 5 | 2
 4 | 15 | 12 | 9 | 6 | 3 | 1
-a If depth to contamination is 10 feet or less or if, for the interval being evaluated, all layers that underlie a portion of the structure at the site are karst or have other channelized flow features, assign a value of 15.
-b Consider only layers at least 1 foot thick.
+a If depth to contamination is 10 feet or less or if, for the interval being evaluated, all layers that underlie a portion of the structure at the site are karst or have other channelized flow features, assign a value of 15. b Consider only layers at least 1 foot thick.
 5.2.1.1.2.4 Vapor migration potential. Evaluate this factor for each area of subsurface contamination as follows:
 • If the depth to contamination (see section 5.2.1.1.2.2) is 10 feet or less, assign a value of 25.
 • Assign a value for vapor migration potential to each of the gaseous hazardous substances associated with the area of subsurface contamination (see section 2.2.2) as follows:
@@ -2733,12 +2678,12 @@ b Consider only layers at least 1 foot thick.
 —Select the hazardous substance associated with the area of subsurface contamination with the highest vapor migration potential value and assign this value as the vapor migration potential factor value for the area of subsurface contamination.
 Enter this value in Table 5-11.
 Table 5-16—Values for Vapor Pressure and Henry's Constant
-| Assignedvalue
-Vapor Pressure (Torr):
+| Assigned value
+Vapor Pressure (Torr): |
 Greater than 10 | 3
 1 to 10 | 2
 Less than 1 | 0
-Henry's Constant (atm-m3/mol):
+Henry's Constant (atm-m 3/mol): |
 Greater than 10 − 3 | 3
 Greater than 10 − 4 to 10 − 3 | 2
 10 − 5 to 10 − 4 | 1
@@ -2758,7 +2703,8 @@ Sum of values for vapor pressure and Henry's constant | Assigned value
 • For any hazardous substance that meets the criteria for an observed exposure, or if a NAPL is present in the subsurface below an area of observed exposure or area of subsurface contamination at a depth less than or equal to 30 feet, assign that substance a degradation factor value of 1.
 • For all other situations, assign a degradation factor value using Table 5-18. Assign the depth to contamination as directed in section 5.2.1.1.2.2, except if evidence indicates that biologically active soil is not present throughout the depth beneath any regularly occupied structure. In this situation, subtract any thickness of non-biologically active soil from the estimated depth to contamination.
 Table 5-18—Degradation Factor Value Table
-Depth to contamination (feet) a | Half-life | >100 Days | >30 days and ≤100 days | ≤30 days
+Depth to contamination (feet) a | Half-life
+>100 Days | >30 days and ≤100 days | ≤30 days
 <10 | 1 | 1 | 1
 10 to ≤30 | 1 | 1 | 0.1
 >30 | 1 | 0.5 | 0.1
@@ -2766,7 +2712,6 @@ a When determining the depth to contamination do not include layers of non-biolo
 Calculate the half-life for each hazardous substance that meets subsurface intrusion observed release criteria as follows:
 The half-life of a substance in the subsurface is defined for HRS purposes as the time required to reduce the initial concentration of the substance in the subsurface by one-half as a result of the combined decay processes of two components: Biodegradation and hydrolysis.
 Estimate the half-life (t1/2) of a hazardous substance as follows:
-ER09JA17.072
 Where:
 h=Hydrolysis half-life.
 b=Biodegradation half-life.
@@ -2791,15 +2736,12 @@ If no half-life information is available for a hazardous substance and the subst
 Table 5-19—Hazardous Waste Quantity Evaluation Equations for Subsurface Intrusion Component
 Tier | Measure | Units | Equation for assigning value a
 A | Hazardous Constituent Quantity (C) | Lb | C
-Bb | Hazardous Wastestream Quantity (W) | Lb | W/5,000
-Cb,c | Volume (V)
-| Regularly occupied structure(s) in areas of observed exposure or subsurface contamination | yd3 | V/2.5
-Db,d | Area (A)
-| Regularly occupied structure(s) in areas of observed exposure or subsurface contamination | ft2 | A/13
-a Do not round to the nearest integer.
-b Convert volume to mass when necessary: 1 ton=2,000 pounds=1 cubic yard=4 drums=200 gallons.
-c Calculate volume of each regularly occupied structure or subunit space in areas of observed exposure and areas of subsurface contamination—Assume 8-foot ceiling height unless actual value is known.
-d Calculate area of the footprint of each regularly occupied structure in areas of observed exposure and areas of subsurface contamination. If the footprint area of a regularly occupied structure is unknown, use 1,740 square feet as the footprint area of the structure or subunit space.
+B b | Hazardous Wastestream Quantity (W) | Lb | W/5,000
+C b,c | Volume (V) | |
+| Regularly occupied structure(s) in areas of observed exposure or subsurface contamination | yd 3 | V/2.5
+D b,d | Area (A) | |
+| Regularly occupied structure(s) in areas of observed exposure or subsurface contamination | ft 2 | A/13
+a Do not round to the nearest integer. b Convert volume to mass when necessary: 1 ton=2,000 pounds=1 cubic yard=4 drums=200 gallons. c Calculate volume of each regularly occupied structure or subunit space in areas of observed exposure and areas of subsurface contamination—Assume 8-foot ceiling height unless actual value is known. d Calculate area of the footprint of each regularly occupied structure in areas of observed exposure and areas of subsurface contamination. If the footprint area of a regularly occupied structure is unknown, use 1,740 square feet as the footprint area of the structure or subunit space.
 For the subsurface intrusion component, if the hazardous constituent quantity is adequately determined for all areas of observed exposure, assign the value from Table 2-6 as the hazardous waste quantity factor value. If the hazardous constituent quantity is not adequately determined for one or more areas of observed exposure or if one or more areas of subsurface contamination are present, assign either the value from Table 2-6 or assign a factor value as follows:
 • If any target for the subsurface intrusion component is subject to Level I or Level II concentrations (see section 2.5), assign either the value from Table 2-6 or a value of 100, whichever is greater, as the hazardous waste quantity factor value for this component.
 • If none of the targets for the subsurface intrusion component is subject to Level I or Level II concentrations and if there has been a removal action that does not permanently interrupt target exposure from subsurface intrusion, and if an area of subsurface contamination exists, assign a factor value as follows:
@@ -2808,7 +2750,7 @@ For the subsurface intrusion component, if the hazardous constituent quantity is
 —If the value that would be assigned from Table 2-6 without consideration of the removal action would be less than 100, assign a value of 10 as the hazardous waste quantity factor value for the component.
 • Otherwise, if none of the targets for the subsurface intrusion component is subject to Level I or Level II concentrations and there has not been a removal action, assign a value from Table 2-6 or a value of 10, whichever is greater.
 Enter the value assigned in Table 5-11.
-5.2.1.2.3 Calculation of waste characteristics factor category value. Multiply the toxicity/degradation and hazardous waste quantity factor values, subject to a maximum product of 1 × 108. Based on this product, assign a value from Table 2-7 (section 2.4.3.1) to the waste characteristics factor category. Enter this value in Table 5-11.
+5.2.1.2.3 Calculation of waste characteristics factor category value. Multiply the toxicity/degradation and hazardous waste quantity factor values, subject to a maximum product of 1 × 10 8. Based on this product, assign a value from Table 2-7 (section 2.4.3.1) to the waste characteristics factor category. Enter this value in Table 5-11.
 5.2.1.3 Targets. Evaluate the targets factor category for the subsurface intrusion threat based on three factors: Exposed individual, population, and resources in regularly occupied structures with structure containment factors greater than 0. Evaluate only those targets within areas of observed exposure and areas of subsurface contamination (see section 5.2.0).
 In evaluating the targets factor category for the subsurface intrusion threat, count only the following as targets:
 • Exposed individual—a person living, attending school or day care, or working in a regularly occupied structure with observed exposure or in a structure within an area of observed exposure or within an area of subsurface contamination.
@@ -2855,11 +2797,11 @@ Assign this sum as the combined population factor value subject to Level II conc
 2. Estimate the depth or distance to contamination at each regularly occupied structure within an area of subsurface contamination based on available sampling data, and categorize each eligible structure based on the depth or distance to contamination and sample media as presented in Table 5-21. Weight the population in each structure using the appropriate weighting factors in Table 5-21. If samples from multiple media are available, use the sample that results in the highest weighting factor.
 3. Sum the weighted population in all structures within the area(s) of subsurface contamination and assign this sum as the population within an area of subsurface contamination factor value. Enter this value in line 9c of Table 5-11.
 Table 5-21—Weighting Factor Values for Populations Within an Area of Subsurface Contamination
-Eligible populations a in structures b within an area of subsurface contamination | Population weightingfactor
+Eligible populations a in structures b within an area of subsurface contamination | Population weighting factor
 Samples From Within Structures or in Crawl Spaces
 1. Population in a structure with levels of contamination in a semi-enclosed or enclosed crawl space sample meeting observed release criteria or | 0.9
-Population in a subunit of a multi-story structure within an area of subsurface contamination located directly above a level in an area of observed exposure or a gaseous indoor air sample meeting observed release criteria or
-Population within a structure where a mitigation system has been installed as part of a removal or other temporary response action.
+Population in a subunit of a multi-story structure within an area of subsurface contamination located directly above a level in an area of observed exposure or a gaseous indoor air sample meeting observed release criteria or |
+Population within a structure where a mitigation system has been installed as part of a removal or other temporary response action. |
 2. Population in a structure where levels of contaminants meeting observed release criteria are inferred based on semi-enclosed or enclosed crawl space samples in surrounding structures, and a NAPL is present in those samples | 0.8
 3. Population in a structure where levels of contaminants meeting observed release criteria are inferred based on semi-enclosed or enclosed crawl space samples in surrounding structures, but no NAPL is present | 0.4
 Subsurface Samples From Less Than or Equal to 5 Feet From a Foundation
@@ -2872,8 +2814,7 @@ Subsurface Samples From Greater Than 5 Feet But Less Than or Equal to 30 Feet De
 9. Population in a structure where levels of contaminants meeting observed release criteria are found or inferred based on underlying ground water samples greater than 5 feet from the structure foundation but less than or equal to 30 feet, but no NAPL is present in those samples | 0.1
 Subsurface Samples From Greater Than 30 Feet Depth
 10. Population in a structure where levels of contaminants meeting observed release criteria are found or inferred based on any underlying sample at depths greater than 30 feet | 0.1
-a Eligible populations include residents (including individuals living in, or attending school or day care in the structure), and workers in regularly occupied structures (see HRS Section 5.2.1.3).
-b Eligible structures may include single- or multi-tenant structures where eligible populations reside, attend school or day care, or work. These structures may also be mixed use structures.
+a Eligible populations include residents (including individuals living in, or attending school or day care in the structure), and workers in regularly occupied structures (see HRS Section 5.2.1.3). b Eligible structures may include single- or multi-tenant structures where eligible populations reside, attend school or day care, or work. These structures may also be mixed use structures.
 5.2.1.3.2.4 Calculation of population factor value. Sum the factor values for Level I concentrations, Level II concentrations, and population within the area(s) of subsurface contamination. Assign this sum as the population factor value. Enter this value in line 9d of Table 5-11.
 5.2.1.3.3 Resources. Evaluate the resources factor as follows:
 • Assign a value of 5 if a resource structure (e.g., library, church, tribal facility) is present and regularly occupied within either an area of observed exposure or area of subsurface contamination.
@@ -2885,46 +2826,41 @@ Enter the value assigned in Table 5-11.
 6.0 Air Migration Pathway
 Evaluate the air migration pathway based on three factor categories: likelihood of release, waste characteristics, and targets. Figure 6-1 indicates the factors included within each factor category.
 Determine the air migration pathway score (Sa) in terms of the factor category values as follows:
-EC15NO91.162
 where:
 LR = Likelihood of release factor category value.
 WC = Waste characteristics factor category value.
 T = Targets factor category value.
 SF = Scaling factor.
 Table 6-1 outlines the specific calculation procedure.
-EC02AU92.012
 Table 6-1—Air Migration Pathway Scoresheet
 Factor categories and factors | Maximum value | Value assigned
-Likelihood of Release
-1. Observed Release | 550 | __
-2. Potential to Release:
-2a. Gas Potential to Release | 500 | __
-2b. Particulate Potential to Release | 500 | __
-2c. Potential to Release (higher of lines 2a and 2b) | 500 | __
-3. Likelihood of Release (higher of lines 1 and 2c) | 550 | __
-Waste Characteristics
-4. Toxicity/Mobility | (a) | __
-5. Hazardous Waste Quantity | (a) | __
-6. Waste Characteristics | 100 | __
-Targets
-7. Nearest Individual | 50 | __
-8. Population:
-8a. Level I Concentrations | (b) | __
-8b. Level II Concentrations | (b) | __
-8c. Potential Contamination | (b) | __
-8d. Population (lines 8a + 8b + 8c) | (b) | __
-9. Resources | 5 | __
-10. Sensitive Environments
-10a. Actual Contamination | (c) | __
-10b. Potential Contamination | (c) | __
-10c. Sensitive Environments (lines 10a + 10b) | (c) | __
-11. Targets (lines 7 + 8d + 9 + 10c) | (b) | __
-Air Migration Pathway Score
-12. Pathway Score (Sa) [(lines 3 × 6 × 11)/82,500] d | 100 | __
-a Maximum value applies to waste characteristics category.
-b Maximum value not applicable.
-c No specific maximum value applies to factor. However, pathway score based solely on sensitive environments is limited to maximum of 60.
-d Do not round to nearest integer.
+Likelihood of Release | |
+1. Observed Release | 550 | ____
+2. Potential to Release: | |
+2a. Gas Potential to Release | 500 | ____
+2b. Particulate Potential to Release | 500 | ____
+2c. Potential to Release (higher of lines 2a and 2b) | 500 | ____
+3. Likelihood of Release (higher of lines 1 and 2c) | 550 | ____
+Waste Characteristics | |
+4. Toxicity/Mobility | (a) | ____
+5. Hazardous Waste Quantity | (a) | ____
+6. Waste Characteristics | 100 | ____
+Targets | |
+7. Nearest Individual | 50 | ____
+8. Population: | |
+8a. Level I Concentrations | (b) | ____
+8b. Level II Concentrations | (b) | ____
+8c. Potential Contamination | (b) | ____
+8d. Population (lines 8a + 8b + 8c) | (b) | ____
+9. Resources | 5 | ____
+10. Sensitive Environments | |
+10a. Actual Contamination | (c) | ____
+10b. Potential Contamination | (c) | ____
+10c. Sensitive Environments (lines 10a + 10b) | (c) | ____
+11. Targets (lines 7 + 8d + 9 + 10c) | (b) | ____
+Air Migration Pathway Score | |
+12. Pathway Score (Sa) [(lines 3 × 6 × 11)/82,500] d | 100 | ____
+a Maximum value applies to waste characteristics category. b Maximum value not applicable. c No specific maximum value applies to factor. However, pathway score based solely on sensitive environments is limited to maximum of 60. d Do not round to nearest integer.
 6.1 Likelihood of Release. Evaluate the likelihood of release factor category in terms of an observed release factor or a potential to release factor.
 6.1.1 Observed release. Establish an observed release to the atmosphere by demonstrating that the site has released a hazardous substance to the atmosphere. Base this demonstration on either:
 • Direct observation—a material (for example, particulate matter) that contains one or more hazardous substances has been seen entering the atmosphere directly. When evidence supports the inference of a release of a material that contains one or more hazardous substances by the site to the atmosphere, demonstrated adverse effects accumulated with that release may be used to establish an observed release.
@@ -2936,19 +2872,16 @@ Evaluate gas potential to release for each source based on three factors: gas co
 Table 6-2—Gas Potential to Release Evaluation
 Source | Source type a | Gas containment factor value b | Gas source type factor value c | Gas migration potential factor value d | Sum | Gas source value
 | | A | B | C | (B + C) | A(B + C)
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+1. | | | | | |
+2. | | | | | |
+3. | | | | | |
+4. | | | | | |
+5. | | | | | |
+6. | | | | | |
+7. | | | | | |
+8. | | | | | |
 Gas Potential to Release Factor (Select the Highest Gas Source Value)
-a Enter a Source Type listed in table 6-4.
-b Enter Gas Containment Factor Value from section 6.1.2.1.1.
-c Enter Gas Source Type Factor Value from section 6.1.2.1.2.
-d Enter Gas Migration Potential Factor Value from section 6.1.2.1.3.
+a Enter a Source Type listed in table 6-4. b Enter Gas Containment Factor Value from section 6.1.2.1.1. c Enter Gas Source Type Factor Value from section 6.1.2.1.2. d Enter Gas Migration Potential Factor Value from section 6.1.2.1.3.
 6.1.2.1.1 Gas containment. Assign each source a value from table 6-3 for gas containment. Use the lowest value from table 6-3 that applies to the source, except: assign a value of 10 if there is evidence of biogas release or if there is an active fire within the source.
 Table 6-3—Gas Containment Factor Values
 Gas containment description | Assigned value
@@ -2958,53 +2891,53 @@ Active fire within source | 10 a
 Gas collection/treatment system functioning, regularly inspected, maintained, and completely covering source | 0
 Source substantially surrounded by engineering windbreak and no other containment specifically described in this table applies | 7
 Source covered with essentially impermeable, regularly inspected, maintained cover | 0
-Uncontaminated soil cover >3 feet:
+Uncontaminated soil cover >3 feet: |
 • Source substantially vegetated with little exposed soil | 0
 • Source lightly vegetated with much exposed soil | 3
 • Source substantially devoid of vegetation | 7
-Uncontaminated soil cover ≥1 foot and ≥3 feet:
-• Source heavily vegetated with essentially no exposed soil
+Uncontaminated soil cover ≥1 foot and ≥3 feet: |
+• Source heavily vegetated with essentially no exposed soil |
 —Cover soil type resistant to gas migration b | 3
 —Cover soil type not resistant to gas migration b or unknown | 7
 • Source substantially vegetated with little exposed soil and cover soil type resistant to gas migration b | 7
 • Other | 10
-Uncontaminated soil cover <1 foot:
+Uncontaminated soil cover <1 foot: |
 • Source heavily vegetated with essentially no exposed soil and cover soil type resistant to gas migration b | 7
 • Other | 10
 Totally or partially enclosed within structurally intact building and no other containment specifically described in this table applies | 7
-Source consists solely of intact, sealed containers:
+Source consists solely of intact, sealed containers: |
 • Totally protected from weather by regularly inspected, maintained cover | 0
 • Other | 3
-a This value must be used if applicable.
-b Consider moist fine-grained and saturated coarse-grained soils resistant to gas migration. Consider all other soils nonresistant.
+a This value must be used if applicable. b Consider moist fine-grained and saturated coarse-grained soils resistant to gas migration. Consider all other soils nonresistant.
 6.1.2.1.2 Gas source type. Assign a value for gas source type to each source as follows:
 • Determine if the source meets the minimum size requirement based on the source hazardous waste quantity value (see section 2.4.2.1.5). If the source receives a source hazardous waste quantity value of 0.5 or more, consider the source to meet the minimum size requirement.
 • If the source meets the minimum size requirement, assign it a value from table 6-4 for gas source type.
 • If the source does not meet the minimum size requirement, assign it a value of 0 for gas source type.
 If no source at the site meets the minimum size requirement, assign each source at the site a value from table 6-4 for gas source type.
 Table 6-4—Source Type Factor Values
-Source type | Assigned value | Gas | Particulate
+Source type | Assigned value
+Gas | Particulate
 Active fire area | 14 | 30
 Burn pit | 19 | 22
-Containers or tanks (buried/below-ground):
+Containers or tanks (buried/below-ground): | |
 • Evidence of biogas release | 33 | 22
 • No evidence of biogas release | 11 | 22
 Containers or tanks, not elsewhere specified | 28 | 14
 Contaminated soil (excluding land treatment) | 19 | 22
 Landfarm/land treatment | 28 | 22
-Landfill:
+Landfill: | |
 • Evidence of biogas release | 33 | 22
 • No evidence of biogas release | 11 | 22
-Pile:
+Pile: | |
 • Tailings pile | 6 | 28
 • Scrap metal or junk pile | 6 | 17
 • Trash pile | 6 | 6
 • Chemical waste pile | 11 | 28
 • Other waste piles | 17 | 28
-Surface impoundments (buried/backfilled):
+Surface impoundments (buried/backfilled): | |
 • Evidence of biogas release | 33 | 22
 • No evidence of biogas release | 11 | 22
-Surface impoundment (not buried/backfilled):
+Surface impoundment (not buried/backfilled): | |
 • Dry | 19 | 22
 • Other | 28 | 0
 Other types of sources, not elsewhere specified | 0 | 0
@@ -3025,7 +2958,7 @@ Greater than 10 | 3
 Greater than 10−3 to 10 | 2
 10−5 to 10−3 | 1
 Less than 10−5 | 0
-Henry's constant (atm-m3/mol) | Assigned value
+Henry's constant (atm-m 3/mol) | Assigned value
 Greater than 10−3 | 3
 Greater than 10−5 to 10−3 | 2
 10−7 to 10−5 | 1
@@ -3052,56 +2985,52 @@ Evaluate particulate potential to release for each source based on three factors
 Table 6-8—Particulate Potential to Release Evaluation
 Source | Source type a | Particulate containment factor value b | Particulate type factor value c | Particulate migration potential factor value d | Sum | Particulate source value
 | | A | B | C | (B + C) | A (B + C)
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+1. | | | | | |
+2. | | | | | |
+3. | | | | | |
+4. | | | | | |
+5. | | | | | |
+6. | | | | | |
+7. | | | | | |
+8. | | | | | |
 Particulate Potential to Release Factor Value (Select Highest Particulate Source Value)
-a Enter a Source Type listed in table 6-4.
-b Enter Particulate Containment Factor Value from section 6.1.2.2.1.
-c Enter Particulate Source Type Factor Value from section 6.1.2.2.2.
-d Enter Particulate Migration Potential Factor Value from section 6.1.2.2.3.
+a Enter a Source Type listed in table 6-4. b Enter Particulate Containment Factor Value from section 6.1.2.2.1. c Enter Particulate Source Type Factor Value from section 6.1.2.2.2. d Enter Particulate Migration Potential Factor Value from section 6.1.2.2.3.
 Table 6-9—Particulate Containment Factor Values
 Particulate containment description | Assigned value
 All situations except those specifically listed below | 10
 Source contains only particulate hazardous substances totally covered by liquids | 0
 Source substantially surrounded by engineered windbreak and no other containment specifically described in this table applies | 7
 Source covered with essentially impermeable, regularly inspected, maintained cover | 0
-Uncontaminated soil cover >3 feet:
+Uncontaminated soil cover >3 feet: |
 • Source substantially vegetated with little or no exposed soil | 0
 • Source lightly vegetated with much exposed soil | 3
 • Source substantially devoid of vegetation | 7
-Uncontaminated soil cover ≥1 foot and ≤3 feet:
-• Source heavily vegetated with essentially no exposed soil:
+Uncontaminated soil cover ≥1 foot and ≤3 feet: |
+• Source heavily vegetated with essentially no exposed soil: |
 —Cover soil type resistant to gas migration a | 3
 —Cover soil type not resistant to gas migration a or unknown | 7
 • Source substantially vegetated with little exposed soil and cover soil type resistant to gas migration a | 7
 • Other | 10
-Uncontaminated soil cover <1 foot:
+Uncontaminated soil cover <1 foot: |
 • Source heavily vegetated with essentially no exposed soil and cover soil type resistant to gas migration a | 7
 • Other | 10
 Totally or partially enclosed within structurally intact building and no other containment specifically described in this table applies | 7
-Source consists solely of containers:
+Source consists solely of containers: |
 • All containers contain only liquids | 0
 • All containers intact, sealed, and totally protected from weather by regularly inspected, maintained cover | 0
 • All containers intact and sealed | 3
 • Other | 10
 a Consider moist fine-grained and saturated coarse-grained soils resistant to gas migration. Consider all other soils nonresistant.
-EC02AU92.013
 Figure 6-2—Particulate Migration Potential Factor Values—Concluded
 Location | Particulate migration potential assigned value
-Hawaiian Islands
+Hawaiian Islands |
 Hilo, Hawaii | 0
 Honolulu, Oahu | 17
 Kahului, Maui | 17
 Lanai | 17
 Lihue, Kauai | 11
 Molokai | 17
-Pacific Islands
+Pacific Islands |
 Guam | 6
 Johnston Island | 17
 Koror Island | 0
@@ -3112,7 +3041,7 @@ Ponape Island | 0
 Truk, Caroline Islands | 0
 Wake Island | 17
 Yap Island | 0
-Alaska
+Alaska |
 Anchorage | 17
 Annette | 0
 Barrow | 17
@@ -3135,11 +3064,11 @@ Talkeetna | 6
 Unalakleet | 17
 Valdez | 0
 Yakutat | 0
-American Virgin Islands
+American Virgin Islands |
 St. Croix | 17
 St. John | 11
 St. Thomas | 11
-Puerto Rico
+Puerto Rico |
 Arecibo | 6
 Coloso | 6
 Fajardo | 11
@@ -3148,7 +3077,6 @@ Isabela Station | 11
 Ponce | 17
 San Juan | 11
 For site locations not on Figure 6-2, and for site locations near the boundary points on Figure 6-2, assign a value as follows. First, calculate a Thornthwaite P-E index using the following equation:
-EC15NO91.163
 where:
 PE = Thornthwaite P-E index.
 Pi = Mean monthly precipitation for month i, in inches.
@@ -3178,7 +3106,7 @@ Less than 50 | 17
 -Assign a mobility factor value from Figure 6-3, based on the site's location, to each particulate hazardous substance that does not meet the criteria for an observed release. (Assign all such particulate hazardous substances this same value.)
 -For site locations not on Figure 6-3 and for site locations near the boundary points on Figure 6-3, assign a mobility factor value to each particulate hazardous substance that does not meet the criteria for an observed release as follows:
 -Calculate a value M:
-M = 0.0182 (U3/[PE]2)
+M = 0.0182 (U 3/[PE] 2)
 where:
 U = Mean average annual wind speed (meters per second).
 PE = Thornthwaite P-E index from section 6.1.2.2.3.
@@ -3194,12 +3122,9 @@ Greater than 10−5 to 10−3 | 0.02
 Greater than 10−7 to 10−5 | 0.002
 Less than or equal to 10−7 | 0.0002
 a Do not round to nearest integer.
-EC02AU92.014
-EC02AU92.015
-EC02AU92.016
 Figure 6-3—Particulate Mobility Factor Values—Concluded
 Location | Particulated mobility assigned value
-Pacific Islands
+Pacific Islands |
 Guam | 0.0002
 Johnston Island | 0.002
 Koror Island | 0.00008
@@ -3210,7 +3135,7 @@ Ponape Island | 0.00002
 Truk, Caroline Islands | 0.00008
 Wake Island | 0.002
 Yap Island | 0.00008
-American Virgin Islands
+American Virgin Islands |
 St. Croix | 0.0008
 St. John | 0.0002
 St. Thomas | 0.0002
@@ -3225,7 +3150,8 @@ Greater than 4.4 × 10−5 to 1.4 × 10−4 | 0.00008
 Less than or equal to 4.4 × 10−5 | 0.00002
 a Do not round to nearest integer.
 Table 6-13—Toxicity/Mobility Factor Values a
-Mobility factor value | Toxicity factor value | 10,000 | 1,000 | 100 | 10 | 1 | 0
+Mobility factor value | Toxicity factor value
+10,000 | 1,000 | 100 | 10 | 1 | 0
 1.0 | 10,000 | 1,000 | 100 | 10 | 1 | 0
 0.2 | 2,000 | 200 | 20 | 2 | 0.2 | 0
 0.02 | 200 | 20 | 2 | 0.2 | 0.02 | 0
@@ -3237,7 +3163,7 @@ Mobility factor value | Toxicity factor value | 10,000 | 1,000 | 100 | 10 | 1 | 
 0.00002 | 0.2 | 0.02 | 0.002 | 0.0002 | 0.00002 | 0
 a Do not round to nearest integer.
 6.2.2 Hazardous waste quantity. Assign a hazardous waste quantity factor value for the air migration pathway as specified in section 2.4.2. Enter this value in table 6-1.
-6.2.3 Calculation of waste characteristics factor category value. Multiply the toxicity/mobility factor value and the hazardous waste quantity factor value, subject to a maximum product of 1 × 108. Based on this product, assign a value from table 2-7 (section 2.4.3.1) to the waste characteristics factor category. Enter this value in table 6-1.
+6.2.3 Calculation of waste characteristics factor category value. Multiply the toxicity/mobility factor value and the hazardous waste quantity factor value, subject to a maximum product of 1 × 10 8. Based on this product, assign a value from table 2-7 (section 2.4.3.1) to the waste characteristics factor category. Enter this value in table 6-1.
 6.3 Targets.
 Evaluate the targets factor category based on four factors: nearest individual, population, resources, and sensitive environments. Include only those targets (for example, individuals, sensitive environments) located within the 4-mile target distance limit, except: if an observed release is established beyond the 4-mile target distance limit, include those additional targets that are specified below in this section and in section 6.3.4.
 Evaluate the nearest individual and population factors based on whether the target populations are subject to Level I concentrations, Level II concentrations, or potential contamination. Determine which applies to a target population as follows.
@@ -3245,7 +3171,7 @@ If no samples meet the criteria for an observed release to air and if there is n
 If one or more samples meet the criteria for an observed release to air or if there is an observed release by direct observation, evaluate the population as follows:
 • Determine the most distant sample location that meets the criteria for Level I concentrations as specified in sections 2.5.1 and 2.5.2 and the most distant location (that is, sample location or direct observation location) that meets the criteria for Level II concentrations. Use the health-based benchmarks from table 6-14 in determining the level of contamination for sample locations. If the most distant Level II location is closer to a source than the most distant Level I sample location, do not consider the Level II location.
 • Determine the single most distant location (sample location or direct observation location) that meets the criteria for Level I or Level II concentrations.
-• If this single most distant location is within the 4-mile target distance limit, identify the distance categories from table ­6-15 in which the selected Level I concentrations sample and Level II concentrations sample (or direct observation location) are located:
+• If this single most distant location is within the 4-mile target distance limit, identify the distance categories from table 6-15 in which the selected Level I concentrations sample and Level II concentrations sample (or direct observation location) are located:
 -Consider the target population anywhere within this furthest Level I distance category, or anywhere within a distance category closer to a source at the site, as subject to Level I concentrations.
 -Consider the target population located beyond any Level I distance categories, up to and including the population anywhere within the furthest Level II distance category, as subject to Level II concentrations.
 -Consider the remainder of the target population within the 4-mile target distance limit as subject to potential contamination.
@@ -3295,14 +3221,14 @@ For the potential contamination factor, use population ranges in evaluating the 
 6.3.2.4 Potential contamination. Determine the number of people within each distance category of the target distance limit (see table 6-15) who are subject to potential contamination. Do not include those people already counted under the Level I and Level II concentrations factors.
 Based on the number of people present within a distance category, assign a distance-weighted population value for that distance category from table 6-17. (Note that the distance-weighted population values in table 6-17 incorporate the distance weights from table 6-15. Do not multiply the values from table 6-17 by these distance weights.)
 Calculate the potential contamination factor value (PI) as follows:
-EC15NO91.164
 where:
 Wi = Distance-weighted population from table 6-17 for distance category i.
 n = Number of distance categories.
 If PI is less than 1, do not round it to the nearest integer; if PI is 1 or more, round to the nearest integer. Enter this value in table 6-1.
 6.3.2.5 Calculation of population factor value. Sum the factor values for Level I concentrations, Level II concentrations, and potential contamination. Do not round this sum to the nearest integer. Assign this sum as the population factor value. Enter this value in table 6-1.
 Table 6-17—Distance-Weighted Population Values For Potential Contamination Factor for Air Pathway a
-Distance category (miles) | Number of people within the distance category | 0 | 1 to 10 | 11 to 30 | 31 to 100 | 101 to 300 | 301 to 1,000 | 1,001 to 3,000 | 3,001 to 10,000 | 10,001 to 30,000 | 30,001 to 100,000 | 100,001 to 300,000 | 300,001 to 1,000,000 | 1,000,001 to 3,000,000
+Distance category (miles) | Number of people within the distance category
+0 | 1 to 10 | 11 to 30 | 31 to 100 | 101 to 300 | 301 to 1,000 | 1,001 to 3,000 | 3,001 to 10,000 | 10,001 to 30,000 | 30,001 to 100,000 | 100,001 to 300,000 | 300,001 to 1,000,000 | 1,000,001 to 3,000,000
 On a source | 0 | 4 | 17 | 53 | 164 | 522 | 1,633 | 5,214 | 16,325 | 52,137 | 163,246 | 521,360 | 1,632,455
 Greater than 0 to 1/4 | 0 | 1 | 4 | 13 | 41 | 131 | 408 | 1,304 | 4,081 | 13,034 | 40,812 | 130,340 | 408,114
 Greater than 1/4 to 1/2 | 0 | 0.2 | 0.9 | 3 | 9 | 28 | 88 | 282 | 882 | 2,815 | 8,815 | 28,153 | 88,153
@@ -3330,7 +3256,6 @@ If one or more samples meet the criteria for an observed release to air or if th
 6.3.4.1 Actual contamination. Determine those sensitive environments subject to actual contamination (i.e., those located partially or wholly within a distance category subject to actual contamination). Assign value(s) from table 4-23 (section 4.1.4.3.1.1) to each sensitive environment subject to actual contamination.
 For those sensitive environments that are wetlands, assign an additional value from table 6-18. In assigning a value from table 6-18, include only those portions of wetlands located within distance categories subject to actual contamination. If a wetland is located partially in a distance category subject to actual contamination and partially in one subject to potential contamination, then solely for purposes of table 6-18, count the portion in the distance category subject to potential contamination under the potential contamination factor in section 6.3.4.2. Determine the total acreage of wetlands within those distance categories subject to actual contamination and assign a value from table 6-18 based on this total acreage.
 Calculate the actual contamination factor value (EA) as follows:
-EC15NO91.165
 where:
 WA = Value assigned from table 6-18 for wetlands in distance categories subject to actual contamination.
 Si = Value(s) assigned from table 4-23 to sensitive environment i.
@@ -3352,7 +3277,6 @@ a Wetlands as defined in 40 CFR section 230.3.
 For each distance category subject to potential contamination, sum the value(s) assigned from table 4-23 to the sensitive environments in that distance category. If a sensitive environment is located in more than one distance category, assign the sensitive environment only to that distance category having the highest distance weighting value from table 6-15.
 For those sensitive environments that are wetlands, assign an additional value from table 6-18. In assigning a value from table 6-18, include only those portions of wetlands located within distance categories subject to potential contamination, as specified in section 6.3.4.1. Treat the wetlands in each separate distance category as separate sensitive environments solely for purposes of applying table 6-18. Determine the total acreage of wetlands within each of these distance categories and assign a separate value from table 6-18 for each distance category.
 Calculate the potential contamination factor value (EP) as follows:
-EC15NO91.166
 Sij = Value(s) assigned from table 4-23 to sensitive environment in distance category j.
 n = Number of sensitive environments subject to potential contamination.
 Wj = Value assigned from table 6-18 for wetland area in distance category j.
@@ -3364,7 +3288,6 @@ Because the pathway score based solely on sensitive environments is limited to a
 • Multiply the values assigned to likelihood of release (LR), waste characteristics (WC), and EB. Divide the product by 82,500.
 -If the result is 60 or less, assign the value EB as the sensitive environments factor value.
 -If the result exceeds 60, calculate a value EC as follows:
-EC15NO91.167
 Assign the value EC as the sensitive environments factor value. Do not round this value to the nearest integer.
 Enter the value assigned for the sensitive environments factor in table 6-1.
 6.3.5 Calculation of targets factor category value. Sum the nearest individual, population, resources, and sensitive environments factor values. Do not round this sum to the nearest integer. Assign this sum as the targets factor category value. Enter this value in table 6-1.
@@ -3373,8 +3296,8 @@ Enter the value assigned for the sensitive environments factor in table 6-1.
 In general, radioactive substances are hazardous substances under CERCLA and should be considered in HRS scoring. Releases of certain radioactive substances are, however, excluded from the definition of "release" in section 101(22) of CERCLA, as amended, and should not be considered in HRS scoring.
 Evaluate sites containing radioactive substances using the instructions specified in sections 2 through 6, supplemented by the instructions in this section. Those factors denoted with a "yes" in table 7-1 are evaluated differently for sites containing radioactive substances than for sites containing only nonradioactive hazardous substances, while those denoted with a "no" are not evaluated differently and are not addressed in this section.
 Table 7-1—HRS Factors Evaluated Differently for Radionuclides
-Ground waterpathway | Status a | Surface water pathway | Status a | Soil exposurecomponent of SESSI pathway | Status a | Subsurfaceintrusion component of SESSI pathway | Status a | Air pathway | Status a
-Likelihood ofRelease | | Likelihood ofRelease | | Likelihood ofExposure | | Likelihood ofExposure | | Likelihood ofRelease
+Ground water pathway | Status a | Surface water pathway | Status a | Soil exposure component of SESSI pathway | Status a | Subsurface intrusion component of SESSI pathway | Status a | Air pathway | Status a
+Likelihood of Release | | Likelihood of Release | | Likelihood of Exposure | | Likelihood of Exposure | | Likelihood of Release |
 Observed Release | Yes | Observed Release | Yes | Observed Contamination | Yes | Observed Exposure | Yes | Observed Release | Yes.
 Potential to Release | No | Potential to Release | No | Attractiveness/Accessibility to Nearby Residents | No | Potential for Exposure | Yes | Gas Potential to Release | No.
 Containment | No | Overland Flow Containment | No | Area of Contamination | No | Structure Containment | No | Gas Containment | No.
@@ -3384,20 +3307,19 @@ Travel Time | No | Flood Frequency | No | | | Vapor Migration Potential | No | P
 | | Flood Containment | No | | | Area of Observed Exposure | No | Particulate Containment | No.
 | | | | | | Area of Subsurface Contamination | No | Particulate Source Type | No.
 | | | | | | | | Particulate Migration Potential | No.
-WasteCharacteristics | | WasteCharacteristics | | WasteCharacteristics | | WasteCharacteristics | | WasteCharacteristics
+Waste Characteristics | | Waste Characteristics | | Waste Characteristics | | Waste Characteristics | | Waste Characteristics |
 Toxicity | Yes | Toxicity/Ecotoxicity | Yes/Yes | Toxicity | Yes | Toxicity/Degradation | Yes/Yes | Toxicity | Yes.
 Mobility | No | Persistence/Mobility | Yes/No | Hazardous Waste Quantity | Yes | Hazardous Waste Quantity | Yes | Mobility | No.
 Hazardous Waste Quantity | Yes | Bioaccumulation Potential | No | | | | | Hazardous Waste Quantity | Yes.
-| | Hazardous Waste Quantity | Yes
-Targets | | Targets | | Targets | | Targets | | Targets
-Nearest Well | Yes b | Nearest Intake | Yes b | Resident Individual | Yes b | Exposed Individual | Yes b | Nearest Individual | Yes.b
-Population | Yes b | Drinking Water Population | Yes b | Resident Population | Yes b | Population | Yes b | Population | Yes.b
+| | Hazardous Waste Quantity | Yes | | | | | |
+Targets | | Targets | | Targets | | Targets | | Targets |
+Nearest Well | Yes b | Nearest Intake | Yes b | Resident Individual | Yes b | Exposed Individual | Yes b | Nearest Individual | Yes. b
+Population | Yes b | Drinking Water Population | Yes b | Resident Population | Yes b | Population | Yes b | Population | Yes. b
 Resources | No | Resources | No | Workers | No | Resources | No | Resources | No.
 Wellhead Protection Area | No | Sensitive Environments | Yes b | Resources | No | | | Sensitive Environments | No.
-| | Human Food Chain Individual | Yes b | Terrestrial Sensitive Environments | No
-| | Human Food Chain Population | Yes b | Nearby IndividualPopulation Within 1 Mile | NoNo
-a—Factors evaluated differently are denoted by "yes"; factors not evaluated differently are denoted by "no".
-b—Difference is in the determination of Level I and Level II concentrations.
+| | Human Food Chain Individual | Yes b | Terrestrial Sensitive Environments | No | | | |
+| | Human Food Chain Population | Yes b | Nearby Individual Population Within 1 Mile | No No | | | |
+a—Factors evaluated differently are denoted by "yes"; factors not evaluated differently are denoted by "no". b—Difference is in the determination of Level I and Level II concentrations.
 In general, sites containing mixed radioactive and other hazardous substances involve more evaluation than sites containing only radionuclides. For sites containing mixed radioactive and other hazardous substances, HRS factors are evaluated based on considerations of both the radioactive substances and the other hazardous substances in order to derive a single set of factor values for each factor category in each of the four pathways. Thus, the HRS score for these sites reflects the combined potential hazards posed by both the radioactive and other hazardous substances.
 Section 7 is organized by factor category, similar to sections 3 through 6. Pathway-specific differences in evaluation criteria are specified under each factor category, as appropriate. These differences apply largely to the soil exposure and subsurface intrusion pathway and to sites containing mixed radioactive and other hazardous substances. All evaluation criteria specified in sections 2 through 6 must be met, except where modified in section 7.
 7.1 Likelihood of release/likelihood of exposure. Evaluate likelihood of release for the three migration pathways and likelihood of exposure for the soil exposure and subsurface intrusion pathway as specified in sections 2 through 6, except: establish an observed release, observed contamination, and/or observed exposure as specified in section 7.1.1. When an observed release or exposure cannot be established for a migration pathway or the subsurface intrusion component of the soil exposure and subsurface intrusion pathway, evaluate potential to release as specified in section 7.1.2. When observed contamination cannot be established, do not evaluate the soil exposure component of the soil exposure and subsurface intrusion pathway.
@@ -3451,14 +3373,12 @@ SF not available for the radionuclide | 0
 a Radionuclide slope factors are estimates of age-averaged, individual lifetime total excess cancer risk per picocurie of radionuclide inhaled or ingested.
 At sites containing mixed radioactive and other hazardous substances, evaluate the ecosystem toxicity factor separately for the radioactive and other hazardous substances and assign each a separate ecosystem toxicity factor value. This applies regardless of whether the radioactive and other hazardous substances are physically separated, combined chemically, or simply mixed together. Assign ecosystem toxicity factor values to the radionuclides as specified above and to the other hazardous substances as specified in sections 4.1.4.2.1.1 and 4.2.4.2.1.1. If all radionuclides available to a particular pathway are assigned an ecosystem toxicity factor value of 0, use a default ecosystem toxicity factor value of 100 for all these radionuclides even if nonradioactive hazardous substances available to the pathway are assigned ecosystem toxicity factor values greater than 0. Similarly, if all nonradioactive hazardous substances available to the pathway are assigned an ecosystem toxicity factor value of 0, use a default ecosystem toxicity factor value of 100 for all these nonradioactive hazardous substances even if radionuclides available to the pathway are assigned ecosystem toxicity factor values greater than 0.
 7.2.3 Persistence/Degradation. In determining the surface water persistence factor for radionuclides, evaluate this factor based solely on half-life; do not include sorption to sediments in the evaluation as is done for nonradioactive hazardous substances. Assign a persistence factor value from Table 4-10 (section 4.1.2.2.1.2) to each radionuclide based on half-life (t 1/2) calculated as follows:
-ER09JA17.073
 Where:
 r = Radioactive half-life.
 V = Volatilization half-life.
 If the volatilization half-life cannot be estimated for a radionuclide from available data, delete it from the equation. Select the portion of Table 4-10 to use in assigning the persistence factor value as specified in section 4.1.2.2.1.2.
 At sites containing mixed radioactive and other hazardous substances, evaluate the persistence factor separately for each radionuclide and for each nonradioactive hazardous substance, even if the available data indicate that they are combined chemically. Assign a persistence factor value to each radionuclide as specified in this section and to each nonradioactive hazardous substance as specified in section 4.1.2.2.1.2. When combined chemically, assign a single persistence factor value based on the higher of the two values assigned (individually) to the radioactive and nonradioactive components.
 In determining the subsurface intrusion degradation factor for radionuclides, when evaluating this factor based solely on half-life, assign a degradation factor value from section 5.2.1.2.1.2 to each radionuclide based on half-life (t1/2) calculated as follows:
-ER09JA17.074
 Where:
 r = Radioactive half-life.
 If no radioactive half-life information is available for a radionuclide and the substance is not already assigned a value of 1, unless information indicates otherwise, assign a value of 1.
@@ -3472,14 +3392,12 @@ At sites containing mixed radioactive and other hazardous substances, evaluate t
 • Estimate the net activity content (in curies) for the source (or area of observed contamination or area of observed exposure) based on:
 —Manifests, or
 —Either of the following equations, as applicable:
-ER09JA17.075
 Where:
 N = Estimated net activity content (in curies) for the source (or area of observed contamination or area of observed exposure).
 V = Total volume of material (in cubic yards) in a source (or area of observed contamination or area of observed exposure) containing radionuclides.
 ACi = Activity concentration above the respective background concentration (in pCi/g) for each radionuclide i allocated to the source (or area of observed contamination or area of observed exposure).
 n = Number of radionuclides allocated to the source (or area of observed contamination or area of observed exposure) above the respective background concentrations.
 or,
-ER09JA17.076
 Where:
 N = Estimated net activity content (in curies) for the source (or area of observed contamination or area of observed exposure).
 V = Total volume of material (in gallons) in a source (or area of observed contamination or area of observed exposure) containing radionuclides.

@@ -38,7 +38,6 @@ SOP 4-4 Target Compound List
 2.1 Summary. This laboratory protocol establishes procedures to evaluate the degree to which a product effectively disperses oil spilled on the surface of seawater, using a modified 150-mL screw-cap trypsinizing flask (an Erlenmeyer flask with baffles) with a glass and Teflon® stopcock near the bottom to allow removal of subsurface water samples without disturbing the surface oil layer. The efficacy of a dispersant is measured using one reference oil, Strategic Petroleum Oil Reserve Bryan Mound at two temperatures (5 °C and 25 °C). Six replicates and one method blank are required at each temperature. A layer of oil is placed on the surface of artificial seawater, and the dispersant is added to the slick at a dispersant:oil ratio (DOR) of 1:25 (4%) by volume. A standard orbital shaker table provides turbulent mixing at a speed of 250 revolutions per minute (rpm) for 10 minutes, immediately after which it is maintained stationary for 10 minutes to allow non-dispersed oil to rise to the water's surface. An undisturbed water sample is removed from the bottom of the flask through the stopcock, extracted with dichloromethane (DCM), and analyzed for oil content by UV-visible absorption spectrophotometry at wavelengths ranging between 340 and 400 nm.
 2.2 Apparatus. All equipment must be maintained and calibrated per standard laboratory procedures.
 2.2.1 Modified Trypsinizing Flask. A modified 150 mL glass screw-capped Erlenmeyer flasks with baffles (e.g., Wheaton No. 355394 or equivalent) fitted with a 2 mm bore Teflon® stopcock and glass tubing, the center of which is no more than 1.3 cm from the bottom, as shown in Figure 1.
-ER12JN23.078
 Figure 1. A Baffled Trypsinizing Flask
 2.2.2 Orbital Shaker Table. An orbital shaker table with a variable speed control unit capable of maintaining 250 rpm. The orbital diameter must be approximately 1.0 inch (2.5 cm) ±0.1 inch (0.25 cm).
 2.2.3 Spectrophotometer. A UV-visible spectrophotometer capable of measuring absorbance between 340 and 400 nm (e.g., Shimadzu UV-1800, Agilent 8453, or equivalent). Use standard transmission-matched quartz 10-mm path length rectangular cells with PTFE cover for absorbance measurements.
@@ -57,9 +56,8 @@ Figure 1. A Baffled Trypsinizing Flask
 2.4.2 Serum bottles and other non-volumetric glassware. Bake for at least 4 hours in a muffle furnace at 450 °C.
 2.5 Calibration Curve for the UV-visible spectrophotometer.
 2.5.1 Stock Standard Solution Preparation. Stock standard solution concentrations are based on the mass measurements after each addition and density determinations of the oil/dispersant/DCM solution using a density bottle or a 1-mL gas tight syringe. An example calculation is given in Table 3 of this Appendix according to the following equation:
-ER28JN23.004
 Use the reference oil and the specific dispersant being tested for a particular set of experimental test runs. Prepare the stock standard solution of dispersant-oil mixture in DCM, starting with 2 ml of the oil, then adding 80 µl of the dispersant followed by 18 ml of DCM.
-2.5.2 Six -point Calibration Curve. For the reference oil, add specific volumes of its stock standard solution (given in Table 4 of this Appendix) to 30 ml of artificial seawater in a 125 ml separatory funnel. Extract the oil/dispersant water mixture with triplicate 5 ml volumes of DCM. Follow each DCM addition by 15 seconds of vigorous shaking, carefully releasing the initial pressure inside the separatory funnel by partially removing the glass stopper inside a fume hood after the first few shakes. Then, allow a 2-minute stationary period for phase separation for each extraction. Drain the extracts into a 25-mL graduated mixing cylinder. Release any entrained bubbles of DCM from the water layer by sideways shaking of the funnel. Use precaution not to drain water into the DCM extract as it can affect the absorbance readings. Adjust the final volume of the collected extracts to 25 mL in the mixing cylinder using DCM. Determine specific masses for oil concentrations in the standards as volumes of oil/dispersant solution multiplied by the concentration of the stock solution. An example calculation is given in Table 4 of this Appendix. One calibration curve is needed for the reference oil and dispersant combination.
+2.5.2 Six-point Calibration Curve. For the reference oil, add specific volumes of its stock standard solution (given in Table 4 of this Appendix) to 30 ml of artificial seawater in a 125 ml separatory funnel. Extract the oil/dispersant water mixture with triplicate 5 ml volumes of DCM. Follow each DCM addition by 15 seconds of vigorous shaking, carefully releasing the initial pressure inside the separatory funnel by partially removing the glass stopper inside a fume hood after the first few shakes. Then, allow a 2-minute stationary period for phase separation for each extraction. Drain the extracts into a 25-mL graduated mixing cylinder. Release any entrained bubbles of DCM from the water layer by sideways shaking of the funnel. Use precaution not to drain water into the DCM extract as it can affect the absorbance readings. Adjust the final volume of the collected extracts to 25 mL in the mixing cylinder using DCM. Determine specific masses for oil concentrations in the standards as volumes of oil/dispersant solution multiplied by the concentration of the stock solution. An example calculation is given in Table 4 of this Appendix. One calibration curve is needed for the reference oil and dispersant combination.
 2.6 Sample Preparation and Testing. See section 2.7 of this Appendix for a detailed description of the spectrophotometer's linear calibration procedure.
 2.6.1 Six replicates of the oil and test dispersant are required at each temperature plus two additional tests of method blanks (artificial seawater without oil and dispersant), one at each temperature. A completed test consists of 14 baffled flask tests (a total of six replicates for the reference oil/test dispersant combination at two temperatures (5 °C and 25 °C), plus two method blanks).
 2.6.2 Attach a 3-inch length of Teflon tubing to the stopcock of each of the 150-mL baffled flasks. Add 120 mL of artificial seawater to each flask. Put screw cap on flasks and place them at the appropriate temperature (either 5 °C or 25 °C) for equilibration.
@@ -86,63 +84,52 @@ Note to 2.6.6: If a Brinkmann Eppendorf repeater pipettor is used for dispensing
 2.7.3 If refrigerated, allow all extracts, standards, and samples to warm to room temperature.
 2.7.4 Determine the absorbance of the six standards between the wavelengths of 340 and 400 nm. This can be done by either one of the following methods:
 2.7.4.1 Trapezoidal Rule. Program the spectrophotometer to take readings every 5λ or 10λ and calculate the area under the curve using the Trapezoidal rule:
-ER28JN23.005
 where N + 1 = number of absorbance measurements to delineate N equally spaced sections of the curve, and H = the distance (λ) between each reading. For H = 5, N + 1 = 13 measurements, for H = 10, N + 1 = 7. The following formula illustrates readings taken every 10λ.
-ER28JN23.006
 When using readings taken every 5λ, each absorbance sum is multiplied by 5.
 2.7.4.2 Automatic Integration. Program the spectrophotometer to automatically integrate the area under the curve between 340 nm and 400 nm.
 2.7.4.3 If the wavelengths must be manually set on the spectrophotometer, the older method of only measuring at 340λ, 370λ, and 400λ may be used. Then calculate using the trapezoidal rule for N + 1 = 3, H = 30. While the resulting area count with the older method is less accurate, the final results are similar since the inaccuracy is systematic.
 2.7.5 After determining the area count for each standard, determine the response factor (RF) for the oil at each concentration using the following equation:
-ER28JN23.007
 2.7.6 Spectrophotometer stability for the initial calibration is acceptable when the RFs of the six standard extracts are less than 10% different from the overall mean value for the six standards, as calculated in Equation 5 of this Appendix and depicted in the example in Table 4 of this Appendix.
-ER28JN23.008
 2.7.7 If this criterion is satisfied, begin analysis of sample extracts. Absorbances greater than or equal to 3.5 are not included because absorbance saturation occurs at and above this value. If any of the standard oil extracts fails to satisfy the initial-stability criterion, the source of the problem (e.g., preparation protocol for the oil standards, spectrophotometer stability, etc.) must be corrected before analysis of the sample extracts begins.
 2.7.8 Determine the slope of the calibration points by using linear regression forced zero intercept:
-ER28JN23.009
 2.8 Spectrophotometric Analysis and Calculations
 2.8.1 Once a successful calibration curve for the reference oil has been created and verified, measure experimental replicates for the reference oil at each temperature followed by a standard check sample.
 2.8.2 Determine the area for the absorbance values obtained for the experimental samples by using Equation 2 of this Appendix and illustrated by Equation 3 of this Appendix.
 2.8.3 Calculate the Total Oil dispersed and the percentage of oil dispersed (%OD) based on the ratio of oil dispersed in the test system to the total oil added to the system, as follows:
-ER28JN23.010
 where:
-V DCM = final volume of the DCM extract (mL)
-V tw = total seawater in Baffled Flask (120 mL)
-V ew = volume seawater extracted (30 mL)
-ER28JN23.011
+VDCM = final volume of the DCM extract (mL)
+Vtw = total seawater in Baffled Flask (120 mL)
+Vew = volume seawater extracted (30 mL)
 where:
-r Oil = density of the specific test oil, mg/mL and
-V Oil = Volume (mL of oil added to test flask (100 µL = 0.1 mL))
+rOil = density of the specific test oil, mg/mL and
+VOil = Volume (mL of oil added to test flask (100 µL = 0.1 mL))
 2.8.4 The %ODs for the six replicates within a particular treatment are then subjected to an outlier test, the Grubb's Test or Maximum Normal Residual test (6). A convenient internet-based calculator of a Grubbs outlier may be found at: http://www.graphpad.com/quickcalcs/Grubbs1.cfm. If an outlier is detected (p < 0.05), analyze an additional replicate to obtain the required six replicates.
-2.8.5 Report the Dispersion Efficacy value for each oil and each temperature, which is the lower 95% confidence level of the 6 independent replicates (DE LCL95) for each oil/temperature combination. Error bars are not needed as reporting the lower confidence level computationally takes the variability of the replicates into account as shown in Equation 9 of this Appendix.
-ER28JN23.012
+2.8.5 Report the Dispersion Efficacy value for each oil and each temperature, which is the lower 95% confidence level of the 6 independent replicates (DELCL95) for each oil/temperature combination. Error bars are not needed as reporting the lower confidence level computationally takes the variability of the replicates into account as shown in Equation 9 of this Appendix.
 where (%OD)
-(%OD) = mean percentage oil dispersed for the n = 6 replicates, S = standard deviation, and t (n-1,1- α) = 100 * (1-α)th percentile from the t-distribution with n-1 degrees of freedom. For 6 replicates, t n-1,1- α = 2.015, where α = 0.05. An example of the calculations is given in Table 5 of this Appendix.
+(%OD) = mean percentage oil dispersed for the n = 6 replicates, S = standard deviation, and t(n-1,1-α) = 100 * (1-α)th percentile from the t-distribution with n-1 degrees of freedom. For 6 replicates, tn-1,1-α = 2.015, where α = 0.05. An example of the calculations is given in Table 5 of this Appendix.
 2.9 Performance Criterion
-The dispersant product tested will remain in consideration for listing on the NCP Product Schedule if the dispersant efficacy (DE LCL95), as calculated in section 2.8.6 of this Appendix, is:
-Oil | Temp (°C) | DE LCL95 (%)
+The dispersant product tested will remain in consideration for listing on the NCP Product Schedule if the dispersant efficacy (DELCL95), as calculated in section 2.8.6 of this Appendix, is:
+Oil | Temp (°C) | DELCL95 (%)
 Bryan Mound | 5 | ≥70
 Bryan Mound | 25 | ≥75
 2.10 Quality Control (QC) Procedures for Oil Concentration Measurements
 2.10.1 Absorbance readings. Perform at least 5% of all UV-visible spectrophotometric measurements in duplicate as a QC check on the analytical measurement method. The absorbance values for the duplicates must agree within ±5% of their mean value.
 2.10.2 Method blanks. Analytical method blanks involve an analysis of artificial seawater blanks (artificial seawater without oil or dispersant in a baffled flask) through testing and analytical procedures. Analyze method blanks with a frequency of at least two per completed test. Oil concentrations in method blanks must be less than detectable limits.
 2.10.3 Accuracy. Determine accuracy by using a mid-point standard calibration check after each set of replicate samples analyzed. The acceptance criterion is based on a percent recovery of 90-110% using the following equation:
-ER28JN23.013
 2.10.4 Calibration QC checks. Before analyzing samples, the spectrophotometer must meet an instrument stability calibration criterion using the oil standards. The instrument stability for initial calibration is acceptable when the RFs (Equation 5 of this Appendix) for each of the six standard concentration levels are less than 10% different from the overall mean value.
-Table 1—Constituent Concentrations for GP2 Artificial Seawater
-[Based on Spotte et al., 1984]
+Table 1—Constituent Concentrations for GP2 Artificial Seawater [Based on Spotte et al., 1984]
 Constituent | Concentration (g/L)
 NaCl | 21.03
-Na 2 SO 4 | 3.52
+Na2SO4 | 3.52
 KCl | 0.61
 KBr * | 0.088
-Na 2 B 4 O 7 × 10H 2 O * | 0.034
-MgCl 2 × 6H 2 O | 9.50
-CaCl 2 × 2H 2 O | 1.32
-SrCl 2 × 6H 2 O * | 0.02
-NaHCO 2 * | 0.17
+Na2B4O7 × 10H2O * | 0.034
+MgCl2 × 6H2O | 9.50
+CaCl2 × 2H2O | 1.32
+SrCl2 × 6H2O * | 0.02
+NaHCO2 * | 0.17
 * Use Stock Solution, 1 mL/L GP2 for 100X stock solution for Bromide, Borate, and Strontium. 10 mL/L GP2 for bicarbonate—10X stock solution as it is not soluble in a 100X solution. Adjust to pH 8.0 prior to autoclaving.
-Table 2—Test Oil Characteristics
-[April 2023 oil assay]
+Table 2—Test Oil Characteristics [April 2023 oil assay]
 Oil | Density, mg/mL @15 °C | API gravity @15 °C | Viscosity @25 °C, (cSt) | Category by API gravity
 SPR Bryan Mound | 0.8320 | 38.6 | 4.721 | Light Oil.
 Table 3—Sample Calculation for Preparation of Oil + Dispersant Stock Standard Solution
@@ -158,21 +145,22 @@ Density of solution, g/mL (derived) | H = E−D | 1.264
 Volume of solution, mL (derived) | I = G/H | 19.687
 Conc. of stock solution, mg/mL (derived) | J = F*1000/I | 87.704
 Table 4—Sample Calculations for Oil + Dispersant Six Point Calibration
-Oil + Dispersant Stock Standard Solution Concentration = 87.7 mg/mL (Table 3) | Standard—stock vol. (uL) | Theoretical conc., mg/mL | Area (340-400 nm) | RF | Avg. RF | Dev. from avg. RF | Slope
+Oil + Dispersant Stock Standard Solution Concentration = 87.7 mg/mL (Table 3)
+Standard—stock vol. (uL) | Theoretical conc., mg/mL | Area (340-400 nm) | RF | Avg. RF | Dev. from avg. RF | Slope
 25 | 0.088 | 4.126 | 0.021 | 0.021 | 2.931 | 48.759
-50 | 0.175 | 8.757 | 0.020 | | 3.017
-100 | 0.351 | 16.559 | 0.021 | | 2.577
-150 | 0.526 | 25.666 | 0.021 | | 0.731
-200 | 0.702 | 34.142 | 0.021 | | 0.500
+50 | 0.175 | 8.757 | 0.020 | | 3.017 |
+100 | 0.351 | 16.559 | 0.021 | | 2.577 |
+150 | 0.526 | 25.666 | 0.021 | | 0.731 |
+200 | 0.702 | 34.142 | 0.021 | | 0.500 |
 250 | 0.877 | 43.006 | 0.020 | | 1.260 |
 Table 5—LCL95 Sample Calculation With Test Oil and Example Dispersant `A'
 Rep | Area (340-400 nm) | Dilution factor | Extract volume (ml) * | Conc, mg/mL. | Mass in 30 mL, mg | Total oil dispersed, mg | Efficiency, % | Average | Std. dev. | Variance | Coef. of variation | LCL95
 1 | 32.197 | 1 | 25 | 0.66 | 16.51 | 66.03 | 79.76 | 81.30 | 4.46 | 19.85 | 5.48 | 81.30
-2 | 35.470 | 1 | 25 | 0.73 | 18.19 | 72.75 | 87.87 | | |
-3 | 30.260 | 1 | 25 | 0.62 | 15.52 | 62.06 | 74.96 | | |
-4 | 31.831 | 1 | 25 | 0.65 | 16.32 | 65.28 | 78.85 | | |
-5 | 33.355 | 1 | 25 | 0.68 | 17.10 | 68.41 | 82.63 | | |
-6 | 33.791 | 1 | 25 | 0.69 | 17.33 | 69.30 | 83.71 | | | |
+2 | 35.470 | 1 | 25 | 0.73 | 18.19 | 72.75 | 87.87 | | | | |
+3 | 30.260 | 1 | 25 | 0.62 | 15.52 | 62.06 | 74.96 | | | | |
+4 | 31.831 | 1 | 25 | 0.65 | 16.32 | 65.28 | 78.85 | | | | |
+5 | 33.355 | 1 | 25 | 0.68 | 17.10 | 68.41 | 82.63 | | | | |
+6 | 33.791 | 1 | 25 | 0.69 | 17.33 | 69.30 | 83.71 | | | | |
 * = 25 ml of DCM extract captured oil from 30 ml of aqueous DE test.
 2.11 References for Section 2.0
 (1) U.S. Environmental Protection Agency (1994), "Swirling Flask Dispersant Effectiveness Test," Title 40 Code of Federal Regulations, Pt. 300, Appendix C, pp 47458-47461.
@@ -184,14 +172,15 @@ Rep | Area (340-400 nm) | Dilution factor | Extract volume (ml) * | Conc, mg/mL.
 3.0 Dispersant Toxicity Testing
 3.1 Summary. This laboratory protocol includes testing for: (1) dispersant standard static acute toxicity tests for the mysid shrimp, Americamysis bahia (48-hr duration) and the inland silverside, Menidia beryllina (96-hr duration); (2) dispersant-oil mixture static acute toxicity tests for Americamysis bahia and Menidia beryllina (48-hr and 96-hr duration, respectively); (3) dispersant developmental assay for Strongylocentrotus purpuratus or Arbacia punctulata, (72-hr duration); and (4) dispersant 7-day static subchronic tests with Americamysis bahia and Menidia beryllina (Table 6 of this Appendix).
 Table 6—Toxicity Testing Requirements for Dispersants
-Test procedure | Test substance | 96-Hr static acute: Menidia beryllina | 48-Hr static acute: Americamysis Bahia | 72-Hr sea urchin developmental assay | 7-Day subchronic: M. beryllina & A. bahia
+Test procedure
+Test substance | 96-Hr static acute: Menidia beryllina | 48-Hr static acute: Americamysis Bahia | 72-Hr sea urchin developmental assay | 7-Day subchronic: M. beryllina & A. bahia
 Dispersant only | yes | yes | yes | yes.
 Dispersant—Reference Oil Mixture | yes | yes | no | no.
 3.2 Preparation of Stock Solutions
 3.2.1 Dispersant. Prepare a 1000 µL/L primary stock solution prior to test initiation by adding 1.1 mL of dispersant to 1100 mL of dilution water consisting of salinity adjusted uncontaminated natural or artificial seawater, in a glass vessel. Using a laboratory top stirrer equipped with a stainless-steel blade, center the stirrer blade in the mixing vessel one inch off the bottom. Initially mix the resulting stock solution for approximately five seconds at speeds of <10,000 rpm to avoid foaming. Thereafter, set the speed to provide a 70% vortex. Using a glass pipette, remove appropriate aliquots of stock solution from between the mixing vessel wall and edge of the vortex and place directly into the dilution water within an exposure vessel. Suspend mixing of the stock solution after the removal of each aliquot. Base the preparation of exposure solutions on the nominal concentration of the stock solution and follow procedures outlined in sections 3.5 and 3.6 of this Appendix.
 3.2.2 Dispersant-Reference Oil(s) Mixtures. Use Strategic Petroleum Reserve Bryan Mound reference oil. To obtain this oil at no charge (except for a minimal shipping fee) see https://www.epa.gov/emergency-response/national-contingency-plan-subpart-j#howto. Assessment of dispersant-reference oil mixture (DOM) toxicity is determined for each reference oil using the aqueous phase of a chemically enhanced-water accommodated fraction (CE-WAF). Fit a glass aspirator bottle (approximately 23 L) equipped with a hose bib at the base with a length of silicon tubing containing a hose clamp. Fill the bottle with 19L of seawater leaving a 20% headspace above the liquid, place on a magnetic stir plate then add and center a stir bar. Add the reference oil at 25 g/L using a silicon tube attached to a glass funnel that reaches just below the water surface. Using this method reduces the production of air bubbles on the oil surface slick. Adjust the stir plate to obtain an oil vortex of 25% of the total volume of the seawater, then add the dispersant to be tested at a ratio of 1:10 dispersant:oil (2.5 g/L). Securely seal the bottle to reduce the loss of volatiles using a silicon stopper and wraps of Parafilm and stir for 18 hours, then allow the solution to settle for 6 hours. Maintain the temperature at 25 °C during stirring and settling. Purge the hose at the base of the bottle of any material followed by removal of the CE-WAF (aqueous phase) into a clean glass container without disturbing the surface oil slick. The CE-WAF should be remixed and 1 to 2 L removed for chemical analysis of total petroleum hydrocarbons (TPH) following the procedures outlined in section 3.4 of this Appendix. The remaining volume will be used for the preparation of exposure solutions following procedures outlined in section 3.3 of this Appendix. To reduce time and cost, mix sufficient amounts of dispersant product-reference oil mixture CE-WAF to allow preparation of exposure solutions for conducting simultaneous acute tests with both Americamysis bahia and Menidia beryllina.
 3.3 Preparation of Exposure Concentrations.
-3.3.1 Concentration Selection. Preliminary rangefinder tests may be necessary using a series of logarithmic concentrations (e.g. 0.1, 1, 10, 100 µl dispersant product/L or mg TPH/L) to determine the appropriate exposure concentration range necessary to determine LC 50 values and 95% confidence intervals. For definitive tests, conduct a minimum of five test concentrations using a geometric ratio between 1.5 and 2.0 (e.g. 2, 4, 8, 16, and 32). Note that when testing only the dispersant product, the highest test concentration must not exceed the dispersant's self-dispersibility limit.
+3.3.1 Concentration Selection. Preliminary rangefinder tests may be necessary using a series of logarithmic concentrations (e.g. 0.1, 1, 10, 100 µl dispersant product/L or mg TPH/L) to determine the appropriate exposure concentration range necessary to determine LC50 values and 95% confidence intervals. For definitive tests, conduct a minimum of five test concentrations using a geometric ratio between 1.5 and 2.0 (e.g. 2, 4, 8, 16, and 32). Note that when testing only the dispersant product, the highest test concentration must not exceed the dispersant's self-dispersibility limit.
 3.3.2 Exposure Concentrations. Exposure solutions are prepared by adding the appropriate amount of stock solution directly to dilution water in each test chamber. Mix each exposure solution using five rotations in one direction followed by five rotations in the opposite direction using a solid glass stir rod.
 3.3.3 Reference Toxicants. Separate toxicity tests must be performed with a reference toxicant for each species tested. Conduct additional reference toxicity tests any time a change in the population or source of a test species occurs. Use sodium dodecyl sulfate (SDS), also known as dodecyl sodium sulfate (DSS), and sodium lauryl sulfate (SLS) as the reference toxicant for exposures conducted with Menidia beryllina and Americamysis bahia. Use copper chloride as the reference toxicant for exposures conducted with the sea urchin developmental test. Use reagent grade quality SDS and copper chloride for tests. Information on procedures for conducting reference toxicant tests with these species can be found in the specific EPA methods documents cited in sections 3.5.1, 3.6.1, and 3.7.1 of this Appendix.
 3.4 Chemical Analysis of Stock Solutions. Add the 1 L sample of CE-WAF (Section 3.2.2 of this Appendix) solutions directly to amber glass bottles with Teflon®-lined cap. Collect a replicate sample in the event of accidental loss or if reanalysis of the stock solution becomes necessary. Adjust sample to a pH=2 using 50% hydrochloric acid, immediately refrigerate and analyze within 48 hours of collection. Analyze samples for C9-C32 TPH by gas chromatography-flame ionization detection (GC-FID) following EPA SW-846, Method 8015B-DRO (4). Report TPH concentration of stock solutions as milligrams TPH/L and use in the calculation of exposure concentrations for all toxicity tests conducted with CE-WAF.
@@ -200,21 +189,21 @@ Dispersant—Reference Oil Mixture | yes | yes | no | no.
 3.5.2 Test Solutions. Modify procedures in EPA-821-R-02-012 specifically dealing with the handling and toxicity testing of effluents or receiving water samples as follows: Prepare stock solutions following section 3.2 of this Appendix and exposure concentrations following section 3.3 of this Appendix.
 3.5.3 Number of Treatments, Replicates and Organisms. Conduct a minimum of three replicates of at least five exposure treatments plus a minimum of three replicate dilution water controls. Expose ten organisms per replicate treatment.
 3.5.4 Exposure Period. Test duration is 48-hr for Americamysis bahia and 96-hr for Menidia beryllina. Mortality must be recorded at each 24-hour period of each test.
-3.5.5 Test Acceptability. For each test performed, survival of control animals must be >90% and test results must allow determination of statistically valid LC 50 and 95% confidence interval values except in cases where the LC 50 is >1000 µl/L or is determined to be greater than the limits of water solubility of dispersibility.
+3.5.5 Test Acceptability. For each test performed, survival of control animals must be >90% and test results must allow determination of statistically valid LC50 and 95% confidence interval values except in cases where the LC50 is >1000 µl/L or is determined to be greater than the limits of water solubility of dispersibility.
 3.5.6 Static Acute Test Summary. A summary of required test conditions is provided in Table 7 of this Appendix.
 3.6 Sea Urchin Developmental Test with Dispersant Product
 3.6.1 General. Use Section 15, "Purple Urchin, Strongylocentrotus purpuratus and Sand Dollar, Dendraster excentricus Larval Development Test Method" of EPA's Short-Term Methods for Estimating the Chronic Toxicity of Effluents and Receiving Waters to West Coast Marine and Estuarine Organisms (EPA/600/R-95-136) (2). Alternatively, the development of the urchin Arbacia punctulata may be tested (see Table 7).
 3.6.2 Test Organism. Tests of dispersant products are to follow methods for the purple urchin only. Tests with the sand dollar are not required.
 3.6.3 Test Solutions. Modify procedures in EPA/600/R-95-136, Section 15 specifically dealing with the handling and toxicity testing of effluents or receiving water samples as follows: Prepare stock solutions following section 3.2.1 of this Appendix and exposure concentrations following section 3.3 of this Appendix.
 3.6.4 Number of Treatments and Replicates. Conduct a minimum of four replicates of five exposure treatments plus a minimum of four replicate dilution water controls.
-3.6.5 Exposure Duration and Test Endpoint. Examine the effects of the dispersant product on normal development of sea urchin embryos over a period of 72 hours. An IC 50 (the exposure concentration at which normal development is inhibited in 50% of the embryos) with 95% confidence intervals are to be determined in place of an IC 25. The concentration of dispersant causing inhibition of development in 50% of exposed embryos (IC 50) with the lower and upper 95% confidence intervals (LCI 95 and ULCI 95) must be calculated at the end of the exposure period. Mortality determinations are not required.
-3.6.6 Test Acceptability. Requirements of the assay are: (i) ≥80% normal larval development in the control treatment, (ii) the minimum significant difference (MSD) that can be statically detected relative to the control is ≤25%, iii) test results which support the determination of a statistically valid IC 50 and 95% confidence interval unless the LC 50 is >1000 µl/L or is greater than the limits of water solubility of dispersibility.
+3.6.5 Exposure Duration and Test Endpoint. Examine the effects of the dispersant product on normal development of sea urchin embryos over a period of 72 hours. An IC50 (the exposure concentration at which normal development is inhibited in 50% of the embryos) with 95% confidence intervals are to be determined in place of an IC25. The concentration of dispersant causing inhibition of development in 50% of exposed embryos (IC50) with the lower and upper 95% confidence intervals (LCI95 and ULCI95) must be calculated at the end of the exposure period. Mortality determinations are not required.
+3.6.6 Test Acceptability. Requirements of the assay are: (i) ≥80% normal larval development in the control treatment, (ii) the minimum significant difference (MSD) that can be statically detected relative to the control is ≤25%, iii) test results which support the determination of a statistically valid IC50 and 95% confidence interval unless the LC50 is >1000 µl/L or is greater than the limits of water solubility of dispersibility.
 3.6.7 Urchin Developmental Test Summary. A summary of required test conditions is provided in Table 7 of this Appendix.
 3.7 Seven-day Subchronic Tests with M. beryllina and A. bahia
 3.7.1 General. Use Section 13, Method 1006.0, "Inland Silverside (Menidia beryllina) Larval Survival and Growth Method," and Section 14, Method 1007.0, "Mysid (Mysidopsis [renamed Americamysis] bahia) Survival, Growth, and Fecundity Method" of EPA's Short-Term Methods for Estimating the Chronic Toxicity of Effluents and Receiving Waters to Marine and Estuarine Organisms (EPA-821-R-02-014) (3) for testing of dispersant product.
 3.7.2 Test Solutions. Modify procedures in EPA-821-R-02-014, sections 13 and 14 specifically dealing with the handling and toxicity testing of effluents or receiving water samples as follows: Prepare stock solutions following section 3.2.1 of this Appendix and exposure concentrations following section 3.3 of this Appendix. Exposure solutions should be renewed every 24 hours for the duration of the test.
 3.7.3 Number of Treatments, Replicates and Organisms. (i) Menidia beryllina: Conduct a minimum of four replicates of at least five exposure treatments plus a minimum of four replicate dilution water controls. Expose ten M. beryllina per replicate treatment. (ii) Americamysis bahia: Conduct a minimum of eight replicates of at least five exposure treatments plus a minimum of eight replicate dilution water controls. Expose five A. bahia per replicate treatment.
-3.7.4 Exposure Duration and Test Endpoint. The test duration is seven days for both species. Test endpoints for Menidia beryllina are survival and growth (dry weight) and for Americamysis bahia is survival, growth (dry weight) and fecundity. Calculate an LC 50 and 95% confidence interval for survival and IC 25 and IC 50 with 95% confidence intervals for growth (and fecundity for A. bahia only). Report the lowest observed effect concentration (LOEC) and no observed effect concentration (NOEC) for each endpoint.
+3.7.4 Exposure Duration and Test Endpoint. The test duration is seven days for both species. Test endpoints for Menidia beryllina are survival and growth (dry weight) and for Americamysis bahia is survival, growth (dry weight) and fecundity. Calculate an LC50 and 95% confidence interval for survival and IC25 and IC50 with 95% confidence intervals for growth (and fecundity for A. bahia only). Report the lowest observed effect concentration (LOEC) and no observed effect concentration (NOEC) for each endpoint.
 3.7.5 Test Acceptability. Requirements of the assay are: (i) ≥80% survival in the control treatment for each species, (ii) dry weights must meet the specific requirements as stipulated in Method 1006.0 for Menidia beryllina and Method 1007.0 for Americamysis bahia.
 3.7.6 Subchronic Test Summary. A summary of required test conditions for each species is provided in Table 7 of this Appendix.
 3.8 Laboratory Report. The laboratory must include, for each toxicity test report, all applicable information, data and analyses as follows:
@@ -226,7 +215,7 @@ Dispersant—Reference Oil Mixture | yes | yes | no | no.
 3.8.6 Test Organisms: common and scientific name, source contact information, age and date purchased, acclimation conditions (e.g., temperature, salinity, both mean and range), age at test start;
 3.8.7 Reference toxicant: date received, lot number, date of most recent test, results and current Cumulative Sum Chart, dilution water used, physical and chemical methods used;
 3.8.8 Quality Assurance: verification of laboratory accreditation, including subcontractor facilities;
-3.8.9 Test Results: raw data in tabular and graphical form, daily records of affected organisms in each concentration replicate and controls, table of required endpoints (i.e., LC 50 with 95% confidence interval (CI), IC 25 and IC 50 with 95% CI, LOEC and NOEC), statistical methods used to calculate endpoints, summary tables of test conditions and QA data;
+3.8.9 Test Results: raw data in tabular and graphical form, daily records of affected organisms in each concentration replicate and controls, table of required endpoints (i.e., LC50 with 95% confidence interval (CI), IC25 and IC50 with 95% CI, LOEC and NOEC), statistical methods used to calculate endpoints, summary tables of test conditions and QA data;
 3.8.10 Analytical Results: method summary including Limit of Detection (LOD)/Limit of Quantitation (LOQ), deviations and reasons if any, sample summary, results including chromatograms and data qualifiers, QA summary including calibration curves, method blank and surrogate recovery, analytical results summary; and
 3.8.11 Conclusions: Relationship between test endpoints and threshold limit.
 Table 7—Summary of Test Conditions—Dispersant Toxicity
@@ -236,7 +225,7 @@ Test duration | 96 hours | 48 hours | 7 days | 7 days | 72 ± 2 hours.
 Salinity | 20 ± 2‰ | 20 ± 2‰ | 20 ± 2‰ | 20 ± 2‰ | 34 ± 2‰.
 Temperature | 25 ± 1 °C. Test temperatures must not deviate (maximum minus minimum temperature) by for than 3 °C during the test. | 15 ± 1 °C.
 Light quality | Ambient laboratory illumination.
-Light intensity | 10-20 µE/m 2 /s.
+Light intensity | 10-20 µE/m 2/s.
 Photoperiod | 16 h light, 8 h darkness, with phase in/out period recommended.
 Test chamber size 1 | 250 mL | 250 mL | 600 mL-1 L | 400 mL | 30 mL.
 Test solution volume 1 | 200 mL | 200 mL | 500-750 mL | 150 mL | 10 mL.
@@ -247,8 +236,7 @@ Feeding regime | Refer to specific feeding procedures provided in each test meth
 Aeration | None, unless DO falls below 4.0 mg/L, then aerate all chambers. Rate: <100 bubbles/minute.
 Test concentrations | 5 exposure concentrations and a control (minimum required).
 Test acceptability (required) | ≥90% survival in controls | ≥90% survival in controls | For controls: ≥80% survival; average dry weight ≥0.5mg where test starts with 7 day old larvae, or ≥0.43 mg for larvae preserved for ≤7days | For controls: ≥80% survival; average dry weight ≥0.20 mg | ≥80% normal shell development in controls.
-1 Recommended minimum value.
-2 Less than or equal to 24-hr range in age.
+1 Recommended minimum value. 2 Less than or equal to 24-hr range in age.
 3.9 References for Section 3.0
 (1) U.S. EPA. 2002. Methods for Measuring the Acute Toxicity of Effluents and Receiving Waters to Freshwater and Marine Organisms. Fifth Edition. U.S. Environmental Protection Agency, Washington, DC (EPA-821-R-02-012).
 (2) U.S. EPA. 1995. Short-Term Methods for Estimating the Chronic Toxicity of Effluents and Receiving Waters to West Coast Marine and Estuarine Organisms. First Edition. U.S. Environmental Protection Agency, Washington, DC (EPA/600/R-95-136)
@@ -257,7 +245,8 @@ Test acceptability (required) | ≥90% survival in controls | ≥90% survival in
 4.0 Standard Acute Toxicity Testing of Surface Washing Agents, Bioremediation Agents, Herding Agents, and Solidifiers.
 4.1 Summary. This laboratory protocol includes testing for: (1) saltwater standard static acute toxicity tests for test products with the mysid shrimp, Americamysis bahia (48-hr duration) and the inland silverside, Menidia beryllina (96-hr duration); and (2) freshwater standard static acute toxicity tests for test products with the daphnid, Ceriodaphnia dubia (48-hr duration) and the fathead minnow, Pimephales promelas (96-hr duration) (see Table 8 of this Appendix).
 Table 8—Toxicity Testing Requirements for Surface Washing Agents, Herding Agents, Bioremediation Agents and Solidifiers
-Application environment | Test procedure | 96-hr Static acute: Menidia beryllina | 48-hr Static acute: Americamysis bahia | 96-hr Static acute: Pimephales promelas | 48-hr Static acute: Ceriodaphnia dubia
+Application environment | Test procedure
+96-hr Static acute: Menidia beryllina | 48-hr Static acute: Americamysis bahia | 96-hr Static acute: Pimephales promelas | 48-hr Static acute: Ceriodaphnia dubia
 Saltwater only | yes | yes | no | no.
 Freshwater only | no | no | yes | yes.
 Freshwater and saltwater use | yes | yes | yes | yes.
@@ -267,7 +256,7 @@ Freshwater and saltwater use | yes | yes | yes | yes.
 4.3.2 Bioremediation Agents. For products consisting of two or more liquid and/or solid components, prepare the product following the manufacturers recommended procedure and ensure the test product mixture is completely blended. Prepare a 1000 µL/L stock solution prior to test initiation by adding 1.1 mL of the test product mixture to 1100 mL of dilution water in a glass vessel. Place on a magnetic stir plate then add and center a stir bar and adjust the stir plate to obtain a vortex of 25% of the total volume of the liquid. Mix the resulting stock solution for approximately five minutes at room temperature. Using a glass pipette, remove appropriate aliquots of stock solution from between the mixing vessel wall and edge of the vortex and place directly into the dilution water within an exposure vessel. Base the preparation of exposure solutions on the nominal concentration of the stock solution and follow procedures outlined in sections 4.5 and/or 4.6 of this Appendix, as appropriate.
 4.3.3 Solid Phase Products. Assessment of the toxicity of solidifiers and other solid phase products are determined using the aqueous phase of water-accommodated fractions (WAFs) of the test product. Fit a glass aspirator bottle (approximately 23L) equipped with a hose bib at the base with a length of silicon tubing containing a hose clamp. Fill the bottle with 19L of dilution water leaving a 20% headspace above the liquid, place on a magnetic stir plate then add and center a stir bar. Add the test product at 25 g/L and securely seal the bottle using a silicon stopper and wraps of parafilm. Adjust the stir plate to obtain a vortex of 25% of the total fluid volume, stir for 18 hours then settle for 6 hours. Maintain the temperature at 25 °C during stirring and settling. Purge the hose at the base of the bottle of any material followed by removal of the WAF (aqueous phase) into a clean glass container without disturbing the product on the surface. The WAF should be remixed and used for the preparation of exposure solutions following procedures outlined in section 4.4 of this Appendix.
 4.4 Preparation of Exposure Concentrations.
-4.4.1 Concentration Selection. Preliminary rangefinder tests may be necessary using a series of logarithmic concentrations (e.g. 0.1, 1, 10, 100 µl test product/L) to determine the appropriate exposure concentration range necessary to determine LC 50 values and 95% confidence intervals. For definitive tests, conduct a minimum of five test concentrations using a geometric ratio between 1.5 and 2.0 (e.g. 2, 4, 8, 16, and 32). Note that when testing the product, the highest test concentration should not exceed the test product's self-dispersibility limit.
+4.4.1 Concentration Selection. Preliminary rangefinder tests may be necessary using a series of logarithmic concentrations (e.g. 0.1, 1, 10, 100 µl test product/L) to determine the appropriate exposure concentration range necessary to determine LC50 values and 95% confidence intervals. For definitive tests, conduct a minimum of five test concentrations using a geometric ratio between 1.5 and 2.0 (e.g. 2, 4, 8, 16, and 32). Note that when testing the product, the highest test concentration should not exceed the test product's self-dispersibility limit.
 4.4.2 Exposure Concentrations. Exposure solutions are prepared by adding the appropriate amount of stock solution directly to dilution water in each test chamber. Mix each exposure solution using five rotations in one direction followed by five rotations in the opposite direction using a solid glass stir rod.
 4.4.3 Reference Toxicants. Separate toxicity tests must be performed with a reference toxicant for each species tested. Conduct additional reference toxicity tests any time a change in the culture population or source of a test species occurs. Use reagent grade quality sodium dodecyl sulfate (SDS), also known as dodecyl sodium sulfate (DSS), and sodium lauryl sulfate (SLS) as the reference toxicant. Information on procedures for conducting reference toxicant tests with these species can be found in section 4 of EPA's Methods for Measuring the Acute Toxicity of Effluents and Receiving Waters to Freshwater and Marine Organisms (EPA-821-R-02-012) (3).
 4.5 Saltwater Static Acute Tests with Menidia beryllina and Americamysis bahia
@@ -275,14 +264,14 @@ Freshwater and saltwater use | yes | yes | yes | yes.
 4.5.2 Test Solutions. Modify procedures in EPA-821-R-02-012 specifically dealing with the handling and toxicity testing of effluents or receiving water samples as follows: Prepare stock solutions following the appropriate sections (4.3.1, 4.3.2, or 4.3.3) of this Appendix and exposure concentrations following section 4.4 of this Appendix.
 4.5.3 Number of Treatments, Replicates and Organisms. Conduct a minimum of three replicates of at least five exposure treatments plus a minimum of three replicate dilution water controls. Expose ten organisms per replicate treatment.
 4.5.4 Exposure Period. Test duration is 48-hr for A. bahia and 96-hr for M. beryllina. Mortality must be recorded at each 24 hour period of each test.
-4.5.5 Test Acceptability. For each test performed, survival of control animals must be >90% and test results must allow determination of statistically valid LC 50 and 95% confidence interval values except in cases where the LC 50 is >1000 µl/L or is determined to be greater than the limits of water solubility or dispersibility.
+4.5.5 Test Acceptability. For each test performed, survival of control animals must be >90% and test results must allow determination of statistically valid LC50 and 95% confidence interval values except in cases where the LC50 is >1000 µl/L or is determined to be greater than the limits of water solubility or dispersibility.
 4.5.6 Static Acute Test Summary. A summary of required test conditions is provided in Table 9 of this Appendix.
 4.6 Freshwater Static Acute Tests with Pimephales promelas and Ceriodaphnia dubia
 4.6.1 General. Use EPA's Methods for Measuring the Acute Toxicity of Effluents and Receiving Waters to Freshwater and Marine Organisms (EPA-821-R-02-012) (1) for testing each species separately with the test product.
 4.6.2 Test Solutions. Modify procedures in EPA-821-R-02-012 specifically dealing with the handling and toxicity testing of effluents or receiving water samples as follows: Prepare stock solutions following the appropriate sections (4.3.1, 4.3.2, or 4.3.3) of this Appendix and exposure concentrations following section 4.4 of this Appendix.
 4.6.3 Number of Treatments, Replicates and Organisms. P. promelas: Conduct a minimum of three replicates of at least five exposure treatments plus a minimum of three replicate dilution water controls. Expose ten organisms per replicate treatment. C. dubia: Conduct a minimum of four replicates of at least five exposure treatments plus a minimum of four replicate dilution water controls. Expose five organisms per replicate treatment.
 4.6.4 Exposure Period. Test duration is 48-hr for C. dubia and 96-hr for P. promelas. Mortality must be recorded at each 24 hour period of each test.
-4.6.5 Test Acceptability. For each test performed, survival of control animals must be >90% and test results must allow determination of statistically valid LC 50 and 95% confidence interval values except in cases where the LC 50 is >1000 µl/L or is determined to be greater than the limits of water solubility of dispersibility.
+4.6.5 Test Acceptability. For each test performed, survival of control animals must be >90% and test results must allow determination of statistically valid LC50 and 95% confidence interval values except in cases where the LC50 is >1000 µl/L or is determined to be greater than the limits of water solubility of dispersibility.
 4.6.6 Static Acute Test Summary. A summary of required test conditions is provided in Table 9 of this Appendix.
 4.7 Laboratory Report. The laboratory must include, for each toxicity test report, all applicable information, data and analyses as follows:
 4.7.1 Test Objective: protocol title and source, endpoint(s);
@@ -293,7 +282,7 @@ Freshwater and saltwater use | yes | yes | yes | yes.
 4.7.6 Test Organisms: common and scientific name, source contact information, age and date purchased, acclimation conditions (e.g., temperature, salinity, both mean and range), age at test start;
 4.7.7 Reference toxicant: date received, lot number, date of most recent test, results and current Cumulative Sum Chart, dilution water used, physical and chemical methods used;
 4.7.8 Quality Assurance: verification of laboratory accreditation, including subcontractor facilities;
-4.7.9 Test Results: raw data in tabular and graphical form, daily records of affected organisms in each concentration replicate and controls, table of required endpoints (i.e., LC 50, 95% CI, inhibited concentration for 50% of the species (IC 50), lower observed effect concentration (LOEC) and no observed effect concentration (NOEC)), statistical methods used to calculate endpoints, summary tables of test conditions and QA data; and
+4.7.9 Test Results: raw data in tabular and graphical form, daily records of affected organisms in each concentration replicate and controls, table of required endpoints (i.e., LC50, 95% CI, inhibited concentration for 50% of the species (IC50), lower observed effect concentration (LOEC) and no observed effect concentration (NOEC)), statistical methods used to calculate endpoints, summary tables of test conditions and QA data; and
 4.7.10 Conclusions: Relationship between test endpoints and threshold limit.
 Table 9—Summary of Test Conditions—Surface Washing Agents, Herding Agents, Bioremediation Agents and Solidifiers Toxicity
 | Saltwater acute M. beryllina | Saltwater acute A. bahia | Freshwater acute P. promelas | Freshwater acute C. dubia
@@ -302,7 +291,7 @@ Test duration | 96 hours | 48 hours | 96 hours | 48 hours.
 Salinity | 20 ± 2‰ | 20 ± 2‰ | NA | NA.
 Temperature | 25 ± 1 °C. Test temperatures must not deviate (maximum minus minimum temperature) by more than 3 °C during the test.
 Light quality | Ambient laboratory illumination.
-Light intensity | 10-20 µE/m 2 /s.
+Light intensity | 10-20 µE/m 2/s.
 Photoperiod | 16 h light, 8 h darkness, with phase in/out period recommended.
 Test chamber size 1 | 250 mL | 250 mL | 250 mL | 30 mL.
 Test solution volume 1 | 200 mL | 200 mL | 200 mL | 15 mL.
@@ -313,8 +302,7 @@ Feeding regime | Refer to specific feeding procedures provided in each test meth
 Aeration | None, unless DO falls below 4.0 mg/L, then aerate all chambers. Rate: <100 bubbles/minute.
 Test concentrations | 5 exposure concentrations and a control (minimum required).
 Test acceptability (required) | ≥90% survival in controls.
-1 Recommended minimum value.
-2 Less than or equal to 24-hr range in age.
+1 Recommended minimum value. 2 Less than or equal to 24-hr range in age.
 4.8 References for Section 4
 (1) U.S. EPA. 2002. Methods for Measuring the Acute Toxicity of Effluents and Receiving Waters to Freshwater and Marine Organisms. Fifth Edition. U.S. Environmental Protection Agency, Washington, DC (EPA-821-R-02-012).
 5.0 Bioremediation Agent Efficacy Test Protocol
@@ -334,13 +322,13 @@ Note to 5.1: Alaska North Slope (ANS) crude oil is artificially weathered by dis
 5.2.11 GC/MS instrument equipped with a DB-5 capillary column (30 m, 0.25 mm ID, and 0.25 mm film thickness) or equivalent, and a split/splitless injection port operating in the splitless mode, such as an Agilent 6890 GC/5973 MS (or equivalent) equipped with an auto-sampler for testing multiple samples; and
 5.2.12 Fixed Rotor Centrifuge.
 5.3 Reagents and consortium medium.
-5.3.1 Stock Seawater Preparation. Prepare the artificial seawater GP2 (modified from Spotte et al., 1984) following the procedures in section 2.3 of this Appendix, to obtain the final concentration of the salts listed in Table 1 of this Appendix, except for the sodium bicarbonate (NaHCO 3) which is prepared separately. Autoclave the artificial seawater. Filter sterilize the concentrated solution of sodium bicarbonate through a 0.45 µm membrane filter and add to the autoclaved and cooled artificial seawater GP2 to obtain the final concentration listed in Table 1 of this Appendix.
-5.3.2 Seawater for the positive control flasks. Prepare sodium triphosphate (a.k.a., sodium tripolyphosphate) (Na 5 P 3 O 10), potassium nitrate (KNO 3), and ferric chloride hexahydrate (FeCl 3 · 6H 2 O) as a concentrated solution. Filter sterilize through a 0.45 µm membrane filter and add to autoclaved artificial seawater to obtain the final nutrient concentrations listed in Table 10 of this Appendix. Calibrate the pH meter at room temperature (approximately 20-23 °C) using commercial buffers of pH 4.0, 7.0, and 10.0, as appropriate, prior to use. Adjust the pH of the artificial seawater with concentrated hydrochloric acid (HCl) or 10 normality sodium hydroxide (10 N NaOH), as appropriate.
+5.3.1 Stock Seawater Preparation. Prepare the artificial seawater GP2 (modified from Spotte et al., 1984) following the procedures in section 2.3 of this Appendix, to obtain the final concentration of the salts listed in Table 1 of this Appendix, except for the sodium bicarbonate (NaHCO3) which is prepared separately. Autoclave the artificial seawater. Filter sterilize the concentrated solution of sodium bicarbonate through a 0.45 µm membrane filter and add to the autoclaved and cooled artificial seawater GP2 to obtain the final concentration listed in Table 1 of this Appendix.
+5.3.2 Seawater for the positive control flasks. Prepare sodium triphosphate (a.k.a., sodium tripolyphosphate) (Na5P3O10), potassium nitrate (KNO3), and ferric chloride hexahydrate (FeCl3 · 6H2O) as a concentrated solution. Filter sterilize through a 0.45 µm membrane filter and add to autoclaved artificial seawater to obtain the final nutrient concentrations listed in Table 10 of this Appendix. Calibrate the pH meter at room temperature (approximately 20-23 °C) using commercial buffers of pH 4.0, 7.0, and 10.0, as appropriate, prior to use. Adjust the pH of the artificial seawater with concentrated hydrochloric acid (HCl) or 10 normality sodium hydroxide (10 N NaOH), as appropriate.
 Table 10—Artificial Seawater Nutrient Concentrations
 Constituent | Final concentration, g/L
-* FeCl 3 · 6H 2 O | 0.050
-KNO 3 | 2.890
-* Na 5 P 3 O 10 | 0.297
+* FeCl3 · 6H2O | 0.050
+KNO3 | 2.890
+* Na5P3O10 | 0.297
 * Added aseptically after the GP2 has been autoclaved to limit phosphorus and iron precipitation.
 5.3.3 Seawater for bioremediation agents that do not include nutrients. If a bioremediation agent contains living microorganisms but not nutrients (or limiting concentrations of nutrients), then nutrients may be added by the manufacturer. However, the total concentration of the nutrients added to the bioremediation agent must not exceed the final concentrations listed in Table 11 of this Appendix.
 Table 11—Artificial Seawater Nutrient Concentrations for BioRemediation Agents Having No Nutrients Included
@@ -349,23 +337,22 @@ as Iron (Fe) | 0.010
 as Nitrogen (N) | 0.400
 as Phosphorus (P) | 0.075
 If nutrients are supplied by the product manufacturer, the specific composition and concentration used in the efficacy testing must be submitted.
-5.3.4 Freshwater Preparation. The artificial freshwater, which is a modification of Bushnell-Haas medium (Haines et al., 2005), is prepared following the concentrations listed in Table 12 of this Appendix and then autoclaved. The pH is adjusted to 7.4 before autoclaving. Constituents removed from the original formulation are KNO 3, K 2 HPO4 and KH 2 PO 4.
-Table 12—Constituent Concentrations for Artificial Freshwater
-[Bushnell-Haas]
+5.3.4 Freshwater Preparation. The artificial freshwater, which is a modification of Bushnell-Haas medium (Haines et al., 2005), is prepared following the concentrations listed in Table 12 of this Appendix and then autoclaved. The pH is adjusted to 7.4 before autoclaving. Constituents removed from the original formulation are KNO3, K2HPO4 and KH2PO4.
+Table 12—Constituent Concentrations for Artificial Freshwater [Bushnell-Haas]
 Constituent | Final concentration (mg/L)
-MgSO 4 · 7H 2 O | 200
-CaCl 2 · 2H 2 O | 20
-FeCl 3 · 6H 2 O | 50
-MnSO 4 × H 2 O | 0.0302
-H 3 BO 3 | 0.0572
-ZnSO 4 × 7H 2 O | 0.0428
-(NH 4) 6 Mo 7 O 2 | 0.0347
+MgSO4 · 7H2O | 200
+CaCl2 · 2H2O | 20
+FeCl3 · 6H2O | 50
+MnSO4 × H2O | 0.0302
+H3BO3 | 0.0572
+ZnSO4 × 7H2O | 0.0428
+(NH4)6Mo7O2 | 0.0347
 5.3.5 Freshwater for the positive control. To prepare the freshwater for the positive controls, prepare the nutrients potassium phosphate monobasic (KH2PO4), potassium phosphate dibasic (K2HPO4) and potassium nitrate (KNO3) as a concentrated solution. Filter sterilize and add to autoclaved artificial freshwater to obtain the final concentrations given in Table 13 of this Appendix. Calibrate the pH meter at room temperature (approximately 20-23 °C) using commercial buffers of pH 4.0, 7.0, and 10.0, as appropriate, prior to use. Adjust the pH of the artificial freshwater to 7.4 with 1 N HCl or 1 N NaOH, as appropriate.
 Table 13—Freshwater Nutrient Concentrations
 Constituent | Final concentration (g/L) 1
-KNO 3 | 2.89
-KH 2 PO 4 | 1.00
-K 2 HPO 4 | 1.00
+KNO3 | 2.89
+KH2PO4 | 1.00
+K2HPO4 | 1.00
 1 Adjust pH to 7.4 prior to autoclaving.
 5.3.6 Freshwater for bioremediation agents that contain living microorganisms but not nutrients or limiting concentrations of nutrients. If a bioremediation agent does not include nutrients, then nutrients may be added. However, the total concentration of the nutrients added to the bioremediation agent must not exceed the final concentrations provided in Table 14 of this Appendix.
 Table 14—Artificial Freshwater Nutrient Concentrations for Bioremediation Agents Having No Nutrients Included
@@ -376,13 +363,14 @@ as Phosphorus (P) | 0.400.
 1 Adjust to pH 7.4 prior to autoclaving.
 If nutrients are supplied by the product vendor, the specific composition and concentration used in the efficacy testing must be submitted.
 5.3.7 Oil Preparation. The test oil, weathered ANS521 crude oil, can be obtained from EPA at no charge (except for a minimal shipping fee). See https://www.epa.gov/emergency-response/national-contingency-plan-subpart-j#howto for more information.
-5.3.8 Sodium azide sterilant. Prepare a stock solution of NaN 3 for addition to the negative killed control. The final concentration in the killed controls will be 0.5 g/L.
+5.3.8 Sodium azide sterilant. Prepare a stock solution of NaN3 for addition to the negative killed control. The final concentration in the killed controls will be 0.5 g/L.
 5.4 Experimental Setup and Procedure
 5.4.1 Autoclave clean borosilicate glass Erlenmeyer flasks (250 mL) for 20 minutes at 121 °C at 15 psig.
 5.4.2 Label flasks with the appropriate code (negative control, positive control, or product; day to be sampled (0 or 28); letter indicating replicate number) to reflect the following treatment design in Table 15 of this Appendix:
 Table 15—Bioremediation Efficacy Test—Summary of Experimental Setup
-Treatment | Number of replicates at sampling times | Day 0 | Day 28 | Analysis
-Negative (killed) Control (oil + exposure water + product + EPA consortium + NaN 3 sterilant) | 0 | 3 | GC/MS
+Treatment | Number of replicates at sampling times | Analysis
+Day 0 | Day 28
+Negative (killed) Control (oil + exposure water + product + EPA consortium + NaN3 sterilant) | 0 | 3 | GC/MS
 * Positive control (oil + exposure water + nutrients + EPA consortium) | 6 | 6 | GC/MS
 Test Type 1: Product containing living microorganisms (oil + exposure water + living product + supplemented nutrients (if necessary)) | 6 | 6 | GC/MS
 Test Type 2: Product containing proprietary nutrients but no live microorganisms (oil + exposure water + product + EPA consortium) | 6 | 6 | GC/MS
@@ -404,7 +392,7 @@ Table 16—Bioremediation Efficacy—Summary of Analytical Procedures
 Matrix | Measurement | Sampling/ measurement method | Analysis method | Sample container/quantity of sample | Preservation/ storage (°C) | Holding times (months)
 DCM | N/A | Solvent Exchange to Hexane | N/A | Capped Vial with Teflon septa, 30 mL | 4 | 6
 Hexane | Hydrocarbon Concentration | SOP 4 | GC/MS | Capped Vial with Teflon septa, 10 mL | 4 | 6
-5.5.2 Hydrocarbon Extraction. To measure extraction efficiency, 200 µL of the 400 mg/L surrogate recovery standard (compounds and concentrations described in SOP 1 in this Appendix) is added to each flask. Add 50 mL DCM to each flask. Transfer the contents to a 250 mL separatory funnel and shake for 2 minutes; allow the phases to separate for 2 minutes. If an emulsion remains after 2 minutes, centrifuge the emulsion in Teflon® centrifuge tubes for at least ten minutes in a low-speed centrifuge at 3,000 times gravity (3,000 × g) to break the emulsion and recover the DCM phase. Pass the DCM extract through a funnel plugged with glass wool and containing approximately 20 g anhydrous, granular sodium sulfate (Na 2 SO 4) to remove water. Repeat the steps above two more times with 25 mL DCM each (100 mL DCM used in total). Add 10 mL DCM on to the sodium sulfate after the third extraction to rinse off any oil residue. Collect the extract in 125 mL serum vials, capped with Teflon lined septa and aluminum crimp seals, and store at 4 °C for up to 6 months.
+5.5.2 Hydrocarbon Extraction. To measure extraction efficiency, 200 µL of the 400 mg/L surrogate recovery standard (compounds and concentrations described in SOP 1 in this Appendix) is added to each flask. Add 50 mL DCM to each flask. Transfer the contents to a 250 mL separatory funnel and shake for 2 minutes; allow the phases to separate for 2 minutes. If an emulsion remains after 2 minutes, centrifuge the emulsion in Teflon® centrifuge tubes for at least ten minutes in a low-speed centrifuge at 3,000 times gravity (3,000 × g) to break the emulsion and recover the DCM phase. Pass the DCM extract through a funnel plugged with glass wool and containing approximately 20 g anhydrous, granular sodium sulfate (Na2SO4) to remove water. Repeat the steps above two more times with 25 mL DCM each (100 mL DCM used in total). Add 10 mL DCM on to the sodium sulfate after the third extraction to rinse off any oil residue. Collect the extract in 125 mL serum vials, capped with Teflon lined septa and aluminum crimp seals, and store at 4 °C for up to 6 months.
 5.5.3 Solvent Exchange. Perform a solvent exchange (DCM to hexane) prior to GC/MS analysis to prevent injection of asphaltenes into the GC/MS column. Transfer the DCM extract to concentration tubes. Place the tubes in a 29 °C water bath under a stream of dry nitrogen gas. Reduce the sample to 1 mL and transfer the extract to a 10 mL volumetric flask. Rinse the concentration tube with hexane and add it to the volumetric flask 2 times. Adjust the final volume with hexane to 10 mL.
 5.5.4 Hydrocarbon Analysis. Quantify the concentrations of 25 alkanes, 32 aromatics and hopane (SOP 4, Table SOP 4.4 of this Appendix) using an Agilent 6890 GC/5973 MS or equivalent equipped with a 30-m × 0.25-mm ID × 0.25-µm film thickness DB-5 or equivalent fused silica column. To prepare the samples, transfer 1.0 mL of the hexane extract into a 2 mL autosampler vial with Teflon lined cap. Add 20 µL of internal standard solution to each vial with a syringe or positive displacement pipettor. SOP 2 of this Appendix outlines the procedure for preparing the internal standard solution. Load vials onto the autosampler tray and analyze in selected ion monitoring mode (SIM). Sum the individual alkane concentrations for the total alkane concentration and the individual aromatic concentrations for total aromatic concentrations in each flask.
 5.6 Quality Assurance/Quality Control (QA/QC).
@@ -424,18 +412,16 @@ Hexane | GC/MS hydrocarbon analysis | Biomarker Concentration | Every Sample | �
 5.7 Pass/Fail Criteria.
 5.7.1 Calculate the mean and standard deviation of the hopane-normalized total aromatics (sum of all resolved aromatics) and hopane-normalized total alkane concentrations (sum of all resolved alkanes) from the 6 independent replicates at days 0 and 28. To normalize, divide the sum of the alkane analytes and the sum of the aromatic analytes in each replicate by the hopane concentration in the corresponding replicate.
 5.7.2 From those data, calculate the 95% Upper Confidence Level (UCL95) at days 0 and 28 using the following formula (Equation 11 of this Appendix):
-ER12JN23.089
 where:
-x t (0 and 28) = total hopane-normalized alkane or total hopane-normalized aromatic mean of 6 replicates at days 0 and 28,
-t 95, 5 df = the 95% one-tailed t-value with 5 degrees of freedom (2.015),
+x t(0and28) = total hopane-normalized alkane or total hopane-normalized aromatic mean of 6 replicates at days 0 and 28,
+t95, 5 df = the 95% one-tailed t-value with 5 degrees of freedom (2.015),
 s = the standard deviation of the 6 replicates at day 0 and 28, and
 n = no. of replicates = 6.
-5.7.3 Using Equation 12 of this Appendix, calculate the % reduction of each oil fraction from day 0 to day 28, using the day 0 and 28 UCL 95 hopane-normalized values for each fraction:
-ER12JN23.090
+5.7.3 Using Equation 12 of this Appendix, calculate the % reduction of each oil fraction from day 0 to day 28, using the day 0 and 28 UCL95 hopane-normalized values for each fraction:
 where:
-t 28(UCL 95) = UCL 95 of the hopane-normalized total alkane or total aromatic mean of 6 replicates on day 28, and
-t 0(UCL95) = UCL 95 of the hopane-normalized total alkane or total aromatic mean of 6 replicates on day 0.
-5.7.4 A product is successful in saltwater or freshwater if the % reduction of total alkanes (aliphatic fraction) from the GC/MS analysis is greater than or equal to 85% and the % reduction of total aromatics (aromatic fraction) is greater than or equal to 35% at day 28 based on the UCL 95 (Equation 12 of this Appendix). The benchmark reduction ranges in aliphatic and aromatic fractions for the positive control are the same as for the products specified above. The average concentration of the biomarker hopane at day 28 must not differ from the average concentration at day 0 by more than 12% in the positive control. If the conditions for the positive control are not met, the entire procedure must be repeated.
+t28(UCL95) = UCL95 of the hopane-normalized total alkane or total aromatic mean of 6 replicates on day 28, and
+t0(UCL95) = UCL95 of the hopane-normalized total alkane or total aromatic mean of 6 replicates on day 0.
+5.7.4 A product is successful in saltwater or freshwater if the % reduction of total alkanes (aliphatic fraction) from the GC/MS analysis is greater than or equal to 85% and the % reduction of total aromatics (aromatic fraction) is greater than or equal to 35% at day 28 based on the UCL95 (Equation 12 of this Appendix). The benchmark reduction ranges in aliphatic and aromatic fractions for the positive control are the same as for the products specified above. The average concentration of the biomarker hopane at day 28 must not differ from the average concentration at day 0 by more than 12% in the positive control. If the conditions for the positive control are not met, the entire procedure must be repeated.
 5.8 Data Verification and Reporting. GC/MS data files are generated by MS ChemStation software (the Agilent standard software for GC/MS) or equivalent for each injection. Data files contain summed ion chromatograms and selected ion chromatograms. Calibration curves are generated within MS ChemStation software, and all data files are calculated against the calibration curve by MS ChemStation. Data verification would be done by crosschecking between analysts for 10% of the raw data and its reduction process.
 5.9 Laboratory Report. The summary of findings from a product test must include the data listings for each analyte that was analyzed (i.e., all individual alkanes and aromatics in the list of required analytes), along with QA/QC checks (see Table 17) and instrument detection/reporting limits for each analyte. Express all concentrations as mg analyte/L exposure water.
 5.10 Standard Operating Procedures (SOPs) 1-4
@@ -527,7 +513,8 @@ Pasteur pipettes
 5.10.3.1.4.6 Pasteur pipettes
 The volumes of stock solutions required to make the working standards are listed in Table SOP 3.1 of this Appendix.
 Table SOP 3.1—Amount of Stock Solutions Required To Make the Working Standards
-Stock standards | Working standards concentration, mg/L | A | Oil analysis mix (44 compounds, 100 mg/L) µL | B | Aromatics mix (9 compounds, 1,000 mg/L) µL | C | 1,2-Benzo- diphenylene sulfide (NBT) (2 mg/mL) µL | D | Surrogate solution (100 mg/L) µL | E | Hopane solution (100 mg/L) µL | | Volumetric flask volume mL | F | ISTD (500 mg/L) µL
+Stock standards | A | B | C | D | E | | F
+Working standards concentration, mg/L | Oil analysis mix (44 compounds, 100 mg/L) µL | Aromatics mix (9 compounds, 1,000 mg/L) µL | 1,2-Benzo- diphenylene sulfide (NBT) (2 mg/mL) µL | Surrogate solution (100 mg/L) µL | Hopane solution (100 mg/L) µL | Volumetric flask volume mL | ISTD (500 mg/L) µL
 STD 30 (no hopane) | 1,500 | 150 | 75 | 375 | 0 | 5 | 100
 STD 20 (5 mg/L hopane) | 1,000 | 100 | 50 | 250 | 250 | 5 | 100
 STD 10 (2.5 mg/L hopane) | 500 | 50 | 25 | 125 | 125 | 5 | 100
@@ -558,7 +545,6 @@ STD 0.1 (0.2 mg/L hopane) | Use 0.2 mL of STD 5-Utility and dilute to 10 mL. | 2
 5.10.3.3 Procedure for Oil Standard. In a 100 mL volumetric flask, weigh 0.500 g of the standard ANS521 crude oil, add 2 mL of surrogate solution (see SOP 1 of this Appendix), and bring to volume with DCM. Add 2 mL of internal standard solution (see SOP 2 of this Appendix). Follow steps 5.10.3.2.11 through 5.10.3.2.17 of this SOP, substituting 40 mL storage vials for the 2 mL vials.
 5.10.3.4 Quality Control/Quality Assurance:
 5.10.3.4.1 Run the seven standard solutions using the GC/MS method (SOP 4) on a tuned GC/MS. Use the EnviroQuant software or equivalent to calculate the average Relative Response Factor (RRF) and the relative standard deviation (RSD) of the RRFs for each analyte over the six concentrations. The RRF is defined as:
-ER12JN23.091
 5.10.3.4.2 The RSD of the RRFs for all analytes must be 25% or less. Alternatively, the coefficients of determination (R2) for the calibration curve for each target compounds and surrogate should be over 0.99.
 5.10.4 SOP 4. GC/MS Method for the Analysis of Crude Oil Samples.
 5.10.4.1 Instrument Specifications:
@@ -572,7 +558,6 @@ Group | Ions
 5 | 57, 66, 191, 217, 228, 240, 242, 248, 256, 262, 264, 270, 276, 284.
 5.10.4.1.2 Table SOP 4.2 of this Appendix summarizes the instrumental conditions for crude oil analysis. Use only ultra-high purity helium (99.999% pure) as the carrier gas. In series, connect a moisture trap, an oxygen trap, and an organic trap to the carrier gas line before it enters the column.
 Table SOP 4.2—Instrumental Conditions for Crude Oil Analysis
-|
 Instrument | Agilent 6890 Series II Gas Chromatograph (GC) with an Agilent 5973MSD and an Agilent 6890 auto sampler, or equivalent.
 Column | DB-5 capillary column (30 m, 0.25 mm I.D., and 0.25-mm film thickness) or equivalent.
 Carrier Gas | Helium, ultra-high purity grade (99.999%).
@@ -620,82 +605,81 @@ Mass, M/z | Relative to mass | Relative abundance criteria | Purpose of checkpoi
 Table SOP 4.4—Target Compound List
 Compound name | Quantitation ion | Reference compound for response factor | Internal standard for quantitation
 N D34 C16 | 66 | N D34 C16 | D34 n C16 Q Ion 66.
-n-C14 | 57 | n C14
-n-C15 | 57 | n C15
-n-C16 | 57 | n C16
-N D34 C17 | 66 | N D34 C17
-n-C17 | 57 | n C17
-Pristane | 57 | Pristane
-n-C18 | 57 | n C18
-Phytane | 57 | Phytane
-n C19 | 57 | n C19
+n-C14 | 57 | n C14 |
+n-C15 | 57 | n C15 |
+n-C16 | 57 | n C16 |
+N D34 C17 | 66 | N D34 C17 |
+n-C17 | 57 | n C17 |
+Pristane | 57 | Pristane |
+n-C18 | 57 | n C18 |
+Phytane | 57 | Phytane |
+n C19 | 57 | n C19 |
 N D42 C20 | 66 | N D42 C20 | D42 n C20 Q Ion 66.
-n C20 | 57 | n C20
-n C21 | 57 | n C21
-n C22 | 57 | n C22
-n C23 | 57 | n C23
-N D50 C 24 | 66 | N D50 C 24
-n C24 | 57 | n C24
-n C25 | 57 | n C25
-n C26 | 57 | n C26
-n C27 | 57 | n C27
-n C28 | 57 | n C28
-n C29 | 57 | n C29
+n C20 | 57 | n C20 |
+n C21 | 57 | n C21 |
+n C22 | 57 | n C22 |
+n C23 | 57 | n C23 |
+N D50 C 24 | 66 | N D50 C 24 |
+n C24 | 57 | n C24 |
+n C25 | 57 | n C25 |
+n C26 | 57 | n C26 |
+n C27 | 57 | n C27 |
+n C28 | 57 | n C28 |
+n C29 | 57 | n C29 |
 N D62 C30 | 66 | N D62 C30 | D62 n C30Q Ion 66.
-n C30 | 57 | n C30
-n C31 | 57 | n C31
-N D66 C32 | 57 | N D66 C32
-n C32 | 57 | n C32
-n C33 | 57 | n C33
-n C34 | 57 | n C34
-n C35 | 57 | n C35
+n C30 | 57 | n C30 |
+n C31 | 57 | n C31 |
+N D66 C32 | 57 | N D66 C32 |
+n C32 | 57 | n C32 |
+n C33 | 57 | n C33 |
+n C34 | 57 | n C34 |
+n C35 | 57 | n C35 |
 D8 Naphthalene | 136 | D8 Naphthalene | D8 Naphthalene Q Ion 136.
-Naphthalene | 128 | Naphthalene
-D10 1-Methylnaphthalene | 152 | D10 1-Methylnaphthalene
-C1 Naphthalene * | 142 | C1 Naphthalene
-C2 Naphthalene * | 156 | C2 Naphthalene
-C3 Naphthalene * | 170 | C3 Naphthalene
-C4 Naphthalene * | 184 | C3 Naphthalene
+Naphthalene | 128 | Naphthalene |
+D10 1-Methylnaphthalene | 152 | D10 1-Methylnaphthalene |
+C1 Naphthalene * | 142 | C1 Naphthalene |
+C2 Naphthalene * | 156 | C2 Naphthalene |
+C3 Naphthalene * | 170 | C3 Naphthalene |
+C4 Naphthalene * | 184 | C3 Naphthalene |
 D10 Anthracene | 188 | D10 Anthracene | D10 Anthracene Q Ion 188.
-D10 Phenanthrene | 188 | D10 Phenanthrene
-Phenanthrene | 178 | Phenanthrene
-C1 Phenanthrene * | 192 | C1 Phenanthrene
-C2 Phenanthrene * | 206 | C2 Phenanthrene
-C3 Phenanthrene * | 220 | C2 Phenanthrene
-C4 Phenanthrene * | 234 | C2 Phenanthrene
-Fluorene | 166 | Fluorene
-C1 Fluorene * | 180 | Fluorene
-C2 Fluorene * | 194 | Fluorene
-C3 Fluorene * | 208 | Fluorene
-Dibenzothiophene | 184 | Dibenzothiophene
-C1 Dibenzothiophene * | 198 | Dibenzothiophene
-C2 Dibenzothiophene * | 212 | Dibenzothiophene
-C3 Dibenzothiophene * | 226 | Dibenzothiophene
-Naphthobenzothiophene (NBT) | 234 | Naphthobenzothiophene
-C1 NBT * | 248 | Naphthobenzothiophene
-C2 NBT * | 262 | Naphthobenzothiophene
-C3 NBT * | 276 | Naphthobenzothiophene
-Fluoranthene | 202 | Fluoranthene
-D10 Pyrene | 212 | D10 Pyrene
-Pyrene | 202 | Pyrene
-C1 Pyrene * | 216 | Pyrene
-C2 Pyrene * | 230 | Pyrene
+D10 Phenanthrene | 188 | D10 Phenanthrene |
+Phenanthrene | 178 | Phenanthrene |
+C1 Phenanthrene * | 192 | C1 Phenanthrene |
+C2 Phenanthrene * | 206 | C2 Phenanthrene |
+C3 Phenanthrene * | 220 | C2 Phenanthrene |
+C4 Phenanthrene * | 234 | C2 Phenanthrene |
+Fluorene | 166 | Fluorene |
+C1 Fluorene * | 180 | Fluorene |
+C2 Fluorene * | 194 | Fluorene |
+C3 Fluorene * | 208 | Fluorene |
+Dibenzothiophene | 184 | Dibenzothiophene |
+C1 Dibenzothiophene * | 198 | Dibenzothiophene |
+C2 Dibenzothiophene * | 212 | Dibenzothiophene |
+C3 Dibenzothiophene * | 226 | Dibenzothiophene |
+Naphthobenzothiophene (NBT) | 234 | Naphthobenzothiophene |
+C1 NBT * | 248 | Naphthobenzothiophene |
+C2 NBT * | 262 | Naphthobenzothiophene |
+C3 NBT * | 276 | Naphthobenzothiophene |
+Fluoranthene | 202 | Fluoranthene |
+D10 Pyrene | 212 | D10 Pyrene |
+Pyrene | 202 | Pyrene |
+C1 Pyrene * | 216 | Pyrene |
+C2 Pyrene * | 230 | Pyrene |
 D12 Chrysene | 240 | D12 Chrysene | D12 Chrysene Q Ion 240.
-Benzo(a)anthracene/Chrysene * | 228 | Chrysene
-C1 Chrysene * | 242 | Chrysene
-C2 Chrysene * | 256 | Chrysene
-C3 Chrysene * | 270 | Chrysene
-C4 Chrysene * | 284 | Chrysene
+Benzo(a)anthracene/Chrysene * | 228 | Chrysene |
+C1 Chrysene * | 242 | Chrysene |
+C2 Chrysene * | 256 | Chrysene |
+C3 Chrysene * | 270 | Chrysene |
+C4 Chrysene * | 284 | Chrysene |
 5α-androstane | 245 | 5α-androstane | 5α-androstane Q Ion 245.
-Coprostane | 219 | Coprostane
-Hopane | 191 | Hopane
+Coprostane | 219 | Coprostane |
+Hopane | 191 | Hopane |
 * Summed compounds; draw an integration line underneath all peaks with selected ion.
 5.10.4.10 Equation 14 of this Appendix is used to calculate the concentration of analytes in units of µg/g oil added:
-ER12JN23.092
 where:
-A analyte = the peak area of the analyte,
-C istd = the concentration of the internal standard,
-A istd = the area of the internal standard,
+Aanalyte = the peak area of the analyte,
+Cistd = the concentration of the internal standard,
+Aistd = the area of the internal standard,
 RRF = the relative response factor, and
 100 is the conversion factor to convert mg/L DCM to µg/g oil added.
 5.10.4.11 If some analytes are not commercially available, the RRFs of other compounds (usually the parent compound) are used to quantify those analytes. For example, the RRF of C3-naphthalene may be used to calculate the concentrations of C3- and C4-naphthalenes. See Table SOP 4.4 of this Appendix for details. The quantification of these alkylated PAHs is relative because it is assumed that the molecular ions of the alkylated PAHs have the same RRFs as the parent compound ions. Nevertheless, these relative concentrations are useful for monitoring the fate of these compounds during the course of any analysis, as long as their concentrations are measured in a consistent way throughout the analysis.
