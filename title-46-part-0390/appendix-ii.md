@@ -1,7 +1,7 @@
 # Appendix II to Part 390—Sample Capital Construction Fund Agreement
 [Contract No. MA/CCF—]
 capital construction fund agreement with
-This Capital Construction Fund Agreement ("Agreement"), made on the date hereinafter set forth, by and between the United States of America, represented by the Maritime Administrator, Department of Transportation ("Maritime Administrator"), and ___, a corporation organized and existing under the laws of the State of ___ ("Party"), a citizen of the United States of America.
+This Capital Construction Fund Agreement ("Agreement"), made on the date hereinafter set forth, by and between the United States of America, represented by the Maritime Administrator, Department of Transportation ("Maritime Administrator"), and ______, a corporation organized and existing under the laws of the State of ______ ("Party"), a citizen of the United States of America.
 Whereas: 1. The Party has applied for the establishment of a Capital Construction Fund ("Fund") under section 607 of the Merchant Marine Act, 1936, as amended ("Act");
 2. The Party is the owner or lessee or has contracted for the construction of one or more eligible vessels as defined in 46 U.S.C. 53501, which vessels are listed in Schedule A hereof;
 3. The Party has a program for the construction or acquisition of qualified agreement vessels as defined in 46 U.S.C. 53501, which program is described in Schedule B hereof;
@@ -74,22 +74,23 @@ Now, therefore in consideration of the premises the Maritime Administrator and t
 United States of America, Maritime Administrator, Department of Transportation
 (Seal)
 Attest:
-By _____
+By __________
 (Secretary)
 (Seal)
-By _____
+By __________
 (Secretary)
 Attest:
 By
 (Contracting Officer)
 (Secretary)
 Approved as to form: (Date of Execution)
-___ By ___
+______ By ______
 (Assistant General (President)
 Counsel, Maritime
 Administration)
 XYZ Co—Schedule A—Eligible Agreement Vessels
-(a) | Name of vessel | (b) | Specific type | (c) | Capacity | (d) | Owned or leased and owner is leased | (e) | Date and place constructed
+(a) | (b) | (c) | (d) | (e)
+Name of vessel | Specific type | Capacity | Owned or leased and owner is leased | Date and place constructed
 SS Smith, official No. 236425. | Tanker | 56,000 dwt | Leased: ABC Ships, Inc., San Diego, Calif., 50 percent of depreciation ceiling | 1962, American Steel, San Francisco, Calif.
 SS Brown, official No. 325111 | ......do | 265,000 dwt | Owned | 1974, Southern Shipyards, Mobile, Ala.
 SS Jones, official No. 190528. | Container ship | 30,000 dwt, 500 400-ft containers | ......do | 1954, Bond Shipyard, New York, N.Y.
@@ -100,7 +101,8 @@ OTC-35, official No. 262,170 | ......do | 1,500 gr ton, 60 40-ft containers | Le
 200 trailers, Nos. 111032-A-10677B-1M through 11032-A-10877B-1M | Dry cargo | 40 ft | Leased; International Leasing Co., New York, N.Y. 0 percent of depreciation ceiling | 1968, Acme Container Corp., New York, N.Y.
 1,500 containers, Nos. 312 A through 1312 A. | Refrigerated dry cargo. | ......do | Owned | 1969, Aluminum Products, Inc., Dallas, Tex.
 XYZ Co—Schedule A—Eligible Agreement Vessels (Continued)
-| | (f) | Date and place reconstructed | (g) | Date documented | (h) | Area of operation | (i) | Details of service
+| (f) | (g) | (h) | (i)
+| Date and place reconstructed | Date documented | Area of operation | Details of service
 SS Smith, official No. 236425 | Not available | 1962 | Noncontiguous domestic trade | Carriage of crude oil from Valdez, Alaska, to west coast of the continental United States.
 SS Brown, official No. 325111 | ......do | 1974 | U.S. foreign trade | Worldwide carriage of crude oil.
 SS Jones, official No. 190528 | 1970, Litton Systems, Mississippi | 1954 | U.S. foreign and noncontiguous trade | Container service between Japan and California via Hawaii.
@@ -111,17 +113,18 @@ OTC-35, official No. 262,170 | ......do | 1969 | ......do | Do.
 200 trailers, Nos. 111032-A-10677B-1M through 11032-A-10877B-1M | ......do | NA | ......do | For use on Barges XYZ-1, XYZ-2, and OTC-35.
 1,500 containers, Nos. 312 A through 1312 A. | ......do | NA | U.S. foreign noncontiguous domestic trade | For use as complement of SS Jones.
 XYZ Co., Program Objectives—I. Acquisition or Construction of Vessels
-Vessel name, and official number | General characteristics | Approximate cost | Amount to be withdrawn from fund | Approximate date of— | Contract | Delivery | Anticipated area of operation
+Vessel name, and official number | General characteristics | Approximate cost | Amount to be withdrawn from fund | Approximate date of— | Anticipated area of operation
+Contract | Delivery
 XYZ Co., Program Objectives—II. Reconstruction of Vessels
-Vessel name, and official number | General characteristics | Approximate cost | Amount to be withdrawn from fund | Approximate date of— | Contract | Delivery | Anticipated area of operation
+Vessel name, and official number | General characteristics | Approximate cost | Amount to be withdrawn from fund | Approximate date of— | Anticipated area of operation
+Contract | Delivery
 XYZ Co., Program Objectives—III. Payment of Principal on Existing Indebtedness
 Vessel name and official number | Purpose of indebtedness | Amount to be paid from fund
 XYZ Co., Schedule C—Depositories for Capital Construction Fund
 Name | Address
 1. First American Bank checking account | 2001 Park Ave., San Francisco, Calif. 94109.
 2. Southern California National Bank investment trustee established pursuant to sec. 390.7 of the SOC regulations | 1 Waterfront Place, San Francisco, Calif. 94101.
-XYZ Co. Schedule D—Minimum Deposits
-[In thousands]
+XYZ Co. Schedule D—Minimum Deposits [In thousands]
 Taxable year | Ordinary income | Net proceeds | Fund interest | Depreciation | Total
 1973 to 1975 | $3,150 | 1 $2,400 | $250 | | $5,800
 1976 to 1978 | 2,900 | 2 1,500 | 325 | | 4,725
@@ -134,5 +137,4 @@ Taxable year | Ordinary income | Net proceeds | Fund interest | Depreciation | T
 1997 to 1999 | 3,250 | | 120 | | 3,370
 2000 | 3,200 | | 120 | | 3,320
 Total | | | | | 35,960
-1 Net proceeds from sale of barges XYZ-1 and XYZ-2 for $1,200,000 each.
-2 Net proceeds from sale of tug Hercules.
+1 Net proceeds from sale of barges XYZ-1 and XYZ-2 for $1,200,000 each. 2 Net proceeds from sale of tug Hercules.
