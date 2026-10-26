@@ -16,23 +16,22 @@ An ERMM is crashworthy if it has been successfully tested for survival under con
 Table 1 to Appendix A of Part 299—Acceptable Performance Criteria—Option A
 Parameter | Value | Duration | Remarks
 Fire, High Temperature | 750 °C (1400 °F) | 60 minutes | Heat source: Oven.
-Fire, Low Temperature | 260 °C (500 °F) | 10 hours
+Fire, Low Temperature | 260 °C (500 °F) | 10 hours |
 Impact Shock | 55g | 100 ms | 1/2 sine crash pulse.
-Static Crush | 110kN (25,000 lbf) | 5 minutes
-Fluid Immersion | #1 Diesel, #2 Diesel, Water, Salt Water, Lube Oil | Any single fluid, 48 hours
+Static Crush | 110kN (25,000 lbf) | 5 minutes |
+Fluid Immersion | #1 Diesel, #2 Diesel, Water, Salt Water, Lube Oil | Any single fluid, 48 hours |
 | Fire Fighting Fluid | 10 minutes, following immersion above | Immersion followed by 48 hours in a dry location without further disturbance.
-Hydrostatic Pressure | Depth equivalent = 15 m. (50 ft.) | 48 hours at nominal temperature of 25 °C (77 °F)
+Hydrostatic Pressure | Depth equivalent = 15 m. (50 ft.) | 48 hours at nominal temperature of 25 °C (77 °F) |
 Table 2 to Appendix A to Part 299—Acceptable Performance Criteria—Option B
 Parameter | Value | Duration | Remarks
 Fire, High Temperature | 1,000 °C (1,832 °F) | 60 minutes | Heat source: Open flame.
 Fire, Low Temperature | 260 °C (500 °F) | 10 hours | Heat source: Oven.
-Impact Shock—Option 1 | 23gs | 250 ms
+Impact Shock—Option 1 | 23gs | 250 ms |
 Impact Shock—Option 2 | 55gs | 100 ms | 1/2 sine crash pulse.
 Static Crush | 111.2kN (25,000 lbf), 44.5kN (10,000 lbf) | 5 minutes. (single "squeeze") | Applied to 25% of surface of largest face.
-Fluid Immersion | #1 Diesel, #2 Diesel, Water, Salt Water, Lube Oil, Fire Fighting Fluid | 48 hours each
-Hydrostatic Pressure | 46.62 psig (= 30.5 m. or 100 ft.) | 48 hours at nominal temperature of 25 °C (77 °F)
+Fluid Immersion | #1 Diesel, #2 Diesel, Water, Salt Water, Lube Oil, Fire Fighting Fluid | 48 hours each |
+Hydrostatic Pressure | 46.62 psig (= 30.5 m. or 100 ft.) | 48 hours at nominal temperature of 25 °C (77 °F) |
 D. Testing Sequence
 In order to reasonably duplicate the conditions an event recorder may encounter, the ERMM shall meet the various performance criteria, described in section C of this appendix, in a set sequence. (See Figure 1). If all tests are done in the set sequence (single branch testing), the same ERMM must be utilized throughout. If a manufacturer opts for split branch testing, each branch of the test must be conducted using an ERMM of the same design type as used for the other branch. Both alternatives are deemed equivalent, and the choice of single branch testing or split branch testing may be determined by the party representing that the ERMM meets the standard.
-ER03NO20.012
 E. Testing Exception
 If a new model ERMM represents an evolution or upgrade from an older model ERMM that was previously tested and certified as meeting the performance criteria contained in section C of this appendix, the new model ERMM need only be tested for compliance with those performance criteria contained in section C of this appendix that are potentially affected by the upgrade or modification. FRA will consider a performance criterion not to be potentially affected if a preliminary engineering analysis or other pertinent data establishes that the modification or upgrade will not change the performance of the older model ERMM against the performance criterion in question. The manufacturer shall retain and make available to FRA upon request any analysis or data relied upon to satisfy the requirements of this paragraph to sustain an exception from testing.
