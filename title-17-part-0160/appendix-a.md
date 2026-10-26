@@ -1,12 +1,5 @@
 # Appendix A to Part 160—Model Privacy Form
 A. The Model Privacy Form
-ER28DE12.003
-ER28DE12.004
-ER28DE12.005
-ER28DE12.006
-ER28DE12.007
-ER28DE12.008
-ER28DE12.009
 B. General Instructions
 1. How the Model Privacy Form Is Used
 (a) The model form may be used, at the option of a financial institution, including a group of financial institutions that use a common privacy notice, to meet the content requirements of the privacy notice and opt-out notice set forth in §§ 160.6 and 160.7 of this part.
