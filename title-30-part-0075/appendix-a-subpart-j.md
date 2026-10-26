@@ -1,4 +1,1 @@
 # Appendix A to Subpart J of Part 75
-ER30DE05.146
-ER30DE05.147
-ER30DE05.148
