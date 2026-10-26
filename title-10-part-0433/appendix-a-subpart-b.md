@@ -17,15 +17,3 @@
 (14) Retail (Other Than Mall) means a category of buildings used for the sale and display of goods other than food.
 (15) Service means a category of buildings in which some type of service is provided, other than food service or retail sales of goods.
 (16) Warehouse and storage means a category of buildings used to store goods, manufactured products, merchandise, raw materials, or personal belongings (such as self-storage).
-ER01MY24.001
-ER01MY24.002
-ER01MY24.003
-ER01MY24.004
-ER01MY24.005
-ER01MY24.006
-ER01MY24.007
-ER01MY24.008
-ER01MY24.009
-ER01MY24.010
-ER01MY24.011
-ER01MY24.012
