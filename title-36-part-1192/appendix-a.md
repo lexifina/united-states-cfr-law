@@ -1,4 +1,4 @@
-# Appendix A to Part 1192—Accessibility Guidelines for Buses, Over-the-Road Buses, and Vans
+# Appendix A to Part 1192— Accessibility Guidelines for Buses, Over-the-Road Buses, and Vans
 Table of Contents
 Chapter 1: Application and Administration
 T101 Purpose
@@ -139,7 +139,7 @@ Exception: Walking surfaces on lifts shall not be required to comply with T302.
 T302.2 Slip Resistant. Walking surfaces shall be slip resistant.
 T302.3 Openings. Openings in walking surfaces shall not allow the passage of a sphere more than 5/8 inch (16 mm) in diameter. Elongated openings shall be placed so that the long dimension is perpendicular to the dominant direction of travel.
 Exceptions: 1. Wheelchair securement system components affixed to walking surfaces shall be permitted to have openings 7/8 inch (22 mm) maximum in width provided that, where such openings are more than 5/8 inch (16 mm) in width, they contrast visually with the rest of the walking surface either light-on-dark or dark-on-light.
-2. Ramp and bridgeplate surfaces shall be permitted to have one opening 11/2 inches (38 mm) maximum in width and 41/2 inches (115 mm) maximum in length to allow the operator to grasp the ramp or bridgeplate for manual operation.
+2. Ramp and bridgeplate surfaces shall be permitted to have one opening 1 1/2 inches (38 mm) maximum in width and 4 1/2 inches (115 mm) maximum in length to allow the operator to grasp the ramp or bridgeplate for manual operation.
 T302.4 Surface Discontinuities. Surface discontinuities shall be 1/2 inch (13 mm) high maximum and shall be beveled with a slope not steeper than 1:2.
 Exceptions: 1. Surface discontinuities 1/4 inch (6.4 mm) high maximum shall not be required to be beveled.
 2. Steps complying with T405 shall be permitted on walking surfaces that are not part of a passenger access route.
@@ -148,9 +148,9 @@ T303.1 General. Handrails, stanchions, and handholds in non-rail vehicles shall 
 T303.2 Edges. Edges shall be rounded or eased.
 T303.3 Cross Section. Gripping surfaces shall have a cross section complying with T303.3.
 T303.3.1 Seat-Back Handhold Cross Section. The cross section of seat-back handholds shall have an outside diameter of 7/8 inches (22 mm) minimum and 2 inches (50 mm) maximum.
-T303.3.2 Handrail and Stanchion Circular Cross Section. Handrails and stanchions with a circular cross section shall have an outside diameter of 11/4 inches (32 mm) minimum and 2 inches (50 mm) maximum.
-T303.3.3 Handrail and Stanchion Non-Circular Cross Section. Handrails and stanchions with a non-circular cross section shall have a perimeter dimension of 4 inches (100 mm) minimum and 61/4 inches (160 mm) maximum, and a cross section dimension of 21/4 inches (57 mm) maximum.
-T303.4 Clearance. Clearance between gripping surfaces and adjacent surfaces shall be 11/2 inches (38 mm) minimum.
+T303.3.2 Handrail and Stanchion Circular Cross Section. Handrails and stanchions with a circular cross section shall have an outside diameter of 1 1/4 inches (32 mm) minimum and 2 inches (50 mm) maximum.
+T303.3.3 Handrail and Stanchion Non-Circular Cross Section. Handrails and stanchions with a non-circular cross section shall have a perimeter dimension of 4 inches (100 mm) minimum and 6 1/4 inches (160 mm) maximum, and a cross section dimension of 2 1/4 inches (57 mm) maximum.
+T303.4 Clearance. Clearance between gripping surfaces and adjacent surfaces shall be 1 1/2 inches (38 mm) minimum.
 T304 Operable Parts
 T304.1 General. Operable parts in non-rail vehicles shall comply with T304.
 T304.2 Height. Operable parts shall be located 24 inches (610 mm) minimum and 48 inches (1220 mm) maximum above the floor of non-rail vehicles.
@@ -245,7 +245,7 @@ T702.2 Character Style. Characters shall be displayed in sans serif fonts and sh
 T702.3 Character Proportions. Characters shall use fonts where the width of the uppercase letter "O" is 55 percent minimum and 110 percent maximum of the height of the uppercase letter "I".
 T702.4 Character Height. Character height shall comply with Table T702.4. Character height shall be based on the uppercase letter "I".
 Table T702.4—Character Height
-Sign location | Minimumcharacter height
+Sign location | Minimum character height
 Exterior route or destination signs on boarding side of non-rail vehicle | 2 inches (51 mm).
 Exterior route or destination signs on front of non-rail vehicle | 4 inches (100 mm).
 Interior signs designating wheelchair spaces or priority seats, where baseline of character is equal to or less than 70 inches (1780 mm) above the non-rail vehicle floor | 5/8 inch (16 mm).
@@ -257,7 +257,6 @@ T702.8 Contrast. Characters shall contrast with their background with either lig
 T703 International Symbol of Accessibility
 T703.1 General. The International Symbol of Accessibility shall comply with Figure T703.1. The symbol shall have a background field height of 4 inches (100 mm) minimum. The symbol and its background shall have a non-glare finish. The symbol shall contrast with its background with either a light symbol on a dark background or a dark symbol on a light background.
 Figure T703.1 International Symbol of Accessibility
-ER14DE16.024
 T704 Announcement Systems
 T704.1 General. Non-rail vehicles shall provide announcement systems in accordance with T704.
 T704.2 Stop Request Systems. Stop request systems shall comply with T704.3.
