@@ -87,7 +87,6 @@ Sec. G36.201 Corrections to Test Results.
 (3) The change in the helical tip Mach number between test and reference conditions.
 (4) The change in the engine power between test and reference conditions.
 (b) Atmospheric absorption correction is required for noise data obtained when the test conditions are outside those specified in Figure G1. Noise data outside the applicable range must be corrected to 59 F and 70 percent relative humidity by an FAA approved method.
-ER13OC99.001
 (c) No corrections for helical tip Mach number variation need to be made if the propeller helical tip Mach number is:
 (1) At or below 0.70 and the test helical tip Mach number is within 0.014 of the reference helical tip Mach number.
 (2) Above 0.70 and at or below 0.80 and the test helical tip Mach number is within 0.007 of the reference helical tip Mach number.
@@ -115,5 +114,4 @@ Sec. G36.301 Aircraft noise limits.
 (a) Compliance with this section must be shown with noise data measured and corrected as prescribed in Parts B and C of this appendix.
 (b) For single-engine airplanes for which the original type certification application is received before February 3, 2006 and multi-engine airplanes, the noise level must not exceed 76 dB(A) up to and including aircraft weights of 1,320 pounds (600 kg). For aircraft weights greater than 1,320 pounds, the limit increases from that point with the logarithm of airplane weight at the rate of 9.83 dB (A) per doubling of weight, until the limit of 88 dB (A) is reached, after which the limit is constant up to and including 19,000 pounds (8,618 kg). Figure G2 shows noise level limits vs airplane weight.
 (c) For single-engine airplanes for which the original type certification application is received on or after February 3, 2006, the noise level must not exceed 70dB(A) for aircraft having a maximum certificated takeoff weight of 1,257 pounds (570 kg) or less. For aircraft weights greater than 1,257 pounds, the noise limit increases from that point with the logarithm of airplane weight at the rate of 10.75dB(A) per doubling of weight, until the limit of 85dB(A) is reached, after which the limit is constant up to and including 19,000 pounds (8,618 kg). Figure G2 depicts noise level limits for airplane weights for single-engine airplanes.
-ER04JA06.033
 (Secs. 313(a), 603, and 611(b), Federal Aviation Act of 1958 as amended (49 U.S.C. 1354(a), 1423, and 1431(b)); sec. 6(c), Department of Transportation Act (49 U.S.C. 1655 (c)); Title I, National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); E. O. 11514, March 5, 1970 and 14 CFR 11.45).

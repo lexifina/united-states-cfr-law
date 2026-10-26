@@ -70,7 +70,6 @@ Sec. F36.201 Correction of data.
 (a) Noise data obtained when the temperature is outside the range of 68 degrees F. ±9 degrees F., or the relative humidity is below 40 percent, must be corrected to 77 degrees F. and 70 percent relative humidity by a method approved by the FAA.
 (b) The performance correction prescribed in paragraph (c) of this section must be used. It must be determined by the method described in this appendix, and must be added algebraically to the measured value. It is limited to 5dB(A).
 (c) The performance correction must be computed by using the following formula:
-EC28SE91.113
 Where:
 D50 = Takeoff distance to 50 feet at maximum certificated takeoff weight.
 R/C = Certificated best rate of climb (fpm).

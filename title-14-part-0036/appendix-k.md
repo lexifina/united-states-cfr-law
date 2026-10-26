@@ -16,23 +16,19 @@ The following noise reference points must be used when demonstrating tiltrotor c
 As shown in Figure K1 below:
 (1) The centerline noise measurement flight path reference point, designated A, is located on the ground vertically below the reference takeoff flight path. The measurement point is located 1,640 feet (500 m) in the horizontal direction of flight from the point Cr where transition to climbing flight is initiated, as described in section K6.2 of this appendix;
 (2) Two sideline noise measurement points, designated as S(starboard) and S(port), are located on the ground perpendicular to and symmetrically stationed at 492 feet (150 m) on each side of the takeoff reference flight path. The measurement points bisect the centerline flight path reference point A.
-ER08JA13.007
 (b) Flyover reference noise measurement points—
 As shown in Figure K2 below:
 (1) The centerline noise measurement flight path reference point, designated A, is located on the ground 492 feet (150 m) vertically below the reference flyover flight path. The measurement point is defined by the flyover reference procedure in section K6.3 of this appendix;
-ER08JA13.008
 (2) Two sideline noise measurement points, designated as S(sideline), are located on the ground perpendicular to and symmetrically stationed at 492 feet (150 m) on each side of the flyover reference flight path. The measurement points bisect the centerline flight path reference point A.
 (c) Approach reference noise measurement points—
 As shown in Figure K3 below:
 (1) The centerline noise measurement flight path reference point, designated A, is located on the ground 394 feet (120 m) vertically below the reference approach flight path. The measurement point is defined by the approach reference procedure in section K6.4 of this appendix. On level ground, the measurement point corresponds to a position 3,740 feet (1,140 m) from the intersection of the 6.0 degree approach path with the ground plane;
 (2) Two sideline noise measurement points, designated as S(starboard) and S(port), are located on the ground perpendicular to and symmetrically stationed at 492 feet (150 m) on each side of the approach reference flight path. The measurement points bisect the centerline flight path reference point A.
-ER08JA13.009
 Section K4 Noise Limits
 For a tiltrotor, the maximum noise levels, as determined in accordance with the noise evaluation in EPNdB and calculation method described in section H36.201 of Appendix H of this part, must not exceed the noise limits as follows:
 (a) At the takeoff flight path reference point: For a tiltrotor having a maximum certificated takeoff weight (mass) of 176,370 pounds (80,000 kg) or more, in VTOL/Conversion mode, 109 EPNdB, decreasing linearly with the logarithm of the tiltrotor weight (mass) at a rate of 3.0 EPNdB per halving of weight (mass) down to 89 EPNdB, after which the limit is constant. Figure K4 illustrates the takeoff noise limit as a solid line.
 (b) At the Flyover path reference point: For a tiltrotor having a maximum certificated takeoff weight (mass) of 176,370 pounds (80,000 kg) or more, in VTOL/Conversion mode, 108 EPNdB, decreasing linearly with the logarithm of the tiltrotor weight (mass) at a rate of 3.0 EPNdB per halving of weight (mass) down to 88 EPNdB, after which the limit is constant. Figure K4 illustrates the flyover noise limit as a dashed line.
 (c) At the approach flight path reference point: For a tiltrotor having a maximum certificated takeoff weight (mass) of 176,370 pounds (80,000 kg) or more, in VTOL/Conversion mode, 110 EPNdB, decreasing linearly with the logarithm of the tiltrotors weight (mass) at a rate of 3.0 EPNdB per halving of weight (mass) down to 90 EPNdB, after which the limit is constant. Figure K4 illustrates the approach noise limit as a dash-dot line.
-ER08JA13.010
 Section K5 Trade-Offs
 If the noise evaluation measurement exceeds the noise limits described in K4 of this appendix at one or two measurement points:
 (a) The sum of excesses must not be greater than 4 EPNdB;

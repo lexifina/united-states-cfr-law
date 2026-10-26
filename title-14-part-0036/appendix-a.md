@@ -84,7 +84,6 @@ Note: An applicant must still calibrate and check each system as required in sec
 A36.3.5.2 The microphone must be mounted with the sensing element 4 ft (1.2 m) above the local ground surface and must be oriented for grazing incidence, i.e., with the sensing element substantially in the plane defined by the predicted reference flight path of the aircraft and the measuring station. The microphone mounting arrangement must minimize the interference of the supports with the sound to be measured. Figure A36-1 illustrates sound incidence angles on a microphone.
 A36.3.5.3 The free-field sensitivity level of the microphone and preamplifier in the reference direction, at frequencies over at least the range of one-third-octave nominal midband frequencies from 50 Hz to 5 kHz inclusive, must be within ±1.0 dB of that at the calibration check frequency, and within ±2.0 dB for nominal midband frequencies of 6.3 kHz, 8 kHz and 10 kHz.
 A36.3.5.4 For sinusoidal sound waves at each one-third octave nominal midband frequency over the range from 50 Hz to 10 kHz inclusive, the free-field sensitivity levels of the microphone system at sound incidence angles of 30°, 60°, 90°, 120° and 150°, must not differ from the free-field sensitivity level at a sound incidence angle of 0° ("normal incidence") by more than the values shown in Table A36-1. The free-field sensitivity level differences at sound incidence angles between any two adjacent sound incidence angles in Table A36-1 must not exceed the tolerance limit for the greater angle.
-ER08JY02.000
 A36.3.6 Recording and reproducing systems.
 A36.3.6.1 A recording and reproducing system, such as a digital or analog magnetic tape recorder, a computer-based system or other permanent data storage device, must be used to store sound pressure signals for subsequent analysis. The sound produced by the aircraft must be recorded in such a way that a record of the complete acoustical signal is retained. The recording and reproducing systems must meet the specifications in sections A36.3.6.2 to A36.3.6.9 at the recording speeds and/or data sampling rates used for the noise certification tests. Conformance must be demonstrated for the frequency bandwidths and recording channels selected for the tests.
 A36.3.6.2 The recording and reproducing systems must be calibrated as described in section A36.3.9.
@@ -154,10 +153,8 @@ A36.4.2 Perceived noise level.
 A36.4.2.1 Instantaneous perceived noise levels, PNL(k), must be calculated from instantaneous one-third octave band sound pressure levels, SPL(i, k) as follows:
 (a) Step 1: For each one-third octave band from 50 through 10,000 Hz, convert SPL(i, k) to perceived noisiness n(i, k), by using the mathematical formulation of the noy table given in section A36.4.7.
 (b) Step 2: Combine the perceived noisiness values, n(i, k), determined in step 1 by using the following formula:
-ER08JY02.001
 where n(k) is the largest of the 24 values of n(i, k) and N(k) is the total perceived noisiness.
 (c) Step 3: Convert the total perceived noisiness, N(k), determined in Step 2 into perceived noise level, PNL(k), using the following formula:
-ER08JY02.002
 Note: PNL(k) is plotted in the current advisory circular for this part.
 A36.4.3 Correction for spectral irregularities.
 A36.4.3.1 Noise having pronounced spectral irregularities (for example, the maximum discrete frequency components or tones) must be adjusted by the correction factor C(k) calculated as follows:
@@ -207,7 +204,6 @@ SPL′(24,k) = SPL′(23,k) + s (23,k)
 F(i,k) = SPL(i,k)-SPL′(i,k)
 and note only values equal to or greater than 1.5.
 (i) Step 9: For each of the relevant one-third octave bands (3 through 24), determine tone correction factors from the sound pressure level differences F (i, k) and Table A36-2.
-ER08JY02.003
 (j) Step 10: Designate the largest of the tone correction factors, determined in Step 9, as C(k). (An example of the tone correction procedure is given in the current advisory circular for this part). Tone-corrected perceived noise levels PNLT(k) must be determined by adding the C(k) values to corresponding PNL(k) values, that is:
 PNLT(k) = PNL(k) + C(k)
 For any i-th one-third octave band, at any k-th increment of time, for which the tone correction factor is suspected to result from something other than (or in addition to) an actual tone (or any spectral irregularity other than airplane noise), an additional analysis may be made using a filter with a bandwidth narrower than one-third of an octave. If the narrow band analysis corroborates these suspicions, then a revised value for the background sound pressure level SPL′(i,k), may be determined from the narrow band analysis and used to compute a revised tone correction factor for that particular one-third octave band. Other methods of rejecting spurious tone corrections may be approved.
@@ -218,14 +214,11 @@ A36.4.4 Maximum tone-corrected perceived noise level
 A36.4.4.1 The maximum tone-corrected perceived noise level, PNLTM, must be the maximum calculated value of the tone-corrected perceived noise level PNLT(k). It must be calculated using the procedure of section A36.4.3. To obtain a satisfactory noise time history, measurements must be made at 0.5 second time intervals.
 Note 1: Figure A36-2 is an example of a flyover noise time history where the maximum value is clearly indicated.
 Note 2: In the absence of a tone correction factor, PNLTM would equal PNLM.
-ER08JY02.004
 A36.4.4.2 After the value of PNLTM is obtained, the frequency band for the largest tone correction factor is identified for the two preceding and two succeeding 500 ms data samples. This is performed in order to identity the possibility of tone suppression at PNLTM by one-third octave band sharing of that tone. If the value of the tone correction factor C(k) for PNLTM is less than the average value of C(k) for the five consecutive time intervals, the average value of C(k) must be used to compute a new value for PNLTM.
 A36.4.5 Duration correction.
 A36.4.5.1 The duration correction factor D determined by the integration technique is defined by the expression:
-ER08JY02.005
 where T is a normalizing time constant, PNLTM is the maximum value of PNLT, t(1) is the first point of time after which PNLT becomes greater than PNLTM-10, and t(2) is the point of time after which PNLT remains constantly less than PNLTM-10.
 A36.4.5.2 Since PNLT is calculated from measured values of sound pressure level (SPL), there is no obvious equation for PNLT as a function of time. Consequently, the equation is to be rewritten with a summation sign instead of an integral sign as follows:
-ER08JY02.006
 where Δt is the length of the equal increments of time for which PNLT(k) is calculated and d is the time interval to the nearest 0.5s during which PNLT(k) remains greater or equal to PNLTM-10.
 A36.4.5.3 To obtain a satisfactory history of the perceived noise level use one of the following:
 (a) Half-Second time intervals for Δt; or
@@ -234,7 +227,6 @@ A36.4.5.4 The following values for T and Δt must be used in calculating D in th
 T = 10 s, and
 Δt = 0.5s (or the approved sampling time interval).
 Using these values, the equation for D becomes:
-ER08JY02.007
 where d is the duration time defined by the points corresponding to the values PNLTM-10.
 A36.4.5.5 If in using the procedures given in section A36.4.5.2, the limits of PNLTM-10 fall between the calculated PNLT(k) values (the usual case), the PNLT(k) values defining the limits of the duration interval must be chosen from the PNLT(k) values closest to PNLTM-10. For those cases with more than one peak value of PNLT(k), the applicable limits must be chosen to yield the largest possible value for the duration time.
 A36.4.6 Effective perceived noise level.
@@ -261,8 +253,6 @@ n = 0.3 antilog {M(e)[SPL−SPL(e)]}
 SPL(d) ≤SPL <SPL(e)
 n = 0.1 antilog {M(d)[SPL−SPL(d)]}
 A36.4.7.4 Table A36-3 lists the values of the constants necessary to calculate perceived noisiness as a function of sound pressure level.
-ER08JY02.008
-ER08JY02.009
 Section A36.5 Reporting of Data to the FAA
 A36.5.1 General.
 A36.5.1.1 Data representing physical measurements and data used to make corrections to physical measurements must be recorded in an approved permanent form and appended to the record.
@@ -332,14 +322,14 @@ s (i, k) | dB | Slope of sound pressure level. The change in level between adjac
 Δs (i, k) | dB | Change in slope of sound pressure level.
 s′ (i, k) | dB | Adjusted slope of sound pressure level. The change in level between adjacent adjusted one-third octave band sound pressure levels at the i-th band for the k-th instant of time.
 s (i, k) | dB | Average slope of sound pressure level.
-SPL | dB re20 µPa | Sound pressure level. The sound pressure level that occurs in a specified frequency range at any instant of time.
-SPL(a) | dB re20 µPa | Noy discontinuity coordinate. The SPL value of the intersection point of the straight lines representing the variation of SPL with log n.
-SPL(b)SPL (c) | dB re20 µPa | Noy intercept. The intercepts on the SPL-axis of the straight lines representing the variation of SPL with log n.
-SPL (i, k) | dB re20 µPa | The sound pressure level at the k-th instant of time that occurs in the i-th one-third octave band.
-SPL′ (i, k) | dB re20 µPa | Adjusted sound pressure level. The first approximation to background sound pressure level in the i-th one-third octave band for the k-th instant of time.
-SPL(i) | dB re20 µPa | Maximum sound pressure level. The sound pressure level that occurs in the i-th one-third octave band of the spectrum for PNLTM.
-SPL(i)r | dB re20 µPa | Corrected maximum sound pressure level. The sound pressure level that occurs in the i-th one-third octave band of the spectrum for PNLTM corrected for atmospheric sound absorption.
-SPL′ (i, k) | dB re20 µPa | Final background sound pressure level. The second and final approximation to background sound pressure level in the i-th one-third octave band for the k-th instant of time.
+SPL | dB re 20 µPa | Sound pressure level. The sound pressure level that occurs in a specified frequency range at any instant of time.
+SPL(a) | dB re 20 µPa | Noy discontinuity coordinate. The SPL value of the intersection point of the straight lines representing the variation of SPL with log n.
+SPL(b) SPL (c) | dB re 20 µPa | Noy intercept. The intercepts on the SPL-axis of the straight lines representing the variation of SPL with log n.
+SPL (i, k) | dB re 20 µPa | The sound pressure level at the k-th instant of time that occurs in the i-th one-third octave band.
+SPL′ (i, k) | dB re 20 µPa | Adjusted sound pressure level. The first approximation to background sound pressure level in the i-th one-third octave band for the k-th instant of time.
+SPL(i) | dB re 20 µPa | Maximum sound pressure level. The sound pressure level that occurs in the i-th one-third octave band of the spectrum for PNLTM.
+SPL(i)r | dB re 20 µPa | Corrected maximum sound pressure level. The sound pressure level that occurs in the i-th one-third octave band of the spectrum for PNLTM corrected for atmospheric sound absorption.
+SPL′ (i, k) | dB re 20 µPa | Final background sound pressure level. The second and final approximation to background sound pressure level in the i-th one-third octave band for the k-th instant of time.
 t | s | Elapsed time. The length of time measured from a reference zero.
 t(1), t(2) | s | Time limit. The beginning and end, respectively, of the noise time history defined by h.
 Δt | s | Time increment. The equal increments of time for which PNL(k) and PNLT(k) are calculated.
@@ -349,7 +339,7 @@ t(°F) (°C) | °F, °C | Temperature. The ambient air temperature.
 α(i)o | dB/1000ft db/100m | Reference atmospheric absorption. The atmospheric attenuation of sound that occurs in the i-th one-third octave band at a reference air temperature and relative humidity.
 A1 | Degrees | First constant climb angle (Gear up, speed of at least V2 + 10 kt (V2 + 19 km/h), takeoff thrust).
 A2 | Degrees | Second constant climb angle (Gear up, speed of at least V2 + 10 kt (V2 + 19 km/h), after cut-back).
-δε | Degrees | Thrust cutback angles. The angles defining the points on the takeoff flight path at which thrust reduction is started and ended respectively.
+δ ε | Degrees | Thrust cutback angles. The angles defining the points on the takeoff flight path at which thrust reduction is started and ended respectively.
 η | Degrees | Approach angle.
 ηr | Degrees | Reference approach angle.
 θ | Degrees | Noise angle (relative to flight path). The angle between the flight path and noise path. It is identical for both measured and corrected flight paths.
@@ -363,18 +353,14 @@ Section A36.7 Sound Attenuation in Air
 A36.7.1 The atmospheric attenuation of sound must be determined in accordance with the procedure presented in section A36.7.2.
 A36.7.2 The relationship between sound attenuation, frequency, temperature, and humidity is expressed by the following equations.
 A36.7.2(a) For calculations using the English System of Units:
-ER08JY02.010
 and
-ER08JY02.011
 where
 η(δ) is listed in Table A36-4 and f0 in Table A36-5;
 α(i) is the attenuation coefficient in dB/1000 ft;
 θ is the temperature in °F; and
 H is the relative humidity, expressed as a percentage.
 A36.7.2(b) For calculations using the International System of Units (SI):
-ER08JY02.012
 and
-ER08JY02.013
 where
 η(δ) is listed in Table A36-4 and f0 in Table A36-5;
 α(i) is the attenuation coefficient in dB/100 m;
@@ -382,7 +368,6 @@ where
 H is the relative humidity, expressed as a percentage.
 A36.7.3 The values listed in table A36-4 are to be used when calculating the equations listed in section A36.7.2. A term of quadratic interpolation is to be used where necessary.
 Section A36.8 [Reserved]
-ER08JY02.014
 Section A36.9 Adjustment of Airplane Flight Test Results.
 A36.9.1 When certification test conditions are not identical to reference conditions, appropriate adjustments must be made to the measured noise data using the methods described in this section.
 A36.9.1.1 Adjustments to the measured noise values must be made using one of the methods described in sections A36.9.3 and A36.9.4 for differences in the following:
@@ -405,7 +390,6 @@ Note: Figure A36-5 illustrates a typical approach profile.
 (a) The airplane begins its noise certification approach flight path at point G and touches down on the runway at point J, at a distance OJ from the runway threshold.
 (b) Position K3 is the approach noise measuring station and K3O is the distance from the approach noise measurement point to the runway threshold.
 (c) The distance GI is the distance over which the airplane position is measured and synchronized with the noise measurements, as required by section A36.2.3.2 of this part.
-ER08JY02.015
 The airplane reference point for approach measurements is the instrument landing system (ILS) antenna. If no ILS antenna is installed an alternative reference point must be approved by the FAA.
 A36.9.3 Simplified method of adjustment.
 A36.9.3.1 General. As described below, the simplified adjustment method consists of applying adjustments (to the EPNL, which is calculated from the measured data) for the differences between measured and reference conditions at the moment of PNLTM.
@@ -413,7 +397,6 @@ A36.9.3.2 Adjustments to PNL and PNLT.
 (a) The portions of the test flight path and the reference flight path described below, and illustrated in Figure A36-6, include the noise time history that is relevant to the calculation of flyover and approach EPNL. In figure A36-6:
 (1) XY represents the portion of the measured flight path that includes the noise time history relevant to the calculation of flyover and approach EPNL; XrYr represents the corresponding portion of the reference flight path.
 (2) Q represents the airplane's position on the measured flight path at which the noise was emitted and observed as PNLTM at the noise measuring station K. Qr is the corresponding position on the reference flight path, and Kr the reference measuring station. QK and QrKr are, respectively, the measured
-ER08JY02.016
 and reference noise propagation paths, Qr being determined from the assumption that QK and QrKr form the same angle θ with their respective flight paths.
 (b) The portions of the test flight path and the reference flight path described in paragraph (b)(1) and (2), and illustrated in Figure A36-7(a) and (b), include the noise time history that is relevant to the calculation of lateral EPNL.
 (1) In figure A36-7(a), XY represents the portion of the measured flight path that includes the noise time history that is relevant to the calculation of lateral EPNL; in figure A36-7(b), XrYr represents the corresponding portion of the reference flight path.
@@ -421,7 +404,6 @@ and reference noise propagation paths, Qr being determined from the assumption t
 (i) Form the same angle θ with their respective flight paths; and
 (ii) Form the same angle ψ with the ground.
 Note: For the lateral noise measurement, sound propagation is affected not only by inverse square and atmospheric attenuation, but also by ground absorption and reflection effects which depend mainly on the angle ψ.
-ER08JY02.017
 A36.9.3.2.1 The one-third octave band levels SPL(i) comprising PNL (the PNL at the moment of PNLTM observed at K) must be adjusted to reference levels SPL(i)r as follows:
 A36.9.3.2.1(a) For calculations using the English System of Units:
 SPL(i)r = SPL(i) + 0.001[α(i)−α(i)0]QK
@@ -454,24 +436,20 @@ A36.9.3.3.2 For the flight path shown in Figure A36-6, the adjustment term is ca
 (a) Add Δ2 arithmetically to the EPNL calculated from the measured data.
 A36.9.3.4 Source noise adjustments.
 A36.9.3.4.1 To account for differences between the parameters affecting engine noise as measured in the certification flight tests, and those calculated or specified in the reference conditions, the source noise adjustment must be calculated and applied. The adjustment is determined from the manufacturer's data approved by the FAA. Typical data used for this adjustment are illustrated in Figure A36-8 that shows a curve of EPNL versus the engine control parameter μ, with the EPNL data being corrected to all the other relevant reference conditions (airplane mass, speed and altitude, air temperature) and for the difference in noise between the test engine and the average engine (as defined in section B36.7(b)(7)). A sufficient number of data points over a range of values of μr is required to calculate the source noise adjustments for lateral, flyover and approach noise measurements.
-ER08JY02.018
 A36.9.3.4.2 Calculate adjustment term Δ3 by subtracting the EPNL value corresponding to the parameter μ from the EPNL value corresponding to the parameter μr. Add Δ3 arithmetically to the EPNL value calculated from the measured data.
 A36.9.3.5 Symmetry adjustments.
 A36.9.3.5.1 A symmetry adjustment to each lateral noise value (determined at the section B36.4(b) measurement points), is to be made as follows:
 (a) If the symmetrical measurement point is opposite the point where the highest noise level is obtained on the main lateral measurement line, the certification noise level is the arithmetic mean of the noise levels measured at these two points (see Figure A36-9(a));
 (b) If the condition described in paragraph (a) of this section is not met, then it is assumed that the variation of noise with the altitude of the airplane is the same on both sides; there is a constant difference between the lines of noise versus altitude on both sides (see figure A36-9(b)). The certification noise level is the maximum value of the mean between these lines.
-ER08JY02.019
 A36.9.4 Integrated method of adjustment
 A36.9.4.1 General. As described in this section, the integrated adjustment method consists of recomputing under reference conditions points on the PNLT time history corresponding to measured points obtained during the tests, and computing EPNL directly for the new time history obtained in this way. The main principles are described in sections A36.9.4.2 through A36.9.4.4.1.
 A36.9.4.2 PNLT computations.
 (a) The portions of the test flight path and the reference flight path described in paragraph (a)(1) and (2), and illustrated in Figure A36-10, include the noise time history that is relevant to the calculation of flyover and approach EPNL. In figure A36-10:
-ER08jy02.020
 (1) XY represents the portion of the measured flight path that includes the noise time history relevant to the calculation of flyover and approach EPNL; XrYr represents the corresponding reference flight path.
 (2) The points Q0, Q1, Qn represent airplane positions on the measured flight path at time t0, t1 and tn respectively. Point Q1 is the point at which the noise was emitted and observed as one-third octave values SPL(i)1 at the noise measuring station K at time t1. Point Qr1 represents the corresponding position on the reference flight path for noise observed as SPL(i)r1 at the reference measuring station Kr at time tr1. Q1K and Qr1Kr are respectively the measured and reference noise propagation paths, which in each case form the angle θ1 with their respective flight paths. Qr0 and Qrn are similarly the points on the reference flight path corresponding to Q0 and Qn on the measured flight path. Q0 and Qn are chosen so that between Qr0 and Qrn all values of PNLTr (computed as described in paragraphs A36.9.4.2.2 and A36.9.4.2.3) within 10 dB of the peak value are included.
 (b) The portions of the test flight path and the reference flight path described in paragraph (b)(1) and (2), and illustrated in Figure A36-11(a) and (b), include the noise time history that is relevant to the calculation of lateral EPNL.
 (1) In figure A36-11(a) XY represents the portion of the measured flight path that includes the noise time history that is relevant to the calculation of lateral EPNL; in figure A36-11(b), XrYr represents the corresponding portion of the reference flight path.
 (2) The points Q0, Q1 and Qn represent airplane positions on the measured flight path at time t0, t1 and tn respectively. Point Q1 is the point at which the noise was emitted and observed as one-third octave values SPL(i)1 at the noise measuring station K at time t1. The point Qr1 represents the corresponding position on the reference flight path for noise observed as SPL(i)r1 at the measuring station Kr at time tr1. Q1K and Qr1Kr are respectively the measured and reference noise propagation paths. Qr0 and Qrn are similarly the points on the reference flight path corresponding to Q0 and Qn on the measured flight path.
-ER08JY02.021
 Q0 and Qn are chosen to that between Qro and Qrn all values of PNLTr (computed as described in paragraphs A36.9.4.2.2 and A36.9.4.2.3) within 10 dB of the peak value are included. In this case Kr is only specified as being on a particular lateral line. The position of Kr and Qr1 are determined from the following requirements.
 (i) Q1K and Qr1Kr form the same angle θ1 with their respective flight paths; and
 (ii) The differences between the angles 1 and r1 must be minimized using a method, approved by the FAA. The differences between the angles are minimized since, for geometrical reasons, it is generally not possible to choose Kr so that the condition described in paragraph A36.9.4.2(b)(2)(i) is met while at the same time keeping 1 and r1 equal.

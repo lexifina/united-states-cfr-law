@@ -74,10 +74,8 @@ Section J36.109 Measurement of helicopter noise received on the ground.
 (2) Paragraph (b) of this section identifies and prescribes the specifications for the noise evaluation measurements required under this appendix. Paragraphs (c) and (d) of this section prescribe the required acoustical equipment specifications. Paragraphs (e) and (f) of this section prescribe the calibration and measurement procedures required under this appendix.
 (b) Noise unit definition. (1) The value of sound exposure level (SEL, or as denoted by symbol, LAE), is defined as the level, in decibels, of the time integral of squared 'A'-weighted sound pressure (PA) over a given time period or event, with reference to the square of the standard reference sound pressure (PO) of 20 micropascals and a reference duration of one second.
 (2) This unit is defined by the expression:
-EC28SE91.118
 Where TO is the reference integration time of one second and (t2-t1) is the integration time interval.
 (3) The integral equation of paragraph (b)(2) of this section can also be expressed as:
-EC28SE91.119
 Where LA(t) is the time varying A-weighted sound level.
 (4) The integration time (t2-t1) in practice shall not be less than the time interval during which LA(t) first rises to within 10 dB(A) of its maximum value (LAMAX) and last falls below 10 dB(A) of its maximum value.
 (5) The SEL may be approximated by the following expression:
