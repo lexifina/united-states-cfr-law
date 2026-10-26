@@ -43,7 +43,6 @@ b. Record dwell angle and open-circuit output voltage at 300 and 500 distributor
 c. Insert the replacement part in the test system and repeat the observations per b above under identical test conditions.
 d. The data observed with the replacement part in the system must meet the following criteria:
 (1) The dwell angle change: Not to exceed that of the original equipment by more than ±2° at all measured rpm intervals.
-EC01MY92.109
 (2) The open circuit output voltage (M-3): Not less than 90% of the OE breaker point assembly at any measured rpm.
 e. Repeat step c above at −40 °C (−40 °F) and 100 °C (212 °F).
 f. The breaker points shall operate without evidence of point bounce at all test speeds and temperatures and shall operate easily without binding when operated manually.
@@ -111,7 +110,6 @@ c. Install the replacement coil to be tested and repeat step b. above.
 d. The replacement coil shall have an open-circuit output voltage (M-3) at least 90% of the OE coil output voltage and a rise time not to exceed 110% of original equipment coil at each distributor test speed.
 2. Durability Procedure
 a. Install the replacement ignition coil in the ignition system using the applicable rotor, cap, capacitor, breaker points, and primary resistor.
-EC01MY92.110
 b. Operate the circuit with a regulated power supply of 14.0 ±.5 volts DC connected to the primary at an ambient temperature of 70 °C (158 °F) at 1750 ±50 distributor rpm for a duration of 200 hours. After each 50 hour interval, run the distributor for 5 minutes with one open-circuit spark gap instead of a 12KV gap.
 c. The ignition coil shall perform throughout the test without any evidence of coil failure which would result in the loss of the spark in the 12 KV spark gap.
 d. Repeat Step 1.c. above. The open-circuit output voltage must be at least 90% of that measured in 1.c.
