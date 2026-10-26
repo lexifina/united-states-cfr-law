@@ -91,9 +91,8 @@ If you make the deposit in person to one of our employees, funds from the follow
 If you do not make your deposit in person to one of our employees (for example, if you mail the deposit), funds from these deposits will be available on the second business day after the day we receive your deposit.
 Other Check Deposits
 To find out when funds from other check deposits will be available, look at the first four digits of the routing number on the check:
-ER24MR97.000
 Some checks are marked "payable through" and have a four-or nine-digit number nearby. For these checks, use this four-digit number (or the first four digits of the nine-digit number), not the routing number on the bottom of the check, to determine if these checks are local or nonlocal. Once you have determined the first four digits of the routing number (1234 in the examples above), the following chart will show you when funds from the check will be available:
-First four digits from routingnumber | When funds are available | When funds are available if a deposit is made on a Monday
+First four digits from routing number | When funds are available | When funds are available if a deposit is made on a Monday
 [local numbers] | $100 on the first business day after the day of your deposit | Tuesday.
 | Remaining funds on the second business day after the day of your deposit | Wednesday.
 All other numbers | $100 on the first business day after the day of your deposit | Tuesday.
@@ -132,7 +131,6 @@ If you make the deposit in person to one of our employees, funds from the follow
 If you do not make your deposit in person to one of our employees (for example, if you mail the deposit), funds from these deposits will be available on the second business day after the day we receive your deposit.
 Other Check Deposits
 The delay for other check deposits depends on whether the check is a local or a nonlocal check. To see whether a check is a local or a nonlocal check, look at the routing number on the check:
-ER17SE97.000
 If the first four digits of the routing number (1234 in the examples above) are (list of local numbers), then the check is a local check. Otherwise, the check is a nonlocal check. Some checks are marked "payable through" and have a four- or nine-digit number nearby. For these checks, use the four-digit number (or the first four digits of the nine-digit number), not the routing number on the bottom of the check, to determine if these checks are local or nonlocal. Our policy is to make funds from local and nonlocal checks available as follows.
 1. Local checks. The first $100 from a deposit of local checks will be available on the first business day after the day of your deposit. The remaining funds will be available on the second business day after the day of your deposit.
 For example, if you deposit a local check of $700 on a Monday, $100 of the deposit is available on Tuesday. The remaining $600 is available on Wednesday.
