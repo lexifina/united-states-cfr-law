@@ -45,5 +45,4 @@ Qout = PF + PA (3,412 Btu/kWh)
 where:
 PF = as defined in 2.2 of this appendix in Btu/hr
 PA = as defined in 2.1 of this appendix in Btu/hr
-EC04OC91.002
 (Energy Policy and Conservation Act, Pub. L. 94-163, as amended by Pub. L. 94-385; Federal Energy Administration Act of 1974, Pub. L. 93-275, as amended by Pub. L. 94-385; Department of Energy Organization Act, Pub. L. 95-91; E.O. 11790, 39 FR 23185)

@@ -30,10 +30,9 @@ Testing conditions shall be as specified in sections 3.1 through 3.6.3 of AHAM A
 Test instruments shall be as specified in section 4 of AHAM AC-7-2022, including the applicable provisions of sections 4.4.1 through 4.4.3 of IEC 62301.
 5. Active Mode CADR and Power Measurement
 Measurement of smoke CADR, dust CADR, and pollen CADR shall be as specified in sections 5 through 7 of AHAM AC-1-2020, respectively. Measurement of active mode power shall be as specified in sections 5.3 through 5.7.4 of AHAM AC-7-2022, including the applicable provisions of sections 5.2.5 and 6.2.5 of AHAM AC-1-2020 as referenced in section 5.7.1 of AHAM AC-7-2022. Additionally, the following requirement is also applicable:
-5.1. Calculation of PM 2.5 CADR.
-5.1.1 PM 2.5 CADR should be calculated as specified in section 2.9 of AHAM AC-7-2022.
-5.1.2. For determining compliance only with the standards specified in § 430.32(ee)(1), PM 2.5 CADR may alternately be calculated using the smoke CADR and dust CADR values determined according to Sections 5 and 6, respectively, of AHAM AC-1-2020, according to the following equation:
-ER11AP23.003
+5.1. Calculation of PM2.5 CADR.
+5.1.1 PM2.5 CADR should be calculated as specified in section 2.9 of AHAM AC-7-2022.
+5.1.2. For determining compliance only with the standards specified in § 430.32(ee)(1), PM2.5 CADR may alternately be calculated using the smoke CADR and dust CADR values determined according to Sections 5 and 6, respectively, of AHAM AC-1-2020, according to the following equation:
 6. Standby Mode Power Measurement
 Standby mode power consumption shall be measured as specified in section 6 of AHAM AC-7-2022, including the applicable provisions of section 5.3 of IEC 62301.
 7. Total Energy Calculation

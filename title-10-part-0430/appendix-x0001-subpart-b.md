@@ -67,9 +67,6 @@ Reactivation air means the air drawn from unconditioned space to remove moisture
 3.1.2.3 Control settings. Follow the control settings instructions in section 5.5 of AHAM DH-1-2022.
 3.1.2.4 Run-in period. Perform a single run-in period during which the compressor operates for a cumulative total of at least 24 hours prior to dehumidification mode testing.
 3.1.3 Ducting for whole-home dehumidifiers. Cover and seal with tape any port designed for intake of air from outside or unconditioned space, other than for supplying reactivation air for refrigerant-desiccant dehumidifiers. Use only ducting constructed of galvanized mild steel and with a 10-inch diameter. Position inlet and outlet ducts either horizontally or vertically to accommodate the default dehumidifier port orientation. Install all ducts with the axis of the section interfacing with the dehumidifier perpendicular to plane of the collar to which each is attached. If manufacturer-recommended collars do not measure 10 inches in diameter, use transitional pieces to connect the ducts to the collars. The transitional pieces must not contain any converging element that forms an angle with the duct axis greater than 7.5 degrees or a diverging element that forms an angle with the duct axis greater than 3.5 degrees. Install mechanical throttling devices in each outlet duct consistent with Figure 1 and Figure 3 to adjust the external static pressure and in the inlet reactivation air duct for a refrigerant-desiccant dehumidifier. Cover the ducts with thermal insulation having a minimum R value of 6 h-ft 2 − °F/Btu (1.1 m 2 − K/W). Seal seams and edges with tape.
-ER31JY15.007
-ER31JY15.008
-ER31JY15.009
 3.1.4 Recording and rounding. When testing either a portable dehumidifier or a whole-home dehumidifier, record measurements at the resolution of the test instrumentation. Record measurements for portable dehumidifiers and whole-home dehumidifiers other than refrigerant-desiccant dehumidifiers at intervals no greater than 10 minutes. Record measurements for refrigerant-desiccant dehumidifiers at intervals no greater than 1 minute. Round off calculations to the same number of significant digits as the previous step. Round the final product capacity, energy factor and integrated energy factor values to two decimal places, and for whole-home dehumidifiers, round the final product case volume to one decimal place.
 3.2 Inactive mode and off mode.
 3.2.1 Installation requirements. For the inactive mode and off mode testing, install the dehumidifier in accordance with Section 5, Paragraph 5.2 of IEC 62301 (incorporated by reference, see § 430.3), disregarding the provisions regarding batteries and the determination, classification, and testing of relevant modes.
@@ -88,7 +85,8 @@ Portable dehumidifiers | 65 ± 2.0 | 56.6 ± 1.0 | 60 ± 2
 Whole-home dehumidifiers | 73 ± 2.0 | 63.6 ± 1.0 | 60 ± 2
 When using relative humidity and dry-bulb temperature sensors, for dehumidifiers with multiple process air intake grilles, average the measured relative humidities and average the measured dry-bulb temperatures to determine the overall intake air conditions.
 Table 2 to Paragraph 4.1.1.—Relative Humidity as a Function of Dry-Bulb and Wet-Bulb Temperatures for Portable Dehumidifiers
-Wet-bulb temperature (°F) | Dry-bulb temperature (°F) | 64.5 | 64.6 | 64.7 | 64.8 | 64.9 | 65 | 65.1 | 65.2 | 65.3 | 65.4 | 65.5
+Wet-bulb temperature (°F) | Dry-bulb temperature (°F)
+64.5 | 64.6 | 64.7 | 64.8 | 64.9 | 65 | 65.1 | 65.2 | 65.3 | 65.4 | 65.5
 56.3 | 60.32 | 59.94 | 59.57 | 59.17 | 58.8 | 58.42 | 58.04 | 57.67 | 57.3 | 56.93 | 56.56
 56.4 | 60.77 | 60.38 | 60 | 59.62 | 59.24 | 58.86 | 58.48 | 58.11 | 57.73 | 57.36 | 56.99
 56.5 | 61.22 | 60.83 | 60.44 | 60.06 | 59.68 | 59.3 | 58.92 | 58.54 | 58.17 | 57.8 | 57.43
@@ -97,7 +95,8 @@ Wet-bulb temperature (°F) | Dry-bulb temperature (°F) | 64.5 | 64.6 | 64.7 | 6
 56.8 | 62.56 | 62.17 | 61.78 | 61.39 | 61 | 60.62 | 60.24 | 59.86 | 59.48 | 59.1 | 58.73
 56.9 | 63.01 | 62.62 | 62.23 | 61.84 | 61.45 | 61.06 | 60.68 | 60.3 | 59.92 | 59.54 | 59.16
 Table 3 to Paragraph 4.1.1.—Relative Humidity as a Function of Dry-Bulb and Wet-Bulb Temperatures for Whole-Home Dehumidifiers
-Wet-bulb temperature (°F) | Dry-bulb temperature (°F) | 72.5 | 72.6 | 72.7 | 72.8 | 72.9 | 73 | 73.1 | 73.2 | 73.3 | 73.4 | 73.5
+Wet-bulb temperature (°F) | Dry-bulb temperature (°F)
+72.5 | 72.6 | 72.7 | 72.8 | 72.9 | 73 | 73.1 | 73.2 | 73.3 | 73.4 | 73.5
 63.3 | 60.59 | 60.26 | 59.92 | 59.59 | 59.26 | 58.92 | 58.6 | 58.27 | 57.94 | 57.62 | 57.3
 63.4 | 60.98 | 60.64 | 60.31 | 59.75 | 59.64 | 59.31 | 58.98 | 58.65 | 58.32 | 58 | 57.67
 63.5 | 61.37 | 61.03 | 60.7 | 60.36 | 60.02 | 59.69 | 59.36 | 59.03 | 58.7 | 58.38 | 58.05
@@ -116,101 +115,91 @@ Wet-bulb temperature (°F) | Dry-bulb temperature (°F) | 72.5 | 72.6 | 72.7 | 7
 (ii) Use the recorded relative humidities, not the tables in section 4.1.1 of this appendix, to determine average relative humidity.
 4.2 Off-cycle mode. Follow requirements for test measurement in off-cycle mode of operation in accordance with section 9.3.2 of AHAM DH-1-2022.
 4.3 Inactive and off mode. Follow requirements for test measurement in inactive and off modes of operation in accordance with section 9.3.1 of AHAM DH-1-2022.
-4.4 Product case volume for whole-home dehumidifiers. Measure the maximum case length, D L, in inches, the maximum case width, D W, in inches, and the maximum height, D H, in inches, exclusive of any duct collar attachments or other external components.
+4.4 Product case volume for whole-home dehumidifiers. Measure the maximum case length, DL, in inches, the maximum case width, DW, in inches, and the maximum height, DH, in inches, exclusive of any duct collar attachments or other external components.
 5. Calculation of Derived Results From Test Measurements
 5.1 Corrected relative humidity. Calculate the average relative humidity, for portable and whole-home dehumidifiers, corrected for barometric pressure variations as:
-H c,p = H t × [1 + 0.0083 × (29.921 − B)]
-H c,wh = H t × [1 + 0.0072 × (29.921 − B)]
+Hc,p = Ht × [1 + 0.0083 × (29.921 − B)]
+Hc,wh = Ht × [1 + 0.0072 × (29.921 − B)]
 Where:
-H c,p = portable dehumidifier average relative humidity from the test data in percent, corrected to the standard barometric pressure of 29.921 in. mercury (Hg);
-H c,wh = whole-home dehumidifier average relative humidity from the test data in percent, corrected to the standard barometric pressure of 29.921 in. Hg;
-H t = average relative humidity from the test data in percent; and
+Hc,p = portable dehumidifier average relative humidity from the test data in percent, corrected to the standard barometric pressure of 29.921 in. mercury (Hg);
+Hc,wh = whole-home dehumidifier average relative humidity from the test data in percent, corrected to the standard barometric pressure of 29.921 in. Hg;
+Ht = average relative humidity from the test data in percent; and
 B = average barometric pressure during the test period in in. Hg.
 5.2 Corrected product capacity. Calculate the product capacity, for portable and whole-home dehumidifiers, corrected for variations in temperature and relative humidity as:
-C r,p = C t + 0.0352 × C t × (65 − T t) + 0.0169 × C t × (60 − H C,p)
-C r,wh = C t + 0.0344 × C t × (73 − T t) + 0.017 × C t × (60 − H C,wh)
+Cr,p = Ct + 0.0352 × Ct × (65 − Tt) + 0.0169 × Ct × (60 − HC,p)
+Cr,wh = Ct + 0.0344 × Ct × (73 − Tt) + 0.017 × Ct × (60 − HC,wh)
 Where:
-C r,p = portable dehumidifiers product capacity in pints/day, corrected to standard rating conditions of 65 °F dry-bulb temperature and 60 percent relative humidity;
-C r,wh = whole-home dehumidifier product capacity in pints/day, corrected to standard rating conditions of 73 °F dry-bulb temperature and 60 percent relative humidity;
-C t = product capacity determined from test data in pints/day, as measured in section 4.1.1 of this appendix for portable and refrigerant-only whole-home dehumidifiers or calculated in section 5.6 of this appendix for refrigerant-desiccant whole-home dehumidifiers;
-T t = average dry-bulb temperature during the test period in °F;
-H C,p = portable dehumidifier corrected relative humidity in percent, as determined in section 5.1 of this appendix; and
-H C,wh = whole-home dehumidifier corrected relative humidity in percent, as determined in section 5.1 of this appendix.
-5.3 Annual combined low-power mode energy consumption. Calculate the annual combined low-power mode energy consumption for dehumidifiers, E TLP, expressed in kWh per year:
-E TLP = [(P IO × S IO) + (P OC × S OC)] × K
+Cr,p = portable dehumidifiers product capacity in pints/day, corrected to standard rating conditions of 65 °F dry-bulb temperature and 60 percent relative humidity;
+Cr,wh = whole-home dehumidifier product capacity in pints/day, corrected to standard rating conditions of 73 °F dry-bulb temperature and 60 percent relative humidity;
+Ct = product capacity determined from test data in pints/day, as measured in section 4.1.1 of this appendix for portable and refrigerant-only whole-home dehumidifiers or calculated in section 5.6 of this appendix for refrigerant-desiccant whole-home dehumidifiers;
+Tt = average dry-bulb temperature during the test period in °F;
+HC,p = portable dehumidifier corrected relative humidity in percent, as determined in section 5.1 of this appendix; and
+HC,wh = whole-home dehumidifier corrected relative humidity in percent, as determined in section 5.1 of this appendix.
+5.3 Annual combined low-power mode energy consumption. Calculate the annual combined low-power mode energy consumption for dehumidifiers, ETLP, expressed in kWh per year:
+ETLP = [(PIO × SIO) + (POC × SOC)] × K
 Where:
-P IO = P IA, dehumidifier inactive mode power, or P OM, dehumidifier off mode power in watts, as measured in section 4.3 of this appendix;
-P OC = dehumidifier off-cycle mode power in watts, as measured in section 4.2 of this appendix;
-S IO = 1,840.5 dehumidifier inactive mode or off mode annual hours;
-S OC = 1,840.5 dehumidifier off-cycle mode annual hours; and
+PIO = PIA, dehumidifier inactive mode power, or POM, dehumidifier off mode power in watts, as measured in section 4.3 of this appendix;
+POC = dehumidifier off-cycle mode power in watts, as measured in section 4.2 of this appendix;
+SIO = 1,840.5 dehumidifier inactive mode or off mode annual hours;
+SOC = 1,840.5 dehumidifier off-cycle mode annual hours; and
 K = 0.001 kWh/Wh conversion factor for watt-hours to kWh.
 5.4 Integrated energy factor. Calculate the integrated energy factor, IEF, in L/kWh, rounded to two decimal places, according to the following:
-ER26JY23.017
 Where:
-C r = corrected product capacity in pints per day, as determined in section 5.2 of this appendix;
+Cr = corrected product capacity in pints per day, as determined in section 5.2 of this appendix;
 2 = dehumidification mode test duration in hours;
-E DM = energy consumption during the 2-hour dehumidification mode test in kWh, as measured in section 4.1 of this appendix;
-E TLP = annual combined low-power mode energy consumption in kWh per year, as calculated in section 5.3 of this appendix;
-1,095 = dehumidification mode annual hours, used to convert E TLP to combined low-power mode energy consumption per hour of dehumidification mode;
+EDM = energy consumption during the 2-hour dehumidification mode test in kWh, as measured in section 4.1 of this appendix;
+ETLP = annual combined low-power mode energy consumption in kWh per year, as calculated in section 5.3 of this appendix;
+1,095 = dehumidification mode annual hours, used to convert ETLP to combined low-power mode energy consumption per hour of dehumidification mode;
 1.04 = the density of water in pounds per pint;
 0.454 = the liters of water per pound of water; and
 24 = the number of hours per day.
 5.5 Absolute humidity for refrigerant-desiccant dehumidifiers. Calculate the absolute humidity of the air entering and leaving the refrigerant-desiccant dehumidifier in the process air stream, expressed in pounds of water per cubic foot of air, according to the following set of equations.
 5.5.1 Temperature in Kelvin. The air dry-bulb temperature, in Kelvin, is:
-ER31JY15.011
 Where:
-T F = the measured dry-bulb temperature of the air in °F.
+TF = the measured dry-bulb temperature of the air in °F.
 5.5.2 Water saturation pressure. The water saturation pressure, expressed in kilopascals (kPa), is:
-ER31JY15.012
 Where:
-T K = the calculated dry-bulb temperature of the air in K, calculated in section 5.5.1 of this appendix.
+TK = the calculated dry-bulb temperature of the air in K, calculated in section 5.5.1 of this appendix.
 5.5.3 Vapor pressure. The water vapor pressure, expressed in kilopascals (kPa), is:
-ER31JY15.013
 Where:
 RH = percent relative humidity during the rating test period; and
-P ws = water vapor saturation pressure in kPa, calculated in section 5.5.2 of this appendix.
+Pws = water vapor saturation pressure in kPa, calculated in section 5.5.2 of this appendix.
 5.5.4 Mixing humidity ratio. The mixing humidity ratio, the mass of water per mass of dry air, is:
-ER31JY15.014
 Where:
-P w = water vapor pressure in kPa, calculated in section 5.5.3 of this appendix;
+Pw = water vapor pressure in kPa, calculated in section 5.5.3 of this appendix;
 P = measured ambient barometric pressure in in. Hg;
 3.386 = the conversion factor from in. Hg to kPa; and
 0.62198 = the ratio of the molecular weight of water to the molecular weight of dry air.
 5.5.5 Specific volume. The specific volume, expressed in feet cubed per pounds of dry air, is:
-ER31JY15.015
 Where:
-T K = dry-bulb temperature of the air in K, as calculated in section 5.5.1 of this appendix;
+TK = dry-bulb temperature of the air in K, as calculated in section 5.5.1 of this appendix;
 P = measured ambient barometric pressure in in. Hg;
-P w = water vapor pressure in kPa, calculated in section 5.5.3 of this appendix;
+Pw = water vapor pressure in kPa, calculated in section 5.5.3 of this appendix;
 0.287055 = the specific gas constant for dry air in kPa times cubic meter per kg per K;
 3.386 = the conversion factor from in. Hg to kPa; and
 16.016 = the conversion factor from cubic meters per kilogram to cubic feet per pound.
 5.5.6 Absolute humidity. The absolute humidity, expressed in pounds of water per cubic foot of air, is:
-ER31JY15.016
 Where:
 HR = the mixing humidity ratio, the mass of water per mass of dry air, as calculated in section 5.5.4 of this appendix; and
 ν = the specific volume in cubic feet per pound of dry air, as calculated in section 5.5.5 of this appendix.
 5.6 Product capacity for refrigerant-desiccant dehumidifiers. The weight of water removed during the test period, W, expressed in pounds is:
-ER31JY15.017
 Where:
 n = number of samples during the test period in section 4.1.1.2 of this appendix;
-AH I,i = absolute humidity of the process air on the inlet side of the unit in pounds of water per cubic foot of dry air, as calculated for sample i in section 5.5.6 of this appendix;
-X I,i = volumetric flow rate of the process air on the inlet side of the unit in cubic feet per minute, measured for sample i in section 4.1.1.2 of this appendix. Calculate the volumetric flow rate in accordance with Section 7.3, "Fan airflow rate at test conditions," of ANSI/AMCA 210 (incorporated by reference, see § 430.3);
-AH O,i = absolute humidity of the process air on the outlet side of the unit in pounds of water per cubic foot of dry air, as calculated for sample i in section 5.5.6 of this appendix;
-X O,i = volumetric flow rate of the process air on the outlet side of the unit in cubic feet per minute, measured for sample i in section 4.1.1.2 of this appendix. Calculate the volumetric flow rate in accordance with Section 7.3, "Fan airflow rate at test conditions," of ANSI/AMCA 210 (incorporated by reference, see § 430.3);
+AHI,i = absolute humidity of the process air on the inlet side of the unit in pounds of water per cubic foot of dry air, as calculated for sample i in section 5.5.6 of this appendix;
+XI,i = volumetric flow rate of the process air on the inlet side of the unit in cubic feet per minute, measured for sample i in section 4.1.1.2 of this appendix. Calculate the volumetric flow rate in accordance with Section 7.3, "Fan airflow rate at test conditions," of ANSI/AMCA 210 (incorporated by reference, see § 430.3);
+AHO,i = absolute humidity of the process air on the outlet side of the unit in pounds of water per cubic foot of dry air, as calculated for sample i in section 5.5.6 of this appendix;
+XO,i = volumetric flow rate of the process air on the outlet side of the unit in cubic feet per minute, measured for sample i in section 4.1.1.2 of this appendix. Calculate the volumetric flow rate in accordance with Section 7.3, "Fan airflow rate at test conditions," of ANSI/AMCA 210 (incorporated by reference, see § 430.3);
 t = time interval in seconds between samples, with a maximum of 60; and
 60 = conversion from minutes to seconds.
-The capacity, C t, expressed in pints/day, is:
-ER31JY15.018
+The capacity, Ct, expressed in pints/day, is:
 Where:
 24 = number of hours per day;
 1.04 = density of water in pounds per pint; and
 T = total test period time in hours.
-Then correct the product capacity, C r,wh, according to section 5.2 of this appendix.
+Then correct the product capacity, Cr,wh, according to section 5.2 of this appendix.
 5.7 Product case volume for whole-home dehumidifiers. The product case volume, V, in cubic feet, is:
-ER31JY15.019
 Where:
-D L = product case length in inches, measured in section 4.4 of this appendix;
-D W = product case width in inches, measured in section 4.4 of this appendix;
-D H = product case height in inches, measured in section 4.4 of this appendix; and
+DL = product case length in inches, measured in section 4.4 of this appendix;
+DW = product case width in inches, measured in section 4.4 of this appendix;
+DH = product case height in inches, measured in section 4.4 of this appendix; and
 1,728 = conversion from cubic inches to cubic feet.

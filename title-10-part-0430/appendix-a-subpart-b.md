@@ -41,7 +41,8 @@ Determine the annual energy use ("AEU") in kilowatt-hours per year (kWh/yr), for
 (i) For the purposes of comparing compartment temperatures with standardized temperatures, as described in section 5.6 of HRF-1-2019, the freezer compartment temperature shall be as specified in section 5.8.1.2.5 of HRF-1-2019, the fresh food compartment temperature shall be as specified in section 5.8.1.2.4 of HRF-1-2019, and the cooler compartment temperature shall be as specified in section 5.8.1.2.6 of HRF-1-2019.
 (ii) In place of Table 5-1 in HRF-1-2019, refer to Table 1 of this section.
 Table 1—Temperature Settings: General Chart for All Products
-First test | Setting | Results | Second test | Setting | Results | Energy calculation based on:
+First test | Second test | Energy calculation based on:
+Setting | Results | Setting | Results
 Mid for all Compartments | All compartments below standard reference temperature | Warmest for all Compartments | All compartments below standard reference temperature | Second Test Only.
 | | | One or more compartments above standard reference temperature | First and Second Test.
 | One or more compartments above standard reference temperature | Coldest for all Compartments | All compartments below standard reference temperature | First and Second Test.
@@ -50,7 +51,6 @@ Mid for all Compartments | All compartments below standard reference temperature
 5.3. Test Cycle Energy Calculations
 Section 5.8.2, Energy Consumption, of HRF-1-2019 applies to this test procedure, except as follows:
 (a) In place of section 5.8.2.1.2 of HRF-1-2019, use the calculations provided in this section. For units with long-time automatic defrost control using the two-part test period, the test cycle energy shall be calculated as:
-ER12OC21.001
 Where:
 ET = test cycle energy expended in kilowatt-hours per day;
 1440 = conversion factor to adjust to a 24-hour average use cycle in minutes per day;
@@ -62,56 +62,51 @@ CT = defrost timer run time or compressor run time between defrosts in hours req
 12 = factor to adjust for a 50-percent run time of the compressor in hours per day.
 (b) In place of sections 5.8.2.1.3 and 5.8.2.1.4 of HRF-1-2019, use the calculations provided in this section. For units with variable defrost control, the test cycle energy shall be calculated as set forth in section 5.3(a) of this appendix with the following addition:
 CT shall be calculated equivalent to:
-ER12OC21.002
 Where:
-CT L = the least or shortest compressor run time between defrosts used in the variable defrost control algorithm (greater than or equal to 6 but less than or equal to 12 hours), or the shortest compressor run time between defrosts observed for the test (if it is shorter than the shortest run time used in the control algorithm and is greater than 6 hours), or 6 hours (if the shortest observed run time is less than 6 hours), in hours rounded to the nearest tenth of an hour;
-CT M = the maximum compressor run time between defrosts in hours rounded to the nearest tenth of an hour (greater than CT L but not more than 96 hours);
-For variable defrost models with no values of CT L and CT M in the algorithm, the default values of 6 and 96 shall be used, respectively.
+CTL = the least or shortest compressor run time between defrosts used in the variable defrost control algorithm (greater than or equal to 6 but less than or equal to 12 hours), or the shortest compressor run time between defrosts observed for the test (if it is shorter than the shortest run time used in the control algorithm and is greater than 6 hours), or 6 hours (if the shortest observed run time is less than 6 hours), in hours rounded to the nearest tenth of an hour;
+CTM = the maximum compressor run time between defrosts in hours rounded to the nearest tenth of an hour (greater than CTL but not more than 96 hours);
+For variable defrost models with no values of CTL and CTM in the algorithm, the default values of 6 and 96 shall be used, respectively.
 F = ratio of per day energy consumption in excess of the least energy and the maximum difference in per-day energy consumption and is equal to 0.20.
 (c) In place of section 5.8.2.1.5 of HRF-1-2019, use the calculations provided in this section. For multiple-compressor products with automatic defrost, the two-part test method in section 5.7.2.1 of HRF-1-2019 shall be used, and the test cycle energy shall be calculated as:
-ER12OC21.003
 Where:
 ET, 1440, 12, and K are defined in section 5.3(a) of this appendix;
 EP1, and T1 are defined in section 5.3(a) of this appendix;
 i = a subscript variable that can equal 1, 2, or more that identifies each individual compressor system that has automatic defrost;
 D = the total number of compressor systems with automatic defrost;
-EP2 i = energy expended in kilowatt-hours during the second part of the test for compressor system i;
-T2 i = length of time in minutes of the second part of the test for compressor system i;
-CT i = compressor run time between defrosts of compressor system i, rounded to the nearest tenth of an hour, for long-time automatic defrost control equal to a fixed time in hours, and for variable defrost control equal to:
-ER12OC21.004
+EP2i = energy expended in kilowatt-hours during the second part of the test for compressor system i;
+T2i = length of time in minutes of the second part of the test for compressor system i;
+CTi = compressor run time between defrosts of compressor system i, rounded to the nearest tenth of an hour, for long-time automatic defrost control equal to a fixed time in hours, and for variable defrost control equal to:
 Where:
-CT L,i = for compressor system i, the shortest cumulative compressor-on time between defrost heater-on events used in the variable defrost control algorithm (CT L for the compressor system with the longest compressor run time between defrosts must be greater than or equal to 6 but less than or equal to 12 hours), in hours rounded to the nearest tenth of an hour;
-CT M,i = for compressor system i, the maximum compressor-on time between defrost heater-on events used in the variable defrost control algorithm (greater than CT L,i but not more than 96 hours), in hours rounded to the nearest tenth of an hour;
-For defrost cycle types with no values of CT L and CT M in the algorithm, the default values of 6 and 96 shall be used, respectively.
+CTL,i = for compressor system i, the shortest cumulative compressor-on time between defrost heater-on events used in the variable defrost control algorithm (CTL for the compressor system with the longest compressor run time between defrosts must be greater than or equal to 6 but less than or equal to 12 hours), in hours rounded to the nearest tenth of an hour;
+CTM,i = for compressor system i, the maximum compressor-on time between defrost heater-on events used in the variable defrost control algorithm (greater than CTL,i but not more than 96 hours), in hours rounded to the nearest tenth of an hour;
+For defrost cycle types with no values of CTL and CTM in the algorithm, the default values of 6 and 96 shall be used, respectively.
 F = ratio of per day energy consumption in excess of the least energy and the maximum difference in per-day energy consumption and is equal to 0.20.
 (d) In place of section 5.8.2.1.6 of HRF-1-2019, use the calculations provided in this section. For units with long-time automatic defrost control and variable defrost control with multiple defrost cycle types, the two-part test method in section 5.7.2.1 of HRF-1-2019 shall be used, and the test cycle energy shall be calculated as:
-ER12OC21.005
 Where:
 ET, 1440, 12, and K are defined in section 5.3(a) of this appendix;
 EP1, and T1 are defined in section 5.3(a) of this appendix;
 i = a subscript variable that can equal 1, 2, or more that identifies the distinct defrost cycle types applicable for the product;
 D = the total number of defrost cycle types;
-EP2 i = energy expended in kilowatt-hours during the second part of the test for defrost cycle type i;
-T2 i = length of time in minutes of the second part of the test for defrost cycle type i;
-CT i = defrost timer run time or compressor run time between instances of defrost cycle type i, rounded to the nearest tenth of an hour;
+EP2i = energy expended in kilowatt-hours during the second part of the test for defrost cycle type i;
+T2i = length of time in minutes of the second part of the test for defrost cycle type i;
+CTi = defrost timer run time or compressor run time between instances of defrost cycle type i, rounded to the nearest tenth of an hour;
 12 = factor to adjust for a 50-percent run time of the compressor in hours per day.
 (i) For long-time automatic defrost control, CTi shall be equal to a fixed time in hours rounded to the nearest tenth of an hour. For cases in which there are more than one fixed CT value for a given defrost cycle type, an average fixed CT value shall be selected for this cycle type.
 (ii) For variable defrost control, CTi shall be calculated equivalent to:
-ER12OC21.006
 Where:
-CT L,i = the least or shortest compressor run time between instances of the defrost cycle type i in hours rounded to the nearest tenth of an hour (CT L for the defrost cycle type with the longest compressor run time between defrosts must be greater than or equal to 6 but less than or equal to 12 hours);
-CT M,i = the maximum compressor run time between instances of defrost cycle type i in hours rounded to the nearest tenth of an hour (greater than CT L,i but not more than 96 hours);
-For cases in which there are more than one CT M and/or CT L value for a given defrost cycle type, an average of the CT M and CT L values shall be selected for this defrost cycle type. For defrost cycle types with no values of CT L and CT M in the algorithm, the default values of 6 and 96 shall be used, respectively.
+CTL,i = the least or shortest compressor run time between instances of the defrost cycle type i in hours rounded to the nearest tenth of an hour (CTL for the defrost cycle type with the longest compressor run time between defrosts must be greater than or equal to 6 but less than or equal to 12 hours);
+CTM,i = the maximum compressor run time between instances of defrost cycle type i in hours rounded to the nearest tenth of an hour (greater than CTL,i but not more than 96 hours);
+For cases in which there are more than one CTM and/or CTL value for a given defrost cycle type, an average of the CTM and CTL values shall be selected for this defrost cycle type. For defrost cycle types with no values of CTL and CTM in the algorithm, the default values of 6 and 96 shall be used, respectively.
 F = ratio of per day energy consumption in excess of the least energy and the maximum difference in per-day energy consumption and is equal to 0.20.
 5.4. Icemaker Energy Use
 (a) For refrigerators and refrigerator-freezers: To demonstrate compliance with the energy conservation standards at § 430.32(a) applicable to products manufactured on or after September 15, 2014, but before the compliance date of any amended standards published after January 1, 2022, IET, expressed in kilowatt-hours per cycle, equals 0.23 for a product with one or more automatic icemakers and otherwise equals 0 (zero). To demonstrate compliance with any amended standards published after January 1, 2022, IET, expressed in kilowatt-hours per cycle, is as defined in section 5.9.2.1 of HRF-1-2019.
 (b) For miscellaneous refrigeration products: To demonstrate compliance with the energy conservation standards at § 430.32(aa) applicable to products manufactured on or after October 28, 2019, IET, expressed in kilowatt-hours per cycle, equals 0.23 for a product with one or more automatic icemakers and otherwise equals 0 (zero).
 5.5. Triangulation Method
-If the three-point interpolation method of section 5.2(b) of this appendix is used for setting temperature controls, the average per- cycle energy consumption shall be defined as follows:
-E = E X + IET
+If the three-point interpolation method of section 5.2(b) of this appendix is used for setting temperature controls, the average per-cycle energy consumption shall be defined as follows:
+E = EX + IET
 Where:
 E is defined in section 5.9.1.1 of HRF-1-2019;
 IET is defined in section 5.4 of this appendix; and
-E X is defined and calculated as described in appendix M, section M4(a) of AS/NZS 4474.1:2007. The target temperatures t xA and t xB defined in section M4(a)(i) of AS/NZS 4474.1:2007 shall be the standardized temperatures defined in section 5.6 of HRF-1-2019.
+EX is defined and calculated as described in appendix M, section M4(a) of AS/NZS 4474.1:2007. The target temperatures txA and txB defined in section M4(a)(i) of AS/NZS 4474.1:2007 shall be the standardized temperatures defined in section 5.6 of HRF-1-2019.
 6. Test Procedure Waivers
 To the extent that the procedures contained in this appendix do not provide a means for determining the energy consumption of a basic model, a manufacturer must obtain a waiver under § 430.27 to establish an acceptable test procedure for each such basic model. Such instances could, for example, include situations where the test setup for a particular basic model is not clearly defined by the provisions of this appendix. For details regarding the criteria and procedures for obtaining a waiver, please refer to § 430.27.

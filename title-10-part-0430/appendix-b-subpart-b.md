@@ -31,7 +31,8 @@ Determine the annual energy use ("AEU") in kilowatt-hours per year (kWh/yr), for
 (a) For the purposes of comparing compartment temperatures with standardized temperatures, as described in section 5.6 of HRF-1-2019, the freezer compartment temperature shall be as specified in section 5.8.1.2.5 of HRF-1-2019.
 (b) In place of Table 5-1 in HRF-1-2019, refer to Table 1 of this section.
 Table 1—Temperature Settings for Freezers
-First test | Setting | Results | Second test | Setting | Results | Energy calculation based on:
+First test | Second test | Energy calculation based on:
+Setting | Results | Setting | Results
 Mid | Below standard reference temperature | Warmest | Below standard reference temperature | Second Test Only.
 | | | Above standard reference temperature | First and Second Test.
 | Above standard reference temperature | Coldest | Below standard reference temperature | First and Second Test.
@@ -39,7 +40,6 @@ Mid | Below standard reference temperature | Warmest | Below standard reference 
 5.3. Test Cycle Energy Calculations
 Section 5.8.2, Energy Consumption, of HRF-1-2019 applies to this test procedure, except as follows:
 (a) In place of section 5.8.2.1.2 of HRF-1-2019, use the calculations provided in this section. For units with long-time automatic defrost control using the two-part test period, the test cycle energy shall be calculated as:
-ER12OC21.007
 Where:
 ET = test cycle energy expended in kilowatt-hours per day;
 1440 = conversion factor to adjust to a 24-hour average use cycle in minutes per day;
@@ -51,11 +51,10 @@ CT = defrost timer run time or compressor run time between defrosts in hours req
 12 = factor to adjust for a 50-percent run time of the compressor in hours per day.
 (b) In place of sections 5.8.2.1.3 and 5.8.2.1.4 of HRF-1-2019, use the calculations provided in this section. For units with variable defrost control, the test cycle energy shall be calculated as set forth in section 5.3(a) of this appendix with the following addition:
 CT shall be calculated equivalent to:
-ER12OC21.008
 Where:
-CT L = the least or shortest compressor run time between defrosts used in the variable defrost control algorithm (greater than or equal to 6 but less than or equal to 12 hours), or the shortest compressor run time between defrosts observed for the test (if it is shorter than the shortest run time used in the control algorithm and is greater than 6 hours), or 6 hours (if the shortest observed run time is less than 6 hours), in hours rounded to the nearest tenth of an hour;
-CT M = the maximum compressor run time between defrosts in hours rounded to the nearest tenth of an hour (greater than CT L but not more than 96 hours);
-For variable defrost models with no values of CT L and CT M in the algorithm, the default values of 6 and 96 shall be used, respectively.
+CTL = the least or shortest compressor run time between defrosts used in the variable defrost control algorithm (greater than or equal to 6 but less than or equal to 12 hours), or the shortest compressor run time between defrosts observed for the test (if it is shorter than the shortest run time used in the control algorithm and is greater than 6 hours), or 6 hours (if the shortest observed run time is less than 6 hours), in hours rounded to the nearest tenth of an hour;
+CTM = the maximum compressor run time between defrosts in hours rounded to the nearest tenth of an hour (greater than CTL but not more than 96 hours);
+For variable defrost models with no values of CTL and CTM in the algorithm, the default values of 6 and 96 shall be used, respectively.
 F = ratio of per day energy consumption in excess of the least energy and the maximum difference in per-day energy consumption and is equal to 0.20.
 5.4. Icemaker Energy Use
 For freezers: To demonstrate compliance with the energy conservation standards at § 430.32(a) applicable to products manufactured on or after September 15, 2014, but before the compliance date of any amended standards published after January 1, 2022, IET, expressed in kilowatt-hours per cycle, equals 0.23 for a product with one or more automatic icemakers and otherwise equals 0 (zero). To demonstrate compliance with any amended standards published after January 1, 2022, IET, expressed in kilowatt-hours per cycle, is as defined in section 5.9.2.1 of HRF-1-2019.

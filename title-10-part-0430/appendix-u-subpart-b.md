@@ -1,8 +1,8 @@
 # Appendix U to Subpart B of Part 430—Uniform Test Method for Measuring the Energy Consumption of Ceiling Fans
 Note: Prior to February 13, 2023, manufacturers must make any representations with respect to the energy use or efficiency of ceiling fans as specified in section 2 of this appendix as it appeared on January 23, 2017. On or after February 13, 2023, manufacturers of ceiling fans, as specified in section 2 of this appendix, must make any representations with respect to energy use or efficiency in accordance with the results of testing pursuant to this appendix. Representations of standby power consumption for large-diameter ceiling fans including for the purpose of certification, are not required until such time as compliance is required with an energy conservation standard for standby power consumption. Upon the compliance date(s) of any energy conservation standards for large-diameter ceiling fans with a blade span greater than 24 feet, use of the applicable provisions of this test procedure to demonstrate compliance with the energy conservation standard will also be required.
 0. Incorporation by Reference
-In § 430.3, DOE incorporated by reference the entire standard for AMCA 208–18, AMCA 230–15, AMCA 230–15 TE, and IEC 62301; however, only enumerated provisions of AMCA 230–15, AMCA 230–15 TE, and IEC 62301 are applicable as follows:
-0.1. AMCA 230–15 (including corresponding sections in AMCA 230–15 TE):
+In § 430.3, DOE incorporated by reference the entire standard for AMCA 208-18, AMCA 230-15, AMCA 230-15 TE, and IEC 62301; however, only enumerated provisions of AMCA 230-15, AMCA 230-15 TE, and IEC 62301 are applicable as follows:
+0.1. AMCA 230-15 (including corresponding sections in AMCA 230-15 TE):
 (a) Section 3—Units of Measurement, as specified in section 3.4 of this appendix;
 (b) Section 4—Symbols and Subscripts; (including Table 1—Symbols and Subscripts), as specified in section 3.4 of this appendix;
 (c) Section 5—Definitions (except 5.1), as specified in section 3.4 of this appendix;
@@ -27,14 +27,16 @@ In § 430.3, DOE incorporated by reference the entire standard for AMCA 208–18
 1.7. High speed means the highest available ceiling fan speed, i.e., the fan speed corresponding to the maximum blade revolutions per minute (RPM).
 1.8. High-speed small-diameter (HSSD) ceiling fan means a small-diameter ceiling fan that is not a very-small-diameter ceiling fan, highly-decorative ceiling fan or belt-driven ceiling fan and that has a represented value of blade edge thickness, as determined in 10 CFR 429.32(a)(3)(iii), of less than 3.2 mm or a maximum represented value of tip speed, as determined in 10 CFR 429.32(a)(3)(v), greater than the applicable limit specified in the table in this definition.
 High-Speed Small-Diameter Ceiling Fan Blade and Tip Speed Criteria
-Airflow direction | Thickness (t) of edges of blades | Mm | Inch | Tip speed threshold | m/s | feet per minute
+Airflow direction | Thickness (t) of edges of blades | Tip speed threshold
+Mm | Inch | m/s | feet per minute
 Downward-only | 4.8 > t ≥ 3.2 | 3/16 > t ≥ 1/8 | 16.3 | 3,200
 Downward-only | t ≥ 4.8 | t ≥ 3/16 | 20.3 | 4,000
 Reversible | 4.8 > t ≥ 3.2 | 3/16 > t ≥ 1/8 | 12.2 | 2,400
 Reversible | t ≥ 4.8 | t ≥ 3/16 | 16.3 | 3,200
 1.9. High-speed belt-driven (HSBD) ceiling fan means a ceiling fan that is a belt-driven ceiling fan with one fan head, and that has a represented value of blade edge thickness, as determined in 10 CFR 429.32(a)(3)(iii), of less than 3.2 mm or a maximum represented value of tip speed, as determined in 10 CFR 429.32(a)(3)(v), greater than the applicable limit specified in the table in this definition.
 High-Speed Belt-Driven Ceiling Fan Blade and Tip Speed Criteria
-Airflow direction | Thickness (t) of edges of blades | Mm | Inch | Tip speed threshold | m/s | feet per minute
+Airflow direction | Thickness (t) of edges of blades | Tip speed threshold
+Mm | Inch | m/s | feet per minute
 Downward-only | 4.8 > t ≥ 3.2 | 3/16 > t ≥ 1/8 | 16.3 | 3,200
 Downward-only | t ≥ 4.8 | t ≥ 3/16 | 20.3 | 4,000
 Reversible | 4.8 > t ≥ 3.2 | 3/16 > t ≥ 1/8 | 12.2 | 2,400
@@ -56,7 +58,8 @@ Number of sensors per individual axis as determined in section 3.2.2(6) of this 
 12 | 9
 1.14. Low-speed small-diameter (LSSD) ceiling fan means a small-diameter ceiling fan that has a represented value of blade edge thickness, as determined in 10 CFR 429.32(a)(3)(iii), greater than or equal to 3.2 mm and a maximum represented value of tip speed, as determined in 10 CFR 429.32(a)(3)(v), less than or equal to the applicable limit specified in the table in this definition.
 Low-Speed Small-Diameter Ceiling Fan Blade and Tip Speed Criteria
-Airflow direction | Thickness (t) of edges of blades | Mm | Inch | Tip speed threshold | m/s | feet per minute
+Airflow direction | Thickness (t) of edges of blades | Tip speed threshold
+Mm | Inch | m/s | feet per minute
 Reversible | 4.8 > t ≥ 3.2 | 3/16 > t ≥ 1/8 | 12.2 | 2,400
 Reversible | t ≥ 4.8 | t ≥ 3/16 | 16.3 | 3,200
 1.15. Multi-head ceiling fan means a ceiling fan with more than one fan head, i.e., more than one set of rotating fan blades.
@@ -77,7 +80,6 @@ The test apparatus and test measurement used to determine energy performance dep
 (1) Locate the cross-section perpendicular to the fan blade's radial length that is at least one inch from the tip of the fan blade and for which the blade is thinnest, and
 (2) Measure at the thickest point of that cross-section within one inch from the leading edge of the fan blade.
 See Figure 1 of this appendix for an instructional schematic on the fan blade edge thickness measurement. Figure 1 depicts a ceiling fan from above. Round the measured blade edge thickness to the nearest 0.01 inch.
-ER16AU22.007
 3.1. General instructions.
 3.1.1. Record measurements at the resolution of the test instrumentation. Round off calculations to the number of significant digits present at the resolution of the test instrumentation, except for blade span, which is rounded to the nearest inch. Round the final ceiling fan efficiency value to the nearest whole number as follows:
 3.1.1.1. A fractional number at or above the midpoint between the two consecutive whole numbers shall be rounded up to the higher of the two whole numbers; or
@@ -92,11 +94,9 @@ ER16AU22.007
 (1) Make sure the transformer power is off. Hang the ceiling fan to be tested directly from the ceiling, according to the manufacturer's installation instructions. Hang all non-multi-mount ceiling fans in the fan configuration that minimizes the distance between the ceiling and the lowest point of the fan blades. Hang and test multi-mount fans in two configurations: The configuration associated the definition of a standard fan that minimizes the distance between the ceiling and the lowest point of the fan blades and the configuration associated with the definition of a hugger fan that minimizes the distance between the ceiling and the lowest point of the fan blades. For all tested configurations, measure the distance between the ceiling and the lowest point of the fan blade using an instrument with a measurement resolution of at least 0.25 inches. Round the measured distance from the ceiling to the lowest point of the fan blade to the nearest quarter inch.
 (2) Connect wires as directed by manufacturer's wiring instructions. Note: Assemble fan prior to the test; lab personnel must follow the instructions provided with the fan by the fan manufacturer. Balance the fan blade assembly in accordance with the manufacturer's instructions to avoid excessive vibration of the motor assembly (at any speed) during operation.
 (3) With the ceiling fan installed, adjust the height of the air velocity sensors to ensure the vertical distance between the lowest point on the ceiling fan blades and the air velocity sensors is 43 inches.
-(4) A single rotating sensor arm, two rotating sensor arms, or four fixed sensor arms can be used to take air velocity measurements along four axes, labeled A–D. Axes A, B, C, and D are at 0, 90, 180, and 270 degree positions. Axes A–D must be perpendicular to the four walls of the room. See Figure 2 of this appendix.
-ER16AU22.008
+(4) A single rotating sensor arm, two rotating sensor arms, or four fixed sensor arms can be used to take air velocity measurements along four axes, labeled A-D. Axes A, B, C, and D are at 0, 90, 180, and 270 degree positions. Axes A-D must be perpendicular to the four walls of the room. See Figure 2 of this appendix.
 (5) Minimize the amount of exposed wiring. Store all sensor lead wires under the floor, if possible.
 (6) Place the sensors at intervals of 4 ± 0.0625 inches along a sensor arm, starting with the first sensor at the point where the four axes intersect, aligning the sensors perpendicular to the direction of airflow. Do not touch the actual sensor prior to testing. Use enough sensors to record air delivery within a circle 8 inches larger in diameter than the blade span of the ceiling fan being tested. The experimental set-up is shown in Figure 3 of this appendix.
-ER16AU22.009
 (7) Table 1 of this appendix shows the appropriate number of sensors needed per each of four axes (including the first sensor at the intersection of the axes) for common fan sizes.
 Table 1 to Appendix U to Subpart B of Part 430: Sensor Selection Requirements
 Fan blade span * (inches) | Number of sensors
@@ -117,7 +117,7 @@ Fan blade span * (inches) | Number of sensors
 3.2.3. Multi-Head Ceiling Fan Test Set-Up.
 Hang a multi-headed ceiling fan from the ceiling such that one of the ceiling fan heads is centered directly over sensor 1 (i.e., at the intersection of axes A, B, C, and D). The distance between the lowest point any of the fan blades of the centered fan head can reach and the air velocity sensors is to be such that it is the same as for all other small-diameter ceiling fans (see Figure 3 of this appendix). If the multi-head ceiling fan has an oscillating function (i.e., the fan heads change their axis of rotation relative to the ceiling) that can be switched off, switch it off prior to taking air velocity measurements. If any multi-head fan does not come with the blades preinstalled, install fan blades only on the fan head that will be directly centered over the intersection of the sensor axes. (Even if the fan heads in a multi-head ceiling fan would typically oscillate when the blades are installed on all fan heads, the ceiling fan is subject to this test procedure if the centered fan head does not oscillate when it is the only fan head with the blades installed.) If the fan blades are preinstalled on all fan heads, measure air velocity in accordance with section 3.3 of this appendix except turn on only the centered fan head. Take the power consumption measurements separately, with the fan blades installed on all fan heads and with any oscillating function, if present, switched on.
 3.2.4. Test Set-Up for Ceiling Fans with Airflow Not Directly Downward
-For ceiling fans where the airflow is not directly downward, adjust the ceiling fan head such that the airflow is as vertical as possible prior to testing. For ceiling fans where a fully vertical orientation of airflow cannot be achieved, orient the ceiling fan (or fan head, if the ceiling fan is a multi-head fan) such that any remaining tilt is aligned along one of the four sensor axes. Instead of measuring the air velocity for only those sensors directly beneath the ceiling fan, the air velocity is to be measured at all sensors along that axis, as well as the axis oriented 180 degrees with respect to that axis. For example, if the tilt is oriented along axis A, air velocity measurements are to be taken for all sensors along the A–C axis. No measurements would need to be taken along the B–D axis in this case. All other aspects of test set-up remain unchanged from sections 3 through 3.2.2.
+For ceiling fans where the airflow is not directly downward, adjust the ceiling fan head such that the airflow is as vertical as possible prior to testing. For ceiling fans where a fully vertical orientation of airflow cannot be achieved, orient the ceiling fan (or fan head, if the ceiling fan is a multi-head fan) such that any remaining tilt is aligned along one of the four sensor axes. Instead of measuring the air velocity for only those sensors directly beneath the ceiling fan, the air velocity is to be measured at all sensors along that axis, as well as the axis oriented 180 degrees with respect to that axis. For example, if the tilt is oriented along axis A, air velocity measurements are to be taken for all sensors along the A-C axis. No measurements would need to be taken along the B-D axis in this case. All other aspects of test set-up remain unchanged from sections 3 through 3.2.2.
 3.3. Active mode test measurement for low-speed small-diameter and high-speed small-diameter ceiling fans.
 3.3.1. Test conditions to be followed when testing:
 (1) Maintain the room temperature at 70 degrees ± 5 degrees Fahrenheit and the room humidity at 50% ± 5% relative humidity during the entire test process.
@@ -158,10 +158,9 @@ Step 8: For multi-head ceiling fans, measure active (real) power consumption in 
 For ceiling fans with an oscillating function, measure active (real) power consumption in all phases simultaneously at each speed continuously for 100 seconds with the oscillating function turned on. Record the average value of the power measurement in watts (W).
 For both multi-head ceiling fans and fans with an oscillating function, repeat power consumption measurement until stable power measurements are achieved.
 3.3.3. Air Velocity Measurements for Ceiling Fans with Airflow Not Directly Downward:
-Using the number of sensors that cover the same diameter as if the airflow were directly downward, record air velocity at each speed from the same number of continuous sensors with the largest air velocity measurements. This continuous set of sensors must be along the axis that the ceiling fan tilt is directed in (and along the axis that is 180 degrees from the first axis). For example, a 42-inch fan tilted toward axis A may create the pattern of air velocity shown in Figure 4 of this appendix. As shown in Table 1 of this appendix, a 42-inch fan would normally require 7 active sensors per axis. However, because the fan is not directed downward, all sensors must record data. In this case, because the set of sensors corresponding to maximum air velocity are centered 3 sensor positions away from the sensor 1 along the A axis, substitute the air velocity at A axis sensor 4 for the average air velocity at sensor 1. Take the average of the air velocity at A axis sensors 3 and 5 as a substitute for the average air velocity at sensor 2, take the average of the air velocity at A axis sensors 2 and 6 as a substitute for the average air velocity at sensor 3, etc. Lastly, take the average of the air velocities at A axis sensor 10 and C axis sensor 4 as a substitute for the average air velocity at sensor 7. Stability criteria apply after these substitutions. For example, air velocity stability at sensor 7 are determined based on the average of average air velocity at A axis sensor 10 and C axis sensor 4 in successive measurements. Any air velocity measurements made along the B–D axis are not included in the calculation of average air velocity.
-ER16AU22.010
+Using the number of sensors that cover the same diameter as if the airflow were directly downward, record air velocity at each speed from the same number of continuous sensors with the largest air velocity measurements. This continuous set of sensors must be along the axis that the ceiling fan tilt is directed in (and along the axis that is 180 degrees from the first axis). For example, a 42-inch fan tilted toward axis A may create the pattern of air velocity shown in Figure 4 of this appendix. As shown in Table 1 of this appendix, a 42-inch fan would normally require 7 active sensors per axis. However, because the fan is not directed downward, all sensors must record data. In this case, because the set of sensors corresponding to maximum air velocity are centered 3 sensor positions away from the sensor 1 along the A axis, substitute the air velocity at A axis sensor 4 for the average air velocity at sensor 1. Take the average of the air velocity at A axis sensors 3 and 5 as a substitute for the average air velocity at sensor 2, take the average of the air velocity at A axis sensors 2 and 6 as a substitute for the average air velocity at sensor 3, etc. Lastly, take the average of the air velocities at A axis sensor 10 and C axis sensor 4 as a substitute for the average air velocity at sensor 7. Stability criteria apply after these substitutions. For example, air velocity stability at sensor 7 are determined based on the average of average air velocity at A axis sensor 10 and C axis sensor 4 in successive measurements. Any air velocity measurements made along the B-D axis are not included in the calculation of average air velocity.
 3.4. Test apparatus for large-diameter ceiling fans and high-speed belt-driven ceiling fans:
-The test apparatus and instructions for testing large-diameter ceiling fans and HSBD ceiling fans must conform to the requirements specified in Sections 3 through 7 (including Test Figure 1) of AMCA 230–15, with the following modifications:
+The test apparatus and instructions for testing large-diameter ceiling fans and HSBD ceiling fans must conform to the requirements specified in Sections 3 through 7 (including Test Figure 1) of AMCA 230-15, with the following modifications:
 3.4.1. A "ceiling fan" is defined as in 10 CFR 430.2.
 3.4.2. Test ceiling fans rated for operation with only a single- or multi-phase power supply with single- or multi-phase electricity, respectively. Test ceiling fans capable of operating with single- and multi-phase electricity with multi-phase electricity. DOE will allow manufacturers of ceiling fans capable of operating with single- and multi-phase electricity to test such fans with single-phase power and make representations of efficiency associated with both single and multi-phase electricity if a manufacturer desires to do so, but the test results in the single-phase configuration will not be valid to assess compliance with any amended energy conservation standard. All tested power supply should be at 60 Hz.
 3.4.3. Supply Voltage:
@@ -173,10 +172,10 @@ The test apparatus and instructions for testing large-diameter ceiling fans and 
 (a) 240 V if the ceiling fan's minimum rated voltage is 240 V or the lowest rated voltage range contains 240 V, or
 (b) The ceiling fan's minimum rated voltage (if a voltage range is not given) or the mean of the lowest rated voltage range, in all other cases.
 3.5. Active mode test measurement for large-diameter ceiling fans and high-speed belt-driven ceiling fans:
-(1) Test large-diameter ceiling fans and high-speed belt-driven ceiling fans in accordance with AMCA 208–18, in all phases simultaneously at:
+(1) Test large-diameter ceiling fans and high-speed belt-driven ceiling fans in accordance with AMCA 208-18, in all phases simultaneously at:
 (a) High speed, and
 (b) 40 percent or the nearest speed that is not less than 40 percent speed.
-(2) When testing at 40 percent speed for large-diameter ceiling fans that can operate over an infinite number of speeds (e.g., ceiling fans with VFDs), ensure the average measured RPM is within the greater of 1 percent of the average RPM at high speed or 1 RPM. For example, if the average measured RPM at high speed is 50 RPM, for testing at 40 percent speed, the average measured RPM should be between 19 RPM and 21 RPM. If the average measured RPM falls outside of this tolerance, adjust the ceiling fan speed and repeat the test. Calculate the airflow and measure the active (real) power consumption in all phases simultaneously in accordance with the test requirements specified in Sections 8 and 9, AMCA 230–15, with the following modifications:
+(2) When testing at 40 percent speed for large-diameter ceiling fans that can operate over an infinite number of speeds (e.g., ceiling fans with VFDs), ensure the average measured RPM is within the greater of 1 percent of the average RPM at high speed or 1 RPM. For example, if the average measured RPM at high speed is 50 RPM, for testing at 40 percent speed, the average measured RPM should be between 19 RPM and 21 RPM. If the average measured RPM falls outside of this tolerance, adjust the ceiling fan speed and repeat the test. Calculate the airflow and measure the active (real) power consumption in all phases simultaneously in accordance with the test requirements specified in Sections 8 and 9, AMCA 230-15, with the following modifications:
 3.5.1. Measure active (real) power consumption in all phases simultaneously at a point that includes all power-consuming components of the ceiling fan. If present, any additional accessories or features sold with the ceiling fan that do not relate to the ceiling fan's ability to create airflow by rotation of the fan blades (for example light kit, heater, air ionization, ultraviolet technology) are to be installed but turned off during testing. If the accessory/feature cannot be turned off, it shall be set to the lowest energy-consuming mode during testing. If the ceiling fan is offered with a default controller, test using the default controller. If multiple controllers are offered, test using the minimally functional controller.
 3.5.2. Measure active (real) power consumption in all phases simultaneously continuously at the rated voltage that represents normal operation over the time period for which the load differential test is conducted.
 3.6. Test measurement for standby power consumption.
@@ -194,24 +193,19 @@ The test apparatus and instructions for testing large-diameter ceiling fans and 
 4.1. Calculation of effective area for small-diameter ceiling fans other than high-speed belt-driven ceiling fans:
 Calculate the effective area corresponding to each sensor used in the test method for small-diameter ceiling fans other than high-speed belt-driven ceiling fans (section 3.3 of this appendix) with the following equations:
 (1) For sensor 1, the sensor located directly underneath the center of the ceiling fan, the effective width of the circle is 2 inches, and the effective area is:
-ER16AU22.011
 (2) For the sensors between sensor 1 and the last sensor used in the measurement, the effective area has a width of 4 inches. If a sensor is a distance d, in inches, from sensor 1, then the effective area is:
-ER16AU22.012
 (3) For the last sensor, the width of the effective area depends on the horizontal displacement between the last sensor and the point on the ceiling fan blades furthest radially from the center of the fan. The total area included in an airflow calculation is the area of a circle 8 inches larger in diameter than the ceiling fan blade span (as specified in section 3 of this appendix).
 Therefore, for example, for a 42-inch ceiling fan, the last sensor is 3 inches beyond the end of the ceiling fan blades. Because only the area within 4 inches of the end of the ceiling fan blades is included in the airflow calculation, the effective width of the circle corresponding to the last sensor would be 3 inches. The calculation for the effective area corresponding to the last sensor would then be:
-ER16AU22.013
 For a 46-inch ceiling fan, the effective area of the last sensor would have a width of 5 inches, and the effective area would be:
-ER16AU22.014
 4.2 Calculation of airflow and efficiency for small-diameter ceiling fans other than high-speed belt-driven ceiling fans:
 Calculate fan airflow using the overall average of both sets of air velocity measurements at each sensor position from the successive sets of measurements that meet the stability criteria from section 3.3 of this appendix. To calculate airflow for HSSD, LSSD, and VSD ceiling fans, multiply the overall average air velocity at each sensor position from section 3.3 (for high speed for HSSD, LSSD, and VSD ceiling fans that also meet the definition of an LSSD ceiling fan; and repeated for low speed only for LSSD and VSD ceiling fans that also meet the definition of an LSSD ceiling fan) by that sensor's effective area (see section 4.1 of this appendix), and then sum the products to obtain the overall calculated airflow at the tested speed.
 For each speed, using the overall calculated airflow and the overall average power consumption measurements from the successive sets of measurements as follows:
-ER16AU22.015
 Where:
-CFM i = airflow at speed i,
-OH i = operating hours at speed i, as specified in Table 2 of this appendix,
-W i = power consumption at speed i,
-OH Sb = operating hours in standby mode, as specified in Table 2 of this appendix, and
-W Sb = power consumption in standby mode.
+CFMi = airflow at speed i,
+OHi = operating hours at speed i, as specified in Table 2 of this appendix,
+Wi = power consumption at speed i,
+OHSb = operating hours in standby mode, as specified in Table 2 of this appendix, and
+WSb = power consumption in standby mode.
 Calculate two ceiling fan efficiencies for multi-mount ceiling fans: One efficiency corresponds to the ceiling fan mounted in the configuration associated with the definition of a hugger ceiling fan, and the other efficiency corresponds to the ceiling fan mounted in the configuration associated with the definition of a standard ceiling fan.
 Table 2 to Appendix U to Subpart B of Part 430: Daily Operating Hours for Calculating Ceiling Fan Efficiency
 | No standby | With standby
@@ -227,15 +221,14 @@ Off Mode | 12.0 | 0.0
 * These values apply only to VSD fans that also meet the definition of an LSSD fan.
 4.3 Calculation of airflow and efficiency for multi-head ceiling fans:
 Calculate airflow for each fan head using the method described in section 4.2 of this appendix. To calculate overall airflow at a given speed for a multi-head ceiling fan, sum the airflow for each fan head included in the ceiling fan (a single airflow can be applied to each of the identical fan heads, but at least one of each unique fan head must be tested). The power consumption is the measured power consumption with all fan heads on. Using the airflow as described in this section, and power consumption measurements from section 3.3 of this appendix, calculate ceiling fan efficiency for a multi-head ceiling fan as follows:
-ER16AU22.016
 Where:
-CFM i = sum of airflows for each head at speed i,
-OH i = operating hours at speed i as specified in Table 2 of this appendix,
-W i = power consumption at speed i,
-OH Sb = operating hours in standby mode as specified in Table 2 of this appendix, and
-W Sb = power consumption in standby mode.
+CFMi = sum of airflows for each head at speed i,
+OHi = operating hours at speed i as specified in Table 2 of this appendix,
+Wi = power consumption at speed i,
+OHSb = operating hours in standby mode as specified in Table 2 of this appendix, and
+WSb = power consumption in standby mode.
 5. Calculation of Ceiling Fan Energy Index (CFEI) From the Test Results for Large Diameter Ceiling Fan and High-Speed Belt-Driven Ceiling Fans:
-Calculate CFEI, which is the FEI for large-diameter ceiling fans and high-speed belt-driven ceiling fans, at the speeds specified in section 3.5 of this appendix according to AMCA 208–18, with the following modifications:
-(1) Using an Airflow Constant (Q 0) of 26,500 cubic feet per minute;
-(2) Using a Pressure Constant (P 0) of 0.0027 inches water gauge; and
-(3) Using a Fan Efficiency Constant (η 0) of 42 percent.
+Calculate CFEI, which is the FEI for large-diameter ceiling fans and high-speed belt-driven ceiling fans, at the speeds specified in section 3.5 of this appendix according to AMCA 208-18, with the following modifications:
+(1) Using an Airflow Constant (Q0) of 26,500 cubic feet per minute;
+(2) Using a Pressure Constant (P0) of 0.0027 inches water gauge; and
+(3) Using a Fan Efficiency Constant (η0) of 42 percent.

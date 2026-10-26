@@ -61,14 +61,13 @@ Adjust the spa water temperature settings to meet the applicable temperature req
 Each individual water temperature measurement taken during the stabilization period and test period must meet the applicable water temperature requirements specified in section 5.6.1 of ANSI/APSP/ICC-14 2019.
 3.3. Standby Loss Calculation
 Calculate standby loss in watts by calculating the measured standby loss using Equation 1 of this appendix, calculating the measured temperature difference using Equation 2 of this appendix, and normalizing the standby loss using Equation 3 of this appendix. Use the standby loss calculated in Equation 3 as the standby loss value for the test.
-ER13JN23.007
 Where:
-SL meas = Measured standby loss (watts)
+SLmeas = Measured standby loss (watts)
 E = Total energy use during the test (watt-hours)
 t = Length of test (hours)
-ΔT meas = Measured temperature difference (°F)
-T water avg = Average water temperature during test (°F)
-T air avg = Average air temperature during test (°F)
+ΔTmeas = Measured temperature difference (°F)
+Twater avg = Average water temperature during test (°F)
+Tair avg = Average air temperature during test (°F)
 SL = Standby loss (W)
-ΔT std = Normalized temperature difference (°F), as follows:
+ΔTstd = Normalized temperature difference (°F), as follows:
 46.0 °F for all inflatable spas, standard spas, standard spa portions of a combination spa, exercise spas, and exercise spa portions of a combination spa tested to a minimum water temperature of 100 °F; or 31.0 °F for all exercise spas or exercise spa portions of a combination spa tested to a minimum water temperature of 85 °F.

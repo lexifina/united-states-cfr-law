@@ -48,7 +48,7 @@ Minimum-above-threshold power setting means the power setting on a conventional 
 Multi-ring cooking zone means a cooking zone on a conventional cooking top with multiple concentric sizes of electric resistance heating elements or gas burner rings.
 Off mode means any mode in which a product is connected to a mains power source and is not providing any active mode or standby function, and where the mode may persist for an indefinite time. An indicator that only shows the user that the product is in the off position is included within the classification of an off mode.
 Power setting means a setting on a cooking zone control that offers a gas flame, electric resistance heating, or electric inductive heating.
-Simmering period means, for each cooking zone, the 20-minute period during the simmering test starting at time t 90.
+Simmering period means, for each cooking zone, the 20-minute period during the simmering test starting at time t90.
 Smoothened water temperature means the 40-second moving-average temperature as calculated in Section 7.5.4.1 of IEC 60350-2, rounded to the nearest 0.1 degree Celsius.
 Specialty cooking zone means a warming plate, grill, griddle, or any cooking zone that is designed for use only with non-circular cookware, such as a bridge zone. Specialty cooking zones are not tested under this appendix.
 Stable temperature means a temperature that does not vary by more than 1 °C over a 5-minute period.
@@ -56,10 +56,10 @@ Standard cubic foot of gas means the quantity of gas that occupies 1 cubic foot 
 Standby mode means any mode in which a product is connected to a mains power source and offers one or more of the following user-oriented or protective functions which may persist for an indefinite time:
 (1) Facilitation of the activation of other modes (including activation or deactivation of active mode) by remote switch (including remote control), internal sensor, or timer;
 (2) Provision of continuous functions, including information or status displays (including clocks) or sensor-based functions. A timer is a continuous clock function (which may or may not be associated with a display) that allows for regularly scheduled tasks and that operates on a continuous basis.
-Target turndown temperature (Tc target) means the temperature as calculated according to Section 7.5.2.1 of IEC 60350-2 and section 3.1.4.2 of this appendix, for each cooking zone.
+Target turndown temperature (Tctarget) means the temperature as calculated according to Section 7.5.2.1 of IEC 60350-2 and section 3.1.4.2 of this appendix, for each cooking zone.
 Thermocouple means a device consisting of two dissimilar metals which are joined together and, with their associated wires, are used to measure temperature by means of electromotive force.
-Time t 90 means the first instant during the simmering test for each cooking zone at which the smoothened water temperature is greater than or equal to 90 °C.
-Turndown temperature (T c) means, for each cooking zone, the measured water temperature at the time at which the tester begins adjusting the cooking top controls to change the power setting.
+Time t90 means the first instant during the simmering test for each cooking zone at which the smoothened water temperature is greater than or equal to 90 °C.
+Turndown temperature (Tc) means, for each cooking zone, the measured water temperature at the time at which the tester begins adjusting the cooking top controls to change the power setting.
 2. Test Conditions and Instrumentation
 2.1 Installation. Install the conventional cooking top or combined cooking product in accordance with the manufacturer's instructions. If the manufacturer's instructions specify that the product may be used in multiple installation conditions, install the product according to the built-in configuration. Completely assemble the product with all handles, knobs, guards, and similar components mounted in place. Position any electric resistance heaters, gas burners, and baffles in accordance with the manufacturer's instructions. If the product can communicate through a network (e.g., Bluetooth® or internet connection), disable the network function, if it is possible to disable it by means provided in the manufacturer's user manual, for the duration of testing. If the network function cannot be disabled, or if means for disabling the function are not provided in the manufacturer's user manual, the product shall be tested in the factory default setting or in the as-shipped condition.
 2.1.1 Freestanding combined cooking product. Install a freestanding combined cooking product with the back directly against, or as near as possible to, a vertical wall which extends at least 1 foot above the product and 1 foot beyond both sides of the product, and with no side walls.
@@ -72,8 +72,8 @@ Turndown temperature (T c) means, for each cooking zone, the measured water temp
 2.2.1.1.2 Standby mode and off mode supply voltage. During standby mode and off mode testing, maintain the electrical supply to the product at either 240 volts ±1 percent, or 120 volts ±1 percent, according to the manufacturer's instructions. Maintain the electrical supply voltage waveform specified in Section 4, Paragraph 4.3.2 of IEC 62301 (Second Edition), disregarding the provisions regarding batteries and the determination, classification, and testing of relevant modes. If the power measuring instrument used for testing is unable to measure and record the total harmonic content during the test measurement period, total harmonic content may be measured and recorded immediately before and after the test measurement period.
 2.2.1.2 Supply frequency. Maintain the electrical supply frequency for all tests at 60 hertz ±1 percent.
 2.2.2 Gas supply.
-2.2.2.1 Natural gas. Maintain the natural gas pressure immediately ahead of all controls of the unit under test at 7 to 10 inches of water column, except as specified in section 3.1.3 of this appendix. The natural gas supplied should have a higher heating value (dry-basis) of approximately 1,025 Btu per standard cubic foot. Obtain the higher heating value on a dry basis of gas, H n, in Btu per standard cubic foot, for the natural gas to be used in the test either from measurements made by the manufacturer conducting the test using equipment that meets the requirements described in section 2.7.2.2 of this appendix or by the use of bottled natural gas whose gross heating value is certified to be at least as accurate a value that meets the requirements in section 2.7.2.2 of this appendix.
-2.2.2.2 Propane. Maintain the propane pressure immediately ahead of all controls of the unit under test at 11 to 13 inches of water column, except as specified in section 3.1.3 of this appendix. The propane supplied should have a higher heating value (dry-basis) of approximately 2,500 Btu per standard cubic foot. Obtain the higher heating value on a dry basis of gas, H p, in Btu per standard cubic foot, for the propane to be used in the test either from measurements made by the manufacturer conducting the test using equipment that meets the requirements described in section 2.7.2.2 of this appendix, or by the use of bottled propane whose gross heating value is certified to be at least as accurate a value that meets the requirements described in section 2.7.2.2 of this appendix.
+2.2.2.1 Natural gas. Maintain the natural gas pressure immediately ahead of all controls of the unit under test at 7 to 10 inches of water column, except as specified in section 3.1.3 of this appendix. The natural gas supplied should have a higher heating value (dry-basis) of approximately 1,025 Btu per standard cubic foot. Obtain the higher heating value on a dry basis of gas, Hn, in Btu per standard cubic foot, for the natural gas to be used in the test either from measurements made by the manufacturer conducting the test using equipment that meets the requirements described in section 2.7.2.2 of this appendix or by the use of bottled natural gas whose gross heating value is certified to be at least as accurate a value that meets the requirements in section 2.7.2.2 of this appendix.
+2.2.2.2 Propane. Maintain the propane pressure immediately ahead of all controls of the unit under test at 11 to 13 inches of water column, except as specified in section 3.1.3 of this appendix. The propane supplied should have a higher heating value (dry-basis) of approximately 2,500 Btu per standard cubic foot. Obtain the higher heating value on a dry basis of gas, Hp, in Btu per standard cubic foot, for the propane to be used in the test either from measurements made by the manufacturer conducting the test using equipment that meets the requirements described in section 2.7.2.2 of this appendix, or by the use of bottled propane whose gross heating value is certified to be at least as accurate a value that meets the requirements described in section 2.7.2.2 of this appendix.
 2.3 Air circulation. Maintain air circulation in the room sufficient to secure a reasonably uniform temperature distribution, but do not cause a direct draft on the unit under test.
 2.4 Ambient room test conditions.
 2.4.1 Active mode ambient conditions. During active mode testing, maintain the ambient room air pressure specified in Section 5.1 of IEC 60350-2, and maintain the ambient room air temperature at 25 ± 5 °C with a target temperature of 25 °C.
@@ -111,13 +111,13 @@ Turndown temperature (T c) means, for each cooking zone, the measured water temp
 3.1.1 Test vessel and water load selection.
 3.1.1.1 Conventional electric cooking tops.
 3.1.1.1.1 For cooking zones, measure the size of each cooking zone as specified in Section 6.3.2 of IEC 60350-2, not including any specialty cooking zones as defined in section 1 of this appendix. For circular cooking zones on smooth cooking tops, the cooking zone size is determined using the outer diameter of the printed marking, as specified in Section 6.3 of IEC 60350-2. For open coil cooking zones, the cooking zone size is determined using the widest diameter of the coil, see Figure 3.1.1.1. For non-circular cooking zones, the cooking zone size is determined by the measurement of the shorter side or minor axis. For cooking areas, determine the number of cooking zones as specified in Section 6.3.1 of IEC 60350-2.
-ER22AU22.001
 3.1.1.1.2 Determine the test vessel diameter in millimeters (mm) and water load mass in grams (g) for each measured cooking zone. For cooking zones, test vessel selection is based on cooking zone size as specified in Table 3 in Section 5.6.1.5 of IEC 60350-2. For cooking areas, test vessel selection is based on the number of cooking zones as specified in Annex A of IEC 60350-2. If a selected test vessel (including its lid) cannot be centered on the cooking zone due to interference with a structural component of the cooking top, the test vessel with the largest diameter that can be centered on the cooking zone shall be used. The allowable tolerance on the water load weight is ±0.5 g.
 3.1.1.2 Conventional gas cooking tops.
 3.1.1.2.1 Record the nominal heat input rate for each cooking zone, not including any specialty cooking zones as defined in section 1 of this appendix.
 3.1.1.2.2 Determine the test vessel diameter in mm and water load mass in g for each measured cooking zone according to Table 3.1 of this appendix. If a selected test vessel cannot be centered on the cooking zone due to interference with a structural component of the cooking top, the test vessel with the largest diameter that can be centered on the cooking zone shall be used. The allowable tolerance on the water load weight is ±0.5 g.
 Table 3.1—Test Vessel Selection for Conventional Gas Cooking Tops
-Nominal gas burner input rate (Btu/h) | Minimum (>) | Maximum (≤) | Test vessel diameter (mm) | Water load mass (g)
+Nominal gas burner input rate (Btu/h) | Test vessel diameter (mm) | Water load mass (g)
+Minimum (>) | Maximum (≤)
 | 5,600 | 210 | 2,050
 5,600 | 8,050 | 240 | 2,700
 8,050 | 14,300 | 270 | 3,420
@@ -128,183 +128,173 @@ Nominal gas burner input rate (Btu/h) | Minimum (>) | Maximum (≤) | Test vesse
 3.1.3.2 Conventional gas cooking tops with a non-adjustable internal pressure regulator or without an internal pressure regulator. If the measured heat input rate of the burner under test is not within 2 percent of the nominal heat input rate of the burner as specified by the manufacturer, remove the product's internal pressure regulator, or block it in the open position, and initially maintain the gas pressure ahead of all controls of the unit under test approximately equal to the manufacturer's recommended manifold pressure. Adjust the gas supply pressure such that the heat input rate of the burner under test is within 2 percent of the nominal heat input rate of the burner as specified by the manufacturer. Adjust the burner with sufficient air flow to prevent a yellow flame or a flame with yellow tips. Complete section 3.1.4 of this appendix while maintaining the same gas pressure regulator adjustment.
 3.1.4 Per-cooking zone energy consumption test. Establish the test conditions set forth in section 2 of this appendix. Turn off the gas flow to the conventional oven(s), if so equipped. The product temperature must meet the specifications in section 2.5 of this appendix.
 3.1.4.1 Test vessel placement. Position the test vessel with water load for the cooking zone under test, selected and prepared as specified in section 3.1.1 of this appendix, in the center of the cooking zone, and as specified in Annex C to IEC 60350-2.
-3.1.4.2 Overshoot test. Use the test methods set forth in Section 7.5.2.1 of IEC 60350-2 to determine the target turndown temperature for each cooking zone, Tc target, in degrees Celsius, as follows.
-Tc target = 93 °C − (T max − T 70)
+3.1.4.2 Overshoot test. Use the test methods set forth in Section 7.5.2.1 of IEC 60350-2 to determine the target turndown temperature for each cooking zone, Tctarget, in degrees Celsius, as follows.
+Tctarget = 93 °C − (Tmax − T70)
 Where:
-T max is highest recorded temperature value, in degrees Celsius; and
-T 70 is the average recorded temperature between the time 10 seconds before the power is turned off and the time 10 seconds after the power is turned off.
-If T 70 is within the tolerance of 70 ± 0.5 °C, the target turndown temperature is the highest of 80 °C and the calculated Tc target, rounded to the nearest integer. If T 70 is outside of the tolerance, the overshoot test is considered invalid and must be repeated after allowing the product to return to ambient conditions.
+Tmax is highest recorded temperature value, in degrees Celsius; and
+T70 is the average recorded temperature between the time 10 seconds before the power is turned off and the time 10 seconds after the power is turned off.
+If T70 is within the tolerance of 70 ± 0.5 °C, the target turndown temperature is the highest of 80 °C and the calculated Tctarget, rounded to the nearest integer. If T70 is outside of the tolerance, the overshoot test is considered invalid and must be repeated after allowing the product to return to ambient conditions.
 3.1.4.3 Potential simmering setting pre-selection test. The potential simmering setting for each cooking zone may be determined using the potential simmering setting pre-selecting test. If a potential simmering setting is already known, it may be used instead of completing sections 3.1.4.3.1 through 3.1.4.3.4 of this appendix.
 3.1.4.3.1 Use the test vessel with water load for the cooking zone under test, selected, prepared, and positioned as specified in sections 3.1.1 and 3.1.4.1 of this appendix. The temperature of the conventional cooking top is not required to meet the specification for the product temperature in section 2.5 of this appendix for the potential simmering setting pre-selection test. Operate the cooking zone under test with the lowest available power setting. Measure the energy consumption for 10 minutes ±2 seconds.
-3.1.4.3.2 Calculate the power density of the power setting, j, on a conventional electric cooking top, Qe j, in watts per square centimeter, as:
-ER22AU22.002
+3.1.4.3.2 Calculate the power density of the power setting, j, on a conventional electric cooking top, Qej, in watts per square centimeter, as:
 Where:
 a = the surface area of the test vessel bottom, in square centimeters; and
-E j = the electrical energy consumption during the 10-minute test, in Wh.
-3.1.4.3.3 Calculate the power density of the power setting, j, on a conventional gas cooking top, Qg j, in Btu/h per square centimeter, as:
-ER22AU22.003
+Ej = the electrical energy consumption during the 10-minute test, in Wh.
+3.1.4.3.3 Calculate the power density of the power setting, j, on a conventional gas cooking top, Qgj, in Btu/h per square centimeter, as:
 Where:
 a = the surface area of the test vessel bottom, in square centimeters;
-V j = the volume of gas consumed during the 10-minute test, in cubic feet;
+Vj = the volume of gas consumed during the 10-minute test, in cubic feet;
 CF = the gas correction factor to standard temperature and pressure, as calculated in section 4.1.1.2.1 of this appendix;
-H = either H n or H p, the heating value of the gas used in the test as specified in sections 2.2.2.1 and 2.2.2.2 of this appendix, in Btu per standard cubic foot of gas;
-Ee j = the electrical energy consumption of the conventional gas cooking top during the 10-minute test, in Wh; and
-K e = 3.412 Btu/Wh, conversion factor of watt-hours to Btu.
-3.1.4.3.4 Repeat the measurement for each successively higher power setting until Qe j exceeds 0.8 W/cm 2 for conventional electric cooking tops or Qg j exceeds 4.0 Btu/h·cm 2 for conventional gas cooking tops.
+H = either Hn or Hp, the heating value of the gas used in the test as specified in sections 2.2.2.1 and 2.2.2.2 of this appendix, in Btu per standard cubic foot of gas;
+Eej = the electrical energy consumption of the conventional gas cooking top during the 10-minute test, in Wh; and
+Ke = 3.412 Btu/Wh, conversion factor of watt-hours to Btu.
+3.1.4.3.4 Repeat the measurement for each successively higher power setting until Qej exceeds 0.8 W/cm 2 for conventional electric cooking tops or Qgj exceeds 4.0 Btu/h·cm 2 for conventional gas cooking tops.
 For conventional cooking tops with rotating knobs for selecting the power setting, the selection knob shall be turned to the maximum power setting in between each test, to avoid hysteresis. The selection knob shall be turned in the direction from higher power to lower power to select the power setting for the test. If the appropriate power setting is passed, the selection knob shall be turned to the maximum power setting again before repeating the power setting selection.
 Of the last two power settings tested, the potential simmering setting is the power setting that produces a power density closest to 0.8 W/cm 2 for conventional electric cooking tops or 4.0 Btu/h·cm 2 for conventional gas cooking tops. The closest power density may be higher or lower than the applicable threshold value.
 3.1.4.4 Simmering test. The product temperature must meet the specifications in section 2.5 of this appendix at the start of each simmering test. For each cooking zone, conduct the test method specified in Section 7.5.2 of IEC 60350-2, using the potential simmering setting identified in section 3.1.4.3 of this appendix for the initial simmering setting used in Section 7.5.2.2 of IEC 60350-2.
 For conventional cooking tops with rotating knobs for selecting the power setting, the selection knob shall be turned in the direction from higher power to lower power to select the potential simmering setting for the test, to avoid hysteresis. If the appropriate setting is passed, the test is considered invalid and must be repeated after allowing the product to return to ambient conditions.
-3.1.4.5 Evaluation of the simmering test. Evaluate the test conducted under section 3.1.4.4 of this appendix as set forth in Section 7.5.4.1 of IEC 60350-2 according to Figure 3.1.4.5 of this appendix. If the measured turndown temperature, Tc, is not within -0.5 °C and +1 °C of the target turndown temperature, Tc target, the test is considered invalid and must be repeated after allowing the product to return to ambient conditions.
-ER22AU22.004
+3.1.4.5 Evaluation of the simmering test. Evaluate the test conducted under section 3.1.4.4 of this appendix as set forth in Section 7.5.4.1 of IEC 60350-2 according to Figure 3.1.4.5 of this appendix. If the measured turndown temperature, Tc, is not within -0.5 °C and +1 °C of the target turndown temperature, Tctarget, the test is considered invalid and must be repeated after allowing the product to return to ambient conditions.
 3.2 Standby mode and off mode power. Establish the standby mode and off mode testing conditions set forth in section 2 of this appendix. For products that take some time to enter a stable state from a higher power state as discussed in Section 5, Paragraph 5.1, Note 1 of IEC 62301 (Second Edition), allow sufficient time for the product to reach the lower power state before proceeding with the test measurement. Follow the test procedure as specified in Section 5, Paragraph 5.3.2 of IEC 62301 (Second Edition) for testing in each possible mode as described in sections 3.2.1 and 3.2.2 of this appendix. For units in which power varies as a function of displayed time in standby mode, set the clock time to 3:23 at the end of an initial stabilization period, as specified in Section 5, Paragraph 5.3 of IEC 62301 (First Edition). After an additional 10-minute stabilization period, measure the power use for a single test period of 10 minutes +0/−2 seconds that starts when the clock time first reads 3:33. Use the average power approach described in Section 5, Paragraph 5.3.2(a) of IEC 62301 (First Edition).
-3.2.1 If the product has an inactive mode, as defined in section 1 of this appendix, measure the average inactive mode power, P IA, in watts.
-3.2.2 If the product has an off mode, as defined in section 1 of this appendix, measure the average off mode power, P OM, in watts.
+3.2.1 If the product has an inactive mode, as defined in section 1 of this appendix, measure the average inactive mode power, PIA, in watts.
+3.2.2 If the product has an off mode, as defined in section 1 of this appendix, measure the average off mode power, POM, in watts.
 3.3 Recorded values.
 3.3.1 Active mode.
-3.3.1.1 For a conventional gas cooking top tested with natural gas, record the natural gas higher heating value in Btu per standard cubic foot, H n, as determined in section 2.2.2.1 of this appendix for the natural gas supply, for each test. For a conventional gas cooking top tested with propane, record the propane higher heating value in Btu per standard cubic foot, H p, as determined in section 2.2.2.2 of this appendix for the propane supply, for each test.
+3.3.1.1 For a conventional gas cooking top tested with natural gas, record the natural gas higher heating value in Btu per standard cubic foot, Hn, as determined in section 2.2.2.1 of this appendix for the natural gas supply, for each test. For a conventional gas cooking top tested with propane, record the propane higher heating value in Btu per standard cubic foot, Hp, as determined in section 2.2.2.2 of this appendix for the propane supply, for each test.
 3.3.1.2 Record the test room temperature in degrees Celsius and relative air pressure in hectopascals (hPa) during each test.
 3.3.1.3 Per-cooking zone energy consumption test.
-3.3.1.3.1 Record the product temperature in degrees Celsius, T P, prior to the start of each overshoot test or simmering test, as determined in section 2.5 of this appendix.
-3.3.1.3.2 Overshoot test. For each cooking zone, record the initial temperature of the water in degrees Celsius, T i; the average water temperature between the time 10 seconds before the power is turned off and the time 10 seconds after the power is turned off in degrees Celsius, T 70; the highest recorded water temperature in degrees Celsius, T max; and the target turndown temperature in degrees Celsius, Tc target.
-3.3.1.3.3 Simmering test. For each cooking zone, record the temperature of the water throughout the test, in degrees Celsius, and the values in sections 3.3.1.3.3.1 through 3.3.1.3.3.7 of this appendix for the Energy Test Cycle, if an Energy Test Cycle is measured in section 3.1.4.5 of this appendix, otherwise for both the maximum-below-threshold power setting and the minimum-above-threshold power setting. Because t 90 may not be known until completion of the simmering test, water temperature, any electrical energy consumption, and any gas volumetric consumption measurements may be recorded for several minutes after the end of the simmering period to ensure that the full simmering period is recorded.
+3.3.1.3.1 Record the product temperature in degrees Celsius, TP, prior to the start of each overshoot test or simmering test, as determined in section 2.5 of this appendix.
+3.3.1.3.2 Overshoot test. For each cooking zone, record the initial temperature of the water in degrees Celsius, Ti; the average water temperature between the time 10 seconds before the power is turned off and the time 10 seconds after the power is turned off in degrees Celsius, T70; the highest recorded water temperature in degrees Celsius, Tmax; and the target turndown temperature in degrees Celsius, Tctarget.
+3.3.1.3.3 Simmering test. For each cooking zone, record the temperature of the water throughout the test, in degrees Celsius, and the values in sections 3.3.1.3.3.1 through 3.3.1.3.3.7 of this appendix for the Energy Test Cycle, if an Energy Test Cycle is measured in section 3.1.4.5 of this appendix, otherwise for both the maximum-below-threshold power setting and the minimum-above-threshold power setting. Because t90 may not be known until completion of the simmering test, water temperature, any electrical energy consumption, and any gas volumetric consumption measurements may be recorded for several minutes after the end of the simmering period to ensure that the full simmering period is recorded.
 3.3.1.3.3.1 The power setting under test.
-3.3.1.3.3.2 The initial temperature of the water, in degrees Celsius, T i.
-3.3.1.3.3.3 The time at which the tester begins adjusting the cooking top control to change the power setting, to the nearest second, t c and the turndown temperature, in degrees Celsius, Tc.
-3.3.1.3.3.4 The time at which the simmering period starts, to the nearest second, t 90.
-3.3.1.3.3.5 The time at which the simmering period ends, to the nearest second, t S and the smoothened water temperature at the end of the simmering period, in degrees Celsius, T S.
-3.3.1.3.3.6 For a conventional electric cooking top, the electrical energy consumption from the start of the test to t S, E, in watt-hours.
-3.3.1.3.3.7 For a conventional gas cooking top, the volume of gas consumed from the start of the test to t S, V, in cubic feet of gas; and any electrical energy consumption of the cooking top from the start of the test to t S, E e, in watt-hours.
-3.3.2 Standby mode and off mode. Make measurements as specified in section 3.2 of this appendix. If the product is capable of operating in inactive mode, as defined in section 1 of this appendix, record the average inactive mode power, P IA, in watts as specified in section 3.2.1 of this appendix. If the product is capable of operating in off mode, as defined in section 1 of this appendix, record the average off mode power, P OM, in watts as specified in section 3.2.2 of this appendix.
+3.3.1.3.3.2 The initial temperature of the water, in degrees Celsius, Ti.
+3.3.1.3.3.3 The time at which the tester begins adjusting the cooking top control to change the power setting, to the nearest second, tc and the turndown temperature, in degrees Celsius, Tc.
+3.3.1.3.3.4 The time at which the simmering period starts, to the nearest second, t90.
+3.3.1.3.3.5 The time at which the simmering period ends, to the nearest second, tS and the smoothened water temperature at the end of the simmering period, in degrees Celsius, TS.
+3.3.1.3.3.6 For a conventional electric cooking top, the electrical energy consumption from the start of the test to tS, E, in watt-hours.
+3.3.1.3.3.7 For a conventional gas cooking top, the volume of gas consumed from the start of the test to tS, V, in cubic feet of gas; and any electrical energy consumption of the cooking top from the start of the test to tS, Ee, in watt-hours.
+3.3.2 Standby mode and off mode. Make measurements as specified in section 3.2 of this appendix. If the product is capable of operating in inactive mode, as defined in section 1 of this appendix, record the average inactive mode power, PIA, in watts as specified in section 3.2.1 of this appendix. If the product is capable of operating in off mode, as defined in section 1 of this appendix, record the average off mode power, POM, in watts as specified in section 3.2.2 of this appendix.
 4. Calculation of Derived Results From Test Measurements
 4.1. Active mode energy consumption of conventional cooking tops and any conventional cooking top component of a combined cooking product.
 4.1.1 Per-cycle active mode energy consumption of a conventional cooking top and any conventional cooking top component of a combined cooking product.
 4.1.1.1 Conventional electric cooking top per-cycle active mode energy consumption.
 4.1.1.1.1 Conventional electric cooking top per-cooking zone normalized active mode energy consumption. For each cooking zone, calculate the per-cooking zone normalized active mode energy consumption of a conventional electric cooking top, E, in watt-hours, using the following equation:
-E = E ETC
+E = EETC
 for cooking zones where an Energy Test Cycle was measured in section 3.1.4.5 of this appendix, and
-ER22AU22.005
 for cooking zones where a minimum-above-threshold cycle and a maximum-below-threshold cycle were measured in section 3.1.4.5 of this appendix.
 Where:
-E ETC = the electrical energy consumption of the Energy Test Cycle from the start of the test to the end of the test for the cooking zone, as determined in section 3.1.4.5 of this appendix, in watt-hours;
-E MAT = the electrical energy consumption of the minimum-above-threshold power setting from the start of the test to the end of the test for the cooking zone, as determined in section 3.1.4.5 of this appendix, in watt-hours;
-E MBT = the electrical energy consumption of the maximum-below-threshold power setting from the start of the test to the end of the test for the cooking zone, as determined in section 3.1.4.5 of this appendix, in watt-hours;
-T S,MAT = the smoothened water temperature at the end of the minimum-above-threshold power setting test for the cooking zone, in degrees Celsius; and
-T S,MBT = the smoothened water temperature at the end of the maximum-below-threshold power setting test for the cooking zone, in degrees Celsius.
-4.1.1.1.2 Calculate the per-cycle active mode total energy consumption of a conventional electric cooking top, E CET, in watt-hours, using the following equation:
-ER22AU22.006
+EETC = the electrical energy consumption of the Energy Test Cycle from the start of the test to the end of the test for the cooking zone, as determined in section 3.1.4.5 of this appendix, in watt-hours;
+EMAT = the electrical energy consumption of the minimum-above-threshold power setting from the start of the test to the end of the test for the cooking zone, as determined in section 3.1.4.5 of this appendix, in watt-hours;
+EMBT = the electrical energy consumption of the maximum-below-threshold power setting from the start of the test to the end of the test for the cooking zone, as determined in section 3.1.4.5 of this appendix, in watt-hours;
+TS,MAT = the smoothened water temperature at the end of the minimum-above-threshold power setting test for the cooking zone, in degrees Celsius; and
+TS,MBT = the smoothened water temperature at the end of the maximum-below-threshold power setting test for the cooking zone, in degrees Celsius.
+4.1.1.1.2 Calculate the per-cycle active mode total energy consumption of a conventional electric cooking top, ECET, in watt-hours, using the following equation:
 Where:
 n = the total number of cooking zones tested on the conventional cooking top;
-E z = the normalized energy consumption representative of the Energy Test Cycle for each cooking zone, as calculated in section 4.1.1.1.1 of this appendix, in watt-hours;
-m z is the mass of water used for each cooking zone, in grams; and
+Ez = the normalized energy consumption representative of the Energy Test Cycle for each cooking zone, as calculated in section 4.1.1.1.1 of this appendix, in watt-hours;
+mz is the mass of water used for each cooking zone, in grams; and
 2853 = the representative water load mass, in grams.
 4.1.1.2 Conventional gas cooking top per-cycle active mode energy consumption.
 4.1.1.2.1 Gas correction factor to standard temperature and pressure. Calculate the gas correction factor to standard temperature and pressure, which converts between standard cubic feet and measured cubic feet of gas for a given set of test conditions:
-ER22AU22.007
 Where:
-P gas = the measured line gas gauge pressure, in inches of water column;
+Pgas = the measured line gas gauge pressure, in inches of water column;
 0.0361= the conversion factor from inches of water column to pounds per square inch;
-P atm = the measured atmospheric pressure, in pounds per square inch;
-P base = 14.73 pounds per square inch, the standard sea level air pressure;
-T base = 519.67 degrees Rankine (or 288.7 Kelvin);
-T gas = the measured line gas temperature, in degrees Fahrenheit (or degrees Celsius); and
-T k = the adder converting from degrees Fahrenheit to degrees Rankine, 459.7 (or from degrees Celsius to Kelvin, 273.16).
-4.1.1.2.2 Conventional gas cooking top per-cooking zone normalized active mode gas energy consumption. For each cooking zone, calculate the per-cooking zone normalized active mode gas energy consumption of a conventional gas cooking top, E g, in Btu, using the following equation:
-E g = E gt,ETC
+Patm = the measured atmospheric pressure, in pounds per square inch;
+Pbase = 14.73 pounds per square inch, the standard sea level air pressure;
+Tbase = 519.67 degrees Rankine (or 288.7 Kelvin);
+Tgas = the measured line gas temperature, in degrees Fahrenheit (or degrees Celsius); and
+Tk = the adder converting from degrees Fahrenheit to degrees Rankine, 459.7 (or from degrees Celsius to Kelvin, 273.16).
+4.1.1.2.2 Conventional gas cooking top per-cooking zone normalized active mode gas energy consumption. For each cooking zone, calculate the per-cooking zone normalized active mode gas energy consumption of a conventional gas cooking top, Eg, in Btu, using the following equation:
+Eg = Egt,ETC
 for cooking zones where an Energy Test Cycle was measured in section 3.1.4.5 of this appendix, and
-ER07FE23.044
 for cooking zones where a minimum-above-threshold cycle and a maximum-below-threshold cycle were measured in section 3.1.4.5 of this appendix.
 Where:
-E gt,ETC = the as-tested gas energy consumption of the Energy Test Cycle for the cooking zone, in Btu, calculated as the product of: V, the gas consumption of the Energy Test Cycle, as determined in section 3.1.4.5 of this appendix, in cubic feet; CF, the gas correction factor to standard temperature and pressure for the test, as calculated in section 4.1.1.2.1 of this appendix; and H, either H n or H p, the heating value of the gas used in the test as specified in sections 2.2.2.1 and 2.2.2.2 of this appendix, expressed in Btu per standard cubic foot of gas;
-E gt,MAT = the as-tested gas energy consumption of the minimum-above-threshold power setting for the cooking zone, in Btu, calculated as the product of: V, the gas consumption of the minimum-above-threshold power setting, as determined in section 3.1.4.5 of this appendix, in cubic feet; CF, the gas correction factor to standard temperature and pressure for the test, as calculated in section 4.1.1.2.1 of this appendix; and H, either H n or H p, the heating value of the gas used in the test as specified in sections 2.2.2.1 and 2.2.2.2 of this appendix, expressed in Btu per standard cubic foot of gas;
-E gt,MBT = the as-tested gas energy consumption of the maximum-below-threshold power setting for the cooking zone, in Btu, calculated as the product of: V, the gas consumption of the maximum-below-threshold power setting, as determined in section 3.1.4.5 of this appendix, in cubic feet; CF, the gas correction factor to standard temperature and pressure for the test, as calculated in section 4.1.1.2.1 of this appendix; and H, either H n or H p, the heating value of the gas used in the test as specified in sections 2.2.2.1 and 2.2.2.2 of this appendix, expressed in Btu per standard cubic foot of gas;
-T S,MAT = the smoothened water temperature at the end of the minimum-above-threshold power setting test for the cooking zone, in degrees Celsius; and
-T S,MBT = the smoothened water temperature at the end of the maximum-below-threshold power setting test for the cooking zone, in degrees Celsius.
-4.1.1.2.3 Conventional gas cooking top per-cooking zone active mode normalized electrical energy consumption. For each cooking zone, calculate the per-cooking zone normalized active mode electrical energy consumption of a conventional gas cooking top, E e, in watt-hours, using the following equation:
-E e = E e,ETC
+Egt,ETC = the as-tested gas energy consumption of the Energy Test Cycle for the cooking zone, in Btu, calculated as the product of: V, the gas consumption of the Energy Test Cycle, as determined in section 3.1.4.5 of this appendix, in cubic feet; CF, the gas correction factor to standard temperature and pressure for the test, as calculated in section 4.1.1.2.1 of this appendix; and H, either Hn or Hp, the heating value of the gas used in the test as specified in sections 2.2.2.1 and 2.2.2.2 of this appendix, expressed in Btu per standard cubic foot of gas;
+Egt,MAT = the as-tested gas energy consumption of the minimum-above-threshold power setting for the cooking zone, in Btu, calculated as the product of: V, the gas consumption of the minimum-above-threshold power setting, as determined in section 3.1.4.5 of this appendix, in cubic feet; CF, the gas correction factor to standard temperature and pressure for the test, as calculated in section 4.1.1.2.1 of this appendix; and H, either Hn or Hp, the heating value of the gas used in the test as specified in sections 2.2.2.1 and 2.2.2.2 of this appendix, expressed in Btu per standard cubic foot of gas;
+Egt,MBT = the as-tested gas energy consumption of the maximum-below-threshold power setting for the cooking zone, in Btu, calculated as the product of: V, the gas consumption of the maximum-below-threshold power setting, as determined in section 3.1.4.5 of this appendix, in cubic feet; CF, the gas correction factor to standard temperature and pressure for the test, as calculated in section 4.1.1.2.1 of this appendix; and H, either Hn or Hp, the heating value of the gas used in the test as specified in sections 2.2.2.1 and 2.2.2.2 of this appendix, expressed in Btu per standard cubic foot of gas;
+TS,MAT = the smoothened water temperature at the end of the minimum-above-threshold power setting test for the cooking zone, in degrees Celsius; and
+TS,MBT = the smoothened water temperature at the end of the maximum-below-threshold power setting test for the cooking zone, in degrees Celsius.
+4.1.1.2.3 Conventional gas cooking top per-cooking zone active mode normalized electrical energy consumption. For each cooking zone, calculate the per-cooking zone normalized active mode electrical energy consumption of a conventional gas cooking top, Ee, in watt-hours, using the following equation:
+Ee = Ee,ETC
 for cooking zones where an Energy Test Cycle was measured in section 3.1.4.5 of this appendix, and
-ER22AU22.009
 for cooking zones where a minimum-above-threshold cycle and a maximum-below-threshold cycle were measured in section 3.1.4.5 of this appendix.
 Where:
-E e,ETC = the electrical energy consumption of the Energy Test Cycle from the start of the test to the end of the test for the cooking zone, as determined in section 3.1.4.5 of this appendix, in watt-hours;
-E e,MAT = the electrical energy consumption of the minimum-above-threshold power setting from the start of the test to the end of the test for the cooking zone, as determined in section 3.1.4.5 of this appendix, in watt-hours;
-E e,MBT = the electrical energy consumption of the maximum-below-threshold power setting from the start of the test to the end of the test for the cooking zone, as determined in section 3.1.4.5 of this appendix, in watt-hours;
-T S,MAT = the smoothened water temperature at the end of the minimum-above-threshold power setting test for the cooking zone, in degrees Celsius; and
-T S,MBT = the smoothened water temperature at the end of the maximum-below-threshold power setting test for the cooking zone, in degrees Celsius.
-4.1.1.2.4 Conventional gas cooking top per-cycle active mode gas energy consumption. Calculate the per-cycle active mode gas energy consumption of a conventional gas cooking top, E CGG, in Btu, using the following equation:
-ER07FE23.045
+Ee,ETC = the electrical energy consumption of the Energy Test Cycle from the start of the test to the end of the test for the cooking zone, as determined in section 3.1.4.5 of this appendix, in watt-hours;
+Ee,MAT = the electrical energy consumption of the minimum-above-threshold power setting from the start of the test to the end of the test for the cooking zone, as determined in section 3.1.4.5 of this appendix, in watt-hours;
+Ee,MBT = the electrical energy consumption of the maximum-below-threshold power setting from the start of the test to the end of the test for the cooking zone, as determined in section 3.1.4.5 of this appendix, in watt-hours;
+TS,MAT = the smoothened water temperature at the end of the minimum-above-threshold power setting test for the cooking zone, in degrees Celsius; and
+TS,MBT = the smoothened water temperature at the end of the maximum-below-threshold power setting test for the cooking zone, in degrees Celsius.
+4.1.1.2.4 Conventional gas cooking top per-cycle active mode gas energy consumption. Calculate the per-cycle active mode gas energy consumption of a conventional gas cooking top, ECGG, in Btu, using the following equation:
 Where:
-n, m z, and 2853 are defined in section 4.1.1.1.2 of this appendix; and
-E gz = the normalized gas energy consumption representative of the Energy Test Cycle for each cooking zone, as calculated in section 4.1.1.2.2 of this appendix, in Btu.
-4.1.1.2.5 Conventional gas cooking top per-cycle active mode electrical energy consumption. Calculate the per-cycle active mode electrical energy consumption of a conventional gas cooking top, E CGE, in watt-hours, using the following equation:
-ER22AU22.011
+n, mz, and 2853 are defined in section 4.1.1.1.2 of this appendix; and
+Egz = the normalized gas energy consumption representative of the Energy Test Cycle for each cooking zone, as calculated in section 4.1.1.2.2 of this appendix, in Btu.
+4.1.1.2.5 Conventional gas cooking top per-cycle active mode electrical energy consumption. Calculate the per-cycle active mode electrical energy consumption of a conventional gas cooking top, ECGE, in watt-hours, using the following equation:
 Where:
-n, m z, and 2853 are defined in section 4.1.1.1.2 of this appendix; and
-E ez = the normalized electrical energy consumption representative of the Energy Test Cycle for each cooking zone, as calculated in section 4.1.1.2.3 of this appendix, in watt-hours.
-4.1.1.2.6 Conventional gas cooking top per-cycle active-mode total energy consumption. Calculate the per-cycle active mode total energy consumption of a conventional gas cooking top, E CGT, in Btu, using the following equation:
-E CGT = E CGG + (E CGE × K e)
+n, mz, and 2853 are defined in section 4.1.1.1.2 of this appendix; and
+Eez = the normalized electrical energy consumption representative of the Energy Test Cycle for each cooking zone, as calculated in section 4.1.1.2.3 of this appendix, in watt-hours.
+4.1.1.2.6 Conventional gas cooking top per-cycle active-mode total energy consumption. Calculate the per-cycle active mode total energy consumption of a conventional gas cooking top, ECGT, in Btu, using the following equation:
+ECGT = ECGG + (ECGE × Ke)
 Where:
-E CGG = the per-cycle active mode gas energy consumption of a conventional gas cooking top as determined in section 4.1.1.2.4 of this appendix, in Btu;
-E CGE = the per-cycle active mode electrical energy consumption of a conventional gas cooking top as determined in section 4.1.1.2.5 of this appendix, in watt-hours; and
-K e = 3.412 Btu/Wh, conversion factor of watt-hours to Btu.
+ECGG = the per-cycle active mode gas energy consumption of a conventional gas cooking top as determined in section 4.1.1.2.4 of this appendix, in Btu;
+ECGE = the per-cycle active mode electrical energy consumption of a conventional gas cooking top as determined in section 4.1.1.2.5 of this appendix, in watt-hours; and
+Ke = 3.412 Btu/Wh, conversion factor of watt-hours to Btu.
 4.1.2 Annual active mode energy consumption of a conventional cooking top and any conventional cooking top component of a combined cooking product.
-4.1.2.1 Conventional electric cooking top annual active mode energy consumption. Calculate the annual active mode total energy consumption of a conventional electric cooking top, E AET, in kilowatt-hours per year, using the following equation:
-E AET = E CET × K × N C
+4.1.2.1 Conventional electric cooking top annual active mode energy consumption. Calculate the annual active mode total energy consumption of a conventional electric cooking top, EAET, in kilowatt-hours per year, using the following equation:
+EAET = ECET × K × NC
 Where:
-E CET = the conventional electric cooking top per-cycle active mode total energy consumption, as determined in section 4.1.1.1.2 of this appendix, in watt-hours;
+ECET = the conventional electric cooking top per-cycle active mode total energy consumption, as determined in section 4.1.1.1.2 of this appendix, in watt-hours;
 K = 0.001 kWh/Wh conversion factor for watt-hours to kilowatt-hours; and
-N C = 418 cooking cycles per year, the average number of cooking cycles per year normalized for duration of a cooking event estimated for conventional cooking tops.
+NC = 418 cooking cycles per year, the average number of cooking cycles per year normalized for duration of a cooking event estimated for conventional cooking tops.
 4.1.2.2 Conventional gas cooking top annual active mode energy consumption.
-4.1.2.2.1 Conventional gas cooking top annual active mode gas energy consumption. Calculate the annual active mode gas energy consumption of a conventional gas cooking top, E AGG, in kBtu per year, using the following equation:
-E AGG = E CGG × K × N C
+4.1.2.2.1 Conventional gas cooking top annual active mode gas energy consumption. Calculate the annual active mode gas energy consumption of a conventional gas cooking top, EAGG, in kBtu per year, using the following equation:
+EAGG = ECGG × K × NC
 Where:
-K and N C are defined in section 4.1.2.1 of this appendix; and
-E CGG = the conventional gas cooking top per-cycle active mode gas energy consumption, as determined in section 4.1.1.2.4 of this appendix, in Btu.
-4.1.2.2.2 Conventional gas cooking top annual active mode electrical energy consumption. Calculate the annual active mode electrical energy consumption of a conventional gas cooking top, E AGE, in kilowatt-hours per year, using the following equation:
-E AGE = E CGE × K × N C
+K and NC are defined in section 4.1.2.1 of this appendix; and
+ECGG = the conventional gas cooking top per-cycle active mode gas energy consumption, as determined in section 4.1.1.2.4 of this appendix, in Btu.
+4.1.2.2.2 Conventional gas cooking top annual active mode electrical energy consumption. Calculate the annual active mode electrical energy consumption of a conventional gas cooking top, EAGE, in kilowatt-hours per year, using the following equation:
+EAGE = ECGE × K × NC
 Where:
-K and N C are defined in section 4.1.2.1 of this appendix; and
-E CGE = the conventional gas cooking top per-cycle active mode electrical energy consumption, as determined in section 4.1.1.2.5 of this appendix, in watt-hours.
-4.1.2.2.3 Conventional gas cooking top annual active mode total energy consumption. Calculate the annual active mode total energy consumption of a conventional gas cooking top, E AGT, in kBtu per year, using the following equation:
-E AGT = E AGG + (E AGE × K e)
+K and NC are defined in section 4.1.2.1 of this appendix; and
+ECGE = the conventional gas cooking top per-cycle active mode electrical energy consumption, as determined in section 4.1.1.2.5 of this appendix, in watt-hours.
+4.1.2.2.3 Conventional gas cooking top annual active mode total energy consumption. Calculate the annual active mode total energy consumption of a conventional gas cooking top, EAGT, in kBtu per year, using the following equation:
+EAGT = EAGG + (EAGE × Ke)
 Where:
-E AGG = the conventional gas cooking top annual active mode gas energy consumption as determined in section 4.1.2.2.1 of this appendix, in kBtu per year;
-E AGE = the conventional gas cooking top annual active mode electrical energy consumption as determined in section 4.1.2.2.2 of this appendix, in kilowatt-hours per year; and
-K e is defined in section 4.1.1.2.6 of this appendix.
+EAGG = the conventional gas cooking top annual active mode gas energy consumption as determined in section 4.1.2.2.1 of this appendix, in kBtu per year;
+EAGE = the conventional gas cooking top annual active mode electrical energy consumption as determined in section 4.1.2.2.2 of this appendix, in kilowatt-hours per year; and
+Ke is defined in section 4.1.1.2.6 of this appendix.
 4.2 Annual combined low-power mode energy consumption of a conventional cooking top and any conventional cooking top component of a combined cooking product.
-4.2.1 Conventional cooking top annual combined low-power mode energy consumption. Calculate the annual combined low-power mode energy consumption for a conventional cooking top, E TLP, in kilowatt-hours per year, using the following equation:
-E TLP = [(P IA × F IA) + (P OM × F OM)] × K × S T
+4.2.1 Conventional cooking top annual combined low-power mode energy consumption. Calculate the annual combined low-power mode energy consumption for a conventional cooking top, ETLP, in kilowatt-hours per year, using the following equation:
+ETLP = [(PIA × FIA) + (POM × FOM)] × K × ST
 Where:
-P IA = inactive mode power, in watts, as measured in section 3.2.1 of this appendix;
-P OM = off mode power, in watts, as measured in section 3.2.2 of this appendix;
-F IA and F OM are the portion of annual hours spent in inactive mode and off mode hours respectively, as defined in Table 4.2.1 of this appendix;
+PIA = inactive mode power, in watts, as measured in section 3.2.1 of this appendix;
+POM = off mode power, in watts, as measured in section 3.2.2 of this appendix;
+FIA and FOM are the portion of annual hours spent in inactive mode and off mode hours respectively, as defined in Table 4.2.1 of this appendix;
 K = 0.001 kWh/Wh conversion factor for watt-hours to kilowatt-hours; and
-S T = 8,544, total number of inactive mode and off mode hours per year for a conventional cooking top.
+ST = 8,544, total number of inactive mode and off mode hours per year for a conventional cooking top.
 Table 4.2.1—Annual Hour Multipliers
-Types of low-power mode(s) available | F IA | F OM
+Types of low-power mode(s) available | FIA | FOM
 Both inactive and off mode | 0.5 | 0.5
 Inactive mode only | 1 | 0
 Off mode only | 0 | 1
-4.2.2 Conventional cooking top component of a combined cooking product annual combined low-power mode energy consumption. Calculate the annual combined low-power mode energy consumption for the conventional cooking top component of a combined cooking product, E TLP, in kilowatt-hours per year, using the following equation:
-E TLP = [(P IA × F IA) + (P OM × F OM)] × K × S TOT × H C
+4.2.2 Conventional cooking top component of a combined cooking product annual combined low-power mode energy consumption. Calculate the annual combined low-power mode energy consumption for the conventional cooking top component of a combined cooking product, ETLP, in kilowatt-hours per year, using the following equation:
+ETLP = [(PIA × FIA) + (POM × FOM)] × K × STOT × HC
 Where:
-P IA, P OM, F IA, F OM, and K are defined in section 4.2.1 of this appendix;
-S TOT = the total number of inactive mode and off mode hours per year for a combined cooking product, as defined in Table 4.2.2 of this appendix; and
-H C = the percentage of hours per year assigned to the conventional cooking top component of a combined cooking product, as defined in Table 4.2.2 of this appendix.
+PIA, POM, FIA, FOM, and K are defined in section 4.2.1 of this appendix;
+STOT = the total number of inactive mode and off mode hours per year for a combined cooking product, as defined in Table 4.2.2 of this appendix; and
+HC = the percentage of hours per year assigned to the conventional cooking top component of a combined cooking product, as defined in Table 4.2.2 of this appendix.
 Table 4.2.2—Combined Cooking Product Usage Factors
-Type of combined cooking product | S TOT | H C
+Type of combined cooking product | STOT | HC
 Cooking top and conventional oven (conventional range) | 8,392 | 60
 Cooking top and microwave oven | 8,481 | 77
 Cooking top, conventional oven, and microwave oven | 8,329 | 51
 4.3 Integrated annual energy consumption of a conventional cooking top and any conventional cooking top component of a combined cooking product.
 4.3.1 Conventional electric cooking top integrated annual energy consumption. Calculate the integrated annual energy consumption, IAEC, of a conventional electric cooking top, in kilowatt-hours per year, using the following equation:
-IAEC = E AET + E TLP
+IAEC = EAET + ETLP
 Where:
-E AET = the conventional electric cooking top annual active mode energy consumption, as determined in section 4.1.2.1 of this appendix; and
-E TLP = the annual combined low-power mode energy consumption of a conventional cooking top or any conventional cooking top component of a combined cooking product, as determined in section 4.2 of this appendix.
+EAET = the conventional electric cooking top annual active mode energy consumption, as determined in section 4.1.2.1 of this appendix; and
+ETLP = the annual combined low-power mode energy consumption of a conventional cooking top or any conventional cooking top component of a combined cooking product, as determined in section 4.2 of this appendix.
 4.3.2 Conventional gas cooking top integrated annual energy consumption. Calculate the integrated annual energy consumption, IAEC, of a conventional gas cooking top, in kBtu per year, defined as:
-IAEC = E AGT + (E TLP × K e)
+IAEC = EAGT + (ETLP × Ke)
 Where:
-E AGT = the conventional gas cooking top annual active mode total energy consumption, as determined in section 4.1.2.2.3 of this appendix;
-E TLP = the annual combined low-power mode energy consumption of a conventional cooking top or any conventional cooking top component of a combined cooking product, as determined in section 4.2 of this appendix; and
-K e is defined in section 4.1.1.2.6 of this appendix.
+EAGT = the conventional gas cooking top annual active mode total energy consumption, as determined in section 4.1.2.2.3 of this appendix;
+ETLP = the annual combined low-power mode energy consumption of a conventional cooking top or any conventional cooking top component of a combined cooking product, as determined in section 4.2 of this appendix; and
+Ke is defined in section 4.1.1.2.6 of this appendix.

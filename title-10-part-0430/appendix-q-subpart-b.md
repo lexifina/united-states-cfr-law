@@ -46,7 +46,8 @@ DOE incorporated by reference ANSI C78.81-2016, ANSI C78.375A, ANSI C78.901-2016
 For any ballast designed and marketed to operate both 4-foot medium bipin lamps and 2-foot U-shaped lamps, test with the maximum number of 4-foot medium bipin lamp(s).
 2.3.3.6. Test each ballast with the lamp type specified in Table A of this section that corresponds to the lamp diameter and base type the ballast is designed and marketed to operate.
 Table 1 to Section 2.3.3.6—Lamp-and-Ballast Pairings and Frequency Adjustment Factors
-Ballast type | Lamp type | Lamp diameter and base | Nominal lamp wattage | Frequency adjustment factor (β) | Low- frequency | High- frequency
+Ballast type | Lamp type | Frequency adjustment factor (β)
+Lamp diameter and base | Nominal lamp wattage | Low- frequency | High- frequency
 Ballasts that operate straight-shaped lamps (commonly referred to as 4-foot medium bipin lamps) with medium bipin bases and a nominal overall length of 48 inches | T8 MBP (Data Sheet 7881-ANSI-1005-4) * T12 MBP (Data Sheet 7881-ANSI-1006-1) * | 32 34 | 0.94 0.93 | 1.0 1.0
 Ballasts that operate U-shaped lamps (commonly referred to as 2-foot U-shaped lamps) with medium bipin bases and a nominal overall length between 22 and 25 inches | T8 MBP (Data Sheet 78901-ANSI-4027-2) * T12 MBP ** | 32 34 | 0.94 0.93 | 1.0 1.0
 Ballasts that operate lamps (commonly referred to as 8-foot-high output lamps) with recessed double contact bases and a nominal overall length of 96 inches | T8 HO RDC (Data Sheet 7881-ANSI-1501-2) * T12 HO RDC (Data Sheet 7881-ANSI-1017-1) * | 86 95 | 0.92 0.94 | 1.0 1.0
@@ -54,18 +55,13 @@ Ballasts that operate lamps (commonly referred to as 8-foot slimline lamps) with
 Ballasts that operate straight-shaped lamps (commonly referred to as 4-foot miniature bipin standard output lamps) with miniature bipin bases and a nominal length between 45 and 48 inches | T5 SO Mini-BP (Data Sheet 60081-IEC-6640-7) * | 28 | 0.95 | 1.0
 Ballasts that operate straight-shaped lamps (commonly referred to as 4-foot miniature bipin high output lamps) with miniature bipin bases and a nominal length between 45 and 48 inches | T5 HO Mini-BP (Data Sheet 60081-IEC-6840-6) * | 54 | 0.95 | 1.0
 Sign ballasts that operate lamps (commonly referred to as 8-foot high output lamps) with recessed double contact bases and a nominal overall length of 96 inches | T8 HO RDC (Data Sheet 7881-ANSI-1501-2) * T12 HO RDC (Data Sheet 7881-ANSI-1019-1) * | 86 † 110 | 0.92 0.94 | 1.0 1.0
-MBP, Mini-BP, RDC, and SP represent medium bipin, miniature bipin, recessed double contact, and single pin, respectively.
-* Data Sheet corresponds to ANSI C78.81-2016, ANSI C78.901-2016, or IEC 60081 page number (incorporated by reference; see § 430.3).
-** No ANSI or IEC Data Sheet exists for 34 W T12 MBP U-shaped lamps. For ballasts designed and marketed to operate only T12 2-foot U-shaped lamps with MBP bases and a nominal overall length between 22 and 25 inches, select T12 U-shaped lamps designed and marketed as having a nominal wattage of 34 W.
-† This lamp type is commonly marketed as 110 W; however, the ANSI C78.81-2016 Data Sheet (incorporated by reference; see § 430.3) lists nominal wattage of 113 W. Test with specifications for operation at 0.800 amperes (A).
+MBP, Mini-BP, RDC, and SP represent medium bipin, miniature bipin, recessed double contact, and single pin, respectively. * Data Sheet corresponds to ANSI C78.81-2016, ANSI C78.901-2016, or IEC 60081 page number (incorporated by reference; see § 430.3). ** No ANSI or IEC Data Sheet exists for 34 W T12 MBP U-shaped lamps. For ballasts designed and marketed to operate only T12 2-foot U-shaped lamps with MBP bases and a nominal overall length between 22 and 25 inches, select T12 U-shaped lamps designed and marketed as having a nominal wattage of 34 W. † This lamp type is commonly marketed as 110 W; however, the ANSI C78.81-2016 Data Sheet (incorporated by reference; see § 430.3) lists nominal wattage of 113 W. Test with specifications for operation at 0.800 amperes (A).
 2.3.4. Test Circuits
 2.3.4.1. The power analyzer test setup must have exactly n + 1 channels, where n is the maximum number of lamps (lamp type as determined by sections 2.3.3.2, 2.3.3.3, and 2.3.3.4 of this appendix) a ballast is designed and marketed to operate. Use the minimum number of power analyzers possible during testing. Synchronize all power analyzers. A system may be used to synchronize the power analyzers.
 2.3.4.2. Lamp Arc Voltage. Attach leads from the power analyzer to each fluorescent lamp according to Figure 1 of this section for rapid- and programmed-start ballasts; Figure 2 of this section for instant-start ballasts operating single pin (SP) lamps; and Figure 3 of this section for instant-start ballasts operating medium bipin (MBP), miniature bipin (mini-BP), or recessed double contact (RDC) lamps. The programmed- and rapid-start ballast test setup includes two 1000 ohm resistors placed in parallel with the lamp pins to create a midpoint from which to measure lamp arc voltage.
 2.3.4.3. Lamp Arc Current. Position a current probe on each fluorescent lamp according to Figure 1 of this section for rapid- and programmed-start ballasts; Figure 2 of this section for instant-start ballasts operating SP lamps; and Figure 3 of this section for instant-start ballasts operating MBP, mini-BP, and RDC lamps.
 For the lamp arc current measurement, set the full transducer ratio in the power analyzer to match the current probe to the power analyzer.
-ER14SE20.006
-Where: I in is the current through the current transducer, V out is the voltage out of the transducer, R in is the power analyzer impedance, and R s is the current probe output impedance.
-ER14SE20.007
+Where: Iin is the current through the current transducer, Vout is the voltage out of the transducer, Rin is the power analyzer impedance, and Rs is the current probe output impedance.
 2.4. Test Conditions
 2.4.1. Establish and maintain test conditions for testing fluorescent lamp ballasts in accordance with sections 3 and 4 of ANSI C82.2.
 2.4.2. Room Temperature and Air Circulation. Maintain the test area at 25 ±1 °C, with minimal air movement as defined in section 4 of ANSI C78.375A.
@@ -84,10 +80,8 @@ ER14SE20.007
 2.5.9. Lamp Operating Frequency. Measure the frequency of the waveform delivered from the ballast to any lamp used in the test in accordance with the setup in section 2.3 of this appendix.
 2.6. Calculations
 2.6.1. Calculate ballast luminous efficiency (BLE) as follows (do not round values of total lamp arc power and input power prior to calculation):
-ER14SE20.008
 Where: Total Lamp Arc Power is the sum of the lamp arc powers for all lamps operated by the ballast as measured in section 2.5.5 of this appendix, Input Power is as determined by section 2.5.6 of this appendix, and β is equal to the frequency adjustment factor in Table 1 of this appendix.
 2.6.2. Calculate Power Factor (PF) as follows (do not round values of input power, input voltage, and input current prior to calculation):
-ER14SE20.009
 Where: Input Power is measured in accordance with section 2.5.6 of this appendix, Input Voltage is measured in accordance with section 2.5.7 of this appendix, and Input Current is measured in accordance with section 2.5.8 of this appendix.
 3. Standby Mode Procedure
 3.1. The measurement of standby mode power is required to be performed only if a manufacturer makes any representations with respect to the standby mode power use of the fluorescent lamp ballast. When there is a conflict, the language of the test procedure in this appendix takes precedence over IEC 62301 (incorporated by reference; see § 430.3). Specifications in referenced standards that are not clearly mandatory are mandatory. Manufacturer's instructions, such as "instructions for use" referenced in IEC 62301 mean the manufacturer's instructions that come packaged with or appear on the unit, including on a label. It may include an online manual if specifically referenced (e.g., by date or version number) either on a label or in the packaged instructions. Instructions that appear on the unit take precedence over instructions available electronically, such as through the internet.
