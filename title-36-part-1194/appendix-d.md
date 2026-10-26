@@ -68,7 +68,7 @@ Nothing in this part is intended to prevent the use of designs or technologies a
 (o) A method shall be provided that permits users to skip repetitive navigation links.
 (p) When a timed response is required, the user shall be alerted and given sufficient time to indicate more time is required.
 Note to § D1194.22: 1. The Board interprets paragraphs (a) through (k) of this section as consistent with the following priority 1 Checkpoints of the Web Content Accessibility Guidelines 1.0 (WCAG 1.0) (May 5, 1999) published by the Web Accessibility Initiative of the World Wide Web Consortium:
-Section 1194.22paragraph | WCAG 1.0 checkpoint
+Section 1194.22 paragraph | WCAG 1.0 checkpoint
 (a) | 1.1
 (b) | 1.4
 (c) | 2.1
@@ -145,4 +145,3 @@ Section 1194.22paragraph | WCAG 1.0 checkpoint
 [65 FR 80523, Dec. 21, 2000. Redesignated and amended at 82 FR 5832, Jan. 18, 2017]
 §§ D1194.42-D1194.50 [Reserved]
 § D1194.51 Figures
-ER21DE00.000
