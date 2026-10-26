@@ -8,7 +8,7 @@ In § 431.173, DOE incorporated by reference the entire standard for AMCA 230-23
 (c) Section 6, "Equipment and Setup,";
 (d) Section 7, "Observations and Conduct of Test,";
 (e) Section 8, "Calculations," excluding equations 8.5 and 8.6; and
-(f) Section 9, "Report and Results of Test,".
+(f) Section 9, "Report and Results of Test,"
 1. Definitions
 The definitions applicable to this appendix are defined in § 431.172 and in Section 4, "Definitions/Units of Measurement/Symbols," of AMCA 230-23. In cases where there is a conflict, the definitions in § 431.172 take precedence over AMCA 230-23.
 2. Test Procedure for Air Circulating Fans
@@ -16,7 +16,7 @@ The definitions applicable to this appendix are defined in § 431.172 and in Sec
 This section describes the test procedure for air circulating fans.
 2.2. Testing
 2.2.1. General
-The air circulating fan efficacy (E ƒƒ circ) in cubic feet per minute ("CFM") per watt ("W") ("CFM/W") at maximum speed must be determined in accordance with the applicable sections of AMCA 230-23 as listed in section 0.1 of this appendix. In addition, testing must be conducted in accordance with the provisions in sections 2.3 through 2.5 of this appendix. Optional testing speeds lower than maximum speed is permitted. Speeds less than maximum speeds must be expressed at a percentage of maximum speed (e.g., 50 percent) and the air circulating fan efficacy at lower speed must include the speed percentage in its subscript (e.g., E ƒƒ circ,50).
+The air circulating fan efficacy (Eƒƒcirc) in cubic feet per minute ("CFM") per watt ("W") ("CFM/W") at maximum speed must be determined in accordance with the applicable sections of AMCA 230-23 as listed in section 0.1 of this appendix. In addition, testing must be conducted in accordance with the provisions in sections 2.3 through 2.5 of this appendix. Optional testing speeds lower than maximum speed is permitted. Speeds less than maximum speeds must be expressed at a percentage of maximum speed (e.g., 50 percent) and the air circulating fan efficacy at lower speed must include the speed percentage in its subscript (e.g., Eƒƒcirc,50).
 All measurements must be recorded at the resolution of the test instrumentation and calculations must be rounded to the number of significant digits of the resolution of the test instrumentation.
 2.3. Air circulating fans without motors
 Air circulating fans distributed in commerce without an electric motor must be tested using an electric motor as recommended in the manufacturer's catalogs or distributed in commerce with the air circulating fan. If more than one motor is available in manufacturer's catalogs or distributed in commerce with the air circulating fan, testing must be conducted using the least efficient motor capable of running the fan at the fan's maximum allowable speed.
@@ -45,6 +45,4 @@ In addition to the test requirements specified in sections 7.1 and 7.3 of AMCA 2
 (4) The slopes of a linear fit trendline calculated from the individual data collected for fan speed, input power, and load differential during at least three 120-second intervals include both positive and negative values (e.g., two positive and one negative slope value or one positive and two negative slope values). If three positive or three negative slopes are determined in succession, additional sampling intervals are required until slopes from three successive 120-second intervals include both positive and negative values.
 2.6. Calculation of Ambient Air Density.
 For any references to ambient air density, ρ0, in AMCA 230-23, calculate ρ0, expressed in kg/m3 when using SI units or lbm/ft3 when using I-P units, as follows:
-ER08AU23.005
-ER08AU23.006
-where p b is the measured barometric pressure of the air, T d0 is the measured dry-bulb temperature of the air, p p is the partial vapor pressure, R is the gas constant, which are all determined according to section 8.2 of AMCA 230-23.
+where pb is the measured barometric pressure of the air, Td0 is the measured dry-bulb temperature of the air, pp is the partial vapor pressure, R is the gas constant, which are all determined according to section 8.2 of AMCA 230-23.

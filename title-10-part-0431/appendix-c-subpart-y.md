@@ -22,31 +22,30 @@ D. Data Collection and Stabilization
 D.1 Damping Devices. Use of damping devices, as described in section 40.6.3.2.2 of HI 40.6-2014-B (incorporated by reference, see § 431.463), are only permitted to integrate up to the data collection interval used during testing.
 D.2 Stabilization. Record data at any tested load point only under stabilized conditions, as defined in HI 40.6-2014-B section 40.6.5.5.1 (incorporated by reference, see § 431.463), where a minimum of two measurements are used to determine stabilization.
 D.3 Test Points. Measure the flow rate in gpm, pump total head in ft, the driver power input in W, and the speed of rotation in rpm at each load point specified in Table 1 of this appendix for each DPPP variety and speed configuration:
-Table 1—Load Points (i) and Weights (w i) for Each DPPP Variety and Speed Configuration
-DPPP varieties | Speed configuration(s) | Number of load points(n) | Load point(i) | Test points | Flow rate(Q) (GPM) | Head(H) (ft) | Speed(rpm)
-Self-Priming Pool Filter Pumps And Non-Self-Priming Pool Filter Pumps | Single-speed dedicated-purpose pool pumps and all self-priming and non-self-priming pool filter pumps not meeting the definition of two-*, multi-, or variable-speed dedicated-purpose pool pump | 1 | High | Qhigh (gpm) = Qmax_speed@C ** | H = 0.0082 × Qhigh 2 | Maximum speed.
-| Two-speed dedicated-purpose pool pumps * | 2 | Low | Qlow (gpm) = Flow rate associated with specified head and speed that is not below:• 31.1 gpm if rated hydraulic horsepower is >0.75 or • 24.7 gpm if rated hydraulic horsepower is ≤0.75 | H = 0.0082 × Qlow 2 | Lowest speed capable of meeting the specified flow and head values, if any. ***
-| | | High | Qhigh (gpm) = Qmax_speed@C ** | H = 0.0082 × Qlow 2 | Maximum speed.
-| Multi-speed and variable-speed dedicated-purpose pool pumps | 2 | Low | Qlow (gpm) =• If rated hydraulic horsepower is >0.75, then Qlow ≥31.1 gpm • If rated hydraulic horsepower is ≤0.75, then Qlow ≥24.7 gpm | H = 0.0082 × Qlow 2 | Lowest speed capable of meeting the specified flow and head values.
-| | | High | Qhigh (gpm) ≥0.8 × Qmax_speed@C ** | H = 0.0082 × Qhigh 2 | Lowest speed capable of meeting the specified flow and head values.
+Table 1—Load Points (i) and Weights (wi) for Each DPPP Variety and Speed Configuration
+DPPP varieties | Speed configuration(s) | Number of load points (n) | Load point (i) | Test points
+Flow rate (Q) (GPM) | Head (H) (ft) | Speed (rpm)
+Self-Priming Pool Filter Pumps And Non-Self-Priming Pool Filter Pumps | Single-speed dedicated-purpose pool pumps and all self-priming and non-self-priming pool filter pumps not meeting the definition of two-*, multi-, or variable-speed dedicated-purpose pool pump | 1 | High | Qhigh (gpm) = Qmax__speed@C ** | H = 0.0082 × Qhigh 2 | Maximum speed.
+| Two-speed dedicated-purpose pool pumps * | 2 | Low | Qlow (gpm) = Flow rate associated with specified head and speed that is not below: • 31.1 gpm if rated hydraulic horsepower is >0.75 or • 24.7 gpm if rated hydraulic horsepower is ≤0.75 | H = 0.0082 × Qlow 2 | Lowest speed capable of meeting the specified flow and head values, if any. ***
+| | | High | Qhigh (gpm) = Qmax__speed@C ** | H = 0.0082 × Qlow 2 | Maximum speed.
+| Multi-speed and variable-speed dedicated-purpose pool pumps | 2 | Low | Qlow (gpm) = • If rated hydraulic horsepower is >0.75, then Qlow ≥31.1 gpm • If rated hydraulic horsepower is ≤0.75, then Qlow ≥24.7 gpm | H = 0.0082 × Qlow 2 | Lowest speed capable of meeting the specified flow and head values.
+| | | High | Qhigh (gpm) ≥0.8 × Qmax__speed@C ** | H = 0.0082 × Qhigh 2 | Lowest speed capable of meeting the specified flow and head values.
 Waterfall Pumps | Single-speed dedicated-purpose pool pumps | 1 | High | Qlow (gpm) = Flow corresponding to specified head | 17.0 ft | Maximum speed.
 Pressure Cleaner Booster Pumps | Any | 1 | High | 10.0 gpm | ≥60.0 ft | Lowest speed capable of meeting the specified flow and head values.
-* In order to apply the test points for two-speed self-priming and non-self-priming pool filter pumps, self-priming pool filter pumps that are greater than or equal to 0.711 rated hydraulic horsepower that are two-speed dedicated-purpose pool pumps must also be distributed in commerce either: (1) With a pool pump control (variable speed drive and user interface or switch) that changes the speed in response to pre-programmed user preferences and allows the user to select the duration of each speed and/or the on/off times or (2) without a pool pump control that has such capability, but without which the pump is unable to operate. Two-speed self-priming pool filter pumps greater than or equal to 0.711 rated hydraulic horsepower that do not meet these requirements must be tested using the load point for single-speed self-priming or non-self-priming pool filter pumps, as appropriate.
-** Qmax_speed@C = Flow at max speed on curve C (gpm).
-*** If a two-speed pump has a low speed that results in a flow rate below the specified values, the low speed of that pump shall not be tested.
+* In order to apply the test points for two-speed self-priming and non-self-priming pool filter pumps, self-priming pool filter pumps that are greater than or equal to 0.711 rated hydraulic horsepower that are two-speed dedicated-purpose pool pumps must also be distributed in commerce either: (1) With a pool pump control (variable speed drive and user interface or switch) that changes the speed in response to pre-programmed user preferences and allows the user to select the duration of each speed and/or the on/off times or (2) without a pool pump control that has such capability, but without which the pump is unable to operate. Two-speed self-priming pool filter pumps greater than or equal to 0.711 rated hydraulic horsepower that do not meet these requirements must be tested using the load point for single-speed self-priming or non-self-priming pool filter pumps, as appropriate. ** Qmax__speed@C = Flow at max speed on curve C (gpm). *** If a two-speed pump has a low speed that results in a flow rate below the specified values, the low speed of that pump shall not be tested.
 E. Calculations
 E.1 Determination of Weighted Energy Factor. Determine the WEF as a ratio of the measured flow and driver power input to the dedicated-purpose pool pump in accordance with the following equation:
-ER07AU17.016
 Where:
 WEF = Weighted Energy Factor in kgal/kWh;
-W i = weighting factor at each load point i, as specified in section E.2 of this appendix;
-Q i = flow at each load point i, in gpm;
-P i = driver power input to the motor (or controls, if present) at each load point i, in watts;
+Wi = weighting factor at each load point i, as specified in section E.2 of this appendix;
+Qi = flow at each load point i, in gpm;
+Pi = driver power input to the motor (or controls, if present) at each load point i, in watts;
 i = load point(s), defined uniquely for each DPPP variety and speed configuration as specified in section D.3 of this appendix; and
 n = number of load point(s), defined uniquely for each DPPP variety and speed configuration as specified in section D.3 of this appendix.
 E.2 Weights. When determining WEF, apply the weights specified in Table 2 of this appendix for the applicable load points, DPPP varieties, and speed configurations:
-Table 2—Load Point Weights (w i)
-DPPP varieties | Speed configuration(s) | Load point(s) i | Low flow | High flow
+Table 2—Load Point Weights (wi)
+DPPP varieties | Speed configuration(s) | Load point(s) i
+Low flow | High flow
 Self-Priming Pool Filter Pumps and Non-Self-Priming Pool Filter Pumps | Single-speed dedicated-purpose pool pumps and all self-priming and non-self-priming pool filter pumps not meeting the definition of two-*, multi-, or variable-speed dedicated-purpose pool pump | | 1.0
 | Two-speed dedicated-purpose pool pumps * | 0.80 | 0.20
 | Multi-speed and variable-speed dedicated-purpose pool pumps | 0.80 | 0.20
@@ -55,17 +54,15 @@ Pressure Cleaner Booster Pump | Any | | 1.0
 * In order to apply the test points for two-speed self-priming and non-self-priming pool filter pumps, self-priming pool filter pumps that are greater than or equal to 0.711 rated hydraulic horsepower that are two-speed dedicated-purpose pool pumps must also be distributed in commerce either: (1) With a pool pump control (variable speed drive and user interface or switch) that changes the speed in response to pre-programmed user preferences and allows the user to select the duration of each speed and/or the on/off times or (2) without a pool pump control that has such capability, but without which the pump is unable to operate. Two-speed self-priming pool filter pumps greater than or equal to 0.711 rated hydraulic horsepower that do not meet these requirements must be tested using the load point for single-speed self-priming or non-self-priming pool filter pumps, as appropriate.
 E.3 Determination of Horsepower and True Power Factor Metrics
 E.3.1 Determine the pump power output at any load point i using the following equation:
-ER07AU17.017
 Where:
-P u,i = the measured pump power output at load point i of the tested pump, in hp;
-Q i = the measured flow rate at load point i of the tested pump, in gpm;
-H i = pump total head at load point i of the tested pump, in ft; and
+Pu,i = the measured pump power output at load point i of the tested pump, in hp;
+Qi = the measured flow rate at load point i of the tested pump, in gpm;
+Hi = pump total head at load point i of the tested pump, in ft; and
 SG = the specific gravity of water at specified test conditions, which is equivalent to 1.00.
 E.3.1.1 Determine the rated hydraulic horsepower as the pump power output measured on the reference curve at maximum rotating speed and full impeller diameter for the rated pump.
 E.3.2 For dedicated-purpose pool pumps with single-phase AC motors or DC motors, determine the dedicated-purpose pool pump nominal motor horsepower as the product of the measured full load speed and torque, adjusted to the appropriate units, as shown in the following equation:
-ER07AU17.018
 Where:
-P nm = the dedicated-purpose pool pump nominal total horsepower at full load, in hp;
+Pnm = the dedicated-purpose pool pump nominal total horsepower at full load, in hp;
 T = output torque at full load, in lb-ft; and
 n = the motor speed at full load, in rpm.
 Full-load speed and torque shall be determined based on the maximum continuous duty motor power output rating allowable for the motor's nameplate ambient rating and insulation class.
@@ -79,13 +76,12 @@ E.3.3 For dedicated-purpose pool pumps with single-phase AC motors or DC motors,
 E.3.4 Determine the dedicated-purpose pool pump motor total horsepower according to section E.3.4.1 of this appendix for dedicated-purpose pool pumps with single-phase AC motors or DC motors and section E.3.4.2 of this appendix for dedicated-purpose pool pumps with polyphase AC motors.
 E.3.4.1 For dedicated-purpose pool pumps with single-phase AC motors or DC motors, determine the dedicated-purpose pool pump motor total horsepower as the product of the dedicated-purpose pool pump nominal motor horsepower, determined in accordance with section E.3.2 of this appendix, and the dedicated-purpose pool pump service factor, determined in accordance with section E.3.3 of this appendix.
 E.3.4.2 For dedicated-purpose pool pumps with polyphase AC induction motors, determine the dedicated-purpose pool pump motor total horsepower as the product of the rated nominal motor horsepower and the rated service factor of the motor.
-E.3.5 Determine the true power factor at each applicable load point specified in Table 1 of this appendix for each DPPP variety and speed configuration as a ratio of driver power input to the motor (or controls, if present) (P i), in watts, divided by the product of the voltage in volts and the current in amps at each load point i, as shown in the following equation:
-ER07AU17.019
+E.3.5 Determine the true power factor at each applicable load point specified in Table 1 of this appendix for each DPPP variety and speed configuration as a ratio of driver power input to the motor (or controls, if present) (Pi), in watts, divided by the product of the voltage in volts and the current in amps at each load point i, as shown in the following equation:
 Where:
-PF i = true power factor at each load point i, dimensionless;
-P i = driver power input to the motor (or controls, if present) at each load point i, in watts;
-V i = voltage at each load point i, in volts;
-I i = current at each load point i, in amps; and
+PFi = true power factor at each load point i, dimensionless;
+Pi = driver power input to the motor (or controls, if present) at each load point i, in watts;
+Vi = voltage at each load point i, in volts;
+Ii = current at each load point i, in amps; and
 i = load point(s), defined uniquely for each DPPP variety and speed configuration as specified in section D.3 of this appendix.
 E.4 Determination of Maximum Head. Determine the maximum head for self-priming pool filter pumps, non-self-priming pool filter pumps, and waterfall pumps by measuring the head at maximum speed and the minimum flow rate at which the pump is designed to operate continuously or safely, where the minimum flow rate is assumed to be zero unless stated otherwise in the manufacturer literature.
 F. Determination of Self-Priming Capability
@@ -95,12 +91,11 @@ F.1.1 Where section C.3.2, "Apparatus," and section C.3.4, "Self-priming capabil
 (2) The pump draws water from the water tank with a riser pipe that extends below the water level a distance of at least 3 times the riser pipe diameter (i.e., 3 pipe diameters);
 (3) The suction inlet of the pump is at least 5 pipe diameters from any obstructions, 90° bends, valves, or fittings; and
 (4) The riser pipe is of the same pipe diameter as the pump suction inlet.
-F.1.1.1 The vertical lift (VL) must be normalized to 5.0 feet at an atmospheric pressure of 14.7 psia and a water density of 62.4 lb/ft3 in accordance with the following equation:
-ER07AU17.020
+F.1.1.1 The vertical lift (VL) must be normalized to 5.0 feet at an atmospheric pressure of 14.7 psia and a water density of 62.4 lb/ft 3 in accordance with the following equation:
 Where:
 VL = vertical lift of the test apparatus from the waterline to the centerline of the pump impeller shaft, in ft;
-ρ test = density of test fluid, in lb/ft3; and
-P abs,test = absolute barometric pressure of test apparatus location at centerline of pump impeller shaft, in psia.
+ρtest = density of test fluid, in lb/ft 3; and
+Pabs,test = absolute barometric pressure of test apparatus location at centerline of pump impeller shaft, in psia.
 F.1.2 The equipment accuracy requirements specified in section B, "Measurement Equipment," of this appendix also apply to this section F, as applicable.
 F.1.2.1 All measurements of head (gauge pressure), flow, and water temperature must be taken at the pump suction inlet and all head measurements must be normalized back to the centerline of the pump impeller shaft in accordance with section A.3.1.3.1 of HI 40.6-2014-B (incorporated by reference, see § 431.463).
 F.1.3 All tests must be conducted with clear water that meets the requirements adopted in section C.3 of this appendix.

@@ -25,8 +25,8 @@ DOE incorporated by reference in § 431.63 the entire standard for AHRI 1200-202
 1.1.2. For each commercial refrigerator, freezer, or refrigerator-freezer with a remote condensing unit, also use AHRI 1200-2023, section 5.1, "Rating Requirements for Remote Commercial Refrigerated Display Merchandisers and Storage Cabinets."
 1.1.3. For each commercial refrigerator, freezer, or refrigerator-freezer used with a secondary coolant, test according to section 1.1.2 of this appendix, except in place of the equations for CDEC and CEC in sections 5.1.2 and 5.1.2.1 of AHRI 1200-2023, respectively, apply the following equations:
 CDEC = CEC + [FEC + LEC + AEC + DEC + PEC]* + CPEC
-CEC = [(Q rt + Q CP) · (t − t dt)]/(EER · 1000)
-Where CPEC and Q CP are as specified in sections 5.2.7 and 5.2.8 of AHRI 1320-2011 and EER is determined based on a temperature that is 6.0 °F lower than the secondary coolant cabinet inlet temperature.
+CEC = [(Qrt + QCP) · (t − tdt)]/(EER · 1000)
+Where CPEC and QCP are as specified in sections 5.2.7 and 5.2.8 of AHRI 1320-2011 and EER is determined based on a temperature that is 6.0 °F lower than the secondary coolant cabinet inlet temperature.
 1.2. Methodology for Determining Applicability of Transparent Door Equipment Families. To determine if a door for a given model of commercial refrigeration equipment is transparent:
 (a) Calculate the outer door surface area including frames and mullions;
 (b) calculate the transparent surface area within the outer door surface area excluding frames and mullions;
@@ -35,16 +35,15 @@ Where CPEC and Q CP are as specified in sections 5.2.7 and 5.2.8 of AHRI 1320-20
 1.3. Drawers. Drawers shall be treated as identical to doors when conducting the DOE test procedure. Commercial refrigeration equipment with drawers intended for use with pans shall be configured with stainless steel food service pans, installed in a configuration per the manufacturer's instructions utilizing the maximum pan sizes specified. If the manufacturer does not specify the pan sizes, the maximum pan depth and pan volume allowed shall be used. For commercial refrigeration equipment with drawers intended for use with pans, the net usable volume includes only the interior volume of the pan(s) in the drawer. The net usable volume shall be measured by the amount of water needed to fill all the pan(s) to within 0.5 inches of the top rim, or determined by calculating the total volume of all pan(s) using the pan manufacturers' published pan volume. For commercial refrigeration equipment with drawers not intended for pans, the net usable volume shall be equal to the total volume of the drawer to the top edge of the drawer. Test simulators shall be placed in commercial refrigeration equipment with drawers as follows: For each drawer, there shall be two test simulators placed at each of the following locations: at the left end, at the right end, and at consistent 24 inch to 48 inch intervals across the width of the drawer (for drawers wider than 48 inches). For drawers with overall internal width of 48 inches or less, only the left and right ends shall have test simulators. If test simulators are to be placed at a pan edge or divider, the test simulator shall be placed at the nearest adjacent location. For each drawer, one test simulator shall be placed on the bottom of the pan or drawer at each of the front and rear test simulator locations of the drawer. Test simulators shall be placed in contact with the drawer or pan end or ends unless load limiting stops are provided as part of the case. Test simulators shall be secured such that the test simulators do not move during the test. The net usable volume where test simulators are not required shall be filled with filler material so that between 60 percent and 80 percent of the net usable volume is occupied by test simulators and uniformly occupied by filler material.
 1.4. Long-time Automatic Defrost. For commercial refrigeration equipment not capable of operating with defrost intervals of 24 hours or less, testing may be conducted using a two-part test method.
 1.4.1. First Part of Test. The first part of the test shall be a 24-hour test starting in steady-state conditions and including eight hours of door opening (according to ASHRAE 72-2022 with Errata). The energy consumed in this test, ET1, shall be recorded.
-1.4.2. Second Part of Test. The second part of the test shall be a defrost cycle, including any operation associated with a defrost. The start and end of the test period be determined as the last time before and first time after a defrost occurrence when the measured average simulator temperature (i.e., the instantaneous average of all test simulator temperature measurements) is within 0.5 °F of the IAT as measured during the first part of the test. The energy consumed in this test, ET2, and duration, t DI, shall be recorded.
+1.4.2. Second Part of Test. The second part of the test shall be a defrost cycle, including any operation associated with a defrost. The start and end of the test period be determined as the last time before and first time after a defrost occurrence when the measured average simulator temperature (i.e., the instantaneous average of all test simulator temperature measurements) is within 0.5 °F of the IAT as measured during the first part of the test. The energy consumed in this test, ET2, and duration, tDI, shall be recorded.
 1.4.3. Daily Energy Consumption. Based on the measured energy consumption in these two tests, the daily energy consumption (DEC) in kWh shall be calculated as:
-ER26SE23.007
 Where:
 DEC = daily energy consumption, in kWh;
 ET 1 = energy consumed during the first part of the test, in kWh;
 ET 2 = energy consumed during the second part of the test, in kWh;
-t NDI = normalized length of defrosting time per day, in minutes;
-t DI = length of time of defrosting test period, in minutes;
-t DC = minimum time between defrost occurrences, in days; and
+tNDI = normalized length of defrosting time per day, in minutes;
+tDI = length of time of defrosting test period, in minutes;
+tDC = minimum time between defrost occurrences, in days; and
 1440 = conversion factor, minutes per day.
 1.5. Customer Order Storage Cabinets. Customer order storage cabinets shall conduct door openings according to ASHRAE 72-2022 with Errata, except that each door shall be opened to the fully open position for 8 seconds, once every 2 hours, for 6 door-opening cycles.
 1.5.1. Ambient Compartments. For customer order storage cabinets that have at least one individual-secured compartment that is not capable of maintaining an integrated average temperature below the ambient dry-bulb temperature, the individual-secured compartment(s) at ambient dry-bulb temperature shall be categorized as a high-temperature refrigerator compartment for the purpose of testing and rating. All volume, total display area, and energy consumption calculations shall be included within the high-temperature refrigerator category and summed with other high-temperature refrigerator category compartment(s) calculations.
@@ -53,10 +52,9 @@ t DC = minimum time between defrost occurrences, in days; and
 1.5.3.1. Anti-sweat door heaters. Anti-sweat door heaters shall be de-energized for the inverse refrigeration load test specified in section 1.5.3. of this appendix.
 1.5.3.2. Integrated Average Temperature. For medium-temperature refrigerator compartments, the integrated average temperature shall be 112.4 °F ±2.0 °F. For low-temperature freezer compartments, the integrated average temperature shall be 150.4 °F ±2.0 °F. For ambient compartments, the integrated average temperature shall be 75.4 °F ±2.0 °F.
 1.5.3.3. Daily Energy Consumption. Determine the calculated daily energy consumption ("CDEC") and the EER based on AHRI 1200-2023, section 5.1, "Rating Requirements for Remote Commercial Refrigerated Display Merchandisers and Storage Cabinets," except that the compressor energy consumption ("CEC") shall be calculated by applying the following equations:
-ER26SE23.006
-ML = N d × (A e + A m)
-A e = [(H a − H c) − (H t − H a)] × m a
-A m = C p,liner × W liner × Δ T liner
+ML = Nd × (Ae + Am)
+Ae = [(Ha − Hc) − (Ht − Ha)] × ma
+Am = Cp,liner × Wliner × ΔTliner
 Where:
 CEC = compressor energy consumption, kWh per day;
 Q = inverse refrigeration load (does not include waste heat from auxiliary components and moisture infiltration), in BTU per h;
@@ -68,17 +66,17 @@ DEC = defrost heater(s) energy consumption, Wh per day;
 3.412 = conversion factor, BTU per Wh;
 EER = energy efficiency ratio, BTU per Wh;
 1000 = conversion factor, W per kW;
-W in = energy input measured over the test period for all energized components (heaters, controls, and fans) located in the refrigerated compartments, in Wh;
-N d = number of door openings during test, unitless;
-A e = enthalpy adjustment, BTU per day;
-A m = moisture/frost accumulation, BTU per day;
-H a = ambient air enthalpy, BTU per pound;
-H c = compartment air enthalpy based on air conditions during cold operation (e.g., 0 °F dry bulb/−20 °F dew point for freezer compartment, 38 °F dry bulb/20 °F dew point for refrigerator compartment, 75 °F dry bulb/20 °F dew point for ambient compartment), BTU per pound;
-H t = compartment air enthalpy during heat leak test based on dew point being equal to ambient air dew point, BTU per pound;
-m a = mass of compartment air exchanged (30% of total compartment volume) based density of air during cold operation, pounds;
-C p,liner = specific heat of liner material, BTU per °F per pound;
-W liner = weight of all liner parts, pounds; and
-ΔT liner = maximum temperature rise of all liner parts (e.g., 4.5 °F, 2.5 °F, and 1 °F for freezer, refrigerator, and ambient compartments, respectively), °F.
+Win = energy input measured over the test period for all energized components (heaters, controls, and fans) located in the refrigerated compartments, in Wh;
+Nd = number of door openings during test, unitless;
+Ae = enthalpy adjustment, BTU per day;
+Am = moisture/frost accumulation, BTU per day;
+Ha = ambient air enthalpy, BTU per pound;
+Hc = compartment air enthalpy based on air conditions during cold operation (e.g., 0 °F dry bulb/−20 °F dew point for freezer compartment, 38 °F dry bulb/20 °F dew point for refrigerator compartment, 75 °F dry bulb/20 °F dew point for ambient compartment), BTU per pound;
+Ht = compartment air enthalpy during heat leak test based on dew point being equal to ambient air dew point, BTU per pound;
+ma = mass of compartment air exchanged (30% of total compartment volume) based density of air during cold operation, pounds;
+Cp,liner = specific heat of liner material, BTU per °F per pound;
+Wliner = weight of all liner parts, pounds; and
+ΔTliner = maximum temperature rise of all liner parts (e.g., 4.5 °F, 2.5 °F, and 1 °F for freezer, refrigerator, and ambient compartments, respectively), °F.
 2. Test Conditions
 2.1. Integrated Average Temperatures. Conduct the testing required in section 1 of this appendix, and determine the daily energy consumption at the applicable integrated average temperature as follows:
 2.1.1. Ice-Cream Freezers. Test ice-cream freezers and ice-cream freezer compartments to the integrated average temperature specified in section 4.1.1.2, "Ice Cream Applications," of AHRI 1200-2023.

@@ -6,10 +6,8 @@ Determine the standby loss in accordance with the following sections of this app
 2.1. Placement of Water Heater. A water heater for installation on combustible floors must be placed on a 3/4-inch plywood platform supported by three 2 × 4-inch runners. If the water heater is for installation on noncombustible floors, suitable noncombustible material must be placed on the platform. When the use of the platform for a large water heater is not practical, the water heater may be placed on any suitable flooring. A wall-mounted water heater must be mounted on a simulated wall section.
 2.2. Installation of Temperature Sensors. Inlet and outlet piping must be turned vertically downward from the connections on a tank-type water heater so as to form heat traps. Temperature sensors for measuring supply water temperature must be installed upstream of the inlet heat trap piping, in accordance with Figure 2.1, 2.2, or 2.3 (as applicable) of this appendix.
 The water heater must meet the requirements shown in either Figure 2.1, 2.2, or 2.3 (as applicable) at all times during the conduct of the standby loss test. Any factory-supplied heat traps must be installed per the installation instructions while ensuring the requirements in Figure 2.1, 2.2, or 2.3 are met. All dimensions specified in Figure 2.1, 2.2, and 2.3 are measured from the outer surface of the pipes and water heater outer casing (as applicable).
-ER10NO16.017
-ER10NO16.018
 2.3. Installation of Temperature Sensors for Measurement of Mean Tank Temperature. Install temperature sensors inside the tank for measurement of mean tank temperature according to the instructions in paragraph f of Annex E.1 of ANSI Z21.10.3-2015 (incorporated by reference; see § 431.105 rt). Calculate the mean tank temperature as the average of the six installed temperature sensors.
-2.4. Piping Insulation. Insulate all water piping external to the water heater jacket, including heat traps and piping that is installed by the manufacturer or shipped with the unit, for at least 4 ft of piping length from the connection at the appliance, with material having an R-value not less than 4 °F·ft2·h/Btu. Ensure that the insulation does not contact any appliance surface except at the location where the pipe connections penetrate the appliance jacket or enclosure.
+2.4. Piping Insulation. Insulate all water piping external to the water heater jacket, including heat traps and piping that is installed by the manufacturer or shipped with the unit, for at least 4 ft of piping length from the connection at the appliance, with material having an R-value not less than 4 °F·ft 2·h/Btu. Ensure that the insulation does not contact any appliance surface except at the location where the pipe connections penetrate the appliance jacket or enclosure.
 2.5. Temperature and Pressure Relief Valve Insulation. If the manufacturer or has not provided a temperature and pressure relief valve, one shall be installed and insulated as specified in section 2.4 of this appendix.
 2.6. Energy Consumption. Install equipment that determines, within ± 1 percent, the quantity of electricity consumed by factory-supplied water heater components.
 3. Test Conditions
@@ -27,14 +25,12 @@ ER10NO16.018
 3.6.1. Soak-In Period. Measure the ambient room temperature, in °F, every minute during the soak-in period.
 3.6.2. Standby Loss Test. Follow the data recording intervals specified in Table 3.1 of this appendix. Additionally, the electricity consumption over the course of the entire test must be measured and used in calculation of standby loss.
 Table 3.1—Data To Be Recorded Before and During the Standby Loss Test
-Item recorded | Before test | Every 1minute a
-Air draft, ft/min | X
+Item recorded | Before test | Every 1 minute a
+Air draft, ft/min | X |
 Time, minutes/seconds | | X
 Mean tank temperature, °F | | X b
 Ambient room temperature, °F | | X
-Notes:
-a These measurements are to be recorded at the start and end of the test, as well as every minute during the test.
-b Mean tank temperature is calculated as the average of the 6 tank temperature sensors, installed per section 2.3 of this appendix.
+Notes: a These measurements are to be recorded at the start and end of the test, as well as every minute during the test. b Mean tank temperature is calculated as the average of the 6 tank temperature sensors, installed per section 2.3 of this appendix.
 4. Determination of Storage Volume. Determine the storage volume by subtracting the tare weight, measured while the system is dry and empty, from the weight of the system when filled with water and dividing the resulting net weight of water by the density of water at the measured water temperature. The volume of water contained in the water heater must be computed in gallons.
 5. Standby Loss Test
 5.1. If no settings on the water heater have changed and the water heater has not been turned off since a previously run standby loss test, skip to section 5.3 of this appendix. Otherwise, conduct the soak-in period according to section 5.2 of this appendix.
@@ -45,7 +41,6 @@ b Mean tank temperature is calculated as the average of the 6 tank temperature s
 5.6. Immediately after conclusion of the standby loss test, record the total electrical energy consumption, the final ambient room temperature, the duration of the standby loss test, and if the test ends at 48 hours without a cut-out, the final mean tank temperature, or if the test ends after a cut-out, the maximum mean tank temperature that occurs after the cut-out. Calculate the average of the recorded values of the mean tank temperature and of the ambient air temperatures taken at each measurement interval, including the initial and final values.
 5.7. Standby Loss Calculation. To calculate the standby loss, follow the steps below:
 5.7.1 The standby loss expressed as a percentage (per hour) of the heat content of the stored water above room temperature must be calculated using the following equation:
-ER10NO16.019
 Where,
 ΔT3 = Average value of the mean tank temperature minus the average value of the ambient room temperature, expressed in °F
 ΔT4 = Final mean tank temperature measured at the end of the test minus the initial mean tank temperature measured at the start of the test, expressed in °F

@@ -5,8 +5,6 @@ Determine the standby loss (as applicable) in accordance with the following sect
 2. Test Set-Up
 2.1. Placement of Water Heater. A water heater for installation on combustible floors must be placed on a 3/4-inch plywood platform supported by three 2 × 4-inch runners. If the water heater is for installation on noncombustible floors, suitable noncombustible material must be placed on the platform. When the use of the platform for a large water heater is not practical, the water heater may be placed on any suitable flooring. A wall-mounted water heater must be mounted on a simulated wall section.
 2.2. Test Configuration. If the instantaneous water heater is not required to be tested using a recirculating loop, then set up the unit in accordance with Figure 2.1, 2.2, or 2.3 of this appendix (as applicable). If the unit is required to be tested using a recirculating loop, then set up the unit as per Figure 2.4 of this appendix.
-ER10NO16.026
-ER10NO16.027
 2.2.1. If the instantaneous water heater does not have any external piping, install an outlet water valve within 10 inches of the piping length of the water heater jacket or enclosure. If the instantaneous water heater includes external piping assembled at the manufacturer's premises prior to shipment, install water valves in the outlet piping within 5 inches of the end of the piping supplied with the unit.
 2.2.2. If the water heater is not able to achieve an outlet water temperature of 70 °F ± 2 °F above the supply water temperature at a constant maximum electricity input rate, a recirculating loop with pump as shown in Figure 2.4 of this appendix must be used.
 2.2.2.1. If a recirculating loop with a pump is used, then ensure that the inlet water temperature (labeled as TIWT in Figure 2.4 of this appendix) is greater than or equal to 70 °F and less than or equal to 120 °F at all times during the steady-state verification period.
@@ -38,27 +36,24 @@ ER10NO16.027
 3.7. Data Collection Intervals. During the standby loss test, follow the data recording intervals specified in Table 3.1 of this appendix. Also, the electricity consumption over the course of the entire test must be measured and used in calculation of standby loss.
 3.7.1. Steady-State Verification Period. Follow the data recording intervals specified in Table 3.1 of this appendix.
 Table 3.1—Data to be Recorded Before and During the Steady-State Verification Period
-Item recorded | Beforesteady-state verification period | Every 1minute a | Every 10minutes
-Air draft, ft/min | X
-Time, minutes/seconds | | X
+Item recorded | Before steady-state verification period | Every 1 minute a | Every 10 minutes
+Air draft, ft/min | X | |
+Time, minutes/seconds | | X |
 Electricity Consumed, Btu | | | X
-Supply water temperature (TSWT), °F | | X
-Inlet water temperature (TIWT), °F | | X b
-Outlet water temperature (TOWT), °F | | X
-Ambient room temperature, °F | | X
-Water flow rate, (gpm) | | X
-Notes:
-a These measurements are to be recorded at the start and end, as well as every minute of the steady-state verification period.
-b Only measured when a recirculating loop is used.
+Supply water temperature (TSWT), °F | | X |
+Inlet water temperature (TIWT), °F | | X b |
+Outlet water temperature (TOWT), °F | | X |
+Ambient room temperature, °F | | X |
+Water flow rate, (gpm) | | X |
+Notes: a These measurements are to be recorded at the start and end, as well as every minute of the steady-state verification period. b Only measured when a recirculating loop is used.
 3.7.2. Standby Loss Test. Follow the data recording intervals specified in Table 3.2 of this appendix. Additionally, the electricity consumption over the course of the entire test must be measured and used in calculation of standby loss.
 Table 3.2—Data to be Recorded Before and During the Standby Loss Test
-Item recorded | Before test | Every 1minute a
-Air draft, ft/min | X
+Item recorded | Before test | Every 1 minute a
+Air draft, ft/min | X |
 Time, minutes/seconds | | X
 Heat exchanger outlet water temperature, °F (TOHX) | | X
 Ambient room temperature, °F | | X
-Note:
-a These measurements are to be recorded at the start and end of the test, as well as every minute during the test.
+Note: a These measurements are to be recorded at the start and end of the test, as well as every minute during the test.
 4. Determination of Storage Volume. Determine the storage volume by subtracting the tare weight—measured while the system is dry and empty—from the weight of the system when filled with water and dividing the resulting net weight of water by the density of water at the measured water temperature. The volume of water contained in the water heater must be computed in gallons.
 5. Standby Loss Test. Perform the steady-state verification period in accordance with section 5.1 of this appendix. For thermostatically-activated instantaneous water heaters with an internal thermostat, use section 5.2 of this appendix to conduct the standby loss test, and for flow-activated and/or thermostatically-activated instantaneous water heaters with an external thermostat (including remote thermostatically activated and/or flow-activated instantaneous water heaters), use section 5.3 of this appendix to conduct the standby loss test.
 Set the primary control in accordance with section 3.5 of this appendix, such that the primary control is always calling for heat and the water heater is operating at its full rated input. Begin drawing water from the unit by opening the main supply and the outlet water valve, and adjust the water flow rate to achieve an outlet water temperature of 70 °F ± 2 °F above supply water temperature. At this time, begin recording the parameters specified in section 3.7.1 of this appendix. The steady-state verification period is complete when there is a continuous 30-minute period where the steady-state conditions specified in section 5.1 of this appendix are met, as confirmed by consecutive readings of the relevant parameters recorded at 1-minute intervals (except for electric power input rate, which is determined at 10-minute intervals, as specified in section 3.7.1 of this appendix).
@@ -74,7 +69,6 @@ Set the primary control in accordance with section 3.5 of this appendix, such th
 5.2.4. Stop the test after the first cut-out that occurs after 24 hours, or at 48 hours, whichever comes first.
 5.2.5. Immediately after conclusion of the standby loss test, record the total electrical energy consumption, the final ambient room temperature, the duration of the standby loss test, and if the test ends at 48 hours without a cut-out, the final heat exchanger outlet temperature, or if the test ends after a cut-out, the maximum heat exchanger outlet temperature that occurs after the cut-out. Calculate the average of the recorded values of the heat exchanger outlet water temperature and of the ambient air temperatures taken at each measurement interval, including the initial and final values.
 5.2.6. Standby Loss Calculation. Calculate the standby loss, expressed as a percentage (per hour) of the heat content of the stored water above room temperature, using the following equation:
-ER10NO16.028
 Where,
 ΔT3 = Average value of the heat exchanger outlet water temperature (TOHX) minus the average value of the ambient room temperature, expressed in °F
 ΔT4 = Final heat exchanger outlet water temperature (TOHX) measured at the end of the test minus the initial heat exchanger outlet water temperature (TOHX) measured at the start of the test, expressed in °F
@@ -96,7 +90,6 @@ S = Standby loss, the average hourly energy required to maintain the stored wate
 5.3.3.2. 24 hours have elapsed from the start of the test.
 5.3.4. At the end of the test, record the final heat exchanger outlet water temperature (TOHX), electricity consumed from time t = 0, and the time elapsed from the start of the test.
 5.3.5. Standby Loss Calculation. Calculate the standby loss, expressed as a percentage (per hour) of the heat content of the stored water above room temperature, using the following equation:
-ER10NO16.029
 Where,
 ΔT1 = Heat exchanger outlet water temperature (TOHX) measured after the pump purge operation is complete (if the unit is integrated with pump purge functionality); or after the main heating element(s) cut-out (if the unit is not equipped with pump purge functionality) minus heat exchanger outlet water temperature (TOHX) measured at the end of the test, expressed in °F
 ΔT2 = Heat exchanger outlet water temperature (TOHX) minus the ambient room temperature, both measured after the main heating element(s) cut-out at the start of the test, expressed in °F

@@ -27,15 +27,14 @@ Refrigeration Capacity Suction A | −10 | <50 | −20 | 105 | 9 | Compressor On
 Refrigeration Capacity Suction B | −10 | <50 | −26 | 105 | 9 | Compressor On | Determine Net Refrigeration Capacity of Unit Cooler.
 Defrost | −10 | Various | — | — | — | Compressor Off | Test according to Appendix C Section C11.
 Note: Superheat to be set according to equipment specification in equipment or installation manual. If no superheat specification is given, a default superheat value of 6.5 °F shall be used. The superheat setting used in the test shall be reported as part of the standard rating.
-3.1.6. Test Operating Conditions for CO 2 Unit Coolers
-For medium-temperature CO 2 unit coolers, conduct tests using the test conditions specified in table C.1 of this appendix. For low-temperature CO 2 unit coolers, conduct tests using the test conditions specified in table C.2 of this appendix.
-Table C.1—Test Operating Conditions for Medium-Temperature CO 2 Unit Coolers
+3.1.6. Test Operating Conditions for CO2 Unit Coolers
+For medium-temperature CO2 unit coolers, conduct tests using the test conditions specified in table C.1 of this appendix. For low-temperature CO2 unit coolers, conduct tests using the test conditions specified in table C.2 of this appendix.
+Table C.1—Test Operating Conditions for Medium-Temperature CO2 Unit Coolers
 Test description | Unit cooler air entering dry-bulb, °F | Unit cooler air entering relative humidity, % | Suction dew point temp, °F | Liquid inlet bubble point temperature °F | Liquid inlet subcooling, °F | Compressor capacity | Test objective
 Off-Cycle Power | 35 | <50 | | | | Compressor Off | Measure fan input power during compressor off-cycle.
 Refrigeration Capacity, Ambient Condition A | 35 | <50 | 25 | 38 | 5 | Compressor On | Determine Net Refrigeration Capacity of Unit Cooler.
-Notes:
-1 Superheat shall be set as indicated in the installation instructions. If no superheat specification is given a default superheat value of 6.5 °F shall be used.
-Table C.2—Test Operating Conditions for Low-Temperature CO 2 Unit Coolers
+Notes: 1 Superheat shall be set as indicated in the installation instructions. If no superheat specification is given a default superheat value of 6.5 °F shall be used.
+Table C.2—Test Operating Conditions for Low-Temperature CO2 Unit Coolers
 Test description | Unit cooler air entering dry-bulb, °F | Unit cooler air entering relative humidity, % | Suction dew point temp, °F | Liquid inlet bubble point temperature °F | Liquid inlet subcooling, °F | Compressor capacity | Test objective
 Off-Cycle Power | −10 | <50 | | | | Compressor Off | Measure fan input power during compressor off cycle.
 Refrigeration Capacity, Ambient Condition A | −10 | <50 | −20 | 38 | 5 | Compressor On | Determine Net Refrigeration Capacity of Unit Cooler.
@@ -47,19 +46,16 @@ Table C.3—Test Operating Conditions for High-Temperature Unit Coolers
 Test description | Unit cooler air entering dry-bulb, °F | Unit cooler air entering relative humidity, % 1 | Suction dew point temp, °F 2 3 | Liquid inlet bubble point temperature °F | Liquid inlet subcooling, °F | Compressor capacity | Test objective
 Off-Cycle | 55 | 55 | | 105 | 9 | Compressor Off | Measure fan input power.
 Refrigeration Capacity Suction A | 55 | 55 | 38 | 105 | 9 | Compressor On | Determine Net Refrigeration Capacity of Unit Cooler.
-Notes:
-1 The test condition tolerance (maximum permissible variation of the average value of the measurement from the specified test condition) for relative humidity is 3%.
-2 Superheat shall be set as indicated in the installation instructions. If no superheat specification is given a default superheat value of 6.5 °F shall be used.
-3 Suction Dew Point shall be measured at the Unit Cooler Exit.
+Notes: 1 The test condition tolerance (maximum permissible variation of the average value of the measurement from the specified test condition) for relative humidity is 3%. 2 Superheat shall be set as indicated in the installation instructions. If no superheat specification is given a default superheat value of 6.5 °F shall be used. 3 Suction Dew Point shall be measured at the Unit Cooler Exit.
 3.2. General Modifications: Methods of Testing
 When conducting testing in accordance with appendix C of AHRI 1250-2009 (incorporated by reference; see § 431.303), the following modifications must be made.
 3.2.1. Refrigerant Temperature Measurements
 In AHRI 1250-2009 appendix C, section C3.1.6, any refrigerant temperature measurements entering and leaving the unit cooler may use sheathed sensors immersed in the flowing refrigerant instead of thermometer wells. When testing a condensing unit alone, measure refrigerant liquid temperature leaving the condensing unit using thermometer wells as described in AHRI 1250-2009 appendix C, section C3.1.6 or sheathed sensors immersed in the flowing refrigerant. For all of these cases, if the refrigerant tube outer diameter is less than 1/2 inch, the refrigerant temperature may be measured using the average of two temperature measuring instruments with a minimum accuracy of ±0.5 °F placed on opposite sides of the refrigerant tube surface—resulting in a total of up to 8 temperature measurement devices used for the DX Dual Instrumentation method. In this case, the refrigerant tube shall be insulated with 1-inch thick insulation from a point 6 inches upstream of the measurement location to a point 6 inches downstream of the measurement location. Also, to comply with this requirement, the unit cooler entering measurement location may be moved to a location 6 inches upstream of the expansion device and, when testing a condensing unit alone, the entering and leaving measurement locations may be moved to locations 6 inches from the respective service valves.
 3.2.2. It is not necessary to perform composition analysis of refrigerant (appendix C, section C3.3.6) or refrigerant oil concentration testing (appendix C, section C3.4.6).
 3.2.3. Subcooling at Refrigerant Mass Flow Meter
-In appendix C, section C3.4.5 of AHRI 1250-2009 (incorporated by reference; see § 431.303), and in section 7.1.2 of ASHRAE 23.1-2010 (incorporated by reference; see § 431.303) when verifying subcooling at the mass flow meters, only the sight glass and a temperature sensor located on the tube surface under the insulation are required. Subcooling shall be verified to be within the 3 °F requirement downstream of flow meters located in the same chamber as a condensing unit under test and upstream of flow meters located in the same chamber as a unit cooler under test, rather than always downstream as indicated in AHRI 1250-2009, section C3.4.5 or always upstream as indicated in section 7.1.2 of ASHRAE 23.1-2010. If the subcooling is less than 3 °F, cool the line between the condensing unit outlet and this location to achieve the required subcooling. When providing such cooling while testing a matched pair, (a) set up the line-cooling system and also set up apparatus to heat the liquid line between the mass flow meters and the unit cooler, (b) when the system has achieved steady state without activation of the heating and cooling systems, measure the liquid temperature entering the expansion valve for a period of at least 30 minutes, (c) activate the cooling system to provide the required subcooling at the mass flow meters, (d) if necessary, apply heat such that the temperature entering the expansion valve is within 0.5 0 F of the temperature measured during step (b), and (e) proceed with measurements once condition (d) has been verified.
+In appendix C, section C3.4.5 of AHRI 1250-2009 (incorporated by reference; see § 431.303), and in section 7.1.2 of ASHRAE 23.1-2010 (incorporated by reference; see § 431.303) when verifying subcooling at the mass flow meters, only the sight glass and a temperature sensor located on the tube surface under the insulation are required. Subcooling shall be verified to be within the 3 °F requirement downstream of flow meters located in the same chamber as a condensing unit under test and upstream of flow meters located in the same chamber as a unit cooler under test, rather than always downstream as indicated in AHRI 1250-2009, section C3.4.5 or always upstream as indicated in section 7.1.2 of ASHRAE 23.1-2010. If the subcooling is less than 3 °F, cool the line between the condensing unit outlet and this location to achieve the required subcooling. When providing such cooling while testing a matched pair, (a) set up the line-cooling system and also set up apparatus to heat the liquid line between the mass flow meters and the unit cooler, (b) when the system has achieved steady state without activation of the heating and cooling systems, measure the liquid temperature entering the expansion valve for a period of at least 30 minutes, (c) activate the cooling system to provide the required subcooling at the mass flow meters, (d) if necessary, apply heat such that the temperature entering the expansion valve is within 0.5 0F of the temperature measured during step (b), and (e) proceed with measurements once condition (d) has been verified.
 3.2.4. In appendix C, section C3.5, regarding unit cooler fan power measurements, for a given motor winding configuration, the total power input shall be measured at the highest nameplate voltage. For three-phase power, voltage imbalances shall be no more than 2 percent from phase to phase.
-3.2.5. In the test setup (appendix C, section C8.3), the liquid line and suction line shall be constructed of pipes of the manufacturer-specified size. The pipe lines shall be insulated with a minimum total thermal resistance equivalent to 1/2 -inch thick insulation having a flat-surface R-Value of 3.7 ft 2 - °F-hr/Btu per inch or greater. Flow meters need not be insulated but must not be in contact with the floor. The lengths of the connected liquid line and suction line shall be 25 feet ± 3 inches, not including the requisite flow meters, each. Of this length, no more than 15 feet shall be in the conditioned space. Where there are multiple branches of piping, the maximum length of piping applies to each branch individually as opposed to the total length of the piping.
+3.2.5. In the test setup (appendix C, section C8.3), the liquid line and suction line shall be constructed of pipes of the manufacturer-specified size. The pipe lines shall be insulated with a minimum total thermal resistance equivalent to 1/2-inch thick insulation having a flat-surface R-Value of 3.7 ft 2- °F-hr/Btu per inch or greater. Flow meters need not be insulated but must not be in contact with the floor. The lengths of the connected liquid line and suction line shall be 25 feet ± 3 inches, not including the requisite flow meters, each. Of this length, no more than 15 feet shall be in the conditioned space. Where there are multiple branches of piping, the maximum length of piping applies to each branch individually as opposed to the total length of the piping.
 3.2.6. Installation Instructions
 Manufacturer installation instructions refer to the instructions that are applied to the unit (i.e., as a label) or that come packaged with the unit. Online installation instructions are acceptable only if the version number or date of publication is referenced on the unit label or in the documents that are packaged with the unit.
 3.2.6.1 Installation Instruction Hierarchy when available installation instructions are in conflict
@@ -75,7 +71,8 @@ All dedicated condensing systems that do not use a flooded condenser design shal
 If the installation instructions give a specified range for superheat, sub-cooling, or refrigerant pressure, the average of the range shall be used as the refrigerant charging parameter target and the test condition tolerance shall be ±50 percent of the range. Perform charging of near-azeotropic and zeotropic refrigerants only with refrigerant in the liquid state. Once the correct refrigerant charge is determined, all tests shall run until completion without further modification.
 3.2.7.1. When charging or adjusting superheat/subcooling, use all pertinent instructions contained in the installation instructions to achieve charging parameters within the tolerances. However, in the event of conflicting charging information between installation instructions, follow the installation instruction hierarchy listed in section 3.2.6. of this appendix. Conflicting information is defined as multiple conditions given for charge adjustment where all conditions specified cannot be met. In the event of conflicting information within the same set of charging instructions (e.g., the installation instructions shipped with the dedicated condensing unit), follow the hierarchy in table C.4 of this section for priority. Unless the installation instructions specify a different charging tolerance, the tolerances identified in table C.4 of this section shall be used.
 Table C.4—Test Condition Tolerances and Hierarchy for Refrigerant Charging and Setting of Refrigerant Conditions
-Priority | Fixed orifice | Parameter with installation instruction target | Tolerance | Expansion valve | Parameter with installation instruction target | Tolerance
+Priority | Fixed orifice | Expansion valve
+Parameter with installation instruction target | Tolerance | Parameter with installation instruction target | Tolerance
 1 | Superheat | ±2.0 °F | Subcooling | 10% of the Target Value; No less than ±0.5 °F, No more than ±2.0 °F.
 2 | High Side Pressure or Saturation Temperature | ±4.0 psi or ±1.0 °F | High Side Pressure or Saturation Temperature | ±4.0 psi or ±1.0 °F.
 3 | Low Side Pressure or Saturation Temperature | ±2.0 psi or ±0.8 °F | Superheat | ±2.0 °F.
@@ -98,35 +95,34 @@ Use appendix C, section C10 of AHRI 1250-2009 for off-cycle evaporator fan testi
 Section C3.5 of AHRI 1250-2009 is revised to read:
 Evaporator Fan Power Measurement.
 The following shall be measured and recorded during a fan power test.
-EF comp,on Total electrical power input to fan motor(s) of Unit Cooler, W
+EFcomp,on Total electrical power input to fan motor(s) of Unit Cooler, W
 FS Fan speed(s), rpm
 N Number of motors
-P b Barometric pressure, in. Hg
-T db Dry-bulb temperature of air at inlet, °F
-T wb Wet-bulb temperature of air at inlet, °F
+Pb Barometric pressure, in. Hg
+Tdb Dry-bulb temperature of air at inlet, °F
+Twb Wet-bulb temperature of air at inlet, °F
 V Voltage of each phase
 For a given motor winding configuration, the total power input shall be measured at the highest nameplate voltage. For three-phase power, voltage imbalance shall be no more than 2%.
 3.3.3.3.2. Evaporator fan power for the off-cycle is equal to the on-cycle evaporator fan power with a run time of 10 percent of the off-cycle time.
-EF comp,off = 0.1 × EF comp,on
+EFcomp,off = 0.1 × EFcomp,on
 3.3.4. Use appendix C, section C11 of AHRI 1250-2009 (incorporated by reference, see § 431.303) for defrost testing. The Frost Load Condition Defrost Test (C11.1.1) is optional.
 3.3.4.1. If the frost load condition defrost test is performed:
-3.3.4.1.1 Operate the unit cooler at the dry coil conditions as specified in appendix C, section C11.1 to obtain dry coil defrost energy, DF d, in W-h.
-3.3.4.1.2 Operate the unit cooler at the frost load conditions as specified in appendix C, sections C11.1 and C11.1.1 to obtain frosted coil defrost energy, DF f, in W-h.
-3.3.4.1.3 The number of defrosts per day, N DF, shall be calculated from the time interval between successive defrosts from the start of one defrost to the start of the next defrost at the frost load conditions.
-3.3.4.1.4 Use appendix C, equations C13 and C14 in section C11.3 to calculate, respectively, the daily average defrost energy, DF, in W-h and the daily contribution of the load attributed to defrost Q DF in Btu.
+3.3.4.1.1 Operate the unit cooler at the dry coil conditions as specified in appendix C, section C11.1 to obtain dry coil defrost energy, DFd, in W-h.
+3.3.4.1.2 Operate the unit cooler at the frost load conditions as specified in appendix C, sections C11.1 and C11.1.1 to obtain frosted coil defrost energy, DFf, in W-h.
+3.3.4.1.3 The number of defrosts per day, NDF, shall be calculated from the time interval between successive defrosts from the start of one defrost to the start of the next defrost at the frost load conditions.
+3.3.4.1.4 Use appendix C, equations C13 and C14 in section C11.3 to calculate, respectively, the daily average defrost energy, DF, in W-h and the daily contribution of the load attributed to defrost QDF in Btu.
 3.3.4.1.5 The defrost adequacy requirements in appendix C, section C11.3 shall apply.
 3.3.4.2 If the frost load test is not performed:
-3.3.4.2.1 Operate the unit cooler at the dry coil conditions as specified in appendix C, section C11.1 to obtain dry coil defrost energy, DF d, in W-h.
-3.3.4.2.2 The frost load defrost energy, DF f, in W-h shall be equal to 1.05 multiplied by the dry coil energy consumption, DF d, measured using the dry coil condition test in appendix C, section C11.1.
-3.3.4.2.3 The number of defrosts per day N DF used in subsequent calculations shall be 4.
+3.3.4.2.1 Operate the unit cooler at the dry coil conditions as specified in appendix C, section C11.1 to obtain dry coil defrost energy, DFd, in W-h.
+3.3.4.2.2 The frost load defrost energy, DFf, in W-h shall be equal to 1.05 multiplied by the dry coil energy consumption, DFd, measured using the dry coil condition test in appendix C, section C11.1.
+3.3.4.2.3 The number of defrosts per day NDF used in subsequent calculations shall be 4.
 3.3.4.2.4 Use appendix C, equation C13 in section C11.3 to calculate the daily average defrost energy, DF, in W-h.
-3.3.4.2.5 The daily contribution of the load attributed to defrost Q DF in Btu shall be calculated as follows:
-ER28DE16.008
+3.3.4.2.5 The daily contribution of the load attributed to defrost QDF in Btu shall be calculated as follows:
 Where:
-DF d = the defrost energy, in W-h, measured at the dry coil condition
+DFd = the defrost energy, in W-h, measured at the dry coil condition
 3.3.5. If a unit has adaptive defrost, use appendix C, section C11.2 of AHRI 1250-2009 as follows:
 3.3.5.1. When testing to certify to the energy conservation standards in § 431.306, do not perform the optional test for adaptive or demand defrost in appendix C, section C11.2.
-3.3.5.2. When determining the represented value of the calculated benefit for the inclusion of adaptive defrost, conduct the optional test for adaptive or demand defrost in appendix C, section C11.2 to establish the maximum time interval allowed between dry coil defrosts. If this time is greater than 24 hours, set its value to 24 hours. Then, calculate N DF (the number of defrosts per day) by averaging the time in hours between successive defrosts for the dry coil condition with the time in hours between successive defrosts for the frosted coil condition, and dividing 24 by this average time. (The time between successive defrosts for the frosted coil condition is found as specified in section 3.3.4 of this appendix C of AHRI 1250-2009: That is, if the optional frosted coil test was performed, the time between successive defrosts for the frosted coil condition is found by performing the frosted coil test as specified in section 3.3.4.1 of this appendix; and if the optional frosted coil test was not performed, the time between successive defrosts for the frosted coil condition shall be set to 4 as specified in section 3.3.4.2. of this appendix) Use this new value of N DF in subsequent calculations.
+3.3.5.2. When determining the represented value of the calculated benefit for the inclusion of adaptive defrost, conduct the optional test for adaptive or demand defrost in appendix C, section C11.2 to establish the maximum time interval allowed between dry coil defrosts. If this time is greater than 24 hours, set its value to 24 hours. Then, calculate NDF (the number of defrosts per day) by averaging the time in hours between successive defrosts for the dry coil condition with the time in hours between successive defrosts for the frosted coil condition, and dividing 24 by this average time. (The time between successive defrosts for the frosted coil condition is found as specified in section 3.3.4 of this appendix C of AHRI 1250-2009: That is, if the optional frosted coil test was performed, the time between successive defrosts for the frosted coil condition is found by performing the frosted coil test as specified in section 3.3.4.1 of this appendix; and if the optional frosted coil test was not performed, the time between successive defrosts for the frosted coil condition shall be set to 4 as specified in section 3.3.4.2. of this appendix) Use this new value of NDF in subsequent calculations.
 3.3.6. For matched refrigeration systems and single-package dedicated systems, calculate the AWEF using the calculations in AHRI 1250-2009 (incorporated by reference; see § 431.303), section 7.4, 7.5, 7.6, or 7.7, as applicable.
 3.3.7. Calculations for Unit Coolers Tested Alone.
 3.3.7.1. Unit Coolers that are not High-Temperature Unit Coolers.
@@ -134,9 +130,7 @@ Calculate the AWEF and net capacity using the calculations in AHRI 1250-2009, se
 3.3.7.2 High-Temperature Unit Coolers.
 Calculate AWEF on the basis that walk-in box load is equal to half of the system net capacity, without variation according to high and low load periods, and with EER set according to tested evaporator capacity, as follows:
 The net capacity, q mix,evap, is determined from the test data for the unit cooler at the 38 °F suction dewpoint.
-ER04MY23.030
 Where:
-ER04MY23.031
 Where:
 B L is the non-equipment-related box load;
 LF is the load factor; and
@@ -147,25 +141,25 @@ Other symbols are as defined in section 8 of AHRI 1250-2009.
 3.4. Dedicated condensing units that are not matched for testing and are not single-package dedicated systems
 3.4.1. Refer to appendix C, section C.12 of AHRI 1250-2009 (incorporated by reference; see § 431.303), for the method of test for dedicated condensing units. The version of ASHRAE Standard 23 used for test methods, requirements, and procedures shall be ANSI/ASHRAE Standard 23.1-2010 (incorporated by reference; see § 431.303). When applying this test method, use the applicable test method modifications listed in sections 3.1 and 3.2 of this appendix. For the test conditions in AHRI 1250-2009, Tables 11, 12, 13, and 14, use the Suction A condition test points only.
 3.4.2. Calculate the AWEF and net capacity for dedicated condensing units using the calculations in AHRI 1250-2009 (incorporated by reference; see § 431.303) section 7.8. Use the following modifications to the calculations in lieu of unit cooler test data:
-3.4.2.1. For calculating enthalpy leaving the unit cooler to calculate gross capacity, (a) the saturated refrigerant temperature (dew point) at the unit cooler coil exit, T evap, shall be 25 °F for medium-temperature systems (coolers) and −20 °F for low-temperature systems (freezers), and (b) the refrigerant temperature at the unit cooler exit shall be 35 °F for medium-temperature systems (coolers) and −14 °F for low-temperature systems (freezers). For calculating gross capacity, the measured enthalpy at the condensing unit exit shall be used as the enthalpy entering the unit cooler. The temperature measurement requirements of appendix C, section C3.1.6 of AHRI 1250-2009 and modified by section 3.2.1 of this appendix shall apply only to the condensing unit exit rather than to the unit cooler inlet and outlet, and they shall be applied for two measurements when using the DX Dual Instrumentation test method.
-3.4.2.2. The on-cycle evaporator fan power in watts, EF comp,on, shall be calculated as follows:
-For medium-temperature systems (coolers), EF comp,on = 0.013 × q mix,cd
-For low-temperature systems (freezers), EF comp,on = 0.016 × q mix,cd
+3.4.2.1. For calculating enthalpy leaving the unit cooler to calculate gross capacity, (a) the saturated refrigerant temperature (dew point) at the unit cooler coil exit, Tevap, shall be 25 °F for medium-temperature systems (coolers) and −20 °F for low-temperature systems (freezers), and (b) the refrigerant temperature at the unit cooler exit shall be 35 °F for medium-temperature systems (coolers) and −14 °F for low-temperature systems (freezers). For calculating gross capacity, the measured enthalpy at the condensing unit exit shall be used as the enthalpy entering the unit cooler. The temperature measurement requirements of appendix C, section C3.1.6 of AHRI 1250-2009 and modified by section 3.2.1 of this appendix shall apply only to the condensing unit exit rather than to the unit cooler inlet and outlet, and they shall be applied for two measurements when using the DX Dual Instrumentation test method.
+3.4.2.2. The on-cycle evaporator fan power in watts, EFcomp,on, shall be calculated as follows:
+For medium-temperature systems (coolers), EFcomp,on = 0.013 × qmix,cd
+For low-temperature systems (freezers), EFcomp,on = 0.016 × qmix,cd
 Where:
-q mix,cd is the gross cooling capacity of the system in Btu/h, found by a single test at the Capacity A, Suction A condition for outdoor units and the Suction A condition for indoor units.
-3.4.2.3. The off-cycle evaporator fan power in watts, EF comp,off, shall be calculated as follows:
-EF comp,off = 0.2 × EF comp,on
+qmix,cd is the gross cooling capacity of the system in Btu/h, found by a single test at the Capacity A, Suction A condition for outdoor units and the Suction A condition for indoor units.
+3.4.2.3. The off-cycle evaporator fan power in watts, EFcomp,off, shall be calculated as follows:
+EFcomp,off = 0.2 × EFcomp,on
 Where:
-EF comp,on is the on-cycle evaporator fan power in watts.
+EFcomp,on is the on-cycle evaporator fan power in watts.
 3.4.2.4. The daily defrost energy use in watt-hours, DF, shall be calculated as follows:
 For medium-temperature systems (coolers), DF = 0
-For low-temperature systems (freezers), DF = 8.5 × 10 −3 × q mix,cd 1.27 × N DF
+For low-temperature systems (freezers), DF = 8.5 × 10−3 × qmix,cd 1.27 × NDF
 Where:
-q mix,cd is the gross cooling capacity of the system in Btu/h, found by a single test at the Capacity A, Suction A condition for outdoor units and the Suction A condition for indoor units, and
-N DF is the number of defrosts per day, equal to 4.
-3.4.2.5. The daily defrost heat load contribution in Btu, Q DF, shall be calculated as follows:
-For medium-temperature systems (coolers), Q DF = 0
-For low-temperature systems (freezers), Q DF = 0.95 × DF × 3.412
+qmix,cd is the gross cooling capacity of the system in Btu/h, found by a single test at the Capacity A, Suction A condition for outdoor units and the Suction A condition for indoor units, and
+NDF is the number of defrosts per day, equal to 4.
+3.4.2.5. The daily defrost heat load contribution in Btu, QDF, shall be calculated as follows:
+For medium-temperature systems (coolers), QDF = 0
+For low-temperature systems (freezers), QDF = 0.95 × DF × 3.412
 Where:
 DF is the daily defrost energy use in watt-hours.
 3.5 Hot Gas Defrost Refrigeration Systems
@@ -173,4 +167,3 @@ For all hot gas defrost refrigeration systems, remove the hot gas defrost mechan
 3.5.1 Hot Gas Defrost Dedicated Condensing Units Tested Alone: Test these units as described in section 3.4 of this appendix for electric defrost dedicated condensing units that are not matched for testing and are not single-package dedicated systems.
 3.5.2 Hot Gas Defrost Matched Systems and Single-package Dedicated Systems: Test these units as described in section 3.3 of this appendix for electric defrost matched systems and single-package dedicated systems, but do not conduct defrost tests as described in sections 3.3.4 and 3.3.5 of this appendix. Calculate daily defrost energy use as described in section 3.4.2.4 of this appendix. Calculate daily defrost heat contribution as described in section 3.4.2.5 of this appendix.
 3.5.3 Hot Gas Defrost Unit Coolers Tested Alone: Test these units as described in section 3.3 of this appendix for electric defrost unit coolers tested alone, but do not conduct defrost tests as described in sections 3.3.4 and 3.3.5 of this appendix. Calculate average defrost heat load Q DF, expressed in Btu/h, as follows:
-ER26MR21.002

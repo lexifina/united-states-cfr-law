@@ -10,7 +10,7 @@ For purposes of this appendix, the Department of Energy incorporates by referenc
 2.1.1. Instrumentation. Use instrumentation meeting the minimum requirements found in Table C1 of Appendix C of ANSI/AHRI Standard 1500-2015 (incorporated by reference, see § 431.85).
 2.1.2. Data collection and sampling. Record all test data in accordance with Table 2.1 and Table 2.2. Do not use Section C5 and Table C4 of Appendix C of ANSI/AHRI Standard 1500-2015.
 Table 2.1—Data To Be Recorded Before Testing
-Item recorded | Additionalinstruction
+Item recorded | Additional instruction
 Date of Test | None.
 Manufacturer | None.
 Commercial Packaged Boiler Model Number | None.
@@ -23,7 +23,6 @@ Gas temperature | Measurement may be made manually.
 Barometric Pressure (Steam and Natural Gas Only) | Measurement may be made manually.
 Gas Heating Value, Btu/ft 3* | Record at start and end of test.
 * Multiplied by correction factors, as applicable, in accordance with Appendix E of ANSI/AHRI Standard 1500-2015.
-ER09DE16.023
 2.1.3. Instrument Calibration. Instruments must be calibrated at least once per year and a calibration record, containing at least the date of calibration and the method of calibration, must be kept as part of the data underlying each basic model certification, pursuant to § 429.71 of this chapter.
 2.1.4. Test Setup and Apparatus. Set up the commercial packaged boiler for thermal efficiency testing according to the provisions of Section C2 (except section C2.1) of Appendix C of ANSI/AHRI Standard 1500-2015 (incorporated by reference, see § 431.85).
 2.1.4.1. For tests of oil-fired commercial packaged boilers, determine the weight of fuel consumed using one of the methods specified in the following sections 2.1.4.1.1. or 2.1.4.1.2. of this appendix:
@@ -40,7 +39,6 @@ ER09DE16.023
 2.1.5. Additional Requirements for Outdoor Commercial Packaged Boilers. If the manufacturer provides more than one outdoor venting arrangement, the outdoor commercial packaged boiler (as defined in Section 3.2.6 of ANSI/AHRI Standard 1500-2015; incorporated by reference, see § 431.85) must be tested with the shortest total venting arrangement as measured by adding the straight lengths of venting supplied with the equipment. If the manufacturer does not provide an outdoor venting arrangement, install the outdoor commercial packaged boiler venting consistent with the procedure specified in Section C2.2 of Appendix C of ANSI/AHRI Standard 1500-2015.
 2.1.6. Additional Requirements for Steam Tests. In addition to the provisions of Section C2 of Appendix C of ANSI/AHRI Standard 1500-2015 (incorporated by reference, see § 431.85), the following requirements apply for steam tests.
 2.1.6.1. Insulate all steam piping from the commercial packaged boiler to the steam separator, and extend insulation at least one foot (1 ft.) beyond the steam separator, using insulation meeting the requirements specified in Table 2.3 of this appendix.
-ER09DE16.024
 2.1.6.2. A temperature sensing device must be installed in the insulated steam piping prior to the water separator if the commercial packaged boiler produces superheated steam.
 2.1.6.3. Water entrained in the steam and water condensing within the steam piping must be collected and used to calculate the quality of steam during the "Test Period." Steam condensate must be collected and measured using either a cumulative (totalizing) flow rate or by measuring the mass of the steam condensate. Instrumentation used to determine the amount of steam condensate must meet the requirements identified in Table C1 in Appendix C of ANSI/AHRI Standard 1500-2015.
 2.1.7. Additional Requirements for Water Tests. In addition to the provisions of section C2 of Appendix C of ANSI/AHRI Standard 1500-2015 (incorporated by reference, see § 431.85), the following requirements apply for water tests.
@@ -67,8 +65,8 @@ ER09DE16.024
 Table 2.4—Flue Gas Temperature Variation Limits During Test Period
 Fuel type | Non-condensing | Condensing
 Gas | ± 2 percent | Greater of ± 3 percent and ± 5 °F
-Light Oil | ± 2 percent
-Heavy Oil | Greater of ± 3 percent and ± 5 °F
+Light Oil | ± 2 percent |
+Heavy Oil | Greater of ± 3 percent and ± 5 °F |
 2.3. Test Method.
 2.3.1. General. Conduct the thermal efficiency test as prescribed in Section C4 "Test Procedure" of Appendix C of ANSI/AHRI Standard 1500-2015 (incorporated by reference, see § 431.85) excluding sections:
 (1) C4.1.1.1.2 (see section 2.3.1.1 of this appendix)
@@ -87,8 +85,6 @@ Heavy Oil | Greater of ± 3 percent and ± 5 °F
 2.4. Calculations.
 2.4.1. General. To determine the thermal efficiency of commercial packaged boilers, use the variables in section C6 of Appendix C of ANSI/AHRI Standard 1500-2015 and calculation procedure for the thermal efficiency test specified in section C7.2 of Appendix C of ANSI/AHRI Standard 1500-2015, excluding sections C7.2.12 and C7.2.20.
 2.4.2. Use of Steam Properties Table. If the average measured temperature of the steam is higher than the value in Table D1 in Appendix D of ANSI/AHRI Standard 1500-2015 that corresponds to the average measured steam pressure, then use Table 2.5 of this appendix to determine the latent heat of superheated steam in (Btu/lb). Use linear interpolation for determining the latent heat of steam in Btu/lb if the measured steam pressure is between two values listed in Table D1 in Appendix D of ANSI/AHRI Standard 1500-2015 or in Table 2.5 of this appendix.
-ER09DE16.025
-ER09DE16.026
 2.4.3. Alternative Thermal Efficiency Calculation for Large Steam Commercial Packaged Boilers. To determine the thermal efficiency of commercial packaged boilers with a fuel input rate greater than 5,000,000 Btu/h according to the steam test pursuant to Section C4.1.1 of ANSI/AHRI Standard 1500-2015, either:
 2.4.3.1. Calculate the thermal efficiency of commercial packaged boiler models in steam mode in accordance with the provisions of section 2.4.1 of this appendix, or
 2.4.3.2. Measure and calculate combustion efficiency Effyss in steam mode according to Section 3. Combustion Efficiency Test of this appendix and convert to thermal efficiency using the following equation:
@@ -113,7 +109,6 @@ Gas temperature | Measurement may be made manually.
 Barometric Pressure (Steam and Natural Gas Only) | Measurement may be made manually.
 Gas Heating Value, Btu/ft 3 * | Record at start and end of test.
 * Multiplied by correction factors, as applicable, in accordance with Appendix E of ANSI/AHRI Standard 1500-2015.
-ER09DE16.027
 3.1.3. Instrument Calibration. Instruments must be calibrated at least once per year and a calibration record, containing at least the date of calibration and the method of calibration, must be kept as part of the data underlying each basic model certification, pursuant to § 429.71 of this chapter.
 3.1.4. Test Setup and Apparatus. Set up the commercial packaged boiler for combustion efficiency testing according to the provisions of Section C2 (except section C2.1) of Appendix C of ANSI/AHRI Standard 1500-2015.
 3.1.4.1. For tests of oil-fired commercial packaged boilers, determine the weight of fuel consumed using one of the methods specified in sections 3.1.4.1.1. or 3.1.4.1.2. of this appendix:
@@ -157,8 +152,8 @@ ER09DE16.027
 Table 3.3—Flue Gas Temperature Variation Limits During Test Period
 Fuel type | Non-condensing | Condensing
 Gas | ± 2 percent | Greater of ± 3 percent and ± 5 °F.
-Light Oil | ± 2 percent
-Heavy Oil | Greater of ± 3 percent and ± 5 °F
+Light Oil | ± 2 percent |
+Heavy Oil | Greater of ± 3 percent and ± 5 °F |
 3.3. Test Method.
 3.3.1. General. Conduct the combustion efficiency test using the test method prescribed in Section C4 "Test Procedure" of Appendix C of ANSI/AHRI Standard 1500-2015 excluding sections:
 (1) C4.1.1.1.2 (see section 3.3.1.2 of this appendix)

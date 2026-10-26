@@ -6,10 +6,8 @@ Determine the thermal efficiency and standby loss (as applicable) in accordance 
 2.1. Placement of Water Heater. A water heater for installation on combustible floors must be placed on a 3/4-inch plywood platform supported by three 2 x 4-inch runners. If the water heater is for installation on noncombustible floors, suitable noncombustible material must be placed on the platform. When the use of the platform for a large water heater is not practical, the water heater may be placed on any suitable flooring. A wall-mounted water heater must be mounted on a simulated wall section.
 2.2. Installation of Temperature Sensors. Inlet and outlet water piping must be turned vertically downward from the connections on the water heater so as to form heat traps. Temperature sensors for measuring supply and outlet water temperatures must be installed upstream from the inlet heat trap piping and downstream from the outlet heat trap piping, respectively, in accordance with Figure 2.1, 2.2, or 2.3 (as applicable based on the location of inlet and outlet piping connections) of this section.
 The water heater must meet the requirements shown in Figure 2.1, 2.2, or 2.3 (as applicable) at all times during the conduct of the thermal efficiency and standby loss tests. Any factory-supplied heat traps must be installed per the installation instructions while ensuring the requirements in Figure 2.1, 2.2, or 2.3 are met. All dimensions specified in Figure 2.1, 2.2, and 2.3 and in this section are measured from the outer surface of the pipes and water heater outer casing (as applicable).
-ER10NO16.012
-ER10NO16.013
 2.3 Installation of Temperature Sensors for Measurement of Mean Tank Temperature. Install temperature sensors inside the tank for measurement of mean tank temperature according to the instructions in paragraph f of Annex E.1 of ANSI Z21.10.3-2015 (incorporated by reference; see § 431.105). Calculate the mean tank temperature as the average of the six installed temperature sensors.
-2.4. Piping Insulation. Insulate all water piping external to the water heater jacket, including heat traps and piping that are installed by the manufacturer or shipped with the unit, for at least 4 ft of piping length from the connection at the appliance, with material having an R-value not less than 4 °F·ft2·h/Btu. Ensure that the insulation does not contact any appliance surface except at the location where the pipe connections penetrate the appliance jacket or enclosure.
+2.4. Piping Insulation. Insulate all water piping external to the water heater jacket, including heat traps and piping that are installed by the manufacturer or shipped with the unit, for at least 4 ft of piping length from the connection at the appliance, with material having an R-value not less than 4 °F·ft 2·h/Btu. Ensure that the insulation does not contact any appliance surface except at the location where the pipe connections penetrate the appliance jacket or enclosure.
 2.5. Temperature and Pressure Relief Valve Insulation. If the manufacturer has not provided a temperature and pressure relief valve, one shall be installed and insulated as specified in section 2.4 of this appendix.
 2.6. Vent Requirements. Follow the requirements for venting arrangements specified in paragraph c of Annex E.1 of ANSI Z21.10.3-2015 (incorporated by reference; see § 431.105).
 2.7. Energy Consumption. Install equipment that determines, within ± 1 percent:
@@ -39,45 +37,39 @@ ER10NO16.013
 3.8.1. Soak-In Period. For units that require a soak-in period, measure the ambient room temperature, in °F, prior to beginning the soak-in period.
 3.8.2. Steady-State Verification Period and Thermal Efficiency Test. For the steady-state verification period and the thermal efficiency test, follow the data recording intervals specified in Table 3.1 of this appendix.
 Table 3.1—Data To Be Recorded Before and During the Steady-State Verification Period and Thermal Efficiency Test
-Item recorded | Before steady-stateverification period | Every 1minute a | Every 10minutes
-Gas supply pressure, in w.c. | X
-Gas outlet pressure, in w.c. | X
-Barometric pressure, in Hg | X
-Fuel higher heating value, Btu/ft3 (gas) or Btu/lb (oil) | X
-Oil pump pressure, psig (oil only) | X
-CO2 reading, % (oil only) | X b
-Oil smoke spot reading (oil only) | X b
-Air draft, ft/min | X
-Time, minutes/seconds | | X
-Fuel weight or volume, lb (oil) or ft3 (gas) | | | X c
-Supply water temperature (TSWT), °F | | X
-Outlet water temperature (TOWT), °F | | X
-Ambient room temperature, °F | | X
-Test air temperature, °F | | X
-Water flow rate, (gpm) | | X
-Notes:
-a These measurements are to be recorded at the start of the steady-state verification period and the end of the thermal efficiency test, as well as every minute during both periods.
-b The smoke spot test and CO2 reading are not required prior to beginning the steady-state verification period if no settings on the water heater have been changed and the water heater has not been turned off since the end of a previously-run efficiency test (i.e., thermal efficiency or standby loss).
-c Fuel and electricity consumption over the course of the entire thermal efficiency test must be measured and used in calculation of thermal efficiency.
+Item recorded | Before steady-state verification period | Every 1 minute a | Every 10 minutes
+Gas supply pressure, in w.c. | X | |
+Gas outlet pressure, in w.c. | X | |
+Barometric pressure, in Hg | X | |
+Fuel higher heating value, Btu/ft 3 (gas) or Btu/lb (oil) | X | |
+Oil pump pressure, psig (oil only) | X | |
+CO2 reading, % (oil only) | X b | |
+Oil smoke spot reading (oil only) | X b | |
+Air draft, ft/min | X | |
+Time, minutes/seconds | | X |
+Fuel weight or volume, lb (oil) or ft 3 (gas) | | | X c
+Supply water temperature (TSWT), °F | | X |
+Outlet water temperature (TOWT), °F | | X |
+Ambient room temperature, °F | | X |
+Test air temperature, °F | | X |
+Water flow rate, (gpm) | | X |
+Notes: a These measurements are to be recorded at the start of the steady-state verification period and the end of the thermal efficiency test, as well as every minute during both periods. b The smoke spot test and CO2 reading are not required prior to beginning the steady-state verification period if no settings on the water heater have been changed and the water heater has not been turned off since the end of a previously-run efficiency test (i.e., thermal efficiency or standby loss). c Fuel and electricity consumption over the course of the entire thermal efficiency test must be measured and used in calculation of thermal efficiency.
 3.8.3. Standby Loss Test. For the standby loss test, follow the data recording intervals specified in Table 3.2 of this appendix. Additionally, the fuel and electricity consumption over the course of the entire test must be measured and used in calculation of standby loss.
 Table 3.2—Data To Be Recorded Before and During the Standby Loss Test
 Item recorded | Before test | Every 1 minute a
-Gas supply pressure, in w.c. | X
-Gas outlet pressure, in w.c. | X
-Barometric pressure, in Hg | X
-Fuel higher heating value, Btu/ft 3 (gas) or Btu/lb (oil) | X
-Oil pump pressure, psig (oil only) | X
-CO2 reading, % (oil only) | X b
-Oil smoke spot reading (oil only) | X b
-Air draft, ft/min | X
+Gas supply pressure, in w.c. | X |
+Gas outlet pressure, in w.c. | X |
+Barometric pressure, in Hg | X |
+Fuel higher heating value, Btu/ft 3 (gas) or Btu/lb (oil) | X |
+Oil pump pressure, psig (oil only) | X |
+CO2 reading, % (oil only) | X b |
+Oil smoke spot reading (oil only) | X b |
+Air draft, ft/min | X |
 Time, minutes/seconds | | X
 Mean tank temperature, °F | | X c
 Ambient room temperature, °F | | X
 Test air temperature, °F | | X
-Notes:
-a These measurements are to be recorded at the start and end of the test, as well as every minute during the test.
-b The smoke spot test and CO2 reading are not required prior to beginning the standby loss test if no settings on the water heater have been changed and the water heater has not been turned off since the end of a previously-run efficiency test (i.e., thermal efficiency or standby loss).
-c Mean tank temperature is calculated as the average of the 6 tank temperature sensors, installed per section 2.3 of this appendix.
+Notes: a These measurements are to be recorded at the start and end of the test, as well as every minute during the test. b The smoke spot test and CO2 reading are not required prior to beginning the standby loss test if no settings on the water heater have been changed and the water heater has not been turned off since the end of a previously-run efficiency test (i.e., thermal efficiency or standby loss). c Mean tank temperature is calculated as the average of the 6 tank temperature sensors, installed per section 2.3 of this appendix.
 4. Determination of Storage Volume. Determine the storage volume by subtracting the tare weight, measured while the system is dry and empty, from the weight of the system when filled with water and dividing the resulting net weight of water by the density of water at the measured water temperature. The volume of the water contained in the water heater must be computed in gallons.
 5. Thermal Efficiency Test. Before beginning the steady-state verification period, record the applicable parameters as specified in section 3.8.2 of this appendix. Begin drawing water from the unit by opening the main supply, and adjust the water flow rate to achieve an outlet water temperature of 70 °F ± 2 °F above supply water temperature. The thermal efficiency test shall be deemed complete when there is a continuous, one-hour-long period where the steady-state conditions specified in section 5.1 of this appendix have been met, as confirmed by consecutive readings of the relevant parameters recorded at 1-minute intervals (except for fuel input rate, which is determined at 10-minute intervals, as specified in section 5.4 of this appendix). During the one-hour-long period, the water heater must fire continuously at its full firing rate (i.e., no modulations or cut-outs) and no settings can be changed on the unit being tested at any time. The first 30 minutes of the one-hour-period where the steady-state conditions in section 5.1 of this appendix are met is the steady-state verification period. The final 30 minutes of the one-hour-period where the steady-state conditions in section 5.1 of this appendix are met is the thermal efficiency test. The last reading of the steady-state verification period must be the first reading of the thermal efficiency test (i.e., the thermal efficiency test starts immediately once the steady-state verification period ends).
 5.1. Steady-State Conditions. The following conditions must be met at consecutive readings taken at 1-minute intervals (except for fuel input rate, for which measurements are taken at 10-minute intervals) to verify the water heater has achieved steady-state operation during the steady-state verification period and thermal efficiency test.
@@ -89,23 +81,21 @@ c Mean tank temperature is calculated as the average of the 6 tank temperature s
 5.2. Water Flow Measurement. Measure the total weight of water heated during the 30-minute thermal efficiency test with either a scale or a water flow meter. With either method, the error of measurement of weight of water heated must not exceed 1 percent of the weight of the total draw.
 5.3. Determination of Fuel Input Rate. During the steady-state verification period and the thermal efficiency test, record the fuel consumed at 10-minute intervals. Calculate the fuel input rate over each 10-minute period using the equations in section 5.4 of this appendix. The measured fuel input rates for these 10-minute periods must not vary by more than ± 2 percent between any two readings. Determine the overall fuel input rate using the fuel consumption for the entire duration of the thermal efficiency test.
 5.4. Fuel Input Rate Calculation. To calculate the fuel input rate, use the following equation:
-ER10NO16.014
 Where,
 Q = Fuel input rate, expressed in Btu/h
-Qs = Total fuel flow as metered, expressed in ft3 for gas-fired equipment and lb for oil-fired equipment
+Qs = Total fuel flow as metered, expressed in ft 3 for gas-fired equipment and lb for oil-fired equipment
 Cs = Correction applied to the heating value of a gas H, when it is metered at temperature and/or pressure conditions other than the standard conditions for which the value of H is based. Cs=1 for oil-fired equipment.
-H = Higher heating value of fuel, expressed in Btu/ft3 for gas-fired equipment and Btu/lb for oil-fired equipment.
+H = Higher heating value of fuel, expressed in Btu/ft 3 for gas-fired equipment and Btu/lb for oil-fired equipment.
 t = Duration of measurement of fuel consumption
 5.5. Thermal Efficiency Calculation. Thermal efficiency must be calculated using data from the 30-minute thermal efficiency test. Calculate thermal efficiency, Et, using the following equation:
-ER10NO16.015
 Where,
 K = 1.004 Btu/lb· °F, the nominal specific heat of water at 105 °F
 W = Total weight of water heated, expressed in lb
 θ1 = Average supply water temperature, expressed in °F
 θ2 = Average outlet water temperature, expressed in °F
-Q = Total fuel flow as metered, expressed in ft3 for gas-fired equipment and lb for oil-fired equipment.
+Q = Total fuel flow as metered, expressed in ft 3 for gas-fired equipment and lb for oil-fired equipment.
 Cs = Correction applied to the heating value of a gas H, when it is metered at temperature and/or pressure conditions other than the standard conditions for which the value of H is based. Cs=1 for oil-fired equipment
-H. = Higher heating value of the fuel, expressed in Btu/ft3 for gas-fired equipment and Btu/lb for oil-fired equipment.
+H. = Higher heating value of the fuel, expressed in Btu/ft 3 for gas-fired equipment and Btu/lb for oil-fired equipment.
 Ec = Electrical consumption of the water heater and, when used, the test set-up recirculating pump, expressed in Btu
 6. Standby Loss Test
 6.1. If no settings on the water heater have changed and the water heater has not been turned off since a previously run thermal efficiency or standby loss test, skip to section 6.3 of this appendix. Otherwise, conduct the soak-in period according to section 6.2 of this appendix.
@@ -116,7 +106,6 @@ Ec = Electrical consumption of the water heater and, when used, the test set-up 
 6.6. Immediately after conclusion of the standby loss test, record the total fuel flow and electrical energy consumption, the final ambient room temperature, the duration of the standby loss test, and if the test ends at 48 hours without a cut-out, the final mean tank temperature, or if the test ends after a cut-out, the maximum mean tank temperature that occurs after the cut-out. Calculate the average of the recorded values of the mean tank temperature and of the ambient room temperature taken at each measurement interval, including the initial and final values.
 6.7. Standby Loss Calculation. To calculate the standby loss, follow the steps below:
 6.7.1. The standby loss expressed as a percentage (per hour) of the heat content of the stored water above room temperature must be calculated using the following equation:
-ER10NO16.016
 Where,
 ΔT3 = Average value of the mean tank temperature minus the average value of the ambient room temperature, expressed in °F
 ΔT4 = Final mean tank temperature measured at the end of the test minus the initial mean tank temperature measured at the start of the test, expressed in °F
@@ -126,8 +115,8 @@ Et = Thermal efficiency of the water heater determined in accordance with this a
 Ec = Electrical energy consumed by the water heater during the duration of the test in Btu
 t = Total duration of the test in hours
 Cs = Correction applied to the heating value of a gas H, when it is metered at temperature and/or pressure conditions other than the standard conditions for which the value of H is based. Cs=1 for oil-fired equipment.
-Qs = Total fuel flow as metered, expressed in ft3 (gas) or lb (oil)
-H = Higher heating value of fuel, expressed in Btu/ft3 (gas) or Btu/lb (oil)
+Qs = Total fuel flow as metered, expressed in ft 3 (gas) or lb (oil)
+H = Higher heating value of fuel, expressed in Btu/ft 3 (gas) or Btu/lb (oil)
 S = Standby loss, the average hourly energy required to maintain the stored water temperature expressed as a percentage of the heat content of the stored water above room temperature
 6.7.2. The standby loss expressed in Btu per hour must be calculated as follows:
 SL (Btu per hour) = S (% per hour) × 8.25 (Btu/gal- °F) × Measured Volume (gal) × 70 (°F).

@@ -36,37 +36,41 @@ Attachment of Certification of Compliance With Energy Efficiency Standards for E
 Date:
 Name of Company:
 Motor Type (i.e., general purpose electric motor (subtype I), fire pump electric motor, general purpose electric motor (subtype II), NEMA Design B general purpose electric motor)
-Motor horsepower/standard kilowatt equivalent | Least efficient basic model—(model numbers(s))Nominal full-load efficiency | Open motors(number of poles) | 8 | 6 | 4 | 2 | Enclosed motors(number of poles) | 8 | 6 | 4 | 2
-1/.75 | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-| ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-1.5/1.1 | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-| ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-2/1.5 | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-| ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-3/2.2 | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-| ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-5/3.7 | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-| ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-| ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-| ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-Etc | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-| ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
+Motor horsepower/standard kilowatt equivalent | Least efficient basic model—(model numbers(s)) Nominal full-load efficiency
+Open motors (number of poles) | Enclosed motors (number of poles)
+8 | 6 | 4 | 2 | 8 | 6 | 4 | 2
+1/.75 | ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+| ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+1.5/1.1 | ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+| ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+2/1.5 | ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+| ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+3/2.2 | ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+| ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+5/3.7 | ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+| ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+| ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+| ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+Etc | ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+| ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
 Note: Place an asterisk beside each reported nominal full load efficiency that is determined by actual testing rather than by application of an alternative efficiency determination method. Also list below additional basic models that were subjected to actual testing.
 Basic Model means all units of a given type of electric motor (or class thereof) manufactured by a single manufacturer, and which (i) have the same rating, (ii) have electrical design characteristics that are essentially identical, and (iii) do not have any differing physical or functional characteristics that affect energy consumption or efficiency.
 Rating means one of the combinations of an electric motor's horsepower (or standard kilowatt equivalent), number of poles, motor type, and open or enclosed construction, with respect to which § 431.25 of 10 CFR Part 431 prescribes nominal full load efficiency standards.
 Models Actually Tested and Not Previously Identified
-Motor horsepower/standard kilowatt equivalent | Least efficient basic model—(model numbers(s))Nominal full-load efficiency | Open motors(number of poles) | 8 | 6 | 4 | 2 | Enclosed motors(number of poles) | 8 | 6 | 4 | 2
-___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-| ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-| ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-| ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-| ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-| ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-| ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-Etc | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
-| ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
+Motor horsepower/standard kilowatt equivalent | Least efficient basic model—(model numbers(s)) Nominal full-load efficiency
+Open motors (number of poles) | Enclosed motors (number of poles)
+8 | 6 | 4 | 2 | 8 | 6 | 4 | 2
+______ | ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+| ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+______ | ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+| ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+______ | ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+| ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+______ | ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+| ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+______ | ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+| ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+______ | ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+| ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+Etc | ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______
+| ______ | ______ | ______ | ______ | ______ | ______ | ______ | ______

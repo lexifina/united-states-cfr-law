@@ -25,37 +25,34 @@ The definitions contained in § 431.302 apply to this appendix.
 5. Test Methods, Measurements, and Calculations
 5.1 General. Foam shall be tested after it is produced in its final chemical form. For foam produced inside of an envelope component ("foam-in-place"), "final chemical form" means the foam is cured as intended and ready for use as a finished envelope component. For foam produced as board stock (e.g., polystyrene), "final chemical form" means after extrusion and ready for assembly into an envelope component or after assembly into an envelope component. Foam must not include any structural members or non-foam materials during testing in accordance with ASTM C518-17. When preparing the specimen for test, a high-speed bandsaw or a meat slicer are two types of recommended cutting tools. Hot wire cutters or other heated tools shall not be used for cutting foam test specimens.
 5.2 Specimen Preparation
-5.2.1 Determining the thickness around the perimeter of the envelope component, t p. The full thickness of an envelope component around the perimeter, which may include facers on one or both sides, shall be determined as follows:
+5.2.1 Determining the thickness around the perimeter of the envelope component, tp. The full thickness of an envelope component around the perimeter, which may include facers on one or both sides, shall be determined as follows:
 5.2.1.1 At least 8 thickness measurements shall be taken around the perimeter of the envelope component, at least 2 inches from the edge region, and avoiding any regions with hardware or fixtures.
-5.2.1.2 The average of the thickness measurements taken around the perimeter of the envelope component shall be the thickness around the perimeter of the envelope component, t p.
-5.2.1.3 Measure and record the width, w p, and height, h p, of the envelope component. The surface area of the envelope component, A p, shall be determined as follows:
-ER04MY23.025
+5.2.1.2 The average of the thickness measurements taken around the perimeter of the envelope component shall be the thickness around the perimeter of the envelope component, tp.
+5.2.1.3 Measure and record the width, wp, and height, hp, of the envelope component. The surface area of the envelope component, Ap, shall be determined as follows:
 Where:
-w p = width of the envelope component, in.; and
-h p = height of the envelope component, in.
+wp = width of the envelope component, in.; and
+hp = height of the envelope component, in.
 5.2.2. Removing the sample from the envelope component.
 5.2.2.1. Determine the center of the envelope component relative to its height and its width.
 5.2.2.2. Cut a sample from the envelope component that is at least the length and width dimensions of the heat flow meter, and where the marked center of the sample is at least 3 inches from any cut edge.
 5.2.2.3. If the center of the envelope component contains any non-foam components (excluding facers), additional samples may be cut adjacent to the previous cut that is at least the length and width dimensions of the heat flow meter and is greater than 12 inches from the edge region.
-5.2.3. Determining the thickness at the center of the envelope component, t c. The full thickness of an envelope component at the center, which may include facers on one or both sides, shall be determined as follows:
+5.2.3. Determining the thickness at the center of the envelope component, tc. The full thickness of an envelope component at the center, which may include facers on one or both sides, shall be determined as follows:
 5.2.3.1. At least 2 thickness measurements shall be taken in each quadrant of the cut sample removed from the envelope component per section 5.2.2 of this appendix, for a total of at least 8 measurements.
-5.2.3.2. The average of the thickness measurements of the cut sample removed from the envelope component shall be the overall thickness of the cut sample, t c.
-5.2.3.3. Measure and record the width and height of the cut sample removed from the envelope component. The surface area of the cut sample removed from the envelope component, A c., shall be determined as follows:
-ER04MY23.026
+5.2.3.2. The average of the thickness measurements of the cut sample removed from the envelope component shall be the overall thickness of the cut sample, tc.
+5.2.3.3. Measure and record the width and height of the cut sample removed from the envelope component. The surface area of the cut sample removed from the envelope component, Ac., shall be determined as follows:
 Where:
-w c = width of the cut sample removed from the envelope component, in.; and
-h c = height of the cut sample removed from the envelope component, in.
-5.2.4. Determining the total thickness of the foam within the envelope component, t foam. The average total thickness of the foam sample, without facers, shall be determined as follows:
+wc = width of the cut sample removed from the envelope component, in.; and
+hc = height of the cut sample removed from the envelope component, in.
+5.2.4. Determining the total thickness of the foam within the envelope component, tfoam. The average total thickness of the foam sample, without facers, shall be determined as follows:
 5.2.4.1. Remove the facers on the envelope component sample, while minimally disturbing the foam.
-5.2.4.2. Measure the thickness of each facer in 4 locations for a total of 4 measurements if 1 facer is removed, and a total of 8 measurements if 2 facers are removed. The average of all facer measurements shall be the thickness of the facers, t facers, in.
-5.2.4.3. The average total thickness of the foam, t foam, in., shall be determined as follows:
-ER04MY23.027
+5.2.4.2. Measure the thickness of each facer in 4 locations for a total of 4 measurements if 1 facer is removed, and a total of 8 measurements if 2 facers are removed. The average of all facer measurements shall be the thickness of the facers, tfacers, in.
+5.2.4.3. The average total thickness of the foam, tfoam, in., shall be determined as follows:
 Where:
-t c = the average thickness of the center of the envelope component, in., as determined per sections 5.2.3.1 and 5.2.3.2 of this appendix;
-A c = the surface area of the center of the envelope component, in 2., as determined per section 5.2.3.3 of this appendix;
-t p = the average thickness of the perimeter of the envelope component, in., as determined per sections 5.2.1.1 and 5.2.1.2 of this appendix;
-A p = the average thickness of the center of the envelope component, in 2, as determined per section 5.2.1.3 of this appendix;
-t facers = the average thickness of the facers of the envelope component, in., as determined per section 5.2.4.2 of this appendix.
+tc = the average thickness of the center of the envelope component, in., as determined per sections 5.2.3.1 and 5.2.3.2 of this appendix;
+Ac = the surface area of the center of the envelope component, in 2., as determined per section 5.2.3.3 of this appendix;
+tp = the average thickness of the perimeter of the envelope component, in., as determined per sections 5.2.1.1 and 5.2.1.2 of this appendix;
+Ap = the average thickness of the center of the envelope component, in 2, as determined per section 5.2.1.3 of this appendix;
+tfacers = the average thickness of the facers of the envelope component, in., as determined per section 5.2.4.2 of this appendix.
 5.2.5. Cutting, measuring, and determining parallelism and flatness of a 1-inch-thick specimen for test from the center of the cut envelope component sample.
 5.2.5.1. Cut a 1 ± 0.1-inch-thick specimen from the center of the cut envelope sample. The 1-inch-thick test specimen shall be cut from the point that is equidistant from both edges of the sample (i.e., shall be cut from the center point that would be directly between the interior and exterior space of the walk-in).
 5.2.5.2. Document through measurement or photographs with measurement indicators that the specimen was taken from the center of the sample.
@@ -70,15 +67,13 @@ t facers = the average thickness of the facers of the envelope component, in., a
 5.3.1.1 For freezer envelope components, the K-factor of the specimen shall be determined at an average specimen temperature of 20 ± 1 degrees Fahrenheit.
 5.3.1.2 For cooler envelope components, the K-factor of the specimen shall be determined at an average specimen temperature of 55 ± 1 degrees Fahrenheit.
 5.4 R-value Calculation.
-5.4.1 For envelope components consisting of one homogeneous layer of insulation, calculate the R-value, h-ft 2 - °F/Btu, as follows:
-ER04MY23.028
+5.4.1 For envelope components consisting of one homogeneous layer of insulation, calculate the R-value, h-ft 2- °F/Btu, as follows:
 Where:
-t foam = the total thickness of the foam, in., as determined in section 5.2.4 of this appendix; and
-λ = K-factor, Btu-in/(h-ft 2 - °F), as determined in section 5.3 of this appendix.
+tfoam = the total thickness of the foam, in., as determined in section 5.2.4 of this appendix; and
+λ = K-factor, Btu-in/(h-ft 2- °F), as determined in section 5.3 of this appendix.
 5.4.2 For envelope components consisting of two or more layers of dissimilar insulating materials (excluding facers or protective skins), determine the K-factor of each material as described in sections 5.1 through 5.3 of this appendix. For an envelope component with N layers of insulating material, the overall R-value shall be calculated as follows:
-ER04MY23.029
 Where:
-t i is the thickness of the ith material that appears in the envelope component, inches, as determined in section 5.2.4 of this appendix;
-λ i is the k-factor of the ith material, Btu-in/(h-ft 2 - °F), as determined in section 5.3 of this appendix; and
+ti is the thickness of the ith material that appears in the envelope component, inches, as determined in section 5.2.4 of this appendix;
+λi is the k-factor of the ith material, Btu-in/(h-ft 2- °F), as determined in section 5.3 of this appendix; and
 N is the total number of material layers that appears in the envelope component.
 5.4.3 K-factor test results from a test sample 1 ± 0.1-inches in thickness may be used to determine the R-value of envelope components with various foam thicknesses as long as the foam throughout the panel depth is of the same final chemical form and the test was completed at the same test conditions that the other envelope components would be used at. For example, a K-factor test result conducted at cooler conditions cannot be used to determine R-value of a freezer envelope component.
