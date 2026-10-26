@@ -2,7 +2,7 @@
 1. The standard road cycle (SRC) is a mileage accumulation cycle that may be used for any vehicle which is covered by the applicability provisions of § 86.1801. The vehicle may be run on a track or on a mileage accumulation dynamometer.
 2. The cycle consists of 7 laps of a 3.7 mile course. The length of the lap may be changed to accommodate the length of the service-accumulation track.
 Description of the SRC
-Lap | Description | Typical accel rate(MPH/s)
+Lap | Description | Typical accel rate (MPH/s)
 1 | (start engine) Idle 10 sec | 0
 1 | Mod accel to 30 MPH | 4
 1 | Cruise at 30 MPH for 1/4 lap | 0
@@ -79,4 +79,3 @@ Lap | Description | Typical accel rate(MPH/s)
 7 | Cruise at 50 MPH for 1/4 lap | 0
 7 | Mod. decel to stop | −5
 The standard road cycle is represented graphically in the following figure:
-ER17JA06.066

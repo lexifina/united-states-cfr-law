@@ -42,18 +42,16 @@ n = Pump speed in revolutions per minute.
 Pp = Absolute pump inlet pressure, in ("Hg).
 Pp = PB-PPI (SP.GR./13.57), Tp = PTI + 460.
 3. The correlation function at each test point is then calculated from the calibration data, as follows:
-ER06OC93.139
-ΔP p = The pressure differential from pump inlet to pump outlet in ("Hg).
-ΔP p = P e −P p
-P e = Absolute pump outlet pressure, in ("Hg).
-P p = P B + PPO (Sp. Gr./13.57)
+ΔPp = The pressure differential from pump inlet to pump outlet in ("Hg).
+ΔPp = Pe−Pp
+Pe = Absolute pump outlet pressure, in ("Hg).
+Pp = PB + PPO (Sp. Gr./13.57)
 See § 86.177-22 for other definitions.
 4. A linear least squares fit is performed to generate the calibration equations which have the forms
 Vo = Do−M(Xo)
 n = A−B(Pp)
 Do, M, A, and B are the slope-intercept constants describing the lines.
 A CVS system that has multiple speeds should be calibrated on each speed used. The calibration curves generated for the ranges will be approximately parallel and the intercept values, Do, will increase as the pump flow range decreases.
-ER06OC93.196
 If the calibration has been performed carefully, the calculated Vo values from the equation will be within ±.50% of the measured value of Vo. Values of M will vary from one pump to another, but values of Do for pumps of the same make, model, and range should agree within ±3 percent of each other. Particulate influx from use will cause the pump slip to decrease as reflected by lower values for M. Calibrations should be performed at 0, 30, 100, 200, 400, etc. hours of pump operation to assure the stability of the pump slip rate. Analysis of mass injection data will also reflect pump slip stability.
 CVS System Verification:
 The following technique can be used to verify that the CVS and analytical instruments can accurately measure a mass of gas that has been injected into the system.

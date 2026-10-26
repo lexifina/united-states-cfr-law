@@ -7,9 +7,8 @@ Catalyst Temperature Control
 2. Control the catalyst temperature at stoichiometric operation (01 to 40 seconds on the cycle) to a minimum of 800 °C (±10 °C) by selecting the appropriate Engine speed, load, and spark timing for the engine. Control the maximum catalyst temperature that occurs during the cycle to 890 °C (±10 °C) by selecting the appropriate A/F ratio of the engine during the "rich" phase described in the table below.
 3. If a low control temperature other than 800 °C is utilized, the high control temperature shall be 90 °C higher than the low control temperature.
 Standard Bench Cycle (SBC)
-Time(seconds) | Engine air/fuel ratio | Secondary air injection
+Time (seconds) | Engine air/fuel ratio | Secondary air injection
 01-40 | 14.7 (stoichiometric, with load, spark timing, and engine speed controlled to achieve a minimum catalyst temperature of 800 °C) | None
 41-45 | "Rich" (A/F ratio selected to achieve a maximum catalyst temperature over the entire cycle of 890 °C, or 90° higher than low control temperature) | None
 46-55 | "Rich" (A/F ratio selected to achieve a maximum catalyst temperature over the entire cycle of 890 °C, or 90° higher than low control temperature) | 3% (±0.1%)
 56-60 | 14.7 (stoichiometric, same load, spark timing, and engine speed as used in the 01-40 sec period of the cycle) | 3% (±0.1%)
-ER17JA06.067

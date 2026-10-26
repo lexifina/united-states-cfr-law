@@ -35,5 +35,3 @@ During each of the first nine laps there are 4 stops with 15 second idle. Normal
 The 10th lap is run at a constant speed.
 The 11th lap is begun with a wide open throttle acceleration from stop. A normal deceleration to idle followed by a second wide open throttle acceleration occurs at the midpoint of the lap.
 This schedule may be modified with the advance approval of the Administrator if it results in unsafe operation of the vehicle.
-ER06OC93.197
-ER06OC93.198

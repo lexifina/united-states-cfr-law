@@ -3,9 +3,7 @@
 (1) The driving schedule in this paragraph (a) applies for light-duty vehicles, light-duty trucks, and heavy-duty vehicles certified under subpart S of this part.
 (2) The driving schedule in this paragraph (a) applies for motorcycles with engine displacement at or above 170 cc. Calculate the speed-versus-time sequence in kilometers per hour by multiplying the listed speed by 1.6 and rounding to the nearest 0.1 kilometers per hour.
 (3) The driving schedule follows:
-EPA Urban Dynamometer
-Driving Schedule
-[Speed versus Time Sequence]
+EPA Urban Dynamometer Driving Schedule [Speed versus Time Sequence]
 Time (sec.) | Speed (m.p.h.) | Time (sec.) | Speed (m.p.h.) | Time (sec.) | Speed (m.p.h.)
 0 | 0.0 | 1 | 0.0 | 2 | 0.0
 3 | 0.0 | 4 | 0.0 | 5 | 0.0
@@ -466,10 +464,9 @@ Time (sec.) | Speed (m.p.h.) | Time (sec.) | Speed (m.p.h.) | Time (sec.) | Spee
 1368 | 0.0 | 1369 | 0.0 | 1370 | 0.0
 1371 | 0.0 | 1372 | 0.0 | |
 The diagrams below show the range of acceptable speed tolerances for typical points. The curve on the left is typical of portions of the speed curve which are increasing or decreasing throughout the 2 second time interval. The curve on the right is typical of portions of the speed curve which include a maximum or minimum value.
-ER06OC93.195
 (b) EPA driving schedule for motorcycles with engine displacement below 170 cc. Use the driving schedule specified in paragraph (a)(2) of this appendix, except that the schedule specified in this paragraph (b) applies for the portion of the driving schedule from 164 to 332 seconds.
 Speed Versus Time Sequence
-Time(sec.) | Speed(kph)
+Time (sec.) | Speed (kph)
 164 | 3.4
 165 | 6.8
 166 | 10.3
@@ -640,7 +637,7 @@ Time(sec.) | Speed(kph)
 331 | 4.9
 332 | 1.5
 (c) EPA driving schedule for class 3 heavy-duty vehicles. This driving schedule is also known as the LA-92 cycle. The first 1,435 seconds are the Hot LA-92 driving schedule.
-Time(sec.) | Speed(mph)
+Time (sec.) | Speed (mph)
 1 | 0.0
 2 | 0.0
 3 | 0.0
@@ -2378,8 +2375,7 @@ Time(sec.) | Speed(mph)
 1735 | 0.0
 (d) [Reserved]
 (e) EPA New York City Cycle for Light-Duty Vehicles and Light-Duty Trucks.
-EPA New York City Cycle
-[Speed versus time sequence]
+EPA New York City Cycle [Speed versus time sequence]
 Time (sec) | Speed (mph) | Time (sec) | Speed (mph) | Time (sec) | Speed (mph)
 0 | 0 | 1 | 0 | 2 | 0
 3 | 0 | 4 | 0 | 5 | 0
@@ -2581,9 +2577,10 @@ Time (sec) | Speed (mph) | Time (sec) | Speed (mph) | Time (sec) | Speed (mph)
 591 | 0 | 592 | 0 | 593 | 0
 594 | 0 | 595 | 0 | 596 | 0
 597 | 0 | 598 | 0 | 599 | 0
-600 | 0
+600 | 0 | | | |
 (f)(1) EPA Engine Dynamometer Schedules for Heavy-duty Otto-cycle engines.
-Record (seconds) | Percent | Normalized revolutions per minute | Normalized torque
+Record (seconds) | Percent
+Normalized revolutions per minute | Normalized torque
 1 | 0.0 | 0.0
 2 | 0.0 | 0.0
 3 | 0.0 | 0.0
@@ -3752,7 +3749,8 @@ Record (seconds) | Percent | Normalized revolutions per minute | Normalized torq
 1,166 | 0.0 | 0.0
 1,167 | 0.0 | 0.0
 (2) EPA Engine Dynamometer Schedule for Heavy-Duty Diesel Engines.
-Record (seconds) | Percent | Normalized revolutions per minute | Normalized torque
+Record (seconds) | Percent
+Normalized revolutions per minute | Normalized torque
 1 | 0.0 | 0.0
 2 | 0.0 | 0.0
 3 | 0.0 | 0.0
@@ -4954,8 +4952,7 @@ Record (seconds) | Percent | Normalized revolutions per minute | Normalized torq
 1,199 | 0.0 | 0.0
 1 Closed throttle motoring.
 (g) EPA US06 Driving Schedule for Light-Duty Vehicles and Light-Duty Trucks.
-EPA US06 Driving Schedule
-[Speed versus Time Sequence]
+EPA US06 Driving Schedule [Speed versus Time Sequence]
 Time (sec) | Speed (mph)
 0 | 0.0
 1 | 0.0
@@ -5559,8 +5556,7 @@ Time (sec) | Speed (mph)
 599 | 0.0
 600 | 0.0
 (h) EPA SC03 Driving Schedule for Light-Duty Vehicles and Light-Duty Trucks.
-EPA SC03 Driving Schedule
-[Speed versus Time Sequence]
+EPA SC03 Driving Schedule [Speed versus Time Sequence]
 Time (sec) | Speed (mph)
 0 | 0.0
 1 | 0.0
