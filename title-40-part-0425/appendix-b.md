@@ -6,7 +6,6 @@ Apparatus*
 Heating mantel and control (VWR Cat. No. 33752-464)
 1000 ml. distilling flask with three 24/40 joints (VWR Cat. No. 29280-215)
 Friedricks condenser with two 24/40 joints (VWR Cat. No. 23161-009)
-EC01MY92.112
 125 ml. separatory funnel with 24/40 joint (VWR Cat. No. 30357-102)
 Inlet tube with 24/40 joint (VWR Cat. No. 33057-105)
 Adapter joint 24/40 to 19/38 (VWR Cat. No. 62905-26)
@@ -32,9 +31,7 @@ Procedure (See Figure 1 for apparatus layout.)
 5. Analysis: Analyze the contents of Trap No. 2 for sulfate according to either EPA gravimetric test procedure 375.3 or EPA turbidimetric test procedure 375.4 (see 40 CFR 136.3, Table IB, parameter 65 (49 FR 43234, October 26, 1984, and correction notice at 50 FR 690, January 4, 1985)). Use the result to calculate mg./l. of sulfide in wastewater sample.
 Calculations and Reporting of Results
 1. Gravimetric procedure:
-ER25SE06.001
 2. Turbidimetric procedure:
-ER25SE06.002
 where A = mg./l. of sulfate in Trap No. 2
 B = liquid volume in liters in Trap No. 2
 and C = volume in ml. of waste sample distilled

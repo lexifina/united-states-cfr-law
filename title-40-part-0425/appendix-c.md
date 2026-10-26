@@ -22,10 +22,8 @@ If the measured level of analyte is greater than five times the estimated MDL, t
 (b) It may be economically and technically desirable to evaluate the estimated MDL before proceeding with 4a. This will: (1) Prevent repeating this entire procedure when the costs of analyses are high and (2) insure that the procedure is being conducted at the correct concentration. It is quite possible that an incorrect MDL can be calculated from data obtained at many times the real MDL even though the background concentration of analyte is less than five times the calculated MDL. To insure that the estimate of the MDL is a good estimate, it is necessary to determine that a lower concentration of analyte will not result in a significantly lower MDL. Take two aliquots of the sample to be used to calculate the MDL and process each through the entire method, including blank measurements as described above in 4a. Evaluate these data:
 (1) If these measurements indicate the sample is in the desirable range for determining the MDL, take five additional aliquots and proceed. Use all seven measurements to calculate the MDL.
 (2) If these measurements indicate the sample is not in the correct range, reestimate the MDL, obtain new sample as in 3 and repeat either 4a or 4b.
-5. Calculate the variance (S2) and standard deviation (S) of the replicate measurements, as follows:
-112a.eps
+5. Calculate the variance (S 2) and standard deviation (S) of the replicate measurements, as follows:
 where: the xi, i = 1 to n are the analytical results in the final method reporting units obtained from the n sample aliquots and
-112b.eps
 refers to the sum of the X values from i = 1 to n.
 6. (a) Compute the MDL as follows:
 MDL = t(n−1,1−a =.99) (S)
@@ -39,11 +37,8 @@ MDLUCL = 1.92 MDL where MDLLCL and MDLUCL are the lower and upper 95 percent con
 7. Optional iterative procedure to verify the reasonableness of the estimated MDL and calculated MDL of subsequent MDL determinations.
 (a) If this is the initial attempt to compute MDL based on the estimated MDL in Step 1, take the MDL as calculated in Step 6, spike in the matrix at the calculated MDL and proceed through the procedure starting with Step 4.
 (b) If the current MDL determination is an iteration of the MDL procedure for which the spiking level does not permit qualitative identification, report the MDL as that concentration between the current spike level and the previous spike level which allows qualitative identification.
-(c) If the current MDL determination is an iteration of the MDL procedure and the spiking level allows qualitative identification, use S2 from the current MDL calculation and S2 from the previous MDL calculation to compute the F ratio.
-114a.eps
+(c) If the current MDL determination is an iteration of the MDL procedure and the spiking level allows qualitative identification, use S 2 from the current MDL calculation and S 2 from the previous MDL calculation to compute the F ratio.
 then compute the pooled standard deviation by the following equation:
-114b.eps
-114c.eps
 respike at the last calculated MDL and process the samples through the procedure starting with Step 4.
 (d) Use the Spooled as calculated in 7b to compute the final MDL according to the following equation:
 MDL = 2.681 (Spooled)

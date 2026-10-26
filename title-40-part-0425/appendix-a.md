@@ -8,7 +8,6 @@ Burrette, 10 ml.
 Reagents
 1. Preparation of 0.02N potassium ferricyanide; Weigh to the nearest tenth of a gram 6.6 g. of analytical reagent grade potassium ferricyanide and dissolve in 1 liter distilled water. Store in an amber bottle in the dark. Prepare fresh each week.
 2. Standardization of ferricyanide solution: Transfer 50 ml. of solution to a 250 ml. Erlenmeyer flask. Add several crystals of potassium iodide (about 1 g.), mix gently to dissolve, add 1 ml. of 6N hydrochloric acid, stopper the flask, and swirl gently. Let stand for two minutes, add 10 ml. of a 30 percent zinc sulfate solution, and titrate the mixture containing the gelatinous precipitate with standardized sodium thiosulfate or phenylarsine oxide titrant in the range of 0.025-0.050N Add 1 ml. of starch indicator solution after the color has faded to a pale yellow, and continue the titration to the disappearance of the blue color. Calculate the normality of the ferricyanide solution using the equation:
-ER25SE06.000
 3. Preparation of 6M ammonium chloride buffer, pH 9.3: Dissolve 200 g. ammonium chloride in approximately 500 ml. distilled water, add 200 ml. 14M reagent grade ammonium hydroxide and make up to 1 liter with distilled water. The buffer should be prepared in a hood. Store in a tightly stoppered container.
 4. Preparation of 0.05M barium chloride solution: Dissolve 12-13 g. barium chloride dihydrate in 1 liter of distilled water.
 5. Preparation of ferrous dimethylglyoxime indicator solution: Mix 10 ml. 0.6 percent ferrous sulfate, 50 ml. 1 percent dimethylglyoxime in ethanol, and 0.5 ml. concentrated sulfuric acid.
@@ -22,7 +21,6 @@ Procedure
 3. Add 20 ml. of 6M ammonium chloride buffer (pH 9.3), 1 ml. of ferrous dimethylglyoxime indicator, and 25 ml. of 0.05M barium chloride. Mix gently, stopper, and let stand for 10 minutes.
 4. After 10 minutes titrate with standardized potassium ferricyanide to disappearance of pink color. The endpoint is reached when there is no reappearance of the pink color after 30 seconds.
 Calculation and Reporting of Results.
-ER25SE06.007
 where A = volume in ml. of potassium ferricyanide solution used,
 and B = normality of potassium ferricyanide solution.
 2. Report results to two significant figures.
