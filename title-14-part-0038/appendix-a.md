@@ -23,12 +23,12 @@ A38.2.1.1.1 Airplane at the reference masses listed in § 38.13(b);
 A38.2.1.1.2 A combination of altitude and airspeed selected by the applicant;
 A38.2.1.1.3 Airplane in steady, unaccelerated, straight and level flight;
 A38.2.1.1.4 Airplane in longitudinal and lateral trim;
-A38.2.1.1.5 Airplane gravitational acceleration when travelling in the direction of true North in still air at the reference altitude and a geodetic latitude of 45.5 degrees, based on g 0 (g 0 is 9.80665 m/s 2, which is the standard acceleration due to gravity at sea level and a geodetic latitude of 45.5 degrees);
+A38.2.1.1.5 Airplane gravitational acceleration when travelling in the direction of true North in still air at the reference altitude and a geodetic latitude of 45.5 degrees, based on g0 (g0 is 9.80665 m/s 2, which is the standard acceleration due to gravity at sea level and a geodetic latitude of 45.5 degrees);
 A38.2.1.1.6 A reference airplane center of gravity (CG) position selected by the applicant to be representative of the mid-CG point relevant to design cruise performance at each of the three reference airplane masses; and
 A38.2.1.1.7 A wing structural loading condition defined by the applicant that is representative of operations conducted in accordance with the airplane's maximum payload capability.
 A38.2.1.2 Reference specifications at the engine level:
 A38.2.1.2.1 Electrical and mechanical power extraction and bleed flow relevant to design cruise performance, as selected by the applicant;
-Note 1 to A38.2.1.2.1 —Power extraction and bleed flow attributable to the use of optional equipment such as passenger entertainment systems need not be included.
+Note 1 to A38.2.1.2.1—Power extraction and bleed flow attributable to the use of optional equipment such as passenger entertainment systems need not be included.
 A38.2.1.2.2 Engine stability bleeds operating according to the manufacturer's normal schedule for the engine; and
 A38.2.1.2.3 Engines with at least 15 cycles or 50 engine flight hours.
 A38.2.1.3 Other reference specifications:
@@ -41,8 +41,6 @@ A38.3.2 The area that defines RGF includes all pressurized space on a single or 
 A38.3.3 The aft boundary to be used for calculating RGF is the aft pressure bulkhead. The forward boundary is the forward pressure bulkhead, not including the flight deck crew zone.
 A38.3.4 Areas that are accessible to both crew and passengers are not considered part of the flight deck crew zone. For an airplane that has a flight deck door, the aft boundary of the flight deck crew zone is the plane of the flight deck door. For an airplane that has no flight deck door or has optional interior configurations that include different locations of the flight deck door, the aft boundary is determined by the configuration that provides the smallest available flight deck crew zone. For airplanes certificated for single-pilot operation, the flight deck crew zone is measured as half the width of the flight deck.
 A38.3.5 Figures A38-1 and A38-2 of this appendix provide a notional view of the RGF boundary conditions.
-ER16FE24.043
-ER16FE24.044
 A38.4 Certification Test Specifications
 A38.4.1 Certification Test Specifications. This section prescribes the specifications under which an applicant must conduct SAR certification tests.
 A38.4.2 Flight Test Procedures
@@ -116,15 +114,15 @@ A38.5.1.7 The SAR value is affected by the accuracy of each element that compris
 A38.5.1.8 If the absolute value of the cumulative error of the overall SAR measurement system is greater than 1.5 percent, a penalty equal to the amount that the RSS value exceeds 1.5 percent must be applied to the SAR value that has been corrected to reference specifications (see section A38.5.2 of this appendix). If the absolute value of the cumulative error of the overall SAR measurement system is less than or equal to 1.5 percent, no penalty will be applied.
 A38.5.2 Calculation of Specific Air Range from Measured Data
 A38.5.2.1 Calculating SAR. SAR must be calculated using the following equation:
-SAR = TAS/W f
+SAR = TAS/Wf
 Where:
-TAS is the true airspeed and W f is total airplane fuel flow.
+TAS is the true airspeed and Wf is total airplane fuel flow.
 A38.5.2.2 Correcting Measured SAR Values to Reference Specifications
 A38.5.2.2.1 The measured SAR values must be corrected to the reference specifications listed in A38.2 of this appendix. Unless otherwise approved by the FAA, corrections to reference specifications must be applied for each of the following measured parameters:
 A38.5.2.2.1.1 Acceleration/deceleration (energy). Drag determination is based on an assumption of steady, unaccelerated flight. Acceleration or deceleration occurring during a test condition affects the assessed drag level. The reference specification is in section A38.2.1.1.3 of this appendix.
 A38.5.2.2.1.2 Aeroelastics. Wing aeroelasticity may cause a variation in drag as a function of airplane wing mass distribution. Airplane wing mass distribution will be affected by the fuel load distribution in the wings and the presence of any external stores. The reference specification is in section A38.2.1.1.7 of this appendix.
 A38.5.2.2.1.3 Altitude. The altitude at which the airplane is flown affects the fuel flow. The reference specification is in section A38.2.1.1.2 of this appendix.
-A38.5.2.2.1.4 Apparent gravity. Acceleration, caused by the local effect of gravity, and inertia, affect the test weight of the airplane. The apparent gravity at the test conditions varies with latitude, altitude, ground speed, and direction of motion relative to the Earth's axis. The reference gravitational acceleration is the gravitational acceleration for the airplane travelling in the direction of true North in still air at the reference altitude, a geodetic latitude of 45.5 degrees, and based on g 0 (see section A38.2.1.1.5 of this appendix).
+A38.5.2.2.1.4 Apparent gravity. Acceleration, caused by the local effect of gravity, and inertia, affect the test weight of the airplane. The apparent gravity at the test conditions varies with latitude, altitude, ground speed, and direction of motion relative to the Earth's axis. The reference gravitational acceleration is the gravitational acceleration for the airplane travelling in the direction of true North in still air at the reference altitude, a geodetic latitude of 45.5 degrees, and based on g0 (see section A38.2.1.1.5 of this appendix).
 A38.5.2.2.1.5 CG position. The position of the airplane CG affects the drag due to longitudinal trim. The reference specification is in section A38.2.1.1.6 of this appendix.
 A38.5.2.2.1.6 Electrical and mechanical power extraction and bleed flow. Electrical and mechanical power extraction, and bleed flow affect the fuel flow. The reference specifications are in sections A38.2.1.2.1 and A38.2.1.2.2 of this appendix.
 A38.5.2.2.1.7 Engine deterioration level. The requirement in section A38.2.1.2.3 of this appendix addresses the minimum deterioration of an engine that is used to determine SAR. Since engine deterioration is rapid when an engine is new, when used for SAR determination:
@@ -133,7 +131,7 @@ A38.5.2.2.1.7.2 An engine with greater deterioration than the reference deterior
 A38.5.2.2.1.8 Fuel lower heating value. The fuel lower heating value defines the energy content of the fuel. The lower heating value directly affects the fuel flow at a given test condition. The reference specification is in section A38.2.1.3.2 of this appendix.
 A38.5.2.2.1.9 Reynolds number. The Reynolds number affects airplane drag. For a given test condition the Reynolds number is a function of the density and viscosity of air at the test altitude and temperature. The reference Reynolds number is derived from the density and viscosity of air from the ICAO standard atmosphere at the reference altitude (see sections A38.2.1.1.2 and A38.2.1.3.1 of this appendix, incorporated by reference see § 38.7).
 A38.5.2.2.1.10 Temperature. The ambient temperature affects the fuel flow. The reference temperature is the standard day temperature from the ICAO standard atmosphere at the reference altitude (see section A38.2.1.3.1 of this appendix, incorporated by reference see § 38.7).
-Note 2 to A38.5.2.2.1.10 —Post-flight data analysis includes the correction of measured data for data acquisition hardware response characteristics (e.g., system latency, lag, offset, buffering, etc.).
+Note 2 to A38.5.2.2.1.10—Post-flight data analysis includes the correction of measured data for data acquisition hardware response characteristics (e.g., system latency, lag, offset, buffering, etc.).
 A38.5.2.2.2 Correction methods are subject to the approval of the FAA.
 A38.5.2.3 Using Specific Air Range to Determine the Fuel Efficiency Metric Value
 A38.5.2.3.1 Calculate the SAR values for each of the three reference masses as described in § 38.13, including any corrections to reference specifications, as required under this part. The final SAR value for each reference mass is the simple arithmetic average of all valid test points at the appropriate gross mass, or derived from a validated performance model. No data acquired from a valid test point may be omitted unless approved by the FAA.
