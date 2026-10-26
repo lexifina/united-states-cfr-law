@@ -36,5 +36,5 @@ C. Barlines and hairlines
 D. Box or Enclosure
 1. All information is set off by color contrast. No barline is used.
 III. Examples of § 201.66 Standard Labeling and Modified Labeling Formats
-A. Section 201.66 Standard Labeling Format ER17MR99.007
-B. Section 201.66 Modified Labeling Format ER17MR99.008
+A. Section 201.66 Standard Labeling Format
+B. Section 201.66 Modified Labeling Format
