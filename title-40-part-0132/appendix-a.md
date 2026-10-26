@@ -67,7 +67,6 @@ L. Assign ranks, R, to the GMAVs from "1" for the lowest to "N" for the highest.
 M. Calculate the cumulative probability, P, for each GMAV as R/(N + 1).
 N. Select the four GMAVs which have cumulative probabilities closest to 0.05 (if there are fewer than 59 GMAVs, these will always be the four lowest GMAVs).
 O. Using the four selected GMAVs, and Ps, calculate
-ER23MR95.104
 Note: Natural logarithms (logarithms to base e, denoted as ln) are used herein merely because they are easier to use on some hand calculators and computers than common (base 10) logarithms. Consistent use of either will produce the same result.
 P. If for a commercially or recreationally important species of the Great Lakes System the geometric mean of the acute values from flow-through tests in which the concentrations of test material were measured is lower than the calculated Final Acute Value (FAV), then that geometric mean must be used as the FAV instead of the calculated FAV.
 Q. See section VI of this appendix.
@@ -84,7 +83,7 @@ H. For each species calculate the geometric mean, W, of the acute toxicity value
 I. For each species, calculate the logarithm, Y, of the SMAV at a selected value, Z, of the water quality characteristic using the equation:
 Y = ln W−V(ln X−ln Z)
 J. For each species calculate the SMAV at X using the equation:
-SMAV = eY
+SMAV = e Y
 Note: Alternatively, the SMAVs at Z can be obtained by skipping step H above, using the equations in steps I and J to adjust each acute value individually to Z, and then calculating the geometric mean of the adjusted values for each species individually. This alternative procedure allows an examination of the range of the adjusted acute values for each species.
 K. Obtain the FAV at Z by using the procedure described in sections IV.J through IV.O of this appendix.
 L. If, for a commercially or recreationally important species of the Great Lakes System the geometric mean of the acute values at Z from flow-through tests in which the concentrations of the test material were measured is lower than the FAV at Z, then the geometric mean must be used as the FAV instead of the FAV.
@@ -149,7 +148,7 @@ J. For each species, calculate the logarithm, Q, of the SMCV at a selected value
 Q = ln M—L(ln P−ln Z)
 Note: Although it is not necessary, it is recommended that the same value of the water quality characteristic be used here as was used in section V of this appendix.
 K. For each species, calculate a SMCV at Z using the equation:
-SMCV = eQ
+SMCV = e Q
 Note: Alternatively, the SMCV at Z can be obtained by skipping section VII.J of this appendix, using the equations in sections VII.J and K of this appendix to adjust each chronic value individually to Z, and then calculating the geometric means of the adjusted values for each species individually. This alternative procedure allows an examination of the range of the adjusted chronic values for each species.
 L. Obtain the FCV at Z by using the procedure described in sections IV.J through O of this appendix.
 M. If the SMCV at Z of a commercially or recreationally important species of the Great Lakes System is lower than the calculated FCV at Z, then that SMCV shall be used as the FCV at Z instead of the calculated FCV.
@@ -205,7 +204,6 @@ XIII. Secondary Acute-Chronic Ratio
 If three or more experimentally determined ACRs, meeting the data collection and review requirements of Section VI of this appendix, are available for the chemical, determine the FACR using the procedure described in Section VI. If fewer than three acceptable experimentally determined ACRs are available, use enough assumed ACRs of 18 so that the total number of ACRs equals three. Calculate the Secondary Acute-Chronic Ratio (SACR) as the geometric mean of the three ACRs. Thus, if no experimentally determined ACRs are available, the SACR is 18.
 XIV. Secondary Chronic Value
 Calculate the Secondary Chronic Value (SCV) using one of the following:
-ER23MR95.099
 If appropriate, the SCV will be made a function of a water quality characteristic in a manner similar to that described in Tier I.
 XV. Commercially or Recreationally Important Species
 If for a commercially or recreationally important species of the Great Lakes System the geometric mean of the acute values or chronic values from flow-through tests in which the concentrations of the test materials were measured is lower than the calculated SAV or SCV, then that geometric mean must be used as the SAV or SCV instead of the calculated SAV or SCV.

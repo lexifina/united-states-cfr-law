@@ -17,7 +17,7 @@ Bioconcentration factor (BCF). The ratio (in L/kg) of a substance's concentratio
 Biota-sediment accumulation factor (BSAF). The ratio (in kg of organic carbon/kg of lipid) of a substance's lipid-normalized concentration in tissue of an aquatic organism to its organic carbon-normalized concentration in surface sediment, in situations where the ratio does not change substantially over time, both the organism and its food are exposed, and the surface sediment is representative of average surface sediment in the vicinity of the organism.
 Depuration. The loss of a substance from an organism as a result of any active or passive process.
 Food-chain multiplier (FCM). The ratio of a BAF to an appropriate BCF.
-Octanol-water partition coefficient (K OW). The ration of the concentration of a substance in the n-octanol phase to its concentration in the aqueous phase in an equilibrated two-phase octanol-water system. For log KOW, the log of the octanol-water partition coefficient is a base 10 logarithm.
+Octanol-water partition coefficient (KOW). The ration of the concentration of a substance in the n-octanol phase to its concentration in the aqueous phase in an equilibrated two-phase octanol-water system. For log KOW, the log of the octanol-water partition coefficient is a base 10 logarithm.
 Uptake. Acquisition of a substance from the environment by an organism as a result of any active or passive process.
 III. Review and Selection of Data
 A. Data Sources. Measured BAFs, BSAFs and BCFs are assembled from available sources including the following:
@@ -58,7 +58,7 @@ E. Predicted BCFs. The following procedural and quality assurance requirements s
 2. The predicted baseline BCF shall be calculated using the equation: predicted baseline BCF = KOW
 where:
 KOW = octanol-water partition coefficient.
-F. Octanol-Water Partition Coefficient (K OW). 1. The value of KOW used for an organic chemical shall be determined by giving priority to the experimental and computational techniques used as follows:
+F. Octanol-Water Partition Coefficient (KOW). 1. The value of KOW used for an organic chemical shall be determined by giving priority to the experimental and computational techniques used as follows:
 Log KOW <4:
 Priority | Technique
 1 | Slow-stir.
@@ -89,44 +89,37 @@ V. Calculation of Baseline BAFs for Organic Chemicals
 A. Lipid Normalization. 1. It is assumed that BAFs and BCFs for organic chemicals can be extrapolated on the basis of percent lipid from one tissue to another and from one aquatic species to another in most cases.
 2. Because BAFs and BCFs for organic chemicals are related to the percent lipid, it does not make any difference whether the tissue sample is whole body or edible portion, but both the BAF (or BCF) and the percent lipid must be determined for the same tissue. The percent lipid of the tissue should be measured during the BAF or BCF study, but in some cases it can be reliably estimated from measurements on tissue from other organisms. If percent lipid is not reported for the test organisms in the original study, it may be obtained from the author; or, in the case of a laboratory study, lipid data for the same or a comparable laboratory population of test organisms that were used in the original study may be used.
 3. The lipid-normalized concentration, Cl, of a chemical in tissue is defined using the following equation:
-ER23MR95.100
 Where:
 CB = concentration of the organic chemical in the tissue of aquatic biota (either whole organism or specified tissue) (µg/g).
 fl = fraction of the tissue that is lipid.
 B. Bioavailability. By definition, baseline BAFs and BCFs for organic chemicals, whether measured or predicted are based on the concentration of the chemical that is freely dissolved in the ambient water in order to account for bioavailability. For the purposes of this Guidance in this part, the relationship between the total concentration of the chemical in the water (i.e., that which is freely dissolved plus that which is sorbed to particulate organic carbon or to dissolved organic carbon) to the freely dissolved concentration of the chemical in the ambient water shall be calculated using the following equation:
-ER23MR95.101
 Where:
-Cfd w = freely dissolved concentration of the organic chemical in the ambient water;
-Ct w = total concentration of the organic chemical in the ambient water;
+C fdw = freely dissolved concentration of the organic chemical in the ambient water;
+C tw = total concentration of the organic chemical in the ambient water;
 ffd = fraction of the total chemical in the ambient water that is freely dissolved.
 The fraction of the total chemical in the ambient water that is freely dissolved, ffd, shall be calculated using the following equation:
-ER23MR95.102
 Where:
 DOC = concentration of dissolved organic carbon, kg of dissolved organic carbon/L of water.
 KOW = octanol-water partition coefficient of the chemical.
 POC = concentration of particulate organic carbon, kg of particulate organic carbon/L of water.
 C. Food-Chain Multiplier. In the absence of a field-measured BAF or a predicted BAF derived from a BSAF, a FCM shall be used to calculate the baseline BAF for trophic levels 3 and 4 from a laboratory-measured or predicted BCF. For an organic chemical, the FCM used shall be derived from Table B-1 using the chemical's log KOW and linear interpolation. A FCM greater than 1.0 applies to most organic chemicals with a log KOW of four or more. The trophic level used shall take into account the age or size of the fish species consumed by the human, avian or mammalian predator because, for some species of fish, the young are in trophic level 3 whereas the adults are in trophic level 4.
 D. Calculation of a Baseline BAF from a Field-Measured BAF. A baseline BAF shall be calculated from a field-measured BAF of acceptable quality using the following equation:
-ER23MR95.103
 Where:
-BAFt T = BAF based on total concentration in tissue and water.
+BAF tT = BAF based on total concentration in tissue and water.
 fl = fraction of the tissue that is lipid.
 ffd = fraction of the total chemical that is freely dissolved in the ambient water.
 The trophic level to which the baseline BAF applies is the same as the trophic level of the organisms used in the determination of the field-measured BAF. For each trophic level, a species mean measured baseline BAF shall be calculated as the geometric mean if more than one measured baseline BAF is available for a given species. For each trophic level, the geometric mean of the species mean measured baseline BAFs shall be calculated. If a baseline BAF based on a measured BAF is available for either trophic level 3 or 4, but not both, a measured baseline BAF for the other trophic level shall be calculated using the ratio of the FCMs that are obtained by linear interpolation from Table B-1 for the chemical.
 E. Calculation of a Baseline BAF from a Field-Measured BSAF. 1. A baseline BAF for organic chemical "i" shall be calculated from a field-measured BSAF of acceptable quality using the following equation:
-ER23MR95.105
 Where:
 (BSAF)i = BSAF for chemical "i".
 (BSAF)r = BSAF for the reference chemical "r".
 (KOW)i = octanol-water partition coefficient for chemical "i".
 (KOW)r = octanol-water partition coefficient for the reference chemical "r".
 2. A BSAF shall be calculated using the following equation:
-ER23MR95.106
 Where:
 Ct = the lipid-normalized concentration of the chemical in tissue.
 CSOC = the organic carbon-normalized concentration of the chemical in sediment.
 3. The organic carbon-normalized concentration of a chemical in sediment, CSOC, shall be calculated using the following equation:
-ER23MR95.107
 Where:
 CS = concentration of chemical in sediment (µg/g sediment).
 fOC = fraction of the sediment that is organic carbon.
@@ -134,9 +127,8 @@ fOC = fraction of the sediment that is organic carbon.
 5. The trophic level to which the baseline BAF applies is the same as the trophic level of the organisms used in the determination of the BSAF. For each trophic level, a species mean baseline BAF shall be calculated as the geometric mean if more than one baseline BAF is predicted from BSAFs for a given species. For each trophic level, the geometric mean of the species mean baseline BAFs derived using BSAFs shall be calculated.
 6. If a baseline BAF based on a measured BSAF is available for either trophic level 3 or 4, but not both, a baseline BAF for the other trophic level shall be calculated using the ratio of the FCMs that are obtained by linear interpolation from Table B-1 for the chemical.
 F. Calculation of a Baseline BAF from a Laboratory-Measured BCF. A baseline BAF for trophic level 3 and a baseline BAF for trophic level 4 shall be calculated from a laboratory-measured BCF of acceptable quality and a FCM using the following equation:
-ER23MR95.108
 Where:
-BCFt T = BCF based on total concentration in tissue and water.
+BCF tT = BCF based on total concentration in tissue and water.
 fl = fraction of the tissue that is lipid.
 ffd = fraction of the total chemical in the test water that is freely dissolved.
 FCM = the food-chain multiplier obtained from Table B-1 by linear interpolation for trophic level 3 or 4, as necessary.
@@ -148,19 +140,14 @@ FCM = the food-chain multiplier obtained from Table B-1 by linear interpolation 
 KOW = octanol-water partition coefficient.
 VI. Human Health and Wildlife BAFs for Organic Chemicals
 A. To calculate human health and wildlife BAFs for an organic chemical, the KOW of the chemical shall be used with a POC concentration of 0.00000004 kg/L and a DOC concentration of 0.000002 kg/L to yield the fraction freely dissolved:
-ER23MR95.109
 B. The human health BAFs for an organic chemical shall be calculated using the following equations:
 For trophic level 3:
-ER23MR95.110
 For trophic level 4:
-ER23MR95.111
 Where:
 0.0182 and 0.0310 are the standardized fraction lipid values for trophic levels 3 and 4, respectively, that are used to derive human health criteria and values for the GLI.
 C. The wildlife BAFs for an organic chemical shall be calculated using the following equations:
 For trophic level 3:
-ER23MR95.112
 For trophic level 4:
-ER23MR95.113
 Where:
 0.0646 and 0.1031 are the standardized fraction lipid values for trophic levels 3 and 4, respectively, that are used to derive wildlife criteria for the GLI.
 VII. Human Health and Wildlife BAFs for Inorganic Chemicals

@@ -45,7 +45,6 @@ A. Carcinogens.
 5. A species scaling factor shall be used to account for differences between test species and humans. It shall be assumed that milligrams per surface area per day is an equivalent dose between species (U.S. EPA, 1986). All doses presented in mg/kg bodyweight will be converted to an equivalent surface area dose by raising the mg/kg dose to the 2/3 power. However, if adequate pharmacokinetic and metabolism studies are available, these data may be factored into the adjustment for species differences on a case-by-case basis.
 6. Additional data selection and adjustment decisions must also be made in the process of quantifying risk. Consideration must be given to tumor selection for modeling, e.g., pooling estimates for multiple tumor types and identifying and combining benign and malignant tumors. All doses shall be adjusted to give an average daily dose over the study duration. Adjustments in the rate of tumor response must be made for early mortality in test species. The goodness-of-fit of the model to the data must also be assessed.
 7. When a linear, non-threshold dose response relationship is assumed, the RAD shall be calculated using the following equation:
-ER23mr95.114
 Where:
 RAD = risk associated dose in milligrams of toxicant per kilogram body weight per day (mg/kg/day).
 0.00001 (1 × 10−5) = incremental risk of developing cancer equal to one in 100,000.
@@ -74,7 +73,6 @@ WCr = per capita incidental daily water ingestion for surface waters not used as
 FC = per capita daily consumption of regionally caught freshwater fish = 0.015kg/day (0.0036 kg/day for trophic level 3 and 0.0114 kg/day for trophic level 4).
 BAF = bioaccumulation factor for trophic level 3 and trophic level 4, as derived using the BAF methodology in appendix B to part 132.
 2. Carcinogens. The Tier I human cancer criteria or Tier II values shall be calculated as follows:
-ER23MR95.115
 Where:
 HCV = Human Cancer Value in milligrams per liter (mg/L).
 RAD = Risk associated dose in milligrams toxicant per kilogram body weight per day (mg/kg/day) that is associated with a lifetime incremental cancer risk equal to one in 100,000.
@@ -84,10 +82,9 @@ or
 WCr = per capita incidental daily water ingestion for surface waters not used as human drinking water sources = 0.01 liters/day.
 FCTL3 = mean consumption of trophic level 3 of regionally caught freshwater fish = 0.0036 kg/day.
 FCTL4 = mean consumption of trophic level 4 of regionally caught freshwater fish = 0.0114 kg/day.
-BAFHH TL3 = bioaccumulation factor for trophic level 3 fish, as derived using the BAF methodology in appendix B to part 132.
-BAFHH TL4 = bioaccumulation factor for trophic level 4 fish, as derived using the BAF methodology in appendix B to part 132.
+BAF HHTL3 = bioaccumulation factor for trophic level 3 fish, as derived using the BAF methodology in appendix B to part 132.
+BAF HHTL4 = bioaccumulation factor for trophic level 4 fish, as derived using the BAF methodology in appendix B to part 132.
 3. Noncarcinogens. The Tier I human noncancer criteria or Tier II values shall be calculated as follows:
-ER23MR95.116
 Where:
 HNV = Human noncancer value in milligrams per liter (mg/L).
 ADE = Acceptable daily exposure in milligrams toxicant per kilogram body weight per day (mg/kg/day).
@@ -98,8 +95,8 @@ or
 WCr = per capita incidental daily water ingestion for surface waters not used as human drinking water sources = 0.01 liters/day.
 FCTL3 = mean consumption of trophic level 3 fish by regional sport fishers of regionally caught freshwater fish = 0.0036 kg/day.
 FCTL4 = mean consumption of trophic level 4 fish by regional sport fishers of regionally caught freshwater fish = 0.0114 kg/day.
-BAFHH TL3 = human health bioaccumulation factor for edible portion of trophic level 3 fish, as derived using the BAF methodology in appendix B to part 132.
-BAFHH TL4 = human health bioaccumulation factor for edible portion of trophic level 4 fish, as derived using the BAF methodology in appendix B to part 132.
+BAF HHTL3 = human health bioaccumulation factor for edible portion of trophic level 3 fish, as derived using the BAF methodology in appendix B to part 132.
+BAF HHTL4 = human health bioaccumulation factor for edible portion of trophic level 4 fish, as derived using the BAF methodology in appendix B to part 132.
 IV. References
 A. Howe, R.B., K.S. Crump and C. Van Landingham. 1986. Computer Program to Extrapolate Quantitative Animal Toxicity Data to Low Doses. Prepared for EPA under subcontract #2-251U-2745 to Research Triangle Institute.
 B. U.S. Environmental Protection Agency. 1980. Water Quality Criteria Availability, Appendix C Guidelines and Methodology Used in the Preparation of Health Effects Assessment Chapters of the Consent Decree Water Quality Criteria Documents. Available from U.S. Environmental Protection Agency, Office of Water Resource Center (WH-550A), 1200 Pennsylvania Ave., NW., Washington, DC 20460.
