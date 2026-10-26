@@ -10,7 +10,6 @@ The term "missing value" is used here in the general sense to describe all days 
 In some areas, the seasonal pattern of ozone is so pronounced that entire months need not be sampled because it is extremely unlikely that the standard would be exceeded. Any such waiver of the ozone monitoring requirement would be handled under provisions of 40 CFR, part 58. Some allowance should also be made for days for which valid daily maximum hourly values were not obtained but which would quite likely have been below the standard. Such an allowance introduces a complication in that it becomes necessary to define under what conditions a missing value may be assumed to have been less than the level of the standard. The following criterion may be used for ozone:
 A missing daily maximum ozone value may be assumed to be less than the level of the standard if the valid daily maxima on both the preceding day and the following day do not exceed 75 percent of the level of the standard.
 Let z denote the number of missing daily maximum values that may be assumed to be less than the standard. Then the following formula shall be used to estimate the expected number of exceedances for the year:
-EC08NO9.086
 (*Indicates multiplication.)
 where:
 e = the estimated number of exceedances for the year,

@@ -1,16 +1,16 @@
 # Appendix G to Part 50—Reference Method for the Determination of Lead in Total Suspended Particulate Matter
 1.0 Scope and Applicability
-Based on review of the air quality criteria and national ambient air quality standard (NAAQS) for lead (Pb) completed in 2008, the EPA made revisions to the primary and secondary NAAQS for Pb to protect public health and welfare. The EPA revised the level from 1.5 µg/m3 to 0.15 µg/m3 while retaining the current indicator of Pb in total suspended particulate matter (Pb-TSP).
+Based on review of the air quality criteria and national ambient air quality standard (NAAQS) for lead (Pb) completed in 2008, the EPA made revisions to the primary and secondary NAAQS for Pb to protect public health and welfare. The EPA revised the level from 1.5 µg/m 3 to 0.15 µg/m 3 while retaining the current indicator of Pb in total suspended particulate matter (Pb-TSP).
 Pb-TSP is collected for 24 hours on a TSP filter as described in Appendix B of part 50, the Reference Method for the Determination of Suspended Particulate Matter in the Atmosphere (High-Volume Method). This method is for the analysis of Pb from TSP filters by Inductively Coupled Plasma Mass Spectrometry (ICP-MS) using a heated ultrasonic bath with nitric acid (HNO3) and hydrochloric acid (HCl) or a heated block (hot block) digester with HNO3 for filter extraction.
 This method is based on the EPA's Office of Solid Waste (SW-846) Method 6020A—Inductively Coupled Plasma Mass Spectrometry (U.S. EPA, 2007). Wording in certain sections of this method is paraphrased or taken directly from Method 6020A.
-1.1 ICP-MS is applicable for the sub-µg/mL (ppb) determination of Pb in a wide variety of matrices. Results reported for monitoring or compliance purposes are calculated in µg/m3 at local conditions (LC). This procedure describes a method for the acid extraction of Pb in particulate matter collected on glass fiber, quartz, or PTFE filters and measurement of the extracted Pb using ICP-MS.
+1.1 ICP-MS is applicable for the sub-µg/mL (ppb) determination of Pb in a wide variety of matrices. Results reported for monitoring or compliance purposes are calculated in µg/m 3 at local conditions (LC). This procedure describes a method for the acid extraction of Pb in particulate matter collected on glass fiber, quartz, or PTFE filters and measurement of the extracted Pb using ICP-MS.
 1.2 Due to variations in the isotopic abundance of Pb, the value for total Pb must be based on the sum of the signal intensities for isotopic masses, 206, 207, and 208. Most instrument software packages are able to sum the primary isotope signal intensities automatically.
 1.3 ICP-MS requires the use of an internal standard. 115In (Indium), 165Ho (Holmium), and 209Bi (Bismuth) are recommended internal standards for the determination of Pb.
 1.4 Use of this method is restricted to use by, or under supervision of, properly trained and experienced laboratory personnel. Requirements include training and experience in inorganic sample preparation, including acid extraction, and also knowledge in the recognition and in the correction of spectral, chemical and physical interference in ICP-MS.
 2.0 Summary of Method
-2.1 This method describes the acid extraction of Pb in particulate matter collected on glass fiber, quartz, or PTFE ambient air filters with subsequent measurement of Pb by ICP-MS. Estimates of the Method Detection Limit (MDL) or sensitivity of the method are provided in Tables 1, 3 and 5 and determined using Pb-spiked filters or filter strips analyzed in accordance with the guidance provided in 40 CFR 136, Appendix B—Determination and procedures for the Determination of the Method Detection Limit—Revision 1.1. The analytical range of the method is 0.00024 µg/m3 to 0.60 µg/m3, and based on the low and high calibration curve standards and a nominal filter sample volume of 2000 m3.
+2.1 This method describes the acid extraction of Pb in particulate matter collected on glass fiber, quartz, or PTFE ambient air filters with subsequent measurement of Pb by ICP-MS. Estimates of the Method Detection Limit (MDL) or sensitivity of the method are provided in Tables 1, 3 and 5 and determined using Pb-spiked filters or filter strips analyzed in accordance with the guidance provided in 40 CFR 136, Appendix B—Determination and procedures for the Determination of the Method Detection Limit—Revision 1.1. The analytical range of the method is 0.00024 µg/m 3 to 0.60 µg/m 3, and based on the low and high calibration curve standards and a nominal filter sample volume of 2000 m 3.
 2.2 This method includes two extraction methods. In the first method, a solution of HNO3 and HCl is added to the filters or filter strips in plastic digestion tubes and the tubes are placed in a heated ultrasonic bath for one hour to facilitate the extraction of Pb. Following ultrasonication, the samples are brought to a final volume of 40 mL (50 mL for PTFE filters), vortex mixed or shaken vigorously, and centrifuged prior to aliquots being taken for ICP-MS analysis. In the second method, a solution of dilute HNO3 is added to the filter strips in plastic digestion tubes and the tubes placed into the hot block digester. The filter strip is completely covered by the solution. The tubes are covered with polypropylene watch glasses and refluxed. After reflux, the samples are diluted to a final volume of 50 mL with reagent water and mixed before analysis.
-2.3 Calibration standards and check standards are prepared to matrix match the acid composition of the samples. ICP-MS analysis is then performed. With this method, the samples are first aspirated and the aerosol thus created is transported by a flow of argon gas into the plasma torch. The ions produced (e.g., Pb + 1) in the plasma are extracted via a differentially-pumped vacuum interface and are separated on the basis of their mass-to-charge ratio. The ions are quantified by a channel electron multiplier or a Faraday detector and the signal collected is processed by the instrument's software. Interferences must be assessed and corrected for, if present.
+2.3 Calibration standards and check standards are prepared to matrix match the acid composition of the samples. ICP-MS analysis is then performed. With this method, the samples are first aspirated and the aerosol thus created is transported by a flow of argon gas into the plasma torch. The ions produced (e.g., Pb+ 1) in the plasma are extracted via a differentially-pumped vacuum interface and are separated on the basis of their mass-to-charge ratio. The ions are quantified by a channel electron multiplier or a Faraday detector and the signal collected is processed by the instrument's software. Interferences must be assessed and corrected for, if present.
 3.0 Definitions
 Pb—Elemental or ionic lead
 HNO3—Nitric acid
@@ -92,14 +92,14 @@ It is also essential that an eye wash fountain or eye wash bottle be available d
 7.5.3 Bismuth (Bi) standard, 1000 µg/mL, NIST traceable, commercially available with certificate of analysis. High Purity Standards Catalog No. 100006-1, or equivalent.
 7.5.4 Holmium (Ho) standard, 1000 µg/mL, NIST traceable, commercially available with certificate of analysis. High Purity Standards Catalog No. 100023-1, or equivalent.
 7.5.5 Second source lead standard, 1000 µg/mL, NIST traceable, commercially available with certificate of analysis. Must be from a different vendor or lot than the standard described in 7.5.1. Inorganic Ventures Catalog No. CGPB-1, or equivalent.
-7.5.6 Standard Reference Materials, NIST SRM 2583, 2586, 2587 or 1648, or equivalent.5
+7.5.6 Standard Reference Materials, NIST SRM 2583, 2586, 2587 or 1648, or equivalent. 5
 Note: The In, Bi, and Ho internal standards may also be purchased as 10 µg/mL standards. Calibration standards are prepared by diluting stock standards to the appropriate levels in the same acid concentrations as in the final sample volume. The typical range for calibration standards is 0.001 to 2.00 µg/mL. At a minimum, the curve must contain a blank and five Pb containing calibration standards. The calibration standards are stored at ambient laboratory temperature. Calibration standards must be prepared weekly and verified against a freshly prepared ICV using a NIST-traceable source different from the calibration standards.
 7.6 Internal standards may be added to the test solution or by on-line addition. The nominal concentration for an internal standard is 0.010 µg/mL (10 ppb). Bismuth (Bi) or holmium (Ho) are the preferred internal standards for Pb, but indium (In) may be used in the event the sample contains Bi and high recoveries are observed.
 7.7 Three laboratory blank solutions are required for analysis: (1) The calibration blank is used in the construction of the calibration curve and as a periodic check of system cleanliness (ICB and CCB); (2) the reagent blank (RB) is carried through the extraction process to assess possible contamination; and (3) the rinse blank is run between samples to clean the sample introduction system. If RBs or laboratory blanks yield results above the detection limit, the source of contamination must be identified. Screening of labware and reagents is addressed in Section 4.1.
 7.7.1 The calibration blank is prepared in the same acid matrix as the calibration standards and samples and contains all internal standards used in the analysis.
 7.7.2 The RB contains all reagents used in the extraction and is carried through the extraction procedure at the same time as the samples.
 7.7.3 The rinse blank is a solution of 1 to 2 percent HNO3 (v/v) in reagent grade water. A sufficient volume should be prepared to flush the system between all standards and samples analyzed.
-7.7.4 The EPA currently provides glass fiber, quartz, and PTFE filters to air monitoring agencies as requested annually. As part of the procurement process, these filters are tested for acceptance by the EPA. The current acceptance criteria for glass fiber and quartz filters is 15 µg per filter or 0.0075 µg/m3 using a nominal sample volume of 2000 m3 and 4.8 ng/cm2 or 0.0024 µg/m3 for PTFE filters using a nominal sample volume of 24 m3. Acceptance test results for filters obtained by the EPA are typically well below the criterion specified and also below the recently revised Pb method performance detection limit of 0.0075 µg/m3; therefore, blank subtraction should not be performed.
+7.7.4 The EPA currently provides glass fiber, quartz, and PTFE filters to air monitoring agencies as requested annually. As part of the procurement process, these filters are tested for acceptance by the EPA. The current acceptance criteria for glass fiber and quartz filters is 15 µg per filter or 0.0075 µg/m 3 using a nominal sample volume of 2000 m 3 and 4.8 ng/cm 2 or 0.0024 µg/m 3 for PTFE filters using a nominal sample volume of 24 m 3. Acceptance test results for filters obtained by the EPA are typically well below the criterion specified and also below the recently revised Pb method performance detection limit of 0.0075 µg/m 3; therefore, blank subtraction should not be performed.
 7.7.5 If filters are not provided by the EPA for sample collection and analysis, filter lot blanks should be analyzed for Pb content. For large filter lots (>500 filters), randomly select 20 to 30 filters from the lot and analyze the filter or filter strips for Pb. For smaller filter lots, a lesser number of filters can be analyzed. Glass, quartz and PTFE filters must not have levels of Pb above the criteria specified in section 7.7.4 and, therefore, blank correction should not be performed. If acceptance testing shows levels of Pb above the criteria in Section 7.7.4, corrective action must be taken to reduce the levels before proceeding.
 7.8 The Initial Calibration Verification (ICV), Lower Level Calibration Verification (LLCV), and Continuing Calibration Verification (CCV) solutions are prepared from a different Pb source than the calibration curve standards and at a concentration that is either at or below the midpoint on the calibration curve, but within the calibration range. Both are prepared in the same acid matrix as the calibration standards. Note that the same solution may be used for both the ICV and CCV. The ICV/CCV and LLCV solutions must be prepared fresh daily.
 7.9 Tuning Solution. Prepare a tuning solution according to the instrument manufacturer's recommendations. This solution will be used to verify the mass calibration and resolution of the instrument.
@@ -172,22 +172,23 @@ All plasticware (e.g., Nalgene) and glassware used in the extraction procedures 
 12.8 A typical sample run will include field samples, field sample duplicates, spiked field sample extracts, serially diluted samples, the set of QC samples listed in Section 8.8 above, and one or more CRMs or SRMs.
 12.9 Any samples that exceed the highest standard in the calibration curve must be diluted and reanalyzed so that the diluted concentration falls within the calibration curve.
 13.0 Results
-13.1 The filter results must be initially reported in µg/mL as analyzed. Any additional dilutions must be accounted for. The internal standard recoveries must be included in the result calculation; this is done by the ICP-MS software for most commercially-available instruments. Final results should be reported in µg Pb/m3 to three significant figures as follows:
+13.1 The filter results must be initially reported in µg/mL as analyzed. Any additional dilutions must be accounted for. The internal standard recoveries must be included in the result calculation; this is done by the ICP-MS software for most commercially-available instruments. Final results should be reported in µg Pb/m 3 to three significant figures as follows:
 C = ((µg Pb/mL * Vf * A)* D))/Vs
 Where:
-C = Concentration, µg Pb/m3
+C = Concentration, µg Pb/m 3
 µg Pb/mL = Lead concentration in solution
 Vf = Total extraction solution volume
-A = Area correction; 3/4″ × 8″ strip = 5.25 in2 analyzed, A = 12.0 or 1″ × 8″ strip = 7 in2 analyzed, A = 9.0
+A = Area correction; 3/4″ × 8″ strip = 5.25 in 2 analyzed, A = 12.0 or 1″ × 8″ strip = 7 in 2 analyzed, A = 9.0
 D = dilution factor (if required)
 Vs = Actual volume of air sampled
-The calculation assumes the use of a standard 8-inch × 10-inch TSP filter which has a sampled area of 9-inch × 7-inch (63.0 in2) due to the 1/2-inch filter holder border around the outer edge. The 3/4-inch × 8-inch strip has a sampled area of 3/4-inch × 7-inch (5.25 in2). The 1-inch × 8-inch strip has a sampled area of 1-inch × 7-inch (7.0 in2). If filter lot blanks are provided for analysis, refer to Section 7.7.5 of this method for guidance on testing.
+The calculation assumes the use of a standard 8-inch × 10-inch TSP filter which has a sampled area of 9-inch × 7-inch (63.0 in 2) due to the 1/2-inch filter holder border around the outer edge. The 3/4-inch × 8-inch strip has a sampled area of 3/4-inch × 7-inch (5.25 in 2). The 1-inch × 8-inch strip has a sampled area of 1-inch × 7-inch (7.0 in 2). If filter lot blanks are provided for analysis, refer to Section 7.7.5 of this method for guidance on testing.
 14.0 Method Performance
 Information in this section is an example of typical performance results achieved by this method. Actual performance must be demonstrated by each individual laboratory and instrument.
-14.1 Performance data have been collected to estimate MDLs for this method. MDLs were determined in accordance with 40 CFR 136, Appendix B. MDLs were estimated for glass fiber, quartz, and PTFE filters using seven reagent/filter blank solutions spiked with low level Pb at three times the estimated MDL of 0.001 µg/mL. Tables 1, 3, and 5 shows the MDLs estimated using both the ultrasonic and hot block extraction methods for glass fiber and quartz filters and the ultrasonic method for PTFE filters. The MDLs are well below the EPA requirement of five percent of the current Pb NAAQS or 0.0075 µg/m3. These MDLs are provided to demonstrate the adequacy of the method's performance for Pb in TSP. Each laboratory using this method should determine MDLs in their laboratory and verify them annually. It is recommended that laboratories also perform the optional iterative procedure in 40 CFR 136, Appendix B to verify the reasonableness of the estimated MDL and subsequent MDL determinations.
+14.1 Performance data have been collected to estimate MDLs for this method. MDLs were determined in accordance with 40 CFR 136, Appendix B. MDLs were estimated for glass fiber, quartz, and PTFE filters using seven reagent/filter blank solutions spiked with low level Pb at three times the estimated MDL of 0.001 µg/mL. Tables 1, 3, and 5 shows the MDLs estimated using both the ultrasonic and hot block extraction methods for glass fiber and quartz filters and the ultrasonic method for PTFE filters. The MDLs are well below the EPA requirement of five percent of the current Pb NAAQS or 0.0075 µg/m 3. These MDLs are provided to demonstrate the adequacy of the method's performance for Pb in TSP. Each laboratory using this method should determine MDLs in their laboratory and verify them annually. It is recommended that laboratories also perform the optional iterative procedure in 40 CFR 136, Appendix B to verify the reasonableness of the estimated MDL and subsequent MDL determinations.
 14.2 Extraction method recovery tests with glass fiber and quartz filter strips, and PTFE filters spiked with NIST SRMs were performed using the ultrasonic/HNO3 and HCl filter extraction methods and measurement of the dissolved Pb with ICP-MS. Tables 2, 4, and 6 show recoveries obtained with these SRM. The recoveries for all SRMs were ≥90 percent at the 95 percent confidence level.
 Table 1—Method Detection Limits Determined by Analysis of Reagent/Glass Fiber Filter Blanks Spiked With Low-level Pb Solution
-| Ultrasonicextraction method | µg/m3* | Hotblockextraction method | µg/m3*
+| Ultrasonic extraction method | Hotblock extraction method
+µg/m 3 | µg/m 3
 n = 1 | 0.0000702 | 0.000533
 n = 2 | 0.0000715 | 0.000482
 n = 3 | 0.0000611 | 0.000509
@@ -198,14 +199,15 @@ n = 7 | 0.0000616 | 0.000481
 Average | 0.0000635 | 0.000489
 Standard Deviation | 0.0000051 | 0.000042
 MDL** | 0.0000161 | 0.000131
-* Assumes 2000 m3 of air sampled.
-** MDL is 3.143 times the standard deviation of the results for seven sample replicates analyzed.
+* Assumes 2000 m 3 of air sampled. ** MDL is 3.143 times the standard deviation of the results for seven sample replicates analyzed.
 Table 2—Recoveries of Lead From NIST SRMs Spiked Onto Glass Fiber Filters
-Extraction method | Recovery, ICP-MS, (percent) | NIST 1547 plant | NIST 2709 soil | NIST 2583 dust | NIST 2582 paint
+Extraction method | Recovery, ICP-MS, (percent)
+NIST 1547 plant | NIST 2709 soil | NIST 2583 dust | NIST 2582 paint
 Ultrasonic Bath | 100 ±4 | 98 ±1 | 103 ±8 | 101 ±0
 Block Digestion | 92 ±7 | 98 ±3 | 103 ±4 | 94 ±4
 Table 3—Method Detection Limits Determined by Analysis of Reagent/Quartz Filter Blanks Spiked With Low-level Pb Solution
-| Ultrasonicextraction method | µg/m3* | Hotblockextraction method | µg/m3*
+| Ultrasonic extraction method | Hotblock extraction method
+µg/m 3* | µg/m 3*
 n = 1 | 0.000533 | 0.000274
 n = 2 | 0.000552 | 0.000271
 n = 3 | 0.000534 | 0.000281
@@ -216,14 +218,15 @@ n = 7 | 0.000552 | 0.000261
 Average | 0.000560 | 0.000272
 Standard Deviation | 0.000055 | 0.000007
 MDL** | 0.000174 | 0.000021
-* Assumes 2000 m3 of air sampled.
-** MDL is 3.143 times the standard deviation of the results for seven sample replicates analyzed.
+* Assumes 2000 m 3 of air sampled. ** MDL is 3.143 times the standard deviation of the results for seven sample replicates analyzed.
 Table 4—Recoveries of Lead From NIST SRMs Spiked Onto Quartz Fiber Filters
-Extraction method | Recovery, ICP-MS, (percent) | NIST 1547 plant | NIST 2709 soil | NIST 2583 dust | NIST 2582 paint
+Extraction method | Recovery, ICP-MS, (percent)
+NIST 1547 plant | NIST 2709 soil | NIST 2583 dust | NIST 2582 paint
 Ultrasonic Bath | 101 ±6 | 95 ±1 | 91 ±5 | 93 ±1
 Block Digestion | 106 ±3 | 104 ±3 | 92 ±6 | 95 ±2
 Table 5—Method Detection Limits Determined by Analysis of Reagent/PTFE Filter Blanks Spiked With Low-Level Pb Solution
-| Ultrasonicextraction method | µg/m3*
+| Ultrasonic extraction method
+µg/m 3*
 n = 1 | 0.001775
 n = 2 | 0.001812
 n = 3 | 0.001773
@@ -234,10 +237,10 @@ n = 7 | 0.001778
 Average | 0.001773
 Standard Deviation | 0.000031
 MDL** | 0.000097
-* Assumes 24 m3 of air sampled.
-** MDL is 3.143 times the standard deviation of the results for seven sample replicates analyzed.
+* Assumes 24 m 3 of air sampled. ** MDL is 3.143 times the standard deviation of the results for seven sample replicates analyzed.
 Table 6—Recoveries of Lead From NIST SRMs Spiked Onto PTFE Filters
-Extraction method | Recovery, ICP-MS, (percent) | NIST 1547 plant | NIST 2709 soil | NIST 2583 dust | NIST 2582 paint
+Extraction method | Recovery, ICP-MS, (percent)
+NIST 1547 plant | NIST 2709 soil | NIST 2583 dust | NIST 2582 paint
 Ultrasonic Bath | 104 ±5 | 93 ±1 | 108 ±11 | 96 ±3
 15.0 Pollution Prevention
 15.1 Pollution prevention encompasses any technique that reduces or eliminates the quantity and/or toxicity of waste at the point of generation. Numerous opportunities for pollution prevention exist in laboratory operations. Whenever feasible, laboratory personnel should use pollution prevention techniques to address their waste generation. The sources of pollution generated with this procedure are waste acid extracts and Pb-containing solutions.
