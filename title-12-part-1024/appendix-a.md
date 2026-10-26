@@ -117,8 +117,3 @@ Line 1603 is the total amount from line 1520.
 Line 1604 is the amount disbursed to the borrower. This is determined by adding together the amounts for lines 1600 and 1601, and then subtracting any amounts listed on lines 1602 and 1603.
 Page 2
 This section of the HUD-1A is similar to page 3 of the HUD-1. The instructions for page 3 of the HUD-1 should be followed insofar as possible. The HUD-1/1A Column should include any amounts shown on page 1 of the HUD-1A in the column as paid for by the borrower, plus any amounts that are shown as P.O.C. by the borrower. Inapplicable charges should be ignored.
-ER20DE11.001
-ER20DE11.002
-ER20DE11.003
-ER20DE11.004
-ER20DE11.005

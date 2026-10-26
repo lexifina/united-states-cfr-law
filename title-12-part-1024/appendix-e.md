@@ -10,7 +10,8 @@ Cushion: One-sixth of estimated annual disbursements
 Settlement: May 15
 First Payment: July 1
 Step 1—Initial Trial Balance
-| Aggregate | pmt | disb | bal
+| Aggregate
+pmt | disb | bal
 Jun | 0 | 0 | 0
 Jul | 130 | 500 | −370
 Aug | 130 | 0 | −240
@@ -24,9 +25,9 @@ Mar | 130 | 0 | −390
 Apr | 130 | 0 | −260
 May | 130 | 0 | −130
 Jun | 130 | 0 | 0
-Step 2—Adjusted Trial Balance
-[Increase monthly balances to eliminate negative balances]
-| Aggregate | pmt | disb | bal
+Step 2—Adjusted Trial Balance [Increase monthly balances to eliminate negative balances]
+| Aggregate
+pmt | disb | bal
 Jun | 0 | 0 | 780
 Jul | 130 | 500 | 410
 Aug | 130 | 0 | 540
@@ -41,7 +42,8 @@ Apr | 130 | 0 | 520
 May | 130 | 0 | 650
 Jun | 130 | 0 | 780
 Step 3—Trial Balance With Cushion
-| Aggregate | pmt | disb | bal
+| Aggregate
+pmt | disb | bal
 Jun | 0 | 0 | 1040
 Jul | 130 | 500 | 670
 Aug | 130 | 0 | 800
@@ -66,7 +68,9 @@ Cushion: One-sixth of estimated annual disbursements
 Settlement: May 15
 First Payment: July 1
 Step 1—Initial Trial Balance
-| Single-item | Taxes | pmt | disb | bal | School taxes | pmt | disb | bal
+| Single-item
+Taxes | School taxes
+pmt | disb | bal | pmt | disb | bal
 June | 0 | 0 | 0 | 0 | 0 | 0
 July | 100 | 500 | −400 | 30 | 0 | 30
 August | 100 | 0 | −300 | 30 | 0 | 60
@@ -80,9 +84,10 @@ March | 100 | 0 | −300 | 30 | 0 | −90
 April | 100 | 0 | −200 | 30 | 0 | −60
 May | 100 | 0 | −100 | 30 | 0 | −30
 June | 100 | 0 | 0 | 30 | 0 | 0
-Step 2—Adjusted Trial Balance
-[Increase monthly balances to eliminate negative balances]
-| Single-item | Taxes | pmt | disb | bal | School taxes | pmt | disb | bal
+Step 2—Adjusted Trial Balance [Increase monthly balances to eliminate negative balances]
+| Single-item
+Taxes | School taxes
+pmt | disb | bal | pmt | disb | bal
 Jun | 0 | 0 | 600 | 0 | 0 | 270
 Jul | 100 | 500 | 200 | 30 | 0 | 300
 Aug | 100 | 0 | 300 | 30 | 0 | 330
@@ -97,7 +102,9 @@ Apr | 100 | 0 | 400 | 30 | 0 | 210
 May | 100 | 0 | 500 | 30 | 0 | 240
 Jun | 100 | 0 | 600 | 30 | 0 | 270
 Step 3—Trial Balance With Cushion
-| Single-item | Taxes | pmt | disb | bal | School taxes | pmt | disb | bal
+| Single-item
+Taxes | School taxes
+pmt | disb | bal | pmt | disb | bal
 Jun | 0 | 0 | 800 | 0 | 0 | 330
 Jul | 100 | 500 | 400 | 30 | 0 | 360
 Aug | 100 | 0 | 500 | 30 | 0 | 390
