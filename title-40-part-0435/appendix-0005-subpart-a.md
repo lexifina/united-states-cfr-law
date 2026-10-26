@@ -96,7 +96,6 @@ Note: Brand names, suppliers, and part numbers are for illustrative purposes onl
 9.5 Duplicates—A duplicate field sample shall be prepared and analyzed according to Section 11. The relative percent difference (RPD) of the calculated concentrations shall be less than 15%.
 9.5.1 Analyze each of the duplicates per the procedure in Section 11 of this appendix and compute the results per Section 12 of this appendix.
 9.5.2 Calculate the relative percent difference (RPD) between the two results per the following equation:
-ER18MY12.029
 where:
 D1 = Concentration of crude oil in the sample; and
 D2 = Concentration of crude oil in the duplicate sample.
@@ -119,7 +118,7 @@ Final Temperature | 300 °C
 Final Hold | 20 minutes or until all peaks have eluted
 Carrier Gas | Helium
 Flow rate | As required for standard operation
-Split ratio | As required to meet performance criteria (~1:100)
+Split ratio | As required to meet performance criteria (∼1:100)
 Mass range | 35 to 600 amu
 Table 2—Approximate Retention Time for Compounds
 Compound | Approximate retention time (minutes)
@@ -141,12 +140,12 @@ Tetradecane, −C14 | 28.7
 10.3.3 Spike a 500-mL aliquot of the 0.125 mg/mL SPTM standard with 500 µL of the TCB internal standard solution.
 10.3.4 Inject 1.0 µL of this spiked SPTM standard onto the GC/MS to monitor detectable levels. For the GC/MS used in the development of this test, all ten compounds showed a minimum peak height of three times signal to noise. Extracted ion scans for m/z 91 and 105 showed a maximum abundance of 40,000.
 10.4 GC/MS crude oil/drilling fluid calibration—There are two methods of quantification: Total Area Integration (C8-C13) and EIP Area Integration using m/z's 91 and 105. The Total Area Integration method should be used as the primary technique for quantifying crude oil in NAFs. The EIP Area Integration method should be used as a confirmatory technique for NAFs. However, the EIP Area Integration method shall be used as the primary method for quantifying oil in enhanced mineral oil (EMO) based drilling fluid. Inject 1.0 µL of each of the four crude oil/drilling fluid calibration standards prepared in Section 7.2.5 of this appendix into the GC/MS. The internal standard should elute approximately 21-22 minutes after injection. For the GC/MS used in the development of this method, the internal standard peak was (35 to 40)% of full scale at an abundance of about 3.5e + 07.
-10.4.1 Total Area Integration Method—For each of the four calibration standards obtain the following: Using a straight baseline integration technique, obtain the total ion chromatogram (TIC) area from C8 to C13. Obtain the TIC area of the internal standard (TCB). Subtract the TCB area from the C8-C13 area to obtain the true C8-C13 area. Using the C8-C13 and TCB areas, and known internal standard concentration, generate a linear regression calibration using the internal standard method. The r2 value for the linear regression curve shall be greater than or equal to 0.998. Some synthetic fluids might have peaks that elute in the window and would interfere with the analysis. In this case the integration window can be shifted to other areas of scan where there are no interfering peaks from the synthetic base fluid.
+10.4.1 Total Area Integration Method—For each of the four calibration standards obtain the following: Using a straight baseline integration technique, obtain the total ion chromatogram (TIC) area from C8 to C13. Obtain the TIC area of the internal standard (TCB). Subtract the TCB area from the C8-C13 area to obtain the true C8-C13 area. Using the C8-C13 and TCB areas, and known internal standard concentration, generate a linear regression calibration using the internal standard method. The r 2 value for the linear regression curve shall be greater than or equal to 0.998. Some synthetic fluids might have peaks that elute in the window and would interfere with the analysis. In this case the integration window can be shifted to other areas of scan where there are no interfering peaks from the synthetic base fluid.
 10.4.2 EIP Area Integration—For each of the four calibration standards generate Extracted Ion Profiles (EIPs) for m/z 91 and 105. Using straight baseline integration techniques, obtain the following EIP areas:
 10.4.2.1 For m/z 91 integrate the area under the curve from approximately 9 minutes to 21-22 minutes, just prior to but not including the internal standard.
 10.4.2.2 For m/z 105 integrate the area under the curve from approximately 10.5 minutes to 26.5 minutes.
 10.4.2.3 Obtain the internal standard area from the TCB in each of the four calibration standards, using m/z 180.
-10.4.2.4 Using the EIP areas for TCB, m/z 91 and m/z105, and the known concentration of internal standard, generate linear regression calibration curves for the target ions 91 and 105 using the internal standard method. The r2 value for each of the EIP linear regression curves shall be greater than or equal to 0.998.
+10.4.2.4 Using the EIP areas for TCB, m/z 91 and m/z105, and the known concentration of internal standard, generate linear regression calibration curves for the target ions 91 and 105 using the internal standard method. The r 2 value for each of the EIP linear regression curves shall be greater than or equal to 0.998.
 10.4.2.5 Some base fluids might produce a background level that would show up on the extracted ion profiles, but there should not be any real peaks (signal to noise ratio of 1:3) from the clean base fluids.
 11.0 Procedure
 11.1 Sample Preparation—
@@ -200,7 +199,6 @@ Selected ion mass numbers | Corresponding aromatic compounds | Typical rententio
 11.6.3 After this analysis is complete, inject 1.0 µL of the 1.25 mg/mL SPTM (containing internal standard) into the GC instrument and verify the proper retention times are met (see Table 2 of this appendix).
 11.6.4 Retention times—Retention time of the internal standard. The absolute retention time of the TCB internal standard shall be within the range 21.0 ±0.5 minutes. Relative retention times of the n-alkanes: The retention times of the n-alkanes relative to the TCB internal standard shall be similar to those given in Table 2 of this appendix.
 11.6.17 Schematic Flowchart for Qualitative Identification
-ER18MY12.030
 12.0 Calculations
 The concentration of oil in NAFs drilling fluids shall be computed relative to peak areas between C8 and C13 (using the Total Area Integration method) or total peak areas from extracted ion profiles (using the Extracted Ion Profile Method). In either case, there is a measurable amount of peak area, even in clean drilling fluid samples, due to spurious peaks and electrometer "noise" that contributes to the total signal measured using either of the quantification methods. In this procedure, a correction for this signal is applied, using the blank or clean sample correction technique described in American Society for Testing Materials (ASTM) Method D-3328-90, Comparison of Waterborne Oil by Gas Chromatography. In this method, the "oil equivalents" measured in a blank sample by total area gas chromatography are subtracted from that determined for a field sample to arrive at the most accurate measure of oil residue in the authentic sample.
 12.1 Total Area Integration Method

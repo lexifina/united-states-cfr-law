@@ -4,25 +4,25 @@ a. This procedure is specifically intended to measure the amount of non-aqueous 
 b. In this retort test a known mass of cuttings is heated in the retort chamber to vaporize the liquids associated with the sample. The NAF base fluid and water vapors are then condensed, collected, and measured in a precision graduated receiver.
 Note: Obtaining a representative sample requires special attention to the details of sample handling (e.g., location, method, frequency). See Addendum A and B for minimum requirements for collecting representative samples. Additional sampling procedures in a given area may be specified by the NPDES permit controlling authority.
 2. Equipment
-a. Retort instrument—The recommended retort instrument has a 50-cm3 volume with an external heating jacket.
+a. Retort instrument—The recommended retort instrument has a 50-cm 3 volume with an external heating jacket.
 Retort Specifications:
 1. Retort assembly—retort body, cup and lid.
 (a) Material: 303 stainless steel or equivalent.
 (b) Volume: Retort cup with lid.
-Cup Volume: 50-cm3.
-Precision: ±0.25-cm3.
+Cup Volume: 50-cm 3.
+Precision: ±0.25-cm 3.
 2. Condenser—capable of cooling the oil and water vapors below their liquification temperature.
 3. Heating jacket—nominal 350 watts.
 4. Temperature control—capable of limiting temperature of retort to at least 930 °F (500 °C) and enough to boil off all NAFs.
-b. Liquid receiver (10-cm3, 20-cm3)—the 10-cm3 and 20-cm3 receivers are specially designed cylindrical glassware with rounded bottom to facilitate cleaning and funnel-shaped top to catch falling drops. For compliance monitoring under the NPDES program, the analyst shall use the 10-cm3 liquid receiver with 0.1 ml graduations to achieve greater accuracy.
+b. Liquid receiver (10-cm 3, 20-cm 3)—the 10-cm 3 and 20-cm 3 receivers are specially designed cylindrical glassware with rounded bottom to facilitate cleaning and funnel-shaped top to catch falling drops. For compliance monitoring under the NPDES program, the analyst shall use the 10-cm 3 liquid receiver with 0.1 ml graduations to achieve greater accuracy.
 1. Receiver specifications:
-Total volume: 10-cm3, 20-cm3.
-Precision (0 to 100%): ±0.05 cm3, ±0.05 cm3.
+Total volume: 10-cm 3, 20-cm 3.
+Precision (0 to 100%): ±0.05 cm 3, ±0.05 cm 3.
 Outside diameter: 10-mm, 13-mm.
 Wall thickness: 1.5 ±0.1mm, 1.2 ±0.1mm.
-Frequency of graduation marks (0 to 100%): 0.10-cm3, 0.10-cm3.
+Frequency of graduation marks (0 to 100%): 0.10-cm 3, 0.10-cm 3.
 Calibration: To contain "TC" @ 20 °C.
-Scale: cm3, cm3
+Scale: cm 3, cm 3
 2. Material—Pyrex ® or equivalent glass.
 c. Toploading balance—capable of weighing 2000 g and precision of at least 0.1 g. Unless motion is a problem, the analyst shall use an electronic balance. Where motion is a problem, the analyst may use a triple beam balance.
 d. Fine steel wool (No. 000)—for packing retort body.
@@ -43,7 +43,7 @@ h. Attach the condenser. Place the retort assembly into the heating jacket.
 i. Weigh and record the mass of the clean and dry liquid receiver. This is mass (C), grams. Place the receiver below condenser outlet.
 j. Turn on the retort. Allow it to run a minimum of 1 hour.
 Note: If solids boil over into receiver, the test shall be rerun. Pack the retort body with a greater amount of steel wool and repeat the test.
-k. Remove the liquid receiver. Allow it to cool. Record the volume of water recovered. This is (V), cm3.
+k. Remove the liquid receiver. Allow it to cool. Record the volume of water recovered. This is (V), cm 3.
 Note: If an emulsion interface is present between the oil and water phases, heating the interface may break the emulsion. As a suggestion, remove the retort assembly from the heating jacket by grasping the condenser. Carefully heat the receiver along the emulsion band by gently touching the receiver for short intervals with the hot retort assembly. Avoid boiling the liquids. After the emulsion interface is broken, allow the liquid receiver to cool. Read the water volume at the lowest point of the meniscus.
 l. Weigh and record the mass of the receiver and its liquid contents (oil plus water). This is mass (D), grams.
 m. Turn off the retort. Remove the retort assembly and condenser from the heating jacket and allow them to cool. Remove the condenser.
@@ -57,7 +57,7 @@ Mw = B−A [1]
 MD = E−A [2]
 3. Mass of the NAF base fluid (MBF) equals the mass of the liquid receiver with its contents (D) minus the sum of the mass of the dry receiver (C) and the mass of the water (V).
 MBF = D−(C + V) [3]
-Note: Assuming the density of water is 1 g/cm3, the volume of water is equivalent to the mass of the water.
+Note: Assuming the density of water is 1 g/cm 3, the volume of water is equivalent to the mass of the water.
 b. Mass balance requirement:
 The sum of MD, MBF, and V shall be within 5% of the mass of the wet sample.
 (MD + MBF + V)/Mw = 0.95 to 1.05 [4]
@@ -79,8 +79,8 @@ GEST = Estimated mass of all NAF-cuttings discharges into the ocean during the s
 where:
 GEST = Hole Volume (bbl) × (396.9 kg/bbl) × (1 + Z/100)
 Z = The base fluid retained on cuttings limitation or standard (%) which apply to the NAF being discharge (see §§ 435.13. and 435.15).
-Hole Volume (bbl) = [Cross-Section Area of NAF interval (in2)] × Average Rate of Penetration (feet/hr) × period of time (min) used to calculate Fi (see Equation 6 of this appendix) × (1 hr/60 min) × (1 bbl/5.61 ft3) × (1 ft/12 in)2
-Cross-Section Area of NAF interval (in2) = (3.14 × [Bit Diameter (in)]2)/4
+Hole Volume (bbl) = [Cross-Section Area of NAF interval (in 2)] × Average Rate of Penetration (feet/hr) × period of time (min) used to calculate Fi (see Equation 6 of this appendix) × (1 hr/60 min) × (1 bbl/5.61 ft 3) × (1 ft/12 in) 2
+Cross-Section Area of NAF interval (in 2) = (3.14 × [Bit Diameter (in)] 2)/4
 Bit Diameter (in) = Diameter of drilling bit for the NAF interval producing drilling cuttings during the same period of time as used to calculate Fi (see Equation 6 of this appendix)
 Average Rate of Penetration (feet/hr) = Arithmetic average of rate of penetration into the formation during the same period of time as used to calculate Fi (see Equation 6 of this appendix)
 Note: Operators with one NAF-cuttings discharge may set the mass NAF-cuttings discharge fraction (Xi) equal to 1.0.
@@ -92,7 +92,7 @@ Xi = Mass NAF-cuttings discharge fraction for NAF-cuttings, fines, or accumulate
 %BFi = Mass percent NAF base fluid retained on the cuttings for NAF-cuttings, fines, or accumulated solids discharge "i", (unitless as percentage, %)
 Note: ΣXi = 1.
 Operators with one NAF-cuttings discharge may set %BFT,j equal to %BFi.
-6. Operators performing dual gradient drilling operations may require seafloor discharges of large cuttings (>1/4′) to ensure the proper operation of subsea pumps (e.g., electrical submersible pumps). Operators performing dual gradient drilling operations which lead to seafloor discharges of large cuttings for the proper operation of subsea pumps shall either: (a) Measure the mass percent NAF base fluid retained on cuttings value (%BF) and mass NAF-cuttings discharge fraction (X) for seafloor discharges each time a set of retorts is performed; (b) use the following set of default values, (%BF = 14%; X = 0.15); or (c) use a combination of (a) and (b) (e.g., use a default value for %BF and measure X).
+6. Operators performing dual gradient drilling operations may require seafloor discharges of large cuttings (> 1/4′) to ensure the proper operation of subsea pumps (e.g., electrical submersible pumps). Operators performing dual gradient drilling operations which lead to seafloor discharges of large cuttings for the proper operation of subsea pumps shall either: (a) Measure the mass percent NAF base fluid retained on cuttings value (%BF) and mass NAF-cuttings discharge fraction (X) for seafloor discharges each time a set of retorts is performed; (b) use the following set of default values, (%BF = 14%; X = 0.15); or (c) use a combination of (a) and (b) (e.g., use a default value for %BF and measure X).
 Additionally, operators performing dual gradient drilling operations which lead to seafloor discharges of large cuttings for the proper operation of subsea pumps shall also perform the following tasks:
 (a) Use side scan sonar or shallow seismic to determine the presence of high density chemosynthetic communities. Chemosynthetic communities are assemblages of tube worms, clams, mussels, and bacterial mats that occur at natural hydrocarbon seeps or vents, generally in water depths of 500 meters or deeper. Seafloor discharges of large cuttings for the proper operation of subsea pumps shall not be permitted within 1000 feet of a high density chemosynthetic community.
 (b) Seafloor discharges of large cuttings for the proper operation of subsea pumps shall be visually monitored and documented by a Remotely Operated Vehicle (ROV) within the tether limit (approximately 300 feet). The visual monitoring shall be conducted prior to each time the discharge point is relocated (cuttings discharge hose) and conducted along the same direction as the discharge hose position. Near-seabed currents shall be obtained at the time of the visual monitoring.
@@ -116,16 +116,13 @@ FSVD = mass of small volume NAF-cuttings discharges (kg)
 ρsvd = density of the small volume NAF-cuttings discharges (kg/bbl)
 VSVD = volume of the small volume NAF-cuttings discharges (bbl)
 The density of the small volume NAF-cuttings discharges shall be measured. The volume of small volume discharges (VSVD) shall be either: (a) Be measured or (b) use default values of 10 bbl of SBF for each interface loss and 75 bbl of SBM for pit cleanout per well.
-The total mass of NAF-cuttings discharges for the well (GWELL) shall be either: (a) Measured; or (b) calculated by multiplying 1.0 plus the arithmetic average of all total mass percent NAF base fluid retained on cuttings values [see Equation 8 of this appendix] times the total hole volume (VWELL) for all NAF well sections times a default value for the density the formation of 2.5 g/cm3 (396.9 kg/bbl).
-ER08JN01.001
+The total mass of NAF-cuttings discharges for the well (GWELL) shall be either: (a) Measured; or (b) calculated by multiplying 1.0 plus the arithmetic average of all total mass percent NAF base fluid retained on cuttings values [see Equation 8 of this appendix] times the total hole volume (VWELL) for all NAF well sections times a default value for the density the formation of 2.5 g/cm 3 (396.9 kg/bbl).
 where:
 GWELL = total mass of NAF-cuttings discharges for the well (kg)
 [j = 1 to j = n Σ(%BFT,j)]/n = see Equation 8 of this appendix (unitless as a percentage)
 VWELL = total hole volume (VWELL) for all NAF well sections (bbl)
 The total hole volume of NAF well sections (VWELL) will be calculated as:
-ER22JA01.170
 For wells where small volume discharges associated with cuttings are made, %BFWELL becomes:
-ER08JN01.002
 Note: See Addendum A and B to determine the sampling frequency to determine the total number of retort sets required for all NAF well sections.
 8. The total number of retort sets (n) is increased by 1 for each sampling interval (see Section 2.4, Addendum A of this appendix) when all NAF cuttings, fines, or accumulated solids for that sampling interval are retained for no discharge. A zero discharge interval shall be at least 500 feet up to a maximum of three per day. This action has the effect of setting the total mass percent NAF base fluid retained on cuttings value (%BFT) at zero for that NAF sampling interval when all NAF cuttings, fines, or accumulated solids are retained for no discharge.
 9. Operators that elect to use the Best Management Practices (BMPs) for NAF-cuttings shall use the procedures outlined in Addendum B.
@@ -142,7 +139,7 @@ Addendum A to Appendix 7 to Subpart A of Part 435—Sampling of Cuttings Dischar
 2.5 The operator shall measure the individual masses (Fi, kg) and sum total mass (G, kg) (see Equation 6, appendix 7 of subpart A of this part) over a representative period of time (e.g., <10 minutes) during steady-state conditions for each sampling interval (see Section 2.4 of this addendum). The operator shall ensure that all NAF-cuttings are capture for mass analysis during the same sampling time period (e.g., <10 minutes) at approximately the same time (i.e., all individual mass samples collected within one hour of each other).
 2.6 Operators using Best Management Practices (BMPs) to control NAF-cuttings discharges shall follow the procedures in Addendum B to appendix 7 of subpart A of 40 CFR 435.
 3.0 Sample Size and Handling
-3.1 The volume of each sample depends on the volumetric flow rate (cm3/s) of the NAF-cuttings stream and the sampling time period (e.g., <10 minutes). Consequently, different solids control equipment units producing different NAF-cuttings waste streams at different volumetric flow rates will produce different size samples for the same period of time. Operators shall use appropriately sized sample containers for each NAF-cuttings waste stream to ensure no NAF-cuttings are spilled during sample collection. Operators shall use the same time period (e.g., <10 minutes) to collect NAF-cuttings samples from each NAF-cuttings waste stream. Each NAF-cuttings sample size shall be at least one gallon. Operators shall clearly mark each container to identify each NAF-cuttings sample.
+3.1 The volume of each sample depends on the volumetric flow rate (cm 3/s) of the NAF-cuttings stream and the sampling time period (e.g., <10 minutes). Consequently, different solids control equipment units producing different NAF-cuttings waste streams at different volumetric flow rates will produce different size samples for the same period of time. Operators shall use appropriately sized sample containers for each NAF-cuttings waste stream to ensure no NAF-cuttings are spilled during sample collection. Operators shall use the same time period (e.g., <10 minutes) to collect NAF-cuttings samples from each NAF-cuttings waste stream. Each NAF-cuttings sample size shall be at least one gallon. Operators shall clearly mark each container to identify each NAF-cuttings sample.
 3.2 Operators shall not decant, heat, wash, or towel the NAF-cuttings to remove NAF base fluid before mass and retort analysis.
 3.3 Operators shall first calculate the mass of each NAF-cuttings sample and perform the mass ratio analysis (see Equation 6, appendix 7 of subpart A of this part). Operators with only one NAF-cuttings discharge may skip this step (see Section 4.c.4, appendix 7 of subpart A of this part).
 3.4 Operators shall homogenize (e.g., stirring, shaking) each NAF-cuttings sample prior to placing a sub-sample into the retort cup. The bottom of the NAF-cuttings sample container shall be examined to be sure that solids are not sticking to it.
