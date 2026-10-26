@@ -1,5 +1,4 @@
 # Appendix I to Part 1050—DOE Form 3735.2—Foreign Gifts Statement
-EC01OC91.040
 Statement Concerning Gifts Received From a Foreign Government
 Item 1. This statement is to be filed pursuant to the provisions of the Foreign Gifts and Decorations Act (5 U.S.C. 7342, as amended by Pub. L. 95-105, August 17, 1977) and DOE implementing regulations at 10 CFR part 1050. These provisions apply to foreign gifts tendered to or accepted by Federal employees and their spouses and dependents. The name of the employee should always be indicated in item 1; if the employee is the recipient of the gift then items 5 and 6 should be marked N/A-not applicable; if the recipient is a spouse or dependent, then the appropriate information should be included in items 5 and 6.
 Item 2. Self explanatory.
