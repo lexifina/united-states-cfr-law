@@ -37,19 +37,17 @@ Operational period | <168 hours minimum.
 6.2 Procedure for determination of mean values and 95 percent confidence intervals.
 6.2.1 Mean value. The mean value of a data set is calculated according to Equation E-1.
 Equation E-1
-ER01JY80.000
 Where:
-x i = individual values.
+xi = individual values.
 Σ = sum of the individual values.
 x = mean value.
 n = data points.
 6.2.2 95 percent confidence level. The 95 percent confidence level (two sided) is calculated according to Equation E-2.
 Equation E-2
-ER01JY80.001
 Where:
-Σ x i = sum of all data points.
-(Σ x i) = sum of squares of all data points.
-C.I.9 5 = 95 percent confidence interval estimate of the average mean value.
+Σxi = sum of all data points.
+(Σxi) = sum of squares of all data points.
+C.I.95 = 95 percent confidence interval estimate of the average mean value.
 Values for t.975
 n | t.975 | n | t.975 | n | t.975
 2 | 12.706 | 7 | 2.447 | 12 | 2.201
@@ -59,7 +57,7 @@ n | t.975 | n | t.975 | n | t.975
 6 | 2.571 | 11 | 2.228 | 16 | 2.131
 The values in this table are already corrected for n-1 degrees of freedom. Use n equal to the number of samples as data points.
 6.3 Data analysis and reporting.
-6.3.1 Accuracy (relative). First, calculate the mean reference value (Equation E-1) of the 14 average volumetric flow rates calculated by the reference method. Second, from the 14 pairs of average volumetric flow rates calculated by the reference method and measurement system volumetric flow rate readings, calculate the mean value (Equation E-1) of the differences of the 14 paired readings. Calculate the 95 percent confidence interval (Equation E-2) using the differences of fourteen paired readings. To calculate the values in the second part of this section substitute d i for x i and d for x in Equations E-1 and E-2 where d i equals the difference of each paired reading and d equals the mean value of the fourteen paired differences. Third, report the sum of the absolute mean value of the differences of the fourteen paired readings and the 95 percent confidence interval of the differences of value calculated in the first part of the section. Divide this total by the mean reference value and report the result as a percentage. This percentage is the relative accuracy.
+6.3.1 Accuracy (relative). First, calculate the mean reference value (Equation E-1) of the 14 average volumetric flow rates calculated by the reference method. Second, from the 14 pairs of average volumetric flow rates calculated by the reference method and measurement system volumetric flow rate readings, calculate the mean value (Equation E-1) of the differences of the 14 paired readings. Calculate the 95 percent confidence interval (Equation E-2) using the differences of fourteen paired readings. To calculate the values in the second part of this section substitute di for xi and d for x in Equations E-1 and E-2 where di equals the difference of each paired reading and d equals the mean value of the fourteen paired differences. Third, report the sum of the absolute mean value of the differences of the fourteen paired readings and the 95 percent confidence interval of the differences of value calculated in the first part of the section. Divide this total by the mean reference value and report the result as a percentage. This percentage is the relative accuracy.
 6.3.2 Zero drift (24 hour). From the zero values measured each 24 hours during the field test, calculate the differences between successive readings expressed in volumetric flow rate units. Calculate the mean value of these differences and the confidence interval of these differences using Equations E-1 and E-2. Report the sum of the absolute value of the mean difference and the confidence interval as a percentage of the measurement system span. This percentage is the zero drift.
 6.3.3 Calibration drift (24 hour). From the calibration values measured every 24 hours during the field test calculate the differences between: (1) The calibration reading after zero and calibration adjustment, and (2) the calibration reading 24 hours later after zero adjustment but before calibration adjustment. Calculate the mean value of these differences and the confidence interval using Equations E-1 and E-2. Report the sum of the absolute value of the mean difference and confidence interval as a percentage of the measurement system span. This percentage is the calibration drift.
 6.3.4 Operation period. Other than that clearly specified as required in the operation and maintenance manual, the measurement system shall not require any corrective maintenance, repair, replacement or adjustment during the 168-hour performance and operational test period. If the measurement system operates within the specified performance parameters and does not require corrective maintenance, repair, replacement or adjustment other than as specified above during the 168-hour test period, the operational period will be successfully concluded. Failure of the measurement to meet this requirement shall call for a repetition of the 168-hour test period. Portions of the test, except for the 168-hour field test period, which were satisfactorily completed need not be repeated. Failure to meet any performance specifications shall call for a repetition of the one-week performance test period and that portion of the testing which is related to the failed specification. All maintenance and adjustments required shall be recorded. Output readings shall be recorded before and after all adjustments.

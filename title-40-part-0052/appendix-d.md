@@ -47,18 +47,16 @@ The following test procedures shall be used to determine compliance with the req
 6. Calculations, Data Analysis and Reporting.
 6.1 Procedure for determination of mean values and confidence intervals.
 6.1.1 The mean value of a data set is calculated according to equation D-1.
-ER08MY98.000
 Where:
-x i = individual values.
+xi = individual values.
 Σ = sum of the individual values.
 x = mean value.
 n = number of data points.
 6.1.2 The 95 percent confidence interval (two-sided) is calculated according to equation D-2.
-ER08MY98.001
 Where:
-Σ x i = sum of all data points.
+Σxi = sum of all data points.
 t.975 = t1-a/2, and
-C.I.9 5 = 95 percent confidence interval estimated of the average mean value.
+C.I.95 = 95 percent confidence interval estimated of the average mean value.
 Typical Values for t1−a/2
 n | t.975 | n | t.975 | n | t.975
 2 | 12.706 | 7 | 2.447 | 12 | 2.201
@@ -75,7 +73,7 @@ If the bases are not consistent, apply a moisture correction to either the refer
 6.2.4 Zero Drift (24-hour). Using the zero concentration values measured every 24 hours during the field test, calculate the differences between the zero point after zero adjustment and the zero value 24 hours later just prior to zero adjustment. Calculate the mean value of these points and the confidence interval using Equations D-1 and D-2. Report the zero drift as the sum of the absolute mean and confidence interval as a percentage of the emission standard. Use example sheet shown in Figure D-5.
 6.2.5 Calibration Drift (2-hour). Using the calibration values obtained at two-hour intervals during the field test, calculate the differences between consecutive two-hour readings expressed as ppm. These values should be corrected for the corresponding zero drift during that two-hour period. Calculate the mean and confidence interval of these corrected difference values using Equations D-1 and D-2. Do not use the differences between non-consecutive readings. Report the calibration drift as the sum of the absolute mean and confidence interval as a percentage of the emission standard. Use the example sheet shown in Figure D-4.
 6.2.6 Calibration Drift (24-hour). Using the calibration values measured every 24 hours during the field test, calculate the differences between the calibration concentration reading after zero and calibration adjustment and the calibration concentration reading 24 hours later after zero adjustment but before calibration adjustment. Calculate the mean value of these differences and the confidence interval using equations D-1 and D-2. Report the sum of the absolute mean and confidence interval as a percentage of the emission standard. Use the example sheet shown in Figure D-5.
-6.2.7 Response Time. Using the charts from section 5.3 of this Appendix, calculate the time interval from concentration switching to 95 percent to the final stable value for all upscale and downscale tests. Report the mean of the three upscale test times and the mean of the three downscale test times. For nonextractive instruments using a calibration gas cell to determine response time, the observed times shall be extrapolated to 90 percent of full scale response time. For example, if the observed time for a 20 percent of span gas cell is one minute, this would be equivalent to a 41/2-minute response time when extrapolated to 90 percent of span. The two average times should not differ by more than 15 percent of the slower time. Report the slower time as the system response time. Use the example sheet shown in Figure D-6.
+6.2.7 Response Time. Using the charts from section 5.3 of this Appendix, calculate the time interval from concentration switching to 95 percent to the final stable value for all upscale and downscale tests. Report the mean of the three upscale test times and the mean of the three downscale test times. For nonextractive instruments using a calibration gas cell to determine response time, the observed times shall be extrapolated to 90 percent of full scale response time. For example, if the observed time for a 20 percent of span gas cell is one minute, this would be equivalent to a 4 1/2-minute response time when extrapolated to 90 percent of span. The two average times should not differ by more than 15 percent of the slower time. Report the slower time as the system response time. Use the example sheet shown in Figure D-6.
 6.2.8 Operational Period. During the 168-hour performance and operational test period, the measurement system shall not require any corrective maintenance, repair, replacement, or adjustment other than that clearly specified as required in the operation and maintenance manuals as routine and expected during a one-week period. If the measurement system operates within the specified performance parameters and does not require corrective maintenance, repair, replacement or adjustment other than specified above, during the 168-hour test period, the operational period will be successfully concluded. Failure of the measurement to meet this requirement shall call for a repetition of the 168-hour test period. Portions of the test which were satisfactorily completed need not be repeated. Failure to meet any performance specifications shall call for a repetition of the one-week performance test period and that portion of the testing which is related to the failed specification. All maintenance and adjustments required shall be recorded. Output readings shall be recorded before and after all adjustments.
 6.2.9 Performance Specifications Testing Frequency. In the event that significant repair work is performed in the system, the company shall demonstrate to the Administrator that the system still meets the performance specifications listed in Table I of this appendix. The Administrator may require a performance test at any time he determines that such test is necessary to verify the performance of the measurement system.
 7. References.
@@ -83,8 +81,7 @@ If the bases are not consistent, apply a moisture correction to either the refer
 7.2 Instrumentation for the Determination of Nitrogen Oxides Content of Stationary Source Emissions, Environmental Protection Agency, Research Triangle Park, N.C., APTD 0847, Vol. I, October 1971; APTD 0942, Vol. II, January 1972.
 7.3 Experimental Statistics, Department of Commerce, Handbook 91, 1963, p. 3-31, paragraphs 3-3.1.4.
 7.4 Performance Specifications for Stationary-Source Monitoring Systems for Gases, and Visible Emissions, Environmental Protection Agency, Research Triangle Park, N.C., EPA-650/2-74-013, January 1974.
-Figure D-1—Analysis of Calibration Gas Mixtures
-Date_____ Reference Method Used_____
+Figure D-1—Analysis of Calibration Gas Mixtures Date __________ Reference Method Used __________
 Mid Range Calibration Gas Mixture
 Sample 1 | ppm
 Sample 2 | ppm
@@ -95,87 +92,84 @@ Sample 1 | ppm
 Sample 2 | ppm
 Sample 3 | ppm
 Average | ppm
-Figure D-2—Calibration Error Determination
-Calibration gas mixture data (from fig. D-1): Mid (50 percent) average __ p/m, high (90 percent) average __ p/m
-[See footnotes at end of table]
+Figure D-2—Calibration Error Determination Calibration gas mixture data (from fig. D-1): Mid (50 percent) average ____ p/m, high (90 percent) average ____ p/m
 Run No. | Calibration gas concentration 1 | Measurement system reading, p/m | Differences, p/m 2
-1
-2
-3
-4
-5
-6
-7
-8
-9
-1
-11
-12
-13
-14
-15
-| Percent of full scale reading | 50% mid | 90% high
-Mean difference
+1 | | |
+2 | | |
+3 | | |
+4 | | |
+5 | | |
+6 | | |
+7 | | |
+8 | | |
+9 | | |
+1 | | |
+11 | | |
+12 | | |
+13 | | |
+14 | | |
+15 | | |
+| Percent of full scale reading
+50% mid | 90% high
+Mean difference | |
 Confidence interval | ±.............. | ±..............
 Calibration error = Mean difference 3 + C.I. / Average calibration gas concentration × 100 | %.............. | %..............
-1 Mid or high.
-2 Calibration gas concentration—measurement system reading.
-3 Absolute value.
+1 Mid or high. 2 Calibration gas concentration—measurement system reading. 3 Absolute value.
 Figure D-3—Accuracy
 Date and time | Test No. | Reference method samples | Analyzer 1-hour average 1 (p/m) | Difference 2 (p/m)
-1
-2
-3
-4
-5
-6
-7
-8
-9
-Mean difference= _____p/m.
-95 percent confidence interval= + _____p/m.
-Mean Reference method value= _____p/m.
-Accuracy = Mean difference (absolute value) + 95 percent confidence interval/Mean reference method value × 100___percent
-1 Explain method used to determine average.
-2 Difference = the 1-h average minus the reference method average.
+1 | | | |
+2 | | | |
+3 | | | |
+4 | | | |
+5 | | | |
+6 | | | |
+7 | | | |
+8 | | | |
+9 | | | |
+Mean difference= __________p/m.
+95 percent confidence interval= + __________p/m.
+Mean Reference method value= __________p/m.
+Accuracy = Mean difference (absolute value) + 95 percent confidence interval/Mean reference method value × 100______percent
+1 Explain method used to determine average. 2 Difference = the 1-h average minus the reference method average.
 Figure D-4—Zero and Calibration Drift (2 h)
-Date | Time | Begin | End | Date set No. | Zero reading | Zero drift (Δ zero) | Span reading | (Δ span) | Calibration drift (Δ span-Δ zero)
-| | | 1
-| | | 2
-| | | 3
-| | | 4
-| | | 5
-| | | 6
-| | | 7
-| | | 8
-| | | 9
-| | | 10
-| | | 11
-| | | 12
-| | | 13
-| | | 14
-| | | 15
-Zero drift=[mean zero drift 1___ + CI (zero) ___ ÷ emission standard] × 100= ___.
-Calibration drift=[mean span drift 1 ___ CI + CI (span) ___ ÷ emission standard] × 100= ___.
+Date | Time | Date set No. | Zero reading | Zero drift (Δ zero) | Span reading | (Δ span) | Calibration drift (Δ span-Δ zero)
+Begin | End
+| | | 1 | | | | |
+| | | 2 | | | | |
+| | | 3 | | | | |
+| | | 4 | | | | |
+| | | 5 | | | | |
+| | | 6 | | | | |
+| | | 7 | | | | |
+| | | 8 | | | | |
+| | | 9 | | | | |
+| | | 10 | | | | |
+| | | 11 | | | | |
+| | | 12 | | | | |
+| | | 13 | | | | |
+| | | 14 | | | | |
+| | | 15 | | | | |
+Zero drift=[mean zero drift 1______ + CI (zero) ______ ÷ emission standard] × 100= ______.
+Calibration drift=[mean span drift 1 ______ CI + CI (span) ______ ÷ emission standard] × 100= ______.
 1 Absolute value.
 Figure D-5—Zero and Calibration Drift (24 hr)
 Date and time | Zero reading | Zero drift (Δ zero) | Span reading (after zero adjustment) | Calibration drift (Δ span)
-Zero drift=[mean zero drift 1___ + CI (zero) ___ ÷ emission standard] × 100= ___.
-Calibration drift=[mean span drift 1___ + CI (span) ___ ÷ emission standard] × 100= ___.
+Zero drift=[mean zero drift 1______ + CI (zero) ______ ÷ emission standard] × 100= ______.
+Calibration drift=[mean span drift 1______ + CI (span) ______ ÷ emission standard] × 100= ______.
 1 Absolute value.
 Figure D-6—Response Time
-Date of Test ____.
-Span Gas Concentration ____ ppm.
-Analyzer Span Setting ____ ppm.
+Date of Test ________.
+Span Gas Concentration ________ ppm.
+Analyzer Span Setting ________ ppm.
 Upscale:
-1 ____ seconds.
-2 ____ seconds.
-3 ____ seconds.
-Average upscale response ____ seconds.
+1 ________ seconds.
+2 ________ seconds.
+3 ________ seconds.
+Average upscale response ________ seconds.
 Downscale:
-1 ____ seconds.
-2 ____ seconds.
-3 ____ seconds.
-Average downscale response ____ seconds.
-System response time = slower time __ seconds.
+1 ________ seconds.
+2 ________ seconds.
+3 ________ seconds.
+Average downscale response ________ seconds.
+System response time = slower time ____ seconds.
 Percent deviation from slowest time = average upscale − average downscale × 100% / slower time

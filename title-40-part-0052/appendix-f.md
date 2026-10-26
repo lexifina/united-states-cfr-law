@@ -10,9 +10,3 @@ New York | Fossil fuel-fired boilers or indirect heat exchangers with a maximum 
 Pennsylvania | Fossil fuel-fired indirect heat exchange combustion units with a maximum rated heat input capacity of 250 mmBtu/hr or greater, and fossil fuel-fired electric generating facilities rated at 15 MW or greater.
 Rhode Island | Electricity generating plants.
 Vermont | Fossil fuel-fired electric utility generating facilities with a maximum gross heat input rate of 250 mmBtu/hr or greater and potentially other unidentified major sources.
-ER25MY99.000
-ER25MY99.001
-ER25MY99.002
-ER25MY99.003
-ER25MY99.004
-ER03JN04.018
