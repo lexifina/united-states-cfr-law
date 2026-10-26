@@ -369,14 +369,12 @@ SECTION 6. REGIONAL VALUE CONTENT
 (1) Except as otherwise provided in subsection (6), the regional value content of a good shall be calculated, at the choice of the exporter or producer of the good, on the basis of either the transaction value method or the net cost method.
 Transaction Value Method
 (2) The transaction value method for calculating the regional value content of a good is as follows:
-ER06SE95.000
 where
 RVC is the regional value content of the good, expressed as a percentage;
 TV is the transaction value of the good, determined in accordance with Schedule II with respect to the transaction in which the producer of the good sold the good, adjusted to an F.O.B. basis; and
 VNM is the value of non-originating materials used by the producer in the production of the good, determined in accordance with section 7.
 Net Cost Method
 (3) The net cost method for calculating the regional value content of a good is as follows:
-ER06SE95.001
 where
 RVC is the regional value content of the good, expressed as a percentage;
 NC is the net cost of the good, calculated in accordance with subsection (11); and
@@ -454,14 +452,14 @@ A producer has only one factory, located near the center of one of the NAFTA cou
 Example 4: section 6(3), net cost method
 A producer located in NAFTA country A sells Good A that is subject to a regional value-content requirement to a buyer located in NAFTA country B. The producer of Good A chooses that the regional value content of that good be calculated using the net cost method. All applicable requirements of this appendix, other than the regional value-content requirement, have been met. The applicable regional value-content requirement is 50 percent.
 In order to calculate the regional value-content of Good A, the producer first calculates the net cost of Good A. Under section 6(11)(a), the net cost is the total cost of Good A (the aggregate of the product costs, period costs and other costs) per unit, minus the excluded costs (the aggregate of the sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs and non-allowable interest costs) per unit. The producer uses the following figures to calculate the net cost:
-Product costs:
+Product costs: |
 Value of originating materials | $30.00
 Value of non-originating materials | 40.00
 Other product costs | 20.00
 Period costs | 10.00
 Other costs | 0.00
 Total cost of Good A, per unit | $100.00
-Excluded costs:
+Excluded costs: |
 Sales promotion, marketing and after-sales service cost | $5.00
 Royalties | 2.50
 Shipping and packing costs | 3.00
@@ -472,7 +470,6 @@ Total cost of Good A, per unit: | $100.00
 Excluded costs | −12.00
 Net cost of Good A, per unit | $88.00
 The value for net cost ($88) and the value of non-originating materials ($40) are needed in order to calculate the regional value content. The producer calculates the regional value content of Good A under the net cost method in the following manner:
-ER06SE95.002
 Therefore, under the net cost method, Good A qualifies as an originating good, with a regional value-content of 54.5 percent.
 Example 5: section 6(6)(c), net cost method required for certain sales to related persons
 On January 15, 1994, a producer located in NAFTA country A sells 1,000 units of Good A to a related person, located in NAFTA country B. During the six month period beginning on July 1, 1993 and ending on December 31, 1993, the producer sold 90,000 units of identical goods and similar goods to related persons from various countries, including that buyer. The producer's total sales of those identical goods and similar goods to all persons from all countries during that six month period were 100,000 units.
@@ -480,21 +477,21 @@ The total quantity of identical goods and similar goods sold by the producer to 
 Example 6: section 6(11)(a)
 A producer in a NAFTA country produces Good A and Good B during the producer's fiscal year.
 The producer uses the following figures, which are recorded on the producer's books and represent all of the costs incurred with respect to both Good A and Good B, to calculate the net cost of those goods:
-Product costs:
+Product costs: |
 Value of originating materials | $2,000
 Value of non-originating materials | 1,000
 Other product costs | 2,400
 Period costs: (including $1,200 in excluded costs) | 3,200
 Other costs | 400
 Total cost of Good A and Good B | $9,000
-The net cost is the total cost of Good A and Good B, minus the excluded costs incurred with respect to those goods.
+The net cost is the total cost of Good A and Good B, minus the excluded costs incurred with respect to those goods. |
 Total cost of Good A and Good B | $9,000
 Excluded costs | −1,200
 Net cost of Good A and Good B | $7,800
 The net cost must then be reasonably allocated, in accordance with Schedule VII, to Good A and Good B.
 Example 7: section 6(11)(b)
 A producer located in a NAFTA country produces Good A and Good B during the producer's fiscal year. In order to calculate the regional value content of Good A and Good B, the producer uses the following figures that are recorded on the producer's books and incurred with respect to those goods:
-Product costs:
+Product costs: |
 Value of originating materials | $2,000
 Value of non-originating materials | 1,000
 Other product costs | 2,400
@@ -506,7 +503,7 @@ Under section 6(11)(b), the total cost of Good A and Good B is then reasonably a
 Total cost ($9,000 for both Good A and Good B) | $5,220 | $3,780
 The excluded costs ($1,200) that are included in total cost allocated to Good A and Good B, in accordance with Schedule VII, are subtracted from that amount.
 | | Excluded Cost Allocated to Good A | Excluded Cost Allocated to Good B
-Total excluded costs:
+Total excluded costs: | | |
 Sales promotion, marketing and after-sale service costs | 500 | 290 | 210
 Royalties | 200 | 116 | 84
 Shipping and packing costs | 500 | 290 | 210
@@ -515,7 +512,7 @@ The net cost of Good A is thus $4,524, and the net cost of Good B is $3,276.
 Example 8: section 6(11)(c)
 A Producer located in a NAFTA country produces Good C and Good D. The following costs are recorded on the producer's books for the months of January, February and March, and each cost that forms part of the total cost are reasonably allocated, in accordance with Schedule VII, to Good C and Good D.
 | Total cost: Good C and Good D (in thousands of dollars) | Allocated to Good C (in thousands of dollars) | Allocated to Good D (in thousands of dollars)
-Product costs:
+Product costs: | | |
 Value of originating materials | 100 | 0 | 100
 Value of non-originating materials | 900 | 800 | 100
 Other product costs | 500 | 300 | 200
@@ -607,7 +604,7 @@ Under section 4(1) of Schedule VIII, the price actually paid or payable is the t
 The customs value of material A was not determined in a manner consistent with Schedule VIII because it was based on the price actually paid or payable by the middleman to the manufacturer, rather than on the price actually paid or payable by Producer A to the middleman. Thus, section 7(2) applies and material A is valued in accordance with Schedule VIII.
 Example 2: section 7(5), Value of Intermediate Materials
 A producer located in a NAFTA country produces Good B, which is subject to a regional value-content requirement under section 4(2)(b). The producer also produces Material A, which is used in the production of Good B. Both originating materials and non-originating materials are used in the production of Material A. Material A is subject to a change in tariff classification requirement under section 4(2)(a). The costs to produce Material A are the following:
-Product costs:
+Product costs: |
 Value of originating materials | $1.00
 Value of non-originating materials | 7.50
 Other product costs | 1.50
@@ -615,8 +612,8 @@ Period costs (including $0.30 in royalties) | 0.50
 Other costs | 0.10
 Total cost of Material A | $10.60
 The producer designates Material A as an intermediate material and determines that, because all of the non-originating materials that are used in the production of Material A undergo an applicable change in tariff classification set out in Schedule I, Material A would, under paragraph 4(2)(a) qualify as an originating material. The cost of the non-originating materials used in the production of Material A is therefore not included in the value of non-originating materials that are used in the production of Good B for the purpose of determining the regional value content of Good B. Because Material A has been designated as an intermediate material, the total cost of Material A, which is $10.60, is treated as the cost of originating materials for the purpose of calculating the regional value content of Good B. The total cost of Good B is determined in accordance with the following figures:
-Product costs:
-Value of originating materials
+Product costs: |
+Value of originating materials |
 —intermediate materials | $10.60
 —other materials | 3.00
 Value of non-originating materials | 5.50
@@ -628,7 +625,7 @@ Example 3: section 7(5), Effects of the Designation of Self-produced Materials o
 The ability to designate intermediate materials helps to put the vertically integrated producer who is self-producing materials that are used in the production of a good on par with a producer who is purchasing materials and valuing those materials in accordance with subsection 7(1). The following situations demonstrate how this is achieved:
 Situation 1
 A producer located in a NAFTA country produces Good B, which is subject to a regional value-content requirement of 50 percent under the net cost method. Good B satisfies all other applicable requirements of these Regulations. The producer purchases Material A, which is used in the production of Good B, from a supplier located in a NAFTA country. The value of Material A determined in accordance with subsection 7(1) is $11.00. Material A is an originating material. All other materials used in the production of Good B are non-originating materials. The net cost of Good B is determined as follows:
-Product costs:
+Product costs: |
 Value of originating materials (Material A) | $11.00
 Value of non-originating materials | 5.50
 Other product costs | 6.50
@@ -638,11 +635,10 @@ Total cost of Good B | $23.60
 Excluded costs: (included in period costs) | −0.20
 Net cost of Good B | $23.40
 The regional value content of Good B is calculated as follows:
-ER06SE95.003
 The regional value content of Good B is 76.5 percent, and Good B, therefore, qualifies as an originating good.
 Situation 2
 A producer located in a NAFTA country produces Good B, which is subject to a regional value-content requirement of 50 percent under the net cost method. Good B satisfies all other applicable requirements of these Regulations. The producer self-produces Material A which is used in the production of Good B. The costs to produce Material A are the following:
-Product costs:
+Product costs: |
 Value of originating materials | $1.00
 Value of non-originating materials | 7.50
 Other product costs | 1.50
@@ -650,7 +646,7 @@ Period costs: (including $0.20 in excluded costs) | 0.50
 Other costs | 0.10
 Total cost of Material A | $10.60
 Additional costs to produce Good B are the following:
-Product costs:
+Product costs: |
 Value of originating materials | $0.00
 Value of non-originating materials | 5.50
 Other product costs | 6.50
@@ -659,7 +655,7 @@ Other costs | 0.10
 Total additional costs | $12.60
 The producer does not designate Material A as an intermediate material under subsection 7(4). The net cost of Good B is calculated as follows:
 | Costs of Material A (not designated as an intermediate material) | Additional Costs to Produce Good B | Total
-Product costs:
+Product costs: | | |
 Value of originating materials | $1.00 | $0.00 | $1.00
 Value of non-originating materials | 7.50 | 5.50 | 13.00
 Other product costs | 1.50 | 6.50 | 8.00
@@ -669,11 +665,10 @@ Total cost of Good B | $10.60 | $12.60 | $23.20
 Excluded costs (in period costs) | 0.20 | 0.20 | −0.40
 Net cost of Good B (total cost minus excluded costs) | | | $22.80
 The regional value content of Good B is calculated as follows:
-ER06SE95.004
 The regional value content of Good B is 42.9 percent, and Good B, therefore, does not qualify as an originating good.
 Situation 3
 A producer located in a NAFTA country produces Good B, which is subject to a regional value-content requirement of 50 percent under the net cost method. Good B satisfies all other applicable requirements of these Regulations. The producer self-produces Material A, which is used in the production of Good B. The costs to produce Material A are the following:
-Product costs:
+Product costs: |
 Value of originating materials | $1.00
 Value of non-originating materials | 7.50
 Other product costs | 1.50
@@ -681,7 +676,7 @@ Period costs: (including $0.20 in excluded costs) | 0.50
 Other costs | 0.10
 Total cost of Material A | $10.60
 Additional costs to produce Good B are the following:
-Product costs:
+Product costs: |
 Value of originating materials | $0.00
 Value of non-originating materials | 5.50
 Other product costs | 6.50
@@ -690,7 +685,7 @@ Other costs | 0.10
 Total additional costs | $12.60
 The producer designates Material A as an intermediate material under subsection 7(4). Material A qualifies as an originating material under paragraph 4(2)(a). Therefore, the value of non-originating materials used in the production of Material A is not included in the value of non-originating materials for the purposes of calculating the regional value content of Good B. The net cost of Good B is calculated as follows:
 | Costs of Material A (designated as an intermediate material) | Additional Costs to Produce Good B | Total
-Product costs:
+Product costs: | | |
 Value of originating materials | $10.60 | $0.00 | $10.60
 Value of non-originating materials | | 5.50 | 5.50
 Other product costs | | 6.50 | 6.50
@@ -700,7 +695,6 @@ Total cost of Good B | $10.60 | $12.60 | $23.20
 Excluded costs (in period costs) | | .20 | −0.20
 Net cost of Good B (total cost minus excluded costs) | | | $23.00
 The regional value content of Good B is calculated as follows:
-ER06SE95.005
 The regional value content of Good B is 76.1 percent, and Good B, therefore, qualifies as an originating good.
 Example 4: Originating Materials Acquired from a Producer Who Produced Them Using Intermediate Materials
 Producer A, located in NAFTA country A, produces switches. In order for the switches to qualify as originating goods, Producer A designates subassemblies of the switches as intermediate materials. The subassemblies are subject to a regional value-content requirement. They satisfy that requirement, and qualify as originating materials. The switches are also subject to a regional value-content requirement, and, with the subassemblies designated as intermediate materials, are determined to have a regional value content of 65 percent.
@@ -1262,7 +1256,7 @@ Examples of accumulation of production
 (6) Each of the following examples is an "Example" as referred to in section 2(4).
 Example 1: section 14(1)
 Producer A, located in NAFTA country A, imports unfinished bearing rings provided for in subheading 8482.99 into NAFTA country A from a non-NAFTA territory. Producer A further processes the unfinished bearing rings into finished bearing rings, which are of the same subheading. The finished bearing rings of Producer A do not satisfy an applicable change in tariff classification and therefore do not qualify as originating goods. The net cost of the finished bearing rings (per unit) is calculated as follows:
-Product costs:
+Product costs: |
 Value of originating materials | $0.15
 Value of non-originating materials | 0.75
 Other product costs | 0.35
@@ -1274,7 +1268,7 @@ Net cost of the finished bearing rings, per unit | $1.40
 Producer A sells the finished bearing rings to Producer B who is located in NAFTA country A for $1.50 each. Producer B further processes them into bearings, and intends to export the bearings to NAFTA country B. Although the bearings satisfy the applicable change in tariff classification, the bearings are subject to a regional value-content requirement.
 Situation A:
 Producer B does not choose to accumulate costs incurred by Producer A with respect to the bearing rings used in the production of the bearings. The net cost of the bearings (per unit) is calculated as follows:
-Product costs:
+Product costs: |
 Value of originating materials | $0.45
 Value of non-originating materials (value, per unit, of the bearing rings purchased from Producer A) | 1.50
 Other product costs | 0.75
@@ -1284,11 +1278,10 @@ Total cost of the bearings, per unit | $2.90
 Excluded costs: (included in period costs) | 0.05
 Net cost of the bearings, per unit | $2.85
 Under the net cost method, the regional value content of the bearings is
-ER06SE95.006
 Therefore, the bearings are non-originating goods.
 Situation B:
 Producer B chooses to accumulate costs incurred by Producer A with respect to the bearing rings used in the production of the bearings. Producer A provides a statement described in section 14(2)(a) to Producer B. The net cost of the bearings (per unit) is calculated as follows:
-Product costs:
+Product costs: |
 Value of originating materials ($0.45 + $0.15) | $0.60
 Value of non-originating materials (value, per unit, of the unfinished bearing rings imported by Producer A) | 0.75
 Other product costs ($0.75 + $0.35) | 1.10
@@ -1298,11 +1291,10 @@ Total cost of the bearings, per unit | $2.85
 Excluded costs: (included in period costs) | 0.10
 Net cost of the bearings, per unit | $2.75
 Under the net cost method, the regional value content of the bearings is
-ER06SE95.007
 Therefore, the bearings are originating goods.
 Situation C:
 Producer B chooses to accumulate costs incurred by Producer A with respect to the bearing rings used in the production of the bearings. Producer A provides to Producer B a statement described in section 14(2)(b) that specifies an amount equal to the net cost minus the value of non-originating materials used to produce the finished bearing rings ($1.40−$0.75 = $0.65). The net cost of the bearings (per unit) is calculated as follows:
-Product costs:
+Product costs: |
 Value of originating materials ($0.45 + $0.65) | $1.10
 Value of non-originating materials ($1.50−$0.65) | 0.85
 Other product costs | 0.75
@@ -1312,11 +1304,10 @@ Total cost of the bearings, per unit | $2.90
 Excluded costs: (included in period costs) | 0.05
 Net cost of the bearings, per unit | $2.85
 Under the net cost method, the regional value content of the bearings is
-ER06SE95.008
 Therefore, the bearings are originating goods.
 Situation D:
 Producer B chooses to accumulate costs incurred by Producer A with respect to the bearing rings used in the production of the bearings. Producer A provides to Producer B a statement described in section 14(2)(b) that specifies an amount equal to the value of other product costs used in the production of the finished bearing rings ($0.35). The net cost of the bearings (per unit) is calculated as follows:
-Product costs:
+Product costs: |
 Value of originating materials | $0.45
 Value of non-originating materials ($1.50−$0.35) | 1.15
 Other product costs ($0.75 + $0.35) | 1.10
@@ -1326,7 +1317,6 @@ Total cost of the bearings, per unit | $2.90
 Excluded costs: (included in period costs) | 0.05
 Net cost of the bearings, per unit | $2.85
 Under the net cost method, the regional value content of the bearings is
-ER06SE95.009
 Therefore, the bearings are originating goods.
 Example 2: section 14(1)
 Producer A, located in NAFTA country A, imports non-originating cotton, carded or combed, provided for in heading 5203 for use in the production of cotton yarn provided for in heading 5205. Because the change from cotton, carded or combed, to cotton yarn is a change within the same chapter, the cotton does not satisfy the applicable change in tariff classification for heading 5205, which is a change from any other chapter, with certain exceptions. Therefore, the cotton yarn that Producer A produces from non-originating cotton is a non-originating good.
@@ -1644,7 +1634,6 @@ COST RATIO METHOD
 Calculation of Cost Ratio
 For the overhead to be allocated, the producer may choose one or more allocation bases that reflect a relationship between the overhead and the good based on the criterion of benefit, cause or ability to bear.
 With respect to each allocation base that is chosen by the producer for allocating overhead, a cost ratio is calculated for each good produced by the producer in accordance with the following formula:
-ER06SE95.010
 where
 CR is the cost ratio with respect to the good;
 AB is the allocation base for the good; and
@@ -1724,7 +1713,6 @@ ADDENDUM B
 DIRECT LABOR AND DIRECT MATERIAL RATIO METHOD
 Calculation of Direct Labor and Direct Material Ratio
 For each good produced by the producer, a direct labor and direct material ratio is calculated in accordance with the following formula:
-ER06SE95.011
 where
 DLDMR is the direct labor and direct material ratio for the good;
 DLC is the direct labor costs of the good;
@@ -1771,7 +1759,6 @@ Indirect Overhead
 Indirect overhead is allocated on the basis of a direct cost ratio.
 Calculation of Direct Cost Ratio
 For each good produced by the producer, a direct cost ratio is calculated in accordance with the following formula:
-ER06SE95.012
 where
 DCR is the direct cost ratio for the good;
 DLC is the direct labor costs of the good;
@@ -1998,15 +1985,16 @@ The following "examples" are based on the figures set out in the table below and
 (b) one unit of Materials A is used to produce one unit of Good A;
 (c) all other materials used in the production of Good A are originating materials; and
 (d) Good A is produced in a single plant.
-Date (M/D/Y) | Materials inventory (Receipts of materials A) | Quantity (units) | Unit cost * | Sales (Shipments of good A) | Quantity (units)
-01/01/94 | 200 | $1.05
-01/03/94 | 1,000 | 1.00
-01/05/94 | 1,000 | 1.10
+Date (M/D/Y) | Materials inventory (Receipts of materials A) | Sales (Shipments of good A)
+Quantity (units) | Unit cost * | Quantity (units)
+01/01/94 | 200 | $1.05 |
+01/03/94 | 1,000 | 1.00 |
+01/05/94 | 1,000 | 1.10 |
 01/08/94 | | | 500
 01/09/94 | | | 500
-01/10/94 | 1,000 | 1.05
+01/10/94 | 1,000 | 1.05 |
 01/14/94 | | | 1,500
-01/16/94 | 2,000 | 1.10
+01/16/94 | 2,000 | 1.10 |
 01/18/94 | | | 1,500
 * Unit cost is determined in accordance with section 7 of this appendix.
 Example 1: FIFO method
@@ -2023,7 +2011,8 @@ By applying the LIFO method:
 (4) 1,500 units of the 2,000 units of Materials A received on 01/16/94 and valued at $1.10 per unit are considered to have been used in the production of the 1,500 units of Good A shipped on 01/18/94; therefore, the value of non-originating materials used in the production of those goods is considered to be $1,650 (1,500 units × $1.10).
 Example 3: Rolling average method
 The following table identifies the average value of non-originating Materials A as determined under the rolling average method. For purposes of this example, a new average value of non-originating Materials A is calculated after each receipt.
-Materials inventory | | Date (M/D/Y) | Quantity (units) | Unit cost* | Total value
+Materials inventory
+| Date (M/D/Y) | Quantity (units) | Unit cost* | Total value
 Beginning Inventory | 1/1/94 | 200 | $1.05 | $210
 Receipt | 1/3/94 | 1,000 | 1.00 | 1,000
 AVERAGE VALUE | | 1,200 | 1.008 | 1,210
@@ -2155,22 +2144,20 @@ The following "examples" are based on the figures set out in the table below and
 (c) Material A is only used in the production of Good A;
 (d) all other materials used in the production of Good A are originating materials; and
 (e) the producer of Good A exports all shipments of Good A to the territory of a NAFTA country.
-Date (M/D/Y) | Materials inventory (Receipts of material A) | Quantity (units) | Unit cost * | Total value | Sales (Shipments of good A) | Quantity (units)
-12/18/93 | 100 (O 1) | $1.00 | $100
-12/27/93 | 100 (N 2) | 1.10 | 110
-01/01/94 | 200 (OI 3)
-01/01/94 | 1,000 (O) | 1.00 | 1,000
-01/05/94 | 1,000 (N) | 1.10 | 1,100
+Date (M/D/Y) | Materials inventory (Receipts of material A) | Sales (Shipments of good A)
+Quantity (units) | Unit cost * | Total value | Quantity (units)
+12/18/93 | 100 (O 1) | $1.00 | $100 |
+12/27/93 | 100 (N 2) | 1.10 | 110 |
+01/01/94 | 200 (OI 3) | | |
+01/01/94 | 1,000 (O) | 1.00 | 1,000 |
+01/05/94 | 1,000 (N) | 1.10 | 1,100 |
 01/10/94 | | | | 100
-01/10/94 | 1,000 (O) | 1.05 | 1,050
+01/10/94 | 1,000 (O) | 1.05 | 1,050 |
 01/15/94 | | | | 700
-01/16/94 | 2,000 (N) | 1.10 | 2,200
+01/16/94 | 2,000 (N) | 1.10 | 2,200 |
 01/20/94 | | | | 1,000
 01/23/94 | | | | 900
-* Unit cost is determined in accordance with section 7 of this appendix.
-1 "O" denotes originating materials.
-2 "N" denotes non-originating materials.
-3 "OI" denotes opening inventory.
+* Unit cost is determined in accordance with section 7 of this appendix. 1 "O" denotes originating materials. 2 "N" denotes non-originating materials. 3 "OI" denotes opening inventory.
 Example 1: FIFO method
 Good A is subject to a regional value-content requirement. Producer A is using the transaction value method to determine the regional value content of Good A.
 By applying the FIFO method:
@@ -2187,27 +2174,26 @@ By applying the LIFO method:
 (4) 900 units of the remaining 1,000 units of non-originating Material A that were received in materials inventory on 01/16/94 are considered to have been used in the production of the 900 units of Good A shipped on 01/23/94.
 Example 3: Average method
 Good A is subject to an applicable regional value-content requirement. Producer A is using the transaction value method to determine the regional value content of Good A. Producer A determines the average value of non-originating Material A and the ratio of originating Material A to total value of originating Material A and non-originating Material A in the following table.
-| Date (M/D/Y) | Materials inventory | (Receipts of material A) | Quantity (units) | Total value | Unit cost * | (Non-originating material) | Quantity (units) | Total value | Ratio | Sales (Shipments of good A) | Quantity (units)
-Receipt | 12/18/93 | 100 (O 1) | $100 | $1.00
-Receipt | 12/27/93 | 100 (N 2) | 110 | 1.10 | 100 | $110.00
-NEW AVERAGE INV. VALUE | | 200 (OI 3) | 210 | 1.05 | 100 | 105.00 | 0.50
-Receipt | 01/01/94 | 1,000 (O) | 1,000 | 1.00
-NEW AVERAGE INV. VALUE | | 1,200 | 1,210 | 1.01 | 100 | 101.00 | 0.08
-Receipt | 01/05/94 | 1,000 (N) | 1,100 | 1.10 | 1,000 | 1,100.00
-NEW AVERAGE INV. VALUE | | 2,200 | 2,310 | 1.05 | 1,100 | 1,155.00 | 0.50
+| Date (M/D/Y) | Materials inventory | Sales (Shipments of good A)
+(Receipts of material A) | (Non-originating material) | Quantity (units)
+Quantity (units) | Total value | Unit cost * | Quantity (units) | Total value | Ratio
+Receipt | 12/18/93 | 100 (O 1) | $100 | $1.00 | | | |
+Receipt | 12/27/93 | 100 (N 2) | 110 | 1.10 | 100 | $110.00 | |
+NEW AVERAGE INV. VALUE | | 200 (OI 3) | 210 | 1.05 | 100 | 105.00 | 0.50 |
+Receipt | 01/01/94 | 1,000 (O) | 1,000 | 1.00 | | | |
+NEW AVERAGE INV. VALUE | | 1,200 | 1,210 | 1.01 | 100 | 101.00 | 0.08 |
+Receipt | 01/05/94 | 1,000 (N) | 1,100 | 1.10 | 1,000 | 1,100.00 | |
+NEW AVERAGE INV. VALUE | | 2,200 | 2,310 | 1.05 | 1,100 | 1,155.00 | 0.50 |
 Shipment | 01/10/94 | (100) | (105) | 1.05 | (50) | (52.50) | | 100
-Receipt | 01/10/94 | 1,000 (O) | 1,050 | 1.05
-NEW AVERAGE INV. VALUE | | 3,100 | 3,255 | 1.05 | 1,050 | 1,102.50 | 0.34
+Receipt | 01/10/94 | 1,000 (O) | 1,050 | 1.05 | | | |
+NEW AVERAGE INV. VALUE | | 3,100 | 3,255 | 1.05 | 1,050 | 1,102.50 | 0.34 |
 Shipment | 01/15/94 | (700) | (735) | 1.05 | (238) | (249.90) | | 700
-Receipt | 01/16/94 | 2,000 (N) | 2,200 | 1.10 | 2,000 | 2,000.00
-NEW AVERAGE INV. VALUE | | 4,400 | 4,720 | 1.07 | 2,816 | 3,013.20 | 0.64
+Receipt | 01/16/94 | 2,000 (N) | 2,200 | 1.10 | 2,000 | 2,000.00 | |
+NEW AVERAGE INV. VALUE | | 4,400 | 4,720 | 1.07 | 2,816 | 3,013.20 | 0.64 |
 Shipment | 01/20/94 | (1,000) | (1,070) | 1.07 | (640) | (648.80) | | 1,000
 Shipment | 01/23/94 | (900) | (963) | 1.07 | (576) | (616.32) | | 900
-NEW AVERAGE INV. VALUE | | 2,500 | 2,687 | 1.07 | 1,596 | 1,707.24 | 0.64
-* Unit cost is determined in accordance with section 7 of this appendix.
-1 "O" denotes originating materials.
-2 "N" denotes non-originating materials.
-3 "OI" denotes opening inventory.
+NEW AVERAGE INV. VALUE | | 2,500 | 2,687 | 1.07 | 1,596 | 1,707.24 | 0.64 |
+* Unit cost is determined in accordance with section 7 of this appendix. 1 "O" denotes originating materials. 2 "N" denotes non-originating materials. 3 "OI" denotes opening inventory.
 By applying the average method:
 (1) before the shipment of the 100 units of Material A on 01/10/94, the ratio of units of originating Material A to total units of Material A in materials inventory was.50 (1,100 units/2,200 units) and the ratio of units of non-originating Material A to total units of Material A in materials inventory was.50 (1,100 units/2,200 units); based on those ratios, 50 units (100 units ×.50) of originating Material A and 50 units (100 units ×.50) of non-originating Material A are considered to have been used in the production of the 100 units of Good A shipped on 01/10/94; therefore, the value of non-originating Material A used in the production of those goods is considered to be $52.50 [100 units × $1.05 (average unit value) ×.50]; the ratios are applied to the units of Material A remaining in materials inventory after the shipment: 1,050 units (2,100 units ×.50) are considered to be originating materials and 1,050 units (2,100 units ×.50) are considered to be non-originating materials;
 (2) before the shipment of the 700 units of Good A on 01/15/94, the ratio of units of originating Material A to total units of Material A in materials inventory was 66% (2,050 units/3,100 units) and the ratio of units of non-originating Material A to total units of Material A in materials inventory was 34% (1,050 units/3,100 units); based on those ratios, 462 units (700 units ×.66) of originating Material A and 238 units (700 units ×.34) of non-originating Material A are considered to have been used in the production of the 700 units of Good A shipped on 01/15/94; therefore, the value of non-originating Material A used in the production of those goods is considered to be $249.90 [700 units × $1.05 (average unit value) × 34%]; the ratios are applied to the units of Material A remaining in materials inventory after the shipment: 1,584 units (2,400 units ×.66) are considered to be originating materials and 816 units (2,400 units ×.34) are considered to be non-originating materials;
@@ -2223,21 +2209,20 @@ ADDENDUM B
 "EXAMPLES" ILLUSTRATING THE APPLICATION OF THE INVENTORY MANAGEMENT METHODS TO DETERMINE
 THE ORIGIN OF FUNGIBLE GOODS
 The following "examples" are based on the figures set out in the table below and on the assumption that Exporter A acquires originating Good A and non-originating Good A that are fungible goods and physically combines or mixes Good A before exporting those goods to the buyer of those goods.
-Date (M/D/Y) | Finished goods inventory (receipts of good A) | Quantity (units) | Sales (shipments of good A) | Quantity (units)
-12/18/93 | 100 (O 1)
-12/27/93 | 100 (N 2)
-01/01/94 | 200 (OI 3)
-01/01/94 | 1,000 (O)
-01/05/94 | 1,000 (N)
+Date (M/D/Y) | Finished goods inventory (receipts of good A) | Sales (shipments of good A)
+Quantity (units) | Quantity (units)
+12/18/93 | 100 (O 1) |
+12/27/93 | 100 (N 2) |
+01/01/94 | 200 (OI 3) |
+01/01/94 | 1,000 (O) |
+01/05/94 | 1,000 (N) |
 01/10/94 | | 100
-01/15/94 | 1,000 (O)
+01/15/94 | 1,000 (O) |
 01/16/94 | | 700
-01/20/94 | 2,000 (N)
+01/20/94 | 2,000 (N) |
 01/20/94 | | 1,000
 01/23/94 | | 900
-1 "O" denotes originating goods.
-2 "N" denotes non-originating goods.
-3 "OI" denotes opening inventory.
+1 "O" denotes originating goods. 2 "N" denotes non-originating goods. 3 "OI" denotes opening inventory.
 Example 1: FIFO method
 By applying the FIFO method:
 (1) the 100 units of originating Good A in opening inventory that were received in finished goods inventory on 12/18/93 are considered to be the 100 units of Good A shipped on 01/10/94;
@@ -2319,11 +2304,7 @@ Years of loan | Principal balance 1 | Interest payment 2 | Principal payment 3 |
 9 | 128,177.30 | 14,945.96 | 120,922.00 | 135,867.96 | 1,088,298.02
 10 | (0.00) | 7,690.66 | 128,177.32 | 135,867.96 | 1,281,773.22
 | | | | | $5,977,993.19
-1 The principal balance represents the loan balance at the end of each full year the loan is in effect and is calculated by subtracting the current year's principal payment from the prior year's ending loan balance.
-2 Interest payments are calculated by multiplying the prior year's ending loan balance by the contract interest rate of 6 percent.
-3 Principal payments are calculated by subtracting the current year's interest payments from the annual payment schedule amount.
-4 The weighted principal payment is determined by, for each year of the loan, multiplying that year's principal payment by the number of years the loan had been in effect at the end of that year.
-5 The weighted average principal maturity of the contract is calculated by dividing the sum of the weighted principal payments by the original loan amount and rounding the amount determined to the nearest decimal place.
+1 The principal balance represents the loan balance at the end of each full year the loan is in effect and is calculated by subtracting the current year's principal payment from the prior year's ending loan balance. 2 Interest payments are calculated by multiplying the prior year's ending loan balance by the contract interest rate of 6 percent. 3 Principal payments are calculated by subtracting the current year's interest payments from the annual payment schedule amount. 4 The weighted principal payment is determined by, for each year of the loan, multiplying that year's principal payment by the number of years the loan had been in effect at the end of that year. 5 The weighted average principal maturity of the contract is calculated by dividing the sum of the weighted principal payments by the original loan amount and rounding the amount determined to the nearest decimal place.
 Weighted Average Principal Maturity
 $5,977,993.19 / $1,000,000 = 5.977993 or 6 years 5
 By applying the above method:
@@ -2355,8 +2336,8 @@ By applying the above method:
 = 3.45%; and
 (3) the producer's contract rate of 6 percent for the first two years of the loan is within 700 basis points of the 3.45 percent yield on federal government debt obligations that have maturities equal to the 1.9-year weighted average principal maturity of the payment schedule of the first two years of the producer's loan contract; therefore, none of the producer's interest costs are considered to be non-allowable interest costs for purposes of the definition "non-allowable interest costs".
 Beginning of year | Principal balance | Interest rate (%) | Interest payment | Principal payment | Payment schedule | Weighted principal payment
-1 | $1,000,000.00 | 6.00 | $60,000.00 | $75,867.96 | $135,867.96
-2 | 924,132.04 | 6.00 | 55,447.92 | 80,420.04 | 135,867.96
+1 | $1,000,000.00 | 6.00 | $60,000.00 | $75,867.96 | $135,867.96 |
+2 | 924,132.04 | 6.00 | 55,447.92 | 80,420.04 | 135,867.96 |
 3 | 843,712.01 | 8.00 | 67,496.96 | 79,321.38 | 146,818.34 | $79,321.38
 4 | 764,390.62 | 8.00 | 61,151.25 | 85,667.09 | 146,818.34 | 1,528,781.24
 | | | | | | $1,608,102.62
@@ -2389,4 +2370,3 @@ For purposes of Generally Accepted Accounting Principles, the recognized consens
 (A) FASB Accounting Standards and Interpretations,
 (B) FASB Technical Bulletins, and
 (C) FASB Concepts Statements.
-[T.D. 95-68, 60 FR 46364, Sept. 6, 1995, as amended by T.D. 02-15, 67 FR 15482, Apr. 2, 2002; 67 FR 19810, Apr. 23, 2002; CBP Dec. 15-07, 80 FR 26830, May 11, 2015]
