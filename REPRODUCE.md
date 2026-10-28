@@ -7562,20 +7562,233 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-44-part-0362` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 362 | 1 | 2017-01-03 to 2017-01-03 |
 | `title-44-part-0401` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 401 | 1 | 2017-01-03 to 2017-01-03 |
 | `title-44-part-0402` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 402 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-46-part-0001` | Title 46 of the Code of Federal Regulations (Shipping), Part 1 | 3 | 2017-10-01 to 2025-01-19 |
+| `title-46-part-0002` | Title 46 of the Code of Federal Regulations (Shipping), Part 2 | 7 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0003` | Title 46 of the Code of Federal Regulations (Shipping), Part 3 | 3 | 2017-10-01 to 2025-11-24 |
+| `title-46-part-0004` | Title 46 of the Code of Federal Regulations (Shipping), Part 4 | 5 | 2017-10-01 to 2026-07-30 |
+| `title-46-part-0005` | Title 46 of the Code of Federal Regulations (Shipping), Part 5 | 2 | 2017-10-01 to 2022-01-21 |
+| `title-46-part-0006` | Title 46 of the Code of Federal Regulations (Shipping), Part 6 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0007` | Title 46 of the Code of Federal Regulations (Shipping), Part 7 | 3 | 2017-10-01 to 2025-11-24 |
+| `title-46-part-0008` | Title 46 of the Code of Federal Regulations (Shipping), Part 8 | 2 | 2017-10-01 to 2017-10-23 |
+| `title-46-part-0009` | Title 46 of the Code of Federal Regulations (Shipping), Part 9 | 10 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0010` | Title 46 of the Code of Federal Regulations (Shipping), Part 10 | 7 | 2017-10-01 to 2025-02-19 |
+| `title-46-part-0011` | Title 46 of the Code of Federal Regulations (Shipping), Part 11 | 14 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0012` | Title 46 of the Code of Federal Regulations (Shipping), Part 12 | 6 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0013` | Title 46 of the Code of Federal Regulations (Shipping), Part 13 | 5 | 2017-10-01 to 2025-02-19 |
+| `title-46-part-0014` | Title 46 of the Code of Federal Regulations (Shipping), Part 14 | 2 | 2017-10-01 to 2025-01-19 |
+| `title-46-part-0015` | Title 46 of the Code of Federal Regulations (Shipping), Part 15 | 11 | 2017-10-01 to 2025-11-24 |
+| `title-46-part-0016` | Title 46 of the Code of Federal Regulations (Shipping), Part 16 | 7 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0024` | Title 46 of the Code of Federal Regulations (Shipping), Part 24 | 3 | 2017-10-01 to 2025-11-24 |
+| `title-46-part-0025` | Title 46 of the Code of Federal Regulations (Shipping), Part 25 | 4 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0026` | Title 46 of the Code of Federal Regulations (Shipping), Part 26 | 2 | 2017-10-01 to 2025-11-24 |
+| `title-46-part-0027` | Title 46 of the Code of Federal Regulations (Shipping), Part 27 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0028` | Title 46 of the Code of Federal Regulations (Shipping), Part 28 | 13 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0030` | Title 46 of the Code of Federal Regulations (Shipping), Part 30 | 7 | 2017-10-01 to 2025-03-17 |
+| `title-46-part-0031` | Title 46 of the Code of Federal Regulations (Shipping), Part 31 | 5 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0032` | Title 46 of the Code of Federal Regulations (Shipping), Part 32 | 2 | 2017-10-01 to 2024-10-18 |
+| `title-46-part-0034` | Title 46 of the Code of Federal Regulations (Shipping), Part 34 | 4 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0035` | Title 46 of the Code of Federal Regulations (Shipping), Part 35 | 4 | 2017-10-01 to 2025-01-17 |
+| `title-46-part-0036` | Title 46 of the Code of Federal Regulations (Shipping), Part 36 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0038` | Title 46 of the Code of Federal Regulations (Shipping), Part 38 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0039` | Title 46 of the Code of Federal Regulations (Shipping), Part 39 | 4 | 2017-10-01 to 2025-01-17 |
+| `title-46-part-0042` | Title 46 of the Code of Federal Regulations (Shipping), Part 42 | 4 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0044` | Title 46 of the Code of Federal Regulations (Shipping), Part 44 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0045` | Title 46 of the Code of Federal Regulations (Shipping), Part 45 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0046` | Title 46 of the Code of Federal Regulations (Shipping), Part 46 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0047` | Title 46 of the Code of Federal Regulations (Shipping), Part 47 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0050` | Title 46 of the Code of Federal Regulations (Shipping), Part 50 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0052` | Title 46 of the Code of Federal Regulations (Shipping), Part 52 | 2 | 2017-10-01 to 2024-09-10 |
+| `title-46-part-0053` | Title 46 of the Code of Federal Regulations (Shipping), Part 53 | 2 | 2017-10-01 to 2024-09-10 |
+| `title-46-part-0054` | Title 46 of the Code of Federal Regulations (Shipping), Part 54 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0056` | Title 46 of the Code of Federal Regulations (Shipping), Part 56 | 5 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0057` | Title 46 of the Code of Federal Regulations (Shipping), Part 57 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0058` | Title 46 of the Code of Federal Regulations (Shipping), Part 58 | 3 | 2017-10-01 to 2025-11-24 |
+| `title-46-part-0059` | Title 46 of the Code of Federal Regulations (Shipping), Part 59 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0061` | Title 46 of the Code of Federal Regulations (Shipping), Part 61 | 2 | 2017-10-01 to 2024-09-10 |
+| `title-46-part-0062` | Title 46 of the Code of Federal Regulations (Shipping), Part 62 | 3 | 2017-10-01 to 2025-11-24 |
+| `title-46-part-0063` | Title 46 of the Code of Federal Regulations (Shipping), Part 63 | 2 | 2017-10-01 to 2024-09-10 |
+| `title-46-part-0064` | Title 46 of the Code of Federal Regulations (Shipping), Part 64 | 9 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0067` | Title 46 of the Code of Federal Regulations (Shipping), Part 67 | 5 | 2017-10-01 to 2025-01-15 |
+| `title-46-part-0068` | Title 46 of the Code of Federal Regulations (Shipping), Part 68 | 2 | 2017-10-01 to 2025-11-24 |
+| `title-46-part-0069` | Title 46 of the Code of Federal Regulations (Shipping), Part 69 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0070` | Title 46 of the Code of Federal Regulations (Shipping), Part 70 | 3 | 2017-10-01 to 2025-03-17 |
+| `title-46-part-0071` | Title 46 of the Code of Federal Regulations (Shipping), Part 71 | 2 | 2017-10-01 to 2022-01-21 |
+| `title-46-part-0072` | Title 46 of the Code of Federal Regulations (Shipping), Part 72 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0076` | Title 46 of the Code of Federal Regulations (Shipping), Part 76 | 4 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0077` | Title 46 of the Code of Federal Regulations (Shipping), Part 77 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0078` | Title 46 of the Code of Federal Regulations (Shipping), Part 78 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0080` | Title 46 of the Code of Federal Regulations (Shipping), Part 80 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0090` | Title 46 of the Code of Federal Regulations (Shipping), Part 90 | 3 | 2017-10-01 to 2025-11-24 |
+| `title-46-part-0091` | Title 46 of the Code of Federal Regulations (Shipping), Part 91 | 2 | 2017-10-01 to 2022-01-21 |
+| `title-46-part-0092` | Title 46 of the Code of Federal Regulations (Shipping), Part 92 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0093` | Title 46 of the Code of Federal Regulations (Shipping), Part 93 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0095` | Title 46 of the Code of Federal Regulations (Shipping), Part 95 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0096` | Title 46 of the Code of Federal Regulations (Shipping), Part 96 | 3 | 2017-10-01 to 2024-10-18 |
+| `title-46-part-0097` | Title 46 of the Code of Federal Regulations (Shipping), Part 97 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0098` | Title 46 of the Code of Federal Regulations (Shipping), Part 98 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0105` | Title 46 of the Code of Federal Regulations (Shipping), Part 105 | 2 | 2017-10-01 to 2024-10-18 |
+| `title-46-part-0106` | Title 46 of the Code of Federal Regulations (Shipping), Part 106 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0107` | Title 46 of the Code of Federal Regulations (Shipping), Part 107 | 3 | 2017-10-01 to 2024-10-18 |
+| `title-46-part-0108` | Title 46 of the Code of Federal Regulations (Shipping), Part 108 | 6 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0109` | Title 46 of the Code of Federal Regulations (Shipping), Part 109 | 4 | 2017-10-01 to 2026-07-30 |
+| `title-46-part-0110` | Title 46 of the Code of Federal Regulations (Shipping), Part 110 | 5 | 2017-10-01 to 2025-11-24 |
+| `title-46-part-0111` | Title 46 of the Code of Federal Regulations (Shipping), Part 111 | 4 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0112` | Title 46 of the Code of Federal Regulations (Shipping), Part 112 | 2 | 2017-10-01 to 2023-04-17 |
+| `title-46-part-0113` | Title 46 of the Code of Federal Regulations (Shipping), Part 113 | 8 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0114` | Title 46 of the Code of Federal Regulations (Shipping), Part 114 | 3 | 2017-10-01 to 2025-03-17 |
+| `title-46-part-0115` | Title 46 of the Code of Federal Regulations (Shipping), Part 115 | 2 | 2017-10-01 to 2024-10-18 |
+| `title-46-part-0116` | Title 46 of the Code of Federal Regulations (Shipping), Part 116 | 3 | 2017-10-01 to 2024-10-18 |
+| `title-46-part-0117` | Title 46 of the Code of Federal Regulations (Shipping), Part 117 | 3 | 2017-10-01 to 2025-01-06 |
+| `title-46-part-0118` | Title 46 of the Code of Federal Regulations (Shipping), Part 118 | 5 | 2017-10-01 to 2025-11-24 |
+| `title-46-part-0119` | Title 46 of the Code of Federal Regulations (Shipping), Part 119 | 2 | 2017-10-01 to 2024-04-03 |
+| `title-46-part-0120` | Title 46 of the Code of Federal Regulations (Shipping), Part 120 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0121` | Title 46 of the Code of Federal Regulations (Shipping), Part 121 | 2 | 2017-10-01 to 2022-12-14 |
+| `title-46-part-0122` | Title 46 of the Code of Federal Regulations (Shipping), Part 122 | 3 | 2017-10-01 to 2023-04-24 |
+| `title-46-part-0125` | Title 46 of the Code of Federal Regulations (Shipping), Part 125 | 3 | 2017-10-01 to 2025-11-24 |
+| `title-46-part-0126` | Title 46 of the Code of Federal Regulations (Shipping), Part 126 | 3 | 2017-10-01 to 2025-11-24 |
+| `title-46-part-0127` | Title 46 of the Code of Federal Regulations (Shipping), Part 127 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0128` | Title 46 of the Code of Federal Regulations (Shipping), Part 128 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0129` | Title 46 of the Code of Federal Regulations (Shipping), Part 129 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0130` | Title 46 of the Code of Federal Regulations (Shipping), Part 130 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0131` | Title 46 of the Code of Federal Regulations (Shipping), Part 131 | 2 | 2017-10-01 to 2025-11-24 |
+| `title-46-part-0132` | Title 46 of the Code of Federal Regulations (Shipping), Part 132 | 3 | 2017-10-01 to 2025-11-24 |
+| `title-46-part-0133` | Title 46 of the Code of Federal Regulations (Shipping), Part 133 | 4 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0134` | Title 46 of the Code of Federal Regulations (Shipping), Part 134 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0136` | Title 46 of the Code of Federal Regulations (Shipping), Part 136 | 3 | 2017-10-01 to 2025-03-17 |
+| `title-46-part-0137` | Title 46 of the Code of Federal Regulations (Shipping), Part 137 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0138` | Title 46 of the Code of Federal Regulations (Shipping), Part 138 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0139` | Title 46 of the Code of Federal Regulations (Shipping), Part 139 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0140` | Title 46 of the Code of Federal Regulations (Shipping), Part 140 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0141` | Title 46 of the Code of Federal Regulations (Shipping), Part 141 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0142` | Title 46 of the Code of Federal Regulations (Shipping), Part 142 | 5 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0143` | Title 46 of the Code of Federal Regulations (Shipping), Part 143 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0144` | Title 46 of the Code of Federal Regulations (Shipping), Part 144 | 2 | 2017-10-01 to 2022-01-21 |
+| `title-46-part-0147` | Title 46 of the Code of Federal Regulations (Shipping), Part 147 | 5 | 2017-10-01 to 2025-11-24 |
+| `title-46-part-0147a` | Title 46 of the Code of Federal Regulations (Shipping), Part 147A | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0148` | Title 46 of the Code of Federal Regulations (Shipping), Part 148 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0150` | Title 46 of the Code of Federal Regulations (Shipping), Part 150 | 5 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0151` | Title 46 of the Code of Federal Regulations (Shipping), Part 151 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0153` | Title 46 of the Code of Federal Regulations (Shipping), Part 153 | 4 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0154` | Title 46 of the Code of Federal Regulations (Shipping), Part 154 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0159` | Title 46 of the Code of Federal Regulations (Shipping), Part 159 | 2 | 2017-10-01 to 2024-10-18 |
+| `title-46-part-0160` | Title 46 of the Code of Federal Regulations (Shipping), Part 160 | 7 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0161` | Title 46 of the Code of Federal Regulations (Shipping), Part 161 | 4 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0162` | Title 46 of the Code of Federal Regulations (Shipping), Part 162 | 7 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0163` | Title 46 of the Code of Federal Regulations (Shipping), Part 163 | 2 | 2017-10-01 to 2024-10-18 |
+| `title-46-part-0164` | Title 46 of the Code of Federal Regulations (Shipping), Part 164 | 2 | 2017-10-01 to 2024-10-18 |
+| `title-46-part-0166` | Title 46 of the Code of Federal Regulations (Shipping), Part 166 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0167` | Title 46 of the Code of Federal Regulations (Shipping), Part 167 | 5 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0168` | Title 46 of the Code of Federal Regulations (Shipping), Part 168 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0169` | Title 46 of the Code of Federal Regulations (Shipping), Part 169 | 12 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0170` | Title 46 of the Code of Federal Regulations (Shipping), Part 170 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0171` | Title 46 of the Code of Federal Regulations (Shipping), Part 171 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0172` | Title 46 of the Code of Federal Regulations (Shipping), Part 172 | 4 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0173` | Title 46 of the Code of Federal Regulations (Shipping), Part 173 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0174` | Title 46 of the Code of Federal Regulations (Shipping), Part 174 | 6 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0175` | Title 46 of the Code of Federal Regulations (Shipping), Part 175 | 4 | 2017-10-01 to 2025-03-17 |
+| `title-46-part-0176` | Title 46 of the Code of Federal Regulations (Shipping), Part 176 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0177` | Title 46 of the Code of Federal Regulations (Shipping), Part 177 | 3 | 2017-10-01 to 2025-11-24 |
+| `title-46-part-0178` | Title 46 of the Code of Federal Regulations (Shipping), Part 178 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0179` | Title 46 of the Code of Federal Regulations (Shipping), Part 179 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0180` | Title 46 of the Code of Federal Regulations (Shipping), Part 180 | 2 | 2017-10-01 to 2025-01-06 |
+| `title-46-part-0181` | Title 46 of the Code of Federal Regulations (Shipping), Part 181 | 5 | 2017-10-01 to 2025-11-24 |
+| `title-46-part-0182` | Title 46 of the Code of Federal Regulations (Shipping), Part 182 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0183` | Title 46 of the Code of Federal Regulations (Shipping), Part 183 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0184` | Title 46 of the Code of Federal Regulations (Shipping), Part 184 | 2 | 2017-10-01 to 2022-12-14 |
+| `title-46-part-0185` | Title 46 of the Code of Federal Regulations (Shipping), Part 185 | 3 | 2017-10-01 to 2023-04-24 |
+| `title-46-part-0188` | Title 46 of the Code of Federal Regulations (Shipping), Part 188 | 3 | 2017-10-01 to 2025-11-24 |
+| `title-46-part-0189` | Title 46 of the Code of Federal Regulations (Shipping), Part 189 | 2 | 2017-10-01 to 2022-01-21 |
+| `title-46-part-0190` | Title 46 of the Code of Federal Regulations (Shipping), Part 190 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0193` | Title 46 of the Code of Federal Regulations (Shipping), Part 193 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0194` | Title 46 of the Code of Federal Regulations (Shipping), Part 194 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0195` | Title 46 of the Code of Federal Regulations (Shipping), Part 195 | 2 | 2017-10-01 to 2024-10-18 |
+| `title-46-part-0196` | Title 46 of the Code of Federal Regulations (Shipping), Part 196 | 6 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0197` | Title 46 of the Code of Federal Regulations (Shipping), Part 197 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0199` | Title 46 of the Code of Federal Regulations (Shipping), Part 199 | 7 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0201` | Title 46 of the Code of Federal Regulations (Shipping), Part 201 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0202` | Title 46 of the Code of Federal Regulations (Shipping), Part 202 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0203` | Title 46 of the Code of Federal Regulations (Shipping), Part 203 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0204` | Title 46 of the Code of Federal Regulations (Shipping), Part 204 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0205` | Title 46 of the Code of Federal Regulations (Shipping), Part 205 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0221` | Title 46 of the Code of Federal Regulations (Shipping), Part 221 | 7 | 2017-10-01 to 2024-12-30 |
+| `title-46-part-0232` | Title 46 of the Code of Federal Regulations (Shipping), Part 232 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0249` | Title 46 of the Code of Federal Regulations (Shipping), Part 249 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0272` | Title 46 of the Code of Federal Regulations (Shipping), Part 272 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0277` | Title 46 of the Code of Federal Regulations (Shipping), Part 277 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0287` | Title 46 of the Code of Federal Regulations (Shipping), Part 287 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0289` | Title 46 of the Code of Federal Regulations (Shipping), Part 289 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0294` | Title 46 of the Code of Federal Regulations (Shipping), Part 294 | 2 | 2022-12-07 to 2026-07-23 |
+| `title-46-part-0295` | Title 46 of the Code of Federal Regulations (Shipping), Part 295 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0296` | Title 46 of the Code of Federal Regulations (Shipping), Part 296 | 2 | 2017-10-01 to 2018-01-02 |
+| `title-46-part-0298` | Title 46 of the Code of Federal Regulations (Shipping), Part 298 | 3 | 2017-10-01 to 2026-08-28 |
+| `title-46-part-0307` | Title 46 of the Code of Federal Regulations (Shipping), Part 307 | 7 | 2017-10-01 to 2024-12-30 |
+| `title-46-part-0308` | Title 46 of the Code of Federal Regulations (Shipping), Part 308 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0309` | Title 46 of the Code of Federal Regulations (Shipping), Part 309 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0310` | Title 46 of the Code of Federal Regulations (Shipping), Part 310 | 2 | 2017-10-01 to 2020-10-22 |
+| `title-46-part-0315` | Title 46 of the Code of Federal Regulations (Shipping), Part 315 | 2 | 2017-10-01 to 2025-07-01 |
+| `title-46-part-0326` | Title 46 of the Code of Federal Regulations (Shipping), Part 326 | 2 | 2017-10-01 to 2025-07-01 |
+| `title-46-part-0327` | Title 46 of the Code of Federal Regulations (Shipping), Part 327 | 2 | 2017-10-01 to 2026-06-05 |
+| `title-46-part-0340` | Title 46 of the Code of Federal Regulations (Shipping), Part 340 | 7 | 2017-10-01 to 2025-07-01 |
+| `title-46-part-0349` | Title 46 of the Code of Federal Regulations (Shipping), Part 349 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0350` | Title 46 of the Code of Federal Regulations (Shipping), Part 350 | 2 | 2017-10-01 to 2026-01-15 |
+| `title-46-part-0351` | Title 46 of the Code of Federal Regulations (Shipping), Part 351 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0355` | Title 46 of the Code of Federal Regulations (Shipping), Part 355 | 3 | 2017-10-01 to 2026-06-23 |
+| `title-46-part-0356` | Title 46 of the Code of Federal Regulations (Shipping), Part 356 | 10 | 2017-10-01 to 2026-06-23 |
+| `title-46-part-0370` | Title 46 of the Code of Federal Regulations (Shipping), Part 370 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0380` | Title 46 of the Code of Federal Regulations (Shipping), Part 380 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0381` | Title 46 of the Code of Federal Regulations (Shipping), Part 381 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0382` | Title 46 of the Code of Federal Regulations (Shipping), Part 382 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0385` | Title 46 of the Code of Federal Regulations (Shipping), Part 385 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0386` | Title 46 of the Code of Federal Regulations (Shipping), Part 386 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0387` | Title 46 of the Code of Federal Regulations (Shipping), Part 387 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0388` | Title 46 of the Code of Federal Regulations (Shipping), Part 388 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0389` | Title 46 of the Code of Federal Regulations (Shipping), Part 389 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0390` | Title 46 of the Code of Federal Regulations (Shipping), Part 390 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0391` | Title 46 of the Code of Federal Regulations (Shipping), Part 391 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0393` | Title 46 of the Code of Federal Regulations (Shipping), Part 393 | 3 | 2017-10-01 to 2018-11-27 |
+| `title-46-part-0401` | Title 46 of the Code of Federal Regulations (Shipping), Part 401 | 15 | 2017-10-01 to 2026-03-19 |
+| `title-46-part-0402` | Title 46 of the Code of Federal Regulations (Shipping), Part 402 | 2 | 2017-10-01 to 2024-10-17 |
+| `title-46-part-0403` | Title 46 of the Code of Federal Regulations (Shipping), Part 403 | 3 | 2017-10-01 to 2026-03-19 |
+| `title-46-part-0404` | Title 46 of the Code of Federal Regulations (Shipping), Part 404 | 8 | 2017-10-01 to 2026-03-19 |
+| `title-46-part-0501` | Title 46 of the Code of Federal Regulations (Shipping), Part 501 | 7 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0502` | Title 46 of the Code of Federal Regulations (Shipping), Part 502 | 9 | 2017-10-01 to 2026-09-01 |
+| `title-46-part-0503` | Title 46 of the Code of Federal Regulations (Shipping), Part 503 | 5 | 2017-10-01 to 2023-07-24 |
+| `title-46-part-0504` | Title 46 of the Code of Federal Regulations (Shipping), Part 504 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0505` | Title 46 of the Code of Federal Regulations (Shipping), Part 505 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0506` | Title 46 of the Code of Federal Regulations (Shipping), Part 506 | 10 | 2017-10-01 to 2026-06-02 |
+| `title-46-part-0507` | Title 46 of the Code of Federal Regulations (Shipping), Part 507 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0508` | Title 46 of the Code of Federal Regulations (Shipping), Part 508 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0515` | Title 46 of the Code of Federal Regulations (Shipping), Part 515 | 6 | 2017-10-01 to 2023-06-05 |
+| `title-46-part-0520` | Title 46 of the Code of Federal Regulations (Shipping), Part 520 | 5 | 2017-10-01 to 2024-02-01 |
+| `title-46-part-0525` | Title 46 of the Code of Federal Regulations (Shipping), Part 525 | 2 | 2017-10-01 to 2022-04-18 |
+| `title-46-part-0530` | Title 46 of the Code of Federal Regulations (Shipping), Part 530 | 8 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0531` | Title 46 of the Code of Federal Regulations (Shipping), Part 531 | 2 | 2017-10-01 to 2018-08-22 |
+| `title-46-part-0532` | Title 46 of the Code of Federal Regulations (Shipping), Part 532 | 3 | 2017-10-01 to 2020-02-20 |
+| `title-46-part-0535` | Title 46 of the Code of Federal Regulations (Shipping), Part 535 | 6 | 2017-10-01 to 2025-06-20 |
+| `title-46-part-0540` | Title 46 of the Code of Federal Regulations (Shipping), Part 540 | 9 | 2017-10-01 to 2026-10-26 |
+| `title-46-part-0541` | Title 46 of the Code of Federal Regulations (Shipping), Part 541 | 2 | 2024-05-28 to 2025-12-29 |
+| `title-46-part-0542` | Title 46 of the Code of Federal Regulations (Shipping), Part 542 | 4 | 2024-09-23 to 2025-06-20 |
+| `title-46-part-0545` | Title 46 of the Code of Federal Regulations (Shipping), Part 545 | 4 | 2017-10-01 to 2020-05-18 |
+| `title-46-part-0550` | Title 46 of the Code of Federal Regulations (Shipping), Part 550 | 4 | 2017-10-01 to 2023-06-05 |
+| `title-46-part-0551` | Title 46 of the Code of Federal Regulations (Shipping), Part 551 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-0555` | Title 46 of the Code of Federal Regulations (Shipping), Part 555 | 4 | 2017-10-01 to 2023-06-05 |
+| `title-46-part-0560` | Title 46 of the Code of Federal Regulations (Shipping), Part 560 | 4 | 2017-10-01 to 2023-06-05 |
+| `title-46-part-0565` | Title 46 of the Code of Federal Regulations (Shipping), Part 565 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-46-part-other` | Title 46 of the Code of Federal Regulations (Shipping), Part other | 4 | 2017-10-01 to 2026-10-26 |
 
-The build made 27563 commits:
+The build made 28262 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 7546 | first version of an act |
-| 13931 | one law on its in-force day |
-| 6086 | changes no amendment note explains, credited to the publisher |
+| 7759 | first version of an act |
+| 14225 | one law on its in-force day |
+| 6278 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 16560 laws in the record.
-- 35701 tags.
+- 16907 laws in the record.
+- 36640 tags.
 
 ## Dates
 
@@ -7587,7 +7800,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `bede624b6d7690e239279029e91b1784c96f48d7c13a38acec723dc2232e5883` (1233972581 bytes).
+- Corpus: sha256 `da4a017ad2ad3bab63f7e07154d1022bcfe8ac8d5d4c33edca752622d69205ea` (1252097850 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -7651,6 +7864,7 @@ No second build of this corpus has been compared yet.
 - Title 42: editions read: 2017 annual edition (to 2017-10-01); 2018 annual edition (to 2018-10-01); 2019 annual edition (to 2019-10-01); 2020 annual edition (to 2020-10-01); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-10-01); 2023 annual edition (to 2023-10-01); 2024 annual edition (to 2024-10-01); 2025 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
 - Title 43: editions read: 2018 annual edition (to 2018-10-01); 2019 annual edition (to 2019-09-17); 2020 annual edition (to 2020-10-01); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-10-01); 2023 annual edition (to 2023-10-01); 2024 annual edition (to 2024-09-06); 2025 annual edition (to 2025-09-30); eCFR (to 2026-10-26).
 - Title 44: editions read: 2017 annual edition (to 2017-01-03); 2018 annual edition (to 2018-10-01); 2020 annual edition (to 2020-08-10); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-08-03); 2023 annual edition (to 2023-10-01); 2024 annual edition (to 2024-10-01); 2025 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
+- Title 46: editions read: 2017 annual edition (to 2017-10-01); 2018 annual edition (to 2018-12-14); 2019 annual edition (to 2019-10-01); 2020 annual edition (to 2020-10-01); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-10-01); 2023 annual edition (to 2023-10-01); 2024 annual edition (to 2024-10-01); 2025 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
 
 ## What AI did and did not do
 
