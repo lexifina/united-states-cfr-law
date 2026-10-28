@@ -6829,20 +6829,179 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-41-part-0304-0008` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-8 | 2 | 2018-02-12 to 2025-12-08 |
 | `title-41-part-0304-0009` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-9 | 2 | 2018-02-12 to 2025-12-08 |
 | `title-41-part-other` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part other | 8 | 2018-02-12 to 2026-10-26 |
+| `title-42-part-0001` | Title 42 of the Code of Federal Regulations (Public Health), Part 1 | 2 | 2021-10-01 to 2022-10-01 |
+| `title-42-part-0002` | Title 42 of the Code of Federal Regulations (Public Health), Part 2 | 6 | 2017-10-01 to 2024-09-17 |
+| `title-42-part-0002a` | Title 42 of the Code of Federal Regulations (Public Health), Part 2a | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0003` | Title 42 of the Code of Federal Regulations (Public Health), Part 3 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0004` | Title 42 of the Code of Federal Regulations (Public Health), Part 4 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0005` | Title 42 of the Code of Federal Regulations (Public Health), Part 5 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0005a` | Title 42 of the Code of Federal Regulations (Public Health), Part 5a | 2 | 2017-10-01 to 2018-07-27 |
+| `title-42-part-0006` | Title 42 of the Code of Federal Regulations (Public Health), Part 6 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0007` | Title 42 of the Code of Federal Regulations (Public Health), Part 7 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0008` | Title 42 of the Code of Federal Regulations (Public Health), Part 8 | 4 | 2017-10-01 to 2026-10-26 |
+| `title-42-part-0009` | Title 42 of the Code of Federal Regulations (Public Health), Part 9 | 2 | 2017-10-01 to 2020-09-01 |
+| `title-42-part-0010` | Title 42 of the Code of Federal Regulations (Public Health), Part 10 | 4 | 2017-10-01 to 2024-06-18 |
+| `title-42-part-0011` | Title 42 of the Code of Federal Regulations (Public Health), Part 11 | 3 | 2017-10-01 to 2024-12-09 |
+| `title-42-part-0012` | Title 42 of the Code of Federal Regulations (Public Health), Part 12 | 6 | 2023-05-11 to 2026-01-01 |
+| `title-42-part-0021` | Title 42 of the Code of Federal Regulations (Public Health), Part 21 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0022` | Title 42 of the Code of Federal Regulations (Public Health), Part 22 | 2 | 2017-10-01 to 2019-07-17 |
+| `title-42-part-0023` | Title 42 of the Code of Federal Regulations (Public Health), Part 23 | 3 | 2017-10-01 to 2020-12-16 |
+| `title-42-part-0024` | Title 42 of the Code of Federal Regulations (Public Health), Part 24 | 4 | 2017-10-01 to 2021-10-01 |
+| `title-42-part-0031` | Title 42 of the Code of Federal Regulations (Public Health), Part 31 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0032` | Title 42 of the Code of Federal Regulations (Public Health), Part 32 | 2 | 2017-10-01 to 2019-07-17 |
+| `title-42-part-0034` | Title 42 of the Code of Federal Regulations (Public Health), Part 34 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0035` | Title 42 of the Code of Federal Regulations (Public Health), Part 35 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0037` | Title 42 of the Code of Federal Regulations (Public Health), Part 37 | 2 | 2017-10-01 to 2021-07-06 |
+| `title-42-part-0038` | Title 42 of the Code of Federal Regulations (Public Health), Part 38 | 2 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0050` | Title 42 of the Code of Federal Regulations (Public Health), Part 50 | 2 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0051` | Title 42 of the Code of Federal Regulations (Public Health), Part 51 | 2 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0051a` | Title 42 of the Code of Federal Regulations (Public Health), Part 51a | 2 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0051b` | Title 42 of the Code of Federal Regulations (Public Health), Part 51b | 2 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0051c` | Title 42 of the Code of Federal Regulations (Public Health), Part 51c | 5 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0051d` | Title 42 of the Code of Federal Regulations (Public Health), Part 51d | 2 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0052` | Title 42 of the Code of Federal Regulations (Public Health), Part 52 | 2 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0052a` | Title 42 of the Code of Federal Regulations (Public Health), Part 52a | 2 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0052b` | Title 42 of the Code of Federal Regulations (Public Health), Part 52b | 2 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0052c` | Title 42 of the Code of Federal Regulations (Public Health), Part 52c | 2 | 2017-10-01 to 2025-09-25 |
+| `title-42-part-0052d` | Title 42 of the Code of Federal Regulations (Public Health), Part 52d | 2 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0052e` | Title 42 of the Code of Federal Regulations (Public Health), Part 52e | 2 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0052h` | Title 42 of the Code of Federal Regulations (Public Health), Part 52h | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0052i` | Title 42 of the Code of Federal Regulations (Public Health), Part 52i | 3 | 2017-10-01 to 2025-01-03 |
+| `title-42-part-0053` | Title 42 of the Code of Federal Regulations (Public Health), Part 53 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0054` | Title 42 of the Code of Federal Regulations (Public Health), Part 54 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0054a` | Title 42 of the Code of Federal Regulations (Public Health), Part 54a | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0055a` | Title 42 of the Code of Federal Regulations (Public Health), Part 55a | 2 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0056` | Title 42 of the Code of Federal Regulations (Public Health), Part 56 | 3 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0057` | Title 42 of the Code of Federal Regulations (Public Health), Part 57 | 3 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0059` | Title 42 of the Code of Federal Regulations (Public Health), Part 59 | 6 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0059a` | Title 42 of the Code of Federal Regulations (Public Health), Part 59a | 2 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0060` | Title 42 of the Code of Federal Regulations (Public Health), Part 60 | 2 | 2017-10-01 to 2019-07-17 |
+| `title-42-part-0061` | Title 42 of the Code of Federal Regulations (Public Health), Part 61 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0062` | Title 42 of the Code of Federal Regulations (Public Health), Part 62 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-42-part-0063` | Title 42 of the Code of Federal Regulations (Public Health), Part 63 | 2 | 2017-10-01 to 2020-12-16 |
+| `title-42-part-0063a` | Title 42 of the Code of Federal Regulations (Public Health), Part 63a | 2 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0064` | Title 42 of the Code of Federal Regulations (Public Health), Part 64 | 2 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0064a` | Title 42 of the Code of Federal Regulations (Public Health), Part 64a | 2 | 2017-10-01 to 2026-10-26 |
+| `title-42-part-0065` | Title 42 of the Code of Federal Regulations (Public Health), Part 65 | 2 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0065a` | Title 42 of the Code of Federal Regulations (Public Health), Part 65a | 2 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0066` | Title 42 of the Code of Federal Regulations (Public Health), Part 66 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-42-part-0067` | Title 42 of the Code of Federal Regulations (Public Health), Part 67 | 2 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0068` | Title 42 of the Code of Federal Regulations (Public Health), Part 68 | 2 | 2017-10-01 to 2023-02-24 |
+| `title-42-part-0068b` | Title 42 of the Code of Federal Regulations (Public Health), Part 68b | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0070` | Title 42 of the Code of Federal Regulations (Public Health), Part 70 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0071` | Title 42 of the Code of Federal Regulations (Public Health), Part 71 | 9 | 2017-10-01 to 2026-05-27 |
+| `title-42-part-0073` | Title 42 of the Code of Federal Regulations (Public Health), Part 73 | 4 | 2017-10-01 to 2025-01-16 |
+| `title-42-part-0075` | Title 42 of the Code of Federal Regulations (Public Health), Part 75 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0081` | Title 42 of the Code of Federal Regulations (Public Health), Part 81 | 3 | 2017-10-01 to 2020-01-30 |
+| `title-42-part-0082` | Title 42 of the Code of Federal Regulations (Public Health), Part 82 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0083` | Title 42 of the Code of Federal Regulations (Public Health), Part 83 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0084` | Title 42 of the Code of Federal Regulations (Public Health), Part 84 | 5 | 2017-10-01 to 2026-10-26 |
+| `title-42-part-0085` | Title 42 of the Code of Federal Regulations (Public Health), Part 85 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0085a` | Title 42 of the Code of Federal Regulations (Public Health), Part 85a | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0086` | Title 42 of the Code of Federal Regulations (Public Health), Part 86 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0087` | Title 42 of the Code of Federal Regulations (Public Health), Part 87 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0088` | Title 42 of the Code of Federal Regulations (Public Health), Part 88 | 3 | 2017-10-01 to 2024-09-11 |
+| `title-42-part-0090` | Title 42 of the Code of Federal Regulations (Public Health), Part 90 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0093` | Title 42 of the Code of Federal Regulations (Public Health), Part 93 | 3 | 2017-10-01 to 2024-12-31 |
+| `title-42-part-0100` | Title 42 of the Code of Federal Regulations (Public Health), Part 100 | 2 | 2017-10-01 to 2022-01-03 |
+| `title-42-part-0110` | Title 42 of the Code of Federal Regulations (Public Health), Part 110 | 2 | 2017-10-01 to 2021-09-15 |
+| `title-42-part-0121` | Title 42 of the Code of Federal Regulations (Public Health), Part 121 | 4 | 2017-10-01 to 2024-11-27 |
+| `title-42-part-0124` | Title 42 of the Code of Federal Regulations (Public Health), Part 124 | 3 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0130` | Title 42 of the Code of Federal Regulations (Public Health), Part 130 | 2 | 2017-10-01 to 2018-07-27 |
+| `title-42-part-0136` | Title 42 of the Code of Federal Regulations (Public Health), Part 136 | 4 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0136a` | Title 42 of the Code of Federal Regulations (Public Health), Part 136a | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0137` | Title 42 of the Code of Federal Regulations (Public Health), Part 137 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0400` | Title 42 of the Code of Federal Regulations (Public Health), Part 400 | 4 | 2017-10-01 to 2023-01-01 |
+| `title-42-part-0401` | Title 42 of the Code of Federal Regulations (Public Health), Part 401 | 2 | 2017-10-01 to 2025-01-01 |
+| `title-42-part-0402` | Title 42 of the Code of Federal Regulations (Public Health), Part 402 | 2 | 2017-10-01 to 2023-12-11 |
+| `title-42-part-0403` | Title 42 of the Code of Federal Regulations (Public Health), Part 403 | 5 | 2017-10-01 to 2022-01-01 |
+| `title-42-part-0404` | Title 42 of the Code of Federal Regulations (Public Health), Part 404 | 2 | 2021-10-01 to 2022-10-01 |
+| `title-42-part-0405` | Title 42 of the Code of Federal Regulations (Public Health), Part 405 | 23 | 2017-10-01 to 2026-10-01 |
+| `title-42-part-0406` | Title 42 of the Code of Federal Regulations (Public Health), Part 406 | 6 | 2017-10-01 to 2025-01-13 |
+| `title-42-part-0407` | Title 42 of the Code of Federal Regulations (Public Health), Part 407 | 5 | 2017-10-01 to 2025-01-01 |
+| `title-42-part-0408` | Title 42 of the Code of Federal Regulations (Public Health), Part 408 | 3 | 2017-10-01 to 2023-10-11 |
+| `title-42-part-0409` | Title 42 of the Code of Federal Regulations (Public Health), Part 409 | 10 | 2017-10-01 to 2024-01-01 |
+| `title-42-part-0410` | Title 42 of the Code of Federal Regulations (Public Health), Part 410 | 17 | 2017-10-01 to 2026-03-12 |
+| `title-42-part-0411` | Title 42 of the Code of Federal Regulations (Public Health), Part 411 | 14 | 2017-10-01 to 2025-01-01 |
+| `title-42-part-0412` | Title 42 of the Code of Federal Regulations (Public Health), Part 412 | 19 | 2017-10-01 to 2026-10-01 |
+| `title-42-part-0413` | Title 42 of the Code of Federal Regulations (Public Health), Part 413 | 24 | 2017-10-01 to 2026-10-01 |
+| `title-42-part-0414` | Title 42 of the Code of Federal Regulations (Public Health), Part 414 | 32 | 2017-10-01 to 2026-10-01 |
+| `title-42-part-0415` | Title 42 of the Code of Federal Regulations (Public Health), Part 415 | 9 | 2017-10-01 to 2026-10-01 |
+| `title-42-part-0416` | Title 42 of the Code of Federal Regulations (Public Health), Part 416 | 13 | 2017-10-01 to 2026-01-01 |
+| `title-42-part-0417` | Title 42 of the Code of Federal Regulations (Public Health), Part 417 | 11 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0418` | Title 42 of the Code of Federal Regulations (Public Health), Part 418 | 17 | 2017-10-01 to 2026-10-01 |
+| `title-42-part-0419` | Title 42 of the Code of Federal Regulations (Public Health), Part 419 | 14 | 2017-10-01 to 2026-10-01 |
+| `title-42-part-0420` | Title 42 of the Code of Federal Regulations (Public Health), Part 420 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0421` | Title 42 of the Code of Federal Regulations (Public Health), Part 421 | 2 | 2017-10-01 to 2020-04-06 |
+| `title-42-part-0422` | Title 42 of the Code of Federal Regulations (Public Health), Part 422 | 35 | 2017-10-01 to 2026-10-26 |
+| `title-42-part-0423` | Title 42 of the Code of Federal Regulations (Public Health), Part 423 | 33 | 2017-10-01 to 2026-06-01 |
+| `title-42-part-0424` | Title 42 of the Code of Federal Regulations (Public Health), Part 424 | 19 | 2017-10-01 to 2026-08-05 |
+| `title-42-part-0425` | Title 42 of the Code of Federal Regulations (Public Health), Part 425 | 30 | 2017-10-01 to 2026-10-26 |
+| `title-42-part-0426` | Title 42 of the Code of Federal Regulations (Public Health), Part 426 | 2 | 2017-10-01 to 2020-12-16 |
+| `title-42-part-0427` | Title 42 of the Code of Federal Regulations (Public Health), Part 427 | 4 | 2025-01-01 to 2026-03-12 |
+| `title-42-part-0428` | Title 42 of the Code of Federal Regulations (Public Health), Part 428 | 4 | 2025-01-01 to 2026-03-12 |
+| `title-42-part-0430` | Title 42 of the Code of Federal Regulations (Public Health), Part 430 | 4 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0431` | Title 42 of the Code of Federal Regulations (Public Health), Part 431 | 10 | 2017-10-01 to 2026-07-31 |
+| `title-42-part-0432` | Title 42 of the Code of Federal Regulations (Public Health), Part 432 | 2 | 2017-10-01 to 2026-02-25 |
+| `title-42-part-0433` | Title 42 of the Code of Federal Regulations (Public Health), Part 433 | 9 | 2017-10-01 to 2026-10-26 |
+| `title-42-part-0434` | Title 42 of the Code of Federal Regulations (Public Health), Part 434 | 2 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0435` | Title 42 of the Code of Federal Regulations (Public Health), Part 435 | 12 | 2017-10-01 to 2026-07-31 |
+| `title-42-part-0436` | Title 42 of the Code of Federal Regulations (Public Health), Part 436 | 3 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0437` | Title 42 of the Code of Federal Regulations (Public Health), Part 437 | 1 | 2023-10-01 to 2023-10-01 |
+| `title-42-part-0438` | Title 42 of the Code of Federal Regulations (Public Health), Part 438 | 19 | 2017-10-01 to 2026-07-31 |
+| `title-42-part-0440` | Title 42 of the Code of Federal Regulations (Public Health), Part 440 | 9 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0441` | Title 42 of the Code of Federal Regulations (Public Health), Part 441 | 9 | 2017-10-01 to 2026-10-13 |
+| `title-42-part-0442` | Title 42 of the Code of Federal Regulations (Public Health), Part 442 | 2 | 2017-10-01 to 2024-07-05 |
+| `title-42-part-0447` | Title 42 of the Code of Federal Regulations (Public Health), Part 447 | 15 | 2017-10-01 to 2024-11-19 |
+| `title-42-part-0455` | Title 42 of the Code of Federal Regulations (Public Health), Part 455 | 12 | 2017-10-01 to 2026-01-01 |
+| `title-42-part-0456` | Title 42 of the Code of Federal Regulations (Public Health), Part 456 | 3 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-0457` | Title 42 of the Code of Federal Regulations (Public Health), Part 457 | 18 | 2017-10-01 to 2026-10-13 |
+| `title-42-part-0460` | Title 42 of the Code of Federal Regulations (Public Health), Part 460 | 18 | 2017-10-01 to 2025-06-03 |
+| `title-42-part-0475` | Title 42 of the Code of Federal Regulations (Public Health), Part 475 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0476` | Title 42 of the Code of Federal Regulations (Public Health), Part 476 | 3 | 2017-10-01 to 2024-10-15 |
+| `title-42-part-0478` | Title 42 of the Code of Federal Regulations (Public Health), Part 478 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0480` | Title 42 of the Code of Federal Regulations (Public Health), Part 480 | 2 | 2017-10-01 to 2020-10-01 |
+| `title-42-part-0482` | Title 42 of the Code of Federal Regulations (Public Health), Part 482 | 12 | 2017-10-01 to 2025-01-13 |
+| `title-42-part-0483` | Title 42 of the Code of Federal Regulations (Public Health), Part 483 | 15 | 2017-10-01 to 2026-10-26 |
+| `title-42-part-0484` | Title 42 of the Code of Federal Regulations (Public Health), Part 484 | 18 | 2017-10-01 to 2026-01-01 |
+| `title-42-part-0485` | Title 42 of the Code of Federal Regulations (Public Health), Part 485 | 19 | 2017-10-01 to 2025-01-13 |
+| `title-42-part-0486` | Title 42 of the Code of Federal Regulations (Public Health), Part 486 | 8 | 2017-10-01 to 2023-08-04 |
+| `title-42-part-0488` | Title 42 of the Code of Federal Regulations (Public Health), Part 488 | 12 | 2017-10-01 to 2026-10-26 |
+| `title-42-part-0489` | Title 42 of the Code of Federal Regulations (Public Health), Part 489 | 8 | 2017-10-01 to 2024-10-15 |
+| `title-42-part-0491` | Title 42 of the Code of Federal Regulations (Public Health), Part 491 | 6 | 2017-10-01 to 2025-01-01 |
+| `title-42-part-0493` | Title 42 of the Code of Federal Regulations (Public Health), Part 493 | 14 | 2017-10-01 to 2026-10-26 |
+| `title-42-part-0494` | Title 42 of the Code of Federal Regulations (Public Health), Part 494 | 6 | 2017-10-01 to 2025-01-01 |
+| `title-42-part-0495` | Title 42 of the Code of Federal Regulations (Public Health), Part 495 | 14 | 2017-10-01 to 2026-10-01 |
+| `title-42-part-0498` | Title 42 of the Code of Federal Regulations (Public Health), Part 498 | 8 | 2017-10-01 to 2026-01-01 |
+| `title-42-part-0505` | Title 42 of the Code of Federal Regulations (Public Health), Part 505 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-0510` | Title 42 of the Code of Federal Regulations (Public Health), Part 510 | 5 | 2017-10-01 to 2021-07-08 |
+| `title-42-part-0512` | Title 42 of the Code of Federal Regulations (Public Health), Part 512 | 19 | 2017-10-01 to 2026-10-26 |
+| `title-42-part-0513` | Title 42 of the Code of Federal Regulations (Public Health), Part 513 | 2 | 2020-11-27 to 2022-02-28 |
+| `title-42-part-0600` | Title 42 of the Code of Federal Regulations (Public Health), Part 600 | 9 | 2017-10-01 to 2026-07-31 |
+| `title-42-part-1000` | Title 42 of the Code of Federal Regulations (Public Health), Part 1000 | 3 | 2017-10-01 to 2022-10-01 |
+| `title-42-part-1001` | Title 42 of the Code of Federal Regulations (Public Health), Part 1001 | 6 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-1002` | Title 42 of the Code of Federal Regulations (Public Health), Part 1002 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-1003` | Title 42 of the Code of Federal Regulations (Public Health), Part 1003 | 4 | 2017-10-01 to 2023-09-01 |
+| `title-42-part-1004` | Title 42 of the Code of Federal Regulations (Public Health), Part 1004 | 2 | 2017-10-01 to 2020-12-16 |
+| `title-42-part-1005` | Title 42 of the Code of Federal Regulations (Public Health), Part 1005 | 2 | 2017-10-01 to 2023-08-02 |
+| `title-42-part-1006` | Title 42 of the Code of Federal Regulations (Public Health), Part 1006 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-42-part-1007` | Title 42 of the Code of Federal Regulations (Public Health), Part 1007 | 3 | 2017-10-01 to 2025-10-01 |
+| `title-42-part-1008` | Title 42 of the Code of Federal Regulations (Public Health), Part 1008 | 3 | 2017-10-01 to 2022-02-10 |
+| `title-42-part-other` | Title 42 of the Code of Federal Regulations (Public Health), Part other | 1 | 2026-10-26 to 2026-10-26 |
 
-The build made 25312 commits:
+The build made 26702 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 6813 | first version of an act |
-| 12712 | one law on its in-force day |
-| 5787 | changes no amendment note explains, credited to the publisher |
+| 6972 | first version of an act |
+| 13746 | one law on its in-force day |
+| 5984 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 15231 laws in the record.
-- 32871 tags.
+- 16315 laws in the record.
+- 34711 tags.
 
 ## Dates
 
@@ -6854,7 +7013,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ce7a0cfd5a9fdde1435e5bbd56e2535c328ad6bd1e41ab2e2329ba2fd0fb80a2` (1171943945 bytes).
+- Corpus: sha256 `c3c9c7567c3972d297de9f09499c96c6e3b1323d51e60cc675a0912d77fc6f4d` (1220487915 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -6915,6 +7074,7 @@ No second build of this corpus has been compared yet.
 - Title 38: editions read: 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 39: editions read: eCFR (to 2026-10-26).
 - Title 41: editions read: 2018 annual edition (to 2018-02-12); 2019 annual edition (to 2019-01-21); 2020 annual edition (to 2020-03-04); 2021 annual edition (to 2021-05-26); 2022 annual edition (to 2022-05-31); 2023 annual edition (to 2023-03-31); 2024 annual edition (to 2024-05-22); 2025 annual edition (to 2025-01-21); eCFR (to 2026-10-26).
+- Title 42: editions read: 2017 annual edition (to 2017-10-01); 2018 annual edition (to 2018-10-01); 2019 annual edition (to 2019-10-01); 2020 annual edition (to 2020-10-01); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-10-01); 2023 annual edition (to 2023-10-01); 2024 annual edition (to 2024-10-01); 2025 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
 
 ## What AI did and did not do
 
