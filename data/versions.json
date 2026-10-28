@@ -27524,6 +27524,276 @@
    ]
   },
   {
+   "slug": "title-04-part-0002",
+   "short": "4 CFR Part 2",
+   "title": "Title 4 of the Code of Federal Regulations (Accounts), Part 2",
+   "url": "https://www.ecfr.gov/current/title-4/part-2",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-4/CFR-2018-title-4.zip",
+     "sha256": "6f86c41fdc5c929fb2233de664f17a72421beaca8f76a0df67bbd0f59f8b4202"
+    }
+   ]
+  },
+  {
+   "slug": "title-04-part-0003",
+   "short": "4 CFR Part 3",
+   "title": "Title 4 of the Code of Federal Regulations (Accounts), Part 3",
+   "url": "https://www.ecfr.gov/current/title-4/part-3",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-4/CFR-2018-title-4.zip",
+     "sha256": "6f86c41fdc5c929fb2233de664f17a72421beaca8f76a0df67bbd0f59f8b4202"
+    }
+   ]
+  },
+  {
+   "slug": "title-04-part-0004",
+   "short": "4 CFR Part 4",
+   "title": "Title 4 of the Code of Federal Regulations (Accounts), Part 4",
+   "url": "https://www.ecfr.gov/current/title-4/part-4",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-4/CFR-2018-title-4.zip",
+     "sha256": "6f86c41fdc5c929fb2233de664f17a72421beaca8f76a0df67bbd0f59f8b4202"
+    }
+   ]
+  },
+  {
+   "slug": "title-04-part-0005",
+   "short": "4 CFR Part 5",
+   "title": "Title 4 of the Code of Federal Regulations (Accounts), Part 5",
+   "url": "https://www.ecfr.gov/current/title-4/part-5",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-4/CFR-2018-title-4.zip",
+     "sha256": "6f86c41fdc5c929fb2233de664f17a72421beaca8f76a0df67bbd0f59f8b4202"
+    }
+   ]
+  },
+  {
+   "slug": "title-04-part-0006",
+   "short": "4 CFR Part 6",
+   "title": "Title 4 of the Code of Federal Regulations (Accounts), Part 6",
+   "url": "https://www.ecfr.gov/current/title-4/part-6",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-4/CFR-2018-title-4.zip",
+     "sha256": "6f86c41fdc5c929fb2233de664f17a72421beaca8f76a0df67bbd0f59f8b4202"
+    }
+   ]
+  },
+  {
+   "slug": "title-04-part-0007",
+   "short": "4 CFR Part 7",
+   "title": "Title 4 of the Code of Federal Regulations (Accounts), Part 7",
+   "url": "https://www.ecfr.gov/current/title-4/part-7",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-4/CFR-2018-title-4.zip",
+     "sha256": "6f86c41fdc5c929fb2233de664f17a72421beaca8f76a0df67bbd0f59f8b4202"
+    }
+   ]
+  },
+  {
+   "slug": "title-04-part-0008",
+   "short": "4 CFR Part 8",
+   "title": "Title 4 of the Code of Federal Regulations (Accounts), Part 8",
+   "url": "https://www.ecfr.gov/current/title-4/part-8",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-4/CFR-2018-title-4.zip",
+     "sha256": "6f86c41fdc5c929fb2233de664f17a72421beaca8f76a0df67bbd0f59f8b4202"
+    }
+   ]
+  },
+  {
+   "slug": "title-04-part-0009",
+   "short": "4 CFR Part 9",
+   "title": "Title 4 of the Code of Federal Regulations (Accounts), Part 9",
+   "url": "https://www.ecfr.gov/current/title-4/part-9",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-4/CFR-2018-title-4.zip",
+     "sha256": "6f86c41fdc5c929fb2233de664f17a72421beaca8f76a0df67bbd0f59f8b4202"
+    }
+   ]
+  },
+  {
+   "slug": "title-04-part-0011",
+   "short": "4 CFR Part 11",
+   "title": "Title 4 of the Code of Federal Regulations (Accounts), Part 11",
+   "url": "https://www.ecfr.gov/current/title-4/part-11",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-4/CFR-2018-title-4.zip",
+     "sha256": "6f86c41fdc5c929fb2233de664f17a72421beaca8f76a0df67bbd0f59f8b4202"
+    }
+   ]
+  },
+  {
+   "slug": "title-04-part-0021",
+   "short": "4 CFR Part 21",
+   "title": "Title 4 of the Code of Federal Regulations (Accounts), Part 21",
+   "url": "https://www.ecfr.gov/current/title-4/part-21",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-4/CFR-2018-title-4.zip",
+     "sha256": "6f86c41fdc5c929fb2233de664f17a72421beaca8f76a0df67bbd0f59f8b4202"
+    },
+    {
+     "from": "2018-05-01",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-4/CFR-2019-title-4.zip",
+     "sha256": "6cdb2541b0b79978df3bdc281416c39707f21a8a0fe8056675830d0832f57f0f"
+    }
+   ]
+  },
+  {
+   "slug": "title-04-part-0022",
+   "short": "4 CFR Part 22",
+   "title": "Title 4 of the Code of Federal Regulations (Accounts), Part 22",
+   "url": "https://www.ecfr.gov/current/title-4/part-22",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-4/CFR-2018-title-4.zip",
+     "sha256": "6f86c41fdc5c929fb2233de664f17a72421beaca8f76a0df67bbd0f59f8b4202"
+    }
+   ]
+  },
+  {
+   "slug": "title-04-part-0025",
+   "short": "4 CFR Part 25",
+   "title": "Title 4 of the Code of Federal Regulations (Accounts), Part 25",
+   "url": "https://www.ecfr.gov/current/title-4/part-25",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-4/CFR-2018-title-4.zip",
+     "sha256": "6f86c41fdc5c929fb2233de664f17a72421beaca8f76a0df67bbd0f59f8b4202"
+    }
+   ]
+  },
+  {
+   "slug": "title-04-part-0027",
+   "short": "4 CFR Part 27",
+   "title": "Title 4 of the Code of Federal Regulations (Accounts), Part 27",
+   "url": "https://www.ecfr.gov/current/title-4/part-27",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-4/CFR-2018-title-4.zip",
+     "sha256": "6f86c41fdc5c929fb2233de664f17a72421beaca8f76a0df67bbd0f59f8b4202"
+    }
+   ]
+  },
+  {
+   "slug": "title-04-part-0028",
+   "short": "4 CFR Part 28",
+   "title": "Title 4 of the Code of Federal Regulations (Accounts), Part 28",
+   "url": "https://www.ecfr.gov/current/title-4/part-28",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 92,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-4/CFR-2018-title-4.zip",
+     "sha256": "6f86c41fdc5c929fb2233de664f17a72421beaca8f76a0df67bbd0f59f8b4202"
+    },
+    {
+     "from": "2024-07-18",
+     "units": 92,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-4/ECFR-title4.xml",
+     "sha256": "ad89429c97812f07711bb766fdb880b423db8db4a93826f2885d3146f1267804"
+    }
+   ]
+  },
+  {
+   "slug": "title-04-part-0075",
+   "short": "4 CFR Part 75",
+   "title": "Title 4 of the Code of Federal Regulations (Accounts), Part 75",
+   "url": "https://www.ecfr.gov/current/title-4/part-75",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-4/CFR-2018-title-4.zip",
+     "sha256": "6f86c41fdc5c929fb2233de664f17a72421beaca8f76a0df67bbd0f59f8b4202"
+    }
+   ]
+  },
+  {
+   "slug": "title-04-part-0081",
+   "short": "4 CFR Part 81",
+   "title": "Title 4 of the Code of Federal Regulations (Accounts), Part 81",
+   "url": "https://www.ecfr.gov/current/title-4/part-81",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-4/CFR-2018-title-4.zip",
+     "sha256": "6f86c41fdc5c929fb2233de664f17a72421beaca8f76a0df67bbd0f59f8b4202"
+    }
+   ]
+  },
+  {
+   "slug": "title-04-part-0082",
+   "short": "4 CFR Part 82",
+   "title": "Title 4 of the Code of Federal Regulations (Accounts), Part 82",
+   "url": "https://www.ecfr.gov/current/title-4/part-82",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-4/CFR-2018-title-4.zip",
+     "sha256": "6f86c41fdc5c929fb2233de664f17a72421beaca8f76a0df67bbd0f59f8b4202"
+    }
+   ]
+  },
+  {
+   "slug": "title-04-part-0083",
+   "short": "4 CFR Part 83",
+   "title": "Title 4 of the Code of Federal Regulations (Accounts), Part 83",
+   "url": "https://www.ecfr.gov/current/title-4/part-83",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-4/CFR-2018-title-4.zip",
+     "sha256": "6f86c41fdc5c929fb2233de664f17a72421beaca8f76a0df67bbd0f59f8b4202"
+    },
+    {
+     "from": "2024-07-18",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-4/ECFR-title4.xml",
+     "sha256": "ad89429c97812f07711bb766fdb880b423db8db4a93826f2885d3146f1267804"
+    }
+   ]
+  },
+  {
    "slug": "title-12-part-0001",
    "short": "12 CFR Part 1",
    "title": "Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1",

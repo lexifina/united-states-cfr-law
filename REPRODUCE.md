@@ -862,6 +862,24 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-03-part-0100` | Title 3 of the Code of Federal Regulations (The President), Part 100 | 1 | 2026-10-26 to 2026-10-26 |
 | `title-03-part-0101` | Title 3 of the Code of Federal Regulations (The President), Part 101 | 1 | 2026-10-26 to 2026-10-26 |
 | `title-03-part-0102` | Title 3 of the Code of Federal Regulations (The President), Part 102 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-04-part-0002` | Title 4 of the Code of Federal Regulations (Accounts), Part 2 | 1 | 2017-12-08 to 2017-12-08 |
+| `title-04-part-0003` | Title 4 of the Code of Federal Regulations (Accounts), Part 3 | 1 | 2017-12-08 to 2017-12-08 |
+| `title-04-part-0004` | Title 4 of the Code of Federal Regulations (Accounts), Part 4 | 1 | 2017-12-08 to 2017-12-08 |
+| `title-04-part-0005` | Title 4 of the Code of Federal Regulations (Accounts), Part 5 | 1 | 2017-12-08 to 2017-12-08 |
+| `title-04-part-0006` | Title 4 of the Code of Federal Regulations (Accounts), Part 6 | 1 | 2017-12-08 to 2017-12-08 |
+| `title-04-part-0007` | Title 4 of the Code of Federal Regulations (Accounts), Part 7 | 1 | 2017-12-08 to 2017-12-08 |
+| `title-04-part-0008` | Title 4 of the Code of Federal Regulations (Accounts), Part 8 | 1 | 2017-12-08 to 2017-12-08 |
+| `title-04-part-0009` | Title 4 of the Code of Federal Regulations (Accounts), Part 9 | 1 | 2017-12-08 to 2017-12-08 |
+| `title-04-part-0011` | Title 4 of the Code of Federal Regulations (Accounts), Part 11 | 1 | 2017-12-08 to 2017-12-08 |
+| `title-04-part-0021` | Title 4 of the Code of Federal Regulations (Accounts), Part 21 | 2 | 2017-12-08 to 2018-05-01 |
+| `title-04-part-0022` | Title 4 of the Code of Federal Regulations (Accounts), Part 22 | 1 | 2017-12-08 to 2017-12-08 |
+| `title-04-part-0025` | Title 4 of the Code of Federal Regulations (Accounts), Part 25 | 1 | 2017-12-08 to 2017-12-08 |
+| `title-04-part-0027` | Title 4 of the Code of Federal Regulations (Accounts), Part 27 | 1 | 2017-12-08 to 2017-12-08 |
+| `title-04-part-0028` | Title 4 of the Code of Federal Regulations (Accounts), Part 28 | 2 | 2017-12-08 to 2024-07-18 |
+| `title-04-part-0075` | Title 4 of the Code of Federal Regulations (Accounts), Part 75 | 1 | 2017-12-08 to 2017-12-08 |
+| `title-04-part-0081` | Title 4 of the Code of Federal Regulations (Accounts), Part 81 | 1 | 2017-12-08 to 2017-12-08 |
+| `title-04-part-0082` | Title 4 of the Code of Federal Regulations (Accounts), Part 82 | 1 | 2017-12-08 to 2017-12-08 |
+| `title-04-part-0083` | Title 4 of the Code of Federal Regulations (Accounts), Part 83 | 2 | 2017-12-08 to 2024-07-18 |
 | `title-12-part-0001` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1 | 3 | 2017-01-01 to 2026-06-09 |
 | `title-12-part-0002` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 2 | 1 | 2017-01-01 to 2017-01-01 |
 | `title-12-part-0003` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 3 | 30 | 2017-01-01 to 2026-10-26 |
@@ -1830,19 +1848,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 10340 commits:
+The build made 10364 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1813 | first version of an act |
-| 6106 | one law on its in-force day |
-| 2421 | changes no amendment note explains, credited to the publisher |
+| 1831 | first version of an act |
+| 6111 | one law on its in-force day |
+| 2422 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 7203 laws in the record.
-- 13105 tags.
+- 7211 laws in the record.
+- 13131 tags.
 
 ## Dates
 
@@ -1854,7 +1872,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `20832b4e907d5866514e810bd3f0915f857616d95fbadcdc56bf2c68803c1b37` (654122762 bytes).
+- Corpus: sha256 `a4ce1620224a6a926704819ea7fd24b324aaa20978e7be54adc2d3e10fb896f2` (654592807 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1879,6 +1897,7 @@ No second build of this corpus has been compared yet.
 - Title 1: editions read: 2017 annual edition (to 2015-12-18); 2018 annual edition (to 2017-10-30); 2019 annual edition (to 2018-05-02); 2023 annual edition (to 2022-12-29); eCFR (to 2026-10-26).
 - Title 2: editions read: 2018 annual edition (to 2017-05-22); 2024 annual edition (to 2023-10-23); 2025 annual edition (to 2024-12-20); 2026 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
 - Title 3: editions read: eCFR (to 2026-10-26).
+- Title 4: editions read: 2018 annual edition (to 2017-12-08); 2019 annual edition (to 2018-05-01); eCFR (to 2026-10-26).
 - Title 12: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
