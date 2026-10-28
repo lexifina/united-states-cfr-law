@@ -5430,20 +5430,219 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-30-part-1241` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1241 | 4 | 2018-03-02 to 2025-01-10 |
 | `title-30-part-1243` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1243 | 2 | 2018-03-02 to 2022-05-13 |
 | `title-30-part-1290` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1290 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-31-part-0000` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 0 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0001` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 1 | 5 | 2018-05-23 to 2024-12-17 |
+| `title-31-part-0002` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 2 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0003` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 3 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0004` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 4 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0005` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 5 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0006` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 6 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0007` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 7 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0008` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 8 | 2 | 2018-05-23 to 2024-12-18 |
+| `title-31-part-0009` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 9 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0010` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 10 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0011` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 11 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0012` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 12 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0013` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 13 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0014` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 14 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0015` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 15 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0016` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 16 | 5 | 2018-05-23 to 2024-01-25 |
+| `title-31-part-0017` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 17 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0018` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 18 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0019` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 19 | 2 | 2018-05-23 to 2026-10-26 |
+| `title-31-part-0020` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 20 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0021` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 21 | 2 | 2018-05-23 to 2026-10-26 |
+| `title-31-part-0022` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 22 | 2 | 2018-05-23 to 2026-08-03 |
+| `title-31-part-0023` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 23 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0025` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 25 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0026` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 26 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0027` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 27 | 6 | 2018-05-23 to 2024-01-25 |
+| `title-31-part-0028` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 28 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0029` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 29 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0030` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 30 | 2 | 2018-05-23 to 2024-12-18 |
+| `title-31-part-0031` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 31 | 2 | 2018-05-23 to 2024-12-18 |
+| `title-31-part-0032` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 32 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0033` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 33 | 3 | 2018-05-23 to 2024-06-04 |
+| `title-31-part-0034` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 34 | 2 | 2018-05-23 to 2018-12-20 |
+| `title-31-part-0035` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 35 | 5 | 2021-03-09 to 2023-11-20 |
+| `title-31-part-0050` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 50 | 12 | 2018-05-23 to 2026-10-26 |
+| `title-31-part-0056` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 56 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0082` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 82 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0091` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 91 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0092` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 92 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0100` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 100 | 2 | 2018-05-23 to 2024-10-25 |
+| `title-31-part-0101` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 101 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0128` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 128 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0129` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 129 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0132` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 132 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0148` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 148 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0149` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 149 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0150` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 150 | 2 | 2018-05-23 to 2020-04-17 |
+| `title-31-part-0151` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 151 | 1 | 2026-10-01 to 2026-10-01 |
+| `title-31-part-0202` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 202 | 2 | 2018-05-23 to 2022-04-01 |
+| `title-31-part-0203` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 203 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0205` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 205 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0206` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 206 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0208` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 208 | 3 | 2018-05-23 to 2024-03-22 |
+| `title-31-part-0210` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 210 | 3 | 2018-05-23 to 2022-02-02 |
+| `title-31-part-0211` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 211 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0212` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 212 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0215` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 215 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0223` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 223 | 2 | 2018-05-23 to 2024-08-09 |
+| `title-31-part-0224` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 224 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0225` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 225 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0226` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 226 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0235` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 235 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0240` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 240 | 2 | 2018-05-23 to 2023-12-01 |
+| `title-31-part-0245` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 245 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0248` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 248 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0250` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 250 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0256` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 256 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0270` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 270 | 2 | 2018-05-23 to 2018-12-20 |
+| `title-31-part-0281` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 281 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0285` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 285 | 2 | 2018-05-23 to 2022-09-15 |
+| `title-31-part-0306` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 306 | 2 | 2018-05-23 to 2026-10-26 |
+| `title-31-part-0308` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 308 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0309` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 309 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0312` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 312 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0315` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 315 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0316` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 316 | 2 | 2018-05-23 to 2026-10-26 |
+| `title-31-part-0317` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 317 | 2 | 2018-05-23 to 2018-12-20 |
+| `title-31-part-0321` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 321 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0323` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 323 | 2 | 2018-05-23 to 2024-12-18 |
+| `title-31-part-0328` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 328 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0330` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 330 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0332` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 332 | 2 | 2018-05-23 to 2026-10-26 |
+| `title-31-part-0337` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 337 | 2 | 2018-05-23 to 2026-07-06 |
+| `title-31-part-0339` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 339 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0340` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 340 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0341` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 341 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0342` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 342 | 2 | 2018-05-23 to 2026-10-26 |
+| `title-31-part-0343` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 343 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0344` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 344 | 3 | 2018-05-23 to 2026-10-26 |
+| `title-31-part-0345` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 345 | 2 | 2018-05-23 to 2026-07-06 |
+| `title-31-part-0346` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 346 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0347` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 347 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0348` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 348 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0351` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 351 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0352` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 352 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0353` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 353 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0354` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 354 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0355` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 355 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0356` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 356 | 3 | 2018-05-23 to 2026-10-15 |
+| `title-31-part-0357` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 357 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0358` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 358 | 2 | 2018-05-23 to 2018-12-20 |
+| `title-31-part-0359` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 359 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0360` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 360 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0361` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 361 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0362` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 362 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0363` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 363 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0370` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 370 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0375` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 375 | 2 | 2018-05-23 to 2026-03-30 |
+| `title-31-part-0380` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 380 | 2 | 2018-05-23 to 2024-01-18 |
+| `title-31-part-0391` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 391 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0401` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 401 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0402` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 402 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0403` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 403 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0405` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 405 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0406` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 406 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0407` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 407 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0409` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 409 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0411` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 411 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0413` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 413 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0501` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 501 | 14 | 2018-05-23 to 2026-07-27 |
+| `title-31-part-0505` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 505 | 1 | 2026-09-25 to 2026-09-25 |
+| `title-31-part-0510` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 510 | 14 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0515` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 515 | 12 | 2018-05-23 to 2026-10-02 |
+| `title-31-part-0516` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 516 | 1 | 2026-09-30 to 2026-09-30 |
+| `title-31-part-0525` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 525 | 5 | 2021-06-01 to 2026-09-30 |
+| `title-31-part-0526` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 526 | 4 | 2023-07-11 to 2026-09-30 |
+| `title-31-part-0528` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 528 | 2 | 2024-12-18 to 2026-09-30 |
+| `title-31-part-0535` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 535 | 8 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0536` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 536 | 13 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0539` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 539 | 9 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0541` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 541 | 8 | 2018-05-23 to 2024-04-17 |
+| `title-31-part-0542` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 542 | 11 | 2018-05-23 to 2025-08-26 |
+| `title-31-part-0544` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 544 | 13 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0546` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 546 | 11 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0547` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 547 | 12 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0548` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 548 | 11 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0549` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 549 | 11 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0550` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 550 | 5 | 2022-02-09 to 2026-07-27 |
+| `title-31-part-0551` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 551 | 12 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0552` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 552 | 11 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0553` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 553 | 10 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0554` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 554 | 2 | 2018-05-23 to 2022-02-11 |
+| `title-31-part-0555` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 555 | 6 | 2020-02-07 to 2026-09-30 |
+| `title-31-part-0558` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 558 | 8 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0560` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 560 | 15 | 2018-05-23 to 2026-10-26 |
+| `title-31-part-0561` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 561 | 11 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0562` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 562 | 7 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0566` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 566 | 11 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0569` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 569 | 8 | 2020-04-17 to 2026-10-02 |
+| `title-31-part-0570` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 570 | 10 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0576` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 576 | 11 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0578` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 578 | 10 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0579` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 579 | 6 | 2018-12-20 to 2026-09-30 |
+| `title-31-part-0582` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 582 | 7 | 2019-09-04 to 2026-09-30 |
+| `title-31-part-0583` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 583 | 10 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0584` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 584 | 11 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0585` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 585 | 5 | 2021-01-15 to 2026-07-27 |
+| `title-31-part-0586` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 586 | 4 | 2022-02-16 to 2026-10-05 |
+| `title-31-part-0587` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 587 | 5 | 2022-03-01 to 2026-09-30 |
+| `title-31-part-0588` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 588 | 13 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0589` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 589 | 10 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0590` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 590 | 13 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0591` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 591 | 7 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0592` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 592 | 7 | 2018-05-23 to 2024-03-05 |
+| `title-31-part-0594` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 594 | 16 | 2018-05-23 to 2026-09-30 |
+| `title-31-part-0595` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 595 | 3 | 2018-05-23 to 2020-02-13 |
+| `title-31-part-0596` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 596 | 5 | 2018-05-23 to 2026-09-25 |
+| `title-31-part-0597` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 597 | 9 | 2018-05-23 to 2024-12-18 |
+| `title-31-part-0598` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 598 | 12 | 2018-05-23 to 2026-07-27 |
+| `title-31-part-0599` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 599 | 5 | 2022-12-20 to 2026-07-27 |
+| `title-31-part-0601` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 601 | 2 | 2018-05-23 to 2023-08-07 |
+| `title-31-part-0605` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 605 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0700` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 700 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0800` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 800 | 8 | 2018-05-23 to 2024-11-26 |
+| `title-31-part-0801` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 801 | 3 | 2018-11-11 to 2026-10-26 |
+| `title-31-part-0802` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 802 | 6 | 2020-02-13 to 2024-12-09 |
+| `title-31-part-0850` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 850 | 1 | 2024-12-18 to 2024-12-18 |
+| `title-31-part-0900` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 900 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0901` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 901 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0902` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 902 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0903` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 903 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-0904` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 904 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-1010` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 1010 | 18 | 2018-05-23 to 2026-10-26 |
+| `title-31-part-1020` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 1020 | 2 | 2018-05-23 to 2020-11-16 |
+| `title-31-part-1021` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 1021 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-1022` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 1022 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-1023` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 1023 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-1024` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 1024 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-1025` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 1025 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-1026` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 1026 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-1027` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 1027 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-1028` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 1028 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-1029` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 1029 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-1030` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 1030 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-1031` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 1031 | 1 | 2024-12-18 to 2024-12-18 |
+| `title-31-part-1032` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 1032 | 2 | 2024-12-18 to 2026-10-26 |
+| `title-31-part-1060` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 1060 | 1 | 2018-05-23 to 2018-05-23 |
+| `title-31-part-other` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part other | 4 | 2018-05-23 to 2026-07-27 |
 
-The build made 22590 commits:
+The build made 23225 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 5414 | first version of an act |
-| 12083 | one law on its in-force day |
-| 5093 | changes no amendment note explains, credited to the publisher |
+| 5613 | first version of an act |
+| 12333 | one law on its in-force day |
+| 5279 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 14413 laws in the record.
-- 29585 tags.
+- 14735 laws in the record.
+- 30517 tags.
 
 ## Dates
 
@@ -5455,7 +5654,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `d3c135ea06e138cde10384d3f2da1ddc2dbac1154d6eddbe0a5326d79f0520da` (1067894561 bytes).
+- Corpus: sha256 `8e902bd105f4652f1bd670d0779ac3842b8b7c5c7849c0c4c13973b213a261eb` (1083696353 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -5507,6 +5706,7 @@ No second build of this corpus has been compared yet.
 - Title 28: editions read: 2018 annual edition (to 2018-01-29); 2019 annual edition (to 2019-05-09); 2023 annual edition (to 2023-05-04); 2024 annual edition (to 2024-05-20); 2025 annual edition (to 2025-05-21); eCFR (to 2026-10-26).
 - Title 29: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-11); 2019 annual edition (to 2019-05-14); 2020 annual edition (to 2020-02-18); 2021 annual edition (to 2021-05-06); 2022 annual edition (to 2022-03-17); 2023 annual edition (to 2023-03-23); 2024 annual edition (to 2024-05-31); eCFR (to 2026-10-26).
 - Title 30: editions read: 2018 annual edition (to 2018-03-02); 2019 annual edition (to 2019-05-29); 2023 annual edition (to 2023-05-18); eCFR (to 2026-10-26).
+- Title 31: editions read: 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2018-12-20); 2020 annual edition (to 2020-04-17); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-05-18); 2025 annual edition (to 2024-12-18); eCFR (to 2026-10-26).
 
 ## What AI did and did not do
 
