@@ -77732,6 +77732,1658 @@
    ]
   },
   {
+   "slug": "title-13-part-0011",
+   "short": "13 CFR Part 11",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 11",
+   "url": "https://www.ecfr.gov/current/title-13/part-11",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0101",
+   "short": "13 CFR Part 101",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 101",
+   "url": "https://www.ecfr.gov/current/title-13/part-101",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2026-08-31",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-13/ECFR-title13.xml",
+     "sha256": "44c7dfa68f3c38fe2e2b1dc07b5376e52921563c65a9537fbcb6212573a9d24c"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-13/ECFR-title13.xml",
+     "sha256": "44c7dfa68f3c38fe2e2b1dc07b5376e52921563c65a9537fbcb6212573a9d24c"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0102",
+   "short": "13 CFR Part 102",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 102",
+   "url": "https://www.ecfr.gov/current/title-13/part-102",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2017-12-22",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-13/CFR-2018-title-13.zip",
+     "sha256": "7c837e2445e225d8600760c67ceb4b48ab5e43c0d2a23c294dbbb077c01bb1a1"
+    },
+    {
+     "from": "2018-01-03",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0103",
+   "short": "13 CFR Part 103",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 103",
+   "url": "https://www.ecfr.gov/current/title-13/part-103",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2021-02-09",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0105",
+   "short": "13 CFR Part 105",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 105",
+   "url": "https://www.ecfr.gov/current/title-13/part-105",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0106",
+   "short": "13 CFR Part 106",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 106",
+   "url": "https://www.ecfr.gov/current/title-13/part-106",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0107",
+   "short": "13 CFR Part 107",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 107",
+   "url": "https://www.ecfr.gov/current/title-13/part-107",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 136,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2017-02-09",
+     "units": 136,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-13/CFR-2018-title-13.zip",
+     "sha256": "7c837e2445e225d8600760c67ceb4b48ab5e43c0d2a23c294dbbb077c01bb1a1"
+    },
+    {
+     "from": "2017-09-18",
+     "units": 136,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-13/CFR-2018-title-13.zip",
+     "sha256": "7c837e2445e225d8600760c67ceb4b48ab5e43c0d2a23c294dbbb077c01bb1a1"
+    },
+    {
+     "from": "2017-12-13",
+     "units": 136,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-13/CFR-2018-title-13.zip",
+     "sha256": "7c837e2445e225d8600760c67ceb4b48ab5e43c0d2a23c294dbbb077c01bb1a1"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 136,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-08-17",
+     "units": 137,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2024-03-04",
+     "units": 137,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    },
+    {
+     "from": "2024-03-06",
+     "units": 137,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    },
+    {
+     "from": "2024-06-05",
+     "units": 137,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    },
+    {
+     "from": "2025-06-03",
+     "units": 137,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    },
+    {
+     "from": "2026-02-02",
+     "units": 136,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-13/ECFR-title13.xml",
+     "sha256": "44c7dfa68f3c38fe2e2b1dc07b5376e52921563c65a9537fbcb6212573a9d24c"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0108",
+   "short": "13 CFR Part 108",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 108",
+   "url": "https://www.ecfr.gov/current/title-13/part-108",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 103,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0109",
+   "short": "13 CFR Part 109",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 109",
+   "url": "https://www.ecfr.gov/current/title-13/part-109",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2017-09-20",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-13/CFR-2018-title-13.zip",
+     "sha256": "7c837e2445e225d8600760c67ceb4b48ab5e43c0d2a23c294dbbb077c01bb1a1"
+    },
+    {
+     "from": "2020-12-28",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2024-05-30",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0112",
+   "short": "13 CFR Part 112",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 112",
+   "url": "https://www.ecfr.gov/current/title-13/part-112",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2026-09-29",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-13/ECFR-title13.xml",
+     "sha256": "44c7dfa68f3c38fe2e2b1dc07b5376e52921563c65a9537fbcb6212573a9d24c"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0113",
+   "short": "13 CFR Part 113",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 113",
+   "url": "https://www.ecfr.gov/current/title-13/part-113",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0114",
+   "short": "13 CFR Part 114",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 114",
+   "url": "https://www.ecfr.gov/current/title-13/part-114",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0115",
+   "short": "13 CFR Part 115",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 115",
+   "url": "https://www.ecfr.gov/current/title-13/part-115",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2017-09-20",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-13/CFR-2018-title-13.zip",
+     "sha256": "7c837e2445e225d8600760c67ceb4b48ab5e43c0d2a23c294dbbb077c01bb1a1"
+    },
+    {
+     "from": "2019-12-27",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2022-09-07",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-06-20",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2024-03-18",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    },
+    {
+     "from": "2024-05-30",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0117",
+   "short": "13 CFR Part 117",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 117",
+   "url": "https://www.ecfr.gov/current/title-13/part-117",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0119",
+   "short": "13 CFR Part 119",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 119",
+   "url": "https://www.ecfr.gov/current/title-13/part-119",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2020-11-05",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0120",
+   "short": "13 CFR Part 120",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 120",
+   "url": "https://www.ecfr.gov/current/title-13/part-120",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 342,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2017-02-09",
+     "units": 342,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-13/CFR-2018-title-13.zip",
+     "sha256": "7c837e2445e225d8600760c67ceb4b48ab5e43c0d2a23c294dbbb077c01bb1a1"
+    },
+    {
+     "from": "2017-09-20",
+     "units": 315,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-13/CFR-2018-title-13.zip",
+     "sha256": "7c837e2445e225d8600760c67ceb4b48ab5e43c0d2a23c294dbbb077c01bb1a1"
+    },
+    {
+     "from": "2017-10-20",
+     "units": 315,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-13/CFR-2018-title-13.zip",
+     "sha256": "7c837e2445e225d8600760c67ceb4b48ab5e43c0d2a23c294dbbb077c01bb1a1"
+    },
+    {
+     "from": "2017-10-24",
+     "units": 315,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-13/CFR-2018-title-13.zip",
+     "sha256": "7c837e2445e225d8600760c67ceb4b48ab5e43c0d2a23c294dbbb077c01bb1a1"
+    },
+    {
+     "from": "2020-01-03",
+     "units": 315,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2020-04-15",
+     "units": 316,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2020-04-20",
+     "units": 316,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2021-01-13",
+     "units": 318,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2021-02-09",
+     "units": 319,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2021-07-20",
+     "units": 319,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2022-08-01",
+     "units": 308,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2022-08-08",
+     "units": 307,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-05-11",
+     "units": 307,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-05-12",
+     "units": 309,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-05-15",
+     "units": 309,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 309,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-11-13",
+     "units": 309,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2024-05-30",
+     "units": 310,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    },
+    {
+     "from": "2024-06-05",
+     "units": 310,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    },
+    {
+     "from": "2024-06-17",
+     "units": 310,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    },
+    {
+     "from": "2024-11-19",
+     "units": 310,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 310,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    },
+    {
+     "from": "2025-06-03",
+     "units": 310,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0121",
+   "short": "13 CFR Part 121",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 121",
+   "url": "https://www.ecfr.gov/current/title-13/part-121",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2017-01-23",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-13/CFR-2018-title-13.zip",
+     "sha256": "7c837e2445e225d8600760c67ceb4b48ab5e43c0d2a23c294dbbb077c01bb1a1"
+    },
+    {
+     "from": "2017-07-03",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-13/CFR-2018-title-13.zip",
+     "sha256": "7c837e2445e225d8600760c67ceb4b48ab5e43c0d2a23c294dbbb077c01bb1a1"
+    },
+    {
+     "from": "2017-10-01",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-13/CFR-2018-title-13.zip",
+     "sha256": "7c837e2445e225d8600760c67ceb4b48ab5e43c0d2a23c294dbbb077c01bb1a1"
+    },
+    {
+     "from": "2020-04-15",
+     "units": 79,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2020-11-16",
+     "units": 79,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2022-07-06",
+     "units": 79,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2022-12-19",
+     "units": 79,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-03-17",
+     "units": 79,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-05-11",
+     "units": 79,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-05-30",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-08-17",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2024-03-18",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    },
+    {
+     "from": "2024-12-17",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    },
+    {
+     "from": "2025-01-16",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    },
+    {
+     "from": "2025-02-18",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0123",
+   "short": "13 CFR Part 123",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 123",
+   "url": "https://www.ecfr.gov/current/title-13/part-123",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 80,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2020-06-03",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2021-09-08",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2022-08-01",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-06-05",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-07-31",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2024-05-30",
+     "units": 62,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    },
+    {
+     "from": "2024-09-09",
+     "units": 62,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    },
+    {
+     "from": "2025-01-21",
+     "units": 62,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    },
+    {
+     "from": "2026-01-29",
+     "units": 71,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-13/ECFR-title13.xml",
+     "sha256": "44c7dfa68f3c38fe2e2b1dc07b5376e52921563c65a9537fbcb6212573a9d24c"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0124",
+   "short": "13 CFR Part 124",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 124",
+   "url": "https://www.ecfr.gov/current/title-13/part-124",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2020-08-06",
+     "units": 64,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2020-11-16",
+     "units": 65,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2020-12-02",
+     "units": 65,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2021-01-13",
+     "units": 65,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2022-12-19",
+     "units": 65,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-05-30",
+     "units": 65,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2025-01-16",
+     "units": 64,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    },
+    {
+     "from": "2025-02-18",
+     "units": 64,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    },
+    {
+     "from": "2026-09-10",
+     "units": 64,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-13/ECFR-title13.xml",
+     "sha256": "44c7dfa68f3c38fe2e2b1dc07b5376e52921563c65a9537fbcb6212573a9d24c"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0125",
+   "short": "13 CFR Part 125",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 125",
+   "url": "https://www.ecfr.gov/current/title-13/part-125",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2017-01-23",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-13/CFR-2018-title-13.zip",
+     "sha256": "7c837e2445e225d8600760c67ceb4b48ab5e43c0d2a23c294dbbb077c01bb1a1"
+    },
+    {
+     "from": "2020-11-16",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2022-06-06",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2022-08-22",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-05-30",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-10-11",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-11-13",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2024-12-17",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    },
+    {
+     "from": "2025-01-16",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    },
+    {
+     "from": "2025-06-04",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0126",
+   "short": "13 CFR Part 126",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 126",
+   "url": "https://www.ecfr.gov/current/title-13/part-126",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2017-12-22",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-13/CFR-2018-title-13.zip",
+     "sha256": "7c837e2445e225d8600760c67ceb4b48ab5e43c0d2a23c294dbbb077c01bb1a1"
+    },
+    {
+     "from": "2019-12-27",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 62,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2020-02-10",
+     "units": 62,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2020-07-15",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2020-11-16",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2021-07-20",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2022-02-07",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-05-10",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-05-30",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-06-05",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2024-12-17",
+     "units": 64,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    },
+    {
+     "from": "2025-01-16",
+     "units": 64,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    },
+    {
+     "from": "2025-06-04",
+     "units": 64,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0127",
+   "short": "13 CFR Part 127",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 127",
+   "url": "https://www.ecfr.gov/current/title-13/part-127",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2019-12-30",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2020-07-15",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2020-10-13",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2022-01-24",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2022-12-19",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-05-30",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2024-12-17",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    },
+    {
+     "from": "2025-01-03",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    },
+    {
+     "from": "2025-01-16",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0128",
+   "short": "13 CFR Part 128",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 128",
+   "url": "https://www.ecfr.gov/current/title-13/part-128",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-05-30",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-07-03",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2024-12-17",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    },
+    {
+     "from": "2025-01-16",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0129",
+   "short": "13 CFR Part 129",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 129",
+   "url": "https://www.ecfr.gov/current/title-13/part-129",
+   "versions": [
+    {
+     "from": "2020-12-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2022-10-18",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0130",
+   "short": "13 CFR Part 130",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 130",
+   "url": "https://www.ecfr.gov/current/title-13/part-130",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2023-12-07",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2024-03-12",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0131",
+   "short": "13 CFR Part 131",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 131",
+   "url": "https://www.ecfr.gov/current/title-13/part-131",
+   "versions": [
+    {
+     "from": "2020-01-24",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0134",
+   "short": "13 CFR Part 134",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 134",
+   "url": "https://www.ecfr.gov/current/title-13/part-134",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 116,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2017-07-03",
+     "units": 134,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-13/CFR-2018-title-13.zip",
+     "sha256": "7c837e2445e225d8600760c67ceb4b48ab5e43c0d2a23c294dbbb077c01bb1a1"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 141,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2020-04-15",
+     "units": 141,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2020-11-06",
+     "units": 141,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2020-11-16",
+     "units": 141,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2021-09-16",
+     "units": 155,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 156,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-05-10",
+     "units": 172,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2023-07-03",
+     "units": 174,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2025-01-03",
+     "units": 174,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    },
+    {
+     "from": "2025-01-16",
+     "units": 174,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0136",
+   "short": "13 CFR Part 136",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 136",
+   "url": "https://www.ecfr.gov/current/title-13/part-136",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0140",
+   "short": "13 CFR Part 140",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 140",
+   "url": "https://www.ecfr.gov/current/title-13/part-140",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0142",
+   "short": "13 CFR Part 142",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 142",
+   "url": "https://www.ecfr.gov/current/title-13/part-142",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2024-06-05",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    },
+    {
+     "from": "2025-06-03",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    },
+    {
+     "from": "2026-05-04",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-13/ECFR-title13.xml",
+     "sha256": "44c7dfa68f3c38fe2e2b1dc07b5376e52921563c65a9537fbcb6212573a9d24c"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0146",
+   "short": "13 CFR Part 146",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 146",
+   "url": "https://www.ecfr.gov/current/title-13/part-146",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2017-02-09",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-13/CFR-2018-title-13.zip",
+     "sha256": "7c837e2445e225d8600760c67ceb4b48ab5e43c0d2a23c294dbbb077c01bb1a1"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2024-06-05",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-13/CFR-2025-title-13.zip",
+     "sha256": "cdeaab4381b2407b5298981d2c5e8f6591014076e16e90773ca198db984423e1"
+    },
+    {
+     "from": "2025-06-03",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-13/ECFR-title13.xml",
+     "sha256": "44c7dfa68f3c38fe2e2b1dc07b5376e52921563c65a9537fbcb6212573a9d24c"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0147",
+   "short": "13 CFR Part 147",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 147",
+   "url": "https://www.ecfr.gov/current/title-13/part-147",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0300",
+   "short": "13 CFR Part 300",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 300",
+   "url": "https://www.ecfr.gov/current/title-13/part-300",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2021-09-24",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0301",
+   "short": "13 CFR Part 301",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 301",
+   "url": "https://www.ecfr.gov/current/title-13/part-301",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2018-01-02",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2025-07-02",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    },
+    {
+     "from": "2025-11-19",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0302",
+   "short": "13 CFR Part 302",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 302",
+   "url": "https://www.ecfr.gov/current/title-13/part-302",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2018-01-02",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2020-03-16",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-13/CFR-2026-title-13.zip",
+     "sha256": "ce13304ccf23a8f9c60d358b4ef4a7c1c5daeaa029dab7236ad13abe9c7ccc67"
+    },
+    {
+     "from": "2026-03-17",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-13/ECFR-title13.xml",
+     "sha256": "44c7dfa68f3c38fe2e2b1dc07b5376e52921563c65a9537fbcb6212573a9d24c"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0303",
+   "short": "13 CFR Part 303",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 303",
+   "url": "https://www.ecfr.gov/current/title-13/part-303",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2018-01-02",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2026-03-17",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-13/ECFR-title13.xml",
+     "sha256": "44c7dfa68f3c38fe2e2b1dc07b5376e52921563c65a9537fbcb6212573a9d24c"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0304",
+   "short": "13 CFR Part 304",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 304",
+   "url": "https://www.ecfr.gov/current/title-13/part-304",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2018-01-02",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0305",
+   "short": "13 CFR Part 305",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 305",
+   "url": "https://www.ecfr.gov/current/title-13/part-305",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2018-01-02",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    },
+    {
+     "from": "2026-03-17",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-13/ECFR-title13.xml",
+     "sha256": "44c7dfa68f3c38fe2e2b1dc07b5376e52921563c65a9537fbcb6212573a9d24c"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0306",
+   "short": "13 CFR Part 306",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 306",
+   "url": "https://www.ecfr.gov/current/title-13/part-306",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0307",
+   "short": "13 CFR Part 307",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 307",
+   "url": "https://www.ecfr.gov/current/title-13/part-307",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2018-01-02",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0308",
+   "short": "13 CFR Part 308",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 308",
+   "url": "https://www.ecfr.gov/current/title-13/part-308",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0309",
+   "short": "13 CFR Part 309",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 309",
+   "url": "https://www.ecfr.gov/current/title-13/part-309",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2018-01-02",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0310",
+   "short": "13 CFR Part 310",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 310",
+   "url": "https://www.ecfr.gov/current/title-13/part-310",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0312",
+   "short": "13 CFR Part 312",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 312",
+   "url": "https://www.ecfr.gov/current/title-13/part-312",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-13/CFR-2018-title-13.zip",
+     "sha256": "7c837e2445e225d8600760c67ceb4b48ab5e43c0d2a23c294dbbb077c01bb1a1"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0313",
+   "short": "13 CFR Part 313",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 313",
+   "url": "https://www.ecfr.gov/current/title-13/part-313",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2017-10-20",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-13/CFR-2018-title-13.zip",
+     "sha256": "7c837e2445e225d8600760c67ceb4b48ab5e43c0d2a23c294dbbb077c01bb1a1"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0314",
+   "short": "13 CFR Part 314",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 314",
+   "url": "https://www.ecfr.gov/current/title-13/part-314",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2018-01-02",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0315",
+   "short": "13 CFR Part 315",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 315",
+   "url": "https://www.ecfr.gov/current/title-13/part-315",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    },
+    {
+     "from": "2020-03-16",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-13/CFR-2024-title-13.zip",
+     "sha256": "23df7adac9f87342f1c06c7a3742a31e509895c159a305f44ff7dac2f70abb43"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0400",
+   "short": "13 CFR Part 400",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 400",
+   "url": "https://www.ecfr.gov/current/title-13/part-400",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-part-0500",
+   "short": "13 CFR Part 500",
+   "title": "Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 500",
+   "url": "https://www.ecfr.gov/current/title-13/part-500",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-13/CFR-2017-title-13.zip",
+     "sha256": "fb63828cc52b69a832dbcb118230481937b9879e3d15655f7a60586a7c4b5ae6"
+    }
+   ]
+  },
+  {
    "slug": "title-17-part-0001",
    "short": "17 CFR Part 1",
    "title": "Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 1",

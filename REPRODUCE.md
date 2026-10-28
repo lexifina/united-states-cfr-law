@@ -2665,6 +2665,55 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-12-part-1808` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1808 | 1 | 2017-01-01 to 2017-01-01 |
 | `title-12-part-1815` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1815 | 1 | 2017-01-01 to 2017-01-01 |
 | `title-12-part-other` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part other | 4 | 2017-01-01 to 2021-03-05 |
+| `title-13-part-0011` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 11 | 1 | 2016-12-28 to 2016-12-28 |
+| `title-13-part-0101` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 101 | 3 | 2016-12-28 to 2026-10-26 |
+| `title-13-part-0102` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 102 | 3 | 2016-12-28 to 2018-01-03 |
+| `title-13-part-0103` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 103 | 2 | 2016-12-28 to 2021-02-09 |
+| `title-13-part-0105` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 105 | 1 | 2016-12-28 to 2016-12-28 |
+| `title-13-part-0106` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 106 | 1 | 2016-12-28 to 2016-12-28 |
+| `title-13-part-0107` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 107 | 11 | 2016-12-28 to 2026-02-02 |
+| `title-13-part-0108` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 108 | 1 | 2016-12-28 to 2016-12-28 |
+| `title-13-part-0109` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 109 | 4 | 2016-12-28 to 2024-05-30 |
+| `title-13-part-0112` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 112 | 2 | 2016-12-28 to 2026-09-29 |
+| `title-13-part-0113` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 113 | 1 | 2016-12-28 to 2016-12-28 |
+| `title-13-part-0114` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 114 | 1 | 2016-12-28 to 2016-12-28 |
+| `title-13-part-0115` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 115 | 7 | 2016-12-28 to 2024-05-30 |
+| `title-13-part-0117` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 117 | 1 | 2016-12-28 to 2016-12-28 |
+| `title-13-part-0119` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 119 | 2 | 2016-12-28 to 2020-11-05 |
+| `title-13-part-0120` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 120 | 24 | 2016-12-28 to 2025-06-03 |
+| `title-13-part-0121` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 121 | 16 | 2016-12-28 to 2025-02-18 |
+| `title-13-part-0123` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 123 | 10 | 2016-12-28 to 2026-01-29 |
+| `title-13-part-0124` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 124 | 10 | 2016-12-28 to 2026-09-10 |
+| `title-13-part-0125` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 125 | 12 | 2016-12-28 to 2025-06-04 |
+| `title-13-part-0126` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 126 | 15 | 2016-12-28 to 2025-06-04 |
+| `title-13-part-0127` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 127 | 10 | 2016-12-28 to 2025-01-16 |
+| `title-13-part-0128` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 128 | 5 | 2023-01-01 to 2025-01-16 |
+| `title-13-part-0129` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 129 | 2 | 2020-12-02 to 2022-10-18 |
+| `title-13-part-0130` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 130 | 3 | 2016-12-28 to 2024-03-12 |
+| `title-13-part-0131` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 131 | 1 | 2020-01-24 to 2020-01-24 |
+| `title-13-part-0134` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 134 | 12 | 2016-12-28 to 2025-01-16 |
+| `title-13-part-0136` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 136 | 1 | 2016-12-28 to 2016-12-28 |
+| `title-13-part-0140` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 140 | 1 | 2016-12-28 to 2016-12-28 |
+| `title-13-part-0142` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 142 | 5 | 2016-12-28 to 2026-05-04 |
+| `title-13-part-0146` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 146 | 6 | 2016-12-28 to 2026-10-26 |
+| `title-13-part-0147` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 147 | 1 | 2016-12-28 to 2016-12-28 |
+| `title-13-part-0300` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 300 | 2 | 2016-12-28 to 2021-09-24 |
+| `title-13-part-0301` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 301 | 4 | 2016-12-28 to 2025-11-19 |
+| `title-13-part-0302` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 302 | 5 | 2016-12-28 to 2026-03-17 |
+| `title-13-part-0303` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 303 | 3 | 2016-12-28 to 2026-03-17 |
+| `title-13-part-0304` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 304 | 2 | 2016-12-28 to 2018-01-02 |
+| `title-13-part-0305` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 305 | 3 | 2016-12-28 to 2026-03-17 |
+| `title-13-part-0306` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 306 | 1 | 2016-12-28 to 2016-12-28 |
+| `title-13-part-0307` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 307 | 2 | 2016-12-28 to 2018-01-02 |
+| `title-13-part-0308` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 308 | 1 | 2016-12-28 to 2016-12-28 |
+| `title-13-part-0309` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 309 | 2 | 2016-12-28 to 2018-01-02 |
+| `title-13-part-0310` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 310 | 1 | 2016-12-28 to 2016-12-28 |
+| `title-13-part-0312` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 312 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-13-part-0313` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 313 | 2 | 2016-12-28 to 2017-10-20 |
+| `title-13-part-0314` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 314 | 2 | 2016-12-28 to 2018-01-02 |
+| `title-13-part-0315` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 315 | 2 | 2016-12-28 to 2020-03-16 |
+| `title-13-part-0400` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 400 | 1 | 2016-12-28 to 2016-12-28 |
+| `title-13-part-0500` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 500 | 1 | 2016-12-28 to 2016-12-28 |
 | `title-17-part-0001` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 1 | 20 | 2017-02-14 to 2026-10-26 |
 | `title-17-part-0002` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 2 | 2 | 2017-02-14 to 2026-05-11 |
 | `title-17-part-0003` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 3 | 7 | 2017-02-14 to 2024-11-25 |
@@ -3157,19 +3206,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 15142 commits:
+The build made 15449 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3140 | first version of an act |
-| 8577 | one law on its in-force day |
-| 3425 | changes no amendment note explains, credited to the publisher |
+| 3189 | first version of an act |
+| 8790 | one law on its in-force day |
+| 3470 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 10178 laws in the record.
-- 19647 tags.
+- 10447 laws in the record.
+- 20056 tags.
 
 ## Dates
 
@@ -3181,7 +3230,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `a729eb901942d561ae8336d0d05df1829e4924ac9d99173acc8ca59b5fdbdf56` (834184559 bytes).
+- Corpus: sha256 `919cf4a8e562f45bb6d207119b73cb731da74138c7bdd1bfb06eb91759df07ac` (841000575 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -3215,6 +3264,7 @@ No second build of this corpus has been compared yet.
 - Title 10: editions read: 2017 annual edition (to 2016-12-31); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-02); eCFR (to 2026-10-26).
 - Title 11: editions read: 2019 annual edition (to 2019-01-01); 2022 annual edition (to 2021-12-28); 2023 annual edition (to 2022-12-29); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 12: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
+- Title 13: editions read: 2017 annual edition (to 2016-12-28); 2018 annual edition (to 2017-12-22); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); 2026 annual edition (to 2025-12-05); eCFR (to 2026-10-26).
 - Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 29: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-11); 2019 annual edition (to 2019-05-14); 2020 annual edition (to 2020-02-18); 2021 annual edition (to 2021-05-06); 2022 annual edition (to 2022-03-17); 2023 annual edition (to 2023-03-23); 2024 annual edition (to 2024-05-31); eCFR (to 2026-10-26).
