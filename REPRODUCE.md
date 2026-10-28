@@ -1194,6 +1194,615 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-06-part-1002` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 1002 | 1 | 2016-12-22 to 2016-12-22 |
 | `title-06-part-1003` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 1003 | 2 | 2016-12-22 to 2017-08-28 |
 | `title-06-part-other` | Title 6 of the Code of Federal Regulations (Domestic Security), Part other | 2 | 2016-12-22 to 2018-07-27 |
+| `title-07-part-0001` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1 | 13 | 2017-01-01 to 2025-04-11 |
+| `title-07-part-0001a` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1a | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0001b` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1b | 4 | 2017-01-01 to 2026-07-02 |
+| `title-07-part-0001c` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1c | 3 | 2017-01-01 to 2018-07-19 |
+| `title-07-part-0002` | Title 7 of the Code of Federal Regulations (Agriculture), Part 2 | 12 | 2017-01-01 to 2026-04-13 |
+| `title-07-part-0003` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3 | 10 | 2017-01-01 to 2025-05-29 |
+| `title-07-part-0005` | Title 7 of the Code of Federal Regulations (Agriculture), Part 5 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0006` | Title 7 of the Code of Federal Regulations (Agriculture), Part 6 | 3 | 2017-01-01 to 2022-08-30 |
+| `title-07-part-0007` | Title 7 of the Code of Federal Regulations (Agriculture), Part 7 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0008` | Title 7 of the Code of Federal Regulations (Agriculture), Part 8 | 2 | 2017-01-01 to 2022-01-01 |
+| `title-07-part-0009` | Title 7 of the Code of Federal Regulations (Agriculture), Part 9 | 7 | 2020-05-21 to 2025-07-10 |
+| `title-07-part-0011` | Title 7 of the Code of Federal Regulations (Agriculture), Part 11 | 2 | 2017-01-01 to 2020-05-28 |
+| `title-07-part-0012` | Title 7 of the Code of Federal Regulations (Agriculture), Part 12 | 5 | 2017-01-01 to 2026-07-29 |
+| `title-07-part-0014` | Title 7 of the Code of Federal Regulations (Agriculture), Part 14 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0015` | Title 7 of the Code of Federal Regulations (Agriculture), Part 15 | 4 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0015a` | Title 7 of the Code of Federal Regulations (Agriculture), Part 15a | 2 | 2017-01-01 to 2017-11-06 |
+| `title-07-part-0015b` | Title 7 of the Code of Federal Regulations (Agriculture), Part 15b | 3 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0015c` | Title 7 of the Code of Federal Regulations (Agriculture), Part 15c | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0015d` | Title 7 of the Code of Federal Regulations (Agriculture), Part 15d | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0015e` | Title 7 of the Code of Federal Regulations (Agriculture), Part 15e | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0015f` | Title 7 of the Code of Federal Regulations (Agriculture), Part 15f | 2 | 2017-01-01 to 2026-04-17 |
+| `title-07-part-0016` | Title 7 of the Code of Federal Regulations (Agriculture), Part 16 | 5 | 2017-01-01 to 2026-05-18 |
+| `title-07-part-0017` | Title 7 of the Code of Federal Regulations (Agriculture), Part 17 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0018` | Title 7 of the Code of Federal Regulations (Agriculture), Part 18 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0020` | Title 7 of the Code of Federal Regulations (Agriculture), Part 20 | 3 | 2017-01-01 to 2019-12-18 |
+| `title-07-part-0021` | Title 7 of the Code of Federal Regulations (Agriculture), Part 21 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0022` | Title 7 of the Code of Federal Regulations (Agriculture), Part 22 | 2 | 2017-01-01 to 2020-10-15 |
+| `title-07-part-0023` | Title 7 of the Code of Federal Regulations (Agriculture), Part 23 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0025` | Title 7 of the Code of Federal Regulations (Agriculture), Part 25 | 2 | 2017-01-01 to 2020-05-28 |
+| `title-07-part-0027` | Title 7 of the Code of Federal Regulations (Agriculture), Part 27 | 3 | 2017-01-01 to 2023-10-06 |
+| `title-07-part-0028` | Title 7 of the Code of Federal Regulations (Agriculture), Part 28 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0029` | Title 7 of the Code of Federal Regulations (Agriculture), Part 29 | 4 | 2017-01-01 to 2025-07-29 |
+| `title-07-part-0030` | Title 7 of the Code of Federal Regulations (Agriculture), Part 30 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0031` | Title 7 of the Code of Federal Regulations (Agriculture), Part 31 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0032` | Title 7 of the Code of Federal Regulations (Agriculture), Part 32 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0033` | Title 7 of the Code of Federal Regulations (Agriculture), Part 33 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0035` | Title 7 of the Code of Federal Regulations (Agriculture), Part 35 | 4 | 2017-01-01 to 2024-01-01 |
+| `title-07-part-0036` | Title 7 of the Code of Federal Regulations (Agriculture), Part 36 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0042` | Title 7 of the Code of Federal Regulations (Agriculture), Part 42 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0043` | Title 7 of the Code of Federal Regulations (Agriculture), Part 43 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0046` | Title 7 of the Code of Federal Regulations (Agriculture), Part 46 | 2 | 2017-01-01 to 2018-03-08 |
+| `title-07-part-0047` | Title 7 of the Code of Federal Regulations (Agriculture), Part 47 | 4 | 2017-01-01 to 2024-01-01 |
+| `title-07-part-0048` | Title 7 of the Code of Federal Regulations (Agriculture), Part 48 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0050` | Title 7 of the Code of Federal Regulations (Agriculture), Part 50 | 4 | 2017-01-01 to 2024-01-01 |
+| `title-07-part-0051` | Title 7 of the Code of Federal Regulations (Agriculture), Part 51 | 14 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0052` | Title 7 of the Code of Federal Regulations (Agriculture), Part 52 | 7 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0053` | Title 7 of the Code of Federal Regulations (Agriculture), Part 53 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0054` | Title 7 of the Code of Federal Regulations (Agriculture), Part 54 | 7 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0056` | Title 7 of the Code of Federal Regulations (Agriculture), Part 56 | 4 | 2017-01-01 to 2024-01-12 |
+| `title-07-part-0057` | Title 7 of the Code of Federal Regulations (Agriculture), Part 57 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0058` | Title 7 of the Code of Federal Regulations (Agriculture), Part 58 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0059` | Title 7 of the Code of Federal Regulations (Agriculture), Part 59 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0060` | Title 7 of the Code of Federal Regulations (Agriculture), Part 60 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0061` | Title 7 of the Code of Federal Regulations (Agriculture), Part 61 | 2 | 2017-01-01 to 2020-02-11 |
+| `title-07-part-0062` | Title 7 of the Code of Federal Regulations (Agriculture), Part 62 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0063` | Title 7 of the Code of Federal Regulations (Agriculture), Part 63 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0065` | Title 7 of the Code of Federal Regulations (Agriculture), Part 65 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0066` | Title 7 of the Code of Federal Regulations (Agriculture), Part 66 | 3 | 2019-01-01 to 2026-10-26 |
+| `title-07-part-0070` | Title 7 of the Code of Federal Regulations (Agriculture), Part 70 | 4 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0075` | Title 7 of the Code of Federal Regulations (Agriculture), Part 75 | 2 | 2017-01-01 to 2020-02-11 |
+| `title-07-part-0080` | Title 7 of the Code of Federal Regulations (Agriculture), Part 80 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0081` | Title 7 of the Code of Federal Regulations (Agriculture), Part 81 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0082` | Title 7 of the Code of Federal Regulations (Agriculture), Part 82 | 2 | 2017-01-01 to 2026-08-03 |
+| `title-07-part-0090` | Title 7 of the Code of Federal Regulations (Agriculture), Part 90 | 2 | 2017-01-01 to 2020-11-05 |
+| `title-07-part-0091` | Title 7 of the Code of Federal Regulations (Agriculture), Part 91 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0093` | Title 7 of the Code of Federal Regulations (Agriculture), Part 93 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0094` | Title 7 of the Code of Federal Regulations (Agriculture), Part 94 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0097` | Title 7 of the Code of Federal Regulations (Agriculture), Part 97 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0098` | Title 7 of the Code of Federal Regulations (Agriculture), Part 98 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0110` | Title 7 of the Code of Federal Regulations (Agriculture), Part 110 | 3 | 2017-01-01 to 2025-07-11 |
+| `title-07-part-0160` | Title 7 of the Code of Federal Regulations (Agriculture), Part 160 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0170` | Title 7 of the Code of Federal Regulations (Agriculture), Part 170 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0180` | Title 7 of the Code of Federal Regulations (Agriculture), Part 180 | 1 | 2023-01-01 to 2023-01-01 |
+| `title-07-part-0201` | Title 7 of the Code of Federal Regulations (Agriculture), Part 201 | 4 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0202` | Title 7 of the Code of Federal Regulations (Agriculture), Part 202 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0205` | Title 7 of the Code of Federal Regulations (Agriculture), Part 205 | 26 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0210` | Title 7 of the Code of Federal Regulations (Agriculture), Part 210 | 19 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0215` | Title 7 of the Code of Federal Regulations (Agriculture), Part 215 | 10 | 2017-01-01 to 2026-09-09 |
+| `title-07-part-0220` | Title 7 of the Code of Federal Regulations (Agriculture), Part 220 | 14 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0225` | Title 7 of the Code of Federal Regulations (Agriculture), Part 225 | 11 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0226` | Title 7 of the Code of Federal Regulations (Agriculture), Part 226 | 14 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0227` | Title 7 of the Code of Federal Regulations (Agriculture), Part 227 | 2 | 2017-01-01 to 2018-04-03 |
+| `title-07-part-0235` | Title 7 of the Code of Federal Regulations (Agriculture), Part 235 | 4 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0240` | Title 7 of the Code of Federal Regulations (Agriculture), Part 240 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0245` | Title 7 of the Code of Federal Regulations (Agriculture), Part 245 | 3 | 2017-01-01 to 2025-06-06 |
+| `title-07-part-0246` | Title 7 of the Code of Federal Regulations (Agriculture), Part 246 | 6 | 2017-01-01 to 2026-06-24 |
+| `title-07-part-0247` | Title 7 of the Code of Federal Regulations (Agriculture), Part 247 | 4 | 2017-01-01 to 2024-12-30 |
+| `title-07-part-0248` | Title 7 of the Code of Federal Regulations (Agriculture), Part 248 | 2 | 2017-01-01 to 2018-04-03 |
+| `title-07-part-0249` | Title 7 of the Code of Federal Regulations (Agriculture), Part 249 | 2 | 2017-01-01 to 2018-04-03 |
+| `title-07-part-0250` | Title 7 of the Code of Federal Regulations (Agriculture), Part 250 | 3 | 2017-01-01 to 2024-12-30 |
+| `title-07-part-0251` | Title 7 of the Code of Federal Regulations (Agriculture), Part 251 | 4 | 2017-01-01 to 2024-12-30 |
+| `title-07-part-0252` | Title 7 of the Code of Federal Regulations (Agriculture), Part 252 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0253` | Title 7 of the Code of Federal Regulations (Agriculture), Part 253 | 5 | 2017-01-01 to 2025-07-11 |
+| `title-07-part-0254` | Title 7 of the Code of Federal Regulations (Agriculture), Part 254 | 2 | 2017-01-01 to 2024-12-30 |
+| `title-07-part-0271` | Title 7 of the Code of Federal Regulations (Agriculture), Part 271 | 9 | 2017-01-01 to 2026-07-07 |
+| `title-07-part-0272` | Title 7 of the Code of Federal Regulations (Agriculture), Part 272 | 8 | 2017-01-01 to 2024-02-12 |
+| `title-07-part-0273` | Title 7 of the Code of Federal Regulations (Agriculture), Part 273 | 13 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0274` | Title 7 of the Code of Federal Regulations (Agriculture), Part 274 | 3 | 2017-01-01 to 2020-09-23 |
+| `title-07-part-0275` | Title 7 of the Code of Federal Regulations (Agriculture), Part 275 | 5 | 2017-01-01 to 2023-04-18 |
+| `title-07-part-0276` | Title 7 of the Code of Federal Regulations (Agriculture), Part 276 | 2 | 2017-01-01 to 2017-05-08 |
+| `title-07-part-0277` | Title 7 of the Code of Federal Regulations (Agriculture), Part 277 | 4 | 2017-01-01 to 2018-04-03 |
+| `title-07-part-0278` | Title 7 of the Code of Federal Regulations (Agriculture), Part 278 | 4 | 2017-01-01 to 2026-07-07 |
+| `title-07-part-0279` | Title 7 of the Code of Federal Regulations (Agriculture), Part 279 | 3 | 2017-01-01 to 2020-10-26 |
+| `title-07-part-0280` | Title 7 of the Code of Federal Regulations (Agriculture), Part 280 | 2 | 2017-01-01 to 2017-05-08 |
+| `title-07-part-0281` | Title 7 of the Code of Federal Regulations (Agriculture), Part 281 | 3 | 2017-01-01 to 2023-01-01 |
+| `title-07-part-0282` | Title 7 of the Code of Federal Regulations (Agriculture), Part 282 | 2 | 2017-01-01 to 2017-05-08 |
+| `title-07-part-0283` | Title 7 of the Code of Federal Regulations (Agriculture), Part 283 | 2 | 2017-01-01 to 2017-05-08 |
+| `title-07-part-0284` | Title 7 of the Code of Federal Regulations (Agriculture), Part 284 | 1 | 2020-11-04 to 2020-11-04 |
+| `title-07-part-0285` | Title 7 of the Code of Federal Regulations (Agriculture), Part 285 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0292` | Title 7 of the Code of Federal Regulations (Agriculture), Part 292 | 3 | 2023-12-29 to 2025-08-05 |
+| `title-07-part-0295` | Title 7 of the Code of Federal Regulations (Agriculture), Part 295 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0300` | Title 7 of the Code of Federal Regulations (Agriculture), Part 300 | 2 | 2017-01-01 to 2019-02-07 |
+| `title-07-part-0301` | Title 7 of the Code of Federal Regulations (Agriculture), Part 301 | 11 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0302` | Title 7 of the Code of Federal Regulations (Agriculture), Part 302 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0305` | Title 7 of the Code of Federal Regulations (Agriculture), Part 305 | 4 | 2017-01-01 to 2024-10-01 |
+| `title-07-part-0318` | Title 7 of the Code of Federal Regulations (Agriculture), Part 318 | 5 | 2017-01-01 to 2019-08-09 |
+| `title-07-part-0319` | Title 7 of the Code of Federal Regulations (Agriculture), Part 319 | 17 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0322` | Title 7 of the Code of Federal Regulations (Agriculture), Part 322 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0330` | Title 7 of the Code of Federal Regulations (Agriculture), Part 330 | 4 | 2017-01-01 to 2025-06-16 |
+| `title-07-part-0331` | Title 7 of the Code of Federal Regulations (Agriculture), Part 331 | 4 | 2017-01-01 to 2025-01-16 |
+| `title-07-part-0340` | Title 7 of the Code of Federal Regulations (Agriculture), Part 340 | 5 | 2017-01-01 to 2026-10-08 |
+| `title-07-part-0351` | Title 7 of the Code of Federal Regulations (Agriculture), Part 351 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0352` | Title 7 of the Code of Federal Regulations (Agriculture), Part 352 | 3 | 2017-01-01 to 2023-01-01 |
+| `title-07-part-0353` | Title 7 of the Code of Federal Regulations (Agriculture), Part 353 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0354` | Title 7 of the Code of Federal Regulations (Agriculture), Part 354 | 3 | 2017-01-01 to 2025-08-15 |
+| `title-07-part-0355` | Title 7 of the Code of Federal Regulations (Agriculture), Part 355 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0356` | Title 7 of the Code of Federal Regulations (Agriculture), Part 356 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0357` | Title 7 of the Code of Federal Regulations (Agriculture), Part 357 | 2 | 2017-01-01 to 2020-03-02 |
+| `title-07-part-0360` | Title 7 of the Code of Federal Regulations (Agriculture), Part 360 | 2 | 2017-01-01 to 2018-04-18 |
+| `title-07-part-0361` | Title 7 of the Code of Federal Regulations (Agriculture), Part 361 | 2 | 2017-01-01 to 2018-04-18 |
+| `title-07-part-0370` | Title 7 of the Code of Federal Regulations (Agriculture), Part 370 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0371` | Title 7 of the Code of Federal Regulations (Agriculture), Part 371 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0372` | Title 7 of the Code of Federal Regulations (Agriculture), Part 372 | 4 | 2017-01-01 to 2025-07-03 |
+| `title-07-part-0380` | Title 7 of the Code of Federal Regulations (Agriculture), Part 380 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0400` | Title 7 of the Code of Federal Regulations (Agriculture), Part 400 | 13 | 2017-01-01 to 2026-05-01 |
+| `title-07-part-0402` | Title 7 of the Code of Federal Regulations (Agriculture), Part 402 | 4 | 2017-01-01 to 2026-05-01 |
+| `title-07-part-0407` | Title 7 of the Code of Federal Regulations (Agriculture), Part 407 | 8 | 2017-01-01 to 2026-05-01 |
+| `title-07-part-0412` | Title 7 of the Code of Federal Regulations (Agriculture), Part 412 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0457` | Title 7 of the Code of Federal Regulations (Agriculture), Part 457 | 32 | 2017-01-01 to 2026-05-01 |
+| `title-07-part-0460` | Title 7 of the Code of Federal Regulations (Agriculture), Part 460 | 4 | 2019-09-13 to 2025-08-14 |
+| `title-07-part-0500` | Title 7 of the Code of Federal Regulations (Agriculture), Part 500 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0501` | Title 7 of the Code of Federal Regulations (Agriculture), Part 501 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0502` | Title 7 of the Code of Federal Regulations (Agriculture), Part 502 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0503` | Title 7 of the Code of Federal Regulations (Agriculture), Part 503 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0504` | Title 7 of the Code of Federal Regulations (Agriculture), Part 504 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0505` | Title 7 of the Code of Federal Regulations (Agriculture), Part 505 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0510` | Title 7 of the Code of Federal Regulations (Agriculture), Part 510 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0520` | Title 7 of the Code of Federal Regulations (Agriculture), Part 520 | 2 | 2017-01-01 to 2025-07-03 |
+| `title-07-part-0550` | Title 7 of the Code of Federal Regulations (Agriculture), Part 550 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0600` | Title 7 of the Code of Federal Regulations (Agriculture), Part 600 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0601` | Title 7 of the Code of Federal Regulations (Agriculture), Part 601 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0610` | Title 7 of the Code of Federal Regulations (Agriculture), Part 610 | 2 | 2017-01-01 to 2019-05-06 |
+| `title-07-part-0611` | Title 7 of the Code of Federal Regulations (Agriculture), Part 611 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0612` | Title 7 of the Code of Federal Regulations (Agriculture), Part 612 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0613` | Title 7 of the Code of Federal Regulations (Agriculture), Part 613 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0614` | Title 7 of the Code of Federal Regulations (Agriculture), Part 614 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0621` | Title 7 of the Code of Federal Regulations (Agriculture), Part 621 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0622` | Title 7 of the Code of Federal Regulations (Agriculture), Part 622 | 3 | 2017-01-01 to 2024-08-14 |
+| `title-07-part-0623` | Title 7 of the Code of Federal Regulations (Agriculture), Part 623 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0624` | Title 7 of the Code of Federal Regulations (Agriculture), Part 624 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0625` | Title 7 of the Code of Federal Regulations (Agriculture), Part 625 | 3 | 2017-01-01 to 2019-05-06 |
+| `title-07-part-0630` | Title 7 of the Code of Federal Regulations (Agriculture), Part 630 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0631` | Title 7 of the Code of Federal Regulations (Agriculture), Part 631 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0632` | Title 7 of the Code of Federal Regulations (Agriculture), Part 632 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0633` | Title 7 of the Code of Federal Regulations (Agriculture), Part 633 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0634` | Title 7 of the Code of Federal Regulations (Agriculture), Part 634 | 2 | 2017-01-01 to 2020-01-01 |
+| `title-07-part-0635` | Title 7 of the Code of Federal Regulations (Agriculture), Part 635 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0636` | Title 7 of the Code of Federal Regulations (Agriculture), Part 636 | 3 | 2017-01-01 to 2025-07-10 |
+| `title-07-part-0650` | Title 7 of the Code of Federal Regulations (Agriculture), Part 650 | 2 | 2017-01-01 to 2025-07-03 |
+| `title-07-part-0652` | Title 7 of the Code of Federal Regulations (Agriculture), Part 652 | 2 | 2017-01-01 to 2019-05-06 |
+| `title-07-part-0653` | Title 7 of the Code of Federal Regulations (Agriculture), Part 653 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0654` | Title 7 of the Code of Federal Regulations (Agriculture), Part 654 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0656` | Title 7 of the Code of Federal Regulations (Agriculture), Part 656 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0657` | Title 7 of the Code of Federal Regulations (Agriculture), Part 657 | 2 | 2017-01-01 to 2023-01-01 |
+| `title-07-part-0658` | Title 7 of the Code of Federal Regulations (Agriculture), Part 658 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0661` | Title 7 of the Code of Federal Regulations (Agriculture), Part 661 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0701` | Title 7 of the Code of Federal Regulations (Agriculture), Part 701 | 6 | 2017-01-01 to 2025-06-18 |
+| `title-07-part-0707` | Title 7 of the Code of Federal Regulations (Agriculture), Part 707 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0708` | Title 7 of the Code of Federal Regulations (Agriculture), Part 708 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0714` | Title 7 of the Code of Federal Regulations (Agriculture), Part 714 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0718` | Title 7 of the Code of Federal Regulations (Agriculture), Part 718 | 5 | 2017-01-01 to 2026-01-12 |
+| `title-07-part-0735` | Title 7 of the Code of Federal Regulations (Agriculture), Part 735 | 2 | 2017-01-01 to 2019-08-30 |
+| `title-07-part-0755` | Title 7 of the Code of Federal Regulations (Agriculture), Part 755 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0756` | Title 7 of the Code of Federal Regulations (Agriculture), Part 756 | 1 | 2021-12-13 to 2021-12-13 |
+| `title-07-part-0759` | Title 7 of the Code of Federal Regulations (Agriculture), Part 759 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0760` | Title 7 of the Code of Federal Regulations (Agriculture), Part 760 | 16 | 2017-01-01 to 2026-03-09 |
+| `title-07-part-0761` | Title 7 of the Code of Federal Regulations (Agriculture), Part 761 | 9 | 2017-01-01 to 2026-10-01 |
+| `title-07-part-0762` | Title 7 of the Code of Federal Regulations (Agriculture), Part 762 | 7 | 2017-01-01 to 2026-10-01 |
+| `title-07-part-0763` | Title 7 of the Code of Federal Regulations (Agriculture), Part 763 | 2 | 2017-01-01 to 2026-10-01 |
+| `title-07-part-0764` | Title 7 of the Code of Federal Regulations (Agriculture), Part 764 | 6 | 2017-01-01 to 2026-10-01 |
+| `title-07-part-0765` | Title 7 of the Code of Federal Regulations (Agriculture), Part 765 | 6 | 2017-01-01 to 2026-10-01 |
+| `title-07-part-0766` | Title 7 of the Code of Federal Regulations (Agriculture), Part 766 | 8 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0767` | Title 7 of the Code of Federal Regulations (Agriculture), Part 767 | 3 | 2017-01-01 to 2026-10-01 |
+| `title-07-part-0768` | Title 7 of the Code of Federal Regulations (Agriculture), Part 768 | 2 | 2022-03-07 to 2026-10-01 |
+| `title-07-part-0769` | Title 7 of the Code of Federal Regulations (Agriculture), Part 769 | 3 | 2017-01-01 to 2024-09-25 |
+| `title-07-part-0770` | Title 7 of the Code of Federal Regulations (Agriculture), Part 770 | 3 | 2017-01-01 to 2026-10-01 |
+| `title-07-part-0771` | Title 7 of the Code of Federal Regulations (Agriculture), Part 771 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0772` | Title 7 of the Code of Federal Regulations (Agriculture), Part 772 | 3 | 2017-01-01 to 2026-10-01 |
+| `title-07-part-0773` | Title 7 of the Code of Federal Regulations (Agriculture), Part 773 | 2 | 2017-01-01 to 2026-10-01 |
+| `title-07-part-0774` | Title 7 of the Code of Federal Regulations (Agriculture), Part 774 | 2 | 2017-01-01 to 2026-10-01 |
+| `title-07-part-0780` | Title 7 of the Code of Federal Regulations (Agriculture), Part 780 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0781` | Title 7 of the Code of Federal Regulations (Agriculture), Part 781 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0782` | Title 7 of the Code of Federal Regulations (Agriculture), Part 782 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0784` | Title 7 of the Code of Federal Regulations (Agriculture), Part 784 | 2 | 2017-01-01 to 2025-05-29 |
+| `title-07-part-0785` | Title 7 of the Code of Federal Regulations (Agriculture), Part 785 | 2 | 2017-01-01 to 2022-03-07 |
+| `title-07-part-0786` | Title 7 of the Code of Federal Regulations (Agriculture), Part 786 | 2 | 2017-01-01 to 2025-06-18 |
+| `title-07-part-0789` | Title 7 of the Code of Federal Regulations (Agriculture), Part 789 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0792` | Title 7 of the Code of Federal Regulations (Agriculture), Part 792 | 2 | 2017-01-01 to 2020-06-17 |
+| `title-07-part-0795` | Title 7 of the Code of Federal Regulations (Agriculture), Part 795 | 2 | 2017-01-01 to 2025-05-29 |
+| `title-07-part-0798` | Title 7 of the Code of Federal Regulations (Agriculture), Part 798 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0799` | Title 7 of the Code of Federal Regulations (Agriculture), Part 799 | 2 | 2017-01-01 to 2025-07-03 |
+| `title-07-part-0800` | Title 7 of the Code of Federal Regulations (Agriculture), Part 800 | 11 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0801` | Title 7 of the Code of Federal Regulations (Agriculture), Part 801 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0802` | Title 7 of the Code of Federal Regulations (Agriculture), Part 802 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-0810` | Title 7 of the Code of Federal Regulations (Agriculture), Part 810 | 6 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0868` | Title 7 of the Code of Federal Regulations (Agriculture), Part 868 | 4 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0869` | Title 7 of the Code of Federal Regulations (Agriculture), Part 869 | 1 | 2019-08-30 to 2019-08-30 |
+| `title-07-part-0870` | Title 7 of the Code of Federal Regulations (Agriculture), Part 870 | 3 | 2021-10-01 to 2026-02-24 |
+| `title-07-part-0900` | Title 7 of the Code of Federal Regulations (Agriculture), Part 900 | 7 | 2017-01-01 to 2023-11-24 |
+| `title-07-part-0905` | Title 7 of the Code of Federal Regulations (Agriculture), Part 905 | 11 | 2017-01-01 to 2026-05-29 |
+| `title-07-part-0906` | Title 7 of the Code of Federal Regulations (Agriculture), Part 906 | 7 | 2017-01-01 to 2025-09-26 |
+| `title-07-part-0915` | Title 7 of the Code of Federal Regulations (Agriculture), Part 915 | 5 | 2017-01-01 to 2026-04-08 |
+| `title-07-part-0917` | Title 7 of the Code of Federal Regulations (Agriculture), Part 917 | 2 | 2017-01-01 to 2023-11-24 |
+| `title-07-part-0920` | Title 7 of the Code of Federal Regulations (Agriculture), Part 920 | 5 | 2017-01-01 to 2023-11-24 |
+| `title-07-part-0922` | Title 7 of the Code of Federal Regulations (Agriculture), Part 922 | 4 | 2017-01-01 to 2023-07-27 |
+| `title-07-part-0923` | Title 7 of the Code of Federal Regulations (Agriculture), Part 923 | 2 | 2017-01-01 to 2019-12-27 |
+| `title-07-part-0925` | Title 7 of the Code of Federal Regulations (Agriculture), Part 925 | 5 | 2017-01-01 to 2026-05-11 |
+| `title-07-part-0926` | Title 7 of the Code of Federal Regulations (Agriculture), Part 926 | 2 | 2017-01-01 to 2024-07-31 |
+| `title-07-part-0927` | Title 7 of the Code of Federal Regulations (Agriculture), Part 927 | 11 | 2017-01-01 to 2025-10-15 |
+| `title-07-part-0929` | Title 7 of the Code of Federal Regulations (Agriculture), Part 929 | 6 | 2017-01-01 to 2024-07-31 |
+| `title-07-part-0930` | Title 7 of the Code of Federal Regulations (Agriculture), Part 930 | 14 | 2017-01-01 to 2026-09-28 |
+| `title-07-part-0932` | Title 7 of the Code of Federal Regulations (Agriculture), Part 932 | 13 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0944` | Title 7 of the Code of Federal Regulations (Agriculture), Part 944 | 7 | 2017-01-01 to 2026-04-08 |
+| `title-07-part-0945` | Title 7 of the Code of Federal Regulations (Agriculture), Part 945 | 6 | 2017-01-01 to 2025-10-22 |
+| `title-07-part-0946` | Title 7 of the Code of Federal Regulations (Agriculture), Part 946 | 2 | 2017-01-01 to 2022-03-02 |
+| `title-07-part-0948` | Title 7 of the Code of Federal Regulations (Agriculture), Part 948 | 4 | 2017-01-01 to 2023-11-24 |
+| `title-07-part-0953` | Title 7 of the Code of Federal Regulations (Agriculture), Part 953 | 2 | 2017-01-01 to 2019-03-21 |
+| `title-07-part-0955` | Title 7 of the Code of Federal Regulations (Agriculture), Part 955 | 2 | 2017-01-01 to 2023-11-24 |
+| `title-07-part-0956` | Title 7 of the Code of Federal Regulations (Agriculture), Part 956 | 6 | 2017-01-01 to 2026-05-04 |
+| `title-07-part-0958` | Title 7 of the Code of Federal Regulations (Agriculture), Part 958 | 3 | 2017-01-01 to 2024-06-24 |
+| `title-07-part-0959` | Title 7 of the Code of Federal Regulations (Agriculture), Part 959 | 7 | 2017-01-01 to 2024-09-20 |
+| `title-07-part-0966` | Title 7 of the Code of Federal Regulations (Agriculture), Part 966 | 9 | 2017-01-01 to 2024-08-02 |
+| `title-07-part-0980` | Title 7 of the Code of Federal Regulations (Agriculture), Part 980 | 3 | 2017-01-01 to 2023-11-24 |
+| `title-07-part-0981` | Title 7 of the Code of Federal Regulations (Agriculture), Part 981 | 8 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0982` | Title 7 of the Code of Federal Regulations (Agriculture), Part 982 | 5 | 2017-01-01 to 2024-04-05 |
+| `title-07-part-0983` | Title 7 of the Code of Federal Regulations (Agriculture), Part 983 | 5 | 2017-01-01 to 2025-10-20 |
+| `title-07-part-0984` | Title 7 of the Code of Federal Regulations (Agriculture), Part 984 | 11 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-0985` | Title 7 of the Code of Federal Regulations (Agriculture), Part 985 | 16 | 2017-01-01 to 2026-06-08 |
+| `title-07-part-0986` | Title 7 of the Code of Federal Regulations (Agriculture), Part 986 | 7 | 2017-01-01 to 2022-05-16 |
+| `title-07-part-0987` | Title 7 of the Code of Federal Regulations (Agriculture), Part 987 | 5 | 2017-01-01 to 2026-06-12 |
+| `title-07-part-0989` | Title 7 of the Code of Federal Regulations (Agriculture), Part 989 | 10 | 2017-01-01 to 2026-10-09 |
+| `title-07-part-0990` | Title 7 of the Code of Federal Regulations (Agriculture), Part 990 | 2 | 2019-10-31 to 2021-03-22 |
+| `title-07-part-0993` | Title 7 of the Code of Federal Regulations (Agriculture), Part 993 | 6 | 2017-01-01 to 2023-11-24 |
+| `title-07-part-0996` | Title 7 of the Code of Federal Regulations (Agriculture), Part 996 | 3 | 2017-01-01 to 2023-11-24 |
+| `title-07-part-0999` | Title 7 of the Code of Federal Regulations (Agriculture), Part 999 | 4 | 2017-01-01 to 2025-11-06 |
+| `title-07-part-1000` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1000 | 5 | 2017-01-01 to 2026-09-18 |
+| `title-07-part-1001` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1001 | 2 | 2017-01-01 to 2025-06-01 |
+| `title-07-part-1005` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1005 | 3 | 2017-01-01 to 2025-06-01 |
+| `title-07-part-1006` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1006 | 4 | 2017-01-01 to 2025-06-01 |
+| `title-07-part-1007` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1007 | 3 | 2017-01-01 to 2025-06-01 |
+| `title-07-part-1030` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1030 | 2 | 2017-01-01 to 2025-06-01 |
+| `title-07-part-1032` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1032 | 2 | 2017-01-01 to 2025-06-01 |
+| `title-07-part-1033` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1033 | 2 | 2017-01-01 to 2025-06-01 |
+| `title-07-part-1051` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1051 | 2 | 2018-10-17 to 2025-06-01 |
+| `title-07-part-1124` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1124 | 2 | 2017-01-01 to 2025-06-01 |
+| `title-07-part-1126` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1126 | 2 | 2017-01-01 to 2025-06-01 |
+| `title-07-part-1131` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1131 | 2 | 2017-01-01 to 2025-06-01 |
+| `title-07-part-1135` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1135 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1145` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1145 | 4 | 2017-01-01 to 2026-03-02 |
+| `title-07-part-1146` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1146 | 5 | 2019-09-16 to 2025-07-28 |
+| `title-07-part-1147` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1147 | 3 | 2021-09-01 to 2025-07-28 |
+| `title-07-part-1150` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1150 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1160` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1160 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1170` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1170 | 2 | 2017-01-01 to 2025-06-01 |
+| `title-07-part-1200` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1200 | 4 | 2017-01-01 to 2020-08-27 |
+| `title-07-part-1205` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1205 | 12 | 2017-01-01 to 2026-03-01 |
+| `title-07-part-1206` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1206 | 4 | 2017-01-01 to 2021-06-26 |
+| `title-07-part-1207` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1207 | 3 | 2017-01-01 to 2024-02-07 |
+| `title-07-part-1208` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1208 | 2 | 2017-01-01 to 2019-09-25 |
+| `title-07-part-1209` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1209 | 2 | 2017-01-01 to 2019-05-24 |
+| `title-07-part-1210` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1210 | 4 | 2017-01-01 to 2025-01-22 |
+| `title-07-part-1212` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1212 | 4 | 2017-01-01 to 2026-09-01 |
+| `title-07-part-1214` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1214 | 3 | 2017-01-01 to 2026-04-09 |
+| `title-07-part-1215` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1215 | 2 | 2017-01-01 to 2026-04-09 |
+| `title-07-part-1216` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1216 | 4 | 2017-01-01 to 2022-01-20 |
+| `title-07-part-1217` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1217 | 6 | 2017-01-01 to 2026-10-22 |
+| `title-07-part-1218` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1218 | 2 | 2017-01-01 to 2021-12-27 |
+| `title-07-part-1219` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1219 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1220` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1220 | 5 | 2017-01-01 to 2024-12-18 |
+| `title-07-part-1221` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1221 | 2 | 2017-01-01 to 2018-10-23 |
+| `title-07-part-1222` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1222 | 4 | 2017-01-01 to 2026-03-09 |
+| `title-07-part-1223` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1223 | 1 | 2021-02-12 to 2021-02-12 |
+| `title-07-part-1230` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1230 | 2 | 2017-01-01 to 2023-01-01 |
+| `title-07-part-1250` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1250 | 3 | 2017-01-01 to 2020-11-05 |
+| `title-07-part-1260` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1260 | 8 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1280` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1280 | 4 | 2017-01-01 to 2022-05-16 |
+| `title-07-part-1291` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1291 | 2 | 2017-01-01 to 2021-06-26 |
+| `title-07-part-1400` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1400 | 7 | 2017-01-01 to 2026-06-02 |
+| `title-07-part-1401` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1401 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1402` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1402 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1403` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1403 | 2 | 2017-01-01 to 2020-06-17 |
+| `title-07-part-1404` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1404 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1405` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1405 | 2 | 2017-01-01 to 2025-07-15 |
+| `title-07-part-1407` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1407 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1409` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1409 | 4 | 2017-01-01 to 2019-08-01 |
+| `title-07-part-1410` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1410 | 4 | 2017-01-01 to 2025-07-10 |
+| `title-07-part-1412` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1412 | 8 | 2017-01-01 to 2026-07-09 |
+| `title-07-part-1413` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1413 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1414` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1414 | 3 | 2026-02-23 to 2026-08-27 |
+| `title-07-part-1415` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1415 | 2 | 2017-01-01 to 2018-05-18 |
+| `title-07-part-1416` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1416 | 9 | 2017-01-01 to 2026-07-09 |
+| `title-07-part-1417` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1417 | 1 | 2026-07-06 to 2026-07-06 |
+| `title-07-part-1421` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1421 | 5 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1423` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1423 | 2 | 2017-01-01 to 2019-06-24 |
+| `title-07-part-1424` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1424 | 2 | 2017-01-01 to 2025-07-15 |
+| `title-07-part-1425` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1425 | 2 | 2017-01-01 to 2021-12-13 |
+| `title-07-part-1427` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1427 | 4 | 2017-01-01 to 2026-07-09 |
+| `title-07-part-1429` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1429 | 2 | 2017-01-01 to 2025-07-15 |
+| `title-07-part-1430` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1430 | 7 | 2017-01-01 to 2026-07-09 |
+| `title-07-part-1434` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1434 | 3 | 2017-01-01 to 2026-07-09 |
+| `title-07-part-1435` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1435 | 4 | 2017-01-01 to 2026-09-25 |
+| `title-07-part-1436` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1436 | 2 | 2017-01-01 to 2017-04-03 |
+| `title-07-part-1437` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1437 | 5 | 2017-01-01 to 2023-11-28 |
+| `title-07-part-1450` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1450 | 2 | 2017-01-01 to 2023-01-11 |
+| `title-07-part-1455` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1455 | 2 | 2017-01-01 to 2019-05-06 |
+| `title-07-part-1463` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1463 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1464` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1464 | 4 | 2020-02-13 to 2022-01-01 |
+| `title-07-part-1465` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1465 | 3 | 2017-01-01 to 2025-07-10 |
+| `title-07-part-1466` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1466 | 4 | 2017-01-01 to 2020-10-26 |
+| `title-07-part-1467` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1467 | 2 | 2017-01-01 to 2025-07-10 |
+| `title-07-part-1468` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1468 | 7 | 2017-01-01 to 2025-07-10 |
+| `title-07-part-1469` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1469 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1470` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1470 | 5 | 2017-01-01 to 2021-08-03 |
+| `title-07-part-1471` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1471 | 3 | 2017-01-01 to 2021-12-06 |
+| `title-07-part-1484` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1484 | 3 | 2017-01-01 to 2021-12-06 |
+| `title-07-part-1485` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1485 | 3 | 2017-01-01 to 2021-12-06 |
+| `title-07-part-1486` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1486 | 2 | 2017-01-01 to 2019-12-20 |
+| `title-07-part-1487` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1487 | 2 | 2017-01-01 to 2019-12-23 |
+| `title-07-part-1488` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1488 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1489` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1489 | 2 | 2018-08-30 to 2023-11-17 |
+| `title-07-part-1491` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1491 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1493` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1493 | 2 | 2017-01-01 to 2019-06-18 |
+| `title-07-part-1499` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1499 | 4 | 2017-01-01 to 2023-01-11 |
+| `title-07-part-1520` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1520 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1530` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1530 | 2 | 2017-01-01 to 2020-05-28 |
+| `title-07-part-1540` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1540 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1560` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1560 | 2 | 2017-01-01 to 2025-07-18 |
+| `title-07-part-1570` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1570 | 2 | 2017-01-01 to 2025-07-18 |
+| `title-07-part-1580` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1580 | 2 | 2017-01-01 to 2020-05-28 |
+| `title-07-part-1590` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1590 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1599` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1599 | 2 | 2017-01-01 to 2019-11-26 |
+| `title-07-part-1600` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1600 | 2 | 2017-01-01 to 2020-01-06 |
+| `title-07-part-1610` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1610 | 2 | 2017-01-01 to 2020-01-06 |
+| `title-07-part-1700` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1700 | 2 | 2017-01-01 to 2020-01-06 |
+| `title-07-part-1703` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1703 | 2 | 2017-01-01 to 2017-12-27 |
+| `title-07-part-1709` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1709 | 4 | 2017-01-01 to 2023-05-08 |
+| `title-07-part-1710` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1710 | 13 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1714` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1714 | 6 | 2017-01-01 to 2023-02-28 |
+| `title-07-part-1717` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1717 | 7 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1718` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1718 | 2 | 2017-01-01 to 2021-09-07 |
+| `title-07-part-1719` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1719 | 3 | 2020-04-02 to 2024-05-13 |
+| `title-07-part-1720` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1720 | 2 | 2017-01-01 to 2022-12-06 |
+| `title-07-part-1721` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1721 | 4 | 2017-01-01 to 2024-06-10 |
+| `title-07-part-1724` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1724 | 3 | 2017-01-01 to 2023-02-28 |
+| `title-07-part-1726` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1726 | 4 | 2017-01-01 to 2024-06-10 |
+| `title-07-part-1728` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1728 | 6 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1730` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1730 | 5 | 2017-01-01 to 2024-06-10 |
+| `title-07-part-1734` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1734 | 3 | 2017-12-27 to 2023-05-08 |
+| `title-07-part-1735` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1735 | 6 | 2017-01-01 to 2023-06-02 |
+| `title-07-part-1737` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1737 | 5 | 2017-01-01 to 2023-01-01 |
+| `title-07-part-1738` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1738 | 5 | 2017-01-01 to 2024-05-01 |
+| `title-07-part-1739` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1739 | 7 | 2017-01-01 to 2024-05-01 |
+| `title-07-part-1740` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1740 | 6 | 2017-01-01 to 2023-05-01 |
+| `title-07-part-1744` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1744 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1751` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1751 | 2 | 2017-01-01 to 2020-01-06 |
+| `title-07-part-1752` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1752 | 1 | 2020-02-25 to 2020-02-25 |
+| `title-07-part-1753` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1753 | 4 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1755` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1755 | 6 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1767` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1767 | 3 | 2017-01-01 to 2025-09-16 |
+| `title-07-part-1770` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1770 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1773` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1773 | 4 | 2017-01-01 to 2024-12-09 |
+| `title-07-part-1774` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1774 | 4 | 2017-01-01 to 2024-05-01 |
+| `title-07-part-1775` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1775 | 5 | 2017-01-01 to 2024-10-11 |
+| `title-07-part-1776` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1776 | 4 | 2017-01-01 to 2022-06-29 |
+| `title-07-part-1777` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1777 | 3 | 2017-01-01 to 2023-05-02 |
+| `title-07-part-1778` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1778 | 3 | 2017-01-01 to 2022-06-29 |
+| `title-07-part-1779` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1779 | 2 | 2017-01-01 to 2020-10-01 |
+| `title-07-part-1780` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1780 | 7 | 2017-01-01 to 2024-12-11 |
+| `title-07-part-1781` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1781 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1782` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1782 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1783` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1783 | 5 | 2017-01-01 to 2022-06-29 |
+| `title-07-part-1784` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1784 | 2 | 2017-01-01 to 2020-04-27 |
+| `title-07-part-1785` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1785 | 2 | 2017-01-01 to 2022-12-06 |
+| `title-07-part-1786` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1786 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1787` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1787 | 1 | 2018-09-05 to 2018-09-05 |
+| `title-07-part-1788` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1788 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1789` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1789 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1792` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1792 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1806` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1806 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1810` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1810 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1822` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1822 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1900` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1900 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1901` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1901 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1902` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1902 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1910` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1910 | 2 | 2017-01-01 to 2025-03-31 |
+| `title-07-part-1924` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1924 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1925` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1925 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1927` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1927 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1940` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1940 | 5 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1942` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1942 | 5 | 2017-01-01 to 2024-12-06 |
+| `title-07-part-1944` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1944 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1948` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1948 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1950` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1950 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1951` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1951 | 5 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1955` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1955 | 4 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1956` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1956 | 2 | 2017-01-01 to 2020-06-17 |
+| `title-07-part-1957` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1957 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-1962` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1962 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-1970` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1970 | 3 | 2017-01-01 to 2025-07-03 |
+| `title-07-part-1980` | Title 7 of the Code of Federal Regulations (Agriculture), Part 1980 | 6 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-2003` | Title 7 of the Code of Federal Regulations (Agriculture), Part 2003 | 2 | 2017-01-01 to 2020-01-06 |
+| `title-07-part-2018` | Title 7 of the Code of Federal Regulations (Agriculture), Part 2018 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-2045` | Title 7 of the Code of Federal Regulations (Agriculture), Part 2045 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-07-part-2100` | Title 7 of the Code of Federal Regulations (Agriculture), Part 2100 | 2 | 2025-01-17 to 2026-07-29 |
+| `title-07-part-2200` | Title 7 of the Code of Federal Regulations (Agriculture), Part 2200 | 2 | 2017-01-01 to 2020-01-06 |
+| `title-07-part-2201` | Title 7 of the Code of Federal Regulations (Agriculture), Part 2201 | 2 | 2017-01-01 to 2020-01-06 |
+| `title-07-part-2500` | Title 7 of the Code of Federal Regulations (Agriculture), Part 2500 | 2 | 2017-01-01 to 2020-05-28 |
+| `title-07-part-2502` | Title 7 of the Code of Federal Regulations (Agriculture), Part 2502 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-2610` | Title 7 of the Code of Federal Regulations (Agriculture), Part 2610 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-2620` | Title 7 of the Code of Federal Regulations (Agriculture), Part 2620 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-2700` | Title 7 of the Code of Federal Regulations (Agriculture), Part 2700 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-2710` | Title 7 of the Code of Federal Regulations (Agriculture), Part 2710 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-2810` | Title 7 of the Code of Federal Regulations (Agriculture), Part 2810 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-2811` | Title 7 of the Code of Federal Regulations (Agriculture), Part 2811 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-2812` | Title 7 of the Code of Federal Regulations (Agriculture), Part 2812 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-2900` | Title 7 of the Code of Federal Regulations (Agriculture), Part 2900 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-2901` | Title 7 of the Code of Federal Regulations (Agriculture), Part 2901 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-2903` | Title 7 of the Code of Federal Regulations (Agriculture), Part 2903 | 2 | 2017-01-01 to 2020-05-28 |
+| `title-07-part-3011` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3011 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-3100` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3100 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-3200` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3200 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-3201` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3201 | 6 | 2017-01-01 to 2025-01-08 |
+| `title-07-part-3202` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3202 | 2 | 2017-01-01 to 2025-01-08 |
+| `title-07-part-3203` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3203 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-3300` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3300 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-3400` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3400 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-3401` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3401 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-3402` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3402 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-3403` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3403 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-3404` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3404 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-3405` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3405 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-3406` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3406 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-3407` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3407 | 2 | 2017-01-01 to 2025-07-03 |
+| `title-07-part-3415` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3415 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-3418` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3418 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-3419` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3419 | 2 | 2017-01-01 to 2018-05-11 |
+| `title-07-part-3430` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3430 | 4 | 2017-01-01 to 2020-11-16 |
+| `title-07-part-3431` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3431 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-3434` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3434 | 7 | 2017-01-01 to 2024-10-08 |
+| `title-07-part-3550` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3550 | 6 | 2017-01-01 to 2026-10-16 |
+| `title-07-part-3555` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3555 | 10 | 2017-01-01 to 2026-06-17 |
+| `title-07-part-3560` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3560 | 11 | 2017-01-01 to 2026-05-20 |
+| `title-07-part-3565` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3565 | 4 | 2017-01-01 to 2024-04-18 |
+| `title-07-part-3570` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3570 | 6 | 2017-01-01 to 2024-12-06 |
+| `title-07-part-3575` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3575 | 2 | 2017-01-01 to 2020-10-01 |
+| `title-07-part-3600` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3600 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-3601` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3601 | 3 | 2017-01-01 to 2020-01-01 |
+| `title-07-part-3700` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3700 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-3701` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3701 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-3800` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3800 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-3801` | Title 7 of the Code of Federal Regulations (Agriculture), Part 3801 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-4270` | Title 7 of the Code of Federal Regulations (Agriculture), Part 4270 | 1 | 2025-01-08 to 2025-01-08 |
+| `title-07-part-4274` | Title 7 of the Code of Federal Regulations (Agriculture), Part 4274 | 7 | 2017-01-01 to 2024-05-01 |
+| `title-07-part-4279` | Title 7 of the Code of Federal Regulations (Agriculture), Part 4279 | 12 | 2017-01-01 to 2024-05-01 |
+| `title-07-part-4280` | Title 7 of the Code of Federal Regulations (Agriculture), Part 4280 | 13 | 2017-01-01 to 2026-10-16 |
+| `title-07-part-4284` | Title 7 of the Code of Federal Regulations (Agriculture), Part 4284 | 5 | 2017-01-01 to 2024-11-15 |
+| `title-07-part-4285` | Title 7 of the Code of Federal Regulations (Agriculture), Part 4285 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-4286` | Title 7 of the Code of Federal Regulations (Agriculture), Part 4286 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-07-part-4287` | Title 7 of the Code of Federal Regulations (Agriculture), Part 4287 | 4 | 2017-01-01 to 2026-07-09 |
+| `title-07-part-4288` | Title 7 of the Code of Federal Regulations (Agriculture), Part 4288 | 6 | 2017-01-01 to 2024-05-01 |
+| `title-07-part-4290` | Title 7 of the Code of Federal Regulations (Agriculture), Part 4290 | 3 | 2017-01-01 to 2022-06-29 |
+| `title-07-part-5001` | Title 7 of the Code of Federal Regulations (Agriculture), Part 5001 | 11 | 2020-10-01 to 2026-10-26 |
+| `title-07-part-other` | Title 7 of the Code of Federal Regulations (Agriculture), Part other | 2 | 2024-01-01 to 2026-10-26 |
+| `title-08-part-0001` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1 | 2 | 2018-01-01 to 2026-08-31 |
+| `title-08-part-0002` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 2 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0003` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 3 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0100` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 100 | 2 | 2018-01-01 to 2026-04-03 |
+| `title-08-part-0101` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 101 | 2 | 2018-01-01 to 2026-09-09 |
+| `title-08-part-0103` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 103 | 15 | 2018-01-01 to 2026-09-18 |
+| `title-08-part-0106` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 106 | 8 | 2020-10-02 to 2026-09-30 |
+| `title-08-part-0204` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 204 | 7 | 2018-01-01 to 2026-10-26 |
+| `title-08-part-0205` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 205 | 2 | 2018-01-01 to 2022-04-07 |
+| `title-08-part-0207` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 207 | 2 | 2018-01-01 to 2026-10-14 |
+| `title-08-part-0208` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 208 | 27 | 2018-01-01 to 2026-07-28 |
+| `title-08-part-0209` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 209 | 2 | 2018-01-01 to 2020-06-18 |
+| `title-08-part-0210` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 210 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0211` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 211 | 2 | 2018-01-01 to 2020-10-02 |
+| `title-08-part-0212` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 212 | 16 | 2018-01-01 to 2026-09-18 |
+| `title-08-part-0213` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 213 | 4 | 2018-01-01 to 2022-12-23 |
+| `title-08-part-0213a` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 213a | 2 | 2018-01-01 to 2022-01-01 |
+| `title-08-part-0214` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 214 | 21 | 2018-01-01 to 2026-09-30 |
+| `title-08-part-0215` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 215 | 2 | 2018-01-01 to 2025-12-29 |
+| `title-08-part-0216` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 216 | 3 | 2018-01-01 to 2020-10-02 |
+| `title-08-part-0217` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 217 | 8 | 2018-01-01 to 2024-12-27 |
+| `title-08-part-0221` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 221 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0223` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 223 | 2 | 2018-01-01 to 2020-10-02 |
+| `title-08-part-0231` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 231 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0232` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 232 | 2 | 2018-01-01 to 2022-01-01 |
+| `title-08-part-0233` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 233 | 2 | 2018-01-01 to 2024-09-30 |
+| `title-08-part-0234` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 234 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0235` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 235 | 12 | 2018-01-01 to 2025-12-29 |
+| `title-08-part-0236` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 236 | 5 | 2018-01-01 to 2022-10-31 |
+| `title-08-part-0238` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 238 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0239` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 239 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0240` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 240 | 3 | 2018-01-01 to 2024-04-01 |
+| `title-08-part-0241` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 241 | 2 | 2018-01-01 to 2022-01-01 |
+| `title-08-part-0244` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 244 | 4 | 2018-01-01 to 2026-05-29 |
+| `title-08-part-0245` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 245 | 9 | 2018-01-01 to 2024-08-28 |
+| `title-08-part-0245a` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 245a | 3 | 2018-01-01 to 2022-01-01 |
+| `title-08-part-0246` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 246 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0247` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 247 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0248` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 248 | 5 | 2018-01-01 to 2026-09-15 |
+| `title-08-part-0249` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 249 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0250` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 250 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0251` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 251 | 2 | 2018-01-01 to 2022-02-28 |
+| `title-08-part-0252` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 252 | 2 | 2018-01-01 to 2026-08-11 |
+| `title-08-part-0253` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 253 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0258` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 258 | 3 | 2018-01-01 to 2024-05-06 |
+| `title-08-part-0264` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 264 | 6 | 2018-01-01 to 2026-10-13 |
+| `title-08-part-0265` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 265 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0270` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 270 | 9 | 2018-01-01 to 2025-01-02 |
+| `title-08-part-0271` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 271 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0273` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 273 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0274` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 274 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0274a` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 274a | 25 | 2018-01-01 to 2026-09-15 |
+| `title-08-part-0280` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 280 | 9 | 2018-01-01 to 2025-01-02 |
+| `title-08-part-0281` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 281 | 2 | 2025-06-27 to 2026-10-14 |
+| `title-08-part-0286` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 286 | 3 | 2018-01-01 to 2022-05-02 |
+| `title-08-part-0287` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 287 | 2 | 2018-01-01 to 2025-10-06 |
+| `title-08-part-0289` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 289 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0292` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 292 | 2 | 2018-01-01 to 2022-01-01 |
+| `title-08-part-0293` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 293 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0299` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 299 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0301` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 301 | 2 | 2018-01-01 to 2020-10-02 |
+| `title-08-part-0306` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 306 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0310` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 310 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0312` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 312 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0313` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 313 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0315` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 315 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0316` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 316 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0318` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 318 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0319` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 319 | 2 | 2018-01-01 to 2020-10-02 |
+| `title-08-part-0320` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 320 | 2 | 2018-01-01 to 2020-10-02 |
+| `title-08-part-0322` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 322 | 2 | 2018-01-01 to 2020-10-02 |
+| `title-08-part-0324` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 324 | 2 | 2018-01-01 to 2020-10-02 |
+| `title-08-part-0325` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 325 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0327` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 327 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0328` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 328 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0329` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 329 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0330` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 330 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0331` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 331 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0332` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 332 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0333` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 333 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0334` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 334 | 2 | 2018-01-01 to 2020-10-02 |
+| `title-08-part-0335` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 335 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0336` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 336 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0337` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 337 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0338` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 338 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0339` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 339 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0340` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 340 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0341` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 341 | 2 | 2018-01-01 to 2020-10-02 |
+| `title-08-part-0342` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 342 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0343` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 343 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0343a` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 343a | 2 | 2018-01-01 to 2020-10-02 |
+| `title-08-part-0343b` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 343b | 2 | 2018-01-01 to 2020-10-02 |
+| `title-08-part-0343c` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 343c | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0349` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 349 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-0392` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 392 | 3 | 2018-01-01 to 2022-01-01 |
+| `title-08-part-1001` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1001 | 5 | 2018-01-01 to 2025-08-28 |
+| `title-08-part-1003` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1003 | 20 | 2018-01-01 to 2026-06-11 |
+| `title-08-part-1101` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1101 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-1103` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1103 | 4 | 2018-01-01 to 2026-10-01 |
+| `title-08-part-1204` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1204 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-1205` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1205 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-1207` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1207 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-1208` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1208 | 19 | 2018-01-01 to 2026-06-11 |
+| `title-08-part-1209` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1209 | 2 | 2018-01-01 to 2020-06-01 |
+| `title-08-part-1211` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1211 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-1212` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1212 | 5 | 2018-01-01 to 2022-01-01 |
+| `title-08-part-1214` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1214 | 2 | 2018-01-01 to 2022-02-11 |
+| `title-08-part-1215` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1215 | 2 | 2018-01-01 to 2022-01-01 |
+| `title-08-part-1216` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1216 | 2 | 2018-01-01 to 2021-01-19 |
+| `title-08-part-1235` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1235 | 6 | 2018-01-01 to 2024-01-01 |
+| `title-08-part-1236` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1236 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-1238` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1238 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-1239` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1239 | 2 | 2018-01-01 to 2024-07-29 |
+| `title-08-part-1240` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1240 | 15 | 2018-01-01 to 2026-06-11 |
+| `title-08-part-1241` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1241 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-1244` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1244 | 3 | 2018-01-01 to 2021-01-19 |
+| `title-08-part-1245` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1245 | 5 | 2018-01-01 to 2022-02-11 |
+| `title-08-part-1246` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1246 | 2 | 2018-01-01 to 2022-02-11 |
+| `title-08-part-1249` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1249 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-1270` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1270 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-1274a` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1274a | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-1280` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1280 | 2 | 2018-01-01 to 2025-06-27 |
+| `title-08-part-1287` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1287 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-1292` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1292 | 5 | 2018-01-01 to 2022-02-11 |
+| `title-08-part-1299` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1299 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-08-part-1337` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1337 | 1 | 2018-01-01 to 2018-01-01 |
 | `title-12-part-0001` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1 | 3 | 2017-01-01 to 2026-06-09 |
 | `title-12-part-0002` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 2 | 1 | 2017-01-01 to 2017-01-01 |
 | `title-12-part-0003` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 3 | 30 | 2017-01-01 to 2026-10-26 |
@@ -2162,19 +2771,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 11215 commits:
+The build made 13668 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2145 | first version of an act |
-| 6535 | one law on its in-force day |
-| 2535 | changes no amendment note explains, credited to the publisher |
+| 2754 | first version of an act |
+| 7814 | one law on its in-force day |
+| 3100 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 7738 laws in the record.
-- 14280 tags.
+- 9261 laws in the record.
+- 17560 tags.
 
 ## Dates
 
@@ -2186,9 +2795,9 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b3f33959d04e7361dee01a6a4ead278f9ed673234524dd89d1080c4eb1636a3f` (687452131 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `68576aa96b8e9ad59a10b5c93d04eecd9d8cdf665ec62d7c8742b18da76059e4` (776577361 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
@@ -2214,6 +2823,8 @@ No second build of this corpus has been compared yet.
 - Title 4: editions read: 2018 annual edition (to 2017-12-08); 2019 annual edition (to 2018-05-01); eCFR (to 2026-10-26).
 - Title 5: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2019-10-31); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2021-12-23); 2023 annual edition (to 2022-12-13); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2024-12-26); eCFR (to 2026-10-26).
 - Title 6: editions read: 2017 annual edition (to 2016-12-22); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
+- Title 7: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-29); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); eCFR (to 2026-10-26).
+- Title 8: editions read: 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 12: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
