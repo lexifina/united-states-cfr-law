@@ -6131,20 +6131,132 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-33-part-0401` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 401 | 1 | 2026-10-26 to 2026-10-26 |
 | `title-33-part-0402` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 402 | 1 | 2026-10-26 to 2026-10-26 |
 | `title-33-part-0403` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 403 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-34-part-0003` | Title 34 of the Code of Federal Regulations (Education), Part 3 | 2 | 2021-02-03 to 2026-10-26 |
+| `title-34-part-0004` | Title 34 of the Code of Federal Regulations (Education), Part 4 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0005` | Title 34 of the Code of Federal Regulations (Education), Part 5 | 3 | 2021-02-03 to 2026-10-26 |
+| `title-34-part-0005b` | Title 34 of the Code of Federal Regulations (Education), Part 5b | 2 | 2021-02-03 to 2026-10-26 |
+| `title-34-part-0006` | Title 34 of the Code of Federal Regulations (Education), Part 6 | 2 | 2021-02-03 to 2024-03-04 |
+| `title-34-part-0007` | Title 34 of the Code of Federal Regulations (Education), Part 7 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0008` | Title 34 of the Code of Federal Regulations (Education), Part 8 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0009` | Title 34 of the Code of Federal Regulations (Education), Part 9 | 2 | 2021-02-03 to 2021-09-29 |
+| `title-34-part-0012` | Title 34 of the Code of Federal Regulations (Education), Part 12 | 2 | 2021-02-03 to 2026-10-26 |
+| `title-34-part-0015` | Title 34 of the Code of Federal Regulations (Education), Part 15 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0021` | Title 34 of the Code of Federal Regulations (Education), Part 21 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0030` | Title 34 of the Code of Federal Regulations (Education), Part 30 | 2 | 2021-02-03 to 2026-10-26 |
+| `title-34-part-0031` | Title 34 of the Code of Federal Regulations (Education), Part 31 | 2 | 2021-02-03 to 2021-06-28 |
+| `title-34-part-0032` | Title 34 of the Code of Federal Regulations (Education), Part 32 | 2 | 2021-02-03 to 2021-06-28 |
+| `title-34-part-0033` | Title 34 of the Code of Federal Regulations (Education), Part 33 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0034` | Title 34 of the Code of Federal Regulations (Education), Part 34 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0035` | Title 34 of the Code of Federal Regulations (Education), Part 35 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0036` | Title 34 of the Code of Federal Regulations (Education), Part 36 | 3 | 2021-02-03 to 2025-01-21 |
+| `title-34-part-0060` | Title 34 of the Code of Federal Regulations (Education), Part 60 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0073` | Title 34 of the Code of Federal Regulations (Education), Part 73 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0075` | Title 34 of the Code of Federal Regulations (Education), Part 75 | 6 | 2021-02-03 to 2026-10-26 |
+| `title-34-part-0076` | Title 34 of the Code of Federal Regulations (Education), Part 76 | 4 | 2021-02-03 to 2024-09-30 |
+| `title-34-part-0077` | Title 34 of the Code of Federal Regulations (Education), Part 77 | 2 | 2021-02-03 to 2024-09-30 |
+| `title-34-part-0079` | Title 34 of the Code of Federal Regulations (Education), Part 79 | 2 | 2021-02-03 to 2024-09-30 |
+| `title-34-part-0081` | Title 34 of the Code of Federal Regulations (Education), Part 81 | 3 | 2021-02-03 to 2022-03-01 |
+| `title-34-part-0082` | Title 34 of the Code of Federal Regulations (Education), Part 82 | 2 | 2021-02-03 to 2026-10-26 |
+| `title-34-part-0084` | Title 34 of the Code of Federal Regulations (Education), Part 84 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0086` | Title 34 of the Code of Federal Regulations (Education), Part 86 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0097` | Title 34 of the Code of Federal Regulations (Education), Part 97 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0097-0097` | Title 34 of the Code of Federal Regulations (Education), Part 97-97 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0098` | Title 34 of the Code of Federal Regulations (Education), Part 98 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0099` | Title 34 of the Code of Federal Regulations (Education), Part 99 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0100` | Title 34 of the Code of Federal Regulations (Education), Part 100 | 3 | 2021-02-03 to 2026-07-24 |
+| `title-34-part-0101` | Title 34 of the Code of Federal Regulations (Education), Part 101 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0104` | Title 34 of the Code of Federal Regulations (Education), Part 104 | 3 | 2021-02-03 to 2026-10-08 |
+| `title-34-part-0105` | Title 34 of the Code of Federal Regulations (Education), Part 105 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0106` | Title 34 of the Code of Federal Regulations (Education), Part 106 | 4 | 2021-02-03 to 2026-09-29 |
+| `title-34-part-0108` | Title 34 of the Code of Federal Regulations (Education), Part 108 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0110` | Title 34 of the Code of Federal Regulations (Education), Part 110 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0200` | Title 34 of the Code of Federal Regulations (Education), Part 200 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0206` | Title 34 of the Code of Federal Regulations (Education), Part 206 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0222` | Title 34 of the Code of Federal Regulations (Education), Part 222 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0225` | Title 34 of the Code of Federal Regulations (Education), Part 225 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0226` | Title 34 of the Code of Federal Regulations (Education), Part 226 | 2 | 2021-02-03 to 2022-01-25 |
+| `title-34-part-0263` | Title 34 of the Code of Federal Regulations (Education), Part 263 | 2 | 2021-02-03 to 2025-02-18 |
+| `title-34-part-0270` | Title 34 of the Code of Federal Regulations (Education), Part 270 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0280` | Title 34 of the Code of Federal Regulations (Education), Part 280 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0299` | Title 34 of the Code of Federal Regulations (Education), Part 299 | 2 | 2021-02-03 to 2024-09-30 |
+| `title-34-part-0300` | Title 34 of the Code of Federal Regulations (Education), Part 300 | 2 | 2021-02-03 to 2025-02-18 |
+| `title-34-part-0303` | Title 34 of the Code of Federal Regulations (Education), Part 303 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0304` | Title 34 of the Code of Federal Regulations (Education), Part 304 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0361` | Title 34 of the Code of Federal Regulations (Education), Part 361 | 2 | 2021-02-03 to 2024-03-25 |
+| `title-34-part-0363` | Title 34 of the Code of Federal Regulations (Education), Part 363 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0367` | Title 34 of the Code of Federal Regulations (Education), Part 367 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0370` | Title 34 of the Code of Federal Regulations (Education), Part 370 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0371` | Title 34 of the Code of Federal Regulations (Education), Part 371 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0373` | Title 34 of the Code of Federal Regulations (Education), Part 373 | 2 | 2021-02-03 to 2025-02-18 |
+| `title-34-part-0381` | Title 34 of the Code of Federal Regulations (Education), Part 381 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0385` | Title 34 of the Code of Federal Regulations (Education), Part 385 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0386` | Title 34 of the Code of Federal Regulations (Education), Part 386 | 2 | 2021-02-03 to 2026-10-26 |
+| `title-34-part-0387` | Title 34 of the Code of Federal Regulations (Education), Part 387 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0390` | Title 34 of the Code of Federal Regulations (Education), Part 390 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0395` | Title 34 of the Code of Federal Regulations (Education), Part 395 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0396` | Title 34 of the Code of Federal Regulations (Education), Part 396 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0397` | Title 34 of the Code of Federal Regulations (Education), Part 397 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0401` | Title 34 of the Code of Federal Regulations (Education), Part 401 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0462` | Title 34 of the Code of Federal Regulations (Education), Part 462 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0463` | Title 34 of the Code of Federal Regulations (Education), Part 463 | 2 | 2021-02-03 to 2024-03-25 |
+| `title-34-part-0600` | Title 34 of the Code of Federal Regulations (Education), Part 600 | 8 | 2021-02-03 to 2026-07-20 |
+| `title-34-part-0601` | Title 34 of the Code of Federal Regulations (Education), Part 601 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0602` | Title 34 of the Code of Federal Regulations (Education), Part 602 | 2 | 2021-02-03 to 2022-10-20 |
+| `title-34-part-0603` | Title 34 of the Code of Federal Regulations (Education), Part 603 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0604` | Title 34 of the Code of Federal Regulations (Education), Part 604 | 2 | 2021-02-03 to 2021-10-28 |
+| `title-34-part-0606` | Title 34 of the Code of Federal Regulations (Education), Part 606 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0607` | Title 34 of the Code of Federal Regulations (Education), Part 607 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0608` | Title 34 of the Code of Federal Regulations (Education), Part 608 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0609` | Title 34 of the Code of Federal Regulations (Education), Part 609 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0628` | Title 34 of the Code of Federal Regulations (Education), Part 628 | 2 | 2021-02-03 to 2026-10-26 |
+| `title-34-part-0637` | Title 34 of the Code of Federal Regulations (Education), Part 637 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0642` | Title 34 of the Code of Federal Regulations (Education), Part 642 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0643` | Title 34 of the Code of Federal Regulations (Education), Part 643 | 2 | 2021-02-03 to 2026-07-01 |
+| `title-34-part-0644` | Title 34 of the Code of Federal Regulations (Education), Part 644 | 2 | 2021-02-03 to 2026-07-01 |
+| `title-34-part-0645` | Title 34 of the Code of Federal Regulations (Education), Part 645 | 2 | 2021-02-03 to 2026-07-01 |
+| `title-34-part-0646` | Title 34 of the Code of Federal Regulations (Education), Part 646 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0647` | Title 34 of the Code of Federal Regulations (Education), Part 647 | 2 | 2021-02-03 to 2026-07-01 |
+| `title-34-part-0648` | Title 34 of the Code of Federal Regulations (Education), Part 648 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0650` | Title 34 of the Code of Federal Regulations (Education), Part 650 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0655` | Title 34 of the Code of Federal Regulations (Education), Part 655 | 2 | 2021-02-03 to 2024-09-26 |
+| `title-34-part-0656` | Title 34 of the Code of Federal Regulations (Education), Part 656 | 3 | 2021-02-03 to 2025-08-15 |
+| `title-34-part-0657` | Title 34 of the Code of Federal Regulations (Education), Part 657 | 3 | 2021-02-03 to 2025-08-15 |
+| `title-34-part-0658` | Title 34 of the Code of Federal Regulations (Education), Part 658 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0660` | Title 34 of the Code of Federal Regulations (Education), Part 660 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0661` | Title 34 of the Code of Federal Regulations (Education), Part 661 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0662` | Title 34 of the Code of Federal Regulations (Education), Part 662 | 2 | 2021-02-03 to 2024-01-08 |
+| `title-34-part-0663` | Title 34 of the Code of Federal Regulations (Education), Part 663 | 2 | 2021-02-03 to 2024-01-08 |
+| `title-34-part-0664` | Title 34 of the Code of Federal Regulations (Education), Part 664 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0668` | Title 34 of the Code of Federal Regulations (Education), Part 668 | 12 | 2021-02-03 to 2026-10-26 |
+| `title-34-part-0669` | Title 34 of the Code of Federal Regulations (Education), Part 669 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0673` | Title 34 of the Code of Federal Regulations (Education), Part 673 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0674` | Title 34 of the Code of Federal Regulations (Education), Part 674 | 5 | 2021-02-03 to 2026-10-26 |
+| `title-34-part-0675` | Title 34 of the Code of Federal Regulations (Education), Part 675 | 2 | 2021-02-03 to 2026-10-26 |
+| `title-34-part-0676` | Title 34 of the Code of Federal Regulations (Education), Part 676 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0677` | Title 34 of the Code of Federal Regulations (Education), Part 677 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0681` | Title 34 of the Code of Federal Regulations (Education), Part 681 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-0682` | Title 34 of the Code of Federal Regulations (Education), Part 682 | 5 | 2021-02-03 to 2026-10-26 |
+| `title-34-part-0685` | Title 34 of the Code of Federal Regulations (Education), Part 685 | 10 | 2021-02-03 to 2026-08-31 |
+| `title-34-part-0686` | Title 34 of the Code of Federal Regulations (Education), Part 686 | 2 | 2021-02-03 to 2026-10-26 |
+| `title-34-part-0690` | Title 34 of the Code of Federal Regulations (Education), Part 690 | 6 | 2021-02-03 to 2026-10-26 |
+| `title-34-part-0691` | Title 34 of the Code of Federal Regulations (Education), Part 691 | 2 | 2021-02-03 to 2021-10-28 |
+| `title-34-part-0692` | Title 34 of the Code of Federal Regulations (Education), Part 692 | 2 | 2021-02-03 to 2026-10-26 |
+| `title-34-part-0694` | Title 34 of the Code of Federal Regulations (Education), Part 694 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-34-part-1200` | Title 34 of the Code of Federal Regulations (Education), Part 1200 | 1 | 2021-02-03 to 2021-02-03 |
 
-The build made 24051 commits:
+The build made 24345 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 6115 | first version of an act |
-| 12421 | one law on its in-force day |
-| 5515 | changes no amendment note explains, credited to the publisher |
+| 6227 | first version of an act |
+| 12548 | one law on its in-force day |
+| 5570 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 14852 laws in the record.
-- 31387 tags.
+- 14998 laws in the record.
+- 31717 tags.
 
 ## Dates
 
@@ -6156,7 +6268,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `052f556e0ed68f84bb6e69e1670868e576482a358c0d8520b3fa099056e3a679` (1123907003 bytes).
+- Corpus: sha256 `7259d302fd77f55b6dab133c12e04bc7d8752cba65ca5bd06887a17f69185b94` (1137620770 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -6211,6 +6323,7 @@ No second build of this corpus has been compared yet.
 - Title 31: editions read: 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2018-12-20); 2020 annual edition (to 2020-04-17); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-05-18); 2025 annual edition (to 2024-12-18); eCFR (to 2026-10-26).
 - Title 32: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-29); 2019 annual edition (to 2019-04-24); 2020 annual edition (to 2020-02-24); 2021 annual edition (to 2021-03-23); 2022 annual edition (to 2021-11-03); 2023 annual edition (to 2023-04-21); 2024 annual edition (to 2024-05-24); 2025 annual edition (to 2025-01-17); eCFR (to 2026-10-26).
 - Title 33: editions read: eCFR (to 2026-10-26).
+- Title 34: editions read: 2021 annual edition (to 2021-02-03); 2023 annual edition (to 2023-01-30); 2025 annual edition (to 2025-02-18); eCFR (to 2026-10-26).
 
 ## What AI did and did not do
 

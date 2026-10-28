@@ -166364,6 +166364,2162 @@
      "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
     }
    ]
+  },
+  {
+   "slug": "title-34-part-0003",
+   "short": "34 CFR Part 3",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 3",
+   "url": "https://www.ecfr.gov/current/title-34/part-3",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0004",
+   "short": "34 CFR Part 4",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 4",
+   "url": "https://www.ecfr.gov/current/title-34/part-4",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0005",
+   "short": "34 CFR Part 5",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 5",
+   "url": "https://www.ecfr.gov/current/title-34/part-5",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2024-02-16",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0005b",
+   "short": "34 CFR Part 5b",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 5b",
+   "url": "https://www.ecfr.gov/current/title-34/part-5b",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0006",
+   "short": "34 CFR Part 6",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 6",
+   "url": "https://www.ecfr.gov/current/title-34/part-6",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2024-03-04",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0007",
+   "short": "34 CFR Part 7",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 7",
+   "url": "https://www.ecfr.gov/current/title-34/part-7",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0008",
+   "short": "34 CFR Part 8",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 8",
+   "url": "https://www.ecfr.gov/current/title-34/part-8",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0009",
+   "short": "34 CFR Part 9",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 9",
+   "url": "https://www.ecfr.gov/current/title-34/part-9",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2021-09-29",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0012",
+   "short": "34 CFR Part 12",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 12",
+   "url": "https://www.ecfr.gov/current/title-34/part-12",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0015",
+   "short": "34 CFR Part 15",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 15",
+   "url": "https://www.ecfr.gov/current/title-34/part-15",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0021",
+   "short": "34 CFR Part 21",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 21",
+   "url": "https://www.ecfr.gov/current/title-34/part-21",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0030",
+   "short": "34 CFR Part 30",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 30",
+   "url": "https://www.ecfr.gov/current/title-34/part-30",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0031",
+   "short": "34 CFR Part 31",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 31",
+   "url": "https://www.ecfr.gov/current/title-34/part-31",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2021-06-28",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0032",
+   "short": "34 CFR Part 32",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 32",
+   "url": "https://www.ecfr.gov/current/title-34/part-32",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2021-06-28",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0033",
+   "short": "34 CFR Part 33",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 33",
+   "url": "https://www.ecfr.gov/current/title-34/part-33",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0034",
+   "short": "34 CFR Part 34",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 34",
+   "url": "https://www.ecfr.gov/current/title-34/part-34",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0035",
+   "short": "34 CFR Part 35",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 35",
+   "url": "https://www.ecfr.gov/current/title-34/part-35",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0036",
+   "short": "34 CFR Part 36",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 36",
+   "url": "https://www.ecfr.gov/current/title-34/part-36",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2023-01-30",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    },
+    {
+     "from": "2025-01-21",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0060",
+   "short": "34 CFR Part 60",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 60",
+   "url": "https://www.ecfr.gov/current/title-34/part-60",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0073",
+   "short": "34 CFR Part 73",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 73",
+   "url": "https://www.ecfr.gov/current/title-34/part-73",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0075",
+   "short": "34 CFR Part 75",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 75",
+   "url": "https://www.ecfr.gov/current/title-34/part-75",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 143,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2024-03-04",
+     "units": 143,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2024-04-03",
+     "units": 145,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2024-09-30",
+     "units": 143,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 144,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 144,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0076",
+   "short": "34 CFR Part 76",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 76",
+   "url": "https://www.ecfr.gov/current/title-34/part-76",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2024-03-04",
+     "units": 123,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2024-04-03",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2024-09-30",
+     "units": 115,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0077",
+   "short": "34 CFR Part 77",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 77",
+   "url": "https://www.ecfr.gov/current/title-34/part-77",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2024-09-30",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0079",
+   "short": "34 CFR Part 79",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 79",
+   "url": "https://www.ecfr.gov/current/title-34/part-79",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2024-09-30",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0081",
+   "short": "34 CFR Part 81",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 81",
+   "url": "https://www.ecfr.gov/current/title-34/part-81",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2021-09-23",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    },
+    {
+     "from": "2022-03-01",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0082",
+   "short": "34 CFR Part 82",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 82",
+   "url": "https://www.ecfr.gov/current/title-34/part-82",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0084",
+   "short": "34 CFR Part 84",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 84",
+   "url": "https://www.ecfr.gov/current/title-34/part-84",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0086",
+   "short": "34 CFR Part 86",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 86",
+   "url": "https://www.ecfr.gov/current/title-34/part-86",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0097",
+   "short": "34 CFR Part 97",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 97",
+   "url": "https://www.ecfr.gov/current/title-34/part-97",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0097-0097",
+   "short": "34 CFR Part 97-97",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 97-97",
+   "url": "https://www.ecfr.gov/current/title-34/part-97-97",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0098",
+   "short": "34 CFR Part 98",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 98",
+   "url": "https://www.ecfr.gov/current/title-34/part-98",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0099",
+   "short": "34 CFR Part 99",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 99",
+   "url": "https://www.ecfr.gov/current/title-34/part-99",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0100",
+   "short": "34 CFR Part 100",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 100",
+   "url": "https://www.ecfr.gov/current/title-34/part-100",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2026-07-23",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    },
+    {
+     "from": "2026-07-24",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0101",
+   "short": "34 CFR Part 101",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 101",
+   "url": "https://www.ecfr.gov/current/title-34/part-101",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0104",
+   "short": "34 CFR Part 104",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 104",
+   "url": "https://www.ecfr.gov/current/title-34/part-104",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2026-07-23",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    },
+    {
+     "from": "2026-10-08",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0105",
+   "short": "34 CFR Part 105",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 105",
+   "url": "https://www.ecfr.gov/current/title-34/part-105",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0106",
+   "short": "34 CFR Part 106",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 106",
+   "url": "https://www.ecfr.gov/current/title-34/part-106",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2026-07-23",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    },
+    {
+     "from": "2026-09-29",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0108",
+   "short": "34 CFR Part 108",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 108",
+   "url": "https://www.ecfr.gov/current/title-34/part-108",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0110",
+   "short": "34 CFR Part 110",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 110",
+   "url": "https://www.ecfr.gov/current/title-34/part-110",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0200",
+   "short": "34 CFR Part 200",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 200",
+   "url": "https://www.ecfr.gov/current/title-34/part-200",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0206",
+   "short": "34 CFR Part 206",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 206",
+   "url": "https://www.ecfr.gov/current/title-34/part-206",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0222",
+   "short": "34 CFR Part 222",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 222",
+   "url": "https://www.ecfr.gov/current/title-34/part-222",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 142,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0225",
+   "short": "34 CFR Part 225",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 225",
+   "url": "https://www.ecfr.gov/current/title-34/part-225",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0226",
+   "short": "34 CFR Part 226",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 226",
+   "url": "https://www.ecfr.gov/current/title-34/part-226",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2022-01-25",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0263",
+   "short": "34 CFR Part 263",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 263",
+   "url": "https://www.ecfr.gov/current/title-34/part-263",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2025-02-18",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0270",
+   "short": "34 CFR Part 270",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 270",
+   "url": "https://www.ecfr.gov/current/title-34/part-270",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0280",
+   "short": "34 CFR Part 280",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 280",
+   "url": "https://www.ecfr.gov/current/title-34/part-280",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0299",
+   "short": "34 CFR Part 299",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 299",
+   "url": "https://www.ecfr.gov/current/title-34/part-299",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2024-09-30",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0300",
+   "short": "34 CFR Part 300",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 300",
+   "url": "https://www.ecfr.gov/current/title-34/part-300",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 294,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2025-02-18",
+     "units": 294,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0303",
+   "short": "34 CFR Part 303",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 303",
+   "url": "https://www.ecfr.gov/current/title-34/part-303",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 179,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0304",
+   "short": "34 CFR Part 304",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 304",
+   "url": "https://www.ecfr.gov/current/title-34/part-304",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0361",
+   "short": "34 CFR Part 361",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 361",
+   "url": "https://www.ecfr.gov/current/title-34/part-361",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 133,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2024-03-25",
+     "units": 133,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0363",
+   "short": "34 CFR Part 363",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 363",
+   "url": "https://www.ecfr.gov/current/title-34/part-363",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0367",
+   "short": "34 CFR Part 367",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 367",
+   "url": "https://www.ecfr.gov/current/title-34/part-367",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0370",
+   "short": "34 CFR Part 370",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 370",
+   "url": "https://www.ecfr.gov/current/title-34/part-370",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0371",
+   "short": "34 CFR Part 371",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 371",
+   "url": "https://www.ecfr.gov/current/title-34/part-371",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0373",
+   "short": "34 CFR Part 373",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 373",
+   "url": "https://www.ecfr.gov/current/title-34/part-373",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2025-02-18",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0381",
+   "short": "34 CFR Part 381",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 381",
+   "url": "https://www.ecfr.gov/current/title-34/part-381",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0385",
+   "short": "34 CFR Part 385",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 385",
+   "url": "https://www.ecfr.gov/current/title-34/part-385",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0386",
+   "short": "34 CFR Part 386",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 386",
+   "url": "https://www.ecfr.gov/current/title-34/part-386",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0387",
+   "short": "34 CFR Part 387",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 387",
+   "url": "https://www.ecfr.gov/current/title-34/part-387",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0390",
+   "short": "34 CFR Part 390",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 390",
+   "url": "https://www.ecfr.gov/current/title-34/part-390",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0395",
+   "short": "34 CFR Part 395",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 395",
+   "url": "https://www.ecfr.gov/current/title-34/part-395",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0396",
+   "short": "34 CFR Part 396",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 396",
+   "url": "https://www.ecfr.gov/current/title-34/part-396",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0397",
+   "short": "34 CFR Part 397",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 397",
+   "url": "https://www.ecfr.gov/current/title-34/part-397",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0401",
+   "short": "34 CFR Part 401",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 401",
+   "url": "https://www.ecfr.gov/current/title-34/part-401",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0462",
+   "short": "34 CFR Part 462",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 462",
+   "url": "https://www.ecfr.gov/current/title-34/part-462",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0463",
+   "short": "34 CFR Part 463",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 463",
+   "url": "https://www.ecfr.gov/current/title-34/part-463",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 103,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2024-03-25",
+     "units": 103,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0600",
+   "short": "34 CFR Part 600",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 600",
+   "url": "https://www.ecfr.gov/current/title-34/part-600",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2022-10-28",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    },
+    {
+     "from": "2022-11-01",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    },
+    {
+     "from": "2022-11-17",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2025-02-18",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    },
+    {
+     "from": "2026-07-20",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0601",
+   "short": "34 CFR Part 601",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 601",
+   "url": "https://www.ecfr.gov/current/title-34/part-601",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0602",
+   "short": "34 CFR Part 602",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 602",
+   "url": "https://www.ecfr.gov/current/title-34/part-602",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2022-10-20",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0603",
+   "short": "34 CFR Part 603",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 603",
+   "url": "https://www.ecfr.gov/current/title-34/part-603",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0604",
+   "short": "34 CFR Part 604",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 604",
+   "url": "https://www.ecfr.gov/current/title-34/part-604",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2021-10-28",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0606",
+   "short": "34 CFR Part 606",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 606",
+   "url": "https://www.ecfr.gov/current/title-34/part-606",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0607",
+   "short": "34 CFR Part 607",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 607",
+   "url": "https://www.ecfr.gov/current/title-34/part-607",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0608",
+   "short": "34 CFR Part 608",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 608",
+   "url": "https://www.ecfr.gov/current/title-34/part-608",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0609",
+   "short": "34 CFR Part 609",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 609",
+   "url": "https://www.ecfr.gov/current/title-34/part-609",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0628",
+   "short": "34 CFR Part 628",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 628",
+   "url": "https://www.ecfr.gov/current/title-34/part-628",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0637",
+   "short": "34 CFR Part 637",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 637",
+   "url": "https://www.ecfr.gov/current/title-34/part-637",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0642",
+   "short": "34 CFR Part 642",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 642",
+   "url": "https://www.ecfr.gov/current/title-34/part-642",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0643",
+   "short": "34 CFR Part 643",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 643",
+   "url": "https://www.ecfr.gov/current/title-34/part-643",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0644",
+   "short": "34 CFR Part 644",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 644",
+   "url": "https://www.ecfr.gov/current/title-34/part-644",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0645",
+   "short": "34 CFR Part 645",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 645",
+   "url": "https://www.ecfr.gov/current/title-34/part-645",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0646",
+   "short": "34 CFR Part 646",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 646",
+   "url": "https://www.ecfr.gov/current/title-34/part-646",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0647",
+   "short": "34 CFR Part 647",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 647",
+   "url": "https://www.ecfr.gov/current/title-34/part-647",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0648",
+   "short": "34 CFR Part 648",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 648",
+   "url": "https://www.ecfr.gov/current/title-34/part-648",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0650",
+   "short": "34 CFR Part 650",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 650",
+   "url": "https://www.ecfr.gov/current/title-34/part-650",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0655",
+   "short": "34 CFR Part 655",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 655",
+   "url": "https://www.ecfr.gov/current/title-34/part-655",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2024-09-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0656",
+   "short": "34 CFR Part 656",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 656",
+   "url": "https://www.ecfr.gov/current/title-34/part-656",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2025-02-18",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2025-08-15",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0657",
+   "short": "34 CFR Part 657",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 657",
+   "url": "https://www.ecfr.gov/current/title-34/part-657",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2025-02-18",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2025-08-15",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0658",
+   "short": "34 CFR Part 658",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 658",
+   "url": "https://www.ecfr.gov/current/title-34/part-658",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0660",
+   "short": "34 CFR Part 660",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 660",
+   "url": "https://www.ecfr.gov/current/title-34/part-660",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0661",
+   "short": "34 CFR Part 661",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 661",
+   "url": "https://www.ecfr.gov/current/title-34/part-661",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0662",
+   "short": "34 CFR Part 662",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 662",
+   "url": "https://www.ecfr.gov/current/title-34/part-662",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2024-01-08",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0663",
+   "short": "34 CFR Part 663",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 663",
+   "url": "https://www.ecfr.gov/current/title-34/part-663",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2024-01-08",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0664",
+   "short": "34 CFR Part 664",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 664",
+   "url": "https://www.ecfr.gov/current/title-34/part-664",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0668",
+   "short": "34 CFR Part 668",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 668",
+   "url": "https://www.ecfr.gov/current/title-34/part-668",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 183,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2022-10-20",
+     "units": 183,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    },
+    {
+     "from": "2022-10-28",
+     "units": 183,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    },
+    {
+     "from": "2022-11-01",
+     "units": 185,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    },
+    {
+     "from": "2022-11-17",
+     "units": 185,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    },
+    {
+     "from": "2023-01-30",
+     "units": 199,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 216,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2024-07-11",
+     "units": 216,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2025-01-21",
+     "units": 216,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 216,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    },
+    {
+     "from": "2026-07-20",
+     "units": 216,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 216,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0669",
+   "short": "34 CFR Part 669",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 669",
+   "url": "https://www.ecfr.gov/current/title-34/part-669",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0673",
+   "short": "34 CFR Part 673",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 673",
+   "url": "https://www.ecfr.gov/current/title-34/part-673",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0674",
+   "short": "34 CFR Part 674",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 674",
+   "url": "https://www.ecfr.gov/current/title-34/part-674",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 52,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2022-11-01",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    },
+    {
+     "from": "2023-07-06",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0675",
+   "short": "34 CFR Part 675",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 675",
+   "url": "https://www.ecfr.gov/current/title-34/part-675",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0676",
+   "short": "34 CFR Part 676",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 676",
+   "url": "https://www.ecfr.gov/current/title-34/part-676",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0677",
+   "short": "34 CFR Part 677",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 677",
+   "url": "https://www.ecfr.gov/current/title-34/part-677",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0681",
+   "short": "34 CFR Part 681",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 681",
+   "url": "https://www.ecfr.gov/current/title-34/part-681",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0682",
+   "short": "34 CFR Part 682",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 682",
+   "url": "https://www.ecfr.gov/current/title-34/part-682",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 73,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2022-11-01",
+     "units": 74,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 74,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 74,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 74,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0685",
+   "short": "34 CFR Part 685",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 685",
+   "url": "https://www.ecfr.gov/current/title-34/part-685",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2021-08-13",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    },
+    {
+     "from": "2022-11-01",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    },
+    {
+     "from": "2023-01-30",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    },
+    {
+     "from": "2023-07-06",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2023-08-29",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2024-12-31",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-34/CFR-2025-title-34.zip",
+     "sha256": "908db14a92e76764772a06b4cac897d1427b84938fb5315024d4159166dbdb0b"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    },
+    {
+     "from": "2026-08-31",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0686",
+   "short": "34 CFR Part 686",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 686",
+   "url": "https://www.ecfr.gov/current/title-34/part-686",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0690",
+   "short": "34 CFR Part 690",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 690",
+   "url": "https://www.ecfr.gov/current/title-34/part-690",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2021-10-28",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    },
+    {
+     "from": "2022-10-28",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    },
+    {
+     "from": "2026-05-19",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    },
+    {
+     "from": "2026-07-20",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0691",
+   "short": "34 CFR Part 691",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 691",
+   "url": "https://www.ecfr.gov/current/title-34/part-691",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2021-10-28",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-34/CFR-2023-title-34.zip",
+     "sha256": "af9da2e5965658440d75831f121e1a32b46c5e5358f2b957a4ec577a11e07380"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0692",
+   "short": "34 CFR Part 692",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 692",
+   "url": "https://www.ecfr.gov/current/title-34/part-692",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-34/ECFR-title34.xml",
+     "sha256": "17a4c7fa9667979fd0eb7e2950ad3c9e0a7679108cb76cd81c902bec0e2852d0"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-0694",
+   "short": "34 CFR Part 694",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 694",
+   "url": "https://www.ecfr.gov/current/title-34/part-694",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-part-1200",
+   "short": "34 CFR Part 1200",
+   "title": "Title 34 of the Code of Federal Regulations (Education), Part 1200",
+   "url": "https://www.ecfr.gov/current/title-34/part-1200",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-34/CFR-2021-title-34.zip",
+     "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
+    }
+   ]
   }
  ]
 }
