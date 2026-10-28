@@ -2136,6 +2136,59 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-10-part-1710` | Title 10 of the Code of Federal Regulations (Energy), Part 1710 | 1 | 2023-10-19 to 2023-10-19 |
 | `title-10-part-1800` | Title 10 of the Code of Federal Regulations (Energy), Part 1800 | 1 | 2016-12-31 to 2016-12-31 |
 | `title-10-part-other` | Title 10 of the Code of Federal Regulations (Energy), Part other | 2 | 2016-12-31 to 2018-01-03 |
+| `title-11-part-0001` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 1 | 4 | 2019-01-01 to 2024-03-20 |
+| `title-11-part-0002` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 2 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-0004` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 4 | 3 | 2019-01-01 to 2024-07-01 |
+| `title-11-part-0005` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 5 | 2 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-0006` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 6 | 2 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-0007` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 7 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-0008` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 8 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-0100` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 100 | 4 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-0101` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 101 | 2 | 2019-01-01 to 2019-05-02 |
+| `title-11-part-0102` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 102 | 4 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-0103` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 103 | 2 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-0104` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 104 | 8 | 2019-01-01 to 2025-02-01 |
+| `title-11-part-0105` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 105 | 2 | 2019-01-01 to 2019-05-02 |
+| `title-11-part-0106` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 106 | 2 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-0107` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 107 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-0108` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 108 | 3 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-0109` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 109 | 4 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-0110` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 110 | 7 | 2019-01-01 to 2026-10-26 |
+| `title-11-part-0111` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 111 | 6 | 2019-01-01 to 2025-01-03 |
+| `title-11-part-0112` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 112 | 2 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-0113` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 113 | 2 | 2019-01-01 to 2025-01-01 |
+| `title-11-part-0114` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 114 | 3 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-0115` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 115 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-0116` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 116 | 3 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-0200` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 200 | 2 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-0201` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 201 | 2 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-0300` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 300 | 2 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-9001` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9001 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-9002` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9002 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-9003` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9003 | 2 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-9004` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9004 | 2 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-9005` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9005 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-9006` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9006 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-9007` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9007 | 2 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-9008` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9008 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-9012` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9012 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-9031` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9031 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-9032` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9032 | 2 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-9033` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9033 | 2 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-9034` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9034 | 2 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-9035` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9035 | 2 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-9036` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9036 | 2 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-9037` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9037 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-9038` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9038 | 2 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-9039` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9039 | 2 | 2019-01-01 to 2024-03-01 |
+| `title-11-part-9405` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9405 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-9407` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9407 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-9409` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9409 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-9410` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9410 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-9411` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9411 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-9420` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9420 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-9428` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9428 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-11-part-9430` | Title 11 of the Code of Federal Regulations (Federal Elections), Part 9430 | 1 | 2019-01-01 to 2019-01-01 |
 | `title-12-part-0001` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1 | 3 | 2017-01-01 to 2026-06-09 |
 | `title-12-part-0002` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 2 | 1 | 2017-01-01 to 2017-01-01 |
 | `title-12-part-0003` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 3 | 30 | 2017-01-01 to 2026-10-26 |
@@ -3104,19 +3157,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 15048 commits:
+The build made 15142 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3087 | first version of an act |
-| 8547 | one law on its in-force day |
-| 3414 | changes no amendment note explains, credited to the publisher |
+| 3140 | first version of an act |
+| 8577 | one law on its in-force day |
+| 3425 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 10129 laws in the record.
-- 19505 tags.
+- 10178 laws in the record.
+- 19647 tags.
 
 ## Dates
 
@@ -3128,7 +3181,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `0f04e56645be81fbeb21db7c1daab04e750e3d521af3a306c71e9092b06cf8a4` (831627766 bytes).
+- Corpus: sha256 `a729eb901942d561ae8336d0d05df1829e4924ac9d99173acc8ca59b5fdbdf56` (834184559 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -3160,6 +3213,7 @@ No second build of this corpus has been compared yet.
 - Title 8: editions read: 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 9: editions read: 2017 annual edition (to 2016-12-20); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); 2026 annual edition (to 2026-01-01); eCFR (to 2026-10-26).
 - Title 10: editions read: 2017 annual edition (to 2016-12-31); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-02); eCFR (to 2026-10-26).
+- Title 11: editions read: 2019 annual edition (to 2019-01-01); 2022 annual edition (to 2021-12-28); 2023 annual edition (to 2022-12-29); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 12: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).

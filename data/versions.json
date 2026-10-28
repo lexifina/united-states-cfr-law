@@ -62250,6 +62250,1102 @@
    ]
   },
   {
+   "slug": "title-11-part-0001",
+   "short": "11 CFR Part 1",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 1",
+   "url": "https://www.ecfr.gov/current/title-11/part-1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2021-12-23",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-11/CFR-2022-title-11.zip",
+     "sha256": "e6c2db6955e850ed4783dd0707f57205f53dc17ed1b85e212a3f5512bc3ee738"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    },
+    {
+     "from": "2024-03-20",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0002",
+   "short": "11 CFR Part 2",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 2",
+   "url": "https://www.ecfr.gov/current/title-11/part-2",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0004",
+   "short": "11 CFR Part 4",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 4",
+   "url": "https://www.ecfr.gov/current/title-11/part-4",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0005",
+   "short": "11 CFR Part 5",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 5",
+   "url": "https://www.ecfr.gov/current/title-11/part-5",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0006",
+   "short": "11 CFR Part 6",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 6",
+   "url": "https://www.ecfr.gov/current/title-11/part-6",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0007",
+   "short": "11 CFR Part 7",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 7",
+   "url": "https://www.ecfr.gov/current/title-11/part-7",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0008",
+   "short": "11 CFR Part 8",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 8",
+   "url": "https://www.ecfr.gov/current/title-11/part-8",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0100",
+   "short": "11 CFR Part 100",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 100",
+   "url": "https://www.ecfr.gov/current/title-11/part-100",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 93,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2019-05-02",
+     "units": 93,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-11/CFR-2022-title-11.zip",
+     "sha256": "e6c2db6955e850ed4783dd0707f57205f53dc17ed1b85e212a3f5512bc3ee738"
+    },
+    {
+     "from": "2024-01-02",
+     "units": 93,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 96,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0101",
+   "short": "11 CFR Part 101",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 101",
+   "url": "https://www.ecfr.gov/current/title-11/part-101",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2019-05-02",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-11/CFR-2022-title-11.zip",
+     "sha256": "e6c2db6955e850ed4783dd0707f57205f53dc17ed1b85e212a3f5512bc3ee738"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0102",
+   "short": "11 CFR Part 102",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 102",
+   "url": "https://www.ecfr.gov/current/title-11/part-102",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2019-05-02",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-11/CFR-2022-title-11.zip",
+     "sha256": "e6c2db6955e850ed4783dd0707f57205f53dc17ed1b85e212a3f5512bc3ee738"
+    },
+    {
+     "from": "2019-07-22",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-11/CFR-2022-title-11.zip",
+     "sha256": "e6c2db6955e850ed4783dd0707f57205f53dc17ed1b85e212a3f5512bc3ee738"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0103",
+   "short": "11 CFR Part 103",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 103",
+   "url": "https://www.ecfr.gov/current/title-11/part-103",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0104",
+   "short": "11 CFR Part 104",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 104",
+   "url": "https://www.ecfr.gov/current/title-11/part-104",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2019-03-31",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-11/CFR-2022-title-11.zip",
+     "sha256": "e6c2db6955e850ed4783dd0707f57205f53dc17ed1b85e212a3f5512bc3ee738"
+    },
+    {
+     "from": "2019-05-02",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-11/CFR-2022-title-11.zip",
+     "sha256": "e6c2db6955e850ed4783dd0707f57205f53dc17ed1b85e212a3f5512bc3ee738"
+    },
+    {
+     "from": "2021-12-23",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-11/CFR-2022-title-11.zip",
+     "sha256": "e6c2db6955e850ed4783dd0707f57205f53dc17ed1b85e212a3f5512bc3ee738"
+    },
+    {
+     "from": "2022-12-21",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-11/CFR-2023-title-11.zip",
+     "sha256": "32e3455068325cb335a87b35bdcbf672a91710a940d80ba1d636f4676b68c3cc"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    },
+    {
+     "from": "2024-11-26",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    },
+    {
+     "from": "2025-02-01",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-11/ECFR-title11.xml",
+     "sha256": "235e17571d3a2a4d992e75e8dc452ae92c33e3721ca99a2f532db33addedba85"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0105",
+   "short": "11 CFR Part 105",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 105",
+   "url": "https://www.ecfr.gov/current/title-11/part-105",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2019-05-02",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-11/CFR-2022-title-11.zip",
+     "sha256": "e6c2db6955e850ed4783dd0707f57205f53dc17ed1b85e212a3f5512bc3ee738"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0106",
+   "short": "11 CFR Part 106",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 106",
+   "url": "https://www.ecfr.gov/current/title-11/part-106",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0107",
+   "short": "11 CFR Part 107",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 107",
+   "url": "https://www.ecfr.gov/current/title-11/part-107",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0108",
+   "short": "11 CFR Part 108",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 108",
+   "url": "https://www.ecfr.gov/current/title-11/part-108",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2019-05-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-11/CFR-2022-title-11.zip",
+     "sha256": "e6c2db6955e850ed4783dd0707f57205f53dc17ed1b85e212a3f5512bc3ee738"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0109",
+   "short": "11 CFR Part 109",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 109",
+   "url": "https://www.ecfr.gov/current/title-11/part-109",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2019-03-31",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-11/CFR-2022-title-11.zip",
+     "sha256": "e6c2db6955e850ed4783dd0707f57205f53dc17ed1b85e212a3f5512bc3ee738"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-11/CFR-2023-title-11.zip",
+     "sha256": "32e3455068325cb335a87b35bdcbf672a91710a940d80ba1d636f4676b68c3cc"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0110",
+   "short": "11 CFR Part 110",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 110",
+   "url": "https://www.ecfr.gov/current/title-11/part-110",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2019-05-02",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-11/CFR-2022-title-11.zip",
+     "sha256": "e6c2db6955e850ed4783dd0707f57205f53dc17ed1b85e212a3f5512bc3ee738"
+    },
+    {
+     "from": "2021-12-23",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-11/CFR-2022-title-11.zip",
+     "sha256": "e6c2db6955e850ed4783dd0707f57205f53dc17ed1b85e212a3f5512bc3ee738"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-11/CFR-2023-title-11.zip",
+     "sha256": "32e3455068325cb335a87b35bdcbf672a91710a940d80ba1d636f4676b68c3cc"
+    },
+    {
+     "from": "2023-08-05",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-11/ECFR-title11.xml",
+     "sha256": "235e17571d3a2a4d992e75e8dc452ae92c33e3721ca99a2f532db33addedba85"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0111",
+   "short": "11 CFR Part 111",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 111",
+   "url": "https://www.ecfr.gov/current/title-11/part-111",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2021-12-28",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-11/CFR-2022-title-11.zip",
+     "sha256": "e6c2db6955e850ed4783dd0707f57205f53dc17ed1b85e212a3f5512bc3ee738"
+    },
+    {
+     "from": "2022-12-29",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-11/CFR-2023-title-11.zip",
+     "sha256": "32e3455068325cb335a87b35bdcbf672a91710a940d80ba1d636f4676b68c3cc"
+    },
+    {
+     "from": "2024-01-05",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    },
+    {
+     "from": "2025-01-03",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-11/ECFR-title11.xml",
+     "sha256": "235e17571d3a2a4d992e75e8dc452ae92c33e3721ca99a2f532db33addedba85"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0112",
+   "short": "11 CFR Part 112",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 112",
+   "url": "https://www.ecfr.gov/current/title-11/part-112",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0113",
+   "short": "11 CFR Part 113",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 113",
+   "url": "https://www.ecfr.gov/current/title-11/part-113",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0114",
+   "short": "11 CFR Part 114",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 114",
+   "url": "https://www.ecfr.gov/current/title-11/part-114",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2019-05-02",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-11/CFR-2022-title-11.zip",
+     "sha256": "e6c2db6955e850ed4783dd0707f57205f53dc17ed1b85e212a3f5512bc3ee738"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0115",
+   "short": "11 CFR Part 115",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 115",
+   "url": "https://www.ecfr.gov/current/title-11/part-115",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0116",
+   "short": "11 CFR Part 116",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 116",
+   "url": "https://www.ecfr.gov/current/title-11/part-116",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-11/CFR-2023-title-11.zip",
+     "sha256": "32e3455068325cb335a87b35bdcbf672a91710a940d80ba1d636f4676b68c3cc"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0200",
+   "short": "11 CFR Part 200",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 200",
+   "url": "https://www.ecfr.gov/current/title-11/part-200",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0201",
+   "short": "11 CFR Part 201",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 201",
+   "url": "https://www.ecfr.gov/current/title-11/part-201",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-0300",
+   "short": "11 CFR Part 300",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 300",
+   "url": "https://www.ecfr.gov/current/title-11/part-300",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9001",
+   "short": "11 CFR Part 9001",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9001",
+   "url": "https://www.ecfr.gov/current/title-11/part-9001",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9002",
+   "short": "11 CFR Part 9002",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9002",
+   "url": "https://www.ecfr.gov/current/title-11/part-9002",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9003",
+   "short": "11 CFR Part 9003",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9003",
+   "url": "https://www.ecfr.gov/current/title-11/part-9003",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9004",
+   "short": "11 CFR Part 9004",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9004",
+   "url": "https://www.ecfr.gov/current/title-11/part-9004",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9005",
+   "short": "11 CFR Part 9005",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9005",
+   "url": "https://www.ecfr.gov/current/title-11/part-9005",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9006",
+   "short": "11 CFR Part 9006",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9006",
+   "url": "https://www.ecfr.gov/current/title-11/part-9006",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9007",
+   "short": "11 CFR Part 9007",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9007",
+   "url": "https://www.ecfr.gov/current/title-11/part-9007",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9008",
+   "short": "11 CFR Part 9008",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9008",
+   "url": "https://www.ecfr.gov/current/title-11/part-9008",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9012",
+   "short": "11 CFR Part 9012",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9012",
+   "url": "https://www.ecfr.gov/current/title-11/part-9012",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9031",
+   "short": "11 CFR Part 9031",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9031",
+   "url": "https://www.ecfr.gov/current/title-11/part-9031",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9032",
+   "short": "11 CFR Part 9032",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9032",
+   "url": "https://www.ecfr.gov/current/title-11/part-9032",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9033",
+   "short": "11 CFR Part 9033",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9033",
+   "url": "https://www.ecfr.gov/current/title-11/part-9033",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9034",
+   "short": "11 CFR Part 9034",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9034",
+   "url": "https://www.ecfr.gov/current/title-11/part-9034",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9035",
+   "short": "11 CFR Part 9035",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9035",
+   "url": "https://www.ecfr.gov/current/title-11/part-9035",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9036",
+   "short": "11 CFR Part 9036",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9036",
+   "url": "https://www.ecfr.gov/current/title-11/part-9036",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9037",
+   "short": "11 CFR Part 9037",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9037",
+   "url": "https://www.ecfr.gov/current/title-11/part-9037",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9038",
+   "short": "11 CFR Part 9038",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9038",
+   "url": "https://www.ecfr.gov/current/title-11/part-9038",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9039",
+   "short": "11 CFR Part 9039",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9039",
+   "url": "https://www.ecfr.gov/current/title-11/part-9039",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-11/CFR-2025-title-11.zip",
+     "sha256": "3b444c6f64c55c0d1cd603d807699d5ceb24248f9377a607ad297cfa418673af"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9405",
+   "short": "11 CFR Part 9405",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9405",
+   "url": "https://www.ecfr.gov/current/title-11/part-9405",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9407",
+   "short": "11 CFR Part 9407",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9407",
+   "url": "https://www.ecfr.gov/current/title-11/part-9407",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9409",
+   "short": "11 CFR Part 9409",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9409",
+   "url": "https://www.ecfr.gov/current/title-11/part-9409",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9410",
+   "short": "11 CFR Part 9410",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9410",
+   "url": "https://www.ecfr.gov/current/title-11/part-9410",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9411",
+   "short": "11 CFR Part 9411",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9411",
+   "url": "https://www.ecfr.gov/current/title-11/part-9411",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9420",
+   "short": "11 CFR Part 9420",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9420",
+   "url": "https://www.ecfr.gov/current/title-11/part-9420",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9428",
+   "short": "11 CFR Part 9428",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9428",
+   "url": "https://www.ecfr.gov/current/title-11/part-9428",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-part-9430",
+   "short": "11 CFR Part 9430",
+   "title": "Title 11 of the Code of Federal Regulations (Federal Elections), Part 9430",
+   "url": "https://www.ecfr.gov/current/title-11/part-9430",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-11/CFR-2019-title-11.zip",
+     "sha256": "8423316487168c99319c4b61e3927588e3bee9bb7b5fe49eea90240e215530ee"
+    }
+   ]
+  },
+  {
    "slug": "title-12-part-0001",
    "short": "12 CFR Part 1",
    "title": "Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1",
