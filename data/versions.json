@@ -173152,6 +173152,1392 @@
      "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
     }
    ]
+  },
+  {
+   "slug": "title-39-part-0001",
+   "short": "39 CFR Part 1",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 1",
+   "url": "https://www.ecfr.gov/current/title-39/part-1",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0002",
+   "short": "39 CFR Part 2",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 2",
+   "url": "https://www.ecfr.gov/current/title-39/part-2",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0003",
+   "short": "39 CFR Part 3",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3",
+   "url": "https://www.ecfr.gov/current/title-39/part-3",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0004",
+   "short": "39 CFR Part 4",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 4",
+   "url": "https://www.ecfr.gov/current/title-39/part-4",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0005",
+   "short": "39 CFR Part 5",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 5",
+   "url": "https://www.ecfr.gov/current/title-39/part-5",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0006",
+   "short": "39 CFR Part 6",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 6",
+   "url": "https://www.ecfr.gov/current/title-39/part-6",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0007",
+   "short": "39 CFR Part 7",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 7",
+   "url": "https://www.ecfr.gov/current/title-39/part-7",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0010",
+   "short": "39 CFR Part 10",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 10",
+   "url": "https://www.ecfr.gov/current/title-39/part-10",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0011",
+   "short": "39 CFR Part 11",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 11",
+   "url": "https://www.ecfr.gov/current/title-39/part-11",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0020",
+   "short": "39 CFR Part 20",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 20",
+   "url": "https://www.ecfr.gov/current/title-39/part-20",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0111",
+   "short": "39 CFR Part 111",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 111",
+   "url": "https://www.ecfr.gov/current/title-39/part-111",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0121",
+   "short": "39 CFR Part 121",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 121",
+   "url": "https://www.ecfr.gov/current/title-39/part-121",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0122",
+   "short": "39 CFR Part 122",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 122",
+   "url": "https://www.ecfr.gov/current/title-39/part-122",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0211",
+   "short": "39 CFR Part 211",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 211",
+   "url": "https://www.ecfr.gov/current/title-39/part-211",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0221",
+   "short": "39 CFR Part 221",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 221",
+   "url": "https://www.ecfr.gov/current/title-39/part-221",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0222",
+   "short": "39 CFR Part 222",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 222",
+   "url": "https://www.ecfr.gov/current/title-39/part-222",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0223",
+   "short": "39 CFR Part 223",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 223",
+   "url": "https://www.ecfr.gov/current/title-39/part-223",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0230",
+   "short": "39 CFR Part 230",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 230",
+   "url": "https://www.ecfr.gov/current/title-39/part-230",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0231",
+   "short": "39 CFR Part 231",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 231",
+   "url": "https://www.ecfr.gov/current/title-39/part-231",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0232",
+   "short": "39 CFR Part 232",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 232",
+   "url": "https://www.ecfr.gov/current/title-39/part-232",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0233",
+   "short": "39 CFR Part 233",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 233",
+   "url": "https://www.ecfr.gov/current/title-39/part-233",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0235",
+   "short": "39 CFR Part 235",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 235",
+   "url": "https://www.ecfr.gov/current/title-39/part-235",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0241",
+   "short": "39 CFR Part 241",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 241",
+   "url": "https://www.ecfr.gov/current/title-39/part-241",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0242",
+   "short": "39 CFR Part 242",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 242",
+   "url": "https://www.ecfr.gov/current/title-39/part-242",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0243",
+   "short": "39 CFR Part 243",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 243",
+   "url": "https://www.ecfr.gov/current/title-39/part-243",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0254",
+   "short": "39 CFR Part 254",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 254",
+   "url": "https://www.ecfr.gov/current/title-39/part-254",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0255",
+   "short": "39 CFR Part 255",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 255",
+   "url": "https://www.ecfr.gov/current/title-39/part-255",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0259",
+   "short": "39 CFR Part 259",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 259",
+   "url": "https://www.ecfr.gov/current/title-39/part-259",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0261",
+   "short": "39 CFR Part 261",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 261",
+   "url": "https://www.ecfr.gov/current/title-39/part-261",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0262",
+   "short": "39 CFR Part 262",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 262",
+   "url": "https://www.ecfr.gov/current/title-39/part-262",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0263",
+   "short": "39 CFR Part 263",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 263",
+   "url": "https://www.ecfr.gov/current/title-39/part-263",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0264",
+   "short": "39 CFR Part 264",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 264",
+   "url": "https://www.ecfr.gov/current/title-39/part-264",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0265",
+   "short": "39 CFR Part 265",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 265",
+   "url": "https://www.ecfr.gov/current/title-39/part-265",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0266",
+   "short": "39 CFR Part 266",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 266",
+   "url": "https://www.ecfr.gov/current/title-39/part-266",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0267",
+   "short": "39 CFR Part 267",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 267",
+   "url": "https://www.ecfr.gov/current/title-39/part-267",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0268",
+   "short": "39 CFR Part 268",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 268",
+   "url": "https://www.ecfr.gov/current/title-39/part-268",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0273",
+   "short": "39 CFR Part 273",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 273",
+   "url": "https://www.ecfr.gov/current/title-39/part-273",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0281",
+   "short": "39 CFR Part 281",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 281",
+   "url": "https://www.ecfr.gov/current/title-39/part-281",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0310",
+   "short": "39 CFR Part 310",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 310",
+   "url": "https://www.ecfr.gov/current/title-39/part-310",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0320",
+   "short": "39 CFR Part 320",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 320",
+   "url": "https://www.ecfr.gov/current/title-39/part-320",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0447",
+   "short": "39 CFR Part 447",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 447",
+   "url": "https://www.ecfr.gov/current/title-39/part-447",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0491",
+   "short": "39 CFR Part 491",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 491",
+   "url": "https://www.ecfr.gov/current/title-39/part-491",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0492",
+   "short": "39 CFR Part 492",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 492",
+   "url": "https://www.ecfr.gov/current/title-39/part-492",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0501",
+   "short": "39 CFR Part 501",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 501",
+   "url": "https://www.ecfr.gov/current/title-39/part-501",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0551",
+   "short": "39 CFR Part 551",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 551",
+   "url": "https://www.ecfr.gov/current/title-39/part-551",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0601",
+   "short": "39 CFR Part 601",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 601",
+   "url": "https://www.ecfr.gov/current/title-39/part-601",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0602",
+   "short": "39 CFR Part 602",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 602",
+   "url": "https://www.ecfr.gov/current/title-39/part-602",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0760",
+   "short": "39 CFR Part 760",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 760",
+   "url": "https://www.ecfr.gov/current/title-39/part-760",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0761",
+   "short": "39 CFR Part 761",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 761",
+   "url": "https://www.ecfr.gov/current/title-39/part-761",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0762",
+   "short": "39 CFR Part 762",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 762",
+   "url": "https://www.ecfr.gov/current/title-39/part-762",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0775",
+   "short": "39 CFR Part 775",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 775",
+   "url": "https://www.ecfr.gov/current/title-39/part-775",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0776",
+   "short": "39 CFR Part 776",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 776",
+   "url": "https://www.ecfr.gov/current/title-39/part-776",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0777",
+   "short": "39 CFR Part 777",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 777",
+   "url": "https://www.ecfr.gov/current/title-39/part-777",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0778",
+   "short": "39 CFR Part 778",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 778",
+   "url": "https://www.ecfr.gov/current/title-39/part-778",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0912",
+   "short": "39 CFR Part 912",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 912",
+   "url": "https://www.ecfr.gov/current/title-39/part-912",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0913",
+   "short": "39 CFR Part 913",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 913",
+   "url": "https://www.ecfr.gov/current/title-39/part-913",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0927",
+   "short": "39 CFR Part 927",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 927",
+   "url": "https://www.ecfr.gov/current/title-39/part-927",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0931",
+   "short": "39 CFR Part 931",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 931",
+   "url": "https://www.ecfr.gov/current/title-39/part-931",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0946",
+   "short": "39 CFR Part 946",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 946",
+   "url": "https://www.ecfr.gov/current/title-39/part-946",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0951",
+   "short": "39 CFR Part 951",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 951",
+   "url": "https://www.ecfr.gov/current/title-39/part-951",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0952",
+   "short": "39 CFR Part 952",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 952",
+   "url": "https://www.ecfr.gov/current/title-39/part-952",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0953",
+   "short": "39 CFR Part 953",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 953",
+   "url": "https://www.ecfr.gov/current/title-39/part-953",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0954",
+   "short": "39 CFR Part 954",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 954",
+   "url": "https://www.ecfr.gov/current/title-39/part-954",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0955",
+   "short": "39 CFR Part 955",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 955",
+   "url": "https://www.ecfr.gov/current/title-39/part-955",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0956",
+   "short": "39 CFR Part 956",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 956",
+   "url": "https://www.ecfr.gov/current/title-39/part-956",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0957",
+   "short": "39 CFR Part 957",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 957",
+   "url": "https://www.ecfr.gov/current/title-39/part-957",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0958",
+   "short": "39 CFR Part 958",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 958",
+   "url": "https://www.ecfr.gov/current/title-39/part-958",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0959",
+   "short": "39 CFR Part 959",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 959",
+   "url": "https://www.ecfr.gov/current/title-39/part-959",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0960",
+   "short": "39 CFR Part 960",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 960",
+   "url": "https://www.ecfr.gov/current/title-39/part-960",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0961",
+   "short": "39 CFR Part 961",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 961",
+   "url": "https://www.ecfr.gov/current/title-39/part-961",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0962",
+   "short": "39 CFR Part 962",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 962",
+   "url": "https://www.ecfr.gov/current/title-39/part-962",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0963",
+   "short": "39 CFR Part 963",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 963",
+   "url": "https://www.ecfr.gov/current/title-39/part-963",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0964",
+   "short": "39 CFR Part 964",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 964",
+   "url": "https://www.ecfr.gov/current/title-39/part-964",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0965",
+   "short": "39 CFR Part 965",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 965",
+   "url": "https://www.ecfr.gov/current/title-39/part-965",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-0966",
+   "short": "39 CFR Part 966",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 966",
+   "url": "https://www.ecfr.gov/current/title-39/part-966",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3000",
+   "short": "39 CFR Part 3000",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3000",
+   "url": "https://www.ecfr.gov/current/title-39/part-3000",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3001",
+   "short": "39 CFR Part 3001",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3001",
+   "url": "https://www.ecfr.gov/current/title-39/part-3001",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3005",
+   "short": "39 CFR Part 3005",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3005",
+   "url": "https://www.ecfr.gov/current/title-39/part-3005",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3006",
+   "short": "39 CFR Part 3006",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3006",
+   "url": "https://www.ecfr.gov/current/title-39/part-3006",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3007",
+   "short": "39 CFR Part 3007",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3007",
+   "url": "https://www.ecfr.gov/current/title-39/part-3007",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3010",
+   "short": "39 CFR Part 3010",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3010",
+   "url": "https://www.ecfr.gov/current/title-39/part-3010",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 59,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3011",
+   "short": "39 CFR Part 3011",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3011",
+   "url": "https://www.ecfr.gov/current/title-39/part-3011",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3012",
+   "short": "39 CFR Part 3012",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3012",
+   "url": "https://www.ecfr.gov/current/title-39/part-3012",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3013",
+   "short": "39 CFR Part 3013",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3013",
+   "url": "https://www.ecfr.gov/current/title-39/part-3013",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3020",
+   "short": "39 CFR Part 3020",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3020",
+   "url": "https://www.ecfr.gov/current/title-39/part-3020",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3021",
+   "short": "39 CFR Part 3021",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3021",
+   "url": "https://www.ecfr.gov/current/title-39/part-3021",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3022",
+   "short": "39 CFR Part 3022",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3022",
+   "url": "https://www.ecfr.gov/current/title-39/part-3022",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3023",
+   "short": "39 CFR Part 3023",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3023",
+   "url": "https://www.ecfr.gov/current/title-39/part-3023",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3024",
+   "short": "39 CFR Part 3024",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3024",
+   "url": "https://www.ecfr.gov/current/title-39/part-3024",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3025",
+   "short": "39 CFR Part 3025",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3025",
+   "url": "https://www.ecfr.gov/current/title-39/part-3025",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3030",
+   "short": "39 CFR Part 3030",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3030",
+   "url": "https://www.ecfr.gov/current/title-39/part-3030",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3035",
+   "short": "39 CFR Part 3035",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3035",
+   "url": "https://www.ecfr.gov/current/title-39/part-3035",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3040",
+   "short": "39 CFR Part 3040",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3040",
+   "url": "https://www.ecfr.gov/current/title-39/part-3040",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3041",
+   "short": "39 CFR Part 3041",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3041",
+   "url": "https://www.ecfr.gov/current/title-39/part-3041",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3045",
+   "short": "39 CFR Part 3045",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3045",
+   "url": "https://www.ecfr.gov/current/title-39/part-3045",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3050",
+   "short": "39 CFR Part 3050",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3050",
+   "url": "https://www.ecfr.gov/current/title-39/part-3050",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3055",
+   "short": "39 CFR Part 3055",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3055",
+   "url": "https://www.ecfr.gov/current/title-39/part-3055",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3060",
+   "short": "39 CFR Part 3060",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3060",
+   "url": "https://www.ecfr.gov/current/title-39/part-3060",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-part-3065",
+   "short": "39 CFR Part 3065",
+   "title": "Title 39 of the Code of Federal Regulations (Postal Service), Part 3065",
+   "url": "https://www.ecfr.gov/current/title-39/part-3065",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-39/ECFR-title39.xml",
+     "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
+    }
+   ]
   }
  ]
 }

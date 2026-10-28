@@ -6528,12 +6528,111 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-38-part-0079` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 79 | 1 | 2025-04-01 to 2025-04-01 |
 | `title-38-part-0080` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 80 | 1 | 2025-04-01 to 2025-04-01 |
 | `title-38-part-0200` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 200 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-39-part-0001` | Title 39 of the Code of Federal Regulations (Postal Service), Part 1 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0002` | Title 39 of the Code of Federal Regulations (Postal Service), Part 2 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0003` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0004` | Title 39 of the Code of Federal Regulations (Postal Service), Part 4 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0005` | Title 39 of the Code of Federal Regulations (Postal Service), Part 5 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0006` | Title 39 of the Code of Federal Regulations (Postal Service), Part 6 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0007` | Title 39 of the Code of Federal Regulations (Postal Service), Part 7 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0010` | Title 39 of the Code of Federal Regulations (Postal Service), Part 10 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0011` | Title 39 of the Code of Federal Regulations (Postal Service), Part 11 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0020` | Title 39 of the Code of Federal Regulations (Postal Service), Part 20 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0111` | Title 39 of the Code of Federal Regulations (Postal Service), Part 111 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0121` | Title 39 of the Code of Federal Regulations (Postal Service), Part 121 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0122` | Title 39 of the Code of Federal Regulations (Postal Service), Part 122 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0211` | Title 39 of the Code of Federal Regulations (Postal Service), Part 211 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0221` | Title 39 of the Code of Federal Regulations (Postal Service), Part 221 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0222` | Title 39 of the Code of Federal Regulations (Postal Service), Part 222 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0223` | Title 39 of the Code of Federal Regulations (Postal Service), Part 223 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0230` | Title 39 of the Code of Federal Regulations (Postal Service), Part 230 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0231` | Title 39 of the Code of Federal Regulations (Postal Service), Part 231 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0232` | Title 39 of the Code of Federal Regulations (Postal Service), Part 232 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0233` | Title 39 of the Code of Federal Regulations (Postal Service), Part 233 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0235` | Title 39 of the Code of Federal Regulations (Postal Service), Part 235 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0241` | Title 39 of the Code of Federal Regulations (Postal Service), Part 241 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0242` | Title 39 of the Code of Federal Regulations (Postal Service), Part 242 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0243` | Title 39 of the Code of Federal Regulations (Postal Service), Part 243 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0254` | Title 39 of the Code of Federal Regulations (Postal Service), Part 254 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0255` | Title 39 of the Code of Federal Regulations (Postal Service), Part 255 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0259` | Title 39 of the Code of Federal Regulations (Postal Service), Part 259 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0261` | Title 39 of the Code of Federal Regulations (Postal Service), Part 261 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0262` | Title 39 of the Code of Federal Regulations (Postal Service), Part 262 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0263` | Title 39 of the Code of Federal Regulations (Postal Service), Part 263 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0264` | Title 39 of the Code of Federal Regulations (Postal Service), Part 264 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0265` | Title 39 of the Code of Federal Regulations (Postal Service), Part 265 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0266` | Title 39 of the Code of Federal Regulations (Postal Service), Part 266 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0267` | Title 39 of the Code of Federal Regulations (Postal Service), Part 267 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0268` | Title 39 of the Code of Federal Regulations (Postal Service), Part 268 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0273` | Title 39 of the Code of Federal Regulations (Postal Service), Part 273 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0281` | Title 39 of the Code of Federal Regulations (Postal Service), Part 281 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0310` | Title 39 of the Code of Federal Regulations (Postal Service), Part 310 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0320` | Title 39 of the Code of Federal Regulations (Postal Service), Part 320 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0447` | Title 39 of the Code of Federal Regulations (Postal Service), Part 447 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0491` | Title 39 of the Code of Federal Regulations (Postal Service), Part 491 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0492` | Title 39 of the Code of Federal Regulations (Postal Service), Part 492 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0501` | Title 39 of the Code of Federal Regulations (Postal Service), Part 501 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0551` | Title 39 of the Code of Federal Regulations (Postal Service), Part 551 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0601` | Title 39 of the Code of Federal Regulations (Postal Service), Part 601 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0602` | Title 39 of the Code of Federal Regulations (Postal Service), Part 602 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0760` | Title 39 of the Code of Federal Regulations (Postal Service), Part 760 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0761` | Title 39 of the Code of Federal Regulations (Postal Service), Part 761 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0762` | Title 39 of the Code of Federal Regulations (Postal Service), Part 762 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0775` | Title 39 of the Code of Federal Regulations (Postal Service), Part 775 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0776` | Title 39 of the Code of Federal Regulations (Postal Service), Part 776 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0777` | Title 39 of the Code of Federal Regulations (Postal Service), Part 777 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0778` | Title 39 of the Code of Federal Regulations (Postal Service), Part 778 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0912` | Title 39 of the Code of Federal Regulations (Postal Service), Part 912 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0913` | Title 39 of the Code of Federal Regulations (Postal Service), Part 913 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0927` | Title 39 of the Code of Federal Regulations (Postal Service), Part 927 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0931` | Title 39 of the Code of Federal Regulations (Postal Service), Part 931 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0946` | Title 39 of the Code of Federal Regulations (Postal Service), Part 946 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0951` | Title 39 of the Code of Federal Regulations (Postal Service), Part 951 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0952` | Title 39 of the Code of Federal Regulations (Postal Service), Part 952 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0953` | Title 39 of the Code of Federal Regulations (Postal Service), Part 953 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0954` | Title 39 of the Code of Federal Regulations (Postal Service), Part 954 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0955` | Title 39 of the Code of Federal Regulations (Postal Service), Part 955 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0956` | Title 39 of the Code of Federal Regulations (Postal Service), Part 956 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0957` | Title 39 of the Code of Federal Regulations (Postal Service), Part 957 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0958` | Title 39 of the Code of Federal Regulations (Postal Service), Part 958 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0959` | Title 39 of the Code of Federal Regulations (Postal Service), Part 959 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0960` | Title 39 of the Code of Federal Regulations (Postal Service), Part 960 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0961` | Title 39 of the Code of Federal Regulations (Postal Service), Part 961 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0962` | Title 39 of the Code of Federal Regulations (Postal Service), Part 962 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0963` | Title 39 of the Code of Federal Regulations (Postal Service), Part 963 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0964` | Title 39 of the Code of Federal Regulations (Postal Service), Part 964 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0965` | Title 39 of the Code of Federal Regulations (Postal Service), Part 965 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-0966` | Title 39 of the Code of Federal Regulations (Postal Service), Part 966 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3000` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3000 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3001` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3001 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3005` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3005 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3006` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3006 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3007` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3007 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3010` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3010 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3011` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3011 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3012` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3012 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3013` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3013 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3020` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3020 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3021` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3021 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3022` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3022 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3023` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3023 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3024` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3024 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3025` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3025 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3030` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3030 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3035` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3035 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3040` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3040 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3041` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3041 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3045` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3045 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3050` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3050 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3055` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3055 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3060` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3060 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-39-part-3065` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3065 | 1 | 2026-10-26 to 2026-10-26 |
 
-The build made 24746 commits:
+The build made 24845 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 6512 | first version of an act |
+| 6611 | first version of an act |
 | 12621 | one law on its in-force day |
 | 5613 | changes no amendment note explains, credited to the publisher |
 
@@ -6541,7 +6640,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 15109 laws in the record.
-- 32180 tags.
+- 32279 tags.
 
 ## Dates
 
@@ -6553,7 +6652,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b5418f857386631f798344f301b45c487042d1118f6eb208c869938e7c99a421` (1159100467 bytes).
+- Corpus: sha256 `1c9a7c4739393774f6d1624cad10b53744fa86510ce8db8b4ce8613a13e7986f` (1161175723 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -6612,6 +6711,7 @@ No second build of this corpus has been compared yet.
 - Title 36: editions read: 2019 annual edition (to 2019-05-10); eCFR (to 2026-10-26).
 - Title 37: editions read: eCFR (to 2026-10-26).
 - Title 38: editions read: 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
+- Title 39: editions read: eCFR (to 2026-10-26).
 
 ## What AI did and did not do
 
