@@ -880,6 +880,295 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-04-part-0081` | Title 4 of the Code of Federal Regulations (Accounts), Part 81 | 1 | 2017-12-08 to 2017-12-08 |
 | `title-04-part-0082` | Title 4 of the Code of Federal Regulations (Accounts), Part 82 | 1 | 2017-12-08 to 2017-12-08 |
 | `title-04-part-0083` | Title 4 of the Code of Federal Regulations (Accounts), Part 83 | 2 | 2017-12-08 to 2024-07-18 |
+| `title-05-part-0001` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1 | 2 | 2017-01-01 to 2026-06-10 |
+| `title-05-part-0002` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2 | 4 | 2017-01-01 to 2026-10-13 |
+| `title-05-part-0003` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 3 | 2 | 2017-01-01 to 2026-10-13 |
+| `title-05-part-0004` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 4 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0005` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 5 | 6 | 2017-01-01 to 2026-10-26 |
+| `title-05-part-0006` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 6 | 8 | 2017-01-01 to 2026-10-13 |
+| `title-05-part-0007` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 7 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0008` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 8 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0009` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 9 | 2 | 2017-01-01 to 2026-10-13 |
+| `title-05-part-0010` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 10 | 2 | 2017-01-01 to 2026-10-13 |
+| `title-05-part-0011` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 11 | 3 | 2025-04-29 to 2026-09-02 |
+| `title-05-part-0110` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 110 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0120` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 120 | 2 | 2020-10-16 to 2024-05-30 |
+| `title-05-part-0151` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 151 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0175` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 175 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0177` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 177 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0178` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 178 | 2 | 2017-01-01 to 2026-09-29 |
+| `title-05-part-0179` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 179 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0180` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 180 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0185` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 185 | 8 | 2017-01-01 to 2025-05-21 |
+| `title-05-part-0210` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 210 | 3 | 2017-01-01 to 2026-03-09 |
+| `title-05-part-0211` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 211 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0212` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 212 | 3 | 2017-01-01 to 2026-03-09 |
+| `title-05-part-0213` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 213 | 4 | 2017-01-01 to 2026-03-09 |
+| `title-05-part-0214` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 214 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0230` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 230 | 2 | 2017-01-01 to 2026-09-02 |
+| `title-05-part-0250` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 250 | 4 | 2017-01-01 to 2018-11-09 |
+| `title-05-part-0251` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 251 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0293` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 293 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0294` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 294 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0295` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 295 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0297` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 297 | 2 | 2017-01-01 to 2024-06-26 |
+| `title-05-part-0300` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 300 | 3 | 2017-01-01 to 2026-07-31 |
+| `title-05-part-0301` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 301 | 2 | 2017-01-01 to 2025-06-24 |
+| `title-05-part-0302` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 302 | 9 | 2017-01-01 to 2026-10-15 |
+| `title-05-part-0304` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 304 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0307` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 307 | 2 | 2017-01-01 to 2025-06-24 |
+| `title-05-part-0308` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 308 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0310` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 310 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0315` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 315 | 13 | 2017-01-01 to 2026-10-19 |
+| `title-05-part-0316` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 316 | 7 | 2017-01-01 to 2026-10-19 |
+| `title-05-part-0317` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 317 | 2 | 2017-01-01 to 2023-10-02 |
+| `title-05-part-0319` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 319 | 2 | 2017-01-01 to 2023-10-02 |
+| `title-05-part-0330` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 330 | 6 | 2017-01-01 to 2026-09-15 |
+| `title-05-part-0332` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 332 | 4 | 2017-01-01 to 2026-10-15 |
+| `title-05-part-0334` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 334 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0335` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 335 | 4 | 2017-01-01 to 2024-08-26 |
+| `title-05-part-0337` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 337 | 5 | 2017-01-01 to 2026-10-15 |
+| `title-05-part-0338` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 338 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0339` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 339 | 3 | 2017-01-01 to 2017-12-06 |
+| `title-05-part-0340` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 340 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0351` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 351 | 3 | 2017-01-01 to 2026-10-19 |
+| `title-05-part-0352` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 352 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0353` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 353 | 2 | 2017-01-01 to 2026-09-02 |
+| `title-05-part-0359` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 359 | 3 | 2017-01-01 to 2026-09-02 |
+| `title-05-part-0362` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 362 | 4 | 2017-01-01 to 2026-09-02 |
+| `title-05-part-0370` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 370 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0410` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 410 | 2 | 2017-01-01 to 2024-06-11 |
+| `title-05-part-0412` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 412 | 2 | 2017-01-01 to 2026-07-27 |
+| `title-05-part-0430` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 430 | 5 | 2017-01-01 to 2026-10-19 |
+| `title-05-part-0432` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 432 | 5 | 2017-01-01 to 2026-09-02 |
+| `title-05-part-0451` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 451 | 3 | 2017-01-01 to 2026-03-09 |
+| `title-05-part-0470` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 470 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0511` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 511 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0530` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 530 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0531` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 531 | 5 | 2017-01-01 to 2024-04-01 |
+| `title-05-part-0532` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 532 | 19 | 2017-01-01 to 2026-09-14 |
+| `title-05-part-0534` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 534 | 2 | 2017-01-01 to 2024-04-01 |
+| `title-05-part-0535` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 535 | 2 | 2017-01-01 to 2026-08-26 |
+| `title-05-part-0536` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 536 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0537` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 537 | 4 | 2017-01-01 to 2026-10-19 |
+| `title-05-part-0550` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 550 | 5 | 2017-01-01 to 2026-10-26 |
+| `title-05-part-0551` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 551 | 2 | 2017-01-01 to 2026-09-29 |
+| `title-05-part-0553` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 553 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0572` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 572 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0575` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 575 | 3 | 2017-01-01 to 2026-08-25 |
+| `title-05-part-0576` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 576 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0581` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 581 | 3 | 2017-01-01 to 2026-07-22 |
+| `title-05-part-0582` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 582 | 2 | 2017-01-01 to 2023-06-20 |
+| `title-05-part-0591` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 591 | 2 | 2017-01-01 to 2026-07-13 |
+| `title-05-part-0595` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 595 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0610` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 610 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0630` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 630 | 8 | 2017-01-01 to 2025-01-16 |
+| `title-05-part-0715` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 715 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0720` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 720 | 3 | 2017-01-01 to 2026-07-31 |
+| `title-05-part-0723` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 723 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0724` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 724 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0730` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 730 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0731` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 731 | 7 | 2017-01-01 to 2026-09-02 |
+| `title-05-part-0732` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 732 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0733` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 733 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0734` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 734 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0735` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 735 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0736` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 736 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0751` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 751 | 1 | 2026-09-02 to 2026-09-02 |
+| `title-05-part-0752` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 752 | 7 | 2017-01-01 to 2026-09-02 |
+| `title-05-part-0754` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 754 | 1 | 2023-10-02 to 2023-10-02 |
+| `title-05-part-0755` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 755 | 2 | 2025-01-15 to 2025-08-25 |
+| `title-05-part-0771` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 771 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0772` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 772 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0792` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 792 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0831` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 831 | 4 | 2017-01-01 to 2021-04-20 |
+| `title-05-part-0835` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 835 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0837` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 837 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0838` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 838 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0839` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 839 | 2 | 2017-01-01 to 2017-10-25 |
+| `title-05-part-0841` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 841 | 4 | 2017-01-01 to 2023-05-17 |
+| `title-05-part-0842` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 842 | 5 | 2017-01-01 to 2023-05-17 |
+| `title-05-part-0843` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 843 | 6 | 2017-01-01 to 2026-08-24 |
+| `title-05-part-0844` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 844 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0845` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 845 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0846` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 846 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0847` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 847 | 2 | 2017-01-01 to 2017-10-25 |
+| `title-05-part-0848` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 848 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0849` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 849 | 1 | 2021-10-14 to 2021-10-14 |
+| `title-05-part-0850` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 850 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0870` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 870 | 3 | 2017-01-01 to 2021-04-02 |
+| `title-05-part-0875` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 875 | 3 | 2017-01-01 to 2022-11-16 |
+| `title-05-part-0880` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 880 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0890` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 890 | 12 | 2017-01-01 to 2026-08-03 |
+| `title-05-part-0891` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 891 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0892` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 892 | 2 | 2017-01-01 to 2018-09-30 |
+| `title-05-part-0894` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 894 | 6 | 2017-01-01 to 2023-07-25 |
+| `title-05-part-0900` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 900 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0911` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 911 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0919` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 919 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-05-part-0920` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 920 | 1 | 2023-10-02 to 2023-10-02 |
+| `title-05-part-0930` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 930 | 2 | 2017-01-01 to 2024-04-01 |
+| `title-05-part-0950` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 950 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-0960` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 960 | 2 | 2017-01-01 to 2025-03-21 |
+| `title-05-part-1001` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1001 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1200` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1200 | 2 | 2017-01-01 to 2024-10-07 |
+| `title-05-part-1201` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1201 | 17 | 2017-01-01 to 2026-10-26 |
+| `title-05-part-1202` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1202 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1203` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1203 | 2 | 2017-01-01 to 2024-10-07 |
+| `title-05-part-1204` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1204 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1205` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1205 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1206` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1206 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1207` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1207 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1208` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1208 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1209` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1209 | 2 | 2017-01-01 to 2024-10-07 |
+| `title-05-part-1210` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1210 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1215` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1215 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1216` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1216 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1300` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1300 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1302` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1302 | 2 | 2017-01-01 to 2024-07-10 |
+| `title-05-part-1303` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1303 | 3 | 2017-01-01 to 2024-07-10 |
+| `title-05-part-1304` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1304 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1305` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1305 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1310` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1310 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1312` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1312 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1315` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1315 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1320` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1320 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1321` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1321 | 1 | 2024-12-10 to 2024-12-10 |
+| `title-05-part-1330` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1330 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1400` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1400 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1501` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1501 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1600` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1600 | 5 | 2017-01-01 to 2022-06-01 |
+| `title-05-part-1601` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1601 | 3 | 2017-01-01 to 2022-06-01 |
+| `title-05-part-1603` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1603 | 2 | 2017-01-01 to 2018-01-01 |
+| `title-05-part-1605` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1605 | 8 | 2017-01-01 to 2026-01-28 |
+| `title-05-part-1620` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1620 | 2 | 2017-01-01 to 2022-06-01 |
+| `title-05-part-1630` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1630 | 3 | 2017-01-01 to 2021-10-21 |
+| `title-05-part-1631` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1631 | 5 | 2017-01-01 to 2024-03-18 |
+| `title-05-part-1632` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1632 | 2 | 2017-01-01 to 2020-03-03 |
+| `title-05-part-1633` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1633 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1636` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1636 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1639` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1639 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1640` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1640 | 2 | 2017-01-01 to 2022-06-01 |
+| `title-05-part-1645` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1645 | 2 | 2017-01-01 to 2022-06-01 |
+| `title-05-part-1650` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1650 | 12 | 2017-01-01 to 2026-01-28 |
+| `title-05-part-1651` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1651 | 5 | 2017-01-01 to 2022-06-01 |
+| `title-05-part-1653` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1653 | 5 | 2017-01-01 to 2026-10-22 |
+| `title-05-part-1655` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1655 | 6 | 2017-01-01 to 2025-12-18 |
+| `title-05-part-1690` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1690 | 4 | 2017-01-01 to 2026-01-28 |
+| `title-05-part-1800` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1800 | 4 | 2017-01-01 to 2025-04-30 |
+| `title-05-part-1810` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1810 | 2 | 2017-01-01 to 2022-10-19 |
+| `title-05-part-1811` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1811 | 1 | 2022-10-19 to 2022-10-19 |
+| `title-05-part-1820` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1820 | 3 | 2017-01-01 to 2022-10-19 |
+| `title-05-part-1830` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1830 | 2 | 2017-01-01 to 2022-10-19 |
+| `title-05-part-1840` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1840 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-1850` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1850 | 2 | 2017-01-01 to 2022-10-19 |
+| `title-05-part-1900` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 1900 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2100` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2100 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2411` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2411 | 3 | 2017-01-01 to 2023-09-29 |
+| `title-05-part-2412` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2412 | 2 | 2017-01-01 to 2024-01-03 |
+| `title-05-part-2413` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2413 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2414` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2414 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2415` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2415 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2416` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2416 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2417` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2417 | 2 | 2017-01-01 to 2024-03-01 |
+| `title-05-part-2418` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2418 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2419` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2419 | 1 | 2026-05-26 to 2026-05-26 |
+| `title-05-part-2420` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2420 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2421` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2421 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2422` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2422 | 3 | 2017-01-01 to 2026-10-15 |
+| `title-05-part-2423` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2423 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2424` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2424 | 5 | 2017-01-01 to 2025-08-29 |
+| `title-05-part-2425` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2425 | 2 | 2017-01-01 to 2025-08-29 |
+| `title-05-part-2426` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2426 | 2 | 2017-01-01 to 2026-10-15 |
+| `title-05-part-2427` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2427 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2428` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2428 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2429` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2429 | 7 | 2017-01-01 to 2026-10-15 |
+| `title-05-part-2430` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2430 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-05-part-2470` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2470 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2471` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2471 | 3 | 2017-01-01 to 2024-04-25 |
+| `title-05-part-2472` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2472 | 2 | 2017-01-01 to 2024-04-25 |
+| `title-05-part-2473` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2473 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2600` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2600 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2601` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2601 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2604` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2604 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2606` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2606 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2608` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2608 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2610` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2610 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2611` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2611 | 3 | 2020-08-20 to 2021-05-11 |
+| `title-05-part-2634` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2634 | 15 | 2017-01-01 to 2026-07-23 |
+| `title-05-part-2635` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2635 | 6 | 2017-01-01 to 2024-09-09 |
+| `title-05-part-2636` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2636 | 11 | 2017-01-01 to 2026-10-26 |
+| `title-05-part-2638` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2638 | 3 | 2017-01-01 to 2021-11-16 |
+| `title-05-part-2640` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2640 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-2641` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 2641 | 6 | 2017-01-01 to 2026-10-15 |
+| `title-05-part-3101` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 3101 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-3201` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 3201 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-3301` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 3301 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-3401` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 3401 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-3501` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 3501 | 3 | 2017-01-01 to 2017-04-18 |
+| `title-05-part-3601` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 3601 | 3 | 2017-01-01 to 2023-12-12 |
+| `title-05-part-3801` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 3801 | 2 | 2017-01-01 to 2022-12-13 |
+| `title-05-part-3901` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 3901 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-3902` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 3902 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-4001` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 4001 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-4101` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 4101 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-4301` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 4301 | 2 | 2017-01-01 to 2019-10-01 |
+| `title-05-part-4401` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 4401 | 2 | 2017-01-01 to 2024-03-29 |
+| `title-05-part-4501` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 4501 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-4601` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 4601 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-4701` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 4701 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-5001` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 5001 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-05-part-5101` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 5101 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-5201` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 5201 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-5301` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 5301 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-5501` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 5501 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-5502` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 5502 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-5601` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 5601 | 2 | 2017-01-01 to 2017-12-01 |
+| `title-05-part-5701` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 5701 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-5801` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 5801 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-5901` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 5901 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-6001` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 6001 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-6201` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 6201 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-6301` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 6301 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-6401` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 6401 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-6501` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 6501 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-6601` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 6601 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-6701` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 6701 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-6801` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 6801 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-6901` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 6901 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-7001` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 7001 | 3 | 2017-01-01 to 2024-02-02 |
+| `title-05-part-7101` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 7101 | 2 | 2017-01-01 to 2020-08-28 |
+| `title-05-part-7201` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 7201 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-7301` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 7301 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-7401` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 7401 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-7501` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 7501 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-7601` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 7601 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-7701` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 7701 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-7801` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 7801 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-7901` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 7901 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-8001` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 8001 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-8101` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 8101 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-8301` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 8301 | 2 | 2017-01-01 to 2020-03-05 |
+| `title-05-part-8401` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 8401 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-8601` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 8601 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-8701` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 8701 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-9001` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 9001 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-9301` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 9301 | 3 | 2017-01-01 to 2017-07-24 |
+| `title-05-part-9302` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 9302 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-9303` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 9303 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-9401` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 9401 | 2 | 2017-01-01 to 2017-09-01 |
+| `title-05-part-9601` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 9601 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-9701` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 9701 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-9800` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 9800 | 3 | 2017-01-01 to 2019-01-01 |
+| `title-05-part-9801` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 9801 | 4 | 2017-01-01 to 2021-05-17 |
+| `title-05-part-9901` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 9901 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-10000` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 10000 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-10001` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 10001 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-10002` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 10002 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-05-part-10101` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 10101 | 1 | 2018-11-01 to 2018-11-01 |
+| `title-05-part-10201` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 10201 | 1 | 2021-06-04 to 2021-06-04 |
+| `title-05-part-10300` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 10300 | 1 | 2024-01-01 to 2024-01-01 |
+| `title-05-part-10400` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 10400 | 1 | 2023-03-10 to 2023-03-10 |
 | `title-12-part-0001` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1 | 3 | 2017-01-01 to 2026-06-09 |
 | `title-12-part-0002` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 2 | 1 | 2017-01-01 to 2017-01-01 |
 | `title-12-part-0003` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 3 | 30 | 2017-01-01 to 2026-10-26 |
@@ -1848,19 +2137,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 10364 commits:
+The build made 11118 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1831 | first version of an act |
-| 6111 | one law on its in-force day |
-| 2422 | changes no amendment note explains, credited to the publisher |
+| 2120 | first version of an act |
+| 6484 | one law on its in-force day |
+| 2514 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 7211 laws in the record.
-- 13131 tags.
+- 7672 laws in the record.
+- 14155 tags.
 
 ## Dates
 
@@ -1872,7 +2161,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `a4ce1620224a6a926704819ea7fd24b324aaa20978e7be54adc2d3e10fb896f2` (654592807 bytes).
+- Corpus: sha256 `300bd5e0b194e7caea831fb6df31e11ae71f046d8de78345948fbc2d5dd48da2` (681363081 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1898,6 +2187,7 @@ No second build of this corpus has been compared yet.
 - Title 2: editions read: 2018 annual edition (to 2017-05-22); 2024 annual edition (to 2023-10-23); 2025 annual edition (to 2024-12-20); 2026 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
 - Title 3: editions read: eCFR (to 2026-10-26).
 - Title 4: editions read: 2018 annual edition (to 2017-12-08); 2019 annual edition (to 2018-05-01); eCFR (to 2026-10-26).
+- Title 5: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2019-10-31); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2021-12-23); 2023 annual edition (to 2022-12-13); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2024-12-26); eCFR (to 2026-10-26).
 - Title 12: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
