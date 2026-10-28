@@ -171330,6 +171330,888 @@
      "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
     }
    ]
+  },
+  {
+   "slug": "title-37-part-0001",
+   "short": "37 CFR Part 1",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 1",
+   "url": "https://www.ecfr.gov/current/title-37/part-1",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 370,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0002",
+   "short": "37 CFR Part 2",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 2",
+   "url": "https://www.ecfr.gov/current/title-37/part-2",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 159,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0003",
+   "short": "37 CFR Part 3",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 3",
+   "url": "https://www.ecfr.gov/current/title-37/part-3",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0004",
+   "short": "37 CFR Part 4",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 4",
+   "url": "https://www.ecfr.gov/current/title-37/part-4",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0005",
+   "short": "37 CFR Part 5",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 5",
+   "url": "https://www.ecfr.gov/current/title-37/part-5",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0006",
+   "short": "37 CFR Part 6",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 6",
+   "url": "https://www.ecfr.gov/current/title-37/part-6",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0007",
+   "short": "37 CFR Part 7",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 7",
+   "url": "https://www.ecfr.gov/current/title-37/part-7",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0011",
+   "short": "37 CFR Part 11",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 11",
+   "url": "https://www.ecfr.gov/current/title-37/part-11",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 118,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0041",
+   "short": "37 CFR Part 41",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 41",
+   "url": "https://www.ecfr.gov/current/title-37/part-41",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 75,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0042",
+   "short": "37 CFR Part 42",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 42",
+   "url": "https://www.ecfr.gov/current/title-37/part-42",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 85,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0043",
+   "short": "37 CFR Part 43",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 43",
+   "url": "https://www.ecfr.gov/current/title-37/part-43",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0090",
+   "short": "37 CFR Part 90",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 90",
+   "url": "https://www.ecfr.gov/current/title-37/part-90",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0102",
+   "short": "37 CFR Part 102",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 102",
+   "url": "https://www.ecfr.gov/current/title-37/part-102",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0104",
+   "short": "37 CFR Part 104",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 104",
+   "url": "https://www.ecfr.gov/current/title-37/part-104",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0150",
+   "short": "37 CFR Part 150",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 150",
+   "url": "https://www.ecfr.gov/current/title-37/part-150",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0201",
+   "short": "37 CFR Part 201",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 201",
+   "url": "https://www.ecfr.gov/current/title-37/part-201",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0202",
+   "short": "37 CFR Part 202",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 202",
+   "url": "https://www.ecfr.gov/current/title-37/part-202",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0203",
+   "short": "37 CFR Part 203",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 203",
+   "url": "https://www.ecfr.gov/current/title-37/part-203",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0204",
+   "short": "37 CFR Part 204",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 204",
+   "url": "https://www.ecfr.gov/current/title-37/part-204",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0205",
+   "short": "37 CFR Part 205",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 205",
+   "url": "https://www.ecfr.gov/current/title-37/part-205",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0210",
+   "short": "37 CFR Part 210",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 210",
+   "url": "https://www.ecfr.gov/current/title-37/part-210",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0211",
+   "short": "37 CFR Part 211",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 211",
+   "url": "https://www.ecfr.gov/current/title-37/part-211",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0212",
+   "short": "37 CFR Part 212",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 212",
+   "url": "https://www.ecfr.gov/current/title-37/part-212",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0220",
+   "short": "37 CFR Part 220",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 220",
+   "url": "https://www.ecfr.gov/current/title-37/part-220",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0221",
+   "short": "37 CFR Part 221",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 221",
+   "url": "https://www.ecfr.gov/current/title-37/part-221",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0222",
+   "short": "37 CFR Part 222",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 222",
+   "url": "https://www.ecfr.gov/current/title-37/part-222",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0223",
+   "short": "37 CFR Part 223",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 223",
+   "url": "https://www.ecfr.gov/current/title-37/part-223",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0224",
+   "short": "37 CFR Part 224",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 224",
+   "url": "https://www.ecfr.gov/current/title-37/part-224",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0225",
+   "short": "37 CFR Part 225",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 225",
+   "url": "https://www.ecfr.gov/current/title-37/part-225",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0226",
+   "short": "37 CFR Part 226",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 226",
+   "url": "https://www.ecfr.gov/current/title-37/part-226",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0227",
+   "short": "37 CFR Part 227",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 227",
+   "url": "https://www.ecfr.gov/current/title-37/part-227",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0228",
+   "short": "37 CFR Part 228",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 228",
+   "url": "https://www.ecfr.gov/current/title-37/part-228",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0229",
+   "short": "37 CFR Part 229",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 229",
+   "url": "https://www.ecfr.gov/current/title-37/part-229",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0230",
+   "short": "37 CFR Part 230",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 230",
+   "url": "https://www.ecfr.gov/current/title-37/part-230",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0231",
+   "short": "37 CFR Part 231",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 231",
+   "url": "https://www.ecfr.gov/current/title-37/part-231",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0232",
+   "short": "37 CFR Part 232",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 232",
+   "url": "https://www.ecfr.gov/current/title-37/part-232",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0233",
+   "short": "37 CFR Part 233",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 233",
+   "url": "https://www.ecfr.gov/current/title-37/part-233",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0234",
+   "short": "37 CFR Part 234",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 234",
+   "url": "https://www.ecfr.gov/current/title-37/part-234",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0235",
+   "short": "37 CFR Part 235",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 235",
+   "url": "https://www.ecfr.gov/current/title-37/part-235",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0301",
+   "short": "37 CFR Part 301",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 301",
+   "url": "https://www.ecfr.gov/current/title-37/part-301",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0302",
+   "short": "37 CFR Part 302",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 302",
+   "url": "https://www.ecfr.gov/current/title-37/part-302",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0303",
+   "short": "37 CFR Part 303",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 303",
+   "url": "https://www.ecfr.gov/current/title-37/part-303",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0350",
+   "short": "37 CFR Part 350",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 350",
+   "url": "https://www.ecfr.gov/current/title-37/part-350",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0351",
+   "short": "37 CFR Part 351",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 351",
+   "url": "https://www.ecfr.gov/current/title-37/part-351",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0352",
+   "short": "37 CFR Part 352",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 352",
+   "url": "https://www.ecfr.gov/current/title-37/part-352",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0353",
+   "short": "37 CFR Part 353",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 353",
+   "url": "https://www.ecfr.gov/current/title-37/part-353",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0354",
+   "short": "37 CFR Part 354",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 354",
+   "url": "https://www.ecfr.gov/current/title-37/part-354",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0355",
+   "short": "37 CFR Part 355",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 355",
+   "url": "https://www.ecfr.gov/current/title-37/part-355",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0360",
+   "short": "37 CFR Part 360",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 360",
+   "url": "https://www.ecfr.gov/current/title-37/part-360",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0370",
+   "short": "37 CFR Part 370",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 370",
+   "url": "https://www.ecfr.gov/current/title-37/part-370",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0380",
+   "short": "37 CFR Part 380",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 380",
+   "url": "https://www.ecfr.gov/current/title-37/part-380",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0381",
+   "short": "37 CFR Part 381",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 381",
+   "url": "https://www.ecfr.gov/current/title-37/part-381",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0382",
+   "short": "37 CFR Part 382",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 382",
+   "url": "https://www.ecfr.gov/current/title-37/part-382",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0383",
+   "short": "37 CFR Part 383",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 383",
+   "url": "https://www.ecfr.gov/current/title-37/part-383",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0384",
+   "short": "37 CFR Part 384",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 384",
+   "url": "https://www.ecfr.gov/current/title-37/part-384",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0385",
+   "short": "37 CFR Part 385",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 385",
+   "url": "https://www.ecfr.gov/current/title-37/part-385",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0386",
+   "short": "37 CFR Part 386",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 386",
+   "url": "https://www.ecfr.gov/current/title-37/part-386",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0387",
+   "short": "37 CFR Part 387",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 387",
+   "url": "https://www.ecfr.gov/current/title-37/part-387",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0388",
+   "short": "37 CFR Part 388",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 388",
+   "url": "https://www.ecfr.gov/current/title-37/part-388",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0390",
+   "short": "37 CFR Part 390",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 390",
+   "url": "https://www.ecfr.gov/current/title-37/part-390",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0401",
+   "short": "37 CFR Part 401",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 401",
+   "url": "https://www.ecfr.gov/current/title-37/part-401",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0404",
+   "short": "37 CFR Part 404",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 404",
+   "url": "https://www.ecfr.gov/current/title-37/part-404",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-part-0501",
+   "short": "37 CFR Part 501",
+   "title": "Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 501",
+   "url": "https://www.ecfr.gov/current/title-37/part-501",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-37/ECFR-title37.xml",
+     "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
+    }
+   ]
   }
  ]
 }

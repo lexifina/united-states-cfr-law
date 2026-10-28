@@ -6409,12 +6409,75 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-36-part-1290` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1290 | 1 | 2019-05-10 to 2019-05-10 |
 | `title-36-part-1501` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1501 | 1 | 2019-05-10 to 2019-05-10 |
 | `title-36-part-1600` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1600 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-37-part-0001` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 1 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0002` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 2 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0003` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 3 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0004` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 4 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0005` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 5 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0006` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 6 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0007` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 7 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0011` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 11 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0041` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 41 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0042` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 42 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0043` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 43 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0090` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 90 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0102` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 102 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0104` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 104 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0150` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 150 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0201` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 201 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0202` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 202 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0203` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 203 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0204` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 204 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0205` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 205 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0210` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 210 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0211` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 211 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0212` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 212 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0220` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 220 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0221` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 221 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0222` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 222 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0223` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 223 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0224` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 224 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0225` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 225 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0226` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 226 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0227` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 227 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0228` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 228 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0229` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 229 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0230` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 230 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0231` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 231 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0232` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 232 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0233` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 233 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0234` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 234 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0235` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 235 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0301` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 301 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0302` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 302 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0303` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 303 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0350` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 350 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0351` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 351 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0352` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 352 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0353` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 353 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0354` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 354 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0355` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 355 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0360` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 360 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0370` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 370 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0380` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 380 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0381` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 381 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0382` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 382 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0383` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 383 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0384` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 384 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0385` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 385 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0386` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 386 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0387` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 387 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0388` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 388 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0390` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 390 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0401` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 401 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0404` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 404 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-37-part-0501` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 501 | 1 | 2026-10-26 to 2026-10-26 |
 
-The build made 24598 commits:
+The build made 24661 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 6393 | first version of an act |
+| 6456 | first version of an act |
 | 12607 | one law on its in-force day |
 | 5598 | changes no amendment note explains, credited to the publisher |
 
@@ -6422,7 +6485,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 15095 laws in the record.
-- 32022 tags.
+- 32085 tags.
 
 ## Dates
 
@@ -6434,7 +6497,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `717b4666d180d0c3c3bf680bf151fd23b50576e87521a7137f455a121eb12ad5` (1146377722 bytes).
+- Corpus: sha256 `4f19b76f97b015c4dae49f285dff2a73dcf595342faa08c6853877c274010646` (1150357639 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -6491,6 +6554,7 @@ No second build of this corpus has been compared yet.
 - Title 33: editions read: eCFR (to 2026-10-26).
 - Title 34: editions read: 2021 annual edition (to 2021-02-03); 2023 annual edition (to 2023-01-30); 2025 annual edition (to 2025-02-18); eCFR (to 2026-10-26).
 - Title 36: editions read: 2019 annual edition (to 2019-05-10); eCFR (to 2026-10-26).
+- Title 37: editions read: eCFR (to 2026-10-26).
 
 ## What AI did and did not do
 
