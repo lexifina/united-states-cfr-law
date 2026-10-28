@@ -608,20 +608,92 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-17-part-0449` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 449 | 1 | 2017-02-14 to 2017-02-14 |
 | `title-17-part-0450` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 450 | 1 | 2017-02-14 to 2017-02-14 |
 | `title-17-part-other` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part other | 2 | 2021-01-05 to 2023-03-13 |
+| `title-26-part-0001` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 1 | 228 | 2017-03-22 to 2026-10-26 |
+| `title-26-part-0002` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 2 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0003` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 3 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0004` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 4 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0005` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 5 | 3 | 2017-03-22 to 2024-12-30 |
+| `title-26-part-0005c` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 5c | 2 | 2017-03-22 to 2019-03-14 |
+| `title-26-part-0005e` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 5e | 2 | 2017-03-22 to 2026-10-26 |
+| `title-26-part-0005f` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 5f | 3 | 2017-03-22 to 2019-03-14 |
+| `title-26-part-0006a` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 6a | 2 | 2017-03-22 to 2026-10-26 |
+| `title-26-part-0007` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 7 | 3 | 2017-03-22 to 2026-10-26 |
+| `title-26-part-0008` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 8 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0009` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 9 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0011` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 11 | 2 | 2017-03-22 to 2019-03-14 |
+| `title-26-part-0012` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 12 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0013` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 13 | 2 | 2017-03-22 to 2019-03-14 |
+| `title-26-part-0015` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 15 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0015a` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 15a | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0016` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 16 | 2 | 2017-03-22 to 2019-03-14 |
+| `title-26-part-0016a` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 16A | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0018` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 18 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0019` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 19 | 2 | 2017-03-22 to 2019-03-14 |
+| `title-26-part-0020` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 20 | 7 | 2017-03-22 to 2026-10-26 |
+| `title-26-part-0022` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 22 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0025` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 25 | 6 | 2017-03-22 to 2026-10-26 |
+| `title-26-part-0026` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 26 | 4 | 2017-03-22 to 2026-10-26 |
+| `title-26-part-0028` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 28 | 2 | 2025-01-14 to 2026-10-26 |
+| `title-26-part-0031` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 31 | 20 | 2017-03-22 to 2026-10-26 |
+| `title-26-part-0032` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 32 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0035` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 35 | 2 | 2017-03-22 to 2020-10-01 |
+| `title-26-part-0035a` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 35a | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0036` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 36 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0040` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 40 | 3 | 2017-03-22 to 2024-08-05 |
+| `title-26-part-0041` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 41 | 2 | 2017-03-22 to 2026-10-26 |
+| `title-26-part-0043` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 43 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0044` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 44 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0046` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 46 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0047` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 47 | 2 | 2024-08-05 to 2025-04-01 |
+| `title-26-part-0048` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 48 | 5 | 2017-03-22 to 2026-10-26 |
+| `title-26-part-0049` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 49 | 5 | 2017-03-22 to 2021-04-01 |
+| `title-26-part-0050` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 50 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0051` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 51 | 2 | 2017-03-22 to 2017-07-26 |
+| `title-26-part-0052` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 52 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0053` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 53 | 8 | 2017-03-22 to 2023-10-16 |
+| `title-26-part-0054` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 54 | 22 | 2017-03-22 to 2026-10-26 |
+| `title-26-part-0055` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 55 | 2 | 2017-03-22 to 2019-03-14 |
+| `title-26-part-0056` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 56 | 4 | 2017-03-22 to 2026-10-26 |
+| `title-26-part-0057` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 57 | 3 | 2017-03-22 to 2019-11-13 |
+| `title-26-part-0058` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 58 | 3 | 2024-07-03 to 2026-02-11 |
+| `title-26-part-0141` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 141 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0143` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 143 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0145` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 145 | 2 | 2017-03-22 to 2022-04-01 |
+| `title-26-part-0148` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 148 | 2 | 2017-03-22 to 2019-03-14 |
+| `title-26-part-0156` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 156 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0157` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 157 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0300` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 300 | 12 | 2017-03-22 to 2026-10-26 |
+| `title-26-part-0301` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 301 | 39 | 2017-03-22 to 2026-10-26 |
+| `title-26-part-0302` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 302 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0303` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 303 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0305` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 305 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0400` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 400 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0403` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 403 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0404` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 404 | 2 | 2017-03-22 to 2019-03-14 |
+| `title-26-part-0420` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 420 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0509` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 509 | 2 | 2017-03-22 to 2020-04-01 |
+| `title-26-part-0513` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 513 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0514` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 514 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0521` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 521 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0601` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 601 | 3 | 2017-03-22 to 2024-04-01 |
+| `title-26-part-0602` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 602 | 6 | 2017-03-22 to 2024-12-30 |
+| `title-26-part-0701` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 701 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0702` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 702 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-26-part-0801` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 801 | 2 | 2017-03-22 to 2018-03-07 |
 
-The build made 3002 commits:
+The build made 3979 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 592 | first version of an act |
-| 1609 | one law on its in-force day |
-| 801 | changes no amendment note explains, credited to the publisher |
+| 664 | first version of an act |
+| 2334 | one law on its in-force day |
+| 981 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1886 laws in the record.
-- 3987 tags.
+- 2675 laws in the record.
+- 5154 tags.
 
 ## Dates
 
@@ -633,7 +705,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `0cf17e493acb62728e7f4d54ba1e23647669f03486bd27c8c9df85a323feb25a` (168815963 bytes).
+- Corpus: sha256 `c3b9e2729a2ece9eb5091ec9e788818518911379729c0f1081cb2a73794f0318` (292065396 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -655,6 +727,7 @@ No second build of this corpus has been compared yet.
 - Each title's first edition is the oldest version available, credited to the publisher; text before 2017 is not included.
 - Title 12: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
+- Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 
 ## What AI did and did not do
 
