@@ -164418,6 +164418,1952 @@
      "sha256": "50bf13bb0cab6589fb78af75ffb7e839b52712d4c1ebf76c683910f2a7406618"
     }
    ]
+  },
+  {
+   "slug": "title-33-part-0001",
+   "short": "33 CFR Part 1",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 1",
+   "url": "https://www.ecfr.gov/current/title-33/part-1",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 62,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0002",
+   "short": "33 CFR Part 2",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 2",
+   "url": "https://www.ecfr.gov/current/title-33/part-2",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0003",
+   "short": "33 CFR Part 3",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 3",
+   "url": "https://www.ecfr.gov/current/title-33/part-3",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0004",
+   "short": "33 CFR Part 4",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 4",
+   "url": "https://www.ecfr.gov/current/title-33/part-4",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0005",
+   "short": "33 CFR Part 5",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 5",
+   "url": "https://www.ecfr.gov/current/title-33/part-5",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0006",
+   "short": "33 CFR Part 6",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 6",
+   "url": "https://www.ecfr.gov/current/title-33/part-6",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0008",
+   "short": "33 CFR Part 8",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 8",
+   "url": "https://www.ecfr.gov/current/title-33/part-8",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0013",
+   "short": "33 CFR Part 13",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 13",
+   "url": "https://www.ecfr.gov/current/title-33/part-13",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0017",
+   "short": "33 CFR Part 17",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 17",
+   "url": "https://www.ecfr.gov/current/title-33/part-17",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0019",
+   "short": "33 CFR Part 19",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 19",
+   "url": "https://www.ecfr.gov/current/title-33/part-19",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0020",
+   "short": "33 CFR Part 20",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 20",
+   "url": "https://www.ecfr.gov/current/title-33/part-20",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 81,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0023",
+   "short": "33 CFR Part 23",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 23",
+   "url": "https://www.ecfr.gov/current/title-33/part-23",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0025",
+   "short": "33 CFR Part 25",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 25",
+   "url": "https://www.ecfr.gov/current/title-33/part-25",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0026",
+   "short": "33 CFR Part 26",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 26",
+   "url": "https://www.ecfr.gov/current/title-33/part-26",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0027",
+   "short": "33 CFR Part 27",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 27",
+   "url": "https://www.ecfr.gov/current/title-33/part-27",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0040",
+   "short": "33 CFR Part 40",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 40",
+   "url": "https://www.ecfr.gov/current/title-33/part-40",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0045",
+   "short": "33 CFR Part 45",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 45",
+   "url": "https://www.ecfr.gov/current/title-33/part-45",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0049",
+   "short": "33 CFR Part 49",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 49",
+   "url": "https://www.ecfr.gov/current/title-33/part-49",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0050",
+   "short": "33 CFR Part 50",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 50",
+   "url": "https://www.ecfr.gov/current/title-33/part-50",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0051",
+   "short": "33 CFR Part 51",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 51",
+   "url": "https://www.ecfr.gov/current/title-33/part-51",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0052",
+   "short": "33 CFR Part 52",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 52",
+   "url": "https://www.ecfr.gov/current/title-33/part-52",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0053",
+   "short": "33 CFR Part 53",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 53",
+   "url": "https://www.ecfr.gov/current/title-33/part-53",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0054",
+   "short": "33 CFR Part 54",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 54",
+   "url": "https://www.ecfr.gov/current/title-33/part-54",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0055",
+   "short": "33 CFR Part 55",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 55",
+   "url": "https://www.ecfr.gov/current/title-33/part-55",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0062",
+   "short": "33 CFR Part 62",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 62",
+   "url": "https://www.ecfr.gov/current/title-33/part-62",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0064",
+   "short": "33 CFR Part 64",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 64",
+   "url": "https://www.ecfr.gov/current/title-33/part-64",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0066",
+   "short": "33 CFR Part 66",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 66",
+   "url": "https://www.ecfr.gov/current/title-33/part-66",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0067",
+   "short": "33 CFR Part 67",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 67",
+   "url": "https://www.ecfr.gov/current/title-33/part-67",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 52,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0070",
+   "short": "33 CFR Part 70",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 70",
+   "url": "https://www.ecfr.gov/current/title-33/part-70",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0072",
+   "short": "33 CFR Part 72",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 72",
+   "url": "https://www.ecfr.gov/current/title-33/part-72",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0074",
+   "short": "33 CFR Part 74",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 74",
+   "url": "https://www.ecfr.gov/current/title-33/part-74",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0076",
+   "short": "33 CFR Part 76",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 76",
+   "url": "https://www.ecfr.gov/current/title-33/part-76",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0080",
+   "short": "33 CFR Part 80",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 80",
+   "url": "https://www.ecfr.gov/current/title-33/part-80",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 106,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0081",
+   "short": "33 CFR Part 81",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 81",
+   "url": "https://www.ecfr.gov/current/title-33/part-81",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0082",
+   "short": "33 CFR Part 82",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 82",
+   "url": "https://www.ecfr.gov/current/title-33/part-82",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0083",
+   "short": "33 CFR Part 83",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 83",
+   "url": "https://www.ecfr.gov/current/title-33/part-83",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0084",
+   "short": "33 CFR Part 84",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 84",
+   "url": "https://www.ecfr.gov/current/title-33/part-84",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0086",
+   "short": "33 CFR Part 86",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 86",
+   "url": "https://www.ecfr.gov/current/title-33/part-86",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0087",
+   "short": "33 CFR Part 87",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 87",
+   "url": "https://www.ecfr.gov/current/title-33/part-87",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0088",
+   "short": "33 CFR Part 88",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 88",
+   "url": "https://www.ecfr.gov/current/title-33/part-88",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0089",
+   "short": "33 CFR Part 89",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 89",
+   "url": "https://www.ecfr.gov/current/title-33/part-89",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0090",
+   "short": "33 CFR Part 90",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 90",
+   "url": "https://www.ecfr.gov/current/title-33/part-90",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0095",
+   "short": "33 CFR Part 95",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 95",
+   "url": "https://www.ecfr.gov/current/title-33/part-95",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0096",
+   "short": "33 CFR Part 96",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 96",
+   "url": "https://www.ecfr.gov/current/title-33/part-96",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0097",
+   "short": "33 CFR Part 97",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 97",
+   "url": "https://www.ecfr.gov/current/title-33/part-97",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0100",
+   "short": "33 CFR Part 100",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 100",
+   "url": "https://www.ecfr.gov/current/title-33/part-100",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 67,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0101",
+   "short": "33 CFR Part 101",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 101",
+   "url": "https://www.ecfr.gov/current/title-33/part-101",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 46,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0103",
+   "short": "33 CFR Part 103",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 103",
+   "url": "https://www.ecfr.gov/current/title-33/part-103",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0104",
+   "short": "33 CFR Part 104",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 104",
+   "url": "https://www.ecfr.gov/current/title-33/part-104",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0105",
+   "short": "33 CFR Part 105",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 105",
+   "url": "https://www.ecfr.gov/current/title-33/part-105",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0106",
+   "short": "33 CFR Part 106",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 106",
+   "url": "https://www.ecfr.gov/current/title-33/part-106",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0107",
+   "short": "33 CFR Part 107",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 107",
+   "url": "https://www.ecfr.gov/current/title-33/part-107",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0109",
+   "short": "33 CFR Part 109",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 109",
+   "url": "https://www.ecfr.gov/current/title-33/part-109",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0110",
+   "short": "33 CFR Part 110",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 110",
+   "url": "https://www.ecfr.gov/current/title-33/part-110",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 169,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0114",
+   "short": "33 CFR Part 114",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 114",
+   "url": "https://www.ecfr.gov/current/title-33/part-114",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0115",
+   "short": "33 CFR Part 115",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 115",
+   "url": "https://www.ecfr.gov/current/title-33/part-115",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0116",
+   "short": "33 CFR Part 116",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 116",
+   "url": "https://www.ecfr.gov/current/title-33/part-116",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0117",
+   "short": "33 CFR Part 117",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 117",
+   "url": "https://www.ecfr.gov/current/title-33/part-117",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 424,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0118",
+   "short": "33 CFR Part 118",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 118",
+   "url": "https://www.ecfr.gov/current/title-33/part-118",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0125",
+   "short": "33 CFR Part 125",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 125",
+   "url": "https://www.ecfr.gov/current/title-33/part-125",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0126",
+   "short": "33 CFR Part 126",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 126",
+   "url": "https://www.ecfr.gov/current/title-33/part-126",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0127",
+   "short": "33 CFR Part 127",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 127",
+   "url": "https://www.ecfr.gov/current/title-33/part-127",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 89,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0136",
+   "short": "33 CFR Part 136",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 136",
+   "url": "https://www.ecfr.gov/current/title-33/part-136",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0137",
+   "short": "33 CFR Part 137",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 137",
+   "url": "https://www.ecfr.gov/current/title-33/part-137",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0138",
+   "short": "33 CFR Part 138",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 138",
+   "url": "https://www.ecfr.gov/current/title-33/part-138",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0140",
+   "short": "33 CFR Part 140",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 140",
+   "url": "https://www.ecfr.gov/current/title-33/part-140",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0141",
+   "short": "33 CFR Part 141",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 141",
+   "url": "https://www.ecfr.gov/current/title-33/part-141",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0142",
+   "short": "33 CFR Part 142",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 142",
+   "url": "https://www.ecfr.gov/current/title-33/part-142",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0143",
+   "short": "33 CFR Part 143",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 143",
+   "url": "https://www.ecfr.gov/current/title-33/part-143",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0144",
+   "short": "33 CFR Part 144",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 144",
+   "url": "https://www.ecfr.gov/current/title-33/part-144",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0145",
+   "short": "33 CFR Part 145",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 145",
+   "url": "https://www.ecfr.gov/current/title-33/part-145",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0146",
+   "short": "33 CFR Part 146",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 146",
+   "url": "https://www.ecfr.gov/current/title-33/part-146",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0147",
+   "short": "33 CFR Part 147",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 147",
+   "url": "https://www.ecfr.gov/current/title-33/part-147",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 65,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0148",
+   "short": "33 CFR Part 148",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 148",
+   "url": "https://www.ecfr.gov/current/title-33/part-148",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 75,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0149",
+   "short": "33 CFR Part 149",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 149",
+   "url": "https://www.ecfr.gov/current/title-33/part-149",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 115,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0150",
+   "short": "33 CFR Part 150",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 150",
+   "url": "https://www.ecfr.gov/current/title-33/part-150",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 120,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0151",
+   "short": "33 CFR Part 151",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 151",
+   "url": "https://www.ecfr.gov/current/title-33/part-151",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 91,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0153",
+   "short": "33 CFR Part 153",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 153",
+   "url": "https://www.ecfr.gov/current/title-33/part-153",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0154",
+   "short": "33 CFR Part 154",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 154",
+   "url": "https://www.ecfr.gov/current/title-33/part-154",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0155",
+   "short": "33 CFR Part 155",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 155",
+   "url": "https://www.ecfr.gov/current/title-33/part-155",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 115,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0156",
+   "short": "33 CFR Part 156",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 156",
+   "url": "https://www.ecfr.gov/current/title-33/part-156",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0157",
+   "short": "33 CFR Part 157",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 157",
+   "url": "https://www.ecfr.gov/current/title-33/part-157",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 132,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0158",
+   "short": "33 CFR Part 158",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 158",
+   "url": "https://www.ecfr.gov/current/title-33/part-158",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0159",
+   "short": "33 CFR Part 159",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 159",
+   "url": "https://www.ecfr.gov/current/title-33/part-159",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 64,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0160",
+   "short": "33 CFR Part 160",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 160",
+   "url": "https://www.ecfr.gov/current/title-33/part-160",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0161",
+   "short": "33 CFR Part 161",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 161",
+   "url": "https://www.ecfr.gov/current/title-33/part-161",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0162",
+   "short": "33 CFR Part 162",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 162",
+   "url": "https://www.ecfr.gov/current/title-33/part-162",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 46,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0163",
+   "short": "33 CFR Part 163",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 163",
+   "url": "https://www.ecfr.gov/current/title-33/part-163",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0164",
+   "short": "33 CFR Part 164",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 164",
+   "url": "https://www.ecfr.gov/current/title-33/part-164",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0165",
+   "short": "33 CFR Part 165",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 165",
+   "url": "https://www.ecfr.gov/current/title-33/part-165",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 360,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0166",
+   "short": "33 CFR Part 166",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 166",
+   "url": "https://www.ecfr.gov/current/title-33/part-166",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0167",
+   "short": "33 CFR Part 167",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 167",
+   "url": "https://www.ecfr.gov/current/title-33/part-167",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0168",
+   "short": "33 CFR Part 168",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 168",
+   "url": "https://www.ecfr.gov/current/title-33/part-168",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0169",
+   "short": "33 CFR Part 169",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 169",
+   "url": "https://www.ecfr.gov/current/title-33/part-169",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0173",
+   "short": "33 CFR Part 173",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 173",
+   "url": "https://www.ecfr.gov/current/title-33/part-173",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0174",
+   "short": "33 CFR Part 174",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 174",
+   "url": "https://www.ecfr.gov/current/title-33/part-174",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0175",
+   "short": "33 CFR Part 175",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 175",
+   "url": "https://www.ecfr.gov/current/title-33/part-175",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0177",
+   "short": "33 CFR Part 177",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 177",
+   "url": "https://www.ecfr.gov/current/title-33/part-177",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0179",
+   "short": "33 CFR Part 179",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 179",
+   "url": "https://www.ecfr.gov/current/title-33/part-179",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0181",
+   "short": "33 CFR Part 181",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 181",
+   "url": "https://www.ecfr.gov/current/title-33/part-181",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0183",
+   "short": "33 CFR Part 183",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 183",
+   "url": "https://www.ecfr.gov/current/title-33/part-183",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0187",
+   "short": "33 CFR Part 187",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 187",
+   "url": "https://www.ecfr.gov/current/title-33/part-187",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0203",
+   "short": "33 CFR Part 203",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 203",
+   "url": "https://www.ecfr.gov/current/title-33/part-203",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0207",
+   "short": "33 CFR Part 207",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 207",
+   "url": "https://www.ecfr.gov/current/title-33/part-207",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 53,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0208",
+   "short": "33 CFR Part 208",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 208",
+   "url": "https://www.ecfr.gov/current/title-33/part-208",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0209",
+   "short": "33 CFR Part 209",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 209",
+   "url": "https://www.ecfr.gov/current/title-33/part-209",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0221",
+   "short": "33 CFR Part 221",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 221",
+   "url": "https://www.ecfr.gov/current/title-33/part-221",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0222",
+   "short": "33 CFR Part 222",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 222",
+   "url": "https://www.ecfr.gov/current/title-33/part-222",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0230",
+   "short": "33 CFR Part 230",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 230",
+   "url": "https://www.ecfr.gov/current/title-33/part-230",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0234",
+   "short": "33 CFR Part 234",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 234",
+   "url": "https://www.ecfr.gov/current/title-33/part-234",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0238",
+   "short": "33 CFR Part 238",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 238",
+   "url": "https://www.ecfr.gov/current/title-33/part-238",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0241",
+   "short": "33 CFR Part 241",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 241",
+   "url": "https://www.ecfr.gov/current/title-33/part-241",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0242",
+   "short": "33 CFR Part 242",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 242",
+   "url": "https://www.ecfr.gov/current/title-33/part-242",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0245",
+   "short": "33 CFR Part 245",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 245",
+   "url": "https://www.ecfr.gov/current/title-33/part-245",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0320",
+   "short": "33 CFR Part 320",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 320",
+   "url": "https://www.ecfr.gov/current/title-33/part-320",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0321",
+   "short": "33 CFR Part 321",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 321",
+   "url": "https://www.ecfr.gov/current/title-33/part-321",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0322",
+   "short": "33 CFR Part 322",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 322",
+   "url": "https://www.ecfr.gov/current/title-33/part-322",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0323",
+   "short": "33 CFR Part 323",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 323",
+   "url": "https://www.ecfr.gov/current/title-33/part-323",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0324",
+   "short": "33 CFR Part 324",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 324",
+   "url": "https://www.ecfr.gov/current/title-33/part-324",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0325",
+   "short": "33 CFR Part 325",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 325",
+   "url": "https://www.ecfr.gov/current/title-33/part-325",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0326",
+   "short": "33 CFR Part 326",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 326",
+   "url": "https://www.ecfr.gov/current/title-33/part-326",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0327",
+   "short": "33 CFR Part 327",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 327",
+   "url": "https://www.ecfr.gov/current/title-33/part-327",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0328",
+   "short": "33 CFR Part 328",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 328",
+   "url": "https://www.ecfr.gov/current/title-33/part-328",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0329",
+   "short": "33 CFR Part 329",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 329",
+   "url": "https://www.ecfr.gov/current/title-33/part-329",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0330",
+   "short": "33 CFR Part 330",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 330",
+   "url": "https://www.ecfr.gov/current/title-33/part-330",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0331",
+   "short": "33 CFR Part 331",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 331",
+   "url": "https://www.ecfr.gov/current/title-33/part-331",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0332",
+   "short": "33 CFR Part 332",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 332",
+   "url": "https://www.ecfr.gov/current/title-33/part-332",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0333",
+   "short": "33 CFR Part 333",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 333",
+   "url": "https://www.ecfr.gov/current/title-33/part-333",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0334",
+   "short": "33 CFR Part 334",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 334",
+   "url": "https://www.ecfr.gov/current/title-33/part-334",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 211,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0335",
+   "short": "33 CFR Part 335",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 335",
+   "url": "https://www.ecfr.gov/current/title-33/part-335",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0336",
+   "short": "33 CFR Part 336",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 336",
+   "url": "https://www.ecfr.gov/current/title-33/part-336",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0337",
+   "short": "33 CFR Part 337",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 337",
+   "url": "https://www.ecfr.gov/current/title-33/part-337",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0338",
+   "short": "33 CFR Part 338",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 338",
+   "url": "https://www.ecfr.gov/current/title-33/part-338",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0384",
+   "short": "33 CFR Part 384",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 384",
+   "url": "https://www.ecfr.gov/current/title-33/part-384",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0385",
+   "short": "33 CFR Part 385",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 385",
+   "url": "https://www.ecfr.gov/current/title-33/part-385",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0386",
+   "short": "33 CFR Part 386",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 386",
+   "url": "https://www.ecfr.gov/current/title-33/part-386",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0401",
+   "short": "33 CFR Part 401",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 401",
+   "url": "https://www.ecfr.gov/current/title-33/part-401",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 107,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0402",
+   "short": "33 CFR Part 402",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 402",
+   "url": "https://www.ecfr.gov/current/title-33/part-402",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-part-0403",
+   "short": "33 CFR Part 403",
+   "title": "Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 403",
+   "url": "https://www.ecfr.gov/current/title-33/part-403",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-33/ECFR-title33.xml",
+     "sha256": "491ea304f0aabe04c75fabf66b31c2a75b1a72cd73ce974fb3ee4008eb287012"
+    }
+   ]
   }
  ]
 }

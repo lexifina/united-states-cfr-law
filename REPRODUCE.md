@@ -5992,12 +5992,151 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-32-part-2700` | Title 32 of the Code of Federal Regulations (National Defense), Part 2700 | 1 | 2017-03-22 to 2017-03-22 |
 | `title-32-part-2800` | Title 32 of the Code of Federal Regulations (National Defense), Part 2800 | 2 | 2017-03-22 to 2026-10-26 |
 | `title-32-part-other` | Title 32 of the Code of Federal Regulations (National Defense), Part other | 2 | 2018-05-29 to 2020-02-24 |
+| `title-33-part-0001` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 1 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0002` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 2 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0003` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 3 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0004` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 4 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0005` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 5 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0006` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 6 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0008` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 8 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0013` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 13 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0017` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 17 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0019` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 19 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0020` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 20 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0023` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 23 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0025` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 25 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0026` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 26 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0027` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 27 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0040` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 40 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0045` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 45 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0049` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 49 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0050` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 50 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0051` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 51 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0052` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 52 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0053` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 53 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0054` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 54 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0055` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 55 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0062` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 62 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0064` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 64 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0066` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 66 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0067` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 67 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0070` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 70 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0072` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 72 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0074` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 74 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0076` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 76 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0080` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 80 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0081` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 81 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0082` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 82 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0083` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 83 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0084` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 84 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0086` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 86 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0087` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 87 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0088` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 88 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0089` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 89 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0090` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 90 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0095` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 95 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0096` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 96 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0097` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 97 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0100` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 100 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0101` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 101 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0103` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 103 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0104` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 104 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0105` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 105 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0106` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 106 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0107` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 107 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0109` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 109 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0110` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 110 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0114` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 114 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0115` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 115 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0116` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 116 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0117` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 117 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0118` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 118 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0125` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 125 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0126` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 126 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0127` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 127 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0136` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 136 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0137` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 137 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0138` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 138 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0140` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 140 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0141` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 141 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0142` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 142 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0143` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 143 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0144` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 144 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0145` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 145 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0146` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 146 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0147` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 147 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0148` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 148 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0149` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 149 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0150` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 150 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0151` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 151 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0153` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 153 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0154` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 154 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0155` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 155 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0156` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 156 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0157` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 157 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0158` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 158 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0159` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 159 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0160` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 160 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0161` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 161 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0162` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 162 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0163` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 163 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0164` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 164 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0165` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 165 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0166` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 166 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0167` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 167 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0168` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 168 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0169` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 169 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0173` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 173 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0174` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 174 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0175` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 175 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0177` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 177 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0179` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 179 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0181` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 181 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0183` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 183 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0187` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 187 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0203` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 203 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0207` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 207 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0208` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 208 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0209` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 209 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0221` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 221 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0222` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 222 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0230` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 230 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0234` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 234 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0238` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 238 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0241` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 241 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0242` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 242 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0245` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 245 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0320` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 320 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0321` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 321 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0322` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 322 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0323` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 323 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0324` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 324 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0325` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 325 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0326` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 326 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0327` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 327 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0328` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 328 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0329` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 329 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0330` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 330 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0331` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 331 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0332` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 332 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0333` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 333 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0334` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 334 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0335` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 335 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0336` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 336 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0337` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 337 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0338` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 338 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0384` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 384 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0385` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 385 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0386` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 386 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0401` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 401 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0402` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 402 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-33-part-0403` | Title 33 of the Code of Federal Regulations (Navigation and Navigable Waters), Part 403 | 1 | 2026-10-26 to 2026-10-26 |
 
-The build made 23912 commits:
+The build made 24051 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 5976 | first version of an act |
+| 6115 | first version of an act |
 | 12421 | one law on its in-force day |
 | 5515 | changes no amendment note explains, credited to the publisher |
 
@@ -6005,7 +6144,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 14852 laws in the record.
-- 31248 tags.
+- 31387 tags.
 
 ## Dates
 
@@ -6017,7 +6156,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `bfae99f2d6a886e82222e593fccdda236e2aa0072e124d810252252a4e8910bc` (1114347204 bytes).
+- Corpus: sha256 `052f556e0ed68f84bb6e69e1670868e576482a358c0d8520b3fa099056e3a679` (1123907003 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -6071,6 +6210,7 @@ No second build of this corpus has been compared yet.
 - Title 30: editions read: 2018 annual edition (to 2018-03-02); 2019 annual edition (to 2019-05-29); 2023 annual edition (to 2023-05-18); eCFR (to 2026-10-26).
 - Title 31: editions read: 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2018-12-20); 2020 annual edition (to 2020-04-17); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-05-18); 2025 annual edition (to 2024-12-18); eCFR (to 2026-10-26).
 - Title 32: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-29); 2019 annual edition (to 2019-04-24); 2020 annual edition (to 2020-02-24); 2021 annual edition (to 2021-03-23); 2022 annual edition (to 2021-11-03); 2023 annual edition (to 2023-04-21); 2024 annual edition (to 2024-05-24); 2025 annual edition (to 2025-01-17); eCFR (to 2026-10-26).
+- Title 33: editions read: eCFR (to 2026-10-26).
 
 ## What AI did and did not do
 
