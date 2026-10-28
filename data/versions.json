@@ -104004,6 +104004,2162 @@
    ]
   },
   {
+   "slug": "title-19-part-0000",
+   "short": "19 CFR Part 0",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 0",
+   "url": "https://www.ecfr.gov/current/title-19/part-0",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0004",
+   "short": "19 CFR Part 4",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 4",
+   "url": "https://www.ecfr.gov/current/title-19/part-4",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 90,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-07-13",
+     "units": 90,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2017-07-18",
+     "units": 90,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2017-11-27",
+     "units": 90,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2017-12-08",
+     "units": 90,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2018-04-04",
+     "units": 90,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    },
+    {
+     "from": "2018-11-29",
+     "units": 90,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    },
+    {
+     "from": "2018-12-28",
+     "units": 90,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    },
+    {
+     "from": "2019-04-05",
+     "units": 90,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-19/CFR-2020-title-19.zip",
+     "sha256": "6904a3207cba65e70771ceb9cccb2767c6ca7455d9e93fd305717f75eeee2447"
+    },
+    {
+     "from": "2020-06-17",
+     "units": 90,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-19/CFR-2021-title-19.zip",
+     "sha256": "310ec073e429c78c2e951b2bea3fb96a93ab8289cb63807169e71ef75d903fd8"
+    },
+    {
+     "from": "2021-03-15",
+     "units": 90,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-19/CFR-2021-title-19.zip",
+     "sha256": "310ec073e429c78c2e951b2bea3fb96a93ab8289cb63807169e71ef75d903fd8"
+    },
+    {
+     "from": "2022-01-11",
+     "units": 90,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    },
+    {
+     "from": "2022-02-28",
+     "units": 90,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    },
+    {
+     "from": "2022-08-19",
+     "units": 90,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-19/CFR-2023-title-19.zip",
+     "sha256": "f934dd27b44d3c39a16ae01954e5e43b6d990421d9ea2552193fd69ef5e21732"
+    },
+    {
+     "from": "2023-01-13",
+     "units": 90,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-19/CFR-2023-title-19.zip",
+     "sha256": "f934dd27b44d3c39a16ae01954e5e43b6d990421d9ea2552193fd69ef5e21732"
+    },
+    {
+     "from": "2025-01-02",
+     "units": 90,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2025-09-16",
+     "units": 90,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 90,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0007",
+   "short": "19 CFR Part 7",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 7",
+   "url": "https://www.ecfr.gov/current/title-19/part-7",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0010",
+   "short": "19 CFR Part 10",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 10",
+   "url": "https://www.ecfr.gov/current/title-19/part-10",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 572,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-07-13",
+     "units": 572,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2017-11-27",
+     "units": 572,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2021-07-06",
+     "units": 572,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    },
+    {
+     "from": "2025-03-18",
+     "units": 572,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2025-09-08",
+     "units": 572,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    },
+    {
+     "from": "2026-06-24",
+     "units": 572,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 572,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0011",
+   "short": "19 CFR Part 11",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 11",
+   "url": "https://www.ecfr.gov/current/title-19/part-11",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0012",
+   "short": "19 CFR Part 12",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 12",
+   "url": "https://www.ecfr.gov/current/title-19/part-12",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 105,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-06-08",
+     "units": 105,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2017-10-30",
+     "units": 105,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2017-11-27",
+     "units": 105,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2018-02-27",
+     "units": 105,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2018-06-12",
+     "units": 105,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    },
+    {
+     "from": "2019-03-12",
+     "units": 105,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    },
+    {
+     "from": "2019-09-05",
+     "units": 105,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-19/CFR-2020-title-19.zip",
+     "sha256": "6904a3207cba65e70771ceb9cccb2767c6ca7455d9e93fd305717f75eeee2447"
+    },
+    {
+     "from": "2020-03-18",
+     "units": 105,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-19/CFR-2020-title-19.zip",
+     "sha256": "6904a3207cba65e70771ceb9cccb2767c6ca7455d9e93fd305717f75eeee2447"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 105,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-19/CFR-2021-title-19.zip",
+     "sha256": "310ec073e429c78c2e951b2bea3fb96a93ab8289cb63807169e71ef75d903fd8"
+    },
+    {
+     "from": "2022-03-17",
+     "units": 105,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    },
+    {
+     "from": "2023-02-23",
+     "units": 105,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-19/CFR-2023-title-19.zip",
+     "sha256": "f934dd27b44d3c39a16ae01954e5e43b6d990421d9ea2552193fd69ef5e21732"
+    },
+    {
+     "from": "2024-03-12",
+     "units": 105,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-19/CFR-2024-title-19.zip",
+     "sha256": "06974013c604480d7d22b17301f2b3f2be0f35483d3a4b0b70dc721e5b46a493"
+    },
+    {
+     "from": "2025-03-26",
+     "units": 105,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2026-08-12",
+     "units": 105,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0018",
+   "short": "19 CFR Part 18",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 18",
+   "url": "https://www.ecfr.gov/current/title-19/part-18",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-11-27",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0019",
+   "short": "19 CFR Part 19",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 19",
+   "url": "https://www.ecfr.gov/current/title-19/part-19",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-11-27",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0024",
+   "short": "19 CFR Part 24",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 24",
+   "url": "https://www.ecfr.gov/current/title-19/part-24",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-11-01",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2018-08-16",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    },
+    {
+     "from": "2019-09-24",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-19/CFR-2020-title-19.zip",
+     "sha256": "6904a3207cba65e70771ceb9cccb2767c6ca7455d9e93fd305717f75eeee2447"
+    },
+    {
+     "from": "2020-04-22",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-19/CFR-2021-title-19.zip",
+     "sha256": "310ec073e429c78c2e951b2bea3fb96a93ab8289cb63807169e71ef75d903fd8"
+    },
+    {
+     "from": "2020-08-04",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-19/CFR-2021-title-19.zip",
+     "sha256": "310ec073e429c78c2e951b2bea3fb96a93ab8289cb63807169e71ef75d903fd8"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    },
+    {
+     "from": "2022-12-23",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-19/CFR-2023-title-19.zip",
+     "sha256": "f934dd27b44d3c39a16ae01954e5e43b6d990421d9ea2552193fd69ef5e21732"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-19/CFR-2023-title-19.zip",
+     "sha256": "f934dd27b44d3c39a16ae01954e5e43b6d990421d9ea2552193fd69ef5e21732"
+    },
+    {
+     "from": "2023-11-06",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-19/CFR-2024-title-19.zip",
+     "sha256": "06974013c604480d7d22b17301f2b3f2be0f35483d3a4b0b70dc721e5b46a493"
+    },
+    {
+     "from": "2025-03-18",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2025-08-18",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    },
+    {
+     "from": "2026-02-06",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0054",
+   "short": "19 CFR Part 54",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 54",
+   "url": "https://www.ecfr.gov/current/title-19/part-54",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0101",
+   "short": "19 CFR Part 101",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 101",
+   "url": "https://www.ecfr.gov/current/title-19/part-101",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2018-05-11",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    },
+    {
+     "from": "2023-11-16",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-19/CFR-2024-title-19.zip",
+     "sha256": "06974013c604480d7d22b17301f2b3f2be0f35483d3a4b0b70dc721e5b46a493"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0102",
+   "short": "19 CFR Part 102",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 102",
+   "url": "https://www.ecfr.gov/current/title-19/part-102",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2021-07-06",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    },
+    {
+     "from": "2022-11-15",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-19/CFR-2023-title-19.zip",
+     "sha256": "f934dd27b44d3c39a16ae01954e5e43b6d990421d9ea2552193fd69ef5e21732"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0103",
+   "short": "19 CFR Part 103",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 103",
+   "url": "https://www.ecfr.gov/current/title-19/part-103",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2020-05-22",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-19/CFR-2021-title-19.zip",
+     "sha256": "310ec073e429c78c2e951b2bea3fb96a93ab8289cb63807169e71ef75d903fd8"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0111",
+   "short": "19 CFR Part 111",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 111",
+   "url": "https://www.ecfr.gov/current/title-19/part-111",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 77,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-07-31",
+     "units": 77,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2017-11-01",
+     "units": 77,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2020-03-09",
+     "units": 77,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-19/CFR-2020-title-19.zip",
+     "sha256": "6904a3207cba65e70771ceb9cccb2767c6ca7455d9e93fd305717f75eeee2447"
+    },
+    {
+     "from": "2022-12-23",
+     "units": 77,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-19/CFR-2023-title-19.zip",
+     "sha256": "f934dd27b44d3c39a16ae01954e5e43b6d990421d9ea2552193fd69ef5e21732"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 77,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-19/CFR-2023-title-19.zip",
+     "sha256": "f934dd27b44d3c39a16ae01954e5e43b6d990421d9ea2552193fd69ef5e21732"
+    },
+    {
+     "from": "2023-07-24",
+     "units": 81,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-19/CFR-2024-title-19.zip",
+     "sha256": "06974013c604480d7d22b17301f2b3f2be0f35483d3a4b0b70dc721e5b46a493"
+    },
+    {
+     "from": "2024-04-01",
+     "units": 82,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-19/CFR-2024-title-19.zip",
+     "sha256": "06974013c604480d7d22b17301f2b3f2be0f35483d3a4b0b70dc721e5b46a493"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0112",
+   "short": "19 CFR Part 112",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 112",
+   "url": "https://www.ecfr.gov/current/title-19/part-112",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0113",
+   "short": "19 CFR Part 113",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 113",
+   "url": "https://www.ecfr.gov/current/title-19/part-113",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-07-13",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2017-11-27",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2018-06-12",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    },
+    {
+     "from": "2024-08-23",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2025-03-18",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0114",
+   "short": "19 CFR Part 114",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 114",
+   "url": "https://www.ecfr.gov/current/title-19/part-114",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0115",
+   "short": "19 CFR Part 115",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 115",
+   "url": "https://www.ecfr.gov/current/title-19/part-115",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0118",
+   "short": "19 CFR Part 118",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 118",
+   "url": "https://www.ecfr.gov/current/title-19/part-118",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0122",
+   "short": "19 CFR Part 122",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 122",
+   "url": "https://www.ecfr.gov/current/title-19/part-122",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 123,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-07-13",
+     "units": 123,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2017-07-18",
+     "units": 123,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2017-11-27",
+     "units": 123,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2018-02-22",
+     "units": 123,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2018-06-12",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    },
+    {
+     "from": "2020-07-24",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-19/CFR-2021-title-19.zip",
+     "sha256": "310ec073e429c78c2e951b2bea3fb96a93ab8289cb63807169e71ef75d903fd8"
+    },
+    {
+     "from": "2021-03-15",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-19/CFR-2021-title-19.zip",
+     "sha256": "310ec073e429c78c2e951b2bea3fb96a93ab8289cb63807169e71ef75d903fd8"
+    },
+    {
+     "from": "2021-10-20",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    },
+    {
+     "from": "2022-07-22",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-19/CFR-2023-title-19.zip",
+     "sha256": "f934dd27b44d3c39a16ae01954e5e43b6d990421d9ea2552193fd69ef5e21732"
+    },
+    {
+     "from": "2025-11-17",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    },
+    {
+     "from": "2025-11-21",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0123",
+   "short": "19 CFR Part 123",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 123",
+   "url": "https://www.ecfr.gov/current/title-19/part-123",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-07-13",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2017-11-27",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2021-03-15",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-19/CFR-2021-title-19.zip",
+     "sha256": "310ec073e429c78c2e951b2bea3fb96a93ab8289cb63807169e71ef75d903fd8"
+    },
+    {
+     "from": "2025-03-18",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0125",
+   "short": "19 CFR Part 125",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 125",
+   "url": "https://www.ecfr.gov/current/title-19/part-125",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0127",
+   "short": "19 CFR Part 127",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 127",
+   "url": "https://www.ecfr.gov/current/title-19/part-127",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0128",
+   "short": "19 CFR Part 128",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 128",
+   "url": "https://www.ecfr.gov/current/title-19/part-128",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2025-08-18",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0132",
+   "short": "19 CFR Part 132",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 132",
+   "url": "https://www.ecfr.gov/current/title-19/part-132",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2021-07-06",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0133",
+   "short": "19 CFR Part 133",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 133",
+   "url": "https://www.ecfr.gov/current/title-19/part-133",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2018-01-16",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2024-08-23",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0134",
+   "short": "19 CFR Part 134",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 134",
+   "url": "https://www.ecfr.gov/current/title-19/part-134",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2021-07-06",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0141",
+   "short": "19 CFR Part 141",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 141",
+   "url": "https://www.ecfr.gov/current/title-19/part-141",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-07-13",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2017-11-27",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2018-06-12",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    },
+    {
+     "from": "2019-09-05",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-19/CFR-2020-title-19.zip",
+     "sha256": "6904a3207cba65e70771ceb9cccb2767c6ca7455d9e93fd305717f75eeee2447"
+    },
+    {
+     "from": "2025-03-18",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2026-02-06",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0142",
+   "short": "19 CFR Part 142",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 142",
+   "url": "https://www.ecfr.gov/current/title-19/part-142",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-11-27",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0143",
+   "short": "19 CFR Part 143",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 143",
+   "url": "https://www.ecfr.gov/current/title-19/part-143",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-11-27",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0144",
+   "short": "19 CFR Part 144",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 144",
+   "url": "https://www.ecfr.gov/current/title-19/part-144",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-11-27",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2025-03-18",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0145",
+   "short": "19 CFR Part 145",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 145",
+   "url": "https://www.ecfr.gov/current/title-19/part-145",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2021-03-15",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-19/CFR-2021-title-19.zip",
+     "sha256": "310ec073e429c78c2e951b2bea3fb96a93ab8289cb63807169e71ef75d903fd8"
+    },
+    {
+     "from": "2021-07-22",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    },
+    {
+     "from": "2026-06-24",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    },
+    {
+     "from": "2026-07-24",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0146",
+   "short": "19 CFR Part 146",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 146",
+   "url": "https://www.ecfr.gov/current/title-19/part-146",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 59,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-11-27",
+     "units": 59,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0147",
+   "short": "19 CFR Part 147",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 147",
+   "url": "https://www.ecfr.gov/current/title-19/part-147",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0148",
+   "short": "19 CFR Part 148",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 148",
+   "url": "https://www.ecfr.gov/current/title-19/part-148",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 82,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2024-08-23",
+     "units": 82,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0149",
+   "short": "19 CFR Part 149",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 149",
+   "url": "https://www.ecfr.gov/current/title-19/part-149",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2018-05-14",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-19/CFR-2021-title-19.zip",
+     "sha256": "310ec073e429c78c2e951b2bea3fb96a93ab8289cb63807169e71ef75d903fd8"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0151",
+   "short": "19 CFR Part 151",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 151",
+   "url": "https://www.ecfr.gov/current/title-19/part-151",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 62,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-11-27",
+     "units": 62,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2024-08-23",
+     "units": 62,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0152",
+   "short": "19 CFR Part 152",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 152",
+   "url": "https://www.ecfr.gov/current/title-19/part-152",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0158",
+   "short": "19 CFR Part 158",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 158",
+   "url": "https://www.ecfr.gov/current/title-19/part-158",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0159",
+   "short": "19 CFR Part 159",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 159",
+   "url": "https://www.ecfr.gov/current/title-19/part-159",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-07-28",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2026-02-06",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0161",
+   "short": "19 CFR Part 161",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 161",
+   "url": "https://www.ecfr.gov/current/title-19/part-161",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0162",
+   "short": "19 CFR Part 162",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 162",
+   "url": "https://www.ecfr.gov/current/title-19/part-162",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0163",
+   "short": "19 CFR Part 163",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 163",
+   "url": "https://www.ecfr.gov/current/title-19/part-163",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2021-07-06",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    },
+    {
+     "from": "2025-03-18",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2025-09-08",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0165",
+   "short": "19 CFR Part 165",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 165",
+   "url": "https://www.ecfr.gov/current/title-19/part-165",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2024-04-17",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0171",
+   "short": "19 CFR Part 171",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 171",
+   "url": "https://www.ecfr.gov/current/title-19/part-171",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0172",
+   "short": "19 CFR Part 172",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 172",
+   "url": "https://www.ecfr.gov/current/title-19/part-172",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0173",
+   "short": "19 CFR Part 173",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 173",
+   "url": "https://www.ecfr.gov/current/title-19/part-173",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0174",
+   "short": "19 CFR Part 174",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 174",
+   "url": "https://www.ecfr.gov/current/title-19/part-174",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2025-03-18",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2026-06-24",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0175",
+   "short": "19 CFR Part 175",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 175",
+   "url": "https://www.ecfr.gov/current/title-19/part-175",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0176",
+   "short": "19 CFR Part 176",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 176",
+   "url": "https://www.ecfr.gov/current/title-19/part-176",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0177",
+   "short": "19 CFR Part 177",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 177",
+   "url": "https://www.ecfr.gov/current/title-19/part-177",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2024-08-23",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0178",
+   "short": "19 CFR Part 178",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 178",
+   "url": "https://www.ecfr.gov/current/title-19/part-178",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2018-06-12",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0181",
+   "short": "19 CFR Part 181",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 181",
+   "url": "https://www.ecfr.gov/current/title-19/part-181",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-07-28",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2017-11-27",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2018-12-18",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    },
+    {
+     "from": "2020-07-01",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-19/CFR-2021-title-19.zip",
+     "sha256": "310ec073e429c78c2e951b2bea3fb96a93ab8289cb63807169e71ef75d903fd8"
+    },
+    {
+     "from": "2024-04-01",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-19/CFR-2024-title-19.zip",
+     "sha256": "06974013c604480d7d22b17301f2b3f2be0f35483d3a4b0b70dc721e5b46a493"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0182",
+   "short": "19 CFR Part 182",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 182",
+   "url": "https://www.ecfr.gov/current/title-19/part-182",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-19/CFR-2021-title-19.zip",
+     "sha256": "310ec073e429c78c2e951b2bea3fb96a93ab8289cb63807169e71ef75d903fd8"
+    },
+    {
+     "from": "2021-07-06",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2025-03-18",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0190",
+   "short": "19 CFR Part 190",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 190",
+   "url": "https://www.ecfr.gov/current/title-19/part-190",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 109,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    },
+    {
+     "from": "2019-02-19",
+     "units": 112,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    },
+    {
+     "from": "2021-07-06",
+     "units": 112,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 112,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    },
+    {
+     "from": "2024-04-01",
+     "units": 112,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-19/CFR-2024-title-19.zip",
+     "sha256": "06974013c604480d7d22b17301f2b3f2be0f35483d3a4b0b70dc721e5b46a493"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 112,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 112,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0191",
+   "short": "19 CFR Part 191",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 191",
+   "url": "https://www.ecfr.gov/current/title-19/part-191",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 109,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-07-13",
+     "units": 109,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2018-12-18",
+     "units": 110,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    },
+    {
+     "from": "2019-02-19",
+     "units": 110,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 110,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0192",
+   "short": "19 CFR Part 192",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 192",
+   "url": "https://www.ecfr.gov/current/title-19/part-192",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2017-07-13",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2018-06-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0200",
+   "short": "19 CFR Part 200",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 200",
+   "url": "https://www.ecfr.gov/current/title-19/part-200",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0201",
+   "short": "19 CFR Part 201",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 201",
+   "url": "https://www.ecfr.gov/current/title-19/part-201",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 72,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2018-01-25",
+     "units": 72,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-19/CFR-2018-title-19.zip",
+     "sha256": "dd17ad6adaf1be612c944dc52219ff715c1e5256e7c717e5518e2b624249b8aa"
+    },
+    {
+     "from": "2018-06-08",
+     "units": 72,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    },
+    {
+     "from": "2025-02-03",
+     "units": 72,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 72,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0202",
+   "short": "19 CFR Part 202",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 202",
+   "url": "https://www.ecfr.gov/current/title-19/part-202",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0204",
+   "short": "19 CFR Part 204",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 204",
+   "url": "https://www.ecfr.gov/current/title-19/part-204",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0205",
+   "short": "19 CFR Part 205",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 205",
+   "url": "https://www.ecfr.gov/current/title-19/part-205",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0206",
+   "short": "19 CFR Part 206",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 206",
+   "url": "https://www.ecfr.gov/current/title-19/part-206",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2023-04-10",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-19/CFR-2024-title-19.zip",
+     "sha256": "06974013c604480d7d22b17301f2b3f2be0f35483d3a4b0b70dc721e5b46a493"
+    },
+    {
+     "from": "2025-02-03",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0207",
+   "short": "19 CFR Part 207",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 207",
+   "url": "https://www.ecfr.gov/current/title-19/part-207",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 73,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2023-04-10",
+     "units": 73,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-19/CFR-2024-title-19.zip",
+     "sha256": "06974013c604480d7d22b17301f2b3f2be0f35483d3a4b0b70dc721e5b46a493"
+    },
+    {
+     "from": "2025-02-03",
+     "units": 73,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0208",
+   "short": "19 CFR Part 208",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 208",
+   "url": "https://www.ecfr.gov/current/title-19/part-208",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-19/CFR-2021-title-19.zip",
+     "sha256": "310ec073e429c78c2e951b2bea3fb96a93ab8289cb63807169e71ef75d903fd8"
+    },
+    {
+     "from": "2021-05-10",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0210",
+   "short": "19 CFR Part 210",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 210",
+   "url": "https://www.ecfr.gov/current/title-19/part-210",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 81,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2018-06-08",
+     "units": 81,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-19/CFR-2019-title-19.zip",
+     "sha256": "f25050992620a9bbc2371e4238987a7256e6a8f135bdc6591fec1d59451e9ef0"
+    },
+    {
+     "from": "2025-02-03",
+     "units": 81,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2026-01-07",
+     "units": 81,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0212",
+   "short": "19 CFR Part 212",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 212",
+   "url": "https://www.ecfr.gov/current/title-19/part-212",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0213",
+   "short": "19 CFR Part 213",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 213",
+   "url": "https://www.ecfr.gov/current/title-19/part-213",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0220",
+   "short": "19 CFR Part 220",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 220",
+   "url": "https://www.ecfr.gov/current/title-19/part-220",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2019-09-25",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-19/CFR-2020-title-19.zip",
+     "sha256": "6904a3207cba65e70771ceb9cccb2767c6ca7455d9e93fd305717f75eeee2447"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0351",
+   "short": "19 CFR Part 351",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 351",
+   "url": "https://www.ecfr.gov/current/title-19/part-351",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 103,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2020-02-04",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-19/CFR-2020-title-19.zip",
+     "sha256": "6904a3207cba65e70771ceb9cccb2767c6ca7455d9e93fd305717f75eeee2447"
+    },
+    {
+     "from": "2020-03-26",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-19/CFR-2020-title-19.zip",
+     "sha256": "6904a3207cba65e70771ceb9cccb2767c6ca7455d9e93fd305717f75eeee2447"
+    },
+    {
+     "from": "2020-04-06",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-19/CFR-2021-title-19.zip",
+     "sha256": "310ec073e429c78c2e951b2bea3fb96a93ab8289cb63807169e71ef75d903fd8"
+    },
+    {
+     "from": "2021-10-20",
+     "units": 105,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    },
+    {
+     "from": "2021-11-04",
+     "units": 107,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    },
+    {
+     "from": "2023-10-30",
+     "units": 107,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-19/CFR-2024-title-19.zip",
+     "sha256": "06974013c604480d7d22b17301f2b3f2be0f35483d3a4b0b70dc721e5b46a493"
+    },
+    {
+     "from": "2024-03-25",
+     "units": 109,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-19/CFR-2024-title-19.zip",
+     "sha256": "06974013c604480d7d22b17301f2b3f2be0f35483d3a4b0b70dc721e5b46a493"
+    },
+    {
+     "from": "2024-03-27",
+     "units": 109,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-19/CFR-2024-title-19.zip",
+     "sha256": "06974013c604480d7d22b17301f2b3f2be0f35483d3a4b0b70dc721e5b46a493"
+    },
+    {
+     "from": "2024-04-24",
+     "units": 109,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2024-12-19",
+     "units": 111,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2025-01-15",
+     "units": 112,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2025-02-03",
+     "units": 112,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2025-03-31",
+     "units": 114,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 101,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0354",
+   "short": "19 CFR Part 354",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 354",
+   "url": "https://www.ecfr.gov/current/title-19/part-354",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0356",
+   "short": "19 CFR Part 356",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 356",
+   "url": "https://www.ecfr.gov/current/title-19/part-356",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2021-12-09",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    },
+    {
+     "from": "2023-04-01",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-19/CFR-2023-title-19.zip",
+     "sha256": "f934dd27b44d3c39a16ae01954e5e43b6d990421d9ea2552193fd69ef5e21732"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-19/CFR-2024-title-19.zip",
+     "sha256": "06974013c604480d7d22b17301f2b3f2be0f35483d3a4b0b70dc721e5b46a493"
+    },
+    {
+     "from": "2024-12-12",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-19/CFR-2025-title-19.zip",
+     "sha256": "b42e270c1139a13f24adff61f42d294227dda00bc813d9ce2c808c81a206aabe"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0358",
+   "short": "19 CFR Part 358",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 358",
+   "url": "https://www.ecfr.gov/current/title-19/part-358",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2026-01-16",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-19/ECFR-title19.xml",
+     "sha256": "d9e24e4b4b134a502cdb626a3958972d266ccb6c4d42d082a7b005aa509625ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0360",
+   "short": "19 CFR Part 360",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 360",
+   "url": "https://www.ecfr.gov/current/title-19/part-360",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-19/CFR-2017-title-19.zip",
+     "sha256": "5cbd301206d0adf7efe677f91e282144f0879d7442b1139c024a18e1f13e0b62"
+    },
+    {
+     "from": "2020-10-13",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-19/CFR-2021-title-19.zip",
+     "sha256": "310ec073e429c78c2e951b2bea3fb96a93ab8289cb63807169e71ef75d903fd8"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0361",
+   "short": "19 CFR Part 361",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 361",
+   "url": "https://www.ecfr.gov/current/title-19/part-361",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-19/CFR-2021-title-19.zip",
+     "sha256": "310ec073e429c78c2e951b2bea3fb96a93ab8289cb63807169e71ef75d903fd8"
+    },
+    {
+     "from": "2021-05-21",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-19/CFR-2022-title-19.zip",
+     "sha256": "e45daf8f72620b1f4c3a177339f038c51a50e8bf731795c669ac5750e2a73e17"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-part-0362",
+   "short": "19 CFR Part 362",
+   "title": "Title 19 of the Code of Federal Regulations (Customs Duties), Part 362",
+   "url": "https://www.ecfr.gov/current/title-19/part-362",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-19/CFR-2023-title-19.zip",
+     "sha256": "f934dd27b44d3c39a16ae01954e5e43b6d990421d9ea2552193fd69ef5e21732"
+    }
+   ]
+  },
+  {
    "slug": "title-26-part-0001",
    "short": "26 CFR Part 1",
    "title": "Title 26 of the Code of Federal Regulations (Internal Revenue), Part 1",

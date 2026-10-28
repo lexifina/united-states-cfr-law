@@ -3546,6 +3546,82 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-18-part-1317` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1317 | 1 | 2017-03-23 to 2017-03-23 |
 | `title-18-part-1318` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1318 | 2 | 2020-04-01 to 2026-01-21 |
 | `title-18-part-1319` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1319 | 1 | 2026-01-21 to 2026-01-21 |
+| `title-19-part-0000` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 0 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0004` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 4 | 18 | 2017-03-21 to 2026-10-26 |
+| `title-19-part-0007` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 7 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0010` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 10 | 8 | 2017-03-21 to 2026-10-26 |
+| `title-19-part-0011` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 11 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0012` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 12 | 15 | 2017-03-21 to 2026-08-12 |
+| `title-19-part-0018` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 18 | 2 | 2017-03-21 to 2017-11-27 |
+| `title-19-part-0019` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 19 | 2 | 2017-03-21 to 2017-11-27 |
+| `title-19-part-0024` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 24 | 13 | 2017-03-21 to 2026-02-06 |
+| `title-19-part-0054` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 54 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0101` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 101 | 3 | 2017-03-21 to 2023-11-16 |
+| `title-19-part-0102` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 102 | 3 | 2017-03-21 to 2022-11-15 |
+| `title-19-part-0103` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 103 | 3 | 2017-03-21 to 2026-10-26 |
+| `title-19-part-0111` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 111 | 8 | 2017-03-21 to 2024-04-01 |
+| `title-19-part-0112` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 112 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0113` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 113 | 7 | 2017-03-21 to 2026-10-26 |
+| `title-19-part-0114` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 114 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0115` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 115 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0118` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 118 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0122` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 122 | 13 | 2017-03-21 to 2025-11-21 |
+| `title-19-part-0123` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 123 | 6 | 2017-03-21 to 2026-10-26 |
+| `title-19-part-0125` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 125 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0127` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 127 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0128` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 128 | 2 | 2017-03-21 to 2025-08-18 |
+| `title-19-part-0132` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 132 | 2 | 2017-03-21 to 2021-07-06 |
+| `title-19-part-0133` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 133 | 3 | 2017-03-21 to 2024-08-23 |
+| `title-19-part-0134` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 134 | 2 | 2017-03-21 to 2021-07-06 |
+| `title-19-part-0141` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 141 | 8 | 2017-03-21 to 2026-10-26 |
+| `title-19-part-0142` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 142 | 2 | 2017-03-21 to 2017-11-27 |
+| `title-19-part-0143` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 143 | 2 | 2017-03-21 to 2017-11-27 |
+| `title-19-part-0144` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 144 | 3 | 2017-03-21 to 2025-03-18 |
+| `title-19-part-0145` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 145 | 6 | 2017-03-21 to 2026-10-26 |
+| `title-19-part-0146` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 146 | 2 | 2017-03-21 to 2017-11-27 |
+| `title-19-part-0147` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 147 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0148` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 148 | 2 | 2017-03-21 to 2024-08-23 |
+| `title-19-part-0149` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 149 | 3 | 2017-03-21 to 2021-04-01 |
+| `title-19-part-0151` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 151 | 3 | 2017-03-21 to 2024-08-23 |
+| `title-19-part-0152` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 152 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0158` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 158 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0159` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 159 | 3 | 2017-03-21 to 2026-02-06 |
+| `title-19-part-0161` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 161 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0162` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 162 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0163` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 163 | 4 | 2017-03-21 to 2025-09-08 |
+| `title-19-part-0165` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 165 | 2 | 2017-03-21 to 2024-04-17 |
+| `title-19-part-0171` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 171 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0172` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 172 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0173` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 173 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0174` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 174 | 3 | 2017-03-21 to 2026-06-24 |
+| `title-19-part-0175` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 175 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0176` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 176 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0177` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 177 | 2 | 2017-03-21 to 2024-08-23 |
+| `title-19-part-0178` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 178 | 2 | 2017-03-21 to 2018-06-12 |
+| `title-19-part-0181` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 181 | 7 | 2017-03-21 to 2026-10-26 |
+| `title-19-part-0182` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 182 | 5 | 2020-07-01 to 2026-10-26 |
+| `title-19-part-0190` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 190 | 7 | 2018-12-18 to 2026-10-26 |
+| `title-19-part-0191` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 191 | 5 | 2017-03-21 to 2026-10-26 |
+| `title-19-part-0192` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 192 | 4 | 2017-03-21 to 2026-10-26 |
+| `title-19-part-0200` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 200 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0201` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 201 | 5 | 2017-03-21 to 2026-10-26 |
+| `title-19-part-0202` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 202 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0204` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 204 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0205` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 205 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0206` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 206 | 3 | 2017-03-21 to 2025-02-03 |
+| `title-19-part-0207` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 207 | 3 | 2017-03-21 to 2025-02-03 |
+| `title-19-part-0208` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 208 | 2 | 2020-05-18 to 2021-05-10 |
+| `title-19-part-0210` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 210 | 4 | 2017-03-21 to 2026-01-07 |
+| `title-19-part-0212` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 212 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0213` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 213 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0220` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 220 | 2 | 2017-03-21 to 2019-09-25 |
+| `title-19-part-0351` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 351 | 15 | 2017-03-21 to 2026-10-26 |
+| `title-19-part-0354` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 354 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-19-part-0356` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 356 | 5 | 2017-03-21 to 2024-12-12 |
+| `title-19-part-0358` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 358 | 2 | 2017-03-21 to 2026-01-16 |
+| `title-19-part-0360` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 360 | 2 | 2017-03-21 to 2020-10-13 |
+| `title-19-part-0361` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 361 | 2 | 2021-03-29 to 2021-05-21 |
+| `title-19-part-0362` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 362 | 1 | 2022-11-15 to 2022-11-15 |
 | `title-26-part-0001` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 1 | 228 | 2017-03-22 to 2026-10-26 |
 | `title-26-part-0002` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 2 | 1 | 2017-03-22 to 2017-03-22 |
 | `title-26-part-0003` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 3 | 1 | 2017-03-22 to 2017-03-22 |
@@ -3922,19 +3998,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 18041 commits:
+The build made 18407 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3905 | first version of an act |
-| 9982 | one law on its in-force day |
-| 4154 | changes no amendment note explains, credited to the publisher |
+| 3981 | first version of an act |
+| 10185 | one law on its in-force day |
+| 4241 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 11919 laws in the record.
-- 23453 tags.
+- 12136 laws in the record.
+- 23895 tags.
 
 ## Dates
 
@@ -3946,7 +4022,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `81cd20fb628b9840dabb455ebf3ed0130da491f23fc82d812cbd119fb3c0cc52` (925976209 bytes).
+- Corpus: sha256 `a04cc1cd78a60f014e03a9b1dca6b38a558a256f95e82289c7ec3065899236aa` (940241865 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -3986,6 +4062,7 @@ No second build of this corpus has been compared yet.
 - Title 16: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2023-12-11); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
 - Title 18: editions read: 2017 annual edition (to 2017-03-23); 2018 annual edition (to 2018-04-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
+- Title 19: editions read: 2017 annual edition (to 2017-03-21); 2018 annual edition (to 2018-04-01); 2019 annual edition (to 2019-03-12); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 29: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-11); 2019 annual edition (to 2019-05-14); 2020 annual edition (to 2020-02-18); 2021 annual edition (to 2021-05-06); 2022 annual edition (to 2022-03-17); 2023 annual edition (to 2023-03-23); 2024 annual edition (to 2024-05-31); eCFR (to 2026-10-26).
 
