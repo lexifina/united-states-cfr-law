@@ -4502,6 +4502,161 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-24-part-3288` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 3288 | 1 | 2017-03-21 to 2017-03-21 |
 | `title-24-part-3800` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 3800 | 1 | 2017-03-21 to 2017-03-21 |
 | `title-24-part-4100` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 4100 | 2 | 2017-03-21 to 2022-04-01 |
+| `title-25-part-0001` | Title 25 of the Code of Federal Regulations (Indians), Part 1 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0002` | Title 25 of the Code of Federal Regulations (Indians), Part 2 | 2 | 2017-03-22 to 2023-09-08 |
+| `title-25-part-0005` | Title 25 of the Code of Federal Regulations (Indians), Part 5 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0010` | Title 25 of the Code of Federal Regulations (Indians), Part 10 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0011` | Title 25 of the Code of Federal Regulations (Indians), Part 11 | 2 | 2017-03-22 to 2020-01-07 |
+| `title-25-part-0012` | Title 25 of the Code of Federal Regulations (Indians), Part 12 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0013` | Title 25 of the Code of Federal Regulations (Indians), Part 13 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0015` | Title 25 of the Code of Federal Regulations (Indians), Part 15 | 3 | 2017-03-22 to 2023-06-20 |
+| `title-25-part-0016` | Title 25 of the Code of Federal Regulations (Indians), Part 16 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0017` | Title 25 of the Code of Federal Regulations (Indians), Part 17 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0018` | Title 25 of the Code of Federal Regulations (Indians), Part 18 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0020` | Title 25 of the Code of Federal Regulations (Indians), Part 20 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0023` | Title 25 of the Code of Federal Regulations (Indians), Part 23 | 2 | 2017-03-22 to 2018-11-05 |
+| `title-25-part-0026` | Title 25 of the Code of Federal Regulations (Indians), Part 26 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0030` | Title 25 of the Code of Federal Regulations (Indians), Part 30 | 3 | 2017-03-22 to 2020-04-27 |
+| `title-25-part-0031` | Title 25 of the Code of Federal Regulations (Indians), Part 31 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0032` | Title 25 of the Code of Federal Regulations (Indians), Part 32 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0033` | Title 25 of the Code of Federal Regulations (Indians), Part 33 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0036` | Title 25 of the Code of Federal Regulations (Indians), Part 36 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0037` | Title 25 of the Code of Federal Regulations (Indians), Part 37 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0038` | Title 25 of the Code of Federal Regulations (Indians), Part 38 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0039` | Title 25 of the Code of Federal Regulations (Indians), Part 39 | 2 | 2017-03-22 to 2026-10-26 |
+| `title-25-part-0040` | Title 25 of the Code of Federal Regulations (Indians), Part 40 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0041` | Title 25 of the Code of Federal Regulations (Indians), Part 41 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0042` | Title 25 of the Code of Federal Regulations (Indians), Part 42 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0043` | Title 25 of the Code of Federal Regulations (Indians), Part 43 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0044` | Title 25 of the Code of Federal Regulations (Indians), Part 44 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0046` | Title 25 of the Code of Federal Regulations (Indians), Part 46 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0047` | Title 25 of the Code of Federal Regulations (Indians), Part 47 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0048` | Title 25 of the Code of Federal Regulations (Indians), Part 48 | 1 | 2021-08-02 to 2021-08-02 |
+| `title-25-part-0061` | Title 25 of the Code of Federal Regulations (Indians), Part 61 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0062` | Title 25 of the Code of Federal Regulations (Indians), Part 62 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0063` | Title 25 of the Code of Federal Regulations (Indians), Part 63 | 2 | 2017-03-22 to 2020-06-23 |
+| `title-25-part-0067` | Title 25 of the Code of Federal Regulations (Indians), Part 67 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0075` | Title 25 of the Code of Federal Regulations (Indians), Part 75 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0081` | Title 25 of the Code of Federal Regulations (Indians), Part 81 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0083` | Title 25 of the Code of Federal Regulations (Indians), Part 83 | 3 | 2017-03-22 to 2025-03-21 |
+| `title-25-part-0084` | Title 25 of the Code of Federal Regulations (Indians), Part 84 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0087` | Title 25 of the Code of Federal Regulations (Indians), Part 87 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0088` | Title 25 of the Code of Federal Regulations (Indians), Part 88 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0089` | Title 25 of the Code of Federal Regulations (Indians), Part 89 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0090` | Title 25 of the Code of Federal Regulations (Indians), Part 90 | 2 | 2017-03-22 to 2021-11-01 |
+| `title-25-part-0091` | Title 25 of the Code of Federal Regulations (Indians), Part 91 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0101` | Title 25 of the Code of Federal Regulations (Indians), Part 101 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0103` | Title 25 of the Code of Federal Regulations (Indians), Part 103 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0111` | Title 25 of the Code of Federal Regulations (Indians), Part 111 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0115` | Title 25 of the Code of Federal Regulations (Indians), Part 115 | 2 | 2017-03-22 to 2026-10-26 |
+| `title-25-part-0117` | Title 25 of the Code of Federal Regulations (Indians), Part 117 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0122` | Title 25 of the Code of Federal Regulations (Indians), Part 122 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0124` | Title 25 of the Code of Federal Regulations (Indians), Part 124 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0134` | Title 25 of the Code of Federal Regulations (Indians), Part 134 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0135` | Title 25 of the Code of Federal Regulations (Indians), Part 135 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0136` | Title 25 of the Code of Federal Regulations (Indians), Part 136 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0137` | Title 25 of the Code of Federal Regulations (Indians), Part 137 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0138` | Title 25 of the Code of Federal Regulations (Indians), Part 138 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0139` | Title 25 of the Code of Federal Regulations (Indians), Part 139 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0140` | Title 25 of the Code of Federal Regulations (Indians), Part 140 | 8 | 2017-03-22 to 2025-06-05 |
+| `title-25-part-0141` | Title 25 of the Code of Federal Regulations (Indians), Part 141 | 8 | 2017-03-22 to 2025-06-05 |
+| `title-25-part-0142` | Title 25 of the Code of Federal Regulations (Indians), Part 142 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0143` | Title 25 of the Code of Federal Regulations (Indians), Part 143 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0150` | Title 25 of the Code of Federal Regulations (Indians), Part 150 | 2 | 2017-03-22 to 2021-09-15 |
+| `title-25-part-0151` | Title 25 of the Code of Federal Regulations (Indians), Part 151 | 2 | 2017-03-22 to 2024-01-11 |
+| `title-25-part-0152` | Title 25 of the Code of Federal Regulations (Indians), Part 152 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0153` | Title 25 of the Code of Federal Regulations (Indians), Part 153 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0158` | Title 25 of the Code of Federal Regulations (Indians), Part 158 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0159` | Title 25 of the Code of Federal Regulations (Indians), Part 159 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0160` | Title 25 of the Code of Federal Regulations (Indians), Part 160 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0161` | Title 25 of the Code of Federal Regulations (Indians), Part 161 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0162` | Title 25 of the Code of Federal Regulations (Indians), Part 162 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0163` | Title 25 of the Code of Federal Regulations (Indians), Part 163 | 2 | 2017-03-22 to 2026-10-26 |
+| `title-25-part-0166` | Title 25 of the Code of Federal Regulations (Indians), Part 166 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0167` | Title 25 of the Code of Federal Regulations (Indians), Part 167 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0168` | Title 25 of the Code of Federal Regulations (Indians), Part 168 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0169` | Title 25 of the Code of Federal Regulations (Indians), Part 169 | 2 | 2017-03-22 to 2019-09-18 |
+| `title-25-part-0170` | Title 25 of the Code of Federal Regulations (Indians), Part 170 | 5 | 2017-03-22 to 2020-04-29 |
+| `title-25-part-0171` | Title 25 of the Code of Federal Regulations (Indians), Part 171 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0172` | Title 25 of the Code of Federal Regulations (Indians), Part 172 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0173` | Title 25 of the Code of Federal Regulations (Indians), Part 173 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0175` | Title 25 of the Code of Federal Regulations (Indians), Part 175 | 2 | 2017-03-22 to 2018-12-28 |
+| `title-25-part-0179` | Title 25 of the Code of Federal Regulations (Indians), Part 179 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0181` | Title 25 of the Code of Federal Regulations (Indians), Part 181 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0183` | Title 25 of the Code of Federal Regulations (Indians), Part 183 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0200` | Title 25 of the Code of Federal Regulations (Indians), Part 200 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0211` | Title 25 of the Code of Federal Regulations (Indians), Part 211 | 8 | 2017-03-22 to 2025-06-05 |
+| `title-25-part-0212` | Title 25 of the Code of Federal Regulations (Indians), Part 212 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0213` | Title 25 of the Code of Federal Regulations (Indians), Part 213 | 8 | 2017-03-22 to 2025-06-05 |
+| `title-25-part-0214` | Title 25 of the Code of Federal Regulations (Indians), Part 214 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0215` | Title 25 of the Code of Federal Regulations (Indians), Part 215 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0216` | Title 25 of the Code of Federal Regulations (Indians), Part 216 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0217` | Title 25 of the Code of Federal Regulations (Indians), Part 217 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0224` | Title 25 of the Code of Federal Regulations (Indians), Part 224 | 3 | 2017-03-22 to 2021-05-24 |
+| `title-25-part-0225` | Title 25 of the Code of Federal Regulations (Indians), Part 225 | 8 | 2017-03-22 to 2025-06-05 |
+| `title-25-part-0226` | Title 25 of the Code of Federal Regulations (Indians), Part 226 | 8 | 2017-03-22 to 2025-06-05 |
+| `title-25-part-0227` | Title 25 of the Code of Federal Regulations (Indians), Part 227 | 8 | 2017-03-22 to 2025-06-05 |
+| `title-25-part-0241` | Title 25 of the Code of Federal Regulations (Indians), Part 241 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0242` | Title 25 of the Code of Federal Regulations (Indians), Part 242 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0243` | Title 25 of the Code of Federal Regulations (Indians), Part 243 | 8 | 2017-03-22 to 2025-06-05 |
+| `title-25-part-0247` | Title 25 of the Code of Federal Regulations (Indians), Part 247 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0248` | Title 25 of the Code of Federal Regulations (Indians), Part 248 | 2 | 2017-03-22 to 2020-11-17 |
+| `title-25-part-0249` | Title 25 of the Code of Federal Regulations (Indians), Part 249 | 8 | 2017-03-22 to 2025-06-05 |
+| `title-25-part-0256` | Title 25 of the Code of Federal Regulations (Indians), Part 256 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0262` | Title 25 of the Code of Federal Regulations (Indians), Part 262 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0265` | Title 25 of the Code of Federal Regulations (Indians), Part 265 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0273` | Title 25 of the Code of Federal Regulations (Indians), Part 273 | 4 | 2017-03-22 to 2025-06-05 |
+| `title-25-part-0275` | Title 25 of the Code of Federal Regulations (Indians), Part 275 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0276` | Title 25 of the Code of Federal Regulations (Indians), Part 276 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0286` | Title 25 of the Code of Federal Regulations (Indians), Part 286 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0290` | Title 25 of the Code of Federal Regulations (Indians), Part 290 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0291` | Title 25 of the Code of Federal Regulations (Indians), Part 291 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0292` | Title 25 of the Code of Federal Regulations (Indians), Part 292 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0293` | Title 25 of the Code of Federal Regulations (Indians), Part 293 | 3 | 2017-03-22 to 2024-03-22 |
+| `title-25-part-0301` | Title 25 of the Code of Federal Regulations (Indians), Part 301 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0304` | Title 25 of the Code of Federal Regulations (Indians), Part 304 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0307` | Title 25 of the Code of Federal Regulations (Indians), Part 307 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0308` | Title 25 of the Code of Federal Regulations (Indians), Part 308 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0309` | Title 25 of the Code of Federal Regulations (Indians), Part 309 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0310` | Title 25 of the Code of Federal Regulations (Indians), Part 310 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0501` | Title 25 of the Code of Federal Regulations (Indians), Part 501 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0502` | Title 25 of the Code of Federal Regulations (Indians), Part 502 | 2 | 2017-03-22 to 2023-09-14 |
+| `title-25-part-0503` | Title 25 of the Code of Federal Regulations (Indians), Part 503 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0513` | Title 25 of the Code of Federal Regulations (Indians), Part 513 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0514` | Title 25 of the Code of Federal Regulations (Indians), Part 514 | 3 | 2017-03-22 to 2022-10-06 |
+| `title-25-part-0515` | Title 25 of the Code of Federal Regulations (Indians), Part 515 | 2 | 2017-03-22 to 2017-07-25 |
+| `title-25-part-0516` | Title 25 of the Code of Federal Regulations (Indians), Part 516 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0517` | Title 25 of the Code of Federal Regulations (Indians), Part 517 | 2 | 2017-03-22 to 2018-02-26 |
+| `title-25-part-0518` | Title 25 of the Code of Federal Regulations (Indians), Part 518 | 2 | 2017-03-22 to 2022-11-17 |
+| `title-25-part-0519` | Title 25 of the Code of Federal Regulations (Indians), Part 519 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0522` | Title 25 of the Code of Federal Regulations (Indians), Part 522 | 3 | 2017-03-22 to 2025-12-01 |
+| `title-25-part-0531` | Title 25 of the Code of Federal Regulations (Indians), Part 531 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0533` | Title 25 of the Code of Federal Regulations (Indians), Part 533 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0535` | Title 25 of the Code of Federal Regulations (Indians), Part 535 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0537` | Title 25 of the Code of Federal Regulations (Indians), Part 537 | 2 | 2017-03-22 to 2023-03-29 |
+| `title-25-part-0542` | Title 25 of the Code of Federal Regulations (Indians), Part 542 | 2 | 2017-03-22 to 2018-09-27 |
+| `title-25-part-0543` | Title 25 of the Code of Federal Regulations (Indians), Part 543 | 2 | 2017-03-22 to 2019-01-22 |
+| `title-25-part-0547` | Title 25 of the Code of Federal Regulations (Indians), Part 547 | 2 | 2017-03-22 to 2018-01-26 |
+| `title-25-part-0556` | Title 25 of the Code of Federal Regulations (Indians), Part 556 | 2 | 2017-03-22 to 2023-09-14 |
+| `title-25-part-0558` | Title 25 of the Code of Federal Regulations (Indians), Part 558 | 2 | 2017-03-22 to 2023-09-14 |
+| `title-25-part-0559` | Title 25 of the Code of Federal Regulations (Indians), Part 559 | 2 | 2017-03-22 to 2022-08-24 |
+| `title-25-part-0571` | Title 25 of the Code of Federal Regulations (Indians), Part 571 | 2 | 2017-03-22 to 2022-10-21 |
+| `title-25-part-0573` | Title 25 of the Code of Federal Regulations (Indians), Part 573 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0575` | Title 25 of the Code of Federal Regulations (Indians), Part 575 | 8 | 2017-03-22 to 2025-01-17 |
+| `title-25-part-0580` | Title 25 of the Code of Federal Regulations (Indians), Part 580 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0581` | Title 25 of the Code of Federal Regulations (Indians), Part 581 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0582` | Title 25 of the Code of Federal Regulations (Indians), Part 582 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0583` | Title 25 of the Code of Federal Regulations (Indians), Part 583 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0584` | Title 25 of the Code of Federal Regulations (Indians), Part 584 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0585` | Title 25 of the Code of Federal Regulations (Indians), Part 585 | 2 | 2017-03-22 to 2023-01-17 |
+| `title-25-part-0700` | Title 25 of the Code of Federal Regulations (Indians), Part 700 | 4 | 2017-03-22 to 2025-06-05 |
+| `title-25-part-0720` | Title 25 of the Code of Federal Regulations (Indians), Part 720 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-0900` | Title 25 of the Code of Federal Regulations (Indians), Part 900 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-1000` | Title 25 of the Code of Federal Regulations (Indians), Part 1000 | 2 | 2017-03-22 to 2025-01-10 |
+| `title-25-part-1001` | Title 25 of the Code of Federal Regulations (Indians), Part 1001 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-1187` | Title 25 of the Code of Federal Regulations (Indians), Part 1187 | 1 | 2021-09-08 to 2021-09-08 |
+| `title-25-part-1200` | Title 25 of the Code of Federal Regulations (Indians), Part 1200 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-25-part-other` | Title 25 of the Code of Federal Regulations (Indians), Part other | 2 | 2017-03-22 to 2019-04-15 |
 | `title-26-part-0001` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 1 | 228 | 2017-03-22 to 2026-10-26 |
 | `title-26-part-0002` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 2 | 1 | 2017-03-22 to 2017-03-22 |
 | `title-26-part-0003` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 3 | 1 | 2017-03-22 to 2017-03-22 |
@@ -4878,19 +5033,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 21335 commits:
+The build made 21566 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 4861 | first version of an act |
-| 11603 | one law on its in-force day |
-| 4871 | changes no amendment note explains, credited to the publisher |
+| 5016 | first version of an act |
+| 11657 | one law on its in-force day |
+| 4893 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 13804 laws in the record.
-- 27959 tags.
+- 13878 laws in the record.
+- 28290 tags.
 
 ## Dates
 
@@ -4902,7 +5057,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `2b5d04e9330de1b210ae22b125f1a4560c398d06aff4458b92c29abeed3530fc` (1029574007 bytes).
+- Corpus: sha256 `e237a3da8ea80e317c86aad8782329b27373e30683ebbb2c4154cda2db97f822` (1036084165 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -4948,6 +5103,7 @@ No second build of this corpus has been compared yet.
 - Title 22: editions read: 2017 annual edition (to 2017-05-12); 2018 annual edition (to 2018-03-27); 2019 annual edition (to 2019-03-19); 2020 annual edition (to 2020-03-25); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-03-24); 2023 annual edition (to 2023-03-28); 2024 annual edition (to 2024-03-25); 2025 annual edition (to 2025-01-17); eCFR (to 2026-10-26).
 - Title 23: editions read: 2017 annual edition (to 2017-03-21); 2018 annual edition (to 2018-02-26); 2019 annual edition (to 2019-04-26); 2020 annual edition (to 2019-10-28); 2021 annual edition (to 2021-01-27); 2022 annual edition (to 2022-03-03); 2023 annual edition (to 2023-03-30); 2024 annual edition (to 2024-01-18); 2025 annual edition (to 2025-03-21); eCFR (to 2026-10-26).
 - Title 24: editions read: 2017 annual edition (to 2017-03-21); 2018 annual edition (to 2018-04-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
+- Title 25: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-02-26); 2019 annual edition (to 2019-03-01); 2020 annual edition (to 2020-03-30); 2021 annual edition (to 2021-02-01); 2022 annual edition (to 2022-03-09); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 29: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-11); 2019 annual edition (to 2019-05-14); 2020 annual edition (to 2020-02-18); 2021 annual edition (to 2021-05-06); 2022 annual edition (to 2022-03-17); 2023 annual edition (to 2023-03-23); 2024 annual edition (to 2024-05-31); eCFR (to 2026-10-26).
 
