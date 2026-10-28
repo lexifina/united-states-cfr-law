@@ -124122,6 +124122,1482 @@
    ]
   },
   {
+   "slug": "title-23-part-0001",
+   "short": "23 CFR Part 1",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 1",
+   "url": "https://www.ecfr.gov/current/title-23/part-1",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2022-02-24",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-23/CFR-2022-title-23.zip",
+     "sha256": "4a212be3788530a6b751a377d5dd451f57f2f02ac51157e3d4e3bd14aef0220c"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0140",
+   "short": "23 CFR Part 140",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 140",
+   "url": "https://www.ecfr.gov/current/title-23/part-140",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0172",
+   "short": "23 CFR Part 172",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 172",
+   "url": "https://www.ecfr.gov/current/title-23/part-172",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0180",
+   "short": "23 CFR Part 180",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 180",
+   "url": "https://www.ecfr.gov/current/title-23/part-180",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0190",
+   "short": "23 CFR Part 190",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 190",
+   "url": "https://www.ecfr.gov/current/title-23/part-190",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0192",
+   "short": "23 CFR Part 192",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 192",
+   "url": "https://www.ecfr.gov/current/title-23/part-192",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2022-11-10",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-23/CFR-2023-title-23.zip",
+     "sha256": "12539774376548ee291950e32c0754f113f4747c80a04c5214dd343ba65f3551"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0200",
+   "short": "23 CFR Part 200",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 200",
+   "url": "https://www.ecfr.gov/current/title-23/part-200",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0230",
+   "short": "23 CFR Part 230",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 230",
+   "url": "https://www.ecfr.gov/current/title-23/part-230",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2025-06-30",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0260",
+   "short": "23 CFR Part 260",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 260",
+   "url": "https://www.ecfr.gov/current/title-23/part-260",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0420",
+   "short": "23 CFR Part 420",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 420",
+   "url": "https://www.ecfr.gov/current/title-23/part-420",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0450",
+   "short": "23 CFR Part 450",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 450",
+   "url": "https://www.ecfr.gov/current/title-23/part-450",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2017-12-29",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-23/CFR-2018-title-23.zip",
+     "sha256": "5489debf875dd4c13b0066c4dd91fbc4b1eabdac176349023173e3f7e31c0601"
+    },
+    {
+     "from": "2018-02-26",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-23/CFR-2018-title-23.zip",
+     "sha256": "5489debf875dd4c13b0066c4dd91fbc4b1eabdac176349023173e3f7e31c0601"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0460",
+   "short": "23 CFR Part 460",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 460",
+   "url": "https://www.ecfr.gov/current/title-23/part-460",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0470",
+   "short": "23 CFR Part 470",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 470",
+   "url": "https://www.ecfr.gov/current/title-23/part-470",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2024-01-18",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-23/CFR-2024-title-23.zip",
+     "sha256": "05e29902c153ef1b6db15c9bd3e9d44f1e4b6e6a2c71d93c6a8addc4d74231f9"
+    },
+    {
+     "from": "2025-03-21",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-23/CFR-2025-title-23.zip",
+     "sha256": "4c1c6685c7f37a3433ad30a7f17b05efecfa9ea903991869b3d39823bac47f40"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0490",
+   "short": "23 CFR Part 490",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 490",
+   "url": "https://www.ecfr.gov/current/title-23/part-490",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2017-05-20",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-23/CFR-2018-title-23.zip",
+     "sha256": "5489debf875dd4c13b0066c4dd91fbc4b1eabdac176349023173e3f7e31c0601"
+    },
+    {
+     "from": "2018-07-02",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-23/CFR-2019-title-23.zip",
+     "sha256": "6d3715d6afe4ff849893a277041a2f87732c64f11d32b6737f6a14d8f821d564"
+    },
+    {
+     "from": "2023-06-05",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-23/CFR-2024-title-23.zip",
+     "sha256": "05e29902c153ef1b6db15c9bd3e9d44f1e4b6e6a2c71d93c6a8addc4d74231f9"
+    },
+    {
+     "from": "2024-01-08",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-23/CFR-2024-title-23.zip",
+     "sha256": "05e29902c153ef1b6db15c9bd3e9d44f1e4b6e6a2c71d93c6a8addc4d74231f9"
+    },
+    {
+     "from": "2024-05-06",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-23/CFR-2025-title-23.zip",
+     "sha256": "4c1c6685c7f37a3433ad30a7f17b05efecfa9ea903991869b3d39823bac47f40"
+    },
+    {
+     "from": "2025-03-21",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-23/CFR-2025-title-23.zip",
+     "sha256": "4c1c6685c7f37a3433ad30a7f17b05efecfa9ea903991869b3d39823bac47f40"
+    },
+    {
+     "from": "2025-05-19",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    },
+    {
+     "from": "2025-05-30",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0500",
+   "short": "23 CFR Part 500",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 500",
+   "url": "https://www.ecfr.gov/current/title-23/part-500",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2025-05-30",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0505",
+   "short": "23 CFR Part 505",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 505",
+   "url": "https://www.ecfr.gov/current/title-23/part-505",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2025-05-30",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0511",
+   "short": "23 CFR Part 511",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 511",
+   "url": "https://www.ecfr.gov/current/title-23/part-511",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0515",
+   "short": "23 CFR Part 515",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 515",
+   "url": "https://www.ecfr.gov/current/title-23/part-515",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0620",
+   "short": "23 CFR Part 620",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 620",
+   "url": "https://www.ecfr.gov/current/title-23/part-620",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0624",
+   "short": "23 CFR Part 624",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 624",
+   "url": "https://www.ecfr.gov/current/title-23/part-624",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-23/CFR-2025-title-23.zip",
+     "sha256": "4c1c6685c7f37a3433ad30a7f17b05efecfa9ea903991869b3d39823bac47f40"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0625",
+   "short": "23 CFR Part 625",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 625",
+   "url": "https://www.ecfr.gov/current/title-23/part-625",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2018-12-03",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-23/CFR-2019-title-23.zip",
+     "sha256": "6d3715d6afe4ff849893a277041a2f87732c64f11d32b6737f6a14d8f821d564"
+    },
+    {
+     "from": "2022-02-02",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-23/CFR-2022-title-23.zip",
+     "sha256": "4a212be3788530a6b751a377d5dd451f57f2f02ac51157e3d4e3bd14aef0220c"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0626",
+   "short": "23 CFR Part 626",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 626",
+   "url": "https://www.ecfr.gov/current/title-23/part-626",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0627",
+   "short": "23 CFR Part 627",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 627",
+   "url": "https://www.ecfr.gov/current/title-23/part-627",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0630",
+   "short": "23 CFR Part 630",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 630",
+   "url": "https://www.ecfr.gov/current/title-23/part-630",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2020-12-31",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-23/CFR-2021-title-23.zip",
+     "sha256": "ee8f5871044a9c27647b33b0cbda2a4eb3eb4be2a9a2023daee51ff3e08ef888"
+    },
+    {
+     "from": "2024-12-02",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-23/CFR-2025-title-23.zip",
+     "sha256": "4c1c6685c7f37a3433ad30a7f17b05efecfa9ea903991869b3d39823bac47f40"
+    },
+    {
+     "from": "2025-05-30",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    },
+    {
+     "from": "2025-09-22",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    },
+    {
+     "from": "2026-01-02",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0633",
+   "short": "23 CFR Part 633",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 633",
+   "url": "https://www.ecfr.gov/current/title-23/part-633",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2026-01-02",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    },
+    {
+     "from": "2026-06-10",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0635",
+   "short": "23 CFR Part 635",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 635",
+   "url": "https://www.ecfr.gov/current/title-23/part-635",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 53,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2019-10-28",
+     "units": 53,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-23/CFR-2020-title-23.zip",
+     "sha256": "17e42f2e2ff160a1b3a71843e812edf8c50cb032725e0183875e9325b1553fdb"
+    },
+    {
+     "from": "2020-11-16",
+     "units": 59,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-23/CFR-2021-title-23.zip",
+     "sha256": "ee8f5871044a9c27647b33b0cbda2a4eb3eb4be2a9a2023daee51ff3e08ef888"
+    },
+    {
+     "from": "2021-01-27",
+     "units": 59,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-23/CFR-2021-title-23.zip",
+     "sha256": "ee8f5871044a9c27647b33b0cbda2a4eb3eb4be2a9a2023daee51ff3e08ef888"
+    },
+    {
+     "from": "2021-09-20",
+     "units": 59,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-23/CFR-2022-title-23.zip",
+     "sha256": "4a212be3788530a6b751a377d5dd451f57f2f02ac51157e3d4e3bd14aef0220c"
+    },
+    {
+     "from": "2022-12-09",
+     "units": 59,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-23/CFR-2023-title-23.zip",
+     "sha256": "12539774376548ee291950e32c0754f113f4747c80a04c5214dd343ba65f3551"
+    },
+    {
+     "from": "2024-01-18",
+     "units": 59,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-23/CFR-2024-title-23.zip",
+     "sha256": "05e29902c153ef1b6db15c9bd3e9d44f1e4b6e6a2c71d93c6a8addc4d74231f9"
+    },
+    {
+     "from": "2025-03-20",
+     "units": 59,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-23/CFR-2025-title-23.zip",
+     "sha256": "4c1c6685c7f37a3433ad30a7f17b05efecfa9ea903991869b3d39823bac47f40"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0636",
+   "short": "23 CFR Part 636",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 636",
+   "url": "https://www.ecfr.gov/current/title-23/part-636",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 59,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0637",
+   "short": "23 CFR Part 637",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 637",
+   "url": "https://www.ecfr.gov/current/title-23/part-637",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0645",
+   "short": "23 CFR Part 645",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 645",
+   "url": "https://www.ecfr.gov/current/title-23/part-645",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2022-03-03",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-23/CFR-2022-title-23.zip",
+     "sha256": "4a212be3788530a6b751a377d5dd451f57f2f02ac51157e3d4e3bd14aef0220c"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0646",
+   "short": "23 CFR Part 646",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 646",
+   "url": "https://www.ecfr.gov/current/title-23/part-646",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0650",
+   "short": "23 CFR Part 650",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 650",
+   "url": "https://www.ecfr.gov/current/title-23/part-650",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2022-06-06",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-23/CFR-2023-title-23.zip",
+     "sha256": "12539774376548ee291950e32c0754f113f4747c80a04c5214dd343ba65f3551"
+    },
+    {
+     "from": "2022-09-22",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-23/CFR-2023-title-23.zip",
+     "sha256": "12539774376548ee291950e32c0754f113f4747c80a04c5214dd343ba65f3551"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0652",
+   "short": "23 CFR Part 652",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 652",
+   "url": "https://www.ecfr.gov/current/title-23/part-652",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2019-10-08",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-23/CFR-2020-title-23.zip",
+     "sha256": "17e42f2e2ff160a1b3a71843e812edf8c50cb032725e0183875e9325b1553fdb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0655",
+   "short": "23 CFR Part 655",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 655",
+   "url": "https://www.ecfr.gov/current/title-23/part-655",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2022-09-06",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-23/CFR-2023-title-23.zip",
+     "sha256": "12539774376548ee291950e32c0754f113f4747c80a04c5214dd343ba65f3551"
+    },
+    {
+     "from": "2024-01-18",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-23/CFR-2024-title-23.zip",
+     "sha256": "05e29902c153ef1b6db15c9bd3e9d44f1e4b6e6a2c71d93c6a8addc4d74231f9"
+    },
+    {
+     "from": "2026-03-05",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0656",
+   "short": "23 CFR Part 656",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 656",
+   "url": "https://www.ecfr.gov/current/title-23/part-656",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0657",
+   "short": "23 CFR Part 657",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 657",
+   "url": "https://www.ecfr.gov/current/title-23/part-657",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0658",
+   "short": "23 CFR Part 658",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 658",
+   "url": "https://www.ecfr.gov/current/title-23/part-658",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2018-07-30",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-23/CFR-2019-title-23.zip",
+     "sha256": "6d3715d6afe4ff849893a277041a2f87732c64f11d32b6737f6a14d8f821d564"
+    },
+    {
+     "from": "2018-11-01",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-23/CFR-2019-title-23.zip",
+     "sha256": "6d3715d6afe4ff849893a277041a2f87732c64f11d32b6737f6a14d8f821d564"
+    },
+    {
+     "from": "2019-09-23",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-23/CFR-2020-title-23.zip",
+     "sha256": "17e42f2e2ff160a1b3a71843e812edf8c50cb032725e0183875e9325b1553fdb"
+    },
+    {
+     "from": "2021-01-27",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-23/CFR-2021-title-23.zip",
+     "sha256": "ee8f5871044a9c27647b33b0cbda2a4eb3eb4be2a9a2023daee51ff3e08ef888"
+    },
+    {
+     "from": "2026-09-11",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0660",
+   "short": "23 CFR Part 660",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 660",
+   "url": "https://www.ecfr.gov/current/title-23/part-660",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2025-12-17",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0661",
+   "short": "23 CFR Part 661",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 661",
+   "url": "https://www.ecfr.gov/current/title-23/part-661",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2024-08-12",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-23/CFR-2025-title-23.zip",
+     "sha256": "4c1c6685c7f37a3433ad30a7f17b05efecfa9ea903991869b3d39823bac47f40"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0667",
+   "short": "23 CFR Part 667",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 667",
+   "url": "https://www.ecfr.gov/current/title-23/part-667",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0668",
+   "short": "23 CFR Part 668",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 668",
+   "url": "https://www.ecfr.gov/current/title-23/part-668",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0669",
+   "short": "23 CFR Part 669",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 669",
+   "url": "https://www.ecfr.gov/current/title-23/part-669",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0680",
+   "short": "23 CFR Part 680",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 680",
+   "url": "https://www.ecfr.gov/current/title-23/part-680",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-23/CFR-2023-title-23.zip",
+     "sha256": "12539774376548ee291950e32c0754f113f4747c80a04c5214dd343ba65f3551"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0710",
+   "short": "23 CFR Part 710",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 710",
+   "url": "https://www.ecfr.gov/current/title-23/part-710",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2018-06-11",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-23/CFR-2019-title-23.zip",
+     "sha256": "6d3715d6afe4ff849893a277041a2f87732c64f11d32b6737f6a14d8f821d564"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0750",
+   "short": "23 CFR Part 750",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 750",
+   "url": "https://www.ecfr.gov/current/title-23/part-750",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0751",
+   "short": "23 CFR Part 751",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 751",
+   "url": "https://www.ecfr.gov/current/title-23/part-751",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0752",
+   "short": "23 CFR Part 752",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 752",
+   "url": "https://www.ecfr.gov/current/title-23/part-752",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0771",
+   "short": "23 CFR Part 771",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 771",
+   "url": "https://www.ecfr.gov/current/title-23/part-771",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2018-11-28",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-23/CFR-2019-title-23.zip",
+     "sha256": "6d3715d6afe4ff849893a277041a2f87732c64f11d32b6737f6a14d8f821d564"
+    },
+    {
+     "from": "2019-04-26",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-23/CFR-2019-title-23.zip",
+     "sha256": "6d3715d6afe4ff849893a277041a2f87732c64f11d32b6737f6a14d8f821d564"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0772",
+   "short": "23 CFR Part 772",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 772",
+   "url": "https://www.ecfr.gov/current/title-23/part-772",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0773",
+   "short": "23 CFR Part 773",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 773",
+   "url": "https://www.ecfr.gov/current/title-23/part-773",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2021-01-27",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-23/CFR-2021-title-23.zip",
+     "sha256": "ee8f5871044a9c27647b33b0cbda2a4eb3eb4be2a9a2023daee51ff3e08ef888"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0774",
+   "short": "23 CFR Part 774",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 774",
+   "url": "https://www.ecfr.gov/current/title-23/part-774",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2018-11-28",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-23/CFR-2019-title-23.zip",
+     "sha256": "6d3715d6afe4ff849893a277041a2f87732c64f11d32b6737f6a14d8f821d564"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0777",
+   "short": "23 CFR Part 777",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 777",
+   "url": "https://www.ecfr.gov/current/title-23/part-777",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0778",
+   "short": "23 CFR Part 778",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 778",
+   "url": "https://www.ecfr.gov/current/title-23/part-778",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-23/CFR-2021-title-23.zip",
+     "sha256": "ee8f5871044a9c27647b33b0cbda2a4eb3eb4be2a9a2023daee51ff3e08ef888"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0810",
+   "short": "23 CFR Part 810",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 810",
+   "url": "https://www.ecfr.gov/current/title-23/part-810",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0924",
+   "short": "23 CFR Part 924",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 924",
+   "url": "https://www.ecfr.gov/current/title-23/part-924",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0940",
+   "short": "23 CFR Part 940",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 940",
+   "url": "https://www.ecfr.gov/current/title-23/part-940",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0950",
+   "short": "23 CFR Part 950",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 950",
+   "url": "https://www.ecfr.gov/current/title-23/part-950",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0970",
+   "short": "23 CFR Part 970",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 970",
+   "url": "https://www.ecfr.gov/current/title-23/part-970",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2025-12-17",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0971",
+   "short": "23 CFR Part 971",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 971",
+   "url": "https://www.ecfr.gov/current/title-23/part-971",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2025-12-17",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0972",
+   "short": "23 CFR Part 972",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 972",
+   "url": "https://www.ecfr.gov/current/title-23/part-972",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2025-10-20",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-0973",
+   "short": "23 CFR Part 973",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 973",
+   "url": "https://www.ecfr.gov/current/title-23/part-973",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2025-12-17",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-1200",
+   "short": "23 CFR Part 1200",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 1200",
+   "url": "https://www.ecfr.gov/current/title-23/part-1200",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-1208",
+   "short": "23 CFR Part 1208",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 1208",
+   "url": "https://www.ecfr.gov/current/title-23/part-1208",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-1210",
+   "short": "23 CFR Part 1210",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 1210",
+   "url": "https://www.ecfr.gov/current/title-23/part-1210",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-1215",
+   "short": "23 CFR Part 1215",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 1215",
+   "url": "https://www.ecfr.gov/current/title-23/part-1215",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-1225",
+   "short": "23 CFR Part 1225",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 1225",
+   "url": "https://www.ecfr.gov/current/title-23/part-1225",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-1235",
+   "short": "23 CFR Part 1235",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 1235",
+   "url": "https://www.ecfr.gov/current/title-23/part-1235",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-1240",
+   "short": "23 CFR Part 1240",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 1240",
+   "url": "https://www.ecfr.gov/current/title-23/part-1240",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-1270",
+   "short": "23 CFR Part 1270",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 1270",
+   "url": "https://www.ecfr.gov/current/title-23/part-1270",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2019-03-11",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-23/CFR-2019-title-23.zip",
+     "sha256": "6d3715d6afe4ff849893a277041a2f87732c64f11d32b6737f6a14d8f821d564"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-1275",
+   "short": "23 CFR Part 1275",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 1275",
+   "url": "https://www.ecfr.gov/current/title-23/part-1275",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2019-03-11",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-23/CFR-2019-title-23.zip",
+     "sha256": "6d3715d6afe4ff849893a277041a2f87732c64f11d32b6737f6a14d8f821d564"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-1300",
+   "short": "23 CFR Part 1300",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 1300",
+   "url": "https://www.ecfr.gov/current/title-23/part-1300",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    },
+    {
+     "from": "2018-02-26",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-23/CFR-2018-title-23.zip",
+     "sha256": "5489debf875dd4c13b0066c4dd91fbc4b1eabdac176349023173e3f7e31c0601"
+    },
+    {
+     "from": "2019-04-26",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-23/CFR-2019-title-23.zip",
+     "sha256": "6d3715d6afe4ff849893a277041a2f87732c64f11d32b6737f6a14d8f821d564"
+    },
+    {
+     "from": "2023-03-08",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-23/CFR-2023-title-23.zip",
+     "sha256": "12539774376548ee291950e32c0754f113f4747c80a04c5214dd343ba65f3551"
+    },
+    {
+     "from": "2023-06-05",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-23/CFR-2024-title-23.zip",
+     "sha256": "05e29902c153ef1b6db15c9bd3e9d44f1e4b6e6a2c71d93c6a8addc4d74231f9"
+    },
+    {
+     "from": "2024-05-06",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-23/CFR-2025-title-23.zip",
+     "sha256": "4c1c6685c7f37a3433ad30a7f17b05efecfa9ea903991869b3d39823bac47f40"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-23/CFR-2025-title-23.zip",
+     "sha256": "4c1c6685c7f37a3433ad30a7f17b05efecfa9ea903991869b3d39823bac47f40"
+    },
+    {
+     "from": "2025-07-15",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    },
+    {
+     "from": "2026-07-13",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    },
+    {
+     "from": "2026-09-23",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-23/ECFR-title23.xml",
+     "sha256": "fde388c9baa38b43c5bc60c8293f93641521635f4af4092b80ccd5f2c70964bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-1327",
+   "short": "23 CFR Part 1327",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 1327",
+   "url": "https://www.ecfr.gov/current/title-23/part-1327",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-part-1340",
+   "short": "23 CFR Part 1340",
+   "title": "Title 23 of the Code of Federal Regulations (Highways), Part 1340",
+   "url": "https://www.ecfr.gov/current/title-23/part-1340",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-23/CFR-2017-title-23.zip",
+     "sha256": "2654287265b6fe083a5a3c41c050addd6394aa7fa971f49d6ba82ecfc6622fc7"
+    }
+   ]
+  },
+  {
    "slug": "title-26-part-0001",
    "short": "26 CFR Part 1",
    "title": "Title 26 of the Code of Federal Regulations (Internal Revenue), Part 1",

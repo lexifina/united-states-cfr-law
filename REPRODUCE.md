@@ -4272,6 +4272,78 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-22-part-1600` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1600 | 1 | 2017-05-12 to 2017-05-12 |
 | `title-22-part-1701` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1701 | 1 | 2017-05-12 to 2017-05-12 |
 | `title-22-part-other` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part other | 1 | 2017-05-12 to 2017-05-12 |
+| `title-23-part-0001` | Title 23 of the Code of Federal Regulations (Highways), Part 1 | 2 | 2017-03-21 to 2022-02-24 |
+| `title-23-part-0140` | Title 23 of the Code of Federal Regulations (Highways), Part 140 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0172` | Title 23 of the Code of Federal Regulations (Highways), Part 172 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0180` | Title 23 of the Code of Federal Regulations (Highways), Part 180 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0190` | Title 23 of the Code of Federal Regulations (Highways), Part 190 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0192` | Title 23 of the Code of Federal Regulations (Highways), Part 192 | 2 | 2017-03-21 to 2022-11-10 |
+| `title-23-part-0200` | Title 23 of the Code of Federal Regulations (Highways), Part 200 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0230` | Title 23 of the Code of Federal Regulations (Highways), Part 230 | 3 | 2017-03-21 to 2026-10-26 |
+| `title-23-part-0260` | Title 23 of the Code of Federal Regulations (Highways), Part 260 | 2 | 2017-03-21 to 2026-10-26 |
+| `title-23-part-0420` | Title 23 of the Code of Federal Regulations (Highways), Part 420 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0450` | Title 23 of the Code of Federal Regulations (Highways), Part 450 | 3 | 2017-03-21 to 2018-02-26 |
+| `title-23-part-0460` | Title 23 of the Code of Federal Regulations (Highways), Part 460 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0470` | Title 23 of the Code of Federal Regulations (Highways), Part 470 | 3 | 2017-03-21 to 2025-03-21 |
+| `title-23-part-0490` | Title 23 of the Code of Federal Regulations (Highways), Part 490 | 10 | 2017-03-21 to 2026-10-26 |
+| `title-23-part-0500` | Title 23 of the Code of Federal Regulations (Highways), Part 500 | 2 | 2017-03-21 to 2025-05-30 |
+| `title-23-part-0505` | Title 23 of the Code of Federal Regulations (Highways), Part 505 | 2 | 2017-03-21 to 2025-05-30 |
+| `title-23-part-0511` | Title 23 of the Code of Federal Regulations (Highways), Part 511 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0515` | Title 23 of the Code of Federal Regulations (Highways), Part 515 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0620` | Title 23 of the Code of Federal Regulations (Highways), Part 620 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0624` | Title 23 of the Code of Federal Regulations (Highways), Part 624 | 1 | 2024-12-09 to 2024-12-09 |
+| `title-23-part-0625` | Title 23 of the Code of Federal Regulations (Highways), Part 625 | 3 | 2017-03-21 to 2022-02-02 |
+| `title-23-part-0626` | Title 23 of the Code of Federal Regulations (Highways), Part 626 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0627` | Title 23 of the Code of Federal Regulations (Highways), Part 627 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0630` | Title 23 of the Code of Federal Regulations (Highways), Part 630 | 6 | 2017-03-21 to 2026-01-02 |
+| `title-23-part-0633` | Title 23 of the Code of Federal Regulations (Highways), Part 633 | 3 | 2017-03-21 to 2026-06-10 |
+| `title-23-part-0635` | Title 23 of the Code of Federal Regulations (Highways), Part 635 | 8 | 2017-03-21 to 2025-03-20 |
+| `title-23-part-0636` | Title 23 of the Code of Federal Regulations (Highways), Part 636 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0637` | Title 23 of the Code of Federal Regulations (Highways), Part 637 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0645` | Title 23 of the Code of Federal Regulations (Highways), Part 645 | 3 | 2017-03-21 to 2026-10-26 |
+| `title-23-part-0646` | Title 23 of the Code of Federal Regulations (Highways), Part 646 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0650` | Title 23 of the Code of Federal Regulations (Highways), Part 650 | 3 | 2017-03-21 to 2022-09-22 |
+| `title-23-part-0652` | Title 23 of the Code of Federal Regulations (Highways), Part 652 | 2 | 2017-03-21 to 2019-10-08 |
+| `title-23-part-0655` | Title 23 of the Code of Federal Regulations (Highways), Part 655 | 5 | 2017-03-21 to 2026-10-26 |
+| `title-23-part-0656` | Title 23 of the Code of Federal Regulations (Highways), Part 656 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0657` | Title 23 of the Code of Federal Regulations (Highways), Part 657 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0658` | Title 23 of the Code of Federal Regulations (Highways), Part 658 | 7 | 2017-03-21 to 2026-10-26 |
+| `title-23-part-0660` | Title 23 of the Code of Federal Regulations (Highways), Part 660 | 2 | 2017-03-21 to 2025-12-17 |
+| `title-23-part-0661` | Title 23 of the Code of Federal Regulations (Highways), Part 661 | 2 | 2017-03-21 to 2024-08-12 |
+| `title-23-part-0667` | Title 23 of the Code of Federal Regulations (Highways), Part 667 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0668` | Title 23 of the Code of Federal Regulations (Highways), Part 668 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0669` | Title 23 of the Code of Federal Regulations (Highways), Part 669 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0680` | Title 23 of the Code of Federal Regulations (Highways), Part 680 | 1 | 2023-03-30 to 2023-03-30 |
+| `title-23-part-0710` | Title 23 of the Code of Federal Regulations (Highways), Part 710 | 2 | 2017-03-21 to 2018-06-11 |
+| `title-23-part-0750` | Title 23 of the Code of Federal Regulations (Highways), Part 750 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0751` | Title 23 of the Code of Federal Regulations (Highways), Part 751 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0752` | Title 23 of the Code of Federal Regulations (Highways), Part 752 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0771` | Title 23 of the Code of Federal Regulations (Highways), Part 771 | 5 | 2017-03-21 to 2026-09-01 |
+| `title-23-part-0772` | Title 23 of the Code of Federal Regulations (Highways), Part 772 | 2 | 2017-03-21 to 2026-10-26 |
+| `title-23-part-0773` | Title 23 of the Code of Federal Regulations (Highways), Part 773 | 2 | 2017-03-21 to 2021-01-27 |
+| `title-23-part-0774` | Title 23 of the Code of Federal Regulations (Highways), Part 774 | 2 | 2017-03-21 to 2018-11-28 |
+| `title-23-part-0777` | Title 23 of the Code of Federal Regulations (Highways), Part 777 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0778` | Title 23 of the Code of Federal Regulations (Highways), Part 778 | 1 | 2021-01-27 to 2021-01-27 |
+| `title-23-part-0810` | Title 23 of the Code of Federal Regulations (Highways), Part 810 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0924` | Title 23 of the Code of Federal Regulations (Highways), Part 924 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0940` | Title 23 of the Code of Federal Regulations (Highways), Part 940 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0950` | Title 23 of the Code of Federal Regulations (Highways), Part 950 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-0970` | Title 23 of the Code of Federal Regulations (Highways), Part 970 | 2 | 2017-03-21 to 2025-12-17 |
+| `title-23-part-0971` | Title 23 of the Code of Federal Regulations (Highways), Part 971 | 2 | 2017-03-21 to 2025-12-17 |
+| `title-23-part-0972` | Title 23 of the Code of Federal Regulations (Highways), Part 972 | 2 | 2017-03-21 to 2025-10-20 |
+| `title-23-part-0973` | Title 23 of the Code of Federal Regulations (Highways), Part 973 | 2 | 2017-03-21 to 2025-12-17 |
+| `title-23-part-1200` | Title 23 of the Code of Federal Regulations (Highways), Part 1200 | 2 | 2017-03-21 to 2026-10-26 |
+| `title-23-part-1208` | Title 23 of the Code of Federal Regulations (Highways), Part 1208 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-1210` | Title 23 of the Code of Federal Regulations (Highways), Part 1210 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-1215` | Title 23 of the Code of Federal Regulations (Highways), Part 1215 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-1225` | Title 23 of the Code of Federal Regulations (Highways), Part 1225 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-1235` | Title 23 of the Code of Federal Regulations (Highways), Part 1235 | 2 | 2017-03-21 to 2026-10-26 |
+| `title-23-part-1240` | Title 23 of the Code of Federal Regulations (Highways), Part 1240 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-1270` | Title 23 of the Code of Federal Regulations (Highways), Part 1270 | 2 | 2017-03-21 to 2019-03-11 |
+| `title-23-part-1275` | Title 23 of the Code of Federal Regulations (Highways), Part 1275 | 2 | 2017-03-21 to 2019-03-11 |
+| `title-23-part-1300` | Title 23 of the Code of Federal Regulations (Highways), Part 1300 | 10 | 2017-03-21 to 2026-09-23 |
+| `title-23-part-1327` | Title 23 of the Code of Federal Regulations (Highways), Part 1327 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-23-part-1340` | Title 23 of the Code of Federal Regulations (Highways), Part 1340 | 1 | 2017-03-21 to 2017-03-21 |
 | `title-26-part-0001` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 1 | 228 | 2017-03-22 to 2026-10-26 |
 | `title-26-part-0002` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 2 | 1 | 2017-03-22 to 2017-03-22 |
 | `title-26-part-0003` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 3 | 1 | 2017-03-22 to 2017-03-22 |
@@ -4648,19 +4720,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 20679 commits:
+The build made 20838 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 4631 | first version of an act |
-| 11304 | one law on its in-force day |
-| 4744 | changes no amendment note explains, credited to the publisher |
+| 4703 | first version of an act |
+| 11348 | one law on its in-force day |
+| 4787 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 13462 laws in the record.
-- 27077 tags.
+- 13518 laws in the record.
+- 27269 tags.
 
 ## Dates
 
@@ -4672,7 +4744,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `410e3d1edc612551b7dea999f6db70b8a81c1458fb19dc2b0a28a7f3f3a0335d` (1006377280 bytes).
+- Corpus: sha256 `f970da48392582f3d4054980a30bce2db53e956b379bcc8664763cec2ba88186` (1011403864 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -4716,6 +4788,7 @@ No second build of this corpus has been compared yet.
 - Title 20: editions read: 2017 annual edition (to 2017-03-27); 2018 annual edition (to 2018-03-27); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-03-06); 2021 annual edition (to 2021-03-12); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-03-27); 2025 annual edition (to 2025-03-17); eCFR (to 2026-10-26).
 - Title 21: editions read: 2017 annual edition (to 2017-05-10); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-20); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 22: editions read: 2017 annual edition (to 2017-05-12); 2018 annual edition (to 2018-03-27); 2019 annual edition (to 2019-03-19); 2020 annual edition (to 2020-03-25); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-03-24); 2023 annual edition (to 2023-03-28); 2024 annual edition (to 2024-03-25); 2025 annual edition (to 2025-01-17); eCFR (to 2026-10-26).
+- Title 23: editions read: 2017 annual edition (to 2017-03-21); 2018 annual edition (to 2018-02-26); 2019 annual edition (to 2019-04-26); 2020 annual edition (to 2019-10-28); 2021 annual edition (to 2021-01-27); 2022 annual edition (to 2022-03-03); 2023 annual edition (to 2023-03-30); 2024 annual edition (to 2024-01-18); 2025 annual edition (to 2025-03-21); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 29: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-11); 2019 annual edition (to 2019-05-14); 2020 annual edition (to 2020-02-18); 2021 annual edition (to 2021-05-06); 2022 annual edition (to 2022-03-17); 2023 annual edition (to 2023-03-23); 2024 annual edition (to 2024-05-31); eCFR (to 2026-10-26).
 
