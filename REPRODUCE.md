@@ -1951,6 +1951,191 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-09-part-0590` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 590 | 8 | 2016-12-20 to 2026-10-26 |
 | `title-09-part-0591` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 591 | 1 | 2020-12-28 to 2020-12-28 |
 | `title-09-part-0592` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 592 | 5 | 2016-12-20 to 2026-10-26 |
+| `title-10-part-0001` | Title 10 of the Code of Federal Regulations (Energy), Part 1 | 8 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0002` | Title 10 of the Code of Federal Regulations (Energy), Part 2 | 26 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0004` | Title 10 of the Code of Federal Regulations (Energy), Part 4 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0005` | Title 10 of the Code of Federal Regulations (Energy), Part 5 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0007` | Title 10 of the Code of Federal Regulations (Energy), Part 7 | 2 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0009` | Title 10 of the Code of Federal Regulations (Energy), Part 9 | 7 | 2016-12-31 to 2026-03-06 |
+| `title-10-part-0010` | Title 10 of the Code of Federal Regulations (Energy), Part 10 | 6 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0011` | Title 10 of the Code of Federal Regulations (Energy), Part 11 | 4 | 2016-12-31 to 2026-04-29 |
+| `title-10-part-0012` | Title 10 of the Code of Federal Regulations (Energy), Part 12 | 2 | 2016-12-31 to 2025-07-17 |
+| `title-10-part-0013` | Title 10 of the Code of Federal Regulations (Energy), Part 13 | 10 | 2016-12-31 to 2025-07-17 |
+| `title-10-part-0014` | Title 10 of the Code of Federal Regulations (Energy), Part 14 | 3 | 2016-12-31 to 2026-08-17 |
+| `title-10-part-0015` | Title 10 of the Code of Federal Regulations (Energy), Part 15 | 4 | 2016-12-31 to 2026-08-17 |
+| `title-10-part-0016` | Title 10 of the Code of Federal Regulations (Energy), Part 16 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0019` | Title 10 of the Code of Federal Regulations (Energy), Part 19 | 4 | 2016-12-31 to 2026-04-29 |
+| `title-10-part-0020` | Title 10 of the Code of Federal Regulations (Energy), Part 20 | 8 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0021` | Title 10 of the Code of Federal Regulations (Energy), Part 21 | 6 | 2016-12-31 to 2026-04-29 |
+| `title-10-part-0025` | Title 10 of the Code of Federal Regulations (Energy), Part 25 | 5 | 2016-12-31 to 2026-04-29 |
+| `title-10-part-0026` | Title 10 of the Code of Federal Regulations (Energy), Part 26 | 7 | 2016-12-31 to 2026-04-29 |
+| `title-10-part-0030` | Title 10 of the Code of Federal Regulations (Energy), Part 30 | 8 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0031` | Title 10 of the Code of Federal Regulations (Energy), Part 31 | 2 | 2016-12-31 to 2026-01-08 |
+| `title-10-part-0032` | Title 10 of the Code of Federal Regulations (Energy), Part 32 | 5 | 2016-12-31 to 2026-01-08 |
+| `title-10-part-0033` | Title 10 of the Code of Federal Regulations (Energy), Part 33 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0034` | Title 10 of the Code of Federal Regulations (Energy), Part 34 | 5 | 2016-12-31 to 2026-01-08 |
+| `title-10-part-0035` | Title 10 of the Code of Federal Regulations (Energy), Part 35 | 8 | 2016-12-31 to 2026-01-08 |
+| `title-10-part-0036` | Title 10 of the Code of Federal Regulations (Energy), Part 36 | 3 | 2016-12-31 to 2026-01-08 |
+| `title-10-part-0037` | Title 10 of the Code of Federal Regulations (Energy), Part 37 | 10 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0039` | Title 10 of the Code of Federal Regulations (Energy), Part 39 | 3 | 2016-12-31 to 2026-01-08 |
+| `title-10-part-0040` | Title 10 of the Code of Federal Regulations (Energy), Part 40 | 11 | 2016-12-31 to 2026-04-29 |
+| `title-10-part-0050` | Title 10 of the Code of Federal Regulations (Energy), Part 50 | 30 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0051` | Title 10 of the Code of Federal Regulations (Energy), Part 51 | 16 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0052` | Title 10 of the Code of Federal Regulations (Energy), Part 52 | 19 | 2016-12-31 to 2026-10-14 |
+| `title-10-part-0053` | Title 10 of the Code of Federal Regulations (Energy), Part 53 | 3 | 2026-04-29 to 2026-10-26 |
+| `title-10-part-0054` | Title 10 of the Code of Federal Regulations (Energy), Part 54 | 4 | 2016-12-31 to 2026-07-07 |
+| `title-10-part-0055` | Title 10 of the Code of Federal Regulations (Energy), Part 55 | 7 | 2016-12-31 to 2026-04-29 |
+| `title-10-part-0060` | Title 10 of the Code of Federal Regulations (Energy), Part 60 | 3 | 2016-12-31 to 2026-01-08 |
+| `title-10-part-0061` | Title 10 of the Code of Federal Regulations (Energy), Part 61 | 4 | 2016-12-31 to 2026-01-08 |
+| `title-10-part-0062` | Title 10 of the Code of Federal Regulations (Energy), Part 62 | 3 | 2016-12-31 to 2026-01-08 |
+| `title-10-part-0063` | Title 10 of the Code of Federal Regulations (Energy), Part 63 | 3 | 2016-12-31 to 2026-01-08 |
+| `title-10-part-0070` | Title 10 of the Code of Federal Regulations (Energy), Part 70 | 11 | 2016-12-31 to 2026-06-16 |
+| `title-10-part-0071` | Title 10 of the Code of Federal Regulations (Energy), Part 71 | 7 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0072` | Title 10 of the Code of Federal Regulations (Energy), Part 72 | 20 | 2016-12-31 to 2026-10-06 |
+| `title-10-part-0073` | Title 10 of the Code of Federal Regulations (Energy), Part 73 | 21 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0074` | Title 10 of the Code of Federal Regulations (Energy), Part 74 | 6 | 2016-12-31 to 2026-04-29 |
+| `title-10-part-0075` | Title 10 of the Code of Federal Regulations (Energy), Part 75 | 6 | 2016-12-31 to 2026-07-28 |
+| `title-10-part-0076` | Title 10 of the Code of Federal Regulations (Energy), Part 76 | 6 | 2016-12-31 to 2026-01-08 |
+| `title-10-part-0081` | Title 10 of the Code of Federal Regulations (Energy), Part 81 | 2 | 2016-12-31 to 2026-01-08 |
+| `title-10-part-0095` | Title 10 of the Code of Federal Regulations (Energy), Part 95 | 6 | 2016-12-31 to 2026-04-29 |
+| `title-10-part-0100` | Title 10 of the Code of Federal Regulations (Energy), Part 100 | 3 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0110` | Title 10 of the Code of Federal Regulations (Energy), Part 110 | 17 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0140` | Title 10 of the Code of Federal Regulations (Energy), Part 140 | 10 | 2016-12-31 to 2026-04-29 |
+| `title-10-part-0150` | Title 10 of the Code of Federal Regulations (Energy), Part 150 | 5 | 2016-12-31 to 2026-04-29 |
+| `title-10-part-0160` | Title 10 of the Code of Federal Regulations (Energy), Part 160 | 2 | 2016-12-31 to 2026-01-08 |
+| `title-10-part-0170` | Title 10 of the Code of Federal Regulations (Energy), Part 170 | 15 | 2016-12-31 to 2026-08-17 |
+| `title-10-part-0171` | Title 10 of the Code of Federal Regulations (Energy), Part 171 | 16 | 2016-12-31 to 2026-10-19 |
+| `title-10-part-0202` | Title 10 of the Code of Federal Regulations (Energy), Part 202 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0205` | Title 10 of the Code of Federal Regulations (Energy), Part 205 | 8 | 2016-12-31 to 2026-07-22 |
+| `title-10-part-0207` | Title 10 of the Code of Federal Regulations (Energy), Part 207 | 8 | 2016-12-31 to 2025-08-13 |
+| `title-10-part-0209` | Title 10 of the Code of Federal Regulations (Energy), Part 209 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0210` | Title 10 of the Code of Federal Regulations (Energy), Part 210 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0212` | Title 10 of the Code of Federal Regulations (Energy), Part 212 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0215` | Title 10 of the Code of Federal Regulations (Energy), Part 215 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0216` | Title 10 of the Code of Federal Regulations (Energy), Part 216 | 2 | 2016-12-31 to 2020-05-27 |
+| `title-10-part-0217` | Title 10 of the Code of Federal Regulations (Energy), Part 217 | 3 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0218` | Title 10 of the Code of Federal Regulations (Energy), Part 218 | 8 | 2016-12-31 to 2024-12-27 |
+| `title-10-part-0221` | Title 10 of the Code of Federal Regulations (Energy), Part 221 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0300` | Title 10 of the Code of Federal Regulations (Energy), Part 300 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0420` | Title 10 of the Code of Federal Regulations (Energy), Part 420 | 2 | 2016-12-31 to 2024-04-29 |
+| `title-10-part-0429` | Title 10 of the Code of Federal Regulations (Energy), Part 429 | 54 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0430` | Title 10 of the Code of Federal Regulations (Energy), Part 430 | 71 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0431` | Title 10 of the Code of Federal Regulations (Energy), Part 431 | 63 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0433` | Title 10 of the Code of Federal Regulations (Energy), Part 433 | 4 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0434` | Title 10 of the Code of Federal Regulations (Energy), Part 434 | 3 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0435` | Title 10 of the Code of Federal Regulations (Energy), Part 435 | 6 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0436` | Title 10 of the Code of Federal Regulations (Energy), Part 436 | 3 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0440` | Title 10 of the Code of Federal Regulations (Energy), Part 440 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0451` | Title 10 of the Code of Federal Regulations (Energy), Part 451 | 2 | 2016-12-31 to 2026-10-01 |
+| `title-10-part-0452` | Title 10 of the Code of Federal Regulations (Energy), Part 452 | 2 | 2016-12-31 to 2026-10-01 |
+| `title-10-part-0455` | Title 10 of the Code of Federal Regulations (Energy), Part 455 | 3 | 2016-12-31 to 2026-05-14 |
+| `title-10-part-0460` | Title 10 of the Code of Federal Regulations (Energy), Part 460 | 4 | 2022-08-01 to 2026-10-26 |
+| `title-10-part-0470` | Title 10 of the Code of Federal Regulations (Energy), Part 470 | 2 | 2016-12-31 to 2022-01-01 |
+| `title-10-part-0473` | Title 10 of the Code of Federal Regulations (Energy), Part 473 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0474` | Title 10 of the Code of Federal Regulations (Energy), Part 474 | 4 | 2016-12-31 to 2026-02-19 |
+| `title-10-part-0490` | Title 10 of the Code of Federal Regulations (Energy), Part 490 | 8 | 2016-12-31 to 2024-12-27 |
+| `title-10-part-0500` | Title 10 of the Code of Federal Regulations (Energy), Part 500 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0501` | Title 10 of the Code of Federal Regulations (Energy), Part 501 | 7 | 2016-12-31 to 2024-12-27 |
+| `title-10-part-0503` | Title 10 of the Code of Federal Regulations (Energy), Part 503 | 2 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0504` | Title 10 of the Code of Federal Regulations (Energy), Part 504 | 2 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0580` | Title 10 of the Code of Federal Regulations (Energy), Part 580 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0590` | Title 10 of the Code of Federal Regulations (Energy), Part 590 | 3 | 2016-12-31 to 2025-08-13 |
+| `title-10-part-0600` | Title 10 of the Code of Federal Regulations (Energy), Part 600 | 2 | 2016-12-31 to 2025-07-02 |
+| `title-10-part-0601` | Title 10 of the Code of Federal Regulations (Energy), Part 601 | 8 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0602` | Title 10 of the Code of Federal Regulations (Energy), Part 602 | 2 | 2016-12-31 to 2023-06-26 |
+| `title-10-part-0603` | Title 10 of the Code of Federal Regulations (Energy), Part 603 | 2 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0605` | Title 10 of the Code of Federal Regulations (Energy), Part 605 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0609` | Title 10 of the Code of Federal Regulations (Energy), Part 609 | 5 | 2016-12-31 to 2025-10-28 |
+| `title-10-part-0611` | Title 10 of the Code of Federal Regulations (Energy), Part 611 | 3 | 2016-12-31 to 2024-07-15 |
+| `title-10-part-0612` | Title 10 of the Code of Federal Regulations (Energy), Part 612 | 1 | 2024-01-08 to 2024-01-08 |
+| `title-10-part-0622` | Title 10 of the Code of Federal Regulations (Energy), Part 622 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0624` | Title 10 of the Code of Federal Regulations (Energy), Part 624 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0625` | Title 10 of the Code of Federal Regulations (Energy), Part 625 | 2 | 2016-12-31 to 2019-04-11 |
+| `title-10-part-0626` | Title 10 of the Code of Federal Regulations (Energy), Part 626 | 3 | 2016-12-31 to 2025-08-13 |
+| `title-10-part-0706` | Title 10 of the Code of Federal Regulations (Energy), Part 706 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0707` | Title 10 of the Code of Federal Regulations (Energy), Part 707 | 2 | 2016-12-31 to 2022-09-14 |
+| `title-10-part-0708` | Title 10 of the Code of Federal Regulations (Energy), Part 708 | 3 | 2016-12-31 to 2025-08-13 |
+| `title-10-part-0709` | Title 10 of the Code of Federal Regulations (Energy), Part 709 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0710` | Title 10 of the Code of Federal Regulations (Energy), Part 710 | 5 | 2016-12-31 to 2024-08-22 |
+| `title-10-part-0712` | Title 10 of the Code of Federal Regulations (Energy), Part 712 | 3 | 2016-12-31 to 2023-06-26 |
+| `title-10-part-0715` | Title 10 of the Code of Federal Regulations (Energy), Part 715 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0719` | Title 10 of the Code of Federal Regulations (Energy), Part 719 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0725` | Title 10 of the Code of Federal Regulations (Energy), Part 725 | 2 | 2016-12-31 to 2023-06-26 |
+| `title-10-part-0727` | Title 10 of the Code of Federal Regulations (Energy), Part 727 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0733` | Title 10 of the Code of Federal Regulations (Energy), Part 733 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0745` | Title 10 of the Code of Federal Regulations (Energy), Part 745 | 6 | 2016-12-31 to 2020-01-01 |
+| `title-10-part-0760` | Title 10 of the Code of Federal Regulations (Energy), Part 760 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0765` | Title 10 of the Code of Federal Regulations (Energy), Part 765 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0766` | Title 10 of the Code of Federal Regulations (Energy), Part 766 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0770` | Title 10 of the Code of Federal Regulations (Energy), Part 770 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0780` | Title 10 of the Code of Federal Regulations (Energy), Part 780 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0781` | Title 10 of the Code of Federal Regulations (Energy), Part 781 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0782` | Title 10 of the Code of Federal Regulations (Energy), Part 782 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0783` | Title 10 of the Code of Federal Regulations (Energy), Part 783 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0784` | Title 10 of the Code of Federal Regulations (Energy), Part 784 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0800` | Title 10 of the Code of Federal Regulations (Energy), Part 800 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0810` | Title 10 of the Code of Federal Regulations (Energy), Part 810 | 4 | 2016-12-31 to 2026-06-16 |
+| `title-10-part-0820` | Title 10 of the Code of Federal Regulations (Energy), Part 820 | 8 | 2016-12-31 to 2024-12-27 |
+| `title-10-part-0821` | Title 10 of the Code of Federal Regulations (Energy), Part 821 | 1 | 2025-09-24 to 2025-09-24 |
+| `title-10-part-0824` | Title 10 of the Code of Federal Regulations (Energy), Part 824 | 7 | 2016-12-31 to 2024-12-27 |
+| `title-10-part-0830` | Title 10 of the Code of Federal Regulations (Energy), Part 830 | 2 | 2016-12-31 to 2020-11-18 |
+| `title-10-part-0835` | Title 10 of the Code of Federal Regulations (Energy), Part 835 | 4 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0840` | Title 10 of the Code of Federal Regulations (Energy), Part 840 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0850` | Title 10 of the Code of Federal Regulations (Energy), Part 850 | 2 | 2016-12-31 to 2023-06-26 |
+| `title-10-part-0851` | Title 10 of the Code of Federal Regulations (Energy), Part 851 | 11 | 2016-12-31 to 2024-12-27 |
+| `title-10-part-0860` | Title 10 of the Code of Federal Regulations (Energy), Part 860 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0861` | Title 10 of the Code of Federal Regulations (Energy), Part 861 | 2 | 2016-12-31 to 2026-08-12 |
+| `title-10-part-0862` | Title 10 of the Code of Federal Regulations (Energy), Part 862 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0871` | Title 10 of the Code of Federal Regulations (Energy), Part 871 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0900` | Title 10 of the Code of Federal Regulations (Energy), Part 900 | 2 | 2016-12-31 to 2024-05-31 |
+| `title-10-part-0903` | Title 10 of the Code of Federal Regulations (Energy), Part 903 | 2 | 2016-12-31 to 2019-02-21 |
+| `title-10-part-0904` | Title 10 of the Code of Federal Regulations (Energy), Part 904 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0905` | Title 10 of the Code of Federal Regulations (Energy), Part 905 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0950` | Title 10 of the Code of Federal Regulations (Energy), Part 950 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0955` | Title 10 of the Code of Federal Regulations (Energy), Part 955 | 2 | 2020-01-01 to 2024-04-29 |
+| `title-10-part-0960` | Title 10 of the Code of Federal Regulations (Energy), Part 960 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0961` | Title 10 of the Code of Federal Regulations (Energy), Part 961 | 2 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-0962` | Title 10 of the Code of Federal Regulations (Energy), Part 962 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-0963` | Title 10 of the Code of Federal Regulations (Energy), Part 963 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-1000` | Title 10 of the Code of Federal Regulations (Energy), Part 1000 | 2 | 2016-12-31 to 2025-07-02 |
+| `title-10-part-1002` | Title 10 of the Code of Federal Regulations (Energy), Part 1002 | 2 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-1003` | Title 10 of the Code of Federal Regulations (Energy), Part 1003 | 3 | 2016-12-31 to 2025-08-13 |
+| `title-10-part-1004` | Title 10 of the Code of Federal Regulations (Energy), Part 1004 | 2 | 2016-12-31 to 2020-05-15 |
+| `title-10-part-1005` | Title 10 of the Code of Federal Regulations (Energy), Part 1005 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-1008` | Title 10 of the Code of Federal Regulations (Energy), Part 1008 | 4 | 2016-12-31 to 2026-04-02 |
+| `title-10-part-1009` | Title 10 of the Code of Federal Regulations (Energy), Part 1009 | 2 | 2016-12-31 to 2022-01-01 |
+| `title-10-part-1010` | Title 10 of the Code of Federal Regulations (Energy), Part 1010 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-1013` | Title 10 of the Code of Federal Regulations (Energy), Part 1013 | 8 | 2016-12-31 to 2026-07-13 |
+| `title-10-part-1014` | Title 10 of the Code of Federal Regulations (Energy), Part 1014 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-1015` | Title 10 of the Code of Federal Regulations (Energy), Part 1015 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-1016` | Title 10 of the Code of Federal Regulations (Energy), Part 1016 | 3 | 2016-12-31 to 2023-06-26 |
+| `title-10-part-1017` | Title 10 of the Code of Federal Regulations (Energy), Part 1017 | 8 | 2016-12-31 to 2024-12-27 |
+| `title-10-part-1021` | Title 10 of the Code of Federal Regulations (Energy), Part 1021 | 5 | 2016-12-31 to 2025-07-03 |
+| `title-10-part-1022` | Title 10 of the Code of Federal Regulations (Energy), Part 1022 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-1039` | Title 10 of the Code of Federal Regulations (Energy), Part 1039 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-1040` | Title 10 of the Code of Federal Regulations (Energy), Part 1040 | 3 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-1041` | Title 10 of the Code of Federal Regulations (Energy), Part 1041 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-1042` | Title 10 of the Code of Federal Regulations (Energy), Part 1042 | 2 | 2016-12-31 to 2026-07-01 |
+| `title-10-part-1044` | Title 10 of the Code of Federal Regulations (Energy), Part 1044 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-1045` | Title 10 of the Code of Federal Regulations (Energy), Part 1045 | 5 | 2016-12-31 to 2023-11-24 |
+| `title-10-part-1046` | Title 10 of the Code of Federal Regulations (Energy), Part 1046 | 2 | 2016-12-31 to 2023-06-26 |
+| `title-10-part-1047` | Title 10 of the Code of Federal Regulations (Energy), Part 1047 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-1048` | Title 10 of the Code of Federal Regulations (Energy), Part 1048 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-1049` | Title 10 of the Code of Federal Regulations (Energy), Part 1049 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-1050` | Title 10 of the Code of Federal Regulations (Energy), Part 1050 | 9 | 2016-12-31 to 2026-10-26 |
+| `title-10-part-1060` | Title 10 of the Code of Federal Regulations (Energy), Part 1060 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-1303` | Title 10 of the Code of Federal Regulations (Energy), Part 1303 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-1304` | Title 10 of the Code of Federal Regulations (Energy), Part 1304 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-1703` | Title 10 of the Code of Federal Regulations (Energy), Part 1703 | 4 | 2016-12-31 to 2026-04-02 |
+| `title-10-part-1704` | Title 10 of the Code of Federal Regulations (Energy), Part 1704 | 2 | 2016-12-31 to 2021-11-29 |
+| `title-10-part-1705` | Title 10 of the Code of Federal Regulations (Energy), Part 1705 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-1706` | Title 10 of the Code of Federal Regulations (Energy), Part 1706 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-1707` | Title 10 of the Code of Federal Regulations (Energy), Part 1707 | 2 | 2016-12-31 to 2022-07-14 |
+| `title-10-part-1708` | Title 10 of the Code of Federal Regulations (Energy), Part 1708 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-1709` | Title 10 of the Code of Federal Regulations (Energy), Part 1709 | 1 | 2023-10-10 to 2023-10-10 |
+| `title-10-part-1710` | Title 10 of the Code of Federal Regulations (Energy), Part 1710 | 1 | 2023-10-19 to 2023-10-19 |
+| `title-10-part-1800` | Title 10 of the Code of Federal Regulations (Energy), Part 1800 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-10-part-other` | Title 10 of the Code of Federal Regulations (Energy), Part other | 2 | 2016-12-31 to 2018-01-03 |
 | `title-12-part-0001` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1 | 3 | 2017-01-01 to 2026-06-09 |
 | `title-12-part-0002` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 2 | 1 | 2017-01-01 to 2017-01-01 |
 | `title-12-part-0003` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 3 | 30 | 2017-01-01 to 2026-10-26 |
@@ -2919,19 +3104,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 14066 commits:
+The build made 15048 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2902 | first version of an act |
-| 7976 | one law on its in-force day |
-| 3188 | changes no amendment note explains, credited to the publisher |
+| 3087 | first version of an act |
+| 8547 | one law on its in-force day |
+| 3414 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 9448 laws in the record.
-- 18066 tags.
+- 10129 laws in the record.
+- 19505 tags.
 
 ## Dates
 
@@ -2943,7 +3128,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `976bad1a87cd568e9dee1802f1ac0184cf051d29cef0eec1c81c9805c56e4714` (788324776 bytes).
+- Corpus: sha256 `0f04e56645be81fbeb21db7c1daab04e750e3d521af3a306c71e9092b06cf8a4` (831627766 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -2974,6 +3159,7 @@ No second build of this corpus has been compared yet.
 - Title 7: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-29); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); eCFR (to 2026-10-26).
 - Title 8: editions read: 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 9: editions read: 2017 annual edition (to 2016-12-20); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); 2026 annual edition (to 2026-01-01); eCFR (to 2026-10-26).
+- Title 10: editions read: 2017 annual edition (to 2016-12-31); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-02); eCFR (to 2026-10-26).
 - Title 12: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
