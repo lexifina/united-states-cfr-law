@@ -9104,20 +9104,108 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-49-part-1582` | Title 49 of the Code of Federal Regulations (Transportation), Part 1582 | 3 | 2020-09-21 to 2022-10-01 |
 | `title-49-part-1584` | Title 49 of the Code of Federal Regulations (Transportation), Part 1584 | 1 | 2020-09-21 to 2020-09-21 |
 | `title-49-part-other` | Title 49 of the Code of Federal Regulations (Transportation), Part other | 6 | 2017-10-01 to 2026-10-26 |
+| `title-50-part-0001` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 1 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0002` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 2 | 2 | 2017-09-29 to 2026-05-27 |
+| `title-50-part-0003` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 3 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0010` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 10 | 6 | 2017-09-29 to 2026-07-23 |
+| `title-50-part-0011` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 11 | 9 | 2017-09-29 to 2025-08-18 |
+| `title-50-part-0012` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 12 | 3 | 2017-09-29 to 2023-08-24 |
+| `title-50-part-0013` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 13 | 6 | 2017-09-29 to 2024-10-17 |
+| `title-50-part-0014` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 14 | 6 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0015` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 15 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0016` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 16 | 2 | 2017-09-29 to 2025-01-25 |
+| `title-50-part-0017` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 17 | 75 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0018` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 18 | 10 | 2017-09-29 to 2026-10-19 |
+| `title-50-part-0019` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 19 | 3 | 2017-09-29 to 2024-12-31 |
+| `title-50-part-0020` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 20 | 9 | 2017-09-29 to 2026-08-31 |
+| `title-50-part-0021` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 21 | 12 | 2017-09-29 to 2024-12-31 |
+| `title-50-part-0022` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 22 | 5 | 2017-09-29 to 2024-12-31 |
+| `title-50-part-0023` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 23 | 4 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0024` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 24 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0025` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 25 | 2 | 2017-09-29 to 2024-06-12 |
+| `title-50-part-0026` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 26 | 3 | 2017-09-29 to 2026-03-16 |
+| `title-50-part-0027` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 27 | 3 | 2017-09-29 to 2022-09-01 |
+| `title-50-part-0028` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 28 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0029` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 29 | 2 | 2017-09-29 to 2025-01-10 |
+| `title-50-part-0030` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 30 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0031` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 31 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0032` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 32 | 15 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0034` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 34 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0035` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 35 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0036` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 36 | 5 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0037` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 37 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0038` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 38 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0070` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 70 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0071` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 71 | 6 | 2017-09-29 to 2026-09-25 |
+| `title-50-part-0080` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 80 | 3 | 2017-09-29 to 2026-03-16 |
+| `title-50-part-0081` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 81 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0082` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 82 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0084` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 84 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0085` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 85 | 2 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0086` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 86 | 2 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0090` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 90 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0091` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 91 | 4 | 2017-09-29 to 2021-09-27 |
+| `title-50-part-0092` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 92 | 10 | 2017-09-29 to 2026-06-23 |
+| `title-50-part-0100` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 100 | 12 | 2017-09-29 to 2025-07-18 |
+| `title-50-part-0200` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 200 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0216` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 216 | 17 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0217` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 217 | 48 | 2017-09-29 to 2026-08-01 |
+| `title-50-part-0218` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 218 | 29 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0219` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 219 | 9 | 2017-09-29 to 2026-10-21 |
+| `title-50-part-0221` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 221 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0222` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 222 | 2 | 2017-09-29 to 2026-09-14 |
+| `title-50-part-0223` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 223 | 12 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0224` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 224 | 10 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0226` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 226 | 12 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0228` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 228 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0229` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 229 | 9 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0230` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 230 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0253` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 253 | 4 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0259` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 259 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0260` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 260 | 2 | 2017-09-29 to 2025-01-15 |
+| `title-50-part-0261` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 261 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0270` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 270 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0296` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 296 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0300` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 300 | 44 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0401` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 401 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0402` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 402 | 4 | 2017-09-29 to 2024-05-06 |
+| `title-50-part-0403` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 403 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0404` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 404 | 2 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0424` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 424 | 5 | 2017-09-29 to 2024-05-06 |
+| `title-50-part-0450` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 450 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0451` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 451 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0452` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 452 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0453` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 453 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0501` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 501 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0510` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 510 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0520` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 520 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0530` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 530 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0540` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 540 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0550` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 550 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0560` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 560 | 1 | 2017-09-29 to 2017-09-29 |
+| `title-50-part-0600` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 600 | 17 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0622` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 622 | 94 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0635` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 635 | 24 | 2017-09-29 to 2026-08-19 |
+| `title-50-part-0648` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 648 | 117 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0660` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 660 | 85 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0665` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 665 | 33 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0679` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 679 | 49 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0680` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 680 | 13 | 2017-09-29 to 2026-10-26 |
+| `title-50-part-0697` | Title 50 of the Code of Federal Regulations (Wildlife and Fisheries), Part 697 | 9 | 2017-09-29 to 2026-10-26 |
 
-The build made 34071 commits:
+The build made 35500 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 9088 | first version of an act |
-| 17081 | one law on its in-force day |
-| 7902 | changes no amendment note explains, credited to the publisher |
+| 9176 | first version of an act |
+| 18016 | one law on its in-force day |
+| 8308 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 20148 laws in the record.
-- 44411 tags.
+- 21341 laws in the record.
+- 46201 tags.
 
 ## Dates
 
@@ -9129,7 +9217,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6549b546b1eedc3cca7b3c6335497856fe5efca0bb4c7d05f09af25a226361d8` (1388478307 bytes).
+- Corpus: sha256 `649c624de372c1dae148ef0691fd6534ab2fe1df1621788952b7eb3b343c73e8` (1474093343 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -9197,6 +9285,7 @@ No second build of this corpus has been compared yet.
 - Title 47: editions read: 2017 annual edition (to 2017-10-01); 2018 annual edition (to 2018-09-28); 2019 annual edition (to 2019-10-01); 2020 annual edition (to 2020-10-01); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-09-23); 2023 annual edition (to 2023-09-29); 2024 annual edition (to 2024-10-01); 2025 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
 - Title 48: editions read: 2017 annual edition (to 2017-12-11); 2018 annual edition (to 2018-10-01); 2019 annual edition (to 2019-10-01); 2020 annual edition (to 2020-10-01); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-10-01); 2023 annual edition (to 2023-10-01); 2024 annual edition (to 2024-10-01); 2025 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
 - Title 49: editions read: 2017 annual edition (to 2017-10-01); 2018 annual edition (to 2018-11-28); 2019 annual edition (to 2019-10-01); 2020 annual edition (to 2021-10-01); 2022 annual edition (to 2022-10-01); 2023 annual edition (to 2023-10-01); 2024 annual edition (to 2024-10-01); 2025 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
+- Title 50: editions read: 2017 annual edition (to 2017-09-29); 2018 annual edition (to 2018-10-01); 2019 annual edition (to 2019-10-01); 2020 annual edition (to 2020-10-01); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-10-01); 2023 annual edition (to 2023-10-01); 2024 annual edition (to 2024-10-01); eCFR (to 2026-10-26).
 
 ## What AI did and did not do
 
