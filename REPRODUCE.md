@@ -3785,6 +3785,274 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-20-part-1002` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 1002 | 1 | 2017-03-27 to 2017-03-27 |
 | `title-20-part-1010` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 1010 | 1 | 2017-03-27 to 2017-03-27 |
 | `title-20-part-1011` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 1011 | 1 | 2018-01-12 to 2018-01-12 |
+| `title-21-part-0001` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1 | 12 | 2017-05-10 to 2025-10-27 |
+| `title-21-part-0002` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 2 | 2 | 2017-05-10 to 2026-03-23 |
+| `title-21-part-0003` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 3 | 2 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0004` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 4 | 2 | 2017-05-10 to 2026-02-02 |
+| `title-21-part-0005` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 5 | 5 | 2017-05-10 to 2026-06-15 |
+| `title-21-part-0006` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 6 | 2 | 2021-04-01 to 2023-04-01 |
+| `title-21-part-0007` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 7 | 4 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0010` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 10 | 7 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0011` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 11 | 3 | 2017-05-10 to 2023-03-02 |
+| `title-21-part-0012` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 12 | 3 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0013` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 13 | 2 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0014` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 14 | 8 | 2017-05-10 to 2025-08-29 |
+| `title-21-part-0015` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 15 | 2 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0016` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 16 | 5 | 2017-05-10 to 2025-12-18 |
+| `title-21-part-0017` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 17 | 3 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0019` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 19 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0020` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 20 | 5 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0021` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 21 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0025` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 25 | 4 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0026` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 26 | 2 | 2017-05-10 to 2026-03-23 |
+| `title-21-part-0050` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 50 | 2 | 2017-05-10 to 2024-01-22 |
+| `title-21-part-0054` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 54 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0056` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 56 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0058` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 58 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0060` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 60 | 2 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0070` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 70 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0071` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 71 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0073` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 73 | 19 | 2017-05-10 to 2026-03-24 |
+| `title-21-part-0074` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 74 | 4 | 2017-05-10 to 2026-09-08 |
+| `title-21-part-0080` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 80 | 2 | 2017-05-10 to 2024-12-09 |
+| `title-21-part-0081` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 81 | 3 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0082` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 82 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0099` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 99 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0100` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 100 | 2 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0101` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 101 | 15 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0102` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 102 | 2 | 2017-05-10 to 2018-05-03 |
+| `title-21-part-0104` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 104 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0105` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 105 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0106` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 106 | 2 | 2017-05-10 to 2023-03-24 |
+| `title-21-part-0107` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 107 | 3 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0108` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 108 | 2 | 2017-05-10 to 2022-04-01 |
+| `title-21-part-0109` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 109 | 3 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0110` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 110 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0111` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 111 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0112` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 112 | 5 | 2017-05-10 to 2024-07-05 |
+| `title-21-part-0113` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 113 | 3 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0114` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 114 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0115` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 115 | 2 | 2017-05-10 to 2020-03-24 |
+| `title-21-part-0117` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 117 | 3 | 2017-05-10 to 2020-03-24 |
+| `title-21-part-0118` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 118 | 3 | 2017-05-10 to 2020-04-20 |
+| `title-21-part-0119` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 119 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0120` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 120 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0121` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 121 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0123` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 123 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0129` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 129 | 3 | 2017-05-10 to 2022-04-01 |
+| `title-21-part-0130` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 130 | 4 | 2017-05-10 to 2023-01-17 |
+| `title-21-part-0131` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 131 | 7 | 2017-05-10 to 2026-10-13 |
+| `title-21-part-0133` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 133 | 3 | 2017-05-10 to 2022-04-01 |
+| `title-21-part-0135` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 135 | 2 | 2017-05-10 to 2022-04-01 |
+| `title-21-part-0136` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 136 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0137` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 137 | 2 | 2017-05-10 to 2022-04-01 |
+| `title-21-part-0139` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 139 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0145` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 145 | 3 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0146` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 146 | 3 | 2017-05-10 to 2026-08-19 |
+| `title-21-part-0150` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 150 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0152` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 152 | 2 | 2017-05-10 to 2024-04-15 |
+| `title-21-part-0155` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 155 | 5 | 2017-05-10 to 2026-10-13 |
+| `title-21-part-0156` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 156 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0158` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 158 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0160` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 160 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0161` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 161 | 3 | 2017-05-10 to 2026-10-13 |
+| `title-21-part-0163` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 163 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0164` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 164 | 2 | 2017-05-10 to 2023-12-22 |
+| `title-21-part-0165` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 165 | 3 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0166` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 166 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0168` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 168 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0169` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 169 | 2 | 2017-05-10 to 2022-02-14 |
+| `title-21-part-0170` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 170 | 4 | 2017-05-10 to 2024-05-21 |
+| `title-21-part-0171` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 171 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0172` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 172 | 11 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0173` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 173 | 3 | 2017-05-10 to 2025-09-03 |
+| `title-21-part-0174` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 174 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0175` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 175 | 3 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0176` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 176 | 4 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0177` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 177 | 6 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0178` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 178 | 5 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0179` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 179 | 2 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0180` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 180 | 2 | 2017-05-10 to 2024-08-02 |
+| `title-21-part-0181` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 181 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0182` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 182 | 2 | 2017-05-10 to 2022-04-01 |
+| `title-21-part-0184` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 184 | 9 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0186` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 186 | 2 | 2017-05-10 to 2023-12-22 |
+| `title-21-part-0189` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 189 | 2 | 2017-05-10 to 2023-04-01 |
+| `title-21-part-0190` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 190 | 2 | 2017-05-10 to 2023-03-24 |
+| `title-21-part-0200` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 200 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0201` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 201 | 8 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0202` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 202 | 2 | 2017-05-10 to 2024-05-20 |
+| `title-21-part-0203` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 203 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0205` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 205 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0206` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 206 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0207` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 207 | 2 | 2017-05-10 to 2021-04-01 |
+| `title-21-part-0208` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 208 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0209` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 209 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0210` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 210 | 2 | 2017-05-10 to 2025-12-18 |
+| `title-21-part-0211` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 211 | 4 | 2017-05-10 to 2025-12-18 |
+| `title-21-part-0212` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 212 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0213` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 213 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-21-part-0216` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 216 | 3 | 2017-05-10 to 2019-03-21 |
+| `title-21-part-0225` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 225 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0226` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 226 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0230` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 230 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-21-part-0250` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 250 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0251` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 251 | 1 | 2020-11-30 to 2020-11-30 |
+| `title-21-part-0290` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 290 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0299` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 299 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0300` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 300 | 2 | 2017-05-10 to 2022-11-14 |
+| `title-21-part-0310` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 310 | 5 | 2017-05-10 to 2020-12-16 |
+| `title-21-part-0312` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 312 | 6 | 2017-05-10 to 2024-01-22 |
+| `title-21-part-0314` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 314 | 7 | 2017-05-10 to 2026-09-22 |
+| `title-21-part-0315` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 315 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0316` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 316 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0317` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 317 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0320` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 320 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0328` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 328 | 2 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0329` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 329 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0330` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 330 | 3 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0331` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 331 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0332` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 332 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0333` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 333 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0335` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 335 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0336` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 336 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0338` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 338 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0340` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 340 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0341` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 341 | 2 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0343` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 343 | 2 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0344` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 344 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0346` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 346 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0347` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 347 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0348` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 348 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0349` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 349 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0350` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 350 | 2 | 2017-05-10 to 2024-04-01 |
+| `title-21-part-0352` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 352 | 2 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0355` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 355 | 2 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0357` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 357 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0358` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 358 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0361` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 361 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0369` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 369 | 3 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0500` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 500 | 7 | 2017-05-10 to 2023-08-16 |
+| `title-21-part-0501` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 501 | 2 | 2017-05-10 to 2020-12-16 |
+| `title-21-part-0502` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 502 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0507` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 507 | 3 | 2017-05-10 to 2020-03-24 |
+| `title-21-part-0509` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 509 | 2 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0510` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 510 | 11 | 2017-05-10 to 2026-04-16 |
+| `title-21-part-0511` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 511 | 2 | 2017-05-10 to 2018-01-29 |
+| `title-21-part-0514` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 514 | 4 | 2017-05-10 to 2025-12-18 |
+| `title-21-part-0515` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 515 | 3 | 2017-05-10 to 2024-06-21 |
+| `title-21-part-0516` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 516 | 17 | 2017-05-10 to 2026-07-07 |
+| `title-21-part-0520` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 520 | 47 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0522` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 522 | 42 | 2017-05-10 to 2026-07-07 |
+| `title-21-part-0524` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 524 | 36 | 2017-05-10 to 2026-07-07 |
+| `title-21-part-0526` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 526 | 11 | 2017-05-10 to 2023-08-16 |
+| `title-21-part-0528` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 528 | 5 | 2017-05-10 to 2025-08-22 |
+| `title-21-part-0529` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 529 | 20 | 2017-05-10 to 2026-07-07 |
+| `title-21-part-0530` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 530 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0556` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 556 | 21 | 2017-05-10 to 2026-07-07 |
+| `title-21-part-0558` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 558 | 46 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0570` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 570 | 2 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0571` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 571 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0573` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 573 | 27 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0579` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 579 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0582` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 582 | 5 | 2017-05-10 to 2020-12-16 |
+| `title-21-part-0584` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 584 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0589` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 589 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0600` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 600 | 3 | 2017-05-10 to 2020-03-24 |
+| `title-21-part-0601` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 601 | 3 | 2017-05-10 to 2024-03-13 |
+| `title-21-part-0606` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 606 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0607` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 607 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0610` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 610 | 5 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0630` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 630 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0640` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 640 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0660` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 660 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0680` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 680 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0700` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 700 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0701` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 701 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0710` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 710 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0720` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 720 | 2 | 2017-05-10 to 2022-10-13 |
+| `title-21-part-0740` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 740 | 2 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0800` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 800 | 5 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0801` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 801 | 8 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0803` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 803 | 4 | 2017-05-10 to 2026-02-02 |
+| `title-21-part-0806` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 806 | 2 | 2017-05-10 to 2019-04-01 |
+| `title-21-part-0807` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 807 | 5 | 2017-05-10 to 2024-03-15 |
+| `title-21-part-0808` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 808 | 3 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0809` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 809 | 3 | 2017-05-10 to 2025-09-19 |
+| `title-21-part-0810` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 810 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0812` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 812 | 6 | 2017-05-10 to 2026-02-02 |
+| `title-21-part-0814` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 814 | 9 | 2017-05-10 to 2024-03-15 |
+| `title-21-part-0820` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 820 | 5 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0821` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 821 | 3 | 2017-05-10 to 2021-04-01 |
+| `title-21-part-0822` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 822 | 4 | 2017-05-10 to 2023-03-21 |
+| `title-21-part-0830` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 830 | 3 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0860` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 860 | 7 | 2017-05-10 to 2026-02-02 |
+| `title-21-part-0861` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 861 | 2 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0862` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 862 | 29 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0864` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 864 | 15 | 2017-05-10 to 2026-09-16 |
+| `title-21-part-0866` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 866 | 49 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-0868` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 868 | 15 | 2017-05-10 to 2026-06-30 |
+| `title-21-part-0870` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 870 | 23 | 2017-05-10 to 2026-10-09 |
+| `title-21-part-0872` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 872 | 8 | 2017-05-10 to 2026-06-01 |
+| `title-21-part-0874` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 874 | 11 | 2017-05-10 to 2026-09-10 |
+| `title-21-part-0876` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 876 | 33 | 2017-05-10 to 2026-09-30 |
+| `title-21-part-0878` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 878 | 24 | 2017-05-10 to 2026-10-06 |
+| `title-21-part-0880` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 880 | 16 | 2017-05-10 to 2026-09-10 |
+| `title-21-part-0882` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 882 | 28 | 2017-05-10 to 2026-06-26 |
+| `title-21-part-0884` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 884 | 12 | 2017-05-10 to 2026-05-08 |
+| `title-21-part-0886` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 886 | 13 | 2017-05-10 to 2026-05-06 |
+| `title-21-part-0888` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 888 | 19 | 2017-05-10 to 2026-07-24 |
+| `title-21-part-0890` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 890 | 10 | 2017-05-10 to 2026-05-18 |
+| `title-21-part-0892` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 892 | 17 | 2017-05-10 to 2026-09-10 |
+| `title-21-part-0895` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 895 | 3 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-0898` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 898 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-0900` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 900 | 5 | 2017-05-10 to 2024-09-10 |
+| `title-21-part-1000` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1000 | 3 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-1002` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1002 | 4 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-1003` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1003 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-1004` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1004 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-1005` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1005 | 2 | 2017-05-10 to 2020-08-03 |
+| `title-21-part-1010` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1010 | 4 | 2017-05-10 to 2025-09-18 |
+| `title-21-part-1020` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1020 | 4 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-1030` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1030 | 2 | 2017-05-10 to 2023-02-21 |
+| `title-21-part-1040` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1040 | 3 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-1050` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1050 | 2 | 2017-05-10 to 2023-02-21 |
+| `title-21-part-1100` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1100 | 3 | 2017-05-10 to 2023-03-20 |
+| `title-21-part-1105` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1105 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-1107` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1107 | 3 | 2017-05-10 to 2023-03-20 |
+| `title-21-part-1114` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1114 | 2 | 2021-11-04 to 2023-03-20 |
+| `title-21-part-1140` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1140 | 4 | 2017-05-10 to 2024-09-30 |
+| `title-21-part-1141` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1141 | 3 | 2017-05-10 to 2023-11-06 |
+| `title-21-part-1143` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1143 | 2 | 2017-05-10 to 2023-03-20 |
+| `title-21-part-1150` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1150 | 3 | 2017-05-10 to 2024-02-26 |
+| `title-21-part-1210` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1210 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-1230` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1230 | 2 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-1240` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1240 | 3 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-1250` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1250 | 2 | 2017-05-10 to 2023-07-14 |
+| `title-21-part-1270` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1270 | 2 | 2017-05-10 to 2022-02-14 |
+| `title-21-part-1271` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1271 | 3 | 2017-05-10 to 2026-10-26 |
+| `title-21-part-1300` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1300 | 6 | 2017-05-10 to 2026-07-09 |
+| `title-21-part-1301` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1301 | 17 | 2017-05-10 to 2026-07-09 |
+| `title-21-part-1302` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1302 | 2 | 2017-05-10 to 2023-08-01 |
+| `title-21-part-1303` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1303 | 4 | 2017-05-10 to 2023-11-29 |
+| `title-21-part-1304` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1304 | 4 | 2017-05-10 to 2026-03-09 |
+| `title-21-part-1305` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1305 | 6 | 2017-05-10 to 2026-06-09 |
+| `title-21-part-1306` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1306 | 8 | 2017-05-10 to 2026-07-09 |
+| `title-21-part-1307` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1307 | 5 | 2017-05-10 to 2026-03-09 |
+| `title-21-part-1308` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1308 | 27 | 2017-05-10 to 2026-10-21 |
+| `title-21-part-1309` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1309 | 4 | 2017-05-10 to 2022-12-14 |
+| `title-21-part-1310` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1310 | 10 | 2017-05-10 to 2026-05-04 |
+| `title-21-part-1311` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1311 | 2 | 2017-05-10 to 2025-11-03 |
+| `title-21-part-1312` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1312 | 4 | 2017-05-10 to 2026-04-28 |
+| `title-21-part-1313` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1313 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-1314` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1314 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-1315` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1315 | 2 | 2017-05-10 to 2023-11-29 |
+| `title-21-part-1316` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1316 | 3 | 2017-05-10 to 2022-12-14 |
+| `title-21-part-1317` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1317 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-21-part-1318` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1318 | 1 | 2021-01-19 to 2021-01-19 |
+| `title-21-part-1321` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1321 | 2 | 2017-05-10 to 2022-05-11 |
+| `title-21-part-1401` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1401 | 2 | 2017-05-10 to 2020-10-19 |
+| `title-21-part-1402` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1402 | 1 | 2017-05-10 to 2017-05-10 |
 | `title-26-part-0001` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 1 | 228 | 2017-03-22 to 2026-10-26 |
 | `title-26-part-0002` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 2 | 1 | 2017-03-22 to 2017-03-22 |
 | `title-26-part-0003` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 3 | 1 | 2017-03-22 to 2017-03-22 |
@@ -4161,19 +4429,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 18864 commits:
+The build made 20246 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 4144 | first version of an act |
-| 10385 | one law on its in-force day |
-| 4335 | changes no amendment note explains, credited to the publisher |
+| 4412 | first version of an act |
+| 11169 | one law on its in-force day |
+| 4665 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 12369 laws in the record.
-- 24484 tags.
+- 13300 laws in the record.
+- 26518 tags.
 
 ## Dates
 
@@ -4185,7 +4453,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `758ff67a56afde630e89031c33f3517cc215c8c5903ac9f740042582b594ca9f` (965493504 bytes).
+- Corpus: sha256 `86e3e4c75fc7d12b625dafbede21f8a47cfafd5e84f50ecb8aa048d2a844d24c` (995360659 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -4227,6 +4495,7 @@ No second build of this corpus has been compared yet.
 - Title 18: editions read: 2017 annual edition (to 2017-03-23); 2018 annual edition (to 2018-04-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 19: editions read: 2017 annual edition (to 2017-03-21); 2018 annual edition (to 2018-04-01); 2019 annual edition (to 2019-03-12); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 20: editions read: 2017 annual edition (to 2017-03-27); 2018 annual edition (to 2018-03-27); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-03-06); 2021 annual edition (to 2021-03-12); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-03-27); 2025 annual edition (to 2025-03-17); eCFR (to 2026-10-26).
+- Title 21: editions read: 2017 annual edition (to 2017-05-10); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-20); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 29: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-11); 2019 annual edition (to 2019-05-14); 2020 annual edition (to 2020-02-18); 2021 annual edition (to 2021-05-06); 2022 annual edition (to 2022-03-17); 2023 annual edition (to 2023-03-23); 2024 annual edition (to 2024-05-31); eCFR (to 2026-10-26).
 
