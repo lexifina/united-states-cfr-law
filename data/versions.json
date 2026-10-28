@@ -125598,6 +125598,4018 @@
    ]
   },
   {
+   "slug": "title-24-part-0000",
+   "short": "24 CFR Part 0",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 0",
+   "url": "https://www.ecfr.gov/current/title-24/part-0",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0001",
+   "short": "24 CFR Part 1",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 1",
+   "url": "https://www.ecfr.gov/current/title-24/part-1",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2018-07-09",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-24/CFR-2019-title-24.zip",
+     "sha256": "df69ce10ea4f7cc20106b49e09c311c6011473c68c41fdab9928f0b8546a206c"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0003",
+   "short": "24 CFR Part 3",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 3",
+   "url": "https://www.ecfr.gov/current/title-24/part-3",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0004",
+   "short": "24 CFR Part 4",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 4",
+   "url": "https://www.ecfr.gov/current/title-24/part-4",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0005",
+   "short": "24 CFR Part 5",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 5",
+   "url": "https://www.ecfr.gov/current/title-24/part-5",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 112,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2018-03-12",
+     "units": 112,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-24/CFR-2018-title-24.zip",
+     "sha256": "94c31b0078b7e9b1ba8b61cf263e8b1ea0409bdf1e30bcfda0d68266a95aa6e8"
+    },
+    {
+     "from": "2020-06-08",
+     "units": 112,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2020-09-04",
+     "units": 103,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2020-09-29",
+     "units": 103,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-01-19",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-06-10",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2021-07-31",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2021-08-06",
+     "units": 105,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2023-02-14",
+     "units": 106,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2023-03-16",
+     "units": 106,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 110,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 110,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-03-04",
+     "units": 112,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-04-03",
+     "units": 112,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 112,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2025-01-06",
+     "units": 113,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2025-04-02",
+     "units": 112,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    },
+    {
+     "from": "2026-01-07",
+     "units": 112,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0006",
+   "short": "24 CFR Part 6",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 6",
+   "url": "https://www.ecfr.gov/current/title-24/part-6",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0008",
+   "short": "24 CFR Part 8",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 8",
+   "url": "https://www.ecfr.gov/current/title-24/part-8",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2018-07-09",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-24/CFR-2019-title-24.zip",
+     "sha256": "df69ce10ea4f7cc20106b49e09c311c6011473c68c41fdab9928f0b8546a206c"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0009",
+   "short": "24 CFR Part 9",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 9",
+   "url": "https://www.ecfr.gov/current/title-24/part-9",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0010",
+   "short": "24 CFR Part 10",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 10",
+   "url": "https://www.ecfr.gov/current/title-24/part-10",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0011",
+   "short": "24 CFR Part 11",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 11",
+   "url": "https://www.ecfr.gov/current/title-24/part-11",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-08-05",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0013",
+   "short": "24 CFR Part 13",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 13",
+   "url": "https://www.ecfr.gov/current/title-24/part-13",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0014",
+   "short": "24 CFR Part 14",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 14",
+   "url": "https://www.ecfr.gov/current/title-24/part-14",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2020-09-29",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2022-03-16",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0015",
+   "short": "24 CFR Part 15",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 15",
+   "url": "https://www.ecfr.gov/current/title-24/part-15",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2017-05-10",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-24/CFR-2018-title-24.zip",
+     "sha256": "94c31b0078b7e9b1ba8b61cf263e8b1ea0409bdf1e30bcfda0d68266a95aa6e8"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0016",
+   "short": "24 CFR Part 16",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 16",
+   "url": "https://www.ecfr.gov/current/title-24/part-16",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2018-07-09",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-24/CFR-2019-title-24.zip",
+     "sha256": "df69ce10ea4f7cc20106b49e09c311c6011473c68c41fdab9928f0b8546a206c"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0017",
+   "short": "24 CFR Part 17",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 17",
+   "url": "https://www.ecfr.gov/current/title-24/part-17",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2022-03-16",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0018",
+   "short": "24 CFR Part 18",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 18",
+   "url": "https://www.ecfr.gov/current/title-24/part-18",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0020",
+   "short": "24 CFR Part 20",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 20",
+   "url": "https://www.ecfr.gov/current/title-24/part-20",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2022-03-16",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0024",
+   "short": "24 CFR Part 24",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 24",
+   "url": "https://www.ecfr.gov/current/title-24/part-24",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0025",
+   "short": "24 CFR Part 25",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 25",
+   "url": "https://www.ecfr.gov/current/title-24/part-25",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0026",
+   "short": "24 CFR Part 26",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 26",
+   "url": "https://www.ecfr.gov/current/title-24/part-26",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2022-03-16",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0027",
+   "short": "24 CFR Part 27",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 27",
+   "url": "https://www.ecfr.gov/current/title-24/part-27",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0028",
+   "short": "24 CFR Part 28",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 28",
+   "url": "https://www.ecfr.gov/current/title-24/part-28",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2017-06-29",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-24/CFR-2018-title-24.zip",
+     "sha256": "94c31b0078b7e9b1ba8b61cf263e8b1ea0409bdf1e30bcfda0d68266a95aa6e8"
+    },
+    {
+     "from": "2019-03-15",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-24/CFR-2019-title-24.zip",
+     "sha256": "df69ce10ea4f7cc20106b49e09c311c6011473c68c41fdab9928f0b8546a206c"
+    },
+    {
+     "from": "2020-03-06",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-24/CFR-2020-title-24.zip",
+     "sha256": "79cfde39978c983048d6ad8ea1ebb23eb9ded79d0739b08eb03d6e19b9352543"
+    },
+    {
+     "from": "2021-03-16",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-06-15",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2022-03-16",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2023-03-17",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2024-03-25",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2025-07-14",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0030",
+   "short": "24 CFR Part 30",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 30",
+   "url": "https://www.ecfr.gov/current/title-24/part-30",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2017-06-29",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-24/CFR-2018-title-24.zip",
+     "sha256": "94c31b0078b7e9b1ba8b61cf263e8b1ea0409bdf1e30bcfda0d68266a95aa6e8"
+    },
+    {
+     "from": "2017-09-19",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-24/CFR-2018-title-24.zip",
+     "sha256": "94c31b0078b7e9b1ba8b61cf263e8b1ea0409bdf1e30bcfda0d68266a95aa6e8"
+    },
+    {
+     "from": "2019-03-15",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-24/CFR-2019-title-24.zip",
+     "sha256": "df69ce10ea4f7cc20106b49e09c311c6011473c68c41fdab9928f0b8546a206c"
+    },
+    {
+     "from": "2020-03-06",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-24/CFR-2020-title-24.zip",
+     "sha256": "79cfde39978c983048d6ad8ea1ebb23eb9ded79d0739b08eb03d6e19b9352543"
+    },
+    {
+     "from": "2021-03-16",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-04-15",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2022-03-16",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2022-05-26",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2023-03-17",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2024-03-25",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2025-07-14",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0035",
+   "short": "24 CFR Part 35",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 35",
+   "url": "https://www.ecfr.gov/current/title-24/part-35",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 102,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0040",
+   "short": "24 CFR Part 40",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 40",
+   "url": "https://www.ecfr.gov/current/title-24/part-40",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2018-07-09",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-24/CFR-2019-title-24.zip",
+     "sha256": "df69ce10ea4f7cc20106b49e09c311c6011473c68c41fdab9928f0b8546a206c"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0041",
+   "short": "24 CFR Part 41",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 41",
+   "url": "https://www.ecfr.gov/current/title-24/part-41",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0042",
+   "short": "24 CFR Part 42",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 42",
+   "url": "https://www.ecfr.gov/current/title-24/part-42",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0050",
+   "short": "24 CFR Part 50",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 50",
+   "url": "https://www.ecfr.gov/current/title-24/part-50",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2024-05-23",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2026-06-22",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0051",
+   "short": "24 CFR Part 51",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 51",
+   "url": "https://www.ecfr.gov/current/title-24/part-51",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2020-02-24",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-24/CFR-2020-title-24.zip",
+     "sha256": "79cfde39978c983048d6ad8ea1ebb23eb9ded79d0739b08eb03d6e19b9352543"
+    },
+    {
+     "from": "2023-03-24",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2026-07-13",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    },
+    {
+     "from": "2026-08-20",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0052",
+   "short": "24 CFR Part 52",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 52",
+   "url": "https://www.ecfr.gov/current/title-24/part-52",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0055",
+   "short": "24 CFR Part 55",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 55",
+   "url": "https://www.ecfr.gov/current/title-24/part-55",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2024-05-23",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0058",
+   "short": "24 CFR Part 58",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 58",
+   "url": "https://www.ecfr.gov/current/title-24/part-58",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2024-05-23",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2024-12-31",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0060",
+   "short": "24 CFR Part 60",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 60",
+   "url": "https://www.ecfr.gov/current/title-24/part-60",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2018-02-26",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-24/CFR-2018-title-24.zip",
+     "sha256": "94c31b0078b7e9b1ba8b61cf263e8b1ea0409bdf1e30bcfda0d68266a95aa6e8"
+    },
+    {
+     "from": "2018-07-19",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-24/CFR-2019-title-24.zip",
+     "sha256": "df69ce10ea4f7cc20106b49e09c311c6011473c68c41fdab9928f0b8546a206c"
+    },
+    {
+     "from": "2019-04-15",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-24/CFR-2020-title-24.zip",
+     "sha256": "79cfde39978c983048d6ad8ea1ebb23eb9ded79d0739b08eb03d6e19b9352543"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0070",
+   "short": "24 CFR Part 70",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 70",
+   "url": "https://www.ecfr.gov/current/title-24/part-70",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0075",
+   "short": "24 CFR Part 75",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 75",
+   "url": "https://www.ecfr.gov/current/title-24/part-75",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0081",
+   "short": "24 CFR Part 81",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 81",
+   "url": "https://www.ecfr.gov/current/title-24/part-81",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2022-03-16",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0084",
+   "short": "24 CFR Part 84",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 84",
+   "url": "https://www.ecfr.gov/current/title-24/part-84",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0085",
+   "short": "24 CFR Part 85",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 85",
+   "url": "https://www.ecfr.gov/current/title-24/part-85",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0087",
+   "short": "24 CFR Part 87",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 87",
+   "url": "https://www.ecfr.gov/current/title-24/part-87",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2017-06-29",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-24/CFR-2018-title-24.zip",
+     "sha256": "94c31b0078b7e9b1ba8b61cf263e8b1ea0409bdf1e30bcfda0d68266a95aa6e8"
+    },
+    {
+     "from": "2019-03-15",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-24/CFR-2019-title-24.zip",
+     "sha256": "df69ce10ea4f7cc20106b49e09c311c6011473c68c41fdab9928f0b8546a206c"
+    },
+    {
+     "from": "2020-03-06",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-24/CFR-2020-title-24.zip",
+     "sha256": "79cfde39978c983048d6ad8ea1ebb23eb9ded79d0739b08eb03d6e19b9352543"
+    },
+    {
+     "from": "2021-03-16",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-04-15",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2023-03-17",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2024-03-25",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2025-07-14",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0091",
+   "short": "24 CFR Part 91",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 91",
+   "url": "https://www.ecfr.gov/current/title-24/part-91",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2018-04-01",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-24/CFR-2018-title-24.zip",
+     "sha256": "94c31b0078b7e9b1ba8b61cf263e8b1ea0409bdf1e30bcfda0d68266a95aa6e8"
+    },
+    {
+     "from": "2020-09-04",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2020-09-29",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-08-02",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2025-04-02",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    },
+    {
+     "from": "2025-04-20",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0092",
+   "short": "24 CFR Part 92",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 92",
+   "url": "https://www.ecfr.gov/current/title-24/part-92",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 95,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2020-09-04",
+     "units": 95,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-01-19",
+     "units": 95,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-08-02",
+     "units": 95,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 95,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 95,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 95,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2025-02-03",
+     "units": 95,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2025-03-03",
+     "units": 95,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2025-04-20",
+     "units": 85,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    },
+    {
+     "from": "2026-04-29",
+     "units": 85,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0093",
+   "short": "24 CFR Part 93",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 93",
+   "url": "https://www.ecfr.gov/current/title-24/part-93",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2020-09-29",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0100",
+   "short": "24 CFR Part 100",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 100",
+   "url": "https://www.ecfr.gov/current/title-24/part-100",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2020-10-26",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-03-08",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2023-05-01",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0103",
+   "short": "24 CFR Part 103",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 103",
+   "url": "https://www.ecfr.gov/current/title-24/part-103",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2022-03-16",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0107",
+   "short": "24 CFR Part 107",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 107",
+   "url": "https://www.ecfr.gov/current/title-24/part-107",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0108",
+   "short": "24 CFR Part 108",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 108",
+   "url": "https://www.ecfr.gov/current/title-24/part-108",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0110",
+   "short": "24 CFR Part 110",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 110",
+   "url": "https://www.ecfr.gov/current/title-24/part-110",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0115",
+   "short": "24 CFR Part 115",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 115",
+   "url": "https://www.ecfr.gov/current/title-24/part-115",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2024-05-03",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0121",
+   "short": "24 CFR Part 121",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 121",
+   "url": "https://www.ecfr.gov/current/title-24/part-121",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0125",
+   "short": "24 CFR Part 125",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 125",
+   "url": "https://www.ecfr.gov/current/title-24/part-125",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2024-05-03",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0135",
+   "short": "24 CFR Part 135",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 135",
+   "url": "https://www.ecfr.gov/current/title-24/part-135",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2020-11-10",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0146",
+   "short": "24 CFR Part 146",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 146",
+   "url": "https://www.ecfr.gov/current/title-24/part-146",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0180",
+   "short": "24 CFR Part 180",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 180",
+   "url": "https://www.ecfr.gov/current/title-24/part-180",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2017-06-29",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-24/CFR-2018-title-24.zip",
+     "sha256": "94c31b0078b7e9b1ba8b61cf263e8b1ea0409bdf1e30bcfda0d68266a95aa6e8"
+    },
+    {
+     "from": "2019-03-15",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-24/CFR-2019-title-24.zip",
+     "sha256": "df69ce10ea4f7cc20106b49e09c311c6011473c68c41fdab9928f0b8546a206c"
+    },
+    {
+     "from": "2020-03-06",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-24/CFR-2020-title-24.zip",
+     "sha256": "79cfde39978c983048d6ad8ea1ebb23eb9ded79d0739b08eb03d6e19b9352543"
+    },
+    {
+     "from": "2021-03-16",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-04-15",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2022-03-16",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2023-03-17",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2024-03-25",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2025-07-14",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0200",
+   "short": "24 CFR Part 200",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 200",
+   "url": "https://www.ecfr.gov/current/title-24/part-200",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 170,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2018-08-02",
+     "units": 167,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-24/CFR-2019-title-24.zip",
+     "sha256": "df69ce10ea4f7cc20106b49e09c311c6011473c68c41fdab9928f0b8546a206c"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 167,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 167,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-05-23",
+     "units": 167,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2025-02-11",
+     "units": 167,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 167,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0201",
+   "short": "24 CFR Part 201",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 201",
+   "url": "https://www.ecfr.gov/current/title-24/part-201",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2022-12-21",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2024-03-29",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-04-15",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0202",
+   "short": "24 CFR Part 202",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 202",
+   "url": "https://www.ecfr.gov/current/title-24/part-202",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2024-03-04",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-05-23",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0203",
+   "short": "24 CFR Part 203",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 203",
+   "url": "https://www.ecfr.gov/current/title-24/part-203",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 257,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2019-03-14",
+     "units": 247,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-24/CFR-2019-title-24.zip",
+     "sha256": "df69ce10ea4f7cc20106b49e09c311c6011473c68c41fdab9928f0b8546a206c"
+    },
+    {
+     "from": "2019-10-15",
+     "units": 248,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-24/CFR-2020-title-24.zip",
+     "sha256": "79cfde39978c983048d6ad8ea1ebb23eb9ded79d0739b08eb03d6e19b9352543"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 248,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2022-12-21",
+     "units": 248,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 248,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2024-02-07",
+     "units": 248,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 248,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2025-01-10",
+     "units": 248,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0204",
+   "short": "24 CFR Part 204",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 204",
+   "url": "https://www.ecfr.gov/current/title-24/part-204",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0206",
+   "short": "24 CFR Part 206",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 206",
+   "url": "https://www.ecfr.gov/current/title-24/part-206",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2017-09-19",
+     "units": 77,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-24/CFR-2018-title-24.zip",
+     "sha256": "94c31b0078b7e9b1ba8b61cf263e8b1ea0409bdf1e30bcfda0d68266a95aa6e8"
+    },
+    {
+     "from": "2019-10-15",
+     "units": 77,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-24/CFR-2020-title-24.zip",
+     "sha256": "79cfde39978c983048d6ad8ea1ebb23eb9ded79d0739b08eb03d6e19b9352543"
+    },
+    {
+     "from": "2022-12-21",
+     "units": 77,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 77,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2025-01-10",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0207",
+   "short": "24 CFR Part 207",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 207",
+   "url": "https://www.ecfr.gov/current/title-24/part-207",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0208",
+   "short": "24 CFR Part 208",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 208",
+   "url": "https://www.ecfr.gov/current/title-24/part-208",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0213",
+   "short": "24 CFR Part 213",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 213",
+   "url": "https://www.ecfr.gov/current/title-24/part-213",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0214",
+   "short": "24 CFR Part 214",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 214",
+   "url": "https://www.ecfr.gov/current/title-24/part-214",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2020-08-05",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2024-07-12",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2024-10-16",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0219",
+   "short": "24 CFR Part 219",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 219",
+   "url": "https://www.ecfr.gov/current/title-24/part-219",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0220",
+   "short": "24 CFR Part 220",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 220",
+   "url": "https://www.ecfr.gov/current/title-24/part-220",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0221",
+   "short": "24 CFR Part 221",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 221",
+   "url": "https://www.ecfr.gov/current/title-24/part-221",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0231",
+   "short": "24 CFR Part 231",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 231",
+   "url": "https://www.ecfr.gov/current/title-24/part-231",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0232",
+   "short": "24 CFR Part 232",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 232",
+   "url": "https://www.ecfr.gov/current/title-24/part-232",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2020-07-27",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0234",
+   "short": "24 CFR Part 234",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 234",
+   "url": "https://www.ecfr.gov/current/title-24/part-234",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2019-10-15",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-24/CFR-2020-title-24.zip",
+     "sha256": "79cfde39978c983048d6ad8ea1ebb23eb9ded79d0739b08eb03d6e19b9352543"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0236",
+   "short": "24 CFR Part 236",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 236",
+   "url": "https://www.ecfr.gov/current/title-24/part-236",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2024-07-05",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0241",
+   "short": "24 CFR Part 241",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 241",
+   "url": "https://www.ecfr.gov/current/title-24/part-241",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 92,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 92,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0242",
+   "short": "24 CFR Part 242",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 242",
+   "url": "https://www.ecfr.gov/current/title-24/part-242",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 85,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 85,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0244",
+   "short": "24 CFR Part 244",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 244",
+   "url": "https://www.ecfr.gov/current/title-24/part-244",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0245",
+   "short": "24 CFR Part 245",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 245",
+   "url": "https://www.ecfr.gov/current/title-24/part-245",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0246",
+   "short": "24 CFR Part 246",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 246",
+   "url": "https://www.ecfr.gov/current/title-24/part-246",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0247",
+   "short": "24 CFR Part 247",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 247",
+   "url": "https://www.ecfr.gov/current/title-24/part-247",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2021-11-08",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2025-01-13",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0248",
+   "short": "24 CFR Part 248",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 248",
+   "url": "https://www.ecfr.gov/current/title-24/part-248",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0251",
+   "short": "24 CFR Part 251",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 251",
+   "url": "https://www.ecfr.gov/current/title-24/part-251",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0252",
+   "short": "24 CFR Part 252",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 252",
+   "url": "https://www.ecfr.gov/current/title-24/part-252",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0255",
+   "short": "24 CFR Part 255",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 255",
+   "url": "https://www.ecfr.gov/current/title-24/part-255",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0266",
+   "short": "24 CFR Part 266",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 266",
+   "url": "https://www.ecfr.gov/current/title-24/part-266",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 64,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2021-01-21",
+     "units": 64,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0267",
+   "short": "24 CFR Part 267",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 267",
+   "url": "https://www.ecfr.gov/current/title-24/part-267",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0290",
+   "short": "24 CFR Part 290",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 290",
+   "url": "https://www.ecfr.gov/current/title-24/part-290",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0291",
+   "short": "24 CFR Part 291",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 291",
+   "url": "https://www.ecfr.gov/current/title-24/part-291",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2025-01-10",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0300",
+   "short": "24 CFR Part 300",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 300",
+   "url": "https://www.ecfr.gov/current/title-24/part-300",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0310",
+   "short": "24 CFR Part 310",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 310",
+   "url": "https://www.ecfr.gov/current/title-24/part-310",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0320",
+   "short": "24 CFR Part 320",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 320",
+   "url": "https://www.ecfr.gov/current/title-24/part-320",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0330",
+   "short": "24 CFR Part 330",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 330",
+   "url": "https://www.ecfr.gov/current/title-24/part-330",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0340",
+   "short": "24 CFR Part 340",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 340",
+   "url": "https://www.ecfr.gov/current/title-24/part-340",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0350",
+   "short": "24 CFR Part 350",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 350",
+   "url": "https://www.ecfr.gov/current/title-24/part-350",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0401",
+   "short": "24 CFR Part 401",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 401",
+   "url": "https://www.ecfr.gov/current/title-24/part-401",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 65,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2024-03-29",
+     "units": 65,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0402",
+   "short": "24 CFR Part 402",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 402",
+   "url": "https://www.ecfr.gov/current/title-24/part-402",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0500",
+   "short": "24 CFR Part 500",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 500",
+   "url": "https://www.ecfr.gov/current/title-24/part-500",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0510",
+   "short": "24 CFR Part 510",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 510",
+   "url": "https://www.ecfr.gov/current/title-24/part-510",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0570",
+   "short": "24 CFR Part 570",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 570",
+   "url": "https://www.ecfr.gov/current/title-24/part-570",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 128,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2020-09-08",
+     "units": 128,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2020-11-30",
+     "units": 128,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-07-31",
+     "units": 128,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2022-03-16",
+     "units": 128,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 128,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 128,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2025-04-02",
+     "units": 128,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    },
+    {
+     "from": "2025-04-20",
+     "units": 128,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0573",
+   "short": "24 CFR Part 573",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 573",
+   "url": "https://www.ecfr.gov/current/title-24/part-573",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0574",
+   "short": "24 CFR Part 574",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 574",
+   "url": "https://www.ecfr.gov/current/title-24/part-574",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2020-09-08",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2020-11-30",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-07-31",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2025-04-02",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0576",
+   "short": "24 CFR Part 576",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 576",
+   "url": "https://www.ecfr.gov/current/title-24/part-576",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2020-09-08",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2020-11-30",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-07-31",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2025-04-02",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0578",
+   "short": "24 CFR Part 578",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 578",
+   "url": "https://www.ecfr.gov/current/title-24/part-578",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2020-11-30",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2026-05-20",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0581",
+   "short": "24 CFR Part 581",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 581",
+   "url": "https://www.ecfr.gov/current/title-24/part-581",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2024-12-13",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0582",
+   "short": "24 CFR Part 582",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 582",
+   "url": "https://www.ecfr.gov/current/title-24/part-582",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2026-05-20",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0583",
+   "short": "24 CFR Part 583",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 583",
+   "url": "https://www.ecfr.gov/current/title-24/part-583",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2026-05-20",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0586",
+   "short": "24 CFR Part 586",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 586",
+   "url": "https://www.ecfr.gov/current/title-24/part-586",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0594",
+   "short": "24 CFR Part 594",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 594",
+   "url": "https://www.ecfr.gov/current/title-24/part-594",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2026-03-16",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0599",
+   "short": "24 CFR Part 599",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 599",
+   "url": "https://www.ecfr.gov/current/title-24/part-599",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2026-04-06",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0700",
+   "short": "24 CFR Part 700",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 700",
+   "url": "https://www.ecfr.gov/current/title-24/part-700",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0761",
+   "short": "24 CFR Part 761",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 761",
+   "url": "https://www.ecfr.gov/current/title-24/part-761",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0791",
+   "short": "24 CFR Part 791",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 791",
+   "url": "https://www.ecfr.gov/current/title-24/part-791",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0792",
+   "short": "24 CFR Part 792",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 792",
+   "url": "https://www.ecfr.gov/current/title-24/part-792",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0811",
+   "short": "24 CFR Part 811",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 811",
+   "url": "https://www.ecfr.gov/current/title-24/part-811",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0850",
+   "short": "24 CFR Part 850",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 850",
+   "url": "https://www.ecfr.gov/current/title-24/part-850",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0880",
+   "short": "24 CFR Part 880",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 880",
+   "url": "https://www.ecfr.gov/current/title-24/part-880",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2021-11-08",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2022-09-26",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2025-01-13",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2026-03-13",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0881",
+   "short": "24 CFR Part 881",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 881",
+   "url": "https://www.ecfr.gov/current/title-24/part-881",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0882",
+   "short": "24 CFR Part 882",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 882",
+   "url": "https://www.ecfr.gov/current/title-24/part-882",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2021-11-08",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2026-03-13",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0883",
+   "short": "24 CFR Part 883",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 883",
+   "url": "https://www.ecfr.gov/current/title-24/part-883",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2025-01-03",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0884",
+   "short": "24 CFR Part 884",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 884",
+   "url": "https://www.ecfr.gov/current/title-24/part-884",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2021-11-08",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2022-09-26",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2025-01-13",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2026-03-13",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0886",
+   "short": "24 CFR Part 886",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 886",
+   "url": "https://www.ecfr.gov/current/title-24/part-886",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 77,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2022-09-26",
+     "units": 77,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 77,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2025-01-13",
+     "units": 77,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2026-03-13",
+     "units": 77,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0887",
+   "short": "24 CFR Part 887",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 887",
+   "url": "https://www.ecfr.gov/current/title-24/part-887",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0888",
+   "short": "24 CFR Part 888",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 888",
+   "url": "https://www.ecfr.gov/current/title-24/part-888",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2026-01-07",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0891",
+   "short": "24 CFR Part 891",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 891",
+   "url": "https://www.ecfr.gov/current/title-24/part-891",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2018-03-12",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-24/CFR-2018-title-24.zip",
+     "sha256": "94c31b0078b7e9b1ba8b61cf263e8b1ea0409bdf1e30bcfda0d68266a95aa6e8"
+    },
+    {
+     "from": "2022-09-26",
+     "units": 125,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-02-12",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2025-01-13",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2026-03-13",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0902",
+   "short": "24 CFR Part 902",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 902",
+   "url": "https://www.ecfr.gov/current/title-24/part-902",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0903",
+   "short": "24 CFR Part 903",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 903",
+   "url": "https://www.ecfr.gov/current/title-24/part-903",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2020-09-08",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-08-02",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2025-03-03",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2025-04-02",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    },
+    {
+     "from": "2026-01-07",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0904",
+   "short": "24 CFR Part 904",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 904",
+   "url": "https://www.ecfr.gov/current/title-24/part-904",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 46,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0905",
+   "short": "24 CFR Part 905",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 905",
+   "url": "https://www.ecfr.gov/current/title-24/part-905",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2020-11-30",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0906",
+   "short": "24 CFR Part 906",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 906",
+   "url": "https://www.ecfr.gov/current/title-24/part-906",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0907",
+   "short": "24 CFR Part 907",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 907",
+   "url": "https://www.ecfr.gov/current/title-24/part-907",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0908",
+   "short": "24 CFR Part 908",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 908",
+   "url": "https://www.ecfr.gov/current/title-24/part-908",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0943",
+   "short": "24 CFR Part 943",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 943",
+   "url": "https://www.ecfr.gov/current/title-24/part-943",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0945",
+   "short": "24 CFR Part 945",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 945",
+   "url": "https://www.ecfr.gov/current/title-24/part-945",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0960",
+   "short": "24 CFR Part 960",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 960",
+   "url": "https://www.ecfr.gov/current/title-24/part-960",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2018-03-12",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-24/CFR-2018-title-24.zip",
+     "sha256": "94c31b0078b7e9b1ba8b61cf263e8b1ea0409bdf1e30bcfda0d68266a95aa6e8"
+    },
+    {
+     "from": "2020-06-08",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2023-03-16",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0963",
+   "short": "24 CFR Part 963",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 963",
+   "url": "https://www.ecfr.gov/current/title-24/part-963",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0964",
+   "short": "24 CFR Part 964",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 964",
+   "url": "https://www.ecfr.gov/current/title-24/part-964",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2020-11-30",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2023-03-16",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0965",
+   "short": "24 CFR Part 965",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 965",
+   "url": "https://www.ecfr.gov/current/title-24/part-965",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0966",
+   "short": "24 CFR Part 966",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 966",
+   "url": "https://www.ecfr.gov/current/title-24/part-966",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2021-11-08",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2023-03-16",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2025-01-13",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2026-03-13",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0970",
+   "short": "24 CFR Part 970",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 970",
+   "url": "https://www.ecfr.gov/current/title-24/part-970",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0971",
+   "short": "24 CFR Part 971",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 971",
+   "url": "https://www.ecfr.gov/current/title-24/part-971",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0972",
+   "short": "24 CFR Part 972",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 972",
+   "url": "https://www.ecfr.gov/current/title-24/part-972",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0982",
+   "short": "24 CFR Part 982",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 982",
+   "url": "https://www.ecfr.gov/current/title-24/part-982",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 128,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2018-03-12",
+     "units": 128,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-24/CFR-2018-title-24.zip",
+     "sha256": "94c31b0078b7e9b1ba8b61cf263e8b1ea0409bdf1e30bcfda0d68266a95aa6e8"
+    },
+    {
+     "from": "2020-06-08",
+     "units": 128,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 128,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 128,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 128,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2025-04-20",
+     "units": 128,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    },
+    {
+     "from": "2026-01-07",
+     "units": 128,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0983",
+   "short": "24 CFR Part 983",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 983",
+   "url": "https://www.ecfr.gov/current/title-24/part-983",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2020-11-30",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 64,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2026-01-07",
+     "units": 64,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 64,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0984",
+   "short": "24 CFR Part 984",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 984",
+   "url": "https://www.ecfr.gov/current/title-24/part-984",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2022-06-16",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0985",
+   "short": "24 CFR Part 985",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 985",
+   "url": "https://www.ecfr.gov/current/title-24/part-985",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2026-01-07",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-0990",
+   "short": "24 CFR Part 990",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 990",
+   "url": "https://www.ecfr.gov/current/title-24/part-990",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-1000",
+   "short": "24 CFR Part 1000",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 1000",
+   "url": "https://www.ecfr.gov/current/title-24/part-1000",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 177,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2020-11-30",
+     "units": 177,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 177,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2023-04-01",
+     "units": 177,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 177,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2024-07-12",
+     "units": 178,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-1003",
+   "short": "24 CFR Part 1003",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 1003",
+   "url": "https://www.ecfr.gov/current/title-24/part-1003",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 53,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2024-07-12",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-1005",
+   "short": "24 CFR Part 1005",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 1005",
+   "url": "https://www.ecfr.gov/current/title-24/part-1005",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2024-04-01",
+     "units": 153,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2024-12-31",
+     "units": 143,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2025-10-06",
+     "units": 143,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-1006",
+   "short": "24 CFR Part 1006",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 1006",
+   "url": "https://www.ecfr.gov/current/title-24/part-1006",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2024-03-13",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-1007",
+   "short": "24 CFR Part 1007",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 1007",
+   "url": "https://www.ecfr.gov/current/title-24/part-1007",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-2002",
+   "short": "24 CFR Part 2002",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 2002",
+   "url": "https://www.ecfr.gov/current/title-24/part-2002",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2018-03-23",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-24/CFR-2018-title-24.zip",
+     "sha256": "94c31b0078b7e9b1ba8b61cf263e8b1ea0409bdf1e30bcfda0d68266a95aa6e8"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-2003",
+   "short": "24 CFR Part 2003",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 2003",
+   "url": "https://www.ecfr.gov/current/title-24/part-2003",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-2004",
+   "short": "24 CFR Part 2004",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 2004",
+   "url": "https://www.ecfr.gov/current/title-24/part-2004",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-3280",
+   "short": "24 CFR Part 3280",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 3280",
+   "url": "https://www.ecfr.gov/current/title-24/part-3280",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 107,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2020-03-02",
+     "units": 107,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-24/CFR-2020-title-24.zip",
+     "sha256": "79cfde39978c983048d6ad8ea1ebb23eb9ded79d0739b08eb03d6e19b9352543"
+    },
+    {
+     "from": "2021-03-10",
+     "units": 111,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 117,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-07-12",
+     "units": 117,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2022-10-20",
+     "units": 117,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2025-02-25",
+     "units": 122,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2025-09-15",
+     "units": 122,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 122,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-3282",
+   "short": "24 CFR Part 3282",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 3282",
+   "url": "https://www.ecfr.gov/current/title-24/part-3282",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2017-06-29",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-24/CFR-2018-title-24.zip",
+     "sha256": "94c31b0078b7e9b1ba8b61cf263e8b1ea0409bdf1e30bcfda0d68266a95aa6e8"
+    },
+    {
+     "from": "2019-01-15",
+     "units": 106,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-24/CFR-2019-title-24.zip",
+     "sha256": "df69ce10ea4f7cc20106b49e09c311c6011473c68c41fdab9928f0b8546a206c"
+    },
+    {
+     "from": "2019-03-15",
+     "units": 106,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-24/CFR-2019-title-24.zip",
+     "sha256": "df69ce10ea4f7cc20106b49e09c311c6011473c68c41fdab9928f0b8546a206c"
+    },
+    {
+     "from": "2020-03-02",
+     "units": 108,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-24/CFR-2020-title-24.zip",
+     "sha256": "79cfde39978c983048d6ad8ea1ebb23eb9ded79d0739b08eb03d6e19b9352543"
+    },
+    {
+     "from": "2020-03-06",
+     "units": 108,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-24/CFR-2020-title-24.zip",
+     "sha256": "79cfde39978c983048d6ad8ea1ebb23eb9ded79d0739b08eb03d6e19b9352543"
+    },
+    {
+     "from": "2020-12-14",
+     "units": 108,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-03-10",
+     "units": 108,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-03-16",
+     "units": 108,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-07-12",
+     "units": 108,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 108,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2023-03-17",
+     "units": 108,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-24/CFR-2023-title-24.zip",
+     "sha256": "8a77ba6734d594ca5676d3ef18c22b10545283bd99c13c2a80a6c505fa5d6453"
+    },
+    {
+     "from": "2024-03-25",
+     "units": 108,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-24/CFR-2024-title-24.zip",
+     "sha256": "36b59cc57b281cecfd83998adcd8a495475cae973603fd6867278ee315ec8d30"
+    },
+    {
+     "from": "2025-07-14",
+     "units": 108,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    },
+    {
+     "from": "2025-09-15",
+     "units": 108,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-3284",
+   "short": "24 CFR Part 3284",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 3284",
+   "url": "https://www.ecfr.gov/current/title-24/part-3284",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2020-12-14",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-3285",
+   "short": "24 CFR Part 3285",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 3285",
+   "url": "https://www.ecfr.gov/current/title-24/part-3285",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 62,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2021-03-10",
+     "units": 62,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-24/CFR-2021-title-24.zip",
+     "sha256": "a6f4bfaa54e7ed7a8382e0f2a4904d86d8856ad7cd5ac5a8defc9ba9b7d77f0f"
+    },
+    {
+     "from": "2021-07-12",
+     "units": 62,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    },
+    {
+     "from": "2025-02-25",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-24/CFR-2025-title-24.zip",
+     "sha256": "e4c9c7b3016cd7ddbe3830e4248652d8ca49aea2eaae71edff3ca0b7bb0d2169"
+    },
+    {
+     "from": "2025-09-15",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-3286",
+   "short": "24 CFR Part 3286",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 3286",
+   "url": "https://www.ecfr.gov/current/title-24/part-3286",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2025-09-15",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-24/ECFR-title24.xml",
+     "sha256": "39cf95bd6c70b303717549e31729149cfd1a048711c593ce15a45caf8ddb56a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-3288",
+   "short": "24 CFR Part 3288",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 3288",
+   "url": "https://www.ecfr.gov/current/title-24/part-3288",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-3800",
+   "short": "24 CFR Part 3800",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 3800",
+   "url": "https://www.ecfr.gov/current/title-24/part-3800",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-part-4100",
+   "short": "24 CFR Part 4100",
+   "title": "Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 4100",
+   "url": "https://www.ecfr.gov/current/title-24/part-4100",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-24/CFR-2017-title-24.zip",
+     "sha256": "b6fde22bf98ad2b8eda2ddc3bebc7cb16da9a11c83a42f52bce92a39e5b1b1b4"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-24/CFR-2022-title-24.zip",
+     "sha256": "efc38445d13d91dd3044fa2bde003bf505960591ab492e12b5bb17b496c3005a"
+    }
+   ]
+  },
+  {
    "slug": "title-26-part-0001",
    "short": "26 CFR Part 1",
    "title": "Title 26 of the Code of Federal Regulations (Internal Revenue), Part 1",

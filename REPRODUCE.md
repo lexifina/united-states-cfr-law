@@ -4344,6 +4344,164 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-23-part-1300` | Title 23 of the Code of Federal Regulations (Highways), Part 1300 | 10 | 2017-03-21 to 2026-09-23 |
 | `title-23-part-1327` | Title 23 of the Code of Federal Regulations (Highways), Part 1327 | 1 | 2017-03-21 to 2017-03-21 |
 | `title-23-part-1340` | Title 23 of the Code of Federal Regulations (Highways), Part 1340 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0000` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 0 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0001` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 1 | 2 | 2017-03-21 to 2018-07-09 |
+| `title-24-part-0003` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 3 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0004` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 4 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0005` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 5 | 19 | 2017-03-21 to 2026-01-07 |
+| `title-24-part-0006` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 6 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0008` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 8 | 3 | 2017-03-21 to 2024-06-06 |
+| `title-24-part-0009` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 9 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0010` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 10 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0011` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 11 | 2 | 2020-12-08 to 2021-08-05 |
+| `title-24-part-0013` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 13 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0014` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 14 | 3 | 2017-03-21 to 2022-03-16 |
+| `title-24-part-0015` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 15 | 2 | 2017-03-21 to 2017-05-10 |
+| `title-24-part-0016` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 16 | 2 | 2017-03-21 to 2018-07-09 |
+| `title-24-part-0017` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 17 | 2 | 2017-03-21 to 2022-03-16 |
+| `title-24-part-0018` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 18 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0020` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 20 | 2 | 2017-03-21 to 2022-03-16 |
+| `title-24-part-0024` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 24 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0025` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 25 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0026` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 26 | 2 | 2017-03-21 to 2022-03-16 |
+| `title-24-part-0027` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 27 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0028` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 28 | 10 | 2017-03-21 to 2025-07-14 |
+| `title-24-part-0030` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 30 | 12 | 2017-03-21 to 2025-07-14 |
+| `title-24-part-0035` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 35 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0040` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 40 | 2 | 2017-03-21 to 2018-07-09 |
+| `title-24-part-0041` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 41 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0042` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 42 | 2 | 2017-03-21 to 2024-06-06 |
+| `title-24-part-0050` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 50 | 4 | 2017-03-21 to 2026-06-22 |
+| `title-24-part-0051` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 51 | 6 | 2017-03-21 to 2026-10-26 |
+| `title-24-part-0052` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 52 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0055` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 55 | 2 | 2017-03-21 to 2024-05-23 |
+| `title-24-part-0058` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 58 | 3 | 2017-03-21 to 2024-12-31 |
+| `title-24-part-0060` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 60 | 4 | 2017-03-21 to 2019-04-15 |
+| `title-24-part-0070` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 70 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0075` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 75 | 1 | 2020-11-10 to 2020-11-10 |
+| `title-24-part-0081` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 81 | 2 | 2017-03-21 to 2022-03-16 |
+| `title-24-part-0084` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 84 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0085` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 85 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0087` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 87 | 10 | 2017-03-21 to 2026-10-26 |
+| `title-24-part-0091` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 91 | 8 | 2017-03-21 to 2025-04-20 |
+| `title-24-part-0092` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 92 | 11 | 2017-03-21 to 2026-04-29 |
+| `title-24-part-0093` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 93 | 6 | 2017-03-21 to 2026-10-26 |
+| `title-24-part-0100` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 100 | 4 | 2017-03-21 to 2023-05-01 |
+| `title-24-part-0103` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 103 | 2 | 2017-03-21 to 2022-03-16 |
+| `title-24-part-0107` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 107 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0108` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 108 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0110` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 110 | 2 | 2017-03-21 to 2026-10-26 |
+| `title-24-part-0115` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 115 | 2 | 2017-03-21 to 2024-05-03 |
+| `title-24-part-0121` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 121 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0125` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 125 | 2 | 2017-03-21 to 2024-05-03 |
+| `title-24-part-0135` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 135 | 2 | 2017-03-21 to 2020-11-10 |
+| `title-24-part-0146` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 146 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0180` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 180 | 10 | 2017-03-21 to 2025-07-14 |
+| `title-24-part-0200` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 200 | 7 | 2017-03-21 to 2026-10-26 |
+| `title-24-part-0201` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 201 | 5 | 2017-03-21 to 2024-04-15 |
+| `title-24-part-0202` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 202 | 3 | 2017-03-21 to 2024-05-23 |
+| `title-24-part-0203` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 203 | 9 | 2017-03-21 to 2025-01-10 |
+| `title-24-part-0204` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 204 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0206` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 206 | 6 | 2017-03-21 to 2025-01-10 |
+| `title-24-part-0207` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 207 | 2 | 2017-03-21 to 2022-04-01 |
+| `title-24-part-0208` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 208 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0213` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 213 | 2 | 2017-03-21 to 2022-04-01 |
+| `title-24-part-0214` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 214 | 4 | 2017-03-21 to 2024-10-16 |
+| `title-24-part-0219` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 219 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0220` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 220 | 2 | 2017-03-21 to 2022-04-01 |
+| `title-24-part-0221` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 221 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0231` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 231 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0232` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 232 | 3 | 2017-03-21 to 2022-04-01 |
+| `title-24-part-0234` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 234 | 2 | 2017-03-21 to 2019-10-15 |
+| `title-24-part-0236` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 236 | 2 | 2017-03-21 to 2024-07-05 |
+| `title-24-part-0241` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 241 | 2 | 2017-03-21 to 2022-04-01 |
+| `title-24-part-0242` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 242 | 2 | 2017-03-21 to 2026-10-26 |
+| `title-24-part-0244` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 244 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0245` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 245 | 2 | 2017-03-21 to 2026-10-26 |
+| `title-24-part-0246` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 246 | 2 | 2017-03-21 to 2022-04-01 |
+| `title-24-part-0247` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 247 | 4 | 2017-03-21 to 2025-01-13 |
+| `title-24-part-0248` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 248 | 2 | 2017-03-21 to 2022-04-01 |
+| `title-24-part-0251` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 251 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0252` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 252 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0255` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 255 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0266` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 266 | 2 | 2017-03-21 to 2021-01-21 |
+| `title-24-part-0267` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 267 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0290` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 290 | 2 | 2017-03-21 to 2024-06-06 |
+| `title-24-part-0291` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 291 | 2 | 2017-03-21 to 2025-01-10 |
+| `title-24-part-0300` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 300 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0310` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 310 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0320` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 320 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0330` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 330 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0340` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 340 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0350` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 350 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0401` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 401 | 2 | 2017-03-21 to 2024-03-29 |
+| `title-24-part-0402` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 402 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0500` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 500 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0510` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 510 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0570` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 570 | 9 | 2017-03-21 to 2025-04-20 |
+| `title-24-part-0573` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 573 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0574` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 574 | 6 | 2017-03-21 to 2025-04-02 |
+| `title-24-part-0576` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 576 | 6 | 2017-03-21 to 2025-04-02 |
+| `title-24-part-0578` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 578 | 4 | 2017-03-21 to 2026-05-20 |
+| `title-24-part-0581` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 581 | 2 | 2017-03-21 to 2024-12-13 |
+| `title-24-part-0582` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 582 | 2 | 2017-03-21 to 2026-05-20 |
+| `title-24-part-0583` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 583 | 2 | 2017-03-21 to 2026-05-20 |
+| `title-24-part-0586` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 586 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0594` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 594 | 2 | 2017-03-21 to 2026-03-16 |
+| `title-24-part-0599` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 599 | 2 | 2017-03-21 to 2026-04-06 |
+| `title-24-part-0700` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 700 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0761` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 761 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0791` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 791 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0792` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 792 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0811` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 811 | 2 | 2017-03-21 to 2022-04-01 |
+| `title-24-part-0850` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 850 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0880` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 880 | 5 | 2017-03-21 to 2026-03-13 |
+| `title-24-part-0881` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 881 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0882` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 882 | 6 | 2017-03-21 to 2026-03-13 |
+| `title-24-part-0883` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 883 | 2 | 2017-03-21 to 2025-01-03 |
+| `title-24-part-0884` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 884 | 6 | 2017-03-21 to 2026-03-13 |
+| `title-24-part-0886` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 886 | 5 | 2017-03-21 to 2026-03-13 |
+| `title-24-part-0887` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 887 | 1 | 2022-06-16 to 2022-06-16 |
+| `title-24-part-0888` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 888 | 3 | 2017-03-21 to 2026-01-07 |
+| `title-24-part-0891` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 891 | 8 | 2017-03-21 to 2026-03-13 |
+| `title-24-part-0902` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 902 | 2 | 2017-03-21 to 2023-07-01 |
+| `title-24-part-0903` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 903 | 7 | 2017-03-21 to 2026-01-07 |
+| `title-24-part-0904` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 904 | 3 | 2017-03-21 to 2026-10-26 |
+| `title-24-part-0905` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 905 | 3 | 2017-03-21 to 2021-04-01 |
+| `title-24-part-0906` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 906 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0907` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 907 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0908` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 908 | 2 | 2017-03-21 to 2024-06-06 |
+| `title-24-part-0943` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 943 | 2 | 2017-03-21 to 2024-06-06 |
+| `title-24-part-0945` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 945 | 2 | 2017-03-21 to 2024-06-06 |
+| `title-24-part-0960` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 960 | 6 | 2017-03-21 to 2024-06-06 |
+| `title-24-part-0963` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 963 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0964` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 964 | 3 | 2017-03-21 to 2023-03-16 |
+| `title-24-part-0965` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 965 | 2 | 2017-03-21 to 2023-07-01 |
+| `title-24-part-0966` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 966 | 5 | 2017-03-21 to 2026-03-13 |
+| `title-24-part-0970` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 970 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0971` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 971 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-0972` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 972 | 2 | 2017-03-21 to 2024-06-06 |
+| `title-24-part-0982` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 982 | 8 | 2017-03-21 to 2026-01-07 |
+| `title-24-part-0983` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 983 | 6 | 2017-03-21 to 2026-10-26 |
+| `title-24-part-0984` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 984 | 2 | 2017-03-21 to 2022-06-16 |
+| `title-24-part-0985` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 985 | 4 | 2017-03-21 to 2026-01-07 |
+| `title-24-part-0990` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 990 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-1000` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 1000 | 6 | 2017-03-21 to 2024-07-12 |
+| `title-24-part-1003` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 1003 | 2 | 2017-03-21 to 2024-07-12 |
+| `title-24-part-1005` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 1005 | 4 | 2017-03-21 to 2025-10-06 |
+| `title-24-part-1006` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 1006 | 2 | 2017-03-21 to 2024-03-13 |
+| `title-24-part-1007` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 1007 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-2002` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 2002 | 2 | 2017-03-21 to 2018-03-23 |
+| `title-24-part-2003` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 2003 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-2004` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 2004 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-3280` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 3280 | 9 | 2017-03-21 to 2026-10-26 |
+| `title-24-part-3282` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 3282 | 15 | 2017-03-21 to 2025-09-15 |
+| `title-24-part-3284` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 3284 | 2 | 2017-03-21 to 2020-12-14 |
+| `title-24-part-3285` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 3285 | 6 | 2017-03-21 to 2026-10-26 |
+| `title-24-part-3286` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 3286 | 2 | 2017-03-21 to 2025-09-15 |
+| `title-24-part-3288` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 3288 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-3800` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 3800 | 1 | 2017-03-21 to 2017-03-21 |
+| `title-24-part-4100` | Title 24 of the Code of Federal Regulations (Housing and Urban Development), Part 4100 | 2 | 2017-03-21 to 2022-04-01 |
 | `title-26-part-0001` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 1 | 228 | 2017-03-22 to 2026-10-26 |
 | `title-26-part-0002` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 2 | 1 | 2017-03-22 to 2017-03-22 |
 | `title-26-part-0003` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 3 | 1 | 2017-03-22 to 2017-03-22 |
@@ -4720,19 +4878,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 20838 commits:
+The build made 21335 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 4703 | first version of an act |
-| 11348 | one law on its in-force day |
-| 4787 | changes no amendment note explains, credited to the publisher |
+| 4861 | first version of an act |
+| 11603 | one law on its in-force day |
+| 4871 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 13518 laws in the record.
-- 27269 tags.
+- 13804 laws in the record.
+- 27959 tags.
 
 ## Dates
 
@@ -4744,7 +4902,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f970da48392582f3d4054980a30bce2db53e956b379bcc8664763cec2ba88186` (1011403864 bytes).
+- Corpus: sha256 `2b5d04e9330de1b210ae22b125f1a4560c398d06aff4458b92c29abeed3530fc` (1029574007 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -4789,6 +4947,7 @@ No second build of this corpus has been compared yet.
 - Title 21: editions read: 2017 annual edition (to 2017-05-10); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-20); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 22: editions read: 2017 annual edition (to 2017-05-12); 2018 annual edition (to 2018-03-27); 2019 annual edition (to 2019-03-19); 2020 annual edition (to 2020-03-25); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-03-24); 2023 annual edition (to 2023-03-28); 2024 annual edition (to 2024-03-25); 2025 annual edition (to 2025-01-17); eCFR (to 2026-10-26).
 - Title 23: editions read: 2017 annual edition (to 2017-03-21); 2018 annual edition (to 2018-02-26); 2019 annual edition (to 2019-04-26); 2020 annual edition (to 2019-10-28); 2021 annual edition (to 2021-01-27); 2022 annual edition (to 2022-03-03); 2023 annual edition (to 2023-03-30); 2024 annual edition (to 2024-01-18); 2025 annual edition (to 2025-03-21); eCFR (to 2026-10-26).
+- Title 24: editions read: 2017 annual edition (to 2017-03-21); 2018 annual edition (to 2018-04-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 29: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-11); 2019 annual edition (to 2019-05-14); 2020 annual edition (to 2020-02-18); 2021 annual edition (to 2021-05-06); 2022 annual edition (to 2022-03-17); 2023 annual edition (to 2023-03-23); 2024 annual edition (to 2024-05-31); eCFR (to 2026-10-26).
 
