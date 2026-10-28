@@ -492,20 +492,136 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-12-part-1808` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1808 | 1 | 2017-01-01 to 2017-01-01 |
 | `title-12-part-1815` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1815 | 1 | 2017-01-01 to 2017-01-01 |
 | `title-12-part-other` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part other | 4 | 2017-01-01 to 2021-03-05 |
+| `title-17-part-0001` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 1 | 20 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0002` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 2 | 2 | 2017-02-14 to 2026-05-11 |
+| `title-17-part-0003` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 3 | 7 | 2017-02-14 to 2024-11-25 |
+| `title-17-part-0004` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 4 | 9 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0005` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 5 | 4 | 2017-02-14 to 2024-09-04 |
+| `title-17-part-0007` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 7 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0009` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 9 | 3 | 2017-02-14 to 2024-09-04 |
+| `title-17-part-0010` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 10 | 4 | 2017-02-14 to 2026-06-08 |
+| `title-17-part-0011` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 11 | 4 | 2017-02-14 to 2025-12-03 |
+| `title-17-part-0012` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 12 | 3 | 2017-02-14 to 2024-09-04 |
+| `title-17-part-0013` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 13 | 3 | 2017-02-14 to 2024-09-04 |
+| `title-17-part-0014` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 14 | 2 | 2017-02-14 to 2024-09-04 |
+| `title-17-part-0015` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 15 | 5 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0016` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 16 | 3 | 2017-02-14 to 2024-09-04 |
+| `title-17-part-0017` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 17 | 6 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0018` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 18 | 5 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0019` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 19 | 4 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0020` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 20 | 4 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0021` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 21 | 2 | 2017-02-14 to 2017-06-26 |
+| `title-17-part-0022` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 22 | 3 | 2017-02-14 to 2025-03-24 |
+| `title-17-part-0023` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 23 | 22 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0030` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 30 | 8 | 2017-02-14 to 2025-03-24 |
+| `title-17-part-0031` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 31 | 2 | 2017-02-14 to 2024-09-04 |
+| `title-17-part-0032` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 32 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0033` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 33 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0034` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 34 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0035` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 35 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0036` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 36 | 1 | 2021-03-15 to 2021-03-15 |
+| `title-17-part-0037` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 37 | 6 | 2017-02-14 to 2024-12-09 |
+| `title-17-part-0038` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 38 | 6 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0039` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 39 | 12 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0040` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 40 | 3 | 2017-02-14 to 2024-12-09 |
+| `title-17-part-0041` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 41 | 6 | 2017-02-14 to 2024-09-04 |
+| `title-17-part-0042` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 42 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0043` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 43 | 6 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0044` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 44 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0045` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 45 | 3 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0046` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 46 | 4 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0048` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 48 | 4 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0049` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 49 | 5 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0050` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 50 | 7 | 2017-02-14 to 2026-10-08 |
+| `title-17-part-0075` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 75 | 6 | 2017-02-14 to 2024-11-25 |
+| `title-17-part-0100` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 100 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0140` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 140 | 9 | 2017-02-14 to 2026-10-01 |
+| `title-17-part-0141` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 141 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0142` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 142 | 2 | 2017-02-14 to 2024-09-04 |
+| `title-17-part-0143` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 143 | 9 | 2017-02-14 to 2025-01-24 |
+| `title-17-part-0144` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 144 | 2 | 2017-02-14 to 2024-09-04 |
+| `title-17-part-0145` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 145 | 5 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0146` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 146 | 3 | 2017-02-14 to 2024-09-04 |
+| `title-17-part-0147` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 147 | 2 | 2017-02-14 to 2024-09-04 |
+| `title-17-part-0148` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 148 | 2 | 2017-02-14 to 2024-09-04 |
+| `title-17-part-0149` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 149 | 2 | 2017-02-14 to 2024-09-04 |
+| `title-17-part-0150` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 150 | 6 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0151` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 151 | 3 | 2017-02-14 to 2021-03-15 |
+| `title-17-part-0155` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 155 | 3 | 2017-02-14 to 2024-09-04 |
+| `title-17-part-0156` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 156 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0160` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 160 | 5 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0162` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 162 | 2 | 2017-02-14 to 2024-09-04 |
+| `title-17-part-0165` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 165 | 8 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0166` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 166 | 2 | 2017-02-14 to 2018-02-23 |
+| `title-17-part-0170` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 170 | 2 | 2017-02-14 to 2024-09-04 |
+| `title-17-part-0171` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 171 | 2 | 2017-02-14 to 2024-09-04 |
+| `title-17-part-0180` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 180 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0190` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 190 | 3 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0200` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 200 | 28 | 2017-02-14 to 2026-10-08 |
+| `title-17-part-0201` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 201 | 10 | 2017-02-14 to 2026-07-26 |
+| `title-17-part-0202` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 202 | 7 | 2017-02-14 to 2026-05-21 |
+| `title-17-part-0203` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 203 | 2 | 2017-02-14 to 2026-07-26 |
+| `title-17-part-0204` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 204 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0205` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 205 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0209` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 209 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0210` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 210 | 18 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0227` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 227 | 8 | 2017-02-14 to 2023-03-01 |
+| `title-17-part-0229` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 229 | 32 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0230` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 230 | 45 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0232` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 232 | 34 | 2017-02-14 to 2026-10-06 |
+| `title-17-part-0239` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 239 | 11 | 2017-02-14 to 2025-03-24 |
+| `title-17-part-0240` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 240 | 84 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0242` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 242 | 18 | 2017-02-14 to 2026-05-05 |
+| `title-17-part-0243` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 243 | 2 | 2017-02-14 to 2020-08-03 |
+| `title-17-part-0244` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 244 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0245` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 245 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0246` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 246 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0247` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 247 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0248` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 248 | 3 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0249` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 249 | 15 | 2017-02-14 to 2025-03-24 |
+| `title-17-part-0249b` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 249b | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0250` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 250 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0255` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 255 | 7 | 2017-02-14 to 2020-12-31 |
+| `title-17-part-0256` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 256 | 1 | 2026-10-01 to 2026-10-01 |
+| `title-17-part-0260` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 260 | 2 | 2017-02-14 to 2023-03-20 |
+| `title-17-part-0269` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 269 | 3 | 2017-02-14 to 2025-03-24 |
+| `title-17-part-0270` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 270 | 41 | 2017-02-14 to 2026-08-06 |
+| `title-17-part-0274` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 274 | 10 | 2017-02-14 to 2025-03-24 |
+| `title-17-part-0275` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 275 | 17 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0279` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 279 | 2 | 2017-02-14 to 2022-08-29 |
+| `title-17-part-0285` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 285 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0286` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 286 | 2 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0287` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 287 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0288` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 288 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0289` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 289 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0290` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 290 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0300` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 300 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0301` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 301 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0302` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 302 | 1 | 2020-10-30 to 2020-10-30 |
+| `title-17-part-0400` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 400 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0401` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 401 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0402` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 402 | 2 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0403` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 403 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0404` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 404 | 2 | 2017-02-14 to 2018-12-27 |
+| `title-17-part-0405` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 405 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0420` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 420 | 3 | 2017-02-14 to 2026-10-26 |
+| `title-17-part-0449` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 449 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-0450` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 450 | 1 | 2017-02-14 to 2017-02-14 |
+| `title-17-part-other` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part other | 2 | 2021-01-05 to 2023-03-13 |
 
-The build made 2040 commits:
+The build made 3002 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 476 | first version of an act |
-| 985 | one law on its in-force day |
-| 579 | changes no amendment note explains, credited to the publisher |
+| 592 | first version of an act |
+| 1609 | one law on its in-force day |
+| 801 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1203 laws in the record.
-- 2689 tags.
+- 1886 laws in the record.
+- 3987 tags.
 
 ## Dates
 
@@ -517,7 +633,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `19b044d03b1d1ead7c9df8126a18f94d3f502e9570586eda5204fb6f2e4ededd` (136248670 bytes).
+- Corpus: sha256 `0cf17e493acb62728e7f4d54ba1e23647669f03486bd27c8c9df85a323feb25a` (168815963 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -538,6 +654,7 @@ No second build of this corpus has been compared yet.
 - Source notes (CITA), editorial notes, effective-date notes and footnotes are left out of the text; they are annotations, not regulation text. Curly quotes are made straight and spacing is normalised.
 - Each title's first edition is the oldest version available, credited to the publisher; text before 2017 is not included.
 - Title 12: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
+- Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
 
 ## What AI did and did not do
 
