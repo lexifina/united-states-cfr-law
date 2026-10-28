@@ -6243,20 +6243,186 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-34-part-0692` | Title 34 of the Code of Federal Regulations (Education), Part 692 | 2 | 2021-02-03 to 2026-10-26 |
 | `title-34-part-0694` | Title 34 of the Code of Federal Regulations (Education), Part 694 | 1 | 2021-02-03 to 2021-02-03 |
 | `title-34-part-1200` | Title 34 of the Code of Federal Regulations (Education), Part 1200 | 1 | 2021-02-03 to 2021-02-03 |
+| `title-36-part-0001` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1 | 4 | 2019-05-10 to 2026-10-26 |
+| `title-36-part-0002` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 2 | 3 | 2019-05-10 to 2026-09-11 |
+| `title-36-part-0003` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 3 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0004` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 4 | 3 | 2019-05-10 to 2026-09-11 |
+| `title-36-part-0005` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 5 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0006` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 6 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0007` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 7 | 15 | 2019-05-10 to 2026-09-23 |
+| `title-36-part-0008` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 8 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0009` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 9 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0010` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 10 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0011` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 11 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0012` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 12 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0013` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 13 | 3 | 2019-05-10 to 2026-10-19 |
+| `title-36-part-0014` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 14 | 2 | 2019-05-10 to 2025-01-06 |
+| `title-36-part-0017` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 17 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0018` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 18 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0020` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 20 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0021` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 21 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0025` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 25 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0027` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 27 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0028` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 28 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0030` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 30 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0034` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 34 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0051` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 51 | 2 | 2019-05-10 to 2024-01-29 |
+| `title-36-part-0052` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 52 | 1 | 2025-03-21 to 2025-03-21 |
+| `title-36-part-0059` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 59 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0060` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 60 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0061` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 61 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0062` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 62 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0063` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 63 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0064` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 64 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0065` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 65 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0067` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 67 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0068` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 68 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0071` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 71 | 2 | 2019-05-10 to 2026-10-26 |
+| `title-36-part-0072` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 72 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0073` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 73 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0078` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 78 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0079` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 79 | 2 | 2019-05-10 to 2022-05-16 |
+| `title-36-part-0200` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 200 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0211` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 211 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0212` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 212 | 2 | 2019-05-10 to 2023-12-06 |
+| `title-36-part-0213` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 213 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0214` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 214 | 2 | 2019-05-10 to 2026-02-27 |
+| `title-36-part-0216` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 216 | 2 | 2019-05-10 to 2020-01-16 |
+| `title-36-part-0218` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 218 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0219` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 219 | 3 | 2019-05-10 to 2024-05-06 |
+| `title-36-part-0220` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 220 | 2 | 2019-05-10 to 2025-07-03 |
+| `title-36-part-0221` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 221 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0222` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 222 | 3 | 2019-05-10 to 2025-05-21 |
+| `title-36-part-0223` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 223 | 2 | 2019-05-10 to 2026-10-26 |
+| `title-36-part-0228` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 228 | 4 | 2019-05-10 to 2026-10-26 |
+| `title-36-part-0230` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 230 | 2 | 2019-05-10 to 2021-05-03 |
+| `title-36-part-0241` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 241 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0242` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 242 | 4 | 2019-05-10 to 2025-07-18 |
+| `title-36-part-0251` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 251 | 6 | 2019-05-10 to 2026-04-24 |
+| `title-36-part-0254` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 254 | 3 | 2019-05-10 to 2020-10-29 |
+| `title-36-part-0261` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 261 | 5 | 2019-05-10 to 2026-10-26 |
+| `title-36-part-0262` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 262 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0264` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 264 | 2 | 2019-05-10 to 2026-10-26 |
+| `title-36-part-0271` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 271 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0272` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 272 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0290` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 290 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0291` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 291 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0292` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 292 | 2 | 2019-05-10 to 2026-10-26 |
+| `title-36-part-0293` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 293 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0294` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 294 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0296` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 296 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0297` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 297 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0312` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 312 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0327` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 327 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0328` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 328 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0330` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 330 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0331` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 331 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0400` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 400 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0401` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 401 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0404` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 404 | 2 | 2019-05-10 to 2020-05-18 |
+| `title-36-part-0406` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 406 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0407` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 407 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0504` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 504 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0520` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 520 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0530` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 530 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0701` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 701 | 2 | 2019-05-10 to 2021-02-12 |
+| `title-36-part-0702` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 702 | 2 | 2019-05-10 to 2026-03-19 |
+| `title-36-part-0703` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 703 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0704` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 704 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0705` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 705 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0800` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 800 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0801` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 801 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0805` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 805 | 2 | 2019-05-10 to 2026-06-05 |
+| `title-36-part-0810` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 810 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0811` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 811 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0812` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 812 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0901` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 901 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0902` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 902 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0903` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 903 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0904` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 904 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0905` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 905 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0906` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 906 | 2 | 2019-05-10 to 2026-10-26 |
+| `title-36-part-0907` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 907 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0908` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 908 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0909` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 909 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-0910` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 910 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1001` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1001 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1002` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1002 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1004` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1004 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1005` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1005 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1007` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1007 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1008` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1008 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1009` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1009 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1010` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1010 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1011` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1011 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1012` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1012 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1120` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1120 | 2 | 2019-05-10 to 2026-09-23 |
+| `title-36-part-1121` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1121 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1150` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1150 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1151` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1151 | 2 | 2019-05-10 to 2022-11-18 |
+| `title-36-part-1154` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1154 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1190` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1190 | 1 | 2023-10-10 to 2023-10-10 |
+| `title-36-part-1191` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1191 | 2 | 2019-05-10 to 2026-10-26 |
+| `title-36-part-1192` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1192 | 2 | 2019-05-10 to 2026-10-26 |
+| `title-36-part-1194` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1194 | 2 | 2019-05-10 to 2026-10-26 |
+| `title-36-part-1195` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1195 | 2 | 2019-05-10 to 2024-09-23 |
+| `title-36-part-1200` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1200 | 2 | 2019-05-10 to 2026-10-26 |
+| `title-36-part-1201` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1201 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1202` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1202 | 2 | 2019-05-10 to 2024-04-17 |
+| `title-36-part-1206` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1206 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1208` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1208 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1211` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1211 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1212` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1212 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1213` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1213 | 2 | 2020-07-07 to 2022-05-11 |
+| `title-36-part-1220` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1220 | 2 | 2019-05-10 to 2023-01-11 |
+| `title-36-part-1222` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1222 | 2 | 2019-05-10 to 2023-01-11 |
+| `title-36-part-1223` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1223 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1224` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1224 | 2 | 2019-05-10 to 2023-06-05 |
+| `title-36-part-1225` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1225 | 3 | 2019-05-10 to 2024-07-30 |
+| `title-36-part-1226` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1226 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1227` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1227 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1228` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1228 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1229` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1229 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1230` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1230 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1231` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1231 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1232` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1232 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1233` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1233 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1234` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1234 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1235` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1235 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1236` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1236 | 3 | 2019-05-10 to 2024-08-28 |
+| `title-36-part-1237` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1237 | 2 | 2019-05-10 to 2024-05-28 |
+| `title-36-part-1238` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1238 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1239` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1239 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1250` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1250 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1251` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1251 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1252` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1252 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1253` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1253 | 2 | 2019-05-10 to 2020-06-15 |
+| `title-36-part-1254` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1254 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1256` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1256 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1258` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1258 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1260` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1260 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1270` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1270 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1275` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1275 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1280` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1280 | 3 | 2019-05-10 to 2023-10-10 |
+| `title-36-part-1281` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1281 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1284` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1284 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1290` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1290 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1501` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1501 | 1 | 2019-05-10 to 2019-05-10 |
+| `title-36-part-1600` | Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1600 | 1 | 2019-05-10 to 2019-05-10 |
 
-The build made 24345 commits:
+The build made 24598 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 6227 | first version of an act |
-| 12548 | one law on its in-force day |
-| 5570 | changes no amendment note explains, credited to the publisher |
+| 6393 | first version of an act |
+| 12607 | one law on its in-force day |
+| 5598 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 14998 laws in the record.
-- 31717 tags.
+- 15095 laws in the record.
+- 32022 tags.
 
 ## Dates
 
@@ -6268,7 +6434,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `7259d302fd77f55b6dab133c12e04bc7d8752cba65ca5bd06887a17f69185b94` (1137620770 bytes).
+- Corpus: sha256 `717b4666d180d0c3c3bf680bf151fd23b50576e87521a7137f455a121eb12ad5` (1146377722 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -6324,6 +6490,7 @@ No second build of this corpus has been compared yet.
 - Title 32: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-29); 2019 annual edition (to 2019-04-24); 2020 annual edition (to 2020-02-24); 2021 annual edition (to 2021-03-23); 2022 annual edition (to 2021-11-03); 2023 annual edition (to 2023-04-21); 2024 annual edition (to 2024-05-24); 2025 annual edition (to 2025-01-17); eCFR (to 2026-10-26).
 - Title 33: editions read: eCFR (to 2026-10-26).
 - Title 34: editions read: 2021 annual edition (to 2021-02-03); 2023 annual edition (to 2023-01-30); 2025 annual edition (to 2025-02-18); eCFR (to 2026-10-26).
+- Title 36: editions read: 2019 annual edition (to 2019-05-10); eCFR (to 2026-10-26).
 
 ## What AI did and did not do
 

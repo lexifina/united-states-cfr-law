@@ -168520,6 +168520,2816 @@
      "sha256": "abda8eb3f91af35d1a79cb2adb4a2bbe09dbf95dda199ce9b3d0f9fe5e27cf76"
     }
    ]
+  },
+  {
+   "slug": "title-36-part-0001",
+   "short": "36 CFR Part 1",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1",
+   "url": "https://www.ecfr.gov/current/title-36/part-1",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2025-01-06",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2026-09-11",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0002",
+   "short": "36 CFR Part 2",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 2",
+   "url": "https://www.ecfr.gov/current/title-36/part-2",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2022-09-01",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2026-09-11",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0003",
+   "short": "36 CFR Part 3",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 3",
+   "url": "https://www.ecfr.gov/current/title-36/part-3",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0004",
+   "short": "36 CFR Part 4",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 4",
+   "url": "https://www.ecfr.gov/current/title-36/part-4",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2020-12-02",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2026-09-11",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0005",
+   "short": "36 CFR Part 5",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 5",
+   "url": "https://www.ecfr.gov/current/title-36/part-5",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0006",
+   "short": "36 CFR Part 6",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 6",
+   "url": "https://www.ecfr.gov/current/title-36/part-6",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0007",
+   "short": "36 CFR Part 7",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 7",
+   "url": "https://www.ecfr.gov/current/title-36/part-7",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 98,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2019-08-19",
+     "units": 98,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2019-12-23",
+     "units": 98,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2022-01-14",
+     "units": 98,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2022-03-03",
+     "units": 98,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2022-03-21",
+     "units": 98,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2023-02-21",
+     "units": 98,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2024-01-11",
+     "units": 98,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2024-07-05",
+     "units": 98,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2025-01-22",
+     "units": 98,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2025-06-17",
+     "units": 98,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2026-03-11",
+     "units": 98,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2026-03-18",
+     "units": 98,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2026-04-02",
+     "units": 98,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2026-09-23",
+     "units": 98,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0008",
+   "short": "36 CFR Part 8",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 8",
+   "url": "https://www.ecfr.gov/current/title-36/part-8",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0009",
+   "short": "36 CFR Part 9",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 9",
+   "url": "https://www.ecfr.gov/current/title-36/part-9",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 97,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0010",
+   "short": "36 CFR Part 10",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 10",
+   "url": "https://www.ecfr.gov/current/title-36/part-10",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0011",
+   "short": "36 CFR Part 11",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 11",
+   "url": "https://www.ecfr.gov/current/title-36/part-11",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0012",
+   "short": "36 CFR Part 12",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 12",
+   "url": "https://www.ecfr.gov/current/title-36/part-12",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0013",
+   "short": "36 CFR Part 13",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 13",
+   "url": "https://www.ecfr.gov/current/title-36/part-13",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 194,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2020-12-16",
+     "units": 194,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2026-10-19",
+     "units": 194,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0014",
+   "short": "36 CFR Part 14",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 14",
+   "url": "https://www.ecfr.gov/current/title-36/part-14",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2025-01-06",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0017",
+   "short": "36 CFR Part 17",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 17",
+   "url": "https://www.ecfr.gov/current/title-36/part-17",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0018",
+   "short": "36 CFR Part 18",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 18",
+   "url": "https://www.ecfr.gov/current/title-36/part-18",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0020",
+   "short": "36 CFR Part 20",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 20",
+   "url": "https://www.ecfr.gov/current/title-36/part-20",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0021",
+   "short": "36 CFR Part 21",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 21",
+   "url": "https://www.ecfr.gov/current/title-36/part-21",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0025",
+   "short": "36 CFR Part 25",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 25",
+   "url": "https://www.ecfr.gov/current/title-36/part-25",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0027",
+   "short": "36 CFR Part 27",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 27",
+   "url": "https://www.ecfr.gov/current/title-36/part-27",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0028",
+   "short": "36 CFR Part 28",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 28",
+   "url": "https://www.ecfr.gov/current/title-36/part-28",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0030",
+   "short": "36 CFR Part 30",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 30",
+   "url": "https://www.ecfr.gov/current/title-36/part-30",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0034",
+   "short": "36 CFR Part 34",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 34",
+   "url": "https://www.ecfr.gov/current/title-36/part-34",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0051",
+   "short": "36 CFR Part 51",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 51",
+   "url": "https://www.ecfr.gov/current/title-36/part-51",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2024-01-29",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0052",
+   "short": "36 CFR Part 52",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 52",
+   "url": "https://www.ecfr.gov/current/title-36/part-52",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0059",
+   "short": "36 CFR Part 59",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 59",
+   "url": "https://www.ecfr.gov/current/title-36/part-59",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0060",
+   "short": "36 CFR Part 60",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 60",
+   "url": "https://www.ecfr.gov/current/title-36/part-60",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0061",
+   "short": "36 CFR Part 61",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 61",
+   "url": "https://www.ecfr.gov/current/title-36/part-61",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0062",
+   "short": "36 CFR Part 62",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 62",
+   "url": "https://www.ecfr.gov/current/title-36/part-62",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0063",
+   "short": "36 CFR Part 63",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 63",
+   "url": "https://www.ecfr.gov/current/title-36/part-63",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0064",
+   "short": "36 CFR Part 64",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 64",
+   "url": "https://www.ecfr.gov/current/title-36/part-64",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0065",
+   "short": "36 CFR Part 65",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 65",
+   "url": "https://www.ecfr.gov/current/title-36/part-65",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0067",
+   "short": "36 CFR Part 67",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 67",
+   "url": "https://www.ecfr.gov/current/title-36/part-67",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0068",
+   "short": "36 CFR Part 68",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 68",
+   "url": "https://www.ecfr.gov/current/title-36/part-68",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0071",
+   "short": "36 CFR Part 71",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 71",
+   "url": "https://www.ecfr.gov/current/title-36/part-71",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0072",
+   "short": "36 CFR Part 72",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 72",
+   "url": "https://www.ecfr.gov/current/title-36/part-72",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 52,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0073",
+   "short": "36 CFR Part 73",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 73",
+   "url": "https://www.ecfr.gov/current/title-36/part-73",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0078",
+   "short": "36 CFR Part 78",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 78",
+   "url": "https://www.ecfr.gov/current/title-36/part-78",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0079",
+   "short": "36 CFR Part 79",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 79",
+   "url": "https://www.ecfr.gov/current/title-36/part-79",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2022-05-16",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0200",
+   "short": "36 CFR Part 200",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 200",
+   "url": "https://www.ecfr.gov/current/title-36/part-200",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0211",
+   "short": "36 CFR Part 211",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 211",
+   "url": "https://www.ecfr.gov/current/title-36/part-211",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0212",
+   "short": "36 CFR Part 212",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 212",
+   "url": "https://www.ecfr.gov/current/title-36/part-212",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2023-12-06",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0213",
+   "short": "36 CFR Part 213",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 213",
+   "url": "https://www.ecfr.gov/current/title-36/part-213",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0214",
+   "short": "36 CFR Part 214",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 214",
+   "url": "https://www.ecfr.gov/current/title-36/part-214",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2026-02-27",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0216",
+   "short": "36 CFR Part 216",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 216",
+   "url": "https://www.ecfr.gov/current/title-36/part-216",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2020-01-16",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0218",
+   "short": "36 CFR Part 218",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 218",
+   "url": "https://www.ecfr.gov/current/title-36/part-218",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0219",
+   "short": "36 CFR Part 219",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 219",
+   "url": "https://www.ecfr.gov/current/title-36/part-219",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2021-12-01",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2024-05-06",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0220",
+   "short": "36 CFR Part 220",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 220",
+   "url": "https://www.ecfr.gov/current/title-36/part-220",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0221",
+   "short": "36 CFR Part 221",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 221",
+   "url": "https://www.ecfr.gov/current/title-36/part-221",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0222",
+   "short": "36 CFR Part 222",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 222",
+   "url": "https://www.ecfr.gov/current/title-36/part-222",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2022-08-08",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2025-05-21",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0223",
+   "short": "36 CFR Part 223",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 223",
+   "url": "https://www.ecfr.gov/current/title-36/part-223",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 152,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 116,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0228",
+   "short": "36 CFR Part 228",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 228",
+   "url": "https://www.ecfr.gov/current/title-36/part-228",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 62,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 62,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2026-02-27",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0230",
+   "short": "36 CFR Part 230",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 230",
+   "url": "https://www.ecfr.gov/current/title-36/part-230",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2021-05-03",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0241",
+   "short": "36 CFR Part 241",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 241",
+   "url": "https://www.ecfr.gov/current/title-36/part-241",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0242",
+   "short": "36 CFR Part 242",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 242",
+   "url": "https://www.ecfr.gov/current/title-36/part-242",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2024-04-03",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2024-08-29",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2025-07-18",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0251",
+   "short": "36 CFR Part 251",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 251",
+   "url": "https://www.ecfr.gov/current/title-36/part-251",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2023-12-06",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2024-10-09",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2025-07-07",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2026-03-19",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2026-04-24",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0254",
+   "short": "36 CFR Part 254",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 254",
+   "url": "https://www.ecfr.gov/current/title-36/part-254",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2020-02-13",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2020-10-29",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0261",
+   "short": "36 CFR Part 261",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 261",
+   "url": "https://www.ecfr.gov/current/title-36/part-261",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2023-12-07",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2024-12-26",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2026-02-27",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0262",
+   "short": "36 CFR Part 262",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 262",
+   "url": "https://www.ecfr.gov/current/title-36/part-262",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0264",
+   "short": "36 CFR Part 264",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 264",
+   "url": "https://www.ecfr.gov/current/title-36/part-264",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0271",
+   "short": "36 CFR Part 271",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 271",
+   "url": "https://www.ecfr.gov/current/title-36/part-271",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0272",
+   "short": "36 CFR Part 272",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 272",
+   "url": "https://www.ecfr.gov/current/title-36/part-272",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0290",
+   "short": "36 CFR Part 290",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 290",
+   "url": "https://www.ecfr.gov/current/title-36/part-290",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0291",
+   "short": "36 CFR Part 291",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 291",
+   "url": "https://www.ecfr.gov/current/title-36/part-291",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0292",
+   "short": "36 CFR Part 292",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 292",
+   "url": "https://www.ecfr.gov/current/title-36/part-292",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0293",
+   "short": "36 CFR Part 293",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 293",
+   "url": "https://www.ecfr.gov/current/title-36/part-293",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0294",
+   "short": "36 CFR Part 294",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 294",
+   "url": "https://www.ecfr.gov/current/title-36/part-294",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0296",
+   "short": "36 CFR Part 296",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 296",
+   "url": "https://www.ecfr.gov/current/title-36/part-296",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0297",
+   "short": "36 CFR Part 297",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 297",
+   "url": "https://www.ecfr.gov/current/title-36/part-297",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0312",
+   "short": "36 CFR Part 312",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 312",
+   "url": "https://www.ecfr.gov/current/title-36/part-312",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0327",
+   "short": "36 CFR Part 327",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 327",
+   "url": "https://www.ecfr.gov/current/title-36/part-327",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0328",
+   "short": "36 CFR Part 328",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 328",
+   "url": "https://www.ecfr.gov/current/title-36/part-328",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0330",
+   "short": "36 CFR Part 330",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 330",
+   "url": "https://www.ecfr.gov/current/title-36/part-330",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0331",
+   "short": "36 CFR Part 331",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 331",
+   "url": "https://www.ecfr.gov/current/title-36/part-331",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0400",
+   "short": "36 CFR Part 400",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 400",
+   "url": "https://www.ecfr.gov/current/title-36/part-400",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0401",
+   "short": "36 CFR Part 401",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 401",
+   "url": "https://www.ecfr.gov/current/title-36/part-401",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0404",
+   "short": "36 CFR Part 404",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 404",
+   "url": "https://www.ecfr.gov/current/title-36/part-404",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2020-05-18",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0406",
+   "short": "36 CFR Part 406",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 406",
+   "url": "https://www.ecfr.gov/current/title-36/part-406",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0407",
+   "short": "36 CFR Part 407",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 407",
+   "url": "https://www.ecfr.gov/current/title-36/part-407",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0504",
+   "short": "36 CFR Part 504",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 504",
+   "url": "https://www.ecfr.gov/current/title-36/part-504",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0520",
+   "short": "36 CFR Part 520",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 520",
+   "url": "https://www.ecfr.gov/current/title-36/part-520",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0530",
+   "short": "36 CFR Part 530",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 530",
+   "url": "https://www.ecfr.gov/current/title-36/part-530",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0701",
+   "short": "36 CFR Part 701",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 701",
+   "url": "https://www.ecfr.gov/current/title-36/part-701",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2021-02-12",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0702",
+   "short": "36 CFR Part 702",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 702",
+   "url": "https://www.ecfr.gov/current/title-36/part-702",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2026-03-19",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0703",
+   "short": "36 CFR Part 703",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 703",
+   "url": "https://www.ecfr.gov/current/title-36/part-703",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0704",
+   "short": "36 CFR Part 704",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 704",
+   "url": "https://www.ecfr.gov/current/title-36/part-704",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0705",
+   "short": "36 CFR Part 705",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 705",
+   "url": "https://www.ecfr.gov/current/title-36/part-705",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0800",
+   "short": "36 CFR Part 800",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 800",
+   "url": "https://www.ecfr.gov/current/title-36/part-800",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0801",
+   "short": "36 CFR Part 801",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 801",
+   "url": "https://www.ecfr.gov/current/title-36/part-801",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0805",
+   "short": "36 CFR Part 805",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 805",
+   "url": "https://www.ecfr.gov/current/title-36/part-805",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2026-06-05",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0810",
+   "short": "36 CFR Part 810",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 810",
+   "url": "https://www.ecfr.gov/current/title-36/part-810",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0811",
+   "short": "36 CFR Part 811",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 811",
+   "url": "https://www.ecfr.gov/current/title-36/part-811",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0812",
+   "short": "36 CFR Part 812",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 812",
+   "url": "https://www.ecfr.gov/current/title-36/part-812",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0901",
+   "short": "36 CFR Part 901",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 901",
+   "url": "https://www.ecfr.gov/current/title-36/part-901",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0902",
+   "short": "36 CFR Part 902",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 902",
+   "url": "https://www.ecfr.gov/current/title-36/part-902",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0903",
+   "short": "36 CFR Part 903",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 903",
+   "url": "https://www.ecfr.gov/current/title-36/part-903",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0904",
+   "short": "36 CFR Part 904",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 904",
+   "url": "https://www.ecfr.gov/current/title-36/part-904",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0905",
+   "short": "36 CFR Part 905",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 905",
+   "url": "https://www.ecfr.gov/current/title-36/part-905",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0906",
+   "short": "36 CFR Part 906",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 906",
+   "url": "https://www.ecfr.gov/current/title-36/part-906",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0907",
+   "short": "36 CFR Part 907",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 907",
+   "url": "https://www.ecfr.gov/current/title-36/part-907",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0908",
+   "short": "36 CFR Part 908",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 908",
+   "url": "https://www.ecfr.gov/current/title-36/part-908",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0909",
+   "short": "36 CFR Part 909",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 909",
+   "url": "https://www.ecfr.gov/current/title-36/part-909",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-0910",
+   "short": "36 CFR Part 910",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 910",
+   "url": "https://www.ecfr.gov/current/title-36/part-910",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1001",
+   "short": "36 CFR Part 1001",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1001",
+   "url": "https://www.ecfr.gov/current/title-36/part-1001",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1002",
+   "short": "36 CFR Part 1002",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1002",
+   "url": "https://www.ecfr.gov/current/title-36/part-1002",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1004",
+   "short": "36 CFR Part 1004",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1004",
+   "url": "https://www.ecfr.gov/current/title-36/part-1004",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1005",
+   "short": "36 CFR Part 1005",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1005",
+   "url": "https://www.ecfr.gov/current/title-36/part-1005",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1007",
+   "short": "36 CFR Part 1007",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1007",
+   "url": "https://www.ecfr.gov/current/title-36/part-1007",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1008",
+   "short": "36 CFR Part 1008",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1008",
+   "url": "https://www.ecfr.gov/current/title-36/part-1008",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1009",
+   "short": "36 CFR Part 1009",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1009",
+   "url": "https://www.ecfr.gov/current/title-36/part-1009",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1010",
+   "short": "36 CFR Part 1010",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1010",
+   "url": "https://www.ecfr.gov/current/title-36/part-1010",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1011",
+   "short": "36 CFR Part 1011",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1011",
+   "url": "https://www.ecfr.gov/current/title-36/part-1011",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1012",
+   "short": "36 CFR Part 1012",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1012",
+   "url": "https://www.ecfr.gov/current/title-36/part-1012",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1120",
+   "short": "36 CFR Part 1120",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1120",
+   "url": "https://www.ecfr.gov/current/title-36/part-1120",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2026-09-23",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1121",
+   "short": "36 CFR Part 1121",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1121",
+   "url": "https://www.ecfr.gov/current/title-36/part-1121",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1150",
+   "short": "36 CFR Part 1150",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1150",
+   "url": "https://www.ecfr.gov/current/title-36/part-1150",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1151",
+   "short": "36 CFR Part 1151",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1151",
+   "url": "https://www.ecfr.gov/current/title-36/part-1151",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2022-11-18",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1154",
+   "short": "36 CFR Part 1154",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1154",
+   "url": "https://www.ecfr.gov/current/title-36/part-1154",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1190",
+   "short": "36 CFR Part 1190",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1190",
+   "url": "https://www.ecfr.gov/current/title-36/part-1190",
+   "versions": [
+    {
+     "from": "2023-10-10",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1191",
+   "short": "36 CFR Part 1191",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1191",
+   "url": "https://www.ecfr.gov/current/title-36/part-1191",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1192",
+   "short": "36 CFR Part 1192",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1192",
+   "url": "https://www.ecfr.gov/current/title-36/part-1192",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 46,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1194",
+   "short": "36 CFR Part 1194",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1194",
+   "url": "https://www.ecfr.gov/current/title-36/part-1194",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1195",
+   "short": "36 CFR Part 1195",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1195",
+   "url": "https://www.ecfr.gov/current/title-36/part-1195",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2024-09-23",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1200",
+   "short": "36 CFR Part 1200",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1200",
+   "url": "https://www.ecfr.gov/current/title-36/part-1200",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1201",
+   "short": "36 CFR Part 1201",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1201",
+   "url": "https://www.ecfr.gov/current/title-36/part-1201",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1202",
+   "short": "36 CFR Part 1202",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1202",
+   "url": "https://www.ecfr.gov/current/title-36/part-1202",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2024-04-17",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1206",
+   "short": "36 CFR Part 1206",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1206",
+   "url": "https://www.ecfr.gov/current/title-36/part-1206",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1208",
+   "short": "36 CFR Part 1208",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1208",
+   "url": "https://www.ecfr.gov/current/title-36/part-1208",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1211",
+   "short": "36 CFR Part 1211",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1211",
+   "url": "https://www.ecfr.gov/current/title-36/part-1211",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1212",
+   "short": "36 CFR Part 1212",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1212",
+   "url": "https://www.ecfr.gov/current/title-36/part-1212",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1213",
+   "short": "36 CFR Part 1213",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1213",
+   "url": "https://www.ecfr.gov/current/title-36/part-1213",
+   "versions": [
+    {
+     "from": "2020-07-07",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2022-05-11",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1220",
+   "short": "36 CFR Part 1220",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1220",
+   "url": "https://www.ecfr.gov/current/title-36/part-1220",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2023-01-11",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1222",
+   "short": "36 CFR Part 1222",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1222",
+   "url": "https://www.ecfr.gov/current/title-36/part-1222",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2023-01-11",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1223",
+   "short": "36 CFR Part 1223",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1223",
+   "url": "https://www.ecfr.gov/current/title-36/part-1223",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1224",
+   "short": "36 CFR Part 1224",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1224",
+   "url": "https://www.ecfr.gov/current/title-36/part-1224",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2023-06-05",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1225",
+   "short": "36 CFR Part 1225",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1225",
+   "url": "https://www.ecfr.gov/current/title-36/part-1225",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2023-06-05",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2024-07-30",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1226",
+   "short": "36 CFR Part 1226",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1226",
+   "url": "https://www.ecfr.gov/current/title-36/part-1226",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1227",
+   "short": "36 CFR Part 1227",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1227",
+   "url": "https://www.ecfr.gov/current/title-36/part-1227",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1228",
+   "short": "36 CFR Part 1228",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1228",
+   "url": "https://www.ecfr.gov/current/title-36/part-1228",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1229",
+   "short": "36 CFR Part 1229",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1229",
+   "url": "https://www.ecfr.gov/current/title-36/part-1229",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1230",
+   "short": "36 CFR Part 1230",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1230",
+   "url": "https://www.ecfr.gov/current/title-36/part-1230",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1231",
+   "short": "36 CFR Part 1231",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1231",
+   "url": "https://www.ecfr.gov/current/title-36/part-1231",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1232",
+   "short": "36 CFR Part 1232",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1232",
+   "url": "https://www.ecfr.gov/current/title-36/part-1232",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1233",
+   "short": "36 CFR Part 1233",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1233",
+   "url": "https://www.ecfr.gov/current/title-36/part-1233",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1234",
+   "short": "36 CFR Part 1234",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1234",
+   "url": "https://www.ecfr.gov/current/title-36/part-1234",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1235",
+   "short": "36 CFR Part 1235",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1235",
+   "url": "https://www.ecfr.gov/current/title-36/part-1235",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1236",
+   "short": "36 CFR Part 1236",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1236",
+   "url": "https://www.ecfr.gov/current/title-36/part-1236",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2023-06-05",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2024-08-28",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1237",
+   "short": "36 CFR Part 1237",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1237",
+   "url": "https://www.ecfr.gov/current/title-36/part-1237",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2024-05-28",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1238",
+   "short": "36 CFR Part 1238",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1238",
+   "url": "https://www.ecfr.gov/current/title-36/part-1238",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1239",
+   "short": "36 CFR Part 1239",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1239",
+   "url": "https://www.ecfr.gov/current/title-36/part-1239",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1250",
+   "short": "36 CFR Part 1250",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1250",
+   "url": "https://www.ecfr.gov/current/title-36/part-1250",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1251",
+   "short": "36 CFR Part 1251",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1251",
+   "url": "https://www.ecfr.gov/current/title-36/part-1251",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1252",
+   "short": "36 CFR Part 1252",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1252",
+   "url": "https://www.ecfr.gov/current/title-36/part-1252",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1253",
+   "short": "36 CFR Part 1253",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1253",
+   "url": "https://www.ecfr.gov/current/title-36/part-1253",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2020-06-15",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1254",
+   "short": "36 CFR Part 1254",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1254",
+   "url": "https://www.ecfr.gov/current/title-36/part-1254",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1256",
+   "short": "36 CFR Part 1256",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1256",
+   "url": "https://www.ecfr.gov/current/title-36/part-1256",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1258",
+   "short": "36 CFR Part 1258",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1258",
+   "url": "https://www.ecfr.gov/current/title-36/part-1258",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1260",
+   "short": "36 CFR Part 1260",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1260",
+   "url": "https://www.ecfr.gov/current/title-36/part-1260",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1270",
+   "short": "36 CFR Part 1270",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1270",
+   "url": "https://www.ecfr.gov/current/title-36/part-1270",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1275",
+   "short": "36 CFR Part 1275",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1275",
+   "url": "https://www.ecfr.gov/current/title-36/part-1275",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1280",
+   "short": "36 CFR Part 1280",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1280",
+   "url": "https://www.ecfr.gov/current/title-36/part-1280",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    },
+    {
+     "from": "2020-06-15",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    },
+    {
+     "from": "2023-10-10",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-36/ECFR-title36.xml",
+     "sha256": "9f40361bb454e08f2815d4628ccf7372402f3d896aed6d86e1823daaab4882b4"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1281",
+   "short": "36 CFR Part 1281",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1281",
+   "url": "https://www.ecfr.gov/current/title-36/part-1281",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1284",
+   "short": "36 CFR Part 1284",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1284",
+   "url": "https://www.ecfr.gov/current/title-36/part-1284",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1290",
+   "short": "36 CFR Part 1290",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1290",
+   "url": "https://www.ecfr.gov/current/title-36/part-1290",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1501",
+   "short": "36 CFR Part 1501",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1501",
+   "url": "https://www.ecfr.gov/current/title-36/part-1501",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-part-1600",
+   "short": "36 CFR Part 1600",
+   "title": "Title 36 of the Code of Federal Regulations (Parks, Forests, and Public Property), Part 1600",
+   "url": "https://www.ecfr.gov/current/title-36/part-1600",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-36/CFR-2019-title-36.zip",
+     "sha256": "36dc8a0684c1ef70cef5b5e3e924e883e6ae4162c44263f7bab278e05deaa5b2"
+    }
+   ]
   }
  ]
 }
