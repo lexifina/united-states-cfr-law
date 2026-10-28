@@ -6627,20 +6627,222 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-39-part-3055` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3055 | 1 | 2026-10-26 to 2026-10-26 |
 | `title-39-part-3060` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3060 | 1 | 2026-10-26 to 2026-10-26 |
 | `title-39-part-3065` | Title 39 of the Code of Federal Regulations (Postal Service), Part 3065 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-41-part-0050-0201` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 50-201 | 6 | 2018-02-12 to 2025-01-15 |
+| `title-41-part-0050-0202` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 50-202 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0050-0203` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 50-203 | 2 | 2018-02-12 to 2020-03-04 |
+| `title-41-part-0050-0204` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 50-204 | 2 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0050-0205` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 50-205 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0050-0210` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 50-210 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0051-0001` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-1 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0051-0002` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-2 | 2 | 2018-02-12 to 2024-04-22 |
+| `title-41-part-0051-0003` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-3 | 2 | 2018-02-12 to 2024-04-22 |
+| `title-41-part-0051-0004` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-4 | 2 | 2018-02-12 to 2022-10-19 |
+| `title-41-part-0051-0005` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-5 | 2 | 2018-02-12 to 2024-04-22 |
+| `title-41-part-0051-0006` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-6 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0051-0007` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-7 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0051-0008` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-8 | 2 | 2018-02-12 to 2020-07-31 |
+| `title-41-part-0051-0009` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-9 | 2 | 2018-02-12 to 2024-11-18 |
+| `title-41-part-0051-0010` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-10 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0051-0011` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-11 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0060` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60 | 4 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0060-0001` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-1 | 6 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0060-0002` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-2 | 4 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0060-0003` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-3 | 2 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0060-0004` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-4 | 3 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0060-0020` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-20 | 3 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0060-0030` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-30 | 5 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0060-0040` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-40 | 3 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0060-0050` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-50 | 3 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0060-0300` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-300 | 4 | 2018-02-12 to 2026-09-21 |
+| `title-41-part-0060-0741` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-741 | 4 | 2018-02-12 to 2026-09-22 |
+| `title-41-part-0060-0742` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-742 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0060-0999` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-999 | 2 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0061-0300` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 61-300 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0001` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-1 | 2 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0101-0003` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-3 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0004` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-4 | 2 | 2018-02-12 to 2026-09-14 |
+| `title-41-part-0101-0005` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-5 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0006` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-6 | 3 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0101-0008` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-8 | 3 | 2018-02-12 to 2026-09-14 |
+| `title-41-part-0101-0009` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-9 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0011` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-11 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0017` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-17 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0018` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-18 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0019` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-19 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0020` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-20 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0021` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-21 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0025` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-25 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0026` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-26 | 2 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0101-0027` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-27 | 2 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0101-0028` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-28 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0029` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-29 | 2 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0101-0030` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-30 | 2 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0101-0031` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-31 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0033` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-33 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0037` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-37 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0038` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-38 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0039` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-39 | 2 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0101-0040` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-40 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0041` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-41 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0042` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-42 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0043` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-43 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0044` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-44 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0045` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-45 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0046` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-46 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0047` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-47 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0048` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-48 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0101-0049` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-49 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0102` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102 | 5 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0102-0002` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-2 | 2 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0102-0003` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-3 | 3 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0005` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-5 | 3 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0033` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-33 | 2 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0034` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-34 | 2 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0035` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-35 | 3 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0036` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-36 | 3 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0037` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-37 | 3 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0102-0038` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-38 | 3 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0039` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-39 | 4 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0040` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-40 | 3 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0041` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-41 | 3 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0042` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-42 | 3 | 2018-02-12 to 2025-12-18 |
+| `title-41-part-0102-0071` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-71 | 2 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0072` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-72 | 2 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0073` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-73 | 4 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0074` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-74 | 5 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0102-0075` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-75 | 3 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0076` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-76 | 3 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0077` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-77 | 4 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0078` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-78 | 2 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0079` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-79 | 2 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0080` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-80 | 2 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0081` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-81 | 3 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0082` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-82 | 3 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0083` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-83 | 3 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0084` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-84 | 2 | 2018-02-12 to 2018-10-22 |
+| `title-41-part-0102-0085` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-85 | 2 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0117` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-117 | 4 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0118` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-118 | 4 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0173` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-173 | 2 | 2018-02-12 to 2022-01-10 |
+| `title-41-part-0102-0192` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-192 | 2 | 2018-02-12 to 2025-12-16 |
+| `title-41-part-0102-0193` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-193 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0102-0194` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-194 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0105` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105 | 5 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0105-0001` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-1 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0105-0008` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-8 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0105-0009` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-9 | 1 | 2026-07-30 to 2026-07-30 |
+| `title-41-part-0105-0010` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-10 | 1 | 2026-09-14 to 2026-09-14 |
+| `title-41-part-0105-0050` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-50 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0105-0051` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-51 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0105-0053` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-53 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0105-0054` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-54 | 2 | 2018-02-12 to 2023-03-31 |
+| `title-41-part-0105-0055` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-55 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0105-0056` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-56 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0105-0057` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-57 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0105-0060` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-60 | 3 | 2018-02-12 to 2020-08-24 |
+| `title-41-part-0105-0062` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-62 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0105-0064` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-64 | 2 | 2018-02-12 to 2023-03-31 |
+| `title-41-part-0105-0067` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-67 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0105-0068` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-68 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0105-0069` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-69 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0105-0070` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-70 | 7 | 2018-02-12 to 2025-01-21 |
+| `title-41-part-0105-0071` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-71 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0105-0072` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-72 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0105-0074` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-74 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0109-0001` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-1 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0109-0006` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-6 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0109-0025` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-25 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0109-0026` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-26 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0109-0027` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-27 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0109-0028` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-28 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0109-0030` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-30 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0109-0038` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-38 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0109-0039` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-39 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0109-0040` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-40 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0109-0042` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-42 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0109-0043` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-43 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0109-0044` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-44 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0109-0045` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-45 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0109-0046` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-46 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0109-0048` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-48 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0109-0050` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-50 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0114-0051` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 114-51 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0115-0001` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 115-1 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0128-0001` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 128-1 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0128-0018` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 128-18 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0128-0048` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 128-48 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0128-0050` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 128-50 | 1 | 2018-02-12 to 2018-02-12 |
+| `title-41-part-0201-0001` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 201-1 | 5 | 2021-09-27 to 2026-10-26 |
+| `title-41-part-0300-0001` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 300-1 | 2 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0300-0002` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 300-2 | 3 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0300-0003` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 300-3 | 8 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0300-0070` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 300-70 | 4 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0300-0080` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 300-80 | 3 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0300-0090` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 300-90 | 3 | 2018-02-12 to 2021-11-03 |
+| `title-41-part-0301` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-41-part-0301-0001` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-1 | 2 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0301-0002` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-2 | 3 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0301-0010` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-10 | 9 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0301-0011` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-11 | 6 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0301-0012` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-12 | 2 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0301-0013` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-13 | 4 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0301-0030` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-30 | 2 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0301-0031` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-31 | 3 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0301-0050` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-50 | 5 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0301-0051` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-51 | 4 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0301-0052` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-52 | 4 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0301-0053` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-53 | 3 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0301-0054` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-54 | 2 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0301-0070` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-70 | 7 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0301-0071` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-71 | 5 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0301-0072` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-72 | 4 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0301-0073` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-73 | 4 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0301-0074` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-74 | 5 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0301-0075` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-75 | 4 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0301-0076` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-76 | 3 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0301-0080` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-80 | 1 | 2025-12-08 to 2025-12-08 |
+| `title-41-part-0302-0001` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-1 | 5 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0302-0002` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-2 | 6 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0302-0003` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-3 | 6 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0302-0004` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-4 | 6 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0302-0005` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-5 | 4 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0302-0006` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-6 | 4 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0302-0007` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-7 | 4 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0302-0008` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-8 | 4 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0302-0009` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-9 | 5 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0302-0010` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-10 | 2 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0302-0011` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-11 | 4 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0302-0012` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-12 | 5 | 2018-02-12 to 2026-10-26 |
+| `title-41-part-0302-0014` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-14 | 3 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0302-0015` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-15 | 5 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0302-0016` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-16 | 5 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0302-0017` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-17 | 7 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0302-0018` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-18 | 1 | 2025-12-08 to 2025-12-08 |
+| `title-41-part-0303-0070` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 303-70 | 3 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0304-0001` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-1 | 2 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0304-0002` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-2 | 5 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0304-0003` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-3 | 5 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0304-0004` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-4 | 2 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0304-0005` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-5 | 5 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0304-0006` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-6 | 4 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0304-0007` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-7 | 2 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0304-0008` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-8 | 2 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-0304-0009` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-9 | 2 | 2018-02-12 to 2025-12-08 |
+| `title-41-part-other` | Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part other | 8 | 2018-02-12 to 2026-10-26 |
 
-The build made 24845 commits:
+The build made 25312 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 6611 | first version of an act |
-| 12621 | one law on its in-force day |
-| 5613 | changes no amendment note explains, credited to the publisher |
+| 6813 | first version of an act |
+| 12712 | one law on its in-force day |
+| 5787 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 15109 laws in the record.
-- 32279 tags.
+- 15231 laws in the record.
+- 32871 tags.
 
 ## Dates
 
@@ -6652,7 +6854,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `1c9a7c4739393774f6d1624cad10b53744fa86510ce8db8b4ce8613a13e7986f` (1161175723 bytes).
+- Corpus: sha256 `ce7a0cfd5a9fdde1435e5bbd56e2535c328ad6bd1e41ab2e2329ba2fd0fb80a2` (1171943945 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -6712,6 +6914,7 @@ No second build of this corpus has been compared yet.
 - Title 37: editions read: eCFR (to 2026-10-26).
 - Title 38: editions read: 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 39: editions read: eCFR (to 2026-10-26).
+- Title 41: editions read: 2018 annual edition (to 2018-02-12); 2019 annual edition (to 2019-01-21); 2020 annual edition (to 2020-03-04); 2021 annual edition (to 2021-05-26); 2022 annual edition (to 2022-05-31); 2023 annual edition (to 2023-03-31); 2024 annual edition (to 2024-05-22); 2025 annual edition (to 2025-01-21); eCFR (to 2026-10-26).
 
 ## What AI did and did not do
 

@@ -174538,6 +174538,4646 @@
      "sha256": "79287ffe6b034aca17f52a54761e8cc7e5a4df1bbe332da0e3553dbacd015fed"
     }
    ]
+  },
+  {
+   "slug": "title-41-part-0050-0201",
+   "short": "41 CFR Part 50-201",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 50-201",
+   "url": "https://www.ecfr.gov/current/title-41/part-50-201",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2019-01-21",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-41/CFR-2019-title-41.zip",
+     "sha256": "057c7e610d41d0ac13c7b58aa7aa1671faf1fdd01ee623bfda82245a4d9ead31"
+    },
+    {
+     "from": "2022-01-18",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-41/CFR-2022-title-41.zip",
+     "sha256": "a178f9532b57868aec35aab87e30e4332437a618f8a4affc5fcec6bb13cd1785"
+    },
+    {
+     "from": "2023-01-17",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2024-01-15",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-01-15",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0050-0202",
+   "short": "41 CFR Part 50-202",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 50-202",
+   "url": "https://www.ecfr.gov/current/title-41/part-50-202",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0050-0203",
+   "short": "41 CFR Part 50-203",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 50-203",
+   "url": "https://www.ecfr.gov/current/title-41/part-50-203",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-03-04",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-41/CFR-2020-title-41.zip",
+     "sha256": "c6ae17c070c9649b93a2f08d5c2ffe0e2e45cb297a0f79122107e63c7f457abb"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0050-0204",
+   "short": "41 CFR Part 50-204",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 50-204",
+   "url": "https://www.ecfr.gov/current/title-41/part-50-204",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0050-0205",
+   "short": "41 CFR Part 50-205",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 50-205",
+   "url": "https://www.ecfr.gov/current/title-41/part-50-205",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0050-0210",
+   "short": "41 CFR Part 50-210",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 50-210",
+   "url": "https://www.ecfr.gov/current/title-41/part-50-210",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0051-0001",
+   "short": "41 CFR Part 51-1",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-1",
+   "url": "https://www.ecfr.gov/current/title-41/part-51-1",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0051-0002",
+   "short": "41 CFR Part 51-2",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-2",
+   "url": "https://www.ecfr.gov/current/title-41/part-51-2",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-04-22",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0051-0003",
+   "short": "41 CFR Part 51-3",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-3",
+   "url": "https://www.ecfr.gov/current/title-41/part-51-3",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-04-22",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0051-0004",
+   "short": "41 CFR Part 51-4",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-4",
+   "url": "https://www.ecfr.gov/current/title-41/part-51-4",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2022-10-19",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0051-0005",
+   "short": "41 CFR Part 51-5",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-5",
+   "url": "https://www.ecfr.gov/current/title-41/part-51-5",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-04-22",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0051-0006",
+   "short": "41 CFR Part 51-6",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-6",
+   "url": "https://www.ecfr.gov/current/title-41/part-51-6",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0051-0007",
+   "short": "41 CFR Part 51-7",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-7",
+   "url": "https://www.ecfr.gov/current/title-41/part-51-7",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0051-0008",
+   "short": "41 CFR Part 51-8",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-8",
+   "url": "https://www.ecfr.gov/current/title-41/part-51-8",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-07-31",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0051-0009",
+   "short": "41 CFR Part 51-9",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-9",
+   "url": "https://www.ecfr.gov/current/title-41/part-51-9",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-11-18",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0051-0010",
+   "short": "41 CFR Part 51-10",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-10",
+   "url": "https://www.ecfr.gov/current/title-41/part-51-10",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0051-0011",
+   "short": "41 CFR Part 51-11",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 51-11",
+   "url": "https://www.ecfr.gov/current/title-41/part-51-11",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0060",
+   "short": "41 CFR Part 60",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60",
+   "url": "https://www.ecfr.gov/current/title-41/part-60",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2024-05-22",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0060-0001",
+   "short": "41 CFR Part 60-1",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-1",
+   "url": "https://www.ecfr.gov/current/title-41/part-60-1",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-12-10",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2021-01-08",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2023-09-05",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0060-0002",
+   "short": "41 CFR Part 60-2",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-2",
+   "url": "https://www.ecfr.gov/current/title-41/part-60-2",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-12-10",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2023-09-05",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0060-0003",
+   "short": "41 CFR Part 60-3",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-3",
+   "url": "https://www.ecfr.gov/current/title-41/part-60-3",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0060-0004",
+   "short": "41 CFR Part 60-4",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-4",
+   "url": "https://www.ecfr.gov/current/title-41/part-60-4",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2023-09-05",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0060-0020",
+   "short": "41 CFR Part 60-20",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-20",
+   "url": "https://www.ecfr.gov/current/title-41/part-60-20",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2023-09-05",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0060-0030",
+   "short": "41 CFR Part 60-30",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-30",
+   "url": "https://www.ecfr.gov/current/title-41/part-60-30",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-03-04",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-41/CFR-2020-title-41.zip",
+     "sha256": "c6ae17c070c9649b93a2f08d5c2ffe0e2e45cb297a0f79122107e63c7f457abb"
+    },
+    {
+     "from": "2021-02-25",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2023-09-05",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0060-0040",
+   "short": "41 CFR Part 60-40",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-40",
+   "url": "https://www.ecfr.gov/current/title-41/part-60-40",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2023-09-05",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0060-0050",
+   "short": "41 CFR Part 60-50",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-50",
+   "url": "https://www.ecfr.gov/current/title-41/part-60-50",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2023-09-05",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0060-0300",
+   "short": "41 CFR Part 60-300",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-300",
+   "url": "https://www.ecfr.gov/current/title-41/part-60-300",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-12-10",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2023-09-05",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2026-09-21",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0060-0741",
+   "short": "41 CFR Part 60-741",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-741",
+   "url": "https://www.ecfr.gov/current/title-41/part-60-741",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-12-10",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2023-09-05",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2026-09-22",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0060-0742",
+   "short": "41 CFR Part 60-742",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-742",
+   "url": "https://www.ecfr.gov/current/title-41/part-60-742",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0060-0999",
+   "short": "41 CFR Part 60-999",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 60-999",
+   "url": "https://www.ecfr.gov/current/title-41/part-60-999",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0061-0300",
+   "short": "41 CFR Part 61-300",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 61-300",
+   "url": "https://www.ecfr.gov/current/title-41/part-61-300",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0001",
+   "short": "41 CFR Part 101-1",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-1",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-1",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0003",
+   "short": "41 CFR Part 101-3",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-3",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-3",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0004",
+   "short": "41 CFR Part 101-4",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-4",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-4",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2026-09-14",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0005",
+   "short": "41 CFR Part 101-5",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-5",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-5",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0006",
+   "short": "41 CFR Part 101-6",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-6",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-6",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 74,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2026-09-14",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0008",
+   "short": "41 CFR Part 101-8",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-8",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-8",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2026-07-30",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    },
+    {
+     "from": "2026-09-14",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0009",
+   "short": "41 CFR Part 101-9",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-9",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-9",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0011",
+   "short": "41 CFR Part 101-11",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-11",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-11",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0017",
+   "short": "41 CFR Part 101-17",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-17",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-17",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0018",
+   "short": "41 CFR Part 101-18",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-18",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-18",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0019",
+   "short": "41 CFR Part 101-19",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-19",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-19",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0020",
+   "short": "41 CFR Part 101-20",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-20",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-20",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0021",
+   "short": "41 CFR Part 101-21",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-21",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-21",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0025",
+   "short": "41 CFR Part 101-25",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-25",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-25",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0026",
+   "short": "41 CFR Part 101-26",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-26",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-26",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 115,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 115,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0027",
+   "short": "41 CFR Part 101-27",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-27",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-27",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0028",
+   "short": "41 CFR Part 101-28",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-28",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-28",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0029",
+   "short": "41 CFR Part 101-29",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-29",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-29",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0030",
+   "short": "41 CFR Part 101-30",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-30",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-30",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 76,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 76,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0031",
+   "short": "41 CFR Part 101-31",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-31",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-31",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0033",
+   "short": "41 CFR Part 101-33",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-33",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-33",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0037",
+   "short": "41 CFR Part 101-37",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-37",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-37",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0038",
+   "short": "41 CFR Part 101-38",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-38",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-38",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0039",
+   "short": "41 CFR Part 101-39",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-39",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-39",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0040",
+   "short": "41 CFR Part 101-40",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-40",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-40",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0041",
+   "short": "41 CFR Part 101-41",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-41",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-41",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0042",
+   "short": "41 CFR Part 101-42",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-42",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-42",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0043",
+   "short": "41 CFR Part 101-43",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-43",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-43",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0044",
+   "short": "41 CFR Part 101-44",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-44",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-44",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0045",
+   "short": "41 CFR Part 101-45",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-45",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-45",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0046",
+   "short": "41 CFR Part 101-46",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-46",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-46",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0047",
+   "short": "41 CFR Part 101-47",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-47",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-47",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0048",
+   "short": "41 CFR Part 101-48",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-48",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-48",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0101-0049",
+   "short": "41 CFR Part 101-49",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 101-49",
+   "url": "https://www.ecfr.gov/current/title-41/part-101-49",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102",
+   "short": "41 CFR Part 102",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102",
+   "url": "https://www.ecfr.gov/current/title-41/part-102",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2022-05-31",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-41/CFR-2022-title-41.zip",
+     "sha256": "a178f9532b57868aec35aab87e30e4332437a618f8a4affc5fcec6bb13cd1785"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2024-05-22",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0002",
+   "short": "41 CFR Part 102-2",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-2",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-2",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0003",
+   "short": "41 CFR Part 102-3",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-3",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-3",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-05-20",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0005",
+   "short": "41 CFR Part 102-5",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-5",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-5",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-10-21",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0033",
+   "short": "41 CFR Part 102-33",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-33",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-33",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 93,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0034",
+   "short": "41 CFR Part 102-34",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-34",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-34",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0035",
+   "short": "41 CFR Part 102-35",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-35",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-35",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2022-03-07",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-41/CFR-2022-title-41.zip",
+     "sha256": "a178f9532b57868aec35aab87e30e4332437a618f8a4affc5fcec6bb13cd1785"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0036",
+   "short": "41 CFR Part 102-36",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-36",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-36",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 95,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-10-21",
+     "units": 95,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0037",
+   "short": "41 CFR Part 102-37",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-37",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-37",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 118,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 91,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 90,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0038",
+   "short": "41 CFR Part 102-38",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-38",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-38",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 74,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-10-21",
+     "units": 74,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0039",
+   "short": "41 CFR Part 102-39",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-39",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-39",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2024-10-21",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0040",
+   "short": "41 CFR Part 102-40",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-40",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-40",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-10-21",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0041",
+   "short": "41 CFR Part 102-41",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-41",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-41",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-10-21",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0042",
+   "short": "41 CFR Part 102-42",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-42",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-42",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-10-21",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-18",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0071",
+   "short": "41 CFR Part 102-71",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-71",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-71",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0072",
+   "short": "41 CFR Part 102-72",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-72",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-72",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0073",
+   "short": "41 CFR Part 102-73",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-73",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-73",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 62,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2023-03-07",
+     "units": 62,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 69,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0074",
+   "short": "41 CFR Part 102-74",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-74",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-74",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 117,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2022-09-02",
+     "units": 117,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    },
+    {
+     "from": "2026-05-07",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0075",
+   "short": "41 CFR Part 102-75",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-75",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-75",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 271,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-12-13",
+     "units": 268,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0076",
+   "short": "41 CFR Part 102-76",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-76",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-76",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-09-03",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0077",
+   "short": "41 CFR Part 102-77",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-77",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-77",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-09-25",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2022-02-02",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-41/CFR-2022-title-41.zip",
+     "sha256": "a178f9532b57868aec35aab87e30e4332437a618f8a4affc5fcec6bb13cd1785"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0078",
+   "short": "41 CFR Part 102-78",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-78",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-78",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0079",
+   "short": "41 CFR Part 102-79",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-79",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-79",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0080",
+   "short": "41 CFR Part 102-80",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-80",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-80",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0081",
+   "short": "41 CFR Part 102-81",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-81",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-81",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2022-09-23",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0082",
+   "short": "41 CFR Part 102-82",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-82",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-82",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-03-04",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-41/CFR-2020-title-41.zip",
+     "sha256": "c6ae17c070c9649b93a2f08d5c2ffe0e2e45cb297a0f79122107e63c7f457abb"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0083",
+   "short": "41 CFR Part 102-83",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-83",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-83",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-05-22",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0084",
+   "short": "41 CFR Part 102-84",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-84",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-84",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2018-10-22",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-41/CFR-2019-title-41.zip",
+     "sha256": "057c7e610d41d0ac13c7b58aa7aa1671faf1fdd01ee623bfda82245a4d9ead31"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0085",
+   "short": "41 CFR Part 102-85",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-85",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-85",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0117",
+   "short": "41 CFR Part 102-117",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-117",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-117",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 83,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2022-08-29",
+     "units": 83,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2024-11-27",
+     "units": 83,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0118",
+   "short": "41 CFR Part 102-118",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-118",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-118",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 131,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2022-08-29",
+     "units": 131,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2024-12-26",
+     "units": 130,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 52,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0173",
+   "short": "41 CFR Part 102-173",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-173",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-173",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2022-01-10",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-41/CFR-2022-title-41.zip",
+     "sha256": "a178f9532b57868aec35aab87e30e4332437a618f8a4affc5fcec6bb13cd1785"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0192",
+   "short": "41 CFR Part 102-192",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-192",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-192",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-16",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0193",
+   "short": "41 CFR Part 102-193",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-193",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-193",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0102-0194",
+   "short": "41 CFR Part 102-194",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 102-194",
+   "url": "https://www.ecfr.gov/current/title-41/part-102-194",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105",
+   "short": "41 CFR Part 105",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105",
+   "url": "https://www.ecfr.gov/current/title-41/part-105",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-02-28",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-41/CFR-2020-title-41.zip",
+     "sha256": "c6ae17c070c9649b93a2f08d5c2ffe0e2e45cb297a0f79122107e63c7f457abb"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2024-05-22",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0001",
+   "short": "41 CFR Part 105-1",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-1",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-1",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0008",
+   "short": "41 CFR Part 105-8",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-8",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-8",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0009",
+   "short": "41 CFR Part 105-9",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-9",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-9",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0010",
+   "short": "41 CFR Part 105-10",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-10",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-10",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0050",
+   "short": "41 CFR Part 105-50",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-50",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-50",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0051",
+   "short": "41 CFR Part 105-51",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-51",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-51",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0053",
+   "short": "41 CFR Part 105-53",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-53",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-53",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0054",
+   "short": "41 CFR Part 105-54",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-54",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-54",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0055",
+   "short": "41 CFR Part 105-55",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-55",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-55",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0056",
+   "short": "41 CFR Part 105-56",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-56",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-56",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0057",
+   "short": "41 CFR Part 105-57",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-57",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-57",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0060",
+   "short": "41 CFR Part 105-60",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-60",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-60",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-02-28",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-41/CFR-2020-title-41.zip",
+     "sha256": "c6ae17c070c9649b93a2f08d5c2ffe0e2e45cb297a0f79122107e63c7f457abb"
+    },
+    {
+     "from": "2020-08-24",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0062",
+   "short": "41 CFR Part 105-62",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-62",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-62",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0064",
+   "short": "41 CFR Part 105-64",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-64",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-64",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0067",
+   "short": "41 CFR Part 105-67",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-67",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-67",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0068",
+   "short": "41 CFR Part 105-68",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-68",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-68",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 118,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0069",
+   "short": "41 CFR Part 105-69",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-69",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-69",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0070",
+   "short": "41 CFR Part 105-70",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-70",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-70",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2019-11-04",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-41/CFR-2020-title-41.zip",
+     "sha256": "c6ae17c070c9649b93a2f08d5c2ffe0e2e45cb297a0f79122107e63c7f457abb"
+    },
+    {
+     "from": "2021-05-26",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2022-02-14",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-41/CFR-2022-title-41.zip",
+     "sha256": "a178f9532b57868aec35aab87e30e4332437a618f8a4affc5fcec6bb13cd1785"
+    },
+    {
+     "from": "2023-01-15",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2024-01-15",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-01-21",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0071",
+   "short": "41 CFR Part 105-71",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-71",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-71",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0072",
+   "short": "41 CFR Part 105-72",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-72",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-72",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0105-0074",
+   "short": "41 CFR Part 105-74",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 105-74",
+   "url": "https://www.ecfr.gov/current/title-41/part-105-74",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0109-0001",
+   "short": "41 CFR Part 109-1",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-1",
+   "url": "https://www.ecfr.gov/current/title-41/part-109-1",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 46,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0109-0006",
+   "short": "41 CFR Part 109-6",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-6",
+   "url": "https://www.ecfr.gov/current/title-41/part-109-6",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0109-0025",
+   "short": "41 CFR Part 109-25",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-25",
+   "url": "https://www.ecfr.gov/current/title-41/part-109-25",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0109-0026",
+   "short": "41 CFR Part 109-26",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-26",
+   "url": "https://www.ecfr.gov/current/title-41/part-109-26",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0109-0027",
+   "short": "41 CFR Part 109-27",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-27",
+   "url": "https://www.ecfr.gov/current/title-41/part-109-27",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0109-0028",
+   "short": "41 CFR Part 109-28",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-28",
+   "url": "https://www.ecfr.gov/current/title-41/part-109-28",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0109-0030",
+   "short": "41 CFR Part 109-30",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-30",
+   "url": "https://www.ecfr.gov/current/title-41/part-109-30",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0109-0038",
+   "short": "41 CFR Part 109-38",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-38",
+   "url": "https://www.ecfr.gov/current/title-41/part-109-38",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 53,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0109-0039",
+   "short": "41 CFR Part 109-39",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-39",
+   "url": "https://www.ecfr.gov/current/title-41/part-109-39",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0109-0040",
+   "short": "41 CFR Part 109-40",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-40",
+   "url": "https://www.ecfr.gov/current/title-41/part-109-40",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0109-0042",
+   "short": "41 CFR Part 109-42",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-42",
+   "url": "https://www.ecfr.gov/current/title-41/part-109-42",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0109-0043",
+   "short": "41 CFR Part 109-43",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-43",
+   "url": "https://www.ecfr.gov/current/title-41/part-109-43",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0109-0044",
+   "short": "41 CFR Part 109-44",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-44",
+   "url": "https://www.ecfr.gov/current/title-41/part-109-44",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0109-0045",
+   "short": "41 CFR Part 109-45",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-45",
+   "url": "https://www.ecfr.gov/current/title-41/part-109-45",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0109-0046",
+   "short": "41 CFR Part 109-46",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-46",
+   "url": "https://www.ecfr.gov/current/title-41/part-109-46",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0109-0048",
+   "short": "41 CFR Part 109-48",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-48",
+   "url": "https://www.ecfr.gov/current/title-41/part-109-48",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0109-0050",
+   "short": "41 CFR Part 109-50",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 109-50",
+   "url": "https://www.ecfr.gov/current/title-41/part-109-50",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0114-0051",
+   "short": "41 CFR Part 114-51",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 114-51",
+   "url": "https://www.ecfr.gov/current/title-41/part-114-51",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0115-0001",
+   "short": "41 CFR Part 115-1",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 115-1",
+   "url": "https://www.ecfr.gov/current/title-41/part-115-1",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0128-0001",
+   "short": "41 CFR Part 128-1",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 128-1",
+   "url": "https://www.ecfr.gov/current/title-41/part-128-1",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0128-0018",
+   "short": "41 CFR Part 128-18",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 128-18",
+   "url": "https://www.ecfr.gov/current/title-41/part-128-18",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0128-0048",
+   "short": "41 CFR Part 128-48",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 128-48",
+   "url": "https://www.ecfr.gov/current/title-41/part-128-48",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0128-0050",
+   "short": "41 CFR Part 128-50",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 128-50",
+   "url": "https://www.ecfr.gov/current/title-41/part-128-50",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0201-0001",
+   "short": "41 CFR Part 201-1",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 201-1",
+   "url": "https://www.ecfr.gov/current/title-41/part-201-1",
+   "versions": [
+    {
+     "from": "2021-09-27",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-41/CFR-2022-title-41.zip",
+     "sha256": "a178f9532b57868aec35aab87e30e4332437a618f8a4affc5fcec6bb13cd1785"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2024-05-22",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-01-21",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0300-0001",
+   "short": "41 CFR Part 300-1",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 300-1",
+   "url": "https://www.ecfr.gov/current/title-41/part-300-1",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0300-0002",
+   "short": "41 CFR Part 300-2",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 300-2",
+   "url": "https://www.ecfr.gov/current/title-41/part-300-2",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-12-13",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0300-0003",
+   "short": "41 CFR Part 300-3",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 300-3",
+   "url": "https://www.ecfr.gov/current/title-41/part-300-3",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2018-08-13",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-41/CFR-2019-title-41.zip",
+     "sha256": "057c7e610d41d0ac13c7b58aa7aa1671faf1fdd01ee623bfda82245a4d9ead31"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-41/CFR-2022-title-41.zip",
+     "sha256": "a178f9532b57868aec35aab87e30e4332437a618f8a4affc5fcec6bb13cd1785"
+    },
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0300-0070",
+   "short": "41 CFR Part 300-70",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 300-70",
+   "url": "https://www.ecfr.gov/current/title-41/part-300-70",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2022-10-12",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0300-0080",
+   "short": "41 CFR Part 300-80",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 300-80",
+   "url": "https://www.ecfr.gov/current/title-41/part-300-80",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0300-0090",
+   "short": "41 CFR Part 300-90",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 300-90",
+   "url": "https://www.ecfr.gov/current/title-41/part-300-90",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2021-11-03",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-41/CFR-2022-title-41.zip",
+     "sha256": "a178f9532b57868aec35aab87e30e4332437a618f8a4affc5fcec6bb13cd1785"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301",
+   "short": "41 CFR Part 301",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301",
+   "url": "https://www.ecfr.gov/current/title-41/part-301",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0001",
+   "short": "41 CFR Part 301-1",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-1",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-1",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0002",
+   "short": "41 CFR Part 301-2",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-2",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-2",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2022-10-12",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0010",
+   "short": "41 CFR Part 301-10",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-10",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-10",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 82,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 82,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2022-05-23",
+     "units": 82,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-41/CFR-2022-title-41.zip",
+     "sha256": "a178f9532b57868aec35aab87e30e4332437a618f8a4affc5fcec6bb13cd1785"
+    },
+    {
+     "from": "2022-10-12",
+     "units": 76,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2023-02-17",
+     "units": 76,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 83,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 83,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0011",
+   "short": "41 CFR Part 301-11",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-11",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-11",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2018-08-13",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-41/CFR-2019-title-41.zip",
+     "sha256": "057c7e610d41d0ac13c7b58aa7aa1671faf1fdd01ee623bfda82245a4d9ead31"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2022-10-12",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2024-10-21",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0012",
+   "short": "41 CFR Part 301-12",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-12",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-12",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0013",
+   "short": "41 CFR Part 301-13",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-13",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-13",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2022-10-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0030",
+   "short": "41 CFR Part 301-30",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-30",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-30",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0031",
+   "short": "41 CFR Part 301-31",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-31",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-31",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0050",
+   "short": "41 CFR Part 301-50",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-50",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-50",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2019-01-21",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-41/CFR-2019-title-41.zip",
+     "sha256": "057c7e610d41d0ac13c7b58aa7aa1671faf1fdd01ee623bfda82245a4d9ead31"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2024-10-21",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0051",
+   "short": "41 CFR Part 301-51",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-51",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-51",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2022-05-23",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-41/CFR-2022-title-41.zip",
+     "sha256": "a178f9532b57868aec35aab87e30e4332437a618f8a4affc5fcec6bb13cd1785"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0052",
+   "short": "41 CFR Part 301-52",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-52",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-52",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2024-10-21",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0053",
+   "short": "41 CFR Part 301-53",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-53",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-53",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2022-10-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0054",
+   "short": "41 CFR Part 301-54",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-54",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-54",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0070",
+   "short": "41 CFR Part 301-70",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-70",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-70",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2022-10-12",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2023-02-17",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2024-10-21",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0071",
+   "short": "41 CFR Part 301-71",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-71",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-71",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2022-10-12",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2024-10-21",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0072",
+   "short": "41 CFR Part 301-72",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-72",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-72",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0073",
+   "short": "41 CFR Part 301-73",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-73",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-73",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2024-10-21",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0074",
+   "short": "41 CFR Part 301-74",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-74",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-74",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2021-11-03",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-41/CFR-2022-title-41.zip",
+     "sha256": "a178f9532b57868aec35aab87e30e4332437a618f8a4affc5fcec6bb13cd1785"
+    },
+    {
+     "from": "2024-04-25",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0075",
+   "short": "41 CFR Part 301-75",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-75",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-75",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0076",
+   "short": "41 CFR Part 301-76",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-76",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-76",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0301-0080",
+   "short": "41 CFR Part 301-80",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 301-80",
+   "url": "https://www.ecfr.gov/current/title-41/part-301-80",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0302-0001",
+   "short": "41 CFR Part 302-1",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-1",
+   "url": "https://www.ecfr.gov/current/title-41/part-302-1",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-01-09",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-41/CFR-2020-title-41.zip",
+     "sha256": "c6ae17c070c9649b93a2f08d5c2ffe0e2e45cb297a0f79122107e63c7f457abb"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0302-0002",
+   "short": "41 CFR Part 302-2",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-2",
+   "url": "https://www.ecfr.gov/current/title-41/part-302-2",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-01-09",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-41/CFR-2020-title-41.zip",
+     "sha256": "c6ae17c070c9649b93a2f08d5c2ffe0e2e45cb297a0f79122107e63c7f457abb"
+    },
+    {
+     "from": "2021-12-28",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-41/CFR-2022-title-41.zip",
+     "sha256": "a178f9532b57868aec35aab87e30e4332437a618f8a4affc5fcec6bb13cd1785"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2024-12-13",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0302-0003",
+   "short": "41 CFR Part 302-3",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-3",
+   "url": "https://www.ecfr.gov/current/title-41/part-302-3",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 100,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2021-12-28",
+     "units": 100,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-41/CFR-2022-title-41.zip",
+     "sha256": "a178f9532b57868aec35aab87e30e4332437a618f8a4affc5fcec6bb13cd1785"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 100,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2024-04-25",
+     "units": 100,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2024-12-13",
+     "units": 96,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0302-0004",
+   "short": "41 CFR Part 302-4",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-4",
+   "url": "https://www.ecfr.gov/current/title-41/part-302-4",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-01-09",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-41/CFR-2020-title-41.zip",
+     "sha256": "c6ae17c070c9649b93a2f08d5c2ffe0e2e45cb297a0f79122107e63c7f457abb"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2024-04-25",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0302-0005",
+   "short": "41 CFR Part 302-5",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-5",
+   "url": "https://www.ecfr.gov/current/title-41/part-302-5",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0302-0006",
+   "short": "41 CFR Part 302-6",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-6",
+   "url": "https://www.ecfr.gov/current/title-41/part-302-6",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2024-05-22",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0302-0007",
+   "short": "41 CFR Part 302-7",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-7",
+   "url": "https://www.ecfr.gov/current/title-41/part-302-7",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 46,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 46,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 46,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0302-0008",
+   "short": "41 CFR Part 302-8",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-8",
+   "url": "https://www.ecfr.gov/current/title-41/part-302-8",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0302-0009",
+   "short": "41 CFR Part 302-9",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-9",
+   "url": "https://www.ecfr.gov/current/title-41/part-302-9",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2018-08-13",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-41/CFR-2019-title-41.zip",
+     "sha256": "057c7e610d41d0ac13c7b58aa7aa1671faf1fdd01ee623bfda82245a4d9ead31"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2024-04-25",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0302-0010",
+   "short": "41 CFR Part 302-10",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-10",
+   "url": "https://www.ecfr.gov/current/title-41/part-302-10",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0302-0011",
+   "short": "41 CFR Part 302-11",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-11",
+   "url": "https://www.ecfr.gov/current/title-41/part-302-11",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2018-08-13",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-41/CFR-2019-title-41.zip",
+     "sha256": "057c7e610d41d0ac13c7b58aa7aa1671faf1fdd01ee623bfda82245a4d9ead31"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0302-0012",
+   "short": "41 CFR Part 302-12",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-12",
+   "url": "https://www.ecfr.gov/current/title-41/part-302-12",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2021-12-28",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-41/CFR-2022-title-41.zip",
+     "sha256": "a178f9532b57868aec35aab87e30e4332437a618f8a4affc5fcec6bb13cd1785"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0302-0014",
+   "short": "41 CFR Part 302-14",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-14",
+   "url": "https://www.ecfr.gov/current/title-41/part-302-14",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0302-0015",
+   "short": "41 CFR Part 302-15",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-15",
+   "url": "https://www.ecfr.gov/current/title-41/part-302-15",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2021-12-28",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-41/CFR-2022-title-41.zip",
+     "sha256": "a178f9532b57868aec35aab87e30e4332437a618f8a4affc5fcec6bb13cd1785"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2024-12-13",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0302-0016",
+   "short": "41 CFR Part 302-16",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-16",
+   "url": "https://www.ecfr.gov/current/title-41/part-302-16",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2022-05-23",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-41/CFR-2022-title-41.zip",
+     "sha256": "a178f9532b57868aec35aab87e30e4332437a618f8a4affc5fcec6bb13cd1785"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-01-15",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-41/CFR-2025-title-41.zip",
+     "sha256": "894aa0002e72f20322539c858877186749f7e8feb5bb2fc3fbf23ccb71a6512f"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0302-0017",
+   "short": "41 CFR Part 302-17",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-17",
+   "url": "https://www.ecfr.gov/current/title-41/part-302-17",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2020-01-09",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-41/CFR-2020-title-41.zip",
+     "sha256": "c6ae17c070c9649b93a2f08d5c2ffe0e2e45cb297a0f79122107e63c7f457abb"
+    },
+    {
+     "from": "2021-05-26",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2021-12-28",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-41/CFR-2022-title-41.zip",
+     "sha256": "a178f9532b57868aec35aab87e30e4332437a618f8a4affc5fcec6bb13cd1785"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2024-05-07",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0302-0018",
+   "short": "41 CFR Part 302-18",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 302-18",
+   "url": "https://www.ecfr.gov/current/title-41/part-302-18",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0303-0070",
+   "short": "41 CFR Part 303-70",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 303-70",
+   "url": "https://www.ecfr.gov/current/title-41/part-303-70",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0304-0001",
+   "short": "41 CFR Part 304-1",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-1",
+   "url": "https://www.ecfr.gov/current/title-41/part-304-1",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0304-0002",
+   "short": "41 CFR Part 304-2",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-2",
+   "url": "https://www.ecfr.gov/current/title-41/part-304-2",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2019-11-15",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-41/CFR-2020-title-41.zip",
+     "sha256": "c6ae17c070c9649b93a2f08d5c2ffe0e2e45cb297a0f79122107e63c7f457abb"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0304-0003",
+   "short": "41 CFR Part 304-3",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-3",
+   "url": "https://www.ecfr.gov/current/title-41/part-304-3",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2019-11-15",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-41/CFR-2020-title-41.zip",
+     "sha256": "c6ae17c070c9649b93a2f08d5c2ffe0e2e45cb297a0f79122107e63c7f457abb"
+    },
+    {
+     "from": "2022-10-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0304-0004",
+   "short": "41 CFR Part 304-4",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-4",
+   "url": "https://www.ecfr.gov/current/title-41/part-304-4",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0304-0005",
+   "short": "41 CFR Part 304-5",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-5",
+   "url": "https://www.ecfr.gov/current/title-41/part-304-5",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2019-11-15",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-41/CFR-2020-title-41.zip",
+     "sha256": "c6ae17c070c9649b93a2f08d5c2ffe0e2e45cb297a0f79122107e63c7f457abb"
+    },
+    {
+     "from": "2022-10-12",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-41/CFR-2023-title-41.zip",
+     "sha256": "da6d015d761c1748e2f4978549d060a8a7df789b674b31edf1989761f2365c0a"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0304-0006",
+   "short": "41 CFR Part 304-6",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-6",
+   "url": "https://www.ecfr.gov/current/title-41/part-304-6",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2019-11-15",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-41/CFR-2020-title-41.zip",
+     "sha256": "c6ae17c070c9649b93a2f08d5c2ffe0e2e45cb297a0f79122107e63c7f457abb"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0304-0007",
+   "short": "41 CFR Part 304-7",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-7",
+   "url": "https://www.ecfr.gov/current/title-41/part-304-7",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0304-0008",
+   "short": "41 CFR Part 304-8",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-8",
+   "url": "https://www.ecfr.gov/current/title-41/part-304-8",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-0304-0009",
+   "short": "41 CFR Part 304-9",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part 304-9",
+   "url": "https://www.ecfr.gov/current/title-41/part-304-9",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-part-other",
+   "short": "41 CFR Part other",
+   "title": "Title 41 of the Code of Federal Regulations (Public Contracts and Property Management), Part other",
+   "url": "https://www.ecfr.gov/current/title-41/part-other",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-41/CFR-2018-title-41.zip",
+     "sha256": "b42bbaebeea03281e398ac1d72effea8004ec84456ff9fb3d7bcac0b0255440b"
+    },
+    {
+     "from": "2018-08-13",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-41/CFR-2019-title-41.zip",
+     "sha256": "057c7e610d41d0ac13c7b58aa7aa1671faf1fdd01ee623bfda82245a4d9ead31"
+    },
+    {
+     "from": "2019-11-15",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-41/CFR-2020-title-41.zip",
+     "sha256": "c6ae17c070c9649b93a2f08d5c2ffe0e2e45cb297a0f79122107e63c7f457abb"
+    },
+    {
+     "from": "2020-08-03",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-41/CFR-2021-title-41.zip",
+     "sha256": "90a0adfd35565e6aa660b5766e14e5f9073d4951ef2bc17d9f2157aae41be464"
+    },
+    {
+     "from": "2021-11-03",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-41/CFR-2022-title-41.zip",
+     "sha256": "a178f9532b57868aec35aab87e30e4332437a618f8a4affc5fcec6bb13cd1785"
+    },
+    {
+     "from": "2024-04-16",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-41/CFR-2024-title-41.zip",
+     "sha256": "c6e5e60c4e830cc6b40b1ba3e984269afea186d38510b879e8c6c960f0d456a9"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-41/ECFR-title41.xml",
+     "sha256": "514067fa11ffaeacaf7375f2623b1426743a241625d06af9fb97419f9a50c2b8"
+    }
+   ]
   }
  ]
 }
