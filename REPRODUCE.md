@@ -1803,6 +1803,154 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-08-part-1292` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1292 | 5 | 2018-01-01 to 2022-02-11 |
 | `title-08-part-1299` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1299 | 1 | 2018-01-01 to 2018-01-01 |
 | `title-08-part-1337` | Title 8 of the Code of Federal Regulations (Aliens and Nationality), Part 1337 | 1 | 2018-01-01 to 2018-01-01 |
+| `title-09-part-0001` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 1 | 4 | 2016-12-20 to 2023-03-23 |
+| `title-09-part-0002` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 2 | 7 | 2016-12-20 to 2023-03-23 |
+| `title-09-part-0003` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 3 | 8 | 2016-12-20 to 2026-10-26 |
+| `title-09-part-0004` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 4 | 2 | 2016-12-20 to 2021-12-27 |
+| `title-09-part-0011` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 11 | 5 | 2016-12-20 to 2026-01-01 |
+| `title-09-part-0012` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 12 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0049` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 49 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0050` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 50 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0051` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 51 | 2 | 2016-12-20 to 2022-01-01 |
+| `title-09-part-0052` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 52 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0053` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 53 | 3 | 2016-12-20 to 2024-12-31 |
+| `title-09-part-0054` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 54 | 2 | 2016-12-20 to 2019-04-24 |
+| `title-09-part-0055` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 55 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0056` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 56 | 3 | 2016-12-20 to 2025-10-30 |
+| `title-09-part-0070` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 70 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0071` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 71 | 4 | 2016-12-20 to 2024-11-05 |
+| `title-09-part-0072` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 72 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0073` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 73 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0074` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 74 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0075` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 75 | 3 | 2016-12-20 to 2022-01-01 |
+| `title-09-part-0077` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 77 | 2 | 2016-12-20 to 2024-11-05 |
+| `title-09-part-0078` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 78 | 4 | 2016-12-20 to 2026-10-26 |
+| `title-09-part-0079` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 79 | 3 | 2016-12-20 to 2019-06-18 |
+| `title-09-part-0080` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 80 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0081` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 81 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0082` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 82 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0085` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 85 | 2 | 2016-12-20 to 2022-01-01 |
+| `title-09-part-0086` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 86 | 2 | 2016-12-20 to 2024-11-05 |
+| `title-09-part-0088` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 88 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0089` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 89 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0091` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 91 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0092` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 92 | 4 | 2016-12-20 to 2022-01-03 |
+| `title-09-part-0093` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 93 | 16 | 2016-12-20 to 2026-05-11 |
+| `title-09-part-0094` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 94 | 8 | 2016-12-20 to 2023-12-14 |
+| `title-09-part-0095` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 95 | 5 | 2016-12-20 to 2022-01-03 |
+| `title-09-part-0096` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 96 | 3 | 2016-12-20 to 2022-01-03 |
+| `title-09-part-0097` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 97 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0098` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 98 | 4 | 2016-12-20 to 2022-01-03 |
+| `title-09-part-0099` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 99 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0101` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 101 | 3 | 2016-12-20 to 2018-06-18 |
+| `title-09-part-0102` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 102 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0103` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 103 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0104` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 104 | 2 | 2016-12-20 to 2018-04-11 |
+| `title-09-part-0105` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 105 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0106` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 106 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0107` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 107 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0108` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 108 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0109` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 109 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0112` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 112 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0113` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 113 | 3 | 2016-12-20 to 2026-10-26 |
+| `title-09-part-0114` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 114 | 2 | 2016-12-20 to 2018-04-13 |
+| `title-09-part-0115` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 115 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0116` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 116 | 2 | 2016-12-20 to 2018-06-18 |
+| `title-09-part-0117` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 117 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0118` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 118 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0121` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 121 | 4 | 2016-12-20 to 2025-01-16 |
+| `title-09-part-0122` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 122 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0123` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 123 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0124` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 124 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0130` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 130 | 3 | 2016-12-20 to 2023-08-31 |
+| `title-09-part-0145` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 145 | 6 | 2016-12-20 to 2026-10-26 |
+| `title-09-part-0146` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 146 | 5 | 2016-12-20 to 2026-10-26 |
+| `title-09-part-0147` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 147 | 4 | 2016-12-20 to 2025-10-30 |
+| `title-09-part-0149` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 149 | 2 | 2016-12-20 to 2021-10-25 |
+| `title-09-part-0151` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 151 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0156` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 156 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0160` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 160 | 2 | 2016-12-20 to 2020-03-26 |
+| `title-09-part-0161` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 161 | 3 | 2016-12-20 to 2020-07-13 |
+| `title-09-part-0162` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 162 | 2 | 2016-12-20 to 2020-03-26 |
+| `title-09-part-0165` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 165 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0166` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 166 | 2 | 2016-12-20 to 2019-12-23 |
+| `title-09-part-0167` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 167 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0201` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 201 | 11 | 2016-12-20 to 2026-06-01 |
+| `title-09-part-0202` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 202 | 4 | 2016-12-20 to 2023-09-13 |
+| `title-09-part-0203` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 203 | 4 | 2016-12-20 to 2023-07-24 |
+| `title-09-part-0204` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 204 | 2 | 2016-12-20 to 2019-08-30 |
+| `title-09-part-0205` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 205 | 2 | 2016-12-20 to 2019-08-30 |
+| `title-09-part-0206` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 206 | 3 | 2016-12-20 to 2023-09-13 |
+| `title-09-part-0300` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 300 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0301` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 301 | 3 | 2016-12-20 to 2019-12-02 |
+| `title-09-part-0302` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 302 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0303` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 303 | 2 | 2016-12-20 to 2018-07-30 |
+| `title-09-part-0304` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 304 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0305` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 305 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0306` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 306 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0307` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 307 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0309` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 309 | 2 | 2016-12-20 to 2019-12-02 |
+| `title-09-part-0310` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 310 | 6 | 2016-12-20 to 2026-07-20 |
+| `title-09-part-0311` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 311 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0312` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 312 | 2 | 2016-12-20 to 2026-10-26 |
+| `title-09-part-0313` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 313 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0314` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 314 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0315` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 315 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0316` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 316 | 2 | 2016-12-20 to 2019-04-17 |
+| `title-09-part-0317` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 317 | 6 | 2016-12-20 to 2026-10-26 |
+| `title-09-part-0318` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 318 | 5 | 2016-12-20 to 2026-10-26 |
+| `title-09-part-0319` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 319 | 3 | 2016-12-20 to 2026-06-03 |
+| `title-09-part-0320` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 320 | 2 | 2016-12-20 to 2018-07-30 |
+| `title-09-part-0321` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 321 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0322` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 322 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0325` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 325 | 3 | 2016-12-20 to 2025-06-26 |
+| `title-09-part-0327` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 327 | 4 | 2016-12-20 to 2026-10-26 |
+| `title-09-part-0329` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 329 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0331` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 331 | 3 | 2016-12-20 to 2025-06-26 |
+| `title-09-part-0332` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 332 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0335` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 335 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0350` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 350 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0351` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 351 | 4 | 2016-12-20 to 2026-10-26 |
+| `title-09-part-0352` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 352 | 5 | 2016-12-20 to 2026-10-26 |
+| `title-09-part-0354` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 354 | 4 | 2016-12-20 to 2026-10-26 |
+| `title-09-part-0355` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 355 | 2 | 2016-12-20 to 2022-07-19 |
+| `title-09-part-0362` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 362 | 2 | 2016-12-20 to 2023-03-20 |
+| `title-09-part-0381` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 381 | 11 | 2016-12-20 to 2026-10-26 |
+| `title-09-part-0390` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 390 | 2 | 2016-12-20 to 2024-04-22 |
+| `title-09-part-0391` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 391 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0392` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 392 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0412` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 412 | 3 | 2016-12-20 to 2024-05-17 |
+| `title-09-part-0416` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 416 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0417` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 417 | 3 | 2016-12-20 to 2022-10-31 |
+| `title-09-part-0418` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 418 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0424` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 424 | 5 | 2016-12-20 to 2026-10-26 |
+| `title-09-part-0430` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 430 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0431` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 431 | 2 | 2018-07-30 to 2026-10-26 |
+| `title-09-part-0439` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 439 | 2 | 2016-12-20 to 2022-10-24 |
+| `title-09-part-0441` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 441 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0442` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 442 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0500` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 500 | 4 | 2016-12-20 to 2024-07-03 |
+| `title-09-part-0530` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 530 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0531` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 531 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0532` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 532 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0533` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 533 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0534` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 534 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0537` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 537 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0539` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 539 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0540` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 540 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0541` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 541 | 2 | 2016-12-20 to 2026-10-26 |
+| `title-09-part-0544` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 544 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0548` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 548 | 2 | 2016-12-20 to 2018-07-30 |
+| `title-09-part-0550` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 550 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0552` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 552 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0555` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 555 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0557` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 557 | 2 | 2016-12-20 to 2019-12-27 |
+| `title-09-part-0559` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 559 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0560` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 560 | 2 | 2016-12-20 to 2025-06-26 |
+| `title-09-part-0561` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 561 | 1 | 2016-12-20 to 2016-12-20 |
+| `title-09-part-0590` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 590 | 8 | 2016-12-20 to 2026-10-26 |
+| `title-09-part-0591` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 591 | 1 | 2020-12-28 to 2020-12-28 |
+| `title-09-part-0592` | Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 592 | 5 | 2016-12-20 to 2026-10-26 |
 | `title-12-part-0001` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1 | 3 | 2017-01-01 to 2026-06-09 |
 | `title-12-part-0002` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 2 | 1 | 2017-01-01 to 2017-01-01 |
 | `title-12-part-0003` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 3 | 30 | 2017-01-01 to 2026-10-26 |
@@ -2771,19 +2919,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 13668 commits:
+The build made 14066 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2754 | first version of an act |
-| 7814 | one law on its in-force day |
-| 3100 | changes no amendment note explains, credited to the publisher |
+| 2902 | first version of an act |
+| 7976 | one law on its in-force day |
+| 3188 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 9261 laws in the record.
-- 17560 tags.
+- 9448 laws in the record.
+- 18066 tags.
 
 ## Dates
 
@@ -2795,7 +2943,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `68576aa96b8e9ad59a10b5c93d04eecd9d8cdf665ec62d7c8742b18da76059e4` (776577361 bytes).
+- Corpus: sha256 `976bad1a87cd568e9dee1802f1ac0184cf051d29cef0eec1c81c9805c56e4714` (788324776 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -2825,6 +2973,7 @@ No second build of this corpus has been compared yet.
 - Title 6: editions read: 2017 annual edition (to 2016-12-22); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 7: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-29); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); eCFR (to 2026-10-26).
 - Title 8: editions read: 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
+- Title 9: editions read: 2017 annual edition (to 2016-12-20); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); 2026 annual edition (to 2026-01-01); eCFR (to 2026-10-26).
 - Title 12: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).

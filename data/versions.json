@@ -52020,6 +52020,3308 @@
    ]
   },
   {
+   "slug": "title-09-part-0001",
+   "short": "9 CFR Part 1",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 1",
+   "url": "https://www.ecfr.gov/current/title-9/part-1",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-06-04",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    },
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-9/CFR-2024-title-9.zip",
+     "sha256": "a63b0809008441aaf9bc00ee7af13116554b74d784a64611ff4b7c9ad90f67c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0002",
+   "short": "9 CFR Part 2",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 2",
+   "url": "https://www.ecfr.gov/current/title-9/part-2",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-06-04",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2020-11-09",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    },
+    {
+     "from": "2021-12-27",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2022-01-03",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    },
+    {
+     "from": "2023-03-23",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-9/CFR-2024-title-9.zip",
+     "sha256": "a63b0809008441aaf9bc00ee7af13116554b74d784a64611ff4b7c9ad90f67c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0003",
+   "short": "9 CFR Part 3",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 3",
+   "url": "https://www.ecfr.gov/current/title-9/part-3",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 107,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-06-04",
+     "units": 107,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 107,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2020-11-09",
+     "units": 108,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 108,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 108,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    },
+    {
+     "from": "2023-03-23",
+     "units": 127,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-9/CFR-2024-title-9.zip",
+     "sha256": "a63b0809008441aaf9bc00ee7af13116554b74d784a64611ff4b7c9ad90f67c4"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 127,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0004",
+   "short": "9 CFR Part 4",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 4",
+   "url": "https://www.ecfr.gov/current/title-9/part-4",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2021-12-27",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0011",
+   "short": "9 CFR Part 11",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 11",
+   "url": "https://www.ecfr.gov/current/title-9/part-11",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2024-06-07",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-9/CFR-2025-title-9.zip",
+     "sha256": "3a33d46a91c06c8221ba2a5ec1e56557a62042fa2f8809bc2b8bf9ee913f2537"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-9/CFR-2025-title-9.zip",
+     "sha256": "3a33d46a91c06c8221ba2a5ec1e56557a62042fa2f8809bc2b8bf9ee913f2537"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-9/CFR-2026-title-9.zip",
+     "sha256": "691ad68992d8582d5633371f746f67ad2f1a0712be037b5baba2e0661b2d8739"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0012",
+   "short": "9 CFR Part 12",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 12",
+   "url": "https://www.ecfr.gov/current/title-9/part-12",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0049",
+   "short": "9 CFR Part 49",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 49",
+   "url": "https://www.ecfr.gov/current/title-9/part-49",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0050",
+   "short": "9 CFR Part 50",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 50",
+   "url": "https://www.ecfr.gov/current/title-9/part-50",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0051",
+   "short": "9 CFR Part 51",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 51",
+   "url": "https://www.ecfr.gov/current/title-9/part-51",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0052",
+   "short": "9 CFR Part 52",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 52",
+   "url": "https://www.ecfr.gov/current/title-9/part-52",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0053",
+   "short": "9 CFR Part 53",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 53",
+   "url": "https://www.ecfr.gov/current/title-9/part-53",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-09-14",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2024-12-31",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-9/CFR-2025-title-9.zip",
+     "sha256": "3a33d46a91c06c8221ba2a5ec1e56557a62042fa2f8809bc2b8bf9ee913f2537"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0054",
+   "short": "9 CFR Part 54",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 54",
+   "url": "https://www.ecfr.gov/current/title-9/part-54",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2019-04-24",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0055",
+   "short": "9 CFR Part 55",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 55",
+   "url": "https://www.ecfr.gov/current/title-9/part-55",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0056",
+   "short": "9 CFR Part 56",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 56",
+   "url": "https://www.ecfr.gov/current/title-9/part-56",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2020-11-04",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    },
+    {
+     "from": "2025-10-30",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-9/CFR-2026-title-9.zip",
+     "sha256": "691ad68992d8582d5633371f746f67ad2f1a0712be037b5baba2e0661b2d8739"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0070",
+   "short": "9 CFR Part 70",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 70",
+   "url": "https://www.ecfr.gov/current/title-9/part-70",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0071",
+   "short": "9 CFR Part 71",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 71",
+   "url": "https://www.ecfr.gov/current/title-9/part-71",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-04-11",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2020-02-24",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    },
+    {
+     "from": "2024-11-05",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-9/CFR-2025-title-9.zip",
+     "sha256": "3a33d46a91c06c8221ba2a5ec1e56557a62042fa2f8809bc2b8bf9ee913f2537"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0072",
+   "short": "9 CFR Part 72",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 72",
+   "url": "https://www.ecfr.gov/current/title-9/part-72",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0073",
+   "short": "9 CFR Part 73",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 73",
+   "url": "https://www.ecfr.gov/current/title-9/part-73",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0074",
+   "short": "9 CFR Part 74",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 74",
+   "url": "https://www.ecfr.gov/current/title-9/part-74",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0075",
+   "short": "9 CFR Part 75",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 75",
+   "url": "https://www.ecfr.gov/current/title-9/part-75",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2020-02-24",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0077",
+   "short": "9 CFR Part 77",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 77",
+   "url": "https://www.ecfr.gov/current/title-9/part-77",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2024-11-05",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-9/CFR-2025-title-9.zip",
+     "sha256": "3a33d46a91c06c8221ba2a5ec1e56557a62042fa2f8809bc2b8bf9ee913f2537"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0078",
+   "short": "9 CFR Part 78",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 78",
+   "url": "https://www.ecfr.gov/current/title-9/part-78",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2024-11-05",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-9/CFR-2025-title-9.zip",
+     "sha256": "3a33d46a91c06c8221ba2a5ec1e56557a62042fa2f8809bc2b8bf9ee913f2537"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0079",
+   "short": "9 CFR Part 79",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 79",
+   "url": "https://www.ecfr.gov/current/title-9/part-79",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2019-04-24",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2019-06-18",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0080",
+   "short": "9 CFR Part 80",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 80",
+   "url": "https://www.ecfr.gov/current/title-9/part-80",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0081",
+   "short": "9 CFR Part 81",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 81",
+   "url": "https://www.ecfr.gov/current/title-9/part-81",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0082",
+   "short": "9 CFR Part 82",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 82",
+   "url": "https://www.ecfr.gov/current/title-9/part-82",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0085",
+   "short": "9 CFR Part 85",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 85",
+   "url": "https://www.ecfr.gov/current/title-9/part-85",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0086",
+   "short": "9 CFR Part 86",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 86",
+   "url": "https://www.ecfr.gov/current/title-9/part-86",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2024-11-05",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-9/CFR-2025-title-9.zip",
+     "sha256": "3a33d46a91c06c8221ba2a5ec1e56557a62042fa2f8809bc2b8bf9ee913f2537"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0088",
+   "short": "9 CFR Part 88",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 88",
+   "url": "https://www.ecfr.gov/current/title-9/part-88",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0089",
+   "short": "9 CFR Part 89",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 89",
+   "url": "https://www.ecfr.gov/current/title-9/part-89",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0091",
+   "short": "9 CFR Part 91",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 91",
+   "url": "https://www.ecfr.gov/current/title-9/part-91",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0092",
+   "short": "9 CFR Part 92",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 92",
+   "url": "https://www.ecfr.gov/current/title-9/part-92",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2020-03-30",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    },
+    {
+     "from": "2021-08-16",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2022-01-03",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0093",
+   "short": "9 CFR Part 93",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 93",
+   "url": "https://www.ecfr.gov/current/title-9/part-93",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 137,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-04-11",
+     "units": 137,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2018-12-14",
+     "units": 137,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2019-04-24",
+     "units": 137,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2020-02-24",
+     "units": 137,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    },
+    {
+     "from": "2020-10-19",
+     "units": 141,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    },
+    {
+     "from": "2021-08-16",
+     "units": 141,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2021-12-03",
+     "units": 141,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 141,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2022-01-03",
+     "units": 141,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    },
+    {
+     "from": "2023-08-31",
+     "units": 141,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-9/CFR-2024-title-9.zip",
+     "sha256": "a63b0809008441aaf9bc00ee7af13116554b74d784a64611ff4b7c9ad90f67c4"
+    },
+    {
+     "from": "2023-10-16",
+     "units": 141,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-9/CFR-2024-title-9.zip",
+     "sha256": "a63b0809008441aaf9bc00ee7af13116554b74d784a64611ff4b7c9ad90f67c4"
+    },
+    {
+     "from": "2024-04-08",
+     "units": 141,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-9/CFR-2025-title-9.zip",
+     "sha256": "3a33d46a91c06c8221ba2a5ec1e56557a62042fa2f8809bc2b8bf9ee913f2537"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 141,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-9/CFR-2025-title-9.zip",
+     "sha256": "3a33d46a91c06c8221ba2a5ec1e56557a62042fa2f8809bc2b8bf9ee913f2537"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 141,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-9/CFR-2026-title-9.zip",
+     "sha256": "691ad68992d8582d5633371f746f67ad2f1a0712be037b5baba2e0661b2d8739"
+    },
+    {
+     "from": "2026-05-11",
+     "units": 141,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0094",
+   "short": "9 CFR Part 94",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 94",
+   "url": "https://www.ecfr.gov/current/title-9/part-94",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2017-10-12",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-9/CFR-2018-title-9.zip",
+     "sha256": "7fbbda3d7856220fbc36a57a3e5a97cab9471e952966829c41a79768f311f28c"
+    },
+    {
+     "from": "2018-04-11",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2021-08-16",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2021-12-03",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2022-01-03",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    },
+    {
+     "from": "2023-02-21",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-9/CFR-2024-title-9.zip",
+     "sha256": "a63b0809008441aaf9bc00ee7af13116554b74d784a64611ff4b7c9ad90f67c4"
+    },
+    {
+     "from": "2023-12-14",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-9/CFR-2024-title-9.zip",
+     "sha256": "a63b0809008441aaf9bc00ee7af13116554b74d784a64611ff4b7c9ad90f67c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0095",
+   "short": "9 CFR Part 95",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 95",
+   "url": "https://www.ecfr.gov/current/title-9/part-95",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-04-11",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2021-08-16",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2021-12-03",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2022-01-03",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0096",
+   "short": "9 CFR Part 96",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 96",
+   "url": "https://www.ecfr.gov/current/title-9/part-96",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2022-01-03",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0097",
+   "short": "9 CFR Part 97",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 97",
+   "url": "https://www.ecfr.gov/current/title-9/part-97",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0098",
+   "short": "9 CFR Part 98",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 98",
+   "url": "https://www.ecfr.gov/current/title-9/part-98",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-04-11",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2021-12-03",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2022-01-03",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0099",
+   "short": "9 CFR Part 99",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 99",
+   "url": "https://www.ecfr.gov/current/title-9/part-99",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0101",
+   "short": "9 CFR Part 101",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 101",
+   "url": "https://www.ecfr.gov/current/title-9/part-101",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-04-13",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2018-06-18",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0102",
+   "short": "9 CFR Part 102",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 102",
+   "url": "https://www.ecfr.gov/current/title-9/part-102",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0103",
+   "short": "9 CFR Part 103",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 103",
+   "url": "https://www.ecfr.gov/current/title-9/part-103",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0104",
+   "short": "9 CFR Part 104",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 104",
+   "url": "https://www.ecfr.gov/current/title-9/part-104",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-04-11",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0105",
+   "short": "9 CFR Part 105",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 105",
+   "url": "https://www.ecfr.gov/current/title-9/part-105",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0106",
+   "short": "9 CFR Part 106",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 106",
+   "url": "https://www.ecfr.gov/current/title-9/part-106",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0107",
+   "short": "9 CFR Part 107",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 107",
+   "url": "https://www.ecfr.gov/current/title-9/part-107",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0108",
+   "short": "9 CFR Part 108",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 108",
+   "url": "https://www.ecfr.gov/current/title-9/part-108",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0109",
+   "short": "9 CFR Part 109",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 109",
+   "url": "https://www.ecfr.gov/current/title-9/part-109",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0112",
+   "short": "9 CFR Part 112",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 112",
+   "url": "https://www.ecfr.gov/current/title-9/part-112",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0113",
+   "short": "9 CFR Part 113",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 113",
+   "url": "https://www.ecfr.gov/current/title-9/part-113",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 125,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 125,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 125,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0114",
+   "short": "9 CFR Part 114",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 114",
+   "url": "https://www.ecfr.gov/current/title-9/part-114",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-04-13",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0115",
+   "short": "9 CFR Part 115",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 115",
+   "url": "https://www.ecfr.gov/current/title-9/part-115",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0116",
+   "short": "9 CFR Part 116",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 116",
+   "url": "https://www.ecfr.gov/current/title-9/part-116",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-06-18",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0117",
+   "short": "9 CFR Part 117",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 117",
+   "url": "https://www.ecfr.gov/current/title-9/part-117",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0118",
+   "short": "9 CFR Part 118",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 118",
+   "url": "https://www.ecfr.gov/current/title-9/part-118",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0121",
+   "short": "9 CFR Part 121",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 121",
+   "url": "https://www.ecfr.gov/current/title-9/part-121",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2017-03-21",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-9/CFR-2018-title-9.zip",
+     "sha256": "7fbbda3d7856220fbc36a57a3e5a97cab9471e952966829c41a79768f311f28c"
+    },
+    {
+     "from": "2018-09-24",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2025-01-16",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-9/CFR-2026-title-9.zip",
+     "sha256": "691ad68992d8582d5633371f746f67ad2f1a0712be037b5baba2e0661b2d8739"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0122",
+   "short": "9 CFR Part 122",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 122",
+   "url": "https://www.ecfr.gov/current/title-9/part-122",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0123",
+   "short": "9 CFR Part 123",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 123",
+   "url": "https://www.ecfr.gov/current/title-9/part-123",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0124",
+   "short": "9 CFR Part 124",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 124",
+   "url": "https://www.ecfr.gov/current/title-9/part-124",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0130",
+   "short": "9 CFR Part 130",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 130",
+   "url": "https://www.ecfr.gov/current/title-9/part-130",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2021-08-16",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2023-08-31",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-9/CFR-2024-title-9.zip",
+     "sha256": "a63b0809008441aaf9bc00ee7af13116554b74d784a64611ff4b7c9ad90f67c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0145",
+   "short": "9 CFR Part 145",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 145",
+   "url": "https://www.ecfr.gov/current/title-9/part-145",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-07-19",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2020-11-04",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2025-10-30",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-9/CFR-2026-title-9.zip",
+     "sha256": "691ad68992d8582d5633371f746f67ad2f1a0712be037b5baba2e0661b2d8739"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0146",
+   "short": "9 CFR Part 146",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 146",
+   "url": "https://www.ecfr.gov/current/title-9/part-146",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-07-19",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2020-11-04",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    },
+    {
+     "from": "2025-10-30",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-9/CFR-2026-title-9.zip",
+     "sha256": "691ad68992d8582d5633371f746f67ad2f1a0712be037b5baba2e0661b2d8739"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0147",
+   "short": "9 CFR Part 147",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 147",
+   "url": "https://www.ecfr.gov/current/title-9/part-147",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-07-19",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2020-11-04",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    },
+    {
+     "from": "2025-10-30",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-9/CFR-2026-title-9.zip",
+     "sha256": "691ad68992d8582d5633371f746f67ad2f1a0712be037b5baba2e0661b2d8739"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0149",
+   "short": "9 CFR Part 149",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 149",
+   "url": "https://www.ecfr.gov/current/title-9/part-149",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2021-10-25",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0151",
+   "short": "9 CFR Part 151",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 151",
+   "url": "https://www.ecfr.gov/current/title-9/part-151",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0156",
+   "short": "9 CFR Part 156",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 156",
+   "url": "https://www.ecfr.gov/current/title-9/part-156",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0160",
+   "short": "9 CFR Part 160",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 160",
+   "url": "https://www.ecfr.gov/current/title-9/part-160",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0161",
+   "short": "9 CFR Part 161",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 161",
+   "url": "https://www.ecfr.gov/current/title-9/part-161",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2020-03-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    },
+    {
+     "from": "2020-07-13",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0162",
+   "short": "9 CFR Part 162",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 162",
+   "url": "https://www.ecfr.gov/current/title-9/part-162",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2020-03-26",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0165",
+   "short": "9 CFR Part 165",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 165",
+   "url": "https://www.ecfr.gov/current/title-9/part-165",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0166",
+   "short": "9 CFR Part 166",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 166",
+   "url": "https://www.ecfr.gov/current/title-9/part-166",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2019-12-23",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0167",
+   "short": "9 CFR Part 167",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 167",
+   "url": "https://www.ecfr.gov/current/title-9/part-167",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0201",
+   "short": "9 CFR Part 201",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 201",
+   "url": "https://www.ecfr.gov/current/title-9/part-201",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2019-08-30",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2019-10-23",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2020-12-11",
+     "units": 52,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    },
+    {
+     "from": "2023-07-24",
+     "units": 52,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-9/CFR-2024-title-9.zip",
+     "sha256": "a63b0809008441aaf9bc00ee7af13116554b74d784a64611ff4b7c9ad90f67c4"
+    },
+    {
+     "from": "2023-09-13",
+     "units": 52,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-9/CFR-2024-title-9.zip",
+     "sha256": "a63b0809008441aaf9bc00ee7af13116554b74d784a64611ff4b7c9ad90f67c4"
+    },
+    {
+     "from": "2023-11-28",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-9/CFR-2024-title-9.zip",
+     "sha256": "a63b0809008441aaf9bc00ee7af13116554b74d784a64611ff4b7c9ad90f67c4"
+    },
+    {
+     "from": "2024-02-12",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-9/CFR-2025-title-9.zip",
+     "sha256": "3a33d46a91c06c8221ba2a5ec1e56557a62042fa2f8809bc2b8bf9ee913f2537"
+    },
+    {
+     "from": "2024-05-06",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-9/CFR-2025-title-9.zip",
+     "sha256": "3a33d46a91c06c8221ba2a5ec1e56557a62042fa2f8809bc2b8bf9ee913f2537"
+    },
+    {
+     "from": "2025-01-16",
+     "units": 67,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-9/CFR-2026-title-9.zip",
+     "sha256": "691ad68992d8582d5633371f746f67ad2f1a0712be037b5baba2e0661b2d8739"
+    },
+    {
+     "from": "2026-06-01",
+     "units": 67,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0202",
+   "short": "9 CFR Part 202",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 202",
+   "url": "https://www.ecfr.gov/current/title-9/part-202",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2019-08-30",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2019-10-23",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2023-09-13",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-9/CFR-2024-title-9.zip",
+     "sha256": "a63b0809008441aaf9bc00ee7af13116554b74d784a64611ff4b7c9ad90f67c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0203",
+   "short": "9 CFR Part 203",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 203",
+   "url": "https://www.ecfr.gov/current/title-9/part-203",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2019-08-30",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2019-10-23",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2023-07-24",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-9/CFR-2024-title-9.zip",
+     "sha256": "a63b0809008441aaf9bc00ee7af13116554b74d784a64611ff4b7c9ad90f67c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0204",
+   "short": "9 CFR Part 204",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 204",
+   "url": "https://www.ecfr.gov/current/title-9/part-204",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2019-08-30",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0205",
+   "short": "9 CFR Part 205",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 205",
+   "url": "https://www.ecfr.gov/current/title-9/part-205",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2019-08-30",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0206",
+   "short": "9 CFR Part 206",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 206",
+   "url": "https://www.ecfr.gov/current/title-9/part-206",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2019-08-30",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2023-09-13",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-9/CFR-2024-title-9.zip",
+     "sha256": "a63b0809008441aaf9bc00ee7af13116554b74d784a64611ff4b7c9ad90f67c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0300",
+   "short": "9 CFR Part 300",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 300",
+   "url": "https://www.ecfr.gov/current/title-9/part-300",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0301",
+   "short": "9 CFR Part 301",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 301",
+   "url": "https://www.ecfr.gov/current/title-9/part-301",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-07-30",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2019-12-02",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0302",
+   "short": "9 CFR Part 302",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 302",
+   "url": "https://www.ecfr.gov/current/title-9/part-302",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0303",
+   "short": "9 CFR Part 303",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 303",
+   "url": "https://www.ecfr.gov/current/title-9/part-303",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-07-30",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0304",
+   "short": "9 CFR Part 304",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 304",
+   "url": "https://www.ecfr.gov/current/title-9/part-304",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0305",
+   "short": "9 CFR Part 305",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 305",
+   "url": "https://www.ecfr.gov/current/title-9/part-305",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0306",
+   "short": "9 CFR Part 306",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 306",
+   "url": "https://www.ecfr.gov/current/title-9/part-306",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0307",
+   "short": "9 CFR Part 307",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 307",
+   "url": "https://www.ecfr.gov/current/title-9/part-307",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0309",
+   "short": "9 CFR Part 309",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 309",
+   "url": "https://www.ecfr.gov/current/title-9/part-309",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2019-12-02",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0310",
+   "short": "9 CFR Part 310",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 310",
+   "url": "https://www.ecfr.gov/current/title-9/part-310",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2019-04-08",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2019-12-02",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2019-12-27",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2021-08-23",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2026-07-20",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0311",
+   "short": "9 CFR Part 311",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 311",
+   "url": "https://www.ecfr.gov/current/title-9/part-311",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0312",
+   "short": "9 CFR Part 312",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 312",
+   "url": "https://www.ecfr.gov/current/title-9/part-312",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0313",
+   "short": "9 CFR Part 313",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 313",
+   "url": "https://www.ecfr.gov/current/title-9/part-313",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0314",
+   "short": "9 CFR Part 314",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 314",
+   "url": "https://www.ecfr.gov/current/title-9/part-314",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0315",
+   "short": "9 CFR Part 315",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 315",
+   "url": "https://www.ecfr.gov/current/title-9/part-315",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0316",
+   "short": "9 CFR Part 316",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 316",
+   "url": "https://www.ecfr.gov/current/title-9/part-316",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2019-04-17",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0317",
+   "short": "9 CFR Part 317",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 317",
+   "url": "https://www.ecfr.gov/current/title-9/part-317",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2022-10-17",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    },
+    {
+     "from": "2024-05-17",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-9/CFR-2025-title-9.zip",
+     "sha256": "3a33d46a91c06c8221ba2a5ec1e56557a62042fa2f8809bc2b8bf9ee913f2537"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0318",
+   "short": "9 CFR Part 318",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 318",
+   "url": "https://www.ecfr.gov/current/title-9/part-318",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-07-30",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2019-10-15",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2025-06-26",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-9/CFR-2026-title-9.zip",
+     "sha256": "691ad68992d8582d5633371f746f67ad2f1a0712be037b5baba2e0661b2d8739"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0319",
+   "short": "9 CFR Part 319",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 319",
+   "url": "https://www.ecfr.gov/current/title-9/part-319",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-07-30",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2026-06-03",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0320",
+   "short": "9 CFR Part 320",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 320",
+   "url": "https://www.ecfr.gov/current/title-9/part-320",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-07-30",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0321",
+   "short": "9 CFR Part 321",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 321",
+   "url": "https://www.ecfr.gov/current/title-9/part-321",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0322",
+   "short": "9 CFR Part 322",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 322",
+   "url": "https://www.ecfr.gov/current/title-9/part-322",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0325",
+   "short": "9 CFR Part 325",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 325",
+   "url": "https://www.ecfr.gov/current/title-9/part-325",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-07-30",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2025-06-26",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-9/CFR-2026-title-9.zip",
+     "sha256": "691ad68992d8582d5633371f746f67ad2f1a0712be037b5baba2e0661b2d8739"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0327",
+   "short": "9 CFR Part 327",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 327",
+   "url": "https://www.ecfr.gov/current/title-9/part-327",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2019-12-27",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2022-12-19",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0329",
+   "short": "9 CFR Part 329",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 329",
+   "url": "https://www.ecfr.gov/current/title-9/part-329",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0331",
+   "short": "9 CFR Part 331",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 331",
+   "url": "https://www.ecfr.gov/current/title-9/part-331",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-07-30",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2025-06-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-9/CFR-2026-title-9.zip",
+     "sha256": "691ad68992d8582d5633371f746f67ad2f1a0712be037b5baba2e0661b2d8739"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0332",
+   "short": "9 CFR Part 332",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 332",
+   "url": "https://www.ecfr.gov/current/title-9/part-332",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0335",
+   "short": "9 CFR Part 335",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 335",
+   "url": "https://www.ecfr.gov/current/title-9/part-335",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0350",
+   "short": "9 CFR Part 350",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 350",
+   "url": "https://www.ecfr.gov/current/title-9/part-350",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0351",
+   "short": "9 CFR Part 351",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 351",
+   "url": "https://www.ecfr.gov/current/title-9/part-351",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2022-12-19",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    },
+    {
+     "from": "2025-06-26",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-9/CFR-2026-title-9.zip",
+     "sha256": "691ad68992d8582d5633371f746f67ad2f1a0712be037b5baba2e0661b2d8739"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0352",
+   "short": "9 CFR Part 352",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 352",
+   "url": "https://www.ecfr.gov/current/title-9/part-352",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2021-09-13",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2023-03-20",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-9/CFR-2024-title-9.zip",
+     "sha256": "a63b0809008441aaf9bc00ee7af13116554b74d784a64611ff4b7c9ad90f67c4"
+    },
+    {
+     "from": "2025-04-21",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-9/CFR-2026-title-9.zip",
+     "sha256": "691ad68992d8582d5633371f746f67ad2f1a0712be037b5baba2e0661b2d8739"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0354",
+   "short": "9 CFR Part 354",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 354",
+   "url": "https://www.ecfr.gov/current/title-9/part-354",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 94,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2022-12-19",
+     "units": 94,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    },
+    {
+     "from": "2023-03-20",
+     "units": 94,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-9/CFR-2024-title-9.zip",
+     "sha256": "a63b0809008441aaf9bc00ee7af13116554b74d784a64611ff4b7c9ad90f67c4"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 94,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0355",
+   "short": "9 CFR Part 355",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 355",
+   "url": "https://www.ecfr.gov/current/title-9/part-355",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2022-07-19",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0362",
+   "short": "9 CFR Part 362",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 362",
+   "url": "https://www.ecfr.gov/current/title-9/part-362",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2023-03-20",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-9/CFR-2024-title-9.zip",
+     "sha256": "a63b0809008441aaf9bc00ee7af13116554b74d784a64611ff4b7c9ad90f67c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0381",
+   "short": "9 CFR Part 381",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 381",
+   "url": "https://www.ecfr.gov/current/title-9/part-381",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 235,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 235,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-9/CFR-2018-title-9.zip",
+     "sha256": "7fbbda3d7856220fbc36a57a3e5a97cab9471e952966829c41a79768f311f28c"
+    },
+    {
+     "from": "2018-07-30",
+     "units": 223,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2019-10-15",
+     "units": 223,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2019-12-27",
+     "units": 223,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2022-10-17",
+     "units": 223,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    },
+    {
+     "from": "2022-12-19",
+     "units": 223,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    },
+    {
+     "from": "2023-09-18",
+     "units": 223,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-9/CFR-2024-title-9.zip",
+     "sha256": "a63b0809008441aaf9bc00ee7af13116554b74d784a64611ff4b7c9ad90f67c4"
+    },
+    {
+     "from": "2024-05-17",
+     "units": 223,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-9/CFR-2025-title-9.zip",
+     "sha256": "3a33d46a91c06c8221ba2a5ec1e56557a62042fa2f8809bc2b8bf9ee913f2537"
+    },
+    {
+     "from": "2025-06-26",
+     "units": 223,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-9/CFR-2026-title-9.zip",
+     "sha256": "691ad68992d8582d5633371f746f67ad2f1a0712be037b5baba2e0661b2d8739"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 223,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0390",
+   "short": "9 CFR Part 390",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 390",
+   "url": "https://www.ecfr.gov/current/title-9/part-390",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2024-04-22",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-9/CFR-2025-title-9.zip",
+     "sha256": "3a33d46a91c06c8221ba2a5ec1e56557a62042fa2f8809bc2b8bf9ee913f2537"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0391",
+   "short": "9 CFR Part 391",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 391",
+   "url": "https://www.ecfr.gov/current/title-9/part-391",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0392",
+   "short": "9 CFR Part 392",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 392",
+   "url": "https://www.ecfr.gov/current/title-9/part-392",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0412",
+   "short": "9 CFR Part 412",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 412",
+   "url": "https://www.ecfr.gov/current/title-9/part-412",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2023-03-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-9/CFR-2024-title-9.zip",
+     "sha256": "a63b0809008441aaf9bc00ee7af13116554b74d784a64611ff4b7c9ad90f67c4"
+    },
+    {
+     "from": "2024-05-17",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-9/CFR-2025-title-9.zip",
+     "sha256": "3a33d46a91c06c8221ba2a5ec1e56557a62042fa2f8809bc2b8bf9ee913f2537"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0416",
+   "short": "9 CFR Part 416",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 416",
+   "url": "https://www.ecfr.gov/current/title-9/part-416",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0417",
+   "short": "9 CFR Part 417",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 417",
+   "url": "https://www.ecfr.gov/current/title-9/part-417",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-07-30",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2022-10-31",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0418",
+   "short": "9 CFR Part 418",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 418",
+   "url": "https://www.ecfr.gov/current/title-9/part-418",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0424",
+   "short": "9 CFR Part 424",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 424",
+   "url": "https://www.ecfr.gov/current/title-9/part-424",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-07-30",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2019-12-27",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-9/CFR-2026-title-9.zip",
+     "sha256": "691ad68992d8582d5633371f746f67ad2f1a0712be037b5baba2e0661b2d8739"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0430",
+   "short": "9 CFR Part 430",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 430",
+   "url": "https://www.ecfr.gov/current/title-9/part-430",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0431",
+   "short": "9 CFR Part 431",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 431",
+   "url": "https://www.ecfr.gov/current/title-9/part-431",
+   "versions": [
+    {
+     "from": "2018-07-30",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0439",
+   "short": "9 CFR Part 439",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 439",
+   "url": "https://www.ecfr.gov/current/title-9/part-439",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2022-10-24",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0441",
+   "short": "9 CFR Part 441",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 441",
+   "url": "https://www.ecfr.gov/current/title-9/part-441",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0442",
+   "short": "9 CFR Part 442",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 442",
+   "url": "https://www.ecfr.gov/current/title-9/part-442",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0500",
+   "short": "9 CFR Part 500",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 500",
+   "url": "https://www.ecfr.gov/current/title-9/part-500",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2020-12-28",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    },
+    {
+     "from": "2022-12-19",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    },
+    {
+     "from": "2024-07-03",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-9/CFR-2025-title-9.zip",
+     "sha256": "3a33d46a91c06c8221ba2a5ec1e56557a62042fa2f8809bc2b8bf9ee913f2537"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0530",
+   "short": "9 CFR Part 530",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 530",
+   "url": "https://www.ecfr.gov/current/title-9/part-530",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0531",
+   "short": "9 CFR Part 531",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 531",
+   "url": "https://www.ecfr.gov/current/title-9/part-531",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0532",
+   "short": "9 CFR Part 532",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 532",
+   "url": "https://www.ecfr.gov/current/title-9/part-532",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0533",
+   "short": "9 CFR Part 533",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 533",
+   "url": "https://www.ecfr.gov/current/title-9/part-533",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0534",
+   "short": "9 CFR Part 534",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 534",
+   "url": "https://www.ecfr.gov/current/title-9/part-534",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0537",
+   "short": "9 CFR Part 537",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 537",
+   "url": "https://www.ecfr.gov/current/title-9/part-537",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0539",
+   "short": "9 CFR Part 539",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 539",
+   "url": "https://www.ecfr.gov/current/title-9/part-539",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0540",
+   "short": "9 CFR Part 540",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 540",
+   "url": "https://www.ecfr.gov/current/title-9/part-540",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0541",
+   "short": "9 CFR Part 541",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 541",
+   "url": "https://www.ecfr.gov/current/title-9/part-541",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0544",
+   "short": "9 CFR Part 544",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 544",
+   "url": "https://www.ecfr.gov/current/title-9/part-544",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0548",
+   "short": "9 CFR Part 548",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 548",
+   "url": "https://www.ecfr.gov/current/title-9/part-548",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2018-07-30",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0550",
+   "short": "9 CFR Part 550",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 550",
+   "url": "https://www.ecfr.gov/current/title-9/part-550",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0552",
+   "short": "9 CFR Part 552",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 552",
+   "url": "https://www.ecfr.gov/current/title-9/part-552",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0555",
+   "short": "9 CFR Part 555",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 555",
+   "url": "https://www.ecfr.gov/current/title-9/part-555",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0557",
+   "short": "9 CFR Part 557",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 557",
+   "url": "https://www.ecfr.gov/current/title-9/part-557",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2019-12-27",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0559",
+   "short": "9 CFR Part 559",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 559",
+   "url": "https://www.ecfr.gov/current/title-9/part-559",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0560",
+   "short": "9 CFR Part 560",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 560",
+   "url": "https://www.ecfr.gov/current/title-9/part-560",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2025-06-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-9/CFR-2026-title-9.zip",
+     "sha256": "691ad68992d8582d5633371f746f67ad2f1a0712be037b5baba2e0661b2d8739"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0561",
+   "short": "9 CFR Part 561",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 561",
+   "url": "https://www.ecfr.gov/current/title-9/part-561",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0590",
+   "short": "9 CFR Part 590",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 590",
+   "url": "https://www.ecfr.gov/current/title-9/part-590",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 130,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2019-12-27",
+     "units": 130,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2020-12-28",
+     "units": 117,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    },
+    {
+     "from": "2021-10-29",
+     "units": 99,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2021-11-03",
+     "units": 99,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-9/CFR-2022-title-9.zip",
+     "sha256": "4308d2aa9cfce918e174e01941f6a8461674ae71b5a695b0f3617d3471c48d0e"
+    },
+    {
+     "from": "2022-10-31",
+     "units": 96,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    },
+    {
+     "from": "2022-12-19",
+     "units": 96,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 96,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0591",
+   "short": "9 CFR Part 591",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 591",
+   "url": "https://www.ecfr.gov/current/title-9/part-591",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-9/CFR-2021-title-9.zip",
+     "sha256": "8151d8d79e10e106eaf89552983720e22f0e016a2abb8a5d998b43bb292ce175"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-part-0592",
+   "short": "9 CFR Part 592",
+   "title": "Title 9 of the Code of Federal Regulations (Animals and Animal Products), Part 592",
+   "url": "https://www.ecfr.gov/current/title-9/part-592",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-9/CFR-2017-title-9.zip",
+     "sha256": "7c7759be5d091bc9e8c35146a2fdbdbc25ab25b4c5e339034e3712358d4e09fe"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-9/CFR-2019-title-9.zip",
+     "sha256": "3f0dbc40e3a64481a45436a1d418679bac0e02565542e43bbf6d87f85739ccd4"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-9/CFR-2020-title-9.zip",
+     "sha256": "84257e1e3554c2cf3d8d7b638c3f533fd645aaceb07d5d2e3a170e4674f32d1b"
+    },
+    {
+     "from": "2022-12-19",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-9/CFR-2023-title-9.zip",
+     "sha256": "87e11d489ee15ef3118ce2d2f709c43f5419c6e539546175429723994f5537e2"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-9/ECFR-title9.xml",
+     "sha256": "26d69302a5be11586e49b186bdfe6694b9d78e2ed422e5d4073b6740c20c2375"
+    }
+   ]
+  },
+  {
    "slug": "title-12-part-0001",
    "short": "12 CFR Part 1",
    "title": "Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1",
