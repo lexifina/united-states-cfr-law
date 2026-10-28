@@ -7775,20 +7775,90 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-46-part-0560` | Title 46 of the Code of Federal Regulations (Shipping), Part 560 | 4 | 2017-10-01 to 2023-06-05 |
 | `title-46-part-0565` | Title 46 of the Code of Federal Regulations (Shipping), Part 565 | 1 | 2017-10-01 to 2017-10-01 |
 | `title-46-part-other` | Title 46 of the Code of Federal Regulations (Shipping), Part other | 4 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0000` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 0 | 34 | 2017-10-01 to 2026-09-25 |
+| `title-47-part-0001` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 1 | 111 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0002` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 2 | 34 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0003` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 3 | 2 | 2017-10-01 to 2020-10-13 |
+| `title-47-part-0004` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 4 | 13 | 2017-10-01 to 2026-06-30 |
+| `title-47-part-0005` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 5 | 9 | 2017-10-01 to 2024-09-09 |
+| `title-47-part-0006` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 6 | 3 | 2017-10-01 to 2026-06-15 |
+| `title-47-part-0007` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 7 | 4 | 2017-10-01 to 2026-06-15 |
+| `title-47-part-0008` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 8 | 8 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0009` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 9 | 20 | 2017-10-01 to 2026-08-10 |
+| `title-47-part-0010` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 10 | 14 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0011` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 11 | 19 | 2017-10-01 to 2026-09-29 |
+| `title-47-part-0012` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 12 | 2 | 2017-10-01 to 2020-01-06 |
+| `title-47-part-0013` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 13 | 3 | 2017-10-01 to 2026-02-10 |
+| `title-47-part-0014` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 14 | 5 | 2017-10-01 to 2026-06-15 |
+| `title-47-part-0015` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 15 | 31 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0016` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 16 | 1 | 2024-03-22 to 2024-03-22 |
+| `title-47-part-0017` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 17 | 3 | 2017-10-01 to 2026-02-10 |
+| `title-47-part-0018` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 18 | 5 | 2017-10-01 to 2026-03-27 |
+| `title-47-part-0019` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 19 | 2 | 2017-10-01 to 2023-04-10 |
+| `title-47-part-0020` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 20 | 20 | 2017-10-01 to 2026-02-10 |
+| `title-47-part-0022` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 22 | 9 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0024` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 24 | 7 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0025` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 25 | 41 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0026` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 26 | 4 | 2024-09-04 to 2026-10-26 |
+| `title-47-part-0027` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 27 | 25 | 2017-10-01 to 2026-10-19 |
+| `title-47-part-0030` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 30 | 11 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0032` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 32 | 4 | 2017-10-01 to 2020-01-01 |
+| `title-47-part-0036` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 36 | 8 | 2017-10-01 to 2024-12-27 |
+| `title-47-part-0042` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 42 | 2 | 2017-10-01 to 2017-11-20 |
+| `title-47-part-0043` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 43 | 7 | 2017-10-01 to 2026-07-08 |
+| `title-47-part-0051` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 51 | 18 | 2017-10-01 to 2026-10-15 |
+| `title-47-part-0052` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 52 | 15 | 2017-10-01 to 2026-03-19 |
+| `title-47-part-0053` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 53 | 2 | 2017-10-01 to 2026-06-15 |
+| `title-47-part-0054` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 54 | 90 | 2017-10-01 to 2026-09-14 |
+| `title-47-part-0059` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 59 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-47-part-0061` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 61 | 10 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0063` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 63 | 13 | 2017-10-01 to 2026-10-15 |
+| `title-47-part-0064` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 64 | 76 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0065` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 65 | 5 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0067` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 67 | 3 | 2017-10-01 to 2023-04-10 |
+| `title-47-part-0068` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 68 | 14 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0069` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 69 | 7 | 2017-10-01 to 2026-06-15 |
+| `title-47-part-0073` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 73 | 101 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0074` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 74 | 48 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0076` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 76 | 41 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0078` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 78 | 5 | 2017-10-01 to 2026-02-13 |
+| `title-47-part-0079` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 79 | 11 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0080` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 80 | 11 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0087` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 87 | 10 | 2017-10-01 to 2026-02-13 |
+| `title-47-part-0088` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 88 | 2 | 2025-02-07 to 2026-02-10 |
+| `title-47-part-0090` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 90 | 33 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0095` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 95 | 17 | 2017-10-01 to 2026-08-21 |
+| `title-47-part-0096` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 96 | 5 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0097` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 97 | 13 | 2017-10-01 to 2026-02-13 |
+| `title-47-part-0101` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 101 | 15 | 2017-10-01 to 2026-10-26 |
+| `title-47-part-0201` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 201 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-47-part-0202` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 202 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-47-part-0211` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 211 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-47-part-0212` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 212 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-47-part-0213` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 213 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-47-part-0214` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 214 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-47-part-0215` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 215 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-47-part-0216` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 216 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-47-part-0300` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 300 | 5 | 2017-10-01 to 2023-11-21 |
+| `title-47-part-0301` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 301 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-47-part-0302` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 302 | 1 | 2021-06-15 to 2021-06-15 |
+| `title-47-part-0400` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 400 | 7 | 2017-10-01 to 2026-10-06 |
+| `title-47-part-0500` | Title 47 of the Code of Federal Regulations (Telecommunication), Part 500 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-47-part-other` | Title 47 of the Code of Federal Regulations (Telecommunication), Part other | 3 | 2017-10-01 to 2026-10-26 |
 
-The build made 28262 commits:
+The build made 29746 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 7759 | first version of an act |
-| 14225 | one law on its in-force day |
-| 6278 | changes no amendment note explains, credited to the publisher |
+| 7829 | first version of an act |
+| 15261 | one law on its in-force day |
+| 6656 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 16907 laws in the record.
-- 36640 tags.
+- 17978 laws in the record.
+- 38586 tags.
 
 ## Dates
 
@@ -7800,7 +7870,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `da4a017ad2ad3bab63f7e07154d1022bcfe8ac8d5d4c33edca752622d69205ea` (1252097850 bytes).
+- Corpus: sha256 `9822722b1e6f2bab1c8f41c19541baf07bc77a7adeccaac93ffe1909e272799e` (1292834882 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -7865,6 +7935,7 @@ No second build of this corpus has been compared yet.
 - Title 43: editions read: 2018 annual edition (to 2018-10-01); 2019 annual edition (to 2019-09-17); 2020 annual edition (to 2020-10-01); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-10-01); 2023 annual edition (to 2023-10-01); 2024 annual edition (to 2024-09-06); 2025 annual edition (to 2025-09-30); eCFR (to 2026-10-26).
 - Title 44: editions read: 2017 annual edition (to 2017-01-03); 2018 annual edition (to 2018-10-01); 2020 annual edition (to 2020-08-10); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-08-03); 2023 annual edition (to 2023-10-01); 2024 annual edition (to 2024-10-01); 2025 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
 - Title 46: editions read: 2017 annual edition (to 2017-10-01); 2018 annual edition (to 2018-12-14); 2019 annual edition (to 2019-10-01); 2020 annual edition (to 2020-10-01); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-10-01); 2023 annual edition (to 2023-10-01); 2024 annual edition (to 2024-10-01); 2025 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
+- Title 47: editions read: 2017 annual edition (to 2017-10-01); 2018 annual edition (to 2018-09-28); 2019 annual edition (to 2019-10-01); 2020 annual edition (to 2020-10-01); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-09-23); 2023 annual edition (to 2023-09-29); 2024 annual edition (to 2024-10-01); 2025 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
 
 ## What AI did and did not do
 

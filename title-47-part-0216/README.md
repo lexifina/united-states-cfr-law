@@ -1,0 +1,9 @@
+# Title 47 of the Code of Federal Regulations (Telecommunication), Part 216
+
+47 CFR Part 216 · 1 versions, from 2017-10-01 (latest in force: 2017-10-01) · <https://www.ecfr.gov/current/title-47/part-216>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Appendix to Part 216 | [appendix.md](appendix.md) | 0 |  |
+| § 216.1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| § 216.2 | [sec-0002.md](sec-0002.md) | 0 |  |
