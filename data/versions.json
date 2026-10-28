@@ -34090,6 +34090,656 @@
    ]
   },
   {
+   "slug": "title-06-part-0003",
+   "short": "6 CFR Part 3",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 3",
+   "url": "https://www.ecfr.gov/current/title-6/part-3",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    },
+    {
+     "from": "2024-04-04",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-6/CFR-2025-title-6.zip",
+     "sha256": "fcfdeea5a80ff083e06077409ae4c8a3406fc5148c0dfcbf6b9f57d6c8c1eeb1"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-0005",
+   "short": "6 CFR Part 5",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 5",
+   "url": "https://www.ecfr.gov/current/title-6/part-5",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    },
+    {
+     "from": "2017-07-17",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-6/CFR-2018-title-6.zip",
+     "sha256": "1d9a206ee5e17766469553718f5df1fa49bb1b06348a3e489c4ab6a7690d507f"
+    },
+    {
+     "from": "2018-07-27",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-6/CFR-2019-title-6.zip",
+     "sha256": "84510458c0b4c9eb23ee7cd02a5258d4cd474af8ac766c3fcb65619a681211f2"
+    },
+    {
+     "from": "2018-12-27",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-6/CFR-2019-title-6.zip",
+     "sha256": "84510458c0b4c9eb23ee7cd02a5258d4cd474af8ac766c3fcb65619a681211f2"
+    },
+    {
+     "from": "2019-08-30",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-6/CFR-2020-title-6.zip",
+     "sha256": "2a54546c4bc2830fecf10d7328d40bef0d086a77b443f632de0d8b6dc38a5258"
+    },
+    {
+     "from": "2020-02-28",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-6/CFR-2021-title-6.zip",
+     "sha256": "ae545b23d76eccfc786732c7423bdb56cce80e25729e1cb532239b0f33370417"
+    },
+    {
+     "from": "2020-04-23",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-6/CFR-2021-title-6.zip",
+     "sha256": "ae545b23d76eccfc786732c7423bdb56cce80e25729e1cb532239b0f33370417"
+    },
+    {
+     "from": "2020-10-06",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-6/CFR-2021-title-6.zip",
+     "sha256": "ae545b23d76eccfc786732c7423bdb56cce80e25729e1cb532239b0f33370417"
+    },
+    {
+     "from": "2021-12-09",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-6/CFR-2022-title-6.zip",
+     "sha256": "16890aa02a071fc7ca072f2086f83e8f4db894e7adb69b91032a749ef2534e73"
+    },
+    {
+     "from": "2022-02-04",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-6/CFR-2023-title-6.zip",
+     "sha256": "7fcc5fe04f7622b1c2eb97ac0e7020e91c398f7107b91e0b9d8e793b85090263"
+    },
+    {
+     "from": "2022-11-16",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-6/CFR-2023-title-6.zip",
+     "sha256": "7fcc5fe04f7622b1c2eb97ac0e7020e91c398f7107b91e0b9d8e793b85090263"
+    },
+    {
+     "from": "2022-12-16",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-6/CFR-2023-title-6.zip",
+     "sha256": "7fcc5fe04f7622b1c2eb97ac0e7020e91c398f7107b91e0b9d8e793b85090263"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-6/CFR-2024-title-6.zip",
+     "sha256": "ac1d7ad7571019403f3c059f7e7779ce8092946cf0422f9045bc9d1db3a9420c"
+    },
+    {
+     "from": "2024-03-28",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-6/CFR-2025-title-6.zip",
+     "sha256": "fcfdeea5a80ff083e06077409ae4c8a3406fc5148c0dfcbf6b9f57d6c8c1eeb1"
+    },
+    {
+     "from": "2024-11-19",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-6/CFR-2025-title-6.zip",
+     "sha256": "fcfdeea5a80ff083e06077409ae4c8a3406fc5148c0dfcbf6b9f57d6c8c1eeb1"
+    },
+    {
+     "from": "2026-01-22",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-6/ECFR-title6.xml",
+     "sha256": "59b2659a2c235e7ffe636e0b71904f6d29942c51ed9238902749a253684d0e0a"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-6/ECFR-title6.xml",
+     "sha256": "59b2659a2c235e7ffe636e0b71904f6d29942c51ed9238902749a253684d0e0a"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-0007",
+   "short": "6 CFR Part 7",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 7",
+   "url": "https://www.ecfr.gov/current/title-6/part-7",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-0009",
+   "short": "6 CFR Part 9",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 9",
+   "url": "https://www.ecfr.gov/current/title-6/part-9",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-6/ECFR-title6.xml",
+     "sha256": "59b2659a2c235e7ffe636e0b71904f6d29942c51ed9238902749a253684d0e0a"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-0011",
+   "short": "6 CFR Part 11",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 11",
+   "url": "https://www.ecfr.gov/current/title-6/part-11",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-0013",
+   "short": "6 CFR Part 13",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 13",
+   "url": "https://www.ecfr.gov/current/title-6/part-13",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    },
+    {
+     "from": "2025-11-03",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-6/ECFR-title6.xml",
+     "sha256": "59b2659a2c235e7ffe636e0b71904f6d29942c51ed9238902749a253684d0e0a"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-0015",
+   "short": "6 CFR Part 15",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 15",
+   "url": "https://www.ecfr.gov/current/title-6/part-15",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-0017",
+   "short": "6 CFR Part 17",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 17",
+   "url": "https://www.ecfr.gov/current/title-6/part-17",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 46,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-0019",
+   "short": "6 CFR Part 19",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 19",
+   "url": "https://www.ecfr.gov/current/title-6/part-19",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    },
+    {
+     "from": "2020-12-17",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-6/CFR-2021-title-6.zip",
+     "sha256": "ae545b23d76eccfc786732c7423bdb56cce80e25729e1cb532239b0f33370417"
+    },
+    {
+     "from": "2021-01-19",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-6/CFR-2022-title-6.zip",
+     "sha256": "16890aa02a071fc7ca072f2086f83e8f4db894e7adb69b91032a749ef2534e73"
+    },
+    {
+     "from": "2024-04-03",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-6/CFR-2025-title-6.zip",
+     "sha256": "fcfdeea5a80ff083e06077409ae4c8a3406fc5148c0dfcbf6b9f57d6c8c1eeb1"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-0021",
+   "short": "6 CFR Part 21",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 21",
+   "url": "https://www.ecfr.gov/current/title-6/part-21",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    },
+    {
+     "from": "2026-06-22",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-6/ECFR-title6.xml",
+     "sha256": "59b2659a2c235e7ffe636e0b71904f6d29942c51ed9238902749a253684d0e0a"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-0025",
+   "short": "6 CFR Part 25",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 25",
+   "url": "https://www.ecfr.gov/current/title-6/part-25",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-0027",
+   "short": "6 CFR Part 27",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 27",
+   "url": "https://www.ecfr.gov/current/title-6/part-27",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    },
+    {
+     "from": "2017-03-31",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-6/CFR-2018-title-6.zip",
+     "sha256": "1d9a206ee5e17766469553718f5df1fa49bb1b06348a3e489c4ab6a7690d507f"
+    },
+    {
+     "from": "2018-04-02",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-6/CFR-2019-title-6.zip",
+     "sha256": "84510458c0b4c9eb23ee7cd02a5258d4cd474af8ac766c3fcb65619a681211f2"
+    },
+    {
+     "from": "2019-04-05",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-6/CFR-2020-title-6.zip",
+     "sha256": "2a54546c4bc2830fecf10d7328d40bef0d086a77b443f632de0d8b6dc38a5258"
+    },
+    {
+     "from": "2020-06-17",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-6/CFR-2021-title-6.zip",
+     "sha256": "ae545b23d76eccfc786732c7423bdb56cce80e25729e1cb532239b0f33370417"
+    },
+    {
+     "from": "2021-08-04",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-6/CFR-2022-title-6.zip",
+     "sha256": "16890aa02a071fc7ca072f2086f83e8f4db894e7adb69b91032a749ef2534e73"
+    },
+    {
+     "from": "2021-10-18",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-6/CFR-2022-title-6.zip",
+     "sha256": "16890aa02a071fc7ca072f2086f83e8f4db894e7adb69b91032a749ef2534e73"
+    },
+    {
+     "from": "2022-01-11",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-6/CFR-2023-title-6.zip",
+     "sha256": "7fcc5fe04f7622b1c2eb97ac0e7020e91c398f7107b91e0b9d8e793b85090263"
+    },
+    {
+     "from": "2023-01-13",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-6/CFR-2024-title-6.zip",
+     "sha256": "ac1d7ad7571019403f3c059f7e7779ce8092946cf0422f9045bc9d1db3a9420c"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-6/ECFR-title6.xml",
+     "sha256": "59b2659a2c235e7ffe636e0b71904f6d29942c51ed9238902749a253684d0e0a"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-0029",
+   "short": "6 CFR Part 29",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 29",
+   "url": "https://www.ecfr.gov/current/title-6/part-29",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-6/CFR-2022-title-6.zip",
+     "sha256": "16890aa02a071fc7ca072f2086f83e8f4db894e7adb69b91032a749ef2534e73"
+    },
+    {
+     "from": "2022-12-21",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-6/CFR-2023-title-6.zip",
+     "sha256": "7fcc5fe04f7622b1c2eb97ac0e7020e91c398f7107b91e0b9d8e793b85090263"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-0037",
+   "short": "6 CFR Part 37",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 37",
+   "url": "https://www.ecfr.gov/current/title-6/part-37",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    },
+    {
+     "from": "2019-09-04",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-6/CFR-2020-title-6.zip",
+     "sha256": "2a54546c4bc2830fecf10d7328d40bef0d086a77b443f632de0d8b6dc38a5258"
+    },
+    {
+     "from": "2019-10-15",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-6/CFR-2020-title-6.zip",
+     "sha256": "2a54546c4bc2830fecf10d7328d40bef0d086a77b443f632de0d8b6dc38a5258"
+    },
+    {
+     "from": "2020-04-27",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-6/CFR-2021-title-6.zip",
+     "sha256": "ae545b23d76eccfc786732c7423bdb56cce80e25729e1cb532239b0f33370417"
+    },
+    {
+     "from": "2021-05-03",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-6/CFR-2022-title-6.zip",
+     "sha256": "16890aa02a071fc7ca072f2086f83e8f4db894e7adb69b91032a749ef2534e73"
+    },
+    {
+     "from": "2023-03-09",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-6/CFR-2024-title-6.zip",
+     "sha256": "ac1d7ad7571019403f3c059f7e7779ce8092946cf0422f9045bc9d1db3a9420c"
+    },
+    {
+     "from": "2023-07-12",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-6/CFR-2024-title-6.zip",
+     "sha256": "ac1d7ad7571019403f3c059f7e7779ce8092946cf0422f9045bc9d1db3a9420c"
+    },
+    {
+     "from": "2024-11-25",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-6/CFR-2025-title-6.zip",
+     "sha256": "fcfdeea5a80ff083e06077409ae4c8a3406fc5148c0dfcbf6b9f57d6c8c1eeb1"
+    },
+    {
+     "from": "2025-01-14",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-6/ECFR-title6.xml",
+     "sha256": "59b2659a2c235e7ffe636e0b71904f6d29942c51ed9238902749a253684d0e0a"
+    },
+    {
+     "from": "2025-05-21",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-6/ECFR-title6.xml",
+     "sha256": "59b2659a2c235e7ffe636e0b71904f6d29942c51ed9238902749a253684d0e0a"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-0046",
+   "short": "6 CFR Part 46",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 46",
+   "url": "https://www.ecfr.gov/current/title-6/part-46",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-6/CFR-2018-title-6.zip",
+     "sha256": "1d9a206ee5e17766469553718f5df1fa49bb1b06348a3e489c4ab6a7690d507f"
+    },
+    {
+     "from": "2018-07-19",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-6/CFR-2019-title-6.zip",
+     "sha256": "84510458c0b4c9eb23ee7cd02a5258d4cd474af8ac766c3fcb65619a681211f2"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-0115",
+   "short": "6 CFR Part 115",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 115",
+   "url": "https://www.ecfr.gov/current/title-6/part-115",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 91,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-0124",
+   "short": "6 CFR Part 124",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 124",
+   "url": "https://www.ecfr.gov/current/title-6/part-124",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-6/ECFR-title6.xml",
+     "sha256": "59b2659a2c235e7ffe636e0b71904f6d29942c51ed9238902749a253684d0e0a"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-0126",
+   "short": "6 CFR Part 126",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 126",
+   "url": "https://www.ecfr.gov/current/title-6/part-126",
+   "versions": [
+    {
+     "from": "2022-09-08",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-6/CFR-2023-title-6.zip",
+     "sha256": "7fcc5fe04f7622b1c2eb97ac0e7020e91c398f7107b91e0b9d8e793b85090263"
+    },
+    {
+     "from": "2024-05-13",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-6/CFR-2025-title-6.zip",
+     "sha256": "fcfdeea5a80ff083e06077409ae4c8a3406fc5148c0dfcbf6b9f57d6c8c1eeb1"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-0139",
+   "short": "6 CFR Part 139",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 139",
+   "url": "https://www.ecfr.gov/current/title-6/part-139",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-6/ECFR-title6.xml",
+     "sha256": "59b2659a2c235e7ffe636e0b71904f6d29942c51ed9238902749a253684d0e0a"
+    },
+    {
+     "from": "2026-02-09",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-6/ECFR-title6.xml",
+     "sha256": "59b2659a2c235e7ffe636e0b71904f6d29942c51ed9238902749a253684d0e0a"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-0158",
+   "short": "6 CFR Part 158",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 158",
+   "url": "https://www.ecfr.gov/current/title-6/part-158",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 79,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-6/CFR-2022-title-6.zip",
+     "sha256": "16890aa02a071fc7ca072f2086f83e8f4db894e7adb69b91032a749ef2534e73"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-1000",
+   "short": "6 CFR Part 1000",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 1000",
+   "url": "https://www.ecfr.gov/current/title-6/part-1000",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    },
+    {
+     "from": "2019-08-28",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-6/CFR-2020-title-6.zip",
+     "sha256": "2a54546c4bc2830fecf10d7328d40bef0d086a77b443f632de0d8b6dc38a5258"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-1001",
+   "short": "6 CFR Part 1001",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 1001",
+   "url": "https://www.ecfr.gov/current/title-6/part-1001",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    },
+    {
+     "from": "2017-08-28",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-6/CFR-2018-title-6.zip",
+     "sha256": "1d9a206ee5e17766469553718f5df1fa49bb1b06348a3e489c4ab6a7690d507f"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-1002",
+   "short": "6 CFR Part 1002",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 1002",
+   "url": "https://www.ecfr.gov/current/title-6/part-1002",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-1003",
+   "short": "6 CFR Part 1003",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part 1003",
+   "url": "https://www.ecfr.gov/current/title-6/part-1003",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    },
+    {
+     "from": "2017-08-28",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-6/CFR-2018-title-6.zip",
+     "sha256": "1d9a206ee5e17766469553718f5df1fa49bb1b06348a3e489c4ab6a7690d507f"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-part-other",
+   "short": "6 CFR Part other",
+   "title": "Title 6 of the Code of Federal Regulations (Domestic Security), Part other",
+   "url": "https://www.ecfr.gov/current/title-6/part-other",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-6/CFR-2017-title-6.zip",
+     "sha256": "4650bc305a94937301f43a24f43c01e33b5edd78241a354f4e74794a9e91a59a"
+    },
+    {
+     "from": "2018-07-27",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-6/CFR-2019-title-6.zip",
+     "sha256": "84510458c0b4c9eb23ee7cd02a5258d4cd474af8ac766c3fcb65619a681211f2"
+    }
+   ]
+  },
+  {
    "slug": "title-12-part-0001",
    "short": "12 CFR Part 1",
    "title": "Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1",

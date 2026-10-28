@@ -1169,6 +1169,31 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-05-part-10201` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 10201 | 1 | 2021-06-04 to 2021-06-04 |
 | `title-05-part-10300` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 10300 | 1 | 2024-01-01 to 2024-01-01 |
 | `title-05-part-10400` | Title 5 of the Code of Federal Regulations (Administrative Personnel), Part 10400 | 1 | 2023-03-10 to 2023-03-10 |
+| `title-06-part-0003` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 3 | 2 | 2016-12-22 to 2024-04-04 |
+| `title-06-part-0005` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 5 | 17 | 2016-12-22 to 2026-10-26 |
+| `title-06-part-0007` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 7 | 1 | 2016-12-22 to 2016-12-22 |
+| `title-06-part-0009` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 9 | 2 | 2016-12-22 to 2026-10-26 |
+| `title-06-part-0011` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 11 | 1 | 2016-12-22 to 2016-12-22 |
+| `title-06-part-0013` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 13 | 2 | 2016-12-22 to 2025-11-03 |
+| `title-06-part-0015` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 15 | 1 | 2016-12-22 to 2016-12-22 |
+| `title-06-part-0017` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 17 | 1 | 2016-12-22 to 2016-12-22 |
+| `title-06-part-0019` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 19 | 4 | 2016-12-22 to 2024-04-03 |
+| `title-06-part-0021` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 21 | 2 | 2016-12-22 to 2026-06-22 |
+| `title-06-part-0025` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 25 | 1 | 2016-12-22 to 2016-12-22 |
+| `title-06-part-0027` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 27 | 10 | 2016-12-22 to 2026-10-26 |
+| `title-06-part-0029` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 29 | 3 | 2016-12-22 to 2022-12-21 |
+| `title-06-part-0037` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 37 | 10 | 2016-12-22 to 2025-05-21 |
+| `title-06-part-0046` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 46 | 2 | 2018-01-01 to 2018-07-19 |
+| `title-06-part-0115` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 115 | 1 | 2016-12-22 to 2016-12-22 |
+| `title-06-part-0124` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 124 | 1 | 2026-07-06 to 2026-07-06 |
+| `title-06-part-0126` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 126 | 2 | 2022-09-08 to 2024-05-13 |
+| `title-06-part-0139` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 139 | 2 | 2025-11-05 to 2026-02-09 |
+| `title-06-part-0158` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 158 | 1 | 2021-11-15 to 2021-11-15 |
+| `title-06-part-1000` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 1000 | 2 | 2016-12-22 to 2019-08-28 |
+| `title-06-part-1001` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 1001 | 2 | 2016-12-22 to 2017-08-28 |
+| `title-06-part-1002` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 1002 | 1 | 2016-12-22 to 2016-12-22 |
+| `title-06-part-1003` | Title 6 of the Code of Federal Regulations (Domestic Security), Part 1003 | 2 | 2016-12-22 to 2017-08-28 |
+| `title-06-part-other` | Title 6 of the Code of Federal Regulations (Domestic Security), Part other | 2 | 2016-12-22 to 2018-07-27 |
 | `title-12-part-0001` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1 | 3 | 2017-01-01 to 2026-06-09 |
 | `title-12-part-0002` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 2 | 1 | 2017-01-01 to 2017-01-01 |
 | `title-12-part-0003` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 3 | 30 | 2017-01-01 to 2026-10-26 |
@@ -2137,19 +2162,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 11118 commits:
+The build made 11215 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2120 | first version of an act |
-| 6484 | one law on its in-force day |
-| 2514 | changes no amendment note explains, credited to the publisher |
+| 2145 | first version of an act |
+| 6535 | one law on its in-force day |
+| 2535 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 7672 laws in the record.
-- 14155 tags.
+- 7738 laws in the record.
+- 14280 tags.
 
 ## Dates
 
@@ -2161,7 +2186,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `300bd5e0b194e7caea831fb6df31e11ae71f046d8de78345948fbc2d5dd48da2` (681363081 bytes).
+- Corpus: sha256 `b3f33959d04e7361dee01a6a4ead278f9ed673234524dd89d1080c4eb1636a3f` (687452131 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -2188,6 +2213,7 @@ No second build of this corpus has been compared yet.
 - Title 3: editions read: eCFR (to 2026-10-26).
 - Title 4: editions read: 2018 annual edition (to 2017-12-08); 2019 annual edition (to 2018-05-01); eCFR (to 2026-10-26).
 - Title 5: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2019-10-31); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2021-12-23); 2023 annual edition (to 2022-12-13); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2024-12-26); eCFR (to 2026-10-26).
+- Title 6: editions read: 2017 annual edition (to 2016-12-22); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 12: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
